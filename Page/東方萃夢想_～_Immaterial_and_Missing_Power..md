@@ -6,7 +6,7 @@
 
 本作于2004年4月2日宣布制作，在[第一届博丽神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博丽神社例大祭 "wikilink")（2004年4月18日）以[CD-R盘发布表现测试版](https://zh.wikipedia.org/wiki/CD-R "wikilink")，[C66第三天](../Page/Comic_Market.md "wikilink")（2004年8月15日）发布体验版，最终于[C67第二天](../Page/Comic_Market.md "wikilink")（2004年12月30日）正式发售。
 
-本次为第一次和同人游戏开发组织[黄昏边境合作开发的第一部对战型](https://zh.wikipedia.org/wiki/黄昏边境 "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，由黄昏边境负责程序开发，[上海爱莉丝幻乐团](https://zh.wikipedia.org/wiki/上海爱莉丝幻乐团 "wikilink")（即[ZUN一人](../Page/ZUN.md "wikilink")）负责人物设定，场景设定，剧情和音乐设计。使用角色基于[妖妖夢和](https://zh.wikipedia.org/wiki/妖妖夢 "wikilink")[红魔乡再外加一名新角色](https://zh.wikipedia.org/wiki/红魔乡 "wikilink")，共10名角色登场（通过添加[补丁和特定的打开条件可多使用](https://zh.wikipedia.org/wiki/修補程式 "wikilink")1名角色）。
+本次为第一次和同人游戏开发组织[黄昏边境合作开发的第一部对战型](https://zh.wikipedia.org/wiki/黄昏边境 "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，由黄昏边境负责程序开发，[上海爱莉丝幻乐团](https://zh.wikipedia.org/wiki/上海爱莉丝幻乐团 "wikilink")（即[ZUN](../Page/ZUN.md "wikilink")一人）负责人物设定，场景设定，剧情和音乐设计。使用角色基于[妖妖夢和](https://zh.wikipedia.org/wiki/妖妖夢 "wikilink")[红魔乡再外加一名新角色](https://zh.wikipedia.org/wiki/红魔乡 "wikilink")，共10名角色登场（通过添加[补丁和特定的打开条件可多使用](https://zh.wikipedia.org/wiki/修補程式 "wikilink")1名角色）。
 
 ## 故事
 
@@ -16,8 +16,7 @@
 
 ## 基本系统
 
-[th75_gameplay.jpg](https://zh.wikipedia.org/wiki/File:th75_gameplay.jpg "fig:th75_gameplay.jpg")
-本作为对战[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，有与本系列其他作有所不同的操作系统。
+[th75_gameplay.jpg](https://zh.wikipedia.org/wiki/File:th75_gameplay.jpg "fig:th75_gameplay.jpg") 本作为对战[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，有与本系列其他作有所不同的操作系统。
 
 ### 自机选择
 
@@ -154,12 +153,7 @@
   - [](http://www.tasofro.net/touhou/index.html)（黄昏边境的东方萃梦想官方网站）
   - [](http://www16.big.or.jp/~zun/html/th075.html)（）
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
 
 1.  所有非正作（即非弹幕射击游戏类）的以带小数标记。發布時間其實晚於第8作《[永夜抄](https://zh.wikipedia.org/wiki/永夜抄 "wikilink")》，但因故事背景設定於《永夜抄》之前、《[妖妖夢](https://zh.wikipedia.org/wiki/妖妖夢 "wikilink")》之後，故定為第7.5作。
 2.  基于[幻想鄉\#作中有登场的异变](https://zh.wikipedia.org/wiki/幻想鄉#作中有登场的异变 "wikilink")，每隔三日的百鬼夜行

@@ -19,9 +19,6 @@
   -
 ## 參考來源
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2010年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Gaon專輯月榜冠軍作品 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2010年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.

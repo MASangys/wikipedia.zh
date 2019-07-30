@@ -1,13 +1,8 @@
-**超极本**（），有譯**超級-{}-本**、**超-{}-筆電**、**超輕薄-{}-筆電**、**超極致-{}-筆電**，是[英特爾所提出的一種](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")[類型](https://zh.wikipedia.org/wiki/類型 "wikilink")。\[1\]比起一般的筆記型電腦，超筆電的特色為體積較薄、重量較輕、开机快和擁有較久的電池續航力。市面上第一款推出的超極本是[宏碁的](../Page/宏碁.md "wikilink")[Acer
-Aspire
-S3-951](https://zh.wikipedia.org/wiki/Acer_Aspire_S3-951 "wikilink")
-蜂鳥超極本。
-[Asus_x21_ultrabook.jpg](https://zh.wikipedia.org/wiki/File:Asus_x21_ultrabook.jpg "fig:Asus_x21_ultrabook.jpg")
-[ACER_S3_ULTRABOOK.JPG](https://zh.wikipedia.org/wiki/File:ACER_S3_ULTRABOOK.JPG "fig:ACER_S3_ULTRABOOK.JPG")
+**超极本**（），有譯**超級-{}-本**、**超-{}-筆電**、**超輕薄-{}-筆電**、**超極致-{}-筆電**，是[英特爾所提出的一種](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")[類型](https://zh.wikipedia.org/wiki/類型 "wikilink")。\[1\]比起一般的筆記型電腦，超筆電的特色為體積較薄、重量較輕、开机快和擁有較久的電池續航力。市面上第一款推出的超極本是[宏碁](../Page/宏碁.md "wikilink")的[Acer Aspire S3-951](https://zh.wikipedia.org/wiki/Acer_Aspire_S3-951 "wikilink") 蜂鳥超極本。 [Asus_x21_ultrabook.jpg](https://zh.wikipedia.org/wiki/File:Asus_x21_ultrabook.jpg "fig:Asus_x21_ultrabook.jpg") [ACER_S3_ULTRABOOK.JPG](https://zh.wikipedia.org/wiki/File:ACER_S3_ULTRABOOK.JPG "fig:ACER_S3_ULTRABOOK.JPG")
 
 ## 起源
 
-「Ultrabook」由[英特爾註冊商標](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，2011年於[台北國際電腦展覽會](../Page/台北國際電腦展覽會.md "wikilink")（Computex）推出，\[2\]英特爾對其投資三億[美元的基金](../Page/美元.md "wikilink")，打算繼全球3C產業對[iMac](https://zh.wikipedia.org/wiki/iMac "wikilink")、[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")、[iPhone及](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPad的跟進風潮後](https://zh.wikipedia.org/wiki/iPad "wikilink")，繼續仿效蘋果的成功策略。
+「Ultrabook」由[英特爾註冊商標](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，2011年於[台北國際電腦展覽會](../Page/台北國際電腦展覽會.md "wikilink")（Computex）推出，\[2\]英特爾對其投資三億[美元](../Page/美元.md "wikilink")的基金，打算繼全球3C產業對[iMac](https://zh.wikipedia.org/wiki/iMac "wikilink")、[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")、[iPhone及](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPad的跟進風潮後](https://zh.wikipedia.org/wiki/iPad "wikilink")，繼續仿效蘋果的成功策略。
 
 ## 定義
 
@@ -21,8 +16,7 @@ Ultrabook通常具有的特性：
 
 ## 發展規劃
 
-英特爾計劃將超極致筆電在未來2011到2013年實行三步驟，並伴以低電壓的Sandy Bridge，Ivy Bridge，和
-Haswell處理器。
+英特爾計劃將超極致筆電在未來2011到2013年實行三步驟，並伴以低電壓的Sandy Bridge，Ivy Bridge，和 Haswell處理器。
 
 <big>第一階段 2011年第四季度</big>
 
@@ -198,32 +192,20 @@ Haswell處理器。
 <sup>1</sup> 各個型號又分別細分為若干子型號，主要差異為中央處理器與顯示晶片。本表格稱各型號的子型號中，配備最低階的為基本型。
 <sup>2</sup> 價格為製造商宣布，或者上市時的定價。
 <sup>3</sup> 本規格為筆電製造商公佈數據。
-<sup>4</sup>
-瓦小時（Wh）是能量單位，1瓦小時等於3600[焦耳](../Page/焦耳.md "wikilink")。出現在電池的規格時，代表全新電池自充滿電至完全放電過程中，所釋放的總能量的理論值。
+<sup>4</sup> 瓦小時（Wh）是能量單位，1瓦小時等於3600[焦耳](../Page/焦耳.md "wikilink")。出現在電池的規格時，代表全新電池自充滿電至完全放電過程中，所釋放的總能量的理論值。
 
 ## 註釋
 
-[Category:英特爾產品](https://zh.wikipedia.org/wiki/Category:英特爾產品 "wikilink")
-[Category:筆記型電腦](https://zh.wikipedia.org/wiki/Category:筆記型電腦 "wikilink")
+[Category:英特爾產品](https://zh.wikipedia.org/wiki/Category:英特爾產品 "wikilink") [Category:筆記型電腦](https://zh.wikipedia.org/wiki/Category:筆記型電腦 "wikilink")
 
-1.  [Intel reveals skinny Ivy Bridge 'Ultrabooks,' Moore's Law-defying
-    Atoms](http://www.engadget.com/2011/05/30/intel-reveals-skinny-ivy-bridge-ultrabooks-moores-law-defyin/).
-    Engadget.com. Retrieved on 2011-09-07.
-2.  [Video: Sean Maloney Keynote Intel at
-    Computex 2011, 29:40](http://intelstudios.edgesuite.net/computex/2011/sm/f.htm).
-    Intelstudios.edgesuite.net. Retrieved on 2011-09-07.
+1.  [Intel reveals skinny Ivy Bridge 'Ultrabooks,' Moore's Law-defying Atoms](http://www.engadget.com/2011/05/30/intel-reveals-skinny-ivy-bridge-ultrabooks-moores-law-defyin/). Engadget.com. Retrieved on 2011-09-07.
+2.  [Video: Sean Maloney Keynote Intel at Computex 2011, 29:40](http://intelstudios.edgesuite.net/computex/2011/sm/f.htm). Intelstudios.edgesuite.net. Retrieved on 2011-09-07.
 3.  <https://ark.intel.com/zh-tw/products/137979/Intel-Core-i7-8559U-Processor-8M-Cache-up-to-4-50-GHz->
 4.
 5.  <http://news.cnet.com/8301-17938_105-20118209-1/windows-$899-ultrabook-arrives-acer-aspire-s3/>
 6.  <http://www.washingtonpost.com/business/economy/asus-launches-zenbook-laptop/2011/10/12/gIQAdiuzfL_story.html>
 7.  <http://www.washingtonpost.com/business/economy/asus-launches-zenbook-laptop/2011/10/12/gIQAdiuzfL_story.html>
-8.  [Lenovo announces U300s Ultrabook, U300 and U400
-    IdeaPads](http://www.engadget.com/2011/09/01/lenovo-announces-u300s-ultrabook-u300-and-u400-ideapads-we-go/).
-    Engadget.com (2011-09-01). Retrieved on 2011-09-07.
+8.  [Lenovo announces U300s Ultrabook, U300 and U400 IdeaPads](http://www.engadget.com/2011/09/01/lenovo-announces-u300s-ultrabook-u300-and-u400-ideapads-we-go/). Engadget.com (2011-09-01). Retrieved on 2011-09-07.
 9.
-10. [Toshiba Portege Z830 Ultrabook Arrives in
-    November](http://lenzfire.com/2011/09/toshiba-portege-z830-ultrabook-arrives-in-november-99623/).
-    Retrieved on 2011-09-10.
-11. [Toshiba Announces 13-inch Portege Z830 and Z835
-    Ultrabooks](http://blog.laptopmag.com/toshiba-announces-13-inch-portege-z830-and-z835-its-first-ultrabooks).
-    Blog.laptopmag.com (2011-09-01). Retrieved on 2011-09-07.
+10. [Toshiba Portege Z830 Ultrabook Arrives in November](http://lenzfire.com/2011/09/toshiba-portege-z830-ultrabook-arrives-in-november-99623/). Retrieved on 2011-09-10.
+11. [Toshiba Announces 13-inch Portege Z830 and Z835 Ultrabooks](http://blog.laptopmag.com/toshiba-announces-13-inch-portege-z830-and-z835-its-first-ultrabooks). Blog.laptopmag.com (2011-09-01). Retrieved on 2011-09-07.

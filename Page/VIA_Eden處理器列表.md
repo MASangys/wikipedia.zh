@@ -6,9 +6,7 @@ Eden核心為VIA公司的第五代第六代微處理器產品，主要面向嵌�
 
 #### "Samuel 2" (150 nm)
 
-  - 指令集:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 指令集: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號           | 頻率 (MHz) | L2快取(KB) | [匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 倍頻   | 電壓     | 功耗(W) | 腳座   | 發行日               | 代碼 |
 | ------------ | -------- | -------- | --------------------------------------------------- | ---- | ------ | ----- | ---- | ----------------- | -- |
@@ -19,10 +17,7 @@ Eden核心為VIA公司的第五代第六代微處理器產品，主要面向嵌�
 
 #### ["Nehemiah"](https://zh.wikipedia.org/wiki/VIA_C3#Nehemiah "wikilink") (130 nm)
 
-  - 指令集:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    VIA PadLock (AES, RNG)*
+  - 指令集: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), VIA PadLock (AES, RNG)*
 
 | 型號            | 頻率 (MHz) | L2快取(KB) | [匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 倍頻   | 電壓     | 功耗(W) | CPU腳位 | 發行日               | 產品編號 |
 | ------------- | -------- | -------- | --------------------------------------------------- | ---- | ------ | ----- | ----- | ----------------- | ---- |
@@ -35,13 +30,8 @@ Eden核心為VIA公司的第五代第六代微處理器產品，主要面向嵌�
 
 #### ["Nehemiah"](https://zh.wikipedia.org/wiki/VIA_C3#Nehemiah "wikilink") (130 nm)
 
-  - 指令集:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    VIA PadLock (AES, RNG)*
-  - [VIA
-    PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink")
-    supported
+  - 指令集: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), VIA PadLock (AES, RNG)*
+  - [VIA PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink") supported
 
 | 型號            | 頻率 (MHz) | L2快取(KB) | [匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 倍頻   | 電壓     | 功耗(W)     | 腳座      | 發行日              | 代碼 |
 | ------------- | -------- | -------- | --------------------------------------------------- | ---- | ------ | --------- | ------- | ---------------- | -- |
@@ -53,17 +43,8 @@ Eden核心為VIA公司的第五代第六代微處理器產品，主要面向嵌�
 
 #### ["Esther"](https://zh.wikipedia.org/wiki/VIA_C7 "wikilink") (標準電壓, 90 nm)
 
-  - 指令集:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), VIA PadLock
-    (SHA, AES, Montgomery Multiplier, RNG)*
-  - [VIA
-    PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink")
-    supported with up to 8
-    [ACPI](https://zh.wikipedia.org/wiki/ACPI "wikilink") P-states
+  - 指令集: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), VIA PadLock (SHA, AES, Montgomery Multiplier, RNG)*
+  - [VIA PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink") supported with up to 8 [ACPI](https://zh.wikipedia.org/wiki/ACPI "wikilink") P-states
   - Idle power 500 mW
 
 | 型號          | 頻率 (MHz) | L2緩存(KB) | [匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 倍頻  | 電壓           | 功耗(W) | 腳座       | 發行日              | 代碼 |
@@ -77,13 +58,7 @@ Eden核心為VIA公司的第五代第六代微處理器產品，主要面向嵌�
 
 #### ["Esther"](https://zh.wikipedia.org/wiki/VIA_C7#Esther "wikilink") (超低電壓, 90 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), VIA PadLock
-    (SHA, AES, Montgomery Multiplier, RNG)*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), VIA PadLock (SHA, AES, Montgomery Multiplier, RNG)*
 
 | 型號               | 頻率       | L2快取    | 前端匯流排    | 倍頻   | 核心電壓     | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | Idle Power | CPU腳位     | 發表時間             | 產品編號 |
 | ---------------- | -------- | ------- | -------- | ---- | -------- | -------------------------------------------------------------------- | ---------- | --------- | ---------------- | ---- |
@@ -98,15 +73,7 @@ Eden核心為VIA公司的第五代第六代微處理器產品，主要面向嵌�
 
 #### ["Eden X2"](https://zh.wikipedia.org/wiki/VIA_Eden#Eden_X2 "wikilink") (40 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [x86
-    virtualization](https://zh.wikipedia.org/wiki/x86_virtualization "wikilink"),
-    VIA PadLock (SHA, AES, Montgomery Multiplier, RNG)*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [x86 virtualization](https://zh.wikipedia.org/wiki/x86_virtualization "wikilink"), VIA PadLock (SHA, AES, Montgomery Multiplier, RNG)*
 
 | 型號     | 頻率      | L2快取          | 前端匯流排    | 倍頻 | 核心電壓 | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | Idle Power | CPU腳位 | 核心數 | 發表時間          |  |
 | ------ | ------- | ------------- | -------- | -- | ---- | -------------------------------------------------------------------- | ---------- | ----- | --- | ------------- |  |
@@ -129,21 +96,16 @@ Eden核心為VIA公司的第五代第六代微處理器產品，主要面向嵌�
 ## 外部連結
 
   - [威盛電子官方網站](http://www.viatech.com.tw/)
-  - [雙核心CPU + 32 Cores IGP
-    VIA推出Nano雙核心處理器平台](https://web.archive.org/web/20101204012240/http://global.hkepc.com/5342)
-  - [VIA展示Dual Core Nano處理器 最高達2GHz時脈 功耗約20W
-    TDP](http://www.hkepc.com/5026)
+  - [雙核心CPU + 32 Cores IGP VIA推出Nano雙核心處理器平台](https://web.archive.org/web/20101204012240/http://global.hkepc.com/5342)
+  - [VIA展示Dual Core Nano處理器 最高達2GHz時脈 功耗約20W TDP](http://www.hkepc.com/5026)
   - [預期2010年第一季度投入量產 VIA Nano 3000系列處理器](http://www.hkepc.com/4215)
   - [針對Windows 7嵌入式裝置市場 VIA全系列x86處理器全面支援](http://www.hkepc.com/4088)
   - [VIA Nano處理器進軍伺服器領域 Dell推出XS11-VX8超輕薄伺服器](http://www.hkepc.com/2975)
-  - [2009年VIA處理器最新佈局 Nano 3000、Dual
-    Core計劃曝光](http://www.hkepc.com/tag/via/page/3)
+  - [2009年VIA處理器最新佈局 Nano 3000、Dual Core計劃曝光](http://www.hkepc.com/tag/via/page/3)
   - [全新VIA Isaiah微架構 VIA Nano L2100處理器上市](http://www.hkepc.com/1797)
   - [VIA全新Nano處理器正式發佈 效能比上代高4倍 陳文琦︰VIA未來希望](http://www.hkepc.com/1227)
-  - [VIA's C3 Hits 1
-    GHz](http://www.tomshardware.com/reviews/VIA-s-C3-Hits-1-GHz,472.html)
-  - [Atom, Athlon, or Nano? Energy-Savers
-    Compared](http://www.tomshardware.com/reviews/Athlon-Atom-Nano-power,2036.html)
+  - [VIA's C3 Hits 1 GHz](http://www.tomshardware.com/reviews/VIA-s-C3-Hits-1-GHz,472.html)
+  - [Atom, Athlon, or Nano? Energy-Savers Compared](http://www.tomshardware.com/reviews/Athlon-Atom-Nano-power,2036.html)
 
 ## 另見
 
@@ -152,5 +114,4 @@ Eden核心為VIA公司的第五代第六代微處理器產品，主要面向嵌�
   - **[VIA C3處理器列表](../Page/VIA_C3處理器列表.md "wikilink")**
   - **[威盛處理器列表](../Page/威盛處理器列表.md "wikilink")**
 
-[Category:威勝處理器](https://zh.wikipedia.org/wiki/Category:威勝處理器 "wikilink")
-[Category:微處理器列表](https://zh.wikipedia.org/wiki/Category:微處理器列表 "wikilink")
+[Category:威勝處理器](https://zh.wikipedia.org/wiki/Category:威勝處理器 "wikilink") [Category:微處理器列表](https://zh.wikipedia.org/wiki/Category:微處理器列表 "wikilink")

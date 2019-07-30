@@ -37,14 +37,6 @@
 [Category:翻譯](https://zh.wikipedia.org/wiki/Category:翻譯 "wikilink")
 
 1.  [EASE指南中文版](http://www.ease.org.uk/sites/default/files/ease_guidelines-june2011-chinese.pdf)
-
-2.  Ufnalska S. 2010. [Major editorial guidelines need to be translated
-    and popularized](http://www.ease.org.uk/pdf/Vol_36_2_May_2010.shtml)
-    . *European Science Editing* 36(2): 40-41.
-3.  Ufnalska S. 2010. [Multilingual EASE Guidelines for Authors and
-    Translators](http://alpsp.publisher.ingentaconnect.com/content/alpsp/lp/2010/00000023/00000004/art00009).
-    *Learned Publishing* 23(4): 331-332.
-4.  Ufnalska S.B. 2011. [EASE guidelines help editors and scientists
-    save
-    time](http://www.councilscienceeditors.org/i4a/pages/index.cfm?pageid=3621).
-    *Science Editor* 34(4): e10.
+2.  Ufnalska S. 2010. [Major editorial guidelines need to be translated and popularized](http://www.ease.org.uk/pdf/Vol_36_2_May_2010.shtml) . *European Science Editing* 36(2): 40-41.
+3.  Ufnalska S. 2010. [Multilingual EASE Guidelines for Authors and Translators](http://alpsp.publisher.ingentaconnect.com/content/alpsp/lp/2010/00000023/00000004/art00009). *Learned Publishing* 23(4): 331-332.
+4.  Ufnalska S.B. 2011. [EASE guidelines help editors and scientists save time](http://www.councilscienceeditors.org/i4a/pages/index.cfm?pageid=3621). *Science Editor* 34(4): e10.

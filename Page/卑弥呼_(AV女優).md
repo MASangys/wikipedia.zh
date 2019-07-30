@@ -1,5 +1,4 @@
-**卑弥呼**（，[假名](https://zh.wikipedia.org/wiki/假名 "wikilink")：ひみこ，，）是[日本的](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")
-。出身於日本[東京都](../Page/東京都.md "wikilink")。於1990年出道於[AV成人電影界](https://zh.wikipedia.org/wiki/AV "wikilink")，拍攝過許多AV作品。
+**卑弥呼**（，[假名](https://zh.wikipedia.org/wiki/假名 "wikilink")：ひみこ，，）是[日本](../Page/日本.md "wikilink")的[AV女優](../Page/AV女優.md "wikilink") 。出身於日本[東京都](../Page/東京都.md "wikilink")。於1990年出道於[AV成人電影界](https://zh.wikipedia.org/wiki/AV "wikilink")，拍攝過許多AV作品。
 
 ## 作品
 
@@ -7,16 +6,14 @@
 
   - 大和撫子タマの腰　（1990年7月11日、[ダイヤモンド映像](https://zh.wikipedia.org/wiki/ダイヤモンド映像 "wikilink")）
   - やってなさそでそんなんじゃない娘　（1990年8月11日、ダイヤモンド映像）
-  - 鮮度120% ハマッ娘デビュー
-    （1990年8月15日、[ビックマン](https://zh.wikipedia.org/wiki/ダイヤモンド映像 "wikilink")）
+  - 鮮度120% ハマッ娘デビュー （1990年8月15日、[ビックマン](https://zh.wikipedia.org/wiki/ダイヤモンド映像 "wikilink")）
   - 女に生まれてよかった宣言　（1990年9月11日、ダイヤモンド映像）
   - 黒くてぶっといのが大好き　（1990年10月15日、ダイヤモンド映像）
   - とにもかくにもいっぱいにください、極楽棒を\!\!　（1990年11月21日、ダイヤモンド映像）
   - 女の生き方教えます　（1990年12月21日、ダイヤモンド映像）
   - 極上ボディーの女 只今参上 この娘が日本で一番です　（1991年1月21日、ダイヤモンド映像）
   - 若奥様 卑弥呼　（1991年2月21日、ダイヤモンド映像）
-  - 豊田薫の口全ワイセツ
-    2　（1991年3月7日、[ヴィーナス](https://zh.wikipedia.org/wiki/ダイヤモンド映像 "wikilink")）
+  - 豊田薫の口全ワイセツ 2　（1991年3月7日、[ヴィーナス](https://zh.wikipedia.org/wiki/ダイヤモンド映像 "wikilink")）
   - 若奥様、もう一度　（1991年3月21日、ダイヤモンド映像）
   - この体に男のロマンあり　（1991年4月25日、ダイヤモンド映像）
   - インストラクター卑弥呼　（1991年5月25日、ダイヤモンド映像）
@@ -31,5 +28,4 @@
 
   - [AV女優列表](https://zh.wikipedia.org/wiki/AV女優列表 "wikilink")
 
-[Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
+[Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")

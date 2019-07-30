@@ -2,12 +2,11 @@
 
 PDFtk有兩個版本：[開源PDFtk及專業PDFtk](https://zh.wikipedia.org/wiki/開源軟件 "wikilink")。很多功能在開源版本都沒有了，只在專業版本保留，例如：頁面旋轉\[1\]。不過價錢也只是美金3.99元。
 
-PDFtk可以視作[iText程式庫的的客戶端](https://zh.wikipedia.org/wiki/iText "wikilink")，以[GCJ編譯](../Page/GCJ.md "wikilink")。
+PDFtk可以視作[iText程式庫的的客戶端](https://zh.wikipedia.org/wiki/iText "wikilink")，以[GCJ](../Page/GCJ.md "wikilink")編譯。
 
 ## 功能
 
-下列為根據本軟件在[unix](https://zh.wikipedia.org/wiki/unix "wikilink") [man
-page羅列的部分功能](https://zh.wikipedia.org/wiki/man_page "wikilink")：
+下列為根據本軟件在[unix](https://zh.wikipedia.org/wiki/unix "wikilink") [man page羅列的部分功能](https://zh.wikipedia.org/wiki/man_page "wikilink")：
 
   - 可分割、混合及重新排序PDF頁面。
   - 可分割PDF頁面成為多個新檔。
@@ -28,27 +27,21 @@ page羅列的部分功能](https://zh.wikipedia.org/wiki/man_page "wikilink")：
 
 ## 外部連結
 
-  - <http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/> - PDFTK, The
-    PDF Toolkit (GPL)
+  - <http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/> - PDFTK, The PDF Toolkit (GPL)
 
   - <http://www.pdfhacks.com/pdftk/> - PDFTK, the pdf toolkit
 
-  - <http://www.angusj.com/pdftkb/#pdftkbuilder> - PDFTK Builder, a GUI
-    for Windows (GPL)
+  - <http://www.angusj.com/pdftkb/#pdftkbuilder> - PDFTK Builder, a GUI for Windows (GPL)
 
   -
-  - <http://www.paehl.de/pdf/gui_pdftk.html> - an older GUI, working
-    under Windows and most Linux's (GPL)
+  - <http://www.paehl.de/pdf/gui_pdftk.html> - an older GUI, working under Windows and most Linux's (GPL)
 
   - <http://www.techienote.com/2011/02/merge-split-pdf-files-in-ubuntu-fedora.html>
 
-  - <http://pdftk4all.sourceforge.net/> – PDF4ALL, a GUI for Windows
-    (GPL)
+  - <http://pdftk4all.sourceforge.net/> – PDF4ALL, a GUI for Windows (GPL)
 
-  - <http://www.angusj.com/pdftkb/#pdftkbuilder> – PDFTK Builder, a GUI
-    for Windows (GPL)
+  - <http://www.angusj.com/pdftkb/#pdftkbuilder> – PDFTK Builder, a GUI for Windows (GPL)
 
-[Category:自由PDF軟體](https://zh.wikipedia.org/wiki/Category:自由PDF軟體 "wikilink")
-[Category:以Java編寫的自由軟體](https://zh.wikipedia.org/wiki/Category:以Java編寫的自由軟體 "wikilink")
+[Category:自由PDF軟體](https://zh.wikipedia.org/wiki/Category:自由PDF軟體 "wikilink") [Category:以Java編寫的自由軟體](https://zh.wikipedia.org/wiki/Category:以Java編寫的自由軟體 "wikilink")
 
 1.

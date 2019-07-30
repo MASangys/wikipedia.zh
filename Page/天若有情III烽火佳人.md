@@ -1,4 +1,4 @@
-是一部於1996年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[杜琪峰擔任導演兼監製](https://zh.wikipedia.org/wiki/杜琪峰 "wikilink")，以及由[劉德華](../Page/劉德華.md "wikilink")、[吳倩蓮和](../Page/吳倩蓮.md "wikilink")[方中信擔任主演](../Page/方中信.md "wikilink")。
+是一部於1996年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[杜琪峰擔任導演兼監製](https://zh.wikipedia.org/wiki/杜琪峰 "wikilink")，以及由[劉德華](../Page/劉德華.md "wikilink")、[吳倩蓮](../Page/吳倩蓮.md "wikilink")和[方中信](../Page/方中信.md "wikilink")擔任主演。
 
 ## 剧情简介
 
@@ -37,17 +37,4 @@
   -
   -
   -
-[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink")
-[Category:杜琪峰電影](https://zh.wikipedia.org/wiki/Category:杜琪峰電影 "wikilink")
-[Category:游乃海編劇作品](https://zh.wikipedia.org/wiki/Category:游乃海編劇作品 "wikilink")
-[Category:香港浪漫剧情片](https://zh.wikipedia.org/wiki/Category:香港浪漫剧情片 "wikilink")
-[Category:香港爱情片](https://zh.wikipedia.org/wiki/Category:香港爱情片 "wikilink")
-[Category:武汉背景电影](https://zh.wikipedia.org/wiki/Category:武汉背景电影 "wikilink")
-[Category:长春取景电影](https://zh.wikipedia.org/wiki/Category:长春取景电影 "wikilink")
-[Category:抗日战争电影](https://zh.wikipedia.org/wiki/Category:抗日战争电影 "wikilink")
-[Category:中華民國大陸時期背景電影](https://zh.wikipedia.org/wiki/Category:中華民國大陸時期背景電影 "wikilink")
-[Category:永盛电影](https://zh.wikipedia.org/wiki/Category:永盛电影 "wikilink")
-[Category:胡伟立配乐电影](https://zh.wikipedia.org/wiki/Category:胡伟立配乐电影 "wikilink")
-[Category:黄英华配乐电影](https://zh.wikipedia.org/wiki/Category:黄英华配乐电影 "wikilink")
-[Category:新宝娱乐电影](https://zh.wikipedia.org/wiki/Category:新宝娱乐电影 "wikilink")
-[Category:航空電影](https://zh.wikipedia.org/wiki/Category:航空電影 "wikilink")
+[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:杜琪峰電影](https://zh.wikipedia.org/wiki/Category:杜琪峰電影 "wikilink") [Category:游乃海編劇作品](https://zh.wikipedia.org/wiki/Category:游乃海編劇作品 "wikilink") [Category:香港浪漫剧情片](https://zh.wikipedia.org/wiki/Category:香港浪漫剧情片 "wikilink") [Category:香港爱情片](https://zh.wikipedia.org/wiki/Category:香港爱情片 "wikilink") [Category:武汉背景电影](https://zh.wikipedia.org/wiki/Category:武汉背景电影 "wikilink") [Category:长春取景电影](https://zh.wikipedia.org/wiki/Category:长春取景电影 "wikilink") [Category:抗日战争电影](https://zh.wikipedia.org/wiki/Category:抗日战争电影 "wikilink") [Category:中華民國大陸時期背景電影](https://zh.wikipedia.org/wiki/Category:中華民國大陸時期背景電影 "wikilink") [Category:永盛电影](https://zh.wikipedia.org/wiki/Category:永盛电影 "wikilink") [Category:胡伟立配乐电影](https://zh.wikipedia.org/wiki/Category:胡伟立配乐电影 "wikilink") [Category:黄英华配乐电影](https://zh.wikipedia.org/wiki/Category:黄英华配乐电影 "wikilink") [Category:新宝娱乐电影](https://zh.wikipedia.org/wiki/Category:新宝娱乐电影 "wikilink") [Category:航空電影](https://zh.wikipedia.org/wiki/Category:航空電影 "wikilink")

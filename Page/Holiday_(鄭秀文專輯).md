@@ -1,4 +1,4 @@
-《**Holiday**》（意思：假日）是[鄭秀文的第二張粵語專輯](../Page/鄭秀文.md "wikilink")，1991年6月18日推出\[1\]\[2\]。
+《**Holiday**》（意思：假日）是[鄭秀文](../Page/鄭秀文.md "wikilink")的第二張粵語專輯，1991年6月18日推出\[1\]\[2\]。
 
 ## 曲目
 
@@ -34,9 +34,7 @@
 
 ## 參考資料
 
-[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink")
-[Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink") [Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.
 2.

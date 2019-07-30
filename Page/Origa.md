@@ -150,8 +150,7 @@
     3.  Baby Alone In Babylone
 
     4.
-    5.  There Must Be An
-        Angel（[ユーリズミックスのカバー](https://zh.wikipedia.org/wiki/ユーリズミックス "wikilink")）
+    5.  There Must Be An Angel（[ユーリズミックスのカバー](https://zh.wikipedia.org/wiki/ユーリズミックス "wikilink")）
   - The Best of ORIGA
       - 1999年10月14日発売（EMI音樂日本）
     <!-- end list -->
@@ -174,11 +173,9 @@
 
   - 攻殻機動隊 STAND ALONE COMPLEX O.S.T.
 
-      - 2003年1月22日發行（[Victor
-        Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")）
+      - 2003年1月22日發行（[Victor Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")）
           - inner universe
-              - 電視動畫《[攻殼機動隊 STAND ALONE
-                COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")》片頭曲
+              - 電視動畫《[攻殼機動隊 STAND ALONE COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")》片頭曲
               - 作詞：ORIGA
               - 作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
 
@@ -186,8 +183,7 @@
 
       - 2004年3月26日發行（Victor Entertainment）
           - rise
-              - 電視動畫《[攻殼機動隊 S.A.C. 2nd
-                GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C._2nd_GIG "wikilink")》片頭曲
+              - 電視動畫《[攻殼機動隊 S.A.C. 2nd GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C._2nd_GIG "wikilink")》片頭曲
               - 作詞：ORIGA
               - 作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
 
@@ -203,8 +199,7 @@
 
       - 2006年11月22日（Victor Entertainment）
           - player
-              - 電視動畫《[攻殼機動隊 S.A.C. Solid State
-                Society](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C._Solid_State_Society "wikilink")》片頭曲
+              - 電視動畫《[攻殼機動隊 S.A.C. Solid State Society](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C._Solid_State_Society "wikilink")》片頭曲
               - 作詞：ORIGA
               - 作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
           - date of rebirth
@@ -225,13 +220,7 @@
 
   - [＊ORIGA＊](http://www.r-s.co.jp/origa/)
 
-[Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:俄羅斯女歌手](https://zh.wikipedia.org/wiki/Category:俄羅斯女歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:罹患肺癌逝世者](https://zh.wikipedia.org/wiki/Category:罹患肺癌逝世者 "wikilink")
-[Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
+[Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:俄羅斯女歌手](https://zh.wikipedia.org/wiki/Category:俄羅斯女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:罹患肺癌逝世者](https://zh.wikipedia.org/wiki/Category:罹患肺癌逝世者 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
 
 1.
 2.

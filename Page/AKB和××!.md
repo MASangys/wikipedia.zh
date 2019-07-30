@@ -1,52 +1,39 @@
-《**AKB和××\!**》（）是[讀賣電視台的](../Page/讀賣電視台.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，2010年7月13日至2016年3月23日播出，是以[高清製作的節目](https://zh.wikipedia.org/wiki/高清製作 "wikilink")。
+《**AKB和××\!**》（）是[讀賣電視台](../Page/讀賣電視台.md "wikilink")的[綜藝節目](../Page/綜藝節目.md "wikilink")，2010年7月13日至2016年3月23日播出，是以[高清製作的節目](https://zh.wikipedia.org/wiki/高清製作 "wikilink")。
 
 ## 概要
 
-節目是[AKB48在](../Page/AKB48.md "wikilink")[關西地方的首個冠名節目](https://zh.wikipedia.org/wiki/關西地方 "wikilink")。內容主要圍繞AKB與××的事情，而××就是指那些與AKB一起的人和事。節目最初以AKB48成員與關西事物的點滴為主，後來在2011年4月21日第10集開始，改為由AKB48、[SKE48和](../Page/SKE48.md "wikilink")[NMB48相互競爭](../Page/NMB48.md "wikilink")\[1\]。
+節目是[AKB48](../Page/AKB48.md "wikilink")在[關西地方的首個冠名節目](https://zh.wikipedia.org/wiki/關西地方 "wikilink")。內容主要圍繞AKB與××的事情，而××就是指那些與AKB一起的人和事。節目最初以AKB48成員與關西事物的點滴為主，後來在2011年4月21日第10集開始，改為由AKB48、[SKE48](../Page/SKE48.md "wikilink")和[NMB48](../Page/NMB48.md "wikilink")相互競爭\[1\]。
 
 ### ××選拔成員
 
-2011年4月之後，AKB48・[SKE48](../Page/SKE48.md "wikilink")・[NMB48的](../Page/NMB48.md "wikilink")××選抜成員出演。分組對決AKB48是白色、SKE48是粉紅色、NMB48是淺藍色的戴著領帶。
+2011年4月之後，AKB48・[SKE48](../Page/SKE48.md "wikilink")・[NMB48](../Page/NMB48.md "wikilink")的××選抜成員出演。分組對決AKB48是白色、SKE48是粉紅色、NMB48是淺藍色的戴著領帶。
 
 **2011年度**
 
-  - AKB48 -
-    [大家志津香](../Page/大家志津香.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")、[宮崎美穗](../Page/宮崎美穗.md "wikilink")
-  - SKE48 -
-    [高柳明音](../Page/高柳明音.md "wikilink")、[向田茉夏](../Page/向田茉夏.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")
-  - NMB48 -
-    [山本彩](../Page/山本彩.md "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")、[木下春奈](../Page/木下春奈.md "wikilink")
+  - AKB48 - [大家志津香](../Page/大家志津香.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")、[宮崎美穗](../Page/宮崎美穗.md "wikilink")
+  - SKE48 - [高柳明音](../Page/高柳明音.md "wikilink")、[向田茉夏](../Page/向田茉夏.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")
+  - NMB48 - [山本彩](../Page/山本彩.md "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")、[木下春奈](../Page/木下春奈.md "wikilink")
 
 **2012年度**
 
-  - AKB48 -
-    [峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")\[2\]、[川榮李奈](../Page/川榮李奈.md "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")、佐佐木優佳里
-  - SKE48 -
-    [加藤るみ](https://zh.wikipedia.org/wiki/加藤るみ "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")
+  - AKB48 - [峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")\[2\]、[川榮李奈](../Page/川榮李奈.md "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")、佐佐木優佳里
+  - SKE48 - [加藤るみ](https://zh.wikipedia.org/wiki/加藤るみ "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")
   - NMB48 - 山本彩、渡邊美優紀、[與儀凱拉](../Page/與儀凱拉.md "wikilink")
 
 ### 其他演出者
 
-  - AKB48 -
-    [岩佐美咲](../Page/岩佐美咲.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[高城亞樹](../Page/高城亞樹.md "wikilink")、[高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")、[前田亞美](../Page/前田亞美.md "wikilink")、[藤江れいな](https://zh.wikipedia.org/wiki/藤江れいな "wikilink")、[峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")、[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")
-  - SKE48 -
-    [小木曾汐莉](../Page/小木曾汐莉.md "wikilink")、[金子栞](../Page/金子栞.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")
-  - NMB48 -
-    [小笠原茉由](../Page/小笠原茉由.md "wikilink")、[近藤里奈](../Page/近藤里奈.md "wikilink")、[白間美瑠](../Page/白間美瑠.md "wikilink")、吉田朱里、島田玲奈、[市川美織](../Page/市川美織.md "wikilink")
-  - [HKT48](../Page/HKT48.md "wikilink") -
-    [兒玉遥](https://zh.wikipedia.org/wiki/兒玉遥 "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[村重杏奈](../Page/村重杏奈.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")
-  - 藝人軍團 -
-    [井戶田潤](https://zh.wikipedia.org/wiki/井戶田潤 "wikilink")（[スピードワゴン](https://zh.wikipedia.org/wiki/スピードワゴン "wikilink")）・[入江慎也](https://zh.wikipedia.org/wiki/入江慎也 "wikilink")（[富士山跆拳](https://zh.wikipedia.org/wiki/富士山跆拳 "wikilink")）・[パンチ浜崎](https://zh.wikipedia.org/wiki/パンチ浜崎 "wikilink")（[ザ・パンチ](https://zh.wikipedia.org/wiki/ザ・パンチ "wikilink")）・赤枝卓（[オバアチャン](https://zh.wikipedia.org/wiki/オバアチャン "wikilink")）
-  - 其他 -
-    [野呂佳代](../Page/野呂佳代.md "wikilink")、[川藤幸三](https://zh.wikipedia.org/wiki/川藤幸三 "wikilink")、[嘉門達夫](https://zh.wikipedia.org/wiki/嘉門達夫 "wikilink")、[小林劍道](../Page/小林劍道.md "wikilink")、[たむらけんじ](https://zh.wikipedia.org/wiki/たむらけんじ "wikilink")、[キダ・タロー等](https://zh.wikipedia.org/wiki/キダ・タロー "wikilink")
+  - AKB48 - [岩佐美咲](../Page/岩佐美咲.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[高城亞樹](../Page/高城亞樹.md "wikilink")、[高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")、[前田亞美](../Page/前田亞美.md "wikilink")、[藤江れいな](https://zh.wikipedia.org/wiki/藤江れいな "wikilink")、[峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")、[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")
+  - SKE48 - [小木曾汐莉](../Page/小木曾汐莉.md "wikilink")、[金子栞](../Page/金子栞.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")
+  - NMB48 - [小笠原茉由](../Page/小笠原茉由.md "wikilink")、[近藤里奈](../Page/近藤里奈.md "wikilink")、[白間美瑠](../Page/白間美瑠.md "wikilink")、吉田朱里、島田玲奈、[市川美織](../Page/市川美織.md "wikilink")
+  - [HKT48](../Page/HKT48.md "wikilink") - [兒玉遥](https://zh.wikipedia.org/wiki/兒玉遥 "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[村重杏奈](../Page/村重杏奈.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")
+  - 藝人軍團 - [井戶田潤](https://zh.wikipedia.org/wiki/井戶田潤 "wikilink")（[スピードワゴン](https://zh.wikipedia.org/wiki/スピードワゴン "wikilink")）・[入江慎也](https://zh.wikipedia.org/wiki/入江慎也 "wikilink")（[富士山跆拳](https://zh.wikipedia.org/wiki/富士山跆拳 "wikilink")）・[パンチ浜崎](https://zh.wikipedia.org/wiki/パンチ浜崎 "wikilink")（[ザ・パンチ](https://zh.wikipedia.org/wiki/ザ・パンチ "wikilink")）・赤枝卓（[オバアチャン](https://zh.wikipedia.org/wiki/オバアチャン "wikilink")）
+  - 其他 - [野呂佳代](../Page/野呂佳代.md "wikilink")、[川藤幸三](https://zh.wikipedia.org/wiki/川藤幸三 "wikilink")、[嘉門達夫](https://zh.wikipedia.org/wiki/嘉門達夫 "wikilink")、[小林劍道](../Page/小林劍道.md "wikilink")、[たむらけんじ](https://zh.wikipedia.org/wiki/たむらけんじ "wikilink")、[キダ・タロー等](https://zh.wikipedia.org/wiki/キダ・タロー "wikilink")
 
 ### 過去的出演者
 
-  - AKB48 -
-    [前田敦子](../Page/前田敦子.md "wikilink")、[增田有華](../Page/增田有華.md "wikilink")、[秋元才加](../Page/秋元才加.md "wikilink")、[板野友美](../Page/板野友美.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、[佐藤亞美菜](../Page/佐藤亞美菜.md "wikilink")、[菊地あやか](https://zh.wikipedia.org/wiki/菊地あやか "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")
+  - AKB48 - [前田敦子](../Page/前田敦子.md "wikilink")、[增田有華](../Page/增田有華.md "wikilink")、[秋元才加](../Page/秋元才加.md "wikilink")、[板野友美](../Page/板野友美.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、[佐藤亞美菜](../Page/佐藤亞美菜.md "wikilink")、[菊地あやか](https://zh.wikipedia.org/wiki/菊地あやか "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")
   - SKE48 - [松井玲奈](../Page/松井玲奈.md "wikilink")
-  - NMB48 -
-    [城惠理子](../Page/城惠理子.md "wikilink")、[山田菜菜](../Page/山田菜菜.md "wikilink")
+  - NMB48 - [城惠理子](../Page/城惠理子.md "wikilink")、[山田菜菜](../Page/山田菜菜.md "wikilink")
 
 ### 播放目錄
 
@@ -134,7 +121,7 @@
 <li>AKB和<a href="https://zh.wikipedia.org/wiki/嘉門達夫" title="wikilink">嘉門達夫</a> - <a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/檜原村.md" title="wikilink">檜原村</a>（高橋・宮澤・指原・倉持・北原・宮崎）
 <ul>
 <li>AKB和<a href="../Page/燒烤.md" title="wikilink">燒烤</a></li>
-<li>改歌詞的講座、捉<a href="../Page/鱒魚.md" title="wikilink">鱒魚猜曲名</a></li>
+<li>改歌詞的講座、捉<a href="../Page/鱒魚.md" title="wikilink">鱒魚</a>猜曲名</li>
 <li>AKB和討論 - 日本的拂曉
 <ul>
 <li>お題：日圓升值 美元貶值（倉持・宮崎）・<a href="../Page/雷曼兄弟迷你債券事件.md" title="wikilink">雷曼兄弟迷你債券事件</a>（北原・指原）・<a href="../Page/裁判員制度.md" title="wikilink">裁判員制度</a>（高橋・宮澤）</li>
@@ -158,7 +145,7 @@
 <td><ul>
 <li>AKB和口號（<a href="https://zh.wikipedia.org/wiki/武蔵野美術大学" title="wikilink">武蔵野美術大学</a>）（高橋・峯岸・北原・増田・前田亞・小森）
 <ul>
-<li>有趣廣告牌巨匠拜訪之旅!（大島&amp;前田亞&lt;<a href="https://zh.wikipedia.org/wiki/難波八阪神社" title="wikilink">難波八阪神社</a>→<a href="../Page/谷町.md" title="wikilink">谷町</a>2丁目→<a href="https://zh.wikipedia.org/wiki/天下茶屋" title="wikilink">天下茶屋</a>→<a href="../Page/八尾市.md" title="wikilink">八尾市</a>&gt;・宮崎&amp;峯岸&lt;<a href="../Page/大阪市.md" title="wikilink">大阪市</a><a href="../Page/此花區.md" title="wikilink">此花區四貫島</a>→<a href="../Page/西宮市.md" title="wikilink">西宮市</a><a href="https://zh.wikipedia.org/wiki/今津駅_(兵庫縣)" title="wikilink">今津駅前</a>→<a href="https://zh.wikipedia.org/wiki/天神橋筋商店街" title="wikilink">天神橋筋商店街</a>→<a href="https://zh.wikipedia.org/wiki/靱本町" title="wikilink">靱本町</a>&gt;）</li>
+<li>有趣廣告牌巨匠拜訪之旅!（大島&amp;前田亞&lt;<a href="https://zh.wikipedia.org/wiki/難波八阪神社" title="wikilink">難波八阪神社</a>→<a href="../Page/谷町.md" title="wikilink">谷町</a>2丁目→<a href="https://zh.wikipedia.org/wiki/天下茶屋" title="wikilink">天下茶屋</a>→<a href="../Page/八尾市.md" title="wikilink">八尾市</a>&gt;・宮崎&amp;峯岸&lt;<a href="../Page/大阪市.md" title="wikilink">大阪市</a><a href="../Page/此花區.md" title="wikilink">此花區</a>四貫島→<a href="../Page/西宮市.md" title="wikilink">西宮市</a><a href="https://zh.wikipedia.org/wiki/今津駅_(兵庫縣)" title="wikilink">今津駅前</a>→<a href="https://zh.wikipedia.org/wiki/天神橋筋商店街" title="wikilink">天神橋筋商店街</a>→<a href="https://zh.wikipedia.org/wiki/靱本町" title="wikilink">靱本町</a>&gt;）</li>
 </ul></li>
 <li>演技講座（LESSON1:滑舌 LESSON2:表現「笑」「怒」LESSON3:自由演技）（高橋・峯岸・北原・増田・前田亜・小森）</li>
 <li>ED主題曲「<a href="https://zh.wikipedia.org/wiki/大聲鑽石" title="wikilink">大聲鑽石</a>」</li>
@@ -231,7 +218,7 @@
 <li>K級=<a href="../Page/韓國料理.md" title="wikilink">韓國料理</a>（KOREAN）<a href="https://zh.wikipedia.org/wiki/燒肉" title="wikilink">燒肉</a>（於：<a href="https://zh.wikipedia.org/wiki/中央区_(神戶市)" title="wikilink">中央区</a><a href="https://zh.wikipedia.org/wiki/元町_(神戶市)" title="wikilink">元町</a>・燒肉店）</li>
 <li>B級=美麗的（BEAUTIFUL）高級<a href="../Page/法國飲食文化.md" title="wikilink">法國飲食文化</a>（於：中央区<a href="https://zh.wikipedia.org/wiki/北野町_(神戶市)" title="wikilink">北野町</a>・花之館 パラディ北野）（宮澤・柏木・河西・峯岸・高城匯合)</li>
 </ul></li>
-<li>初公演 直前<a href="../Page/NMB48.md" title="wikilink">NMB48徹底取材</a></li>
+<li>初公演 直前<a href="../Page/NMB48.md" title="wikilink">NMB48</a>徹底取材</li>
 <li>ED主題曲「Beginner」</li>
 </ul></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/トミーズ健" title="wikilink">トミーズ健</a></p></td>
@@ -278,7 +265,7 @@
 <li>AKB和人生相談（Kiroro內的日本料理「風雅」/小森・片山）</li>
 </ul></li>
 <li>AKB和表演（<a href="https://zh.wikipedia.org/wiki/海遊館" title="wikilink">海遊館</a>・櫻橋盃/高橋・増田）</li>
-<li>AKB和NMB - <a href="../Page/NMB48.md" title="wikilink">NMB48初日公演に密着</a>（於：NMB48劇場）</li>
+<li>AKB和NMB - <a href="../Page/NMB48.md" title="wikilink">NMB48</a>初日公演に密着（於：NMB48劇場）</li>
 <li>ED主題曲「<a href="../Page/Maybe是藉口.md" title="wikilink">Maybe是藉口</a>」（Kiroro內「魔法工作室」）</li>
 </ul></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安田大サーカス" title="wikilink">安田大サーカス</a></p></td>
@@ -291,7 +278,7 @@
 <ul>
 <li>現場表演漫畫的名場面（漫畫店享受方法）</li>
 <li>kencoba推薦美食家（炭火やきとり 栃木屋）</li>
-<li><a href="../Page/東京文華東方酒店.md" title="wikilink">東京文華東方酒店的套房</a>
+<li><a href="../Page/東京文華東方酒店.md" title="wikilink">東京文華東方酒店</a>的套房
 <ul>
 <li><a href="https://zh.wikipedia.org/wiki/JoJo的奇妙冒險" title="wikilink">JoJo的奇妙百人一首</a></li>
 </ul></li>
@@ -322,7 +309,7 @@
 </ul></li>
 </ul></li>
 <li>高橋みなみ的AKB電話俱樂部</li>
-<li>NMB48在<a href="../Page/難波.md" title="wikilink">難波問候週</a>（<a href="https://zh.wikipedia.org/wiki/くいだおれ" title="wikilink">中座くいだおれビル</a>・自由軒・<a href="https://zh.wikipedia.org/wiki/肉吸" title="wikilink">千とせ</a>）</li>
+<li>NMB48在<a href="../Page/難波.md" title="wikilink">難波</a>問候週（<a href="https://zh.wikipedia.org/wiki/くいだおれ" title="wikilink">中座くいだおれビル</a>・自由軒・<a href="https://zh.wikipedia.org/wiki/肉吸" title="wikilink">千とせ</a>）</li>
 <li>ED主題曲「<a href="../Page/Baby!_Baby!_Baby!.md" title="wikilink">Baby! Baby! Baby!</a>」</li>
 </ul></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/はるな愛" title="wikilink">はるな愛</a></p></td>
@@ -427,7 +414,7 @@
 <li>××選抜分組對決「秋之強化合宿」
 <ul>
 <li>菊地是AKB48的幫手[11]</li>
-<li><a href="../Page/岬町.md" title="wikilink">岬町是首個的聯合取景</a>
+<li><a href="../Page/岬町.md" title="wikilink">岬町</a>是首個的聯合取景
 <ul>
 <li>海灘奪旗對決</li>
 <li>筏船競爭對決</li>
@@ -906,8 +893,7 @@
 
 **過去的播放電視台**
 
-  - [長崎国際電視台](https://zh.wikipedia.org/wiki/長崎国際電視台 "wikilink")：2011年10月4日
-    - 2012年3月27日（每週播放・事實上是集中播放）
+  - [長崎国際電視台](https://zh.wikipedia.org/wiki/長崎国際電視台 "wikilink")：2011年10月4日 - 2012年3月27日（每週播放・事實上是集中播放）
 
 ## 參考資料
 
@@ -915,12 +901,7 @@
 
   - [ytv AKB和××\!](http://www.ytv.co.jp/akbxx/)
 
-[Category:讀賣電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:讀賣電視台綜藝節目 "wikilink")
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink")
-[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
-[Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")
+[Category:讀賣電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:讀賣電視台綜藝節目 "wikilink") [Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")
 
 1.
 2.  正確來說不是××選抜，在千早赤阪村企劃中以隊長在2012年4月出演。
@@ -929,7 +910,7 @@
 5.  第7集播放後、第5集再播放
 6.  第8集播放後、第7集再播放
 7.  第9集播放後、第8集再播放
-8.  對手是[女同性戀但是成員表白時沒有告訴她們](../Page/女同性戀.md "wikilink")。
+8.  對手是[女同性戀](../Page/女同性戀.md "wikilink")但是成員表白時沒有告訴她們。
 9.  這出9名演者由「××選抜」和秋元決定。
 10. 之後，只是以片段來介紹。
-11. 宮崎因[胃炎缺席](../Page/胃炎.md "wikilink")。
+11. 宮崎因[胃炎](../Page/胃炎.md "wikilink")缺席。

@@ -1,20 +1,14 @@
-**STAR**，是[中島美嘉個人第六張原創專輯](../Page/中島美嘉.md "wikilink")。日本地區于2010年10月27日發行。
+**STAR**，是[中島美嘉](../Page/中島美嘉.md "wikilink")個人第六張原創專輯。日本地區于2010年10月27日發行。
 
 ## 概述
 
-  - 上一張專輯「[VOICE 美聲嘉音](../Page/VOICE_美聲嘉音.md "wikilink")」以後發行的單曲「[Over
-    Load](../Page/Over_Load.md "wikilink")」、「[CANDY
-    GIRL](../Page/CANDY_GIRL.md "wikilink")」、「[流星](../Page/流星_\(中島美嘉單曲\).md "wikilink")」、「[ALWAYS](../Page/ALWAYS.md "wikilink")」、「[最美好的自己](../Page/最美好的自己.md "wikilink")」，加上網絡下載限定配信單曲「SONG
-    FOR A WISH」，各單曲的c/w曲「No Answer」、「SMILEY」、「Memory」、「BABY BABY
-    BABY」、「SPRIAL」收錄於本張專輯內。
+  - 上一張專輯「[VOICE 美聲嘉音](../Page/VOICE_美聲嘉音.md "wikilink")」以後發行的單曲「[Over Load](../Page/Over_Load.md "wikilink")」、「[CANDY GIRL](../Page/CANDY_GIRL.md "wikilink")」、「[流星](../Page/流星_\(中島美嘉單曲\).md "wikilink")」、「[ALWAYS](../Page/ALWAYS.md "wikilink")」、「[最美好的自己](../Page/最美好的自己.md "wikilink")」，加上網絡下載限定配信單曲「SONG FOR A WISH」，各單曲的c/w曲「No Answer」、「SMILEY」、「Memory」、「BABY BABY BABY」、「SPRIAL」收錄於本張專輯內。
   - 收錄歌曲14首中有11首先前已經發表過，雖為原創專輯，內容卻較似精選集。
   - 2011年4月－7月舉行全國巡迴演唱會。購買初回限定盤可以擁有先行購票的權利。
-  - 初回限定盤DVD付，「[Over Load](../Page/Over_Load.md "wikilink")」、「[CANDY
-    GIRL](../Page/CANDY_GIRL.md "wikilink")」、「[流星](../Page/流星_\(中島美嘉單曲\).md "wikilink")」、
-    「[ALWAYS](../Page/ALWAYS.md "wikilink")」、「[最美好的自己](../Page/最美好的自己.md "wikilink")」、「GAME」等6首PV收錄於DVD。
+  - 初回限定盤DVD付，「[Over Load](../Page/Over_Load.md "wikilink")」、「[CANDY GIRL](../Page/CANDY_GIRL.md "wikilink")」、「[流星](../Page/流星_\(中島美嘉單曲\).md "wikilink")」、 「[ALWAYS](../Page/ALWAYS.md "wikilink")」、「[最美好的自己](../Page/最美好的自己.md "wikilink")」、「GAME」等6首PV收錄於DVD。
   - 為出道至今首張沒有官方中譯名的專輯。
   - 因「耳咽管開放症」取消所有宣傳活動以及四場10週年紀念演唱會。
-  - [Oricon榜週間最高位第](../Page/Oricon.md "wikilink")3位，累積銷量約18萬張。
+  - [Oricon](../Page/Oricon.md "wikilink")榜週間最高位第3位，累積銷量約18萬張。
 
 ## 單曲銷量
 
@@ -37,8 +31,7 @@
 4.  **[Over Load](../Page/Over_Load.md "wikilink")**
       - 作詞：中島美嘉／作曲：森元康介／編曲：大川カズト
 5.  **GAME**
-      - 作詞：中島美嘉／作曲：Kamikaoru・Tomokazu"T.O.M"Matsuzawa／編曲：Tomokazu"T.O.M"Matsuzawa・The
-        Hot Pantz(P.G.L.M)
+      - 作詞：中島美嘉／作曲：Kamikaoru・Tomokazu"T.O.M"Matsuzawa／編曲：Tomokazu"T.O.M"Matsuzawa・The Hot Pantz(P.G.L.M)
 6.  **[SMILEY](../Page/CANDY_GIRL.md "wikilink")**
       - 作詞：中島美嘉／作曲：木村篤史／編曲：橋本幸太
 7.  **[CANDY GIRL](../Page/CANDY_GIRL.md "wikilink")**
@@ -75,5 +68,4 @@
 
 </div>
 
-[Category:中島美嘉音乐专辑](https://zh.wikipedia.org/wiki/Category:中島美嘉音乐专辑 "wikilink")
-[Category:2010年音乐专辑](https://zh.wikipedia.org/wiki/Category:2010年音乐专辑 "wikilink")
+[Category:中島美嘉音乐专辑](https://zh.wikipedia.org/wiki/Category:中島美嘉音乐专辑 "wikilink") [Category:2010年音乐专辑](https://zh.wikipedia.org/wiki/Category:2010年音乐专辑 "wikilink")

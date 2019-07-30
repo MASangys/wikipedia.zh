@@ -1,17 +1,10 @@
-《**My
-Love**》是[S.H.E成員](../Page/S.H.E.md "wikilink")[田馥甄的第二張個人專輯](../Page/田馥甄.md "wikilink")，於2011年8月17日開始預購並加贈「My
-Love專屬田心環保袋」，專輯於2011年9月2日正式發行。首播主打〈My Love〉則於2011年8月15日首播。
+《**My Love**》是[S.H.E](../Page/S.H.E.md "wikilink")成員[田馥甄](../Page/田馥甄.md "wikilink")的第二張個人專輯，於2011年8月17日開始預購並加贈「My Love專屬田心環保袋」，專輯於2011年9月2日正式發行。首播主打〈My Love〉則於2011年8月15日首播。
 
-2011年12月，舉辦《田馥甄 To My Love
-慶功音樂會》巡迴，地點包括台北，和北京、上海、廣州及新加坡一天兩場。2012年1月20日發行《田馥甄To
-My Love影音館DVD》。
+2011年12月，舉辦《田馥甄 To My Love 慶功音樂會》巡迴，地點包括台北，和北京、上海、廣州及新加坡一天兩場。2012年1月20日發行《田馥甄To My Love影音館DVD》。
 
-根據統計，《**My
-Love**》專輯9/2甫發行，兩個月（9/2～10/31）銷售量為4.8萬張（榜單計算時間為2011.1/1-2011.10.31），最終以單版不改版之姿以6萬2千張登上2011專輯銷售排行榜年度第六名\[1\]。
+根據統計，《**My Love**》專輯9/2甫發行，兩個月（9/2～10/31）銷售量為4.8萬張（榜單計算時間為2011.1/1-2011.10.31），最終以單版不改版之姿以6萬2千張登上2011專輯銷售排行榜年度第六名\[1\]。
 
-2012年5月，《My
-Love》報名參選[第23屆金曲獎](https://zh.wikipedia.org/wiki/第23屆金曲獎 "wikilink")，入圍七項並成為該年入圍最多獎項之專輯之一，包括入圍最佳國語專輯，單曲〈請你給我好一點的情敵〉入圍最佳單曲製作人、最佳作曲人、最佳作詞人、最佳編曲人，單曲〈My
-Love〉入圍最佳音樂錄影帶，最後惟全部落選。而田馥甄本人更憑專輯《My Love》大熱入圍最佳國語女歌手，卻在最高獲獎呼聲下落選。
+2012年5月，《My Love》報名參選[第23屆金曲獎](https://zh.wikipedia.org/wiki/第23屆金曲獎 "wikilink")，入圍七項並成為該年入圍最多獎項之專輯之一，包括入圍最佳國語專輯，單曲〈請你給我好一點的情敵〉入圍最佳單曲製作人、最佳作曲人、最佳作詞人、最佳編曲人，單曲〈My Love〉入圍最佳音樂錄影帶，最後惟全部落選。而田馥甄本人更憑專輯《My Love》大熱入圍最佳國語女歌手，卻在最高獲獎呼聲下落選。
 
 ## 唱片版本
 
@@ -233,7 +226,7 @@ Love〉入圍最佳音樂錄影帶，最後惟全部落選。而田馥甄本人�
 
 **To My Love 慶功音樂會**
 
-  - To My Love 慶功音樂會【[臺北站Day](../Page/臺北.md "wikilink") 1】
+  - To My Love 慶功音樂會【[臺北](../Page/臺北.md "wikilink")站Day 1】
 
 <!-- end list -->
 
@@ -284,7 +277,7 @@ Love〉入圍最佳音樂錄影帶，最後惟全部落選。而田馥甄本人�
 
 <!-- end list -->
 
-  - To My Love 慶功音樂會【[新加坡站](../Page/新加坡.md "wikilink")】
+  - To My Love 慶功音樂會【[新加坡](../Page/新加坡.md "wikilink")站】
 
 <!-- end list -->
 
@@ -304,9 +297,6 @@ Love〉入圍最佳音樂錄影帶，最後惟全部落選。而田馥甄本人�
 
 ## 參考資料
 
-[Category:田馥甄音乐专辑](https://zh.wikipedia.org/wiki/Category:田馥甄音乐专辑 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:华研国际音乐音乐专辑](https://zh.wikipedia.org/wiki/Category:华研国际音乐音乐专辑 "wikilink")
+[Category:田馥甄音乐专辑](https://zh.wikipedia.org/wiki/Category:田馥甄音乐专辑 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:华研国际音乐音乐专辑](https://zh.wikipedia.org/wiki/Category:华研国际音乐音乐专辑 "wikilink")
 
 1.  [2011台灣唱片銷量榜TOP 20](http://tw.weibo.com/twgmusic/3413858964691093)

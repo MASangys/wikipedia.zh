@@ -1,5 +1,4 @@
-**RADWIMPS**（，），是[日本](../Page/日本.md "wikilink")4人摇滚樂團，现乃[日本環球音樂旗下的艺人](../Page/環球音樂_\(日本\).md "wikilink")，所属经纪人公司为[voque
-ting](https://zh.wikipedia.org/wiki/voque_ting "wikilink")（旗下艺人只有RADWIMPS）。
+**RADWIMPS**（，），是[日本](../Page/日本.md "wikilink")4人摇滚樂團，现乃[日本環球音樂旗下的艺人](../Page/環球音樂_\(日本\).md "wikilink")，所属经纪人公司为[voque ting](https://zh.wikipedia.org/wiki/voque_ting "wikilink")（旗下艺人只有RADWIMPS）。
 
 ## 作風
 
@@ -7,32 +6,21 @@ ting](https://zh.wikipedia.org/wiki/voque_ting "wikilink")（旗下艺人只有R
 
 全部歌曲都是由野田洋次郎包揽作词、作曲，可以说歌词都是野田的心里话。野田说歌词全是他自己身上所发生的事情（除了《》一曲），还表示自己“用4张专辑来对一名女性表达爱意”，在曲中能时时感受到对所爱人的过度形容。另外，内容还有对社会现象的讽刺、占星术、黄段子等，曲中用词十分广泛。且摇滚、电子、饶舌、嘻哈等音乐元素在歌曲中均有体现。
 
-《RADWIMPS
-4》为止的专辑中都以第一人称“（“我”的男性用语）”来歌唱，而第5张专辑《》开始，歌曲则是献给“（意为“你”，包括女朋友、队员、工作人员、听众）”。
+《RADWIMPS 4》为止的专辑中都以第一人称“（“我”的男性用语）”来歌唱，而第5张专辑《》开始，歌曲则是献给“（意为“你”，包括女朋友、队员、工作人员、听众）”。
 
-在作曲的时候曲调也会发生变化，因此也曾说过“写曲子的时候顺便也把乐队名改掉吧”之类的话。其实《》是一个叫“”乐队的歌，在现场演唱的时候，队员们都穿上带有“味”字图样的T恤，戴上滑稽的鼻子眼镜来演绎。针对时事话题，这首曲子中写到的小泉首相后来也相应地改成了安倍首相。
+在作曲的时候曲调也会发生变化，因此也曾说过“写曲子的时候顺便也把乐队名改掉吧”之类的话。其实《》是一个叫“味噌汁’S”乐队的歌，在现场演唱的时候，队员们都穿上带有“味”字图样的T恤，戴上滑稽的鼻子眼镜来演绎。针对时事话题，这首曲子中写到的小泉首相后来也相应地改成了安倍首相。
 
 虽然持着“不想违背<STRONG>RADWIMPS</STRONG>独特风格”、“不想与人雷同”的态度，谋求变化，但他们都觉得像是“结果绕了一圈回到原点”，谦虚地表示对自己所作的音乐不满意。
 
-而且队员们都是[Red Hot Chili
-Peppers的铁杆歌迷](https://zh.wikipedia.org/wiki/Red_Hot_Chili_Peppers "wikilink")。在2007年2月的bridge上野田洋次郎和桑原彰说他们是[BUMP
-OF CHICKEN的大fan](../Page/BUMP_OF_CHICKEN.md "wikilink")。
-在日本艺能界中，有很多艺人都是RAD的歌迷，其中有[杉崎美香](../Page/杉崎美香.md "wikilink")、[妻夫木聪](https://zh.wikipedia.org/wiki/妻夫木聪 "wikilink")、[富坚义博](https://zh.wikipedia.org/wiki/富坚义博 "wikilink")、[长泽正美](https://zh.wikipedia.org/wiki/长泽正美 "wikilink")、[国分太一](../Page/国分太一.md "wikilink")、[二宮和也等等](../Page/二宮和也.md "wikilink")。[DREAMS
-COME
-TRUE的](../Page/DREAMS_COME_TRUE.md "wikilink")[吉田美和在与野田一起参加live时更以fans身份出现](../Page/吉田美和.md "wikilink")。
+而且队员们都是[Red Hot Chili Peppers的铁杆歌迷](https://zh.wikipedia.org/wiki/Red_Hot_Chili_Peppers "wikilink")。在2007年2月的bridge上野田洋次郎和桑原彰说他们是[BUMP OF CHICKEN的大fan](../Page/BUMP_OF_CHICKEN.md "wikilink")。 在日本艺能界中，有很多艺人都是RAD的歌迷，其中有[杉崎美香](../Page/杉崎美香.md "wikilink")、[妻夫木聪](https://zh.wikipedia.org/wiki/妻夫木聪 "wikilink")、[富坚义博](https://zh.wikipedia.org/wiki/富坚义博 "wikilink")、[长泽正美](https://zh.wikipedia.org/wiki/长泽正美 "wikilink")、[国分太一](../Page/国分太一.md "wikilink")、[二宮和也](../Page/二宮和也.md "wikilink")等等。[DREAMS COME TRUE的](../Page/DREAMS_COME_TRUE.md "wikilink")[吉田美和](../Page/吉田美和.md "wikilink")在与野田一起参加live时更以fans身份出现。
 
 ## 成員
 
   - 野田洋次郎（）（）
-    [主音兼](../Page/主音.md "wikilink")[吉他](../Page/吉他.md "wikilink")。关于野田的家庭，父亲是[法国国籍](https://zh.wikipedia.org/wiki/法国 "wikilink")，现在住在[巴黎](../Page/巴黎.md "wikilink")；母亲则是钢琴教师；家中还有一个哥哥。从幼儿园剩下两个月到小学四年级为止，在美国生活了4年，后来回国。野田本人说，在美国的时候是住在乡村里，不得不经常说英语。就是这个原因，RADWIMPS的歌词中也常常运用到英语。
+    [主音](../Page/主音.md "wikilink")兼[吉他](../Page/吉他.md "wikilink")。关于野田的家庭，父亲是[法国国籍](https://zh.wikipedia.org/wiki/法国 "wikilink")，现在住在[巴黎](../Page/巴黎.md "wikilink")；母亲则是钢琴教师；家中还有一个哥哥。从幼儿园剩下两个月到小学四年级为止，在美国生活了4年，后来回国。野田本人说，在美国的时候是住在乡村里，不得不经常说英语。就是这个原因，RADWIMPS的歌词中也常常运用到英语。
     初中和高中都在桐荫学院就读，当时的小名是“”。2004年开始在庆应义塾大学环境情报学学院修读，2008年3月毕业。（初中、高中与艺人水嶋宏是校友，大学的时候则是同一个学院的同级生；与朝日电视台的主持人本间智惠等也是同级生。）
-    小学5年级看到[木村拓哉弹奏的](../Page/木村拓哉.md "wikilink")《夜空的那方》后，开始学习吉他。而作为乐队的兼任吉他手，则是从乐队出道之后开始的。用Gibson
-    ES-335的吉他是受英国乐队[Oasis的](https://zh.wikipedia.org/wiki/Oasis "wikilink")[諾爾·蓋勒格影响](../Page/諾爾·蓋勒格.md "wikilink")。另外[BUMP
-    OF
-    CHICKEN的](../Page/BUMP_OF_CHICKEN.md "wikilink")[藤原基央](https://zh.wikipedia.org/wiki/藤原基央 "wikilink")、[Dragon
-    Ash的](../Page/Dragon_Ash.md "wikilink")[降谷健志等也对野田有很大的影响](https://zh.wikipedia.org/wiki/降谷健志 "wikilink")。
-    在《ROCKIN'ON
-    JAPAN》的2007年7月号为止连载的“野田事件簿”栏目里，从入院、乐队甚至恋爱的话题都广泛地提及到。在2007年9月号增刊中，与降谷健志实现了对谈的心愿。之后从2008年2月号到7月号，连载了“RADWIMPS野田洋次郎能交到100个朋友吗？”的栏目。
+    小学5年级看到[木村拓哉](../Page/木村拓哉.md "wikilink")弹奏的《夜空的那方》后，开始学习吉他。而作为乐队的兼任吉他手，则是从乐队出道之后开始的。用Gibson ES-335的吉他是受英国乐队[Oasis的](https://zh.wikipedia.org/wiki/Oasis "wikilink")[諾爾·蓋勒格](../Page/諾爾·蓋勒格.md "wikilink")影响。另外[BUMP OF CHICKEN的](../Page/BUMP_OF_CHICKEN.md "wikilink")[藤原基央](https://zh.wikipedia.org/wiki/藤原基央 "wikilink")、[Dragon Ash的](../Page/Dragon_Ash.md "wikilink")[降谷健志等也对野田有很大的影响](https://zh.wikipedia.org/wiki/降谷健志 "wikilink")。
+    在《ROCKIN'ON JAPAN》的2007年7月号为止连载的“野田事件簿”栏目里，从入院、乐队甚至恋爱的话题都广泛地提及到。在2007年9月号增刊中，与降谷健志实现了对谈的心愿。之后从2008年2月号到7月号，连载了“RADWIMPS野田洋次郎能交到100个朋友吗？”的栏目。
     在2008年6月25日发行的专辑《honey》里，野田初次以制作人的身份，为女歌手[Chara创作了](https://zh.wikipedia.org/wiki/Chara "wikilink")《》一曲。
 
 <!-- end list -->
@@ -43,8 +31,8 @@ TRUE的](../Page/DREAMS_COME_TRUE.md "wikilink")[吉田美和在与野田一起�
 <!-- end list -->
 
   - 武田祐介（）（）
-    [贝司兼和音](https://zh.wikipedia.org/wiki/贝司 "wikilink")。小学的时候，受一位弹吉他的朋友影响，对吉他感兴趣起来。到了初中，被一位吉他老师以顾问招其入吹奏部。当然，其实吉他不属于吹奏乐器，于是开始学习弦乐器[低音大提琴](https://zh.wikipedia.org/wiki/低音大提琴 "wikilink")。[洗足學園音樂大學](https://zh.wikipedia.org/wiki/洗足學園音樂大學 "wikilink")[爵士系毕业](../Page/爵士.md "wikilink")，与搞笑组合朝仓小松崎的[朝仓隼人为同级生](https://zh.wikipedia.org/wiki/朝仓隼人 "wikilink")。从Fretless贝司到多弦贝司基本上都拥有，但是普通的4弦贝司一般不怎么用。
-    崇拜的贝司乐手是[馬克思·米勒和](../Page/馬克思·米勒.md "wikilink")[傑可·帕斯透瑞斯](../Page/傑可·帕斯透瑞斯.md "wikilink")。与山口同是中途加入RADWIMPS，其理由是只是碰巧认识而已，但他本人声称是“因为很有名”。
+    [贝司兼和音](https://zh.wikipedia.org/wiki/贝司 "wikilink")。小学的时候，受一位弹吉他的朋友影响，对吉他感兴趣起来。到了初中，被一位吉他老师以顾问招其入吹奏部。当然，其实吉他不属于吹奏乐器，于是开始学习弦乐器[低音大提琴](https://zh.wikipedia.org/wiki/低音大提琴 "wikilink")。[洗足學園音樂大學](https://zh.wikipedia.org/wiki/洗足學園音樂大學 "wikilink")[爵士](../Page/爵士.md "wikilink")系毕业，与搞笑组合朝仓小松崎的[朝仓隼人为同级生](https://zh.wikipedia.org/wiki/朝仓隼人 "wikilink")。从Fretless贝司到多弦贝司基本上都拥有，但是普通的4弦贝司一般不怎么用。
+    崇拜的贝司乐手是[馬克思·米勒](../Page/馬克思·米勒.md "wikilink")和[傑可·帕斯透瑞斯](../Page/傑可·帕斯透瑞斯.md "wikilink")。与山口同是中途加入RADWIMPS，其理由是只是碰巧认识而已，但他本人声称是“因为很有名”。
 
 <!-- end list -->
 
@@ -66,8 +54,7 @@ TRUE的](../Page/DREAMS_COME_TRUE.md "wikilink")[吉田美和在与野田一起�
 <!-- end list -->
 
   - 2月5日－以RADWIMPS的名义在[橫濱](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")[关内的B](../Page/关內_\(橫滨市\).md "wikilink").B.SREET举行首场live。
-  - 8月－2002年举行的YOKOHAMA HIGHSHOOL MUSIC
-    FESTIVAL中，桑原在截止前一天应邀出席，《》获得了优秀奖。同年以及次年的大会，山口和武田作为别队的乐手出席。
+  - 8月－2002年举行的YOKOHAMA HIGHSHOOL MUSIC FESTIVAL中，桑原在截止前一天应邀出席，《》获得了优秀奖。同年以及次年的大会，山口和武田作为别队的乐手出席。
 
 <!-- end list -->
 
@@ -97,11 +84,9 @@ TRUE的](../Page/DREAMS_COME_TRUE.md "wikilink")[吉田美和在与野田一起�
 
 <!-- end list -->
 
-  - 2月－从以前一直参加的东京电台[J-WAVE举办的活动](../Page/J-WAVE.md "wikilink")“SPUNKY
-    JONES GARAGE”，这次以全新的面貌出演。
+  - 2月－从以前一直参加的东京电台[J-WAVE](../Page/J-WAVE.md "wikilink")举办的活动“SPUNKY JONES GARAGE”，这次以全新的面貌出演。
   - 3月8日－第二张专辑《》发行
-  - 4月～2006年3月－主持名古屋电台ZIP-FM的“HEAT PHONICS
-    Feat.RADWIMPS”节目。在横滨电台FM横滨主持两小时的“”节目。
+  - 4月～2006年3月－主持名古屋电台ZIP-FM的“HEAT PHONICS Feat.RADWIMPS”节目。在横滨电台FM横滨主持两小时的“”节目。
   - 11月23日－以单曲《》于东芝EMI唱片公司出道。
 
 <!-- end list -->
@@ -121,8 +106,7 @@ TRUE的](../Page/DREAMS_COME_TRUE.md "wikilink")[吉田美和在与野田一起�
 
 <!-- end list -->
 
-  - 3月27日－\[SCHOOL OF
-    LOCK\!周三晚上11点播出的“\!”中，[柚子从节目毕业](../Page/柚子_\(組合\).md "wikilink")，以此为契机开始了“\!”的主持工作，到2007年9月终止。
+  - 3月27日－\[SCHOOL OF LOCK\!周三晚上11点播出的“\!”中，[柚子从节目毕业](../Page/柚子_\(組合\).md "wikilink")，以此为契机开始了“\!”的主持工作，到2007年9月终止。
   - 7月11日－發表live DVD 《生春巻き》
 
 <!-- end list -->
@@ -133,9 +117,7 @@ TRUE的](../Page/DREAMS_COME_TRUE.md "wikilink")[吉田美和在与野田一起�
 
   - 1月20日－从《ROCK'ON JAPAN》的2008年2月号开始连载“RADWIMPS野田洋次郎能交到100个朋友吗？”栏目。
   - 1月23日－单曲《》发行，并初次夺得ORICON单曲榜的第一位。
-  - 5月31日－[MTV VIDEO MUSIC AWARDS
-    JAPAN](https://zh.wikipedia.org/wiki/MTV_VIDEO_MUSIC_AWARDS_JAPAN "wikilink")
-    2008，RADWIMPS获得BEST ROCK大奖。
+  - 5月31日－[MTV VIDEO MUSIC AWARDS JAPAN](https://zh.wikipedia.org/wiki/MTV_VIDEO_MUSIC_AWARDS_JAPAN "wikilink") 2008，RADWIMPS获得BEST ROCK大奖。
   - 7月－“RADWIMPS野田洋次郎能交到100个朋友吗？”栏目连载完毕。
 
 <!-- end list -->
@@ -147,11 +129,8 @@ TRUE的](../Page/DREAMS_COME_TRUE.md "wikilink")[吉田美和在与野田一起�
   - 1月7日－新曲《》和《》配信开始，同日公布第五张专辑《》于3月11日发行的消息。
   - 1月21日－公布巡演于4月6日举行的消息。
   - 3月－第五张专辑《》获得ORICON单日榜的第2位。
-  - 3月11日－乐队[ASIAN KUNG-FU
-    GENERATION终止SCHOOL](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")
-    OF LOCK\!的主持活动，由RADWIMPS主持每周周三开播的“\!”节目，到5月再次中止。
-  - 11月3日－全国FM放送协会（JFN）主办的FM FESTIVAL LIFE MUSIC AWARD颁奖礼中，获得LIFE MUSIC
-    OF THE YEAR大奖。
+  - 3月11日－乐队[ASIAN KUNG-FU GENERATION终止SCHOOL](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink") OF LOCK\!的主持活动，由RADWIMPS主持每周周三开播的“\!”节目，到5月再次中止。
+  - 11月3日－全国FM放送协会（JFN）主办的FM FESTIVAL LIFE MUSIC AWARD颁奖礼中，获得LIFE MUSIC OF THE YEAR大奖。
 
 <!-- end list -->
 
@@ -159,22 +138,13 @@ TRUE的](../Page/DREAMS_COME_TRUE.md "wikilink")[吉田美和在与野田一起�
 
 <!-- end list -->
 
-  - 2月－《》一曲获得[SPACE
-    SHOWER](https://zh.wikipedia.org/wiki/SPACE_SHOWER "wikilink") MUSIC
-    VIDEO AWARDS 2010的BEST ROCK VIDEO以及BEST YOUR
-    CHOICE两项大奖的提名，颁奖礼将于3月22日举行。
+  - 2月－《》一曲获得[SPACE SHOWER](https://zh.wikipedia.org/wiki/SPACE_SHOWER "wikilink") MUSIC VIDEO AWARDS 2010的BEST ROCK VIDEO以及BEST YOUR CHOICE两项大奖的提名，颁奖礼将于3月22日举行。
   - 2月19日－发表印度之行的“野田洋次郎 in India”将于2月27日在杂志《PAPYRUS》上刊登的消息。
-  - 3月15日－公布RADWIMPS将出演5月30日在东京举行的“[ROCKS
-    TOKYO](https://zh.wikipedia.org/wiki/ROCKS_TOKYO "wikilink")”摇滚节的消息。
-  - 3月22日－《》获得SPACE SHOWER錄影帶音樂大獎的BEST YOUR
-    CHOICE大奖，同时也是既去年SSTV举办的MVA以来，两年蝉联夺得由网友投票选出的BEST
-    YOUR CHOICE大奖。
-  - 4月3日－
-    《》获[MTV日本音樂錄影帶大獎的最佳摇滚奖项提名](../Page/MTV日本音樂錄影帶大獎.md "wikilink")。但最终没有获奖。
-  - 6月1日－新单曲《》及《》先行配信，定于6月30日开始发售。公布将参与8月22日举行的“[Sky Jamboree
-    2010](https://zh.wikipedia.org/wiki/Sky_Jamboree_2010 "wikilink")”夏日音乐节的演出。
-  - 6月28日－以最后一批名单确定出演在茨城县举办的[ROCK IN JAPAN
-    FES.](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FES. "wikilink")2010（8月6日－8月8日）夏日摇滚节。
+  - 3月15日－公布RADWIMPS将出演5月30日在东京举行的“[ROCKS TOKYO](https://zh.wikipedia.org/wiki/ROCKS_TOKYO "wikilink")”摇滚节的消息。
+  - 3月22日－《》获得SPACE SHOWER錄影帶音樂大獎的BEST YOUR CHOICE大奖，同时也是既去年SSTV举办的MVA以来，两年蝉联夺得由网友投票选出的BEST YOUR CHOICE大奖。
+  - 4月3日－ 《》获[MTV日本音樂錄影帶大獎](../Page/MTV日本音樂錄影帶大獎.md "wikilink")的最佳摇滚奖项提名。但最终没有获奖。
+  - 6月1日－新单曲《》及《》先行配信，定于6月30日开始发售。公布将参与8月22日举行的“[Sky Jamboree 2010](https://zh.wikipedia.org/wiki/Sky_Jamboree_2010 "wikilink")”夏日音乐节的演出。
+  - 6月28日－以最后一批名单确定出演在茨城县举办的[ROCK IN JAPAN FES.](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FES. "wikilink")2010（8月6日－8月8日）夏日摇滚节。
   - 6月30日－同日发表两张新单曲《》及《》，首日分别获得[ORICON每日榜](https://zh.wikipedia.org/wiki/ORICON "wikilink")3、2位。
 
 <!-- end list -->
@@ -247,13 +217,10 @@ TRUE的](../Page/DREAMS_COME_TRUE.md "wikilink")[吉田美和在与野田一起�
   - 3月11日 - 在Youtube公开新曲『』。
   - 3月11日 - 纪录片『RADWIMPSのHESONOO Documentary Film』公开
   - 7月9日 - 客串SPITZ的「」活动。
-  - 8月24日 -
-    由該團製作的[《你的名字。》電影原聲帶正式發行](../Page/你的名字。_\(專輯\).md "wikilink")。
-  - 8月26日 -
-    動畫電影《[你的名字。](../Page/你的名字。.md "wikilink")》上映，該團負責片中全部約20多首的[配樂](https://zh.wikipedia.org/wiki/配樂 "wikilink")。接受了朝日电视台「」的出演。
+  - 8月24日 - 由該團製作的[《你的名字。》電影原聲帶正式發行](../Page/你的名字。_\(專輯\).md "wikilink")。
+  - 8月26日 - 動畫電影《[你的名字。](../Page/你的名字。.md "wikilink")》上映，該團負責片中全部約20多首的[配樂](https://zh.wikipedia.org/wiki/配樂 "wikilink")。接受了朝日电视台「」的出演。
   - 11月23日 - 第八张专辑公布。
-  - 11月24日 -
-    确认将出席[第67回NHK紅白歌合戰](../Page/第67回NHK紅白歌合戰.md "wikilink")，为乐队历史上首次登上[红白歌合战的舞台](https://zh.wikipedia.org/wiki/红白歌合战 "wikilink")\[1\]。
+  - 11月24日 - 确认将出席[第67回NHK紅白歌合戰](../Page/第67回NHK紅白歌合戰.md "wikilink")，为乐队历史上首次登上[红白歌合战的舞台](https://zh.wikipedia.org/wiki/红白歌合战 "wikilink")\[1\]。
 
 <!-- end list -->
 
@@ -1094,14 +1061,52 @@ TYCT-60021(通常盤)</p></td>
 <td><p>9th</p></td>
 <td><p>2018年12月12日</p></td>
 <td></td>
-<td></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:cebter;">
+<p>全15曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Anti Anti overture</li>
+<li>tazuna</li>
+<li>NEVER EVER ENDER</li>
+<li>IKIJIBIKI feat.Taka</li>
+<li>カタルシスト</li>
+<li>洗脳(Anti Anti Mix)</li>
+<li>そっけない</li>
+<li><宿題発表-skit-></li>
+<li>PAPARAZZI～＊この物語はフィクションです～</li>
+<li>HOCUSPOCUS</li>
+<li>万歳千唱</li>
+<li>I I U</li>
+<li>泣き出しそうだよ feat.あいみょん</li>
+<li>TIE TONGUE feat.Miyachi, Tabu Zombie</li>
+<li>サイハテアイニ</li>
+<li>正解(18FES ver.)</li>
+</ol></td>
 <td><p>CD+DVD<br />
-CD<br />
-レコード</p></td>
+CD</p></td>
 <td><p>UPCH-29313（初回限定盤）<br />
-UPCH-20503（通常盤）<br />
-UPJH-20010/1</p></td>
-<td><p>1位</p></td>
+UPCH-20503（通常盤）</p></td>
+<td><p>13位</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年3月27日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/レコード" title="wikilink">アナログレコード</a></p></td>
+<td><p>UPJH-20010/1</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1563,16 +1568,13 @@ UPCH-20423(通常盤)</p></td>
   - **lens**（2012年1月25日）
       - ホリエアツシ(ストレイテナー)的SOLO專輯「entish」中收錄的曲目。野田洋次郎作為「DARMAN」的鼓手\[7\]。
   - **チューリップのアップリケ**（2014年12月24日）
-      - [大竹しのぶ的精選專輯](https://zh.wikipedia.org/wiki/大竹しのぶ "wikilink")「歌心
-        恋心」中收錄的曲目。\[8\]。
+      - [大竹しのぶ的精選專輯](https://zh.wikipedia.org/wiki/大竹しのぶ "wikilink")「歌心 恋心」中收錄的曲目。\[8\]。
   - **おあいこ**（2015年8月19日）
-      - [ハナレグミ的專輯](https://zh.wikipedia.org/wiki/ハナレグミ "wikilink")「What
-        are you looking for」中收錄的曲目。野田洋次郎作曲\[9\]。
+      - [ハナレグミ的專輯](https://zh.wikipedia.org/wiki/ハナレグミ "wikilink")「What are you looking for」中收錄的曲目。野田洋次郎作曲\[9\]。
 
 ## 巡回演唱会
 
-1.  </FONT></STRONG><STRONG>RADWIMPSはるなっTOUR</STRONG>（2005年3月19日 -
-    9月3日） 
+1.  </FONT></STRONG><STRONG>RADWIMPSはるなっTOUR</STRONG>（2005年3月19日 - 9月3日） 
 2.  <STRONG>RADWIMPSと行く無人島ツアー</STRONG>（2006年3月5日 - 3月30日）
 3.  <STRONG>セプテンバーにぃさん</STRONG>（2006年9月2日 - 3日）横浜2DAYS
 4.  <STRONG>ソナタと行く冬のツアー</STRONG>（2006年12月25日 - 29日）
@@ -1591,21 +1593,11 @@ UPCH-20423(通常盤)</p></td>
   - [RADWIMPS | MySpace Music](http://www.myspace.com/radwimps)
   - [RADWIMPS | ORICON STYLE](http://www.oricon.co.jp/artists/321049/)
 
-[Category:2001年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2001年成立的音樂團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink")
-[Category:RADWIMPS](https://zh.wikipedia.org/wiki/Category:RADWIMPS "wikilink")
-[Category:日本電影學院獎最佳音樂獎得主](https://zh.wikipedia.org/wiki/Category:日本電影學院獎最佳音樂獎得主 "wikilink")
-[Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
-[Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
+[Category:2001年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2001年成立的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink") [Category:RADWIMPS](https://zh.wikipedia.org/wiki/Category:RADWIMPS "wikilink") [Category:日本電影學院獎最佳音樂獎得主](https://zh.wikipedia.org/wiki/Category:日本電影學院獎最佳音樂獎得主 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
 
 1.
-2.  [「我也很悲傷。」 超強中文MC顯示滿滿中文誠意
-    RADWIMPS 2017台灣公演第一日報導](https://memeon-music.com/2017/06/20/radwimps-livereport/)
-3.  [「在幾千個、幾萬個、幾十萬幾百萬個樂團中發現了我們，謝謝。」
-    RADWIMPS 2017台灣公演第二日報導](https://memeon-music.com/2017/06/22/radwimps-livereport-2/)
+2.  [「我也很悲傷。」 超強中文MC顯示滿滿中文誠意 RADWIMPS 2017台灣公演第一日報導](https://memeon-music.com/2017/06/20/radwimps-livereport/)
+3.  [「在幾千個、幾萬個、幾十萬幾百萬個樂團中發現了我們，謝謝。」 RADWIMPS 2017台灣公演第二日報導](https://memeon-music.com/2017/06/22/radwimps-livereport-2/)
 4.
 5.
 6.

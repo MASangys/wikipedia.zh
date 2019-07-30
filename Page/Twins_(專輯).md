@@ -1,4 +1,4 @@
-《**Twins**》是[臺灣女子團體](../Page/臺灣.md "wikilink")[BY2的第二張錄音室專輯](https://zh.wikipedia.org/wiki/BY2 "wikilink")，也是第二張演唱專輯，於2009年4月10日推出。
+《**Twins**》是[臺灣](../Page/臺灣.md "wikilink")女子團體[BY2的第二張錄音室專輯](https://zh.wikipedia.org/wiki/BY2 "wikilink")，也是第二張演唱專輯，於2009年4月10日推出。
 
 ## 曲目
 
@@ -109,10 +109,8 @@ Yumi</p></td>
 
 1.  DNA（導演：[呂來慧](https://zh.wikipedia.org/wiki/呂來慧 "wikilink")）收錄於專輯《**Twins【加值雙碟限量版】**》
 2.  我知道（導演：[呂來慧](https://zh.wikipedia.org/wiki/呂來慧 "wikilink")）收錄於專輯《**Twins【加值雙碟限量版】**》
-3.  Don't Go Away
-    (英文版)（導演：[呂來慧](https://zh.wikipedia.org/wiki/呂來慧 "wikilink")）收錄於專輯《**Twins【加值雙碟限量版】**》
-4.  Don't Go Away
-    (中文版)（導演：[呂來慧](https://zh.wikipedia.org/wiki/呂來慧 "wikilink")）
+3.  Don't Go Away (英文版)（導演：[呂來慧](https://zh.wikipedia.org/wiki/呂來慧 "wikilink")）收錄於專輯《**Twins【加值雙碟限量版】**》
+4.  Don't Go Away (中文版)（導演：[呂來慧](https://zh.wikipedia.org/wiki/呂來慧 "wikilink")）
 5.  新少女祈禱（導演：[陳勇秀](https://zh.wikipedia.org/wiki/陳勇秀 "wikilink")）收錄於【BY2精選回饋2009暑假作業】
 6.  勇敢（導演：[陳勇秀](https://zh.wikipedia.org/wiki/陳勇秀 "wikilink")）收錄於【BY2精選回饋2009暑假作業】
 7.  無解呦（導演：[陳勇秀](https://zh.wikipedia.org/wiki/陳勇秀 "wikilink")）收錄於【BY2精選回饋2009暑假作業】
@@ -143,5 +141,4 @@ Twins**
 
   - [博客來音樂館](http://www.books.com.tw/exep/cdfile.php?item=0020132074)
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:BY2音樂專輯](https://zh.wikipedia.org/wiki/Category:BY2音樂專輯 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:BY2音樂專輯](https://zh.wikipedia.org/wiki/Category:BY2音樂專輯 "wikilink")

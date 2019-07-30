@@ -1,5 +1,5 @@
 
-**日本鐵路車站列表 E**收錄了日本鐵路車站中，站名羅馬拼音為字母「**E**」或日文假名為「****」起頭的車站。
+ **日本鐵路車站列表 E**收錄了日本鐵路車站中，站名羅馬拼音為字母「**E**」或日文假名為「****」起頭的車站。
 
 ## EB
 
@@ -102,8 +102,6 @@
 </tbody>
 </table>
 
-[ja:日本の鉄道駅一覧
-う-え\#え](https://zh.wikipedia.org/wiki/ja:日本の鉄道駅一覧_う-え#え "wikilink")
+[ja:日本の鉄道駅一覧 う-え\#え](https://zh.wikipedia.org/wiki/ja:日本の鉄道駅一覧_う-え#え "wikilink")
 
-[Category:日本鐵路車站_E](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_E "wikilink")
-[Category:日本鐵路車站列表](https://zh.wikipedia.org/wiki/Category:日本鐵路車站列表 "wikilink")
+[Category:日本鐵路車站_E](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_E "wikilink") [Category:日本鐵路車站列表](https://zh.wikipedia.org/wiki/Category:日本鐵路車站列表 "wikilink")

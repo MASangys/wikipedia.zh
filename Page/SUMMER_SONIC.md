@@ -1,6 +1,4 @@
-**SUMMER
-SONIC**（）是毎年8月上旬的到中旬之間的一個周六和周日在[千葉縣](../Page/千葉縣.md "wikilink")（只有2000年是在山梨舉行）和[大阪舉行的日本的大規模都市型](https://zh.wikipedia.org/wiki/大阪 "wikilink")[搖滾音樂節](https://zh.wikipedia.org/wiki/搖滾音樂節 "wikilink")。由**CREATIVEMAN
-PRODUCTIONS**（）主辦。SUMMER SONIC自2000年開始舉辦。形式類似英國的及澳洲的<ref>同類型音樂節
+**SUMMER SONIC**（）是毎年8月上旬的到中旬之間的一個周六和周日在[千葉縣](../Page/千葉縣.md "wikilink")（只有2000年是在山梨舉行）和[大阪舉行的日本的大規模都市型](https://zh.wikipedia.org/wiki/大阪 "wikilink")[搖滾音樂節](https://zh.wikipedia.org/wiki/搖滾音樂節 "wikilink")。由**CREATIVEMAN PRODUCTIONS**（）主辦。SUMMER SONIC自2000年開始舉辦。形式類似英國的及澳洲的<ref>同類型音樂節
 
 </ref>`。每年都有大量的日本國內音樂人和海外的知名樂隊參加。`
 
@@ -209,9 +207,6 @@ PRODUCTIONS**（）主辦。SUMMER SONIC自2000年開始舉辦。形式類似英
 ## 外部連結
 
   - [SUMMER SONIC](http://www.summersonic.com/index.html) 官方網站
-  - [CREATIVEMAN
-    PRODUCTIONS](https://web.archive.org/web/20090812070823/http://www.creativeman.co.jp/index.php)
-    官方網站
+  - [CREATIVEMAN PRODUCTIONS](https://web.archive.org/web/20090812070823/http://www.creativeman.co.jp/index.php) 官方網站
 
-[Category:搖滾音樂節](https://zh.wikipedia.org/wiki/Category:搖滾音樂節 "wikilink")
-[Category:日本流行音乐](https://zh.wikipedia.org/wiki/Category:日本流行音乐 "wikilink")
+[Category:搖滾音樂節](https://zh.wikipedia.org/wiki/Category:搖滾音樂節 "wikilink") [Category:日本流行音乐](https://zh.wikipedia.org/wiki/Category:日本流行音乐 "wikilink")

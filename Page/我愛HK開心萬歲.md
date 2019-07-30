@@ -1,9 +1,8 @@
-是[邵氏兄弟(香港)有限公司與](../Page/邵氏兄弟.md "wikilink")[電視廣播有限公司合作拍攝的電影](../Page/電視廣播有限公司.md "wikilink")。由[曾志偉](../Page/曾志偉.md "wikilink")、[梁家輝](../Page/梁家輝.md "wikilink")、[吳君如](../Page/吳君如.md "wikilink")、[袁詠儀](../Page/袁詠儀.md "wikilink")、[李治廷及](../Page/李治廷.md "wikilink")[陳法拉領銜主演](../Page/陳法拉.md "wikilink")。導演[曾志偉及](../Page/曾志偉.md "wikilink")[鍾澍佳](../Page/鍾澍佳.md "wikilink")，監製[曾志偉](../Page/曾志偉.md "wikilink")。續集为《[2012我愛HK
-喜上加囍](https://zh.wikipedia.org/wiki/2012我愛HK_喜上加囍 "wikilink")》。
+是[邵氏兄弟](../Page/邵氏兄弟.md "wikilink")(香港)有限公司與[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")合作拍攝的電影。由[曾志偉](../Page/曾志偉.md "wikilink")、[梁家輝](../Page/梁家輝.md "wikilink")、[吳君如](../Page/吳君如.md "wikilink")、[袁詠儀](../Page/袁詠儀.md "wikilink")、[李治廷](../Page/李治廷.md "wikilink")及[陳法拉](../Page/陳法拉.md "wikilink")領銜主演。導演[曾志偉](../Page/曾志偉.md "wikilink")及[鍾澍佳](../Page/鍾澍佳.md "wikilink")，監製[曾志偉](../Page/曾志偉.md "wikilink")。續集为《[2012我愛HK 喜上加囍](https://zh.wikipedia.org/wiki/2012我愛HK_喜上加囍 "wikilink")》。
 
 ## 故事大綱
 
-吳順（[梁家輝飾](../Page/梁家輝.md "wikilink")）乃廠佬一名，成家後已十多年未有回家探望老父（[馮淬帆飾](../Page/馮淬帆.md "wikilink")）。因美國經濟不景氣，搞得廠房倒閉，吳順宣佈破產，與順嫂（[吳君如飾](../Page/吳君如.md "wikilink")）及三個子女舉家搬回屋村。吳順一家要重新出發，被迫重新住回公屋，迫使他面對一直忽視的家庭問題；同時亦發現屋村已變得人面全非，往日充滿活力的社群，已不復見。一切都在改變中，因著加租，大財團超市與連鎖店的進佔，讓社區商店不斷被迫結業…與此同時，曾經與吳順稱兄道弟的托水龍（[曾志偉飾](../Page/曾志偉.md "wikilink")），也回歸公屋，改變了屋村死氣沉沉的面貌。因為托水龍的出現，吳順感到仿如回到往日，一家人的關係也變得更和洽。他與吳順憑著往日的拼鬥精神，發動一個活化屋村計劃，讓屋村重新回復舊日的溫馨面貌，並且再度成為體現香港精神的園地。
+吳順（[梁家輝](../Page/梁家輝.md "wikilink")飾）乃廠佬一名，成家後已十多年未有回家探望老父（[馮淬帆](../Page/馮淬帆.md "wikilink")飾）。因美國經濟不景氣，搞得廠房倒閉，吳順宣佈破產，與順嫂（[吳君如](../Page/吳君如.md "wikilink")飾）及三個子女舉家搬回屋村。吳順一家要重新出發，被迫重新住回公屋，迫使他面對一直忽視的家庭問題；同時亦發現屋村已變得人面全非，往日充滿活力的社群，已不復見。一切都在改變中，因著加租，大財團超市與連鎖店的進佔，讓社區商店不斷被迫結業…與此同時，曾經與吳順稱兄道弟的托水龍（[曾志偉](../Page/曾志偉.md "wikilink")飾），也回歸公屋，改變了屋村死氣沉沉的面貌。因為托水龍的出現，吳順感到仿如回到往日，一家人的關係也變得更和洽。他與吳順憑著往日的拼鬥精神，發動一個活化屋村計劃，讓屋村重新回復舊日的溫馨面貌，並且再度成為體現香港精神的園地。
 
 ## 演員表
 
@@ -684,7 +683,7 @@
 <td><p><a href="../Page/關寶慧.md" title="wikilink">關寶慧</a></p></td>
 <td></td>
 <td><p><strong>大刻薄</strong>快餐店員工<br />
-影射<a href="../Page/大家樂.md" title="wikilink">大家樂快餐店</a></p></td>
+影射<a href="../Page/大家樂.md" title="wikilink">大家樂</a>快餐店</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/馬蹄露_(藝人).md" title="wikilink">馬蹄露</a></p></td>
@@ -779,7 +778,7 @@
 <tr class="odd">
 <td><p><a href="../Page/鄧英敏.md" title="wikilink">鄧英敏</a></p></td>
 <td></td>
-<td><p>1987年<a href="../Page/歡樂滿東華.md" title="wikilink">歡樂滿東華司儀</a></p></td>
+<td><p>1987年<a href="../Page/歡樂滿東華.md" title="wikilink">歡樂滿東華</a>司儀</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/陳狄克.md" title="wikilink">陳狄克</a></p></td>
@@ -846,17 +845,16 @@
 ## 記事
 
   - 2010年12月1日：此電影於13:00在邵氏影城二號錄影廠舉行拜神儀式。
-  - 2013年2月16日：此電影於[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台首播](../Page/高清翡翠台.md "wikilink")。
+  - 2013年2月16日：此電影於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")首播。
 
 ## 電視宣傳節目：我愛香港過新年
 
-節目於2011年1月24日-1月28日22:30-23:00於[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，及於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。特別篇《**我愛香港大團圓**》於2011年1月31日22:30-23:00播出。
+節目於2011年1月24日-1月28日22:30-23:00於[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")播出，及於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。特別篇《**我愛香港大團圓**》於2011年1月31日22:30-23:00播出。
 
 ### 外部連結
 
   - [節目網站 - 我愛香港過新年](http://programme.tvb.com/variety/ilovehktobits)
-  - [節目網站 -
-    我愛香港大團圓](http://programme.tvb.com/variety/ilovehkreunionparty)
+  - [節目網站 - 我愛香港大團圓](http://programme.tvb.com/variety/ilovehkreunionparty)
   - [myTV - 我愛香港過新年](http://mytv.tvb.com/variety/ilovehktobits)
   - [myTV - 我愛香港大團圓](http://mytv.tvb.com/variety/ilovehkreunionparty)
 
@@ -864,10 +862,8 @@
 
 ## 參考文獻
 
-  - [2010年11月1日 -
-    無線力捧上位　群星拱照處女作　林欣彤扮Lolita女僕鬧市搶客](http://hk.news.yahoo.com/article/101031/3/l0fp.html)
-  - [2010年12月1日 -《香港航空呈獻：我愛HK
-    開心萬歲》拜神儀式](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2010/12/01/%E3%80%8A%E9%A6%99%E6%B8%AF%E8%88%AA%E7%A9%BA%E5%91%88%E7%8D%BB%EF%BC%9A%E6%88%91%E6%84%9Bhk-%E9%96%8B%E5%BF%83%E8%90%AC%E6%AD%B2%E3%80%8B%E6%8B%9C%E7%A5%9E%E5%84%80%E5%BC%8F/)
+  - [2010年11月1日 - 無線力捧上位　群星拱照處女作　林欣彤扮Lolita女僕鬧市搶客](http://hk.news.yahoo.com/article/101031/3/l0fp.html)
+  - [2010年12月1日 -《香港航空呈獻：我愛HK 開心萬歲》拜神儀式](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2010/12/01/%E3%80%8A%E9%A6%99%E6%B8%AF%E8%88%AA%E7%A9%BA%E5%91%88%E7%8D%BB%EF%BC%9A%E6%88%91%E6%84%9Bhk-%E9%96%8B%E5%BF%83%E8%90%AC%E6%AD%B2%E3%80%8B%E6%8B%9C%E7%A5%9E%E5%84%80%E5%BC%8F/)
 
 ## 外部連結
 
@@ -885,10 +881,4 @@
   -
   -
   -
-[Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink")
-[Category:香港喜劇片](https://zh.wikipedia.org/wiki/Category:香港喜劇片 "wikilink")
-[Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink")
-[Category:曾志伟电影](https://zh.wikipedia.org/wiki/Category:曾志伟电影 "wikilink")
-[Category:香港賀歲片](https://zh.wikipedia.org/wiki/Category:香港賀歲片 "wikilink")
-[Category:邵氏電影](https://zh.wikipedia.org/wiki/Category:邵氏電影 "wikilink")
-[Category:2011年香港電影](https://zh.wikipedia.org/wiki/Category:2011年香港電影 "wikilink")
+[Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink") [Category:香港喜劇片](https://zh.wikipedia.org/wiki/Category:香港喜劇片 "wikilink") [Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink") [Category:曾志伟电影](https://zh.wikipedia.org/wiki/Category:曾志伟电影 "wikilink") [Category:香港賀歲片](https://zh.wikipedia.org/wiki/Category:香港賀歲片 "wikilink") [Category:邵氏電影](https://zh.wikipedia.org/wiki/Category:邵氏電影 "wikilink") [Category:2011年香港電影](https://zh.wikipedia.org/wiki/Category:2011年香港電影 "wikilink")

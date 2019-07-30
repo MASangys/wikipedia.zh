@@ -1,15 +1,11 @@
-是由[NGBI授權](https://zh.wikipedia.org/wiki/南夢宮萬代發展公司 "wikilink")[光榮的Ω](https://zh.wikipedia.org/wiki/光榮公司 "wikilink")-force製作遊戲系列，以操作高達系列人氣機體“一機當千”為主題。該系列涉足[PlayStation
-3](../Page/PlayStation_3.md "wikilink")、[Xbox
-360和](../Page/Xbox_360.md "wikilink")[PlayStation
-2等平臺](../Page/PlayStation_2.md "wikilink")。
+是由[NGBI授權](https://zh.wikipedia.org/wiki/南夢宮萬代發展公司 "wikilink")[光榮的Ω](https://zh.wikipedia.org/wiki/光榮公司 "wikilink")-force製作遊戲系列，以操作高達系列人氣機體“一機當千”為主題。該系列涉足[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[PlayStation 2等平臺](../Page/PlayStation_2.md "wikilink")。
 
 ## 系列作品
 
   - 2007年3月1日 - [高達無雙](../Page/GUNDAM無雙.md "wikilink") （PS3）
   - 2007年12月27日 - 高達無雙 International （XBOX360）
   - 2008年2月28日 - 高達無雙 Special （PS2）
-  - 2008年12月18日 - [高達無雙2](../Page/GUNDAM無雙2.md "wikilink")
-    （PS3、XBOX360、PS2）
+  - 2008年12月18日 - [高達無雙2](../Page/GUNDAM無雙2.md "wikilink") （PS3、XBOX360、PS2）
   - 2010年12月16日 - [高達無雙3](../Page/GUNDAM無雙3.md "wikilink") （PS3、XBOX360）
   - 2013年12月19日 - 真-高達無雙 (PS3﹑PSV)
 
@@ -140,7 +136,4 @@
   - [高達無雙2官方網站](http://gundam-musou.jp/ps3_2/)
   - [高達無雙3官方網站](http://gundam-musou.jp/)
 
-[Category:2007年首发的电子游戏系列](https://zh.wikipedia.org/wiki/Category:2007年首发的电子游戏系列 "wikilink")
-[Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
-[Category:無雙系列](https://zh.wikipedia.org/wiki/Category:無雙系列 "wikilink")
-[Category:GUNDAM無雙系列](https://zh.wikipedia.org/wiki/Category:GUNDAM無雙系列 "wikilink")
+[Category:2007年首发的电子游戏系列](https://zh.wikipedia.org/wiki/Category:2007年首发的电子游戏系列 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink") [Category:無雙系列](https://zh.wikipedia.org/wiki/Category:無雙系列 "wikilink") [Category:GUNDAM無雙系列](https://zh.wikipedia.org/wiki/Category:GUNDAM無雙系列 "wikilink")

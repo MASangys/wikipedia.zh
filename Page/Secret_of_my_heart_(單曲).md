@@ -1,12 +1,10 @@
-《**Secret of my
-heart**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第三張單曲](../Page/倉木麻衣.md "wikilink")，於2000年4月26日發行。
+《**Secret of my heart**》是[日本](../Page/日本.md "wikilink")歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第三張單曲，於2000年4月26日發行。
 
 ## 簡介
 
-  - 「[Love, Day After
-    Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")」後自身第二高銷量的單曲\[1\]，初動則為自身最高銷量\[2\]。出道單開始連續3作銷量超過90萬張，是唯一的女性個人歌手擁有此紀錄。
+  - 「[Love, Day After Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")」後自身第二高銷量的單曲\[1\]，初動則為自身最高銷量\[2\]。出道單開始連續3作銷量超過90萬張，是唯一的女性個人歌手擁有此紀錄。
   - 音響製作由Perry Geyer等、Miguel Sá Pessoa、Michael Africk三者共同製作。
-  - PV在[澀谷公會堂進行拍攝](../Page/澀谷公會堂.md "wikilink")，在沒有觀眾的舞台上按下音箱再演唱。
+  - PV在[澀谷公會堂](../Page/澀谷公會堂.md "wikilink")進行拍攝，在沒有觀眾的舞台上按下音箱再演唱。
   - 首次成為動畫「[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")」的歌曲，其後作品亦多為該動畫的關連歌曲，日後也是該動畫主題曲之單曲中，銷量最高的一張。
 
 ## 曲目
@@ -17,8 +15,7 @@ heart**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第三�
       - 以「不能向任何人透露的秘密」為主題的歌曲。
 2.  **This is your life (4:08)**
       - 作詞：倉木麻衣　作曲：大野愛果　編曲：Cybersound
-      - 2nd單曲「[Stay by my
-        side](../Page/Stay_by_my_side.md "wikilink")」的A面後補曲。
+      - 2nd單曲「[Stay by my side](../Page/Stay_by_my_side.md "wikilink")」的A面後補曲。
 3.  **Secret of my heart 〜runnin'around at the "village" Mix〜 (6:44)**
 4.  **Secret of my heart 〜Instrumental〜**
 
@@ -50,13 +47,7 @@ heart**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第三�
 
 ## 外部連結
 
-[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink")
-[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
-[Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink")
-[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
-[Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")
-[Category:Oricon動畫單曲年榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍歌曲 "wikilink")
+[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink") [Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink") [Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink") [Category:Oricon動畫單曲年榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍歌曲 "wikilink")
 
 1.
 2.

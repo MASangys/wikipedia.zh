@@ -1,14 +1,8 @@
-《**BRIDGE**》是[日本](../Page/日本.md "wikilink")[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")4張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2003年11月27日，在SPEED2000年解散之後第二次再結成時發行，和單曲《[Walking
-in the rain/Stars to shine
-again](https://zh.wikipedia.org/wiki/Walking_in_the_rain/Stars_to_shine_again "wikilink")》同日發行。是SPEED參加的「[拯救兒童運動](https://zh.wikipedia.org/wiki/拯救兒童 "wikilink")」的一部分。
+《**BRIDGE**》是[日本](../Page/日本.md "wikilink")[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")4張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2003年11月27日，在SPEED2000年解散之後第二次再結成時發行，和單曲《[Walking in the rain/Stars to shine again](https://zh.wikipedia.org/wiki/Walking_in_the_rain/Stars_to_shine_again "wikilink")》同日發行。是SPEED參加的「[拯救兒童運動](https://zh.wikipedia.org/wiki/拯救兒童 "wikilink")」的一部分。
 
-專輯包含SPEED2003年二次再結成期間發行的兩首單曲《[Be My
-Love](https://zh.wikipedia.org/wiki/Be_My_Love_\(SPEED單曲\) "wikilink")》和《[Walking
-in the rain/Stars to shine
-again](https://zh.wikipedia.org/wiki/Walking_in_the_rain/Stars_to_shine_again "wikilink")》。和SPEED之前的專輯相比，這張專輯最與眾不同的就是當中的歌曲由許多知名的製作人創作。不僅有SPEED一直以來的主要製作人[伊秩弘將和](https://zh.wikipedia.org/wiki/伊秩弘將 "wikilink")[水島康貴](https://zh.wikipedia.org/wiki/水島康貴 "wikilink")，還有[Tommy
-february6](../Page/川瀨智子.md "wikilink")、[Gospellers](https://zh.wikipedia.org/wiki/Gospellers "wikilink")、[淳君](../Page/淳君.md "wikilink")、[CHARA](https://zh.wikipedia.org/wiki/CHARA "wikilink")、[葉山拓亮](https://zh.wikipedia.org/wiki/葉山拓亮 "wikilink")。
+專輯包含SPEED2003年二次再結成期間發行的兩首單曲《[Be My Love](https://zh.wikipedia.org/wiki/Be_My_Love_\(SPEED單曲\) "wikilink")》和《[Walking in the rain/Stars to shine again](https://zh.wikipedia.org/wiki/Walking_in_the_rain/Stars_to_shine_again "wikilink")》。和SPEED之前的專輯相比，這張專輯最與眾不同的就是當中的歌曲由許多知名的製作人創作。不僅有SPEED一直以來的主要製作人[伊秩弘將和](https://zh.wikipedia.org/wiki/伊秩弘將 "wikilink")[水島康貴](https://zh.wikipedia.org/wiki/水島康貴 "wikilink")，還有[Tommy february6](../Page/川瀨智子.md "wikilink")、[Gospellers](https://zh.wikipedia.org/wiki/Gospellers "wikilink")、[淳君](../Page/淳君.md "wikilink")、[CHARA](https://zh.wikipedia.org/wiki/CHARA "wikilink")、[葉山拓亮](https://zh.wikipedia.org/wiki/葉山拓亮 "wikilink")。
 
-在[Oricon週榜最高排行第](../Page/Oricon.md "wikilink")2位；在榜期間銷量為100萬張。
+在[Oricon](../Page/Oricon.md "wikilink")週榜最高排行第2位；在榜期間銷量為100萬張。
 
 ## 收錄曲目
 
@@ -52,7 +46,7 @@ february6](../Page/川瀨智子.md "wikilink")、[Gospellers](https://zh.wikiped
 <td><p><a href="https://zh.wikipedia.org/wiki/上杉洋史" title="wikilink">上杉洋史</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>第14張單曲（雙A面）。<a href="../Page/島袋寬子.md" title="wikilink">島袋寬子和</a><a href="../Page/上原多香子.md" title="wikilink">上原多香子主要</a>。2003年再結成時先行披露。</p></td>
+<td><p>第14張單曲（雙A面）。<a href="../Page/島袋寬子.md" title="wikilink">島袋寬子</a>和<a href="../Page/上原多香子.md" title="wikilink">上原多香子</a>主要。2003年再結成時先行披露。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -122,7 +116,7 @@ february6](../Page/川瀨智子.md "wikilink")、[Gospellers](https://zh.wikiped
 <td><p>成田真樹、五十嵐慎一</p></td>
 </tr>
 <tr class="odd">
-<td><p>上原多香子和<a href="../Page/新垣仁繪.md" title="wikilink">新垣仁繪主唱</a>。</p></td>
+<td><p>上原多香子和<a href="../Page/新垣仁繪.md" title="wikilink">新垣仁繪</a>主唱。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -180,6 +174,4 @@ february6](../Page/川瀨智子.md "wikilink")、[Gospellers](https://zh.wikiped
 </tbody>
 </table>
 
-[Category:SPEED音樂專輯](https://zh.wikipedia.org/wiki/Category:SPEED音樂專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
-[Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")
+[Category:SPEED音樂專輯](https://zh.wikipedia.org/wiki/Category:SPEED音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")

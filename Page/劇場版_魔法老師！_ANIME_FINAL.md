@@ -1,21 +1,14 @@
-《**劇場版 魔法老師！ ANIME
-FINAL**》（）是改編自日本漫畫家[赤松健原作漫畫](../Page/赤松健.md "wikilink")《[魔法老師](https://zh.wikipedia.org/wiki/魔法老師 "wikilink")》的[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。由[新房昭之執導](../Page/新房昭之.md "wikilink")，Studio
-Pastoral及[SHAFT製作](../Page/SHAFT.md "wikilink")，預計於2011年8月27日，與《[劇場版
-旋風管家 HEAVEN IS A PLACE ON
-EARTH](../Page/劇場版_旋風管家_HEAVEN_IS_A_PLACE_ON_EARTH.md "wikilink")》同時上映。
+《**劇場版 魔法老師！ ANIME FINAL**》（）是改編自日本漫畫家[赤松健](../Page/赤松健.md "wikilink")原作漫畫《[魔法老師](https://zh.wikipedia.org/wiki/魔法老師 "wikilink")》的[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。由[新房昭之](../Page/新房昭之.md "wikilink")執導，Studio Pastoral及[SHAFT](../Page/SHAFT.md "wikilink")製作，預計於2011年8月27日，與《[劇場版 旋風管家 HEAVEN IS A PLACE ON EARTH](../Page/劇場版_旋風管家_HEAVEN_IS_A_PLACE_ON_EARTH.md "wikilink")》同時上映。
 
 ## 製作背景
 
-赤松健曾於《[魔法老師OVA
-另一個世界](../Page/魔法老師_\(動畫\).md "wikilink")》發售期間定下一個銷量目標，稱若目標達成，將會把《魔法老師》改編為長篇動畫放送。最後銷量目標達成，赤松健亦遵守承諾，預定於2011年推出作品。起初，讀者對長篇動畫的定義有疑惑的地方，不清楚是屬於哪一種動畫形式，官方其後澄清為劇場版。\[1\]\[2\]
+赤松健曾於《[魔法老師OVA 另一個世界](../Page/魔法老師_\(動畫\).md "wikilink")》發售期間定下一個銷量目標，稱若目標達成，將會把《魔法老師》改編為長篇動畫放送。最後銷量目標達成，赤松健亦遵守承諾，預定於2011年推出作品。起初，讀者對長篇動畫的定義有疑惑的地方，不清楚是屬於哪一種動畫形式，官方其後澄清為劇場版。\[1\]\[2\]
 
-2011年5月17日，官方公佈作品名字為《**劇場版 魔法老師！ ANIME FINAL**》，將於8月27日破格地與《[劇場版 旋風管家
-HEAVEN IS A PLACE ON EARTH](../Page/旋風管家.md "wikilink")》一同放映。\[3\]\[4\]
+2011年5月17日，官方公佈作品名字為《**劇場版 魔法老師！ ANIME FINAL**》，將於8月27日破格地與《[劇場版 旋風管家 HEAVEN IS A PLACE ON EARTH](../Page/旋風管家.md "wikilink")》一同放映。\[3\]\[4\]
 
 2010年4月1日，赤松健曾公佈故事將會延續漫畫版的結尾。\[5\]中途曾出現故事遲遲仍未決定的問題，但於2011年7月13日，赤松健確認內容是原作漫畫故事的第二個結局版本，由其擔當故事原案。\[6\]
 
-2011年7月5日，從工作人員的網誌傳出了劇場版剛剛才進入作畫的製作部分，較一般劇場版製作倉促。這訊息後來被相關人員刪除。\[7\]對此，赤松健表示，目前跟製作《[魔法老師OVA
-另一個世界Extra 魔法少女夕映](../Page/魔法老師_\(動畫\).md "wikilink")》時的感覺差不多。\[8\]
+2011年7月5日，從工作人員的網誌傳出了劇場版剛剛才進入作畫的製作部分，較一般劇場版製作倉促。這訊息後來被相關人員刪除。\[7\]對此，赤松健表示，目前跟製作《[魔法老師OVA 另一個世界Extra 魔法少女夕映](../Page/魔法老師_\(動畫\).md "wikilink")》時的感覺差不多。\[8\]
 
 ## 故事概要
 
@@ -81,33 +74,22 @@ HEAVEN IS A PLACE ON EARTH](../Page/旋風管家.md "wikilink")》一同放映�
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [亚尔贝尔·卡摩米尔](https://zh.wikipedia.org/wiki/魔法老師角色列表#涅吉相关人物 "wikilink"):
-    [矢部雅史](https://zh.wikipedia.org/wiki/矢部雅史 "wikilink")
-  - [犬上小太郎](https://zh.wikipedia.org/wiki/犬上小太郎 "wikilink"):
-    [井上麻里奈](../Page/井上麻里奈.md "wikilink")
-  - [近卫近右卫门](https://zh.wikipedia.org/wiki/魔法老師角色列表#麻帆良学园相关人物 "wikilink"):
-    [辻村真人](https://zh.wikipedia.org/wiki/辻村真人 "wikilink")
-  - [安娜·尤莉艾温娜·可可罗瓦](https://zh.wikipedia.org/wiki/安娜·尤莉艾温娜·可可罗瓦 "wikilink"):
-    [斋藤千和](../Page/斋藤千和.md "wikilink")
-  - [高畑·T·隆道](https://zh.wikipedia.org/wiki/魔法老師角色列表#红色之翼 "wikilink"):
-    [井上伦宏](https://zh.wikipedia.org/wiki/井上伦宏 "wikilink")
-  - [杰克·拉坎](https://zh.wikipedia.org/wiki/魔法老師角色列表#红色之翼 "wikilink"):
-    [小山力也](../Page/小山力也.md "wikilink")
-  - [柯蕾特·法兰德尔](https://zh.wikipedia.org/wiki/魔法老師角色列表#亚莉阿德妮 "wikilink"):
-    [佐藤聪美](https://zh.wikipedia.org/wiki/佐藤聪美 "wikilink")
-  - [艾蜜莉·谢布席普](https://zh.wikipedia.org/wiki/魔法老師角色列表#亚莉阿德妮 "wikilink"):
-    [竹达彩奈](https://zh.wikipedia.org/wiki/竹达彩奈 "wikilink")
-  - [培尔托莉克斯·门罗](https://zh.wikipedia.org/wiki/魔法老師角色列表#亚莉阿德妮 "wikilink"):
-    [花泽香菜](https://zh.wikipedia.org/wiki/花泽香菜 "wikilink")
+  - [亚尔贝尔·卡摩米尔](https://zh.wikipedia.org/wiki/魔法老師角色列表#涅吉相关人物 "wikilink"): [矢部雅史](https://zh.wikipedia.org/wiki/矢部雅史 "wikilink")
+  - [犬上小太郎](https://zh.wikipedia.org/wiki/犬上小太郎 "wikilink"): [井上麻里奈](../Page/井上麻里奈.md "wikilink")
+  - [近卫近右卫门](https://zh.wikipedia.org/wiki/魔法老師角色列表#麻帆良学园相关人物 "wikilink"): [辻村真人](https://zh.wikipedia.org/wiki/辻村真人 "wikilink")
+  - [安娜·尤莉艾温娜·可可罗瓦](https://zh.wikipedia.org/wiki/安娜·尤莉艾温娜·可可罗瓦 "wikilink"): [斋藤千和](../Page/斋藤千和.md "wikilink")
+  - [高畑·T·隆道](https://zh.wikipedia.org/wiki/魔法老師角色列表#红色之翼 "wikilink"): [井上伦宏](https://zh.wikipedia.org/wiki/井上伦宏 "wikilink")
+  - [杰克·拉坎](https://zh.wikipedia.org/wiki/魔法老師角色列表#红色之翼 "wikilink"): [小山力也](../Page/小山力也.md "wikilink")
+  - [柯蕾特·法兰德尔](https://zh.wikipedia.org/wiki/魔法老師角色列表#亚莉阿德妮 "wikilink"): [佐藤聪美](https://zh.wikipedia.org/wiki/佐藤聪美 "wikilink")
+  - [艾蜜莉·谢布席普](https://zh.wikipedia.org/wiki/魔法老師角色列表#亚莉阿德妮 "wikilink"): [竹达彩奈](https://zh.wikipedia.org/wiki/竹达彩奈 "wikilink")
+  - [培尔托莉克斯·门罗](https://zh.wikipedia.org/wiki/魔法老師角色列表#亚莉阿德妮 "wikilink"): [花泽香菜](https://zh.wikipedia.org/wiki/花泽香菜 "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [菲特·亚维路克斯](https://zh.wikipedia.org/wiki/魔法老師角色列表#完全世界结社 "wikilink"):
-    [石田彰](../Page/石田彰.md "wikilink")
-  - [5号(库维杜姆)](https://zh.wikipedia.org/wiki/魔法老師角色列表#完全世界结社 "wikilink"):
-    [石田彰](../Page/石田彰.md "wikilink")
+  - [菲特·亚维路克斯](https://zh.wikipedia.org/wiki/魔法老師角色列表#完全世界结社 "wikilink"): [石田彰](../Page/石田彰.md "wikilink")
+  - [5号(库维杜姆)](https://zh.wikipedia.org/wiki/魔法老師角色列表#完全世界结社 "wikilink"): [石田彰](../Page/石田彰.md "wikilink")
 
 ## 製作人員
 
@@ -135,12 +117,10 @@ HEAVEN IS A PLACE ON EARTH](../Page/旋風管家.md "wikilink")》一同放映�
   - 製作人：立石謙介、大野昇、林玄規
   - 動畫製作人：菅野雄二、久保田光俊
   - 製作協力：[ZEXCS](../Page/ZEXCS.md "wikilink")、[XEBEC](../Page/XEBEC.md "wikilink")
-  - 作畫協力：、GoHands、[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")、、Magic
-    Bus
+  - 作畫協力：、GoHands、[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")、、Magic Bus
   - 動畫製作：Studio Pastoral、[SHAFT](../Page/SHAFT.md "wikilink")
   - 製作：[新涅吉部](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
-  - 發行：[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、T-JOY
+  - 發行：[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、T-JOY
 
 ## 歌曲
 
@@ -153,8 +133,7 @@ HEAVEN IS A PLACE ON EARTH](../Page/旋風管家.md "wikilink")》一同放映�
 
 ## 參見
 
-  - [劇場版 旋風管家 HEAVEN IS A PLACE ON
-    EARTH](../Page/劇場版_旋風管家_HEAVEN_IS_A_PLACE_ON_EARTH.md "wikilink")
+  - [劇場版 旋風管家 HEAVEN IS A PLACE ON EARTH](../Page/劇場版_旋風管家_HEAVEN_IS_A_PLACE_ON_EARTH.md "wikilink")
 
 ## 參考資料
 
@@ -162,26 +141,19 @@ HEAVEN IS A PLACE ON EARTH](../Page/旋風管家.md "wikilink")》一同放映�
 
 ## 外部連結
 
-  - [劇場版 魔法老師！ ANIME FINAL
-    官方網站](https://web.archive.org/web/20080404075755/http://negima.kc.kodansha.co.jp/index.html)
+  - [劇場版 魔法老師！ ANIME FINAL 官方網站](https://web.archive.org/web/20080404075755/http://negima.kc.kodansha.co.jp/index.html)
 
   - [魔法老師．旋風管家 劇場版共通網站](http://www.negihaya.com/)
 
   -
-[Category:魔法老師](https://zh.wikipedia.org/wiki/Category:魔法老師 "wikilink")
-[Category:2011年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2011年日本劇場動畫 "wikilink")
-[Category:SHAFT](https://zh.wikipedia.org/wiki/Category:SHAFT "wikilink")
+[Category:魔法老師](https://zh.wikipedia.org/wiki/Category:魔法老師 "wikilink") [Category:2011年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2011年日本劇場動畫 "wikilink") [Category:SHAFT](https://zh.wikipedia.org/wiki/Category:SHAFT "wikilink")
 
-1.  [「魔法先生ネギま！」2011年長編アニメ化決定！
-    OAD第1話付27巻は7万部超え](http://catmania.blog13.fc2.com/blog-entry-2631.html)
-2.  [『魔法先生ネギま！』
-    映画化のマガジン誌上での正式発表が9月9日発売号に早まる](http://catmania.blog13.fc2.com/blog-entry-2535.html)
+1.  [「魔法先生ネギま！」2011年長編アニメ化決定！ OAD第1話付27巻は7万部超え](http://catmania.blog13.fc2.com/blog-entry-2631.html)
+2.  [『魔法先生ネギま！』 映画化のマガジン誌上での正式発表が9月9日発売号に早まる](http://catmania.blog13.fc2.com/blog-entry-2535.html)
 3.  [劇場版「魔法先生ネギま！」＆「ハヤテのごとく！」特報第1弾](http://www.youtube.com/watch?v=LG-eEpkLYgk)
 4.  [雜誌宣傳圖片](http://gallery.gaforum.org/d/74567-1/7858454443by6GAF.JPG)
 5.  [網誌選段](http://www.gaforum.org/showpost.php?p=8431638&postcount=147)
 6.  [官方網站 NEWS](http://negima.kc.kodansha.co.jp/news/index.html)
 7.  [工作人員Blog，已削除](http://ameblo.jp/obatasensei/day-20110705.html)，[相關新聞紀錄](http://yaraon.blog109.fc2.com/blog-entry-2919.html#more)
-
 8.  [赤松健、劇場版『ネギま\!』の作画遅れに触れ「アリアドネー編OADの時もこんな感じでしたよ。」](http://catmania.blog13.fc2.com/blog-entry-3325.html)
-9.  [官方網站
-    INFORMATION](http://negima.kc.kodansha.co.jp/information/index.html)
+9.  [官方網站 INFORMATION](http://negima.kc.kodansha.co.jp/information/index.html)

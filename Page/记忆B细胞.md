@@ -1,9 +1,8 @@
-[Original_antigenic_sin.svg](https://zh.wikipedia.org/wiki/File:Original_antigenic_sin.svg "fig:Original_antigenic_sin.svg")是[免疫系统中制造](../Page/免疫系统.md "wikilink")[抗体来对抗](https://zh.wikipedia.org/wiki/抗体 "wikilink")[抗原的一种细胞](../Page/抗原.md "wikilink")。它们会针对特定抗原产生记忆细胞来加速第二次的免疫反应。\]\]
-**记忆B细胞**是在初次[免疫反应后](https://zh.wikipedia.org/wiki/免疫反应 "wikilink")，產生[IgM](../Page/IgM.md "wikilink")[抗體的](https://zh.wikipedia.org/wiki/抗體 "wikilink")[B細胞轉為產生](https://zh.wikipedia.org/wiki/B細胞 "wikilink")[IgG的一种B細胞](../Page/IgG.md "wikilink")。
+[Original_antigenic_sin.svg](https://zh.wikipedia.org/wiki/File:Original_antigenic_sin.svg "fig:Original_antigenic_sin.svg")是[免疫系统](../Page/免疫系统.md "wikilink")中制造[抗体来对抗](https://zh.wikipedia.org/wiki/抗体 "wikilink")[抗原](../Page/抗原.md "wikilink")的一种细胞。它们会针对特定抗原产生记忆细胞来加速第二次的免疫反应。\]\] **记忆B细胞**是在初次[免疫反应后](https://zh.wikipedia.org/wiki/免疫反应 "wikilink")，產生[IgM](../Page/IgM.md "wikilink")[抗體的](https://zh.wikipedia.org/wiki/抗體 "wikilink")[B細胞轉為產生](https://zh.wikipedia.org/wiki/B細胞 "wikilink")[IgG](../Page/IgG.md "wikilink")的一种B細胞。
 
 ## 初次免疫反应、[抗原决定簇与](https://zh.wikipedia.org/wiki/抗原决定簇 "wikilink")[抗体决定簇](https://zh.wikipedia.org/wiki/抗体决定簇 "wikilink")
 
-在一个[抗原与一个从未被此抗原刺激过的B细胞接触时](../Page/抗原.md "wikilink")，将激活初次免疫，B细胞将大量增值，其中多数分化为[浆细胞](https://zh.wikipedia.org/wiki/浆细胞 "wikilink")（效应B细胞）并产生抗体来清除感染，其余的则分化为记忆细胞。记忆细胞通常能存活数年，甚至是终生。
+在一个[抗原](../Page/抗原.md "wikilink")与一个从未被此抗原刺激过的B细胞接触时，将激活初次免疫，B细胞将大量增值，其中多数分化为[浆细胞](https://zh.wikipedia.org/wiki/浆细胞 "wikilink")（效应B细胞）并产生抗体来清除感染，其余的则分化为记忆细胞。记忆细胞通常能存活数年，甚至是终生。
 
 B细胞产生的抗体的分子上有一个特定的[抗原决定簇](https://zh.wikipedia.org/wiki/抗原决定簇 "wikilink")（与抗原上的[抗体决定簇相对的氨基酸序列](https://zh.wikipedia.org/wiki/抗体决定簇 "wikilink")）来确定抗体。
 
@@ -19,7 +18,7 @@ B细胞产生的抗体的分子上有一个特定的[抗原决定簇](https://zh
 
 之所以称他们为记忆B细胞，是因为这种细胞和他们的后代表达且仅表达一种特定的[抗原决定簇](https://zh.wikipedia.org/wiki/抗原决定簇 "wikilink")，并且存活时间更久。
 
-二次免疫反应就是接种[疫苗所产生的效果的内在因素](../Page/疫苗.md "wikilink")。
+二次免疫反应就是接种[疫苗](../Page/疫苗.md "wikilink")所产生的效果的内在因素。
 
 ## 普通高中课程标准实验教科书的定义
 

@@ -1,5 +1,4 @@
-**pako**（），日本男性[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。出生於[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")，目前居住於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")。曾以「**宮澤波宏**」筆名替《》小說繪製插畫。近年則改名為「pako」，先後替《[魔法人力派遣公司](../Page/魔法人力派遣公司.md "wikilink")》與《》
-等[輕小說負責插畫工作](../Page/輕小說.md "wikilink")。
+**pako**（），日本男性[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。出生於[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")，目前居住於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")。曾以「**宮澤波宏**」筆名替《》小說繪製插畫。近年則改名為「pako」，先後替《[魔法人力派遣公司](../Page/魔法人力派遣公司.md "wikilink")》與《》 等[輕小說](../Page/輕小說.md "wikilink")負責插畫工作。
 
 ## 作品
 
@@ -26,8 +25,7 @@
 
   - （[PS2](../Page/PlayStation_2.md "wikilink")）
 
-  - [Fate/Grand
-    Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")（手機遊戲，部分角色設計\[1\]）
+  - [Fate/Grand Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")（手機遊戲，部分角色設計\[1\]）
 
 ### 人物設定
 
@@ -39,7 +37,6 @@
 
   - [個人部落站](http://hsspako.blog32.fc2.com/)
 
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
-[Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink")
+[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink")
 
 1.

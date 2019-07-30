@@ -20,8 +20,7 @@
   - **AGGD**-[Mbambanakira機場](https://zh.wikipedia.org/wiki/Mbambanakira機場 "wikilink")-[Mbambanakira](https://zh.wikipedia.org/wiki/Mbambanakira "wikilink")
   - **AGGE**-[Balalae機場](https://zh.wikipedia.org/wiki/Balalae機場 "wikilink")-[肖特蘭島](https://zh.wikipedia.org/wiki/肖特蘭島 "wikilink")
   - **AGGF**-[費拉機場](https://zh.wikipedia.org/wiki/費拉機場 "wikilink")-[聖伊莎貝爾島](../Page/聖伊莎貝爾島.md "wikilink")[費拉](../Page/費拉.md "wikilink")
-  - **AGGG**-[霍尼亞拉
-    FIR](https://zh.wikipedia.org/wiki/霍尼亞拉_FIR "wikilink")-[瓜達爾卡納爾島](https://zh.wikipedia.org/wiki/瓜達爾卡納爾島 "wikilink")[霍尼亞拉](https://zh.wikipedia.org/wiki/霍尼亞拉 "wikilink")
+  - **AGGG**-[霍尼亞拉 FIR](https://zh.wikipedia.org/wiki/霍尼亞拉_FIR "wikilink")-[瓜達爾卡納爾島](https://zh.wikipedia.org/wiki/瓜達爾卡納爾島 "wikilink")[霍尼亞拉](https://zh.wikipedia.org/wiki/霍尼亞拉 "wikilink")
   - **AGGH**-[霍尼亞拉國際機場](../Page/霍尼亞拉國際機場.md "wikilink")-[瓜達爾卡納爾島](https://zh.wikipedia.org/wiki/瓜達爾卡納爾島 "wikilink")[霍尼亞拉](https://zh.wikipedia.org/wiki/霍尼亞拉 "wikilink")
   - **AGGI**-[Babanakira機場](https://zh.wikipedia.org/wiki/Babanakira機場 "wikilink")-[Babanakira](https://zh.wikipedia.org/wiki/Babanakira "wikilink")
   - **AGGJ**-[阿姆阿姆機場](https://zh.wikipedia.org/wiki/阿姆阿姆機場 "wikilink")-[阿姆阿姆](https://zh.wikipedia.org/wiki/阿姆阿姆 "wikilink")
@@ -69,4 +68,27 @@
   - **AYKA**-[Kiriwini機場](https://zh.wikipedia.org/wiki/Kiriwini機場 "wikilink")-[Kiriwini](https://zh.wikipedia.org/wiki/Kiriwini "wikilink")
   - **AYKI**-[基永加機場](https://zh.wikipedia.org/wiki/基永加機場 "wikilink")-[基永加](https://zh.wikipedia.org/wiki/基永加 "wikilink")
   - **AYKK**-[凱里馬機場](https://zh.wikipedia.org/wiki/凱里馬機場 "wikilink")-[凱里馬](https://zh.wikipedia.org/wiki/凱里馬 "wikilink")
-  - **AYKT**-[基埃塔阿羅帕機場](https://zh.wikipedia.org/wiki/基埃塔阿羅帕機場 "wikilink")-\[
+  - **AYKT**-[基埃塔阿羅帕機場](https://zh.wikipedia.org/wiki/基埃塔阿羅帕機場 "wikilink")-[基埃塔](../Page/基埃塔.md "wikilink")
+  - **AYKV**-[卡維恩機場](https://zh.wikipedia.org/wiki/卡維恩機場 "wikilink")-[卡維恩](https://zh.wikipedia.org/wiki/卡維恩 "wikilink")
+  - **AYKY**-[Kunaye機場](https://zh.wikipedia.org/wiki/Kunaye機場 "wikilink")-[Kunaye](https://zh.wikipedia.org/wiki/Kunaye "wikilink")
+  - **AYLA**-[萊城機場](https://zh.wikipedia.org/wiki/萊城機場 "wikilink")-[萊城](https://zh.wikipedia.org/wiki/萊城_\(巴布亞新畿內亞\) "wikilink")
+  - **AYMD**-[馬當機場](https://zh.wikipedia.org/wiki/馬當機場 "wikilink")-[馬當](https://zh.wikipedia.org/wiki/馬當 "wikilink")
+  - **AYMH**-[芒特哈根機場](https://zh.wikipedia.org/wiki/芒特哈根機場 "wikilink")-[芒特哈根](../Page/芒特哈根.md "wikilink")
+  - **AYMN**-[門迪機場](https://zh.wikipedia.org/wiki/門迪機場 "wikilink")-[門迪](https://zh.wikipedia.org/wiki/門迪_\(巴布亞新畿內亞\) "wikilink")
+  - **AYMO**-[莫莫特機場](https://zh.wikipedia.org/wiki/莫莫特機場 "wikilink")-[馬努斯島](../Page/馬努斯島.md "wikilink")
+  - **AYMR**-[莫羅機場](https://zh.wikipedia.org/wiki/莫羅機場 "wikilink")-[莫羅](https://zh.wikipedia.org/wiki/莫羅 "wikilink")
+  - **AYMS**-[米西馬機場](https://zh.wikipedia.org/wiki/米西馬機場 "wikilink")-[米西馬島](https://zh.wikipedia.org/wiki/米西馬島 "wikilink")
+  - **AYNZ**-[萊城納扎布機場](https://zh.wikipedia.org/wiki/萊城納扎布機場 "wikilink")-[萊城](https://zh.wikipedia.org/wiki/萊城_\(巴布亞新畿內亞\) "wikilink")/[納扎布](https://zh.wikipedia.org/wiki/納扎布 "wikilink")
+  - **AYPY**-[莫爾茲比港/傑克遜國際機場](https://zh.wikipedia.org/wiki/莫爾茲比港/傑克遜國際機場 "wikilink")-[莫爾茲比港](https://zh.wikipedia.org/wiki/莫爾茲比港 "wikilink")
+  - **AYRB**-[拉包爾機場](https://zh.wikipedia.org/wiki/拉包爾機場 "wikilink")-[新不列顛](../Page/新不列顛.md "wikilink")[拉包爾](../Page/拉包爾.md "wikilink")-已於1994年停用
+  - **AYTA**-[塔里機場](https://zh.wikipedia.org/wiki/塔里機場 "wikilink")-[塔里](https://zh.wikipedia.org/wiki/塔里 "wikilink")
+  - **AYTB**-[Tabubil機場](https://zh.wikipedia.org/wiki/Tabubil機場 "wikilink")-[Tabubil](https://zh.wikipedia.org/wiki/Tabubil "wikilink")
+  - **AYTK**-[拉包爾機場](https://zh.wikipedia.org/wiki/拉包爾機場 "wikilink")-[Tokua](https://zh.wikipedia.org/wiki/Tokua "wikilink")[拉包爾](../Page/拉包爾.md "wikilink")
+  - **AYVN**-[瓦尼莫機場](https://zh.wikipedia.org/wiki/瓦尼莫機場 "wikilink")-[瓦尼莫](https://zh.wikipedia.org/wiki/瓦尼莫 "wikilink")
+  - **AYWD**-[瓦佩納曼達機場](https://zh.wikipedia.org/wiki/瓦佩納曼達機場 "wikilink")-[瓦佩納曼達](https://zh.wikipedia.org/wiki/瓦佩納曼達 "wikilink")
+  - **AYWK**-[韋瓦克機場](../Page/韋瓦克機場.md "wikilink")-[韋瓦克](https://zh.wikipedia.org/wiki/韋瓦克 "wikilink")
+
+## 參考文獻
+
+  -
+[Category:航空代碼列表](https://zh.wikipedia.org/wiki/Category:航空代碼列表 "wikilink") [Category:國際民航組織機場代碼](https://zh.wikipedia.org/wiki/Category:國際民航組織機場代碼 "wikilink")

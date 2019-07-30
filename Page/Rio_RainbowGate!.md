@@ -1,5 +1,4 @@
-『**Rio
-RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
+『**Rio RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 [Pachislo為原案發售的](https://zh.wikipedia.org/wiki/Pachislo "wikilink")[Rio系列](../Page/Rio系列.md "wikilink")。
 
@@ -18,16 +17,14 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
     三圍：B91/W59/H88
     最喜歡的食物：薑餅
     興趣：彈珠臺、作點心
-    霍華德度假村最有人氣的發牌者，手持「7」號的Gate持牌者。擁有Roll
-    Ruler（ロールルーラー）的能力。被人稱為「勝利的女神」，只要理歐出現在附近原本殺氣騰騰的賭場就會緩和下來，且帶給週遭的人運氣。養著名叫琪布（♂）的[雪貂寵物](https://zh.wikipedia.org/wiki/雪貂 "wikilink")。傳說持牌者麗莎的女兒，夢想有一日可以成為跟母親一樣的持牌者。經常面帶微笑，宗旨是「滿足客人的願望」。比起自己更在意週遭的朋友，總是自然而然的關心朋友、替別人著想。
+    霍華德度假村最有人氣的發牌者，手持「7」號的Gate持牌者。擁有Roll Ruler（ロールルーラー）的能力。被人稱為「勝利的女神」，只要理歐出現在附近原本殺氣騰騰的賭場就會緩和下來，且帶給週遭的人運氣。養著名叫琪布（♂）的[雪貂寵物](https://zh.wikipedia.org/wiki/雪貂 "wikilink")。傳說持牌者麗莎的女兒，夢想有一日可以成為跟母親一樣的持牌者。經常面帶微笑，宗旨是「滿足客人的願望」。比起自己更在意週遭的朋友，總是自然而然的關心朋友、替別人著想。
     過去曾在某個賭場代替客人賭局，勝利以後被神秘的男子給予「7」號的Gate，並留下「小姐有持有這個的資格」後離去。
 
 <!-- end list -->
 
   -
     霍華德新聘請的發牌者，理歐的兒時玩伴。理歐的母親麗莎的學生。
-    母親長期住院，父親也因為工作關係而無法回家，被祖父寄養在麗莎底下照顧，因此跟理歐宛如姐妹關係，直到出國留學以後分隔兩地。與理歐一樣可以使用Roll
-    Ruler（ロールルーラー），不同的是莉娜是使用力量來支配比賽的，為了獲勝不惜用殘酷的手段。
+    母親長期住院，父親也因為工作關係而無法回家，被祖父寄養在麗莎底下照顧，因此跟理歐宛如姐妹關係，直到出國留學以後分隔兩地。與理歐一樣可以使用Roll Ruler（ロールルーラー），不同的是莉娜是使用力量來支配比賽的，為了獲勝不惜用殘酷的手段。
     於動畫第八集中表明自己是理歐同父異母的姐妹，但認為一像對母親溫柔的父親是與理歐的母親私奔，並以此怨恨為復仇目標，想奪取所有的GATE以切斷理歐與理歐母親的牽絆。
 
 <!-- end list -->
@@ -35,16 +32,13 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
   -
     被大富豪的祖父帶來霍華德度假村的少女。
     起初對於住在霍華德度假村的賭場絲毫不感興趣，之後因為與理歐相遇變開始產生興趣且非常喜歡理歐，希望理歐做自己的姐姐。看到理歐跟莉娜過度的友好會非常的忌妒吃醋。
-    隨身抱著一隻標有（made in
-    china）的[布偶熊巧可](https://zh.wikipedia.org/wiki/布偶 "wikilink")。
+    隨身抱著一隻標有（made in china）的[布偶熊巧可](https://zh.wikipedia.org/wiki/布偶 "wikilink")。
 
 <!-- end list -->
 
   -
     霍華德賭場的常客，[好萊塢](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")[女優](https://zh.wikipedia.org/wiki/女優 "wikilink")。
-    賭博運氣偏差經常在[角子機](../Page/角子機.md "wikilink")（slot
-    machine）前苦惱著。偶而會代替其他發牌者來擔任判定理歐與其他賭客的賭局勝負。對於Gate
-    Battle的賭局非常感興趣。
+    賭博運氣偏差經常在[角子機](../Page/角子機.md "wikilink")（slot machine）前苦惱著。偶而會代替其他發牌者來擔任判定理歐與其他賭客的賭局勝負。對於Gate Battle的賭局非常感興趣。
 
 <!-- end list -->
 
@@ -106,8 +100,7 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 ### 其他登場人物
 
   -
-    理歐的母親。再世上唯一收集齊全13張Gate的人，同時也有「ダブル・アール」（Double
-    All）的稱號，傳說的Dera。左邊的臉頰上有顆痣。
+    理歐的母親。再世上唯一收集齊全13張Gate的人，同時也有「ダブル・アール」（Double All）的稱號，傳說的Dera。左邊的臉頰上有顆痣。
     其在收集到13張GATE成為MVCD的同時被撲克牌工會的激進派盯上，意圖綁架以行壞事，為了顧及到理歐與莉莎的安全而與莉莎的父親雷一起銷聲匿跡。
     於動畫第10集中，為了讓理歐回覆能力而與霍華德兩人設計賭局，假名為JOCKER並在理歐獲勝之後給予GATE一張。
 
@@ -119,8 +112,7 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 ### 其他客人
 
   -
-    為了搶奪敏特手中的小熊[布偶夜晚時埋伏在酒店路上](https://zh.wikipedia.org/wiki/布偶 "wikilink")，因埋伏的保鏢被理歐擊退，隔日出現在霍華德賭場提議與理歐展開賭局。結婚典禮五分鐘前新娘跑路後至此都是單身漢，一直以來用玩偶撫平著妻子跑路的痛楚，是個『重度玩偶收藏狂』，對於敏特手中產於[比利時的布偶非常執著](https://zh.wikipedia.org/wiki/比利時 "wikilink")。在現實中毫無女人緣但是對自己的賭運有自信，比試[德州撲克都以四張Q](../Page/德州撲克.md "wikilink")－四條（Four
-    of a kind）來對決因此以「女王殺手」的名號自稱。
+    為了搶奪敏特手中的小熊[布偶夜晚時埋伏在酒店路上](https://zh.wikipedia.org/wiki/布偶 "wikilink")，因埋伏的保鏢被理歐擊退，隔日出現在霍華德賭場提議與理歐展開賭局。結婚典禮五分鐘前新娘跑路後至此都是單身漢，一直以來用玩偶撫平著妻子跑路的痛楚，是個『重度玩偶收藏狂』，對於敏特手中產於[比利時的布偶非常執著](https://zh.wikipedia.org/wiki/比利時 "wikilink")。在現實中毫無女人緣但是對自己的賭運有自信，比試[德州撲克](../Page/德州撲克.md "wikilink")都以四張Q－四條（Four of a kind）來對決因此以「女王殺手」的名號自稱。
 
 <!-- end list -->
 
@@ -131,12 +123,9 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 ## 用語
 
   - ゲート/Gate
-    國際的Dera派遣機關「國際賭場Dera工會」發行的13張卡片。Gate的持有者都以「Gate持牌者」稱呼。持牌者賭上手中的GATO與其他的持牌者戰鬥並以「Gate
-    Battle」進行，最後收集齊13張Gate的持牌者將會得到工會授予的最強Dera的証明。
-    實際上，GATE是超古代文明的失落技術所創造出來的[時代錯誤遺產](../Page/歐帕茲.md "wikilink")（Out Of
-    Place Artifacts,OOPARTS），是上古時代就存在的撲克牌與羅牌原型。
-    傳說著能得到13張GATE的人就能看見彩虹之橋，實質上那是MVCD與GATE共鳴之時所開啟的大門，跨過此門的人將獲得異於常人的成長，將有一瞬間獲得能有時現任何願望的命運操縱術，也就是Ultimate
-    Roll Ruler
+    國際的Dera派遣機關「國際賭場Dera工會」發行的13張卡片。Gate的持有者都以「Gate持牌者」稱呼。持牌者賭上手中的GATO與其他的持牌者戰鬥並以「Gate Battle」進行，最後收集齊13張Gate的持牌者將會得到工會授予的最強Dera的証明。
+    實際上，GATE是超古代文明的失落技術所創造出來的[時代錯誤遺產](../Page/歐帕茲.md "wikilink")（Out Of Place Artifacts,OOPARTS），是上古時代就存在的撲克牌與羅牌原型。
+    傳說著能得到13張GATE的人就能看見彩虹之橋，實質上那是MVCD與GATE共鳴之時所開啟的大門，跨過此門的人將獲得異於常人的成長，將有一瞬間獲得能有時現任何願望的命運操縱術，也就是Ultimate Roll Ruler
 
 <!-- end list -->
 
@@ -169,9 +158,7 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
   -
 
       -
-        歌 -
-        （理欧（[井上麻里奈](../Page/井上麻里奈.md "wikilink")）、敏特（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）、莉娜（[高橋智秋](../Page/高橋智秋.md "wikilink")）、琳达（[日笠陽子](../Page/日笠陽子.md "wikilink")））/作詞--畑
-        亞貴 / 作曲--OPA /編曲--齋藤悠弥
+        歌 - （理欧（[井上麻里奈](../Page/井上麻里奈.md "wikilink")）、敏特（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）、莉娜（[高橋智秋](../Page/高橋智秋.md "wikilink")）、琳达（[日笠陽子](../Page/日笠陽子.md "wikilink")））/作詞--畑 亞貴 / 作曲--OPA /編曲--齋藤悠弥
 
   - 片尾曲
 
@@ -180,8 +167,7 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
   -
 
       -
-        作詞 -  / 作曲・編曲 - 小池雅也 / 歌 -
-        [ULTRA-PRISM](https://zh.wikipedia.org/wiki/ULTRA-PRISM "wikilink")
+        作詞 -  / 作曲・編曲 - 小池雅也 / 歌 - [ULTRA-PRISM](https://zh.wikipedia.org/wiki/ULTRA-PRISM "wikilink")
 
 ### 各集列表
 
@@ -380,7 +366,7 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 | [東京都](../Page/東京都.md "wikilink")                                  | [TOKYO MX](../Page/東京都會電視台.md "wikilink")             | 2011年1月4日 - 3月29日 | 星期二 23時00分 - 23時30分                                   | [独立UHF局](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |                                          |
 | [愛知縣](../Page/愛知縣.md "wikilink")                                  | [愛知電視台](../Page/愛知電視台.md "wikilink")                  | 2011年1月5日 - 3月30日 | 星期三 26時28分 - 26時58分                                   | [東京電視網](../Page/東京電視網.md "wikilink")                            |                                          |
 | [近畿廣域圏](https://zh.wikipedia.org/wiki/近畿廣域圏 "wikilink")           | [毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink") | 2011年1月6日 - 3月31日 | 星期四 25時55分 - 26時25分                                   | [TBS系列](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")         |                                          |
-| 日本全域                                                              | BS11                                                  | 2011年1月7日 - 4月1日  | 星期五 23時00分 - 23時30分                                   | [BSデジタル放送](https://zh.wikipedia.org/wiki/BSデジタル放送 "wikilink")   | [ANIME+範圍](../Page/ANIME+.md "wikilink") |
+| 日本全域                                                              | BS11                                                  | 2011年1月7日 - 4月1日  | 星期五 23時00分 - 23時30分                                   | [BSデジタル放送](https://zh.wikipedia.org/wiki/BSデジタル放送 "wikilink")   | [ANIME+](../Page/ANIME+.md "wikilink")範圍 |
 | [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2011年1月8日 -                                           | 星期六 0時00分頃更新      | [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink") | 最新話一週免費                                                         |                                          |
 | [AT-X](../Page/AT-X.md "wikilink")                                | 2011年1月8日 - 4月2日                                      | 星期六 8時30分 - 9時00分 | [CS放送](https://zh.wikipedia.org/wiki/CS放送 "wikilink") | 有重播                                                             |                                          |
 | [神奈川縣](../Page/神奈川縣.md "wikilink")                                | [tvk](../Page/神奈川電視台.md "wikilink")                   | 2011年4月4日 -       | 星期一 25時45分 - 26時15分                                   | 独立UHF局                                                          |                                          |
@@ -389,5 +375,4 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 
   - [電視動畫公式網頁](https://web.archive.org/web/20110207225904/http://riorainbowgate.com/)
 
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
-[Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink")
+[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink") [Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink")

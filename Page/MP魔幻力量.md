@@ -1,7 +1,4 @@
-**MP魔幻力量**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Magic
-Power**），[臺灣流行](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，為台灣首組雙主唱男子樂團。由[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")[廷廷](../Page/蕭秉治.md "wikilink")、主唱[嘎嘎](../Page/潘俊佳.md "wikilink")、[DJ](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")[鼓鼓](../Page/呂國緯.md "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[雷堡](https://zh.wikipedia.org/wiki/李柏誼 "wikilink")、[貝斯手兼](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")[團長](https://zh.wikipedia.org/wiki/團長 "wikilink")[凱開](../Page/賴世凱.md "wikilink")、[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")[阿翔組成](../Page/黃柏翔.md "wikilink")。其團名取自第一首單曲〈私奔到月球2008
-\[1\]〉詞中的「眼神的**Magic
-Power**」（簡稱**MP**，常與中文譯名**魔幻力量**\[2\]併稱）。已於2017年11月9日宣布正式解散。
+**MP魔幻力量**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Magic Power**），[臺灣](../Page/臺灣.md "wikilink")流行[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，為台灣首組雙主唱男子樂團。由[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")[廷廷](../Page/蕭秉治.md "wikilink")、主唱[嘎嘎](../Page/潘俊佳.md "wikilink")、[DJ](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")[鼓鼓](../Page/呂國緯.md "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[雷堡](https://zh.wikipedia.org/wiki/李柏誼 "wikilink")、[貝斯手兼](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")[團長](https://zh.wikipedia.org/wiki/團長 "wikilink")[凱開](../Page/賴世凱.md "wikilink")、[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")[阿翔組成](../Page/黃柏翔.md "wikilink")。其團名取自第一首單曲〈私奔到月球2008 \[1\]〉詞中的「眼神的**Magic Power**」（簡稱**MP**，常與中文譯名**魔幻力量**\[2\]併稱）。已於2017年11月9日宣布正式解散。
 
 ## 簡歷
 
@@ -27,33 +24,27 @@ MP魔幻力量於第二張專輯《[不按牌理出牌](../Page/不按牌理出�
 
 2014年12月20日首次站上[臺北小巨蛋舉辦](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")《我們的主場》演唱會。
 
-2015年3月28日與[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[ORANGE
-RANGE一同站上臺北小巨蛋舉辦](https://zh.wikipedia.org/wiki/ORANGE_RANGE "wikilink")《魔幻新樂園》演唱會。
+2015年3月28日與[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[ORANGE RANGE一同站上臺北小巨蛋舉辦](https://zh.wikipedia.org/wiki/ORANGE_RANGE "wikilink")《魔幻新樂園》演唱會。
 
-2015年6月，
-因藝人安心亞被主唱[嘎嘎劈腿戀情](../Page/潘俊佳.md "wikilink")，被交往中的王姓女友發現因而不滿，憤將嘎嘎、安心亞兩人間親密互動影片外流曝光。兩人認了去年曾經交往。因嘎嘎私人行為，經紀公司[相信音樂暫停他個人所有宣傳活動並予以禁足半年處分](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")，僅讓他參與售票、簽約商演。
+2015年6月， 因藝人安心亞被主唱[嘎嘎劈腿戀情](../Page/潘俊佳.md "wikilink")，被交往中的王姓女友發現因而不滿，憤將嘎嘎、安心亞兩人間親密互動影片外流曝光。兩人認了去年曾經交往。因嘎嘎私人行為，經紀公司[相信音樂暫停他個人所有宣傳活動並予以禁足半年處分](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")，僅讓他參與售票、簽約商演。
 
 2015年7月18日首次站上[高雄巨蛋舉辦](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")《我們的主場》演唱會。
 
 2015年11月4日在日本發行首張日文精選輯，首波主打為日文版的《我還是愛著你》、《射手》。
 
-2016年1月，主唱[嘎嘎因被媒體拍到在街頭與](../Page/潘俊佳.md "wikilink")[Popu
-Lady團員寶兒有親密舉動](../Page/Popu_Lady.md "wikilink")，並因半年內連犯兩錯，遭到經紀公司[相信音樂退團處分](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")；24日，第11屆[KKBOX風雲榜是嘎嘎在MP魔幻力量的最後一場大型表演演出](../Page/KKBOX.md "wikilink")，31日正式退團。另，主唱[廷廷因為壓力大引起憂鬱症](../Page/蕭秉治.md "wikilink")，出席第11屆[KKBOX風雲榜演出後](../Page/KKBOX.md "wikilink")，團體活動全面暫停。
+2016年1月，主唱[嘎嘎因被媒體拍到在街頭與](../Page/潘俊佳.md "wikilink")[Popu Lady團員寶兒有親密舉動](../Page/Popu_Lady.md "wikilink")，並因半年內連犯兩錯，遭到經紀公司[相信音樂退團處分](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")；24日，第11屆[KKBOX](../Page/KKBOX.md "wikilink")風雲榜是嘎嘎在MP魔幻力量的最後一場大型表演演出，31日正式退團。另，主唱[廷廷因為壓力大引起憂鬱症](../Page/蕭秉治.md "wikilink")，出席第11屆[KKBOX](../Page/KKBOX.md "wikilink")風雲榜演出後，團體活動全面暫停。
 
 2016年2月13日，鼓手[阿翔在團體官方臉書發文宣佈](../Page/黃柏翔.md "wikilink")，因為個人人生及生涯規畫等因素，正式退出MP魔幻力量。不久後被爆料，與妻子陳艾琳籌備婚禮前（2015年3月秘密登記結婚），和女粉絲發生性行為，被大批網友砲轟，而事發後在IG發文道歉。
 
 2016年4月8日，主唱[廷廷於個人臉書發文與唱片公司](../Page/蕭秉治.md "wikilink")、團員及歌迷「告別」，疑似退出MP魔幻力量\[3\]，隨後相信音樂表示，廷廷只是暫退演藝圈休養，並非退團。而在7月初，MP於團體官方臉書發文宣佈將在超犀利趴合體復出。\[4\]
 
-2016年7月30日，MP魔幻力量於[超犀利趴演唱會合體演出](../Page/超犀利趴.md "wikilink")，此次表演為1月24日最後一次六人合體後，首次以四人復出。
+2016年7月30日，MP魔幻力量於[超犀利趴](../Page/超犀利趴.md "wikilink")演唱會合體演出，此次表演為1月24日最後一次六人合體後，首次以四人復出。
 
-2016年8月26日發行《MP魔幻力量 我們的主場 演唱會LIVE
-DVD》，8月5日開始預購，分為USB和DVD兩種；USB和DVD收錄台北小巨蛋、高雄巨蛋演唱會190分鐘的內容，USB僅限預購版販售，內含鐵製鑰匙圈，以及《我無法不愛你》、《未來就是現在（搖滾版）》兩首單曲。
+2016年8月26日發行《MP魔幻力量 我們的主場 演唱會LIVE DVD》，8月5日開始預購，分為USB和DVD兩種；USB和DVD收錄台北小巨蛋、高雄巨蛋演唱會190分鐘的內容，USB僅限預購版販售，內含鐵製鑰匙圈，以及《我無法不愛你》、《未來就是現在（搖滾版）》兩首單曲。
 
-2016年8月27日於西門紅樓舉辦《MP魔幻力量 我們的主場 演唱會LIVE
-DVD》簽唱會,這場活動不僅是全台唯一限定，更將是MP今年最後一場公開活動。結束27日簽唱會，MP將全心投入音樂製作，已經決定不參加跨年表演、尾牙、商演、代言等活動，以為了好好沈澱、專心回歸創作。(這也是mp魔幻力量最後一次的演出。)
+2016年8月27日於西門紅樓舉辦《MP魔幻力量 我們的主場 演唱會LIVE DVD》簽唱會,這場活動不僅是全台唯一限定，更將是MP今年最後一場公開活動。結束27日簽唱會，MP將全心投入音樂製作，已經決定不參加跨年表演、尾牙、商演、代言等活動，以為了好好沈澱、專心回歸創作。(這也是mp魔幻力量最後一次的演出。)
 
-2016年11月27、28日DJ鼓鼓以個人名義於11/26台北、11/27高雄舉辦《鼓鼓  **Make it
-Real**  首張全創作新歌演唱會》，而11/27高雄場，因病長期休養的主唱廷廷，無預警為鼓鼓站台。
+2016年11月27、28日DJ鼓鼓以個人名義於11/26台北、11/27高雄舉辦《鼓鼓  **Make it Real**  首張全創作新歌演唱會》，而11/27高雄場，因病長期休養的主唱廷廷，無預警為鼓鼓站台。
 
 2016年12月3日，DJ鼓鼓以個人名義推出首張個人全創作專輯《鼓鼓可以唷 Make It Real》。
 
@@ -87,7 +78,7 @@ Real**  首張全創作新歌演唱會》，而11/27高雄場，因病長期�
 <td><p>阿翔</p></td>
 <td></td>
 <td><p>O</p></td>
-<td><p><a href="../Page/輔仁大學.md" title="wikilink">輔仁大學企業管理系</a></p></td>
+<td><p><a href="../Page/輔仁大學.md" title="wikilink">輔仁大學</a>企業管理系</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鼓手" title="wikilink">鼓手</a>（drum）</p></td>
 <td></td>
 <td><p>2016年因個人生涯考量和被爆外遇而自請退團</p></td>
@@ -98,7 +89,7 @@ Real**  首張全創作新歌演唱會》，而11/27高雄場，因病長期�
 <td><p>凱開</p></td>
 <td></td>
 <td><p>AB</p></td>
-<td><p><a href="../Page/世新大學.md" title="wikilink">世新大學觀光餐旅系</a></p></td>
+<td><p><a href="../Page/世新大學.md" title="wikilink">世新大學</a>觀光餐旅系</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/團長" title="wikilink">團長兼</a><a href="https://zh.wikipedia.org/wiki/貝斯手" title="wikilink">貝斯手</a>（Bass）</p></td>
 <td></td>
 <td><p>2017年轉投喜鵲娛樂。</p></td>
@@ -131,7 +122,7 @@ Real**  首張全創作新歌演唱會》，而11/27高雄場，因病長期�
 <td><p>雷堡</p></td>
 <td></td>
 <td><p>O</p></td>
-<td><p><a href="../Page/真理大學.md" title="wikilink">真理大學畢業</a></p></td>
+<td><p><a href="../Page/真理大學.md" title="wikilink">真理大學</a>畢業</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉他手" title="wikilink">吉他手</a>（guitar）</p></td>
 <td></td>
 <td><p>2017年11月9日宣佈正式跟相信音樂解約。</p></td>
@@ -276,7 +267,7 @@ Real**  首張全創作新歌演唱會》，而11/27高雄場，因病長期�
 <td><p>MP魔幻力量 <a href="../Page/蕭秉治.md" title="wikilink">廷廷</a></p></td>
 <td><p>MP魔幻力量 廷廷</p></td>
 <td><p>3:36</p></td>
-<td><p>客串演唱，由<a href="../Page/丁噹.md" title="wikilink">丁噹主唱</a><br />
+<td><p>客串演唱，由<a href="../Page/丁噹.md" title="wikilink">丁噹</a>主唱<br />
 收錄於丁噹《<a href="../Page/夜貓.md" title="wikilink">夜貓</a>》專輯</p></td>
 </tr>
 <tr class="odd">
@@ -284,7 +275,7 @@ Real**  首張全創作新歌演唱會》，而11/27高雄場，因病長期�
 <td><p>MP魔幻力量 廷廷</p></td>
 <td><p>MP魔幻力量 廷廷</p></td>
 <td><p>4:16</p></td>
-<td><p>與<a href="../Page/郭采潔.md" title="wikilink">郭采潔合唱</a><br />
+<td><p>與<a href="../Page/郭采潔.md" title="wikilink">郭采潔</a>合唱<br />
 收錄於MP魔幻力量《<a href="../Page/魔幻力量_(專輯).md" title="wikilink">魔幻力量</a>》專輯</p></td>
 </tr>
 <tr class="even">
@@ -301,7 +292,7 @@ Real**  首張全創作新歌演唱會》，而11/27高雄場，因病長期�
 <a href="../Page/五月天.md" title="wikilink">五月天</a><a href="../Page/陳信宏.md" title="wikilink">阿信</a></p></td>
 <td><p>五月天阿信</p></td>
 <td></td>
-<td><p><a href="../Page/2010年臺北國際花卉博覽會.md" title="wikilink">2010年臺北國際花卉博覽會花博推廣曲</a><br />
+<td><p><a href="../Page/2010年臺北國際花卉博覽會.md" title="wikilink">2010年臺北國際花卉博覽會</a>花博推廣曲<br />
 負責Rap部分<br />
 歌唱部分由五月天負責<br />
 收錄於合輯《<a href="https://zh.wikipedia.org/wiki/繽紛花博巨星合輯" title="wikilink">繽紛花博巨星合輯</a>》專輯</p></td>
@@ -338,7 +329,7 @@ MP魔幻力量 廷廷<br />
 文亞</p></td>
 <td><p><a href="../Page/袁詠琳.md" title="wikilink">袁詠琳</a></p></td>
 <td><p>3:12</p></td>
-<td><p>客串演唱，由<a href="../Page/袁詠琳.md" title="wikilink">袁詠琳主唱</a><br />
+<td><p>客串演唱，由<a href="../Page/袁詠琳.md" title="wikilink">袁詠琳</a>主唱<br />
 收錄於袁詠琳《<a href="https://zh.wikipedia.org/wiki/Fight_For_Love" title="wikilink">Fight For Love</a>》專輯</p></td>
 </tr>
 <tr class="even">
@@ -347,7 +338,7 @@ MP魔幻力量 廷廷<br />
 Rap詞：MP魔幻力量 嘎嘎</p></td>
 <td><p>MP魔幻力量 鼓鼓</p></td>
 <td><p>4:18</p></td>
-<td><p>負責Rap部分 歌唱部分由<a href="../Page/任賢齊.md" title="wikilink">任賢齊主唱</a><br />
+<td><p>負責Rap部分 歌唱部分由<a href="../Page/任賢齊.md" title="wikilink">任賢齊</a>主唱<br />
 收錄於任賢齊《<a href="https://zh.wikipedia.org/wiki/落跑吧_愛情原聲帶" title="wikilink">落跑吧 愛情原聲帶</a>》專輯</p></td>
 </tr>
 <tr class="odd">
@@ -364,7 +355,7 @@ Rap詞：MP魔幻力量 嘎嘎</p></td>
 陳沒</p></td>
 <td><p>MP魔幻力量 鼓鼓</p></td>
 <td><p>3:13</p></td>
-<td><p>負責Rap部分 歌唱部分由<a href="../Page/丁噹.md" title="wikilink">丁噹主唱</a><br />
+<td><p>負責Rap部分 歌唱部分由<a href="../Page/丁噹.md" title="wikilink">丁噹</a>主唱<br />
 收錄於丁噹《<a href="../Page/當我的好朋友.md" title="wikilink">當我的好朋友</a>》專輯</p></td>
 </tr>
 </tbody>
@@ -372,33 +363,23 @@ Rap詞：MP魔幻力量 嘎嘎</p></td>
 
 ### 合作製作歌曲
 
-  - [丁噹](../Page/丁噹.md "wikilink")〈他說你沒用〉：[廷廷](../Page/蕭秉治.md "wikilink")
-    詞曲 2009
-  - [Water
-    Man](https://zh.wikipedia.org/wiki/Water_Man "wikilink")〈愛很大〉：[廷廷](../Page/蕭秉治.md "wikilink")
-    作曲 2010
-  - 繽紛花博巨星合輯〈2010離開地球表面 花漾嘉年華版〉：廷廷 （Rap部分）作詞(詞：MP魔幻力量 廷廷/五月天阿信作曲：五月天阿信)
-    2010
+  - [丁噹](../Page/丁噹.md "wikilink")〈他說你沒用〉：[廷廷](../Page/蕭秉治.md "wikilink") 詞曲 2009
+  - [Water Man](https://zh.wikipedia.org/wiki/Water_Man "wikilink")〈愛很大〉：[廷廷](../Page/蕭秉治.md "wikilink") 作曲 2010
+  - 繽紛花博巨星合輯〈2010離開地球表面 花漾嘉年華版〉：廷廷 （Rap部分）作詞(詞：MP魔幻力量 廷廷/五月天阿信作曲：五月天阿信) 2010
   - [丁噹](../Page/丁噹.md "wikilink")〈冷血動物〉：廷廷 詞曲 2010
   - 丁噹〈親愛陌生人〉：廷廷 詞曲 2010
   - 丁噹〈奇異果〉：鼓鼓作曲 2012
   - [任賢齊](../Page/任賢齊.md "wikilink") ft.丁噹〈我就是喜歡這樣〉：廷廷 詞曲 2011
-  - [By2](https://zh.wikipedia.org/wiki/By2 "wikilink")
-    ft**.MP魔幻力量**廷廷〈藏不住〉：廷廷 作詞 2013
+  - [By2](https://zh.wikipedia.org/wiki/By2 "wikilink") ft**.MP魔幻力量**廷廷〈藏不住〉：廷廷 作詞 2013
   - [嚴爵](../Page/嚴爵.md "wikilink") ft.**MP魔幻力量**廷廷〈勝券在握〉：廷廷 作詞 2013
   - **MP魔幻力量**廷廷 ft.嚴爵〈狼的傳人〉：廷廷 詞曲 2013
   - [家家](https://zh.wikipedia.org/wiki/家家 "wikilink")〈我沒資格〉：廷廷 詞曲 2014
   - 嚴爵、[郭雪芙](../Page/郭雪芙.md "wikilink")〈結巴〉：廷廷 作詞 2014
-  - 丁噹〈我就是喜歡這樣〉：廷廷 詞曲
-    (詞:廷廷+[五月天](../Page/五月天.md "wikilink")[阿信](../Page/陳信宏.md "wikilink")
-    改編詞:廷廷+陳沒) 2014
+  - 丁噹〈我就是喜歡這樣〉：廷廷 詞曲 (詞:廷廷+[五月天](../Page/五月天.md "wikilink")[阿信](../Page/陳信宏.md "wikilink") 改編詞:廷廷+陳沒) 2014
   - [陳大天](../Page/陳大天.md "wikilink")〈南丁格爾〉：廷廷 詞曲 2014
-  - [Popu Lady](../Page/Popu_Lady.md "wikilink")〈POPU OK繃〉：鼓鼓 詞曲 + 凱開 混音
-    2015
-  - [袁詠琳](../Page/袁詠琳.md "wikilink")〈Come to Mami〉：廷廷 作詞 (詞：袁詠琳/廷廷/文亞
-    作曲：袁詠琳) 2015
-  - [任賢齊](../Page/任賢齊.md "wikilink")〈誰對你最溫柔〉：廷廷 詞曲 (詞：MP魔幻力量
-    廷廷/Rap詞：MP魔幻力量 嘎嘎 作曲：MP魔幻力量 鼓鼓) 2015
+  - [Popu Lady](../Page/Popu_Lady.md "wikilink")〈POPU OK繃〉：鼓鼓 詞曲 + 凱開 混音 2015
+  - [袁詠琳](../Page/袁詠琳.md "wikilink")〈Come to Mami〉：廷廷 作詞 (詞：袁詠琳/廷廷/文亞 作曲：袁詠琳) 2015
+  - [任賢齊](../Page/任賢齊.md "wikilink")〈誰對你最溫柔〉：廷廷 詞曲 (詞：MP魔幻力量 廷廷/Rap詞：MP魔幻力量 嘎嘎 作曲：MP魔幻力量 鼓鼓) 2015
   - [田亞霍](../Page/田亞霍.md "wikilink")〈我們的情人節〉：鼓鼓 詞曲 2016
   - 丁噹〈Natural high〉: 鼓鼓 詞曲 (詞：陳沒/鼓鼓 作曲：鼓鼓) 2016
   - [愷樂](https://zh.wikipedia.org/wiki/愷樂 "wikilink")〈久等了〉: 鼓鼓 作詞 2016
@@ -408,20 +389,17 @@ Rap詞：MP魔幻力量 嘎嘎</p></td>
   - 《私奔到月球2008》，收錄在合輯《大開天窗Always Open Your Heart》
   - 《SUPERHERO》
   - 《未來就是現在》，收錄在《MP魔幻力量 我們的主場 演唱會LIVE DVD》為YOHOPE主題曲
-  - 《我無法不愛你》，收錄在《MP魔幻力量 我們的主場 演唱會LIVE
-    DVD》和[蕭秉治個人首張專輯](../Page/蕭秉治.md "wikilink")《[凡人Mortal](https://zh.wikipedia.org/wiki/凡人Mortal "wikilink")》，為電視劇《[重返20歲](https://zh.wikipedia.org/wiki/重返20歲_\(電視劇\) "wikilink")》插曲
+  - 《我無法不愛你》，收錄在《MP魔幻力量 我們的主場 演唱會LIVE DVD》和[蕭秉治](../Page/蕭秉治.md "wikilink")個人首張專輯《[凡人Mortal](https://zh.wikipedia.org/wiki/凡人Mortal "wikilink")》，為電視劇《[重返20歲](https://zh.wikipedia.org/wiki/重返20歲_\(電視劇\) "wikilink")》插曲
 
 ### 音樂錄影帶
 
-  - [丁噹](../Page/丁噹.md "wikilink")〈愛的五部曲〉（飛機場的10:30 + 漂洋過海來看你 + 分手吧 +
-    不只是朋友 + Kiss Goodbye）：嘎嘎與丁噹主演，其他成員為輔。
+  - [丁噹](../Page/丁噹.md "wikilink")〈愛的五部曲〉（飛機場的10:30 + 漂洋過海來看你 + 分手吧 + 不只是朋友 + Kiss Goodbye）：嘎嘎與丁噹主演，其他成員為輔。
   - 丁噹〈踹來共〉：嘎嘎與丁噹主演，其他成員為輔。
   - [任賢齊](../Page/任賢齊.md "wikilink")〈任性〉：MP全體出演
   - [阿密特](../Page/阿密特.md "wikilink")(阿妹) 〈掉了〉: 鼓鼓&凱開&雷堡
   - [品冠](../Page/品冠.md "wikilink")〈大富翁〉: 凱開&雷堡&阿翔
   - 丁噹〈我就是喜歡這樣〉：MP全體出演
-  - [袁咏琳](https://zh.wikipedia.org/wiki/袁咏琳 "wikilink")〈Come to
-    mami〉：廷廷&嘎嘎
+  - [袁咏琳](https://zh.wikipedia.org/wiki/袁咏琳 "wikilink")〈Come to mami〉：廷廷&嘎嘎
   - 任賢齊〈誰對你最溫柔〉：MP全體演出
 
 #### MV特色
@@ -793,15 +771,9 @@ The Centre in Vancouver for Performing Arts</p></td>
   -
   -
   -
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
-[Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink")
-[Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink")
-[Category:台灣流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣流行搖滾樂團 "wikilink")
-[Category:台灣音樂製作人](https://zh.wikipedia.org/wiki/Category:台灣音樂製作人 "wikilink")
-[Category:相信音樂人](https://zh.wikipedia.org/wiki/Category:相信音樂人 "wikilink")
-[Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink")
+[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink") [Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink") [Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink") [Category:台灣流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣流行搖滾樂團 "wikilink") [Category:台灣音樂製作人](https://zh.wikipedia.org/wiki/Category:台灣音樂製作人 "wikilink") [Category:相信音樂人](https://zh.wikipedia.org/wiki/Category:相信音樂人 "wikilink") [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink")
 
-1.  改編自[五月天](../Page/五月天.md "wikilink")[阿信和](../Page/陳信宏.md "wikilink")[陳綺貞演唱的](../Page/陳綺貞.md "wikilink")〈私奔到月球〉。
+1.  改編自[五月天](../Page/五月天.md "wikilink")[阿信和](../Page/陳信宏.md "wikilink")[陳綺貞](../Page/陳綺貞.md "wikilink")演唱的〈私奔到月球〉。
 2.  亦為首張[專輯的名稱](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
 3.  ‧
 4.  ‧

@@ -1,7 +1,4 @@
-[MicroRNA
-(miRNA,微RNA)](https://zh.wikipedia.org/wiki/MicroRNA_\(miRNA,微RNA\) "wikilink")
-是一类由内源基因编码的长度约为22个核苷酸的非编码单链RNA 分子,它们在动植物中参与转录后基因表达调控\[1\].。microRNA
-(微RNA)参与各种各样的生物学过程，包括凋亡、增殖、分化和细胞周期。此外，microRNA(微RNA)还与肿瘤和其他疾病的发生和发展相关。这里收集了目前比较流行的microRNA（微RNA）基因及其靶基因数据库，以便大家使用和查询.
+[MicroRNA (miRNA,微RNA)](https://zh.wikipedia.org/wiki/MicroRNA_\(miRNA,微RNA\) "wikilink") 是一类由内源基因编码的长度约为22个核苷酸的非编码单链RNA 分子,它们在动植物中参与转录后基因表达调控\[1\].。microRNA (微RNA)参与各种各样的生物学过程，包括凋亡、增殖、分化和细胞周期。此外，microRNA(微RNA)还与肿瘤和其他疾病的发生和发展相关。这里收集了目前比较流行的microRNA（微RNA）基因及其靶基因数据库，以便大家使用和查询.
 
 ## microRNA靶基因数据库
 
@@ -38,19 +35,13 @@
 ## 外部链接
 
   - [miRBase database](http://www.mirbase.org/)
-  - [deepBase
-    database](https://www.webcitation.org/5tyh2Lsae?url=http://deepbase.sysu.edu.cn/)
-  - [starBase
-    database](https://web.archive.org/web/20110222111721/http://starbase.sysu.edu.cn/)
+  - [deepBase database](https://www.webcitation.org/5tyh2Lsae?url=http://deepbase.sysu.edu.cn/)
+  - [starBase database](https://web.archive.org/web/20110222111721/http://starbase.sysu.edu.cn/)
   - [targetScan](http://www.targetscan.org/)
   - [picTar](https://web.archive.org/web/20080724163022/http://pictar.bio.nyu.edu/)
-  - [miRecords
-    database](https://www.webcitation.org/5rRSC3tvh?url=http://mirecords.biolead.org/)
+  - [miRecords database](https://www.webcitation.org/5rRSC3tvh?url=http://mirecords.biolead.org/)
 
-[Category:RNA](https://zh.wikipedia.org/wiki/Category:RNA "wikilink")
-[Category:微RNA](https://zh.wikipedia.org/wiki/Category:微RNA "wikilink")
-[Category:生物信息學](https://zh.wikipedia.org/wiki/Category:生物信息學 "wikilink")
-[Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink")
+[Category:RNA](https://zh.wikipedia.org/wiki/Category:RNA "wikilink") [Category:微RNA](https://zh.wikipedia.org/wiki/Category:微RNA "wikilink") [Category:生物信息學](https://zh.wikipedia.org/wiki/Category:生物信息學 "wikilink") [Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink")
 
 1.
 2.

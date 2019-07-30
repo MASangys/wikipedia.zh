@@ -1,5 +1,4 @@
-**索尼爱立信Yari**
-**（）**是[索尼爱立信](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")2009年发布的一款[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")。是索尼爱立信U系列（Unlimit）里的第三款手机。
+**索尼爱立信Yari** **（）**是[索尼爱立信](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")2009年发布的一款[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")。是索尼爱立信U系列（Unlimit）里的第三款手机。
 
 ## 简述
 
@@ -49,10 +48,8 @@ Yari的中文官方名称为**雅锐**。
 
 ## 外部链接
 
-[Sony Ericsson
-Yari官方介绍(简体中文)](http://www.sonyericsson.com/cws/products/mobilephones/overview/u100i?cc=cn&lc=zh)
+[Sony Ericsson Yari官方介绍(简体中文)](http://www.sonyericsson.com/cws/products/mobilephones/overview/u100i?cc=cn&lc=zh)
 
 [Category:索尼愛立信手機](https://zh.wikipedia.org/wiki/Category:索尼愛立信手機 "wikilink")
 
-1.  [索尼爱立信游戏机U100i受预订
-    腾讯网](http://digi.tech.qq.com/a/20090908/000845.htm)
+1.  [索尼爱立信游戏机U100i受预订 腾讯网](http://digi.tech.qq.com/a/20090908/000845.htm)

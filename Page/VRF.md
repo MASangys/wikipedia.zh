@@ -1,14 +1,8 @@
-**VRF**是一個[香港](../Page/香港.md "wikilink")四人男子組合，由
-[余啟邦](https://zh.wikipedia.org/wiki/余啟邦 "wikilink")﹝[Ronald](https://zh.wikipedia.org/wiki/Ronald "wikilink")﹞、
-[李安](https://zh.wikipedia.org/wiki/李安（歌手） "wikilink")﹝[Ray](https://zh.wikipedia.org/wiki/Ray "wikilink")﹞、
-[梁世豪](https://zh.wikipedia.org/wiki/梁世豪 "wikilink")﹝[Raul](https://zh.wikipedia.org/wiki/Raul "wikilink")﹞和
-[丁子高](../Page/丁子高.md "wikilink")﹝[Real](https://zh.wikipedia.org/wiki/Real "wikilink")﹞於2000年組成\[1\]，曾推出過兩張唱片《VRF》及《New
-World》\[2\]。2002年解散。
+**VRF**是一個[香港](../Page/香港.md "wikilink")四人男子組合，由 [余啟邦](https://zh.wikipedia.org/wiki/余啟邦 "wikilink")﹝[Ronald](https://zh.wikipedia.org/wiki/Ronald "wikilink")﹞、 [李安](https://zh.wikipedia.org/wiki/李安（歌手） "wikilink")﹝[Ray](https://zh.wikipedia.org/wiki/Ray "wikilink")﹞、 [梁世豪](https://zh.wikipedia.org/wiki/梁世豪 "wikilink")﹝[Raul](https://zh.wikipedia.org/wiki/Raul "wikilink")﹞和 [丁子高](../Page/丁子高.md "wikilink")﹝[Real](https://zh.wikipedia.org/wiki/Real "wikilink")﹞於2000年組成\[1\]，曾推出過兩張唱片《VRF》及《New World》\[2\]。2002年解散。
 
 ## 名字意思
 
-**VRF**的兩個意思，第一個是**We Are
-Four**的意思，第二個是V「**R**」「**4**」，因為四位成員的英文名都是**R**字頭﹝**R**onald、**R**ay、**R**aul和**R**eal﹞。
+**VRF**的兩個意思，第一個是**We Are Four**的意思，第二個是V「**R**」「**4**」，因為四位成員的英文名都是**R**字頭﹝**R**onald、**R**ay、**R**aul和**R**eal﹞。
 
 ## Real的真名
 
@@ -72,20 +66,14 @@ Four**的意思，第二個是V「**R**」「**4**」，因為四位成員的英
 2001年度
 
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink") - 新城全球勁爆組合獎
-  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink") -
-    最受歡迎組合獎 銀獎
+  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink") - 最受歡迎組合獎 銀獎
 
 ## 參考文獻
 
 <references/>
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
 
-1.  [VRF - 乐队组合 -
-    可可西音乐网(www.cococ.com)](http://www.cococ.com/salbum/1116.html)
-
-2.  [Vrf 專輯列表 共有 2張專輯 18首歌詞 ※
-    Mojim.com](http://tw.mojim.com/twh101000.htm)
-3.  [i m chi:
-    給丁太的《下雨天》](http://imchi.blogspot.com/2009/08/blog-post_1546.html)
+1.  [VRF - 乐队组合 - 可可西音乐网(www.cococ.com)](http://www.cococ.com/salbum/1116.html)
+2.  [Vrf 專輯列表 共有 2張專輯 18首歌詞 ※ Mojim.com](http://tw.mojim.com/twh101000.htm)
+3.  [i m chi: 給丁太的《下雨天》](http://imchi.blogspot.com/2009/08/blog-post_1546.html)

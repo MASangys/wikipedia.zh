@@ -1,4 +1,4 @@
-《**假面骑士Stronger**》（）為1975年（昭和50年）4月5日至同年12月27日期間，每週六晚上7.00\~7.30由[每日放送](../Page/每日放送.md "wikilink")・[TBS電視台播映](../Page/TBS電視台.md "wikilink")，由[东映制作的特摄英雄电视剧](https://zh.wikipedia.org/wiki/东映 "wikilink")，为[假面骑士系列第五部作品](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")，全39集。
+《**假面骑士Stronger**》（）為1975年（昭和50年）4月5日至同年12月27日期間，每週六晚上7.00\~7.30由[每日放送](../Page/每日放送.md "wikilink")・[TBS電視台](../Page/TBS電視台.md "wikilink")播映，由[东映制作的特摄英雄电视剧](https://zh.wikipedia.org/wiki/东映 "wikilink")，为[假面骑士系列第五部作品](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")，全39集。
 
 ## 概要
 
@@ -22,13 +22,11 @@
 
 ## 假面骑士強人
 
-惡魔山基地中，城茂自願加入邪惡組織「黑撒旦」，並接受改造成為電氣人。想不到在宣誓式時，城茂突然發難進行反叛，展開挑戰邪惡的熱血故事。
-獨特的獨角蟲造型，體內殖有高性能發電裝置，可自由運用各種電氣攻擊，甚至還可藉由雷電補充能源。 183 cm／78 kg
+惡魔山基地中，城茂自願加入邪惡組織「黑撒旦」，並接受改造成為電氣人。想不到在宣誓式時，城茂突然發難進行反叛，展開挑戰邪惡的熱血故事。 獨特的獨角蟲造型，體內殖有高性能發電裝置，可自由運用各種電氣攻擊，甚至還可藉由雷電補充能源。 183 cm／78 kg
 
 ### 假面骑士強人(充電型態)
 
-「黑撒旦」瓦解之後，為了對抗更強的「特魯塞軍團」改造魔人，原黑撒旦的科學家「正木博士」以其超電子研究成果，對城茂進行肉體組織再改造手術，在高達90%失敗率的危險下，城茂終於獲得強化體。
-充電強化後的強人，擁有一分鐘的戰力強化時間，能實施更高超的必殺技。 第31話登場。
+「黑撒旦」瓦解之後，為了對抗更強的「特魯塞軍團」改造魔人，原黑撒旦的科學家「正木博士」以其超電子研究成果，對城茂進行肉體組織再改造手術，在高達90%失敗率的危險下，城茂終於獲得強化體。 充電強化後的強人，擁有一分鐘的戰力強化時間，能實施更高超的必殺技。 第31話登場。
 
 ## 電波人塔克爾
 
@@ -107,9 +105,4 @@
 
 ## 外部链接
 
-[Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink")
-[Category:1975年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1975年日本電視劇集 "wikilink")
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
-[Category:虚构磁力能力者](https://zh.wikipedia.org/wiki/Category:虚构磁力能力者 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:虚构电力能力者](https://zh.wikipedia.org/wiki/Category:虚构电力能力者 "wikilink")
+[Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink") [Category:1975年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1975年日本電視劇集 "wikilink") [Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:虚构磁力能力者](https://zh.wikipedia.org/wiki/Category:虚构磁力能力者 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:虚构电力能力者](https://zh.wikipedia.org/wiki/Category:虚构电力能力者 "wikilink")

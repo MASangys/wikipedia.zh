@@ -1,5 +1,4 @@
-《**Over
-Load**》是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[中島美嘉的第](../Page/中島美嘉.md "wikilink")28張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年5月13日發行。
+《**Over Load**》是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[中島美嘉](../Page/中島美嘉.md "wikilink")的第28張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年5月13日發行。
 
 ## 概述
 
@@ -32,14 +31,9 @@ Load**》是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md 
 
   - [ORICON STYLE](http://www.oricon.co.jp/news/music/64613/)
   - [Yahoo\!](https://web.archive.org/web/20090527100741/http://magazine.music.yahoo.co.jp/pow/20090512_001/)
-  - [So-net
-    Music](https://web.archive.org/web/20090514032911/http://music.blog.so-net.ne.jp/powerpush09_108)
+  - [So-net Music](https://web.archive.org/web/20090514032911/http://music.blog.so-net.ne.jp/powerpush09_108)
 
-[Category:中島美嘉歌曲](https://zh.wikipedia.org/wiki/Category:中島美嘉歌曲 "wikilink")
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:中島美嘉歌曲](https://zh.wikipedia.org/wiki/Category:中島美嘉歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
 
 1.  [エキサイトミュージックによるインタビュー](http://www.excite.co.jp/music/close_up/0905_nakashima/?c=interview)
-2.  [中島美嘉 - Over
-    Load](http://www.crimsonrain.com/2009/05/over-load.html)
+2.  [中島美嘉 - Over Load](http://www.crimsonrain.com/2009/05/over-load.html)

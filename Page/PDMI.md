@@ -1,12 +1,6 @@
-**PDMI**（全称,
-中文名为便携式数字媒体接口）是一种[便携式媒体播放器的互连标准](https://zh.wikipedia.org/wiki/便携式媒体播放器 "wikilink")。2010年2月CEA（美国消费电子协会）开发了此标准，名称为便携式媒体播放器通用互联标准*(Common
-Interconnection for Portable Media
-Players)*，标准号为ANSI/CEA-2017-A。在微软David
-McLauchlan的带领下，全球有超过五十家消费类电子公司支持和投入到此标准的开发。它被设计用于替代只有苹果公司使用的iPod接口。
+**PDMI**（全称, 中文名为便携式数字媒体接口）是一种[便携式媒体播放器的互连标准](https://zh.wikipedia.org/wiki/便携式媒体播放器 "wikilink")。2010年2月CEA（美国消费电子协会）开发了此标准，名称为便携式媒体播放器通用互联标准*(Common Interconnection for Portable Media Players)*，标准号为ANSI/CEA-2017-A。在微软David McLauchlan的带领下，全球有超过五十家消费类电子公司支持和投入到此标准的开发。它被设计用于替代只有苹果公司使用的iPod接口。
 
-ANSI/CEA-2017-A标准是2007年六月通过的ANSI/CEA-2017标准的新修订版。2007年的早期版本ANSI/CEA-2017在车载网络中使用基于媒体导向系统传输*(Media
-Oriented Systems
-Transport,MOST)*的专有串行协议，仅在边际的实际设备中有使用。新的CEA-2017-A标准则不兼容早期标准的设备。
+ANSI/CEA-2017-A标准是2007年六月通过的ANSI/CEA-2017标准的新修订版。2007年的早期版本ANSI/CEA-2017在车载网络中使用基于媒体导向系统传输*(Media Oriented Systems Transport,MOST)*的专有串行协议，仅在边际的实际设备中有使用。新的CEA-2017-A标准则不兼容早期标准的设备。
 
 PDMI连接器用于具有媒体播放能力的设备、家用A/V设备、车载娱乐系统、数字信息亭和酒店、空中娱乐系统的互联，旨在取代無所不在的iPod底座连接器。
 
@@ -58,6 +52,4 @@ PDMI pinout
 
   - 註：GND=Ground=接地
 
-[Category:USB](https://zh.wikipedia.org/wiki/Category:USB "wikilink")
-[Category:視聽接口](https://zh.wikipedia.org/wiki/Category:視聽接口 "wikilink")
-[Category:數碼顯示接口](https://zh.wikipedia.org/wiki/Category:數碼顯示接口 "wikilink")
+[Category:USB](https://zh.wikipedia.org/wiki/Category:USB "wikilink") [Category:視聽接口](https://zh.wikipedia.org/wiki/Category:視聽接口 "wikilink") [Category:數碼顯示接口](https://zh.wikipedia.org/wiki/Category:數碼顯示接口 "wikilink")

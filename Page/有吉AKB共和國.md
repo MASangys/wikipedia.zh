@@ -2,7 +2,7 @@
 
 ## 概要
 
-節目的主持人是[有吉弘行和](../Page/有吉弘行.md "wikilink")[AKB48成員](../Page/AKB48.md "wikilink")[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")，內容主要是由AKB48成員在每一集策劃一個讓主持人有吉弘行滿意的企劃，如果不合他意，就會由小嶋陽菜負責懲罰有關成員。[研究生在這節目亮相的次數比其他AKB](https://zh.wikipedia.org/wiki/AKB48成員列表#研究生 "wikilink")48節目都要多。2010年7月12日，節目開始在[北陸放送播出](https://zh.wikipedia.org/wiki/北陸放送 "wikilink")；9月27日，擴展至[中部日本放送播出](../Page/中部日本放送.md "wikilink")，後來在[青森電視台](https://zh.wikipedia.org/wiki/青森電視台 "wikilink")、[東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")、[熊本放送和](https://zh.wikipedia.org/wiki/熊本放送 "wikilink")[大分放送均有播出](https://zh.wikipedia.org/wiki/大分放送 "wikilink")。
+節目的主持人是[有吉弘行](../Page/有吉弘行.md "wikilink")和[AKB48](../Page/AKB48.md "wikilink")成員[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")，內容主要是由AKB48成員在每一集策劃一個讓主持人有吉弘行滿意的企劃，如果不合他意，就會由小嶋陽菜負責懲罰有關成員。[研究生在這節目亮相的次數比其他AKB](https://zh.wikipedia.org/wiki/AKB48成員列表#研究生 "wikilink")48節目都要多。2010年7月12日，節目開始在[北陸放送播出](https://zh.wikipedia.org/wiki/北陸放送 "wikilink")；9月27日，擴展至[中部日本放送](../Page/中部日本放送.md "wikilink")播出，後來在[青森電視台](https://zh.wikipedia.org/wiki/青森電視台 "wikilink")、[東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")、[熊本放送和](https://zh.wikipedia.org/wiki/熊本放送 "wikilink")[大分放送均有播出](https://zh.wikipedia.org/wiki/大分放送 "wikilink")。
 
 ## 演出者
 
@@ -26,15 +26,10 @@
 
   - [AKB48](../Page/AKB48.md "wikilink")
   - AKB48
-      - Team
-        A：[入山杏奈](../Page/入山杏奈.md "wikilink")、[岩田華怜](../Page/岩田華怜.md "wikilink")、大島涼花、[川栄李奈](https://zh.wikipedia.org/wiki/川栄李奈 "wikilink")、[菊地あやか](https://zh.wikipedia.org/wiki/菊地あやか "wikilink")、[佐藤すみれ](https://zh.wikipedia.org/wiki/佐藤すみれ "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")、田野優花、[松井咲子](../Page/松井咲子.md "wikilink")、[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")、[渡辺麻友](https://zh.wikipedia.org/wiki/渡辺麻友 "wikilink")
-      - Team
-        K：[阿部マリア](https://zh.wikipedia.org/wiki/阿部マリア "wikilink")、[内田眞由美](https://zh.wikipedia.org/wiki/内田眞由美 "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤亞美菜](../Page/佐藤亞美菜.md "wikilink")
-        、[島田晴香](../Page/島田晴香.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[永尾まりや](https://zh.wikipedia.org/wiki/永尾まりや "wikilink")、[中田ちさと](https://zh.wikipedia.org/wiki/中田ちさと "wikilink")、[前田亞美](../Page/前田亞美.md "wikilink")、[宮崎美穗](../Page/宮崎美穗.md "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")
-      - Team
-        B：[石田晴香](../Page/石田晴香.md "wikilink")、[市川美織](../Page/市川美織.md "wikilink")、[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、小嶋菜月、[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")、[高城亞樹](../Page/高城亞樹.md "wikilink")、[藤江れいな](https://zh.wikipedia.org/wiki/藤江れいな "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")
-      - Team
-        4：小嶋真子、高島祐利奈、[峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")、茂木忍
+      - Team A：[入山杏奈](../Page/入山杏奈.md "wikilink")、[岩田華怜](../Page/岩田華怜.md "wikilink")、大島涼花、[川栄李奈](https://zh.wikipedia.org/wiki/川栄李奈 "wikilink")、[菊地あやか](https://zh.wikipedia.org/wiki/菊地あやか "wikilink")、[佐藤すみれ](https://zh.wikipedia.org/wiki/佐藤すみれ "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")、田野優花、[松井咲子](../Page/松井咲子.md "wikilink")、[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")、[渡辺麻友](https://zh.wikipedia.org/wiki/渡辺麻友 "wikilink")
+      - Team K：[阿部マリア](https://zh.wikipedia.org/wiki/阿部マリア "wikilink")、[内田眞由美](https://zh.wikipedia.org/wiki/内田眞由美 "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤亞美菜](../Page/佐藤亞美菜.md "wikilink") 、[島田晴香](../Page/島田晴香.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[永尾まりや](https://zh.wikipedia.org/wiki/永尾まりや "wikilink")、[中田ちさと](https://zh.wikipedia.org/wiki/中田ちさと "wikilink")、[前田亞美](../Page/前田亞美.md "wikilink")、[宮崎美穗](../Page/宮崎美穗.md "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")
+      - Team B：[石田晴香](../Page/石田晴香.md "wikilink")、[市川美織](../Page/市川美織.md "wikilink")、[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、小嶋菜月、[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")、[高城亞樹](../Page/高城亞樹.md "wikilink")、[藤江れいな](https://zh.wikipedia.org/wiki/藤江れいな "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")
+      - Team 4：小嶋真子、高島祐利奈、[峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")、茂木忍
 
 <!-- end list -->
 
@@ -54,10 +49,8 @@
   - AKB48
       - Team A：伊豆田莉奈、小林茉里奈、佐々木優佳里、森川彩香
       - Team K：[鈴木紫帆里](../Page/鈴木紫帆里.md "wikilink")、平田梨奈、藤田奈那
-      - Team
-        B：大森美優、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、名取稚菜
-      - Team
-        4：相笠萌、岩立沙穂、内山奈月、梅田綾乃、岡田彩花、岡田奈々、北澤早紀、篠崎彩奈、西野未姫、橋本耀、前田美月、[村山彩希](../Page/村山彩希.md "wikilink")
+      - Team B：大森美優、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、名取稚菜
+      - Team 4：相笠萌、岩立沙穂、内山奈月、梅田綾乃、岡田彩花、岡田奈々、北澤早紀、篠崎彩奈、西野未姫、橋本耀、前田美月、[村山彩希](../Page/村山彩希.md "wikilink")
 
 ### 過去共和国成員
 
@@ -66,12 +59,9 @@
 <!-- end list -->
 
   - AKB48前成員
-      - Team
-        A：[前田敦子](../Page/前田敦子.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")（現・HKT48）、[仲川遥香](../Page/仲川遥香.md "wikilink")（現・JKT48）、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[仲俣汐里](https://zh.wikipedia.org/wiki/仲俣汐里 "wikilink")
-      - Team
-        K：[小野恵令奈](https://zh.wikipedia.org/wiki/小野恵令奈 "wikilink")、[米沢瑠美](https://zh.wikipedia.org/wiki/米沢瑠美 "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")（現・[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")）、[増田有華](https://zh.wikipedia.org/wiki/増田有華 "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[板野友美](../Page/板野友美.md "wikilink")、[秋元才加](../Page/秋元才加.md "wikilink")
-      - Team
-        B：[平嶋夏海](../Page/平嶋夏海.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")
+      - Team A：[前田敦子](../Page/前田敦子.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")（現・HKT48）、[仲川遥香](../Page/仲川遥香.md "wikilink")（現・JKT48）、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[仲俣汐里](https://zh.wikipedia.org/wiki/仲俣汐里 "wikilink")
+      - Team K：[小野恵令奈](https://zh.wikipedia.org/wiki/小野恵令奈 "wikilink")、[米沢瑠美](https://zh.wikipedia.org/wiki/米沢瑠美 "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")（現・[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")）、[増田有華](https://zh.wikipedia.org/wiki/増田有華 "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[板野友美](../Page/板野友美.md "wikilink")、[秋元才加](../Page/秋元才加.md "wikilink")
+      - Team B：[平嶋夏海](../Page/平嶋夏海.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")
 
 <!-- end list -->
 
@@ -512,8 +502,7 @@
 
   - 監修：[秋元康](../Page/秋元康.md "wikilink")
   - 講述：[服部潤](https://zh.wikipedia.org/wiki/服部潤 "wikilink")
-  - 構成：石津聰（[Writer's
-    OFFICE](https://zh.wikipedia.org/wiki/Writer's_OFFICE "wikilink")）、安念高志、村城大輔
+  - 構成：石津聰（[Writer's OFFICE](https://zh.wikipedia.org/wiki/Writer's_OFFICE "wikilink")）、安念高志、村城大輔
   - TM：中澤健
   - TD：奥村秀樹
   - CC：高島一宗
@@ -525,8 +514,7 @@
   - 美術：塩川満樹
   - EED：伊藤亘（スタイルゼロ）
   - MA：伊藤誠二郎
-  - 技術協力：NSC、[TAMCO](https://zh.wikipedia.org/wiki/TAMCO "wikilink")、NSL、Style-O、[OMNIBUS
-    JAPAN](https://zh.wikipedia.org/wiki/OMNIBUS_JAPAN "wikilink")
+  - 技術協力：NSC、[TAMCO](https://zh.wikipedia.org/wiki/TAMCO "wikilink")、NSL、Style-O、[OMNIBUS JAPAN](https://zh.wikipedia.org/wiki/OMNIBUS_JAPAN "wikilink")
   - 播放担当：赤塚オホロ、原由香里、谷田健吾、杉田力介、治郎丸俊紀、山本倫子、島田忠明、林奈美
   - WEB製作：D\!gnet
   - 企劃協力：窪田康志（[AKS](../Page/AKS.md "wikilink")）、佐野裕一（[田邊音樂出版](https://zh.wikipedia.org/wiki/田辺エージェンシー#グループ会社 "wikilink")）
@@ -556,16 +544,9 @@
   - [有吉AKB共和國](http://www.tbs.co.jp/ariyoshi-akb/)
 
   -
-[Category:TBS電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:TBS電視台綜藝節目 "wikilink")
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
-[Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")
+[Category:TBS電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:TBS電視台綜藝節目 "wikilink") [Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")
 
-1.  2010年9月之前於週一 25:25 - 25:55播放，2012年3月在週四 24:55 - 25:25播放，2012年9月在週二
-    25:55 - 26:25播放
-2.  2012年3月在週四 25:00 - 25:30播放。2012年10月在週四 26:20 -
-    26:50播放。2012年10月25日停播。2012年11月23日再播。
-3.  2012年9月28日在週五 25:30 -
-    26:00，地上波TBS再播，播放時間更改。尚、\#1至\#4在2012年12月9日的22:30
-    - 24:30全部播放。2012年12月16日播放的\#5在週日 22:30 - 23:00播放。
-4.  在這以前2011年6月9日的『有吉AKB共和国緊急生放送 選抜総選挙2011開票 「速報\!
-    AKB選抜總選舉」で盛り上がろうSP』同時播放。
+1.  2010年9月之前於週一 25:25 - 25:55播放，2012年3月在週四 24:55 - 25:25播放，2012年9月在週二 25:55 - 26:25播放
+2.  2012年3月在週四 25:00 - 25:30播放。2012年10月在週四 26:20 - 26:50播放。2012年10月25日停播。2012年11月23日再播。
+3.  2012年9月28日在週五 25:30 - 26:00，地上波TBS再播，播放時間更改。尚、\#1至\#4在2012年12月9日的22:30 - 24:30全部播放。2012年12月16日播放的\#5在週日 22:30 - 23:00播放。
+4.  在這以前2011年6月9日的『有吉AKB共和国緊急生放送 選抜総選挙2011開票 「速報\! AKB選抜總選舉」で盛り上がろうSP』同時播放。

@@ -1,6 +1,4 @@
-**BibTeX**是一套用於管理文獻、產生文獻目錄的格式。
-使用上通常與[LaTeX一起使用](https://zh.wikipedia.org/wiki/LaTeX "wikilink")。結合排版設定，其名稱要表現成
-\({\mathrm{B{\scriptstyle{IB}} \! T\!_{\displaystyle E} \! X}}\)
+**BibTeX**是一套用於管理文獻、產生文獻目錄的格式。 使用上通常與[LaTeX一起使用](https://zh.wikipedia.org/wiki/LaTeX "wikilink")。結合排版設定，其名稱要表現成 \({\mathrm{B{\scriptstyle{IB}} \! T\!_{\displaystyle E} \! X}}\)
 
 ## 模板
 
@@ -44,8 +42,7 @@
   -
     等价于 inproceedings
       - 必要域: author, title, booktitle, year.
-      - 可选域: editor, volume/number, series, pages, address, month,
-        organization, publisher, note.
+      - 可选域: editor, volume/number, series, pages, address, month, organization, publisher, note.
 
 <!-- end list -->
 
@@ -55,8 +52,7 @@
 
   -
     书籍的一部分章节
-      - 必要域: author/editor, title, chapter and/or pages, publisher,
-        year.
+      - 必要域: author/editor, title, chapter and/or pages, publisher, year.
       - 可选域: volume/number, series, type, address, edition, month, note.
 
 <!-- end list -->
@@ -68,8 +64,7 @@
   -
     书籍中带独立标题的章节
       - 必要域: author, title, booktitle, publisher, year.
-      - 可选域: editor, volume/number, series, type, chapter, pages,
-        address, edition, month, note.
+      - 可选域: editor, volume/number, series, type, chapter, pages, address, edition, month, note.
 
 <!-- end list -->
 
@@ -80,8 +75,7 @@
   -
     会议论文集中的一篇
       - 必要域: author, title, booktitle, year.
-      - 可选域: editor, volume/number, series, pages, address, month,
-        organization, publisher, note.
+      - 可选域: editor, volume/number, series, pages, address, month, organization, publisher, note.
 
 <!-- end list -->
 
@@ -136,8 +130,7 @@
   -
     会议论文集
       - 必要域: title, year.
-      - 可选域: editor, volume/number, series, address, month,
-        organization, publisher, note.
+      - 可选域: editor, volume/number, series, address, month, organization, publisher, note.
 
 <!-- end list -->
 
@@ -163,8 +156,6 @@
 
 ## 外部链接
 
-  - [BibTeXing](http://mirrors.ctan.org/biblio/bibtex/base/btxdoc.pdf)
-    原始使用手冊（1998年），BibTeX 作者之一 Oren Patashnik 著。
+  - [BibTeXing](http://mirrors.ctan.org/biblio/bibtex/base/btxdoc.pdf) 原始使用手冊（1998年），BibTeX 作者之一 Oren Patashnik 著。
 
-[Category:排版软件](https://zh.wikipedia.org/wiki/Category:排版软件 "wikilink")
-[Category:TeX](https://zh.wikipedia.org/wiki/Category:TeX "wikilink")
+[Category:排版软件](https://zh.wikipedia.org/wiki/Category:排版软件 "wikilink") [Category:TeX](https://zh.wikipedia.org/wiki/Category:TeX "wikilink")

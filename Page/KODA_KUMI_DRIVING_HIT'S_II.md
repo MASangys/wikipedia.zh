@@ -1,5 +1,4 @@
-「**KODA KUMI DRIVING HIT'S
-II**」（飆速快感混音極選～II）於2010年3月31日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未](../Page/倖田來未.md "wikilink")的2nd[混音](../Page/混音.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
+「**KODA KUMI DRIVING HIT'S II**」（飆速快感混音極選～II）於2010年3月31日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未](../Page/倖田來未.md "wikilink")的2nd[混音](../Page/混音.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
 
 ## 解說
 
@@ -27,5 +26,4 @@ II**」（飆速快感混音極選～II）於2010年3月31日發行之[日本](.
 
 ## 相關條目
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink")

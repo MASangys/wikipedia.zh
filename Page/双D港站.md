@@ -2,7 +2,7 @@
 
 ## 位置
 
-双D港站位于[金州新区辽河中路南侧](../Page/金州新区.md "wikilink")，生命一路北侧，十八号路东侧，辽河中路与双D5街路口西南。
+双D港站位于[金州新区](../Page/金州新区.md "wikilink")辽河中路南侧，生命一路北侧，十八号路东侧，辽河中路与双D5街路口西南。
 
 ## 车站结构
 
@@ -20,5 +20,4 @@
   - [大连地铁](../Page/大连地铁.md "wikilink")
   - [大连快轨3号线](https://zh.wikipedia.org/wiki/大连快轨3号线 "wikilink")
 
-[Category:2002年启用的铁路车站](https://zh.wikipedia.org/wiki/Category:2002年启用的铁路车站 "wikilink")
-[Category:大连地铁车站](https://zh.wikipedia.org/wiki/Category:大连地铁车站 "wikilink")
+[Category:2002年启用的铁路车站](https://zh.wikipedia.org/wiki/Category:2002年启用的铁路车站 "wikilink") [Category:大连地铁车站](https://zh.wikipedia.org/wiki/Category:大连地铁车站 "wikilink")

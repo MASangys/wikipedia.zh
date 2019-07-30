@@ -1,5 +1,4 @@
-**Google Arts & Culture**（前名**Google Art
-Project**）於2011年2月1日推出，Google與世界各地[博物館合作](https://zh.wikipedia.org/wiki/博物館 "wikilink")，利用[Google街景技術拍攝博物館內部實景](https://zh.wikipedia.org/wiki/Google街景 "wikilink")，並且以超高-{zh-hans:像素;zh-hant:解析像;}-拍攝館內歷史名畫，并可供用户观看。到2012年4月3日，40个国家和地区的151间艺术博物馆将公布宣布。目前，各项工作已出版32,000点以上，参与博物馆46间，这包括纽约[大都会艺术博物馆](https://zh.wikipedia.org/wiki/大都会艺术博物馆 "wikilink")，[泰特美术馆](https://zh.wikipedia.org/wiki/泰特美术馆 "wikilink")，[白宫](https://zh.wikipedia.org/wiki/白宫 "wikilink")，[格里菲斯大学](../Page/格里菲斯大学.md "wikilink")，[伊斯兰艺术博物馆](https://zh.wikipedia.org/wiki/伊斯兰艺术博物馆 "wikilink")，[香港艺术博物馆](https://zh.wikipedia.org/wiki/香港艺术博物馆 "wikilink")\[1\]。目前，可查看的语言包括[英语](../Page/英语.md "wikilink")，[法语](../Page/法语.md "wikilink")，[日语](../Page/日语.md "wikilink")，[葡萄牙语等](https://zh.wikipedia.org/wiki/葡萄牙语 "wikilink")18种语言\[2\]。
+**Google Arts & Culture**（前名**Google Art Project**）於2011年2月1日推出，Google與世界各地[博物館合作](https://zh.wikipedia.org/wiki/博物館 "wikilink")，利用[Google街景技術拍攝博物館內部實景](https://zh.wikipedia.org/wiki/Google街景 "wikilink")，並且以超高-{zh-hans:像素;zh-hant:解析像;}-拍攝館內歷史名畫，并可供用户观看。到2012年4月3日，40个国家和地区的151间艺术博物馆将公布宣布。目前，各项工作已出版32,000点以上，参与博物馆46间，这包括纽约[大都会艺术博物馆](https://zh.wikipedia.org/wiki/大都会艺术博物馆 "wikilink")，[泰特美术馆](https://zh.wikipedia.org/wiki/泰特美术馆 "wikilink")，[白宫](https://zh.wikipedia.org/wiki/白宫 "wikilink")，[格里菲斯大学](../Page/格里菲斯大学.md "wikilink")，[伊斯兰艺术博物馆](https://zh.wikipedia.org/wiki/伊斯兰艺术博物馆 "wikilink")，[香港艺术博物馆](https://zh.wikipedia.org/wiki/香港艺术博物馆 "wikilink")\[1\]。目前，可查看的语言包括[英语](../Page/英语.md "wikilink")，[法语](../Page/法语.md "wikilink")，[日语](../Page/日语.md "wikilink")，[葡萄牙语等](https://zh.wikipedia.org/wiki/葡萄牙语 "wikilink")18种语言\[2\]。
 
 ## Google藝術計劃展示的部份畫作
 
@@ -221,9 +220,7 @@ Project**）於2011年2月1日推出，Google與世界各地[博物館合作](ht
 
 {{-}}
 
-[Category:2011年建立的网站](https://zh.wikipedia.org/wiki/Category:2011年建立的网站 "wikilink")
-[Category:艺术网站](https://zh.wikipedia.org/wiki/Category:艺术网站 "wikilink")
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
+[Category:2011年建立的网站](https://zh.wikipedia.org/wiki/Category:2011年建立的网站 "wikilink") [Category:艺术网站](https://zh.wikipedia.org/wiki/Category:艺术网站 "wikilink") [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
 
 1.
 2.
@@ -231,7 +228,6 @@ Project**）於2011年2月1日推出，Google與世界各地[博物館合作](ht
 4.  [Googleartproject.com](http://www.googleartproject.com/museums/freer/the-princess-from-the-land-of-porcelain)
 5.  [Googleartproject.com](http://www.googleartproject.com/museums/frick/st-francis-in-the-desert)
 6.  [Googleartproject.com](http://www.googleartproject.com/museums/gemaldegalerie/the-merchant-georg-gisze)
-
 7.  [Googleartproject.com](http://www.googleartproject.com/museums/kampa/the-cathedral)
 8.  [Googleartproject.com](http://www.googleartproject.com/museums/met/the-harvesters)
 9.  [Googleartproject.com](http://www.googleartproject.com/museums/moma/the-starry-night)

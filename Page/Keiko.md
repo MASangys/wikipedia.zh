@@ -1,13 +1,9 @@
-**窪田啓子**（\[1\]），日本女性歌手。出身於[東京都](../Page/東京都.md "wikilink")，血型B型。隸屬於[SPACE
-CRAFT](../Page/SPACE_CRAFT.md "wikilink")。為日本音樂團體[Kalafina](../Page/Kalafina.md "wikilink")成員之一，2018年4月1日正式退社。
+**窪田啓子**（\[1\]），日本女性歌手。出身於[東京都](../Page/東京都.md "wikilink")，血型B型。隸屬於[SPACE CRAFT](../Page/SPACE_CRAFT.md "wikilink")。為日本音樂團體[Kalafina](../Page/Kalafina.md "wikilink")成員之一，2018年4月1日正式退社。
 
 ## 簡歷
 
-  - 2005年9月22日，以[FictionJunction](../Page/FictionJunction.md "wikilink")
-    Keiko的名義參加[NHK衛星第2頻道上播放的電視動畫](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》OST《Future
-    Soundscape II》（\#9《》）。
-  - 2005年12月21日，在[池袋](../Page/池袋.md "wikilink")的[LIVE INN
-    ROSA與](https://zh.wikipedia.org/wiki/LIVE_INN_ROSA "wikilink")[伊藤彩華首次現場演出](https://zh.wikipedia.org/wiki/伊藤彩華 "wikilink")。
+  - 2005年9月22日，以[FictionJunction](../Page/FictionJunction.md "wikilink") Keiko的名義參加[NHK衛星第2頻道上播放的電視動畫](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》OST《Future Soundscape II》（\#9《》）。
+  - 2005年12月21日，在[池袋](../Page/池袋.md "wikilink")的[LIVE INN ROSA與](https://zh.wikipedia.org/wiki/LIVE_INN_ROSA "wikilink")[伊藤彩華首次現場演出](https://zh.wikipedia.org/wiki/伊藤彩華 "wikilink")。
   - [2006年2月](../Page/2006年2月.md "wikilink")，得到的「審査員特別賞」。\[2\]
 
 ## 演出
@@ -18,11 +14,9 @@ CRAFT](../Page/SPACE_CRAFT.md "wikilink")。為日本音樂團體[Kalafina](../P
 
   - （）
 
-  - （fm
-    osaka，[2006年10月](../Page/2006年10月.md "wikilink")－[2007年6月](../Page/2007年6月.md "wikilink")）
+  - （fm osaka，[2006年10月](../Page/2006年10月.md "wikilink")－[2007年6月](../Page/2007年6月.md "wikilink")）
 
-  - （fm
-    osaka，[2007年7月](../Page/2007年7月.md "wikilink")－[12月](../Page/2007年12月.md "wikilink")）
+  - （fm osaka，[2007年7月](../Page/2007年7月.md "wikilink")－[12月](../Page/2007年12月.md "wikilink")）
 
 ## CD
 
@@ -33,15 +27,11 @@ CRAFT](../Page/SPACE_CRAFT.md "wikilink")。為日本音樂團體[Kalafina](../P
 
 ### FictionJunction
 
-  - NHK電視動畫《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》OST《Future
-    Soundscape II》（2005年9月22日）
+  - NHK電視動畫《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》OST《Future Soundscape II》（2005年9月22日）
       -
-  - [Revo](../Page/Revo.md "wikilink") &
-    [梶浦由記](../Page/梶浦由記.md "wikilink") 合作單曲《[Dream
-    Port](https://zh.wikipedia.org/wiki/Dream_Port "wikilink")》（2008年6月18日）
+  - [Revo](../Page/Revo.md "wikilink") & [梶浦由記](../Page/梶浦由記.md "wikilink") 合作單曲《[Dream Port](https://zh.wikipedia.org/wiki/Dream_Port "wikilink")》（2008年6月18日）
       -
-  - 專輯《[Everlasting
-    Songs](https://zh.wikipedia.org/wiki/Everlasting_Songs "wikilink")》（2009年2月25日）
+  - 專輯《[Everlasting Songs](https://zh.wikipedia.org/wiki/Everlasting_Songs "wikilink")》（2009年2月25日）
       - 星屑
 
       -
@@ -56,8 +46,7 @@ CRAFT](../Page/SPACE_CRAFT.md "wikilink")。為日本音樂團體[Kalafina](../P
   - 單曲《（2010年1月27日）
       -
       -
-  - Live專輯《FictionJunction 2008-2010 The BEST of Yuki Kajiura
-    LIVE》（2010年5月12日）
+  - Live專輯《FictionJunction 2008-2010 The BEST of Yuki Kajiura LIVE》（2010年5月12日）
       - 收錄曲未定
 
 ### Kalafina
@@ -75,8 +64,7 @@ CRAFT](../Page/SPACE_CRAFT.md "wikilink")。為日本音樂團體[Kalafina](../P
 
 #### 專輯
 
-  - [Seventh
-    Heaven](../Page/Seventh_Heaven_\(Kalafina專輯\).md "wikilink")（2009年3月4日）
+  - [Seventh Heaven](../Page/Seventh_Heaven_\(Kalafina專輯\).md "wikilink")（2009年3月4日）
   - [Red Moon](../Page/Red_Moon.md "wikilink")（2010年3月17日）
 
 ## DVD
@@ -97,10 +85,7 @@ CRAFT](../Page/SPACE_CRAFT.md "wikilink")。為日本音樂團體[Kalafina](../P
   - [FictionJunction](http://www.jvcmusic.co.jp/fj/)
   - [Kalafina OFFICIAL WEBSITE](http://www.kalafina.jp/)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
-[Category:Kalafina](https://zh.wikipedia.org/wiki/Category:Kalafina "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:Kalafina](https://zh.wikipedia.org/wiki/Category:Kalafina "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
 
 1.
-2.  [AIR GUITAR JAPAN ::
-    ミスエアギタージャパンコンテストGPは？](http://airguitar.jp/news/2006/02/post_19.html)
+2.  [AIR GUITAR JAPAN :: ミスエアギタージャパンコンテストGPは？](http://airguitar.jp/news/2006/02/post_19.html)

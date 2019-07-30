@@ -1,33 +1,20 @@
-**Leessang**（）是[韓國男子二人](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[嘻哈組合](../Page/嘻哈.md "wikilink")，由饒舌歌手
-[Gary](../Page/Gary_\(韓國歌手\).md "wikilink") 和主唱
-[吉](../Page/吉成俊.md "wikilink") (Gil) 於2002年組成。\[1\]\[2\]
+**Leessang**（）是[韓國男子二人](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")組合，由饒舌歌手 [Gary](../Page/Gary_\(韓國歌手\).md "wikilink") 和主唱 [吉](../Page/吉成俊.md "wikilink") (Gil) 於2002年組成。\[1\]\[2\]
 
-Leessang至今一共發行了8張專輯以及3張單曲，其中在2002年至2003年間的專輯為自資獨立發行，2005年發行《Library of
-Soul》，2007年發行《Black Sun》，2009年發行《伯牙絕弦》和《Hexagonal》，以及2011年發行《AsuRa
-BalBalTa》，2012年发行了第8张专辑《Unplugged》，获得圈内好友的支持\[3\]\[4\]\[5\]。
-2013年1月25日推出全新單曲《Tears》。
+Leessang至今一共發行了8張專輯以及3張單曲，其中在2002年至2003年間的專輯為自資獨立發行，2005年發行《Library of Soul》，2007年發行《Black Sun》，2009年發行《伯牙絕弦》和《Hexagonal》，以及2011年發行《AsuRa BalBalTa》，2012年发行了第8张专辑《Unplugged》，获得圈内好友的支持\[3\]\[4\]\[5\]。 2013年1月25日推出全新單曲《Tears》。
 
-2014年4月23日，吉因醉酒驾驶而暂停了组合的演艺活动。12月30至31日，两人与其他几组歌手参加了在首尔市松坡区芳荑洞奥林匹克公园举行的演唱会，但此次演出并非复出活动
-\[6\]。
+2014年4月23日，吉因醉酒驾驶而暂停了组合的演艺活动。12月30至31日，两人与其他几组歌手参加了在首尔市松坡区芳荑洞奥林匹克公园举行的演唱会，但此次演出并非复出活动 \[6\]。
 
-2015年7月15日，组合发表单曲《走马灯》，吉成俊正式回归，歌曲并没有安排宣传计划，作为出道的第13个年头，《走马灯》是他们回顾过去并预告他们下半场音乐生涯的歌曲
-\[7\]。
+2015年7月15日，组合发表单曲《走马灯》，吉成俊正式回归，歌曲并没有安排宣传计划，作为出道的第13个年头，《走马灯》是他们回顾过去并预告他们下半场音乐生涯的歌曲 \[7\]。
 
 ## 演藝生涯
 
 ### Asura Balbalta時期
 
-經過兩年的沉積，Leessang於2011年11月發行第七張專輯《Asura
-Balbalta》，這張專輯十分成功，專輯內13首歌曲全部打入告示牌百強韓國單曲榜\[8\]\[9\]
-另外其中的主打歌「關上電視」以及「回想」於九月份更成功打入Melon音樂榜前三。\[10\]\[11\]\[12\]
+經過兩年的沉積，Leessang於2011年11月發行第七張專輯《Asura Balbalta》，這張專輯十分成功，專輯內13首歌曲全部打入告示牌百強韓國單曲榜\[8\]\[9\] 另外其中的主打歌「關上電視」以及「回想」於九月份更成功打入Melon音樂榜前三。\[10\]\[11\]\[12\]
 
 ### Tears時期
 
-Leessang於2013年1月25日推出全新單曲《Tears》，詞曲由二段橫踢與[Gary共同製作](https://zh.wikipedia.org/wiki/Garie "wikilink")，尹健鋼琴伴奏。歌曲公開後，橫掃九大音源榜（Melon、Bugs、Mnet
-Music、Olleh Music、Soribada、Cymusic、Naver Music、Daum
-Music、Monkey3）一位，達成All-Kill的紀錄\[13\]\[14\]，在發行近一週後，Melon、Mnet
-Music、Olleh Music、Monkey3即時榜榜單上連續七天在冠軍之位\[15\]，二月份第一週，Melon、Mnet
-Music、Olleh Music仍然維持一位，且為Melon網友投票的人氣對決一位\[16\]。
+Leessang於2013年1月25日推出全新單曲《Tears》，詞曲由二段橫踢與[Gary共同製作](https://zh.wikipedia.org/wiki/Garie "wikilink")，尹健鋼琴伴奏。歌曲公開後，橫掃九大音源榜（Melon、Bugs、Mnet Music、Olleh Music、Soribada、Cymusic、Naver Music、Daum Music、Monkey3）一位，達成All-Kill的紀錄\[13\]\[14\]，在發行近一週後，Melon、Mnet Music、Olleh Music、Monkey3即時榜榜單上連續七天在冠軍之位\[15\]，二月份第一週，Melon、Mnet Music、Olleh Music仍然維持一位，且為Melon網友投票的人氣對決一位\[16\]。
 
 ## 成員
 
@@ -377,46 +364,22 @@ Music、Olleh Music仍然維持一位，且為Melon網友投票的人氣對決�
   -
   -
   -
-[分類:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/分類:2002年成立的音樂團體 "wikilink")
-[分類:韓國流行音樂團體](https://zh.wikipedia.org/wiki/分類:韓國流行音樂團體 "wikilink")
-[分類:韓國男子演唱團體](https://zh.wikipedia.org/wiki/分類:韓國男子演唱團體 "wikilink")
+[分類:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/分類:2002年成立的音樂團體 "wikilink") [分類:韓國流行音樂團體](https://zh.wikipedia.org/wiki/分類:韓國流行音樂團體 "wikilink") [分類:韓國男子演唱團體](https://zh.wikipedia.org/wiki/分類:韓國男子演唱團體 "wikilink")
 
-[Category:Jungle_Entertainment](https://zh.wikipedia.org/wiki/Category:Jungle_Entertainment "wikilink")
-[Category:Leessang](https://zh.wikipedia.org/wiki/Category:Leessang "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:Jungle_Entertainment](https://zh.wikipedia.org/wiki/Category:Jungle_Entertainment "wikilink") [Category:Leessang](https://zh.wikipedia.org/wiki/Category:Leessang "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
-1.  [Naver People Search –
-    Leessang](http://people.search.naver.com/search.naver?sm=tab_txc&where=people_profile&ie=utf8&query=%EB%A6%AC%EC%8C%8D&os=159687),
-    *Naver*.
-2.  [Nate Search –
-    Leessang](http://search.nate.com/search/all.html?q=%B8%AE%BD%D6&hi=PR3542&ht=h_pf&csn=12&dsn=4&asn=001200294),
-    *Nate*.
-3.  [Naver Search – Leessang
-    Discography](http://people.search.naver.com/search.naver?where=people_filmo&ftype=album&fyear=&fall_year=&query=%EB%A6%AC%EC%8C%8D&os=159687&sm=tab_tmr&ie=utf8),
-    *Naver*.
-4.  ["리쌍, 이하늘형은 장례식서 육개장 나르는
-    사람"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=117&aid=0000028491),
-    *Naver*, 8 November 2011. Retrieved 18 October 2011.
-5.  ["리쌍, 힙합은 아직도
-    배고프다."](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=117&aid=0000029178),
-    *Naver*, 14 November 2005. Retrieved 18 October 2011.
-6.  大公报: LeeSSang酒驾成员吉复出 刘在石义气助阵演唱会
-    (2014-12-30)[1](http://ent.takungpao.com/star/q/2014/1230/2873782.html)
-7.  中国日报: Leessang时隔三年出新曲 无电视台宣传计划 (2015-07-02)
-    [2](http://ent.takungpao.com/star/q/2014/1230/2873782.html)
+1.  [Naver People Search – Leessang](http://people.search.naver.com/search.naver?sm=tab_txc&where=people_profile&ie=utf8&query=%EB%A6%AC%EC%8C%8D&os=159687), *Naver*.
+2.  [Nate Search – Leessang](http://search.nate.com/search/all.html?q=%B8%AE%BD%D6&hi=PR3542&ht=h_pf&csn=12&dsn=4&asn=001200294), *Nate*.
+3.  [Naver Search – Leessang Discography](http://people.search.naver.com/search.naver?where=people_filmo&ftype=album&fyear=&fall_year=&query=%EB%A6%AC%EC%8C%8D&os=159687&sm=tab_tmr&ie=utf8), *Naver*.
+4.  ["리쌍, 이하늘형은 장례식서 육개장 나르는 사람"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=117&aid=0000028491), *Naver*, 8 November 2011. Retrieved 18 October 2011.
+5.  ["리쌍, 힙합은 아직도 배고프다."](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=117&aid=0000029178), *Naver*, 14 November 2005. Retrieved 18 October 2011.
+6.  大公报: LeeSSang酒驾成员吉复出 刘在石义气助阵演唱会 (2014-12-30)[1](http://ent.takungpao.com/star/q/2014/1230/2873782.html)
+7.  中国日报: Leessang时隔三年出新曲 无电视台宣传计划 (2015-07-02) [2](http://ent.takungpao.com/star/q/2014/1230/2873782.html)
 8.
-9.  ["리쌍, 목마른 자들의, 그들을 위한
-    노래"](http://star.mk.co.kr/new/view.php?mc=ST&no=559643&year=2011),
-    *Star Today*, 29 August 2011. Retrieved 19 October 2011.
-10. ["Leessang tops the Melon Charts with Turned off the
-    TV"](http://www.allkpop.com/2011/10/leessang-tops-the-melon-charts-with-turned-off-the-tv),
-    *Allkpop*, 3 October 2011. Retrieved 18 October 2011.
-11. ["Leessang talks about their success with AsuRA
-    BalBalTa"](http://www.allkpop.com/2011/08/leessang-talks-about-their-success-with-asura-balbalta),
-    *Allkpop*, 27 August 2011. Retrieved 19 October 2011.
-12. ["Gaon Chart
-    History"](http://gaonchart.co.kr/main/section/search/chart_list.gaon?Search_str=%EB%A6%AC%EC%8C%8D)
-    , ''Gaon". Retrieved 28 October 2011.
+9.  ["리쌍, 목마른 자들의, 그들을 위한 노래"](http://star.mk.co.kr/new/view.php?mc=ST&no=559643&year=2011), *Star Today*, 29 August 2011. Retrieved 19 October 2011.
+10. ["Leessang tops the Melon Charts with Turned off the TV"](http://www.allkpop.com/2011/10/leessang-tops-the-melon-charts-with-turned-off-the-tv), *Allkpop*, 3 October 2011. Retrieved 18 October 2011.
+11. ["Leessang talks about their success with AsuRA BalBalTa"](http://www.allkpop.com/2011/08/leessang-talks-about-their-success-with-asura-balbalta), *Allkpop*, 27 August 2011. Retrieved 19 October 2011.
+12. ["Gaon Chart History"](http://gaonchart.co.kr/main/section/search/chart_list.gaon?Search_str=%EB%A6%AC%EC%8C%8D) , ''Gaon". Retrieved 28 October 2011.
 13.
 14.
 15.

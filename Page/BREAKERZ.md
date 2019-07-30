@@ -1,73 +1,57 @@
-**BREAKERZ**是一个日本男子音乐团体，由[DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink")、AKIHIDE、SHINPEI所組成。经纪公司为ZAIN
-PRODUCTS，唱片公司为ZAIN RECORDS。2013年2月27日，組合成員在完成演唱會後正式單飛。2015年再啓動。
+**BREAKERZ**是一个日本男子音乐团体，由[DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink")、AKIHIDE、SHINPEI所組成。经纪公司为ZAIN PRODUCTS，唱片公司为ZAIN RECORDS。2013年2月27日，組合成員在完成演唱會後正式單飛。2015年再啓動。
 
 ## 團員
 
-  - [DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink")（ダイゴ、本名：（ないとう
-    だいご）） - VOCAL 生日:1978年4月8日 AB型
-  - AKIHIDE（アキヒデ、本名：（さとう あきひで）） - GUITAR、Chorus、Synthesizer 生日:1977年7月5日
-    O型
-  - SHINPEI（シンペイ、本名：（いのうえ しんぺい）） - GUITAR、Chorus、Synthesizer
-    生日:1981年5月11日 AB型
+  - [DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink")（ダイゴ、本名：（ないとう だいご）） - VOCAL 生日:1978年4月8日 AB型
+  - AKIHIDE（アキヒデ、本名：（さとう あきひで）） - GUITAR、Chorus、Synthesizer 生日:1977年7月5日 O型
+  - SHINPEI（シンペイ、本名：（いのうえ しんぺい）） - GUITAR、Chorus、Synthesizer 生日:1981年5月11日 AB型
 
 ## 略歴
 
 **2007年**
 
   - 7月25日:出道專輯『[BREAKERZ](https://zh.wikipedia.org/wiki/BREAKERZ_\(專輯\) "wikilink")』發售。
-  - 12月5日:第2張的專輯『[CRASH &
-    BUILD](https://zh.wikipedia.org/wiki/CRASH_&_BUILD "wikilink")』發售。
+  - 12月5日:第2張的專輯『[CRASH & BUILD](https://zh.wikipedia.org/wiki/CRASH_&_BUILD "wikilink")』發售。
 
 **2008年**
 
   - 4月2日:首張迷你專輯『[アオノミライ](https://zh.wikipedia.org/wiki/アオノミライ "wikilink")』發售。
-  - 7月9日:首張單曲「[SUMMER PARTY／LAST
-    EMOTION](https://zh.wikipedia.org/wiki/SUMMER_PARTY/LAST_EMOTION "wikilink")」發售。
-  - 7月12日、在[ラゾーナ川崎プラザ舉行單曲](https://zh.wikipedia.org/wiki/ラゾーナ川崎プラザ "wikilink")「SUMMER
-    PARTY／LAST EMOTION」的發售記念現場活動，同所史上第2個集結1万1,000人\[1\]。
+  - 7月9日:首張單曲「[SUMMER PARTY／LAST EMOTION](https://zh.wikipedia.org/wiki/SUMMER_PARTY/LAST_EMOTION "wikilink")」發售。
+  - 7月12日、在[ラゾーナ川崎プラザ舉行單曲](https://zh.wikipedia.org/wiki/ラゾーナ川崎プラザ "wikilink")「SUMMER PARTY／LAST EMOTION」的發售記念現場活動，同所史上第2個集結1万1,000人\[1\]。
   - 9月26日:第2張的單曲「[世界在跳躍／灼熱](https://zh.wikipedia.org/wiki/世界在跳躍/灼熱 "wikilink")」發售。
-  - 11月5日:第3張的單曲「[Angelic Smile／WINTER
-    PARTY](https://zh.wikipedia.org/wiki/Angelic_Smile/WINTER_PARTY "wikilink")」發售。
-  - 11月26日:第3張的專輯『[BIG
-    BANG\!](https://zh.wikipedia.org/wiki/BIG_BANG! "wikilink")』發售。舉行全国巡迴演出。
+  - 11月5日:第3張的單曲「[Angelic Smile／WINTER PARTY](https://zh.wikipedia.org/wiki/Angelic_Smile/WINTER_PARTY "wikilink")」發售。
+  - 11月26日:第3張的專輯『[BIG BANG\!](https://zh.wikipedia.org/wiki/BIG_BANG! "wikilink")』發售。舉行全国巡迴演出。
 
 **2009年**
 
   - 2月18日:第4枚目的單曲「[GRAND FINALE](../Page/GRAND_FINALE.md "wikilink")」發售。
   - 3月〜4月、首個大廳巡演『BREAKERZ LIVE TOUR 2009 GRAND FINALE 〜青春デイズ〜』舉行。
-  - 4月8日:第5張的單曲「[Everlasting Luv／BAMBINO
-    〜小孩〜](https://zh.wikipedia.org/wiki/Everlasting_Luv/BAMBINO_〜小孩〜 "wikilink")」發售。自己最高初登場第2位記錄。
+  - 4月8日:第5張的單曲「[Everlasting Luv／BAMBINO 〜小孩〜](https://zh.wikipedia.org/wiki/Everlasting_Luv/BAMBINO_〜小孩〜 "wikilink")」發售。自己最高初登場第2位記錄。
   - 7月15日:第6張的單曲「[光](https://zh.wikipedia.org/wiki/光_\(BREAKERZ單曲\) "wikilink")」發售。初登場6位。
   - 7月24日-出道2周年，首次單独日本武道館LIVE「WISH」舉行。
   - 8月15日:JACK IN THE BOX SUMMERに出演。
-  - 8月22日:[a-nation](https://zh.wikipedia.org/wiki/a-nation "wikilink")'09にSurprise
-    Guest出演。
+  - 8月22日:[a-nation](https://zh.wikipedia.org/wiki/a-nation "wikilink")'09にSurprise Guest出演。
   - 10月31日:VAMPS主催的HELLWEEN LIVE 2009作嘉賓出演。
-  - 11月4日:第7張的單曲「[LOVE FIGHTER
-    〜戀愛的戰爭〜](https://zh.wikipedia.org/wiki/LOVE_FIGHTER_〜戀愛的戰爭〜 "wikilink")」發售。初登場第5位。
+  - 11月4日:第7張的單曲「[LOVE FIGHTER 〜戀愛的戰爭〜](https://zh.wikipedia.org/wiki/LOVE_FIGHTER_〜戀愛的戰爭〜 "wikilink")」發售。初登場第5位。
   - 12月2日:第4張的專輯『[FIGHTERZ](https://zh.wikipedia.org/wiki/FIGHTERZ "wikilink")』發售。
 
 **2010年**
 
-  - 4月7日:聲音版本專輯『[B.R.Z
-    ACOUSTIC](https://zh.wikipedia.org/wiki/B.R.Z_ACOUSTIC "wikilink")』發售。
+  - 4月7日:聲音版本專輯『[B.R.Z ACOUSTIC](https://zh.wikipedia.org/wiki/B.R.Z_ACOUSTIC "wikilink")』發售。
   - 7月14日:第8張的單曲「[激情／hEaVeN](https://zh.wikipedia.org/wiki/激情_/_hEaVeN "wikilink")」發售。
-  - 11月3日:第9張的單曲「[BUNNY LOVE／REAL LOVE
-    2010](https://zh.wikipedia.org/wiki/BUNNY_LOVE/REAL_LOVE_2010 "wikilink")」發售。
+  - 11月3日:第9張的單曲「[BUNNY LOVE／REAL LOVE 2010](https://zh.wikipedia.org/wiki/BUNNY_LOVE/REAL_LOVE_2010 "wikilink")」發售。
 
 **2011年**
 
   - 4月27日:第10張的單曲「[月夜惡作劇的魔法／CLIMBER×CLIMBER](https://zh.wikipedia.org/wiki/月夜惡作劇的魔法/CLIMBER×CLIMBER "wikilink")」發售。
-  - 7月13日:第11張的單曲「[LAST ✝ PRAY／絶対\! I LOVE
-    YOU](https://zh.wikipedia.org/wiki/LAST_✝_PRAY/絶対!_I_LOVE_YOU "wikilink")」發售。
+  - 7月13日:第11張的單曲「[LAST ✝ PRAY／絶対\! I LOVE YOU](https://zh.wikipedia.org/wiki/LAST_✝_PRAY/絶対!_I_LOVE_YOU "wikilink")」發售。
   - 9月21日:第5張的專輯『[GO](https://zh.wikipedia.org/wiki/GO_\(BREAKERZ專輯\) "wikilink")』發售。
 
 **2012年**
 
   - 1月25日:第12張的單曲「[Miss Mystery](../Page/Miss_Mystery.md "wikilink")」發售。
   - 6月13日:第13張的單曲「[Overwrite／腦内Survivor](https://zh.wikipedia.org/wiki/Overwrite/腦内Survivor "wikilink")」發售。
-  - 10月10日:第1張的精選專輯『[BREAKERZ BEST 〜SINGLE
-    COLLECTION〜](https://zh.wikipedia.org/wiki/BREAKERZ_BEST_〜SINGLE_COLLECTION〜 "wikilink")』發售。
+  - 10月10日:第1張的精選專輯『[BREAKERZ BEST 〜SINGLE COLLECTION〜](https://zh.wikipedia.org/wiki/BREAKERZ_BEST_〜SINGLE_COLLECTION〜 "wikilink")』發售。
 
 ## 作品一覽
 
@@ -523,8 +507,7 @@ BREAKERZ NIGHT
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2007.12.8　大阪・[hills
-    パン工場](https://zh.wikipedia.org/wiki/hills_パン工場 "wikilink")
+  - 2007.12.8　大阪・[hills パン工場](https://zh.wikipedia.org/wiki/hills_パン工場 "wikilink")
 
 </div>
 
@@ -608,8 +591,7 @@ BREAKERZ ONE MAN LIVE TOUR 2008 「BIG BANG\!」
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2008.12.05　大阪・[Zepp
-    Osaka](https://zh.wikipedia.org/wiki/Zepp "wikilink")
+  - 2008.12.05　大阪・[Zepp Osaka](https://zh.wikipedia.org/wiki/Zepp "wikilink")
   - 2008.12.06　福岡・Zepp Fukuoka
   - 2008.12.12　札幌・Zepp Sapporo
   - 2008.12.14　仙台・Zepp Sendai
@@ -772,8 +754,7 @@ BATTLE ROYALE ZEPP 2014～第1回 BREAKERZソロ報告会～
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2014.07.26　東京・[ZEPP
-    TOKYO](https://zh.wikipedia.org/wiki/ZEPP_TOKYO "wikilink")
+  - 2014.07.26　東京・[ZEPP TOKYO](https://zh.wikipedia.org/wiki/ZEPP_TOKYO "wikilink")
 
 </div>
 
@@ -783,18 +764,13 @@ BATTLE ROYALE ZEPP 2014～第1回 BREAKERZソロ報告会～
 
   - Acid Black Cherry的翻唱專輯「Recreation2」（2010年6月30日）「大都会」DAIGO與yasu合作。
   - DAIGOの友達バンドめたどん的專輯「スーパーめたどん」（2010年10月13日）にDAIGOが数曲楽曲提供。亦有製作。
-  - BUCK-TICKトリビュートアルバム「PARADEⅡ」（2012年7月4日）中BREAKERZ在「JUST ONE MORE
-    KISS」翻唱。
-  - hyde率いるハロウィンプロジェクトHalloween Jnky Orchestra的單曲「Halloween
-    Party」（2012年10月17日）中DAIGO参加。MV是BREAKERZ登場。
+  - BUCK-TICKトリビュートアルバム「PARADEⅡ」（2012年7月4日）中BREAKERZ在「JUST ONE MORE KISS」翻唱。
+  - hyde率いるハロウィンプロジェクトHalloween Jnky Orchestra的單曲「Halloween Party」（2012年10月17日）中DAIGO参加。MV是BREAKERZ登場。
   - Acid Black Cherry的作品、LVIE中AKIHIDE参加。
   - SHINPEIはBREAKERZ結成前にレコード会社携帯配信サイトからソロインストアルバムをリリースしている。(因配信網站完結現在的配信完結)
 
 ## 参考文献
 
-[Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink")
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
+[Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink") [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
 
-1.  [デイリースポーツonline / 元首相の孫DAIGO
-    支持率急上昇だ](http://www.daily.co.jp/gossip/2008/07/13/0001228498.shtml)
+1.  [デイリースポーツonline / 元首相の孫DAIGO 支持率急上昇だ](http://www.daily.co.jp/gossip/2008/07/13/0001228498.shtml)

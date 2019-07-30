@@ -22,7 +22,7 @@
 | 性別更動權力                                                                                                           | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") 自2000年 |
 | 同性婚姻                                                                                                             | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") 自2009年 |
 | 同性伴侶之共同領養及繼子女領養皆為合法                                                                                              | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") 自2009年 |
-| 已婚或伴侶關係穩定之女同性戀者進行[體內](https://zh.wikipedia.org/wiki/人工受精 "wikilink")/[體外人工受精之合法管道](../Page/體外人工受精.md "wikilink") | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") 自2009年 |
+| 已婚或伴侶關係穩定之女同性戀者進行[體內](https://zh.wikipedia.org/wiki/人工受精 "wikilink")/[體外人工受精](../Page/體外人工受精.md "wikilink")之合法管道 | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") 自2009年 |
 | 允許[男男性接觸者](https://zh.wikipedia.org/wiki/男男性接觸者 "wikilink")（MSM）進行捐血                                             | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg") (在審議中)          |
 
 ## 參考資料
@@ -30,5 +30,4 @@
 [Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink")
 
 1.
-2.   [Almindelig borgerlig Straffelov
-    (Straffeloven)](http://www.lovdata.no/all/tl-19020522-010-023.html#196/00_Norway_Penal%20Code.asp)
+2.   [Almindelig borgerlig Straffelov (Straffeloven)](http://www.lovdata.no/all/tl-19020522-010-023.html#196/00_Norway_Penal%20Code.asp)

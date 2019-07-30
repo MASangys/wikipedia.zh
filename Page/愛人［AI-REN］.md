@@ -1,4 +1,4 @@
-是[日本漫画家](../Page/日本.md "wikilink")[田中ユタカ在](https://zh.wikipedia.org/wiki/田中ユタカ "wikilink")《ヤングアニマル》（[白泉社](../Page/白泉社.md "wikilink")）连载的[黑色乌托邦题材的](../Page/反乌托邦.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")。连载于1999年11日至2002年10日。单行本共5卷。2009年1月发布“愛蔵版”2卷。
+是[日本](../Page/日本.md "wikilink")漫画家[田中ユタカ在](https://zh.wikipedia.org/wiki/田中ユタカ "wikilink")《ヤングアニマル》（[白泉社](../Page/白泉社.md "wikilink")）连载的[黑色乌托邦题材的](../Page/反乌托邦.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")。连载于1999年11日至2002年10日。单行本共5卷。2009年1月发布“愛蔵版”2卷。
 
 ## 概要
 

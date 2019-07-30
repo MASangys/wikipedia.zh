@@ -1,11 +1,8 @@
-《**Battle Spirits
-Brave**》（），由[名古屋電視台製作](../Page/名古屋電視台.md "wikilink")，於2010年9月開始在[朝日電視網播放的](../Page/全日本新聞網.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。為《[Battle
-Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")》的續篇。
+《**Battle Spirits Brave**》（），由[名古屋電視台](../Page/名古屋電視台.md "wikilink")製作，於2010年9月開始在[朝日電視網播放的](../Page/全日本新聞網.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。為《[Battle Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")》的續篇。
 
 ## 故事簡介
 
-在與異界王決戰後兩年，成為「真正的衝撃王」的**馬神彈''再次跟原網絡偶像**維奧娜魔美'''（紫乃宮魔美）
-相會。這時彈因沒有強大的對手而感到空虛，魔美表示有需要去戰鬥的地方，就此彈和魔魅二人前往了未來的地球。
+在與異界王決戰後兩年，成為「真正的衝撃王」的**馬神彈''再次跟原網絡偶像**維奧娜魔美'''（紫乃宮魔美） 相會。這時彈因沒有強大的對手而感到空虛，魔美表示有需要去戰鬥的地方，就此彈和魔魅二人前往了未來的地球。
 
 在未來，地球被異界魔族所侵略。彈與成為了人類軍最高司令的卡贊再會，並把人類的希望、未來和卡組都託給彈。而地球由於自我淨化，將於一年後毀滅。彈為解決危機決定與魔族女王姫爾法姆會面。
 
@@ -18,8 +15,7 @@ Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")�
   -
     在未來使用的第4種卡片。一般情況下與普通戰魂一樣，但在特定條件下在自己的主要階段能與其他戰魂自由合體和分離。
     合體後合體戰魂會得到Brave的能力、BP值和標織，當合體戰魂被破壞時Brave會留在場上。另外，存在沒有戰徽的Brave。
-    只要符合條件，就能與所有Spirit合體，而一隻戰魂只能與一隻Brave合體。但是也有例外的情況，如滅神星龍暗黑普爾姆•新星的效果，此卡不能合體。而光龍騎神
-    昇陽·阿波羅龍的效果能與2隻Brave進行「雙重合體」。
+    只要符合條件，就能與所有Spirit合體，而一隻戰魂只能與一隻Brave合體。但是也有例外的情況，如滅神星龍暗黑普爾姆•新星的效果，此卡不能合體。而光龍騎神 昇陽·阿波羅龍的效果能與2隻Brave進行「雙重合體」。
 
 <!-- end list -->
 
@@ -67,18 +63,13 @@ Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")�
 
 ### 效果
 
-太陽神龍 進昇阿波羅龍︰
-LV1-3︰「自己的攻擊階段」自己全部「星竜」系統的Spirit攻擊時，可指定對手1張Spirit，並對該Spirit進行攻擊。
+太陽神龍 進昇阿波羅龍︰ LV1-3︰「自己的攻擊階段」自己全部「星竜」系統的Spirit攻擊時，可指定對手1張Spirit，並對該Spirit進行攻擊。
 
 `        LV3︰【合體時】「這張Spirit合體攻擊時」BP比拼後，只有對手的Spirit被破壞時，破壞對手其中1張Spirit/Brave/Nexus。`
 
-金牛龍神 龍牛戴拿斯︰ LV1-3︰【激突】「這張Spirit攻擊時」對手可以防禦時，必須防禦。
-LV2-3︰「這張Spirit攻擊時」對手的Spirit防禦時，比較雙方Spirit的標誌數目。這張Spirit每比對手防禦的Spirit多1個標誌，就從對手的生命值區移1個CORE到預備區。
-LV3︰
-「這張Spirit攻擊時」以這張Spirit的效果比較標誌數目時，自己場中每有1張「神星」/「光導」系統的Spirit，這張Spirit就增加1個紅色標誌，如此類推。
+金牛龍神 龍牛戴拿斯︰ LV1-3︰【激突】「這張Spirit攻擊時」對手可以防禦時，必須防禦。 LV2-3︰「這張Spirit攻擊時」對手的Spirit防禦時，比較雙方Spirit的標誌數目。這張Spirit每比對手防禦的Spirit多1個標誌，就從對手的生命值區移1個CORE到預備區。 LV3︰ 「這張Spirit攻擊時」以這張Spirit的效果比較標誌數目時，自己場中每有1張「神星」/「光導」系統的Spirit，這張Spirit就增加1個紅色標誌，如此類推。
 
-光龍騎神 射手阿波羅龍 LV1-3︰r這Spirit可與2張Brave合體。
-LV1-3︰自己全部「光導」/「星魂」系統的Spirit攻擊時，可以指定對手1張Spirit，並對該Spirit進行攻擊。
+光龍騎神 射手阿波羅龍 LV1-3︰r這Spirit可與2張Brave合體。 LV1-3︰自己全部「光導」/「星魂」系統的Spirit攻擊時，可以指定對手1張Spirit，並對該Spirit進行攻擊。
 
 `      LV3︰【合體時】「這張Spirit合體攻擊時」這張Spirit每有1張Brave，就破壞對手1張BP10000或以下的Spirit。===效果===`
 
@@ -130,20 +121,15 @@ LV1-3︰自己全部「光導」/「星魂」系統的Spirit攻擊時，可以�
 
 ### 效果
 
-月光龍 突擊齊格鱗︰ LV1-3︰「對手的攻擊階段」對手的Spirit攻擊時，這張Spirit變成回復狀態。
-LV2-3︰「這張Spirit防禦時」BP比拼後，只有對手的Spirit被破壞時，對手全部比該被破壞Spirit低BP的Spirit回到手牌。
+月光龍 突擊齊格鱗︰ LV1-3︰「對手的攻擊階段」對手的Spirit攻擊時，這張Spirit變成回復狀態。 LV2-3︰「這張Spirit防禦時」BP比拼後，只有對手的Spirit被破壞時，對手全部比該被破壞Spirit低BP的Spirit回到手牌。
 
 ` LV3︰【合體時】「對手的攻擊階段」階段開始時，指定對手1張沒有合體的Spirit，該Spirit可以攻擊時，必須攻擊。`
 
-寶瓶神機亞古極樂︰ LV1-3︰「雙方的回復階段」只有1張沒有合體的Spirit可以變成回復狀態。而且，全部Nexus不能變成回復狀態。
-LV2-3︰
-自己全部「神星」/「光導」/「星魂」系統的Spirit增加【裝甲：紅/紫/藍色】技能：這張Spirit不受對手紅/紫/藍色的Spirit/Nexus/Magic效果影響。
+寶瓶神機亞古極樂︰ LV1-3︰「雙方的回復階段」只有1張沒有合體的Spirit可以變成回復狀態。而且，全部Nexus不能變成回復狀態。 LV2-3︰ 自己全部「神星」/「光導」/「星魂」系統的Spirit增加【裝甲：紅/紫/藍色】技能：這張Spirit不受對手紅/紫/藍色的Spirit/Nexus/Magic效果影響。
 
 ` LV3︰【合體時】「對手的回復階段」對手全部合體Spirit不能變成回復狀態。`
 
-獅機龍神 突擊鱗 · 獅︰
-LV1-3︰【重裝甲：紫/綠/白/黄】這張Spirit不受對手紫/綠/白/黄色的Spirit/Brave/Nexus/魔法卡的效果影響。
-LV1-3︰這張Spirit以外，自己「光導」/「星魂」系統的Spirit變成疲勞狀態時，這張Spirit變成回復狀態。
+獅機龍神 突擊鱗 · 獅︰ LV1-3︰【重裝甲：紫/綠/白/黄】這張Spirit不受對手紫/綠/白/黄色的Spirit/Brave/Nexus/魔法卡的效果影響。 LV1-3︰這張Spirit以外，自己「光導」/「星魂」系統的Spirit變成疲勞狀態時，這張Spirit變成回復狀態。
 
 ` LV3︰【合體時】自己全部「光導」/「星魂」系統的Spirit增加1個白色標誌。`
 
@@ -184,18 +170,11 @@ LV1-3︰這張Spirit以外，自己「光導」/「星魂」系統的Spirit變�
 
 ### 效果
 
-雙魚賊神 雙魚南蠻船
-LV1-2︰「這張Spirit召喚時」這張Spirit以外的全部Spirit，須把1個CORE移至持有者的預備區。每有1張Spirit因這效果而變成0個CORE，自己就須從咭組抽取1張咭牌，如此類推。
-LV2︰ 「這張Spirit被破壞時」自己每有1張「光導」/「星魂」系統的Spirit，雙方就破壞1張手牌，如此類推。
+雙魚賊神 雙魚南蠻船 LV1-2︰「這張Spirit召喚時」這張Spirit以外的全部Spirit，須把1個CORE移至持有者的預備區。每有1張Spirit因這效果而變成0個CORE，自己就須從咭組抽取1張咭牌，如此類推。 LV2︰ 「這張Spirit被破壞時」自己每有1張「光導」/「星魂」系統的Spirit，雙方就破壞1張手牌，如此類推。
 
-魔羯邪神 魔宴山羊
-LV1-3︰「這張Spirit召喚時」自己場中每有1張「光導」/「星魂」系統的Spirit，就從廢棄區選取1張紫色的咭牌回到手牌，如此類推。
-LV1-3︰「自己的攻擊階段」自己的「光導」/「星魂」系統的Spirit攻擊時，從對手Spirit上移1個CORE至對手的預備區。 LV2-3︰
-把對手的CORE移至預備區的Spirit/Brave/Magic效果，全部變成移至廢棄區。
+魔羯邪神 魔宴山羊 LV1-3︰「這張Spirit召喚時」自己場中每有1張「光導」/「星魂」系統的Spirit，就從廢棄區選取1張紫色的咭牌回到手牌，如此類推。 LV1-3︰「自己的攻擊階段」自己的「光導」/「星魂」系統的Spirit攻擊時，從對手Spirit上移1個CORE至對手的預備區。 LV2-3︰ 把對手的CORE移至預備區的Spirit/Brave/Magic效果，全部變成移至廢棄區。
 
-蛇皇神帝 阿斯古庇俄斯 LV1-3︰「這張Spirit召喚時」只要破壞自己1張「星魂」系統的Spirit，就須從自己的咭組抽取3張咭牌。
-LV2-3︰「自己的攻擊階段」BP比拼後，自己「光導」/「妖蛇」系統的Spirit被破壞時，該張Spirit以回復狀態回到自己的場中。 LV3︰
-「這Spirit防禦時」防禦這張Spirit的對手Spirit上的全部CORE移至空間。
+蛇皇神帝 阿斯古庇俄斯 LV1-3︰「這張Spirit召喚時」只要破壞自己1張「星魂」系統的Spirit，就須從自己的咭組抽取3張咭牌。 LV2-3︰「自己的攻擊階段」BP比拼後，自己「光導」/「妖蛇」系統的Spirit被破壞時，該張Spirit以回復狀態回到自己的場中。 LV3︰ 「這Spirit防禦時」防禦這張Spirit的對手Spirit上的全部CORE移至空間。
 
 ### 綠色
 
@@ -234,18 +213,13 @@ LV2-3︰「自己的攻擊階段」BP比拼後，自己「光導」/「妖蛇」
 
 ### 效果
 
-巨蟹武神 凱撒特
-LV1-2︰「自己的攻擊階段」自己「光導」/「星魂」系統的Spirit攻擊時，對手須使用2張Spirit才能防禦。而當該咭被防禦時，須選擇與其中1張進行戰鬥。
-LV2︰「這張Spirit攻擊時」自己場中有合體Spirit期間，這張Spirit攻擊成功削減對手生命值時，對手從生命值區移1個CORE至對手預備區。
+巨蟹武神 凱撒特 LV1-2︰「自己的攻擊階段」自己「光導」/「星魂」系統的Spirit攻擊時，對手須使用2張Spirit才能防禦。而當該咭被防禦時，須選擇與其中1張進行戰鬥。 LV2︰「這張Spirit攻擊時」自己場中有合體Spirit期間，這張Spirit攻擊成功削減對手生命值時，對手從生命值區移1個CORE至對手預備區。
 
-星騎士凱格力斯Ω 自己的生命值是3或以下期間，手牌中的這張Spirit咭當作COST 4。
-LV1-3︰Flash【神速】可在Flash時間召喚此Spirit，召喚和維持LV1的CORE則從預備區支付。
+星騎士凱格力斯Ω 自己的生命值是3或以下期間，手牌中的這張Spirit咭當作COST 4。 LV1-3︰Flash【神速】可在Flash時間召喚此Spirit，召喚和維持LV1的CORE則從預備區支付。
 
 `      LV2-3︰【合體時】召喚自己擁有【神速】技能的Spirit時，這張Spirit變成回復狀態。`
 
-白羊樹神生命樹羊 LV1-3︰「雙方的主要階段」雙方召喚沒有「遊精」系統的Spirit卡，或者Brave卡時，以疲勞狀態召喚到場中。
-LV2-3︰「這張Spirit戰鬥時」BP比拼後，只有對手被破壞，自己1張「光導」/「星魂」系統的Spirit變成回復狀態。 LV3︰
-雙方全部Spirit上的CORE，不能以【転召】以外的方法移除。
+白羊樹神生命樹羊 LV1-3︰「雙方的主要階段」雙方召喚沒有「遊精」系統的Spirit卡，或者Brave卡時，以疲勞狀態召喚到場中。 LV2-3︰「這張Spirit戰鬥時」BP比拼後，只有對手被破壞，自己1張「光導」/「星魂」系統的Spirit變成回復狀態。 LV3︰ 雙方全部Spirit上的CORE，不能以【転召】以外的方法移除。
 
 ### 黃色
 
@@ -273,13 +247,9 @@ LV2-3︰「這張Spirit戰鬥時」BP比拼後，只有對手被破壞，自己1
 
 ### 效果
 
-魔導雙神謝美娜斯
-LV1-3︰召喚自己「神星」/「光導」/「星魂」系統的Spirit時，從自己咭組上公開1張咭牌。若該咭牌是Spirit咭或Brave咭時，無需支付COST，召喚到自己的場中。若是其他咭牌則加進手牌。
-LV2-3︰自己支付COST使用Magic效果時，該效果發揮後，可無需支付COST使用自己1張Magic咭。這效果每回合只能使用2次。
+魔導雙神謝美娜斯 LV1-3︰召喚自己「神星」/「光導」/「星魂」系統的Spirit時，從自己咭組上公開1張咭牌。若該咭牌是Spirit咭或Brave咭時，無需支付COST，召喚到自己的場中。若是其他咭牌則加進手牌。 LV2-3︰自己支付COST使用Magic效果時，該效果發揮後，可無需支付COST使用自己1張Magic咭。這效果每回合只能使用2次。
 
-戰神處女 維露珍 LV1-3︰「這張Spirit召喚時」自己的生命值在5個或以下時，從空間取1個CORE至自己的生命值區。
-LV1-3︰「對手的攻擊階段」對手COST 2/3/5/7/11的Spirit不能攻擊。 LV2-3︰
-自己全部「光導」/「天霊」系統的Spirit被對手破壞時，回到手牌。
+戰神處女 維露珍 LV1-3︰「這張Spirit召喚時」自己的生命值在5個或以下時，從空間取1個CORE至自己的生命值區。 LV1-3︰「對手的攻擊階段」對手COST 2/3/5/7/11的Spirit不能攻擊。 LV2-3︰ 自己全部「光導」/「天霊」系統的Spirit被對手破壞時，回到手牌。
 
 ### 藍色
 
@@ -307,12 +277,9 @@ LV1-3︰「對手的攻擊階段」對手COST 2/3/5/7/11的Spirit不能攻擊。
 
 ### 效果
 
-天蠍神騎 蠍神槍 LV1-3︰自己全部Spirit狀態的Brave可當作「COST 5/「光導．異合」系統/LV1
-BP7000」Spirit狀態的Brave。
-LV2-3︰自己全部「光導」/「星魂」系統的Spirit增加技能：「這張Spirit攻擊時」破壞1張BP比這Spirit低並沒有合體的對手Spirit。
+天蠍神騎 蠍神槍 LV1-3︰自己全部Spirit狀態的Brave可當作「COST 5/「光導．異合」系統/LV1 BP7000」Spirit狀態的Brave。 LV2-3︰自己全部「光導」/「星魂」系統的Spirit增加技能：「這張Spirit攻擊時」破壞1張BP比這Spirit低並沒有合體的對手Spirit。
 
-天秤造神 天衡哥雷姆 LV1-3︰【粉碎】「這張Spirit攻擊時」對手須從咭組上，捨棄跟這張Spirit LV相同數目的咭牌。 LV3︰
-「這張Spirit攻擊時」這張Spirit處於回復狀態時，對手的生命值不能被削減。以這張Spirit的【粉碎】效果令對手的廢棄區有1張或以上Spirit咭時，這張Spirit變成回復狀態。
+天秤造神 天衡哥雷姆 LV1-3︰【粉碎】「這張Spirit攻擊時」對手須從咭組上，捨棄跟這張Spirit LV相同數目的咭牌。 LV3︰ 「這張Spirit攻擊時」這張Spirit處於回復狀態時，對手的生命值不能被削減。以這張Spirit的【粉碎】效果令對手的廢棄區有1張或以上Spirit咭時，這張Spirit變成回復狀態。
 
 ### 混色
 
@@ -340,10 +307,7 @@ LV2-3︰自己全部「光導」/「星魂」系統的Spirit增加技能：「�
 
 ### 效果
 
-終焉之騎神 諸神的黃昏 【轉召：COST 6或以上/空間】支付召喚COST後，須將自己1張COST
-6或以上的Spirit上的全部CORE移至空間。
-LV1-3︰「這張Spirit召喚時」對手全部Spirit變成疲勞狀態。以「鉄騎皇イグドラシル」為【轉召】對象時，再從空間取6個CORE至這張Spirit上。
-LV3︰ 「這張Spirit戰鬥時」自己3張COST 8或以下的Spirit變成回復狀態。
+終焉之騎神 諸神的黃昏 【轉召：COST 6或以上/空間】支付召喚COST後，須將自己1張COST 6或以上的Spirit上的全部CORE移至空間。 LV1-3︰「這張Spirit召喚時」對手全部Spirit變成疲勞狀態。以「鉄騎皇イグドラシル」為【轉召】對象時，再從空間取6個CORE至這張Spirit上。 LV3︰ 「這張Spirit戰鬥時」自己3張COST 8或以下的Spirit變成回復狀態。
 
 ## 動畫
 
@@ -1045,7 +1009,7 @@ LV3︰ 「這張Spirit戰鬥時」自己3張COST 8或以下的Spirit變成回復
 
 ## 播放電視台
 
-2011年3月13日播放日的第26話，[東日本大震災報道特別節目所以延遲至翌週播放](../Page/東日本大震災.md "wikilink")\[1\]。
+2011年3月13日播放日的第26話，[東日本大震災](../Page/東日本大震災.md "wikilink")報道特別節目所以延遲至翌週播放\[1\]。
 
 <table>
 <thead>
@@ -1060,7 +1024,7 @@ LV3︰ 「這張Spirit戰鬥時」自己3張COST 8或以下的Spirit變成回復
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/名古屋電視台.md" title="wikilink">名古屋電視台</a><br />
-<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台系列</a></p></td>
+<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>系列</p></td>
 <td><p>2010年9月12日－2011年9月11日</p></td>
 <td><p>星期日 7時00分－7時30分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朝日電視網" title="wikilink">朝日電視網</a></p></td>
@@ -1091,8 +1055,7 @@ LV3︰ 「這張Spirit戰鬥時」自己3張COST 8或以下的Spirit變成回復
 
   -
     原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、作畫：杉山雪
-    於「[KEROKERO
-    ACE](../Page/KEROKERO_ACE.md "wikilink")」2010年11月號開始連載。故事成為了動畫「少年激霸彈」的續篇。
+    於「[KEROKERO ACE](../Page/KEROKERO_ACE.md "wikilink")」2010年11月號開始連載。故事成為了動畫「少年激霸彈」的續篇。
 
 <!-- end list -->
 
@@ -1136,29 +1099,17 @@ LV3︰ 「這張Spirit戰鬥時」自己3張COST 8或以下的Spirit變成回復
   - [Battle Spirits 少年突破馬神](../Page/Battle_Spirits_少年突破馬神.md "wikilink")
   - [Battle Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")
   - [Battle Spirits 霸王](../Page/Battle_Spirits_霸王.md "wikilink")
-  - [Battle Spirits Sword
-    Eyes](../Page/Battle_Spirits_Sword_Eyes.md "wikilink")
+  - [Battle Spirits Sword Eyes](../Page/Battle_Spirits_Sword_Eyes.md "wikilink")
 
 ## 參考資料
 
 ## 外部連結
 
-  - [Battle Spirits
-    Brave](http://www.sunrise-inc.co.jp/battlespirits3/)（日昇動畫）
+  - [Battle Spirits Brave](http://www.sunrise-inc.co.jp/battlespirits3/)（日昇動畫）
 
-  - [Battle Spirits
-    Brave](http://www.nagoyatv.com/battlespirits_brave/)（名古屋電視台）
+  - [Battle Spirits Brave](http://www.nagoyatv.com/battlespirits_brave/)（名古屋電視台）
 
-[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink")
-[Category:2010年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2010年日本電視動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:KEROKERO_ACE](https://zh.wikipedia.org/wiki/Category:KEROKERO_ACE "wikilink")
-[Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
+[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink") [Category:2010年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2010年日本電視動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:KEROKERO_ACE](https://zh.wikipedia.org/wiki/Category:KEROKERO_ACE "wikilink") [Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
 
 1.  翌週播放，地震影響MoonStar以外全贊助商的CM播放作為默衰時段，MoonStar和AC JAPAN的CM替換。
 2.

@@ -1,11 +1,11 @@
-**蘭壽Tomu**（，）元[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[花組主演男役](../Page/花組.md "wikilink")，已于2014年5月11日退团，身高170cm。出生於[兵庫县西宮市](https://zh.wikipedia.org/wiki/兵庫县 "wikilink")，於武庫川学院高等学校畢業。血型是O型。
+**蘭壽Tomu**（，）元[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[花組](../Page/花組.md "wikilink")主演男役，已于2014年5月11日退团，身高170cm。出生於[兵庫县西宮市](https://zh.wikipedia.org/wiki/兵庫县 "wikilink")，於武庫川学院高等学校畢業。血型是O型。
 
 ## 簡介
 
   - 小學時期受朋友的影響而開始學習[芭蕾舞](../Page/芭蕾舞.md "wikilink"),到中學和高中時期已經開始創作一些舞步,高中時擔任了舞社的隊長
   - 1994年,考入[寶塚音樂學校](../Page/寶塚音樂學校.md "wikilink"),並且為寶塚音樂學校82期生。當時82期生的入學試的投考倍率是歷年最高,為48.25倍,寶塚音樂學校在學時期,一直都站在班中的第一名。
   - 在[宝塚ドリームツアーズ](http://www2.myjcom.jp/special/jtele/tv/ent/1612/1612_ent02.shtml)裡談到，藝名寫成漢字為蘭壽人夢，蘭壽來源是法語。
-  - 1996年,以寶塚音樂學校第一名入團。初舞台作品為月組的『CAN-CAN』,其後分配至花組。同期生有原[雪組主演娘役](https://zh.wikipedia.org/wiki/雪組 "wikilink")[紺野まひる](https://zh.wikipedia.org/wiki/紺野まひる "wikilink")、原雪組主演男役[壮一帆](../Page/壮一帆.md "wikilink")、原星組[涼紫央等等](../Page/涼紫央.md "wikilink")。
+  - 1996年,以寶塚音樂學校第一名入團。初舞台作品為月組的『CAN-CAN』,其後分配至花組。同期生有原[雪組主演娘役](https://zh.wikipedia.org/wiki/雪組 "wikilink")[紺野まひる](https://zh.wikipedia.org/wiki/紺野まひる "wikilink")、原雪組主演男役[壮一帆](../Page/壮一帆.md "wikilink")、原星組[涼紫央](../Page/涼紫央.md "wikilink")等等。
   - 2000年6月,入選德國柏林海外公演的成員。
   - 2001年7月,ミケランジェロ首次新人公演主演
   - 2002年8月,首次擔任小劇場主演月の燈影\[1\]
@@ -13,11 +13,11 @@
   - 2003年,參加日本電視台綜藝節目娛樂之神（）與[專科的樹里咲穗和](https://zh.wikipedia.org/wiki/專科 "wikilink")[早安少女組共同演出](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")。
   - 2003年3月、首次擔任小劇場單獨主演「恋天狗」\[2\]
   - 2006年,組替至宙組,並升格宙組的三番手。
-  - 2007年,[大和悠河接任主演男役後升格二番手](../Page/大和悠河.md "wikilink"),在大和悠河的大劇場披露公演華倫西亞的熱情之花(『バレンシアの熱い花』)中與三番手[北翔海莉輪流分演](../Page/北翔海莉.md "wikilink")。
+  - 2007年,[大和悠河](../Page/大和悠河.md "wikilink")接任主演男役後升格二番手,在大和悠河的大劇場披露公演華倫西亞的熱情之花(『バレンシアの熱い花』)中與三番手[北翔海莉](../Page/北翔海莉.md "wikilink")輪流分演。
   - 2009年2月,擔任小劇場主演改編自電子遊戲[逆轉裁判的成歩堂龍一](https://zh.wikipedia.org/wiki/逆轉裁判 "wikilink")。\[3\]
   - 同年8月,再次主演逆轉裁判的續集-『逆転裁判2 -蘇る真実、再び…-』。\[4\]
   - 2010年9月,舉辦首次演唱會『“R”ising\!\!』
-  - 2011年4月25日組替至花組並接任[花組主演男役](../Page/花組.md "wikilink")。
+  - 2011年4月25日組替至花組並接任[花組](../Page/花組.md "wikilink")主演男役。
   - 2013年10月7日花組トップスター・蘭寿 とむ 退團記者會發布
   - 2014年5月11日千秋樂後正式退團
   - 2016年9月宣布結婚。丈夫是一般男性\[5\]，但他的母親是48期生千波薫、妹妹是76期生千波ゆう(同期彩輝直等)。
@@ -60,15 +60,12 @@
   - 2008年2-5月、「黎明の風／Passion　愛の旅」辰美英次
   - 2008年7月、梅田藝術劇場公演「雨に唄えば」コズモ・ブラウン
   - 2008年9-12月、「Paradise Prince／ダンシング・フォー・ユー」アンソニー・ブラック
-  - 2009年2-3月、BowHall・日本青年館公演「[逆轉裁判](https://zh.wikipedia.org/wiki/逆轉裁判 "wikilink")
-    -蘇る真実-」フェニックス・ライト（遊戲版：成歩堂龍一）　＊主演
+  - 2009年2-3月、BowHall・日本青年館公演「[逆轉裁判](https://zh.wikipedia.org/wiki/逆轉裁判 "wikilink") -蘇る真実-」フェニックス・ライト（遊戲版：成歩堂龍一）　＊主演
   - 2009年4-7月、「薔薇に降る雨／Amour それは…」ヴィクトール・オーランジュ
-  - 2009年8-9月、BowHall・赤坂ACT劇場公演「[逆轉裁判](https://zh.wikipedia.org/wiki/逆轉裁判 "wikilink")2
-    -蘇る真実、再び…-」フェニックス・ライト　＊主演
+  - 2009年8-9月、BowHall・赤坂ACT劇場公演「[逆轉裁判](https://zh.wikipedia.org/wiki/逆轉裁判 "wikilink")2 -蘇る真実、再び…-」フェニックス・ライト　＊主演
   - 2009年11月-2010年2月、「[卡萨布兰卡](../Page/卡萨布兰卡.md "wikilink")」維克多·拉塞羅
   - 2010年3月、Theatre Drama city ｢シャングリラ -水之城-｣ 嵐()
-  - 2010年5-8月、「TRAFALGAR
-    ／ファンキー・サンシャイン」[拿破崙·波拿巴](https://zh.wikipedia.org/wiki/拿破崙·波拿巴 "wikilink")
+  - 2010年5-8月、「TRAFALGAR ／ファンキー・サンシャイン」[拿破崙·波拿巴](https://zh.wikipedia.org/wiki/拿破崙·波拿巴 "wikilink")
   - 2010年9月、蘭寿とむConcert「“R”ising\!\!」　
   - 2010年11月-2011年1月、「[戰地鐘聲](../Page/戰地鐘聲.md "wikilink")」アグスティン　
 
@@ -86,8 +83,7 @@
   - 2013年2-5月、「オーシャンズ11」ダニー・オーシャン(瞞天過海・丹尼奧森)
   - 2013年6-7月、「戦国BASARA--真田幸村篇」（東急シアターオーブ）　＊予定
   - 2013年8-11月、「愛と革命の詩（うた）－アンドレア・シェニエ－／Mr. Swing\!」　＊予定
-  - 2014年2-5月 『ラスト・タイクーン　―ハリウッドの帝王、不滅の愛―／TAKARAZUKA ∞
-    夢眩』(東京宝琢劇場5月11日退團公演)
+  - 2014年2-5月 『ラスト・タイクーン　―ハリウッドの帝王、不滅の愛―／TAKARAZUKA ∞ 夢眩』(東京宝琢劇場5月11日退團公演)
 
 ### 新人公演主演
 
@@ -102,10 +98,8 @@
   - 「くらわんか」（2005年）
   - 「スカウト」（2006年）
   - 「NEVER　SLEEP」（2007年）
-  - 「[逆轉裁判](https://zh.wikipedia.org/wiki/逆轉裁判 "wikilink")
-    -蘇る真実-」（2009年）
-  - 「[逆轉裁判](https://zh.wikipedia.org/wiki/逆轉裁判 "wikilink")2
-    -蘇る真実、再び…-」（2009年）
+  - 「[逆轉裁判](https://zh.wikipedia.org/wiki/逆轉裁判 "wikilink") -蘇る真実-」（2009年）
+  - 「[逆轉裁判](https://zh.wikipedia.org/wiki/逆轉裁判 "wikilink")2 -蘇る真実、再び…-」（2009年）
 
 ## 外部連結
 
@@ -113,9 +107,7 @@
 
 ## 脚注
 
-[Category:寶塚歌劇團](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團 "wikilink")
-[Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink")
-[Category:兵庫縣出身人物](https://zh.wikipedia.org/wiki/Category:兵庫縣出身人物 "wikilink")
+[Category:寶塚歌劇團](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團 "wikilink") [Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink") [Category:兵庫縣出身人物](https://zh.wikipedia.org/wiki/Category:兵庫縣出身人物 "wikilink")
 
 1.  [1](http://kageki.hankyu.co.jp/revue/backnumber/0208hana/index.html)　
 2.  [2](http://kageki.hankyu.co.jp/revue/backnumber/2003lineup/index.html)　

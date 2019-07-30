@@ -1,8 +1,4 @@
-**《[MY
-AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒獎典禮 "wikilink")2011》**（MY
-AOD Favourites Awards
-2011）於2011年11月27日晚在[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")[KLCC舉行](../Page/陽光廣場.md "wikilink")，當晚共頒發10個獎項。於2011年12月3日大馬時間20:30在
-Astro精彩預告（頻道302）和 Astro On Demand（頻道934）同步播出。由陳志康及林震前主持。
+**《[MY AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒獎典禮 "wikilink")2011》**（MY AOD Favourites Awards 2011）於2011年11月27日晚在[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")[KLCC舉行](../Page/陽光廣場.md "wikilink")，當晚共頒發10個獎項。於2011年12月3日大馬時間20:30在 Astro精彩預告（頻道302）和 Astro On Demand（頻道934）同步播出。由陳志康及林震前主持。
 
 ## 出席艺人
 
@@ -304,8 +300,7 @@ Astro精彩預告（頻道302）和 Astro On Demand（頻道934）同步播出�
   - [星和無綫電視大獎2011](../Page/星和無綫電視大獎2011.md "wikilink")
   - [萬千星輝頒獎典禮2011](../Page/萬千星輝頒獎典禮2011.md "wikilink")
 
-[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")
-[Category:MY_AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/Category:MY_AOD我的最愛頒獎典禮 "wikilink")
+[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink") [Category:MY_AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/Category:MY_AOD我的最愛頒獎典禮 "wikilink")
 
 1.
 2.

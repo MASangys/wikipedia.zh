@@ -1,10 +1,8 @@
-《**magico**》是[岩本直輝於](https://zh.wikipedia.org/wiki/岩本直輝 "wikilink")2011年至2012年在《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》上連載的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。發行單行本全8卷。[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[東立出版社全](../Page/東立出版社.md "wikilink")8卷代理完畢。
+《**magico**》是[岩本直輝於](https://zh.wikipedia.org/wiki/岩本直輝 "wikilink")2011年至2012年在《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》上連載的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。發行單行本全8卷。[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[東立出版社](../Page/東立出版社.md "wikilink")全8卷代理完畢。
 
 ## 概要
 
-**艾瑪**是每500年就會出現一次的**黑魔女**，擁有可以毀滅世界的心臟，當她年滿16歲時候，就會承受不住自身的力量而死去。唯一可以改變她命運的就是**「魔女結婚儀式」**——以結婚為首的各種儀式。
-為了封印寄宿在心臟的毀滅性力量—黑魔女，而對「魔女結婚儀式」發起挑戰的少女**艾瑪**和魔法使**錫恩**！！
-於是為了結婚而展開的冒險開始了……
+**艾瑪**是每500年就會出現一次的**黑魔女**，擁有可以毀滅世界的心臟，當她年滿16歲時候，就會承受不住自身的力量而死去。唯一可以改變她命運的就是**「魔女結婚儀式」**——以結婚為首的各種儀式。 為了封印寄宿在心臟的毀滅性力量—黑魔女，而對「魔女結婚儀式」發起挑戰的少女**艾瑪**和魔法使**錫恩**！！ 於是為了結婚而展開的冒險開始了……
 
 ## 登場人物
 
@@ -41,10 +39,8 @@
   -
     倖存的聖龍。由於聖龍的龍骨、龍鱗可以打造強力的武器而被胡亂捕獵導致聖龍滅絕，吉克在還是蛋的時候被自己的父母埋進地底而得以倖免，錫恩在尋找儀式供品時無意中發現蛋，從孵化開始陪在錫恩身邊，被詩音視為自己的兒子是像家人一樣的存在。其肚子裡有房屋以及廣大的土地，詩音等人在那生活著。作為殘存的聖龍，擁有神聖的力量，在他的肚子裡面即使「黑魔女」力量失控也不會對他造成影響，月夜一族的詛咒也會被抑制。
   -
-    紅魔法使。居住在邊境地的安多拉的「惡魔之樹海」中的魔法少女，後與錫恩一行人同行。可說是錫恩和艾瑪的女兒，使用魔法為掌換魔法，有野性的「第六感」。一到了100
-    COMBO會變成18歲的姐姐\[1\]，當她打出100拳後，就會變回小孩。
-    技：掌換魔法 五連掌換——「魔神連鎖」、七連掌換——「魔風空拳」、超必殺技掌換最強破壞拳「冥王」(100
-    COMBO時使用)冥王魔奧義「冥王世界」能夠將兩個人擊倒
+    紅魔法使。居住在邊境地的安多拉的「惡魔之樹海」中的魔法少女，後與錫恩一行人同行。可說是錫恩和艾瑪的女兒，使用魔法為掌換魔法，有野性的「第六感」。一到了100 COMBO會變成18歲的姐姐\[1\]，當她打出100拳後，就會變回小孩。
+    技：掌換魔法 五連掌換——「魔神連鎖」、七連掌換——「魔風空拳」、超必殺技掌換最強破壞拳「冥王」(100 COMBO時使用)冥王魔奧義「冥王世界」能夠將兩個人擊倒
 
 ### 儀式屋
 
@@ -197,16 +193,9 @@
 
   - [《magico魔法儀式》岩本直輝｜書目資料清單｜東立出版社](https://web.archive.org/web/20131004222410/http://www.tongli.com.tw/BooksList.aspx?B=JC0363)
 
-  - [magico／全8巻｜ 岩本 直輝｜
-    JUMP漫畫雜誌｜BOOKNAVI｜集英社](http://books.shueisha.co.jp/CGI/search/zen_list.cgi?siries_isbn=X78-4-08-870262-9&siries_kanren_isbn=&mode=2)
+  - [magico／全8巻｜ 岩本 直輝｜ JUMP漫畫雜誌｜BOOKNAVI｜集英社](http://books.shueisha.co.jp/CGI/search/zen_list.cgi?siries_isbn=X78-4-08-870262-9&siries_kanren_isbn=&mode=2)
 
-[Category:岩本直輝](https://zh.wikipedia.org/wiki/Category:岩本直輝 "wikilink")
-[Category:集英社](https://zh.wikipedia.org/wiki/Category:集英社 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
-[Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
+[Category:岩本直輝](https://zh.wikipedia.org/wiki/Category:岩本直輝 "wikilink") [Category:集英社](https://zh.wikipedia.org/wiki/Category:集英社 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
 
 1.  漫畫第19話
 2.  《Jump Next\!》2011 SUMMER上的番外篇

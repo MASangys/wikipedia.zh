@@ -1,10 +1,9 @@
-《**新世紀福音戰士
-ANIMA**》（）是[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》的官方衍生[小說作品](https://zh.wikipedia.org/wiki/小說 "wikilink")。2008年1月號起連載中，先後由與[山下育人執筆](../Page/山下育人.md "wikilink")\[1\]。人物設計由擔任。故事以動畫版的第24集為分歧點，以「人類補完計畫」沒有發動的3年後[平行世界往下開展](https://zh.wikipedia.org/wiki/平行世界 "wikilink")。
+《**新世紀福音戰士 ANIMA**》（）是[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》的官方衍生[小說作品](https://zh.wikipedia.org/wiki/小說 "wikilink")。2008年1月號起連載中，先後由與[山下育人](../Page/山下育人.md "wikilink")執筆\[1\]。人物設計由擔任。故事以動畫版的第24集為分歧點，以「人類補完計畫」沒有發動的3年後[平行世界往下開展](https://zh.wikipedia.org/wiki/平行世界 "wikilink")。
 
 ## 提要
 
   - 起源
-    2004年末，[庵野秀明與](../Page/庵野秀明.md "wikilink")[山下育人表達了關於](../Page/山下育人.md "wikilink")《新世紀福音戰士》未來發展的構想，其中包含將《新世紀福音戰士》如同《[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")》系列般的多樣化發展\[2\]。
+    2004年末，[庵野秀明](../Page/庵野秀明.md "wikilink")與[山下育人](../Page/山下育人.md "wikilink")表達了關於《新世紀福音戰士》未來發展的構想，其中包含將《新世紀福音戰士》如同《[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")》系列般的多樣化發展\[2\]。
 
 ## 登場人物
 
@@ -51,7 +50,7 @@ ANIMA**》（）是[日本電視動畫](../Page/日本電視動畫.md "wikilink"
 ## 用語
 
   - NERV日本
-    特務機關[NERV組織解體後重新建立的新組織](../Page/NERV.md "wikilink")。
+    特務機關[NERV](../Page/NERV.md "wikilink")組織解體後重新建立的新組織。
 
 ## 工作人員
 
@@ -69,8 +68,7 @@ ANIMA**》（）是[日本電視動畫](../Page/日本電視動畫.md "wikilink"
   -
 “https://plus.google.com/111885404938487750085"《EVA ANIMA》google+公共粉絲頁
 
-[Category:新世紀福音戰士](https://zh.wikipedia.org/wiki/Category:新世紀福音戰士 "wikilink")
-[Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")
+[Category:新世紀福音戰士](https://zh.wikipedia.org/wiki/Category:新世紀福音戰士 "wikilink") [Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")
 
 1.  《電撃HOBBY雜誌》2008年1月號至2009年8月號為陰山琢磨執筆，2009年9月號至今為山下育人執筆。
 2.  《電撃HOBBY雜誌》2007年12月号。

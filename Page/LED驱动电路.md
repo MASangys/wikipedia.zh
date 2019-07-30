@@ -1,7 +1,6 @@
 [LEDVICurve.PNG](https://zh.wikipedia.org/wiki/File:LEDVICurve.PNG "fig:LEDVICurve.PNG")
 
-在[電子學領域裡](https://zh.wikipedia.org/wiki/電子學 "wikilink")，**LED驱动电路**（**LED
-circuit**，又譯**發光二極管電路**），為[发光二极管灯具的核心器件](https://zh.wikipedia.org/wiki/发光二极管 "wikilink")，是一個用來使[發光二極管](../Page/發光二極管.md "wikilink")（LED）發亮的[電路](https://zh.wikipedia.org/wiki/電路 "wikilink")。
+在[電子學領域裡](https://zh.wikipedia.org/wiki/電子學 "wikilink")，**LED驱动电路**（**LED circuit**，又譯**發光二極管電路**），為[发光二极管灯具的核心器件](https://zh.wikipedia.org/wiki/发光二极管 "wikilink")，是一個用來使[發光二極管](../Page/發光二極管.md "wikilink")（LED）發亮的[電路](https://zh.wikipedia.org/wiki/電路 "wikilink")。
 
 随着全球倡导绿色照明以及节能的迫切需求。越来越多的照明产品进入到发光二极管光源的时代。而作为发光二极管灯具的核心器件，LED驱动芯片扮演着越来越重要的角色。
 
@@ -19,9 +18,7 @@ LED工作於[直流電](../Page/直流電.md "wikilink")，其順向偏壓與電
 
 ## 極性
 
-[LED
-極性\[1\]](https://zh.wikipedia.org/wiki/File:+-_of_LED.svg "fig:LED 極性")
-由於LED工作於直流電，連接線路時必須確保[極性方向正確才能正常工作](https://zh.wikipedia.org/wiki/極性 "wikilink")。與[二極管](../Page/二極管.md "wikilink")一樣，LED的接腳分[正極](https://zh.wikipedia.org/wiki/正極 "wikilink")（陽極、+）及[負極](https://zh.wikipedia.org/wiki/負極 "wikilink")（陰極、-），電流必须由正極流向負極，LED才能[發光](https://zh.wikipedia.org/wiki/發光 "wikilink")。
+[LED 極性\[1\]](https://zh.wikipedia.org/wiki/File:+-_of_LED.svg "fig:LED 極性") 由於LED工作於直流電，連接線路時必須確保[極性方向正確才能正常工作](https://zh.wikipedia.org/wiki/極性 "wikilink")。與[二極管](../Page/二極管.md "wikilink")一樣，LED的接腳分[正極](https://zh.wikipedia.org/wiki/正極 "wikilink")（陽極、+）及[負極](https://zh.wikipedia.org/wiki/負極 "wikilink")（陰極、-），電流必须由正極流向負極，LED才能[發光](https://zh.wikipedia.org/wiki/發光 "wikilink")。
 
 LED接腳的極性一般可以由其[封裝上看出](https://zh.wikipedia.org/wiki/封裝 "wikilink")，但不同封裝其標示方式也不同。除封裝外，也有其他途徑得知LED的極性，以下列出常見的標示方法：
 
@@ -97,10 +94,7 @@ LED接腳的極性一般可以由其[封裝上看出](https://zh.wikipedia.org/w
 
 ## 電阻推動
 
-[LEDCircuit.PNG](https://zh.wikipedia.org/wiki/File:LEDCircuit.PNG "fig:LEDCircuit.PNG")
-[LEDx2Circuit.PNG](https://zh.wikipedia.org/wiki/File:LEDx2Circuit.PNG "fig:LEDx2Circuit.PNG")
-[LEDx4Circuit.PNG](https://zh.wikipedia.org/wiki/File:LEDx4Circuit.PNG "fig:LEDx4Circuit.PNG")
-要推動LED就要控制流過LED的電流，基本推動方法就是將LED跟電阻串聯，以電阻限制電流在一定的範圍內。這個方法好處是簡單、成本低，但缺點是不少[能量](../Page/能量.md "wikilink")在電阻轉化為[熱能而浪費掉](https://zh.wikipedia.org/wiki/熱能 "wikilink")，而且LED的光度也隨著溫度、電壓、LED生產時的特性差異而有比較大的變化。
+[LEDCircuit.PNG](https://zh.wikipedia.org/wiki/File:LEDCircuit.PNG "fig:LEDCircuit.PNG") [LEDx2Circuit.PNG](https://zh.wikipedia.org/wiki/File:LEDx2Circuit.PNG "fig:LEDx2Circuit.PNG") [LEDx4Circuit.PNG](https://zh.wikipedia.org/wiki/File:LEDx4Circuit.PNG "fig:LEDx4Circuit.PNG") 要推動LED就要控制流過LED的電流，基本推動方法就是將LED跟電阻串聯，以電阻限制電流在一定的範圍內。這個方法好處是簡單、成本低，但缺點是不少[能量](../Page/能量.md "wikilink")在電阻轉化為[熱能而浪費掉](https://zh.wikipedia.org/wiki/熱能 "wikilink")，而且LED的光度也隨著溫度、電壓、LED生產時的特性差異而有比較大的變化。
 
 以電阻控制LED電流時，其電阻計算方法如下：
 
@@ -139,25 +133,19 @@ LED接腳的極性一般可以由其[封裝上看出](https://zh.wikipedia.org/w
 要設定LED光度，最直接的方法就是設定LED的電流，LED光度與電流並不成線性關係，要知道什麼的電流值才可以達到預期的光度，可以參考生產商資料提供有關電流與光度關係的資料，又或以可變電流源推動LED下找出合適電流值。
 但LED光度與電流並不成線性關係，若在使用中須要調變光度，以線性電路產生所需控制訊號的改變較難達至預期相對應的光度變化。
 
-[PWM_duty_cycle_with_label.gif](https://zh.wikipedia.org/wiki/File:PWM_duty_cycle_with_label.gif "fig:PWM_duty_cycle_with_label.gif")
-另一改變LED光度的方法是快速開關LED，以[脈衝寬度調製](https://zh.wikipedia.org/wiki/脈衝寬度調製 "wikilink")（Pulse
-width modulation -
-PWM），在每個重複的開關週期內，改變導通與關閉的時間比例（也即是[占空比](../Page/占空比.md "wikilink")），改變流經LED的平均電流（平均功耗），從而控制LED的光度，由於LED導通時工作在較大電流，偏壓比連續導通高，因此消耗在控制元件上的功耗較少，效率略高。只要閃爍頻率高於人眼的[視覺暫留](https://zh.wikipedia.org/wiki/視覺暫留 "wikilink")，LED看起來就象連續發光一樣。而只要改變占空比，LED的光度就能在使用中調變。
+[PWM_duty_cycle_with_label.gif](https://zh.wikipedia.org/wiki/File:PWM_duty_cycle_with_label.gif "fig:PWM_duty_cycle_with_label.gif") 另一改變LED光度的方法是快速開關LED，以[脈衝寬度調製](https://zh.wikipedia.org/wiki/脈衝寬度調製 "wikilink")（Pulse width modulation - PWM），在每個重複的開關週期內，改變導通與關閉的時間比例（也即是[占空比](../Page/占空比.md "wikilink")），改變流經LED的平均電流（平均功耗），從而控制LED的光度，由於LED導通時工作在較大電流，偏壓比連續導通高，因此消耗在控制元件上的功耗較少，效率略高。只要閃爍頻率高於人眼的[視覺暫留](https://zh.wikipedia.org/wiki/視覺暫留 "wikilink")，LED看起來就象連續發光一樣。而只要改變占空比，LED的光度就能在使用中調變。
 
 在白色LED使用脈衝寬度調製控制LED光度有另一好處，白色LED的色溫隨電流強弱而轉變，在脈衝寬度調製控制下，導通電流在不同光度下都不變，因此能在不同光度保持色溫不變。
 
 ## led 供電方式
 
-一般LED為直流供電(具極性)，但在於一般家用、商用LED電路為多種零組件組成(積體電路)，一最常見的LED燈管和LED探照燈都使用交流電，普通燈管T5
-T8 皆可改裝(拆除啟動器安定器)相對應電路達到其效果。
+一般LED為直流供電(具極性)，但在於一般家用、商用LED電路為多種零組件組成(積體電路)，一最常見的LED燈管和LED探照燈都使用交流電，普通燈管T5 T8 皆可改裝(拆除啟動器安定器)相對應電路達到其效果。
 
 但是這種燈管或是燈具本身並無極性之分，亦也沒有單邊、雙邊供電的問題(參照電力系統單雙邊供電\[2\])，燈管雙邊接點也不會影響其雙邊單邊供電的意義
 
 ## 参考文献
 
-[Category:電路分析](https://zh.wikipedia.org/wiki/Category:電路分析 "wikilink")
-[Category:发光二极管](https://zh.wikipedia.org/wiki/Category:发光二极管 "wikilink")
-[Category:光电子学](https://zh.wikipedia.org/wiki/Category:光电子学 "wikilink")
+[Category:電路分析](https://zh.wikipedia.org/wiki/Category:電路分析 "wikilink") [Category:发光二极管](https://zh.wikipedia.org/wiki/Category:发光二极管 "wikilink") [Category:光电子学](https://zh.wikipedia.org/wiki/Category:光电子学 "wikilink")
 
 1.
 2.

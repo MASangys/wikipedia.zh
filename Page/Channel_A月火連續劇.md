@@ -1,6 +1,4 @@
-**Channel
-A月火連續劇**（），是逢[星期一](../Page/星期一.md "wikilink")、[星期二韓國晚間](https://zh.wikipedia.org/wiki/星期二 "wikilink")8點50分在[Channel
-A電視台播映的電視劇](../Page/Channel_A.md "wikilink")。
+**Channel A月火連續劇**（），是逢[星期一](../Page/星期一.md "wikilink")、[星期二韓國晚間](https://zh.wikipedia.org/wiki/星期二 "wikilink")8點50分在[Channel A電視台播映的電視劇](../Page/Channel_A.md "wikilink")。
 
 ## 作品列表
 
@@ -93,7 +91,4 @@ A電視台播映的電視劇](../Page/Channel_A.md "wikilink")。
 </tbody>
 </table>
 
-[Category:Channel_A月火連續劇](https://zh.wikipedia.org/wiki/Category:Channel_A月火連續劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:Channel_A月火連續劇](https://zh.wikipedia.org/wiki/Category:Channel_A月火連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

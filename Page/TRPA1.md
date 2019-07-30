@@ -17,8 +17,7 @@ TRPA1含有14个重复的N-端[锚](https://zh.wikipedia.org/wiki/锚蛋白 "wik
 ## 外部链接
 
   -
-[Category:膜生物学](https://zh.wikipedia.org/wiki/Category:膜生物学 "wikilink")
-[Category:离子通道](https://zh.wikipedia.org/wiki/Category:离子通道 "wikilink")
+[Category:膜生物学](https://zh.wikipedia.org/wiki/Category:膜生物学 "wikilink") [Category:离子通道](https://zh.wikipedia.org/wiki/Category:离子通道 "wikilink")
 
 1.
 2.

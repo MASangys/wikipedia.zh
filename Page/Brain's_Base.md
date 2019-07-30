@@ -1,28 +1,18 @@
-**有限公司Brain's
-Base**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[三鷹市](../Page/三鷹市.md "wikilink")\[1\]，主要從事[動畫製作的日本動畫企業](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1996年。
+**有限公司Brain's Base**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[三鷹市](../Page/三鷹市.md "wikilink")\[1\]，主要從事[動畫製作的日本動畫企業](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1996年。
 
 ## 概要、沿革
 
-1996年\[2\]，由原為東京電影新社（現時的[TMS
-Entertainment](../Page/TMS娛樂.md "wikilink")）所屬製作人的小澤十光\[3\]，於辭職之後創辦了該工作室。創立初期，Brain's
-Base透過跟漫畫家[永井豪密切的關係](../Page/永井豪.md "wikilink")，以製作改編的[OVA起家](https://zh.wikipedia.org/wiki/OVA "wikilink")。1998年，由Brain's
-Base獨立製作的第一部OVA《[-{zh-cn:真盖塔机器人 世界最后之日;zh-hk:真三一萬能俠 世界最後之日;zh-tw:真蓋特機器人
-世界最後之日;}-](../Page/真蓋特機器人_世界最後之日.md "wikilink")》發行。
+1996年\[2\]，由原為東京電影新社（現時的[TMS Entertainment](../Page/TMS娛樂.md "wikilink")）所屬製作人的小澤十光\[3\]，於辭職之後創辦了該工作室。創立初期，Brain's Base透過跟漫畫家[永井豪](../Page/永井豪.md "wikilink")密切的關係，以製作改編的[OVA起家](https://zh.wikipedia.org/wiki/OVA "wikilink")。1998年，由Brain's Base獨立製作的第一部OVA《[-{zh-cn:真盖塔机器人 世界最后之日;zh-hk:真三一萬能俠 世界最後之日;zh-tw:真蓋特機器人 世界最後之日;}-](../Page/真蓋特機器人_世界最後之日.md "wikilink")》發行。
 
 2000年，Brain's Base第一次獨立製作的動畫電影《》上映。
 
-2002年，Brain's
-Base第一次獨立製作的電視動畫《[-{zh-hans:爆斗宣言大钢弹;zh-hk:爆鬥宣言;zh-tw:爆鬥宣言大鋼彈;}-](../Page/爆斗宣言大钢弹.md "wikilink")》在電視上播出之後，才全面投入電視動畫製作的行列。
+2002年，Brain's Base第一次獨立製作的電視動畫《[-{zh-hans:爆斗宣言大钢弹;zh-hk:爆鬥宣言;zh-tw:爆鬥宣言大鋼彈;}-](../Page/爆斗宣言大钢弹.md "wikilink")》在電視上播出之後，才全面投入電視動畫製作的行列。
 
-由於Brain's
-Base初期並沒有自家的攝影和剪接部門。直至2000年代後期才正式開設，調整了公司的製作體制，開始能接受動畫和第二[原畫](https://zh.wikipedia.org/wiki/原畫 "wikilink")\[4\]
-的統包業務。現時有4個製作部門、2個作畫部門和1個攝影、剪接和上色共用的數碼部門\[5\]。旗下製作的經費較其他以[中小型企業模式營運的動畫工作室充足](https://zh.wikipedia.org/wiki/中小型企業 "wikilink")。
+由於Brain's Base初期並沒有自家的攝影和剪接部門。直至2000年代後期才正式開設，調整了公司的製作體制，開始能接受動畫和第二[原畫](https://zh.wikipedia.org/wiki/原畫 "wikilink")\[4\] 的統包業務。現時有4個製作部門、2個作畫部門和1個攝影、剪接和上色共用的數碼部門\[5\]。旗下製作的經費較其他以[中小型企業模式營運的動畫工作室充足](https://zh.wikipedia.org/wiki/中小型企業 "wikilink")。
 
-2013年6月，第三製作部所屬的製作人佐藤由美離社，另外在[東京都](../Page/東京都.md "wikilink")[三鷹市成立](../Page/三鷹市.md "wikilink")「**[株式會社朱夏](../Page/朱夏_\(動畫工作室\).md "wikilink")**」\[6\]。
+2013年6月，第三製作部所屬的製作人佐藤由美離社，另外在[東京都](../Page/東京都.md "wikilink")[三鷹市](../Page/三鷹市.md "wikilink")成立「**[株式會社朱夏](../Page/朱夏_\(動畫工作室\).md "wikilink")**」\[6\]。
 
-2016年，企劃營業製作部所屬的製作人大石祐道離社，並以跟母體企業Brain's
-Base合作製作《[吸血鬼僕人](../Page/吸血鬼僕人.md "wikilink")》起家，成立「**株式會社Platinum
-Vision**」。
+2016年，企劃營業製作部所屬的製作人大石祐道離社，並以跟母體企業Brain's Base合作製作《[吸血鬼僕人](../Page/吸血鬼僕人.md "wikilink")》起家，成立「**株式會社Platinum Vision**」。
 
 ## 作品列表
 
@@ -55,7 +45,7 @@ Vision**」。
 <td><p>2004年</p></td>
 <td><p><a href="../Page/冒險遊記Pluster_World.md" title="wikilink">冒險遊記Pluster World</a></p></td>
 <td></td>
-<td><p>與<a href="../Page/Actas.md" title="wikilink">Actas共同製作</a>。</p></td>
+<td><p>與<a href="../Page/Actas.md" title="wikilink">Actas</a>共同製作。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -131,7 +121,7 @@ Vision**」。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/狼與辛香料.md" title="wikilink">狼與辛香料II</a></p></td>
+<td><p><a href="../Page/狼與辛香料.md" title="wikilink">狼與辛香料</a>II</p></td>
 <td></td>
 <td><p>與Marvy Jack共同製作。</p></td>
 <td></td>
@@ -175,7 +165,7 @@ Vision**」。
 <td><p>2011年</p></td>
 <td><p><a href="../Page/咚隆隆炎魔君.md" title="wikilink">Dororon炎魔君 熊～熊燃燒</a></p></td>
 <td></td>
-<td><p><a href="../Page/永井豪.md" title="wikilink">永井豪原作漫畫衍生的新作動畫</a>。</p></td>
+<td><p><a href="../Page/永井豪.md" title="wikilink">永井豪</a>原作漫畫衍生的新作動畫。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -292,7 +282,7 @@ Vision**」。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/一週的朋友.md" title="wikilink">一週的朋友。</a></p></td>
+<td><p><a href="../Page/一週的朋友.md" title="wikilink">一週的朋友</a>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -850,11 +840,7 @@ Vision**」。
 
   -
 
-[Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:Brain's_Base](https://zh.wikipedia.org/wiki/Category:Brain's_Base "wikilink")
-[Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink")
-[Category:三鷹市公司](https://zh.wikipedia.org/wiki/Category:三鷹市公司 "wikilink")
+[Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:Brain's_Base](https://zh.wikipedia.org/wiki/Category:Brain's_Base "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:三鷹市公司](https://zh.wikipedia.org/wiki/Category:三鷹市公司 "wikilink")
 
 1.
 2.

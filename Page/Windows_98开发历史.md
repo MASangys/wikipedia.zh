@@ -1,12 +1,10 @@
-**Windows 98开发历史**可以追溯到1996年12月15日的第一个释出build 1351，直到最后一个释出版本Windows
-98第二版。\[1\]
+**Windows 98开发历史**可以追溯到1996年12月15日的第一个释出build 1351，直到最后一个释出版本Windows 98第二版。\[1\]
 
 ## Microsoft Memphis
 
 ### 1996年12月
 
-  - Build 1351：“Memphis”的第一个泄露版本，在1996年12月15日被释出。在当时被称作“Windows
-    97”或者“Windows 9x”。
+  - Build 1351：“Memphis”的第一个泄露版本，在1996年12月15日被释出。在当时被称作“Windows 97”或者“Windows 9x”。
 
 ## Windows Memphis Beta
 
@@ -30,9 +28,7 @@
 
 ### 1997年10月
 
-  - Build 1602(Beta 2.1)：第一个以“Windows
-    98”命名的构建，于1997年10月3日释出，1998年3月31日到期。也是第一个能够从Windows
-    3.1x升级的版本（Beta 2版本没有这个特性）。
+  - Build 1602(Beta 2.1)：第一个以“Windows 98”命名的构建，于1997年10月3日释出，1998年3月31日到期。也是第一个能够从Windows 3.1x升级的版本（Beta 2版本没有这个特性）。
 
 ### 1997年12月
 
@@ -63,9 +59,7 @@ Windows 98的第一个零售版本发售后，第二版开始开发。
 
 ### 1999年5月
 
-  - Build 2222a：Windows
-    98第二版的完成版本，于1999年5月5日发行。由于它比第一版更加穩定，且對新裝置的相容性更佳，因此它的销售量超过WIndows
-    98的第一版。
+  - Build 2222a：Windows 98第二版的完成版本，于1999年5月5日发行。由于它比第一版更加穩定，且對新裝置的相容性更佳，因此它的销售量超过WIndows 98的第一版。
 
 ## 相关条目
 
@@ -74,9 +68,7 @@ Windows 98的第一个零售版本发售后，第二版开始开发。
 
 ## 参考文献
 
-[en:Windows
-98\#Development](https://zh.wikipedia.org/wiki/en:Windows_98#Development "wikilink")
-[ko:윈도 98\#개발](https://zh.wikipedia.org/wiki/ko:윈도_98#개발 "wikilink")
+[en:Windows 98\#Development](https://zh.wikipedia.org/wiki/en:Windows_98#Development "wikilink") [ko:윈도 98\#개발](https://zh.wikipedia.org/wiki/ko:윈도_98#개발 "wikilink")
 
 [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
 

@@ -1,10 +1,8 @@
-**《HEXAGONAL》**是[韓國Hip](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Hop組合[Leessang的第六張正規專輯](../Page/Leessang.md "wikilink")，於2009年10月6日發行。
+**《HEXAGONAL》**是[韓國Hip](https://zh.wikipedia.org/wiki/韓國 "wikilink") Hop組合[Leessang](../Page/Leessang.md "wikilink")的第六張正規專輯，於2009年10月6日發行。
 
 ## 準備階段
 
-2009年9月Leessang透過傳媒宣布正規六輯將在10月6日發行。\[1\]
-[李孝利](../Page/李孝利.md "wikilink") 和柳承范會主演主打歌MV。\[2\]
+2009年9月Leessang透過傳媒宣布正規六輯將在10月6日發行。\[1\] [李孝利](../Page/李孝利.md "wikilink") 和柳承范會主演主打歌MV。\[2\]
 
 ## 抄襲爭議
 
@@ -103,8 +101,7 @@ Gaon Chart
 
 <references/>
 
-[分類:2009年音樂專輯](https://zh.wikipedia.org/wiki/分類:2009年音樂專輯 "wikilink")
-[分類:韓國音樂專輯](https://zh.wikipedia.org/wiki/分類:韓國音樂專輯 "wikilink")
+[分類:2009年音樂專輯](https://zh.wikipedia.org/wiki/分類:2009年音樂專輯 "wikilink") [分類:韓國音樂專輯](https://zh.wikipedia.org/wiki/分類:韓國音樂專輯 "wikilink")
 
 1.  [](http://www.fnn.co.kr/content.asp?aid=6aa08f81f30445ea9222ae4809a04eee)
 2.  <http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=&oid=108&aid=0001997173>

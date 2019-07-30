@@ -1,17 +1,14 @@
-**Quex**
-是一个[词法分析器的产生器](../Page/词法分析.md "wikilink")，它能创建[C或者](https://zh.wikipedia.org/wiki/C语言 "wikilink")[C++语言的词法分析器](../Page/C++.md "wikilink")。Quex的一个显著特征是它能支持基于[Unicode字符串的输入](https://zh.wikipedia.org/wiki/Unicode "wikilink")，而且创建的分析器代码是直接编码格式的（而非查表格式），具有较高的分词速度。另外，Quex在描述词法分析的语法上采用了类似于C++的继承语法和分模块语法，这使得语法的复用非常简单，语法结构更为清晰。
+**Quex** 是一个[词法分析](../Page/词法分析.md "wikilink")器的产生器，它能创建[C或者](https://zh.wikipedia.org/wiki/C语言 "wikilink")[C++](../Page/C++.md "wikilink")语言的词法分析器。Quex的一个显著特征是它能支持基于[Unicode字符串的输入](https://zh.wikipedia.org/wiki/Unicode "wikilink")，而且创建的分析器代码是直接编码格式的（而非查表格式），具有较高的分词速度。另外，Quex在描述词法分析的语法上采用了类似于C++的继承语法和分模块语法，这使得语法的复用非常简单，语法结构更为清晰。
 
 ## 特性
 
 ### 直接编码词法分析器
 
-Quex使用传统的汤普森创造法，从从[正则表达式首先创建](../Page/正则表达式.md "wikilink")[不确定性有限状态机](https://zh.wikipedia.org/wiki/不确定性有限状态机 "wikilink"),然后通过压缩和归并转换为[确定性有限状态机](https://zh.wikipedia.org/wiki/确定性有限状态机 "wikilink")，通过Hopcroft优化算法，使得确定性有限状态机的状态个数达到最小。通过这些机制，使得构建词法分析器的计算时间可以大大减少。相比其他词法分析器生成器只能处理\[ASCII\]字符串的情况，Quex还可以支持Unicode字符集，并可以产生合理的运算时间的词法分析器。
-相比基于查表结构的词法分析器，Quex产生的直接编码方式的代码具有更高的运算速度，而且直接编码方式的代码更接近于人类手工书写的词法分析器代码，因此比查表结构的代码具有良好的可读性。
+Quex使用传统的汤普森创造法，从从[正则表达式](../Page/正则表达式.md "wikilink")首先创建[不确定性有限状态机](https://zh.wikipedia.org/wiki/不确定性有限状态机 "wikilink"),然后通过压缩和归并转换为[确定性有限状态机](https://zh.wikipedia.org/wiki/确定性有限状态机 "wikilink")，通过Hopcroft优化算法，使得确定性有限状态机的状态个数达到最小。通过这些机制，使得构建词法分析器的计算时间可以大大减少。相比其他词法分析器生成器只能处理\[ASCII\]字符串的情况，Quex还可以支持Unicode字符集，并可以产生合理的运算时间的词法分析器。 相比基于查表结构的词法分析器，Quex产生的直接编码方式的代码具有更高的运算速度，而且直接编码方式的代码更接近于人类手工书写的词法分析器代码，因此比查表结构的代码具有良好的可读性。
 
 ### 支持Unicode字符输入
 
-Quex可以处理包含完整的Unicode代码点范围（0至10FFFFh）的字符输入，同时Quex的词法语法提供了支持Unicode的正则表达式格式。例如，与二进制属性XID_Start的Unicode代码点可以用表达式指定的`\P{XID_Start}`或`\P{XIDS}`来描述。Quex还可以生成代码来调用[iconv库或](https://zh.wikipedia.org/wiki/iconv "wikilink")[ICU的字符格式转换程序](https://zh.wikipedia.org/wiki/International_Components_for_Unicode "wikilink")。Quex遵循[Unicode
-Consortium提出的Unicode标准](https://zh.wikipedia.org/wiki/Unicode_Consortium "wikilink")，若Unicode标准更新，则只需要将新版本的标准文件复制到到Quex相应的目录即可完成Quex对Unicode的支持更新。
+Quex可以处理包含完整的Unicode代码点范围（0至10FFFFh）的字符输入，同时Quex的词法语法提供了支持Unicode的正则表达式格式。例如，与二进制属性XID_Start的Unicode代码点可以用表达式指定的`\P{XID_Start}`或`\P{XIDS}`来描述。Quex还可以生成代码来调用[iconv库或](https://zh.wikipedia.org/wiki/iconv "wikilink")[ICU的字符格式转换程序](https://zh.wikipedia.org/wiki/International_Components_for_Unicode "wikilink")。Quex遵循[Unicode Consortium提出的Unicode标准](https://zh.wikipedia.org/wiki/Unicode_Consortium "wikilink")，若Unicode标准更新，则只需要将新版本的标准文件复制到到Quex相应的目录即可完成Quex对Unicode的支持更新。
 
 ### 词法分析模式
 
@@ -93,16 +90,12 @@ mode X :
 
 ## 另外可查阅
 
-  - [Lexical
-    analysis](https://zh.wikipedia.org/wiki/Lexical_analysis "wikilink")
-  - 关于托马斯构建法和Hopcroft优化方法，可查阅书籍例如 *[Compilers: Principles, Techniques,
-    and
-    Tools](https://zh.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools "wikilink")*.
+  - [Lexical analysis](https://zh.wikipedia.org/wiki/Lexical_analysis "wikilink")
+  - 关于托马斯构建法和Hopcroft优化方法，可查阅书籍例如 *[Compilers: Principles, Techniques, and Tools](https://zh.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools "wikilink")*.
 
 ## 外部链接
 
   - [Quex](http://quex.sourceforge.net/), 官方网页
 
   -
-[Category:Free_compilers_and_interpreters](https://zh.wikipedia.org/wiki/Category:Free_compilers_and_interpreters "wikilink")
-[Category:Parser_generators](https://zh.wikipedia.org/wiki/Category:Parser_generators "wikilink")
+[Category:Free_compilers_and_interpreters](https://zh.wikipedia.org/wiki/Category:Free_compilers_and_interpreters "wikilink") [Category:Parser_generators](https://zh.wikipedia.org/wiki/Category:Parser_generators "wikilink")

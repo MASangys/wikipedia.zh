@@ -1,10 +1,8 @@
-《**-{zh-hant:超人七號X; zh-hans:奥特赛文X; zh-hk:七星俠X}-**》（原題：ULTRASEVEN
-X）是圆谷制作的[超人力霸王系列特摄作品](../Page/超人力霸王系列.md "wikilink")，于2007年10月5日到2007年12月21日在[CBC](../Page/中部日本放送.md "wikilink")、[TBS电视台播映](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")，共12集。
+《**-{zh-hant:超人七號X; zh-hans:奥特赛文X; zh-hk:七星俠X}-**》（原題：ULTRASEVEN X）是圆谷制作的[超人力霸王系列](../Page/超人力霸王系列.md "wikilink")特摄作品，于2007年10月5日到2007年12月21日在[CBC](../Page/中部日本放送.md "wikilink")、[TBS电视台播映](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")，共12集。
 
 ## 剧情
 
-在平行于这个世界的另一个世界，DEUS的特工**Jin**失忆了，并且碰到了一个神秘的女子，女子交给他一副红色边框的眼镜，并告诉他他就是救世主，**Jin**在侵略者现身后会带上眼镜取得-{zh-hans:奥特赛文;
-zh-hant:超人七號}-的力量，变身成为-{zh-hans:奥特赛文X; zh-hant:超人七號X}-。
+在平行于这个世界的另一个世界，DEUS的特工**Jin**失忆了，并且碰到了一个神秘的女子，女子交给他一副红色边框的眼镜，并告诉他他就是救世主，**Jin**在侵略者现身后会带上眼镜取得-{zh-hans:奥特赛文; zh-hant:超人七號}-的力量，变身成为-{zh-hans:奥特赛文X; zh-hant:超人七號X}-。
 
 ## 演员
 
@@ -188,9 +186,7 @@ zh-hant:超人七號}-的力量，变身成为-{zh-hans:奥特赛文X; zh-hant:�
 
 ## 主题曲
 
-  - 《Another day comes》[Pay money To my
-    Pain](https://zh.wikipedia.org/wiki/Pay_money_To_my_Pain "wikilink")（作詞：K，作曲：Pay
-    money To my Pain）
+  - 《Another day comes》[Pay money To my Pain](https://zh.wikipedia.org/wiki/Pay_money_To_my_Pain "wikilink")（作詞：K，作曲：Pay money To my Pain）
 
 ## DVD情报
 
@@ -202,8 +198,7 @@ Hobby Japan出版。作者是小林雄次、小林英造。插画由酉泽安施
 
 ## 参考资料
 
-  - [ULTRASEVEN X -
-    Wikipedia](http://ja.wikipedia.org/wiki/ULTRASEVEN_X)
+  - [ULTRASEVEN X - Wikipedia](http://ja.wikipedia.org/wiki/ULTRASEVEN_X)
 
 ## 外部链接
 
@@ -211,9 +206,4 @@ Hobby Japan出版。作者是小林雄次、小林英造。插画由酉泽安施
   - [VAP超人七號X網站](http://www.vap.co.jp/sevenx/)
   - [英文介绍](http://www.scifijapan.com/articles/2007/12/22/ultraseven-x-series-guide/)
 
-[Category:2007年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2007年日本電視劇集 "wikilink")
-[Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink")
-[Category:超人七號](https://zh.wikipedia.org/wiki/Category:超人七號 "wikilink")
-[Category:深夜特摄](https://zh.wikipedia.org/wiki/Category:深夜特摄 "wikilink")
-[Category:恐怖電視劇](https://zh.wikipedia.org/wiki/Category:恐怖電視劇 "wikilink")
-[Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink")
+[Category:2007年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2007年日本電視劇集 "wikilink") [Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink") [Category:超人七號](https://zh.wikipedia.org/wiki/Category:超人七號 "wikilink") [Category:深夜特摄](https://zh.wikipedia.org/wiki/Category:深夜特摄 "wikilink") [Category:恐怖電視劇](https://zh.wikipedia.org/wiki/Category:恐怖電視劇 "wikilink") [Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink")

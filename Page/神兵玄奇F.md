@@ -1,4 +1,4 @@
-《**神兵玄奇F**》是[鍾英偉主編](https://zh.wikipedia.org/wiki/鍾英偉 "wikilink")，[曹志豪繪畫的](../Page/曹志豪.md "wikilink")[香港漫畫作品](../Page/香港漫畫.md "wikilink")，由[玉皇朝出版發行](../Page/玉皇朝.md "wikilink")。集合[神兵玄奇和](../Page/神兵玄奇.md "wikilink")[天子傳奇等眾多](../Page/天子傳奇.md "wikilink")[玉皇朝作品](../Page/玉皇朝.md "wikilink")，以港漫少見的[跨界作品形式](../Page/跨界作品.md "wikilink")，並引入[平行世界的概念](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，形成極大的世界觀。須注意的是，其他作品客串的人物，其經歷與原作有不少差異，不可當作同一角色看待。發行順序則以清末篇、二戰篇、現代篇的方式不定期發行，目前發行至二戰篇(2009)第10期便腰斬至今不出了。而《**神兵玄奇F**》已經規劃的大世界觀和二戰篇的後續，在[鍾英偉多年後主編的另一部作品](https://zh.wikipedia.org/wiki/鍾英偉 "wikilink")[皇朝君臨交待完成](https://zh.wikipedia.org/wiki/皇朝君臨 "wikilink")。\[1\]
+《**神兵玄奇F**》是[鍾英偉主編](https://zh.wikipedia.org/wiki/鍾英偉 "wikilink")，[曹志豪](../Page/曹志豪.md "wikilink")繪畫的[香港漫畫](../Page/香港漫畫.md "wikilink")作品，由[玉皇朝](../Page/玉皇朝.md "wikilink")出版發行。集合[神兵玄奇](../Page/神兵玄奇.md "wikilink")和[天子傳奇](../Page/天子傳奇.md "wikilink")等眾多[玉皇朝](../Page/玉皇朝.md "wikilink")作品，以港漫少見的[跨界作品](../Page/跨界作品.md "wikilink")形式，並引入[平行世界的概念](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，形成極大的世界觀。須注意的是，其他作品客串的人物，其經歷與原作有不少差異，不可當作同一角色看待。發行順序則以清末篇、二戰篇、現代篇的方式不定期發行，目前發行至二戰篇(2009)第10期便腰斬至今不出了。而《**神兵玄奇F**》已經規劃的大世界觀和二戰篇的後續，在[鍾英偉多年後主編的另一部作品](https://zh.wikipedia.org/wiki/鍾英偉 "wikilink")[皇朝君臨交待完成](https://zh.wikipedia.org/wiki/皇朝君臨 "wikilink")。\[1\]
 
 ## 故事簡介
 
@@ -43,9 +43,6 @@
   - 南宮太平
     南宮問天之子，因具有天魔血統，得以長生不死，曾因天魔血統影響，欲擾亂人間，但在南宮問天的努力下，終於驅散其魔性。太平也能使用神兵異能和魔兵異能，但能發揮的魔兵異能威力大於神兵異能，他也能變化自己的外貌。曾與問天一同遇上天尊派來的偵察部隊，雖殲滅大多數的敵人，但也發現這些已死亡的敵人的力量會被自己所吸收，因而再度魔化。為避免這種情況發生，問天變化成玄天邪帝，將所有的力量吸引到自己身上。
 
-[Category:香港漫畫作品](https://zh.wikipedia.org/wiki/Category:香港漫畫作品 "wikilink")
-[Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink")
-[Category:漫畫跨界作品](https://zh.wikipedia.org/wiki/Category:漫畫跨界作品 "wikilink")
+[Category:香港漫畫作品](https://zh.wikipedia.org/wiki/Category:香港漫畫作品 "wikilink") [Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink") [Category:漫畫跨界作品](https://zh.wikipedia.org/wiki/Category:漫畫跨界作品 "wikilink")
 
-1.  [《神兵玄奇
-    F－2》攻陷漫畫迷](http://hk.apple.nextmedia.com/news/art/20090726/13029132)，香港《蘋果日報》，2009-07-26
+1.  [《神兵玄奇 F－2》攻陷漫畫迷](http://hk.apple.nextmedia.com/news/art/20090726/13029132)，香港《蘋果日報》，2009-07-26

@@ -1,9 +1,4 @@
-**DJ
-ashba**（1972年11月10日出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[印第安納州](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")），原名达伦·杰伊·阿什巴（Darren
-Jay
-Ashba），是[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[硬式摇滚](https://zh.wikipedia.org/wiki/硬式摇滚 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[槍與玫瑰的前任主奏](https://zh.wikipedia.org/wiki/槍與玫瑰 "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，於2007年與[克魯小丑](https://zh.wikipedia.org/wiki/克魯小丑 "wikilink")[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")[Nikki
-Sixx和](https://zh.wikipedia.org/wiki/Nikki_Sixx "wikilink")[James Andrew
-Michael](https://zh.wikipedia.org/wiki/James_Andrew_Michael "wikilink")3人組成[硬式搖滾](../Page/硬式搖滾.md "wikilink")[樂團Sixx](https://zh.wikipedia.org/wiki/樂團 "wikilink"):A.M.。
+**DJ ashba**（1972年11月10日出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[印第安納州](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")），原名达伦·杰伊·阿什巴（Darren Jay Ashba），是[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[硬式摇滚](https://zh.wikipedia.org/wiki/硬式摇滚 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[槍與玫瑰的前任主奏](https://zh.wikipedia.org/wiki/槍與玫瑰 "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，於2007年與[克魯小丑](https://zh.wikipedia.org/wiki/克魯小丑 "wikilink")[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")[Nikki Sixx和](https://zh.wikipedia.org/wiki/Nikki_Sixx "wikilink")[James Andrew Michael](https://zh.wikipedia.org/wiki/James_Andrew_Michael "wikilink")3人組成[硬式搖滾](../Page/硬式搖滾.md "wikilink")[樂團Sixx](https://zh.wikipedia.org/wiki/樂團 "wikilink"):A.M.。
 
 ## 個人作品
 
@@ -46,13 +41,8 @@ Michael](https://zh.wikipedia.org/wiki/James_Andrew_Michael "wikilink")3人組�
   - [DJAshba.com](http://www.djashba.com)
   - [Sixx:A.M. 官网](http://www.sixxammusic.com)
   - [DJ Ashba @ MySpace.com](http://www.myspace.com/djashba)
-  - [DJ Ashba @
-    Facebook.com](http://www.facebook.com/profile.php?id=701824213)
-  - [Talk live to Daren @
-    Stickam.com](https://web.archive.org/web/20090423062803/http://stickam.com/djashba)
-  - [Guns N'
-    Roses.com](https://web.archive.org/web/20120102152252/http://gunsnroses.com/)
+  - [DJ Ashba @ Facebook.com](http://www.facebook.com/profile.php?id=701824213)
+  - [Talk live to Daren @ Stickam.com](https://web.archive.org/web/20090423062803/http://stickam.com/djashba)
+  - [Guns N' Roses.com](https://web.archive.org/web/20120102152252/http://gunsnroses.com/)
 
-[Category:1972年出生](https://zh.wikipedia.org/wiki/Category:1972年出生 "wikilink")
-[Category:美國吉他手](https://zh.wikipedia.org/wiki/Category:美國吉他手 "wikilink")
-[Category:印第安納州音樂家](https://zh.wikipedia.org/wiki/Category:印第安納州音樂家 "wikilink")
+[Category:1972年出生](https://zh.wikipedia.org/wiki/Category:1972年出生 "wikilink") [Category:美國吉他手](https://zh.wikipedia.org/wiki/Category:美國吉他手 "wikilink") [Category:印第安納州音樂家](https://zh.wikipedia.org/wiki/Category:印第安納州音樂家 "wikilink")

@@ -1,6 +1,4 @@
-**SBR污水处理工艺**，即**序批式活性污泥**法，全称为**序列间歇式活性污泥法**（Sequencing Batch Reactor
-Activated Sludge
-Process），简称**SBR[工艺](https://zh.wikipedia.org/wiki/工艺 "wikilink")**。
+**SBR污水处理工艺**，即**序批式活性污泥**法，全称为**序列间歇式活性污泥法**（Sequencing Batch Reactor Activated Sludge Process），简称**SBR[工艺](https://zh.wikipedia.org/wiki/工艺 "wikilink")**。
 
 它是基于以悬浮生长的[微生物](../Page/微生物.md "wikilink")在好氧条件下对[污水中的](https://zh.wikipedia.org/wiki/污水 "wikilink")[有机物](https://zh.wikipedia.org/wiki/有机物 "wikilink")、[氨](../Page/氨.md "wikilink")、[氮](../Page/氮.md "wikilink")等[污染物进行](https://zh.wikipedia.org/wiki/污染物 "wikilink")[降解的](https://zh.wikipedia.org/wiki/降解 "wikilink")[废水生物处理](https://zh.wikipedia.org/wiki/废水 "wikilink")[活性污泥法的工艺](https://zh.wikipedia.org/wiki/活性 "wikilink")。按时序来以间歇[曝气方式运行](https://zh.wikipedia.org/wiki/曝气 "wikilink")，改变活性污泥生长[环境的](https://zh.wikipedia.org/wiki/环境 "wikilink")，被全球广泛认同和采用的污水处理技术。
 
@@ -8,25 +6,19 @@ Process），简称**SBR[工艺](https://zh.wikipedia.org/wiki/工艺 "wikilink"
 
 SBR工艺,是一种比较成熟的污水处理工艺。常见的工艺过程分五个阶段：进水、曝气反应、[沉淀](../Page/沉淀.md "wikilink")（沉降）、滗水（出水）、闲置（静置或称待机）。
 
-1914年，由[英国学者阿登](https://zh.wikipedia.org/wiki/英国 "wikilink")（Ardern）和洛基特（Locket）发明。英国的薩爾福德（Salford）
-市建造了世界上第一个间歇式活性污泥法[污水处理厂](https://zh.wikipedia.org/wiki/污水处理厂 "wikilink")。1915年，[美国](../Page/美国.md "wikilink")密爾瓦基市建造了一座类似的活性污泥法污水处理厂。
+1914年，由[英国学者阿登](https://zh.wikipedia.org/wiki/英国 "wikilink")（Ardern）和洛基特（Locket）发明。英国的薩爾福德（Salford） 市建造了世界上第一个间歇式活性污泥法[污水处理厂](https://zh.wikipedia.org/wiki/污水处理厂 "wikilink")。1915年，[美国](../Page/美国.md "wikilink")密爾瓦基市建造了一座类似的活性污泥法污水处理厂。
 
-1970年代末，美国人借助[自动化技术](https://zh.wikipedia.org/wiki/自动化 "wikilink")，重新研究SBR工艺。1980年，美国[印地安那州建成了世界上第一个](https://zh.wikipedia.org/wiki/印地安那州 "wikilink")[自动化控制的SBR](https://zh.wikipedia.org/wiki/自动化控制 "wikilink")
-法污水处理厂。
+1970年代末，美国人借助[自动化技术](https://zh.wikipedia.org/wiki/自动化 "wikilink")，重新研究SBR工艺。1980年，美国[印地安那州建成了世界上第一个](https://zh.wikipedia.org/wiki/印地安那州 "wikilink")[自动化控制的SBR](https://zh.wikipedia.org/wiki/自动化控制 "wikilink") 法污水处理厂。
 
-应用SBR工艺最先进的[澳大利亚](../Page/澳大利亚.md "wikilink")，先后建成SBR 工艺污水处理厂600
-余座，还兴建日处理量21 万吨大型SBR工艺污水处理厂。
+应用SBR工艺最先进的[澳大利亚](../Page/澳大利亚.md "wikilink")，先后建成SBR 工艺污水处理厂600 余座，还兴建日处理量21 万吨大型SBR工艺污水处理厂。
 
 ## 工艺流程
 
-一种具有代表性的SBR工艺流程是：通过格栅预处理的废水，进入集水井，由潜污泵提升进入SBR反应池，采用水流曝气机充氧，处理后的水由排水管排出，剩余污泥静压后，由SBR
-池排入污泥井，污泥作为[肥料](../Page/肥料.md "wikilink")。
+一种具有代表性的SBR工艺流程是：通过格栅预处理的废水，进入集水井，由潜污泵提升进入SBR反应池，采用水流曝气机充氧，处理后的水由排水管排出，剩余污泥静压后，由SBR 池排入污泥井，污泥作为[肥料](../Page/肥料.md "wikilink")。
 
-时间分割的操作方式替代空间分割的操作方式，如SBR
-[运行周期由进水时间](https://zh.wikipedia.org/wiki/运行周期 "wikilink")、反应时间、[沉淀](../Page/沉淀.md "wikilink")时间、[滗水时间](https://zh.wikipedia.org/wiki/滗水 "wikilink")、排泥时间和闲置时间，可以适当灵活调节。
+时间分割的操作方式替代空间分割的操作方式，如SBR [运行周期由进水时间](https://zh.wikipedia.org/wiki/运行周期 "wikilink")、反应时间、[沉淀](../Page/沉淀.md "wikilink")时间、[滗水时间](https://zh.wikipedia.org/wiki/滗水 "wikilink")、排泥时间和闲置时间，可以适当灵活调节。
 
-沉淀排水时间(Ts+D)一般按2至4小時设计。闲置时间(Tx)一般按0.5至1小時设计。设定反应时间为(Tf)
-。一个周期所需时间T≥Tf+Ts+D+Tx。\[1\]
+沉淀排水时间(Ts+D)一般按2至4小時设计。闲置时间(Tx)一般按0.5至1小時设计。设定反应时间为(Tf) 。一个周期所需时间T≥Tf+Ts+D+Tx。\[1\]
 
 具體的时间分配例子如运行周期12小時，其中进水2小時、曝气4至8小時、沉淀2小時、排水1小時。
 
@@ -38,8 +30,7 @@ SBR工艺作为一种活性污泥工艺，也有活性污泥工艺的优缺点�
 
   - 构筑物数量少、造价低：不需要设初沉地，也不需要二沉地，污泥回流设施、调节池、初沉池也可省略，便于操作和维护管理。避免了传统[厌氧反应器处理](https://zh.wikipedia.org/wiki/厌氧反应器 "wikilink")[效率低](https://zh.wikipedia.org/wiki/效率 "wikilink")、占地大的缺点。
   - 结构简单：[组合式构造方法](https://zh.wikipedia.org/wiki/组合式 "wikilink")，利于废水处理厂的扩建和改造。
-  - 处理后出水水质好：良好的自控系统,良好的[脱氮](https://zh.wikipedia.org/wiki/脱氮 "wikilink")[除磷效果](https://zh.wikipedia.org/wiki/除磷 "wikilink")，废水达标排放,有数据称CODCr平均去除率能达到
-    94 %以上，强于单级好氧处理工艺。
+  - 处理后出水水质好：良好的自控系统,良好的[脱氮](https://zh.wikipedia.org/wiki/脱氮 "wikilink")[除磷效果](https://zh.wikipedia.org/wiki/除磷 "wikilink")，废水达标排放,有数据称CODCr平均去除率能达到 94 %以上，强于单级好氧处理工艺。
   - 特别适用在难生化降解的废水处理：解决了UASB等高效[厌氧反应器](https://zh.wikipedia.org/wiki/厌氧反应器 "wikilink")，容易在出现[水解酸化阶段](https://zh.wikipedia.org/wiki/水解酸化阶段 "wikilink")[酸性积累从而抑制产](https://zh.wikipedia.org/wiki/酸性 "wikilink")[甲烷](../Page/甲烷.md "wikilink")段处理效率的问题。
   - 占地少，[能耗低](https://zh.wikipedia.org/wiki/能耗 "wikilink")，[投资](../Page/投资.md "wikilink")省，运行管理方便
 
@@ -55,8 +46,7 @@ SBR工艺作为一种活性污泥工艺，也有活性污泥工艺的优缺点�
   - 小规模的有机废水处理，特别是非连续排放的生产废水。例如:[啤酒](../Page/啤酒.md "wikilink")废水等中高浓度有机废水。
   - 厂矿企业的工业废水处理水。
   - 作为污水处理出水水质较高的工程，适用于污水处理除磷脱氮；
-  - SBR 系统可按GB18918 一级A
-    的标准，符合[再生水处理进水要求](https://zh.wikipedia.org/wiki/再生水 "wikilink")；
+  - SBR 系统可按GB18918 一级A 的标准，符合[再生水处理进水要求](https://zh.wikipedia.org/wiki/再生水 "wikilink")；
   - 用地紧张的地方；
   - 对已建污水处理厂的改造等。
 
@@ -99,12 +89,10 @@ SBR工艺作为一种活性污泥工艺，也有活性污泥工艺的优缺点�
 
 SBR工艺已發展出如下衍生工艺，都有相应的规范\[2\]：
 
-  - CASS工艺(Cyclic Activated Sludge
-    System)[循环活性污泥系统](https://zh.wikipedia.org/wiki/循环 "wikilink")，是一种在SBR工艺和氧化沟技术的基础上开发出的新工艺。
+  - CASS工艺(Cyclic Activated Sludge System)[循环活性污泥系统](https://zh.wikipedia.org/wiki/循环 "wikilink")，是一种在SBR工艺和氧化沟技术的基础上开发出的新工艺。
   - CAST 工艺（Cyclic Activated Sludge Technology）循环式活性污泥法。
   - DAT-IAT （Demand Aeration Tank-Intermittent Tank）工艺好氧间歇曝气系统。
-  - AICS 工艺（Alternated internal cyclic
-    system）交替式内循环活性污泥法。是中国[北京环境保护科学研究院独立开发完成的污水处理工艺](https://zh.wikipedia.org/wiki/北京环境保护科学研究院 "wikilink")。
+  - AICS 工艺（Alternated internal cyclic system）交替式内循环活性污泥法。是中国[北京环境保护科学研究院独立开发完成的污水处理工艺](https://zh.wikipedia.org/wiki/北京环境保护科学研究院 "wikilink")。
 
 ## 应用实例
 
@@ -136,19 +124,16 @@ SBR工艺已發展出如下衍生工艺，都有相应的规范\[2\]：
 
   - [《序批式活性污泥法污水处理工程技术规范（征求意见稿）》编制说明](http://www.mep.gov.cn/gkml/zj/bgth/200910/W020080118336272085826.pdf)
   - SBR工艺在马铃薯加工废水处理中的应用 郭育鸿 范增华
-  - 低水温条件下SBR处理城市污水的工艺研究Technique of Urban Sewage Treatment by SBR under
-    Low-Temperature Condition
+  - 低水温条件下SBR处理城市污水的工艺研究Technique of Urban Sewage Treatment by SBR under Low-Temperature Condition
   - SBR工艺在旅客列车集便器污水处理中的应用研究
   - SBR 污水处理工艺运行操作要点 山西省临汾市环境保护局 张爱萍, 赵国慧
     <references/>
-  - 《成都纺织高等专科学校学报》，2006年，第23卷第03期，安红莹、丁桑岚、苏仕军，ISSN :
-    1008-5580(2006)03-004-05
+  - 《成都纺织高等专科学校学报》，2006年，第23卷第03期，安红莹、丁桑岚、苏仕军，ISSN : 1008-5580(2006)03-004-05
   - [水解酸化-SBR工艺处理洗米废水2007-11-23](http://www.chinaenvironment.com)　
   - 医院污水处理技术指南
   - [两相厌氧－SBR法处理啤酒废水工程实践](http://www.goepe.com)
 
-[Category:污水处理](https://zh.wikipedia.org/wiki/Category:污水处理 "wikilink")
-[Category:水处理工艺](https://zh.wikipedia.org/wiki/Category:水处理工艺 "wikilink")
+[Category:污水处理](https://zh.wikipedia.org/wiki/Category:污水处理 "wikilink") [Category:水处理工艺](https://zh.wikipedia.org/wiki/Category:水处理工艺 "wikilink")
 
 1.  SBR 污水处理工艺运行操作要点
 2.  《序批式活性污泥法污水处理工程技术规范（征求意见稿）》编制说明

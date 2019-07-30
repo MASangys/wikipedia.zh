@@ -4,14 +4,9 @@
 
 臺北市政府以打造臺北成為「新年城」的概念做為活動的創意主軸，於2003年特別取「**台北最HIGH新年城**」為活動名稱，2004年末開始再結合[台北101](../Page/台北101.md "wikilink")的[煙火秀](https://zh.wikipedia.org/wiki/煙火 "wikilink")，多樣而豐富的活動、超長的時程、廣闊的空間、獨特的儀式，迎接新年的到來，每年均吸引數十萬人於[信義商圈現場參與](../Page/信義計畫區.md "wikilink")，[臺北市政府](../Page/臺北市政府.md "wikilink")也邀請了當紅的[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[偶像歌手一起在市府前廣場跨年晚會表演](https://zh.wikipedia.org/wiki/偶像 "wikilink")，成為國際及[臺灣](../Page/臺灣.md "wikilink")最知名的跨年活動之一。
 
-同時藉由一個最具魅力的[跨年晚會](../Page/跨年日.md "wikilink")，讓[臺北站上世界的舞台](../Page/臺北市.md "wikilink")，贏得國際的掌聲。此外在跨年活動當天，[信義商圈內許多大型百貨公司](https://zh.wikipedia.org/wiki/信義商圈 "wikilink")，包括[台北101](../Page/台北101.md "wikilink")購物中心、[ATT
-4
-FUN](../Page/ATT_4_FUN.md "wikilink")、[威秀影城](../Page/威秀影城.md "wikilink")、[新光三越信義新天地](../Page/新光三越百貨.md "wikilink")、[Neo19](https://zh.wikipedia.org/wiki/Neo19 "wikilink")、[誠品信義旗艦店](https://zh.wikipedia.org/wiki/誠品 "wikilink")、[寶麗廣塲](../Page/寶麗廣塲.md "wikilink")、[微風松高](../Page/微風廣場.md "wikilink")、[微風信義](../Page/微風廣場.md "wikilink")、[微風信義南山廣場](../Page/微風廣場.md "wikilink")、[統一時代百貨以及](../Page/統一時代百貨台北店.md "wikilink")[CITYLINK
-松山店](../Page/CITYLINK_\(購物中心\).md "wikilink")、[五分埔商圈](https://zh.wikipedia.org/wiki/五分埔商圈 "wikilink")、饒河街夜市以及[京華城購物中心](../Page/京華城購物中心.md "wikilink")，都延長營業時間至凌晨。
+同時藉由一個最具魅力的[跨年晚會](../Page/跨年日.md "wikilink")，讓[臺北站上世界的舞台](../Page/臺北市.md "wikilink")，贏得國際的掌聲。此外在跨年活動當天，[信義商圈內許多大型百貨公司](https://zh.wikipedia.org/wiki/信義商圈 "wikilink")，包括[台北101](../Page/台北101.md "wikilink")購物中心、[ATT 4 FUN](../Page/ATT_4_FUN.md "wikilink")、[威秀影城](../Page/威秀影城.md "wikilink")、[新光三越信義新天地](../Page/新光三越百貨.md "wikilink")、[Neo19](https://zh.wikipedia.org/wiki/Neo19 "wikilink")、[誠品信義旗艦店](https://zh.wikipedia.org/wiki/誠品 "wikilink")、[寶麗廣塲](../Page/寶麗廣塲.md "wikilink")、[微風松高](../Page/微風廣場.md "wikilink")、[微風信義](../Page/微風廣場.md "wikilink")、[微風信義南山廣場](../Page/微風廣場.md "wikilink")、[統一時代百貨以及](../Page/統一時代百貨台北店.md "wikilink")[CITYLINK 松山店](../Page/CITYLINK_\(購物中心\).md "wikilink")、[五分埔商圈](https://zh.wikipedia.org/wiki/五分埔商圈 "wikilink")、饒河街夜市以及[京華城購物中心](../Page/京華城購物中心.md "wikilink")，都延長營業時間至凌晨。
 
-2015年末增加新北市市民廣場（[板橋車站後方](https://zh.wikipedia.org/wiki/板橋車站_\(臺灣\) "wikilink")）大螢幕同步直播臺北最HIGH新年城跨年晚會，[新板特區週邊內許多大型百貨公司](https://zh.wikipedia.org/wiki/新板特區 "wikilink")，包括[Mega
-City
-板橋大遠百](../Page/遠東百貨.md "wikilink")、[遠東百貨](../Page/遠東百貨.md "wikilink")新概念店板橋店以及板橋[環球購物中心](../Page/環球購物中心.md "wikilink")和[威秀影城](../Page/威秀影城.md "wikilink")、[誠品生活新板店](https://zh.wikipedia.org/wiki/誠品商場 "wikilink")、[誠品生活板橋店](https://zh.wikipedia.org/wiki/誠品商場 "wikilink")、[麗寶百貨廣場](../Page/麗寶百貨廣場.md "wikilink")及[秀泰影城](../Page/秀泰影城.md "wikilink")以及湳雅夜市，都延長營業時間至凌晨。
+2015年末增加新北市市民廣場（[板橋車站後方](https://zh.wikipedia.org/wiki/板橋車站_\(臺灣\) "wikilink")）大螢幕同步直播臺北最HIGH新年城跨年晚會，[新板特區週邊內許多大型百貨公司](https://zh.wikipedia.org/wiki/新板特區 "wikilink")，包括[Mega City 板橋大遠百](../Page/遠東百貨.md "wikilink")、[遠東百貨](../Page/遠東百貨.md "wikilink")新概念店板橋店以及板橋[環球購物中心](../Page/環球購物中心.md "wikilink")和[威秀影城](../Page/威秀影城.md "wikilink")、[誠品生活新板店](https://zh.wikipedia.org/wiki/誠品商場 "wikilink")、[誠品生活板橋店](https://zh.wikipedia.org/wiki/誠品商場 "wikilink")、[麗寶百貨廣場](../Page/麗寶百貨廣場.md "wikilink")及[秀泰影城](../Page/秀泰影城.md "wikilink")以及湳雅夜市，都延長營業時間至凌晨。
 
 ## 交通狀況
 
@@ -489,8 +484,4 @@ Dailymotion</p></td>
   -
   -
   -
-[Category:新年](https://zh.wikipedia.org/wiki/Category:新年 "wikilink")
-[Category:12月份的活動](https://zh.wikipedia.org/wiki/Category:12月份的活動 "wikilink")
-[Category:台北市文化](https://zh.wikipedia.org/wiki/Category:台北市文化 "wikilink")
-[Category:台北市旅遊景點](https://zh.wikipedia.org/wiki/Category:台北市旅遊景點 "wikilink")
-[Category:臺灣觀光年曆](https://zh.wikipedia.org/wiki/Category:臺灣觀光年曆 "wikilink")
+[Category:新年](https://zh.wikipedia.org/wiki/Category:新年 "wikilink") [Category:12月份的活動](https://zh.wikipedia.org/wiki/Category:12月份的活動 "wikilink") [Category:台北市文化](https://zh.wikipedia.org/wiki/Category:台北市文化 "wikilink") [Category:台北市旅遊景點](https://zh.wikipedia.org/wiki/Category:台北市旅遊景點 "wikilink") [Category:臺灣觀光年曆](https://zh.wikipedia.org/wiki/Category:臺灣觀光年曆 "wikilink")

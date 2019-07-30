@@ -1,14 +1,10 @@
-《**KIDDY
-GiRL-AND**》，為《[銀河戰警](../Page/銀河戰警.md "wikilink")》的續篇，於2009年10月至2010年3月在日本播放，全24話。
+《**KIDDY GiRL-AND**》，為《[銀河戰警](../Page/銀河戰警.md "wikilink")》的續篇，於2009年10月至2010年3月在日本播放，全24話。
 
-2009年2月，後藤監督在其部落格進一步宣布，續作定名為，而之前的「*[Kiddy Grade
-2](https://zh.wikipedia.org/wiki/銀河戰警#Kiddy_Grade_2 "wikilink")*」則被定位為暫定內容\[1\]。此時動畫製作改由SATELIGHT負責，基本上跟「*Kiddy
-Grade 2*」架構無多大差異，但修改了一些設定。
+2009年2月，後藤監督在其部落格進一步宣布，續作定名為，而之前的「*[Kiddy Grade 2](https://zh.wikipedia.org/wiki/銀河戰警#Kiddy_Grade_2 "wikilink")*」則被定位為暫定內容\[1\]。此時動畫製作改由SATELIGHT負責，基本上跟「*Kiddy Grade 2*」架構無多大差異，但修改了一些設定。
 
 ## 故事簡介
 
-設定在《**天使特警**》約50年後的舞台，GOTT已解體、由新組織「銀河系貿易監視機關」（Galactic Trade
-Organisation，簡稱GTO）繼承業務\[2\]，描寫GTO轄下見習搭檔愛絲庫爾和克·菲優成長的故事。
+設定在《**天使特警**》約50年後的舞台，GOTT已解體、由新組織「銀河系貿易監視機關」（Galactic Trade Organisation，簡稱GTO）繼承業務\[2\]，描寫GTO轄下見習搭檔愛絲庫爾和克·菲優成長的故事。
 
 ## 登場人物
 
@@ -19,10 +15,7 @@ Organisation，簡稱GTO）繼承業務\[2\]，描寫GTO轄下見習搭檔愛絲
 <!-- end list -->
 
   -
-    名字取自法語「」（紅心Ace），口頭禪是「」。粉紅色短髮的ES
-    Member見習生，活潑可愛的少女。擁有短距離[瞬間移動](../Page/瞬間移動.md "wikilink")的能力「Push
-    Pull」，能力C級。武器是[櫛劍](https://zh.wikipedia.org/wiki/櫛 "wikilink")。平時在GTO所屬咖啡室當服務生。很喜歡[南瓜](../Page/南瓜.md "wikilink")[布丁](../Page/布丁.md "wikilink")。實際上，擁有[瞬間移動](../Page/瞬間移動.md "wikilink")、干涉[空間的能力](https://zh.wikipedia.org/wiki/空間 "wikilink")。本為的妹妹。在死後獲得其能力，是眾多ES
-    Member中最強的一個。
+    名字取自法語「」（紅心Ace），口頭禪是「」。粉紅色短髮的ES Member見習生，活潑可愛的少女。擁有短距離[瞬間移動](../Page/瞬間移動.md "wikilink")的能力「Push Pull」，能力C級。武器是[櫛劍](https://zh.wikipedia.org/wiki/櫛 "wikilink")。平時在GTO所屬咖啡室當服務生。很喜歡[南瓜](../Page/南瓜.md "wikilink")[布丁](../Page/布丁.md "wikilink")。實際上，擁有[瞬間移動](../Page/瞬間移動.md "wikilink")、干涉[空間的能力](https://zh.wikipedia.org/wiki/空間 "wikilink")。本為的妹妹。在死後獲得其能力，是眾多ES Member中最強的一個。
 
 <!-- end list -->
 
@@ -31,9 +24,7 @@ Organisation，簡稱GTO）繼承業務\[2\]，描寫GTO轄下見習搭檔愛絲
 <!-- end list -->
 
   -
-    名字取自法語「Quatre
-    Feuille」（[四葉草](../Page/四葉草.md "wikilink")）。[靛色長髮的ES](https://zh.wikipedia.org/wiki/靛 "wikilink")
-    Member見習生，面冷心熱、像好學生一樣細心的少女。擁有[預知](../Page/預知.md "wikilink")事物的能力「Parfum」（法語：[香水](../Page/香水.md "wikilink")），能力C級。武器是特製巧克力球。平時在GTO所屬咖啡室當服務生。實際上，擁有干涉[時間的能力](https://zh.wikipedia.org/wiki/時間 "wikilink")。
+    名字取自法語「Quatre Feuille」（[四葉草](../Page/四葉草.md "wikilink")）。[靛色長髮的ES](https://zh.wikipedia.org/wiki/靛 "wikilink") Member見習生，面冷心熱、像好學生一樣細心的少女。擁有[預知](../Page/預知.md "wikilink")事物的能力「Parfum」（法語：[香水](../Page/香水.md "wikilink")），能力C級。武器是特製巧克力球。平時在GTO所屬咖啡室當服務生。實際上，擁有干涉[時間的能力](https://zh.wikipedia.org/wiki/時間 "wikilink")。
 
 ****（Di-air）　聲：[高橋夢波](https://zh.wikipedia.org/wiki/高橋夢波 "wikilink")
 
@@ -42,11 +33,9 @@ Organisation，簡稱GTO）繼承業務\[2\]，描寫GTO轄下見習搭檔愛絲
 <!-- end list -->
 
   -
-    金色長髮的ES
-    Member小見習生，由愛絲庫爾和克·菲優負責照顧。特殊能力「A-quare」，可暫時增幅他人的特殊能力。實際上，繼承了GOTT前局長****的G級能力，可以干涉[空間](https://zh.wikipedia.org/wiki/空間 "wikilink")、[時間](https://zh.wikipedia.org/wiki/時間 "wikilink")。
+    金色長髮的ES Member小見習生，由愛絲庫爾和克·菲優負責照顧。特殊能力「A-quare」，可暫時增幅他人的特殊能力。實際上，繼承了GOTT前局長****的G級能力，可以干涉[空間](https://zh.wikipedia.org/wiki/空間 "wikilink")、[時間](https://zh.wikipedia.org/wiki/時間 "wikilink")。
 
-****（Trial-type of Assenble-system & Multipurpose
-Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
+****（Trial-type of Assenble-system & Multipurpose Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 
   -
     *Gene-tech Beast*的一種、可任意變形的特殊人工生命體。
@@ -64,43 +53,32 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 <!-- end list -->
 
   -
-    ES
-    Member，有時會不經意出現口頭禪\[3\]，擁有干涉[空間的能力](https://zh.wikipedia.org/wiki/空間 "wikilink")「Power-S」，能力G級，也是愛絲庫爾的偶像。在GTO的25周年慶典中被所殺。墓碑上刻著「Our
-    third hope girl Trixie III
-    Eclair」，25年前時間凍結事件之際由前GOTT局長艾克莉普絲利用特殊能力「Quant」複製艾克蕾爾等之第三代前兩代為「Uniear」
-    及「 Duerry」。
+    ES Member，有時會不經意出現口頭禪\[3\]，擁有干涉[空間的能力](https://zh.wikipedia.org/wiki/空間 "wikilink")「Power-S」，能力G級，也是愛絲庫爾的偶像。在GTO的25周年慶典中被所殺。墓碑上刻著「Our third hope girl Trixie III Eclair」，25年前時間凍結事件之際由前GOTT局長艾克莉普絲利用特殊能力「Quant」複製艾克蕾爾等之第三代前兩代為「Uniear」 及「 Duerry」。
 
 <!-- end list -->
 
   -
-    ES
-    Member，有時會不經意出現座右銘\[4\]，擁有干涉[時間的能力](https://zh.wikipedia.org/wiki/時間 "wikilink")「Particle-T」，能力G級；跟庫·菲兒同樣喜好動畫人物，也是庫·菲兒的偶像。在GTO的25周年慶典中被所殺。墓碑上刻著「Our
-    third shinning girl Troisienne III Lumiere」，複製琉美艾爾之第三代，前兩代為「Uni-ace」
-    及「 Dionie」。
+    ES Member，有時會不經意出現座右銘\[4\]，擁有干涉[時間的能力](https://zh.wikipedia.org/wiki/時間 "wikilink")「Particle-T」，能力G級；跟庫·菲兒同樣喜好動畫人物，也是庫·菲兒的偶像。在GTO的25周年慶典中被所殺。墓碑上刻著「Our third shinning girl Troisienne III Lumiere」，複製琉美艾爾之第三代，前兩代為「Uni-ace」 及「 Dionie」。
 
 <!-- end list -->
 
   -
-    ES Member，参照[Kiddy
-    Grade](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")
+    ES Member，参照[Kiddy Grade](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")
 
 <!-- end list -->
 
   -
-    ES Member，参照[Kiddy
-    Grade](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")
+    ES Member，参照[Kiddy Grade](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")
 
 <!-- end list -->
 
   -
-    ES Member，参照[Kiddy
-    Grade](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")
+    ES Member，参照[Kiddy Grade](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")
 
 <!-- end list -->
 
   -
-    ES Member，参照[Kiddy
-    Grade](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")
+    ES Member，参照[Kiddy Grade](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")
 
 
 
@@ -110,8 +88,7 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 ### G-Society
 
   -
-    與銀河系貿易監視機關（GTO）對立的[恐怖組織](https://zh.wikipedia.org/wiki/恐怖組織 "wikilink")\[5\]，矢志復興貴族以往的權力與光榮，擁有實力堅強的[幹部](https://zh.wikipedia.org/wiki/幹部 "wikilink")「Shadow
-    Worker」。
+    與銀河系貿易監視機關（GTO）對立的[恐怖組織](https://zh.wikipedia.org/wiki/恐怖組織 "wikilink")\[5\]，矢志復興貴族以往的權力與光榮，擁有實力堅強的[幹部](https://zh.wikipedia.org/wiki/幹部 "wikilink")「Shadow Worker」。
 
 ****（Geacht'er）　聲：[日野聰](../Page/日野聰.md "wikilink")
 
@@ -121,9 +98,7 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 ****（Letuchaia）　聲：[今野宏美](../Page/今野宏美.md "wikilink")
 
   -
-    Shadow
-    Worker，[稱謂公主](https://zh.wikipedia.org/wiki/稱謂 "wikilink")，口癖是「○倍○○」（例：10倍無聊），「Crazy
-    cracker」的持有者，過激態力場操縱自如。
+    Shadow Worker，[稱謂公主](https://zh.wikipedia.org/wiki/稱謂 "wikilink")，口癖是「○倍○○」（例：10倍無聊），「Crazy cracker」的持有者，過激態力場操縱自如。
 
 ****（Pauki）　聲：[松元惠](../Page/松元惠.md "wikilink")
 
@@ -133,14 +108,12 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 ****（Saphir）　聲：[水原薰](../Page/水原薰.md "wikilink")
 
   -
-    Shadow
-    Worker，職業殺手出身，使用冰凍能力「Frigidity」，可以藉此製造[超導體](../Page/超導體.md "wikilink")。[京都](../Page/京都.md "wikilink")腔。愛慕****。
+    Shadow Worker，職業殺手出身，使用冰凍能力「Frigidity」，可以藉此製造[超導體](../Page/超導體.md "wikilink")。[京都](../Page/京都.md "wikilink")腔。愛慕****。
 
 ****（Rubis）　聲：[齋藤楓子](../Page/齋藤楓子.md "wikilink")
 
   -
-    Shadow
-    Worker，職業殺手出身，擁有半[獸人](../Page/獸人.md "wikilink")能力「Zoanthrope」，變身後以野獸般的利爪、敏捷及速度戰鬥。個性好戰，亦有幾分同情之心。只忠於自己心中的感覺，對於ガクトエル的行為有所不滿，轉而幫助ディア、ク・フィーユ救回アスクール。
+    Shadow Worker，職業殺手出身，擁有半[獸人](../Page/獸人.md "wikilink")能力「Zoanthrope」，變身後以野獸般的利爪、敏捷及速度戰鬥。個性好戰，亦有幾分同情之心。只忠於自己心中的感覺，對於ガクトエル的行為有所不滿，轉而幫助ディア、ク・フィーユ救回アスクール。
 
 ****（Shade）　聲：[飛田展男](../Page/飛田展男.md "wikilink")
 
@@ -150,8 +123,7 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 ****（Torch）　聲：[中井和哉](../Page/中井和哉.md "wikilink")
 
   -
-    Shadow Worker，強攻艦隊副司令，行使光學幻影能力「Mirage-L」。前銀河警察所屬ES
-    Member。不喜歡讓拍檔自相殘殺的作戰。
+    Shadow Worker，強攻艦隊副司令，行使光學幻影能力「Mirage-L」。前銀河警察所屬ES Member。不喜歡讓拍檔自相殘殺的作戰。
 
 ## 用語
 
@@ -531,20 +503,11 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 
   - [KIDDY GiRL-AND官方網站](http://www.kiddygirl-and.com/)
 
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:2009年UHF動畫](https://zh.wikipedia.org/wiki/Category:2009年UHF動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
+[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:2009年UHF動畫](https://zh.wikipedia.org/wiki/Category:2009年UHF動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
 
 1.  [](http://blog.goo.ne.jp/gocky_01/e/b5c0b64be4e610c4115727182f70b995)
 
-
-2.  KIDDY
-    GiRL-AND，[月刊Newtype](https://zh.wikipedia.org/wiki/月刊Newtype "wikilink")
-    2009年10月號。
+2.  KIDDY GiRL-AND，[月刊Newtype](https://zh.wikipedia.org/wiki/月刊Newtype "wikilink") 2009年10月號。
 
 3.  漫畫。
 

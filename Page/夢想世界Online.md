@@ -1,5 +1,4 @@
-《**夢想世界Online**》
-是由中國大陸[多益网络開發的一款](https://zh.wikipedia.org/wiki/多益网络 "wikilink")2D畫面的[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")。此作為一虛擬的現實，以角色的自由成長，多元化分工的幫會，各種每日活動以及可自由掌控的練功系統為特色。\[1\]此作在[台港澳由](https://zh.wikipedia.org/wiki/台港澳 "wikilink")[雷爵網路代理](https://zh.wikipedia.org/wiki/雷爵網路 "wikilink")，2008年4月30日封測，同年5月21日公開測試\[2\]；而中國大陸方面也於2007年9月\[3\]由[多益网络自行推出並上市](https://zh.wikipedia.org/wiki/多益网络 "wikilink")。
+《**夢想世界Online**》 是由中國大陸[多益网络開發的一款](https://zh.wikipedia.org/wiki/多益网络 "wikilink")2D畫面的[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")。此作為一虛擬的現實，以角色的自由成長，多元化分工的幫會，各種每日活動以及可自由掌控的練功系統為特色。\[1\]此作在[台港澳由](https://zh.wikipedia.org/wiki/台港澳 "wikilink")[雷爵網路代理](https://zh.wikipedia.org/wiki/雷爵網路 "wikilink")，2008年4月30日封測，同年5月21日公開測試\[2\]；而中國大陸方面也於2007年9月\[3\]由[多益网络自行推出並上市](https://zh.wikipedia.org/wiki/多益网络 "wikilink")。
 
 ## 十二大主角\[4\]
 
@@ -235,12 +234,9 @@
   - [夢想世界Online中國大陸官方網站](http://mx.henhaoji.com/)
   - [英雄傳奇：喚醒另一個自己](http://mx.duoyi.com/2012/hero/)
 
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 
 1.  [夢想世界特色介紹頁](http://mx.lager.com.tw/html/mx_game_feature.shtml)
 2.  [五彩活動繽紛樂！《夢想世界》5 月 21 日正式公測](http://gnn.gamer.com.tw/5/30485.html)
-3.  [《夢想世界》30 日展開封測
-    即日起開放索取限量帳號](http://gnn.gamer.com.tw/8/30118.html)此文內有提到陸版於去年(注:即2007年)公測上線。
+3.  [《夢想世界》30 日展開封測 即日起開放索取限量帳號](http://gnn.gamer.com.tw/8/30118.html)此文內有提到陸版於去年(注:即2007年)公測上線。
 4.

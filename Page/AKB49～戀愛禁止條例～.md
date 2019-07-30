@@ -1,13 +1,12 @@
-《**AKB49〜戀愛禁止條例〜**》（）由[元麻布FACTORY擔任原作](https://zh.wikipedia.org/wiki/元麻布FACTORY "wikilink")，[宮島礼吏作畫的日本](https://zh.wikipedia.org/wiki/宮島礼吏 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。於《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2010年第39期開始連載。本作為已獲[AKB48授權之漫畫作品](../Page/AKB48.md "wikilink")。台灣從2011年10月的《[新少年快報](../Page/新少年快報.md "wikilink")》2011年47期開始連載。\[1\]
+《**AKB49〜戀愛禁止條例〜**》（）由[元麻布FACTORY擔任原作](https://zh.wikipedia.org/wiki/元麻布FACTORY "wikilink")，[宮島礼吏作畫的日本](https://zh.wikipedia.org/wiki/宮島礼吏 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。於《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2010年第39期開始連載。本作為已獲[AKB48](../Page/AKB48.md "wikilink")授權之漫畫作品。台灣從2011年10月的《[新少年快報](../Page/新少年快報.md "wikilink")》2011年47期開始連載。\[1\]
 
 ## 故事簡介
 
-本作的男主角浦山實因為跟蹤心儀的女同學吉永寛子，來到[AKB48的演唱會](../Page/AKB48.md "wikilink")，在此遇到了寬子，並得知寬子要參加AKB的選拔。浦山為了保護寬子，因此易裝成[少女並且以假名浦川實](https://zh.wikipedia.org/wiki/少女 "wikilink")，參加AKB的選拔。原本只是為了保護寛子的他，卻誤打誤撞的被挑選成為AKB的第12期研究生。進入AKB後，他遇到自我中心的研究生前輩岡部愛，並與她成為競爭對手。浦川的工作態度為[秋元康所欣賞](../Page/秋元康.md "wikilink")，因而被挑選成為研究生的center。然而，秋元康在一次劇場公演時，公佈將研究生公演的票價提升至10,000[日圓](../Page/日圓.md "wikilink")\[2\]，研究生們要於兩個月的時間內，令到劇場全院滿座的考驗，究竟她們會如何面對未來的考驗...
+本作的男主角浦山實因為跟蹤心儀的女同學吉永寛子，來到[AKB48](../Page/AKB48.md "wikilink")的演唱會，在此遇到了寬子，並得知寬子要參加AKB的選拔。浦山為了保護寬子，因此易裝成[少女並且以假名浦川實](https://zh.wikipedia.org/wiki/少女 "wikilink")，參加AKB的選拔。原本只是為了保護寛子的他，卻誤打誤撞的被挑選成為AKB的第12期研究生。進入AKB後，他遇到自我中心的研究生前輩岡部愛，並與她成為競爭對手。浦川的工作態度為[秋元康](../Page/秋元康.md "wikilink")所欣賞，因而被挑選成為研究生的center。然而，秋元康在一次劇場公演時，公佈將研究生公演的票價提升至10,000[日圓](../Page/日圓.md "wikilink")\[2\]，研究生們要於兩個月的時間內，令到劇場全院滿座的考驗，究竟她們會如何面對未來的考驗...
 
 ## 場景舞台
 
-基本上以真實[東京為主](https://zh.wikipedia.org/wiki/東京 "wikilink")，環繞著[AKB48劇場的所在地](../Page/AKB48劇場.md "wikilink")[秋葉原](../Page/秋葉原.md "wikilink")。亦有附近的[關東地區甚至](https://zh.wikipedia.org/wiki/關東地區 "wikilink")[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")。雖說如此，本作有些場景是虛構的（如『QUEEN
-RECORDS』的所在地）。
+基本上以真實[東京為主](https://zh.wikipedia.org/wiki/東京 "wikilink")，環繞著[AKB48劇場](../Page/AKB48劇場.md "wikilink")的所在地[秋葉原](../Page/秋葉原.md "wikilink")。亦有附近的[關東地區甚至](https://zh.wikipedia.org/wiki/關東地區 "wikilink")[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")。雖說如此，本作有些場景是虛構的（如『QUEEN RECORDS』的所在地）。
 
 本作的時間概念以現實為藍本。起始時間估計為2010年中至2015年。
 
@@ -22,10 +21,10 @@ RECORDS』的所在地）。
 #### 一萬元的公演
 
   -
-    第12話[秋元康為研究生們定下的目標](../Page/秋元康.md "wikilink")。
+    第12話[秋元康](../Page/秋元康.md "wikilink")為研究生們定下的目標。
     要求是在2個月內以一萬元的價格令研究生公演劇場客滿（250人），否則就解散全體現任研究生。
     開演日為2011年1月18日，又稱X Day。
-    第36話[戶賀崎智信宣佈只有](../Page/戶賀崎智信.md "wikilink")249門票售出時，[秋元康突然進入劇場並買下第](../Page/秋元康.md "wikilink")250張門票，令研究生達成此目標。
+    第36話[戶賀崎智信](../Page/戶賀崎智信.md "wikilink")宣佈只有249門票售出時，[秋元康](../Page/秋元康.md "wikilink")突然進入劇場並買下第250張門票，令研究生達成此目標。
 
 #### GEKOKU娘
 
@@ -45,7 +44,7 @@ RECORDS』的所在地）。
 
   -
     第118話起，全兼任第一站，名古屋。
-    第121話[秋元康為在SKE的兼任組訂下的課題](../Page/秋元康.md "wikilink")。
+    第121話[秋元康](../Page/秋元康.md "wikilink")為在SKE的兼任組訂下的課題。
     要求是在一個月之內，觀賞一場公演的全體250位觀眾，都能夠認可3人作為SKE的表現。
     如果無法完成課題，3人將從48系所有組合中被抹殺。
 
@@ -273,16 +272,9 @@ RECORDS』的所在地）。
 
 ## 外部連結
 
-  - [マガメガ -
-    AKB49〜恋愛禁止条例〜](https://web.archive.org/web/20100919164925/http://kc.kodansha.co.jp/content/top.php/KA00000854)
-    漫畫官方網站
+  - [マガメガ - AKB49〜恋愛禁止条例〜](https://web.archive.org/web/20100919164925/http://kc.kodansha.co.jp/content/top.php/KA00000854) 漫畫官方網站
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink")
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink")
-[Category:偽娘題材漫畫](https://zh.wikipedia.org/wiki/Category:偽娘題材漫畫 "wikilink")
-[Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink") [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink") [Category:偽娘題材漫畫](https://zh.wikipedia.org/wiki/Category:偽娘題材漫畫 "wikilink") [Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink")
 
 1.  [新少年快報第47期　新連載！《AKB49～戀愛禁止條例～》登場！](http://www.wretch.cc/blog/shinshonen/35400820)
 2.  本作所有價錢為日圓。

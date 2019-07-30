@@ -1,4 +1,4 @@
-**女同性戀、男同性戀、雙性戀與跨性別者在安道爾的權益**受法律保障。自2005年起，[安道爾的](https://zh.wikipedia.org/wiki/安道爾 "wikilink")[同性戀者可以經合由](../Page/同性戀.md "wikilink")[民事結合成為伴侶](../Page/民事結合.md "wikilink")。
+**女同性戀、男同性戀、雙性戀與跨性別者在安道爾的權益**受法律保障。自2005年起，[安道爾的](https://zh.wikipedia.org/wiki/安道爾 "wikilink")[同性戀](../Page/同性戀.md "wikilink")者可以經合由[民事結合](../Page/民事結合.md "wikilink")成為伴侶。
 
 ## 同性性行為相關法律
 

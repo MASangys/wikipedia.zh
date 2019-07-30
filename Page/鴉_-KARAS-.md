@@ -1,14 +1,10 @@
-《**鴉
--KARAS-**》是[龍之子Production的](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")40周年記念OVA作品。《鴉
--KARAS-》總共有六話，2005年11月開始發售第一話。在2005年發行了三話，而第四話到第六話在2007年中以後才發行。
+《**鴉 -KARAS-**》是[龍之子Production的](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")40周年記念OVA作品。《鴉 -KARAS-》總共有六話，2005年11月開始發售第一話。在2005年發行了三話，而第四話到第六話在2007年中以後才發行。
 
-《鴉
--KARAS-》是一部結合格鬥、偵探和鬼怪，融合奇幻與科幻的動畫，配樂上由演出，並獲得2006第五回[東京國際動畫](../Page/東京國際動畫博覽會.md "wikilink")（東京国際アニメアワード）OVA部門優秀作品獎。\[1\]
+《鴉 -KARAS-》是一部結合格鬥、偵探和鬼怪，融合奇幻與科幻的動畫，配樂上由演出，並獲得2006第五回[東京國際動畫](../Page/東京國際動畫博覽會.md "wikilink")（東京国際アニメアワード）OVA部門優秀作品獎。\[1\]
 
 ## 劇情概要
 
-《鴉
-KARAS》的故事描述了一個充滿[妖怪](../Page/妖怪.md "wikilink")的虛構[新宿](../Page/新宿.md "wikilink")裡，一個名叫乙羽的人與新宿的事。乙羽是一名「鴉」，就是由城市（由百合音作為城市意志的代理人）所認可而成的一個強大守護者。在故事裡，前任的「鴉」——迴向，意圖控制他以前保護的新宿。而乙羽和其他妖怪以及其他的「鴉」則試著對抗他。
+《鴉 KARAS》的故事描述了一個充滿[妖怪](../Page/妖怪.md "wikilink")的虛構[新宿](../Page/新宿.md "wikilink")裡，一個名叫乙羽的人與新宿的事。乙羽是一名「鴉」，就是由城市（由百合音作為城市意志的代理人）所認可而成的一個強大守護者。在故事裡，前任的「鴉」——迴向，意圖控制他以前保護的新宿。而乙羽和其他妖怪以及其他的「鴉」則試著對抗他。
 
 在各卷之中都收錄有監督和製作人員的。除此之外，在第四話中是由替一角配音的[藤原啓治和替炎一角配音](https://zh.wikipedia.org/wiki/藤原啓治 "wikilink")[生天目仁美](../Page/生天目仁美.md "wikilink")擔任評論，五話中則是由替乙羽配音的[和田聰宏和替百合音配音的](https://zh.wikipedia.org/wiki/和田聰宏 "wikilink")[鈴木霞](../Page/鈴木霞.md "wikilink")擔任。
 
@@ -202,8 +198,7 @@ KARAS》的故事描述了一個充滿[妖怪](../Page/妖怪.md "wikilink")的�
 ### 片尾曲
 
   - 「」（Selenite）（第1話 - 第3話）
-    作詞、作曲：Rurutia　編曲：Rurutia &
-    佐藤鷹　主唱：[Rurutia](../Page/Rurutia.md "wikilink")
+    作詞、作曲：Rurutia　編曲：Rurutia & 佐藤鷹　主唱：[Rurutia](../Page/Rurutia.md "wikilink")
 
 <!-- end list -->
 
@@ -212,8 +207,7 @@ KARAS》的故事描述了一個充滿[妖怪](../Page/妖怪.md "wikilink")的�
 
 ## 公開放映
 
-自2006年4月6日起至6月6日曾在[Xbox
-Live上免費放映第一話的部分](../Page/Xbox_Live.md "wikilink")。
+自2006年4月6日起至6月6日曾在[Xbox Live上免費放映第一話的部分](../Page/Xbox_Live.md "wikilink")。
 
 ## 原聲帶
 
@@ -275,20 +269,6 @@ Live上免費放映第一話的部分](../Page/Xbox_Live.md "wikilink")。
 
   - [「鴉-KARAS-」](http://www.at-x.com/program_detail/index.html/1830/top)AT-X官方網站
 
-[Category:龍之子Production](https://zh.wikipedia.org/wiki/Category:龍之子Production "wikilink")
-[Category:2005年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2005年日本OVA動畫 "wikilink")
-[Category:日本原創動畫](https://zh.wikipedia.org/wiki/Category:日本原創動畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:科學奇幻動畫](https://zh.wikipedia.org/wiki/Category:科學奇幻動畫 "wikilink")
-[Category:超常現象題材作品](https://zh.wikipedia.org/wiki/Category:超常現象題材作品 "wikilink")
-[Category:異世界題材作品](https://zh.wikipedia.org/wiki/Category:異世界題材作品 "wikilink")
-[Category:妖怪題材動畫](https://zh.wikipedia.org/wiki/Category:妖怪題材動畫 "wikilink")
-[Category:虛構日本背景動畫](https://zh.wikipedia.org/wiki/Category:虛構日本背景動畫 "wikilink")
-[Category:新宿背景作品](https://zh.wikipedia.org/wiki/Category:新宿背景作品 "wikilink")
-[Category:隱瞞身分題材動畫](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材動畫 "wikilink")
-[Category:鳥類主角故事](https://zh.wikipedia.org/wiki/Category:鳥類主角故事 "wikilink")
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
-[Category:香港深夜動畫](https://zh.wikipedia.org/wiki/Category:香港深夜動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:龍之子Production](https://zh.wikipedia.org/wiki/Category:龍之子Production "wikilink") [Category:2005年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2005年日本OVA動畫 "wikilink") [Category:日本原創動畫](https://zh.wikipedia.org/wiki/Category:日本原創動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:科學奇幻動畫](https://zh.wikipedia.org/wiki/Category:科學奇幻動畫 "wikilink") [Category:超常現象題材作品](https://zh.wikipedia.org/wiki/Category:超常現象題材作品 "wikilink") [Category:異世界題材作品](https://zh.wikipedia.org/wiki/Category:異世界題材作品 "wikilink") [Category:妖怪題材動畫](https://zh.wikipedia.org/wiki/Category:妖怪題材動畫 "wikilink") [Category:虛構日本背景動畫](https://zh.wikipedia.org/wiki/Category:虛構日本背景動畫 "wikilink") [Category:新宿背景作品](https://zh.wikipedia.org/wiki/Category:新宿背景作品 "wikilink") [Category:隱瞞身分題材動畫](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材動畫 "wikilink") [Category:鳥類主角故事](https://zh.wikipedia.org/wiki/Category:鳥類主角故事 "wikilink") [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:香港深夜動畫](https://zh.wikipedia.org/wiki/Category:香港深夜動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.

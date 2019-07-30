@@ -1,5 +1,4 @@
-《**姬狩 Dungeon
-Meister**》(姫狩りダンジョンマイスター)為[Eushully社於](../Page/Eushully.md "wikilink")2009年4月24日時發表的十八禁[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，獲得了「萌えゲーアワード2009大賞」程式賞的金賞。\[1\]
+《**姬狩 Dungeon Meister**》(姫狩りダンジョンマイスター)為[Eushully](../Page/Eushully.md "wikilink")社於2009年4月24日時發表的十八禁[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，獲得了「萌えゲーアワード2009大賞」程式賞的金賞。\[1\]
 
 ## 故事
 
@@ -79,12 +78,8 @@ Meister**》(姫狩りダンジョンマイスター)為[Eushully社於](../Page
 
 ## 外部連結
 
-  - [eushully Official Website - 姫狩りダンジョンマイスター
-    -](https://web.archive.org/web/20120221035051/http://www.eukleia.co.jp/eushully/himespdl/index.html)
+  - [eushully Official Website - 姫狩りダンジョンマイスター -](https://web.archive.org/web/20120221035051/http://www.eukleia.co.jp/eushully/himespdl/index.html)
 
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink")
-[Category:Eushully](https://zh.wikipedia.org/wiki/Category:Eushully "wikilink")
+[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink") [Category:Eushully](https://zh.wikipedia.org/wiki/Category:Eushully "wikilink")
 
 1.

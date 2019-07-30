@@ -1,10 +1,6 @@
-**KKBOX風雲榜**（）是亞洲數位音樂品牌[KKBOX依據其會員於站內點播歌曲紀錄](../Page/KKBOX.md "wikilink")，進行統計而成的年度綜合排行榜。開辦於2006年，原名「KKBOX數位音樂風雲榜」，於第九屆時更名為「KKBOX風雲榜」\[1\]。歷屆頒獎典禮約於農曆新年前舉辦，第12屆風雲榜開始訂為每年一月的第三週周末舉辦\[2\]。頒獎典禮近幾年均由[黃子佼主持](../Page/黃子佼.md "wikilink")。2018年第13屆KKBOX風雲榜首度南下大規模移師到高雄舉辦，並舉辦戶外的嘻哈電音派對「風雲榜前夜祭」及「未來風雲之星成果發表會」，2019年適逢KKBOX香港邁入10週年，2019年3月12號首度於香港舉辦「KKBOX香港風雲榜」。
+**KKBOX風雲榜**（）是亞洲數位音樂品牌[KKBOX](../Page/KKBOX.md "wikilink")依據其會員於站內點播歌曲紀錄，進行統計而成的年度綜合排行榜。開辦於2006年，原名「KKBOX數位音樂風雲榜」，於第九屆時更名為「KKBOX風雲榜」\[1\]。歷屆頒獎典禮約於農曆新年前舉辦，第12屆風雲榜開始訂為每年一月的第三週周末舉辦\[2\]。頒獎典禮近幾年均由[黃子佼](../Page/黃子佼.md "wikilink")主持。2018年第13屆KKBOX風雲榜首度南下大規模移師到高雄舉辦，並舉辦戶外的嘻哈電音派對「風雲榜前夜祭」及「未來風雲之星成果發表會」，2019年適逢KKBOX香港邁入10週年，2019年3月12號首度於香港舉辦「KKBOX香港風雲榜」。
 
-[KKBOX_風雲榜歷屆主持人－黃子佼.jpg](https://zh.wikipedia.org/wiki/File:KKBOX_風雲榜歷屆主持人－黃子佼.jpg "fig:KKBOX_風雲榜歷屆主持人－黃子佼.jpg")
-[第十三屆_KKBOX_風雲榜－高雄巨蛋.jpg](https://zh.wikipedia.org/wiki/File:第十三屆_KKBOX_風雲榜－高雄巨蛋.jpg "fig:第十三屆_KKBOX_風雲榜－高雄巨蛋.jpg")
-[第十三屆_KKBOX_風雲榜－鄧紫棋、黃明志合唱漂向北方.jpg](https://zh.wikipedia.org/wiki/File:第十三屆_KKBOX_風雲榜－鄧紫棋、黃明志合唱漂向北方.jpg "fig:第十三屆_KKBOX_風雲榜－鄧紫棋、黃明志合唱漂向北方.jpg")
-[第十二屆_KKBOX_風雲榜活動現場.jpg](https://zh.wikipedia.org/wiki/File:第十二屆_KKBOX_風雲榜活動現場.jpg "fig:第十二屆_KKBOX_風雲榜活動現場.jpg")
-[第十二屆_KKBOX_風雲榜－林俊傑演出.jpg](https://zh.wikipedia.org/wiki/File:第十二屆_KKBOX_風雲榜－林俊傑演出.jpg "fig:第十二屆_KKBOX_風雲榜－林俊傑演出.jpg")
+[KKBOX_風雲榜歷屆主持人－黃子佼.jpg](https://zh.wikipedia.org/wiki/File:KKBOX_風雲榜歷屆主持人－黃子佼.jpg "fig:KKBOX_風雲榜歷屆主持人－黃子佼.jpg") [第十三屆_KKBOX_風雲榜－高雄巨蛋.jpg](https://zh.wikipedia.org/wiki/File:第十三屆_KKBOX_風雲榜－高雄巨蛋.jpg "fig:第十三屆_KKBOX_風雲榜－高雄巨蛋.jpg") [第十三屆_KKBOX_風雲榜－鄧紫棋、黃明志合唱漂向北方.jpg](https://zh.wikipedia.org/wiki/File:第十三屆_KKBOX_風雲榜－鄧紫棋、黃明志合唱漂向北方.jpg "fig:第十三屆_KKBOX_風雲榜－鄧紫棋、黃明志合唱漂向北方.jpg") [第十二屆_KKBOX_風雲榜活動現場.jpg](https://zh.wikipedia.org/wiki/File:第十二屆_KKBOX_風雲榜活動現場.jpg "fig:第十二屆_KKBOX_風雲榜活動現場.jpg") [第十二屆_KKBOX_風雲榜－林俊傑演出.jpg](https://zh.wikipedia.org/wiki/File:第十二屆_KKBOX_風雲榜－林俊傑演出.jpg "fig:第十二屆_KKBOX_風雲榜－林俊傑演出.jpg")
 
 ## 獎項
 
@@ -25,20 +21,12 @@
 
 颁奖典禮在下列地區的電視頻道及網路直播，其中包括：
 
-  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")：[臺灣電視台](../Page/臺灣電視台.md "wikilink")
-    、[TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")（2010年起）、[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink")（2018年－2019年）、[YAHOO
-    TV](https://zh.wikipedia.org/wiki/YAHOO_TV "wikilink")（2016-2018年）、[ETTODAY](https://zh.wikipedia.org/wiki/ETTODAY "wikilink")（2018年－2019年）、[LINE
-    TODAY](https://zh.wikipedia.org/wiki/LINE_TODAY "wikilink")（2018年－2019年）、[WIN綜合台](https://zh.wikipedia.org/wiki/WIN綜合台 "wikilink")（2019年）
+  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")：[臺灣電視台](../Page/臺灣電視台.md "wikilink") 、[TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")（2010年起）、[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink")（2018年－2019年）、[YAHOO TV](https://zh.wikipedia.org/wiki/YAHOO_TV "wikilink")（2016-2018年）、[ETTODAY](https://zh.wikipedia.org/wiki/ETTODAY "wikilink")（2018年－2019年）、[LINE TODAY](https://zh.wikipedia.org/wiki/LINE_TODAY "wikilink")（2018年－2019年）、[WIN綜合台](https://zh.wikipedia.org/wiki/WIN綜合台 "wikilink")（2019年）
   - [中國](../Page/中國.md "wikilink")：[新浪微博](../Page/新浪微博.md "wikilink")（2016－2018年）、[QQ音樂](https://zh.wikipedia.org/wiki/QQ音樂 "wikilink")（2019年）
-  - [香港](../Page/香港.md "wikilink")：[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[J2](../Page/J2.md "wikilink")（2012－2016年）、[ViuTV](../Page/ViuTV.md "wikilink")（2017年－2019年）、[YAHOO
-    TV](https://zh.wikipedia.org/wiki/YAHOO_TV "wikilink")（2018年）
+  - [香港](../Page/香港.md "wikilink")：[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[J2](../Page/J2.md "wikilink")（2012－2016年）、[ViuTV](../Page/ViuTV.md "wikilink")（2017年－2019年）、[YAHOO TV](https://zh.wikipedia.org/wiki/YAHOO_TV "wikilink")（2018年）
   - [日本](../Page/日本.md "wikilink")：（2014－2016年）
-  - [新加坡](../Page/新加坡.md "wikilink")：Star hub E-city（2013－2016年）、Singtel
-    [佳樂台](https://zh.wikipedia.org/wiki/佳樂台 "wikilink")（2017年）、[新傳媒U頻道](../Page/新傳媒U頻道.md "wikilink")（2018年）、[Toggle](https://zh.wikipedia.org/wiki/Toggle "wikilink")（2018年）、YAHOO（2018年）
-  - [馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")：[Astro
-    AEC](../Page/Astro_AEC.md "wikilink")（2013－2016年）、[Astro全佳HD](../Page/Astro全佳HD.md "wikilink")（2014年）、[Astro喜悅HD](https://zh.wikipedia.org/wiki/Astro喜悅HD "wikilink")（2017年－2019年）、[Astro
-    Njoi
-    Now](https://zh.wikipedia.org/wiki/Astro_Njoi_Now "wikilink")（2019年）、YAHOO（2018年）
+  - [新加坡](../Page/新加坡.md "wikilink")：Star hub E-city（2013－2016年）、Singtel [佳樂台](https://zh.wikipedia.org/wiki/佳樂台 "wikilink")（2017年）、[新傳媒U頻道](../Page/新傳媒U頻道.md "wikilink")（2018年）、[Toggle](https://zh.wikipedia.org/wiki/Toggle "wikilink")（2018年）、YAHOO（2018年）
+  - [馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")：[Astro AEC](../Page/Astro_AEC.md "wikilink")（2013－2016年）、[Astro全佳HD](../Page/Astro全佳HD.md "wikilink")（2014年）、[Astro喜悅HD](https://zh.wikipedia.org/wiki/Astro喜悅HD "wikilink")（2017年－2019年）、[Astro Njoi Now](https://zh.wikipedia.org/wiki/Astro_Njoi_Now "wikilink")（2019年）、YAHOO（2018年）
 
 ## 歷屆得獎名單
 
@@ -59,19 +47,13 @@
   - 年度風雲團體：[S.H.E](../Page/S.H.E.md "wikilink")
   - 年度最佳新人獎：[Tank](../Page/呂建中.md "wikilink")、[曹格](../Page/曹格.md "wikilink")、[張懸](../Page/張懸.md "wikilink")
   - 經典金曲演唱人獎：[費玉清](../Page/費玉清.md "wikilink")
-  - 年度十大專輯：[蔡依林](../Page/蔡依林.md "wikilink")《舞孃》、[周杰倫](../Page/周杰倫.md "wikilink")《依然范特西》、[張韶涵](../Page/張韶涵.md "wikilink")《潘朵拉》、[王力宏](../Page/王力宏.md "wikilink")《蓋世英雄》、[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")《曹操》、[李聖傑](../Page/李聖傑.md "wikilink")《關於妳的歌》、[飛兒樂團](https://zh.wikipedia.org/wiki/飛兒樂團 "wikilink")《飛行部落》、[楊丞琳](../Page/楊丞琳.md "wikilink")《遇上愛》、[王心凌](../Page/王心凌.md "wikilink")《Cyndi
-    With U》、[羅志祥](../Page/羅志祥.md "wikilink")《SPESHOW》
+  - 年度十大專輯：[蔡依林](../Page/蔡依林.md "wikilink")《舞孃》、[周杰倫](../Page/周杰倫.md "wikilink")《依然范特西》、[張韶涵](../Page/張韶涵.md "wikilink")《潘朵拉》、[王力宏](../Page/王力宏.md "wikilink")《蓋世英雄》、[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")《曹操》、[李聖傑](../Page/李聖傑.md "wikilink")《關於妳的歌》、[飛兒樂團](https://zh.wikipedia.org/wiki/飛兒樂團 "wikilink")《飛行部落》、[楊丞琳](../Page/楊丞琳.md "wikilink")《遇上愛》、[王心凌](../Page/王心凌.md "wikilink")《Cyndi With U》、[羅志祥](../Page/羅志祥.md "wikilink")《SPESHOW》
   - 年度偶像劇原聲帶大賞：[微笑PASTA](../Page/微笑PASTA.md "wikilink")、[花樣少年少女](../Page/花樣少年少女_\(2006年電視劇\).md "wikilink")、[深情密碼](../Page/深情密碼.md "wikilink")
   - 年度最勁爆話題單曲：[黃立成](../Page/黃立成.md "wikilink")＆MACHI《報應》
-  - 年度數位發行單曲：[蕭賀碩](../Page/蕭賀碩.md "wikilink")《我愛你》、[蕭亞軒](../Page/蕭亞軒.md "wikilink")《Elva's
-    Back》、[徐若瑄](../Page/徐若瑄.md "wikilink")《好眼淚壞眼淚》、[張韶涵](../Page/張韶涵.md "wikilink")《尋寶》、[林冠吟](../Page/林冠吟.md "wikilink")《冒險愛情》
-  - 連續攻榜冠軍單曲：[周杰倫](../Page/周杰倫.md "wikilink")《千里之外》、[蔡依林](../Page/蔡依林.md "wikilink")《馬德里不思議》、[羅志祥](../Page/羅志祥.md "wikilink")《好朋友》、[范瑋琪](../Page/范瑋琪.md "wikilink")《一個像夏天
-    一個像秋天》、[卓文萱](../Page/卓文萱.md "wikilink")《梁山伯與茱麗葉》
-  - 飛碟 KKBOX
-    傳媒推荐大獎：[黃立行](../Page/黃立行.md "wikilink")《無神論》、[楊乃文](../Page/楊乃文.md "wikilink")《女爵》、[張惠妹](../Page/張惠妹.md "wikilink")《我要快樂？》
-  - 飛碟 KKBOX
-    傳媒點播人氣獎：[張惠妹](../Page/張惠妹.md "wikilink")《我要快樂》、[楊丞琳](../Page/楊丞琳.md "wikilink")《過敏》、[南拳媽媽](../Page/南拳媽媽.md "wikilink")《初戀粉色系》、[李玖哲](../Page/李玖哲.md "wikilink")《我會好好過》、[蔡旻佑](https://zh.wikipedia.org/wiki/蔡旻佑 "wikilink")《我可以》、王力宏《Kiss
-    Goodbye》
+  - 年度數位發行單曲：[蕭賀碩](../Page/蕭賀碩.md "wikilink")《我愛你》、[蕭亞軒](../Page/蕭亞軒.md "wikilink")《Elva's Back》、[徐若瑄](../Page/徐若瑄.md "wikilink")《好眼淚壞眼淚》、[張韶涵](../Page/張韶涵.md "wikilink")《尋寶》、[林冠吟](../Page/林冠吟.md "wikilink")《冒險愛情》
+  - 連續攻榜冠軍單曲：[周杰倫](../Page/周杰倫.md "wikilink")《千里之外》、[蔡依林](../Page/蔡依林.md "wikilink")《馬德里不思議》、[羅志祥](../Page/羅志祥.md "wikilink")《好朋友》、[范瑋琪](../Page/范瑋琪.md "wikilink")《一個像夏天 一個像秋天》、[卓文萱](../Page/卓文萱.md "wikilink")《梁山伯與茱麗葉》
+  - 飛碟 KKBOX 傳媒推荐大獎：[黃立行](../Page/黃立行.md "wikilink")《無神論》、[楊乃文](../Page/楊乃文.md "wikilink")《女爵》、[張惠妹](../Page/張惠妹.md "wikilink")《我要快樂？》
+  - 飛碟 KKBOX 傳媒點播人氣獎：[張惠妹](../Page/張惠妹.md "wikilink")《我要快樂》、[楊丞琳](../Page/楊丞琳.md "wikilink")《過敏》、[南拳媽媽](../Page/南拳媽媽.md "wikilink")《初戀粉色系》、[李玖哲](../Page/李玖哲.md "wikilink")《我會好好過》、[蔡旻佑](https://zh.wikipedia.org/wiki/蔡旻佑 "wikilink")《我可以》、王力宏《Kiss Goodbye》
 
 ### 第三屆 2008
 
@@ -101,7 +83,7 @@
       - KKBOX 獨立創作精神獎：[蛋堡](../Page/蛋堡_\(音樂人\).md "wikilink")
       - 年度最佳台語男歌手：[翁立友](../Page/翁立友.md "wikilink")
       - 年度最佳台語女歌手：[江蕙](../Page/江蕙.md "wikilink")
-      - 年度偶像劇原聲帶大賞：強辯之[終極三國三國鼎立](../Page/終極三國.md "wikilink") SUPER 大鬥陣
+      - 年度偶像劇原聲帶大賞：強辯之[終極三國](../Page/終極三國.md "wikilink")三國鼎立 SUPER 大鬥陣
       - 香港人氣歌手獎：[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")
 
 ### 第六屆 2011
@@ -113,10 +95,8 @@
       - 年度數位單曲：[吳克羣](https://zh.wikipedia.org/wiki/吳克羣 "wikilink")《寄生》
       - 獨立創作精神獎：[黃玠](../Page/黃玠.md "wikilink")
       - 年度風雲香港歌手：[陳奕迅](../Page/陳奕迅.md "wikilink")
-      - 年度西洋專輯：[女神卡卡](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")《The
-        Fame Monster》
-      - 年度日韓專輯：[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")《Run
-        Devil Run》
+      - 年度西洋專輯：[女神卡卡](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")《The Fame Monster》
+      - 年度日韓專輯：[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")《Run Devil Run》
 
 ### 第七屆 2012
 
@@ -126,8 +106,7 @@
       - 年度最佳新人：[鄧福如](../Page/鄧福如.md "wikilink")
       - 年度國際數位發行單曲：[凡人譜](../Page/凡人譜.md "wikilink")《Touch》
       - 年度華語數位發行單曲：[周杰倫](../Page/周杰倫.md "wikilink")&[科比·布莱恩特](../Page/科比·布莱恩特.md "wikilink")《天地一鬥》
-      - 年度獨立創作精神獎：[Tizzy
-        Bac](https://zh.wikipedia.org/wiki/Tizzy_Bac "wikilink")
+      - 年度獨立創作精神獎：[Tizzy Bac](https://zh.wikipedia.org/wiki/Tizzy_Bac "wikilink")
       - 年度電影原聲帶獎：《[那些年，我們一起追的女孩](https://zh.wikipedia.org/wiki/那些年，我們一起追的女孩 "wikilink")》
       - 年度偶像劇音樂：《[犀利人妻](../Page/犀利人妻.md "wikilink")》
       - 年度粵語歌手：[陳奕迅](../Page/陳奕迅.md "wikilink")
@@ -176,8 +155,7 @@
       - 年度最佳電影原聲帶單曲：[等一個人咖啡](../Page/等一個人咖啡.md "wikilink")
       - 年度台語歌手：[江蕙](../Page/江蕙.md "wikilink")
       - 年度粵語歌手：[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")
-      - 年度西洋歌手：[Maroon
-        5](https://zh.wikipedia.org/wiki/Maroon_5 "wikilink")
+      - 年度西洋歌手：[Maroon 5](https://zh.wikipedia.org/wiki/Maroon_5 "wikilink")
       - 年度日語歌手：[ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")
       - 年度韓語歌手：[Super Junior](../Page/Super_Junior.md "wikilink")
 
@@ -219,44 +197,31 @@
       - 年度創作精神獎：[魏如萱](../Page/魏如萱.md "wikilink")
       - 年度最佳新人：[J.Sheon](../Page/J.Sheon.md "wikilink")
       - 年度最佳華語單曲：[陳奕迅](../Page/陳奕迅.md "wikilink")《讓我留在你身邊》
-      - 年度最佳西洋單曲：[Ed
-        Sheeran](https://zh.wikipedia.org/wiki/Ed_Sheeran "wikilink")《Shape
-        of You》
-      - 年度最佳韓語單曲：[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink") &
-        [Punch](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink")《Stay
-        With Me》
+      - 年度最佳西洋單曲：[Ed Sheeran](https://zh.wikipedia.org/wiki/Ed_Sheeran "wikilink")《Shape of You》
+      - 年度最佳韓語單曲：[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink") & [Punch](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink")《Stay With Me》
       - 年度最佳日語單曲：[星野源](../Page/星野源.md "wikilink")《戀》
 
 ### 第十四屆 2019
 
   - 風雲大使
-      - [Alan
-        Walker](https://zh.wikipedia.org/wiki/Alan_Walker "wikilink")
+      - [Alan Walker](https://zh.wikipedia.org/wiki/Alan_Walker "wikilink")
   - 年度風雲歌手
-      - [Super
-        Junior](../Page/Super_Junior.md "wikilink")、[頑童MJ116](../Page/頑童MJ116.md "wikilink")、[張惠妹](../Page/張惠妹.md "wikilink")、[蕭敬騰](../Page/蕭敬騰.md "wikilink")、[李榮浩](../Page/李榮浩.md "wikilink")、[莫文蔚](../Page/莫文蔚.md "wikilink")、[周興哲](../Page/周興哲.md "wikilink")、[-{于}-文文](../Page/于文文.md "wikilink")、[周杰倫](../Page/周杰倫.md "wikilink")、[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")
+      - [Super Junior](../Page/Super_Junior.md "wikilink")、[頑童MJ116](../Page/頑童MJ116.md "wikilink")、[張惠妹](../Page/張惠妹.md "wikilink")、[蕭敬騰](../Page/蕭敬騰.md "wikilink")、[李榮浩](../Page/李榮浩.md "wikilink")、[莫文蔚](../Page/莫文蔚.md "wikilink")、[周興哲](../Page/周興哲.md "wikilink")、[-{于}-文文](../Page/于文文.md "wikilink")、[周杰倫](../Page/周杰倫.md "wikilink")、[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")
   - 年度風雲獎項
       - 年度創作精神獎：[熊仔](../Page/熊仔.md "wikilink")
       - 年度最佳新人：[茄子蛋](../Page/茄子蛋.md "wikilink")
       - ETtoday星光雲KKBOX唱作歌手獎：[蕭秉治](../Page/蕭秉治.md "wikilink")
       - 華語年度單曲累積榜 TOP1：[-{于}-文文](../Page/于文文.md "wikilink")《體面》
-      - 西洋年度單曲累積榜 TOP1：[Camila
-        Cabello](https://zh.wikipedia.org/wiki/Camila_Cabello "wikilink"),[Young
-        Thug](https://zh.wikipedia.org/wiki/Young_Thug "wikilink")《Havana》
-      - 韓語年度單曲累積榜 TOP1：[Super
-        Junior](../Page/Super_Junior.md "wikilink"),[Leslie
-        Grace](https://zh.wikipedia.org/wiki/Leslie_Grace "wikilink")《Lo
-        Siento》
+      - 西洋年度單曲累積榜 TOP1：[Camila Cabello](https://zh.wikipedia.org/wiki/Camila_Cabello "wikilink"),[Young Thug](https://zh.wikipedia.org/wiki/Young_Thug "wikilink")《Havana》
+      - 韓語年度單曲累積榜 TOP1：[Super Junior](../Page/Super_Junior.md "wikilink"),[Leslie Grace](https://zh.wikipedia.org/wiki/Leslie_Grace "wikilink")《Lo Siento》
       - 日語年度單曲累積榜 TOP1：[米津玄師](../Page/米津玄師.md "wikilink") 《Lemon》
 
 ### 香港第一屆 2019
 
   - 風雲大使
-      - [蔡健雅](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")、[盧廣仲](../Page/盧廣仲.md "wikilink")、[Supper
-        Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")
+      - [蔡健雅](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")、[盧廣仲](../Page/盧廣仲.md "wikilink")、[Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")
   - 年度風雲歌手
-      - [江海迦](../Page/江海迦.md "wikilink")、[C
-        AllStar](../Page/C_AllStar.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[李幸倪](../Page/李幸倪.md "wikilink")、[HANA菊梓喬](https://zh.wikipedia.org/wiki/HANA菊梓喬 "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[陳柏宇](../Page/陳柏宇.md "wikilink")、[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[楊千嬅](../Page/楊千嬅.md "wikilink")
+      - [江海迦](../Page/江海迦.md "wikilink")、[C AllStar](../Page/C_AllStar.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[李幸倪](../Page/李幸倪.md "wikilink")、[HANA菊梓喬](https://zh.wikipedia.org/wiki/HANA菊梓喬 "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[陳柏宇](../Page/陳柏宇.md "wikilink")、[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[楊千嬅](../Page/楊千嬅.md "wikilink")
   - 年度風雲獎項
       - 年度編輯推薦歌手：[鄧小巧](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink")
       - 年度最佳新人：[曾樂彤](../Page/曾樂彤.md "wikilink")
@@ -316,5 +281,4 @@
 [Category:台灣音樂獎項](https://zh.wikipedia.org/wiki/Category:台灣音樂獎項 "wikilink")
 
 1.
-2.   即時新聞 {{\!}} 20170120 {{\!}}
-    蘋果日報|newspaper=蘋果日報|accessdate=2017-05-11|language=zh-TW}}
+2.   即時新聞 {{\!}} 20170120 {{\!}} 蘋果日報|newspaper=蘋果日報|accessdate=2017-05-11|language=zh-TW}}

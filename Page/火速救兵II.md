@@ -1,6 +1,6 @@
 [Elite_Brigade,_episode_2,_RTHK_(Hong_Kong).jpg](https://zh.wikipedia.org/wiki/File:Elite_Brigade,_episode_2,_RTHK_\(Hong_Kong\).jpg "fig:Elite_Brigade,_episode_2,_RTHK_(Hong_Kong).jpg")
 
-《**火速救兵II**》（）是[香港電台電視部與](https://zh.wikipedia.org/wiki/香港電台電視部 "wikilink")[香港消防處合作拍攝的](../Page/香港消防處.md "wikilink")[單元劇](https://zh.wikipedia.org/wiki/單元劇 "wikilink")，全劇共5集，為《[火速救兵](../Page/火速救兵.md "wikilink")》的延續。
+《**火速救兵II**》（）是[香港電台電視部與](https://zh.wikipedia.org/wiki/香港電台電視部 "wikilink")[香港消防處](../Page/香港消防處.md "wikilink")合作拍攝的[單元劇](https://zh.wikipedia.org/wiki/單元劇 "wikilink")，全劇共5集，為《[火速救兵](../Page/火速救兵.md "wikilink")》的延續。
 
 ## 每集主題
 
@@ -107,7 +107,7 @@
 <td><p><a href="../Page/官恩娜.md" title="wikilink">官恩娜</a></p></td>
 <td><p>陳可晴</p></td>
 <td><p>消防處<a href="https://zh.wikipedia.org/wiki/調派及通訊組" title="wikilink">調派及通訊組總隊目</a><br />
-<a href="../Page/壓力輔導組.md" title="wikilink">壓力輔導組成員</a></p></td>
+<a href="../Page/壓力輔導組.md" title="wikilink">壓力輔導組</a>成員</p></td>
 <td><p>可晴</p></td>
 </tr>
 <tr class="even">
@@ -553,17 +553,8 @@ Jackie</p></td>
 ## 外部連結
 
   - [香港電台官方網站 - 火速救兵II](http://rthk.hk/special/fsd2/)
-  - [香港電台節目網站 -
-    火速救兵II](http://programme.rthk.hk/rthk/tv/programme.php?name=tv/elitebrigade&p=5312)
+  - [香港電台節目網站 - 火速救兵II](http://programme.rthk.hk/rthk/tv/programme.php?name=tv/elitebrigade&p=5312)
 
 ## 前後節目
 
-[Category:香港電台電視劇集](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集 "wikilink")
-[Category:香港電台電視劇集系列](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集系列 "wikilink")
-[Category:2012年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2012年香港電視劇集 "wikilink")
-[Category:2012年播出的電視劇季度](https://zh.wikipedia.org/wiki/Category:2012年播出的電視劇季度 "wikilink")
-[Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink")
-[Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
-[Category:火災題材作品](https://zh.wikipedia.org/wiki/Category:火災題材作品 "wikilink")
-[Category:新界背景電視劇](https://zh.wikipedia.org/wiki/Category:新界背景電視劇 "wikilink")
-[Category:消防題材電視劇](https://zh.wikipedia.org/wiki/Category:消防題材電視劇 "wikilink")
+[Category:香港電台電視劇集](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集 "wikilink") [Category:香港電台電視劇集系列](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集系列 "wikilink") [Category:2012年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2012年香港電視劇集 "wikilink") [Category:2012年播出的電視劇季度](https://zh.wikipedia.org/wiki/Category:2012年播出的電視劇季度 "wikilink") [Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:火災題材作品](https://zh.wikipedia.org/wiki/Category:火災題材作品 "wikilink") [Category:新界背景電視劇](https://zh.wikipedia.org/wiki/Category:新界背景電視劇 "wikilink") [Category:消防題材電視劇](https://zh.wikipedia.org/wiki/Category:消防題材電視劇 "wikilink")

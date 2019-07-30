@@ -1,6 +1,6 @@
 [Countries_by_Real_GDP_Growth_Rate_(2017).svg](https://zh.wikipedia.org/wiki/File:Countries_by_Real_GDP_Growth_Rate_\(2017\).svg "fig:Countries_by_Real_GDP_Growth_Rate_(2017).svg")
 
-本文包括按实际[GDP](https://zh.wikipedia.org/wiki/GDP "wikilink")[经济增长率排序的国家和](../Page/经济增长.md "wikilink")[属地列表](../Page/属地.md "wikilink")。
+本文包括按实际[GDP](https://zh.wikipedia.org/wiki/GDP "wikilink")[经济增长](../Page/经济增长.md "wikilink")率排序的国家和[属地](../Page/属地.md "wikilink")列表。
 
 ## 列表
 
@@ -997,8 +997,7 @@
 
 <references />
 
-[Category:经济指数](https://zh.wikipedia.org/wiki/Category:经济指数 "wikilink")
-[Category:各国经济相关列表](https://zh.wikipedia.org/wiki/Category:各国经济相关列表 "wikilink")
+[Category:经济指数](https://zh.wikipedia.org/wiki/Category:经济指数 "wikilink") [Category:各国经济相关列表](https://zh.wikipedia.org/wiki/Category:各国经济相关列表 "wikilink")
 
 1.
 2.

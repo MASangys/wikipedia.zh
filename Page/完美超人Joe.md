@@ -1,6 +1,6 @@
 **完美超人JOE**（），是日本遊戲公司[CAPCOM發行的動作遊戲](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")。
 
-2004年10月由[東京電視台播放](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")、同年11月20日發售的[Vジャンプ也有菊池晃弘連載其](https://zh.wikipedia.org/wiki/Vジャンプ "wikilink")[漫画版](https://zh.wikipedia.org/wiki/漫画 "wikilink")。
+2004年10月由[東京電視台](../Page/東京電視台.md "wikilink")播放[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")、同年11月20日發售的[Vジャンプ也有菊池晃弘連載其](https://zh.wikipedia.org/wiki/Vジャンプ "wikilink")[漫画版](https://zh.wikipedia.org/wiki/漫画 "wikilink")。
 
 因為第一作大賣，而成為[四葉草工作室的看版遊戲並發售有數篇續作](https://zh.wikipedia.org/wiki/四葉草工作室 "wikilink")、2007年3月31日由於工作室被解散。現在版権由卡普空持有。
 
@@ -12,9 +12,7 @@
 
 ### 遊戲性
 
-正統的橫向卷軸方式的動作遊戲、對於敵人能用拳及踢來攻擊。不過攻擊時仍會遭到敵人反擊。當打倒一定人數時會得到**VIEWTIFUL值**（**view**（眺望）
-+
-**beautiful**（美麗）組合語）。對於敵人的攻撃能以華麗的「閃躲」來讓敵人露出空隙、並且一擊給與敵人大大的傷害。由於重點在於避開敵人的攻擊，而被認為其靈感來自於街機遊戲「[Punch-Out\!\!](https://zh.wikipedia.org/wiki/Punch-Out!! "wikilink")」。
+正統的橫向卷軸方式的動作遊戲、對於敵人能用拳及踢來攻擊。不過攻擊時仍會遭到敵人反擊。當打倒一定人數時會得到**VIEWTIFUL值**（**view**（眺望） + **beautiful**（美麗）組合語）。對於敵人的攻撃能以華麗的「閃躲」來讓敵人露出空隙、並且一擊給與敵人大大的傷害。由於重點在於避開敵人的攻擊，而被認為其靈感來自於街機遊戲「[Punch-Out\!\!](https://zh.wikipedia.org/wiki/Punch-Out!! "wikilink")」。
 
 另外，喬還可以使用操控影像的**VFX之力**。有著讓動作緩慢的『Slow』、動作變快『MaxSpeed』等各種VFX之力而可以作出有利的打法、另外還可以讓玩家自己得到像是自己陶酔般的「魅力」玩法的爽快感、並且還可以就這樣賺取遊戲裡的獎金。
 
@@ -42,8 +40,7 @@
 <!-- end list -->
 
   -
-    和
-    SLOW相反，會讓画面全体動作都變快。以用來表現出速度感的攝影方法為原型。能夠在高速下連續攻撃、當繼續攻撃時，能對敵人和物品加上火。比起攻撃，主要都用來解謎。「2」中，成為喬專用的VFX之力。
+    和 SLOW相反，會讓画面全体動作都變快。以用來表現出速度感的攝影方法為原型。能夠在高速下連續攻撃、當繼續攻撃時，能對敵人和物品加上火。比起攻撃，主要都用來解謎。「2」中，成為喬專用的VFX之力。
 
 <!-- end list -->
 
@@ -115,8 +112,7 @@
 
 ### 得獎
 
-  - Game Developers Conference2004中得到「Game Developers Choice
-    Awards」。其他作品雖也有得獎、但因為官網被移除而無法確認。
+  - Game Developers Conference2004中得到「Game Developers Choice Awards」。其他作品雖也有得獎、但因為官網被移除而無法確認。
 
 ### 登場人物（遊戲版）
 
@@ -174,7 +170,7 @@
 <!-- end list -->
 
   - 柯魯迪
-    希薇亞的[雙胞胎妹妹](../Page/雙胞胎.md "wikilink")。在操控希薇亞和阿拉斯特時會代替她登場。
+    希薇亞的[雙胞胎](../Page/雙胞胎.md "wikilink")妹妹。在操控希薇亞和阿拉斯特時會代替她登場。
     登場作品：包括一代
 
 <!-- end list -->
@@ -343,7 +339,7 @@
 <!-- end list -->
 
   - 改造超人　梅塔連賈
-    被奪去英雄力的兩人英雄組合。原型來自[假面騎士和](../Page/假面騎士.md "wikilink")[超級戰隊](https://zh.wikipedia.org/wiki/超級戰隊 "wikilink")。
+    被奪去英雄力的兩人英雄組合。原型來自[假面騎士](../Page/假面騎士.md "wikilink")和[超級戰隊](https://zh.wikipedia.org/wiki/超級戰隊 "wikilink")。
 
 <!-- end list -->
 
@@ -364,25 +360,21 @@
 ### 片尾曲
 
   - 「Viewtiful World」
-    藝人：Viewtiful Joe（[DA
-    PUMP的KEN](../Page/DA_PUMP.md "wikilink")、DAI的[長尾大](../Page/長尾大.md "wikilink")、[大渡亮](https://zh.wikipedia.org/wiki/大渡亮 "wikilink")、ZZ的SOTARO、03的古市絢子等五人並且全部都隱藏身份唱歌）
+    藝人：Viewtiful Joe（[DA PUMP的KEN](../Page/DA_PUMP.md "wikilink")、DAI的[長尾大](../Page/長尾大.md "wikilink")、[大渡亮](https://zh.wikipedia.org/wiki/大渡亮 "wikilink")、ZZ的SOTARO、03的古市絢子等五人並且全部都隱藏身份唱歌）
 
 ## 電視動畫
 
 ### 登場人物（動畫版）
 
   - 喬
-    [声](https://zh.wikipedia.org/wiki/声優 "wikilink") -
-    [關智一](../Page/關智一.md "wikilink")(日本)：[李景唐](../Page/李景唐.md "wikilink")(台灣)：[雷霆](../Page/雷霆.md "wikilink")(香港)
-    本作男主角。只要對從藍色大隊長那邊得到的V手錶喊出「HENSHIN A GO-GO
-    BABY\!」就能變身成**完美超人Joe**。和同伴們一起與傑特組織戰鬥。能使用SLOW・MACHSPEED・ZOOM等三種電影特性的必殺技及VFX之力戰鬥。和希薇亞是青梅竹馬和戀人。有個電影播放師的父親‧傑特。設定画中有他的母親和妹妹、不過本編中卻未登場。與小小藍隊長是一起和傑特戰鬥的夥伴。
+    [声](https://zh.wikipedia.org/wiki/声優 "wikilink") - [關智一](../Page/關智一.md "wikilink")(日本)：[李景唐](../Page/李景唐.md "wikilink")(台灣)：[雷霆](../Page/雷霆.md "wikilink")(香港)
+    本作男主角。只要對從藍色大隊長那邊得到的V手錶喊出「HENSHIN A GO-GO BABY\!」就能變身成**完美超人Joe**。和同伴們一起與傑特組織戰鬥。能使用SLOW・MACHSPEED・ZOOM等三種電影特性的必殺技及VFX之力戰鬥。和希薇亞是青梅竹馬和戀人。有個電影播放師的父親‧傑特。設定画中有他的母親和妹妹、不過本編中卻未登場。與小小藍隊長是一起和傑特戰鬥的夥伴。
     是個電影迷和英雄宅。比起戀人，自己的興趣更是優先、只要看到起司堡就衝動地撲上去、由於常常有大意的表現、而老是被小小藍隊長痛罵，也經常被敵人所騙。雖然外表看起來是個充滿缺點的英雄卻擁有真正的英雄魂。在歷經數次的相遇分離及戰鬥後而不斷提昇自給的實力、在傑特篇結束後完成了作為英雄的精神面。最終決戰中、和伊貝魯王的戰鬥裡發揮了真正英雄的實力。
 
 <!-- end list -->
 
   - 希薇亞
-    声 -
-    [桑谷夏子](../Page/桑谷夏子.md "wikilink")(日本)：[馮嘉德](../Page/馮嘉德.md "wikilink")(台灣)：[陸惠玲](../Page/陸惠玲.md "wikilink")(香港)
+    声 - [桑谷夏子](../Page/桑谷夏子.md "wikilink")(日本)：[馮嘉德](../Page/馮嘉德.md "wikilink")(台灣)：[陸惠玲](../Page/陸惠玲.md "wikilink")(香港)
     喬的女友和本作女主角。一開始就被傑特組織抓走、而關在他們的基地中，但從透過自己的好勝心及積極表現而和裡面的小兵的變得相當親近並且因此改善自己的生活環境、以及準備好鍛鍊自己等行動來看、絕對不是一般的柔弱女主角。
     後半段和原作同様得到藍色大隊長所給的V手錶、而可以改變服裝變成**性感希薇亞**來和凱德戰鬥。主要是使用雙槍死亡貝拉多來進行遠距離攻撃。當打中敵人時會讓他們眼冒紅心而聽命於她。另外還可以和喬進行合作技攻擊。
     在她的皮帶中裝有可以封印伊貝魯王，叫作白色膠卷的強大力量。這個白色膠卷是當藍色大隊長失蹤不在時、由小時候的希薇亞不小心闖入他的房間中所找到有著藍色大隊長身影的一部分膠卷。
@@ -390,12 +382,9 @@
 <!-- end list -->
 
   - 小小藍隊長
-    声 -
-    [津村真琴](../Page/津村真琴.md "wikilink")(日本)：[許雲雲](../Page/許雲雲.md "wikilink")(台灣)：[黃鳳英](../Page/黃鳳英.md "wikilink")(香港)
-    動畫原創角色。是電影中的人物、在藍色城鎮中和藍色大隊長一起戰鬥並且在叫作CAPTAIN BLUE\&CAPTAIN BLUE
-    Jr的電影中出道。不過與藍色大隊長沒有任何親屬關係。在傑特篇中使用自作的V手錶和服装而支援粗心大意的喬。使用從敵人身上奪來的滑板和會飛出機械手臂的手槍來和喬一起戰鬥。在旅途中常喬的大意加以責罵。
-    凱德編中丟掉自作的V手錶和服裝、用從藍色大隊長那邊拿到的V[溜溜球並且喊出](../Page/溜溜球.md "wikilink")「HENSHIN
-    A YO-YO BABY\!」來變身。使用多變的溜溜球技巧來玩弄怪人們、對於嬌小的他來說，頭腦就是最好的武器。
+    声 - [津村真琴](../Page/津村真琴.md "wikilink")(日本)：[許雲雲](../Page/許雲雲.md "wikilink")(台灣)：[黃鳳英](../Page/黃鳳英.md "wikilink")(香港)
+    動畫原創角色。是電影中的人物、在藍色城鎮中和藍色大隊長一起戰鬥並且在叫作CAPTAIN BLUE\&CAPTAIN BLUE Jr的電影中出道。不過與藍色大隊長沒有任何親屬關係。在傑特篇中使用自作的V手錶和服装而支援粗心大意的喬。使用從敵人身上奪來的滑板和會飛出機械手臂的手槍來和喬一起戰鬥。在旅途中常喬的大意加以責罵。
+    凱德編中丟掉自作的V手錶和服裝、用從藍色大隊長那邊拿到的V[溜溜球](../Page/溜溜球.md "wikilink")並且喊出「HENSHIN A YO-YO BABY\!」來變身。使用多變的溜溜球技巧來玩弄怪人們、對於嬌小的他來說，頭腦就是最好的武器。
     因為個性認真且擅於用腦、所以常和喬的英雄觀產生衝突，但卻彼此互相信任而存在著叫作拍檔的關係。
     在戰鬥嘉年華中有登場並且配音員和必殺技都一樣。
 
@@ -428,8 +417,7 @@
 <!-- end list -->
 
   - 史普洛凱
-    声 -
-    [淺野麻由美](../Page/淺野麻由美.md "wikilink")(日本)：[許雲雲](../Page/許雲雲.md "wikilink")(台灣)
+    声 - [淺野麻由美](../Page/淺野麻由美.md "wikilink")(日本)：[許雲雲](../Page/許雲雲.md "wikilink")(台灣)
     動畫原創角色。傑特組織的軍師、毎回都會派出新怪人和喬他們戰鬥。在傑特組織被消滅後而加入凱德組織並且發揮她的實力。由於是名[爆乳](https://zh.wikipedia.org/wiki/爆乳 "wikilink")，所以會有把她的衣服拉鍊撐開而又拉上來的習慣。
     在凱德編終盤裡、和查爾斯三世、颶風塔比托、大布魯斯一起背叛克多而活到最後。
     實際上是現實世界中和藍色大隊長一起拍攝電影的工作人員之一。
@@ -498,8 +486,7 @@
   - 音響監督 - 小林克良
   - 音樂- 五木田岳彦、林祐介
   - 動畫製作 - Group Tac
-  - 製作 -
-    [東京電視台](../Page/東京電視台.md "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、we've
+  - 製作 - [東京電視台](../Page/東京電視台.md "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、we've
 
 ### 片頭曲
 
@@ -517,8 +504,7 @@
   - 「And You」
     作詞：Rio 作曲・編曲：Taichi,Rio,Juno 歌：SaGa
   - 「桃源鄉」
-    作詞：川村サイコ 作曲：[D・A・I](../Page/長尾大.md "wikilink") 編曲：水上裕規 歌：[Amasia
-    Landscape](https://zh.wikipedia.org/wiki/Amasia_Landscape "wikilink")
+    作詞：川村サイコ 作曲：[D・A・I](../Page/長尾大.md "wikilink") 編曲：水上裕規 歌：[Amasia Landscape](https://zh.wikipedia.org/wiki/Amasia_Landscape "wikilink")
 
 ### 各話標題
 
@@ -957,21 +943,6 @@ Zong Hyo-shick</p></td>
 
   - [完美超人Joe](https://web.archive.org/web/20100731085722/http://www.capcom.co.jp/vj/)（遊戲版）
   - [完美超人Joe](http://www.tv-tokyo.co.jp/anime/vj/)（動畫版）
-  - [動畫介紹頁(MEDIA
-    NET)](https://web.archive.org/web/20091218172633/http://www.medianet.co.jp/eizo/dvd/VJ/index.html)
+  - [動畫介紹頁(MEDIA NET)](https://web.archive.org/web/20091218172633/http://www.medianet.co.jp/eizo/dvd/VJ/index.html)
 
-[Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
-[Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
-[Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink")
-[Category:任天堂GameCube游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink")
-[Category:2004年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2004年東京電視網動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink")
-[Category:超級英雄電子遊戲](https://zh.wikipedia.org/wiki/Category:超級英雄電子遊戲 "wikilink")
+[Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink") [Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink") [Category:任天堂GameCube游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink") [Category:2004年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2004年東京電視網動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink") [Category:超級英雄電子遊戲](https://zh.wikipedia.org/wiki/Category:超級英雄電子遊戲 "wikilink")

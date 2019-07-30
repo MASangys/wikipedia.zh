@@ -10,12 +10,9 @@
 ## 外部链接
 
   - [Docking@home website](http://docking.cis.udel.edu/)
-  - [Dynamically Adaptive Protein-Ligand Docking
-    System](http://gcl.cis.udel.edu/projects/daplds/)
-  - [Video from
-    Docking@home](http://www.youtube.com/watch?v=0bcgPAV0R7s)
-  - [Volunteer@Home.com — All about volunteer
-    computing](https://web.archive.org/web/20090811022632/http://www.volunteerathome.com/)
+  - [Dynamically Adaptive Protein-Ligand Docking System](http://gcl.cis.udel.edu/projects/daplds/)
+  - [Video from Docking@home](http://www.youtube.com/watch?v=0bcgPAV0R7s)
+  - [Volunteer@Home.com — All about volunteer computing](https://web.archive.org/web/20090811022632/http://www.volunteerathome.com/)
 
 ## 参见
 
@@ -29,7 +26,6 @@
   -
 {{-}}
 
-[Category:分布式计算](https://zh.wikipedia.org/wiki/Category:分布式计算 "wikilink")
-[Category:伯克利开放式网络计算平台](https://zh.wikipedia.org/wiki/Category:伯克利开放式网络计算平台 "wikilink")
+[Category:分布式计算](https://zh.wikipedia.org/wiki/Category:分布式计算 "wikilink") [Category:伯克利开放式网络计算平台](https://zh.wikipedia.org/wiki/Category:伯克利开放式网络计算平台 "wikilink")
 
 1.

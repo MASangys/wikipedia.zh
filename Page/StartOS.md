@@ -2,9 +2,7 @@
 
 ## 版本概要
 
-2009年12月24日Ylmf公司发布基於[Ubuntu](../Page/Ubuntu.md "wikilink")定制、集成[OpenOffice3.1办公软件](https://zh.wikipedia.org/wiki/OpenOffice "wikilink")、高仿[Windows
-XP的](../Page/Windows_XP.md "wikilink")[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")\[1\]\[2\]\[3\]，并命名为Ylmf
-OS。其後推出全英文版本，内置视频播放器[Totem](https://zh.wikipedia.org/wiki/Totem "wikilink")，移除了对[WebQQ和](https://zh.wikipedia.org/wiki/QQ "wikilink")[WebMSN的支持](../Page/MSN.md "wikilink")，采用了[Pidgin](../Page/Pidgin.md "wikilink")。
+2009年12月24日Ylmf公司发布基於[Ubuntu](../Page/Ubuntu.md "wikilink")定制、集成[OpenOffice3.1办公软件](https://zh.wikipedia.org/wiki/OpenOffice "wikilink")、高仿[Windows XP的](../Page/Windows_XP.md "wikilink")[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")\[1\]\[2\]\[3\]，并命名为Ylmf OS。其後推出全英文版本，内置视频播放器[Totem](https://zh.wikipedia.org/wiki/Totem "wikilink")，移除了对[WebQQ和](https://zh.wikipedia.org/wiki/QQ "wikilink")[WebMSN的支持](../Page/MSN.md "wikilink")，采用了[Pidgin](../Page/Pidgin.md "wikilink")。
 
 2011年5月31日发布4.0版本，增加了自带的软件中心，安装包采用ypkg模式打包，和自带多语言（簡體中文、繁體中文和英文）支持。
 
@@ -27,8 +25,7 @@ OS。其後推出全英文版本，内置视频播放器[Totem](https://zh.wikip
   - StartOS 6.0 2013年7月4日（测试版）
   - StartOS 5.1 2012年12月14日
   - StartOS 5.0 2012年10月23日
-  - YlmfOS 4.0（基於[弦歌Linux](http://code.google.com/p/xiangelinux/)）
-    2011年5月31日
+  - YlmfOS 4.0（基於[弦歌Linux](http://code.google.com/p/xiangelinux/)） 2011年5月31日
 
 <!-- end list -->
 
@@ -60,8 +57,7 @@ OS。其後推出全英文版本，内置视频播放器[Totem](https://zh.wikip
 
 ## 图库
 
-YLMF OS 3.png|3.0 YLMF OS 4.0.png|4.0 StartOS-screenshot-5-0.png|5.0
-StartOS-6.0beta.KDE.jpg|6.0beta KDE Ylmf OS Logo.jpg|旧标
+YLMF OS 3.png|3.0 YLMF OS 4.0.png|4.0 StartOS-screenshot-5-0.png|5.0 StartOS-6.0beta.KDE.jpg|6.0beta KDE Ylmf OS Logo.jpg|旧标
 
 ## 相關條目
 
@@ -77,13 +73,8 @@ StartOS-6.0beta.KDE.jpg|6.0beta KDE Ylmf OS Logo.jpg|旧标
 
   - [官方網站](http://www.startos.org/)
 
-[Category:Linux发行版](https://zh.wikipedia.org/wiki/Category:Linux发行版 "wikilink")
-[Category:中國作業系統](https://zh.wikipedia.org/wiki/Category:中國作業系統 "wikilink")
-[Category:Ubuntu衍生版](https://zh.wikipedia.org/wiki/Category:Ubuntu衍生版 "wikilink")
-[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
+[Category:Linux发行版](https://zh.wikipedia.org/wiki/Category:Linux发行版 "wikilink") [Category:中國作業系統](https://zh.wikipedia.org/wiki/Category:中國作業系統 "wikilink") [Category:Ubuntu衍生版](https://zh.wikipedia.org/wiki/Category:Ubuntu衍生版 "wikilink") [Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
 
 1.  [Ylmf OS-雨林木风Linux操作系统](http://www.ylmf.org/index.html)
-2.  [神似Win XP\!雨林木风Ylmf
-    OS多图赏析](http://pcedu.pconline.com.cn/softnews/dongtai/0912/1995414.html)
-3.  [雨林木风推山寨XP操作系统"Ylmf
-    OS"](http://www.it.com.cn/network/hyxw/2009/12/25/10/706240.html)
+2.  [神似Win XP\!雨林木风Ylmf OS多图赏析](http://pcedu.pconline.com.cn/softnews/dongtai/0912/1995414.html)
+3.  [雨林木风推山寨XP操作系统"Ylmf OS"](http://www.it.com.cn/network/hyxw/2009/12/25/10/706240.html)

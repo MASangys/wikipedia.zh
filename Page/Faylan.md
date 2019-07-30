@@ -1,16 +1,14 @@
-**Faylan**（旧称****，，），[日本的](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。[日本](../Page/日本.md "wikilink")[埼玉縣出身](../Page/埼玉縣.md "wikilink")。[Lantis所屬](../Page/Lantis.md "wikilink")。
+**Faylan**（旧称****，，），[日本](../Page/日本.md "wikilink")的[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。[日本](../Page/日本.md "wikilink")[埼玉縣](../Page/埼玉縣.md "wikilink")出身。[Lantis](../Page/Lantis.md "wikilink")所屬。
 
 ## 人物经历
 
-Faylan最早在学习舞蹈，之后入学学习歌唱、作词以及作曲方面的基础。2005年开始歌手活动，主要演唱[电脑游戏的](../Page/电脑游戏.md "wikilink")[主题曲](https://zh.wikipedia.org/wiki/主题曲 "wikilink")。2008年5月加入。2009年7月22日以[Lantis制作的单曲](../Page/Lantis.md "wikilink")《[mind
-as
-Judgment](https://zh.wikipedia.org/wiki/mind_as_Judgment "wikilink")》（电视动画《[CANAAN](../Page/CANAAN.md "wikilink")》的OP主题曲）正式出道。以此为起点，Faylan开始演唱[電視動畫主题曲和插入曲](../Page/日本電視動畫.md "wikilink")，并在日本演艺圈进行其他各类音乐活动。
+Faylan最早在学习舞蹈，之后入学学习歌唱、作词以及作曲方面的基础。2005年开始歌手活动，主要演唱[电脑游戏](../Page/电脑游戏.md "wikilink")的[主题曲](https://zh.wikipedia.org/wiki/主题曲 "wikilink")。2008年5月加入。2009年7月22日以[Lantis](../Page/Lantis.md "wikilink")制作的单曲《[mind as Judgment](https://zh.wikipedia.org/wiki/mind_as_Judgment "wikilink")》（电视动画《[CANAAN](../Page/CANAAN.md "wikilink")》的OP主题曲）正式出道。以此为起点，Faylan开始演唱[電視動畫主题曲和插入曲](../Page/日本電視動畫.md "wikilink")，并在日本演艺圈进行其他各类音乐活动。
 
-Faylan之前所用的艺名“”由[上松範康所取](../Page/上松範康.md "wikilink")\[1\]。作为Faylan的歌曲提供者之一的[藤間仁是Faylan在就读音乐学校期间的同学](../Page/藤間仁.md "wikilink")\[2\]。
+Faylan之前所用的艺名“”由[上松範康](../Page/上松範康.md "wikilink")所取\[1\]。作为Faylan的歌曲提供者之一的[藤間仁](../Page/藤間仁.md "wikilink")是Faylan在就读音乐学校期间的同学\[2\]。
 
 2015年9月1日，Faylan将艺名由之前的****改为**Faylan**\[3\]。
 
-Faylan於2016年1月27日在官方網站上，發表了自己因[自體免疫性疾病將長期休養的消息](../Page/自體免疫性疾病.md "wikilink")，所以未來所有相關工作都將暫時停止。同年9月2日，Faylan在官方網站上称自己經過休養，已經順利回復，並且開始回歸工作。
+Faylan於2016年1月27日在官方網站上，發表了自己因[自體免疫性疾病](../Page/自體免疫性疾病.md "wikilink")將長期休養的消息，所以未來所有相關工作都將暫時停止。同年9月2日，Faylan在官方網站上称自己經過休養，已經順利回復，並且開始回歸工作。
 
 ## 音乐作品
 
@@ -105,7 +103,7 @@ LACM-4778（通常盤）</p></td>
 <td><p>9th</p></td>
 <td><p>2011年4月27日</p></td>
 <td><p>'''  '''</p></td>
-<td><p>電視動畫《<a href="../Page/聖痕鍊金士.md" title="wikilink">聖痕鍊金士II</a>》OP主題曲</p></td>
+<td><p>電視動畫《<a href="../Page/聖痕鍊金士.md" title="wikilink">聖痕鍊金士</a>II》OP主題曲</p></td>
 <td><p>50位</p></td>
 <td><p>LACM-34797（初回盤）<br />
 LACM-4797（通常盤）</p></td>
@@ -166,7 +164,7 @@ LACM-34935（通常盤）</p></td>
 <td><p>16th</p></td>
 <td><p>2013年7月24日</p></td>
 <td><p>'''  '''</p></td>
-<td><p>電視動畫《<a href="../Page/八犬傳－東方八犬異聞－.md" title="wikilink">八犬傳－東方八犬異聞－第二季</a>》OP主題曲</p></td>
+<td><p>電視動畫《<a href="../Page/八犬傳－東方八犬異聞－.md" title="wikilink">八犬傳－東方八犬異聞－</a>第二季》OP主題曲</p></td>
 <td><p>94位</p></td>
 <td><p>LACA-14113</p></td>
 </tr>
@@ -219,19 +217,14 @@ LACM-34935（通常盤）</p></td>
 
   - \-{[【新】飛蘭Official Website「Touch the faylan」](http://www.faylan.jp)}-
 
-  - \-{[【旧】飛蘭Official Website「Touch the
-    faylan」](http://www.s-inc.jp/faylan/)}-
+  - \-{[【旧】飛蘭Official Website「Touch the faylan」](http://www.s-inc.jp/faylan/)}-
 
-  - \-{[株式会社S
-    所属アーティスト](https://web.archive.org/web/20130529191859/http://www.s-inc.jp/artist.html)}-
+  - \-{[株式会社S 所属アーティスト](https://web.archive.org/web/20130529191859/http://www.s-inc.jp/artist.html)}-
 
   - \-{[飛蘭オフィシャルブログ「Touch the faylan」](http://ameblo.jp/faylan/)}-
 
   -
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
-[Category:埼玉縣出身人物](https://zh.wikipedia.org/wiki/Category:埼玉縣出身人物 "wikilink")
+[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink") [Category:埼玉縣出身人物](https://zh.wikipedia.org/wiki/Category:埼玉縣出身人物 "wikilink")
 
 1.
 2.

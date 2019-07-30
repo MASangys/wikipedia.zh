@@ -4,8 +4,7 @@ SPICA计划在2009年仍然处于会议讨论阶段\[2\]。预计SPICA将在2017
 
 ## 构造和设备
 
-SPICA采用口径3.5米的单镜面反射望远镜，主镜将采用碳化硅材料，并可能加入碳纤维以增加镜面的韧性。此外，SPICA将不携带制冷剂，而是和[詹姆斯·韦伯太空望远镜](../Page/詹姆斯·韦伯太空望远镜.md "wikilink")一样完全依靠被动制冷(即在太空中自然冷却)和机械制冷的方式。使用碳化硅和不携带制冷剂两种设计将减轻望远镜的重量。目前估计SPICA的发射重量为2,600千克
-。
+SPICA采用口径3.5米的单镜面反射望远镜，主镜将采用碳化硅材料，并可能加入碳纤维以增加镜面的韧性。此外，SPICA将不携带制冷剂，而是和[詹姆斯·韦伯太空望远镜](../Page/詹姆斯·韦伯太空望远镜.md "wikilink")一样完全依靠被动制冷(即在太空中自然冷却)和机械制冷的方式。使用碳化硅和不携带制冷剂两种设计将减轻望远镜的重量。目前估计SPICA的发射重量为2,600千克 。
 
 SPICA的观测设备有\[3\]：
 
@@ -34,17 +33,11 @@ SPICA的任务顾名思义就是在宇宙学和天体物理领域进行更加深
 
   - [SPICA](http://www.ir.isas.jaxa.jp/SPICA/SPICA_HP/index-en.html)－[JAXA](https://zh.wikipedia.org/wiki/JAXA "wikilink")
 
-  - [宇宙學與天文物理太空紅外線望遠鏡計畫
-    (SPICA)](https://www.asiaa.sinica.edu.tw/project/spica_c.php)
+  - [宇宙學與天文物理太空紅外線望遠鏡計畫 (SPICA)](https://www.asiaa.sinica.edu.tw/project/spica_c.php)
 
-[Category:空间望远镜](https://zh.wikipedia.org/wiki/Category:空间望远镜 "wikilink")
-[Category:红外天文卫星](https://zh.wikipedia.org/wiki/Category:红外天文卫星 "wikilink")
+[Category:空间望远镜](https://zh.wikipedia.org/wiki/Category:空间望远镜 "wikilink") [Category:红外天文卫星](https://zh.wikipedia.org/wiki/Category:红外天文卫星 "wikilink")
 
-1.  [The Next-Generation Infrared Space Mission:
-    SPICA](http://spica.edpsciences.org/index.php?option=article&access=standard&Itemid=129&url=/articles/spica/pdf/2009/01/spica2009_01001.pdf)
+1.  [The Next-Generation Infrared Space Mission: SPICA](http://spica.edpsciences.org/index.php?option=article&access=standard&Itemid=129&url=/articles/spica/pdf/2009/01/spica2009_01001.pdf)
 2.
-3.  [SPICA-Model
-    Payload](http://sci.esa.int/science-e/www/object/index.cfm?fobjectid=42283)
-
-4.  [次世代赤外線天文衛星
-    SPICA](http://aserv.a.phys.nagoya-u.ac.jp/~naoshi/gakujyutsu2/nakagawa.pdf)
+3.  [SPICA-Model Payload](http://sci.esa.int/science-e/www/object/index.cfm?fobjectid=42283)
+4.  [次世代赤外線天文衛星 SPICA](http://aserv.a.phys.nagoya-u.ac.jp/~naoshi/gakujyutsu2/nakagawa.pdf)

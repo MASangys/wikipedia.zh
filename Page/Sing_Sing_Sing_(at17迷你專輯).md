@@ -1,8 +1,4 @@
-**Sing Sing
-Sing**是[香港組合](../Page/香港.md "wikilink")[at17於](https://zh.wikipedia.org/wiki/at17 "wikilink")2006年發行的[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，此限量紀念版EP只供
-“Sing Sing Sing演唱會2006” 觀眾換領，不作公開發售。專輯收綠4首歌曲，包括這次演唱會的主題曲《我們的序幕》，而《Sing
-Sing
-Sing》，原名《歌唱達人》，是at17為主持過的電視節目[勁歌金曲創作的主題曲](../Page/勁歌金曲.md "wikilink")。專輯內的插畫由漫畫創作人[黎達達榮設計](../Page/黎達達榮.md "wikilink")。
+**Sing Sing Sing**是[香港](../Page/香港.md "wikilink")組合[at17於](https://zh.wikipedia.org/wiki/at17 "wikilink")2006年發行的[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，此限量紀念版EP只供 “Sing Sing Sing演唱會2006” 觀眾換領，不作公開發售。專輯收綠4首歌曲，包括這次演唱會的主題曲《我們的序幕》，而《Sing Sing Sing》，原名《歌唱達人》，是at17為主持過的電視節目[勁歌金曲](../Page/勁歌金曲.md "wikilink")創作的主題曲。專輯內的插畫由漫畫創作人[黎達達榮](../Page/黎達達榮.md "wikilink")設計。
 
 ## 曲目
 
@@ -20,7 +16,4 @@ Sing》，原名《歌唱達人》，是at17為主持過的電視節目[勁歌�
 
 [at17官方網頁](http://www.peoplemountainpeoplesea.com/at17/2008version/ThePrototype/index.html)
 
-[Category:at17音樂專輯](https://zh.wikipedia.org/wiki/Category:at17音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:at17音樂專輯](https://zh.wikipedia.org/wiki/Category:at17音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

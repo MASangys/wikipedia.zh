@@ -28,10 +28,7 @@ AGS-17可裝上[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikili
 
 ## 彈藥
 
-[Afgan30mmAutoMinomet.jpg](https://zh.wikipedia.org/wiki/File:Afgan30mmAutoMinomet.jpg "fig:Afgan30mmAutoMinomet.jpg")期間使用的AGS-17榴彈發射器“烈火”，攝於1986年。\]\]
-AGS-17榴彈發射器發射口徑（[不可散式彈鏈接接](../Page/彈鏈.md "wikilink")）[钢](../Page/钢.md "wikilink")彈殼榴彈，有效致命[半径為](https://zh.wikipedia.org/wiki/半径 "wikilink")7—9
-公尺（7.66—9.84
-[码](https://zh.wikipedia.org/wiki/码 "wikilink")）。目前AGS-30可以發射兩種類型的[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，分別是：
+[Afgan30mmAutoMinomet.jpg](https://zh.wikipedia.org/wiki/File:Afgan30mmAutoMinomet.jpg "fig:Afgan30mmAutoMinomet.jpg")期間使用的AGS-17榴彈發射器“烈火”，攝於1986年。\]\] AGS-17榴彈發射器發射口徑（[不可散式彈鏈接接](../Page/彈鏈.md "wikilink")）[钢](../Page/钢.md "wikilink")彈殼榴彈，有效致命[半径為](https://zh.wikipedia.org/wiki/半径 "wikilink")7—9 公尺（7.66—9.84 [码](https://zh.wikipedia.org/wiki/码 "wikilink")）。目前AGS-30可以發射兩種類型的[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，分別是：
 
   - [VOG-17](https://zh.wikipedia.org/wiki/30×29mm#VOG-17 "wikilink")：這是原來可用的30毫米榴彈，只有基本版本的定時引信。
   - [VOG-17M](https://zh.wikipedia.org/wiki/30×29mm#VOG-17M "wikilink")：這是原來可用的30毫米榴彈的改進型版本，並且裝有基本的[高爆](https://zh.wikipedia.org/wiki/炮彈#高爆彈_\(HE\) "wikilink")[破片](../Page/破片杀伤.md "wikilink")[彈頭](../Page/彈頭.md "wikilink")設計。榴彈的[引信](../Page/引信.md "wikilink")[自毀時間為](../Page/自爆.md "wikilink")25—27秒。
@@ -63,9 +60,7 @@ AGS-17榴彈發射器發射口徑（[不可散式彈鏈接接](../Page/彈鏈.md
 
   -
   -
-  - ：命名為**30 KRKK AGS-17**（30：30
-    毫米；KRKK：，意為：**榴彈機槍**；AGS-17：型號），在2005年被[HK
-    GMG自動榴彈發射器所取代](../Page/HK_GMG自動榴彈發射器.md "wikilink")。\[10\]
+  - ：命名為**30 KRKK AGS-17**（30：30 毫米；KRKK：，意為：**榴彈機槍**；AGS-17：型號），在2005年被[HK GMG自動榴彈發射器所取代](../Page/HK_GMG自動榴彈發射器.md "wikilink")。\[10\]
 
   - ：被[格魯吉亞軍隊所採用](https://zh.wikipedia.org/wiki/格魯吉亞軍隊 "wikilink")。\[11\]
 
@@ -106,17 +101,14 @@ AGS-17榴彈發射器發射口徑（[不可散式彈鏈接接](../Page/彈鏈.md
   -
 ### 非國家團體
 
-  - [Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg](https://zh.wikipedia.org/wiki/File:Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg "fig:Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg")
-    [伊拉克和沙姆伊斯蘭國](https://zh.wikipedia.org/wiki/伊拉克和沙姆伊斯蘭國 "wikilink")\[25\]
+  - [Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg](https://zh.wikipedia.org/wiki/File:Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg "fig:Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg") [伊拉克和沙姆伊斯蘭國](https://zh.wikipedia.org/wiki/伊拉克和沙姆伊斯蘭國 "wikilink")\[25\]
 
 ## 流行文化
 
 ### 电影
 
   - 1997年—《》（Чистилище）：被[車臣叛軍的黑人僱傭兵所使用](https://zh.wikipedia.org/wiki/車臣 "wikilink")，後來被[格魯烏](https://zh.wikipedia.org/wiki/格魯烏 "wikilink")[特種部隊所繳獲](https://zh.wikipedia.org/wiki/俄羅斯特種部隊 "wikilink")。
-  - 2005年—《[-{zh-tw:第九突擊隊; zh-hk:第九突擊隊;
-    zh-cn:第九连;}-](../Page/第九突击队.md "wikilink")》（9th
-    Company；）：為3234號山防線的一部分並且被蘇聯傘兵所使用。
+  - 2005年—《[-{zh-tw:第九突擊隊; zh-hk:第九突擊隊; zh-cn:第九连;}-](../Page/第九突击队.md "wikilink")》（9th Company；）：為3234號山防線的一部分並且被蘇聯傘兵所使用。
 
 ## 相關條目
 
@@ -130,19 +122,14 @@ AGS-17榴彈發射器發射口徑（[不可散式彈鏈接接](../Page/彈鏈.md
   - [DP-64榴彈發射器](../Page/DP-64榴彈發射器.md "wikilink")
   - [扎斯塔瓦M93 BGA自動榴彈發射器](../Page/扎斯塔瓦M93_BGA自動榴彈發射器.md "wikilink")
   - [XM174自動榴彈發射器](../Page/XM174自動榴彈發射器.md "wikilink")
-  - [Mk
-    19自動榴彈發射器](../Page/Mk_19自動榴彈發射器.md "wikilink")，由[美国](../Page/美国.md "wikilink")[通用动力](../Page/通用动力.md "wikilink")生產的自動榴彈發射器
+  - [Mk 19自動榴彈發射器](../Page/Mk_19自動榴彈發射器.md "wikilink")，由[美国](../Page/美国.md "wikilink")[通用动力](../Page/通用动力.md "wikilink")生產的自動榴彈發射器
   - [Mk 47自動榴彈發射器](../Page/Mk_47自動榴彈發射器.md "wikilink")
   - [XM307自動榴彈發射器](../Page/XM307自動榴彈發射器.md "wikilink")，已停止研發、採用25毫米智能化榴彈的自動榴彈發射器
-  - [HK
-    GMG自動榴彈發射器](../Page/HK_GMG自動榴彈發射器.md "wikilink")，由[德国](../Page/德国.md "wikilink")[黑克勒-科赫生產的自動榴彈發射器](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")
-  - [CIS 40
-    AGL自动榴弹发射器](../Page/CIS_40_AGL自动榴弹发射器.md "wikilink")，由[新加坡](../Page/新加坡.md "wikilink")生產的自動榴彈發射器
-  - [CZW
-    RAG-30自动榴弹发射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自动榴弹发射器 "wikilink")
+  - [HK GMG自動榴彈發射器](../Page/HK_GMG自動榴彈發射器.md "wikilink")，由[德国](../Page/德国.md "wikilink")[黑克勒-科赫生產的自動榴彈發射器](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")
+  - [CIS 40 AGL自动榴弹发射器](../Page/CIS_40_AGL自动榴弹发射器.md "wikilink")，由[新加坡](../Page/新加坡.md "wikilink")生產的自動榴彈發射器
+  - [CZW RAG-30自动榴弹发射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自动榴弹发射器 "wikilink")
   - [丹尼爾Y3自動榴彈發射器](../Page/丹尼爾Y3自動榴彈發射器.md "wikilink")，由[南非生產的自動榴彈發射器](https://zh.wikipedia.org/wiki/南非 "wikilink")
-  - [SB LAG
-    40自動榴彈發射器](https://zh.wikipedia.org/wiki/SB_LAG_40自動榴彈發射器 "wikilink")，由[西班牙](../Page/西班牙.md "wikilink")生產的自動榴彈發射器
+  - [SB LAG 40自動榴彈發射器](https://zh.wikipedia.org/wiki/SB_LAG_40自動榴彈發射器 "wikilink")，由[西班牙](../Page/西班牙.md "wikilink")生產的自動榴彈發射器
   - [87式自動榴彈發射器](../Page/87式自動榴彈發射器.md "wikilink")
   - [04式自动榴弹发射器](../Page/04式自动榴弹发射器.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
@@ -161,51 +148,35 @@ AGS-17榴彈發射器發射口徑（[不可散式彈鏈接接](../Page/彈鏈.md
 
 ## 外部連結
 
-  - —[Modern Firearms—AGS-17 automatic grenade
-    launcher](http://world.guns.ru/grenade/rus/ags-17-e.html)
+  - —[Modern Firearms—AGS-17 automatic grenade launcher](http://world.guns.ru/grenade/rus/ags-17-e.html)
 
-  - —[Weapon.ge—KBP
-    AGS-17](http://georgians.weapon.ge/index.php?sel=1&id=287&man=&coun=&cat=12&l=en)
+  - —[Weapon.ge—KBP AGS-17](http://georgians.weapon.ge/index.php?sel=1&id=287&man=&coun=&cat=12&l=en)
 
-  - —[Russian Small Arms - AGS-17 automatic mounted grenade
-    launcher](http://rusguns.net/?GRENADE_LAUNCHERS/AGS-17_automatic_mounted_grenade_launcher)
+  - —[Russian Small Arms - AGS-17 automatic mounted grenade launcher](http://rusguns.net/?GRENADE_LAUNCHERS/AGS-17_automatic_mounted_grenade_launcher)
 
-  - —[Military, Security and Civilian Guns and Equipment—KBP AGS-17
-    Plamya
-    (Flame)](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=115)
+  - —[Military, Security and Civilian Guns and Equipment—KBP AGS-17 Plamya (Flame)](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=115)
 
-  - —[Zonawar.ru—AGS-17 automatic mounted grenade
-    launcher](https://web.archive.org/web/20121017135601/http://zonawar.ru/rash_guns/rg_granatomet_ags-17_eng.html)
+  - —[Zonawar.ru—AGS-17 automatic mounted grenade launcher](https://web.archive.org/web/20121017135601/http://zonawar.ru/rash_guns/rg_granatomet_ags-17_eng.html)
 
   - —[weaponsystems.net－AGS-17](http://weaponsystems.net/weapon.php?weapon=BB02%20-%20AGS-17)
 
   - —[АГС-17 Пламя](http://www.army.lv/?s=143&id=95)
 
-  - —[Видео на RuTube.ru: Военное дело: Гранатометы. АГС-17 «Пламя»,
-    АГС-30.](https://web.archive.org/web/20091124171339/http://rutube.ru/tracks/689580.html?v=041a335875dafbb1059fd40e83f1ee60)
+  - —[Видео на RuTube.ru: Военное дело: Гранатометы. АГС-17 «Пламя», АГС-30.](https://web.archive.org/web/20091124171339/http://rutube.ru/tracks/689580.html?v=041a335875dafbb1059fd40e83f1ee60)
 
   - —
 
-  - —[D Boy Gun
-    World（槍炮世界）—AGS-17自动榴弹发射器](http://firearmsworld.net/russain/gl/ags17/ags17.htm)
+  - —[D Boy Gun World（槍炮世界）—AGS-17自动榴弹发射器](http://firearmsworld.net/russain/gl/ags17/ags17.htm)
 
-[Category:30毫米口径武器](https://zh.wikipedia.org/wiki/Category:30毫米口径武器 "wikilink")
-[Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink")
-[Category:全自動型榴彈發射器](https://zh.wikipedia.org/wiki/Category:全自動型榴彈發射器 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")
+[Category:30毫米口径武器](https://zh.wikipedia.org/wiki/Category:30毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:全自動型榴彈發射器](https://zh.wikipedia.org/wiki/Category:全自動型榴彈發射器 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")
 
 1.  АГС，全寫：，意為：全自動榴彈發射器
 
 2.  [俄军的“死亡联合收割机”：BMPT坦克支援战车](http://news.xinhuanet.com/mil/2008-01/08/content_7385583.htm)，新华网，2008年1月8日，于2010年3月19日查阅。
 
-3.  [Arcus AR-ROG defensive hand grenade (Bulgaria), Grenades -
-    Hand](http://articles.janes.com/articles/Janes-Infantry-Weapons/Arcus-AR-ROG-defensive-hand-grenade-Bulgaria.html)
+3.  [Arcus AR-ROG defensive hand grenade (Bulgaria), Grenades - Hand](http://articles.janes.com/articles/Janes-Infantry-Weapons/Arcus-AR-ROG-defensive-hand-grenade-Bulgaria.html)
 
-4.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's
-    Information Group; 35 edition (January 27, 2009). ISBN
-    978-0710628695.
+4.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0710628695.
 
 5.
 6.
@@ -230,7 +201,6 @@ AGS-17榴彈發射器發射口徑（[不可散式彈鏈接接](../Page/彈鏈.md
 21.
 22.
 23.
-24. [The FSA Captures An Unusual
-    Weapon](http://brown-moses.blogspot.co.uk/2012/07/the-fsa-captures-unusual-weapon.html)
+24. [The FSA Captures An Unusual Weapon](http://brown-moses.blogspot.co.uk/2012/07/the-fsa-captures-unusual-weapon.html)
 
 25.

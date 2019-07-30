@@ -62,9 +62,7 @@ CTCF可能和Y box结合蛋白1有相互作用\[21\]。黏连蛋白对CTCF形成
   -
   -
   -
-[Category:人类蛋白质](https://zh.wikipedia.org/wiki/Category:人类蛋白质 "wikilink")
-[Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink")
-[Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink")
+[Category:人类蛋白质](https://zh.wikipedia.org/wiki/Category:人类蛋白质 "wikilink") [Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink") [Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink")
 
 1.
 

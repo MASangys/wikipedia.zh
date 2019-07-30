@@ -1,7 +1,4 @@
-《**Monopoly City
-Streets**》是一款2009年9月9日至12月9日\[1\]運作的[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，改編自[图版游戏](https://zh.wikipedia.org/wiki/图版游戏 "wikilink")[-{zh-hans:大富翁;zh-tw:地產大享;zh-hk:大富翁}-](https://zh.wikipedia.org/wiki/大富翁 "wikilink")。玩者根據真實世界的地圖去購買街道並發展自己的物業。從而賺取更多金錢購買土地。遊戲地圖使用[Google
-Maps及](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")[OpenStreetMap](https://zh.wikipedia.org/wiki/OpenStreetMap "wikilink")\[2\]。由[孩之寶](../Page/孩之寶.md "wikilink")廣告代理商[Tribal
-DDB開發](https://zh.wikipedia.org/wiki/Tribal_DDB "wikilink")。
+《**Monopoly City Streets**》是一款2009年9月9日至12月9日\[1\]運作的[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，改編自[图版游戏](https://zh.wikipedia.org/wiki/图版游戏 "wikilink")[-{zh-hans:大富翁;zh-tw:地產大享;zh-hk:大富翁}-](https://zh.wikipedia.org/wiki/大富翁 "wikilink")。玩者根據真實世界的地圖去購買街道並發展自己的物業。從而賺取更多金錢購買土地。遊戲地圖使用[Google Maps及](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")[OpenStreetMap](https://zh.wikipedia.org/wiki/OpenStreetMap "wikilink")\[2\]。由[孩之寶](../Page/孩之寶.md "wikilink")廣告代理商[Tribal DDB開發](https://zh.wikipedia.org/wiki/Tribal_DDB "wikilink")。
 
 ## 目標
 
@@ -31,15 +28,10 @@ DDB開發](https://zh.wikipedia.org/wiki/Tribal_DDB "wikilink")。
 
 ## 外部連結
 
-  - 《[Monopoly City
-    Streets](https://web.archive.org/web/20090904201250/http://www.monopolycitystreets.com/)》的官方網站
+  - 《[Monopoly City Streets](https://web.archive.org/web/20090904201250/http://www.monopolycitystreets.com/)》的官方網站
   - [官方Twitter](http://twitter.com/monopolycitysts)
 
-[Category:2009年電子遊戲](https://zh.wikipedia.org/wiki/Category:2009年電子遊戲 "wikilink")
-[Category:战略游戏](https://zh.wikipedia.org/wiki/Category:战略游戏 "wikilink")
-[Category:即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:即時戰略遊戲 "wikilink")
-[Category:多人电子游戏](https://zh.wikipedia.org/wiki/Category:多人电子游戏 "wikilink")
-[Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
+[Category:2009年電子遊戲](https://zh.wikipedia.org/wiki/Category:2009年電子遊戲 "wikilink") [Category:战略游戏](https://zh.wikipedia.org/wiki/Category:战略游戏 "wikilink") [Category:即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:即時戰略遊戲 "wikilink") [Category:多人电子游戏](https://zh.wikipedia.org/wiki/Category:多人电子游戏 "wikilink") [Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
 
 1.
 
@@ -48,9 +40,7 @@ DDB開發](https://zh.wikipedia.org/wiki/Tribal_DDB "wikilink")。
 3.
 4.  [Changes...](http://blog.monopolycitystreets.com/2009/09/changes.html)
 
-
 5.
 
 6.
-7.  [A few answers to
-    FAQ](http://blog.monopolycitystreets.com/2009/09/few-answers-to-faq_12.html)
+7.  [A few answers to FAQ](http://blog.monopolycitystreets.com/2009/09/few-answers-to-faq_12.html)

@@ -6,10 +6,7 @@
 
   - [WorldWideWeb的模拟器](https://worldwideweb.cern.ch/browser)
 
-[Category:1990年軟體](https://zh.wikipedia.org/wiki/Category:1990年軟體 "wikilink")
-[Category:自由網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:自由網頁瀏覽器 "wikilink")
-[Category:自由HTML編輯器](https://zh.wikipedia.org/wiki/Category:自由HTML編輯器 "wikilink")
-[Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink")
+[Category:1990年軟體](https://zh.wikipedia.org/wiki/Category:1990年軟體 "wikilink") [Category:自由網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:自由網頁瀏覽器 "wikilink") [Category:自由HTML編輯器](https://zh.wikipedia.org/wiki/Category:自由HTML編輯器 "wikilink") [Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink")
 
 1.
 2.

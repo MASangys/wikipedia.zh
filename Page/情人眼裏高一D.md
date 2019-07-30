@@ -1,5 +1,4 @@
-《**情人眼裏高一D**\[1\]》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝愛情[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")、[王祖藍](../Page/王祖藍.md "wikilink")、[阮小儀](../Page/阮小儀.md "wikilink")及[徐子珊](../Page/徐子珊.md "wikilink")領銜主演，全劇共8集，編審[黃洋達](../Page/黃洋達.md "wikilink")、[潘漫紅](../Page/潘漫紅.md "wikilink")，監製[黃偉聲](../Page/黃偉聲.md "wikilink")。此劇為
-2010「愛的季節」呈獻劇集。
+《**情人眼裏高一D**\[1\]》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝愛情[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")、[王祖藍](../Page/王祖藍.md "wikilink")、[阮小儀](../Page/阮小儀.md "wikilink")及[徐子珊](../Page/徐子珊.md "wikilink")領銜主演，全劇共8集，編審[黃洋達](../Page/黃洋達.md "wikilink")、[潘漫紅](../Page/潘漫紅.md "wikilink")，監製[黃偉聲](../Page/黃偉聲.md "wikilink")。此劇為 2010「愛的季節」呈獻劇集。
 
 ## 演員表
 
@@ -379,27 +378,18 @@
 
 ## 參考
 
-  - [藝人月曆 - 藝人 -
-    tvb.com](https://web.archive.org/web/20091206044122/http://artiste.tvb.com/calendar/list/2009/12/10)
-  - [太陽報 -
-    王祖藍醜男變靚賀新年](http://the-sun.on.cc/cnt/entertainment/20091209/00470_017.html)
+  - [藝人月曆 - 藝人 - tvb.com](https://web.archive.org/web/20091206044122/http://artiste.tvb.com/calendar/list/2009/12/10)
+  - [太陽報 - 王祖藍醜男變靚賀新年](http://the-sun.on.cc/cnt/entertainment/20091209/00470_017.html)
   - [蘋果日報-無綫賀年短劇影射謝安琪](http://hk.apple.nextmedia.com/realtime/art_main.php?iss_id=20091210&sec_id=7018882&art_id=13510195)
   - [蘋果日報-新劇明寸Kay迅戀](http://hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20091211&sec_id=462&subsec_id=830&art_id=13511459TVB)
-  - [星島日報-苟芸慧帶病舌戰連環咀
-    Bosco祖藍中毒吻交叉感染](http://hk.music.yahoo.com/magazine-news-article.html?uid=744652)
+  - [星島日報-苟芸慧帶病舌戰連環咀 Bosco祖藍中毒吻交叉感染](http://hk.music.yahoo.com/magazine-news-article.html?uid=744652)
 
 ## 外部連結
 
-  - [《情人眼裏高一D》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222160233/http://gotv.tvb.com/programme/102635/152859/)
+  - [《情人眼裏高一D》 GOTV 第1集重溫](https://web.archive.org/web/20140222160233/http://gotv.tvb.com/programme/102635/152859/)
 
 ## 電視節目的變遷
 
-[Category:2010年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2010年無綫電視劇集 "wikilink")
-[Category:2010年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2010年AOD電視劇集 "wikilink")
-[Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink")
-[Category:無綫電視愛的季節劇集](https://zh.wikipedia.org/wiki/Category:無綫電視愛的季節劇集 "wikilink")
-[Category:無綫電視賀歲劇集](https://zh.wikipedia.org/wiki/Category:無綫電視賀歲劇集 "wikilink")
-[Category:無綫電視奇幻劇集](https://zh.wikipedia.org/wiki/Category:無綫電視奇幻劇集 "wikilink")
+[Category:2010年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2010年無綫電視劇集 "wikilink") [Category:2010年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2010年AOD電視劇集 "wikilink") [Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink") [Category:無綫電視愛的季節劇集](https://zh.wikipedia.org/wiki/Category:無綫電視愛的季節劇集 "wikilink") [Category:無綫電視賀歲劇集](https://zh.wikipedia.org/wiki/Category:無綫電視賀歲劇集 "wikilink") [Category:無綫電視奇幻劇集](https://zh.wikipedia.org/wiki/Category:無綫電視奇幻劇集 "wikilink")
 
 1.

@@ -2,9 +2,6 @@
 
 ## 外部連結
 
-  - [Re Multiple
-    Sclerosis](https://web.archive.org/web/20120213162829/http://www.msrc.co.uk/index.cfm?fuseaction=show&pageid=1861)
+  - [Re Multiple Sclerosis](https://web.archive.org/web/20120213162829/http://www.msrc.co.uk/index.cfm?fuseaction=show&pageid=1861)
 
-[Category:氨基葡萄糖](https://zh.wikipedia.org/wiki/Category:氨基葡萄糖 "wikilink")
-[Category:乙酰胺](https://zh.wikipedia.org/wiki/Category:乙酰胺 "wikilink")
-[Category:膜生物学](https://zh.wikipedia.org/wiki/Category:膜生物学 "wikilink")
+[Category:氨基葡萄糖](https://zh.wikipedia.org/wiki/Category:氨基葡萄糖 "wikilink") [Category:乙酰胺](https://zh.wikipedia.org/wiki/Category:乙酰胺 "wikilink") [Category:膜生物学](https://zh.wikipedia.org/wiki/Category:膜生物学 "wikilink")

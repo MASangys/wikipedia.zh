@@ -1,4 +1,4 @@
-《**La☆BlueGirl**》是[日本淫獸始祖](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")的[成人漫畫作品](https://zh.wikipedia.org/wiki/成人漫畫 "wikilink")\[1\]，為1990年代[觸手](../Page/觸手.md "wikilink")[淫獸的代表性作品](https://zh.wikipedia.org/wiki/淫獸 "wikilink")，後來發售[成人動畫系列並開始用](../Page/成人動畫.md "wikilink")《**淫獸學園**》（）的名稱\[2\]及真人版本電影等。
+《**La☆BlueGirl**》是[日本](../Page/日本.md "wikilink")淫獸始祖[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")的[成人漫畫作品](https://zh.wikipedia.org/wiki/成人漫畫 "wikilink")\[1\]，為1990年代[觸手](../Page/觸手.md "wikilink")[淫獸的代表性作品](https://zh.wikipedia.org/wiki/淫獸 "wikilink")，後來發售[成人動畫](../Page/成人動畫.md "wikilink")系列並開始用《**淫獸學園**》（）的名稱\[2\]及真人版本電影等。
 
 ## 角色
 
@@ -23,25 +23,11 @@
   - [IMDB（1992年OVA版）](http://www.imdb.com/title/tt0148332/)
   - [allcinema（1992年OVA版）](http://www.allcinema.net/prog/show_c.php?num_c=236752)
   - [allcinema（淫獣学園EX）](http://www.allcinema.net/prog/show_c.php?num_c=159905)
-  - [allcinema（実写版 淫獣学園
-    色魔界の逆襲）](http://www.allcinema.net/prog/show_c.php?num_c=86632)
-  - [allcinema（実写版 淫獣学園2
-    魔性の娘誕生）](http://www.allcinema.net/prog/show_c.php?num_c=87363)
-  - [allcinema（実写版 淫獣学園3
-    くノ一狩り）](http://www.allcinema.net/prog/show_c.php?num_c=87364)
+  - [allcinema（実写版 淫獣学園 色魔界の逆襲）](http://www.allcinema.net/prog/show_c.php?num_c=86632)
+  - [allcinema（実写版 淫獣学園2 魔性の娘誕生）](http://www.allcinema.net/prog/show_c.php?num_c=87363)
+  - [allcinema（実写版 淫獣学園3 くノ一狩り）](http://www.allcinema.net/prog/show_c.php?num_c=87364)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:成人漫畫](https://zh.wikipedia.org/wiki/Category:成人漫畫 "wikilink")
-[Category:忍者漫畫](https://zh.wikipedia.org/wiki/Category:忍者漫畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:1992年日本成人動畫](https://zh.wikipedia.org/wiki/Category:1992年日本成人動畫 "wikilink")
-[Category:忍者題材作品](https://zh.wikipedia.org/wiki/Category:忍者題材作品 "wikilink")
-[Category:Pierrot_PLUS](https://zh.wikipedia.org/wiki/Category:Pierrot_PLUS "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:成人漫畫](https://zh.wikipedia.org/wiki/Category:成人漫畫 "wikilink") [Category:忍者漫畫](https://zh.wikipedia.org/wiki/Category:忍者漫畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:1992年日本成人動畫](https://zh.wikipedia.org/wiki/Category:1992年日本成人動畫 "wikilink") [Category:忍者題材作品](https://zh.wikipedia.org/wiki/Category:忍者題材作品 "wikilink") [Category:Pierrot_PLUS](https://zh.wikipedia.org/wiki/Category:Pierrot_PLUS "wikilink")
 
-1.  [La Blue Girl
-    (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=2433)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-2.  [La Blue Girl
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=473)Anime
-    News Network
+1.  [La Blue Girl (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=2433)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+2.  [La Blue Girl (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=473)Anime News Network

@@ -40,16 +40,11 @@ DC漫画的主要竞争对手[漫威漫画同样采用类似的平行宇宙世�
 
 ## 外部链接
 
-  - [The Unauthorized Chronology of the DC
-    Universe](http://dcu.smartmemes.com/)
-  - [The Unofficial Guide to the DC
-    Universe](http://www.dcuwiki.net/w/Main_Page)
+  - [The Unauthorized Chronology of the DC Universe](http://dcu.smartmemes.com/)
+  - [The Unofficial Guide to the DC Universe](http://www.dcuwiki.net/w/Main_Page)
   - [DC Universe Chronology](http://www.sequart.com/DCUchronology.htm)
   - [Mike's Amazing World of DC Comics](http://www.dcindexes.com/)
-  - [The word "universe" in this
-    context](http://arquivo.pt/wayback/20091016112147/http://www.toonopedia.com/glossary.htm#universe)
+  - [The word "universe" in this context](http://arquivo.pt/wayback/20091016112147/http://www.toonopedia.com/glossary.htm#universe)
   - [Cosmic Teams\!](http://www.cosmicteams.com/)
 
-[Category:DC漫画维度](https://zh.wikipedia.org/wiki/Category:DC漫画维度 "wikilink")
-[Category:虚构宇宙](https://zh.wikipedia.org/wiki/Category:虚构宇宙 "wikilink")
-[Category:人造神話](https://zh.wikipedia.org/wiki/Category:人造神話 "wikilink")
+[Category:DC漫画维度](https://zh.wikipedia.org/wiki/Category:DC漫画维度 "wikilink") [Category:虚构宇宙](https://zh.wikipedia.org/wiki/Category:虚构宇宙 "wikilink") [Category:人造神話](https://zh.wikipedia.org/wiki/Category:人造神話 "wikilink")

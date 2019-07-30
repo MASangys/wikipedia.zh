@@ -1,6 +1,4 @@
-**ONE PIECE動畫集數列表**列舉由漫畫《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》所改編的同名電視動畫《[ONE
-PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数。
+**ONE PIECE動畫集數列表**列舉由漫畫《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》所改編的同名電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数。
 
   - 各段標題的篇名依照日本DVD收錄之分類。
 
@@ -6271,7 +6269,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 
 ### 19th 圓蛋糕島篇
 
-  - 台灣台視為“航海王第23季\[8\]～第24季\[9\]”
+  - 台灣台視為“航海王第23季\[8\]～第24季前半\[9\]”
 
 <table>
 <thead>
@@ -6986,6 +6984,8 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 
 ### 20th 世界會議篇
 
+  - 台灣台視為“航海王第24季後半\[10\]～第25季前半\[11\]”
+
 <table>
 <thead>
 <tr class="header">
@@ -7056,14 +7056,14 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 </tr>
 <tr class="odd">
 <td><p>885</p></td>
-<td><p>聖地的黑暗 神秘的巨大草帽</p></td>
+<td><p>聖地的暗影 神秘的巨大草帽</p></td>
 <td></td>
 <td><p>田中仁</p></td>
 <td><p>上田芳裕</p></td>
 </tr>
 <tr class="even">
 <td><p>886</p></td>
-<td><p>聖地騷動 被盯上的白星公主</p></td>
+<td><p>聖地騷然 被盯上的白星公主</p></td>
 <td></td>
 <td><p>冨岡淳広</p></td>
 <td><p>細田雅弘</p></td>
@@ -7135,6 +7135,41 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 <td></td>
 <td><p>米村正二</p></td>
 <td><p>長峯達也</p></td>
+</tr>
+<tr class="odd">
+<td><p>893</p></td>
+<td><p>玉兒登場 魯夫VS海道軍</p></td>
+<td></td>
+<td><p>冨岡淳広</p></td>
+<td><p>暮田公平</p></td>
+</tr>
+<tr class="even">
+<td><p>894</p></td>
+<td><p>一定會來 和之國的艾斯傳說</p></td>
+<td></td>
+<td><p>田中仁</p></td>
+<td><p>小牧文</p></td>
+</tr>
+<tr class="odd">
+<td><p>895</p></td>
+<td><p>特別篇 最強的賞金獵人西德爾</p></td>
+<td></td>
+<td><p>冨岡淳広</p></td>
+<td><p>中島豊</p></td>
+</tr>
+<tr class="even">
+<td><p>896</p></td>
+<td><p>特別篇 魯夫VS碳酸王</p></td>
+<td></td>
+<td><p>佐藤宏幸</p></td>
+<td><p>新垣重文</p></td>
+</tr>
+<tr class="odd">
+<td><p>897</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -7237,8 +7272,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 <tr class="even">
 <td><p>426</p></td>
 <td><p><a href="../Page/ONE_PIECE_FILM_強者天下.md" title="wikilink">Strong World</a><br />
-電影連動<br />
-特別篇</p></td>
+電影連動特別篇</p></td>
 <td><p>電影連動特別篇 金獅子蠢蠢欲動的野心！</p></td>
 <td><p>上坂浩彥</p></td>
 <td><p>宮元宏彰</p></td>
@@ -7292,8 +7326,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 <tr class="even">
 <td><p>575</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z" title="wikilink">FILM Z</a><br />
-電影連動<br />
-特別篇</p></td>
+電影連動特別篇</p></td>
 <td><p>Z的野心篇 小小巨人莉莉</p></td>
 <td><p>上坂浩彥</p></td>
 <td><p>小牧文</p></td>
@@ -7337,8 +7370,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 <tr class="even">
 <td><p>747</p></td>
 <td><p><a href="../Page/ONE_PIECE_FILM_GOLD.md" title="wikilink">GOLD</a><br />
-電影連動<br />
-特別篇</p></td>
+電影連動特別篇</p></td>
 <td><p>銀之要塞 魯夫和巴特大冒險</p></td>
 <td><p>田中仁</p></td>
 <td><p>上田芳裕</p></td>
@@ -7380,6 +7412,23 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 小泉昇</p></td>
 <td><p>白石美穂</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>895</p></td>
+<td><p><a href="../Page/ONE_PIECE_STAMPEDE.md" title="wikilink">奪寶爭霸戰</a><br />
+電影連動特別篇</p></td>
+<td><p>特別篇 最強的賞金獵人西德爾<br />
+<small></small></p></td>
+<td><p>冨岡淳広</p></td>
+<td><p>中島豊</p></td>
+</tr>
+<tr class="odd">
+<td><p>896</p></td>
+<td><p>特別篇 魯夫VS碳酸王<br />
+<small></small></p></td>
+<td><p>佐藤宏幸</p></td>
+<td><p>新垣重文</p></td>
+<td><p>白石美穂</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -7643,8 +7692,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 
 ## 相關連結
 
-[Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
-[Category:日本動畫集數列表](https://zh.wikipedia.org/wiki/Category:日本動畫集數列表 "wikilink")
+[Category:ONE_PIECE作品](https://zh.wikipedia.org/wiki/Category:ONE_PIECE作品 "wikilink") [Category:日本動畫集數列表](https://zh.wikipedia.org/wiki/Category:日本動畫集數列表 "wikilink")
 
 1.  台灣的衛視中文台為“航海王第6季”與“航海王第7季”
 2.  台灣部分：台灣電視台(台視)為航海王第16,17季，衛視中文台為航海王第11季
@@ -7654,4 +7702,6 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 6.  台灣的台視為“航海王第20季”，衛視中文台為“航海王第14季”與“航海王第15季”
 7.  台灣的台視為“航海王第21季”與“航海王第22季前面一部分”，衛視中文台為“航海王第15季”
 8.  航海王第23季集數為第783～834話。
-9.  航海王第24季集數為第835話起至今。
+9.  航海王第24季前半集數為第835～877話。
+10. 航海王第24季集數為第878～886話。
+11. 航海王第25季前半集數為第887話至今。

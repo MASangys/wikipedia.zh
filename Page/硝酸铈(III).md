@@ -1,5 +1,4 @@
-**硝酸铈(III)**（cerium(III)
-nitrate）是一种无机化合物，以六水合物Ce(NO<sub>3</sub>)<sub>3</sub>·6H<sub>2</sub>O最为常见。
+**硝酸铈(III)**（cerium(III) nitrate）是一种无机化合物，以六水合物Ce(NO<sub>3</sub>)<sub>3</sub>·6H<sub>2</sub>O最为常见。
 
 ## 性质
 
@@ -14,8 +13,7 @@ nitrate）是一种无机化合物，以六水合物Ce(NO<sub>3</sub>)<sub>3</su
 硝酸溶解[碳酸铈](../Page/碳酸铈.md "wikilink")也能制得产物：\[2\]
 
   -
-    Ce<sub>2</sub>(CO<sub>3</sub>)<sub>3</sub> + HNO<sub>3</sub> →
-    Ce(NO<sub>3</sub>)<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub>↑
+    Ce<sub>2</sub>(CO<sub>3</sub>)<sub>3</sub> + HNO<sub>3</sub> → Ce(NO<sub>3</sub>)<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub>↑
 
 ## 用途
 
@@ -25,16 +23,9 @@ nitrate）是一种无机化合物，以六水合物Ce(NO<sub>3</sub>)<sub>3</su
 
 ## 拓展阅读
 
-  - 杜云艳, 李晓杰, 王小红,等.
-    [硝酸铈爆轰制备球形纳米CeO<sub>2</sub>颗粒](http://xueshu.baidu.com/s?wd=paperuri%3A%2892228d46d2e17ff4cec99b294ef78251%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.docin.com%2Fp-1756643121.html&ie=utf-8&sc_us=3746184963676715524)\[J\].
-    爆炸与冲击, 2009, 29(1):41-44.
+  - 杜云艳, 李晓杰, 王小红,等. [硝酸铈爆轰制备球形纳米CeO<sub>2</sub>颗粒](http://xueshu.baidu.com/s?wd=paperuri%3A%2892228d46d2e17ff4cec99b294ef78251%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.docin.com%2Fp-1756643121.html&ie=utf-8&sc_us=3746184963676715524)\[J\]. 爆炸与冲击, 2009, 29(1):41-44.
 
-[Category:三价铈化合物](https://zh.wikipedia.org/wiki/Category:三价铈化合物 "wikilink")
-[Category:硝酸盐](https://zh.wikipedia.org/wiki/Category:硝酸盐 "wikilink")
+[Category:三价铈化合物](https://zh.wikipedia.org/wiki/Category:三价铈化合物 "wikilink") [Category:硝酸盐](https://zh.wikipedia.org/wiki/Category:硝酸盐 "wikilink")
 
-1.  [硝酸铈](https://www.chemicalbook.com/ProductChemicalPropertiesCB5173561.htm).
-    Chemical Book. \[2018-2-14\]
-2.  龙志奇, 朱兆武, 崔大立,等.
-    [碳酸氢铵沉淀法制备超细CeO<sub>2</sub>粉体工艺条件研究](http://xueshu.baidu.com/s?wd=paperuri%3A%2843146a9694033f0ffa3c8859cd6939f4%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.docin.com%2Fp-1579941175.html&ie=utf-8&sc_us=13370067456607770811)\[J\].
-    [稀土](https://zh.wikipedia.org/wiki/稀土_\(期刊\) "wikilink"), 2005,
-    26(5):4-8.
+1.  [硝酸铈](https://www.chemicalbook.com/ProductChemicalPropertiesCB5173561.htm). Chemical Book. \[2018-2-14\]
+2.  龙志奇, 朱兆武, 崔大立,等. [碳酸氢铵沉淀法制备超细CeO<sub>2</sub>粉体工艺条件研究](http://xueshu.baidu.com/s?wd=paperuri%3A%2843146a9694033f0ffa3c8859cd6939f4%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.docin.com%2Fp-1579941175.html&ie=utf-8&sc_us=13370067456607770811)\[J\]. [稀土](https://zh.wikipedia.org/wiki/稀土_\(期刊\) "wikilink"), 2005, 26(5):4-8.

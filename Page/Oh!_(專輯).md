@@ -1,22 +1,16 @@
-《**Oh\!**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[少女時代的正規第二張專輯](https://zh.wikipedia.org/wiki/少女時代 "wikilink")\[1\]，在韓國預售近15萬張\[2\]，成績超乎預期。而與專輯同名的主打歌〈Oh\!〉，在1月25日網路上首次發布後，十分鐘之內就在Real
-Time音樂排行榜站上榜首\[3\]。
+《**Oh\!**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[少女時代的正規第二張專輯](https://zh.wikipedia.org/wiki/少女時代 "wikilink")\[1\]，在韓國預售近15萬張\[2\]，成績超乎預期。而與專輯同名的主打歌〈Oh\!〉，在1月25日網路上首次發布後，十分鐘之內就在Real Time音樂排行榜站上榜首\[3\]。
 
 ## 紀錄
 
 ### 彩蛋
 
-此MV中間橋段；[崔秀英打翻飲料而飲料流至電腦使電腦異常](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")，導致MV最後有另一群黑暗女孩來踢館，此即[少女時代下一首歌的造型](https://zh.wikipedia.org/wiki/少女時代 "wikilink")（
-"黑暗少女時代"）。
+此MV中間橋段；[崔秀英打翻飲料而飲料流至電腦使電腦異常](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")，導致MV最後有另一群黑暗女孩來踢館，此即[少女時代下一首歌的造型](https://zh.wikipedia.org/wiki/少女時代 "wikilink")（ "黑暗少女時代"）。
 
 ### 專輯改版發行
 
-專輯改版發行於3月，以全新的概念 "黑暗少女時代" 為主題。新單曲 "Run Devil Run"
-以數位單曲2010年3月17日發行。Demo版本來自[惡女凱莎](https://zh.wikipedia.org/wiki/惡女凱莎 "wikilink")，版權販售給[SM
-Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，並隨後由少女時代錄製。
-音樂影片發行於3月18日，她們第一次回歸舞台在[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。
+專輯改版發行於3月，以全新的概念 "黑暗少女時代" 為主題。新單曲 "Run Devil Run" 以數位單曲2010年3月17日發行。Demo版本來自[惡女凱莎](https://zh.wikipedia.org/wiki/惡女凱莎 "wikilink")，版權販售給[SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，並隨後由少女時代錄製。 音樂影片發行於3月18日，她們第一次回歸舞台在[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。
 
-SM Entertainment
-後來表示，封面上的女孩是[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")。
+SM Entertainment 後來表示，封面上的女孩是[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")。
 
 ### 球衣編號
 
@@ -86,18 +80,10 @@ SM Entertainment
 
 ## 參考來源
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2010年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Gaon專輯月榜冠軍作品 "wikilink")
-[Category:2010年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Gaon單曲月榜冠軍作品 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2010年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Gaon專輯月榜冠軍作品 "wikilink") [Category:2010年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Gaon單曲月榜冠軍作品 "wikilink")
 
-1.  [愛貝克思 Oh\!
-    專輯簡介](http://www.avexasia.com/products_detail.php?aid=13269)
-
-2.  [朝鮮日報
-    少女時代第二張專輯預售15萬張](http://chinese.chosun.com/big5/site/data/html_dir/2010/01/28/20100128000028.html)
-3.  [騰訊娛樂 少女時代新歌推出10分鐘登Real
-    Time音樂榜首位](http://ent.qq.com/a/20100126/000435.htm)
+1.  [愛貝克思 Oh\! 專輯簡介](http://www.avexasia.com/products_detail.php?aid=13269)
+2.  [朝鮮日報 少女時代第二張專輯預售15萬張](http://chinese.chosun.com/big5/site/data/html_dir/2010/01/28/20100128000028.html)
+3.  [騰訊娛樂 少女時代新歌推出10分鐘登Real Time音樂榜首位](http://ent.qq.com/a/20100126/000435.htm)
 4.
 5.

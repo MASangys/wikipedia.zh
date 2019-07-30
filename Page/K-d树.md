@@ -1,9 +1,6 @@
 [3dtree.png](https://zh.wikipedia.org/wiki/File:3dtree.png "fig:3dtree.png")
 
-在[计算机科学里](../Page/计算机科学.md "wikilink")，***k*-d树**（
-**k-维[树](../Page/树_\(数据结构\).md "wikilink")**的缩写）是在*k*维[欧几里德空间组织](https://zh.wikipedia.org/wiki/欧几里德空间 "wikilink")[点的数据结构](../Page/点.md "wikilink")。*k*-d树可以使用在多种应用场合，如多维键值搜索（例：范围搜寻及[最邻近搜索](../Page/最邻近搜索.md "wikilink")）。*k*-d树是[空间二分树](https://zh.wikipedia.org/wiki/空间二分树 "wikilink")（[Binary
-space
-partitioning](http://en.wikipedia.org/wiki/Binary_space_partitioning)）的一种特殊情况。
+在[计算机科学](../Page/计算机科学.md "wikilink")里，***k*-d树**（ **k-维[树](../Page/树_\(数据结构\).md "wikilink")**的缩写）是在*k*维[欧几里德空间组织](https://zh.wikipedia.org/wiki/欧几里德空间 "wikilink")[点](../Page/点.md "wikilink")的数据结构。*k*-d树可以使用在多种应用场合，如多维键值搜索（例：范围搜寻及[最邻近搜索](../Page/最邻近搜索.md "wikilink")）。*k*-d树是[空间二分树](https://zh.wikipedia.org/wiki/空间二分树 "wikilink")（[Binary space partitioning](http://en.wikipedia.org/wiki/Binary_space_partitioning)）的一种特殊情况。
 
 ## 简介
 
@@ -13,29 +10,22 @@ partitioning](http://en.wikipedia.org/wiki/Binary_space_partitioning)）的一�
 
 ### 建立*k*-d树
 
-有很多种方法可以选择轴垂直分割面（ axis-aligned splitting planes ），所以有很多种建立*k*-d树的方法。
-最典型的方法如下：
+有很多种方法可以选择轴垂直分割面（ axis-aligned splitting planes ），所以有很多种建立*k*-d树的方法。 最典型的方法如下：
 
-  - 随着树的深度轮流选择轴当作分割面。（例如：在三维空间中根节点是 x 轴垂直分割面，其子节点皆为 y 轴垂直分割面，其孙节点皆为 z
-    轴垂直分割面，其曾孙节点则皆为 x 轴垂直分割面，依此类推。）
+  - 随着树的深度轮流选择轴当作分割面。（例如：在三维空间中根节点是 x 轴垂直分割面，其子节点皆为 y 轴垂直分割面，其孙节点皆为 z 轴垂直分割面，其曾孙节点则皆为 x 轴垂直分割面，依此类推。）
   - 点由垂直分割面之軸座標的[中位数区分并放入子树](https://zh.wikipedia.org/wiki/中位数 "wikilink")
 
 這個方法產生一個平衡的*k*-d樹。每個葉節點的高度都十分接近。然而，平衡的樹不一定對每個應用都是最佳的。
 
-**`function`**` kdtree (`*`list``   ``of``
- ``points`*` pointList, `*`int`*` depth)`
+**`function`**` kdtree (`*`list``   ``of``   ``points`*` pointList, `*`int`*` depth)`
 `{`
-`    `*`//``   ``Select``   ``axis``   ``based``   ``on``   ``depth``
- ``so``   ``that``   ``axis``   ``cycles``   ``through``   ``all``
- ``valid``   ``values`*
+`    `*`//``   ``Select``   ``axis``   ``based``   ``on``   ``depth``   ``so``   ``that``   ``axis``   ``cycles``   ``through``   ``all``   ``valid``   ``values`*
 `    `**`var`**` `*`int`*` axis := depth `**`mod`**` k;`
 `        `
-`    `*`//``   ``Sort``   ``point``   ``list``   ``and``   ``choose``
- ``median``   ``as``   ``pivot``   ``element`*
+`    `*`//``   ``Sort``   ``point``   ``list``   ``and``   ``choose``   ``median``   ``as``   ``pivot``   ``element`*
 `    `**[`select`](https://zh.wikipedia.org/wiki/Selection_algorithm "wikilink")**` median `**`by`**` axis `**`from`**` pointList;`
 `        `
-`    `*`//``   ``Create``   ``node``   ``and``   ``construct``
- ``subtrees`*
+`    `*`//``   ``Create``   ``node``   ``and``   ``construct``   ``subtrees`*
 `    `**`var`**` `*`tree_node`*` node;`
 `    node.location := median;`
 `    node.leftChild := kdtree(points `**`in`**` pointList `**`before`**` median, depth+1);`
@@ -66,33 +56,16 @@ partitioning](http://en.wikipedia.org/wiki/Binary_space_partitioning)）的一�
 
 ### 处理高维数据
 
-[:维数灾难让大部分的搜索算法在高纬情况下都显得花哨且不实用](https://zh.wikipedia.org/wiki/:维数灾难 "wikilink")。
-同样的，在高维空间中，k-d树叶并不能做很高效的最邻近搜索。一般的准则是：在k维情况下，数据点数目N应当远远大于\(2^k\)时，k-d树的最邻近搜索才可以很好的发挥其作用。不然的话，大部分的点都会被查询，最终算法效率也不会比全体查询一遍要好到哪里去。另外，如果只是需要一个足够快，且不必最优的结果，那么可以考虑使用近似邻近查询的方法。
+[:维数灾难让大部分的搜索算法在高纬情况下都显得花哨且不实用](https://zh.wikipedia.org/wiki/:维数灾难 "wikilink")。 同样的，在高维空间中，k-d树叶并不能做很高效的最邻近搜索。一般的准则是：在k维情况下，数据点数目N应当远远大于\(2^k\)时，k-d树的最邻近搜索才可以很好的发挥其作用。不然的话，大部分的点都会被查询，最终算法效率也不会比全体查询一遍要好到哪里去。另外，如果只是需要一个足够快，且不必最优的结果，那么可以考虑使用近似邻近查询的方法。
 
 ## 外部链接
 
-  - [libkdtree++](https://web.archive.org/web/20170617153811/http://libkdtree.alioth.debian.org/),
-    an open-source STL-like implementation of *k*-d trees in C++.
-  - [A tutorial on KD
-    Trees](https://web.archive.org/web/20110716085331/http://www.autonlab.org/autonweb/14665/version/2/part/5/data/moore-tutorial.pdf?branch=main&language=en)
-  - [A C++ implementation of *k*-d trees for 3D point
-    clouds](https://web.archive.org/web/20100621171539/http://babel.isa.uma.es/mrpt/index.php/The_hierarchical_model_of_metric_maps#Point_maps),
-    part of the [Mobile Robot Programming Toolkit
-    (MRPT)](https://zh.wikipedia.org/wiki/Mobile_Robot_Programming_Toolkit "wikilink")
-  - [kdtree](http://code.google.com/p/kdtree/) A simple C library for
-    working with KD-Trees
-  - [K-D Tree Demo, Java
-    applet](http://donar.umiacs.umd.edu/quadtree/points/kdtree.html)
-  - [libANN](http://www.cs.umd.edu/~mount/ANN/) Approximate Nearest
-    Neighbour Library includes a *k*-d tree implementation
-  - [Caltech Large Scale Image Search
-    Toolbox](https://web.archive.org/web/20101203074412/http://www.vision.caltech.edu/malaa/software/research/image-search/):
-    a Matlab toolbox implementing randomized *k*-d tree for fast
-    approximate nearest neighbour search, in addition to
-    [LSH](https://zh.wikipedia.org/wiki/Locality_sensitive_hashing "wikilink"),
-    Hierarchical K-Means, and [Inverted
-    File](https://zh.wikipedia.org/wiki/Inverted_file "wikilink") search
-    algorithms.
+  - [libkdtree++](https://web.archive.org/web/20170617153811/http://libkdtree.alioth.debian.org/), an open-source STL-like implementation of *k*-d trees in C++.
+  - [A tutorial on KD Trees](https://web.archive.org/web/20110716085331/http://www.autonlab.org/autonweb/14665/version/2/part/5/data/moore-tutorial.pdf?branch=main&language=en)
+  - [A C++ implementation of *k*-d trees for 3D point clouds](https://web.archive.org/web/20100621171539/http://babel.isa.uma.es/mrpt/index.php/The_hierarchical_model_of_metric_maps#Point_maps), part of the [Mobile Robot Programming Toolkit (MRPT)](https://zh.wikipedia.org/wiki/Mobile_Robot_Programming_Toolkit "wikilink")
+  - [kdtree](http://code.google.com/p/kdtree/) A simple C library for working with KD-Trees
+  - [K-D Tree Demo, Java applet](http://donar.umiacs.umd.edu/quadtree/points/kdtree.html)
+  - [libANN](http://www.cs.umd.edu/~mount/ANN/) Approximate Nearest Neighbour Library includes a *k*-d tree implementation
+  - [Caltech Large Scale Image Search Toolbox](https://web.archive.org/web/20101203074412/http://www.vision.caltech.edu/malaa/software/research/image-search/): a Matlab toolbox implementing randomized *k*-d tree for fast approximate nearest neighbour search, in addition to [LSH](https://zh.wikipedia.org/wiki/Locality_sensitive_hashing "wikilink"), Hierarchical K-Means, and [Inverted File](https://zh.wikipedia.org/wiki/Inverted_file "wikilink") search algorithms.
 
-[Category:数据结构](https://zh.wikipedia.org/wiki/Category:数据结构 "wikilink")
-[Category:树结构](https://zh.wikipedia.org/wiki/Category:树结构 "wikilink")
+[Category:数据结构](https://zh.wikipedia.org/wiki/Category:数据结构 "wikilink") [Category:树结构](https://zh.wikipedia.org/wiki/Category:树结构 "wikilink")

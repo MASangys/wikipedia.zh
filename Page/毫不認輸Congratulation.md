@@ -1,18 +1,16 @@
-《**毫不認輸Congratulation**》（）是[SDN48第](../Page/SDN48.md "wikilink")5張的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年3月7日由[Universal
-Music
-LLC發售](https://zh.wikipedia.org/wiki/Universal_Music_LLC "wikilink")。
+《**毫不認輸Congratulation**》（）是[SDN48](../Page/SDN48.md "wikilink")第5張的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年3月7日由[Universal Music LLC發售](https://zh.wikipedia.org/wiki/Universal_Music_LLC "wikilink")。
 
 ## 概要
 
-本作的[廣告標語是](../Page/廣告標語.md "wikilink")「**恭喜。再見。謝謝。**」（）
+本作的[廣告標語](../Page/廣告標語.md "wikilink")是「**恭喜。再見。謝謝。**」（）
 
 本作分為通常盤Type A、Type B以及劇場盤的3種形式發售。
 
 因為全體SDN48成員於2012年3月31日畢業，本作成為當時成員的最後一張單曲。
 
-A面曲《毫不認輸Congratulation》的[PV中](https://zh.wikipedia.org/wiki/PV "wikilink")，除了SDN48全體成員外，還有[AKB48的](../Page/AKB48.md "wikilink")[柏木由紀和](../Page/柏木由紀.md "wikilink")[AKB48劇場的經理](../Page/AKB48劇場.md "wikilink")[戶賀崎智信參與演出](../Page/戶賀崎智信.md "wikilink")。\[1\]
+A面曲《毫不認輸Congratulation》的[PV中](https://zh.wikipedia.org/wiki/PV "wikilink")，除了SDN48全體成員外，還有[AKB48](../Page/AKB48.md "wikilink")的[柏木由紀](../Page/柏木由紀.md "wikilink")和[AKB48劇場](../Page/AKB48劇場.md "wikilink")的經理[戶賀崎智信](../Page/戶賀崎智信.md "wikilink")參與演出。\[1\]
 
-2012年3月19日（2012年3月5日－3月12日）的[Oricon公信榜中](../Page/Oricon公信榜.md "wikilink")，得到週間第2位，為SDN48獲得的最高排名。\[2\]
+2012年3月19日（2012年3月5日－3月12日）的[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")中，得到週間第2位，為SDN48獲得的最高排名。\[2\]
 
 ## 收錄曲
 
@@ -33,7 +31,7 @@ A面曲《毫不認輸Congratulation》的[PV中](https://zh.wikipedia.org/wiki/
 3.  **崇尚奈津子**（） - Under Girls B
       -
         （作詞：秋元康，作曲：川浦正大，編曲：生田真心）
-        改編自[AKB48的](../Page/AKB48.md "wikilink")《[崇尚麻里子](../Page/崇尚麻里子.md "wikilink")》，歌詞除了「麻里子（）」的部分改為「[奈津子](../Page/奈津子.md "wikilink")（）」外，跟原曲相同。
+        改編自[AKB48](../Page/AKB48.md "wikilink")的《[崇尚麻里子](../Page/崇尚麻里子.md "wikilink")》，歌詞除了「麻里子（）」的部分改為「[奈津子](../Page/奈津子.md "wikilink")（）」外，跟原曲相同。
 4.  毫不認輸Congratulation（off vocal）
 5.  クリクリ（off vocal）
 6.  崇尚奈津子 （off vocal）
@@ -135,13 +133,9 @@ A面曲《毫不認輸Congratulation》的[PV中](https://zh.wikipedia.org/wiki/
 
 ## 外部連結
 
-  - [Universal Music
-    LLC內特設網站](http://www.universal-music.co.jp/sdn48/disco/index5.html)
+  - [Universal Music LLC內特設網站](http://www.universal-music.co.jp/sdn48/disco/index5.html)
 
-[Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
 
 1.
 2.

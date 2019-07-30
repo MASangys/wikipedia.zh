@@ -34,7 +34,7 @@
 
 ### 生物学
 
-  - [氨甲酰磷酸合成酶](../Page/氨甲酰磷酸合成酶.md "wikilink")（），一个催化[氨甲酰磷酸合成过程的酶](../Page/氨甲酰磷酸.md "wikilink")
+  - [氨甲酰磷酸合成酶](../Page/氨甲酰磷酸合成酶.md "wikilink")（），一个催化[氨甲酰磷酸](../Page/氨甲酰磷酸.md "wikilink")合成过程的酶
 
 ### 化学
 
@@ -48,8 +48,7 @@
 
   - [網宇實體系統](../Page/網宇實體系統.md "wikilink")（）
 
-  - [CP System](../Page/CP_System.md "wikilink")（Capcom Play
-    System）,Capcom发布的街机基板类型
+  - [CP System](../Page/CP_System.md "wikilink")（Capcom Play System）,Capcom发布的街机基板类型
 
   - **CPS**（Cost Per Sale）：以实际销售产品数量来换算广告刊登金额。
 

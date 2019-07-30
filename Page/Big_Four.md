@@ -1,5 +1,4 @@
-The **Big Four**
-是由[張衛健](../Page/張衛健.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[蘇永康](../Page/蘇永康.md "wikilink")及[梁漢文組成的](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")[香港](../Page/香港.md "wikilink")樂壇組合及音樂計劃，名字源於[英格蘭超級足球聯賽的](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")[英超四大豪門](../Page/英超四大豪門.md "wikilink")。\[1\]
+The **Big Four** 是由[張衛健](../Page/張衛健.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[蘇永康](../Page/蘇永康.md "wikilink")及[梁漢文組成的](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")[香港](../Page/香港.md "wikilink")樂壇組合及音樂計劃，名字源於[英格蘭超級足球聯賽的](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")[英超四大豪門](../Page/英超四大豪門.md "wikilink")。\[1\]
 
 2009年年尾推出第一首歌曲〈Big Four〉，並打入香港各大流行音樂榜。\[2\]
 
@@ -457,8 +456,7 @@ Big Four第一次在<a href="https://zh.wikipedia.org/wiki/台灣" title="wikili
 
 ### 2010年度
 
-  - [2010勁歌金曲優秀選第一回](../Page/2010年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
-    得獎歌曲《愛莫能助》
+  - [2010勁歌金曲優秀選第一回](../Page/2010年勁歌金曲優秀選第一回得獎名單.md "wikilink") - 得獎歌曲《愛莫能助》
 
 ## 參考資料
 
@@ -473,10 +471,7 @@ Big Four第一次在<a href="https://zh.wikipedia.org/wiki/台灣" title="wikili
 
   -
   -
-[Category:單飛不解散團體](https://zh.wikipedia.org/wiki/Category:單飛不解散團體 "wikilink")
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:Big_Four](https://zh.wikipedia.org/wiki/Category:Big_Four "wikilink")
-[Category:許志安](https://zh.wikipedia.org/wiki/Category:許志安 "wikilink")
+[Category:單飛不解散團體](https://zh.wikipedia.org/wiki/Category:單飛不解散團體 "wikilink") [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:Big_Four](https://zh.wikipedia.org/wiki/Category:Big_Four "wikilink") [Category:許志安](https://zh.wikipedia.org/wiki/Category:許志安 "wikilink")
 
 1.
 

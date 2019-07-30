@@ -1,21 +1,14 @@
-《**TIGER &
-BUNNY**》是由[日昇動畫製作的日本動畫](../Page/日昇動畫.md "wikilink")，2011年4月起在[每日放送播放](../Page/每日放送.md "wikilink")。此作品在[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")「[日本動畫100](https://zh.wikipedia.org/wiki/日本動畫100 "wikilink")」大投票中得到第1名，劇場版The
-Rising得到第2名，劇場版The Beginning得到第4名。
+《**TIGER & BUNNY**》是由[日昇動畫](../Page/日昇動畫.md "wikilink")製作的日本動畫，2011年4月起在[每日放送](../Page/每日放送.md "wikilink")播放。此作品在[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")「[日本動畫100](https://zh.wikipedia.org/wiki/日本動畫100 "wikilink")」大投票中得到第1名，劇場版The Rising得到第2名，劇場版The Beginning得到第4名。
 
 ## 概要
 
 舞台設定在一個近未來風，以及擁有獨特的超能力『NEXT』的超級英雄們的世界。作為這部作品中的英雄的贊助商幾乎都是現實中既有的企業\[1\]。連帶著除了這部作品自身的廣告，也會安排作品中的英雄代言這些企業的廣告。\[2\]
 
-這部作品角色設定由漫畫家[桂正和來擔任](../Page/桂正和.md "wikilink")，監督為佐藤敬一。在[讀賣新聞社主辦的SUGOI](../Page/讀賣新聞.md "wikilink")
-JAPAN Award
-2015「最想向海外介紹的日本流行文化」評選中獲得動畫部門第2名\[3\]\[4\]。亦在[2017年](../Page/2017年.md "wikilink")[NHK
-BS
-Premium主办的](../Page/NHK_BS_Premium.md "wikilink")[日本动画100评选中荣登榜首](../Page/日本动画100.md "wikilink")。前三话于该年5月3日深夜在该频道重播。由于[NHK为](https://zh.wikipedia.org/wiki/NHK "wikilink")[公共广播](https://zh.wikipedia.org/wiki/公共广播 "wikilink")，严禁置入性行销，三话中所有赞助商的标志全部隐蔽\[5\]。
+這部作品角色設定由漫畫家[桂正和](../Page/桂正和.md "wikilink")來擔任，監督為佐藤敬一。在[讀賣新聞](../Page/讀賣新聞.md "wikilink")社主辦的SUGOI JAPAN Award 2015「最想向海外介紹的日本流行文化」評選中獲得動畫部門第2名\[3\]\[4\]。亦在[2017年](../Page/2017年.md "wikilink")[NHK BS Premium主办的](../Page/NHK_BS_Premium.md "wikilink")[日本动画100](../Page/日本动画100.md "wikilink")评选中荣登榜首。前三话于该年5月3日深夜在该频道重播。由于[NHK为](https://zh.wikipedia.org/wiki/NHK "wikilink")[公共广播](https://zh.wikipedia.org/wiki/公共广播 "wikilink")，严禁置入性行销，三话中所有赞助商的标志全部隐蔽\[5\]。
 
 ## 劇情
 
-自從人稱「NEXT」超能力者誕生於世的45年後。某國的大都市**修迪輪**誕生了名為「英雄」的職業，NEXT能力者穿著由贊助商出資提供的印有商標的戰鬥服，為了守護眾人而出動。同時「HERO
-TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的記分風格為這些英雄作英雄評價排行榜。
+自從人稱「NEXT」超能力者誕生於世的45年後。某國的大都市**修迪輪**誕生了名為「英雄」的職業，NEXT能力者穿著由贊助商出資提供的印有商標的戰鬥服，為了守護眾人而出動。同時「HERO TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的記分風格為這些英雄作英雄評價排行榜。
 
 主角**鏑木·T·虎徹**，是英雄業界的老手，藝名為狂野猛虎。由於原本所屬的公司被併購，因此被轉入新公司旗下，且被老闆強行與新人英雄**巴納比**組成團隊為了守護和平及贊助商而戰鬥。
 
@@ -27,8 +20,7 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
 
   - 狂野猛虎／鏑木·T·虎徹（Wild Tiger／Kotetsu·T·Kaburagi）
     配音：[平田廣明](../Page/平田廣明.md "wikilink")、[田村睦心](../Page/田村睦心.md "wikilink")（少年時代）／港：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")、[袁淑珍](../Page/袁淑珍.md "wikilink")（少年時代）／台：[李世揚](../Page/李世揚.md "wikilink")
-    贊助商：Top MaG（架空企業） →
-    [S.H.Figuarts](https://zh.wikipedia.org/wiki/S.H.Figuarts "wikilink")、[SoftBank](https://zh.wikipedia.org/wiki/SoftBank "wikilink")、[FamilyMart](../Page/FamilyMart.md "wikilink")(劇場版加入)
+    贊助商：Top MaG（架空企業） → [S.H.Figuarts](https://zh.wikipedia.org/wiki/S.H.Figuarts "wikilink")、[SoftBank](https://zh.wikipedia.org/wiki/SoftBank "wikilink")、[FamilyMart](../Page/FamilyMart.md "wikilink")(劇場版加入)
     所屬公司：APOLLON　Media
     本作主角，富有正義感的熱血男子漢，由於在保護一般人時常常不顧一切的導致器物的損壞，所以被稱之為「正義的破壞狂」。
     在業界已有十年經驗，可是因為常常不經思考就行動，所以人氣並不高，作為英雄的評價也只在中下。
@@ -40,8 +32,7 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
     會吃光果汁中的冰塊。會把漢堡先壓扁了再吃。剪指甲的時候喜歡剪到肉。
     襪子喜歡從左邊開始穿。會喜歡上夢中出現的女演員。喜歡把粉絲寄來的信帶回家讀。
     看報紙喜歡從廣告開始看。東西喜歡放涼了吃。很不會念說明。腳底有顆痣。
-    作為NEXT能力者，他的能力是「**百倍神力**」(hundred
-    power)，在五分鐘內維持常人100倍的身體能力，啟動能力時身體會發光，擅長拳頭攻擊。登場台詞是「狂野的嘶吼吧」。
+    作為NEXT能力者，他的能力是「**百倍神力**」(hundred power)，在五分鐘內維持常人100倍的身體能力，啟動能力時身體會發光，擅長拳頭攻擊。登場台詞是「狂野的嘶吼吧」。
     在一次能力增強爆走之後，使用能力的時間開始縮短並有明顯減退的趨勢。劇尾能力大約只剩一分鐘。
 
 <!-- end list -->
@@ -57,8 +48,7 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
     最討厭的東西是火，原因是父母死的時候房間裡一片火海。
     相同款式的眼鏡會有5支。會把喜歡的東西留在最後吃。極為注重室內間接照明。
     選葡萄酒會選玫瑰紅酒。紙巾要疊兩層來用。睡覺前要喝一杯牛奶。一個月會上美容院兩次。洗澡會先從脖子開始洗。刷牙用電動牙刷。全年平均體溫保持在35.7°。
-    作為NEXT能力者，他的能力跟虎徹相同，也是「**百倍神力**」(hundred
-    power)，在五分鐘內維持常人100倍的身體能力，啟動能力時身體會發光，擅長踢技。
+    作為NEXT能力者，他的能力跟虎徹相同，也是「**百倍神力**」(hundred power)，在五分鐘內維持常人100倍的身體能力，啟動能力時身體會發光，擅長踢技。
 
 <!-- end list -->
 
@@ -94,12 +84,10 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
 
   - 高天／基斯·古德曼（Sky High／Keith Goodman）
     配音：[井上剛](../Page/井上剛.md "wikilink")／港：[蘇強文](../Page/蘇強文.md "wikilink")／台：[陳彥鈞](../Page/陳彥鈞.md "wikilink")
-    贊助商：[TAMASHII
-    NATIONS](https://zh.wikipedia.org/wiki/TAMASHII_NATIONS "wikilink")、[USTREAM](https://zh.wikipedia.org/wiki/USTREAM "wikilink")、[MOVIX](https://zh.wikipedia.org/wiki/MOVIX "wikilink")(劇場版加入)、[T-JOY](https://zh.wikipedia.org/wiki/T-JOY "wikilink")(劇場版加入)
+    贊助商：[TAMASHII NATIONS](https://zh.wikipedia.org/wiki/TAMASHII_NATIONS "wikilink")、[USTREAM](https://zh.wikipedia.org/wiki/USTREAM "wikilink")、[MOVIX](https://zh.wikipedia.org/wiki/MOVIX "wikilink")(劇場版加入)、[T-JOY](https://zh.wikipedia.org/wiki/T-JOY "wikilink")(劇場版加入)
     所屬公司：POSEIDON LINE
-    英雄排行榜的常勝軍，人稱「英雄王」(King of
-    Heroes)，深受不分男女老少的觀眾歡迎。口頭禪是：「謝謝，還有謝謝！」（ありがとう、そして、ありがとう）
-    個性相當認真，但被評價為有點[天然呆的青年](../Page/天然呆.md "wikilink")。養了一隻叫約翰的黃金獵犬。
+    英雄排行榜的常勝軍，人稱「英雄王」(King of Heroes)，深受不分男女老少的觀眾歡迎。口頭禪是：「謝謝，還有謝謝！」（ありがとう、そして、ありがとう）
+    個性相當認真，但被評價為有點[天然呆](../Page/天然呆.md "wikilink")的青年。養了一隻叫約翰的黃金獵犬。
     喜歡用"吸"的方式來吃荷包蛋的蛋黃。(雖然是秘密，但在動畫第22話中被虎徹公開了。)
     NEXT能力為「**操控風**」
 
@@ -130,16 +118,13 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
 
   - 傳奇先生(Mr.Legend)
     配音：[小杉十郎太](../Page/小杉十郎太.md "wikilink")／港：[林國雄](../Page/林國雄.md "wikilink")／台：[黃天佑](../Page/黃天佑.md "wikilink")
-    「HERO
-    TV」開始廣播之前就活躍的第一代英雄。虎徹因和他相遇而以成為英雄作為目標。其功績在歷代英雄中都是數一數二，不過某日突然在世人面前消失。留下的功績一直在**修迪輪**中被傳誦，現在世界各地都有他的銅像，被認為是和平的象徵。第16話尤里的回憶中提及因晚年發不出NEXT而變得自暴自棄並且酗酒，也因而發洩暴力毆打在妻子和尤里身上，最後在毆打妻子時因兒子意外發動了NEXT而燒死。
+    「HERO TV」開始廣播之前就活躍的第一代英雄。虎徹因和他相遇而以成為英雄作為目標。其功績在歷代英雄中都是數一數二，不過某日突然在世人面前消失。留下的功績一直在**修迪輪**中被傳誦，現在世界各地都有他的銅像，被認為是和平的象徵。第16話尤里的回憶中提及因晚年發不出NEXT而變得自暴自棄並且酗酒，也因而發洩暴力毆打在妻子和尤里身上，最後在毆打妻子時因兒子意外發動了NEXT而燒死。
 
 ### HERO TV
 
   - 艾妮絲·祖比爾(Agnes Joubert)
     配音：[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")／港：[程文意](../Page/程文意.md "wikilink")→[陸惠玲](../Page/陸惠玲.md "wikilink")／台：[錢欣-{郁}-](../Page/錢欣郁.md "wikilink")
-    「HERO TV」的天才監製。好勝大姐的性格。目標是把近年人氣大減的「HERO
-    TV」回復以前的高收看率，為創收視率，無所不用其極。經常使用GPS掌握著英雄的位置，在「HERO
-    TV」廣播中的情況下指揮英雄的行動。
+    「HERO TV」的天才監製。好勝大姐的性格。目標是把近年人氣大減的「HERO TV」回復以前的高收看率，為創收視率，無所不用其極。經常使用GPS掌握著英雄的位置，在「HERO TV」廣播中的情況下指揮英雄的行動。
 
 <!-- end list -->
 
@@ -151,8 +136,7 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
 
   - 亞巴杜·馬比力克(Albert Maverick)
     配音：[福田信昭](../Page/福田信昭.md "wikilink")／港：[盧國權](../Page/盧國權.md "wikilink")／台：[林谷珍](../Page/林谷珍.md "wikilink")
-    **修迪輪**的傳媒大亨。七大企業的統一協調人，兼任著阿波羅媒體的[行政總裁和播出](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")「HERO
-    TV」的OBC電視台的[社長](https://zh.wikipedia.org/wiki/社長 "wikilink")，同時也是殺死巴納比父母的真正兇手，並且與銜尾蛇串通。於最終話由於惡行被媒體公諸於世，無法使用能力掩飾，遂使用能力將自己的大腦記憶全部消除掩蓋銜尾蛇的秘密。原被警方逮捕，因狂徒認為犯行重大而截囚將其燒死。
+    **修迪輪**的傳媒大亨。七大企業的統一協調人，兼任著阿波羅媒體的[行政總裁和播出](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")「HERO TV」的OBC電視台的[社長](https://zh.wikipedia.org/wiki/社長 "wikilink")，同時也是殺死巴納比父母的真正兇手，並且與銜尾蛇串通。於最終話由於惡行被媒體公諸於世，無法使用能力掩飾，遂使用能力將自己的大腦記憶全部消除掩蓋銜尾蛇的秘密。原被警方逮捕，因狂徒認為犯行重大而截囚將其燒死。
     NEXT能力是「**改寫記憶**」。
 
 <!-- end list -->
@@ -220,9 +204,7 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
 
   - \-{zh-hans:傑克·馬天尼斯;zh-tw:傑克·馬丁尼茲;zh-hk:傑克·馬天尼斯;}-（Jake Martinez）
     配音：[藤原啓治](https://zh.wikipedia.org/wiki/藤原啓治 "wikilink")／港：[林保全](../Page/林保全.md "wikilink")／台：[林谷珍](../Page/林谷珍.md "wikilink")
-    「**咬尾蛇**」的成員。原僱傭兵，自稱「被神授予了兩個能力」的NEXT。左腿為金屬義肢，全身有大量紋身，有咬手指甲的習慣，所有指甲都相當粗糙。因為強盜、
-    誘拐、
-    殺人等罪被**傳奇先生**逮捕，被監禁到**阿巴斯監獄**服刑250年，因**古莉姆**引起的[恐怖襲擊被釋放](https://zh.wikipedia.org/wiki/恐怖襲擊 "wikilink")。就在此時，其殺害巴納比夫妻消息被公開了，不過**傑克**否認和肯定自己沒有殺害巴納比夫妻。
+    「**咬尾蛇**」的成員。原僱傭兵，自稱「被神授予了兩個能力」的NEXT。左腿為金屬義肢，全身有大量紋身，有咬手指甲的習慣，所有指甲都相當粗糙。因為強盜、 誘拐、 殺人等罪被**傳奇先生**逮捕，被監禁到**阿巴斯監獄**服刑250年，因**古莉姆**引起的[恐怖襲擊被釋放](https://zh.wikipedia.org/wiki/恐怖襲擊 "wikilink")。就在此時，其殺害巴納比夫妻消息被公開了，不過**傑克**否認和肯定自己沒有殺害巴納比夫妻。
     性格殘酷殘忍，有**NEXT**是被神選中的思想。因而有著排除普通人和被人僱用的**英雄**的想法，建立自己統治的**NEXT國家**而行動。
     本作目前最強大的NEXT能力者。
     NEXT能力是擁有強大阻絕力的「**防禦力場**」-並且可以將之壓縮如同子彈般射出形成威力強大的攻擊，以及「**聽見他人心靈的聲音**」。
@@ -282,8 +264,7 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
 <!-- end list -->
 
   -
-    故事的舞台，過去為對策水災問題發展到現在三層結構的城市。各種各樣的人種、民族和NEXT共存的未來城市，由超級英雄們守護著其和平。修迪輪在德語的意思為星座。貨幣單位**Stern
-    U.S. dollar**，官方語言是英語，而在司法系統上是沒有死刑。
+    故事的舞台，過去為對策水災問題發展到現在三層結構的城市。各種各樣的人種、民族和NEXT共存的未來城市，由超級英雄們守護著其和平。修迪輪在德語的意思為星座。貨幣單位**Stern U.S. dollar**，官方語言是英語，而在司法系統上是沒有死刑。
 
 <!-- end list -->
 
@@ -308,9 +289,7 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
   - 7大企業
     少數被認可建立英雄工作的7間企業。企業大樓的外形模仿各自的象徵符號。企業名一致地和希臘神話相關，分別為[阿波羅](https://zh.wikipedia.org/wiki/阿波羅 "wikilink")、[泰坦](https://zh.wikipedia.org/wiki/泰坦 "wikilink")、[克洛諾斯](https://zh.wikipedia.org/wiki/克洛諾斯 "wikilink")、[波塞冬](../Page/波塞冬.md "wikilink")、[奧德修斯](https://zh.wikipedia.org/wiki/奧德修斯 "wikilink")、[赫斯珀里得斯](../Page/赫斯珀里得斯.md "wikilink")、[赫利奧斯](https://zh.wikipedia.org/wiki/赫利奧斯 "wikilink")。
       - 阿波羅媒體（APOLLON　Media）
-        旗下持有各種各樣公司的綜合媒體企業，[CEO為](https://zh.wikipedia.org/wiki/CEO "wikilink")**亞巴杜·馬比力克**。企業象徵為「**[獅鷲](https://zh.wikipedia.org/wiki/獅鷲 "wikilink")**」。廣播「HERO
-        TV」的OBC電視台為其[附屬公司](https://zh.wikipedia.org/wiki/附屬公司 "wikilink")，積極地開發英雄們的各種商品和專業雜誌。收購**虎徹**從屬的出版社「Top
-        MaG」使虎徹加入阿波羅媒體，同時安排新英雄**巴納比**作為**虎徹**的合作夥伴。
+        旗下持有各種各樣公司的綜合媒體企業，[CEO為](https://zh.wikipedia.org/wiki/CEO "wikilink")**亞巴杜·馬比力克**。企業象徵為「**[獅鷲](https://zh.wikipedia.org/wiki/獅鷲 "wikilink")**」。廣播「HERO TV」的OBC電視台為其[附屬公司](https://zh.wikipedia.org/wiki/附屬公司 "wikilink")，積極地開發英雄們的各種商品和專業雜誌。收購**虎徹**從屬的出版社「Top MaG」使虎徹加入阿波羅媒體，同時安排新英雄**巴納比**作為**虎徹**的合作夥伴。
       - 泰坦工業（Taitan　Indust）
         工業系企業。業務側重於重工業。企業象徵為「**[芭絲特](../Page/芭絲特.md "wikilink")**」。
       - 克洛諾斯食品（KRONOS FOODS）
@@ -332,9 +311,7 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
 <!-- end list -->
 
   - GOOD LUCK MODE
-    **虎徹**和**巴納比**的強化戰衣的特殊功能。當兩人的**百倍神力**(hundred
-    power)去到最後5秒時會自行發動，**虎徹**的右手、**巴納比**右腳會變大向罪犯全力一擊。但其實GOOD
-    LUCK MODE只是為了「演出」而開發，不會增加兩人的力量。
+    **虎徹**和**巴納比**的強化戰衣的特殊功能。當兩人的**百倍神力**(hundred power)去到最後5秒時會自行發動，**虎徹**的右手、**巴納比**右腳會變大向罪犯全力一擊。但其實GOOD LUCK MODE只是為了「演出」而開發，不會增加兩人的力量。
 
 ## 主題曲
 
@@ -342,8 +319,7 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
 
 :;「」（第1話－第13話）
 
-:: 作詞、作曲－田淵智也／編曲、歌－[UNISON SQUARE
-GARDEN](../Page/UNISON_SQUARE_GARDEN.md "wikilink")
+:: 作詞、作曲－田淵智也／編曲、歌－[UNISON SQUARE GARDEN](../Page/UNISON_SQUARE_GARDEN.md "wikilink")
 
 :: 此曲亦作第25話片尾曲使用。
 
@@ -358,8 +334,7 @@ GARDEN](../Page/UNISON_SQUARE_GARDEN.md "wikilink")
 
 :; 「」（第1話－第13話）
 
-::
-作詞－佐々木健太／作曲－佐々木健太、藤森真一／歌－[藍坊主](https://zh.wikipedia.org/wiki/藍坊主 "wikilink")
+:: 作詞－佐々木健太／作曲－佐々木健太、藤森真一／歌－[藍坊主](https://zh.wikipedia.org/wiki/藍坊主 "wikilink")
 
 :; 「」（第14話－第24話）
 
@@ -372,16 +347,14 @@ GARDEN](../Page/UNISON_SQUARE_GARDEN.md "wikilink")
 
 :; 「GO NEXT\!\!」（第1、2、7、10話）
 
-::
-作詞－[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink")／作曲－[池頼広](https://zh.wikipedia.org/wiki/池頼広 "wikilink")／歌－藍玫瑰（[壽美菜子](../Page/壽美菜子.md "wikilink")）
+:: 作詞－[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink")／作曲－[池頼広](https://zh.wikipedia.org/wiki/池頼広 "wikilink")／歌－藍玫瑰（[壽美菜子](../Page/壽美菜子.md "wikilink")）
 
 :; 「My Song」（第4話）
 
   -
 
       -
-        作詞－[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink")／作曲 -
-        [池頼広](https://zh.wikipedia.org/wiki/池頼広 "wikilink")／歌－藍玫瑰（[壽美菜子](../Page/壽美菜子.md "wikilink")）
+        作詞－[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink")／作曲 - [池頼広](https://zh.wikipedia.org/wiki/池頼広 "wikilink")／歌－藍玫瑰（[壽美菜子](../Page/壽美菜子.md "wikilink")）
 
 ## 各集列表
 
@@ -755,7 +728,7 @@ GARDEN](../Page/UNISON_SQUARE_GARDEN.md "wikilink")
 <td><p>2011年4月9日－9月28日</p></td>
 <td><p>星期五 24時30分－25時00分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -795,44 +768,17 @@ GARDEN](../Page/UNISON_SQUARE_GARDEN.md "wikilink")
 
   - [官方網站（MBS）](http://www.mbs.jp/tigerandbunny/index.shtml)
 
-  - [TIGER &
-    BUNNY在Ustream的页面](http://www.ustream.tv/channel/tigerandbunny/)
+  - [TIGER & BUNNY在Ustream的页面](http://www.ustream.tv/channel/tigerandbunny/)
 
   -
-  - [《TIGER &
-    BUNNY》TVB官方網站](http://programme.tvb.com/animation/tigerandbunny)
+  - [《TIGER & BUNNY》TVB官方網站](http://programme.tvb.com/animation/tigerandbunny)
 
   - [劇場版 TIGER & BUNNY 官方網站](http://www.tigerandbunny.net/)
 
-[Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:動力服題材動畫](https://zh.wikipedia.org/wiki/Category:動力服題材動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:超级英雄](https://zh.wikipedia.org/wiki/Category:超级英雄 "wikilink")
-[Category:桂正和](https://zh.wikipedia.org/wiki/Category:桂正和 "wikilink")
-[Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink")
-[Category:2012年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2012年日本劇場動畫 "wikilink")
-[Category:每日放送製作的電影](https://zh.wikipedia.org/wiki/Category:每日放送製作的電影 "wikilink")
-[Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink")
-[Category:超能力題材動畫電影](https://zh.wikipedia.org/wiki/Category:超能力題材動畫電影 "wikilink")
-[Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink")
-[Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink")
-[Category:松竹電影](https://zh.wikipedia.org/wiki/Category:松竹電影 "wikilink")
-[Category:米谷良知電影](https://zh.wikipedia.org/wiki/Category:米谷良知電影 "wikilink")
-[Category:2012年電子遊戲](https://zh.wikipedia.org/wiki/Category:2012年電子遊戲 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink")
-[Category:2013年電子遊戲](https://zh.wikipedia.org/wiki/Category:2013年電子遊戲 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink")
+[Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:動力服題材動畫](https://zh.wikipedia.org/wiki/Category:動力服題材動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:超级英雄](https://zh.wikipedia.org/wiki/Category:超级英雄 "wikilink") [Category:桂正和](https://zh.wikipedia.org/wiki/Category:桂正和 "wikilink") [Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink") [Category:2012年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2012年日本劇場動畫 "wikilink") [Category:每日放送製作的電影](https://zh.wikipedia.org/wiki/Category:每日放送製作的電影 "wikilink") [Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink") [Category:超能力題材動畫電影](https://zh.wikipedia.org/wiki/Category:超能力題材動畫電影 "wikilink") [Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:松竹電影](https://zh.wikipedia.org/wiki/Category:松竹電影 "wikilink") [Category:米谷良知電影](https://zh.wikipedia.org/wiki/Category:米谷良知電影 "wikilink") [Category:2012年電子遊戲](https://zh.wikipedia.org/wiki/Category:2012年電子遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:2013年電子遊戲](https://zh.wikipedia.org/wiki/Category:2013年電子遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink")
 
-1.  [ヒーローの胸や腕に企業ロゴ
-    劇中にも広告を出す新アニメ](http://trendy.nikkeibp.co.jp/article/pickup/20110106/1034125/?ST=life&P=1)
-    [日経エンタテインメント\!](https://zh.wikipedia.org/wiki/日経エンタテインメント! "wikilink")
-    2011年2月号
+1.  [ヒーローの胸や腕に企業ロゴ 劇中にも広告を出す新アニメ](http://trendy.nikkeibp.co.jp/article/pickup/20110106/1034125/?ST=life&P=1) [日経エンタテインメント\!](https://zh.wikipedia.org/wiki/日経エンタテインメント! "wikilink") 2011年2月号
 2.  [pepsi公式サイト内CMページ](http://www.pepsi.co.jp/tigerandbunny/cm/index.html)
-
 3.
 4.
 5.

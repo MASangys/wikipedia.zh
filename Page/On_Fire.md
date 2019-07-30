@@ -1,12 +1,10 @@
-**《On
-Fire》**是[香港男子組合](../Page/香港.md "wikilink")[Swing的第三張專輯](https://zh.wikipedia.org/wiki/Swing "wikilink")，於2001年7月1日發行，共收錄十一首歌。是次專輯以**玩火**為主題，當中《黑雨天
-白鋼琴》更成為代表作之一。
+**《On Fire》**是[香港](../Page/香港.md "wikilink")男子組合[Swing的第三張專輯](https://zh.wikipedia.org/wiki/Swing "wikilink")，於2001年7月1日發行，共收錄十一首歌。是次專輯以**玩火**為主題，當中《黑雨天 白鋼琴》更成為代表作之一。
 
 ## 歌曲介紹
 
 ### 《JAL 565》
 
-這是[Eric寫給女友](../Page/郭偉亮.md "wikilink")[葉佩雯的歌曲](../Page/葉佩雯.md "wikilink")，記錄了他們之間的愛情故事：有天他們心血來潮，想外出旅行，便馬上乘坐深宵時分的客機前往[北海道](../Page/北海道.md "wikilink")。
+這是[Eric寫給女友](../Page/郭偉亮.md "wikilink")[葉佩雯](../Page/葉佩雯.md "wikilink")的歌曲，記錄了他們之間的愛情故事：有天他們心血來潮，想外出旅行，便馬上乘坐深宵時分的客機前往[北海道](../Page/北海道.md "wikilink")。
 
 ## 曲目
 
@@ -26,6 +24,4 @@ Fire》**是[香港男子組合](../Page/香港.md "wikilink")[Swing的第三張
 | 10 | 惺忪                                                                                                                   | Eric Kwok                                                       | 林寶                                                                  | 3:08 | [連結](https://www.youtube.com/watch?v=DkW4HQP3hgM) |
 | 11 | Frankie Lee (Ft. [葉佩雯](../Page/葉佩雯.md "wikilink")、[謝霆鋒](../Page/謝霆鋒.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")) | Eric Kwok / Jerald                                              | Jerald                                                              | 3:55 | [連結](https://www.youtube.com/watch?v=jGM-_Ywhpo4) |
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:Swing音樂專輯](https://zh.wikipedia.org/wiki/Category:Swing音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:Swing音樂專輯](https://zh.wikipedia.org/wiki/Category:Swing音樂專輯 "wikilink")

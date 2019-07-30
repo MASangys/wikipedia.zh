@@ -1,4 +1,4 @@
-《**勝者為王II天下無敵**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[亞洲電視製作的](../Page/亞洲電視.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共30集，由[陳庭威](../Page/陳庭威.md "wikilink")、[曾華倩](../Page/曾華倩.md "wikilink")、[吳毅將](../Page/吳毅將.md "wikilink")、[呂頌賢及](../Page/呂頌賢.md "wikilink")[伍詠薇主演](../Page/伍詠薇.md "wikilink")，監製為[袁仁康](https://zh.wikipedia.org/wiki/袁仁康 "wikilink")。此劇為《[勝者為王](../Page/勝者為王_\(1991年電視劇\).md "wikilink")》系列之第二部，推出時正面對撼[無綫電視的](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[大時代](https://zh.wikipedia.org/wiki/大時代_\(無綫電視劇\) "wikilink")》，首週平均收視為12點。
+《**勝者為王II天下無敵**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")製作的[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共30集，由[陳庭威](../Page/陳庭威.md "wikilink")、[曾華倩](../Page/曾華倩.md "wikilink")、[吳毅將](../Page/吳毅將.md "wikilink")、[呂頌賢](../Page/呂頌賢.md "wikilink")及[伍詠薇](../Page/伍詠薇.md "wikilink")主演，監製為[袁仁康](https://zh.wikipedia.org/wiki/袁仁康 "wikilink")。此劇為《[勝者為王](../Page/勝者為王_\(1991年電視劇\).md "wikilink")》系列之第二部，推出時正面對撼[無綫電視的](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[大時代](https://zh.wikipedia.org/wiki/大時代_\(無綫電視劇\) "wikilink")》，首週平均收視為12點。
 
 ## 劇情簡介
 
@@ -223,9 +223,7 @@
 
 ## 製作演員
 
-  - 武術指導 :
-    [徐二牛](../Page/徐二牛.md "wikilink")、[馬玉成](https://zh.wikipedia.org/wiki/馬玉成 "wikilink")
+  - 武術指導 : [徐二牛](../Page/徐二牛.md "wikilink")、[馬玉成](https://zh.wikipedia.org/wiki/馬玉成 "wikilink")
   - 賭術指導 : [江道海](https://zh.wikipedia.org/wiki/江道海 "wikilink")
 
-[Category:1992年亞視電視劇集](https://zh.wikipedia.org/wiki/Category:1992年亞視電視劇集 "wikilink")
-[Category:赌博题材作品](https://zh.wikipedia.org/wiki/Category:赌博题材作品 "wikilink")
+[Category:1992年亞視電視劇集](https://zh.wikipedia.org/wiki/Category:1992年亞視電視劇集 "wikilink") [Category:赌博题材作品](https://zh.wikipedia.org/wiki/Category:赌博题材作品 "wikilink")

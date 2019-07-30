@@ -1,7 +1,4 @@
-《**授业到天亮Chu\!**》（）是[日本的](../Page/日本.md "wikilink")[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")，原作者為太田顯喜（），作画師為。\[1\]在《[月刊Comic
-Alive](../Page/月刊Comic_Alive.md "wikilink")》（[Media
-Factory](../Page/Media_Factory.md "wikilink")）從2008年8月号连载到2016年1月號，單行本全4冊由[Media
-Factory發售](../Page/Media_Factory.md "wikilink")，正體中文版由[尖端出版代理發售](../Page/尖端出版.md "wikilink")。2011年11月決定动画化\[2\]。
+《**授业到天亮Chu\!**》（）是[日本](../Page/日本.md "wikilink")的[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")，原作者為太田顯喜（），作画師為。\[1\]在《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》（[Media Factory](../Page/Media_Factory.md "wikilink")）從2008年8月号连载到2016年1月號，單行本全4冊由[Media Factory發售](../Page/Media_Factory.md "wikilink")，正體中文版由[尖端出版](../Page/尖端出版.md "wikilink")代理發售。2011年11月決定动画化\[2\]。
 
 ## 故事簡介
 
@@ -107,23 +104,10 @@ Factory發售](../Page/Media_Factory.md "wikilink")，正體中文版由[尖端�
   - [WinBell](https://web.archive.org/web/20111230190128/http://www.winbell.co.jp/)
   - [](http://munyu.neko.ne.jp/)
 
-[Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
-[Category:校园漫画](https://zh.wikipedia.org/wiki/Category:校园漫画 "wikilink")
-[Category:偽娘題材漫畫](https://zh.wikipedia.org/wiki/Category:偽娘題材漫畫 "wikilink")
-[Category:2012年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2012年日本OVA動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
+[Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink") [Category:校园漫画](https://zh.wikipedia.org/wiki/Category:校园漫画 "wikilink") [Category:偽娘題材漫畫](https://zh.wikipedia.org/wiki/Category:偽娘題材漫畫 "wikilink") [Category:2012年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2012年日本OVA動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
 
-1.  [See Me After Class
-    (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=12101)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+1.  [See Me After Class (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=12101)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.
-3.  [Asa made Jugyō Chu\!
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13946)Anime
-    News Network
-4.  [朝まで授業Chu！
-    Blu-ray](http://www.getchu.com/soft.phtml?id=729720)Getchu.com
+3.  [Asa made Jugyō Chu\! (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13946)Anime News Network
+4.  [朝まで授業Chu！ Blu-ray](http://www.getchu.com/soft.phtml?id=729720)Getchu.com
 5.  [朝まで授業chu！(2012)](http://www.allcinema.net/prog/show_c.php?num_c=341660)allcinema

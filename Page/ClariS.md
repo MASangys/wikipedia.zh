@@ -1,41 +1,30 @@
-**ClariS**（）是一個日本的雙人女子[偶像组合](https://zh.wikipedia.org/wiki/偶像 "wikilink")，目前唱片公司为[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂.md "wikilink")[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")，經紀公司為。
+**ClariS**（）是一個日本的雙人女子[偶像组合](https://zh.wikipedia.org/wiki/偶像 "wikilink")，目前唱片公司为[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下的[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")，經紀公司為。
 
 ## 發展
 
-本來兩人是在[NICONICO動畫上以](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「」名義活動的[同人團體](https://zh.wikipedia.org/wiki/同人團體 "wikilink")。活動開始時兩人還是中學1年級，主要活動為翻唱[VOCALOID曲及](../Page/VOCALOID.md "wikilink")[動畫歌曲並上傳](../Page/動畫歌曲.md "wikilink")。而兩人的活動吸引動畫音樂雜誌《[LisAni\!](https://zh.wikipedia.org/wiki/LisAni! "wikilink")》編輯的目光，不僅為兩人製作特集，更在雜誌中附贈兩人演唱的原創曲CD，引起大眾注意。
+本來兩人是在[NICONICO動畫上以](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「」名義活動的[同人團體](https://zh.wikipedia.org/wiki/同人團體 "wikilink")。活動開始時兩人還是中學1年級，主要活動為翻唱[VOCALOID](../Page/VOCALOID.md "wikilink")曲及[動畫歌曲](../Page/動畫歌曲.md "wikilink")並上傳。而兩人的活動吸引動畫音樂雜誌《[LisAni\!](https://zh.wikipedia.org/wiki/LisAni! "wikilink")》編輯的目光，不僅為兩人製作特集，更在雜誌中附贈兩人演唱的原創曲CD，引起大眾注意。
 
-[ClariS_SMER.jpg](https://zh.wikipedia.org/wiki/File:ClariS_SMER.jpg "fig:ClariS_SMER.jpg")
-其後於2010年10月20日以[Kz製作的單曲](https://zh.wikipedia.org/wiki/livetune "wikilink")《[Irony](../Page/Irony.md "wikilink")》正式出道。\[1\]這首歌在發行前就已經因為搭配熱門[深夜動畫](https://zh.wikipedia.org/wiki/深夜動畫 "wikilink")《[我的妹妹哪有這麼可愛！](../Page/我的妹妹哪有這麼可愛！.md "wikilink")》\[2\]\[3\]引起討論，而熱門作品採用中學生新人團體的出道曲作為主題曲的空前記錄，也引起話題。該曲於10月5日公布的「」（[多玩國](https://zh.wikipedia.org/wiki/dwango "wikilink")[手機鈴聲網站](https://zh.wikipedia.org/wiki/手機鈴聲 "wikilink")）獲得週榜冠軍、同時在另一個網站「」也奪冠。10月21日的[公信榜單日榜中獲得第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")5名，而11月1日的公信榜週榜中也獲得第7名的成績。
+[ClariS_SMER.jpg](https://zh.wikipedia.org/wiki/File:ClariS_SMER.jpg "fig:ClariS_SMER.jpg") 其後於2010年10月20日以[Kz製作的單曲](https://zh.wikipedia.org/wiki/livetune "wikilink")《[Irony](../Page/Irony.md "wikilink")》正式出道。\[1\]這首歌在發行前就已經因為搭配熱門[深夜動畫](https://zh.wikipedia.org/wiki/深夜動畫 "wikilink")《[我的妹妹哪有這麼可愛！](../Page/我的妹妹哪有這麼可愛！.md "wikilink")》\[2\]\[3\]引起討論，而熱門作品採用中學生新人團體的出道曲作為主題曲的空前記錄，也引起話題。該曲於10月5日公布的「」（[多玩國](https://zh.wikipedia.org/wiki/dwango "wikilink")[手機鈴聲網站](https://zh.wikipedia.org/wiki/手機鈴聲 "wikilink")）獲得週榜冠軍、同時在另一個網站「」也奪冠。10月21日的[公信榜單日榜中獲得第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")5名，而11月1日的公信榜週榜中也獲得第7名的成績。
 
-在為紀念[ZONE復出](../Page/ZONE.md "wikilink")，於2011年8月10日正式发售的《》专辑里翻唱了《true
-blue》一曲。\[4\]
+在為紀念[ZONE](../Page/ZONE.md "wikilink")復出，於2011年8月10日正式发售的《》专辑里翻唱了《true blue》一曲。\[4\]
 
 2012年3月15日在官方Twitter上宣布两人已中學畢業。
 
-2013年10月26日，宣布将在2014年新春活动「New Year's
-Festival～起始的预感～」露面，但活动当日仍没有直接露面，只以剪影的方式登场。\[5\]\[6\]
+2013年10月26日，宣布将在2014年新春活动「New Year's Festival～起始的预感～」露面，但活动当日仍没有直接露面，只以剪影的方式登场。\[5\]\[6\]
 
-2014年8月8日，ClariS官方頁正式公開「新生ClariS始動！」的消息\[7\]，同時宣布在同日發售的動漫音樂雜誌「LisAni\!
-Vol.18」上收錄了ClariS成立至今的成長軌跡\[8\]，並同時公告，將在同年11月8日發售的「LisAni\!
-Vol.19」中附贈新團體的新CD「Clear Sky」\[9\]。
+2014年8月8日，ClariS官方頁正式公開「新生ClariS始動！」的消息\[7\]，同時宣布在同日發售的動漫音樂雜誌「LisAni\! Vol.18」上收錄了ClariS成立至今的成長軌跡\[8\]，並同時公告，將在同年11月8日發售的「LisAni\! Vol.19」中附贈新團體的新CD「Clear Sky」\[9\]。
 
-2014年11月8日，於「LisAni\! Vol.19」發表新曲「Clear
-Sky」，同時公布了「新生ClariS」的首張視覺圖，依然維持雙人團體，新成員的名字是「Karen」，同時預告新曲「border」為動畫「憑物語」ed，並收錄於第11張單曲，將於2015年1月7日發售，以及新生ClariS確定會參與LisAni\!LIVE
-5的消息\[10\]。
+2014年11月8日，於「LisAni\! Vol.19」發表新曲「Clear Sky」，同時公布了「新生ClariS」的首張視覺圖，依然維持雙人團體，新成員的名字是「Karen」，同時預告新曲「border」為動畫「憑物語」ed，並收錄於第11張單曲，將於2015年1月7日發售，以及新生ClariS確定會參與LisAni\!LIVE 5的消息\[10\]。
 
-2015年1月25日，再次以真人参演方式参与了[LisAni\!LIVE
-5演唱会表演](../Page/Lis_Ani!.md "wikilink")，但在强烈的灯光效果和佩戴了面纱的情况下，依然无法看到其真实脸容。\[11\]
+2015年1月25日，再次以真人参演方式参与了[LisAni\!LIVE 5演唱会表演](../Page/Lis_Ani!.md "wikilink")，但在强烈的灯光效果和佩戴了面纱的情况下，依然无法看到其真实脸容。\[11\]
 
 2015年7月31日，举办了第一场专属演唱会，不过依然保持以半脸纱遮盖脸容。\[12\]
 
-2017年4月，由原先[SME
-Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/SME_Records.md "wikilink")[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[13\]
+2017年4月，由原先[SME Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/SME_Records.md "wikilink")[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[13\]
 
 ## 成員
 
-ClariS最初是一個由來自北海道的兩個女中學生Clara和Aris（非本名）組成的偶像组合\[14\]。ClariS是由兩人的名字組合而成，而單字「claris」在[拉丁語中也有著](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「開朗、清潔、閃耀」等意義\[15\]（雖然實際上拼寫為「clarus\[16\]」）。此外也和兩人喜歡的《[魯邦三世卡里奧斯特羅之城](../Page/魯邦三世卡里奧斯特羅之城.md "wikilink")》作品中的女性角色同名。Clara從幼稚園時期便想成為一名歌手，後來上音樂學校時認識Aris\[17\]。由於以學業優先為理由，在各種媒體中也未曾公開本人照片，僅以[織田廣之及](https://zh.wikipedia.org/wiki/織田廣之 "wikilink")[蒼樹梅等插畫家繪製的插圖示人](../Page/蒼樹梅.md "wikilink")。2014年5月26日，Aris宣布因学业原因，在第三張专辑《》发行后离开该组合\[18\]。後來加入的成員Karen是Clara上音樂學校時認識的同學。Clara注意到Karen的個性與她自己截然不同，並親自提名Karen接替Aris成為ClariS的第二位成員。成员都有著代表色以及代表物：Clara是粉紅色，代表是月亮；Aris是藍色，代表是太陽；新加入的成員Karen則是淺綠色，代表是星星。
+ClariS最初是一個由來自北海道的兩個女中學生Clara和Aris（非本名）組成的偶像组合\[14\]。ClariS是由兩人的名字組合而成，而單字「claris」在[拉丁語中也有著](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「開朗、清潔、閃耀」等意義\[15\]（雖然實際上拼寫為「clarus\[16\]」）。此外也和兩人喜歡的《[魯邦三世卡里奧斯特羅之城](../Page/魯邦三世卡里奧斯特羅之城.md "wikilink")》作品中的女性角色同名。Clara從幼稚園時期便想成為一名歌手，後來上音樂學校時認識Aris\[17\]。由於以學業優先為理由，在各種媒體中也未曾公開本人照片，僅以[織田廣之及](https://zh.wikipedia.org/wiki/織田廣之 "wikilink")[蒼樹梅](../Page/蒼樹梅.md "wikilink")等插畫家繪製的插圖示人。2014年5月26日，Aris宣布因学业原因，在第三張专辑《》发行后离开该组合\[18\]。後來加入的成員Karen是Clara上音樂學校時認識的同學。Clara注意到Karen的個性與她自己截然不同，並親自提名Karen接替Aris成為ClariS的第二位成員。成员都有著代表色以及代表物：Clara是粉紅色，代表是月亮；Aris是藍色，代表是太陽；新加入的成員Karen則是淺綠色，代表是星星。
 
 ## 錄音作品
 
@@ -461,7 +450,7 @@ ISBN 978-4789735421</p></td>
 <td><p>1st</p></td>
 <td><p>2009年10月10日</p></td>
 <td><p><strong>STEP TO YOU</strong></p></td>
-<td><p><a href="../Page/VOCALOID.md" title="wikilink">VOCALOID曲</a></p></td>
+<td><p><a href="../Page/VOCALOID.md" title="wikilink">VOCALOID</a>曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -573,23 +562,14 @@ SRCL-7682（通常版）SRCL-7680（限量生产版）</p></td>
   -
   - [アリス☆クララ](https://web.archive.org/web/20130314142352/http://x82.peps.jp/alicekurara)，在時代的官方網站。
 
-  - [Nicovideo
-    Mylist](https://www.webcitation.org/668u1RnD8?url=http://www.nicovideo.jp/mylist/15308474)，在[NICONICO動畫上的Mylist](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。
+  - [Nicovideo Mylist](https://www.webcitation.org/668u1RnD8?url=http://www.nicovideo.jp/mylist/15308474)，在[NICONICO動畫上的Mylist](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。
 
   -
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
-[Category:匿名藝術家](https://zh.wikipedia.org/wiki/Category:匿名藝術家 "wikilink")
-[Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:匿名藝術家](https://zh.wikipedia.org/wiki/Category:匿名藝術家 "wikilink") [Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
 
 1.
 
-2.   「俺の妹がこんなに可愛いわけがない」アニメ公式サイト
-    |publisher=[Aniplex](../Page/Aniplex.md "wikilink")
-    |accessdate=2013年12月5日 |language=Ja |deadurl=yes
-    |archiveurl=<https://web.archive.org/web/20101005033900/http://www.oreimo-anime.com/music/index.html>
-    |archivedate=2010年10月5日 }}
+2.   「俺の妹がこんなに可愛いわけがない」アニメ公式サイト |publisher=[Aniplex](../Page/Aniplex.md "wikilink") |accessdate=2013年12月5日 |language=Ja |deadurl=yes |archiveurl=<https://web.archive.org/web/20101005033900/http://www.oreimo-anime.com/music/index.html> |archivedate=2010年10月5日 }}
 
 3.   Biography|accessdate=2018-06-17|language=ja}}
 
@@ -607,14 +587,11 @@ SRCL-7682（通常版）SRCL-7680（限量生产版）</p></td>
 
 10.
 
-11. JPbeta
-    多元化日本文化资讯站|url=[http://www.jpbeta.net/2015/01/claris-2015-0125/|accessdate=2016-03-26](http://www.jpbeta.net/2015/01/claris-2015-0125/%7Caccessdate=2016-03-26)}}
+11. JPbeta 多元化日本文化资讯站|url=[http://www.jpbeta.net/2015/01/claris-2015-0125/|accessdate=2016-03-26](http://www.jpbeta.net/2015/01/claris-2015-0125/%7Caccessdate=2016-03-26)}}
 
-12.
-    和邪社|url=[http://www.hexieshe.com/650986/?replytocom=345323|accessdate=2016-03-26|archive-url=https://web.archive.org/web/20170406143948/https://www.hexieshe.com/650986/?replytocom=345323|archive-date=2017-04-06|dead-url=yes](http://www.hexieshe.com/650986/?replytocom=345323%7Caccessdate=2016-03-26%7Carchive-url=https://web.archive.org/web/20170406143948/https://www.hexieshe.com/650986/?replytocom=345323%7Carchive-date=2017-04-06%7Cdead-url=yes)}}
+12.  和邪社|url=[http://www.hexieshe.com/650986/?replytocom=345323|accessdate=2016-03-26|archive-url=https://web.archive.org/web/20170406143948/https://www.hexieshe.com/650986/?replytocom=345323|archive-date=2017-04-06|dead-url=yes](http://www.hexieshe.com/650986/?replytocom=345323%7Caccessdate=2016-03-26%7Carchive-url=https://web.archive.org/web/20170406143948/https://www.hexieshe.com/650986/?replytocom=345323%7Carchive-date=2017-04-06%7Cdead-url=yes)}}
 
-13. [新レーベル『SACRA MUSIC』発足！ | プレスリリース | Sony Music Group Company
-    Site](https://www.sme.co.jp/s/SME/pressrelease/detail/NEWS00366?ima=1257)
+13. [新レーベル『SACRA MUSIC』発足！ | プレスリリース | Sony Music Group Company Site](https://www.sme.co.jp/s/SME/pressrelease/detail/NEWS00366?ima=1257)
 
 14.
 

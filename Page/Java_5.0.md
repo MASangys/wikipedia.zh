@@ -1,4 +1,4 @@
-**[Java](../Page/Java.md "wikilink")**從**5.0**版本開始，加入許多新特性，是[Java歷史中修改最大的版本](../Page/Java.md "wikilink")，許多特點模仿自[C\#](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")，因而被認為是為了與C\#對抗。
+**[Java](../Page/Java.md "wikilink")**從**5.0**版本開始，加入許多新特性，是[Java](../Page/Java.md "wikilink")歷史中修改最大的版本，許多特點模仿自[C\#](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")，因而被認為是為了與C\#對抗。
 
 ## 新的特性\[1\]
 
@@ -52,14 +52,11 @@
  hm.put(i, tt);      // 在這裏對int自動裝箱成Integer，也使用了參數的型別檢查
 ```
 
-自動裝箱的新功能，可能是從[C\#語言身上學習來的](https://zh.wikipedia.org/wiki/C＃ "wikilink")，Java已經越來越像C\#。然而Java對自動裝箱／拆箱的支援，僅是利用編譯器實現，在Java
-Bytecode中，並無自動裝箱／拆箱的操作碼（opcode）。
+自動裝箱的新功能，可能是從[C\#語言身上學習來的](https://zh.wikipedia.org/wiki/C＃ "wikilink")，Java已經越來越像C\#。然而Java對自動裝箱／拆箱的支援，僅是利用編譯器實現，在Java Bytecode中，並無自動裝箱／拆箱的操作碼（opcode）。
 
 ### [注解](../Page/Java注解.md "wikilink")（Annotation）
 
-Annotation全名是Program Annotation Facility，是Java SE
-5.0的新功能。Java的Annotation類似於.NET的屬性（Attribute）。Java的注解是一種接口（interface），繼承自java.lang.annotation.Annotation。Class
-File則貼上ACC_ANNOTATION標籤。
+Annotation全名是Program Annotation Facility，是Java SE 5.0的新功能。Java的Annotation類似於.NET的屬性（Attribute）。Java的注解是一種接口（interface），繼承自java.lang.annotation.Annotation。Class File則貼上ACC_ANNOTATION標籤。
 
 從5.0開始，javadoc的`@deprecated`（代表不建議使用的方法或類別）也被Annotation中的`@Deprecated`取代；另外，使用Java實作SOP的[AspectJ與](https://zh.wikipedia.org/wiki/AspectJ "wikilink")[Spring也使用了大量的Annotation](../Page/Spring_Framework.md "wikilink")。
 
@@ -83,14 +80,9 @@ File則貼上ACC_ANNOTATION標籤。
 
 ### 枚举类型（enum）
 
-枚举类型也是J2SE 5.0的新功能。過去Java認為enum的關鍵字是不必要的功能，因為用public static int
-field就可以取代enum，因此過去一直不用。J2SE 5.0中的class如果是enum，在class
-file中會被貼上一個ACC_ENUM標籤。
+枚举类型也是J2SE 5.0的新功能。過去Java認為enum的關鍵字是不必要的功能，因為用public static int field就可以取代enum，因此過去一直不用。J2SE 5.0中的class如果是enum，在class file中會被貼上一個ACC_ENUM標籤。
 
-Enum 一般用来表示一组相同类型的常量。如性别、日期、月份、颜色等。对这些属性用常量的好处是显而易见的，不仅可以保证单例，且比较时候可以用
-“==” 来替换 equals 。是一种好的习惯。 JDK1.5 之前没有 Enum
-这个类型，那时候一般用接口常量来替代。Java有了Enum
-之后，可以更贴近的表示这种常量。
+Enum 一般用来表示一组相同类型的常量。如性别、日期、月份、颜色等。对这些属性用常量的好处是显而易见的，不仅可以保证单例，且比较时候可以用 “==” 来替换 equals 。是一种好的习惯。 JDK1.5 之前没有 Enum 这个类型，那时候一般用接口常量来替代。Java有了Enum 之后，可以更贴近的表示这种常量。
 
 ``` java
  // JDK 1.4
@@ -114,8 +106,7 @@ Enum 一般用来表示一组相同类型的常量。如性别、日期、月份
 
 ### 国际化
 
-Java语言严格区分[字节和](../Page/字节.md "wikilink")[字符](../Page/字符.md "wikilink")。字符的存储格式为[UCS-2](https://zh.wikipedia.org/wiki/UCS-2 "wikilink")，也就是只能使用位於[基本多文種平面的字元](https://zh.wikipedia.org/wiki/基本多文種平面 "wikilink")，从Java
-5开始支持[UTF-16字符](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")。
+Java语言严格区分[字节](../Page/字节.md "wikilink")和[字符](../Page/字符.md "wikilink")。字符的存储格式为[UCS-2](https://zh.wikipedia.org/wiki/UCS-2 "wikilink")，也就是只能使用位於[基本多文種平面的字元](https://zh.wikipedia.org/wiki/基本多文種平面 "wikilink")，从Java 5开始支持[UTF-16字符](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")。
 
 另外，從5.0開始Java的程式也開始可以使用[Unicode字元進行命名](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
 
@@ -165,9 +156,7 @@ public class HelloWorld {
 
 ## 批評
 
-Java
-5.0雖然加入許多的新特性，但為了與舊版本相容，JVM並沒有隨之改變，而僅只是從編譯器動手腳，因而引發許多問題。討論Java語言問題的專書《Java
-Puzzle》就有專門的篇幅討論5.0之後造成的問題。
+Java 5.0雖然加入許多的新特性，但為了與舊版本相容，JVM並沒有隨之改變，而僅只是從編譯器動手腳，因而引發許多問題。討論Java語言問題的專書《Java Puzzle》就有專門的篇幅討論5.0之後造成的問題。
 
 ### 自動裝箱／拆箱的矛盾
 
@@ -188,10 +177,8 @@ Puzzle》就有專門的篇幅討論5.0之後造成的問題。
 
 ## 注释
 
-[en:Java version history\#J2SE 5.0 (September 30,
-2004)](https://zh.wikipedia.org/wiki/en:Java_version_history#J2SE_5.0_\(September_30,_2004\) "wikilink")
+[en:Java version history\#J2SE 5.0 (September 30, 2004)](https://zh.wikipedia.org/wiki/en:Java_version_history#J2SE_5.0_\(September_30,_2004\) "wikilink")
 
 [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
 
-1.  [New Features and Enhancements
-    J2SE 5.0](http://docs.oracle.com/javase/1.5.0/docs/relnotes/features.html#lang)
+1.  [New Features and Enhancements J2SE 5.0](http://docs.oracle.com/javase/1.5.0/docs/relnotes/features.html#lang)

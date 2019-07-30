@@ -1,17 +1,12 @@
-《**Q版大英雄**》（）是一部由[惊奇动画所制作的](https://zh.wikipedia.org/wiki/惊奇动画 "wikilink")[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。源自於[孩之宝的Ｑ版大英雄生產線](https://zh.wikipedia.org/wiki/孩之宝 "wikilink")，其角色皆由驚奇漫畫世界（[惊奇宇宙](https://zh.wikipedia.org/wiki/惊奇宇宙 "wikilink")）裡面加以Ｑ版化（[super-deformed](https://zh.wikipedia.org/wiki/super-deformed "wikilink")-style）。本系列動畫是由[羅曼電影公司](https://zh.wikipedia.org/wiki/羅曼電影公司 "wikilink")（[Film
-Roman](https://zh.wikipedia.org/wiki/Film_Roman "wikilink")）、[Ingenious](https://zh.wikipedia.org/wiki/Ingenious_Film_Partners "wikilink")，和[驚奇動畫工作室製作](https://zh.wikipedia.org/wiki/驚奇動畫 "wikilink")。
+《**Q版大英雄**》（）是一部由[惊奇动画所制作的](https://zh.wikipedia.org/wiki/惊奇动画 "wikilink")[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。源自於[孩之宝的Ｑ版大英雄生產線](https://zh.wikipedia.org/wiki/孩之宝 "wikilink")，其角色皆由驚奇漫畫世界（[惊奇宇宙](https://zh.wikipedia.org/wiki/惊奇宇宙 "wikilink")）裡面加以Ｑ版化（[super-deformed](https://zh.wikipedia.org/wiki/super-deformed "wikilink")-style）。本系列動畫是由[羅曼電影公司](https://zh.wikipedia.org/wiki/羅曼電影公司 "wikilink")（[Film Roman](https://zh.wikipedia.org/wiki/Film_Roman "wikilink")）、[Ingenious](https://zh.wikipedia.org/wiki/Ingenious_Film_Partners "wikilink")，和[驚奇動畫工作室製作](https://zh.wikipedia.org/wiki/驚奇動畫 "wikilink")。
 
-本作品在2009年9月13日（星期日早上8點半）在加拿大的[Teletoon](https://zh.wikipedia.org/wiki/Teletoon_\(Canadian_TV_channel\) "wikilink")
-進行全球首播。\[1\]
+本作品在2009年9月13日（星期日早上8點半）在加拿大的[Teletoon](https://zh.wikipedia.org/wiki/Teletoon_\(Canadian_TV_channel\) "wikilink") 進行全球首播。\[1\]
 
-美國[卡通频道在隔日](https://zh.wikipedia.org/wiki/卡通频道 "wikilink")（2009年9月14日）到18日間，\[2\]先行首播。
-第二季於2010年10月23日早上6點半
-(ET)。12月4日，在澳洲的一個免費兒童頻道[ABC3也開始播出](https://zh.wikipedia.org/wiki/ABC3 "wikilink")。
+美國[卡通频道在隔日](https://zh.wikipedia.org/wiki/卡通频道 "wikilink")（2009年9月14日）到18日間，\[2\]先行首播。 第二季於2010年10月23日早上6點半 (ET)。12月4日，在澳洲的一個免費兒童頻道[ABC3也開始播出](https://zh.wikipedia.org/wiki/ABC3 "wikilink")。
 
-英國於2009年10月開始在[NickToons](https://zh.wikipedia.org/wiki/Nicktoons_\(UK_&_Ireland\) "wikilink")
-播出。\[3\]
+英國於2009年10月開始在[NickToons](https://zh.wikipedia.org/wiki/Nicktoons_\(UK_&_Ireland\) "wikilink") 播出。\[3\]
 
-香港於2011年7月4日開始在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台播出](../Page/本港台.md "wikilink")，譯名為《超級英雄聯盟》。
+香港於2011年7月4日開始在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")播出，譯名為《超級英雄聯盟》。
 
 台灣卡通頻道於2010年4月5日至7月26日間播放第一季。
 
@@ -24,8 +19,7 @@ Roman](https://zh.wikipedia.org/wiki/Film_Roman "wikilink")）、[Ingenious](htt
 ##### [鋼鐵人](../Page/鋼鐵人.md "wikilink")(Iron Man)
 
   -
-    配音：Tom
-    Kenny（美）、[魏伯勤](../Page/魏伯勤.md "wikilink")（台版第一季）→[陳幼文](../Page/陳幼文.md "wikilink")（台版第二季）、[利耀堂](../Page/利耀堂.md "wikilink")（港）
+    配音：Tom Kenny（美）、[魏伯勤](../Page/魏伯勤.md "wikilink")（台版第一季）→[陳幼文](../Page/陳幼文.md "wikilink")（台版第二季）、[利耀堂](../Page/利耀堂.md "wikilink")（港）
     是超級英雄天團團長，同時也是科技超能力者。
     台灣配音版有落英文。
 
@@ -107,14 +101,12 @@ Roman](https://zh.wikipedia.org/wiki/Film_Roman "wikilink")）、[Ingenious](htt
 #### [末日博士](https://zh.wikipedia.org/wiki/末日博士 "wikilink")(Dr. Doom)
 
   -
-    配音：Charlie
-    Adler（美）、[李香生](../Page/李香生.md "wikilink")（台灣版第一季）→[陳幼文](../Page/陳幼文.md "wikilink")（台灣版第二季）
+    配音：Charlie Adler（美）、[李香生](../Page/李香生.md "wikilink")（台灣版第一季）→[陳幼文](../Page/陳幼文.md "wikilink")（台灣版第二季）
 
 #### [魔多客](../Page/魔多客.md "wikilink")(M.O.D.O.K.)
 
   -
-    配音：Tom
-    Kenny（美）、[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink")（台）
+    配音：Tom Kenny（美）、[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink")（台）
 
 #### [惡煞](https://zh.wikipedia.org/wiki/惡煞 "wikilink")(Abomination)
 
@@ -136,30 +128,14 @@ Roman](https://zh.wikipedia.org/wiki/Film_Roman "wikilink")）、[Ingenious](htt
 ## 外部链接
 
   -
-  - [*The Super Hero Squad Episodes
-    Guide*](http://www.tv.com/the-super-hero-squad-show/show/76796/summary.html?q=super%20hero%20squad%20show&tag=search_results;title;1)
-    on TV.com
+  - [*The Super Hero Squad Episodes Guide*](http://www.tv.com/the-super-hero-squad-show/show/76796/summary.html?q=super%20hero%20squad%20show&tag=search_results;title;1) on TV.com
 
-  - [*The Super Hero Squad
-    Show*](https://web.archive.org/web/20110131135124/http://www.cartoonnetwork.com/tv_shows/superherosquad/)
-    on [Cartoon
-    Network.com](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")
+  - [*The Super Hero Squad Show*](https://web.archive.org/web/20110131135124/http://www.cartoonnetwork.com/tv_shows/superherosquad/) on [Cartoon Network.com](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")
 
-  - [*The Super Hero Squad
-    Show*](http://www.animatedsuperheroes.com/2009/09/super-hero-squad-show.html)
-    on Animated Superheroes
+  - [*The Super Hero Squad Show*](http://www.animatedsuperheroes.com/2009/09/super-hero-squad-show.html) on Animated Superheroes
 
   -
-[Category:漫威动画](https://zh.wikipedia.org/wiki/Category:漫威动画 "wikilink")
-[Category:2009年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2009年開播的美國電視影集 "wikilink")
-[Category:2011年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2011年停播的美國電視影集 "wikilink")
-[Category:2000年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2000年代美國動畫影集 "wikilink")
-[Category:2010年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2010年代美國動畫影集 "wikilink")
-[Category:超级英雄题材电视剧](https://zh.wikipedia.org/wiki/Category:超级英雄题材电视剧 "wikilink")
-[Category:卡通頻道電視節目](https://zh.wikipedia.org/wiki/Category:卡通頻道電視節目 "wikilink")
-[Category:迪士尼XD电视节目](https://zh.wikipedia.org/wiki/Category:迪士尼XD电视节目 "wikilink")
-[Category:其他媒体中的美国队长](https://zh.wikipedia.org/wiki/Category:其他媒体中的美国队长 "wikilink")
-[Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")
+[Category:漫威动画](https://zh.wikipedia.org/wiki/Category:漫威动画 "wikilink") [Category:2009年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2009年開播的美國電視影集 "wikilink") [Category:2011年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2011年停播的美國電視影集 "wikilink") [Category:2000年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2000年代美國動畫影集 "wikilink") [Category:2010年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2010年代美國動畫影集 "wikilink") [Category:超级英雄题材电视剧](https://zh.wikipedia.org/wiki/Category:超级英雄题材电视剧 "wikilink") [Category:卡通頻道電視節目](https://zh.wikipedia.org/wiki/Category:卡通頻道電視節目 "wikilink") [Category:迪士尼XD电视节目](https://zh.wikipedia.org/wiki/Category:迪士尼XD电视节目 "wikilink") [Category:其他媒体中的美国队长](https://zh.wikipedia.org/wiki/Category:其他媒体中的美国队长 "wikilink") [Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")
 
 1.
 2.

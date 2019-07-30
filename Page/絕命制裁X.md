@@ -11,40 +11,28 @@
   -
     17歲，175公分。
     做出選擇的男子。是個懷抱著亡友遺志持續奮戰的剛毅木訥人物。九年前受到恐怖炸彈攻擊所波及而身體殘破不堪，在望月正宗的救治下，接收了被宣判腦死的摯友望月龍的身體、內臟而存活下來。對摯友的父親同時也是自己救命恩人的望月正宗抱有極大忠誠心。
-    武裝：鎗管一長一短的[M1911雙鎗](../Page/M1911手槍.md "wikilink")（命名：「 BlackLabel
-    Long Slide 」「 BlackLabel Knuckle 」；長款的手鎗為致敬電影《[-{zh-cn:终结者;
-    zh-tw:魔鬼終結者;
-    zh-hk:未來戰士;}-](https://zh.wikipedia.org/wiki/魔鬼終結者 "wikilink")》中-{zh-cn:终结者;
-    zh-tw:終結者; zh-hk:未來戰士;}-所持之名鎗[AMT
-    Hardballer](../Page/AMT_Hardballer手槍.md "wikilink")）、短鎗身雙管散彈鎗（命名：「
-    Double Joker 」）
+    武裝：鎗管一長一短的[M1911雙鎗](../Page/M1911手槍.md "wikilink")（命名：「 BlackLabel Long Slide 」「 BlackLabel Knuckle 」；長款的手鎗為致敬電影《[-{zh-cn:终结者; zh-tw:魔鬼終結者; zh-hk:未來戰士;}-](https://zh.wikipedia.org/wiki/魔鬼終結者 "wikilink")》中-{zh-cn:终结者; zh-tw:終結者; zh-hk:未來戰士;}-所持之名鎗[AMT Hardballer](../Page/AMT_Hardballer手槍.md "wikilink")）、短鎗身雙管散彈鎗（命名：「 Double Joker 」）
 
 <!-- end list -->
 
   -
     17歲，162公分，B87/W57/H85。
     嵐的學姊。雖然在學校是個千金大小姐，但駕馭機車的技術非常高超。
-    武裝：GS1200SS重機車（命名：「 Black Goose 」）、[S\&W M627 Performance
-    Center雙鎗](../Page/史密斯威森M27左輪手槍.md "wikilink")（命名：「 Eight Ball
-    」；據作者所言，這是日本業界第一部起用此款八發裝左輪手鎗的漫畫）
+    武裝：GS1200SS重機車（命名：「 Black Goose 」）、[S\&W M627 Performance Center雙鎗](../Page/史密斯威森M27左輪手槍.md "wikilink")（命名：「 Eight Ball 」；據作者所言，這是日本業界第一部起用此款八發裝左輪手鎗的漫畫）
 
 <!-- end list -->
 
   -
     14歲，148公分，B87/W53/H79。
     失控偶像，擅長使用爆裂物，是小組裡的火藥庫。
-    武裝：[M79榴彈發射器](../Page/M79榴彈發射器.md "wikilink")（命名：「 I★DOL BUSTER
-    」）、[RPG-7](../Page/RPG-7.md "wikilink")、各式[炸弹](https://zh.wikipedia.org/wiki/炸弹 "wikilink")
+    武裝：[M79榴彈發射器](../Page/M79榴彈發射器.md "wikilink")（命名：「 I★DOL BUSTER 」）、[RPG-7](../Page/RPG-7.md "wikilink")、各式[炸弹](https://zh.wikipedia.org/wiki/炸弹 "wikilink")
 
 ### 安瓶零號（主治醫生）
 
   -
     29歲，163公分，B80/W55/H82。
     望月綜合病院的麻醉醫師。與友子組成搭檔，是遠距離支援戰鬥人員。
-    武裝：20mm[反器材步槍](../Page/反器材步槍.md "wikilink")[NTW-20](../Page/NTW-20.md "wikilink")（命名：「
-    BlackLabel Indra Arrow」）、7.62mm狙擊步鎗[M14
-    EBR](../Page/Mk_14增強型戰鬥步槍.md "wikilink")（命名：「
-    BlackLabel Silent Mist 」）
+    武裝：20mm[反器材步槍](../Page/反器材步槍.md "wikilink")[NTW-20](../Page/NTW-20.md "wikilink")（命名：「 BlackLabel Indra Arrow」）、7.62mm狙擊步鎗[M14 EBR](../Page/Mk_14增強型戰鬥步槍.md "wikilink")（命名：「 BlackLabel Silent Mist 」）
 
 <!-- end list -->
 
@@ -58,9 +46,7 @@
   -
     24歲，169公分，B93/W58/H84。
     擁有強韌的肉體的[護士](https://zh.wikipedia.org/wiki/護士 "wikilink")，負責小組中的重型槍械。
-    武裝：[MG42通用機槍](../Page/MG42通用機槍.md "wikilink")（命名：「 BlackLabel
-    BuzzSaw 」）、[M134迷你砲機槍](../Page/M134迷你砲機槍.md "wikilink")（命名：「 THE NO
-    PAIN 」）、[盾](../Page/盾.md "wikilink")
+    武裝：[MG42通用機槍](../Page/MG42通用機槍.md "wikilink")（命名：「 BlackLabel BuzzSaw 」）、[M134迷你砲機槍](../Page/M134迷你砲機槍.md "wikilink")（命名：「 THE NO PAIN 」）、[盾](../Page/盾.md "wikilink")
 
 ### 黑色標籤
 
@@ -249,9 +235,7 @@
 
 ### 製作人員
 
-  - 原作：（[KADOKAWA](../Page/KADOKAWA.md "wikilink")
-    [富士見書房刊](../Page/富士見書房.md "wikilink")「Dragon
-    Comics Age」）
+  - 原作：（[KADOKAWA](../Page/KADOKAWA.md "wikilink") [富士見書房](../Page/富士見書房.md "wikilink")刊「Dragon Comics Age」）
   - 監督：[高見明男](https://zh.wikipedia.org/wiki/高見明男 "wikilink")、[加戶譽夫](../Page/加戶譽夫.md "wikilink")
   - 系列構成：[高山克彥](../Page/高山克彥.md "wikilink")
   - 角色設計、總作畫監督：高見明男
@@ -261,8 +245,7 @@
 ### 主題曲
 
   - 片頭曲「triage」
-    作詞、作曲、編曲：流田Project，主唱：[藏合紗惠子](../Page/藏合紗惠子.md "wikilink") featuring
-    [流田Project](https://zh.wikipedia.org/wiki/流田Project "wikilink")
+    作詞、作曲、編曲：流田Project，主唱：[藏合紗惠子](../Page/藏合紗惠子.md "wikilink") featuring [流田Project](https://zh.wikipedia.org/wiki/流田Project "wikilink")
   - 片尾曲「」
     作詞：畔柳宏平，作曲：隱田遼平，編曲：，主唱：[山本和臣](../Page/山本和臣.md "wikilink")
   - 插入曲「Big Bang Love」（第6話）
@@ -429,12 +412,7 @@
   - [絕命制裁X電視動畫公式網站](http://triagex-anime.jp/)
 
   -
-[Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink")
-[Category:月刊Dragon_Age](https://zh.wikipedia.org/wiki/Category:月刊Dragon_Age "wikilink")
-[Category:殺手主角題材作品](https://zh.wikipedia.org/wiki/Category:殺手主角題材作品 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
+[Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink") [Category:月刊Dragon_Age](https://zh.wikipedia.org/wiki/Category:月刊Dragon_Age "wikilink") [Category:殺手主角題材作品](https://zh.wikipedia.org/wiki/Category:殺手主角題材作品 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
 
-1.  [電撃 - TVアニメ『トリアージX』2015年4月放送開始
-    出演声優は赤羽根健治さん、近藤唯さん、佐藤亜美菜さん](http://dengekionline.com/elem/000/000/967/967256/)
+1.  [電撃 - TVアニメ『トリアージX』2015年4月放送開始 出演声優は赤羽根健治さん、近藤唯さん、佐藤亜美菜さん](http://dengekionline.com/elem/000/000/967/967256/)
 2.  漫畫第12集附送Blu-ray。

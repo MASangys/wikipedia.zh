@@ -1,6 +1,4 @@
-**Devil
-Inside**是[宇多田光以Utada名義發行的第二張](../Page/宇多田光.md "wikilink")[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，也是[宇多田光以Utada的名義發行的第一張實體英語](../Page/宇多田光.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2004年9月14日發行。**Devil
-Inside**一曲取得了美國Billboard舞曲榜周冠軍，而在西方舞廳也常可聽到這首曲子，這單曲算是一成功之作，但並未引起太大的關注以及目光。
+**Devil Inside**是[宇多田光](../Page/宇多田光.md "wikilink")以Utada名義發行的第二張[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，也是[宇多田光](../Page/宇多田光.md "wikilink")以Utada的名義發行的第一張實體英語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2004年9月14日發行。**Devil Inside**一曲取得了美國Billboard舞曲榜周冠軍，而在西方舞廳也常可聽到這首曲子，這單曲算是一成功之作，但並未引起太大的關注以及目光。
 
 ## 曲目
 
@@ -35,8 +33,7 @@ position</p></th>
 <references/>
 
   -
-[Category:宇多田光歌曲](https://zh.wikipedia.org/wiki/Category:宇多田光歌曲 "wikilink")
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
+[Category:宇多田光歌曲](https://zh.wikipedia.org/wiki/Category:宇多田光歌曲 "wikilink") [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
 
 1.
 

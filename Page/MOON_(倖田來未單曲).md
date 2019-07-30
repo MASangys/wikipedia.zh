@@ -2,18 +2,15 @@
 
 ## 附註
 
-  - 本作為「[4 hot
-    wave](https://zh.wikipedia.org/wiki/4_hot_wave "wikilink")」、「[FREAKY](../Page/FREAKY.md "wikilink")」以來連續的收錄4曲的夏季[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+  - 本作為「[4 hot wave](https://zh.wikipedia.org/wiki/4_hot_wave "wikilink")」、「[FREAKY](../Page/FREAKY.md "wikilink")」以來連續的收錄4曲的夏季[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 <!-- end list -->
 
-  - 「**Moon
-    Crying**」為ABC・[朝日電視台](../Page/朝日電視台.md "wikilink")系連續劇『[Puzzle](../Page/謎_\(電視劇\).md "wikilink")』的主題曲。
+  - 「**Moon Crying**」為ABC・[朝日電視台](../Page/朝日電視台.md "wikilink")系連續劇『[Puzzle](../Page/謎_\(電視劇\).md "wikilink")』的主題曲。
 
 <!-- end list -->
 
-  - 「**That Ain't Cool**」為music.jp
-    電視廣告曲，與[黑眼豆豆](../Page/黑眼豆豆.md "wikilink")的[菲姬](../Page/菲姬.md "wikilink")的合作曲，引起東西方的合作話題\[1\]。
+  - 「**That Ain't Cool**」為music.jp 電視廣告曲，與[黑眼豆豆](../Page/黑眼豆豆.md "wikilink")的[菲姬](../Page/菲姬.md "wikilink")的合作曲，引起東西方的合作話題\[1\]。
 
 <!-- end list -->
 
@@ -62,8 +59,7 @@
 2.  **That Ain't Cool 那可不酷 feat. Fergie 菲姬（Music Video）**
 3.  **Moon Crying（Making Video）**
 4.  **That Ain't Cool 那可不酷 feat. Fergie 菲姬（Making Video）**
-5.  '''Moon Crying（Live Video From KODA KUMI Live Tour 2008 ～Kingdom～
-    [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")・國立代代木競技場第一體育館公演）※僅收錄於初回版
+5.  '''Moon Crying（Live Video From KODA KUMI Live Tour 2008 ～Kingdom～ [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")・國立代代木競技場第一體育館公演）※僅收錄於初回版
 
 ## 相關連結
 
@@ -77,9 +73,6 @@
 
 </div>
 
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")
-[Category:朝日電視台週五晚間九點連續劇主題曲](https://zh.wikipedia.org/wiki/Category:朝日電視台週五晚間九點連續劇主題曲 "wikilink")
-[Category:月球題材歌曲](https://zh.wikipedia.org/wiki/Category:月球題材歌曲 "wikilink")
+[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink") [Category:朝日電視台週五晚間九點連續劇主題曲](https://zh.wikipedia.org/wiki/Category:朝日電視台週五晚間九點連續劇主題曲 "wikilink") [Category:月球題材歌曲](https://zh.wikipedia.org/wiki/Category:月球題材歌曲 "wikilink")
 
 1.

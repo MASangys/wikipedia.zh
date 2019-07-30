@@ -1,12 +1,10 @@
-《**驚爆危機ANOTHER**》是[富士見Fantasia文庫發行](../Page/富士見Fantasia文庫.md "wikilink")，為《[驚爆危機](../Page/驚爆危機.md "wikilink")》的外傳小說\[1\]。
+《**驚爆危機ANOTHER**》是[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")發行，為《[驚爆危機](../Page/驚爆危機.md "wikilink")》的外傳小說\[1\]。
 
-由大黑尚人所著，驚爆危機的原作者[賀東招二則擔任監修](../Page/賀東招二.md "wikilink")。插畫則繼續由[四季童子負責](../Page/四季童子.md "wikilink")。
+由大黑尚人所著，驚爆危機的原作者[賀東招二](../Page/賀東招二.md "wikilink")則擔任監修。插畫則繼續由[四季童子](../Page/四季童子.md "wikilink")負責。
 
 ## 概要
 
-該作品以《驚爆危機》十多年後（實際上約12年）的世界作為背景。原作者賀東招二在這次負責故事原案及監修，而執筆者為正式出道的大黑尚人，該作可以說是二人三足般編寫的作品。
-在小說第1卷內由賀東編寫的後記中，講述該作最初為負責人提議，只需達到「Fans
-Service」水準的作品，但在後來該計劃的規模慢慢擴大，賀東便以由自己徹底監修該作品作為條件，拒絕委託專業作家編寫，並且提拔[Fantasia大賞中在最終選拔中落選](../Page/Fantasia大賞.md "wikilink")，但賀東本人高度注視其軍事與動作描寫的大黑尚人。而書中的插畫，再次委託《驚爆危機》的插畫家四季童子負責。
+該作品以《驚爆危機》十多年後（實際上約12年）的世界作為背景。原作者賀東招二在這次負責故事原案及監修，而執筆者為正式出道的大黑尚人，該作可以說是二人三足般編寫的作品。 在小說第1卷內由賀東編寫的後記中，講述該作最初為負責人提議，只需達到「Fans Service」水準的作品，但在後來該計劃的規模慢慢擴大，賀東便以由自己徹底監修該作品作為條件，拒絕委託專業作家編寫，並且提拔[Fantasia大賞](../Page/Fantasia大賞.md "wikilink")中在最終選拔中落選，但賀東本人高度注視其軍事與動作描寫的大黑尚人。而書中的插畫，再次委託《驚爆危機》的插畫家四季童子負責。
 
 雖然該作冠名為《驚爆危機》，但是主要登場人物全為新角色，就算之前沒閱讀過《驚爆危機》的讀者仍能好好享受該作品。
 
@@ -18,7 +16,7 @@ Service」水準的作品，但在後來該計劃的規模慢慢擴大，賀東�
 
   -
     本作的主角，都立陣代高中三年級生。
-    因為喜歡上美艷的外國人英語教師，而在[多益考試中得到](../Page/多益.md "wikilink")900分的高分，因此在英文對話上完全沒有問題。
+    因為喜歡上美艷的外國人英語教師，而在[多益](../Page/多益.md "wikilink")考試中得到900分的高分，因此在英文對話上完全沒有問題。
     從小學開始就在家裡開設的「市之瀨建設」幫忙，操縱PS的技術已是駕輕就熟。
     因為在D.O.M.S.和自衛隊進行練習戰期間的AS暴走事件裡，代替了雅德莉娜駕駛AS〈Shadow〉制壓住了暴走的AS〈96式改〉而受到D.O.M.S.的社長毛的注意而被高薪挖角，自己也考慮為了財政困難的自家公司的因素，而答應成為其公司的一員。
     在雅德莉娜的猛烈特訓下，駕駛技術飛快的進步著，並成功通過測驗成為D.O.M.S.正式成員，被授予作戰代號「**遺產4號**」。
@@ -184,8 +182,7 @@ Service」水準的作品，但在後來該計劃的規模慢慢擴大，賀東�
 
 ## 機體
 
-主條目：[強襲機兵](https://zh.wikipedia.org/wiki/強襲機兵 "wikilink")(Arm
-Slave，簡稱AS)
+主條目：[強襲機兵](https://zh.wikipedia.org/wiki/強襲機兵 "wikilink")(Arm Slave，簡稱AS)
 
 人型重機(powerslave，簡稱PS)
 
@@ -272,9 +269,7 @@ ISBN 978-4-8291-3856-4</p></td>
 
   - 《》 / 作畫：
       -
-        掲載雜誌：「[Newtype
-        Ace](https://zh.wikipedia.org/wiki/Newtype_Ace "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）」2011年Vol.2
-        -
+        掲載雜誌：「[Newtype Ace](https://zh.wikipedia.org/wiki/Newtype_Ace "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）」2011年Vol.2 -
 
 ### 單行本
 
@@ -301,18 +296,14 @@ ISBN 978-4-8291-3856-4</p></td>
 
 ## 外部連結
 
-  - [gatoh.com blog style（作者：賀東招二
-    HP）](http://www.gatoh.com/weblog/index.html)
+  - [gatoh.com blog style（作者：賀東招二 HP）](http://www.gatoh.com/weblog/index.html)
 
   - [驚爆危機！（富士見書房・子頁面內項目）](http://www.fujimishobo.co.jp/sp/panic/)
 
   - [驚爆危機！官方網頁](http://www.tdd-1.com/index.html)
 
   -
-[Category:驚爆危機](https://zh.wikipedia.org/wiki/Category:驚爆危機 "wikilink")
-[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink")
-[Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink")
-[Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")
+[Category:驚爆危機](https://zh.wikipedia.org/wiki/Category:驚爆危機 "wikilink") [Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink") [Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink") [Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")
 
 1.  賀東為小說第1期封面套內列明為外傳。
 2.  日本陸上自衛隊特有的階級之一，相當於一般軍隊的上校

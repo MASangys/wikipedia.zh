@@ -1,5 +1,4 @@
-《**初音未來 -Project DIVA-
-extend**》（，）是一款由世嘉開發的PSP音樂遊戲，發售日為2011年11月10日。本遊戲為《[初音未来_-歌姬计划-_2nd](../Page/初音未来_-歌姬计划-_2nd.md "wikilink")》的續作。本作繼承前作簡單的遊戲和樂曲編輯操作，加強了編曲功能和變裝功能，並可以繼承前作的存檔。鏡音等角色也會在本作中出現。
+《**初音未來 -Project DIVA- extend**》（，）是一款由世嘉開發的PSP音樂遊戲，發售日為2011年11月10日。本遊戲為《[初音未来_-歌姬计划-_2nd](../Page/初音未来_-歌姬计划-_2nd.md "wikilink")》的續作。本作繼承前作簡單的遊戲和樂曲編輯操作，加強了編曲功能和變裝功能，並可以繼承前作的存檔。鏡音等角色也會在本作中出現。
 
 ## 歌曲
 
@@ -1250,13 +1249,7 @@ KAITO</p></td>
 
 ## 初音未来 -歌姬计划- 梦想剧场 extend
 
-《**初音未來 -名伶計畫- 夢幻劇院
-extend**》（暫名，）是一款由[世嘉開發的](../Page/世嘉.md "wikilink")[PlayStation
-3](../Page/PlayStation_3.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")，發售日為2012年9月13日。為配合[PlayStation
-Portable遊戲](../Page/PlayStation_Portable.md "wikilink")《[初音未來 -歌姬计划-
-extend](https://zh.wikipedia.org/wiki/初音未來_-歌姬计划-_extend "wikilink")》的軟體。透過
-USB 連接線連接 PS3 與裝有《初音ミク -Project DIVA- extend》遊戲的
-PSP，就可以在PS3上玩經翻新重製的高解析度畫面。本軟體另有增加『現場演唱會欣賞模式』，可欣賞最後のミクの日感謝祭的模擬PV，有11首歌曲可供選擇。
+《**初音未來 -名伶計畫- 夢幻劇院 extend**》（暫名，）是一款由[世嘉](../Page/世嘉.md "wikilink")開發的[PlayStation 3](../Page/PlayStation_3.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")，發售日為2012年9月13日。為配合[PlayStation Portable遊戲](../Page/PlayStation_Portable.md "wikilink")《[初音未來 -歌姬计划- extend](https://zh.wikipedia.org/wiki/初音未來_-歌姬计划-_extend "wikilink")》的軟體。透過 USB 連接線連接 PS3 與裝有《初音ミク -Project DIVA- extend》遊戲的 PSP，就可以在PS3上玩經翻新重製的高解析度畫面。本軟體另有增加『現場演唱會欣賞模式』，可欣賞最後のミクの日感謝祭的模擬PV，有11首歌曲可供選擇。
 
   -
     收錄PSP版既有的樂曲以及角色模組
@@ -1279,9 +1272,4 @@ PSP，就可以在PS3上玩經翻新重製的高解析度畫面。本軟體另�
 
   - [extend官網](http://miku.sega.jp/extend/)
 
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink")
-[Category:初音未来_-歌姬计划-_系列](https://zh.wikipedia.org/wiki/Category:初音未来_-歌姬计划-_系列 "wikilink")
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
+[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink") [Category:初音未来_-歌姬计划-_系列](https://zh.wikipedia.org/wiki/Category:初音未来_-歌姬计划-_系列 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")

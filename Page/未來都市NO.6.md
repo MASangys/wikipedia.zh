@@ -1,7 +1,6 @@
-《**未來都市NO.6**》（）是由所著的近未来SF[赛博朋克](../Page/赛博朋克.md "wikilink")（Cyberpunk）小说。由[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")[YA\!
-ENTERTAINMENT发行](https://zh.wikipedia.org/wiki/YA!_ENTERTAINMENT "wikilink")。[2011年6月发售最终卷](../Page/2011年6月.md "wikilink")，單行本全9卷。
+《**未來都市NO.6**》（）是由所著的近未来SF[赛博朋克](../Page/赛博朋克.md "wikilink")（Cyberpunk）小说。由[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")[YA\! ENTERTAINMENT发行](https://zh.wikipedia.org/wiki/YA!_ENTERTAINMENT "wikilink")。[2011年6月](../Page/2011年6月.md "wikilink")发售最终卷，單行本全9卷。
 
-2011年1月宣布电视动画化，7月开始播放。并且在[講談社的ARIA杂志上从](https://zh.wikipedia.org/wiki/講談社 "wikilink")[2011年3月开始由](../Page/2011年3月.md "wikilink")开始漫画版的连载。
+2011年1月宣布电视动画化，7月开始播放。并且在[講談社的ARIA杂志上从](https://zh.wikipedia.org/wiki/講談社 "wikilink")[2011年3月](../Page/2011年3月.md "wikilink")开始由开始漫画版的连载。
 
 ## 故事
 
@@ -328,8 +327,7 @@ ISBN 978-4-06-358496-7（特裝版）</p></td>
 
 ### 工作人员
 
-  - 原作 - 淺野敦子（YA\!
-    ENTERTAINMENT／[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）
+  - 原作 - 淺野敦子（YA\! ENTERTAINMENT／[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）
   - 監督 - [長崎健司](../Page/長崎健司.md "wikilink")
   - 系列構成 - [水上清資](../Page/水上清資.md "wikilink")
   - 人物原案・概念设计 - [toi8](https://zh.wikipedia.org/wiki/toi8 "wikilink")
@@ -341,16 +339,14 @@ ISBN 978-4-06-358496-7（特裝版）</p></td>
   - 音響監督 - [三間雅文](../Page/三間雅文.md "wikilink")
   - 制作人- 米内則智、黑須礼央、松下卓也、竹枝義典
   - 动画制作 - [BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")
-  - 製作 -
-    NO.6製作委員会（[ANIPEX](https://zh.wikipedia.org/wiki/ANIPEX "wikilink")、講談社、[富士電視台](../Page/富士電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、BONES）
+  - 製作 - NO.6製作委員会（[ANIPEX](https://zh.wikipedia.org/wiki/ANIPEX "wikilink")、講談社、[富士電視台](../Page/富士電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、BONES）
 
 ### 主題歌
 
   - 片头曲「Spell」
     作詞・作曲・歌 - [LAMA](https://zh.wikipedia.org/wiki/LAMA "wikilink")
   - 片尾曲「」
-    作詞 - aimerrythm / 作曲・編曲 - 飛内将大 / 歌 -
-    [Aimer](../Page/Aimer.md "wikilink")
+    作詞 - aimerrythm / 作曲・編曲 - 飛内将大 / 歌 - [Aimer](../Page/Aimer.md "wikilink")
   - 插入歌「風のレクイエム」（第5話、第8話、第10話、第11話）
     作詞 - あさのあつこ / 作曲 - 鈴木慶一 / 歌 - 大地真央
   - 插入歌「ブナの森で」（第9話）
@@ -493,22 +489,13 @@ ISBN 978-4-06-358496-7（特裝版）</p></td>
 
   - [講談社BOOK倶楽部：NO.6［ナンバーシックス］](https://web.archive.org/web/20100528094031/http://shop.kodansha.jp/bc/books/topics/no6/)
 
-  - [YA\!
-    ENTERTAINMENT](https://web.archive.org/web/20110110044951/http://shop.kodansha.jp/bc/books/ya-enter/)
+  - [YA\! ENTERTAINMENT](https://web.archive.org/web/20110110044951/http://shop.kodansha.jp/bc/books/ya-enter/)
 
   - [电视动画官网](http://www.no-6.jp/top.html)
 
   - [网络电台＜音泉＞](http://www.onsen.ag/)
 
-[Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")
-[Category:2011年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2011年日本電視動畫 "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:小說改編動畫](https://zh.wikipedia.org/wiki/Category:小說改編動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:反烏托邦](https://zh.wikipedia.org/wiki/Category:反烏托邦 "wikilink")
+[Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink") [Category:2011年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2011年日本電視動畫 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:小說改編動畫](https://zh.wikipedia.org/wiki/Category:小說改編動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:反烏托邦](https://zh.wikipedia.org/wiki/Category:反烏托邦 "wikilink")
 
 1.  參見原作第六集第五章
 2.  第1話於25時30分－26時00分播放

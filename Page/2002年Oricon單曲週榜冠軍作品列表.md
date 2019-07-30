@@ -1,6 +1,6 @@
-**2002年Oricon單曲週榜冠軍作品列表**列出2002年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2002年Oricon單曲週榜冠軍作品列表**列出2002年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
-全年度共有38首冠軍單曲誕生，其中[平井堅的](../Page/平井堅.md "wikilink")《[爺爺的古老大鐘](../Page/爺爺的古老大鐘_\(平井堅單曲\).md "wikilink")》取得冠軍的週書最多（4週）。
+全年度共有38首冠軍單曲誕生，其中[平井堅](../Page/平井堅.md "wikilink")的《[爺爺的古老大鐘](../Page/爺爺的古老大鐘_\(平井堅單曲\).md "wikilink")》取得冠軍的週書最多（4週）。
 
 ## 冠軍單曲列表
 
@@ -385,5 +385,4 @@
 
   - [2002年每週公信榜統計數據](https://web.archive.org/web/20101128184025/http://musictvprogram.com/oricon2002.html)
 
-[Category:2002年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:2002年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")

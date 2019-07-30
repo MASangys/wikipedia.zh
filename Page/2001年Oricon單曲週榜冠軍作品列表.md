@@ -1,7 +1,6 @@
-**2001年Oricon單曲週榜冠軍作品列表**列出2001年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2001年Oricon單曲週榜冠軍作品列表**列出2001年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
-全年度共有42首冠軍單曲誕生，其中[Every Little
-Thing的](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink")《[fragile／JIRENMA](https://zh.wikipedia.org/wiki/fragile/JIRENMA "wikilink")》取得冠軍的週書最多（3週）。
+全年度共有42首冠軍單曲誕生，其中[Every Little Thing的](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink")《[fragile／JIRENMA](https://zh.wikipedia.org/wiki/fragile/JIRENMA "wikilink")》取得冠軍的週書最多（3週）。
 
 ## 冠軍單曲列表
 
@@ -393,5 +392,4 @@ Thing的](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink")《[fragil
 
   - [2001年每週公信榜統計數據](https://web.archive.org/web/20101128184130/http://musictvprogram.com/oricon2001.html)
 
-[Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")

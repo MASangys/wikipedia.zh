@@ -1,5 +1,4 @@
-《**B型H系**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[山-{}-里陽子所創作的](https://zh.wikipedia.org/wiki/山里陽子 "wikilink")[日本漫画](../Page/日本漫画.md "wikilink")作品。於《[週刊YOUNG
-JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2004年20號至2011年10號期間進行連載，單行本全九集。[廣播劇CD版於](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")2007年9月14日發售（集英社）。改編电视动画于2010年4月至同年7月期間放送，全12回。
+《**B型H系**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[山-{}-里陽子所創作的](https://zh.wikipedia.org/wiki/山里陽子 "wikilink")[日本漫画](../Page/日本漫画.md "wikilink")作品。於《[週刊YOUNG JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2004年20號至2011年10號期間進行連載，單行本全九集。[廣播劇CD版於](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")2007年9月14日發售（集英社）。改編电视动画于2010年4月至同年7月期間放送，全12回。
 
 ## 剧情简介
 
@@ -184,16 +183,11 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2004年20號至2011年10號期�
   - 色彩設計：谷本千繪
   - 攝影監督：長牛豐
   - 編集：後藤正浩
-  - 音樂：[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")（藤田淳平、藤間仁）
+  - 音樂：[Elements Garden](../Page/Elements_Garden.md "wikilink")（藤田淳平、藤間仁）
   - 錄音演出：鹽谷翼
   - 制片人：松井智、森亮介、吉田悟、栗田滋弘、甲斐健太郎
-  - 动画制作：[HAL FILM
-    MAKER](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")
-  - 製作：B型H系製作委員会（[Happinet](https://zh.wikipedia.org/wiki/Happinet "wikilink")、[集英社](../Page/集英社.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[AG-ONE](https://zh.wikipedia.org/wiki/AG-ONE "wikilink")、[NEC
-    BIGLOBE](https://zh.wikipedia.org/wiki/NEC_BIGLOBE "wikilink")、[DAX
-    Production](https://zh.wikipedia.org/wiki/DAX_Production "wikilink")、[TYO
-    Animations](https://zh.wikipedia.org/wiki/TYO_Animations "wikilink")、[McRAY](https://zh.wikipedia.org/wiki/McRAY "wikilink")、[AT-X](../Page/AT-X.md "wikilink")）
+  - 动画制作：[HAL FILM MAKER](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")
+  - 製作：B型H系製作委員会（[Happinet](https://zh.wikipedia.org/wiki/Happinet "wikilink")、[集英社](../Page/集英社.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[AG-ONE](https://zh.wikipedia.org/wiki/AG-ONE "wikilink")、[NEC BIGLOBE](https://zh.wikipedia.org/wiki/NEC_BIGLOBE "wikilink")、[DAX Production](https://zh.wikipedia.org/wiki/DAX_Production "wikilink")、[TYO Animations](https://zh.wikipedia.org/wiki/TYO_Animations "wikilink")、[McRAY](https://zh.wikipedia.org/wiki/McRAY "wikilink")、[AT-X](../Page/AT-X.md "wikilink")）
 
 ### 主題歌
 
@@ -238,8 +232,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2004年20號至2011年10號期�
   -
     作詞：
     作曲：
-    編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")）
+    編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
     歌：[近江知永](../Page/近江知永.md "wikilink")
 
 <!-- end list -->
@@ -250,8 +243,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2004年20號至2011年10號期�
 
   -
     作詞：[鬼頭巖](https://zh.wikipedia.org/wiki/鬼頭巖 "wikilink")
-    作曲・編曲：[藤間仁](../Page/藤間仁.md "wikilink")（[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")）
+    作曲・編曲：[藤間仁](../Page/藤間仁.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
     歌：
 
 <!-- end list -->
@@ -273,8 +265,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2004年20號至2011年10號期�
 
   -
     作詞・作曲：[NAGAE](https://zh.wikipedia.org/wiki/NAGAE "wikilink")
-    編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")）
+    編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
     歌：山田、宮野麻由、金城京香（[田村由香里](../Page/田村由香里.md "wikilink")、[花澤香菜](../Page/花澤香菜.md "wikilink")、[小林優](../Page/小林優.md "wikilink")）
 
 ### 各話列表
@@ -697,10 +688,4 @@ B型H系、永远…</p></td>
 
   - [B型R系（）](http://hibiki-radio.jp/description/b_r.html)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink")
-[Category:四格漫画](https://zh.wikipedia.org/wiki/Category:四格漫画 "wikilink")
-[Category:高中背景漫画](https://zh.wikipedia.org/wiki/Category:高中背景漫画 "wikilink")
-[Category:2010年UHF動畫](https://zh.wikipedia.org/wiki/Category:2010年UHF動畫 "wikilink")
-[Category:HAL_FILM_MAKER](https://zh.wikipedia.org/wiki/Category:HAL_FILM_MAKER "wikilink")
-[Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink") [Category:四格漫画](https://zh.wikipedia.org/wiki/Category:四格漫画 "wikilink") [Category:高中背景漫画](https://zh.wikipedia.org/wiki/Category:高中背景漫画 "wikilink") [Category:2010年UHF動畫](https://zh.wikipedia.org/wiki/Category:2010年UHF動畫 "wikilink") [Category:HAL_FILM_MAKER](https://zh.wikipedia.org/wiki/Category:HAL_FILM_MAKER "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")

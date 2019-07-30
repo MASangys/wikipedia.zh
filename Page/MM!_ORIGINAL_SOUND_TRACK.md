@@ -1,11 +1,10 @@
-『**MM\! ORIGINAL SOUND
-TRACK**』（）是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[MM一族](../Page/MM一族.md "wikilink")』的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。2010年12月22日由[GloryHeaven發售](https://zh.wikipedia.org/wiki/GloryHeaven "wikilink")。
+『**MM\! ORIGINAL SOUND TRACK**』（）是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[MM一族](../Page/MM一族.md "wikilink")』的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。2010年12月22日由[GloryHeaven發售](https://zh.wikipedia.org/wiki/GloryHeaven "wikilink")。
 
 ## 概要
 
   - [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[MM一族](../Page/MM一族.md "wikilink")』的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。收錄了劇中使用的[BGM和](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")[主題歌等](https://zh.wikipedia.org/wiki/主題歌 "wikilink")。
   - CD封面是石動美緒、結野嵐子的畫像。
-  - BGM的作曲家是[橋本由香利親手作](../Page/橋本由香利.md "wikilink")。
+  - BGM的作曲家是[橋本由香利](../Page/橋本由香利.md "wikilink")親手作。
 
 ## 收錄曲
 
@@ -66,9 +65,6 @@ TRACK**』（）是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wi
 
 ## 外部連結
 
-  - [MM\! ORIGINAL SOUND
-    TRACK](http://lantis.jp/new-release/data.php?id=d379c1f7078264c0043a1deba82fc3b1)
+  - [MM\! ORIGINAL SOUND TRACK](http://lantis.jp/new-release/data.php?id=d379c1f7078264c0043a1deba82fc3b1)
 
-[Category:2010年原聲帶](https://zh.wikipedia.org/wiki/Category:2010年原聲帶 "wikilink")
-[Category:Lantis發行的音樂專輯](https://zh.wikipedia.org/wiki/Category:Lantis發行的音樂專輯 "wikilink")
-[Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink")
+[Category:2010年原聲帶](https://zh.wikipedia.org/wiki/Category:2010年原聲帶 "wikilink") [Category:Lantis發行的音樂專輯](https://zh.wikipedia.org/wiki/Category:Lantis發行的音樂專輯 "wikilink") [Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink")

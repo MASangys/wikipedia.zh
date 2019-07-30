@@ -1,5 +1,4 @@
-《**Get Well
-Soon**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周柏豪於](../Page/周柏豪.md "wikilink")2012年1月12日發行\[1\]的第六張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，收錄六首歌曲，當中包括他首支正式國語歌曲《錯配》。
+《**Get Well Soon**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周柏豪](../Page/周柏豪.md "wikilink")於2012年1月12日發行\[1\]的第六張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，收錄六首歌曲，當中包括他首支正式國語歌曲《錯配》。
 
 ## 曲目
 
@@ -93,10 +92,6 @@ Edward Chan</p></td>
 
 </div>
 
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:周柏豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周柏豪音樂專輯 "wikilink")
+[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:周柏豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周柏豪音樂專輯 "wikilink")
 
-1.  [周柏豪 – Get Well Soon CD - Sky
-    Music](http://skymusic.com.hk/?p=27169)，2012年1月28日 (六) 23:55
-    (UTC+8)查閱
+1.  [周柏豪 – Get Well Soon CD - Sky Music](http://skymusic.com.hk/?p=27169)，2012年1月28日 (六) 23:55 (UTC+8)查閱

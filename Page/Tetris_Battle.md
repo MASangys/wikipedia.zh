@@ -1,6 +1,4 @@
-《**Tetris Battle**》\[1\]是一個社交網路服務網站Facebook上的一款益智遊戲，由Tetris Online,
-Inc.廠商，使用Flash開發的多人[俄羅斯方塊遊戲](../Page/俄羅斯方塊.md "wikilink")，在遊戲中[Facebook的用戶可以與朋友進行](../Page/Facebook.md "wikilink")2人、4人、6人的方式進行對戰，亦可單人進行遊戲，玩法皆略有不同。《**Tetris
-Battle**》於2011年便成為許多玩家熱愛的遊戲之一。另外，此遊戲已於2019年5月31起停止營運，理由是因公司停止營運。
+《**Tetris Battle**》\[1\]是一個社交網路服務網站Facebook上的一款益智遊戲，由Tetris Online, Inc.廠商，使用Flash開發的多人[俄羅斯方塊](../Page/俄羅斯方塊.md "wikilink")遊戲，在遊戲中[Facebook](../Page/Facebook.md "wikilink")的用戶可以與朋友進行2人、4人、6人的方式進行對戰，亦可單人進行遊戲，玩法皆略有不同。《**Tetris Battle**》於2011年便成為許多玩家熱愛的遊戲之一。另外，此遊戲已於2019年5月31起停止營運，理由是因公司停止營運。
 
 ## 遊戲操作
 
@@ -26,12 +24,9 @@ Battle**》於2011年便成為許多玩家熱愛的遊戲之一。另外，此�
     Game : 遊戲
     <big>　選擇模式後即可開始對戰</big>
       -
-        [BATTLE
-        2P](https://zh.wikipedia.org/wiki/#BATTLE_2P "wikilink")：兩人對決模式
-        [SPRINT
-        4P](https://zh.wikipedia.org/wiki/#SPRINT_4P "wikilink")：四人競速模式
-        [BATTLE
-        6P](https://zh.wikipedia.org/wiki/#BATTLE_6P "wikilink")：六人戰役模式
+        [BATTLE 2P](https://zh.wikipedia.org/wiki/#BATTLE_2P "wikilink")：兩人對決模式
+        [SPRINT 4P](https://zh.wikipedia.org/wiki/#SPRINT_4P "wikilink")：四人競速模式
+        [BATTLE 6P](https://zh.wikipedia.org/wiki/#BATTLE_6P "wikilink")：六人戰役模式
         [MARATHON](https://zh.wikipedia.org/wiki/#MARATHON "wikilink")：單人馬拉松模式
         [SPRINT](https://zh.wikipedia.org/wiki/#SPRINT "wikilink")：單人競速模式
         ARENA: 六人競技場LIVE對戰模式
@@ -77,8 +72,7 @@ Battle**》於2011年便成為許多玩家熱愛的遊戲之一。另外，此�
 
 ### BATTLE 2P
 
-兩人的對決模式，每場競技限時二分鐘，勝負取決於「KO（擊倒數）」\>「LINES
-SENT（比賽積分）」\>「行高矮度」，三項參數優先順序來決定勝利者。
+兩人的對決模式，每場競技限時二分鐘，勝負取決於「KO（擊倒數）」\>「LINES SENT（比賽積分）」\>「行高矮度」，三項參數優先順序來決定勝利者。
 
   -
     競技時間超過1分鐘（勝利者星星數+1，失敗者星星數-1）；小於1分鐘（勝利者星星數+0，失敗者星星數-1）
@@ -93,8 +87,7 @@ SENT（比賽積分）」\>「行高矮度」，三項參數優先順序來決�
 
 ### BATTLE 6P
 
-六人的戰役模式，每場競技限時二分鐘，勝負取決於〈KO（擊倒數）〉\>〈LINES
-SENT（比賽積分〉\>〈行高矮度〉〉，三項參數優先順序來決定名次。
+六人的戰役模式，每場競技限時二分鐘，勝負取決於〈KO（擊倒數）〉\>〈LINES SENT（比賽積分〉\>〈行高矮度〉〉，三項參數優先順序來決定名次。
 
 1.  若有一位玩家KO數達到10 KO時將直接結束。
 
@@ -108,13 +101,11 @@ SENT（比賽積分〉\>〈行高矮度〉〉，三項參數優先順序來決�
 
 ### MARATHON
 
-單人的馬拉松模式，每場無時限，遊戲共計15關（LEVEL），每關消耗一定行數（LENES）至零則直接晉升下一關，每關方塊下墜速度會越來越快，直至玩家方塊疊到頂點或15關全過結束遊戲。勝利獎勵經驗值（XP）、遊戲幣（TETRIS
-COINS）依結束關卡數而定。
+單人的馬拉松模式，每場無時限，遊戲共計15關（LEVEL），每關消耗一定行數（LENES）至零則直接晉升下一關，每關方塊下墜速度會越來越快，直至玩家方塊疊到頂點或15關全過結束遊戲。勝利獎勵經驗值（XP）、遊戲幣（TETRIS COINS）依結束關卡數而定。
 
 ### SPRINT
 
-單人的競速模式，比賽無時限，初始行數（LINES SENT）為40，消至0則結束遊戲。勝利獎勵（XP）、遊戲幣（TETRIS
-COINS）依照時間快慢決定。
+單人的競速模式，比賽無時限，初始行數（LINES SENT）為40，消至0則結束遊戲。勝利獎勵（XP）、遊戲幣（TETRIS COINS）依照時間快慢決定。
 
 ## 遊戲商店
 
@@ -122,8 +113,7 @@ COINS）依照時間快慢決定。
 
 ### 速度優化
 
-商店中的TUNING，其可以對遊戲的四項參數做速度優化，使其遊戲操作速度可更快速。
-四項參數皆有五個階級，初始是一階級，可透過遊戲幣或點數來升階級。
+商店中的TUNING，其可以對遊戲的四項參數做速度優化，使其遊戲操作速度可更快速。 四項參數皆有五個階級，初始是一階級，可透過遊戲幣或點數來升階級。
 速度優化項目如下：
 
   - LEFT/RIGHT SPEED
@@ -143,11 +133,9 @@ COINS）依照時間快慢決定。
     4-wide: 以COMBO得分，這是能在沒有炸彈狀況之下達到俄羅斯方塊最高19COMBO，且比3-wide更具有攻擊力。
     ST Stacking: 以T-Spin Double和Tetris為主的玩法，以維持B2B狀態取得高分。
     ZT stacking: 以T-Spin Double和Tetris為主的玩法，以維持B2B狀態取得高分。
-    固定3T: 會採取T-Spin Triple作為先攻，最後再做2-wide攻擊，熟練的玩家則一直循環T-Spin
-    Triple和2-wide的攻擊。
+    固定3T: 會採取T-Spin Triple作為先攻，最後再做2-wide攻擊，熟練的玩家則一直循環T-Spin Triple和2-wide的攻擊。
     循環3T: 以T-Spin Triple為主的玩法，以維持B2B狀態取得高分。
-    Freestyle T-spin(縮寫FST):
-    搭配T-spin及Tetris來維持B2B的玩法，也可隨時切換玩法，具有自由風格特殊玩法。
+    Freestyle T-spin(縮寫FST): 搭配T-spin及Tetris來維持B2B的玩法，也可隨時切換玩法，具有自由風格特殊玩法。
     Perfect Clear: 使用完美清除作為攻擊主力，依據高手對戰經驗，一場2分鐘最多7次完美清除，世界紀錄為16次。
 
 FST風格可大致分為幾類:暴力B2B型(以TSD/TETRIS/TSM/架橋維持B2B,為積極攻擊的打法);DS型(以DS為主力的防守型打法);COMBO型(以C4W/4W/2W/3W為主力,搭配上相對少數的TSD做輔助攻擊);PC型(在一開始放出1\~2個PC,或全程PC);純粹暴力型(暴力B2B與COMBO的結合,將T-SPIN架於2W/3W/4W之上,T-SPIN完即瞬間DS造成大量的攻擊,危險性高)
@@ -267,8 +255,7 @@ Perfect Clear</p></td>
 
 Marathon的Combo則是Combo次數乘上50。
 
-Marathon依照關卡等級還會有倍率，如果原本該拿到500分，在關卡10則會拿到5000分，簡單說就是應得分數乘上關卡等級。
-Marathon還有緩降分數跟瞬降分數，這不會因為關卡等級而有倍率。緩降每下降一格拿一分；瞬降每下降一格拿兩分。
+Marathon依照關卡等級還會有倍率，如果原本該拿到500分，在關卡10則會拿到5000分，簡單說就是應得分數乘上關卡等級。 Marathon還有緩降分數跟瞬降分數，這不會因為關卡等級而有倍率。緩降每下降一格拿一分；瞬降每下降一格拿兩分。
 
 ## 参见
 
@@ -280,14 +267,9 @@ Marathon還有緩降分數跟瞬降分數，這不會因為關卡等級而有倍
 
 ## 外部連結
 
-  - [Facebook - Tetris
-    Battle遊戲頁面](http://apps.facebook.com/tetris_battle/)
+  - [Facebook - Tetris Battle遊戲頁面](http://apps.facebook.com/tetris_battle/)
 
-[Category:网页游戏](https://zh.wikipedia.org/wiki/Category:网页游戏 "wikilink")
-[Category:消除类游戏](https://zh.wikipedia.org/wiki/Category:消除类游戏 "wikilink")
-[Category:Facebook遊戲](https://zh.wikipedia.org/wiki/Category:Facebook遊戲 "wikilink")
+[Category:网页游戏](https://zh.wikipedia.org/wiki/Category:网页游戏 "wikilink") [Category:消除类游戏](https://zh.wikipedia.org/wiki/Category:消除类游戏 "wikilink") [Category:Facebook遊戲](https://zh.wikipedia.org/wiki/Category:Facebook遊戲 "wikilink")
 
-1.  [Facebook - Tetris
-    Battle遊戲頁面](http://apps.facebook.com/tetris_battle/)
-2.  [巴哈姆特 - Tetris
-    Battle攻略提示](http://wiki2.gamer.com.tw/wiki.php?n=45581:%E6%94%BB%E7%95%A5%E6%8F%90%E7%A4%BA&ss=45581&f=M)
+1.  [Facebook - Tetris Battle遊戲頁面](http://apps.facebook.com/tetris_battle/)
+2.  [巴哈姆特 - Tetris Battle攻略提示](http://wiki2.gamer.com.tw/wiki.php?n=45581:%E6%94%BB%E7%95%A5%E6%8F%90%E7%A4%BA&ss=45581&f=M)

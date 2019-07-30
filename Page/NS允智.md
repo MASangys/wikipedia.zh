@@ -1,28 +1,18 @@
-**NS允智**（，），本名**金允智**（），英文名**Christine**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，NS允智的「NS」的含義是
-New
-Spirit，歌迷名稱為PureLish。NS允智因為在[美國長期生活所以能說出流利的](https://zh.wikipedia.org/wiki/美國 "wikilink")[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，而前[Kara成員](../Page/Kara.md "wikilink")[姜知英是她的表妹](https://zh.wikipedia.org/wiki/姜知英 "wikilink")。\[1\]\[2\]，曾為[DSP練習生](https://zh.wikipedia.org/wiki/DSP "wikilink")，以及當時尚未出道的新女團[Rainbow成員](../Page/Rainbow_\(音樂團體\).md "wikilink")，最後由於退出而未成事。不過NS允智與Rainbow隊長[金栽經仍然份屬好友](../Page/金栽經.md "wikilink")。2017年8月宣布已與歌手男友Chancellor結束三年戀情。
+**NS允智**（，），本名**金允智**（），英文名**Christine**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，NS允智的「NS」的含義是 New Spirit，歌迷名稱為PureLish。NS允智因為在[美國長期生活所以能說出流利的](https://zh.wikipedia.org/wiki/美國 "wikilink")[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，而前[Kara](../Page/Kara.md "wikilink")成員[姜知英是她的表妹](https://zh.wikipedia.org/wiki/姜知英 "wikilink")。\[1\]\[2\]，曾為[DSP練習生](https://zh.wikipedia.org/wiki/DSP "wikilink")，以及當時尚未出道的新女團[Rainbow成員](../Page/Rainbow_\(音樂團體\).md "wikilink")，最後由於退出而未成事。不過NS允智與Rainbow隊長[金栽經](../Page/金栽經.md "wikilink")仍然份屬好友。2017年8月宣布已與歌手男友Chancellor結束三年戀情。
 
 ## 經歴
 
 ### 出道前
 
-在小學四年級時，移民到[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯生活](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，之後升讀於[洛杉磯加利福尼亞大學](https://zh.wikipedia.org/wiki/洛杉磯加利福尼亞大學 "wikilink")，一直到大學畢業後才回到韓國。\[3\]兒時就有想當歌手的心願。出道前曾在[DSP
-Media當過練習生](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，後來與表妹[姜知英一同參加](https://zh.wikipedia.org/wiki/姜知英 "wikilink")[Kara的選拔](../Page/Kara.md "wikilink"),
-最後落選反而是陪同去的[姜知英通過](https://zh.wikipedia.org/wiki/姜知英 "wikilink")。\[4\]
-。落選後，她一度成為另一女團[Rainbow替補成員](../Page/Rainbow_\(音樂團體\).md "wikilink")，後來由於遲遲未能出道，最終選擇離開。
+在小學四年級時，移民到[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯生活](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，之後升讀於[洛杉磯加利福尼亞大學](https://zh.wikipedia.org/wiki/洛杉磯加利福尼亞大學 "wikilink")，一直到大學畢業後才回到韓國。\[3\]兒時就有想當歌手的心願。出道前曾在[DSP Media當過練習生](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，後來與表妹[姜知英一同參加](https://zh.wikipedia.org/wiki/姜知英 "wikilink")[Kara](../Page/Kara.md "wikilink")的選拔, 最後落選反而是陪同去的[姜知英通過](https://zh.wikipedia.org/wiki/姜知英 "wikilink")。\[4\] 。落選後，她一度成為另一女團[Rainbow替補成員](../Page/Rainbow_\(音樂團體\).md "wikilink")，後來由於遲遲未能出道，最終選擇離開。
 
 ### 日本發展
 
-透過日本化妝品牌[Heat
-Jewel從廣告出道](https://zh.wikipedia.org/wiki/Heat_Jewel "wikilink")。
-2011年12月27日JTM Entertainment表示「NS允智被選為日本化妝品牌[Heat
-Jewel的模特兒](https://zh.wikipedia.org/wiki/Heat_Jewel "wikilink")，正式進軍日本。」
+透過日本化妝品牌[Heat Jewel從廣告出道](https://zh.wikipedia.org/wiki/Heat_Jewel "wikilink")。 2011年12月27日JTM Entertainment表示「NS允智被選為日本化妝品牌[Heat Jewel的模特兒](https://zh.wikipedia.org/wiki/Heat_Jewel "wikilink")，正式進軍日本。」
 
 ### 形象突破
 
-在迷你專輯《Neo
-Spirit》新曲《成為魔女的理由》中，NS允智為了這首新曲的感覺更火熱而改變了新形象，NS允智以前造型為清純和斯文但今次的新曲《成為魔女的理由》令她造型改變不小。同時令她在[SBS人氣歌謠中打進了](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")「Take
-7」。
+在迷你專輯《Neo Spirit》新曲《成為魔女的理由》中，NS允智為了這首新曲的感覺更火熱而改變了新形象，NS允智以前造型為清純和斯文但今次的新曲《成為魔女的理由》令她造型改變不小。同時令她在[SBS人氣歌謠中打進了](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")「Take 7」。
 
 ## 廣告
 
@@ -245,7 +235,7 @@ Spirit》新曲《成為魔女的理由》中，NS允智為了這首新曲的感
 
 | 年份    | 電視台  | 節目名稱                                                       | 備註                                                                                                                         |
 | ----- | ---- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 2014年 | JTBC | [Crime Scene 犯罪現場](../Page/Crime_Scene_犯罪現場.md "wikilink") | 與[全炫茂](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")、[朴芝潤](../Page/朴芝潤.md "wikilink")、[洪榛浩共同出演](../Page/洪榛浩.md "wikilink") |
+| 2014年 | JTBC | [Crime Scene 犯罪現場](../Page/Crime_Scene_犯罪現場.md "wikilink") | 與[全炫茂](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")、[朴芝潤](../Page/朴芝潤.md "wikilink")、[洪榛浩](../Page/洪榛浩.md "wikilink")共同出演 |
 |       |      |                                                            |                                                                                                                            |
 
 ## 參考資料
@@ -258,20 +248,10 @@ Spirit》新曲《成為魔女的理由》中，NS允智為了這首新曲的感
   - [NS允智1theK時期Youtube](https://www.youtube.com/channel/UCTWXz-nSDBNUJa8yEjOQGFw)
   - [NS允智Sony時期Youtube](https://www.youtube.com/user/NSYoonGVEVO)
 
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
 
-1.  ['대세걸', NS윤지, 강지영과 '귀요미'
-    셀카](http://www.jtn.co.kr/v2/sub_view.asp?idx=22954) JTN NEWS
-    2012年1月31日
-2.  [NS允智下周六登「台」　搭嚴爵熱舞](http://www.appledaily.com.tw/realtimenews/article/entertainment/20131003/268796/)蘋果日報
-    2013年10月3日
-3.  [專訪韓國唱跳新星 NS
-    Yoon-G](http://teenpower1.rthk.hk/tptv/inside.php?id=794) 香港電台
-    2013年1月24日
-4.  [「火辣歌姬」NS允智曝雙C溝　偷爆Kara姜智英超會喝](http://www.ettoday.net/news/20131012/281260.htm)
-    東森新聞雲 2013年10月12日
-5.  [If You Love Me魔女精選 - NS允智 NS Yoon
-    G](http://www.sonymusic.com.tw/main/album/if-you-love-me%E9%AD%94%E5%A5%B3%E7%B2%BE%E9%81%B8-ns%E5%85%81%E6%99%BA-ns-yoon-g-88765456082)
-    台灣索尼音樂
+1.  ['대세걸', NS윤지, 강지영과 '귀요미' 셀카](http://www.jtn.co.kr/v2/sub_view.asp?idx=22954) JTN NEWS 2012年1月31日
+2.  [NS允智下周六登「台」　搭嚴爵熱舞](http://www.appledaily.com.tw/realtimenews/article/entertainment/20131003/268796/)蘋果日報 2013年10月3日
+3.  [專訪韓國唱跳新星 NS Yoon-G](http://teenpower1.rthk.hk/tptv/inside.php?id=794) 香港電台 2013年1月24日
+4.  [「火辣歌姬」NS允智曝雙C溝　偷爆Kara姜智英超會喝](http://www.ettoday.net/news/20131012/281260.htm) 東森新聞雲 2013年10月12日
+5.  [If You Love Me魔女精選 - NS允智 NS Yoon G](http://www.sonymusic.com.tw/main/album/if-you-love-me%E9%AD%94%E5%A5%B3%E7%B2%BE%E9%81%B8-ns%E5%85%81%E6%99%BA-ns-yoon-g-88765456082) 台灣索尼音樂

@@ -237,7 +237,7 @@
 <td style="text-align: center;"><p><a href="../Page/你是誰_(2013年電視劇).md" title="wikilink">Who Are You</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/蘇怡賢.md" title="wikilink">蘇怡賢</a>、<a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉澤演</a>、<a href="../Page/金材昱.md" title="wikilink">金材昱</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/蘇怡賢.md" title="wikilink">蘇怡賢</a>、<a href="../Page/玉澤演.md" title="wikilink">玉澤演</a>、<a href="../Page/金材昱.md" title="wikilink">金材昱</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙賢卓" title="wikilink">趙賢卓</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/文智英" title="wikilink">文智英</a>、<a href="https://zh.wikipedia.org/wiki/班奇里" title="wikilink">班奇里</a></p></td>
 <td style="text-align: center;"></td>
@@ -312,7 +312,7 @@
 <td style="text-align: center;"><p><a href="../Page/嚴正化.md" title="wikilink">嚴正化</a>、<a href="https://zh.wikipedia.org/wiki/朴書俊" title="wikilink">朴書俊</a>、<a href="../Page/韓載錫.md" title="wikilink">韓載錫</a>、<a href="../Page/鄭妍周.md" title="wikilink">鄭妍周</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李正孝" title="wikilink">李正孝</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/班奇里" title="wikilink">班奇里</a>、<a href="https://zh.wikipedia.org/wiki/李善晶" title="wikilink">李善晶</a></p></td>
-<td style="text-align: center;"><p>原作：<a href="../Page/陳玉珊.md" title="wikilink">陳玉珊等</a>《<a href="../Page/敗犬女王.md" title="wikilink">敗犬女王</a>》</p></td>
+<td style="text-align: center;"><p>原作：<a href="../Page/陳玉珊.md" title="wikilink">陳玉珊</a>等《<a href="../Page/敗犬女王.md" title="wikilink">敗犬女王</a>》</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2014年6月16日－2014年8月12日<br />
@@ -421,7 +421,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2015年8月10日－2015年10月5日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="../Page/沒禮貌的英愛小姐.md" title="wikilink">沒禮貌的英愛小姐14</a><br />
+<td style="text-align: center;"><p><a href="../Page/沒禮貌的英愛小姐.md" title="wikilink">沒禮貌的英愛小姐</a>14<br />
 </p></td>
 <td style="text-align: center;"><p>17</p></td>
 <td style="text-align: center;"><p><a href="../Page/金賢淑.md" title="wikilink">金賢淑</a>、<a href="../Page/李承俊.md" title="wikilink">李承俊</a>、<a href="../Page/金山浩.md" title="wikilink">金山浩</a>、<a href="../Page/尹瑞賢.md" title="wikilink">尹瑞賢</a>、<a href="../Page/羅美蘭.md" title="wikilink">羅美蘭</a>、<a href="https://zh.wikipedia.org/wiki/鄭志順" title="wikilink">鄭志順</a></p></td>
@@ -507,7 +507,7 @@
 <td style="text-align: center;"><p><a href="../Page/打架吧鬼神.md" title="wikilink">打架吧鬼神</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉澤演</a>、<a href="../Page/金所泫.md" title="wikilink">金所泫</a>、<a href="../Page/權律.md" title="wikilink">權律</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/玉澤演.md" title="wikilink">玉澤演</a>、<a href="../Page/金所泫.md" title="wikilink">金所泫</a>、<a href="../Page/權律.md" title="wikilink">權律</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴俊和.md" title="wikilink">朴俊和</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李大日" title="wikilink">李大日</a></p></td>
 <td style="text-align: center;"></td>
@@ -526,7 +526,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2016年10月31日－2017年1月3日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="../Page/沒禮貌的英愛小姐.md" title="wikilink">沒禮貌的英愛小姐15</a><br />
+<td style="text-align: center;"><p><a href="../Page/沒禮貌的英愛小姐.md" title="wikilink">沒禮貌的英愛小姐</a>15<br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/金賢淑.md" title="wikilink">金賢淑</a>、<a href="../Page/李承俊.md" title="wikilink">李承俊</a>、<a href="../Page/趙東赫.md" title="wikilink">趙東赫</a>、<a href="../Page/羅美蘭.md" title="wikilink">羅美蘭</a></p></td>
@@ -862,10 +862,7 @@
 
 ## 腳註
 
-[Category:tvN月火連續劇](https://zh.wikipedia.org/wiki/Category:tvN月火連續劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:tvN月火連續劇](https://zh.wikipedia.org/wiki/Category:tvN月火連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
 1.  僅於週二播出，每回播出2集。
 2.  首度與三大無線電視台（[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")、[KBS](../Page/韓國放送公社.md "wikilink")、[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")）月火劇同時播出。

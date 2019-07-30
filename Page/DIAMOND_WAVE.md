@@ -1,16 +1,12 @@
-**DIAMOND
-WAVE**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倉木麻衣第六張原創專輯](../Page/倉木麻衣.md "wikilink")，於2006年8月22日發行。
+**DIAMOND WAVE**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倉木麻衣](../Page/倉木麻衣.md "wikilink")第六張原創專輯，於2006年8月22日發行。
 
 ## 簡介
 
-  - 專輯名稱「DIAMOND
-    WAVE」代表一首曲子就湧起一道浪潮，各有不同形狀(充滿個性的曲子)，集合起來就是個發光的大浪(1張作品)的意思。\[1\]
+  - 專輯名稱「DIAMOND WAVE」代表一首曲子就湧起一道浪潮，各有不同形狀(充滿個性的曲子)，集合起來就是個發光的大浪(1張作品)的意思。\[1\]
   - 倉木首張作品分為3種類，並試行DVD特典及期間限定的Blog。
-  - 最初分為附送DVD的「初回限定盤」以及「通常盤」兩種類，其後追加限定通常盤，為封底與內頁皆不同的「通常盤LIMITED
-    EDITION」。
+  - 最初分為附送DVD的「初回限定盤」以及「通常盤」兩種類，其後追加限定通常盤，為封底與內頁皆不同的「通常盤LIMITED EDITION」。
   - 包裝、CD音源與Digipak仕樣為3種類共通，分別在於封底與內頁，以及初回盤附DVD。
-  - 期間限定Blog命名為**DIAMOND WEB**，通常盤與單曲「[Diamond
-    Wave](../Page/Diamond_Wave.md "wikilink")」皆附有不同的密碼。通常盤的Blog為倉木活動的消息，單曲的Blog則為製作專輯的秘話與介紹，皆由倉木的工作人員負責更新。
+  - 期間限定Blog命名為**DIAMOND WEB**，通常盤與單曲「[Diamond Wave](../Page/Diamond_Wave.md "wikilink")」皆附有不同的密碼。通常盤的Blog為倉木活動的消息，單曲的Blog則為製作專輯的秘話與介紹，皆由倉木的工作人員負責更新。
 
 ## 曲目
 
@@ -42,9 +38,7 @@ WAVE**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikil
 ### DVD
 
   - 「Diamond Wave」Promotion Video
-      - 「Diamond Wave」的PV與[iTunes
-        Store下載的為不同版本](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")（iTunes
-        Store限定版本的PV並沒有DVD化）。
+      - 「Diamond Wave」的PV與[iTunes Store下載的為不同版本](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")（iTunes Store限定版本的PV並沒有DVD化）。
   - Making of「Diamond Wave」
 
 ## 銷量
@@ -65,8 +59,6 @@ WAVE**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikil
 
 </div>
 
-[Category:倉木麻衣音樂專輯](https://zh.wikipedia.org/wiki/Category:倉木麻衣音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
+[Category:倉木麻衣音樂專輯](https://zh.wikipedia.org/wiki/Category:倉木麻衣音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
 
-1.  [Diamond Wave
-    (日版通常盤)](http://www.kiss.com.tw/music/album.php?id=1755)
+1.  [Diamond Wave (日版通常盤)](http://www.kiss.com.tw/music/album.php?id=1755)

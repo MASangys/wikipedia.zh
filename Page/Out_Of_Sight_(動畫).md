@@ -1,5 +1,4 @@
-《**Out Of
-Sight**》，官方中文名稱為《**敲敲**》，並簡稱為**OOS**\[1\]，英文標題意思為**視線之外**\[2\]，是由[臺灣藝術大學](https://zh.wikipedia.org/wiki/臺灣藝術大學 "wikilink")[多媒體動畫藝術學系的三位](https://zh.wikipedia.org/wiki/多媒體動畫藝術學系 "wikilink")95級畢業生，一起製作的畢業專題[動畫短片作品](https://zh.wikipedia.org/wiki/動畫短片 "wikilink")，以清淡水彩的童話故事書畫風（形似於[宮崎駿的動畫電影](https://zh.wikipedia.org/wiki/宮崎駿 "wikilink")），描述著一位小女孩，走入內心世界的奇幻旅程；於2010年7月31日上傳至[Youtube影音網站](https://zh.wikipedia.org/wiki/Youtube "wikilink")，片長5分28秒，因感人的故事內容，獲得網友好評。
+《**Out Of Sight**》，官方中文名稱為《**敲敲**》，並簡稱為**OOS**\[1\]，英文標題意思為**視線之外**\[2\]，是由[臺灣藝術大學](https://zh.wikipedia.org/wiki/臺灣藝術大學 "wikilink")[多媒體動畫藝術學系的三位](https://zh.wikipedia.org/wiki/多媒體動畫藝術學系 "wikilink")95級畢業生，一起製作的畢業專題[動畫短片作品](https://zh.wikipedia.org/wiki/動畫短片 "wikilink")，以清淡水彩的童話故事書畫風（形似於[宮崎駿的動畫電影](https://zh.wikipedia.org/wiki/宮崎駿 "wikilink")），描述著一位小女孩，走入內心世界的奇幻旅程；於2010年7月31日上傳至[Youtube影音網站](https://zh.wikipedia.org/wiki/Youtube "wikilink")，片長5分28秒，因感人的故事內容，獲得網友好評。
 
 ## 故事
 
@@ -92,18 +91,14 @@ Sight**》，官方中文名稱為《**敲敲**》，並簡稱為**OOS**\[1\]，
 ## 外部連結
 
   - [Out of Sight 短片觀賞](http://www.youtube.com/watch?v=4qCbiCxBd2M)
-  - [Out of Sight
-    官方網站](https://web.archive.org/web/20120325164446/http://evaty.main.jp/oos/)
-  - [用心体味 创造视线之外的奇幻魔力——访《Out of
-    Sight》创作团队](https://web.archive.org/web/20110827111836/http://www.hxsd.com/news/zhuantipindao/20110412OOS/index.html)
+  - [Out of Sight 官方網站](https://web.archive.org/web/20120325164446/http://evaty.main.jp/oos/)
+  - [用心体味 创造视线之外的奇幻魔力——访《Out of Sight》创作团队](https://web.archive.org/web/20110827111836/http://www.hxsd.com/news/zhuantipindao/20110412OOS/index.html)
   - [自由時報電子報：日本點閱率第1　台藝大學生動畫當紅](http://iservice.libertytimes.com.tw/liveNews/news.php?no=420400)
 
-[Category:臺灣網路動畫](https://zh.wikipedia.org/wiki/Category:臺灣網路動畫 "wikilink")
-[Category:視覺障礙題材作品](https://zh.wikipedia.org/wiki/Category:視覺障礙題材作品 "wikilink")
+[Category:臺灣網路動畫](https://zh.wikipedia.org/wiki/Category:臺灣網路動畫 "wikilink") [Category:視覺障礙題材作品](https://zh.wikipedia.org/wiki/Category:視覺障礙題材作品 "wikilink")
 
 1.  [Out of Sight 官方網站](http://evaty.main.jp/oos)
 2.  [豆瓣電影介紹Out of Sight](http://movie.douban.com/subject/5326589)
 3.  [Out of Sight 官方網站](http://evaty.main.jp/oos)
 4.  [Out of Sight短片觀賞](http://www.youtube.com/watch?v=4qCbiCxBd2M)
-5.  [out of sight
-    (於新一代設計展展出，歡迎有空來欣賞)](http://vovo2000.com/phpbb2/viewtopic-337826.html)
+5.  [out of sight (於新一代設計展展出，歡迎有空來欣賞)](http://vovo2000.com/phpbb2/viewtopic-337826.html)

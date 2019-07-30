@@ -71,5 +71,4 @@
 | ZMUB        | [成吉思汗國際機場](https://zh.wikipedia.org/wiki/成吉思汗國際機場 "wikilink")       | [烏蘭巴托](https://zh.wikipedia.org/wiki/烏蘭巴托 "wikilink") | [蒙古](https://zh.wikipedia.org/wiki/蒙古 "wikilink")      | 正在运营 |
 | ZBTJ        | [天津滨海国际机场](../Page/天津滨海国际机场.md "wikilink")                          | [天津市](../Page/天津市.md "wikilink")                      | [中国](https://zh.wikipedia.org/wiki/中国 "wikilink")      | 正在运营 |
 
-[Category:國際民航組織機場代碼](https://zh.wikipedia.org/wiki/Category:國際民航組織機場代碼 "wikilink")
-[Category:中国航空列表](https://zh.wikipedia.org/wiki/Category:中国航空列表 "wikilink")
+[Category:國際民航組織機場代碼](https://zh.wikipedia.org/wiki/Category:國際民航組織機場代碼 "wikilink") [Category:中国航空列表](https://zh.wikipedia.org/wiki/Category:中国航空列表 "wikilink")

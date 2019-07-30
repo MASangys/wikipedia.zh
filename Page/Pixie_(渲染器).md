@@ -1,6 +1,4 @@
-**Pixie**是一款可免费[自由获取的开源渲染器](../Page/自由软件.md "wikilink")，符合[RenderMan规范](../Page/RenderMan规范.md "wikilink")，因此能够读取RIB文件，并支持用[RenderMan着色语言](https://zh.wikipedia.org/wiki/RenderMan着色语言 "wikilink")（RSL）编写着色器，它是[Reyes渲染架构的一个实现](../Page/Reyes渲染架构.md "wikilink")。Pixie由Okan
-Arikan在德克萨斯大学奥斯丁分校的计算机科学系时所开发，后来的主要开发者有George Harker，但George
-Harker已被[皮克斯聘用为](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")[PRMan的开发者](https://zh.wikipedia.org/wiki/PRMan "wikilink")，因此现在Pixie渲染器的开发停滞下来了\[1\]。
+**Pixie**是一款可免费[自由获取的开源渲染器](../Page/自由软件.md "wikilink")，符合[RenderMan规范](../Page/RenderMan规范.md "wikilink")，因此能够读取RIB文件，并支持用[RenderMan着色语言](https://zh.wikipedia.org/wiki/RenderMan着色语言 "wikilink")（RSL）编写着色器，它是[Reyes渲染架构](../Page/Reyes渲染架构.md "wikilink")的一个实现。Pixie由Okan Arikan在德克萨斯大学奥斯丁分校的计算机科学系时所开发，后来的主要开发者有George Harker，但George Harker已被[皮克斯聘用为](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")[PRMan的开发者](https://zh.wikipedia.org/wiki/PRMan "wikilink")，因此现在Pixie渲染器的开发停滞下来了\[1\]。
 
 和私有的[BMRT渲染器一样](https://zh.wikipedia.org/wiki/BMRT "wikilink")，Pixie是学习RenderMan规范的一个渲染器，它的源代码存放于SourceForge，并有编译好的二进制版本可供下载。
 
@@ -31,14 +29,12 @@ Harker已被[皮克斯聘用为](https://zh.wikipedia.org/wiki/皮克斯 "wikili
 
 ## 外部链接
 
-  - [Pixie](http://sourceforge.net/projects/pixie)渲染器的[SourceForge项目地址](../Page/SourceForge.md "wikilink")
+  - [Pixie](http://sourceforge.net/projects/pixie)渲染器的[SourceForge](../Page/SourceForge.md "wikilink")项目地址
   - [Pixie帮助文档](https://web.archive.org/web/20080702222110/http://www.renderpixie.com/pixiewiki/Main_Page)
   - [Okan Arikan 的网站](http://www.okanarikan.com/)
   - [Blender](http://www.blender.org/)，开源的数字内容创作工具
-  - [Rib
-    Mosaic](http://sourceforge.net/projects/ribmosaic/)，Blender的RIB输出工具
+  - [Rib Mosaic](http://sourceforge.net/projects/ribmosaic/)，Blender的RIB输出工具
 
-[Category:自由三维图形软件](https://zh.wikipedia.org/wiki/Category:自由三维图形软件 "wikilink")
-[Category:RenderMan](https://zh.wikipedia.org/wiki/Category:RenderMan "wikilink")
+[Category:自由三维图形软件](https://zh.wikipedia.org/wiki/Category:自由三维图形软件 "wikilink") [Category:RenderMan](https://zh.wikipedia.org/wiki/Category:RenderMan "wikilink")
 
 1.

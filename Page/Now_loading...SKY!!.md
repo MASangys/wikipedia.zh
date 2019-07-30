@@ -1,10 +1,8 @@
-《**Now
-loading...SKY\!\!**》（）是声優團體[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年7月28日由[GloryHeaven發行](https://zh.wikipedia.org/wiki/GloryHeaven "wikilink")。
+《**Now loading...SKY\!\!**》（）是声優團體[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年7月28日由[GloryHeaven發行](https://zh.wikipedia.org/wiki/GloryHeaven "wikilink")。
 
 ## 概要
 
-  - 初回限定盤收錄了《Now
-    loading...SKY\!\!》的[PV在](https://zh.wikipedia.org/wiki/PV "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+  - 初回限定盤收錄了《Now loading...SKY\!\!》的[PV在](https://zh.wikipedia.org/wiki/PV "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 收錄曲
 
@@ -27,7 +25,4 @@ loading...SKY\!\!**》（）是声優團體[sphere的第](https://zh.wikipedia.o
 
   - [Pl@net sphere](http://www.planet-sphere.jp/)（sphere 公式網站）
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
-[Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
-[Category:Sphere歌曲](https://zh.wikipedia.org/wiki/Category:Sphere歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink") [Category:Sphere歌曲](https://zh.wikipedia.org/wiki/Category:Sphere歌曲 "wikilink")

@@ -2,13 +2,11 @@
 
 ## 概要
 
-原作者為創作出「[蜘蛛人](../Page/蜘蛛人.md "wikilink")」和「[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")」等數個[漫威漫畫作品而出名的](../Page/漫威漫畫.md "wikilink")[美國漫畫界巨匠](https://zh.wikipedia.org/wiki/美國漫畫 "wikilink")[史丹·李](../Page/史丹·李.md "wikilink")。2005年10月、希望由日本動畫[製作的史丹和BONES代表董事](../Page/製作.md "wikilink")[南雅彦互相交換意見並且開始企画](https://zh.wikipedia.org/wiki/南雅彦 "wikilink")\[1\]\[2\]、史丹‧李說出「要做出21世紀的新英雄就要花上四年的時間」\[3\]。南雅彥則是說出「在得到史丹所說「不要現在能作出的角色、而是要和新的角色一起誕生」的話後、而因此從那時一直做到現在」的製作過程\[4\]、並且花上整整兩年的時間作出動畫\[5\]\[6\]。2008年4月所發表的「[月刊Newtype](https://zh.wikipedia.org/wiki/月刊Newtype "wikilink")
-5月号」（[角川書店](../Page/角川書店.md "wikilink")）的BONES10周年特集中則是初次發表這份企画、並且因為是由史丹擔任原作而受到美日的關注\[7\]。將來則是希望藉由史丹的名聲而可以在海外播放、也有製作第二季的意願。（最終話中雖然沒有出現“
-To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]。
+原作者為創作出「[蜘蛛人](../Page/蜘蛛人.md "wikilink")」和「[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")」等數個[漫威漫畫](../Page/漫威漫畫.md "wikilink")作品而出名的[美國漫畫界巨匠](https://zh.wikipedia.org/wiki/美國漫畫 "wikilink")[史丹·李](../Page/史丹·李.md "wikilink")。2005年10月、希望由日本動畫[製作](../Page/製作.md "wikilink")的史丹和BONES代表董事[南雅彦互相交換意見並且開始企画](https://zh.wikipedia.org/wiki/南雅彦 "wikilink")\[1\]\[2\]、史丹‧李說出「要做出21世紀的新英雄就要花上四年的時間」\[3\]。南雅彥則是說出「在得到史丹所說「不要現在能作出的角色、而是要和新的角色一起誕生」的話後、而因此從那時一直做到現在」的製作過程\[4\]、並且花上整整兩年的時間作出動畫\[5\]\[6\]。2008年4月所發表的「[月刊Newtype](https://zh.wikipedia.org/wiki/月刊Newtype "wikilink") 5月号」（[角川書店](../Page/角川書店.md "wikilink")）的BONES10周年特集中則是初次發表這份企画、並且因為是由史丹擔任原作而受到美日的關注\[7\]。將來則是希望藉由史丹的名聲而可以在海外播放、也有製作第二季的意願。（最終話中雖然沒有出現“ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]。
 
 動畫製作時極力採用史丹・李的希望和意見、從敵人的設計以蟑螂為原型、「面對到最大的危機卻能夠加以逆轉的王道故事發展」以及「充滿揚善罰惡及故事性的故事」等點都能看出受到史丹強烈的影響\[9\]\[10\]。重要部分的設定雖然是由日本工作人員所作\[11\]、但史丹的意見對他們來講就像是料理中的醬汁一樣\[12\]。
 
-擔任導演的[難波日登志將史丹交給他的](../Page/難波日登志.md "wikilink")[情節細細讀過後](https://zh.wikipedia.org/wiki/情節 "wikilink")，直接表明「以日本的常識來看是要花上一年的時間、實際上則有八集的內容，讓我在聽到後相當驚呀」\[13\]、並且在序盤就迅速展開密集的故事發展。
+擔任導演的[難波日登志](../Page/難波日登志.md "wikilink")將史丹交給他的[情節細細讀過後](https://zh.wikipedia.org/wiki/情節 "wikilink")，直接表明「以日本的常識來看是要花上一年的時間、實際上則有八集的內容，讓我在聽到後相當驚呀」\[13\]、並且在序盤就迅速展開密集的故事發展。
 
 ## 故事大綱
 
@@ -29,14 +27,14 @@ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]�
     和其他[驚奇漫畫的主角一樣](https://zh.wikipedia.org/wiki/驚奇漫畫 "wikilink")、姓和名的第一個字母都相同。
   -
     本作品的第二主人公，有著像是人類的臉孔、身上以白色為基調配上紅藍雙色。身體兩側則有著白色的三連星、宛如[星條旗一樣](https://zh.wikipedia.org/wiki/美國国旗 "wikilink")。本身是一具壞掉的玩具機械人，後來在被乔伊修理好後被雷電擊中，結果變成一個擁有雷電力量的超級英雄。
-    動作不太靈活、擁有強大的破壞力。体内擁有閃電的力量，可以用信號來轉換攻擊模式、也因為身體被[電磁鐵化而能吸附金屬物品](../Page/電磁鐵.md "wikilink")，而能夠利用電力進行多元化的攻擊。隨喬伊的指示來行動。平常看來沒有任何表情、但當喬伊遇到危險時，會全身發紅而失控起來。會在戰鬥完後、會將雙手朝下擺出圓形的站姿、胸、雙腕、下腹部則發出紅色光芒、而浮現出一個O字母的標誌。在和sukuraggu的對戰中，所表現出的英姿正是喬伊心中夢想的英雄。
+    動作不太靈活、擁有強大的破壞力。体内擁有閃電的力量，可以用信號來轉換攻擊模式、也因為身體被[電磁鐵](../Page/電磁鐵.md "wikilink")化而能吸附金屬物品，而能夠利用電力進行多元化的攻擊。隨喬伊的指示來行動。平常看來沒有任何表情、但當喬伊遇到危險時，會全身發紅而失控起來。會在戰鬥完後、會將雙手朝下擺出圓形的站姿、胸、雙腕、下腹部則發出紅色光芒、而浮現出一個O字母的標誌。在和sukuraggu的對戰中，所表現出的英姿正是喬伊心中夢想的英雄。
     雖然有著擊敗sukuraggu和修復城市的功績、但由於都在暗地裡行動而被中心市的人稱為鬼。之後因為南博士的陰謀讓他的真面目出現而被誤認為是sukuraggu的殘黨、後來透過記者的幫助而幫他洗清嫌疑成為正義的夥伴。
     在和sukuraggu最終決戰中、裝備了丹頓和NIA一起開發的強化裝甲，這個裝甲能讓他發揮數倍的力量、還可以使出高周波攻撃及能量劍。
     初期稿為了細節和原作者的意見，於是在一般曲折下變成了重視重量感的設計。
     漫画版中會失控的原因並不在於喬伊遇到危機、而是Gogoru因為對威爾及尼克的不人道對待引起喬伊的憤怒而和他產生共鳴。
     有人說原型來自[蜘蛛人 (東映)](../Page/蜘蛛人_\(東映\).md "wikilink")、但這是錯誤的\[14\]。
   -
-    乔伊的好友和同學。14歳、身高160cm，皮膚拗黑，頭髮蓬鬆，似乎是拉丁裔。過去為[美式足球球員](../Page/美式足球.md "wikilink")、但因為威爾的失誤傳球造成他的左腳受傷而無法自由行動、常使用電動[滑板而使他能自在行動](../Page/滑板.md "wikilink")。和喬伊一起分享HEROMAN的秘密並且一起面對sukuraggu的侵略。在流行服飾店工作。
+    乔伊的好友和同學。14歳、身高160cm，皮膚拗黑，頭髮蓬鬆，似乎是拉丁裔。過去為[美式足球](../Page/美式足球.md "wikilink")球員、但因為威爾的失誤傳球造成他的左腳受傷而無法自由行動、常使用電動[滑板](../Page/滑板.md "wikilink")而使他能自在行動。和喬伊一起分享HEROMAN的秘密並且一起面對sukuraggu的侵略。在流行服飾店工作。
     在和sukuraggu的戰鬥中，運用丹頓藉著sukuraggu科技所開發的大音量的高周波[電吉他來支援喬伊和](https://zh.wikipedia.org/wiki/電吉他 "wikilink")。當喬伊被追緝時，也和丹頓一起幫他逃亡。
     對於喬伊在和回到中心市的威爾見過面後、並且歷經數個事件而感到困擾時，說出了自己左腳受傷的經過以及另一個當事人威爾的憂慮，並也在喬伊知道和威爾和解。
     在和sukuraggu最終決戰時、則是與丹頓和莉娜一起幫助喬伊。
@@ -75,12 +73,10 @@ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]�
     喬伊所打工的咖啡店「Eat at Hilly's」店長。他所泡的咖啡相當棒、而有很多常客。
   - 史丹
     声 - [伊井篤史](https://zh.wikipedia.org/wiki/伊井篤史 "wikilink")
-    「Eat at
-    Hilly's」的常客。也會對喬伊打招呼。原型則是作者‧[史丹·李](../Page/史丹·李.md "wikilink")，而他本人也經常在自己的作品中客串演出。
+    「Eat at Hilly's」的常客。也會對喬伊打招呼。原型則是作者‧[史丹·李](../Page/史丹·李.md "wikilink")，而他本人也經常在自己的作品中客串演出。
   - 凱夏‧傑克森
     声 - [宮島依里](https://zh.wikipedia.org/wiki/宮島依里 "wikilink")
-    中心市內的電視台、All・American・Network (AAN)
-    的女記者。對於自己採訪的新聞被政府惡意竄改無法忍受、於是為了報導真相而不斷追查政府的事。之後將為了保護水庫而挺身抵擋南博士攻擊的HEROMAN給報導出來、使它因此能洗清嫌疑。在sukuraggu復活後，也依然報導著HEROMAN和sukuraggu決戰的英姿。
+    中心市內的電視台、All・American・Network (AAN) 的女記者。對於自己採訪的新聞被政府惡意竄改無法忍受、於是為了報導真相而不斷追查政府的事。之後將為了保護水庫而挺身抵擋南博士攻擊的HEROMAN給報導出來、使它因此能洗清嫌疑。在sukuraggu復活後，也依然報導著HEROMAN和sukuraggu決戰的英姿。
   - 雷歐
     声 - [樋渡宏嗣](https://zh.wikipedia.org/wiki/樋渡宏嗣 "wikilink")
     AAN的攝影師。和凱夏一起追查政府與HEROMAN的事情。
@@ -106,14 +102,12 @@ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]�
 
   - 總統
     声 - [佐佐木敏](https://zh.wikipedia.org/wiki/佐佐木敏 "wikilink")
-    現任[美國總統](https://zh.wikipedia.org/wiki/美國總統 "wikilink")。由於sukuraggu的侵略、而被迫要決定是否進行核彈攻撃、不過因為南博士的建議而停止。但在sukuraggu被消滅後，感覺到HEROMAN是個危險的存在、於是秘密地派人調查他。後來在sukuraggu復活後、在[白宮中遭到襲擊](../Page/白宮.md "wikilink")，決戰過後則從避難所逃出。
+    現任[美國總統](https://zh.wikipedia.org/wiki/美國總統 "wikilink")。由於sukuraggu的侵略、而被迫要決定是否進行核彈攻撃、不過因為南博士的建議而停止。但在sukuraggu被消滅後，感覺到HEROMAN是個危險的存在、於是秘密地派人調查他。後來在sukuraggu復活後、在[白宮](../Page/白宮.md "wikilink")中遭到襲擊，決戰過後則從避難所逃出。
   - 艾克希斯・休斯
     声 - [東地宏樹](../Page/東地宏樹.md "wikilink")
-    總統直屬的情報機關、National・Intelligence ・Agency (NIA)
-    的特務。受到總統的命令、而暗中調查鬼（HEROMAN）的事情。但他對喬伊及HEROMAN沒有惡意、反而也否認自己對他們所採用的武力和情報操控的做法。因此和主張加以攻擊的南博士產生衝突。之後和喬伊一起阻止失控的南博士、讓喬伊一行人洗清嫌疑回到和平的生活。
+    總統直屬的情報機關、National・Intelligence ・Agency (NIA) 的特務。受到總統的命令、而暗中調查鬼（HEROMAN）的事情。但他對喬伊及HEROMAN沒有惡意、反而也否認自己對他們所採用的武力和情報操控的做法。因此和主張加以攻擊的南博士產生衝突。之後和喬伊一起阻止失控的南博士、讓喬伊一行人洗清嫌疑回到和平的生活。
     當sukuraggu再次開始活動後、利用政府的立場來幫助喬伊與HEROMAN、並且阻止副總統攻擊華盛頓。
-    在調查時，成為「Eat at
-    Hilly's」的常客、穿著工作服並且留著鬍渣、當回到特務身分時則會刮掉並且將髪梳整齊，並且穿著西裝\[16\]。
+    在調查時，成為「Eat at Hilly's」的常客、穿著工作服並且留著鬍渣、當回到特務身分時則會刮掉並且將髪梳整齊，並且穿著西裝\[16\]。
   - 艾爾曼‧哈瓦多
     声 - [野島裕史](../Page/野島裕史.md "wikilink")
     NIA的特務。為休斯的手下並且幫助著他。
@@ -133,7 +127,7 @@ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]�
     声 - [魏涼子](https://zh.wikipedia.org/wiki/魏涼子 "wikilink")
     南的專屬秘書。是個冷靜且能正確執行的工作的才女、不過經歷卻充滿謎團。
     當HEROMAN和MR-1戰鬥時、支援操控MR-1的南。不過在MR-1被破壞後、不知為何能夠順利逃走。
-    在sukuraggu被消滅後、單獨闖入監獄將南一行人救出來。這時從他的服袖中跑出像是[瑞士軍刀的刀刃來和獄卒戰鬥](../Page/瑞士軍刀.md "wikilink")。
+    在sukuraggu被消滅後、單獨闖入監獄將南一行人救出來。這時從他的服袖中跑出像是[瑞士軍刀](../Page/瑞士軍刀.md "wikilink")的刀刃來和獄卒戰鬥。
   - 阿瑪若利皮
     声 - [勝杏里](../Page/勝杏里.md "wikilink")
     南的部下，通用的研究部門首席人員。戴著像是3D眼鏡的墨鏡。
@@ -145,7 +139,7 @@ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]�
 
 ### Sukuraggu
 
-不斷侵略破壞宇宙中各個星球的未知生命体。由於接受到丹頓的發的電波而向地球開始侵略。擁有超越人類的戰鬥能力、智力、高度的計術。聽覺發達、利高周波会話。頭部所生的觸角能自在伸縮來對人攻擊。會將他星球的生物捕獲、並且加以洗腦改造來操控他們。當被重擊後，會射出液體並且外殼縮成球狀。丹頓從外表判斷他們是從像是[蟑螂的生物所進化](../Page/蟑螂.md "wikilink")。被消滅後，由企業和政府機關獨自研究他們的技術並且想要加以利用。
+不斷侵略破壞宇宙中各個星球的未知生命体。由於接受到丹頓的發的電波而向地球開始侵略。擁有超越人類的戰鬥能力、智力、高度的計術。聽覺發達、利高周波会話。頭部所生的觸角能自在伸縮來對人攻擊。會將他星球的生物捕獲、並且加以洗腦改造來操控他們。當被重擊後，會射出液體並且外殼縮成球狀。丹頓從外表判斷他們是從像是[蟑螂](../Page/蟑螂.md "wikilink")的生物所進化。被消滅後，由企業和政府機關獨自研究他們的技術並且想要加以利用。
 
   -
     两脚走的生命体。BOSS。除了有想要把全宇宙都併吞的一面外，也有冷酷地將不中用的手下殺死和能順間抓到敵人特徵的伶俐面。
@@ -154,13 +148,13 @@ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]�
     不過由於被其殘黨將被政府回收研究的核心加以復活。而變身成巨大怪物並且將自己的手下當作食物吃掉企圖毀滅地球，最後遭HEROMAN的遠距離攻擊而將牠和融合在一起的基地消滅掉。
     漫画版中、在要支配地球前，將地球的昆蟲類（蟷螂、甲蟲類等）加以改造來收集地球情報並且還注意到了喬伊一行人的行動。
   - 艾茲維
-    Sukuraggu先遣隊之一。是由Sukuraggu兵所回收的[螳螂為底而加以改造](../Page/螳螂.md "wikilink")。能從腕中生出出刀刃將鋼鉄切斷、還把HEROMAN的單手切斷過。但被周遭的Sukuraggu兵當作蟲子般輕視。
+    Sukuraggu先遣隊之一。是由Sukuraggu兵所回收的[螳螂](../Page/螳螂.md "wikilink")為底而加以改造。能從腕中生出出刀刃將鋼鉄切斷、還把HEROMAN的單手切斷過。但被周遭的Sukuraggu兵當作蟲子般輕視。
     只出現在漫画版。
   - 布理多
     Sukuraggu先遣隊之一。和艾茲維一樣以[藥片潮蟲為底加以改造](https://zh.wikipedia.org/wiki/藥片潮蟲 "wikilink")。擅長將身體捲成圓型來衝撞攻擊。
     只出現在漫画版。
   - 帕烏阿
-    Sukuraggu先遣隊之一。和艾茲維一樣以[獨角仙和](../Page/獨角仙.md "wikilink")[鍬形蟲為底所改造](../Page/鍬形蟲.md "wikilink")。擅長使用怪力並且能長出角來攻擊。
+    Sukuraggu先遣隊之一。和艾茲維一樣以[獨角仙](../Page/獨角仙.md "wikilink")和[鍬形蟲](../Page/鍬形蟲.md "wikilink")為底所改造。擅長使用怪力並且能長出角來攻擊。
     只出現在漫画版。
 
 ## 工作人员
@@ -179,29 +173,20 @@ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]�
   - 音響監督 - 原口昇
   - 制作人 - 奈良初男（東京電視台）、山西太平
   - 动画制作 - BONES
-  - 製作 -
-    HEROMAN製作委員会（[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")、The
-    Walt Disney
-    Studios、東京電視台、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、BONES、Wowmax
-    Media）
+  - 製作 - HEROMAN製作委員会（[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")、The Walt Disney Studios、東京電視台、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、BONES、Wowmax Media）
 
 ## 主題曲
 
   - 片头曲「Roulette」
-    作詞・作曲 - [TETSUYA](https://zh.wikipedia.org/wiki/tetsuya "wikilink")
-    / 編曲 - TETSUYA and 室姫深 / 歌 - TETSUYA
+    作詞・作曲 - [TETSUYA](https://zh.wikipedia.org/wiki/tetsuya "wikilink") / 編曲 - TETSUYA and 室姫深 / 歌 - TETSUYA
   - 片头曲2「Missing」
-    作詞 - Akiko Watanabe.Kylee / 作曲 - Koh-ichi Fujimoto / 編曲 - CHOKKAKU
-    (DefSTAR RECORDS) / 歌 - Kylee
+    作詞 - Akiko Watanabe.Kylee / 作曲 - Koh-ichi Fujimoto / 編曲 - CHOKKAKU (DefSTAR RECORDS) / 歌 - Kylee
   - 片尾曲「CALLING」
-    作詞 - Kohshi Asakawa / 作曲 - Takeshi Asakawa / 編曲・歌 -
-    [FLOW](https://zh.wikipedia.org/wiki/FLOW "wikilink")
+    作詞 - Kohshi Asakawa / 作曲 - Takeshi Asakawa / 編曲・歌 - [FLOW](https://zh.wikipedia.org/wiki/FLOW "wikilink")
   - 片尾曲2「」
-    作詞 - Mass Alert / 作曲 - WolfJunk, Mass Alert / 編曲 -WolfJunk / 歌 -
-    Mass Alert
+    作詞 - Mass Alert / 作曲 - WolfJunk, Mass Alert / 編曲 -WolfJunk / 歌 - Mass Alert
   - 插入曲「」（第11話、第22話）
-    作詞 - 桥本龙树 / 作詞 - やまだなな / 歌 -
-    [ACO](https://zh.wikipedia.org/wiki/ACO "wikilink")
+    作詞 - 桥本龙树 / 作詞 - やまだなな / 歌 - [ACO](https://zh.wikipedia.org/wiki/ACO "wikilink")
 
 ## 各話列表
 
@@ -518,15 +503,9 @@ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]�
   - [『HEROMAN』官方网站](https://archive.is/20130501112649/http://www.heroman.jp/)
   - [东京电视台节目情报](http://www.tv-tokyo.co.jp/anime/heroman/)
   - [『HEROMAN』ガンガン官方网站](http://gangan.square-enix.co.jp/introduction/heroman/)
-  - [HEROMAN - 漫画 - ガンガンONLINE -SQUARE
-    ENIX-](https://web.archive.org/web/20111018134822/http://www.square-enix.com/jp/magazine/ganganonline/comic/heroman/index.html)
+  - [HEROMAN - 漫画 - ガンガンONLINE -SQUARE ENIX-](https://web.archive.org/web/20111018134822/http://www.square-enix.com/jp/magazine/ganganonline/comic/heroman/index.html)
 
-[Category:2010年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年東京電視網動畫 "wikilink")
-[Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:日本與海外合作的動畫](https://zh.wikipedia.org/wiki/Category:日本與海外合作的動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
+[Category:2010年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年東京電視網動畫 "wikilink") [Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:日本與海外合作的動畫](https://zh.wikipedia.org/wiki/Category:日本與海外合作的動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
 
 1.
 
@@ -546,9 +525,7 @@ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]�
 11.
 12.
 13.
-14. 網路廣播『そこ☆あに』（2010年6月27日）. “[「HEROMAN」特集
-    \#119](http://www.voiceblog.jp/himawarigumi/1158107.html) ”（日語）.
-    角色設定的コヤマシゲト談
+14. 網路廣播『そこ☆あに』（2010年6月27日）. “[「HEROMAN」特集 \#119](http://www.voiceblog.jp/himawarigumi/1158107.html) ”（日語）. 角色設定的コヤマシゲト談
 
 15. 為了不要被人看到引起騷動，而刻意戴著帽子和大衣變裝成人類、並且趁半夜沒有人煙時加以襲擊基地等。
 

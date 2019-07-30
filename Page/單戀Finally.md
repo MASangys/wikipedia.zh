@@ -1,9 +1,8 @@
-《**單戀Finally**》（）是[SKE48的第](../Page/SKE48.md "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年1月25日由[avex
-trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
+《**單戀Finally**》（）是[SKE48](../Page/SKE48.md "wikilink")的第8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年1月25日由[avex trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-[廣告標語是](../Page/廣告標語.md "wikilink")「**一直，有說不出的戀愛**」（）。
+[廣告標語](../Page/廣告標語.md "wikilink")是「**一直，有說不出的戀愛**」（）。
 
 與前作《[愛就OK](https://zh.wikipedia.org/wiki/愛就OK "wikilink")》相隔2個月發售。分為TYPE-A、TYPE-B、TYPE-C和劇場盤，共4種形式發售。初回生産分附送全国握手會參加引換券，以及1張原創收集卡片（共有16種）。
 
@@ -13,9 +12,9 @@ trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 主要記錄
 
-發售前日2012年1月24日[Oricon公信榜記錄估計發售枚數約](../Page/Oricon公信榜.md "wikilink")28.5万枚在記錄的第1位。前作《[愛就OK](https://zh.wikipedia.org/wiki/愛就OK "wikilink")》的初日發售數量約28.3万張，是自己首日最高的發售紀錄\[2\]。同時，這張單曲是2009年3月的記錄估計發售數量公開以來，姊妹團體的母体[AKB48以外的單曲之中銷售張數最高的一張](../Page/AKB48.md "wikilink")。
+發售前日2012年1月24日[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")記錄估計發售枚數約28.5万枚在記錄的第1位。前作《[愛就OK](https://zh.wikipedia.org/wiki/愛就OK "wikilink")》的初日發售數量約28.3万張，是自己首日最高的發售紀錄\[2\]。同時，這張單曲是2009年3月的記錄估計發售數量公開以來，姊妹團體的母体[AKB48](../Page/AKB48.md "wikilink")以外的單曲之中銷售張數最高的一張。
 
-  - 首次獲得[Oricon公信榜月冠的SKE](../Page/Oricon公信榜.md "wikilink")48單曲，亦是首支單曲總銷量超越50萬張。
+  - 首次獲得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")月冠的SKE48單曲，亦是首支單曲總銷量超越50萬張。
 
 ## 收錄曲
 
@@ -129,9 +128,7 @@ trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 參與成員
 
-跟前作一樣都有全體參加的歌曲，但Team
-KII的4人（赤枝里里奈、加藤智子、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、山田澪花）、Team
-E的5人（小林亞實、酒井萌衣、高木由麻奈、竹内舞、都築里佳）和除了齋藤真木子外的研究生都沒有參與本作任何選拔歌曲或分組曲。
+跟前作一樣都有全體參加的歌曲，但Team KII的4人（赤枝里里奈、加藤智子、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、山田澪花）、Team E的5人（小林亞實、酒井萌衣、高木由麻奈、竹内舞、都築里佳）和除了齋藤真木子外的研究生都沒有參與本作任何選拔歌曲或分組曲。
 
 以下團隊所屬情況均截止至發售時。如無特別指明，以下關於成員更替描述均是跟前作《[愛就OK](https://zh.wikipedia.org/wiki/愛就OK "wikilink")》比較。
 
@@ -139,12 +136,9 @@ E的5人（小林亞實、酒井萌衣、高木由麻奈、竹内舞、都築里
 
 （中心: 松井珠理奈、松井玲奈）
 
-  - Team
-    S：[大矢真那](../Page/大矢真那.md "wikilink")、[木﨑ゆりあ](https://zh.wikipedia.org/wiki/木崎ゆりあ "wikilink")、[桑原みずき](https://zh.wikipedia.org/wiki/桑原みずき "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[平松可奈子](../Page/平松可奈子.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")、[矢神久美](../Page/矢神久美.md "wikilink")
-  - Team
-    KII：[小木曾汐莉](../Page/小木曾汐莉.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[秦佐和子](../Page/秦佐和子.md "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")、[松本梨奈](../Page/松本梨奈.md "wikilink")、[向田茉夏](../Page/向田茉夏.md "wikilink")
-  - Team
-    E：[金子栞](../Page/金子栞.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")
+  - Team S：[大矢真那](../Page/大矢真那.md "wikilink")、[木﨑ゆりあ](https://zh.wikipedia.org/wiki/木崎ゆりあ "wikilink")、[桑原みずき](https://zh.wikipedia.org/wiki/桑原みずき "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[平松可奈子](../Page/平松可奈子.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")、[矢神久美](../Page/矢神久美.md "wikilink")
+  - Team KII：[小木曾汐莉](../Page/小木曾汐莉.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[秦佐和子](../Page/秦佐和子.md "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")、[松本梨奈](../Page/松本梨奈.md "wikilink")、[向田茉夏](../Page/向田茉夏.md "wikilink")
+  - Team E：[金子栞](../Page/金子栞.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")
 
 <!-- end list -->
 
@@ -161,10 +155,8 @@ E的5人（小林亞實、酒井萌衣、高木由麻奈、竹内舞、都築里
 
 （中心: 松井珠理奈）
 
-  - Team
-    S：[小野晴香](../Page/小野晴香.md "wikilink")、[中西優香](../Page/中西優香.md "wikilink")、[平田璃香子](../Page/平田璃香子.md "wikilink")、松井珠理奈
-  - Team
-    KII：阿比留李帆、[石田安奈](../Page/石田安奈.md "wikilink")、後藤理沙子、[若林倫香](../Page/若林倫香.md "wikilink")
+  - Team S：[小野晴香](../Page/小野晴香.md "wikilink")、[中西優香](../Page/中西優香.md "wikilink")、[平田璃香子](../Page/平田璃香子.md "wikilink")、松井珠理奈
+  - Team KII：阿比留李帆、[石田安奈](../Page/石田安奈.md "wikilink")、後藤理沙子、[若林倫香](../Page/若林倫香.md "wikilink")
   - Team E：磯原杏華、柴田阿弥、山田恵里伽
   - 研究生：斉藤真木子
       -
@@ -176,11 +168,9 @@ E的5人（小林亞實、酒井萌衣、高木由麻奈、竹内舞、都築里
 
 （中心: 松井玲奈）
 
-  - Team
-    S：[加藤るみ](https://zh.wikipedia.org/wiki/加藤るみ "wikilink")、[木下有希子](../Page/木下有希子.md "wikilink")、[高田志織](../Page/高田志織.md "wikilink")、[出口陽](../Page/出口陽.md "wikilink")、松井玲奈
+  - Team S：[加藤るみ](https://zh.wikipedia.org/wiki/加藤るみ "wikilink")、[木下有希子](../Page/木下有希子.md "wikilink")、[高田志織](../Page/高田志織.md "wikilink")、[出口陽](../Page/出口陽.md "wikilink")、松井玲奈
   - Team KII：佐藤聖羅、矢方美紀
-  - Team
-    E：上野圭澄、[梅本圓](../Page/梅本圓.md "wikilink")、[原望奈美](../Page/原望奈美.md "wikilink")、間野春香、山下ゆかり
+  - Team E：上野圭澄、[梅本圓](../Page/梅本圓.md "wikilink")、[原望奈美](../Page/原望奈美.md "wikilink")、間野春香、山下ゆかり
       -
         昇格至選拔的古川、向田落選；從選拔落選的木下、原和間野加入。前作成員鬼頭落選。
 
@@ -212,14 +202,7 @@ E的5人（小林亞實、酒井萌衣、高木由麻奈、竹内舞、都築里
           - [通常盤](http://www.ske48.co.jp/discography/?id=71&select=single)
       - [劇場盤](http://www.ske48.co.jp/discography/?id=72&select=single)
 
-[Category:SKE48歌曲](https://zh.wikipedia.org/wiki/Category:SKE48歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:2012年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:SKE48歌曲](https://zh.wikipedia.org/wiki/Category:SKE48歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:2012年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲月榜冠軍作品 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
 
 1.
 2.

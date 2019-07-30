@@ -3,7 +3,7 @@
 ## 概要
 
   - 初回限定盤分為「小嶋 feature ver.」「高橋 feature ver.」「峯岸 feature ver.」的三個種類。
-  - 11月25日至27日在[AKB48劇場購入特典](../Page/AKB48劇場.md "wikilink")，購買者可以得到劇場握手会参加券和特別公演抽選券。
+  - 11月25日至27日在[AKB48劇場](../Page/AKB48劇場.md "wikilink")購入特典，購買者可以得到劇場握手会参加券和特別公演抽選券。
 
 ## 收錄曲
 
@@ -12,8 +12,7 @@
 1.  **Relax\!**
       -
         （作詞：[秋元康](../Page/秋元康.md "wikilink")　作曲：吉田将樹　編曲：北川勝利、櫻井康史）
-        [東京電視台系列](../Page/東京電視台.md "wikilink")[電視劇24](../Page/電視劇24.md "wikilink")「[Men☆dol
-        〜帥男偶像〜](https://zh.wikipedia.org/wiki/Men☆dol_〜帥男偶像〜 "wikilink")」主題曲
+        [東京電視台](../Page/東京電視台.md "wikilink")系列[電視劇24](../Page/電視劇24.md "wikilink")「[Men☆dol 〜帥男偶像〜](https://zh.wikipedia.org/wiki/Men☆dol_〜帥男偶像〜 "wikilink")」主題曲
 2.  **ハートの温度**
       -
         （作詞：秋元康　作曲：萩原慎太郎　編曲：[AKIRA](https://zh.wikipedia.org/wiki/AKIRA_\(PALM_DRIVE\) "wikilink")）
@@ -49,14 +48,8 @@
 
 ## 外部連結
 
-  - [Epic Records Japan
-    Inc.](https://web.archive.org/web/20110903011835/http://www.no3b.net/disco/index.html)
+  - [Epic Records Japan Inc.](https://web.archive.org/web/20110903011835/http://www.no3b.net/disco/index.html)
 
-  - [Thanx\!
-    Relax\!](http://www.sonymusic.co.jp/Music/Info/no3b/081101/)
+  - [Thanx\! Relax\!](http://www.sonymusic.co.jp/Music/Info/no3b/081101/)
 
-[Category:No3b歌曲](https://zh.wikipedia.org/wiki/Category:No3b歌曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:東京電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台電視劇主題曲 "wikilink")
-[Category:日本史詩唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本史詩唱片歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:No3b歌曲](https://zh.wikipedia.org/wiki/Category:No3b歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:東京電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台電視劇主題曲 "wikilink") [Category:日本史詩唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本史詩唱片歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")

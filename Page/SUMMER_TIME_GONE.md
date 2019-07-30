@@ -1,14 +1,10 @@
-《**SUMMER TIME
-GONE**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第三十四張單曲](../Page/倉木麻衣.md "wikilink")，於2010年8月31日發行。
+《**SUMMER TIME GONE**》是[日本](../Page/日本.md "wikilink")歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第三十四張單曲，於2010年8月31日發行。
 
 ## 簡介
 
-  - 與前作「[天長地久／Drive me
-    crazy](../Page/天長地久／Drive_me_crazy.md "wikilink")」相隔約5個月的新作。
+  - 與前作「[天長地久／Drive me crazy](../Page/天長地久／Drive_me_crazy.md "wikilink")」相隔約5個月的新作。
   - 一般分為「初回限定盤」以及「通常盤」發售，加上[後援會與Musing會員的](https://zh.wikipedia.org/wiki/後援會 "wikilink")「Musing\&FC盤」，合共三種形式，各有不同封面。
-  - 初回限定盤的DVD收錄了本人出演KOSE「Precious
-    Esupuriku」的廣告與訪問映像。Musing\&FC盤則收錄了「SUMMER
-    TIME GONE」的PV視聽的密碼。
+  - 初回限定盤的DVD收錄了本人出演KOSE「Precious Esupuriku」的廣告與訪問映像。Musing\&FC盤則收錄了「SUMMER TIME GONE」的PV視聽的密碼。
   - 初動銷量2.5萬，累積銷量3.3萬。
 
 ## 曲目
@@ -49,10 +45,4 @@ GONE**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第三�
 
 ## 外部連結
 
-[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
-[Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")
-[Category:夏天題材樂曲](https://zh.wikipedia.org/wiki/Category:夏天題材樂曲 "wikilink")
+[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink") [Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink") [Category:夏天題材樂曲](https://zh.wikipedia.org/wiki/Category:夏天題材樂曲 "wikilink")

@@ -1,5 +1,4 @@
-[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**INFJ**（内倾/直觉/情感/判断）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在柯尔塞气质类型测试中被称为**[咨询师](https://zh.wikipedia.org/wiki/咨询师_\(角色变异\) "wikilink")**，属于[理想者的四种类型之一](https://zh.wikipedia.org/wiki/理想者_\(气质类型\) "wikilink")。\[1\]
+[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg") **INFJ**（内倾/直觉/情感/判断）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在柯尔塞气质类型测试中被称为**[咨询师](https://zh.wikipedia.org/wiki/咨询师_\(角色变异\) "wikilink")**，属于[理想者的四种类型之一](https://zh.wikipedia.org/wiki/理想者_\(气质类型\) "wikilink")。\[1\]
 
 INFJ是最稀少的类型之一，大概佔人口的1%-3%。\[2\]\[3\]\[4\]
 
@@ -21,10 +20,9 @@ INFJ是最稀少的类型之一，大概佔人口的1%-3%。\[2\]\[3\]\[4\]
 
 ## 特征
 
-[Goethe_(Stieler_1828).jpg](https://zh.wikipedia.org/wiki/File:Goethe_\(Stieler_1828\).jpg "fig:Goethe_(Stieler_1828).jpg")是个INFJ。\[9\]
-但是，根据MBTI伦理应用的指导方针，只有那些参加了类型评估的人能决定他们最适合于哪一型。 \[10\]\]\]
+[Goethe_(Stieler_1828).jpg](https://zh.wikipedia.org/wiki/File:Goethe_\(Stieler_1828\).jpg "fig:Goethe_(Stieler_1828).jpg")是个INFJ。\[9\] 但是，根据MBTI伦理应用的指导方针，只有那些参加了类型评估的人能决定他们最适合于哪一型。 \[10\]\]\]
 
-INFJ是有责任心、受价值观驱使的类型。他们在关系、想法和事件中寻求意义，同时注意如何更好地理解自己與他人。INFJ利用他们的直觉及清晰而充满自信的洞察力用在现实生活中，因而让他們擁有更好的人生目标。和[INTJ们一样](../Page/INTJ.md "wikilink")，他们认为问题是能让他们计划并完成创造性解决办法的机遇。\[11\]
+INFJ是有责任心、受价值观驱使的类型。他们在关系、想法和事件中寻求意义，同时注意如何更好地理解自己與他人。INFJ利用他们的直觉及清晰而充满自信的洞察力用在现实生活中，因而让他們擁有更好的人生目标。和[INTJ](../Page/INTJ.md "wikilink")们一样，他们认为问题是能让他们计划并完成创造性解决办法的机遇。\[11\]
 
 INFJ们是安静、内敛的人，喜欢在幕后施展其影响力。虽然非常独立，INFJ们极度关心他人是否幸福。他们喜欢一对一的关系，而非在大的团体里。因为敏感而复杂的个性，他们擅长于理解复杂的问题，并天生被驱使去用一种协作和创造性的方式解决分歧。\[12\]
 
@@ -85,10 +83,8 @@ Si收集关于当下的数据，然后把它们和过去的经验比较，这过
 
 ## 外部链接
 
-  - [The Myers & Briggs Foundation: The 16 MBTI
-    Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
-  - [Portrait of the Counselor (INFJ) at
-    Keirsey.com](http://www.keirsey.com/handler.aspx?s=keirsey&f=fourtemps&tab=3&c=counselor)
+  - [The Myers & Briggs Foundation: The 16 MBTI Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
+  - [Portrait of the Counselor (INFJ) at Keirsey.com](http://www.keirsey.com/handler.aspx?s=keirsey&f=fourtemps&tab=3&c=counselor)
   - [TypeLogic INFJ](http://typelogic.com/infj.html)
 
 [Category:性格分類](https://zh.wikipedia.org/wiki/Category:性格分類 "wikilink")
@@ -114,8 +110,7 @@ Si收集关于当下的数据，然后把它们和过去的经验比较，这过
 
 11.
 
-12. [Keirsey
-    Counselor](http://www.keirsey.com/handler.aspx?s=keirsey&f=fourtemps&tab=3&c=counselor)
+12. [Keirsey Counselor](http://www.keirsey.com/handler.aspx?s=keirsey&f=fourtemps&tab=3&c=counselor)
 
 13.
 

@@ -1,5 +1,4 @@
-**MBC週末特別計畫連續劇**（），又稱**MBC六日劇**，是韓國[MBC](../Page/文化廣播公司.md "wikilink")（MBC
-TV）於[星期六](../Page/星期六.md "wikilink")和[星期天晚間播出的電視劇](https://zh.wikipedia.org/wiki/星期天 "wikilink")。
+**MBC週末特別計畫連續劇**（），又稱**MBC六日劇**，是韓國[MBC](../Page/文化廣播公司.md "wikilink")（MBC TV）於[星期六](../Page/星期六.md "wikilink")和[星期天晚間播出的電視劇](https://zh.wikipedia.org/wiki/星期天 "wikilink")。
 
 ## 播出時間更動表
 
@@ -1069,7 +1068,4 @@ TV）於[星期六](../Page/星期六.md "wikilink")和[星期天晚間播出的
   - [JTBC周末特別企劃連續劇](../Page/JTBC周末特別企劃連續劇.md "wikilink")
   - [MBN周末特別企劃劇](../Page/MBN周末特別企劃劇.md "wikilink")
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:MBC週末特別計劃連續劇](https://zh.wikipedia.org/wiki/Category:MBC週末特別計劃連續劇 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:MBC週末特別計劃連續劇](https://zh.wikipedia.org/wiki/Category:MBC週末特別計劃連續劇 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

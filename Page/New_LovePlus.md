@@ -1,4 +1,4 @@
-是[科樂美于](../Page/科樂美.md "wikilink")2012年2月14日[西洋情人節](https://zh.wikipedia.org/wiki/西洋情人節 "wikilink")（原定2011年12月8日）在日本发售的[任天堂3DS平台](../Page/任天堂3DS.md "wikilink")[恋愛模拟游戏](https://zh.wikipedia.org/wiki/恋愛模拟游戏 "wikilink")，是《[LovePlus+](../Page/LovePlus.md "wikilink")》的续作。广告标语为“起飛吧！！國民女友（）”。
+是[科樂美](../Page/科樂美.md "wikilink")于2012年2月14日[西洋情人節](https://zh.wikipedia.org/wiki/西洋情人節 "wikilink")（原定2011年12月8日）在日本发售的[任天堂3DS](../Page/任天堂3DS.md "wikilink")平台[恋愛模拟游戏](https://zh.wikipedia.org/wiki/恋愛模拟游戏 "wikilink")，是《[LovePlus](../Page/LovePlus.md "wikilink")+》的续作。广告标语为“起飛吧！！國民女友（）”。
 
 ## 故事
 
@@ -11,18 +11,14 @@
 
 ## 玩法
 
-本作借助[任天堂3DS大幅提升的机能](../Page/任天堂3DS.md "wikilink")，相对前作添加了更加丰富的游戏内容。
+本作借助[任天堂3DS](../Page/任天堂3DS.md "wikilink")大幅提升的机能，相对前作添加了更加丰富的游戏内容。
 
   - **男友锁定**：通过3DS内侧摄像头的图像识别功能，可以让女友锁定玩家的面孔。如果其他人来玩此游戏，女友会判断出该人并非自己的“男友”。
   - **介绍女友**：通过3DS内侧摄像头的图像识别功能，女友可以记住见过的人的面孔及名字，并能与其交谈。
 
 ## 音乐
 
-本次New
-LovePlus的游戏音乐由[松藤畅彦和](https://zh.wikipedia.org/wiki/松藤畅彦 "wikilink")[市桥康弘担当制作](https://zh.wikipedia.org/wiki/市桥康弘 "wikilink")。并发售了两张游戏音乐CD：《NEWラブプラス
-Character Song & Extra Soundtrack》以及《NEWラブプラス Original
-Soundtrack》。其中，《NEWラブプラス Original
-Soundtrack》作为限定商品随同捆版3DS捆绑发售。
+本次New LovePlus的游戏音乐由[松藤畅彦和](https://zh.wikipedia.org/wiki/松藤畅彦 "wikilink")[市桥康弘担当制作](https://zh.wikipedia.org/wiki/市桥康弘 "wikilink")。并发售了两张游戏音乐CD：《NEWラブプラス Character Song & Extra Soundtrack》以及《NEWラブプラス Original Soundtrack》。其中，《NEWラブプラス Original Soundtrack》作为限定商品随同捆版3DS捆绑发售。
 
 ### 《NEWラブプラス Character Song & Extra Soundtrack》
 
@@ -564,29 +560,14 @@ Soundtrack》作为限定商品随同捆版3DS捆绑发售。
 
   - [官方网站](http://www.konami.jp/products/newloveplus/)
 
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛模擬遊戲](https://zh.wikipedia.org/wiki/Category:戀愛模擬遊戲 "wikilink")
-[Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink")
-[Category:任天堂3DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂3DS遊戲 "wikilink")
-[Category:任天堂3DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS独占游戏 "wikilink")
-[Category:任天堂3DS_eShop游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_eShop游戏 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
-[Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛模擬遊戲](https://zh.wikipedia.org/wiki/Category:戀愛模擬遊戲 "wikilink") [Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink") [Category:任天堂3DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂3DS遊戲 "wikilink") [Category:任天堂3DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS独占游戏 "wikilink") [Category:任天堂3DS_eShop游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_eShop游戏 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
 
-1.  [NEWラブプラス Character Song & Extra
-    Soundtrack](http://www.konami.jp/products/style_lc2135-36/)
-    (2012-2-14). *NEWラブプラス Character Song & Extra Soundtrack*. Konami
-    Digital Entertainment Inc. LC2000-01.
+1.  [NEWラブプラス Character Song & Extra Soundtrack](http://www.konami.jp/products/style_lc2135-36/) (2012-2-14). *NEWラブプラス Character Song & Extra Soundtrack*. Konami Digital Entertainment Inc. LC2000-01.
 
 2.
 
 3.
-4.  [NEWラブプラス Original
-    Soundtrack](http://www.konami.jp/products/style_lc2000-01/)
-    (2012-2-14). *NEWラブプラス Original Soundtrack*. Konami Digital
-    Entertainment Inc. LC2000-01.
+4.  [NEWラブプラス Original Soundtrack](http://www.konami.jp/products/style_lc2000-01/) (2012-2-14). *NEWラブプラス Original Soundtrack*. Konami Digital Entertainment Inc. LC2000-01.
 
 5.
 

@@ -2,8 +2,7 @@
 
 ## 劇情
 
-12年前、[太陽系出現一顆新的](https://zh.wikipedia.org/wiki/太陽系 "wikilink")[彗星](https://zh.wikipedia.org/wiki/彗星 "wikilink")。那顆彗星遠比其他的彗星巨大，在地球最接近該彗星時，彗星的磁場會引發大規模的電磁波通信干擾。
-這段時間受到電磁波干擾的影響，電視無法接收電波信號、畫面呈現砂嵐狀態，因此被稱作『**電視消失之日**』。
+12年前、[太陽系出現一顆新的](https://zh.wikipedia.org/wiki/太陽系 "wikilink")[彗星](https://zh.wikipedia.org/wiki/彗星 "wikilink")。那顆彗星遠比其他的彗星巨大，在地球最接近該彗星時，彗星的磁場會引發大規模的電磁波通信干擾。 這段時間受到電磁波干擾的影響，電視無法接收電波信號、畫面呈現砂嵐狀態，因此被稱作『**電視消失之日**』。
 
 在地球無法進行電波通信的那段期間，主角美作慎吾、他父親的上司穂坂健一利用電波障礙引發飛機失事，讓慎吾失去他的家人。慎吾知道這個事實之後，發誓要對穂坂健一進行報復。
 
@@ -13,7 +12,7 @@
 
 ## 設定的問題
 
-一般而言，只有較大的[行星與](../Page/行星.md "wikilink")[恆星有磁場](https://zh.wikipedia.org/wiki/恆星 "wikilink")，[彗星](https://zh.wikipedia.org/wiki/彗星 "wikilink")、[小行星](https://zh.wikipedia.org/wiki/小行星 "wikilink")、[矮行星](https://zh.wikipedia.org/wiki/矮行星 "wikilink")、[衛星等磁場都相當微弱](../Page/衛星.md "wikilink")，更別提足以干擾地球通信的巨大磁場。有時太陽[磁暴會干擾地球通信](../Page/磁暴.md "wikilink")，是因為帶電粒子——[太陽風](https://zh.wikipedia.org/wiki/太陽風 "wikilink")——穿過地球磁場產生的大量電磁波之故，也不是因為太陽的磁場。
+一般而言，只有較大的[行星](../Page/行星.md "wikilink")與[恆星有磁場](https://zh.wikipedia.org/wiki/恆星 "wikilink")，[彗星](https://zh.wikipedia.org/wiki/彗星 "wikilink")、[小行星](https://zh.wikipedia.org/wiki/小行星 "wikilink")、[矮行星](https://zh.wikipedia.org/wiki/矮行星 "wikilink")、[衛星](../Page/衛星.md "wikilink")等磁場都相當微弱，更別提足以干擾地球通信的巨大磁場。有時太陽[磁暴](../Page/磁暴.md "wikilink")會干擾地球通信，是因為帶電粒子——[太陽風](https://zh.wikipedia.org/wiki/太陽風 "wikilink")——穿過地球磁場產生的大量電磁波之故，也不是因為太陽的磁場。
 
 ## 登場人物
 
@@ -69,8 +68,7 @@
   - 塗裝 - NAKAM、深森、
   - 背景 - 吉田誠治
   - 程式 - casper
-  - 程式腳本 -
-    NEKOBASE、[柚子璃刃](https://zh.wikipedia.org/wiki/柚子璃刃 "wikilink")
+  - 程式腳本 - NEKOBASE、[柚子璃刃](https://zh.wikipedia.org/wiki/柚子璃刃 "wikilink")
 
 ## 參考資料
 
@@ -80,9 +78,6 @@
 
   - [官方網站](http://www.keroq.co.jp/petitkeroq/)
 
-[Category:KeroQ](https://zh.wikipedia.org/wiki/Category:KeroQ "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink")
+[Category:KeroQ](https://zh.wikipedia.org/wiki/Category:KeroQ "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink")
 
 1.

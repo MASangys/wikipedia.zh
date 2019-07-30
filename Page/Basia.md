@@ -15,5 +15,4 @@
 
 [Category:波蘭歌手](https://zh.wikipedia.org/wiki/Category:波蘭歌手 "wikilink")
 
-1.   Portal Informacji Kulturalnej Województwa
-    Świętokrzyskiego|url=[http://pik.kielce.pl/filmy/wydarzenia-kulturalne/60-minut-z-basia.html|work=pik.kielce.pl|accessdate=2019-03-23|language=pl](http://pik.kielce.pl/filmy/wydarzenia-kulturalne/60-minut-z-basia.html%7Cwork=pik.kielce.pl%7Caccessdate=2019-03-23%7Clanguage=pl)}}
+1.   Portal Informacji Kulturalnej Województwa Świętokrzyskiego|url=[http://pik.kielce.pl/filmy/wydarzenia-kulturalne/60-minut-z-basia.html|work=pik.kielce.pl|accessdate=2019-03-23|language=pl](http://pik.kielce.pl/filmy/wydarzenia-kulturalne/60-minut-z-basia.html%7Cwork=pik.kielce.pl%7Caccessdate=2019-03-23%7Clanguage=pl)}}

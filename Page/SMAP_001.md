@@ -1,17 +1,13 @@
-『**SMAP 001**』是[SMAP](../Page/SMAP.md "wikilink")首張專輯，於1992年1月1日由[Victor
-Entertainment發行](../Page/勝利娛樂.md "wikilink")。
+『**SMAP 001**』是[SMAP](../Page/SMAP.md "wikilink")首張專輯，於1992年1月1日由[Victor Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 簡介
 
-  - 這張專輯在元旦1月1日發售，與後來的[SMAP
-    003及](../Page/SMAP_003.md "wikilink")[Cool均是同一日發售](https://zh.wikipedia.org/wiki/Cool "wikilink")。
-  - 「Don't Cry
-    Baby」和「再見的戀人」均收錄在後來發售的[pamS](https://zh.wikipedia.org/wiki/pamS "wikilink")，其中「再見的戀人」被重新錄成與原版本不同的「2001版本」。
+  - 這張專輯在元旦1月1日發售，與後來的[SMAP 003及](../Page/SMAP_003.md "wikilink")[Cool均是同一日發售](https://zh.wikipedia.org/wiki/Cool "wikilink")。
+  - 「Don't Cry Baby」和「再見的戀人」均收錄在後來發售的[pamS](https://zh.wikipedia.org/wiki/pamS "wikilink")，其中「再見的戀人」被重新錄成與原版本不同的「2001版本」。
 
 ## 收錄歌曲
 
-1.  [Can't Stop\!\!
-    -LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")
+1.  [Can't Stop\!\! -LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")
       - 作詞：森浩美 / 作曲：Jimmy Johnson /編曲：船山基紀
 2.  Run\! Run\! Run\!
       - 作詞：相田毅 / 作曲：谷本新 / 編曲：重實徹 / 合唱編排：松下誠
@@ -41,8 +37,6 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 外部連結
 
-  - [SMAP 001](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-263.html)
-    （Victor Entertainment）
+  - [SMAP 001](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-263.html) （Victor Entertainment）
 
-[Category:SMAP音樂專輯](https://zh.wikipedia.org/wiki/Category:SMAP音樂專輯 "wikilink")
-[Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink")
+[Category:SMAP音樂專輯](https://zh.wikipedia.org/wiki/Category:SMAP音樂專輯 "wikilink") [Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink")

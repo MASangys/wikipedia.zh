@@ -1,8 +1,6 @@
-《**金妍兒的Kiss &
-Cry**》是[SBS由](https://zh.wikipedia.org/wiki/SBS "wikilink")2011年5月22日至8月21日在[星期天真好二部播放的節目](../Page/星期天真好.md "wikilink")，作為[英雄豪傑的後續](../Page/英雄豪傑.md "wikilink")。
-這是韓國首個以[花樣滑冰及](https://zh.wikipedia.org/wiki/花樣滑冰 "wikilink")[冰舞為主題的真人秀節目](../Page/冰舞.md "wikilink")。
+《**金妍兒的Kiss & Cry**》是[SBS由](https://zh.wikipedia.org/wiki/SBS "wikilink")2011年5月22日至8月21日在[星期天真好](../Page/星期天真好.md "wikilink")二部播放的節目，作為[英雄豪傑](../Page/英雄豪傑.md "wikilink")的後續。 這是韓國首個以[花樣滑冰及](https://zh.wikipedia.org/wiki/花樣滑冰 "wikilink")[冰舞](../Page/冰舞.md "wikilink")為主題的真人秀節目。
 
-節目以十位藝人與職業花樣滑冰選手拍擋，每集會有不同的主題並作出表演並由專業評委評分，以淘汰制的形式每星期淘汰一隊。節目最後由[Krystal和](../Page/鄭秀晶.md "wikilink")[李东勋](https://zh.wikipedia.org/wiki/李东勋 "wikilink")（前花样滑冰国家代表选手）獲勝，其在8月13日與[金妍兒參加花样滑冰表演](../Page/金妍兒.md "wikilink")。除了可以表演[花樣滑冰的跳躍](../Page/花样滑冰的跳跃动作.md "wikilink")，計分準則與[冰舞比賽幾乎一樣](../Page/冰舞.md "wikilink")。
+節目以十位藝人與職業花樣滑冰選手拍擋，每集會有不同的主題並作出表演並由專業評委評分，以淘汰制的形式每星期淘汰一隊。節目最後由[Krystal和](../Page/鄭秀晶.md "wikilink")[李东勋](https://zh.wikipedia.org/wiki/李东勋 "wikilink")（前花样滑冰国家代表选手）獲勝，其在8月13日與[金妍兒](../Page/金妍兒.md "wikilink")參加花样滑冰表演。除了可以表演[花樣滑冰的跳躍](../Page/花样滑冰的跳跃动作.md "wikilink")，計分準則與[冰舞](../Page/冰舞.md "wikilink")比賽幾乎一樣。
 
 ## 節目名稱由來
 
@@ -125,9 +123,7 @@ Cry**》是[SBS由](https://zh.wikipedia.org/wiki/SBS "wikilink")2011年5月22�
 個人表演後，按照排名高低依次序選拍擋。
 
   - 主題 : 自己
-  - [피겨스케이팅 갤러리 자체
-    프로토콜](http://gall.dcinside.com/list.php?id=figureskating&no=1182508&page=1&search_pos=-1146842&k_type=0100&keyword=%ED%86%A0%EC%BD%9C&bbs=/)
-    <small>來源 : VANITAS </small>
+  - [피겨스케이팅 갤러리 자체 프로토콜](http://gall.dcinside.com/list.php?id=figureskating&no=1182508&page=1&search_pos=-1146842&k_type=0100&keyword=%ED%86%A0%EC%BD%9C&bbs=/) <small>來源 : VANITAS </small>
 
 <table style="width:910%;">
 <colgroup>
@@ -215,9 +211,7 @@ Catroon hero<small> by <a href="../Page/水叮噹.md" title="wikilink">Aqua</a><
 
   - 主題 : Couple
   - 指定技術 : [旋轉](https://zh.wikipedia.org/wiki/旋轉_\(花式滑冰\) "wikilink")
-  - [피겨스케이팅 갤러리 자체
-    프로토콜](http://gall.dcinside.com/list.php?id=figureskating&no=1183376&page=1&search_pos=-1147642&k_type=1000&keyword=VANITAS&bbs=/)
-    <small>來源 : VANITAS </small>
+  - [피겨스케이팅 갤러리 자체 프로토콜](http://gall.dcinside.com/list.php?id=figureskating&no=1183376&page=1&search_pos=-1147642&k_type=1000&keyword=VANITAS&bbs=/) <small>來源 : VANITAS </small>
 
 <table style="width:910%;">
 <colgroup>
@@ -320,9 +314,7 @@ A whole new world<br />
 
   - 主題 : Dance
   - 指定技術 : [撐舉](https://zh.wikipedia.org/wiki/托举_\(花样滑冰\) "wikilink")
-  - [피겨스케이팅 갤러리 자체
-    프로토콜](http://gall.dcinside.com/list.php?id=figureskating&no=1189030&page=3&bbs=/)
-    <small>來源 : VANITAS </small>
+  - [피겨스케이팅 갤러리 자체 프로토콜](http://gall.dcinside.com/list.php?id=figureskating&no=1189030&page=3&bbs=/) <small>來源 : VANITAS </small>
 
 <table style="width:910%;">
 <colgroup>
@@ -433,9 +425,7 @@ Sing sing sing</p></td>
 
   - 主題 : 朋友
   - 指定技術 : 自旋
-  - [피겨스케이팅 갤러리 자체
-    프로토콜](http://gall.dcinside.com/list.php?id=figureskating&no=1192445&page=1&search_pos=-1157077&k_type=1100&keyword=VANITAS&bbs=/)
-    <small>來源 : VANITAS </small>
+  - [피겨스케이팅 갤러리 자체 프로토콜](http://gall.dcinside.com/list.php?id=figureskating&no=1192445&page=1&search_pos=-1157077&k_type=1100&keyword=VANITAS&bbs=/) <small>來源 : VANITAS </small>
 
 <table style="width:170%;">
 <colgroup>
@@ -531,9 +521,7 @@ Jai ho<small>by <a href="https://zh.wikipedia.org/wiki/小野貓" title="wikilin
 
   - 主題 : OST
   - 指定技術 : Jump
-  - [피겨스케이팅 갤러리 자체
-    프로토콜](http://gall.dcinside.com/list.php?id=figureskating&no=1193804&page=1&bbs=/)
-    <small>來源 : VANITAS </small>
+  - [피겨스케이팅 갤러리 자체 프로토콜](http://gall.dcinside.com/list.php?id=figureskating&no=1193804&page=1&bbs=/) <small>來源 : VANITAS </small>
 
 <table style="width:150%;">
 <colgroup>
@@ -607,14 +595,11 @@ Bad case of loving you<br />
 
 ### 大題主題 5回 : 禮物
 
-利用金妍兒送出的禮物進行表演，本回分數最低的被淘汰─朴俊琴&金道焕。
-另外，U-Know允浩\&Claudia由於後者國家隊訓練的日程有衝突而退出比賽。
+利用金妍兒送出的禮物進行表演，本回分數最低的被淘汰─朴俊琴&金道焕。 另外，U-Know允浩\&Claudia由於後者國家隊訓練的日程有衝突而退出比賽。
 
   - 主題 : 禮物
   - 指定技術 : Step
-  - [피겨스케이팅 갤러리 자체
-    프로토콜](http://gall.dcinside.com/list.php?id=figureskating&no=1195217&page=1&search_pos=-1159527&k_type=1000&keyword=VANITAS&bbs=/)
-    <small>來源 : VANITAS </small>
+  - [피겨스케이팅 갤러리 자체 프로토콜](http://gall.dcinside.com/list.php?id=figureskating&no=1195217&page=1&search_pos=-1159527&k_type=1000&keyword=VANITAS&bbs=/) <small>來源 : VANITAS </small>
 
 <table style="width:110%;">
 <colgroup>
@@ -734,8 +719,4 @@ Winter sun</p></td>
 
 ## 作品的變遷
 
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
-[Category:花樣滑冰電視節目](https://zh.wikipedia.org/wiki/Category:花樣滑冰電視節目 "wikilink")
-[Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink") [Category:花樣滑冰電視節目](https://zh.wikipedia.org/wiki/Category:花樣滑冰電視節目 "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")

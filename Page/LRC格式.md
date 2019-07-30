@@ -1,4 +1,4 @@
-**LRC**是一個可以跟音樂檔案做同步的[檔案格式](../Page/檔案格式.md "wikilink")。當一個音樂檔案（如[MP3](../Page/MP3.md "wikilink")、[Vorbis或](https://zh.wikipedia.org/wiki/Vorbis "wikilink")[WMA等](https://zh.wikipedia.org/wiki/WMA "wikilink")）被電腦音樂播放程式（如[foobar2000與](https://zh.wikipedia.org/wiki/foobar2000 "wikilink")[千千靜聽等](https://zh.wikipedia.org/wiki/千千靜聽 "wikilink")）或現代的MP3[隨身聽以及](https://zh.wikipedia.org/wiki/隨身聽 "wikilink")[DVD播放機等裝置播放時](https://zh.wikipedia.org/wiki/DVD播放機 "wikilink")，歌詞可以被同步顯示出來。歌詞檔案通常和音樂檔案有同樣的檔案名稱，但是副檔名不同。例如：***song.mp3***和***song.lrc***。LRC格式是一種文字格式，與電視和電影的[字幕檔很相似](../Page/字幕.md "wikilink")。由於中、日、韓文歌詞在ANSI格式裡可能產生亂碼，可以使用[UTF-8或](../Page/UTF-8.md "wikilink")[Unicode文字編碼避免](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
+**LRC**是一個可以跟音樂檔案做同步的[檔案格式](../Page/檔案格式.md "wikilink")。當一個音樂檔案（如[MP3](../Page/MP3.md "wikilink")、[Vorbis或](https://zh.wikipedia.org/wiki/Vorbis "wikilink")[WMA等](https://zh.wikipedia.org/wiki/WMA "wikilink")）被電腦音樂播放程式（如[foobar2000與](https://zh.wikipedia.org/wiki/foobar2000 "wikilink")[千千靜聽等](https://zh.wikipedia.org/wiki/千千靜聽 "wikilink")）或現代的MP3[隨身聽以及](https://zh.wikipedia.org/wiki/隨身聽 "wikilink")[DVD播放機等裝置播放時](https://zh.wikipedia.org/wiki/DVD播放機 "wikilink")，歌詞可以被同步顯示出來。歌詞檔案通常和音樂檔案有同樣的檔案名稱，但是副檔名不同。例如：***song.mp3***和***song.lrc***。LRC格式是一種文字格式，與電視和電影的[字幕](../Page/字幕.md "wikilink")檔很相似。由於中、日、韓文歌詞在ANSI格式裡可能產生亂碼，可以使用[UTF-8](../Page/UTF-8.md "wikilink")或[Unicode文字編碼避免](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
 
 ## 格式
 
@@ -39,8 +39,7 @@ LRC的时间标籤的格式为**\[mm:ss.xx\]**其中**mm**为分钟数、**ss**�
 
 ### 简单格式的擴展
 
-這個功能仅在Walasoft的Walaoke（一個卡啦OK媒體播放器）上可用。这个功能可以使用以下標籤設定歌詞的性别：M: 男性, F: 女性,
-D: 合唱。
+這個功能仅在Walasoft的Walaoke（一個卡啦OK媒體播放器）上可用。这个功能可以使用以下標籤設定歌詞的性别：M: 男性, F: 女性, D: 合唱。
 
   - **例如:**
 
@@ -51,15 +50,11 @@ D: 合唱。
 `[00:28.25]D: 第五行歌词`
 `[00:29.02]第六行歌词`
 
-我们假设男性为蓝色，女性为红色，合唱为粉色。 第一行使用默认色（蓝色），因为没有找到标签。 第二行歌词以红色开始，因为找到了F:。
-第三行歌词以蓝色开始，因为找到了M:。 第四行歌词以蓝色开始，因为没有找到标签。
-第五行歌词以粉色开始，因为找到了D:。
-第六行歌词與第五行相同，為粉色，因为没有找到標籤。
+我们假设男性为蓝色，女性为红色，合唱为粉色。 第一行使用默认色（蓝色），因为没有找到标签。 第二行歌词以红色开始，因为找到了F:。 第三行歌词以蓝色开始，因为找到了M:。 第四行歌词以蓝色开始，因为没有找到标签。 第五行歌词以粉色开始，因为找到了D:。 第六行歌词與第五行相同，為粉色，因为没有找到標籤。
 
 ### 增强格式
 
-**增强LRC格式**是**简单LRC格式**的一個擴充，由A2 Media
-Player\[2\]所开发。它增加了一个额外的时间標籤，格式为：**\<mm:ss.xx\>**.
+**增强LRC格式**是**简单LRC格式**的一個擴充，由A2 Media Player\[2\]所开发。它增加了一个额外的时间標籤，格式为：**\<mm:ss.xx\>**.
 
 **一个增强LRC格式文件的例子：**
 
@@ -74,22 +69,15 @@ Player\[2\]所开发。它增加了一个额外的时间標籤，格式为：**\
 
 ### 硬件
 
-  - [魅族](https://zh.wikipedia.org/wiki/魅族 "wikilink")[M3 Music
-    Card和](https://zh.wikipedia.org/wiki/M3_Music_Card "wikilink")[M6
-    Mini
-    Player](https://zh.wikipedia.org/wiki/M6_Mini_Player "wikilink")
-  - [创新科技](../Page/创新科技.md "wikilink")[Creative
-    MuVo](https://zh.wikipedia.org/wiki/Creative_MuVo "wikilink") V100
-  - [Archos
-    5](https://zh.wikipedia.org/wiki/Archos_5 "wikilink")，仅支持与歌曲文件名相同的LRC文件
+  - [魅族](https://zh.wikipedia.org/wiki/魅族 "wikilink")[M3 Music Card和](https://zh.wikipedia.org/wiki/M3_Music_Card "wikilink")[M6 Mini Player](https://zh.wikipedia.org/wiki/M6_Mini_Player "wikilink")
+  - [创新科技](../Page/创新科技.md "wikilink")[Creative MuVo](https://zh.wikipedia.org/wiki/Creative_MuVo "wikilink") V100
+  - [Archos 5](https://zh.wikipedia.org/wiki/Archos_5 "wikilink")，仅支持与歌曲文件名相同的LRC文件
 
 ### 软件
 
-  - [AIMP](../Page/AIMP.md "wikilink")（[WebLyrics v0.2
-    Preview](https://www.aimp.ru/?do=catalog&rec_id=906)，[MyClouds](https://www.aimp.ru/?do=catalog&rec_id=971)插件支持）
+  - [AIMP](../Page/AIMP.md "wikilink")（[WebLyrics v0.2 Preview](https://www.aimp.ru/?do=catalog&rec_id=906)，[MyClouds](https://www.aimp.ru/?do=catalog&rec_id=971)插件支持）
   - [foobar2000](https://zh.wikipedia.org/wiki/foobar2000 "wikilink")（[foo_uie_lyrics](https://web.archive.org/web/20090820075742/http://gro.clinux.org/projects/ikiki)插件支持）
-  - [K-Multimedia
-    Player](https://zh.wikipedia.org/wiki/K-Multimedia_Player "wikilink")
+  - [K-Multimedia Player](https://zh.wikipedia.org/wiki/K-Multimedia_Player "wikilink")
   - [迷你歌词](https://zh.wikipedia.org/wiki/迷你歌词 "wikilink")
   - [StepMania](../Page/StepMania.md "wikilink")\[3\]
   - [千千靜聽](https://zh.wikipedia.org/wiki/千千靜聽 "wikilink")
@@ -101,7 +89,7 @@ Player\[2\]所开发。它增加了一个额外的时间標籤，格式为：**\
 
 ## 参见
 
-  - [卡拉OK和](../Page/卡拉OK.md "wikilink")[kar文件](https://zh.wikipedia.org/wiki/kar文件 "wikilink")
+  - [卡拉OK](../Page/卡拉OK.md "wikilink")和[kar文件](https://zh.wikipedia.org/wiki/kar文件 "wikilink")
   - [CD+G](https://zh.wikipedia.org/wiki/CD+G "wikilink")
 
 ## 引用
@@ -115,38 +103,26 @@ Player\[2\]所开发。它增加了一个额外的时间標籤，格式为：**\
 LRC生成器
 
   - [LRCgenerator](http://www.lrcgenerator.com/) 在线LRC文件生成器
-  - [LRC MAKER](https://ivsnote.com/lrc-file-lryic-maker-free/) LRC
-    歌詞檔案製作工具
+  - [LRC MAKER](https://ivsnote.com/lrc-file-lryic-maker-free/) LRC 歌詞檔案製作工具
 
 歌词服务器数据库
 
-  - [LYRDB](https://web.archive.org/web/20070928192352/http://www.lyrdb.com/karaoke/)
-    LRC Karaoke Database
-  - [lrcDB](https://web.archive.org/web/20100725191058/http://www.lrcdb.org/)
-    Lyrics Database
+  - [LYRDB](https://web.archive.org/web/20070928192352/http://www.lyrdb.com/karaoke/) LRC Karaoke Database
+  - [lrcDB](https://web.archive.org/web/20100725191058/http://www.lrcdb.org/) Lyrics Database
   - [LRC Lyrics Database](http://lrclyrics.50webs.com)
   - [LRC Lyrics Center](http://www.cdmi.net/a2player/lrc_center.html)
   - [LYRDB](http://www.lyrdb.com/), An extensive lyrics database
-  - [Portal
-    LRC](https://web.archive.org/web/20100227100335/http://www.portallrc.com.br/),
-    a Brazilian lyrics web site with over 3000 LRC's
-  - [Lyricsfly
-    API](https://archive.is/20080703182923/http://www.lyricsfly.com/api/),
-    database of lyrics with REST XML API access
-  - [Tutorial](https://web.archive.org/web/20050719082207/http://www.mycnknow.com/download/TUTORIAL/tutor.htm)
-    - Creating lyrics using LRC Editor
-  - [Lrceditor-Amarok](http://www.kde-apps.org/content/show.php/Lrceditor-Amarok?content=58164),
-    a GNU/Linux lrc editor against amarok
+  - [Portal LRC](https://web.archive.org/web/20100227100335/http://www.portallrc.com.br/), a Brazilian lyrics web site with over 3000 LRC's
+  - [Lyricsfly API](https://archive.is/20080703182923/http://www.lyricsfly.com/api/), database of lyrics with REST XML API access
+  - [Tutorial](https://web.archive.org/web/20050719082207/http://www.mycnknow.com/download/TUTORIAL/tutor.htm) - Creating lyrics using LRC Editor
+  - [Lrceditor-Amarok](http://www.kde-apps.org/content/show.php/Lrceditor-Amarok?content=58164), a GNU/Linux lrc editor against amarok
 
 教程
 
-  - [How to get or make
-    LRC](https://web.archive.org/web/20070202041800/http://www.mobile-mir.com/en/HowToLRC.php).
+  - [How to get or make LRC](https://web.archive.org/web/20070202041800/http://www.mobile-mir.com/en/HowToLRC.php).
 
-[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
-[Category:歌词](https://zh.wikipedia.org/wiki/Category:歌词 "wikilink")
+[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink") [Category:歌词](https://zh.wikipedia.org/wiki/Category:歌词 "wikilink")
 
 1.
 2.  <http://www.mediacommands.com/lyrics.html>
-3.  [StepMania: Song Lyrics - LRC
-    Format](http://www.stepmania.com/wiki/Song_Lyrics_-_LRC_Format)
+3.  [StepMania: Song Lyrics - LRC Format](http://www.stepmania.com/wiki/Song_Lyrics_-_LRC_Format)

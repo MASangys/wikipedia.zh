@@ -1,5 +1,4 @@
-**Artist-house
-Pyramid**是[日本的藝能事務所](../Page/日本.md "wikilink")。1987年設立。代表董事社長是森山幸男。
+**Artist-house Pyramid**是[日本](../Page/日本.md "wikilink")的藝能事務所。1987年設立。代表董事社長是森山幸男。
 
 ## 所屬藝人
 
@@ -69,10 +68,7 @@ Pyramid**是[日本的藝能事務所](../Page/日本.md "wikilink")。1987年�
 
 ## 外部連結
 
-  - [Artist-house
-    Pyramid公式網站](https://web.archive.org/web/20111011092758/http://pyramid.jap.co.jp/)
+  - [Artist-house Pyramid公式網站](https://web.archive.org/web/20111011092758/http://pyramid.jap.co.jp/)
   - [社団法人 日本音楽事業者協会](http://www.jame.or.jp/)
 
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
-[Category:Artist-house_Pyramid](https://zh.wikipedia.org/wiki/Category:Artist-house_Pyramid "wikilink")
+[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:Artist-house_Pyramid](https://zh.wikipedia.org/wiki/Category:Artist-house_Pyramid "wikilink")

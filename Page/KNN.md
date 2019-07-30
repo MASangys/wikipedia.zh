@@ -1,6 +1,4 @@
-**KNN**（Korea New Network），全名為**KNN股份有限公司**，原名**釜山放送**（PuSan
-Broadcasting
-Corporation，PSB）。一家坐落在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[釜山的商业广播电视台](https://zh.wikipedia.org/wiki/釜山 "wikilink")，是[SBS联播網成员之一](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")。母公司為[耐克森輪胎](../Page/耐克森輪胎.md "wikilink")，除新闻节目自办外，大量节目来源于SBS。
+**KNN**（Korea New Network），全名為**KNN股份有限公司**，原名**釜山放送**（PuSan Broadcasting Corporation，PSB）。一家坐落在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[釜山的商业广播电视台](https://zh.wikipedia.org/wiki/釜山 "wikilink")，是[SBS联播網成员之一](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")。母公司為[耐克森輪胎](../Page/耐克森輪胎.md "wikilink")，除新闻节目自办外，大量节目来源于SBS。
 
 ## 沿革
 
@@ -26,7 +24,4 @@ Corporation，PSB）。一家坐落在[韩国](https://zh.wikipedia.org/wiki/韩
 
   - [耐克森輪胎](../Page/耐克森輪胎.md "wikilink")
 
-[Category:1994年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1994年成立的电视台或电视频道 "wikilink")
-[Category:韩国广播电台](https://zh.wikipedia.org/wiki/Category:韩国广播电台 "wikilink")
-[Category:韩国电视台](https://zh.wikipedia.org/wiki/Category:韩国电视台 "wikilink")
-[Category:釜山公司](https://zh.wikipedia.org/wiki/Category:釜山公司 "wikilink")
+[Category:1994年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1994年成立的电视台或电视频道 "wikilink") [Category:韩国广播电台](https://zh.wikipedia.org/wiki/Category:韩国广播电台 "wikilink") [Category:韩国电视台](https://zh.wikipedia.org/wiki/Category:韩国电视台 "wikilink") [Category:釜山公司](https://zh.wikipedia.org/wiki/Category:釜山公司 "wikilink")

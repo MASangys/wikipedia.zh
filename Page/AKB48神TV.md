@@ -1,12 +1,11 @@
-**AKB48神TV**（）是[日本](../Page/日本.md "wikilink")[衛星電視頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")自2008年起定期播出的[綜藝節目](../Page/綜藝節目.md "wikilink")，為女子偶像團體[AKB48的冠名節目之一](../Page/AKB48.md "wikilink")，由家庭劇場委託企畫製作。目前已製播27，每期長度約3個月，以AKB48及其[姊妹團體的成員們挑戰各樣事物為主要內容](../Page/AKB48集團.md "wikilink")。
+**AKB48神TV**（）是[日本](../Page/日本.md "wikilink")[衛星電視頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")自2008年起定期播出的[綜藝節目](../Page/綜藝節目.md "wikilink")，為女子偶像團體[AKB48](../Page/AKB48.md "wikilink")的冠名節目之一，由家庭劇場委託企畫製作。目前已製播27，每期長度約3個月，以AKB48及其[姊妹團體的成員們挑戰各樣事物為主要內容](../Page/AKB48集團.md "wikilink")。
 
 ## 概要
 
   - 第1系列（Season1），自2008年7月13日至10月12日，共播出12期。
     第2系列（Season2），自2009年7月10日至9月18日，共播出11期。
     第3系列，自2009年10月9日至12月18日，工播出11期。另外，因AKB48作为嘉宾出演的「纽约动画节」于11月16日在SKY频道播出的关系，同一天又重播了第1系列。
-    此外，在2009年12月23日播出了The first time story -AKB48 U.S. DEBUT CONCERT IN
-    NYC- ，25日播出了Season2第8期、11期，28日播出了『AKB48 神TV 特别节目2009』。
+    此外，在2009年12月23日播出了The first time story -AKB48 U.S. DEBUT CONCERT IN NYC- ，25日播出了Season2第8期、11期，28日播出了『AKB48 神TV 特别节目2009』。
 
 在家庭剧场内的神TV特设网站上，发表了Season4于2010年7月开始播出的消息；并在SP3（来自冬之国2010）的最后，突然宣布了有吉弘行从恶整传道士身份毕业的消息，自Season4起由[小木矢作作为新传道士出演](https://zh.wikipedia.org/wiki/w:ja:おぎやはぎ "wikilink")。
 
@@ -37,11 +36,9 @@
   - [原口あきまさ](https://zh.wikipedia.org/wiki/原口あきまさ "wikilink")（1 - 2）
   - [島崎俊郎](https://zh.wikipedia.org/wiki/島崎俊郎 "wikilink")（3）
   - 宇田京子（5） - 第三蒲田保育園主任
-  - 梅野景子（8 - 9） -
-    [新宿二丁目](https://zh.wikipedia.org/wiki/新宿二丁目 "wikilink")・[跨性別酒吧表演](../Page/跨性別.md "wikilink")「GUPPY」媽媽
+  - 梅野景子（8 - 9） - [新宿二丁目](https://zh.wikipedia.org/wiki/新宿二丁目 "wikilink")・[跨性別](../Page/跨性別.md "wikilink")酒吧表演「GUPPY」媽媽
   - CAZU（8 - 9） - 新宿二丁目・同性戀酒吧「Shifty Air」媽媽
-  - 古谷一郎（11） -
-    「[なんつッ亭](https://zh.wikipedia.org/wiki/なんつッ亭 "wikilink")」代表
+  - 古谷一郎（11） - 「[なんつッ亭](https://zh.wikipedia.org/wiki/なんつッ亭 "wikilink")」代表
   - 下里庄太（11） - 「なんつッ亭」 ラーメン修行2年目（メンバー教育担当）
 
 ### 播出日期・企劃・出演成員（Season1）
@@ -215,10 +212,9 @@ Season1
   - [尾澤直志](https://zh.wikipedia.org/wiki/尾澤直志 "wikilink")（4 - 5） - 動畫
   - [小島幸子](../Page/小島幸子.md "wikilink")（5） - 声優
   - 香川透（8 - 9） - 徒手潛水漁師
-  - 谷口和樹（8 - 9） -
-    [和歌山縣](https://zh.wikipedia.org/wiki/和歌山縣 "wikilink")[田邊市議会議員](https://zh.wikipedia.org/wiki/田邊市 "wikilink")
+  - 谷口和樹（8 - 9） - [和歌山縣](https://zh.wikipedia.org/wiki/和歌山縣 "wikilink")[田邊市議会議員](https://zh.wikipedia.org/wiki/田邊市 "wikilink")
   - 田上敦司（8） - 魷魚漁船「辨慶丸」船長
-  - 物部徳明（8） - [備長炭職人](../Page/備長炭.md "wikilink")、和歌山縣西牟婁郡木炭協会理事
+  - 物部徳明（8） - [備長炭](../Page/備長炭.md "wikilink")職人、和歌山縣西牟婁郡木炭協会理事
   - 田上雅人（9） - 南紀田邊海濱旁海豚豚互相接觸事業實行委員長、商工会議所青年部会長
   - 真砂充敏（9） - 和歌山縣田邊市長
   - 實川欣伸（10 - 11） - 登山家
@@ -381,16 +377,13 @@ Season2
 
 <!-- end list -->
 
-  - 青木宏行（1 - 2）-
-    [光文社](https://zh.wikipedia.org/wiki/光文社 "wikilink")『[FLASH](https://zh.wikipedia.org/wiki/FLASH_\(写真週刊誌\) "wikilink")』編集長
+  - 青木宏行（1 - 2）- [光文社](https://zh.wikipedia.org/wiki/光文社 "wikilink")『[FLASH](https://zh.wikipedia.org/wiki/FLASH_\(写真週刊誌\) "wikilink")』編集長
   - 丸山知明（1 - 2）- 同副編集長
-  - 半谷秀紀（3 - 4） -
-    [那須動物王國動物管理部飼育員](https://zh.wikipedia.org/wiki/那須動物王國 "wikilink")
+  - 半谷秀紀（3 - 4） - [那須動物王國動物管理部飼育員](https://zh.wikipedia.org/wiki/那須動物王國 "wikilink")
   - 藤岡健兒（3 - 4） - 同上
   - Mike Fox（麥克風）（5 - 6）- 電影製作人
   - Jonathan Xerfan Carrera（喬納森）（5 - 6）- 電影製作人
-  - [藤本由香里](https://zh.wikipedia.org/wiki/藤本由香里 "wikilink")（7 - 8）-
-    [明治大学国際日本学部准教授](../Page/明治大学.md "wikilink")（漫畫文化論）
+  - [藤本由香里](https://zh.wikipedia.org/wiki/藤本由香里 "wikilink")（7 - 8）- [明治大学](../Page/明治大学.md "wikilink")国際日本学部准教授（漫畫文化論）
   - 菊池一麿（9）- 陶藝家
   - 高水秀夫（10 - 11） - 自然人村 村長（營地指導）
 
@@ -554,8 +547,7 @@ Season3
 
 <!-- end list -->
 
-  - [戸賀崎智信](https://zh.wikipedia.org/wiki/戸賀崎智信 "wikilink")（2） -
-    AKB48劇場支配人
+  - [戸賀崎智信](https://zh.wikipedia.org/wiki/戸賀崎智信 "wikilink")（2） - AKB48劇場支配人
   - 杉本勝子（9） - 株式会社スターブレーン所屬Puroboura
 
 ### 播出日期・企劃・出演成員（Season4）
@@ -707,13 +699,10 @@ Season4
   - 金杉隆雄（1 - 2） - 群馬昆虫之森 昆虫専門員
   - 岩田慶次（2） - 散策导游
   - 平良光（3 - 4）、小林雄策（4） - 洞穴探險导游
-  - 栗飯原由巳（5 - 6） -
-    [漁船](https://zh.wikipedia.org/wiki/漁船 "wikilink")「第二十一長三朗丸」船長
+  - 栗飯原由巳（5 - 6） - [漁船](https://zh.wikipedia.org/wiki/漁船 "wikilink")「第二十一長三朗丸」船長
   - 大野輝也（7 - 8） - 雅馬哈船中心教員執照
-  - 高山幸夫（9 - 11） -
-    [東京消防廳第八消防方面本部](https://zh.wikipedia.org/wiki/東京消防廳第八消防方面本部 "wikilink")[消防救助機動部隊統括隊長](https://zh.wikipedia.org/wiki/消防救助機動部隊 "wikilink")、[消防司令](https://zh.wikipedia.org/wiki/消防司令 "wikilink")
-  - 大川原孝行（9 - 10） -
-    同・小隊長、[消防司令補](https://zh.wikipedia.org/wiki/消防司令補 "wikilink")
+  - 高山幸夫（9 - 11） - [東京消防廳第八消防方面本部](https://zh.wikipedia.org/wiki/東京消防廳第八消防方面本部 "wikilink")[消防救助機動部隊統括隊長](https://zh.wikipedia.org/wiki/消防救助機動部隊 "wikilink")、[消防司令](https://zh.wikipedia.org/wiki/消防司令 "wikilink")
+  - 大川原孝行（9 - 10） - 同・小隊長、[消防司令補](https://zh.wikipedia.org/wiki/消防司令補 "wikilink")
 
 ### 播出日期・企劃・出演成員（Season5）
 
@@ -865,14 +854,11 @@ Season5
   - [梶原しげる](https://zh.wikipedia.org/wiki/梶原しげる "wikilink")（2 - 3）
   - [Korokoro研究所](http://www.5656lab.com/)（2 - 3）
   - 近藤珠實（4 - 5） - 「清紫会」新・作法学院長
-  - [西出ひろ子](https://zh.wikipedia.org/wiki/西出博子 "wikilink")（4 - 5） -
-    美道家禮儀顧問
+  - [西出ひろ子](https://zh.wikipedia.org/wiki/西出博子 "wikilink")（4 - 5） - 美道家禮儀顧問
   - 鎗田恵美（5） - 諮詢会社役員
   - 豊田潤子（8 - 9） - 板橋中央看護専門学校 第一学科学科長
   - 諸見里安昭（10 - 11） - 「無限動作劇場」動作指導
-  - [精靈法士Tochinokiddo](https://zh.wikipedia.org/wiki/関東地方のローカルヒーロー一覧#栃木縣 "wikilink")（10
-    - 11） -
-    [栃木縣的](../Page/栃木縣.md "wikilink")[地方英雄](https://zh.wikipedia.org/wiki/地方英雄 "wikilink")
+  - [精靈法士Tochinokiddo](https://zh.wikipedia.org/wiki/関東地方のローカルヒーロー一覧#栃木縣 "wikilink")（10 - 11） - [栃木縣](../Page/栃木縣.md "wikilink")的[地方英雄](https://zh.wikipedia.org/wiki/地方英雄 "wikilink")
 
 ### 播出日期・企劃・出演成員（Season6）
 
@@ -1017,8 +1003,7 @@ Season6
   - 小山内秀友（1 - 2） - 国際保鏢協会日本支部代表及亞洲地区統括責任者、股份有限公司CCTT代表董事
   - 後藤圭（3 - 4） - 劇團かかし座代表
   - 石井世紀（3 - 4） - 劇團かかし座上演部
-  - 長谷川洋介（5 - 6） - NPO法人 創造水都東京会 理事 / NPO法人
-    [江東區的水邊親会](https://zh.wikipedia.org/wiki/江東區 "wikilink")
+  - 長谷川洋介（5 - 6） - NPO法人 創造水都東京会 理事 / NPO法人 [江東區的水邊親会](https://zh.wikipedia.org/wiki/江東區 "wikilink")
   - 金子そら（8） - 「自行車Master1号」（12歳）
   - 高橋めい（8） - 「自行車Master2号」（8歳）
 
@@ -1178,14 +1163,10 @@ Season7
   - 大野理美（1 - 2） - 藝文社「愛犬冠軍」編集長
   - 遠藤和博（1 - 2） - 遠藤犬練習代表
   - 宇賀神善之（1 - 2） - 攝影師
-  - 堀内順一（3 - 4） -
-    [長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[青木村](https://zh.wikipedia.org/wiki/青木村 "wikilink")
-    採松茸名人
-  - 山田修平（5 - 6） -
-    [東京学藝大学兒童未来研究所理事](https://zh.wikipedia.org/wiki/東京学藝大学 "wikilink")
-  - 渡邊劍真（8 - 9） - [屋久島位置](../Page/屋久島.md "wikilink")
-  - 飯尾哲司（10 - 11） -
-    [武蔵野調理師専門学校教務部部長](https://zh.wikipedia.org/wiki/武蔵野調理師専門学校 "wikilink")
+  - 堀内順一（3 - 4） - [長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[青木村](https://zh.wikipedia.org/wiki/青木村 "wikilink") 採松茸名人
+  - 山田修平（5 - 6） - [東京学藝大学兒童未来研究所理事](https://zh.wikipedia.org/wiki/東京学藝大学 "wikilink")
+  - 渡邊劍真（8 - 9） - [屋久島](../Page/屋久島.md "wikilink")位置
+  - 飯尾哲司（10 - 11） - [武蔵野調理師専門学校教務部部長](https://zh.wikipedia.org/wiki/武蔵野調理師専門学校 "wikilink")
   - こごま（10 - 11） - 調酒員・新倉芝麻的女兒
 
 ### 播出日期・企劃・出演成員（Season8）
@@ -1330,22 +1311,15 @@ AKB48、SKE48成员</p></td>
 **嘉賓**
 
   - 斉藤かおり（1・2） - 江連忠高爾夫學院、2008年\~2011年･日本最長徑錦標賽4連冠
-  - 本郷博(2・3) -
-    [職業訓練指導員](https://zh.wikipedia.org/wiki/職業訓練指導員 "wikilink")([焊接科](../Page/焊接.md "wikilink"))
+  - 本郷博(2・3) - [職業訓練指導員](https://zh.wikipedia.org/wiki/職業訓練指導員 "wikilink")([焊接](../Page/焊接.md "wikilink")科)
   - 遠藤好典(2・3) - 職業訓練指導員(焊接科)
-  - [田中雅美](../Page/田中雅美.md "wikilink")(4・5) -
-    [蛙泳元日本代表](https://zh.wikipedia.org/wiki/蛙泳 "wikilink")([2000年夏季奧林匹克運動會大会](https://zh.wikipedia.org/wiki/2000年夏季奧林匹克運動會 "wikilink")・女子400m混合泳接力[銅牌](https://zh.wikipedia.org/wiki/銅牌 "wikilink"))
-  - 關口洋志(4・5) -
-    JSS游泳學校副主任[教練](https://zh.wikipedia.org/wiki/教練 "wikilink")
-  - 唐沢明(6) -
-    大学講師([番茄](../Page/番茄.md "wikilink")[院士](https://zh.wikipedia.org/wiki/院士 "wikilink")・番茄德米紅主宰)
+  - [田中雅美](../Page/田中雅美.md "wikilink")(4・5) - [蛙泳元日本代表](https://zh.wikipedia.org/wiki/蛙泳 "wikilink")([2000年夏季奧林匹克運動會大会](https://zh.wikipedia.org/wiki/2000年夏季奧林匹克運動會 "wikilink")・女子400m混合泳接力[銅牌](https://zh.wikipedia.org/wiki/銅牌 "wikilink"))
+  - 關口洋志(4・5) - JSS游泳學校副主任[教練](https://zh.wikipedia.org/wiki/教練 "wikilink")
+  - 唐沢明(6) - 大学講師([番茄](../Page/番茄.md "wikilink")[院士](https://zh.wikipedia.org/wiki/院士 "wikilink")・番茄德米紅主宰)
   - 森田信幸(6) - 番茄[名人](https://zh.wikipedia.org/wiki/名人 "wikilink")
-  - 百瀬直人(7・8) -
-    [寵物專門店](https://zh.wikipedia.org/wiki/寵物 "wikilink")・目黑店副店長
-  - 關こな美(7・8) - [Ank
-    Rouge](../Page/松岡里枝.md "wikilink")[澀谷109店主](https://zh.wikipedia.org/wiki/澀谷109 "wikilink")
-  - 関一行(7・8) -
-    [大和運輸](https://zh.wikipedia.org/wiki/大和運輸 "wikilink")・銀座紺屋橋センター長
+  - 百瀬直人(7・8) - [寵物專門店](https://zh.wikipedia.org/wiki/寵物 "wikilink")・目黑店副店長
+  - 關こな美(7・8) - [Ank Rouge](../Page/松岡里枝.md "wikilink")[澀谷109店主](https://zh.wikipedia.org/wiki/澀谷109 "wikilink")
+  - 関一行(7・8) - [大和運輸](https://zh.wikipedia.org/wiki/大和運輸 "wikilink")・銀座紺屋橋センター長
   - 長野博文(9) - 職業攝影師
 
 ### 播出日期・企劃・出演成員（Season9）
@@ -1489,32 +1463,20 @@ Season9
 **嘉賓**
 
   - [池谷幸雄](https://zh.wikipedia.org/wiki/池谷幸雄 "wikilink")（1 - 2）
-  - 小玉玲奈（2） - [直笛講師](../Page/直笛.md "wikilink")\[6\]
-  - 高塚俊（3） - HAIR SALON Яe 土浦店
-    [美容師](https://zh.wikipedia.org/wiki/美容師 "wikilink")
+  - 小玉玲奈（2） - [直笛](../Page/直笛.md "wikilink")講師\[6\]
+  - 高塚俊（3） - HAIR SALON Яe 土浦店 [美容師](https://zh.wikipedia.org/wiki/美容師 "wikilink")
   - 矢口宗平（3） - ダチョウ王国石岡ファーム 飼育員
-  - 根岸光子（5） -
-    [大月](../Page/大月市.md "wikilink")[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")[ボランティアガイド](https://zh.wikipedia.org/wiki/観光ボランティアガイド "wikilink")
-  - 久嶋早百合（6） -
-    大月市[郷土](https://zh.wikipedia.org/wiki/郷土史 "wikilink")[資料館](https://zh.wikipedia.org/wiki/博物館 "wikilink")
-  - [ジャガー横田](https://zh.wikipedia.org/wiki/ジャガー横田 "wikilink")（6） -
-    女子[プロレスラー](https://zh.wikipedia.org/wiki/プロレスラー "wikilink")
-  - [木下博勝](https://zh.wikipedia.org/wiki/木下博勝 "wikilink")（6） -
-    ジャガー横田の夫、[醫學博士](https://zh.wikipedia.org/wiki/醫學博士 "wikilink")・[鎌倉女子大学](https://zh.wikipedia.org/wiki/鎌倉女子大学 "wikilink")[教授](../Page/教授.md "wikilink")
-  - 瀬津真也（7） - [日刊體育文化社会部](../Page/日刊體育.md "wikilink")「AKB48新聞」記者
-  - 鈴木隆（7） -
-    [ABCゴルフいすみコース](https://web.archive.org/web/20130418070011/http://abc-isumigolf.jp/)支配人
-  - 田中一成（7） -
-    [千葉縣](../Page/千葉縣.md "wikilink")[夷隅市役所企画政策課課長](../Page/夷隅市.md "wikilink")
+  - 根岸光子（5） - [大月](../Page/大月市.md "wikilink")[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")[ボランティアガイド](https://zh.wikipedia.org/wiki/観光ボランティアガイド "wikilink")
+  - 久嶋早百合（6） - 大月市[郷土](https://zh.wikipedia.org/wiki/郷土史 "wikilink")[資料館](https://zh.wikipedia.org/wiki/博物館 "wikilink")
+  - [ジャガー横田](https://zh.wikipedia.org/wiki/ジャガー横田 "wikilink")（6） - 女子[プロレスラー](https://zh.wikipedia.org/wiki/プロレスラー "wikilink")
+  - [木下博勝](https://zh.wikipedia.org/wiki/木下博勝 "wikilink")（6） - ジャガー横田の夫、[醫學博士](https://zh.wikipedia.org/wiki/醫學博士 "wikilink")・[鎌倉女子大学](https://zh.wikipedia.org/wiki/鎌倉女子大学 "wikilink")[教授](../Page/教授.md "wikilink")
+  - 瀬津真也（7） - [日刊體育](../Page/日刊體育.md "wikilink")文化社会部「AKB48新聞」記者
+  - 鈴木隆（7） - [ABCゴルフいすみコース](https://web.archive.org/web/20130418070011/http://abc-isumigolf.jp/)支配人
+  - 田中一成（7） - [千葉縣](../Page/千葉縣.md "wikilink")[夷隅市](../Page/夷隅市.md "wikilink")役所企画政策課課長
   - 太田洋（7） - 千葉県夷隅市市長
-  - [武田双雲](https://zh.wikipedia.org/wiki/武田双雲 "wikilink")（8 - 9） -
-    [書法](https://zh.wikipedia.org/wiki/書法 "wikilink")
-  - 國立路加（11 - 12） -
-    [市原ぞうの国](https://zh.wikipedia.org/wiki/市原ぞうの国 "wikilink")
-    [象製作人](https://zh.wikipedia.org/wiki/亞洲象 "wikilink")
-  - 浅川弘（11 - 12） -
-    [下田海中水族館](https://zh.wikipedia.org/wiki/下田海中水族館 "wikilink")
-    [海豚訓練員](../Page/海豚.md "wikilink")
+  - [武田双雲](https://zh.wikipedia.org/wiki/武田双雲 "wikilink")（8 - 9） - [書法](https://zh.wikipedia.org/wiki/書法 "wikilink")
+  - 國立路加（11 - 12） - [市原ぞうの国](https://zh.wikipedia.org/wiki/市原ぞうの国 "wikilink") [象製作人](https://zh.wikipedia.org/wiki/亞洲象 "wikilink")
+  - 浅川弘（11 - 12） - [下田海中水族館](https://zh.wikipedia.org/wiki/下田海中水族館 "wikilink") [海豚](../Page/海豚.md "wikilink")訓練員
 
 ### 播出日期・企劃・出演成員（Season10）
 
@@ -1658,20 +1620,15 @@ Season10
   - 山口大介（2） - [道志村](https://zh.wikipedia.org/wiki/道志村 "wikilink") 流烏冬師傅
   - 出羽ひろみ（2） - 道志村 みなもと体験館 製作烏冬指導員
   - 森田信幸(5) - 蕃茄名人
-  - 松尾牧則(6 - 7) -
-    [国際武道大学](https://zh.wikipedia.org/wiki/国際武道大学 "wikilink")[弓道部監督](https://zh.wikipedia.org/wiki/日本弓道 "wikilink")(弓道六段)
+  - 松尾牧則(6 - 7) - [国際武道大学](https://zh.wikipedia.org/wiki/国際武道大学 "wikilink")[弓道部監督](https://zh.wikipedia.org/wiki/日本弓道 "wikilink")(弓道六段)
   - 国際武道大学女子弓道部員(6 - 7)
-  - 国府田一吉（8） -
-    [日本大学三島高等学校網球部顧問](https://zh.wikipedia.org/wiki/日本大学三島高等学校・中学校 "wikilink")
-  - 坂本正秀（8） -
-    [日本網球協会公認S級精英教練](https://zh.wikipedia.org/wiki/日本網球協会 "wikilink")
+  - 国府田一吉（8） - [日本大学三島高等学校網球部顧問](https://zh.wikipedia.org/wiki/日本大学三島高等学校・中学校 "wikilink")
+  - 坂本正秀（8） - [日本網球協会公認S級精英教練](https://zh.wikipedia.org/wiki/日本網球協会 "wikilink")
   - 佐野允美（8） - 日本大学三島高等学校網球部元部員（島田晴香的同期）
   - 勝間田夏帆（8） - 日本大学三島高等学校テニス部員（島田的2年後輩）
-  - 保坂明美（8） -
-    網球雜誌スマッシュ（[日本體育企画出版社](https://zh.wikipedia.org/wiki/日本體育企画出版社 "wikilink")）編集長
+  - 保坂明美（8） - 網球雜誌スマッシュ（[日本體育企画出版社](https://zh.wikipedia.org/wiki/日本體育企画出版社 "wikilink")）編集長
   - 小谷真由美（9）- 天星高爾夫俱樂部所属キャディ
-  - 高原謙慈(10) -
-    [木下大サーカス](https://zh.wikipedia.org/wiki/木下大サーカス "wikilink")・空中飛人歴18年
+  - 高原謙慈(10) - [木下大サーカス](https://zh.wikipedia.org/wiki/木下大サーカス "wikilink")・空中飛人歴18年
   - グレッグ(10) - 木下大サーカス・小丑歴12年
   - ジェシー(10) - 木下大サーカス・小丑歴8年
 
@@ -1810,27 +1767,18 @@ Season11
 
 **嘉賓**
 
-  - [石破茂](../Page/石破茂.md "wikilink") （1） -
-    [自由民主黨](https://zh.wikipedia.org/wiki/自由民主黨_\(日本\) "wikilink")[秘書長](https://zh.wikipedia.org/wiki/秘書長 "wikilink")
+  - [石破茂](../Page/石破茂.md "wikilink") （1） - [自由民主黨](https://zh.wikipedia.org/wiki/自由民主黨_\(日本\) "wikilink")[秘書長](https://zh.wikipedia.org/wiki/秘書長 "wikilink")
   - 坂本正秀（2） - 日本テニス協会公認S級エリートコーチ
-  - 門間健一（3 - 4） -
-    [中央大学](../Page/中央大學_\(日本\).md "wikilink")[射撃部監督](https://zh.wikipedia.org/wiki/射擊 "wikilink")
+  - 門間健一（3 - 4） - [中央大学](../Page/中央大學_\(日本\).md "wikilink")[射撃部監督](https://zh.wikipedia.org/wiki/射擊 "wikilink")
   - 小泉茉優（3 - 4） - 中央大学射撃部3年
-  - 進藤美樹（3 - 4） -
-    中央大学射撃部4年･[隊長](https://zh.wikipedia.org/wiki/主將 "wikilink")
-  - 奥山文弥（6 - 7） -
-    [東京海洋大学](https://zh.wikipedia.org/wiki/東京海洋大学 "wikilink")[訪問學人](https://zh.wikipedia.org/wiki/訪問學人 "wikilink")･[釣魚](https://zh.wikipedia.org/wiki/釣魚 "wikilink")[記者](../Page/記者.md "wikilink")
-  - 石井 勝夫（7） -
-    [定置網](https://zh.wikipedia.org/wiki/定置網 "wikilink")[漁夫](https://zh.wikipedia.org/wiki/漁夫 "wikilink")（静岡県戸又漁港）
-  - リッテル・ディアス（8） -
-    在日[巴拿馬](https://zh.wikipedia.org/wiki/巴拿馬 "wikilink")[大使館経済](https://zh.wikipedia.org/wiki/大使館 "wikilink")[参事官](https://zh.wikipedia.org/wiki/参事官 "wikilink")
-  - ホルヘ・コスマス・シファキ（8） -
-    巴拿馬共和国[大使](https://zh.wikipedia.org/wiki/大使 "wikilink")
-  - 武永実花（8） -
-    [騷沙音樂](../Page/騷沙音樂.md "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")
+  - 進藤美樹（3 - 4） - 中央大学射撃部4年･[隊長](https://zh.wikipedia.org/wiki/主將 "wikilink")
+  - 奥山文弥（6 - 7） - [東京海洋大学](https://zh.wikipedia.org/wiki/東京海洋大学 "wikilink")[訪問學人](https://zh.wikipedia.org/wiki/訪問學人 "wikilink")･[釣魚](https://zh.wikipedia.org/wiki/釣魚 "wikilink")[記者](../Page/記者.md "wikilink")
+  - 石井 勝夫（7） - [定置網](https://zh.wikipedia.org/wiki/定置網 "wikilink")[漁夫](https://zh.wikipedia.org/wiki/漁夫 "wikilink")（静岡県戸又漁港）
+  - リッテル・ディアス（8） - 在日[巴拿馬](https://zh.wikipedia.org/wiki/巴拿馬 "wikilink")[大使館経済](https://zh.wikipedia.org/wiki/大使館 "wikilink")[参事官](https://zh.wikipedia.org/wiki/参事官 "wikilink")
+  - ホルヘ・コスマス・シファキ（8） - 巴拿馬共和国[大使](https://zh.wikipedia.org/wiki/大使 "wikilink")
+  - 武永実花（8） - [騷沙音樂](../Page/騷沙音樂.md "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")
   - 中川武士（9） - AKB48ネ申テレビオフィシャルカメラマン
-  - [今井雅之](https://zh.wikipedia.org/wiki/今井雅之 "wikilink")（10 - 11） -
-    [演員](../Page/演員.md "wikilink")
+  - [今井雅之](https://zh.wikipedia.org/wiki/今井雅之 "wikilink")（10 - 11） - [演員](../Page/演員.md "wikilink")
 
 ### 播放日・企劃・出演成員（Season12）
 
@@ -1980,31 +1928,20 @@ Season12
 
 **嘉賓**
 
-  - [伊吉里岡田](https://zh.wikipedia.org/wiki/伊吉里岡田 "wikilink")（1 - 2） -
-    不眠耐久レースMC兼審判（[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")・[ものまねタレント](https://zh.wikipedia.org/wiki/ものまねタレント "wikilink")）
+  - [伊吉里岡田](https://zh.wikipedia.org/wiki/伊吉里岡田 "wikilink")（1 - 2） - 不眠耐久レースMC兼審判（[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")・[ものまねタレント](https://zh.wikipedia.org/wiki/ものまねタレント "wikilink")）
   - [戶賀崎智信](../Page/戶賀崎智信.md "wikilink")（3） - AKB48團體總支配人
-  - 管井秀憲（3、7） -
-    [ボイストレーニング講師](https://zh.wikipedia.org/wiki/ボイストレーニング "wikilink")
-  - [眞鍋かをり](https://zh.wikipedia.org/wiki/眞鍋かをり "wikilink")（4） -
-    [マルチタレント講師](https://zh.wikipedia.org/wiki/マルチタレント "wikilink")（マルチタレントで前[寫真偶像](../Page/寫真偶像.md "wikilink")）
-  - 中島淳博（5） -
-    ハイテクスポーツ塾[トレーナー](https://zh.wikipedia.org/wiki/インストラクター "wikilink")
-  - 實川欣伸（5 - 6） -
-    [富士山](../Page/富士山.md "wikilink")[登山ガイド](https://zh.wikipedia.org/wiki/登山家 "wikilink")\[7\]
-  - [西岡徳馬](https://zh.wikipedia.org/wiki/西岡徳馬 "wikilink")（8） -
-    役者コース講師（[演員](../Page/演員.md "wikilink")）
+  - 管井秀憲（3、7） - [ボイストレーニング講師](https://zh.wikipedia.org/wiki/ボイストレーニング "wikilink")
+  - [眞鍋かをり](https://zh.wikipedia.org/wiki/眞鍋かをり "wikilink")（4） - [マルチタレント講師](https://zh.wikipedia.org/wiki/マルチタレント "wikilink")（マルチタレントで前[寫真偶像](../Page/寫真偶像.md "wikilink")）
+  - 中島淳博（5） - ハイテクスポーツ塾[トレーナー](https://zh.wikipedia.org/wiki/インストラクター "wikilink")
+  - 實川欣伸（5 - 6） - [富士山](../Page/富士山.md "wikilink")[登山ガイド](https://zh.wikipedia.org/wiki/登山家 "wikilink")\[7\]
+  - [西岡徳馬](https://zh.wikipedia.org/wiki/西岡徳馬 "wikilink")（8） - 役者コース講師（[演員](../Page/演員.md "wikilink")）
   - 坂本正秀（9） - 日本テニス協会公認S級エリートコーチ\[8\]
   - 加藤季温（9） - 2007年全日本テニス選手権混合ダブルス優勝
-  - 川畑奈桜子（9） - 2011年東京都春季小学生テニス大会4年生以下の部・優勝、グリーンカップ埼玉オープンサマージュニア2013
-    12歳以下女子シングルス・優勝
-  - [宇野常寛](https://zh.wikipedia.org/wiki/宇野常寛 "wikilink")（10） -
-    アイドル論講師（[評論家](../Page/評論家.md "wikilink")、企画ユニット「第二次惑星開発委員会」主宰）
-  - [濱野智史](https://zh.wikipedia.org/wiki/濱野智史 "wikilink")（10） -
-    アイドル論講師（[社会学者](https://zh.wikipedia.org/wiki/社会学者 "wikilink")・[批評家](https://zh.wikipedia.org/wiki/批評家 "wikilink")）
-  - [南部虎弾](https://zh.wikipedia.org/wiki/南部虎弾 "wikilink")（10） -
-    MC論講師（[コメディアン](https://zh.wikipedia.org/wiki/コメディアン "wikilink")・パフォーマー、[パフォーマンス集団](https://zh.wikipedia.org/wiki/パフォーマンス "wikilink")・[電撃ネットワークの一員](https://zh.wikipedia.org/wiki/電撃ネットワーク "wikilink")）
-  - [ダンナ小柳](https://zh.wikipedia.org/wiki/ダンナ小柳 "wikilink")（10） -
-    MC論講師（パフォーマー、パフォーマンス集団・電撃ネットワークの一員）
+  - 川畑奈桜子（9） - 2011年東京都春季小学生テニス大会4年生以下の部・優勝、グリーンカップ埼玉オープンサマージュニア2013 12歳以下女子シングルス・優勝
+  - [宇野常寛](https://zh.wikipedia.org/wiki/宇野常寛 "wikilink")（10） - アイドル論講師（[評論家](../Page/評論家.md "wikilink")、企画ユニット「第二次惑星開発委員会」主宰）
+  - [濱野智史](https://zh.wikipedia.org/wiki/濱野智史 "wikilink")（10） - アイドル論講師（[社会学者](https://zh.wikipedia.org/wiki/社会学者 "wikilink")・[批評家](https://zh.wikipedia.org/wiki/批評家 "wikilink")）
+  - [南部虎弾](https://zh.wikipedia.org/wiki/南部虎弾 "wikilink")（10） - MC論講師（[コメディアン](https://zh.wikipedia.org/wiki/コメディアン "wikilink")・パフォーマー、[パフォーマンス集団](https://zh.wikipedia.org/wiki/パフォーマンス "wikilink")・[電撃ネットワークの一員](https://zh.wikipedia.org/wiki/電撃ネットワーク "wikilink")）
+  - [ダンナ小柳](https://zh.wikipedia.org/wiki/ダンナ小柳 "wikilink")（10） - MC論講師（パフォーマー、パフォーマンス集団・電撃ネットワークの一員）
   - NATSUKA（11） - ダンスレッスン講師（AKB48振り付け担当）
 
 ### 播放日・企劃・出演成員（Season13）
@@ -2155,26 +2092,19 @@ Season13
 ### 出演者（Season14）
 
   - AKB48（[\#播出日期・企劃・出演成員（Season14）参照](https://zh.wikipedia.org/wiki/#播出日期・企劃・出演成員（Season14） "wikilink")）
-  - SKE48:[松井玲奈](../Page/松井玲奈.md "wikilink")（3、6）、[大矢真那](../Page/大矢真那.md "wikilink")（4、6）、[木崎ゆりあ](https://zh.wikipedia.org/wiki/木崎ゆりあ "wikilink")（4、6）、[木本花音](../Page/木本花音.md "wikilink")（4、6）、柴田阿弥（4、6）、古川愛李（4、6）、古畑奈和（AKB48
-    Team
-    K兼任）（4、6）、[須田亞香里](../Page/須田亞香里.md "wikilink")（5、6）、北川綾巴（5、6）、[高柳明音](../Page/高柳明音.md "wikilink")（6）
-  - [NMB48](../Page/NMB48.md "wikilink")\[16\]:[山本彩](../Page/山本彩.md "wikilink")（3、6）、[矢倉楓子](../Page/矢倉楓子.md "wikilink")（AKB48
-    Team A兼任）（4、6）、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")（AKB48 Team
-    B兼任）（4、6）、渋谷凪咲（5、6）
+  - SKE48:[松井玲奈](../Page/松井玲奈.md "wikilink")（3、6）、[大矢真那](../Page/大矢真那.md "wikilink")（4、6）、[木崎ゆりあ](https://zh.wikipedia.org/wiki/木崎ゆりあ "wikilink")（4、6）、[木本花音](../Page/木本花音.md "wikilink")（4、6）、柴田阿弥（4、6）、古川愛李（4、6）、古畑奈和（AKB48 Team K兼任）（4、6）、[須田亞香里](../Page/須田亞香里.md "wikilink")（5、6）、北川綾巴（5、6）、[高柳明音](../Page/高柳明音.md "wikilink")（6）
+  - [NMB48](../Page/NMB48.md "wikilink")\[16\]:[山本彩](../Page/山本彩.md "wikilink")（3、6）、[矢倉楓子](../Page/矢倉楓子.md "wikilink")（AKB48 Team A兼任）（4、6）、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")（AKB48 Team B兼任）（4、6）、渋谷凪咲（5、6）
   - おぎやはぎ - 惡整傳道士
       - 小木博明
   - 小林清志 - 旁白
 
 **嘉賓**
 
-  - 鳥居繁（1 - 2） -
-    [神田明神](../Page/神田明神.md "wikilink")[神職](https://zh.wikipedia.org/wiki/神職 "wikilink")
+  - 鳥居繁（1 - 2） - [神田明神](../Page/神田明神.md "wikilink")[神職](https://zh.wikipedia.org/wiki/神職 "wikilink")
   - 赤間幸明（7） - 漁師（大家の友人の父）
   - 大家清恵（7 - 8） - 大家志津香の実母\[17\]第8回は電話での出演のみ</ref>
-  - 道家誠（7 - 8） -
-    島田晴香の実家旅館の[板長](https://zh.wikipedia.org/wiki/板前 "wikilink")\[18\]
-  - [辻よしなり](https://zh.wikipedia.org/wiki/辻よしなり "wikilink")（7 - 8） -
-    料理対決実況&ナレーター
+  - 道家誠（7 - 8） - 島田晴香の実家旅館の[板長](https://zh.wikipedia.org/wiki/板前 "wikilink")\[18\]
+  - [辻よしなり](https://zh.wikipedia.org/wiki/辻よしなり "wikilink")（7 - 8） - 料理対決実況&ナレーター
   - [来栖けい](https://zh.wikipedia.org/wiki/来栖けい "wikilink")（7 - 8） - 美食評論家
   - 金子エミ（9 - 11） - 手タレモデル
 
@@ -2367,33 +2297,25 @@ AKB48组合联合军<br />
 
 **嘉賓**
 
-  - [AIKO](http://profile.ameba.jp/esnail/)（1 ・ 2） -
-    ネイル指導（[esネイルグループ](http://es-nail.jp/)統括プロデューサー）
+  - [AIKO](http://profile.ameba.jp/esnail/)（1 ・ 2） - ネイル指導（[esネイルグループ](http://es-nail.jp/)統括プロデューサー）
   - 街頭スカウトの一般ネイルモデル3名\[25\]（1）
-  - [伊吉里岡田](https://zh.wikipedia.org/wiki/伊吉里岡田 "wikilink")（3 - 5） -
-    ドラフト生キャンプ特別コーチ（お笑いタレント・ものまねタレント）
+  - [伊吉里岡田](https://zh.wikipedia.org/wiki/伊吉里岡田 "wikilink")（3 - 5） - ドラフト生キャンプ特別コーチ（お笑いタレント・ものまねタレント）
   - 皆川珈琲（5） - コーヒー豆専門店（街歩きロケ番組を想定した祖師ヶ谷商店街レポートシミュレーションで訪問）
   - 八百萬（5） - 街歩きロケ番組を想定した祖師ヶ谷商店街レポートシミュレーションで訪問
-  - オレンジカウンティ（5） - クレープ屋（街歩きロケ番組を想定したULTORA NORTH
-    STREETにてレポートシミュレーションで訪問）
+  - オレンジカウンティ（5） - クレープ屋（街歩きロケ番組を想定したULTORA NORTH STREETにてレポートシミュレーションで訪問）
   - やまと家（5） - 甘味処（街歩きロケ番組を想定したULTORA NORTH STREETにてレポートシミュレーションで訪問）
   - 芳美園茶舗（5） - お茶専門店（街歩きロケ番組を想定したULTORA SOUTH STREETにてレポートシミュレーションで訪問）
   - 小島米店（5） - 米店（街歩きロケ番組を想定したULTORA SOUTH STREETにてレポートシミュレーションで訪問）
   - カフェ・メロディ（5） - 喫茶店（街歩きロケ番組を想定した祖師ヶ谷西通り商店街にてレポートシミュレーションで訪問）
-  - ミラーファミリー\[26\]（6、8） -
-    島田・高城の[ホームステイ先ホストファミリー](https://zh.wikipedia.org/wiki/ホームステイ "wikilink")
+  - ミラーファミリー\[26\]（6、8） - 島田・高城の[ホームステイ先ホストファミリー](https://zh.wikipedia.org/wiki/ホームステイ "wikilink")
   - タイケンコファミリー\[27\]（6 ・ 7） - 鈴木ま・藤江・山内のホームステイ先ホストファミリー
   - ジョー・ビラトラ（6） - 島田・高城のホストファミリーの娘が通うサーフィンスクール「オンワードウォーターパーク」インストラクター
   - ヒデミ・ビラトラ（6） - 島田・高城のホストファミリーの娘が通うサーフィンスクール「オンワードウォーターパーク」インストラクター
-  - アシュリー・ポリカストロ（6） -
-    島田・高城のホストファミリーの娘が通うサーフィンスクール「オンワードウォーターパーク」インストラクター
-  - ナタリア・チャーグラフ（8） -
-    [グアム大学大学生](https://zh.wikipedia.org/wiki/グアム大学 "wikilink")
-  - [岩本輝雄](../Page/岩本輝雄.md "wikilink")（9、10） -
-    元[サッカー日本代表](https://zh.wikipedia.org/wiki/サッカー日本代表 "wikilink")
+  - アシュリー・ポリカストロ（6） - 島田・高城のホストファミリーの娘が通うサーフィンスクール「オンワードウォーターパーク」インストラクター
+  - ナタリア・チャーグラフ（8） - [グアム大学大学生](https://zh.wikipedia.org/wiki/グアム大学 "wikilink")
+  - [岩本輝雄](../Page/岩本輝雄.md "wikilink")（9、10） - 元[サッカー日本代表](https://zh.wikipedia.org/wiki/サッカー日本代表 "wikilink")
   - 吉田直人（11） - [日本気象協会](https://zh.wikipedia.org/wiki/日本気象協会 "wikilink")
-  - 斉藤愛子（11） -
-    [気象予報士](https://zh.wikipedia.org/wiki/気象予報士 "wikilink")・お天気キャスター
+  - 斉藤愛子（11） - [気象予報士](https://zh.wikipedia.org/wiki/気象予報士 "wikilink")・お天気キャスター
   - 飯沼孝（11） - 気象予報士
 
 ### 播放日・企劃・出演成員（Season15）
@@ -2529,8 +2451,7 @@ Season15
   - AKB48（[\#播出日期・企劃・出演成員（Season16）参照](https://zh.wikipedia.org/wiki/#播出日期・企劃・出演成員（Season16） "wikilink")）
   - おぎやはぎ - 惡整傳道士
       - 小木博明（1 - 8、11）
-  - [伊吉里岡田](https://zh.wikipedia.org/wiki/伊吉里岡田 "wikilink")（1、6、7） -
-    「オレの嫁選手権\!」MC（お笑いタレント・ものまねタレント）
+  - [伊吉里岡田](https://zh.wikipedia.org/wiki/伊吉里岡田 "wikilink")（1、6、7） - 「オレの嫁選手権\!」MC（お笑いタレント・ものまねタレント）
   - 小林清志 - 旁白
 
 **嘉賓**
@@ -2538,19 +2459,15 @@ Season15
   - 橋本賢司（1） - 「オレの嫁選手権\!」アイロン掛け編 審査員（クリーニングふたば）
   - 茅野しのぶ（2、4） - AKB48グループ総支配人
   - 管井秀憲（2 - 4） - ボイストレーニング講師
-  - [牧野アンナ](https://zh.wikipedia.org/wiki/牧野アンナ "wikilink")（2 - 4） -
-    ダンスレッスン講師（AKB48振り付け担当）
-  - [三ツ矢雄二](https://zh.wikipedia.org/wiki/三ツ矢雄二 "wikilink")（4） -
-    MCレッスン講師
+  - [牧野アンナ](https://zh.wikipedia.org/wiki/牧野アンナ "wikilink")（2 - 4） - ダンスレッスン講師（AKB48振り付け担当）
+  - [三ツ矢雄二](https://zh.wikipedia.org/wiki/三ツ矢雄二 "wikilink")（4） - MCレッスン講師
   - 湯浅洋（4） - AKB48劇場支配人
   - 家間玲奈（5、8、11） - ダーツ専属コーチ（チームA）
   - 星野理絵（5、8、11） - ダーツ専属コーチ（チームK）
   - 檜山亜紗子（5、8、11） - ダーツ専属コーチ（チームB）
   - 降矢薫（5、8、11） - ダーツ専属コーチ（チーム4）
-  - 西原芙美香（6、7） - 「オレの嫁選手権\!」華道編 審査員（[華道家元](../Page/華道.md "wikilink")
-    池坊広島支部長）
-  - 今村逸夫（9、10） -
-    今村鉄砲店店主（[クレー射撃講師](https://zh.wikipedia.org/wiki/クレー射撃 "wikilink")）
+  - 西原芙美香（6、7） - 「オレの嫁選手権\!」華道編 審査員（[華道](../Page/華道.md "wikilink")家元 池坊広島支部長）
+  - 今村逸夫（9、10） - 今村鉄砲店店主（[クレー射撃講師](https://zh.wikipedia.org/wiki/クレー射撃 "wikilink")）
   - 布施悟（10） - 神奈川大井射撃場 指導員
   - 柿崎耀（11） - ダーツU-22日本チャンピオン（22歳）
   - 佐藤穣（11） - ダーツU-22日本チャンピオン（18歳）
@@ -2720,8 +2637,7 @@ Season16
   - AKB48（[\#放送日・企画・出演メンバー（Season17）参照](https://zh.wikipedia.org/wiki/#放送日・企画・出演メンバー（Season17） "wikilink")）
   - おぎやはぎ - ムチャぶり伝道師
       - 小木博明
-  - [伊吉里岡田](https://zh.wikipedia.org/wiki/伊吉里岡田 "wikilink")（1 - 8、10 -
-    番外編5） - 「オレの嫁選手権\!」MC、LINEスタンプ決定戦\!「運」、「愛」見届け人（お笑いタレント・ものまねタレント）
+  - [伊吉里岡田](https://zh.wikipedia.org/wiki/伊吉里岡田 "wikilink")（1 - 8、10 - 番外編5） - 「オレの嫁選手権\!」MC、LINEスタンプ決定戦\!「運」、「愛」見届け人（お笑いタレント・ものまねタレント）
   - 小林清志 - 旁白
 
 **ゲスト**
@@ -3002,8 +2918,7 @@ Season17
   - AKB48（請参照[\#播出日期・企劃・出演成員（SP版）](https://zh.wikipedia.org/wiki/#播出日期・企劃・出演成員（SP版） "wikilink")）
   - SKE48（請参照[\#播出日期・企劃・出演成員（SP版）](https://zh.wikipedia.org/wiki/#播出日期・企劃・出演成員（SP版） "wikilink")）
   - 有吉弘行（1-3） - 惡整傳道士
-  - [野呂佳代](../Page/野呂佳代.md "wikilink")（[SDN48](../Page/SDN48.md "wikilink")）（4）
-    - 天之聲擔當
+  - [野呂佳代](../Page/野呂佳代.md "wikilink")（[SDN48](../Page/SDN48.md "wikilink")）（4） - 天之聲擔當
   - おぎやはぎ - 惡整傳道士
       - 小木博明（5-13）
       - 矢作兼（番外編）
@@ -3011,8 +2926,7 @@ Season17
 
 **嘉賓**
 
-  - 遠藤ともい（1） -
-    [水上温泉](https://zh.wikipedia.org/wiki/水上温泉 "wikilink")「水上館」[女将](https://zh.wikipedia.org/wiki/女将 "wikilink")
+  - 遠藤ともい（1） - [水上温泉](https://zh.wikipedia.org/wiki/水上温泉 "wikilink")「水上館」[女将](https://zh.wikipedia.org/wiki/女将 "wikilink")
   - 島田智子（1） - 水上芸妓屋組合 師匠
   - トニー・フライ（2、5、12） - オーストラリア、ニュージーランド現地ガイド
   - 今野力（3） - 雪像・アイスキャンドル製作インストラクター
@@ -3027,10 +2941,8 @@ Season17
   - [名和秋](https://zh.wikipedia.org/wiki/名和秋 "wikilink")（4） - プロボウラー
   - 長谷川真実（4） - プロボウラー
   - [矢島純一](https://zh.wikipedia.org/wiki/矢島純一 "wikilink")（4） - プロボウラー
-  - ケイト・デコニング（5） -
-    テリトリー・ワイルドライフ・パーク（[ダーウィン](https://zh.wikipedia.org/wiki/ダーウィン_\(ノーザンテリトリー\) "wikilink")）ツアーガイド
-  - ジャネット・ロングナカマラ（5） -
-    [アボリジナルアートアーティスト](https://zh.wikipedia.org/wiki/アボリジニ#美術 "wikilink")
+  - ケイト・デコニング（5） - テリトリー・ワイルドライフ・パーク（[ダーウィン](https://zh.wikipedia.org/wiki/ダーウィン_\(ノーザンテリトリー\) "wikilink")）ツアーガイド
+  - ジャネット・ロングナカマラ（5） - [アボリジナルアートアーティスト](https://zh.wikipedia.org/wiki/アボリジニ#美術 "wikilink")
   - デス・ジェラート - （5） - ダーウィン・ビアカン・レガッタ代表責任者
   - テイト・チャンバース -　（5） - クロコディラスパーク ツアーガイド
   - リサ・トマソン -　（5） - フライトパス・ゴルフ&アーチェリー インストラクター
@@ -3039,21 +2951,16 @@ Season17
   - 杉本勝子（6） - プロボウラー
   - 坂本正秀（6） - 日本テニス協会公認S級エリートコーチ
   - ウォルター（7） - 香港現地ガイド（前田敦子推し）
-  - 青柳重人（10） -
-    [バラマンディフィッシングガイド](https://zh.wikipedia.org/wiki/バラマンディ "wikilink")
-  - アンディ･フィネリ（10） -
-    [ユリシスマスター](https://zh.wikipedia.org/wiki/オオルリアゲハ "wikilink")
-  - ピーター･ブラックバーン（10） -
-    ブルー[トパーズマスター](https://zh.wikipedia.org/wiki/トパーズ "wikilink")
+  - 青柳重人（10） - [バラマンディフィッシングガイド](https://zh.wikipedia.org/wiki/バラマンディ "wikilink")
+  - アンディ･フィネリ（10） - [ユリシスマスター](https://zh.wikipedia.org/wiki/オオルリアゲハ "wikilink")
+  - ピーター･ブラックバーン（10） - ブルー[トパーズマスター](https://zh.wikipedia.org/wiki/トパーズ "wikilink")
   - マーク・ヒグビー（10） - 宝石店主人
   - ジョン・クラーク（12） - 羊牧場オーナー
   - ジョル・ジョインズ（12） - パイロット
-  - ティペネ・ウィルソン（12） -
-    [マオリ族長老](https://zh.wikipedia.org/wiki/マオリ族 "wikilink")
+  - ティペネ・ウィルソン（12） - [マオリ族長老](https://zh.wikipedia.org/wiki/マオリ族 "wikilink")
   - ラッセル・ホグソン（12） - 洞窟ガイド
   - エイミー・ウェンスタイン（13） - ”Students Live”主宰/舞台演出\[30\]
-  - マイケル・バクスター（13） - ”Students
-    Live”[ダンス講師](https://zh.wikipedia.org/wiki/振付師 "wikilink")
+  - マイケル・バクスター（13） - ”Students Live”[ダンス講師](https://zh.wikipedia.org/wiki/振付師 "wikilink")
   - マイケル・サントニア（13） - ”Students Live”ボーカル講師
 
 ### 播出日期・企劃・出演成員（SP版）
@@ -3397,12 +3304,11 @@ KII</small></p></td>
 
 ## 海外播放
 
-台灣的[國興衛視曾在](../Page/國興衛視.md "wikilink")2012年至2013年間播映過《AKB48神TV》的前六季，播映時使用的節目名稱為「AKB48神TV大挑戰」。之後[靖天傳播購得播映權](../Page/靖天傳播.md "wikilink")，自2013年2月9日起在[中華電信MOD](../Page/中華電信MOD.md "wikilink")[靖天日本台播放](https://zh.wikipedia.org/wiki/靖天日本台 "wikilink")。兩家電視台皆是採日語原音搭配中文字幕播出。
+台灣的[國興衛視](../Page/國興衛視.md "wikilink")曾在2012年至2013年間播映過《AKB48神TV》的前六季，播映時使用的節目名稱為「AKB48神TV大挑戰」。之後[靖天傳播](../Page/靖天傳播.md "wikilink")購得播映權，自2013年2月9日起在[中華電信MOD](../Page/中華電信MOD.md "wikilink")[靖天日本台播放](https://zh.wikipedia.org/wiki/靖天日本台 "wikilink")。兩家電視台皆是採日語原音搭配中文字幕播出。
 
 ## 相關條目
 
-  - [有吉AKB共和国](https://zh.wikipedia.org/wiki/有吉AKB共和国 "wikilink") -
-    2010年4月起在[TBS電視台播出的同内容节目](../Page/TBS電視台.md "wikilink")。
+  - [有吉AKB共和国](https://zh.wikipedia.org/wiki/有吉AKB共和国 "wikilink") - 2010年4月起在[TBS電視台](../Page/TBS電視台.md "wikilink")播出的同内容节目。
   - [網路語言](https://zh.wikipedia.org/wiki/網路語言 "wikilink")
 
 ## 備註
@@ -3434,8 +3340,7 @@ KII</small></p></td>
   -
 ## 節目的變遷
 
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
-[Category:國興衛視電視節目](https://zh.wikipedia.org/wiki/Category:國興衛視電視節目 "wikilink")
+[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:國興衛視電視節目](https://zh.wikipedia.org/wiki/Category:國興衛視電視節目 "wikilink")
 
 1.  联谊对象为春日俊彰等5位谐星。
 

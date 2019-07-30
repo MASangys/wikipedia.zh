@@ -1,5 +1,4 @@
-**韩国Olleh
-KT杯公开冠军赛**，是[韩国棋院举办最大的一项韩国国内](https://zh.wikipedia.org/wiki/韩国棋院 "wikilink")[围棋比赛](../Page/围棋.md "wikilink")。2010年开始KT杯改名OLLEH杯。\[1\]
+**韩国Olleh KT杯公开冠军赛**，是[韩国棋院举办最大的一项韩国国内](https://zh.wikipedia.org/wiki/韩国棋院 "wikilink")[围棋](../Page/围棋.md "wikilink")比赛。2010年开始KT杯改名OLLEH杯。\[1\]
 
 ## 奖金
 
@@ -27,8 +26,7 @@ KT杯公开冠军赛**，是[韩国棋院举办最大的一项韩国国内](http
 
 ## 定段积分
 
-根据韩国棋院规定，业余棋手参加Olleh
-KT杯取得一定成绩可以获得定段积分，定段积分标准为：4强5分，8强4分，16强3分，24强2分，48强1分。业余棋手获得的定段积分，只要达到5分即可定段，成为职业棋手。（按韩国棋院规定世界大赛定段积分标准为：8强5分，16强3分，32强2分，64强1分。）
+根据韩国棋院规定，业余棋手参加Olleh KT杯取得一定成绩可以获得定段积分，定段积分标准为：4强5分，8强4分，16强3分，24强2分，48强1分。业余棋手获得的定段积分，只要达到5分即可定段，成为职业棋手。（按韩国棋院规定世界大赛定段积分标准为：8强5分，16强3分，32强2分，64强1分。）
 
 ## 历届四强
 
@@ -44,8 +42,7 @@ KT杯取得一定成绩可以获得定段积分，定段积分标准为：4强5�
 ## 第一届
 
 **种子棋手**（排名由高到低）
-第一级（4人）： [李昌镐](https://zh.wikipedia.org/wiki/李昌镐 "wikilink")，
-李世石，崔哲瀚，[朴廷桓](../Page/朴廷桓.md "wikilink")。
+第一级（4人）： [李昌镐](https://zh.wikipedia.org/wiki/李昌镐 "wikilink")， 李世石，崔哲瀚，[朴廷桓](../Page/朴廷桓.md "wikilink")。
 第二级（12人）：[朴永训](../Page/朴永训.md "wikilink")，姜东润，[金志锡](https://zh.wikipedia.org/wiki/金志锡 "wikilink")，[赵汉乘](https://zh.wikipedia.org/wiki/赵汉乘 "wikilink")，[睦镇硕](../Page/睦镇硕.md "wikilink")，[许映皓](https://zh.wikipedia.org/wiki/许映皓 "wikilink")，尹畯相，[元晟溱](../Page/元晟溱.md "wikilink")，[安祚永](https://zh.wikipedia.org/wiki/安祚永 "wikilink")，[李映九](https://zh.wikipedia.org/wiki/李映九 "wikilink")，[安亨浚](https://zh.wikipedia.org/wiki/安亨浚 "wikilink")，[韩雄奎](https://zh.wikipedia.org/wiki/韩雄奎 "wikilink")。
 第三级（12人）：[白洪淅](https://zh.wikipedia.org/wiki/白洪淅 "wikilink")，[朴正祥](https://zh.wikipedia.org/wiki/朴正祥 "wikilink")，[洪性志](https://zh.wikipedia.org/wiki/洪性志 "wikilink")，[金昇宰](https://zh.wikipedia.org/wiki/金昇宰 "wikilink")，[姜儒泽](https://zh.wikipedia.org/wiki/姜儒泽 "wikilink")，[韩尚勳](https://zh.wikipedia.org/wiki/韩尚勳 "wikilink")，[曹薰铉](../Page/曹薰铉.md "wikilink")，[洪旼杓](https://zh.wikipedia.org/wiki/洪旼杓 "wikilink")，[李熙星](https://zh.wikipedia.org/wiki/李熙星 "wikilink")，[李元道](https://zh.wikipedia.org/wiki/李元道 "wikilink")，[金炯佑](https://zh.wikipedia.org/wiki/金炯佑 "wikilink")，[李春揆](https://zh.wikipedia.org/wiki/李春揆 "wikilink").
 第四级（24人）：[安成浚](https://zh.wikipedia.org/wiki/安成浚 "wikilink")，[宋泰坤](https://zh.wikipedia.org/wiki/宋泰坤 "wikilink")，[朴时烈](https://zh.wikipedia.org/wiki/朴时烈 "wikilink")，[尹灿熙](https://zh.wikipedia.org/wiki/尹灿熙 "wikilink")，[柳东完](https://zh.wikipedia.org/wiki/柳东完 "wikilink")，[高根台](https://zh.wikipedia.org/wiki/高根台 "wikilink")，[金主镐](https://zh.wikipedia.org/wiki/金主镐 "wikilink")，[刘昌赫](../Page/刘昌赫.md "wikilink")，[温昭珍](https://zh.wikipedia.org/wiki/温昭珍 "wikilink")，[金起用](https://zh.wikipedia.org/wiki/金起用 "wikilink")，[李泰贤](https://zh.wikipedia.org/wiki/李泰贤 "wikilink")，[朴承华](https://zh.wikipedia.org/wiki/朴承华 "wikilink")，[朴昇贤](https://zh.wikipedia.org/wiki/朴昇贤 "wikilink")，[崔明勳](https://zh.wikipedia.org/wiki/崔明勳 "wikilink")，[陈东奎](https://zh.wikipedia.org/wiki/陈东奎 "wikilink")，[金承俊](https://zh.wikipedia.org/wiki/金承俊 "wikilink")，[陈时暎](https://zh.wikipedia.org/wiki/陈时暎 "wikilink")，[李贤虎](https://zh.wikipedia.org/wiki/李贤虎 "wikilink")，[徐健佑](https://zh.wikipedia.org/wiki/徐健佑 "wikilink")，[尹盛铉](https://zh.wikipedia.org/wiki/尹盛铉 "wikilink")，[崔原踊](https://zh.wikipedia.org/wiki/崔原踊 "wikilink")，[李廷宇](https://zh.wikipedia.org/wiki/李廷宇 "wikilink")，[全瑛圭](https://zh.wikipedia.org/wiki/全瑛圭 "wikilink")，[姜昌培](https://zh.wikipedia.org/wiki/姜昌培 "wikilink")。
@@ -62,10 +59,8 @@ KT杯取得一定成绩可以获得定段积分，定段积分标准为：4强5�
 
 ## 外部链接
 
-  - [Olleh
-    KT杯歷屆結果-韓國棋院官網](http://www.baduk.or.kr/info/gijun_view.asp?cmpt_tnmt_div=1&cmpt_code=6857)
-  - [韩国新兴赛事Olleh KT杯正式签约
-    业余棋手无界限_棋牌_体坛周报·体坛网](http://sports.titan24.com/qipai/2010-03-04/9925.html)
+  - [Olleh KT杯歷屆結果-韓國棋院官網](http://www.baduk.or.kr/info/gijun_view.asp?cmpt_tnmt_div=1&cmpt_code=6857)
+  - [韩国新兴赛事Olleh KT杯正式签约 业余棋手无界限_棋牌_体坛周报·体坛网](http://sports.titan24.com/qipai/2010-03-04/9925.html)
   - [韩国KT杯李世石展示暴力 3比1斩姜东润收获冠军_综合体育_新浪竞技风暴_新浪网](http://sports.sina.com.cn/go/2010-11-09/21535297327.shtml)
 
 ## 参考
@@ -74,5 +69,4 @@ KT杯取得一定成绩可以获得定段积分，定段积分标准为：4强5�
 
 [Category:韩国围棋比赛](https://zh.wikipedia.org/wiki/Category:韩国围棋比赛 "wikilink")
 
-1.  [BC信用卡杯完成历史使命
-    中韩均有望推出新的世界大赛](http://weiqi.sports.tom.com/2013-02-17/00UP/34330748.html)
+1.  [BC信用卡杯完成历史使命 中韩均有望推出新的世界大赛](http://weiqi.sports.tom.com/2013-02-17/00UP/34330748.html)

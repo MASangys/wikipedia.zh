@@ -19,8 +19,7 @@
   - 2002年時與鋼琴家[松本あすか組成團體](https://zh.wikipedia.org/wiki/松本あすか "wikilink")「しほりとあすか」，2004年解散。
   - 2002年至2003年期間，以《パパパパーンの歌》等廣告歌曲，展現了豐富的表現力與歌唱力，引起廣大話題。
   - 2006年9月2日，與[佐佐木俊之結婚](https://zh.wikipedia.org/wiki/佐佐木俊之 "wikilink")\[8\]。
-  - 2007年在網上電影《クレイドル～眠れぬ夜の子守唄～》擔任主題曲歌唱、作詞和作曲，標誌著女演員上的出道；而同年在由[SOUND
-    HOLIC的推出](../Page/SOUND_HOLIC.md "wikilink")[二次創作](../Page/二次創作.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[](http://www.sound-holic.com/_c73.html)》中，擔任角色配音，也標誌著[聲優](../Page/聲優.md "wikilink")上的出道。
+  - 2007年在網上電影《クレイドル～眠れぬ夜の子守唄～》擔任主題曲歌唱、作詞和作曲，標誌著女演員上的出道；而同年在由[SOUND HOLIC的推出](../Page/SOUND_HOLIC.md "wikilink")[二次創作](../Page/二次創作.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[](http://www.sound-holic.com/_c73.html)》中，擔任角色配音，也標誌著[聲優](../Page/聲優.md "wikilink")上的出道。
   - 2007年同時以瀨名(日文：瀬名)的藝名在[Lantis](../Page/Lantis.md "wikilink")作為主要登場，同時繼續使用Shihori的名義活動。
   - 2010年時，為紀念歌手出道10周年，於2月9日在[涉谷o](https://zh.wikipedia.org/wiki/涉谷 "wikilink")-west舉行[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")「[](https://archive.is/20130427215306/http://shihori.com/o-west/)」。
   - 2011年以瀨名名義的活動結束，統一使用Shihori作為音樂活動的藝名。
@@ -28,16 +27,11 @@
 
 ### 同人活動
 
-Shihori自06年起參加同人音樂組織[SOUND
-HOLIC](../Page/SOUND_HOLIC.md "wikilink")，該組織以製作[東方Project的二次改編音樂為主](https://zh.wikipedia.org/wiki/東方Project "wikilink")，Shihori在該組織內以「KAZE
-NO
-KIOKU」「平成河童大系」等歌曲在同人界中成名。直至08年為止參與過數次製作，期間認識了**ELEMENTAS**、**Yassie**等作詞、編曲家，三人決定組成另一同人音樂組織「A1」（其後更名為A-One），與SOUND
-HOLIC分開活動\[10\]。
+Shihori自06年起參加同人音樂組織[SOUND HOLIC](../Page/SOUND_HOLIC.md "wikilink")，該組織以製作[東方Project的二次改編音樂為主](https://zh.wikipedia.org/wiki/東方Project "wikilink")，Shihori在該組織內以「KAZE NO KIOKU」「平成河童大系」等歌曲在同人界中成名。直至08年為止參與過數次製作，期間認識了**ELEMENTAS**、**Yassie**等作詞、編曲家，三人決定組成另一同人音樂組織「A1」（其後更名為A-One），與SOUND HOLIC分開活動\[10\]。
 
 ## 參與作品
 
-  - 藤原妹紅 - [TOHO PROJECT SIDE STORY
-    星の記憶](https://zh.wikipedia.org/wiki/TOHO_PROJECT_SIDE_STORY_星の記憶 "wikilink")
+  - 藤原妹紅 - [TOHO PROJECT SIDE STORY 星の記憶](https://zh.wikipedia.org/wiki/TOHO_PROJECT_SIDE_STORY_星の記憶 "wikilink")
 
 ## 音樂作品
 
@@ -239,14 +233,12 @@ HOLIC分開活動\[10\]。
 
 ### 協助製作
 
-  - ユニバーサル・バニー（[シェリル・ノーム starring
-    May'n](https://zh.wikipedia.org/wiki/中林芽依 "wikilink")，2009年11月25日）
+  - ユニバーサル・バニー（[シェリル・ノーム starring May'n](https://zh.wikipedia.org/wiki/中林芽依 "wikilink")，2009年11月25日）
 
 <!-- end list -->
 
   -
-    01.ユニバーサル・バニー（[劇場版超時空要塞F劇中曲](https://zh.wikipedia.org/wiki/超時空要塞_Frontier "wikilink")）
-    - 作詞、和唱
+    01.ユニバーサル・バニー（[劇場版超時空要塞F劇中曲](https://zh.wikipedia.org/wiki/超時空要塞_Frontier "wikilink")） - 作詞、和唱
 
 #### 單曲
 
@@ -259,8 +251,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - [BRIGHT
-    STREAM](../Page/BRIGHT_STREAM.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")，2012年8月1日）
+  - [BRIGHT STREAM](../Page/BRIGHT_STREAM.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")，2012年8月1日）
 
 <!-- end list -->
 
@@ -269,8 +260,7 @@ HOLIC分開活動\[10\]。
 
 #### 專輯
 
-  - [ULTIMATE
-    DIAMOND](../Page/ULTIMATE_DIAMOND.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")，2009年6月3日）
+  - [ULTIMATE DIAMOND](../Page/ULTIMATE_DIAMOND.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")，2009年6月3日）
 
 <!-- end list -->
 
@@ -288,8 +278,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - Rouge
-    Adlescence（[ELISA](../Page/ELISA_\(歌手\).md "wikilink")，2010年1月20日）
+  - Rouge Adlescence（[ELISA](../Page/ELISA_\(歌手\).md "wikilink")，2010年1月20日）
 
 <!-- end list -->
 
@@ -298,9 +287,7 @@ HOLIC分開活動\[10\]。
 
 ### 同人作品
 
-  - SOUND HOLIC MEETS TOHO ～東方的幻想四撃蹴～（[SOUND
-    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2006年8月13日，[Comic
-    Market](../Page/Comic_Market.md "wikilink") 70）
+  - SOUND HOLIC MEETS TOHO ～東方的幻想四撃蹴～（[SOUND HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2006年8月13日，[Comic Market](../Page/Comic_Market.md "wikilink") 70）
 
 <!-- end list -->
 
@@ -310,8 +297,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - SOUND HOLIC MEETS TOHO ～東方的夢幻烈歌抄～（[SOUND
-    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2006年12月31日，C71）
+  - SOUND HOLIC MEETS TOHO ～東方的夢幻烈歌抄～（[SOUND HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2006年12月31日，C71）
 
 <!-- end list -->
 
@@ -324,8 +310,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - SOUND HOLIC MEETS TOHO ～東方的幽々舞踏劇～（[SOUND
-    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年4月29日，[M3](../Page/M3.md "wikilink")-2007春）
+  - SOUND HOLIC MEETS TOHO ～東方的幽々舞踏劇～（[SOUND HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年4月29日，[M3](../Page/M3.md "wikilink")-2007春）
 
 <!-- end list -->
 
@@ -334,8 +319,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - SOUND HOLIC MEETS TOHO ～東方的夢天的奏典～（[SOUND
-    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年5月20日，第4回[博麗神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博麗神社例大祭 "wikilink")）
+  - SOUND HOLIC MEETS TOHO ～東方的夢天的奏典～（[SOUND HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年5月20日，第4回[博麗神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博麗神社例大祭 "wikilink")）
 
 <!-- end list -->
 
@@ -344,8 +328,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - SOUND HOLIC MEETS TOHO ～東方的紅蓮烈火弾～（[SOUND
-    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年8月17日，C72）
+  - SOUND HOLIC MEETS TOHO ～東方的紅蓮烈火弾～（[SOUND HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年8月17日，C72）
 
 <!-- end list -->
 
@@ -355,8 +338,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - 風 -KAZE-（[SOUND
-    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年12月31日，C73）
+  - 風 -KAZE-（[SOUND HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年12月31日，C73）
 
 <!-- end list -->
 
@@ -366,9 +348,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - SWING HOLIC VOL.1（SWING HOLIC，2008年4月20日，[Sunshine
-    Creation](https://zh.wikipedia.org/wiki/Sunshine_Creation "wikilink")
-    39）
+  - SWING HOLIC VOL.1（SWING HOLIC，2008年4月20日，[Sunshine Creation](https://zh.wikipedia.org/wiki/Sunshine_Creation "wikilink") 39）
 
 <!-- end list -->
 
@@ -377,8 +357,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - 妖 -AYAKASHI-（[SOUND
-    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2008年5月25日，例大祭5）
+  - 妖 -AYAKASHI-（[SOUND HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2008年5月25日，例大祭5）
 
 <!-- end list -->
 
@@ -389,8 +368,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - 永 -TOKOSHIE-（[SOUND
-    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2008年8月16日，C74）
+  - 永 -TOKOSHIE-（[SOUND HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2008年8月16日，C74）
 
 <!-- end list -->
 
@@ -408,10 +386,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - KARMA
-    SCREEN（[A1](https://zh.wikipedia.org/wiki/A-One "wikilink")，2008年10月5日，[Sunshine
-    Creation](https://zh.wikipedia.org/wiki/Sunshine_Creation "wikilink")
-    41）
+  - KARMA SCREEN（[A1](https://zh.wikipedia.org/wiki/A-One "wikilink")，2008年10月5日，[Sunshine Creation](https://zh.wikipedia.org/wiki/Sunshine_Creation "wikilink") 41）
 
 <!-- end list -->
 
@@ -430,8 +405,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - POLYGON
-    RAIN（[A1](https://zh.wikipedia.org/wiki/A-One "wikilink")，2009年3月8日，例大祭6）
+  - POLYGON RAIN（[A1](https://zh.wikipedia.org/wiki/A-One "wikilink")，2009年3月8日，例大祭6）
 
 <!-- end list -->
 
@@ -450,8 +424,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - POD
-    JACK（[A-One](https://zh.wikipedia.org/wiki/A-One "wikilink")，2009年8月15日，C76）
+  - POD JACK（[A-One](https://zh.wikipedia.org/wiki/A-One "wikilink")，2009年8月15日，C76）
 
 <!-- end list -->
 
@@ -482,8 +455,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - 東方Starry-Eyed（[Silver
-    Forest](../Page/Silver_Forest.md "wikilink")，2009年12月30日，C77）
+  - 東方Starry-Eyed（[Silver Forest](../Page/Silver_Forest.md "wikilink")，2009年12月30日，C77）
 
 <!-- end list -->
 
@@ -530,19 +502,12 @@ HOLIC分開活動\[10\]。
 
 ## 外部連結
 
-  - [Shihori OFFICIAL WEBSITE ／ しほり
-    オフィシャルサイト](https://web.archive.org/web/20090814174055/http://shihori.com/index.html)（公式網頁）
+  - [Shihori OFFICIAL WEBSITE ／ しほり オフィシャルサイト](https://web.archive.org/web/20090814174055/http://shihori.com/index.html)（公式網頁）
   - [Shihori Lovely Days](http://shihorimessage.blog.shinobi.jp/)（個人網誌）
   - [A-One](http://www.a1-label.com/)
-  - [jp:瀬名
-    (シンガーソングライター)](http://ja.wikipedia.org/wiki/%E7%80%AC%E5%90%8D_\(%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC\))
+  - [jp:瀬名 (シンガーソングライター)](http://ja.wikipedia.org/wiki/%E7%80%AC%E5%90%8D_\(%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC\))
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink")
-[Category:東方Project二次創作者](https://zh.wikipedia.org/wiki/Category:東方Project二次創作者 "wikilink")
-[Category:愛知縣出身人物](https://zh.wikipedia.org/wiki/Category:愛知縣出身人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink") [Category:東方Project二次創作者](https://zh.wikipedia.org/wiki/Category:東方Project二次創作者 "wikilink") [Category:愛知縣出身人物](https://zh.wikipedia.org/wiki/Category:愛知縣出身人物 "wikilink")
 
 1.
 

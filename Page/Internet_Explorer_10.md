@@ -1,38 +1,20 @@
-[metro-ie10.png](https://zh.wikipedia.org/wiki/File:metro-ie10.png "fig:metro-ie10.png")界面）執行於[Windows
-8瀏覽](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[維基百科首頁](https://zh.wikipedia.org/wiki/維基百科 "wikilink")\]\]
+[metro-ie10.png](https://zh.wikipedia.org/wiki/File:metro-ie10.png "fig:metro-ie10.png")界面）執行於[Windows 8瀏覽](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[維基百科首頁](https://zh.wikipedia.org/wiki/維基百科 "wikilink")\]\]
 
-****（簡稱****）是[微軟開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，為[Internet
-Explorer 9的下一代](../Page/Internet_Explorer_9.md "wikilink")，也是[Windows
-8的預設瀏覽器](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。IE10在IE9的基础上增强[CSS3解析及硬件加速功能](https://zh.wikipedia.org/wiki/CSS3 "wikilink")\[1\]，并支持[HTML5](../Page/HTML5.md "wikilink")。
+****（簡稱****）是[微軟開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，為[Internet Explorer 9的下一代](../Page/Internet_Explorer_9.md "wikilink")，也是[Windows 8的預設瀏覽器](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。IE10在IE9的基础上增强[CSS3解析及硬件加速功能](https://zh.wikipedia.org/wiki/CSS3 "wikilink")\[1\]，并支持[HTML5](../Page/HTML5.md "wikilink")。
 
-在[Windows
-8中](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，其将分为两个不同的版本，并使用不同的[用户界面](../Page/用户界面.md "wikilink")：其中新的[Metro将不再支持](https://zh.wikipedia.org/wiki/Metro_UI "wikilink")[插件](https://zh.wikipedia.org/wiki/插件#网页浏览器插件 "wikilink")，而传统的桌面程序将仍然保留插件支持\[2\]。默认情况下，[64位元Windows](../Page/64位元.md "wikilink")
-8上的Metro IE 10将在64位元模式下运行\[3\]。
+在[Windows 8中](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，其将分为两个不同的版本，并使用不同的[用户界面](../Page/用户界面.md "wikilink")：其中新的[Metro将不再支持](https://zh.wikipedia.org/wiki/Metro_UI "wikilink")[插件](https://zh.wikipedia.org/wiki/插件#网页浏览器插件 "wikilink")，而传统的桌面程序将仍然保留插件支持\[2\]。默认情况下，[64位元](../Page/64位元.md "wikilink")Windows 8上的Metro IE 10将在64位元模式下运行\[3\]。
 
-在2011年4月12日，微软推出首个“IE10平台预览版”，并只能运行于[Windows
-7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")\[4\]\[5\]，而后续的预览版只能在[Windows
-8上运行](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。预览版在IE9正式版发布四周后就被釋出，因而有人认为这是在新一轮[浏览器大战下而采取高速发布周期](../Page/浏览器大战.md "wikilink")\[6\]。
+在2011年4月12日，微软推出首个“IE10平台预览版”，并只能运行于[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")\[4\]\[5\]，而后续的预览版只能在[Windows 8上运行](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。预览版在IE9正式版发布四周后就被釋出，因而有人认为这是在新一轮[浏览器大战](../Page/浏览器大战.md "wikilink")下而采取高速发布周期\[6\]。
 
 2020年1月将停止支持，不再提供任何安全更新\[7\]。
 
 ## 历史
 
-Internet Explorer
-10最早公布于2011年4月12日[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[拉斯维加斯的MIX](../Page/拉斯维加斯.md "wikilink")11发布会上\[8\]。在这场发布会上，微软展示演示版的IE
-10和演示版的Windows 8\[9\]。而在同一天，微软在Internet Explorer Test Drive网站上发布Internet
-Exploere 10的平台预览版\[10\]。当时的预览版只支持Windows 7，而后来的预览版则只能在Windows
-8上运行。测试版和候选发布版则都可以支持Windows 7\[11\]。
+Internet Explorer 10最早公布于2011年4月12日[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")的MIX11发布会上\[8\]。在这场发布会上，微软展示演示版的IE 10和演示版的Windows 8\[9\]。而在同一天，微软在Internet Explorer Test Drive网站上发布Internet Exploere 10的平台预览版\[10\]。当时的预览版只支持Windows 7，而后来的预览版则只能在Windows 8上运行。测试版和候选发布版则都可以支持Windows 7\[11\]。
 
-评论者对Internet Explorer 10平台预览版发布的看法各有不同；然而他们指出，继IE
-9后很快发布（29天后）的预览版将是微软所说的下一代浏览器。当eWeek的唐·赖辛格（Don
-Reisinger）列出他对下一版本的功能请求时，PC Magzine的邁克爾·馬奇摩爾（Michael
-Muchmore）测试平台预览版1在加载微软及第三方套件时的性能及对HTML5的支持情况\[12\]\[13\]。
+评论者对Internet Explorer 10平台预览版发布的看法各有不同；然而他们指出，继IE 9后很快发布（29天后）的预览版将是微软所说的下一代浏览器。当eWeek的唐·赖辛格（Don Reisinger）列出他对下一版本的功能请求时，PC Magzine的邁克爾·馬奇摩爾（Michael Muchmore）测试平台预览版1在加载微软及第三方套件时的性能及对HTML5的支持情况\[12\]\[13\]。
 
-在2011年9月13日，微软为普通用户发布Windows 8开发者预览版，其中就包含Internet Explorer
-10开发者预览版（首个完整版的IE10）\[14\]。虽然在[Mozilla
-Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")、[Google
-Chrome](../Page/Google_Chrome.md "wikilink")、[Opera和](https://zh.wikipedia.org/wiki/Opera "wikilink")[Safari这几个主要浏览器](../Page/Safari.md "wikilink")，IE是最后支持拼写检查的，但它却开创桌面浏览器[自動校正的先例](https://zh.wikipedia.org/wiki/自動校正 "wikilink")\[15\]\[16\]\[17\]\[18\]。[Firefox的开发组织Mozilla如同微软IE开发团队以前所做的](../Page/Firefox.md "wikilink")，在IE10随Windows
-8一同发布时向其赠送蛋糕祝贺。\[19\]
+在2011年9月13日，微软为普通用户发布Windows 8开发者预览版，其中就包含Internet Explorer 10开发者预览版（首个完整版的IE10）\[14\]。虽然在[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")、[Google Chrome](../Page/Google_Chrome.md "wikilink")、[Opera和](https://zh.wikipedia.org/wiki/Opera "wikilink")[Safari](../Page/Safari.md "wikilink")这几个主要浏览器，IE是最后支持拼写检查的，但它却开创桌面浏览器[自動校正的先例](https://zh.wikipedia.org/wiki/自動校正 "wikilink")\[15\]\[16\]\[17\]\[18\]。[Firefox](../Page/Firefox.md "wikilink")的开发组织Mozilla如同微软IE开发团队以前所做的，在IE10随Windows 8一同发布时向其赠送蛋糕祝贺。\[19\]
 
 ### 版本历史
 
@@ -56,17 +38,14 @@ Internet Explorer 10不再以如下特性为特征或支持如下特性\[24\]：
   - 元素行为和HTML组件（HTCs）
   - XML数据岛
   - [VML语言](../Page/VML语言.md "wikilink")
-  - 內容警告器（被Windows Parental
-    Controls和[微軟家長監護服務取代](../Page/微軟家長監護服務.md "wikilink")）
+  - 內容警告器（被Windows Parental Controls和[微軟家長監護服務](../Page/微軟家長監護服務.md "wikilink")取代）
 
 ## 用户代理字符串
 
-Internet Explorer
-10拥有新的具有下列特性的[用户代理字符串](../Page/用户代理.md "wikilink")\[25\]：
+Internet Explorer 10拥有新的具有下列特性的[用户代理](../Page/用户代理.md "wikilink")字符串\[25\]：
 
   -
-    ` Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2;
-     `*`[platform``   ``token]`*`  Trident/6.0; Touch) `
+    ` Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2;  `*`[platform``   ``token]`*`  Trident/6.0; Touch) `
 
 这个字符串的不同部分会随着系统信息而改变。最后一个标记「Touch」只能出现于配备[触摸屏的设备](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")。操作平台标记如下：
 
@@ -85,22 +64,14 @@ Internet Explorer
 
   - [官方網站](https://web.archive.org/web/20111004232651/http://ie.microsoft.com/testdrive/)
   - \[//ie.microsoft.com/testdrive/ Internet Explorer Test Drive\]
-  - [IEBlog: Windows Internet Explorer Engineering Team
-    Blog](http://blogs.msdn.com/b/ie/)于MSDN Blogs
-  - [Eric Law's IE Internals](http://blogs.msdn.com/b/ieinternals/)于MSDN
-    Blogs
-  - [Exploring IE: A Blog for Internet Explorer
-    Customers](https://web.archive.org/web/20110418203512/http://windowsteamblog.com/ie/b/ie/)于Windows
-    Blog
-  - [Internet Explorer Community
-    Resources](http://msdn.microsoft.com/en-us/ie/aa740470)于[MSDN](https://zh.wikipedia.org/wiki/MSDN "wikilink")
+  - [IEBlog: Windows Internet Explorer Engineering Team Blog](http://blogs.msdn.com/b/ie/)于MSDN Blogs
+  - [Eric Law's IE Internals](http://blogs.msdn.com/b/ieinternals/)于MSDN Blogs
+  - [Exploring IE: A Blog for Internet Explorer Customers](https://web.archive.org/web/20110418203512/http://windowsteamblog.com/ie/b/ie/)于Windows Blog
+  - [Internet Explorer Community Resources](http://msdn.microsoft.com/en-us/ie/aa740470)于[MSDN](https://zh.wikipedia.org/wiki/MSDN "wikilink")
 
-[th:อินเทอร์เน็ตเอกซ์พลอเรอร์\#อินเทอร์เน็ตเอกซ์พลอเรอร์
-10](https://zh.wikipedia.org/wiki/th:อินเทอร์เน็ตเอกซ์พลอเรอร์#อินเทอร์เน็ตเอกซ์พลอเรอร์_10 "wikilink")
+[th:อินเทอร์เน็ตเอกซ์พลอเรอร์\#อินเทอร์เน็ตเอกซ์พลอเรอร์ 10](https://zh.wikipedia.org/wiki/th:อินเทอร์เน็ตเอกซ์พลอเรอร์#อินเทอร์เน็ตเอกซ์พลอเรอร์_10 "wikilink")
 
-[Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink")
-[Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink")
-[Category:2012年軟體](https://zh.wikipedia.org/wiki/Category:2012年軟體 "wikilink")
+[Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink") [Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink") [Category:2012年軟體](https://zh.wikipedia.org/wiki/Category:2012年軟體 "wikilink")
 
 1.
 
@@ -143,9 +114,7 @@ Internet Explorer
 
 21.
 
-22. [Windows Release Preview: The Sixth IE10 Platform
-    Preview](http://blogs.msdn.com/b/ie/archive/2012/05/31/windows-release-preview-the-sixth-ie10-platform-preview.aspx),
-    MSDN blogs
+22. [Windows Release Preview: The Sixth IE10 Platform Preview](http://blogs.msdn.com/b/ie/archive/2012/05/31/windows-release-preview-the-sixth-ie10-platform-preview.aspx), MSDN blogs
 
 23.
 

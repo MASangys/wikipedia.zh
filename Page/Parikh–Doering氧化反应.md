@@ -8,8 +8,7 @@
 
 ## 反应机理
 
-二甲亚砜与三氧化硫在0°C或室温下发生加成，并受到醇进攻，生成关键的[烷氧基](https://zh.wikipedia.org/wiki/烷氧基 "wikilink")[锍离子中间体](https://zh.wikipedia.org/wiki/锍 "wikilink")
-(6)。
+二甲亚砜与三氧化硫在0°C或室温下发生加成，并受到醇进攻，生成关键的[烷氧基](https://zh.wikipedia.org/wiki/烷氧基 "wikilink")[锍离子中间体](https://zh.wikipedia.org/wiki/锍 "wikilink") (6)。
 
 
 [Mechanism_of_the_Parikh-Doering_Oxidation_-_Part_1.png](https://zh.wikipedia.org/wiki/File:Mechanism_of_the_Parikh-Doering_Oxidation_-_Part_1.png "fig:Mechanism_of_the_Parikh-Doering_Oxidation_-_Part_1.png")
@@ -37,8 +36,7 @@ Nicolaou 的 cortistatin 全合成中也使用了该反应。\[3\]
 
 ## 参考资料
 
-[Category:有机氧化还原反应](https://zh.wikipedia.org/wiki/Category:有机氧化还原反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:有机氧化还原反应](https://zh.wikipedia.org/wiki/Category:有机氧化还原反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.

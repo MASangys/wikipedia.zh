@@ -2,7 +2,7 @@
 
 ## 同性伴侶關係
 
-目前沒有東帝汶任何法律承認同性結合，包括[民事結合與](../Page/民事結合.md "wikilink")[同性婚姻在內](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。
+目前沒有東帝汶任何法律承認同性結合，包括[民事結合](../Page/民事結合.md "wikilink")與[同性婚姻在內](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。
 
 ## 歧視與仇恨罪保護
 
@@ -15,8 +15,7 @@
 
 ## 參考文獻
 
-[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
-[Category:大洋洲LGBT權益](https://zh.wikipedia.org/wiki/Category:大洋洲LGBT權益 "wikilink")
+[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink") [Category:大洋洲LGBT權益](https://zh.wikipedia.org/wiki/Category:大洋洲LGBT權益 "wikilink")
 
 1.
 2.

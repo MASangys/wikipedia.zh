@@ -1,19 +1,14 @@
-**白狐股份有限公司**（）是一家以[動畫企劃及製作為主的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日本公司](../Page/日本.md "wikilink")。在作品裡多以「**WHITE
-FOX**」或是「****」表示。
+**白狐股份有限公司**（）是一家以[動畫企劃及製作為主的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日本](../Page/日本.md "wikilink")公司。在作品裡多以「**WHITE FOX**」或是「****」表示。
 
 ## 概要、沿革
 
-2007年4月，[OLM的製作人](../Page/OLM.md "wikilink")[岩佐岳與](../Page/岩佐岳.md "wikilink")2006年電視動畫《[受讚頌者](https://zh.wikipedia.org/wiki/傳頌之物 "wikilink")》的製作團隊「**OLM
-TEAM
-IWASA**」獨立，在[杉並區](../Page/杉並區.md "wikilink")[下井草成立WHITE](../Page/下井草.md "wikilink")
-FOX\[1\]。
+2007年4月，[OLM](../Page/OLM.md "wikilink")的製作人[岩佐岳](../Page/岩佐岳.md "wikilink")與2006年電視動畫《[受讚頌者](https://zh.wikipedia.org/wiki/傳頌之物 "wikilink")》的製作團隊「**OLM TEAM IWASA**」獨立，在[杉並區](../Page/杉並區.md "wikilink")[下井草](../Page/下井草.md "wikilink")成立WHITE FOX\[1\]。
 
-2011年設立荻窪分工作室。2016年預定在[靜岡縣](../Page/靜岡縣.md "wikilink")[伊東市分工作室培育新人](../Page/伊東市.md "wikilink")。
+2011年設立荻窪分工作室。2016年預定在[靜岡縣](../Page/靜岡縣.md "wikilink")[伊東市](../Page/伊東市.md "wikilink")分工作室培育新人。
 
 ### 機密資訊外洩事件
 
-2010年1月7日，WHITE
-FOX官方承認《[刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")》的資料外洩。官方說明起因於同年1月4日時，[FTP遭第三方攻擊導致資料外洩](https://zh.wikipedia.org/wiki/FTP "wikilink")\[2\]。
+2010年1月7日，WHITE FOX官方承認《[刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")》的資料外洩。官方說明起因於同年1月4日時，[FTP遭第三方攻擊導致資料外洩](https://zh.wikipedia.org/wiki/FTP "wikilink")\[2\]。
 
 ## 作品列表
 
@@ -312,10 +307,7 @@ FOX官方承認《[刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")》�
 
   - [株式會社WHITE FOX公式官方網站](http://www.w-fox.co.jp/)
 
-[Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
+[Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
 
 1.  [株式会社 WHITE FOX - 会社概要](http://www.w-fox.co.jp/fix/data.htm)
-2.  [お詫びとお知らせ: 新着情報 - 株式会社 WHITE
-    FOX](http://w-fox.sblo.jp/article/34906549.html)
+2.  [お詫びとお知らせ: 新着情報 - 株式会社 WHITE FOX](http://w-fox.sblo.jp/article/34906549.html)

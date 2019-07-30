@@ -21,8 +21,7 @@
 
 ### 未公開放送
 
-本篇放送之因時間不足等原因而未撥出的部分片段，收錄於[Cartoon
-KAT-TUN的節目中放送](../Page/Cartoon_KAT-TUN.md "wikilink")
+本篇放送之因時間不足等原因而未撥出的部分片段，收錄於[Cartoon KAT-TUN的節目中放送](../Page/Cartoon_KAT-TUN.md "wikilink")
 
 ## 節目內容
 
@@ -186,9 +185,6 @@ Olympos販售公告</p></td>
 
 ## 外部連結
 
-  - [カートゥンKAT-TUN](https://web.archive.org/web/20070623050804/http://www.ntv.co.jp/cartoonkat-tun/)
-    節目官網
+  - [カートゥンKAT-TUN](https://web.archive.org/web/20070623050804/http://www.ntv.co.jp/cartoonkat-tun/) 節目官網
 
-[Category:KAT-TUN](https://zh.wikipedia.org/wiki/Category:KAT-TUN "wikilink")
-[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink")
-[Category:2008年日本電視節目](https://zh.wikipedia.org/wiki/Category:2008年日本電視節目 "wikilink")
+[Category:KAT-TUN](https://zh.wikipedia.org/wiki/Category:KAT-TUN "wikilink") [Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2008年日本電視節目](https://zh.wikipedia.org/wiki/Category:2008年日本電視節目 "wikilink")

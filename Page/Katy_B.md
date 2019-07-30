@@ -1,19 +1,12 @@
-**Katy B**（本名**Kathleen Anne
-Brien**，），[英國唱作歌手](https://zh.wikipedia.org/wiki/英國 "wikilink")，生於[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。她曾使用**Baby
-Katy**這個藝名來出道，更與DJ NG合唱歌曲《Tell Me》\[1\]。
+**Katy B**（本名**Kathleen Anne Brien**，），[英國唱作歌手](https://zh.wikipedia.org/wiki/英國 "wikilink")，生於[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。她曾使用**Baby Katy**這個藝名來出道，更與DJ NG合唱歌曲《Tell Me》\[1\]。
 
-2011年，發行個人第一張專輯，名為《On A
-Mission》，是2011年「[水星音樂獎](../Page/水星音樂獎.md "wikilink")」被提名的個人首張專輯。
+2011年，發行個人第一張專輯，名為《On A Mission》，是2011年「[水星音樂獎](../Page/水星音樂獎.md "wikilink")」被提名的個人首張專輯。
 
 ## 傳記
 
-**Katy B**在1989年於英國倫敦出生。從小已對R\&B音樂有濃厚的興趣。她曾就讀The BRIT
-School藝術學校。另外在學習鋼琴當中亦自行嘗試作曲及填詞。Rinse FM電台的DJ
-Geenius發覺她的天份不俗，便合力為她製作專輯。
+**Katy B**在1989年於英國倫敦出生。從小已對R\&B音樂有濃厚的興趣。她曾就讀The BRIT School藝術學校。另外在學習鋼琴當中亦自行嘗試作曲及填詞。Rinse FM電台的DJ Geenius發覺她的天份不俗，便合力為她製作專輯。
 
-2010年，Katy B推出單曲《Katy On A
-Mission》，推出不久後於英國單曲和舞曲榜獲得雙冠軍。2011年4月1日，於英國正式發行個人首張專輯《On
-A Mission》\[2\]。
+2010年，Katy B推出單曲《Katy On A Mission》，推出不久後於英國單曲和舞曲榜獲得雙冠軍。2011年4月1日，於英國正式發行個人首張專輯《On A Mission》\[2\]。
 
 ## 專輯
 

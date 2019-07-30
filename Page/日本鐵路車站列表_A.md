@@ -1,5 +1,5 @@
 
-**日本鐵路車站列表 A**收錄了日本鐵路車站中，站名羅馬拼音為字母「**A**」或日文假名為「****」起頭的車站。
+ **日本鐵路車站列表 A**收錄了日本鐵路車站中，站名羅馬拼音為字母「**A**」或日文假名為「****」起頭的車站。
 
 ## AB
 
@@ -2747,5 +2747,4 @@ Ariake-Tenisu-No-Nori-Eki</p></td>
 </tbody>
 </table>
 
-[Category:日本鐵路車站列表](https://zh.wikipedia.org/wiki/Category:日本鐵路車站列表 "wikilink")
-[Category:日本鐵路車站_A](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_A "wikilink")
+[Category:日本鐵路車站列表](https://zh.wikipedia.org/wiki/Category:日本鐵路車站列表 "wikilink") [Category:日本鐵路車站_A](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_A "wikilink")

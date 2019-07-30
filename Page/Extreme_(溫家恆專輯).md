@@ -20,17 +20,12 @@
 
 <references />
 
-  - 香港[HMV](../Page/HMV.md "wikilink")，[溫家恆 VINCENT WAN / EXTREME
-    (EP+DVD)](http://www.hmv.com.hk/ch/product/canto.asp?sku=775851)，2009年12月23日查閱，
+  - 香港[HMV](../Page/HMV.md "wikilink")，[溫家恆 VINCENT WAN / EXTREME (EP+DVD)](http://www.hmv.com.hk/ch/product/canto.asp?sku=775851)，2009年12月23日查閱，
 
 </div>
 
 ## 外部連結
 
-  - yesasia.com，[Extreme (EP+DVD)
-    (特別版)](http://www.yesasia.com/global/extreme-ep-dvd-%E7%89%B9%E5%88%A5%E7%89%88/1021630261-0-0-0-zh_TW/info.html)，2009年12月23日
-    (三) 11:31 (UTC+8)查閱，
+  - yesasia.com，[Extreme (EP+DVD) (特別版)](http://www.yesasia.com/global/extreme-ep-dvd-%E7%89%B9%E5%88%A5%E7%89%88/1021630261-0-0-0-zh_TW/info.html)，2009年12月23日 (三) 11:31 (UTC+8)查閱，
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:溫家恆音樂專輯](https://zh.wikipedia.org/wiki/Category:溫家恆音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:溫家恆音樂專輯](https://zh.wikipedia.org/wiki/Category:溫家恆音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")

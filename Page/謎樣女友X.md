@@ -1,7 +1,6 @@
-《**謎樣女友X**》（），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[植芝理一所繪製的](../Page/植芝理一.md "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。原是在『[月刊Afternoon](https://zh.wikipedia.org/wiki/月刊Afternoon "wikilink")』（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）的2004年10月號刊載的單回作品，後來將此篇故事當作第0話。從2006年5月號開始至2014年11月號連載結束。單行本全12集。
+《**謎樣女友X**》（），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[植芝理一](../Page/植芝理一.md "wikilink")所繪製的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。原是在『[月刊Afternoon](https://zh.wikipedia.org/wiki/月刊Afternoon "wikilink")』（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）的2004年10月號刊載的單回作品，後來將此篇故事當作第0話。從2006年5月號開始至2014年11月號連載結束。單行本全12集。
 
-在《月刊Afternoon》2012年2月號中發表了[電視動畫化的訊息](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，2012年4月於TOKYO
-MX等電視台開播。
+在《月刊Afternoon》2012年2月號中發表了[電視動畫化的訊息](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，2012年4月於TOKYO MX等電視台開播。
 
 ## 故事簡介
 
@@ -154,12 +153,10 @@ ISBN 978-4-06-358391-5（限定版）</p></td>
   - 編集：廣瀨清志
   - 音響監督：[三間雅文](../Page/三間雅文.md "wikilink")
   - 音響效果：三井友和
-  - 音響制作：[Techno
-    Sound](https://zh.wikipedia.org/wiki/Techno_Sound "wikilink")
+  - 音響制作：[Techno Sound](https://zh.wikipedia.org/wiki/Techno_Sound "wikilink")
   - 音樂：[長谷川智樹](https://zh.wikipedia.org/wiki/長谷川智樹 "wikilink")
   - 音樂工作室：[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")
-  - 動畫製作：[Hoods
-    Entertainment](../Page/Hoods_Entertainment.md "wikilink")
+  - 動畫製作：[Hoods Entertainment](../Page/Hoods_Entertainment.md "wikilink")
   - 製作：風見台高校2年A組
 
 ### 主題曲
@@ -169,9 +166,7 @@ ISBN 978-4-06-358391-5（限定版）</p></td>
 <!-- end list -->
 
   -
-    作詞 - 山田稔明 / 作曲・編曲 -
-    [北川勝利](https://zh.wikipedia.org/wiki/北川勝利 "wikilink")
-    / 歌 - [吉谷彩子](https://zh.wikipedia.org/wiki/吉谷彩子 "wikilink")
+    作詞 - 山田稔明 / 作曲・編曲 - [北川勝利](https://zh.wikipedia.org/wiki/北川勝利 "wikilink") / 歌 - [吉谷彩子](https://zh.wikipedia.org/wiki/吉谷彩子 "wikilink")
 
 <!-- end list -->
 
@@ -346,17 +341,11 @@ ISBN 978-4-06-358391-5（限定版）</p></td>
 | [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") | [KBS京都](../Page/京都放送.md "wikilink")                           | 星期一 25時30分 - 26時00分                  |                                                       |                                                           |     |
 | [愛知縣](../Page/愛知縣.md "wikilink")                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                          | [東京電視網](../Page/東京電視網.md "wikilink") |                                                       |                                                           |     |
 | 日本全域                                                | [AT-X](../Page/AT-X.md "wikilink")                            | 2012年4月10日 - 7月3日                    | 星期二 8時30分 - 9時00分                                     | [CS放送](https://zh.wikipedia.org/wiki/CS放送 "wikilink")     | 有重播 |
-| [BS11](../Page/日本BS放送.md "wikilink")                | 2012年4月13日 -                                                  | 星期五 23時00分 - 23時30分                  | [BS放送](https://zh.wikipedia.org/wiki/BS放送 "wikilink") | [ANIME+節目](../Page/ANIME+.md "wikilink")                  |     |
+| [BS11](../Page/日本BS放送.md "wikilink")                | 2012年4月13日 -                                                  | 星期五 23時00分 - 23時30分                  | [BS放送](https://zh.wikipedia.org/wiki/BS放送 "wikilink") | [ANIME+](../Page/ANIME+.md "wikilink")節目                  |     |
 
 ## 外部連結
 
   - [](https://web.archive.org/web/20120502211518/http://kc.kodansha.co.jp/content/top.php/1000003011)
   - [](http://www.starchild.co.jp/special/nazokano_x/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:月刊Afternoon](https://zh.wikipedia.org/wiki/Category:月刊Afternoon "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:月刊Afternoon](https://zh.wikipedia.org/wiki/Category:月刊Afternoon "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink")

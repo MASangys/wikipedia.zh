@@ -1,11 +1,8 @@
-**巴尼斯G函数**是[超级阶乘函数在](https://zh.wikipedia.org/wiki/階乘#超級階乘 "wikilink")[复数上的扩展](../Page/复数_\(数学\).md "wikilink")。它与[Γ函数](../Page/Γ函数.md "wikilink")、[K函数](../Page/K函数.md "wikilink")以及[格莱舍常数](https://zh.wikipedia.org/wiki/格莱舍常数 "wikilink")（Glaisher
-constant）有关。以[数学家](../Page/数学家.md "wikilink")[欧尼斯特·巴尼斯](https://zh.wikipedia.org/wiki/欧尼斯特·巴尼斯 "wikilink")（Ernest
-William Barnes）的名字命名。\[1\]
+**巴尼斯G函数**是[超级阶乘函数在](https://zh.wikipedia.org/wiki/階乘#超級階乘 "wikilink")[复数上的扩展](../Page/复数_\(数学\).md "wikilink")。它与[Γ函数](../Page/Γ函数.md "wikilink")、[K函数](../Page/K函数.md "wikilink")以及[格莱舍常数](https://zh.wikipedia.org/wiki/格莱舍常数 "wikilink")（Glaisher constant）有关。以[数学家](../Page/数学家.md "wikilink")[欧尼斯特·巴尼斯](https://zh.wikipedia.org/wiki/欧尼斯特·巴尼斯 "wikilink")（Ernest William Barnes）的名字命名。\[1\]
 
 巴尼斯G函数可以通用[魏尔施特拉斯分解定理的形式定义为](https://zh.wikipedia.org/wiki/魏尔施特拉斯分解定理 "wikilink")：
 
-\[G(z+1)=(2\pi)^{z/2} e^{-[z(z+1)+\gamma z^2]/2}\prod_{n=1}^\infty \left[\left(1+\frac{z}{n}\right)^ne^{-z+z^2/(2n)}\right].\]
-其中，γ表示欧拉-马歇罗尼常数。
+\[G(z+1)=(2\pi)^{z/2} e^{-[z(z+1)+\gamma z^2]/2}\prod_{n=1}^\infty \left[\left(1+\frac{z}{n}\right)^ne^{-z+z^2/(2n)}\right].\] 其中，γ表示欧拉-马歇罗尼常数。
 
 ## 差分方程、函数方程与特殊值
 
@@ -19,8 +16,7 @@ William Barnes）的名字命名。\[1\]
 
 因此，
 
-\[G(n)=\frac{(\Gamma(n))^{n-1}}{K(n)}.\]
-其中，\(\Gamma(n)\)表示[Γ函数](../Page/Γ函数.md "wikilink")，\(K(n)\)表示[K函数](../Page/K函数.md "wikilink")。
+\[G(n)=\frac{(\Gamma(n))^{n-1}}{K(n)}.\] 其中，\(\Gamma(n)\)表示[Γ函数](../Page/Γ函数.md "wikilink")，\(K(n)\)表示[K函数](../Page/K函数.md "wikilink")。
 
 另外，在满足条件\(\frac{d^3}{dx^3}G(x)\geq 0\)时，差分方程唯一确定一个G函数。\[2\].
 
@@ -56,11 +52,7 @@ n^{\frac{5}{12}}\cdot(2\pi)^{(n-1)/2}\,=\,
 
 ## 参考
 
-[Category:数论](https://zh.wikipedia.org/wiki/Category:数论 "wikilink")
-[Category:伽玛及相关函数](https://zh.wikipedia.org/wiki/Category:伽玛及相关函数 "wikilink")
+[Category:数论](https://zh.wikipedia.org/wiki/Category:数论 "wikilink") [Category:伽玛及相关函数](https://zh.wikipedia.org/wiki/Category:伽玛及相关函数 "wikilink")
 
-1.  E.W.Barnes, "The theory of the G-function", *Quarterly Journ. Pure
-    and Appl. Math.* **31** (1900), 264-314.
-2.  M. F. Vignéras, *L'équation fonctionelle de la fonction zêta de
-    Selberg du groupe mudulaire SL\((2,\mathbb{Z})\)*, Astérisque
-    **61**, 235-249 (1979).
+1.  E.W.Barnes, "The theory of the G-function", *Quarterly Journ. Pure and Appl. Math.* **31** (1900), 264-314.
+2.  M. F. Vignéras, *L'équation fonctionelle de la fonction zêta de Selberg du groupe mudulaire SL\((2,\mathbb{Z})\)*, Astérisque **61**, 235-249 (1979).

@@ -1,5 +1,4 @@
-**格特魯德·B·埃利恩**（，\[1\])
-，是一名已逝世的[美國女性](https://zh.wikipedia.org/wiki/美國 "wikilink")[生化學家和](https://zh.wikipedia.org/wiki/生物化學 "wikilink")[藥理學家](https://zh.wikipedia.org/wiki/藥理學 "wikilink")。1988年，她与[喬治·H·希欽斯](../Page/喬治·H·希欽斯.md "wikilink")和[詹姆士·W·布拉克](../Page/詹姆士·W·布拉克.md "wikilink")共同獲頒[諾貝爾生理學或醫學獎](https://zh.wikipedia.org/wiki/諾貝爾生理學或醫學獎 "wikilink")。埃利恩开发了许多新的[药物](https://zh.wikipedia.org/wiki/藥物治療 "wikilink")，这种新型研究方法的使用促使了后来治疗[艾滋病的药物](https://zh.wikipedia.org/wiki/艾滋病 "wikilink")[齐多夫定](../Page/齐多夫定.md "wikilink")的发展。\[2\]
+**格特魯德·B·埃利恩**（，\[1\]) ，是一名已逝世的[美國女性](https://zh.wikipedia.org/wiki/美國 "wikilink")[生化學家和](https://zh.wikipedia.org/wiki/生物化學 "wikilink")[藥理學家](https://zh.wikipedia.org/wiki/藥理學 "wikilink")。1988年，她与[喬治·H·希欽斯](../Page/喬治·H·希欽斯.md "wikilink")和[詹姆士·W·布拉克](../Page/詹姆士·W·布拉克.md "wikilink")共同獲頒[諾貝爾生理學或醫學獎](https://zh.wikipedia.org/wiki/諾貝爾生理學或醫學獎 "wikilink")。埃利恩开发了许多新的[药物](https://zh.wikipedia.org/wiki/藥物治療 "wikilink")，这种新型研究方法的使用促使了后来治疗[艾滋病的药物](https://zh.wikipedia.org/wiki/艾滋病 "wikilink")[齐多夫定](../Page/齐多夫定.md "wikilink")的发展。\[2\]
 
 ## 主要成就
 
@@ -37,37 +36,15 @@
 ## 外部連結
 
   - [诺贝尔官方网站上关于格特魯德·B·埃利恩的介绍](https://web.archive.org/web/20011004194940/http://www.nobel.se/medicine/laureates/1988/elion-autobio.html)
-  - [由Mary Ellen
-    Avery写的自传回忆录](http://www.nap.edu/html/biomems/gelion.html)
-  - [Women of Valor exhibit on Gertrude
-    Elion](https://web.archive.org/web/20100110012731/http://jwa.org/exhibits/wov/elion/)
-    at the [Jewish Women's Archive](http://www.jwa.org)
+  - [由Mary Ellen Avery写的自传回忆录](http://www.nap.edu/html/biomems/gelion.html)
+  - [Women of Valor exhibit on Gertrude Elion](https://web.archive.org/web/20100110012731/http://jwa.org/exhibits/wov/elion/) at the [Jewish Women's Archive](http://www.jwa.org)
   - [纽约时报讣告](http://query.nytimes.com/gst/fullpage.html?res=9501E5DF103DF930A15751C0A96F958260)
   - [格特魯德·B·埃利恩传记](http://jwa.org/encyclopedia/article/elion-gertrude-belle)，犹太女性百科全书
 
-[Category:诺贝尔生理学或医学奖获得者](https://zh.wikipedia.org/wiki/Category:诺贝尔生理学或医学奖获得者 "wikilink")
-[Category:女性諾貝爾獎獲得者](https://zh.wikipedia.org/wiki/Category:女性諾貝爾獎獲得者 "wikilink")
-[Category:美國諾貝爾獎獲得者](https://zh.wikipedia.org/wiki/Category:美國諾貝爾獎獲得者 "wikilink")
-[Category:猶太諾貝爾獎獲得者](https://zh.wikipedia.org/wiki/Category:猶太諾貝爾獎獲得者 "wikilink")
-[Category:美國國家科學獎獲獎者](https://zh.wikipedia.org/wiki/Category:美國國家科學獎獲獎者 "wikilink")
-[Category:英國皇家學會院士](https://zh.wikipedia.org/wiki/Category:英國皇家學會院士 "wikilink")
-[Category:皇家学会外籍会员](https://zh.wikipedia.org/wiki/Category:皇家学会外籍会员 "wikilink")
-[Category:美國生物化學家](https://zh.wikipedia.org/wiki/Category:美國生物化學家 "wikilink")
-[Category:美国生物学家](https://zh.wikipedia.org/wiki/Category:美国生物学家 "wikilink")
-[Category:藥理學家](https://zh.wikipedia.org/wiki/Category:藥理學家 "wikilink")
-[Category:猶太科學家](https://zh.wikipedia.org/wiki/Category:猶太科學家 "wikilink")
-[Category:猶太發明家](https://zh.wikipedia.org/wiki/Category:猶太發明家 "wikilink")
-[Category:美国女性科学家](https://zh.wikipedia.org/wiki/Category:美国女性科学家 "wikilink")
-[Category:杜克大学教师](https://zh.wikipedia.org/wiki/Category:杜克大学教师 "wikilink")
-[Category:紐約大學校友](https://zh.wikipedia.org/wiki/Category:紐約大學校友 "wikilink")
-[Category:美國猶太人](https://zh.wikipedia.org/wiki/Category:美國猶太人 "wikilink")
-[Category:紐約市人](https://zh.wikipedia.org/wiki/Category:紐約市人 "wikilink")
+[Category:诺贝尔生理学或医学奖获得者](https://zh.wikipedia.org/wiki/Category:诺贝尔生理学或医学奖获得者 "wikilink") [Category:女性諾貝爾獎獲得者](https://zh.wikipedia.org/wiki/Category:女性諾貝爾獎獲得者 "wikilink") [Category:美國諾貝爾獎獲得者](https://zh.wikipedia.org/wiki/Category:美國諾貝爾獎獲得者 "wikilink") [Category:猶太諾貝爾獎獲得者](https://zh.wikipedia.org/wiki/Category:猶太諾貝爾獎獲得者 "wikilink") [Category:美國國家科學獎獲獎者](https://zh.wikipedia.org/wiki/Category:美國國家科學獎獲獎者 "wikilink") [Category:英國皇家學會院士](https://zh.wikipedia.org/wiki/Category:英國皇家學會院士 "wikilink") [Category:皇家学会外籍会员](https://zh.wikipedia.org/wiki/Category:皇家学会外籍会员 "wikilink") [Category:美國生物化學家](https://zh.wikipedia.org/wiki/Category:美國生物化學家 "wikilink") [Category:美国生物学家](https://zh.wikipedia.org/wiki/Category:美国生物学家 "wikilink") [Category:藥理學家](https://zh.wikipedia.org/wiki/Category:藥理學家 "wikilink") [Category:猶太科學家](https://zh.wikipedia.org/wiki/Category:猶太科學家 "wikilink") [Category:猶太發明家](https://zh.wikipedia.org/wiki/Category:猶太發明家 "wikilink") [Category:美国女性科学家](https://zh.wikipedia.org/wiki/Category:美国女性科学家 "wikilink") [Category:杜克大学教师](https://zh.wikipedia.org/wiki/Category:杜克大学教师 "wikilink") [Category:紐約大學校友](https://zh.wikipedia.org/wiki/Category:紐約大學校友 "wikilink") [Category:美國猶太人](https://zh.wikipedia.org/wiki/Category:美國猶太人 "wikilink") [Category:紐約市人](https://zh.wikipedia.org/wiki/Category:紐約市人 "wikilink")
 
 1.
-2.  Holloway, M. (1991) *Profile: Gertrude Belle Elion – The
-    Satisfaction of Delayed Gratification*, [Scientific
-    American](https://zh.wikipedia.org/wiki/Scientific_American "wikilink")
-    **265**(4), 40-44.
+2.  Holloway, M. (1991) *Profile: Gertrude Belle Elion – The Satisfaction of Delayed Gratification*, [Scientific American](https://zh.wikipedia.org/wiki/Scientific_American "wikilink") **265**(4), 40-44.
 3.
 4.
 5.

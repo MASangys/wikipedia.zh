@@ -1,5 +1,4 @@
-**BlackBerry
-Bold**是[BlackBerry公司开发的一系列](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")[智能手机](../Page/智能手机.md "wikilink")。
+**BlackBerry Bold**是[BlackBerry公司开发的一系列](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")[智能手机](../Page/智能手机.md "wikilink")。
 
 ## 早期系列
 
@@ -16,27 +15,18 @@ Bold**是[BlackBerry公司开发的一系列](https://zh.wikipedia.org/wiki/Blac
   - 可使用GPS
   - 输入：背光QWERTY键盘，轨迹球
   - 支持的视频格式：DivX 4、部分支持DivX 5/6、部分支持XviD、H.263、H.264、WMV3
-  - 支持的音频格式：.3gp、MP3、WMA9(.wma/.asf)、WMA9 Pro/WMA
-    10、MIDI、AMR-NB、Professional AAC/AAC+/eAAC+
+  - 支持的音频格式：.3gp、MP3、WMA9(.wma/.asf)、WMA9 Pro/WMA 10、MIDI、AMR-NB、Professional AAC/AAC+/eAAC+
   - 铃声：MIDI、SP-MDI、MP3、WAV
-  - 连接：[3G](../Page/3G.md "wikilink")、[Bluetooth](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")
-    2.0;
-    [802.11g](https://zh.wikipedia.org/wiki/802.11g "wikilink")、3.5毫米立体声耳机、[Mini-USB](https://zh.wikipedia.org/wiki/Mini-USB "wikilink")
-  - 网络：[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")
-    2100/1900/850 MHz、[GSM](../Page/GSM.md "wikilink"):
-    1900/1800/900/850/MHz、[EDGE网络](https://zh.wikipedia.org/wiki/EDGE "wikilink")、[HSDPA网络](https://zh.wikipedia.org/wiki/HSDPA "wikilink")
+  - 连接：[3G](../Page/3G.md "wikilink")、[Bluetooth](https://zh.wikipedia.org/wiki/蓝牙 "wikilink") 2.0; [802.11g](https://zh.wikipedia.org/wiki/802.11g "wikilink")、3.5毫米立体声耳机、[Mini-USB](https://zh.wikipedia.org/wiki/Mini-USB "wikilink")
+  - 网络：[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink") 2100/1900/850 MHz、[GSM](../Page/GSM.md "wikilink"): 1900/1800/900/850/MHz、[EDGE网络](https://zh.wikipedia.org/wiki/EDGE "wikilink")、[HSDPA网络](https://zh.wikipedia.org/wiki/HSDPA "wikilink")
 
 #### 应用程序
 
-所有常用的黑莓应用程序都可以在Bold上运行，如：[WordToGo](https://zh.wikipedia.org/wiki/WordToGo "wikilink")、[PowerPointToGo](https://zh.wikipedia.org/wiki/PowerPointToGo "wikilink")、[BrickBreaker以及](https://zh.wikipedia.org/wiki/BrickBreaker "wikilink")[WordMole](https://zh.wikipedia.org/wiki/WordMole "wikilink")。Bold还提供了新的或升级的应用程序，如：BlackBerry
-Messenger、WHERE
-[GPS和](https://zh.wikipedia.org/wiki/GPS "wikilink")[Mobi4Biz](https://zh.wikipedia.org/wiki/Mobi4Biz "wikilink").\[1\]
+所有常用的黑莓应用程序都可以在Bold上运行，如：[WordToGo](https://zh.wikipedia.org/wiki/WordToGo "wikilink")、[PowerPointToGo](https://zh.wikipedia.org/wiki/PowerPointToGo "wikilink")、[BrickBreaker以及](https://zh.wikipedia.org/wiki/BrickBreaker "wikilink")[WordMole](https://zh.wikipedia.org/wiki/WordMole "wikilink")。Bold还提供了新的或升级的应用程序，如：BlackBerry Messenger、WHERE [GPS和](https://zh.wikipedia.org/wiki/GPS "wikilink")[Mobi4Biz](https://zh.wikipedia.org/wiki/Mobi4Biz "wikilink").\[1\]
 
 #### 接受度
 
-评论家对黑莓Bold做出了积极的评价。[CNET的Bonnie](../Page/CNET.md "wikilink")
-Cha认为Bold是“卓越的”，并表扬了Bold的屏幕和多媒体功能。但她也指出不喜欢Bold笨重的机身和可怜的网络浏览。同时，她提到在blackberry
-OS 6.0中，这些会得到改善。\[2\]
+评论家对黑莓Bold做出了积极的评价。[CNET](../Page/CNET.md "wikilink")的Bonnie Cha认为Bold是“卓越的”，并表扬了Bold的屏幕和多媒体功能。但她也指出不喜欢Bold笨重的机身和可怜的网络浏览。同时，她提到在blackberry OS 6.0中，这些会得到改善。\[2\]
 
 #### 技术问题
 
@@ -55,31 +45,19 @@ OS 6.0中，这些会得到改善。\[2\]
   - 带有闪光灯，支持自动对焦的320万像素摄像头
   - 480 × 360像素彩色Half VGA resolution屏幕
   - 机身内存为256MB
-  - [Wi-Fi](../Page/Wi-Fi.md "wikilink") 802.11b/g、WEP、WPA-PSK
-    (TKIP或AES)、PEAP、LEAP、EAP-TLS、EAP-FAST、EAP-TTLS、EAP-SIM
-  - Wi-Fi calling supported
-    [UMA](https://zh.wikipedia.org/wiki/UMA "wikilink") (Carrier
-    dependent)
+  - [Wi-Fi](../Page/Wi-Fi.md "wikilink") 802.11b/g、WEP、WPA-PSK (TKIP或AES)、PEAP、LEAP、EAP-TLS、EAP-FAST、EAP-TTLS、EAP-SIM
+  - Wi-Fi calling supported [UMA](https://zh.wikipedia.org/wiki/UMA "wikilink") (Carrier dependent)
   - 电池寿命：待机时间17天，通话时间6小时(均为UMTS环境)
-  - [蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")
-    2.1、Bluetooth立体声(A2DP及AVRCP)
-  - 浏览器：HTML、能观看移动流媒体网站的电影或视频剪辑、支持[RSS](../Page/RSS.md "wikilink")
-    [feed](https://zh.wikipedia.org/wiki/Web_feed "wikilink")
+  - [蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink") 2.1、Bluetooth立体声(A2DP及AVRCP)
+  - 浏览器：HTML、能观看移动流媒体网站的电影或视频剪辑、支持[RSS](../Page/RSS.md "wikilink") [feed](https://zh.wikipedia.org/wiki/Web_feed "wikilink")
   - 尺寸：109×60×14.1毫米
-  - 网络支持：[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")/[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")
-    2100/1900/850/800 MHz、[GSM](../Page/GSM.md "wikilink")/[GPRS](../Page/GPRS.md "wikilink")/[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink")
-    1900/1800/900/850MHz或[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")/[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")
-    2100/1700/900MHz和[GSM](../Page/GSM.md "wikilink")/[GPRS](../Page/GPRS.md "wikilink")/[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink")
-    1900/1800/900/850 MHz(由提供商的UMTS/HSDPA基带决定)
-  - Micro-B [USB](https://zh.wikipedia.org/wiki/Micro-USB "wikilink")
-    PC/充电器连接
+  - 网络支持：[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")/[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink") 2100/1900/850/800 MHz、[GSM](../Page/GSM.md "wikilink")/[GPRS](../Page/GPRS.md "wikilink")/[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink") 1900/1800/900/850MHz或[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")/[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink") 2100/1700/900MHz和[GSM](../Page/GSM.md "wikilink")/[GPRS](../Page/GPRS.md "wikilink")/[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink") 1900/1800/900/850 MHz(由提供商的UMTS/HSDPA基带决定)
+  - Micro-B [USB](https://zh.wikipedia.org/wiki/Micro-USB "wikilink") PC/充电器连接
   - 操作系统： Blackberry OS 5.0，在2011年会有可用的OS 6.0升级
 
 #### 应用程序
 
-所有常用的黑莓应用程序都可以在Bold
-9700上运行，包括但不限于[WordToGo](../Page/Microsoft_Word.md "wikilink")、[PowerPointToGo](https://zh.wikipedia.org/wiki/Microsoft_Powerpoint "wikilink")、[BrickBreaker以及](https://zh.wikipedia.org/wiki/BrickBreaker "wikilink")[WordMole](https://zh.wikipedia.org/wiki/WordMole "wikilink")。Bold
-9700也提供了BlackBerry Messenger 4.7，但在BlackBerry App World中可以升级至5.0。
+所有常用的黑莓应用程序都可以在Bold 9700上运行，包括但不限于[WordToGo](../Page/Microsoft_Word.md "wikilink")、[PowerPointToGo](https://zh.wikipedia.org/wiki/Microsoft_Powerpoint "wikilink")、[BrickBreaker以及](https://zh.wikipedia.org/wiki/BrickBreaker "wikilink")[WordMole](https://zh.wikipedia.org/wiki/WordMole "wikilink")。Bold 9700也提供了BlackBerry Messenger 4.7，但在BlackBerry App World中可以升级至5.0。
 
 ### BlackBerry Bold 9650
 
@@ -89,20 +67,13 @@ OS 6.0中，这些会得到改善。\[2\]
   - 带有闪光灯，支持自动对焦的320万像素摄像头
   - 机身512MB内存 onboard Memory
   - 480 × 360像素彩色Half VGA resolution屏幕
-  - [Wi-Fi](../Page/Wi-Fi.md "wikilink") 802.11b/g、WEP、WPA-PSK
-    (TKIP或AES)、PEAP、LEAP、EAP-TLS、EAP-FAST、EAP-TTLS、EAP-SIM
+  - [Wi-Fi](../Page/Wi-Fi.md "wikilink") 802.11b/g、WEP、WPA-PSK (TKIP或AES)、PEAP、LEAP、EAP-TLS、EAP-FAST、EAP-TTLS、EAP-SIM
   - 电池寿命：待机13天，通话5小时(均为UMTS环境)
-  - [蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")
-    2.1、Bluetooth立体声(A2DP及AVRCP)
-  - 浏览器：HTML、能观看移动流媒体网站的电影或视频剪辑、支持[RSS](../Page/RSS.md "wikilink")
-    [feed](https://zh.wikipedia.org/wiki/Web_feed "wikilink")
+  - [蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink") 2.1、Bluetooth立体声(A2DP及AVRCP)
+  - 浏览器：HTML、能观看移动流媒体网站的电影或视频剪辑、支持[RSS](../Page/RSS.md "wikilink") [feed](https://zh.wikipedia.org/wiki/Web_feed "wikilink")
   - 尺寸：112×62×14.1毫米
-  - 网络支持：[CDMA](https://zh.wikipedia.org/wiki/CDMA "wikilink")/[EVDO](https://zh.wikipedia.org/wiki/EVDO "wikilink")
-    1900/850 MHz，[GSM](../Page/GSM.md "wikilink")/[GPRS](../Page/GPRS.md "wikilink")/[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink")
-    1900/1800/900/850 MHz，[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")/[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")
-    2100 MHz
-  - Micro-B [USB](https://zh.wikipedia.org/wiki/Micro-USB "wikilink")
-    PC/充电器连接
+  - 网络支持：[CDMA](https://zh.wikipedia.org/wiki/CDMA "wikilink")/[EVDO](https://zh.wikipedia.org/wiki/EVDO "wikilink") 1900/850 MHz，[GSM](../Page/GSM.md "wikilink")/[GPRS](../Page/GPRS.md "wikilink")/[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink") 1900/1800/900/850 MHz，[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")/[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink") 2100 MHz
+  - Micro-B [USB](https://zh.wikipedia.org/wiki/Micro-USB "wikilink") PC/充电器连接
   - 操作系统：Blackberry OS 5.0
 
 ### BlackBerry Bold 9780
@@ -113,21 +84,13 @@ OS 6.0中，这些会得到改善。\[2\]
   - 带有闪光灯，支持自动对焦的5百万像素摄像头
   - 机身512MB内存
   - 480 × 360像素彩色Half VGA resolution屏幕
-  - [Wi-Fi](../Page/Wi-Fi.md "wikilink") 802.11b/g、WEP、WPA-PSK
-    (TKIP或AES)、PEAP、LEAP、EAP-TLS、EAP-FAST、EAP-TTLS、EAP-SIM
+  - [Wi-Fi](../Page/Wi-Fi.md "wikilink") 802.11b/g、WEP、WPA-PSK (TKIP或AES)、PEAP、LEAP、EAP-TLS、EAP-FAST、EAP-TTLS、EAP-SIM
   - 电池寿命：待机时间17天，通话时间6小时(均为UMTS环境)
-  - [蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")
-    2.1、Bluetooth立体声(A2DP及AVRCP)
-  - 浏览器：HTML、能观看移动流媒体网站的电影或视频剪辑、支持[RSS](../Page/RSS.md "wikilink")
-    [feed](https://zh.wikipedia.org/wiki/Web_feed "wikilink")
+  - [蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink") 2.1、Bluetooth立体声(A2DP及AVRCP)
+  - 浏览器：HTML、能观看移动流媒体网站的电影或视频剪辑、支持[RSS](../Page/RSS.md "wikilink") [feed](https://zh.wikipedia.org/wiki/Web_feed "wikilink")
   - 尺寸：109×60×14.1毫米
-  - 网络支持：[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")/[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")
-    2100/1900/850/800 MHz、[GSM](../Page/GSM.md "wikilink")/[GPRS](../Page/GPRS.md "wikilink")/[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink")
-    1900/1800/900/850MHz或[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")/[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")
-    2100/1700/900MHz和[GSM](../Page/GSM.md "wikilink")/[GPRS](../Page/GPRS.md "wikilink")/[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink")
-    1900/1800/900/850 MHz(由提供商的UMTS/HSDPA基带决定)
-  - Micro-B [USB](https://zh.wikipedia.org/wiki/Micro-USB "wikilink")
-    PC/充电器连接
+  - 网络支持：[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")/[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink") 2100/1900/850/800 MHz、[GSM](../Page/GSM.md "wikilink")/[GPRS](../Page/GPRS.md "wikilink")/[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink") 1900/1800/900/850MHz或[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")/[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink") 2100/1700/900MHz和[GSM](../Page/GSM.md "wikilink")/[GPRS](../Page/GPRS.md "wikilink")/[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink") 1900/1800/900/850 MHz(由提供商的UMTS/HSDPA基带决定)
+  - Micro-B [USB](https://zh.wikipedia.org/wiki/Micro-USB "wikilink") PC/充电器连接
   - 操作系统： Blackberry OS 6.0
 
 9780与9700的参数相同，唯一明显的不同是摄像头和机身内存。
@@ -296,19 +259,12 @@ Flash<br />
 ## 外部链接
 
   - [BlackBerry](http://www.blackberry.com/)
-  - [BlackBerry
-    Bold](https://web.archive.org/web/20080902081611/http://www.blackberry.com/blackberrybold/)
-    (Official site)
-  - [BlackBerry
-    Bold 9700](https://web.archive.org/web/20100224071539/http://na.blackberry.com/eng/devices/blackberrybold9700/)
-    (Official site)
+  - [BlackBerry Bold](https://web.archive.org/web/20080902081611/http://www.blackberry.com/blackberrybold/) (Official site)
+  - [BlackBerry Bold 9700](https://web.archive.org/web/20100224071539/http://na.blackberry.com/eng/devices/blackberrybold9700/) (Official site)
 
-[Category:黑莓手機](https://zh.wikipedia.org/wiki/Category:黑莓手機 "wikilink")
-[Category:个人数码助理](https://zh.wikipedia.org/wiki/Category:个人数码助理 "wikilink")
+[Category:黑莓手機](https://zh.wikipedia.org/wiki/Category:黑莓手機 "wikilink") [Category:个人数码助理](https://zh.wikipedia.org/wiki/Category:个人数码助理 "wikilink")
 
-1.  [MobiTV turns on Mobi4BIZ - Fierce
-    Wireless](http://www.fiercewireless.com/ctialive/story/mobitv-turns-mobi4biz/2008-09-10)
-
+1.  [MobiTV turns on Mobi4BIZ - Fierce Wireless](http://www.fiercewireless.com/ctialive/story/mobitv-turns-mobi4biz/2008-09-10)
 
 2.  <http://reviews.cnet.com/smartphones/rim-blackberry-bold-at/4505-6452_7-33016450.html?tag=TOCrightColumn.0>
 
@@ -317,5 +273,4 @@ Flash<br />
 4.
 5.
 
-6.  [BlackBerry 9900/9930 Phone
-    Specifications](http://ca.blackberry.com/smartphones/blackberry-bold-9900-9930/#!phone-specifications)
+6.  [BlackBerry 9900/9930 Phone Specifications](http://ca.blackberry.com/smartphones/blackberry-bold-9900-9930/#!phone-specifications)

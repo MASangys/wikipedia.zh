@@ -1,13 +1,10 @@
-**DaizyStripper**是來自日本的[視覺系搖滾樂團](../Page/視覺系.md "wikilink")。暱稱為「**DAIZY**」。
+**DaizyStripper**是來自日本的[視覺系](../Page/視覺系.md "wikilink")搖滾樂團。暱稱為「**DAIZY**」。
 
 ## 樂團簡介
 
 以まゆ為中心人物，於2007年3月組團。在成團階段時原本是まゆ和Rei等人在考慮組團一事，此時夕霧前來觀賞まゆ之前所屬的樂團「Clavier」表演的，まゆ相當喜歡夕霧的歌聲，之後遂而成團。樂團的創作概念是創作能夠確實在人們耳中迴響的音樂。\[1\]樂團歌曲的特色是主唱夕霧的高音以及搶眼的旋律。
 
-同年6月5日，樂團開始在LIVE
-HOUSE演唱，並於8月23日發行首張單曲「蒲公英（ダンデライオン）」，隨後發行的單曲也慢慢進入了Oricon獨立音樂排行榜的前三名，並於2008年參加了名為「hide
-memorial summit」的活動\[2\]，之後甚至和[the
-Underneath兩團一同到美國舉辦演唱會](https://zh.wikipedia.org/wiki/the_Underneath "wikilink")。樂團並於2011年舉辦在臺灣舉辦首次的海外演唱會。
+同年6月5日，樂團開始在LIVE HOUSE演唱，並於8月23日發行首張單曲「蒲公英（ダンデライオン）」，隨後發行的單曲也慢慢進入了Oricon獨立音樂排行榜的前三名，並於2008年參加了名為「hide memorial summit」的活動\[2\]，之後甚至和[the Underneath兩團一同到美國舉辦演唱會](https://zh.wikipedia.org/wiki/the_Underneath "wikilink")。樂團並於2011年舉辦在臺灣舉辦首次的海外演唱會。
 
 ## 樂團成員
 
@@ -25,7 +22,7 @@ Underneath兩團一同到美國舉辦演唱會](https://zh.wikipedia.org/wiki/th
       - 樂團的團長，站位為舞台的左側。
       - 和風弥及Rei高中時同校。
       - 暱稱為**まゆぽん**（mayuppon）。
-      - 曾擔任[T.M.Revolution的支援樂手](../Page/T.M.Revolution.md "wikilink")。
+      - 曾擔任[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")的支援樂手。
       - 有一個弟弟。
       - 過去曾參加過的樂團：Clavier → DaizyStripper（現在）
 
@@ -34,13 +31,12 @@ Underneath兩團一同到美國舉辦演唱會](https://zh.wikipedia.org/wiki/th
   - **吉他手：なお（nao）**
       - 1月30日生，O型。
       - 站位為舞台的右側。
-      - 曾和まゆ一起擔任[T.M.Revolution的支援樂手](../Page/T.M.Revolution.md "wikilink")。
+      - 曾和まゆ一起擔任[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")的支援樂手。
       - 有一個姊姊。
       - 過去曾參加過的樂團：PuNクレア → TRiCK → DaizyStripper（現在）
       - 常常和夕霧一起欺負風弥。
       - 在演唱會上演奏「decade」（收錄於專輯[BIRTH](../Page/BIRTH.md "wikilink")）這首歌時，每次都會和夕霧親吻。
-      - 於專輯[BLESS中收錄的](../Page/BLESS.md "wikilink")「Purple
-        Candy」一曲是他首次嘗試作詞的曲子。
+      - 於專輯[BLESS](../Page/BLESS.md "wikilink")中收錄的「Purple Candy」一曲是他首次嘗試作詞的曲子。
 
 <!-- end list -->
 
@@ -81,8 +77,7 @@ Underneath兩團一同到美國舉辦演唱會](https://zh.wikipedia.org/wiki/th
 8.  **月に銃声**（2011年9月7日）- Oricon排行榜周榜第26名，Oricon獨立音樂排行榜周榜第2名
 9.  **切望のフリージア**（2011年11月2日）
       - 日本動畫「遊☆戯☆王ZEXAL」的片尾曲。
-10. **東京ホライズン-Day\&Day-**（2012年12月12日）-
-    Oricon排行榜周榜第21名，Oricon獨立音樂排行榜周榜第2名
+10. **東京ホライズン-Day\&Day-**（2012年12月12日）- Oricon排行榜周榜第21名，Oricon獨立音樂排行榜周榜第2名
 11. **STARGAZER**（2013年5月15日）- Oricon排行榜周榜第19名
 12. **MISSING**（2013年6月12日）- Oricon排行榜周榜第15名
 13. **嘘と陽炎**（2013年7月17日）- Oricon排行榜周榜第11名
@@ -120,28 +115,20 @@ Underneath兩團一同到美國舉辦演唱會](https://zh.wikipedia.org/wiki/th
 
 ### 合輯作品
 
-1.  **CRUSH\! -90's V-Rock best hit cover songs-** （2011年1月26日） -
-    翻唱「[With-you](https://zh.wikipedia.org/wiki/With-you "wikilink")」一曲。
-2.  **V.A.-Counteraction -V-Rock covered Visual Anime-**-
-    翻唱「[SID](https://zh.wikipedia.org/wiki/SID "wikilink")-モノクロのキス」一曲。
+1.  **CRUSH\! -90's V-Rock best hit cover songs-** （2011年1月26日） - 翻唱「[With-you](https://zh.wikipedia.org/wiki/With-you "wikilink")」一曲。
+2.  **V.A.-Counteraction -V-Rock covered Visual Anime-**- 翻唱「[SID](https://zh.wikipedia.org/wiki/SID "wikilink")-モノクロのキス」一曲。
 
 ### DVD
 
-1.  **CROSSTRIP 2008.0909.LIVE In 高田馬場AREA**（2009年9月9日）- Oricon
-    DVD銷售排行榜第16名。
+1.  **CROSSTRIP 2008.0909.LIVE In 高田馬場AREA**（2009年9月9日）- Oricon DVD銷售排行榜第16名。
 2.  **SIX BLESS 2011.08.21 in SHIBUYA-AX**（2012年3月14日）
 3.  **“DREAMER”2012.06.03 in 渋谷公会堂**（2012年12月12日）
 
 ### 廣播節目
 
 1.  [CBCラジオ](https://zh.wikipedia.org/wiki/CBCラジオ "wikilink")　[｢DaizyStripperうさぎの夜遊び｣](https://zh.wikipedia.org/wiki/｢DaizyStripperうさぎの夜遊び｣ "wikilink")　毎週六　24:00～24:30　ON-AIR　https://web.archive.org/web/20120315160634/http://www.hicbc.com/radio/teensnight/daizystripper/index.htm
-2.  [FM
-    NACK5（埼玉79.5MHz）](https://zh.wikipedia.org/wiki/FM_NACK5（埼玉79.5MHz） "wikilink")　
-    [｢Peeping
-    Daizy｣](https://zh.wikipedia.org/wiki/｢Peeping_Daizy｣ "wikilink")　毎週五　19:15-19:25　ON-AIR　https://web.archive.org/web/20110629010026/http://www.nack5.co.jp/sc/daizy/index.html
-3.  [聴くスカパー！STAR
-    digio](https://zh.wikipedia.org/wiki/聴くスカパー！STAR_digio "wikilink")　　[｢DaizyStripper×B.P.M.｣](https://zh.wikipedia.org/wiki/｢DaizyStripper×B.P.M.｣ "wikilink")　毎週一　23:00～23:30
-    \[重播:隔週一14:00～14:30、17:00～17:30、21:00～21:30\]　ON-AIR　https://web.archive.org/web/20110202234717/http://www.stardigio.com/station400/digipop_mon1.html
+2.  [FM NACK5（埼玉79.5MHz）](https://zh.wikipedia.org/wiki/FM_NACK5（埼玉79.5MHz） "wikilink")　 [｢Peeping Daizy｣](https://zh.wikipedia.org/wiki/｢Peeping_Daizy｣ "wikilink")　毎週五　19:15-19:25　ON-AIR　https://web.archive.org/web/20110629010026/http://www.nack5.co.jp/sc/daizy/index.html
+3.  [聴くスカパー！STAR digio](https://zh.wikipedia.org/wiki/聴くスカパー！STAR_digio "wikilink")　　[｢DaizyStripper×B.P.M.｣](https://zh.wikipedia.org/wiki/｢DaizyStripper×B.P.M.｣ "wikilink")　毎週一　23:00～23:30 \[重播:隔週一14:00～14:30、17:00～17:30、21:00～21:30\]　ON-AIR　https://web.archive.org/web/20110202234717/http://www.stardigio.com/station400/digipop_mon1.html
 
 ## Frantic EMIRY
 
@@ -169,10 +156,7 @@ DaizyStripper成員組成的另一個樂團，於2010年3月發行第一張單�
   - [官方網站](http://www.daizystripper.com/)
   - [Frantic EMIRY官方網站](http://franticemiry.com/)
 
-[Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink")
-[Category:日本前衛搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本前衛搖滾樂團 "wikilink")
+[Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink") [Category:日本前衛搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本前衛搖滾樂團 "wikilink")
 
-1.  [So-net Music VISUAL: DaizyStripper
-    インタビュー](http://v-rock.blog.so-net.ne.jp/interview08_46_1)
-
+1.  [So-net Music VISUAL: DaizyStripper インタビュー](http://v-rock.blog.so-net.ne.jp/interview08_46_1)
 2.  [hide-city](http://www.hide-city.com/mcontents/special/080407_summit/)

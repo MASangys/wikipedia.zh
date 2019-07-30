@@ -1,20 +1,14 @@
-《**Marry
-Me**》是韓國歌手[金賢重的首張個人數位單曲](../Page/金賢重.md "wikilink")，於2011年12月15日推出\[1\]，由[CJ
-E\&M發行](../Page/CJ_E&M.md "wikilink")。
+《**Marry Me**》是韓國歌手[金賢重](../Page/金賢重.md "wikilink")的首張個人數位單曲，於2011年12月15日推出\[1\]，由[CJ E\&M發行](../Page/CJ_E&M.md "wikilink")。
 
 ## 概述
 
-  - 本作為2011年末的寒冬,金賢重作為獻給歌迷們的特別禮物。此單曲收錄的兩首歌曲都是在描述一對戀人結婚的故事和感覺，屬於抒情曲。其中「**Marry
-    Me**」是以男生的角度出發，是一首透過甜蜜的嗓音和淡淡的吉他演奏打造的歌曲。並且這次的新專輯中,金賢重親自參予寫詞,透過承諾愛情永遠不變的歌詞,向粉絲們表達了自己的真心。尤其,專輯還一同收錄了比「**Marry
-    Me**」更加柔軟更加細膩的充滿女性感想版本的「**Marry
-    You**」包含了男女心情上不同的深刻體現。雖然歌詞相同，但利用演奏手法和編曲，演繹出不同的感覺。金賢重這次專輯的主題就是為了重溫“粉絲”的意味,11月透過官網進行了《一生中最幸福的瞬間》的照片徵集活動。在總共1000多張的照片中,選出粉絲最幸福的樣子,並透過MV公開出來，MV則使用唯美的沙畫拍攝手法顯示出歌詞中甜蜜的結婚告白。
+  - 本作為2011年末的寒冬,金賢重作為獻給歌迷們的特別禮物。此單曲收錄的兩首歌曲都是在描述一對戀人結婚的故事和感覺，屬於抒情曲。其中「**Marry Me**」是以男生的角度出發，是一首透過甜蜜的嗓音和淡淡的吉他演奏打造的歌曲。並且這次的新專輯中,金賢重親自參予寫詞,透過承諾愛情永遠不變的歌詞,向粉絲們表達了自己的真心。尤其,專輯還一同收錄了比「**Marry Me**」更加柔軟更加細膩的充滿女性感想版本的「**Marry You**」包含了男女心情上不同的深刻體現。雖然歌詞相同，但利用演奏手法和編曲，演繹出不同的感覺。金賢重這次專輯的主題就是為了重溫“粉絲”的意味,11月透過官網進行了《一生中最幸福的瞬間》的照片徵集活動。在總共1000多張的照片中,選出粉絲最幸福的樣子,並透過MV公開出來，MV則使用唯美的沙畫拍攝手法顯示出歌詞中甜蜜的結婚告白。
 
 ## 曲目
 
 ## 成績
 
-  - 2011年12月15日，《Marry Me》音源在網上正式公開，公開同時即包下Bugs、Mnet 和Soribada
-    等各大線上音樂網站的即時音源排行1位。
+  - 2011年12月15日，《Marry Me》音源在網上正式公開，公開同時即包下Bugs、Mnet 和Soribada 等各大線上音樂網站的即時音源排行1位。
 
 ### 排名
 
@@ -64,8 +58,7 @@ E\&M發行](../Page/CJ_E&M.md "wikilink")。
   - [金賢重官方YOUTUBE頻道](http://www.youtube.com/kimhyunjoong606)
   - [SS501韓國官方網站](https://web.archive.org/web/20060518205215/http://ss501.dspenter.com/)
 
-[Category:金賢重歌曲](https://zh.wikipedia.org/wiki/Category:金賢重歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
+[Category:金賢重歌曲](https://zh.wikipedia.org/wiki/Category:金賢重歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
 
 1.  [1](http://hyun-joong.com/bbs/view.asp?idx=29030&code=press&searchopt=&searchkey=&category=&page=2)
 

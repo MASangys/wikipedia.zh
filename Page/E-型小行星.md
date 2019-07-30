@@ -12,9 +12,7 @@
 
 ## 參考資料
 
-[Category:小行星光譜分類](https://zh.wikipedia.org/wiki/Category:小行星光譜分類 "wikilink")
-[Category:E-型小行星](https://zh.wikipedia.org/wiki/Category:E-型小行星 "wikilink")
-[Category:X-型小行星](https://zh.wikipedia.org/wiki/Category:X-型小行星 "wikilink")
+[Category:小行星光譜分類](https://zh.wikipedia.org/wiki/Category:小行星光譜分類 "wikilink") [Category:E-型小行星](https://zh.wikipedia.org/wiki/Category:E-型小行星 "wikilink") [Category:X-型小行星](https://zh.wikipedia.org/wiki/Category:X-型小行星 "wikilink")
 
 1.
 2.

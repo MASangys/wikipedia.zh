@@ -1,5 +1,4 @@
-**Tarjan算法** （以發現者[Robert
-Tarjan](../Page/羅伯特·塔揚.md "wikilink")\[1\]命名）是一個在[圖中尋找](https://zh.wikipedia.org/wiki/圖 "wikilink")[強連通分量的算法](https://zh.wikipedia.org/wiki/強連通分量 "wikilink")。雖然發表時間更早，它仍可以被視為[Kosaraju算法的一個改進](../Page/Kosaraju算法.md "wikilink")。它的效率跟差不多。
+**Tarjan算法** （以發現者[Robert Tarjan](../Page/羅伯特·塔揚.md "wikilink")\[1\]命名）是一個在[圖中尋找](https://zh.wikipedia.org/wiki/圖 "wikilink")[強連通分量的算法](https://zh.wikipedia.org/wiki/強連通分量 "wikilink")。雖然發表時間更早，它仍可以被視為[Kosaraju算法](../Page/Kosaraju算法.md "wikilink")的一個改進。它的效率跟差不多。
 
 ## 概述
 
@@ -13,8 +12,7 @@ Tarjan](../Page/羅伯特·塔揚.md "wikilink")\[1\]命名）是一個在[圖�
 
 算法的關鍵在於如何判定某節點是否是強連通分量的根。注意“強連通分量的根”這一說法僅針對此算法，事實上強連通分量是沒有特定的“根”的。在這裡根節點指深度優先搜索時強連通分量中首個被訪問的節點。
 
-為找到根節點，我們給每個節點`v`一個深度優先搜索標號`v.index`，表示它是第幾個被訪問的節點。此外，每個節點`v`還有一個值`v.lowlink`，表示從`v`出發經有向邊可到達的所有節點中最小的`index`。顯然`v.lowlink`總是不大於`v.index`，且當從`v`出發經有向邊不能到達其他節點時，這兩個值相等。
-`v.lowlink`在深度優先搜索的過程中求得，`v`是強連通分量的根當且僅當`v.lowlink = v.index`。
+為找到根節點，我們給每個節點`v`一個深度優先搜索標號`v.index`，表示它是第幾個被訪問的節點。此外，每個節點`v`還有一個值`v.lowlink`，表示從`v`出發經有向邊可到達的所有節點中最小的`index`。顯然`v.lowlink`總是不大於`v.index`，且當從`v`出發經有向邊不能到達其他節點時，這兩個值相等。 `v.lowlink`在深度優先搜索的過程中求得，`v`是強連通分量的根當且僅當`v.lowlink = v.index`。
 
 ## 偽代碼
 
@@ -37,8 +35,7 @@ Tarjan](../Page/羅伯特·塔揚.md "wikilink")\[1\]命名）是一個在[圖�
 `     `*`S`*`.push(`*`v`*`)`
 ` `
 `     `*`//``   ``考虑节点v的后继节点`*
-`     `**`for``
- ``each`**` (`*`v`*`, `*`w`*`) `**`in`**` `*`E`*` `**`do`**
+`     `**`for``   ``each`**` (`*`v`*`, `*`w`*`) `**`in`**` `*`E`*` `**`do`**
 `       `**`if`**` (`*`w`*`.index is undefined) `**`then`**
 `         `*`//``   ``后继节点w未访问，递归调用`*
 `         strongconnect(`*`w`*`)`
@@ -59,11 +56,9 @@ Tarjan](../Page/羅伯特·塔揚.md "wikilink")\[1\]命名）是一個在[圖�
 `     `**`end``   ``if`**
 `   `**`end``   ``function`**
 
-變量`index`是深度優先搜索的節點計數器。
-`S`是堆疊，初始為空，用於存儲已經訪問但未被判定屬於任一強連通分量的節點。注意這並非一個一般深度優先搜索的堆疊，節點不是在以它為根的子樹搜索完成後出堆疊，而是在整個強連通分量被找到時。
+變量`index`是深度優先搜索的節點計數器。 `S`是堆疊，初始為空，用於存儲已經訪問但未被判定屬於任一強連通分量的節點。注意這並非一個一般深度優先搜索的堆疊，節點不是在以它為根的子樹搜索完成後出堆疊，而是在整個強連通分量被找到時。
 
-最外層循環用於查找未訪問的節點，以保證所有節點最終都會被訪問。
-`strongconnect`進行一次深度優先搜索，並找到節點`v`的後繼節點構成的子圖中所有的強連通分量。
+最外層循環用於查找未訪問的節點，以保證所有節點最終都會被訪問。 `strongconnect`進行一次深度優先搜索，並找到節點`v`的後繼節點構成的子圖中所有的強連通分量。
 
 當一個節點完成遞迴時，若它的`lowlink`仍等於`index`，那麼​​它就是強連通分量的根。算法將在此節點之後入堆疊（包含此節點）且仍在堆疊中的節點出堆疊，並作為一個強連通分量輸出。
 
@@ -81,9 +76,7 @@ Tarjan](../Page/羅伯特·塔揚.md "wikilink")\[1\]命名）是一個在[圖�
 
   - [BYVoid對Tarjan算法的講解](http://www.byvoid.com/blog/scc-tarjan/)
 
-[Category:圖算法](https://zh.wikipedia.org/wiki/Category:圖算法 "wikilink")
-[Category:圖的連通性](https://zh.wikipedia.org/wiki/Category:圖的連通性 "wikilink")
-[Category:图论](https://zh.wikipedia.org/wiki/Category:图论 "wikilink")
+[Category:圖算法](https://zh.wikipedia.org/wiki/Category:圖算法 "wikilink") [Category:圖的連通性](https://zh.wikipedia.org/wiki/Category:圖的連通性 "wikilink") [Category:图论](https://zh.wikipedia.org/wiki/Category:图论 "wikilink")
 
 1.
 2.

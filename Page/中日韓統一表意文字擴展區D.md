@@ -1,5 +1,4 @@
-**中日韓統一表意文字擴展區D**（）是一個[Unicode標準](https://zh.wikipedia.org/wiki/Unicode "wikilink")，在於2010年發布Unicode
-6.0中被引入。
+**中日韓統一表意文字擴展區D**（）是一個[Unicode標準](https://zh.wikipedia.org/wiki/Unicode "wikilink")，在於2010年發布Unicode 6.0中被引入。
 
 擴充D區收入222個漢字，編碼範圍為 U+2B740-U+2B81F。
 
@@ -16,8 +15,7 @@
   - 台灣：[教育部閩客方言用字](../Page/中華民國教育部.md "wikilink")
       - TB：CNS 11643-2007 第11平面24字（閩客方言用字）
   - 日本：
-      - JH：Hanyo-Denshi Program
-        （）108字（[日本經濟產業省提出的人名和地名用字](https://zh.wikipedia.org/wiki/日本經濟產業省 "wikilink")）
+      - JH：Hanyo-Denshi Program （）108字（[日本經濟產業省提出的人名和地名用字](https://zh.wikipedia.org/wiki/日本經濟產業省 "wikilink")）
   - UTC：Unicode technical report \#45
       - UTC：19字
 
@@ -35,8 +33,6 @@
 
 {{-}}
 
-[Category:CJK](https://zh.wikipedia.org/wiki/Category:CJK "wikilink")
-[Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
+[Category:CJK](https://zh.wikipedia.org/wiki/Category:CJK "wikilink") [Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
 
-1.  [IRG N 1306: Request to Withdraw 6545 T-Source from CJK D
-    candidate](http://appsrv.cse.cuhk.edu.hk/~irg/irg/irg28/IRGN1306_TCA_Withdrawal_from_D.pdf)
+1.  [IRG N 1306: Request to Withdraw 6545 T-Source from CJK D candidate](http://appsrv.cse.cuhk.edu.hk/~irg/irg/irg28/IRGN1306_TCA_Withdrawal_from_D.pdf)

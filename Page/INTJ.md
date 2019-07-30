@@ -1,5 +1,4 @@
-[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**INTJ**（內向／直覺／思考／判斷）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")**[原创者](https://zh.wikipedia.org/wiki/原创者_\(角色变异\) "wikilink")**，属于[理性者的四种类型之一](https://zh.wikipedia.org/wiki/理性者_\(气质类型\) "wikilink")。\[1\]
+[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg") **INTJ**（內向／直覺／思考／判斷）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")**[原创者](https://zh.wikipedia.org/wiki/原创者_\(角色变异\) "wikilink")**，属于[理性者的四种类型之一](https://zh.wikipedia.org/wiki/理性者_\(气质类型\) "wikilink")。\[1\]
 
 INTJ是十六种人格类型中最稀有的类型，约占女性人口比例0.8%，男性人口比例1.2%。\[2\]\[3\]
 
@@ -12,7 +11,7 @@ INTJ是十六种人格类型中最稀有的类型，约占女性人口比例0.8%
 
 ## 特征
 
-INTJ们是善于分析的。和INTP们一样，他们单独工作的时候最轻松，而且倾向于比其它类型更不那么社交性。然而，在檯面上没有任何人適合人選或當他們查覺目前的領袖存在致命弱點時，INTJ隨時準備好成為領袖。INTJ倾向于[实用主义](../Page/实用主义.md "wikilink")、[逻辑性和创造性](../Page/逻辑.md "wikilink")。他们很难容忍激烈或戏剧性的[感情主义](https://zh.wikipedia.org/wiki/感情主义 "wikilink")。他们一般不受世俗言論的影響，也不欣然認可來自傳統、階级或頭銜賦與的威權。
+INTJ们是善于分析的。和INTP们一样，他们单独工作的时候最轻松，而且倾向于比其它类型更不那么社交性。然而，在檯面上没有任何人適合人選或當他們查覺目前的領袖存在致命弱點時，INTJ隨時準備好成為領袖。INTJ倾向于[实用主义](../Page/实用主义.md "wikilink")、[逻辑](../Page/逻辑.md "wikilink")性和创造性。他们很难容忍激烈或戏剧性的[感情主义](https://zh.wikipedia.org/wiki/感情主义 "wikilink")。他们一般不受世俗言論的影響，也不欣然認可來自傳統、階级或頭銜賦與的威權。
 
 INTJ的特點包括思考上的独立和對效率的渴求。当他们有自主权和创造的自由时他们做得最好。他们心怀一种天生的欲望：通过概念化自己的智力成果来表达自己。他们具备分析和简洁表达复杂概念的才华。INTJ一般適合在學術、研究、諮商、管理、科学和法律方面的工作。他们通常能敏锐地了解自身的知识水平和能力——包括自身的局限以及意识到什么是自己「不知道」的（这种特質将他们和INTP区分开来）。因此INTJ发展出一种对自己能力和才华强烈的自信，使他们成为天生的领导者。
 
@@ -72,8 +71,7 @@ Si收集关于当下的数据，然后把它们和过去的经验比较，这过
   - [TypeLogic INTJ](http://typelogic.com/intj.html)
   - [INTJ Central](http://intjcentral.com/)
   - [豆瓣INTJ小组](http://www.douban.com/group/intj/)
-  - [Personality Page:
-    Scientist](http://www.personalitypage.com/INTJ.html)
+  - [Personality Page: Scientist](http://www.personalitypage.com/INTJ.html)
   - [INTJ](http://www.systemsthinker.com/interests/mind/intj.shtml)
 
 [Category:性格分類](https://zh.wikipedia.org/wiki/Category:性格分類 "wikilink")

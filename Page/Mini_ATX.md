@@ -1,8 +1,4 @@
-Mini-ATX是由建碁[AOpen Inc.](https://zh.wikipedia.org/wiki/AOpen "wikilink")
-所研發之15 x 15 cm (5.9 x
-5.9英吋)的主機板規格。Mini-ATX比[Mini-ITX](../Page/Mini-ITX.md "wikilink")略小。Mini-ATX主機板是經由MoDT
-(Mobile on Desktop
-Technology)技術，搭配筆記型低功耗與低廢熱CPU達成小型化卻又不失效能之目的。因此非常適合家庭戲院電腦(HTPC)之應用以及車用電腦等工業級應用。
+Mini-ATX是由建碁[AOpen Inc.](https://zh.wikipedia.org/wiki/AOpen "wikilink") 所研發之15 x 15 cm (5.9 x 5.9英吋)的主機板規格。Mini-ATX比[Mini-ITX](../Page/Mini-ITX.md "wikilink")略小。Mini-ATX主機板是經由MoDT (Mobile on Desktop Technology)技術，搭配筆記型低功耗與低廢熱CPU達成小型化卻又不失效能之目的。因此非常適合家庭戲院電腦(HTPC)之應用以及車用電腦等工業級應用。
 
 ## 特色
 
@@ -28,14 +24,9 @@ Mini-ATX規格可應用於一般消費者與應用市場。隨著與日俱增的
 
 ## 歷史
 
-藉由MoDT的概念，AOpen希望發展出使用筆記型CPU的桌上型電腦主機板來達到小體積與低功耗的桌上型電腦，這個概念得到Intel的支持與協助。經過兩年的的研發，第一部採用Mini-ATX主機板的產品成功上市，也就是在2005年上市的XC
-mini MP915。這個系列原本名為mini PC不過因為mini PC不能註冊為商標，所以在2007年改為XC
-mini。借由小型化的Mini-ATX主機板之助，XC mini系列的主機大小只有165(寬) x 50(高) x
-165(深) mm，是為世界上最小的桌上型電腦。
+藉由MoDT的概念，AOpen希望發展出使用筆記型CPU的桌上型電腦主機板來達到小體積與低功耗的桌上型電腦，這個概念得到Intel的支持與協助。經過兩年的的研發，第一部採用Mini-ATX主機板的產品成功上市，也就是在2005年上市的XC mini MP915。這個系列原本名為mini PC不過因為mini PC不能註冊為商標，所以在2007年改為XC mini。借由小型化的Mini-ATX主機板之助，XC mini系列的主機大小只有165(寬) x 50(高) x 165(深) mm，是為世界上最小的桌上型電腦。
 
-在2006年AOpen推出了第一部使用Mini-ATX主機板的應用型電腦\[數位引擎\] (DE-945FX)系列。在1
-DIN大小的尺寸中搭配Intel的CPU，讓數位引擎成為相當受歡迎的應用型電腦\[1\]特別是在車用電腦（台灣三菱汽車）、飛航資訊系統([SFO](https://zh.wikipedia.org/wiki/SFO "wikilink"),
-美國洛杉磯機場)等。近年來數位引擎與Mini-ATX主機板大量應用在KIOSK、[數位電子看板](https://zh.wikipedia.org/wiki/數位電子看板 "wikilink")、POS、醫療用電腦與保全系統等。
+在2006年AOpen推出了第一部使用Mini-ATX主機板的應用型電腦\[數位引擎\] (DE-945FX)系列。在1 DIN大小的尺寸中搭配Intel的CPU，讓數位引擎成為相當受歡迎的應用型電腦\[1\]特別是在車用電腦（台灣三菱汽車）、飛航資訊系統([SFO](https://zh.wikipedia.org/wiki/SFO "wikilink"), 美國洛杉磯機場)等。近年來數位引擎與Mini-ATX主機板大量應用在KIOSK、[數位電子看板](https://zh.wikipedia.org/wiki/數位電子看板 "wikilink")、POS、醫療用電腦與保全系統等。
 
 ## 參考資料
 
@@ -43,8 +34,7 @@ DIN大小的尺寸中搭配Intel的CPU，讓數位引擎成為相當受歡迎的
 
 ## 外部連結
 
-  - AOpen XC mini
-    products:<https://web.archive.org/web/20091220042856/http://global.aopen.com/Products.aspx?id=74>
+  - AOpen XC mini products:<https://web.archive.org/web/20091220042856/http://global.aopen.com/Products.aspx?id=74>
   - AOpen 應用平台 <http://vip.aopen.com>
 
 [Category:主機板規格](https://zh.wikipedia.org/wiki/Category:主機板規格 "wikilink")

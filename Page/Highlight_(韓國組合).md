@@ -1,15 +1,12 @@
-**Highlight**（）是韓國的男子團體，原團名為**BEAST**。現任成員有尹斗俊、梁耀燮、李起光、孫東雲，首張迷你專輯《Beast
-is the B2ST》於2009年10月14日發行，2009年10月16日正式出道。
+**Highlight**（）是韓國的男子團體，原團名為**BEAST**。現任成員有尹斗俊、梁耀燮、李起光、孫東雲，首張迷你專輯《Beast is the B2ST》於2009年10月14日發行，2009年10月16日正式出道。
 
-BEAST時期，成員原本為六人，2016年4月19日所屬經紀公司[Cube娛樂發佈成員](../Page/Cube娛樂.md "wikilink")[張賢勝退出BEAST](../Page/張賢勝.md "wikilink")，正式以Solo歌手的身分活動。
+BEAST時期，成員原本為六人，2016年4月19日所屬經紀公司[Cube娛樂](../Page/Cube娛樂.md "wikilink")發佈成員[張賢勝](../Page/張賢勝.md "wikilink")退出BEAST，正式以Solo歌手的身分活動。
 
-2016年12月16日，[尹斗俊](../Page/尹斗俊.md "wikilink")、[龍俊亨](../Page/龍俊亨.md "wikilink")、
-[梁耀燮](../Page/梁耀燮.md "wikilink")、[李起光](../Page/李起光.md "wikilink")、[孫東雲合約到期](../Page/孫東雲.md "wikilink")，未與Cube娛樂續約，五人公佈成立經紀公司[Around
-US](../Page/Around_US娛樂.md "wikilink") 娛樂。
+2016年12月16日，[尹斗俊](../Page/尹斗俊.md "wikilink")、[龍俊亨](../Page/龍俊亨.md "wikilink")、 [梁耀燮](../Page/梁耀燮.md "wikilink")、[李起光](../Page/李起光.md "wikilink")、[孫東雲](../Page/孫東雲.md "wikilink")合約到期，未與Cube娛樂續約，五人公佈成立經紀公司[Around US](../Page/Around_US娛樂.md "wikilink") 娛樂。
 
 2017年2月24日，所屬社Around US官方表示組合將以全新的名字「**Highlight**」展開活動。
 
-2019年3月14日，俊亨捲入鄭俊英群組事件，雖然並沒有參與於群組中，但因過去在kakaotalk一對一單獨房裡未及時出聲制止，為了保護Hightlight名聲，俊亨在[Instagram發文退出團體](../Page/Instagram.md "wikilink")，公司隨後發出聲明表示尊重並宣布俊亨退出組合。
+2019年3月14日，俊亨捲入鄭俊英群組事件，雖然並沒有參與於群組中，但因過去在kakaotalk一對一單獨房裡未及時出聲制止，為了保護Hightlight名聲，俊亨在[Instagram](../Page/Instagram.md "wikilink")發文退出團體，公司隨後發出聲明表示尊重並宣布俊亨退出組合。
 
 兵役: 因應兵役法修改，提前至2018年8月至2019年5月，全員入伍。2020年12月，全員役畢。
 
@@ -19,10 +16,7 @@ US](../Page/Around_US娛樂.md "wikilink") 娛樂。
 
 #### BEAST時期
 
-團體名字原定為B2ST，寓意為Boys To Search for
-Top，出道前更名為BEAST（韓語：비스트；2014年起另作∀ΔΣ），寓意為Boys
-of East Standing Tall，成員們亦在一次訪問中提到起名為「BEAST」是因為出道前一名舞蹈導師稱讚他們舞蹈「So
-BEAST\!」，意思即「真帥！」
+團體名字原定為B2ST，寓意為Boys To Search for Top，出道前更名為BEAST（韓語：비스트；2014年起另作∀ΔΣ），寓意為Boys of East Standing Tall，成員們亦在一次訪問中提到起名為「BEAST」是因為出道前一名舞蹈導師稱讚他們舞蹈「So BEAST\!」，意思即「真帥！」
 
 #### HIGHLIGHT時期
 
@@ -32,13 +26,11 @@ BEAST\!」，意思即「真帥！」
 
 #### BEAST時期
 
-「B2UTY」(韓語：뷰티)，名稱取於美女與野獸（Beauty and the Beast）應援口號為SO
-BEAST。應援色為深灰色。官方應援物為毛巾和玫瑰手燈。
+「B2UTY」(韓語：뷰티)，名稱取於美女與野獸（Beauty and the Beast）應援口號為SO BEAST。應援色為深灰色。官方應援物為毛巾和玫瑰手燈。
 
 #### HIGHLIGHT時期
 
-6月2日，透過V Live直播，公開新粉絲名為「Light」(韓語：라이트)\[1\]。
-12月15日，公開官方手燈為燈泡手燈\[2\]，在演唱會中由成員與LIGHT共同命名為嗨賴棒(할라봉)\[3\]。
+6月2日，透過V Live直播，公開新粉絲名為「Light」(韓語：라이트)\[1\]。 12月15日，公開官方手燈為燈泡手燈\[2\]，在演唱會中由成員與LIGHT共同命名為嗨賴棒(할라봉)\[3\]。
 
 ### 成員資料
 
@@ -56,10 +48,7 @@ BEAST。應援色為深灰色。官方應援物為毛巾和玫瑰手燈。
 
 ### 成員變遷表
 
-{{\#tag:timeline| ImageSize = width:1000 height:350 PlotArea = width:800
-height:300 left:100 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2009 till:2020 TimeAxis =
-orientation:horizontal format:mm/yyyy
+{{\#tag:timeline| ImageSize = width:1000 height:350 PlotArea = width:800 height:300 left:100 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2009 till:2020 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -211,15 +200,10 @@ LineData =
 
   - <font color=#666>██</font><font color=black>：BEAST時期</font>
   - <font color=black>██</font><font color=black>：服兵役</font>
-  - <font color=#b3bfcc>██</font><font color=black>：BEAST時期專輯發行</font>
-    (直線)
-  - <font color=#cccccc>██</font><font color=black>：HIGHLIGHT時期專輯發行</font>
-    (直線)
-  - <font color=pink>██</font> / <font color=#fcfc99>██</font> /
-    <font color=#b3ed99>██</font> /
-    <font color=#e0ccfc>██</font>：個人實體專輯發行(直線)
-  - <font color=#deb887>██</font><font color=black>：約滿自創Around
-    Us娛樂公司</font> (直線)
+  - <font color=#b3bfcc>██</font><font color=black>：BEAST時期專輯發行</font> (直線)
+  - <font color=#cccccc>██</font><font color=black>：HIGHLIGHT時期專輯發行</font> (直線)
+  - <font color=pink>██</font> / <font color=#fcfc99>██</font> / <font color=#b3ed99>██</font> / <font color=#e0ccfc>██</font>：個人實體專輯發行(直線)
+  - <font color=#deb887>██</font><font color=black>：約滿自創Around Us娛樂公司</font> (直線)
 
 ## 韓國音樂著作權協會登記編號
 
@@ -233,8 +217,7 @@ LineData =
 
 ## 軍隊生活
 
-兵役: 因應兵役法修改，提前2018年下半年\~2019年6月前，全員都會入伍。
-兵役空白期(838天:2018/08/24\~2020/12/08)
+兵役: 因應兵役法修改，提前2018年下半年\~2019年6月前，全員都會入伍。 兵役空白期(838天:2018/08/24\~2020/12/08)
 
 | 成員                               | 兵役種類                          | 服役區間(天數)                      | 新兵訓練所       | 中間訓練           | 部隊地點                    |
 | -------------------------------- | ----------------------------- | ----------------------------- | ----------- | -------------- | ----------------------- |
@@ -276,8 +259,7 @@ LineData =
 
 2.2019年1月24日，於論山訓練所入伍，公開與成員們的合照及親筆手寫信。
 
-3.2019年1月31日，公開入伍後第一封手寫信[10](https://www.instagram.com/p/BtTQmi2Hqgj/?igshid=a69e6l9y212e)，新兵分配為25聯隊8中隊3小隊3分隊167號訓練兵，並擔任該分隊小隊長；2019年2月11日，公開入伍後第二封手寫信[11](https://www.instagram.com/p/Btu5pmmntVD/?igshid=o6nxjz8udas)；2019年2月14日，公開入伍後第三、四封手寫信[12](https://www.instagram.com/p/Bt2zvLRnLpH/?igshid=fscvp631s0lh);2019年4月25日，公開入伍後第五封手寫信[13](https://www.instagram.com/p/BwqrWGPH23n/?igshid=184wv8l0xa7fb)；2019年5月1日，公開入伍後第六封手寫信[14](https://www.instagram.com/p/Bw67JHZH3zu/?igshid=dqogczzphndp)，晉升為一警；2019年5月10日，公開入伍後第七封手寫信[15](https://www.instagram.com/p/BxRo2huAGDO/?igshid=18q2ovodxgj72)；2019年5月17日，公開入伍後第八封手寫信[16](https://www.instagram.com/p/BxjwVTeJLTz/?igshid=1ab5kdwbqy8kh)；
-2019年5月21日，公開入伍後第九封手寫信[17](https://www.instagram.com/p/BxtkmWep3b4/)；2019年5月29日，公開入伍後第十封手寫信[18](https://www.instagram.com/p/ByCGIOypnKz/)。
+3.2019年1月31日，公開入伍後第一封手寫信[10](https://www.instagram.com/p/BtTQmi2Hqgj/?igshid=a69e6l9y212e)，新兵分配為25聯隊8中隊3小隊3分隊167號訓練兵，並擔任該分隊小隊長；2019年2月11日，公開入伍後第二封手寫信[11](https://www.instagram.com/p/Btu5pmmntVD/?igshid=o6nxjz8udas)；2019年2月14日，公開入伍後第三、四封手寫信[12](https://www.instagram.com/p/Bt2zvLRnLpH/?igshid=fscvp631s0lh);2019年4月25日，公開入伍後第五封手寫信[13](https://www.instagram.com/p/BwqrWGPH23n/?igshid=184wv8l0xa7fb)；2019年5月1日，公開入伍後第六封手寫信[14](https://www.instagram.com/p/Bw67JHZH3zu/?igshid=dqogczzphndp)，晉升為一警；2019年5月10日，公開入伍後第七封手寫信[15](https://www.instagram.com/p/BxRo2huAGDO/?igshid=18q2ovodxgj72)；2019年5月17日，公開入伍後第八封手寫信[16](https://www.instagram.com/p/BxjwVTeJLTz/?igshid=1ab5kdwbqy8kh)； 2019年5月21日，公開入伍後第九封手寫信[17](https://www.instagram.com/p/BxtkmWep3b4/)；2019年5月29日，公開入伍後第十封手寫信[18](https://www.instagram.com/p/ByCGIOypnKz/)。
 
 4.2019年2月21日結業式，於警察學校訓練2周後，因結訓成績優秀分配至首爾江東區警察廳防犯巡查隊，隸屬第二機動團319中隊。
 
@@ -287,18 +269,19 @@ LineData =
 
 2.2019年4月18日，起光正式作為義務警察入伍，並公開入伍前親筆手寫信。於論山陸軍訓練所進行為期4週的基礎軍事訓練，進入警察學校接受2-3週的教育後，轉往京畿道南部地方警察廳服役，預計2020年11月18日退伍。
 
-3.2019年4月23日，公布新兵分配為25聯隊3中隊1小隊4分隊41號訓練兵。2019年4月30日，公開入伍後第一封手寫信[19](https://www.instagram.com/p/Bw3xD7NnG0J/?igshid=19wj4zvyfyvm3)；2019年5月2日，公開入伍後第二、三封手寫信[20](https://www.instagram.com/p/Bw8t0F8nrhP/?igshid=15u3fsqiwt3je)；2019年5月13日，公開入伍後第四封手寫信[21](https://www.instagram.com/p/BxZT8jGn-RD/?igshid=1ou2jle1zdz34)；2019年5月15日，公開入伍後第五封手寫信[22](https://www.instagram.com/p/BxeqL8Zp4GJ/?igshid=dp0qfmq7zzzw)；2019年5月16日，公開入伍後第六、七、八封手寫信[23](https://www.instagram.com/p/BxhRN-rpBL4/?igshid=1dv3yq9668yt2)；2019年5月21日，公開入伍後第九封手寫信[24](https://www.instagram.com/p/Bxt0smIpfaD/)；2019年6月3日，公開入伍後第十封手寫信[25](https://www.instagram.com/p/ByPQsh6JrJW/)；2019年6月4日，公開入伍後第十一封手寫信[26](https://www.instagram.com/p/ByR7UchJxb0/?igshid=unm97oikf533)；2019年6月6日，公開入伍後第十二封手寫信[27](https://www.instagram.com/p/ByU1d1pJPFy/)；2019年7月1日，公開入伍後第十三封手寫信[28](https://www.instagram.com/p/BzXfpnTJJcO/)。
+3.2019年4月23日，公布新兵分配為25聯隊3中隊1小隊4分隊41號訓練兵。2019年4月30日，公開入伍後第一封手寫信[19](https://www.instagram.com/p/Bw3xD7NnG0J/?igshid=19wj4zvyfyvm3)；2019年5月2日，公開入伍後第二、三封手寫信[20](https://www.instagram.com/p/Bw8t0F8nrhP/?igshid=15u3fsqiwt3je)；2019年5月13日，公開入伍後第四封手寫信[21](https://www.instagram.com/p/BxZT8jGn-RD/?igshid=1ou2jle1zdz34)；2019年5月15日，公開入伍後第五封手寫信[22](https://www.instagram.com/p/BxeqL8Zp4GJ/?igshid=dp0qfmq7zzzw)；2019年5月16日，公開入伍後第六、七、八封手寫信[23](https://www.instagram.com/p/BxhRN-rpBL4/?igshid=1dv3yq9668yt2)；2019年5月21日，公開入伍後第九封手寫信[24](https://www.instagram.com/p/Bxt0smIpfaD/)；2019年6月3日，公開入伍後第十封手寫信[25](https://www.instagram.com/p/ByPQsh6JrJW/)；2019年6月4日，公開入伍後第十一封手寫信[26](https://www.instagram.com/p/ByR7UchJxb0/?igshid=unm97oikf533)；2019年6月6日，公開入伍後第十二封手寫信[27](https://www.instagram.com/p/ByU1d1pJPFy/)；2019年7月1日，公開入伍後第十三封手寫信[28](https://www.instagram.com/p/BzXfpnTJJcO/)；2019年7月16日，公開入伍後第十四封手寫信[29](https://www.instagram.com/p/Bz9-2SNJrX8/)。
 
 4.2019年5月16日，結業式後進入京畿道高陽軍警學校接受2-3週教育，並擔任學生長。
 
 5.2019年6月4日，確定分配至京畿道南部警察廳水源區防犯巡查隊第二機動團，擔任大型駕駛的義警。
 
+6.2019年7月8日，3週期間至駕駛教育隊學習駕駛巴士及其他軍用車輛。
+
 1.2019年3月8日，東雲第364期義警考試合格，3月12日抽籤合格，將擔任大型駕駛的義警。
 
-2.2019年5月9日，東雲正式作為特技(大型駕駛)義務警察入伍，並公開入伍前親筆手寫信。
-於論山陸軍訓練所進行為期4週的基礎軍事訓練，進入警察學校接受2-3週的教育後，轉往首爾警察廳服役，預計2020年12月8日退伍。
+2.2019年5月9日，東雲正式作為特技(大型駕駛)義務警察入伍，並公開入伍前親筆手寫信。 於論山陸軍訓練所進行為期4週的基礎軍事訓練，進入警察學校接受2-3週的教育後，轉往首爾警察廳服役，預計2020年12月8日退伍。
 
-3.2019年5月14日，公布新兵分配為23聯隊2中隊1小隊1分隊9號訓練兵。2019年5月15日，公開入伍後第一封手寫信[29](https://www.instagram.com/p/BxeqvNXp19w/?igshid=144cax9wot7gu)，並擔任分隊小隊長；2019年5月16日，公開入伍後第二封手寫信[30](https://www.instagram.com/p/BxhScSWJWAp/?igshid=1ano2n0f7ieuh)；2019年5月22日，公開入伍後第三封手寫信[31](https://www.instagram.com/p/BxwymM_Jyst/)；2019年5月23日，公開入伍後第四、五封手寫信[32](https://www.instagram.com/p/BxzAqP1Jw2g/?igshid=zpik2axlgrg9)；2019年5月30日，公開入伍後第六封手寫信[33](https://www.instagram.com/p/ByE7i0xp_g5/)；2019年6月5日，公開入伍後第七封手寫信[34](https://www.instagram.com/p/ByU7xxLJXXi/)；2019年6月11日，公開入伍後第八封手寫信[35](https://www.instagram.com/p/Byj98CKJR-d/?igshid=got04kr6nxas)；2019年6月24日，公開入伍後第九封手寫信[36](https://www.instagram.com/p/BzFVWBxJWqJ/?igshid=guvp6dv1ndpk)。
+3.2019年5月14日，公布新兵分配為23聯隊2中隊1小隊1分隊9號訓練兵。2019年5月15日，公開入伍後第一封手寫信[30](https://www.instagram.com/p/BxeqvNXp19w/?igshid=144cax9wot7gu)，並擔任分隊小隊長；2019年5月16日，公開入伍後第二封手寫信[31](https://www.instagram.com/p/BxhScSWJWAp/?igshid=1ano2n0f7ieuh)；2019年5月22日，公開入伍後第三封手寫信[32](https://www.instagram.com/p/BxwymM_Jyst/)；2019年5月23日，公開入伍後第四、五封手寫信[33](https://www.instagram.com/p/BxzAqP1Jw2g/?igshid=zpik2axlgrg9)；2019年5月30日，公開入伍後第六封手寫信[34](https://www.instagram.com/p/ByE7i0xp_g5/)；2019年6月5日，公開入伍後第七封手寫信[35](https://www.instagram.com/p/ByU7xxLJXXi/)；2019年6月11日，公開入伍後第八封手寫信[36](https://www.instagram.com/p/Byj98CKJR-d/?igshid=got04kr6nxas)；2019年6月24日，公開入伍後第九封手寫信[37](https://www.instagram.com/p/BzFVWBxJWqJ/?igshid=guvp6dv1ndpk)。
 
 4.2019年6月5日，結業式以訓練所的1等成績結業，並且受到陸軍訓練所長的表彰，預計於碧蹄警察學校接受為期3週的培訓後分配部隊。
 
@@ -309,56 +292,39 @@ LineData =
 ### 2010年：Shock of the New Era、Mastermind、Lights Go On Again、My Story
 
   - 年初，以後續曲《Mystery》繼續在音樂節目上演出。成員們還自製此首歌曲的音樂錄影帶，並邀請到[少女時代及](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[KARA成員客串出演](https://zh.wikipedia.org/wiki/KARA "wikilink")。此專輯持續熱銷並賣破40,000張，對一個韓國新人團體來說是少見的一項成就，而且專輯首批20,000張在發行首月便售罄。
-  - 3月1日，發行迷你二輯《Shock of the New
-    Era》，以《Shock》為主打歌。原定發行日是3月2日，但由於Shock提前在[Youtube遭公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")，而將發行日往前提早一天。3月25日，在Mnet的[M\!
-    Countdown上拿下首次音樂節目的冠軍](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
+  - 3月1日，發行迷你二輯《Shock of the New Era》，以《Shock》為主打歌。原定發行日是3月2日，但由於Shock提前在[Youtube遭公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")，而將發行日往前提早一天。3月25日，在Mnet的[M\! Countdown上拿下首次音樂節目的冠軍](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
   - 3月28日起，起光成為MBC《熱血兄弟》固定主持人之一。
-  - 4月，將專輯中的《Easy》改編後以《Easy (Sincere
-    Ver.)》名發行，以弦樂及鋼琴改編，與原曲嘻哈風格及使用電子樂器全然不同。
+  - 4月，將專輯中的《Easy》改編後以《Easy (Sincere Ver.)》名發行，以弦樂及鋼琴改編，與原曲嘻哈風格及使用電子樂器全然不同。
   - 4月10日起，BEAST專屬節目《B2ST Almighty》開始播出。
   - 7月21日起，BEAST專屬節目《Idol Maid》開始播出。
   - 8月10日起，起光成為《[乘勝長驅](../Page/承胜长驱.md "wikilink")》節目固定主持人之一。
   - 9月17日，公開迷你三輯的先行曲《握緊拳頭》，並引起大眾對他們優越歌唱能力的注意\[4\]。
   - 9月28日，發行迷你三輯《[Mastermind](https://zh.wikipedia.org/wiki/Mastermind_\(BEAST專輯\) "wikilink")》\[5\]。
-  - 10月8日，回歸後一周，在KBS的[Music
-    Bank上以歌曲](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")《Breath》首次奪下該音樂節目的第一名。
-  - 11月3日，開放迷你四輯《[Lights Go On
-    Again](../Page/Lights_Go_On_Again.md "wikilink")》的預購\[6\]。
+  - 10月8日，回歸後一周，在KBS的[Music Bank上以歌曲](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")《Breath》首次奪下該音樂節目的第一名。
+  - 11月3日，開放迷你四輯《[Lights Go On Again](../Page/Lights_Go_On_Again.md "wikilink")》的預購\[6\]。
   - 11月8日，該專輯在Mnet音樂榜單上攻占了前五名，以主打歌《Beautiful》拿下第一而其他四首歌曲分別占據2到5位。根據專輯銷售網Hanteo,該專輯相當成功並拿下銷量第一\[7\]。
-  - 11月24日，BEAST的過往專輯在日本推出合輯《Beast– Japan Premium
-    Edition》，發行首周在日本公信榜[Oricon周榜拿下](../Page/Oricon.md "wikilink")13位。
-  - 11月27日，於東京舉辦在日本的首場舞台表演《The Legend of Beast,
-    Vol.1》，成員們搭乘直升機到達現場，也因此能在空中見到歌迷們以人體排列出團名來迎接他們。表演了包含熱門曲《Bad
-    Girl》、《Shock》、《Soom》等9首歌曲，也宣布2011年將會在日本正式出道的計畫\[8\]。
+  - 11月24日，BEAST的過往專輯在日本推出合輯《Beast– Japan Premium Edition》，發行首周在日本公信榜[Oricon](../Page/Oricon.md "wikilink")周榜拿下13位。
+  - 11月27日，於東京舉辦在日本的首場舞台表演《The Legend of Beast, Vol.1》，成員們搭乘直升機到達現場，也因此能在空中見到歌迷們以人體排列出團名來迎接他們。表演了包含熱門曲《Bad Girl》、《Shock》、《Soom》等9首歌曲，也宣布2011年將會在日本正式出道的計畫\[8\]。
   - 12月11日，根據專輯銷售網Hanteo，從1月至10月中BEAST所發行的四張迷你專輯共賣出107,006張，是2010年中唯一賣破十萬張的新人團體\[9\]。
   - 12月12日，在首爾的蠶室室內體育場舉辦首場單獨演唱會《Welcome to the Beast Airline》\[10\]。
-  - 12月23日，宣布要發行成員們自創曲的計畫。歌曲包括耀燮與俊亨合唱的《Thanks To》\[11\]、賢勝與起光合唱的《Let It
-    Snow》\[12\]以及斗俊跟東雲合唱的《如果門關上》\[13\]。三首歌曲在Mnet的[M\!
-    Countdown舞台首次公開表演](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
-    而這三首歌曲於12月21日以數位迷你專輯方式發行《[My
-    Story](../Page/My_Story_\(BEAST單曲\).md "wikilink")》\[14\]。
+  - 12月23日，宣布要發行成員們自創曲的計畫。歌曲包括耀燮與俊亨合唱的《Thanks To》\[11\]、賢勝與起光合唱的《Let It Snow》\[12\]以及斗俊跟東雲合唱的《如果門關上》\[13\]。三首歌曲在Mnet的[M\! Countdown舞台首次公開表演](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。 而這三首歌曲於12月21日以數位迷你專輯方式發行《[My Story](../Page/My_Story_\(BEAST單曲\).md "wikilink")》\[14\]。
 
 ### 2011年：日文單曲、Fiction and Fact、SO BEAST、個人活動
 
-  - 3月16日，發行首張日文單曲《Shock》，發行首周就取得日本[Oricon周榜第二名](../Page/Oricon.md "wikilink")。
-  - 5月17日，發行正規一輯《[Fiction and
-    Fact](../Page/Fiction_and_Fact.md "wikilink")》，主打歌為《Fiction》，先行曲《下雨的日子》搶先主打歌先在音樂節目拿下第一名。
+  - 3月16日，發行首張日文單曲《Shock》，發行首周就取得日本[Oricon](../Page/Oricon.md "wikilink")周榜第二名。
+  - 5月17日，發行正規一輯《[Fiction and Fact](../Page/Fiction_and_Fact.md "wikilink")》，主打歌為《Fiction》，先行曲《下雨的日子》搶先主打歌先在音樂節目拿下第一名。
   - 6月15日，發行第二張日文單曲《Bad Girl》。
-  - 7月14日，以韓國代表的身分在MTV在馬來西亞舉辦的2011世界舞台上表演，是該年唯一受邀的韓國藝人，也是繼[Wonder
-    Girls後](../Page/Wonder_Girls.md "wikilink")，第二組在MTV世界舞台表演的藝人。
+  - 7月14日，以韓國代表的身分在MTV在馬來西亞舉辦的2011世界舞台上表演，是該年唯一受邀的韓國藝人，也是繼[Wonder Girls後](../Page/Wonder_Girls.md "wikilink")，第二組在MTV世界舞台表演的藝人。
   - 8月10日，發行首張日文專輯《[SO BEAST](../Page/SO_BEAST.md "wikilink")》。
-  - 12月1日，賢勝與[4minute的](../Page/4minute.md "wikilink")[泫雅組成團體](https://zh.wikipedia.org/wiki/泫雅 "wikilink")[Trouble
-    Maker](../Page/Trouble_Maker.md "wikilink")，並發行首張同名專輯。
+  - 12月1日，賢勝與[4minute](../Page/4minute.md "wikilink")的[泫雅組成團體](https://zh.wikipedia.org/wiki/泫雅 "wikilink")[Trouble Maker](../Page/Trouble_Maker.md "wikilink")，並發行首張同名專輯。
 
 ### 2012年：Beautiful Show、Midnight Sun、個人活動
 
   - 2月4日起，於首爾開始《Beautiful Show》世界巡迴演唱會。
   - 7月10日起，賢勝演出舞台劇《莫札特》。
   - 7月15日，公開迷你五輯先行曲《Midnight》音源，在數小時內便在各大音源排行榜奪冠並達成「all-kill」。
-  - 7月22日，發行迷你五輯《[Midnight
-    Sun](../Page/Midnight_Sun.md "wikilink")》，並以《美麗的夜晚》為主打歌。
-  - 11月26日，耀燮發行個人首張迷你專輯《[The First
-    Collage](../Page/The_First_Collage.md "wikilink")》。
+  - 7月22日，發行迷你五輯《[Midnight Sun](../Page/Midnight_Sun.md "wikilink")》，並以《美麗的夜晚》為主打歌。
+  - 11月26日，耀燮發行個人首張迷你專輯《[The First Collage](../Page/The_First_Collage.md "wikilink")》。
   - 12月，東雲開始演出音樂劇《Catch Me If You Can》。
 
 ### 2013年：Hard to Love, How to Love、個人活動、Sad Movie/聖誕歌頌的時候
@@ -366,32 +332,26 @@ LineData =
   - 2月13日，斗俊出演的電視劇《[IRIS2](../Page/IRIS_2.md "wikilink")》開始播出。
   - 5月17日，俊亨主演的音樂電視劇《[Monstar](../Page/Monstar.md "wikilink")》開始播出。
   - 5月29日，公開正規二輯的先行曲《沒關係嗎?》的音源，在數小時內便在各大音源排行榜奪冠並達成「all-kill」。
-  - 7月19日發行正規二輯《[Hard to Love, How to
-    Love](../Page/Hard_to_Love,_How_to_Love.md "wikilink")》，並以《Shadow》為主打歌。
-  - 10月28日，賢勝以[Trouble
-    Maker身分發行迷你二輯](../Page/Trouble_Maker.md "wikilink")《Chemistry》。
+  - 7月19日發行正規二輯《[Hard to Love, How to Love](../Page/Hard_to_Love,_How_to_Love.md "wikilink")》，並以《Shadow》為主打歌。
+  - 10月28日，賢勝以[Trouble Maker身分發行迷你二輯](../Page/Trouble_Maker.md "wikilink")《Chemistry》。
   - 10月中起，耀燮固定出演MBC節目《我獨自生活》。
   - 10月29日，耀燮開始演出舞台劇《約瑟夫與神奇夢幻綵衣》。
   - 11月28日，斗俊主演的電視劇《[一起吃飯吧](../Page/一起吃飯吧.md "wikilink")》首播\[15\]。
   - 12月16日，俊亨發行個人首張迷你專輯《[Flower](../Page/Flower_\(龍俊亨專輯\).md "wikilink")》\[16\]。
-  - 12月18日，發行首張日文原創單曲《[Sad
-    Movie/聖誕歌頌的時候](https://zh.wikipedia.org/wiki/Sad_Movie/聖誕歌頌的時候 "wikilink")》。
+  - 12月18日，發行首張日文原創單曲《[Sad Movie/聖誕歌頌的時候](https://zh.wikipedia.org/wiki/Sad_Movie/聖誕歌頌的時候 "wikilink")》。
   - 12月19日，起光主演的網路電視劇《20歲》開始播出\[17\]。
 
 ### 2014年：日巡、個人活動、ADRENALINE、Good Luck、BEAUTIFUL SHOW、TIME、你好嗎
 
-  - 1月31日起，展開日本巡演《BEAST Japan Tour 2014》、東雲主持的《Super Idol Chart
-    Show》開始播出\[18\]。
-  - 4月10日，出演的團綜《[Showtime Burning The
-    BEAST](../Page/SHOWTIME_-_Burning_the_BEAST.md "wikilink")》首播\[19\]、耀燮出演音樂劇《浪漫滿屋》。
+  - 1月31日起，展開日本巡演《BEAST Japan Tour 2014》、東雲主持的《Super Idol Chart Show》開始播出\[18\]。
+  - 4月10日，出演的團綜《[Showtime Burning The BEAST](../Page/SHOWTIME_-_Burning_the_BEAST.md "wikilink")》首播\[19\]、耀燮出演音樂劇《浪漫滿屋》。
 
 <!-- end list -->
 
   - 5月，賢勝出演音樂劇《Bonnie and Clyde》。
   - 5月28日，發行日文單曲《[ADRENALINE](../Page/ADRENALINE.md "wikilink")》\[20\]。
   - 6月10日，公開迷你六輯的先行曲《如今再也不是》的音源及MV。
-  - 6月16日，公開迷你六輯《[Good
-    Luck](https://zh.wikipedia.org/wiki/Good_Luck_\(BEAST迷你專輯\) "wikilink")》的主打歌MV及所收錄歌曲的音源。此次回歸成績亮眼，共拿下11座音樂節目冠軍，其中更首開先例連續兩天分別在[音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")\[21\]及[人氣歌謠中以滿分的成績拿下一位](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")。
+  - 6月16日，公開迷你六輯《[Good Luck](https://zh.wikipedia.org/wiki/Good_Luck_\(BEAST迷你專輯\) "wikilink")》的主打歌MV及所收錄歌曲的音源。此次回歸成績亮眼，共拿下11座音樂節目冠軍，其中更首開先例連續兩天分別在[音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")\[21\]及[人氣歌謠中以滿分的成績拿下一位](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")。
   - 8月15日起，在首爾開始世界巡迴演唱會《BEAUTIFUL SHOW 2014》。
   - 9月起，耀燮演出音樂劇《Zorro》，起光固定節目主持《Style Log》。
   - 10月20日，發行迷你七輯《[TIME](https://zh.wikipedia.org/wiki/TiME_\(BEAST迷你專輯\) "wikilink")》，主打歌《12時30分》。
@@ -411,8 +371,7 @@ LineData =
   - 8月29日-30日，首爾舉行演唱會《BEAUTIFUL SHOW 2015》。
   - 10月30日起，展開日本巡演《BEAST JAPAN TOUR 2015 ～HANDS UP～》。
   - 11月27日，發行日文單曲《》。
-  - 12月13日，斗俊主演的MBC迷你電視劇《[扑通扑通LOVE](../Page/撲通撲通LOVE.md "wikilink")》開始播出，深受大眾歡迎
-    \! 截至2016年1月3日，點擊瀏覽數已經突破六百萬\[26\]。
+  - 12月13日，斗俊主演的MBC迷你電視劇《[扑通扑通LOVE](../Page/撲通撲通LOVE.md "wikilink")》開始播出，深受大眾歡迎 \! 截至2016年1月3日，點擊瀏覽數已經突破六百萬\[26\]。
 
 ### 2016年：Guess Who?、賢勝退隊、日巡、Highlight、Day & Night、BEAUTIFUL SHOW
 
@@ -431,58 +390,35 @@ LineData =
 ### 2017年：新團名「HIGHLIGHT」、新粉絲名「Light」
 
   - 2月2日，東雲與劉在煥合作專輯《Universe》公開。
-  - 2月10日，Cube娛樂發表官方聲明向媒體透露：「BEAST 前成員張賢勝將重回
-    BEAST，與新加入的成員重新組成三人組團體。」但張賢勝卻在Instagram發文，表示自己從未聽過這件事，完全沒有要重組新BEAST的想法，隨後張賢勝又將該發文刪除。\[31\]\[32\]
+  - 2月10日，Cube娛樂發表官方聲明向媒體透露：「BEAST 前成員張賢勝將重回 BEAST，與新加入的成員重新組成三人組團體。」但張賢勝卻在Instagram發文，表示自己從未聽過這件事，完全沒有要重組新BEAST的想法，隨後張賢勝又將該發文刪除。\[31\]\[32\]
   - 2月24日，Around US娛樂公告以全新團名「HIGHLIGHT」的名義重新出道，寓意為最明亮的部分、最顯眼的存在。\[33\]
   - 3月13日，發布先行曲《아름답다（依舊美麗)》音樂錄影帶及音源，並在下午1時，於genie榜登頂。
-  - 3月20日，發行HIGHLIGHT首張迷你專輯《Can You Feel It?》。下午1時，主打歌在Bugs,
-    Olleh等3榜取得一位的成績。3月21日，0時主打歌在Melon等5榜取得一位。3月21日，8时主打歌Plz
-    don't be
-    sad成为melon音源制度改革以来第一个破表的男子团体，同时也是2017年第一个发布单曲首日获得melon日榜第一的男团。
-  - 5月15日，Around US娛樂公告，將於本月29日發行《Can you feel
-    it?》改版專輯消息，並釋出預告照與行程表。\[34\]\[35\]
-  - 5月17日，Around US娛樂於官方SNS上，公開即將發行的《Can you feel
-    it?》Repackage版專輯《Calling you》的團體與成員個人預告照。\[36\]\[37\]
+  - 3月20日，發行HIGHLIGHT首張迷你專輯《Can You Feel It?》。下午1時，主打歌在Bugs, Olleh等3榜取得一位的成績。3月21日，0時主打歌在Melon等5榜取得一位。3月21日，8时主打歌Plz don't be sad成为melon音源制度改革以来第一个破表的男子团体，同时也是2017年第一个发布单曲首日获得melon日榜第一的男团。
+  - 5月15日，Around US娛樂公告，將於本月29日發行《Can you feel it?》改版專輯消息，並釋出預告照與行程表。\[34\]\[35\]
+  - 5月17日，Around US娛樂於官方SNS上，公開即將發行的《Can you feel it?》Repackage版專輯《Calling you》的團體與成員個人預告照。\[36\]\[37\]
   - 5月12日，俊亨發行全新個人單曲專輯《WONDERIF》，並透過官方YouTube頻道公開專輯同名主打歌《WONDERIF(그대로일까)》MV。《WONDERIF》共收錄兩首歌曲，同名主打歌《WONDERIF》由歌手Heize參與配唱，歌詞平淡地描寫了分手後懷念過去戀人的心情;收錄曲《TooMuchLoveKillsMe(지나친사랑은해로워)》是有著甜美鋼琴旋律的PBR\&B風格歌曲，歌詞則坦率地描寫了分手後的心情：「雖然不喜歡因分手感到痛苦的自己，也不喜歡令自己痛苦的你，卻忍不住思念你，想回到你身邊。
   - 6月2日-4日，將在蠶室市內體育館舉辦首次單獨演唱會《Can you feel it?》。\[38\]\[39\]
   - 6月2日，透過V Live直播，公開新粉絲名為**Light**。\[40\]
   - 8月27日-9月10日，俊亨出演MBC《被子外面很危險》。
   - 9月4日，起光solo回歸，發行個人首張迷你專輯《ONE》，主打為《What You Like》，由俊亨所屬Good Life製作。
-  - 10月16日，發行HIGHLIGHT的迷你二輯《CELEBRATE》，以《Can be
-    better》為主打歌，作為紀念HIGHLIGHT前身BEAST在8年前出道的日子。\[41\]
-  - 10月19日，俊亨為紀念10月16日出道8周年，向國際救護團體飢餓對策(Food for the
-    Hungry)捐出了1016萬韓元的善款，支援韓國低所得家庭孩童過冬的\[希望ON
-    Campaign\]。所屬經紀公司around
-    us娛樂表示：「為報答粉絲們的支持與厚愛，選擇在最有意義的出道紀念日捐款行善。且不僅龍俊亨，平時其他成員們亦有許多善舉。」隨後，飢餓對策相關人員表示：「龍俊亨本次是透過同團成員尹斗俊向飢餓對策捐款。尹斗俊自2012年起，連續六年向我方捐款資助非洲尚比亞的教育事業。」
+  - 10月16日，發行HIGHLIGHT的迷你二輯《CELEBRATE》，以《Can be better》為主打歌，作為紀念HIGHLIGHT前身BEAST在8年前出道的日子。\[41\]
+  - 10月19日，俊亨為紀念10月16日出道8周年，向國際救護團體飢餓對策(Food for the Hungry)捐出了1016萬韓元的善款，支援韓國低所得家庭孩童過冬的\[希望ON Campaign\]。所屬經紀公司around us娛樂表示：「為報答粉絲們的支持與厚愛，選擇在最有意義的出道紀念日捐款行善。且不僅龍俊亨，平時其他成員們亦有許多善舉。」隨後，飢餓對策相關人員表示：「龍俊亨本次是透過同團成員尹斗俊向飢餓對策捐款。尹斗俊自2012年起，連續六年向我方捐款資助非洲尚比亞的教育事業。」
   - 12月8日，東雲開始出演音樂劇《沙漏》。
   - 12月21-23日，於蠶室市內體育館舉辦演唱會《Celebrate》。
-  - 《얼굴 찌푸리지 말아요 PLZ DON'T BE SAD》專輯獲得GAON
-    2017年度數位單曲榜第42名，共計銷售47,937張；mini一輯《CAN
-    YOU FEEL IT?》獲得GAON
-    2017年度專輯銷售榜第30名，共計銷售114,303張；mini二輯《CELEBRATE》獲得GAON
-    2017年度專輯銷售榜第31名，共計銷售113,154張。
+  - 《얼굴 찌푸리지 말아요 PLZ DON'T BE SAD》專輯獲得GAON 2017年度數位單曲榜第42名，共計銷售47,937張；mini一輯《CAN YOU FEEL IT?》獲得GAON 2017年度專輯銷售榜第30名，共計銷售114,303張；mini二輯《CELEBRATE》獲得GAON 2017年度專輯銷售榜第31名，共計銷售113,154張。
 
 ### 2018年：個人活動、兵役
 
-  - 1月27-28日，起光在首爾藍色廣場舉辦《LEEGIKWANG Mini LIVE 2018 \[ ONE \]
-    》共計三場3600人參與。
-  - 1月29日，斗俊出演[KBS月火劇](../Page/KBS月火連續劇.md "wikilink")《[Radio
-    Romance](../Page/Radio_Romance.md "wikilink")》搭檔[金所炫](https://zh.wikipedia.org/wiki/金所炫 "wikilink")。
-  - 2月19日，耀燮時隔6年solo回歸，發行第二張個人迷你專輯《白》。內容包括主打曲《Where I am gone》(네가 없는 곳)
-    並收錄多首創作，都是親自作詞作曲的歌曲。
+  - 1月27-28日，起光在首爾藍色廣場舉辦《LEEGIKWANG Mini LIVE 2018 \[ ONE \] 》共計三場3600人參與。
+  - 1月29日，斗俊出演[KBS月火劇](../Page/KBS月火連續劇.md "wikilink")《[Radio Romance](../Page/Radio_Romance.md "wikilink")》搭檔[金所炫](https://zh.wikipedia.org/wiki/金所炫 "wikilink")。
+  - 2月19日，耀燮時隔6年solo回歸，發行第二張個人迷你專輯《白》。內容包括主打曲《Where I am gone》(네가 없는 곳) 並收錄多首創作，都是親自作詞作曲的歌曲。
   - 3月22日，東雲出演音樂療癒節目《[給你宇宙](../Page/給你宇宙.md "wikilink")》。
   - 3月22日，俊亨發表數位單曲《陣雨 (Feat. 10cm)》(소나기)。
   - 4月7日，於蠶室市內體育館舉辦《HIGHLIGHT SHOW》為HIGHLIGHT首次Fan Meeting。
-  - 4月9日，耀燮擔任[MBC
-    FM4U](https://zh.wikipedia.org/wiki/MBC_FM4U "wikilink") 《梁耀燮的夢想電台》
-    DJ 於晚上9點至11點(GMT+9)。
-  - 5月5日，起光出演[JTBC4](../Page/JTBC电视节目列表.md "wikilink")《[WHY NOT THE
-    DANCER](../Page/WHYNOT_－_The_Dancer.md "wikilink")》與[SUPERJOUNIOR](../Page/Super_Junior.md "wikilink")
-    [銀赫及](../Page/銀赫.md "wikilink")[SHINee](../Page/SHINee.md "wikilink")
-    [泰民共同出演](../Page/泰民.md "wikilink")。
+  - 4月9日，耀燮擔任[MBC FM4U](https://zh.wikipedia.org/wiki/MBC_FM4U "wikilink") 《梁耀燮的夢想電台》 DJ 於晚上9點至11點(GMT+9)。
+  - 5月5日，起光出演[JTBC4](../Page/JTBC电视节目列表.md "wikilink")《[WHY NOT THE DANCER](../Page/WHYNOT_－_The_Dancer.md "wikilink")》與[SUPERJOUNIOR](../Page/Super_Junior.md "wikilink") [銀赫](../Page/銀赫.md "wikilink")及[SHINee](../Page/SHINee.md "wikilink") [泰民](../Page/泰民.md "wikilink")共同出演。
   - 5月9日，俊亨發表個人首張正規專輯《GOODBYE 20’s》。
-  - 5月25日，東雲擔任KBS [Music
-    Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink") 特別MC。
+  - 5月25日，東雲擔任KBS [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink") 特別MC。
   - 5月30日，擔任韓國文化振興院宣傳大使。
   - 5月31日、7月5日、7月12日，俊亨出演[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[被子外面很危險](../Page/被子外面很危險.md "wikilink")》前往越南峴港市休假。
   - 6月1日，耀燮擔任twelve_dogz 第五位HERO，此為幫助流浪狗的公益活動計畫。
@@ -491,92 +427,58 @@ LineData =
   - 6月4日，假想實境綜藝節目《READY PLAYER：HIGHLIGHT》首播，共20集。
   - 6月13日，東雲擔任《CASPER RADIO-東尼真好》DJ。
   - 6月16-17日，耀燮在慶熙大學和平殿堂舉辦首場個人演唱會《白》，本人於5月14日在 V App親自公開 。
-  - 6月25日，東雲擔任SBS 《[School
-    Attack2018](../Page/School_Attack_2018.md "wikilink")》
-    MC。搭檔[水晶男孩](../Page/水晶男孩.md "wikilink")
-    [殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、
-    [MOMOLAND](../Page/MOMOLAND.md "wikilink")
-    [Jooe](../Page/JooE.md "wikilink")。
-  - 7月16日，斗俊主演的電視劇《[一起吃飯吧3](../Page/一起吃飯吧3：Begins.md "wikilink")》開始播出，故事描述陷入低谷的具大英和原本一起用餐的李智友（白珍熙
-    飾）重逢，回想起20歲時的飲食和記憶，並一起克服傷痛。
-  - 8月13日，起光出演[KBS](../Page/KBS月火連續劇.md "wikilink") 2TV月火劇《[Lovely
-    Horribly](../Page/Lovely_Horribly.md "wikilink")》首播，飾演能看到鬼的男人成仲
-    (성중)，握著解開劇中故事秘密鑰匙的新手電視劇PD，同劇男主角為[朴施厚](../Page/朴施厚.md "wikilink")、女主角為[宋智孝](../Page/宋智孝.md "wikilink")。
-  - 12月1日，俊亨主演ChannelA周末劇《拜託了咖啡》首播，飾演網路漫畫家男主角林賢宇，講述的是喝了魔法咖啡後成為美女實現單戀的“可愛胖女孩”與不相信愛情的暖男網絡漫畫作家發生的驚險浪漫喜劇。以事前製作的形式，搭檔[金敏英和蔡舒辰](../Page/金敏英.md "wikilink")。
+  - 6月25日，東雲擔任SBS 《[School Attack2018](../Page/School_Attack_2018.md "wikilink")》 MC。搭檔[水晶男孩](../Page/水晶男孩.md "wikilink") [殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、 [MOMOLAND](../Page/MOMOLAND.md "wikilink") [Jooe](../Page/JooE.md "wikilink")。
+  - 7月16日，斗俊主演的電視劇《[一起吃飯吧3](../Page/一起吃飯吧3：Begins.md "wikilink")》開始播出，故事描述陷入低谷的具大英和原本一起用餐的李智友（白珍熙 飾）重逢，回想起20歲時的飲食和記憶，並一起克服傷痛。
+  - 8月13日，起光出演[KBS](../Page/KBS月火連續劇.md "wikilink") 2TV月火劇《[Lovely Horribly](../Page/Lovely_Horribly.md "wikilink")》首播，飾演能看到鬼的男人成仲 (성중)，握著解開劇中故事秘密鑰匙的新手電視劇PD，同劇男主角為[朴施厚](../Page/朴施厚.md "wikilink")、女主角為[宋智孝](../Page/宋智孝.md "wikilink")。
+  - 12月1日，俊亨主演ChannelA周末劇《拜託了咖啡》首播，飾演網路漫畫家男主角林賢宇，講述的是喝了魔法咖啡後成為美女實現單戀的“可愛胖女孩”與不相信愛情的暖男網絡漫畫作家發生的驚險浪漫喜劇。以事前製作的形式，搭檔[金敏英](../Page/金敏英.md "wikilink")和蔡舒辰。
   - 7月22日，起光在日本舉辦《LEE GIKWANG Mini Live 2018 \[ONE\] in JAPAN》共計兩場。
-  - 8月3日，耀燮和俊亨在日本舉辦《2018 YONG JUNHYUNG & YANG YOSEOP LIVE 'THANKS TO' in
-    JAPAN》共計兩場。
+  - 8月3日，耀燮和俊亨在日本舉辦《2018 YONG JUNHYUNG & YANG YOSEOP LIVE 'THANKS TO' in JAPAN》共計兩場。
   - 8月24-26日，東雲出演音樂劇《ALTAR BOYZ\` in TOKYO》，共計5場。
   - 7月18日，東雲發表個人首張數位單曲《Prelude : 목소리》。
-  - 起光擔任KBS2《Dancing High》舞蹈導師與[李浩沅](../Page/Hoya.md "wikilink")
-    、[WINNER](../Page/WINNER.md "wikilink")[李昇勳](../Page/李昇勳.md "wikilink")，預計9月7日播出。
-  - 8月2日，東雲、[Girl's
-    Day](../Page/Girl's_Day.md "wikilink")[朴素珍](../Page/素珍_\(韓國歌手\).md "wikilink")、[金申英](../Page/金信英.md "wikilink")、DinDin擔任「GOT
-    YA\!公園少女」MC，節目主題是[公園少女成員們將會成為遊戲中的主角](https://zh.wikipedia.org/wiki/公園少女 "wikilink")，而四名主持人將會對她們進行觀察的節目。
-  - 7月31日，東雲舉行1st DIGITAL SINGLE 《Prelude : 聲音》發售紀念特別活動,約170人mini
-    live，免費入場。
-  - 8月22日，官方宣布斗俊確認8月24日現役入伍，並公開手寫信，預計2020年4月10日退伍。[37](http://aroundusent.com/home/artist_notice_detail/437)
-  - 8月21日，耀燮義警第361期考試合格並順利入選(此為合格者隨機抽籤)，入伍時間預計2019年1月24日，接受5週基礎訓練後，轉往京畿道南部地方警察廳服役。[38](https://ap.police.go.kr/ap/bbs/view.do?nttId=10096&bbsId=B0000001&searchCnd=1&searchWrd=%EA%B2%BD%EA%B8%B0%EB%82%A8&section=&sdate=&edate=&useAt=&replyAt=&menuNo=200055&viewType=&delCode=0&option1=&keyId=0&userId=&gubun=&pageIndex=1)
-  - 耀燮和俊亨於11月11日在香港、11月17日在台灣，舉辦《2018 YONG JUNHYUNG & YANG YOSEOP Mini
-    CONCERT 》。
-  - 10月16日，9週年直播中，宣布於10月29日發佈數位單曲《잘 지내줘(TAKE
-    CARE)》音源，11月24-25日於[首爾奧林匹克體操競技場舉辦](../Page/首尔奥林匹克体操竞技场.md "wikilink")《OUTRO》演唱會。
-  - 10月31日，透過KBS
-    2TV「[柳熙烈的寫真簿](../Page/柳喜烈的寫生簿.md "wikilink")'」作為完全體(缺斗俊)的入伍前最後節目錄製。
-  - 11月8日，公告將團體SNS帳號與公司分開，更改帳號名稱並新增公司帳號。[39](http://aroundusent.com/home/artist_notice_detail/452)
+  - 起光擔任KBS2《Dancing High》舞蹈導師與[李浩沅](../Page/Hoya.md "wikilink") 、[WINNER](../Page/WINNER.md "wikilink")[李昇勳](../Page/李昇勳.md "wikilink")，預計9月7日播出。
+  - 8月2日，東雲、[Girl's Day](../Page/Girl's_Day.md "wikilink")[朴素珍](../Page/素珍_\(韓國歌手\).md "wikilink")、[金申英](../Page/金信英.md "wikilink")、DinDin擔任「GOT YA\!公園少女」MC，節目主題是[公園少女成員們將會成為遊戲中的主角](https://zh.wikipedia.org/wiki/公園少女 "wikilink")，而四名主持人將會對她們進行觀察的節目。
+  - 7月31日，東雲舉行1st DIGITAL SINGLE 《Prelude : 聲音》發售紀念特別活動,約170人mini live，免費入場。
+  - 8月22日，官方宣布斗俊確認8月24日現役入伍，並公開手寫信，預計2020年4月10日退伍。[38](http://aroundusent.com/home/artist_notice_detail/437)
+  - 8月21日，耀燮義警第361期考試合格並順利入選(此為合格者隨機抽籤)，入伍時間預計2019年1月24日，接受5週基礎訓練後，轉往京畿道南部地方警察廳服役。[39](https://ap.police.go.kr/ap/bbs/view.do?nttId=10096&bbsId=B0000001&searchCnd=1&searchWrd=%EA%B2%BD%EA%B8%B0%EB%82%A8&section=&sdate=&edate=&useAt=&replyAt=&menuNo=200055&viewType=&delCode=0&option1=&keyId=0&userId=&gubun=&pageIndex=1)
+  - 耀燮和俊亨於11月11日在香港、11月17日在台灣，舉辦《2018 YONG JUNHYUNG & YANG YOSEOP Mini CONCERT 》。
+  - 10月16日，9週年直播中，宣布於10月29日發佈數位單曲《잘 지내줘(TAKE CARE)》音源，11月24-25日於[首爾奧林匹克體操競技場舉辦](../Page/首尔奥林匹克体操竞技场.md "wikilink")《OUTRO》演唱會。
+  - 10月31日，透過KBS 2TV「[柳熙烈的寫真簿](../Page/柳喜烈的寫生簿.md "wikilink")'」作為完全體(缺斗俊)的入伍前最後節目錄製。
+  - 11月8日，公告將團體SNS帳號與公司分開，更改帳號名稱並新增公司帳號。[40](http://aroundusent.com/home/artist_notice_detail/452)
   - 12月9日，耀燮在日本舉辦個人演唱會《白》，共計二場。
-  - 起光11月1日義警考試合格，11月5日抽籤落選，東雲則因未帶體檢表落選，兩人再次報名義警考試均合格。12月21日起光第363期義警考試合格並順利入選(此為合格者隨機抽籤)，入伍時間預計2019年1月下旬公佈，接受5週基礎訓練後，轉往京畿道南部地方警察廳服役。[40](https://ap.police.go.kr/ap/bbs/view.do?nttId=10376&bbsId=B0000001&searchCnd=1&searchWrd=%EA%B2%BD%EA%B8%B0%EB%82%A8&section=&sdate=&edate=&useAt=&replyAt=&menuNo=200055&viewType=&delCode=0&option1=&keyId=0&userId=&gubun=&pageIndex=1)
-  - 11月20日，發行特別專輯《OUTRO》，此為入伍前為了粉絲們特別準備的專輯.
-    並將收錄尹斗俊在入伍之前錄製的歌曲，但不會相關的節目放送活動。
-  - 12月9日，東雲於[tvN家庭綜藝節目](../Page/TVN.md "wikilink")《尋找單身黃昏的青春-[愛神派對](https://zh.wikipedia.org/wiki/愛神派對 "wikilink")》，和[朴芝潤一起擔任旅行的領隊](../Page/朴芝潤.md "wikilink")，為了找回失去的青春而出演的父母以及為了瞭解一直以來所不知道的父母形象的子女們而展開的療癒型旅遊節目。
-  - 12月13日，開設[Highlight
-    time_official](https://twitter.com/Hltime_official?lang=zh-tw)
-    Twitter官方帳號，因應友情旅行，請LIGHT提供「小確幸」點子。
-  - 12月27日，耀燮宣佈因為服兵役，2019年1月6日從擔任[MBC
-    FM4U](https://zh.wikipedia.org/wiki/MBC_FM4U "wikilink") 《梁耀燮的夢想電台》
-    下車。
-  - 《OUTRO》專輯獲得GAON 2018年度專輯銷售榜第92名，共計銷售47,937張；耀燮mini 二輯《白》獲得GAON
-    2018年度專輯銷售榜第73名，共計銷售58,535張；俊亨數位單曲《陣雨》獲得GAON
-    2018年度數位單曲榜第39名，GAON指數累計559,185,730次。
+  - 起光11月1日義警考試合格，11月5日抽籤落選，東雲則因未帶體檢表落選，兩人再次報名義警考試均合格。12月21日起光第363期義警考試合格並順利入選(此為合格者隨機抽籤)，入伍時間預計2019年1月下旬公佈，接受5週基礎訓練後，轉往京畿道南部地方警察廳服役。[41](https://ap.police.go.kr/ap/bbs/view.do?nttId=10376&bbsId=B0000001&searchCnd=1&searchWrd=%EA%B2%BD%EA%B8%B0%EB%82%A8&section=&sdate=&edate=&useAt=&replyAt=&menuNo=200055&viewType=&delCode=0&option1=&keyId=0&userId=&gubun=&pageIndex=1)
+  - 11月20日，發行特別專輯《OUTRO》，此為入伍前為了粉絲們特別準備的專輯. 並將收錄尹斗俊在入伍之前錄製的歌曲，但不會相關的節目放送活動。
+  - 12月9日，東雲於[tvN家庭綜藝節目](../Page/TVN.md "wikilink")《尋找單身黃昏的青春-[愛神派對](https://zh.wikipedia.org/wiki/愛神派對 "wikilink")》，和[朴芝潤](../Page/朴芝潤.md "wikilink")一起擔任旅行的領隊，為了找回失去的青春而出演的父母以及為了瞭解一直以來所不知道的父母形象的子女們而展開的療癒型旅遊節目。
+  - 12月13日，開設[Highlight time_official](https://twitter.com/Hltime_official?lang=zh-tw) Twitter官方帳號，因應友情旅行，請LIGHT提供「小確幸」點子。
+  - 12月27日，耀燮宣佈因為服兵役，2019年1月6日從擔任[MBC FM4U](https://zh.wikipedia.org/wiki/MBC_FM4U "wikilink") 《梁耀燮的夢想電台》 下車。
+  - 《OUTRO》專輯獲得GAON 2018年度專輯銷售榜第92名，共計銷售47,937張；耀燮mini 二輯《白》獲得GAON 2018年度專輯銷售榜第73名，共計銷售58,535張；俊亨數位單曲《陣雨》獲得GAON 2018年度數位單曲榜第39名，GAON指數累計559,185,730次。
 
 ### 2019年：入伍前個人活動、全員入伍
 
-  - 1月6日，耀燮從擔任[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")
-    FM4U《梁耀燮的夢想電台》 下車。
+  - 1月6日，耀燮從擔任[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") FM4U《梁耀燮的夢想電台》 下車。
   - 1月21日，耀燮朗讀的《銀河鐵道之夜(宮澤賢治 短篇集)》有聲書上市。
-  - 1月23日，俊亨入選韓國音樂著作權協會（KOMCA）2019年正式會員的名單。[41](https://www.komca.or.kr/CTLJSP)
-  - 1月24日，耀燮正式作為義務警察入伍，於論山陸軍訓練所進行為期4週的基礎軍事訓練，之後將進入警察學校接受2-3週的教育後
-    在[京畿道南部地方警察廳服役](../Page/京畿道.md "wikilink")，預計2020年8月30日退伍。2月21日結業式後分配至首爾警察廳服役。
-  - 1月24日，耀燮發佈的首張數位單曲《20 Full Moons》，經過20次滿月的時候就會再次回來的寓意，共收錄兩首歌，主打歌《With
-    You》裝載著對於10年來一直守護在自己身邊的成員們想說的話。
-  - 1月31日，俊亨發佈數位單曲《빈털터리身無分文》以shuffle旋律為基礎的爵士嘻哈曲風，並與[Suran一起合作](../Page/Suran.md "wikilink")。
-  - 2月1-2日，俊亨在[奧林匹克大廳舉辦個人演唱會](../Page/奧林匹克公園_\(首爾\).md "wikilink")《GOODBYE
-    20'S》。
+  - 1月23日，俊亨入選韓國音樂著作權協會（KOMCA）2019年正式會員的名單。[42](https://www.komca.or.kr/CTLJSP)
+  - 1月24日，耀燮正式作為義務警察入伍，於論山陸軍訓練所進行為期4週的基礎軍事訓練，之後將進入警察學校接受2-3週的教育後 在[京畿道](../Page/京畿道.md "wikilink")南部地方警察廳服役，預計2020年8月30日退伍。2月21日結業式後分配至首爾警察廳服役。
+  - 1月24日，耀燮發佈的首張數位單曲《20 Full Moons》，經過20次滿月的時候就會再次回來的寓意，共收錄兩首歌，主打歌《With You》裝載著對於10年來一直守護在自己身邊的成員們想說的話。
+  - 1月31日，俊亨發佈數位單曲《빈털터리身無分文》以shuffle旋律為基礎的爵士嘻哈曲風，並與[Suran](../Page/Suran.md "wikilink")一起合作。
+  - 2月1-2日，俊亨在[奧林匹克大廳舉辦個人演唱會](../Page/奧林匹克公園_\(首爾\).md "wikilink")《GOODBYE 20'S》。
   - 2月8-9日，東雲出演音樂劇《ALTAR BOYZ\` in OSAKA》，共計2場。
-  - 3月6日，東雲在Naver V-Live的Casper
-    Radio《孫東雲的東尼真好》直播中宣布為了準備入伍前的專輯，將於13日結束錄製(因13日停播，改為20日結束錄製)。
+  - 3月6日，東雲在Naver V-Live的Casper Radio《孫東雲的東尼真好》直播中宣布為了準備入伍前的專輯，將於13日結束錄製(因13日停播，改為20日結束錄製)。
   - 3月8日，東雲義警考試合格，3月12日抽籤合格，將擔任大型駕駛的義警。
-  - 3月14日，俊亨捲入鄭俊英群組事件，雖然並沒有參與於群組中，但因過去在[kakaotalk一對一單獨房裡未及時出聲制止](https://zh.wikipedia.org/wiki/kakaotalk "wikilink")，為了保護Hightlight名聲，俊亨在[Instagram發文退出團體](../Page/Instagram.md "wikilink")，公司隨後發出聲明表示尊重並宣布俊亨退出組合。\[42\]
-  - 3月18日，起光發佈數位單曲專輯《I》，並於3月18日18點公開主打歌MV，名為《D.C.Y.E》以起光特有的低音和深厚如大海感覺的音聲微妙結合的R\&B
-    HIPHOP歌曲。
-  - 3月23-24日，起光在首爾藍色廣場舉辦《LEEGIKWANG LIVE 2019 \[I\]
-    》共計二場；3月30日為台灣場在TICC舉辦；4月13日為日本場在Toyosu
-    PIT by Team Smile舉辦二場。
+  - 3月14日，俊亨捲入鄭俊英群組事件，雖然並沒有參與於群組中，但因過去在[kakaotalk一對一單獨房裡未及時出聲制止](https://zh.wikipedia.org/wiki/kakaotalk "wikilink")，為了保護Hightlight名聲，俊亨在[Instagram](../Page/Instagram.md "wikilink")發文退出團體，公司隨後發出聲明表示尊重並宣布俊亨退出組合。\[42\]
+  - 3月18日，起光發佈數位單曲專輯《I》，並於3月18日18點公開主打歌MV，名為《D.C.Y.E》以起光特有的低音和深厚如大海感覺的音聲微妙結合的R\&B HIPHOP歌曲。
+  - 3月23-24日，起光在首爾藍色廣場舉辦《LEEGIKWANG LIVE 2019 \[I\] 》共計二場；3月30日為台灣場在TICC舉辦；4月13日為日本場在Toyosu PIT by Team Smile舉辦二場。
   - 3月27日，東雲因覺得IG無法樂在其中，決定未來會透過推特和公司的 SNS 來傳達消息，並將IG帳號於4/1凌晨註銷。
   - 4月2日，俊亨透過公司聲明稿：入伍江原道第23師新兵訓練隊,預計2020年11月3日退伍。
-  - 4月4日，起光公開與1MILLION合作的數位單曲專輯《I》收錄曲 [Lonely (Feat.
-    Jiselle)](https://www.youtube.com/watch?v=DpiynSrhQ7g&feature=youtu.be)MV。
+  - 4月4日，起光公開與1MILLION合作的數位單曲專輯《I》收錄曲 [Lonely (Feat. Jiselle)](https://www.youtube.com/watch?v=DpiynSrhQ7g&feature=youtu.be)MV。
   - 4月4日，起光朗讀的《維尼小熊的故事》有聲書上市。
   - 4月6-8日，斗俊及起光為江原道高城郡和束草地區的受災人民們各捐款2000萬及1000萬用韓元於支援救助物品和災後重建。
   - 4月18日，起光發行數位單曲專輯《笑著問候》,由《笑著問候》和《Nothing》兩首歌曲組成，起光參與了全曲歌曲製作，主打歌《笑著問候》是李起光回憶當時讓人開心的激動和歡笑，並囑咐在短暫的離別中也要記得會再次相見，並開朗的笑著，Highlight成員孫東雲參與featuring。第二首《Nothing》是solo演唱會上展現的未公開歌曲，他溫柔的聲音和舒適的音調，成為一首魅力的嘻哈曲。包含了希望大家不要因為離別而傷心，要開心微笑的李起光充滿真心的訊息，對粉絲來說會成為更珍貴的禮物。
-  - 4月18日，起光正式作為義務警察入伍,於論山陸軍訓練所進行為期4週的基礎軍事訓練，之後將進入警察學校接受2-3週的教育後
-    在京畿道南部地方警察廳服役，預計2020年11月18日退伍。
+  - 4月18日，起光正式作為義務警察入伍,於論山陸軍訓練所進行為期4週的基礎軍事訓練，之後將進入警察學校接受2-3週的教育後 在京畿道南部地方警察廳服役，預計2020年11月18日退伍。
   - 4月22日，東雲發佈首張迷你專輯《Act 1 : The Orchestra》，並於4月22日18點公開主打歌MV。
-  - 4月27-28日，東雲在YES24 LIVE HALL舉辦《SON DONGWOON LIVE 2019 \[The
-    Orchestra\]》共計二場。
+  - 4月27-28日，東雲在YES24 LIVE HALL舉辦《SON DONGWOON LIVE 2019 \[The Orchestra\]》共計二場。
   - 4月30日，東雲出演Olive TV onepick road美食節目，首度公開自家房間、廚房。
-  - 5月9日，東雲正式作為特技(大型駕駛)義務警察入伍,於論山陸軍訓練所進行為期4週的基礎軍事訓練，之後將進入警察學校接受2-3週的教育後
-    在首爾警察廳服役，預計2020年12月8日退伍。
+  - 5月9日，東雲正式作為特技(大型駕駛)義務警察入伍,於論山陸軍訓練所進行為期4週的基礎軍事訓練，之後將進入警察學校接受2-3週的教育後 在首爾警察廳服役，預計2020年12月8日退伍。
+  - 7月16日，開設官方[soundcloud](https://soundcloud.com/highlight_091016)帳號《highlight_091016》，並公開起光《[Paradise](https://soundcloud.com/highlight_091016/paradise-leegikwang-of-highlight)》音源。
 
 ## 音樂作品
 
@@ -588,15 +490,15 @@ LineData =
 
 | 年份               | 廠牌名稱           | 參加成員         | 項目                                                                                                 | 備註                                                                                                 |
 | ---------------- | -------------- | ------------ | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| <big>2017年</big> | UNIQLO         | 斗俊.起光        | AIRism (謝謝篇)                                                                                       | [42](https://www.youtube.com/watch?v=Uy1FUa3O93M)                                                  |
-| UNIQLO           | 斗俊.起光          | AIRism (辛苦篇) | [43](https://www.youtube.com/watch?v=GQx_RwQMMSg)                                                  |                                                                                                    |
-| Coinwash 크린토피아   | 斗俊             | 投幣式洗衣機       | [44](https://www.youtube.com/watch?v=Fgm1lb-A7BA)[45](https://www.youtube.com/watch?v=3Fa8S89Gy2A) |                                                                                                    |
-| NOLSOOP놀숲        | 全體             | 漫畫咖啡屋        | [46](https://www.youtube.com/watch?v=u0EoAqyPPJ0)                                                  |                                                                                                    |
-| <big>2018年</big> | Coinwash 크린토피아 | 斗俊           | 投幣式洗衣機                                                                                             | [47](https://www.youtube.com/watch?v=TcqiE6f9iA0)[48](https://www.youtube.com/watch?v=lq-smLdf-rY) |
-| 天空城 NARSIA       | 全體             | 手機遊戲         | [49](https://www.youtube.com/watch?v=MZ4Yofa6tEE)                                                  |                                                                                                    |
-| 新羅免稅店            | 全體             | 免稅店          | 新加坡.香港.日本.韓國區域 [50](https://www.shilladfs.com/comm/kr/en/storyStarGallVid)                         |                                                                                                    |
+| <big>2017年</big> | UNIQLO         | 斗俊.起光        | AIRism (謝謝篇)                                                                                       | [43](https://www.youtube.com/watch?v=Uy1FUa3O93M)                                                  |
+| UNIQLO           | 斗俊.起光          | AIRism (辛苦篇) | [44](https://www.youtube.com/watch?v=GQx_RwQMMSg)                                                  |                                                                                                    |
+| Coinwash 크린토피아   | 斗俊             | 投幣式洗衣機       | [45](https://www.youtube.com/watch?v=Fgm1lb-A7BA)[46](https://www.youtube.com/watch?v=3Fa8S89Gy2A) |                                                                                                    |
+| NOLSOOP놀숲        | 全體             | 漫畫咖啡屋        | [47](https://www.youtube.com/watch?v=u0EoAqyPPJ0)                                                  |                                                                                                    |
+| <big>2018年</big> | Coinwash 크린토피아 | 斗俊           | 投幣式洗衣機                                                                                             | [48](https://www.youtube.com/watch?v=TcqiE6f9iA0)[49](https://www.youtube.com/watch?v=lq-smLdf-rY) |
+| 天空城 NARSIA       | 全體             | 手機遊戲         | [50](https://www.youtube.com/watch?v=MZ4Yofa6tEE)                                                  |                                                                                                    |
+| 新羅免稅店            | 全體             | 免稅店          | 新加坡.香港.日本.韓國區域 [51](https://www.shilladfs.com/comm/kr/en/storyStarGallVid)                         |                                                                                                    |
 | SPAO(馬來西亞)       | 全體             | 服飾配件         |                                                                                                    |                                                                                                    |
-| UNIQLO           | 起光             | UNIQLO JEANS | [51](https://www.youtube.com/watch?v=ti6pktCE6NQ)                                                  |                                                                                                    |
+| UNIQLO           | 起光             | UNIQLO JEANS | [52](https://www.youtube.com/watch?v=ti6pktCE6NQ)                                                  |                                                                                                    |
 
 ### 宣傳大使
 
@@ -1252,10 +1154,11 @@ Highlight&成員SNS
   - [HIGHLIGHT](https://www.facebook.com/하이라이트-Highlight-2394624447221231/)的Facebook帳戶
 
   -
-  - [Highlight
-    time_official](https://twitter.com/Hltime_official?lang=zh-tw)的Twitter帳戶
+  - [Highlight time_official](https://twitter.com/Hltime_official?lang=zh-tw)的Twitter帳戶
 
   - [日本會員](https://highlight-fc.jp/)官網
+
+  - [Highlight soundcloud帳號](https://soundcloud.com/highlight_091016)
 
 <!-- end list -->
 
@@ -1269,12 +1172,7 @@ Highlight&成員SNS
   -
   -
   -
-[Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
-[Category:Around_US娛樂](https://zh.wikipedia.org/wiki/Category:Around_US娛樂 "wikilink")
+[Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:Around_US娛樂](https://zh.wikipedia.org/wiki/Category:Around_US娛樂 "wikilink")
 
 1.  [Oh 하이라이트 팬클럽 이름 대공개 Oh](http://www.vlive.tv/video/31994)
 2.
@@ -1290,59 +1188,31 @@ Highlight&成員SNS
 12.
 13.
 14.
-15. [《吃飯吧》昨開播
-    講述單身貴族與美食的情緣](http://www.koreastardaily.com/tc/news/34925)韓星網
-    2013-11-29
-16. [BEAST龍俊亨12月推個人新輯
-    填詞譜曲製作全包](http://www.koreastardaily.com/tc/news/34783)韓星網
-    2013-11-27
-17. [BEAST李起光出席《20歲》發佈會
-    自曝「擔心吻戲太刺激」](http://www.koreastardaily.com/tc/video/35756)韓星網
-    2013-12-19
+15. [《吃飯吧》昨開播 講述單身貴族與美食的情緣](http://www.koreastardaily.com/tc/news/34925)韓星網 2013-11-29
+16. [BEAST龍俊亨12月推個人新輯 填詞譜曲製作全包](http://www.koreastardaily.com/tc/news/34783)韓星網 2013-11-27
+17. [BEAST李起光出席《20歲》發佈會 自曝「擔心吻戲太刺激」](http://www.koreastardaily.com/tc/video/35756)韓星網 2013-12-19
 18. [厲旭、東雲攜手主持新節目](http://kpopn.com/2014/01/30/209456/)kpopn 2014-1-30
-19. [BEAST真人秀《Show
-    Time》4月開播 6成員男孩到男人的蛻變](http://www.koreastardaily.com/tc/news/40001)韓星網
-    2014-3-26
+19. [BEAST真人秀《Show Time》4月開播 6成員男孩到男人的蛻變](http://www.koreastardaily.com/tc/news/40001)韓星網 2014-3-26
 20. [BEAST 日單曲 PV 預告](http://kpopn.com/2014/05/07/222442/)kpopn 2014-5-7
-21. [《Good
-    Luck》歌如其名　為BEAST帶來好運？](http://hk.kpopstarz.com/articles/5858/20140701/good-luck-%E6%AD%8C%E5%A6%82%E5%85%B6%E5%90%8D%E3%80%80%E7%82%BAbeast%E5%B8%B6%E4%BE%86%E5%A5%BD%E9%81%8B.htm)
-    kpopstarz 2014-7-1
-22. [BEAST、独立レーベル設立＆K-POP史上初10ヶ月連続リリース発表「容易いことではない」](http://mdpr.jp/k-enta/detail/1474328)modelpress
-    2015-3-16
-23. [張賢勝 5/8 SOLO 出輯](http://kpopn.com/2015/04/27/272849/)kpopn
-    2015-04-27
+21. [《Good Luck》歌如其名　為BEAST帶來好運？](http://hk.kpopstarz.com/articles/5858/20140701/good-luck-%E6%AD%8C%E5%A6%82%E5%85%B6%E5%90%8D%E3%80%80%E7%82%BAbeast%E5%B8%B6%E4%BE%86%E5%A5%BD%E9%81%8B.htm) kpopstarz 2014-7-1
+22. [BEAST、独立レーベル設立＆K-POP史上初10ヶ月連続リリース発表「容易いことではない」](http://mdpr.jp/k-enta/detail/1474328)modelpress 2015-3-16
+23. [張賢勝 5/8 SOLO 出輯](http://kpopn.com/2015/04/27/272849/)kpopn 2015-04-27
 24. [東雲7/1發表個人日文專輯](http://kpopn.com/2015/05/21/276783/)kpopn 2015-05-21
-
-25. [BEAST7月20日公開先行曲《我要去工作了》](http://www.koreastardaily.com/tc/news/65216)韓星網
-    2015-07-16
-26. [“撲通撲通
-    LOVE”突破六百萬點擊](https://www.kpopn.com/2016/01/04/%e6%92%b2%e9%80%9a%e6%92%b2%e9%80%9a-love%e7%aa%81%e7%a0%b4%e5%85%ad%e7%99%be%e8%90%ac%e9%bb%9e%e6%93%8a/)Kpopn
-    2016-01-04
-27. [感性偶像魅力釋放！BEAST《蝴蝶》MV預告片令人心動！](http://www.vlovekpop.com/20160628-beast-2/)
-    vlovekpop
-28. [沒被退團風波影響！BEAST新曲《Ribbon》橫掃音源榜單1位！](http://www.vlovekpop.com/20160706-beast/)
-    vlovekpop
-29. [BEAST演唱會開始在即！海報預告不一樣的現場魅力](http://www.vlovekpop.com/20160816-beast/)
-    vlovekpop
-30. [BEAST 成立 Around US
-    Entertainment](http://kpopn.niusnews.com/=K0lka346)Kpopn
+25. [BEAST7月20日公開先行曲《我要去工作了》](http://www.koreastardaily.com/tc/news/65216)韓星網 2015-07-16
+26. [“撲通撲通 LOVE”突破六百萬點擊](https://www.kpopn.com/2016/01/04/%e6%92%b2%e9%80%9a%e6%92%b2%e9%80%9a-love%e7%aa%81%e7%a0%b4%e5%85%ad%e7%99%be%e8%90%ac%e9%bb%9e%e6%93%8a/)Kpopn 2016-01-04
+27. [感性偶像魅力釋放！BEAST《蝴蝶》MV預告片令人心動！](http://www.vlovekpop.com/20160628-beast-2/) vlovekpop
+28. [沒被退團風波影響！BEAST新曲《Ribbon》橫掃音源榜單1位！](http://www.vlovekpop.com/20160706-beast/) vlovekpop
+29. [BEAST演唱會開始在即！海報預告不一樣的現場魅力](http://www.vlovekpop.com/20160816-beast/) vlovekpop
+30. [BEAST 成立 Around US Entertainment](http://kpopn.niusnews.com/=K0lka346)Kpopn
 31. [CUBE：張賢勝將與新成員重組 BEAST](http://kpopn.niusnews.com/=K2i665j5)
-32. [公司宣佈重回BEAST組3人團
-    張賢勝打臉「從沒聽過」](http://ent.ltn.com.tw/news/breakingnews/1971065)
-33. [尹斗俊梁耀燮等人新團名確定
-    Highlight展新出發](http://allthatstar.com/tw/view.php?action=5207&postID=315485)
-34. [「最強新人」Highlight
-    火速回歸　快記下回歸行程吧！](http://www.koreastardaily.com/tc/news/94504)
-35. [Around US
-    Ent.](http://aroundusent.com/home/artist_notice_detail/143)
-36. [Highlight回歸新曲《Calling
-    you》概念照曝光](http://www.koreastardaily.com/tc/news/94545)
-37. [Around US
-    Ent.](http://aroundusent.com/home/artist_notice_detail/147)
-38. [HIGHLIGHT首場單獨演唱會《Can you feel
-    it?》門票秒殺　人氣火熱](http://www.koreastardaily.com/tc/news/94004)
-39. [Around US
-    Ent.](http://aroundusent.com/home/artist_notice_detail/130)
+32. [公司宣佈重回BEAST組3人團 張賢勝打臉「從沒聽過」](http://ent.ltn.com.tw/news/breakingnews/1971065)
+33. [尹斗俊梁耀燮等人新團名確定 Highlight展新出發](http://allthatstar.com/tw/view.php?action=5207&postID=315485)
+34. [「最強新人」Highlight 火速回歸　快記下回歸行程吧！](http://www.koreastardaily.com/tc/news/94504)
+35. [Around US Ent.](http://aroundusent.com/home/artist_notice_detail/143)
+36. [Highlight回歸新曲《Calling you》概念照曝光](http://www.koreastardaily.com/tc/news/94545)
+37. [Around US Ent.](http://aroundusent.com/home/artist_notice_detail/147)
+38. [HIGHLIGHT首場單獨演唱會《Can you feel it?》門票秒殺　人氣火熱](http://www.koreastardaily.com/tc/news/94004)
+39. [Around US Ent.](http://aroundusent.com/home/artist_notice_detail/130)
 40. [Oh 하이라이트 팬클럽 이름 대공개 Oh](http://www.vlive.tv/video/31994)
 41. [HIGHLIGHT出道8周年紀念專輯《CELEBRATE》發行倒數中！預告片喚起粉絲無數回憶](http://www.koreastardaily.com/tc/news/98545)
 42.

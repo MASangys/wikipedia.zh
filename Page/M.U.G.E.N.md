@@ -1,6 +1,6 @@
 [MugenStart.jpg](https://zh.wikipedia.org/wiki/File:MugenStart.jpg "fig:MugenStart.jpg")
 
-**M.U.G.E.N**，又稱**MUGEN**，是一款由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Elecbyte用](https://zh.wikipedia.org/wiki/Elecbyte "wikilink")[C語言與](https://zh.wikipedia.org/wiki/C語言 "wikilink")[Allegro程式庫所開發的免費](../Page/Allegro.md "wikilink")2D[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，發佈於1999年-2002年間，2009年後又有新版本的發佈。MUGEN和日語中的「無限」同音。
+**M.U.G.E.N**，又稱**MUGEN**，是一款由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Elecbyte用](https://zh.wikipedia.org/wiki/Elecbyte "wikilink")[C語言與](https://zh.wikipedia.org/wiki/C語言 "wikilink")[Allegro](../Page/Allegro.md "wikilink")程式庫所開發的免費2D[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，發佈於1999年-2002年間，2009年後又有新版本的發佈。MUGEN和日語中的「無限」同音。
 
 M.U.G.E.N據稱是Elecbyte在開發射擊遊戲時衍生的產物，目前M.U.G.E.N有分別在DOS、Windows和Linux等作業系統上運行的版本。
 
@@ -24,8 +24,7 @@ M.U.G.E.N開始時只有一個預設人物，其他人物多半是由其他格�
 
   -
     功夫男是M.U.G.E.N裡唯一的預設人物，也算是這遊戲的主角，有時候也是製作其他人物時所用的參考。
-    功夫男有自己的劇情，大意是講功夫男有天和女友去散步，結果其女友被Suave
-    dude的人抓走，在他到某座秘密的神殿，並將自己的複製人打倒後，卻發現其他的敵人沒有被做出來。
+    功夫男有自己的劇情，大意是講功夫男有天和女友去散步，結果其女友被Suave dude的人抓走，在他到某座秘密的神殿，並將自己的複製人打倒後，卻發現其他的敵人沒有被做出來。
 
 <!-- end list -->
 
@@ -155,13 +154,6 @@ M.U.G.E.N開始時只有一個預設人物，其他人物多半是由其他格�
 
   - \[MUgenworks.ucoz.com MUGEN WORKS\]
   - [elecbyte官網](https://web.archive.org/web/20070701014413/http://www.elecbyte.com/)
-  - [M.U.G.E.N
-    wiki](https://web.archive.org/web/20100413084001/http://elecbyte.com/wiki/index.php/Main_Page)
-    - 內有關於MUGEN人物製作相關的程式碼說明等
+  - [M.U.G.E.N wiki](https://web.archive.org/web/20100413084001/http://elecbyte.com/wiki/index.php/Main_Page) - 內有關於MUGEN人物製作相關的程式碼說明等
 
-[Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink")
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
-[Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
-[Category:愛好者遊戲](https://zh.wikipedia.org/wiki/Category:愛好者遊戲 "wikilink")
+[Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink") [Category:愛好者遊戲](https://zh.wikipedia.org/wiki/Category:愛好者遊戲 "wikilink")

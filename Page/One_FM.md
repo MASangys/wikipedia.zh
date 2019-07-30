@@ -1,8 +1,4 @@
-**one FM**是馬來西亞廣播媒體其中一家私營廣播電台，於2009年1月19日開播，公司全稱為**One
-FM电台私人有限公司**，前身是已被首要媒體收購的Wanita
-FM。該台以[華語和](../Page/馬來西亞華語.md "wikilink")[粵語廣播](https://zh.wikipedia.org/wiki/粵語 "wikilink")，主要播出時下流行的中文歌曲以及一些國際流行的英文和[韩流歌曲](https://zh.wikipedia.org/wiki/韩国流行音乐 "wikilink")。one
-FM的主要面向15至30歲的聽眾，口號为「最Hit」，主要播放流行熱門音樂，也会分享電影、八卦、新聞资讯，并提供赢奖环节。one
-FM设有「一號奇兵」团体，以與民眾有更親密的接觸，提供各种游戏及奖品。
+**one FM**是馬來西亞廣播媒體其中一家私營廣播電台，於2009年1月19日開播，公司全稱為**One FM电台私人有限公司**，前身是已被首要媒體收購的Wanita FM。該台以[華語和](../Page/馬來西亞華語.md "wikilink")[粵語廣播](https://zh.wikipedia.org/wiki/粵語 "wikilink")，主要播出時下流行的中文歌曲以及一些國際流行的英文和[韩流歌曲](https://zh.wikipedia.org/wiki/韩国流行音乐 "wikilink")。one FM的主要面向15至30歲的聽眾，口號为「最Hit」，主要播放流行熱門音樂，也会分享電影、八卦、新聞资讯，并提供赢奖环节。one FM设有「一號奇兵」团体，以與民眾有更親密的接觸，提供各种游戏及奖品。
 
 ## 节目
 
@@ -20,7 +16,7 @@ FM设有「一號奇兵」团体，以與民眾有更親密的接觸，提供各
 
 |                 |            |           |
 | --------------- | ---------- | --------- |
-| 星期六             | Ho Chak\!  | 10am-11am |
+| 星期六             | 吃饱饱        | 10am-11am |
 | 周末快乐点           | 11am-4pm   |           |
 | K2KPOP          | 4pm-5pm    |           |
 | 劲爆30排行榜         | 5pm-8pm    |           |
@@ -50,7 +46,7 @@ FM设有「一號奇兵」团体，以與民眾有更親密的接觸，提供各
 
 ### 快乐点
 
-  - Dino
+  - Hana
 
 ### 周末DJ
 
@@ -88,10 +84,7 @@ FM设有「一號奇兵」团体，以與民眾有更親密的接觸，提供各
   -
   -
   -
-[Category:马来西亚电台](https://zh.wikipedia.org/wiki/Category:马来西亚电台 "wikilink")
-[Category:马来西亚中文广播电台](https://zh.wikipedia.org/wiki/Category:马来西亚中文广播电台 "wikilink")
-[Category:馬來西亞中文媒體](https://zh.wikipedia.org/wiki/Category:馬來西亞中文媒體 "wikilink")
-[Category:2009年建立](https://zh.wikipedia.org/wiki/Category:2009年建立 "wikilink")
+[Category:马来西亚电台](https://zh.wikipedia.org/wiki/Category:马来西亚电台 "wikilink") [Category:马来西亚中文广播电台](https://zh.wikipedia.org/wiki/Category:马来西亚中文广播电台 "wikilink") [Category:馬來西亞中文媒體](https://zh.wikipedia.org/wiki/Category:馬來西亞中文媒體 "wikilink") [Category:2009年建立](https://zh.wikipedia.org/wiki/Category:2009年建立 "wikilink")
 
 1.
 2.

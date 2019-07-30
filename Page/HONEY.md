@@ -1,4 +1,4 @@
-**HONEY**是[榊原由依第](../Page/榊原由依.md "wikilink")2張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2006年9月22日由[LOVE×TRAX發售](https://zh.wikipedia.org/wiki/LOVE×TRAX "wikilink")。
+**HONEY**是[榊原由依](../Page/榊原由依.md "wikilink")第2張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2006年9月22日由[LOVE×TRAX發售](https://zh.wikipedia.org/wiki/LOVE×TRAX "wikilink")。
 
 ## 收錄曲
 
@@ -48,5 +48,4 @@
 15. Love＋2♪song English ver.(DJ SHIMAMURA's HARDCORE CLUB MIX)
 
       -
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
-[Category:榊原由依音樂專輯](https://zh.wikipedia.org/wiki/Category:榊原由依音樂專輯 "wikilink")
+[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:榊原由依音樂專輯](https://zh.wikipedia.org/wiki/Category:榊原由依音樂專輯 "wikilink")

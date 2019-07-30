@@ -1,14 +1,12 @@
-《**Evolution**》為[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins在](https://zh.wikipedia.org/wiki/Twins "wikilink")2003年9月所推出的[廣東](https://zh.wikipedia.org/wiki/廣東 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，而[專輯中的十首](https://zh.wikipedia.org/wiki/專輯 "wikilink")[歌曲都是各種不同的](../Page/歌曲.md "wikilink")[音樂風格](https://zh.wikipedia.org/wiki/音樂風格 "wikilink")。全碟制作人为[伍乐城](https://zh.wikipedia.org/wiki/伍乐城 "wikilink")。
+《**Evolution**》為[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins在](https://zh.wikipedia.org/wiki/Twins "wikilink")2003年9月所推出的[廣東](https://zh.wikipedia.org/wiki/廣東 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，而[專輯中的十首](https://zh.wikipedia.org/wiki/專輯 "wikilink")[歌曲](../Page/歌曲.md "wikilink")都是各種不同的[音樂風格](https://zh.wikipedia.org/wiki/音樂風格 "wikilink")。全碟制作人为[伍乐城](https://zh.wikipedia.org/wiki/伍乐城 "wikilink")。
 
 ## 簡介
 
 由「孖寶668」、「愛情當入樽」，至「女校男生」、「風箏與風」及「千金」，每首歌都標誌著Twins的成長，又隨著年紀增長，歌路變得更成熟。以《進化論》名為新碟，Twins希望以此表示對音樂的熱切訴求，並不斷改進的決心。由古典音樂到流行音樂，可在碟內10首新歌中一一找到，當中包括有華爾滋、拉丁美洲音樂等，十分多元化。
 
-自2001年第一張EP開始，伍樂城便擔任Twins的音樂監製，這次的大碟也不例外，10首歌裡面伍樂城的作品一共7首，差不多佔全碟。當中，「亂世佳人」走一貫的公式情歌并加入鄉村民謠的風格，「你講你愛我」則以百老匯的音樂襯底，是Twins入行以來錄音時間最長的一首歌，「慌心假期」曲子悠揚，曲風屬源自巴西的Bossa
-Nova，是Twins的新嘗試。「朋友的愛」加入大量和音。
+自2001年第一張EP開始，伍樂城便擔任Twins的音樂監製，這次的大碟也不例外，10首歌裡面伍樂城的作品一共7首，差不多佔全碟。當中，「亂世佳人」走一貫的公式情歌并加入鄉村民謠的風格，「你講你愛我」則以百老匯的音樂襯底，是Twins入行以來錄音時間最長的一首歌，「慌心假期」曲子悠揚，曲風屬源自巴西的Bossa Nova，是Twins的新嘗試。「朋友的愛」加入大量和音。
 
-後五首中，「夏日狂嘩」是首動感快歌，對於Twins來說，唱這類作品的新鮮感其實已不大，「高溫瑜珈」是繼[孫燕姿的](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")「神奇」後的印度曲風歌曲。[馮翰銘第一次為Twins寫歌](../Page/馮翰銘.md "wikilink")「香港紐約」，類似風箏與風的二重唱演繹，單立文則首次為Twins寫了搖滾風格的「Beautiful
-Day」，黃丹儀寫了「三角圓舞」。
+後五首中，「夏日狂嘩」是首動感快歌，對於Twins來說，唱這類作品的新鮮感其實已不大，「高溫瑜珈」是繼[孫燕姿的](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")「神奇」後的印度曲風歌曲。[馮翰銘](../Page/馮翰銘.md "wikilink")第一次為Twins寫歌「香港紐約」，類似風箏與風的二重唱演繹，單立文則首次為Twins寫了搖滾風格的「Beautiful Day」，黃丹儀寫了「三角圓舞」。
 
 ## 曲目
 
@@ -82,8 +80,4 @@ Day」，黃丹儀寫了「三角圓舞」。
 
 ## 派台成績
 
-[Category:Twins音樂專輯](https://zh.wikipedia.org/wiki/Category:Twins音樂專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")
+[Category:Twins音樂專輯](https://zh.wikipedia.org/wiki/Category:Twins音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")

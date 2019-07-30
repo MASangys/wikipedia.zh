@@ -1,9 +1,8 @@
-《**假面骑士 THE
-FIRST**》（）是《[假面骑士](https://zh.wikipedia.org/wiki/假面骑士 "wikilink")》诞生35周年纪念作。作品回归原点，以1971年首部《假面骑士》的故事为蓝本展开，讲述了本乡猛与一文字隼人对抗修卡组织的故事。作品展现给观众一种写实的风格，是一部具有现代风格、[成人向的特摄作品](https://zh.wikipedia.org/wiki/成人向 "wikilink")。
+《**假面骑士 THE FIRST**》（）是《[假面骑士](https://zh.wikipedia.org/wiki/假面骑士 "wikilink")》诞生35周年纪念作。作品回归原点，以1971年首部《假面骑士》的故事为蓝本展开，讲述了本乡猛与一文字隼人对抗修卡组织的故事。作品展现给观众一种写实的风格，是一部具有现代风格、[成人向的特摄作品](https://zh.wikipedia.org/wiki/成人向 "wikilink")。
 
 ## 登場人物
 
-**本乡猛（）**（[黄川田将也飾](../Page/黄川田将也.md "wikilink")）
+**本乡猛（）**（[黄川田将也](../Page/黄川田将也.md "wikilink")飾）
 
   -
     **假面騎士1號**的變身者，东京城南大学的高才生。某日在回家的途中被修卡掳走改造成了蝗虫怪人。起初沉溺于自己所获得的强大力量，最后在一次行动中看到正巧下起的雪花，恢复了理智。开始作为假面骑士对抗修卡。
@@ -104,10 +103,7 @@ FIRST**》（）是《[假面骑士](https://zh.wikipedia.org/wiki/假面骑士 
 
 <references/>
 
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:2005年日本電影](https://zh.wikipedia.org/wiki/Category:2005年日本電影 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:重製特攝電影](https://zh.wikipedia.org/wiki/Category:重製特攝電影 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:2005年日本電影](https://zh.wikipedia.org/wiki/Category:2005年日本電影 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:重製特攝電影](https://zh.wikipedia.org/wiki/Category:重製特攝電影 "wikilink")
 
 1.  高野八誠曾出演《[假面骑士龙骑](https://zh.wikipedia.org/wiki/假面骑士龙骑 "wikilink")》中的手冢海之
 2.  宮内洋曾主演《[假面骑士V3](https://zh.wikipedia.org/wiki/假面骑士V3 "wikilink")》主角风见志郎

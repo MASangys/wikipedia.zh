@@ -14,9 +14,7 @@
       -
         作詞･作曲･編曲:渡辺未来
         第20回「東日本女子駅伝」主題曲。
-        2007年發行的精選輯「[BEST 〜BOUNCE &
-        LOVERS〜](https://zh.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")」的附屬DVD收錄其再編輯過的Dance
-        Ver.的音樂錄影帶。
+        2007年發行的精選輯「[BEST 〜BOUNCE & LOVERS〜](https://zh.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")」的附屬DVD收錄其再編輯過的Dance Ver.的音樂錄影帶。
 2.  **SHAKE IT**
       -
         作詞:倖田來未　作曲･編曲:今井大介
@@ -26,5 +24,4 @@
         作詞:倖田 來未/Osamu Shimono 作曲･編曲:Osamu Shimono
         [日本電視台](../Page/日本電視台.md "wikilink")「サンクチュアリ/大人の聖域」主題曲。
 
-[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
+[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink") [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")

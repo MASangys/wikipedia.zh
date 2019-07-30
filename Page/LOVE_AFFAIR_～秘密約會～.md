@@ -1,26 +1,20 @@
-，是日本樂團[南方之星的第](../Page/南方之星.md "wikilink")41張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+，是日本樂團[南方之星](../Page/南方之星.md "wikilink")的第41張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 
-為1998年創下雙白金唱片熱賣記錄的南方之星單曲，並在2005年重新復刻發售。2008年南方之星樂迷票選最受歡迎歌曲活動中，《LOVE
-AFFAIR
-～秘密約會～》奪得第4名的佳績，僅次於《[真夏的果實](../Page/真夏的果實.md "wikilink")》<small>（**1**）</small>、《[希望之轍](../Page/希望之轍.md "wikilink")》<small>（**2**）</small>及《[親愛的艾莉](https://zh.wikipedia.org/wiki/親愛的艾莉 "wikilink")》<small>（**3**）</small>。\[1\]
+為1998年創下雙白金唱片熱賣記錄的南方之星單曲，並在2005年重新復刻發售。2008年南方之星樂迷票選最受歡迎歌曲活動中，《LOVE AFFAIR ～秘密約會～》奪得第4名的佳績，僅次於《[真夏的果實](../Page/真夏的果實.md "wikilink")》<small>（**1**）</small>、《[希望之轍](../Page/希望之轍.md "wikilink")》<small>（**2**）</small>及《[親愛的艾莉](https://zh.wikipedia.org/wiki/親愛的艾莉 "wikilink")》<small>（**3**）</small>。\[1\]
 
 ## 歌詞景點
 
-《LOVE AFFAIR
-～秘密約會～》內容為描寫著[外遇的戀情](../Page/外遇.md "wikilink")，創作者桑田佳祐也以[橫濱當地著名的景點或場所做為歌詞中約會玩樂的舞台](https://zh.wikipedia.org/wiki/橫濱 "wikilink")，包括[橫濱港的](../Page/橫濱港.md "wikilink")一帶、港區的觀光遊艇、樓層裡的、等等。
+《LOVE AFFAIR ～秘密約會～》內容為描寫著[外遇](../Page/外遇.md "wikilink")的戀情，創作者桑田佳祐也以[橫濱當地著名的景點或場所做為歌詞中約會玩樂的舞台](https://zh.wikipedia.org/wiki/橫濱 "wikilink")，包括[橫濱港](../Page/橫濱港.md "wikilink")的一帶、港區的觀光遊艇、樓層裡的、等等。
 
 （但桑田佳祐當時在歌詞中寫的出現筆誤，因從大黒埠頭望過去的橋為[橫濱海灣大橋](../Page/橫濱海灣大橋.md "wikilink")。）
 
 ## 相關戲劇小說
 
-1998年由[松島菜菜子在](https://zh.wikipedia.org/wiki/松島菜菜子 "wikilink")[TBS電視台主演的戲劇](../Page/TBS電視台.md "wikilink")《[甜蜜季節](https://zh.wikipedia.org/wiki/甜蜜季節 "wikilink")》（Sweet
-Season）採用《LOVE AFFAIR ～秘密約會～》作為主題曲，該戲劇內容同樣以外遇戀情為主、並以橫濱一帶為背景。
+1998年由[松島菜菜子在](https://zh.wikipedia.org/wiki/松島菜菜子 "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")主演的戲劇《[甜蜜季節](https://zh.wikipedia.org/wiki/甜蜜季節 "wikilink")》（Sweet Season）採用《LOVE AFFAIR ～秘密約會～》作為主題曲，該戲劇內容同樣以外遇戀情為主、並以橫濱一帶為背景。
 
-推理小說家[東野圭吾在](../Page/東野圭吾.md "wikilink")2007年發表的作品中，在劇情上除了同樣以外遇為主軸、選用橫濱作為故事背景外，在其中一段章節還描述著書中角色在[卡啦OK店裡歌唱著](https://zh.wikipedia.org/wiki/卡啦OK "wikilink")《LOVE
-AFFAIR
-～秘密約會～》的橋段。事後2007年7月7日，桑田佳祐在主持的廣播節目向聽眾講解該本小說與單曲之間內容的關連性外，並發表自己的讀後感想。
+推理小說家[東野圭吾](../Page/東野圭吾.md "wikilink")在2007年發表的作品中，在劇情上除了同樣以外遇為主軸、選用橫濱作為故事背景外，在其中一段章節還描述著書中角色在[卡啦OK店裡歌唱著](https://zh.wikipedia.org/wiki/卡啦OK "wikilink")《LOVE AFFAIR ～秘密約會～》的橋段。事後2007年7月7日，桑田佳祐在主持的廣播節目向聽眾講解該本小說與單曲之間內容的關連性外，並發表自己的讀後感想。
 
 ## 唱片封面造型
 
@@ -68,8 +62,7 @@ AFFAIR
 
 ## 外部連結
 
-  - [南方之星官方網站單曲介紹：《LOVE AFFAIR
-    ～秘密約會～》](http://www.sas-fan.net/discography/items/VICL-36041.html)
+  - [南方之星官方網站單曲介紹：《LOVE AFFAIR ～秘密約會～》](http://www.sas-fan.net/discography/items/VICL-36041.html)
 
   - [歌詞中提及的港區觀光遊艇](https://web.archive.org/web/20061206223508/http://www.yokohama-cruising.jp/ship/rouge.html)
 
@@ -79,9 +72,6 @@ AFFAIR
 
 ## 參考資料
 
-[Category:南方之星歌曲](https://zh.wikipedia.org/wiki/Category:南方之星歌曲 "wikilink")
-[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink")
-[Category:TBS電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台電視劇主題曲 "wikilink")
-[Category:外遇題材樂曲](https://zh.wikipedia.org/wiki/Category:外遇題材樂曲 "wikilink")
+[Category:南方之星歌曲](https://zh.wikipedia.org/wiki/Category:南方之星歌曲 "wikilink") [Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:TBS電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台電視劇主題曲 "wikilink") [Category:外遇題材樂曲](https://zh.wikipedia.org/wiki/Category:外遇題材樂曲 "wikilink")
 
 1.

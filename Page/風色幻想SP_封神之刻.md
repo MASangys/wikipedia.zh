@@ -1,4 +1,4 @@
-**風色幻想SP－封神之刻**，爱好者中通称“SP”，是[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[弘煜科技事业股份有限公司开发制作](../Page/弘煜科技.md "wikilink")，于2000年发售的[角色扮演游戏](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")。是该公司[风色幻想系列的第二部作品](https://zh.wikipedia.org/wiki/风色幻想 "wikilink")。
+**風色幻想SP－封神之刻**，爱好者中通称“SP”，是[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[弘煜科技](../Page/弘煜科技.md "wikilink")事业股份有限公司开发制作，于2000年发售的[角色扮演游戏](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")。是该公司[风色幻想系列的第二部作品](https://zh.wikipedia.org/wiki/风色幻想 "wikilink")。
 
 ## 游戏版本
 
@@ -53,8 +53,7 @@
   -
 
       -
-        将[前作的Disc](https://zh.wikipedia.org/wiki/魔導聖戰～風色幻想～ "wikilink")
-        2（音乐片）放入光驱的状态下进入本游戏，
+        将[前作的Disc](https://zh.wikipedia.org/wiki/魔導聖戰～風色幻想～ "wikilink") 2（音乐片）放入光驱的状态下进入本游戏，
         即可进入本特别篇。讲述前作故事结束后，某些角色的去向，和本作没有任何关系。
 
 <!-- end list -->
@@ -476,9 +475,7 @@
 
 [官方网站](http://www.fy.com.tw/product/game/sp/index.htm)
 
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink")
-[Category:风色幻想系列](https://zh.wikipedia.org/wiki/Category:风色幻想系列 "wikilink")
+[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink") [Category:风色幻想系列](https://zh.wikipedia.org/wiki/Category:风色幻想系列 "wikilink")
 
 1.  但可以通过直接拷贝游戏文件到硬盘上达到“安装”的效果，也可以正常执行，但这是玩家自行找到的解决方法，不是官方的意见。
 

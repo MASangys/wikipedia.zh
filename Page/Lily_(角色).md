@@ -1,4 +1,4 @@
-**Lily**（）是[m.o.v.e乐队主唱](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")的形象化角色，出现在她乐队的系列专辑《anim.o.v.e》中，后[Internet为此角色推出了一套采用](../Page/Internet_\(公司\).md "wikilink")[Vocaloid](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")[语音合成技术的](../Page/语音合成.md "wikilink")[数据库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")。
+**Lily**（）是[m.o.v.e乐队主唱](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")的形象化角色，出现在她乐队的系列专辑《anim.o.v.e》中，后[Internet为此角色推出了一套采用](../Page/Internet_\(公司\).md "wikilink")[Vocaloid](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")[语音合成](../Page/语音合成.md "wikilink")技术的[数据库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")。
 
 ## 人物设定
 
@@ -13,8 +13,7 @@ Lily是在虚拟乐队「anim.o.v.e」中作为主唱的角色，其他两个成
 
 ### Vocaloid 2
 
-**《VOCALOID2 Library
-Lily》**是以m.o.v.e乐队的歌手yuri为基础打造，通过输入旋律和歌词，可合成出还原yuri声质的歌声。
+**《VOCALOID2 Library Lily》**是以m.o.v.e乐队的歌手yuri为基础打造，通过输入旋律和歌词，可合成出还原yuri声质的歌声。
 
 <table>
 <thead>
@@ -46,9 +45,7 @@ Lily》**是以m.o.v.e乐队的歌手yuri为基础打造，通过输入旋律和
 
 ### Vocaloid 3
 
-**《VOCALOID™3 Library Lily》**包含了以Vocaloid3新规则录制开发的「Lily
-V3」数据库，和保留下「VOCALOID2 Lily」的声质和细节的「Lily
-Native」数据库。
+**《VOCALOID™3 Library Lily》**包含了以Vocaloid3新规则录制开发的「Lily V3」数据库，和保留下「VOCALOID2 Lily」的声质和细节的「Lily Native」数据库。
 在安装Internet发售的其他声库下，对应的“Lily”XSY组将扩展至“INTERNET”组。
 
 | 歌声资料库        | 擅长节奏/[BPM](https://zh.wikipedia.org/wiki/速度_\(音樂\)#量度音樂速度 "wikilink") | 擅长音域   | XSY组          |
@@ -56,8 +53,7 @@ Native」数据库。
 | Lily_Native | 90\~180                                                               | D2\~D4 | Lily/INTERNET |
 | Lily_V3     | 90\~180                                                               | D2\~G4 | Lily/INTERNET |
 
-2013年4月，[Internet发布了适用于](../Page/Internet_\(公司\).md "wikilink")[Mac的Vocaloid](https://zh.wikipedia.org/wiki/Mac "wikilink")
-Neo引擎版本。
+2013年4月，[Internet发布了适用于](../Page/Internet_\(公司\).md "wikilink")[Mac的Vocaloid](https://zh.wikipedia.org/wiki/Mac "wikilink") Neo引擎版本。
 
 #### 试听曲
 
@@ -77,8 +73,6 @@ Neo引擎版本。
 
 ## 参考资料
 
-[Category:Vocaloid2引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid2引擎产品 "wikilink")
-[Category:Vocaloid3引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid3引擎产品 "wikilink")
-[Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink")
+[Category:Vocaloid2引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid2引擎产品 "wikilink") [Category:Vocaloid3引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid3引擎产品 "wikilink") [Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink")
 
 1.

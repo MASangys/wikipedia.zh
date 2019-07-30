@@ -1,12 +1,6 @@
-[Wide_Field_Imager_view_of_the_star_formation_region_NGC_3582.jpg](https://zh.wikipedia.org/wiki/File:Wide_Field_Imager_view_of_the_star_formation_region_NGC_3582.jpg "fig:Wide_Field_Imager_view_of_the_star_formation_region_NGC_3582.jpg")在智利[拉西拉天文台的廣視頁成像儀拍攝的](../Page/拉西拉天文台.md "wikilink")。\]\]
-**RCW星表** (**R**odgers、**C**ampbell、和**W**hiteoak)
-是南天的[銀河系內](https://zh.wikipedia.org/wiki/銀河系 "wikilink")[電離氫區的](https://zh.wikipedia.org/wiki/電離氫區 "wikilink")[H-α輻射的](../Page/H-α.md "wikilink")[天文學目錄](https://zh.wikipedia.org/wiki/天文學目錄 "wikilink")，是羅傑斯等人在1960年代評述的。它有180個天體，並且包括較早期的[古姆星表](../Page/古姆星表.md "wikilink")
-(84個)，和晚期包括一些RCW天體的[科德韋爾深空天體表](https://zh.wikipedia.org/wiki/科德韋爾深空天體表 "wikilink")。他也與[沙普利斯亮星雲表](https://zh.wikipedia.org/wiki/沙普利斯亮星雲表 "wikilink")-2
-(312個天體) 有部分重疊，雖然後者主要涵蓋北半球，而RCW和古姆星表主要涵蓋南半球。
+[Wide_Field_Imager_view_of_the_star_formation_region_NGC_3582.jpg](https://zh.wikipedia.org/wiki/File:Wide_Field_Imager_view_of_the_star_formation_region_NGC_3582.jpg "fig:Wide_Field_Imager_view_of_the_star_formation_region_NGC_3582.jpg")在智利[拉西拉天文台](../Page/拉西拉天文台.md "wikilink")的廣視頁成像儀拍攝的。\]\] **RCW星表** (**R**odgers、**C**ampbell、和**W**hiteoak) 是南天的[銀河系內](https://zh.wikipedia.org/wiki/銀河系 "wikilink")[電離氫區的](https://zh.wikipedia.org/wiki/電離氫區 "wikilink")[H-α](../Page/H-α.md "wikilink")輻射的[天文學目錄](https://zh.wikipedia.org/wiki/天文學目錄 "wikilink")，是羅傑斯等人在1960年代評述的。它有180個天體，並且包括較早期的[古姆星表](../Page/古姆星表.md "wikilink") (84個)，和晚期包括一些RCW天體的[科德韋爾深空天體表](https://zh.wikipedia.org/wiki/科德韋爾深空天體表 "wikilink")。他也與[沙普利斯亮星雲表](https://zh.wikipedia.org/wiki/沙普利斯亮星雲表 "wikilink")-2 (312個天體) 有部分重疊，雖然後者主要涵蓋北半球，而RCW和古姆星表主要涵蓋南半球。
 
-這份星表由亞歷山大·威廉·羅傑斯、柯林
-T·坎貝爾、和約翰·巴特利特·懷特科，他們於1960年代在澳大利亞[斯壯羅山天文台工作的](https://zh.wikipedia.org/wiki/斯壯羅山天文台 "wikilink")[巴特·包克](../Page/巴特·包克.md "wikilink")
-(Bart Bok) 領導下，編製了這本南天星雲的目錄。
+這份星表由亞歷山大·威廉·羅傑斯、柯林 T·坎貝爾、和約翰·巴特利特·懷特科，他們於1960年代在澳大利亞[斯壯羅山天文台工作的](https://zh.wikipedia.org/wiki/斯壯羅山天文台 "wikilink")[巴特·包克](../Page/巴特·包克.md "wikilink") (Bart Bok) 領導下，編製了這本南天星雲的目錄。
 
 ## 例子
 
@@ -219,13 +213,9 @@ T·坎貝爾、和約翰·巴特利特·懷特科，他們於1960年代在澳大
   -
 ## 外部連結
 
-  - [The RCW Catalog](http://galaxymap.org/cgi-bin/rcw.py?s=1) (details
-    and photographs of objects)
-  - [Galactic Explorers: Gum, Bok and
-    Sharpless](http://galaxymap.org/drupal/node/33) (history)
-  - ESO,
-    [RCW 86](https://web.archive.org/web/20090628101125/http://www.eso.org/gallery/v/Videos/Nebulae/vid-23a-09_FLASH.flv.html)
-    video
+  - [The RCW Catalog](http://galaxymap.org/cgi-bin/rcw.py?s=1) (details and photographs of objects)
+  - [Galactic Explorers: Gum, Bok and Sharpless](http://galaxymap.org/drupal/node/33) (history)
+  - ESO, [RCW 86](https://web.archive.org/web/20090628101125/http://www.eso.org/gallery/v/Videos/Nebulae/vid-23a-09_FLASH.flv.html) video
 
 ## 相關條目
 
@@ -233,5 +223,4 @@ T·坎貝爾、和約翰·巴特利特·懷特科，他們於1960年代在澳大
   - [古姆星表](../Page/古姆星表.md "wikilink")
   - [科德韋爾深空天體表](https://zh.wikipedia.org/wiki/科德韋爾深空天體表 "wikilink")
 
-[Category:天文學目錄](https://zh.wikipedia.org/wiki/Category:天文學目錄 "wikilink")
-[Category:電離氫區](https://zh.wikipedia.org/wiki/Category:電離氫區 "wikilink")
+[Category:天文學目錄](https://zh.wikipedia.org/wiki/Category:天文學目錄 "wikilink") [Category:電離氫區](https://zh.wikipedia.org/wiki/Category:電離氫區 "wikilink")

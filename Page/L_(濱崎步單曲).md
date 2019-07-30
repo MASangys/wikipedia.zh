@@ -1,10 +1,8 @@
 \-{T|L}-
 
-《**L**》為[日本歌手](../Page/日本.md "wikilink")[濱崎步發行的第](../Page/濱崎步.md "wikilink")50張單曲，2010年9月29日於日本發售，10月1日於台灣發售。本作品是濱崎步50單曲三連發慶祝計畫的最後一張單曲，也是她繼《[&](../Page/&_\(濱崎步單曲\).md "wikilink")》之後的第四張的多A面單曲，在這張單曲中收錄了《Virgin
-Road》、《Sweet Season》、《Last angel》三首作品。
+《**L**》為[日本](../Page/日本.md "wikilink")歌手[濱崎步](../Page/濱崎步.md "wikilink")發行的第50張單曲，2010年9月29日於日本發售，10月1日於台灣發售。本作品是濱崎步50單曲三連發慶祝計畫的最後一張單曲，也是她繼《[&](../Page/&_\(濱崎步單曲\).md "wikilink")》之後的第四張的多A面單曲，在這張單曲中收錄了《Virgin Road》、《Sweet Season》、《Last angel》三首作品。
 
-這張單曲發行後，濱崎步正式超越松田聖子，從2002年發行的《[Free &
-Easy](../Page/Free_&_Easy.md "wikilink")》開始，總計连续25張單曲都登上了公信榜的首周冠軍，成為日本史上連續冠軍單曲最多張的女性歌手。
+這張單曲發行後，濱崎步正式超越松田聖子，從2002年發行的《[Free & Easy](../Page/Free_&_Easy.md "wikilink")》開始，總計连续25張單曲都登上了公信榜的首周冠軍，成為日本史上連續冠軍單曲最多張的女性歌手。
 
 ## 說明
 
@@ -81,11 +79,8 @@ Easy](../Page/Free_&_Easy.md "wikilink")》開始，總計连续25張單曲都�
 1.  **Last angel (Original mix)**
 2.  **Virgin Road (Original mix)**
 3.  **Sweet Season (Original mix)**
-4.  **[crossroad](https://zh.wikipedia.org/wiki/crossroad "wikilink")
-    (Orchestra version)**
-5.  **[SEVEN DAYS
-    WAR](https://zh.wikipedia.org/wiki/crossroad "wikilink") (Orchestra
-    version)**
+4.  **[crossroad](https://zh.wikipedia.org/wiki/crossroad "wikilink") (Orchestra version)**
+5.  **[SEVEN DAYS WAR](https://zh.wikipedia.org/wiki/crossroad "wikilink") (Orchestra version)**
 6.  **Last angel (Original mix -Instrumental-)**
 7.  **Virgin Road (Original mix -Instrumental-)**
 8.  **Sweet Season (Original mix -Instrumental-)**
@@ -96,9 +91,7 @@ Easy](../Page/Free_&_Easy.md "wikilink")》開始，總計连续25張單曲都�
 
 <!-- end list -->
 
-1.  **[SEVEN DAYS
-    WAR](https://zh.wikipedia.org/wiki/crossroad "wikilink") (TK
-    Acoustic Piano version)**
+1.  **[SEVEN DAYS WAR](https://zh.wikipedia.org/wiki/crossroad "wikilink") (TK Acoustic Piano version)**
 2.  **Virgin Road (Original mix)**
 3.  **Sweet Season (Original mix)**
 4.  **Last angel (Original mix)**
@@ -121,9 +114,4 @@ Easy](../Page/Free_&_Easy.md "wikilink")》開始，總計连续25張單曲都�
 
 [分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 
-[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:2010年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:小室哲哉創作的詞曲](https://zh.wikipedia.org/wiki/Category:小室哲哉創作的詞曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
+[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:2010年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon單曲週榜冠軍作品 "wikilink") [Category:小室哲哉創作的詞曲](https://zh.wikipedia.org/wiki/Category:小室哲哉創作的詞曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")

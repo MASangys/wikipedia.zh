@@ -1,5 +1,4 @@
-**PASSPO☆** 是[日本](../Page/日本.md "wikilink")「PLATINUM
-PASSPORT」演藝經紀公司旗下、以旅行為主題組成的7人女子團體。於2009年6月1日正式組成。
+**PASSPO☆** 是[日本](../Page/日本.md "wikilink")「PLATINUM PASSPORT」演藝經紀公司旗下、以旅行為主題組成的7人女子團體。於2009年6月1日正式組成。
 
 ## 成員
 
@@ -171,16 +170,15 @@ PASSPO☆手機網站總編輯[2]</p></td>
 
 ### 特色
 
-以「**大家一起創造的偶像團體**」為概念，並以旅遊和天空的世界觀為主題。歌曲是以[Girl's
-Rock的路線為主](https://zh.wikipedia.org/wiki/Girl's_Rock "wikilink")。
+以「**大家一起創造的偶像團體**」為概念，並以旅遊和天空的世界觀為主題。歌曲是以[Girl's Rock的路線為主](https://zh.wikipedia.org/wiki/Girl's_Rock "wikilink")。
 
 [十人十色](https://zh.wikipedia.org/wiki/十人十色 "wikilink")10名成員各有自己的代表色，依照每個人不同的個性構成。
 
 ### 大家一起創造的偶像團體
 
-以[部落格和](https://zh.wikipedia.org/wiki/部落格 "wikilink")[Twitter為中心](../Page/Twitter.md "wikilink")、收集歌迷和成員的建議和討論下產生的團體。
+以[部落格和](https://zh.wikipedia.org/wiki/部落格 "wikilink")[Twitter](../Page/Twitter.md "wikilink")為中心、收集歌迷和成員的建議和討論下產生的團體。
 
-音樂性質是以[摇滚乐為概念](../Page/摇滚乐.md "wikilink")。
+音樂性質是以[摇滚乐](../Page/摇滚乐.md "wikilink")為概念。
 
 ### 團體名
 
@@ -563,13 +561,11 @@ CD+DVD</p></td>
 
 ### 電視
 
-  - [GIRLS POP
-    NEXT](https://zh.wikipedia.org/wiki/GIRLS_POP_NEXT "wikilink")（エンタ\!371）
+  - [GIRLS POP NEXT](https://zh.wikipedia.org/wiki/GIRLS_POP_NEXT "wikilink")（エンタ\!371）
 
   - （2010年4月5日 - 6月28日、[神奈川電視台](../Page/神奈川電視台.md "wikilink")） - 固定班底
 
-  - （2011年4月23日、[TBS](../Page/TBS電視台.md "wikilink")） -
-    <small></small>（奥仲・增井・根岸）
+  - （2011年4月23日、[TBS](../Page/TBS電視台.md "wikilink")） - <small></small>（奥仲・增井・根岸）
 
   - （2011年5月4日、[富士電視台](../Page/富士電視台.md "wikilink")）
 
@@ -583,8 +579,7 @@ CD+DVD</p></td>
 
   - （2011年7月1日、[CBC電視台](../Page/中部日本放送.md "wikilink")）
 
-  - [HEY\!HEY\!HEY\!MUSIC
-    CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")（2011年7月4日、富士電視台）
+  - [HEY\!HEY\!HEY\!MUSIC CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")（2011年7月4日、富士電視台）
 
   - （2011年8月26日、日本電視台）
 
@@ -610,8 +605,7 @@ CD+DVD</p></td>
 
 ### 電台
 
-  - [MUSIC Y2](https://zh.wikipedia.org/wiki/MUSIC_Y2 "wikilink")（[TOKYO
-    FM](../Page/FM東京.md "wikilink")）
+  - [MUSIC Y2](https://zh.wikipedia.org/wiki/MUSIC_Y2 "wikilink")（[TOKYO FM](../Page/FM東京.md "wikilink")）
 
 ### 網路廣播
 
@@ -619,30 +613,25 @@ CD+DVD</p></td>
 
 ### 電影
 
-  - [Cheerfu11y](https://zh.wikipedia.org/wiki/Cheerfu11y "wikilink")（2011年10月22日公開）
-    - （森・玉井・佐久間・安齊）\[7\]\[8\]
+  - [Cheerfu11y](https://zh.wikipedia.org/wiki/Cheerfu11y "wikilink")（2011年10月22日公開） - （森・玉井・佐久間・安齊）\[7\]\[8\]
 
 ### 舞台
 
-  - （2010年3月20 - 22日、劇場HOPE /
-    再演：2010年8月28日、[汐留AX](https://zh.wikipedia.org/wiki/汐博#SHIODOME-AX（2010年） "wikilink")）
+  - （2010年3月20 - 22日、劇場HOPE / 再演：2010年8月28日、[汐留AX](https://zh.wikipedia.org/wiki/汐博#SHIODOME-AX（2010年） "wikilink")）
 
 ### 活動
 
-  - [TOKYO IDOL FESTIVAL 2010
-    @Shinagawa](https://zh.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2010_@Shinagawa "wikilink")（2010年8月7日、8日、、、周邊施設）
+  - [TOKYO IDOL FESTIVAL 2010 @Shinagawa](https://zh.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2010_@Shinagawa "wikilink")（2010年8月7日、8日、、、周邊施設）
 
 ### 廣告
 
-  - [TBS廣播與信息公司](https://zh.wikipedia.org/wiki/TBS廣播與信息公司 "wikilink")
-    活動代言人（2011年）
+  - [TBS廣播與信息公司](https://zh.wikipedia.org/wiki/TBS廣播與信息公司 "wikilink") 活動代言人（2011年）
 
 ## 書籍
 
 ### 写真集
 
-  - CIELO <small>passpo official photo book</small>（2010年12月6日、SymBook）
-    - 販賣部數1000冊限定
+  - CIELO <small>passpo official photo book</small>（2010年12月6日、SymBook） - 販賣部數1000冊限定
 
 ### 雑誌
 
@@ -650,9 +639,7 @@ CD+DVD</p></td>
   - 『』Vol.18
   - 『[BOMB](https://zh.wikipedia.org/wiki/BOMB "wikilink")』4月号 - 只有奥仲、槙田
   - 『[週刊Playboy](../Page/週刊Playboy.md "wikilink")』2011年4月18日号 - 只有奥仲
-  - 『[週刊Young
-    Magazine](../Page/週刊Young_Magazine.md "wikilink")』2011年4月25日号
-    - 只有奥仲
+  - 『[週刊Young Magazine](../Page/週刊Young_Magazine.md "wikilink")』2011年4月25日号 - 只有奥仲
   - 『[週刊Playboy](../Page/週刊Playboy.md "wikilink")』2011年7月号 全員
   - 『[B.L.T](https://zh.wikipedia.org/wiki/B.L.T "wikilink")』連載
 
@@ -722,5 +709,4 @@ CD+DVD</p></td>
 6.
 7.
 
-8.  [](http://www.universal-music.co.jp/universalj/movie/cheerfu11y/biography.php)
-    . 2011年9月8日閲覧。
+8.  [](http://www.universal-music.co.jp/universalj/movie/cheerfu11y/biography.php) . 2011年9月8日閲覧。

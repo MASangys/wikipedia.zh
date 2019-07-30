@@ -1,18 +1,14 @@
-**Mao**（まお、12月20日 - ），別名
-[Duca](https://zh.wikipedia.org/wiki/Duca "wikilink") （デュッカ），是Peak A
-Soul+音乐小组旗下的一位[日本女性歌手](../Page/日本.md "wikilink")，出生于日本[神奈川县](https://zh.wikipedia.org/wiki/神奈川县 "wikilink")，主要参与动画主题歌的演唱及作词。她最为知名的歌曲包括[薄樱鬼片尾曲的](https://zh.wikipedia.org/wiki/薄樱鬼 "wikilink")“君ノ记忆”。
+**Mao**（まお、12月20日 - ），別名 [Duca](https://zh.wikipedia.org/wiki/Duca "wikilink") （デュッカ），是Peak A Soul+音乐小组旗下的一位[日本](../Page/日本.md "wikilink")女性歌手，出生于日本[神奈川县](https://zh.wikipedia.org/wiki/神奈川县 "wikilink")，主要参与动画主题歌的演唱及作词。她最为知名的歌曲包括[薄樱鬼片尾曲的](https://zh.wikipedia.org/wiki/薄樱鬼 "wikilink")“君ノ记忆”。
 
 ### 单曲
 
 1.  [實現夢想的多啦A夢](../Page/實現夢想的多啦A夢.md "wikilink")（）
-      - 2007年7月4日發售 /
-        [コロムビアミュージックエンタテインメント](https://zh.wikipedia.org/wiki/日本コロムビア "wikilink")（現：日本コロムビア。以下同様）
+      - 2007年7月4日發售 / [コロムビアミュージックエンタテインメント](https://zh.wikipedia.org/wiki/日本コロムビア "wikilink")（現：日本コロムビア。以下同様）
           - 電視動畫『[ドラえもん](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")』（哆啦A梦）片头曲
 2.  自転車にのって
       - 2009年4月22日發售 / コロムビアミュージックエンタテインメント
           - 電視動畫『[クプ〜\!\!まめゴマ\!](https://zh.wikipedia.org/wiki/まめゴマ#メディア展開 "wikilink")』片尾曲
-          - 片頭曲「サンキュ\!は I LOVE
-            YOU」（[宮本佳那子](../Page/宮本佳那子.md "wikilink")）のc/w
+          - 片頭曲「サンキュ\!は I LOVE YOU」（[宮本佳那子](../Page/宮本佳那子.md "wikilink")）のc/w
 3.  君ノ記憶
       - 2010年4月21日發售 / ティームエンタテインメント
           - 電視動畫『[薄櫻鬼](https://zh.wikipedia.org/wiki/薄櫻鬼_〜新選組奇譚〜 "wikilink")』片尾曲
@@ -36,16 +32,14 @@ Soul+音乐小组旗下的一位[日本女性歌手](../Page/日本.md "wikilink
     3.  君ノ記憶 (你的記憶)
           - 電視動畫『薄桜鬼』片尾曲
     4.  Departure
-          - PS2遊戲『[S.Y.K
-            〜新説西遊記〜](https://zh.wikipedia.org/wiki/S.Y.K_〜新説西遊記〜 "wikilink")』片尾曲
+          - PS2遊戲『[S.Y.K 〜新説西遊記〜](https://zh.wikipedia.org/wiki/S.Y.K_〜新説西遊記〜 "wikilink")』片尾曲
     5.  終わらない世界
           - PS3遊戲『[アガレスト戦記ZERO](https://zh.wikipedia.org/wiki/アガレスト戦記 "wikilink")』片头曲
     6.  ココにいる。
           - PS2遊戲『S.Y.K 〜蓮咲伝〜』OPテーマ
     7.  センチメント
     8.  Dia
-          - PS3遊戲『[トトリのアトリエ
-            〜アーランドの錬金術士2〜](https://zh.wikipedia.org/wiki/トトリのアトリエ_〜アーランドの錬金術士2〜 "wikilink")』片尾曲
+          - PS3遊戲『[トトリのアトリエ 〜アーランドの錬金術士2〜](https://zh.wikipedia.org/wiki/トトリのアトリエ_〜アーランドの錬金術士2〜 "wikilink")』片尾曲
     9.  小さな翼
           - クリエイティブRPG『蒼空のフロンティア』主題歌
     10. S.Y.K
@@ -91,12 +85,9 @@ Soul+音乐小组旗下的一位[日本女性歌手](../Page/日本.md "wikilink
 ## 外部链接
 
   - [博客“maoココロのよりどころ”](http://blog.excite.co.jp/maococua)
-  - [TEAM Entertainment
-    mao特設サイト](http://www.team-e.co.jp/sp/archive/mao.html)
+  - [TEAM Entertainment mao特設サイト](http://www.team-e.co.jp/sp/archive/mao.html)
   - [mao offical web site](http://www.peakasoul.jp/mao/)
   - [Cocua](http://www.hekatoncheir.net/~cocua/)
   - [Peak A Soul+](http://www.peakasoul.jp/)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink")

@@ -1,10 +1,8 @@
-**每一秒都Love for you**（一秒ごとに Love for
-you）是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第二十九張單曲](../Page/倉木麻衣.md "wikilink")，於2008年7月9日發行。
+**每一秒都Love for you**（一秒ごとに Love for you）是[日本](../Page/日本.md "wikilink")歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第二十九張單曲，於2008年7月9日發行。
 
 ## 簡介
 
-  - 自單曲「[白雪](../Page/白雪_\(倉木麻衣單曲\).md "wikilink")」約1年半後第9次成為動畫[名偵探柯南的歌](../Page/名偵探柯南.md "wikilink")，片頭曲則是自「[Growing
-    of my heart](../Page/Growing_of_my_heart.md "wikilink")」後約2年半。
+  - 自單曲「[白雪](../Page/白雪_\(倉木麻衣單曲\).md "wikilink")」約1年半後第9次成為動畫[名偵探柯南](../Page/名偵探柯南.md "wikilink")的歌，片頭曲則是自「[Growing of my heart](../Page/Growing_of_my_heart.md "wikilink")」後約2年半。
   - 在「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」的開始動畫中，出現了以倉木為原型的動畫人物。
   - 首次收錄了B面歌的純音樂版本。
   - 初回盤收錄了「每一秒都Love for you」的PV。
@@ -43,7 +41,4 @@ you）是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第二十�
 
 ## 外部連結
 
-[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
+[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")

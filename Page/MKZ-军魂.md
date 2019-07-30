@@ -1,11 +1,8 @@
-《**MKZ-军魂**》是由[中国大陆的](../Page/中国大陆.md "wikilink")[目标软件开发的一款](https://zh.wikipedia.org/wiki/目标软件 "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。标题中的“MKZ”为“**M**etal
-**K**night
-**Z**ero”的缩写。目标软件将其定义为“进化的FPS（第一人称射击游戏）”，也就是“FTS（第一人称战略射击游戏）”。\[1\]
+《**MKZ-军魂**》是由[中国大陆](../Page/中国大陆.md "wikilink")的[目标软件开发的一款](https://zh.wikipedia.org/wiki/目标软件 "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。标题中的“MKZ”为“**M**etal **K**night **Z**ero”的缩写。目标软件将其定义为“进化的FPS（第一人称射击游戏）”，也就是“FTS（第一人称战略射击游戏）”。\[1\]
 
 游戏在中国大陆由新兴网游公司[深圳市壹柒伍网络科技有限公司运营](https://zh.wikipedia.org/wiki/175公司 "wikilink")，[游戏橘子取得了台湾地区的发行权](https://zh.wikipedia.org/wiki/游戏橘子 "wikilink")。除此之外，游戏有意向在[美国](../Page/美国.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[日本](../Page/日本.md "wikilink")、[韩国等国家发行](https://zh.wikipedia.org/wiki/韩国 "wikilink")。\[2\]游戏邀请台湾艺人[郭书瑶担任](https://zh.wikipedia.org/wiki/郭书瑶 "wikilink")[代言人一职](https://zh.wikipedia.org/wiki/代言人 "wikilink")。\[3\]
 
-游戏采用了目标软件自主研发的[奥世](https://zh.wikipedia.org/wiki/奥世引擎 "wikilink")（Overmax）[游戏引擎](../Page/游戏引擎.md "wikilink")，内嵌[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")[NVIDIA
-PhysX以令画面更为逼真](https://zh.wikipedia.org/wiki/NVIDIA_PhysX "wikilink")。
+游戏采用了目标软件自主研发的[奥世](https://zh.wikipedia.org/wiki/奥世引擎 "wikilink")（Overmax）[游戏引擎](../Page/游戏引擎.md "wikilink")，内嵌[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")[NVIDIA PhysX以令画面更为逼真](https://zh.wikipedia.org/wiki/NVIDIA_PhysX "wikilink")。
 
 游戏十分强调团队合作，这与其它[个人英雄主义较为严重的第一人称射击游戏有异](https://zh.wikipedia.org/wiki/个人英雄主义 "wikilink")。玩家在游戏中不再仅仅拿着枪跑动、射击，而可以驾驶直升机、装甲车四处横行，使用各种各样现代战场上的武器，模拟真正的战场\[4\]。目前游戏已开放16人对16人对战，32人对32人对战还在测试中，规格上预定达到64人对64人对战的目标。\[5\]
 
@@ -53,8 +50,7 @@ PhysX以令画面更为逼真](https://zh.wikipedia.org/wiki/NVIDIA_PhysX "wikil
 
 ### 侦察兵
 
-侦察兵是战场上的远距离杀手，拥有最远的观察距离、最高的射击精度及最大的单发杀伤威力。同时偏弱的移动速度及极慢的射击速度使其非常不适应近身战斗
-。侦察兵还负有为团队提供情报的侦察任务，所以还需要拥有很强的侦察手段。
+侦察兵是战场上的远距离杀手，拥有最远的观察距离、最高的射击精度及最大的单发杀伤威力。同时偏弱的移动速度及极慢的射击速度使其非常不适应近身战斗 。侦察兵还负有为团队提供情报的侦察任务，所以还需要拥有很强的侦察手段。
 
 ### 医疗兵
 
@@ -80,8 +76,7 @@ PhysX以令画面更为逼真](https://zh.wikipedia.org/wiki/NVIDIA_PhysX "wikil
 
 <references/>
 
-[Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink")
-[Category:多人線上第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:多人線上第一人稱射擊遊戲 "wikilink")
+[Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:多人線上第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:多人線上第一人稱射擊遊戲 "wikilink")
 
 1.
 
@@ -97,7 +92,6 @@ PhysX以令画面更为逼真](https://zh.wikipedia.org/wiki/NVIDIA_PhysX "wikil
 
 7.
 8.  [《MKZ-铁甲前传》VS《反恐行动》](http://www.bbtnews.com.cn/dmzk/channel/political37811.shtml)
-
 
 9.
 

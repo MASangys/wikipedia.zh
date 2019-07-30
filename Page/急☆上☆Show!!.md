@@ -1,4 +1,4 @@
-《**急☆上☆Show\!\!**》，為日本男偶像團體[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")10張單曲。
+《**急☆上☆Show\!\!**》，為日本男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第10張單曲。
 
 ## 概要
 
@@ -50,7 +50,4 @@
 
 5\~8為以上4首歌的Original Karaoke，一共收錄8個曲目
 
-[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink")
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:2009年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2009年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2009年Japan_Hot_100冠軍歌曲 "wikilink")
+[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:2009年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon單曲週榜冠軍作品 "wikilink") [Category:2009年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2009年Japan_Hot_100冠軍歌曲 "wikilink")

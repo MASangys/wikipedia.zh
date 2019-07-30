@@ -1,22 +1,16 @@
-**French Kiss**（）是由經紀公司旗下Biscuit
-Entertainment所屬的三名[AKB48成員](../Page/AKB48.md "wikilink")[柏木由紀](../Page/柏木由紀.md "wikilink")、[高城亞樹和](../Page/高城亞樹.md "wikilink")[倉持明日香所組成的分支團體](../Page/倉持明日香.md "wikilink")，宣傳標語是「想向父母介紹的3人組」\[1\]。
+**French Kiss**（）是由經紀公司旗下Biscuit Entertainment所屬的三名[AKB48](../Page/AKB48.md "wikilink")成員[柏木由紀](../Page/柏木由紀.md "wikilink")、[高城亞樹](../Page/高城亞樹.md "wikilink")和[倉持明日香](../Page/倉持明日香.md "wikilink")所組成的分支團體，宣傳標語是「想向父母介紹的3人組」\[1\]。
 
-2015年8月宣布於11月5日在[埼玉超級競技場舉行萬人演唱會並正式解散](../Page/埼玉超級競技場.md "wikilink")\[2\]。
+2015年8月宣布於11月5日在[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")舉行萬人演唱會並正式解散\[2\]。
 
 ## 經歷
 
-2010年6月28日在Team
-B的公演中，柏木由紀正式發表組成此團體；7月3日，於[NHK綜合頻道的電視節目](../Page/NHK綜合頻道.md "wikilink")《》首次演出。9月8日，正式出道並發售單曲《[很早以前](../Page/很早以前.md "wikilink")》。
+2010年6月28日在Team B的公演中，柏木由紀正式發表組成此團體；7月3日，於[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")的電視節目《》首次演出。9月8日，正式出道並發售單曲《[很早以前](../Page/很早以前.md "wikilink")》。
 
-2011年1月19日，發售第二張單曲《[If](../Page/If_\(French_Kiss單曲\).md "wikilink")》；5月11日，發售第三張單曲《[太遜了I
-love
-you\!](../Page/太遜了I_love_you!.md "wikilink")》，11月22日，發售第四張單曲《[最初的Mail](../Page/最初的Mail.md "wikilink")》。
+2011年1月19日，發售第二張單曲《[If](../Page/If_\(French_Kiss單曲\).md "wikilink")》；5月11日，發售第三張單曲《[太遜了I love you\!](../Page/太遜了I_love_you!.md "wikilink")》，11月22日，發售第四張單曲《[最初的Mail](../Page/最初的Mail.md "wikilink")》。
 
-2012年7月18日，發售第五張單曲《[Romance
-Privacy](../Page/Romance_Privacy.md "wikilink")》。2014年10月1日，時隔兩年發售第六張單曲《[没记起来的花](https://zh.wikipedia.org/wiki/没记起来的花 "wikilink")》。
+2012年7月18日，發售第五張單曲《[Romance Privacy](../Page/Romance_Privacy.md "wikilink")》。2014年10月1日，時隔兩年發售第六張單曲《[没记起来的花](https://zh.wikipedia.org/wiki/没记起来的花 "wikilink")》。
 
-2015年8月，因[倉持明日香畢業離團加上成員因工作日程難以調整](../Page/倉持明日香.md "wikilink")，French
-Kiss宣布10月發行唯一一張專輯，並於11月演唱會後正式解散\[3\]。專輯《》10月發行後获得[Oricon榜冠軍](../Page/Oricon.md "wikilink")\[4\]。
+2015年8月，因[倉持明日香](../Page/倉持明日香.md "wikilink")畢業離團加上成員因工作日程難以調整，French Kiss宣布10月發行唯一一張專輯，並於11月演唱會後正式解散\[3\]。專輯《》10月發行後获得[Oricon](../Page/Oricon.md "wikilink")榜冠軍\[4\]。
 
 ## 成員
 
@@ -59,7 +53,7 @@ Kiss宣布10月發行唯一一張專輯，並於11月演唱會後正式解散\[3
 </tbody>
 </table>
 
-  - [倉持明日香於](../Page/倉持明日香.md "wikilink")2015年8月17日正式從AKB48畢業。
+  - [倉持明日香](../Page/倉持明日香.md "wikilink")於2015年8月17日正式從AKB48畢業。
 
 ## 唱片
 
@@ -262,12 +256,12 @@ AVCD-93301/B</p></td>
 
 | 樂曲              | 名稱                                                                                                       | 收錄作品                   |
 | --------------- | -------------------------------------------------------------------------------------------------------- | ---------------------- |
-| 很早以前            | [NHK教育頻道動畫](../Page/NHK教育頻道.md "wikilink")『[棒球大联盟第6季](https://zh.wikipedia.org/wiki/棒球大联盟 "wikilink")』ED | 1st單曲「很早以前」            |
+| 很早以前            | [NHK教育頻道](../Page/NHK教育頻道.md "wikilink")動畫『[棒球大联盟第6季](https://zh.wikipedia.org/wiki/棒球大联盟 "wikilink")』ED | 1st單曲「很早以前」            |
 | If              | [OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")「[今天，开始恋爱吧](../Page/今天開始談戀愛.md "wikilink")」主題歌\[5\]   | 2nd單曲「If」              |
-| 太遜了I love you\! | [東京電視台動畫](../Page/東京電視台.md "wikilink")『[SKET DANCE](../Page/SKET_DANCE.md "wikilink")』OP                 | 3rd單曲「太遜了I love you\!」 |
+| 太遜了I love you\! | [東京電視台](../Page/東京電視台.md "wikilink")動畫『[SKET DANCE](../Page/SKET_DANCE.md "wikilink")』OP                 | 3rd單曲「太遜了I love you\!」 |
 | 是你的話沒有問題        | CM：                                                                                                      |                        |
 | 最初的Mail         | CM:[RecoChoku](../Page/RecoChoku.md "wikilink")11月期                                                      | 4th單曲「最初的Mail」         |
-| 蠟燭之心            | [朝日電視台系](../Page/朝日電視台.md "wikilink")『』主題曲                                                               |                        |
+| 蠟燭之心            | [朝日電視台](../Page/朝日電視台.md "wikilink")系『』主題曲                                                               |                        |
 | 半夜刷牙            | [TBS系](../Page/TBS電視台.md "wikilink")《》11月結尾曲                                                             |                        |
 | 吃火龍果的時刻         | CM:                                                                                                      |                        |
 |                 |                                                                                                          |                        |
@@ -276,12 +270,8 @@ AVCD-93301/B</p></td>
 
 ### 廣播節目
 
-  - 文化放送 センパツスペシャル AKB48
-    フレンチ・キスのKISS\!×3（2010年9月12日、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")）
-  - [French
-    Kiss的Kiss廣播\!](../Page/French_Kiss的Kiss廣播!.md "wikilink")（2011年4月2日
-    - 、[TOKYO FM](../Page/FM東京.md "wikilink")・・[Date
-    FM](https://zh.wikipedia.org/wiki/FM仙台 "wikilink")・[FM岩手](https://zh.wikipedia.org/wiki/FM岩手 "wikilink")）
+  - 文化放送 センパツスペシャル AKB48 フレンチ・キスのKISS\!×3（2010年9月12日、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")）
+  - [French Kiss的Kiss廣播\!](../Page/French_Kiss的Kiss廣播!.md "wikilink")（2011年4月2日 - 、[TOKYO FM](../Page/FM東京.md "wikilink")・・[Date FM](https://zh.wikipedia.org/wiki/FM仙台 "wikilink")・[FM岩手](https://zh.wikipedia.org/wiki/FM岩手 "wikilink")）
 
 ### CM
 
@@ -289,10 +279,8 @@ AVCD-93301/B</p></td>
 
 ### 活動
 
-  - [a-nation 10th Anniversary for Life Charge ▶ Go\!
-    ウイダーinゼリー](https://zh.wikipedia.org/wiki/a-nation "wikilink")（2011年8月6日、[福岡市](../Page/福岡市.md "wikilink")・[海の中道海浜公園野外劇場](https://zh.wikipedia.org/wiki/海の中道海浜公園 "wikilink")）
-  - Power of Watanabe Girls 〜Smile For
-    Japan〜（2011年8月7日、[仙台市](../Page/仙台市.md "wikilink")・[Rensa](https://zh.wikipedia.org/wiki/Rensa "wikilink")）
+  - [a-nation 10th Anniversary for Life Charge ▶ Go\! ウイダーinゼリー](https://zh.wikipedia.org/wiki/a-nation "wikilink")（2011年8月6日、[福岡市](../Page/福岡市.md "wikilink")・[海の中道海浜公園野外劇場](https://zh.wikipedia.org/wiki/海の中道海浜公園 "wikilink")）
+  - Power of Watanabe Girls 〜Smile For Japan〜（2011年8月7日、[仙台市](../Page/仙台市.md "wikilink")・[Rensa](https://zh.wikipedia.org/wiki/Rensa "wikilink")）
 
 ## 備註
 
@@ -300,19 +288,10 @@ AVCD-93301/B</p></td>
 
   - [French Kiss官方網站](http://www.french-kiss.jp/index.html)
 
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:渡邊製作事務所藝人](https://zh.wikipedia.org/wiki/Category:渡邊製作事務所藝人 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
+[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:渡邊製作事務所藝人](https://zh.wikipedia.org/wiki/Category:渡邊製作事務所藝人 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
 
-1.  [AKB新組合「French
-    Kiss」驚喜演出1800人爲之狂熱](https://archive.is/20120710044925/ameblo.jp/580679/entry-10635177427.html)
-    2010年12月25日閲覧
+1.  [AKB新組合「French Kiss」驚喜演出1800人爲之狂熱](https://archive.is/20120710044925/ameblo.jp/580679/entry-10635177427.html) 2010年12月25日閲覧
 2.  [ＡＫＢお嬢様ユニット“フレンチ・キス”解散決定](http://www.nikkansports.com/entertainment/akb48/news/1525986.html)
-3.  [【オリコン】AKB柏木らフレンチ・キス、初アルバムで有終美 11.5解散](http://www.oricon.co.jp/news/2060940/full/)
-    oricon style 2015年10月20日
-4.  [フレンチ・キス、最初で最後のアルバムでオリコン初登場1位を獲得](http://www.musicman-net.com/artist/50971.html)
-    musicman-net 2015年10月20日
+3.  [【オリコン】AKB柏木らフレンチ・キス、初アルバムで有終美 11.5解散](http://www.oricon.co.jp/news/2060940/full/) oricon style 2015年10月20日
+4.  [フレンチ・キス、最初で最後のアルバムでオリコン初登場1位を獲得](http://www.musicman-net.com/artist/50971.html) musicman-net 2015年10月20日
 5.  [今天，开始恋爱吧ova官網頁面](http://mv.avex.jp/kyoukoi/) 2010年12月25日閲覧

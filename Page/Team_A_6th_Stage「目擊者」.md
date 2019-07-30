@@ -1,10 +1,8 @@
-**Team A 6th Stage「目擊者」**（）是[AKB48](../Page/AKB48.md "wikilink") Team
-A的第6台[劇場公演](../Page/AKB48劇場公演.md "wikilink")。
+**Team A 6th Stage「目擊者」**（）是[AKB48](../Page/AKB48.md "wikilink") Team A的第6台[劇場公演](../Page/AKB48劇場公演.md "wikilink")。
 
 ## 概要
 
-Team
-A的第6台劇場公演，同時是在2009年8月23日「[AKB104選拔成員組閣祭](https://zh.wikipedia.org/wiki/AKB48分身之术巡演／AKB104选拔成员组阁祭 "wikilink")」第三場公演中發表新隊制後，第一次以新隊制進行公演。\[1\]當時有三個研究生昇格。
+Team A的第6台劇場公演，同時是在2009年8月23日「[AKB104選拔成員組閣祭](https://zh.wikipedia.org/wiki/AKB48分身之术巡演／AKB104选拔成员组阁祭 "wikilink")」第三場公演中發表新隊制後，第一次以新隊制進行公演。\[1\]當時有三個研究生昇格。
 
 ## 公演内容
 
@@ -17,7 +15,7 @@ A的第6台劇場公演，同時是在2009年8月23日「[AKB104選拔成員組�
 
 ### 曲目
 
-全部歌曲均由[AKB48總製作人](../Page/AKB48.md "wikilink")[秋元康作詞](../Page/秋元康.md "wikilink")。
+全部歌曲均由[AKB48](../Page/AKB48.md "wikilink")總製作人[秋元康](../Page/秋元康.md "wikilink")作詞。
 
 <table>
 <thead>
@@ -292,8 +290,6 @@ A的第6台劇場公演，同時是在2009年8月23日「[AKB104選拔成員組�
   - [官方網站](http://www.akb48.co.jp/about/song/detail.php?team=1&stage=6)
   - [專輯頁面](https://web.archive.org/web/20120423234314/http://shop.akb48.co.jp/products/detail27.html)
 
-[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
-[Category:AKB48音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
+[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink") [Category:AKB48音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
 
 1.

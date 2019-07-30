@@ -1,10 +1,10 @@
-《**SKE48的如果當女兒會如何？**》（）是一個在2011年7月8日至2013年3月8日之間，由[東海電視台播放的日本深夜時段](../Page/東海電視台.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。此節目是以[名古屋為主要活動據點的女子](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[SKE48的冠名節目之一](../Page/SKE48.md "wikilink")，於[日本標準時間每月第](../Page/日本標準時間.md "wikilink")2個週五的深夜25:25（相當於週六凌晨1:25）播出，每集30分鐘。節目在2013年3月播畢後，由原班製作團隊所企畫的另一個SKE48冠名節目《》（）接續播出。
+《**SKE48的如果當女兒會如何？**》（）是一個在2011年7月8日至2013年3月8日之間，由[東海電視台](../Page/東海電視台.md "wikilink")播放的日本深夜時段[綜藝節目](../Page/綜藝節目.md "wikilink")。此節目是以[名古屋為主要活動據點的女子](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[SKE48](../Page/SKE48.md "wikilink")的冠名節目之一，於[日本標準時間](../Page/日本標準時間.md "wikilink")每月第2個週五的深夜25:25（相當於週六凌晨1:25）播出，每集30分鐘。節目在2013年3月播畢後，由原班製作團隊所企畫的另一個SKE48冠名節目《》（）接續播出。
 
 ## 簡介
 
 《如果當女兒會如何？》是一個以外景訪問為主要流程的節目，每一集皆輪流由一位SKE48成員至[東海地區各地職業背景](https://zh.wikipedia.org/wiki/東海地區 "wikilink")、成員組成不同的家庭進行2天1夜的寄宿體驗參訪。就像是把SKE48的成員當作該戶人家的女兒一般，在拜訪期間必須遵守每個家庭的家規、與家人們交流，並且體驗不同人家的職業內容。
 
-除了外景錄影外，節目也有在[攝影棚內錄製的段落](https://zh.wikipedia.org/wiki/攝影棚 "wikilink")。在每次的攝影棚錄影中都會有不固定的五名成員參與，其中一位即為當週的外景主角，而其他的四名成員則是擔任評審，在看完當週的外景錄影之後根據主角成員的表現，給予「好女兒」（）或是「糟女兒」（）的評價。獲得好女兒評價的成員可得到「天使圈」（）作為獎勵，而所謂的「天使圈」實際上是某種圈狀的事物，節目中曾出現過包括[甜甜圈](../Page/甜甜圈.md "wikilink")、[年輪蛋糕與](../Page/年輪蛋糕.md "wikilink")之類的天使圈獎勵。
+除了外景錄影外，節目也有在[攝影棚內錄製的段落](https://zh.wikipedia.org/wiki/攝影棚 "wikilink")。在每次的攝影棚錄影中都會有不固定的五名成員參與，其中一位即為當週的外景主角，而其他的四名成員則是擔任評審，在看完當週的外景錄影之後根據主角成員的表現，給予「好女兒」（）或是「糟女兒」（）的評價。獲得好女兒評價的成員可得到「天使圈」（）作為獎勵，而所謂的「天使圈」實際上是某種圈狀的事物，節目中曾出現過包括[甜甜圈](../Page/甜甜圈.md "wikilink")、[年輪蛋糕](../Page/年輪蛋糕.md "wikilink")與之類的天使圈獎勵。
 
 除了SKE48之外，節目中還有一隻名叫「神青蛙」（）、頭頂天使圈背後長著天使翅膀的[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")，以節目[主持人的角色定位參與棚內演出](https://zh.wikipedia.org/wiki/主持人 "wikilink")。擔任神青蛙配音的是[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")（），除了齋藤外，在部分集數中也有一些搞笑藝人以客串方式參與節目演出。
 
@@ -45,7 +45,7 @@
 （）</p></td>
 <td><p><a href="../Page/木下有希子.md" title="wikilink">木下有希子</a>、<a href="../Page/松井珠理奈.md" title="wikilink">松井珠理奈</a>、<a href="../Page/松井玲奈.md" title="wikilink">松井玲奈</a>、<a href="../Page/小木曾汐莉.md" title="wikilink">小木曾汐莉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岐阜縣" title="wikilink">岐阜縣</a><a href="https://zh.wikipedia.org/wiki/加茂郡_(岐阜縣)" title="wikilink">加茂郡</a><a href="https://zh.wikipedia.org/wiki/川邊町" title="wikilink">川邊町</a></p></td>
-<td><p><a href="../Page/香菇.md" title="wikilink">香菇栽培農家</a></p></td>
+<td><p><a href="../Page/香菇.md" title="wikilink">香菇</a>栽培農家</p></td>
 <td><p>好女兒</p></td>
 </tr>
 <tr class="even">
@@ -64,7 +64,7 @@
 <td><p>上野圭澄</p></td>
 <td><p><a href="../Page/高田志織.md" title="wikilink">高田志織</a>、<a href="../Page/平松可奈子.md" title="wikilink">平松可奈子</a>、矢神久美、<a href="../Page/高柳明音.md" title="wikilink">高柳明音</a></p></td>
 <td><p>愛知縣<a href="https://zh.wikipedia.org/wiki/知多郡" title="wikilink">知多郡</a></p></td>
-<td><p><a href="../Page/自由潛水.md" title="wikilink">自由潛水漁民</a></p></td>
+<td><p><a href="../Page/自由潛水.md" title="wikilink">自由潛水</a>漁民</p></td>
 <td><p>好女兒</p></td>
 </tr>
 <tr class="even">
@@ -91,7 +91,7 @@
 <td><p>木下有希子</p></td>
 <td><p>木﨑由里亞、須田亞香里、小木曾汐莉、矢方美紀</p></td>
 <td><p>愛知縣名古屋市<a href="https://zh.wikipedia.org/wiki/瑞穗區" title="wikilink">瑞穗區</a></p></td>
-<td><p><a href="../Page/麻糬.md" title="wikilink">麻糬店</a></p></td>
+<td><p><a href="../Page/麻糬.md" title="wikilink">麻糬</a>店</p></td>
 <td><p>好女兒</p></td>
 </tr>
 <tr class="odd">
@@ -192,7 +192,7 @@
 <td><p>阿比留李帆</p></td>
 <td><p>加藤智子、佐藤聖羅、<a href="../Page/松本梨奈.md" title="wikilink">松本梨奈</a>、<a href="https://zh.wikipedia.org/wiki/山田澪花" title="wikilink">山田澪花</a></p></td>
 <td><p>愛知縣<a href="https://zh.wikipedia.org/wiki/東海市_(日本)" title="wikilink">東海市</a></p></td>
-<td><p><a href="../Page/芒果.md" title="wikilink">芒果農</a></p></td>
+<td><p><a href="../Page/芒果.md" title="wikilink">芒果</a>農</p></td>
 <td><p>好女兒</p></td>
 </tr>
 <tr class="even">
@@ -201,7 +201,7 @@
 <td><p>山下由加里</p></td>
 <td><p>內山命、金子栞、木本花音、<a href="../Page/古畑奈和.md" title="wikilink">古畑奈和</a></p></td>
 <td><p>三重縣松阪市</p></td>
-<td><p><a href="../Page/便當.md" title="wikilink">便當店</a></p></td>
+<td><p><a href="../Page/便當.md" title="wikilink">便當</a>店</p></td>
 <td><p>好女兒</p></td>
 </tr>
 <tr class="odd">
@@ -258,7 +258,7 @@
 <td><p>大矢真那</p></td>
 <td><p>木﨑由里亞、木下有希子、<a href="../Page/出口陽.md" title="wikilink">出口陽</a>、石田安奈</p></td>
 <td><p>愛知縣<a href="https://zh.wikipedia.org/wiki/田原市" title="wikilink">田原市</a></p></td>
-<td><p><a href="../Page/衝浪.md" title="wikilink">衝浪裝備店</a></p></td>
+<td><p><a href="../Page/衝浪.md" title="wikilink">衝浪</a>裝備店</p></td>
 <td><p>糟女兒</p></td>
 </tr>
 </tbody>
@@ -292,11 +292,6 @@
 
 ## 外部連結
 
-  - [SKE48
-    節目官方網站](https://web.archive.org/web/20120118064637/http://www.tokai-tv.com/musume/)（東海電視台）
+  - [SKE48 節目官方網站](https://web.archive.org/web/20120118064637/http://www.tokai-tv.com/musume/)（東海電視台）
 
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink")
-[Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
-[Category:東海電視台](https://zh.wikipedia.org/wiki/Category:東海電視台 "wikilink")
+[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink") [Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink") [Category:東海電視台](https://zh.wikipedia.org/wiki/Category:東海電視台 "wikilink")

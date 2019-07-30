@@ -1,5 +1,4 @@
-**《For
-Sale》**是[香港男子組合](../Page/香港.md "wikilink")[Swing的第四張專輯](https://zh.wikipedia.org/wiki/Swing "wikilink")，於2001年12月6日發行，共收錄七首歌，包括六首新歌及重新編曲的《1984》。
+**《For Sale》**是[香港](../Page/香港.md "wikilink")男子組合[Swing的第四張專輯](https://zh.wikipedia.org/wiki/Swing "wikilink")，於2001年12月6日發行，共收錄七首歌，包括六首新歌及重新編曲的《1984》。
 
 ## 曲目
 
@@ -15,6 +14,4 @@ Sale》**是[香港男子組合](../Page/香港.md "wikilink")[Swing的第四張
 | 6  | 冰河時期                          | Eric Kwok                                                                                                                   | [林寶](../Page/林寶_\(作詞家\).md "wikilink")              | 3:48 | [連結](https://www.youtube.com/watch?v=Ef3tF7fZw-o) |
 | 7  | 1984 (Last Christmas Version) | Eric Kwok                                                                                                                   | 林寶                                                  | 3:40 | \-                                                |
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:Swing音樂專輯](https://zh.wikipedia.org/wiki/Category:Swing音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:Swing音樂專輯](https://zh.wikipedia.org/wiki/Category:Swing音樂專輯 "wikilink")

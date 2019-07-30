@@ -1,14 +1,14 @@
 [Taiwan_Pride_2005_before_setout.JPG](https://zh.wikipedia.org/wiki/File:Taiwan_Pride_2005_before_setout.JPG "fig:Taiwan_Pride_2005_before_setout.JPG")
 
-**[中華民國](../Page/中華民國.md "wikilink")（[臺灣](../Page/臺灣.md "wikilink")）**通常被認為是[東亞](https://zh.wikipedia.org/wiki/東亞 "wikilink")、乃至[亞洲地區之中](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，少數[LGBT權益相對友善之地區](https://zh.wikipedia.org/wiki/LGBT權益 "wikilink")\[1\]。每年十月最後一週星期六在[臺北市舉辦的](../Page/臺北市.md "wikilink")[臺灣同志遊行吸引數萬人參與](https://zh.wikipedia.org/wiki/臺灣同志遊行 "wikilink")，為亞洲僅次於[以色列](../Page/以色列.md "wikilink")[特拉維夫第二大的](https://zh.wikipedia.org/wiki/特拉維夫 "wikilink")[LGBT活動](../Page/LGBT.md "wikilink")\[2\]。
+**[中華民國](../Page/中華民國.md "wikilink")（[臺灣](../Page/臺灣.md "wikilink")）**通常被認為是[東亞](https://zh.wikipedia.org/wiki/東亞 "wikilink")、乃至[亞洲地區之中](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，少數[LGBT權益相對友善之地區](https://zh.wikipedia.org/wiki/LGBT權益 "wikilink")\[1\]。每年十月最後一週星期六在[臺北市](../Page/臺北市.md "wikilink")舉辦的[臺灣同志遊行吸引數萬人參與](https://zh.wikipedia.org/wiki/臺灣同志遊行 "wikilink")，為亞洲僅次於[以色列](../Page/以色列.md "wikilink")[特拉維夫第二大的](https://zh.wikipedia.org/wiki/特拉維夫 "wikilink")[LGBT](../Page/LGBT.md "wikilink")活動\[2\]。
 
-[同性性行為及](https://zh.wikipedia.org/wiki/同性性行為 "wikilink")[同性婚姻在臺灣是合法的](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")，針對[同志的](../Page/LGBT.md "wikilink")[暴力事件相當少見](../Page/暴力.md "wikilink")，[警方對同志友善空間施壓的情況逐漸減少](https://zh.wikipedia.org/wiki/警方 "wikilink")\[3\]\[4\]。2015、2016年間，部分地方政府（除雲林縣、花蓮縣、台東縣、澎湖縣外）逐步開放受理「同性伴侶」的戶政註記\[5\]。2015年臺北市聯合婚禮開全國先例，首度開放同性伴侶參加\[6\]。2019年5月17日，《[司法院釋字第七四八號解釋施行法](../Page/司法院釋字第七四八號解釋施行法.md "wikilink")》三讀通過，5月22日經總統公布，於5月24日生效，使中華民國成為亞洲第一個全國性承認同性婚姻的國家。
+[同性性行為及](https://zh.wikipedia.org/wiki/同性性行為 "wikilink")[同性婚姻在臺灣是合法的](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")，針對[同志的](../Page/LGBT.md "wikilink")[暴力](../Page/暴力.md "wikilink")事件相當少見，[警方對同志友善空間施壓的情況逐漸減少](https://zh.wikipedia.org/wiki/警方 "wikilink")\[3\]\[4\]。2015、2016年間，部分地方政府（除雲林縣、花蓮縣、台東縣、澎湖縣外）逐步開放受理「同性伴侶」的戶政註記\[5\]。2015年臺北市聯合婚禮開全國先例，首度開放同性伴侶參加\[6\]。2019年5月17日，《[司法院釋字第七四八號解釋施行法](../Page/司法院釋字第七四八號解釋施行法.md "wikilink")》三讀通過，5月22日經總統公布，於5月24日生效，使中華民國成為亞洲第一個全國性承認同性婚姻的國家。
 
-在反歧視法方面，分別在2003年和2007年制定了《[性別平等教育法](../Page/性別平等教育法.md "wikilink")》和《[性別工作平等法](../Page/性別工作平等法.md "wikilink")》，保障教育和工作領域不得有性別、性傾向之差別待遇。在2011年《[性別平等教育法](../Page/性別平等教育法.md "wikilink")》修正條文中實施[性別平等教育](https://zh.wikipedia.org/wiki/性別平等教育 "wikilink")，以教育方式教導尊重[多元性別](../Page/多元性別.md "wikilink")（指性別除[生理性別外](https://zh.wikipedia.org/wiki/生理性別 "wikilink")，還包括[性傾向](https://zh.wikipedia.org/wiki/性傾向 "wikilink")、[性別特質](https://zh.wikipedia.org/wiki/性別_\(文化\) "wikilink")、[性別認同](../Page/性別認同.md "wikilink")）差異，消除[性別歧視](https://zh.wikipedia.org/wiki/性別歧視 "wikilink")，促進性別地位實質平等。2015年通過「長期照顧服務法」，將[長期照護納入反性傾向歧視範疇](../Page/長期照護.md "wikilink")。2016年[民進黨為立法院多數後](https://zh.wikipedia.org/wiki/民進黨 "wikilink")，涉婚姻平權的民法修正案，在[立法院被提上議程](../Page/立法院.md "wikilink")，獲多數立委主持。臺灣[司法院大法官於](../Page/司法院大法官.md "wikilink")2017年5月24日釋憲，《[中華民國民法](https://zh.wikipedia.org/wiki/中華民國民法 "wikilink")》第4編親屬第2章婚姻規定違憲，要求兩年內修正或制定相關保障同性婚姻法律。
+在反歧視法方面，分別在2003年和2007年制定了《[性別平等教育法](../Page/性別平等教育法.md "wikilink")》和《[性別工作平等法](../Page/性別工作平等法.md "wikilink")》，保障教育和工作領域不得有性別、性傾向之差別待遇。在2011年《[性別平等教育法](../Page/性別平等教育法.md "wikilink")》修正條文中實施[性別平等教育](https://zh.wikipedia.org/wiki/性別平等教育 "wikilink")，以教育方式教導尊重[多元性別](../Page/多元性別.md "wikilink")（指性別除[生理性別外](https://zh.wikipedia.org/wiki/生理性別 "wikilink")，還包括[性傾向](https://zh.wikipedia.org/wiki/性傾向 "wikilink")、[性別特質](https://zh.wikipedia.org/wiki/性別_\(文化\) "wikilink")、[性別認同](../Page/性別認同.md "wikilink")）差異，消除[性別歧視](https://zh.wikipedia.org/wiki/性別歧視 "wikilink")，促進性別地位實質平等。2015年通過「長期照顧服務法」，將[長期照護](../Page/長期照護.md "wikilink")納入反性傾向歧視範疇。2016年[民進黨為立法院多數後](https://zh.wikipedia.org/wiki/民進黨 "wikilink")，涉婚姻平權的民法修正案，在[立法院](../Page/立法院.md "wikilink")被提上議程，獲多數立委主持。臺灣[司法院大法官](../Page/司法院大法官.md "wikilink")於2017年5月24日釋憲，《[中華民國民法](https://zh.wikipedia.org/wiki/中華民國民法 "wikilink")》第4編親屬第2章婚姻規定違憲，要求兩年內修正或制定相關保障同性婚姻法律。
 
 根據一份2014年的研究，臺灣社會普遍接納同志，不會因其性傾向而拒絕與他們交友、求職等權利，多數反對對同志的種種[刻板印象](../Page/刻板印象.md "wikilink")。然而問及若自己子女是同志時，其意見則明顯保留\[7\]。2012年《臺灣社會變遷基本調查計畫》指出55%受訪者贊成應立法保障同志合法結婚權，37%反對\[8\]，其中以年輕族群對於[婚姻平權特別支持](../Page/臺灣同性婚姻.md "wikilink")。\[9\]\[10\]
 
-臺灣在[LGBT權益和](https://zh.wikipedia.org/wiki/LGBT權益 "wikilink")[同志運動的反對聲浪主要以](https://zh.wikipedia.org/wiki/同志運動 "wikilink")[基督教右派背景的保守派團體為主](../Page/基督教右派.md "wikilink")<ref>
+臺灣在[LGBT權益和](https://zh.wikipedia.org/wiki/LGBT權益 "wikilink")[同志運動的反對聲浪主要以](https://zh.wikipedia.org/wiki/同志運動 "wikilink")[基督教右派](../Page/基督教右派.md "wikilink")背景的保守派團體為主<ref>
 
   -
   -
@@ -41,16 +41,15 @@
 
 ### 歷史
 
-  - 1982年，[婦女新知基金會成立](../Page/婦女新知基金會.md "wikilink")。\[11\]
-  - 1986年，[祁家威公開出櫃](../Page/祁家威.md "wikilink")。
+  - 1982年，[婦女新知基金會](../Page/婦女新知基金會.md "wikilink")成立。\[11\]
+  - 1986年，[祁家威](../Page/祁家威.md "wikilink")公開出櫃。
   - 1988年，[祁家威](../Page/祁家威.md "wikilink")（臺灣投身同志運動的第一人）申請與同性伴侶公證結婚被拒，曾提出釋憲遭駁回。\[12\]
   - 1990年2月23日，首個女同性戀組織「[我們之間](https://zh.wikipedia.org/wiki/我們之間 "wikilink")」成立。\[13\]
   - 1991年，首對公開舉行結婚儀式的女同志。
-  - 1993年，臺灣的同性戀人權問題首度進入國會公聽會討論；第一個大學生社團-{臺大}-男同性戀社Gay
-    Chat成立\[14\]；以倡議為主要目的團體「同志工作坊」成立。
+  - 1993年，臺灣的同性戀人權問題首度進入國會公聽會討論；第一個大學生社團-{臺大}-男同性戀社Gay Chat成立\[14\]；以倡議為主要目的團體「同志工作坊」成立。
   - 1995年，「[新公園事件](https://zh.wikipedia.org/wiki/新公園事件 "wikilink")」促使第一個男同志聯盟組織「[同志空間行動陣線](https://zh.wikipedia.org/wiki/同志空間行動陣線 "wikilink")」出現。\[15\]
   - 1995年，第一個常態性同志廣播節目《同志星期五》；第一家專門出版同志書籍的出版社[開心陽光出版社](https://zh.wikipedia.org/wiki/開心陽光出版社 "wikilink")\[16\]；第一個聯盟性質的同志團體「[同志空間行動陣線](https://zh.wikipedia.org/wiki/同志空間行動陣線 "wikilink")」成立。
-  - 1996年，[彭婉如命案](../Page/彭婉如.md "wikilink")；「晚晴」民法修正案三讀通過；第一個同志教會「[同光同志長老教會](https://zh.wikipedia.org/wiki/同光同志長老教會 "wikilink")」成立；[許佑生及](../Page/許佑生.md "wikilink")[葛瑞公開舉行同志婚禮](https://zh.wikipedia.org/wiki/葛瑞 "wikilink")。\[17\]
+  - 1996年，[彭婉如](../Page/彭婉如.md "wikilink")命案；「晚晴」民法修正案三讀通過；第一個同志教會「[同光同志長老教會](https://zh.wikipedia.org/wiki/同光同志長老教會 "wikilink")」成立；[許佑生](../Page/許佑生.md "wikilink")及[葛瑞公開舉行同志婚禮](https://zh.wikipedia.org/wiki/葛瑞 "wikilink")。\[17\]
   - 1997年，[白曉燕命案](../Page/白曉燕命案.md "wikilink")；性侵害防治法\[18\]三讀通過；「[常德街事件](https://zh.wikipedia.org/wiki/常德街事件 "wikilink")」引發大量討論。\[19\]
   - 1998年，家暴防治法三讀通過；協助同志渡過心理難關的「[同志諮詢熱線](https://zh.wikipedia.org/wiki/同志諮詢熱線 "wikilink")」成立。\[20\]
   - 1999年，華語地區第一家同志書店[晶晶書庫](../Page/晶晶書庫.md "wikilink")。
@@ -59,16 +58,15 @@
   - 2002年，[性別工作平等法](../Page/性別工作平等法.md "wikilink")\[23\]三讀通過代替《兩性平等教育法》。
   - 2003年，亞洲首次同志大遊行。[臺灣同志遊行](https://zh.wikipedia.org/wiki/臺灣同志遊行 "wikilink")
   - 2003年，「[人權基本法](https://zh.wikipedia.org/wiki/人權基本法 "wikilink")」草案在六次會議後獲全體委員通過。\[24\]
-  - 2004年，[性別平等教育法三讀通過](../Page/性別平等教育法.md "wikilink")。
-  - 2006年，[蕭美琴立委提案婚姻平權](../Page/蕭美琴.md "wikilink")（被拒於程序委員會）。\[25\]
+  - 2004年，[性別平等教育法](../Page/性別平等教育法.md "wikilink")三讀通過。
+  - 2006年，[蕭美琴](../Page/蕭美琴.md "wikilink")立委提案婚姻平權（被拒於程序委員會）。\[25\]
   - 2012年，[臺灣伴侶權益推動聯盟提出](https://zh.wikipedia.org/wiki/臺灣伴侶權益推動聯盟 "wikilink")[多元成家立法草案](../Page/多元成家立法草案.md "wikilink")，草案包括婚姻平權、伴侶制度及家屬制度草案，三草案同時送交立法院審查。
-  - 2014年，[尤美女立委提案並通過程序委員會](../Page/尤美女.md "wikilink")。
+  - 2014年，[尤美女](../Page/尤美女.md "wikilink")立委提案並通過程序委員會。
   - 2014年，立法院司法制度委員會將婚姻平權民法修正案排入議程，不少立委迴避拒審。因法務部持反對態度但行政院性別平等處贊成，最後未有具體結論。\[26\]
   - 2015年5月，高雄市、臺北市及臺中市先開辦[同性伴侶註記](https://zh.wikipedia.org/wiki/同性伴侶 "wikilink")，已登記的同性伴侶可簽署手術同意書、享「家庭照顧假」等。\[27\]，即使已註記的同性伴侶可享福利，他們仍表明會爭取同性婚姻。\[28\]
-  - 2015年8月，[祁家威正式向大法官遞交同性婚姻釋憲聲請](../Page/祁家威.md "wikilink")，臺北市民政局及新北市政府都分別向大法官聲請釋憲。\[29\]
-  - 2016年，[尤美女](../Page/尤美女.md "wikilink")/[許毓仁立委等提案](../Page/許毓仁.md "wikilink")，進入委員會審查以及公聽會，進入政黨協商
-  - 2016年，台大機械系甄選入學考題提到「家庭是由一夫一妻，一男一女組成」，被教育部指違反《性平法》而罰款三萬元。\[30\]
-    校方不服提出上訴。\[31\]
+  - 2015年8月，[祁家威](../Page/祁家威.md "wikilink")正式向大法官遞交同性婚姻釋憲聲請，臺北市民政局及新北市政府都分別向大法官聲請釋憲。\[29\]
+  - 2016年，[尤美女](../Page/尤美女.md "wikilink")/[許毓仁](../Page/許毓仁.md "wikilink")立委等提案，進入委員會審查以及公聽會，進入政黨協商
+  - 2016年，台大機械系甄選入學考題提到「家庭是由一夫一妻，一男一女組成」，被教育部指違反《性平法》而罰款三萬元。\[30\] 校方不服提出上訴。\[31\]
   - 2016年10月29日，臺灣的同志遊行當天，臺北市政府高調掛起[彩虹旗](../Page/彩虹旗.md "wikilink")，桃園市政府亦於遊行前一晚把外牆亮起彩虹色支示支持。\[32\]
   - 2017年，司法院憲法法庭舉辦公開言詞辯論；第748號解釋文，裁定民法無法保障同性婚姻為違憲。\[33\]\[34\]\[35\]\[36\]
   - 2018年，反同的下一代幸福聯盟所提出的公投第10案【婚姻定義公投】、第11案【適齡性平教育公投】、第12案【同性專法公投】均通過，挺同的平權前夕，彩虹起義所提出的公投第14案【民法保障同性婚姻】、公投第15案【國中小性別平等教育明定入法】均不通過。
@@ -77,23 +75,23 @@
 
 ## 同性性行為合法性
 
-[臺灣沒有任何關於](../Page/臺灣.md "wikilink")[同性性行為的法律](https://zh.wikipedia.org/wiki/同性性行為 "wikilink")，不像其他西方國家經歷過[除罪化的過程](https://zh.wikipedia.org/wiki/除罪化 "wikilink")。[成人](https://zh.wikipedia.org/wiki/成人 "wikilink")、非[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")、合意一致的同性性行為在臺灣[合法](https://zh.wikipedia.org/wiki/合法 "wikilink")。在[同意年齡上](https://zh.wikipedia.org/wiki/同意年齡 "wikilink")，臺灣，同意年齡均為16歲，在性別上沒有特別規定。
+[臺灣](../Page/臺灣.md "wikilink")沒有任何關於[同性性行為的法律](https://zh.wikipedia.org/wiki/同性性行為 "wikilink")，不像其他西方國家經歷過[除罪化的過程](https://zh.wikipedia.org/wiki/除罪化 "wikilink")。[成人](https://zh.wikipedia.org/wiki/成人 "wikilink")、非[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")、合意一致的同性性行為在臺灣[合法](https://zh.wikipedia.org/wiki/合法 "wikilink")。在[同意年齡上](https://zh.wikipedia.org/wiki/同意年齡 "wikilink")，臺灣，同意年齡均為16歲，在性別上沒有特別規定。
 
 《[中華民國刑法](../Page/中華民國刑法.md "wikilink")》中，對「同性性行為」沒有特別規定。其第10條規定之「非基於正當目的所為之下列[性侵入行為](https://zh.wikipedia.org/wiki/性侵入行為 "wikilink")」，指以[性器或他物](https://zh.wikipedia.org/wiki/性器 "wikilink")，進入他人之性器、[肛門或](https://zh.wikipedia.org/wiki/肛門 "wikilink")[口腔](../Page/口腔.md "wikilink")\[37\]。無論[異性性行為或同性性行為](https://zh.wikipedia.org/wiki/異性性行為 "wikilink")，只要不符合「合意一致」原則，皆為[違法](https://zh.wikipedia.org/wiki/違法 "wikilink")。
 
 ## 承認同性關係
 
-2003年10月，[行政院提出](../Page/行政院.md "wikilink")《人權保障基本法》草案，該草案允許[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")，並允許同性夫婦享有和異性戀夫婦相同的權利保障；但草案遭內閣成員和[立法委員反對](https://zh.wikipedia.org/wiki/立法委員 "wikilink")，草案未進入立法程序\[38\]\[39\]。
+2003年10月，[行政院](../Page/行政院.md "wikilink")提出《人權保障基本法》草案，該草案允許[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")，並允許同性夫婦享有和異性戀夫婦相同的權利保障；但草案遭內閣成員和[立法委員反對](https://zh.wikipedia.org/wiki/立法委員 "wikilink")，草案未進入立法程序\[38\]\[39\]。
 
-2006年10月11日，民進黨立法委員[蕭美琴提出](../Page/蕭美琴.md "wikilink")《同性婚姻法》草案，共獲得38位立委贊成連署\[40\]。同月20日，由於[賴士葆](https://zh.wikipedia.org/wiki/賴士葆 "wikilink")、[王世勛等](https://zh.wikipedia.org/wiki/王世勛 "wikilink")23名立委反對連署（其中[陳銀河同時加入贊成連署與反對連署](https://zh.wikipedia.org/wiki/陳銀河 "wikilink")），因此草案無法通過一讀會程序，必須退回程序委員會審議\[41\]。10月31日，程序委員會退回《同性婚姻法》草案，決定不將其排入議事程序\[42\]。
+2006年10月11日，民進黨立法委員[蕭美琴](../Page/蕭美琴.md "wikilink")提出《同性婚姻法》草案，共獲得38位立委贊成連署\[40\]。同月20日，由於[賴士葆](https://zh.wikipedia.org/wiki/賴士葆 "wikilink")、[王世勛等](https://zh.wikipedia.org/wiki/王世勛 "wikilink")23名立委反對連署（其中[陳銀河同時加入贊成連署與反對連署](https://zh.wikipedia.org/wiki/陳銀河 "wikilink")），因此草案無法通過一讀會程序，必須退回程序委員會審議\[41\]。10月31日，程序委員會退回《同性婚姻法》草案，決定不將其排入議事程序\[42\]。
 
-2012年4月10日，[臺北高等行政法院首度開庭審理臺灣首件關於同性婚姻的案件](../Page/臺北高等行政法院.md "wikilink")。但此案於2013年1月23日撤銷，使同性婚姻釋憲機會再延後。\[43\]
+2012年4月10日，[臺北高等行政法院](../Page/臺北高等行政法院.md "wikilink")首度開庭審理臺灣首件關於同性婚姻的案件。但此案於2013年1月23日撤銷，使同性婚姻釋憲機會再延後。\[43\]
 
 自2015年起，各縣市陸續開放受理[同性伴侶註記服務](https://zh.wikipedia.org/wiki/臺灣同性婚姻#各縣市同性伴侶註記規定比較 "wikilink")，申請者可於戶役政資訊系統所內註記欄位，註記同性伴侶關係，但不具法律效力，日後分手也可刪除名份\[44\]，截至2016年，全國22縣市中已有11個縣市開放註記同性伴侶關係。
 
-2016年10月，第14屆[臺灣同志遊行前夕](https://zh.wikipedia.org/wiki/臺灣同志遊行 "wikilink")，婚姻平權議題再度受到討論，立法院包含民進黨、國民黨、時代力量在內部分立委宣告將再次推動婚姻平權法案\[45\]，[總統](../Page/中華民國總統.md "wikilink")[蔡英文亦在個人臉書首度以總統身分表達支持態度](../Page/蔡英文.md "wikilink")，並尊重立法院的決議\[46\]。同時在民進黨內部，已通過中央黨部黨務工作人員服務辦法，若黨工和其伴侶為縣市戶政註記中「同性伴侶」關係，可適用服務辦法「配偶」、「婚姻」及「家庭成員」權利條文\[47\]。
+2016年10月，第14屆[臺灣同志遊行前夕](https://zh.wikipedia.org/wiki/臺灣同志遊行 "wikilink")，婚姻平權議題再度受到討論，立法院包含民進黨、國民黨、時代力量在內部分立委宣告將再次推動婚姻平權法案\[45\]，[總統](../Page/中華民國總統.md "wikilink")[蔡英文](../Page/蔡英文.md "wikilink")亦在個人臉書首度以總統身分表達支持態度，並尊重立法院的決議\[46\]。同時在民進黨內部，已通過中央黨部黨務工作人員服務辦法，若黨工和其伴侶為縣市戶政註記中「同性伴侶」關係，可適用服務辦法「配偶」、「婚姻」及「家庭成員」權利條文\[47\]。
 
-2017年3月24日，[司法院大法官召開憲法法庭](../Page/司法院大法官.md "wikilink")，就聲請人[祁家威及](../Page/祁家威.md "wikilink")[臺北市政府所提之釋憲案](../Page/臺北市政府.md "wikilink")，進行言詞辯論。\[48\][司法院大法官於](../Page/司法院大法官.md "wikilink")2017年5月24日釋憲，[民法](https://zh.wikipedia.org/wiki/中華民國民法 "wikilink")972條違憲，要求兩年內修正或制定相關保障同性婚姻法律。
+2017年3月24日，[司法院大法官](../Page/司法院大法官.md "wikilink")召開憲法法庭，就聲請人[祁家威](../Page/祁家威.md "wikilink")及[臺北市政府](../Page/臺北市政府.md "wikilink")所提之釋憲案，進行言詞辯論。\[48\][司法院大法官](../Page/司法院大法官.md "wikilink")於2017年5月24日釋憲，[民法](https://zh.wikipedia.org/wiki/中華民國民法 "wikilink")972條違憲，要求兩年內修正或制定相關保障同性婚姻法律。
 
 2019年5月17日，《**司法院釋字第七四八號解釋施行法**》三讀通過，同年5月22日經總統公布，並自同年5月24日生效，使中華民國成為亞洲第一個全國性承認同性婚姻的國家。
 
@@ -106,11 +104,11 @@
 
 ## 反歧視法規與措施
 
-1993年2月，[我們之間](https://zh.wikipedia.org/wiki/我們之間 "wikilink")、[亞洲女同志聯盟](https://zh.wikipedia.org/wiki/亞洲女同志聯盟 "wikilink")、[AIDS中途之家等](https://zh.wikipedia.org/wiki/AIDS中途之家 "wikilink")6個LGBT與[愛滋病防治團體在](https://zh.wikipedia.org/wiki/愛滋病 "wikilink")[立法院舉辦人權公聽會](../Page/立法院.md "wikilink")，就尚在審理的《反歧視法》草案未納入保障同志權益一事發表聲明，敦促社會大眾重視同志人權，這是同志議題第一次被納入國會討論\[60\]。
+1993年2月，[我們之間](https://zh.wikipedia.org/wiki/我們之間 "wikilink")、[亞洲女同志聯盟](https://zh.wikipedia.org/wiki/亞洲女同志聯盟 "wikilink")、[AIDS中途之家等](https://zh.wikipedia.org/wiki/AIDS中途之家 "wikilink")6個LGBT與[愛滋病防治團體在](https://zh.wikipedia.org/wiki/愛滋病 "wikilink")[立法院](../Page/立法院.md "wikilink")舉辦人權公聽會，就尚在審理的《反歧視法》草案未納入保障同志權益一事發表聲明，敦促社會大眾重視同志人權，這是同志議題第一次被納入國會討論\[60\]。
 
-在同志人權教育方面，臺灣同志諮詢熱線在2001年主辦「認識同志－教師研習營」，共吸引50位高級中學教師參與，並由臺北縣、市政府教育局核發研習時數證明，是臺灣教育主管單位第一次承認由同志團體舉辦的教育研習活動\[61\]。同年6月，[教師同盟會長](https://zh.wikipedia.org/wiki/教師同盟 "wikilink")[段健發公開出櫃](https://zh.wikipedia.org/wiki/段健發 "wikilink")，受其任教的[桃園國中與前教育部長](https://zh.wikipedia.org/wiki/桃園縣立桃園國民中學 "wikilink")[曾志朗的肯定](../Page/曾志朗.md "wikilink")，並聲明尊重同志教師的人權與工作權\[62\]。
+在同志人權教育方面，臺灣同志諮詢熱線在2001年主辦「認識同志－教師研習營」，共吸引50位高級中學教師參與，並由臺北縣、市政府教育局核發研習時數證明，是臺灣教育主管單位第一次承認由同志團體舉辦的教育研習活動\[61\]。同年6月，[教師同盟會長](https://zh.wikipedia.org/wiki/教師同盟 "wikilink")[段健發公開出櫃](https://zh.wikipedia.org/wiki/段健發 "wikilink")，受其任教的[桃園國中與前教育部長](https://zh.wikipedia.org/wiki/桃園縣立桃園國民中學 "wikilink")[曾志朗](../Page/曾志朗.md "wikilink")的肯定，並聲明尊重同志教師的人權與工作權\[62\]。
 
-[司法院大法官在](../Page/司法院大法官.md "wikilink")2001年發布的《釋字第535號解釋》中，明確規範警察不得無故任意臨檢，有助於同志人權保障\[63\]；因為在過去數十年，臺灣警察常任意臨檢、騷擾、逮捕LGBT相關商店業者與顧客\[64\]。2007年7月，立法院三讀通過《[性別工作平等法](../Page/性別工作平等法.md "wikilink")》，禁止雇主因[性傾向不同而拒絕僱用](https://zh.wikipedia.org/wiki/性傾向 "wikilink")、採取差別待遇\[65\]。在此前的2003年，《[性別平等教育法](../Page/性別平等教育法.md "wikilink")》保障不同性傾向的師生能在校園中平等工作或受教，也規定教育機構應實施反性別歧視教育。2011年行政院版《性別平等教育法》修正通過，納入性別氣質和性別認同。
+[司法院大法官](../Page/司法院大法官.md "wikilink")在2001年發布的《釋字第535號解釋》中，明確規範警察不得無故任意臨檢，有助於同志人權保障\[63\]；因為在過去數十年，臺灣警察常任意臨檢、騷擾、逮捕LGBT相關商店業者與顧客\[64\]。2007年7月，立法院三讀通過《[性別工作平等法](../Page/性別工作平等法.md "wikilink")》，禁止雇主因[性傾向不同而拒絕僱用](https://zh.wikipedia.org/wiki/性傾向 "wikilink")、採取差別待遇\[65\]。在此前的2003年，《[性別平等教育法](../Page/性別平等教育法.md "wikilink")》保障不同性傾向的師生能在校園中平等工作或受教，也規定教育機構應實施反性別歧視教育。2011年行政院版《性別平等教育法》修正通過，納入性別氣質和性別認同。
 
 2009年10月24日，以[臺灣基督長老教會為首的基督教派發起](https://zh.wikipedia.org/wiki/臺灣基督長老教會 "wikilink")「上帝的愛超越一切」反同志大遊行，由臺灣基督長老教會牧師[陳宇全擔任總召集人](https://zh.wikipedia.org/wiki/陳宇全_\(牧師\) "wikilink")，召集300名信徒和20台[休旅車組成車隊參與](https://zh.wikipedia.org/wiki/休旅車 "wikilink")，主張反同性婚姻、反同志遊行\[66\]。此遊行引起同志團體強烈抗議，除了發起抵制活動外，也呼籲教會應「擁抱上帝的子民」、敞開心胸接納異己\[67\]。
 
@@ -124,7 +122,7 @@
 
 ### 身分證與戶籍性別登記
 
-[中華民國國民身分證與](../Page/中華民國國民身分證.md "wikilink")[戶籍登記是主要身份證明](https://zh.wikipedia.org/wiki/戶籍 "wikilink")。其他[駕照](https://zh.wikipedia.org/wiki/駕照 "wikilink")、[行照](https://zh.wikipedia.org/wiki/行照 "wikilink")、學歷證件等都要求這兩項。
+[中華民國國民身分證](../Page/中華民國國民身分證.md "wikilink")與[戶籍登記是主要身份證明](https://zh.wikipedia.org/wiki/戶籍 "wikilink")。其他[駕照](https://zh.wikipedia.org/wiki/駕照 "wikilink")、[行照](https://zh.wikipedia.org/wiki/行照 "wikilink")、學歷證件等都要求這兩項。
 
 身分證字號有性別之分（舊身分證連顏色也有性別之分）。身分證上的照片則要求要符合生理性別。平時各種身分驗證要求的則是外觀與身分證照片，身分證標示的性別一致。另外戶籍登記中有出生登記，出生登記上有標明性別。還有不論性別，一人一生只能更改一次姓名。變性者完成變性手術後可至戶政事務所辦理變更出生登記與身分證。
 
@@ -136,8 +134,7 @@
 
 ### 性別登記變更
 
-身分證由[戶籍法管理](https://zh.wikipedia.org/wiki/戶籍法 "wikilink")，主管機關為[內政部](../Page/內政部.md "wikilink")。戶籍法中沒有「性別」兩個字。但是第4條規定：「戶籍登記，指下列登記：一、身分登記：
-(一) 出生登記」。出生登記有註明性別。
+身分證由[戶籍法管理](https://zh.wikipedia.org/wiki/戶籍法 "wikilink")，主管機關為[內政部](../Page/內政部.md "wikilink")。戶籍法中沒有「性別」兩個字。但是第4條規定：「戶籍登記，指下列登記：一、身分登記： (一) 出生登記」。出生登記有註明性別。
 
 根據戶籍法23條：「戶籍登記事項有變更時，應為變更之登記。」以及根據戶籍法施行細則 第23條：
 
@@ -153,24 +150,24 @@
 
 ## 兵役
 
-[中華民國國軍自](../Page/中華民國國軍.md "wikilink")1994年起不再禁止同性戀者從軍。不過在2001年時，[憲兵司令部曾通過](https://zh.wikipedia.org/wiki/憲兵司令部 "wikilink")《憲兵兵員甄選實施計畫》禁止同性戀者擔任[憲兵](../Page/中華民國憲兵.md "wikilink")，理由是「便於生活管理及照顧的需要」\[76\]。這項政策在2002年5月引起同志團體如[臺灣同志諮詢熱線](https://zh.wikipedia.org/wiki/臺灣同志諮詢熱線 "wikilink")、[性別人權協會](https://zh.wikipedia.org/wiki/性別人權協會 "wikilink")、[晶晶書庫等發起抗議遊行](../Page/晶晶書庫.md "wikilink")，認為這是用似是而非的說辭，修飾與合理化國防部的差別待遇，應立即廢除；[國防部長](https://zh.wikipedia.org/wiki/中華民國國防部部長 "wikilink")[湯曜明隨後表示將廢除此法](../Page/湯曜明.md "wikilink")，並加強相關人權教育\[77\]\[78\]。
+[中華民國國軍](../Page/中華民國國軍.md "wikilink")自1994年起不再禁止同性戀者從軍。不過在2001年時，[憲兵司令部曾通過](https://zh.wikipedia.org/wiki/憲兵司令部 "wikilink")《憲兵兵員甄選實施計畫》禁止同性戀者擔任[憲兵](../Page/中華民國憲兵.md "wikilink")，理由是「便於生活管理及照顧的需要」\[76\]。這項政策在2002年5月引起同志團體如[臺灣同志諮詢熱線](https://zh.wikipedia.org/wiki/臺灣同志諮詢熱線 "wikilink")、[性別人權協會](https://zh.wikipedia.org/wiki/性別人權協會 "wikilink")、[晶晶書庫](../Page/晶晶書庫.md "wikilink")等發起抗議遊行，認為這是用似是而非的說辭，修飾與合理化國防部的差別待遇，應立即廢除；[國防部長](https://zh.wikipedia.org/wiki/中華民國國防部部長 "wikilink")[湯曜明](../Page/湯曜明.md "wikilink")隨後表示將廢除此法，並加強相關人權教育\[77\]\[78\]。
 
-據[國防部軍事發言人虞思祖在](../Page/國防部.md "wikilink")2010年的發言，「臺灣兵製為徵募並行，依兵役法規定，只要符合入營條件，所有人一視同仁，沒有特別強調或凸顯性別傾向問題」。然而，雖偶有軍人會低調出櫃，但和[義務役相比](https://zh.wikipedia.org/wiki/義務役 "wikilink")，職業軍人比較隱諱，因為陞遷機會僧多粥少，不希望影響到仕途\[79\]，而少數出櫃的軍人，有時仍可能受到來自長官或同袍的騷擾\[80\]\[81\]。
+據[國防部](../Page/國防部.md "wikilink")軍事發言人虞思祖在2010年的發言，「臺灣兵製為徵募並行，依兵役法規定，只要符合入營條件，所有人一視同仁，沒有特別強調或凸顯性別傾向問題」。然而，雖偶有軍人會低調出櫃，但和[義務役相比](https://zh.wikipedia.org/wiki/義務役 "wikilink")，職業軍人比較隱諱，因為陞遷機會僧多粥少，不希望影響到仕途\[79\]，而少數出櫃的軍人，有時仍可能受到來自長官或同袍的騷擾\[80\]\[81\]。
 
-[性別認同為女性但生理性别被指定为男性的跨性别女性](../Page/性別認同.md "wikilink")，可以藉由「[性別不安](https://zh.wikipedia.org/wiki/性別不安症 "wikilink")」申請[義務役免役](https://zh.wikipedia.org/wiki/義務役 "wikilink")，不過每年僅有0.025%，也就是大約50人，申請免役成功\[82\]。
+[性別認同](../Page/性別認同.md "wikilink")為女性但生理性别被指定为男性的跨性别女性，可以藉由「[性別不安](https://zh.wikipedia.org/wiki/性別不安症 "wikilink")」申請[義務役免役](https://zh.wikipedia.org/wiki/義務役 "wikilink")，不過每年僅有0.025%，也就是大約50人，申請免役成功\[82\]。
 
-2017年，[莒光園地製作了心輔單元劇](../Page/莒光園地.md "wikilink")《彩虹》，聚焦男同志在軍中性傾向受壓迫的議題。國防部發言人陳中吉表示，這是心輔單位在官兵遇到困難時，強調性別尊重態度，給予傾聽、關懷與協助的過程，是心輔工作的一環\[83\]\[84\]。
+2017年，[莒光園地](../Page/莒光園地.md "wikilink")製作了心輔單元劇《彩虹》，聚焦男同志在軍中性傾向受壓迫的議題。國防部發言人陳中吉表示，這是心輔單位在官兵遇到困難時，強調性別尊重態度，給予傾聽、關懷與協助的過程，是心輔工作的一環\[83\]\[84\]。
 
 ## 政治
 
   - 政黨
     [民主進步黨](../Page/民主進步黨.md "wikilink")
 
-基於民進黨過去對各項人權議題的關注，民進黨對有關同性婚姻立法的態度相對較為支持，不過民進黨在黨綱中未有就有關議題明確表達。現任總統[蔡英文在](../Page/蔡英文.md "wikilink")2015年同志遊行時表態支持婚姻平權（她並未參與遊行），但之後無就有關立場再作進一步論述。民進黨的現任立委中多數支持同性婚姻，但對保障方式則分有支持平等的平權派，和支持專法的妥協派。
+基於民進黨過去對各項人權議題的關注，民進黨對有關同性婚姻立法的態度相對較為支持，不過民進黨在黨綱中未有就有關議題明確表達。現任總統[蔡英文](../Page/蔡英文.md "wikilink")在2015年同志遊行時表態支持婚姻平權（她並未參與遊行），但之後無就有關立場再作進一步論述。民進黨的現任立委中多數支持同性婚姻，但對保障方式則分有支持平等的平權派，和支持專法的妥協派。
 
   - [中國國民黨](../Page/中國國民黨.md "wikilink")
 
-前任黨主席、前總統[馬英九和前任黨主席](../Page/馬英九.md "wikilink")[洪秀柱皆曾表示支持同志權益](https://zh.wikipedia.org/wiki/洪秀柱 "wikilink")。國民黨的現任立委之中，對此議題多持反對或不表態的立場，但傾向支持同志婚姻專法，並且對於性別平等教育中的「同志教育」持反對態度。但亦有支持，如[許毓仁](../Page/許毓仁.md "wikilink")。
+前任黨主席、前總統[馬英九](../Page/馬英九.md "wikilink")和前任黨主席[洪秀柱皆曾表示支持同志權益](https://zh.wikipedia.org/wiki/洪秀柱 "wikilink")。國民黨的現任立委之中，對此議題多持反對或不表態的立場，但傾向支持同志婚姻專法，並且對於性別平等教育中的「同志教育」持反對態度。但亦有支持，如[許毓仁](../Page/許毓仁.md "wikilink")。
 
   - [時代力量](../Page/時代力量.md "wikilink")、[綠黨](https://zh.wikipedia.org/wiki/綠黨_\(臺灣\) "wikilink")、[社會民主黨](../Page/社會民主黨_\(臺灣\).md "wikilink")
 
@@ -182,32 +179,30 @@
 
   - 個人
 
-臺灣政壇直至[2018年中華民國地方公職人員選舉中才首次出現當選的LGBT政治人物](../Page/2018年中華民國地方公職人員選舉.md "wikilink")。
+臺灣政壇直至[2018年中華民國地方公職人員選舉](../Page/2018年中華民國地方公職人員選舉.md "wikilink")中才首次出現當選的LGBT政治人物。
 
 :; 公開出櫃參選成功的候選人
 
   - [苗博雅](../Page/苗博雅.md "wikilink")，代表[社會民主黨大安文山區參選](../Page/社會民主黨_\(臺灣\).md "wikilink")[2018年臺北市議員競選](../Page/2018年中華民國地方公職人員選舉.md "wikilink")。
-  - [林穎孟](../Page/林穎孟.md "wikilink")，代表[時代力量大安文山區參選](../Page/時代力量.md "wikilink")[2018年臺北市議員競選](../Page/2018年中華民國地方公職人員選舉.md "wikilink")。
+  - [林穎孟](../Page/林穎孟.md "wikilink")，代表[時代力量](../Page/時代力量.md "wikilink")大安文山區參選[2018年臺北市議員競選](../Page/2018年中華民國地方公職人員選舉.md "wikilink")。
 
 :; 曾公開出櫃參選的候選人
 
-  - [莊松富](https://zh.wikipedia.org/wiki/莊松富 "wikilink")，參選[臺北市南區立法委員選舉](../Page/1995年中華民國立法委員選舉.md "wikilink")，為[臺灣選舉史上首位已](https://zh.wikipedia.org/wiki/臺灣選舉#歷史 "wikilink")[出櫃的同性戀候選人](../Page/出櫃.md "wikilink")，但未當選\[87\]。
+  - [莊松富](https://zh.wikipedia.org/wiki/莊松富 "wikilink")，參選[臺北市南區立法委員選舉](../Page/1995年中華民國立法委員選舉.md "wikilink")，為[臺灣選舉史上首位已](https://zh.wikipedia.org/wiki/臺灣選舉#歷史 "wikilink")[出櫃](../Page/出櫃.md "wikilink")的同性戀候選人，但未當選\[87\]。
   - [詹銘洲](https://zh.wikipedia.org/wiki/詹銘洲 "wikilink")，在2001年於高雄市參選立法委員、在2006年於臺北市參選市議員\[88\]\[89\]，均未當選。
-  - [王鐘銘曾多次代表](../Page/王鐘銘.md "wikilink")[綠黨參加立法委員及市議員選舉](https://zh.wikipedia.org/wiki/綠黨_\(臺灣\) "wikilink")。
-  - [梁益誌代表臺灣綠黨參與](../Page/梁益誌.md "wikilink")[2014年高雄市議員競選](../Page/2014年中華民國地方公職人員選舉.md "wikilink")。
+  - [王鐘銘](../Page/王鐘銘.md "wikilink")曾多次代表[綠黨參加立法委員及市議員選舉](https://zh.wikipedia.org/wiki/綠黨_\(臺灣\) "wikilink")。
+  - [梁益誌](../Page/梁益誌.md "wikilink")代表臺灣綠黨參與[2014年高雄市議員競選](../Page/2014年中華民國地方公職人員選舉.md "wikilink")。
 
 :;立場具爭議者
 
-  - 2011年4月14日，前[民主進步黨主席](../Page/民主進步黨主席.md "wikilink")[施明德公開質疑現任民進黨主席](../Page/施明德.md "wikilink")[蔡英文的性傾向](../Page/蔡英文.md "wikilink")，並要求她應公開表明\[90\]。此舉引發部分民眾的抗議，被朝野政黨和性別團體認為是「歧視同志」、「不尊重同志人權」\[91\]\[92\]；而施明德則表示，他支持同性戀和雙性戀者，但認為政治人物對人民公開性傾向才是負責任的做法\[93\]，他其後又表明支持同性婚姻。
+  - 2011年4月14日，前[民主進步黨主席](../Page/民主進步黨主席.md "wikilink")[施明德](../Page/施明德.md "wikilink")公開質疑現任民進黨主席[蔡英文](../Page/蔡英文.md "wikilink")的性傾向，並要求她應公開表明\[90\]。此舉引發部分民眾的抗議，被朝野政黨和性別團體認為是「歧視同志」、「不尊重同志人權」\[91\]\[92\]；而施明德則表示，他支持同性戀和雙性戀者，但認為政治人物對人民公開性傾向才是負責任的做法\[93\]，他其後又表明支持同性婚姻。
   - 知名政治諷刺者[馮光遠](../Page/馮光遠.md "wikilink")，也發表類似意見，指出由同性戀情侶關係獲得的政治權力及影響力，必須公開，但他指責的對象是馬英九及金溥聰。第一個問題是，馬英九給金溥聰官位的問題，這如同一個異性戀政治人物給予情人官位；另一個問題則為，是否有人以他們的關係（甚至性愛影片）來威脅他們，他們會做出對臺灣重大傷害的政策，是否是這造成的。
 
 ## 企業
 
-同志人權法案遊說聯盟邀請企業簽署「反歧視宣言」與「同志人權公約」，承諾不得對LGBT員工及其家屬有任何形式的歧視、並且提供LGBT伴侶或配偶與異性戀等同的企業福利
-\[94\]。 簽署企業包括白金科技股份有限公司、FlyingV昂圖股份有限公司、德臻法律事務所、杰德創意影音管理股份有限公司、Nexdoor
-宇軒數位有限公司、好孩子國際娛樂有限公司。
+同志人權法案遊說聯盟邀請企業簽署「反歧視宣言」與「同志人權公約」，承諾不得對LGBT員工及其家屬有任何形式的歧視、並且提供LGBT伴侶或配偶與異性戀等同的企業福利 \[94\]。 簽署企業包括白金科技股份有限公司、FlyingV昂圖股份有限公司、德臻法律事務所、杰德創意影音管理股份有限公司、Nexdoor 宇軒數位有限公司、好孩子國際娛樂有限公司。
 
-2010年，臺北[馬偕紀念醫院資訊工程師周逸人因其跨性別身分遭院方開除](../Page/馬偕紀念醫院.md "wikilink")，法官認定為歧視並違反《勞基法》。
+2010年，臺北[馬偕紀念醫院](../Page/馬偕紀念醫院.md "wikilink")資訊工程師周逸人因其跨性別身分遭院方開除，法官認定為歧視並違反《勞基法》。
 
 ## 媒體
 
@@ -219,10 +214,9 @@ NCC於2012年通過《廣電媒體製播涉及性別相關內容指導原則》�
 
 台灣同志劇情電影自1985年出現第一部描寫同性情愫的《孤戀花》，在《17歲的天空》、《盛夏光年》、《刺青》的賣座後，文本愈加熱烈的出現\[97\]。
 
-[台灣金馬獎於](https://zh.wikipedia.org/wiki/台灣金馬獎 "wikilink") 1992
-年首次開辦同志影展專題。台灣電影創作上，李安的《囍宴》（1993）獲柏林影展金熊獎、蔡明亮橫掃國際影展的《愛情萬歲》（1995）、《河流》（1997）以及林正盛的《美麗在唱歌》（1997）獲頒坎城影展會外賽金棕櫚獎等，都是國際留名之作\[98\]。
+[台灣金馬獎於](https://zh.wikipedia.org/wiki/台灣金馬獎 "wikilink") 1992 年首次開辦同志影展專題。台灣電影創作上，李安的《囍宴》（1993）獲柏林影展金熊獎、蔡明亮橫掃國際影展的《愛情萬歲》（1995）、《河流》（1997）以及林正盛的《美麗在唱歌》（1997）獲頒坎城影展會外賽金棕櫚獎等，都是國際留名之作\[98\]。
 
-隨著社會的發展，[偶像劇亦展現其進步性](../Page/偶像劇.md "wikilink")。即使劇中多數同志角色仍然具有傳統刻板印象，但偶像劇在呈現同志的方式更加多元、開放\[99\]。
+隨著社會的發展，[偶像劇](../Page/偶像劇.md "wikilink")亦展現其進步性。即使劇中多數同志角色仍然具有傳統刻板印象，但偶像劇在呈現同志的方式更加多元、開放\[99\]。
 
 ## 參見
 
@@ -245,8 +239,7 @@ NCC於2012年通過《廣電媒體製播涉及性別相關內容指導原則》�
 
   - [臺灣LGBT組織官方網站](https://web.archive.org/web/20181230141257/http://itaiwan.lgbt/)
 
-[分類:台灣LGBT權益](https://zh.wikipedia.org/wiki/分類:台灣LGBT權益 "wikilink")
-[分類:台灣人權](https://zh.wikipedia.org/wiki/分類:台灣人權 "wikilink")
+[分類:台灣LGBT權益](https://zh.wikipedia.org/wiki/分類:台灣LGBT權益 "wikilink") [分類:台灣人權](https://zh.wikipedia.org/wiki/分類:台灣人權 "wikilink")
 
 [Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
 
@@ -266,8 +259,7 @@ NCC於2012年通過《廣電媒體製播涉及性別相關內容指導原則》�
 
 8.
 
-9.   首頁 {{\!}} 三立新聞網
-    SETN.COM|accessdate=2018-08-15|last=三立新聞網|language=zh-Hant-TW}}
+9.   首頁 {{\!}} 三立新聞網 SETN.COM|accessdate=2018-08-15|last=三立新聞網|language=zh-Hant-TW}}
 
 10.
 
@@ -336,8 +328,7 @@ NCC於2012年通過《廣電媒體製播涉及性別相關內容指導原則》�
 42.
 43.
 
-44.
-    ETtoday新聞雲|last=[https://www.facebook.com/ETtoday|newspaper=ETtoday新聞雲|accessdate=2018-08-15|language=zh-TW](https://www.facebook.com/ETtoday%7Cnewspaper=ETtoday新聞雲%7Caccessdate=2018-08-15%7Clanguage=zh-TW)}}
+44.  ETtoday新聞雲|last=[https://www.facebook.com/ETtoday|newspaper=ETtoday新聞雲|accessdate=2018-08-15|language=zh-TW](https://www.facebook.com/ETtoday%7Cnewspaper=ETtoday新聞雲%7Caccessdate=2018-08-15%7Clanguage=zh-TW)}}
 
 45.
 
@@ -363,13 +354,11 @@ NCC於2012年通過《廣電媒體製播涉及性別相關內容指導原則》�
 
 56. <http://udn.com/news/story/3/1570743-彰化縣同性伴侶註記-4月1日實施>
 
-57.  伴侶註記再下一城　105年4月1日起新竹縣開始受理 – 酷新聞
-    QueerWatch|accessdate=2018-08-15|work=queer.watch|language=zh-TW}}
+57.  伴侶註記再下一城　105年4月1日起新竹縣開始受理 – 酷新聞 QueerWatch|accessdate=2018-08-15|work=queer.watch|language=zh-TW}}
 
 58.
 
-59.
-    ETtoday新聞雲|last=[https://www.facebook.com/ETtoday|newspaper=ETtoday新聞雲|accessdate=2018-08-15|language=zh-TW](https://www.facebook.com/ETtoday%7Cnewspaper=ETtoday新聞雲%7Caccessdate=2018-08-15%7Clanguage=zh-TW)}}
+59.  ETtoday新聞雲|last=[https://www.facebook.com/ETtoday|newspaper=ETtoday新聞雲|accessdate=2018-08-15|language=zh-TW](https://www.facebook.com/ETtoday%7Cnewspaper=ETtoday新聞雲%7Caccessdate=2018-08-15%7Clanguage=zh-TW)}}
 
 60.
 

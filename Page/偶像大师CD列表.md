@@ -1,9 +1,4 @@
-以下是《[偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")》系列（PROJECT
-IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女孩、偶像大师 百万现场、偶像大师 SideM、偶像大师.KR和偶像大师
-闪耀色彩这六个子作品的音乐CD。各作品中，偶像大师（本家）与偶像大师
-灰姑娘女孩的CD主要由[日本哥伦比亚发行](../Page/日本古倫美亞.md "wikilink")，偶像大师
-百万现场、偶像大师 SideM和偶像大师
-闪耀色彩三者的CD主要由[Lantis发行](../Page/Lantis.md "wikilink")。
+以下是《[偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")》系列（PROJECT IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女孩、偶像大师 百万现场、偶像大师 SideM、偶像大师.KR和偶像大师 闪耀色彩这六个子作品的音乐CD。各作品中，偶像大师（本家）与偶像大师 灰姑娘女孩的CD主要由[日本哥伦比亚发行](../Page/日本古倫美亞.md "wikilink")，偶像大师 百万现场、偶像大师 SideM和偶像大师 闪耀色彩三者的CD主要由[Lantis](../Page/Lantis.md "wikilink")发行。
 
 ## 偶像大师（本家）
 
@@ -14,61 +9,49 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
 收錄街機版的音樂的系列。由01至05，一共5隻。
 
   - THE IDOLM@STER MASTERPIECE 01
-    2005年9月28日發售。[天海春香](https://zh.wikipedia.org/wiki/天海春香 "wikilink")、[萩原雪步](https://zh.wikipedia.org/wiki/萩原雪步 "wikilink")、[秋月律子各一首歌](https://zh.wikipedia.org/wiki/秋月律子 "wikilink")，以及收錄由三人所唱的《魔法をかけて\!》、《THE
-    IDOLM@STER》的Long Version。
+    2005年9月28日發售。[天海春香](https://zh.wikipedia.org/wiki/天海春香 "wikilink")、[萩原雪步](https://zh.wikipedia.org/wiki/萩原雪步 "wikilink")、[秋月律子各一首歌](https://zh.wikipedia.org/wiki/秋月律子 "wikilink")，以及收錄由三人所唱的《魔法をかけて\!》、《THE IDOLM@STER》的Long Version。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTERPIECE 02
-    2005年11月2日發售。[三浦梓](https://zh.wikipedia.org/wiki/三浦梓 "wikilink")、[如月千早](https://zh.wikipedia.org/wiki/如月千早 "wikilink")、[菊地真各一首歌](https://zh.wikipedia.org/wiki/菊地真 "wikilink")，以及收錄由三人所唱的《9:02pm》、《THE
-    IDOLM@STER》的Long Version。
+    2005年11月2日發售。[三浦梓](https://zh.wikipedia.org/wiki/三浦梓 "wikilink")、[如月千早](https://zh.wikipedia.org/wiki/如月千早 "wikilink")、[菊地真各一首歌](https://zh.wikipedia.org/wiki/菊地真 "wikilink")，以及收錄由三人所唱的《9:02pm》、《THE IDOLM@STER》的Long Version。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTERPIECE 03
-    2005年11月30日發售。水瀨伊織、高槻彌生、雙海亞美・真美各一首歌以及收錄由三人所唱的《ポジティブ\!》、《THE
-    IDOLM@STER》的Long Version。
+    2005年11月30日發售。水瀨伊織、高槻彌生、雙海亞美・真美各一首歌以及收錄由三人所唱的《ポジティブ\!》、《THE IDOLM@STER》的Long Version。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTERPIECE 04
-    2006年3月22日發售。收錄《太陽のジェラシー》（春香・伊織・千早）、《エージェント夜を往く》（真・律子・亞美真美）、《おはよう\!\!朝ご飯》（彌生・梓・雪步）的Long
-    Version，《THE IDOLM@STER》（全員）Game Version，以及9首在Super producer
-    Tournament中熱門Unit版。
+    2006年3月22日發售。收錄《太陽のジェラシー》（春香・伊織・千早）、《エージェント夜を往く》（真・律子・亞美真美）、《おはよう\!\!朝ご飯》（彌生・梓・雪步）的Long Version，《THE IDOLM@STER》（全員）Game Version，以及9首在Super producer Tournament中熱門Unit版。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTERPIECE 05
-    2006年5月31日發售。收錄《蒼い鳥》（千早·梓·律子）、《First Stage》（雪步·真·亞美真美）、《Here we
-    go\!\!》（伊織・春香・彌生）、《THE IDOLM@STER》（全員）Long Version，以及遊戲的BGM。
+    2006年5月31日發售。收錄《蒼い鳥》（千早·梓·律子）、《First Stage》（雪步·真·亞美真美）、《Here we go\!\!》（伊織・春香・彌生）、《THE IDOLM@STER》（全員）Long Version，以及遊戲的BGM。
 
 #### MASTERWORK 系列
 
 於Xbox 360版初出現的歌曲的full version，並收錄街機版的歌的另一版本。由00至03，一共4隻。
 
   - THE IDOLM@STER MASTERWORK 00
-    2006年12月20日發售。收錄星井美希・天海春香・如月千早的《私はアイドル♥》、《神さまのBirthday》，以及全員所唱的《THE
-    IDOLM@STER》的CD。和收錄Xbox 360版的Promotion映像（使用歌曲分別為《私はアイドル♥》《THE
-    IDOLM@STER》《GO MY WAY\!\!》）的DVD。
+    2006年12月20日發售。收錄星井美希・天海春香・如月千早的《私はアイドル♥》、《神さまのBirthday》，以及全員所唱的《THE IDOLM@STER》的CD。和收錄Xbox 360版的Promotion映像（使用歌曲分別為《私はアイドル♥》《THE IDOLM@STER》《GO MY WAY\!\!》）的DVD。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTERWORK 01
-    2007年1月31日發售。收錄天海春香·水瀨伊織・高槻彌生所唱的《GO MY
-    WAY\!\!》和秋月律子・三浦梓・菊地真的《思い出をありがとう》，由天海春香主唱的《太陽のジェラシー》、水瀨伊織的《Here
-    we go\!\!》、高槻彌生的《おはよう\!\!朝ご飯》的Long Version。
+    2007年1月31日發售。收錄天海春香·水瀨伊織・高槻彌生所唱的《GO MY WAY\!\!》和秋月律子・三浦梓・菊地真的《思い出をありがとう》，由天海春香主唱的《太陽のジェラシー》、水瀨伊織的《Here we go\!\!》、高槻彌生的《おはよう\!\!朝ご飯》的Long Version。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTERWORK 02
-    2007年2月28日發售。收錄星井美希與如月千早所唱的《relations》、秋月律子・萩原雪步・雙海亞美&真美的《My Best
-    Friend》，由秋月律子主唱的《魔法をかけて\!》、雙海亞美&真美的《ポジティブ\!》的Long Version。
+    2007年2月28日發售。收錄星井美希與如月千早所唱的《relations》、秋月律子・萩原雪步・雙海亞美&真美的《My Best Friend》，由秋月律子主唱的《魔法をかけて\!》、雙海亞美&真美的《ポジティブ\!》的Long Version。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTERWORK 03
-    2007年3月28日發售。菊地真・三浦梓・萩原雪步所唱的《まっすぐ》、水瀨伊織・高槻彌生・雙海亞美&真美的《私はアイドル♥》、由主唱萩原雪步的《First
-    Stage》、菊地真的《エージェント夜を往く》的Long Version。
+    2007年3月28日發售。菊地真・三浦梓・萩原雪步所唱的《まっすぐ》、水瀨伊織・高槻彌生・雙海亞美&真美的《私はアイドル♥》、由主唱萩原雪步的《First Stage》、菊地真的《エージェント夜を往く》的Long Version。
 
 ##### MASTER ARTIST 系列
 
@@ -77,72 +60,52 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
 以下的專輯中，共通曲為《i》。
 
   - THE IDOLM@STER MASTER ARTIST 01 天海春香
-    2007年7月18日發售。個別新曲為《I
-    Want》，追加翻唱曲是[齊藤由貴的](../Page/齊藤由貴.md "wikilink")《悲しみよこんにちは》，獨唱Remix（Solo
-    Remix）曲為《GO MY WAY\!\! (M@STER VERSION)》及《神さまのBirthday》。
+    2007年7月18日發售。個別新曲為《I Want》，追加翻唱曲是[齊藤由貴](../Page/齊藤由貴.md "wikilink")的《悲しみよこんにちは》，獨唱Remix（Solo Remix）曲為《GO MY WAY\!\! (M@STER VERSION)》及《神さまのBirthday》。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTER ARTIST 02 高槻彌生
-    2007年7月18日發售。個別新曲為《キラメキラリ》，翻唱曲是[木村KAELA的](../Page/木村KAELA.md "wikilink")《リルラ
-    リルハ》，獨唱Remix曲為《GO MY WAY\!\! (M@STER VERSION)》及《私はアイドル♡ (M@STER
-    VERSION)》。
+    2007年7月18日發售。個別新曲為《キラメキラリ》，翻唱曲是[木村KAELA](../Page/木村KAELA.md "wikilink")的《リルラ リルハ》，獨唱Remix曲為《GO MY WAY\!\! (M@STER VERSION)》及《私はアイドル♡ (M@STER VERSION)》。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTER ARTIST 03 星井美希
-    2007年8月1日發售。個別新曲為《ふるふるフューチャー☆》，翻唱曲是CHICKS的《すいみん不足》和BON-BON
-    BLANCO的《[涙のハリケーン](https://zh.wikipedia.org/wiki/涙のハリケーン "wikilink")》，獨唱Remix曲為《relations
-    (M@STER VERSION)》、《私はアイドル♡》及《神さまのBirthday》。
+    2007年8月1日發售。個別新曲為《ふるふるフューチャー☆》，翻唱曲是CHICKS的《すいみん不足》和BON-BON BLANCO的《[涙のハリケーン](https://zh.wikipedia.org/wiki/涙のハリケーン "wikilink")》，獨唱Remix曲為《relations (M@STER VERSION)》、《私はアイドル♡》及《神さまのBirthday》。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTER ARTIST 04 菊地 真
-    2007年8月1日發售。個別新曲為《迷走Mind》、翻唱曲是[YEN TOWN
-    BAND的](https://zh.wikipedia.org/wiki/YEN_TOWN_BAND "wikilink")《[Swallowtail
-    Butterfly
-    〜あいのうた〜](../Page/Swallowtail_Butterfly_～愛之歌～.md "wikilink")》，獨唱Remix曲為《まっすぐ
-    (M@STER VERSION)》及《思い出をありがとう (M@STER VERSION)》。
+    2007年8月1日發售。個別新曲為《迷走Mind》、翻唱曲是[YEN TOWN BAND的](https://zh.wikipedia.org/wiki/YEN_TOWN_BAND "wikilink")《[Swallowtail Butterfly 〜あいのうた〜](../Page/Swallowtail_Butterfly_～愛之歌～.md "wikilink")》，獨唱Remix曲為《まっすぐ (M@STER VERSION)》及《思い出をありがとう (M@STER VERSION)》。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTER ARTIST 05 如月千早
-    2007年8月22日發售。個別新曲為《目が逢う瞬間》，翻唱曲是谷山浩子的《まっくら森の歌》，獨唱Remix曲為《神さまのBirthday》和《relations
-    (M@STER VERSION)》。
+    2007年8月22日發售。個別新曲為《目が逢う瞬間》，翻唱曲是谷山浩子的《まっくら森の歌》，獨唱Remix曲為《神さまのBirthday》和《relations (M@STER VERSION)》。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTER ARTIST 06 雙海亞美／真美
-    2007年8月22日發售。個別新曲為《スタ→トスタ→》，翻唱曲是[SMAPの](../Page/SMAP.md "wikilink")《[笑顔のゲンキ](../Page/歡笑的活力.md "wikilink")》，獨唱Remix曲為《私はアイドル♡
-    (M@STER VERSION)》和《My Best Friend (M@STER VERSION)》。
+    2007年8月22日發售。個別新曲為《スタ→トスタ→》，翻唱曲是[SMAP](../Page/SMAP.md "wikilink")の《[笑顔のゲンキ](../Page/歡笑的活力.md "wikilink")》，獨唱Remix曲為《私はアイドル♡ (M@STER VERSION)》和《My Best Friend (M@STER VERSION)》。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTER ARTIST 07 三浦梓
-    2007年9月5日發售。個別新曲為《隣に・・・》，翻唱曲是[Angela
-    Aki的](../Page/安潔拉亞季.md "wikilink")《[Kiss Me
-    Good-Bye](../Page/Kiss_Me_Good-Bye.md "wikilink")》，獨唱Remix曲為《まっすぐ
-    (M@STER VERSION)》和《思い出をありがとう (M@STER VERSION)》。
+    2007年9月5日發售。個別新曲為《隣に・・・》，翻唱曲是[Angela Aki的](../Page/安潔拉亞季.md "wikilink")《[Kiss Me Good-Bye](../Page/Kiss_Me_Good-Bye.md "wikilink")》，獨唱Remix曲為《まっすぐ (M@STER VERSION)》和《思い出をありがとう (M@STER VERSION)》。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTER ARTIST 08 水瀨伊織
-    2007年9月5日發售。個別新曲為《フタリの記憶》，翻唱曲是[奥華子的](https://zh.wikipedia.org/wiki/奥華子 "wikilink")《ガーネット》，獨唱Remix曲為《私はアイドル♡
-    (M@STER VERSION)》和《GO MY WAY\!\! (M@STER VERSION)》。
+    2007年9月5日發售。個別新曲為《フタリの記憶》，翻唱曲是[奥華子的](https://zh.wikipedia.org/wiki/奥華子 "wikilink")《ガーネット》，獨唱Remix曲為《私はアイドル♡ (M@STER VERSION)》和《GO MY WAY\!\! (M@STER VERSION)》。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTER ARTIST 09 萩原雪步
-    2007年10月3日發售\[1\]。個別新曲為《Kosmos,
-    Cosmos》，翻唱曲是加藤いづみ的《好きになって、よかった》，獨唱Remix曲為《My
-    Best Friend (M@STER VERSION)》和《まっすぐ (M@STER VERSION)》。
+    2007年10月3日發售\[1\]。個別新曲為《Kosmos, Cosmos》，翻唱曲是加藤いづみ的《好きになって、よかった》，獨唱Remix曲為《My Best Friend (M@STER VERSION)》和《まっすぐ (M@STER VERSION)》。
 
 <!-- end list -->
 
   - THE IDOLM@STER MASTER ARTIST 10 秋月律子
-    2007年9月19日發售\[2\]。個別新曲為《いっぱいいっぱい》，翻唱曲是樋口了一的《1/6の夢旅人
-    2002》。獨唱Remix曲為《My Best Friend (M@STER
-    VERSION)》、《思い出をありがとう (M@STER VERSION)》。
+    2007年9月19日發售\[2\]。個別新曲為《いっぱいいっぱい》，翻唱曲是樋口了一的《1/6の夢旅人 2002》。獨唱Remix曲為《My Best Friend (M@STER VERSION)》、《思い出をありがとう (M@STER VERSION)》。
 
 <!-- end list -->
 
@@ -315,29 +278,24 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
   - ; 01 天海春香
 
       -
-        2010年11月3日發售。與02 我那霸響、03
-        星井美希同時發售。個別新曲為「START\!\!」、個人翻唱曲是HARCO的「世界でいちばん頑張ってる君に」。新收錄既存曲的Remix版「太陽のジェラシー
-        (M@STER VERSION)」。
+        2010年11月3日發售。與02 我那霸響、03 星井美希同時發售。個別新曲為「START\!\!」、個人翻唱曲是HARCO的「世界でいちばん頑張ってる君に」。新收錄既存曲的Remix版「太陽のジェラシー (M@STER VERSION)」。
 
   - ; 02 我那霸響
 
       -
-        2010年11月3日發售。與01 天海春香、03 星井美希同時發售。個別新曲為「TRIAL
-        DANCE」、個人翻唱曲是夏川りみ的「涙そうそう」。新收錄既存曲的Remix版「DREAM」。
+        2010年11月3日發售。與01 天海春香、03 星井美希同時發售。個別新曲為「TRIAL DANCE」、個人翻唱曲是夏川りみ的「涙そうそう」。新收錄既存曲的Remix版「DREAM」。
 
   - ; 03 星井美希
 
       -
-        2010年11月3日發售。與01 天海春香、02 我那霸響同時發售。個別新曲為「Day of the
-        future」、個人翻唱曲是松本英子的「Squall」。新收錄既存曲的Remix版「ふるふるフューチャー☆」。
+        2010年11月3日發售。與01 天海春香、02 我那霸響同時發售。個別新曲為「Day of the future」、個人翻唱曲是松本英子的「Squall」。新收錄既存曲的Remix版「ふるふるフューチャー☆」。
 
 <!-- end list -->
 
   - ; 04 菊地真
 
       -
-        2010年12月1日發售。與06
-        四條貴音同時發售。個別新曲為「tear」、個人翻唱曲是蘭花·李（[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")）的「星間飛行」。新收錄既存曲的Remix版「自転車」。
+        2010年12月1日發售。與06 四條貴音同時發售。個別新曲為「tear」、個人翻唱曲是蘭花·李（[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")）的「星間飛行」。新收錄既存曲的Remix版「自転車」。
 
   - ; 05 如月千早
 
@@ -347,29 +305,24 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
   - ; 06 四條貴音
 
       -
-        2010年12月1日發售。與04
-        菊地真と同時發售。個別新曲為「風花」、個人翻唱曲是諫山実生的「[月のワルツ](https://zh.wikipedia.org/wiki/月のワルツ "wikilink")」。新收錄既存曲的Remix版「THE
-        愛」。
+        2010年12月1日發售。與04 菊地真と同時發售。個別新曲為「風花」、個人翻唱曲是諫山実生的「[月のワルツ](https://zh.wikipedia.org/wiki/月のワルツ "wikilink")」。新收錄既存曲的Remix版「THE 愛」。
 
 <!-- end list -->
 
   - ; 07 萩原雪步
 
       -
-        2010年12月29日發售。與08 雙海真美、09
-        高槻彌生同時發售。個別新曲為「何度も言えるよ」、個人翻唱曲是奥華子的「恋」。新收錄既存曲的Remix版「LOST」。更換聲優後最初的CD。
+        2010年12月29日發售。與08 雙海真美、09 高槻彌生同時發售。個別新曲為「何度も言えるよ」、個人翻唱曲是奥華子的「恋」。新收錄既存曲的Remix版「LOST」。更換聲優後最初的CD。
 
   - ; 08 雙海真美
 
       -
-        2010年12月29日發售。與07 萩原雪步、09
-        高槻彌生同時發售。個別新曲為「ジェミー」、個人翻唱曲是井上陽水（アレンジは[斉藤由貴](https://zh.wikipedia.org/wiki/斉藤由貴 "wikilink")）的「[夢の中へ](https://zh.wikipedia.org/wiki/夢の中へ "wikilink")」。新收錄既存曲的Remix版「黎明スターライン」。最初的個人名義CD。
+        2010年12月29日發售。與07 萩原雪步、09 高槻彌生同時發售。個別新曲為「ジェミー」、個人翻唱曲是井上陽水（アレンジは[斉藤由貴](https://zh.wikipedia.org/wiki/斉藤由貴 "wikilink")）的「[夢の中へ](https://zh.wikipedia.org/wiki/夢の中へ "wikilink")」。新收錄既存曲的Remix版「黎明スターライン」。最初的個人名義CD。
 
   - ; 09 高槻彌生
 
       -
-        2010年12月29日發售。與07 萩原雪步、08
-        雙海真美同時發售。個別新曲為「スマイル体操」、個人翻唱曲是井上あずみ的「[さんぽ](https://zh.wikipedia.org/wiki/となりのトトロ_\(曲\) "wikilink")」。新收錄既存曲的Remix版「キラメキラリ」。
+        2010年12月29日發售。與07 萩原雪步、08 雙海真美同時發售。個別新曲為「スマイル体操」、個人翻唱曲是井上あずみ的「[さんぽ](https://zh.wikipedia.org/wiki/となりのトトロ_\(曲\) "wikilink")」。新收錄既存曲的Remix版「キラメキラリ」。
 
 <!-- end list -->
 
@@ -388,28 +341,24 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
   - ; 01 水瀨伊織
 
       -
-        2011年5月25日發售。與02 双海亜美同時發售。個別新曲為「DIAMOND」、個人翻唱曲是国生さゆり with
-        おニャン子クラブ的「バレンタイン・キッス」。新收錄既存曲的Remix版「リゾラ」。
+        2011年5月25日發售。與02 双海亜美同時發售。個別新曲為「DIAMOND」、個人翻唱曲是国生さゆり with おニャン子クラブ的「バレンタイン・キッス」。新收錄既存曲的Remix版「リゾラ」。
 
   - ; 02 雙海亞美
 
       -
-        2011年5月25日發售。與01
-        水瀬伊織同時發售。個別新曲為「YOU往MY進」、個人翻唱曲是H2O的「想い出がいっぱい」。新收錄既存曲的Remix版「スキ」。
+        2011年5月25日發售。與01 水瀬伊織同時發售。個別新曲為「YOU往MY進」、個人翻唱曲是H2O的「想い出がいっぱい」。新收錄既存曲的Remix版「スキ」。
 
 <!-- end list -->
 
   - ; 03 三浦梓
 
       -
-        2011年6月22日發售。與04
-        秋月律子同時發售。個別新曲為「ラ♥ブ♥リ♥」、個人翻唱曲是石川さゆり的「ウイスキーが、お好きでしょ」。新收錄既存曲的Remix版「Mythmaker」。
+        2011年6月22日發售。與04 秋月律子同時發售。個別新曲為「ラ♥ブ♥リ♥」、個人翻唱曲是石川さゆり的「ウイスキーが、お好きでしょ」。新收錄既存曲的Remix版「Mythmaker」。
 
   - ; 04 秋月律子
 
       -
-        2011年6月22日發售。與03
-        三浦梓同時發售。個別新曲為「LOVEオーダーメイド」、個人翻唱曲是[中川翔子的](../Page/中川翔子.md "wikilink")「空色デイズ」。新收錄既存曲的Remix版「livE」。
+        2011年6月22日發售。與03 三浦梓同時發售。個別新曲為「LOVEオーダーメイド」、個人翻唱曲是[中川翔子](../Page/中川翔子.md "wikilink")的「空色デイズ」。新收錄既存曲的Remix版「livE」。
 
 <!-- end list -->
 
@@ -426,10 +375,8 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
 
 #### ANIM@TION MASTER 系列
 
-  - THE IDOLM@STER ANIM@TION MASTER
-    01「[READY\!\!](../Page/READY!!.md "wikilink")」
-    2011年8月10日發售。收錄動畫「[THE
-    IDOLM@STER](../Page/偶像大師_\(動畫\).md "wikilink")」第1片頭曲及兩首三人合唱歌。
+  - THE IDOLM@STER ANIM@TION MASTER 01「[READY\!\!](../Page/READY!!.md "wikilink")」
+    2011年8月10日發售。收錄動畫「[THE IDOLM@STER](../Page/偶像大師_\(動畫\).md "wikilink")」第1片頭曲及兩首三人合唱歌。
   - THE IDOLM@STER ANIM@TION MASTER 02
     2011年9月7日發售。收錄BGM，以及第1-5話的插曲及片尾曲。
   - THE IDOLM@STER ANIM@TION MASTER 03
@@ -453,66 +400,48 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
 <!-- end list -->
 
   - THE IDOLM@STER MASTER BOX Ⅱ
-    2007年4月4日發售。以兩隻CD收錄Arcade版的9名角色所唱的Xbox
-    360版的6首新曲、新人物星井美希的全16曲<small>（即Arcade版原有的歌以及Xbox
-    360版新增的歌）</small>的Game Size；
+    2007年4月4日發售。以兩隻CD收錄Arcade版的9名角色所唱的Xbox 360版的6首新曲、新人物星井美希的全16曲<small>（即Arcade版原有的歌以及Xbox 360版新增的歌）</small>的Game Size；
     以及收錄全16曲的舞蹈影片（成員是星井美希・天海春香・如月千早3人）的DVD。
 
 <!-- end list -->
 
   - MASTER BOX Ⅰ&Ⅱ ENCORE
-    2008年2月6日發售。集結 MASTER BOX 和 MASTER BOXⅡ
-    共計176曲（全16曲×10名角色+卡拉OK版），共5隻CD。
+    2008年2月6日發售。集結 MASTER BOX 和 MASTER BOXⅡ 共計176曲（全16曲×10名角色+卡拉OK版），共5隻CD。
 
 <!-- end list -->
 
   - MASTERBOX Ⅲ
-    2008年4月30日發售。收錄《Live For You\!》所使用的歌曲，即Remix
-    A版本的各角色獨唱版和卡拉OK版，共176曲，5隻CD。同梱的booklet，除了歌曲的歌詞外，還收錄負責声優的訪談。
+    2008年4月30日發售。收錄《Live For You\!》所使用的歌曲，即Remix A版本的各角色獨唱版和卡拉OK版，共176曲，5隻CD。同梱的booklet，除了歌曲的歌詞外，還收錄負責声優的訪談。
 
 <!-- end list -->
 
   - MASTER BOX Ⅳ
-    2008年5月23日發佈消息。於同年9月24日發售。收錄《Live For
-    You\!》所使用的歌曲，[DLC配信的Remix](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")-B版本的各獨唱版和卡啦OK版，共計176曲，5隻CD；收錄「Go
-    to the NEXTSTAGE\!\! THE IDOLM@STER GREAT PARTY」的LIVE PART
-    DIGEST映像的DVD。Booklet收錄，Idolmaster相關歌曲的作詞者・作曲者的訪談。
-    與「Go to the NEW STAGE\! THE IDOLM@STER 3rd ANNIVERSARY
-    LIVE」會場中所販賣的MASTER BOX IV的版本不同，BOX的設計不同，沒有付屬DVD。
+    2008年5月23日發佈消息。於同年9月24日發售。收錄《Live For You\!》所使用的歌曲，[DLC配信的Remix](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")-B版本的各獨唱版和卡啦OK版，共計176曲，5隻CD；收錄「Go to the NEXTSTAGE\!\! THE IDOLM@STER GREAT PARTY」的LIVE PART DIGEST映像的DVD。Booklet收錄，Idolmaster相關歌曲的作詞者・作曲者的訪談。
+    與「Go to the NEW STAGE\! THE IDOLM@STER 3rd ANNIVERSARY LIVE」會場中所販賣的MASTER BOX IV的版本不同，BOX的設計不同，沒有付屬DVD。
     發售日曾兩度延期， 由8月6日→8月27日→9月24日。
 
 <!-- end list -->
 
   - MASTER BOX Ⅴ
-    2009年3月18日發售。以兩隻CD收錄DLC所配信的新曲《shiny
-    smile》《Do-Dai》《my-song》《i》《ふるふるフューチャー☆》《神さまのBirthday》的獨唱版和卡啦OK版，共計66曲。另外，《i》是當是收錄在《MASTER
-    ARTIST》的Edited version。
-    今回的booklet，是的《MASTER
-    ARTIST》以後的封面插圖負責者—杏仁豆腐的插圖解說となっているが、曲順の記載ミスがあることと良品への交換を行うことが發售前に発表されている。
+    2009年3月18日發售。以兩隻CD收錄DLC所配信的新曲《shiny smile》《Do-Dai》《my-song》《i》《ふるふるフューチャー☆》《神さまのBirthday》的獨唱版和卡啦OK版，共計66曲。另外，《i》是當是收錄在《MASTER ARTIST》的Edited version。
+    今回的booklet，是的《MASTER ARTIST》以後的封面插圖負責者—杏仁豆腐的插圖解說となっているが、曲順の記載ミスがあることと良品への交換を行うことが發售前に発表されている。
 
 <!-- end list -->
 
   - MASTER BOX catalog 08,09,11 COMPLETE
-    「THE IDOLM@STER 4th ANNIVERSARY PARTY SPECIAL DREAM
-    TOUR'S\!\!」會場的限定商品。
-    收錄《shiny smile》《Do-Dai》《my-song》《i》的Remix
-    A/B的兩種獨唱版本（10人）及兩種卡啦ok版，全88曲收錄，共CD4隻。沒有在店家中販賣。
+    「THE IDOLM@STER 4th ANNIVERSARY PARTY SPECIAL DREAM TOUR'S\!\!」會場的限定商品。
+    收錄《shiny smile》《Do-Dai》《my-song》《i》的Remix A/B的兩種獨唱版本（10人）及兩種卡啦ok版，全88曲收錄，共CD4隻。沒有在店家中販賣。
 
 <!-- end list -->
 
   - MASTER BOX Ⅵ
-    2010年3月31日發售。7650組的限定發售。收錄《THE IDOLM@STER SP》所使用的歌曲《I
-    Want》《キラメキラリ》《迷走MIND》《目が逢う瞬間》《スタ→トスタ→》《隣に…》《フタリの記憶》《Kosmos,Cosmos》《いっぱいいっぱい》9曲，包括765
-    Prodution的成員、以及961
-    Prodution的3名成員（美希、響、貴音）共12人的獨唱版＋卡啦OK版、全117曲收錄。共CD3隻。
+    2010年3月31日發售。7650組的限定發售。收錄《THE IDOLM@STER SP》所使用的歌曲《I Want》《キラメキラリ》《迷走MIND》《目が逢う瞬間》《スタ→トスタ→》《隣に…》《フタリの記憶》《Kosmos,Cosmos》《いっぱいいっぱい》9曲，包括765 Prodution的成員、以及961 Prodution的3名成員（美希、響、貴音）共12人的獨唱版＋卡啦OK版、全117曲收錄。共CD3隻。
 
 <!-- end list -->
 
   - MASTER BOX Ⅶ
-    「THE IDOLM@STER 6th ANNIVERSARY SMILE SUMMER
-    FESTIV@L\!」會場的限定商品。其後可在[安利美特郵購](../Page/安利美特.md "wikilink")。
-    收錄《Colorful Days》《オーバーマスター》《キミはメロディ》《またね》《L・O・B・M》5曲的Game
-    Version（12人）及卡啦OK版，全65曲，2隻CD。沒有在店家中販賣。
+    「THE IDOLM@STER 6th ANNIVERSARY SMILE SUMMER FESTIV@L\!」會場的限定商品。其後可在[安利美特](../Page/安利美特.md "wikilink")郵購。
+    收錄《Colorful Days》《オーバーマスター》《キミはメロディ》《またね》《L・O・B・M》5曲的Game Version（12人）及卡啦OK版，全65曲，2隻CD。沒有在店家中販賣。
     此外，雪步的歌是由淺倉杏美新錄。5個會場分別貼著不同版本的標籤。
 
 なお、雪步の歌はによる新録。5つの会場で別バージョンのステッカーが貼られる。
@@ -671,8 +600,7 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
 
 ### CINDERELLA MASTER 系列
 
-本系列分为主题单曲、角色Solo曲、属性小组曲三部分，是[《偶像大师
-灰姑娘女孩》的主打CD系列](../Page/偶像大师_灰姑娘女孩.md "wikilink")。歌曲的演唱者与游戏中举办的“灰姑娘总选举”结果密切相关，一定程度上反映着角色的人气。
+本系列分为主题单曲、角色Solo曲、属性小组曲三部分，是[《偶像大师 灰姑娘女孩》的主打CD系列](../Page/偶像大师_灰姑娘女孩.md "wikilink")。歌曲的演唱者与游戏中举办的“灰姑娘总选举”结果密切相关，一定程度上反映着角色的人气。
 
 #### 主题单曲
 
@@ -760,11 +688,9 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
 
 #### 个人单曲
 
-為紀念遊戲玩家人數突破 100 萬人，而決定發售角色歌 CD\[6\]\[7\]。CD封套內的特典是：偶像大師 灰姑娘女孩專用 CD
-限定設計的偶像卡牌，透過輸入特典中提供的一組序號從而獲得。4月30日發表的[Oricon週間單曲排行榜中](../Page/Oricon.md "wikilink")，史上初次同一作品的5作同時進入前10名\[8\]。
+為紀念遊戲玩家人數突破 100 萬人，而決定發售角色歌 CD\[6\]\[7\]。CD封套內的特典是：偶像大師 灰姑娘女孩專用 CD 限定設計的偶像卡牌，透過輸入特典中提供的一組序號從而獲得。4月30日發表的[Oricon](../Page/Oricon.md "wikilink")週間單曲排行榜中，史上初次同一作品的5作同時進入前10名\[8\]。
 
-為了紀念第1波的5張專輯同時進入Oricon音樂排行榜前十名，而決定發售第2波角色歌CD，從4月25日開始每週發表一位決定CD化的偶像，在5月25日發表CINDERELLA
-MASTER 006-010的發售日\[9\]。7月6日發表5張專輯同時公布製作名單。
+為了紀念第1波的5張專輯同時進入Oricon音樂排行榜前十名，而決定發售第2波角色歌CD，從4月25日開始每週發表一位決定CD化的偶像，在5月25日發表CINDERELLA MASTER 006-010的發售日\[9\]。7月6日發表5張專輯同時公布製作名單。
 
 CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰姑娘NO.1」，另外收錄遊戲內各角色的台詞語音作為特典。
 
@@ -1472,8 +1398,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 
 ### ANIMATION PROJECT 系列
 
-本系列收录电视动画[《偶像大师
-灰姑娘女孩》第一期中所出现的歌曲](../Page/偶像大師_灰姑娘女孩_\(動畫\).md "wikilink")。包含动画两期背景音乐的原声带专辑因命名原因亦被归于此系列中。
+本系列收录电视动画[《偶像大师 灰姑娘女孩》第一期中所出现的歌曲](../Page/偶像大師_灰姑娘女孩_\(動畫\).md "wikilink")。包含动画两期背景音乐的原声带专辑因命名原因亦被归于此系列中。
 
 <table>
 <thead>
@@ -1561,8 +1486,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 
 ### ANIMATION PROJECT 2nd Season 系列
 
-本系列收录电视动画[《偶像大师
-灰姑娘女孩》第二期中所出现的歌曲](../Page/偶像大師_灰姑娘女孩_\(動畫\).md "wikilink")。
+本系列收录电视动画[《偶像大师 灰姑娘女孩》第二期中所出现的歌曲](../Page/偶像大師_灰姑娘女孩_\(動畫\).md "wikilink")。
 
 <table>
 <thead>
@@ -1629,9 +1553,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 
 ### STARLIGHT MASTER 系列
 
-本系列收錄的是在手機遊戲[《偶像大師 灰姑娘女孩
-星光舞台》中首次披露的原創歌曲](../Page/偶像大師_灰姑娘女孩_星光舞台.md "wikilink")。CD通常收錄該原創曲的完整版（M@STER
-VERSION）及伴奏和遊戲内公開的短版（GAME VERSION），同時也通常附有兩位已發售SoloCD的偶像的第二首個人單曲。
+本系列收錄的是在手機遊戲[《偶像大師 灰姑娘女孩 星光舞台》中首次披露的原創歌曲](../Page/偶像大師_灰姑娘女孩_星光舞台.md "wikilink")。CD通常收錄該原創曲的完整版（M@STER VERSION）及伴奏和遊戲内公開的短版（GAME VERSION），同時也通常附有兩位已發售SoloCD的偶像的第二首個人單曲。
 
 <table>
 <thead>
@@ -1900,17 +1822,12 @@ Stage Bye Stage
 
 ## 外部連結
 
-  - [THE IDOLM@STER OFFICIAL
-    WEB](http://www.bandainamcogames.co.jp/cs/list/idolmaster/)
+  - [THE IDOLM@STER OFFICIAL WEB](http://www.bandainamcogames.co.jp/cs/list/idolmaster/)
   - [日本哥伦比亚 偶像大师音像作品页面](http://columbia.jp/idolmaster/)
 
-[Category:偶像大师系列](https://zh.wikipedia.org/wiki/Category:偶像大师系列 "wikilink")
-[Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink")
-[Category:偶像大師系列音樂](https://zh.wikipedia.org/wiki/Category:偶像大師系列音樂 "wikilink")
-[Category:動畫音樂作品](https://zh.wikipedia.org/wiki/Category:動畫音樂作品 "wikilink")
+[Category:偶像大师系列](https://zh.wikipedia.org/wiki/Category:偶像大师系列 "wikilink") [Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink") [Category:偶像大師系列音樂](https://zh.wikipedia.org/wiki/Category:偶像大師系列音樂 "wikilink") [Category:動畫音樂作品](https://zh.wikipedia.org/wiki/Category:動畫音樂作品 "wikilink")
 
-1.  《MASTER ARTIST 09 萩原雪步》和と《MASTER ARTIST 10
-    秋月律子》原本是預定同步發售、但由於制作的原因而導致延遅發售，變成10比09先發售。即使如此，全10隻CD的購入特典—社長Figure的申請截止日期是沒有改變。
+1.  《MASTER ARTIST 09 萩原雪步》和と《MASTER ARTIST 10 秋月律子》原本是預定同步發售、但由於制作的原因而導致延遅發售，變成10比09先發售。即使如此，全10隻CD的購入特典—社長Figure的申請截止日期是沒有改變。
 
 2.
 3.
@@ -1927,16 +1844,10 @@ Stage Bye Stage
 
 9.
 
-10. 《偶像大师
-    灰姑娘女孩》（动画）中首次出现、并作为动画主角的14人组合，包括岛村卯月（CV：大桥彩香）、涩谷凛（CV：福原绫香）、本田未央（CV：原纱友里）、
-    双叶杏（CV：五十岚裕美）、三村加奈子（CV：大坪由佳）、城崎莉嘉（CV：山本希望）、
-    神崎兰子（CV：内田真礼）、前川未来（CV：高森奈津美）、诸星琪拉里（CV：松嵜丽）、
-    多田李衣菜（CV：青木瑠璃子）、赤城米莉亚（CV：黑泽朋世）、新田美波（CV：洲崎绫）、
-    绪方智绘里（CV：大空直美）和安娜斯塔西亚（CV：上坂堇）
+10. 《偶像大师 灰姑娘女孩》（动画）中首次出现、并作为动画主角的14人组合，包括岛村卯月（CV：大桥彩香）、涩谷凛（CV：福原绫香）、本田未央（CV：原纱友里）、 双叶杏（CV：五十岚裕美）、三村加奈子（CV：大坪由佳）、城崎莉嘉（CV：山本希望）、 神崎兰子（CV：内田真礼）、前川未来（CV：高森奈津美）、诸星琪拉里（CV：松嵜丽）、 多田李衣菜（CV：青木瑠璃子）、赤城米莉亚（CV：黑泽朋世）、新田美波（CV：洲崎绫）、 绪方智绘里（CV：大空直美）和安娜斯塔西亚（CV：上坂堇）
 
 11.
-12. 《偶像大师
-    灰姑娘女孩》（动画）中首次出现、以已出道前辈身份参与动画剧情的9人组合，包括高垣枫（CV：早见沙织）、城崎美嘉（CV：佳村遥）、小日向美穂（CV：津田美波）、十時愛梨（CV：原田瞳）、川岛瑞树（CV：东山奈央）、日野茜（CV：赤﨑千夏）、舆水幸子（CV：竹达彩奈）、佐久间麻由（CV：牧野由依）和白坂小梅（CV：樱咲千依）
+12. 《偶像大师 灰姑娘女孩》（动画）中首次出现、以已出道前辈身份参与动画剧情的9人组合，包括高垣枫（CV：早见沙织）、城崎美嘉（CV：佳村遥）、小日向美穂（CV：津田美波）、十時愛梨（CV：原田瞳）、川岛瑞树（CV：东山奈央）、日野茜（CV：赤﨑千夏）、舆水幸子（CV：竹达彩奈）、佐久间麻由（CV：牧野由依）和白坂小梅（CV：樱咲千依）
 
 13.
 14.

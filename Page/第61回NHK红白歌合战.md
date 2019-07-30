@@ -1,4 +1,4 @@
-《**第61回NHK红白歌合战**》（）于2010年12月31日在[NHK音乐厅以](https://zh.wikipedia.org/wiki/NHK音乐厅 "wikilink")[現場直播的方式举行](../Page/現場直播.md "wikilink")。此次[NHK红白歌合战通算是第](../Page/NHK红白歌合战.md "wikilink")61次。
+《**第61回NHK红白歌合战**》（）于2010年12月31日在[NHK音乐厅以](https://zh.wikipedia.org/wiki/NHK音乐厅 "wikilink")[現場直播](../Page/現場直播.md "wikilink")的方式举行。此次[NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")通算是第61次。
 
 ## 概要
 
@@ -6,15 +6,11 @@
 
 自本次起，红白歌合战新增了[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")“Uta♪Wookie”（）。
 
-[NHK在日本國內轉播的頻道與以往相同](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")，[电视为](../Page/电视.md "wikilink")[NHK综合频道](https://zh.wikipedia.org/wiki/NHK综合频道 "wikilink")（数字、模拟）、[BS2](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")（数字、模拟）、[BShi共三台](https://zh.wikipedia.org/wiki/NHK數位衛星高清頻道 "wikilink")，[广播为](https://zh.wikipedia.org/wiki/電台 "wikilink")[NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")，总共4個頻道进行播送。面向国外的则是[NHK
-World
-Premium以及](../Page/NHK_World_Premium.md "wikilink")[日本国际广播电台](../Page/日本国际广播电台.md "wikilink")（NHK
-World Radio
-Japan）（短波仅面向东南亚与亚洲大陆，卫星广播面向全球）\[1\]。支持数字电视双方向互动。数字综合频道（不含1seg）及数字BS2在立体声第二声道由“红白应援队”的[Terry伊藤](https://zh.wikipedia.org/wiki/Terry伊藤 "wikilink")、[关根麻里及NHK播音员](https://zh.wikipedia.org/wiki/关根麻里 "wikilink")[松本和也播送了](https://zh.wikipedia.org/wiki/松本和也 "wikilink")《红白·秘談频道》。
+[NHK在日本國內轉播的頻道與以往相同](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")，[电视](../Page/电视.md "wikilink")为[NHK综合频道](https://zh.wikipedia.org/wiki/NHK综合频道 "wikilink")（数字、模拟）、[BS2](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")（数字、模拟）、[BShi共三台](https://zh.wikipedia.org/wiki/NHK數位衛星高清頻道 "wikilink")，[广播为](https://zh.wikipedia.org/wiki/電台 "wikilink")[NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")，总共4個頻道进行播送。面向国外的则是[NHK World Premium以及](../Page/NHK_World_Premium.md "wikilink")[日本国际广播电台](../Page/日本国际广播电台.md "wikilink")（NHK World Radio Japan）（短波仅面向东南亚与亚洲大陆，卫星广播面向全球）\[1\]。支持数字电视双方向互动。数字综合频道（不含1seg）及数字BS2在立体声第二声道由“红白应援队”的[Terry伊藤](https://zh.wikipedia.org/wiki/Terry伊藤 "wikilink")、[关根麻里及NHK播音员](https://zh.wikipedia.org/wiki/关根麻里 "wikilink")[松本和也播送了](https://zh.wikipedia.org/wiki/松本和也 "wikilink")《红白·秘談频道》。
 
 由于2011年7月，日本将结束[類比电视信号播送](https://zh.wikipedia.org/wiki/類比电视 "wikilink")，故該次红白也是最后一次可以在類比电视上观看。
 
-海外播出方面，[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[緯來日本台在](../Page/緯來日本台.md "wikilink")2011年1月8日下午5時整至10時15分（[台灣時間](https://zh.wikipedia.org/wiki/台灣時間 "wikilink")），以附註[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[字幕方式播出](../Page/字幕.md "wikilink")。
+海外播出方面，[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[緯來日本台](../Page/緯來日本台.md "wikilink")在2011年1月8日下午5時整至10時15分（[台灣時間](https://zh.wikipedia.org/wiki/台灣時間 "wikilink")），以附註[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[字幕](../Page/字幕.md "wikilink")方式播出。
 
 ## 播送前消息
 
@@ -28,18 +24,16 @@ Japan）（短波仅面向东南亚与亚洲大陆，卫星广播面向全球）
       - 红组为演员[松下奈緒](../Page/松下奈緒.md "wikilink")，白组为[杰尼斯事务所旗下之](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")[岚](https://zh.wikipedia.org/wiki/岚 "wikilink")\[2\]。岚也是首个担任红白主持的组合。
   - 11月15日 - 进行了现场观看抽签。
       - 据NHK公布，本次抽签当选率为578:1，是自[第56回开始采取这一形式决定观看人士以来最高的一次](https://zh.wikipedia.org/wiki/第56回NHK紅白歌合戦 "wikilink")\[3\]。
-  - 11月17日 -
-    公布总主持人以及广播主持\[4\]。开始[Twitter上的红白歌合战官方账户](../Page/Twitter.md "wikilink")\[5\]。
+  - 11月17日 - 公布总主持人以及广播主持\[4\]。开始[Twitter](../Page/Twitter.md "wikilink")上的红白歌合战官方账户\[5\]。
   - 11月24日 - 公布出场歌手。记者会在网络上进行了实时配信直播\[6\]。
   - 11月29日 - 开始募集观众评委。
   - 12月21日 - 公布曲目。
   - 12月22日 - 公布嘉宾评委以及节目内特别企划。
   - 12月26日 - 公布曲目顺序。
-      - [DREAMS COME
-        TRUE连续两年担任红组压轴](../Page/DREAMS_COME_TRUE.md "wikilink")，[SMAP则时隔](../Page/SMAP.md "wikilink")6年、第3次担任全场压轴。这是继1978年·[第29回NHK红白歌合战中](https://zh.wikipedia.org/wiki/第29回NHK红白歌合战 "wikilink")，由[山口百惠担任红组压轴](../Page/山口百惠.md "wikilink")，[泽田研二担任全场压轴以来](https://zh.wikipedia.org/wiki/泽田研二 "wikilink")，时隔32年第二次由非[演歌系歌手](../Page/演歌.md "wikilink")（流行歌手）分别担任红白两组的压轴，也是有史以来第一次红白两组都由组合或者乐队担任压轴。
-  - 12月28日 - 公布[桑田佳祐之出演消息](../Page/桑田佳祐.md "wikilink")。
+      - [DREAMS COME TRUE连续两年担任红组压轴](../Page/DREAMS_COME_TRUE.md "wikilink")，[SMAP](../Page/SMAP.md "wikilink")则时隔6年、第3次担任全场压轴。这是继1978年·[第29回NHK红白歌合战中](https://zh.wikipedia.org/wiki/第29回NHK红白歌合战 "wikilink")，由[山口百惠](../Page/山口百惠.md "wikilink")担任红组压轴，[泽田研二担任全场压轴以来](https://zh.wikipedia.org/wiki/泽田研二 "wikilink")，时隔32年第二次由非[演歌](../Page/演歌.md "wikilink")系歌手（流行歌手）分别担任红白两组的压轴，也是有史以来第一次红白两组都由组合或者乐队担任压轴。
+  - 12月28日 - 公布[桑田佳祐](../Page/桑田佳祐.md "wikilink")之出演消息。
   - 12月29日 - 彩排开始。
-      - 当天下午3点40分左右，出场歌手[和田現子在开车前去彩排途中](../Page/和田現子.md "wikilink")，遭遇撞车事故。虽然最终仍然坚持参加了彩排，但结束后即被送往医院，并被诊断为颈椎扭伤、腰部挫伤，痊愈需10天的轻伤。对其出场外界多有担心\[7\]，但最终还是坚持出场。
+      - 当天下午3点40分左右，出场歌手[和田現子](../Page/和田現子.md "wikilink")在开车前去彩排途中，遭遇撞车事故。虽然最终仍然坚持参加了彩排，但结束后即被送往医院，并被诊断为颈椎扭伤、腰部挫伤，痊愈需10天的轻伤。对其出场外界多有担心\[7\]，但最终还是坚持出场。
   - 12月31日 - 正式播送。最終白組獲得優勝。
 
 ## 出场歌手及曲目
@@ -191,19 +185,12 @@ Japan）（短波仅面向东南亚与亚洲大陆，卫星广播面向全球）
 
 ## 脚注
 
-[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink")
-[Category:嵐](https://zh.wikipedia.org/wiki/Category:嵐 "wikilink")
-[Category:2010年音樂](https://zh.wikipedia.org/wiki/Category:2010年音樂 "wikilink")
-[Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")
+[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink") [Category:嵐](https://zh.wikipedia.org/wiki/Category:嵐 "wikilink") [Category:2010年音樂](https://zh.wikipedia.org/wiki/Category:2010年音樂 "wikilink") [Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")
 
-1.  [红白国际播送编成预定](https://web.archive.org/web/20101122213211/http://www.nhk.or.jp/kouhaku-blog/201040/65674.html)
-    - NHK红白歌合战博客 2010年11月21日
+1.  [红白国际播送编成预定](https://web.archive.org/web/20101122213211/http://www.nhk.or.jp/kouhaku-blog/201040/65674.html) - NHK红白歌合战博客 2010年11月21日
 2.  <https://web.archive.org/web/20101106010329/http://www9.nhk.or.jp/kouhaku/topics/101103.html>
-3.  [进行了现场观看抽签会](https://web.archive.org/web/20101119012256/http://www.nhk.or.jp/kouhaku-blog/201040/65254.html)
-    - 红白歌合战博客
-4.  [总主持·广播直播发布](https://web.archive.org/web/20101119031930/http://www.nhk.or.jp/kouhaku-blog/201040/65388.html)
-    - 红白歌合战博客
+3.  [进行了现场观看抽签会](https://web.archive.org/web/20101119012256/http://www.nhk.or.jp/kouhaku-blog/201040/65254.html) - 红白歌合战博客
+4.  [总主持·广播直播发布](https://web.archive.org/web/20101119031930/http://www.nhk.or.jp/kouhaku-blog/201040/65388.html) - 红白歌合战博客
 5.  [NHK“红白歌合战”专用Twitter开始](http://www.itmedia.co.jp/news/articles/1011/18/news038.html),ITmedia,2010年11月18日
-6.  [红白出场者发布，网络直播
-    Twitter上进行速报](http://www.itmedia.co.jp/news/articles/1011/24/news050.html),ITmedia,2010年11月24日
+6.  [红白出场者发布，网络直播 Twitter上进行速报](http://www.itmedia.co.jp/news/articles/1011/24/news050.html),ITmedia,2010年11月24日
 7.

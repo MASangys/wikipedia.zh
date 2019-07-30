@@ -1,5 +1,4 @@
-**ZSNES**是自由开放源代码的[SNES模擬器](https://zh.wikipedia.org/wiki/SNES "wikilink")，主要以[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[汇编语言写成](../Page/汇编语言.md "wikilink")，有[Linux](../Page/Linux.md "wikilink")、[MS-DOS](../Page/MS-DOS.md "wikilink")、[Mac
-OS和](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[Windows官方移植版本](https://zh.wikipedia.org/wiki/Windows "wikilink")，以及一个非官方的[Xbox移植](../Page/Xbox.md "wikilink")。
+**ZSNES**是自由开放源代码的[SNES模擬器](https://zh.wikipedia.org/wiki/SNES "wikilink")，主要以[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[汇编语言](../Page/汇编语言.md "wikilink")写成，有[Linux](../Page/Linux.md "wikilink")、[MS-DOS](../Page/MS-DOS.md "wikilink")、[Mac OS和](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[Windows官方移植版本](https://zh.wikipedia.org/wiki/Windows "wikilink")，以及一个非官方的[Xbox](../Page/Xbox.md "wikilink")移植。
 
 ## 历史
 
@@ -36,8 +35,7 @@ ZSNES为提高运行效率大量使用[汇编语言](../Page/汇编语言.md "wi
 
 ## 注释
 
-[Category:遊戲機模擬器](https://zh.wikipedia.org/wiki/Category:遊戲機模擬器 "wikilink")
-[Category:超級任天堂](https://zh.wikipedia.org/wiki/Category:超級任天堂 "wikilink")
+[Category:遊戲機模擬器](https://zh.wikipedia.org/wiki/Category:遊戲機模擬器 "wikilink") [Category:超級任天堂](https://zh.wikipedia.org/wiki/Category:超級任天堂 "wikilink")
 
 1.
 2.

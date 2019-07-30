@@ -2,15 +2,13 @@
 
 ## 成員
 
-  - **[中澤堅司](https://zh.wikipedia.org/wiki/中澤堅司 "wikilink")**（1957年6月12日
-    - ），主音、吉他手
-  - **[赤鹽正樹](https://zh.wikipedia.org/wiki/赤鹽正樹 "wikilink")**（1957年4月27日
-    - ），主音、吉他手
+  - **[中澤堅司](https://zh.wikipedia.org/wiki/中澤堅司 "wikilink")**（1957年6月12日 - ），主音、吉他手
+  - **[赤鹽正樹](https://zh.wikipedia.org/wiki/赤鹽正樹 "wikilink")**（1957年4月27日 - ），主音、吉他手
 
 <!-- end list -->
 
   -
-    都是[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[上田市出身](../Page/上田市.md "wikilink")
+    都是[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[上田市](../Page/上田市.md "wikilink")出身
 
 ## 經歷
 
@@ -32,8 +30,7 @@
 
 3.  （1981年8月21日）
 
-4.  [HELLO
-    VIBRATION](https://zh.wikipedia.org/wiki/HELLO_VIBRATION "wikilink")（1982年7月25日）
+4.  [HELLO VIBRATION](https://zh.wikipedia.org/wiki/HELLO_VIBRATION "wikilink")（1982年7月25日）
 
 5.  （1983年3月25日）
 
@@ -68,5 +65,4 @@
   - [H<sub>2</sub>O](http://www.universal-music.co.jp/h2o/)
   - [中澤堅司](https://web.archive.org/web/20110602001034/http://nakazawa.main.jp/)
 
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:前Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:前Amuse所屬藝人 "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:前Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:前Amuse所屬藝人 "wikilink")

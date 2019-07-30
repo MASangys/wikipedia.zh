@@ -1,16 +1,10 @@
-\--\> | founder = Kyoko KINJI | defunct = | location_city =
-[香港](../Page/香港.md "wikilink") | location_country =
-[香港](../Page/香港.md "wikilink") | location =
-[香港](../Page/香港.md "wikilink") | locations = 8 | area_served =
-| key_people = | industry = [時裝](../Page/時裝.md "wikilink") | aum
+\--\> | founder = Kyoko KINJI | defunct = | location_city = [香港](../Page/香港.md "wikilink") | location_country = [香港](../Page/香港.md "wikilink") | location = [香港](../Page/香港.md "wikilink") | locations = 8 | area_served = | key_people = | industry = [時裝](../Page/時裝.md "wikilink") | aum
 
 `             =   `
 
-| homepage = [www.kinji.net](http://www.kinji.net)| footnotes = | intl =
-}}
+| homepage = [www.kinji.net](http://www.kinji.net)| footnotes = | intl = }}
 
-**KINJI**是以日本創辦人Kyoko
-KINJI名命的時裝品牌，於1995年建立至今已逾15年，品牌以「禪」的概念為設計泉源。KINJI在香港多個著名購物商場共擁有8間商店，包括國際金融中心商場、又一城、半島酒店、1881、利園、崇光百貨、香港國際機場及東薈城。
+**KINJI**是以日本創辦人Kyoko KINJI名命的時裝品牌，於1995年建立至今已逾15年，品牌以「禪」的概念為設計泉源。KINJI在香港多個著名購物商場共擁有8間商店，包括國際金融中心商場、又一城、半島酒店、1881、利園、崇光百貨、香港國際機場及東薈城。
 
 ## 美學原則
 

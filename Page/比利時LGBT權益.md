@@ -14,7 +14,7 @@
 | 同性伴侶之共同領養及繼子女領養皆為合法                                                   | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") 自2006年 \[5\]     |
 | 同性戀者得合法公開在軍界服務                                                        | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")                  |
 | 性別重置權力                                                                | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")                  |
-| 已婚或伴侶關係穩定之女同性戀者進行[體外人工受精之合法管道](../Page/體外人工受精.md "wikilink")          | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")                  |
+| 已婚或伴侶關係穩定之女同性戀者進行[體外人工受精](../Page/體外人工受精.md "wikilink")之合法管道          | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")                  |
 | 允許[男男性接觸者](https://zh.wikipedia.org/wiki/男男性接觸者 "wikilink")（MSM）進行捐血  | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                           |
 
 ## 參見
@@ -32,9 +32,7 @@
   - [比利時第一個同志新聞與生活相關網站](https://web.archive.org/web/20080306005848/http://www.gaybelgium.be/)
   - [比利時同志旅遊網站](http://www.gaybelgium.eu/)
 
-[Category:比利時LGBT權益](https://zh.wikipedia.org/wiki/Category:比利時LGBT權益 "wikilink")
-[Category:比利時法律](https://zh.wikipedia.org/wiki/Category:比利時法律 "wikilink")
-[Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink")
+[Category:比利時LGBT權益](https://zh.wikipedia.org/wiki/Category:比利時LGBT權益 "wikilink") [Category:比利時法律](https://zh.wikipedia.org/wiki/Category:比利時法律 "wikilink") [Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink")
 
 1.
 2.

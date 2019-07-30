@@ -9,64 +9,49 @@
   - [Cappuccino](https://zh.wikipedia.org/wiki/Cappuccino "wikilink")
   - [Clean AJAX](https://zh.wikipedia.org/wiki/Clean_AJAX "wikilink")
   - [cufón](https://zh.wikipedia.org/wiki/cufón "wikilink")
-  - [Data-Driven Documents
-    (D3)](https://zh.wikipedia.org/wiki/Data-Driven_Documents_\(D3\) "wikilink")
+  - [Data-Driven Documents (D3)](https://zh.wikipedia.org/wiki/Data-Driven_Documents_\(D3\) "wikilink")
   - [Datejs](https://zh.wikipedia.org/wiki/Datejs "wikilink")
   - [DHTMLX](https://zh.wikipedia.org/wiki/Dhtmlx "wikilink")
-  - [Dojo
-    Toolkit](https://zh.wikipedia.org/wiki/Dojo_Toolkit "wikilink")
+  - [Dojo Toolkit](https://zh.wikipedia.org/wiki/Dojo_Toolkit "wikilink")
   - [Echo](https://zh.wikipedia.org/wiki/Echo "wikilink")
   - [Ext](https://zh.wikipedia.org/wiki/Ext "wikilink")
   - [Flot](https://zh.wikipedia.org/wiki/Flot "wikilink")
   - [FUEL](https://zh.wikipedia.org/wiki/FUEL "wikilink")
-  - [Glow](https://zh.wikipedia.org/wiki/Glow "wikilink")
-  - [Google Closure
-    Library](https://zh.wikipedia.org/wiki/Google_Closure_Library "wikilink")
-  - [Google Web
-    Toolkit](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")
+  - [Glow](https://zh.wikipedia.org/wiki/Glow_\(JavaScript函式庫\) "wikilink")
+  - [Google Closure Library](https://zh.wikipedia.org/wiki/Google_Closure_Library "wikilink")
+  - [Google Web Toolkit](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")
   - [Himle](https://zh.wikipedia.org/wiki/Himle "wikilink")
-  - [iX
-    Framework](https://zh.wikipedia.org/wiki/iX_Framework "wikilink")
-  - [Jelly (JavaScript
-    library)](https://zh.wikipedia.org/wiki/Jelly_\(JavaScript_library\) "wikilink")
+  - [iX Framework](https://zh.wikipedia.org/wiki/iX_Framework "wikilink")
+  - [Jelly (JavaScript library)](https://zh.wikipedia.org/wiki/Jelly_\(JavaScript_library\) "wikilink")
   - [Joose](https://zh.wikipedia.org/wiki/Joose "wikilink")
-  - [JWee Javascript
-    Toolkit](https://zh.wikipedia.org/wiki/JWee_Javascript_Toolkit "wikilink")
+  - [JWee Javascript Toolkit](https://zh.wikipedia.org/wiki/JWee_Javascript_Toolkit "wikilink")
   - [jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")
   - [jQuery UI](https://zh.wikipedia.org/wiki/jQuery_UI "wikilink")
   - [jsDraw2D](https://zh.wikipedia.org/wiki/jsDraw2D "wikilink")
   - [Knockout](https://zh.wikipedia.org/wiki/Knockout "wikilink")
-  - [Lively
-    Kernel](https://zh.wikipedia.org/wiki/Lively_Kernel "wikilink")
-  - [Microsoft AJAX
-    Library](https://zh.wikipedia.org/wiki/Microsoft_AJAX_Library "wikilink")
-  - [Midori Javascript
-    Framework](https://zh.wikipedia.org/wiki/Midori_Javascript_Framework "wikilink")
+  - [Lively Kernel](https://zh.wikipedia.org/wiki/Lively_Kernel "wikilink")
+  - [Microsoft AJAX Library](https://zh.wikipedia.org/wiki/Microsoft_AJAX_Library "wikilink")
+  - [Midori Javascript Framework](https://zh.wikipedia.org/wiki/Midori_Javascript_Framework "wikilink")
   - [Mochikit](https://zh.wikipedia.org/wiki/Mochikit "wikilink")
   - [MooTools](https://zh.wikipedia.org/wiki/MooTools "wikilink")
   - [My Library](https://zh.wikipedia.org/wiki/My_Library "wikilink")
-  - [OpenLink AJAX
-    Toolkit](https://zh.wikipedia.org/wiki/OpenLink_AJAX_Toolkit "wikilink")
+  - [OpenLink AJAX Toolkit](https://zh.wikipedia.org/wiki/OpenLink_AJAX_Toolkit "wikilink")
   - [PlotKit](https://zh.wikipedia.org/wiki/PlotKit "wikilink")
   - [PottisJS](https://zh.wikipedia.org/wiki/PottisJS "wikilink")
   - [Processing.js](https://zh.wikipedia.org/wiki/Processing.js "wikilink")
-  - [Prototype JavaScript
-    Framework](https://zh.wikipedia.org/wiki/Prototype_JavaScript_Framework "wikilink")
-  - [PURE Javascript Templates
-    Engine](https://zh.wikipedia.org/wiki/PURE_Javascript_Templates_Engine "wikilink")
+  - [Prototype JavaScript Framework](https://zh.wikipedia.org/wiki/Prototype_JavaScript_Framework "wikilink")
+  - [PURE Javascript Templates Engine](https://zh.wikipedia.org/wiki/PURE_Javascript_Templates_Engine "wikilink")
   - [qooxdoo](https://zh.wikipedia.org/wiki/qooxdoo "wikilink")
   - [Raphaël](https://zh.wikipedia.org/wiki/Raphaël "wikilink")
   - [React](../Page/React.md "wikilink")
-  - [Rialto
-    Toolkit](https://zh.wikipedia.org/wiki/Rialto_Toolkit "wikilink")
+  - [Rialto Toolkit](https://zh.wikipedia.org/wiki/Rialto_Toolkit "wikilink")
   - [Rico](https://zh.wikipedia.org/wiki/Rico "wikilink")
   - [Script.aculo.us](https://zh.wikipedia.org/wiki/Script.aculo.us "wikilink")
   - [SmartClient](https://zh.wikipedia.org/wiki/SmartClient "wikilink")
   - [SoundManager](https://zh.wikipedia.org/wiki/SoundManager "wikilink")
   - [Spark](https://zh.wikipedia.org/wiki/Spark "wikilink")
   - [SproutCore](https://zh.wikipedia.org/wiki/SproutCore "wikilink")
-  - [Spry
-    framework](https://zh.wikipedia.org/wiki/Spry_framework "wikilink")
+  - [Spry framework](https://zh.wikipedia.org/wiki/Spry_framework "wikilink")
   - [Sylvester](https://zh.wikipedia.org/wiki/Sylvester "wikilink")
   - [SWFObject](https://zh.wikipedia.org/wiki/SWFObject "wikilink")
   - [Taffy DB](https://zh.wikipedia.org/wiki/Taffy_DB "wikilink")
@@ -74,10 +59,8 @@
   - [typeface.js](https://zh.wikipedia.org/wiki/typeface.js "wikilink")
   - [Underscore.js](https://zh.wikipedia.org/wiki/Underscore.js "wikilink")
   - [Verge3D](../Page/Verge3D.md "wikilink")
-  - [Yahoo\! UI
-    Library](https://zh.wikipedia.org/wiki/Yahoo!_UI_Library "wikilink")
-  - [Zeleos web
-    toolkit](https://zh.wikipedia.org/wiki/Zeleos_web_toolkit "wikilink")
+  - [Yahoo\! UI Library](https://zh.wikipedia.org/wiki/Yahoo!_UI_Library "wikilink")
+  - [Zeleos web toolkit](https://zh.wikipedia.org/wiki/Zeleos_web_toolkit "wikilink")
   - [Zreshk](https://zh.wikipedia.org/wiki/Zreshk "wikilink")
 
 ## 相關條目

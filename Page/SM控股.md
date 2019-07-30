@@ -12,8 +12,4 @@
 
   - [SM Prime Holdings](http://www.smprime.com/)
 
-[Category:1958年菲律賓建立](https://zh.wikipedia.org/wiki/Category:1958年菲律賓建立 "wikilink")
-[Category:1958年成立的公司](https://zh.wikipedia.org/wiki/Category:1958年成立的公司 "wikilink")
-[Category:菲律賓物業管理公司](https://zh.wikipedia.org/wiki/Category:菲律賓物業管理公司 "wikilink")
-[Category:菲律賓地產服務公司](https://zh.wikipedia.org/wiki/Category:菲律賓地產服務公司 "wikilink")
-[Category:菲律賓公司](https://zh.wikipedia.org/wiki/Category:菲律賓公司 "wikilink")
+[Category:1958年菲律賓建立](https://zh.wikipedia.org/wiki/Category:1958年菲律賓建立 "wikilink") [Category:1958年成立的公司](https://zh.wikipedia.org/wiki/Category:1958年成立的公司 "wikilink") [Category:菲律賓物業管理公司](https://zh.wikipedia.org/wiki/Category:菲律賓物業管理公司 "wikilink") [Category:菲律賓地產服務公司](https://zh.wikipedia.org/wiki/Category:菲律賓地產服務公司 "wikilink") [Category:菲律賓公司](https://zh.wikipedia.org/wiki/Category:菲律賓公司 "wikilink")

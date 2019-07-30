@@ -1,25 +1,16 @@
-**RX-0
-獨角獸GUNDAM**（），是[日本](../Page/日本.md "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[动画片](https://zh.wikipedia.org/wiki/动画片 "wikilink")《[機動戰士GUNDAM
-UC](../Page/機動戰士GUNDAM_UC.md "wikilink")》中出现的一个虚构[兵器](https://zh.wikipedia.org/wiki/兵器 "wikilink")。
+**RX-0 獨角獸GUNDAM**（），是[日本](../Page/日本.md "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[动画片](https://zh.wikipedia.org/wiki/动画片 "wikilink")《[機動戰士GUNDAM UC](../Page/機動戰士GUNDAM_UC.md "wikilink")》中出现的一个虚构[兵器](https://zh.wikipedia.org/wiki/兵器 "wikilink")。
 
-[地球連邦軍的NT](https://zh.wikipedia.org/wiki/地球連邦軍 "wikilink")（[New
-Type](https://zh.wikipedia.org/wiki/New_Type "wikilink")）専用[GUNDAM型](../Page/GUNDAM系機動戰士.md "wikilink")[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")（MS），故事中關鍵的「鑰匙」。通常故事中被稱為「**RX-0
-獨角獸鋼彈**」的是指主角**巴納吉·林克斯**所駕駛的1號機，另外生產的2號機通称「[報喪女妖](../Page/報喪女妖.md "wikilink")」，3號機則通稱「[不死鳥](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")」。
+[地球連邦軍的NT](https://zh.wikipedia.org/wiki/地球連邦軍 "wikilink")（[New Type](https://zh.wikipedia.org/wiki/New_Type "wikilink")）専用[GUNDAM型](../Page/GUNDAM系機動戰士.md "wikilink")[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")（MS），故事中關鍵的「鑰匙」。通常故事中被稱為「**RX-0 獨角獸鋼彈**」的是指主角**巴納吉·林克斯**所駕駛的1號機，另外生產的2號機通称「[報喪女妖](../Page/報喪女妖.md "wikilink")」，3號機則通稱「[不死鳥](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")」。
 
-本機的[機械設計由](../Page/機械設計_\(動畫\).md "wikilink")[角木肇擔任](../Page/角木肇.md "wikilink")。
+本機的[機械設計由](../Page/機械設計_\(動畫\).md "wikilink")[角木肇](../Page/角木肇.md "wikilink")擔任。
 
 ## 機体解說
 
-作為联邦宇宙軍再編計劃的一環，「UC計畫」最終階段開發的實驗機，為[New
-Type專用MS](https://zh.wikipedia.org/wiki/New_Type "wikilink")。此機種在宇宙世紀0096年時共存在三台，即分別為**RX-0
-獨角獸GUNDAM**,**RX-0 獨角獸GUNDAM2號機「報喪女妖」**及**RX-0
-獨角獸GUNDAM3號機「不死鸟」**，其中獨角獸及報喪女妖為A.E.社開發及製造，不死鳥則為聯邦軍自行生產。三機最大差異在裝甲的塗裝和頭部的「角」。三機最大的特徵為裝備了「NT-D系統」，擁有平時非高達外型的「獨角獸模式」和「NT-D系統」發動時變換成高達外型的「毀滅模式」。
+作為联邦宇宙軍再編計劃的一環，「UC計畫」最終階段開發的實驗機，為[New Type專用MS](https://zh.wikipedia.org/wiki/New_Type "wikilink")。此機種在宇宙世紀0096年時共存在三台，即分別為**RX-0 獨角獸GUNDAM**,**RX-0 獨角獸GUNDAM2號機「報喪女妖」**及**RX-0 獨角獸GUNDAM3號機「不死鸟」**，其中獨角獸及報喪女妖為A.E.社開發及製造，不死鳥則為聯邦軍自行生產。三機最大差異在裝甲的塗裝和頭部的「角」。三機最大的特徵為裝備了「NT-D系統」，擁有平時非高達外型的「獨角獸模式」和「NT-D系統」發動時變換成高達外型的「毀滅模式」。
 
 ## NT-D系統
 
-關於NT-D系統，地球聯邦軍官方紀錄是「New-Type
-Drive」的縮寫，因為在發動NT-D系統之後，機體會改以精神感應系統進行機體的部分操作；然而其真正名稱是「New-Type
-Destroy」的縮寫，因為在此狀態下，本機具有劫持精神感應系統搭載機的感應兵器（包含任何有線及無線式的精神感應無人機）並反過來殲滅精神感應機體的能力，設計概念是以壓制及抹殺新類型人為目的。
+關於NT-D系統，地球聯邦軍官方紀錄是「New-Type Drive」的縮寫，因為在發動NT-D系統之後，機體會改以精神感應系統進行機體的部分操作；然而其真正名稱是「New-Type Destroy」的縮寫，因為在此狀態下，本機具有劫持精神感應系統搭載機的感應兵器（包含任何有線及無線式的精神感應無人機）並反過來殲滅精神感應機體的能力，設計概念是以壓制及抹殺新類型人為目的。
 
 事實經歷[一年戰爭至](https://zh.wikipedia.org/wiki/一年戰爭 "wikilink")[夏亞的叛亂後](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")，聯邦軍早已留意到[New-Type可怕的力量](../Page/Newtype.md "wikilink")，再加上New-Type是吉翁主義理念的一環，於是委託A.E.社開發及製造本機，以消滅吉翁的New-Type神話。不過作為「拉普拉斯之盒」鑰匙的一號機被畢斯特財團的第二代當家卡帝亞斯·畢斯特竄改了OS，灌入「拉普拉斯程式」，使一號機在某特定情況下發動NT-D系統時，需要滿足機體操作系統中隱藏的「拉普拉斯程式」所定下的條件（一般戰鬥中的發動不受影響）。而根據賽亞姆·畢斯特所言，「拉普拉斯程式」乃是藉機械方式辨識真正New-Type的系統，使得一號機成了一個矛盾的存在。
 
@@ -33,8 +24,7 @@ Destroy」的縮寫，因為在此狀態下，本機具有劫持精神感應系�
 
 ## 1號機
 
-[Rx-0.jpg](https://zh.wikipedia.org/wiki/File:Rx-0.jpg "fig:Rx-0.jpg")
-它為[地球聯邦軍之宇宙軍再造計畫](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")「UC計畫」中之旗艦機，以白色為機體塗裝色。當UC計畫移交給阿纳海姆的關係財團——畢斯特財團後，其計畫內容便成為秘密。即使是負責機體開發的阿纳海姆，也沒有人知道其計畫的全貌。後輾轉成為巴納吉·林克斯的座機。
+[Rx-0.jpg](https://zh.wikipedia.org/wiki/File:Rx-0.jpg "fig:Rx-0.jpg") 它為[地球聯邦軍之宇宙軍再造計畫](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")「UC計畫」中之旗艦機，以白色為機體塗裝色。當UC計畫移交給阿纳海姆的關係財團——畢斯特財團後，其計畫內容便成為秘密。即使是負責機體開發的阿纳海姆，也沒有人知道其計畫的全貌。後輾轉成為巴納吉·林克斯的座機。
 
 它是全身以精神感應框架（サイコフレーム）驅動的實驗機。內部環境採用人機同步全視野監控FF型駕駛艙。安裝了特殊的OS「拉普拉斯程式」和「NT-D」。當「NT-D」發動的話，內部框架會被擴張，機身出現變化，在合起裝甲接縫分離的部分會有發光現象，這種光一般被認為是精神感應框架的發光現象，1號機發動「NT-D」時精神骨架所發出的光芒為紅色。當「NT-D」發動的時候，它的機動性能飛躍性地增加。
 
@@ -48,28 +38,19 @@ Destroy」的縮寫，因為在此狀態下，本機具有劫持精神感應系�
 
 小說版中的「報喪女妖」除了配色以及「角」的設計外，外型及武裝（除沒有光束加特林機關炮外）跟巴納吉·林克斯駕駛的1號機完全相同。
 
-OVA動畫中的「報喪女妖」與1號機的外觀分別除了小說中既有的部分外，還修改了胸領裝甲為金色及帶齒狀造型。武裝方面，擁有較1號機強力的特殊武裝：報喪女妖的右手是武裝裝甲BS（アームド・アーマーBS）是高出力的光束射擊武器，彈道軌跡具有彎曲的特性。左手則是名為武裝裝甲VN（アームド・アーマーVN）的近戰武器，外形如一個大爪鉗，能利用超振動造成破壞。在東京的特別映像中，UC0095版本中的武裝裝甲VN原本設置在右手，再加上配備1號機的光束麥格農步槍，
-不死鸟進行合同實驗作出評價，與帶袖的Rebawoo交戰時報喪女妖與不死鸟的精神感應骨架產生共鳴而暴走，不死鸟與報喪女妖互相戰鬥時報喪女妖胸部裝甲嚴重損壞才改修為OVA版本的胸部裝甲。
+OVA動畫中的「報喪女妖」與1號機的外觀分別除了小說中既有的部分外，還修改了胸領裝甲為金色及帶齒狀造型。武裝方面，擁有較1號機強力的特殊武裝：報喪女妖的右手是武裝裝甲BS（アームド・アーマーBS）是高出力的光束射擊武器，彈道軌跡具有彎曲的特性。左手則是名為武裝裝甲VN（アームド・アーマーVN）的近戰武器，外形如一個大爪鉗，能利用超振動造成破壞。在東京的特別映像中，UC0095版本中的武裝裝甲VN原本設置在右手，再加上配備1號機的光束麥格農步槍， 不死鸟進行合同實驗作出評價，與帶袖的Rebawoo交戰時報喪女妖與不死鸟的精神感應骨架產生共鳴而暴走，不死鸟與報喪女妖互相戰鬥時報喪女妖胸部裝甲嚴重損壞才改修為OVA版本的胸部裝甲。
 
-原本交由普露12（瑪莉妲·庫魯斯）駕駛，在瑪莉妲被葛蘭雪隊奪回後，被改造成**獨角獸鋼彈2號機「報喪女妖命運女神型」**（，Unicorn
-Gundam 02 BANSHEE NORN），轉由利迪·馬瑟納斯擔任駕駛員。 {{-}}
+原本交由普露12（瑪莉妲·庫魯斯）駕駛，在瑪莉妲被葛蘭雪隊奪回後，被改造成**獨角獸鋼彈2號機「報喪女妖命運女神型」**（，Unicorn Gundam 02 BANSHEE NORN），轉由利迪·馬瑟納斯擔任駕駛員。 {{-}}
 
 ## 3號機（不死鸟）
 
-涂装为金色的机体，頭上的「角」製作成鳥冠狀，前額部分亦設計成喙狀，背部以增設機械臀架裝備兩基Armed Armor
-DE。在NT-D系統發動時，精神感应框架會發出藍色光芒。
+涂装为金色的机体，頭上的「角」製作成鳥冠狀，前額部分亦設計成喙狀，背部以增設機械臀架裝備兩基Armed Armor DE。在NT-D系統發動時，精神感应框架會發出藍色光芒。
 
-本机并未出现在高达UC正传中，首次在Gundam Front Tokyo内影像设施DOME-G
-2013年8月3日起播放特別影片《机动战士GUNDAM UC One of
-Seventy Two》中登场过，后在漫画《机动战士GUNDAM U.C.0096 LAST SUN》、小说《机动战士GUNDAM UC
-狩猎不死鸟》、动画《[機動戰士GUNDAM
-NT](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_NT "wikilink")》中登場。出现的时间轴位置在本篇之前。在机设发表时有「宇宙世纪0095年，漂浮着无数陨石的暗礁宇域，新吉恩残党军『带袖的』的舰队，正在进行新型MS的性能试验。得知该情报的两艘舰船向着该暗礁宇域航行。其中一艘是地球联邦军的战舰，另一艘是AE社的试验船。在联邦军的战舰内部，新近建造的独角兽高达3号机，正在等待着出击……」的描述。
+本机并未出现在高达UC正传中，首次在Gundam Front Tokyo内影像设施DOME-G 2013年8月3日起播放特別影片《机动战士GUNDAM UC One of Seventy Two》中登场过，后在漫画《机动战士GUNDAM U.C.0096 LAST SUN》、小说《机动战士GUNDAM UC 狩猎不死鸟》、动画《[機動戰士GUNDAM NT](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_NT "wikilink")》中登場。出现的时间轴位置在本篇之前。在机设发表时有「宇宙世纪0095年，漂浮着无数陨石的暗礁宇域，新吉恩残党军『带袖的』的舰队，正在进行新型MS的性能试验。得知该情报的两艘舰船向着该暗礁宇域航行。其中一艘是地球联邦军的战舰，另一艘是AE社的试验船。在联邦军的战舰内部，新近建造的独角兽高达3号机，正在等待着出击……」的描述。
 
-與1號機和2號機為同型機，但由地球聯邦軍負責製造，對OS進行了修改,使其必須經由外部輸送指令發動NT-D系統，駕駛倉亦增設了抑制駕駛員腦波的拘束具，防止擅自發動NT-D系統。宇宙世紀0095年與2號機一同進行以新吉恩残党军「带袖黨」的舰队及其包括新型MS：AMX-107R
-Rebawoo在內的MS部隊為對手的對抗測試。測試進行至後段時，被指令發動NT-D系統，與在較早前已發動NT-D系統的2號機及敵機Rebawoo的精神感應框架產生共鳴並失控，損毀了2號機胸部裝甲（導致其當時的強化人駕駛員死亡）及破壞作為本機母艦的地球联邦军战舰的艦橋後，失控性加速脫離測試宙域，下落不明。從機體最後發出的訊號中確認到當時駕駛本機的強化人駕駛員（莉達）死亡。
+與1號機和2號機為同型機，但由地球聯邦軍負責製造，對OS進行了修改,使其必須經由外部輸送指令發動NT-D系統，駕駛倉亦增設了抑制駕駛員腦波的拘束具，防止擅自發動NT-D系統。宇宙世紀0095年與2號機一同進行以新吉恩残党军「带袖黨」的舰队及其包括新型MS：AMX-107R Rebawoo在內的MS部隊為對手的對抗測試。測試進行至後段時，被指令發動NT-D系統，與在較早前已發動NT-D系統的2號機及敵機Rebawoo的精神感應框架產生共鳴並失控，損毀了2號機胸部裝甲（導致其當時的強化人駕駛員死亡）及破壞作為本機母艦的地球联邦军战舰的艦橋後，失控性加速脫離測試宙域，下落不明。從機體最後發出的訊號中確認到當時駕駛本機的強化人駕駛員（莉達）死亡。
 
-在劇場版《機動戰士GUNDAM
-NT》的最終決戰中，約拿·巴斯特在自己駕駛的NT鋼彈(C裝備.ver)大破後短暫駕駛本機，成功擊敗II新吉翁號，不死鸟（莉達）得知約拿意願後，放下約拿離開，不知去向。約拿也被前作主角巴納吉·林克斯所救。
+在劇場版《機動戰士GUNDAM NT》的最終決戰中，約拿·巴斯特在自己駕駛的NT鋼彈(C裝備.ver)大破後短暫駕駛本機，成功擊敗II新吉翁號，不死鸟（莉達）得知約拿意願後，放下約拿離開，不知去向。約拿也被前作主角巴納吉·林克斯所救。
 
 ## 相關條目
 
@@ -78,14 +59,10 @@ NT》的最終決戰中，約拿·巴斯特在自己駕駛的NT鋼彈(C裝備.ve
 ## 參考
 
   - [-{GUNDAM}-.INFO內GUNDAMUC系列機體簡介](http://hk.gundam.info/series/unicorn/?cat=4)
-
   - [-{GUNDAM}-.INFO內GUNDAMNT系列機體簡介](https://hk.gundam.info/about-gundam/series-pages/narrative/mechanics)
-
   - [大動作獨角獸高達](http://the-sun.on.cc/cnt/lifestyle/20091109/00481_002.html)
   - [獨角獸爆甲見紅](http://the-sun.on.cc/cnt/lifestyle/20100407/00481_005.html)
-  - [Unicorn
-    Gundam 17門重炮神獸](http://orientaldaily.on.cc/cnt/lifestyle/20120222/00321_001.html)
-  - [獨角獸．黃金甲　HGUC Unicorn Gundam
-    Banshee](http://the-sun.on.cc/cnt/lifestyle/20120317/00487_002.html)
+  - [Unicorn Gundam 17門重炮神獸](http://orientaldaily.on.cc/cnt/lifestyle/20120222/00321_001.html)
+  - [獨角獸．黃金甲　HGUC Unicorn Gundam Banshee](http://the-sun.on.cc/cnt/lifestyle/20120317/00487_002.html)
 
 [Category:GUNDAM兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM兵器 "wikilink")

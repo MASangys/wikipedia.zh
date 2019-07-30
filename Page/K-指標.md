@@ -77,12 +77,7 @@ G-標度</p></th>
 
 **K-指標**（）以0-9的[整數量化了](https://zh.wikipedia.org/wiki/整數 "wikilink")[地球磁場水平分量的變動](https://zh.wikipedia.org/wiki/地球磁場 "wikilink")，指出[地磁風暴的程度](../Page/磁暴.md "wikilink")，1是平靜，5以及更高的數值是強烈。它以三小時的間隔，以[磁強計觀察這段時期水平分量的最大擾動](https://zh.wikipedia.org/wiki/磁強計 "wikilink")。字母'K'源自[德文的](https://zh.wikipedia.org/wiki/德文 "wikilink")''\[1\]，意思是'特殊的阿拉伯數字'。
 
-從最大的擾動 ([nT](../Page/特斯拉.md "wikilink"))
-轉換成K-指標，從一個觀測站到另一個觀測站，測量的值都會有所變化，但在某種程度上，某一水準
-K
-的發生率在所有觀測站都是相同的。在實務上，這意味著在高地磁緯度的觀測站，會觀測到較高水準擾動的K-指標。即時的K-指標是在明定的3小時間隔(0000-0300,
-0300-0600, ...,
-2100-2400)確定結束之後測量的。在3小時內的最大正負偏差值將會與確定的最大擾動總值附在一起，但最大偏差值可以出現在這3小時內的任何時刻。
+從最大的擾動 ([nT](../Page/特斯拉.md "wikilink")) 轉換成K-指標，從一個觀測站到另一個觀測站，測量的值都會有所變化，但在某種程度上，某一水準 K 的發生率在所有觀測站都是相同的。在實務上，這意味著在高地磁緯度的觀測站，會觀測到較高水準擾動的K-指標。即時的K-指標是在明定的3小時間隔(0000-0300, 0300-0600, ..., 2100-2400)確定結束之後測量的。在3小時內的最大正負偏差值將會與確定的最大擾動總值附在一起，但最大偏差值可以出現在這3小時內的任何時刻。
 
 K-指標是德國地球物理學家[朱利斯·巴特爾斯](https://zh.wikipedia.org/wiki/朱利斯·巴特爾斯 "wikilink")（）在1938年首先提出\[2\]。
 
@@ -96,8 +91,7 @@ Kp-指標是巴特爾斯在1939年引進的\[3\]。
 
 [K-index.svg](https://zh.wikipedia.org/wiki/File:K-index.svg "fig:K-index.svg")
 
-A-指標提供地磁活動每日的平均值。因為由磁強計擾動測量的K-指標沒有線性的關係，採用K-指標的平均值是無意義的。取代的是轉換每一個K-指標成為線性的標度，稱為"等效三小時範圍"的a-指標
-(注意是小寫)。每日的A-指標是8個a-指標的平均值。根據下表\[4\]\[5\]\[6\]：
+A-指標提供地磁活動每日的平均值。因為由磁強計擾動測量的K-指標沒有線性的關係，採用K-指標的平均值是無意義的。取代的是轉換每一個K-指標成為線性的標度，稱為"等效三小時範圍"的a-指標 (注意是小寫)。每日的A-指標是8個a-指標的平均值。根據下表\[4\]\[5\]\[6\]：
 
 | ***K*** | 0  | 0+ | 1− | 1  | 1+ | 2− | 2   | 2+  | 3−  | 3   | 3+  | 4−  | 4   | 4+  |
 | ------- | -- | -- | -- | -- | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -116,7 +110,7 @@ A-指標提供地磁活動每日的平均值。因為由磁強計擾動測量的
 
 ## NOAA G-標度和Kp之間的關聯性
 
-Kp標度是總結全球水準地磁活動的合理方式，但要了解太空環境對它的影響並不是件容易的事。[NOAA的](https://zh.wikipedia.org/wiki/NOAA "wikilink")[G-標度](https://zh.wikipedia.org/wiki/G-標度 "wikilink")\[8\]是設計來對應，以直接的方式，[磁暴影響的意義](../Page/磁暴.md "wikilink")。
+Kp標度是總結全球水準地磁活動的合理方式，但要了解太空環境對它的影響並不是件容易的事。[NOAA的](https://zh.wikipedia.org/wiki/NOAA "wikilink")[G-標度](https://zh.wikipedia.org/wiki/G-標度 "wikilink")\[8\]是設計來對應，以直接的方式，[磁暴](../Page/磁暴.md "wikilink")影響的意義。
 
 ## 參考資料
 
@@ -126,18 +120,13 @@ Kp標度是總結全球水準地磁活動的合理方式，但要了解太空環
   - <https://web.archive.org/web/20071011020447/http://www.sec.noaa.gov/rt_plots/kp_3d.html>
   - <http://www.swpc.noaa.gov/SolarCycle/>
   - <http://www.n3kl.org/sun/noaa.html>
-  - [Comprehensive radio propagation
-    site](http://dx.qsl.net/propagation/)
+  - [Comprehensive radio propagation site](http://dx.qsl.net/propagation/)
 
 [Category:地磁學](https://zh.wikipedia.org/wiki/Category:地磁學 "wikilink")
 
-1.  Bartels, J., Heck, N.H. & Johnston, HF., 1939. The three-hour range
-    index measuring geomagnetic activity, Geophys. Res., 44, 411-454 (p
-    411)
+1.  Bartels, J., Heck, N.H. & Johnston, HF., 1939. The three-hour range index measuring geomagnetic activity, Geophys. Res., 44, 411-454 (p 411)
 
-2.  Bartels, J., Heck, N.H. & Johnston, HF., 1939. The three-hour range
-    index measuring geomagnetic activity, Geophys. Res., 44, 411-454
-    (c.f. ref 4 on p 417)
+2.  Bartels, J., Heck, N.H. & Johnston, HF., 1939. The three-hour range index measuring geomagnetic activity, Geophys. Res., 44, 411-454 (c.f. ref 4 on p 417)
 
 3.
 4.
@@ -146,9 +135,6 @@ Kp標度是總結全球水準地磁活動的合理方式，但要了解太空環
 
 6.
 
-7.  <http://spidr.ngdc.noaa.gov/spidr/help.do?group=geomInd#ap>  -
-    Equivalent Amplitudes
+7.  <http://spidr.ngdc.noaa.gov/spidr/help.do?group=geomInd#ap>  - Equivalent Amplitudes
 
-8.  [1](http://www.swpc.noaa.gov/NOAAscales/) NOAA/SWPC Space Weather
-    Scales used to communicate to the public current and future space
-    weather conditions and their possible effects
+8.  [1](http://www.swpc.noaa.gov/NOAAscales/) NOAA/SWPC Space Weather Scales used to communicate to the public current and future space weather conditions and their possible effects

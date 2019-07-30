@@ -9,12 +9,9 @@
 
 ## 概要
 
-1997年2月以[逹瑯與](https://zh.wikipedia.org/wiki/逹瑯 "wikilink")[ミヤ兩個人為中心組成的](https://zh.wikipedia.org/wiki/ミヤ "wikilink")[茨城縣樂團MUCC](../Page/茨城縣.md "wikilink")。同年5月4日正式開唱。
-2000年8月14日團名正式改成ムック。2003年5月21日發行單曲「我、在ルベキ場所」後便正式浮上檯面。
+1997年2月以[逹瑯與](https://zh.wikipedia.org/wiki/逹瑯 "wikilink")[ミヤ兩個人為中心組成的](https://zh.wikipedia.org/wiki/ミヤ "wikilink")[茨城縣](../Page/茨城縣.md "wikilink")樂團MUCC。同年5月4日正式開唱。 2000年8月14日團名正式改成ムック。2003年5月21日發行單曲「我、在ルベキ場所」後便正式浮上檯面。
 
-目前成員主要以吉他手兼隊長ミヤ、主唱逹瑯、鼓手[SATOち](https://zh.wikipedia.org/wiki/SATOち "wikilink")、貝斯手[YUKKE所組成](https://zh.wikipedia.org/wiki/YUKKE "wikilink")。剛出道的MUCC曲風融合了[昭和時代的歌謠曲風](../Page/昭和.md "wikilink")，社會諷刺以及以「死」與「絕望」為歌名的歌詞佔大多數。從第三張專輯《鵬翼》開始，增加了Metal、Punk、Funk、Disco
-Beat等音樂要素，樂風更寬廣，但其音樂本質依然強烈，不僅連續於2004年、2005年聖誕節震撼[日本](../Page/日本.md "wikilink")[武道館](https://zh.wikipedia.org/wiki/武道館 "wikilink")，更風靡亞、歐、美等國。在歐洲及美國共發行過8張作品，相當受海外注目。2008年參加世界大型的ROCKSTAR
-TASTE OF CHAOS 2008（INTERNATIONAL）巡迴北美34場，歐洲19場活躍於海外市場。
+目前成員主要以吉他手兼隊長ミヤ、主唱逹瑯、鼓手[SATOち](https://zh.wikipedia.org/wiki/SATOち "wikilink")、貝斯手[YUKKE所組成](https://zh.wikipedia.org/wiki/YUKKE "wikilink")。剛出道的MUCC曲風融合了[昭和](../Page/昭和.md "wikilink")時代的歌謠曲風，社會諷刺以及以「死」與「絕望」為歌名的歌詞佔大多數。從第三張專輯《鵬翼》開始，增加了Metal、Punk、Funk、Disco Beat等音樂要素，樂風更寬廣，但其音樂本質依然強烈，不僅連續於2004年、2005年聖誕節震撼[日本](../Page/日本.md "wikilink")[武道館](https://zh.wikipedia.org/wiki/武道館 "wikilink")，更風靡亞、歐、美等國。在歐洲及美國共發行過8張作品，相當受海外注目。2008年參加世界大型的ROCKSTAR TASTE OF CHAOS 2008（INTERNATIONAL）巡迴北美34場，歐洲19場活躍於海外市場。
 
 作詞主要由逹瑯、ミヤ兩人擔任，作曲則是以ミヤ的創作最多，其次是逹瑯、YUKKE、SATOち。
 
@@ -77,8 +74,7 @@ TASTE OF CHAOS 2008（INTERNATIONAL）巡迴北美34場，歐洲19場活躍於�
 10. **[球体](https://zh.wikipedia.org/wiki/球体_\(ムックAlbum\) "wikilink")**［2009.3.4］（台灣2010年3月8日發行）
 11. **[カルマ](https://zh.wikipedia.org/wiki/カルマ_（ムックAlbum） "wikilink")**［2010.10.6］（台灣2010年12月17日發行）
 12. **[シャングリラ](https://zh.wikipedia.org/wiki/シャングリラ_（ムックAlbum） "wikilink")**［2012.11.28］　
-13. **[THE END OF THE
-    WORLD](https://zh.wikipedia.org/wiki/THE_END_OF_THE_WORLD_（ムックAlbum） "wikilink")**［2014.6.25］
+13. **[THE END OF THE WORLD](https://zh.wikipedia.org/wiki/THE_END_OF_THE_WORLD_（ムックAlbum） "wikilink")**［2014.6.25］
 
 ### 精選集
 
@@ -108,8 +104,4 @@ TASTE OF CHAOS 2008（INTERNATIONAL）巡迴北美34場，歐洲19場活躍於�
 
   - [MUCC　YUKKE 公式ブログ -LINE](http://lineblog.me/mucc_yukke/)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:另類搖滾樂團 "wikilink")
-[Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
-[Category:實驗音樂樂團](https://zh.wikipedia.org/wiki/Category:實驗音樂樂團 "wikilink")
-[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:另類搖滾樂團 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:實驗音樂樂團](https://zh.wikipedia.org/wiki/Category:實驗音樂樂團 "wikilink") [Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")

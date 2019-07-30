@@ -10,15 +10,11 @@
 
 光碟外盒是『K-ON\!』總作画監督[堀口悠紀子](../Page/堀口悠紀子.md "wikilink")親自畫的設計，CD外盒上也同樣的圖畫印刷。
 
-[ORICON集計在](https://zh.wikipedia.org/wiki/ORICON "wikilink")6月17日發售「平澤唯」和「秋山澪」2張作品，主題歌「[Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")」和「[Don't
-say
-"lazy"](../Page/Don't_say_"lazy".md "wikilink")」\[2\]，和劇中歌「[ふわふわ時間](https://zh.wikipedia.org/wiki/ふわふわ時間 "wikilink")」持續3首作品創下高排名紀錄\[3\]\[4\]。「秋山澪」是角色歌曲中銷售最多的，累積數目是歴代第1位銷售最多記録，「平澤唯」是累計「秋山澪」後歴代第2位銷售最多記録\[5\]。
+[ORICON集計在](https://zh.wikipedia.org/wiki/ORICON "wikilink")6月17日發售「平澤唯」和「秋山澪」2張作品，主題歌「[Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")」和「[Don't say "lazy"](../Page/Don't_say_"lazy".md "wikilink")」\[2\]，和劇中歌「[ふわふわ時間](https://zh.wikipedia.org/wiki/ふわふわ時間 "wikilink")」持續3首作品創下高排名紀錄\[3\]\[4\]。「秋山澪」是角色歌曲中銷售最多的，累積數目是歴代第1位銷售最多記録，「平澤唯」是累計「秋山澪」後歴代第2位銷售最多記録\[5\]。
 
-還有，在8月26日發售的「田井中律」、「琴吹紬」、「中野梓」3首作品也緊跟著在那之前的各作品締造高順序，是ORICO史上第一次由同樣動畫的角色歌曲帶來的一週在ORICON的3首作品同時登了上前10
-。
+還有，在8月26日發售的「田井中律」、「琴吹紬」、「中野梓」3首作品也緊跟著在那之前的各作品締造高順序，是ORICO史上第一次由同樣動畫的角色歌曲帶來的一週在ORICON的3首作品同時登了上前10 。
 
-然後在10月21日發售的「平澤憂」「真鍋和」2張單曲也一週在ORICON方面，記錄同時登上10『K-ON\!』所有的11張單曲作品全部用
-ORICON進入前10名經驗\[6\]\[7\]。
+然後在10月21日發售的「平澤憂」「真鍋和」2張單曲也一週在ORICON方面，記錄同時登上10『K-ON\!』所有的11張單曲作品全部用 ORICON進入前10名經驗\[6\]\[7\]。
 
 ## 「K-ON\!」角色歌曲
 
@@ -337,12 +333,7 @@ ORICON進入前10名經驗\[6\]\[7\]。
   -
   -
   -
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink")
-[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")
-[Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
+[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
 
 1.  「『ﾚｯﾂｺﾞｰ』」について、ウェブサイトなどでは「『レッツゴー』」と表記されるが、ここでは製品（CD）上での表記に準拠する。
 

@@ -1,8 +1,4 @@
-**DJ音标**（），是一种标英式发音的IPA音标，发明者是[丹尼尔·琼斯](https://zh.wikipedia.org/wiki/丹尼尔·琼斯 "wikilink")。他根据IPA编了一本[英国英语的发音辞典English](https://zh.wikipedia.org/wiki/英国英语 "wikilink")
-Pronouncing
-Dictionary（第1版至第12版，最后一版的出版时间为1963年）。他所编的英语发音字典代表了[公認發音](https://zh.wikipedia.org/wiki/公認發音 "wikilink")（"Received
-Pronunciation",
-RP），这在受过教育的英国人尤其是南部英格兰人中通用。中國大陸英語教材通常使用DJ音標\[1\]，且錯誤認為是國際音標（IPA）。
+**DJ音标**（），是一种标英式发音的IPA音标，发明者是[丹尼尔·琼斯](https://zh.wikipedia.org/wiki/丹尼尔·琼斯 "wikilink")。他根据IPA编了一本[英国英语的发音辞典English](https://zh.wikipedia.org/wiki/英国英语 "wikilink") Pronouncing Dictionary（第1版至第12版，最后一版的出版时间为1963年）。他所编的英语发音字典代表了[公認發音](https://zh.wikipedia.org/wiki/公認發音 "wikilink")（"Received Pronunciation", RP），这在受过教育的英国人尤其是南部英格兰人中通用。中國大陸英語教材通常使用DJ音標\[1\]，且錯誤認為是國際音標（IPA）。
 
 目前DJ音标符号共计有48个，其中元音有20个﹔辅音有28个。
 

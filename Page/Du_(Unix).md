@@ -1,6 +1,4 @@
-[Du_unix_output.png](https://zh.wikipedia.org/wiki/File:Du_unix_output.png "fig:Du_unix_output.png")
-**`du`**(***d**isk
-**u**sage*的缩写，磁盘使用情况)是一个估计某个特定目录或文件在文件系统上磁盘使用情况的标准Unix程序。
+[Du_unix_output.png](https://zh.wikipedia.org/wiki/File:Du_unix_output.png "fig:Du_unix_output.png") **`du`**(***d**isk **u**sage*的缩写，磁盘使用情况)是一个估计某个特定目录或文件在文件系统上磁盘使用情况的标准Unix程序。
 
 ## 历史
 
@@ -24,7 +22,7 @@
     `-s`，仅汇报当前目录总计的磁盘使用情况，而不显示每一个文件。
     `-x`，仅遍历指定路径所在设备上的文件与目录。
 
-其他Unix和类Unix操作系统可能提供额外的选项。例如，[BSD与](../Page/BSD.md "wikilink")[GNU的](../Page/GNU.md "wikilink")`du`规定了一个`-h`选项，把磁盘使用情况的大小加上单位后缀，显示为一个用户更容易理解的形式。（如：10MB）
+其他Unix和类Unix操作系统可能提供额外的选项。例如，[BSD](../Page/BSD.md "wikilink")与[GNU](../Page/GNU.md "wikilink")的`du`规定了一个`-h`选项，把磁盘使用情况的大小加上单位后缀，显示为一个用户更容易理解的形式。（如：10MB）
 
 ## 示例
 
@@ -68,26 +66,16 @@ KB单位的目录总大小：
 
 ## 外部链接
 
-  - [The Open Group
-    Base规范中du的说明](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/du.html)
+  - [The Open Group Base规范中du的说明](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/du.html)
 
 ### 使用手册
 
-  - [du](http://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html)
-    — [GNU](../Page/GNU.md "wikilink")
-    [coreutils中的使用手册](https://zh.wikipedia.org/wiki/coreutils "wikilink")
-  - [du](http://www.openbsd.org/cgi-bin/man.cgi?query=du) —
-    [OpenBSD中的使用手册](../Page/OpenBSD.md "wikilink")
-  - [du](http://leaf.dragonflybsd.org/cgi/web-man?command=du&section=ANY)
-    —
-    [Dragonflybsd中的使用手册](https://zh.wikipedia.org/wiki/Dragonflybsd "wikilink")
+  - [du](http://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html) — [GNU](../Page/GNU.md "wikilink") [coreutils中的使用手册](https://zh.wikipedia.org/wiki/coreutils "wikilink")
+  - [du](http://www.openbsd.org/cgi-bin/man.cgi?query=du) — [OpenBSD](../Page/OpenBSD.md "wikilink")中的使用手册
+  - [du](http://leaf.dragonflybsd.org/cgi/web-man?command=du&section=ANY) — [Dragonflybsd中的使用手册](https://zh.wikipedia.org/wiki/Dragonflybsd "wikilink")
 
 ### 其他
 
-  - [Disk space-related
-    utilities](https://web.archive.org/web/20110515021820/http://freshmeat.net/search/?q=disk+space)
-    at Freshmeat.net
+  - [Disk space-related utilities](https://web.archive.org/web/20110515021820/http://freshmeat.net/search/?q=disk+space) at Freshmeat.net
 
-[Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink")
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
-[Category:Disk硬盘分析软件](https://zh.wikipedia.org/wiki/Category:Disk硬盘分析软件 "wikilink")
+[Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink") [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink") [Category:Disk硬盘分析软件](https://zh.wikipedia.org/wiki/Category:Disk硬盘分析软件 "wikilink")

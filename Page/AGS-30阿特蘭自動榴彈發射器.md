@@ -48,18 +48,9 @@ AGS-30和[AGS-17一樣發射](../Page/AGS-17烈火自動榴彈發射器.md "wiki
 
 ### 电子游戏
 
-  - 2006年—《[-{zh-cn:武装突袭; zh-tw:武裝行動;
-    zh-hk:武裝行動;}-](../Page/武装突袭.md "wikilink")》（ARMA:
-    Armed
-    Assault）：安裝在[越野车上](https://zh.wikipedia.org/wiki/越野车 "wikilink")。
-  - 2009年—《[-{zh-cn:武裝突襲2; zh-tw:武裝行動2;
-    zh-hk:武裝行動2;}-](../Page/武装突袭2.md "wikilink")》（ArmA
-    II）：被黑俄羅斯國防軍（CDF）、俄羅斯武裝部隊（Russia）和黑俄羅斯紅星運動（Insurgents）所使用，裝上車輛載具上並且合稱為「
-    AGS-30」。
-  - 2010年—《[-{zh-hans:使命召唤：黑色行动; zh-hant:決勝時刻：黑色行動; zh-cn:使命召唤：黑色行动;
-    zh-tw:決勝時刻：黑暗行動; zh-hk:使命召喚：黑色行動;
-    zh-mo:使命召喚：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》（Call
-    of Duty: Black Ops）：在「Rebirth」中裝在玩家的上被玩家使用，以雙重武器的形象出現，奇怪地会在1960年代出現。
+  - 2006年—《[-{zh-cn:武装突袭; zh-tw:武裝行動; zh-hk:武裝行動;}-](../Page/武装突袭.md "wikilink")》（ARMA: Armed Assault）：安裝在[越野车上](https://zh.wikipedia.org/wiki/越野车 "wikilink")。
+  - 2009年—《[-{zh-cn:武裝突襲2; zh-tw:武裝行動2; zh-hk:武裝行動2;}-](../Page/武装突袭2.md "wikilink")》（ArmA II）：被黑俄羅斯國防軍（CDF）、俄羅斯武裝部隊（Russia）和黑俄羅斯紅星運動（Insurgents）所使用，裝上車輛載具上並且合稱為「 AGS-30」。
+  - 2010年—《[-{zh-hans:使命召唤：黑色行动; zh-hant:決勝時刻：黑色行動; zh-cn:使命召唤：黑色行动; zh-tw:決勝時刻：黑暗行動; zh-hk:使命召喚：黑色行動; zh-mo:使命召喚：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》（Call of Duty: Black Ops）：在「Rebirth」中裝在玩家的上被玩家使用，以雙重武器的形象出現，奇怪地会在1960年代出現。
   - 2018年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：[萌擬人化](../Page/萌擬人化.md "wikilink")的複數少女戰術人形，為首先登場的三組重裝部隊之一。
 
 [AGS-30_maks2009.jpg](https://zh.wikipedia.org/wiki/File:AGS-30_maks2009.jpg "fig:AGS-30_maks2009.jpg")上展出的AGS-30自動榴彈發射器。\]\]
@@ -76,20 +67,14 @@ AGS-30和[AGS-17一樣發射](../Page/AGS-17烈火自動榴彈發射器.md "wiki
   - [DP-64榴彈發射器](../Page/DP-64榴彈發射器.md "wikilink")
   - [扎斯塔瓦M93 BGA自動榴彈發射器](../Page/扎斯塔瓦M93_BGA自動榴彈發射器.md "wikilink")
   - [XM174自動榴彈發射器](../Page/XM174自動榴彈發射器.md "wikilink")
-  - [Mk
-    19自動榴彈發射器](../Page/Mk_19自動榴彈發射器.md "wikilink")，由[美国](../Page/美国.md "wikilink")[通用动力](../Page/通用动力.md "wikilink")製造的自動榴彈發射器
+  - [Mk 19自動榴彈發射器](../Page/Mk_19自動榴彈發射器.md "wikilink")，由[美国](../Page/美国.md "wikilink")[通用动力](../Page/通用动力.md "wikilink")製造的自動榴彈發射器
   - [Mk 47自動榴彈發射器](../Page/Mk_47自動榴彈發射器.md "wikilink")
-  - [XM307自動榴彈發射器](../Page/XM307自動榴彈發射器.md "wikilink")，已停止開發、採用25
-    毫米智能化榴彈的自動榴彈發射器
-  - [HK
-    GMG自動榴彈發射器](../Page/HK_GMG自動榴彈發射器.md "wikilink")，由[德国](../Page/德国.md "wikilink")[黑克勒-科赫製造的自動榴彈發射器](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")
-  - [CIS 40
-    AGL自动榴弹发射器](../Page/CIS_40_AGL自动榴弹发射器.md "wikilink")，由[新加坡](../Page/新加坡.md "wikilink")製造的自動榴彈發射器
-  - [CZW
-    RAG-30自动榴弹发射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自动榴弹发射器 "wikilink")
+  - [XM307自動榴彈發射器](../Page/XM307自動榴彈發射器.md "wikilink")，已停止開發、採用25 毫米智能化榴彈的自動榴彈發射器
+  - [HK GMG自動榴彈發射器](../Page/HK_GMG自動榴彈發射器.md "wikilink")，由[德国](../Page/德国.md "wikilink")[黑克勒-科赫製造的自動榴彈發射器](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")
+  - [CIS 40 AGL自动榴弹发射器](../Page/CIS_40_AGL自动榴弹发射器.md "wikilink")，由[新加坡](../Page/新加坡.md "wikilink")製造的自動榴彈發射器
+  - [CZW RAG-30自动榴弹发射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自动榴弹发射器 "wikilink")
   - [丹尼爾Y3自動榴彈發射器](../Page/丹尼爾Y3自動榴彈發射器.md "wikilink")，由[南非製造的自動榴彈發射器](https://zh.wikipedia.org/wiki/南非 "wikilink")
-  - [SB LAG
-    40自動榴彈發射器](https://zh.wikipedia.org/wiki/SB_LAG_40自動榴彈發射器 "wikilink")，由[西班牙](../Page/西班牙.md "wikilink")製造的自動榴彈發射器
+  - [SB LAG 40自動榴彈發射器](https://zh.wikipedia.org/wiki/SB_LAG_40自動榴彈發射器 "wikilink")，由[西班牙](../Page/西班牙.md "wikilink")製造的自動榴彈發射器
   - [87式自動榴彈發射器](../Page/87式自動榴彈發射器.md "wikilink")
   - [04式自动榴弹发射器](../Page/04式自动榴弹发射器.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
@@ -116,57 +101,39 @@ AGS-30和[AGS-17一樣發射](../Page/AGS-17烈火自動榴彈發射器.md "wiki
 
   - —[KBP官方網站](http://www.kbptula.ru/en/productions/small-arms-guns-grenade-launchers/grenade-launchers/ags-30)
 
-  - —[V.A.Degtyarev
-    Plant](https://web.archive.org/web/20090406223538/http://www.zid.ru/en/products/military/ags-30.html)
+  - —[V.A.Degtyarev Plant](https://web.archive.org/web/20090406223538/http://www.zid.ru/en/products/military/ags-30.html)
 
-  - —[Modern Firearms—AGS-30 grenade launcher / machine
-    gun](http://world.guns.ru/grenade/rus/ags-30-e.html)
+  - —[Modern Firearms—AGS-30 grenade launcher / machine gun](http://world.guns.ru/grenade/rus/ags-30-e.html)
 
-  - —[Weapon.ge—KBP
-    AGS-30](http://georgians.weapon.ge/index.php?sel=1&id=332&man=&coun=&cat=12&l=en)
+  - —[Weapon.ge—KBP AGS-30](http://georgians.weapon.ge/index.php?sel=1&id=332&man=&coun=&cat=12&l=en)
 
-  - —[Zonawar.ru—AGS-30 automatic mounted grenade
-    launcher](https://web.archive.org/web/20121017135721/http://zonawar.ru/rash_guns/rg_granatomet_ags-30_eng.html)
+  - —[Zonawar.ru—AGS-30 automatic mounted grenade launcher](https://web.archive.org/web/20121017135721/http://zonawar.ru/rash_guns/rg_granatomet_ags-30_eng.html)
 
   - —[weaponsystems.net－AGS-17](http://weaponsystems.net/weapon.php?weapon=BB02%20-%20AGS-17)
 
-  - —[Military, Security and Civilian Guns and Equipment—KBP AGS-30
-    AGL](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=768)
+  - —[Military, Security and Civilian Guns and Equipment—KBP AGS-30 AGL](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=768)
 
   - —
 
   - —[АГС-30](http://www.army.lv/?s=143&id=382)
 
-  - —[Видео на RuTube.ru: Военное дело: Гранатометы. АГС-17 «Пламя»,
-    АГС-30.](https://web.archive.org/web/20091124171339/http://rutube.ru/tracks/689580.html?v=041a335875dafbb1059fd40e83f1ee60)
+  - —[Видео на RuTube.ru: Военное дело: Гранатометы. АГС-17 «Пламя», АГС-30.](https://web.archive.org/web/20091124171339/http://rutube.ru/tracks/689580.html?v=041a335875dafbb1059fd40e83f1ee60)
 
-  - —[АГС-30](https://web.archive.org/web/20100106225240/http://liveguns.ru/granatomet/AGS30)
-    - Характеристики, Описание + ФОТО\!
+  - —[АГС-30](https://web.archive.org/web/20100106225240/http://liveguns.ru/granatomet/AGS30) - Характеристики, Описание + ФОТО\!
 
-  - —[Open Joint Stock Company "V.A.Degtyarev Plant" / AGS-30 30 mm
-    antipersonnel automatic grenade launching
-    system](https://web.archive.org/web/20141027132420/http://zid.ru/eng/products/47/detail/228)
+  - —[Open Joint Stock Company "V.A.Degtyarev Plant" / AGS-30 30 mm antipersonnel automatic grenade launching system](https://web.archive.org/web/20141027132420/http://zid.ru/eng/products/47/detail/228)
 
-  - —[D Boy Gun
-    World（槍炮世界）—AGS-30自动榴弹发射器](http://firearmsworld.net/russain/gl/ags30/ags30.htm)
+  - —[D Boy Gun World（槍炮世界）—AGS-30自动榴弹发射器](http://firearmsworld.net/russain/gl/ags30/ags30.htm)
 
   - —[俄新網—俄羅斯展示世界最輕的自動榴彈發射器（視頻）](https://archive.is/20130424193904/http://big5.rusnews.cn/eguoxinwen/eluosi_anquan/20090403/42446472.html)
 
-[Category:30毫米口径武器](https://zh.wikipedia.org/wiki/Category:30毫米口径武器 "wikilink")
-[Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink")
-[Category:全自動型榴彈發射器](https://zh.wikipedia.org/wiki/Category:全自動型榴彈發射器 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")
-[Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
+[Category:30毫米口径武器](https://zh.wikipedia.org/wiki/Category:30毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:全自動型榴彈發射器](https://zh.wikipedia.org/wiki/Category:全自動型榴彈發射器 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink") [Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
 
 1.  АГС，全寫：，意為：全自動榴彈發射器
-2.  [Леонид Викторович
-    Степанов](http://www.kbptula.ru/index.php/ru/novosti/nagrady-i-yubilei/137-leonid-viktorovich-stepanov)
+2.  [Леонид Викторович Степанов](http://www.kbptula.ru/index.php/ru/novosti/nagrady-i-yubilei/137-leonid-viktorovich-stepanov)
 3.  [АГС-30](http://www.kbptula.ru/index.php/ru/razrabotki-kbp/strelkovo-pushechnoe-i-granatometnoe-vooruzhenie/granatomety/ags-30)
-4.  [404 - Материал не
-    найден](http://www.kbptula.ru/index.php/ru/novosti/vystavki/314-defexpo-2014-anons)
+4.  [404 - Материал не найден](http://www.kbptula.ru/index.php/ru/novosti/vystavki/314-defexpo-2014-anons)
 5.  <https://cdn.inquisitr.com/wp-content/uploads/2017/04/North-korean-battle-tanks.jpg>
 6.
 7.
-8.  [The rebirth of the Syrian Arab
-    Army](http://www.voltairenet.org/article190703.html)
+8.  [The rebirth of the Syrian Arab Army](http://www.voltairenet.org/article190703.html)

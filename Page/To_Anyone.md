@@ -1,6 +1,4 @@
-***To Anyone*** 是 [南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")
-四人女子組合 [2NE1的首張韩文正规专辑](../Page/2NE1.md "wikilink")，
-於2010年9月9日發行。預購量達十二萬張， 發行後銷量約十萬張，总销量二十一萬张。整張專輯共收入了十二首歌曲。
+***To Anyone*** 是 [南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink") 四人女子組合 [2NE1](../Page/2NE1.md "wikilink")的首張韩文正规专辑， 於2010年9月9日發行。預購量達十二萬張， 發行後銷量約十萬張，总销量二十一萬张。整張專輯共收入了十二首歌曲。
 
 ## 曲目
 
@@ -71,8 +69,4 @@
 | [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")   | 2010年10月28日                                       | GMM Grammy                      | CD 跟 DVD |
 | [菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink") | 2011年1月15日                                        | Universal Records (Philippines) |          |
 
-[Category:2NE1](https://zh.wikipedia.org/wiki/Category:2NE1 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2010年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Gaon專輯月榜冠軍作品 "wikilink")
-[Category:2010年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Gaon單曲月榜冠軍作品 "wikilink")
+[Category:2NE1](https://zh.wikipedia.org/wiki/Category:2NE1 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2010年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Gaon專輯月榜冠軍作品 "wikilink") [Category:2010年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Gaon單曲月榜冠軍作品 "wikilink")

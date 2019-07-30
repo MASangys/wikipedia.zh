@@ -168,10 +168,8 @@
 
 ## 数据来源
 
-  - [Basketball-Reference.com Career Leaders for Total
-    Blocks](http://www.basketball-reference.com/leaders/TRB_career.html)
-  - [Basketball-Reference.com Career Leaders for Blocks Per
-    Game](http://www.basketball-reference.com/leaders/RPG_career.html)
+  - [Basketball-Reference.com Career Leaders for Total Blocks](http://www.basketball-reference.com/leaders/TRB_career.html)
+  - [Basketball-Reference.com Career Leaders for Blocks Per Game](http://www.basketball-reference.com/leaders/RPG_career.html)
 
 [Category:NBA数据统计](https://zh.wikipedia.org/wiki/Category:NBA数据统计 "wikilink")
 

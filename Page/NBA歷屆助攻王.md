@@ -1,17 +1,8 @@
-[John_Stockton_-_Utah.jpg](https://zh.wikipedia.org/wiki/File:John_Stockton_-_Utah.jpg "fig:John_Stockton_-_Utah.jpg")共九次赢得助攻王称号\]\]
-[篮球运动中的](../Page/篮球.md "wikilink")[助攻是指队员向队友传球并直接促成](../Page/助攻.md "wikilink")[得分](https://zh.wikipedia.org/wiki/得分_\(篮球\) "wikilink")\[1\]。**助攻王**是指每个赛季平均每场比赛助攻次数最多的球员。[1946-47
-BAA赛季期间](https://zh.wikipedia.org/wiki/1946-47_BAA赛季 "wikilink")，[全美篮球协会](https://zh.wikipedia.org/wiki/全美篮球协会 "wikilink")（的前身）首次统计助攻数据并授予攻助王头衔\[2\]。从[1974-75
-NBA赛季开始](https://zh.wikipedia.org/wiki/1974-75_NBA赛季 "wikilink")，争夺助攻王头衔的球员在相应赛季要参加全部82场比赛中的至少70场，或是助攻次数不低于400\[3\]。从头衔设立到[1968-69
-NBA赛季止](../Page/1968-69_NBA赛季.md "wikilink")，助攻王都是以助攻总数判断，此后则是以每场比赛的助攻次数为准\[4\]。
+[John_Stockton_-_Utah.jpg](https://zh.wikipedia.org/wiki/File:John_Stockton_-_Utah.jpg "fig:John_Stockton_-_Utah.jpg")共九次赢得助攻王称号\]\] [篮球](../Page/篮球.md "wikilink")运动中的[助攻](../Page/助攻.md "wikilink")是指队员向队友传球并直接促成[得分](https://zh.wikipedia.org/wiki/得分_\(篮球\) "wikilink")\[1\]。**助攻王**是指每个赛季平均每场比赛助攻次数最多的球员。[1946-47 BAA赛季期间](https://zh.wikipedia.org/wiki/1946-47_BAA赛季 "wikilink")，[全美篮球协会](https://zh.wikipedia.org/wiki/全美篮球协会 "wikilink")（的前身）首次统计助攻数据并授予攻助王头衔\[2\]。从[1974-75 NBA赛季开始](https://zh.wikipedia.org/wiki/1974-75_NBA赛季 "wikilink")，争夺助攻王头衔的球员在相应赛季要参加全部82场比赛中的至少70场，或是助攻次数不低于400\[3\]。从头衔设立到[1968-69 NBA赛季止](../Page/1968-69_NBA赛季.md "wikilink")，助攻王都是以助攻总数判断，此后则是以每场比赛的助攻次数为准\[4\]。
 
-[约翰·斯托克顿在](https://zh.wikipedia.org/wiki/约翰·斯托克顿 "wikilink")[1990-91
-NBA赛季共助攻](https://zh.wikipedia.org/wiki/1990-91_NBA赛季 "wikilink")1164次，[1989-90
-NBA赛季平均每场比赛助攻](https://zh.wikipedia.org/wiki/1989-90_NBA赛季 "wikilink")14.54次，两项都创下历史纪录并保持至今\[5\]。[马克·杰克逊在](https://zh.wikipedia.org/wiki/马克·杰克逊_\(1965年出生\) "wikilink")[1987-88
-NBA赛季共助攻](https://zh.wikipedia.org/wiki/1987-88_NBA赛季 "wikilink")868次，平均每场比赛10.6次，至今保持着新手球员的最高纪录\[6\]\[7\]。所有现役球员中以[克里斯·保罗在](https://zh.wikipedia.org/wiki/克里斯·保罗 "wikilink")[2007-08
-NBA赛季的助攻次数最多](../Page/2007-08_NBA赛季.md "wikilink")，达925次，[拉简·朗多则是平均每场比赛助攻次数最多的球员](https://zh.wikipedia.org/wiki/拉简·朗多 "wikilink")，[2011-12
-NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink")11.7次。
+[约翰·斯托克顿在](https://zh.wikipedia.org/wiki/约翰·斯托克顿 "wikilink")[1990-91 NBA赛季共助攻](https://zh.wikipedia.org/wiki/1990-91_NBA赛季 "wikilink")1164次，[1989-90 NBA赛季平均每场比赛助攻](https://zh.wikipedia.org/wiki/1989-90_NBA赛季 "wikilink")14.54次，两项都创下历史纪录并保持至今\[5\]。[马克·杰克逊在](https://zh.wikipedia.org/wiki/马克·杰克逊_\(1965年出生\) "wikilink")[1987-88 NBA赛季共助攻](https://zh.wikipedia.org/wiki/1987-88_NBA赛季 "wikilink")868次，平均每场比赛10.6次，至今保持着新手球员的最高纪录\[6\]\[7\]。所有现役球员中以[克里斯·保罗在](https://zh.wikipedia.org/wiki/克里斯·保罗 "wikilink")[2007-08 NBA赛季的助攻次数最多](../Page/2007-08_NBA赛季.md "wikilink")，达925次，[拉简·朗多则是平均每场比赛助攻次数最多的球员](https://zh.wikipedia.org/wiki/拉简·朗多 "wikilink")，[2011-12 NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink")11.7次。
 
-斯托克顿是获助攻王称号次数最多的球员，共有九次。[鲍勃·库锡以八次紧随其后](../Page/鲍勃·库锡.md "wikilink")，然后是[奥斯卡·罗伯逊的六次](../Page/奥斯卡·罗伯逊.md "wikilink")。[贾森·基德和](https://zh.wikipedia.org/wiki/贾森·基德 "wikilink")[史蒂夫·纳什都曾五次成为助攻王](https://zh.wikipedia.org/wiki/史蒂夫·纳什 "wikilink")，[凯文·波特和](../Page/凯文·波特.md "wikilink")[魔术师约翰逊各有四次](../Page/魔术师约翰逊.md "wikilink")。此外只有[克里斯·保罗](https://zh.wikipedia.org/wiki/克里斯·保罗 "wikilink")、[安迪·菲利普](../Page/安迪·菲利普.md "wikilink")、[盖伊·罗杰斯和](../Page/盖伊·罗杰斯.md "wikilink")[拉简·朗多曾多次获助攻王称号](https://zh.wikipedia.org/wiki/拉简·朗多 "wikilink")。斯托克顿的九次助攻王称号是连续九年获得，同样超过其他球员。历史上共有三位球员在同一赛季拿下助攻王头衔的同时还带领球队赢得[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")，分别是库锡于[1957](https://zh.wikipedia.org/wiki/1957年NBA总决赛 "wikilink")、[1959和](https://zh.wikipedia.org/wiki/1959年NBA总决赛 "wikilink")[1960年带领](https://zh.wikipedia.org/wiki/1960年NBA总决赛 "wikilink")[波士顿凯尔特人打入决赛](../Page/波士顿凯尔特人.md "wikilink")，[杰里·韦斯特于](https://zh.wikipedia.org/wiki/杰里·韦斯特 "wikilink")[1972年带领](https://zh.wikipedia.org/wiki/1972年NBA总决赛 "wikilink")[洛杉矶湖人队进入决赛](../Page/洛杉矶湖人.md "wikilink")，魔术师约翰逊于[1987年带领洛杉矶湖人队打入决赛](https://zh.wikipedia.org/wiki/1987年NBA总决赛 "wikilink")。
+斯托克顿是获助攻王称号次数最多的球员，共有九次。[鲍勃·库锡](../Page/鲍勃·库锡.md "wikilink")以八次紧随其后，然后是[奥斯卡·罗伯逊](../Page/奥斯卡·罗伯逊.md "wikilink")的六次。[贾森·基德和](https://zh.wikipedia.org/wiki/贾森·基德 "wikilink")[史蒂夫·纳什都曾五次成为助攻王](https://zh.wikipedia.org/wiki/史蒂夫·纳什 "wikilink")，[凯文·波特](../Page/凯文·波特.md "wikilink")和[魔术师约翰逊](../Page/魔术师约翰逊.md "wikilink")各有四次。此外只有[克里斯·保罗](https://zh.wikipedia.org/wiki/克里斯·保罗 "wikilink")、[安迪·菲利普](../Page/安迪·菲利普.md "wikilink")、[盖伊·罗杰斯](../Page/盖伊·罗杰斯.md "wikilink")和[拉简·朗多曾多次获助攻王称号](https://zh.wikipedia.org/wiki/拉简·朗多 "wikilink")。斯托克顿的九次助攻王称号是连续九年获得，同样超过其他球员。历史上共有三位球员在同一赛季拿下助攻王头衔的同时还带领球队赢得[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")，分别是库锡于[1957](https://zh.wikipedia.org/wiki/1957年NBA总决赛 "wikilink")、[1959和](https://zh.wikipedia.org/wiki/1959年NBA总决赛 "wikilink")[1960年带领](https://zh.wikipedia.org/wiki/1960年NBA总决赛 "wikilink")[波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")打入决赛，[杰里·韦斯特于](https://zh.wikipedia.org/wiki/杰里·韦斯特 "wikilink")[1972年带领](https://zh.wikipedia.org/wiki/1972年NBA总决赛 "wikilink")[洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")队进入决赛，魔术师约翰逊于[1987年带领洛杉矶湖人队打入决赛](https://zh.wikipedia.org/wiki/1987年NBA总决赛 "wikilink")。
 
 ## 图例
 
@@ -42,13 +33,7 @@ NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink"
 
 ## 历届助攻王
 
-[Bob_Cousy_NYWTS.jpg](https://zh.wikipedia.org/wiki/File:Bob_Cousy_NYWTS.jpg "fig:Bob_Cousy_NYWTS.jpg")（左）是1953至1960年间连续八个赛季的助攻王\]\]
-[Oscar_Robertson_1960s.jpeg](https://zh.wikipedia.org/wiki/File:Oscar_Robertson_1960s.jpeg "fig:Oscar_Robertson_1960s.jpeg")曾于20世纪60年代六次夺得助攻王称号\]\]
-[Guy_Rodgers.jpg](https://zh.wikipedia.org/wiki/File:Guy_Rodgers.jpg "fig:Guy_Rodgers.jpg")于1963至1967年连续五次当选助攻王\]\]
-[Jerry_West_LA.jpg](https://zh.wikipedia.org/wiki/File:Jerry_West_LA.jpg "fig:Jerry_West_LA.jpg")是1972年赛季的助攻王\]\]
-[Magic_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Magic_Lipofsky.jpg "fig:Magic_Lipofsky.jpg")是1983、1984、1986和1987年赛季的助攻王\]\]
-[SteveNash3.jpg](https://zh.wikipedia.org/wiki/File:SteveNash3.jpg "fig:SteveNash3.jpg")是2005至2007年，以及2010至2011年的助攻王。\]\]
-[Chris_Paul.jpg](https://zh.wikipedia.org/wiki/File:Chris_Paul.jpg "fig:Chris_Paul.jpg")是2008至2009年和2014到2015年的助攻王\]\]
+[Bob_Cousy_NYWTS.jpg](https://zh.wikipedia.org/wiki/File:Bob_Cousy_NYWTS.jpg "fig:Bob_Cousy_NYWTS.jpg")（左）是1953至1960年间连续八个赛季的助攻王\]\] [Oscar_Robertson_1960s.jpeg](https://zh.wikipedia.org/wiki/File:Oscar_Robertson_1960s.jpeg "fig:Oscar_Robertson_1960s.jpeg")曾于20世纪60年代六次夺得助攻王称号\]\] [Guy_Rodgers.jpg](https://zh.wikipedia.org/wiki/File:Guy_Rodgers.jpg "fig:Guy_Rodgers.jpg")于1963至1967年连续五次当选助攻王\]\] [Jerry_West_LA.jpg](https://zh.wikipedia.org/wiki/File:Jerry_West_LA.jpg "fig:Jerry_West_LA.jpg")是1972年赛季的助攻王\]\] [Magic_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Magic_Lipofsky.jpg "fig:Magic_Lipofsky.jpg")是1983、1984、1986和1987年赛季的助攻王\]\] [SteveNash3.jpg](https://zh.wikipedia.org/wiki/File:SteveNash3.jpg "fig:SteveNash3.jpg")是2005至2007年，以及2010至2011年的助攻王。\]\] [Chris_Paul.jpg](https://zh.wikipedia.org/wiki/File:Chris_Paul.jpg "fig:Chris_Paul.jpg")是2008至2009年和2014到2015年的助攻王\]\]
 
 <table>
 <thead>
@@ -638,7 +623,7 @@ NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink"
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-04</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/贾森·基德" title="wikilink">贾森·基德</a>（5）{{#tag:ref|<a href="../Page/斯蒂芬·马布里.md" title="wikilink">斯蒂芬·马布里和</a><a href="https://zh.wikipedia.org/wiki/史蒂夫·纳什" title="wikilink">史蒂夫·纳什在</a><a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-2004 NBA赛季分别助攻</a>719和687次，均超过基德，但他们平均每场比赛的助攻次数为8.9和8.8次，不及基德[163]。|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/贾森·基德" title="wikilink">贾森·基德</a>（5）{{#tag:ref|<a href="../Page/斯蒂芬·马布里.md" title="wikilink">斯蒂芬·马布里</a>和<a href="https://zh.wikipedia.org/wiki/史蒂夫·纳什" title="wikilink">史蒂夫·纳什在</a><a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-2004 NBA赛季分别助攻</a>719和687次，均超过基德，但他们平均每场比赛的助攻次数为8.9和8.8次，不及基德[163]。|group="注"}}</p></td>
 <td></td>
 <td><p><a href="../Page/布鲁克林篮网.md" title="wikilink">布鲁克林篮网</a></p></td>
 <td><p>67</p></td>
@@ -728,7 +713,7 @@ NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink"
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2012-13_NBA赛季.md" title="wikilink">2012-13</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拉简·朗多" title="wikilink">拉简·朗多</a>^（2）{{#tag:ref|<a href="../Page/格雷维斯·瓦斯奎兹.md" title="wikilink">格雷维斯·瓦斯奎兹在</a><a href="../Page/2012-13_NBA赛季.md" title="wikilink">2012-2013 NBA赛季的助攻次数最多</a>，有704次，但平均每场助攻9次只排在第三位[190]。|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拉简·朗多" title="wikilink">拉简·朗多</a>^（2）{{#tag:ref|<a href="../Page/格雷维斯·瓦斯奎兹.md" title="wikilink">格雷维斯·瓦斯奎兹</a>在<a href="../Page/2012-13_NBA赛季.md" title="wikilink">2012-2013 NBA赛季的助攻次数最多</a>，有704次，但平均每场助攻9次只排在第三位[190]。|group="注"}}</p></td>
 <td></td>
 <td><p><a href="../Page/波士顿凯尔特人.md" title="wikilink">波士顿凯尔特人</a></p></td>
 <td><p>38</p></td>
@@ -738,7 +723,7 @@ NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink"
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2013-14_NBA赛季" title="wikilink">2013-14</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/克里斯·保罗" title="wikilink">克里斯·保罗</a>^（3）{{#tag:ref|<a href="https://zh.wikipedia.org/wiki/约翰·沃尔" title="wikilink">约翰·沃尔</a>、<a href="https://zh.wikipedia.org/wiki/里奇·卢比奥" title="wikilink">里奇·卢比奥和</a><a href="../Page/斯蒂芬·科里.md" title="wikilink">斯蒂芬·科里在</a><a href="https://zh.wikipedia.org/wiki/2013-14_NBA赛季" title="wikilink">2013-2014 NBA赛季分别助攻</a>721次、703次和666次，都超过<a href="https://zh.wikipedia.org/wiki/克里斯·保罗" title="wikilink">克里斯·保罗</a>，但他们平均每场的助攻次数分别是8.8、8.6和8.5，都不及保罗[193][194]。|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/克里斯·保罗" title="wikilink">克里斯·保罗</a>^（3）{{#tag:ref|<a href="https://zh.wikipedia.org/wiki/约翰·沃尔" title="wikilink">约翰·沃尔</a>、<a href="https://zh.wikipedia.org/wiki/里奇·卢比奥" title="wikilink">里奇·卢比奥和</a><a href="../Page/斯蒂芬·科里.md" title="wikilink">斯蒂芬·科里</a>在<a href="https://zh.wikipedia.org/wiki/2013-14_NBA赛季" title="wikilink">2013-2014 NBA赛季分别助攻</a>721次、703次和666次，都超过<a href="https://zh.wikipedia.org/wiki/克里斯·保罗" title="wikilink">克里斯·保罗</a>，但他们平均每场的助攻次数分别是8.8、8.6和8.5，都不及保罗[193][194]。|group="注"}}</p></td>
 <td></td>
 <td><p><a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a></p></td>
 <td><p>62</p></td>
@@ -893,8 +878,7 @@ NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink"
 
   - 特定
 
-[Category:NBA数据统计](https://zh.wikipedia.org/wiki/Category:NBA数据统计 "wikilink")
-[Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink")
+[Category:NBA数据统计](https://zh.wikipedia.org/wiki/Category:NBA数据统计 "wikilink") [Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink")
 
 1.
 

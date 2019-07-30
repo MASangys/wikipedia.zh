@@ -1,5 +1,4 @@
-**鄭丙熙**（，，）以藝名**G.O**（，）出道，為[韓國流行音樂](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")、演員，擅長歌唱及音樂創作，擔任[MBLAQ的主唱](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")。曾所屬經紀公司為J.Tune
-CAMP。
+**鄭丙熙**（，，）以藝名**G.O**（，）出道，為[韓國流行音樂](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")、演員，擅長歌唱及音樂創作，擔任[MBLAQ的主唱](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")。曾所屬經紀公司為J.Tune CAMP。
 
 2007年2月27日曾以男女混聲R\&B組合TYKEYS（）的將軍出道，公司因營運不良倒閉，團體已解散。\[1\]
 
@@ -156,8 +155,7 @@ Luna、G.NA、IU、奎利、G.O、MIN、栽經、<br />
 | MBLAQ                    | 《冬天》                                                       | 02.春夏秋，還有…                   | **G.O**,Mir,Retro Funky               | **G.O**,Retro Funky              |
 |                          |                                                            |                              |                                       |                                  |
 
-  - '''121231 MBC《KMF》─It's War(Remix Ver.)\[13\]舞台由G.O & Avengers
-    Team編曲。
+  - '''121231 MBC《KMF》─It's War(Remix Ver.)\[13\]舞台由G.O & Avengers Team編曲。
 
 '''
 
@@ -912,76 +910,36 @@ Luna、G.NA、IU、奎利、G.O、MIN、栽經、<br />
 
   -
 
-  - [CJENMMUSIC
-    Official](https://www.youtube.com/watch?v=ygCm0g85gSU&list=PLcOf-jV0-p1hMcgTdBmzf4POeC7U5xCWu)
+  - [CJENMMUSIC Official](https://www.youtube.com/watch?v=ygCm0g85gSU&list=PLcOf-jV0-p1hMcgTdBmzf4POeC7U5xCWu)
 
-  - [jtunecamp
-    YouTube](https://www.youtube.com/watch?v=xUykORxl2S0&list=PLAfMkmcYchHcaNRtFHTvhDNtKshhdZ-xK)
+  - [jtunecamp YouTube](https://www.youtube.com/watch?v=xUykORxl2S0&list=PLAfMkmcYchHcaNRtFHTvhDNtKshhdZ-xK)
 
   -
   -
   - [G.O](http://afreecatv.com/gotv116)的afreecatv帳戶
 
-[Category:1987年出生](https://zh.wikipedia.org/wiki/Category:1987年出生 "wikilink")
-[Category:日語歌手](https://zh.wikipedia.org/wiki/Category:日語歌手 "wikilink")
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink")
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink")
-[Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink")
-[Category:韓國音樂劇演員](https://zh.wikipedia.org/wiki/Category:韓國音樂劇演員 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓國節奏藍調歌手](https://zh.wikipedia.org/wiki/Category:韓國節奏藍調歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:慶尚南道出身人物](https://zh.wikipedia.org/wiki/Category:慶尚南道出身人物 "wikilink")
-[Category:鄭姓](https://zh.wikipedia.org/wiki/Category:鄭姓 "wikilink")
+[Category:1987年出生](https://zh.wikipedia.org/wiki/Category:1987年出生 "wikilink") [Category:日語歌手](https://zh.wikipedia.org/wiki/Category:日語歌手 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink") [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink") [Category:韓國音樂劇演員](https://zh.wikipedia.org/wiki/Category:韓國音樂劇演員 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓國節奏藍調歌手](https://zh.wikipedia.org/wiki/Category:韓國節奏藍調歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:慶尚南道出身人物](https://zh.wikipedia.org/wiki/Category:慶尚南道出身人物 "wikilink") [Category:鄭姓](https://zh.wikipedia.org/wiki/Category:鄭姓 "wikilink")
 
-1.  [MBLAQ G.O
-    "Tykeys時期曾經想死過"](http://black-choco.blogspot.tw/2011/06/mblaq-go-tykeys.html)，umiko-BLACK
-    CHOCO，金秀珍-Money Today 。2011年6月24日。
-2.  [盤點：留鬍子的K-pop男偶像](http://cncdn.kpopstarz.com/trad/articles/18814/20130801/gdragon-leeteuk-seulong-shiwon-heechul.htm)
-    ，Polaris Ma，kpopstarz。2013年8月1日。
-3.  [MBLAQ
-    G.O憑音樂劇《西便制》斬獲新人獎](http://www.koreastardaily.com/tc/news/42724)，韓星網
-    。2014年6月2日。
-4.  [MBLAQ(엠블랙) - G.O 내 꿈에서라도
-    M/V](https://www.youtube.com/watch?v=dkY5p_5gfBM)，youtube，jtunecamp。2011年7月3日。
-5.  [G.O (지오) - Play That
-    Song](https://www.youtube.com/watch?v=_Id-GKtVIJ0)，youtube，CJENMMUSIC
-    Official。2013年11月19日。
-6.  [지오(G.O) 'After Spring' - After
-    Spring](https://www.youtube.com/watch?v=uUhKTAIAZXc)，youtube，DanalEntertainment。2018年4月30日。
-7.  [지오(G.O) '요즘난니꿈을꾸곤해' -
-    요즘난니꿈을꾸곤해](https://www.youtube.com/watch?v=o9Ho_-RBt-A)，youtube，DanalEntertainment。2018年8月21日。
-8.  [아이리스Ⅱ (IRISⅡ) OST Part 5 지오&미르 MBLAQ - 바보같은 나 (What a fool I am)
-    MV](https://www.youtube.com/watch?v=Tp7FfrIrVj0)，youtube。2013年3月19日。
-9.  [(Teaser) 아웃사이더 (Outsider) - Bye U (feat. G.O of
-    MBLAQ)](https://www.youtube.com/watch?v=nUSLeNJHS3A)，youtube，Sony
-    Music Korea。2013年7月19日。
-10. [Damiano(다미아노) _ No Diet(살 빼지마) (Feat. G.O(지오) Of
-    MBLAQ)Teaser](https://www.youtube.com/watch?v=Sk8a1P0QqhY)，youtube，
-    1theK (former LOEN MUSIC) 。2014年9月3日。
+1.  [MBLAQ G.O "Tykeys時期曾經想死過"](http://black-choco.blogspot.tw/2011/06/mblaq-go-tykeys.html)，umiko-BLACK CHOCO，金秀珍-Money Today 。2011年6月24日。
+2.  [盤點：留鬍子的K-pop男偶像](http://cncdn.kpopstarz.com/trad/articles/18814/20130801/gdragon-leeteuk-seulong-shiwon-heechul.htm) ，Polaris Ma，kpopstarz。2013年8月1日。
+3.  [MBLAQ G.O憑音樂劇《西便制》斬獲新人獎](http://www.koreastardaily.com/tc/news/42724)，韓星網 。2014年6月2日。
+4.  [MBLAQ(엠블랙) - G.O 내 꿈에서라도 M/V](https://www.youtube.com/watch?v=dkY5p_5gfBM)，youtube，jtunecamp。2011年7月3日。
+5.  [G.O (지오) - Play That Song](https://www.youtube.com/watch?v=_Id-GKtVIJ0)，youtube，CJENMMUSIC Official。2013年11月19日。
+6.  [지오(G.O) 'After Spring' - After Spring](https://www.youtube.com/watch?v=uUhKTAIAZXc)，youtube，DanalEntertainment。2018年4月30日。
+7.  [지오(G.O) '요즘난니꿈을꾸곤해' - 요즘난니꿈을꾸곤해](https://www.youtube.com/watch?v=o9Ho_-RBt-A)，youtube，DanalEntertainment。2018年8月21日。
+8.  [아이리스Ⅱ (IRISⅡ) OST Part 5 지오&미르 MBLAQ - 바보같은 나 (What a fool I am) MV](https://www.youtube.com/watch?v=Tp7FfrIrVj0)，youtube。2013年3月19日。
+9.  [(Teaser) 아웃사이더 (Outsider) - Bye U (feat. G.O of MBLAQ)](https://www.youtube.com/watch?v=nUSLeNJHS3A)，youtube，Sony Music Korea。2013年7月19日。
+10. [Damiano(다미아노) _ No Diet(살 빼지마) (Feat. G.O(지오) Of MBLAQ)Teaser](https://www.youtube.com/watch?v=Sk8a1P0QqhY)，youtube， 1theK (former LOEN MUSIC) 。2014年9月3日。
 11. [KOMCA](http://www.komca.or.kr/eng/index_eng.jsp) 。
 12. [鄭丙熙。](http://flotheay.blog.fc2.com/blog-entry-5.html)，fc2。2013年6月22日。
-13. [Epik High VS MBLAQ - 에픽하이 VS 엠블랙,
-    KMF 2012](https://www.youtube.com/watch?v=lVQKNFEbL1w)，youtube。2013年1月2日。。
-14. [韓男團MBLAQ成員G.O確定出演韓劇《幽靈》(圖)](http://big5.china.com.cn/info/movies/2012-04/27/content_25257922.htm)
-    ，新浪娛樂。2012年4月27日。
-15. [G.O 加入戲劇「幽靈」](http://kpopn.com/2012/04/27/119773/)，sportschosun
-    ，太咪-kpopn。2012年4月27日。
+13. [Epik High VS MBLAQ - 에픽하이 VS 엠블랙, KMF 2012](https://www.youtube.com/watch?v=lVQKNFEbL1w)，youtube。2013年1月2日。。
+14. [韓男團MBLAQ成員G.O確定出演韓劇《幽靈》(圖)](http://big5.china.com.cn/info/movies/2012-04/27/content_25257922.htm) ，新浪娛樂。2012年4月27日。
+15. [G.O 加入戲劇「幽靈」](http://kpopn.com/2012/04/27/119773/)，sportschosun ，太咪-kpopn。2012年4月27日。
 16. [一絲的純情](http://kpopn.com/2013/03/02/166625/)，百度 ，綺-kpopn。 2013年3月2日。
-17. [G.O、佑麗將合作演出戲劇](http://kpopn.com/2013/04/16/173256/)，allkpop
-    ，CHI-kpopn。 2013年4月16日。
+17. [G.O、佑麗將合作演出戲劇](http://kpopn.com/2013/04/16/173256/)，allkpop ，CHI-kpopn。 2013年4月16日。
 18.  [西便制 音樂劇官網](http://www.musicalspj.com/) ，musicalspj。2014年3月20日。
-19.  [MBLAQ's G.O cast in his third musical 'The Kingdom of the
-    Winds'](http://www.allkpop.com/article/2014/04/mblaqs-go-cast-in-his-third-musical-the-kingdom-of-the-winds)，allkpop。2014年4月17日。
-20. [MBLAQ G.O - If ain't got you (
-    Live).avi](https://www.youtube.com/watch?v=QyWFJmsd-GI)，youtube。2013年12月3日。
-21. [G.O\&NASSUN - O-IWI-O Music video (Full
-    ver.)](https://www.youtube.com/watch?v=MOxKkp-KS8s)，youtube，HappyFace
-    Entertainment。2010年9月2日。
-22. [Ailee(에일리) _ I will show
-    you(보여줄게)](https://www.youtube.com/watch?v=MCEcWcIww5k)，youtube。2012年10月15日。
-23.  [MBLAQ’s G.O receives "Best Newcomer Actor" award at "2014 8th The
-    Musical
-    Award"](http://www.ttwigo.com/idols/mblaq/post/mblaqs-g-o-receives-best-newcomer-actor-award-at-2014-8th-the-musical-award/)，ttwigo。2014年6月30日。
+19.  [MBLAQ's G.O cast in his third musical 'The Kingdom of the Winds'](http://www.allkpop.com/article/2014/04/mblaqs-go-cast-in-his-third-musical-the-kingdom-of-the-winds)，allkpop。2014年4月17日。
+20. [MBLAQ G.O - If ain't got you ( Live).avi](https://www.youtube.com/watch?v=QyWFJmsd-GI)，youtube。2013年12月3日。
+21. [G.O\&NASSUN - O-IWI-O Music video (Full ver.)](https://www.youtube.com/watch?v=MOxKkp-KS8s)，youtube，HappyFace Entertainment。2010年9月2日。
+22. [Ailee(에일리) _ I will show you(보여줄게)](https://www.youtube.com/watch?v=MCEcWcIww5k)，youtube。2012年10月15日。
+23.  [MBLAQ’s G.O receives "Best Newcomer Actor" award at "2014 8th The Musical Award"](http://www.ttwigo.com/idols/mblaq/post/mblaqs-g-o-receives-best-newcomer-actor-award-at-2014-8th-the-musical-award/)，ttwigo。2014年6月30日。

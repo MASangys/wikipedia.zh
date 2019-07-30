@@ -1,11 +1,6 @@
-**巴诺书店Nook**（英语：）是[美国书籍销售公司](../Page/美国.md "wikilink")[巴诺书店推出的](https://zh.wikipedia.org/wiki/巴诺书店 "wikilink")[电子书阅读器品牌](https://zh.wikipedia.org/wiki/电子书 "wikilink")\[1\]，目前推出的所有阅读器均采用[Android系统](../Page/Android.md "wikilink")。
+**巴诺书店Nook**（英语：）是[美国](../Page/美国.md "wikilink")书籍销售公司[巴诺书店推出的](https://zh.wikipedia.org/wiki/巴诺书店 "wikilink")[电子书阅读器品牌](https://zh.wikipedia.org/wiki/电子书 "wikilink")\[1\]，目前推出的所有阅读器均采用[Android](../Page/Android.md "wikilink")系统。
 
-第一代Nook阅读器于2009年10月公布，并于次月发售\[2\]。第一代Nook拥有6[英寸的](https://zh.wikipedia.org/wiki/英寸 "wikilink")[电子墨水显示屏](https://zh.wikipedia.org/wiki/电子墨水 "wikilink")\[3\]，还有一款独立的小型彩色[液晶屏幕](../Page/液晶.md "wikilink")，用于输入和操作\[4\]，支持[Wi-Fi和](../Page/Wi-Fi.md "wikilink")[AT\&T](../Page/AT&T.md "wikilink")[3G网络](../Page/3G.md "wikilink")，后来又发售了仅支持[Wi-Fi的版本](../Page/Wi-Fi.md "wikilink")。2010年11月，巴诺书店发售了采用彩色液晶屏的阅读器，名为[Nook
-Color](https://zh.wikipedia.org/wiki/Nook_Color "wikilink")。2011年6月，第二款[电子墨水屏幕阅读器](https://zh.wikipedia.org/wiki/电子墨水 "wikilink")[Nook
-Simple
-Touch问世](https://zh.wikipedia.org/wiki/Nook_Simple_Touch "wikilink")，同年11月又发售了Nook
-Color的后续型号[Nook
-Tablet](https://zh.wikipedia.org/wiki/Nook_Tablet "wikilink")\[5\]。由於Nook及電子書業務虧損嚴重，邦諾書店於2013年決定停止生產Nook系列的[平板電腦](../Page/平板電腦.md "wikilink")。
+第一代Nook阅读器于2009年10月公布，并于次月发售\[2\]。第一代Nook拥有6[英寸的](https://zh.wikipedia.org/wiki/英寸 "wikilink")[电子墨水显示屏](https://zh.wikipedia.org/wiki/电子墨水 "wikilink")\[3\]，还有一款独立的小型彩色[液晶](../Page/液晶.md "wikilink")屏幕，用于输入和操作\[4\]，支持[Wi-Fi](../Page/Wi-Fi.md "wikilink")和[AT\&T](../Page/AT&T.md "wikilink")[3G](../Page/3G.md "wikilink")网络，后来又发售了仅支持[Wi-Fi](../Page/Wi-Fi.md "wikilink")的版本。2010年11月，巴诺书店发售了采用彩色液晶屏的阅读器，名为[Nook Color](https://zh.wikipedia.org/wiki/Nook_Color "wikilink")。2011年6月，第二款[电子墨水屏幕阅读器](https://zh.wikipedia.org/wiki/电子墨水 "wikilink")[Nook Simple Touch问世](https://zh.wikipedia.org/wiki/Nook_Simple_Touch "wikilink")，同年11月又发售了Nook Color的后续型号[Nook Tablet](https://zh.wikipedia.org/wiki/Nook_Tablet "wikilink")\[5\]。由於Nook及電子書業務虧損嚴重，邦諾書店於2013年決定停止生產Nook系列的[平板電腦](../Page/平板電腦.md "wikilink")。
 
 ## 历史
 
@@ -161,8 +156,7 @@ Tablet](https://zh.wikipedia.org/wiki/Nook_Tablet "wikilink")\[5\]。由於Nook�
   - [电子墨水](https://zh.wikipedia.org/wiki/电子墨水 "wikilink")
   - [Kindle](../Page/Kindle.md "wikilink")
   - **Nook**
-  - [Nook Simple
-    Touch](https://zh.wikipedia.org/wiki/Nook_Simple_Touch "wikilink")
+  - [Nook Simple Touch](https://zh.wikipedia.org/wiki/Nook_Simple_Touch "wikilink")
   - [Nook Color](https://zh.wikipedia.org/wiki/Nook_Color "wikilink")
   - [Nook Tablet](https://zh.wikipedia.org/wiki/Nook_Tablet "wikilink")
 
@@ -173,12 +167,9 @@ Tablet](https://zh.wikipedia.org/wiki/Nook_Tablet "wikilink")\[5\]。由於Nook�
   -
   - [Nook网络杂志](https://web.archive.org/web/20111127192855/http://nook.im/)
 
-[de:Barnes & Noble\#NOOK
-E-Book-Reader](https://zh.wikipedia.org/wiki/de:Barnes_&_Noble#NOOK_E-Book-Reader "wikilink")
+[de:Barnes & Noble\#NOOK E-Book-Reader](https://zh.wikipedia.org/wiki/de:Barnes_&_Noble#NOOK_E-Book-Reader "wikilink")
 
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:電子書](https://zh.wikipedia.org/wiki/Category:電子書 "wikilink")
-[Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:電子書](https://zh.wikipedia.org/wiki/Category:電子書 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
 
 1.
 2.

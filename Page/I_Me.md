@@ -1,6 +1,4 @@
-**i
-Me**是[天娱传媒于](../Page/天娱传媒.md "wikilink")2010年推出的一个跨国女子团体，由天娱传媒、韩国[DOREMI
-MUSIC](https://zh.wikipedia.org/wiki/DOREMI_MUSIC "wikilink")、泰国[正大集团三大娱乐公司联手打造](../Page/正大集团.md "wikilink")，三名中国籍成员[李雨奚](../Page/李雨奚.md "wikilink")、[刘美含](../Page/刘美含.md "wikilink")、[易易紫](../Page/易易紫.md "wikilink")，一名泰国籍成员和一名韩国籍成员[泫京共同组成](../Page/沈泫京.md "wikilink")。组合主打90后“蜜女”路线，因此被昵称为“蜜团”。出道至今已发行一张EP《[哎咿呀](../Page/哎咿呀.md "wikilink")》。
+**i Me**是[天娱传媒](../Page/天娱传媒.md "wikilink")于2010年推出的一个跨国女子团体，由天娱传媒、韩国[DOREMI MUSIC](https://zh.wikipedia.org/wiki/DOREMI_MUSIC "wikilink")、泰国[正大集团](../Page/正大集团.md "wikilink")三大娱乐公司联手打造，三名中国籍成员[李雨奚](../Page/李雨奚.md "wikilink")、[刘美含](../Page/刘美含.md "wikilink")、[易易紫](../Page/易易紫.md "wikilink")，一名泰国籍成员和一名韩国籍成员[泫京共同组成](../Page/沈泫京.md "wikilink")。组合主打90后“蜜女”路线，因此被昵称为“蜜团”。出道至今已发行一张EP《[哎咿呀](../Page/哎咿呀.md "wikilink")》。
 
 ## 团名由来
 
@@ -47,7 +45,7 @@ Nalintara Hohler</p></td>
 <td><p>冷艳美女</p></td>
 <td><p>1988.10.5</p></td>
 <td><p>主唱、高音</p></td>
-<td><p>前<a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a>、<a href="../Page/DSP媒體.md" title="wikilink">DSP媒體练习生</a></p></td>
+<td><p>前<a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a>、<a href="../Page/DSP媒體.md" title="wikilink">DSP媒體</a>练习生</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -90,14 +88,11 @@ Nalintara Hohler</p></td>
 
 ### 出道和发展
 
-快女比赛结束后，新组合的人选众说纷纭。在2009年12月31日的[湖南卫视跨年演唱会上](../Page/湖南卫视.md "wikilink")，包括李雨奚、刘美含在内的五名快女以“Super
-Girl”的名义亮相表演节目，曾一度被认为是新组合的人选。不过最后五人中仅有两人入选。
+快女比赛结束后，新组合的人选众说纷纭。在2009年12月31日的[湖南卫视](../Page/湖南卫视.md "wikilink")跨年演唱会上，包括李雨奚、刘美含在内的五名快女以“Super Girl”的名义亮相表演节目，曾一度被认为是新组合的人选。不过最后五人中仅有两人入选。
 
 2010年2月6日，入选新组合的李雨奚、刘美含和易易紫三人前往韩国与两名外籍成员会合，开始进行声乐和舞蹈等各方面的训练，期间成员中的刘美含曾传出受伤的消息\[2\]。
 
-5月6日，三名中国成员结束集训回国，同时新组合正式定名为“i
-Me”，而两名外籍成员那琳和泫京亦正式曝光\[3\]。5月27日，组合推出首支单曲《哎咿呀》，之后连续多期在湖南卫视王牌综艺节目“[天天向上](../Page/天天向上.md "wikilink")”中亮相，制造了巨大的关注度。6月30日，i
-Me在[北京举行新闻发布会](https://zh.wikipedia.org/wiki/北京 "wikilink")，正式宣布出道，并推出EP《[哎咿呀](../Page/哎咿呀.md "wikilink")》\[4\]。凭借这张EP，出道仅数月的她们便夺得多个新人奖项。
+5月6日，三名中国成员结束集训回国，同时新组合正式定名为“i Me”，而两名外籍成员那琳和泫京亦正式曝光\[3\]。5月27日，组合推出首支单曲《哎咿呀》，之后连续多期在湖南卫视王牌综艺节目“[天天向上](../Page/天天向上.md "wikilink")”中亮相，制造了巨大的关注度。6月30日，i Me在[北京举行新闻发布会](https://zh.wikipedia.org/wiki/北京 "wikilink")，正式宣布出道，并推出EP《[哎咿呀](../Page/哎咿呀.md "wikilink")》\[4\]。凭借这张EP，出道仅数月的她们便夺得多个新人奖项。
 
 由于是跨国组合，i Me积极发展海外市场，于当年8月底和10月初两次赴泰国宣传，期间曾担任AF-Single Ladies演唱会嘉宾。
 
@@ -106,8 +101,7 @@ Me在[北京举行新闻发布会](https://zh.wikipedia.org/wiki/北京 "wikilin
 ### EP
 
   - 2010年6月26日，《[哎咿呀](../Page/哎咿呀.md "wikilink")》
-  - 2012年2月15日，泰文單曲《[Help
-    me\!](https://zh.wikipedia.org/wiki/Help_me! "wikilink")》
+  - 2012年2月15日，泰文單曲《[Help me\!](https://zh.wikipedia.org/wiki/Help_me! "wikilink")》
 
 ### MV
 
@@ -116,8 +110,7 @@ Me在[北京举行新闻发布会](https://zh.wikipedia.org/wiki/北京 "wikilin
 
 ### 电影
 
-  - 2011年12月1日，《[开心魔法](https://zh.wikipedia.org/wiki/开心魔法 "wikilink")》饰
-    东山排球队队员
+  - 2011年12月1日，《[开心魔法](https://zh.wikipedia.org/wiki/开心魔法 "wikilink")》饰 东山排球队队员
 
 ### 电视剧
 
@@ -146,10 +139,7 @@ Me在[北京举行新闻发布会](https://zh.wikipedia.org/wiki/北京 "wikilin
 
 ## 参考文献
 
-[Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink")
-[Category:2010年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2010年成立的音乐团体 "wikilink")
-[Category:湖南卫视主持人](https://zh.wikipedia.org/wiki/Category:湖南卫视主持人 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink") [Category:2010年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2010年成立的音乐团体 "wikilink") [Category:湖南卫视主持人](https://zh.wikipedia.org/wiki/Category:湖南卫视主持人 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
 1.
 2.

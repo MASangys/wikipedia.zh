@@ -1,7 +1,6 @@
-**2005年Oricon單曲週榜冠軍作品列表**列出2005年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2005年Oricon單曲週榜冠軍作品列表**列出2005年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
-全年度共有43首冠軍單曲誕生，其中[KinKi
-Kids的](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")《[Anniversary](../Page/Anniversary.md "wikilink")》蟬聯時間最長（3週）。
+全年度共有43首冠軍單曲誕生，其中[KinKi Kids的](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")《[Anniversary](../Page/Anniversary.md "wikilink")》蟬聯時間最長（3週）。
 
 ## 冠軍單曲列表
 
@@ -386,5 +385,4 @@ Kids的](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")《[Anniversary](..
 
   - [2005年每週公信榜統計數據](https://web.archive.org/web/20100929215307/http://musictvprogram.com/oricon2005.html)
 
-[Category:2005年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:2005年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")

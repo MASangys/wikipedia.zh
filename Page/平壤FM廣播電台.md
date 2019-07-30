@@ -8,8 +8,7 @@
 
 ## 覆蓋範圍
 
-  - [平壤市](https://zh.wikipedia.org/wiki/平壤市 "wikilink")
-    105.2MHz（20kw）、90.1MHz（2kw）
+  - [平壤市](https://zh.wikipedia.org/wiki/平壤市 "wikilink") 105.2MHz（20kw）、90.1MHz（2kw）
   - [咸興市](../Page/咸興市.md "wikilink") 106.1MHz（20kw）
   - [清津市](../Page/清津市.md "wikilink") 105.5MHz（10kw）
   - [海州市](../Page/海州市.md "wikilink") 103.7MHz（10kw）
@@ -33,6 +32,4 @@
 
 [Category:朝鮮民主主義人民共和國廣播電台](https://zh.wikipedia.org/wiki/Category:朝鮮民主主義人民共和國廣播電台 "wikilink")
 
-1.  Interval Signal Online
-    [1](http://www.intervalsignals.net/sounds/kre-pyongyangfm_160811.mp3)
-    平壤FM广播电台开始曲
+1.  Interval Signal Online [1](http://www.intervalsignals.net/sounds/kre-pyongyangfm_160811.mp3) 平壤FM广播电台开始曲

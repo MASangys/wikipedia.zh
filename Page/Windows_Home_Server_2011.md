@@ -1,9 +1,4 @@
-**Windows Home Server 2011**
-是[微軟公司所發行的](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[Windows
-Home
-Server家用伺服器系列版本](../Page/Windows_Home_Server.md "wikilink")，開發代號'Vail'。於2011年4月5日上市。這是繼[Windows
-Server 2008
-R2之後](../Page/Windows_Server_2008_R2.md "wikilink")，第二個僅支持64位元的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
+**Windows Home Server 2011** 是[微軟公司所發行的](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[Windows Home Server家用伺服器系列版本](../Page/Windows_Home_Server.md "wikilink")，開發代號'Vail'。於2011年4月5日上市。這是繼[Windows Server 2008 R2之後](../Page/Windows_Server_2008_R2.md "wikilink")，第二個僅支持64位元的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
 ## 系统需求
 
@@ -21,6 +16,4 @@ Windows Home Server 2011的系统需求：
 
 </div>
 
-[Category:Windows服务器](https://zh.wikipedia.org/wiki/Category:Windows服务器 "wikilink")
-[Category:Windows_7](https://zh.wikipedia.org/wiki/Category:Windows_7 "wikilink")
-[Category:Windows_NT](https://zh.wikipedia.org/wiki/Category:Windows_NT "wikilink")
+[Category:Windows服务器](https://zh.wikipedia.org/wiki/Category:Windows服务器 "wikilink") [Category:Windows_7](https://zh.wikipedia.org/wiki/Category:Windows_7 "wikilink") [Category:Windows_NT](https://zh.wikipedia.org/wiki/Category:Windows_NT "wikilink")

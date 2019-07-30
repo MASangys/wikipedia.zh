@@ -6,8 +6,7 @@
 
   - 2006年4月在[S1公司拍攝首部AV作品](https://zh.wikipedia.org/wiki/S1 "wikilink")『新人×ギリギリモザイク』。
   - 2008年3月28日因身體狀況欠佳暫停拍攝AV作品\[2\]。同年5月15日，在部落格上發表復出AV界的宣言\[3\]。
-  - 2013年9月在個人[Twitter上宣布](../Page/Twitter.md "wikilink")，自己要同時成為[MOODYZ跟](../Page/MOODYZ.md "wikilink")[Wanz
-    Factory](https://zh.wikipedia.org/wiki/Wanz_Factory "wikilink")2家片商的專屬女優\[4\]。
+  - 2013年9月在個人[Twitter](../Page/Twitter.md "wikilink")上宣布，自己要同時成為[MOODYZ](../Page/MOODYZ.md "wikilink")跟[Wanz Factory](https://zh.wikipedia.org/wiki/Wanz_Factory "wikilink")2家片商的專屬女優\[4\]。
 
 ## 作品
 
@@ -820,8 +819,7 @@
 ### 原創影片
 
   - くりいむレモン いけないマコちゃん（フルメディア、2007年10月26日発売） - **主演・マコ役**
-  - エミリ（[アースゲート](https://web.archive.org/web/20130909201912/http://eh-gate.jp/index.html)、2012年6月3日発売）
-    - **主演・恵美里役**
+  - エミリ（[アースゲート](https://web.archive.org/web/20130909201912/http://eh-gate.jp/index.html)、2012年6月3日発売） - **主演・恵美里役**
 
 ### 其他影片
 
@@ -837,10 +835,8 @@
 
 ### 交換卡片
 
-  - AVC ジューシーハニー Vol.14（2010年9月25日、ミント） -
-    並有設置[希志愛野](../Page/希志愛野.md "wikilink")、[明日花綺羅](../Page/明日花綺羅.md "wikilink")
-  - AVC ジューシーハニー Vol.24（2013年11月23日、ミント） -
-    並有設置[佐藤遥希](../Page/佐藤遥希.md "wikilink")、[上原亞衣](../Page/上原亞衣.md "wikilink")
+  - AVC ジューシーハニー Vol.14（2010年9月25日、ミント） - 並有設置[希志愛野](../Page/希志愛野.md "wikilink")、[明日花綺羅](../Page/明日花綺羅.md "wikilink")
+  - AVC ジューシーハニー Vol.24（2013年11月23日、ミント） - 並有設置[佐藤遥希](../Page/佐藤遥希.md "wikilink")、[上原亞衣](../Page/上原亞衣.md "wikilink")
 
 ## 演出
 
@@ -850,13 +846,11 @@
 
 ### 電視劇
 
-  - \*  (特別篇) 08
-    大手銀行派遣女子行員が仕掛けた罠（2008年2月2日、[朝日電視台](../Page/朝日電視台.md "wikilink")）
+  - \*  (特別篇) 08 大手銀行派遣女子行員が仕掛けた罠（2008年2月2日、[朝日電視台](../Page/朝日電視台.md "wikilink")）
 
 ### 電視
 
-  - [旅ヌード](https://zh.wikipedia.org/wiki/旅ヌード "wikilink")（2014年2月5日 ‐
-    2月26日、[東京電視台](../Page/東京電視台.md "wikilink")）
+  - [旅ヌード](https://zh.wikipedia.org/wiki/旅ヌード "wikilink")（2014年2月5日 ‐ 2月26日、[東京電視台](../Page/東京電視台.md "wikilink")）
 
 ### 網站
 
@@ -867,9 +861,7 @@
 
 ## 書籍
 
-  - ん:
-    つぼみ初フォトエッセイ（2013年12月12日、[徳間書店](https://zh.wikipedia.org/wiki/徳間書店 "wikilink")）
-    ISBN 4198637202
+  - ん: つぼみ初フォトエッセイ（2013年12月12日、[徳間書店](https://zh.wikipedia.org/wiki/徳間書店 "wikilink")） ISBN 4198637202
 
 ### 寫真集
 
@@ -893,16 +885,7 @@
 
   - [TSUBOMI公式網站 (單曲「夢花火」試聽)](http://www.tsubomi-sunrise.jp/)
 
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:1987年出生](https://zh.wikipedia.org/wiki/Category:1987年出生 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink")
-[Category:S1女優](https://zh.wikipedia.org/wiki/Category:S1女優 "wikilink")
-[Category:Prestige女優](https://zh.wikipedia.org/wiki/Category:Prestige女優 "wikilink")
-[Category:H.m.p女優](https://zh.wikipedia.org/wiki/Category:H.m.p女優 "wikilink")
-[Category:Pink_Puncher女優](https://zh.wikipedia.org/wiki/Category:Pink_Puncher女優 "wikilink")
-[Category:MOODYZ女優](https://zh.wikipedia.org/wiki/Category:MOODYZ女優 "wikilink")
-[Category:山口縣出身人物](https://zh.wikipedia.org/wiki/Category:山口縣出身人物 "wikilink")
+[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:1987年出生](https://zh.wikipedia.org/wiki/Category:1987年出生 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink") [Category:S1女優](https://zh.wikipedia.org/wiki/Category:S1女優 "wikilink") [Category:Prestige女優](https://zh.wikipedia.org/wiki/Category:Prestige女優 "wikilink") [Category:H.m.p女優](https://zh.wikipedia.org/wiki/Category:H.m.p女優 "wikilink") [Category:Pink_Puncher女優](https://zh.wikipedia.org/wiki/Category:Pink_Puncher女優 "wikilink") [Category:MOODYZ女優](https://zh.wikipedia.org/wiki/Category:MOODYZ女優 "wikilink") [Category:山口縣出身人物](https://zh.wikipedia.org/wiki/Category:山口縣出身人物 "wikilink")
 
 1.  目前中文社群習慣稱呼為**Tsubomi**或**小蕾**
 2.

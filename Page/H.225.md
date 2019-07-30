@@ -1,9 +1,6 @@
-**H.225.0**是[H.323協議的一部分](../Page/H.323.md "wikilink")。
+**H.225.0**是[H.323](../Page/H.323.md "wikilink")協議的一部分。
 
-H.225又可分成[Q.931及](../Page/Q.931.md "wikilink")[RAS控制](https://zh.wikipedia.org/wiki/RAS "wikilink")（Registration,
-Admission and
-Status）兩大功能。H.323協定中融合H.225和Q.931標準，可提供呼叫訊息功能。H.323定義了四種類型的原語（primitive）：請求、指示、響應和確認。H.225定義了Q.931
-的標準規格。
+H.225又可分成[Q.931](../Page/Q.931.md "wikilink")及[RAS控制](https://zh.wikipedia.org/wiki/RAS "wikilink")（Registration, Admission and Status）兩大功能。H.323協定中融合H.225和Q.931標準，可提供呼叫訊息功能。H.323定義了四種類型的原語（primitive）：請求、指示、響應和確認。H.225定義了Q.931 的標準規格。
 
 H.225.0的主要目標是定義的消息和程序（messages and procedures）：
 

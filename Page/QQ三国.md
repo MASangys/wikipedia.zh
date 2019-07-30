@@ -1,4 +1,4 @@
-《**QQ三国**》/《新QQ三国》是[腾讯公司开发并且运营的一款以](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")[三国题材为游戏背景的](../Page/三国.md "wikilink")[2D横版类](https://zh.wikipedia.org/wiki/2D "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG）。
+《**QQ三国**》/《新QQ三国》是[腾讯公司开发并且运营的一款以](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")[三国](../Page/三国.md "wikilink")题材为游戏背景的[2D横版类](https://zh.wikipedia.org/wiki/2D "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG）。
 
 ## 玩法
 
@@ -19,7 +19,4 @@
 ## 外部链接
 
   -
-[Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")

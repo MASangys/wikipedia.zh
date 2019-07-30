@@ -1,4 +1,4 @@
-《**宇宙戰艦大和號III**》（原題：****；英文題：****）是[日本](../Page/日本.md "wikilink")[讀賣電視台製作的科幻](../Page/讀賣電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，並於1980年10月11日至1981年4月4日之間每週六晚上19：00至19：30播映，同時也是[宇宙戰艦大和號系列的第三部電視作品](../Page/宇宙戰艦大和號.md "wikilink")。
+《**宇宙戰艦大和號III**》（原題：****；英文題：****）是[日本](../Page/日本.md "wikilink")[讀賣電視台](../Page/讀賣電視台.md "wikilink")製作的科幻[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，並於1980年10月11日至1981年4月4日之間每週六晚上19：00至19：30播映，同時也是[宇宙戰艦大和號](../Page/宇宙戰艦大和號.md "wikilink")系列的第三部電視作品。
 
 ## 配音
 
@@ -308,12 +308,6 @@
 
   -
   -
-  - [Madman
-    Entertainment](http://www.madman.co.nz/actions/catalogue.do?releaseId=4213&method=view)
+  - [Madman Entertainment](http://www.madman.co.nz/actions/catalogue.do?releaseId=4213&method=view)
 
-[Category:1980年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1980年日本電視動畫 "wikilink")
-[Category:宇宙戰爭題材作品](https://zh.wikipedia.org/wiki/Category:宇宙戰爭題材作品 "wikilink")
-[Category:未來題材作品](https://zh.wikipedia.org/wiki/Category:未來題材作品 "wikilink")
-[Category:松本零士](https://zh.wikipedia.org/wiki/Category:松本零士 "wikilink")
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:宇宙戰艦大和號](https://zh.wikipedia.org/wiki/Category:宇宙戰艦大和號 "wikilink")
+[Category:1980年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1980年日本電視動畫 "wikilink") [Category:宇宙戰爭題材作品](https://zh.wikipedia.org/wiki/Category:宇宙戰爭題材作品 "wikilink") [Category:未來題材作品](https://zh.wikipedia.org/wiki/Category:未來題材作品 "wikilink") [Category:松本零士](https://zh.wikipedia.org/wiki/Category:松本零士 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:宇宙戰艦大和號](https://zh.wikipedia.org/wiki/Category:宇宙戰艦大和號 "wikilink")

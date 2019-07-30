@@ -8,10 +8,8 @@
 
   - 英文原版,由Addison-Wesley于2003年9月17日出版, ISBN 0-13-142901-9。
   - 影印版,于2004年5月，由中国电力出版社出版影印版，计507页，定价￥52.00，ISBN 9787508322070.\[2\]
-  - 中译版,于2006年2月由电子工业出版社出版，由姜宏、何源、蔡晓骏翻译，计525页，定价￥59.00，ISBN
-    9787121021169 \[3\]
-  - 在线版本,一个基于the terms of the Creative Commons Attribution-NoDerivs 1.0
-    授权及附加限制性条款发布的在线版本，供出售或其他以营利为目的使用培生教育，地址为http://www.faqs.org/docs/artu/。
+  - 中译版,于2006年2月由电子工业出版社出版，由姜宏、何源、蔡晓骏翻译，计525页，定价￥59.00，ISBN 9787121021169 \[3\]
+  - 在线版本,一个基于the terms of the Creative Commons Attribution-NoDerivs 1.0 授权及附加限制性条款发布的在线版本，供出售或其他以营利为目的使用培生教育，地址为http://www.faqs.org/docs/artu/。
 
 ## 外部链接
 
@@ -19,8 +17,7 @@
 
 ## 参考文献
 
-[Category:2003年書籍](https://zh.wikipedia.org/wiki/Category:2003年書籍 "wikilink")
-[Category:Unix编程工具](https://zh.wikipedia.org/wiki/Category:Unix编程工具 "wikilink")
+[Category:2003年書籍](https://zh.wikipedia.org/wiki/Category:2003年書籍 "wikilink") [Category:Unix编程工具](https://zh.wikipedia.org/wiki/Category:Unix编程工具 "wikilink")
 
 1.  <http://book.51cto.com/art/201012/239361.htm>
 2.  <http://book.douban.com/subject/1161027/>

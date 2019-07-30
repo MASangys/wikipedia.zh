@@ -1,28 +1,15 @@
-**C
-AllStar**是一隊[香港樂壇的四人](../Page/香港音樂.md "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子音樂组合 "wikilink")，於2009年成軍，2010年正式加入樂壇，成員包括**[吳崇銘](../Page/吳崇銘.md "wikilink")（**King**）、[陳健安](../Page/陳健安.md "wikilink")（**On仔**）、[梁釗峰](../Page/梁釗峰.md "wikilink")（**釗峰**）**和**[何建曦](../Page/何建曦.md "wikilink")（**Jase**）**，四位成員均是**「私人國」**（**Kingdom
-C**）\[1\]所舉辦之歌唱比賽「星投大戰\[2\]」的最後四強，亦是不同大專歌唱比賽的冠軍。四人均有獨特聲線及唱功，以唱[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")（**A
-Cappella**）為人所熟悉。其音樂作品以[廣東歌為主](https://zh.wikipedia.org/wiki/廣東歌 "wikilink")，歌題材多數是散播正能量和反映當今香港社會現象，其官方歌迷名稱為「**C
-AllFans**」。
+**C AllStar**是一隊[香港樂壇的四人](../Page/香港音樂.md "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子音樂组合 "wikilink")，於2009年成軍，2010年正式加入樂壇，成員包括**[吳崇銘](../Page/吳崇銘.md "wikilink")（**King**）、[陳健安](../Page/陳健安.md "wikilink")（**On仔**）、[梁釗峰](../Page/梁釗峰.md "wikilink")（**釗峰**）**和**[何建曦](../Page/何建曦.md "wikilink")（**Jase**）**，四位成員均是**「私人國」**（**Kingdom C**）\[1\]所舉辦之歌唱比賽「星投大戰\[2\]」的最後四強，亦是不同大專歌唱比賽的冠軍。四人均有獨特聲線及唱功，以唱[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")（**A Cappella**）為人所熟悉。其音樂作品以[廣東歌為主](https://zh.wikipedia.org/wiki/廣東歌 "wikilink")，歌題材多數是散播正能量和反映當今香港社會現象，其官方歌迷名稱為「**C AllFans**」。
 
-**C AllStar**
-為最具知名度的千禧年後出道香港組合，眾多歌曲當中最為人熟悉的《**[天梯](../Page/天梯_\(歌曲\).md "wikilink")**》是第三十三屆[十大中文金曲頒獎音樂會十大金曲之一](../Page/十大中文金曲頒獎音樂會.md "wikilink")，是史上唯一獲金曲獎的新人組合。截至2018年9月，《[**天梯**](https://www.youtube.com/watch?v=eBvarz3DY00)》原裝MV在[YouTube的點擊率超過](../Page/YouTube.md "wikilink")1800萬次，成為千禧年後原創廣東歌之冠。
+**C AllStar** 為最具知名度的千禧年後出道香港組合，眾多歌曲當中最為人熟悉的《**[天梯](../Page/天梯_\(歌曲\).md "wikilink")**》是第三十三屆[十大中文金曲頒獎音樂會](../Page/十大中文金曲頒獎音樂會.md "wikilink")十大金曲之一，是史上唯一獲金曲獎的新人組合。截至2018年9月，《[**天梯**](https://www.youtube.com/watch?v=eBvarz3DY00)》原裝MV在[YouTube](../Page/YouTube.md "wikilink")的點擊率超過1800萬次，成為千禧年後原創廣東歌之冠。
 
 ## 成員
 
 ### 吳崇銘（皇上）
 
-[吳崇銘](../Page/吳崇銘.md "wikilink")（，），中學時期就讀北大附中（北京大學附屬中學深圳分校），大學畢業於[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")[私立華聯學院音樂系](https://zh.wikipedia.org/wiki/私立華聯學院 "wikilink")。
-在組合中擔任主唱、高音和唱及[Beatbox](https://zh.wikipedia.org/wiki/Beatbox "wikilink")。主唱歌曲包括《大雨傾城》（未被收錄在任何專輯）、《直到你肯定》、《混沌》。其中《混沌》是他第一首擔任作曲和編曲的作品。近年開始創作[電子舞曲](../Page/電子舞曲.md "wikilink")（Electronic
-Dance Music (簡稱：EDM)）音樂，《請勿靠近車門》是他第一首為專輯《生於斯》創作的電子音樂間奏作品。
+[吳崇銘](../Page/吳崇銘.md "wikilink")（，），中學時期就讀北大附中（北京大學附屬中學深圳分校），大學畢業於[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")[私立華聯學院音樂系](https://zh.wikipedia.org/wiki/私立華聯學院 "wikilink")。 在組合中擔任主唱、高音和唱及[Beatbox](https://zh.wikipedia.org/wiki/Beatbox "wikilink")。主唱歌曲包括《大雨傾城》（未被收錄在任何專輯）、《直到你肯定》、《混沌》。其中《混沌》是他第一首擔任作曲和編曲的作品。近年開始創作[電子舞曲](../Page/電子舞曲.md "wikilink")（Electronic Dance Music (簡稱：EDM)）音樂，《請勿靠近車門》是他第一首為專輯《生於斯》創作的電子音樂間奏作品。
 2016年獲邀參與拍攝一齣澳門電影《[那一年，我17](../Page/那一年，我17.md "wikilink")》\[3\]，在電影中擔任第二男主角。
-2017年於內地荔枝音樂節以[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")
-身份演出，被大會稱為「亞洲十大華人DJ 及 亞洲電音王子」\[4\]。在10月C
-AllStar於紅館舉辦之演唱會中負責為所有舞蹈表演的音樂重新編曲，更以**DJ
-King**身份表演打碟，圓了他在紅館舞台打碟的夢想。
-2018年他以**[DJ
-King](https://zh.wikipedia.org/wiki/DJ_King "wikilink")**名義正式於香港EDM界出道，期後亦獲得不同單位邀請其在活動中演出，於同年6月9日他更"香港EDM界新星"名義獲邀於《[Road
-to Ultra](https://zh.wikipedia.org/wiki/超世代音樂節 "wikilink") 香港
-2018》國際大型電子音樂節上表演\[5\]。
+2017年於內地荔枝音樂節以[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink") 身份演出，被大會稱為「亞洲十大華人DJ 及 亞洲電音王子」\[4\]。在10月C AllStar於紅館舉辦之演唱會中負責為所有舞蹈表演的音樂重新編曲，更以**DJ King**身份表演打碟，圓了他在紅館舞台打碟的夢想。
+2018年他以**[DJ King](https://zh.wikipedia.org/wiki/DJ_King "wikilink")**名義正式於香港EDM界出道，期後亦獲得不同單位邀請其在活動中演出，於同年6月9日他更"香港EDM界新星"名義獲邀於《[Road to Ultra](https://zh.wikipedia.org/wiki/超世代音樂節 "wikilink") 香港 2018》國際大型電子音樂節上表演\[5\]。
 
   - 曾獲歌唱比賽獎項
 
@@ -35,21 +22,16 @@ to Ultra](https://zh.wikipedia.org/wiki/超世代音樂節 "wikilink") 香港
 
 ### 陳健安（On仔）
 
-[陳健安](../Page/陳健安.md "wikilink")（，），中學曾就讀[仁愛堂陳黃淑芳紀念中學](../Page/仁愛堂陳黃淑芳紀念中學.md "wikilink")，2012年畢業於[香港理工大學護理學院](../Page/香港理工大學.md "wikilink")。
-在他14歲至18歲期間為香港足球青年軍，2007至2009年球季為[香港足球聯賽甲組足球員](https://zh.wikipedia.org/wiki/香港足球聯賽 "wikilink")，分別效力[香港08和](../Page/香港08.md "wikilink")[香港足球會](../Page/香港足球會.md "wikilink")。在2003年獲得NIKE
-Freestyle公開組冠軍（[花式足球](https://zh.wikipedia.org/wiki/花式足球 "wikilink")），後於2009年與友人成立了香港首支花式足球隊
-\<**Techni Freestyle Soccer
-Crew**\>\[7\]。在2014年與[歐陽耀沖組成](https://zh.wikipedia.org/wiki/歐陽耀沖 "wikilink")\<**TeC2**\>\[8\]，致力推動花式足球運動。
+[陳健安](../Page/陳健安.md "wikilink")（，），中學曾就讀[仁愛堂陳黃淑芳紀念中學](../Page/仁愛堂陳黃淑芳紀念中學.md "wikilink")，2012年畢業於[香港理工大學](../Page/香港理工大學.md "wikilink")護理學院。
+在他14歲至18歲期間為香港足球青年軍，2007至2009年球季為[香港足球聯賽甲組足球員](https://zh.wikipedia.org/wiki/香港足球聯賽 "wikilink")，分別效力[香港08](../Page/香港08.md "wikilink")和[香港足球會](../Page/香港足球會.md "wikilink")。在2003年獲得NIKE Freestyle公開組冠軍（[花式足球](https://zh.wikipedia.org/wiki/花式足球 "wikilink")），後於2009年與友人成立了香港首支花式足球隊 \<**Techni Freestyle Soccer Crew**\>\[7\]。在2014年與[歐陽耀沖組成](https://zh.wikipedia.org/wiki/歐陽耀沖 "wikilink")\<**TeC2**\>\[8\]，致力推動花式足球運動。
 在組合中多擔任主唱或是低音和唱。亦曾經為組合創作了不少歌曲，有時候更擔任填詞工作。由他主唱歌曲包括《我們的電車上》、《0809》、《時間之光》、《足球先生》、《2013的約定》、《陪你到世界終結》、《上車咒》和《-{后}-會無期》。
 在2018年他參加了香港區一個五人足球比賽並贏得冠軍，獲得代表香港區到英國與7支球隊作賽的機會，最終其與隊友們為香港區贏得比賽季軍之獎項\[9\]
 
 ### 梁釗峰（釗峰）
 
-[梁釗峰](../Page/梁釗峰.md "wikilink")（，），中學曾就讀香港[聖若瑟書院](../Page/聖若瑟書院.md "wikilink")，2009年曾到[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[清華大學當交換生](https://zh.wikipedia.org/wiki/清華大學 "wikilink")，2010年畢業於[香港城市大學市場營銷學系](../Page/香港城市大學.md "wikilink")。
-在組合中多擔任主唱或和音。釗峰在隊中的主唱歌曲包括《[天梯](../Page/天梯_\(歌曲\).md "wikilink")》、《別讓小島沉沒》、《少數》、《下靶》，並曾以爵士樂形式翻唱[陳奕迅的](../Page/陳奕迅.md "wikilink")《裙下之臣》。他也曾在TVB[無綫電視多回合淘汰音樂比赛](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[超級巨聲3](../Page/超級巨聲3.md "wikilink")》\[10\]中被香港著名音樂人[倫永亮當面稱讚](../Page/倫永亮.md "wikilink")，指他唱歌富有感情，並說到會繼續追隨他們的歌。而《下靶》是他包辦曲詞的處男作。
-釗峰曾為[香港科技園](https://zh.wikipedia.org/wiki/香港科技園 "wikilink")2016《如果變成果廣告》、[Apple
-Inc](https://zh.wikipedia.org/wiki/Apple_Inc "wikilink") 《[IPad
-Pro](../Page/IPad_Pro.md "wikilink") 2017》…等多個廣告配音。
+[梁釗峰](../Page/梁釗峰.md "wikilink")（，），中學曾就讀香港[聖若瑟書院](../Page/聖若瑟書院.md "wikilink")，2009年曾到[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[清華大學當交換生](https://zh.wikipedia.org/wiki/清華大學 "wikilink")，2010年畢業於[香港城市大學](../Page/香港城市大學.md "wikilink")市場營銷學系。
+在組合中多擔任主唱或和音。釗峰在隊中的主唱歌曲包括《[天梯](../Page/天梯_\(歌曲\).md "wikilink")》、《別讓小島沉沒》、《少數》、《下靶》，並曾以爵士樂形式翻唱[陳奕迅](../Page/陳奕迅.md "wikilink")的《裙下之臣》。他也曾在TVB[無綫電視多回合淘汰音樂比赛](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[超級巨聲3](../Page/超級巨聲3.md "wikilink")》\[10\]中被香港著名音樂人[倫永亮](../Page/倫永亮.md "wikilink")當面稱讚，指他唱歌富有感情，並說到會繼續追隨他們的歌。而《下靶》是他包辦曲詞的處男作。
+釗峰曾為[香港科技園](https://zh.wikipedia.org/wiki/香港科技園 "wikilink")2016《如果變成果廣告》、[Apple Inc](https://zh.wikipedia.org/wiki/Apple_Inc "wikilink") 《[IPad Pro](../Page/IPad_Pro.md "wikilink") 2017》…等多個廣告配音。
 
   - 曾獲歌唱比賽獎項
 
@@ -96,80 +78,33 @@ Pro](../Page/IPad_Pro.md "wikilink") 2017》…等多個廣告配音。
 
 ### 何建曦（SoulJase）
 
-[何建曦](../Page/何建曦.md "wikilink")（，），中學曾就讀[基督教女青年會丘佐榮中學](../Page/基督教女青年會丘佐榮中學.md "wikilink")，2012年畢業於[香港浸會大學國際學院文化及通識學系](../Page/香港浸會大學國際學院.md "wikilink")。
-在組合中多擔任主唱或高音和唱。主唱歌曲包括《韆鞦萬世》、《密室》、《騷動》、《A Hundred Times》、《Pair
-J》，其中《韆鞦萬世》收錄在C AllStar第二張專輯《我們的胡士托》，是他在中學時期的作品，亦是C
-AllStar四子第一位參與創作的歌曲，並收錄於大碟當中。而他所創作的音樂類型以R\&B為主。
+[何建曦](../Page/何建曦.md "wikilink")（，），中學曾就讀[基督教女青年會丘佐榮中學](../Page/基督教女青年會丘佐榮中學.md "wikilink")，2012年畢業於[香港浸會大學國際學院](../Page/香港浸會大學國際學院.md "wikilink")文化及通識學系。
+在組合中多擔任主唱或高音和唱。主唱歌曲包括《韆鞦萬世》、《密室》、《騷動》、《A Hundred Times》、《Pair J》，其中《韆鞦萬世》收錄在C AllStar第二張專輯《我們的胡士托》，是他在中學時期的作品，亦是C AllStar四子第一位參與創作的歌曲，並收錄於大碟當中。而他所創作的音樂類型以R\&B為主。
 近年，他開始擔當食評家\[11\]，在不同網絡媒體為不同餐廳、食肆以及小店寫食評，地點除了香港，還有澳門、台灣、日本等地方，亦計劃於2018年推出一本有關介紹飲食，而喜歡以文字抒發感情的他亦準備推出一本內容有關人性的書籍。
 
 ## 發展歷程
 
 ### 初期出道：2009-2010年
 
-**C
-AllStar**是由香港第一個多回合淘汰制的歌唱比賽「星投大戰」，經8個回合所誕生的4位強中強手（[吳崇銘](../Page/吳崇銘.md "wikilink")、[陳健安](../Page/陳健安.md "wikilink")
-、[梁釗峰](../Page/梁釗峰.md "wikilink")、[何建曦](../Page/何建曦.md "wikilink")）組成的四人組合。C
-AllStar這個名字源於他們的經理人公司，「C」代表 Kingdom C，即 C
-AllStar所屬經理人公司的簡稱，而「AllStar」是指「全明星隊」。這隊男生樂團在2009年10月正式踏足[香港樂壇](../Page/香港音樂.md "wikilink")，首支派台歌曲為《iSing》以多重形式及現場即興演唱為主打發展路線。其後推出第二個版本《iSing
-(Acappella)》以人聲合奏方式重新演繹，歌曲更得到紐約中文電台冠軍。同年聖誕節前推出第二首派台作品《白色信件（Let it
-snow）》，MV更到北京拍攝。首張專輯《[Make it
-Happen](https://zh.wikipedia.org/wiki/Make_it_Happen "wikilink")》在2010年3月13日舉行簽唱會。C
-AllStar在[YouTube片段點擊率已超過](../Page/YouTube.md "wikilink")1800萬人次。《80後時代曲》、《天梯》在[Yahoo\!搜尋人氣榜亦曾登上第一位](../Page/雅虎香港.md "wikilink")。
+**C AllStar**是由香港第一個多回合淘汰制的歌唱比賽「星投大戰」，經8個回合所誕生的4位強中強手（[吳崇銘](../Page/吳崇銘.md "wikilink")、[陳健安](../Page/陳健安.md "wikilink") 、[梁釗峰](../Page/梁釗峰.md "wikilink")、[何建曦](../Page/何建曦.md "wikilink")）組成的四人組合。C AllStar這個名字源於他們的經理人公司，「C」代表 Kingdom C，即 C AllStar所屬經理人公司的簡稱，而「AllStar」是指「全明星隊」。這隊男生樂團在2009年10月正式踏足[香港樂壇](../Page/香港音樂.md "wikilink")，首支派台歌曲為《iSing》以多重形式及現場即興演唱為主打發展路線。其後推出第二個版本《iSing (Acappella)》以人聲合奏方式重新演繹，歌曲更得到紐約中文電台冠軍。同年聖誕節前推出第二首派台作品《白色信件（Let it snow）》，MV更到北京拍攝。首張專輯《[Make it Happen](https://zh.wikipedia.org/wiki/Make_it_Happen "wikilink")》在2010年3月13日舉行簽唱會。C AllStar在[YouTube](../Page/YouTube.md "wikilink")片段點擊率已超過1800萬人次。《80後時代曲》、《天梯》在[Yahoo\!搜尋人氣榜亦曾登上第一位](../Page/雅虎香港.md "wikilink")。
 
-在2010年度《[叱咤樂壇流行榜頒獎典禮](../Page/叱咤樂壇流行榜頒獎典禮.md "wikilink")》中，C
-AllStar成為「我最喜愛的組合」十強之一，《天梯》亦成為「我最喜愛的歌曲」十強。《天梯》同時成功獲頒[無綫電視十大勁歌金曲及](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[香港電台的十大中文金曲](../Page/香港電台.md "wikilink")。同年7月[香港書展中C](../Page/香港書展.md "wikilink")
-AllStar推出了他們首本書集《80後看時代曲》，透過80首流行曲寫出對歌曲的體會、感受及影響。2010年9月至10月期間為[康樂及文化事務署](../Page/康樂及文化事務署.md "wikilink")「新視野藝術節」音樂劇作學校巡迴演出合共30場。2011年7月書展他們再推出第二本書集《80後再看時代曲》，並於7月23日於[香港會議展覽中心舉行簽書會](../Page/香港會議展覽中心.md "wikilink")。
+在2010年度《[叱咤樂壇流行榜頒獎典禮](../Page/叱咤樂壇流行榜頒獎典禮.md "wikilink")》中，C AllStar成為「我最喜愛的組合」十強之一，《天梯》亦成為「我最喜愛的歌曲」十強。《天梯》同時成功獲頒[無綫電視十大勁歌金曲及](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[香港電台](../Page/香港電台.md "wikilink")的十大中文金曲。同年7月[香港書展](../Page/香港書展.md "wikilink")中C AllStar推出了他們首本書集《80後看時代曲》，透過80首流行曲寫出對歌曲的體會、感受及影響。2010年9月至10月期間為[康樂及文化事務署](../Page/康樂及文化事務署.md "wikilink")「新視野藝術節」音樂劇作學校巡迴演出合共30場。2011年7月書展他們再推出第二本書集《80後再看時代曲》，並於7月23日於[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")舉行簽書會。
 
 在初出道期間四子經常會在旺角[西洋菜南街行人專用區作](https://zh.wikipedia.org/wiki/西洋菜南街 "wikilink")[Busking表演](https://zh.wikipedia.org/wiki/Busking "wikilink")，希望能令更多人認識他們的音樂。
 
 ### 走紅時期：2011-2013年
 
-2011年7月24日，C AllStar於[沙田大會堂舉行他們首個音樂會](../Page/沙田大會堂.md "wikilink")《C
-AllStar x HKAO 「80
-後管弦時代音樂會」》。同年10月，他們正式加盟[東亞唱片旗下的](../Page/東亞唱片_\(集團\).md "wikilink")[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")，並推出年度大碟《[新預言書](../Page/新預言書.md "wikilink")》。10月6-9日表演音樂劇《摘星天梯》。2012年7月29日為[傑志足球隊主唱會歌](https://zh.wikipedia.org/wiki/傑志足球隊 "wikilink")《We
-Are
-Kitchee\!》，於[香港大球場舉行的](../Page/香港大球場.md "wikilink")[賽馬會慈善信託基金挑戰盃傑志對阿仙奴中首播](../Page/香港賽馬會.md "wikilink")。2012年年中，C
-AllStar
-聯同攝製隊為了拍攝《天梯》紀錄片，遠赴重慶深山尋找[愛情天梯故事中的女主角徐婆婆](https://zh.wikipedia.org/wiki/愛情天梯 "wikilink")。
+2011年7月24日，C AllStar於[沙田大會堂](../Page/沙田大會堂.md "wikilink")舉行他們首個音樂會《C AllStar x HKAO 「80 後管弦時代音樂會」》。同年10月，他們正式加盟[東亞唱片旗下的](../Page/東亞唱片_\(集團\).md "wikilink")[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")，並推出年度大碟《[新預言書](../Page/新預言書.md "wikilink")》。10月6-9日表演音樂劇《摘星天梯》。2012年7月29日為[傑志足球隊主唱會歌](https://zh.wikipedia.org/wiki/傑志足球隊 "wikilink")《We Are Kitchee\!》，於[香港大球場](../Page/香港大球場.md "wikilink")舉行的[賽馬會慈善信託基金挑戰盃傑志對阿仙奴中首播](../Page/香港賽馬會.md "wikilink")。2012年年中，C AllStar 聯同攝製隊為了拍攝《天梯》紀錄片，遠赴重慶深山尋找[愛情天梯故事中的女主角徐婆婆](https://zh.wikipedia.org/wiki/愛情天梯 "wikilink")。
 
-2013年與師妹[SimC合作的](../Page/SimC.md "wikilink")《她結他》更令四子首次奪得合唱獎項[新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink")
-—
-新城勁爆合唱歌曲。年中派上的《老調兒》為中式小調，近年香港樂壇非常罕見。而由[黃偉文填詞的](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")《薄情歌》派台後適逢「[李純恩事件](../Page/李純恩.md "wikilink")」發生，社會迴響甚大。他們固執地相信種下情的粵語歌曲，不相信香港樂壇已死，憑這個信念推出的大碟《[Cantopopsibility](../Page/Cantopopsibility.md "wikilink")》，令他們在不同的音樂頒獎禮奪得大碟的獎項，包括：[新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink")「新城勁爆年度專輯大獎」及[2013年度Yahoo\!搜尋人氣大獎](../Page/2013年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")「人氣大碟獎」。大碟也被[iTunes選為](https://zh.wikipedia.org/wiki/iTunes "wikilink")2013年度「[Cantopop](https://zh.wikipedia.org/wiki/Cantopop "wikilink")」類別的十大最佳專輯。該專輯收錄了不同音樂風格的廣東歌曲，當中包括有[Bossa](https://zh.wikipedia.org/wiki/Bossa "wikilink")、[Nova](https://zh.wikipedia.org/wiki/Nova "wikilink")、[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[Trance](https://zh.wikipedia.org/wiki/Trance "wikilink")、[Acapella等](https://zh.wikipedia.org/wiki/Acapella "wikilink")，更與不同的音樂人及歌手合作。本年更第二度於[叱吒樂壇流行榜頒獎典禮2013奪得](../Page/2013年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")「組合金奬」及「我最喜愛組合」，奠定了他們在現今香港樂壇組合的地位。他們並於2013年末宣佈，次年3月將舉行他們首次[紅磡體育館演唱會](https://zh.wikipedia.org/wiki/紅磡體育館 "wikilink")。
+2013年與師妹[SimC](../Page/SimC.md "wikilink")合作的《她結他》更令四子首次奪得合唱獎項[新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink") — 新城勁爆合唱歌曲。年中派上的《老調兒》為中式小調，近年香港樂壇非常罕見。而由[黃偉文填詞的](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")《薄情歌》派台後適逢「[李純恩](../Page/李純恩.md "wikilink")事件」發生，社會迴響甚大。他們固執地相信種下情的粵語歌曲，不相信香港樂壇已死，憑這個信念推出的大碟《[Cantopopsibility](../Page/Cantopopsibility.md "wikilink")》，令他們在不同的音樂頒獎禮奪得大碟的獎項，包括：[新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink")「新城勁爆年度專輯大獎」及[2013年度Yahoo\!搜尋人氣大獎](../Page/2013年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")「人氣大碟獎」。大碟也被[iTunes選為](https://zh.wikipedia.org/wiki/iTunes "wikilink")2013年度「[Cantopop](https://zh.wikipedia.org/wiki/Cantopop "wikilink")」類別的十大最佳專輯。該專輯收錄了不同音樂風格的廣東歌曲，當中包括有[Bossa](https://zh.wikipedia.org/wiki/Bossa "wikilink")、[Nova](https://zh.wikipedia.org/wiki/Nova "wikilink")、[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[Trance](../Page/Trance.md "wikilink")、[Acapella等](https://zh.wikipedia.org/wiki/Acapella "wikilink")，更與不同的音樂人及歌手合作。本年更第二度於[叱吒樂壇流行榜頒獎典禮2013奪得](../Page/2013年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")「組合金奬」及「我最喜愛組合」，奠定了他們在現今香港樂壇組合的地位。他們並於2013年末宣佈，次年3月將舉行他們首次[紅磡體育館演唱會](https://zh.wikipedia.org/wiki/紅磡體育館 "wikilink")。
 
 ### 巔峯時期 : 2014-2017年
 
-2014年3月23日，他們舉行首個紅館演唱會 —《C AllStar
-我們的胡士托演唱會》。演唱會中更被表演嘉賓之一[側田稱讚他們是繼](../Page/側田.md "wikilink")[温拿樂隊後](https://zh.wikipedia.org/wiki/温拿樂隊 "wikilink")，香港發展最成功的一對男子組合。3月21日推出首張新曲+精選專輯《[時日如飛
-C
-AllCollection](../Page/時日如飛_C_AllCollection.md "wikilink")》，銷情十分理想，連續兩週進佔香港唱片商會銷售榜第一位。首波主打歌曲《時日如飛》派台隨即得到各大電台肯定，成為C
-AllStar的首支四台冠軍歌曲。5月份他們派上一首講述親情的作品《家書》，感動不少樂迷。8月1日，推出了歷來第二張演唱會專輯《[C
-AllStar 我們的胡士托演唱會
-CD](https://zh.wikipedia.org/wiki/C_AllStar_我們的胡士托演唱會_CD "wikilink")》。同日，C
-AllStar首部參演的電影《[分手100次](../Page/分手100次.md "wikilink")》上映。8月2日，舉行首個[澳門演唱會](../Page/澳門.md "wikilink")
-—《C AllStar
-我們的胡士托演唱會-[澳門站](../Page/澳門.md "wikilink")》。8月8日，電影《分手100次》推出原聲大碟，收錄了由C
-AllStar主唱的電影英文插曲《A Hundred Times》，更奪得首個電影歌曲獎項。12月18日，由C
-AllStar作廣東話配音的[迪士尼電影](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")《[大英雄聯盟](https://zh.wikipedia.org/wiki/大英雄聯盟 "wikilink")》上映。
+2014年3月23日，他們舉行首個紅館演唱會 —《C AllStar 我們的胡士托演唱會》。演唱會中更被表演嘉賓之一[側田](../Page/側田.md "wikilink")稱讚他們是繼[温拿樂隊後](https://zh.wikipedia.org/wiki/温拿樂隊 "wikilink")，香港發展最成功的一對男子組合。3月21日推出首張新曲+精選專輯《[時日如飛 C AllCollection](../Page/時日如飛_C_AllCollection.md "wikilink")》，銷情十分理想，連續兩週進佔香港唱片商會銷售榜第一位。首波主打歌曲《時日如飛》派台隨即得到各大電台肯定，成為C AllStar的首支四台冠軍歌曲。5月份他們派上一首講述親情的作品《家書》，感動不少樂迷。8月1日，推出了歷來第二張演唱會專輯《[C AllStar 我們的胡士托演唱會 CD](https://zh.wikipedia.org/wiki/C_AllStar_我們的胡士托演唱會_CD "wikilink")》。同日，C AllStar首部參演的電影《[分手100次](../Page/分手100次.md "wikilink")》上映。8月2日，舉行首個[澳門](../Page/澳門.md "wikilink")演唱會 —《C AllStar 我們的胡士托演唱會-[澳門](../Page/澳門.md "wikilink")站》。8月8日，電影《分手100次》推出原聲大碟，收錄了由C AllStar主唱的電影英文插曲《A Hundred Times》，更奪得首個電影歌曲獎項。12月18日，由C AllStar作廣東話配音的[迪士尼電影](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")《[大英雄聯盟](https://zh.wikipedia.org/wiki/大英雄聯盟 "wikilink")》上映。
 
-2016年2月，四子獲邀參加由[世界宣明會及叱咤](https://zh.wikipedia.org/wiki/世界宣明會 "wikilink")903主辦的饑饉三十活動，並擔任饑饉之星前往[埃塞俄比亞進行饑饉探訪](https://zh.wikipedia.org/wiki/埃塞俄比亞 "wikilink")。期間C
-AllStar 與Supper
-Moment共同創作了一首單曲《孩子的天空》，更與當時一起前往[埃塞俄比亞的叱咤](https://zh.wikipedia.org/wiki/埃塞俄比亞 "wikilink")903
-DJ 阿檸及 Colin
-合唱。5月派上新專輯第一主打《專業失戀30年》。7月派上第二主打《聲音騷了》，之後推出與前輩[蘇永康的合唱版本](../Page/蘇永康.md "wikilink")《聲音騷(永康)了》。9月宣佈續約[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")，其後於12月宣佈已成功申請翌年10月舉辦他們第二次紅館演唱會。本年他們第三度奪得叱咤樂壇流行榜頒獎典禮「組合金奬」，同時憑著《聲音騷了》奪得「專業推介叱咤十大
-第四位」歌曲獎，是C AllStar 出道7年第一首奪得叱咤十大歌曲獎。
+2016年2月，四子獲邀參加由[世界宣明會及叱咤](https://zh.wikipedia.org/wiki/世界宣明會 "wikilink")903主辦的饑饉三十活動，並擔任饑饉之星前往[埃塞俄比亞進行饑饉探訪](https://zh.wikipedia.org/wiki/埃塞俄比亞 "wikilink")。期間C AllStar 與Supper Moment共同創作了一首單曲《孩子的天空》，更與當時一起前往[埃塞俄比亞的叱咤](https://zh.wikipedia.org/wiki/埃塞俄比亞 "wikilink")903 DJ 阿檸及 Colin 合唱。5月派上新專輯第一主打《專業失戀30年》。7月派上第二主打《聲音騷了》，之後推出與前輩[蘇永康](../Page/蘇永康.md "wikilink")的合唱版本《聲音騷(永康)了》。9月宣佈續約[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")，其後於12月宣佈已成功申請翌年10月舉辦他們第二次紅館演唱會。本年他們第三度奪得叱咤樂壇流行榜頒獎典禮「組合金奬」，同時憑著《聲音騷了》奪得「專業推介叱咤十大 第四位」歌曲獎，是C AllStar 出道7年第一首奪得叱咤十大歌曲獎。
 
-2017年1月7日，四子在[TVB舉辦之](https://zh.wikipedia.org/wiki/TVB "wikilink")《2016年度勁歌金曲頒獎典禮》獲獎期間突然宣佈將於10月紅館個唱完成後C
-AllStar就會暫別樂壇，之後各人將會作獨立發展，但多次強調他們四位成員之間並沒有不和。2月14日推出全情歌專輯《[LoveaHolic
-Vol.1](https://zh.wikipedia.org/wiki/LoveaHolic_Vol.1 "wikilink")》，由黃偉文包辦所有歌曲作詞部份。此專輯將分成兩張迷你專輯發行。4月12日
-C AllStar 公佈\<Loveaholic Vol.2 – C AllStar’s Best Solo
-Selection\>計劃，由於今年10月紅館演唱會將會是C AllStar
-最後一個演唱會，所以節目非常緊湊，監製決定只能得一個人有Solo
-Time。因為名額只有一個，所以只能用比賽形式公平地去爭取這機會。C AllStar將會同日各自推出收錄於5月推出的EP
-《[Loveaholic Vol.
-2](https://zh.wikipedia.org/wiki/Loveaholic_Vol._2 "wikilink")》內的獨唱單曲，並在4月14日至5月13日期間，C
-AllStar
-更會親自主導整個宣傳企劃在四個不同音樂平台去推廣自己的單曲，以贏取樂迷對單曲的喜愛，五月中將會在網上由樂迷投票選出心目中的Best
-Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得3001票，以一票之差力壓On仔勝出今次比賽。
+2017年1月7日，四子在[TVB舉辦之](https://zh.wikipedia.org/wiki/TVB "wikilink")《2016年度勁歌金曲頒獎典禮》獲獎期間突然宣佈將於10月紅館個唱完成後C AllStar就會暫別樂壇，之後各人將會作獨立發展，但多次強調他們四位成員之間並沒有不和。2月14日推出全情歌專輯《[LoveaHolic Vol.1](https://zh.wikipedia.org/wiki/LoveaHolic_Vol.1 "wikilink")》，由黃偉文包辦所有歌曲作詞部份。此專輯將分成兩張迷你專輯發行。4月12日 C AllStar 公佈\<Loveaholic Vol.2 – C AllStar’s Best Solo Selection\>計劃，由於今年10月紅館演唱會將會是C AllStar 最後一個演唱會，所以節目非常緊湊，監製決定只能得一個人有Solo Time。因為名額只有一個，所以只能用比賽形式公平地去爭取這機會。C AllStar將會同日各自推出收錄於5月推出的EP 《[Loveaholic Vol. 2](https://zh.wikipedia.org/wiki/Loveaholic_Vol._2 "wikilink")》內的獨唱單曲，並在4月14日至5月13日期間，C AllStar 更會親自主導整個宣傳企劃在四個不同音樂平台去推廣自己的單曲，以贏取樂迷對單曲的喜愛，五月中將會在網上由樂迷投票選出心目中的Best Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得3001票，以一票之差力壓On仔勝出今次比賽。
 
 2017年10月，於香港紅磡體育館舉行一連兩場的演唱會，於演唱會中邀請了楊千嬅及鄭秀文擔任嘉賓，並於演場會完結後正式休團\[12\]。
 
@@ -240,7 +175,7 @@ Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得
 </ol></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p><a href="../Page/新預言書.md" title="wikilink">新預言書（第二版）</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/新預言書.md" title="wikilink">新預言書</a>（第二版）</p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/私人国" title="wikilink">私人国</a><br />
 <a href="https://zh.wikipedia.org/wiki/寰亞唱片" title="wikilink">寰亞唱片</a></p></td>
@@ -962,7 +897,7 @@ Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得
 <td><p><strong>《為夢想啟航》</strong></p></td>
 <td><p>「太陽計劃2013」<br />
 主題曲<br />
-與<a href="https://zh.wikipedia.org/wiki/王菀之" title="wikilink">王菀之</a>、<a href="../Page/張繼聰.md" title="wikilink">張繼聰合唱</a></p></td>
+與<a href="https://zh.wikipedia.org/wiki/王菀之" title="wikilink">王菀之</a>、<a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>合唱</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
@@ -980,7 +915,7 @@ Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得
 </tr>
 <tr class="even">
 <td><p><strong>《足球先生》 (2014巴西版)</strong></p></td>
-<td><p><strong>「<a href="https://zh.wikipedia.org/wiki/TeC2" title="wikilink">TeC2</a>」</strong>於2014年成立，由C AllStar成員 On仔與甲組足球員<a href="../Page/歐陽耀冲.md" title="wikilink">歐陽耀冲組合而成</a>，致力推動花式足球運動。</p></td>
+<td><p><strong>「<a href="https://zh.wikipedia.org/wiki/TeC2" title="wikilink">TeC2</a>」</strong>於2014年成立，由C AllStar成員 On仔與甲組足球員<a href="../Page/歐陽耀冲.md" title="wikilink">歐陽耀冲</a>組合而成，致力推動花式足球運動。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1123,228 +1058,149 @@ Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得
 
   - 2010加拿大至Hit中文歌曲排行榜全國總選 - 全國推崇新組合（粤語）
   - 《音樂先鋒榜》2010年度頒獎典禮 - 年度先鋒新組合
-  - [2010年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱咤樂壇流行榜頒獎典禮 "wikilink")
-    - 叱咤樂壇生力軍 金獎
-  - [第三十三屆十大中文金曲頒獎音樂會](https://zh.wikipedia.org/wiki/2010年度十大中文金曲得獎名單 "wikilink")
-    - 最有前途新人獎 銅獎
-  - [第三十三屆十大中文金曲頒獎音樂會](https://zh.wikipedia.org/wiki/2010年度十大中文金曲得獎名單 "wikilink")
-    - 十大中文金曲《天梯》
+  - [2010年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱咤樂壇流行榜頒獎典禮 "wikilink") - 叱咤樂壇生力軍 金獎
+  - [第三十三屆十大中文金曲頒獎音樂會](https://zh.wikipedia.org/wiki/2010年度十大中文金曲得獎名單 "wikilink") - 最有前途新人獎 銅獎
+  - [第三十三屆十大中文金曲頒獎音樂會](https://zh.wikipedia.org/wiki/2010年度十大中文金曲得獎名單 "wikilink") - 十大中文金曲《天梯》
 
 ### 2011年度
 
-  - [2011勁歌金曲優秀選第一回](../Page/2011年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
-    得獎歌曲《天梯》
+  - [2011勁歌金曲優秀選第一回](../Page/2011年勁歌金曲優秀選第一回得獎名單.md "wikilink") - 得獎歌曲《天梯》
   - 《壹週刊》健康第壹大獎2011 - 十大健康之星
   - [2011年CASH金帆音樂獎](../Page/2011年CASH金帆音樂獎.md "wikilink") - 最佳合唱演繹《天梯》
   - [2011年CASH金帆音樂獎](../Page/2011年CASH金帆音樂獎.md "wikilink") - 最佳旋律《天梯》
   - [2011年CASH金帆音樂獎](../Page/2011年CASH金帆音樂獎.md "wikilink") - 最佳歌曲《天梯》
   - 2011年度全球華人金曲獎 - 年度最佳新组合《Make It Happen》
-  - [2011勁歌金曲優秀選第三回](../Page/2011年勁歌金曲優秀選第三回得獎名單.md "wikilink") -
-    得獎歌曲《別讓小島沉沒》
-  - [YAHOO\!搜尋人氣大獎2011](../Page/2011年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") -
-    本地音樂組合
-  - [YAHOO\!搜尋人氣大獎2011](../Page/2011年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") -
-    搜尋十大人氣歌曲《天梯》
+  - [2011勁歌金曲優秀選第三回](../Page/2011年勁歌金曲優秀選第三回得獎名單.md "wikilink") - 得獎歌曲《別讓小島沉沒》
+  - [YAHOO\!搜尋人氣大獎2011](../Page/2011年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") - 本地音樂組合
+  - [YAHOO\!搜尋人氣大獎2011](../Page/2011年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") - 搜尋十大人氣歌曲《天梯》
   - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆組合
-  - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆卡拉OK歌曲《2013的約定》
-  - [2011加拿大至Hit中文歌曲排行榜全國總選](../Page/2011加拿大至Hit中文歌曲排行榜全国总选.md "wikilink")
-    - 全國推崇十大歌曲《我們的胡士托》（粵語）
-  - [2011加拿大至Hit中文歌曲排行榜全國總選](../Page/2011加拿大至Hit中文歌曲排行榜全国总选.md "wikilink")
-    - 全國推崇組合（粤语）
-  - [2011年度叱咤樂壇流行榜頒獎典禮](../Page/2011年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇組合 金獎
-  - [2011年度叱咤樂壇流行榜頒獎典禮](../Page/2011年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇我最喜愛的組合
-  - [SINA
-    Music樂壇民意指數頒獎禮2011](../Page/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")
-    - SINA Music 最高收聽率二十大歌曲《2013的約定》
-  - [第三十四屆十大中文金曲頒獎音樂會](../Page/第三十四屆十大中文金曲得獎名單.md "wikilink") - 全年最佳進步獎
-    金獎
-  - [2011年度十大勁歌金曲頒獎典禮](../Page/2011年度十大勁歌金曲得獎名單.md "wikilink") -
-    十大勁歌金曲獎《天梯》
-  - [2011年度十大勁歌金曲頒獎典禮](../Page/2011年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎
-    銀獎
+  - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆卡拉OK歌曲《2013的約定》
+  - [2011加拿大至Hit中文歌曲排行榜全國總選](../Page/2011加拿大至Hit中文歌曲排行榜全国总选.md "wikilink") - 全國推崇十大歌曲《我們的胡士托》（粵語）
+  - [2011加拿大至Hit中文歌曲排行榜全國總選](../Page/2011加拿大至Hit中文歌曲排行榜全国总选.md "wikilink") - 全國推崇組合（粤语）
+  - [2011年度叱咤樂壇流行榜頒獎典禮](../Page/2011年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 叱咤樂壇組合 金獎
+  - [2011年度叱咤樂壇流行榜頒獎典禮](../Page/2011年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 叱咤樂壇我最喜愛的組合
+  - [SINA Music樂壇民意指數頒獎禮2011](../Page/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink") - SINA Music 最高收聽率二十大歌曲《2013的約定》
+  - [第三十四屆十大中文金曲頒獎音樂會](../Page/第三十四屆十大中文金曲得獎名單.md "wikilink") - 全年最佳進步獎 金獎
+  - [2011年度十大勁歌金曲頒獎典禮](../Page/2011年度十大勁歌金曲得獎名單.md "wikilink") - 十大勁歌金曲獎《天梯》
+  - [2011年度十大勁歌金曲頒獎典禮](../Page/2011年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎 銀獎
 
 ### 2012年度
 
-  - [2012勁歌金曲優秀選第二回](../Page/2012年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
-    得獎歌曲《少數》
-  - [2012年度新城國語力頒獎禮](../Page/2012年度新城國語力頒獎禮得獎名單.md "wikilink") -
-    新城國語力歌曲《天梯》
+  - [2012勁歌金曲優秀選第二回](../Page/2012年勁歌金曲優秀選第二回得獎名單.md "wikilink") - 得獎歌曲《少數》
+  - [2012年度新城國語力頒獎禮](../Page/2012年度新城國語力頒獎禮得獎名單.md "wikilink") - 新城國語力歌曲《天梯》
   - [2012年度新城國語力頒獎禮](../Page/2012年度新城國語力頒獎禮得獎名單.md "wikilink") - 新城國語力組合
-  - [YAHOO\!搜尋人氣大獎2012](../Page/2012年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") -
-    本地音樂組合
+  - [YAHOO\!搜尋人氣大獎2012](../Page/2012年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") - 本地音樂組合
   - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆我最欣賞組合
   - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲《少數》
   - 全港民意流行音樂頒獎禮2012 - 十大最受歡迎歌曲第九位《少數》
   - 全港民意流行音樂頒獎禮2012 - 最受歡迎組合 金獎
-  - [2012年度叱咤樂壇流行榜頒獎典禮](../Page/2012年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇我最喜愛的組合
+  - [2012年度叱咤樂壇流行榜頒獎典禮](../Page/2012年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 叱咤樂壇我最喜愛的組合
   - 加拿大至HIT中文歌曲排行榜2012年度總選 - 全國推崇十大歌曲（粵語）《少數》
   - 加拿大至HIT中文歌曲排行榜2012年度總選 - 全國推崇組合（粤语）
-  - [2012年度十大勁歌金曲頒獎典禮](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎
-    銀獎
-  - [SINA
-    Music樂壇民意指數頒獎禮2012](../Page/2012年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")
-    - SINA Music 最高收聽率二十大歌曲《少數》
-  - [SINA
-    Music樂壇民意指數頒獎禮2012](../Page/2012年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")
-    - SINA Music 傑出表現組合大獎
+  - [2012年度十大勁歌金曲頒獎典禮](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎 銀獎
+  - [SINA Music樂壇民意指數頒獎禮2012](../Page/2012年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink") - SINA Music 最高收聽率二十大歌曲《少數》
+  - [SINA Music樂壇民意指數頒獎禮2012](../Page/2012年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink") - SINA Music 傑出表現組合大獎
   - [第三十五屆十大中文金曲頒獎音樂會](../Page/第三十五屆十大中文金曲得獎名單.md "wikilink") - 優秀流行歌手大獎
-  - [IFPI香港唱片銷量大獎2012](../Page/IFPI香港唱片銷量大獎頒獎禮2012.md "wikilink") -
-    十大銷量廣東唱片《新預言書》
-  - [IFPI香港唱片銷量大獎2012](../Page/IFPI香港唱片銷量大獎頒獎禮2012.md "wikilink") -
-    十大數碼暢銷歌曲《天梯》
+  - [IFPI香港唱片銷量大獎2012](../Page/IFPI香港唱片銷量大獎頒獎禮2012.md "wikilink") - 十大銷量廣東唱片《新預言書》
+  - [IFPI香港唱片銷量大獎2012](../Page/IFPI香港唱片銷量大獎頒獎禮2012.md "wikilink") - 十大數碼暢銷歌曲《天梯》
 
 ### 2013年度
 
-  - [2013勁歌金曲優秀選第一回](../Page/2013年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
-    得獎歌曲《音樂殖民地》
-  - [2013年度YAHOO\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/YAHOO!人氣大獎2013得獎名單 "wikilink")
-    - 人氣大碟專輯
-  - [2013年度YAHOO\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/YAHOO!人氣大獎2013得獎名單 "wikilink")
-    - 本地音樂組合
-  - [新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆年度專輯大獎《Cantopopsibility》
+  - [2013勁歌金曲優秀選第一回](../Page/2013年勁歌金曲優秀選第一回得獎名單.md "wikilink") - 得獎歌曲《音樂殖民地》
+  - [2013年度YAHOO\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/YAHOO!人氣大獎2013得獎名單 "wikilink") - 人氣大碟專輯
+  - [2013年度YAHOO\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/YAHOO!人氣大獎2013得獎名單 "wikilink") - 本地音樂組合
+  - [新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆年度專輯大獎《Cantopopsibility》
   - [新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲《薄情歌》
-  - [新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆合唱歌曲《她結他》
+  - [新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆合唱歌曲《她結他》
   - 2013年度新浪微博微博之星 - 最給力微博組合
   - RoadShow綠星級環保大使2013 - 網上最喜愛綠星級環保有心人
-  - [2013年度叱咤樂壇流行榜頒獎典禮](../Page/2013年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇組合 金獎
-  - [2013年度叱咤樂壇流行榜頒獎典禮](../Page/2013年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇我最喜愛的組合
-  - [第三十六屆十大中文金曲頒獎音樂會](../Page/第三十六屆十大中文金曲得獎名單.md "wikilink") - 全年最佳進步獎
-    銀獎
+  - [2013年度叱咤樂壇流行榜頒獎典禮](../Page/2013年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 叱咤樂壇組合 金獎
+  - [2013年度叱咤樂壇流行榜頒獎典禮](../Page/2013年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 叱咤樂壇我最喜愛的組合
+  - [第三十六屆十大中文金曲頒獎音樂會](../Page/第三十六屆十大中文金曲得獎名單.md "wikilink") - 全年最佳進步獎 銀獎
   - 加拿大至HIT中文歌曲排行榜2013年度總選 - 全國推崇十大歌曲（粵語）《薄情歌》
   - 加拿大至HIT中文歌曲排行榜2013年度總選 - 全國推崇粵語组合
-  - [2013年度勁歌金曲頒獎典禮](../Page/2013年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲獎
-    第十九位《薄情歌》
-  - [IFPI香港唱片銷量大獎2013](../Page/IFPI香港唱片銷量大獎頒獎禮2013.md "wikilink") -
-    最暢銷本地現場錄製音像出品《2012 C AllLive》
+  - [2013年度勁歌金曲頒獎典禮](../Page/2013年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲獎 第十九位《薄情歌》
+  - [IFPI香港唱片銷量大獎2013](../Page/IFPI香港唱片銷量大獎頒獎禮2013.md "wikilink") - 最暢銷本地現場錄製音像出品《2012 C AllLive》
 
 ### 2014年度
 
-  - [2014勁歌金曲優秀選第一回](../Page/2014年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
-    得獎歌曲《時日如飛》
+  - [2014勁歌金曲優秀選第一回](../Page/2014年勁歌金曲優秀選第一回得獎名單.md "wikilink") - 得獎歌曲《時日如飛》
   - 第一屆粵語歌曲排行榜頒獎典禮 - 最受歡迎歌曲獎《差詞》
   - 第一屆粵語歌曲排行榜頒獎典禮 - 最受歡迎組合獎
   - 2014年度《伯樂獎》傑出青年流行歌手
-  - [2014年度YAHOO\!搜尋人氣大獎](../Page/2014年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
-    - 網上熱爆電影歌曲《A Hundred Times》
-  - [2014年度YAHOO\!搜尋人氣大獎](../Page/2014年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
-    - 本地音樂組合
-  - [2014勁歌金曲優秀選第二回](../Page/2014年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
-    得獎歌曲《家書》
-  - [2014勁歌金曲優秀選第二回](../Page/2014年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
-    得獎歌曲《SuperStar》（與[Super
-    Girls合唱](https://zh.wikipedia.org/wiki/Super_Girls "wikilink")）
-  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆歌曲《時日如飛》
-  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆合唱歌曲《SuperStar》（與[Super
-    Girls合唱](https://zh.wikipedia.org/wiki/Super_Girls "wikilink")）
+  - [2014年度YAHOO\!搜尋人氣大獎](../Page/2014年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") - 網上熱爆電影歌曲《A Hundred Times》
+  - [2014年度YAHOO\!搜尋人氣大獎](../Page/2014年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") - 本地音樂組合
+  - [2014勁歌金曲優秀選第二回](../Page/2014年勁歌金曲優秀選第二回得獎名單.md "wikilink") - 得獎歌曲《家書》
+  - [2014勁歌金曲優秀選第二回](../Page/2014年勁歌金曲優秀選第二回得獎名單.md "wikilink") - 得獎歌曲《SuperStar》（與[Super Girls合唱](https://zh.wikipedia.org/wiki/Super_Girls "wikilink")）
+  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲《時日如飛》
+  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆合唱歌曲《SuperStar》（與[Super Girls合唱](https://zh.wikipedia.org/wiki/Super_Girls "wikilink")）
   - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆組合 金獎
-  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城數-{碼}-音樂台最欣賞獎項組合
-  - [第14華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink") -
-    年度粤语歌曲《音樂殖民地》
-  - [第14華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink") -
-    最佳組合
-  - [2014年度叱咤樂壇流行榜頒獎典禮](../Page/2014年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇組合 銀獎
-  - [2014年度叱咤樂壇流行榜頒獎典禮](../Page/2014年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇我最喜愛的組合
+  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城數-{碼}-音樂台最欣賞獎項組合
+  - [第14華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink") - 年度粤语歌曲《音樂殖民地》
+  - [第14華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink") - 最佳組合
+  - [2014年度叱咤樂壇流行榜頒獎典禮](../Page/2014年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 叱咤樂壇組合 銀獎
+  - [2014年度叱咤樂壇流行榜頒獎典禮](../Page/2014年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 叱咤樂壇我最喜愛的組合
   - [第三十七屆十大中文金曲頒獎音樂會](../Page/第三十七屆十大中文金曲得獎名單.md "wikilink") - 優秀流行歌手大獎
   - [2014年度勁歌金曲頒獎典禮](../Page/2014年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲獎《家書》
   - [2014年度勁歌金曲頒獎典禮](../Page/2014年度勁歌金曲得獎名單.md "wikilink") - 最佳樂隊組合獎 金獎
-  - [IFPI香港唱片銷量大獎2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink") -
-    十大銷量廣東唱片《時日如飛 C AllCollection》
-  - [IFPI香港唱片銷量大獎2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink") -
-    最暢銷本地現場錄製音像出品《我們的胡士托演唱會Live》
-  - [IFPI香港唱片銷量大獎2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink") -
-    十大銷量本地歌手
-  - [IFPI香港唱片銷量大獎2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink") -
-    全年最高銷量本地組合
+  - [IFPI香港唱片銷量大獎2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink") - 十大銷量廣東唱片《時日如飛 C AllCollection》
+  - [IFPI香港唱片銷量大獎2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink") - 最暢銷本地現場錄製音像出品《我們的胡士托演唱會Live》
+  - [IFPI香港唱片銷量大獎2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink") - 十大銷量本地歌手
+  - [IFPI香港唱片銷量大獎2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink") - 全年最高銷量本地組合
 
 ### 2015年度
 
-  - [2015勁歌金曲優秀選第一回](../Page/2015年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
-    得獎歌曲《煙花非花》（與[鍾鎮濤合唱](../Page/鍾鎮濤.md "wikilink")）
-  - [2015勁歌金曲優秀選第二回](../Page/2015年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
-    得獎歌曲《逾越生死》
+  - [2015勁歌金曲優秀選第一回](../Page/2015年勁歌金曲優秀選第一回得獎名單.md "wikilink") - 得獎歌曲《煙花非花》（與[鍾鎮濤](../Page/鍾鎮濤.md "wikilink")合唱）
+  - [2015勁歌金曲優秀選第二回](../Page/2015年勁歌金曲優秀選第二回得獎名單.md "wikilink") - 得獎歌曲《逾越生死》
   - [2015年度勁歌金曲頒獎禮](../Page/2015年度勁歌金曲得獎名單.md "wikilink") - 最佳樂隊組合獎 金獎
   - [2015年度勁歌金曲頒獎禮](../Page/2015年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲獎《逾越生死》
-  - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆卡拉OK歌曲
-    金獎《時間之光》（與[鄭秀文合唱](../Page/鄭秀文.md "wikilink")）
+  - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆卡拉OK歌曲 金獎《時間之光》（與[鄭秀文](../Page/鄭秀文.md "wikilink")合唱）
   - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆亞洲組合大獎
-  - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆播放指數大獎（組合）
+  - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆播放指數大獎（組合）
   - [麥王爭霸第五季](../Page/麦王争霸.md "wikilink") - 冠軍
-  - [2015年度叱咤樂壇流行榜頒獎典禮](../Page/2015年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇組合 銀獎
+  - [2015年度叱咤樂壇流行榜頒獎典禮](../Page/2015年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 叱咤樂壇組合 銀獎
   - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") - 優秀流行歌手大獎
-  - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") -
-    十大中文金曲《逾越生死》
-  - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") -
-    全年最佳樂隊/組合獎 銅獎
-  - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") -
-    全年最高銷量歌手大獎（組合）
+  - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") - 十大中文金曲《逾越生死》
+  - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") - 全年最佳樂隊/組合獎 銅獎
+  - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") - 全年最高銷量歌手大獎（組合）
 
 ### 2016年度
 
-  - [2016勁歌金曲優秀選第一回](../Page/2016年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
-    得獎歌曲《夜幕天星》
-  - [2016勁歌金曲優秀選第二回](../Page/2016年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
-    得獎歌曲《專業失戀30年》
-  - [第11屆「勁歌王」全球華人樂壇音樂盛典](../Page/第11屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink")
-    - 粵語金曲獎《專業失戀30年》
-  - [第11屆「勁歌王」全球華人樂壇音樂盛典](../Page/第11屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink")
-    - 最受歡迎組合（香港區）
+  - [2016勁歌金曲優秀選第一回](../Page/2016年勁歌金曲優秀選第一回得獎名單.md "wikilink") - 得獎歌曲《夜幕天星》
+  - [2016勁歌金曲優秀選第二回](../Page/2016年勁歌金曲優秀選第二回得獎名單.md "wikilink") - 得獎歌曲《專業失戀30年》
+  - [第11屆「勁歌王」全球華人樂壇音樂盛典](../Page/第11屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink") - 粵語金曲獎《專業失戀30年》
+  - [第11屆「勁歌王」全球華人樂壇音樂盛典](../Page/第11屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink") - 最受歡迎組合（香港區）
   - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆歌曲《聲音騷了》
   - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆組合 金獎
-  - [2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 專業推介叱咤十大 第四位《聲音騷了》
-  - [2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱咤樂壇組合 金獎
+  - [2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink") - 專業推介叱咤十大 第四位《聲音騷了》
+  - [2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink") - 叱咤樂壇組合 金獎
   - [第三十九屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink") - 優秀流行歌手大獎
-  - [第三十九屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink") -
-    全年最佳樂隊/組合獎 銀獎
+  - [第三十九屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink") - 全年最佳樂隊/組合獎 銀獎
   - [2016年度勁歌金曲頒獎典禮](../Page/2016年度勁歌金曲得獎名單.md "wikilink") - 最佳組合獎 金獎
-  - [2016年度勁歌金曲頒獎典禮](../Page/2016年度勁歌金曲得獎名單.md "wikilink") -
-    勁歌金曲獎《專業失戀30年》
+  - [2016年度勁歌金曲頒獎典禮](../Page/2016年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲獎《專業失戀30年》
   - 最受歡迎品牌頒獎典禮2016 - 最有廣告價值藝人獎
 
 ### 2017年度
 
   - 香港服務大獎2017頒獎典禮 - 慈善之星
-  - [2017勁歌金曲優秀選第一回](../Page/2017年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
-    得獎歌曲《一刻戀上》
+  - [2017勁歌金曲優秀選第一回](../Page/2017年勁歌金曲優秀選第一回得獎名單.md "wikilink") - 得獎歌曲《一刻戀上》
   - 第17屆華語音樂傳媒大獎 - 年度粵語專輯大獎《生於斯》
-  - [2017勁歌金曲優秀選第二回](../Page/2017年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
-    得獎歌曲《此刻無價》
-  - [YAHOO\!人氣大獎2017 頒獎典禮](../Page/2017年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
-    - 人氣MV《一刻戀上》
-  - [YAHOO\!人氣大獎2017 頒獎典禮](../Page/2017年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
-    - 本地音樂組合
+  - [2017勁歌金曲優秀選第二回](../Page/2017年勁歌金曲優秀選第二回得獎名單.md "wikilink") - 得獎歌曲《此刻無價》
+  - [YAHOO\!人氣大獎2017 頒獎典禮](../Page/2017年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") - 人氣MV《一刻戀上》
+  - [YAHOO\!人氣大獎2017 頒獎典禮](../Page/2017年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") - 本地音樂組合
   - [第四十屆十大中文金曲](../Page/第四十屆十大中文金曲得獎名單.md "wikilink") - 十大中文金曲《兄兄我我》
   - [第四十屆十大中文金曲](../Page/第四十屆十大中文金曲得獎名單.md "wikilink") - 全年最佳樂隊/組合獎 銅獎
   - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆歌曲《一刻戀上》
   - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆組合
   - [2017年度勁歌金曲頒獎典禮](../Page/2017年度勁歌金曲得獎名單.md "wikilink") - 最佳樂隊組合獎 金獎
   - [2017年度勁歌金曲頒獎典禮](../Page/2017年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲獎《一刻戀上》
-  - [2017年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2017年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱咤樂壇組合 銅獎
+  - [2017年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2017年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink") - 叱咤樂壇組合 銅獎
 
 ### 2018年度
 
   - 音樂先鋒榜頒獎典禮2018 - 最傑出組合獎
-  - [2018 CASH金帆音樂獎](../Page/2018_CASH金帆音樂獎.md "wikilink") -
-    最佳合唱演繹《再不再見》
-  - [第四十一屆十大中文金曲](../Page/第四十一屆十大中文金曲得獎名單.md "wikilink") -
-    最佳中文唱片獎（組合）《生於 C AllStar 演唱會》
+  - [2018 CASH金帆音樂獎](../Page/2018_CASH金帆音樂獎.md "wikilink") - 最佳合唱演繹《再不再見》
+  - [第四十一屆十大中文金曲](../Page/第四十一屆十大中文金曲得獎名單.md "wikilink") - 最佳中文唱片獎（組合）《生於 C AllStar 演唱會》
   - [KKBOX香港風雲榜](../Page/KKBOX香港風雲榜.md "wikilink") - 十大風雲歌手
 
 ## 演唱會、音樂會\[17\]
@@ -1488,7 +1344,7 @@ C AllStar</strong></p></td>
 <td><p><a href="../Page/九龍灣國際展貿中心.md" title="wikilink">九龍灣國際展貿中心</a><br />
 6/F 展貿廳3</p></td>
 <td><p>音樂會片段已收錄於大碟<br />
-<strong><a href="../Page/新預言書.md" title="wikilink">新預言書（第二版）</a></strong></p></td>
+<strong><a href="../Page/新預言書.md" title="wikilink">新預言書</a>（第二版）</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年5月11日</p></td>
@@ -1591,14 +1447,14 @@ C AllStar</strong></p></td>
 <td><p><strong>「有心無核」不插電慈善音樂會」</strong></p></td>
 <td><p>柴灣青年廣場 Y劇院</p></td>
 <td><p>有心無核，天梯，新預言書，最後晚餐</p></td>
-<td><p>由音樂雜誌《re:spect》及<a href="../Page/地球之友.md" title="wikilink">地球之友合辦</a>，音樂會將以不插電形式進行，宣揚環保意念。所有收益將會扣除基本開支後，全數撥捐香港地球之友[24]</p></td>
+<td><p>由音樂雜誌《re:spect》及<a href="../Page/地球之友.md" title="wikilink">地球之友</a>合辦，音樂會將以不插電形式進行，宣揚環保意念。所有收益將會扣除基本開支後，全數撥捐香港地球之友[24]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年9月22日</p></td>
 <td><p><strong>《能者舞台非凡夜2011》</strong></p></td>
 <td><p><a href="../Page/九龍灣國際展貿中心.md" title="wikilink">九龍灣國際展貿中心</a></p></td>
 <td><p>-</p></td>
-<td><p>由<a href="../Page/香港電台.md" title="wikilink">香港電台與</a><a href="https://zh.wikipedia.org/wiki/勞工及福利局合辦" title="wikilink">勞工及福利局合辦合辦的綜藝晚會匯聚了本港及海外多位技藝非凡的殘疾人士表演者</a>，聯同本地知名演藝人，以不同的表演藝術範疇聯合演出，展現殘疾人士有其所能的一面。<ref>{{Cite web|url=<a href="http://app3.rthk.org.hk/press/main.php?id=626%7Ctitle=">http://app3.rthk.org.hk/press/main.php?id=626|title=</a> 傷健匯聚《能者舞台非凡夜》</p></td>
+<td><p>由<a href="../Page/香港電台.md" title="wikilink">香港電台</a>與<a href="https://zh.wikipedia.org/wiki/勞工及福利局合辦" title="wikilink">勞工及福利局合辦合辦的綜藝晚會匯聚了本港及海外多位技藝非凡的殘疾人士表演者</a>，聯同本地知名演藝人，以不同的表演藝術範疇聯合演出，展現殘疾人士有其所能的一面。<ref>{{Cite web|url=<a href="http://app3.rthk.org.hk/press/main.php?id=626%7Ctitle=">http://app3.rthk.org.hk/press/main.php?id=626|title=</a> 傷健匯聚《能者舞台非凡夜》</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年8月26日</p></td>
@@ -1762,7 +1618,7 @@ Y綜藝館</p></td>
 <td><p>2015年2月7日</p></td>
 <td><center>
 <p><strong>Timeless Samantha's Live 2015 林志美音樂會</strong></p></td>
-<td><p><a href="../Page/香港演藝學院.md" title="wikilink">香港演藝學院歌劇院</a></p></td>
+<td><p><a href="../Page/香港演藝學院.md" title="wikilink">香港演藝學院</a>歌劇院</p></td>
 <td><p>因我愛你，<br />
 愛的火花</p></td>
 <td><p>/</p></td>
@@ -1779,7 +1635,7 @@ Y綜藝館</p></td>
 望月，<br />
 昨夜街頭，<br />
 珍惜這地球</p></td>
-<td><p>C AllStar與<a href="https://zh.wikipedia.org/wiki/林一峰" title="wikilink">林一峰及</a><a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶所合唱改編版的</a><a href="../Page/憑著愛.md" title="wikilink">憑著愛為此作品展之前奏曲</a></p></td>
+<td><p>C AllStar與<a href="https://zh.wikipedia.org/wiki/林一峰" title="wikilink">林一峰及</a><a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶所合唱改編版的</a><a href="../Page/憑著愛.md" title="wikilink">憑著愛</a>為此作品展之前奏曲</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年1月3日</p></td>
@@ -1860,7 +1716,7 @@ Y綜藝館</p></td>
 <td><p>2019年1月25日</p></td>
 <td><center>
 <p><strong>港樂x倫永亮鋼琴後的人交響音樂會</strong></p></td>
-<td><p><a href="../Page/香港文化中心.md" title="wikilink">香港文化中心音樂廳</a></p></td>
+<td><p><a href="../Page/香港文化中心.md" title="wikilink">香港文化中心</a>音樂廳</p></td>
 <td><p>月亮不代表我的心，<br />
 六月飛霜，<br />
 我為何讓你走，<br />
@@ -2464,7 +2320,7 @@ Jase模仿<a href="https://zh.wikipedia.org/wiki/陳小春" title="wikilink">陳
 <td><p>第5集</p></td>
 <td><p>嘉賓</p></td>
 <td><p>演唱歌曲：<br />
-時間之光、煙花非花、Stand by me(與<a href="../Page/李思捷.md" title="wikilink">李思捷合唱</a>)</p></td>
+時間之光、煙花非花、Stand by me(與<a href="../Page/李思捷.md" title="wikilink">李思捷</a>合唱)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2503,7 +2359,7 @@ Jase模仿<a href="https://zh.wikipedia.org/wiki/陳小春" title="wikilink">陳
 <td><p><strong>《<a href="https://zh.wikipedia.org/wiki/我愛香港" title="wikilink">我愛香港</a>》</strong></p></td>
 <td><p>第7集</p></td>
 <td><p>嘉賓</p></td>
-<td><p>代表 <a href="../Page/紅磡.md" title="wikilink">紅磡區</a></p></td>
+<td><p>代表 <a href="../Page/紅磡.md" title="wikilink">紅磡</a>區</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2672,7 +2528,7 @@ White Christmas、All You Need Is Love、<br />
 <td><p><strong>C AllStar<br />
 （白隊）</strong><br />
 似是故人來、<br />
-皇后大道東（與<a href="../Page/羅大佑.md" title="wikilink">羅大佑合唱</a>）</p></td>
+皇后大道東（與<a href="../Page/羅大佑.md" title="wikilink">羅大佑</a>合唱）</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年10月2日</p></td>
@@ -2708,7 +2564,7 @@ Fill Me In - <a href="../Page/何建曦.md" title="wikilink">Jase</a><br />
 <td><p>第174集</p></td>
 <td><p>－</p></td>
 <td><p>飛機場的十點半<br />
-（與<a href="../Page/彭永琛.md" title="wikilink">彭永琛合唱</a>）、<br />
+（與<a href="../Page/彭永琛.md" title="wikilink">彭永琛</a>合唱）、<br />
 時日如飛、家書</p></td>
 </tr>
 <tr class="even">
@@ -2735,7 +2591,7 @@ Fill Me In - <a href="../Page/何建曦.md" title="wikilink">Jase</a><br />
 <td><p>第8集</p></td>
 <td><p>中英名曲 娓娓唱來</p></td>
 <td><p>眉頭不再猛皺、How Deep Is Your Love<br />
-（與原唱者<a href="../Page/杜麗莎.md" title="wikilink">杜麗莎合唱</a>）</p></td>
+（與原唱者<a href="../Page/杜麗莎.md" title="wikilink">杜麗莎</a>合唱）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年7月19日</p></td>
@@ -2743,7 +2599,7 @@ Fill Me In - <a href="../Page/何建曦.md" title="wikilink">Jase</a><br />
 <td><p>第19集</p></td>
 <td><p>抒情之音「呂呂」不絕</p></td>
 <td><p>求你講清楚、沙沙的雨<br />
-（與原唱者<a href="../Page/呂方.md" title="wikilink">呂方合唱</a>）</p></td>
+（與原唱者<a href="../Page/呂方.md" title="wikilink">呂方</a>合唱）</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年8月28日</p></td>
@@ -2779,7 +2635,7 @@ Fill Me In - <a href="../Page/何建曦.md" title="wikilink">Jase</a><br />
 愛的教育 - <a href="../Page/吳崇銘.md" title="wikilink">King</a>、<br />
 早知 - <a href="../Page/何建曦.md" title="wikilink">Jase</a>、<br />
 徹夜纏綿<br />
-（與<a href="../Page/彭永琛.md" title="wikilink">彭永琛合唱</a>）</p>
+（與<a href="../Page/彭永琛.md" title="wikilink">彭永琛</a>合唱）</p>
 <ul>
 <li><a href="../Page/梁釗峰.md" title="wikilink">釗峰於第</a>5 - 8集擔任嘉賓主持</li>
 </ul></td>
@@ -2789,7 +2645,7 @@ Fill Me In - <a href="../Page/何建曦.md" title="wikilink">Jase</a><br />
 <td><p>樂壇詞聖盧國沾</p></td>
 <td><p>第1集</p></td>
 <td><p>－</p></td>
-<td><p>大地恩情（與原唱者<a href="../Page/區瑞強.md" title="wikilink">區瑞強合唱</a>）</p></td>
+<td><p>大地恩情（與原唱者<a href="../Page/區瑞強.md" title="wikilink">區瑞強</a>合唱）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年12月16日</p></td>
@@ -2812,7 +2668,7 @@ Fill Me In - <a href="../Page/何建曦.md" title="wikilink">Jase</a><br />
 <td><p>紀念搖滾巨星 黃家駒</p></td>
 <td><p>（<a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>）<br />
 AMANI<br />
-灰色軌跡 -（與<a href="../Page/吳浩康.md" title="wikilink">吳浩康合唱</a>）、<br />
+灰色軌跡 -（與<a href="../Page/吳浩康.md" title="wikilink">吳浩康</a>合唱）、<br />
 無悔這一生 - (大合唱)</p></td>
 </tr>
 <tr class="even">
@@ -2852,7 +2708,7 @@ AMANI<br />
 愈吻愈傷心<br />
 （原唱：蘇永康）、<br />
 Miss You Finally<br />
-(與<a href="../Page/馮允謙.md" title="wikilink">馮允謙合唱</a>)<br />
+(與<a href="../Page/馮允謙.md" title="wikilink">馮允謙</a>合唱)<br />
 有人喜歡藍 -（大合唱）</p></td>
 </tr>
 </tbody>
@@ -2970,7 +2826,7 @@ K歌之王</p></td>
 <td><p><strong><a href="../Page/我是歌手_(第四季).md" title="wikilink">我是歌手第四季</a></strong></p></td>
 <td><p>第十期</p></td>
 <td><p>天梯<br />
-(與<a href="../Page/李克勤.md" title="wikilink">李克勤合唱</a>)</p></td>
+(與<a href="../Page/李克勤.md" title="wikilink">李克勤</a>合唱)</p></td>
 <td><p>做現場和聲團</p></td>
 </tr>
 </tbody>
@@ -3008,7 +2864,7 @@ K歌之王</p></td>
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/臥底巨星" title="wikilink">臥底巨星</a><br />
 [56]</p></td>
 <td><p><strong><a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>-鐵柱<br />
-(<a href="../Page/李榮浩.md" title="wikilink">李榮浩飾</a>)</strong></p></td>
+(<a href="../Page/李榮浩.md" title="wikilink">李榮浩</a>飾)</strong></p></td>
 <td><p>動作喜劇</p></td>
 <td></td>
 </tr>
@@ -3213,13 +3069,13 @@ MV[60]</p></td>
 
 <!-- end list -->
 
-  - 慈善大使（[西貢](https://zh.wikipedia.org/wiki/西貢 "wikilink")[高爾夫球慈善賽](../Page/高爾夫球.md "wikilink")2015）
+  - 慈善大使（[西貢](https://zh.wikipedia.org/wiki/西貢 "wikilink")[高爾夫球](../Page/高爾夫球.md "wikilink")慈善賽2015）
   - 善事大使 （[東華三院](../Page/東華三院.md "wikilink")）
   - 活力大使（[東華慈善嘉年華](https://zh.wikipedia.org/wiki/東華慈善嘉年華 "wikilink")）
   - 樂施大使（[樂施會](../Page/樂施會.md "wikilink")）
   - 甜心大使（[九龍樂善堂](../Page/九龍樂善堂.md "wikilink")）
   - 一個地球大行動 活動大使（[WWF](https://zh.wikipedia.org/wiki/WWF "wikilink")）
-  - 義工大使（2015[滙豐愛心傳城義工大行動](../Page/滙豐.md "wikilink")）
+  - 義工大使（2015[滙豐](../Page/滙豐.md "wikilink")愛心傳城義工大行動）
 
 <!-- end list -->
 
@@ -3233,8 +3089,7 @@ MV[60]</p></td>
   - 樂施大使（[樂施會](../Page/樂施會.md "wikilink")）
   - [香港心理衞生會](https://zh.wikipedia.org/wiki/香港心理衞生會 "wikilink")60周年大使
   - 地球一小時（[WWF](https://zh.wikipedia.org/wiki/WWF "wikilink")）
-  - 粉紅大使 「PinkDot
-    HK（[一點粉紅](https://zh.wikipedia.org/wiki/一點粉紅 "wikilink")）」
+  - 粉紅大使 「PinkDot HK（[一點粉紅](https://zh.wikipedia.org/wiki/一點粉紅 "wikilink")）」
   - [Green Monday](../Page/Green_Monday.md "wikilink") 大使（無綠不歡星期一）
   - 蝴蝶大使（「7.14 全城愛蝶日」）
   - 「相中畫」創作比賽大使（香港城市大學）
@@ -3247,8 +3102,7 @@ MV[60]</p></td>
 
   - 感恩大使
   - 地球一小時（[WWF](https://zh.wikipedia.org/wiki/WWF "wikilink")）
-  - 一翅都唔食（[Shark Savers Hong
-    Kong](https://zh.wikipedia.org/wiki/Shark_Savers_Hong_Kong "wikilink")）
+  - 一翅都唔食（[Shark Savers Hong Kong](https://zh.wikipedia.org/wiki/Shark_Savers_Hong_Kong "wikilink")）
   - 星級惜食大使（[地球之友](../Page/地球之友.md "wikilink")）
   - 太陽計劃榮譽大使（[香港電台](../Page/香港電台.md "wikilink")）
   - 東華愛心大使（愛心滿東華）
@@ -3402,69 +3256,35 @@ MV[60]</p></td>
 
 ## 傳媒專訪
 
-  - 2009年3月16日：[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink")
-    《[城市脈搏：唱好 '80後時代曲 '
-    MK二百人圍](http://hk.apple.nextmedia.com/template/apple_sub/art_main.php?iss_id=20100316&sec_id=12187379&subsec_id=13277372&art_id=13823633)》
-  - 2010年3月19日：[東方日報](https://zh.wikipedia.org/wiki/東方日報 "wikilink") 《[C
-    AllStar街頭表演練大膽](http://orientaldaily.on.cc/cnt/entertainment/20100319/00282_066.html)》
-  - 2010年5月1日：[EC
-    Magazine](https://zh.wikipedia.org/wiki/EC_Magazine "wikilink") 《[C
-    AllStar From Zero to
-    Hero](http://www.facebook.com/photo.php?fbid=101436679903202&set=a.101333993246804.547.100001106106225)》
-  - 2010年6月2日：[明Teens](https://zh.wikipedia.org/wiki/明Teens "wikilink")
-    《[C
-    AllStar街頭歌王](http://life.mingpao.com/cfm/ebook3.cfm?File=20100602/teens/teens.txt)》
-  - 2010年7月23日：蘋果日報
-    《[代Cult1：80後無樂器Band：我們就是貪玩爛唱](http://hk.apple.nextmedia.com/template/apple_sub/art_main.php?iss_id=20100723&sec_id=12187379&subsec=13277372&art_id=14267555)》
-  - 2011年5月18日：[Ontv
-    東方電視](https://zh.wikipedia.org/wiki/Ontv "wikilink") 《[C
-    AllStar陳健安專訪-足球篇](http://tv.on.cc/index.html?s=3&ss=95&i=OSP-110518-12287-35M&d=1305733239)》
-  - 2011年5月18日：Ontv 東方電視 《[C
-    AllStar陳健安專訪-學業篇](http://tv.on.cc/index.html?s=3&ss=95&i=OSP-110518-12287-37M&d=1305733408)》
-  - 2011年5月18日：Ontv 東方電視 《[C
-    AllStar陳健安專訪-歌唱篇](http://tv.on.cc/index.html?s=3&ss=95&i=OSP-110518-12287-36M&d=1305733281)》
-  - 2011年7月9日：Ontv 東方電視 《[娛樂On Show C
-    AllStar現場大玩Acapella](http://tv.on.cc/index.html?s=4&ss=&i=OEN110624-11718-500M&d=1310187948)》
-  - 2011年7月11日：Ontv 東方電視 《[娛樂On Show 1.C
-    AllStar再挑戰「信樂團」?\!](http://tv.on.cc/index.html?s=4&ss=&i=OEN110624-11718-501M&d=1310362879)》
-  - 2011年7月12日：Ontv 東方電視 《[娛樂On Show 2.C
-    AllStar:下半年我o地好忙呀\!](http://tv.on.cc/index.html?s=4&ss=&i=OEN110624-11718-511M&d=1310436838)》
-  - 2011年7月13日：Ontv 東方電視 《[娛樂On Show 3.C
-    AllStar唔想俾人標籤「80後」](http://tv.on.cc/index.html?s=4&ss=&i=OEN110624-11718-521M&d=1310522851)》
-  - 2011年7月14日：Ontv 東方電視 《[娛樂On Show 4.C
-    AllStar打牌都可以Acapella」](http://tv.on.cc/index.html?s=4&ss=&i=OEN110624-11718-531M&d=1310620524)》
-  - 2011年7月15日：Ontv 東方電視 《[娛樂On Show 5.C
-    AllStar冧爆劉心悠容祖兒」](http://tv.on.cc/index.html?s=4&ss=&i=OEN110624-11718-541M&d=1310697805)》
-  - 2011年8月：[Fone TV](https://zh.wikipedia.org/wiki/Fone_TV "wikilink")
-    《[星星友偈傾:C
-    AllStar訪問 1](http://www.youtube.com/watch?v=tPvStpq6ZqM)》
-  - 2011年8月：Fone TV 《[星星友偈傾:C
-    AllStar訪問 2](http://www.youtube.com/watch?v=JGmuf3d4Bnc&feature=related)》
-  - 2011年8月17日：[經濟日報](https://zh.wikipedia.org/wiki/經濟日報 "wikilink") 《[C
-    AllStar╳健吾
-    流行音樂劇場《摘星天梯》樂壇尋夢記](https://web.archive.org/web/20150420032413/http://www.hket.com/eti/article/9377447d-7fd3-4fd5-b8c6-0df9a93241b9-531033?section=012)》
-  - 2011年9月1日：[Milk](https://zh.wikipedia.org/wiki/Milk "wikilink") 《C
-    AllStar╳健吾 Stairway to stardom》
-  - 2011年9月2日：[StageTV](https://zh.wikipedia.org/wiki/StageTV "wikilink")
-    《[毒舌前戲(33)—C
-    ALLSTAR真心話](http://www.youtube.com/watch?v=0ZMXfOP4Tek&feature=youtu.be)》
-  - 2011年9月21日：東方日報 《[C AllStar × 健吾
-    夢想摘星](http://orientaldaily.on.cc/cnt/lifestyle/20110921/00322_001.html)》
-  - 2011年10月20日：[优酷娱乐](https://zh.wikipedia.org/wiki/优酷娱乐 "wikilink")
-    《[优酷娱乐播报 2011 10月C ALLSTAR
-    专访 111020](http://v.youku.com/v_show/id_XMzE0NDU0ODMy.html)》
-  - 2011年10月21日：[新浪網](https://zh.wikipedia.org/wiki/新浪網 "wikilink") 《[C
-    All
-    Star邀粉絲2013維園見](http://ent.sina.com.hk/news/2/4/1/687727/1.html)》
-  - 2011年10月21日：東方日報 《[On仔護士生涯
-    難忘「打包」](http://orientaldaily.on.cc/cnt/entertainment/20111021/00282_066.html)》
+  - 2009年3月16日：[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink") 《[城市脈搏：唱好 '80後時代曲 ' MK二百人圍](http://hk.apple.nextmedia.com/template/apple_sub/art_main.php?iss_id=20100316&sec_id=12187379&subsec_id=13277372&art_id=13823633)》
+  - 2010年3月19日：[東方日報](https://zh.wikipedia.org/wiki/東方日報 "wikilink") 《[C AllStar街頭表演練大膽](http://orientaldaily.on.cc/cnt/entertainment/20100319/00282_066.html)》
+  - 2010年5月1日：[EC Magazine](https://zh.wikipedia.org/wiki/EC_Magazine "wikilink") 《[C AllStar From Zero to Hero](http://www.facebook.com/photo.php?fbid=101436679903202&set=a.101333993246804.547.100001106106225)》
+  - 2010年6月2日：[明Teens](https://zh.wikipedia.org/wiki/明Teens "wikilink") 《[C AllStar街頭歌王](http://life.mingpao.com/cfm/ebook3.cfm?File=20100602/teens/teens.txt)》
+  - 2010年7月23日：蘋果日報 《[代Cult1：80後無樂器Band：我們就是貪玩爛唱](http://hk.apple.nextmedia.com/template/apple_sub/art_main.php?iss_id=20100723&sec_id=12187379&subsec=13277372&art_id=14267555)》
+  - 2011年5月18日：[Ontv 東方電視](https://zh.wikipedia.org/wiki/Ontv "wikilink") 《[C AllStar陳健安專訪-足球篇](http://tv.on.cc/index.html?s=3&ss=95&i=OSP-110518-12287-35M&d=1305733239)》
+  - 2011年5月18日：Ontv 東方電視 《[C AllStar陳健安專訪-學業篇](http://tv.on.cc/index.html?s=3&ss=95&i=OSP-110518-12287-37M&d=1305733408)》
+  - 2011年5月18日：Ontv 東方電視 《[C AllStar陳健安專訪-歌唱篇](http://tv.on.cc/index.html?s=3&ss=95&i=OSP-110518-12287-36M&d=1305733281)》
+  - 2011年7月9日：Ontv 東方電視 《[娛樂On Show C AllStar現場大玩Acapella](http://tv.on.cc/index.html?s=4&ss=&i=OEN110624-11718-500M&d=1310187948)》
+  - 2011年7月11日：Ontv 東方電視 《[娛樂On Show 1.C AllStar再挑戰「信樂團」?\!](http://tv.on.cc/index.html?s=4&ss=&i=OEN110624-11718-501M&d=1310362879)》
+  - 2011年7月12日：Ontv 東方電視 《[娛樂On Show 2.C AllStar:下半年我o地好忙呀\!](http://tv.on.cc/index.html?s=4&ss=&i=OEN110624-11718-511M&d=1310436838)》
+  - 2011年7月13日：Ontv 東方電視 《[娛樂On Show 3.C AllStar唔想俾人標籤「80後」](http://tv.on.cc/index.html?s=4&ss=&i=OEN110624-11718-521M&d=1310522851)》
+  - 2011年7月14日：Ontv 東方電視 《[娛樂On Show 4.C AllStar打牌都可以Acapella」](http://tv.on.cc/index.html?s=4&ss=&i=OEN110624-11718-531M&d=1310620524)》
+  - 2011年7月15日：Ontv 東方電視 《[娛樂On Show 5.C AllStar冧爆劉心悠容祖兒」](http://tv.on.cc/index.html?s=4&ss=&i=OEN110624-11718-541M&d=1310697805)》
+  - 2011年8月：[Fone TV](https://zh.wikipedia.org/wiki/Fone_TV "wikilink") 《[星星友偈傾:C AllStar訪問 1](http://www.youtube.com/watch?v=tPvStpq6ZqM)》
+  - 2011年8月：Fone TV 《[星星友偈傾:C AllStar訪問 2](http://www.youtube.com/watch?v=JGmuf3d4Bnc&feature=related)》
+  - 2011年8月17日：[經濟日報](https://zh.wikipedia.org/wiki/經濟日報 "wikilink") 《[C AllStar╳健吾 流行音樂劇場《摘星天梯》樂壇尋夢記](https://web.archive.org/web/20150420032413/http://www.hket.com/eti/article/9377447d-7fd3-4fd5-b8c6-0df9a93241b9-531033?section=012)》
+  - 2011年9月1日：[Milk](https://zh.wikipedia.org/wiki/Milk "wikilink") 《C AllStar╳健吾 Stairway to stardom》
+  - 2011年9月2日：[StageTV](https://zh.wikipedia.org/wiki/StageTV "wikilink") 《[毒舌前戲(33)—C ALLSTAR真心話](http://www.youtube.com/watch?v=0ZMXfOP4Tek&feature=youtu.be)》
+  - 2011年9月21日：東方日報 《[C AllStar × 健吾 夢想摘星](http://orientaldaily.on.cc/cnt/lifestyle/20110921/00322_001.html)》
+  - 2011年10月20日：[优酷娱乐](https://zh.wikipedia.org/wiki/优酷娱乐 "wikilink") 《[优酷娱乐播报 2011 10月C ALLSTAR 专访 111020](http://v.youku.com/v_show/id_XMzE0NDU0ODMy.html)》
+  - 2011年10月21日：[新浪網](https://zh.wikipedia.org/wiki/新浪網 "wikilink") 《[C All Star邀粉絲2013維園見](http://ent.sina.com.hk/news/2/4/1/687727/1.html)》
+  - 2011年10月21日：東方日報 《[On仔護士生涯 難忘「打包」](http://orientaldaily.on.cc/cnt/entertainment/20111021/00282_066.html)》
 
 ## 參考資料
 
 ## 外部連結
 
-  - [C ALLSTAR
-    官方網頁](https://web.archive.org/web/20150426144115/http://callstar.hk/)
+  - [C ALLSTAR 官方網頁](https://web.archive.org/web/20150426144115/http://callstar.hk/)
 
   - [C ALLSTAR MYSPACE](http://www.myspace.com/kingdomcallstar)
 
@@ -3474,24 +3294,20 @@ MV[60]</p></td>
   - [C AllStar](https://www.instagram.com/c_allstar/)的Instagram
 
   -
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [Hong Kong Road To Ultra 2018 Facebook
-    Page](https://www.facebook.com/UltraHongKong/?locale2=zh_HK)
+5.  [Hong Kong Road To Ultra 2018 Facebook Page](https://www.facebook.com/UltraHongKong/?locale2=zh_HK)
 6.
 7.
 8.
-9.  [C
-    AllStar安仔代表香港出征利物浦足球賽：攞咗季軍。(香港01)](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/189663/c-allstar%E5%AE%89%E4%BB%94%E4%BB%A3%E8%A1%A8%E9%A6%99%E6%B8%AF%E5%87%BA%E5%BE%81%E5%88%A9%E7%89%A9%E6%B5%A6%E8%B6%B3%E7%90%83%E8%B3%BD-%E6%94%9E%E5%92%97%E5%AD%A3%E8%BB%8D)
+9.  [C AllStar安仔代表香港出征利物浦足球賽：攞咗季軍。(香港01)](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/189663/c-allstar%E5%AE%89%E4%BB%94%E4%BB%A3%E8%A1%A8%E9%A6%99%E6%B8%AF%E5%87%BA%E5%BE%81%E5%88%A9%E7%89%A9%E6%B5%A6%E8%B6%B3%E7%90%83%E8%B3%BD-%E6%94%9E%E5%92%97%E5%AD%A3%E8%BB%8D)
 10.
 11.
-12. [C AllStar告別舞台
-    鄭秀文助陣〈最後一次〉](http://bka.mpweekly.com/focus/20171022-87810)
+12. [C AllStar告別舞台 鄭秀文助陣〈最後一次〉](http://bka.mpweekly.com/focus/20171022-87810)
 13.
 14.
 15.
@@ -3544,8 +3360,7 @@ MV[60]</p></td>
 62.
 63.
 64. OUTLOUD AFTER PARTY [1](https://www.instagram.com/p/Ba1fb_GjcRE/)
-65. [Road to Ultra
-    香港 2018](https://www.asiaworld-expo.com/zh-tc/events/detail/road-to-ultra-hong-kong-2018)
+65. [Road to Ultra 香港 2018](https://www.asiaworld-expo.com/zh-tc/events/detail/road-to-ultra-hong-kong-2018)
 66.
 67.
 68.

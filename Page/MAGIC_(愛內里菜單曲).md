@@ -21,15 +21,12 @@
 
 ## 收录专辑
 
-  - [ALL SINGLES BEST 〜THANX 10th
-    ANNIVERSARY〜](https://zh.wikipedia.org/wiki/ALL_SINGLES_BEST_〜THANX_10th_ANNIVERSARY〜 "wikilink")（\#1）
-  - [THE BEST OF DETECTIVE CONAN 4 〜名探偵コナン
-    テーマ曲集4〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_4_〜名探偵コナン_テーマ曲集4〜 "wikilink")（\#1）
+  - [ALL SINGLES BEST 〜THANX 10th ANNIVERSARY〜](https://zh.wikipedia.org/wiki/ALL_SINGLES_BEST_〜THANX_10th_ANNIVERSARY〜 "wikilink")（\#1）
+  - [THE BEST OF DETECTIVE CONAN 4 〜名探偵コナン テーマ曲集4〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_4_〜名探偵コナン_テーマ曲集4〜 "wikilink")（\#1）
 
 ## 百度试听
 
-\[<http://box.zhangmen.baidu.com/m?word=mp3,,,%5Bmagic+%B0%AE%C4%DA%C0%EF%B2%CB%5D&cat=0&gate=1&ct=134217728&tn=baidumt,magic++&si=magic>;;%B0%AE%C4%DA%C0%EF%B2%CB;;0;;0\&lm=-1\&mtid=2\&d=9\&size=1887436\&attr=0,0\&titlekey=1551534545,3978846223
-百度试听\]
+\[<http://box.zhangmen.baidu.com/m?word=mp3,,,%5Bmagic+%B0%AE%C4%DA%C0%EF%B2%CB%5D&cat=0&gate=1&ct=134217728&tn=baidumt,magic++&si=magic>;;%B0%AE%C4%DA%C0%EF%B2%CB;;0;;0\&lm=-1\&mtid=2\&d=9\&size=1887436\&attr=0,0\&titlekey=1551534545,3978846223 百度试听\]
 
 <table>
 <tbody>
@@ -45,8 +42,4 @@
 </tbody>
 </table>
 
-[Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink")
-[Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
-[Category:魔法題材樂曲](https://zh.wikipedia.org/wiki/Category:魔法題材樂曲 "wikilink")
-[Category:愛內里菜歌曲](https://zh.wikipedia.org/wiki/Category:愛內里菜歌曲 "wikilink")
+[Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink") [Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink") [Category:魔法題材樂曲](https://zh.wikipedia.org/wiki/Category:魔法題材樂曲 "wikilink") [Category:愛內里菜歌曲](https://zh.wikipedia.org/wiki/Category:愛內里菜歌曲 "wikilink")

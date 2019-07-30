@@ -1,5 +1,4 @@
-《**CS Channel**》（，*CS
-Channel*）是[東京事變的第九張](../Page/東京事變.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。日本於2011年9月21日同步發行DVD與BD\[1\]，台灣則是等到9月23日才同步發行台壓版\[2\]、進口版DVD及進口版BD\[3\]。初回限定為「透明精裝外盒」。DVD發行當週即賣出0.8萬張，總計銷售額1.1萬張，而藍光版本發行當週則賣出0.4萬張。
+《**CS Channel**》（，*CS Channel*）是[東京事變](../Page/東京事變.md "wikilink")的第九張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。日本於2011年9月21日同步發行DVD與BD\[1\]，台灣則是等到9月23日才同步發行台壓版\[2\]、進口版DVD及進口版BD\[3\]。初回限定為「透明精裝外盒」。DVD發行當週即賣出0.8萬張，總計銷售額1.1萬張，而藍光版本發行當週則賣出0.4萬張。
 
 ## 曲目
 
@@ -13,9 +12,7 @@ Channel*）是[東京事變的第九張](../Page/東京事變.md "wikilink")[DVD
       - 作詞：椎名林檎　作曲：[伊澤一葉](../Page/伊澤一葉.md "wikilink")、椎名林檎
 5.  每個女孩子啊（，*Fly Me To Heaven)*）
       - 作詞：椎名林檎　作曲：椎名林檎
-6.  [歡迎來到天國 CS
-    Edit](https://zh.wikipedia.org/wiki/歡迎來到天國 "wikilink")（，*Where's
-    Heaven Tokyo Bay Ver. CS Edit)*）
+6.  [歡迎來到天國 CS Edit](https://zh.wikipedia.org/wiki/歡迎來到天國 "wikilink")（，*Where's Heaven Tokyo Bay Ver. CS Edit)*）
       - 作詞：椎名林檎　作曲：椎名林檎
 7.  太過帥氣（，*Too Handsome*）
       - 作詞：[兒玉裕一](https://zh.wikipedia.org/wiki/兒玉裕一 "wikilink")　作曲：椎名林檎
@@ -149,8 +146,7 @@ CS Channel</p></td>
 ## 外部連結
 
   - [《CS Channel》日本特設網站](http://www.emimusic.jp/tokyojihen/cschannel/)
-  - [《CS
-    Channel》台灣特設網站](http://www.gold-typhoon.com.tw/pop/cschannel/index.html)
+  - [《CS Channel》台灣特設網站](http://www.gold-typhoon.com.tw/pop/cschannel/index.html)
 
 [Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink")
 

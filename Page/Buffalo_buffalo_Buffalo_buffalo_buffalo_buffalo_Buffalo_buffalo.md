@@ -5,26 +5,14 @@ V = [动词](../Page/动词.md "wikilink")
 NP =
 RC = [关系从句](https://zh.wikipedia.org/wiki/关系从句 "wikilink")
 VP = [动词短语](https://zh.wikipedia.org/wiki/动词短语 "wikilink")
-S = [句子](https://zh.wikipedia.org/wiki/句子 "wikilink")
-](https://zh.wikipedia.org/wiki/File:Buffalo_sentence_1_parse_tree.svg "fig:分析树 PN = 专有名词 N = 名词 V = 动词 NP =  RC = 关系从句 VP = 动词短语 S = 句子 ")
-"****"是[英语中一句](../Page/英语.md "wikilink")[语法正确的句子](../Page/语法.md "wikilink")，用来展示如何使用[同形同音词创造复杂的语言结构](https://zh.wikipedia.org/wiki/同形同音词 "wikilink")。1972年，[纽约州立大学水牛城分校助理教授](https://zh.wikipedia.org/wiki/纽约州立大学水牛城分校 "wikilink")[威廉·拉帕波特](https://zh.wikipedia.org/wiki/威廉·拉帕波特 "wikilink")（William
-J. Rapaport）最早使用了这句句子。\[1\]1992年，拉帕波特将其发表在《[LINGUIST
-List](https://zh.wikipedia.org/wiki/LINGUIST_List "wikilink")》上。\[2\]
-1994年，[史迪芬·平克在其著作](../Page/史迪芬·平克.md "wikilink")《[语言本能](https://zh.wikipedia.org/wiki/语言本能 "wikilink")》（**）中也提到了这一句子。\[3\]
+S = [句子](https://zh.wikipedia.org/wiki/句子 "wikilink") ](https://zh.wikipedia.org/wiki/File:Buffalo_sentence_1_parse_tree.svg "fig:分析树 PN = 专有名词 N = 名词 V = 动词 NP =  RC = 关系从句 VP = 动词短语 S = 句子 ") "****"是[英语](../Page/英语.md "wikilink")中一句[语法](../Page/语法.md "wikilink")正确的句子，用来展示如何使用[同形同音词创造复杂的语言结构](https://zh.wikipedia.org/wiki/同形同音词 "wikilink")。1972年，[纽约州立大学水牛城分校助理教授](https://zh.wikipedia.org/wiki/纽约州立大学水牛城分校 "wikilink")[威廉·拉帕波特](https://zh.wikipedia.org/wiki/威廉·拉帕波特 "wikilink")（William J. Rapaport）最早使用了这句句子。\[1\]1992年，拉帕波特将其发表在《[LINGUIST List](https://zh.wikipedia.org/wiki/LINGUIST_List "wikilink")》上。\[2\] 1994年，[史迪芬·平克](../Page/史迪芬·平克.md "wikilink")在其著作《[语言本能](https://zh.wikipedia.org/wiki/语言本能 "wikilink")》（**）中也提到了这一句子。\[3\]
 
 ## 句子结构
 
-[Buffalo_sentence_diagram.svg](https://zh.wikipedia.org/wiki/File:Buffalo_sentence_diagram.svg "fig:Buffalo_sentence_diagram.svg")
-[American_bison_k5680-1.jpg](https://zh.wikipedia.org/wiki/File:American_bison_k5680-1.jpg "fig:American_bison_k5680-1.jpg")\]\]
-[Buffalo,_New_York_from_I-190_North_entering_downtown.jpg](https://zh.wikipedia.org/wiki/File:Buffalo,_New_York_from_I-190_North_entering_downtown.jpg "fig:Buffalo,_New_York_from_I-190_North_entering_downtown.jpg")[水牛城](../Page/水牛城.md "wikilink")\]\]
-[Buffalo_buffalo_WikiWorld_by_Greg_Williams.png](https://zh.wikipedia.org/wiki/File:Buffalo_buffalo_WikiWorld_by_Greg_Williams.png "fig:Buffalo_buffalo_WikiWorld_by_Greg_Williams.png")
-句子本身缺少了标点，句中的一词包含了三种不同的意义，按出现次序分别为：
+[Buffalo_sentence_diagram.svg](https://zh.wikipedia.org/wiki/File:Buffalo_sentence_diagram.svg "fig:Buffalo_sentence_diagram.svg") [American_bison_k5680-1.jpg](https://zh.wikipedia.org/wiki/File:American_bison_k5680-1.jpg "fig:American_bison_k5680-1.jpg")\]\] [Buffalo,_New_York_from_I-190_North_entering_downtown.jpg](https://zh.wikipedia.org/wiki/File:Buffalo,_New_York_from_I-190_North_entering_downtown.jpg "fig:Buffalo,_New_York_from_I-190_North_entering_downtown.jpg")[水牛城](../Page/水牛城.md "wikilink")\]\] [Buffalo_buffalo_WikiWorld_by_Greg_Williams.png](https://zh.wikipedia.org/wiki/File:Buffalo_buffalo_WikiWorld_by_Greg_Williams.png "fig:Buffalo_buffalo_WikiWorld_by_Greg_Williams.png") 句子本身缺少了标点，句中的一词包含了三种不同的意义，按出现次序分别为：
 
-  - **a.**
-    指[美国](../Page/美国.md "wikilink")[纽约州](../Page/纽约州.md "wikilink")[水牛城](../Page/水牛城.md "wikilink")（），作为[前置定语与其后的动物组成](https://zh.wikipedia.org/wiki/前置定语 "wikilink")[名名结构](https://zh.wikipedia.org/wiki/名名结构 "wikilink")（noun
-    adjunct）；
-  - **n.**
-    [名词](https://zh.wikipedia.org/wiki/名词 "wikilink")，指[美洲野牛](../Page/美洲野牛.md "wikilink")（，经常被称为），在句中作为复数（与或相同），以避免使用[冠词](../Page/冠词.md "wikilink")；
+  - **a.** 指[美国](../Page/美国.md "wikilink")[纽约州](../Page/纽约州.md "wikilink")[水牛城](../Page/水牛城.md "wikilink")（），作为[前置定语与其后的动物组成](https://zh.wikipedia.org/wiki/前置定语 "wikilink")[名名结构](https://zh.wikipedia.org/wiki/名名结构 "wikilink")（noun adjunct）；
+  - **n.** [名词](https://zh.wikipedia.org/wiki/名词 "wikilink")，指[美洲野牛](../Page/美洲野牛.md "wikilink")（，经常被称为），在句中作为复数（与或相同），以避免使用[冠词](../Page/冠词.md "wikilink")；
   - **v.** [动词](../Page/动词.md "wikilink")，意为威吓、愚弄、使困惑。
 
 使用上述记号标记此句为：
@@ -34,8 +22,7 @@ List](https://zh.wikipedia.org/wiki/LINGUIST_List "wikilink")》上。\[2\]
 对应中文为：
 
   -
-    水牛城<sup>a</sup>美洲野牛<sup>n</sup>水牛城<sup>a</sup>美洲野牛<sup>n</sup>威吓<sup>v</sup>威吓<sup>v</sup>水牛城<sup>a</sup>
-    美洲野牛<sup>n</sup>。
+    水牛城<sup>a</sup>美洲野牛<sup>n</sup>水牛城<sup>a</sup>美洲野牛<sup>n</sup>威吓<sup>v</sup>威吓<sup>v</sup>水牛城<sup>a</sup> 美洲野牛<sup>n</sup>。
 
 于是，这句话便可以被理解为对生活在水牛城中的美洲野牛的[社会等级的描述](https://zh.wikipedia.org/wiki/社会等级 "wikilink")：
 
@@ -50,8 +37,7 @@ List](https://zh.wikipedia.org/wiki/LINGUIST_List "wikilink")》上。\[2\]
 
 "被水牛城野牛所恐吓的水牛城野牛，去恐吓(了其他一些)水牛城野牛。"
 
-"Buffalo buffalo（主句主语）\[which the\] Buffalo buffalo（从句主语） buffalo（从句动词）
-buffalo（主句动词） Buffalo buffalo（主句直接宾语）."
+"Buffalo buffalo（主句主语）\[which the\] Buffalo buffalo（从句主语） buffalo（从句动词） buffalo（主句动词） Buffalo buffalo（主句直接宾语）."
 
 可以使用同义词代替（美洲野牛）、代替（恐吓），使句子意思更为清晰：
 
@@ -70,8 +56,7 @@ buffalo（主句动词） Buffalo buffalo（主句直接宾语）."
 对应中文为：
 
   -
-    水牛城<sup>a</sup>美洲野牛<sup>n</sup>恐吓<sup>v</sup>水牛城<sup>a</sup>美洲野牛<sup>n</sup>水牛城<sup>a</sup>美洲野牛<sup>n</sup>
-    恐吓<sup>v</sup>。
+    水牛城<sup>a</sup>美洲野牛<sup>n</sup>恐吓<sup>v</sup>水牛城<sup>a</sup>美洲野牛<sup>n</sup>水牛城<sup>a</sup>美洲野牛<sup>n</sup> 恐吓<sup>v</sup>。
 
 中文可表述为：
 
@@ -88,9 +73,7 @@ buffalo（主句动词） Buffalo buffalo（主句直接宾语）."
 
 还有其他一些英文词汇可以按此形式来构成语法正确（但并不一定有意义）的句子，只要该词既是一个有生命的物体的复数形式，同时还能当作及物动词即可。这些词汇包括、、、、、等。
 
-另外还有一些类似的表达，如"[James while John had had had had had had had had had had
-had a better effect on the
-teacher](../Page/James_while_John_had_had_had_had_had_had_had_had_had_had_had_a_better_effect_on_the_teacher.md "wikilink")"。
+另外还有一些类似的表达，如"[James while John had had had had had had had had had had had a better effect on the teacher](../Page/James_while_John_had_had_had_had_had_had_had_had_had_had_had_a_better_effect_on_the_teacher.md "wikilink")"。
 
 ## 参见
 
@@ -99,22 +82,9 @@ teacher](../Page/James_while_John_had_had_had_had_had_had_had_had_had_had_had_a_
 
 ## 参考资料
 
-[Category:同音文](https://zh.wikipedia.org/wiki/Category:同音文 "wikilink")
-[Category:英语](https://zh.wikipedia.org/wiki/Category:英语 "wikilink")
-[Category:语法](https://zh.wikipedia.org/wiki/Category:语法 "wikilink")
-[Category:语言游戏](https://zh.wikipedia.org/wiki/Category:语言游戏 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:同音文](https://zh.wikipedia.org/wiki/Category:同音文 "wikilink") [Category:英语](https://zh.wikipedia.org/wiki/Category:英语 "wikilink") [Category:语法](https://zh.wikipedia.org/wiki/Category:语法 "wikilink") [Category:语言游戏](https://zh.wikipedia.org/wiki/Category:语言游戏 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
-1.  Rapaport, William J. 22 September 2006. "[A History of the Sentence
-    "Buffalo buffalo buffalo Buffalo
-    buffalo."](http://www.cse.buffalo.edu/~rapaport/buffalobuffalo.html)".
-    Accessed 23 September 2006. ([archived
-    copy](http://web.archive.org/web/20070320205923/http://www.cse.buffalo.edu/~rapaport/buffalobuffalo.html))
-2.  Rapaport, William J. 19 February 1992. "[Message 1: Re: 3.154
-    Parsing
-    Challenges](http://www.linguistlist.org/issues/3/3-175.html#1)".
-    Accessed 14 September 2006.
-3.  Pinker, Steven. ''The Language Instinct: How the Mind Creates
-    Language</i>. William Morrow and Company, Inc., New York, 1994. p.
-    210
+1.  Rapaport, William J. 22 September 2006. "[A History of the Sentence "Buffalo buffalo buffalo Buffalo buffalo."](http://www.cse.buffalo.edu/~rapaport/buffalobuffalo.html)". Accessed 23 September 2006. ([archived copy](http://web.archive.org/web/20070320205923/http://www.cse.buffalo.edu/~rapaport/buffalobuffalo.html))
+2.  Rapaport, William J. 19 February 1992. "[Message 1: Re: 3.154 Parsing Challenges](http://www.linguistlist.org/issues/3/3-175.html#1)". Accessed 14 September 2006.
+3.  Pinker, Steven. ''The Language Instinct: How the Mind Creates Language</i>. William Morrow and Company, Inc., New York, 1994. p. 210
 4.

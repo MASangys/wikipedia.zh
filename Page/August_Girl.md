@@ -1,10 +1,8 @@
-《**August
-Girl**》是香港歌手[薛凱琪的個人音樂專輯](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")，於2011年7月18日推出，收錄7首歌曲，當中有兩首國語曲。
+《**August Girl**》是香港歌手[薛凱琪的個人音樂專輯](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")，於2011年7月18日推出，收錄7首歌曲，當中有兩首國語曲。
 
 ## 專輯簡介
 
-相隔近兩年，薛凱琪再次推出個人專輯歌《August
-Girl》，其中，《不要愛我》是改編自其廣東歌，亦收錄歌曲《字花》的兩個版本，所以整體來說只有四首全新歌曲。本專輯與以往不同的便是一改薛凱琪的形象，「唱出不再少女的情懷」，《除下吊帶前》及《8月號》便是其中的代表作，令不一樣的薛凱琪活現在觀眾眼前。
+相隔近兩年，薛凱琪再次推出個人專輯歌《August Girl》，其中，《不要愛我》是改編自其廣東歌，亦收錄歌曲《字花》的兩個版本，所以整體來說只有四首全新歌曲。本專輯與以往不同的便是一改薛凱琪的形象，「唱出不再少女的情懷」，《除下吊帶前》及《8月號》便是其中的代表作，令不一樣的薛凱琪活現在觀眾眼前。
 
 ## 曲目
 
@@ -74,7 +72,7 @@ Girl》，其中，《不要愛我》是改編自其廣東歌，亦收錄歌曲�
 <tr class="odd">
 <td><p>7.</p></td>
 <td><p>唯愛 (國)<br />
-電視劇《畫皮》主題曲 / <a href="../Page/周子揚.md" title="wikilink">周子揚合唱</a></p></td>
+電視劇《畫皮》主題曲 / <a href="../Page/周子揚.md" title="wikilink">周子揚</a>合唱</p></td>
 <td><p><a href="../Page/柳重言.md" title="wikilink">柳重言</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岳熹" title="wikilink">岳熹</a></p></td>
 <td><p>柳重言</p></td>
@@ -110,9 +108,7 @@ Girl》，其中，《不要愛我》是改編自其廣東歌，亦收錄歌曲�
 
 ### 專輯《August Girl》
 
-  - 香港：[2011年度SINA
-    Music樂壇民意指數頒獎禮](../Page/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－SINA
-    Music 全碟試聽 –最高收聽率大碟
+  - 香港：[2011年度SINA Music樂壇民意指數頒獎禮](../Page/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－SINA Music 全碟試聽 –最高收聽率大碟
 
 ### 歌曲《字花》
 
@@ -126,18 +122,13 @@ Girl》，其中，《不要愛我》是改編自其廣東歌，亦收錄歌曲�
 
 ### 歌曲《唇印》
 
-  - 香港：[2011年度SINA
-    Music樂壇民意指數頒獎禮](../Page/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－SINA
-    Music 最高收聽率二十大歌曲
+  - 香港：[2011年度SINA Music樂壇民意指數頒獎禮](../Page/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－SINA Music 最高收聽率二十大歌曲
 
 ## 外部連結
 
-  - [薛凱琪 \~ August
-    Girl](http://www.like4various.com/music/2011/07/10/2011-07-08-%e8%96%9b%e5%87%b1%e7%90%aa-august-girl/)
-  - [KKBOX 薛凱琪 (Fiona Sit) 【AUGUST
-    GIRL】專輯介紹](https://web.archive.org/web/20101229211230/http://hk.kkbox.com/album/T.5yOTTHIKCboQE0F.Cz008l-index.html#album-description)
+  - [薛凱琪 \~ August Girl](http://www.like4various.com/music/2011/07/10/2011-07-08-%e8%96%9b%e5%87%b1%e7%90%aa-august-girl/)
+  - [KKBOX 薛凱琪 (Fiona Sit) 【AUGUST GIRL】專輯介紹](https://web.archive.org/web/20101229211230/http://hk.kkbox.com/album/T.5yOTTHIKCboQE0F.Cz008l-index.html#album-description)
 
 ## 參考文獻
 
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink")
+[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink")

@@ -1,5 +1,5 @@
 
-**日本鐵路車站列表 Ra**收錄了日本鐵路車站中，站名羅馬拼音為字母「**Ra**」或日文假名為「****」起頭的車站。
+ **日本鐵路車站列表 Ra**收錄了日本鐵路車站中，站名羅馬拼音為字母「**Ra**」或日文假名為「****」起頭的車站。
 
 <table>
 <thead>
@@ -69,8 +69,6 @@ Rabendaa-Batake-Eki</p></td>
 </tbody>
 </table>
 
-[ja:日本の鉄道駅一覧
-や-わ行\#ら](https://zh.wikipedia.org/wiki/ja:日本の鉄道駅一覧_や-わ行#ら "wikilink")
+[ja:日本の鉄道駅一覧 や-わ行\#ら](https://zh.wikipedia.org/wiki/ja:日本の鉄道駅一覧_や-わ行#ら "wikilink")
 
-[Category:日本鐵路車站列表](https://zh.wikipedia.org/wiki/Category:日本鐵路車站列表 "wikilink")
-[Category:日本鐵路車站_Ra](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ra "wikilink")
+[Category:日本鐵路車站列表](https://zh.wikipedia.org/wiki/Category:日本鐵路車站列表 "wikilink") [Category:日本鐵路車站_Ra](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ra "wikilink")

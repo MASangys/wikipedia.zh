@@ -1,5 +1,4 @@
-《**弒神者！**》（）由作家[丈月城著作](https://zh.wikipedia.org/wiki/丈月城 "wikilink")，插畫的日本[輕小說作品](../Page/輕小說.md "wikilink")，由[Super
-Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，中文正體版由[青文出版社發行](../Page/青文出版社.md "wikilink")。2011年11月17日宣布動畫化\[1\]，於2012年7月開始播放。
+《**弒神者！**》（）由作家[丈月城著作](https://zh.wikipedia.org/wiki/丈月城 "wikilink")，插畫的日本[輕小說](../Page/輕小說.md "wikilink")作品，由[Super Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，中文正體版由[青文出版社](../Page/青文出版社.md "wikilink")發行。2011年11月17日宣布動畫化\[1\]，於2012年7月開始播放。
 
 ## 故事簡介
 
@@ -24,9 +23,7 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
 <!-- end list -->
 
   -
-    有偷竊能力的石板，能奪走神的部分力量封存在裡面並能將其釋放，草薙護堂就是先利用這個盜取**「白馬」**
-    化身（動畫版則改編成先盜取白馬使用後又盜取**「戰士」**
-    化身）來打倒了烏魯斯拉格納。
+    有偷竊能力的石板，能奪走神的部分力量封存在裡面並能將其釋放，草薙護堂就是先利用這個盜取**「白馬」** 化身（動畫版則改編成先盜取白馬使用後又盜取**「戰士」** 化身）來打倒了烏魯斯拉格納。
     璐克蕾琪雅和烏魯斯拉格納都曾警告過護堂不准使用，以人類的身體來使用神的權能會付出慘痛的代價，護堂當時若是沒有順利打敗烏魯斯拉格納的話，就會因使用石板付出的代價重傷而死。
 
 <!-- end list -->
@@ -67,7 +64,7 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
 <!-- end list -->
 
   -
-    為歐洲咒術界七個歷史悠久且強大的組織，分別為[米蘭的](../Page/米蘭.md "wikilink")「赤銅黑十字」、「青銅黑十字」，[羅馬的](https://zh.wikipedia.org/wiki/羅馬 "wikilink")「雌狼」、「蒼穹之鷲」，[杜林的](https://zh.wikipedia.org/wiki/杜林 "wikilink")「老貴婦人」，[佛羅倫斯的](https://zh.wikipedia.org/wiki/佛羅倫斯 "wikilink")「百合之都」，[帕爾馬的](https://zh.wikipedia.org/wiki/帕爾馬_\(義大利\) "wikilink")「楯」。
+    為歐洲咒術界七個歷史悠久且強大的組織，分別為[米蘭](../Page/米蘭.md "wikilink")的「赤銅黑十字」、「青銅黑十字」，[羅馬的](https://zh.wikipedia.org/wiki/羅馬 "wikilink")「雌狼」、「蒼穹之鷲」，[杜林的](https://zh.wikipedia.org/wiki/杜林 "wikilink")「老貴婦人」，[佛羅倫斯的](https://zh.wikipedia.org/wiki/佛羅倫斯 "wikilink")「百合之都」，[帕爾馬的](https://zh.wikipedia.org/wiki/帕爾馬_\(義大利\) "wikilink")「楯」。
 
 <!-- end list -->
 
@@ -100,15 +97,12 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
 
 ## 咒文
 
-  - **【各各他的言靈】**
-    各各他的言靈是採自聖經詩篇第22篇，大衛所作的詩，是大衛受迫害時所寫的一篇禱告詩，相傳這首詩預言了耶穌基督的受難與復活，被稱為彌賽亞詩篇。
-    「Eloi,Eloi,Lama
-    Sabachthani！我的神！為什麼離棄我！」、「主呀！我白晝呼喚，您不應允，夜裡呼求，亦然沉默。但你是聖潔的，是用以色列的讚美為寶座的！」、「我身之骨皆被錯位，心痛如蠟融化，你將我安置在死地的塵土中！野狗圍著我，惡黨環繞我！」、「我的救主啊，求你快來幫助我！求你救我的靈魂脫離刀劍，救我脫離獅子的口，使我脫離野牛的角！」、「通告我主之名，讚頌位於世界中心的我主身軀，皈依敬崇！」
+  - **【各各他的言靈】** 各各他的言靈是採自聖經詩篇第22篇，大衛所作的詩，是大衛受迫害時所寫的一篇禱告詩，相傳這首詩預言了耶穌基督的受難與復活，被稱為彌賽亞詩篇。
+    「Eloi,Eloi,Lama Sabachthani！我的神！為什麼離棄我！」、「主呀！我白晝呼喚，您不應允，夜裡呼求，亦然沉默。但你是聖潔的，是用以色列的讚美為寶座的！」、「我身之骨皆被錯位，心痛如蠟融化，你將我安置在死地的塵土中！野狗圍著我，惡黨環繞我！」、「我的救主啊，求你快來幫助我！求你救我的靈魂脫離刀劍，救我脫離獅子的口，使我脫離野牛的角！」、「通告我主之名，讚頌位於世界中心的我主身軀，皈依敬崇！」
 
 <!-- end list -->
 
-  - **【大衛的言靈】**
-    大衛的言靈是在約拿單與掃羅死在基利波山之後不久，有一名亞瑪力少年從陣中逃出來，前往洗革拉大衛那裡報信。這個少年人企圖奉承大衛，於是撒謊訛稱他曾親手殺死掃羅，這個亞瑪力人不但得不到嘉獎，反而為自己招惹殺身之禍。因他親口作證，聲稱自己殺了「耶和華的受膏者」。猶太的新王大衛作了一首輓歌，名叫「弓之歌」，以哀悼掃羅和約拿單。
+  - **【大衛的言靈】** 大衛的言靈是在約拿單與掃羅死在基利波山之後不久，有一名亞瑪力少年從陣中逃出來，前往洗革拉大衛那裡報信。這個少年人企圖奉承大衛，於是撒謊訛稱他曾親手殺死掃羅，這個亞瑪力人不但得不到嘉獎，反而為自己招惹殺身之禍。因他親口作證，聲稱自己殺了「耶和華的受膏者」。猶太的新王大衛作了一首輓歌，名叫「弓之歌」，以哀悼掃羅和約拿單。
     「人民啊，傾聽大衛的哀歌！英雄何竟仆倒！戰具何竟滅沒！」、「基利波山哪，願你那裡沒有雨露！願你田地無土產可作供物！因為英雄的盾牌在那裡被污丟棄，掃羅的盾牌彷彿未曾抹油。」、「約拿單的弓箭非流敵人的血不退縮！掃羅的刀劍非剖勇士的油不收回！英雄何竟在陣上仆倒！」、「掃羅之劍啊，快如鷲強如獅的勇者武器啊。現在降臨到我手上吧！」、「約拿單之弓啊，快如鷲強如獅的勇者武器啊，奔跑吧，擊潰汝之敵人！」
 
 <!-- end list -->
@@ -134,7 +128,7 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
 到故事結束時，共得到六個權能。
 
   -
-    草薙護堂打倒[烏魯斯拉格納後篡奪的權能](../Page/烏魯斯拉格納.md "wikilink")。烏魯斯拉格納的十大化身，被格林威治賢人議會稱為「東方之軍神」。雖然權能強大，但發動條件卻非常嚴苛，使用化身一次後便無法於同一天內使用第二次。作者丈月城對護堂的描述為「只擁有超必殺技的主角」。
+    草薙護堂打倒[烏魯斯拉格納](../Page/烏魯斯拉格納.md "wikilink")後篡奪的權能。烏魯斯拉格納的十大化身，被格林威治賢人議會稱為「東方之軍神」。雖然權能強大，但發動條件卻非常嚴苛，使用化身一次後便無法於同一天內使用第二次。作者丈月城對護堂的描述為「只擁有超必殺技的主角」。
       - 活性化言靈：
           -
             「我乃最強，並手握一切勝利之人。無論人或惡魔——面對一切敵人皆挫其敵意之人，我必擊垮任何阻擋於前的敵人！」
@@ -146,7 +140,7 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
 
       -
         烏魯斯拉格納的第一化身。
-        民眾、旅客的守護者的化身。在雙方都有風吹到的地方，如果有護堂熟識的人呼喚護堂的名字，就能夠[瞬間移動到那個場所](../Page/瞬間移動.md "wikilink")。
+        民眾、旅客的守護者的化身。在雙方都有風吹到的地方，如果有護堂熟識的人呼喚護堂的名字，就能夠[瞬間移動](../Page/瞬間移動.md "wikilink")到那個場所。
         發動條件是呼喚的一方遇到危機的時候。
 
 :; 公牛
@@ -355,8 +349,7 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
   -
     沃班侯爵從時母迦梨處篡奪的權能。以看到血的人、聞到血腥味的人、嘗過血的人爲對象。讓對象覺醒凶暴的、流血的殺傷本能，使他們的肉體得到强化。獲得像鬼一樣的戰鬥能力，憑藉著本能去殺戮身邊的生物。
 
-但是，只要擁有堅强的精神力，就能控制住這份力量。
-對象的數量沒有限制。例如，在數十萬軍隊面前，如果殺害一隻羊，使用這個權能，所有的士兵都會變成血腥的屠殺鬼，從而引發慘劇……
+但是，只要擁有堅强的精神力，就能控制住這份力量。 對象的數量沒有限制。例如，在數十萬軍隊面前，如果殺害一隻羊，使用這個權能，所有的士兵都會變成血腥的屠殺鬼，從而引發慘劇……
 
   -
     沃班侯爵從魔神巴風特處篡奪的權能。從魔術的用法中，將知識和術强行奪取，在咒文書的紙頁上刻成文字，保存下來，作爲咒文保存。在咒文書的封面上有口，可以根據沃班的指示自動使用魔術。沃班可以只奪取目標的一個魔術，也可以不留下任何一種被掠奪者所能使用的魔術。在獲得了死僕的權能後，侯爵便不怎麽使用了。直到後來將《咏誦的咒文書》變化成魔導書的精靈。精靈對沃邦的指示絕對服從，根據自己的意願使用符合侯爵要求的魔術。《瞬間轉移》這樣的高難度魔術也能運用自如，負責給侯爵傳達所需的神話知識、以及遠程情報信息的任務。
@@ -377,7 +370,7 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
 羅翠蓮擁有複數權能，已知七個。
 
   -
-    羅翠蓮從佛教中的兩名金剛力士「[密跡金剛力士](../Page/密跡金剛.md "wikilink")」和「[羅延堅固王](https://zh.wikipedia.org/wiki/那羅延 "wikilink")」即阿吽一對的仁王所篡奪來的權能，擁有驚人的怪力，以及能夠召喚兩名金剛力士的顯身出來作戰。
+    羅翠蓮從佛教中的兩名金剛力士「[密跡金剛](../Page/密跡金剛.md "wikilink")力士」和「[羅延堅固王](https://zh.wikipedia.org/wiki/那羅延 "wikilink")」即阿吽一對的仁王所篡奪來的權能，擁有驚人的怪力，以及能夠召喚兩名金剛力士的顯身出來作戰。
 
 <!-- end list -->
 
@@ -402,14 +395,12 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
 <!-- end list -->
 
   -
-    羅翠蓮打敗波斯神話中的天龍『Gōčihr
-    』篡奪到的權能。能够引起日食和月食的力量。通常只有半天的程度，但是消耗大量咒力的話，長期維持也能做到。無論是持續一周還是長達數月、甚至數年。
+    羅翠蓮打敗波斯神話中的天龍『Gōčihr 』篡奪到的權能。能够引起日食和月食的力量。通常只有半天的程度，但是消耗大量咒力的話，長期維持也能做到。無論是持續一周還是長達數月、甚至數年。
 
 <!-- end list -->
 
   -
-    羅翠蓮打敗舊約聖經神話中的『諾亞』篡奪到的權能。能够“製作魔法船”的能力。不僅可以製造巨船，還可以製造100艘以上的大船隊，以及任意數量的帆船快艇。羅濠在异世界『神域•
-    許柏爾柏瑞亞』製造出了如同《諾亞方舟》一般大的超弩級巨船『海龍王』。
+    羅翠蓮打敗舊約聖經神話中的『諾亞』篡奪到的權能。能够“製作魔法船”的能力。不僅可以製造巨船，還可以製造100艘以上的大船隊，以及任意數量的帆船快艇。羅濠在异世界『神域• 許柏爾柏瑞亞』製造出了如同《諾亞方舟》一般大的超弩級巨船『海龍王』。
 
 ### 約翰·布魯托·史密斯的權能
 
@@ -522,7 +513,7 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
 艾西亞擁有複數權能，14集和15集中已知有5個。
 
   -
-    艾西亞最初擁有的權能，從希臘神話的豐產女神[珀耳塞福涅所篡奪來的權能](../Page/珀耳塞福涅.md "wikilink")。能控制生命力，把生命的力量分與一切的生物，能夠治癒傷勢。亦能帶來死亡的詛咒，但詛咒要花很長的時間做準備。
+    艾西亞最初擁有的權能，從希臘神話的豐產女神[珀耳塞福涅](../Page/珀耳塞福涅.md "wikilink")所篡奪來的權能。能控制生命力，把生命的力量分與一切的生物，能夠治癒傷勢。亦能帶來死亡的詛咒，但詛咒要花很長的時間做準備。
 
 <!-- end list -->
 
@@ -787,8 +778,7 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
 
 ### 製作人員
 
-  - 原作：丈月城（[集英社](../Page/集英社.md "wikilink")[Super
-    Dash文庫刊](../Page/Super_Dash文庫.md "wikilink")）
+  - 原作：丈月城（[集英社](../Page/集英社.md "wikilink")[Super Dash文庫刊](../Page/Super_Dash文庫.md "wikilink")）
   - 插畫：[Sikorsky](https://zh.wikipedia.org/wiki/Sikorsky "wikilink")
   - 監督：[草川啟造](../Page/草川啟造.md "wikilink")
   - 副監督：[滿仲勸](../Page/滿仲勸.md "wikilink")
@@ -802,8 +792,7 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
   - 攝影監督：羽田巧
   - 編輯：岡祐司
   - 音響監督：[岩浪美和](../Page/岩浪美和.md "wikilink")
-  - 音響制作：[Magic
-    Capsule](https://zh.wikipedia.org/wiki/Magic_Capsule "wikilink")
+  - 音響制作：[Magic Capsule](https://zh.wikipedia.org/wiki/Magic_Capsule "wikilink")
   - 音樂製作人：小池克實
   - 音樂：加藤達也
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")
@@ -812,20 +801,17 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
   - 動畫製片人：里見哲朗
   - 動畫製作人：山本健一郎
   - 動畫制作：[Diomedéa](../Page/Diomedéa.md "wikilink")
-  - 製作：『Campione弒神者！』製作委員会（集英社、[華納家庭娛樂](https://zh.wikipedia.org/wiki/華納家庭娛樂 "wikilink")、[Bull's
-    Eye](https://zh.wikipedia.org/wiki/Bull's_Eye "wikilink")、Lantis、Diomedéa、[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")、[AT-X](../Page/AT-X.md "wikilink")）
+  - 製作：『Campione弒神者！』製作委員会（集英社、[華納家庭娛樂](https://zh.wikipedia.org/wiki/華納家庭娛樂 "wikilink")、[Bull's Eye](https://zh.wikipedia.org/wiki/Bull's_Eye "wikilink")、Lantis、Diomedéa、[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")、[AT-X](../Page/AT-X.md "wikilink")）
 
 ### 主題歌
 
   - 片頭曲「BRAVE BLADE\!」
-    作詞：松井洋平，作曲、編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")），歌：[櫻川惠](../Page/櫻川惠.md "wikilink")\[4\]
+    作詞：松井洋平，作曲、編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），歌：[櫻川惠](../Page/櫻川惠.md "wikilink")\[4\]
 
 <!-- end list -->
 
   - 片尾曲「Raise」
-    作詞：[只野菜摘](https://zh.wikipedia.org/wiki/只野菜摘 "wikilink")，作曲：[俊龍](../Page/俊龍.md "wikilink")，編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（Elements
-    Garden），歌：[小倉唯](../Page/小倉唯.md "wikilink")\[5\]
+    作詞：[只野菜摘](https://zh.wikipedia.org/wiki/只野菜摘 "wikilink")，作曲：[俊龍](../Page/俊龍.md "wikilink")，編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden），歌：[小倉唯](../Page/小倉唯.md "wikilink")\[5\]
 
 ### 各話列表
 
@@ -1024,7 +1010,7 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
 | [東京都](../Page/東京都.md "wikilink")                    | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 星期五 25時00分－25時30分 | [獨立局](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |                                                       |                                          |
 | [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 2012年7月9日－10月1日   | 星期一 24時35分－25時05分                                            |                                                       |                                          |
 | [愛知縣](../Page/愛知縣.md "wikilink")                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                          | 2012年7月11日－10月3日  | 星期四 26時00分－26時30分                                            | [東京電視網](../Page/東京電視網.md "wikilink")                  |                                          |
-| 日本全國                                                | [BS11](../Page/日本BS放送.md "wikilink")                          | 2012年7月13日－10月5日  | 星期五 24時30分－25時00分                                            | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | [ANIME+節目](../Page/ANIME+.md "wikilink") |
+| 日本全國                                                | [BS11](../Page/日本BS放送.md "wikilink")                          | 2012年7月13日－10月5日  | 星期五 24時30分－25時00分                                            | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | [ANIME+](../Page/ANIME+.md "wikilink")節目 |
 |                                                     |                                                               |                   |                                                              |                                                       |                                          |
 
 ## 腳注
@@ -1038,37 +1024,23 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
   - [電視動畫官方網站](http://www.campi-anime.com/)
 
   -
-  - [Super
-    Dash文庫公式網站内特集頁（3卷發售時）](http://dash.shueisha.co.jp/feature/0903/index.html)
+  - [Super Dash文庫公式網站内特集頁（3卷發售時）](http://dash.shueisha.co.jp/feature/0903/index.html)
 
-  - [Super
-    Dash文庫公式網站内特集頁（7卷發售時）](http://dash.shueisha.co.jp/feature/1007/index.html)
+  - [Super Dash文庫公式網站内特集頁（7卷發售時）](http://dash.shueisha.co.jp/feature/1007/index.html)
 
-  - [Super
-    Dash文庫公式網站内特集頁（11卷發售時）](http://dash.shueisha.co.jp/feature/1112_campione/index.html)
+  - [Super Dash文庫公式網站内特集頁（11卷發售時）](http://dash.shueisha.co.jp/feature/1112_campione/index.html)
 
-  - [Super
-    Dash文庫公式網站内特集頁（12卷發售時）](http://dash.shueisha.co.jp/feature/1205/index.html)
+  - [Super Dash文庫公式網站内特集頁（12卷發售時）](http://dash.shueisha.co.jp/feature/1205/index.html)
 
-  - [Super
-    Dash文庫公式網站内特集頁（13卷發售時）](http://dash.shueisha.co.jp/feature/1208/index.html)
+  - [Super Dash文庫公式網站内特集頁（13卷發售時）](http://dash.shueisha.co.jp/feature/1208/index.html)
 
-  - [Super
-    Dash文庫公式網站内特集頁（14卷發售時）](http://dash.shueisha.co.jp/feature/1305/index.html)
+  - [Super Dash文庫公式網站内特集頁（14卷發售時）](http://dash.shueisha.co.jp/feature/1305/index.html)
 
-  - [Super
-    Dash文庫公式網站内特集頁（15卷發售時）](http://dash.shueisha.co.jp/feature/campione/index.html)
+  - [Super Dash文庫公式網站内特集頁（15卷發售時）](http://dash.shueisha.co.jp/feature/campione/index.html)
 
   - [青文出版社\>菁英書庫（Campione弒神者）](https://web.archive.org/web/20111228150517/http://ching-win.com.tw/?sinfo=bookslist&cunit=42&btype=492&template=novels)
 
-[Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:2008年小說](https://zh.wikipedia.org/wiki/Category:2008年小說 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink")
-[Category:AT-X製作動畫](https://zh.wikipedia.org/wiki/Category:AT-X製作動畫 "wikilink")
-[Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink")
-[Category:神話題材小說](https://zh.wikipedia.org/wiki/Category:神話題材小說 "wikilink")
+[Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:2008年小說](https://zh.wikipedia.org/wiki/Category:2008年小說 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink") [Category:AT-X製作動畫](https://zh.wikipedia.org/wiki/Category:AT-X製作動畫 "wikilink") [Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink") [Category:神話題材小說](https://zh.wikipedia.org/wiki/Category:神話題材小說 "wikilink")
 
 1.  [](http://dash.shueisha.co.jp/topics/index.html#t20111217_01)
 2.  體長大約二十米，有著漆黑的皮毛，魁偉強壯的肉體。並且，有著兩顆看上去如同尖槍般的牙齒。

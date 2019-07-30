@@ -1,12 +1,9 @@
-《**future
-gazer**》是[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（第二期）的第三首單曲。於2010年10月13日由[Geneon
-Entertainment發售](https://zh.wikipedia.org/wiki/日本Geneon环球娱乐 "wikilink")。
+《**future gazer**》是[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（第二期）的第三首單曲。於2010年10月13日由[Geneon Entertainment發售](https://zh.wikipedia.org/wiki/日本Geneon环球娱乐 "wikilink")。
 
 ## 概要
 
   - 初回限定盤（GNCA-0181）及通常盤（GNCA-0182）2種版本。初回限定盤附收錄有《future gazer》PV的DVD。
-  - 「future gazer」是OVA《科學超電磁砲》的主題歌。另外，「fortissimo -the ultimate
-    crisis-」是由[La'cryma制作的PC遊戲](https://zh.wikipedia.org/wiki/La'cryma "wikilink")《[fortissimo//Akkord:Bsusvier](https://zh.wikipedia.org/wiki/fortissimo/Akkord:Bsusvier "wikilink")》主題歌，這將是第一次把兩首主題歌收錄在同一單曲裡。
+  - 「future gazer」是OVA《科學超電磁砲》的主題歌。另外，「fortissimo -the ultimate crisis-」是由[La'cryma制作的PC遊戲](https://zh.wikipedia.org/wiki/La'cryma "wikilink")《[fortissimo//Akkord:Bsusvier](https://zh.wikipedia.org/wiki/fortissimo/Akkord:Bsusvier "wikilink")》主題歌，這將是第一次把兩首主題歌收錄在同一單曲裡。
 
 ## 收錄歌曲
 
@@ -38,7 +35,4 @@ Entertainment發售](https://zh.wikipedia.org/wiki/日本Geneon环球娱乐 "wik
 
 ## 參考資料
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:魔法禁書目錄歌曲](https://zh.wikipedia.org/wiki/Category:魔法禁書目錄歌曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
-[Category:NBC環球娛樂歌曲](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:魔法禁書目錄歌曲](https://zh.wikipedia.org/wiki/Category:魔法禁書目錄歌曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:NBC環球娛樂歌曲](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂歌曲 "wikilink")

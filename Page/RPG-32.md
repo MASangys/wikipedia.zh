@@ -1,13 +1,10 @@
-**RPG-32**（；\[1\]Хашим；[俄语罗马化](../Page/俄语罗马化.md "wikilink")：，意為：[哈希姆王國](../Page/约旦.md "wikilink")；約旦稱呼：RPG-32
-Nashshab；Nashshab，，意為：RPG之弩；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是一款由[俄罗斯武器製造商](../Page/俄罗斯.md "wikilink")[Bazalt和](https://zh.wikipedia.org/wiki/Bazalt "wikilink")[約旦聯合研製及生產的手提式雙](https://zh.wikipedia.org/wiki/約旦 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（72毫米和105毫米）[反坦克](../Page/反坦克戰.md "wikilink")[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，\[2\]可以發射[PG-32V](https://zh.wikipedia.org/wiki/PG-32V "wikilink")[HEAT火箭彈和](../Page/高爆反坦克彈.md "wikilink")[TBG-32V溫壓](https://zh.wikipedia.org/wiki/TBG-32V "wikilink")／[FAE火箭彈](../Page/燃料空氣炸彈.md "wikilink")。
+**RPG-32**（；\[1\]Хашим；[俄语罗马化](../Page/俄语罗马化.md "wikilink")：，意為：[哈希姆王國](../Page/约旦.md "wikilink")；約旦稱呼：RPG-32 Nashshab；Nashshab，，意為：RPG之弩；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款由[俄罗斯](../Page/俄罗斯.md "wikilink")武器製造商[Bazalt和](https://zh.wikipedia.org/wiki/Bazalt "wikilink")[約旦聯合研製及生產的手提式雙](https://zh.wikipedia.org/wiki/約旦 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（72毫米和105毫米）[反坦克](../Page/反坦克戰.md "wikilink")[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，\[2\]可以發射[PG-32V](https://zh.wikipedia.org/wiki/PG-32V "wikilink")[HEAT火箭彈和](../Page/高爆反坦克彈.md "wikilink")[TBG-32V溫壓](https://zh.wikipedia.org/wiki/TBG-32V "wikilink")／[FAE火箭彈](../Page/燃料空氣炸彈.md "wikilink")。
 
 ## 歷史
 
-RPG-32多用途[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器是在](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")2005年至2007年由俄羅斯[國有的](../Page/国有企业.md "wikilink")“聯邦國家單一制企業”（，全寫：**F**ederal
-**S**tate **U**nitary
-**E**nterprises）[Bazalt組織的要求](https://zh.wikipedia.org/wiki/Bazalt "wikilink")，並按照約旦和墨西哥的[合同而研製的](../Page/契约.md "wikilink")。RPG-32亦曾經在2008年6月巴黎[軍火博覽會上展出](https://zh.wikipedia.org/wiki/軍火博覽會 "wikilink")。
+RPG-32多用途[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器是在](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")2005年至2007年由俄羅斯[國有的](../Page/国有企业.md "wikilink")“聯邦國家單一制企業”（，全寫：**F**ederal **S**tate **U**nitary **E**nterprises）[Bazalt組織的要求](https://zh.wikipedia.org/wiki/Bazalt "wikilink")，並按照約旦和墨西哥的[合同而研製的](../Page/契约.md "wikilink")。RPG-32亦曾經在2008年6月巴黎[軍火博覽會上展出](https://zh.wikipedia.org/wiki/軍火博覽會 "wikilink")。
 
-RPG-32又被命名為“哈希姆”，其名字來自約旦[哈希姆王室和意指先知](../Page/哈希姆家族.md "wikilink")[穆罕默德將火箭推進榴彈給予約旦國王](../Page/穆罕默德.md "wikilink")[阿卜杜拉二世](../Page/阿卜杜拉二世.md "wikilink")。\[3\]
+RPG-32又被命名為“哈希姆”，其名字來自約旦[哈希姆王室和意指先知](../Page/哈希姆家族.md "wikilink")[穆罕默德](../Page/穆罕默德.md "wikilink")將火箭推進榴彈給予約旦國王[阿卜杜拉二世](../Page/阿卜杜拉二世.md "wikilink")。\[3\]
 
 ## 設計細節
 
@@ -27,7 +24,7 @@ RPG-32同時設計出其配用的反戰車高爆火箭彈和溫壓式火箭彈�
 
 RPG-32於2005年至2012年之間，由俄羅斯國有企業“Bazalt”在約旦的要求與合約以下研發。
 
-2008年，第一批RPG-32“Nashshab”火箭推進榴彈發射器從俄羅斯運送到約旦以後，約旦採用它以後得到許可並且開始在本土獲得許可的JADARA工廠[大量生產RPG](../Page/大量生產.md "wikilink")-32和其火箭彈。
+2008年，第一批RPG-32“Nashshab”火箭推進榴彈發射器從俄羅斯運送到約旦以後，約旦採用它以後得到許可並且開始在本土獲得許可的JADARA工廠[大量生產](../Page/大量生產.md "wikilink")RPG-32和其火箭彈。
 
 巴西政府已經決定以RPG-32來取代目前仍然在[巴西軍隊服役中的](https://zh.wikipedia.org/wiki/巴西军事 "wikilink")[RPG-29](../Page/RPG-29.md "wikilink")，並且由其最大[企业](../Page/企业.md "wikilink")[巴西航空公司與](https://zh.wikipedia.org/wiki/巴西航空公司 "wikilink")[Bazalt簽訂了合同](https://zh.wikipedia.org/wiki/Bazalt "wikilink")，以便為巴西軍隊生產其特製的版本；阿根廷的RPG-32將由其國有企業“FMFLB”為[阿根廷陸軍和](https://zh.wikipedia.org/wiki/阿根廷陸軍 "wikilink")[海軍陸戰隊生產](https://zh.wikipedia.org/wiki/阿根廷海軍陸戰隊 "wikilink")。
 
@@ -49,9 +46,7 @@ RPG-32於2005年至2012年之間，由俄羅斯國有企業“Bazalt”在約旦
 
 ### [电子游戏](../Page/电子游戏.md "wikilink")
 
-  - 2013年—《[-{zh-cn:武装突袭3; zh-tw:武裝行動3;
-    zh-hk:武裝行動3;}-](https://zh.wikipedia.org/wiki/武裝突襲3 "wikilink")》（ArmA
-    III）：命名為「RPG-42」，被OPFOR所使用。
+  - 2013年—《[-{zh-cn:武装突袭3; zh-tw:武裝行動3; zh-hk:武裝行動3;}-](https://zh.wikipedia.org/wiki/武裝突襲3 "wikilink")》（ArmA III）：命名為「RPG-42」，被OPFOR所使用。
 
 ## 參見
 
@@ -82,14 +77,11 @@ RPG-32於2005年至2012年之間，由俄羅斯國有企業“Bazalt”在約旦
 
 ## 外部連結
 
-  - —[Modern Firearms—RPG-32'Hashim' antitank / multipurpose grenade
-    launcher](http://world.guns.ru/grenade/rus/rpg-32-e.html)
+  - —[Modern Firearms—RPG-32'Hashim' antitank / multipurpose grenade launcher](http://world.guns.ru/grenade/rus/rpg-32-e.html)
 
-  - —[Weapon.ge—RPG-32
-    "Hashim"](http://georgians.weapon.ge/index.php?sel=1&id=322&man=&coun=&cat=&l=en)
+  - —[Weapon.ge—RPG-32 "Hashim"](http://georgians.weapon.ge/index.php?sel=1&id=322&man=&coun=&cat=&l=en)
 
-  - —[Military, Security and Civilian Guns and Equipment—RPG-32
-    Hashim](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=563)
+  - —[Military, Security and Civilian Guns and Equipment—RPG-32 Hashim](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=563)
 
   - —
 
@@ -99,12 +91,9 @@ RPG-32於2005年至2012年之間，由俄羅斯國有企業“Bazalt”在約旦
 
   - —[Характеристики РПГ-32](http://weapon.at.ua/load/220-1-0-304)
 
-  - —[РПГ-32
-    «Хашим»（Россия-Иордан）](http://comitcont.narod.ru/tjz/019tjz.htm)
+  - —[РПГ-32 «Хашим»（Россия-Иордан）](http://comitcont.narod.ru/tjz/019tjz.htm)
 
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink")
-[Category:反坦克榴彈](https://zh.wikipedia.org/wiki/Category:反坦克榴彈 "wikilink")
+[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink") [Category:反坦克榴彈](https://zh.wikipedia.org/wiki/Category:反坦克榴彈 "wikilink")
 
 1.  РПГ，全寫：**Р**учной **п**ротивотанковый **г**ранатомёт，意為：反坦克榴彈發射器
 2.

@@ -1,5 +1,4 @@
-**《都市觸覺 Part I City
-Rhythm》**是香港歌手[林憶蓮第六張粵語錄音室專輯](../Page/林憶蓮.md "wikilink")，也是她自[CBS/Sony轉投](https://zh.wikipedia.org/wiki/索尼音樂娛樂_\(香港\) "wikilink")[華納唱片後首張專輯](https://zh.wikipedia.org/wiki/華納唱片_\(香港\) "wikilink")，於1988年12月發行。
+**《都市觸覺 Part I City Rhythm》**是香港歌手[林憶蓮](../Page/林憶蓮.md "wikilink")第六張粵語錄音室專輯，也是她自[CBS/Sony轉投](https://zh.wikipedia.org/wiki/索尼音樂娛樂_\(香港\) "wikilink")[華納唱片後首張專輯](https://zh.wikipedia.org/wiki/華納唱片_\(香港\) "wikilink")，於1988年12月發行。
 
 ## 曲目
 
@@ -8,7 +7,7 @@ Rhythm》**是香港歌手[林憶蓮第六張粵語錄音室專輯](../Page/林�
   - 《三更夜半》的國語版本為《夜長夢多》。
   - 《雷電風雨夜》是改編自Taja Sevelle主唱的《Infatuation》。
   - 《夜了… 沒有藉口》是改編自The Jets的《Make It Real》。國語版本為《是該結束的時候》。
-  - 《還有…》是改編自李宗盛和[鄭怡合唱的](../Page/鄭怡.md "wikilink")《結束》。
+  - 《還有…》是改編自李宗盛和[鄭怡](../Page/鄭怡.md "wikilink")合唱的《結束》。
   - 《又見朝陽》是改編自杏里主唱的《愛してるなんてとても言えない》。
   - 《一接觸》是改編自Eighth Wonder主唱的《Cross My Heart》。
   - 《你是我的男人》的國語版本為《你是我的男人》，改編自Viktor Lazlo主唱的《You Are My Man》。
@@ -47,7 +46,4 @@ Rhythm》**是香港歌手[林憶蓮第六張粵語錄音室專輯](../Page/林�
 
 [en:City_Rhythm](https://zh.wikipedia.org/wiki/en:City_Rhythm "wikilink")
 
-[Category:林憶蓮音樂專輯](https://zh.wikipedia.org/wiki/Category:林憶蓮音樂專輯 "wikilink")
-[Category:1988年音樂專輯](https://zh.wikipedia.org/wiki/Category:1988年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:林憶蓮音樂專輯](https://zh.wikipedia.org/wiki/Category:林憶蓮音樂專輯 "wikilink") [Category:1988年音樂專輯](https://zh.wikipedia.org/wiki/Category:1988年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

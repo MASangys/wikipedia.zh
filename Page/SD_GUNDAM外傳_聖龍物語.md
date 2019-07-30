@@ -1,5 +1,4 @@
-**SD高達外傳
-聖龍物語**是SD高達外傳第五作，故事背景是前作[機甲神傳說的數十年後](https://zh.wikipedia.org/wiki/SD高達外傳_機甲神傳說 "wikilink")，除了一向的單行本作品，本作更有Cardass版本的獨有平行版本故事。
+**SD高達外傳 聖龍物語**是SD高達外傳第五作，故事背景是前作[機甲神傳說的數十年後](https://zh.wikipedia.org/wiki/SD高達外傳_機甲神傳說 "wikilink")，除了一向的單行本作品，本作更有Cardass版本的獨有平行版本故事。
 
 故事出場初期，只以「機動戰士V高達」的角色與兵器為藍本。後來由於V高達的故事方針，由低年齡層轉為較年長觀眾，為了遷就SD化的年齡級別限制，本作初期的角色，亦僅限於V高達的前半部份，再加上部份原創人物，例如主角騎士零高達。後來故事連載到後半部，V高達後半部份SD化終於解禁，不過亦限於敵對角色「幻魔皇帝Assault-Buster」(幻魔皇帝アサルトバスター)。而本作的部份設定，是來自「北斗之拳」及「星球大戰」。
 
@@ -7,16 +6,12 @@
 
 ### 雷之一族
 
-能夠自由操縱雷電的一族，被認為是創世的始祖。當中在作為聖地的「裡加山脈」(リガマウンテン)，在那裡有著酷似聖機兵系統的機械「龍機」，與作為繼承者世世代代傳授、埋藏著更深奧秘的藍色水晶寶劍「雷龍劍」(Thunder
-Sword)。如今其中一位繼承者，被稱為零高達(Zero
-Gundam)，正登上聖山，與其他同樣打算成為繼承者的戰士，為了爭奪繼承者寶座，不惜賭上失敗後會被封印所有力量的危險，向著挑戰個人力量極限的競賽進發。
+能夠自由操縱雷電的一族，被認為是創世的始祖。當中在作為聖地的「裡加山脈」(リガマウンテン)，在那裡有著酷似聖機兵系統的機械「龍機」，與作為繼承者世世代代傳授、埋藏著更深奧秘的藍色水晶寶劍「雷龍劍」(Thunder Sword)。如今其中一位繼承者，被稱為零高達(Zero Gundam)，正登上聖山，與其他同樣打算成為繼承者的戰士，為了爭奪繼承者寶座，不惜賭上失敗後會被封印所有力量的危險，向著挑戰個人力量極限的競賽進發。
 
 **魔龍劍士零高達/魔龍騎士零高達/聖龍騎士零高達**(夏克(シャッコー/リグ・シャッコー))
 
   -
-    為報父仇，而踏上找尋Vice
-    Gundam(バイスガンダム)旅途的劍客，是雷龍劍的繼承者、龍機多拉古(龍機ドラグーン)的操縱者，絕技是放出巨大雷擊的「雷鳴斬」(Thunder
-    variant，サンダーバリアント)。口頭禪是「回歸於「無(ZERO)」吧\!」。
+    為報父仇，而踏上找尋Vice Gundam(バイスガンダム)旅途的劍客，是雷龍劍的繼承者、龍機多拉古(龍機ドラグーン)的操縱者，絕技是放出巨大雷擊的「雷鳴斬」(Thunder variant，サンダーバリアント)。口頭禪是「回歸於「無(ZERO)」吧\!」。
 
 **騎士ヴイスクエア(V2高達)**
 
@@ -130,14 +125,11 @@ Gundam)，正登上聖山，與其他同樣打算成為繼承者的戰士，為�
 ## 相關連結
 
   - [SD高達外傳](https://zh.wikipedia.org/wiki/SD高達外傳 "wikilink")
-  - [SD高達外傳
-    圓桌騎士編](https://zh.wikipedia.org/wiki/SD高達外傳_圓桌騎士編 "wikilink")
-  - [SD高達外傳
-    聖機兵物語](https://zh.wikipedia.org/wiki/SD高達外傳_聖機兵物語 "wikilink")
+  - [SD高達外傳 圓桌騎士編](https://zh.wikipedia.org/wiki/SD高達外傳_圓桌騎士編 "wikilink")
+  - [SD高達外傳 聖機兵物語](https://zh.wikipedia.org/wiki/SD高達外傳_聖機兵物語 "wikilink")
 
 ## 參見
 
   - [SD GUNDAM系列](../Page/SD_GUNDAM系列.md "wikilink")
 
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink")
+[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink")

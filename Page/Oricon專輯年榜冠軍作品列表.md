@@ -1,4 +1,4 @@
-**Oricon單曲年榜冠軍作品列表**列出1970年以來歷年的[Oricon公信榜單曲年榜的冠軍作品及其資料](../Page/Oricon公信榜.md "wikilink")。
+**Oricon單曲年榜冠軍作品列表**列出1970年以來歷年的[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲年榜的冠軍作品及其資料。
 
 注：
 

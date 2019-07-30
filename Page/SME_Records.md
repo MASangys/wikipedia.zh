@@ -1,19 +1,14 @@
-**SME Records
-Inc.**（）是[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")（SMEJ）旗下的音樂軟體制作公司，在2003年成立。
+**SME Records Inc.**（）是[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")（SMEJ）旗下的音樂軟體制作公司，在2003年成立。
 
 ## 概要
 
-原本是[Sony Music Records
-Inc.內的品牌](https://zh.wikipedia.org/wiki/Sony_Music_Records_Inc. "wikilink")，因為音樂事業群改組而在2003年4月1日成為獨立品牌「**SME
-Records**」，自原來的Sony Music Records分割出來。
+原本是[Sony Music Records Inc.內的品牌](https://zh.wikipedia.org/wiki/Sony_Music_Records_Inc. "wikilink")，因為音樂事業群改組而在2003年4月1日成為獨立品牌「**SME Records**」，自原來的Sony Music Records分割出來。
 
 ## 沿革
 
   - 2003年4月1日，SME Records Inc.成立。
-  - [2004年11月](../Page/2004年11月.md "wikilink")，放棄使用[Copy
-    Control](../Page/Copy_Control.md "wikilink")。
-  - 2017年4月，部分歌手移藉至同為索尼旗下為動漫歌手開設的新品牌[SACRA
-    MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[1\]
+  - [2004年11月](../Page/2004年11月.md "wikilink")，放棄使用[Copy Control](../Page/Copy_Control.md "wikilink")。
+  - 2017年4月，部分歌手移藉至同為索尼旗下為動漫歌手開設的新品牌[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[1\]
 
 ## 所屬藝人
 
@@ -72,8 +67,6 @@ Records**」，自原來的Sony Music Records分割出來。
   - [Sony Music | ソニーミュージック オフィシャルサイト](http://www.sonymusic.co.jp/)
   - [HIT THE SPOT](http://www.sonymusic.co.jp/Music/smerhit/)
 
-[Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")
-[Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink")
+[Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink") [Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink")
 
-1.  [新レーベル『SACRA MUSIC』発足！ | プレスリリース | Sony Music Group Company
-    Site](https://www.sme.co.jp/s/SME/pressrelease/detail/NEWS00366?ima=1257)
+1.  [新レーベル『SACRA MUSIC』発足！ | プレスリリース | Sony Music Group Company Site](https://www.sme.co.jp/s/SME/pressrelease/detail/NEWS00366?ima=1257)

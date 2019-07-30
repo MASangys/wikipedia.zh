@@ -1,18 +1,14 @@
-**MTR**（My traceroute，原名Matt's
-traceroute）是一套網路診斷工具，包含了[traceroute與](https://zh.wikipedia.org/wiki/traceroute "wikilink")[ping的功能](https://zh.wikipedia.org/wiki/ping "wikilink")。
+**MTR**（My traceroute，原名Matt's traceroute）是一套網路診斷工具，包含了[traceroute與](https://zh.wikipedia.org/wiki/traceroute "wikilink")[ping的功能](https://zh.wikipedia.org/wiki/ping "wikilink")。
 
 ## 歷史
 
-原始的MTR（Matt's traceroute）是1997年時由[Matt
-Kimball撰寫](https://zh.wikipedia.org/wiki/Matt_Kimball "wikilink")，後來在1998年10月時由[Roger
-Wolff接手維護](https://zh.wikipedia.org/wiki/Roger_Wolff "wikilink")，並改名為My
-traceroute。
+原始的MTR（Matt's traceroute）是1997年時由[Matt Kimball撰寫](https://zh.wikipedia.org/wiki/Matt_Kimball "wikilink")，後來在1998年10月時由[Roger Wolff接手維護](https://zh.wikipedia.org/wiki/Roger_Wolff "wikilink")，並改名為My traceroute。
 
 ## 基礎
 
 ## 範例
 
-下面的範例給出了從example.lan透過[Level3到](https://zh.wikipedia.org/wiki/Level3 "wikilink")[雅虎的路徑](../Page/雅虎.md "wikilink")：
+下面的範例給出了從example.lan透過[Level3到](https://zh.wikipedia.org/wiki/Level3 "wikilink")[雅虎](../Page/雅虎.md "wikilink")的路徑：
 
 ```
                              My traceroute  [v0.71]
@@ -40,7 +36,6 @@ Hostname                            %Loss  Rcv  Snt  Last Best  Avg  Worst
 
   - [MTR](http://www.bitwizard.nl/mtr/)
 
-  - [WinMTR – Appnor's Free Network Diagnostic
-    Tool](https://web.archive.org/web/20140101203650/http://winmtr.net/)
+  - [WinMTR – Appnor's Free Network Diagnostic Tool](https://web.archive.org/web/20140101203650/http://winmtr.net/)
 
 [Category:自由網路軟體](https://zh.wikipedia.org/wiki/Category:自由網路軟體 "wikilink")

@@ -1,15 +1,10 @@
-為[CUFFS社的姐妹品牌CUBE於](../Page/CUFFS.md "wikilink")2011年9月30日的發售的[18禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，原定發行時間為9月22日\[1\]，後來延後發行日期至9月30日。2013年11月28日[PlayStation
-Portable版](../Page/PlayStation_Portable.md "wikilink")《your
-diary+》（ユアダイアリープラス）發售\[2\]。2014年5月30日PC逆移植版《your
-diary+H》（ユアダイアリープラスエッチ）發售。\[3\]
+為[CUFFS](../Page/CUFFS.md "wikilink")社的姐妹品牌CUBE於2011年9月30日的發售的[18禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，原定發行時間為9月22日\[1\]，後來延後發行日期至9月30日。2013年11月28日[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")《your diary+》（ユアダイアリープラス）發售\[2\]。2014年5月30日PC逆移植版《your diary+H》（ユアダイアリープラスエッチ）發售。\[3\]
 
 ## 故事
 
 長峰智希是風見坂学園的二年級生，因為父母都在海外工作，寄住在青梅竹馬深菜川夕陽的家中。平穩的校園生活、圖書委員會的工作、與幫忙夕陽家開的咖啡店「夕顔亭」，構成了已然固定般的每日生活。圍著智希的三個女孩都對智希有著相當的好感，但不知為何都沒有再更進一步…
 
-某天放課後，智希一直憧憬的學姐，也是圖書委員長的綾瀬紗雪推薦了一本小說，智希決定去位於商店街邊的舊書店風鈴堂找書。
-一進店門，智希便被撲面而來的濃厚灰塵嗆到，充滿霉味的空氣與骯髒的書架，佈滿灰塵的書籍，然而店長美鈴十分熱心，還為了招待他準備點心，在等待美鈴而在店裡四處走看之際，無意中發現了一本不一樣的書。這是一本褐色封面書脊上寫著「your
-diary」字樣的舊書，「是誰的『我的日記』呢？」智希不可思議的被這本書所吸引，可是卻因上鎖而無法打開，美鈴神秘的表示這日記需要一把「打開你未來的鑰匙」，將鑰匙交給了智希。
+某天放課後，智希一直憧憬的學姐，也是圖書委員長的綾瀬紗雪推薦了一本小說，智希決定去位於商店街邊的舊書店風鈴堂找書。 一進店門，智希便被撲面而來的濃厚灰塵嗆到，充滿霉味的空氣與骯髒的書架，佈滿灰塵的書籍，然而店長美鈴十分熱心，還為了招待他準備點心，在等待美鈴而在店裡四處走看之際，無意中發現了一本不一樣的書。這是一本褐色封面書脊上寫著「your diary」字樣的舊書，「是誰的『我的日記』呢？」智希不可思議的被這本書所吸引，可是卻因上鎖而無法打開，美鈴神秘的表示這日記需要一把「打開你未來的鑰匙」，將鑰匙交給了智希。
 
 喀的一聲，鎖很容易就開了，這是本空白的繪圖日記，正在翻看間，這本書突然發出柔和的光芒，一個素不相識少女隨之由書中蹦出，「你是由婭的新朋友嗎？」少女問道。隨著與這位自稱為神的不可思議的少女由婭的相遇，圍著智希的三個女孩子，已然停止前進的命運與關係開始改變。
 
@@ -28,8 +23,7 @@ diary」字樣的舊書，「是誰的『我的日記』呢？」智希不可思
 
   -
     身高：138cm　 三围：B70（AA）/ W49/ H68 生日：9月30日
-    由空白繪圖日記蹦出的少女，自稱為是掌管幸福的神。其使命就是給日記本持有者幸福，為了尋找智希的幸福而樂此不疲，一想到什麼就會義無反顧的執行。無論和誰都可以很快的熟絡，心情好的時候會哼著不知從哪聽來的歌曲。是個猶如小貓般可愛的吉祥物，有著「喵嗚」的口癖，跟貓也可以相處得很好，甚至會被貓纏住。天真開朗，表情豐富，雖然有時會莫名失去存在感，對身為神這件事感到自豪，卻無法展現神力，除了一本不需要自己動筆就會紀錄內容的筆記「Your
-    diary」。
+    由空白繪圖日記蹦出的少女，自稱為是掌管幸福的神。其使命就是給日記本持有者幸福，為了尋找智希的幸福而樂此不疲，一想到什麼就會義無反顧的執行。無論和誰都可以很快的熟絡，心情好的時候會哼著不知從哪聽來的歌曲。是個猶如小貓般可愛的吉祥物，有著「喵嗚」的口癖，跟貓也可以相處得很好，甚至會被貓纏住。天真開朗，表情豐富，雖然有時會莫名失去存在感，對身為神這件事感到自豪，卻無法展現神力，除了一本不需要自己動筆就會紀錄內容的筆記「Your diary」。
 
 <!-- end list -->
 
@@ -98,8 +92,7 @@ diary」字樣的舊書，「是誰的『我的日記』呢？」智希不可思
 ### your diary
 
   - 片頭曲「クローバー」
-    作詞：[Duca](https://zh.wikipedia.org/wiki/Duca "wikilink")、作曲・編曲：[ANZE
-    HIJIRI](https://zh.wikipedia.org/wiki/安瀬聖 "wikilink")、歌：Duca
+    作詞：[Duca](https://zh.wikipedia.org/wiki/Duca "wikilink")、作曲・編曲：[ANZE HIJIRI](https://zh.wikipedia.org/wiki/安瀬聖 "wikilink")、歌：Duca
   - 片尾曲「カラフルDiary」
     作詞：Duca、作曲・編曲：ANZE HIJIRI、歌：Duca
 
@@ -116,8 +109,7 @@ diary」字樣的舊書，「是誰的『我的日記』呢？」智希不可思
 
 <!-- end list -->
 
-  - 初回限定版特典『your diary+ ボーカルCD』CD內容包含「your diary」和「your
-    diary+」的4首完整版主題曲收錄。\[5\]
+  - 初回限定版特典『your diary+ ボーカルCD』CD內容包含「your diary」和「your diary+」的4首完整版主題曲收錄。\[5\]
 
 ### your diary+H
 
@@ -173,19 +165,10 @@ diary」字樣的舊書，「是誰的『我的日記』呢？」智希不可思
 
   - [your diary官方網站](http://www.cuffs-cube.jp/products/yourdiary/)
   - [your diary+H官方網站](http://www.cuffs-cube.jp/products/yourdiary_h)
-  - [your
-    diary+官方網站](https://web.archive.org/web/20150917213734/http://products.alchemist-net.co.jp/products/yourdiary/)
-
+  - [your diary+官方網站](https://web.archive.org/web/20150917213734/http://products.alchemist-net.co.jp/products/yourdiary/)
   - [your diary+官方網站](http://www.entergram.co.jp/yourdiary/)
 
-[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
-[Category:CUFFS游戏](https://zh.wikipedia.org/wiki/Category:CUFFS游戏 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
+[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:CUFFS游戏](https://zh.wikipedia.org/wiki/Category:CUFFS游戏 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
 
 1.  [1](http://www.cuffs-cube.jp/products/yourdiary/) 於2011年9月2日更新履歷上刊載。
 2.

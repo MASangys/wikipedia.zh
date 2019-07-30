@@ -6,25 +6,19 @@
 
   - [Institut supérieur de gestion](../Page/ISG商学院.md "wikilink")
   - ISG Luxury Management
-  - [ISEG business and finance
-    school](https://zh.wikipedia.org/wiki/欧洲高等管理学院 "wikilink")
-  - [ISEG marketing and communication
-    school](https://zh.wikipedia.org/wiki/欧洲高等管理学院 "wikilink")
+  - [ISEG business and finance school](https://zh.wikipedia.org/wiki/欧洲高等管理学院 "wikilink")
+  - [ISEG marketing and communication school](https://zh.wikipedia.org/wiki/欧洲高等管理学院 "wikilink")
   - ISTH
   - ICS bégué
-  - [Institut supérieur européen de formation par
-    l'action](https://zh.wikipedia.org/wiki/ISEFAC商学院 "wikilink")
+  - [Institut supérieur européen de formation par l'action](https://zh.wikipedia.org/wiki/ISEFAC商学院 "wikilink")
   - Moda Domani Institute
 
 ### IONIS技術學院
 
-  - [École pour l'informatique et les techniques
-    avancées](../Page/Epita.md "wikilink")
+  - [École pour l'informatique et les techniques avancées](../Page/Epita.md "wikilink")
   - École spéciale de mécanique et d'électricité
-  - [École pour l'informatique et les nouvelles
-    technologies](../Page/Epitech.md "wikilink")
-  - [Institut polytechnique des sciences
-    avancées](../Page/高等科学技术学院.md "wikilink")
+  - [École pour l'informatique et les nouvelles technologies](../Page/Epitech.md "wikilink")
+  - [Institut polytechnique des sciences avancées](../Page/高等科学技术学院.md "wikilink")
   - Sup'biotech
   - E-artsup
   - IONIS school of technology and management
@@ -53,8 +47,7 @@
   - [官方网站（法语版）](http://www.ionis-group.com)
   - [官方网站（国际版）](http://www.ionis-group.com/en)
 
-[Category:法国大学校](https://zh.wikipedia.org/wiki/Category:法国大学校 "wikilink")
-[Category:1980年代創建的教育機構](https://zh.wikipedia.org/wiki/Category:1980年代創建的教育機構 "wikilink")
+[Category:法国大学校](https://zh.wikipedia.org/wiki/Category:法国大学校 "wikilink") [Category:1980年代創建的教育機構](https://zh.wikipedia.org/wiki/Category:1980年代創建的教育機構 "wikilink")
 
 1.
 2.

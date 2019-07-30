@@ -1,5 +1,4 @@
-第四部《**超劇場版
-Keroro軍曹**》於2008年7月拍板製作，並於2009年3月7日在日本上映，票房約為4.6億日圓。香港則於2009年7月9日上映，票房約為300萬港元。今次作品標題首次不加上數字，亦特別紀念和慶祝Keroro軍曹作品誕生10週年。內容分為兩個情節不同的故事。其中長篇的是《》；而短篇則是原作前傳《》，曾在香港部分地區於放映後，連同長篇故事以加長版本再次放映。
+第四部《**超劇場版 Keroro軍曹**》於2008年7月拍板製作，並於2009年3月7日在日本上映，票房約為4.6億日圓。香港則於2009年7月9日上映，票房約為300萬港元。今次作品標題首次不加上數字，亦特別紀念和慶祝Keroro軍曹作品誕生10週年。內容分為兩個情節不同的故事。其中長篇的是《》；而短篇則是原作前傳《》，曾在香港部分地區於放映後，連同長篇故事以加長版本再次放映。
 
 ## 情節簡介
 
@@ -25,8 +24,7 @@ Keroro軍曹**》於2008年7月拍板製作，並於2009年3月7日在日本上�
 
 ## 新登場人物
 
-  - **希恩**，港譯**紫菀**（シオン
-    配音：[水樹奈奈](../Page/水樹奈奈.md "wikilink")；台灣→[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")；香港→[張紋嘉](../Page/張紋嘉.md "wikilink")）
+  - **希恩**，港譯**紫菀**（シオン 配音：[水樹奈奈](../Page/水樹奈奈.md "wikilink")；台灣→[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")；香港→[張紋嘉](../Page/張紋嘉.md "wikilink")）
 
 <!-- end list -->
 
@@ -36,13 +34,12 @@ Keroro軍曹**》於2008年7月拍板製作，並於2009年3月7日在日本上�
 
 <!-- end list -->
 
-  - **皮耶爾**，港譯**皮爾**（ピエール
-    配音：[鄉里大輔](../Page/鄉里大輔.md "wikilink")；台灣→[黃天佑](../Page/黃天佑.md "wikilink")）
+  - **皮耶爾**，港譯**皮爾**（ピエール 配音：[鄉里大輔](../Page/鄉里大輔.md "wikilink")；台灣→[黃天佑](../Page/黃天佑.md "wikilink")）
 
 <!-- end list -->
 
   -
-    劇場版限定人物，希恩的管家，擁有魁梧壯碩的體格，是一名[相撲高手](../Page/相撲.md "wikilink")。曾與波爾在哈林街頭對決過。
+    劇場版限定人物，希恩的管家，擁有魁梧壯碩的體格，是一名[相撲](../Page/相撲.md "wikilink")高手。曾與波爾在哈林街頭對決過。
     雖然對希恩有著忠誠心，但是希恩於動畫第356集搭機前往日本時並沒有隨行。
 
 <!-- end list -->
@@ -92,8 +89,7 @@ Keroro軍曹**》於2008年7月拍板製作，並於2009年3月7日在日本上�
 
 <!-- end list -->
 
-  - **Terara**（テララ
-    配音：[大谷育江](../Page/大谷育江.md "wikilink")；台灣→[雷碧文](../Page/雷碧文.md "wikilink")）
+  - **Terara**（テララ 配音：[大谷育江](../Page/大谷育江.md "wikilink")；台灣→[雷碧文](../Page/雷碧文.md "wikilink")）
 
 <!-- end list -->
 
@@ -108,8 +104,7 @@ Keroro軍曹**》於2008年7月拍板製作，並於2009年3月7日在日本上�
         演唱：[Kiroro](../Page/Kiroro.md "wikilink")，作詞：[金城綾乃](https://zh.wikipedia.org/wiki/金城綾乃 "wikilink")，編曲：[石塚知生](https://zh.wikipedia.org/wiki/石塚知生 "wikilink")
   - 「Space Roller Coaster GO GO \!」（Keroro軍曹第0集主題曲）
       -
-        演唱：[JAM Project](../Page/JAM_Project.md "wikilink")、[NICE GIRL
-        μ](https://zh.wikipedia.org/wiki/NICE_GIRL_μ "wikilink")，作詞、作曲：[影山浩宣](../Page/影山浩宣.md "wikilink")，編曲：R.O.N.
+        演唱：[JAM Project](../Page/JAM_Project.md "wikilink")、[NICE GIRL μ](https://zh.wikipedia.org/wiki/NICE_GIRL_μ "wikilink")，作詞、作曲：[影山浩宣](../Page/影山浩宣.md "wikilink")，編曲：R.O.N.
   - 「」（Keroro・日本\!）
       -
         演唱：[內藤大助](https://zh.wikipedia.org/wiki/內藤大助 "wikilink")、[加藤夏希](../Page/加藤夏希.md "wikilink")，作詞：[西直紀](https://zh.wikipedia.org/wiki/西直紀 "wikilink")，作曲、編曲：鈴木さえ子、[掛川陽介](https://zh.wikipedia.org/wiki/掛川陽介 "wikilink")、[本澤尚之](https://zh.wikipedia.org/wiki/本澤尚之 "wikilink")
@@ -117,14 +112,4 @@ Keroro軍曹**》於2008年7月拍板製作，並於2009年3月7日在日本上�
       -
         演唱：[水樹奈奈](../Page/水樹奈奈.md "wikilink")（希恩），作詞：[山口宏](https://zh.wikipedia.org/wiki/山口宏 "wikilink")，作曲、編曲：鈴木さえ子、[掛川陽介](https://zh.wikipedia.org/wiki/掛川陽介 "wikilink")、[本澤尚之](https://zh.wikipedia.org/wiki/本澤尚之 "wikilink")
 
-[Category:超劇場版_Keroro軍曹](https://zh.wikipedia.org/wiki/Category:超劇場版_Keroro軍曹 "wikilink")
-[Category:2009年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2009年日本劇場動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:龍題材電影](https://zh.wikipedia.org/wiki/Category:龍題材電影 "wikilink")
-[Category:巴黎背景電影](https://zh.wikipedia.org/wiki/Category:巴黎背景電影 "wikilink")
-[Category:紐約市背景電影](https://zh.wikipedia.org/wiki/Category:紐約市背景電影 "wikilink")
-[Category:悉尼背景電影](https://zh.wikipedia.org/wiki/Category:悉尼背景電影 "wikilink")
-[Category:非洲背景電影](https://zh.wikipedia.org/wiki/Category:非洲背景電影 "wikilink")
-[Category:多摩地域背景電影](https://zh.wikipedia.org/wiki/Category:多摩地域背景電影 "wikilink")
-[Category:山口晋電影](https://zh.wikipedia.org/wiki/Category:山口晋電影 "wikilink")
-[Category:外星生命入侵地球的電影](https://zh.wikipedia.org/wiki/Category:外星生命入侵地球的電影 "wikilink")
+[Category:超劇場版_Keroro軍曹](https://zh.wikipedia.org/wiki/Category:超劇場版_Keroro軍曹 "wikilink") [Category:2009年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2009年日本劇場動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:龍題材電影](https://zh.wikipedia.org/wiki/Category:龍題材電影 "wikilink") [Category:巴黎背景電影](https://zh.wikipedia.org/wiki/Category:巴黎背景電影 "wikilink") [Category:紐約市背景電影](https://zh.wikipedia.org/wiki/Category:紐約市背景電影 "wikilink") [Category:悉尼背景電影](https://zh.wikipedia.org/wiki/Category:悉尼背景電影 "wikilink") [Category:非洲背景電影](https://zh.wikipedia.org/wiki/Category:非洲背景電影 "wikilink") [Category:多摩地域背景電影](https://zh.wikipedia.org/wiki/Category:多摩地域背景電影 "wikilink") [Category:山口晋電影](https://zh.wikipedia.org/wiki/Category:山口晋電影 "wikilink") [Category:外星生命入侵地球的電影](https://zh.wikipedia.org/wiki/Category:外星生命入侵地球的電影 "wikilink")

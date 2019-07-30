@@ -1,17 +1,15 @@
-**動畫[家庭教師HITMAN
-REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")**的角色歌演唱會，由該動畫聲優參與演出。簡稱「家教會（Rebocon）」。曾分別於[中野](https://zh.wikipedia.org/wiki/中野 "wikilink")、[橫濱](https://zh.wikipedia.org/wiki/橫濱 "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[神戶及](https://zh.wikipedia.org/wiki/神戶 "wikilink")[台灣演出](https://zh.wikipedia.org/wiki/台灣 "wikilink")。至今已有八次演出，合計共十九個場次。\[1\]
+**動畫[家庭教師HITMAN REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")**的角色歌演唱會，由該動畫聲優參與演出。簡稱「家教會（Rebocon）」。曾分別於[中野](https://zh.wikipedia.org/wiki/中野 "wikilink")、[橫濱](https://zh.wikipedia.org/wiki/橫濱 "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[神戶及](https://zh.wikipedia.org/wiki/神戶 "wikilink")[台灣演出](https://zh.wikipedia.org/wiki/台灣 "wikilink")。至今已有八次演出，合計共十九個場次。\[1\]
 
 ## 特色之處
 
   - 以[里包恩常用招呼語](https://zh.wikipedia.org/wiki/里包恩 "wikilink")「**Ciao-su\!**」做為家教會慣例開場及招呼用語。
-  - [飯田利信為慣例忘詞](../Page/飯田利信.md "wikilink")、錯詞聲優，在家教會中常受到各聲優的照顧。
+  - [飯田利信](../Page/飯田利信.md "wikilink")為慣例忘詞、錯詞聲優，在家教會中常受到各聲優的照顧。
   - 自家教會3以來，「OK\!」成為家教會流行語。
 
 ## REBOCON 2008 in 中野
 
   - 標題：「家庭教師ヒットマン REBORN！」ボンゴレ最強のカルネヴァーレ2008 〜in 中野サンプラザ〜\[2\]
-  - 場次：2008年5月4日
-    14:00，18:00（追加場）\[3\]，[中野サンプラザ](../Page/中野太陽廣場.md "wikilink")
+  - 場次：2008年5月4日 14:00，18:00（追加場）\[3\]，[中野サンプラザ](../Page/中野太陽廣場.md "wikilink")
 
 ### 參演聲優
 
@@ -58,9 +56,7 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")**的角�
 ## REBOCON 2009 in 橫濱
 
   - 標題：「家庭教師ヒットマン REBORN！」ボンゴレ最強のカルネヴァーレ2009～橫浜にヴァリアー現る～\[4\]
-  - 場次：2009年3月1日
-    13:30，17:30，[パシフィコ横浜](../Page/橫濱國際平和會議場.md "wikilink")（Pacifico
-    Yokohama）
+  - 場次：2009年3月1日 13:30，17:30，[パシフィコ横浜](../Page/橫濱國際平和會議場.md "wikilink")（Pacifico Yokohama）
 
 <!-- end list -->
 
@@ -119,7 +115,7 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")**的角�
 ### 特色之處
 
   - [市瀬秀和於](https://zh.wikipedia.org/wiki/市瀬秀和 "wikilink")「前奏DONG」環節演唱獄寺角色歌「...loop」開始前強調是「橫濱版」，演唱時把歌詞中的「十代首領」改成「你們」，「左右手」改成「左右腳」，最後說「對不起，十代首領。」
-  - 當天[近藤隆沒有出場](../Page/近藤隆.md "wikilink")，透過會場銀幕於錄音室現場轉播。(後來[木內秀信說明是事先錄好的](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")）
+  - 當天[近藤隆](../Page/近藤隆.md "wikilink")沒有出場，透過會場銀幕於錄音室現場轉播。(後來[木內秀信說明是事先錄好的](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")）
 
 ## REBOCON 3
 
@@ -214,11 +210,11 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")**的角�
 
 <!-- end list -->
 
-  - [大山鎬則在演唱白蘭角色歌](../Page/大山鎬則.md "wikilink")「パーフェクトワールド」時加入OK\!語句，被同場聲優廣泛使用，造就了OK\!傳說。此後OK\!成為家教會的流行語。
-  - [大山鎬則在東京場演唱時使用](../Page/大山鎬則.md "wikilink")「OK！東京」；在名古屋場演唱時使用「OK！名古屋」；在神戶場演唱時使用「OK！神戶」
-  - [大山鎬則在東京場向](../Page/大山鎬則.md "wikilink")[高橋廣樹及](../Page/高橋廣樹.md "wikilink")[鈴木真仁表示](../Page/鈴木真仁.md "wikilink")「OK！東京」可在任何情況使用，被[高橋廣樹反問](../Page/高橋廣樹.md "wikilink")：「在名古屋也能用嗎？」
+  - [大山鎬則](../Page/大山鎬則.md "wikilink")在演唱白蘭角色歌「パーフェクトワールド」時加入OK\!語句，被同場聲優廣泛使用，造就了OK\!傳說。此後OK\!成為家教會的流行語。
+  - [大山鎬則](../Page/大山鎬則.md "wikilink")在東京場演唱時使用「OK！東京」；在名古屋場演唱時使用「OK！名古屋」；在神戶場演唱時使用「OK！神戶」
+  - [大山鎬則](../Page/大山鎬則.md "wikilink")在東京場向[高橋廣樹](../Page/高橋廣樹.md "wikilink")及[鈴木真仁](../Page/鈴木真仁.md "wikilink")表示「OK！東京」可在任何情況使用，被[高橋廣樹](../Page/高橋廣樹.md "wikilink")反問：「在名古屋也能用嗎？」
   - DVD特典上也有加入OK！系列。OK！延伸至遇到麻煩時使用。
-  - [飯田利信在東京場忘詞時使用](../Page/飯田利信.md "wikilink")「OK！東京」脫身（東京場特典）。
+  - [飯田利信](../Page/飯田利信.md "wikilink")在東京場忘詞時使用「OK！東京」脫身（東京場特典）。
   - [湯澤幸一郎在作出難為情的表演後也使用了](https://zh.wikipedia.org/wiki/湯澤幸一郎 "wikilink")「OK！神戶」
 
 <!-- end list -->
@@ -228,19 +224,18 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")**的角�
 <!-- end list -->
 
   - [木內秀信於CHOICE環節時使用的拳套於東京遺失](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")，名古屋場及神戶場均使用紅色運動褲矇混過去。
-  - [NEEKO由於髮型太過特殊有幾度轉頭的時候戳到人](../Page/NEEKO.md "wikilink")，因而被說成是兇器。
+  - [NEEKO](../Page/NEEKO.md "wikilink")由於髮型太過特殊有幾度轉頭的時候戳到人，因而被說成是兇器。
 
 ### 失誤
 
-  - [飯田利信於東京場演唱](../Page/飯田利信.md "wikilink")「記憶の果て」時忘詞。
-  - [吉田仁美於神戶最終場](../Page/吉田仁美.md "wikilink")，在自我介紹時把自己的名字說成稻村優奈。
-  - [明坂聰美於名古屋場的](../Page/明坂聰美.md "wikilink")「CHOICE環節」中，對將於隔一天舉行的神戶場中缺席的飯田利信說「明天一起加油吧！」
+  - [飯田利信](../Page/飯田利信.md "wikilink")於東京場演唱「記憶の果て」時忘詞。
+  - [吉田仁美](../Page/吉田仁美.md "wikilink")於神戶最終場，在自我介紹時把自己的名字說成稻村優奈。
+  - [明坂聰美](../Page/明坂聰美.md "wikilink")於名古屋場的「CHOICE環節」中，對將於隔一天舉行的神戶場中缺席的飯田利信說「明天一起加油吧！」
 
 ## REBOCON in 台灣
 
   - 標題：「家庭教師ヒットマン REBORN！」ボンゴレ最強のカルネヴァーレ in 台灣\[7\]
-  - 場次：2010年7月10日 19:00，Legacy
-    TAIPEI（位於[華山創意文化園區中五館](https://zh.wikipedia.org/wiki/華山創意文化園區 "wikilink")）
+  - 場次：2010年7月10日 19:00，Legacy TAIPEI（位於[華山創意文化園區中五館](https://zh.wikipedia.org/wiki/華山創意文化園區 "wikilink")）
 
 ### 參演聲優
 
@@ -275,11 +270,11 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")**的角�
 ### 特色之處
 
   - 由於是台灣場，聲優在演出時穿插不少中文，並另設有翻譯員翻譯聲優的談話。
-  - 中場透過會場的銀幕播放[稻村優奈](../Page/稻村優奈.md "wikilink")、[吉田仁美](../Page/吉田仁美.md "wikilink")、[藤原祐規](../Page/藤原祐規.md "wikilink")、[湯澤幸一郎](https://zh.wikipedia.org/wiki/湯澤幸一郎 "wikilink")、[豐永利行的影音留言與家教會](../Page/豐永利行.md "wikilink")3演唱角色歌時的片段。
+  - 中場透過會場的銀幕播放[稻村優奈](../Page/稻村優奈.md "wikilink")、[吉田仁美](../Page/吉田仁美.md "wikilink")、[藤原祐規](../Page/藤原祐規.md "wikilink")、[湯澤幸一郎](https://zh.wikipedia.org/wiki/湯澤幸一郎 "wikilink")、[豐永利行](../Page/豐永利行.md "wikilink")的影音留言與家教會3演唱角色歌時的片段。
   - 演唱「Family～中文版～」時未出席聲優透過現場螢幕播放合唱。
   - 觀眾席均為立席，與日本場次多是坐席不同，也因此聲優無法下到觀眾席與觀眾互動，而以後方雙舞台設計的方式取代。
-  - [木內秀信在為](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")[NEEKO演出伴舞時](../Page/NEEKO.md "wikilink")，發生出場延遲的失誤，故在TALK時出現本人向觀眾行[土下座致歉的難得畫面](https://zh.wikipedia.org/wiki/叩头 "wikilink")。
-  - [飯田利信在最後打招呼時用中文說了](../Page/飯田利信.md "wikilink")「和我一起定契約吧」，但被翻譯了。最後更被[木內秀信吐槽](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")：「你的中文被翻譯了嗎?」
+  - [木內秀信在為](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")[NEEKO](../Page/NEEKO.md "wikilink")演出伴舞時，發生出場延遲的失誤，故在TALK時出現本人向觀眾行[土下座致歉的難得畫面](https://zh.wikipedia.org/wiki/叩头 "wikilink")。
+  - [飯田利信](../Page/飯田利信.md "wikilink")在最後打招呼時用中文說了「和我一起定契約吧」，但被翻譯了。最後更被[木內秀信吐槽](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")：「你的中文被翻譯了嗎?」
 
 ## REBOCON 4 RED & BLUE
 
@@ -287,8 +282,7 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")**的角�
   - 場次：
       - 【RED】2010年10月9日、2010年10月10日
       - 【BLUE】2010年11月13日、2010年11月14日
-  - 地點：[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[JCB
-    Hall](../Page/MEETS_PORT.md "wikilink")
+  - 地點：[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[JCB Hall](../Page/MEETS_PORT.md "wikilink")
 
 ### 參演聲優
 
@@ -383,14 +377,12 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")**的角�
 
 ### 創舉
 
-由於一再有觀眾反映場次太少，因此主辦單位應觀眾要求與「」合作，在演出期間於全國（日本）「WARNER
-MYCAL」十一間分別位於江別（[北海道](../Page/北海道.md "wikilink")）、名取エアリ（[宮城縣](../Page/宮城縣.md "wikilink")）、みなとみらい（[神奈川縣](../Page/神奈川縣.md "wikilink")）、板橋（[東京都](../Page/東京都.md "wikilink")）、新潟南（[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")）、御経塚（[石川縣](../Page/石川縣.md "wikilink")）、大高（[愛知縣](../Page/愛知縣.md "wikilink")）、茨木（[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")）、広島（[廣島縣](../Page/廣島縣.md "wikilink")）、高松（香川縣）、福岡ルクル（福岡縣）等城市的戲院同步直播。\[9\]\[10\]
+由於一再有觀眾反映場次太少，因此主辦單位應觀眾要求與「」合作，在演出期間於全國（日本）「WARNER MYCAL」十一間分別位於江別（[北海道](../Page/北海道.md "wikilink")）、名取エアリ（[宮城縣](../Page/宮城縣.md "wikilink")）、みなとみらい（[神奈川縣](../Page/神奈川縣.md "wikilink")）、板橋（[東京都](../Page/東京都.md "wikilink")）、新潟南（[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")）、御経塚（[石川縣](../Page/石川縣.md "wikilink")）、大高（[愛知縣](../Page/愛知縣.md "wikilink")）、茨木（[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")）、広島（[廣島縣](../Page/廣島縣.md "wikilink")）、高松（香川縣）、福岡ルクル（福岡縣）等城市的戲院同步直播。\[9\]\[10\]
 
 ## REBOCON 5
 
   - 標題：「家庭教師ヒットマン REBORN！」ボンゴレ究極のカルネヴァーレ\!\!\!\!\!\[11\]
-  - 場次：2011年10月1日（17:30），2011年10月2日（13:00，17:30），[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")「[YOMIURI
-    LAND](../Page/讀賣樂園.md "wikilink")」オープンシアターEAST
+  - 場次：2011年10月1日（17:30），2011年10月2日（13:00，17:30），[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")「[YOMIURI LAND](../Page/讀賣樂園.md "wikilink")」オープンシアターEAST
 
 ### 參演聲優
 
@@ -569,8 +561,7 @@ MYCAL」十一間分別位於江別（[北海道](../Page/北海道.md "wikilink
 `| url=`<http://www.warnermycal.com/company/press/10/09/0910_02.pdf>
 `| date=2010-09-10`
 `| accessdate=2011-11-27`
-`| publisher=`[`Warner``
- ``Mycal`](https://zh.wikipedia.org/wiki/Warner_Mycal "wikilink")
+`| publisher=`[`Warner``   ``Mycal`](https://zh.wikipedia.org/wiki/Warner_Mycal "wikilink")
 `| language=ja`
 
 }} </ref>
@@ -599,8 +590,7 @@ MYCAL」十一間分別位於江別（[北海道](../Page/北海道.md "wikilink
 
   - [REBOCON](http://www.ponycanyon.co.jp/rebocon/) - PONY CANYON
 
-[Category:家庭教師HITMAN_REBORN\!](https://zh.wikipedia.org/wiki/Category:家庭教師HITMAN_REBORN! "wikilink")
-[Category:動畫音樂會](https://zh.wikipedia.org/wiki/Category:動畫音樂會 "wikilink")
+[Category:家庭教師HITMAN_REBORN\!](https://zh.wikipedia.org/wiki/Category:家庭教師HITMAN_REBORN! "wikilink") [Category:動畫音樂會](https://zh.wikipedia.org/wiki/Category:動畫音樂會 "wikilink")
 
 1.
 2.

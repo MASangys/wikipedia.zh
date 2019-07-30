@@ -1,4 +1,4 @@
-《**Remix**》是香港歌手[韋綺姍發行第一張混音專輯](../Page/韋綺姍.md "wikilink")。
+《**Remix**》是香港歌手[韋綺姍](../Page/韋綺姍.md "wikilink")發行第一張混音專輯。
 
 ## 曲目
 
@@ -24,7 +24,7 @@
 <td><p>羅祖堯</p></td>
 <td></td>
 <td><p>4:25</p></td>
-<td><p><a href="../Page/蔣志光.md" title="wikilink">蔣志光合唱</a></p></td>
+<td><p><a href="../Page/蔣志光.md" title="wikilink">蔣志光</a>合唱</p></td>
 </tr>
 <tr class="even">
 <td><p>02</p></td>
@@ -151,7 +151,4 @@ Extended Remix</p></td>
 
 ## 外部連結
 
-[Category:韋綺姍音樂專輯](https://zh.wikipedia.org/wiki/Category:韋綺姍音樂專輯 "wikilink")
-[Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:韋綺姍音樂專輯](https://zh.wikipedia.org/wiki/Category:韋綺姍音樂專輯 "wikilink") [Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

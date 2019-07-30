@@ -10,8 +10,7 @@
 2.  絶対会長宣言！
       -
         歌:櫻野玖璃夢（本多真梨子）
-        作詞:橋本由香利 /
-        作曲・編曲:[STAY](https://zh.wikipedia.org/wiki/STAY "wikilink")
+        作詞:橋本由香利 / 作曲・編曲:[STAY](https://zh.wikipedia.org/wiki/STAY "wikilink")
 3.  Treasure 〜KARAOKE MIX〜
 4.  絶対会長宣言！ 〜KARAOKE MIX〜
 
@@ -19,6 +18,4 @@
 
   - [Treasure](https://web.archive.org/web/20141007162624/http://www.amgmusic.jp/label/label_MusicDetail.php?%40DB_ID%40=12)
 
-[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
+[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")

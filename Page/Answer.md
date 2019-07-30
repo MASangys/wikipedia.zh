@@ -1,10 +1,8 @@
-《**Answer**》是[no3b的第](https://zh.wikipedia.org/wiki/no3b "wikilink")6張單曲。於2011年3月2日由[EPIC
-Records
-Japan發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
+《**Answer**》是[no3b的第](https://zh.wikipedia.org/wiki/no3b "wikilink")6張單曲。於2011年3月2日由[EPIC Records Japan發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概要
 
-與前作《[只有你](../Page/只有你_\(no3b單曲\).md "wikilink")》夾著與專輯《[no3b](https://zh.wikipedia.org/wiki/no3b_\(專輯\) "wikilink")》相隔約7個月發售。表題曲「Answer」是[讀賣電視台和](../Page/讀賣電視台.md "wikilink")[日本電視台系](../Page/日本電視台.md "wikilink")[日本電視動畫](../Page/日本電視動畫.md "wikilink")『[惡魔奶爸](../Page/惡魔奶爸.md "wikilink")』的[主題曲和](../Page/主題曲.md "wikilink")[TBS系](../Page/TBS.md "wikilink")《[有吉AKB共和国](https://zh.wikipedia.org/wiki/有吉AKB共和国 "wikilink")》片尾曲作使用。
+與前作《[只有你](../Page/只有你_\(no3b單曲\).md "wikilink")》夾著與專輯《[no3b](https://zh.wikipedia.org/wiki/no3b_\(專輯\) "wikilink")》相隔約7個月發售。表題曲「Answer」是[讀賣電視台](../Page/讀賣電視台.md "wikilink")和[日本電視台](../Page/日本電視台.md "wikilink")系[日本電視動畫](../Page/日本電視動畫.md "wikilink")『[惡魔奶爸](../Page/惡魔奶爸.md "wikilink")』的[主題曲](../Page/主題曲.md "wikilink")和[TBS](../Page/TBS.md "wikilink")系《[有吉AKB共和国](https://zh.wikipedia.org/wiki/有吉AKB共和国 "wikilink")》片尾曲作使用。
 
 ## 收錄曲
 
@@ -13,8 +11,8 @@ Japan發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")�
 1.  **Answer** \[4:08\]
       -
         作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲・編曲：伊藤心太郎
-        [讀賣電視台](../Page/讀賣電視台.md "wikilink")・[日本電視台系動畫](../Page/日本電視台.md "wikilink")《[惡魔奶爸](../Page/惡魔奶爸.md "wikilink")》片尾曲
-        [TBS電視台系](../Page/TBS電視台.md "wikilink")《[有吉AKB共和国](https://zh.wikipedia.org/wiki/有吉AKB共和国 "wikilink")》片尾曲
+        [讀賣電視台](../Page/讀賣電視台.md "wikilink")・[日本電視台](../Page/日本電視台.md "wikilink")系動畫《[惡魔奶爸](../Page/惡魔奶爸.md "wikilink")》片尾曲
+        [TBS電視台](../Page/TBS電視台.md "wikilink")系《[有吉AKB共和国](https://zh.wikipedia.org/wiki/有吉AKB共和国 "wikilink")》片尾曲
 2.  **モノズキ1号** \[3:54\]
       -
         作詞：秋元康、作曲：野中“まさ”雄一、編曲：山崎淳
@@ -40,8 +38,7 @@ Japan發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")�
   -
 
       -
-        from 「リクエストアワー セットリストベスト100 2011」 LIVE at
-        [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink") Only Edition
+        from 「リクエストアワー セットリストベスト100 2011」 LIVE at [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink") Only Edition
 
 <!-- end list -->
 
@@ -78,8 +75,7 @@ Japan發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")�
   -
 
       -
-        from 「リクエストアワー セットリストベスト100 2011」 LIVE at SHIBUYA-AX Only
-        Edition
+        from 「リクエストアワー セットリストベスト100 2011」 LIVE at SHIBUYA-AX Only Edition
 
 <!-- end list -->
 
@@ -115,8 +111,7 @@ Japan發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")�
   -
 
       -
-        from 「リクエストアワー セットリストベスト100 2011」 LIVE at SHIBUYA-AX Only
-        Edition
+        from 「リクエストアワー セットリストベスト100 2011」 LIVE at SHIBUYA-AX Only Edition
 
 <!-- end list -->
 
@@ -148,8 +143,4 @@ Japan發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")�
 
   - [no3b官方網站](http://www.no3b.net/)
 
-[Category:No3b歌曲](https://zh.wikipedia.org/wiki/Category:No3b歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:日本電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台動畫主題曲 "wikilink")
-[Category:日本史詩唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本史詩唱片歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:No3b歌曲](https://zh.wikipedia.org/wiki/Category:No3b歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:日本電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台動畫主題曲 "wikilink") [Category:日本史詩唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本史詩唱片歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")

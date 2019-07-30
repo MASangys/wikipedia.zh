@@ -1,24 +1,24 @@
-《**ATV焦點**》（），是[香港](../Page/香港.md "wikilink")[亞洲電視的時事評論節目](../Page/亞洲電視.md "wikilink")，逢星期一至五香港時間[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")10時55分至11時正於[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台及](../Page/本港台.md "wikilink")[亞洲台播出](../Page/亞洲電視亞洲台.md "wikilink")。
+《**ATV焦點**》（），是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")的時事評論節目，逢星期一至五香港時間[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")10時55分至11時正於[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")及[亞洲台播出](../Page/亞洲電視亞洲台.md "wikilink")。
 
-本節目於2011年1月3日啟播，接替形式相似的節目《[主播天下](../Page/主播天下.md "wikilink")》。原為新聞部高層[梁家榮及](../Page/梁家榮.md "wikilink")[譚衛兒](../Page/譚衛兒.md "wikilink")（已離任）策劃，揀選重點新聞再採用新聞記者的觀點以深入角度剖析，由不同專職不同範疇記者擔任主持。但在2012年4月16日突然轉為以簡報及由特定記者旁述，政治立場完全親建制派，意見走向單一化，且被指經常肆意抨擊[泛民主派](../Page/泛民主派.md "wikilink")，至2015年1月2日停播。
+本節目於2011年1月3日啟播，接替形式相似的節目《[主播天下](../Page/主播天下.md "wikilink")》。原為新聞部高層[梁家榮](../Page/梁家榮.md "wikilink")及[譚衛兒](../Page/譚衛兒.md "wikilink")（已離任）策劃，揀選重點新聞再採用新聞記者的觀點以深入角度剖析，由不同專職不同範疇記者擔任主持。但在2012年4月16日突然轉為以簡報及由特定記者旁述，政治立場完全親建制派，意見走向單一化，且被指經常肆意抨擊[泛民主派](../Page/泛民主派.md "wikilink")，至2015年1月2日停播。
 
 ## 歷史
 
   - 2011年1月3日開始，逢星期一至五22:30-22:45（《[夜間新聞](../Page/亞洲電視夜間新聞.md "wikilink")》前）於[本港台](../Page/本港台.md "wikilink")、[亞洲台同步播出](../Page/亞洲電視亞洲台.md "wikilink")。
   - 2011年2月2日，由於播放《人氣春晚‧唱紅亞洲》，當晚《ATV焦點》暫停播出。
   - 由於發生[日本大地震](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，2011年3月14日至17日將節目的播放時間延長至30分鐘（22:00-22:30）。
-  - 2011年4月9日（星期六），由於[劉吳惠蘭辭職](../Page/劉吳惠蘭.md "wikilink")，當晚播出《**ATV焦點周末特別版－劉吳惠蘭辭職**》。
+  - 2011年4月9日（星期六），由於[劉吳惠蘭](../Page/劉吳惠蘭.md "wikilink")辭職，當晚播出《**ATV焦點周末特別版－劉吳惠蘭辭職**》。
   - 2011年5月2日起，改在23:30-23:50（《[把酒當歌](../Page/把酒當歌.md "wikilink")》後）於[本港台](../Page/本港台.md "wikilink")、[亞洲台同步播出](../Page/亞洲電視亞洲台.md "wikilink")。
   - 2011年8月15日起，改在22:45-23:00（《[把酒當歌](../Page/把酒當歌.md "wikilink")》前）播出。
-  - 2011年8月23日，由於播放特備節目——《[殷莉記者招待會](../Page/殷莉.md "wikilink")》，談及有關《[走進上市公司](../Page/走進上市公司.md "wikilink")》的有償新聞爭議，當晚《ATV焦點》暫停播出。
-  - 2012年3月25日（星期日），當晚[本港台及](../Page/本港台.md "wikilink")[亞洲台於](../Page/亞洲電視亞洲台.md "wikilink")19:00-19:58播出特備節目《**ATV焦點：迎接新時代–選後點評**》。
-  - 2012年4月16日起，由於22:00首播全新財經節目《[國際財經視野](../Page/國際財經視野.md "wikilink")》，本節目轉以簡報及由特定記者旁述，意見並走向單一化，改在22:55-23:00（《[夜間新聞](https://zh.wikipedia.org/wiki/夜間新聞 "wikilink")》後）於[本港台及](../Page/本港台.md "wikilink")[亞洲台播出](../Page/亞洲電視亞洲台.md "wikilink")。
-  - 2012年8月6日起，本節目開始於08:40-08:45（《[亞洲早晨](../Page/亞洲早晨.md "wikilink")》後）於[本港台及](../Page/本港台.md "wikilink")[亞洲台重播](../Page/亞洲電視亞洲台.md "wikilink")。
-  - 2012年8月13日起，本節目提早於18:40-18:45（《[六點鐘新聞](../Page/六點鐘新聞.md "wikilink")》後）於[本港台及](../Page/本港台.md "wikilink")[亞洲台首播](../Page/亞洲電視亞洲台.md "wikilink")，並於22:55-23:00（《[夜間新聞](https://zh.wikipedia.org/wiki/夜間新聞 "wikilink")》後）及翌日08:40-08:45（《[亞洲早晨](../Page/亞洲早晨.md "wikilink")》後）重播。
-  - 2012年9月3日的國民教育題材節目被認為內容偏頗、有欠中立等，[通訊事務管理局於一天內收到超過一萬宗投訴](../Page/通訊事務管理局.md "wikilink")\[1\]。於翌日單日內接獲的新增投訴達3萬個，累計投訴電郵飈升至4萬個，預料個案涉違反守則表面證據成立的機會甚高，相信委員將展開調查\[2\]。
+  - 2011年8月23日，由於播放特備節目——《[殷莉](../Page/殷莉.md "wikilink")記者招待會》，談及有關《[走進上市公司](../Page/走進上市公司.md "wikilink")》的有償新聞爭議，當晚《ATV焦點》暫停播出。
+  - 2012年3月25日（星期日），當晚[本港台](../Page/本港台.md "wikilink")及[亞洲台於](../Page/亞洲電視亞洲台.md "wikilink")19:00-19:58播出特備節目《**ATV焦點：迎接新時代–選後點評**》。
+  - 2012年4月16日起，由於22:00首播全新財經節目《[國際財經視野](../Page/國際財經視野.md "wikilink")》，本節目轉以簡報及由特定記者旁述，意見並走向單一化，改在22:55-23:00（《[夜間新聞](https://zh.wikipedia.org/wiki/夜間新聞 "wikilink")》後）於[本港台](../Page/本港台.md "wikilink")及[亞洲台播出](../Page/亞洲電視亞洲台.md "wikilink")。
+  - 2012年8月6日起，本節目開始於08:40-08:45（《[亞洲早晨](../Page/亞洲早晨.md "wikilink")》後）於[本港台](../Page/本港台.md "wikilink")及[亞洲台重播](../Page/亞洲電視亞洲台.md "wikilink")。
+  - 2012年8月13日起，本節目提早於18:40-18:45（《[六點鐘新聞](../Page/六點鐘新聞.md "wikilink")》後）於[本港台](../Page/本港台.md "wikilink")及[亞洲台首播](../Page/亞洲電視亞洲台.md "wikilink")，並於22:55-23:00（《[夜間新聞](https://zh.wikipedia.org/wiki/夜間新聞 "wikilink")》後）及翌日08:40-08:45（《[亞洲早晨](../Page/亞洲早晨.md "wikilink")》後）重播。
+  - 2012年9月3日的國民教育題材節目被認為內容偏頗、有欠中立等，[通訊事務管理局](../Page/通訊事務管理局.md "wikilink")於一天內收到超過一萬宗投訴\[1\]。於翌日單日內接獲的新增投訴達3萬個，累計投訴電郵飈升至4萬個，預料個案涉違反守則表面證據成立的機會甚高，相信委員將展開調查\[2\]。
   - 2012年12月5日，通訊事務管理局裁定9月份播出的五集有關反國民教育人士的《ATV焦點》違反了規管「個人意見節目」的《電視節目守則》第9章，包括該五集節目未能提供適當機會予其他人作回應，未有讓有關國民教育的多方面意見得以表達，提供不準確或誤導性的事實資料和於9月5日和6日兩集中有兩處錯誤的資料，因此向亞洲電視發出警告\[3\]\[4\]\[5\]\[6\]。
-  - 2013年3月18日起，本節目進行改革，改由[金鈴主持](https://zh.wikipedia.org/wiki/金鈴_\(拍賣師\) "wikilink")，[王瑩或](https://zh.wikipedia.org/wiki/王瑩 "wikilink")[戴熙則為後備主持](https://zh.wikipedia.org/wiki/戴熙 "wikilink")，於播放記者旁述的評論簡報前後簡述新聞及評論內容，節目延遲5分鐘完結，改為18:35-18:45（《[六點鐘新聞](../Page/六點鐘新聞.md "wikilink")》後）於[本港台及](../Page/本港台.md "wikilink")[亞洲台首播](../Page/亞洲電視亞洲台.md "wikilink")，並於22:55-23:00（《[夜間新聞](https://zh.wikipedia.org/wiki/夜間新聞 "wikilink")》後）及翌日08:40-08:45（《[亞洲早晨](../Page/亞洲早晨.md "wikilink")》後）重播。
-  - 2013年6月3日起，本節目加入「主播平台」環節，該環節設有2名主持，包括一名常規主持（[金鈴](https://zh.wikipedia.org/wiki/金鈴_\(拍賣師\) "wikilink")、[王瑩](https://zh.wikipedia.org/wiki/王瑩 "wikilink")、[戴熙或](https://zh.wikipedia.org/wiki/戴熙 "wikilink")[王嘉恩](https://zh.wikipedia.org/wiki/王嘉恩 "wikilink")）及一名於新聞部任職的主播（[何戎笙](https://zh.wikipedia.org/wiki/何戎笙 "wikilink")、[陳興昌](../Page/陳興昌.md "wikilink")、[王瑩](https://zh.wikipedia.org/wiki/王瑩 "wikilink")、[戴熙或](https://zh.wikipedia.org/wiki/戴熙 "wikilink")[王嘉恩](https://zh.wikipedia.org/wiki/王嘉恩 "wikilink")），節目延遲5分鐘完結，改為18:35-18:50（《[六點鐘新聞](../Page/六點鐘新聞.md "wikilink")》後）於[本港台及](../Page/本港台.md "wikilink")[亞洲台首播](../Page/亞洲電視亞洲台.md "wikilink")，並於22:55-23:00（《[夜間新聞](https://zh.wikipedia.org/wiki/夜間新聞 "wikilink")》後）及翌日08:35-08:45（《[亞洲早晨](../Page/亞洲早晨.md "wikilink")》後）重播。
+  - 2013年3月18日起，本節目進行改革，改由[金鈴主持](https://zh.wikipedia.org/wiki/金鈴_\(拍賣師\) "wikilink")，[王瑩或](https://zh.wikipedia.org/wiki/王瑩 "wikilink")[戴熙則為後備主持](https://zh.wikipedia.org/wiki/戴熙 "wikilink")，於播放記者旁述的評論簡報前後簡述新聞及評論內容，節目延遲5分鐘完結，改為18:35-18:45（《[六點鐘新聞](../Page/六點鐘新聞.md "wikilink")》後）於[本港台](../Page/本港台.md "wikilink")及[亞洲台首播](../Page/亞洲電視亞洲台.md "wikilink")，並於22:55-23:00（《[夜間新聞](https://zh.wikipedia.org/wiki/夜間新聞 "wikilink")》後）及翌日08:40-08:45（《[亞洲早晨](../Page/亞洲早晨.md "wikilink")》後）重播。
+  - 2013年6月3日起，本節目加入「主播平台」環節，該環節設有2名主持，包括一名常規主持（[金鈴](https://zh.wikipedia.org/wiki/金鈴_\(拍賣師\) "wikilink")、[王瑩](https://zh.wikipedia.org/wiki/王瑩 "wikilink")、[戴熙或](https://zh.wikipedia.org/wiki/戴熙 "wikilink")[王嘉恩](https://zh.wikipedia.org/wiki/王嘉恩 "wikilink")）及一名於新聞部任職的主播（[何戎笙](https://zh.wikipedia.org/wiki/何戎笙 "wikilink")、[陳興昌](../Page/陳興昌.md "wikilink")、[王瑩](https://zh.wikipedia.org/wiki/王瑩 "wikilink")、[戴熙或](https://zh.wikipedia.org/wiki/戴熙 "wikilink")[王嘉恩](https://zh.wikipedia.org/wiki/王嘉恩 "wikilink")），節目延遲5分鐘完結，改為18:35-18:50（《[六點鐘新聞](../Page/六點鐘新聞.md "wikilink")》後）於[本港台](../Page/本港台.md "wikilink")及[亞洲台首播](../Page/亞洲電視亞洲台.md "wikilink")，並於22:55-23:00（《[夜間新聞](https://zh.wikipedia.org/wiki/夜間新聞 "wikilink")》後）及翌日08:35-08:45（《[亞洲早晨](../Page/亞洲早晨.md "wikilink")》後）重播。
   - 2014年2月26日，因亞洲電視執行董事[唐文被撤職](../Page/雷競斌.md "wikilink")，《ATV焦點》開始採用不留名人士作為負責人。
   - 受亞洲電視拖欠員工薪酬事件影響，《ATV焦點》2015年1月2日播出最後一集，1月5日起同時段播出新節目《[ATV這一家](../Page/ATV這一家.md "wikilink")》。
 
@@ -36,7 +36,7 @@
   - [金鈴](https://zh.wikipedia.org/wiki/金鈴_\(拍賣師\) "wikilink")
       - 主播平台：[王嘉恩](https://zh.wikipedia.org/wiki/王嘉恩 "wikilink")
       - 後備：[戴熙](https://zh.wikipedia.org/wiki/戴熙 "wikilink")、[陳興昌](../Page/陳興昌.md "wikilink")
-  - 除[金鈴及](https://zh.wikipedia.org/wiki/金鈴 "wikilink")[王嘉恩外](https://zh.wikipedia.org/wiki/王嘉恩 "wikilink")，其他總為[亞視新聞部員工](../Page/亞視新聞.md "wikilink")。
+  - 除[金鈴及](https://zh.wikipedia.org/wiki/金鈴 "wikilink")[王嘉恩外](https://zh.wikipedia.org/wiki/王嘉恩 "wikilink")，其他總為[亞視新聞](../Page/亞視新聞.md "wikilink")部員工。
 
 ## 抹黑爭議
 
@@ -70,17 +70,12 @@
 
 ## 外部連結
 
-  - [亞洲電視節目網頁 -
-    ATV焦點](https://web.archive.org/web/20160304123452/http://www.hkatv.com/zh-hk/pages/46/ATV%E7%84%A6%E9%BB%9E)
+  - [亞洲電視節目網頁 - ATV焦點](https://web.archive.org/web/20160304123452/http://www.hkatv.com/zh-hk/pages/46/ATV%E7%84%A6%E9%BB%9E)
   - [ATV焦點@YouTube](https://www.youtube.com/playlist?list=PLfx9GiIaT20Kk1cTvzHq1Y4xFTNxGBuZx)
 
 ## 參考資料
 
-[Category:2011年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2011年亞洲電視節目 "wikilink")
-[Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink")
-[Category:2013年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2013年亞洲電視節目 "wikilink")
-[Category:2014年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2014年亞洲電視節目 "wikilink")
-[Category:2015年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2015年亞洲電視節目 "wikilink")
+[Category:2011年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2011年亞洲電視節目 "wikilink") [Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink") [Category:2013年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2013年亞洲電視節目 "wikilink") [Category:2014年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2014年亞洲電視節目 "wikilink") [Category:2015年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2015年亞洲電視節目 "wikilink")
 
 1.
 2.

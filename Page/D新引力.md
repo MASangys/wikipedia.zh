@@ -1,5 +1,4 @@
-《**D新引力**》（《D's New
-Attraction》）是[唐禹哲的第二張大碟](../Page/唐禹哲.md "wikilink")，於2009年1月16日推出。
+《**D新引力**》（《D's New Attraction》）是[唐禹哲](../Page/唐禹哲.md "wikilink")的第二張大碟，於2009年1月16日推出。
 
 ## 唱片版本
 
@@ -131,6 +130,4 @@ Phoenix Stone(Bmi)</p></td>
 3.  《最溫柔的懸念》音樂錄影帶
 4.  《KISS ME NOW》音樂錄影帶
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:唐禹哲音樂專輯](https://zh.wikipedia.org/wiki/Category:唐禹哲音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:唐禹哲音樂專輯](https://zh.wikipedia.org/wiki/Category:唐禹哲音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")

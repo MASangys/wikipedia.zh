@@ -1,11 +1,8 @@
-[Double_Spoiler.png](https://zh.wikipedia.org/wiki/File:Double_Spoiler.png "fig:Double_Spoiler.png")
-为由[同人组织](https://zh.wikipedia.org/wiki/同人组织 "wikilink")[上海愛莉絲幻樂團制作的](../Page/上海愛莉絲幻樂團.md "wikilink")[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，为[东方Project系列的第](https://zh.wikipedia.org/wiki/东方Project "wikilink")12.5作。
+[Double_Spoiler.png](https://zh.wikipedia.org/wiki/File:Double_Spoiler.png "fig:Double_Spoiler.png") 为由[同人组织](https://zh.wikipedia.org/wiki/同人组织 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")制作的[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，为[东方Project系列的第](https://zh.wikipedia.org/wiki/东方Project "wikilink")12.5作。
 
 ## 概要
 
-本作发布于第七次[博丽神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博丽神社例大祭 "wikilink")（2010年3月14日），为《[東方文花帖
-～ Shoot the
-Bullet.](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")》的续作，增加自[9.5作以来新增加的人物](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")。除外，自机除了原有的[射命丸文外](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")，达到某些条件\[1\]还可以使用新自机姬海棠果。而且关卡内容得到了丰富，实现了[ZUN在前一部文花帖中提到增加更多的关卡的承诺](../Page/ZUN.md "wikilink")。
+本作发布于第七次[博丽神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博丽神社例大祭 "wikilink")（2010年3月14日），为《[東方文花帖 ～ Shoot the Bullet.](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")》的续作，增加自[9.5作以来新增加的人物](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")。除外，自机除了原有的[射命丸文外](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")，达到某些条件\[1\]还可以使用新自机姬海棠果。而且关卡内容得到了丰富，实现了[ZUN](../Page/ZUN.md "wikilink")在前一部文花帖中提到增加更多的关卡的承诺。
 
 ## 故事
 
@@ -15,9 +12,7 @@ Bullet.](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")》的续�
 
 ## 系統
 
-[th125_gameplay.png](https://zh.wikipedia.org/wiki/File:th125_gameplay.png "fig:th125_gameplay.png")一樣，本作的目的仍為拍攝敵機和彈幕。在拍完一張照片後，自機周圍的彈幕會被消除，而且遊戲會對拍攝效果進行評價。\]\]
-继承与[東方文花帖 ～ Shoot the
-Bullet.一样的游戏模式](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")，以拍摄一定数量敌人和其发出的弹幕的“照片”来完成任务。
+[th125_gameplay.png](https://zh.wikipedia.org/wiki/File:th125_gameplay.png "fig:th125_gameplay.png")一樣，本作的目的仍為拍攝敵機和彈幕。在拍完一張照片後，自機周圍的彈幕會被消除，而且遊戲會對拍攝效果進行評價。\]\] 继承与[東方文花帖 ～ Shoot the Bullet.一样的游戏模式](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")，以拍摄一定数量敌人和其发出的弹幕的“照片”来完成任务。
 
 ### Shoot the Bullet
 
@@ -57,18 +52,12 @@ Bullet.一样的游戏模式](../Page/東方文花帖_～_Shoot_the_Bullet..md "
   - SIDE SHOT：自機拍照時，位於頭目面向的兩旁位置，只有加200分一種。
   - BACK SHOT：自機拍照時，位於頭目面向的後方位置，只有加300分一種。
   - TWO　SHOT：照片出現頭目跟自機的加乘比例，只有一種比例1.5倍。
-  - NICE
-    SHOT：只要出現特殊音效和紅色與藍色魔法陣的瞬間照到它及BOSS就會出現的額外加乘比例，拍到的魔法陣越大分數加乘比例越高，最多加乘1.5倍。
+  - NICE SHOT：只要出現特殊音效和紅色與藍色魔法陣的瞬間照到它及BOSS就會出現的額外加乘比例，拍到的魔法陣越大分數加乘比例越高，最多加乘1.5倍。
   - RISK SHOT：只要在擦彈時拍照就會出現的額外加分，擦彈越多，該額外加分就越多，最多加2000分。
   - MACRO BONUS：與頭目的距離，距離越近，加分越多，最多加1000分。
-  - CAT SHOT：照片照到[火焰貓
-    燐在貓的型態時才有的獎勵](https://zh.wikipedia.org/wiki/:東方地靈殿_～_Subterranean_Animism.#.E7.81.AB.E7.84.B0.E8.B2.93_.E7.87.90 "wikilink")，在關卡8-1和8-7一定會拿到,其他關卡一定拿不到，只有加666分一種。
-  - RED SHOT：特有的紅色彈幕額外加分，並非單照到紅色彈幕就有這種額外加分，必須要視BOSS特質才會出現。除了RED
-    SHOT以外，也有其他不同種類的彈幕加分，目前已確認有：BLUE SHOT、ORANGE SHOT、GREEN
-    SHOT、PURPLE SHOT、RAINBOW SHOT、COLORFUL SHOT、CYAN
-    SHOT。最多加到2100分（僅限RAINBOW SHOT和COLORFUL SHOT）。
-  - ANGLE
-    BONUS：照相時自機和boss的連線對相片長邊的夾角,0度是1.00,90度是最大值。最多加乘1.30倍(文)或是1.70倍(はたて)。
+  - CAT SHOT：照片照到[火焰貓 燐在貓的型態時才有的獎勵](https://zh.wikipedia.org/wiki/:東方地靈殿_～_Subterranean_Animism.#.E7.81.AB.E7.84.B0.E8.B2.93_.E7.87.90 "wikilink")，在關卡8-1和8-7一定會拿到,其他關卡一定拿不到，只有加666分一種。
+  - RED SHOT：特有的紅色彈幕額外加分，並非單照到紅色彈幕就有這種額外加分，必須要視BOSS特質才會出現。除了RED SHOT以外，也有其他不同種類的彈幕加分，目前已確認有：BLUE SHOT、ORANGE SHOT、GREEN SHOT、PURPLE SHOT、RAINBOW SHOT、COLORFUL SHOT、CYAN SHOT。最多加到2100分（僅限RAINBOW SHOT和COLORFUL SHOT）。
+  - ANGLE BONUS：照相時自機和boss的連線對相片長邊的夾角,0度是1.00,90度是最大值。最多加乘1.30倍(文)或是1.70倍(はたて)。
 
 ## 登場角色
 
@@ -192,22 +181,17 @@ Bullet.一样的游戏模式](../Page/東方文花帖_～_Shoot_the_Bullet..md "
 
 ## 相关条目
 
-  - [东方文花帖 ～ Bohemian Archive in Japanese
-    Red.](../Page/东方文花帖_～_Bohemian_Archive_in_Japanese_Red..md "wikilink")
-    - 一迅社出版的书籍
-  - [東方文花帖 ～ Shoot the
-    Bullet.](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")
-    - 文花帖主题的第一个弹幕游戏
+  - [东方文花帖 ～ Bohemian Archive in Japanese Red.](../Page/东方文花帖_～_Bohemian_Archive_in_Japanese_Red..md "wikilink") - 一迅社出版的书籍
+  - [東方文花帖 ～ Shoot the Bullet.](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink") - 文花帖主题的第一个弹幕游戏
 
 ## 外部連結
 
   - [ZUN制作12.5作的消息](http://kourindou.exblog.jp/12243476/)
 
   -
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
+  - [steam上的《ダブルスポイラー 〜 東方文花帖》](https://store.steampowered.com/app/1100170)
+
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
 
 1.  EX关卡通关3关以上+全关卡过关总和58关以上开启SP关卡。
 2.  根據《DS文花帖》的角色設定.txt中的介紹

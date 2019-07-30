@@ -1,4 +1,4 @@
-**LibreCad**，是一个能运行在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[MAC](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")、[Linux上的自由的开源个人](../Page/Linux.md "wikilink")[CAD应用程序](../Page/计算机辅助设计.md "wikilink")。原先是[QCad社群版的一個](../Page/QCad.md "wikilink")[分支](https://zh.wikipedia.org/wiki/復刻_\(軟體工程\) "wikilink")。
+**LibreCad**，是一个能运行在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[MAC](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")、[Linux](../Page/Linux.md "wikilink")上的自由的开源个人[CAD应用程序](../Page/计算机辅助设计.md "wikilink")。原先是[QCad](../Page/QCad.md "wikilink")社群版的一個[分支](https://zh.wikipedia.org/wiki/復刻_\(軟體工程\) "wikilink")。
 
 ## 优點
 
@@ -11,8 +11,4 @@
 
   - [LibreCAD.org 官網](http://librecad.org/)
 
-[Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink")
-[Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
-[Category:電腦輔助設計軟體](https://zh.wikipedia.org/wiki/Category:電腦輔助設計軟體 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
+[Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink") [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink") [Category:電腦輔助設計軟體](https://zh.wikipedia.org/wiki/Category:電腦輔助設計軟體 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")

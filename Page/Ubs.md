@@ -1,4 +1,4 @@
-**Unbiseptium**是尚未被發現的[化學元素](../Page/化學元素.md "wikilink")，其[原子序為](https://zh.wikipedia.org/wiki/原子序 "wikilink")127，符號為**Ubs**。它是緊接著[Ubh之後的元素](../Page/Ubh.md "wikilink")，而Ubh預計會是[穩定島上最穩定的元素](https://zh.wikipedia.org/wiki/穩定島 "wikilink")。\[1\]
+**Unbiseptium**是尚未被發現的[化學元素](../Page/化學元素.md "wikilink")，其[原子序為](https://zh.wikipedia.org/wiki/原子序 "wikilink")127，符號為**Ubs**。它是緊接著[Ubh](../Page/Ubh.md "wikilink")之後的元素，而Ubh預計會是[穩定島上最穩定的元素](https://zh.wikipedia.org/wiki/穩定島 "wikilink")。\[1\]
 
 ## 命名
 
@@ -6,10 +6,9 @@
 
 ## Ubs的合成
 
-位於[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[達姆施塔特的UNILAC加速器於](https://zh.wikipedia.org/wiki/達姆施塔特 "wikilink")1978年曾嘗試過一次[合成Ubs](../Page/人工合成元素.md "wikilink")，但並未成功。研究人員用[氙離子射向自然產生的](../Page/氙.md "wikilink")[鉭目標](https://zh.wikipedia.org/wiki/鉭 "wikilink")，反應的公式為：\[2\]
+位於[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[達姆施塔特的UNILAC加速器於](https://zh.wikipedia.org/wiki/達姆施塔特 "wikilink")1978年曾嘗試過一次[合成Ubs](../Page/人工合成元素.md "wikilink")，但並未成功。研究人員用[氙](../Page/氙.md "wikilink")離子射向自然產生的[鉭目標](https://zh.wikipedia.org/wiki/鉭 "wikilink")，反應的公式為：\[2\]
 
-\[\,^{nat}_{73}\mathrm{Ta} +  \,^{136}_{54}\mathrm{Xe} \to \,^{316, 317}\mathrm{Ubs} ^{*} \to\]
-無原子
+\[\,^{nat}_{73}\mathrm{Ta} +  \,^{136}_{54}\mathrm{Xe} \to \,^{316, 317}\mathrm{Ubs} ^{*} \to\] 無原子
 
 \===能產生Z=127複核的目標、發射體組合===
 
@@ -54,8 +53,7 @@
   - [IUPAC元素系統命名法](https://zh.wikipedia.org/wiki/IUPAC元素系統命名法 "wikilink")
   - [第8週期元素](https://zh.wikipedia.org/wiki/第8週期元素 "wikilink")
 
-[Category:化學元素](https://zh.wikipedia.org/wiki/Category:化學元素 "wikilink")
-[Category:第8週期元素](https://zh.wikipedia.org/wiki/Category:第8週期元素 "wikilink")
+[Category:化學元素](https://zh.wikipedia.org/wiki/Category:化學元素 "wikilink") [Category:第8週期元素](https://zh.wikipedia.org/wiki/Category:第8週期元素 "wikilink")
 
 1.
 2.

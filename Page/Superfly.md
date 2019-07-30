@@ -2,29 +2,15 @@
 
 ## 履歷
 
-Superfly原有的兩名成員越智志帆與多保孝一于2004年的時候在日本愛媛縣松山大學一個音樂交流會認識并結成。樂團的名字來自著名靈魂樂歌手[柯提斯·梅菲爾德的作品](../Page/柯提斯·梅菲爾德.md "wikilink")《Superfly》。經過不同的唱片公司爭奪后，Superfly于2007年以單曲《Hello
-Hello》出道。在數月后，第二張單曲《Manifesto》發行，但于同年11月8日，多保孝一宣布會淡出樂團活動，但仍然會為樂團提供作曲及作詞。其後，越智志帆繼續使用Superfly名義進行個人音樂活動。11月28日，Superfly發行了與澳洲樂隊[Jet合作的單曲](../Page/Jet_\(樂隊\).md "wikilink")《I
-Spy I Spy》。
+Superfly原有的兩名成員越智志帆與多保孝一于2004年的時候在日本愛媛縣松山大學一個音樂交流會認識并結成。樂團的名字來自著名靈魂樂歌手[柯提斯·梅菲爾德](../Page/柯提斯·梅菲爾德.md "wikilink")的作品《Superfly》。經過不同的唱片公司爭奪后，Superfly于2007年以單曲《Hello Hello》出道。在數月后，第二張單曲《Manifesto》發行，但于同年11月8日，多保孝一宣布會淡出樂團活動，但仍然會為樂團提供作曲及作詞。其後，越智志帆繼續使用Superfly名義進行個人音樂活動。11月28日，Superfly發行了與澳洲樂隊[Jet合作的單曲](../Page/Jet_\(樂隊\).md "wikilink")《I Spy I Spy》。
 
-越智志帆的歌曲風格深受[卡洛爾·金](../Page/卡洛爾·金.md "wikilink")，，[滾石樂隊及搖滾女歌手Janis](https://zh.wikipedia.org/wiki/滾石樂隊 "wikilink")
-Joplin影響。她于2008年時獲邀前往美國三藩市與搖滾樂團Big Brother and the Holding Company的成員Sam
-Andrew見面，作為參與紀錄片拍攝《the Steps of
-Janis》的一部分。于2009年紐約站的[胡士托音樂節紀念巡回演唱會](../Page/胡士托音樂節.md "wikilink")，越智志帆也與Big
-Brother and the Holding Company同臺演出。
+越智志帆的歌曲風格深受[卡洛爾·金](../Page/卡洛爾·金.md "wikilink")，，[滾石樂隊及搖滾女歌手Janis](https://zh.wikipedia.org/wiki/滾石樂隊 "wikilink") Joplin影響。她于2008年時獲邀前往美國三藩市與搖滾樂團Big Brother and the Holding Company的成員Sam Andrew見面，作為參與紀錄片拍攝《the Steps of Janis》的一部分。于2009年紐約站的[胡士托音樂節](../Page/胡士托音樂節.md "wikilink")紀念巡回演唱會，越智志帆也與Big Brother and the Holding Company同臺演出。
 
-Superfly的首張原創專輯《[Superfly](../Page/Superfly_\(專輯\).md "wikilink")》于2008年5月推出，而第二張原創專輯《[Box
-Emotions](../Page/Box_Emotions.md "wikilink")》則于2009年9月推出。該專輯推出首周便獲得超過200,000張銷量，也被日本[iTunes商店選為](https://zh.wikipedia.org/wiki/iTunes "wikilink")2009年最佳專輯。之后推出的單曲《Dancing
-on the
-Fire》也獲得了日本[MTV音樂頻道最佳搖滾MV獎](https://zh.wikipedia.org/wiki/MTV "wikilink")。
+Superfly的首張原創專輯《[Superfly](../Page/Superfly_\(專輯\).md "wikilink")》于2008年5月推出，而第二張原創專輯《[Box Emotions](../Page/Box_Emotions.md "wikilink")》則于2009年9月推出。該專輯推出首周便獲得超過200,000張銷量，也被日本[iTunes商店選為](https://zh.wikipedia.org/wiki/iTunes "wikilink")2009年最佳專輯。之后推出的單曲《Dancing on the Fire》也獲得了日本[MTV音樂頻道最佳搖滾MV獎](https://zh.wikipedia.org/wiki/MTV "wikilink")。
 
-2010年的首個作品《タマシイレボリューション》于6月發行，被選為[NHK的](https://zh.wikipedia.org/wiki/NHK "wikilink")[2010世界杯主題曲](https://zh.wikipedia.org/wiki/2010世界杯 "wikilink")。同年9月發行了翻唱與新曲精選專輯《Wildflower
-& Cover Songs:Complete Best 'TRACK
-3'》，再度獲得了[Oricon唱片榜冠軍](../Page/Oricon.md "wikilink")。2011年Superfly的首張作品《Beep\!\!
-/ Sunshine Sunshine》于3月發行。同年6月，Superfly發行了第三張原創專輯《[Mind
-Travel](../Page/Mind_Travel.md "wikilink")》。2015年，Superfly首度參與[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。
+2010年的首個作品《タマシイレボリューション》于6月發行，被選為[NHK的](https://zh.wikipedia.org/wiki/NHK "wikilink")[2010世界杯主題曲](https://zh.wikipedia.org/wiki/2010世界杯 "wikilink")。同年9月發行了翻唱與新曲精選專輯《Wildflower & Cover Songs:Complete Best 'TRACK 3'》，再度獲得了[Oricon](../Page/Oricon.md "wikilink")唱片榜冠軍。2011年Superfly的首張作品《Beep\!\! / Sunshine Sunshine》于3月發行。同年6月，Superfly發行了第三張原創專輯《[Mind Travel](../Page/Mind_Travel.md "wikilink")》。2015年，Superfly首度參與[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。
 
-值得一提的是，日本[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[久萬高原町](../Page/久萬高原町.md "wikilink")（越智志帆的家鄉）氣象臺把一顆小行星以越智志帆的名字命名為91907
-Shiho。
+值得一提的是，日本[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[久萬高原町](../Page/久萬高原町.md "wikilink")（越智志帆的家鄉）氣象臺把一顆小行星以越智志帆的名字命名為91907 Shiho。
 
 ## 音樂作品
 
@@ -104,8 +90,7 @@ Shiho。
 <!-- end list -->
 
   -
-    第2張專輯《[Box
-    Emotions](../Page/Box_Emotions.md "wikilink")》的宣傳單曲。收錄數位單曲《Alright》以及專輯收錄單曲的剪輯版本。租借期限至9月30日。
+    第2張專輯《[Box Emotions](../Page/Box_Emotions.md "wikilink")》的宣傳單曲。收錄數位單曲《Alright》以及專輯收錄單曲的剪輯版本。租借期限至9月30日。
 
 <!-- end list -->
 
@@ -114,64 +99,51 @@ Shiho。
 <!-- end list -->
 
   -
-    第3張專輯《[Mind
-    Travel](../Page/Mind_Travel.md "wikilink")》的宣傳單曲。收錄專輯14首歌曲的剪輯版本
+    第3張專輯《[Mind Travel](../Page/Mind_Travel.md "wikilink")》的宣傳單曲。收錄專輯14首歌曲的剪輯版本
 
 ### 數位限定單曲
 
   - [Alright\!\!](https://zh.wikipedia.org/wiki/Alright!! "wikilink")（2009年6月3日開放下載）
   - [Rollin' Days](../Page/Rollin'_Days.md "wikilink")（2011年5月18日開放下載）
-  - [White
-    Light](https://zh.wikipedia.org/wiki/White_Light_\(Superflyの曲\) "wikilink")（2015年1月21日開放下載）
+  - [White Light](https://zh.wikipedia.org/wiki/White_Light_\(Superflyの曲\) "wikilink")（2015年1月21日開放下載）
 
 ### 數位下載歌曲
 
-  - [Hello Hello (Bonus
-    Version)](https://zh.wikipedia.org/wiki/Hello_Hello "wikilink")（2007年6月6日開放下載）
-  - [Live from
-    Tokyo](https://zh.wikipedia.org/wiki/Live_from_Tokyo_\(Superfly歌曲\) "wikilink")（2007年6月27日開放下載）
-  - [Manifesto 13,000人Live @ 大阪城會館 FM802
-    REQUESTAGE](https://zh.wikipedia.org/wiki/Manifesto "wikilink")（2007年7月4日開放下載）
+  - [Hello Hello (Bonus Version)](https://zh.wikipedia.org/wiki/Hello_Hello "wikilink")（2007年6月6日開放下載）
+
+  - [Live from Tokyo](https://zh.wikipedia.org/wiki/Live_from_Tokyo_\(Superfly歌曲\) "wikilink")（2007年6月27日開放下載）
+
+  - [Manifesto 13,000人Live @ 大阪城會館 FM802 REQUESTAGE](https://zh.wikipedia.org/wiki/Manifesto "wikilink")（2007年7月4日開放下載）
+
   - [愛與感謝](https://zh.wikipedia.org/wiki/獻上愛的花束 "wikilink")（2007年10月3日開放下載）
-  - [靈魂革命](https://zh.wikipedia.org/wiki/靈魂革命 "wikilink")（2010年6月18日開放下載）
-  - [You &
-    Me](https://zh.wikipedia.org/wiki/You_&_Me_\(Superfly歌曲\) "wikilink")（2011年3月25日開放下載）
-    -
-    [RecoChoku](../Page/RecoChoku.md "wikilink")、wamo\!、[iTunes下載限定](https://zh.wikipedia.org/wiki/iTunes "wikilink")
-  - [99](https://zh.wikipedia.org/wiki/99_\(單曲\) "wikilink")（2016年10月13日開放下載）-
-    RecoChoku、iTunes下載限定
+
+  - （2010年6月18日開放下載）
+
+  - [You & Me](https://zh.wikipedia.org/wiki/You_&_Me_\(Superfly歌曲\) "wikilink")（2011年3月25日開放下載） - [RecoChoku](../Page/RecoChoku.md "wikilink")、wamo\!、[iTunes下載限定](https://zh.wikipedia.org/wiki/iTunes "wikilink")
+
+  - [99](https://zh.wikipedia.org/wiki/99_\(單曲\) "wikilink")（2016年10月13日開放下載）- RecoChoku、iTunes下載限定
 
 ### 全曲限定下載
 
   - 獻上愛的花束 (Piano Ver.)（2009年3月18日開放下載）
   - Welcome To The Rockin' Show（2009年3月18日開放下載）
   - 獻上愛的花束 (Live from DVD「Rock'N'Roll Show 2008」)（2009年3月25日開放下載）
-  - Welcome To The Rockin' Show (Live from DVD「Rock'N'Roll Show
-    2008」)（2009年3月25日開放下載）
-  - How Do I Survive? (Live from DVD「Rock'N'Roll Show
-    2008」)（2009年3月25日開放下載）
-  - Oh My Precious Time (Live from DVD「Rock'N'Roll Show
-    2008」)（2009年3月25日開放下載）
+  - Welcome To The Rockin' Show (Live from DVD「Rock'N'Roll Show 2008」)（2009年3月25日開放下載）
+  - How Do I Survive? (Live from DVD「Rock'N'Roll Show 2008」)（2009年3月25日開放下載）
+  - Oh My Precious Time (Live from DVD「Rock'N'Roll Show 2008」)（2009年3月25日開放下載）
   - Hi-Five (LIVE from DVD「Rock'N'Roll Show 2008」)（2009年3月25日開放下載）
-  - [Wildflower](https://zh.wikipedia.org/wiki/Wildflower_&_Cover_Songs:Complete_Best_'TRACK_3' "wikilink")
-    (Drama Size ver.)（2010年7月22日開放下載）
+  - [Wildflower](https://zh.wikipedia.org/wiki/Wildflower_&_Cover_Songs:Complete_Best_'TRACK_3' "wikilink") (Drama Size ver.)（2010年7月22日開放下載）
 
 ## 影像作品
 
 ### DVD / Blu-ray
 
-  - **[Rock'N'Roll Show
-    2008](https://zh.wikipedia.org/wiki/Rock'N'Roll_Show_2008 "wikilink")**（2009年4月1日發行）
-  - **[Dancing at
-    Budokan\!\!](https://zh.wikipedia.org/wiki/Dancing_at_Budokan!! "wikilink")**（2010年4月28日發行）
-  - **[Shout In The
-    Rainbow\!\!](https://zh.wikipedia.org/wiki/Shout_In_The_Rainbow!! "wikilink")**（2012年4月4日發行）
-  - **[Force 〜Document &
-    Live〜](https://zh.wikipedia.org/wiki/Force_〜Document_&_Live〜 "wikilink")**（2013年4月3日發行）
-  - **[GIVE ME
-    TEN\!\!\!\!\!](https://zh.wikipedia.org/wiki/GIVE_ME_TEN!!!!! "wikilink")**（2013年11月13日發行）
-  - **[Superfly Arena Tour 2016 “Into The
-    Circle\!”](https://zh.wikipedia.org/wiki/Superfly_Arena_Tour_2016_“Into_The_Circle!” "wikilink")**（2016年8月24日發行）
+  - **[Rock'N'Roll Show 2008](https://zh.wikipedia.org/wiki/Rock'N'Roll_Show_2008 "wikilink")**（2009年4月1日發行）
+  - **[Dancing at Budokan\!\!](https://zh.wikipedia.org/wiki/Dancing_at_Budokan!! "wikilink")**（2010年4月28日發行）
+  - **[Shout In The Rainbow\!\!](https://zh.wikipedia.org/wiki/Shout_In_The_Rainbow!! "wikilink")**（2012年4月4日發行）
+  - **[Force 〜Document & Live〜](https://zh.wikipedia.org/wiki/Force_〜Document_&_Live〜 "wikilink")**（2013年4月3日發行）
+  - **[GIVE ME TEN\!\!\!\!\!](https://zh.wikipedia.org/wiki/GIVE_ME_TEN!!!!! "wikilink")**（2013年11月13日發行）
+  - **[Superfly Arena Tour 2016 “Into The Circle\!”](https://zh.wikipedia.org/wiki/Superfly_Arena_Tour_2016_“Into_The_Circle!” "wikilink")**（2016年8月24日發行）
 
 ## 參加作品
 
@@ -192,8 +164,4 @@ Shiho。
 
   - [官方部落格](http://www.superfly-web.com/diary/)
 
-[Category:華納音樂集團旗下歌手](https://zh.wikipedia.org/wiki/Category:華納音樂集團旗下歌手 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:愛媛縣出身人物](https://zh.wikipedia.org/wiki/Category:愛媛縣出身人物 "wikilink")
-[Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
+[Category:華納音樂集團旗下歌手](https://zh.wikipedia.org/wiki/Category:華納音樂集團旗下歌手 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:愛媛縣出身人物](https://zh.wikipedia.org/wiki/Category:愛媛縣出身人物 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")

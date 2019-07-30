@@ -1,8 +1,4 @@
-**SciTE**，也即**SCIntilla based Text
-Editor**的缩写，是一个跨平台的[文本编辑器](../Page/文本编辑器.md "wikilink")。软件作者为Neil
-Hodgson。SciTE以[Scintilla为基础写成](https://zh.wikipedia.org/wiki/Scintilla_\(editing_component\) "wikilink")，其本意是作为[Scintilla的示例程序](https://zh.wikipedia.org/wiki/Scintilla_\(editing_component\) "wikilink")。该软件的许可协议为[Historical
-Permission Notice and
-Disclaimer](https://zh.wikipedia.org/wiki/Historical_Permission_Notice_and_Disclaimer "wikilink")\[1\]。
+**SciTE**，也即**SCIntilla based Text Editor**的缩写，是一个跨平台的[文本编辑器](../Page/文本编辑器.md "wikilink")。软件作者为Neil Hodgson。SciTE以[Scintilla为基础写成](https://zh.wikipedia.org/wiki/Scintilla_\(editing_component\) "wikilink")，其本意是作为[Scintilla的示例程序](https://zh.wikipedia.org/wiki/Scintilla_\(editing_component\) "wikilink")。该软件的许可协议为[Historical Permission Notice and Disclaimer](https://zh.wikipedia.org/wiki/Historical_Permission_Notice_and_Disclaimer "wikilink")\[1\]。
 
 ## 简介
 
@@ -10,9 +6,7 @@ SciTE使用文本配置文件，具有极强的可配置性。可以对各类语
 
 另外，SciTE并不支持宏语言，而支持一个更为强大的脚本语言——[Lua](https://zh.wikipedia.org/wiki/Lua_\(programming_language\) "wikilink")，通过这一语言用户可以极大的个性化设置自己的编辑器，例如可以通过Scintilla的API直接访问SciTE的缓存，定制快捷键或者响应事件。最新的版本SciTE进一步加强了对Lua的支持，用户可以使用Lua轻易的添加对其他程序和特殊需求的功能，比如对[ctags的支持](https://zh.wikipedia.org/wiki/ctags "wikilink")，或者双击自动选择所有注释等功能。网络上现在已经有很多Lua脚本的SciTE扩展实现\[3\]，用户可以参照实现自己的脚本，也可直接使用。
 
-现在比较有名的基于SciTE的程序实现，包括[Scite4AutoIt3](https://zh.wikipedia.org/wiki/Scite4AutoIt3 "wikilink")、[SciTE4AutoHotkey](https://zh.wikipedia.org/wiki/SciTE4AutoHotkey "wikilink")
-和 [SciTE LaTeX
-IDE等](https://zh.wikipedia.org/wiki/SciTE_LaTeX_IDE "wikilink")。
+现在比较有名的基于SciTE的程序实现，包括[Scite4AutoIt3](https://zh.wikipedia.org/wiki/Scite4AutoIt3 "wikilink")、[SciTE4AutoHotkey](https://zh.wikipedia.org/wiki/SciTE4AutoHotkey "wikilink") 和 [SciTE LaTeX IDE等](https://zh.wikipedia.org/wiki/SciTE_LaTeX_IDE "wikilink")。
 
 ## 特色功能
 
@@ -40,8 +34,7 @@ IDE等](https://zh.wikipedia.org/wiki/SciTE_LaTeX_IDE "wikilink")。
 
   - [官网](http://www.scintilla.org/SciTE.html)
   - [SciTE4D - 基于SciTE的D语言编辑器](http://scite4d.chinese-blog.org/)
-  - [Scite4AutoIt3
-    ,基于SciTE的AutoIt编辑器](http://www.autoitscript.com/autoit3/scite/)
+  - [Scite4AutoIt3 ,基于SciTE的AutoIt编辑器](http://www.autoitscript.com/autoit3/scite/)
   - [Scite64 ,适用于64位Windows的移植版SciTE](http://mv2.it/scite64)
 
 [Category:文本编辑器](https://zh.wikipedia.org/wiki/Category:文本编辑器 "wikilink")

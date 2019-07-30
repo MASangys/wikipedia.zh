@@ -1,20 +1,16 @@
-**ONE OK
-ROCK**（），是一個[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，成立於2005年。由[Taka](https://zh.wikipedia.org/wiki/Taka "wikilink")、[Toru](https://zh.wikipedia.org/wiki/Toru "wikilink")、Ryota、Tomoya、Alex五人組成的搖滾樂團（Alex於2009離團後為四人樂團）\[1\]。團名多以全大寫表示。
+**ONE OK ROCK**（），是一個[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，成立於2005年。由[Taka](https://zh.wikipedia.org/wiki/Taka "wikilink")、[Toru](https://zh.wikipedia.org/wiki/Toru "wikilink")、Ryota、Tomoya、Alex五人組成的搖滾樂團（Alex於2009離團後為四人樂團）\[1\]。團名多以全大寫表示。
 
 ## 來由
 
-「ONE OK ROCK」的名稱由來是「one
-o'clock」。因為剛開始他們練習時是高中生，而只有周末才可以練習，通常他們從週日的凌晨一點開始練習到早上。由於日本人的發音，「R」與「L」的發音相同，並且將「O'C」改成「OK」而成了他們的團名\[2\]。
+「ONE OK ROCK」的名稱由來是「one o'clock」。因為剛開始他們練習時是高中生，而只有周末才可以練習，通常他們從週日的凌晨一點開始練習到早上。由於日本人的發音，「R」與「L」的發音相同，並且將「O'C」改成「OK」而成了他們的團名\[2\]。
 
 ## 樂團歷史
 
 ### 成立初期（2005年\~2006年）
 
-2005年，堀越高等學校[山下亨](../Page/山下亨.md "wikilink")（Toru）、（Ryota）、[Alex](https://zh.wikipedia.org/wiki/Alex "wikilink")、[小柳友](../Page/小柳友.md "wikilink")（You）四人組成樂團。同年5月、Toru邀請[森田貴寛](https://zh.wikipedia.org/wiki/森田貴寛 "wikilink")（Taka）加入，擔任主唱。7月第一次現場表演在NEW
-POWER GENERATION Vol.3。
+2005年，堀越高等學校[山下亨](../Page/山下亨.md "wikilink")（Toru）、（Ryota）、[Alex](https://zh.wikipedia.org/wiki/Alex "wikilink")、[小柳友](../Page/小柳友.md "wikilink")（You）四人組成樂團。同年5月、Toru邀請[森田貴寛](https://zh.wikipedia.org/wiki/森田貴寛 "wikilink")（Taka）加入，擔任主唱。7月第一次現場表演在NEW POWER GENERATION Vol.3。
 
-2006年，6月鼓手[小柳友為了追求](../Page/小柳友.md "wikilink")[演員生涯而離開樂團](../Page/演員.md "wikilink")。鼓手的職位則暫由[神吉智也](https://zh.wikipedia.org/wiki/神吉智也 "wikilink")（Tomoya）擔任。7月26日，發行第一次自由迷你專輯「ONE
-OK ROCK」。8月在出演。
+2006年，6月鼓手[小柳友](../Page/小柳友.md "wikilink")為了追求[演員](../Page/演員.md "wikilink")生涯而離開樂團。鼓手的職位則暫由[神吉智也](https://zh.wikipedia.org/wiki/神吉智也 "wikilink")（Tomoya）擔任。7月26日，發行第一次自由迷你專輯「ONE OK ROCK」。8月在出演。
 
 ### 五人樂團時期（2007年\~2009年）
 
@@ -24,68 +20,27 @@ OK ROCK」。8月在出演。
 
 ### 四人樂團時期（2010年\~2015年）
 
-2009年，4月5日吉他手Alex因為在電車上非禮女學生遭到拘捕\[6\]，此舉使原本樂團預定為連續劇「天生妙手」演唱主題曲遭到更換，並且取消了單曲《aroundザworld少年》的發行以及當時的巡迴「ONE
-OK ROCK 2009 “Emotion Effect” TOUR」\[7\]。其他團員在見過被拘捕的Alex之後，5月中旬**ONE OK
-ROCK**宣佈Alex退出樂團的消息，從此成為四人樂團，並由Toru擔任第一吉他手，將已有的歌曲重新編曲為單吉他的形式\[8\]。6月，**ONE
-OK ROCK**宣佈將在同年9月重新展開新的巡迴「ONE OK ROCK 2009 "Overcome Emotion"
-TOUR」\[9\]，以四人姿態重新登場。
+2009年，4月5日吉他手Alex因為在電車上非禮女學生遭到拘捕\[6\]，此舉使原本樂團預定為連續劇「天生妙手」演唱主題曲遭到更換，並且取消了單曲《aroundザworld少年》的發行以及當時的巡迴「ONE OK ROCK 2009 “Emotion Effect” TOUR」\[7\]。其他團員在見過被拘捕的Alex之後，5月中旬**ONE OK ROCK**宣佈Alex退出樂團的消息，從此成為四人樂團，並由Toru擔任第一吉他手，將已有的歌曲重新編曲為單吉他的形式\[8\]。6月，**ONE OK ROCK**宣佈將在同年9月重新展開新的巡迴「ONE OK ROCK 2009 "Overcome Emotion" TOUR」\[9\]，以四人姿態重新登場。
 
-2010年，2月3日發表四人樂團時期的第一張單曲「[完全感覺Dreamer](../Page/完全感覺Dreamer.md "wikilink")」，銷量大量成長，並於6月9日發行了收錄此張單曲的專輯「[Niche
-Syndrome](../Page/Niche_Syndrome.md "wikilink")」，為四人樂團時期首張專輯，雖已是單吉他手的樂團，但許多曲目仍為雙吉他編曲，收錄。8月參加[ROCK
-IN JAPAN
-FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")、[SUMMER
-SONIC](../Page/SUMMER_SONIC.md "wikilink")、。11月28日首次在[日本武道館表演](../Page/日本武道館.md "wikilink")。
+2010年，2月3日發表四人樂團時期的第一張單曲「[完全感覺Dreamer](../Page/完全感覺Dreamer.md "wikilink")」，銷量大量成長，並於6月9日發行了收錄此張單曲的專輯「[Niche Syndrome](../Page/Niche_Syndrome.md "wikilink")」，為四人樂團時期首張專輯，雖已是單吉他手的樂團，但許多曲目仍為雙吉他編曲，收錄。8月參加[ROCK IN JAPAN FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")、[SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink")、。11月28日首次在[日本武道館](../Page/日本武道館.md "wikilink")表演。
 
-2011年，發行「[殘響Reference](../Page/殘響Reference.md "wikilink")」，11月起在日本展開「殘響
-Reference
-Tour」，並於2012年首次登上[橫濱體育館演唱](../Page/橫濱體育館.md "wikilink")，該場次被記錄下來並於5月30日發行DVD/藍光紀錄片。
+2011年，發行「[殘響Reference](../Page/殘響Reference.md "wikilink")」，11月起在日本展開「殘響 Reference Tour」，並於2012年首次登上[橫濱體育館](../Page/橫濱體育館.md "wikilink")演唱，該場次被記錄下來並於5月30日發行DVD/藍光紀錄片。
 
-2012年，6月9日展開「Start Walking the World
-Tour」巡迴演唱，為首次海外個唱演唱會，並首次至台灣演唱。8月22日發行單曲「[The
-Beginning](../Page/The_Beginning_\(ONE_OK_ROCK單曲\).md "wikilink")」，作為電影版「[神劍闖江湖](https://zh.wikipedia.org/wiki/神劍闖江湖 "wikilink")」的主題曲，至今仍為該樂團[youtube上點閱率最高的歌曲](https://zh.wikipedia.org/wiki/youtube "wikilink")，點閱率突破1億，之後兩部續集「[神劍闖江湖
-京都大火篇](../Page/神劍闖江湖_京都大火篇.md "wikilink")」和「[神劍闖江湖：傳說的最終篇](https://zh.wikipedia.org/wiki/神劍闖江湖：傳說的最終篇 "wikilink")」的主題曲也分別為該樂團的「[Mighty
-Long
-Fall](https://zh.wikipedia.org/wiki/Mighty_Long_Fall "wikilink")」和「[Heartache](../Page/35xxxv.md "wikilink")」。年底11月15、16日於台灣二度展開海外演唱會。
+2012年，6月9日展開「Start Walking the World Tour」巡迴演唱，為首次海外個唱演唱會，並首次至台灣演唱。8月22日發行單曲「[The Beginning](../Page/The_Beginning_\(ONE_OK_ROCK單曲\).md "wikilink")」，作為電影版「[神劍闖江湖](https://zh.wikipedia.org/wiki/神劍闖江湖 "wikilink")」的主題曲，至今仍為該樂團[youtube上點閱率最高的歌曲](https://zh.wikipedia.org/wiki/youtube "wikilink")，點閱率突破1億，之後兩部續集「[神劍闖江湖 京都大火篇](../Page/神劍闖江湖_京都大火篇.md "wikilink")」和「[神劍闖江湖：傳說的最終篇](https://zh.wikipedia.org/wiki/神劍闖江湖：傳說的最終篇 "wikilink")」的主題曲也分別為該樂團的「[Mighty Long Fall](https://zh.wikipedia.org/wiki/Mighty_Long_Fall "wikilink")」和「[Heartache](../Page/35xxxv.md "wikilink")」。年底11月15、16日於台灣二度展開海外演唱會。
 
-2013年，10月23日「Who are you??Who are we??
-Tour」首次跨足世界各地的世界巡迴演唱，首度到港展開演唱，同年12月7日第三次來台展開演唱。台灣場發生了小插曲，在曲目「Let's
-take it someday」時觀眾情緒過於亢奮而將前方欄杆推倒，表演中斷了一陣子，於中斷期間**ONE OK
-ROCK**演奏了不在演出節目中、較為抒情的「[Notes'n'Words](../Page/The_Beginning_\(ONE_OK_ROCK單曲\).md "wikilink")」舒緩觀眾情緒\[10\]。
+2013年，10月23日「Who are you??Who are we?? Tour」首次跨足世界各地的世界巡迴演唱，首度到港展開演唱，同年12月7日第三次來台展開演唱。台灣場發生了小插曲，在曲目「Let's take it someday」時觀眾情緒過於亢奮而將前方欄杆推倒，表演中斷了一陣子，於中斷期間**ONE OK ROCK**演奏了不在演出節目中、較為抒情的「[Notes'n'Words](../Page/The_Beginning_\(ONE_OK_ROCK單曲\).md "wikilink")」舒緩觀眾情緒\[10\]。
 
-2014年，1月美籍製作人宣佈**ONE OK
-ROCK**已經開始製作新的專輯\[11\]，這張專輯就是隔年2月發行的「[35xxxv](../Page/35xxxv.md "wikilink")」。於5月16日上映由海外巡迴「Who
-are you??Who are we??
-Tour」製作成的紀錄片「」，並於11月12日發行DVD/藍光版本\[12\]，紀錄片主題曲為「Decision」\[13\]。
+2014年，1月美籍製作人宣佈**ONE OK ROCK**已經開始製作新的專輯\[11\]，這張專輯就是隔年2月發行的「[35xxxv](../Page/35xxxv.md "wikilink")」。於5月16日上映由海外巡迴「Who are you??Who are we?? Tour」製作成的紀錄片「」，並於11月12日發行DVD/藍光版本\[12\]，紀錄片主題曲為「Decision」\[13\]。
 
 ### 加盟華納兄弟後（2015年\~）
 
-2015年，7月7日加盟華納兄弟音樂，並將於9月於全球發行「[35xxxv Deluxe
-Edition](https://zh.wikipedia.org/wiki/35xxxv_Deluxe_Edition "wikilink")」第一張全英文專輯\[14\]，這張專輯也有發行台灣版本\[15\]。同年9月18日於[Youtube釋出美式POP風的](https://zh.wikipedia.org/wiki/Youtube "wikilink")「Last
-Dance」MV作為Deluxe Edition的宣傳\[16\]。8月30日宣布隔年2016年的「[35xxxv Asia
-Tour](https://zh.wikipedia.org/wiki/35xxxv_Asia_Tour "wikilink")」，將於2016年1月16日再次造訪台灣\[17\]，舉行[「ONE
-OK ROCK 2016 “35xxxv” ASIA
-TOUR」台北場公演](http://memeon-music.com/2016/01/20/one-ok-rock-report-2/)，並成為首位登上[台北小巨蛋的日本樂團](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")\[18\]。10月5日於[Youtube上公開收錄於全英文專輯](https://zh.wikipedia.org/wiki/Youtube "wikilink")「[35xxxv
-Deluxe
-Edition](https://zh.wikipedia.org/wiki/35xxxv_Deluxe_Edition "wikilink")」中的新歌「The
-Way
-Back」的日文版，並同時於日本地區[iTunes上架](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[19\]。值得注意的是，[Taka一直以來的招牌紅色麥克風於此MV中變為白色](https://zh.wikipedia.org/wiki/Taka "wikilink")，意外和在樂團[MY
-FIRST
-STORY同樣身為主唱的弟弟撞色了](https://zh.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")。
+2015年，7月7日加盟華納兄弟音樂，並將於9月於全球發行「[35xxxv Deluxe Edition](https://zh.wikipedia.org/wiki/35xxxv_Deluxe_Edition "wikilink")」第一張全英文專輯\[14\]，這張專輯也有發行台灣版本\[15\]。同年9月18日於[Youtube釋出美式POP風的](https://zh.wikipedia.org/wiki/Youtube "wikilink")「Last Dance」MV作為Deluxe Edition的宣傳\[16\]。8月30日宣布隔年2016年的「[35xxxv Asia Tour](https://zh.wikipedia.org/wiki/35xxxv_Asia_Tour "wikilink")」，將於2016年1月16日再次造訪台灣\[17\]，舉行[「ONE OK ROCK 2016 “35xxxv” ASIA TOUR」台北場公演](http://memeon-music.com/2016/01/20/one-ok-rock-report-2/)，並成為首位登上[台北小巨蛋的日本樂團](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")\[18\]。10月5日於[Youtube上公開收錄於全英文專輯](https://zh.wikipedia.org/wiki/Youtube "wikilink")「[35xxxv Deluxe Edition](https://zh.wikipedia.org/wiki/35xxxv_Deluxe_Edition "wikilink")」中的新歌「The Way Back」的日文版，並同時於日本地區[iTunes上架](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[19\]。值得注意的是，[Taka一直以來的招牌紅色麥克風於此MV中變為白色](https://zh.wikipedia.org/wiki/Taka "wikilink")，意外和在樂團[MY FIRST STORY同樣身為主唱的弟弟撞色了](https://zh.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")。
 
-2015年，10月9日「35xxxv Asia
-Tour」開賣當日，售票系統[KKTIX號稱可](../Page/KKTIX.md "wikilink")「同時開賣
-10 場[台北小巨蛋](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink") 120,000
-張票」。當 10 場同時開賣搶票的狀況下，系統每秒可以處理 400 筆劃位訂單\[20\]。假設每張訂單有 4
-張票，每分鐘約可以處理 10
-萬張劃位票券，但伺服器在開賣後1秒馬上被灌爆這個問題持續了幾個小時，讓許多歌迷都沒有購買到**ONE
-OK ROCK**「35xxxv Asia
-Tour」的演唱會門票\[21\]。所以在主辦單位和美國的經紀人聯絡後，決定加場，成為第一組連續2晚在[台北小巨蛋開唱的日本樂團](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")\[22\]\[23\]
-\[24\]。
+2015年，10月9日「35xxxv Asia Tour」開賣當日，售票系統[KKTIX](../Page/KKTIX.md "wikilink")號稱可「同時開賣 10 場[台北小巨蛋](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink") 120,000 張票」。當 10 場同時開賣搶票的狀況下，系統每秒可以處理 400 筆劃位訂單\[20\]。假設每張訂單有 4 張票，每分鐘約可以處理 10 萬張劃位票券，但伺服器在開賣後1秒馬上被灌爆這個問題持續了幾個小時，讓許多歌迷都沒有購買到**ONE OK ROCK**「35xxxv Asia Tour」的演唱會門票\[21\]。所以在主辦單位和美國的經紀人聯絡後，決定加場，成為第一組連續2晚在[台北小巨蛋開唱的日本樂團](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")\[22\]\[23\] \[24\]。
 
-2018年1月27日，樂團移至南港C3停車場舉辦樂團史上海外最大場首次台灣戶外演唱會「AMBITIONS ASIA TOUR 2018 in
-TAIWAN」，吸引兩萬人到場\[25\]。
+2018年1月27日，樂團移至南港C3停車場舉辦樂團史上海外最大場首次台灣戶外演唱會「AMBITIONS ASIA TOUR 2018 in TAIWAN」，吸引兩萬人到場\[25\]。
 
-2019年發行專輯《Eye of the stome》 並在2019紅髮艾德演唱會擔任開場嘉賓。
+2019年發行專輯《Eye of the storm》 並在2019紅髮艾德演唱會擔任開場嘉賓。
 
 ## 成員
 
@@ -146,7 +101,7 @@ TAIWAN」，吸引兩萬人到場\[25\]。
 
 ### 自主制作盤
 
-| 發行日             | 名稱                           | [Oricon最高排名](../Page/Oricon.md "wikilink") |
+| 發行日             | 名稱                           | [Oricon](../Page/Oricon.md "wikilink")最高排名 |
 | --------------- | ---------------------------- | ------------------------------------------ |
 | **2005年12月21日** | **Do you know a Christmas？** |                                            |
 | **2006年7月26日**  | **ONE OK ROCK**              |                                            |
@@ -155,7 +110,7 @@ TAIWAN」，吸引兩萬人到場\[25\]。
 
 ### 單曲
 
-| \# | 發行日         | 名稱                                                                                                  | 收錄專輯                                                   | [Oricon最高排名](../Page/Oricon.md "wikilink") |
+| \# | 發行日         | 名稱                                                                                                  | 收錄專輯                                                   | [Oricon](../Page/Oricon.md "wikilink")最高排名 |
 | -- | ----------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------ |
 | 1  | 2007年4月25日  | [内秘心書](https://zh.wikipedia.org/wiki/内秘心書 "wikilink")                                               | [奢侈病](https://zh.wikipedia.org/wiki/奢侈病 "wikilink")    | 48                                         |
 | 2  | 2007年7月25日  | [努努-夢夢-](https://zh.wikipedia.org/wiki/努努-夢夢- "wikilink")                                           | [奢侈病](https://zh.wikipedia.org/wiki/奢侈病 "wikilink")    | 43                                         |
@@ -170,7 +125,7 @@ TAIWAN」，吸引兩萬人到場\[25\]。
 
 ### 專輯
 
-| \# | 發行日         | 名稱                                                                            | [Oricon最高排名](../Page/Oricon.md "wikilink") |
+| \# | 發行日         | 名稱                                                                            | [Oricon](../Page/Oricon.md "wikilink")最高排名 |
 | -- | ----------- | ----------------------------------------------------------------------------- | ------------------------------------------ |
 | 1  | 2007年11月21日 | [奢侈病](https://zh.wikipedia.org/wiki/奢侈病 "wikilink")                           | 15                                         |
 | 2  | 2008年5月28日  | [BEAM OF LIGHT](https://zh.wikipedia.org/wiki/BEAM_OF_LIGHT "wikilink")       | 17                                         |
@@ -185,7 +140,7 @@ TAIWAN」，吸引兩萬人到場\[25\]。
 
 ### 全球發行專輯
 
-| \# | 發行日        | 名稱                                                                                      | [Oricon最高排名](../Page/Oricon.md "wikilink") |
+| \# | 發行日        | 名稱                                                                                      | [Oricon](../Page/Oricon.md "wikilink")最高排名 |
 | -- | ---------- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
 | 1  | 2015年9月25日 | [35xxxv Deluxe Edition](https://zh.wikipedia.org/wiki/35xxxv_Deluxe_Edition "wikilink") | 3                                          |
 | 2  | 2017年1月13日 | [Ambitions (International Ver.)](../Page/Ambitions.md "wikilink")                       | 4                                          |
@@ -277,13 +232,13 @@ TAIWAN」，吸引兩萬人到場\[25\]。
 <td><p><strong>Listen</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/艾薇兒" title="wikilink">艾薇兒</a></p></td>
 <td><p>2017</p></td>
-<td><p><a href="../Page/Ambitions.md" title="wikilink">Ambitions日本版</a></p></td>
+<td><p><a href="../Page/Ambitions.md" title="wikilink">Ambitions</a>日本版</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Take What You Want</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/5_Seconds_Of_Summer" title="wikilink">5 Seconds Of Summer</a></p></td>
 <td><p>2017</p></td>
-<td><p><a href="../Page/Ambitions.md" title="wikilink">Ambitions日本版</a></p></td>
+<td><p><a href="../Page/Ambitions.md" title="wikilink">Ambitions</a>日本版</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Don't Let Me Go</strong></p></td>
@@ -302,8 +257,7 @@ TAIWAN」，吸引兩萬人到場\[25\]。
 
 ## 演唱會
 
-以錄音室專輯名稱或相似名稱命名之巡迴，均為專輯相關巡迴，會將該專輯的第一首Intro做為演唱會的開端，並緊接專題第二首曲目作為開場曲，並且大量演唱該專輯中曲目，但在2015年的「35xxxv
-JAPAN TOUR」時卻將Intro「3xxxv5」與次首曲目「Take me to the top」置於演唱會中段而非開頭。
+以錄音室專輯名稱或相似名稱命名之巡迴，均為專輯相關巡迴，會將該專輯的第一首Intro做為演唱會的開端，並緊接專題第二首曲目作為開場曲，並且大量演唱該專輯中曲目，但在2015年的「35xxxv JAPAN TOUR」時卻將Intro「3xxxv5」與次首曲目「Take me to the top」置於演唱會中段而非開頭。
 
 ### 日本國內巡演
 
@@ -316,8 +270,7 @@ JAPAN TOUR」時卻將Intro「3xxxv5」與次首曲目「Take me to the top」�
   - “The Beginning”TOUR (2012)
   - ONE OK ROCK 2013 “人生×君=”TOUR (2013)
   - ONE OK ROCK 2014 "Mighty Long Fall at Yokohama Stadium" (2014)
-  - [ONE OK ROCK 2015 "35xxxv" JAPAN TOUR](../Page/35xxxv.md "wikilink")
-    (2015)
+  - [ONE OK ROCK 2015 "35xxxv" JAPAN TOUR](../Page/35xxxv.md "wikilink") (2015)
   - ONE OK ROCK 2016 "Special live in Nagisaen"
   - ONE OK ROCK 2017 “Ambitions” JAPAN TOUR
   - ONE OK ROCK 2018 “Ambitions” JAPAN DOME TOUR
@@ -330,11 +283,9 @@ JAPAN TOUR」時卻將Intro「3xxxv5」與次首曲目「Take me to the top」�
   - ONE OK ROCK 2014 South America & Europe Tour (2014)
   - YELLOWCARD Tour (2015) 非個唱
   - Back to the Future Hearts Tour (2015) 非個唱
-  - [ONE OK ROCK "35xxxv" North America, Europe, Asia
-    Tour](../Page/35xxxv.md "wikilink") (2015-2016)
+  - [ONE OK ROCK "35xxxv" North America, Europe, Asia Tour](../Page/35xxxv.md "wikilink") (2015-2016)
   - ONE OK ROCK 2017 NORTH AMERICAN TOUR (2017)
-  - [ONE OK ROCK "Ambitions" North America, Europe, Asia
-    Tour](../Page/Ambitions.md "wikilink") (2017-2018)
+  - [ONE OK ROCK "Ambitions" North America, Europe, Asia Tour](../Page/Ambitions.md "wikilink") (2017-2018)
 
 ### 台灣演唱會
 
@@ -360,15 +311,11 @@ JAPAN TOUR」時卻將Intro「3xxxv5」與次首曲目「Take me to the top」�
 
 ## 外部連結
 
-  - [ONE OK ROCK Official
-    site](https://web.archive.org/web/20110202181108/http://www.oneokrock.com/index.html)
+  - [ONE OK ROCK Official site](https://web.archive.org/web/20110202181108/http://www.oneokrock.com/index.html)
 
-  - [ONE OK ROCK Amuse Official
-    site](http://www.amuse.co.jp/artist/one_ok_rock/profile.html)
+  - [ONE OK ROCK Amuse Official site](http://www.amuse.co.jp/artist/one_ok_rock/profile.html)
 
-  - [ONE OK ROCK Warner Bros.
-    site](https://web.archive.org/web/20150930181044/http://www.warnerbrosrecords.com/artist/one-ok-rock)
-
+  - [ONE OK ROCK Warner Bros. site](https://web.archive.org/web/20150930181044/http://www.warnerbrosrecords.com/artist/one-ok-rock)
 
   -
   -
@@ -380,18 +327,10 @@ JAPAN TOUR」時卻將Intro「3xxxv5」與次首曲目「Take me to the top」�
   -
   -
   -
-[Category:2005年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年成立的音樂團體 "wikilink")
-[Category:Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:Amuse所屬藝人 "wikilink")
-[Category:另類搖滾](https://zh.wikipedia.org/wiki/Category:另類搖滾 "wikilink")
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本另類搖滾樂團 "wikilink")
+[Category:2005年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年成立的音樂團體 "wikilink") [Category:Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:Amuse所屬藝人 "wikilink") [Category:另類搖滾](https://zh.wikipedia.org/wiki/Category:另類搖滾 "wikilink") [Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本另類搖滾樂團 "wikilink")
 
 1.  <http://www.tokyograph.com/news/one-ok-rock-member-arrested-for-groping/>
-
 2.  <http://www.jame-world.com/uk/articles-4982-interview-with-one-ok-rock-in-tokyo.html>
-
 3.
 4.
 5.
@@ -402,7 +341,6 @@ JAPAN TOUR」時卻將Intro「3xxxv5」與次首曲目「Take me to the top」�
 10.
 11.
 12. <http://aramajapan.com/news/music/concert/one-ok-rocks-documentary-to-be-released-on-dvdblu-ray-disc/9115/>
-
 13.
 14.
 15. <http://光南大批發.tw/光南商品/35xxxv%20豪華盤%20(Deluxe%20Edition)台壓版>
@@ -413,12 +351,9 @@ JAPAN TOUR」時卻將Intro「3xxxv5」與次首曲目「Take me to the top」�
 20.
 21.
 22.
-23. [「愛你們台灣！」ーONE OK ROCK
-    台北場首日報導](https://memeon-music.com/2016/01/17/one-ok-rock-report-1/)
-24. [「因為有大家一直在啊！」ONE OK
-    ROCK台北小巨蛋第二夜感動大告白](https://memeon-music.com/2016/01/20/one-ok-rock-report-2/)
-25. [【迷迷現場】ONE OK ROCK 征服兩萬人大場 創日團在台演出紀錄
-    承諾「我們一定會回來！」](https://memeon-music.com/2018/01/28/one-ok-rock-livereport/)
+23. [「愛你們台灣！」ーONE OK ROCK 台北場首日報導](https://memeon-music.com/2016/01/17/one-ok-rock-report-1/)
+24. [「因為有大家一直在啊！」ONE OK ROCK台北小巨蛋第二夜感動大告白](https://memeon-music.com/2016/01/20/one-ok-rock-report-2/)
+25. [【迷迷現場】ONE OK ROCK 征服兩萬人大場 創日團在台演出紀錄 承諾「我們一定會回來！」](https://memeon-music.com/2018/01/28/one-ok-rock-livereport/)
 26. <http://www.amazon.co.jp/「gene」-Pay-money-To-Pain/dp/B00FB0FVEO>
 27.
 28.

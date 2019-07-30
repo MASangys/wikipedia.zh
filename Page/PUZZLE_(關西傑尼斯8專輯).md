@@ -1,4 +1,4 @@
-《**PUZZLE**》為[日本男偶像團體](../Page/日本.md "wikilink")[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")3張專輯。
+《**PUZZLE**》為[日本](../Page/日本.md "wikilink")男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第3張專輯。
 
 ## 概要
 
@@ -56,8 +56,7 @@
       - 作詞:Samuel Waermo/作曲・編曲:Samuel Waermo,TJ Mixx
 2.  Kicyu（[横山裕](https://zh.wikipedia.org/wiki/横山裕 "wikilink"),[安田章大](../Page/安田章大.md "wikilink")）
       - 作詞:横山裕/作曲:安田章大/編曲:高橋浩一郎
-3.  YOU CAN
-    SEE（[村上信五](../Page/村上信五.md "wikilink"),[丸山隆平](../Page/丸山隆平.md "wikilink")）
+3.  YOU CAN SEE（[村上信五](../Page/村上信五.md "wikilink"),[丸山隆平](../Page/丸山隆平.md "wikilink")）
       - 作詞:佐伯youthK&村上信五,丸山隆平/作曲・編曲:佐伯youthK
 4.  Making of PV
 5.  Making of PUZZLE
@@ -79,6 +78,4 @@
 7.  Half Down/錦戶亮
       - 作詞:錦戶亮\&HIKARI/作曲:錦戶亮/編曲:HIKARI
 
-[Category:關西傑尼斯8音樂專輯](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:關西傑尼斯8音樂專輯](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink")

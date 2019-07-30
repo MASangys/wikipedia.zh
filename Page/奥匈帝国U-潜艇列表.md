@@ -1,4 +1,4 @@
-[第一次世界大战期间的](../Page/第一次世界大战.md "wikilink")**[奥匈帝国](../Page/奥匈帝国.md "wikilink")[U-潜艇](https://zh.wikipedia.org/wiki/U-潜艇 "wikilink")**舰队主要由[德意志帝国建造舰只组成](https://zh.wikipedia.org/wiki/德意志帝国 "wikilink")，从德国北部的船厂通过铁路运输至[亚得里亚海的奥地利港口](../Page/亚得里亚海.md "wikilink")。
+[第一次世界大战](../Page/第一次世界大战.md "wikilink")期间的**[奥匈帝国](../Page/奥匈帝国.md "wikilink")[U-潜艇](https://zh.wikipedia.org/wiki/U-潜艇 "wikilink")**舰队主要由[德意志帝国建造舰只组成](https://zh.wikipedia.org/wiki/德意志帝国 "wikilink")，从德国北部的船厂通过铁路运输至[亚得里亚海](../Page/亚得里亚海.md "wikilink")的奥地利港口。
 
 ## 奥匈帝国U-潜艇一览
 
@@ -69,7 +69,7 @@
 <td><p><span style="display:none">10</span><a href="https://zh.wikipedia.org/wiki/U-10_class_submarine" title="wikilink"><em>U-10</em></a></p></td>
 <td></td>
 <td></td>
-<td><p>于1918年7月9日击中<a href="../Page/水雷.md" title="wikilink">水雷并于</a>1918年废弃</p></td>
+<td><p>于1918年7月9日击中<a href="../Page/水雷.md" title="wikilink">水雷</a>并于1918年废弃</p></td>
 <td><p><span>曾经是德意志帝国的</span><a href="https://zh.wikipedia.org/wiki/SM_UB-1" title="wikilink">SM <em>UB-1</em></a></p></td>
 </tr>
 <tr class="even">

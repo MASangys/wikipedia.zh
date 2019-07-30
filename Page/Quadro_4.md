@@ -1,17 +1,6 @@
-**Quadro4**是[NVIDIA的於](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")2002年2月19日推出的專業顯示晶片，定位於[工作站領域](../Page/工作站.md "wikilink")。\[1\]。該系列晶片的顯示卡NVIDIA授權由三家公司共同推出，分別是銷售於歐美市場的[必恩威（PNY）](../Page/必恩威科技.md "wikilink")、銷售於亞太市場的[麗臺（Leadtek）以及銷售於日本市場的](https://zh.wikipedia.org/wiki/麗台科技 "wikilink")[艾爾莎日本（Elsa
-Japan）](https://zh.wikipedia.org/wiki/艾爾莎 "wikilink")。2002年4月23日，NVIDIA推出了行動工作站的顯示晶片Quadro4
-Go\[2\]。2002年2月19日NVIDIA同時還首次推出了Quadro4
-NVS系列，該系列定位於商業多屏顯示領域。在2003年Quadro4
-NVS系列更名為[Quadro NVS系列](../Page/Quadro_NVS.md "wikilink")，即單獨劃分為一個產品線。
+**Quadro4**是[NVIDIA的於](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")2002年2月19日推出的專業顯示晶片，定位於[工作站](../Page/工作站.md "wikilink")領域。\[1\]。該系列晶片的顯示卡NVIDIA授權由三家公司共同推出，分別是銷售於歐美市場的[必恩威（PNY）](../Page/必恩威科技.md "wikilink")、銷售於亞太市場的[麗臺（Leadtek）以及銷售於日本市場的](https://zh.wikipedia.org/wiki/麗台科技 "wikilink")[艾爾莎日本（Elsa Japan）](https://zh.wikipedia.org/wiki/艾爾莎 "wikilink")。2002年4月23日，NVIDIA推出了行動工作站的顯示晶片Quadro4 Go\[2\]。2002年2月19日NVIDIA同時還首次推出了Quadro4 NVS系列，該系列定位於商業多屏顯示領域。在2003年Quadro4 NVS系列更名為[Quadro NVS系列](../Page/Quadro_NVS.md "wikilink")，即單獨劃分為一個產品線。
 
-Quadro4系列共有十五款產品，其中Quadro4 NVS全系列、Quadro4 380 XGL、Quadro4 500
-XGL、Quadro4 550 XGL、Quadro4 580 XGL和行動版的Quadro4 500 Go
-GL是基於NV1x核心[Quadro
-2系列的改進型](../Page/Quadro_2.md "wikilink")，只支援[Direct3D](../Page/Direct3D.md "wikilink")
-7。而Quadro4 700 XGL、Quadro4 750 XGL、Quadro4 900 XGL、Quadro4 980
-XGL和行動版的Quadro4 700 Go GL是基於NV2x核心[Quadro
-DCC的改進型](../Page/Quadro_DCC.md "wikilink")，支援[Direct3D](../Page/Direct3D.md "wikilink")
-8。
+Quadro4系列共有十五款產品，其中Quadro4 NVS全系列、Quadro4 380 XGL、Quadro4 500 XGL、Quadro4 550 XGL、Quadro4 580 XGL和行動版的Quadro4 500 Go GL是基於NV1x核心[Quadro 2系列的改進型](../Page/Quadro_2.md "wikilink")，只支援[Direct3D](../Page/Direct3D.md "wikilink") 7。而Quadro4 700 XGL、Quadro4 750 XGL、Quadro4 900 XGL、Quadro4 980 XGL和行動版的Quadro4 700 Go GL是基於NV2x核心[Quadro DCC的改進型](../Page/Quadro_DCC.md "wikilink")，支援[Direct3D](../Page/Direct3D.md "wikilink") 8。
 
 ## 規格列表
 
@@ -69,10 +58,7 @@ DCC的改進型](../Page/Quadro_DCC.md "wikilink")，支援[Direct3D](../Page/Di
 
   - [NVIDIA Quadro4系列主頁](http://www.nvidia.com/page/quadro4.html)
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
 
-1.  [NVIDIA Quadro4 Solutions Selected by Top Workstation
-    Manufacturers](http://www.nvidia.com/object/IO_20020218_9652.html)
-2.  [NVIDIA Introduces Groundbreaking New Mobile Workstation
-    Solution](http://www.nvidia.com/object/IO_20020422_5502.html)
+1.  [NVIDIA Quadro4 Solutions Selected by Top Workstation Manufacturers](http://www.nvidia.com/object/IO_20020218_9652.html)
+2.  [NVIDIA Introduces Groundbreaking New Mobile Workstation Solution](http://www.nvidia.com/object/IO_20020422_5502.html)

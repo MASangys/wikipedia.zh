@@ -1,4 +1,4 @@
-本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台的播放日期](../Page/Astro華麗台.md "wikilink")。
+本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台](../Page/Astro華麗台.md "wikilink")的播放日期。
 
 ## 8.00港劇時段
 
@@ -186,7 +186,7 @@ Gun Metal Grey</p></td>
 <td style="text-align: center;"><p><a href="http://programme.tvb.com/drama/gunmetalgrey">網頁</a></p></td>
 <td style="text-align: center;"><p>主：灰色控訴（<a href="../Page/劉威煌.md" title="wikilink">劉威煌</a>、<a href="https://zh.wikipedia.org/wiki/許廷鏗" title="wikilink">許廷鏗</a>、<a href="https://zh.wikipedia.org/wiki/林師傑" title="wikilink">林師傑</a>、<a href="../Page/陳鴻碩.md" title="wikilink">陳鴻碩</a>）<br />
 插：我的離開也是愛（<a href="https://zh.wikipedia.org/wiki/許廷鏗" title="wikilink">許廷鏗</a>）</p></td>
-<td style="text-align: center;"><p>由于直播<a href="../Page/萬千星輝頒獎典禮2011.md" title="wikilink">萬千星輝頒獎典禮2011第</a>30集提前至7点30分播映</p></td>
+<td style="text-align: center;"><p>由于直播<a href="../Page/萬千星輝頒獎典禮2011.md" title="wikilink">萬千星輝頒獎典禮2011</a>第30集提前至7点30分播映</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2011年<br />

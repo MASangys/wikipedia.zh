@@ -1,5 +1,4 @@
-《**Love Me
-Back**》為[日本歌手](../Page/日本.md "wikilink")[倖田來未的第](../Page/倖田來未.md "wikilink")52張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年11月30日發行，為其2011年第4張單曲。
+《**Love Me Back**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")的第52張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年11月30日發行，為其2011年第4張單曲。
 
 ## 解說
 
@@ -26,7 +25,7 @@ Back**》為[日本歌手](../Page/日本.md "wikilink")[倖田來未的第](../
       -
         作曲：Matthew Tishler、Liz Rodrigues
     <!-- end list -->
-      - [富士電視台火九劇](../Page/富士電視台.md "wikilink")《推理要在晚餐後》片頭曲
+      - [富士電視台](../Page/富士電視台.md "wikilink")火九劇《推理要在晚餐後》片頭曲
 2.  **Say Her Name**
       -
         作曲：Ina Wroldsen、Andre Lindal、Geir Hvidsten
@@ -54,7 +53,4 @@ Back**》為[日本歌手](../Page/日本.md "wikilink")[倖田來未的第](../
 
   -
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")
-[Category:富士火九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火九劇主題曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink") [Category:富士火九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火九劇主題曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")

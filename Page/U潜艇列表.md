@@ -1,8 +1,8 @@
-自1906年以来，[德国制造了超过](../Page/德国.md "wikilink")1500艘[U-潜艇](https://zh.wikipedia.org/wiki/U-潜艇 "wikilink")（）由[海军委托承建](../Page/海军.md "wikilink")，从1906年到目前为止，这些潜艇通常被标记为**U**后面跟一个数字，[第一次世界大战时的沿海潜艇和沿海](../Page/第一次世界大战.md "wikilink")[布雷潜艇分别使用UB和UC作为前缀](https://zh.wikipedia.org/wiki/布雷 "wikilink")。当德国在20世纪30年代重新恢复潜艇建造时，潜艇的编号是重新从1开始排序的。当德国潜艇于20世纪60年代恢复建设开始，又第三次重新编号。
+自1906年以来，[德国](../Page/德国.md "wikilink")制造了超过1500艘[U-潜艇](https://zh.wikipedia.org/wiki/U-潜艇 "wikilink")（）由[海军](../Page/海军.md "wikilink")委托承建，从1906年到目前为止，这些潜艇通常被标记为**U**后面跟一个数字，[第一次世界大战](../Page/第一次世界大战.md "wikilink")时的沿海潜艇和沿海[布雷潜艇分别使用UB和UC作为前缀](https://zh.wikipedia.org/wiki/布雷 "wikilink")。当德国在20世纪30年代重新恢复潜艇建造时，潜艇的编号是重新从1开始排序的。当德国潜艇于20世纪60年代恢复建设开始，又第三次重新编号。
 
 ## 第一次世界大战时期的U-潜艇
 
-[第一次世界大战前后共建约](../Page/第一次世界大战.md "wikilink")380艘U-潜艇，这些潜艇均于战争期间接受培训。由三种类型组成：[第二次世界大战时期德国U](../Page/第二次世界大战.md "wikilink")-潜艇，指定保留的U-潜艇和远洋鱼雷攻击U-潜艇。[美国](../Page/美国.md "wikilink")[布法罗大学又将其分为沿海U](https://zh.wikipedia.org/wiki/布法罗大学 "wikilink")-潜艇，指定保留的沿海布雷U-潜艇。
+[第一次世界大战](../Page/第一次世界大战.md "wikilink")前后共建约380艘U-潜艇，这些潜艇均于战争期间接受培训。由三种类型组成：[第二次世界大战](../Page/第二次世界大战.md "wikilink")时期德国U-潜艇，指定保留的U-潜艇和远洋鱼雷攻击U-潜艇。[美国](../Page/美国.md "wikilink")[布法罗大学又将其分为沿海U](https://zh.wikipedia.org/wiki/布法罗大学 "wikilink")-潜艇，指定保留的沿海布雷U-潜艇。
 
 ### U-潜艇
 
@@ -54,8 +54,7 @@
   - [*U-39*](https://zh.wikipedia.org/wiki/SM_U-39（德国） "wikilink")
   - [*U-40*](https://zh.wikipedia.org/wiki/SM_U-40（德国） "wikilink")
   - [*U-41*](https://zh.wikipedia.org/wiki/SM_U-41（德国） "wikilink")\<\!--
-  - [*U-42*](https://zh.wikipedia.org/wiki/SM_U-42（德国） "wikilink") not
-    built? --\>
+  - [*U-42*](https://zh.wikipedia.org/wiki/SM_U-42（德国） "wikilink") not built? --\>
   - [*U-43*](https://zh.wikipedia.org/wiki/SM_U-43（德国） "wikilink")
   - [*U-44*](https://zh.wikipedia.org/wiki/SM_U-44（德国） "wikilink")
   - [*U-45*](https://zh.wikipedia.org/wiki/SM_U-45（德国） "wikilink")
@@ -1840,82 +1839,47 @@
 
 ## 第二次世界大战之后的U-潜艇
 
-  - [*U-1*
-    (S180)](https://zh.wikipedia.org/wiki/德国潜艇_U-1_\(S180\) "wikilink")
-  - [*U-2*
-    (S181)](https://zh.wikipedia.org/wiki/德国潜艇_U-2_\(S181\) "wikilink")
-  - [*U-3*
-    (S182)](https://zh.wikipedia.org/wiki/德国潜艇_U-3_\(S182\) "wikilink")
-  - [*U-4*
-    (S183)](https://zh.wikipedia.org/wiki/德国潜艇_U-4_\(S183\) "wikilink")
-  - [*U-5*
-    (S184)](https://zh.wikipedia.org/wiki/德国潜艇_U-5_\(S184\) "wikilink")
-  - [*U-6*
-    (S185)](https://zh.wikipedia.org/wiki/德国潜艇_U-6_\(S185\) "wikilink")
-  - [*U-7*
-    (S186)](https://zh.wikipedia.org/wiki/德国潜艇_U-7_\(S186\) "wikilink")
-  - [*U-8*
-    (S187)](https://zh.wikipedia.org/wiki/德国潜艇_U-8_\(S187\) "wikilink")
-  - [*U-9*
-    (S188)](https://zh.wikipedia.org/wiki/德国潜艇_U-9_\(S188\) "wikilink")
-  - [*U-10*
-    (S189)](https://zh.wikipedia.org/wiki/德国潜艇_U-10_\(S189\) "wikilink")
-  - [*U-11*
-    (S190)](https://zh.wikipedia.org/wiki/德国潜艇_U-11_\(S190\) "wikilink")
-  - [*U-12*
-    (S191)](https://zh.wikipedia.org/wiki/德国潜艇_U-12_\(S191\) "wikilink")
+  - [*U-1* (S180)](https://zh.wikipedia.org/wiki/德国潜艇_U-1_\(S180\) "wikilink")
+  - [*U-2* (S181)](https://zh.wikipedia.org/wiki/德国潜艇_U-2_\(S181\) "wikilink")
+  - [*U-3* (S182)](https://zh.wikipedia.org/wiki/德国潜艇_U-3_\(S182\) "wikilink")
+  - [*U-4* (S183)](https://zh.wikipedia.org/wiki/德国潜艇_U-4_\(S183\) "wikilink")
+  - [*U-5* (S184)](https://zh.wikipedia.org/wiki/德国潜艇_U-5_\(S184\) "wikilink")
+  - [*U-6* (S185)](https://zh.wikipedia.org/wiki/德国潜艇_U-6_\(S185\) "wikilink")
+  - [*U-7* (S186)](https://zh.wikipedia.org/wiki/德国潜艇_U-7_\(S186\) "wikilink")
+  - [*U-8* (S187)](https://zh.wikipedia.org/wiki/德国潜艇_U-8_\(S187\) "wikilink")
+  - [*U-9* (S188)](https://zh.wikipedia.org/wiki/德国潜艇_U-9_\(S188\) "wikilink")
+  - [*U-10* (S189)](https://zh.wikipedia.org/wiki/德国潜艇_U-10_\(S189\) "wikilink")
+  - [*U-11* (S190)](https://zh.wikipedia.org/wiki/德国潜艇_U-11_\(S190\) "wikilink")
+  - [*U-12* (S191)](https://zh.wikipedia.org/wiki/德国潜艇_U-12_\(S191\) "wikilink")
 
 <!-- end list -->
 
-  - [*U-13*
-    (S192)](https://zh.wikipedia.org/wiki/德国潜艇_U-13_\(S192\) "wikilink")
-  - [*U-14*
-    (S193)](https://zh.wikipedia.org/wiki/德国潜艇_U-14_\(S193\) "wikilink")
-  - [*U-15*
-    (S194)](https://zh.wikipedia.org/wiki/德国潜艇_U-15_\(S194\) "wikilink")
-  - [*U-16*
-    (S195)](https://zh.wikipedia.org/wiki/德国潜艇_U-16_\(S195\) "wikilink")
-  - [*U-17*
-    (S196)](https://zh.wikipedia.org/wiki/德国潜艇_U-17_\(S196\) "wikilink")
-  - [*U-18*
-    (S197)](https://zh.wikipedia.org/wiki/德国潜艇_U-18_\(S197\) "wikilink")
-  - [*U-19*
-    (S198)](https://zh.wikipedia.org/wiki/德国潜艇_U-19_\(S198\) "wikilink")
-  - [*U-20*
-    (S199)](https://zh.wikipedia.org/wiki/德国潜艇_U-20_\(S199\) "wikilink")
-  - [*U-21*
-    (S170)](https://zh.wikipedia.org/wiki/德国潜艇_U-21_\(S170\) "wikilink")
-  - [*U-22*
-    (S171)](https://zh.wikipedia.org/wiki/德国潜艇_U-22_\(S171\) "wikilink")
-  - [*U-23*
-    (S172)](https://zh.wikipedia.org/wiki/德国潜艇_U-23_\(S172\) "wikilink")
-  - [*U-24*
-    (S173)](https://zh.wikipedia.org/wiki/德国潜艇_U-24_\(S173\) "wikilink")
+  - [*U-13* (S192)](https://zh.wikipedia.org/wiki/德国潜艇_U-13_\(S192\) "wikilink")
+  - [*U-14* (S193)](https://zh.wikipedia.org/wiki/德国潜艇_U-14_\(S193\) "wikilink")
+  - [*U-15* (S194)](https://zh.wikipedia.org/wiki/德国潜艇_U-15_\(S194\) "wikilink")
+  - [*U-16* (S195)](https://zh.wikipedia.org/wiki/德国潜艇_U-16_\(S195\) "wikilink")
+  - [*U-17* (S196)](https://zh.wikipedia.org/wiki/德国潜艇_U-17_\(S196\) "wikilink")
+  - [*U-18* (S197)](https://zh.wikipedia.org/wiki/德国潜艇_U-18_\(S197\) "wikilink")
+  - [*U-19* (S198)](https://zh.wikipedia.org/wiki/德国潜艇_U-19_\(S198\) "wikilink")
+  - [*U-20* (S199)](https://zh.wikipedia.org/wiki/德国潜艇_U-20_\(S199\) "wikilink")
+  - [*U-21* (S170)](https://zh.wikipedia.org/wiki/德国潜艇_U-21_\(S170\) "wikilink")
+  - [*U-22* (S171)](https://zh.wikipedia.org/wiki/德国潜艇_U-22_\(S171\) "wikilink")
+  - [*U-23* (S172)](https://zh.wikipedia.org/wiki/德国潜艇_U-23_\(S172\) "wikilink")
+  - [*U-24* (S173)](https://zh.wikipedia.org/wiki/德国潜艇_U-24_\(S173\) "wikilink")
 
 <!-- end list -->
 
-  - [*U-25*
-    (S174)](https://zh.wikipedia.org/wiki/德国潜艇_U-25_\(S174\) "wikilink")
-  - [*U-26*
-    (S175)](https://zh.wikipedia.org/wiki/德国潜艇_U-26_\(S175\) "wikilink")
-  - [*U-27*
-    (S176)](https://zh.wikipedia.org/wiki/德国潜艇_U-27_\(S176\) "wikilink")
-  - [*U-28*
-    (S177)](https://zh.wikipedia.org/wiki/德国潜艇_U-28_\(S177\) "wikilink")
-  - [*U-29*
-    (S178)](https://zh.wikipedia.org/wiki/德国潜艇_U-29_\(S178\) "wikilink")
-  - [*U-30*
-    (S179)](https://zh.wikipedia.org/wiki/德国潜艇_U-30_\(S179\) "wikilink")
-  - [*U-31*
-    (S181)](https://zh.wikipedia.org/wiki/德国潜艇_U-31_\(S181\) "wikilink")
-  - [*U-32*
-    (S182)](https://zh.wikipedia.org/wiki/德国潜艇_U-32_\(S182\) "wikilink")
-  - [*U-33*
-    (S183)](https://zh.wikipedia.org/wiki/德国潜艇_U-33_\(S183\) "wikilink")
-  - [*U-34*
-    (S184)](https://zh.wikipedia.org/wiki/德国潜艇_U-34_\(S184\) "wikilink")
-  - [*U-35*
-    (S185)](https://zh.wikipedia.org/wiki/德国潜艇_U-35_\(S185\) "wikilink")
+  - [*U-25* (S174)](https://zh.wikipedia.org/wiki/德国潜艇_U-25_\(S174\) "wikilink")
+  - [*U-26* (S175)](https://zh.wikipedia.org/wiki/德国潜艇_U-26_\(S175\) "wikilink")
+  - [*U-27* (S176)](https://zh.wikipedia.org/wiki/德国潜艇_U-27_\(S176\) "wikilink")
+  - [*U-28* (S177)](https://zh.wikipedia.org/wiki/德国潜艇_U-28_\(S177\) "wikilink")
+  - [*U-29* (S178)](https://zh.wikipedia.org/wiki/德国潜艇_U-29_\(S178\) "wikilink")
+  - [*U-30* (S179)](https://zh.wikipedia.org/wiki/德国潜艇_U-30_\(S179\) "wikilink")
+  - [*U-31* (S181)](https://zh.wikipedia.org/wiki/德国潜艇_U-31_\(S181\) "wikilink")
+  - [*U-32* (S182)](https://zh.wikipedia.org/wiki/德国潜艇_U-32_\(S182\) "wikilink")
+  - [*U-33* (S183)](https://zh.wikipedia.org/wiki/德国潜艇_U-33_\(S183\) "wikilink")
+  - [*U-34* (S184)](https://zh.wikipedia.org/wiki/德国潜艇_U-34_\(S184\) "wikilink")
+  - [*U-35* (S185)](https://zh.wikipedia.org/wiki/德国潜艇_U-35_\(S185\) "wikilink")
 
 ## 另见
 
@@ -1931,13 +1895,9 @@
 
 ## 外部链接
 
-  - [Shipwreck
-    Central](https://web.archive.org/web/20120205002024/http://www.shipwreckcentral.com/map)
+  - [Shipwreck Central](https://web.archive.org/web/20120205002024/http://www.shipwreckcentral.com/map)
   - www.pbs.org -see nova
-  - [List of U-boats at
-    U-boat.net](http://www.uboat.net/boats/index.html)
+  - [List of U-boats at U-boat.net](http://www.uboat.net/boats/index.html)
   - [U-35, 1936-1939](http://www.u-35.com/)
 
-[Category:第二次世界大战相关列表](https://zh.wikipedia.org/wiki/Category:第二次世界大战相关列表 "wikilink")
-[Category:德國軍事列表](https://zh.wikipedia.org/wiki/Category:德國軍事列表 "wikilink")
-[Category:二戰德國潛艇](https://zh.wikipedia.org/wiki/Category:二戰德國潛艇 "wikilink")
+[Category:第二次世界大战相关列表](https://zh.wikipedia.org/wiki/Category:第二次世界大战相关列表 "wikilink") [Category:德國軍事列表](https://zh.wikipedia.org/wiki/Category:德國軍事列表 "wikilink") [Category:二戰德國潛艇](https://zh.wikipedia.org/wiki/Category:二戰德國潛艇 "wikilink")

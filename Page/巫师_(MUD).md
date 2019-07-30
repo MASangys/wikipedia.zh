@@ -1,11 +1,10 @@
-**巫師**，泛指[MUD遊戲中的管理者或內容創作者](../Page/MUD.md "wikilink")。
+**巫師**，泛指[MUD](../Page/MUD.md "wikilink")遊戲中的管理者或內容創作者。
 
 大多數的MUD遊戲會設置多種不同層級的巫師，如: 大神、大巫師、巫師、見習巫師等。
 
 ## 起源
 
-巫師的稱呼起源自第一個MUD([MUD1](https://zh.wikipedia.org/wiki/MUD1 "wikilink"))。在該遊戲中，遊戲的目的是提升角色的等級直到最高等級，通過管理者的認可，最後成為一名巫師；並因而擁有修改、新增遊戲場景等權限。此一名稱據信是取自著名的奇幻小說「[魔戒](../Page/魔戒.md "wikilink")」中具有超凡能力的人物如：[甘道夫](../Page/甘道夫.md "wikilink")，甘道夫在魔戒中的身分被稱為巫師。
-巫師與現代線上遊戲中[GM最大的不同在於](../Page/遊戲主持者.md "wikilink")，巫師主要由玩家經過身分轉換而來，並非遊戲開發團隊所雇用的成員。
+巫師的稱呼起源自第一個MUD([MUD1](https://zh.wikipedia.org/wiki/MUD1 "wikilink"))。在該遊戲中，遊戲的目的是提升角色的等級直到最高等級，通過管理者的認可，最後成為一名巫師；並因而擁有修改、新增遊戲場景等權限。此一名稱據信是取自著名的奇幻小說「[魔戒](../Page/魔戒.md "wikilink")」中具有超凡能力的人物如：[甘道夫](../Page/甘道夫.md "wikilink")，甘道夫在魔戒中的身分被稱為巫師。 巫師與現代線上遊戲中[GM最大的不同在於](../Page/遊戲主持者.md "wikilink")，巫師主要由玩家經過身分轉換而來，並非遊戲開發團隊所雇用的成員。
 
 ## 與玩家的互動
 
@@ -15,8 +14,7 @@
 
 ## 對現實生活的影響
 
-做為早期網路遊戲的雛形，MUD以及MUD中的巫師出現了為數不少對線上遊戲的設計與營運有深刻認識的開發者，例如台灣第一款自行開發的MMORPG《萬王之王》，其開發團隊便是來自同名的[萬王之王遊戲中的巫師](../Page/萬王之王_\(1996年遊戲\).md "wikilink")。這些非傳統單機遊戲開發者的族群(MUD
-巫師)直接或間接促成了電腦遊戲從單機模式主流演變為線上遊戲主流。
+做為早期網路遊戲的雛形，MUD以及MUD中的巫師出現了為數不少對線上遊戲的設計與營運有深刻認識的開發者，例如台灣第一款自行開發的MMORPG《萬王之王》，其開發團隊便是來自同名的[萬王之王遊戲中的巫師](../Page/萬王之王_\(1996年遊戲\).md "wikilink")。這些非傳統單機遊戲開發者的族群(MUD 巫師)直接或間接促成了電腦遊戲從單機模式主流演變為線上遊戲主流。
 
 ## 參考資料
 
@@ -32,9 +30,7 @@
 
   - [MUD](../Page/MUD.md "wikilink")
 
-[Category:MUD](https://zh.wikipedia.org/wiki/Category:MUD "wikilink")
-[Category:電子遊戲術語](https://zh.wikipedia.org/wiki/Category:電子遊戲術語 "wikilink")
-[Category:電子遊戲文化](https://zh.wikipedia.org/wiki/Category:電子遊戲文化 "wikilink")
+[Category:MUD](https://zh.wikipedia.org/wiki/Category:MUD "wikilink") [Category:電子遊戲術語](https://zh.wikipedia.org/wiki/Category:電子遊戲術語 "wikilink") [Category:電子遊戲文化](https://zh.wikipedia.org/wiki/Category:電子遊戲文化 "wikilink")
 
 1.
 2.

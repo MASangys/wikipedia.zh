@@ -1,15 +1,10 @@
-**Pioneer
-LaserActive**是一款在1993年由[先锋发行的短命的](https://zh.wikipedia.org/wiki/先鋒公司 "wikilink")[LD游戏平台](https://zh.wikipedia.org/wiki/LD "wikilink")。除了LD游戏，加装单独销售的扩展模块（先锋称之为“PAC”）后它可以玩到[Mega
-Drive和](../Page/Mega_Drive.md "wikilink")[PC Engine/TurboGrafx
-16的卡带及光盘游戏](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")。
+**Pioneer LaserActive**是一款在1993年由[先锋发行的短命的](https://zh.wikipedia.org/wiki/先鋒公司 "wikilink")[LD游戏平台](https://zh.wikipedia.org/wiki/LD "wikilink")。除了LD游戏，加装单独销售的扩展模块（先锋称之为“PAC”）后它可以玩到[Mega Drive和](../Page/Mega_Drive.md "wikilink")[PC Engine/TurboGrafx 16的卡带及光盘游戏](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")。
 
 [Pioneer_LaserActive_CLD-A100.jpg](https://zh.wikipedia.org/wiki/File:Pioneer_LaserActive_CLD-A100.jpg "fig:Pioneer_LaserActive_CLD-A100.jpg")
 
 ## 型号
 
-日版Pioneer
-CLD-A100在1993年8月20日发行，价格为89,800日元。美版在1993年9月13日发行，价格970美元。NEC也曾发行一个版本，称为NEC
-PDE-LD1。两个系统都支持PAC模块。
+日版Pioneer CLD-A100在1993年8月20日发行，价格为89,800日元。美版在1993年9月13日发行，价格970美元。NEC也曾发行一个版本，称为NEC PDE-LD1。两个系统都支持PAC模块。
 
 ## 周邊模块
 
@@ -17,16 +12,11 @@ PDE-LD1。两个系统都支持PAC模块。
 
 ### Sega PAC (PAC-S10/PAC-S1)
 
-先锋电子（美国）和[世嘉公司合作发行了这个模块](../Page/世嘉.md "wikilink")。它的功能是让用户可以使用8英寸和12英寸的LD盘“Mega
-LD
-discs”玩到大量SEGA-CD和MD的游戏，以及播放CD+G光盘。它在LaserActive中最为流行，价钱约为600美元，带有贴着Pioneer
-LaserActive标志的MD游戏手柄。
+先锋电子（美国）和[世嘉](../Page/世嘉.md "wikilink")公司合作发行了这个模块。它的功能是让用户可以使用8英寸和12英寸的LD盘“Mega LD discs”玩到大量SEGA-CD和MD的游戏，以及播放CD+G光盘。它在LaserActive中最为流行，价钱约为600美元，带有贴着Pioneer LaserActive标志的MD游戏手柄。
 
 ### NEC PAC (PAC-N10/PAC-N1)
 
-先鋒電子美國和NEC家庭電子發行了這個模塊以協助用戶玩到LD盤“LD-ROM² discs”之餘，也能玩TurboGrafx
-CD-ROM遊戲、HuCards遊戲以及使用CD+G光碟。零售價格是600美元，也有金色的Pioneer
-LaserActive在遊戲手柄上。
+先鋒電子美國和NEC家庭電子發行了這個模塊以協助用戶玩到LD盤“LD-ROM² discs”之餘，也能玩TurboGrafx CD-ROM遊戲、HuCards遊戲以及使用CD+G光碟。零售價格是600美元，也有金色的Pioneer LaserActive在遊戲手柄上。
 
 ### 卡拉OK PAC (PAC-K10/PAC-K1)
 
@@ -34,12 +24,11 @@ LaserActive在遊戲手柄上。
 
 ### 電腦界面PAC (PAC-PC1)
 
-這個PAC有個25針的[串行端口以使得CLD](../Page/串行端口.md "wikilink")-A100可以由特制的[PC或者](../Page/PC.md "wikilink")[Macintosh電腦軟件控制](https://zh.wikipedia.org/wiki/Macintosh "wikilink")。它帶有一個33鍵的紅外線遙控，比機器自帶的24鍵遙控帶更多功能。另外還有裝載于DOS或Mac[磁碟的LaserActive程序編輯軟件](https://zh.wikipedia.org/wiki/磁碟 "wikilink")，磁碟上帶有用于[天地無用動畫系列LD的示例程序](https://zh.wikipedia.org/wiki/天地無用 "wikilink")。
+這個PAC有個25針的[串行端口](../Page/串行端口.md "wikilink")以使得CLD-A100可以由特制的[PC](../Page/PC.md "wikilink")或者[Macintosh電腦軟件控制](https://zh.wikipedia.org/wiki/Macintosh "wikilink")。它帶有一個33鍵的紅外線遙控，比機器自帶的24鍵遙控帶更多功能。另外還有裝載于DOS或Mac[磁碟的LaserActive程序編輯軟件](https://zh.wikipedia.org/wiki/磁碟 "wikilink")，磁碟上帶有用于[天地無用動畫系列LD的示例程序](https://zh.wikipedia.org/wiki/天地無用 "wikilink")。
 
 ### LaserActive 3-D眼鏡(GOL-1)
 
-用于玩3D視覺效果遊戲的PAC，這個模塊與[世嘉Master
-System兼容并能用來玩它的遊戲](../Page/世嘉Master_System.md "wikilink")。
+用于玩3D視覺效果遊戲的PAC，這個模塊與[世嘉Master System兼容并能用來玩它的遊戲](../Page/世嘉Master_System.md "wikilink")。
 
 ### 3-D Goggles Adaptor (ADP-1)
 
@@ -105,39 +94,30 @@ System兼容并能用來玩它的遊戲](../Page/世嘉Master_System.md "wikilin
 
 （多用途影视系统）
 
-  - [Commodore's](https://zh.wikipedia.org/wiki/Commodore_International "wikilink")
-    [CDTV](https://zh.wikipedia.org/wiki/Amiga_CDTV "wikilink")
+  - [Commodore's](https://zh.wikipedia.org/wiki/Commodore_International "wikilink") [CDTV](https://zh.wikipedia.org/wiki/Amiga_CDTV "wikilink")
   - [CD-i](../Page/CD-i.md "wikilink")
   - [3DO](../Page/3DO.md "wikilink")
-  - [Tandy Video Information
-    System](https://zh.wikipedia.org/wiki/Tandy_Video_Information_System "wikilink")
+  - [Tandy Video Information System](https://zh.wikipedia.org/wiki/Tandy_Video_Information_System "wikilink")
 
 ### 游戏机市场（次要市场）
 
-  - [NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")[PC
-    Engine带Super](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")
-    CD-ROM扩展
+  - [NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")[PC Engine带Super](https://zh.wikipedia.org/wiki/PC_Engine "wikilink") CD-ROM扩展
   - [任天堂](../Page/任天堂.md "wikilink")[超任](https://zh.wikipedia.org/wiki/超任 "wikilink")
   - [Mega Drive](../Page/Mega_Drive.md "wikilink") 带CD-ROM扩展
   - [3DO](../Page/3DO.md "wikilink")
 
 ### 用户A/V （次要市场）
 
-  - [VHS和](../Page/VHS.md "wikilink")[Betamax](../Page/Betamax.md "wikilink")
-    VCR格式播放器
+  - [VHS](../Page/VHS.md "wikilink")和[Betamax](../Page/Betamax.md "wikilink") VCR格式播放器
 
 ## 参考文献
 
 ## 外部链接
 
-  - [Computer Closet: Pioneer
-    LaserActive](http://www.computercloset.org/PioneerLaseractive.htm)
-  - [LaserDisc UK Web Site:
-    LaserActive](http://www.laserdiscarchive.co.uk/laserdisc_archive/pioneer/pioneer_cld-a100/pioneer_cld-a100.htm)
-  - [allgame: Pioneer
-    LaserActive](http://www.allgame.com/cg/agg.dll?p=agg&sql=5:17669)
+  - [Computer Closet: Pioneer LaserActive](http://www.computercloset.org/PioneerLaseractive.htm)
+  - [LaserDisc UK Web Site: LaserActive](http://www.laserdiscarchive.co.uk/laserdisc_archive/pioneer/pioneer_cld-a100/pioneer_cld-a100.htm)
+  - [allgame: Pioneer LaserActive](http://www.allgame.com/cg/agg.dll?p=agg&sql=5:17669)
 
-[Category:第四世代遊戲機](https://zh.wikipedia.org/wiki/Category:第四世代遊戲機 "wikilink")
-[Category:1993年面世的產品](https://zh.wikipedia.org/wiki/Category:1993年面世的產品 "wikilink")
+[Category:第四世代遊戲機](https://zh.wikipedia.org/wiki/Category:第四世代遊戲機 "wikilink") [Category:1993年面世的產品](https://zh.wikipedia.org/wiki/Category:1993年面世的產品 "wikilink")
 
 1.  See  for history of the LaserActive MYST prototype

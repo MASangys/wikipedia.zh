@@ -1,5 +1,4 @@
-**YAHOO\!搜尋人氣大獎2011**，於2011年12月20日假[香港展覽中心Hall](../Page/香港展覽中心.md "wikilink")
-5G舉行，由[森美及](https://zh.wikipedia.org/wiki/森美 "wikilink")[胡蓓蔚擔任司儀](../Page/胡蓓蔚.md "wikilink")，當晚共頒發74個項目，當中43項為音樂獎項，9項為電視及電影獎項，5項至尊獎項，更設17項亞洲區獎項，綜合港、台、韓三地全年的搜尋次數，並於2012年1月6日香港時間20:30-21:30、2012年1月7日香港時間23:00-24:00在[無綫電視J2台播映](https://zh.wikipedia.org/wiki/無綫電視J2台 "wikilink")。
+**YAHOO\!搜尋人氣大獎2011**，於2011年12月20日假[香港展覽中心](../Page/香港展覽中心.md "wikilink")Hall 5G舉行，由[森美及](https://zh.wikipedia.org/wiki/森美 "wikilink")[胡蓓蔚](../Page/胡蓓蔚.md "wikilink")擔任司儀，當晚共頒發74個項目，當中43項為音樂獎項，9項為電視及電影獎項，5項至尊獎項，更設17項亞洲區獎項，綜合港、台、韓三地全年的搜尋次數，並於2012年1月6日香港時間20:30-21:30、2012年1月7日香港時間23:00-24:00在[無綫電視J2台播映](https://zh.wikipedia.org/wiki/無綫電視J2台 "wikilink")。
 
 本屆頒獎禮由[奧迪汽車冠名贊助](https://zh.wikipedia.org/wiki/奧迪汽車 "wikilink")，以下為當晚的得獎名單：
 
@@ -38,11 +37,9 @@
       - [李家仁](../Page/李家仁.md "wikilink")《小明上廣州》
       - [周柏豪](../Page/周柏豪.md "wikilink")《Smiley Face》
   - 網上熱爆電影主題曲
-      - [連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")《I'm Still
-        Loving You》
+      - [連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")《I'm Still Loving You》
   - 搜尋人氣電視劇集主題曲
-      - [林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")《Light Up My
-        Life》（電視劇《[花花世界花家姐](../Page/花花世界花家姐.md "wikilink")》片尾曲）
+      - [林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")《Light Up My Life》（電視劇《[花花世界花家姐](../Page/花花世界花家姐.md "wikilink")》片尾曲）
   - 搜尋人氣電影主題曲
       - [胡夏](https://zh.wikipedia.org/wiki/胡夏 "wikilink")《那些年》（電影《[那些年，我們一起追的女孩](https://zh.wikipedia.org/wiki/那些年，我們一起追的女孩 "wikilink")》主題曲）
   - 搜尋十大人氣歌曲2011：
@@ -69,8 +66,7 @@
       - [盧凱彤](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink")《雀斑》
       - [泳兒](../Page/泳兒.md "wikilink")《剩下的幸福》
   - 搜尋台灣區人氣合唱華語歌曲2011
-      - [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、
-        [徐佳瑩](../Page/徐佳瑩.md "wikilink")《自以為》
+      - [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、 [徐佳瑩](../Page/徐佳瑩.md "wikilink")《自以為》
   - 搜尋人氣大碟2011
       - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")《Joey & Joey》
   - 搜尋人氣演唱會2011

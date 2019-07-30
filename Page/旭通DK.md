@@ -1,4 +1,4 @@
-**旭通DK**（、），[商業名稱](../Page/商業名稱.md "wikilink")**ADK**\[1\]，在中國大陸曾譯為**旭通一企**\[2\]。該公司是[日本第三大](../Page/日本.md "wikilink")[廣告](../Page/廣告.md "wikilink")[公司](../Page/公司.md "wikilink")，業務規模僅次於[電通和](https://zh.wikipedia.org/wiki/電通 "wikilink")[博報堂](../Page/博報堂.md "wikilink")，亦參與製作眾多[日本電視動畫作品](../Page/日本電視動畫.md "wikilink")。總部設於[東京都](../Page/東京都.md "wikilink")，並在海外設置多處分支機構。
+**旭通DK**（、），[商業名稱](../Page/商業名稱.md "wikilink")**ADK**\[1\]，在中國大陸曾譯為**旭通一企**\[2\]。該公司是[日本](../Page/日本.md "wikilink")第三大[廣告](../Page/廣告.md "wikilink")[公司](../Page/公司.md "wikilink")，業務規模僅次於[電通和](https://zh.wikipedia.org/wiki/電通 "wikilink")[博報堂](../Page/博報堂.md "wikilink")，亦參與製作眾多[日本電視動畫](../Page/日本電視動畫.md "wikilink")作品。總部設於[東京都](../Page/東京都.md "wikilink")，並在海外設置多處分支機構。
 
 ## 沿革
 
@@ -40,8 +40,7 @@
 
 <!-- end list -->
 
-  - 广东广旭整合营销传播有限公司（Guangdong Guangxu (ADK) Integrated Marketing
-    Communications Co., Ltd.）
+  - 广东广旭整合营销传播有限公司（Guangdong Guangxu (ADK) Integrated Marketing Communications Co., Ltd.）
 
 ### 香港
 
@@ -55,13 +54,7 @@
 
 ## 企業標誌
 
-[File:adkci-19990101.png|1999年合併時](File:adkci-19990101.png%7C1999年合併時)[企業識別](https://zh.wikipedia.org/wiki/企業識別 "wikilink")，直到2002年版商標統合取代
-[File:adklogo-19990101.png|1999年合併時商標，搭配企業識別跟品牌宣言「Marketing](File:adklogo-19990101.png%7C1999年合併時商標，搭配企業識別跟品牌宣言「Marketing)
-Science ＆ Communication Services」
-[File:adklogo-20010330.png|2001年3月30日宣布於翌月2日採用商業名稱「ADK」所改版的商標，亦搭配企業識別跟品牌宣言](File:adklogo-20010330.png%7C2001年3月30日宣布於翌月2日採用商業名稱「ADK」所改版的商標，亦搭配企業識別跟品牌宣言)
-[File:adklogo-20020927.png|2002年9月27日發表統合視覺識別的舊版商標，同年11月1日啟用](File:adklogo-20020927.png%7C2002年9月27日發表統合視覺識別的舊版商標，同年11月1日啟用)\[3\]\[4\]
-<File:ADK> logo.svg|2004年底出現的標誌變體，逐漸取代2002年版商標至2014年
-[File:Adklogo-20140319.svg|2014年3月19日發表的現行視覺識別商標，同年6月1日啟用](File:Adklogo-20140319.svg%7C2014年3月19日發表的現行視覺識別商標，同年6月1日啟用)\[5\]\[6\]
+[File:adkci-19990101.png|1999年合併時](File:adkci-19990101.png%7C1999年合併時)[企業識別](https://zh.wikipedia.org/wiki/企業識別 "wikilink")，直到2002年版商標統合取代 [File:adklogo-19990101.png|1999年合併時商標，搭配企業識別跟品牌宣言「Marketing](File:adklogo-19990101.png%7C1999年合併時商標，搭配企業識別跟品牌宣言「Marketing) Science ＆ Communication Services」 [File:adklogo-20010330.png|2001年3月30日宣布於翌月2日採用商業名稱「ADK」所改版的商標，亦搭配企業識別跟品牌宣言](File:adklogo-20010330.png%7C2001年3月30日宣布於翌月2日採用商業名稱「ADK」所改版的商標，亦搭配企業識別跟品牌宣言) [File:adklogo-20020927.png|2002年9月27日發表統合視覺識別的舊版商標，同年11月1日啟用](File:adklogo-20020927.png%7C2002年9月27日發表統合視覺識別的舊版商標，同年11月1日啟用)\[3\]\[4\] <File:ADK> logo.svg|2004年底出現的標誌變體，逐漸取代2002年版商標至2014年 [File:Adklogo-20140319.svg|2014年3月19日發表的現行視覺識別商標，同年6月1日啟用](File:Adklogo-20140319.svg%7C2014年3月19日發表的現行視覺識別商標，同年6月1日啟用)\[5\]\[6\]
 
 ## 註釋
 
@@ -74,16 +67,9 @@ Science ＆ Communication Services」
 ## 外部連結
 
   - [ADK](https://web.archive.org/web/20071019145041/http://www.adk.jp/)
-
   - [ADK 中国网站](http://www.adk-cn.com/)
 
-[Category:1956年成立的公司](https://zh.wikipedia.org/wiki/Category:1956年成立的公司 "wikilink")
-[Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")
-[Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink")
-[Category:特攝](https://zh.wikipedia.org/wiki/Category:特攝 "wikilink")
-[Category:日本广告公司](https://zh.wikipedia.org/wiki/Category:日本广告公司 "wikilink")
-[Category:中央區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:中央區公司_\(東京都\) "wikilink")
-[Category:東京證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所上市公司 "wikilink")
+[Category:1956年成立的公司](https://zh.wikipedia.org/wiki/Category:1956年成立的公司 "wikilink") [Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink") [Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink") [Category:特攝](https://zh.wikipedia.org/wiki/Category:特攝 "wikilink") [Category:日本广告公司](https://zh.wikipedia.org/wiki/Category:日本广告公司 "wikilink") [Category:中央區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:中央區公司_\(東京都\) "wikilink") [Category:東京證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所上市公司 "wikilink")
 
 1.
 2.

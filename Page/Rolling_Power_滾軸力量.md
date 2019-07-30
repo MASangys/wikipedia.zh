@@ -1,5 +1,4 @@
-《**Rolling Power
-滾軸力量**》是香港歌手[譚詠麟的第](../Page/譚詠麟.md "wikilink")51張粵語專輯、第16張國語專輯\[1\]。全專輯均由譚詠麟與[Mr.合唱](../Page/Mr..md "wikilink")，專輯10首歌曲均被製作成為粵語及國語版本，合共20首歌曲。創作方面加入了兩岸三地音樂人如[譚伊哲](https://zh.wikipedia.org/wiki/譚伊哲 "wikilink")、[崔恕](https://zh.wikipedia.org/wiki/崔恕 "wikilink")、[蘇打綠等](../Page/蘇打綠.md "wikilink")。
+《**Rolling Power 滾軸力量**》是香港歌手[譚詠麟](../Page/譚詠麟.md "wikilink")的第51張粵語專輯、第16張國語專輯\[1\]。全專輯均由譚詠麟與[Mr.](../Page/Mr..md "wikilink")合唱，專輯10首歌曲均被製作成為粵語及國語版本，合共20首歌曲。創作方面加入了兩岸三地音樂人如[譚伊哲](https://zh.wikipedia.org/wiki/譚伊哲 "wikilink")、[崔恕](https://zh.wikipedia.org/wiki/崔恕 "wikilink")、[蘇打綠](../Page/蘇打綠.md "wikilink")等。
 
 ## 曲目
 
@@ -35,10 +34,6 @@
 
 ## 参考
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:譚詠麟音樂專輯](https://zh.wikipedia.org/wiki/Category:譚詠麟音樂專輯 "wikilink")
-[Category:Mr.音樂專輯](https://zh.wikipedia.org/wiki/Category:Mr.音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:譚詠麟音樂專輯](https://zh.wikipedia.org/wiki/Category:譚詠麟音樂專輯 "wikilink") [Category:Mr.音樂專輯](https://zh.wikipedia.org/wiki/Category:Mr.音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
 
 1.

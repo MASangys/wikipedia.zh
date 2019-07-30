@@ -1,18 +1,12 @@
-**Mnet亞洲音樂大獎**（；，簡稱：**MAMA**）是由[Mnet
-Media舉辦的一個亞洲最大主要年度音樂頒獎禮](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")，其前身為Mnet
-KM音樂錄像帶節（）\[1\]\[2\]。
+**Mnet亞洲音樂大獎**（；，簡稱：**MAMA**）是由[Mnet Media舉辦的一個亞洲最大主要年度音樂頒獎禮](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")，其前身為Mnet KM音樂錄像帶節（）\[1\]\[2\]。
 
-2018年於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[日本及](../Page/日本.md "wikilink")[香港三地舉行](../Page/香港.md "wikilink")。
+2018年於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[日本](../Page/日本.md "wikilink")及[香港](../Page/香港.md "wikilink")三地舉行。
 
 ## 歷史沿革
 
-[Mnet最初是](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[MBC旗下的一個音樂頻道](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")，2005年與同為以娛樂音樂為主的電視頻道KM合併，Mnet
-KM音樂錄影帶節（）是其自1999年起共同舉辦的音樂頒獎禮。
+[Mnet最初是](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[MBC旗下的一個音樂頻道](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")，2005年與同為以娛樂音樂為主的電視頻道KM合併，Mnet KM音樂錄影帶節（）是其自1999年起共同舉辦的音樂頒獎禮。
 
-2009年10月20日，Mnet KM音樂錄影帶節於官方網頁公告該年之Mnet KM音樂錄影帶節取消。同年11月，典禮正式由Mnet
-KM音樂錄影帶節更名為Mnet亞洲音樂大獎（；），並由[Mnet
-Media獨立舉辦](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")。更名標誌著觀念和處理形式的新變化，大眾可自行投選心儀的藝人使其贏得各大獎項。本屆典禮除韓國本土外，亦通過[Channel
-V國際頻道在](https://zh.wikipedia.org/wiki/Channel_V國際頻道 "wikilink")[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[香港](../Page/香港.md "wikilink")、[日本](../Page/日本.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[泰國及](https://zh.wikipedia.org/wiki/泰國 "wikilink")[東南亞其他地區播出](https://zh.wikipedia.org/wiki/東南亞 "wikilink")，更特別地頒發了「全球藝術家獎」。此外，本年也新增頒發了音樂類型獎的[韓國演歌獎及其他流行音樂獎項](https://zh.wikipedia.org/wiki/韓國演歌 "wikilink")。自此，作為韓國音樂界的一個重要活動，許多知名藝人和樂隊均相繼出席典禮。
+2009年10月20日，Mnet KM音樂錄影帶節於官方網頁公告該年之Mnet KM音樂錄影帶節取消。同年11月，典禮正式由Mnet KM音樂錄影帶節更名為Mnet亞洲音樂大獎（；），並由[Mnet Media獨立舉辦](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")。更名標誌著觀念和處理形式的新變化，大眾可自行投選心儀的藝人使其贏得各大獎項。本屆典禮除韓國本土外，亦通過[Channel V國際頻道在](https://zh.wikipedia.org/wiki/Channel_V國際頻道 "wikilink")[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[香港](../Page/香港.md "wikilink")、[日本](../Page/日本.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[泰國及](https://zh.wikipedia.org/wiki/泰國 "wikilink")[東南亞其他地區播出](https://zh.wikipedia.org/wiki/東南亞 "wikilink")，更特別地頒發了「全球藝術家獎」。此外，本年也新增頒發了音樂類型獎的[韓國演歌獎及其他流行音樂獎項](https://zh.wikipedia.org/wiki/韓國演歌 "wikilink")。自此，作為韓國音樂界的一個重要活動，許多知名藝人和樂隊均相繼出席典禮。
 
 2010年，典禮首次在韓國以外的地區（[中國澳門](https://zh.wikipedia.org/wiki/中國澳門 "wikilink")）舉辦，在澳門及[中國大陸等廣泛地區直播](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，影響力日益擴大。
 
@@ -376,51 +370,30 @@ V國際頻道在](https://zh.wikipedia.org/wiki/Channel_V國際頻道 "wikilink"
 
 颁奖典禮在下列地區的電視頻道及網路直播，其中包括：
 
-  - [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")：[Mnet
-    Media旗下頻道](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")（[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")、Mnet、KM、OnStyle、O'live、StoryOn、XTM）\[6\]（待查-2016年）、MNET（2017-18年）
-  - [中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")：[搜狐网](https://zh.wikipedia.org/wiki/搜狐网 "wikilink")（[2008](http://yule.sohu.com/s2008/mkmf2008)、[2010](http://korea.sohu.com/s2010/mama2010)、[2011](http://korea.sohu.com/s2011/mama)年、2012年）、[浙江卫视](../Page/浙江卫视.md "wikilink")（2009年）\[7\]、上海电视台艺术人文频道（2010年）、[PPTV](https://zh.wikipedia.org/wiki/PPTV "wikilink")（待查）、[旅游卫视](../Page/旅游卫视.md "wikilink")（2011年，轉播）、[湖南卫视](../Page/湖南卫视.md "wikilink")（2012年，轉播）、[優酷網](https://zh.wikipedia.org/wiki/優酷網 "wikilink")（[2013](https://web.archive.org/web/20141018130126/http://zy.youku.com/MAMA2013)、[2014](http://i.youku.com/u/UMTc4MTM3MzQzNg==)年）、[土豆網](https://zh.wikipedia.org/wiki/土豆網 "wikilink")（[2013](https://web.archive.org/web/20141114044146/http://zone.tudou.com/2013mama)、[2014](http://zone.tudou.com/2014mama)年）、[江苏卫视](../Page/江苏卫视.md "wikilink")（2014年）、[爱奇艺](../Page/爱奇艺.md "wikilink")
-    （[2015](http://www.iqiyi.com/kszt/2015mama.html)-16年）
-  - [香港](../Page/香港.md "wikilink")：[TVB](../Page/電視廣播有限公司.md "wikilink")
-    [J2](../Page/J2.md "wikilink")（2012-2014年、2015年錄播）、[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")[Good
-    Show台](../Page/TVB_Good_Show台.md "wikilink")（2013年\[8\]）、[myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")（2015年\[9\]）、[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")/[ViuTVsix](../Page/ViuTVsix.md "wikilink")（2016年-2018年）、[Joox](../Page/Joox.md "wikilink")（2018年）\[10\]
-  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")：[衛視合家歡台](../Page/衛視合家歡台.md "wikilink")（2010年）、[雅虎台灣](../Page/雅虎.md "wikilink")-韓流風（2012、2013年）、[FOX娛樂台](https://zh.wikipedia.org/wiki/FOX娛樂台 "wikilink")（2012-2013年）、台灣[MTV](../Page/音樂電視網.md "wikilink")（2015-2016年）、[Channel
-    M](https://zh.wikipedia.org/wiki/Channel_M "wikilink")（2015-2016年）、[tvN
-    Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")(2017年
-    .2018年)、ETTODAY播吧(2018年）
-  - [日本](../Page/日本.md "wikilink")：Mnet Media旗下頻道Mnet
-    Japan（待查-2018年）、[雅虎日本](../Page/雅虎.md "wikilink")（待查）
+  - [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")：[Mnet Media旗下頻道](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")（[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")、Mnet、KM、OnStyle、O'live、StoryOn、XTM）\[6\]（待查-2016年）、MNET（2017-18年）
+  - [中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")：[搜狐网](https://zh.wikipedia.org/wiki/搜狐网 "wikilink")（[2008](http://yule.sohu.com/s2008/mkmf2008)、[2010](http://korea.sohu.com/s2010/mama2010)、[2011](http://korea.sohu.com/s2011/mama)年、2012年）、[浙江卫视](../Page/浙江卫视.md "wikilink")（2009年）\[7\]、上海电视台艺术人文频道（2010年）、[PPTV](https://zh.wikipedia.org/wiki/PPTV "wikilink")（待查）、[旅游卫视](../Page/旅游卫视.md "wikilink")（2011年，轉播）、[湖南卫视](../Page/湖南卫视.md "wikilink")（2012年，轉播）、[優酷網](https://zh.wikipedia.org/wiki/優酷網 "wikilink")（[2013](https://web.archive.org/web/20141018130126/http://zy.youku.com/MAMA2013)、[2014](http://i.youku.com/u/UMTc4MTM3MzQzNg==)年）、[土豆網](https://zh.wikipedia.org/wiki/土豆網 "wikilink")（[2013](https://web.archive.org/web/20141114044146/http://zone.tudou.com/2013mama)、[2014](http://zone.tudou.com/2014mama)年）、[江苏卫视](../Page/江苏卫视.md "wikilink")（2014年）、[爱奇艺](../Page/爱奇艺.md "wikilink") （[2015](http://www.iqiyi.com/kszt/2015mama.html)-16年）
+  - [香港](../Page/香港.md "wikilink")：[TVB](../Page/電視廣播有限公司.md "wikilink") [J2](../Page/J2.md "wikilink")（2012-2014年、2015年錄播）、[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")[Good Show台](../Page/TVB_Good_Show台.md "wikilink")（2013年\[8\]）、[myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")（2015年\[9\]）、[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")/[ViuTVsix](../Page/ViuTVsix.md "wikilink")（2016年-2018年）、[Joox](../Page/Joox.md "wikilink")（2018年）\[10\]
+  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")：[衛視合家歡台](../Page/衛視合家歡台.md "wikilink")（2010年）、[雅虎](../Page/雅虎.md "wikilink")台灣-韓流風（2012、2013年）、[FOX娛樂台](https://zh.wikipedia.org/wiki/FOX娛樂台 "wikilink")（2012-2013年）、台灣[MTV](../Page/音樂電視網.md "wikilink")（2015-2016年）、[Channel M](https://zh.wikipedia.org/wiki/Channel_M "wikilink")（2015-2016年）、[tvN Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")(2017年 .2018年)、ETTODAY播吧(2018年）
+  - [日本](../Page/日本.md "wikilink")：Mnet Media旗下頻道Mnet Japan（待查-2018年）、[雅虎](../Page/雅虎.md "wikilink")日本（待查）
   - [新加坡](../Page/新加坡.md "wikilink")：[新傳媒U頻道](../Page/新傳媒U頻道.md "wikilink")（2010-2014年）、[MSN](../Page/MSN.md "wikilink")（2010-2014年\[11\]）、TOGGLE（2018年）
   - [馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")：[八度空间](../Page/八度空间_\(电视台\).md "wikilink")（2011年、2014年\[12\]、2015年、2016年，延遲2小時播出）、[Astro全佳HD](../Page/Astro全佳HD.md "wikilink")（2013年）
-  - [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")：Mnet Media旗下頻道Mnet
-    America及其[YouTube頻道](../Page/YouTube.md "wikilink")（待查-2016年）
-  - [東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")：tvN
-    Asia（2010年、2016年-2018年，Channel M前身）、Mnet Media合作頻道[Channel
-    M](https://zh.wikipedia.org/wiki/Channel_M "wikilink")（2012-2015年）
-  - 全球：[Channel
-    V](../Page/Channel_V.md "wikilink")（2009-2013年）、[AllKpop网站](http://www.allkpop.com)（2010年）、[Mnet
-    Media官方網站](http://mama.mwave.me)（待查-2015年）及其YouTube頻道（待查-2014年、2018年）及[Facebook專頁](../Page/Facebook.md "wikilink")（待查）、V
-    LIVE（2018年）
+  - [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")：Mnet Media旗下頻道Mnet America及其[YouTube](../Page/YouTube.md "wikilink")頻道（待查-2016年）
+  - [東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")：tvN Asia（2010年、2016年-2018年，Channel M前身）、Mnet Media合作頻道[Channel M](https://zh.wikipedia.org/wiki/Channel_M "wikilink")（2012-2015年）
+  - 全球：[Channel V](../Page/Channel_V.md "wikilink")（2009-2013年）、[AllKpop网站](http://www.allkpop.com)（2010年）、[Mnet Media官方網站](http://mama.mwave.me)（待查-2015年）及其YouTube頻道（待查-2014年、2018年）及[Facebook](../Page/Facebook.md "wikilink")專頁（待查）、V LIVE（2018年）
 
 網絡及-{zh-hans:智能;zh-hant:智能;zh-tw:智慧型}-手機用戶亦可透過[官方網頁](http://mama.interest.me/history?type=replay)及官方手機應用-{zh-hans:程式;zh-hant:程式;zh-cn:程序}-（[iPhone](http://itunes.apple.com/us/app/2013-mama/id731810186)及[Android](http://play.google.com/store/apps/details?id=com.cjenm.android.mama.mama2014)平台）重溫歷屆片段。
 
 ## 爭議
 
-在2009及2010這兩年，因為[SM娛樂與主辦方](../Page/SM娛樂.md "wikilink")[Mnet媒體存在爭議](../Page/Mnet媒體.md "wikilink")，旗下藝人均沒有出席典禮，而在這兩年間也沒有參與[Mnet的每週音樂節目](../Page/Mnet媒體.md "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》的拍攝。
+在2009及2010這兩年，因為[SM娛樂](../Page/SM娛樂.md "wikilink")與主辦方[Mnet媒體](../Page/Mnet媒體.md "wikilink")存在爭議，旗下藝人均沒有出席典禮，而在這兩年間也沒有參與[Mnet的每週音樂節目](../Page/Mnet媒體.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》的拍攝。
 
-2009年，[SM娛樂](../Page/SM娛樂.md "wikilink")、Inwoo、和[Pledis娛樂旗下歌手均沒有出席典禮](../Page/Pledis娛樂.md "wikilink")，而《[Superstar
-K](../Page/SUPER_STAR_K.md "wikilink")》的贏家[徐仁國及](../Page/徐仁國.md "wikilink")[DSP媒體](../Page/DSP媒體.md "wikilink")、[YG娛樂旗下歌手則均有出席](../Page/YG娛樂.md "wikilink")。
+2009年，[SM娛樂](../Page/SM娛樂.md "wikilink")、Inwoo、和[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下歌手均沒有出席典禮，而《[Superstar K](../Page/SUPER_STAR_K.md "wikilink")》的贏家[徐仁國](../Page/徐仁國.md "wikilink")及[DSP媒體](../Page/DSP媒體.md "wikilink")、[YG娛樂](../Page/YG娛樂.md "wikilink")旗下歌手則均有出席。
 
-2010年，[2AM](../Page/2AM.md "wikilink")、[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")、[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")\[13\]
-、[Super
-Junior](../Page/Super_Junior.md "wikilink")、[4minute](../Page/4minute.md "wikilink")、[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")、[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[Rain](../Page/Rain.md "wikilink")\[14\]\[15\]、[輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")、[寶兒](../Page/寶兒.md "wikilink")、[After
-School](../Page/After_School.md "wikilink")\[16\]、[孫淡妃](../Page/孫淡妃.md "wikilink")\[17\]、[李孝利](../Page/李孝利.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")\[18\]、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")\[19\]、[G.NA](../Page/G.NA.md "wikilink")、[Davichi](../Page/Davichi.md "wikilink")\[20\]和[Rainbow均獲得提名而沒有出席典禮](https://zh.wikipedia.org/wiki/Rainbow "wikilink")，大多數問題在於需要直播的頒獎典禮與[SBS每週現場直播的音樂節目](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》時間衝突。另外[MBK娛樂在聲明中指出](../Page/MBK娛樂.md "wikilink")[T-ara和](https://zh.wikipedia.org/wiki/T-ara "wikilink")[Davichi因為檔期衝突而不能出席](../Page/Davichi.md "wikilink")；[JYP娛樂和](../Page/JYP娛樂.md "wikilink")[Pledis娛樂也表示旗下藝人不能出席](../Page/Pledis娛樂.md "wikilink")；[Cube娛樂則在官方](../Page/Cube娛樂.md "wikilink")[Twitter上說明旗下藝人無法出席](../Page/Twitter.md "wikilink")\[21\]；而[CNBLUE所屬公司](../Page/CNBLUE.md "wikilink")[FNC娛樂發表正式聲明表示儘管被提名](../Page/FNC娛樂.md "wikilink")「最佳新秀」、「最佳樂隊表演」和「新羅免稅店亞洲新浪潮」等獎項，[CNBLUE仍因個人活動而無法出席](../Page/CNBLUE.md "wikilink")，原因在於[CNBLUE成員](../Page/CNBLUE.md "wikilink")[鄭容和是](../Page/鄭容和.md "wikilink")[人氣歌謠三位主持之一](../Page/人气歌谣.md "wikilink")，[姜敏赫則要參與即將在](../Page/姜敏赫.md "wikilink")[SBS上映的電視劇拍攝](../Page/SBS_\(韓國\).md "wikilink")。此外，[寶兒雖於本年獲得](../Page/寶兒.md "wikilink")「最佳女歌手獎」，礙於其經紀公司[SM娛樂與主辦方的爭議未出席領獎](../Page/SM娛樂.md "wikilink")，該獎項的片段亦沒有播出；而獲得「最佳新人男組合獎」的[CNBLUE](../Page/CNBLUE.md "wikilink")、「最佳歌唱表演組合獎」的[2AM](../Page/2AM.md "wikilink")、「最佳協作獎」的[趙權](../Page/趙權.md "wikilink")（[2AM](../Page/2AM.md "wikilink")）以及[GaIn](../Page/孙佳人.md "wikilink")（[Brown
-Eyed
-Girls](../Page/Brown_Eyed_Girls.md "wikilink")）之獎項片段均沒有播出，其中[趙權及](../Page/趙權.md "wikilink")[GaIn因出席會議而無法參與](../Page/孙佳人.md "wikilink")。
+2010年，[2AM](../Page/2AM.md "wikilink")、[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")、[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")\[13\] 、[Super Junior](../Page/Super_Junior.md "wikilink")、[4minute](../Page/4minute.md "wikilink")、[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")、[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[Rain](../Page/Rain.md "wikilink")\[14\]\[15\]、[輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")、[寶兒](../Page/寶兒.md "wikilink")、[After School](../Page/After_School.md "wikilink")\[16\]、[孫淡妃](../Page/孫淡妃.md "wikilink")\[17\]、[李孝利](../Page/李孝利.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")\[18\]、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")\[19\]、[G.NA](../Page/G.NA.md "wikilink")、[Davichi](../Page/Davichi.md "wikilink")\[20\]和[Rainbow均獲得提名而沒有出席典禮](https://zh.wikipedia.org/wiki/Rainbow "wikilink")，大多數問題在於需要直播的頒獎典禮與[SBS每週現場直播的音樂節目](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》時間衝突。另外[MBK娛樂](../Page/MBK娛樂.md "wikilink")在聲明中指出[T-ara和](https://zh.wikipedia.org/wiki/T-ara "wikilink")[Davichi](../Page/Davichi.md "wikilink")因為檔期衝突而不能出席；[JYP娛樂](../Page/JYP娛樂.md "wikilink")和[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")也表示旗下藝人不能出席；[Cube娛樂](../Page/Cube娛樂.md "wikilink")則在官方[Twitter](../Page/Twitter.md "wikilink")上說明旗下藝人無法出席\[21\]；而[CNBLUE](../Page/CNBLUE.md "wikilink")所屬公司[FNC娛樂](../Page/FNC娛樂.md "wikilink")發表正式聲明表示儘管被提名「最佳新秀」、「最佳樂隊表演」和「新羅免稅店亞洲新浪潮」等獎項，[CNBLUE](../Page/CNBLUE.md "wikilink")仍因個人活動而無法出席，原因在於[CNBLUE](../Page/CNBLUE.md "wikilink")成員[鄭容和](../Page/鄭容和.md "wikilink")是[人氣歌謠三位主持之一](../Page/人气歌谣.md "wikilink")，[姜敏赫](../Page/姜敏赫.md "wikilink")則要參與即將在[SBS上映的電視劇拍攝](../Page/SBS_\(韓國\).md "wikilink")。此外，[寶兒](../Page/寶兒.md "wikilink")雖於本年獲得「最佳女歌手獎」，礙於其經紀公司[SM娛樂](../Page/SM娛樂.md "wikilink")與主辦方的爭議未出席領獎，該獎項的片段亦沒有播出；而獲得「最佳新人男組合獎」的[CNBLUE](../Page/CNBLUE.md "wikilink")、「最佳歌唱表演組合獎」的[2AM](../Page/2AM.md "wikilink")、「最佳協作獎」的[趙權](../Page/趙權.md "wikilink")（[2AM](../Page/2AM.md "wikilink")）以及[GaIn](../Page/孙佳人.md "wikilink")（[Brown Eyed Girls](../Page/Brown_Eyed_Girls.md "wikilink")）之獎項片段均沒有播出，其中[趙權](../Page/趙權.md "wikilink")及[GaIn因出席會議而無法參與](../Page/孙佳人.md "wikilink")。
 
-2015年，[FNC娛樂旗下樂團](../Page/FNC娛樂.md "wikilink")[CNBLUE原為第一批出席名單之中](../Page/CNBLUE.md "wikilink")，但隨後[FNC娛樂發表正式聲明表示旗下所有藝人均不會出席](../Page/FNC娛樂.md "wikilink")。\[22\]
+2015年，[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下樂團[CNBLUE](../Page/CNBLUE.md "wikilink")原為第一批出席名單之中，但隨後[FNC娛樂](../Page/FNC娛樂.md "wikilink")發表正式聲明表示旗下所有藝人均不會出席。\[22\]
 
-2016年，[YG娛樂旗下所有藝人以檔期問題為由婉拒出席](../Page/YG娛樂.md "wikilink")。
+2016年，[YG娛樂](../Page/YG娛樂.md "wikilink")旗下所有藝人以檔期問題為由婉拒出席。
 
 ## 歷屆得獎名單
 
@@ -903,8 +876,7 @@ Girls](../Page/Brown_Eyed_Girls.md "wikilink")）之獎項片段均沒有播出�
 
 #### 饒舌/嘻哈
 
-1999至2009年，此獎項名稱為「Best Hip Hop Award」。2010年開始，此獎項更名為「Best Rap
-Performance」。
+1999至2009年，此獎項名稱為「Best Hip Hop Award」。2010年開始，此獎項更名為「Best Rap Performance」。
 
 | 屆數 | 年份    | 藝人                                                                      | 歌曲                                                                |
 | -- | ----- | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -1732,7 +1704,7 @@ Marion Jola<small>（印尼）</small><br />
 </tr>
 <tr class="even">
 <td><p>風格獎</p></td>
-<td><p>Yang Seung Ho（<a href="../Page/2NE1.md" title="wikilink">2NE1的造型師</a>）</p></td>
+<td><p>Yang Seung Ho（<a href="../Page/2NE1.md" title="wikilink">2NE1</a>的造型師）</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1787,7 +1759,7 @@ Marion Jola<small>（印尼）</small><br />
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>最佳<a href="../Page/LINE.md" title="wikilink">LINE人氣獎</a></p></td>
+<td><p>最佳<a href="../Page/LINE.md" title="wikilink">LINE</a>人氣獎</p></td>
 <td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a></p></td>
 <td><p>-</p></td>
 <td></td>
@@ -2092,7 +2064,7 @@ Vit Suthithavi<small>（泰國）</small></p></td>
 <td><p>Worldwide Fan's Choice top10</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a><br />
 <a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a><br />
-<a href="../Page/NCT.md" title="wikilink">NCT127</a><br />
+<a href="../Page/NCT.md" title="wikilink">NCT</a>127<br />
 <a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a><br />
 <a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a><br />
 <a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a><br />
@@ -2254,9 +2226,7 @@ Vit Suthithavi<small>（泰國）</small></p></td>
   -
   -
   -
-[Category:韓國音樂獎項](https://zh.wikipedia.org/wiki/Category:韓國音樂獎項 "wikilink")
-[Category:1999年建立的奖项](https://zh.wikipedia.org/wiki/Category:1999年建立的奖项 "wikilink")
-[Category:Mnet亞洲音樂大獎](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎 "wikilink")
+[Category:韓國音樂獎項](https://zh.wikipedia.org/wiki/Category:韓國音樂獎項 "wikilink") [Category:1999年建立的奖项](https://zh.wikipedia.org/wiki/Category:1999年建立的奖项 "wikilink") [Category:Mnet亞洲音樂大獎](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎 "wikilink")
 
 1.
 
@@ -2294,9 +2264,7 @@ Vit Suthithavi<small>（泰國）</small></p></td>
 
 19.
 20.
-21. [Status
-    post, 2010-11-14.](http://twitter.com/CUBEENTOFFICIAL/status/4029353448968192)
-    *CUBEENTOFFICIAL.* Retrieved 2010-01-03.
+21. [Status post, 2010-11-14.](http://twitter.com/CUBEENTOFFICIAL/status/4029353448968192) *CUBEENTOFFICIAL.* Retrieved 2010-01-03.
 
 22.
 

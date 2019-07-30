@@ -1,20 +1,14 @@
-《**邱比特的惡作劇II 樱桃症候群**》（）、[日本漫画](../Page/日本漫画.md "wikilink")作品。
-作者[北崎拓](../Page/北崎拓.md "wikilink")。 周刊YOUNG SUNDAY
-连载。2009年5月号连载结束。
+《**邱比特的惡作劇II 樱桃症候群**》（）、[日本漫画](../Page/日本漫画.md "wikilink")作品。 作者[北崎拓](../Page/北崎拓.md "wikilink")。 周刊YOUNG SUNDAY 连载。2009年5月号连载结束。
 
 ## 故事簡介
 
-在化妝品公司工作的營業員阿川宗則，由于長期在女性為主導的環境下工作，產生了對女性的負面情緒，在這種情況下，阿川遇到了自稱為天海玲菜的少女。
-少女提出了與他接吻的要求。
-因為這突如其來的邂逅，阿川發生了些許的改變，對下屬的態度更加積極，亦向暗中思慕的女上司麻生沙也子表露了自己的感情。
-阿川的人生從此開始改變。
+在化妝品公司工作的營業員阿川宗則，由于長期在女性為主導的環境下工作，產生了對女性的負面情緒，在這種情況下，阿川遇到了自稱為天海玲菜的少女。 少女提出了與他接吻的要求。 因為這突如其來的邂逅，阿川發生了些許的改變，對下屬的態度更加積極，亦向暗中思慕的女上司麻生沙也子表露了自己的感情。 阿川的人生從此開始改變。
 
 ## 主要人物
 
   - 阿川宗則（あがわ むねのり）
 
-本作的男主角，化妝品公司"Lèvre"的營業員。唾液中含有特別的ACS酵素，能夠抑制天海玲菜的特殊病癥"進行性減齢症候群（Progressive
-Rejuvenation Syndrome）"。
+本作的男主角，化妝品公司"Lèvre"的營業員。唾液中含有特別的ACS酵素，能夠抑制天海玲菜的特殊病癥"進行性減齢症候群（Progressive Rejuvenation Syndrome）"。
 
   - 麻生沙也子（あそう さやこ）
 
@@ -22,9 +16,7 @@ Rejuvenation Syndrome）"。
 
   - 天海玲菜（あまみ れな）
 
-兩位女主角之一。邦城大学第一文学部日本文学専修国際研究会一年級。19歲,患有身體特性會退回到更年幼時期的特殊病癥"進行性減齢症候群（Progressive
-Rejuvenation Syndrome）"。 與男主角阿川相遇的時候是14-15歲的外貌，曾一度退回到小學高年級左右的身體外貌。
-之后因為阿川的幫助開始恢復到少女時期。
+兩位女主角之一。邦城大学第一文学部日本文学専修国際研究会一年級。19歲,患有身體特性會退回到更年幼時期的特殊病癥"進行性減齢症候群（Progressive Rejuvenation Syndrome）"。 與男主角阿川相遇的時候是14-15歲的外貌，曾一度退回到小學高年級左右的身體外貌。 之后因為阿川的幫助開始恢復到少女時期。
 
   - 加瀨榮子
 
@@ -46,7 +38,4 @@ Rejuvenation Syndrome）"。 與男主角阿川相遇的時候是14-15歲的外�
 
   - [クピドの裏側（出張版）](http://takukitazaki.blog109.fc2.com/)（作者作品相關BLOG）
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:週刊Young_Sunday](https://zh.wikipedia.org/wiki/Category:週刊Young_Sunday "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:週刊Young_Sunday](https://zh.wikipedia.org/wiki/Category:週刊Young_Sunday "wikilink")

@@ -1,4 +1,4 @@
-《**YoYo點點名**》是[東森幼幼台的](../Page/東森幼幼台.md "wikilink")[兒童電視節目](https://zh.wikipedia.org/wiki/兒童電視節目 "wikilink")，內容以[帶動唱為主](../Page/帶動唱.md "wikilink")，曾入圍[2015年電視金鐘獎的](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")[最佳兒童少年節目獎](../Page/金鐘獎兒童少年節目獎得獎列表.md "wikilink")\[1\]。
+《**YoYo點點名**》是[東森幼幼台](../Page/東森幼幼台.md "wikilink")的[兒童電視節目](https://zh.wikipedia.org/wiki/兒童電視節目 "wikilink")，內容以[帶動唱](../Page/帶動唱.md "wikilink")為主，曾入圍[2015年電視金鐘獎的](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")[最佳兒童少年節目獎](../Page/金鐘獎兒童少年節目獎得獎列表.md "wikilink")\[1\]。
 
 ## 主持人
 
@@ -32,7 +32,7 @@
   - [彩虹姐姐](https://zh.wikipedia.org/wiki/彩虹姐姐 "wikilink")
   - [黑皮哥哥](https://zh.wikipedia.org/wiki/黑皮哥哥 "wikilink")
   - [雲朵姐姐](https://zh.wikipedia.org/wiki/雲朵姐姐 "wikilink")
-  - [橘子姐姐(第二代)](../Page/橘子姐姐.md "wikilink")
+  - [橘子姐姐](../Page/橘子姐姐.md "wikilink")(第二代)
   - [櫻桃姐姐](../Page/櫻桃姐姐.md "wikilink")
   - [-{杰}-希哥哥](../Page/李博翔.md "wikilink")
 
@@ -144,9 +144,7 @@
 
 ### 電視金鐘獎
 
-|- |2015年 |
-|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")[最佳兒童少年節目獎](../Page/金鐘獎兒童少年節目獎得獎列表.md "wikilink")
-| |}
+|- |2015年 | |[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")[最佳兒童少年節目獎](../Page/金鐘獎兒童少年節目獎得獎列表.md "wikilink") | |}
 
 ## 參考資料
 
@@ -184,7 +182,6 @@
   -
   -
   -
-[Category:東森電視節目](https://zh.wikipedia.org/wiki/Category:東森電視節目 "wikilink")
-[Category:臺灣兒童電視節目](https://zh.wikipedia.org/wiki/Category:臺灣兒童電視節目 "wikilink")
+[Category:東森電視節目](https://zh.wikipedia.org/wiki/Category:東森電視節目 "wikilink") [Category:臺灣兒童電視節目](https://zh.wikipedia.org/wiki/Category:臺灣兒童電視節目 "wikilink")
 
 1.  [YOYO台哥姐快閃街頭賣藝現身 小朋友瘋狂追星](http://archive.is/IfT3a)

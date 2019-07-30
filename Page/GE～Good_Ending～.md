@@ -1,5 +1,4 @@
-《**GE～Good
-Ending～**》是由[流石景所創作](../Page/流石景.md "wikilink")，關於[校園戀愛的日本漫畫作品](https://zh.wikipedia.org/wiki/校園戀愛 "wikilink")。《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）2009年19號刊載，於同年38號正式開始連載。台版譯名為《**～ＧＥ～戀愛成就**》，由[東立出版社在](../Page/東立出版社.md "wikilink")《[新少年快報](../Page/新少年快報.md "wikilink")》2011年第７期開始連載。
+《**GE～Good Ending～**》是由[流石景](../Page/流石景.md "wikilink")所創作，關於[校園戀愛的日本漫畫作品](https://zh.wikipedia.org/wiki/校園戀愛 "wikilink")。《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）2009年19號刊載，於同年38號正式開始連載。台版譯名為《**～ＧＥ～戀愛成就**》，由[東立出版社](../Page/東立出版社.md "wikilink")在《[新少年快報](../Page/新少年快報.md "wikilink")》2011年第７期開始連載。
 
 ## 故事概要
 
@@ -143,11 +142,4 @@ Ending～**》是由[流石景所創作](../Page/流石景.md "wikilink")，關�
 
   - [作品介紹](https://web.archive.org/web/20100411021339/http://kc.kodansha.co.jp/content/top.php/02065/1000004886)
 
-
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")

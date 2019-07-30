@@ -1,5 +1,4 @@
-《**PRECIOUS
-ONE**》（）是[茅原實里](../Page/茅原實里.md "wikilink")再次舉辦歌手活動後的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[Lantis](../Page/Lantis.md "wikilink")和SONY音樂於2009年12月23日發行。
+《**PRECIOUS ONE**》（）是[茅原實里](../Page/茅原實里.md "wikilink")再次舉辦歌手活動後的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[Lantis](../Page/Lantis.md "wikilink")和SONY音樂於2009年12月23日發行。
 
 ## 收錄曲
 
@@ -19,13 +18,10 @@ ONE**》（）是[茅原實里](../Page/茅原實里.md "wikilink")再次舉辦�
 
 ## 外部連結
 
-  - [PRECIOUS
-    ONE](http://www.lantis.jp/new-release/data.php?id=be65d40fbc19dd0fce3597795842d9bb)
+  - [PRECIOUS ONE](http://www.lantis.jp/new-release/data.php?id=be65d40fbc19dd0fce3597795842d9bb)
   - [特設ページ](http://www.lantis.jp/special/chihara/precious_one/)
   - [“みのりん”こと茅原実里の新曲は冬にぴったりな珠玉のラヴソング！](http://headlines.yahoo.co.jp/hl?a=20091218-00000002-lisn-musi)
 
 ## 參考資料
 
-[Category:茅原實里單曲](https://zh.wikipedia.org/wiki/Category:茅原實里單曲 "wikilink")
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:兒玉沙織製作的樂曲](https://zh.wikipedia.org/wiki/Category:兒玉沙織製作的樂曲 "wikilink")
+[Category:茅原實里單曲](https://zh.wikipedia.org/wiki/Category:茅原實里單曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:兒玉沙織製作的樂曲](https://zh.wikipedia.org/wiki/Category:兒玉沙織製作的樂曲 "wikilink")

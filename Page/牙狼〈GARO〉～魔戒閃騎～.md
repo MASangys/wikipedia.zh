@@ -1,4 +1,4 @@
-《**牙狼＜GARO＞～魔戒閃騎～**》（原題：牙狼＜GARO＞～MAKAISENKI～），是[日本特摄剧集](../Page/日本.md "wikilink")《牙狼〈GARO〉》的续篇作品。於2011年10月6日至2012年3月22日期間在[東京電視台聯播網的深夜時段播出](../Page/東京電視台.md "wikilink")，全24集，另有一集精華篇。
+《**牙狼＜GARO＞～魔戒閃騎～**》（原題：牙狼＜GARO＞～MAKAISENKI～），是[日本](../Page/日本.md "wikilink")特摄剧集《牙狼〈GARO〉》的续篇作品。於2011年10月6日至2012年3月22日期間在[東京電視台](../Page/東京電視台.md "wikilink")聯播網的深夜時段播出，全24集，另有一集精華篇。
 
 ## 概要
 
@@ -16,7 +16,7 @@
 
 ## 登場人物
 
-  - **冴島鋼牙**（[小西遼生飾](../Page/小西遼生.md "wikilink")、童年︰澤畠流星飾）
+  - **冴島鋼牙**（[小西遼生](../Page/小西遼生.md "wikilink")飾、童年︰澤畠流星飾）
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - **御月薰**（[肘井美佳飾](../Page/肘井美佳.md "wikilink")）
+  - **御月薰**（[肘井美佳](../Page/肘井美佳.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -120,7 +120,7 @@
 
 <!-- end list -->
 
-  - **四十萬渡**（[松田賢二飾](../Page/松田賢二.md "wikilink")）
+  - **四十萬渡**（[松田賢二](../Page/松田賢二.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -168,16 +168,14 @@
   - 製片：沖元良、夏井佳奈子、比嘉一郎
   - 編劇：[江良至](https://zh.wikipedia.org/wiki/江良至 "wikilink")、[井上敏樹](../Page/井上敏樹.md "wikilink")、[小林靖子](../Page/小林靖子.md "wikilink")、[藤平久子](https://zh.wikipedia.org/wiki/藤平久子 "wikilink")、[小林雄次](https://zh.wikipedia.org/wiki/小林雄次 "wikilink")、[田口恵](https://zh.wikipedia.org/wiki/田口恵 "wikilink")、[横山誠](https://zh.wikipedia.org/wiki/横山誠 "wikilink")、雨宮慶太
   - 設定：田口恵
-  - 武術指導：横山誠（AAC
-    STUNTS）、[大橋明](https://zh.wikipedia.org/wiki/大橋明 "wikilink")
+  - 武術指導：横山誠（AAC STUNTS）、[大橋明](https://zh.wikipedia.org/wiki/大橋明 "wikilink")
   - 特效製作／電腦動畫：OMNIBUS JAPAN
   - 音樂製作人：[井上俊次](https://zh.wikipedia.org/wiki/井上俊次 "wikilink")
   - 音樂：[栗山善親](https://zh.wikipedia.org/wiki/栗山善親 "wikilink")、[寺田志保](https://zh.wikipedia.org/wiki/寺田志保 "wikilink")
   - 導演：雨宮慶太、横山誠、[金田龍](https://zh.wikipedia.org/wiki/金田龍 "wikilink")、[小坂一順](https://zh.wikipedia.org/wiki/小坂一順 "wikilink")
   - 第二組導演：[坂本浩一](../Page/坂本浩一.md "wikilink")（第2集）
   - 協力：
-  - 攝製：[東北新社](https://zh.wikipedia.org/wiki/東北新社 "wikilink")、OMNIBUS
-    JAPAN
+  - 攝製：[東北新社](https://zh.wikipedia.org/wiki/東北新社 "wikilink")、OMNIBUS JAPAN
   - 製作：東北新社
 
 ## 各集資料
@@ -431,8 +429,7 @@
 
 ### 片頭曲
 
-  - **『GARO -MAKAI SENKI- with [JAM
-    Project](../Page/JAM_Project.md "wikilink")』**（第1～7集、第9～12集）
+  - **『GARO -MAKAI SENKI- with [JAM Project](../Page/JAM_Project.md "wikilink")』**（第1～7集、第9～12集）
 
 <!-- end list -->
 
@@ -450,9 +447,7 @@
     作詞：影山浩宣
     作曲：影山浩宣、Ricardo Cruz
     編曲：須藤賢一
-    主唱：JAM
-    Project（影山浩宣、[遠藤正明](../Page/遠藤正明.md "wikilink")、[北谷洋](../Page/北谷洋.md "wikilink")、[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")、[福山芳樹](../Page/福山芳樹.md "wikilink")、Ricardo
-    Cruz）
+    主唱：JAM Project（影山浩宣、[遠藤正明](../Page/遠藤正明.md "wikilink")、[北谷洋](../Page/北谷洋.md "wikilink")、[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")、[福山芳樹](../Page/福山芳樹.md "wikilink")、Ricardo Cruz）
 
 ### 片尾曲
 
@@ -481,7 +476,6 @@
 
   - [東京電視台《牙狼〈GARO〉～魔戒閃騎～》節目情報網頁](http://www.tv-tokyo.co.jp/anime/garo-makaisenki/)
 
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink")
-[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
 
 1.  漢字名稱出自「」中。

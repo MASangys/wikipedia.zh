@@ -1,5 +1,4 @@
-**WASP-12**是一顆距離約600[光年](../Page/光年.md "wikilink")，位於[御夫座](../Page/御夫座.md "wikilink")，[視星等](https://zh.wikipedia.org/wiki/視星等 "wikilink")
-11等的[黃矮星](https://zh.wikipedia.org/wiki/黃矮星 "wikilink")\[1\]，它的[質量和](https://zh.wikipedia.org/wiki/質量 "wikilink")[半徑都予](https://zh.wikipedia.org/wiki/半徑 "wikilink")[太陽相似](https://zh.wikipedia.org/wiki/太陽 "wikilink")。
+**WASP-12**是一顆距離約600[光年](../Page/光年.md "wikilink")，位於[御夫座](../Page/御夫座.md "wikilink")，[視星等](https://zh.wikipedia.org/wiki/視星等 "wikilink") 11等的[黃矮星](https://zh.wikipedia.org/wiki/黃矮星 "wikilink")\[1\]，它的[質量和](https://zh.wikipedia.org/wiki/質量 "wikilink")[半徑都予](https://zh.wikipedia.org/wiki/半徑 "wikilink")[太陽相似](https://zh.wikipedia.org/wiki/太陽 "wikilink")。
 
 ## 行星系統
 
@@ -19,9 +18,7 @@
 ## 外部連結
 
   -
-[Category:御夫座](https://zh.wikipedia.org/wiki/Category:御夫座 "wikilink")
-[Category:G-型主序星](https://zh.wikipedia.org/wiki/Category:G-型主序星 "wikilink")
-[Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink")
+[Category:御夫座](https://zh.wikipedia.org/wiki/Category:御夫座 "wikilink") [Category:G-型主序星](https://zh.wikipedia.org/wiki/Category:G-型主序星 "wikilink") [Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink")
 
 1.
 2.

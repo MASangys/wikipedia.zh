@@ -41,9 +41,7 @@ customizeToolbar( function() {
 `                       action: {`
 `                           type: 'encapsulate',`
 `                           options: {`
-`                               pre: '\n==参见==\n* `[`',``
- ``periMsg:``   ``'参见地址',``   ``post:``
- ``'`](https://zh.wikipedia.org/wiki/',_periMsg:_'参见地址',_post:_' "wikilink")`\n'`
+`                               pre: '\n==参见==\n* `[`',``   ``periMsg:``   ``'参见地址',``   ``post:``   ``'`](https://zh.wikipedia.org/wiki/',_periMsg:_'参见地址',_post:_' "wikilink")`\n'`
 `                           }`
 `                       }`
 `                   },`

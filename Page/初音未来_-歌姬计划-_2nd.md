@@ -1,6 +1,4 @@
-《**初音未来 -歌姬计划-
-2nd**》（，）是一款由世嘉开发的[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")，预计发售日为2010年7月29日。本游戏为《[初音未来
--歌姬计划-](../Page/初音未来_-歌姬计划-.md "wikilink")》的续作。本作继承了前作简单的游戏和乐曲编辑操作，加强了编曲功能和变装功能，增加了新按法“长按”和“同时按”，并可以继承前作的存档。镜音等角色也会在本作中出现。\[1\]\[2\]
+《**初音未来 -歌姬计划- 2nd**》（，）是一款由世嘉开发的[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")，预计发售日为2010年7月29日。本游戏为《[初音未来 -歌姬计划-](../Page/初音未来_-歌姬计划-.md "wikilink")》的续作。本作继承了前作简单的游戏和乐曲编辑操作，加强了编曲功能和变装功能，增加了新按法“长按”和“同时按”，并可以继承前作的存档。镜音等角色也会在本作中出现。\[1\]\[2\]
 
 ## 新增内容
 
@@ -589,8 +587,7 @@ iroha（sasaki）</p></td>
       - 角色模組「初音ミク・アペンド」（2010年8月31日推出）
   - 歌曲：「初音ミクの消失」（cosMo＠暴走P）；主唱：初音未來（2010年9月30日推出）（舊有歌曲，移植至街機時重製PV，再從街機將重製之新PV移植過來）
   - 歌曲：「StargazeR」（骨盤P）；主唱：初音未來（2010年9月30日推出）（移植自街機版）
-  - [偶像大師合作套件](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")
-    1（2010年10月28日推出）
+  - [偶像大師合作套件](https://zh.wikipedia.org/wiki/偶像大師 "wikilink") 1（2010年10月28日推出）
       - 歌曲：「GO MY WAY\!\!」；主唱：初音未來
       - 角色模組「初音未來 春香風格」
       - 房間主題「765 製作」
@@ -607,8 +604,7 @@ iroha（sasaki）</p></td>
       - 房間道具（地板）「MEIKO 生日蛋糕」
       - 房間道具（櫃）「iCUP 飲料」
   - 聖誕節
-      - 角色模組「初音未來 クリスマス」、「鏡音鈴 クリスマス」、「鏡音連 クリスマス」、「巡音流歌 クリスマス」、「KAITO
-        クリスマス」、「MEIKO クリスマス」（2010年11月30日推出）
+      - 角色模組「初音未來 クリスマス」、「鏡音鈴 クリスマス」、「鏡音連 クリスマス」、「巡音流歌 クリスマス」、「KAITO クリスマス」、「MEIKO クリスマス」（2010年11月30日推出）
       - 歌曲：「金の聖夜霜雪に朽ちて」；主唱：初音未來（2010年12月22日推出）（舊有歌曲，移植至街機時重製PV，再從街機將重製之新PV移植過來）
   - 歌曲：「右肩の蝶 -39's Giving Day Edition-」；主唱：鏡音連（2010年12月22日推出）
   - 虛擬歌手軟體「鏡音リン・レン」發售3週年記念（2010年12月22日推出）
@@ -637,12 +633,7 @@ iroha（sasaki）</p></td>
 
 ## 初音未来 -歌姬计划- 梦想剧场 2nd
 
-《**初音未来 -歌姬计划- 夢幻劇院
-2nd**》（暫名，）是一款由[世嘉開發的](../Page/世嘉.md "wikilink")[PlayStation
-3](../Page/PlayStation_3.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")，發售日為2011年8月4日。為配合[PlayStation
-Portable遊戲](../Page/PlayStation_Portable.md "wikilink")《[初音未來 -歌姬计划-
-2nd](https://zh.wikipedia.org/wiki/初音未來_-歌姬计划-_2nd "wikilink")》的軟體。透過
-USB 連接線連接 PS3 與裝有《初音ミク -Project DIVA- 2nd》遊戲的 PSP，就可以在PS3上玩經翻新重製的高解析度畫面。
+《**初音未来 -歌姬计划- 夢幻劇院 2nd**》（暫名，）是一款由[世嘉](../Page/世嘉.md "wikilink")開發的[PlayStation 3](../Page/PlayStation_3.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")，發售日為2011年8月4日。為配合[PlayStation Portable遊戲](../Page/PlayStation_Portable.md "wikilink")《[初音未來 -歌姬计划- 2nd](https://zh.wikipedia.org/wiki/初音未來_-歌姬计划-_2nd "wikilink")》的軟體。透過 USB 連接線連接 PS3 與裝有《初音ミク -Project DIVA- 2nd》遊戲的 PSP，就可以在PS3上玩經翻新重製的高解析度畫面。
 
   -
     收錄PSP版既有的樂曲以及角色模組
@@ -665,12 +656,7 @@ USB 連接線連接 PS3 與裝有《初音ミク -Project DIVA- 2nd》遊戲的 
   - [《初音未来：歌姬计划2》官方网站](http://miku.sega.jp/)
   - [《初音未来 -歌姬计划- 夢幻劇院 2nd》官方網站](http://miku.sega.jp/dt2/)
 
-[Category:初音未来_-歌姬计划-_系列](https://zh.wikipedia.org/wiki/Category:初音未来_-歌姬计划-_系列 "wikilink")
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink")
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
+[Category:初音未来_-歌姬计划-_系列](https://zh.wikipedia.org/wiki/Category:初音未来_-歌姬计划-_系列 "wikilink") [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink") [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
 
 1.
 2.

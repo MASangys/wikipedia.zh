@@ -1,6 +1,4 @@
-**Live with Walkman**是[Sony
-Ericsson旗下一部音樂智能手機](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")，發售於2011年9月。搭載[Android](../Page/Android.md "wikilink")2.3，可升級至Ice
-Cream Sandwich，內建Walkman及xLOUD™，擁有立體聲左右環迴雙喇叭及音樂節奏燈。
+**Live with Walkman**是[Sony Ericsson旗下一部音樂智能手機](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")，發售於2011年9月。搭載[Android](../Page/Android.md "wikilink")2.3，可升級至Ice Cream Sandwich，內建Walkman及xLOUD™，擁有立體聲左右環迴雙喇叭及音樂節奏燈。
 
 ## 主要規格
 
@@ -14,8 +12,7 @@ Cream Sandwich，內建Walkman及xLOUD™，擁有立體聲左右環迴雙喇叭
 ## 使用系統
 
   - 制式：GSM四頻/WCDMA/HSDPA
-  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Android
-    2.3，已提供Android 4.0（Ice Cream Sandwich）的軟件升級。
+  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Android 2.3，已提供Android 4.0（Ice Cream Sandwich）的軟件升級。
   - CPU：Qualcomm 8255 1GHz
 
 ## 數位功能
@@ -37,7 +34,4 @@ Cream Sandwich，內建Walkman及xLOUD™，擁有立體聲左右環迴雙喇叭
   - [GPS全球定位系統](https://zh.wikipedia.org/wiki/GPS "wikilink")、[AGPS全球衞星輔助定位系統](https://zh.wikipedia.org/wiki/AGPS "wikilink")
   - Email 收發 (POP3、IMAP4、SMTP ) (支援 Push Mail)
 
-[Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink")
-[Category:触控手机](https://zh.wikipedia.org/wiki/Category:触控手机 "wikilink")
-[Category:索尼愛立信手機](https://zh.wikipedia.org/wiki/Category:索尼愛立信手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
+[Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink") [Category:触控手机](https://zh.wikipedia.org/wiki/Category:触控手机 "wikilink") [Category:索尼愛立信手機](https://zh.wikipedia.org/wiki/Category:索尼愛立信手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")

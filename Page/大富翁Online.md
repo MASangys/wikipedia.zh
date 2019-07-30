@@ -61,19 +61,14 @@
 
   - [大富翁online中國大陸](https://web.archive.org/web/20130630145131/http://www.richman9.com/)
 
-[Category:大富翁系列](https://zh.wikipedia.org/wiki/Category:大富翁系列 "wikilink")
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:多人在線遊戲](https://zh.wikipedia.org/wiki/Category:多人在線遊戲 "wikilink")
-[Category:久游网游戏](https://zh.wikipedia.org/wiki/Category:久游网游戏 "wikilink")
+[Category:大富翁系列](https://zh.wikipedia.org/wiki/Category:大富翁系列 "wikilink") [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:多人在線遊戲](https://zh.wikipedia.org/wiki/Category:多人在線遊戲 "wikilink") [Category:久游网游戏](https://zh.wikipedia.org/wiki/Category:久游网游戏 "wikilink")
 
 1.  [1](http://gamenews.9you.com/html/art_rich/2008_03/19/6DNXLZ4CPT.html)
 2.  [《大富翁Online》終止營運公告](http://km.softstar.com.tw/news.aspx?no=5349)
 3.  [2](http://gamenews.9you.com/html/art_rich/2008_04/28/RDZD4L8EP9.html)
 4.  [3](http://gamenews.9you.com/html/art_rich/2008_06/03/JCE7BPPH27.html)
 5.  [4](http://www.softstar.com.tw/About/about_03.aspx) 见下方的海外授权分布图。
-6.  [5](http://www.aeriagames.com/games)
-    在Aeriagames的游戏列表上现已看不到大富翁Online。
+6.  [5](http://www.aeriagames.com/games) 在Aeriagames的游戏列表上现已看不到大富翁Online。
 7.  [《大富翁》停止运营公告](http://gamenews.9you.com/html/art_rich/2011_02/28/K24XP7FW3M.html)
 8.  [6](http://gnn.gamer.com.tw/1/43691.html) 见首段。
 9.

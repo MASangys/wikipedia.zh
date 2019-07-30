@@ -1,17 +1,12 @@
-**CC-Link**是一個開放式架構的工業[現場總線協定](../Page/現場總線.md "wikilink")，允許不同廠商的設備依此協定進行通訊。主要用在製造產業中的機器控制或[程序控制中](https://zh.wikipedia.org/wiki/程序控制 "wikilink")，也使用在設備管理及[智能建築系統中](https://zh.wikipedia.org/wiki/智能建築 "wikilink")。
+**CC-Link**是一個開放式架構的工業[現場總線](../Page/現場總線.md "wikilink")協定，允許不同廠商的設備依此協定進行通訊。主要用在製造產業中的機器控制或[程序控制中](https://zh.wikipedia.org/wiki/程序控制 "wikilink")，也使用在設備管理及[智能建築系統中](https://zh.wikipedia.org/wiki/智能建築 "wikilink")。
 
-CC-Link是Control & Communication
-Link的簡稱\[1\]，目前有CC-Link、CC-Link/LT、CC-Link
-V2.0、CC-Link
-Safety等4種專用的[通訊協定](https://zh.wikipedia.org/wiki/通訊協定 "wikilink")\[2\]。也有對應[工業乙太網的版本CC](https://zh.wikipedia.org/wiki/工業乙太網 "wikilink")-Link
-IE\[3\]。
+CC-Link是Control & Communication Link的簡稱\[1\]，目前有CC-Link、CC-Link/LT、CC-Link V2.0、CC-Link Safety等4種專用的[通訊協定](https://zh.wikipedia.org/wiki/通訊協定 "wikilink")\[2\]。也有對應[工業乙太網的版本CC](https://zh.wikipedia.org/wiki/工業乙太網 "wikilink")-Link IE\[3\]。
 
 ## 歷史及演進
 
-在1996年11月以[三菱電機為主導的幾家公司推出了CC](https://zh.wikipedia.org/wiki/三菱電機 "wikilink")-Link\[4\]，是開放式架構的現場總線協定。在2000年三菱電機釋出了通訊協定的規範，因此CC-Link成為開放式的現場總線協定，同年也成立非盈利組織CLPA（CC-Link
-Partner Association）管理及監督CC-Link的網路技術並且提供技術協助。
+在1996年11月以[三菱電機為主導的幾家公司推出了CC](https://zh.wikipedia.org/wiki/三菱電機 "wikilink")-Link\[4\]，是開放式架構的現場總線協定。在2000年三菱電機釋出了通訊協定的規範，因此CC-Link成為開放式的現場總線協定，同年也成立非盈利組織CLPA（CC-Link Partner Association）管理及監督CC-Link的網路技術並且提供技術協助。
 
-CC-Link相容的產品包括[工業電腦](https://zh.wikipedia.org/wiki/工業電腦 "wikilink")、[可程式控制器](https://zh.wikipedia.org/wiki/可程式控制器 "wikilink")、[機械人](https://zh.wikipedia.org/wiki/機械人 "wikilink")、[伺服驅動器](https://zh.wikipedia.org/wiki/伺服驅動器 "wikilink")、[變頻器](https://zh.wikipedia.org/wiki/變頻器 "wikilink")、[液壓閥](https://zh.wikipedia.org/wiki/液壓閥 "wikilink")、[類比或](../Page/類比.md "wikilink")[數位輸入輸出模組](https://zh.wikipedia.org/wiki/數位 "wikilink")、[溫度控制器及](https://zh.wikipedia.org/wiki/溫度控制器 "wikilink")[流量控制器等](https://zh.wikipedia.org/wiki/流量控制器 "wikilink")。2009年8月時，CLPA的成員已超過1000個，和CC-Link相容的產品也已超過1000種\[5\]。2010年12月時，CC-Link網路上的設備已經超過7百萬個\[6\]。
+CC-Link相容的產品包括[工業電腦](https://zh.wikipedia.org/wiki/工業電腦 "wikilink")、[可程式控制器](https://zh.wikipedia.org/wiki/可程式控制器 "wikilink")、[機械人](https://zh.wikipedia.org/wiki/機械人 "wikilink")、[伺服驅動器](https://zh.wikipedia.org/wiki/伺服驅動器 "wikilink")、[變頻器](https://zh.wikipedia.org/wiki/變頻器 "wikilink")、[液壓閥](https://zh.wikipedia.org/wiki/液壓閥 "wikilink")、[類比](../Page/類比.md "wikilink")或[數位輸入輸出模組](https://zh.wikipedia.org/wiki/數位 "wikilink")、[溫度控制器及](https://zh.wikipedia.org/wiki/溫度控制器 "wikilink")[流量控制器等](https://zh.wikipedia.org/wiki/流量控制器 "wikilink")。2009年8月時，CLPA的成員已超過1000個，和CC-Link相容的產品也已超過1000種\[5\]。2010年12月時，CC-Link網路上的設備已經超過7百萬個\[6\]。
 
 ## 特點
 
@@ -38,9 +33,7 @@ CC-Link：
   - 實體層採用[RS-485](https://zh.wikipedia.org/wiki/RS-485 "wikilink")，無中繼器時網路長度可到1.2公里，若有中繼器時網路長度可到13.2公里。
   - 每個網路可以有64個設備。
   - 更新65個輸入/輸出資料的時間只需3.9[微秒](https://zh.wikipedia.org/wiki/微秒 "wikilink")（更新時間和網路長度有關）。
-  - 主站/從站（Master/Slave）的網路架構，但允許[浮動主站](https://zh.wikipedia.org/wiki/浮動主站 "wikilink")（Floating
-    Master）及設備[熱插拔](https://zh.wikipedia.org/wiki/熱插拔 "wikilink")（hot
-    swap）。
+  - 主站/從站（Master/Slave）的網路架構，但允許[浮動主站](https://zh.wikipedia.org/wiki/浮動主站 "wikilink")（Floating Master）及設備[熱插拔](https://zh.wikipedia.org/wiki/熱插拔 "wikilink")（hot swap）。
 
 CC-Link LT：
 
@@ -679,12 +672,9 @@ CLPA在美國、中國、日本、南韓及德國都有相容性測試測試實�
 
   - [CLPA Europe](http://www.clpa-europe.com)
 
-  - [SEMI E54.12-0701E (Reapproved 1106) - Specification for
-    Sensor/Actuator Network Communications for
-    CC-Link](http://downloads.semi.org/downloads.nsf/standard?openform&did=927F5190B88E0232882574580047F3B1)
+  - [SEMI E54.12-0701E (Reapproved 1106) - Specification for Sensor/Actuator Network Communications for CC-Link](http://downloads.semi.org/downloads.nsf/standard?openform&did=927F5190B88E0232882574580047F3B1)
 
-[Category:自動控制](https://zh.wikipedia.org/wiki/Category:自動控制 "wikilink")
-[Category:工業自動化](https://zh.wikipedia.org/wiki/Category:工業自動化 "wikilink")
+[Category:自動控制](https://zh.wikipedia.org/wiki/Category:自動控制 "wikilink") [Category:工業自動化](https://zh.wikipedia.org/wiki/Category:工業自動化 "wikilink")
 
 1.
 

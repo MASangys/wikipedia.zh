@@ -16,8 +16,7 @@ Google代码搜索可以搜索包括`lang:`、`package:`、`license:`和`file:`�
   - [Autoconf](../Page/Autoconf.md "wikilink")
   - [Automake](../Page/Automake.md "wikilink")
   - [Awk](../Page/AWK.md "wikilink")
-  - [Basic](../Page/BASIC.md "wikilink")/[Visual
-    Basic](../Page/Visual_Basic.md "wikilink")
+  - [Basic](../Page/BASIC.md "wikilink")/[Visual Basic](../Page/Visual_Basic.md "wikilink")
   - [Batch file](https://zh.wikipedia.org/wiki/Batch_file "wikilink")
   - [C](https://zh.wikipedia.org/wiki/C语言 "wikilink")
   - [C++](../Page/C++.md "wikilink")
@@ -28,8 +27,7 @@ Google代码搜索可以搜索包括`lang:`、`package:`、`license:`和`file:`�
 
   - [COBOL](../Page/COBOL.md "wikilink")
   - [ColdFusion](https://zh.wikipedia.org/wiki/ColdFusion "wikilink")
-  - [Configure
-    script](https://zh.wikipedia.org/wiki/Configure_script "wikilink")
+  - [Configure script](https://zh.wikipedia.org/wiki/Configure_script "wikilink")
   - [CSS](https://zh.wikipedia.org/wiki/Cascading_Style_Sheets "wikilink")
   - [D](https://zh.wikipedia.org/wiki/D语言 "wikilink")
   - [Eiffel](../Page/Eiffel.md "wikilink")
@@ -63,8 +61,7 @@ Google代码搜索可以搜索包括`lang:`、`package:`、`license:`和`file:`�
 
   - [Perl](../Page/Perl.md "wikilink")
   - [PHP](../Page/PHP.md "wikilink")
-  - [Plain Old
-    Documentation](https://zh.wikipedia.org/wiki/Plain_Old_Documentation "wikilink")
+  - [Plain Old Documentation](https://zh.wikipedia.org/wiki/Plain_Old_Documentation "wikilink")
   - [Prolog](../Page/Prolog.md "wikilink")
   - [Python](../Page/Python.md "wikilink")
   - [R](../Page/R语言.md "wikilink")
@@ -97,6 +94,5 @@ Google代码搜索可以搜索包括`lang:`、`package:`、`license:`和`file:`�
 
 [Category:已終止的Google服務](https://zh.wikipedia.org/wiki/Category:已終止的Google服務 "wikilink")
 
-1.  [Code Search
-    Shutdown](http://groups.google.com/forum/#!topic/google-code-search/-i4pCMR98Gg)
+1.  [Code Search Shutdown](http://groups.google.com/forum/#!topic/google-code-search/-i4pCMR98Gg)
 2.  <http://www.google.com/codesearch/advanced_code_search?hl=en>

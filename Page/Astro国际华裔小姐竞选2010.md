@@ -148,8 +148,6 @@ SMS我最喜爱佳丽：钟佳恩Tracy（雪兰莪）
 
   - [Astro国际华裔小姐競選網頁](http://www.facebook.com/astro.macip?v=wall)
   - [《Astro國際華裔小姐競選2010》20強名單出爐〔光華日報〕](http://dailynews.sina.com/bg/ent/hktwstar/kwongwah/20101006/00331882378.html)
-  - [Astro國際華裔小姐競選
-    赴一場昆士蘭魅力之旅 10佳麗信心增狀態勇〔中國報新聞網〕](http://www.chinapress.com.my/content_new.asp?dt=2010-11-19&sec=mas&art=1119mc90.txt)
+  - [Astro國際華裔小姐競選 赴一場昆士蘭魅力之旅 10佳麗信心增狀態勇〔中國報新聞網〕](http://www.chinapress.com.my/content_new.asp?dt=2010-11-19&sec=mas&art=1119mc90.txt)
 
-[Category:女性選美活動](https://zh.wikipedia.org/wiki/Category:女性選美活動 "wikilink")
-[Category:华裔选美活动](https://zh.wikipedia.org/wiki/Category:华裔选美活动 "wikilink")
+[Category:女性選美活動](https://zh.wikipedia.org/wiki/Category:女性選美活動 "wikilink") [Category:华裔选美活动](https://zh.wikipedia.org/wiki/Category:华裔选美活动 "wikilink")

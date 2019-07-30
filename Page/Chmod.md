@@ -1,5 +1,4 @@
-**`chmod`**是一条在[Unix系统中用于控制用户对文件的权限的命令](https://zh.wikipedia.org/wiki/Unix "wikilink")（**ch**ange
-**mod**e单词前缀的组合）和函数。只有文件所有者和超级用户可以修改文件或目录的权限。可以使用绝对模式（八进制数字模式），符号模式指定文件的权限。
+**`chmod`**是一条在[Unix系统中用于控制用户对文件的权限的命令](https://zh.wikipedia.org/wiki/Unix "wikilink")（**ch**ange **mod**e单词前缀的组合）和函数。只有文件所有者和超级用户可以修改文件或目录的权限。可以使用绝对模式（八进制数字模式），符号模式指定文件的权限。
 
 ## 用法
 
@@ -39,8 +38,7 @@ x 1
 
 ### 符号模式
 
-使用符号模式可以设置多个项目：who（用户类型），operator（操作符）和permission（权限）,每个项目的设置可以用逗号隔开。
-命令chmod将修改who指定的用户类型对文件的访问权限，用户类型由一个或者多个字母在who的位置来说明,如who的符号模式表所示:
+使用符号模式可以设置多个项目：who（用户类型），operator（操作符）和permission（权限）,每个项目的设置可以用逗号隔开。 命令chmod将修改who指定的用户类型对文件的访问权限，用户类型由一个或者多个字母在who的位置来说明,如who的符号模式表所示:
 
 | who | 用户类型   | 说明              |
 | --- | ------ | --------------- |
@@ -109,7 +107,7 @@ chmod u+x filename 在这里，u的意思是user指用户本人；+的意思是�
 | ` chmod -R u+r,go-r  `*`docs`*             | 对目录docs和其子目录层次结构中的所有文件给用户增加读权限，而对用户组和其他用户删除读权限                                      |
 | ` chmod 664  `*`file`*                     | 对file的所有者和用户组设置读写权限, 为其其他用户设置读权限                                                    |
 | ` chmod 0755  `*`file`*                    | 相当于`u=rwx (4+2+1),go=rx (4+1 & 4+1)`。`0` 没有特殊模式。                                    |
-| ` chmod 4755  `*`file`*                    | `4`设置了设置[用户ID位](../Page/用户ID.md "wikilink")，剩下的相当于 u=rwx (4+2+1),go=rx (4+1 & 4+1)。 |
+| ` chmod 4755  `*`file`*                    | `4`设置了设置[用户ID](../Page/用户ID.md "wikilink")位，剩下的相当于 u=rwx (4+2+1),go=rx (4+1 & 4+1)。 |
 | `find path/ -type d -exec chmod a-x {} \;` | 删除可执行权限对path/以及其所有的目录（不包括文件）的所有用户，使用‘-type f'匹配文件                                   |
 | `find path/ -type d -exec chmod a+x {} \;` | 允许所有用户浏览或通过目录path/                                                                  |
 
@@ -138,8 +136,7 @@ chmod函数C语言的定义:
 
 模式进行按位或运算对应期望的权限。
 
-函数检验的错误以及相应的错误码在[man
-page有定义](https://zh.wikipedia.org/wiki/man_page "wikilink")。
+函数检验的错误以及相应的错误码在[man page有定义](https://zh.wikipedia.org/wiki/man_page "wikilink")。
 
 ## 参考文献
 
@@ -147,28 +144,14 @@ page有定义](https://zh.wikipedia.org/wiki/man_page "wikilink")。
 
 ## 外部链接
 
-  - [Linux
-    文件和目录的属性](https://web.archive.org/web/20160711022056/http://www.linuxsir.org/main/?q=node%2F196#4)
-  - [`chmod`](http://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html)
-    — manual page from [GNU](../Page/GNU.md "wikilink")
-    [coreutils](https://zh.wikipedia.org/wiki/coreutils "wikilink").
-  - [GNU "Setting Permissions"
-    manual](http://www.gnu.org/software/coreutils/manual/html_node/Setting-Permissions.html)
-  - [Solaris 9 chmod man
-    page](https://web.archive.org/web/20100926051106/http://docs.sun.com/app/docs/doc/817-0689/6mgfkpckn?q=chmod&a=view)
-  - [Mac OS X chmod man page](http://www.hmug.org/man/1/chmod.php),
-    which also supports [access control
-    lists](https://zh.wikipedia.org/wiki/access_control_list "wikilink").
-  - [CHMOD-Win 3.0](http://neosmart.net/dl.php?id=4) — Freeware Windows'
-    ACL ←→ CHMOD converter.
-  - [What CHMOD? File Permissions
-    Calculator](https://web.archive.org/web/20051201140107/http://www.classical-webdesigns.co.uk/resources/whatchmod.html),
-    web-based CHMOD calculator.
-  - [Beginners tutorial with on-line "live"
-    example](http://catcode.com/teachmod/index.html)
-  - [chmod examples](http://www.examplenow.com/chmod) Searchable
-    examples
+  - [Linux 文件和目录的属性](https://web.archive.org/web/20160711022056/http://www.linuxsir.org/main/?q=node%2F196#4)
+  - [`chmod`](http://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html) — manual page from [GNU](../Page/GNU.md "wikilink") [coreutils](https://zh.wikipedia.org/wiki/coreutils "wikilink").
+  - [GNU "Setting Permissions" manual](http://www.gnu.org/software/coreutils/manual/html_node/Setting-Permissions.html)
+  - [Solaris 9 chmod man page](https://web.archive.org/web/20100926051106/http://docs.sun.com/app/docs/doc/817-0689/6mgfkpckn?q=chmod&a=view)
+  - [Mac OS X chmod man page](http://www.hmug.org/man/1/chmod.php), which also supports [access control lists](https://zh.wikipedia.org/wiki/access_control_list "wikilink").
+  - [CHMOD-Win 3.0](http://neosmart.net/dl.php?id=4) — Freeware Windows' ACL ←→ CHMOD converter.
+  - [What CHMOD? File Permissions Calculator](https://web.archive.org/web/20051201140107/http://www.classical-webdesigns.co.uk/resources/whatchmod.html), web-based CHMOD calculator.
+  - [Beginners tutorial with on-line "live" example](http://catcode.com/teachmod/index.html)
+  - [chmod examples](http://www.examplenow.com/chmod) Searchable examples
 
-[Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink")
-[Category:Unix文件系统相关软件](https://zh.wikipedia.org/wiki/Category:Unix文件系统相关软件 "wikilink")
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
+[Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink") [Category:Unix文件系统相关软件](https://zh.wikipedia.org/wiki/Category:Unix文件系统相关软件 "wikilink") [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")

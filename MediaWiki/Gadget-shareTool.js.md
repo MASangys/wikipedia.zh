@@ -85,8 +85,7 @@
 
 <h3>
 
-<a href="#" title="' + share_msgs.title + '"><span style="background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Shareicon.svg/16px-Shareicon.svg.png); background-position: 0px 85%; background-repeat: no-repeat;width: 18px;padding-top: 0;"/></a><span>'
-+ share_msgs.title + '</span>
+<a href="#" title="' + share_msgs.title + '"><span style="background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Shareicon.svg/16px-Shareicon.svg.png); background-position: 0px 85%; background-repeat: no-repeat;width: 18px;padding-top: 0;"/></a><span>' + share_msgs.title + '</span>
 
 </h3>
 
@@ -100,8 +99,7 @@
 
 <div/>
 
-').addClass('vectorMenu extraMenu').attr('id',
-'p-share').html(htmlline).insertAfter('\#p-cactions');
+').addClass('vectorMenu extraMenu').attr('id', 'p-share').html(htmlline).insertAfter('\#p-cactions');
 
 `           } else {`
 `               $('#p-tb').clone().attr('id', 'p-share').find('h3').text(share_msgs.title).end().find('li').remove().end().insertAfter('#p-tb');`

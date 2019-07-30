@@ -4,8 +4,7 @@
 
 ## 第一代（1996-2003）
 
-1996年發佈第一代Boxster，又稱作「986」，由荷蘭籍汽車設計師Harm
-Lagaay所炮製，使用2.5公升[水平對臥六缸引擎](../Page/水平對臥六缸引擎.md "wikilink")，並配備五速[自動變速器](https://zh.wikipedia.org/wiki/自動變速器 "wikilink")、五速[手動變速器](../Page/手動變速器.md "wikilink")和六速手動變速器。
+1996年發佈第一代Boxster，又稱作「986」，由荷蘭籍汽車設計師Harm Lagaay所炮製，使用2.5公升[水平對臥六缸引擎](../Page/水平對臥六缸引擎.md "wikilink")，並配備五速[自動變速器](https://zh.wikipedia.org/wiki/自動變速器 "wikilink")、五速[手動變速器](../Page/手動變速器.md "wikilink")和六速手動變速器。
 
 到了2000年，引擎容積被提升為2.7公升。
 
@@ -23,18 +22,11 @@ Lagaay所炮製，使用2.5公升[水平對臥六缸引擎](../Page/水平對臥
 
 代號982,型號718使用渦輪
 
-「718」之名源自Porsche在1950\~60年代於Targa Florio與Le
-Mans大賽叱吒風雲的中置引擎賽車，當時的「718」便是採用水平對臥四汽缸引擎，因此全新718
-Boxster便將延續此傳統，換裝全新水平對臥四汽缸渦輪增壓引擎，基本款718 Boxster搭載引擎排氣量為2.0升，進階的718
-Boxster S則是2.5升，其中718 Boxster S，在VTG可變幾何渦輪增壓系統加持下，較上代Boxster
-S增加了35hp，兩款車整體燃油經濟性增加達13%。
+「718」之名源自Porsche在1950\~60年代於Targa Florio與Le Mans大賽叱吒風雲的中置引擎賽車，當時的「718」便是採用水平對臥四汽缸引擎，因此全新718 Boxster便將延續此傳統，換裝全新水平對臥四汽缸渦輪增壓引擎，基本款718 Boxster搭載引擎排氣量為2.0升，進階的718 Boxster S則是2.5升，其中718 Boxster S，在VTG可變幾何渦輪增壓系統加持下，較上代Boxster S增加了35hp，兩款車整體燃油經濟性增加達13%。
 
 ## 图片
 
-[File:550spyderFront.jpg|Boxster](File:550spyderFront.jpg%7CBoxster) 550
-Spyder <File:2012-03-07> Motorshow Geneva 4635.JPG|2012年日內瓦車展
-Image:Porsche_Boxster_black_hr.jpg|車尾 <File:Porsche> Boxster S Spyder
-AME.jpg|Boxster限量版S Spyder
+[File:550spyderFront.jpg|Boxster](File:550spyderFront.jpg%7CBoxster) 550 Spyder <File:2012-03-07> Motorshow Geneva 4635.JPG|2012年日內瓦車展 Image:Porsche_Boxster_black_hr.jpg|車尾 <File:Porsche> Boxster S Spyder AME.jpg|Boxster限量版S Spyder
 
 ## 参考文献
 
@@ -42,10 +34,4 @@ AME.jpg|Boxster限量版S Spyder
 
   - [官方網站](http://www.porsche.com/usa/models/boxster/)
 
-[Category:保時捷車輛](https://zh.wikipedia.org/wiki/Category:保時捷車輛 "wikilink")
-[Category:跑車](https://zh.wikipedia.org/wiki/Category:跑車 "wikilink")
-[Category:雙座敞篷車](https://zh.wikipedia.org/wiki/Category:雙座敞篷車 "wikilink")
-[Category:中置引擎](https://zh.wikipedia.org/wiki/Category:中置引擎 "wikilink")
-[Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink")
-[Category:水平對臥引擎車輛](https://zh.wikipedia.org/wiki/Category:水平對臥引擎車輛 "wikilink")
-[Category:1996年面世的汽車](https://zh.wikipedia.org/wiki/Category:1996年面世的汽車 "wikilink")
+[Category:保時捷車輛](https://zh.wikipedia.org/wiki/Category:保時捷車輛 "wikilink") [Category:跑車](https://zh.wikipedia.org/wiki/Category:跑車 "wikilink") [Category:雙座敞篷車](https://zh.wikipedia.org/wiki/Category:雙座敞篷車 "wikilink") [Category:中置引擎](https://zh.wikipedia.org/wiki/Category:中置引擎 "wikilink") [Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink") [Category:水平對臥引擎車輛](https://zh.wikipedia.org/wiki/Category:水平對臥引擎車輛 "wikilink") [Category:1996年面世的汽車](https://zh.wikipedia.org/wiki/Category:1996年面世的汽車 "wikilink")

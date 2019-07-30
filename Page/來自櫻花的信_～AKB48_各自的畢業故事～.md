@@ -1,9 +1,8 @@
-《**來自櫻花的信 ～AKB48
-各自的畢業故事～**》（）是[日本電視台](../Page/日本電視台.md "wikilink")[系列由](../Page/日本電視網協議會.md "wikilink")2011年2月26日至3月6日的深夜連續9夜播放的連續劇。
+《**來自櫻花的信 ～AKB48 各自的畢業故事～**》（）是[日本電視台](../Page/日本電視台.md "wikilink")[系列由](../Page/日本電視網協議會.md "wikilink")2011年2月26日至3月6日的深夜連續9夜播放的連續劇。
 
 ## 概要
 
-[AKB48成員](../Page/AKB48.md "wikilink")\[1\]劇中的角色名字和本人的名字相同出現的學園連續劇。以「畢業」為主題全17話的短篇故事（但第1話是30分鐘，第17話是1小時）的連作構成。
+[AKB48](../Page/AKB48.md "wikilink")成員\[1\]劇中的角色名字和本人的名字相同出現的學園連續劇。以「畢業」為主題全17話的短篇故事（但第1話是30分鐘，第17話是1小時）的連作構成。
 
 ## 演員
 
@@ -47,8 +46,7 @@
 <!-- end list -->
 
   -
-    美術部。母親因生病而去世，和父親2人生活
-    某日開始身體不舒服感生嘔吐,在同學陪同下發現懷孕,爸爸意外發現老師寫給陽菜的信跟墮胎手術通知書後,某日跟陽菜談話想更接近她的心,隔天陽菜卻自行跑去醫院墮胎,回家路上遇到爸爸跟爸爸說明自己沒有墮胎,此時男友出現希望陽菜把孩子留下並請求陽菜爸爸答應讓陽菜嫁給他,爸爸在痛打男友一頓後同意他的請求。
+    美術部。母親因生病而去世，和父親2人生活 某日開始身體不舒服感生嘔吐,在同學陪同下發現懷孕,爸爸意外發現老師寫給陽菜的信跟墮胎手術通知書後,某日跟陽菜談話想更接近她的心,隔天陽菜卻自行跑去醫院墮胎,回家路上遇到爸爸跟爸爸說明自己沒有墮胎,此時男友出現希望陽菜把孩子留下並請求陽菜爸爸答應讓陽菜嫁給他,爸爸在痛打男友一頓後同意他的請求。
 
 <!-- end list -->
 
@@ -81,7 +79,7 @@
 <!-- end list -->
 
   -
-    [袋棍球部的部長](../Page/袋棍球.md "wikilink"),為了考醫學系再與袋棍球之間動搖著,被峯岸みなみ故意惡言相向後,原本打算真的放棄袋棍球卻看到峯岸如此努力,決定兩邊都想要維護時某次練習不小心跟峯岸一起受傷,在醫院被峯岸說清跟媽媽的支持下,決定兩邊都要維護好
+    [袋棍球](../Page/袋棍球.md "wikilink")部的部長,為了考醫學系再與袋棍球之間動搖著,被峯岸みなみ故意惡言相向後,原本打算真的放棄袋棍球卻看到峯岸如此努力,決定兩邊都想要維護時某次練習不小心跟峯岸一起受傷,在醫院被峯岸說清跟媽媽的支持下,決定兩邊都要維護好
 
 <!-- end list -->
 
@@ -157,8 +155,7 @@
 
 <!-- end list -->
 
-  - 校長 -
-    [かとうかず子](https://zh.wikipedia.org/wiki/かとうかず子 "wikilink")（第4・10・17話）
+  - 校長 - [かとうかず子](https://zh.wikipedia.org/wiki/かとうかず子 "wikilink")（第4・10・17話）
 
 想要把前田老師照顧的櫻花樹砍掉,在最後一話被學生阻擋,答應說如果畢業前櫻花無法開花就要砍掉櫻花樹
 
@@ -173,8 +170,7 @@
 
 <!-- end list -->
 
-  - 板野明日香 -
-    [片瀬那奈](https://zh.wikipedia.org/wiki/片瀬那奈 "wikilink")（第2・8・15・17話）
+  - 板野明日香 - [片瀬那奈](https://zh.wikipedia.org/wiki/片瀬那奈 "wikilink")（第2・8・15・17話）
 
 <!-- end list -->
 
@@ -192,8 +188,7 @@
 
 <!-- end list -->
 
-  - 柏木隆治 -
-    [山崎一](https://zh.wikipedia.org/wiki/山崎一 "wikilink")（第4・10・14話）
+  - 柏木隆治 - [山崎一](https://zh.wikipedia.org/wiki/山崎一 "wikilink")（第4・10・14話）
 
 <!-- end list -->
 
@@ -211,13 +206,12 @@
 
 <!-- end list -->
 
-  - 柏木仁 -
-    [宇治清高](https://zh.wikipedia.org/wiki/宇治清高 "wikilink")（第4・10・14話）
+  - 柏木仁 - [宇治清高](https://zh.wikipedia.org/wiki/宇治清高 "wikilink")（第4・10・14話）
 
 <!-- end list -->
 
   -
-    由紀的哥哥。應屆大学生在[律師資格考試中合格](../Page/律師資格考試.md "wikilink")。
+    由紀的哥哥。應屆大学生在[律師資格考試](../Page/律師資格考試.md "wikilink")中合格。
 
 <!-- end list -->
 
@@ -275,8 +269,7 @@
 
 <!-- end list -->
 
-  - 庭師 -
-    [手塚秀彰](https://zh.wikipedia.org/wiki/手塚秀彰 "wikilink")（第4・10・17話）
+  - 庭師 - [手塚秀彰](https://zh.wikipedia.org/wiki/手塚秀彰 "wikilink")（第4・10・17話）
   - [佐藤すみれ](https://zh.wikipedia.org/wiki/佐藤すみれ "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[藤江れいな和](https://zh.wikipedia.org/wiki/藤江れいな "wikilink")[前田亞美](../Page/前田亞美.md "wikilink")（第6、16話）:当時前田擔任合唱團顧問時的成員（碑文丘高中舊生）
   - 医生 - [佐佐木勝彦](https://zh.wikipedia.org/wiki/佐佐木勝彦 "wikilink")（第6話）
 
@@ -293,13 +286,10 @@
 
 因為媽媽跟別人跑了,爸爸從此宿醉,因為老師對自己太好喜歡上老師自稱是老師的女朋友,想排除掉敦子對敦子說謊說已經跟老師發生關係並且未遂自殺
 
-  - 指原雄三 -
-    [Bro.TOM](https://zh.wikipedia.org/wiki/Bro.TOM "wikilink")（第11・17話）
+  - 指原雄三 - [Bro.TOM](https://zh.wikipedia.org/wiki/Bro.TOM "wikilink")（第11・17話）
   - 谷原陸 - [菅野篤海](https://zh.wikipedia.org/wiki/菅野篤海 "wikilink")（第13話）
-  - 花店老闆 -
-    [佐戸井けん太](https://zh.wikipedia.org/wiki/佐戸井けん太 "wikilink")（第17話）
-  - 病院關係者 -
-    [櫻井明美](https://zh.wikipedia.org/wiki/櫻井明美 "wikilink")（第17話、声音演出）
+  - 花店老闆 - [佐戸井けん太](https://zh.wikipedia.org/wiki/佐戸井けん太 "wikilink")（第17話）
+  - 病院關係者 - [櫻井明美](https://zh.wikipedia.org/wiki/櫻井明美 "wikilink")（第17話、声音演出）
 
 ## 3年C組 座位表
 
@@ -504,16 +494,14 @@
 </tbody>
 </table>
 
-※[大分電視台](https://zh.wikipedia.org/wiki/大分電視台 "wikilink")（TOS）和[宮崎電視台](../Page/宮崎電視台.md "wikilink")（UMK）是一部份的集數較遲播放。TOS是第15話遲20分鐘、UMK是第1話和第5
-- 7話遲30分鐘播放。
+※[大分電視台](https://zh.wikipedia.org/wiki/大分電視台 "wikilink")（TOS）和[宮崎電視台](../Page/宮崎電視台.md "wikilink")（UMK）是一部份的集數較遲播放。TOS是第15話遲20分鐘、UMK是第1話和第5 - 7話遲30分鐘播放。
 
 ## 工作人員
 
   - 企劃、原案：[秋元康](../Page/秋元康.md "wikilink")
   - 劇本：[旺季志ずか](https://zh.wikipedia.org/wiki/旺季志ずか "wikilink")
   - 導演：久保田充、長沼誠、本間美由紀、浅見真史
-  - 製作協力：[TOTAL MEDIA
-    COMMUNICATION](https://zh.wikipedia.org/wiki/TOTAL_MEDIA_COMMUNICATION "wikilink")
+  - 製作協力：[TOTAL MEDIA COMMUNICATION](https://zh.wikipedia.org/wiki/TOTAL_MEDIA_COMMUNICATION "wikilink")
 
 ## 音樂
 
@@ -523,8 +511,7 @@
 
 <!-- end list -->
 
-  - 「[變成櫻花樹](../Page/變成櫻花樹.md "wikilink")」（[KING
-    RECORDS](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")）
+  - 「[變成櫻花樹](../Page/變成櫻花樹.md "wikilink")」（[KING RECORDS](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")）
 
 <!-- end list -->
 
@@ -537,32 +524,23 @@
 
 <!-- end list -->
 
-  - 第1話「[身分](../Page/神曲集.md "wikilink")」（You, Be Cool\!/KING
-    RECORDS）／「[男更衣室](https://zh.wikipedia.org/wiki/teamB_5th_Stage「劇場的女神」 "wikilink")」（AKS）※BGM也有使用
+  - 第1話「[身分](../Page/神曲集.md "wikilink")」（You, Be Cool\!/KING RECORDS）／「[男更衣室](https://zh.wikipedia.org/wiki/teamB_5th_Stage「劇場的女神」 "wikilink")」（AKS）※BGM也有使用
   - 第2話「[心型病毒](https://zh.wikipedia.org/wiki/teamA_5th_Stage「恋愛禁止条例」 "wikilink")」（AKS）
-  - 第3話「[預約的聖誕節](../Page/機會的順序.md "wikilink")」（You, Be Cool\!/KING
-    RECORDS）※BGM也有使用
-  - 第4話「[關於你](https://zh.wikipedia.org/wiki/Beginner "wikilink")」（You,
-    Be Cool\!/KING RECORDS）
-  - 第5話「[驚喜之淚\!](https://zh.wikipedia.org/wiki/驚喜之淚! "wikilink")」（You,
-    Be Cool\!/KING RECORDS）
+  - 第3話「[預約的聖誕節](../Page/機會的順序.md "wikilink")」（You, Be Cool\!/KING RECORDS）※BGM也有使用
+  - 第4話「[關於你](https://zh.wikipedia.org/wiki/Beginner "wikilink")」（You, Be Cool\!/KING RECORDS）
+  - 第5話「[驚喜之淚\!](https://zh.wikipedia.org/wiki/驚喜之淚! "wikilink")」（You, Be Cool\!/KING RECORDS）
   - 第6話「[無限重播](../Page/無限重播.md "wikilink")」（You, Be Cool\!/KING RECORDS）
   - 第7話「[街角的Party](https://zh.wikipedia.org/wiki/teamK_5th_Stage「引体后空翻」 "wikilink")」（AKS）
-  - 第8話「[Virgin
-    love](https://zh.wikipedia.org/wiki/制服真礙事 "wikilink")」（DefSTAR
-    Records）
+  - 第8話「[Virgin love](https://zh.wikipedia.org/wiki/制服真礙事 "wikilink")」（DefSTAR Records）
   - 第9話「[仙人掌與淘金熱](https://zh.wikipedia.org/wiki/teamA_6th_Stage「目擊者」 "wikilink")」（AKS）
-  - 第10話「[我的YELL](../Page/馬尾與髮圈.md "wikilink")」（You, Be Cool\!/KING
-    RECORDS）
+  - 第10話「[我的YELL](../Page/馬尾與髮圈.md "wikilink")」（You, Be Cool\!/KING RECORDS）
   - 第11話「[歪曲的珍珠](https://zh.wikipedia.org/wiki/teamA_6th_Stage「目擊者」 "wikilink")」（AKS）
   - 第12話「[給我愛](https://zh.wikipedia.org/wiki/teamA_6th_Stage「目擊者」 "wikilink")」（AKS）
-  - 第13話「[Beginner](https://zh.wikipedia.org/wiki/Beginner "wikilink")」（You,
-    Be Cool\!/KING RECORDS）※第3話插入曲也有使用
+  - 第13話「[Beginner](https://zh.wikipedia.org/wiki/Beginner "wikilink")」（You, Be Cool\!/KING RECORDS）※第3話插入曲也有使用
   - 第14話「[一直,一直](https://zh.wikipedia.org/wiki/teamA_6th_Stage「目擊者」 "wikilink")」（AKS）※第17話插入曲也有使用
   - 第15話「[為了明天而接吻](https://zh.wikipedia.org/wiki/teamK_6th_Stage「RESET」 "wikilink")」（AKS）
   - 第16話「[暴風雨之夜](https://zh.wikipedia.org/wiki/teamB_5th_Stage「劇場的女神」 "wikilink")」（AKS）
-  - 第17話「[Lucky Seven](../Page/無限重播.md "wikilink")」（You, Be Cool\!/KING
-    RECORDS）
+  - 第17話「[Lucky Seven](../Page/無限重播.md "wikilink")」（You, Be Cool\!/KING RECORDS）
 
 <!-- end list -->
 
@@ -572,29 +550,22 @@
 
   - 「[偶像的黎明](https://zh.wikipedia.org/wiki/teamB_4th_Stage「偶像的黎明」 "wikilink")」（AKS）※BGM也有使用
   - 「[水果‧雪](../Page/機會的順序.md "wikilink")」（You, Be Cool\!/KING RECORDS）
-  - 「[Lucky Seven](../Page/無限重播.md "wikilink")」（You, Be Cool\!/KING
-    RECORDS）
+  - 「[Lucky Seven](../Page/無限重播.md "wikilink")」（You, Be Cool\!/KING RECORDS）
   - 「[唔吼大遊行](https://zh.wikipedia.org/wiki/teamK_6th_Stage「RESET」 "wikilink")」（AKS）
   - 「[掌](https://zh.wikipedia.org/wiki/teamK_5th_Stage「引体后空翻」 "wikilink")」（AKS）※BGM也有使用
   - 「[任性的流星](https://zh.wikipedia.org/wiki/teamK_5th_Stage「引体后空翻」 "wikilink")」（AKS）
-  - 「[FIRST LOVE](https://zh.wikipedia.org/wiki/驚喜之淚! "wikilink")」（You,
-    Be Cool\!/KING RECORDS）
-  - 「[BINGO\!](../Page/BINGO!.md "wikilink")」（DefSTAR
-    Records）※麻友和佐江的携帯電話的鈴聲也有使用
+  - 「[FIRST LOVE](https://zh.wikipedia.org/wiki/驚喜之淚! "wikilink")」（You, Be Cool\!/KING RECORDS）
+  - 「[BINGO\!](../Page/BINGO!.md "wikilink")」（DefSTAR Records）※麻友和佐江的携帯電話的鈴聲也有使用
   - 「[你和太陽和彩虹](../Page/神曲集.md "wikilink")」（You, Be Cool\!/KING RECORDS）
-  - 「[想見你](https://zh.wikipedia.org/wiki/想見你 "wikilink")」（DefSTAR
-    Records）
+  - 「[想見你](https://zh.wikipedia.org/wiki/想見你 "wikilink")」（DefSTAR Records）
   - 「[再見緊緊的捆綁](https://zh.wikipedia.org/wiki/teamB_5th_Stage「劇場的女神」 "wikilink")」（AKS）
-  - 「[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")」（You, Be
-    Cool\!/KING RECORDS）
+  - 「[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")」（You, Be Cool\!/KING RECORDS）
   - 「[生命的意義](https://zh.wikipedia.org/wiki/teamA_6th_Stage「目擊者」 "wikilink")」（AKS）
-  - 「[初日](https://zh.wikipedia.org/wiki/驚喜之淚! "wikilink")」（You, Be
-    Cool\!/KING RECORDS）
+  - 「[初日](https://zh.wikipedia.org/wiki/驚喜之淚! "wikilink")」（You, Be Cool\!/KING RECORDS）
   - 「[毒蜘蛛](https://zh.wikipedia.org/wiki/teamK_6th_Stage「RESET」 "wikilink")」（AKS）
   - 「[我們的紙飛機](https://zh.wikipedia.org/wiki/teamB_5th_Stage「劇場的女神」 "wikilink")」（AKS）
   - 「[謝謝你](https://zh.wikipedia.org/wiki/teamB_4th_Stage「偶像的黎明」 "wikilink")」（AKS）
-  - 「[櫻花的花瓣們2008](https://zh.wikipedia.org/wiki/櫻花的花瓣們2008 "wikilink")」（DefSTAR
-    Records）
+  - 「[櫻花的花瓣們2008](https://zh.wikipedia.org/wiki/櫻花的花瓣們2008 "wikilink")」（DefSTAR Records）
 
 <!-- end list -->
 
@@ -603,11 +574,9 @@
 <!-- end list -->
 
   - 「[與胡桃對話](../Page/機會的順序.md "wikilink")」（You, Be Cool\!/KING RECORDS）
-  - 「[馬路須加學園頂尖藍調](../Page/馬尾與髮圈.md "wikilink")」（You, Be Cool\!/KING
-    RECORDS）
+  - 「[馬路須加學園頂尖藍調](../Page/馬尾與髮圈.md "wikilink")」（You, Be Cool\!/KING RECORDS）
   - 「[落櫻天空下](../Page/10年櫻.md "wikilink")」（You, Be Cool\!/KING RECORDS）
-  - 「[Baby\! Baby\!
-    Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")」（AKS）
+  - 「[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")」（AKS）
   - 「[曲終人盡](https://zh.wikipedia.org/wiki/teamK_5th_Stage「引体后空翻」 "wikilink")」（AKS）
   - 「[美人](https://zh.wikipedia.org/wiki/teamA_6th_Stage「目擊者」 "wikilink")」（AKS）
   - 「[野菜姊妹](../Page/無限重播.md "wikilink")」（You, Be Cool\!/KING RECORDS）
@@ -616,7 +585,7 @@
 
 ## DVD
 
-2011年5月4日由[VAP發售](../Page/VAP.md "wikilink")。
+2011年5月4日由[VAP](../Page/VAP.md "wikilink")發售。
 【BOX】
 
   - 「來自櫻花的信 ～AKB48 各自的畢業故事～」豪華版DVD-BOX
@@ -815,7 +784,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/大分縣" title="wikilink">大分縣</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大分電視台" title="wikilink">大分電視台</a>（TOS）</p></td>
-<td><p><a href="../Page/富士電視網.md" title="wikilink">富士電視網系列</a>／日本電視系列</p></td>
+<td><p><a href="../Page/富士電視網.md" title="wikilink">富士電視網</a>系列／日本電視系列</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -856,13 +825,6 @@
   - [來自櫻花的信 ～AKB48 各自的畢業故事～ 公式網頁](http://www.ntv.co.jp/akbsakura/)
 
   -
-[Category:日本電視台特別劇集](https://zh.wikipedia.org/wiki/Category:日本電視台特別劇集 "wikilink")
-[Category:日本電視台深夜劇集](https://zh.wikipedia.org/wiki/Category:日本電視台深夜劇集 "wikilink")
-[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
-[Category:2011年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2011年電視特別劇集 "wikilink")
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink")
-[Category:偽紀錄片電視劇](https://zh.wikipedia.org/wiki/Category:偽紀錄片電視劇 "wikilink")
+[Category:日本電視台特別劇集](https://zh.wikipedia.org/wiki/Category:日本電視台特別劇集 "wikilink") [Category:日本電視台深夜劇集](https://zh.wikipedia.org/wiki/Category:日本電視台深夜劇集 "wikilink") [Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink") [Category:2011年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2011年電視特別劇集 "wikilink") [Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink") [Category:偽紀錄片電視劇](https://zh.wikipedia.org/wiki/Category:偽紀錄片電視劇 "wikilink")
 
-1.  [岩佐美咲](../Page/岩佐美咲.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[內田真由美](../Page/內田真由美.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[菊地あやか](https://zh.wikipedia.org/wiki/菊地あやか "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[中塚智實](../Page/中塚智實.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[橫山由依](../Page/橫山由依.md "wikilink")、[石田晴香](../Page/石田晴香.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")、[鈴木まりや](https://zh.wikipedia.org/wiki/鈴木まりや "wikilink")、[平嶋夏海和Team研究生沒有演出](../Page/平嶋夏海.md "wikilink")。
+1.  [岩佐美咲](../Page/岩佐美咲.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[內田真由美](../Page/內田真由美.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[菊地あやか](https://zh.wikipedia.org/wiki/菊地あやか "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[中塚智實](../Page/中塚智實.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[橫山由依](../Page/橫山由依.md "wikilink")、[石田晴香](../Page/石田晴香.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")、[鈴木まりや](https://zh.wikipedia.org/wiki/鈴木まりや "wikilink")、[平嶋夏海](../Page/平嶋夏海.md "wikilink")和Team研究生沒有演出。

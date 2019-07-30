@@ -1,15 +1,14 @@
-**AKB48劇場**（，）位於[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[秋葉原](../Page/秋葉原.md "wikilink")，是大型女子組合[AKB48專用的演出場所](../Page/AKB48.md "wikilink")（[LiveHouse](https://zh.wikipedia.org/wiki/LiveHouse "wikilink")）。AKB48自出道以來最主要的演藝工作——[劇場公演](../Page/AKB48劇場公演.md "wikilink")，除了特殊場合外，均在此由各[Team（分隊）輪流演出](../Page/AKB48組合構成.md "wikilink")。
+**AKB48劇場**（，）位於[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[秋葉原](../Page/秋葉原.md "wikilink")，是大型女子組合[AKB48](../Page/AKB48.md "wikilink")專用的演出場所（[LiveHouse](https://zh.wikipedia.org/wiki/LiveHouse "wikilink")）。AKB48自出道以來最主要的演藝工作——[劇場公演](../Page/AKB48劇場公演.md "wikilink")，除了特殊場合外，均在此由各[Team（分隊）輪流演出](../Page/AKB48組合構成.md "wikilink")。
 
 基於「可以面對面的偶像」的概念，該劇場可說是AKB48的活動根據地。自2005年12月8日的出道公演以來，該劇場在常態上由AKB48專用，唯一的例外為其姊妹團體[SDN48](../Page/SDN48.md "wikilink")，在2009年8月出道起至2012年3月解散期間共用此場地舉行劇場公演。此外，AKB48其他[姊妹團體也會不定期在該劇場舉辦客場公演](../Page/AKB48集團.md "wikilink")。
 
 ## 劇場的選址
 
-[Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG](https://zh.wikipedia.org/wiki/File:Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG "fig:Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG")與[秋葉原UDX之間街道的南角](../Page/秋葉原UDX.md "wikilink")。\]\]
-[AKB48_theater.jpg](https://zh.wikipedia.org/wiki/File:AKB48_theater.jpg "fig:AKB48_theater.jpg")
+[Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG](https://zh.wikipedia.org/wiki/File:Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG "fig:Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG")與[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")之間街道的南角。\]\] [AKB48_theater.jpg](https://zh.wikipedia.org/wiki/File:AKB48_theater.jpg "fig:AKB48_theater.jpg")
 
 ### 選擇秋葉原的理由
 
-基於「從最符合時代與流行趨勢的地方產生[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")」这点，AKB48總製作人[秋元康考慮到](../Page/秋元康.md "wikilink")[御宅族這一群體](../Page/御宅族.md "wikilink")，將擁有大量年輕[萌系愛好者市場的](../Page/萌.md "wikilink")[秋葉原作爲了候選](../Page/秋葉原.md "wikilink")。因此若新偶像要招攬狂熱的支持者，秋葉原就是最適合的地點。
+基於「從最符合時代與流行趨勢的地方產生[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")」这点，AKB48總製作人[秋元康](../Page/秋元康.md "wikilink")考慮到[御宅族](../Page/御宅族.md "wikilink")這一群體，將擁有大量年輕[萌](../Page/萌.md "wikilink")系愛好者市場的[秋葉原](../Page/秋葉原.md "wikilink")作爲了候選。因此若新偶像要招攬狂熱的支持者，秋葉原就是最適合的地點。
 
 ### 選擇唐吉訶德秋葉原店8樓的理由
 
@@ -55,12 +54,11 @@
 
 ### 通道
 
-[AKB48_theater_interior.jpg](https://zh.wikipedia.org/wiki/File:AKB48_theater_interior.jpg "fig:AKB48_theater_interior.jpg")
-通往劇場通道的牆壁上裝飾著AKB48及[SDN48成員的照片](../Page/SDN48.md "wikilink")。從2006年8月11日開設「MVP板」，觀看劇場公演100次以上的「MVP會員」的名牌會被貼在牆上展示。
+[AKB48_theater_interior.jpg](https://zh.wikipedia.org/wiki/File:AKB48_theater_interior.jpg "fig:AKB48_theater_interior.jpg") 通往劇場通道的牆壁上裝飾著AKB48及[SDN48](../Page/SDN48.md "wikilink")成員的照片。從2006年8月11日開設「MVP板」，觀看劇場公演100次以上的「MVP會員」的名牌會被貼在牆上展示。
 
 ### 投幣式自動存放櫃與行李收存
 
-受2008年6月8日發生的[秋葉原殺人事件事件影響](../Page/秋葉原殺人事件.md "wikilink")，同年7月1日以后，通过警察当局的指示行李的不能带入到剧场内。而且隨著前廳投幣式自動存放櫃的設置，隨身行李可以交給投幣式自動存放櫃存放也不得帶入場內。
+受2008年6月8日發生的[秋葉原殺人事件](../Page/秋葉原殺人事件.md "wikilink")事件影響，同年7月1日以后，通过警察当局的指示行李的不能带入到剧场内。而且隨著前廳投幣式自動存放櫃的設置，隨身行李可以交給投幣式自動存放櫃存放也不得帶入場內。
 
 投幣式自動存放櫃全部放滿時，為了要退票的等候入場者，可以在劇場出入口附近行進行李收存以協調。費用也是200日元。
 
@@ -68,8 +66,7 @@
 
 #### 48's Cafe
 
-從劇場開設時起到2008年末前廳是名爲「48's
-Cafe」的咖啡空間。提供[各種飲料和](../Page/軟性飲料.md "wikilink")[雪糕外加](https://zh.wikipedia.org/wiki/軟雪糕 "wikilink")[抓飯和](https://zh.wikipedia.org/wiki/抓飯 "wikilink")[蛋包飯等](../Page/蛋包飯.md "wikilink")[小吃](../Page/小吃.md "wikilink")。
+從劇場開設時起到2008年末前廳是名爲「48's Cafe」的咖啡空間。提供[各種飲料和](../Page/軟性飲料.md "wikilink")[雪糕外加](https://zh.wikipedia.org/wiki/軟雪糕 "wikilink")[抓飯和](https://zh.wikipedia.org/wiki/抓飯 "wikilink")[蛋包飯](../Page/蛋包飯.md "wikilink")等[小吃](../Page/小吃.md "wikilink")。
 
   - 在前廳的驚喜
 
@@ -84,15 +81,13 @@ Cafe」的咖啡空間。提供[各種飲料和](../Page/軟性飲料.md "wikili
 
 #### 商品賣場
 
-商品賣場「48’s
-Shop」處於前廳，銷售AKB48的CD和原創商品，2009年12月8日，階段性地轉移到設置在唐·吉坷德秋葉原店5層的「AKB48
-SHOP」，結束了在前廳的銷售。
+商品賣場「48’s Shop」處於前廳，銷售AKB48的CD和原創商品，2009年12月8日，階段性地轉移到設置在唐·吉坷德秋葉原店5層的「AKB48 SHOP」，結束了在前廳的銷售。
 
 #### 有獎扭蛋
 
 過去前廳設置有数台[扭蛋機](https://zh.wikipedia.org/wiki/扭蛋 "wikilink")（通称：）。分期間銷售。1次300日元。裏面裝有印有成員照片的圓形徽章與貼紙，此后加入了各类奖券与未中券。
 
-由于封入獎品的不透明性和沒有收據等問題，[2009年5月之後停止銷售](../Page/2009年5月.md "wikilink")。
+由于封入獎品的不透明性和沒有收據等問題，[2009年5月](../Page/2009年5月.md "wikilink")之後停止銷售。
 
 ## 其他
 
@@ -112,6 +107,4 @@ SHOP」，結束了在前廳的銷售。
 
   - [AKB48官網「〜AKB48 TOKYO DOME までの軌跡〜」](http://ameblo.jp/akihabara48/)
 
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:東京都劇院](https://zh.wikipedia.org/wiki/Category:東京都劇院 "wikilink")
-[Category:秋葉原](https://zh.wikipedia.org/wiki/Category:秋葉原 "wikilink")
+[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:東京都劇院](https://zh.wikipedia.org/wiki/Category:東京都劇院 "wikilink") [Category:秋葉原](https://zh.wikipedia.org/wiki/Category:秋葉原 "wikilink")

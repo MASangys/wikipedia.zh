@@ -1,4 +1,4 @@
-《**May姐真識食**》（；前名《**皇牌美食團**》）是[香港](../Page/香港.md "wikilink")[亞洲電視製作的旅遊飲食節目](../Page/亞洲電視.md "wikilink")，2011年2月14日起逢星期一、二晚上7時至7時半於[本港台播出](../Page/本港台.md "wikilink")。由[黃麗梅主持](../Page/黃麗梅.md "wikilink")，[李志豪](https://zh.wikipedia.org/wiki/李志豪_\(藝人\) "wikilink")、[亢帥克](https://zh.wikipedia.org/wiki/亢帥克 "wikilink")、[羅力威則為嘉賓主持](../Page/羅力威.md "wikilink")。
+《**May姐真識食**》（；前名《**皇牌美食團**》）是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")製作的旅遊飲食節目，2011年2月14日起逢星期一、二晚上7時至7時半於[本港台](../Page/本港台.md "wikilink")播出。由[黃麗梅](../Page/黃麗梅.md "wikilink")主持，[李志豪](https://zh.wikipedia.org/wiki/李志豪_\(藝人\) "wikilink")、[亢帥克](https://zh.wikipedia.org/wiki/亢帥克 "wikilink")、[羅力威](../Page/羅力威.md "wikilink")則為嘉賓主持。
 
 ## 節目內容
 
@@ -152,7 +152,7 @@
 
 ## 記事
 
-  - 2011年3月4日：[亞洲電視於](../Page/亞洲電視.md "wikilink")[香港](../Page/香港.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")[東港城舉行宣傳活動](../Page/東港城.md "wikilink")，出席者包括[黃麗梅](../Page/黃麗梅.md "wikilink")、[羅力威](../Page/羅力威.md "wikilink")、[亢帥克](https://zh.wikipedia.org/wiki/亢帥克 "wikilink")、[蔡梓銘](../Page/蔡梓銘.md "wikilink")、[姚佳雯](https://zh.wikipedia.org/wiki/姚佳雯 "wikilink")、[譚杏藍](../Page/譚杏藍.md "wikilink")、[林玲](https://zh.wikipedia.org/wiki/林玲 "wikilink")、[黃雪瑩及Catherine](https://zh.wikipedia.org/wiki/黃雪瑩 "wikilink")。
+  - 2011年3月4日：[亞洲電視](../Page/亞洲電視.md "wikilink")於[香港](../Page/香港.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")[東港城](../Page/東港城.md "wikilink")舉行宣傳活動，出席者包括[黃麗梅](../Page/黃麗梅.md "wikilink")、[羅力威](../Page/羅力威.md "wikilink")、[亢帥克](https://zh.wikipedia.org/wiki/亢帥克 "wikilink")、[蔡梓銘](../Page/蔡梓銘.md "wikilink")、[姚佳雯](https://zh.wikipedia.org/wiki/姚佳雯 "wikilink")、[譚杏藍](../Page/譚杏藍.md "wikilink")、[林玲](https://zh.wikipedia.org/wiki/林玲 "wikilink")、[黃雪瑩及Catherine](https://zh.wikipedia.org/wiki/黃雪瑩 "wikilink")。
   - 2011年3月22日：由於播映特備節目《星光閃耀[亞洲彩虹大道](../Page/2011年度亞洲彩虹獎電視頒獎禮.md "wikilink")》，本節目暫停播映一次。
   - 2011年3月28日：由於播映特備節目《[福建新跨越](https://zh.wikipedia.org/wiki/福建 "wikilink")》，本節目暫停播映一次。
   - 2011年4月18日：由於播映特備節目《[第三十屆香港電影金像獎直擊最強](https://zh.wikipedia.org/wiki/2011年香港電影金像獎 "wikilink")》，本節目暫停播映一次。
@@ -160,11 +160,8 @@
 
 ## 外部連結
 
-  - [亞洲電視官方網站 -
-    May姐真識食](https://web.archive.org/web/20110429051714/http://www.hkatv.com/v3/infoprogram/11/Dine_with_May/)
+  - [亞洲電視官方網站 - May姐真識食](https://web.archive.org/web/20110429051714/http://www.hkatv.com/v3/infoprogram/11/Dine_with_May/)
 
 ## 電視節目變遷
 
-[Category:2011年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2011年亞洲電視節目 "wikilink")
-[Category:亞洲電視旅遊節目](https://zh.wikipedia.org/wiki/Category:亞洲電視旅遊節目 "wikilink")
-[Category:亞洲電視飲食節目](https://zh.wikipedia.org/wiki/Category:亞洲電視飲食節目 "wikilink")
+[Category:2011年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2011年亞洲電視節目 "wikilink") [Category:亞洲電視旅遊節目](https://zh.wikipedia.org/wiki/Category:亞洲電視旅遊節目 "wikilink") [Category:亞洲電視飲食節目](https://zh.wikipedia.org/wiki/Category:亞洲電視飲食節目 "wikilink")

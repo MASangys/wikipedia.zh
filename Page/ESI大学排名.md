@@ -1,4 +1,4 @@
-[汤森路透](../Page/汤森路透.md "wikilink")（）在[2009年8月首次推出了全球](../Page/2009年8月.md "wikilink")[科学研究机构的](../Page/科学.md "wikilink")[论文](../Page/论文.md "wikilink")[引用](../Page/引用.md "wikilink")[排名](https://zh.wikipedia.org/wiki/排名 "wikilink")\[1\]。该排名以1999年至2009年之间全球科研机构在这10年中发表[学术论文的总引用次数作为排名依据](https://zh.wikipedia.org/wiki/学术论文 "wikilink")。
+[汤森路透](../Page/汤森路透.md "wikilink")（）在[2009年8月](../Page/2009年8月.md "wikilink")首次推出了全球[科学](../Page/科学.md "wikilink")研究机构的[论文](../Page/论文.md "wikilink")[引用](../Page/引用.md "wikilink")[排名](https://zh.wikipedia.org/wiki/排名 "wikilink")\[1\]。该排名以1999年至2009年之间全球科研机构在这10年中发表[学术论文的总引用次数作为排名依据](https://zh.wikipedia.org/wiki/学术论文 "wikilink")。
 
 ## 排名方法
 
@@ -6,45 +6,36 @@
 
 ### 涵盖领域
 
-论文及其引用所涵盖的领域共计有22种之多\[3\]。下列是领域列表，包括[英文原文](https://zh.wikipedia.org/wiki/英文 "wikilink")（按[英文字母顺序排序](../Page/英文字母.md "wikilink")）和[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[翻译](../Page/翻译.md "wikilink")：
+论文及其引用所涵盖的领域共计有22种之多\[3\]。下列是领域列表，包括[英文原文](https://zh.wikipedia.org/wiki/英文 "wikilink")（按[英文字母](../Page/英文字母.md "wikilink")顺序排序）和[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[翻译](../Page/翻译.md "wikilink")：
 
-1.  Agricultural
-    Sciences（[农学](../Page/农学.md "wikilink")，或称[农业](../Page/农业.md "wikilink")[科学](../Page/科学.md "wikilink")）
-2.  Biology &
-    Biochemistry（[生物学和](../Page/生物学.md "wikilink")[生物化学](../Page/生物化学.md "wikilink")）
+1.  Agricultural Sciences（[农学](../Page/农学.md "wikilink")，或称[农业](../Page/农业.md "wikilink")[科学](../Page/科学.md "wikilink")）
+2.  Biology & Biochemistry（[生物学](../Page/生物学.md "wikilink")和[生物化学](../Page/生物化学.md "wikilink")）
 3.  Chemistry（[化学](https://zh.wikipedia.org/wiki/化学 "wikilink")）
-4.  Clinical
-    Medicine（[临床医学](https://zh.wikipedia.org/wiki/临床医学 "wikilink")）
+4.  Clinical Medicine（[临床医学](https://zh.wikipedia.org/wiki/临床医学 "wikilink")）
 5.  Computer Science（[计算机科学](../Page/计算机科学.md "wikilink")）
-6.  Economics &
-    Business（[经济学和](../Page/经济学.md "wikilink")[商学](https://zh.wikipedia.org/wiki/商学 "wikilink")）
+6.  Economics & Business（[经济学](../Page/经济学.md "wikilink")和[商学](https://zh.wikipedia.org/wiki/商学 "wikilink")）
 7.  Engineering（[工程学](../Page/工程学.md "wikilink")）
 8.  Environment/Ecology（[环境科学](../Page/环境科学.md "wikilink")/[生态学](../Page/生态学.md "wikilink")）
 9.  Geosciences（[地质科学](https://zh.wikipedia.org/wiki/地质科学 "wikilink")）
 10. Immunology（[免疫学](../Page/免疫学.md "wikilink")）
-11. Materials
-    Science（[材料学](https://zh.wikipedia.org/wiki/材料学 "wikilink")，或称材料科学）
+11. Materials Science（[材料学](https://zh.wikipedia.org/wiki/材料学 "wikilink")，或称材料科学）
 12. Mathematics（[数学](../Page/数学.md "wikilink")）
 13. Microbiology（[微生物学](../Page/微生物学.md "wikilink")）
-14. Molecular Biology &
-    Genetics（[分子生物学和](../Page/分子生物学.md "wikilink")[遗传学](../Page/遗传学.md "wikilink")）
+14. Molecular Biology & Genetics（[分子生物学](../Page/分子生物学.md "wikilink")和[遗传学](../Page/遗传学.md "wikilink")）
 15. Multidisciplinary（[交叉科学](https://zh.wikipedia.org/wiki/交叉科学 "wikilink")，或称交叉学科）
-16. Neuroscience &
-    Behavior（[神经科学和](../Page/神经科学.md "wikilink")[行为学](https://zh.wikipedia.org/wiki/行为学 "wikilink")）
-17. Pharmacology &
-    Toxicology（[药理学和](../Page/药理学.md "wikilink")[毒理学](../Page/毒理学.md "wikilink")）
+16. Neuroscience & Behavior（[神经科学](../Page/神经科学.md "wikilink")和[行为学](https://zh.wikipedia.org/wiki/行为学 "wikilink")）
+17. Pharmacology & Toxicology（[药理学](../Page/药理学.md "wikilink")和[毒理学](../Page/毒理学.md "wikilink")）
 18. Physics（[物理学](../Page/物理学.md "wikilink")）
-19. Plant & Animal
-    Science（[植物学和](../Page/植物学.md "wikilink")[动物学](https://zh.wikipedia.org/wiki/动物学 "wikilink")，或称植物科学和动物科学）
+19. Plant & Animal Science（[植物学](../Page/植物学.md "wikilink")和[动物学](https://zh.wikipedia.org/wiki/动物学 "wikilink")，或称植物科学和动物科学）
 20. Psychiatry/Psychology（[精神病学](../Page/精神病学.md "wikilink")/[心理学](../Page/心理学.md "wikilink")）
 21. Social Sciences, general（[社会科学](../Page/社会科学.md "wikilink")，总称）
 22. Space Science（[空间科学](https://zh.wikipedia.org/wiki/空间科学 "wikilink")）
 
 ### 总体结论
 
-排行结果：划定世界前20名为顶尖科研院所，共有14所来自[美国的](../Page/美国.md "wikilink")[大学位列榜中](https://zh.wikipedia.org/wiki/大学 "wikilink")，随后是[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")3所[大学](https://zh.wikipedia.org/wiki/大学 "wikilink")。[加拿大](../Page/加拿大.md "wikilink")、[日本](../Page/日本.md "wikilink")、[德国各有一所入榜](../Page/德国.md "wikilink")。[美国大学在北美洲占有绝对统治地位](https://zh.wikipedia.org/wiki/美国大学列表 "wikilink")（美洲15所中的14所），在世界上也占70%（20所中的14所）的绝对多数。[英国大学在](../Page/英国大学列表.md "wikilink")[欧盟中占有绝对多数](https://zh.wikipedia.org/wiki/欧盟 "wikilink")（欧洲4所中的3所）。[日本大学是亚洲唯一进入前](https://zh.wikipedia.org/wiki/日本大学列表 "wikilink")20的大学。
+排行结果：划定世界前20名为顶尖科研院所，共有14所来自[美国](../Page/美国.md "wikilink")的[大学位列榜中](https://zh.wikipedia.org/wiki/大学 "wikilink")，随后是[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")3所[大学](https://zh.wikipedia.org/wiki/大学 "wikilink")。[加拿大](../Page/加拿大.md "wikilink")、[日本](../Page/日本.md "wikilink")、[德国](../Page/德国.md "wikilink")各有一所入榜。[美国大学在北美洲占有绝对统治地位](https://zh.wikipedia.org/wiki/美国大学列表 "wikilink")（美洲15所中的14所），在世界上也占70%（20所中的14所）的绝对多数。[英国大学在](../Page/英国大学列表.md "wikilink")[欧盟中占有绝对多数](https://zh.wikipedia.org/wiki/欧盟 "wikilink")（欧洲4所中的3所）。[日本大学是亚洲唯一进入前](https://zh.wikipedia.org/wiki/日本大学列表 "wikilink")20的大学。
 
-其中[美国的](../Page/美国.md "wikilink")[哈佛大学为](../Page/哈佛大学.md "wikilink")[美国和](../Page/美国.md "wikilink")[北美洲的引文桂冠](../Page/北美洲.md "wikilink")。[欧洲的引文桂冠研究所是](../Page/欧洲.md "wikilink")[德国的](../Page/德国.md "wikilink")[马普学会](https://zh.wikipedia.org/wiki/马普学会 "wikilink")（MPI），欧洲的引文桂冠[大学是](https://zh.wikipedia.org/wiki/大学 "wikilink")[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦大学学院](../Page/伦敦大学学院.md "wikilink")（UCL）。[加拿大的引文桂冠是](../Page/加拿大.md "wikilink")[多伦多大学](https://zh.wikipedia.org/wiki/多伦多大学 "wikilink")。[日本及](../Page/日本.md "wikilink")[亚洲的引文桂冠是](../Page/亚洲.md "wikilink")[东京大学](../Page/东京大学.md "wikilink")。\[4\]
+其中[美国](../Page/美国.md "wikilink")的[哈佛大学](../Page/哈佛大学.md "wikilink")为[美国](../Page/美国.md "wikilink")和[北美洲](../Page/北美洲.md "wikilink")的引文桂冠。[欧洲](../Page/欧洲.md "wikilink")的引文桂冠研究所是[德国](../Page/德国.md "wikilink")的[马普学会](https://zh.wikipedia.org/wiki/马普学会 "wikilink")（MPI），欧洲的引文桂冠[大学是](https://zh.wikipedia.org/wiki/大学 "wikilink")[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦大学学院](../Page/伦敦大学学院.md "wikilink")（UCL）。[加拿大](../Page/加拿大.md "wikilink")的引文桂冠是[多伦多大学](https://zh.wikipedia.org/wiki/多伦多大学 "wikilink")。[日本](../Page/日本.md "wikilink")及[亚洲](../Page/亚洲.md "wikilink")的引文桂冠是[东京大学](../Page/东京大学.md "wikilink")。\[4\]
 
 ## 顶尖机构
 
@@ -94,8 +85,7 @@
 
 {{-}}
 
-[Category:研究机构](https://zh.wikipedia.org/wiki/Category:研究机构 "wikilink")
-[Category:大学排名](https://zh.wikipedia.org/wiki/Category:大学排名 "wikilink")
+[Category:研究机构](https://zh.wikipedia.org/wiki/Category:研究机构 "wikilink") [Category:大学排名](https://zh.wikipedia.org/wiki/Category:大学排名 "wikilink")
 
 1.
 

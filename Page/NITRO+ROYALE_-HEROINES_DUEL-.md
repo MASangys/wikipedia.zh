@@ -1,5 +1,4 @@
-《**NITRO+ROYALE -HEROINES
-DUEL-**》（日语：）是[Nitro+发售的](../Page/Nitro+.md "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")。
+《**NITRO+ROYALE -HEROINES DUEL-**》（日语：）是[Nitro+](../Page/Nitro+.md "wikilink")发售的[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")。
 
 ## 概要
 
@@ -10,10 +9,8 @@ DUEL-**》（日语：）是[Nitro+发售的](../Page/Nitro+.md "wikilink")[格�
 ## 游戏角色
 
   - Ein（）
-    [声](https://zh.wikipedia.org/wiki/声优 "wikilink") -
-    [南央美](../Page/南央美.md "wikilink")
-    出自《[Phantom -PHANTOM OF
-    INFERNO-](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")》
+    [声](https://zh.wikipedia.org/wiki/声优 "wikilink") - [南央美](../Page/南央美.md "wikilink")
+    出自《[Phantom -PHANTOM OF INFERNO-](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")》
 
 <!-- end list -->
 
@@ -96,6 +93,4 @@ DUEL-**》（日语：）是[Nitro+发售的](../Page/Nitro+.md "wikilink")[格�
   - [Nitro+官方网站](https://web.archive.org/web/20090110114236/http://www.nitroplus.co.jp/pc/)
       - [游戏官方网站](http://www.nitroplus.co.jp/pc/lineup/into_14/)
 
-[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink")
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
+[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")

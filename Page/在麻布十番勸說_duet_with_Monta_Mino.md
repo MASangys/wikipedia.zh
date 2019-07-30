@@ -1,12 +1,8 @@
-「**在麻布十番勸說 duet with Monta
-Mino**」（）是[SDN48的第](../Page/SDN48.md "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年12月28日由[Universal
-Music
-LLC發售](https://zh.wikipedia.org/wiki/Universal_Music_LLC "wikilink")。
+「**在麻布十番勸說 duet with Monta Mino**」（）是[SDN48](../Page/SDN48.md "wikilink")的第4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年12月28日由[Universal Music LLC發售](https://zh.wikipedia.org/wiki/Universal_Music_LLC "wikilink")。
 
 ## 概要
 
-分為通常盤Type A、Type
-B和劇場盤3種形式發售。標題曲是與[みのもんた的](https://zh.wikipedia.org/wiki/みのもんた "wikilink")[二重奏曲](https://zh.wikipedia.org/wiki/二重奏 "wikilink")。
+分為通常盤Type A、Type B和劇場盤3種形式發售。標題曲是與[みのもんた的](https://zh.wikipedia.org/wiki/みのもんた "wikilink")[二重奏曲](https://zh.wikipedia.org/wiki/二重奏 "wikilink")。
 
 ## 選抜成員
 
@@ -133,7 +129,4 @@ B和劇場盤3種形式發售。標題曲是與[みのもんた的](https://zh.w
 
   - [Universal Music LLC内特設網站](http://www.universal-music.co.jp/sdn48/)
 
-[Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")

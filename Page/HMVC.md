@@ -1,12 +1,6 @@
-[jw0721hmvc14.gif](https://zh.wikipedia.org/wiki/File:jw0721hmvc14.gif "fig:jw0721hmvc14.gif")
-**HMVC**（**Hierarchical-Model-View-Controller**），也可以叫做 Layered
-[MVC](../Page/MVC.md "wikilink")。顾名思义，就是按等级划分的 MVC
-模式，简单的解释就是把MVC又细分成了多个子
-MVC，每个模块就分成一个 MVC。
+[jw0721hmvc14.gif](https://zh.wikipedia.org/wiki/File:jw0721hmvc14.gif "fig:jw0721hmvc14.gif") **HMVC**（**Hierarchical-Model-View-Controller**），也可以叫做 Layered [MVC](../Page/MVC.md "wikilink")。顾名思义，就是按等级划分的 MVC 模式，简单的解释就是把MVC又细分成了多个子 MVC，每个模块就分成一个 MVC。
 
-使用 HMVC 的好处就是可以降低各个功能模块之间的耦合性，提高代码复用性，使得每个功能都可以独立出来，每个模块都有自己的 MVC
-结构，这就有点像 [ActiveX](../Page/ActiveX.md "wikilink")
-控件，每个控件都有自己的行为，控件之间互不影响。
+使用 HMVC 的好处就是可以降低各个功能模块之间的耦合性，提高代码复用性，使得每个功能都可以独立出来，每个模块都有自己的 MVC 结构，这就有点像 [ActiveX](../Page/ActiveX.md "wikilink") 控件，每个控件都有自己的行为，控件之间互不影响。
 
 ## [CodeIgniter](../Page/CodeIgniter.md "wikilink") 结构示意
 
@@ -30,8 +24,7 @@ MVC，每个模块就分成一个 MVC。
 `           |- ...`
 `       |- ...`
 
-　　上面的就是 [CodeIgniter](../Page/CodeIgniter.md "wikilink") 原来的结构，如果是 HMVC
-的话结构就是：
+　　上面的就是 [CodeIgniter](../Page/CodeIgniter.md "wikilink") 原来的结构，如果是 HMVC 的话结构就是：
 
 ` application`
 `   |- modules`
@@ -61,11 +54,6 @@ MVC，每个模块就分成一个 MVC。
 `   |- views`
 `       |- ...`
 
-请注意，以上只是 CodeIgniter 框架的 HMVC 文件夹结构的一种表现形式，不代表 HMVC
-必须以这个结构为准，需要根据不同语言或框架来设计其 HMVC
-结构。
+请注意，以上只是 CodeIgniter 框架的 HMVC 文件夹结构的一种表现形式，不代表 HMVC 必须以这个结构为准，需要根据不同语言或框架来设计其 HMVC 结构。
 
-[Category:软件架构](https://zh.wikipedia.org/wiki/Category:软件架构 "wikilink")
-[Category:软件设计模式](https://zh.wikipedia.org/wiki/Category:软件设计模式 "wikilink")
-[Category:編程典範](https://zh.wikipedia.org/wiki/Category:編程典範 "wikilink")
-[Category:人機互動](https://zh.wikipedia.org/wiki/Category:人機互動 "wikilink")
+[Category:软件架构](https://zh.wikipedia.org/wiki/Category:软件架构 "wikilink") [Category:软件设计模式](https://zh.wikipedia.org/wiki/Category:软件设计模式 "wikilink") [Category:編程典範](https://zh.wikipedia.org/wiki/Category:編程典範 "wikilink") [Category:人機互動](https://zh.wikipedia.org/wiki/Category:人機互動 "wikilink")

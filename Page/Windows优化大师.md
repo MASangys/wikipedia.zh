@@ -6,10 +6,7 @@
 
 [分类:系统软件](https://zh.wikipedia.org/wiki/分类:系统软件 "wikilink")
 
-1.  [揭开"Windows优化大师"背后的秘密 - 软件频道 |
-    IT168](http://publish.it168.com/2004/1216/20041216004001.shtml)
-2.  [完全免费
-    Windows优化大师7.99新版发布](http://news.mydrivers.com/1/167/167718.htm)
+1.  [揭开"Windows优化大师"背后的秘密 - 软件频道 | IT168](http://publish.it168.com/2004/1216/20041216004001.shtml)
+2.  [完全免费 Windows优化大师7.99新版发布](http://news.mydrivers.com/1/167/167718.htm)
 3.  [优化大师全面免费 10年共享之路结束](http://article.pchome.net/content-1143679.html)
-4.  [Windows优化大师 7.99 Build 12.301 免费版 下载 - 系统优化 -
-    天空软件站](http://www.skycn.com/soft/2988.html)
+4.  [Windows优化大师 7.99 Build 12.301 免费版 下载 - 系统优化 - 天空软件站](http://www.skycn.com/soft/2988.html)

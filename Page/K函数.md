@@ -1,5 +1,4 @@
-**K函数**是[hyper阶乘函数在](https://zh.wikipedia.org/wiki/階乘#hyper阶乘 "wikilink")[复数上的扩展](../Page/复数_\(数学\).md "wikilink")，如同[Γ函数](../Page/Γ函数.md "wikilink")是[阶乘函数在复数上的扩展](https://zh.wikipedia.org/wiki/阶乘 "wikilink")。
-K函数的定义为：
+**K函数**是[hyper阶乘函数在](https://zh.wikipedia.org/wiki/階乘#hyper阶乘 "wikilink")[复数上的扩展](../Page/复数_\(数学\).md "wikilink")，如同[Γ函数](../Page/Γ函数.md "wikilink")是[阶乘函数在复数上的扩展](https://zh.wikipedia.org/wiki/阶乘 "wikilink")。 K函数的定义为：
 
 \[K(z)=(2\pi)^{(-z-1)/2} \exp\left[\begin{pmatrix} z\\ 2\end{pmatrix}+\int_0^{z-1} \ln(t!)\,dt\right].\]
 
@@ -17,9 +16,7 @@ K函数的定义为：
 
 或者使用[广义多伽玛函数表示为](https://zh.wikipedia.org/wiki/广义多伽玛函数 "wikilink")：\[2\]
 
-\[K(z)=A e^{\psi(-2,z)+\frac{z^2-z}{2}}.\]
-其中A表示[格莱舍常数](https://zh.wikipedia.org/wiki/格莱舍常数 "wikilink")（Glaisher
-constant）。
+\[K(z)=A e^{\psi(-2,z)+\frac{z^2-z}{2}}.\] 其中A表示[格莱舍常数](https://zh.wikipedia.org/wiki/格莱舍常数 "wikilink")（Glaisher constant）。
 
 K函数与[Γ函数](../Page/Γ函数.md "wikilink")和[巴尼斯G函数](../Page/巴尼斯G函数.md "wikilink")关系密切。对于自然数n，我们有：
 
@@ -43,9 +40,5 @@ K函数与[Γ函数](../Page/Γ函数.md "wikilink")和[巴尼斯G函数](../Pag
   -
 [Category:伽玛及相关函数](https://zh.wikipedia.org/wiki/Category:伽玛及相关函数 "wikilink")
 
-1.  [Victor S. Adamchik. PolyGamma Functions of Negative
-    Order](http://www.cs.cmu.edu/~adamchik/articles/polyg.htm)
-2.  [Olivier Espinosa Victor H. Moll. A Generalized polygamma function.
-    Integral Transforms and Special Functions Vol. 15, No. 2,
-    April 2004,
-    pp. 101–115](http://www.math.tulane.edu/~vhm/papers_html/genoff.pdf)
+1.  [Victor S. Adamchik. PolyGamma Functions of Negative Order](http://www.cs.cmu.edu/~adamchik/articles/polyg.htm)
+2.  [Olivier Espinosa Victor H. Moll. A Generalized polygamma function. Integral Transforms and Special Functions Vol. 15, No. 2, April 2004, pp. 101–115](http://www.math.tulane.edu/~vhm/papers_html/genoff.pdf)

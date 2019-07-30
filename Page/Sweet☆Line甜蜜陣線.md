@@ -1,6 +1,4 @@
-是撰寫，[如月水繪製插畫的](https://zh.wikipedia.org/wiki/如月水 "wikilink")[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，由[ASCII
-Media
-Works出版社之](../Page/ASCII_Media_Works.md "wikilink")[電擊文庫](../Page/電擊文庫.md "wikilink")出版發行。中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理發行。
+是撰寫，[如月水繪製插畫的](https://zh.wikipedia.org/wiki/如月水 "wikilink")[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，由[ASCII Media Works出版社之](../Page/ASCII_Media_Works.md "wikilink")[電擊文庫](../Page/電擊文庫.md "wikilink")出版發行。中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理發行。
 
 ## 故事簡介
 
@@ -89,6 +87,4 @@ Works出版社之](../Page/ASCII_Media_Works.md "wikilink")[電擊文庫](../Pag
 
 ## 外部連結
 
-[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink")
-[Category:聲優題材作品](https://zh.wikipedia.org/wiki/Category:聲優題材作品 "wikilink")
-[Category:2009年小說](https://zh.wikipedia.org/wiki/Category:2009年小說 "wikilink")
+[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink") [Category:聲優題材作品](https://zh.wikipedia.org/wiki/Category:聲優題材作品 "wikilink") [Category:2009年小說](https://zh.wikipedia.org/wiki/Category:2009年小說 "wikilink")

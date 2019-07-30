@@ -1,21 +1,14 @@
-**WAVE
-G**（），本名**謝景麒**（），台灣華語流行音樂[編曲家](https://zh.wikipedia.org/wiki/編曲 "wikilink")、[填詞人](https://zh.wikipedia.org/wiki/填詞人 "wikilink")、[作曲人](https://zh.wikipedia.org/wiki/作曲人 "wikilink")、[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")。現階段著重於詞曲創作與音樂製作以及培育音樂新人及影像創作。
+**WAVE G**（），本名**謝景麒**（），台灣華語流行音樂[編曲家](https://zh.wikipedia.org/wiki/編曲 "wikilink")、[填詞人](https://zh.wikipedia.org/wiki/填詞人 "wikilink")、[作曲人](https://zh.wikipedia.org/wiki/作曲人 "wikilink")、[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")。現階段著重於詞曲創作與音樂製作以及培育音樂新人及影像創作。
 
 ## 簡歷
 
-WAVE
-G本名謝景麒，出生於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")。2000年參加《MTV
-新聲鬥陣賽》之後，啓程了音樂之路。2004年從電視配樂中嶄露頭角，在華語流行音樂的編曲曲風多元，風格多以鋼琴絃樂表現的大氣抒情歌曲。
+WAVE G本名謝景麒，出生於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")。2000年參加《MTV 新聲鬥陣賽》之後，啓程了音樂之路。2004年從電視配樂中嶄露頭角，在華語流行音樂的編曲曲風多元，風格多以鋼琴絃樂表現的大氣抒情歌曲。
 
-2000年，MTV音樂台《新聲鬥陣賽》創作組亞軍。2003年，第十五屆香港CASH
-流行曲創作大賽台灣區初賽入選。2004年，修讀[文化大學推廣部DTEC編曲課程](https://zh.wikipedia.org/wiki/文化大學 "wikilink")。
+2000年，MTV音樂台《新聲鬥陣賽》創作組亞軍。2003年，第十五屆香港CASH 流行曲創作大賽台灣區初賽入選。2004年，修讀[文化大學推廣部DTEC編曲課程](https://zh.wikipedia.org/wiki/文化大學 "wikilink")。
 
-2010年為上海世博上海琉璃藝術博物館《琉璃工坊-女媧補天》動畫配樂。2011年創立愛世紀聲像。2014年世足中文主題曲編曲。2015年為《小時代4：靈魂盡頭》片尾曲音樂製作。
-2016年《SNH48-Team X 3rd Stage》「夢想的旗幟」的劇場公演編曲。2017年，愛世紀聲像製作發行獨立雙人組合
-ABS-首張數位EP《ABS 解悶》、與製作發行甜美勾勾女新人徐藝的首張EP《誰說的二十歲的女孩不能唱一首這麼慘的情歌》。
+2010年為上海世博上海琉璃藝術博物館《琉璃工坊-女媧補天》動畫配樂。2011年創立愛世紀聲像。2014年世足中文主題曲編曲。2015年為《小時代4：靈魂盡頭》片尾曲音樂製作。 2016年《SNH48-Team X 3rd Stage》「夢想的旗幟」的劇場公演編曲。2017年，愛世紀聲像製作發行獨立雙人組合 ABS-首張數位EP《ABS 解悶》、與製作發行甜美勾勾女新人徐藝的首張EP《誰說的二十歲的女孩不能唱一首這麼慘的情歌》。
 
-電視配樂作品有：《Silence-深情密碼》、《轉角遇到愛》、《美味關係》、 《牽牛花開的日子》;
-編曲作品收錄於華語歌手：蔡依林、A-Lin、蕭敬騰、陶喆、羅志祥、蔡旻佑、楊丞琳、品冠、林育羣、丁噹、張韶涵、范瑋琪、郭靜、喬任梁、陳學冬、楊宗緯、蕭煌奇、黃妃、陳零九、林佳音（花兒）等多位著名歌手專輯中。
+電視配樂作品有：《Silence-深情密碼》、《轉角遇到愛》、《美味關係》、 《牽牛花開的日子》; 編曲作品收錄於華語歌手：蔡依林、A-Lin、蕭敬騰、陶喆、羅志祥、蔡旻佑、楊丞琳、品冠、林育羣、丁噹、張韶涵、范瑋琪、郭靜、喬任梁、陳學冬、楊宗緯、蕭煌奇、黃妃、陳零九、林佳音（花兒）等多位著名歌手專輯中。
 
 講師經歷：台北城市大學與MÜST社團法人中華音樂著作權協會所主辦之【2015音樂創作人才培訓國際工作坊】編曲基礎班 講座講師。
 
@@ -1317,9 +1310,7 @@ ABS-首張數位EP《ABS 解悶》、與製作發行甜美勾勾女新人徐藝�
 ## 參考來源
 
   - [愛世紀聲像 官網](http://www.lovecentury.com.tw)
-  - [WAVE G 個人(簡介)傳記來源
-    愛世紀聲像](https://archive.is/20130729144701/http://www.lovecentury.com.tw/2013/07/lcm-member/)
+  - [WAVE G 個人(簡介)傳記來源 愛世紀聲像](https://archive.is/20130729144701/http://www.lovecentury.com.tw/2013/07/lcm-member/)
   - [WAVE G 新浪微博-本人管理](http://weibo.com/u/1858787144)
-  - [MUST 社團法人中華音樂著作權協會
-    官網訊息](https://www.must.org.tw/tw/about/08_show.aspx?num=59&page=3)
+  - [MUST 社團法人中華音樂著作權協會 官網訊息](https://www.must.org.tw/tw/about/08_show.aspx?num=59&page=3)
   - [YAHOO新聞2015音樂創作人才培訓國際工作坊](https://hk.news.yahoo.com/2015-%E9%9F%B3%E6%A8%82%E5%89%B5%E4%BD%9C%E4%BA%BA%E6%89%8D%E5%9F%B9%E8%A8%93%E5%9C%8B%E9%9A%9B%E5%B7%A5%E4%BD%9C%E5%9D%8A-033128351.html)

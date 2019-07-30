@@ -1,10 +1,6 @@
-**Howcast**是一個以美國為基地，主要以輕鬆和幽默的文字或影片提供簡短[DIY](../Page/DIY.md "wikilink")、[冷知識和](https://zh.wikipedia.org/wiki/冷知識 "wikilink")[通識等的資訊型網站](https://zh.wikipedia.org/wiki/通識 "wikilink")，而其原始影片大部份由業餘或在學人士製作\[1\]，透過「新興製片人方案」（Emerging
-Filmmakers Program）支付每條影片少量報酬，如果投稿的影片受歡迎的話投稿者就可以再分得該影片的一半廣告收益。
-\[2\]Howcast的資訊分為25個種類，主題由如何寫求職信到如何應付大熊攻擊都有。
-\[3\]其網站直到2009年為止收錄了超過10萬條短片，亦曾經與[花花公子](../Page/花花公子.md "wikilink")、[捷藍航空](../Page/捷藍航空.md "wikilink")、[雀巢公司和](https://zh.wikipedia.org/wiki/雀巢公司 "wikilink")[美國國務院等客戶合作提供Howcast風格的資訊型廣告短片](https://zh.wikipedia.org/wiki/美國國務院 "wikilink")。\[4\]
+**Howcast**是一個以美國為基地，主要以輕鬆和幽默的文字或影片提供簡短[DIY](../Page/DIY.md "wikilink")、[冷知識和](https://zh.wikipedia.org/wiki/冷知識 "wikilink")[通識等的資訊型網站](https://zh.wikipedia.org/wiki/通識 "wikilink")，而其原始影片大部份由業餘或在學人士製作\[1\]，透過「新興製片人方案」（Emerging Filmmakers Program）支付每條影片少量報酬，如果投稿的影片受歡迎的話投稿者就可以再分得該影片的一半廣告收益。 \[2\]Howcast的資訊分為25個種類，主題由如何寫求職信到如何應付大熊攻擊都有。 \[3\]其網站直到2009年為止收錄了超過10萬條短片，亦曾經與[花花公子](../Page/花花公子.md "wikilink")、[捷藍航空](../Page/捷藍航空.md "wikilink")、[雀巢公司和](https://zh.wikipedia.org/wiki/雀巢公司 "wikilink")[美國國務院等客戶合作提供Howcast風格的資訊型廣告短片](https://zh.wikipedia.org/wiki/美國國務院 "wikilink")。\[4\]
 
-Howcast.com於2008年2月6日成立，辦公室位於[紐約市和](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[三藩市](https://zh.wikipedia.org/wiki/三藩市 "wikilink")，她的其中一個合辦人兼行政總監Jason
-Liebman是前[-{zh-hans:谷歌;zh-hant:Google}-雇員](../Page/Google.md "wikilink")。\[5\]其網站被[時代雜志評選為](https://zh.wikipedia.org/wiki/時代雜志 "wikilink")「2008年50個最佳網站」之一\[6\]及入選的2008年「頭100個新興網站」\[7\]，2009年獲提名[威比獎的How](https://zh.wikipedia.org/wiki/威比獎 "wikilink")-to和旅行兩個類別。\[8\]
+Howcast.com於2008年2月6日成立，辦公室位於[紐約市和](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[三藩市](https://zh.wikipedia.org/wiki/三藩市 "wikilink")，她的其中一個合辦人兼行政總監Jason Liebman是前[-{zh-hans:谷歌;zh-hant:Google}-雇員](../Page/Google.md "wikilink")。\[5\]其網站被[時代雜志評選為](https://zh.wikipedia.org/wiki/時代雜志 "wikilink")「2008年50個最佳網站」之一\[6\]及入選的2008年「頭100個新興網站」\[7\]，2009年獲提名[威比獎的How](https://zh.wikipedia.org/wiki/威比獎 "wikilink")-to和旅行兩個類別。\[8\]
 
 ## 新興製片人方案
 
@@ -19,10 +15,7 @@ Liebman是前[-{zh-hans:谷歌;zh-hant:Google}-雇員](../Page/Google.md "wikili
   - [Howcast官方網站](http://www.howcast.com/)
   - [Howcast的Youtube頻道](http://www.youtube.com/user/howcast?blend=1&ob=4)
 
-[Category:解释作法网站](https://zh.wikipedia.org/wiki/Category:解释作法网站 "wikilink")
-[Category:娛樂網站](https://zh.wikipedia.org/wiki/Category:娛樂網站 "wikilink")
-[Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink")
-[Category:2008年建立的网站](https://zh.wikipedia.org/wiki/Category:2008年建立的网站 "wikilink")
+[Category:解释作法网站](https://zh.wikipedia.org/wiki/Category:解释作法网站 "wikilink") [Category:娛樂網站](https://zh.wikipedia.org/wiki/Category:娛樂網站 "wikilink") [Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink") [Category:2008年建立的网站](https://zh.wikipedia.org/wiki/Category:2008年建立的网站 "wikilink")
 
 1.
 2.

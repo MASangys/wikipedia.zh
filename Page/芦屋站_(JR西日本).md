@@ -1,6 +1,6 @@
-**蘆屋站**（）是一個位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[蘆屋市船戶町](../Page/蘆屋市.md "wikilink")，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[東海道本線的](../Page/東海道本線.md "wikilink")[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。「[JR神戶線](../Page/JR神戶線.md "wikilink")」的愛稱路段內，[新快速的停靠站](../Page/新快速.md "wikilink")。此站與[阪神電鐵的](https://zh.wikipedia.org/wiki/阪神電鐵 "wikilink")[同名車站之步行距離約](../Page/蘆屋車站_\(阪神\).md "wikilink")1公里。
+**蘆屋站**（）是一個位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[蘆屋市](../Page/蘆屋市.md "wikilink")船戶町，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[東海道本線](../Page/東海道本線.md "wikilink")的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。「[JR神戶線](../Page/JR神戶線.md "wikilink")」的愛稱路段內，[新快速](../Page/新快速.md "wikilink")的停靠站。此站與[阪神電鐵的](https://zh.wikipedia.org/wiki/阪神電鐵 "wikilink")[同名車站之步行距離約](../Page/蘆屋車站_\(阪神\).md "wikilink")1公里。
 
-1996年10月1日啟用的（）與2007年3月18日啟用的（），兩個相鄰車站皆為[國鐵分割民營化後新設的車站](../Page/國鐵分割民營化.md "wikilink")。
+1996年10月1日啟用的（）與2007年3月18日啟用的（），兩個相鄰車站皆為[國鐵分割民營化](../Page/國鐵分割民營化.md "wikilink")後新設的車站。
 
 ## 車站結構
 
@@ -80,7 +80,4 @@
 
 ## 參考資料
 
-[Category:東海道本線車站_(西日本旅客鐵道)](https://zh.wikipedia.org/wiki/Category:東海道本線車站_\(西日本旅客鐵道\) "wikilink")
-[Category:1913年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1913年啟用的鐵路車站 "wikilink")
-[Category:蘆屋市鐵路車站](https://zh.wikipedia.org/wiki/Category:蘆屋市鐵路車站 "wikilink")
-[Category:日本鐵路車站_A](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_A "wikilink")
+[Category:東海道本線車站_(西日本旅客鐵道)](https://zh.wikipedia.org/wiki/Category:東海道本線車站_\(西日本旅客鐵道\) "wikilink") [Category:1913年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1913年啟用的鐵路車站 "wikilink") [Category:蘆屋市鐵路車站](https://zh.wikipedia.org/wiki/Category:蘆屋市鐵路車站 "wikilink") [Category:日本鐵路車站_A](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_A "wikilink")

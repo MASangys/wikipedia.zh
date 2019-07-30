@@ -1,18 +1,10 @@
-[Mama & Son](https://zh.wikipedia.org/wiki/Mama_&_Son "wikilink") |所屬團體
-= AKB48 |所屬隊伍 = Team A |前屬隊伍 = 研究生
+[Mama & Son](https://zh.wikipedia.org/wiki/Mama_&_Son "wikilink") |所屬團體 = AKB48 |所屬隊伍 = Team A |前屬隊伍 = 研究生
 →Team 4（初代）
 →Team B
-→Team 4 |選拔次數 = 14次 |第一屆總選舉排名 = |第二屆總選舉排名 = |第三屆總選舉排名 = 未入圍 |第四屆總選舉排名 =
-未入圍 |第五屆總選舉排名 = 未入圍 |第六屆總選舉排名 = 第32名 |第七屆總選舉排名 = 第28名 |第八屆總選舉排名 = 第26名
-|第九屆總選舉排名 = 第21名 |第十屆總選舉排名 = 第36名 |相關團體 =
-[杏李玲](https://zh.wikipedia.org/wiki/杏李玲 "wikilink")
-（；Anrire） |官方網站 =
-<https://www.akb48.co.jp/about/members/detail.php?mid=61> 官網個人介紹頁 }}
+→Team 4 |選拔次數 = 14次 |第一屆總選舉排名 = |第二屆總選舉排名 = |第三屆總選舉排名 = 未入圍 |第四屆總選舉排名 = 未入圍 |第五屆總選舉排名 = 未入圍 |第六屆總選舉排名 = 第32名 |第七屆總選舉排名 = 第28名 |第八屆總選舉排名 = 第26名 |第九屆總選舉排名 = 第21名 |第十屆總選舉排名 = 第36名 |相關團體 = [杏李玲](https://zh.wikipedia.org/wiki/杏李玲 "wikilink")
+（；Anrire） |官方網站 = <https://www.akb48.co.jp/about/members/detail.php?mid=61> 官網個人介紹頁 }}
 
-**加藤玲奈**（）是[日本](../Page/日本.md "wikilink")[偶像藝人](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink")
-Team
-A成員，暱稱為「Renacchi」（），[千葉縣出身](../Page/千葉縣.md "wikilink")，所屬[經紀公司為](../Page/經紀公司.md "wikilink")[Mama
-& Son](https://zh.wikipedia.org/wiki/Mama_&_Son "wikilink")。
+**加藤玲奈**（）是[日本](../Page/日本.md "wikilink")[偶像藝人](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink") Team A成員，暱稱為「Renacchi」（），[千葉縣](../Page/千葉縣.md "wikilink")出身，所屬[經紀公司](../Page/經紀公司.md "wikilink")為[Mama & Son](https://zh.wikipedia.org/wiki/Mama_&_Son "wikilink")。
 
 ## 經歴
 
@@ -20,9 +12,7 @@ A成員，暱稱為「Renacchi」（），[千葉縣出身](../Page/千葉縣.md
 
   - 3月31日, 通過AKB48的第七屆研究生試演會，成為10期研究生。
   - 6月12日, 三個月的訓練課程後,通過甄選審查（）合格
-  - 6月22日,
-    與其他合格的10期研究生一同在6月22日於[研究生「劇場的女神」](https://zh.wikipedia.org/wiki/Team_B_5th_Stage「劇場的女神」#AKB48_Team研究生_Stage「劇場的女神」公演 "wikilink")（）公演中正式亮相，以《初戀呦
-    你好》（）一曲作為首次舞台表演，進入演藝界。
+  - 6月22日, 與其他合格的10期研究生一同在6月22日於[研究生「劇場的女神」](https://zh.wikipedia.org/wiki/Team_B_5th_Stage「劇場的女神」#AKB48_Team研究生_Stage「劇場的女神」公演 "wikilink")（）公演中正式亮相，以《初戀呦 你好》（）一曲作為首次舞台表演，進入演藝界。
 
 **2011**
 
@@ -30,40 +20,24 @@ A成員，暱稱為「Renacchi」（），[千葉縣出身](../Page/千葉縣.md
 
 **2012**
 
-  - 1月19日, 舉辦的另一場年度固定演唱活動「[AKB48 Request Hour Setlist Best
-    100](../Page/AKB48_重溫時間_最佳曲目100_2012.md "wikilink")」中，首度在舞台上獨唱演出《[FIRST
-    LOVE](https://zh.wikipedia.org/wiki/驚喜的淚水！ "wikilink")》一曲\[1\]。
-  - 3月24日,
-    研究生升格通告中，加藤玲奈與川榮李奈、[岩田華-{怜}-](../Page/岩田華怜.md "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[田野優花五人獲選升格成為正式成員](../Page/田野優花.md "wikilink")，加入最年輕的分隊Team
-    4。
-  - 5月23日發表的第26張單曲《[仲夏的Sounds
-    good\!](../Page/仲夏的Sounds_good!.md "wikilink")》中，獲選進入負責演唱A面主打歌的選拔組中，而且經常有進入電視打歌的22名媒體選拔組的機會，知名度大增。
-  - 8月24日于[東京巨蛋舉行](../Page/東京巨蛋.md "wikilink")「[AKB48 in TOKYO DOME
-    ～1830m的夢想～](../Page/AKB48_in_TOKYO_DOME_～1830m的夢想～.md "wikilink")」演唱會第一天的安可時間，宣佈了第二次組閣（成員分隊洗牌）、Team
-    4解散的消息。配合這變動加藤與部分的Team 4成員被重新編組到Team
-    B，成為新生的[梅田Team](../Page/梅田彩佳.md "wikilink")
-    B一份子。第二次組閣後的Team B在同年11月1日正式開始運作，加藤也成為新隊伍啟動後第一場公演（11月4日的[Team B
-    Waiting公演](https://zh.wikipedia.org/wiki/AKB48“Waiting”公演#Team_B_“Waiting”公演 "wikilink")）之出場成員之一。
+  - 1月19日, 舉辦的另一場年度固定演唱活動「[AKB48 Request Hour Setlist Best 100](../Page/AKB48_重溫時間_最佳曲目100_2012.md "wikilink")」中，首度在舞台上獨唱演出《[FIRST LOVE](https://zh.wikipedia.org/wiki/驚喜的淚水！ "wikilink")》一曲\[1\]。
+  - 3月24日, 研究生升格通告中，加藤玲奈與川榮李奈、[岩田華-{怜}-](../Page/岩田華怜.md "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[田野優花](../Page/田野優花.md "wikilink")五人獲選升格成為正式成員，加入最年輕的分隊Team 4。
+  - 5月23日發表的第26張單曲《[仲夏的Sounds good\!](../Page/仲夏的Sounds_good!.md "wikilink")》中，獲選進入負責演唱A面主打歌的選拔組中，而且經常有進入電視打歌的22名媒體選拔組的機會，知名度大增。
+  - 8月24日于[東京巨蛋](../Page/東京巨蛋.md "wikilink")舉行「[AKB48 in TOKYO DOME ～1830m的夢想～](../Page/AKB48_in_TOKYO_DOME_～1830m的夢想～.md "wikilink")」演唱會第一天的安可時間，宣佈了第二次組閣（成員分隊洗牌）、Team 4解散的消息。配合這變動加藤與部分的Team 4成員被重新編組到Team B，成為新生的[梅田Team](../Page/梅田彩佳.md "wikilink") B一份子。第二次組閣後的Team B在同年11月1日正式開始運作，加藤也成為新隊伍啟動後第一場公演（11月4日的[Team B Waiting公演](https://zh.wikipedia.org/wiki/AKB48“Waiting”公演#Team_B_“Waiting”公演 "wikilink")）之出場成員之一。
 
 **2014**
 
-  - 於2月24日举行的[AKB48集團大組閣祭中發表將會移藉至新Team](../Page/AKB48集團大組閣祭.md "wikilink")
-    4，并于4月24日正式移藉至Team 4。
+  - 於2月24日举行的[AKB48集團大組閣祭](../Page/AKB48集團大組閣祭.md "wikilink")中發表將會移藉至新Team 4，并于4月24日正式移藉至Team 4。
   - 6月10日，於[AKB48第37張單曲選拔總選舉中得到第](https://zh.wikipedia.org/wiki/AKB48第37張單曲選拔總選舉 "wikilink")32名的成績，首次進入圈內。
-  - 12月16日，於東京巨蛋城舉行的AKB48紅白對抗歌合戰中,
-    發表被选为了AKB48与人气动画《[妖怪手錶](https://zh.wikipedia.org/wiki/妖怪手錶 "wikilink")》（）合作结成的小分队「喵KB」（）的成员並演唱该动画的第三支片尾曲《》（）。
+  - 12月16日，於東京巨蛋城舉行的AKB48紅白對抗歌合戰中, 發表被选为了AKB48与人气动画《[妖怪手錶](https://zh.wikipedia.org/wiki/妖怪手錶 "wikilink")》（）合作结成的小分队「喵KB」（）的成员並演唱该动画的第三支片尾曲《》（）。
 
 **2017**
 
-  - 9月5日，與同為AKB48成員的[向井地美音在前AKB](../Page/向井地美音.md "wikilink")48成員[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[高橋南於網路串流網站](../Page/高橋南.md "wikilink")[SHOWROOM主持的特別節目上](../Page/SHOWROOM.md "wikilink")，宣布轉移所屬經紀公司至[Mama
-    &
-    Son](https://zh.wikipedia.org/wiki/Mama_&_Son "wikilink")，該公司亦與小嶋、高橋兩人有合作關係\[2\]\[3\]。
+  - 9月5日，與同為AKB48成員的[向井地美音](../Page/向井地美音.md "wikilink")在前AKB48成員[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[高橋南](../Page/高橋南.md "wikilink")於網路串流網站[SHOWROOM](../Page/SHOWROOM.md "wikilink")主持的特別節目上，宣布轉移所屬經紀公司至[Mama & Son](https://zh.wikipedia.org/wiki/Mama_&_Son "wikilink")，該公司亦與小嶋、高橋兩人有合作關係\[2\]\[3\]。
 
 ### 小分隊「杏李玲」
 
-2012年10月17日，已移籍至[HKT48的AKB](../Page/HKT48.md "wikilink")48前成員[指原莉乃發表了第二張個人單飛單曲](../Page/指原莉乃.md "wikilink")《[懦弱的化裝舞會](https://zh.wikipedia.org/wiki/懦弱的化裝舞會 "wikilink")》（），在該單曲主打歌的[MV中啟用了入山杏奈](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")、川榮李奈與加藤玲奈三個新生代成員替她伴舞，以「指原莉乃
-with
-杏李玲」（）的名義發片。其中「」（AnRiRe）是加藤等三個人的名字之拼音首字的[片假名合寫](../Page/片假名.md "wikilink")，也就是杏奈（Anna的「An」）、李奈（Rina的「Ri」）與玲奈（Rena的「Re」）三人的合稱。因為這原因，雖然入山、川榮與加藤三人並無實際上的合作作品，但卻經常被相提並論。
+2012年10月17日，已移籍至[HKT48](../Page/HKT48.md "wikilink")的AKB48前成員[指原莉乃](../Page/指原莉乃.md "wikilink")發表了第二張個人單飛單曲《[懦弱的化裝舞會](https://zh.wikipedia.org/wiki/懦弱的化裝舞會 "wikilink")》（），在該單曲主打歌的[MV中啟用了入山杏奈](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")、川榮李奈與加藤玲奈三個新生代成員替她伴舞，以「指原莉乃 with 杏李玲」（）的名義發片。其中「」（AnRiRe）是加藤等三個人的名字之拼音首字的[片假名](../Page/片假名.md "wikilink")合寫，也就是杏奈（Anna的「An」）、李奈（Rina的「Ri」）與玲奈（Rena的「Re」）三人的合稱。因為這原因，雖然入山、川榮與加藤三人並無實際上的合作作品，但卻經常被相提並論。
 
 ### 玲奈七總選舉
 
@@ -71,11 +45,9 @@ with
 
 加藤玲奈在AKB48劇場表演時的自我介紹招呼語是「唉呀？有看到在哪裡嗎？那裡？這裡？（Renacchi！！）我是暱稱Renacchi的加藤玲奈」（）。雖然官方暱稱為「Renacchi」，但因為加藤的姓名以日本人名的發音來說，屬於較簡短的四個音節，因此AKB48的成員也經常直接以「Katorena」（\[4\]）稱呼她。
 
-加藤無論是在公開還是私下場合，都經常提及加入AKB48是因為希望未來能成為一名服裝[模特兒](../Page/模特兒.md "wikilink")，並且曾在AKB48的冠名綜藝節目《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》所舉辦的成員日常私服比賽中，獲得評審高度好評。除此之外，加藤也對於戲劇表演抱持興趣，並獲得曾與她在Team
-B專屬綜藝節目《[週六夜兒童機器](../Page/週六夜兒童機器.md "wikilink")》（Saturday Night Child
-Machine）合作過的導演、編劇家[福田雄一好評](../Page/福田雄一.md "wikilink")，認為她雖然看似個性迷糊，但在表演方面卻頗有潛力。
+加藤無論是在公開還是私下場合，都經常提及加入AKB48是因為希望未來能成為一名服裝[模特兒](../Page/模特兒.md "wikilink")，並且曾在AKB48的冠名綜藝節目《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》所舉辦的成員日常私服比賽中，獲得評審高度好評。除此之外，加藤也對於戲劇表演抱持興趣，並獲得曾與她在Team B專屬綜藝節目《[週六夜兒童機器](../Page/週六夜兒童機器.md "wikilink")》（Saturday Night Child Machine）合作過的導演、編劇家[福田雄一](../Page/福田雄一.md "wikilink")好評，認為她雖然看似個性迷糊，但在表演方面卻頗有潛力。
 
-以10期生身份加入AKB48的加藤玲奈，曾在電視節目《[有吉AKB共和國](../Page/有吉AKB共和國.md "wikilink")》中提及她與13期生[北澤早紀是同一所小學與中學的同年級同學](../Page/北澤早紀.md "wikilink")，並且曾在小學1年級至4年級間同班。節目主持人[有吉弘行也打趣問到加藤與北澤身為演藝界的前輩與後輩](../Page/有吉弘行.md "wikilink")，在學校相見時是否會覺得尷尬等人際關係問題。
+以10期生身份加入AKB48的加藤玲奈，曾在電視節目《[有吉AKB共和國](../Page/有吉AKB共和國.md "wikilink")》中提及她與13期生[北澤早紀](../Page/北澤早紀.md "wikilink")是同一所小學與中學的同年級同學，並且曾在小學1年級至4年級間同班。節目主持人[有吉弘行](../Page/有吉弘行.md "wikilink")也打趣問到加藤與北澤身為演藝界的前輩與後輩，在學校相見時是否會覺得尷尬等人際關係問題。
 
 ## 歌曲作品
 
@@ -725,7 +697,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](../Page/福田雄�
 <tr class="even">
 <td><p><a href="../Page/蝸牛_(奧真奈美單曲).md" title="wikilink">蝸牛～丸少爺姊妹版～</a><br />
 （）</p></td>
-<td><p>由已從AKB48畢業的前成員<a href="../Page/奧真奈美.md" title="wikilink">奧真奈美以</a>「」（奧真奈美的平假名拼音）名義所發行的《丸少爺》第13季片尾曲單曲之翻唱版本。</p></td>
+<td><p>由已從AKB48畢業的前成員<a href="../Page/奧真奈美.md" title="wikilink">奧真奈美</a>以「」（奧真奈美的平假名拼音）名義所發行的《丸少爺》第13季片尾曲單曲之翻唱版本。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -794,12 +766,12 @@ Machine）合作過的導演、編劇家[福田雄一好評](../Page/福田雄�
 </tr>
 <tr class="odd">
 <td><p>暴風雨之夜</p></td>
-<td><p>擔任<a href="../Page/小森美果.md" title="wikilink">小森美果的替補</a>（under）時之演唱曲</p></td>
+<td><p>擔任<a href="../Page/小森美果.md" title="wikilink">小森美果</a>的替補（under）時之演唱曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>你好 我的初戀</p></td>
-<td><p>擔任<a href="https://zh.wikipedia.org/wiki/奥真奈美" title="wikilink">奥真奈美</a>→<a href="../Page/鈴木紫帆里.md" title="wikilink">鈴木紫帆里的替補時之演唱曲</a></p></td>
+<td><p>擔任<a href="https://zh.wikipedia.org/wiki/奥真奈美" title="wikilink">奥真奈美</a>→<a href="../Page/鈴木紫帆里.md" title="wikilink">鈴木紫帆里</a>的替補時之演唱曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -810,7 +782,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](../Page/福田雄�
 </tr>
 <tr class="even">
 <td><p>為了明天而接吻</p></td>
-<td><p>擔任<a href="../Page/松井咲子.md" title="wikilink">松井咲子的替補時之演唱曲</a></p></td>
+<td><p>擔任<a href="../Page/松井咲子.md" title="wikilink">松井咲子</a>的替補時之演唱曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -884,7 +856,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](../Page/福田雄�
 <td><p>「<a href="https://zh.wikipedia.org/wiki/密涅瓦呀，起風吧" title="wikilink">密涅瓦呀，起風吧</a>」</p></td>
 <td><p>嘴对嘴的巧克力</p></td>
 <td><p>center<br />
-与<a href="../Page/大西桃香.md" title="wikilink">大西桃香及</a><a href="../Page/佐佐木優佳里.md" title="wikilink">佐佐木優佳里轮换</a></p></td>
+与<a href="../Page/大西桃香.md" title="wikilink">大西桃香</a>及<a href="../Page/佐佐木優佳里.md" title="wikilink">佐佐木優佳里</a>轮换</p></td>
 </tr>
 <tr class="odd">
 <td><p>「<a href="../Page/點時成菁.md" title="wikilink">點時成菁</a>」公演</p></td>
@@ -898,32 +870,23 @@ Machine）合作過的導演、編劇家[福田雄一好評](../Page/福田雄�
 
 ### 電影
 
-  - [私立馬鹿蘭高校劇場版](../Page/私立馬鹿蘭高校.md "wikilink")（2012年10月13日）：飾演 九音園結花
+  - [私立馬鹿蘭高校](../Page/私立馬鹿蘭高校.md "wikilink")劇場版（2012年10月13日）：飾演 九音園結花
 
 ### 電視劇
 
-  - [馬路須加學園2](../Page/馬路須加學園2.md "wikilink")（2011年4月15日 -
-    7月1日，[東京電視台](../Page/東京電視台.md "wikilink")）：飾演 Rena（）
-  - [馬路須加學園3](../Page/馬路須加學園3.md "wikilink") 第2集（2012年7月20日，東京電視台）：飾演
-    觸角（）
-  - [馬路須加學園4](../Page/馬路須加學園4.md "wikilink")（2015年1月19日-
-    3月30日，[日本電視台](../Page/日本電視台.md "wikilink")）：飾演
-    超超醜女（）
-  - [馬路須加學園5](../Page/馬路須加學園5.md "wikilink")（2015年8月25日 -
-    ，日本電視台、[Hulu](../Page/Hulu.md "wikilink")）：飾演
-    超超醜女（ドドブス）
+  - [馬路須加學園2](../Page/馬路須加學園2.md "wikilink")（2011年4月15日 - 7月1日，[東京電視台](../Page/東京電視台.md "wikilink")）：飾演 Rena（）
+  - [馬路須加學園3](../Page/馬路須加學園3.md "wikilink") 第2集（2012年7月20日，東京電視台）：飾演 觸角（）
+  - [馬路須加學園4](../Page/馬路須加學園4.md "wikilink")（2015年1月19日- 3月30日，[日本電視台](../Page/日本電視台.md "wikilink")）：飾演 超超醜女（）
+  - [馬路須加學園5](../Page/馬路須加學園5.md "wikilink")（2015年8月25日 - ，日本電視台、[Hulu](../Page/Hulu.md "wikilink")）：飾演 超超醜女（ドドブス）
   - 劇場霊からの招待狀（2015年10月，TBS電視台）
 
 ## 電視節目
 
-  - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")（2011年2月9日
-    -，不定期出演，[日本電視台](../Page/日本電視台.md "wikilink")）
+  - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")（2011年2月9日 -，不定期出演，[日本電視台](../Page/日本電視台.md "wikilink")）
 
-  - [有吉AKB共和国](https://zh.wikipedia.org/wiki/有吉AKB共和国 "wikilink")（2011年1月20日
-    -，不定期演出，[TBS](../Page/TBS電視台.md "wikilink")）
+  - [有吉AKB共和国](https://zh.wikipedia.org/wiki/有吉AKB共和国 "wikilink")（2011年1月20日 -，不定期演出，[TBS](../Page/TBS電視台.md "wikilink")）
 
-  - [週刊AKB](https://zh.wikipedia.org/wiki/週刊AKB "wikilink")》（2011年4月1日 -
-    2012年6月15日，不定期演出，[東京電視台](../Page/東京電視台.md "wikilink")）
+  - [週刊AKB](https://zh.wikipedia.org/wiki/週刊AKB "wikilink")》（2011年4月1日 - 2012年6月15日，不定期演出，[東京電視台](../Page/東京電視台.md "wikilink")）
 
   - [AKB48短劇「微妙〜」](../Page/AKB48短劇「微妙〜」.md "wikilink")（，2011年10月20日、11月3日，）
 
@@ -935,26 +898,21 @@ Machine）合作過的導演、編劇家[福田雄一好評](../Page/福田雄�
       - Season12（2013年7月7日、7月14日）
       - Season14（2014年1月19日、1月26日、2月2日、2月9日、2月23日）
 
-  - [AKB48的你、是誰？](https://zh.wikipedia.org/wiki/AKB48的你、是誰？ "wikilink")（，2012年10月22日
-    -，不定期出演，[NOTTV](../Page/NOTTV.md "wikilink")）
+  - [AKB48的你、是誰？](https://zh.wikipedia.org/wiki/AKB48的你、是誰？ "wikilink")（，2012年10月22日 -，不定期出演，[NOTTV](../Page/NOTTV.md "wikilink")）
 
-  - [AKB子兔道場](../Page/AKB子兔道場.md "wikilink")（2012年12月14日 -
-    2014年3月14日，不定期出演，東京電視台）
+  - [AKB子兔道場](../Page/AKB子兔道場.md "wikilink")（2012年12月14日 - 2014年3月14日，不定期出演，東京電視台）
 
   - （2014年5月29日 - 8月7日、8月21日，[富士電視台](../Page/富士電視台.md "wikilink")）
 
-  - [AKB大調查](../Page/AKB大調查.md "wikilink")（2014年12月4日 -
-    2015年3月26日，不定期出演，[富士電視台](../Page/富士電視台.md "wikilink")）
+  - [AKB大調查](../Page/AKB大調查.md "wikilink")（2014年12月4日 - 2015年3月26日，不定期出演，[富士電視台](../Page/富士電視台.md "wikilink")）
 
 ## 廣播節目
 
   - （，2012年3月23日\[13\]，[日本放送](../Page/日本放送.md "wikilink")）
 
-  - 「柱NIGHT\! with
-    AKB48」單元（2012年5月21日，[bayfm](https://zh.wikipedia.org/wiki/bayfm "wikilink")）：以留言錄音的方式參與廣播演出。
+  - 「柱NIGHT\! with AKB48」單元（2012年5月21日，[bayfm](https://zh.wikipedia.org/wiki/bayfm "wikilink")）：以留言錄音的方式參與廣播演出。
 
-  - [AKB48的「我們的故事」](../Page/AKB48的「我們的故事」.md "wikilink")（，[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM "wikilink")）：AKB48在NHK-FM電台的常態性[廣播劇節目](../Page/廣播劇.md "wikilink")。加藤曾參與過第38集「Blue
-    Blue Blue」（，2012年8月3日播出）與第40集「不會游泳的企鵝」（）的廣播演出。
+  - [AKB48的「我們的故事」](../Page/AKB48的「我們的故事」.md "wikilink")（，[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM "wikilink")）：AKB48在NHK-FM電台的常態性[廣播劇](../Page/廣播劇.md "wikilink")節目。加藤曾參與過第38集「Blue Blue Blue」（，2012年8月3日播出）與第40集「不會游泳的企鵝」（）的廣播演出。
 
   - [AKB廣播劇劇場](../Page/AKB廣播劇劇場.md "wikilink")（，[日本放送](../Page/日本放送.md "wikilink")）：AKB48在[日本全國廣播網](https://zh.wikipedia.org/wiki/日本全國廣播網 "wikilink")（NRN）的常態性廣播劇節目。加藤自2012年10月底開始，就不定期地多次參與過節目播出。
 
@@ -1017,7 +975,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](../Page/福田雄�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/江崎固力果.md" title="wikilink">江崎固力果袋裝</a><a href="https://zh.wikipedia.org/wiki/雪寶" title="wikilink">雪寶冰產品</a><br />
+<td><p><a href="../Page/江崎固力果.md" title="wikilink">江崎固力果</a>袋裝<a href="https://zh.wikipedia.org/wiki/雪寶" title="wikilink">雪寶冰產品</a><br />
 「」<br />
 （）</p></td>
 <td><p>「AKB48殺人事件 FILE-1」篇</p></td>
@@ -1073,25 +1031,19 @@ Machine）合作過的導演、編劇家[福田雄一好評](../Page/福田雄�
 
   - [加藤玲奈 在755的頁面](https://7gogo.jp/users/mmCeBPdWLWTI)
 
-[Category:AKB48成員](https://zh.wikipedia.org/wiki/Category:AKB48成員 "wikilink")
-[Category:日本女性偶像](https://zh.wikipedia.org/wiki/Category:日本女性偶像 "wikilink")
-[Category:千葉縣出身人物](https://zh.wikipedia.org/wiki/Category:千葉縣出身人物 "wikilink")
-[Category:尾木製作](https://zh.wikipedia.org/wiki/Category:尾木製作 "wikilink")
+[Category:AKB48成員](https://zh.wikipedia.org/wiki/Category:AKB48成員 "wikilink") [Category:日本女性偶像](https://zh.wikipedia.org/wiki/Category:日本女性偶像 "wikilink") [Category:千葉縣出身人物](https://zh.wikipedia.org/wiki/Category:千葉縣出身人物 "wikilink") [Category:尾木製作](https://zh.wikipedia.org/wiki/Category:尾木製作 "wikilink")
 
-1.  《FIRST LOVE》原本是已畢業的Team
-    K成員[小野惠令奈的獨唱曲](../Page/小野惠令奈.md "wikilink")，收錄於AKB48的單曲唱片《[驚喜的淚水！](https://zh.wikipedia.org/wiki/驚喜的淚水！ "wikilink")》（）中作為B面曲。
+1.  《FIRST LOVE》原本是已畢業的Team K成員[小野惠令奈](../Page/小野惠令奈.md "wikilink")的獨唱曲，收錄於AKB48的單曲唱片《[驚喜的淚水！](https://zh.wikipedia.org/wiki/驚喜的淚水！ "wikilink")》（）中作為B面曲。
 2.
 3.
 4.  「加藤」的完整發音為「」（Katou），但為求流暢在當暱稱時會把尾音「」（U）省略而發「」（Kato）的音。
-5.  Waiting
-    Girls是由171名有參與[第四次總選舉但沒有入圍前](../Page/AKB48第27張單曲選拔總選舉.md "wikilink")64名的圈外成員所共同組成，演唱大合唱曲《那一天的風鈴》。
-6.  與[須田亞香里共同擔任Center](../Page/須田亞香里.md "wikilink")。
+5.  Waiting Girls是由171名有參與[第四次總選舉但沒有入圍前](../Page/AKB48第27張單曲選拔總選舉.md "wikilink")64名的圈外成員所共同組成，演唱大合唱曲《那一天的風鈴》。
+6.  與[須田亞香里](../Page/須田亞香里.md "wikilink")共同擔任Center。
 7.  與[木崎由里亚共同擔任Center](https://zh.wikipedia.org/wiki/木崎由里亚 "wikilink")。
 8.  與[木崎由里亚共同擔任Center](https://zh.wikipedia.org/wiki/木崎由里亚 "wikilink")。
 9.  與[木崎由里亚共同擔任Center](https://zh.wikipedia.org/wiki/木崎由里亚 "wikilink")。
 10. 《就是在這裡》是該專輯唱片的標題曲，是由當時AKB48、SKE48、SDN48與NMB48全體成員（不分正式成員或研究生）共192人所共同演唱的大合唱曲。
-11. 此單曲是以主要由Team
-    4成員組成的短期衍生團體，成員有[阿部瑪利亞](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[市川美織](../Page/市川美織.md "wikilink")、[入山杏奈](../Page/入山杏奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、加藤玲奈、[小林茉里奈](../Page/小林茉里奈.md "wikilink")、[島崎遙香](../Page/島崎遙香.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[竹內美宥](../Page/竹內美宥.md "wikilink")、[永尾瑪利亞](../Page/永尾瑪利亞.md "wikilink")、[仲俁汐里](../Page/仲俁汐里.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、[藤田奈那](../Page/藤田奈那.md "wikilink")、[森杏奈與](../Page/森杏奈.md "wikilink")[山內鈴蘭](../Page/山內鈴蘭.md "wikilink")。
-12. 除了開場的前座女孩曲外，在全體合唱曲中則是擔任[高橋南的替補](../Page/高橋南.md "wikilink")。
+11. 此單曲是以主要由Team 4成員組成的短期衍生團體，成員有[阿部瑪利亞](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[市川美織](../Page/市川美織.md "wikilink")、[入山杏奈](../Page/入山杏奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、加藤玲奈、[小林茉里奈](../Page/小林茉里奈.md "wikilink")、[島崎遙香](../Page/島崎遙香.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[竹內美宥](../Page/竹內美宥.md "wikilink")、[永尾瑪利亞](../Page/永尾瑪利亞.md "wikilink")、[仲俁汐里](../Page/仲俁汐里.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、[藤田奈那](../Page/藤田奈那.md "wikilink")、[森杏奈](../Page/森杏奈.md "wikilink")與[山內鈴蘭](../Page/山內鈴蘭.md "wikilink")。
+12. 除了開場的前座女孩曲外，在全體合唱曲中則是擔任[高橋南](../Page/高橋南.md "wikilink")的替補。
 13. 在晉升成正式成員的前一天晚上，以研究生身份首度參與此廣播節目的收錄。
 14.

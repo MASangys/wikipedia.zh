@@ -201,13 +201,8 @@
 
 ## 外部链接
 
-  - [Official OMX list of OMXS30
-    components](http://www.omxnordicexchange.com/priceinformation/indexes/Microsite_Index/?InstrumentId=SSESE0000337842)
+  - [Official OMX list of OMXS30 components](http://www.omxnordicexchange.com/priceinformation/indexes/Microsite_Index/?InstrumentId=SSESE0000337842)
 
-[Category:OMX](https://zh.wikipedia.org/wiki/Category:OMX "wikilink")
-[Category:欧洲股市指数](https://zh.wikipedia.org/wiki/Category:欧洲股市指数 "wikilink")
-[Category:上市公司列表](https://zh.wikipedia.org/wiki/Category:上市公司列表 "wikilink")
+[Category:OMX](https://zh.wikipedia.org/wiki/Category:OMX "wikilink") [Category:欧洲股市指数](https://zh.wikipedia.org/wiki/Category:欧洲股市指数 "wikilink") [Category:上市公司列表](https://zh.wikipedia.org/wiki/Category:上市公司列表 "wikilink")
 
-1.  At last index reclassification on 1 July 2009. Source: [Latest index
-    reviews](http://www.omxnordicexchange.com/Products/indexes/Latest_index_reviews/),
-    [OMX Group](../Page/OMX.md "wikilink").
+1.  At last index reclassification on 1 July 2009. Source: [Latest index reviews](http://www.omxnordicexchange.com/Products/indexes/Latest_index_reviews/), [OMX Group](../Page/OMX.md "wikilink").

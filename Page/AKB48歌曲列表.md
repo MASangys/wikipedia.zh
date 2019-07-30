@@ -1,27 +1,8 @@
-[HMV_Shibuya_x_AKB48.jpg](https://zh.wikipedia.org/wiki/File:HMV_Shibuya_x_AKB48.jpg "fig:HMV_Shibuya_x_AKB48.jpg")門外的《神曲集》廣告\]\]
-**[AKB48](../Page/AKB48.md "wikilink")**是由[秋元康擔任製作人的日本女子組合](../Page/秋元康.md "wikilink")，於2005年正式成立。與AKB48相關的**歌曲**中，[單曲有](https://zh.wikipedia.org/wiki/單曲 "wikilink")88張、其他歌曲有23首、[錄音室專輯有](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")13張、公演[DVD有](https://zh.wikipedia.org/wiki/DVD "wikilink")7張、公演[CD有](../Page/CD.md "wikilink")6張、[精選輯有](https://zh.wikipedia.org/wiki/精選輯 "wikilink")4張和紀念專輯一張，發行商分別是[AKS](../Page/AKS.md "wikilink")、[DefSTAR
-Records](../Page/DefSTAR_Records.md "wikilink")、[King
-Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[環球音樂](../Page/環球音樂_\(日本\).md "wikilink")、[avex
-trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")、[Avex
-Entertainment](https://zh.wikipedia.org/wiki/Avex_Entertainment "wikilink")、[Epic
-Records Japan
-Inc.](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")、[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[德間日本通訊](https://zh.wikipedia.org/wiki/德間日本通訊 "wikilink")、[Sony
-Music Records](../Page/Sony_Music_Records.md "wikilink")、[flying
-DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")、、[堀製作](https://zh.wikipedia.org/wiki/堀製作 "wikilink")、[Media
-Factory](../Page/Media_Factory.md "wikilink")、和。另外，未被收錄於任何唱片中的歌曲有12首。
+[HMV_Shibuya_x_AKB48.jpg](https://zh.wikipedia.org/wiki/File:HMV_Shibuya_x_AKB48.jpg "fig:HMV_Shibuya_x_AKB48.jpg")門外的《神曲集》廣告\]\] **[AKB48](../Page/AKB48.md "wikilink")**是由[秋元康](../Page/秋元康.md "wikilink")擔任製作人的日本女子組合，於2005年正式成立。與AKB48相關的**歌曲**中，[單曲有](https://zh.wikipedia.org/wiki/單曲 "wikilink")88張、其他歌曲有23首、[錄音室專輯有](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")13張、公演[DVD有](https://zh.wikipedia.org/wiki/DVD "wikilink")7張、公演[CD](../Page/CD.md "wikilink")有6張、[精選輯有](https://zh.wikipedia.org/wiki/精選輯 "wikilink")4張和紀念專輯一張，發行商分別是[AKS](../Page/AKS.md "wikilink")、[DefSTAR Records](../Page/DefSTAR_Records.md "wikilink")、[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[環球音樂](../Page/環球音樂_\(日本\).md "wikilink")、[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")、[Avex Entertainment](https://zh.wikipedia.org/wiki/Avex_Entertainment "wikilink")、[Epic Records Japan Inc.](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")、[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[德間日本通訊](https://zh.wikipedia.org/wiki/德間日本通訊 "wikilink")、[Sony Music Records](../Page/Sony_Music_Records.md "wikilink")、[flying DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")、、[堀製作](https://zh.wikipedia.org/wiki/堀製作 "wikilink")、[Media Factory](../Page/Media_Factory.md "wikilink")、和。另外，未被收錄於任何唱片中的歌曲有12首。
 
-在與AKB48相關的單曲中，有紀錄Oricon銷量最低的單曲是由研究生組成的邪留丸姊妹演唱的《初戀是沒有結果的》，也是歷來排名最低的單曲和Oricon上榜次數最少的單曲之一，而[奧真奈美的單曲](../Page/奧真奈美.md "wikilink")《[蝸牛](../Page/蝸牛_\(奧真奈美單曲\).md "wikilink")》則是唯一從未登上Oricon公信榜的單曲，《[再見自由式](../Page/再見自由式.md "wikilink")》則是銷量最高的單曲，AKB48以外的銷量最高的單曲則是子團體[Not
-yet的](../Page/Not_yet.md "wikilink")《[週末Not
-yet](../Page/週末Not_yet.md "wikilink")》。在[Oricon週榜中](../Page/Oricon公信榜.md "wikilink")，AKB48總共有23張相關單曲取得第一位，《[無限重播](../Page/無限重播.md "wikilink")》是上榜次數最多的單曲，也是AKB48第一張取得Oricon月榜冠軍的單曲，而從《[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")》以後AKB48的所有單曲均取得週榜冠軍。其後，AKB48憑《[Beginner](../Page/Beginner_\(AKB48單曲\).md "wikilink")》首度成為[Oricon年榜冠軍](../Page/Oricon單曲年榜冠軍作品列表.md "wikilink")。《[再見自由式](../Page/再見自由式.md "wikilink")》是發售首週Oricon公信榜創立以來銷量最高的歌曲，而《[拉布拉多獵犬](../Page/拉布拉多獵犬_\(AKB48單曲\).md "wikilink")》則是發售首天銷量最高的歌曲。在[Japan
-Hot
-100方面](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink")，AKB48總共有19張相關單曲取得第一位，自《[櫻花印記](../Page/櫻花印記.md "wikilink")》開始所有AKB48的單曲均取得第一位，而排名最低的單曲是《[想見你](../Page/想见你_\(AKB48单曲\).md "wikilink")》。在[RIAJ付費音樂下載榜的所有相關單曲中](../Page/RIAJ付費音樂下載榜.md "wikilink")，只有《無限重播》、《[Dear
-J](../Page/Dear_J.md "wikilink")》、《[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")》、《[飛翔入手](../Page/飛翔入手.md "wikilink")》、《[風正在吹](../Page/風正在吹.md "wikilink")》和《[GIVE
-ME
-FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》能夠取得第一位，而有紀錄排名最低的單曲是[no3b的](https://zh.wikipedia.org/wiki/no3b "wikilink")《[只有你](../Page/只有你_\(no3b單曲\).md "wikilink")》。
+在與AKB48相關的單曲中，有紀錄Oricon銷量最低的單曲是由研究生組成的邪留丸姊妹演唱的《初戀是沒有結果的》，也是歷來排名最低的單曲和Oricon上榜次數最少的單曲之一，而[奧真奈美](../Page/奧真奈美.md "wikilink")的單曲《[蝸牛](../Page/蝸牛_\(奧真奈美單曲\).md "wikilink")》則是唯一從未登上Oricon公信榜的單曲，《[再見自由式](../Page/再見自由式.md "wikilink")》則是銷量最高的單曲，AKB48以外的銷量最高的單曲則是子團體[Not yet的](../Page/Not_yet.md "wikilink")《[週末Not yet](../Page/週末Not_yet.md "wikilink")》。在[Oricon週榜中](../Page/Oricon公信榜.md "wikilink")，AKB48總共有23張相關單曲取得第一位，《[無限重播](../Page/無限重播.md "wikilink")》是上榜次數最多的單曲，也是AKB48第一張取得Oricon月榜冠軍的單曲，而從《[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")》以後AKB48的所有單曲均取得週榜冠軍。其後，AKB48憑《[Beginner](../Page/Beginner_\(AKB48單曲\).md "wikilink")》首度成為[Oricon年榜冠軍](../Page/Oricon單曲年榜冠軍作品列表.md "wikilink")。《[再見自由式](../Page/再見自由式.md "wikilink")》是發售首週Oricon公信榜創立以來銷量最高的歌曲，而《[拉布拉多獵犬](../Page/拉布拉多獵犬_\(AKB48單曲\).md "wikilink")》則是發售首天銷量最高的歌曲。在[Japan Hot 100方面](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink")，AKB48總共有19張相關單曲取得第一位，自《[櫻花印記](../Page/櫻花印記.md "wikilink")》開始所有AKB48的單曲均取得第一位，而排名最低的單曲是《[想見你](../Page/想见你_\(AKB48单曲\).md "wikilink")》。在[RIAJ付費音樂下載榜](../Page/RIAJ付費音樂下載榜.md "wikilink")的所有相關單曲中，只有《無限重播》、《[Dear J](../Page/Dear_J.md "wikilink")》、《[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")》、《[飛翔入手](../Page/飛翔入手.md "wikilink")》、《[風正在吹](../Page/風正在吹.md "wikilink")》和《[GIVE ME FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》能夠取得第一位，而有紀錄排名最低的單曲是[no3b的](https://zh.wikipedia.org/wiki/no3b "wikilink")《[只有你](../Page/只有你_\(no3b單曲\).md "wikilink")》。
 
-在與AKB48相關的[音樂專輯中](../Page/音樂專輯.md "wikilink")，有紀錄Oricon銷量最低的專輯是《[Team K
-1st
-Stage「PARTY开始了」](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#Team_K_1st_Stage「PARTY开始了」（DVD） "wikilink")》，同時亦是排名最低的專輯和Oricon上榜次數最少的專輯之一。排名最高的專輯則是《[神曲集](../Page/神曲集.md "wikilink")》、《[就是在這裡](../Page/就是在這裡.md "wikilink")》、《[1830m](../Page/1830m.md "wikilink")》和《[no3b](https://zh.wikipedia.org/wiki/no3b_\(專輯\) "wikilink")》，其中《神曲集》是上榜次數最多的專輯，《1830m》則是銷量最高的專輯，而唯一從未登上Oricon公信榜的專輯是[走廊奔跑隊有份參與的紀念專輯](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")《》。
+在與AKB48相關的[音樂專輯](../Page/音樂專輯.md "wikilink")中，有紀錄Oricon銷量最低的專輯是《[Team K 1st Stage「PARTY开始了」](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#Team_K_1st_Stage「PARTY开始了」（DVD） "wikilink")》，同時亦是排名最低的專輯和Oricon上榜次數最少的專輯之一。排名最高的專輯則是《[神曲集](../Page/神曲集.md "wikilink")》、《[就是在這裡](../Page/就是在這裡.md "wikilink")》、《[1830m](../Page/1830m.md "wikilink")》和《[no3b](https://zh.wikipedia.org/wiki/no3b_\(專輯\) "wikilink")》，其中《神曲集》是上榜次數最多的專輯，《1830m》則是銷量最高的專輯，而唯一從未登上Oricon公信榜的專輯是[走廊奔跑隊有份參與的紀念專輯](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")《》。
 
 每首歌曲都設有中心位置（即Center），中心位置的成員能夠獲得更多媒体的露面机會。而中心位置可以不只一位成員，有分於雙人Center（如《[希望無限](../Page/希望無限.md "wikilink")》）、四人Center（如《[再見自由式](../Page/再見自由式.md "wikilink")》）等。
 
@@ -41,7 +22,7 @@ Stage「PARTY开始了」](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PART
 JAPAN</a><br />
 銷量</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/Japan_Hot_100" title="wikilink">Japan Hot 100最高排名</a></p></th>
-<th><p><a href="../Page/RIAJ付費音樂下載榜.md" title="wikilink">RIAJ付費音樂下載榜最高排名</a></p></th>
+<th><p><a href="../Page/RIAJ付費音樂下載榜.md" title="wikilink">RIAJ付費音樂下載榜</a>最高排名</p></th>
 <th><p>參考資料</p></th>
 </tr>
 </thead>
@@ -700,7 +681,7 @@ JAPAN</a><br />
 
 ### [Chocolove from AKB48](../Page/Chocolove_from_AKB48.md "wikilink")（2）
 
-| 發行日期       | 單曲名稱        | 發行商                                            | Oricon銷量 | [Oricon公信榜最高排名](../Page/Oricon公信榜.md "wikilink") | Oricon公信榜上榜次數 | [Japan Hot 100最高排名](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink") | [RIAJ付費音樂下載榜最高排名](../Page/RIAJ付費音樂下載榜.md "wikilink") | 參考資料    |
+| 發行日期       | 單曲名稱        | 發行商                                            | Oricon銷量 | [Oricon公信榜](../Page/Oricon公信榜.md "wikilink")最高排名 | Oricon公信榜上榜次數 | [Japan Hot 100最高排名](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink") | [RIAJ付費音樂下載榜](../Page/RIAJ付費音樂下載榜.md "wikilink")最高排名 | 參考資料    |
 | ---------- | ----------- | ---------------------------------------------- | -------- | ------------------------------------------------ | ------------- | --------------------------------------------------------------------------- | ---------------------------------------------------- | ------- |
 | 2007年6月6日  | 明天你將會是不一樣的你 | [環球音樂 (日本)](../Page/環球音樂_\(日本\).md "wikilink") | 9,444    | 18                                               | 3             | －                                                                           | －                                                    | \[109\] |
 | 2007年8月29日 | 信息的淚        | 5,687                                          | 29       | 2                                                | \[110\]       |                                                                             |                                                      |         |
@@ -1208,7 +1189,7 @@ JAPAN</a><br />
 <td><p><a href="../Page/納豆天使.md" title="wikilink">納豆天使</a></p></td>
 <td><p>納豆天使</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/堀製作" title="wikilink">堀製作</a></p></td>
-<td><p><a href="../Page/日本武道館.md" title="wikilink">日本武道館公演會場限定和網上下載限定曲</a></p></td>
+<td><p><a href="../Page/日本武道館.md" title="wikilink">日本武道館</a>公演會場限定和網上下載限定曲</p></td>
 <td><p>[268]</p></td>
 </tr>
 <tr class="even">
@@ -2010,17 +1991,13 @@ JAPAN</a><br />
 
   - [AKB48公式サイト｜ディスコグラフィー](https://web.archive.org/web/20110422015724/http://akb48.co.jp/disc/)
 
-  - [AKB48 | Sony
-    Music](http://www.sonymusic.co.jp/Music/Arch/DF/Akb48/)
+  - [AKB48 | Sony Music](http://www.sonymusic.co.jp/Music/Arch/DF/Akb48/)
 
-  - [KING RECORDS OFFICIAL SITE \>
-    ＡＫＢ４８](http://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=34767#tabpage3)
+  - [KING RECORDS OFFICIAL SITE \> ＡＫＢ４８](http://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=34767#tabpage3)
 
-  - [Chocolove from AKB48 - UNIVERSAL J ::
-    ディスコグラフィー](https://web.archive.org/web/20111010161228/http://www.universal-music.co.jp/chocolove/disco.html)
+  - [Chocolove from AKB48 - UNIVERSAL J :: ディスコグラフィー](https://web.archive.org/web/20111010161228/http://www.universal-music.co.jp/chocolove/disco.html)
 
-  - [DiVA(ディーヴァ) Official Website |
-    DISCOGRAPHY](http://avexnet.or.jp/diva/discography/)
+  - [DiVA(ディーヴァ) Official Website | DISCOGRAPHY](http://avexnet.or.jp/diva/discography/)
 
   - [DiscoGraphy | フレンチ・キス](http://mv.avex.jp/french-kiss/discography/)
 
@@ -2030,24 +2007,17 @@ JAPAN</a><br />
 
   - [岩佐美咲 - 徳間ジャパンコミュニケーションズ](http://www.tkma.co.jp/enka/iwasa/)
 
-  - [KING RECORDS OFFICIAL SITE \>
-    板野　友美](http://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=40533#tabpage3)
+  - [KING RECORDS OFFICIAL SITE \> 板野　友美](http://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=40533#tabpage3)
 
-  - [DISCOGRAPHY | 指原莉乃
-    オフィシャルサイト](http://avexnet.or.jp/sashihararino/discography/)
+  - [DISCOGRAPHY | 指原莉乃 オフィシャルサイト](http://avexnet.or.jp/sashihararino/discography/)
 
-  - [KING RECORDS OFFICIAL SITE \>
-    前田敦子](http://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=41775#tabpage3)
+  - [KING RECORDS OFFICIAL SITE \> 前田敦子](http://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=41775#tabpage3)
 
-  - [ディスコグラフィ |
-    渡辺麻友](https://web.archive.org/web/20150322043325/http://www.watanabemayu.jp/disco/index.html)
+  - [ディスコグラフィ | 渡辺麻友](https://web.archive.org/web/20150322043325/http://www.watanabemayu.jp/disco/index.html)
 
-  - [AKB48 DVD\&CD
-    カタログ](http://www.akb48-dvdcatalog.com/catalog/index.html)
+  - [AKB48 DVD\&CD カタログ](http://www.akb48-dvdcatalog.com/catalog/index.html)
 
-[Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink")
-[Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
 
@@ -2210,33 +2180,27 @@ JAPAN</a><br />
 
 81.
 
-82.
-    AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160911190430/http://www.oricon.co.jp/prof/385015/products/1099838/1/|archivedate=2016-09-11](https://web.archive.org/web/20160911190430/http://www.oricon.co.jp/prof/385015/products/1099838/1/%7Carchivedate=2016-09-11)}}
+82.  AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160911190430/http://www.oricon.co.jp/prof/385015/products/1099838/1/|archivedate=2016-09-11](https://web.archive.org/web/20160911190430/http://www.oricon.co.jp/prof/385015/products/1099838/1/%7Carchivedate=2016-09-11)}}
 
 83.
 
 84.
 
-85.
-    AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160420194140/http://www.oricon.co.jp/prof/385015/products/1113070/1/|archivedate=2016-04-20](https://web.archive.org/web/20160420194140/http://www.oricon.co.jp/prof/385015/products/1113070/1/%7Carchivedate=2016-04-20)}}
+85.  AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160420194140/http://www.oricon.co.jp/prof/385015/products/1113070/1/|archivedate=2016-04-20](https://web.archive.org/web/20160420194140/http://www.oricon.co.jp/prof/385015/products/1113070/1/%7Carchivedate=2016-04-20)}}
 
-86.
-    AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160420203849/http://www.oricon.co.jp/prof/385015/products/1123755/1/|archivedate=2016-04-20](https://web.archive.org/web/20160420203849/http://www.oricon.co.jp/prof/385015/products/1123755/1/%7Carchivedate=2016-04-20)}}
+86.  AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160420203849/http://www.oricon.co.jp/prof/385015/products/1123755/1/|archivedate=2016-04-20](https://web.archive.org/web/20160420203849/http://www.oricon.co.jp/prof/385015/products/1123755/1/%7Carchivedate=2016-04-20)}}
 
 87.
 
-88.
-    AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160420205900/http://www.oricon.co.jp/prof/385015/products/1136765/1/|archivedate=2016-04-20](https://web.archive.org/web/20160420205900/http://www.oricon.co.jp/prof/385015/products/1136765/1/%7Carchivedate=2016-04-20)}}
+88.  AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160420205900/http://www.oricon.co.jp/prof/385015/products/1136765/1/|archivedate=2016-04-20](https://web.archive.org/web/20160420205900/http://www.oricon.co.jp/prof/385015/products/1136765/1/%7Carchivedate=2016-04-20)}}
 
 89.
 
-90.
-    AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160911184826/http://www.oricon.co.jp/prof/385015/products/1152862/1/|archivedate=2016-09-11](https://web.archive.org/web/20160911184826/http://www.oricon.co.jp/prof/385015/products/1152862/1/%7Carchivedate=2016-09-11)}}
+90.  AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160911184826/http://www.oricon.co.jp/prof/385015/products/1152862/1/|archivedate=2016-09-11](https://web.archive.org/web/20160911184826/http://www.oricon.co.jp/prof/385015/products/1152862/1/%7Carchivedate=2016-09-11)}}
 
 91.
 
-92.
-    AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160416220328/http://www.oricon.co.jp/prof/385015/products/1163948/1/|archivedate=2016-04-16](https://web.archive.org/web/20160416220328/http://www.oricon.co.jp/prof/385015/products/1163948/1/%7Carchivedate=2016-04-16)}}
+92.  AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160416220328/http://www.oricon.co.jp/prof/385015/products/1163948/1/|archivedate=2016-04-16](https://web.archive.org/web/20160416220328/http://www.oricon.co.jp/prof/385015/products/1163948/1/%7Carchivedate=2016-04-16)}}
 
 93.
 
@@ -2244,15 +2208,13 @@ JAPAN</a><br />
 
 95.
 
-96.
-    AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160911182825/http://www.oricon.co.jp/prof/385015/products/1176094/1/|archivedate=2016-09-11](https://web.archive.org/web/20160911182825/http://www.oricon.co.jp/prof/385015/products/1176094/1/%7Carchivedate=2016-09-11)}}
+96.  AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160911182825/http://www.oricon.co.jp/prof/385015/products/1176094/1/|archivedate=2016-09-11](https://web.archive.org/web/20160911182825/http://www.oricon.co.jp/prof/385015/products/1176094/1/%7Carchivedate=2016-09-11)}}
 
 97.
 
 98.
 
-99.
-    AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160902035331/http://www.oricon.co.jp/prof/385015/products/1189434/1/|archivedate=2016-09-02](https://web.archive.org/web/20160902035331/http://www.oricon.co.jp/prof/385015/products/1189434/1/%7Carchivedate=2016-09-02)}}
+99.  AKB48|accessdate=2016-09-01|deadurl=no|archiveurl=[https://web.archive.org/web/20160902035331/http://www.oricon.co.jp/prof/385015/products/1189434/1/|archivedate=2016-09-02](https://web.archive.org/web/20160902035331/http://www.oricon.co.jp/prof/385015/products/1189434/1/%7Carchivedate=2016-09-02)}}
 
 100.
 

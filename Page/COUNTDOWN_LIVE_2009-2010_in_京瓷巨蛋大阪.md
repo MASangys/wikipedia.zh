@@ -1,5 +1,4 @@
-《**COUNTDOWN LIVE 2009-2010 in
-京瓷巨蛋大阪**》（）為日本男偶像團體[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")6張DVD｡
+《**COUNTDOWN LIVE 2009-2010 in 京瓷巨蛋大阪**》（）為日本男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第6張DVD｡
 
 ## 概要
 
@@ -60,5 +59,4 @@
 
 1.  ひとつのうた
 
-[Category:關西傑尼斯8影像作品](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8影像作品 "wikilink")
-[Category:2010年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2010年音樂相關影像作品 "wikilink")
+[Category:關西傑尼斯8影像作品](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8影像作品 "wikilink") [Category:2010年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2010年音樂相關影像作品 "wikilink")

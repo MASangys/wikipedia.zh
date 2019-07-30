@@ -1,4 +1,4 @@
-《**Threesome**》為香港歌手[李克勤於](../Page/李克勤.md "wikilink")2009年發行的粵語專輯，於2009年12月30日正式發行。
+《**Threesome**》為香港歌手[李克勤](../Page/李克勤.md "wikilink")於2009年發行的粵語專輯，於2009年12月30日正式發行。
 
 ## 曲目
 
@@ -35,7 +35,4 @@
   - [李克勤官方網頁](https://web.archive.org/web/20050317051540/http://www.hackenleenet.com/)
   - [Threesome 環球唱片 - 正東唱片](http://www.umg.com.hk/album/461/detail)
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:李克勤音樂專輯](https://zh.wikipedia.org/wiki/Category:李克勤音樂專輯 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:李克勤音樂專輯](https://zh.wikipedia.org/wiki/Category:李克勤音樂專輯 "wikilink")

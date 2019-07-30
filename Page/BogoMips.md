@@ -1,13 +1,10 @@
-**BogoMips** ("[bogus](https://zh.wikipedia.org/wiki/bogus "wikilink")"
-和[MIPS](https://zh.wikipedia.org/wiki/MIPS "wikilink"), 伪MIPS)
-是一种衡量CPU速度的不科学的方法。当计算机内核启动时，将执行一个计数循环。
+**BogoMips** ("[bogus](https://zh.wikipedia.org/wiki/bogus "wikilink")" 和[MIPS](https://zh.wikipedia.org/wiki/MIPS "wikilink"), 伪MIPS) 是一种衡量CPU速度的不科学的方法。当计算机内核启动时，将执行一个计数循环。
 
 对于特定的CPU，BogoMips可用来查看它是否是个合适的值.它的时钟频率和它潜在的CPU缓存。但是它不可在不同的CPU间进行比较演示。\[1\]
 
 ## 合适的BogoMips比率
 
-作为一个参考向导，BogoMips可以用下列的表格进行预计算。给出的比率是以应用到LINUX版本的CPU作为例子。指数是指其它CPU同Intel
-386DX CPU的BogoMips/clock speed比率.
+作为一个参考向导，BogoMips可以用下列的表格进行预计算。给出的比率是以应用到LINUX版本的CPU作为例子。指数是指其它CPU同Intel 386DX CPU的BogoMips/clock speed比率.
 
 | CPU                                                                                                                                                                                          | 比率                    | 指数             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -------------- |
@@ -62,10 +59,7 @@
 
 ## BogoMIPS 怎么计算的?
 
-在当前内核(2.6.x),BogoMIPS实现在内核源文件`/usr/src/linux/init/calibrate.c`。它计算了Linux内核定时参数`loops_per_jiffy`
-(see [Jiffy
-(time)](https://zh.wikipedia.org/wiki/Jiffy_\(time\) "wikilink") )
-值。源码解释如下：
+在当前内核(2.6.x),BogoMIPS实现在内核源文件`/usr/src/linux/init/calibrate.c`。它计算了Linux内核定时参数`loops_per_jiffy` (see [Jiffy (time)](https://zh.wikipedia.org/wiki/Jiffy_\(time\) "wikilink") ) 值。源码解释如下：
 
     <nowiki>
      /*
@@ -88,13 +82,7 @@
        */
     </nowiki>
 
-`loops_per_jiffy` is used to implement `udelay` (delay in microseconds)
-and `ndelay` (delay in nanoseconds) functions. These functions are
-needed by some drivers to wait for hardware. Note that a [busy
-waiting](https://zh.wikipedia.org/wiki/busy_waiting "wikilink")
-technique is used, so the kernel is effectively blocked when executing
-`ndelay/udelay` functions. For i386 architecture `delay_loop` is
-implemented in `/usr/src/linux/arch/i386/lib/delay.c` as:
+`loops_per_jiffy` is used to implement `udelay` (delay in microseconds) and `ndelay` (delay in nanoseconds) functions. These functions are needed by some drivers to wait for hardware. Note that a [busy waiting](https://zh.wikipedia.org/wiki/busy_waiting "wikilink") technique is used, so the kernel is effectively blocked when executing `ndelay/udelay` functions. For i386 architecture `delay_loop` is implemented in `/usr/src/linux/arch/i386/lib/delay.c` as:
 
 ``` c
 /* simple loop based delay: */
@@ -133,8 +121,7 @@ static void delay_loop(long loops)
 
   - [BogoMips Mini-Howto, V38](http://www.clifton.nl/bogomips.html)
 
-[Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")
-[Category:计算机科学](https://zh.wikipedia.org/wiki/Category:计算机科学 "wikilink")
+[Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:计算机科学](https://zh.wikipedia.org/wiki/Category:计算机科学 "wikilink")
 
 1.
 

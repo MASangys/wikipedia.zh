@@ -1,18 +1,12 @@
-「**LIVE TOUR 2005 ～first things～ deluxe edition**」（2005 巡迴演唱會
-～初體驗～豪華版）為[倖田來未於](../Page/倖田來未.md "wikilink")2006年9月13日發行之演唱會DVD。[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")2片裝。
+「**LIVE TOUR 2005 ～first things～ deluxe edition**」（2005 巡迴演唱會 ～初體驗～豪華版）為[倖田來未](../Page/倖田來未.md "wikilink")於2006年9月13日發行之演唱會DVD。[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")2片裝。
 
 ## 解說
 
   - 收錄[倖田來未](../Page/倖田來未.md "wikilink")2005年巡迴演唱會於[大阪的DVD影像作品](https://zh.wikipedia.org/wiki/大阪 "wikilink")。
-  - 因去年發行的演唱會影像作品「[secret ～FIRST CLASS LIMITED
-    LIVE～](https://zh.wikipedia.org/wiki/secret_～FIRST_CLASS_LIMITED_LIVE～ "wikilink")」熱賣，再加上歌迷響應，於是推出LIVE
-    DVD「2005巡迴演唱會～初體驗～」（因為在精選「[BEST～second
-    session～](../Page/BEST～second_session～.md "wikilink")」的初回限定CD+2DVD中已有本LIVE
-    DVD的DISC 1影像）。
-  - DISC 1與DISC
-    2的幕後花絮影像皆可轉為副聲道，收錄[倖田來未與工作人員的爆笑對談](../Page/倖田來未.md "wikilink")。
+  - 因去年發行的演唱會影像作品「[secret ～FIRST CLASS LIMITED LIVE～](https://zh.wikipedia.org/wiki/secret_～FIRST_CLASS_LIMITED_LIVE～ "wikilink")」熱賣，再加上歌迷響應，於是推出LIVE DVD「2005巡迴演唱會～初體驗～」（因為在精選「[BEST～second session～](../Page/BEST～second_session～.md "wikilink")」的初回限定CD+2DVD中已有本LIVE DVD的DISC 1影像）。
+  - DISC 1與DISC 2的幕後花絮影像皆可轉為副聲道，收錄[倖田來未](../Page/倖田來未.md "wikilink")與工作人員的爆笑對談。
   - 初回版附特製寫真冊（12P）。
-  - 此巡迴演唱會DVD為[倖田來未第](../Page/倖田來未.md "wikilink")2張連續奪冠的巡迴演唱會DVD。
+  - 此巡迴演唱會DVD為[倖田來未](../Page/倖田來未.md "wikilink")第2張連續奪冠的巡迴演唱會DVD。
 
 ## 曲目
 

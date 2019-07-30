@@ -1,7 +1,4 @@
-『**GARNET CROW LIVESCOPE OF THE TWILIGHT VALLEY**为[GARNET
-CROW的第四张LIVE](../Page/GARNET_CROW.md "wikilink")
-ALBUM。2007年6月27日由[GIZA
-studio发售](../Page/GIZA_studio.md "wikilink")。
+『**GARNET CROW LIVESCOPE OF THE TWILIGHT VALLEY**为[GARNET CROW的第四张LIVE](../Page/GARNET_CROW.md "wikilink") ALBUM。2007年6月27日由[GIZA studio发售](../Page/GIZA_studio.md "wikilink")。
 
 ## 概要
 
@@ -45,5 +42,4 @@ studio发售](../Page/GIZA_studio.md "wikilink")。
 2.  この手を伸ばせば
 3.  僕らだけの未来
 
-[Category:GARNET_CROW影像作品](https://zh.wikipedia.org/wiki/Category:GARNET_CROW影像作品 "wikilink")
-[Category:2007年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2007年音樂相關影像作品 "wikilink")
+[Category:GARNET_CROW影像作品](https://zh.wikipedia.org/wiki/Category:GARNET_CROW影像作品 "wikilink") [Category:2007年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2007年音樂相關影像作品 "wikilink")

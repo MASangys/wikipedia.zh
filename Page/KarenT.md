@@ -1,12 +1,6 @@
-**KarenT**是由[VOCALOID角色主唱系列的制造商](../Page/角色主唱系列.md "wikilink")[CRYPTON
-FUTURE
-MEDIA所维持的CGM](https://zh.wikipedia.org/wiki/CRYPTON_FUTURE_MEDIA "wikilink")（Consumer
-Generated
-Media，用户自建媒体）型歌曲网络发行平台。原来隶属于原创音乐分享网站[PIAPRO](https://zh.wikipedia.org/wiki/PIAPRO "wikilink")，后来被分离。主要发行[VOCALOID使用者所制作的歌曲](../Page/VOCALOID.md "wikilink")，向诸如[iTunes
-Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")，[HearJapan等售卖平台提供等](https://zh.wikipedia.org/wiki/HearJapan "wikilink")。
+**KarenT**是由[VOCALOID角色主唱系列的制造商](../Page/角色主唱系列.md "wikilink")[CRYPTON FUTURE MEDIA所维持的CGM](https://zh.wikipedia.org/wiki/CRYPTON_FUTURE_MEDIA "wikilink")（Consumer Generated Media，用户自建媒体）型歌曲网络发行平台。原来隶属于原创音乐分享网站[PIAPRO](https://zh.wikipedia.org/wiki/PIAPRO "wikilink")，后来被分离。主要发行[VOCALOID](../Page/VOCALOID.md "wikilink")使用者所制作的歌曲，向诸如[iTunes Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")，[HearJapan等售卖平台提供等](https://zh.wikipedia.org/wiki/HearJapan "wikilink")。
 
-名字的由来是为了纪念《[第三次浪潮](https://zh.wikipedia.org/wiki/第三次浪潮 "wikilink")》作者[艾尔文·托夫勒的早逝的女儿Karen](https://zh.wikipedia.org/wiki/艾尔文·托夫勒 "wikilink")
-Toffler。\[1\]
+名字的由来是为了纪念《[第三次浪潮](https://zh.wikipedia.org/wiki/第三次浪潮 "wikilink")》作者[艾尔文·托夫勒的早逝的女儿Karen](https://zh.wikipedia.org/wiki/艾尔文·托夫勒 "wikilink") Toffler。\[1\]
 
 ## 发行列表\[2\]
 

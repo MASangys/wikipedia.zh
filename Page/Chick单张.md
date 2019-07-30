@@ -1,5 +1,4 @@
-[你的一生.gif](https://zh.wikipedia.org/wiki/File:你的一生.gif "fig:你的一生.gif")援引为世界上最受欢迎的福音单张\]\]
-**Chick单张**（）是[传福音主题的短篇](https://zh.wikipedia.org/wiki/福音神学 "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")[单张](https://zh.wikipedia.org/wiki/单张 "wikilink")，由美国出版商[杰克·奇克所创作](https://zh.wikipedia.org/wiki/杰克·奇克 "wikilink")。Chick单张使用了[漫画书的出版格式](../Page/漫画书.md "wikilink")。这些漫画常因其热情于支持[基督教基要主义与反对](../Page/基督教基要主义.md "wikilink")[普世教会合一运动](https://zh.wikipedia.org/wiki/普世教会合一运动 "wikilink")、[自由主义神学](https://zh.wikipedia.org/wiki/自由主义神学 "wikilink")、[成功神学](../Page/成功神学.md "wikilink")、[罗马天主教和其他非基督教宗教而备受争议](https://zh.wikipedia.org/wiki/罗马天主教 "wikilink")。
+[你的一生.gif](https://zh.wikipedia.org/wiki/File:你的一生.gif "fig:你的一生.gif")援引为世界上最受欢迎的福音单张\]\] **Chick单张**（）是[传福音主题的短篇](https://zh.wikipedia.org/wiki/福音神学 "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")[单张](https://zh.wikipedia.org/wiki/单张 "wikilink")，由美国出版商[杰克·奇克所创作](https://zh.wikipedia.org/wiki/杰克·奇克 "wikilink")。Chick单张使用了[漫画书](../Page/漫画书.md "wikilink")的出版格式。这些漫画常因其热情于支持[基督教基要主义](../Page/基督教基要主义.md "wikilink")与反对[普世教会合一运动](https://zh.wikipedia.org/wiki/普世教会合一运动 "wikilink")、[自由主义神学](https://zh.wikipedia.org/wiki/自由主义神学 "wikilink")、[成功神学](../Page/成功神学.md "wikilink")、[罗马天主教和其他非基督教宗教而备受争议](https://zh.wikipedia.org/wiki/罗马天主教 "wikilink")。
 
 ## 风格与反复出现的主题
 
@@ -11,8 +10,7 @@
 
 ### 《你的一生》
 
-\-{zh-hant:[送入火湖.gif](https://zh.wikipedia.org/wiki/File:送入火湖.gif "fig:送入火湖.gif");
-zh-hans:[送入火湖(简).gif](https://zh.wikipedia.org/wiki/File:送入火湖\(简\).gif "fig:送入火湖(简).gif")}-
+\-{zh-hant:[送入火湖.gif](https://zh.wikipedia.org/wiki/File:送入火湖.gif "fig:送入火湖.gif"); zh-hans:[送入火湖(简).gif](https://zh.wikipedia.org/wiki/File:送入火湖\(简\).gif "fig:送入火湖(简).gif")}-
 
 ## 参考文献
 
@@ -20,9 +18,6 @@ zh-hans:[送入火湖(简).gif](https://zh.wikipedia.org/wiki/File:送入火湖\
 
   - [Chick出版社](http://www.chick.com/zh/b5/)
 
-[Category:反天主教出版物](https://zh.wikipedia.org/wiki/Category:反天主教出版物 "wikilink")
-[Category:创造论出版物](https://zh.wikipedia.org/wiki/Category:创造论出版物 "wikilink")
-[Category:基督教漫画](https://zh.wikipedia.org/wiki/Category:基督教漫画 "wikilink")
+[Category:反天主教出版物](https://zh.wikipedia.org/wiki/Category:反天主教出版物 "wikilink") [Category:创造论出版物](https://zh.wikipedia.org/wiki/Category:创造论出版物 "wikilink") [Category:基督教漫画](https://zh.wikipedia.org/wiki/Category:基督教漫画 "wikilink")
 
-1.  *Things To
-    Come*：http://media.chick.com/tractimages88880/1062/1062_13.gif（第十三张）
+1.  *Things To Come*：http://media.chick.com/tractimages88880/1062/1062_13.gif（第十三张）

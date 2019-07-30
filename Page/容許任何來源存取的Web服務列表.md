@@ -1,5 +1,4 @@
-使用以下 HTTP 請求頭對任何來源進行[跨來源資源共享的](../Page/跨來源資源共享.md "wikilink") [Web
-服務列表](https://zh.wikipedia.org/wiki/Web服務 "wikilink")。
+使用以下 HTTP 請求頭對任何來源進行[跨來源資源共享](../Page/跨來源資源共享.md "wikilink")的 [Web 服務列表](https://zh.wikipedia.org/wiki/Web服務 "wikilink")。
 
 ``` apache
 Access-Control-Allow-Origin: *
@@ -44,12 +43,9 @@ Access-Control-Allow-Origin: *
 
 ## 外部連結
 
-  - [《誰已經在這樣做了？》](http://enable-cors.org/#who)是一份支援 CORS
-    的[開放資料相關的專案列表](../Page/開放資料.md "wikilink")，由
-    enable-cors.org 人員維護。
+  - [《誰已經在這樣做了？》](http://enable-cors.org/#who)是一份支援 CORS 的[開放資料](../Page/開放資料.md "wikilink")相關的專案列表，由 enable-cors.org 人員維護。
 
-[Category:Web服务](https://zh.wikipedia.org/wiki/Category:Web服务 "wikilink")
-[Category:W3C标准](https://zh.wikipedia.org/wiki/Category:W3C标准 "wikilink")
+[Category:Web服务](https://zh.wikipedia.org/wiki/Category:Web服务 "wikilink") [Category:W3C标准](https://zh.wikipedia.org/wiki/Category:W3C标准 "wikilink")
 
 1.  <http://www.html5rocks.com/en/tutorials/file/xhr2/#toc-enable-cors>
 2.  <http://www.yqlblog.net/blog/2009/05/20/changelog-for-build-1678/>

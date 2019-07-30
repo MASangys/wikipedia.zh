@@ -1,10 +1,6 @@
-**亞馬遜彈性雲端運算**（，简称）
-，是由[亞馬遜公司](../Page/亞馬遜公司.md "wikilink")提供的[Web服務](https://zh.wikipedia.org/wiki/Web服務 "wikilink")，是一個讓使用者可以租用[雲端電腦運行所需應用的系統](../Page/雲端運算.md "wikilink")。EC2藉由提供Web服務的方式讓使用者可以彈性地運行自己的Amazon機器映像檔，使用者將可以在這個[虛擬機器](../Page/虛擬機器.md "wikilink")上運行任何自己想要的軟體或應用程式。
+**亞馬遜彈性雲端運算**（，简称） ，是由[亞馬遜公司](../Page/亞馬遜公司.md "wikilink")提供的[Web服務](https://zh.wikipedia.org/wiki/Web服務 "wikilink")，是一個讓使用者可以租用[雲端電腦運行所需應用的系統](../Page/雲端運算.md "wikilink")。EC2藉由提供Web服務的方式讓使用者可以彈性地運行自己的Amazon機器映像檔，使用者將可以在這個[虛擬機器](../Page/虛擬機器.md "wikilink")上運行任何自己想要的軟體或應用程式。
 
-使用者可以隨時創建、執行、終止自己的虛擬伺服器，使用多少時間算多少錢，也因此這個系統是“彈性”使用的。EC2讓使用者可以控制執行虛擬伺服器的主機地理位置，這可以改善讓延遲還有備援性例如，為了讓系統維護時間最短，用戶可以在每個時區都運行自己的虛擬伺服器。Amazon.com以[Amazon
-Web
-Services](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink")
-(AWS)的品牌提供EC2的服務。
+使用者可以隨時創建、執行、終止自己的虛擬伺服器，使用多少時間算多少錢，也因此這個系統是“彈性”使用的。EC2讓使用者可以控制執行虛擬伺服器的主機地理位置，這可以改善讓延遲還有備援性例如，為了讓系統維護時間最短，用戶可以在每個時區都運行自己的虛擬伺服器。Amazon.com以[Amazon Web Services](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink") (AWS)的品牌提供EC2的服務。
 
 ## 歷史
 
@@ -18,9 +14,7 @@ Services](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink")
 
 ## 虛擬機器
 
-EC2使用[Xen](../Page/Xen.md "wikilink")虛擬化技術。每個虛擬機器，又稱作「實例」（），能夠運行小、大、極大三種能力的虛擬私有伺服器。Amazon.com利用EC2
-Compute Units去分配硬體資源（一個ECU相當與一個[Sandy
-Bridge級](https://zh.wikipedia.org/wiki/Sandy_Bridge "wikilink")[Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink")）。EC2系統提供以下的虛擬機器實例類型
+EC2使用[Xen](../Page/Xen.md "wikilink")虛擬化技術。每個虛擬機器，又稱作「實例」（），能夠運行小、大、極大三種能力的虛擬私有伺服器。Amazon.com利用EC2 Compute Units去分配硬體資源（一個ECU相當與一個[Sandy Bridge級](https://zh.wikipedia.org/wiki/Sandy_Bridge "wikilink")[Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink")）。EC2系統提供以下的虛擬機器實例類型
 
 ;
 
@@ -96,19 +90,14 @@ Bridge級](https://zh.wikipedia.org/wiki/Sandy_Bridge "wikilink")[Xeon](https://
 
 ## 自動配置
 
-Amazon EC2自動配置容量的功能允許用戶自動調整Amazon
-EC2的容量。假如用戶的流量達到尖峰，自動配置功能可以自動增加更多的容量至虛擬主機上以維持效能。
+Amazon EC2自動配置容量的功能允許用戶自動調整Amazon EC2的容量。假如用戶的流量達到尖峰，自動配置功能可以自動增加更多的容量至虛擬主機上以維持效能。
 
 ## 参考文献
 
 {{-}}
 
-[Category:雲端運算](https://zh.wikipedia.org/wiki/Category:雲端運算 "wikilink")
-[Category:Amazon_Web_Services](https://zh.wikipedia.org/wiki/Category:Amazon_Web_Services "wikilink")
-[Category:雲端平台](https://zh.wikipedia.org/wiki/Category:雲端平台 "wikilink")
+[Category:雲端運算](https://zh.wikipedia.org/wiki/Category:雲端運算 "wikilink") [Category:Amazon_Web_Services](https://zh.wikipedia.org/wiki/Category:Amazon_Web_Services "wikilink") [Category:雲端平台](https://zh.wikipedia.org/wiki/Category:雲端平台 "wikilink")
 
 1.
-2.  [AMAZON SEVERS TIES WITH
-    WIKILEAKS](http://lieberman.senate.gov/index.cfm/news-events/news/2010/12/amazon-severs-ties-with-wikileaks)
-
+2.  [AMAZON SEVERS TIES WITH WIKILEAKS](http://lieberman.senate.gov/index.cfm/news-events/news/2010/12/amazon-severs-ties-with-wikileaks)
 3.

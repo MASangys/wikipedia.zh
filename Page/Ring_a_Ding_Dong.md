@@ -1,5 +1,4 @@
-**Ring a Ding
-Dong**單曲，為[木村KAELA的個人第](../Page/木村KAELA.md "wikilink")15張單曲，於2010年6月9日由哥倫比亞音樂發行。
+**Ring a Ding Dong**單曲，為[木村KAELA](../Page/木村KAELA.md "wikilink")的個人第15張單曲，於2010年6月9日由哥倫比亞音樂發行。
 
 ## 曲目
 
@@ -28,11 +27,4 @@ Dong**單曲，為[木村KAELA的個人第](../Page/木村KAELA.md "wikilink")15
   - NTT DoCoMo walk with you 使用的CM曲
   - 自身首次登上日本Oricon公信榜單曲榜冠軍。
 
-[Category:木村KAELA歌曲](https://zh.wikipedia.org/wiki/Category:木村KAELA歌曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:2010年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:RIAJ手機片段下載百萬認證歌曲](https://zh.wikipedia.org/wiki/Category:RIAJ手機片段下載百萬認證歌曲 "wikilink")
-[Category:2010年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2010年RIAJ付費音樂下載榜冠軍歌曲 "wikilink")
-[Category:日本古倫美亞歌曲](https://zh.wikipedia.org/wiki/Category:日本古倫美亞歌曲 "wikilink")
-[Category:電話題材歌曲](https://zh.wikipedia.org/wiki/Category:電話題材歌曲 "wikilink")
+[Category:木村KAELA歌曲](https://zh.wikipedia.org/wiki/Category:木村KAELA歌曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:2010年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon單曲週榜冠軍作品 "wikilink") [Category:RIAJ手機片段下載百萬認證歌曲](https://zh.wikipedia.org/wiki/Category:RIAJ手機片段下載百萬認證歌曲 "wikilink") [Category:2010年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2010年RIAJ付費音樂下載榜冠軍歌曲 "wikilink") [Category:日本古倫美亞歌曲](https://zh.wikipedia.org/wiki/Category:日本古倫美亞歌曲 "wikilink") [Category:電話題材歌曲](https://zh.wikipedia.org/wiki/Category:電話題材歌曲 "wikilink")

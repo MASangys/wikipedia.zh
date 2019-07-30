@@ -1,25 +1,16 @@
-[ATmega8_01_Pengo.jpg](https://zh.wikipedia.org/wiki/File:ATmega8_01_Pengo.jpg "fig:ATmega8_01_Pengo.jpg")
-**Atmel
-AVR**系列是一种基于改进的[哈佛结构](../Page/哈佛结构.md "wikilink")、8位元～32位元[精简指令集](../Page/精简指令集.md "wikilink")（）的[微控制器](https://zh.wikipedia.org/wiki/微控制器 "wikilink")，由[Atmel公司于](https://zh.wikipedia.org/wiki/Atmel "wikilink")1996年研发。AVR系列是首次采用[闪存](../Page/闪存.md "wikilink")（）作为数据存储介质的单芯片微控制器之一，同時代的其它微控制器多採用一次寫入可编程ROM、EPROM或是EEPROM。
+[ATmega8_01_Pengo.jpg](https://zh.wikipedia.org/wiki/File:ATmega8_01_Pengo.jpg "fig:ATmega8_01_Pengo.jpg") **Atmel AVR**系列是一种基于改进的[哈佛结构](../Page/哈佛结构.md "wikilink")、8位元～32位元[精简指令集](../Page/精简指令集.md "wikilink")（）的[微控制器](https://zh.wikipedia.org/wiki/微控制器 "wikilink")，由[Atmel公司于](https://zh.wikipedia.org/wiki/Atmel "wikilink")1996年研发。AVR系列是首次采用[闪存](../Page/闪存.md "wikilink")（）作为数据存储介质的单芯片微控制器之一，同時代的其它微控制器多採用一次寫入可编程ROM、EPROM或是EEPROM。
 
-目前AVR处理器发展了六个系列，分别是：tinyAVR，ATtiny系列；megaAVR，ATmega系列；XMEGA，ATxmega系列；Application-specific
-AVR，面向特殊应用的AVR系列，增加LCD控制器、[USB控制器](../Page/USB.md "wikilink")、PWM等特性；FPSLIC，[FPGA上的AVR核](https://zh.wikipedia.org/wiki/FPGA "wikilink")；AVR32，32位AVR系列，包含SIMD和DSP以及音视频处理特性，与[ARM架構形成竞争](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")。
+目前AVR处理器发展了六个系列，分别是：tinyAVR，ATtiny系列；megaAVR，ATmega系列；XMEGA，ATxmega系列；Application-specific AVR，面向特殊应用的AVR系列，增加LCD控制器、[USB](../Page/USB.md "wikilink")控制器、PWM等特性；FPSLIC，[FPGA上的AVR核](https://zh.wikipedia.org/wiki/FPGA "wikilink")；AVR32，32位AVR系列，包含SIMD和DSP以及音视频处理特性，与[ARM架構形成竞争](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")。
 
 ## 發展簡史
 
-AVR架構最早由兩名（Norwegian Institute of Technology，NTH）的學生Alf-Egil
-Bogen和Vegard Wollan共同構思出來。\[1\]\[2\]
+AVR架構最早由兩名（Norwegian Institute of Technology，NTH）的學生Alf-Egil Bogen和Vegard Wollan共同構思出來。\[1\]\[2\]
 
-原始的AVR微控制單元由當地[Trondheim的一所](../Page/特隆赫姆.md "wikilink")[特殊應用積體電路](../Page/特殊應用積體電路.md "wikilink")（ASIC）工作室Nordic
-VLSI（現為）負責開發。當時它被稱作μRISC（Micro RISC），還可使用Nordic
-VLSI的矽[晶圓等基礎材料來製作其晶片](../Page/晶圓.md "wikilink")。當這些技術被Nordic
-VLSI賣給[Atmel後](https://zh.wikipedia.org/wiki/Atmel "wikilink")，其內部架構被當時任職於Atmel挪威子公司的Bogen以及Wollan進一步發展。架構設計者們和來自的[編譯器編寫者們緊密合作](../Page/編譯器.md "wikilink")，來確保[指令集提供更高效率的](https://zh.wikipedia.org/wiki/指令集 "wikilink")[高階程式語言編譯](https://zh.wikipedia.org/wiki/高階程式語言 "wikilink")。\[3\]
+原始的AVR微控制單元由當地[Trondheim的一所](../Page/特隆赫姆.md "wikilink")[特殊應用積體電路](../Page/特殊應用積體電路.md "wikilink")（ASIC）工作室Nordic VLSI（現為）負責開發。當時它被稱作μRISC（Micro RISC），還可使用Nordic VLSI的矽[晶圓](../Page/晶圓.md "wikilink")等基礎材料來製作其晶片。當這些技術被Nordic VLSI賣給[Atmel後](https://zh.wikipedia.org/wiki/Atmel "wikilink")，其內部架構被當時任職於Atmel挪威子公司的Bogen以及Wollan進一步發展。架構設計者們和來自的[編譯器](../Page/編譯器.md "wikilink")編寫者們緊密合作，來確保[指令集提供更高效率的](https://zh.wikipedia.org/wiki/指令集 "wikilink")[高階程式語言編譯](https://zh.wikipedia.org/wiki/高階程式語言 "wikilink")。\[3\]
 
-而在命名上，Atmel解釋『AVR』這個名稱不是某幾個單詞的縮寫，也不代表任何特別的事物。AVR的創造者們也沒有給出明確的關於『AVR』之表意的答案。\[4\]然而，一般認為，『AVR』表示**A**lf
-(Egil Bogen) and **V**egard (Wollan)'s **R**ISC
-processor。\[5\]而本文裏用的『AVR』一般指8位元RISC的Atmel AVR微控制器的產品線。
+而在命名上，Atmel解釋『AVR』這個名稱不是某幾個單詞的縮寫，也不代表任何特別的事物。AVR的創造者們也沒有給出明確的關於『AVR』之表意的答案。\[4\]然而，一般認為，『AVR』表示**A**lf (Egil Bogen) and **V**egard (Wollan)'s **R**ISC processor。\[5\]而本文裏用的『AVR』一般指8位元RISC的Atmel AVR微控制器的產品線。
 
-首個AVR微控制器的產品線是AT90S8515，擁有和[英特爾8051微控制器相同的](../Page/英特爾8051.md "wikilink")40針雙列直插封裝（DIP），包括外部多路位址和資料[匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink")。但<span style="text-decoration: overline">RESET</span>線和英特爾8051相反，8051的是高電平有效RESET，而AVR是低電平有效<span style="text-decoration: overline">RESET</span>，但除此以外，其它針腳是完全一致的。
+首個AVR微控制器的產品線是AT90S8515，擁有和[英特爾8051](../Page/英特爾8051.md "wikilink")微控制器相同的40針雙列直插封裝（DIP），包括外部多路位址和資料[匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink")。但<span style="text-decoration: overline">RESET</span>線和英特爾8051相反，8051的是高電平有效RESET，而AVR是低電平有效<span style="text-decoration: overline">RESET</span>，但除此以外，其它針腳是完全一致的。
 
 ## 裝置概覽
 
@@ -53,14 +44,12 @@ AVR分為六大家族系列：
 <!-- end list -->
 
   - **Application-specific AVR** — 面向特殊應用的AVR
-      - 基於megaAVR搭載其它AVR家族系列上所沒有的特殊的功能，例如[LCD控制器](https://zh.wikipedia.org/wiki/LCD "wikilink")、[USB控制器](https://zh.wikipedia.org/wiki/通用串列匯流排 "wikilink")、
-        進階[PWM](https://zh.wikipedia.org/wiki/PWM "wikilink")、[CAN等等](https://zh.wikipedia.org/wiki/控制器區域網路 "wikilink")
+      - 基於megaAVR搭載其它AVR家族系列上所沒有的特殊的功能，例如[LCD控制器](https://zh.wikipedia.org/wiki/LCD "wikilink")、[USB控制器](https://zh.wikipedia.org/wiki/通用串列匯流排 "wikilink")、 進階[PWM](https://zh.wikipedia.org/wiki/PWM "wikilink")、[CAN等等](https://zh.wikipedia.org/wiki/控制器區域網路 "wikilink")
 
 <!-- end list -->
 
   - **FPSLIC (AVR with FPGA)** — 載於FPGA上的AVR核心
-      - [FPGA](https://zh.wikipedia.org/wiki/現場可程式邏輯閘陣列 "wikilink") 5K 至
-        40K 個邏輯閘
+      - [FPGA](https://zh.wikipedia.org/wiki/現場可程式邏輯閘陣列 "wikilink") 5K 至 40K 個邏輯閘
       - AVR程式碼使用[SRAM](https://zh.wikipedia.org/wiki/SRAM "wikilink")，和其它AVR系列不同
       - AVR核心可以運作於最高50MHz的[時脈速率上](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[6\]
 
@@ -71,7 +60,7 @@ AVR分為六大家族系列：
 <!-- end list -->
 
   -
-    2006年Atmel發布新的基於32位元的AVR32架構之微控制器。新架構包含[單指令流多資料流運算](https://zh.wikipedia.org/wiki/單指令流多資料流 "wikilink")（SIMD）和[數位訊號處理器](../Page/數位訊號處理器.md "wikilink")（DSP）指令，以及其他音頻視頻處理功能。這個[32位元的裝置家族系列將與](../Page/32位元.md "wikilink")[ARM架構的處理器形成競爭](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")。儘管指令集和其它[精簡指令集的中央處理核心相似](https://zh.wikipedia.org/wiki/精簡指令集 "wikilink")，但與原來的AVR架構和其它ARM核心是不相容的。
+    2006年Atmel發布新的基於32位元的AVR32架構之微控制器。新架構包含[單指令流多資料流運算](https://zh.wikipedia.org/wiki/單指令流多資料流 "wikilink")（SIMD）和[數位訊號處理器](../Page/數位訊號處理器.md "wikilink")（DSP）指令，以及其他音頻視頻處理功能。這個[32位元](../Page/32位元.md "wikilink")的裝置家族系列將與[ARM架構的處理器形成競爭](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")。儘管指令集和其它[精簡指令集的中央處理核心相似](https://zh.wikipedia.org/wiki/精簡指令集 "wikilink")，但與原來的AVR架構和其它ARM核心是不相容的。
 
 ### 存儲器架構
 
@@ -91,8 +80,7 @@ AVR分為六大家族系列：
 
 #### 內部暫存器
 
-[AVR_ATXMEGA_128A1.JPG](https://zh.wikipedia.org/wiki/File:AVR_ATXMEGA_128A1.JPG "fig:AVR_ATXMEGA_128A1.JPG")封裝\]\]
-AVR擁有32個的暫存器，分別為( R0 到 R31 )並被歸類為8位元RISC裝置。
+[AVR_ATXMEGA_128A1.JPG](https://zh.wikipedia.org/wiki/File:AVR_ATXMEGA_128A1.JPG "fig:AVR_ATXMEGA_128A1.JPG")封裝\]\] AVR擁有32個的暫存器，分別為( R0 到 R31 )並被歸類為8位元RISC裝置。
 
 在大部分AVR架構上，工作暫存器被對映為首位的32個記憶體位址（0000<sub>16</sub>–001F<sub>16</sub>）接著是64個輸出/輸入（I/O）暫存器（0020<sub>16</sub>–005F<sub>16</sub>）。
 
@@ -122,20 +110,17 @@ AVR核心被設計為能夠高效運行經編譯的C語言程式，還內建了�
 
 ### 指令集系統
 
-AVR指令集系統相比其它大多數的位元微控制器的，[正交指令集要多出不少](../Page/正交.md "wikilink")，尤其是AVR當下的競爭對手英特爾8051以及其仿製品和[PIC微控制器](../Page/PIC微控制器.md "wikilink")。然而，這不完全是固定的：
+AVR指令集系統相比其它大多數的位元微控制器的，[正交](../Page/正交.md "wikilink")指令集要多出不少，尤其是AVR當下的競爭對手英特爾8051以及其仿製品和[PIC微控制器](../Page/PIC微控制器.md "wikilink")。然而，這不完全是固定的：
 
-  - [指針暫存器](https://zh.wikipedia.org/wiki/指针_\(信息学\) "wikilink") R26
-    至R31 是X、Y和Z擁有的定址能力，彼此是不同的
+  - [指針暫存器](https://zh.wikipedia.org/wiki/指针_\(信息学\) "wikilink") R26 至R31 是X、Y和Z擁有的定址能力，彼此是不同的
   - [暫存器位置R](https://zh.wikipedia.org/wiki/暫存器 "wikilink")0至R15和暫存器R16至R31擁有不同的定址能力
   - 輸出/輸入埠0～31和埠32至63擁有不同的定址能力
-  - 當SER不影響標誌時CLR會影響標誌，即使它們是互補指令。CLR設定所有位元為「零」而SER指令則設定所有位元為「一」。（注意，CLR指令是EOR
-    R, R的虛假操作；SER指令是LDI
-    R,$FF的短指令。數學運算時當遇到搬移/載入/存儲/分支，像是EOR會變更標誌而像是LDI的則不會）
+  - 當SER不影響標誌時CLR會影響標誌，即使它們是互補指令。CLR設定所有位元為「零」而SER指令則設定所有位元為「一」。（注意，CLR指令是EOR R, R的虛假操作；SER指令是LDI R,$FF的短指令。數學運算時當遇到搬移/載入/存儲/分支，像是EOR會變更標誌而像是LDI的則不會）
   - 讀取存儲在程式記憶體（快閃型）的唯獨資料時要用到特殊的LPM指令；快閃記憶體匯流排會為指令記憶體保留。
 
 此外，一些晶片差異會影響代碼的生成。代碼指針（包括在堆疊上的返回位址）在晶片上是兩個位元組長度以及有高達128KB的快閃記憶體，但在一些更大的晶片上變成3個位元組長度;並不是所有的晶片都有硬體乘法器；擁有超過8KB快閃記憶體的晶片擁有分支和附帶更大範圍的傳喚指令；或者四者都有。
 
-通常的規則指令集使得可直接使用C（或者甚至Ada）編譯器來對AVR進行編程。[GCC也在離目前相當長的時間以前就支援包括AVR在內的多種微控制器](../Page/GCC.md "wikilink")，而且還被廣泛使用。事實上，Atmel也從為小型微控制器用的編譯器的主要開發者當中徵集並導入他們的作品。以確定高階程式語言編譯器中最常用的指令集特性。
+通常的規則指令集使得可直接使用C（或者甚至Ada）編譯器來對AVR進行編程。[GCC](../Page/GCC.md "wikilink")也在離目前相當長的時間以前就支援包括AVR在內的多種微控制器，而且還被廣泛使用。事實上，Atmel也從為小型微控制器用的編譯器的主要開發者當中徵集並導入他們的作品。以確定高階程式語言編譯器中最常用的指令集特性。
 
 ### MCU速度
 
@@ -145,8 +130,7 @@ AVR系列可以很好地支援0～20MHz的時脈，某些裝置更達到32MHz。
 
 ### 開發
 
-[Atmel_STK_500_DSC00557_wp.jpg](https://zh.wikipedia.org/wiki/File:Atmel_STK_500_DSC00557_wp.jpg "fig:Atmel_STK_500_DSC00557_wp.jpg")
-AVR由於開發工具可輕易免費或低價獲得，包括一些合適價格的開發板裝置和免費的開發軟體，而擁有龐大的開發群體。AVR也以眾多不同的名義販售，但它們都使用相同的基本核心，只是周邊設備和記憶體的搭配不一樣。每個系列的不同晶片之間的相容性相當好，儘管輸出輸入控制器的搭配會有所不同。
+[Atmel_STK_500_DSC00557_wp.jpg](https://zh.wikipedia.org/wiki/File:Atmel_STK_500_DSC00557_wp.jpg "fig:Atmel_STK_500_DSC00557_wp.jpg") AVR由於開發工具可輕易免費或低價獲得，包括一些合適價格的開發板裝置和免費的開發軟體，而擁有龐大的開發群體。AVR也以眾多不同的名義販售，但它們都使用相同的基本核心，只是周邊設備和記憶體的搭配不一樣。每個系列的不同晶片之間的相容性相當好，儘管輸出輸入控制器的搭配會有所不同。
 
 更多可參見[\#外部連結一節中與AVR開發的相關站點](https://zh.wikipedia.org/wiki/#外部連結 "wikilink")。
 
@@ -158,8 +142,7 @@ AVR由於開發工具可輕易免費或低價獲得，包括一些合適價格�
 
 ### 高電壓平行
 
-高電壓平行編程（High voltage parallel
-programming，HVPP）是作為『最後手段』來使用，亦可能是以壞熔絲設定修復AVR晶片的唯一方法。
+高電壓平行編程（High voltage parallel programming，HVPP）是作為『最後手段』來使用，亦可能是以壞熔絲設定修復AVR晶片的唯一方法。
 
 ### 開機載入程式（Bootloader）
 
@@ -167,8 +150,7 @@ programming，HVPP）是作為『最後手段』來使用，亦可能是以壞�
 
 ### ROM
 
-AT90SC系列的AVR晶片可以使用原廠掩模[ROM而不使用快閃記憶體來作為程式記憶體](https://zh.wikipedia.org/wiki/ROM "wikilink")。\[12\]
-因為在大批量生產基於AVR的特定功能控制器時，比起在開發階段使用價格較高的快閃記憶體，在生產階段使用掩模ROM可以有效提高成本效益。
+AT90SC系列的AVR晶片可以使用原廠掩模[ROM而不使用快閃記憶體來作為程式記憶體](https://zh.wikipedia.org/wiki/ROM "wikilink")。\[12\] 因為在大批量生產基於AVR的特定功能控制器時，比起在開發階段使用價格較高的快閃記憶體，在生產階段使用掩模ROM可以有效提高成本效益。
 
 ### aWire
 
@@ -183,16 +165,10 @@ aWire是一種新的單線除錯界面，可用於新版UC3L AVR32裝置上。
 
 ## 擴展閱讀
 
-  - *Embedded C Programming and the Atmel AVR*; Richard H Barnett, Sarah
-    Cox, Larry O'Cull; 560 pages; 2006; ISBN 978-1-4180-3959-2.
-  - *C Programming for Microcontrollers Featuring ATMEL's AVR Butterfly
-    and WinAVR Compiler*; Joe Pardue; 300 pages; 2005; ISBN
-    978-0-9766822-0-2.
-  - *Atmel AVR Microcontroller Primer : Programming and Interfacing*;
-    Steven F Barrett, Daniel Pack, Mitchell Thornton; 194 pages; 2007;
-    ISBN 978-1-59829-541-2.
-  - *Arduino : A Quick Start Guide*; Maik Schmidt; 276 pages; 2011; ISBN
-    978-1-934356-66-1.
+  - *Embedded C Programming and the Atmel AVR*; Richard H Barnett, Sarah Cox, Larry O'Cull; 560 pages; 2006; ISBN 978-1-4180-3959-2.
+  - *C Programming for Microcontrollers Featuring ATMEL's AVR Butterfly and WinAVR Compiler*; Joe Pardue; 300 pages; 2005; ISBN 978-0-9766822-0-2.
+  - *Atmel AVR Microcontroller Primer : Programming and Interfacing*; Steven F Barrett, Daniel Pack, Mitchell Thornton; 194 pages; 2007; ISBN 978-1-59829-541-2.
+  - *Arduino : A Quick Start Guide*; Maik Schmidt; 276 pages; 2011; ISBN 978-1-934356-66-1.
 
 ## 外部链接
 
@@ -207,41 +183,27 @@ aWire是一種新的單線除錯界面，可用於新版UC3L AVR32裝置上。
 
   - [AVR Freaks community](http://www.avrfreaks.net/)
 
-  - [Atmel AVR Serial Port
-    Programmer](http://microembeded.blogspot.com/2011/04/avr-serial-port-programmer.html)
+  - [Atmel AVR Serial Port Programmer](http://microembeded.blogspot.com/2011/04/avr-serial-port-programmer.html)
 
   - [Arduino community](http://www.arduino.cc/)
 
   - , numerous AVR links
 
-  - [Why you need a clock source for the
-    AVR?](http://www.avrfreaks.net/index.php?module=FreaksArticles&func=downloadArticle&id=21)
+  - [Why you need a clock source for the AVR?](http://www.avrfreaks.net/index.php?module=FreaksArticles&func=downloadArticle&id=21)
 
-  - [AVR
-    Basics](http://www.robotplatform.com/knowledge/AVR%20Basics/avr_basics.html)
-    - AVR guide for beginners
+  - [AVR Basics](http://www.robotplatform.com/knowledge/AVR%20Basics/avr_basics.html) - AVR guide for beginners
 
-  - [Simplest AVR programmer Using LPT
-    Port](https://web.archive.org/web/20130326024446/http://makecircuits.com/blog/2009-03-23-simplest-atmega8-programmer-using-lpt-port.html)
+  - [Simplest AVR programmer Using LPT Port](https://web.archive.org/web/20130326024446/http://makecircuits.com/blog/2009-03-23-simplest-atmega8-programmer-using-lpt-port.html)
 
-  - [Atmega8 Breadboard
-    Tutorial](http://www.protostack.com/blog/2009/07/atmega8-breadboard-circuit-part-2-of-3-the-microcontroller/)
+  - [Atmega8 Breadboard Tutorial](http://www.protostack.com/blog/2009/07/atmega8-breadboard-circuit-part-2-of-3-the-microcontroller/)
 
-  - AVR DIP-Package Pinout Diagrams:
-    [ATtiny44/45/84/85](http://www.flickr.com/photos/28521811@N04/8451023182/sizes/l/in/photostream/),
-    [ATmega328P](https://web.archive.org/web/20130801033936/http://www.pighixxx.com/pgdev/Temp/arduino_atmega328_Web.png),
-    [ATmega644P](http://www.flickr.com/photos/28521811@N04/8449933887/sizes/l/in/photostream/),
-    [ATmega1284P](http://www.flickr.com/photos/28521811@N04/8451021230/sizes/l/in/photostream/)
+  - AVR DIP-Package Pinout Diagrams: [ATtiny44/45/84/85](http://www.flickr.com/photos/28521811@N04/8451023182/sizes/l/in/photostream/), [ATmega328P](https://web.archive.org/web/20130801033936/http://www.pighixxx.com/pgdev/Temp/arduino_atmega328_Web.png), [ATmega644P](http://www.flickr.com/photos/28521811@N04/8449933887/sizes/l/in/photostream/), [ATmega1284P](http://www.flickr.com/photos/28521811@N04/8451021230/sizes/l/in/photostream/)
 
-  - AVR TQFP-Package Pinout Diagrams:
-    [ATmega328](http://www.flickr.com/photos/28521811@N04/8449935217/sizes/l/in/photostream/),
-    [ATmega2560](http://www.flickr.com/photos/28521811@N04/8451021492/sizes/l/in/photostream/),
-    [ATmega32U4](http://www.flickr.com/photos/28521811@N04/8467610175/sizes/l/in/photostream/)
+  - AVR TQFP-Package Pinout Diagrams: [ATmega328](http://www.flickr.com/photos/28521811@N04/8449935217/sizes/l/in/photostream/), [ATmega2560](http://www.flickr.com/photos/28521811@N04/8451021492/sizes/l/in/photostream/), [ATmega32U4](http://www.flickr.com/photos/28521811@N04/8467610175/sizes/l/in/photostream/)
 
 [Category:微控制器](https://zh.wikipedia.org/wiki/Category:微控制器 "wikilink")
 
-1.  自1996年以後，NTH成為挪威科技大學（Norwegian University of Science and
-    Technology，NTNU）的一部分
+1.  自1996年以後，NTH成為挪威科技大學（Norwegian University of Science and Technology，NTNU）的一部分
 
 2.
 
@@ -250,9 +212,7 @@ aWire是一種新的單線除錯界面，可用於新版UC3L AVR32裝置上。
 4.
 5.
 
-6.  [Field Programmable System Level Integrated
-    Circuit](http://www.atmel.com/products/other/field_programmable_gate_array/default.aspx)
-
+6.  [Field Programmable System Level Integrated Circuit](http://www.atmel.com/products/other/field_programmable_gate_array/default.aspx)
 
 7.  [Atmel Smart Card ICs](http://www.atmel.com/images/doc1010.pdf)
 

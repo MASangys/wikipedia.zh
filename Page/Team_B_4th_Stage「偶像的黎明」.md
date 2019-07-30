@@ -1,5 +1,4 @@
-**Team B 4th Stage「偶像的黎明」**（）是[AKB48](../Page/AKB48.md "wikilink") team
-B的第4台剧场公演。 本页内也记述了演出内容基本相同的其他公演的相关事项。
+**Team B 4th Stage「偶像的黎明」**（）是[AKB48](../Page/AKB48.md "wikilink") team B的第4台剧场公演。 本页内也记述了演出内容基本相同的其他公演的相关事项。
 
 ## 概要
 
@@ -71,7 +70,7 @@ Team 研究生公演中没有演奏《偶像的黎明》一曲。
 <!-- end list -->
 
   -
-    ※初演开始就缺员1人，且由于[佐伯美香在长期休养](../Page/佐伯美香.md "wikilink")（其后毕业），只剩下14人，因此实施由研究生等支援成员加入的体制。
+    ※初演开始就缺员1人，且由于[佐伯美香](../Page/佐伯美香.md "wikilink")在长期休养（其后毕业），只剩下14人，因此实施由研究生等支援成员加入的体制。
 
 <!-- end list -->
 
@@ -82,13 +81,11 @@ Team 研究生公演中没有演奏《偶像的黎明》一曲。
       - 口对口的巧克力（多田、柏木、平嶋）
       - 单恋对角线（仁藤、米澤、（研究生））
           -
-            研究生席位，初演时由当时为研究生的[近野莉菜担任](../Page/近野莉菜.md "wikilink")，近野升格至Team
-            K后主要由[小森美果担任](../Page/小森美果.md "wikilink")。
+            研究生席位，初演时由当时为研究生的[近野莉菜](../Page/近野莉菜.md "wikilink")担任，近野升格至Team K后主要由[小森美果](../Page/小森美果.md "wikilink")担任。
       - 天国小子（浦野、仲川、小原、仲谷）
       - 心爱的娜塔莎（田名部、指原、片山）
           -
-            在这首歌曲中三人组成了限定组合“Team
-            猎人。”（）。指原的名字是指原、田名部的名字是田名部、片山的名字是片山。并设定为与现实中的三人是不同人物。
+            在这首歌曲中三人组成了限定组合“Team 猎人。”（）。指原的名字是指原、田名部的名字是田名部、片山的名字是片山。并设定为与现实中的三人是不同人物。
   - 《偶像的黎明》担当乐器（括弧内为代理成员）
       - [大鼓](../Page/大鼓.md "wikilink")：内田（[大場美奈](../Page/大場美奈.md "wikilink")）
       - [小鼓](../Page/小鼓.md "wikilink")：仲川（[藤本紗羅](../Page/藤本紗羅.md "wikilink")）
@@ -137,10 +134,7 @@ Team 研究生公演中没有演奏《偶像的黎明》一曲。
       -
         [東由樹](https://zh.wikipedia.org/wiki/東由樹 "wikilink")、[太田里織菜](../Page/太田里織菜.md "wikilink")、[冲田彩华](https://zh.wikipedia.org/wiki/冲田彩华 "wikilink")、[川上礼奈](https://zh.wikipedia.org/wiki/川上礼奈 "wikilink")、[木下百花](../Page/木下百花.md "wikilink")、[小柳有沙](https://zh.wikipedia.org/wiki/小柳有沙 "wikilink")、[島田玲奈](../Page/島田玲奈.md "wikilink")、[城惠理子](../Page/城惠理子.md "wikilink")、[高野祐衣](https://zh.wikipedia.org/wiki/高野祐衣 "wikilink")、[谷川愛梨](../Page/谷川愛梨.md "wikilink")、[肥川彩愛](../Page/肥川彩愛.md "wikilink")、[藤田留奈](https://zh.wikipedia.org/wiki/藤田留奈 "wikilink")、[三田麻央](../Page/三田麻央.md "wikilink")、[村上文香](../Page/村上文香.md "wikilink")、[村瀬紗英](https://zh.wikipedia.org/wiki/村瀬紗英 "wikilink")、[矢倉楓子](../Page/矢倉楓子.md "wikilink")、[山岸奈津美](https://zh.wikipedia.org/wiki/山岸奈津美 "wikilink")、[山本瞳](https://zh.wikipedia.org/wiki/山本瞳 "wikilink")（）、[山田菜菜](../Page/山田菜菜.md "wikilink")、[與儀凯拉](https://zh.wikipedia.org/wiki/與儀凯拉 "wikilink")（）
           -
-            ※原属Team
-            M的[小鷹狩佑香并没有出演此公演而于](https://zh.wikipedia.org/wiki/小鷹狩佑香 "wikilink")2012年5月6日毕业，因此从初次公演开始就是以少一人的体制来进行的。冲田彩华于5月31日升格。城恵理子于9月28日毕业。藤田留奈于10月3日辞退。东由树，小柳有沙，山本瞳三人于10月9日升格。太田里织菜于10月28日毕业（10月25日毕业公演）。肥川彩爱因为脚部受伤从10月29日开始修养，在12月22日毕业。山田菜菜从2013年5月21日起由Team
-            N移动至Team
-            M，5月30日首次出演此公演。山本瞳在5月30日毕业。小柳有沙在2014年3月2日毕业（2月7日毕业公演）。島田玲奈在4月7日毕业。
+            ※原属Team M的[小鷹狩佑香并没有出演此公演而于](https://zh.wikipedia.org/wiki/小鷹狩佑香 "wikilink")2012年5月6日毕业，因此从初次公演开始就是以少一人的体制来进行的。冲田彩华于5月31日升格。城恵理子于9月28日毕业。藤田留奈于10月3日辞退。东由树，小柳有沙，山本瞳三人于10月9日升格。太田里织菜于10月28日毕业（10月25日毕业公演）。肥川彩爱因为脚部受伤从10月29日开始修养，在12月22日毕业。山田菜菜从2013年5月21日起由Team N移动至Team M，5月30日首次出演此公演。山本瞳在5月30日毕业。小柳有沙在2014年3月2日毕业（2月7日毕业公演）。島田玲奈在4月7日毕业。
             2014年1月11日开始的公演中对分组曲演出成员进行了洗牌。
   - 分組曲
       - 1st分组
@@ -169,8 +163,7 @@ Team 研究生公演中没有演奏《偶像的黎明》一曲。
       - 單簧管：川上
       - 指揮棒：城→矢倉
 
-※B4th公演的《B
-Stars》一曲在本公演中沒有对应的曲目，取而代之的是歌曲串烧\[1\]，另外《偶像的黎明》与《大家一起来》两曲也皆有少许改编。
+※B4th公演的《B Stars》一曲在本公演中沒有对应的曲目，取而代之的是歌曲串烧\[1\]，另外《偶像的黎明》与《大家一起来》两曲也皆有少许改编。
 
 ## AKB48 Team 4 3rd Stage「偶像的黎明」公演
 
@@ -324,16 +317,11 @@ Stars》一曲在本公演中沒有对应的曲目，取而代之的是歌曲串
 
 ## 外部链接
 
-  - [4th
-    Stage「偶像的黎明」公演乐曲（AKB48官网）](https://web.archive.org/web/20100525010845/http://www.akb48.co.jp/song/04b.html)
+  - [4th Stage「偶像的黎明」公演乐曲（AKB48官网）](https://web.archive.org/web/20100525010845/http://www.akb48.co.jp/song/04b.html)
 
-[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
-[Category:AKB48音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
+[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink") [Category:AKB48音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
 
-1.  初演是《[絕滅黑髮少女](../Page/絕滅黑髮少女.md "wikilink")》〜《[純情U-19](../Page/純情U-19.md "wikilink")》〜《[Oh
-    My
-    God\!](../Page/Oh_My_God!.md "wikilink")》（）〜《[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")》（）的串烧。
+1.  初演是《[絕滅黑髮少女](../Page/絕滅黑髮少女.md "wikilink")》〜《[純情U-19](../Page/純情U-19.md "wikilink")》〜《[Oh My God\!](../Page/Oh_My_God!.md "wikilink")》（）〜《[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")》（）的串烧。
 2.
 3.
 4.  只通常盘

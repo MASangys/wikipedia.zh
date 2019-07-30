@@ -1,4 +1,4 @@
-《**雙戀2**》（）是由與[佐佐木睦美擔任原作](https://zh.wikipedia.org/wiki/佐佐木睦美 "wikilink")，2005年4月至6月期間在[日本播放的](../Page/日本.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。作品先後製成電視遊戲、小說及漫畫。
+《**雙戀2**》（）是由與[佐佐木睦美擔任原作](https://zh.wikipedia.org/wiki/佐佐木睦美 "wikilink")，2005年4月至6月期間在[日本](../Page/日本.md "wikilink")播放的[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。作品先後製成電視遊戲、小說及漫畫。
 
 ## 作品概要
 
@@ -100,8 +100,7 @@
   - 製作監製：[近藤光](https://zh.wikipedia.org/wiki/近藤光 "wikilink")
   - 監製：[高野希義](https://zh.wikipedia.org/wiki/高野希義 "wikilink")、[宿利剛](https://zh.wikipedia.org/wiki/宿利剛 "wikilink")、[渡邊和哉](https://zh.wikipedia.org/wiki/渡邊和哉 "wikilink")
   - 動畫製作：[ufotable](https://zh.wikipedia.org/wiki/ufotable "wikilink")、[flag](https://zh.wikipedia.org/wiki/flag "wikilink")、[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")
-  - 製作：[雙戀製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[MediaWorks](../Page/MediaWorks.md "wikilink")、[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")）
+  - 製作：[雙戀製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[MediaWorks](../Page/MediaWorks.md "wikilink")、[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")）
 
 ### 主題曲
 
@@ -337,8 +336,7 @@
 
 ## 遊戲
 
-以動畫版作背景，在2005年6月23日發售的[PlayStation
-2戀愛冒險類遊戲](../Page/PlayStation_2.md "wikilink")\[2\]\[3\]\[4\]\[5\]。可以進行攻略的對象總共有六對[雙胞胎](../Page/雙胞胎.md "wikilink")，隨着故事進行，選擇不同的選項會導致不同的結局。
+以動畫版作背景，在2005年6月23日發售的[PlayStation 2戀愛冒險類遊戲](../Page/PlayStation_2.md "wikilink")\[2\]\[3\]\[4\]\[5\]。可以進行攻略的對象總共有六對[雙胞胎](../Page/雙胞胎.md "wikilink")，隨着故事進行，選擇不同的選項會導致不同的結局。
 
 ### 故事
 
@@ -371,18 +369,15 @@
 ## 小說
 
   -
-    作者：[工藤治](https://zh.wikipedia.org/wiki/工藤治 "wikilink")、插畫：[ufotable](https://zh.wikipedia.org/wiki/ufotable "wikilink")、出版社：[MediaWorks](../Page/MediaWorks.md "wikilink")、出版日期：2005年7月、ISBN
-    978-4-840-23119-0
+    作者：[工藤治](https://zh.wikipedia.org/wiki/工藤治 "wikilink")、插畫：[ufotable](https://zh.wikipedia.org/wiki/ufotable "wikilink")、出版社：[MediaWorks](../Page/MediaWorks.md "wikilink")、出版日期：2005年7月、ISBN 978-4-840-23119-0
     目前未有中文代理。
   -
-    作者：[金月龍之介](https://zh.wikipedia.org/wiki/金月龍之介 "wikilink")、插畫：[ufotable](https://zh.wikipedia.org/wiki/ufotable "wikilink")、出版社：[MediaWorks](../Page/MediaWorks.md "wikilink")、出版日期：2006年7月29日、ISBN
-    978-4-840-23544-0
+    作者：[金月龍之介](https://zh.wikipedia.org/wiki/金月龍之介 "wikilink")、插畫：[ufotable](https://zh.wikipedia.org/wiki/ufotable "wikilink")、出版社：[MediaWorks](../Page/MediaWorks.md "wikilink")、出版日期：2006年7月29日、ISBN 978-4-840-23544-0
     目前未有中文代理。
 
 ## 漫畫
 
-由、[佐佐木睦美負責執筆](https://zh.wikipedia.org/wiki/佐佐木睦美 "wikilink")；負責[插圖的漫畫](https://zh.wikipedia.org/wiki/插圖 "wikilink")《》（ISBN
-978-4-840-23420-7）於2006年3月27日由[MediaWorks出版](../Page/MediaWorks.md "wikilink")。\[6\]台灣中文版由[尖端出版社代理](https://zh.wikipedia.org/wiki/尖端出版社 "wikilink")。
+由、[佐佐木睦美負責執筆](https://zh.wikipedia.org/wiki/佐佐木睦美 "wikilink")；負責[插圖的漫畫](https://zh.wikipedia.org/wiki/插圖 "wikilink")《》（ISBN 978-4-840-23420-7）於2006年3月27日由[MediaWorks](../Page/MediaWorks.md "wikilink")出版。\[6\]台灣中文版由[尖端出版社代理](https://zh.wikipedia.org/wiki/尖端出版社 "wikilink")。
 
 ## 參註
 
@@ -400,31 +395,16 @@
 
   - [公式サイト（メディアワークス）](https://web.archive.org/web/20110707074858/http://archive.asciimw.jp/mediamix/futakoi/)
 
-  - [フタコイ
-    オルタナティブ（スターチャイルド）](http://www.starchild.co.jp/special/hutakoi/ufo/index.html)
+  - [フタコイ オルタナティブ（スターチャイルド）](http://www.starchild.co.jp/special/hutakoi/ufo/index.html)
 
   - [フタコイ オルタナティブ (TOKYO MX)](http://www.mxtv.co.jp/futakoi/)
 
-  - [フタコイ オルタナティブ
-    恋と少女とマシンガン](http://www.mmv.co.jp/special/game/ps2/futakoi/index.html)—遊戲官方網站
+  - [フタコイ オルタナティブ 恋と少女とマシンガン](http://www.mmv.co.jp/special/game/ps2/futakoi/index.html)—遊戲官方網站
 
-[Category:2005年UHF動畫](https://zh.wikipedia.org/wiki/Category:2005年UHF動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:電腦遊戲](https://zh.wikipedia.org/wiki/Category:電腦遊戲 "wikilink")
-[Category:虛構雙胞胎](https://zh.wikipedia.org/wiki/Category:虛構雙胞胎 "wikilink")
-[Category:雙胞胎題材漫畫](https://zh.wikipedia.org/wiki/Category:雙胞胎題材漫畫 "wikilink")
-[Category:雙胞胎題材動畫](https://zh.wikipedia.org/wiki/Category:雙胞胎題材動畫 "wikilink")
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:MMV游戏](https://zh.wikipedia.org/wiki/Category:MMV游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:ufotable](https://zh.wikipedia.org/wiki/Category:ufotable "wikilink")
-[Category:Feel.](https://zh.wikipedia.org/wiki/Category:Feel. "wikilink")
+[Category:2005年UHF動畫](https://zh.wikipedia.org/wiki/Category:2005年UHF動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:電腦遊戲](https://zh.wikipedia.org/wiki/Category:電腦遊戲 "wikilink") [Category:虛構雙胞胎](https://zh.wikipedia.org/wiki/Category:虛構雙胞胎 "wikilink") [Category:雙胞胎題材漫畫](https://zh.wikipedia.org/wiki/Category:雙胞胎題材漫畫 "wikilink") [Category:雙胞胎題材動畫](https://zh.wikipedia.org/wiki/Category:雙胞胎題材動畫 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:MMV游戏](https://zh.wikipedia.org/wiki/Category:MMV游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:ufotable](https://zh.wikipedia.org/wiki/Category:ufotable "wikilink") [Category:Feel.](https://zh.wikipedia.org/wiki/Category:Feel. "wikilink")
 
-1.  文化庁メディア芸術祭実行委員(2005), [審査委員会推薦作品 : アニメーション部門 |
-    平成17年度(第9回)文化庁メディア芸術祭](http://plaza.bunka.go.jp/festival/2005/recommend/animation.php)
-
-2.  [フタコイ オルタナティブ
-    恋と少女とマシンガン](http://www.mmv.co.jp/special/game/ps2/futakoi/index.html)
+1.  文化庁メディア芸術祭実行委員(2005), [審査委員会推薦作品 : アニメーション部門 | 平成17年度(第9回)文化庁メディア芸術祭](http://plaza.bunka.go.jp/festival/2005/recommend/animation.php)
+2.  [フタコイ オルタナティブ 恋と少女とマシンガン](http://www.mmv.co.jp/special/game/ps2/futakoi/index.html)
 3.
 4.
 5.

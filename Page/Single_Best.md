@@ -1,6 +1,4 @@
-《**Single
-Best**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[柴咲幸的](../Page/柴咲幸.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，於2008年3月12日與其B面精選輯《The
-Back Best》同時發行。
+《**Single Best**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[柴咲幸](../Page/柴咲幸.md "wikilink")的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，於2008年3月12日與其B面精選輯《The Back Best》同時發行。
 
 ## 說明
 
@@ -51,8 +49,7 @@ Back Best》同時發行。
 12. **Trust my feelings**
       -
         出道單曲，專輯初次收錄。
-13. **[月的點滴](https://zh.wikipedia.org/wiki/月的點滴 "wikilink")**（月のしずく）-
-    **RUI**名義
+13. **[月的點滴](https://zh.wikipedia.org/wiki/月的點滴 "wikilink")**（月のしずく）- **RUI**名義
       -
         第2張單曲，電影「黃泉路」主題曲。
 14. **actuality**
@@ -80,8 +77,4 @@ Back Best》同時發行。
 
 <references/>
 
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:2008年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:柴咲幸音樂專輯](https://zh.wikipedia.org/wiki/Category:柴咲幸音樂專輯 "wikilink")
-[Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
+[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:2008年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon專輯週榜冠軍作品 "wikilink") [Category:柴咲幸音樂專輯](https://zh.wikipedia.org/wiki/Category:柴咲幸音樂專輯 "wikilink") [Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")

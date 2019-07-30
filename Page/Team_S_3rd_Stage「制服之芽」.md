@@ -1,5 +1,4 @@
-**Team S 3rd Stage「制服之芽」**（）是[SKE48](../Page/SKE48.md "wikilink")
-teamS的第3场剧场公演。
+**Team S 3rd Stage「制服之芽」**（）是[SKE48](../Page/SKE48.md "wikilink") teamS的第3场剧场公演。
 
 ## 公演内容
 
@@ -53,8 +52,7 @@ teamS的第3场剧场公演。
 <!-- end list -->
 
   - 成員變動
-      - 增加：木下有希子、須田亚香里（于2010年2月27日由研究生升格）；木崎由里亞（于2010年6月23日由研究生升格）；加藤琉美（于2010年8月21日由研究生升格）；鬼頭桃菜、菅奈奈子（于2012年8月29日由研究生升格）；北原里英（2012年11月1日兼任进入Team
-        S，2013年2月20日开始出演）；
+      - 增加：木下有希子、須田亚香里（于2010年2月27日由研究生升格）；木崎由里亞（于2010年6月23日由研究生升格）；加藤琉美（于2010年8月21日由研究生升格）；鬼頭桃菜、菅奈奈子（于2012年8月29日由研究生升格）；北原里英（2012年11月1日兼任进入Team S，2013年2月20日开始出演）；
       - 減少：山下萌（于2009年12月25日毕业）；[松下唯](../Page/松下唯.md "wikilink")（因脚伤自2010年2月14日起长期休养，後於2011年9月30日畢業）\[2\]；新海里奈、森紗雪（于2010年3月30日降格为研究生）；小野晴香（于2012年3月31日毕业，3月26日最后出演本公演）；平田璃香子（于2012年11月30日毕业，10月23日最后出演本公演）；桑原瑞希、高田志織、平松可奈子、矢神久美（于2013年5月6日毕业，4月18日最后出演本公演）；北原里英（于2013年4月28日解除兼任，5月8日最后出演本公演）
 
 <!-- end list -->
@@ -124,11 +122,9 @@ teamS的第3场剧场公演。
 
 ### Team S 3rd Stage「制服之芽」（CD）
 
-《**Team S 3rd Stage「制服之芽」**》是[SKE48](../Page/SKE48.md "wikilink") Team
-S的[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2010年4月28日由發售。\[4\]
+《**Team S 3rd Stage「制服之芽」**》是[SKE48](../Page/SKE48.md "wikilink") Team S的[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2010年4月28日由發售。\[4\]
 
-參與錄音的成员包括大矢真那、小野晴香、木下有希子、桑原瑞希、新海里奈、須田亜香里、高田志織、出口陽、中西優香、平田璃香子、平松可奈子、松井珠理奈、松井玲奈、松下唯、森紗雪和矢神久美。因Team
-S經歷多次人事變動，所以收錄成員未必是「制服之芽」公演期內的演出成員。
+參與錄音的成员包括大矢真那、小野晴香、木下有希子、桑原瑞希、新海里奈、須田亜香里、高田志織、出口陽、中西優香、平田璃香子、平松可奈子、松井珠理奈、松井玲奈、松下唯、森紗雪和矢神久美。因Team S經歷多次人事變動，所以收錄成員未必是「制服之芽」公演期內的演出成員。
 
   - 收录曲目
     1.  overture（SKE48 ver.）
@@ -177,9 +173,7 @@ S經歷多次人事變動，所以收錄成員未必是「制服之芽」公演�
 
 ## 3D电影
 
-《**SKE48 3D Cinema Live
-vol.1「制服の芽」公演2011**》是自2011年2月26日起有限期上映的3D版电影，以Full
-3D以及5.1声道环绕声收錄以上公演。\[5\]
+《**SKE48 3D Cinema Live vol.1「制服の芽」公演2011**》是自2011年2月26日起有限期上映的3D版电影，以Full 3D以及5.1声道环绕声收錄以上公演。\[5\]
 
 [广告标语为](https://zh.wikipedia.org/wiki/广告标语 "wikilink")“SKE48飞向全国！以3D体感有迫力的公演！”（）。
 
@@ -190,10 +184,7 @@ vol.1「制服の芽」公演2011**》是自2011年2月26日起有限期上映�
   - [官方网站頁面](http://www.ske48.co.jp/discography/?id=4&select=album)
   - [3D电影官方网站](http://www.ske48-3d.jp/)
 
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
-[Category:AKB48家族關連音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48家族關連音樂專輯 "wikilink")
+[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink") [Category:AKB48家族關連音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48家族關連音樂專輯 "wikilink")
 
 1.
 2.

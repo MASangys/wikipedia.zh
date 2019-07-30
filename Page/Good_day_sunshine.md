@@ -1,5 +1,4 @@
-**Good day
-sunshine**是2002年7月31日被推出的[夏之管](../Page/夏之管.md "wikilink")([TUBE](https://zh.wikipedia.org/wiki/TUBE "wikilink"))的第24張(件)的專輯。
+**Good day sunshine**是2002年7月31日被推出的[夏之管](../Page/夏之管.md "wikilink")([TUBE](https://zh.wikipedia.org/wiki/TUBE "wikilink"))的第24張(件)的專輯。
 
 ## 收錄曲目
 
@@ -16,17 +15,13 @@ sunshine**是2002年7月31日被推出的[夏之管](../Page/夏之管.md "wikil
 9.  **湘南 My Love 2002**
 10. **Squall**
 11. **風搖晃的明日（風に揺れるTomorrow）**
-12. **Cant takemy eyes off of you**（**[NOB
-    SUMMER](../Page/前田亘輝.md "wikilink")**）
+12. **Cant takemy eyes off of you**（**[NOB SUMMER](../Page/前田亘輝.md "wikilink")**）
 
 ## 参加者
 
-  - [小野塚晃](https://zh.wikipedia.org/wiki/小野塚晃 "wikilink")（DIMENSION） -
-    キーボード
-  - [勝田一樹](https://zh.wikipedia.org/wiki/勝田一樹 "wikilink")（DIMENSION） -
-    サックス
+  - [小野塚晃](https://zh.wikipedia.org/wiki/小野塚晃 "wikilink")（DIMENSION） - キーボード
+  - [勝田一樹](https://zh.wikipedia.org/wiki/勝田一樹 "wikilink")（DIMENSION） - サックス
   - 宇徳敬子 - コーラス
   - 川島だりあ - コーラス
 
-[Category:TUBE音樂專輯](https://zh.wikipedia.org/wiki/Category:TUBE音樂專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
+[Category:TUBE音樂專輯](https://zh.wikipedia.org/wiki/Category:TUBE音樂專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")

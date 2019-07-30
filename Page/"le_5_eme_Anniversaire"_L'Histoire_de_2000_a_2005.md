@@ -1,13 +1,8 @@
-『**"le 5 eme Anniversaire" L'Histoire de 2000 a 2005**』是[GARNET
-CROW的第三张LIVE](../Page/GARNET_CROW.md "wikilink")
-DVD。2005年5月20日由[GIZA
-studio发售](../Page/GIZA_studio.md "wikilink")。\[1\]
+『**"le 5 eme Anniversaire" L'Histoire de 2000 a 2005**』是[GARNET CROW的第三张LIVE](../Page/GARNET_CROW.md "wikilink") DVD。2005年5月20日由[GIZA studio发售](../Page/GIZA_studio.md "wikilink")。\[1\]
 
 ## 概要
 
-DISC1，制作了从主要的亮相中选取纪念5周年的歌曲，以及刻有从出道到2005年的活动轨迹的映像集。
-在DISC2中收录了在2005年年初举办的第3场LIVE TOUR『livescope
-2005 〜I'm waiting 4 you & live〜』。
+DISC1，制作了从主要的亮相中选取纪念5周年的歌曲，以及刻有从出道到2005年的活动轨迹的映像集。 在DISC2中收录了在2005年年初举办的第3场LIVE TOUR『livescope 2005 〜I'm waiting 4 you & live〜』。
 
 发售之后的公信榜周排位1位。音乐类周间排位3位，综合类周间排位12位。
 
@@ -15,8 +10,7 @@ DISC1，制作了从主要的亮相中选取纪念5周年的歌曲，以及刻�
 
 ## 收录会場
 
-[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")・[中野Sun](../Page/中野區.md "wikilink")
-Plaza
+[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")・[中野Sun](../Page/中野區.md "wikilink") Plaza
 
 ## 收录内容
 

@@ -1,4 +1,4 @@
-《**郭書瑤首張同名專輯**》為[台灣女](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[郭書瑤的第一張專輯](../Page/郭書瑤.md "wikilink")，也是出道以來第二張音樂作品，於2010年8月5日全面預購\[1\]，亦於8月21日正式發行。專輯收錄十首新歌，其中包括主打歌「Honey」。
+《**郭書瑤首張同名專輯**》為[台灣女](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[郭書瑤](../Page/郭書瑤.md "wikilink")的第一張專輯，也是出道以來第二張音樂作品，於2010年8月5日全面預購\[1\]，亦於8月21日正式發行。專輯收錄十首新歌，其中包括主打歌「Honey」。
 
 ## 曲目
 
@@ -81,10 +81,7 @@ Alex(顏庭笙)</p></td>
 
 ## 參考資料
 
-[Category:2010年音乐专辑](https://zh.wikipedia.org/wiki/Category:2010年音乐专辑 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
+[Category:2010年音乐专辑](https://zh.wikipedia.org/wiki/Category:2010年音乐专辑 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
 
-1.  [【NEW】2010/08/21 郭書瑤 首張同名專輯 Honey (8/5開始預購) - 女藝人 -
-    G-Music討論區](http://forum.g-music.com.tw/yaf_postst93878p4_NEW20100821---Honey.aspx)
-
+1.  [【NEW】2010/08/21 郭書瑤 首張同名專輯 Honey (8/5開始預購) - 女藝人 - G-Music討論區](http://forum.g-music.com.tw/yaf_postst93878p4_NEW20100821---Honey.aspx)
 2.  <https://www.facebook.com/photo.php?v=10150161972763507>

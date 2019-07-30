@@ -1,5 +1,4 @@
-《**Project
-December**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周國賢的第七張個人專輯](../Page/周國賢.md "wikilink")，同時亦為首張英語翻唱專輯及第四張細碟專輯，在2011年12月22日推出，專輯由[種子博美發行](https://zh.wikipedia.org/wiki/種子博美娛樂 "wikilink")，收錄八首英語經典歌及三首他個人的全新歌曲，第一主打為《初戀殘酷物語》。另外，這大碟設有只限量發行2011張有編號的版本\[1\]。
+《**Project December**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周國賢](../Page/周國賢.md "wikilink")的第七張個人專輯，同時亦為首張英語翻唱專輯及第四張細碟專輯，在2011年12月22日推出，專輯由[種子博美發行](https://zh.wikipedia.org/wiki/種子博美娛樂 "wikilink")，收錄八首英語經典歌及三首他個人的全新歌曲，第一主打為《初戀殘酷物語》。另外，這大碟設有只限量發行2011張有編號的版本\[1\]。
 
 ## 曲目
 
@@ -21,7 +20,7 @@ December**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md
 <br />
 </p></td>
 <td><p>周國賢</p></td>
-<td><p>原唱者為<a href="../Page/不要懷疑.md" title="wikilink">不要懷疑樂團</a>（No Doubt）</p></td>
+<td><p>原唱者為<a href="../Page/不要懷疑.md" title="wikilink">不要懷疑</a>樂團（No Doubt）</p></td>
 </tr>
 <tr class="odd">
 <td><p>02</p></td>
@@ -122,9 +121,6 @@ December**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md
 
 </div>
 
-[Category:周國賢音樂專輯](https://zh.wikipedia.org/wiki/Category:周國賢音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
+[Category:周國賢音樂專輯](https://zh.wikipedia.org/wiki/Category:周國賢音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
 
 1.  [周國賢的微博](http://weibo.com/endychow)，2011年12月20日 (二) 20:15 (UTC+8)查閱

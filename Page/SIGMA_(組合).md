@@ -1,10 +1,10 @@
 {{ BLPsources }}
 
-**SIGMA**是一組[台灣三人](https://zh.wikipedia.org/wiki/台灣 "wikilink")[男子唱跳團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，團名源自希臘文的數學符號「[Σ](https://zh.wikipedia.org/wiki/Σ "wikilink")」，代表總合、加總，強調「團結力量大」。於2010年11月正式出道，隔月發行首張專輯。成員有[周定緯](../Page/周定緯.md "wikilink")、[李-{杰}-宇和](../Page/李杰宇.md "wikilink")[林維哲三位](../Page/林維哲.md "wikilink")，團長是[周定緯](../Page/周定緯.md "wikilink")。
+**SIGMA**是一組[台灣三人](https://zh.wikipedia.org/wiki/台灣 "wikilink")[男子唱跳團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，團名源自希臘文的數學符號「[Σ](https://zh.wikipedia.org/wiki/Σ "wikilink")」，代表總合、加總，強調「團結力量大」。於2010年11月正式出道，隔月發行首張專輯。成員有[周定緯](../Page/周定緯.md "wikilink")、[李-{杰}-宇和](../Page/李杰宇.md "wikilink")[林維哲](../Page/林維哲.md "wikilink")三位，團長是[周定緯](../Page/周定緯.md "wikilink")。
 
 2012年8月，原團員之一林維哲宣布因個人生涯規劃而退出SIGMA，並於8月24日在經紀公司官網公布此一訊息。
 
-之後，SIGMA以「兩人組合」維持一年，期間除了接活動外，並未發行新作品，最後因[周定緯](../Page/周定緯.md "wikilink")、[李-{杰}-宇分別在](../Page/李杰宇.md "wikilink")2013年8月底與11月中旬入伍服兵役，唱片公司[華研國際音樂也於](../Page/華研國際音樂.md "wikilink")2013年12月將公司網站所有有關SIGMA的頁面刪除。雖唱片公司未正式對外宣布，但SIGMA已形同解散
+之後，SIGMA以「兩人組合」維持一年，期間除了接活動外，並未發行新作品，最後因[周定緯](../Page/周定緯.md "wikilink")、[李-{杰}-宇分別在](../Page/李杰宇.md "wikilink")2013年8月底與11月中旬入伍服兵役，唱片公司[華研國際音樂](../Page/華研國際音樂.md "wikilink")也於2013年12月將公司網站所有有關SIGMA的頁面刪除。雖唱片公司未正式對外宣布，但SIGMA已形同解散
 
 ## 團名來源
 
@@ -83,7 +83,7 @@
 
 | 發行日期    | 專輯名稱                                  | 曲目      | 發行公司                                   |
 | ------- | ------------------------------------- | ------- | -------------------------------------- |
-| 2012年9月 | 電影[西門町主題曲](../Page/西門町.md "wikilink") | **去愛吧** | [華研國際音樂](../Page/華研國際音樂.md "wikilink") |
+| 2012年9月 | 電影[西門町](../Page/西門町.md "wikilink")主題曲 | **去愛吧** | [華研國際音樂](../Page/華研國際音樂.md "wikilink") |
 
 ## 影視作品
 
@@ -190,8 +190,4 @@
   - [華研國際音樂Youtube官方頻道](http://www.youtube.com/user/HIMservice)
   - [華研國際音樂官方網站](http://www.him.com.tw/)
 
-[Category:華語音樂團體](https://zh.wikipedia.org/wiki/Category:華語音樂團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
+[Category:華語音樂團體](https://zh.wikipedia.org/wiki/Category:華語音樂團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")

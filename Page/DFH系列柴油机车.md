@@ -1,10 +1,10 @@
-**DFH系列柴油机车**是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[青岛四方机车车辆厂于](https://zh.wikipedia.org/wiki/南车青岛四方机车车辆 "wikilink")1970年代为[坦桑尼亚](../Page/坦桑尼亚.md "wikilink")、[赞比亚](../Page/赞比亚.md "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[阿尔巴尼亚](../Page/阿尔巴尼亚.md "wikilink")、[巴基斯坦等国设计制造的援外液力传动](../Page/巴基斯坦.md "wikilink")[柴油机车系列](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，这批援外机车到1979年共生产了167台。
+**DFH系列柴油机车**是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[青岛四方机车车辆厂于](https://zh.wikipedia.org/wiki/南车青岛四方机车车辆 "wikilink")1970年代为[坦桑尼亚](../Page/坦桑尼亚.md "wikilink")、[赞比亚](../Page/赞比亚.md "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[阿尔巴尼亚](../Page/阿尔巴尼亚.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")等国设计制造的援外液力传动[柴油机车系列](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，这批援外机车到1979年共生产了167台。
 
 ## 发展历史
 
 1967年9月，[中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")、坦桑尼亚、赞比亚三国政府经会谈后，在[北京签订了](https://zh.wikipedia.org/wiki/北京 "wikilink")《关于修建坦桑尼亚——赞比亚铁路的协定》，落实兴建[坦赞铁路](https://zh.wikipedia.org/wiki/坦赞铁路 "wikilink")，由中国提供不附带任何条件的无息贷款，并派专家对这条铁路进行修建、管理和维修及培训技术人员，成为迄今为止中国最大规模的援外成套项目。为了满足修建和运营坦赞铁路所需铁路机车，1968年起铁道部指令青岛四方机车车辆厂为坦赞铁路研制柴油机车。四方厂技术工程人员查阅了国内外同类型柴油机车的资料，并派员到坦、赞实地考察，然后进行设计试制。1970年9月，首批援外DFH1、DFH2型液力传动柴油机车出厂，成为中国铁路史上第一次出口铁路机车\[1\]。1976年7月，坦赞铁路全线建成通车。四方厂累计生产了34台DFH1型机车、102台DFH2型机车，其中用于坦赞铁路建设施工的17台DFH1型机车和5台DFH2型机车在建路工程完成后被运回国内\[2\]。
 
-DFH1型机车为调车及小运转作业用柴油机车，而DFH2型机车为干线客货运柴油机车，均为B-B轴式；其中DFH1型机车采用单机组设计，装用一台柴油机和液力传动装置；而DFH2型机车采用双机组设计，设有两套柴油机和液力传动装置，功率也较大。两者均装用12V180ZL型柴油机，为12[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[废气涡轮增压的](https://zh.wikipedia.org/wiki/涡轮增压 "wikilink")[V型高速](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，装车功率1150马力；而液力传动装置分别采用了SF2010-2、SF2010Z1型液力传动箱，内装一个起动变扭器和一个运转变扭器。DFH1、DFH2型柴油机车与中国国内使用的[东方红2型](../Page/东方红2型柴油机车.md "wikilink")、[东方红3型柴油机车均为四方机车车辆厂同时研制的机车产品](../Page/东方红3型柴油机车.md "wikilink")，为了便于设计、生产和日后配件供应，因此它们的车体外观、总体结构、传动系统等方面都十分相似，许多主要部件都能够通用\[3\]。
+DFH1型机车为调车及小运转作业用柴油机车，而DFH2型机车为干线客货运柴油机车，均为B-B轴式；其中DFH1型机车采用单机组设计，装用一台柴油机和液力传动装置；而DFH2型机车采用双机组设计，设有两套柴油机和液力传动装置，功率也较大。两者均装用12V180ZL型柴油机，为12[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[废气涡轮增压的](https://zh.wikipedia.org/wiki/涡轮增压 "wikilink")[V型高速](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，装车功率1150马力；而液力传动装置分别采用了SF2010-2、SF2010Z1型液力传动箱，内装一个起动变扭器和一个运转变扭器。DFH1、DFH2型柴油机车与中国国内使用的[东方红2型](../Page/东方红2型柴油机车.md "wikilink")、[东方红3型柴油机车](../Page/东方红3型柴油机车.md "wikilink")均为四方机车车辆厂同时研制的机车产品，为了便于设计、生产和日后配件供应，因此它们的车体外观、总体结构、传动系统等方面都十分相似，许多主要部件都能够通用\[3\]。
 
 在援助坦赞铁路的DFH1、DFH2型柴油机车基础上，四方机车车辆厂又为越南、阿尔巴尼亚、巴基斯坦等国生产了DFH3、DFH4、DFH5型液力传动柴油机车
 
@@ -174,9 +174,7 @@ DFH1型机车为调车及小运转作业用柴油机车，而DFH2型机车为干
 
 </div>
 
-[Category:中国出口柴油机车](https://zh.wikipedia.org/wiki/Category:中国出口柴油机车 "wikilink")
-[Category:B-B轴式机车](https://zh.wikipedia.org/wiki/Category:B-B轴式机车 "wikilink")
-[Category:中车四方制铁路机车](https://zh.wikipedia.org/wiki/Category:中车四方制铁路机车 "wikilink")
+[Category:中国出口柴油机车](https://zh.wikipedia.org/wiki/Category:中国出口柴油机车 "wikilink") [Category:B-B轴式机车](https://zh.wikipedia.org/wiki/Category:B-B轴式机车 "wikilink") [Category:中车四方制铁路机车](https://zh.wikipedia.org/wiki/Category:中车四方制铁路机车 "wikilink")
 
 1.
 2.

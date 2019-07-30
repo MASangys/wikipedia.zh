@@ -24,5 +24,4 @@
 12. **Return To The Border Line**
 13. **最後的Love Song**(最後のLove Song)
 
-[Category:TUBE音樂專輯](https://zh.wikipedia.org/wiki/Category:TUBE音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
+[Category:TUBE音樂專輯](https://zh.wikipedia.org/wiki/Category:TUBE音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")

@@ -180,15 +180,4 @@
 
   - [澳門旅遊娛樂](../Page/澳門旅遊娛樂.md "wikilink")
 
-[Category:王晶電影](https://zh.wikipedia.org/wiki/Category:王晶電影 "wikilink")
-[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink")
-[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
-[Category:香港剧情片](https://zh.wikipedia.org/wiki/Category:香港剧情片 "wikilink")
-[Category:香港传记片](https://zh.wikipedia.org/wiki/Category:香港传记片 "wikilink")
-[Category:1990年代剧情片](https://zh.wikipedia.org/wiki/Category:1990年代剧情片 "wikilink")
-[Category:澳門真人真事改編電影](https://zh.wikipedia.org/wiki/Category:澳門真人真事改編電影 "wikilink")
-[Category:夏威夷州背景电影](https://zh.wikipedia.org/wiki/Category:夏威夷州背景电影 "wikilink")
-[Category:卢冠廷配乐电影](https://zh.wikipedia.org/wiki/Category:卢冠廷配乐电影 "wikilink")
-[Category:赌博片](https://zh.wikipedia.org/wiki/Category:赌博片 "wikilink")
-[Category:新宝娱乐电影](https://zh.wikipedia.org/wiki/Category:新宝娱乐电影 "wikilink")
-[Category:葡萄牙背景電影](https://zh.wikipedia.org/wiki/Category:葡萄牙背景電影 "wikilink")
+[Category:王晶電影](https://zh.wikipedia.org/wiki/Category:王晶電影 "wikilink") [Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink") [Category:香港剧情片](https://zh.wikipedia.org/wiki/Category:香港剧情片 "wikilink") [Category:香港传记片](https://zh.wikipedia.org/wiki/Category:香港传记片 "wikilink") [Category:1990年代剧情片](https://zh.wikipedia.org/wiki/Category:1990年代剧情片 "wikilink") [Category:澳門真人真事改編電影](https://zh.wikipedia.org/wiki/Category:澳門真人真事改編電影 "wikilink") [Category:夏威夷州背景电影](https://zh.wikipedia.org/wiki/Category:夏威夷州背景电影 "wikilink") [Category:卢冠廷配乐电影](https://zh.wikipedia.org/wiki/Category:卢冠廷配乐电影 "wikilink") [Category:赌博片](https://zh.wikipedia.org/wiki/Category:赌博片 "wikilink") [Category:新宝娱乐电影](https://zh.wikipedia.org/wiki/Category:新宝娱乐电影 "wikilink") [Category:葡萄牙背景電影](https://zh.wikipedia.org/wiki/Category:葡萄牙背景電影 "wikilink")

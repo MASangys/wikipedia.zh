@@ -1,4 +1,4 @@
-《**PRAVE\!**》（）是[高遠豹介的日本](https://zh.wikipedia.org/wiki/高遠豹介 "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，由[プリンプリン負責繪製插畫](https://zh.wikipedia.org/wiki/プリンプリン "wikilink")。於[電擊文庫自](../Page/電擊文庫.md "wikilink")2010年2月開始出版。
+《**PRAVE\!**》（）是[高遠豹介的日本](https://zh.wikipedia.org/wiki/高遠豹介 "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，由[プリンプリン負責繪製插畫](https://zh.wikipedia.org/wiki/プリンプリン "wikilink")。於[電擊文庫](../Page/電擊文庫.md "wikilink")自2010年2月開始出版。
 
 ## 故事簡介
 

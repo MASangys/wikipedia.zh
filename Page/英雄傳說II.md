@@ -1,7 +1,4 @@
-是日本[Falcom公司最早于](https://zh.wikipedia.org/wiki/Falcom "wikilink")1992年發行的一款[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")\[1\]，後來被移植到[MD](../Page/Mega_Drive.md "wikilink")
-,[PCE](https://zh.wikipedia.org/wiki/PCE "wikilink"),
-[DOS](../Page/DOS.md "wikilink"),[SFC等遊戲平台](https://zh.wikipedia.org/wiki/SFC "wikilink")。是《[Dragon
-Slayer系列](../Page/Dragon_Slayer系列.md "wikilink")》第六代的第二部作品，而後成為《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》的第二代與第二部作品，和《[英雄傳說I](../Page/英雄傳說_\(遊戲\).md "wikilink")》合稱為[伊賽魯哈薩篇](https://zh.wikipedia.org/wiki/伊賽魯哈薩篇 "wikilink")。
+是日本[Falcom公司最早于](https://zh.wikipedia.org/wiki/Falcom "wikilink")1992年發行的一款[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")\[1\]，後來被移植到[MD](../Page/Mega_Drive.md "wikilink") ,[PCE](https://zh.wikipedia.org/wiki/PCE "wikilink"), [DOS](../Page/DOS.md "wikilink"),[SFC等遊戲平台](https://zh.wikipedia.org/wiki/SFC "wikilink")。是《[Dragon Slayer系列](../Page/Dragon_Slayer系列.md "wikilink")》第六代的第二部作品，而後成為《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》的第二代與第二部作品，和《[英雄傳說I](../Page/英雄傳說_\(遊戲\).md "wikilink")》合稱為[伊賽魯哈薩篇](https://zh.wikipedia.org/wiki/伊賽魯哈薩篇 "wikilink")。
 
 ## 劇情概要
 
@@ -217,12 +214,7 @@ Slayer系列](../Page/Dragon_Slayer系列.md "wikilink")》第六代的第二部
 
   - [英雄傳說二遊戲簡介](http://kyte.co/?p=114)
 
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink")
-[Category:1992年电子游戏](https://zh.wikipedia.org/wiki/Category:1992年电子游戏 "wikilink")
-[Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink")
-[Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink")
-[Category:MSX游戏](https://zh.wikipedia.org/wiki/Category:MSX游戏 "wikilink")
+[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink") [Category:1992年电子游戏](https://zh.wikipedia.org/wiki/Category:1992年电子游戏 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink") [Category:MSX游戏](https://zh.wikipedia.org/wiki/Category:MSX游戏 "wikilink")
 
 1.  <http://en.wikipedia.org/wiki/Dragon_Slayer:_The_Legend_of_Heroes_II>
 

@@ -1,5 +1,4 @@
-《**鋼鐵雄心II：末日戰役**》（*Hearts of Iron II:
-Doomsday*）發行於2006年4月4日，是一款獨立的資料片遊戲。其內容包含了原本《[鋼鐵雄心II](../Page/鋼鐵雄心II.md "wikilink")》的所有內容，並加強、擴展了世界第二次大戰後的時期，其中包括蘇聯與同盟國之間的假想核武之戰。而遊戲內容更新增了「情報機關」，可執行多種情報工作，如竊取科技藍圖、刺殺他國內閣、顛覆他國政權、破壞他國工業、科技研發等等，使遊戲更為全面、豐富。
+《**鋼鐵雄心II：末日戰役**》（*Hearts of Iron II: Doomsday*）發行於2006年4月4日，是一款獨立的資料片遊戲。其內容包含了原本《[鋼鐵雄心II](../Page/鋼鐵雄心II.md "wikilink")》的所有內容，並加強、擴展了世界第二次大戰後的時期，其中包括蘇聯與同盟國之間的假想核武之戰。而遊戲內容更新增了「情報機關」，可執行多種情報工作，如竊取科技藍圖、刺殺他國內閣、顛覆他國政權、破壞他國工業、科技研發等等，使遊戲更為全面、豐富。
 
 ## 劇本背景
 
@@ -72,18 +71,10 @@ Doomsday*）發行於2006年4月4日，是一款獨立的資料片遊戲。其�
 ## 外部連結
 
   - [國際中文版官網 by 美思捷達(MEX)](http://www.mex.com.tw/HOI2DD/)
-  - [遊戲基地，Hearts of Iron
-    鋼鐵雄心討論版](http://www.gamebase.com.tw/forum/forum_index.html?no=5218)
-  - [巴哈姆特，Hearts of Iron
-    虎膽雄心(鋼鐵雄心)系列](https://web.archive.org/web/20140926111058/http://webbbs.gamer.com.tw/gemlist.php?brd=Strategy)
+  - [遊戲基地，Hearts of Iron 鋼鐵雄心討論版](http://www.gamebase.com.tw/forum/forum_index.html?no=5218)
+  - [巴哈姆特，Hearts of Iron 虎膽雄心(鋼鐵雄心)系列](https://web.archive.org/web/20140926111058/http://webbbs.gamer.com.tw/gemlist.php?brd=Strategy)
   - [鋼鐵雄心II：末日戰役國際中文版錯誤修正](http://www.gamebase.com.tw/forum/5218/topic/85492023/1?time=1251905488)
 
-[en:Hearts of Iron
-II\#Doomsday](https://zh.wikipedia.org/wiki/en:Hearts_of_Iron_II#Doomsday "wikilink")
+[en:Hearts of Iron II\#Doomsday](https://zh.wikipedia.org/wiki/en:Hearts_of_Iron_II#Doomsday "wikilink")
 
-[Category:即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:即時戰略遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:發生或曾經發生第三次世界大戰作品](https://zh.wikipedia.org/wiki/Category:發生或曾經發生第三次世界大戰作品 "wikilink")
-[Category:Paradox_Interactive游戏](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive游戏 "wikilink")
+[Category:即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:即時戰略遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:發生或曾經發生第三次世界大戰作品](https://zh.wikipedia.org/wiki/Category:發生或曾經發生第三次世界大戰作品 "wikilink") [Category:Paradox_Interactive游戏](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive游戏 "wikilink")

@@ -1,11 +1,8 @@
-《**Miss
-Mystery**》为[BREAKERZ的第十二张单曲](../Page/BREAKERZ.md "wikilink")。2012年1月25日由[ZAIN
-RECORDS发售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
+《**Miss Mystery**》为[BREAKERZ](../Page/BREAKERZ.md "wikilink")的第十二张单曲。2012年1月25日由[ZAIN RECORDS发售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
 
 ## 概要
 
-  - 继《[Everlasting
-    Luv](https://zh.wikipedia.org/wiki/Everlasting_Luv/BAMBINO_～小孩～ "wikilink")》之后2年9个月，第二次为《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南_\(动画\) "wikilink")》演唱片头曲。在初回盤A中收录了表题曲的PV，初回盤B收录了自身的企划“Mr.Mystery是谁？谜王决定战\!”。
+  - 继《[Everlasting Luv](https://zh.wikipedia.org/wiki/Everlasting_Luv/BAMBINO_～小孩～ "wikilink")》之后2年9个月，第二次为《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南_\(动画\) "wikilink")》演唱片头曲。在初回盤A中收录了表题曲的PV，初回盤B收录了自身的企划“Mr.Mystery是谁？谜王决定战\!”。
 
 ## 收录歌曲
 
@@ -35,7 +32,4 @@ RECORDS发售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
 </tbody>
 </table>
 
-[Category:2012年单曲](https://zh.wikipedia.org/wiki/Category:2012年单曲 "wikilink")
-[Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
-[Category:BREAKERZ歌曲](https://zh.wikipedia.org/wiki/Category:BREAKERZ歌曲 "wikilink")
+[Category:2012年单曲](https://zh.wikipedia.org/wiki/Category:2012年单曲 "wikilink") [Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink") [Category:BREAKERZ歌曲](https://zh.wikipedia.org/wiki/Category:BREAKERZ歌曲 "wikilink")

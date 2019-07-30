@@ -1,5 +1,4 @@
-《**KODA KUMI LIVE TOUR 2011 ～Dejavu～**》（倖田來未 2011巡迴演唱會
-～實境夢遊～）為[日本歌手](../Page/日本.md "wikilink")[倖田來未發行之](../Page/倖田來未.md "wikilink")10th演唱會影像作品。
+《**KODA KUMI LIVE TOUR 2011 ～Dejavu～**》（倖田來未 2011巡迴演唱會 ～實境夢遊～）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")發行之10th演唱會影像作品。
 
 ## 解說
 
@@ -121,8 +120,7 @@
 5.  AT THE WEEKEND(KODA KUMI LIVE TOUR 2011〜Dejavu〜)
 6.  あなただけが(KODA KUMI LIVE TOUR 2011〜Dejavu〜)
 7.  愛を止めないで(KODA KUMI LIVE TOUR 2011〜Dejavu〜)
-8.  ラヴ・イズ・オーヴァー/言えないよ/Swallowtail Butterfly〜あいのうた〜/愛のうた(KODA KUMI LIVE
-    TOUR 2011〜Dejavu〜)
+8.  ラヴ・イズ・オーヴァー/言えないよ/Swallowtail Butterfly〜あいのうた〜/愛のうた(KODA KUMI LIVE TOUR 2011〜Dejavu〜)
 9.  Passing By(KODA KUMI LIVE TOUR 2011〜Dejavu〜)
 10. 0時前のツンデレラ(KODA KUMI LIVE TOUR 2011〜Dejavu〜)
 11. 好きで、好きで、好きで。(KODA KUMI LIVE TOUR 2011〜Dejavu〜)

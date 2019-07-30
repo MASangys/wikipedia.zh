@@ -1,5 +1,4 @@
-《**ONE
-SURVIVE**》，[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[中島美嘉的第](../Page/中島美嘉.md "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年3月6日發行。
+《**ONE SURVIVE**》，[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[中島美嘉](../Page/中島美嘉.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年3月6日發行。
 
 ## 概述
 
@@ -12,8 +11,7 @@ SURVIVE**》，[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.
 
 1.  **ONE SURVIVE**
       - 作詞：吉田美奈子／作曲：T2ya 編曲：O DASH
-      - [Kodak](https://zh.wikipedia.org/wiki/伊士曼柯達公司 "wikilink")「MAX
-        beauty」廣告歌
+      - [Kodak](https://zh.wikipedia.org/wiki/伊士曼柯達公司 "wikilink")「MAX beauty」廣告歌
 2.  **TRUE EYES**
       - 作詞：伊秩弘將／作曲：葛谷葉子／編曲：CHOKKAKU
       - [樂敦](../Page/樂敦製藥.md "wikilink")「ロートジーファイ」廣告歌
@@ -44,7 +42,4 @@ SURVIVE**》，[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.
 
 ## 外部連結
 
-[Category:中島美嘉歌曲](https://zh.wikipedia.org/wiki/Category:中島美嘉歌曲 "wikilink")
-[Category:2002年單曲](https://zh.wikipedia.org/wiki/Category:2002年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:中島美嘉歌曲](https://zh.wikipedia.org/wiki/Category:中島美嘉歌曲 "wikilink") [Category:2002年單曲](https://zh.wikipedia.org/wiki/Category:2002年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")

@@ -1,9 +1,8 @@
-《**GAGAGA**》是[SDN48的首張](../Page/SDN48.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年11月24日由[Universal
-Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
+《**GAGAGA**》是[SDN48](../Page/SDN48.md "wikilink")的首張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年11月24日由[Universal Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
 ## 概要
 
-  - 與[AKB48和](../Page/AKB48.md "wikilink")[SKE48的單曲一樣](../Page/SKE48.md "wikilink")，分為2種類的通常盤和劇場盤同時發售。通常盤是夾克和收錄內容不同。
+  - 與[AKB48](../Page/AKB48.md "wikilink")和[SKE48](../Page/SKE48.md "wikilink")的單曲一樣，分為2種類的通常盤和劇場盤同時發售。通常盤是夾克和收錄內容不同。
   - 表題曲「GAGAGA」参加成員12名的選抜是[朝日電視台](../Page/朝日電視台.md "wikilink")『[すっぽんの女たち](https://zh.wikipedia.org/wiki/すっぽんの女たち "wikilink")』節目内發表。
   - 12名的選抜成員決定方法是
       - 朝日電視台『すっぽんの女たち』節目公式手機網頁的投票（1手機1日1次）
@@ -85,8 +84,7 @@ Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
 <!-- end list -->
 
-  - 「誘惑的吊襪帶」[大島優子](../Page/大島優子.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")
-    from AKB48 Special ver.（Live in YOKOHAMA ARENA）
+  - 「誘惑的吊襪帶」[大島優子](../Page/大島優子.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink") from AKB48 Special ver.（Live in YOKOHAMA ARENA）
   - SDN48 首張CD 祝賀評論 from AKB48 前編
 
 ### 通常盤B
@@ -149,7 +147,4 @@ Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
   - [Universal Music](http://www.universal-music.co.jp/sdn48/)
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")

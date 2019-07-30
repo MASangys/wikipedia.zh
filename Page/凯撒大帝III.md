@@ -4,7 +4,7 @@
 
   - 世界观
 
-《凯撒大帝III》中的城市尝试着反映[古代罗马時代市民的真实生活](../Page/古罗马.md "wikilink")，最底層的[平民生活在帐篷或棚舍中](https://zh.wikipedia.org/wiki/平民_\(古罗马\) "wikilink")，而[贵族则居住在别墅或宮殿中](https://zh.wikipedia.org/wiki/贵族_\(古罗马\) "wikilink")。主食包括[小麦](../Page/小麦.md "wikilink")、[水果](https://zh.wikipedia.org/wiki/水果 "wikilink")、[蔬菜和](../Page/蔬菜.md "wikilink")[猪肉或](https://zh.wikipedia.org/wiki/猪肉 "wikilink")[魚肉](https://zh.wikipedia.org/wiki/魚肉 "wikilink")，而酒类只有在某些节慶（豪華節慶）或官邸（別墅以上）中提供\[2\]。
+《凯撒大帝III》中的城市尝试着反映[古代罗马時代市民的真实生活](../Page/古罗马.md "wikilink")，最底層的[平民生活在帐篷或棚舍中](https://zh.wikipedia.org/wiki/平民_\(古罗马\) "wikilink")，而[贵族则居住在别墅或宮殿中](https://zh.wikipedia.org/wiki/贵族_\(古罗马\) "wikilink")。主食包括[小麦](../Page/小麦.md "wikilink")、[水果](https://zh.wikipedia.org/wiki/水果 "wikilink")、[蔬菜](../Page/蔬菜.md "wikilink")和[猪肉或](https://zh.wikipedia.org/wiki/猪肉 "wikilink")[魚肉](https://zh.wikipedia.org/wiki/魚肉 "wikilink")，而酒类只有在某些节慶（豪華節慶）或官邸（別墅以上）中提供\[2\]。
 
   - 人物
 
@@ -111,7 +111,7 @@
   - [帕加马](../Page/帕加马.md "wikilink")：[塔瑟斯](https://zh.wikipedia.org/wiki/大數 "wikilink")
   - [埃及](../Page/古埃及.md "wikilink")：[大馬士革](https://zh.wikipedia.org/wiki/大馬士革 "wikilink")
   - [努米底亞](../Page/努米底亞.md "wikilink")：[丁吉斯和](../Page/丹吉尔.md "wikilink")[西撒利亞](../Page/歇爾謝爾.md "wikilink")
-  - [高盧](https://zh.wikipedia.org/wiki/高盧 "wikilink")：[巴黎和](../Page/巴黎.md "wikilink")[瑪西利亞](https://zh.wikipedia.org/wiki/馬賽 "wikilink")
+  - [高盧](https://zh.wikipedia.org/wiki/高盧 "wikilink")：[巴黎](../Page/巴黎.md "wikilink")和[瑪西利亞](https://zh.wikipedia.org/wiki/馬賽 "wikilink")
   - [哥德](https://zh.wikipedia.org/wiki/哥德 "wikilink")：[撒米塞吉圖撒](https://zh.wikipedia.org/wiki/撒米塞吉圖撒 "wikilink")
   - [塞爾特](https://zh.wikipedia.org/wiki/塞爾特 "wikilink")：[隆狄尼恩和](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[林登](../Page/林肯_\(林肯郡\).md "wikilink")
   - [迦太基](../Page/迦太基.md "wikilink")：[莫迪歐南和](../Page/米蘭.md "wikilink")[迦太基](../Page/迦太基.md "wikilink")
@@ -165,7 +165,7 @@
 
 ## 編輯軟體
 
-《凱撒大帝III》發行幾年後，雪乐山公司又在官方網站釋出了編輯軟體，可以讓玩家在20張以上的城市地圖，自由設定生產貨物、地形和敵人種族（加入[匈奴](https://zh.wikipedia.org/wiki/匈人 "wikilink")、[塞琉古](https://zh.wikipedia.org/wiki/塞琉古帝國 "wikilink")、[馬其頓](../Page/馬其頓.md "wikilink")、[猶太四個新種族](https://zh.wikipedia.org/wiki/猶太人 "wikilink")），雖然雪乐山公司網站已經關閉，不過玩家仍然可以在[GameSpot下載編輯軟體](../Page/GameSpot.md "wikilink")，另外還有之後的遊戲版本可以下載。
+《凱撒大帝III》發行幾年後，雪乐山公司又在官方網站釋出了編輯軟體，可以讓玩家在20張以上的城市地圖，自由設定生產貨物、地形和敵人種族（加入[匈奴](https://zh.wikipedia.org/wiki/匈人 "wikilink")、[塞琉古](https://zh.wikipedia.org/wiki/塞琉古帝國 "wikilink")、[馬其頓](../Page/馬其頓.md "wikilink")、[猶太四個新種族](https://zh.wikipedia.org/wiki/猶太人 "wikilink")），雖然雪乐山公司網站已經關閉，不過玩家仍然可以在[GameSpot](../Page/GameSpot.md "wikilink")下載編輯軟體，另外還有之後的遊戲版本可以下載。
 
 ## 参见
 
@@ -188,17 +188,11 @@
 
   - [雪乐山公司官方网站](http://www.sierra.com)
   - [凯撒大帝III天堂論壇](http://caesar3.heavengames.com/)在天堂遊戲網站
-  - [*凯撒大帝III*的遊戲問答](http://www.gamefaqs.com/computer/doswin/data/63635.html)
-    (商业网站)
+  - [*凯撒大帝III*的遊戲問答](http://www.gamefaqs.com/computer/doswin/data/63635.html) (商业网站)
 
-[cs:Caesar (série počítačových her)\#Caesar
-III](https://zh.wikipedia.org/wiki/cs:Caesar_\(série_počítačových_her\)#Caesar_III "wikilink")
+[cs:Caesar (série počítačových her)\#Caesar III](https://zh.wikipedia.org/wiki/cs:Caesar_\(série_počítačových_her\)#Caesar_III "wikilink")
 
-[Category:城市建造游戏](https://zh.wikipedia.org/wiki/Category:城市建造游戏 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
+[Category:城市建造游戏](https://zh.wikipedia.org/wiki/Category:城市建造游戏 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
 
 1.
 

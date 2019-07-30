@@ -1,10 +1,6 @@
-《**C'est la
-V**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[吳建豪的第七張大碟](../Page/吳建豪.md "wikilink")，第四張國語專輯，在2011年4月8日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，2011年7月20日推出。專輯第一主打歌是《Is
-This All》，是他特地向[共和世代主音](../Page/共和世代.md "wikilink")[Ryan
-Tedder邀歌而成的](https://zh.wikipedia.org/wiki/Ryan_Tedder "wikilink")。
+《**C'est la V**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[吳建豪](../Page/吳建豪.md "wikilink")的第七張大碟，第四張國語專輯，在2011年4月8日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，2011年7月20日推出。專輯第一主打歌是《Is This All》，是他特地向[共和世代](../Page/共和世代.md "wikilink")主音[Ryan Tedder邀歌而成的](https://zh.wikipedia.org/wiki/Ryan_Tedder "wikilink")。
 
-2011年8月10日，環球唱片
-(台灣)宣布推出CD+DVD版本，把第一主打歌至第五主打歌的[音樂錄影帶和其製作特輯收錄在一片DVD中](../Page/音樂錄影帶.md "wikilink")。
+2011年8月10日，環球唱片 (台灣)宣布推出CD+DVD版本，把第一主打歌至第五主打歌的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")和其製作特輯收錄在一片DVD中。
 
 ## 曲目
 
@@ -143,9 +139,9 @@ Justin Michael</p></td>
 | ----------- | ---------------------------------- | ------------- | ----------------------------------- |
 | Is This All | [陳慧翎](../Page/陳慧翎.md "wikilink")   | 2011年6月16日    |                                     |
 | 說愛就愛        | [陳奕仁](../Page/陳奕仁.md "wikilink")   | 2011年7月12日    |                                     |
-| 哎呀          | 陳慧翎                                | 2011年7月25日    | 與[安以軒合作](../Page/安以軒.md "wikilink") |
-| 命定          | [自由發揮](../Page/自由發揮.md "wikilink") | 2011年8月11日    | 與[瑞莎合作](../Page/瑞莎.md "wikilink")   |
-| 有你在         | 陳慧翎                                | 2011年?月?日     | 與[熊黛林合作](../Page/熊黛林.md "wikilink") |
+| 哎呀          | 陳慧翎                                | 2011年7月25日    | 與[安以軒](../Page/安以軒.md "wikilink")合作 |
+| 命定          | [自由發揮](../Page/自由發揮.md "wikilink") | 2011年8月11日    | 與[瑞莎](../Page/瑞莎.md "wikilink")合作   |
+| 有你在         | 陳慧翎                                | 2011年?月?日     | 與[熊黛林](../Page/熊黛林.md "wikilink")合作 |
 
 ## 派台歌成績
 
@@ -206,16 +202,8 @@ Justin Michael</p></td>
 
 </div>
 
-[Category:吳建豪音樂專輯](https://zh.wikipedia.org/wiki/Category:吳建豪音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
+[Category:吳建豪音樂專輯](https://zh.wikipedia.org/wiki/Category:吳建豪音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
 
-1.  [吳建豪 2 0 1 1 全 新 國 際 專 輯 C’est La "V" - Sky
-    Music](http://skymusic.com.hk/?p=21711)，2011年7月27日 (三) 11:10
-    (UTC+8)查閱
-2.  [C'est La "V" (預購版) 鐳射唱片 - 吳建豪,
-    環球唱片](http://www.yesasia.com/global/cest-la-v-faith-%E9%A0%90%E8%B3%BC%E7%89%88/1024577860-0-0-0-zh_TW/info.html)，2011年7月27日
-    (三) 11:25 (UTC+8)查閱
-3.  [C'est La "V" (預購版 + Tote Bag) (香港版) 鐳射唱片 - 吳建豪,
-    環球唱片](http://www.yesasia.com/global/cest-la-v-%E9%A0%90%E8%B3%BC%E7%89%88-tote-bag-%E9%A6%99%E6%B8%AF%E7%89%88/1024649231-0-0-0-zh_TW/info.html)，2011年7月27日
-    (三) 11:15 (UTC+8)查閱
+1.  [吳建豪 2 0 1 1 全 新 國 際 專 輯 C’est La "V" - Sky Music](http://skymusic.com.hk/?p=21711)，2011年7月27日 (三) 11:10 (UTC+8)查閱
+2.  [C'est La "V" (預購版) 鐳射唱片 - 吳建豪, 環球唱片](http://www.yesasia.com/global/cest-la-v-faith-%E9%A0%90%E8%B3%BC%E7%89%88/1024577860-0-0-0-zh_TW/info.html)，2011年7月27日 (三) 11:25 (UTC+8)查閱
+3.  [C'est La "V" (預購版 + Tote Bag) (香港版) 鐳射唱片 - 吳建豪, 環球唱片](http://www.yesasia.com/global/cest-la-v-%E9%A0%90%E8%B3%BC%E7%89%88-tote-bag-%E9%A6%99%E6%B8%AF%E7%89%88/1024649231-0-0-0-zh_TW/info.html)，2011年7月27日 (三) 11:15 (UTC+8)查閱

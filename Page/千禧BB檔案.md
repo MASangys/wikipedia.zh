@@ -1,12 +1,10 @@
-《**千禧BB檔案**》（Child of Our
-Time）是由[英國廣播公司與开放大学合作制作的一系列紀錄片](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")，由罗伯特·温斯顿主持。該系列紀錄片以25位於2000年出生的小孩為主角，計劃將會持續至2020（即是小朋友長大至20歲的時候），此紀錄片目的為研究成長背景、性別等對兒童的日後影響。
+《**千禧BB檔案**》（Child of Our Time）是由[英國廣播公司與开放大学合作制作的一系列紀錄片](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")，由罗伯特·温斯顿主持。該系列紀錄片以25位於2000年出生的小孩為主角，計劃將會持續至2020（即是小朋友長大至20歲的時候），此紀錄片目的為研究成長背景、性別等對兒童的日後影響。
 
 ## 參與兒童
 
 計劃的主角為25名兒童，來自22個英國家庭，有著不同的家庭背景。包括:
 
-  - **Alex and
-    Ivo**：居住在格拉斯哥的[同卵雙胞胎](https://zh.wikipedia.org/wiki/同卵雙胞 "wikilink")，早產11周。
+  - **Alex and Ivo**：居住在格拉斯哥的[同卵雙胞胎](https://zh.wikipedia.org/wiki/同卵雙胞 "wikilink")，早產11周。
   - **Calvin**:早產10周，有一名姐姐，父母離異，現在有一名繼父。
   - **Charlie**:母親在16歲時懷孕，而親生父親在出生前與其母親分手，其後，她的母親與一名電工誕下charlie 同母異父的弟妹。
   - **Charlotte Burke**：父母由人工受孕所誕下的，有一名雙生兄弟alexander但不幸死產。父母現在離異。
@@ -15,8 +13,7 @@ Time）是由[英國廣播公司與开放大学合作制作的一系列紀錄片
 
 <!-- end list -->
 
-  - **Eve**:父母曾經多次嘗試人工受孕但失敗，最後在自然受孕的情況下懷有eve，因此父母非常珍惜eve，但母親在產後患上[產後抑鬱症](https://zh.wikipedia.org/wiki/產後抑鬱症 "wikilink")。在集數'The
-    Age of Stress'內，eve的母親因[癌症而不幸逝世](../Page/癌症.md "wikilink")。
+  - **Eve**:父母曾經多次嘗試人工受孕但失敗，最後在自然受孕的情況下懷有eve，因此父母非常珍惜eve，但母親在產後患上[產後抑鬱症](https://zh.wikipedia.org/wiki/產後抑鬱症 "wikilink")。在集數'The Age of Stress'內，eve的母親因[癌症](../Page/癌症.md "wikilink")而不幸逝世。
 
 <!-- end list -->
 
@@ -52,9 +49,7 @@ Time）是由[英國廣播公司與开放大学合作制作的一系列紀錄片
 
 <!-- end list -->
 
-  - **Parys**:在單親家庭長大，母親[Alison
-    Lapper](https://zh.wikipedia.org/wiki/Alison_Lapper "wikilink")
-    從事藝術工作，為殘疾人士，在parys嬰兒時，母親只能用口及腳照顧。parys是剖宮產的。
+  - **Parys**:在單親家庭長大，母親[Alison Lapper](https://zh.wikipedia.org/wiki/Alison_Lapper "wikilink") 從事藝術工作，為殘疾人士，在parys嬰兒時，母親只能用口及腳照顧。parys是剖宮產的。
 
 <!-- end list -->
 
@@ -66,7 +61,7 @@ Time）是由[英國廣播公司與开放大学合作制作的一系列紀錄片
 
 <!-- end list -->
 
-  - **Rubin**:在37周出生，出生後被置於[深切治療部](https://zh.wikipedia.org/wiki/深切治療部 "wikilink")，在2個月大時因[肺炎留院](../Page/肺炎.md "wikilink")。在家中排得第三，有一名同母異父的弟弟。
+  - **Rubin**:在37周出生，出生後被置於[深切治療部](https://zh.wikipedia.org/wiki/深切治療部 "wikilink")，在2個月大時因[肺炎](../Page/肺炎.md "wikilink")留院。在家中排得第三，有一名同母異父的弟弟。
 
 <!-- end list -->
 
@@ -82,8 +77,7 @@ Time）是由[英國廣播公司與开放大学合作制作的一系列紀錄片
 
 ## 參考資料
 
-  - [BBC Child of Our Time website
-    官網](http://www.bbc.co.uk/programmes/b0072bk8)
+  - [BBC Child of Our Time website 官網](http://www.bbc.co.uk/programmes/b0072bk8)
 
 [分類:英國社會](https://zh.wikipedia.org/wiki/分類:英國社會 "wikilink")
 

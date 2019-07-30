@@ -1,5 +1,4 @@
-《**4 In
-Love**》是[Cookies重組後的第三張及最後一張專輯](../Page/Cookies_\(組合\).md "wikilink")\[1\]，於2004年12月18日發行，共收錄十首新歌\[2\]。
+《**4 In Love**》是[Cookies重組後的第三張及最後一張專輯](../Page/Cookies_\(組合\).md "wikilink")\[1\]，於2004年12月18日發行，共收錄十首新歌\[2\]。
 
 2005年2月16日推出限量版，加送一片[VCD](../Page/VCD.md "wikilink")。
 
@@ -15,8 +14,7 @@ Love**》是[Cookies重組後的第三張及最後一張專輯](../Page/Cookies_
 
 ## 參考資料
 
-[Category:Cookies音樂專輯](https://zh.wikipedia.org/wiki/Category:Cookies音樂專輯 "wikilink")
-[Category:2004年專輯](https://zh.wikipedia.org/wiki/Category:2004年專輯 "wikilink")
+[Category:Cookies音樂專輯](https://zh.wikipedia.org/wiki/Category:Cookies音樂專輯 "wikilink") [Category:2004年專輯](https://zh.wikipedia.org/wiki/Category:2004年專輯 "wikilink")
 
 1.
 2.

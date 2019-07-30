@@ -1,6 +1,6 @@
-《**千奇百趣高B班**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司向](../Page/電視廣播有限公司.md "wikilink")[日本](../Page/日本.md "wikilink")[朝日電視台購買](../Page/朝日電視台.md "wikilink")[版權而製作的一個](https://zh.wikipedia.org/wiki/版權 "wikilink")[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，以[高清技術拍攝](https://zh.wikipedia.org/wiki/高清 "wikilink")。[節目主持為](https://zh.wikipedia.org/wiki/節目主持 "wikilink")[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[阮小儀](../Page/阮小儀.md "wikilink")，助手為[李偉健](../Page/李偉健.md "wikilink")（粉筆）及[陳亭嘉](../Page/陳亭嘉.md "wikilink")（粉刷）。至於旁白，本輯除了[林保全及](../Page/林保全.md "wikilink")[雷碧娜外](../Page/雷碧娜.md "wikilink")，亦有使用其他[配音員](../Page/配音員.md "wikilink")（全為男性路人，而女性路人和小孩則由[雷碧娜負責](../Page/雷碧娜.md "wikilink")），當中包括[陳永信](../Page/陳永信.md "wikilink")、[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")、[梁偉德](../Page/梁偉德.md "wikilink")、[招世亮](../Page/招世亮.md "wikilink")、[朱子聰](../Page/朱子聰.md "wikilink")、[葉振聲](../Page/葉振聲.md "wikilink")、[劉昭文](../Page/劉昭文.md "wikilink")、[陳欣和](../Page/陳欣_\(配音員\).md "wikilink")[蕭徽勇](../Page/蕭徽勇.md "wikilink")。
+《**千奇百趣高B班**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")向[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")購買[版權而製作的一個](https://zh.wikipedia.org/wiki/版權 "wikilink")[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，以[高清技術拍攝](https://zh.wikipedia.org/wiki/高清 "wikilink")。[節目主持為](https://zh.wikipedia.org/wiki/節目主持 "wikilink")[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[阮小儀](../Page/阮小儀.md "wikilink")，助手為[李偉健](../Page/李偉健.md "wikilink")（粉筆）及[陳亭嘉](../Page/陳亭嘉.md "wikilink")（粉刷）。至於旁白，本輯除了[林保全](../Page/林保全.md "wikilink")及[雷碧娜](../Page/雷碧娜.md "wikilink")外，亦有使用其他[配音員](../Page/配音員.md "wikilink")（全為男性路人，而女性路人和小孩則由[雷碧娜](../Page/雷碧娜.md "wikilink")負責），當中包括[陳永信](../Page/陳永信.md "wikilink")、[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")、[梁偉德](../Page/梁偉德.md "wikilink")、[招世亮](../Page/招世亮.md "wikilink")、[朱子聰](../Page/朱子聰.md "wikilink")、[葉振聲](../Page/葉振聲.md "wikilink")、[劉昭文](../Page/劉昭文.md "wikilink")、[陳欣和](../Page/陳欣_\(配音員\).md "wikilink")[蕭徽勇](../Page/蕭徽勇.md "wikilink")。
 
-本節目是該台早前播出之《[千奇百趣](../Page/千奇百趣.md "wikilink")》系列之第六輯，並且首次每集播映一小時，以課室為主題，奇趣內容關於日本境內的奇景。節目於2012年2月25日至2012年6月16日，逢星期六[香港時間](../Page/香港時間.md "wikilink")20:30至21:30於[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台播放](../Page/高清翡翠台.md "wikilink")。另外，節目播出後於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
+本節目是該台早前播出之《[千奇百趣](../Page/千奇百趣.md "wikilink")》系列之第六輯，並且首次每集播映一小時，以課室為主題，奇趣內容關於日本境內的奇景。節目於2012年2月25日至2012年6月16日，逢星期六[香港時間](../Page/香港時間.md "wikilink")20:30至21:30於[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")播放。另外，節目播出後於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
 
 ## 口號
 
@@ -44,8 +44,7 @@
 
 #### 硬食大粉刷
 
-最低分的一組嘉賓派出一位接受大懲罰。嘉賓須於限時內答中一條
-[IQ題](https://zh.wikipedia.org/wiki/IQ題 "wikilink")，否則巨型粉刷則會把嘉賓弄到滿面[忌廉](https://zh.wikipedia.org/wiki/忌廉 "wikilink")。如果嘉賓答中問題，則會由下一組較低分的嘉賓接受大懲罰。
+最低分的一組嘉賓派出一位接受大懲罰。嘉賓須於限時內答中一條 [IQ題](https://zh.wikipedia.org/wiki/IQ題 "wikilink")，否則巨型粉刷則會把嘉賓弄到滿面[忌廉](https://zh.wikipedia.org/wiki/忌廉 "wikilink")。如果嘉賓答中問題，則會由下一組較低分的嘉賓接受大懲罰。
 
 ### 每集嘉賓
 
@@ -264,7 +263,7 @@
 
 ## 收視
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 | 週次 | 集數 | 日期         | 平均收視                                                |
 | -- | -- | ---------- | --------------------------------------------------- |
@@ -310,5 +309,4 @@
   - [節目網站](http://programme.tvb.com/variety/neighborhoodtreasures4)
   - [myTV](http://mytv.tvb.com/variety/neighborhoodtreasures4)
 
-[Category:千奇百趣系列](https://zh.wikipedia.org/wiki/Category:千奇百趣系列 "wikilink")
-[Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink")
+[Category:千奇百趣系列](https://zh.wikipedia.org/wiki/Category:千奇百趣系列 "wikilink") [Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink")

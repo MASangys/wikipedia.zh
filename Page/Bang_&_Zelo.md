@@ -1,6 +1,4 @@
-**BANG &
-ZELO**，是[B.A.P的子團](../Page/B.A.P.md "wikilink")。在B.A.P還未正式出道前，由隊長方容國和老么ZELO組成的兩人子團先出道，為團隊先行預熱打前鋒，是韓國第一個先以子團活動的團體。2018年8月23日，隨着[方容國退出](https://zh.wikipedia.org/wiki/方容國 "wikilink")
-[B.A.P](../Page/B.A.P.md "wikilink")，團體解散。
+**BANG & ZELO**，是[B.A.P](../Page/B.A.P.md "wikilink")的子團。在B.A.P還未正式出道前，由隊長方容國和老么ZELO組成的兩人子團先出道，為團隊先行預熱打前鋒，是韓國第一個先以子團活動的團體。2018年8月23日，隨着[方容國退出](https://zh.wikipedia.org/wiki/方容國 "wikilink") [B.A.P](../Page/B.A.P.md "wikilink")，團體解散。
 
 ## 過往成員資料
 
@@ -14,11 +12,8 @@ ZELO**，是[B.A.P的子團](../Page/B.A.P.md "wikilink")。在B.A.P還未正式
 <!-- end list -->
 
   -
-    2011年
-    [Secret](../Page/Secret_\(組合\).md "wikilink")[宋枝恩](../Page/宋枝恩.md "wikilink")〈Going
-    Crazy〉Feat.方容國
-    2011年 Solo單曲〈I Remember〉with
-    [BEAST梁耀燮](https://zh.wikipedia.org/wiki/BEAST "wikilink")
+    2011年 [Secret](../Page/Secret_\(組合\).md "wikilink")[宋枝恩](../Page/宋枝恩.md "wikilink")〈Going Crazy〉Feat.方容國
+    2011年 Solo單曲〈I Remember〉with [BEAST梁耀燮](https://zh.wikipedia.org/wiki/BEAST "wikilink")
 
 ### ZELO
 
@@ -71,9 +66,4 @@ ZELO**，是[B.A.P的子團](../Page/B.A.P.md "wikilink")。在B.A.P還未正式
 
   - [ZELO的官方Twitter](https://twitter.com/ZELO96)
 
-[Category:B.A.P](https://zh.wikipedia.org/wiki/Category:B.A.P "wikilink")
-[Category:TS娛樂](https://zh.wikipedia.org/wiki/Category:TS娛樂 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
+[Category:B.A.P](https://zh.wikipedia.org/wiki/Category:B.A.P "wikilink") [Category:TS娛樂](https://zh.wikipedia.org/wiki/Category:TS娛樂 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")

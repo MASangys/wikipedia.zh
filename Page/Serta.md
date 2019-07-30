@@ -1,14 +1,10 @@
-美國舒達(Serta)創立於1931年，經過83年的不斷發展和創新， 全球銷量第一，與席夢思(Simmons)，丝涟 (Sealy)
-並稱為世界三大品牌。 2009年，美國舒達成功收購床墊業巨頭“席夢思Simmons”， 成為全球最大的床墊生產和銷售商。
+美國舒達(Serta)創立於1931年，經過83年的不斷發展和創新， 全球銷量第一，與席夢思(Simmons)，丝涟 (Sealy) 並稱為世界三大品牌。 2009年，美國舒達成功收購床墊業巨頭“席夢思Simmons”， 成為全球最大的床墊生產和銷售商。
 
-**舒達**（**Serta
-Inc.**）是[美國著名的](https://zh.wikipedia.org/wiki/美國 "wikilink")[床墊製造商](https://zh.wikipedia.org/wiki/床墊 "wikilink")，總部位於[芝加哥](../Page/芝加哥.md "wikilink")[霍夫曼](../Page/霍夫曼.md "wikilink")莊園。
+**舒達**（**Serta Inc.**）是[美國著名的](https://zh.wikipedia.org/wiki/美國 "wikilink")[床墊製造商](https://zh.wikipedia.org/wiki/床墊 "wikilink")，總部位於[芝加哥](../Page/芝加哥.md "wikilink")[霍夫曼](../Page/霍夫曼.md "wikilink")莊園。
 
-1931年由當時一群床墊製造商結合的床墊公司，名為Sleeper
-Inc.，並在1940年，將公司合併改名為舒達公司，現為美國銷售第一床墊品牌\[1\]，全球有近62家製造廠，主要製作內置連續[彈簧形式的床墊為主](https://zh.wikipedia.org/wiki/彈簧 "wikilink")，其次為[乳膠](https://zh.wikipedia.org/wiki/乳膠 "wikilink")、記憶泡棉等床墊。
+1931年由當時一群床墊製造商結合的床墊公司，名為Sleeper Inc.，並在1940年，將公司合併改名為舒達公司，現為美國銷售第一床墊品牌\[1\]，全球有近62家製造廠，主要製作內置連續[彈簧形式的床墊為主](https://zh.wikipedia.org/wiki/彈簧 "wikilink")，其次為[乳膠](https://zh.wikipedia.org/wiki/乳膠 "wikilink")、記憶泡棉等床墊。
 
-企業的數綿羊[廣告](../Page/廣告.md "wikilink")是由著名的[Aardman
-Animations](https://zh.wikipedia.org/wiki/Aardman_Animations "wikilink")\[2\]動畫公司所製作。
+企業的數綿羊[廣告](../Page/廣告.md "wikilink")是由著名的[Aardman Animations](https://zh.wikipedia.org/wiki/Aardman_Animations "wikilink")\[2\]動畫公司所製作。
 
 2009年9月底，美國另一知名床墊製造商[席夢思Simmons申請破產重整](https://zh.wikipedia.org/wiki/席夢思 "wikilink")，由Ares資產管理公司和安大略教師退休金投資策劃公司收購\[3\]，該收購人也是舒達的所有人，因此使席夢思與舒達成為同門兄弟，不過據舒達的擁有者表示，收購後兩個品牌仍將分開運營，舒達依然視席夢思為市場競爭者。
 
@@ -37,8 +33,7 @@ We make the world's best mattress.
 
 ## 異業結合
 
-  - 婚紗女王[Vera
-    Wang](https://zh.wikipedia.org/wiki/Vera_Wang "wikilink")\[4\]
+  - 婚紗女王[Vera Wang](https://zh.wikipedia.org/wiki/Vera_Wang "wikilink")\[4\]
   - NBC電視台[誰是接班人7](https://zh.wikipedia.org/wiki/誰是接班人7 "wikilink")、[飛黃騰達7](../Page/飛黃騰達7.md "wikilink")節目合作
 
 ## 參考文獻

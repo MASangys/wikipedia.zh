@@ -1,10 +1,8 @@
-《**POP
-DIVA**》（前衛歌姬）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2011年2月2日發行的49th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。為2011第1張單曲。
+《**POP DIVA**》（前衛歌姬）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2011年2月2日發行的49th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。為2011第1張單曲。
 
 ## 解說
 
-  - 本作為1A單曲，與上張1A《[Can We Go
-    Back](../Page/Can_We_Go_Back.md "wikilink")》相隔約一年一個月，距上張單曲約4個月的舞曲單曲。
+  - 本作為1A單曲，與上張1A《[Can We Go Back](../Page/Can_We_Go_Back.md "wikilink")》相隔約一年一個月，距上張單曲約4個月的舞曲單曲。
 
 <!-- end list -->
 
@@ -30,9 +28,7 @@ DIVA**》（前衛歌姬）為[日本歌手](../Page/日本.md "wikilink")[倖�
       - 第一興商「LIVE DAM LIVE」電視廣告曲。
 2.  **Black Candy**
       -
-        作詞：Kumi Koda・Matthew Tishler・Liz Rodrigues・Erik Alcock・Adam
-        Royce 作曲：Kumi Koda・Matthew Tishler・Liz Rodrigues・Erik
-        Alcock・Adam Royce
+        作詞：Kumi Koda・Matthew Tishler・Liz Rodrigues・Erik Alcock・Adam Royce 作曲：Kumi Koda・Matthew Tishler・Liz Rodrigues・Erik Alcock・Adam Royce
 3.  **POP DIVA（Instrumental）**
 4.  **Black Candy（Instrumental）**
 
@@ -55,7 +51,4 @@ DIVA**》（前衛歌姬）為[日本歌手](../Page/日本.md "wikilink")[倖�
 
 </div>
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")

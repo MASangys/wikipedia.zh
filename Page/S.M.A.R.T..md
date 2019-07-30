@@ -1,4 +1,4 @@
-**S.M.A.R.T.**，全称为“”，即“自我监测、分析及报告技术”，是一种自动的[硬盘状态检测与预警系统和规范](../Page/硬盘.md "wikilink")。通过在硬盘[硬件内的检测指令对硬盘的硬件如](../Page/硬件.md "wikilink")[磁头](https://zh.wikipedia.org/wiki/磁头 "wikilink")、盘片、[马达](https://zh.wikipedia.org/wiki/马达 "wikilink")、电路的运行情况进行监控、记录并与厂商所设定的预设安全值进行比较，若监控情况将或已超出预设安全值的安全范围，就可以通过主机的监控硬件或软件自动向用户作出警告并进行轻微的自动修复，以提前保障硬盘数据的安全。除一些出厂时间极早的硬盘外，现在大部分硬盘均配备该项技术。
+**S.M.A.R.T.**，全称为“”，即“自我监测、分析及报告技术”，是一种自动的[硬盘](../Page/硬盘.md "wikilink")状态检测与预警系统和规范。通过在硬盘[硬件](../Page/硬件.md "wikilink")内的检测指令对硬盘的硬件如[磁头](https://zh.wikipedia.org/wiki/磁头 "wikilink")、盘片、[马达](https://zh.wikipedia.org/wiki/马达 "wikilink")、电路的运行情况进行监控、记录并与厂商所设定的预设安全值进行比较，若监控情况将或已超出预设安全值的安全范围，就可以通过主机的监控硬件或软件自动向用户作出警告并进行轻微的自动修复，以提前保障硬盘数据的安全。除一些出厂时间极早的硬盘外，现在大部分硬盘均配备该项技术。
 
 ## 功能
 
@@ -11,23 +11,15 @@
 
 ## 历史
 
-最早期的硬盘监控技术起源于1992年[IBM在为](../Page/IBM.md "wikilink")计算机的IBM9337[硬盘阵列中的IBM](https://zh.wikipedia.org/wiki/硬盘阵列 "wikilink")
-0662
-[SCSI](https://zh.wikipedia.org/wiki/SCSI "wikilink")2代硬盘驱动器之中，后来该技术被命名为[Predictive
-Failure
-Analysis](https://zh.wikipedia.org/wiki/Predictive_Failure_Analysis "wikilink")（故障预警分析技术），它是通过在[固件中测量几个重要的硬盘安全参数和评估他们的情况](https://zh.wikipedia.org/wiki/固件 "wikilink")。从物理硬盘发送到监控软件的结果中被限定两种结果：“硬盘安全”和“硬盘不久后会发生故障”。
+最早期的硬盘监控技术起源于1992年[IBM](../Page/IBM.md "wikilink")在为计算机的IBM9337[硬盘阵列中的IBM](https://zh.wikipedia.org/wiki/硬盘阵列 "wikilink") 0662 [SCSI](https://zh.wikipedia.org/wiki/SCSI "wikilink")2代硬盘驱动器之中，后来该技术被命名为[Predictive Failure Analysis](https://zh.wikipedia.org/wiki/Predictive_Failure_Analysis "wikilink")（故障预警分析技术），它是通过在[固件中测量几个重要的硬盘安全参数和评估他们的情况](https://zh.wikipedia.org/wiki/固件 "wikilink")。从物理硬盘发送到监控软件的结果中被限定两种结果：“硬盘安全”和“硬盘不久后会发生故障”。
 
 不久，由[個人電腦制造商](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[Compaq和硬盘制造商](https://zh.wikipedia.org/wiki/Compaq "wikilink")[Seagate](https://zh.wikipedia.org/wiki/Seagate "wikilink")、[Quantum和](https://zh.wikipedia.org/wiki/昆騰 "wikilink")提出了名为[IntelliSafe的类似技术](https://zh.wikipedia.org/wiki/IntelliSafe "wikilink")。通过该技术，硬盘会测量自身的的健康指标并将参量值传送给操作系统和用户的监控软件中，每个硬盘生产商有权决定哪些指标需要被监控和它们的安全阈值。
 
-[Compaq于](https://zh.wikipedia.org/wiki/Compaq "wikilink")1995早期将该项技术方案提交到[Small
-Form
-Factor委员会进行标准化](https://zh.wikipedia.org/wiki/Small_Form_Factor "wikilink")，该方案得到[IBM](../Page/IBM.md "wikilink")、[Seagate](https://zh.wikipedia.org/wiki/Seagate "wikilink")、[Quantum](../Page/量子.md "wikilink")、和[Western
-Digital所支持](https://zh.wikipedia.org/wiki/Western_Digital "wikilink")。由于IntelliSafe技术的灵活性，委员会接受了该方案，并正式更名**S.M.A.R.T.**技术，将其标准化并推广至ATA-3行业标准中。
+[Compaq于](https://zh.wikipedia.org/wiki/Compaq "wikilink")1995早期将该项技术方案提交到[Small Form Factor委员会进行标准化](https://zh.wikipedia.org/wiki/Small_Form_Factor "wikilink")，该方案得到[IBM](../Page/IBM.md "wikilink")、[Seagate](https://zh.wikipedia.org/wiki/Seagate "wikilink")、[Quantum](../Page/量子.md "wikilink")、和[Western Digital所支持](https://zh.wikipedia.org/wiki/Western_Digital "wikilink")。由于IntelliSafe技术的灵活性，委员会接受了该方案，并正式更名**S.M.A.R.T.**技术，将其标准化并推广至ATA-3行业标准中。
 
 ## 运作原理
 
-该技术所需数据被存放在硬盘物理盘面最前面的磁道中，由硬盘制作商将相关管理程序和数据该磁道中，包括加解密程序，自监控程序，自修复程序等，主机的监控软件可以通过“SMART
-RETURN STATUS”的命令读取**S.M.A.R.T.**信息，且这些信息不允许被用户直接修改。
+该技术所需数据被存放在硬盘物理盘面最前面的磁道中，由硬盘制作商将相关管理程序和数据该磁道中，包括加解密程序，自监控程序，自修复程序等，主机的监控软件可以通过“SMART RETURN STATUS”的命令读取**S.M.A.R.T.**信息，且这些信息不允许被用户直接修改。
 
 ## 检测属性
 
@@ -117,7 +109,7 @@ RETURN STATUS”的命令读取**S.M.A.R.T.**信息，且这些信息不允许�
 
 ### USB
 
-在[USB标准中](../Page/USB.md "wikilink")，USB不能用于计算机内部储存设备的基本总线（如ATA，SCSI等），其本身没有为S.M.A.R.T.提供传输数据的途径。在使用ATA硬盘，以USB为传输端口的移动硬盘中，即使硬盘内S.M.A.R.T.仍然运作，但没办法直接向系统提供S.M.A.R.T.的数据。现在新的移动硬盘的内部驱动转换电路已经能以一些方法将硬盘内S.M.A.R.T.的数据通过USB传输到系统或监控程序中读取。
+在[USB](../Page/USB.md "wikilink")标准中，USB不能用于计算机内部储存设备的基本总线（如ATA，SCSI等），其本身没有为S.M.A.R.T.提供传输数据的途径。在使用ATA硬盘，以USB为传输端口的移动硬盘中，即使硬盘内S.M.A.R.T.仍然运作，但没办法直接向系统提供S.M.A.R.T.的数据。现在新的移动硬盘的内部驱动转换电路已经能以一些方法将硬盘内S.M.A.R.T.的数据通过USB传输到系统或监控程序中读取。
 
 ## 参考文献
 

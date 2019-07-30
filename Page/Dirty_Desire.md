@@ -1,7 +1,4 @@
-**Dirty Desire (The
-Remixes)**（台灣譯為「瘋狂幻想」）為[宇多田光](../Page/宇多田光.md "wikilink")以「Utada」的名義，在2009年12月21日以數碼形式發行的[英語單曲](https://zh.wikipedia.org/wiki/英語 "wikilink")\[1\]，本作原曲收錄於專輯《[This
-Is The
-One](https://zh.wikipedia.org/wiki/This_Is_The_One "wikilink")》，於12月21日正式在iTunes及Amazon發售。
+**Dirty Desire (The Remixes)**（台灣譯為「瘋狂幻想」）為[宇多田光](../Page/宇多田光.md "wikilink")以「Utada」的名義，在2009年12月21日以數碼形式發行的[英語單曲](https://zh.wikipedia.org/wiki/英語 "wikilink")\[1\]，本作原曲收錄於專輯《[This Is The One](https://zh.wikipedia.org/wiki/This_Is_The_One "wikilink")》，於12月21日正式在iTunes及Amazon發售。
 
 ## 版本
 
@@ -21,7 +18,6 @@ Island Def Jam將本作製成多個混音版本，曲目如下。
 
 <references/>
 
-[Category:宇多田光歌曲](https://zh.wikipedia.org/wiki/Category:宇多田光歌曲 "wikilink")
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
+[Category:宇多田光歌曲](https://zh.wikipedia.org/wiki/Category:宇多田光歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
 
 1.

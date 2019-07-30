@@ -55,24 +55,17 @@
   - Stephanie Valentin - 小提琴(The 13th Floor)
   - Damien Surian - 男高音
   - Johanna Giraud, Hubert Piazzola - 高音(At Sixes and Sevens)
-  - Emilie Lesbros - 女高音(At Sixes and Sevens, An Elixir for Existence,
-    The 13th Floor)
-  - Mathieu Landry, Emmanuelle Zoldan, Sandrine Gouttebel - 高音(An Elixir
-    for Existence, Nine Destinies and a Downfall, The 13th Floor)
+  - Emilie Lesbros - 女高音(At Sixes and Sevens, An Elixir for Existence, The 13th Floor)
+  - Mathieu Landry, Emmanuelle Zoldan, Sandrine Gouttebel - 高音(An Elixir for Existence, Nine Destinies and a Downfall, The 13th Floor)
 
 ## 外部链接
 
   - [Sirenia - 官方网站](http://www.sirenia.no)
   - [Nuclear Blast - 官方网站](http://www.nuclearblast.de)
   - [官方MySpace](http://www.myspace.com/sirenia)
-  - [由Morten
-    Veland所做的声音](http://www.zanzana.net/artistes.asp?NID=1494/Sirenia.asp)
-  - [Ailyn -
-    官方歌迷俱乐部](https://web.archive.org/web/20080410174425/http://www.ailyn-fanclub.net/)
-  - [Sirenia-
-    法语网站](https://web.archive.org/web/20081106134520/http://www.sirenia-france.fr/)
+  - [由Morten Veland所做的声音](http://www.zanzana.net/artistes.asp?NID=1494/Sirenia.asp)
+  - [Ailyn - 官方歌迷俱乐部](https://web.archive.org/web/20080410174425/http://www.ailyn-fanclub.net/)
+  - [Sirenia- 法语网站](https://web.archive.org/web/20081106134520/http://www.sirenia-france.fr/)
   - [Lebmetal.com对Ailyn进行的采访](http://www.lebmetal.com/2009/10/06/interview-with-sirenia/)
 
-[Category:挪威樂團](https://zh.wikipedia.org/wiki/Category:挪威樂團 "wikilink")
-[Category:哥德金屬樂團](https://zh.wikipedia.org/wiki/Category:哥德金屬樂團 "wikilink")
-[Category:交響金屬樂團](https://zh.wikipedia.org/wiki/Category:交響金屬樂團 "wikilink")
+[Category:挪威樂團](https://zh.wikipedia.org/wiki/Category:挪威樂團 "wikilink") [Category:哥德金屬樂團](https://zh.wikipedia.org/wiki/Category:哥德金屬樂團 "wikilink") [Category:交響金屬樂團](https://zh.wikipedia.org/wiki/Category:交響金屬樂團 "wikilink")

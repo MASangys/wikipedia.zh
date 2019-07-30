@@ -11,8 +11,4 @@
 
 ## 參考來源
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:少女時代歌曲](https://zh.wikipedia.org/wiki/Category:少女時代歌曲 "wikilink")
-[Category:2010年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2010年RIAJ付費音樂下載榜冠軍歌曲 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
-[Category:RIAJ手機全曲下載百萬認證歌曲](https://zh.wikipedia.org/wiki/Category:RIAJ手機全曲下載百萬認證歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:少女時代歌曲](https://zh.wikipedia.org/wiki/Category:少女時代歌曲 "wikilink") [Category:2010年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2010年RIAJ付費音樂下載榜冠軍歌曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink") [Category:RIAJ手機全曲下載百萬認證歌曲](https://zh.wikipedia.org/wiki/Category:RIAJ手機全曲下載百萬認證歌曲 "wikilink")

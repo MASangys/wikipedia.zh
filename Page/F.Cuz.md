@@ -1,16 +1,10 @@
-**F.Cuz**（）是韓國的五人男子[流行音樂團體](https://zh.wikipedia.org/wiki/流行音樂團體 "wikilink")，2010年1月8日於《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式出道\[1\]。團名取自焦點的英文*focus*的拼音，團名意義為
-For Century Ultimate Zest（本世紀終極的熱情）。歌迷名稱是For U（而F.CUZ是For U的未婚夫）。
-因為成員們的身高將近或超過180，在韓國獲有「MODEL IDOL」之稱。官方應援色為Twinkle Light
-Silver（閃閃發光的銀色）。
+**F.Cuz**（）是韓國的五人男子[流行音樂團體](https://zh.wikipedia.org/wiki/流行音樂團體 "wikilink")，2010年1月8日於《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式出道\[1\]。團名取自焦點的英文*focus*的拼音，團名意義為 For Century Ultimate Zest（本世紀終極的熱情）。歌迷名稱是For U（而F.CUZ是For U的未婚夫）。 因為成員們的身高將近或超過180，在韓國獲有「MODEL IDOL」之稱。官方應援色為Twinkle Light Silver（閃閃發光的銀色）。
 
 2010年曾與台灣藝人[郭書瑤](../Page/郭書瑤.md "wikilink")（瑤瑤）合作一首歌曲《jiggy》。
 
 2014年從原本的經紀公司CAN Entertainment換到Tunes Will Entertainment旗下。
 
-2016年9月12日，F.Cuz日本官方網站公佈成員合約在9月30日屆滿\[2\]。Dae Geon、Rae Hyun二人已經入伍；Jin
-On因椎間盤突出需停止活動；而KAN及Ye
-Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期滿後不再續約\[3\]，意味組合在日本轉變為獨立組合。
+2016年9月12日，F.Cuz日本官方網站公佈成員合約在9月30日屆滿\[2\]。Dae Geon、Rae Hyun二人已經入伍；Jin On因椎間盤突出需停止活動；而KAN及Ye Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期滿後不再續約\[3\]，意味組合在日本轉變為獨立組合。
 
 2018年4月，隊長Jin On宣布在5月18日入伍\[4\]。
 
@@ -63,28 +57,6 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 </tr>
 </tbody>
 </table>
-
-## 作品
-
-### 電台
-
-|            |                 |         |
-| ---------- | --------------- | ------- |
-| 日期         | 電台名稱            | 備註      |
-| 2010年4月15日 | 泰妍的好朋友          | Jin On  |
-| 2010年9月8日  | RAINBOW TOWN FM | F.Cuz全體 |
-
-### 綜藝節目
-
-|              |               |         |
-| ------------ | ------------- | ------- |
-| 日期           | 節目名稱          | 備註      |
-| 2010年7月5日－9日 | HitFM         | F.Cuz全體 |
-| 2010年7月9日    | F.CUZ I'm娛樂通  | F.Cuz全體 |
-| 2010年7月10日   | 超級偶像          | F.Cuz全體 |
-| 2010年7月14日   | \[V\] 我愛黑澀棒棒堂 | F.Cuz全體 |
-| 2012年12月5日   | 娛樂百分百         | F.Cuz全體 |
-| 2012年12月6日   | 就是愛JK         | F.Cuz全體 |
 
 ## 音樂作品
 
@@ -185,10 +157,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <li>發行日期：2018年2月14日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
-<td><p>{{hidden|曲目|</p>
-<ol>
-<li><strong>美麗的女孩 (아름다운 걸) (Beautiful Girl)</strong></li>
-</ol></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -408,12 +377,6 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 
 ## 獎項
 
-### 大型頒獎禮獎項
-
-| 年份       | 獎項 |
-| :------- | :- |
-| **2015** |    |
-
 ### 音樂節目獎項
 
 | 年份 | 日期 | 電視台 | 節目名稱 | 獲獎歌曲 | 排名 |
@@ -496,10 +459,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
   - [日本官方網站存檔](https://web.archive.org/web/20160917181701/http://f-cuz.jp/)
   - [台灣種子音樂官方網站](http://www.seedmusic.com.tw/fcuz/default.aspx)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
 
 1.
 

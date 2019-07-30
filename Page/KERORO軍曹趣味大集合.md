@@ -1,5 +1,4 @@
-《**KERORO軍曹趣味大集合**》，日文原名ケロロランド，[角川書店對外發行小學生為對象的](../Page/角川書店.md "wikilink")[漫畫雜誌](../Page/日本漫畫雜誌.md "wikilink")。簡稱「Keroro
-Land」。
+《**KERORO軍曹趣味大集合**》，日文原名ケロロランド，[角川書店](../Page/角川書店.md "wikilink")對外發行小學生為對象的[漫畫雜誌](../Page/日本漫畫雜誌.md "wikilink")。簡稱「Keroro Land」。
 
 ## 主要雜誌內容
 
@@ -738,8 +737,4 @@ foruru的盟友，手持法杖
 
   - [博客來搜尋](http://search.books.com.tw/exep/prod_search.php?cat=all&key=KERORO%ADx%B1%E4%BD%EC%A8%FD%A4j%B6%B0%A6X)(中文)
 
-[Category:KEROKERO_ACE](https://zh.wikipedia.org/wiki/Category:KEROKERO_ACE "wikilink")
-[Category:角川書店的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:角川書店的漫畫雜誌 "wikilink")
-[Category:Keroro軍曹](https://zh.wikipedia.org/wiki/Category:Keroro軍曹 "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink")
+[Category:KEROKERO_ACE](https://zh.wikipedia.org/wiki/Category:KEROKERO_ACE "wikilink") [Category:角川書店的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:角川書店的漫畫雜誌 "wikilink") [Category:Keroro軍曹](https://zh.wikipedia.org/wiki/Category:Keroro軍曹 "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink")

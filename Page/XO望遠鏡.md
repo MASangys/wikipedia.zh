@@ -1,13 +1,8 @@
-**XO望遠鏡**（**XO
-Telescope**）是位於[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")[茂宜島海拔](../Page/茂宜島.md "wikilink")3054公尺的[海勒卡拉火山頂的望遠鏡](https://zh.wikipedia.org/wiki/海勒卡拉火山 "wikilink")。該望遠鏡以一對焦距200
-mm的[望遠鏡頭組成](https://zh.wikipedia.org/wiki/望遠鏡頭 "wikilink")，是以[凌日法偵測](https://zh.wikipedia.org/wiki/系外行星偵測法#凌日法 "wikilink")[太陽系外行星](../Page/太陽系外行星.md "wikilink")，其原理相當類似[跨大西洋系外行星搜尋計畫](https://zh.wikipedia.org/wiki/跨大西洋系外行星搜尋計畫 "wikilink")（Trans-atlantic
-Exoplanet Survey, TrES）。硬體花費為六萬美金，相關軟體花費則更少得多\[1\]。
+**XO望遠鏡**（**XO Telescope**）是位於[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")[茂宜島](../Page/茂宜島.md "wikilink")海拔3054公尺的[海勒卡拉火山頂的望遠鏡](https://zh.wikipedia.org/wiki/海勒卡拉火山 "wikilink")。該望遠鏡以一對焦距200 mm的[望遠鏡頭組成](https://zh.wikipedia.org/wiki/望遠鏡頭 "wikilink")，是以[凌日法偵測](https://zh.wikipedia.org/wiki/系外行星偵測法#凌日法 "wikilink")[太陽系外行星](../Page/太陽系外行星.md "wikilink")，其原理相當類似[跨大西洋系外行星搜尋計畫](https://zh.wikipedia.org/wiki/跨大西洋系外行星搜尋計畫 "wikilink")（Trans-atlantic Exoplanet Survey, TrES）。硬體花費為六萬美金，相關軟體花費則更少得多\[1\]。
 
 ## 發現的行星
 
-XO望遠鏡已經發現五顆行星，其中四顆是[熱木星](../Page/熱木星.md "wikilink")，另一顆
-[XO-3b](../Page/XO-3b.md "wikilink")
-則可能是[棕矮星](../Page/棕矮星.md "wikilink")。所有系外行星都以凌日法發現。
+XO望遠鏡已經發現五顆行星，其中四顆是[熱木星](../Page/熱木星.md "wikilink")，另一顆 [XO-3b](../Page/XO-3b.md "wikilink") 則可能是[棕矮星](../Page/棕矮星.md "wikilink")。所有系外行星都以凌日法發現。
 
 <table>
 <thead>
@@ -127,27 +122,21 @@ XO望遠鏡已經發現五顆行星，其中四顆是[熱木星](../Page/熱木�
 
   - [確定存在的太陽系外行星列表](https://zh.wikipedia.org/wiki/確定存在的太陽系外行星列表 "wikilink")
 
-XO望遠鏡觀測的光變曲線資料可在[NASA Star and Exoplanet
-Database取得](https://zh.wikipedia.org/wiki/NASA_Star_and_Exoplanet_Database "wikilink")
+XO望遠鏡觀測的光變曲線資料可在[NASA Star and Exoplanet Database取得](https://zh.wikipedia.org/wiki/NASA_Star_and_Exoplanet_Database "wikilink")
 
 ## 其他凌日法系外行星巡天
 
-  - [跨大西洋系外行星搜尋計畫](https://zh.wikipedia.org/wiki/跨大西洋系外行星搜尋計畫 "wikilink")（Trans-atlantic
-    Exoplanet Survey, TrES）
-  - [匈牙利自动望远镜网络计划](../Page/匈牙利自动望远镜网络计划.md "wikilink")（HATNet Project,
-    HAT）
+  - [跨大西洋系外行星搜尋計畫](https://zh.wikipedia.org/wiki/跨大西洋系外行星搜尋計畫 "wikilink")（Trans-atlantic Exoplanet Survey, TrES）
+  - [匈牙利自动望远镜网络计划](../Page/匈牙利自动望远镜网络计划.md "wikilink")（HATNet Project, HAT）
 
 ## 參考資料
 
 ## 外部連結
 
   - [The XO Project website](http://www-int.stsci.edu/~pmcc/xo/)
-  - [Astronomers Catch Planet By Unusual
-    Means](http://www.spacedaily.com/reports/Astronomers_Catch_Planet_By_Unusual_Means.html)
-    (SpaceDaily) May 19, 2006
+  - [Astronomers Catch Planet By Unusual Means](http://www.spacedaily.com/reports/Astronomers_Catch_Planet_By_Unusual_Means.html) (SpaceDaily) May 19, 2006
 
-[Category:望遠鏡](https://zh.wikipedia.org/wiki/Category:望遠鏡 "wikilink")
-[Category:系外行星巡天項目](https://zh.wikipedia.org/wiki/Category:系外行星巡天項目 "wikilink")
+[Category:望遠鏡](https://zh.wikipedia.org/wiki/Category:望遠鏡 "wikilink") [Category:系外行星巡天項目](https://zh.wikipedia.org/wiki/Category:系外行星巡天項目 "wikilink")
 
 1.
 2.

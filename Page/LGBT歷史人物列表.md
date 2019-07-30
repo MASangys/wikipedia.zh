@@ -1,10 +1,8 @@
-[Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples.jpg](https://zh.wikipedia.org/wiki/File:Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples.jpg "fig:Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples.jpg")與波斯王[大流士三世戰鬥](../Page/大流士三世.md "wikilink")\]\]
-[Marble_Busts_of_Hadrian_&_Antinous,_from_Rome,_Roman_Empire,_British_Museum_(8131842911).jpg](https://zh.wikipedia.org/wiki/File:Marble_Busts_of_Hadrian_&_Antinous,_from_Rome,_Roman_Empire,_British_Museum_\(8131842911\).jpg "fig:Marble_Busts_of_Hadrian_&_Antinous,_from_Rome,_Roman_Empire,_British_Museum_(8131842911).jpg")皇帝[哈德良和他的情人](../Page/哈德良.md "wikilink")[安提諾烏斯](../Page/安提諾烏斯.md "wikilink")\]\]
-本列表收錄**歷史上的LGBT人物**及其相關歷史事件。很多[文明或](../Page/文明.md "wikilink")[社會都存在過同性別之間的](https://zh.wikipedia.org/wiki/社會 "wikilink")[親密關係](https://zh.wikipedia.org/wiki/親密關係 "wikilink")（包括[變裝在內](../Page/變裝.md "wikilink")）\[1\]\[2\]，而就[靈長目動物和當代](https://zh.wikipedia.org/wiki/靈長目 "wikilink")[原始社會存在同性](https://zh.wikipedia.org/wiki/原始社會 "wikilink")[親密關係的事實來看](https://zh.wikipedia.org/wiki/親密關係 "wikilink")，可以推測從[舊石器時代和](https://zh.wikipedia.org/wiki/舊石器時代 "wikilink")[新石器時代起](https://zh.wikipedia.org/wiki/新石器時代 "wikilink")，同性發生[性關係的現象就存在了](https://zh.wikipedia.org/wiki/性關係 "wikilink")\[3\]\[4\]。有[考古學家對](https://zh.wikipedia.org/wiki/考古學 "wikilink")[西西里島安達拉石洞](https://zh.wikipedia.org/wiki/西西里島 "wikilink")（）遺址雕刻圖案作出的其中一種解釋，是認為當中一幅場景是在描繪兩名男性間的性愛活動\[5\]。
+[Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples.jpg](https://zh.wikipedia.org/wiki/File:Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples.jpg "fig:Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples.jpg")與波斯王[大流士三世](../Page/大流士三世.md "wikilink")戰鬥\]\] [Marble_Busts_of_Hadrian_&_Antinous,_from_Rome,_Roman_Empire,_British_Museum_(8131842911).jpg](https://zh.wikipedia.org/wiki/File:Marble_Busts_of_Hadrian_&_Antinous,_from_Rome,_Roman_Empire,_British_Museum_\(8131842911\).jpg "fig:Marble_Busts_of_Hadrian_&_Antinous,_from_Rome,_Roman_Empire,_British_Museum_(8131842911).jpg")皇帝[哈德良](../Page/哈德良.md "wikilink")和他的情人[安提諾烏斯](../Page/安提諾烏斯.md "wikilink")\]\] 本列表收錄**歷史上的LGBT人物**及其相關歷史事件。很多[文明](../Page/文明.md "wikilink")或[社會都存在過同性別之間的](https://zh.wikipedia.org/wiki/社會 "wikilink")[親密關係](https://zh.wikipedia.org/wiki/親密關係 "wikilink")（包括[變裝](../Page/變裝.md "wikilink")在內）\[1\]\[2\]，而就[靈長目動物和當代](https://zh.wikipedia.org/wiki/靈長目 "wikilink")[原始社會存在同性](https://zh.wikipedia.org/wiki/原始社會 "wikilink")[親密關係的事實來看](https://zh.wikipedia.org/wiki/親密關係 "wikilink")，可以推測從[舊石器時代和](https://zh.wikipedia.org/wiki/舊石器時代 "wikilink")[新石器時代起](https://zh.wikipedia.org/wiki/新石器時代 "wikilink")，同性發生[性關係的現象就存在了](https://zh.wikipedia.org/wiki/性關係 "wikilink")\[3\]\[4\]。有[考古學家對](https://zh.wikipedia.org/wiki/考古學 "wikilink")[西西里島安達拉石洞](https://zh.wikipedia.org/wiki/西西里島 "wikilink")（）遺址雕刻圖案作出的其中一種解釋，是認為當中一幅場景是在描繪兩名男性間的性愛活動\[5\]。
 
-歷史人物是否为[同性戀或](../Page/同性戀.md "wikilink")[雙性戀](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")，時常會是人們爭辯的話題。然而關於这方面的確切資訊卻很少，人们只能利用有限的证据来推斷或[詮釋](https://zh.wikipedia.org/wiki/詮釋學 "wikilink")。列表人物的列名，是以親密情感或性關係來推測，從現代的標準來看不一定會被认为是同性恋或雙性戀\[6\]。親密情感可能是[浪漫友情的展現](https://zh.wikipedia.org/wiki/浪漫友情 "wikilink")，未必涉有[情慾關係](https://zh.wikipedia.org/wiki/情慾 "wikilink")\[7\]\[8\]。性關係的發生不必然表徵[性傾向和情慾品質](https://zh.wikipedia.org/wiki/性傾向 "wikilink")，而可能是迫於生計的[賣淫](https://zh.wikipedia.org/wiki/賣淫 "wikilink")，迎合社會形象成家生子，或[士人表現灑脫風流的一時享受](https://zh.wikipedia.org/wiki/士人 "wikilink")。經驗過同性或異性性行為的歷史人物，並不能確定該個體符合現代觀點下「同性戀」、「雙性戀」的[身份認同](https://zh.wikipedia.org/wiki/身份認同 "wikilink")\[9\]。
+歷史人物是否为[同性戀](../Page/同性戀.md "wikilink")或[雙性戀](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")，時常會是人們爭辯的話題。然而關於这方面的確切資訊卻很少，人们只能利用有限的证据来推斷或[詮釋](https://zh.wikipedia.org/wiki/詮釋學 "wikilink")。列表人物的列名，是以親密情感或性關係來推測，從現代的標準來看不一定會被认为是同性恋或雙性戀\[6\]。親密情感可能是[浪漫友情的展現](https://zh.wikipedia.org/wiki/浪漫友情 "wikilink")，未必涉有[情慾關係](https://zh.wikipedia.org/wiki/情慾 "wikilink")\[7\]\[8\]。性關係的發生不必然表徵[性傾向和情慾品質](https://zh.wikipedia.org/wiki/性傾向 "wikilink")，而可能是迫於生計的[賣淫](https://zh.wikipedia.org/wiki/賣淫 "wikilink")，迎合社會形象成家生子，或[士人表現灑脫風流的一時享受](https://zh.wikipedia.org/wiki/士人 "wikilink")。經驗過同性或異性性行為的歷史人物，並不能確定該個體符合現代觀點下「同性戀」、「雙性戀」的[身份認同](https://zh.wikipedia.org/wiki/身份認同 "wikilink")\[9\]。
 
-不過由於過往歷史對[LGBT](../Page/LGBT.md "wikilink")的形成有所影響，同性情慾和親密友誼，仍是[LGBT歷史的重要面向](../Page/LGBT歷史.md "wikilink")\[10\]。本列表按照時代先後排序，收錄公元1900年前逝世的歷史人物，[二十世紀以及之後的LGBT人物請見](https://zh.wikipedia.org/wiki/二十世紀 "wikilink")[LGBT人物列表](https://zh.wikipedia.org/wiki/LGBT人物列表 "wikilink")。
+不過由於過往歷史對[LGBT](../Page/LGBT.md "wikilink")的形成有所影響，同性情慾和親密友誼，仍是[LGBT歷史](../Page/LGBT歷史.md "wikilink")的重要面向\[10\]。本列表按照時代先後排序，收錄公元1900年前逝世的歷史人物，[二十世紀以及之後的LGBT人物請見](https://zh.wikipedia.org/wiki/二十世紀 "wikilink")[LGBT人物列表](https://zh.wikipedia.org/wiki/LGBT人物列表 "wikilink")。
 
 ## 上古時期（公元前3000年～公元400年）
 
@@ -25,10 +23,10 @@
 <tr class="odd">
 <td><p><a href="../Page/吉爾伽美什.md" title="wikilink">吉爾伽美什</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蘇美爾文明" title="wikilink">蘇美</a><a href="../Page/城邦.md" title="wikilink">城邦國王</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇美爾文明" title="wikilink">蘇美</a><a href="../Page/城邦.md" title="wikilink">城邦</a>國王</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/恩奇杜" title="wikilink">恩奇杜</a></p></td>
 <td></td>
-<td><p><a href="../Page/吉爾伽美什.md" title="wikilink">吉爾伽美什夢見</a><a href="https://zh.wikipedia.org/wiki/恩奇杜" title="wikilink">恩奇杜的到來</a>，把他當作妻子般碰觸和擁抱，最後為他的死悲慟不已<ref></p>
+<td><p><a href="../Page/吉爾伽美什.md" title="wikilink">吉爾伽美什</a>夢見<a href="https://zh.wikipedia.org/wiki/恩奇杜" title="wikilink">恩奇杜的到來</a>，把他當作妻子般碰觸和擁抱，最後為他的死悲慟不已<ref></p>
 <ul>
 <li></li>
 <li></li>
@@ -38,7 +36,7 @@
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="../Page/古埃及.md" title="wikilink">古埃及</a><a href="../Page/王室.md" title="wikilink">王室親信僕役</a></p></td>
+<td><p><a href="../Page/古埃及.md" title="wikilink">古埃及</a><a href="../Page/王室.md" title="wikilink">王室</a>親信僕役</p></td>
 <td></td>
 <td><p>妻：Khenut</p></td>
 <td><p>墓穴壁畫描繪兩人親密相擁的模樣，其名字皆取自造物與陶藝之神<a href="../Page/庫努牡.md" title="wikilink">庫努牡</a>[12][13]</p></td>
@@ -71,7 +69,7 @@
 <td></td>
 <td><p><a href="../Page/以色列王國_(前期).md" title="wikilink">以色列王國國王</a></p></td>
 <td><p><a href="../Page/約拿單.md" title="wikilink">約拿單</a></p></td>
-<td><p>妻：<a href="../Page/拔示巴.md" title="wikilink">拔示巴等人</a></p></td>
+<td><p>妻：<a href="../Page/拔示巴.md" title="wikilink">拔示巴</a>等人</p></td>
 <td><p>心相契合，立約結盟。有別於<a href="https://zh.wikipedia.org/wiki/教會" title="wikilink">教會的傳統詮釋</a>，部份當代學者將兩人理解為愛情關係<ref></p>
 <ul>
 <li></li>
@@ -94,7 +92,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/古希臘" title="wikilink">古希臘</a><a href="../Page/公民.md" title="wikilink">公民</a></p></td>
 <td><p><a href="../Page/哈尔摩狄奥斯和阿里斯托革顿.md" title="wikilink">阿里斯托革頓</a></p></td>
 <td></td>
-<td><p>兩人因反抗<a href="https://zh.wikipedia.org/wiki/專制主義" title="wikilink">專政體制</a>，刺殺<a href="../Page/雅典.md" title="wikilink">雅典</a><a href="../Page/僭主.md" title="wikilink">僭主喜帕恰斯而身亡</a>，成為開創<a href="../Page/雅典式民主.md" title="wikilink">古典民主的精神象徵</a><ref></p>
+<td><p>兩人因反抗<a href="https://zh.wikipedia.org/wiki/專制主義" title="wikilink">專政體制</a>，刺殺<a href="../Page/雅典.md" title="wikilink">雅典</a><a href="../Page/僭主.md" title="wikilink">僭主</a>喜帕恰斯而身亡，成為開創<a href="../Page/雅典式民主.md" title="wikilink">古典民主的精神象徵</a><ref></p>
 <ul>
 <li></li>
 <li><p>or </ref>[20]</p></li>
@@ -106,7 +104,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/古印度" title="wikilink">古印度</a><a href="../Page/僧伽.md" title="wikilink">僧伽</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/釋迦牟尼" title="wikilink">佛陀</a></p></td>
 <td><p>無</p></td>
-<td><p><a href="../Page/比丘.md" title="wikilink">比丘Vakkali愛戀佛陀色身</a>，佛陀開示<a href="https://zh.wikipedia.org/wiki/諸行無常" title="wikilink">諸行無常的道理後</a>，證得<a href="https://zh.wikipedia.org/wiki/阿羅漢" title="wikilink">阿羅漢</a><ref></p>
+<td><p><a href="../Page/比丘.md" title="wikilink">比丘</a>Vakkali愛戀佛陀色身，佛陀開示<a href="https://zh.wikipedia.org/wiki/諸行無常" title="wikilink">諸行無常的道理後</a>，證得<a href="https://zh.wikipedia.org/wiki/阿羅漢" title="wikilink">阿羅漢</a><ref></p>
 <ul>
 <li></li>
 <li><p>or </ref>[21]</p></li>
@@ -129,10 +127,10 @@
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/古希臘" title="wikilink">古希臘</a><a href="../Page/悲劇.md" title="wikilink">悲劇作家</a>、詩人</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/古希臘" title="wikilink">古希臘</a><a href="../Page/悲劇.md" title="wikilink">悲劇</a>作家、詩人</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/阿里斯托芬.md" title="wikilink">阿里斯托芬以</a><a href="https://zh.wikipedia.org/wiki/阿伽頌" title="wikilink">阿伽頌和</a>的愛（），作為找回<a href="https://zh.wikipedia.org/wiki/靈魂伴侶#.E5.93.B2.E5.AD.A6" title="wikilink">靈魂伴侶的典範</a><ref></p>
+<td><p><a href="../Page/阿里斯托芬.md" title="wikilink">阿里斯托芬</a>以<a href="https://zh.wikipedia.org/wiki/阿伽頌" title="wikilink">阿伽頌和</a>的愛（），作為找回<a href="https://zh.wikipedia.org/wiki/靈魂伴侶#.E5.93.B2.E5.AD.A6" title="wikilink">靈魂伴侶的典範</a><ref></p>
 <ul>
 <li></li>
 <li></li>
@@ -166,7 +164,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/古希臘" title="wikilink">古希臘政治家</a>、將軍</p></td>
 <td><p>不明</p></td>
 <td><p>妻名不詳</p></td>
-<td><p><a href="../Page/底比斯圣队.md" title="wikilink">底比斯圣队領袖</a>，<a href="../Page/伊巴密濃達.md" title="wikilink">伊巴密濃達在一場戰役拯救了他</a>，從此成為終生好友[27][28]</p></td>
+<td><p><a href="../Page/底比斯圣队.md" title="wikilink">底比斯圣队</a>領袖，<a href="../Page/伊巴密濃達.md" title="wikilink">伊巴密濃達</a>在一場戰役拯救了他，從此成為終生好友[27][28]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -195,7 +193,7 @@ Caphisodorus</p></td>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="../Page/希臘化時代.md" title="wikilink">希臘化時代哲學家</a></p></td>
+<td><p><a href="../Page/希臘化時代.md" title="wikilink">希臘化時代</a>哲學家</p></td>
 <td><p>Diognis</p></td>
 <td></td>
 <td><p>哲學家<a href="../Page/法勒魯姆的德米特里.md" title="wikilink">德米特里午後漫步時</a>，所有美麗的男孩都聚齊起來，好獲得他的注意[32]</p></td>
@@ -216,7 +214,7 @@ Caphisodorus</p></td>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/維吉爾" title="wikilink">維吉爾</a></p></td>
 <td></td>
-<td><p><a href="../Page/羅馬帝國.md" title="wikilink">羅馬帝國詩人</a></p></td>
+<td><p><a href="../Page/羅馬帝國.md" title="wikilink">羅馬帝國</a>詩人</p></td>
 <td><p>Alexander<br />
 Cebes</p></td>
 <td></td>
@@ -232,7 +230,7 @@ Cebes</p></td>
 <td><p><a href="../Page/羅馬帝國.md" title="wikilink">羅馬軍官</a></p></td>
 <td><p>百夫長的僕人</p></td>
 <td></td>
-<td><p>在<a href="../Page/百夫長.md" title="wikilink">百夫長的請求下</a>，<a href="https://zh.wikipedia.org/wiki/耶穌" title="wikilink">耶穌</a>（paîs）。有人根據paîs一詞為<a href="../Page/古希臘少年愛.md" title="wikilink">少年愛</a>（Ped-erasty）的字首字根，認為羅馬軍官與這位僕人為情人關係<ref></p>
+<td><p>在<a href="../Page/百夫長.md" title="wikilink">百夫長</a>的請求下，<a href="https://zh.wikipedia.org/wiki/耶穌" title="wikilink">耶穌</a>（paîs）。有人根據paîs一詞為<a href="../Page/古希臘少年愛.md" title="wikilink">少年愛</a>（Ped-erasty）的字首字根，認為羅馬軍官與這位僕人為情人關係<ref></p>
 <ul>
 <li></li>
 <li><p></ref>[35]</p></li>
@@ -244,15 +242,15 @@ Cebes</p></td>
 <td><p><a href="../Page/羅馬帝國.md" title="wikilink">羅馬帝國</a><a href="../Page/皇帝.md" title="wikilink">皇帝</a></p></td>
 <td><p>宮廷僕役</p></td>
 <td><p>妻：<a href="https://zh.wikipedia.org/wiki/普羅蒂娜" title="wikilink">普羅蒂娜</a></p></td>
-<td><p><a href="../Page/羅馬帝國.md" title="wikilink">羅馬帝國皇帝</a><a href="https://zh.wikipedia.org/wiki/五賢帝" title="wikilink">五賢帝之一</a><a href="../Page/圖拉真.md" title="wikilink">圖拉真熱愛美酒和年輕男孩</a>[36][37]</p></td>
+<td><p><a href="../Page/羅馬帝國.md" title="wikilink">羅馬帝國</a>皇帝<a href="https://zh.wikipedia.org/wiki/五賢帝" title="wikilink">五賢帝之一</a><a href="../Page/圖拉真.md" title="wikilink">圖拉真</a>熱愛美酒和年輕男孩[36][37]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="../Page/羅馬帝國.md" title="wikilink">羅馬帝國皇室隨從</a></p></td>
+<td><p><a href="../Page/羅馬帝國.md" title="wikilink">羅馬帝國</a>皇室隨從</p></td>
 <td><p><a href="../Page/哈德良.md" title="wikilink">哈德良</a></p></td>
 <td></td>
-<td><p>出身於<a href="../Page/比提尼亞.md" title="wikilink">比提尼亞的</a><a href="../Page/安提諾烏斯.md" title="wikilink">安提諾烏斯為</a><a href="../Page/羅馬帝國.md" title="wikilink">羅馬</a><a href="../Page/皇帝.md" title="wikilink">皇帝</a><a href="../Page/哈德良.md" title="wikilink">哈德良的情人</a>，死後哈德良為他立下多座神殿祭祀[38][39]</p></td>
+<td><p>出身於<a href="../Page/比提尼亞.md" title="wikilink">比提尼亞</a>的<a href="../Page/安提諾烏斯.md" title="wikilink">安提諾烏斯</a>為<a href="../Page/羅馬帝國.md" title="wikilink">羅馬</a><a href="../Page/皇帝.md" title="wikilink">皇帝</a><a href="../Page/哈德良.md" title="wikilink">哈德良</a>的情人，死後哈德良為他立下多座神殿祭祀[38][39]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -262,7 +260,7 @@ Cebes</p></td>
 Zoticus</p></td>
 <td><p>妻：相繼離婚<br />
 夫：同左</p></td>
-<td><p>慣於<a href="../Page/變裝.md" title="wikilink">變裝為女性的</a><a href="../Page/埃拉伽巴路斯.md" title="wikilink">埃拉伽巴路斯</a>「嫁」給為奴隸身份的馬車夫Hierocles和健美運動員Aurelius Zoticus<ref></p>
+<td><p>慣於<a href="../Page/變裝.md" title="wikilink">變裝</a>為女性的<a href="../Page/埃拉伽巴路斯.md" title="wikilink">埃拉伽巴路斯</a>「嫁」給為奴隸身份的馬車夫Hierocles和健美運動員Aurelius Zoticus<ref></p>
 <ul>
 <li><a href="../Page/卡西乌斯·狄奥.md" title="wikilink">卡西乌斯·狄奥</a>《[<a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/80">http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/80</a>*.html Roman History]》：The husband of this "woman" was Hierocles, a Carian slave, once the favourite of Gordius, from whom he had learned to drive a chariot. It was in this connexion that he won the emperor's favour by a most remarkable chance....Aurelius Zoticus, a native of Smyrna, whom they also called "Cook," after his father's trade, incurred the emperor's thorough love and thorough hatred, and for the latter reason his life was saved. This Aurelius not only had a body that was beautiful all over, seeing that he was an athlete, but in particular he greatly surpassed all others in the size of his private parts.<br />
 </li>
@@ -272,10 +270,10 @@ Zoticus</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/謝爾吉" title="wikilink">謝爾吉</a></p></td>
 <td></td>
-<td><p><a href="../Page/羅馬帝國.md" title="wikilink">羅馬帝國軍官</a></p></td>
+<td><p><a href="../Page/羅馬帝國.md" title="wikilink">羅馬帝國</a>軍官</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴克斯" title="wikilink">巴克斯</a></p></td>
 <td></td>
-<td><p>兩人因<a href="../Page/殉教.md" title="wikilink">殉教而為</a><a href="../Page/天主教.md" title="wikilink">天主教與</a><a href="https://zh.wikipedia.org/wiki/東正教會" title="wikilink">東正教會封為</a><a href="https://zh.wikipedia.org/wiki/基督教聖徒" title="wikilink">基督教聖徒</a>，主張的情感為愛情關係[41][42]</p></td>
+<td><p>兩人因<a href="../Page/殉教.md" title="wikilink">殉教</a>而為<a href="../Page/天主教.md" title="wikilink">天主教</a>與<a href="https://zh.wikipedia.org/wiki/東正教會" title="wikilink">東正教會封為</a><a href="https://zh.wikipedia.org/wiki/基督教聖徒" title="wikilink">基督教聖徒</a>，主張的情感為愛情關係[41][42]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -316,7 +314,7 @@ Zoticus</p></td>
 <td><p><a href="../Page/春秋时期.md" title="wikilink">春秋</a><a href="https://zh.wikipedia.org/wiki/齊國" title="wikilink">齊國</a><a href="https://zh.wikipedia.org/wiki/官吏" title="wikilink">官吏</a></p></td>
 <td><p><a href="../Page/齊景公.md" title="wikilink">齊景公</a></p></td>
 <td></td>
-<td><p><a href="../Page/齊景公.md" title="wikilink">齊景公因其羽人以色僭視</a>，-{欲}-殺之。<a href="https://zh.wikipedia.org/wiki/晏子" title="wikilink">晏子以為於法不宜殺</a>，於是景公安排羽人在沐浴時搓背[43][44]</p></td>
+<td><p><a href="../Page/齊景公.md" title="wikilink">齊景公</a>因其羽人以色僭視，-{欲}-殺之。<a href="https://zh.wikipedia.org/wiki/晏子" title="wikilink">晏子以為於法不宜殺</a>，於是景公安排羽人在沐浴時搓背[43][44]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/衛靈公.md" title="wikilink">衛靈公</a></p></td>
@@ -351,7 +349,7 @@ Zoticus</p></td>
 <td><p><a href="../Page/戰國.md" title="wikilink">戰國</a><a href="https://zh.wikipedia.org/wiki/楚國" title="wikilink">楚國</a><a href="../Page/貴族.md" title="wikilink">貴族</a></p></td>
 <td><p><a href="../Page/楚宣王.md" title="wikilink">楚宣王</a></p></td>
 <td></td>
-<td><p>得幸於<a href="../Page/楚宣王.md" title="wikilink">楚宣王的安陵君從江乙之計謀</a>，趁楚王笑懷之時，表達願意<a href="../Page/殉葬.md" title="wikilink">殉葬的意願</a>，得到楚王賞賜封君<ref></p>
+<td><p>得幸於<a href="../Page/楚宣王.md" title="wikilink">楚宣王</a>的安陵君從江乙之計謀，趁楚王笑懷之時，表達願意<a href="../Page/殉葬.md" title="wikilink">殉葬</a>的意願，得到楚王賞賜封君<ref></p>
 <ul>
 <li>《<a href="../Page/戰國策.md" title="wikilink">戰國策</a>·楚策》：江乙曰：「以財交者，財盡而交絕；以色交者，華落而愛渝。是以嬖女不敝席，寵臣不避軒。今君擅楚國之勢，而無以深自結於王，竊為君危之。」...於是，楚王游於雲夢，結駟千乘，旌旗蔽日，野火之起也若雲蜺，兕虎嗥之聲若雷霆，有狂兕浲車依輪而至，王親引弓而射，壹發而殪。王抽旃旄而抑兕首，仰天而笑曰：「樂矣，今日之游也。寡人萬歲千秋之後，誰與樂此矣？」安陵君泣數行而進曰：「臣入則編席，出則陪乘。大王萬歲千秋之後，願得以身試黃泉，蓐螻蟻，又何如得此樂而樂之。」王大說，乃封壇為安陵君。</li>
 <li>《<a href="https://zh.wikipedia.org/wiki/說苑" title="wikilink">說苑</a>·權謀》：安陵纏以顏色美壯，得幸於楚共王。江乙往見安陵纏，曰：「子之先人豈有矢石之功於王乎？」曰：「無有。」江乙曰：「子之身豈亦有乎？」曰：「無有。」江乙曰：「子之貴何以至於此乎？」曰：「僕不知所以。」江乙曰：「吾聞之，以財事人者，財盡而交疏；以色事人者，華落而愛衰。今子之華，有時而落，子何以長幸無解於王乎？」安陵纏曰：「臣年少愚陋，願委智於先生。」江乙曰：「獨從為殉可耳。」安陵纏曰：「敬聞命矣！」江乙去。居朞年，逢安陵纏，謂曰：「前日所諭子者，通於王乎？」曰：「未可也。」居朞年。江乙復見安陵纏曰：「子豈諭王乎？」安陵纏曰：「臣未得王之間也。」江乙曰：「子出與王同車，入與王同坐。居三年，言未得王之間，子以吾之說未可耳。」不悅而去。其年，共王獵江渚之野，野火之起若雲蜺，虎狼之嗥若雷霆。有狂兕從南方來，正觸王左驂，王舉旌旄，而使善射者射之，一發，兕死車下，王大喜，拊手而笑，顧謂安陵纏曰：「吾萬歲之後，子將誰與斯樂乎？」安陵纏乃逡巡而卻，泣下沾衿，抱王曰：「萬歲之後，臣將從為殉，安知樂此者誰？」於是共王乃封安陵纏於車下三百戶。故曰：「江乙善謀，安陵纏知時。」</li>
@@ -364,7 +362,7 @@ Zoticus</p></td>
 <td><p><a href="../Page/戰國.md" title="wikilink">戰國</a><a href="https://zh.wikipedia.org/wiki/楚國" title="wikilink">楚國</a><a href="https://zh.wikipedia.org/wiki/公子" title="wikilink">公子</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/越人" title="wikilink">越人舟子</a></p></td>
 <td></td>
-<td><p>越人操舟而歌，向鄂君傳情，鄂君聽畢<a href="https://zh.wikipedia.org/wiki/通譯" title="wikilink">通譯所譯</a><a href="../Page/越人歌.md" title="wikilink">越人歌後</a>，向前擁抱，舉繡被而覆之<ref></p>
+<td><p>越人操舟而歌，向鄂君傳情，鄂君聽畢<a href="https://zh.wikipedia.org/wiki/通譯" title="wikilink">通譯所譯</a><a href="../Page/越人歌.md" title="wikilink">越人歌</a>後，向前擁抱，舉繡被而覆之<ref></p>
 <ul>
 <li>《<a href="https://zh.wikipedia.org/wiki/說苑" title="wikilink">說苑</a>·善說》：越人擁楫而歌，歌辭曰：『濫兮抃草濫予昌枑澤予昌州州𩜱州焉乎秦胥胥縵予乎昭澶秦踰滲惿隨河湖。』鄂君子皙曰：『吾不知越歌，子試為我楚說之。』於是乃召越譯，乃楚說之曰：『今夕何夕搴中洲流，今日何日兮，得與王子同舟。蒙羞被好兮，不訾詬恥，心幾頑而不絕兮，知得王子。山有木兮木有枝，心說君兮君不知。』於是鄂君子皙乃㩉脩袂，行而擁之，舉繡被而覆之。</li>
 <li>《<a href="https://zh.wikipedia.org/wiki/藝文類聚" title="wikilink">藝文類聚</a>·寵幸》：梁吳筠詠少年詩曰董生唯巧笑，子都信美目，百萬市一言，千金買相逐，不道參差菜，誰論窈窕淑，願君捧繡被，來就越人宿。</ref>[48]</li>
@@ -451,7 +449,7 @@ Zoticus</p></td>
 <tr class="odd">
 <td><p>潘章</p></td>
 <td></td>
-<td><p><a href="../Page/孫吳.md" title="wikilink">孫吳書生</a></p></td>
+<td><p><a href="../Page/孫吳.md" title="wikilink">孫吳</a>書生</p></td>
 <td><p>王仲先</p></td>
 <td><p>同左</p></td>
 <td><p><a href="../Page/三楚.md" title="wikilink">楚國王仲先</a>，慕潘章之名，來求為友。兩人一見相愛，情若夫婦。死後合葬於羅浮山，墓冢生共枕樹<ref></p>
@@ -468,7 +466,7 @@ Zoticus</p></td>
 <td><p><a href="../Page/慕容沖.md" title="wikilink">慕容沖</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/苟皇后" title="wikilink">苟皇后</a><br />
 <a href="https://zh.wikipedia.org/wiki/清河公主_(前燕)" title="wikilink">清河公主</a></p></td>
-<td><p><a href="../Page/慕容沖.md" title="wikilink">慕容沖有龍陽之姿</a>，為<a href="https://zh.wikipedia.org/wiki/苻堅" title="wikilink">苻堅所寵幸</a>[58]</p></td>
+<td><p><a href="../Page/慕容沖.md" title="wikilink">慕容沖</a>有龍陽之姿，為<a href="https://zh.wikipedia.org/wiki/苻堅" title="wikilink">苻堅所寵幸</a>[58]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -514,14 +512,14 @@ Zoticus</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東晉" title="wikilink">東晉政治人物</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/丁期" title="wikilink">丁期</a></p></td>
-<td><p><a href="../Page/情史.md" title="wikilink">情史情外類</a>，記載丁期婉孌，有容采，為<a href="../Page/桓楚.md" title="wikilink">桓楚國君王桓玄所寵嬖</a>[59]</p></td>
+<td><p><a href="../Page/情史.md" title="wikilink">情史</a>情外類，記載丁期婉孌，有容采，為<a href="../Page/桓楚.md" title="wikilink">桓楚</a>國君王桓玄所寵嬖[59]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/王僧達.md" title="wikilink">王僧達</a></p></td>
 <td><p>423–458</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劉宋" title="wikilink">劉宋政治人物</a></p></td>
 <td><p>王確</p></td>
-<td><p><a href="../Page/情史.md" title="wikilink">情史情外類</a>，記載<a href="../Page/王僧達.md" title="wikilink">王僧達族子王確少美姿容</a>，僧達與之私款甚昵[60]</p></td>
+<td><p><a href="../Page/情史.md" title="wikilink">情史</a>情外類，記載<a href="../Page/王僧達.md" title="wikilink">王僧達</a>族子王確少美姿容，僧達與之私款甚昵[60]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/沈約" title="wikilink">沈約</a></p></td>
@@ -535,28 +533,28 @@ Zoticus</p></td>
 <td><p>494–532</p></td>
 <td><p><a href="../Page/北魏.md" title="wikilink">北魏</a><a href="../Page/王室.md" title="wikilink">王室</a></p></td>
 <td></td>
-<td><p>史書記載，<a href="../Page/元悦.md" title="wikilink">元悦為</a><a href="https://zh.wikipedia.org/wiki/北魏孝文帝" title="wikilink">北魏孝文帝之子</a>，受封汝南王，絕房中而更好男色[62]</p></td>
+<td><p>史書記載，<a href="../Page/元悦.md" title="wikilink">元悦</a>為<a href="https://zh.wikipedia.org/wiki/北魏孝文帝" title="wikilink">北魏孝文帝之子</a>，受封汝南王，絕房中而更好男色[62]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/陳蒨" title="wikilink">陳蒨</a>（陳文帝）（有争议）</p></td>
 <td><p>522–566</p></td>
 <td><p><a href="../Page/陳_(南朝).md" title="wikilink">南陳</a><a href="https://zh.wikipedia.org/wiki/中國皇帝" title="wikilink">君王</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/韓子高" title="wikilink">韓子高</a></p></td>
-<td><p><a href="../Page/情史.md" title="wikilink">情史情外類</a>，記載<a href="https://zh.wikipedia.org/wiki/韓子高" title="wikilink">韓子高容貌豔麗</a>，離亂當中得寵於陳蒨，屢立戰功，拜爵封將[63]</p></td>
+<td><p><a href="../Page/情史.md" title="wikilink">情史</a>情外類，記載<a href="https://zh.wikipedia.org/wiki/韓子高" title="wikilink">韓子高容貌豔麗</a>，離亂當中得寵於陳蒨，屢立戰功，拜爵封將[63]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/庾信.md" title="wikilink">庾信</a></p></td>
 <td><p>513–581</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南北朝" title="wikilink">南北朝詩人</a>、作家</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蕭韶" title="wikilink">蕭韶</a></p></td>
-<td><p><a href="../Page/情史.md" title="wikilink">情史情外類</a>，記載<a href="../Page/庾信.md" title="wikilink">庾信曾與</a><a href="https://zh.wikipedia.org/wiki/南梁" title="wikilink">南梁宗室</a><a href="https://zh.wikipedia.org/wiki/蕭韶" title="wikilink">蕭韶有斷袖之歡</a>[64]</p></td>
+<td><p><a href="../Page/情史.md" title="wikilink">情史</a>情外類，記載<a href="../Page/庾信.md" title="wikilink">庾信</a>曾與<a href="https://zh.wikipedia.org/wiki/南梁" title="wikilink">南梁宗室</a><a href="https://zh.wikipedia.org/wiki/蕭韶" title="wikilink">蕭韶有斷袖之歡</a>[64]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李承乾.md" title="wikilink">李承-{乾}-</a></p></td>
 <td><p>618–645</p></td>
 <td><p><a href="../Page/唐太宗.md" title="wikilink">唐太宗</a><a href="https://zh.wikipedia.org/wiki/太子" title="wikilink">太子</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/稱心" title="wikilink">稱心</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/資治通鑑" title="wikilink">資治通鑑記載</a><a href="../Page/李承乾.md" title="wikilink">李承-{乾}-所寵愛的樂童稱心遭</a><a href="../Page/唐太宗.md" title="wikilink">唐太宗處死</a>， 太子思念流涕不已[65]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/資治通鑑" title="wikilink">資治通鑑記載</a><a href="../Page/李承乾.md" title="wikilink">李承-{乾}-所寵愛的樂童稱心遭</a><a href="../Page/唐太宗.md" title="wikilink">唐太宗</a>處死， 太子思念流涕不已[65]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/章怀太子" title="wikilink">李贤</a></p></td>
@@ -575,7 +573,7 @@ Zoticus</p></td>
 <tr class="even">
 <td><p><a href="../Page/阿布·努瓦斯.md" title="wikilink">阿布·努瓦斯</a></p></td>
 <td><p>756–814</p></td>
-<td><p><a href="../Page/阿拔斯王朝.md" title="wikilink">阿拔斯王朝詩人</a></p></td>
+<td><p><a href="../Page/阿拔斯王朝.md" title="wikilink">阿拔斯王朝</a>詩人</p></td>
 <td></td>
 <td><p>主張充分享受現實人生的歡樂，反對宗教禁慾和苦行，寫了很多情詩給年輕男子[68][69]</p></td>
 </tr>
@@ -641,7 +639,7 @@ Zoticus</p></td>
 <td><p>1330－1374</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高麗國" title="wikilink">高麗國國王</a></p></td>
 <td><p>等成員</p></td>
-<td><p><a href="../Page/高麗史.md" title="wikilink">高麗史記載</a><a href="https://zh.wikipedia.org/wiki/高麗國" title="wikilink">高麗國第三十一位國王</a><a href="https://zh.wikipedia.org/wiki/恭愍王" title="wikilink">恭愍王和</a>成員的性關係[81][82]</p></td>
+<td><p><a href="../Page/高麗史.md" title="wikilink">高麗史</a>記載<a href="https://zh.wikipedia.org/wiki/高麗國" title="wikilink">高麗國第三十一位國王</a><a href="https://zh.wikipedia.org/wiki/恭愍王" title="wikilink">恭愍王和</a>成員的性關係[81][82]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -699,7 +697,7 @@ Zoticus</p></td>
 <td></td>
 <td><p>君主</p></td>
 <td><p><a href="../Page/楊芝.md" title="wikilink">楊芝</a> 、俊美<a href="../Page/宦官.md" title="wikilink">宦官</a>（稱之為老兒當）等</p></td>
-<td><p>中國<a href="../Page/明朝.md" title="wikilink">明朝皇帝</a>[88]</p></td>
+<td><p>中國<a href="../Page/明朝.md" title="wikilink">明朝</a>皇帝[88]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -779,7 +777,7 @@ Zoticus</p></td>
 <td><p>1539—1599</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/日本戰國時代" title="wikilink">日本戰國時代武將</a></p></td>
 <td><p><a href="../Page/織田信長.md" title="wikilink">織田信長</a></p></td>
-<td><p>在利家夜話中曾記載了他和<a href="../Page/織田信長.md" title="wikilink">織田信長的不尋常關係</a>[97]</p></td>
+<td><p>在利家夜話中曾記載了他和<a href="../Page/織田信長.md" title="wikilink">織田信長</a>的不尋常關係[97]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/周汝礪.md" title="wikilink">周汝礪</a></p></td>
@@ -856,12 +854,12 @@ Zoticus</p></td>
 <td><p>c. 1622</p></td>
 <td><p>中國明朝官吏</p></td>
 <td><p>小徐</p></td>
-<td><p><a href="../Page/情史.md" title="wikilink">情史記載俞琬綸</a><a href="https://zh.wikipedia.org/wiki/進士" title="wikilink">進士好龍陽</a></p></td>
+<td><p><a href="../Page/情史.md" title="wikilink">情史</a>記載俞琬綸<a href="https://zh.wikipedia.org/wiki/進士" title="wikilink">進士好龍陽</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>1585－1659</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日本戰國時代" title="wikilink">日本戰國時代</a><a href="https://zh.wikipedia.org/wiki/仙台" title="wikilink">仙台藩</a><a href="../Page/伊達氏.md" title="wikilink">伊達氏家臣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本戰國時代" title="wikilink">日本戰國時代</a><a href="https://zh.wikipedia.org/wiki/仙台" title="wikilink">仙台藩</a><a href="../Page/伊達氏.md" title="wikilink">伊達氏</a>家臣</p></td>
 <td><p><a href="../Page/小早川秀秋.md" title="wikilink">小早川秀秋</a>、<a href="../Page/伊達政宗.md" title="wikilink">伊達政宗</a></p></td>
 <td><p>[106]</p></td>
 </tr>
@@ -905,7 +903,7 @@ Zoticus</p></td>
 <td></td>
 <td><p>政治家、海盜</p></td>
 <td></td>
-<td><p>中國<a href="https://zh.wikipedia.org/wiki/明末" title="wikilink">明末清初人士</a>，<a href="../Page/鄭成功.md" title="wikilink">鄭成功之父</a>[112]</p></td>
+<td><p>中國<a href="https://zh.wikipedia.org/wiki/明末" title="wikilink">明末清初人士</a>，<a href="../Page/鄭成功.md" title="wikilink">鄭成功</a>之父[112]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/明熹宗.md" title="wikilink">明熹宗</a></p></td>
@@ -919,7 +917,7 @@ Zoticus</p></td>
 <td></td>
 <td><p>君主</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李二哇" title="wikilink">李二哇</a></p></td>
-<td><p><a href="../Page/中國.md" title="wikilink">中國</a><a href="https://zh.wikipedia.org/wiki/明末" title="wikilink">明末清初</a><a href="../Page/大西.md" title="wikilink">大西皇帝</a>[113]</p></td>
+<td><p><a href="../Page/中國.md" title="wikilink">中國</a><a href="https://zh.wikipedia.org/wiki/明末" title="wikilink">明末清初</a><a href="../Page/大西.md" title="wikilink">大西</a>皇帝[113]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/林嗣環" title="wikilink">林嗣環</a></p></td>
@@ -1010,7 +1008,7 @@ Zoticus</p></td>
 <tr class="even">
 <td></td>
 <td><p>1671年—1737年</p></td>
-<td><p>義大利<a href="https://zh.wikipedia.org/wiki/托斯卡尼" title="wikilink">托斯卡尼末代</a><a href="../Page/美第奇家族.md" title="wikilink">美第奇家族大公</a></p></td>
+<td><p>義大利<a href="https://zh.wikipedia.org/wiki/托斯卡尼" title="wikilink">托斯卡尼末代</a><a href="../Page/美第奇家族.md" title="wikilink">美第奇家族</a>大公</p></td>
 <td></td>
 <td><p>[122]</p></td>
 </tr>
@@ -1026,7 +1024,7 @@ Zoticus</p></td>
 <td></td>
 <td><p>文學家</p></td>
 <td></td>
-<td><p>中國<a href="../Page/清朝.md" title="wikilink">清朝文人</a>，又稱鄭板橋，著名的<a href="https://zh.wikipedia.org/wiki/揚州八怪" title="wikilink">揚州八怪之一</a>[124]</p></td>
+<td><p>中國<a href="../Page/清朝.md" title="wikilink">清朝</a>文人，又稱鄭板橋，著名的<a href="https://zh.wikipedia.org/wiki/揚州八怪" title="wikilink">揚州八怪之一</a>[124]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1112,7 +1110,7 @@ Zoticus</p></td>
 <td></td>
 <td><p>演員</p></td>
 <td></td>
-<td><p>中國清朝戲曲演員，與狀元<a href="../Page/莊培因.md" title="wikilink">莊培因關係密切</a>[131]</p></td>
+<td><p>中國清朝戲曲演員，與狀元<a href="../Page/莊培因.md" title="wikilink">莊培因</a>關係密切[131]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李桂官" title="wikilink">李桂官</a></p></td>
@@ -1329,21 +1327,12 @@ Zoticus</p></td>
   - [glbtq Encyclopedia](http://www.glbtq.com/)
   - [Queers in History](http://queerhistory.blogspot.tw/)
   - [Famous Queers of History](http://famousqueersofhistory.weebly.com/)
-  - [Gay History & Literature - The Great Queers of
-    History](http://rictornorton.co.uk/queens.htm)
-  - [Ryan Grant Longs History of Gay
-    Love](http://www.advocate.com/arts-entertainment/artist-spotlight/2012/08/11/ryan-grant-longs-history-gay-love)
-  - [Same-Sex Unions throughout Time A History of Gay
-    Marriage](http://www.randomhistory.com/history-of-gay-marriage.html)
-  - [A History fo Same Sex
-    Marriage](http://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=2503&context=fss_papers)
+  - [Gay History & Literature - The Great Queers of History](http://rictornorton.co.uk/queens.htm)
+  - [Ryan Grant Longs History of Gay Love](http://www.advocate.com/arts-entertainment/artist-spotlight/2012/08/11/ryan-grant-longs-history-gay-love)
+  - [Same-Sex Unions throughout Time A History of Gay Marriage](http://www.randomhistory.com/history-of-gay-marriage.html)
+  - [A History fo Same Sex Marriage](http://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=2503&context=fss_papers)
 
-[Category:LGBT人物](https://zh.wikipedia.org/wiki/Category:LGBT人物 "wikilink")
-[Category:人物列表](https://zh.wikipedia.org/wiki/Category:人物列表 "wikilink")
-[Category:同性戀](https://zh.wikipedia.org/wiki/Category:同性戀 "wikilink")
-[Category:雙性戀](https://zh.wikipedia.org/wiki/Category:雙性戀 "wikilink")
-[Category:LGBT相關列表](https://zh.wikipedia.org/wiki/Category:LGBT相關列表 "wikilink")
-[Category:LGBT歷史](https://zh.wikipedia.org/wiki/Category:LGBT歷史 "wikilink")
+[Category:LGBT人物](https://zh.wikipedia.org/wiki/Category:LGBT人物 "wikilink") [Category:人物列表](https://zh.wikipedia.org/wiki/Category:人物列表 "wikilink") [Category:同性戀](https://zh.wikipedia.org/wiki/Category:同性戀 "wikilink") [Category:雙性戀](https://zh.wikipedia.org/wiki/Category:雙性戀 "wikilink") [Category:LGBT相關列表](https://zh.wikipedia.org/wiki/Category:LGBT相關列表 "wikilink") [Category:LGBT歷史](https://zh.wikipedia.org/wiki/Category:LGBT歷史 "wikilink")
 
 1.
 
@@ -1415,23 +1404,11 @@ Zoticus</p></td>
 34.
 35.
 
-36. [卡西乌斯·狄奥](../Page/卡西乌斯·狄奥.md "wikilink")《\[<http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/68>\*.html
-    Roman History\]》：I know, of course, that he was devoted to boys and
-    to wine, but if he had ever committed or endured any base or wicked
-    deed as the result of this, he would have incurred censure; as it
-    was, however, he drank all the wine he wanted, yet remained sober,
-    and in his relation with boys he harmed no one.
+36. [卡西乌斯·狄奥](../Page/卡西乌斯·狄奥.md "wikilink")《\[<http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/68>\*.html Roman History\]》：I know, of course, that he was devoted to boys and to wine, but if he had ever committed or endured any base or wicked deed as the result of this, he would have incurred censure; as it was, however, he drank all the wine he wanted, yet remained sober, and in his relation with boys he harmed no one.
 
 37.
 
-38. [卡西乌斯·狄奥](../Page/卡西乌斯·狄奥.md "wikilink")《\[<http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69>\*.html
-    Roman History\]》：Antinous was from Bithynium, a city of Bithynia,
-    which we also call Claudiopolis; he had been a favourite of the
-    emperor and had died in Egypt... Finally, he declared that he had
-    seen a star which he took to be that of Antinous, and gladly lent an
-    ear to the fictitious tales woven by his associates to the effect
-    that the star had really come into being from the spirit of Antinous
-    and had then appeared for the first time.
+38. [卡西乌斯·狄奥](../Page/卡西乌斯·狄奥.md "wikilink")《\[<http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69>\*.html Roman History\]》：Antinous was from Bithynium, a city of Bithynia, which we also call Claudiopolis; he had been a favourite of the emperor and had died in Egypt... Finally, he declared that he had seen a star which he took to be that of Antinous, and gladly lent an ear to the fictitious tales woven by his associates to the effect that the star had really come into being from the spirit of Antinous and had then appeared for the first time.
 
 39.
 
@@ -1497,9 +1474,7 @@ Zoticus</p></td>
 
 77.
 
-78. [Edward II](http://www.glbtq.com/social-sciences/edward_II.html)  on
-    [glbtq.com](https://zh.wikipedia.org/wiki/glbtq.com "wikilink").
-    Retrieved 1 November 2006.
+78. [Edward II](http://www.glbtq.com/social-sciences/edward_II.html)  on [glbtq.com](https://zh.wikipedia.org/wiki/glbtq.com "wikilink"). Retrieved 1 November 2006.
 
 79.
 
@@ -1517,14 +1492,12 @@ Zoticus</p></td>
 
 86.
 
-87. "MICHELANGELO BUONARROTI" by Giovanni Dall'Orto Babilonia n. 85,
-    January 1991, pp. 14–16
+87. "MICHELANGELO BUONARROTI" by Giovanni Dall'Orto Babilonia n. 85, January 1991, pp. 14–16
 
 88. 徐充《曖姝由筆》卷三：「正德初內臣最寵狎者入老兒當，猶等輩也，然實不計老少，惟寵狎是尊。余近訪知老兒當皆選年少俊秀內臣為之，豈閎孺、籍孺之類歟？」
     沈德符，《萬曆野獲篇‧補遺卷一‧老兒當》：「武宗初年，選內臣俊美者以充寵倖，名曰「老兒當」，猶-{云}-等輩也。時皆用年少者，而曰老兒，蓋反言之。」
 
-89. Norton, Rictor (ed.) My Dear Boy:Gay Love Letters through the
-    Centuries. Leyland Publications, San Francisco. 1998
+89. Norton, Rictor (ed.) My Dear Boy:Gay Love Letters through the Centuries. Leyland Publications, San Francisco. 1998
 
 90.
 
@@ -1544,8 +1517,7 @@ Zoticus</p></td>
 
 98. 沈德符，《萬曆野獲篇‧周解元淳樸》：「周用齋汝礪，吳之崑山人，文名籍甚。館於湖州南潯董宗伯家，賦性朴茂，幼無二色。在塾稍久，輒告歸。主人知其不堪寂寞，又不敢強留，微及龍陽子都之說，即恚怒變色，謂此禽獸盜丐所為，蓋平生未解男色也。主人素稔其憨，乃令童子善淫者，乘醉納其莖。夢中不覺，歡恰驚醒，其意愈嬲之不休，益暢適稱快。密問童子，知出主人意，乃大呼曰：「龍山真聖人！」數十聲不絕。明日其事傳佈。遠近怪笑。龍山為主人別號。自是遂溺於男寵，不問妍媸，必求通體。其後舉丁丑進士，竟以好外羸憊而歿。」
 
-99. 沈德符，《萬曆野獲篇‧項四郎》：「今上乙酉歲，有浙東人項四郎名一元者，挾貲游太學，年少美丰標。時吳興臧顧渚懋循為南監博士，與之狎。同里兵部郎吳涌瀾仕詮，亦朝夕過從，歡謔無間。臧早登第負雋聲，每入成均署，至懸球子於輿後，或時潛入曲中宴飲……
-    南中人為之語曰：『誘童亦不妨，但莫近項郎。一壞兵部吳，再廢國博臧。』」
+99. 沈德符，《萬曆野獲篇‧項四郎》：「今上乙酉歲，有浙東人項四郎名一元者，挾貲游太學，年少美丰標。時吳興臧顧渚懋循為南監博士，與之狎。同里兵部郎吳涌瀾仕詮，亦朝夕過從，歡謔無間。臧早登第負雋聲，每入成均署，至懸球子於輿後，或時潛入曲中宴飲…… 南中人為之語曰：『誘童亦不妨，但莫近項郎。一壞兵部吳，再廢國博臧。』」
 
 100. 沈德符，《萬曆野獲篇‧卷二十一‧十俊》：「今上壬午癸未以後，選垂髫內臣之慧且麗者十餘曹，給事御前，或承恩與上同臥起，內廷皆目之為十俊……其時又有一緹師，為穆廟初元元宰之曾孫，年少美風姿，扈上駕幸天壽山，中途遞頓，亦荷董聖卿之寵，每為同官訕笑，輒漸恧避去。」
 
@@ -1565,8 +1537,7 @@ Zoticus</p></td>
 
 108. 張岱，《陶庵夢憶》
 
-109. Bray, Alan, *Homosexuality in Renaissance England*, (Gay Men's
-     Press, London 1982).
+109. Bray, Alan, *Homosexuality in Renaissance England*, (Gay Men's Press, London 1982).
 
 110.
 
@@ -1584,9 +1555,7 @@ Zoticus</p></td>
 117.
 118.
 
-119. [Aphra Behn](http://www.glbtq.com/literature/behn_a.html)  on
-     [glbtq.com](https://zh.wikipedia.org/wiki/glbtq.com "wikilink").
-     Retrieved 12 November 2006.
+119. [Aphra Behn](http://www.glbtq.com/literature/behn_a.html)  on [glbtq.com](https://zh.wikipedia.org/wiki/glbtq.com "wikilink"). Retrieved 12 November 2006.
 
 120.
 
@@ -1602,9 +1571,7 @@ Zoticus</p></td>
 
 126.
 127.
-128. Murphy, Ryan, [5 Things You Didn't Know About
-     Casanova](http://uk.askmen.com/toys/special_feature_100/107b_special_feature.html),
-     Askmen.com. Retrieved 15 November 2006.
+128. Murphy, Ryan, [5 Things You Didn't Know About Casanova](http://uk.askmen.com/toys/special_feature_100/107b_special_feature.html), Askmen.com. Retrieved 15 November 2006.
 
 129.
 
@@ -1619,9 +1586,7 @@ Zoticus</p></td>
 
 135.
 
-136. [Lord Byron](http://www.glbtq.com/literature/byron_gg.html)  on
-     [glbtq.com](https://zh.wikipedia.org/wiki/glbtq.com "wikilink").
-     Retrieved 13 November 2006.
+136. [Lord Byron](http://www.glbtq.com/literature/byron_gg.html)  on [glbtq.com](https://zh.wikipedia.org/wiki/glbtq.com "wikilink"). Retrieved 13 November 2006.
 
 137.
 138.
@@ -1642,16 +1607,9 @@ Zoticus</p></td>
 
 146.
 
-147. Lockard, Ray Anne (2002), "[Bonheur,
-     Rosa](http://www.glbtq.com/arts/bonheur_r.html) ",
-     *[glbtq.com](https://zh.wikipedia.org/wiki/glbtq.com "wikilink")*.
-     Retrieved on 3 September 2007.
+147. Lockard, Ray Anne (2002), "[Bonheur, Rosa](http://www.glbtq.com/arts/bonheur_r.html) ", *[glbtq.com](https://zh.wikipedia.org/wiki/glbtq.com "wikilink")*. Retrieved on 3 September 2007.
 
-148. Sabine Thomsen. *Die württembergischen Königinnen. Charlotte
-     Mathilde, Katharina, Pauline, Olga, Charlotte – ihr Leben und
-     Wirken* \[The Queens of Wuerttemberg: Charlotte Matilde, Katharina,
-     Pauline, Olga, Charlotte -- Their Lives and Legacies\].
-     Silberburg-Verlag, 2006.
+148. Sabine Thomsen. *Die württembergischen Königinnen. Charlotte Mathilde, Katharina, Pauline, Olga, Charlotte – ihr Leben und Wirken* \[The Queens of Wuerttemberg: Charlotte Matilde, Katharina, Pauline, Olga, Charlotte -- Their Lives and Legacies\]. Silberburg-Verlag, 2006.
 
 149.
 
@@ -1667,6 +1625,5 @@ Zoticus</p></td>
 155.
 
 156. [王尔德的秘密“同志”生活](http://www.xxqy.net/XxtzDis_article.asp?ArticleID=3915)
-
 
 157. 張祖翼，《清代野記‧詞臣導淫》

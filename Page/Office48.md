@@ -1,18 +1,15 @@
-[Sumitomo_Fudosan_Harajuku_Biru.JPG](https://zh.wikipedia.org/wiki/File:Sumitomo_Fudosan_Harajuku_Biru.JPG "fig:Sumitomo_Fudosan_Harajuku_Biru.JPG")
-**office48**（****）是一家總部設在[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷區的藝能事務所](../Page/澀谷.md "wikilink")。2004年成立。所屬藝人主要爲[AKB48](../Page/AKB48.md "wikilink")
-Team K和Team B部分成員。
+[Sumitomo_Fudosan_Harajuku_Biru.JPG](https://zh.wikipedia.org/wiki/File:Sumitomo_Fudosan_Harajuku_Biru.JPG "fig:Sumitomo_Fudosan_Harajuku_Biru.JPG") **office48**（****）是一家總部設在[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷](../Page/澀谷.md "wikilink")區的藝能事務所。2004年成立。所屬藝人主要爲[AKB48](../Page/AKB48.md "wikilink") Team K和Team B部分成員。
 
 ## 歷史
 
 **2004年**
 
-  - 7月13日，[芝幸太郎在](../Page/芝幸太郎.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港区設立](https://zh.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。在小林さくら加入后转变运营方针，开始转向艺能界。
+  - 7月13日，[芝幸太郎](../Page/芝幸太郎.md "wikilink")在[東京都](../Page/東京都.md "wikilink")[港区設立](https://zh.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。在小林さくら加入后转变运营方针，开始转向艺能界。
 
 **2005年**
 
-  - [作詞家](https://zh.wikipedia.org/wiki/作詞家 "wikilink")[秋元康](../Page/秋元康.md "wikilink")、[KRK製作株式会社代表](https://zh.wikipedia.org/wiki/AKS#關聯公司 "wikilink")、[窪田康志與株式会社](../Page/窪田康志.md "wikilink")[電通協力](https://zh.wikipedia.org/wiki/電通 "wikilink")，成立「秋葉原48-{zh-tw:計畫;zh-cn:項目}-」\[1\]。office48在秋葉原48制作委員会營運\[2\]。随着女性偶像团体[AKB48正式开始](../Page/AKB48.md "wikilink")，成员们的管理运营也正式开始。事務所[董事的](../Page/董事.md "wikilink")[戶賀崎智信被選任為](../Page/戶賀崎智信.md "wikilink")[AKB48劇場支配人](../Page/AKB48劇場.md "wikilink")。
-  - 以小林さくら被选为第三代[東京鐵塔Image
-    Galle](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")，每年的形象女孩都是从office48选\[3\]。
+  - [作詞家](https://zh.wikipedia.org/wiki/作詞家 "wikilink")[秋元康](../Page/秋元康.md "wikilink")、[KRK製作株式会社代表](https://zh.wikipedia.org/wiki/AKS#關聯公司 "wikilink")、[窪田康志](../Page/窪田康志.md "wikilink")與株式会社[電通協力](https://zh.wikipedia.org/wiki/電通 "wikilink")，成立「秋葉原48-{zh-tw:計畫;zh-cn:項目}-」\[1\]。office48在秋葉原48制作委員会營運\[2\]。随着女性偶像团体[AKB48](../Page/AKB48.md "wikilink")正式开始，成员们的管理运营也正式开始。事務所[董事](../Page/董事.md "wikilink")的[戶賀崎智信](../Page/戶賀崎智信.md "wikilink")被選任為[AKB48劇場](../Page/AKB48劇場.md "wikilink")支配人。
+  - 以小林さくら被选为第三代[東京鐵塔Image Galle](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")，每年的形象女孩都是从office48选\[3\]。
 
 **2006年**
 
@@ -24,25 +21,20 @@ Team K和Team B部分成員。
 
 **2011年**
 
-  - 所屬組合[DiVA的追加成员招募开始](../Page/DiVA.md "wikilink")，合格的同时与office48签订合同[追加メンバーオーディション](https://web.archive.org/web/20130116115732/http://avexnet.or.jp/diva/news/20110728_3.html)。
+  - 所屬組合[DiVA](../Page/DiVA.md "wikilink")的追加成员招募开始，合格的同时与office48签订合同[追加メンバーオーディション](https://web.archive.org/web/20130116115732/http://avexnet.or.jp/diva/news/20110728_3.html)。
 
 **2012年**
 
   - office48官方部格格，DiVA追加成員的[井上結菜、粕谷聡子、福野来夢、二見夕貴、古川温子、山上綾加更新在官方部格格上](https://zh.wikipedia.org/wiki/DiVA#成員 "wikilink")\[5\]。
-  - 3月25日舉行的『業務連絡。頼むぞ、片山部長\!
-    inさいたまスーパーアリーナ』第3日公演中，發表[島田晴香由AKS移籍到office](../Page/島田晴香.md "wikilink")48\[6\]，7月正式移籍。
+  - 3月25日舉行的『業務連絡。頼むぞ、片山部長\! inさいたまスーパーアリーナ』第3日公演中，發表[島田晴香](../Page/島田晴香.md "wikilink")由AKS移籍到office48\[6\]，7月正式移籍。
 
 **2013年**
 
-  - 7月，因為office48重組為控股公司，office48所属艺人中，三井裕美以外的全员，转到子公司FLAVE
-    ENTERTAINMENT。
+  - 7月，因為office48重組為控股公司，office48所属艺人中，三井裕美以外的全员，转到子公司FLAVE ENTERTAINMENT。
 
 ### 事務所的所在地変遷
 
-東京都港区[海岸](https://zh.wikipedia.org/wiki/海岸_\(東京都港区\) "wikilink")1-1-1[Acty汐留](../Page/Acty汐留.md "wikilink")56F
-→ 東京都港区[白金台](../Page/白金台.md "wikilink")5-4-7barubizon25 4F →
-東京都港区[南青山](../Page/南青山.md "wikilink")7-10-3南青山ST大樓4F →
-現所在地
+東京都港区[海岸](https://zh.wikipedia.org/wiki/海岸_\(東京都港区\) "wikilink")1-1-1[Acty汐留](../Page/Acty汐留.md "wikilink")56F → 東京都港区[白金台](../Page/白金台.md "wikilink")5-4-7barubizon25 4F → 東京都港区[南青山](../Page/南青山.md "wikilink")7-10-3南青山ST大樓4F → 現所在地
 
 ## 所属藝人
 
@@ -59,8 +51,7 @@ Team K和Team B部分成員。
 
   - [島田晴香](../Page/島田晴香.md "wikilink")（前AKB48）
 
-  - [鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")（前AKB48；自[Dress
-    Code移籍](https://zh.wikipedia.org/wiki/Dress_Code "wikilink")）
+  - [鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")（前AKB48；自[Dress Code移籍](https://zh.wikipedia.org/wiki/Dress_Code "wikilink")）
 
   - 野村奈央（前AKB48）
 
@@ -110,8 +101,7 @@ Team K和Team B部分成員。
 
 ## 所属組合
 
-  - [DiVA](../Page/DiVA.md "wikilink")（[音楽レーベル](https://zh.wikipedia.org/wiki/レコードレーベル "wikilink")：[avex
-    trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")）
+  - [DiVA](../Page/DiVA.md "wikilink")（[音楽レーベル](https://zh.wikipedia.org/wiki/レコードレーベル "wikilink")：[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")）
 
 <!-- end list -->
 
@@ -172,8 +162,7 @@ Team K和Team B部分成員。
 
 **前AKB48**
 
-  - [上村彩子](../Page/上村彩子.md "wikilink") - [Office
-    Watanabe所屬](https://zh.wikipedia.org/wiki/Office_Watanabe "wikilink")
+  - [上村彩子](../Page/上村彩子.md "wikilink") - [Office Watanabe所屬](https://zh.wikipedia.org/wiki/Office_Watanabe "wikilink")
   - [浦野一美](../Page/浦野一美.md "wikilink")（前SDN48）
   - [大江朝美](../Page/大江朝美.md "wikilink")
   - [大島麻衣](../Page/大島麻衣.md "wikilink")
@@ -185,8 +174,7 @@ Team K和Team B部分成員。
   - 高田彩奈
   - [戶島花](../Page/戶島花.md "wikilink")（元SDN48）
   - [成田梨紗](../Page/成田梨紗.md "wikilink")
-  - 早野薫 - [SENSE
-    UP所屬](https://zh.wikipedia.org/wiki/SENSE_UP "wikilink")
+  - 早野薫 - [SENSE UP所屬](https://zh.wikipedia.org/wiki/SENSE_UP "wikilink")
   - [平嶋夏海](../Page/平嶋夏海.md "wikilink")
   - [星野みちる](https://zh.wikipedia.org/wiki/Michiru "wikilink")
   - [増山加弥乃](https://zh.wikipedia.org/wiki/増山加弥乃 "wikilink")
@@ -263,18 +251,11 @@ Team K和Team B部分成員。
 
   - [秋元才加、梅田彩佳、小林香菜、増田有華、宮澤佐江Ameba官方博客](http://ameblo.jp/akimoto100323/)
 
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
+[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
 
 1.  [AKB48オフィシャルブログ](http://ameblo.jp/akihabara48/) プロフィール欄 2012年7月22日閲覧
-2.  [AKB48オフィシャルブログ](http://ameblo.jp/akihabara48/archive21-200509.html)
-    2005年9月2日付
-3.  [TOKYO TOWER
-    最新情報](http://www.tokyotower.co.jp/cgi-bin/reg/01_new/reg.cgi?mode=1&no=1183)
-
-4.  [元AKB"全裸"で大モメ\!
-    悪いオトナたち群がり?](http://www.zakzak.co.jp/entertainment/ent-news/news/20100715/enn1007151200000-n2.htm)
-     [夕刊フジ](https://zh.wikipedia.org/wiki/夕刊フジ "wikilink") 2010年7月15日付
+2.  [AKB48オフィシャルブログ](http://ameblo.jp/akihabara48/archive21-200509.html) 2005年9月2日付
+3.  [TOKYO TOWER 最新情報](http://www.tokyotower.co.jp/cgi-bin/reg/01_new/reg.cgi?mode=1&no=1183)
+4.  [元AKB"全裸"で大モメ\! 悪いオトナたち群がり?](http://www.zakzak.co.jp/entertainment/ent-news/news/20100715/enn1007151200000-n2.htm)  [夕刊フジ](https://zh.wikipedia.org/wiki/夕刊フジ "wikilink") 2010年7月15日付
 5.  [1LDK 6人暮らし FROM Diva](http://ameblo.jp/akimoto100323/) 2012年3月21日付
 6.

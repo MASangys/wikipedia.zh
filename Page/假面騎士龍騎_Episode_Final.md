@@ -1,5 +1,4 @@
-《**假面騎士龍騎 - Episode
-Final**》是平成假面騎士系列的第二部劇場版，於2002年8月17日上映。本作的结局与[TV版不同](https://zh.wikipedia.org/wiki/假面骑士龙骑 "wikilink")。
+《**假面騎士龍騎 - Episode Final**》是平成假面騎士系列的第二部劇場版，於2002年8月17日上映。本作的结局与[TV版不同](https://zh.wikipedia.org/wiki/假面骑士龙骑 "wikilink")。
 
 ## 故事背景
 
@@ -15,8 +14,7 @@ Final**》是平成假面騎士系列的第二部劇場版，於2002年8月17日
 
   -
     23歲。**假面騎士Ryuki（龍騎）**的變身者（**為第二代龍騎**）。
-    本作主角。一名ORE雜誌社的見習記者，實力一般。成為假面騎士的目的是為保護人類而戰。為人傻氣、正直，有一顆善良的心，熱心助人，對事情有追根究底的精神。在被房東趕出來後就直接住在辦公室。在調查失蹤者榊原耕一時，意外在其處所得到**龍騎**卡盒和看見無雙龍，並在鏡世界意外認識秋山蓮（初期只有空白型態，在和無雙龍契約後正式成為了龍騎）第2話時就成功變成了龍騎，還成功發動了Final
-    Vent「龍騎士踢」，瞭解到假面騎士之間的鬥爭後，決心阻止假面騎士之戰和保護人類。
+    本作主角。一名ORE雜誌社的見習記者，實力一般。成為假面騎士的目的是為保護人類而戰。為人傻氣、正直，有一顆善良的心，熱心助人，對事情有追根究底的精神。在被房東趕出來後就直接住在辦公室。在調查失蹤者榊原耕一時，意外在其處所得到**龍騎**卡盒和看見無雙龍，並在鏡世界意外認識秋山蓮（初期只有空白型態，在和無雙龍契約後正式成為了龍騎）第2話時就成功變成了龍騎，還成功發動了Final Vent「龍騎士踢」，瞭解到假面騎士之間的鬥爭後，決心阻止假面騎士之戰和保護人類。
 
 <!-- end list -->
 
@@ -71,10 +69,7 @@ Final**》是平成假面騎士系列的第二部劇場版，於2002年8月17日
   -
     {| class=wikitable style="text-align:left; font-size:80%"
 
-|- \! 卡牌組 \!\! 效果說明 |- | **Sword Vent （武器降臨）** || 召喚武器為白羽劍。（AP:2000） |-
-| **Guard Vent （護盾降臨）** || 召喚翼盾，具有利用四處飛舞的羽毛使敵人錯亂的能力。（GP:2000） |- |
-**Advent（契約獸降臨）** || 召喚契約獸「閃光之翼（BlancWing）」。（AP:4000） |- | **Final
-Vent（終極降臨）** || 發動必殺技「神秘斬」。（AP:5000） |- |}
+|- \! 卡牌組 \!\! 效果說明 |- | **Sword Vent （武器降臨）** || 召喚武器為白羽劍。（AP:2000） |- | **Guard Vent （護盾降臨）** || 召喚翼盾，具有利用四處飛舞的羽毛使敵人錯亂的能力。（GP:2000） |- | **Advent（契約獸降臨）** || 召喚契約獸「閃光之翼（BlancWing）」。（AP:4000） |- | **Final Vent（終極降臨）** || 發動必殺技「神秘斬」。（AP:5000） |- |}
 
   - 招式
 
@@ -83,9 +78,7 @@ Vent（終極降臨）** || 發動必殺技「神秘斬」。（AP:5000） |- |}
   -
     {| class=wikitable style="text-align:left; font-size:80%"
 
-|- \! 招式 \!\! 效果說明 |- | **神秘斬（Mystery Slash）** ||
-召喚BlancWing現身於空中，以高速飛行制敵人身後張開翅膀用力搧動，形成暴風將敵人吹飛，Femme以手中的「白羽劍」把飛來的敵人一一砍成兩半而爆炸。
-|- |}
+|- \! 招式 \!\! 效果說明 |- | **神秘斬（Mystery Slash）** || 召喚BlancWing現身於空中，以高速飛行制敵人身後張開翅膀用力搧動，形成暴風將敵人吹飛，Femme以手中的「白羽劍」把飛來的敵人一一砍成兩半而爆炸。 |- |}
 
 ### 假面騎士龍牙
 
@@ -108,11 +101,7 @@ Vent（終極降臨）** || 發動必殺技「神秘斬」。（AP:5000） |- |}
   -
     {| class=wikitable style="text-align:left; font-size:80%"
 
-|- \! 卡牌組 \!\! 效果說明 |- | **Sword Vent （武器降臨）** || 召喚武器黑龍刀。（AP:3000） |- |
-**Guard Vent （護盾降臨）** || 召喚黑龍盾。（在劇中並無使用此降臨卡）（GP:3000） |- | **Strike Vent
-（重擊降臨）** || 召喚裝備－暗黑龍爪，配戴在右手上，並利用DragBlacker發動「黑龍爪火」。（AP:3000） |- |
-**Advent（契約獸降臨）** || 召喚契約獸「暗黑龍（DragBlacker）」。（AP:6000） |- | **Final
-Vent（終極降臨）** || 發動必殺技「龍騎士踢」。（AP:7000） |- |}
+|- \! 卡牌組 \!\! 效果說明 |- | **Sword Vent （武器降臨）** || 召喚武器黑龍刀。（AP:3000） |- | **Guard Vent （護盾降臨）** || 召喚黑龍盾。（在劇中並無使用此降臨卡）（GP:3000） |- | **Strike Vent （重擊降臨）** || 召喚裝備－暗黑龍爪，配戴在右手上，並利用DragBlacker發動「黑龍爪火」。（AP:3000） |- | **Advent（契約獸降臨）** || 召喚契約獸「暗黑龍（DragBlacker）」。（AP:6000） |- | **Final Vent（終極降臨）** || 發動必殺技「龍騎士踢」。（AP:7000） |- |}
 
   - 招式
 
@@ -121,11 +110,7 @@ Vent（終極降臨）** || 發動必殺技「龍騎士踢」。（AP:7000） |-
   -
     {| class=wikitable style="text-align:left; font-size:80%"
 
-|- \! 招式 \!\! 效果說明 |- |**黑龍爪火（Black Drag Claw
-Fire）**||在裝備上暗黑龍爪後利用DragBlacker對敵人放出威力十足的黑色火焰彈。
-|- |**龍騎士踢（Dragoon Rider Kick）** ||
-召喚出DragBlacker後，Ryuga浮到半空，在DragBlacker吐火助長威力下，從空飛踢而下擊斃敵人。雖然大部分AP設定比龍騎高，但最後卻敗給了龍騎的「龍騎士踢」。
-|- |}
+|- \! 招式 \!\! 效果說明 |- |**黑龍爪火（Black Drag Claw Fire）**||在裝備上暗黑龍爪後利用DragBlacker對敵人放出威力十足的黑色火焰彈。 |- |**龍騎士踢（Dragoon Rider Kick）** || 召喚出DragBlacker後，Ryuga浮到半空，在DragBlacker吐火助長威力下，從空飛踢而下擊斃敵人。雖然大部分AP設定比龍騎高，但最後卻敗給了龍騎的「龍騎士踢」。 |- |}
 
 ## 登場契約獸
 
@@ -267,16 +252,13 @@ Fire）**||在裝備上暗黑龍爪後利用DragBlacker對敵人放出威力十�
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 監督 - 小野寺章（石森プロ）
-  - 製作 -
-    中曽根千治（[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")）、[白倉伸一郎](https://zh.wikipedia.org/wiki/白倉伸一郎 "wikilink")・[武部直美](https://zh.wikipedia.org/wiki/武部直美 "wikilink")（[東映](../Page/東映.md "wikilink")）
+  - 製作 - 中曽根千治（[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")）、[白倉伸一郎](https://zh.wikipedia.org/wiki/白倉伸一郎 "wikilink")・[武部直美](https://zh.wikipedia.org/wiki/武部直美 "wikilink")（[東映](../Page/東映.md "wikilink")）
   - 劇本 - [井上敏樹](../Page/井上敏樹.md "wikilink")
   - 导演 -
   - 武術指導 - 、[金田治](https://zh.wikipedia.org/wiki/金田治 "wikilink")
   - 導演補 - [鈴村展弘](https://zh.wikipedia.org/wiki/鈴村展弘 "wikilink")
-  - 特效指導 -
-    [佛田洋](https://zh.wikipedia.org/wiki/佛田洋 "wikilink")（[特撮研究所](https://zh.wikipedia.org/wiki/特撮研究所 "wikilink")）
-  - 角色設定 -
-    （石森プロ）、（PLEX）[野中剛](https://zh.wikipedia.org/wiki/野中剛 "wikilink")、[鈴木和也](https://zh.wikipedia.org/wiki/鈴木和也 "wikilink")、竹内一恵、[小林大祐](https://zh.wikipedia.org/wiki/小林大祐 "wikilink")
+  - 特效指導 - [佛田洋](https://zh.wikipedia.org/wiki/佛田洋 "wikilink")（[特撮研究所](https://zh.wikipedia.org/wiki/特撮研究所 "wikilink")）
+  - 角色設定 - （石森プロ）、（PLEX）[野中剛](https://zh.wikipedia.org/wiki/野中剛 "wikilink")、[鈴木和也](https://zh.wikipedia.org/wiki/鈴木和也 "wikilink")、竹内一恵、[小林大祐](https://zh.wikipedia.org/wiki/小林大祐 "wikilink")
   - 怪物設定 - [篠原保](https://zh.wikipedia.org/wiki/篠原保 "wikilink")
   - 音乐 - 、[丸山和範](https://zh.wikipedia.org/wiki/丸山和範 "wikilink")
 
@@ -284,17 +266,10 @@ Fire）**||在裝備上暗黑龍爪後利用DragBlacker對敵人放出威力十�
 
 **Alive a life-Advent Mix**
 
-  - 作词：[海老根祐子](https://zh.wikipedia.org/wiki/海老根祐子 "wikilink")
-    作曲：[和田耕平](https://zh.wikipedia.org/wiki/和田耕平 "wikilink")
-    编曲：[安藤高弦](https://zh.wikipedia.org/wiki/安藤高弦 "wikilink")
-    主唱：[松本梨香](../Page/松本梨香.md "wikilink")
+  - 作词：[海老根祐子](https://zh.wikipedia.org/wiki/海老根祐子 "wikilink") 作曲：[和田耕平](https://zh.wikipedia.org/wiki/和田耕平 "wikilink") 编曲：[安藤高弦](https://zh.wikipedia.org/wiki/安藤高弦 "wikilink") 主唱：[松本梨香](../Page/松本梨香.md "wikilink")
 
 ## 外部链接
 
-  - [仮面ライダー龍騎 EPISODE
-    FINAL](https://web.archive.org/web/20080305041542/http://www.toei.co.jp/tv/ryuki/movie/)（東映官方網站）
+  - [仮面ライダー龍騎 EPISODE FINAL](https://web.archive.org/web/20080305041542/http://www.toei.co.jp/tv/ryuki/movie/)（東映官方網站）
 
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:2002年日本電影](https://zh.wikipedia.org/wiki/Category:2002年日本電影 "wikilink")
-[Category:田崎龍太電影](https://zh.wikipedia.org/wiki/Category:田崎龍太電影 "wikilink")
-[Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:2002年日本電影](https://zh.wikipedia.org/wiki/Category:2002年日本電影 "wikilink") [Category:田崎龍太電影](https://zh.wikipedia.org/wiki/Category:田崎龍太電影 "wikilink") [Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")

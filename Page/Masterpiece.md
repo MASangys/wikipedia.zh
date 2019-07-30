@@ -1,5 +1,4 @@
-《**masterpiece**》（）是[川田真美](../Page/川田真美.md "wikilink")的第7張單曲。於2009年2月4日由Geneon
-Universal Entertainment Japan, LLC.發行。
+《**masterpiece**》（）是[川田真美](../Page/川田真美.md "wikilink")的第7張單曲。於2009年2月4日由Geneon Universal Entertainment Japan, LLC.發行。
 
 ## 收錄曲
 
@@ -21,9 +20,6 @@ Universal Entertainment Japan, LLC.發行。
 
 ## 外部連結
 
-  - [GENEON OFFICIAL WEB
-    SITE](https://web.archive.org/web/20090306081912/http://www.geneon-ent.co.jp/)
+  - [GENEON OFFICIAL WEB SITE](https://web.archive.org/web/20090306081912/http://www.geneon-ent.co.jp/)
 
-[Category:魔法禁書目錄歌曲](https://zh.wikipedia.org/wiki/Category:魔法禁書目錄歌曲 "wikilink")
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
+[Category:魔法禁書目錄歌曲](https://zh.wikipedia.org/wiki/Category:魔法禁書目錄歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")

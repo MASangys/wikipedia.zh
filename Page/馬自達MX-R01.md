@@ -1,33 +1,24 @@
-**馬自達MX-R01**（或稱**MXR-01**\[1\]）是1992年由[日本](../Page/日本.md "wikilink")[馬自達汽車與](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[湯姆·沃金蕭賽車隊](https://zh.wikipedia.org/wiki/:en:Tom_Walkinshaw_Racing "wikilink")（Tom
-Walkinshaw Racing）共同合作開發的原型賽車（prototype racing car），共計製作了五輛。
+**馬自達MX-R01**（或稱**MXR-01**\[1\]）是1992年由[日本](../Page/日本.md "wikilink")[馬自達汽車與](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[湯姆·沃金蕭賽車隊](https://zh.wikipedia.org/wiki/:en:Tom_Walkinshaw_Racing "wikilink")（Tom Walkinshaw Racing）共同合作開發的原型賽車（prototype racing car），共計製作了五輛。
 
 ## 概要
 
-1990年代以後，[C組賽車對於參賽車輛引擎的規定從](../Page/C組賽車.md "wikilink")「限制燃料使用量的上限」修改成和[F1一樣的](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")「3,500c.c.自然吸氣引擎」，而且1992年馬自達被禁止使用曾於[利曼24小時耐力賽奪冠的](https://zh.wikipedia.org/wiki/勒芒24小時耐力賽 "wikilink")[轉子引擎參賽](../Page/馬自達轉子引擎.md "wikilink")\[2\]，車隊勢必要轉往更先進的V型十缸引擎發展。由於馬自達車隊的預算有限，無法重新開發符合規則的引擎與底盤。再者，1991年奪冠的[787B的車身與底盤也無法容納V型十缸引擎](../Page/馬自達787.md "wikilink")。因此他們改變方針，自外購入符合參賽規則的引擎與底盤，再加以調校優化。
+1990年代以後，[C組賽車](../Page/C組賽車.md "wikilink")對於參賽車輛引擎的規定從「限制燃料使用量的上限」修改成和[F1一樣的](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")「3,500c.c.自然吸氣引擎」，而且1992年馬自達被禁止使用曾於[利曼24小時耐力賽奪冠的](https://zh.wikipedia.org/wiki/勒芒24小時耐力賽 "wikilink")[轉子引擎參賽](../Page/馬自達轉子引擎.md "wikilink")\[2\]，車隊勢必要轉往更先進的V型十缸引擎發展。由於馬自達車隊的預算有限，無法重新開發符合規則的引擎與底盤。再者，1991年奪冠的[787B的車身與底盤也無法容納V型十缸引擎](../Page/馬自達787.md "wikilink")。因此他們改變方針，自外購入符合參賽規則的引擎與底盤，再加以調校優化。
 
-賽車手湯姆·沃金蕭（Tom
-Walkinshaw）領軍的車隊曾改造[RX-7](../Page/馬自達RX-7.md "wikilink")，並於1980、1981連續兩年奪下英國房車賽（British
-Touring Car Championship）的冠軍、Spa 24小時耐力賽（Total 24 Hours of
-Spa）冠軍等。馬自達遂與該車隊合作打造出MX-R01，以便參賽。
+賽車手湯姆·沃金蕭（Tom Walkinshaw）領軍的車隊曾改造[RX-7](../Page/馬自達RX-7.md "wikilink")，並於1980、1981連續兩年奪下英國房車賽（British Touring Car Championship）的冠軍、Spa 24小時耐力賽（Total 24 Hours of Spa）冠軍等。馬自達遂與該車隊合作打造出MX-R01，以便參賽。
 
 ### 引擎
 
-此款原型賽車的V型十缸引擎購自[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")「引擎開發公司」（Engine
-Developments Ltd.）製造的「朱德牌」（Judd）3.5L V10
-[GV型引擎](https://zh.wikipedia.org/wiki/:en:Judd_\(engine\)#GV "wikilink")。此具引擎於1991年為了[一級方程式賽車而設計](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")，馬自達將之改名為**MV型**。
+此款原型賽車的V型十缸引擎購自[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")「引擎開發公司」（Engine Developments Ltd.）製造的「朱德牌」（Judd）3.5L V10 [GV型引擎](https://zh.wikipedia.org/wiki/:en:Judd_\(engine\)#GV "wikilink")。此具引擎於1991年為了[一級方程式賽車而設計](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")，馬自達將之改名為**MV型**。
 
 ### 底盤
 
-底盤來自於湯姆·沃金蕭賽車隊先前和[捷豹汽車合作時打造的XJR](../Page/捷豹.md "wikilink")-14，雖然該款車曾於1991年贏得1991年WSC世界賽車選手權錦標賽選手權，但因受限於預算，馬自達無力予以大幅度升級調校。
+底盤來自於湯姆·沃金蕭賽車隊先前和[捷豹](../Page/捷豹.md "wikilink")汽車合作時打造的XJR-14，雖然該款車曾於1991年贏得1991年WSC世界賽車選手權錦標賽選手權，但因受限於預算，馬自達無力予以大幅度升級調校。
 
 ## 戰績
 
-1992年馬自達順利完成WSC世界賽車選手權錦標賽所有賽事，並獲得綜合成績第三名，其中最佳成績為銀石500km錦標賽（500km of
-Silverstone）第二名。而在利曼24小時耐力賽中，雖然剛開賽時曾一度領先，但最終只獲得第四名。
+1992年馬自達順利完成WSC世界賽車選手權錦標賽所有賽事，並獲得綜合成績第三名，其中最佳成績為銀石500km錦標賽（500km of Silverstone）第二名。而在利曼24小時耐力賽中，雖然剛開賽時曾一度領先，但最終只獲得第四名。
 
-在日本，[Mazdaspeed派出一輛MX](../Page/Mazdaspeed.md "wikilink")-R01參與JSPC全日本運動原型賽車耐久錦標賽（全日本スポーツプロトタイプカー耐久選手権；All
-Japan Sports Prototype
-Championship）。當時此錦標賽新、舊制並存，新規則組沒有限制燃油使用量，舊制分組則相反。參與[C組賽車舊制的競爭者以](../Page/C組賽車.md "wikilink")[渦輪增壓車居多](../Page/渦輪增壓器.md "wikilink")，符合新制規則的MX-R01反而因沒有人參賽而影響總體成績。
+在日本，[Mazdaspeed](../Page/Mazdaspeed.md "wikilink")派出一輛MX-R01參與JSPC全日本運動原型賽車耐久錦標賽（全日本スポーツプロトタイプカー耐久選手権；All Japan Sports Prototype Championship）。當時此錦標賽新、舊制並存，新規則組沒有限制燃油使用量，舊制分組則相反。參與[C組賽車](../Page/C組賽車.md "wikilink")舊制的競爭者以[渦輪增壓車居多](../Page/渦輪增壓器.md "wikilink")，符合新制規則的MX-R01反而因沒有人參賽而影響總體成績。
 
 ## 現今下落
 
@@ -39,12 +30,9 @@ Championship）。當時此錦標賽新、舊制並存，新規則組沒有限�
 
 ## 參考資料
 
-  - [Mazda
-    MX-R01](http://www.asahi-net.or.jp/~ip3t-nksn/Pages/B-grc/SPC-MX-R01.htm)
+  - [Mazda MX-R01](http://www.asahi-net.or.jp/~ip3t-nksn/Pages/B-grc/SPC-MX-R01.htm)
 
-[Category:原型賽車](https://zh.wikipedia.org/wiki/Category:原型賽車 "wikilink")
-[Category:馬自達競速賽事與車輛](https://zh.wikipedia.org/wiki/Category:馬自達競速賽事與車輛 "wikilink")
-[Category:利曼24小時耐力賽車輛](https://zh.wikipedia.org/wiki/Category:利曼24小時耐力賽車輛 "wikilink")
+[Category:原型賽車](https://zh.wikipedia.org/wiki/Category:原型賽車 "wikilink") [Category:馬自達競速賽事與車輛](https://zh.wikipedia.org/wiki/Category:馬自達競速賽事與車輛 "wikilink") [Category:利曼24小時耐力賽車輛](https://zh.wikipedia.org/wiki/Category:利曼24小時耐力賽車輛 "wikilink")
 
 1.  因車輛前擾流板貼出兩種版本的車名，所以產生這種差異。
 2.  不過，1993年國際汽車聯合會對於轉子引擎解除禁令。

@@ -1,6 +1,4 @@
-**家庭教师HITMAN REBORN\! CCG**，全称**家庭教師HITMAN REBORN\! Character Card
-Game**（家庭教師ヒットマンREBORN\!CCG（キャラクターカードゲーム）），下简称**CCG**，是由日本[Broccoli公司推出的](../Page/Broccoli.md "wikilink")，以由日本漫画作品[家庭教師HITMAN
-REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")（下简称**家教**）所改编的同名动画为主题制作的[卡片游戏](https://zh.wikipedia.org/wiki/卡片游戏 "wikilink")。
+**家庭教师HITMAN REBORN\! CCG**，全称**家庭教師HITMAN REBORN\! Character Card Game**（家庭教師ヒットマンREBORN\!CCG（キャラクターカードゲーム）），下简称**CCG**，是由日本[Broccoli](../Page/Broccoli.md "wikilink")公司推出的，以由日本漫画作品[家庭教師HITMAN REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")（下简称**家教**）所改编的同名动画为主题制作的[卡片游戏](https://zh.wikipedia.org/wiki/卡片游戏 "wikilink")。
 目前只发售了日文版。
 
 ## 简介
@@ -13,8 +11,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
 官方于各地不定期举行大会（日本限定），无论胜利与否，到场都可以得到赠送的P卡。
 此外，JumpFesta中亦曾有为了推广CCG而进行的小活动，
-只需根据属性与相性选择卡片进行“猜拳”（详细请参考[\#属性及相性](https://zh.wikipedia.org/wiki/#属性及相性 "wikilink")）
-就可以获得与胜利场数对应的P卡\[2\]作为奖励。
+只需根据属性与相性选择卡片进行“猜拳”（详细请参考[\#属性及相性](https://zh.wikipedia.org/wiki/#属性及相性 "wikilink")） 就可以获得与胜利场数对应的P卡\[2\]作为奖励。
 大会中，玩家可以使用发售的构筑济牌组，或自己构筑牌组。
 构筑牌组需满足如下条件：
 
@@ -617,17 +614,14 @@ BattlePhase中，双方各需以背面向上配置一张Battle牌于此并同时
 
 ## 参见
 
-  - [家庭教師HITMAN
-    REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")
-  - [家庭教師HITMAN REBORN\!
-    (動畫)](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")
+  - [家庭教師HITMAN REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")
+  - [家庭教師HITMAN REBORN\! (動畫)](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")
 
 ## 外部链接
 
 [CCG及CCGX官方网站](http://www.broccoli.co.jp/reborn_ccg/index.html)
 
-[Category:家庭教師HITMAN_REBORN\!](https://zh.wikipedia.org/wiki/Category:家庭教師HITMAN_REBORN! "wikilink")
-[Category:交換卡片遊戲](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲 "wikilink")
+[Category:家庭教師HITMAN_REBORN\!](https://zh.wikipedia.org/wiki/Category:家庭教師HITMAN_REBORN! "wikilink") [Category:交換卡片遊戲](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲 "wikilink")
 
 1.  日文：死ぬ気，“拼命”的意思。
 
@@ -649,8 +643,7 @@ BattlePhase中，双方各需以背面向上配置一张Battle牌于此并同时
 13.
 14.
 15.
-16. 形式为**No.序号（该辑中序号，3位数字）/辑数（CCGX按总序号，2位数字，SP1为S1）
-    卡片类型（C/R/SR/UR/SKR/P）**+著作权标记。
+16. 形式为**No.序号（该辑中序号，3位数字）/辑数（CCGX按总序号，2位数字，SP1为S1） 卡片类型（C/R/SR/UR/SKR/P）**+著作权标记。
 
 17. 本作中，“匣”读作“BOX”。
 

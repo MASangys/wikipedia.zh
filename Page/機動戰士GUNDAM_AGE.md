@@ -1,13 +1,8 @@
-《**機動戰士GUNDAM
-AGE**》為2011年10月9日起於[MBS](../Page/每日放送.md "wikilink")、[TBS系播放的日本電視動畫](../Page/TBS電視台.md "wikilink")，以及以其為原作的[跨媒體製作作品群](../Page/跨媒體製作.md "wikilink")。香港[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台定名](../Page/翡翠台.md "wikilink")“**機動戰士-{}-AGE**”
-於2011年10月29日起逢星期六早上10點15分播放，備有粵語及日語兩種配音，供觀眾選擇\[1\]\[2\]，並於官方網站[myTV提供粵語配音版本讓香港網民重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")\[3\]；2011年10月30日起SUNRISE每逢週日於gundam.info提供觀賞時期限定的香港中文字幕版重播\[4\]，集數為前一天（週六）於翡翠台播放的同一集。中国大陆由SUNRISE运营的敢达官方信息门户网站，每週日在日本播出后同日更新简体中文字幕版\[5\]。本作命名为“机动战士-{}-高-{}-达-{}-AGE”于2011年10月9日与日本同步播出\[6\]。
+《**機動戰士GUNDAM AGE**》為2011年10月9日起於[MBS](../Page/每日放送.md "wikilink")、[TBS系播放的日本電視動畫](../Page/TBS電視台.md "wikilink")，以及以其為原作的[跨媒體製作](../Page/跨媒體製作.md "wikilink")作品群。香港[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")定名“**機動戰士-{}-AGE**” 於2011年10月29日起逢星期六早上10點15分播放，備有粵語及日語兩種配音，供觀眾選擇\[1\]\[2\]，並於官方網站[myTV提供粵語配音版本讓香港網民重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")\[3\]；2011年10月30日起SUNRISE每逢週日於gundam.info提供觀賞時期限定的香港中文字幕版重播\[4\]，集數為前一天（週六）於翡翠台播放的同一集。中国大陆由SUNRISE运营的敢达官方信息门户网站，每週日在日本播出后同日更新简体中文字幕版\[5\]。本作命名为“机动战士-{}-高-{}-达-{}-AGE”于2011年10月9日与日本同步播出\[6\]。
 
 ## 概要
 
-本作品為包含《[SDGUNDAMFORCE](https://zh.wikipedia.org/wiki/SDGUNDAMFORCE "wikilink")》與《[SD
-GUNDAM三國傳 Brave Battle
-Warriors](../Page/BB戰士三國傳.md "wikilink")》在內的「[GUNDAM系列電視動畫](../Page/GUNDAM系列作品.md "wikilink")」第14部作品\[7\]、同時也是系列首次以電玩遊戲化為前提的跨媒體製作企劃。除了由LEVEL-5開發的RPG遊戲《機動戰士GUNDAM
-AGE RPG（暫名）》外，尚預定有使用GUNDAM模型或已上色組裝完成的玩偶來游玩的大型電玩機台《GAGE-ING戰鬥基地》\[8\]。
+本作品為包含《[SDGUNDAMFORCE](https://zh.wikipedia.org/wiki/SDGUNDAMFORCE "wikilink")》與《[SD GUNDAM三國傳 Brave Battle Warriors](../Page/BB戰士三國傳.md "wikilink")》在內的「[GUNDAM系列電視動畫](../Page/GUNDAM系列作品.md "wikilink")」第14部作品\[7\]、同時也是系列首次以電玩遊戲化為前提的跨媒體製作企劃。除了由LEVEL-5開發的RPG遊戲《機動戰士GUNDAM AGE RPG（暫名）》外，尚預定有使用GUNDAM模型或已上色組裝完成的玩偶來游玩的大型電玩機台《GAGE-ING戰鬥基地》\[8\]。
 
 預想的視聽觀眾對象層，為不曾看過以往的GUNDAM作品的小孩子、以及不看近年的系列作品的父親\[9\]\[10\]。另外，人物的畫風雖然像是兒童向的動畫，但作品中仍導入了戰鬥著的少年的煩惱、痛苦等嚴肅的要素，並且以「不會讓以往的愛好者感到灰心」的方向來製作\[11\]\[12\]。GUNDAM在故事內容中會以父傳子、子傳孫的方式跨越三世代（100年），同時GUNDAM也會由AGE-1進化成AGE-2、AGE-3、AGE-FX。以此形式進行的世代交替，其舞台與人物的設定相當耗費勞力，為以往的電視動畫作品不常使用的展開\[13\]。
 
@@ -15,9 +10,7 @@ AGE RPG（暫名）》外，尚預定有使用GUNDAM模型或已上色組裝完�
 
 其最新話於日本播出後，在各語言版本gundam.info網上會以期間限定方式提供帶有中文（香港繁體、台灣正體、大陸簡體\[15\]）、英文\[16\]、韓文\[17\]版字幕影片。
 
-全話數播放結束後，官方宣布將製作[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")《機動戦士GUNDAM
-AGE MEMORY OF
-EDEN》，將以「阿瑟姆編」為基礎重新構成故事，並加插大量新內容，敘述劇中人物阿瑟姆·亞斯諾及謝哈特·加列圖之間的交情。製作人員方面亦有變動，綿田慎也和木村暢將分別代替山口晉和日野晃博擔任導演和系列構成\[18\]。
+全話數播放結束後，官方宣布將製作[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")《機動戦士GUNDAM AGE MEMORY OF EDEN》，將以「阿瑟姆編」為基礎重新構成故事，並加插大量新內容，敘述劇中人物阿瑟姆·亞斯諾及謝哈特·加列圖之間的交情。製作人員方面亦有變動，綿田慎也和木村暢將分別代替山口晉和日野晃博擔任導演和系列構成\[18\]。
 
 ### 播放前的評價
 
@@ -25,11 +18,9 @@ EDEN》，將以「阿瑟姆編」為基礎重新構成故事，並加插大量�
 
 ### 播放期間的評價
 
-故事以太空殖民地「諾拉」的崩壞、居民在UE的攻擊下逃生為開始。由於本作的畫風、機體設定及人物設定與以往的高達系列有頗大分別，故開播前已受到激烈批評，<u>及後正式播放時基於劇情出現不少的矛盾和不合理情節</u>
-，令評價雪上加霜。在[Amazon.com接受](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")[藍光光碟預售時](../Page/藍光光碟.md "wikilink")，更有七成評論者刻意在五級評分中只給予一星。
+故事以太空殖民地「諾拉」的崩壞、居民在UE的攻擊下逃生為開始。由於本作的畫風、機體設定及人物設定與以往的高達系列有頗大分別，故開播前已受到激烈批評，<u>及後正式播放時基於劇情出現不少的矛盾和不合理情節</u> ，令評價雪上加霜。在[Amazon.com接受](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")[藍光光碟](../Page/藍光光碟.md "wikilink")預售時，更有七成評論者刻意在五級評分中只給予一星。
 
-官方以小孩子及不看近年的系列作品的父親為目標觀眾，但由於兩類觀眾喜歡的風格有太大差異，造成作品兩邊不討好的現象。及後官方為重新吸引青少年市場，把第二部主角阿瑟姆的年齡從十五歲提升至十七歲，同時在第二部加入校園生活及「兒子在父親壓力下成長」的主題，成功令作品在觀眾中的評價回升，「阿瑟姆編」亦成為本作品中評價相對高的章節，TV播放結束後更推出以「阿瑟姆編」為主線的OVA《MEMORY
-OF EDEN》。但由於「菲利特編」所造成的負面影響，令作品的收視未見起息。
+官方以小孩子及不看近年的系列作品的父親為目標觀眾，但由於兩類觀眾喜歡的風格有太大差異，造成作品兩邊不討好的現象。及後官方為重新吸引青少年市場，把第二部主角阿瑟姆的年齡從十五歲提升至十七歲，同時在第二部加入校園生活及「兒子在父親壓力下成長」的主題，成功令作品在觀眾中的評價回升，「阿瑟姆編」亦成為本作品中評價相對高的章節，TV播放結束後更推出以「阿瑟姆編」為主線的OVA《MEMORY OF EDEN》。但由於「菲利特編」所造成的負面影響，令作品的收視未見起息。
 
 負責腳本的日野曾經在自己的Twitter上發出感想卻被多數人留言劇情矛盾和不合理情節，在自己的Twitter上指責多數人不懂創作的價值\[25\]。
 
@@ -41,8 +32,7 @@ OF EDEN》。但由於「菲利特編」所造成的負面影響，令作品的�
 
 自人類移民至太空殖民地以來，經過了數百年的宇宙時代，圍繞地球圈霸權的爭奪戰爭結束，大家以為和平的時代終於到來。
 
-A.G.101年，突然出現的未知敵人（Unknown
-Enemy。以下簡稱「UE」）前來襲擊，太空殖民地「天使」完全崩毀，死傷無數。這事件就是「天使之落日」，它讓居住於地球圈的人類，再度陷入漫長的苦痛之中，而此事亦為長達一百年的戰爭揭開序幕。
+A.G.101年，突然出現的未知敵人（Unknown Enemy。以下簡稱「UE」）前來襲擊，太空殖民地「天使」完全崩毀，死傷無數。這事件就是「天使之落日」，它讓居住於地球圈的人類，再度陷入漫長的苦痛之中，而此事亦為長達一百年的戰爭揭開序幕。
 
 ### 第一部・菲力特編（一至十五話）
 
@@ -58,8 +48,7 @@ A.G.141年，於學校畢業的阿瑟姆加入了地球聯邦軍，駕駛著新�
 
 ### 第三部・奇歐編（二十九至三十九話）
 
-藉著成功阻止由域根的移動要塞「達尼斯」發起的「諾多拉姆」攻略作戰，地球得救了。但是在這之後於地球圈掀起的大動亂，迫使地球聯邦政府不行不步向變革。在這動盪的時代當中，阿瑟姆與蘿瑪莉兩人決定了要一起繼續走下去。
-如是者過了10年…
+藉著成功阻止由域根的移動要塞「達尼斯」發起的「諾多拉姆」攻略作戰，地球得救了。但是在這之後於地球圈掀起的大動亂，迫使地球聯邦政府不行不步向變革。在這動盪的時代當中，阿瑟姆與蘿瑪莉兩人決定了要一起繼續走下去。 如是者過了10年…
 
 A.G.151年，兩人的結晶——奇歐·明日野誕生。
 
@@ -71,8 +60,7 @@ A.G.164年，被帶到火星圈的奇奧，在化名「艾殊船長」的阿瑟�
 
 驅使著嶄新的鋼彈「鋼彈AGE-FX」，奇歐為了阻止戰爭而發揮出身為極能者的力量。阿瑟姆以宇宙海賊的身份週旋在兩個陣營之間保持著雙方的勢力平衡，為了維持不會有大戰的短暫和平而努力。然而，菲力特・明日野內心對維根的憎恨日益膨脹，他一心只想把域根一舉殲滅。
 
-連邦軍對被維根奪去的月面基地展開進攻。同時，域根最大的宇宙要塞「拉.古拉美斯」也開始有所行動。
-地球圈與火星圈之間的長久戰爭，即將步入最終局面……
+連邦軍對被維根奪去的月面基地展開進攻。同時，域根最大的宇宙要塞「拉.古拉美斯」也開始有所行動。 地球圈與火星圈之間的長久戰爭，即將步入最終局面……
 
 ## 登場人物
 
@@ -164,8 +152,7 @@ A.G.164年，被帶到火星圈的奇奧，在化名「艾殊船長」的阿瑟�
     地球和月球之間航道的暗礁區域，有大量遇難船隻的殘骸，對於此地有大量不詳的傳言。
 
   - 安巴特（Ambat）
-    因老朽化而被廢棄的前地球聯邦軍宇宙要塞，其後成為了UE的根據地。
-    於驅蝠戰役之中被地球聯邦軍中校庫爾迪克·艾諾亞率領的聯合艦隊攻陷，維根要塞司令基拉·佐伊遂啟動自我毀滅程式將要塞炸毀。
+    因老朽化而被廢棄的前地球聯邦軍宇宙要塞，其後成為了UE的根據地。 於驅蝠戰役之中被地球聯邦軍中校庫爾迪克·艾諾亞率領的聯合艦隊攻陷，維根要塞司令基拉·佐伊遂啟動自我毀滅程式將要塞炸毀。
 
   - **殖民地**
     在大多數鋼彈系列中均會出現，是在宇宙中的巨大人工土地。
@@ -183,10 +170,7 @@ A.G.164年，被帶到火星圈的奇奧，在化名「艾殊船長」的阿瑟�
   - : **諾拉（Nora）**
 
       -
-        還沒有被捲入UE頻發的戰爭之中的地球聯邦殖民地，人民過著嚮往的和平生活。
-        有著地球聯邦軍名為阿靈斯頓的基地，基地裡有著最低限度的武裝防禦設備，還建有基地工作人員的公用起居設施。
-        菲利特在母親死後移居這裡，被基地司令亨德里克·布魯薩撫養成人。 第一部的故事將由這裡展開。
-        A.G.115年被UE所破壞，殖民地居民進入殖民地核心避難，核心再由歌姬號拉出，其後「諾拉」居民已被遷往「特魯迪亞」，目前可能在原址沿用原名建造新殖民地。
+        還沒有被捲入UE頻發的戰爭之中的地球聯邦殖民地，人民過著嚮往的和平生活。 有著地球聯邦軍名為阿靈斯頓的基地，基地裡有著最低限度的武裝防禦設備，還建有基地工作人員的公用起居設施。 菲利特在母親死後移居這裡，被基地司令亨德里克·布魯薩撫養成人。 第一部的故事將由這裡展開。 A.G.115年被UE所破壞，殖民地居民進入殖民地核心避難，核心再由歌姬號拉出，其後「諾拉」居民已被遷往「特魯迪亞」，目前可能在原址沿用原名建造新殖民地。
 
   - : **法丹（Fardain）**
 
@@ -216,20 +200,16 @@ A.G.164年，被帶到火星圈的奇奧，在化名「艾殊船長」的阿瑟�
         明日野家代代相傳的記憶組件，保存有被稱為救世主的機動戰士「鋼彈」的設計圖。該資料為明日野家獨自反覆進行的研究與長久以來蓄積的技術融合的成果，是堪稱為「代代單傳的秘笈」的優秀裝置。
     **AGE系統（AGE System）**
       -
-        鋼彈、AGE裝置、AGE建造機3位一體的總稱，菲利特·明日野研發類似生物的進化系統。通過收集戰鬥時所得的數據，令AGE系統可以研究和發展出更適用於戰場的兵器，即是說通過戰鬥機體會不斷強化。
-        其中樞系統位於鋼彈胸前，透過機體後的天線把數據傳送至AGE建造機，後來將其內部的數據資料和EXA-DB內部的資料統合，開發出抵銷火星磁力風暴的「**伊華士系統**」。
+        鋼彈、AGE裝置、AGE建造機3位一體的總稱，菲利特·明日野研發類似生物的進化系統。通過收集戰鬥時所得的數據，令AGE系統可以研究和發展出更適用於戰場的兵器，即是說通過戰鬥機體會不斷強化。 其中樞系統位於鋼彈胸前，透過機體後的天線把數據傳送至AGE建造機，後來將其內部的數據資料和EXA-DB內部的資料統合，開發出抵銷火星磁力風暴的「**伊華士系統**」。
     **AGE建造機（AGE Builder）**
       -
-        通過收集AGE系統的數據和提案，可以利用鑄塊高速削出武器的形狀並加以組裝，為全自動的生產系統。
-        原本只適用於鋼彈，經改良後可製造歌姬號的新裝備。
-        於第48話被維根以拉.古拉美斯與第二月球連結後發射的迪古瑪哲隆砲擊毀。
+        通過收集AGE系統的數據和提案，可以利用鑄塊高速削出武器的形狀並加以組裝，為全自動的生產系統。 原本只適用於鋼彈，經改良後可製造歌姬號的新裝備。 於第48話被維根以拉.古拉美斯與第二月球連結後發射的迪古瑪哲隆砲擊毀。
     **EXA-DB**
       -
         一個保存了舊國家戰爭時期技術的巨大兵器數據庫，最初由地球聯邦政府創造，秘密保存了理應被廢棄的戰鬥兵器數據、戰術及設計圖，被稱為「詛咒的秘寶」，後來下落不明，如果此數據庫的資料完全落入任何一方手上，足可以影響戰局。而正因為伊傑康特曾得到EXA-DB的一部份，通過分析當中的技術而改良出新科技，維根的軍事科技因而遠遠超越失去這些科技的地球聯邦軍，後來將其內部的數據資料和AGE系統內部的資料統合，開發出抵銷火星磁力風暴的「**伊華士系統**」。
     **德斯步槍（Dods Rifle）**
       -
-        AGE系統最初研發的射擊武器，可發射旋轉性的光束，足以貫穿UE機動戰士的裝甲。
-        其後驅蝠戰役中，馬度納工房曾研製過量產型的「德斯槍」。
+        AGE系統最初研發的射擊武器，可發射旋轉性的光束，足以貫穿UE機動戰士的裝甲。 其後驅蝠戰役中，馬度納工房曾研製過量產型的「德斯槍」。
         在第二季後，此項技術已被不斷改良，並成為機動戰士的主力武器。
         根據小說設定，Dods為「**Drill-Orbital Discharge System**」的略稱。
     **光子爆裂加農砲（Photon Blaster Cannon）**
@@ -245,10 +225,7 @@ A.G.164年，被帶到火星圈的奇奧，在化名「艾殊船長」的阿瑟�
   - 伊甸計劃（Project Eden）
     由維根首領伊謝魯康特制定的龐大計劃，利用優生學的原理挑選出最優秀的人類作為地球的住民，以斬斷人類戰爭的枷鎖，創造永久和平的「伊甸」。
   - X-巡遊者（X-Rounder）
-    地球聯邦正在研究的[超人類主義](https://zh.wikipedia.org/wiki/超人類主義 "wikilink")，相當於以往鋼彈所說的[新人類如](https://zh.wikipedia.org/wiki/新人類 "wikilink")[宇宙世紀或](../Page/宇宙世紀.md "wikilink")[GUNDAM
-    X的](https://zh.wikipedia.org/wiki/GUNDAM_X "wikilink")[新類型人或](https://zh.wikipedia.org/wiki/新類型人 "wikilink")[GUNDAM
-    00變革者](https://zh.wikipedia.org/wiki/GUNDAM_00 "wikilink")，可以感受到一般人無法感受到的事情。
-    人類的腦部擁有一個掌管特殊能力的領域，這個領域有人稱為X領域。普通人的一生正常來說也不會使用到這個領域，可以使用這個領域，感受超感官的人，就稱為X-巡遊者(極能者)。
+    地球聯邦正在研究的[超人類主義](https://zh.wikipedia.org/wiki/超人類主義 "wikilink")，相當於以往鋼彈所說的[新人類如](https://zh.wikipedia.org/wiki/新人類 "wikilink")[宇宙世紀](../Page/宇宙世紀.md "wikilink")或[GUNDAM X的](https://zh.wikipedia.org/wiki/GUNDAM_X "wikilink")[新類型人或](https://zh.wikipedia.org/wiki/新類型人 "wikilink")[GUNDAM 00變革者](https://zh.wikipedia.org/wiki/GUNDAM_00 "wikilink")，可以感受到一般人無法感受到的事情。 人類的腦部擁有一個掌管特殊能力的領域，這個領域有人稱為X領域。普通人的一生正常來說也不會使用到這個領域，可以使用這個領域，感受超感官的人，就稱為X-巡遊者(極能者)。
   - 八大法師（Magician 8）
     隸屬維根壓制地球軍的精銳部隊，由八名優秀X Rounder組成，在巨輪攻防戰中首度出戰。
   - 三幻影（Phantom 3）
@@ -272,65 +249,49 @@ A.G.164年，被帶到火星圈的奇奧，在化名「艾殊船長」的阿瑟�
 
 :; 1.「」（第1話 - 第15話）
 
-::
-作詞：[尾崎雄貴](https://zh.wikipedia.org/wiki/尾崎雄貴 "wikilink")／作曲：尾崎雄貴、[岩井郁人](https://zh.wikipedia.org/wiki/岩井郁人 "wikilink")／編曲：[Galileo
-Galilei](../Page/Galileo_Galilei_\(樂團\).md "wikilink")／歌：Galileo Galilei
-（[SME Records](../Page/SME_Records.md "wikilink")）
+:: 作詞：[尾崎雄貴](https://zh.wikipedia.org/wiki/尾崎雄貴 "wikilink")／作曲：尾崎雄貴、[岩井郁人](https://zh.wikipedia.org/wiki/岩井郁人 "wikilink")／編曲：[Galileo Galilei](../Page/Galileo_Galilei_\(樂團\).md "wikilink")／歌：Galileo Galilei （[SME Records](../Page/SME_Records.md "wikilink")）
 
 :; 2.「sharp \#」（第16話 - 第28話）
 
-::作詞：[蒼山幸子](https://zh.wikipedia.org/wiki/蒼山幸子 "wikilink")／作曲：蒼山幸子、[沙田瑞紀](https://zh.wikipedia.org/wiki/沙田瑞紀 "wikilink")／編曲：[ねごと](https://zh.wikipedia.org/wiki/ねごと "wikilink")／歌：(ねごと)（[Ki/oon
-Music](https://zh.wikipedia.org/wiki/Ki/oon_Music "wikilink")）
+::作詞：[蒼山幸子](https://zh.wikipedia.org/wiki/蒼山幸子 "wikilink")／作曲：蒼山幸子、[沙田瑞紀](https://zh.wikipedia.org/wiki/沙田瑞紀 "wikilink")／編曲：[ねごと](https://zh.wikipedia.org/wiki/ねごと "wikilink")／歌：(ねごと)（[Ki/oon Music](https://zh.wikipedia.org/wiki/Ki/oon_Music "wikilink")）
 
 :; 3.「REAL」（第29話 -第39話）
 
-::
-作詞：シン／作曲：イヴ／編曲：ViViD・[宅見將典](https://zh.wikipedia.org/wiki/宅見將典 "wikilink")／歌：[ViViD](../Page/ViViD.md "wikilink")（[Epic
-Records Japan
-Inc.](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")）
+:: 作詞：シン／作曲：イヴ／編曲：ViViD・[宅見將典](https://zh.wikipedia.org/wiki/宅見將典 "wikilink")／歌：[ViViD](../Page/ViViD.md "wikilink")（[Epic Records Japan Inc.](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")）
 
 :; 4.「AURORA」（第40話 - 第49話）
 
   -
 
       -
-        作詞：Eir、[重永亮介](https://zh.wikipedia.org/wiki/重永亮介 "wikilink")／作曲：重永亮介／編曲：[下川佳代](https://zh.wikipedia.org/wiki/下川佳代 "wikilink")、重永亮介／歌：[藍井艾露](../Page/藍井艾露.md "wikilink")（SME
-        Records）
+        作詞：Eir、[重永亮介](https://zh.wikipedia.org/wiki/重永亮介 "wikilink")／作曲：重永亮介／編曲：[下川佳代](https://zh.wikipedia.org/wiki/下川佳代 "wikilink")、重永亮介／歌：[藍井艾露](../Page/藍井艾露.md "wikilink")（SME Records）
 
   - 片尾曲
 
 :; 1.「」（第1話 - 第15話）
 
-::
-作詞：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")／作曲：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")／編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")／歌：栗林美奈實（[Lantis](../Page/Lantis.md "wikilink")）
+:: 作詞：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")／作曲：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")／編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")／歌：栗林美奈實（[Lantis](../Page/Lantis.md "wikilink")）
 
 :; 2.「My World」（第16話 - 第28話）
 
-::作詞：[MOMIKEN](https://zh.wikipedia.org/wiki/MOMIKEN "wikilink")／作曲：[UZ](https://zh.wikipedia.org/wiki/UZ "wikilink")／編曲：[SPYAIR](../Page/SPYAIR.md "wikilink")／歌：[SPYAIR](../Page/SPYAIR.md "wikilink")（[Sony
-Music Associated
-Records](https://zh.wikipedia.org/wiki/Sony_Music_Associated_Records "wikilink")）
+::作詞：[MOMIKEN](https://zh.wikipedia.org/wiki/MOMIKEN "wikilink")／作曲：[UZ](https://zh.wikipedia.org/wiki/UZ "wikilink")／編曲：[SPYAIR](../Page/SPYAIR.md "wikilink")／歌：[SPYAIR](../Page/SPYAIR.md "wikilink")（[Sony Music Associated Records](https://zh.wikipedia.org/wiki/Sony_Music_Associated_Records "wikilink")）
 
 :; 3.「WHITE justice」（第29話 - 第39話）
 
-:: 作詞：飛蘭／作曲：[上松範康](../Page/上松範康.md "wikilink")（[Elements
-Garden](../Page/Elements_Garden.md "wikilink")）／編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（Elements
-Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（Lantis）
+:: 作詞：飛蘭／作曲：[上松範康](../Page/上松範康.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）／編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（Lantis）
 
 :;4.「forget-me-not 〜ワスレナグサ〜」（第40話 - 第49話）
 
   -
 
       -
-        作詞：[川村結花](https://zh.wikipedia.org/wiki/川村結花 "wikilink")／作曲：[三橋隆幸](https://zh.wikipedia.org/wiki/三橋隆幸 "wikilink")／編曲：[Jin
-        Nakamura](https://zh.wikipedia.org/wiki/Jin_Nakamura "wikilink")／歌：[FLOWER](../Page/FLOWER.md "wikilink")（Sony
-        Music Associated Records）
+        作詞：[川村結花](https://zh.wikipedia.org/wiki/川村結花 "wikilink")／作曲：[三橋隆幸](https://zh.wikipedia.org/wiki/三橋隆幸 "wikilink")／編曲：[Jin Nakamura](https://zh.wikipedia.org/wiki/Jin_Nakamura "wikilink")／歌：[FLOWER](../Page/FLOWER.md "wikilink")（Sony Music Associated Records）
 
   - 插入曲
     ; 1. 「Memorial days」（第11話、第14話）
 
       -
-        作詞：[KOKIA](../Page/KOKIA.md "wikilink")／作曲：[KOKIA](../Page/KOKIA.md "wikilink")／編曲
-        ：[伊藤真澄](../Page/伊藤真澄.md "wikilink")／歌：[KOKIA](../Page/KOKIA.md "wikilink")（Lantis）
+        作詞：[KOKIA](../Page/KOKIA.md "wikilink")／作曲：[KOKIA](../Page/KOKIA.md "wikilink")／編曲 ：[伊藤真澄](../Page/伊藤真澄.md "wikilink")／歌：[KOKIA](../Page/KOKIA.md "wikilink")（Lantis）
 
   - ; 2. 「君と僕はそこにいた」（第17話）
 
@@ -1117,7 +1078,7 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 
 ## 小説
 
-小說版為電視動畫版的改編，作者為[小太刀右京](https://zh.wikipedia.org/wiki/小太刀右京 "wikilink")，由[角川Sneaker文庫出版](../Page/角川Sneaker文庫.md "wikilink")，於2012年2月開始發行，全5卷，目前尚未有官方中文版本。
+小說版為電視動畫版的改編，作者為[小太刀右京](https://zh.wikipedia.org/wiki/小太刀右京 "wikilink")，由[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")出版，於2012年2月開始發行，全5卷，目前尚未有官方中文版本。
 
   - 「機動戰士GUNDAM AGE(1) スタンド・アップ」 2012年2月1日發售、ISBN 978-4-04-100147-9
   - 「機動戰士GUNDAM AGE(2) アウェイクン」 2012年4月1日發售、ISBN 978-4-04-100180-6
@@ -1128,52 +1089,44 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 ## 漫畫版
 
   - **機動戰士GUNDAM AGE ～起始的物語～**
-    《機動戰士GUNDAM AGE
-    ～起始的物語～》為《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》2011年10月5日的45號與同月12日的46號刊載的讀切版漫畫\[27\]。作者為[中西寬](https://zh.wikipedia.org/wiki/中西寬 "wikilink")。
+    《機動戰士GUNDAM AGE ～起始的物語～》為《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》2011年10月5日的45號與同月12日的46號刊載的讀切版漫畫\[27\]。作者為[中西寬](https://zh.wikipedia.org/wiki/中西寬 "wikilink")。
 
 <!-- end list -->
 
   - **機動戰士GUNDAM AGE -First Evolution-**
-    《機動戰士GUNDAM AGE -First Evolution-》為於《[GUNDAM
-    ACE](../Page/GUNDAM_ACE.md "wikilink")》2011年12月號開始連載的電視動畫版漫畫化作品，記載菲力特編。作者為[葛木ヒヨシ](https://zh.wikipedia.org/wiki/葛木ヒヨシ "wikilink")。
+    《機動戰士GUNDAM AGE -First Evolution-》為於《[GUNDAM ACE](../Page/GUNDAM_ACE.md "wikilink")》2011年12月號開始連載的電視動畫版漫畫化作品，記載菲力特編。作者為[葛木ヒヨシ](https://zh.wikipedia.org/wiki/葛木ヒヨシ "wikilink")。
 
 <!-- end list -->
 
   - **機動戰士GUNDAM AGE -Second Evolution-**
-    《機動戰士GUNDAM AGE -Second Evolution-》為於《[Newtype
-    Ace](https://zh.wikipedia.org/wiki/Newtype_Ace "wikilink")》2011年第4期開始連載的電視動畫版漫畫化作品，記載阿西姆編。作者為[はばう](https://zh.wikipedia.org/wiki/はばう "wikilink")。
+    《機動戰士GUNDAM AGE -Second Evolution-》為於《[Newtype Ace](https://zh.wikipedia.org/wiki/Newtype_Ace "wikilink")》2011年第4期開始連載的電視動畫版漫畫化作品，記載阿西姆編。作者為[はばう](https://zh.wikipedia.org/wiki/はばう "wikilink")。
 
 <!-- end list -->
 
   - **機動戰士GUNDAM AGE -Final Evolution-**
-    《機動戰士GUNDAM AGE -Final Evolution-》為於《[GUNDAM
-    ACE](../Page/GUNDAM_ACE.md "wikilink")》2012年11月號開始連載的電視動畫版漫畫化作品，記載奇歐編和三世代編。作者為[はばう](https://zh.wikipedia.org/wiki/はばう "wikilink")。
+    《機動戰士GUNDAM AGE -Final Evolution-》為於《[GUNDAM ACE](../Page/GUNDAM_ACE.md "wikilink")》2012年11月號開始連載的電視動畫版漫畫化作品，記載奇歐編和三世代編。作者為[はばう](https://zh.wikipedia.org/wiki/はばう "wikilink")。
 
 ## 外傳作品
 
   - **機動戰士GUNDAM AGE TREASURE STAR**
-    《機動戰士GUNDAM AGE TREASURE
-    STAR》為《[快樂快樂月刊](../Page/快樂快樂月刊.md "wikilink")》自2011年10月號開始連載的原創劇情版漫畫\[28\]。作者為[吉田正紀](https://zh.wikipedia.org/wiki/吉田正紀 "wikilink")。
+    《機動戰士GUNDAM AGE TREASURE STAR》為《[快樂快樂月刊](../Page/快樂快樂月刊.md "wikilink")》自2011年10月號開始連載的原創劇情版漫畫\[28\]。作者為[吉田正紀](https://zh.wikipedia.org/wiki/吉田正紀 "wikilink")。
     其世界觀與電視動畫版共用，菲利特·明日野以客串演出的方式登場於其中。
 
 <!-- end list -->
 
   - **機動戰士GUNDAM AGE 追憶的-{zh-cn:希德;zh-hk:薜德;}-**
-    《機動戰士GUNDAM AGE
-    追憶的-{zh-cn:希德;zh-hk:薜德;}-》為《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》自2012年3月號開始連載的官方漫畫。作者為[中西寬](https://zh.wikipedia.org/wiki/中西寬 "wikilink")。
+    《機動戰士GUNDAM AGE 追憶的-{zh-cn:希德;zh-hk:薜德;}-》為《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》自2012年3月號開始連載的官方漫畫。作者為[中西寬](https://zh.wikipedia.org/wiki/中西寬 "wikilink")。
     時間線在阿西姆編和奇奧編之間，以宇宙海盜比西迪安的成員為主角，補充了第二部和第三部之間的空白期，同時交代了阿西姆加入比西迪安的緣由及EXA-DB的詳情。
 
 <!-- end list -->
 
   - **機動戰士GUNDAM AGE UNKNOWN SOLDIERS**
-    《機動戰士GUNDAM AGE UNKNOWN SOLDIERS》為月刊《Hobby
-    Japan》自2012年7月號開始連載的外傳作品，屬於MSV系列作品。
+    《機動戰士GUNDAM AGE UNKNOWN SOLDIERS》為月刊《Hobby Japan》自2012年7月號開始連載的外傳作品，屬於MSV系列作品。
 
 <!-- end list -->
 
   - **機動戰士GUNDAM AGE EXA-LOG**
-    《機動戰士GUNDAM AGE EXA-LOG》 為《電撃HOBBY
-    MAGAZINE》自2012年7月號開始連載的外傳作品，屬於MSV系列作品。
+    《機動戰士GUNDAM AGE EXA-LOG》 為《電撃HOBBY MAGAZINE》自2012年7月號開始連載的外傳作品，屬於MSV系列作品。
 
 ## 廣播劇CD
 
@@ -1183,15 +1136,12 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 ## 遊戲
 
   - **機動戰士GUNDAM AGE 宇宙加速/宇宙驅動**
-    於2012年8月30日發售的[PSP遊戲](https://zh.wikipedia.org/wiki/PSP "wikilink")，屬於[RPG形式](../Page/電子角色扮演遊戲.md "wikilink")。遊戲系統與同樣由LEVEL-5開發的[紙箱戰機相似](../Page/紙箱戰機.md "wikilink")，可以自由組合零件，育成和改造出屬於自己的機動戰士。遊戲將收錄動畫版所有劇情，並補充了菲力特青年時期的故事，同時在原有的動畫版劇情中亦有一定的修改。
+    於2012年8月30日發售的[PSP遊戲](https://zh.wikipedia.org/wiki/PSP "wikilink")，屬於[RPG形式](../Page/電子角色扮演遊戲.md "wikilink")。遊戲系統與同樣由LEVEL-5開發的[紙箱戰機](../Page/紙箱戰機.md "wikilink")相似，可以自由組合零件，育成和改造出屬於自己的機動戰士。遊戲將收錄動畫版所有劇情，並補充了菲力特青年時期的故事，同時在原有的動畫版劇情中亦有一定的修改。
 
 <!-- end list -->
 
   -
-    除了收錄本系列的機體，兩個版本將收錄其餘高達系列的機體，《宇宙加速》會收錄[宇宙世紀的機體](../Page/宇宙世紀.md "wikilink")，《宇宙驅動》會收錄[機動戰士GUNDAM
-    SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")、[機動戰士GUNDAM SEED
-    DESTINY及](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")[機動戰士GUNDAM
-    00的機體](../Page/機動戰士GUNDAM_00.md "wikilink")。
+    除了收錄本系列的機體，兩個版本將收錄其餘高達系列的機體，《宇宙加速》會收錄[宇宙世紀](../Page/宇宙世紀.md "wikilink")的機體，《宇宙驅動》會收錄[機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")、[機動戰士GUNDAM SEED DESTINY及](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")[機動戰士GUNDAM 00的機體](../Page/機動戰士GUNDAM_00.md "wikilink")。
 
 ## 參考資料
 
@@ -1201,8 +1151,7 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 
   - [官方網站](http://www.gundam-age.net/)
 
-  - [從閃電十一人、雷頓教授、鋼彈AGE認識後起新秀
-    LEVEL-5](http://gnn.gamer.com.tw/0/55580.html)
+  - [從閃電十一人、雷頓教授、鋼彈AGE認識後起新秀 LEVEL-5](http://gnn.gamer.com.tw/0/55580.html)
 
   -
   - [「机动战士敢-{}-达AGE」官方网站](https://web.archive.org/web/20111003175939/http://cn.gundam.info/age/)
@@ -1215,18 +1164,11 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 
 ### 播放链接
 
-  - [机动战士敢达AGE
-    优酷中文播放专区](http://www.youku.com/show_page/id_ze1938f0a61ad11e0bea1.html)
+  - [机动战士敢达AGE 优酷中文播放专区](http://www.youku.com/show_page/id_ze1938f0a61ad11e0bea1.html)
 
-  - [机动战士敢达AGE
-    爱奇艺中文播放专区](https://web.archive.org/web/20140223125537/http://www.iqiyi.com/dongman/gundamage.html)
+  - [机动战士敢达AGE 爱奇艺中文播放专区](https://web.archive.org/web/20140223125537/http://www.iqiyi.com/dongman/gundamage.html)
 
-[Category:2011年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年TBS電視網動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:GUNDAM_AGE](https://zh.wikipedia.org/wiki/Category:GUNDAM_AGE "wikilink")
-[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
-[Category:火星背景作品](https://zh.wikipedia.org/wiki/Category:火星背景作品 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
+[Category:2011年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年TBS電視網動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:GUNDAM_AGE](https://zh.wikipedia.org/wiki/Category:GUNDAM_AGE "wikilink") [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink") [Category:火星背景作品](https://zh.wikipedia.org/wiki/Category:火星背景作品 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
 
 1.
 2.
@@ -1245,8 +1187,7 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 15.
 16.
 17.
-18. [機動戦士GUNDAM AGE MEMORY OF
-    EDEN公式網頁](http://www.gundam-age.net/memory_of_eden/)STAFF一覧
+18. [機動戦士GUNDAM AGE MEMORY OF EDEN公式網頁](http://www.gundam-age.net/memory_of_eden/)STAFF一覧
 
 19.
 20.

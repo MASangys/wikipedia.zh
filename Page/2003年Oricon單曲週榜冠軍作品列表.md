@@ -1,6 +1,6 @@
-**2003年Oricon單曲週榜冠軍作品列表**列出2003年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2003年Oricon單曲週榜冠軍作品列表**列出2003年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
-全年度共有37首冠軍單曲誕生，其中[福山雅治的](../Page/福山雅治.md "wikilink")《[虹／向日葵／這就是一切](https://zh.wikipedia.org/wiki/虹/向日葵/這就是一切 "wikilink")》取得冠軍的週書最多（5週）。
+全年度共有37首冠軍單曲誕生，其中[福山雅治](../Page/福山雅治.md "wikilink")的《[虹／向日葵／這就是一切](https://zh.wikipedia.org/wiki/虹/向日葵/這就是一切 "wikilink")》取得冠軍的週書最多（5週）。
 
 ## 冠軍單曲列表
 
@@ -385,5 +385,4 @@
 
   - [2003年每週公信榜統計數據](https://web.archive.org/web/20101102201648/http://musictvprogram.com/oricon2003.html)
 
-[Category:2003年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:2003年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")

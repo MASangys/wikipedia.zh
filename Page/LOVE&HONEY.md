@@ -2,16 +2,12 @@
 
 ## 解說
 
-  - 自身首張4曲A面單曲。3rd[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")「[feel
-    my
-    mind](https://zh.wikipedia.org/wiki/feel_my_mind "wikilink")」的初回限定盤中收錄的「[甜心戰士](../Page/甜心戰士.md "wikilink")」再次收錄到本單曲中另加上新錄曲3曲。
+  - 自身首張4曲A面單曲。3rd[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")「[feel my mind](https://zh.wikipedia.org/wiki/feel_my_mind "wikilink")」的初回限定盤中收錄的「[甜心戰士](../Page/甜心戰士.md "wikilink")」再次收錄到本單曲中另加上新錄曲3曲。
   - 另外，首次以「CD ONLY」「CD＋DVD」2形態形式發行。
-  - 本單曲繼2003年發行之7th單曲「[real
-    Emotion/千言萬語](https://zh.wikipedia.org/wiki/real_Emotion/千言萬語 "wikilink")」之後第2次再進[Oricon](../Page/Oricon.md "wikilink")單曲榜10名內。
+  - 本單曲繼2003年發行之7th單曲「[real Emotion/千言萬語](https://zh.wikipedia.org/wiki/real_Emotion/千言萬語 "wikilink")」之後第2次再進[Oricon](../Page/Oricon.md "wikilink")單曲榜10名內。
   - 在音樂節目中穿著暴露度較高的衣服引起話題，奠定其「エロかっこいい（性感帥氣）」的路線。
   - 倖田來未本人也參加電影「[甜心戰士](../Page/甜心戰士.md "wikilink")」的角色，並演唱其主題曲。
-  - 「CD+DVD」與「CD ONLY」版中的CD曲目「The theme of Sister
-    Jill」為不同版本，另外「CD+DVD」有8頁歌詞本。
+  - 「CD+DVD」與「CD ONLY」版中的CD曲目「The theme of Sister Jill」為不同版本，另外「CD+DVD」有8頁歌詞本。
 
 ## 發行版本
 
@@ -27,8 +23,7 @@
         作詞: クロード・Q、作曲: 渡辺岳夫、編曲: h-wonder
           -
             電影「[甜心戰士](../Page/甜心戰士.md "wikilink")」片頭曲，翻唱「[甜心戰士](../Page/甜心戰士.md "wikilink")」TV動畫版的片頭曲。
-            OVA「[Re:
-            甜心戰士](https://zh.wikipedia.org/wiki/Re:_甜心戰士 "wikilink")」片頭曲。
+            OVA「[Re: 甜心戰士](https://zh.wikipedia.org/wiki/Re:_甜心戰士 "wikilink")」片頭曲。
 2.  '''The theme of Sister Jill (Short version) '''
       -
         作詞:倖田來未 Sachi Bennett / 作曲:Harutoshi Noda / 編曲:h-wonder
@@ -45,8 +40,7 @@
         作詞・作曲:渡辺未来 / 編曲:h-wonder
           -
             電影「[甜心戰士](../Page/甜心戰士.md "wikilink")」片尾曲。
-            OVA「[Re:
-            甜心戰士](https://zh.wikipedia.org/wiki/Re:_甜心戰士 "wikilink")」片尾曲。
+            OVA「[Re: 甜心戰士](https://zh.wikipedia.org/wiki/Re:_甜心戰士 "wikilink")」片尾曲。
 5.  '''キューティーハニー 甜心戰士 （Instrumental） '''
 6.  **Into your heart （Instrumental）**
 
@@ -65,7 +59,4 @@
 5.  ''' キューティーハニー 甜心戰士 （Instrumental） '''
 6.  **Into your heart （Instrumental）**
 
-[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
-[Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
-[Category:甜心戰士](https://zh.wikipedia.org/wiki/Category:甜心戰士 "wikilink")
+[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink") [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink") [Category:甜心戰士](https://zh.wikipedia.org/wiki/Category:甜心戰士 "wikilink")

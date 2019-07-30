@@ -1,5 +1,4 @@
-《**TVBS哈新聞**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：TVBS HOT
-NEWS）為[TVBS的晚間娛樂新聞節目](https://zh.wikipedia.org/wiki/TVBS "wikilink")，開播時間是[台北時間](https://zh.wikipedia.org/wiki/台北時間 "wikilink")（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")+8）每週一至週五20時至21時整。週末精選本周重點新聞作為重播。
+《**TVBS哈新聞**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：TVBS HOT NEWS）為[TVBS的晚間娛樂新聞節目](https://zh.wikipedia.org/wiki/TVBS "wikilink")，開播時間是[台北時間](https://zh.wikipedia.org/wiki/台北時間 "wikilink")（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")+8）每週一至週五20時至21時整。週末精選本周重點新聞作為重播。
 
 ## 節目主持
 
@@ -29,5 +28,4 @@ NEWS）為[TVBS的晚間娛樂新聞節目](https://zh.wikipedia.org/wiki/TVBS "
   - [TVBS哈新聞](http://tvbshotnews.tvbs.com.tw)
 
   -
-[Category:台灣電視新聞節目](https://zh.wikipedia.org/wiki/Category:台灣電視新聞節目 "wikilink")
-[Category:聯利媒體製作電視節目](https://zh.wikipedia.org/wiki/Category:聯利媒體製作電視節目 "wikilink")
+[Category:台灣電視新聞節目](https://zh.wikipedia.org/wiki/Category:台灣電視新聞節目 "wikilink") [Category:聯利媒體製作電視節目](https://zh.wikipedia.org/wiki/Category:聯利媒體製作電視節目 "wikilink")

@@ -4,9 +4,7 @@
 
 A.B.约书亚在他的西班牙系犹太家族中属于第五代耶路撒冷人。他的父亲亚克夫۰约书亚是一位专门研究耶路撒冷历史的学者兼作家，母亲马尔卡۰罗丝莉欧于1932年从摩洛哥移民至此。
 
-约书亚在1954年到1957年服役期间是部队的一名跳伞兵。高中是耶路撒冷的Gymnasia
-Rehavia。在耶路撒冷的希伯来大学攻读完文学和哲学后，他开始教书。那时他居住在耶路撒冷的Neve
-Sha'anan社区。
+约书亚在1954年到1957年服役期间是部队的一名跳伞兵。高中是耶路撒冷的Gymnasia Rehavia。在耶路撒冷的希伯来大学攻读完文学和哲学后，他开始教书。那时他居住在耶路撒冷的Neve Sha'anan社区。
 
 1963年至1967年期间，他在巴黎担任世界犹太学生联盟的秘书长一职。自1972年起，他在海法大学教授比较文学和希伯来文学，同时他享有全职教授的头衔。1975年，他受邀成为牛津大学圣十字学院的客座作家。之后，他还是哈佛大学（1977年）、芝加哥大学（1978、1997和2000年）和普林斯顿大学（1992年）的客座教授。
 
@@ -34,15 +32,10 @@ Sha'anan社区。
 
 ## 政治观点
 
-A. B.
-约书亚是一位坚持不懈、热情支持以色列和平运动的积极分子，他参与了《日内瓦协议》的签署，并在散文和采访中自由发表他的政治观点。他是以色列占领巴勒斯坦的长期反对者，但同时也是巴勒斯坦人的长期批判者。
+A. B. 约书亚是一位坚持不懈、热情支持以色列和平运动的积极分子，他参与了《日内瓦协议》的签署，并在散文和采访中自由发表他的政治观点。他是以色列占领巴勒斯坦的长期反对者，但同时也是巴勒斯坦人的长期批判者。
 
 在2009年的以色列大选前不久，他和其他一些知识分子积极鼓动和提倡旨在和平的“新运动”。
 
 约书亚在意大利《新闻报》中说过，早在2008至2009年的以色列加沙冲突爆发之前，他就首次参与过以色列的和平运动——他曾出版过一份针对加沙居住者的倡议，敦促他们结束暴力。接着，他还解释了“为什么有必要实施以色列行动，以及尽快结束它的迫切程度。”正是因为加沙人民是我们的邻邦，他说道，“我们必须在行动中注意协调，我们必须努力尽快实现停火。”“我们永远都是邻邦，所以流的血越少，未来就会越美好。”他补充道。约书亚还说，他十分希望能完全开放两国边境，甚至希望巴勒斯坦工人来以色列工作能成为停火协议中的一部分。
 
-[Category:以色列小说家](https://zh.wikipedia.org/wiki/Category:以色列小说家 "wikilink")
-[Category:以色列剧作家](https://zh.wikipedia.org/wiki/Category:以色列剧作家 "wikilink")
-[Category:以色列散文家](https://zh.wikipedia.org/wiki/Category:以色列散文家 "wikilink")
-[Category:耶路撒冷希伯來大學校友](https://zh.wikipedia.org/wiki/Category:耶路撒冷希伯來大學校友 "wikilink")
-[Category:巴黎大學校友](https://zh.wikipedia.org/wiki/Category:巴黎大學校友 "wikilink")
+[Category:以色列小说家](https://zh.wikipedia.org/wiki/Category:以色列小说家 "wikilink") [Category:以色列剧作家](https://zh.wikipedia.org/wiki/Category:以色列剧作家 "wikilink") [Category:以色列散文家](https://zh.wikipedia.org/wiki/Category:以色列散文家 "wikilink") [Category:耶路撒冷希伯來大學校友](https://zh.wikipedia.org/wiki/Category:耶路撒冷希伯來大學校友 "wikilink") [Category:巴黎大學校友](https://zh.wikipedia.org/wiki/Category:巴黎大學校友 "wikilink")

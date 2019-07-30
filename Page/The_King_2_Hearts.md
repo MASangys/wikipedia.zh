@@ -1,12 +1,8 @@
-《**The King 2
-Hearts**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年3月21日起播放的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，是由《[茶母](../Page/茶母_\(電視劇\).md "wikilink")》、《[貝多芬病毒](../Page/貝多芬病毒.md "wikilink")》等電視劇的[李在奎導演和洪氏姐妹編劇之](../Page/李在奎.md "wikilink")[洪珍兒作家再度攜手的作品](https://zh.wikipedia.org/wiki/洪氏姊妹#洪珍兒、洪紫蘭 "wikilink")。
+《**The King 2 Hearts**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年3月21日起播放的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，是由《[茶母](../Page/茶母_\(電視劇\).md "wikilink")》、《[貝多芬病毒](../Page/貝多芬病毒.md "wikilink")》等電視劇的[李在奎](../Page/李在奎.md "wikilink")導演和洪氏姐妹編劇之[洪珍兒作家再度攜手的作品](https://zh.wikipedia.org/wiki/洪氏姊妹#洪珍兒、洪紫蘭 "wikilink")。
 
 ## 故事大綱
 
-假定大韓民國是[君主立憲制的情況下](https://zh.wikipedia.org/wiki/君主立憲制 "wikilink")，該劇講述北韓最強女戰士金-{恒}-兒（[河智苑](../Page/河智苑.md "wikilink")
-飾演）和南韓最強厚臉皮王子李在河（[李昇基](../Page/李昇基.md "wikilink") 飾演）在世界軍官大會（World
-Officer
-Championship，簡稱WOC）相遇，經歷迂迴曲折的兩人終於墜入愛河，他們為了自己的愛情和家庭奮鬥，引發既動人又發人省思的教化止戰大格局劇情。
+假定大韓民國是[君主立憲制的情況下](https://zh.wikipedia.org/wiki/君主立憲制 "wikilink")，該劇講述北韓最強女戰士金-{恒}-兒（[河智苑](../Page/河智苑.md "wikilink") 飾演）和南韓最強厚臉皮王子李在河（[李昇基](../Page/李昇基.md "wikilink") 飾演）在世界軍官大會（World Officer Championship，簡稱WOC）相遇，經歷迂迴曲折的兩人終於墜入愛河，他們為了自己的愛情和家庭奮鬥，引發既動人又發人省思的教化止戰大格局劇情。
 
 ## 演員陣容
 
@@ -380,16 +376,7 @@ Championship，簡稱WOC）相遇，經歷迂迴曲折的兩人終於墜入愛�
   - [臺灣緯來官方網站](http://drama.videoland.com.tw/channel/king2heart/)
   - [香港無線電視官方網站](http://programme.tvb.com/drama/king2hearts)
 
-[Category:MBC水木迷你連續劇](https://zh.wikipedia.org/wiki/Category:MBC水木迷你連續劇 "wikilink")
-[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink")
-[Category:王子主角題材電視劇](https://zh.wikipedia.org/wiki/Category:王子主角題材電視劇 "wikilink")
-[Category:虛構朝鮮半島](https://zh.wikipedia.org/wiki/Category:虛構朝鮮半島 "wikilink")
-[Category:政治電視劇](https://zh.wikipedia.org/wiki/Category:政治電視劇 "wikilink")
-[Category:黑色幽默題材電視節目](https://zh.wikipedia.org/wiki/Category:黑色幽默題材電視節目 "wikilink")
-[Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink")
-[Category:洪珍兒與洪紫蘭之劇本作品](https://zh.wikipedia.org/wiki/Category:洪珍兒與洪紫蘭之劇本作品 "wikilink")
+[Category:MBC水木迷你連續劇](https://zh.wikipedia.org/wiki/Category:MBC水木迷你連續劇 "wikilink") [Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:王子主角題材電視劇](https://zh.wikipedia.org/wiki/Category:王子主角題材電視劇 "wikilink") [Category:虛構朝鮮半島](https://zh.wikipedia.org/wiki/Category:虛構朝鮮半島 "wikilink") [Category:政治電視劇](https://zh.wikipedia.org/wiki/Category:政治電視劇 "wikilink") [Category:黑色幽默題材電視節目](https://zh.wikipedia.org/wiki/Category:黑色幽默題材電視節目 "wikilink") [Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink") [Category:洪珍兒與洪紫蘭之劇本作品](https://zh.wikipedia.org/wiki/Category:洪珍兒與洪紫蘭之劇本作品 "wikilink")
 
 1.  [TNMS 홈페이지](http://www.tnms.tv/)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

@@ -1,8 +1,8 @@
-**非侵入式JavaScript**\[1\]是一種將[Javascript從](https://zh.wikipedia.org/wiki/Javascript "wikilink")[HTML結構抽離的設計概念](../Page/HTML.md "wikilink")，避免在HTML標籤中夾雜一堆onchange、onclick等屬性去掛載Javascript事件，讓HTML與Javascript分離，依[模型-视图-控制器的原則將功能權責清楚區分](../Page/MVC.md "wikilink")，使HTML也變得結構化容易閱讀。這個名称并不是正式定义，它的基本原则包括：
+**非侵入式JavaScript**\[1\]是一種將[Javascript從](https://zh.wikipedia.org/wiki/Javascript "wikilink")[HTML](../Page/HTML.md "wikilink")結構抽離的設計概念，避免在HTML標籤中夾雜一堆onchange、onclick等屬性去掛載Javascript事件，讓HTML與Javascript分離，依[模型-视图-控制器的原則將功能權責清楚區分](../Page/MVC.md "wikilink")，使HTML也變得結構化容易閱讀。這個名称并不是正式定义，它的基本原则包括：
 
   - 將网页的[行为层和](../Page/置标语言.md "wikilink")[表现层](../Page/样式表.md "wikilink")[分离开](../Page/关注点分离.md "wikilink")\[2\]；
   - 是解决传统JavaScript编程问题（浏览器呈现不一致，缺乏扩展性）的最佳实践；
-  - 为可能不支持JavaScript高级特性的[用户代理](../Page/用户代理.md "wikilink")（通常是浏览器）提供[渐进增强的支持](../Page/渐进增强.md "wikilink")\[3\]。
+  - 为可能不支持JavaScript高级特性的[用户代理](../Page/用户代理.md "wikilink")（通常是浏览器）提供[渐进增强](../Page/渐进增强.md "wikilink")的支持\[3\]。
 
 ## 新範式
 
@@ -84,8 +84,7 @@ h.goGreen();
 
 非侵入式Javascript的本質是增加了分離的行為層概念，而且這範式的提倡者認同一些相關的原則，如下列：
 
-  - [DOM腳本](../Page/動態HTML.md "wikilink")，即遵循W3C
-    DOM和事件模型，並避免使用某一瀏覽器特定的擴充功能。
+  - [DOM腳本](../Page/動態HTML.md "wikilink")，即遵循W3C DOM和事件模型，並避免使用某一瀏覽器特定的擴充功能。
   - [功能檢測](../Page/渐进增强.md "wikilink")，即在使用特定功能之前先檢查是否支援；對比相反於過去只檢測用戶端使用的瀏覽器(版本)。
   - 更一般來說，JavaScript最佳實務通常與其它編程語言（例如[封裝和](../Page/封裝_\(物件導向程式設計\).md "wikilink")[抽象層](https://zh.wikipedia.org/wiki/抽象層 "wikilink")，避免[全局变量](../Page/全局变量.md "wikilink")，有意義的命名法約定，使用適當的[设计模式式和](https://zh.wikipedia.org/wiki/设计模式 "wikilink")[系統測試](../Page/软件测试.md "wikilink")）平行。這些原則對大規模軟體工程開發非常重要，但過去的JavaScript設計過程中並不受重視。這些原則的採行，使JavaScript被認為是從“玩具”的腳本語言，轉變為正規編程發展工具的重要組成。
 
@@ -93,8 +92,7 @@ h.goGreen();
 
 ## 外部連結
 
-  - [Unobtrusive Client Validation in ASP.NET
-    MVC 3](http://bradwilson.typepad.com/blog/2010/10/mvc3-unobtrusive-validation.html)
+  - [Unobtrusive Client Validation in ASP.NET MVC 3](http://bradwilson.typepad.com/blog/2010/10/mvc3-unobtrusive-validation.html)
 
 ## 参见
 
@@ -102,8 +100,7 @@ h.goGreen();
 
 {{-}}
 
-[Category:JavaScript](https://zh.wikipedia.org/wiki/Category:JavaScript "wikilink")
-[Category:响应式网页设计](https://zh.wikipedia.org/wiki/Category:响应式网页设计 "wikilink")
+[Category:JavaScript](https://zh.wikipedia.org/wiki/Category:JavaScript "wikilink") [Category:响应式网页设计](https://zh.wikipedia.org/wiki/Category:响应式网页设计 "wikilink")
 
 1.
 2.

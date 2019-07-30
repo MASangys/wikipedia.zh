@@ -19,8 +19,7 @@
       - Windows 2000, 2003, 2008
       - SUSE LINUX Enterprise Server 8, 9, 10, 11
       - Red Hat Server 2.1
-      - Red Hat Enterprise Linux AS 3 and 4 and Red Hat Enterprise Linux
-        ES 3 and 4
+      - Red Hat Enterprise Linux AS 3 and 4 and Red Hat Enterprise Linux ES 3 and 4
       - Solaris 9
 
 <!-- end list -->
@@ -37,10 +36,8 @@
   - Handheld Management
       - Palm OS 3.5 and later on Palm devices
       - Windows CE 2.11 and later including Pocket PC devices
-      - BlackBerry 850/857 devices using the DataTAC network and
-        BlackBerry 950/957 devices using the Mobitex network
-      - Synchronized devices, through a Windows 95 and later desktop, or
-        via TCP/IP to the ZENworks Handheld Management server.
+      - BlackBerry 850/857 devices using the DataTAC network and BlackBerry 950/957 devices using the Mobitex network
+      - Synchronized devices, through a Windows 95 and later desktop, or via TCP/IP to the ZENworks Handheld Management server.
 
 ### 管理服務平臺
 
@@ -58,8 +55,7 @@
       - Windows 2000 Server or Windows Server 2003
       - SUSE LINUX Enterprise Server 8 and 9
       - Red Hat Advanced Server 2.1 or Red Hat Enterprise Server 2.1
-      - Red Hat Enterprise Linux AS 3 and 4 and Red Hat Enterprise Linux
-        ES 3 and 4
+      - Red Hat Enterprise Linux AS 3 and 4 and Red Hat Enterprise Linux ES 3 and 4
 
 <!-- end list -->
 
@@ -82,8 +78,7 @@
 
 ### 支持的目錄服務
 
-  - [Novell
-    eDirectory](https://zh.wikipedia.org/wiki/Novell_eDirectory "wikilink")
+  - [Novell eDirectory](https://zh.wikipedia.org/wiki/Novell_eDirectory "wikilink")
 
 <!-- end list -->
 

@@ -1,5 +1,4 @@
-**2012年Oricon單曲週榜冠軍作品列表**列出2012年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
-2012年共有53首冠军单曲诞生，同2009、2010年，没有一首能够蝉联冠军两周或以上。
+**2012年Oricon單曲週榜冠軍作品列表**列出2012年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。 2012年共有53首冠军单曲诞生，同2009、2010年，没有一首能够蝉联冠军两周或以上。
 
 ## 冠軍單曲列表
 
@@ -319,7 +318,7 @@
 <tr class="even">
 <td><p>10月29日</p></td>
 <td><p><a href="../Page/懦弱的化妝舞會.md" title="wikilink">懦弱的化妝舞會</a></p></td>
-<td><p><a href="../Page/指原莉乃.md" title="wikilink">指原莉乃with</a><a href="../Page/入山杏奈.md" title="wikilink">杏</a><a href="https://zh.wikipedia.org/wiki/川荣李奈" title="wikilink">李</a><a href="https://zh.wikipedia.org/wiki/加藤玲奈" title="wikilink">玲</a></p></td>
+<td><p><a href="../Page/指原莉乃.md" title="wikilink">指原莉乃</a>with<a href="../Page/入山杏奈.md" title="wikilink">杏</a><a href="https://zh.wikipedia.org/wiki/川荣李奈" title="wikilink">李</a><a href="https://zh.wikipedia.org/wiki/加藤玲奈" title="wikilink">玲</a></p></td>
 <td><p>6.8</p></td>
 <td><p>1</p></td>
 </tr>
@@ -398,6 +397,4 @@
 
   - [2012年每週公信榜統計數據](https://web.archive.org/web/20170924144941/http://www.musictvprogram.com/oricon2012.html)
 
-[Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
-[Category:2012年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2012年音樂排行榜 "wikilink")
+[Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink") [Category:2012年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2012年音樂排行榜 "wikilink")

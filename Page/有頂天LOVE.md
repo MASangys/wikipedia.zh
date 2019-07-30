@@ -1,13 +1,11 @@
-《**有頂天LOVE**》是[日本的女子偶像組合](../Page/日本.md "wikilink")[S/mileage的第](https://zh.wikipedia.org/wiki/S/mileage "wikilink")6張[单曲](../Page/单曲.md "wikilink")，於2011年8月3日由[hachama发售](https://zh.wikipedia.org/wiki/hachama "wikilink")。
+《**有頂天LOVE**》是[日本](../Page/日本.md "wikilink")的女子偶像組合[S/mileage的第](https://zh.wikipedia.org/wiki/S/mileage "wikilink")6張[单曲](../Page/单曲.md "wikilink")，於2011年8月3日由[hachama发售](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要
 
-  - 《有頂天LOVE》是[S/mileage](https://zh.wikipedia.org/wiki/S/mileage "wikilink")1期成員[小川紗季的畢業單曲](../Page/小川紗季.md "wikilink")，亦是S/mileage加入新成員前的最後一張單曲。
+  - 《有頂天LOVE》是[S/mileage](https://zh.wikipedia.org/wiki/S/mileage "wikilink")1期成員[小川紗季](../Page/小川紗季.md "wikilink")的畢業單曲，亦是S/mileage加入新成員前的最後一張單曲。
   - 此單曲有5個版本，分別有「初回生産限定盤A - D」和「CD ONLY」。「初回生産限定盤A - C」收錄了《有頂天LOVE》的PV。
-  - 「初回生産限定盤A - D」收錄了B面曲「自行車Chiririn」，而「CD
-    ONLY」收錄了洗牌組合[三人祭的](https://zh.wikipedia.org/wiki/三人祭 "wikilink")《Kiss\!
-    夏日派對》。
-  - 在9月26日於[Oricon公信榜單曲週排行榜取得第](../Page/Oricon公信榜.md "wikilink")5位。
+  - 「初回生産限定盤A - D」收錄了B面曲「自行車Chiririn」，而「CD ONLY」收錄了洗牌組合[三人祭的](https://zh.wikipedia.org/wiki/三人祭 "wikilink")《Kiss\! 夏日派對》。
+  - 在9月26日於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週排行榜取得第5位。
 
 ## 收錄内容
 
@@ -38,5 +36,4 @@
 
 1.  有頂天LOVE（School Chorus Ver.）
 
-[Category:S/mileage歌曲](https://zh.wikipedia.org/wiki/Category:S/mileage歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
+[Category:S/mileage歌曲](https://zh.wikipedia.org/wiki/Category:S/mileage歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")

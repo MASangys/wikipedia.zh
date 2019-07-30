@@ -4,8 +4,7 @@
 
 ## 游戏系统
 
-和经典的第三人称射击游戏（third-person
-shooter)不同，在S4联盟中，角色的动作类似于[骇客帝國](https://zh.wikipedia.org/wiki/骇客帝國 "wikilink")(駭客任務),可以进行非现实的跳跃和奔跑。游戏拥有多种模式：
+和经典的第三人称射击游戏（third-person shooter)不同，在S4联盟中，角色的动作类似于[骇客帝國](https://zh.wikipedia.org/wiki/骇客帝國 "wikilink")(駭客任務),可以进行非现实的跳跃和奔跑。游戏拥有多种模式：
 
 ### 游戏模式
 
@@ -15,8 +14,7 @@ shooter)不同，在S4联盟中，角色的动作类似于[骇客帝國](https:/
 
 #### TouchDown（達陣）
 
-TD类似于夺旗模式，玩家需要抢到科技球（头类似球的可爱人偶就是团队比赛半场时间对换地图时跳舞的人偶），并且把球放到指定仪器上，就可以为自己的阵营夺一分。当玩家得到球时，他的耐力会迅速减少，以致不能进行高难度动作，提高放旗难度。每个地图都有两个指定仪器，玩家要把科技球放到对方的仪器内，通往仪器的路上有很多致命红电，对于对方而言就是蓝色的，也就是在自己营地的蓝色电，蓝色的虽然无害但是带着科技球通过会遗失科技球，科技球会重新出现在地图中央。算是混合了S4
-League最多元素的模式，可說為最代表 S4 League 的模式。
+TD类似于夺旗模式，玩家需要抢到科技球（头类似球的可爱人偶就是团队比赛半场时间对换地图时跳舞的人偶），并且把球放到指定仪器上，就可以为自己的阵营夺一分。当玩家得到球时，他的耐力会迅速减少，以致不能进行高难度动作，提高放旗难度。每个地图都有两个指定仪器，玩家要把科技球放到对方的仪器内，通往仪器的路上有很多致命红电，对于对方而言就是蓝色的，也就是在自己营地的蓝色电，蓝色的虽然无害但是带着科技球通过会遗失科技球，科技球会重新出现在地图中央。算是混合了S4 League最多元素的模式，可說為最代表 S4 League 的模式。
 
 #### DeathMatch（死亡竞赛）
 
@@ -32,8 +30,7 @@ League最多元素的模式，可說為最代表 S4 League 的模式。
 
 ### 台湾
 
-  - 2012年1月18日官方在[无名小站](http://www.wretch.cc/blog/wanka168/282487)和[社交网络](http://apps.facebook.com/fans-benefits/?profit=4296&rf=feed)上开始招募测试玩家\[3\]
-    。
+  - 2012年1月18日官方在[无名小站](http://www.wretch.cc/blog/wanka168/282487)和[社交网络](http://apps.facebook.com/fans-benefits/?profit=4296&rf=feed)上开始招募测试玩家\[3\] 。
 
 <!-- end list -->
 
@@ -57,30 +54,15 @@ League最多元素的模式，可說為最代表 S4 League 的模式。
   - [印尼官方网站](http://s4.lytogame.com/teaser/)
   - [日本官方网站](http://www.s4league.jp/)
 
-[Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink")
-[Category:第三人称射击游戏](https://zh.wikipedia.org/wiki/Category:第三人称射击游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
+[Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:第三人称射击游戏](https://zh.wikipedia.org/wiki/Category:第三人称射击游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
 
-1.  [New Action Game S4 League on
-    alaplaya](http://www.gamershell.com/companies/burda_ic_gmbh/444182.html)
+1.  [New Action Game S4 League on alaplaya](http://www.gamershell.com/companies/burda_ic_gmbh/444182.html)
 2.
-3.  [《S4联赛》台服即将首测
-    首部宣传片欣赏](http://news.17173.com/content/2012-01-19/20120119143253895,1.shtml)
-4.  [《S4超特攻聯盟》 官方部落格開張
-    /《菁英封測即將啟動》](http://www.wretch.cc/blog/wanka168/282487)本次测试非全天24小时
-5.  [【3-7百萬人封測‧官網、載點正式開放】 - S4 League 雪莉の秘書記事 -
-    无名小站](http://www.wretch.cc/blog/wanka168/308200)
-6.  [CB測試下午15:00
-    正式啟動！](http://s4league.wankaclub.com/s4/announce_2.aspx?n=1&id=125)
-
-7.  [2012 《S4 超特攻聯盟》
-    封暴來襲](http://s4league.wankaclub.com/event/act20120307/)
+3.  [《S4联赛》台服即将首测 首部宣传片欣赏](http://news.17173.com/content/2012-01-19/20120119143253895,1.shtml)
+4.  [《S4超特攻聯盟》 官方部落格開張 /《菁英封測即將啟動》](http://www.wretch.cc/blog/wanka168/282487)本次测试非全天24小时
+5.  [【3-7百萬人封測‧官網、載點正式開放】 - S4 League 雪莉の秘書記事 - 无名小站](http://www.wretch.cc/blog/wanka168/308200)
+6.  [CB測試下午15:00 正式啟動！](http://s4league.wankaclub.com/s4/announce_2.aspx?n=1&id=125)
+7.  [2012 《S4 超特攻聯盟》 封暴來襲](http://s4league.wankaclub.com/event/act20120307/)
 8.  [《S4超特攻聯盟》4月11日OB正式開戰](http://s4league.wankaclub.com/s4/announce_2.aspx?n=1&id=149)
-
-9.  [《S4 超特攻聯盟》暗影獵殺
-    全新啟動](http://s4league.wankaclub.com/event/S4_Act20120509/index.html)
-
-10. [S4 LEAGUE 超特攻聯盟 - 鋼鐵軍團
-    重裝登場\!](http://s4league.wankaclub.com/Event/S4_Act20120622/index.html)
+9.  [《S4 超特攻聯盟》暗影獵殺 全新啟動](http://s4league.wankaclub.com/event/S4_Act20120509/index.html)
+10. [S4 LEAGUE 超特攻聯盟 - 鋼鐵軍團 重裝登場\!](http://s4league.wankaclub.com/Event/S4_Act20120622/index.html)

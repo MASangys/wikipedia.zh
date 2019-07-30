@@ -1,10 +1,8 @@
-《**Going\!**》為[日本](../Page/日本.md "wikilink")[男性偶像團體](../Page/男性.md "wikilink")[KAT-TUN的第](../Page/KAT-TUN.md "wikilink")12張單曲作品。
+《**Going\!**》為[日本](../Page/日本.md "wikilink")[男性](../Page/男性.md "wikilink")偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第12張單曲作品。
 
 ## 概要
 
-  - 《**Going\!**》是KAT-TUN足以爆破未來世界的一張劃時代的單曲。歌詞針對即將展開新挑戰的人們傳達了聲援之意，為開展新境界的樂曲。此外亦是2010年4月3日開始在日本電視台播放的「[Going\!
-    Sports\&News](https://zh.wikipedia.org/wiki/Going!_Sports&News "wikilink")」新聞的主題曲。而龜梨和也亦在節目中擔當「特殊棒球主播」（Baseball
-    Special Supporter）一職。\[1\]
+  - 《**Going\!**》是KAT-TUN足以爆破未來世界的一張劃時代的單曲。歌詞針對即將展開新挑戰的人們傳達了聲援之意，為開展新境界的樂曲。此外亦是2010年4月3日開始在日本電視台播放的「[Going\! Sports\&News](https://zh.wikipedia.org/wiki/Going!_Sports&News "wikilink")」新聞的主題曲。而龜梨和也亦在節目中擔當「特殊棒球主播」（Baseball Special Supporter）一職。\[1\]
 
 <!-- end list -->
 
@@ -69,10 +67,6 @@
 
 ## 參考來源
 
-[Category:KAT-TUN歌曲](https://zh.wikipedia.org/wiki/Category:KAT-TUN歌曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:2010年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2010年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2010年Japan_Hot_100冠軍歌曲 "wikilink")
+[Category:KAT-TUN歌曲](https://zh.wikipedia.org/wiki/Category:KAT-TUN歌曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:2010年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon單曲週榜冠軍作品 "wikilink") [Category:2010年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2010年Japan_Hot_100冠軍歌曲 "wikilink")
 
-1.  [Going\!Sports\&News 官方網站](http://www.ntv.co.jp/going/cast.html)
-    ，2010年9月19日參閱。
+1.  [Going\!Sports\&News 官方網站](http://www.ntv.co.jp/going/cast.html) ，2010年9月19日參閱。

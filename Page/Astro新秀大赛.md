@@ -1,4 +1,4 @@
-《**Astro新秀大赛**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是由[马来西亚](../Page/马来西亚.md "wikilink")[Astro华丽台举办的歌唱比賽](https://zh.wikipedia.org/wiki/Astro华丽台 "wikilink")。首届1997年冠军是[刘燕燕](https://zh.wikipedia.org/wiki/刘燕燕 "wikilink")\[1\]，现任2016年冠军是[黃雯俐](https://zh.wikipedia.org/wiki/黃雯俐 "wikilink")。由于比赛合约有规定，2005年起每届[冠](https://zh.wikipedia.org/wiki/冠军 "wikilink")、[亚](https://zh.wikipedia.org/wiki/亚军 "wikilink")、[季军会代表](https://zh.wikipedia.org/wiki/季军 "wikilink")[马来西亚参加](../Page/马来西亚.md "wikilink")[香港](../Page/香港.md "wikilink")[TVB无线电视举办的](../Page/電視廣播有限公司.md "wikilink")[TVB全球华人新秀歌唱大赛](https://zh.wikipedia.org/wiki/TVB全球华人新秀歌唱大赛 "wikilink")（1997年至1999年与2001年起只派出冠军出赛，2000年与2002年至2004年派出冠军与亚军）。
+《**Astro新秀大赛**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是由[马来西亚](../Page/马来西亚.md "wikilink")[Astro华丽台举办的歌唱比賽](https://zh.wikipedia.org/wiki/Astro华丽台 "wikilink")。首届1997年冠军是[刘燕燕](https://zh.wikipedia.org/wiki/刘燕燕 "wikilink")\[1\]，现任2016年冠军是[黃雯俐](https://zh.wikipedia.org/wiki/黃雯俐 "wikilink")。由于比赛合约有规定，2005年起每届[冠](https://zh.wikipedia.org/wiki/冠军 "wikilink")、[亚](https://zh.wikipedia.org/wiki/亚军 "wikilink")、[季军会代表](https://zh.wikipedia.org/wiki/季军 "wikilink")[马来西亚](../Page/马来西亚.md "wikilink")参加[香港](../Page/香港.md "wikilink")[TVB无线电视举办的](../Page/電視廣播有限公司.md "wikilink")[TVB全球华人新秀歌唱大赛](https://zh.wikipedia.org/wiki/TVB全球华人新秀歌唱大赛 "wikilink")（1997年至1999年与2001年起只派出冠军出赛，2000年与2002年至2004年派出冠军与亚军）。
 《**Astro新秀大赛**》是马来西亚最红的华人歌唱选拔赛之一。
 
 ## 历届得奖参赛者
@@ -838,8 +838,7 @@ MY FM 最受欢迎Astro新秀单曲: <a href="https://zh.wikipedia.org/wiki/江�
 </tbody>
 </table>
 
-  - ''注1:
-    Astro与全球华人音乐领域最权威的《超级星光大道》携手合作，2011年开始新秀五强将直接保送至台湾《华人星光大道》的百人初选
+  - ''注1: Astro与全球华人音乐领域最权威的《超级星光大道》携手合作，2011年开始新秀五强将直接保送至台湾《华人星光大道》的百人初选
 
 ## 注释
 
@@ -860,10 +859,7 @@ MY FM 最受欢迎Astro新秀单曲: <a href="https://zh.wikipedia.org/wiki/江�
   - [Astro新秀大赛 FaceBook](http://www.facebook.com/AstroStarQuest)
   - [Astro本地圈 節目官网](http://www.astro.com.my/bendiquan/)
 
-[Category:演艺选拔节目](https://zh.wikipedia.org/wiki/Category:演艺选拔节目 "wikilink")
-[Category:歌唱比赛](https://zh.wikipedia.org/wiki/Category:歌唱比赛 "wikilink")
-[Category:馬來西亞華人社會](https://zh.wikipedia.org/wiki/Category:馬來西亞華人社會 "wikilink")
-[Category:1997年建立](https://zh.wikipedia.org/wiki/Category:1997年建立 "wikilink")
+[Category:演艺选拔节目](https://zh.wikipedia.org/wiki/Category:演艺选拔节目 "wikilink") [Category:歌唱比赛](https://zh.wikipedia.org/wiki/Category:歌唱比赛 "wikilink") [Category:馬來西亞華人社會](https://zh.wikipedia.org/wiki/Category:馬來西亞華人社會 "wikilink") [Category:1997年建立](https://zh.wikipedia.org/wiki/Category:1997年建立 "wikilink")
 
 1.  1997年称为《全球华人新秀歌唱大赛（马来西亚选拔赛）》
 2.  2011年冠军颜慧萍和亚军赵洁莹由于正在台湾参加第一届华人星光大道，所以无法代表出赛

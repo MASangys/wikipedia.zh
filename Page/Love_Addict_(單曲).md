@@ -1,5 +1,4 @@
-《**Love
-Addict**》，[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[中島美嘉的第](../Page/中島美嘉.md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2003年4月9日發行。
+《**Love Addict**》，[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[中島美嘉](../Page/中島美嘉.md "wikilink")的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2003年4月9日發行。
 
 ## 概要
 
@@ -25,14 +24,10 @@ Addict**》，[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.m
 
 ## 資料來源
 
-  - [Sony Music Online Japan : 中島美嘉 : Love
-    Addict](http://www.sonymusic.co.jp/Music/Arch/AI/MikaNakashima/AICL-1413/index.html)
+  - [Sony Music Online Japan : 中島美嘉 : Love Addict](http://www.sonymusic.co.jp/Music/Arch/AI/MikaNakashima/AICL-1413/index.html)
 
 ## 外部連結
 
   - [BARKSによるインタビュー](http://www.barks.jp/feature/?id=52318406)
 
-[Category:中島美嘉歌曲](https://zh.wikipedia.org/wiki/Category:中島美嘉歌曲 "wikilink")
-[Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:中島美嘉歌曲](https://zh.wikipedia.org/wiki/Category:中島美嘉歌曲 "wikilink") [Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")

@@ -1,29 +1,22 @@
-**紫苑 ゆう**（しおん ゆう、Shion Yuu、本名：**渡辺 奈津子**（わたなべ なつこ、Watanabe
-Natsuko）、兵庫縣神戸市灘区出身、1959年3月25日 -
-）、原[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[星組主演男役](../Page/星組.md "wikilink")、現在是[寶塚音樂學校講師](../Page/寶塚音樂學校.md "wikilink")。
+**紫苑 ゆう**（しおん ゆう、Shion Yuu、本名：**渡辺 奈津子**（わたなべ なつこ、Watanabe Natsuko）、兵庫縣神戸市灘区出身、1959年3月25日 - ）、原[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[星組](../Page/星組.md "wikilink")主演男役、現在是[寶塚音樂學校](../Page/寶塚音樂學校.md "wikilink")講師。
 
 身高169cm、血型O型。寶塚時代的愛稱是**シメ(Shime)**、是從少女時代時的愛稱『ヒメ、Hime（姫）』轉變而來的（本人提及的事情）。
 
 ## 經歴
 
-「因為喜歡演戲所以想要學習更多」兵庫縣立御影高等學校學習了2學年後、[寶塚音樂學校受験](../Page/寶塚音樂學校.md "wikilink")・合格。
-1978年、同校畢業後、寶塚歌劇團第64期生[寶塚歌劇團入團](../Page/寶塚歌劇團.md "wikilink")。[月組公演](https://zh.wikipedia.org/wiki/月組 "wikilink")『祭りファンタジー／マイ・ラッキー・チャンス』踏上初舞台。
-同期的女藝人有秋篠美帆、郷真由加、幸和希、仁科有理、夢苑あやめ（タモト清嵐的母親）、ひびき美都、歌劇團振付家 御織ゆみ乃。
+「因為喜歡演戲所以想要學習更多」兵庫縣立御影高等學校學習了2學年後、[寶塚音樂學校](../Page/寶塚音樂學校.md "wikilink")受験・合格。 1978年、同校畢業後、寶塚歌劇團第64期生[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")入團。[月組公演](https://zh.wikipedia.org/wiki/月組 "wikilink")『祭りファンタジー／マイ・ラッキー・チャンス』踏上初舞台。 同期的女藝人有秋篠美帆、郷真由加、幸和希、仁科有理、夢苑あやめ（タモト清嵐的母親）、ひびき美都、歌劇團振付家 御織ゆみ乃。
 
-1979年、配屬[星組](../Page/星組.md "wikilink")。與高2期的上級生[日向薫以正統派的男役形像](https://zh.wikipedia.org/wiki/日向薫 "wikilink"),廣受歡迎。
-1982年、『エーゲ海のブルース』ダニエル役（本公演：[瀬戸内美八](https://zh.wikipedia.org/wiki/瀬戸内美八 "wikilink")）第一次的新人公演初主演。
-1985年、『カール・ハインリッヒの青春』在寶塚bowhall初主演。二番手時代開始、演出很多不同的角色,例如:凡爾賽玫瑰的奧斯卡。
+1979年、配屬[星組](../Page/星組.md "wikilink")。與高2期的上級生[日向薫以正統派的男役形像](https://zh.wikipedia.org/wiki/日向薫 "wikilink"),廣受歡迎。 1982年、『エーゲ海のブルース』ダニエル役（本公演：[瀬戸内美八](https://zh.wikipedia.org/wiki/瀬戸内美八 "wikilink")）第一次的新人公演初主演。 1985年、『カール・ハインリッヒの青春』在寶塚bowhall初主演。二番手時代開始、演出很多不同的角色,例如:凡爾賽玫瑰的奧斯卡。
 
 與二番手娘役時代的[毬藻えり有很多一起演戲與秀的搭檔](https://zh.wikipedia.org/wiki/毬藻えり "wikilink"),有名的作品有『蒼いくちづけ』『炎のボレロ』等等。毬藻上任主演娘役後、有很多都是以三人間(日向・毬藻・紫苑)的三角關係為設定之作品。
 
 1992年、伴隨著星組主演男役與娘役[日向薫](https://zh.wikipedia.org/wiki/日向薫 "wikilink")・毬藻えり的退團、與白城あやか為搭檔上任星組主演男役與娘役。以『白夜伝説／ワンナイト・ミラージュ』作為披露目。
 
-1993年、在新建完成的[寶塚大劇場演出](../Page/寶塚大劇場.md "wikilink")。但是卻在同年、預定主演的作品『泡沫戀情/PAPALAGI』/『うたかたの恋／パパラギ』在稽古中,因為阿契里斯腱,跟腱(腳跟與小腿間的大塊肌腱)斷裂,大劇場公演與秋天的全國巡迴公演（『秋…冬への前奏曲』）全日程休演。拼命趕在東京公演リハビリ(東京寶塚劇場)時復歸、終於演出期望的奧地利皇太子
-魯道夫 役。
+1993年、在新建完成的[寶塚大劇場](../Page/寶塚大劇場.md "wikilink")演出。但是卻在同年、預定主演的作品『泡沫戀情/PAPALAGI』/『うたかたの恋／パパラギ』在稽古中,因為阿契里斯腱,跟腱(腳跟與小腿間的大塊肌腱)斷裂,大劇場公演與秋天的全國巡迴公演（『秋…冬への前奏曲』）全日程休演。拼命趕在東京公演リハビリ(東京寶塚劇場)時復歸、終於演出期望的奧地利皇太子 魯道夫 役。
 
 1994年、寶塚歌劇80周年記念時、以『カサノヴァ・夢のかたみ／ラ・カンタータ！』作品退團。千秋楽時的致詞說了「我最愛的就是寶塚。我愛死寶塚了。我是打從心裡喜歡寶塚。這樣的心情/想法決不會輸給任何人。不論在何時,或是遭遇任何事情、只想留在最愛的寶塚。光是如此,就讓我一直覺得很幸福」。
 
-退團後,一開始紫苑本人希望從事關於老人福利的工作,後來擔任[寶塚音樂學校演劇講師](../Page/寶塚音樂學校.md "wikilink"),為人所知的學生有[柚希禮音](https://zh.wikipedia.org/wiki/柚希禮音 "wikilink")(首位學生上任主演男役)以及[涼紫央](../Page/涼紫央.md "wikilink")。
+退團後,一開始紫苑本人希望從事關於老人福利的工作,後來擔任[寶塚音樂學校](../Page/寶塚音樂學校.md "wikilink")演劇講師,為人所知的學生有[柚希禮音](https://zh.wikipedia.org/wiki/柚希禮音 "wikilink")(首位學生上任主演男役)以及[涼紫央](../Page/涼紫央.md "wikilink")。
 
 ## 主要舞台經歴
 
@@ -57,7 +50,7 @@ Natsuko）、兵庫縣神戸市灘区出身、1959年3月25日 -
 1990年
 
   - 『凡爾賽玫瑰・菲爾遜與瑪麗安東尼編』(「ベルサイユのばら・フェルゼンとマリーアントワネット編」)＜東京公演＞
-  - 『凡爾賽玫瑰・菲爾遜與瑪麗安東尼編』(「ベルサイユのばら・フェルゼン編」)＜[花組公演特別出演](../Page/花組.md "wikilink")＞
+  - 『凡爾賽玫瑰・菲爾遜與瑪麗安東尼編』(「ベルサイユのばら・フェルゼン編」)＜[花組](../Page/花組.md "wikilink")公演特別出演＞
   - 『五月花 / 寶塚Revue 90' 』(「メイフラワー／宝塚レビュー'90」)
   - 『シティライト・メロディ』＜Bowhall主演＞
   - 『阿波羅的迷宮/Jésus Diamanti』(「アポロンの迷宮／ジーザス・ディアマンテ～夢の王の夢～」)
@@ -120,11 +113,9 @@ Natsuko）、兵庫縣神戸市灘区出身、1959年3月25日 -
 
 ## 退團後
 
-  - 1999年12月4日、寶塚大劇場,因為阪神・淡路大震災的慈善公演,舉辦了『紫苑ゆう First & Last
-    リサイタル』。共演有白城あやか。
+  - 1999年12月4日、寶塚大劇場,因為阪神・淡路大震災的慈善公演,舉辦了『紫苑ゆう First & Last リサイタル』。共演有白城あやか。
   - 2000年開始,舉辦一年一度的晚餐秀『再会』。
-  - 2009年10月30日～11月3日、寶塚bowhall舉辦『再会』10周年的記念公演『紫苑ゆうリサイタル　True
-    Love』開催。[1](https://web.archive.org/web/20100131062334/http://www.umegei.com/o2009/shion.html)
+  - 2009年10月30日～11月3日、寶塚bowhall舉辦『再会』10周年的記念公演『紫苑ゆうリサイタル　True Love』開催。[1](https://web.archive.org/web/20100131062334/http://www.umegei.com/o2009/shion.html)
     共演者 未央一 於10/30演出時提到此次的紀念公演票於開賣後3分鐘完賣之紀錄。
 
 作・演出：谷正純
@@ -133,10 +124,8 @@ Natsuko）、兵庫縣神戸市灘区出身、1959年3月25日 -
 共演：未央一
 コーラス（録音）：仙堂花歩 他
 
-  - 2010年『逝世10周年記念　寺田瀧雄 Memory Concert～繼續歌唱～』
-    [2](https://web.archive.org/web/20100430233929/http://www.umegei.com/o2010/terada.html)
-  - 2011年『Dream Trail - Takarazuka way to 100th
-    Anniversary寶塚傳說』[3](https://web.archive.org/web/20101007204856/http://www.umegei.com/s2010/dreamtrail.html)
+  - 2010年『逝世10周年記念　寺田瀧雄 Memory Concert～繼續歌唱～』 [2](https://web.archive.org/web/20100430233929/http://www.umegei.com/o2010/terada.html)
+  - 2011年『Dream Trail - Takarazuka way to 100th Anniversary寶塚傳說』[3](https://web.archive.org/web/20101007204856/http://www.umegei.com/s2010/dreamtrail.html)
 
 ## 電視出演
 
@@ -153,8 +142,4 @@ Natsuko）、兵庫縣神戸市灘区出身、1959年3月25日 -
 
   - [紫苑ゆう公式 Home Page](http://www.yu-shion.net/)
 
-[Category:寶塚歌劇團卒業生](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團卒業生 "wikilink")
-[Category:寶塚歌劇團64期生](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團64期生 "wikilink")
-[Category:兵庫縣出身の人物](https://zh.wikipedia.org/wiki/Category:兵庫縣出身の人物 "wikilink")
-[Category:1959年生](https://zh.wikipedia.org/wiki/Category:1959年生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:寶塚歌劇團卒業生](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團卒業生 "wikilink") [Category:寶塚歌劇團64期生](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團64期生 "wikilink") [Category:兵庫縣出身の人物](https://zh.wikipedia.org/wiki/Category:兵庫縣出身の人物 "wikilink") [Category:1959年生](https://zh.wikipedia.org/wiki/Category:1959年生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")

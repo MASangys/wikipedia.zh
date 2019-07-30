@@ -1,8 +1,4 @@
-《**You Are So
-Vain**》（《**神采飛揚**》）是[香港](../Page/香港.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[邰正宵的第十三張大碟](../Page/邰正宵.md "wikilink")，唯一一張英語專輯，在1996年9月推出。專輯第一主打歌是《You
-Are So Vain》，而第二主打歌為與[周慧敏合唱的](../Page/周慧敏.md "wikilink")《Sometimes When
-We
-Touch》，而兩首歌的[音樂錄影帶更遠赴](../Page/音樂錄影帶.md "wikilink")[西班牙拍攝](../Page/西班牙.md "wikilink")。
+《**You Are So Vain**》（《**神采飛揚**》）是[香港](../Page/香港.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[邰正宵](../Page/邰正宵.md "wikilink")的第十三張大碟，唯一一張英語專輯，在1996年9月推出。專輯第一主打歌是《You Are So Vain》，而第二主打歌為與[周慧敏](../Page/周慧敏.md "wikilink")合唱的《Sometimes When We Touch》，而兩首歌的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")更遠赴[西班牙](../Page/西班牙.md "wikilink")拍攝。
 
 ## 曲目
 
@@ -53,7 +49,7 @@ Touch》，而兩首歌的[音樂錄影帶更遠赴](../Page/音樂錄影帶.md 
 </tr>
 <tr class="odd">
 <td><p>06</p></td>
-<td><p>Sometimes When We Touch<small>（<a href="../Page/周慧敏.md" title="wikilink">周慧敏合唱</a>）</small></p></td>
+<td><p>Sometimes When We Touch<small>（<a href="../Page/周慧敏.md" title="wikilink">周慧敏</a>合唱）</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Dan_Hill" title="wikilink">Dan Hill</a>（曲）<br />
 <a href="https://zh.wikipedia.org/wiki/Barry_Mann" title="wikilink">Barry Mann</a>（詞）</p></td>
 <td><p>梁伯君</p></td>
@@ -95,8 +91,4 @@ Touch》，而兩首歌的[音樂錄影帶更遠赴](../Page/音樂錄影帶.md 
   - CD版
   - 錄音帶版
 
-[Category:邰正宵音樂專輯](https://zh.wikipedia.org/wiki/Category:邰正宵音樂專輯 "wikilink")
-[Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
-[Category:福茂唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:福茂唱片音乐专辑 "wikilink")
+[Category:邰正宵音樂專輯](https://zh.wikipedia.org/wiki/Category:邰正宵音樂專輯 "wikilink") [Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink") [Category:福茂唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:福茂唱片音乐专辑 "wikilink")

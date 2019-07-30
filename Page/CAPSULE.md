@@ -1,4 +1,4 @@
-**CAPSULE**（舊稱為**capsule**，）是[日本的](../Page/日本.md "wikilink")[電子音樂二人組合](../Page/電子音樂.md "wikilink")。2001年主流出道。
+**CAPSULE**（舊稱為**capsule**，）是[日本](../Page/日本.md "wikilink")的[電子音樂](../Page/電子音樂.md "wikilink")二人組合。2001年主流出道。
 
 ## 成員
 
@@ -35,49 +35,31 @@
 
 ### 專輯
 
-1.  **[ハイカラ・ガール](https://zh.wikipedia.org/wiki/ハイカラ・ガール "wikilink")**
-    （2001年11月21日）
-2.  **[CUTIE CINEMA
-    REPLAY](https://zh.wikipedia.org/wiki/CUTIE_CINEMA_REPLAY "wikilink")**
-    （2003年3月19日）
-3.  **[phony
-    phonic](https://zh.wikipedia.org/wiki/phony_phonic "wikilink")**
-    （2003年11月19日）
-4.  **[S.F. sound
-    furniture](https://zh.wikipedia.org/wiki/S.F._sound_furniture "wikilink")**
-    （2004年6月9日）
-5.  **[NEXUS-2060](https://zh.wikipedia.org/wiki/NEXUS-2060 "wikilink")**
-    （2005年2月9日）
-6.  **[L.D.K. Lounge Designers
-    Killer](https://zh.wikipedia.org/wiki/L.D.K._Lounge_Designers_Killer "wikilink")**
-    （2005年9月21日）
-7.  **[FRUITS CLiPPER](../Page/FRUITS_CLiPPER.md "wikilink")**
-    （2006年5月10日）
-8.  **[Sugarless GiRL](../Page/Sugarless_GiRL.md "wikilink")**
-    （2007年2月21日）
+1.  **[ハイカラ・ガール](https://zh.wikipedia.org/wiki/ハイカラ・ガール "wikilink")** （2001年11月21日）
+2.  **[CUTIE CINEMA REPLAY](https://zh.wikipedia.org/wiki/CUTIE_CINEMA_REPLAY "wikilink")** （2003年3月19日）
+3.  **[phony phonic](https://zh.wikipedia.org/wiki/phony_phonic "wikilink")** （2003年11月19日）
+4.  **[S.F. sound furniture](https://zh.wikipedia.org/wiki/S.F._sound_furniture "wikilink")** （2004年6月9日）
+5.  **[NEXUS-2060](https://zh.wikipedia.org/wiki/NEXUS-2060 "wikilink")** （2005年2月9日）
+6.  **[L.D.K. Lounge Designers Killer](https://zh.wikipedia.org/wiki/L.D.K._Lounge_Designers_Killer "wikilink")** （2005年9月21日）
+7.  **[FRUITS CLiPPER](../Page/FRUITS_CLiPPER.md "wikilink")** （2006年5月10日）
+8.  **[Sugarless GiRL](../Page/Sugarless_GiRL.md "wikilink")** （2007年2月21日）
 9.  **[FLASH BACK](../Page/FLASH_BACK.md "wikilink")**（2007年12月5日）
-10. **[MORE\! MORE\! MORE\!](../Page/MORE!_MORE!_MORE!.md "wikilink")**
-    （2008年11月19日）
+10. **[MORE\! MORE\! MORE\!](../Page/MORE!_MORE!_MORE!.md "wikilink")** （2008年11月19日）
 11. **[PLAYER](../Page/PLAYER_\(CAPSULE專輯\).md "wikilink")**（2010年3月3日）
-12. **[WORLD OF
-    FANTASY](../Page/WORLD_OF_FANTASY.md "wikilink")**（2011年5月25日）
+12. **[WORLD OF FANTASY](../Page/WORLD_OF_FANTASY.md "wikilink")**（2011年5月25日）
 13. **[STEREO WORXXX](../Page/STEREO_WORXXX.md "wikilink")**（2012年3月7日）
 14. **[CAPS LOCK](../Page/CAPS_LOCK.md "wikilink")**（2013年10月23日）
-15. **[WAVE
-    RUNNER](https://zh.wikipedia.org/wiki/WAVE_RUNNER "wikilink")**（2015年2月18日）
+15. **[WAVE RUNNER](https://zh.wikipedia.org/wiki/WAVE_RUNNER "wikilink")**（2015年2月18日）
 
 ### 精選輯
 
 1.  **[FLASH BEST](../Page/FLASH_BEST.md "wikilink")**（2009年8月26日）
-2.  **[rewind
-    BEST-1](https://zh.wikipedia.org/wiki/rewind_BEST-1 "wikilink")**　（2013年3月6日）
-3.  **[rewind
-    BEST-2](https://zh.wikipedia.org/wiki/rewind_BEST-2 "wikilink")**　（2013年3月6日）
+2.  **[rewind BEST-1](https://zh.wikipedia.org/wiki/rewind_BEST-1 "wikilink")**　（2013年3月6日）
+3.  **[rewind BEST-2](https://zh.wikipedia.org/wiki/rewind_BEST-2 "wikilink")**　（2013年3月6日）
 
 ### 混音專輯
 
-1.  **[capsule
-    rmx](https://zh.wikipedia.org/wiki/capsule_rmx "wikilink")**（2007年10月10日）
+1.  **[capsule rmx](https://zh.wikipedia.org/wiki/capsule_rmx "wikilink")**（2007年10月10日）
 
 ## 外部連結
 
@@ -87,10 +69,6 @@
 
   -
   -
-  - [CAPSULE×excite. SPECIAL
-    SITE](http://ent2.excite.co.jp/music/special/capsule/index.html)
+  - [CAPSULE×excite. SPECIAL SITE](http://ent2.excite.co.jp/music/special/capsule/index.html)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:電子音樂團體](https://zh.wikipedia.org/wiki/Category:電子音樂團體 "wikilink")
-[Category:華納音樂集團旗下歌手](https://zh.wikipedia.org/wiki/Category:華納音樂集團旗下歌手 "wikilink")
-[Category:山葉音樂傳播旗下藝人](https://zh.wikipedia.org/wiki/Category:山葉音樂傳播旗下藝人 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:電子音樂團體](https://zh.wikipedia.org/wiki/Category:電子音樂團體 "wikilink") [Category:華納音樂集團旗下歌手](https://zh.wikipedia.org/wiki/Category:華納音樂集團旗下歌手 "wikilink") [Category:山葉音樂傳播旗下藝人](https://zh.wikipedia.org/wiki/Category:山葉音樂傳播旗下藝人 "wikilink")

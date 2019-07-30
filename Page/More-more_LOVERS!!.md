@@ -1,12 +1,9 @@
-「**More-more
-LOVERS\!\!**」（）是[麻生夏子的第](../Page/麻生夏子.md "wikilink")5張（通算6張）的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2010年11月10日由[Lantis發售](../Page/Lantis.md "wikilink")。
+「**More-more LOVERS\!\!**」（）是[麻生夏子](../Page/麻生夏子.md "wikilink")的第5張（通算6張）的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2010年11月10日由[Lantis](../Page/Lantis.md "wikilink")發售。
 
 ## 概要
 
-  - 與前作「[Everyday sunshine
-    line\!](../Page/Everyday_sunshine_line!.md "wikilink")」相隔6個月。
-  - 表題曲「More-more
-    LOVERS\!\!」是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[MM一族](../Page/MM一族.md "wikilink")』的[主題曲](../Page/主題曲.md "wikilink")。
+  - 與前作「[Everyday sunshine line\!](../Page/Everyday_sunshine_line!.md "wikilink")」相隔6個月。
+  - 表題曲「More-more LOVERS\!\!」是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[MM一族](../Page/MM一族.md "wikilink")』的[主題曲](../Page/主題曲.md "wikilink")。
 
 ## 收錄曲
 
@@ -27,10 +24,6 @@ LOVERS\!\!**」（）是[麻生夏子的第](../Page/麻生夏子.md "wikilink")
 
 ## 外部連結
 
-  - [More-more
-    LOVERS\!\!](http://lantis.jp/new-release/data.php?id=b2dc0f94ab5538dff23439dab772b28e)
+  - [More-more LOVERS\!\!](http://lantis.jp/new-release/data.php?id=b2dc0f94ab5538dff23439dab772b28e)
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
-[Category:麻生夏子歌曲](https://zh.wikipedia.org/wiki/Category:麻生夏子歌曲 "wikilink")
-[Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:麻生夏子歌曲](https://zh.wikipedia.org/wiki/Category:麻生夏子歌曲 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")

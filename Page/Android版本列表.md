@@ -1,19 +1,12 @@
-**[Android](../Page/Android.md "wikilink")**是一個由[Google和](../Page/Google.md "wikilink")[開放手機聯盟共同開發的移動設備](../Page/開放手機聯盟.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，其最初的版本（Android
-0.5）在2007年11月5日發行。至今，Android已發行多個更新版本，每個版本除了修復前一版本的漏洞外，還多了新的功能。
+**[Android](../Page/Android.md "wikilink")**是一個由[Google](../Page/Google.md "wikilink")和[開放手機聯盟](../Page/開放手機聯盟.md "wikilink")共同開發的移動設備[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，其最初的版本（Android 0.5）在2007年11月5日發行。至今，Android已發行多個更新版本，每個版本除了修復前一版本的漏洞外，還多了新的功能。
 
-Android作業系統有預發行的內部版本，分別為[原子小金剛](https://zh.wikipedia.org/wiki/原子小金剛 "wikilink")（Astro）與[機器人班亭](https://zh.wikipedia.org/wiki/機器人班亭 "wikilink")（Bender，电视动画《[乃出個未來](../Page/乃出個未來.md "wikilink")》的角色）\[1\]。從2009年5月開始，Android的版本代號改以甜點來命名，且每個代號間的字首以英文字母序接續排列：Cupcake（[紙杯蛋糕](https://zh.wikipedia.org/wiki/紙杯蛋糕 "wikilink")）、Donut（[甜甜圈](../Page/甜甜圈.md "wikilink")）、Eclair（[閃電泡芙](https://zh.wikipedia.org/wiki/閃電泡芙 "wikilink")）、Froyo（[優格冰淇淋](https://zh.wikipedia.org/wiki/優格冰淇淋 "wikilink")）、Gingerbread（[薑餅](../Page/薑餅.md "wikilink")）、Honeycomb（[蜂巢](../Page/蜂巢.md "wikilink")）、Ice
-Cream
-Sandwich（[冰淇淋三明治](https://zh.wikipedia.org/wiki/冰淇淋三明治 "wikilink")）、Jelly
-Bean（[雷根糖](../Page/雷根糖.md "wikilink")）、KitKat（[奇巧巧克力](../Page/奇巧巧克力.md "wikilink")）、Lollipop（[棒棒糖](https://zh.wikipedia.org/wiki/棒棒糖 "wikilink")）、Marshmallow（[棉花糖](../Page/棉花糖_\(顆粒狀\).md "wikilink")）、Nougat（[牛轧糖](../Page/牛轧糖.md "wikilink")）、Oreo（[奧利奧](../Page/奧利奧.md "wikilink")）、Pie（[派](../Page/西式餡餅.md "wikilink")）。
+Android作業系統有預發行的內部版本，分別為[原子小金剛](https://zh.wikipedia.org/wiki/原子小金剛 "wikilink")（Astro）與[機器人班亭](https://zh.wikipedia.org/wiki/機器人班亭 "wikilink")（Bender，电视动画《[乃出個未來](../Page/乃出個未來.md "wikilink")》的角色）\[1\]。從2009年5月開始，Android的版本代號改以甜點來命名，且每個代號間的字首以英文字母序接續排列：Cupcake（[紙杯蛋糕](https://zh.wikipedia.org/wiki/紙杯蛋糕 "wikilink")）、Donut（[甜甜圈](../Page/甜甜圈.md "wikilink")）、Eclair（[閃電泡芙](https://zh.wikipedia.org/wiki/閃電泡芙 "wikilink")）、Froyo（[優格冰淇淋](https://zh.wikipedia.org/wiki/優格冰淇淋 "wikilink")）、Gingerbread（[薑餅](../Page/薑餅.md "wikilink")）、Honeycomb（[蜂巢](../Page/蜂巢.md "wikilink")）、Ice Cream Sandwich（[冰淇淋三明治](https://zh.wikipedia.org/wiki/冰淇淋三明治 "wikilink")）、Jelly Bean（[雷根糖](../Page/雷根糖.md "wikilink")）、KitKat（[奇巧巧克力](../Page/奇巧巧克力.md "wikilink")）、Lollipop（[棒棒糖](https://zh.wikipedia.org/wiki/棒棒糖 "wikilink")）、Marshmallow（[棉花糖](../Page/棉花糖_\(顆粒狀\).md "wikilink")）、Nougat（[牛轧糖](../Page/牛轧糖.md "wikilink")）、Oreo（[奧利奧](../Page/奧利奧.md "wikilink")）、Pie（[派](../Page/西式餡餅.md "wikilink")）。
 
-[Global自2009年12月起的Android用户版本分析。，Android
-6.0為使用率最高的Android版本，在所有用户中占了31.8%。其次是Android
-5.1，占22.3%。\[2\]|800x800px|居中](https://zh.wikipedia.org/wiki/File:Android_historical_version_distribution_-_vector.svg "fig:Global自2009年12月起的Android用户版本分析。，Android 6.0為使用率最高的Android版本，在所有用户中占了31.8%。其次是Android 5.1，占22.3%。|800x800px|居中")
+[Global自2009年12月起的Android用户版本分析。，Android 6.0為使用率最高的Android版本，在所有用户中占了31.8%。其次是Android 5.1，占22.3%。\[2\]|800x800px|居中](https://zh.wikipedia.org/wiki/File:Android_historical_version_distribution_-_vector.svg "fig:Global自2009年12月起的Android用户版本分析。，Android 6.0為使用率最高的Android版本，在所有用户中占了31.8%。其次是Android 5.1，占22.3%。|800x800px|居中")
 
 ## 測試版
 
-Android最初的版本是於2007年11月5日發行的Android
-0.5\[3\]\[4\]，它作為一個面向開發者的軟件開發包（SDK）進行發行\[5\]。
+Android最初的版本是於2007年11月5日發行的Android 0.5\[3\]\[4\]，它作為一個面向開發者的軟件開發包（SDK）進行發行\[5\]。
 
 ## 版本列表
 
@@ -30,7 +23,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <td><p>2008年9月23日，發布Android作業系統中的第一個正式版本：Android 1.0，當時並未有特別名稱[7]。全球第一台Android設備<a href="../Page/HTC_Dream.md" title="wikilink">HTC Dream</a>（G1）就是搭載Android 1.0作業系統[8]，以下Android 1.0所擁有的特性功能：</p>
 <ul>
 <li><a href="https://zh.wikipedia.org/wiki/Android_Market" title="wikilink">Android Market</a>：下載應用程式和獲得更新；</li>
-<li><a href="https://zh.wikipedia.org/wiki/網頁瀏覽器" title="wikilink">網頁瀏覽器</a>：可以完全還原並且顯示<a href="../Page/HTML.md" title="wikilink">HTML和</a><a href="../Page/XHTML.md" title="wikilink">XHTML的網頁</a>–並且可以通過多點觸控對網頁進行放大縮小[9][10]。</li>
+<li><a href="https://zh.wikipedia.org/wiki/網頁瀏覽器" title="wikilink">網頁瀏覽器</a>：可以完全還原並且顯示<a href="../Page/HTML.md" title="wikilink">HTML</a>和<a href="../Page/XHTML.md" title="wikilink">XHTML</a>的網頁–並且可以通過多點觸控對網頁進行放大縮小[9][10]。</li>
 <li>照相機：支持照相機和攝像頭，但是这个版本没有选项来改变相机的分辨率、白平衡、质量等等[11]。</li>
 <li>允許將應用程式圖標放置到資料夾中，並且可以在主界面顯示插件等東西[12]。</li>
 <li>支持E-mail傳輸：支持<a href="https://zh.wikipedia.org/wiki/POP3" title="wikilink">POP3</a>、<a href="https://zh.wikipedia.org/wiki/IMAP4" title="wikilink">IMAP4以及</a><a href="https://zh.wikipedia.org/wiki/SMTP" title="wikilink">SMTP</a>[13]。</li>
@@ -48,7 +41,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <li>壁紙功能允許用戶設定自己的照片和其他網絡圖片作為自己的手機主界面的背景。</li>
 <li><a href="../Page/YouTube.md" title="wikilink">YouTube</a>：內置YouTube應用程式[21]。</li>
 <li>其他應用程式：鬧鐘，計算器，電話，主界面，圖庫以及設定。</li>
-<li>支持<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi和藍牙</a></li>
+<li>支持<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a>和藍牙</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -114,7 +107,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <li>支援Adobe Flash 10.1[32]</li>
 <li>加强软件<a href="https://zh.wikipedia.org/wiki/即时编译" title="wikilink">即时编译的速度</a>[33]</li>
 <li>支援快速启动功能至<a href="https://zh.wikipedia.org/wiki/電話" title="wikilink">電話和</a><a href="https://zh.wikipedia.org/wiki/瀏覽器" title="wikilink">瀏覽器</a>[34]</li>
-<li><a href="../Page/USB.md" title="wikilink">USB分享器和</a><a href="https://zh.wikipedia.org/wiki/WiFi" title="wikilink">WiFi热点功能</a>[35]</li>
+<li><a href="../Page/USB.md" title="wikilink">USB</a>分享器和<a href="https://zh.wikipedia.org/wiki/WiFi" title="wikilink">WiFi热点功能</a>[35]</li>
 <li>支援浏览器上传档案[36]</li>
 <li>更新Market中的批次及自动更新[37]</li>
 <li>增加对Microsoft Exchange的支援（安全政策, auto-discovery, GAL look-up）</li>
@@ -155,7 +148,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <li>新增下载管理员。</li>
 <li>最佳化遊戏开发支援。</li>
 <li>多媒体音效强化。</li>
-<li>从<a href="../Page/YAFFS.md" title="wikilink">YAFFS转换到</a><a href="https://zh.wikipedia.org/wiki/ext4" title="wikilink">ext4文件系统</a>。</li>
+<li>从<a href="../Page/YAFFS.md" title="wikilink">YAFFS</a>转换到<a href="https://zh.wikipedia.org/wiki/ext4" title="wikilink">ext4文件系统</a>。</li>
 <li>支援屏幕截图功能。</li>
 <li>对黑色及白色的还原更加真实。</li>
 <li>支援Google Talk视讯功能。</li>
@@ -189,7 +182,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <dt>Android 2.3.6</dt>
 
 </dl>
-<p>Android 2.3.6更新包於2011年9月2日正式發布，修復了語音搜索存在的Bug。該更新包改進了<a href="../Page/加拿大.md" title="wikilink">加拿大版本Nexus</a> S存在的使用WiFi時可能導致增加輻射的問題[46][47]。</p>
+<p>Android 2.3.6更新包於2011年9月2日正式發布，修復了語音搜索存在的Bug。該更新包改進了<a href="../Page/加拿大.md" title="wikilink">加拿大</a>版本Nexus S存在的使用WiFi時可能導致增加輻射的問題[46][47]。</p>
 <dl>
 <dt>Android 2.3.7</dt>
 
@@ -206,7 +199,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <li>专為平板电脑设计。</li>
 <li>支援Google eBooks。</li>
 <li>支援平板电脑大萤幕、高解析度。</li>
-<li>改良的<a href="../Page/Gmail.md" title="wikilink">Gmail外觀</a>。</li>
+<li>改良的<a href="../Page/Gmail.md" title="wikilink">Gmail</a>外觀。</li>
 <li>支援3D加速处理。</li>
 <li>新的通知功能。</li>
 <li>专為平板电脑设计的用户界面（重新設計的通知列與系統列）。</li>
@@ -259,7 +252,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <li>通過臉部識別進行解鎖屏幕。</li>
 <li>新標籤頁模式的網頁瀏覽器，支持最大同時開啟16個標籤頁。</li>
 <li>自動同步用戶手機中的網頁書籤，可以在桌面版Chrome和其他Android設備中進行同步。<a href="https://zh.wikipedia.org/wiki/File:Android_4.0.png" title="fig:Android_4.0.png">Android_4.0.png</a></li>
-<li>全新的現代化<a href="../Page/Roboto.md" title="wikilink">Roboto字體</a></li>
+<li>全新的現代化<a href="../Page/Roboto.md" title="wikilink">Roboto</a>字體</li>
 <li>內置流量監控功能，用戶可以對流量進行設定，超出設定流量時，手機會自動關閉上網功能，並且可以隨時查看已使用和未使用的流量，並以報表的形式展現出來。</li>
 <li>隨時關閉正在使用的應用程式</li>
 <li>提升自帶的相機功能</li>
@@ -271,7 +264,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <li>应用/小部件页面類似Honeycomb样式</li>
 <li>增加支持硬件加速的功能[64]</li>
 <li><a href="https://zh.wikipedia.org/wiki/Wi-Fi直连" title="wikilink">Wi-Fi直连功能</a>[65]</li>
-<li>支持<a href="../Page/1080p.md" title="wikilink">1080p視頻播放和錄製</a></li>
+<li>支持<a href="../Page/1080p.md" title="wikilink">1080p</a>視頻播放和錄製</li>
 </ul>
 <dl>
 <dt>Android 4.0.1</dt>
@@ -332,7 +325,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <li>大幅改變使用者介面設計。</li>
 <li>更多Google的雲端整合。</li>
 <li>惡意軟體的保護措施，強化<a href="https://zh.wikipedia.org/wiki/ASLR" title="wikilink">ASLR</a>。</li>
-<li>取消內建 <a href="https://zh.wikipedia.org/wiki/Flash_Player" title="wikilink">Flash Player</a>，並且<a href="../Page/Adobe.md" title="wikilink">Adobe聲明停止開發</a>，但可自行安裝APK。。</li>
+<li>取消內建 <a href="https://zh.wikipedia.org/wiki/Flash_Player" title="wikilink">Flash Player</a>，並且<a href="../Page/Adobe.md" title="wikilink">Adobe</a>聲明停止開發，但可自行安裝APK。。</li>
 </ul>
 <dl>
 <dt>Android 4.1.1</dt>
@@ -350,7 +343,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <li>提昇性能及穩定性</li>
 <li>單手指開合通知中心訊息</li>
 </ul>
-<p>2012年10月30日，Google 釋出 Android 4.2（JellyBean 雷根糖）。<a href="../Page/Google.md" title="wikilink">Google原本预计於</a>2012年10月29日於紐約發佈Android 4.2，但因為<a href="../Page/颶風桑迪.md" title="wikilink">颶風桑迪吹襲被取消</a>[69]，而改以新聞稿發佈，以“一種新口味的果凍豆”（A new flavor of Jelly Bean）作口號。首款搭載Android 4.2的手機<a href="../Page/Nexus_4.md" title="wikilink">LG Nexus 4及平板電腦</a><a href="../Page/Nexus_10.md" title="wikilink">Nexus 10於</a>2012年11月23日上市[70][71]。主要更新如下：</p>
+<p>2012年10月30日，Google 釋出 Android 4.2（JellyBean 雷根糖）。<a href="../Page/Google.md" title="wikilink">Google</a>原本预计於2012年10月29日於紐約發佈Android 4.2，但因為<a href="../Page/颶風桑迪.md" title="wikilink">颶風桑迪</a>吹襲被取消[69]，而改以新聞稿發佈，以“一種新口味的果凍豆”（A new flavor of Jelly Bean）作口號。首款搭載Android 4.2的手機<a href="../Page/Nexus_4.md" title="wikilink">LG Nexus 4及平板電腦</a><a href="../Page/Nexus_10.md" title="wikilink">Nexus 10於</a>2012年11月23日上市[70][71]。主要更新如下：</p>
 <ul>
 <li>支援多用户登录，一部设备上可有多个帐号（僅適用於平板電腦）。</li>
 <li>通知中心內新增了設定鍵。</li>
@@ -603,11 +596,9 @@ Android 5.1<br />
 
 ## 外部链接
 
-  - [Android API
-    Levels](https://developer.android.com/guide/appendix/api-levels.html)
+  - [Android API Levels](https://developer.android.com/guide/appendix/api-levels.html)
 
-[Category:Android](https://zh.wikipedia.org/wiki/Category:Android "wikilink")
-[Category:軟體版本列表](https://zh.wikipedia.org/wiki/Category:軟體版本列表 "wikilink")
+[Category:Android](https://zh.wikipedia.org/wiki/Category:Android "wikilink") [Category:軟體版本列表](https://zh.wikipedia.org/wiki/Category:軟體版本列表 "wikilink")
 
 1.
 

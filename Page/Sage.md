@@ -1,37 +1,34 @@
-**Sage**是一个覆盖许多[数学功能的应用软件](../Page/数学.md "wikilink")，包括[代数](../Page/代数.md "wikilink")、[组合数学](../Page/组合数学.md "wikilink")、[图论](../Page/图论.md "wikilink")、[计算数学](../Page/计算数学.md "wikilink")、[数论](../Page/数论.md "wikilink")、[微积分和](../Page/微积分学.md "wikilink")[统计](https://zh.wikipedia.org/wiki/统计 "wikilink")。
+**Sage**是一个覆盖许多[数学](../Page/数学.md "wikilink")功能的应用软件，包括[代数](../Page/代数.md "wikilink")、[组合数学](../Page/组合数学.md "wikilink")、[图论](../Page/图论.md "wikilink")、[计算数学](../Page/计算数学.md "wikilink")、[数论](../Page/数论.md "wikilink")、[微积分和](../Page/微积分学.md "wikilink")[统计](https://zh.wikipedia.org/wiki/统计 "wikilink")。
 
-SAGE的第一个版本在[GNU许可证下发布于](../Page/自由及开放源代码软件.md "wikilink")2005年2月24日，最初的目标是创造一个“、[Maple](../Page/Maple.md "wikilink")、[Mathematica和](https://zh.wikipedia.org/wiki/Mathematica "wikilink")[MATLAB的开源替代品](../Page/MATLAB.md "wikilink")”。Sage的主导开发人员威廉·斯坦因是[华盛顿大学的](https://zh.wikipedia.org/wiki/華盛頓大學_\(西雅圖\) "wikilink")[数学家](../Page/数学家.md "wikilink")。
+SAGE的第一个版本在[GNU许可证下发布于](../Page/自由及开放源代码软件.md "wikilink")2005年2月24日，最初的目标是创造一个“[Maxima](../Page/Maxima.md "wikilink")、[Maple](../Page/Maple.md "wikilink")、[Mathematica和](https://zh.wikipedia.org/wiki/Mathematica "wikilink")[MATLAB](../Page/MATLAB.md "wikilink")的开源替代品”。Sage的主导开发人员威廉·斯坦因是[华盛顿大学的](https://zh.wikipedia.org/wiki/華盛頓大學_\(西雅圖\) "wikilink")[数学家](../Page/数学家.md "wikilink")。
 
 Sage通常被称为**sagemath**，因为*sage*在英语中是一个常见词。
 
 ## 功能
 
-[Sage_-_plot.png](https://zh.wikipedia.org/wiki/File:Sage_-_plot.png "fig:Sage_-_plot.png")
-[SAGE_equation_solve.jpeg](https://zh.wikipedia.org/wiki/File:SAGE_equation_solve.jpeg "fig:SAGE_equation_solve.jpeg")
+[Sage_-_plot.png](https://zh.wikipedia.org/wiki/File:Sage_-_plot.png "fig:Sage_-_plot.png") [SAGE_equation_solve.jpeg](https://zh.wikipedia.org/wiki/File:SAGE_equation_solve.jpeg "fig:SAGE_equation_solve.jpeg")
 
 Sage的功能包括\[1\]
 
-  - 一个用于回顾及重新使用以前的输入和输出及加入图形和文本注释的记事本文档接口，可在通用的网页浏览器如[Firefox](../Page/Firefox.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Konqueror和](../Page/Konqueror.md "wikilink")[Safari中使用](../Page/Safari.md "wikilink")。在安全和保密要求高的情况下可通过HTTPS与记事本连接，Sage可同时在本地和远程使用。
+  - 一个用于回顾及重新使用以前的输入和输出及加入图形和文本注释的记事本文档接口，可在通用的网页浏览器如[Firefox](../Page/Firefox.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Konqueror](../Page/Konqueror.md "wikilink")和[Safari](../Page/Safari.md "wikilink")中使用。在安全和保密要求高的情况下可通过HTTPS与记事本连接，Sage可同时在本地和远程使用。
   - 一个使用[IPython的基于文本的命令行界面](https://zh.wikipedia.org/wiki/IPython "wikilink")
-  - [Python编程语言](../Page/Python.md "wikilink")，支持[函数化编程和](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")[面向对象的结构](../Page/面向对象程序设计.md "wikilink")。
+  - [Python](../Page/Python.md "wikilink")编程语言，支持[函数化编程和](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")[面向对象的结构](../Page/面向对象程序设计.md "wikilink")。
   - 支持多核处理器，[多处理器](https://zh.wikipedia.org/wiki/多处理器 "wikilink")，及在[并行计算](../Page/并行计算.md "wikilink")。
-  - 使用[Maxima和](../Page/Maxima.md "wikilink")[SymPy进行微积分计算](../Page/SymPy.md "wikilink")。
-  - 使用[GSL](https://zh.wikipedia.org/wiki/GSL "wikilink")，[SciPy和](../Page/SciPy.md "wikilink")[NumPy做线性代数数值计算](../Page/NumPy.md "wikilink")。
+  - 使用[Maxima](../Page/Maxima.md "wikilink")和[SymPy](../Page/SymPy.md "wikilink")进行微积分计算。
+  - 使用[GSL](https://zh.wikipedia.org/wiki/GSL "wikilink")，[SciPy](../Page/SciPy.md "wikilink")和[NumPy](../Page/NumPy.md "wikilink")做线性代数数值计算。
   - [基础和](../Page/初等函数.md "wikilink")[特殊数学函数库](https://zh.wikipedia.org/wiki/特殊函数 "wikilink")
   - 函数和数据的二维和三维图形显示
   - 矩阵和数据处理工具，支持稀疏数组
-  - 使用[R和](../Page/R语言.md "wikilink")[SciPy的多元](../Page/SciPy.md "wikilink")[统计分析库](../Page/统计学.md "wikilink")
-  - 一个在计算和应用上添加[用户界面的工具箱的](../Page/用户界面.md "wikilink")
-  - 使用[Pylab以及](https://zh.wikipedia.org/wiki/Pylab "wikilink")[Python编程语言的](../Page/Python.md "wikilink")[图像处理工具](../Page/图像处理.md "wikilink")
-  - [图论可视化和分析工具](../Page/图论.md "wikilink")
+  - 使用[R和](../Page/R语言.md "wikilink")[SciPy](../Page/SciPy.md "wikilink")的多元[统计分析库](../Page/统计学.md "wikilink")
+  - 一个在计算和应用上添加[用户界面](../Page/用户界面.md "wikilink")的工具箱的
+  - 使用[Pylab以及](https://zh.wikipedia.org/wiki/Pylab "wikilink")[Python](../Page/Python.md "wikilink")编程语言的[图像处理](../Page/图像处理.md "wikilink")工具
+  - [图论](../Page/图论.md "wikilink")可视化和分析工具
   - 数论的函数库
   - 数据，图像，视频，声音，计算机辅助设计，地理信息系统，文档和生物医学格式的输入输出过滤器
   - 适当支持在函数中进行[复数](../Page/复数_\(数学\).md "wikilink")， 任意精度及符号计算
   - 包括[公式编辑的文字处理技术](../Page/公式編輯器.md "wikilink")，并可在Sage内嵌入[LaTeX文档](https://zh.wikipedia.org/wiki/LaTeX "wikilink")
-  - Twisted提供的连接到[SQL](../Page/SQL.md "wikilink")、[Java](../Page/Java.md "wikilink")、[.NET](https://zh.wikipedia.org/wiki/.NET "wikilink")、[C++和](../Page/C++.md "wikilink")[FORTRAN语言的网络工具](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")，支持包括[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[NNTP](https://zh.wikipedia.org/wiki/NNTP "wikilink")、[IMAP](https://zh.wikipedia.org/wiki/IMAP "wikilink")、[SSH](https://zh.wikipedia.org/wiki/SSH "wikilink")、[IRC](../Page/IRC.md "wikilink")、[FTP等在内的大量协议](https://zh.wikipedia.org/wiki/FTP "wikilink")
-  - 与[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")、及[Maple等一些第三方软件的接口](../Page/Maple.md "wikilink")
-    ，允许用户组合软件及比较输出和性能。因此，它也是一个类似于[GNU
-    TeXmacs的其他数学工具的](../Page/GNU_TeXmacs.md "wikilink")“前端”
+  - Twisted提供的连接到[SQL](../Page/SQL.md "wikilink")、[Java](../Page/Java.md "wikilink")、[.NET](https://zh.wikipedia.org/wiki/.NET "wikilink")、[C++](../Page/C++.md "wikilink")和[FORTRAN语言的网络工具](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")，支持包括[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[NNTP](https://zh.wikipedia.org/wiki/NNTP "wikilink")、[IMAP](https://zh.wikipedia.org/wiki/IMAP "wikilink")、[SSH](https://zh.wikipedia.org/wiki/SSH "wikilink")、[IRC](../Page/IRC.md "wikilink")、[FTP等在内的大量协议](https://zh.wikipedia.org/wiki/FTP "wikilink")
+  - 与[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")、[Maxima](../Page/Maxima.md "wikilink")及[Maple](../Page/Maple.md "wikilink")等一些第三方软件的接口 ，允许用户组合软件及比较输出和性能。因此，它也是一个类似于[GNU TeXmacs的其他数学工具的](../Page/GNU_TeXmacs.md "wikilink")“前端”
   - 使用MoinMoin作为知识管理的[维基系统](../Page/Wiki.md "wikilink")
   - 使用[Sphinx的文档管理](https://zh.wikipedia.org/wiki/Sphinx "wikilink")
   - 一个自动化测试套件，允许计算机终端用户进行测试
@@ -40,32 +37,24 @@ Sage的功能包括\[1\]
 
 ## 设计理念
 
-威廉.斯坦在设计Sage时意识到了有不同的语言（包括有[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")
-、[C++](../Page/C++.md "wikilink")、[Fortran和](../Page/Fortran.md "wikilink")[Python](../Page/Python.md "wikilink")）编写的大量现成的大型开源数学软件可用。
+威廉.斯坦在设计Sage时意识到了有不同的语言（包括有[C](https://zh.wikipedia.org/wiki/C语言 "wikilink") 、[C++](../Page/C++.md "wikilink")、[Fortran](../Page/Fortran.md "wikilink")和[Python](../Page/Python.md "wikilink")）编写的大量现成的大型开源数学软件可用。
 
-因此，Sage（用[Python和](../Page/Python.md "wikilink")[Cython实现的](../Page/Cython.md "wikilink")）将所有专用的数学软件集成到一个通用的接口而不是从头开发。用户只需要了解[Python](../Page/Python.md "wikilink")。
+因此，Sage（用[Python](../Page/Python.md "wikilink")和[Cython](../Page/Cython.md "wikilink")实现的）将所有专用的数学软件集成到一个通用的接口而不是从头开发。用户只需要了解[Python](../Page/Python.md "wikilink")。
 
 Sage由学生和专业人士开发。Sage的开发由志愿工作和赠款支持。 \[2\]
 
 ## 性能
 
-二进制包和源代码都可以从Sage页面下载。如果从源代码构建，许多包含的库如[Atlas](https://zh.wikipedia.org/wiki/Atlas "wikilink")、[FLINT和](https://zh.wikipedia.org/wiki/FLINT "wikilink")[NTL和都会针对该计算机考虑到处理器数量](https://zh.wikipedia.org/wiki/NTL "wikilink")，缓存大小的，是否有硬件支持[SSE指令等进行调整和优化](../Page/SSE.md "wikilink")。
+二进制包和源代码都可以从Sage页面下载。如果从源代码构建，许多包含的库如[Atlas](https://zh.wikipedia.org/wiki/Atlas "wikilink")、[FLINT和](https://zh.wikipedia.org/wiki/FLINT "wikilink")[NTL和都会针对该计算机考虑到处理器数量](https://zh.wikipedia.org/wiki/NTL "wikilink")，缓存大小的，是否有硬件支持[SSE](../Page/SSE.md "wikilink")指令等进行调整和优化。
 
 ## 许可和可用性
 
-Sage在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")2+下自由软件条款下发布
-。Sage可通过多种方式获得：
+Sage在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")2+下自由软件条款下发布 。Sage可通过多种方式获得：
 
-  - 源代码可以直接从网上下载的 [下载页面](http://www.sagemath.org/download.html)
-    。开发版本的Sage也可用，不建议最终用户使用。
-  - 可以下载用于[Linux](../Page/Linux.md "wikilink")、[OS
-    X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Solaris](../Page/Solaris.md "wikilink")（x86和SPARC）及[windows的可执行文件](https://zh.wikipedia.org/wiki/windows "wikilink")。
-  - 一个包含可启动Linux操作系统的[live
-    CD](https://zh.wikipedia.org/wiki/live_CD "wikilink")。允许不安装Linux直接使用Sage。
-  - 用户可以使用Sage的在线版本，地址是
-    [sagenb.org](https://web.archive.org/web/20070430192047/http://www.sagenb.org/)
-    或
-    <https://web.archive.org/web/20110720111745/http://t2nb.math.washington.edu:8080/>，但限制用户可用的内存量。
+  - 源代码可以直接从网上下载的 [下载页面](http://www.sagemath.org/download.html) 。开发版本的Sage也可用，不建议最终用户使用。
+  - 可以下载用于[Linux](../Page/Linux.md "wikilink")、[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Solaris](../Page/Solaris.md "wikilink")（x86和SPARC）及[windows的可执行文件](https://zh.wikipedia.org/wiki/windows "wikilink")。
+  - 一个包含可启动Linux操作系统的[live CD](https://zh.wikipedia.org/wiki/live_CD "wikilink")。允许不安装Linux直接使用Sage。
+  - 用户可以使用Sage的在线版本，地址是 [sagenb.org](https://web.archive.org/web/20070430192047/http://www.sagenb.org/) 或 <https://web.archive.org/web/20110720111745/http://t2nb.math.washington.edu:8080/>，但限制用户可用的内存量。
 
 ## Sage包含的软件包
 
@@ -190,8 +179,7 @@ P, Q = E.gens()
 
 Sage版本
 
-2007年，Sage赢得自由软件的国际竞争中科学软件部分的Les Trophées du Libre首奖 ，一Trophées都免费 。
-\[4\]
+2007年，Sage赢得自由软件的国际竞争中科学软件部分的Les Trophées du Libre首奖 ，一Trophées都免费 。 \[4\]
 
 ## 参见
 
@@ -209,20 +197,9 @@ Sage版本
   - [在网络浏览器上使用Sage](https://cloud.sagemath.com)
   - [自由软件带来便宜和透明的数学软件](http://www.physorg.com/news116173009.html)
   - [AMS通告-开源数学软件](http://www.ams.org/notices/200710/tx071001279p.pdf)
-  - [W.
-    Stein博客上张贴的Sage历史](http://sagemath.blogspot.com/2009/12/mathematical-software-and-me-very.html)
+  - [W. Stein博客上张贴的Sage历史](http://sagemath.blogspot.com/2009/12/mathematical-software-and-me-very.html)
 
-[Category:带有Python代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有Python代码示例的条目 "wikilink")
-[Category:Linux计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Linux计算机代数系统软件 "wikilink")
-[Category:MacOS计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:MacOS计算机代数系统软件 "wikilink")
-[Category:Windows计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Windows计算机代数系统软件 "wikilink")
-[Category:自由及开放源代码Android软件](https://zh.wikipedia.org/wiki/Category:自由及开放源代码Android软件 "wikilink")
-[Category:自由计算机代数系统](https://zh.wikipedia.org/wiki/Category:自由计算机代数系统 "wikilink")
-[Category:自由教育軟件](https://zh.wikipedia.org/wiki/Category:自由教育軟件 "wikilink")
-[Category:自由數學軟件](https://zh.wikipedia.org/wiki/Category:自由數學軟件 "wikilink")
-[Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink")
-[Category:数学软件](https://zh.wikipedia.org/wiki/Category:数学软件 "wikilink")
-[Category:Python科学库](https://zh.wikipedia.org/wiki/Category:Python科学库 "wikilink")
+[Category:带有Python代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有Python代码示例的条目 "wikilink") [Category:Linux计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Linux计算机代数系统软件 "wikilink") [Category:MacOS计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:MacOS计算机代数系统软件 "wikilink") [Category:Windows计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Windows计算机代数系统软件 "wikilink") [Category:自由及开放源代码Android软件](https://zh.wikipedia.org/wiki/Category:自由及开放源代码Android软件 "wikilink") [Category:自由计算机代数系统](https://zh.wikipedia.org/wiki/Category:自由计算机代数系统 "wikilink") [Category:自由教育軟件](https://zh.wikipedia.org/wiki/Category:自由教育軟件 "wikilink") [Category:自由數學軟件](https://zh.wikipedia.org/wiki/Category:自由數學軟件 "wikilink") [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:数学软件](https://zh.wikipedia.org/wiki/Category:数学软件 "wikilink") [Category:Python科学库](https://zh.wikipedia.org/wiki/Category:Python科学库 "wikilink")
 
 1.  [Sage文档](http://www.sagemath.org/help.html)
 2.

@@ -398,10 +398,8 @@
 ### 港台劇集
 
   - 【H】[廉政行動2011](../Page/廉政行動2011.md "wikilink")　([香港電台電視部與](https://zh.wikipedia.org/wiki/香港電台電視部 "wikilink")[廉政公署聯合製作](https://zh.wikipedia.org/wiki/廉政公署 "wikilink"))
-  - 【H】[火速救兵](../Page/火速救兵.md "wikilink")
-    ([香港電台電視部與](https://zh.wikipedia.org/wiki/香港電台電視部 "wikilink")[香港消防處聯合製作](../Page/香港消防處.md "wikilink"))
-  - 【H】[火速救兵II](../Page/火速救兵II.md "wikilink")
-    ([香港電台電視部與](https://zh.wikipedia.org/wiki/香港電台電視部 "wikilink")[香港消防處聯合製作](../Page/香港消防處.md "wikilink"))
+  - 【H】[火速救兵](../Page/火速救兵.md "wikilink") ([香港電台電視部與](https://zh.wikipedia.org/wiki/香港電台電視部 "wikilink")[香港消防處](../Page/香港消防處.md "wikilink")聯合製作)
+  - 【H】[火速救兵II](../Page/火速救兵II.md "wikilink") ([香港電台電視部與](https://zh.wikipedia.org/wiki/香港電台電視部 "wikilink")[香港消防處](../Page/香港消防處.md "wikilink")聯合製作)
 
 ## Now 101台
 
@@ -631,7 +629,7 @@
 <td><p>5月20日</p></td>
 <td><p>12</p></td>
 <td><p>日本</p></td>
-<td><p><a href="../Page/孃王.md" title="wikilink">孃王3</a></p></td>
+<td><p><a href="../Page/孃王.md" title="wikilink">孃王</a>3</p></td>
 <td><p><a href="../Page/原幹惠.md" title="wikilink">原幹惠</a>、<a href="https://zh.wikipedia.org/wiki/原紗央莉" title="wikilink">原紗央莉</a>、<a href="../Page/神樂坂惠.md" title="wikilink">神樂坂惠</a></p></td>
 <td></td>
 <td></td>
@@ -1179,7 +1177,7 @@
 <td><p>9月21日</p></td>
 <td><p>119</p></td>
 <td><p>韓國</p></td>
-<td><p><a href="../Page/貓來了.md" title="wikilink">貓來了!</a></p></td>
+<td><p><a href="../Page/貓來了.md" title="wikilink">貓來了</a>!</p></td>
 <td><p><a href="../Page/崔允英.md" title="wikilink">崔允英</a>、<a href="../Page/顯祐.md" title="wikilink">顯祐</a>、<a href="../Page/崔珉.md" title="wikilink">崔珉</a>、<a href="../Page/全烋星.md" title="wikilink">全烋星</a></p></td>
 <td></td>
 <td><p>[77]</p></td>
@@ -1566,7 +1564,7 @@
 <td><p>6月17日</p></td>
 <td><p>3</p></td>
 <td><p>韓國</p></td>
-<td><p><a href="../Page/太陽的後裔.md" title="wikilink">太陽的後裔特別篇</a></p></td>
+<td><p><a href="../Page/太陽的後裔.md" title="wikilink">太陽的後裔</a>特別篇</p></td>
 <td><p><a href="../Page/宋仲基.md" title="wikilink">宋仲基</a>、<a href="../Page/宋慧喬.md" title="wikilink">宋慧喬</a>、<a href="../Page/晉久.md" title="wikilink">晉久</a>、<a href="../Page/金智媛.md" title="wikilink">金智媛</a></p></td>
 <td></td>
 <td><p>[155][156][157]</p></td>
@@ -1765,7 +1763,7 @@
 <td><p>16</p></td>
 <td><p>韓國</p></td>
 <td><p><a href="../Page/打架吧鬼神.md" title="wikilink">打架吧鬼神</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉澤演</a>、<a href="https://zh.wikipedia.org/wiki/金所炫" title="wikilink">金所炫</a>、<a href="../Page/權律.md" title="wikilink">權律</a>、<a href="../Page/金相浩.md" title="wikilink">金相浩</a></p></td>
+<td><p><a href="../Page/玉澤演.md" title="wikilink">玉澤演</a>、<a href="https://zh.wikipedia.org/wiki/金所炫" title="wikilink">金所炫</a>、<a href="../Page/權律.md" title="wikilink">權律</a>、<a href="../Page/金相浩.md" title="wikilink">金相浩</a></p></td>
 <td></td>
 <td><p>[206][207][208]</p></td>
 </tr>
@@ -1836,7 +1834,7 @@
 <td><p>11月11日</p></td>
 <td><p>1</p></td>
 <td><p>韓國</p></td>
-<td><p><a href="../Page/雲畫的月光.md" title="wikilink">雲畫的月光特別篇</a></p></td>
+<td><p><a href="../Page/雲畫的月光.md" title="wikilink">雲畫的月光</a>特別篇</p></td>
 <td><p><a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a>、<a href="../Page/金裕貞.md" title="wikilink">金裕貞</a>、<a href="https://zh.wikipedia.org/wiki/鄭振永" title="wikilink">鄭振永</a>、<a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a>、<a href="../Page/郭東延.md" title="wikilink">郭東延</a></p></td>
 <td></td>
 <td><p>[222][223]</p></td>
@@ -2932,21 +2930,21 @@
 </tr>
 <tr class="even">
 <td><p>7月10日</p></td>
-<td></td>
+<td><p>30</p></td>
 <td><p>韓國</p></td>
 <td><p><a href="../Page/Sky_Castle.md" title="wikilink">天空城堡</a></p></td>
 <td><p><a href="../Page/廉晶雅.md" title="wikilink">廉晶雅</a>、<a href="../Page/李泰蘭.md" title="wikilink">李泰蘭</a>、<a href="../Page/尹世雅.md" title="wikilink">尹世雅</a>、<a href="../Page/吳娜拉.md" title="wikilink">吳娜拉</a>、<a href="../Page/金瑞亨.md" title="wikilink">金瑞亨</a></p></td>
 <td></td>
-<td><p>[395]</p></td>
+<td><p>[395][396]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月11日</p></td>
-<td></td>
+<td><p>21</p></td>
 <td><p>韓國</p></td>
 <td><p><a href="../Page/今天的偵探.md" title="wikilink">今日的偵探</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/崔丹尼爾" title="wikilink">崔丹尼爾</a>、<a href="../Page/朴恩玭.md" title="wikilink">朴恩玭</a>、<a href="../Page/李智雅.md" title="wikilink">李智雅</a></p></td>
 <td></td>
-<td><p>[396]</p></td>
+<td><p>[397]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月27日</p></td>
@@ -2955,7 +2953,7 @@
 <td></td>
 <td><p><a href="../Page/高橋一生.md" title="wikilink">高橋一生</a></p></td>
 <td></td>
-<td><p>[397]</p></td>
+<td><p>[398]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2988,10 +2986,10 @@
 <td><p>未定</p></td>
 <td><p>－</p></td>
 <td><p>韓國</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/浪漫的體質" title="wikilink">浪漫的體質</a></p></td>
-<td><p><a href="../Page/千玗嬉.md" title="wikilink">千玗嬉</a>、<a href="../Page/韓智恩.md" title="wikilink">韓智恩</a>、<a href="https://zh.wikipedia.org/wiki/全汝彬" title="wikilink">全汝彬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Melo體質" title="wikilink">浪漫的體質</a></p></td>
+<td><p><a href="../Page/千玗嬉.md" title="wikilink">千玗嬉</a>、、<a href="../Page/韓智恩.md" title="wikilink">韓智恩</a>、<a href="../Page/安宰弘.md" title="wikilink">安宰弘</a>、<a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a></p></td>
 <td></td>
-<td><p>[398]</p></td>
+<td><p>[399]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3000,25 +2998,25 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/18歲的瞬間" title="wikilink">18歲的瞬間</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a>、<a href="../Page/金香起.md" title="wikilink">金香起</a></p></td>
 <td></td>
-<td><p>[399]</p></td>
+<td><p>[400]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
 <td><p>－</p></td>
 <td><p>韓國</p></td>
-<td><p><a href="../Page/醫生約翰.md" title="wikilink">痛症醫生車耀漢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/醫生耀漢" title="wikilink">醫生耀漢</a></p></td>
 <td><p><a href="../Page/池晟.md" title="wikilink">池晟</a>、<a href="../Page/李世榮_(韓國).md" title="wikilink">李世榮</a>、<a href="../Page/李奎炯.md" title="wikilink">李奎炯</a></p></td>
 <td></td>
-<td><p>[400]</p></td>
+<td><p>[401]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
 <td><p>－</p></td>
 <td><p>韓國</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Justice" title="wikilink">Justice</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Justice_(韓國電視劇)" title="wikilink">Justice</a></p></td>
 <td><p><a href="../Page/孫賢周.md" title="wikilink">孫賢周</a>、<a href="../Page/崔振赫.md" title="wikilink">崔振赫</a>、<a href="https://zh.wikipedia.org/wiki/林珍娜" title="wikilink">林珍娜</a></p></td>
 <td></td>
-<td><p>[401]</p></td>
+<td><p>[402]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3027,7 +3025,7 @@
 <td><p><a href="../Page/德魯納酒店.md" title="wikilink">德魯納酒店</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/IU_(藝人)" title="wikilink">IU</a>、<a href="../Page/呂珍九.md" title="wikilink">呂珍九</a></p></td>
 <td></td>
-<td><p>[402]</p></td>
+<td><p>[403]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3036,7 +3034,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Watcher" title="wikilink">Watcher揭密者</a></p></td>
 <td><p><a href="../Page/韓石圭.md" title="wikilink">韓石圭</a>、<a href="../Page/徐康俊.md" title="wikilink">徐康俊</a>、<a href="../Page/金賢珠.md" title="wikilink">金賢珠</a></p></td>
 <td></td>
-<td><p>[403]</p></td>
+<td><p>[404]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3045,7 +3043,7 @@
 <td><p><a href="../Page/檢法男女2.md" title="wikilink">檢法男女2</a></p></td>
 <td><p><a href="../Page/鄭在詠.md" title="wikilink">鄭在詠</a>、<a href="../Page/鄭柔美.md" title="wikilink">鄭柔美</a>、<a href="../Page/吳萬石.md" title="wikilink">吳萬石</a>、<a href="https://zh.wikipedia.org/wiki/魯敏宇" title="wikilink">魯敏宇</a>、</p></td>
 <td></td>
-<td><p>[404]</p></td>
+<td><p>[405]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3054,7 +3052,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/風在吹_(電視劇)" title="wikilink">風在吹</a></p></td>
 <td><p><a href="../Page/甘宇成.md" title="wikilink">甘宇成</a>、<a href="../Page/金荷娜.md" title="wikilink">金荷娜</a></p></td>
 <td></td>
-<td><p>[405]</p></td>
+<td><p>[406]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3063,7 +3061,7 @@
 <td><p><a href="../Page/僅此一次的愛情.md" title="wikilink">僅此一次的愛情</a></p></td>
 <td><p><a href="../Page/金明洙.md" title="wikilink">金明洙</a>、<a href="../Page/申惠善.md" title="wikilink">申惠善</a>、<a href="../Page/李東健.md" title="wikilink">李東健</a></p></td>
 <td></td>
-<td><p>[406]</p></td>
+<td><p>[407]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3072,7 +3070,7 @@
 <td><p><a href="../Page/Voice3.md" title="wikilink">Voice 聲命線 3</a></p></td>
 <td><p><a href="../Page/李荷娜.md" title="wikilink">李荷娜</a>、<a href="../Page/李陣郁.md" title="wikilink">李陣郁</a></p></td>
 <td></td>
-<td><p>[407]</p></td>
+<td><p>[408]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3081,7 +3079,7 @@
 <td><p><a href="../Page/絕對達令_(韓國電視劇).md" title="wikilink">絕對達令</a></p></td>
 <td><p><a href="../Page/呂珍九.md" title="wikilink">呂珍九</a>、<a href="https://zh.wikipedia.org/wiki/珉雅" title="wikilink">珉雅</a>、<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a></p></td>
 <td></td>
-<td><p>[408]</p></td>
+<td><p>[409]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3090,7 +3088,7 @@
 <td><p><a href="../Page/Abyss.md" title="wikilink">深淵</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朴寶英" title="wikilink">朴寶英</a>、<a href="../Page/安孝燮.md" title="wikilink">安孝燮</a></p></td>
 <td></td>
-<td><p>[409]</p></td>
+<td><p>[410]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3099,7 +3097,7 @@
 <td><p><a href="../Page/初次見面我愛你_(韓國電視劇).md" title="wikilink">初次見面我愛你</a></p></td>
 <td><p><a href="../Page/金英光.md" title="wikilink">金英光</a>、<a href="../Page/秦基周.md" title="wikilink">秦基周</a>、<a href="../Page/金栽經.md" title="wikilink">金栽經</a>、</p></td>
 <td></td>
-<td><p>[410]</p></td>
+<td><p>[411]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3108,7 +3106,7 @@
 <td><p><a href="../Page/美麗的世界.md" title="wikilink">美麗的世界</a></p></td>
 <td><p><a href="../Page/朴喜洵.md" title="wikilink">朴喜洵</a>、<a href="../Page/秋瓷炫.md" title="wikilink">秋瓷炫</a>、<a href="../Page/吳萬石.md" title="wikilink">吳萬石</a>、<a href="https://zh.wikipedia.org/wiki/趙汝珍" title="wikilink">趙汝珍</a>、<a href="../Page/南多凜.md" title="wikilink">南多凜</a></p></td>
 <td></td>
-<td><p>[411]</p></td>
+<td><p>[412]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3117,7 +3115,7 @@
 <td><p><a href="../Page/加油吧威基基2.md" title="wikilink">加油！威基基2</a></p></td>
 <td><p><a href="../Page/金善浩.md" title="wikilink">金善浩</a>、<a href="../Page/李伊庚.md" title="wikilink">李伊庚</a>、<a href="../Page/申譞洙.md" title="wikilink">申譞洙</a>、<a href="../Page/金叡園.md" title="wikilink">金叡園</a>、<a href="../Page/安昭熙.md" title="wikilink">安昭熙</a>、<a href="../Page/文佳煐.md" title="wikilink">文佳煐</a></p></td>
 <td></td>
-<td><p>[412]</p></td>
+<td><p>[413]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3126,7 +3124,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Dr._Prisoners" title="wikilink">Dr. Prisoners</a></p></td>
 <td><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a>、<a href="../Page/權娜拉.md" title="wikilink">權娜拉</a>、<a href="../Page/金炳哲.md" title="wikilink">金炳哲</a>、<a href="../Page/崔元英.md" title="wikilink">崔元英</a></p></td>
 <td></td>
-<td><p>[413]</p></td>
+<td><p>[414]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3135,7 +3133,7 @@
 <td><p><a href="../Page/會讀心術的那小子.md" title="wikilink">會讀心術的那小子</a></p></td>
 <td><p><a href="../Page/朴珍榮.md" title="wikilink">朴珍榮</a>、<a href="../Page/辛睿恩.md" title="wikilink">辛睿恩</a>、<a href="https://zh.wikipedia.org/wiki/金多順" title="wikilink">金多順</a>、<a href="../Page/金權.md" title="wikilink">金權</a></p></td>
 <td></td>
-<td><p>[414]</p></td>
+<td><p>[415]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3144,7 +3142,7 @@
 <td><p><a href="../Page/附身_(電視劇).md" title="wikilink">附身</a></p></td>
 <td><p><a href="../Page/宋清晨.md" title="wikilink">宋清晨</a>、<a href="../Page/高準熹.md" title="wikilink">高準熹</a>、<a href="https://zh.wikipedia.org/wiki/延政勳" title="wikilink">延政勳</a>、<a href="../Page/趙漢善.md" title="wikilink">趙漢善</a></p></td>
 <td></td>
-<td><p>[415]</p></td>
+<td><p>[416]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3153,7 +3151,7 @@
 <td><p><a href="../Page/獬豸_(電視劇).md" title="wikilink">獬豸</a></p></td>
 <td><p><a href="../Page/丁一宇.md" title="wikilink">丁一宇</a>、<a href="https://zh.wikipedia.org/wiki/高雅拉" title="wikilink">高雅拉</a>、<a href="../Page/權律.md" title="wikilink">權律</a></p></td>
 <td></td>
-<td><p>[416]</p></td>
+<td><p>[417]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3162,7 +3160,7 @@
 <td><p><a href="../Page/Item_(電視劇).md" title="wikilink">Item</a></p></td>
 <td><p><a href="../Page/朱智勛.md" title="wikilink">朱智勛</a>、<a href="../Page/陳世娫.md" title="wikilink">陳世娫</a>、<a href="../Page/金剛于.md" title="wikilink">金剛-{于}-</a>、<a href="../Page/金釉利.md" title="wikilink">金釉利</a></p></td>
 <td></td>
-<td><p>[417]</p></td>
+<td><p>[418]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3171,7 +3169,7 @@
 <td><p><a href="../Page/耀眼.md" title="wikilink">耀眼</a></p></td>
 <td><p><a href="../Page/金惠子.md" title="wikilink">金惠子</a>、<a href="../Page/韓志旼.md" title="wikilink">韓志旼</a>、<a href="https://zh.wikipedia.org/wiki/南柱赫" title="wikilink">南柱赫</a>、<a href="https://zh.wikipedia.org/wiki/孫浩俊" title="wikilink">孫浩俊</a></p></td>
 <td></td>
-<td><p>[418]</p></td>
+<td><p>[419]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3180,7 +3178,7 @@
 <td><p><a href="../Page/Legal_High_(韓國電視劇).md" title="wikilink">Legal High</a></p></td>
 <td><p><a href="../Page/晉久.md" title="wikilink">晉久</a>、<a href="../Page/徐恩秀.md" title="wikilink">徐恩秀</a></p></td>
 <td></td>
-<td><p>[419]</p></td>
+<td><p>[420]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3189,7 +3187,7 @@
 <td><p><a href="../Page/圈套_(韓國電視劇).md" title="wikilink">圈套</a></p></td>
 <td><p><a href="../Page/李瑞鎮.md" title="wikilink">李瑞鎮</a>、<a href="../Page/成東鎰.md" title="wikilink">成東鎰</a></p></td>
 <td></td>
-<td><p>[420]</p></td>
+<td><p>[421]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3198,7 +3196,7 @@
 <td><p><a href="../Page/為何那樣，奉尚先生.md" title="wikilink">為何那樣，奉尚先生</a></p></td>
 <td><p><a href="../Page/劉俊相.md" title="wikilink">劉俊相</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧彬</a>、<a href="https://zh.wikipedia.org/wiki/李詩英" title="wikilink">李詩英</a>、<a href="../Page/吳智昊.md" title="wikilink">吳智昊</a></p></td>
 <td></td>
-<td><p>[421]</p></td>
+<td><p>[422]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3207,7 +3205,7 @@
 <td><p><a href="../Page/成為王的男人.md" title="wikilink">成為王的男人</a></p></td>
 <td><p><a href="../Page/呂珍九.md" title="wikilink">呂珍九</a>、<a href="../Page/李世榮_(韓國).md" title="wikilink">李世榮</a></p></td>
 <td></td>
-<td><p>[422]</p></td>
+<td><p>[423]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3216,7 +3214,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/先熱情的打掃吧" title="wikilink">先熱情的打掃吧</a></p></td>
 <td><p><a href="../Page/金裕貞.md" title="wikilink">金裕貞</a>、<a href="../Page/尹鈞相.md" title="wikilink">尹鈞相</a>、<a href="../Page/宋再臨.md" title="wikilink">宋再臨</a></p></td>
 <td></td>
-<td><p>[423]</p></td>
+<td><p>[424]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3225,16 +3223,16 @@
 <td><p><a href="../Page/頂級巨星柳白.md" title="wikilink">頂級巨星柳白</a></p></td>
 <td><p><a href="../Page/金知碩.md" title="wikilink">金知碩</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a>、<a href="../Page/李相燁.md" title="wikilink">李相燁</a></p></td>
 <td></td>
-<td><p>[424]</p></td>
+<td><p>[425]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
 <td><p>－</p></td>
 <td><p>韓國</p></td>
-<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗：重啟</a></p></td>
+<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗</a>：重啟</p></td>
 <td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a>、<a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a></p></td>
 <td></td>
-<td><p>[425]</p></td>
+<td><p>[426]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3243,7 +3241,7 @@
 <td><p><a href="../Page/就算死也喜歡.md" title="wikilink">就算死也喜歡</a></p></td>
 <td><p><a href="../Page/姜至奐.md" title="wikilink">姜至奐</a>、<a href="../Page/白珍熙.md" title="wikilink">白珍熙</a>、<a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a>、<a href="../Page/朴帥眉.md" title="wikilink">朴帥眉</a></p></td>
 <td></td>
-<td><p>[426]</p></td>
+<td><p>[427]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3252,7 +3250,7 @@
 <td><p><a href="../Page/第3種魅力.md" title="wikilink">第3種魅力</a></p></td>
 <td><p><a href="../Page/徐康俊.md" title="wikilink">徐康俊</a>、<a href="../Page/李絮.md" title="wikilink">李絮</a></p></td>
 <td></td>
-<td><p>[427]</p></td>
+<td><p>[428]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3261,7 +3259,7 @@
 <td><p><a href="../Page/一起吃飯吧3：Begins.md" title="wikilink">一起吃飯吧3：Begins</a></p></td>
 <td><p><a href="../Page/尹斗俊.md" title="wikilink">尹斗俊</a>、<a href="../Page/白珍熙.md" title="wikilink">白珍熙</a>、<a href="../Page/安友淵.md" title="wikilink">安友淵</a>、</p></td>
 <td></td>
-<td><p>[428][429]</p></td>
+<td><p>[429][430]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3270,7 +3268,7 @@
 <td><p><a href="../Page/如果是她的話.md" title="wikilink">如果是她的話</a></p></td>
 <td><p><a href="../Page/金載沅.md" title="wikilink">金載沅</a>、<a href="../Page/南相美.md" title="wikilink">南相美</a>、<a href="../Page/趙顯宰.md" title="wikilink">趙顯宰</a></p></td>
 <td></td>
-<td><p>[430]</p></td>
+<td><p>[431]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3279,7 +3277,7 @@
 <td><p><a href="../Page/你的管家.md" title="wikilink">你的管家</a></p></td>
 <td><p><a href="../Page/河錫辰.md" title="wikilink">河錫辰</a>、<a href="../Page/苞娜.md" title="wikilink">苞娜</a>、<a href="https://zh.wikipedia.org/wiki/李知勳_(演員)" title="wikilink">李知勳</a>、<a href="../Page/高媛熙.md" title="wikilink">高媛熙</a>、<a href="../Page/徐恩雅.md" title="wikilink">徐恩雅</a>、<a href="../Page/全秀珍.md" title="wikilink">全秀珍</a></p></td>
 <td></td>
-<td><p>[431]</p></td>
+<td><p>[432]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3288,7 +3286,7 @@
 <td><p><a href="../Page/油膩的Melo.md" title="wikilink">油膩的Melo</a></p></td>
 <td><p><a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>、<a href="../Page/鄭麗媛.md" title="wikilink">鄭麗媛</a>、<a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">李俊昊</a></p></td>
 <td></td>
-<td><p>[432]</p></td>
+<td><p>[433]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3297,16 +3295,16 @@
 <td><p><a href="../Page/沒禮貌的英愛小姐16.md" title="wikilink">沒禮貌的英愛小姐 第16季</a></p></td>
 <td><p><a href="../Page/金賢淑.md" title="wikilink">金賢淑</a></p></td>
 <td></td>
-<td><p>[433]</p></td>
+<td><p>[434]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
-<td><p>10</p></td>
+<td><p>9</p></td>
 <td><p>日本</p></td>
 <td></td>
 <td><p><a href="../Page/大森南朋.md" title="wikilink">大森南朋</a></p></td>
 <td></td>
-<td><p>[434]</p></td>
+<td><p>[435]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3315,7 +3313,7 @@
 <td></td>
 <td><p><a href="../Page/深田恭子.md" title="wikilink">深田恭子</a></p></td>
 <td></td>
-<td><p>[435]</p></td>
+<td><p>[436]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3324,7 +3322,7 @@
 <td></td>
 <td><p><a href="../Page/室剛.md" title="wikilink">室剛</a>、<a href="../Page/古田新太.md" title="wikilink">古田新太</a></p></td>
 <td></td>
-<td><p>[436]</p></td>
+<td><p>[437]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3333,7 +3331,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/行騙天下JP" title="wikilink">信用欺詐師 運勢篇</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/長澤雅美" title="wikilink">長澤雅美</a>、<a href="../Page/東出昌大.md" title="wikilink">東出昌大</a>、<a href="../Page/小日向文世.md" title="wikilink">小日向文世</a></p></td>
 <td></td>
-<td><p>[437]</p></td>
+<td><p>[438]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3342,7 +3340,7 @@
 <td><p><a href="../Page/昨日的美食.md" title="wikilink">昨日的美食</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/西島秀俊" title="wikilink">西島秀俊</a>、<a href="../Page/內野聖陽.md" title="wikilink">內野聖陽</a></p></td>
 <td></td>
-<td><p>[438]</p></td>
+<td><p>[439]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3351,7 +3349,7 @@
 <td><p><a href="../Page/BORDER.md" title="wikilink">BORDER 贖罪</a></p></td>
 <td><p><a href="../Page/小栗旬.md" title="wikilink">小栗旬</a></p></td>
 <td></td>
-<td><p>[439][440]</p></td>
+<td><p>[440][441]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3360,7 +3358,7 @@
 <td><p><a href="../Page/BORDER.md" title="wikilink">BORDER 衝動</a></p></td>
 <td><p><a href="../Page/波瑠.md" title="wikilink">波瑠</a></p></td>
 <td></td>
-<td><p>[441][442]</p></td>
+<td><p>[442][443]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3369,7 +3367,7 @@
 <td></td>
 <td><p>、、、</p></td>
 <td></td>
-<td><p>[443]</p></td>
+<td><p>[444]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3378,7 +3376,7 @@
 <td></td>
 <td><p>、</p></td>
 <td></td>
-<td><p>[444]</p></td>
+<td><p>[445]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3387,7 +3385,7 @@
 <td></td>
 <td><p>、<a href="../Page/平采娜·樂維瑟派布恩.md" title="wikilink">平采娜·樂維瑟派布恩</a></p></td>
 <td></td>
-<td><p>[445]</p></td>
+<td><p>[446]</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
@@ -3396,7 +3394,7 @@
 <td></td>
 <td><p><a href="../Page/素格力·威塞哥.md" title="wikilink">素格力·威塞哥</a>、</p></td>
 <td></td>
-<td><p>[446]</p></td>
+<td><p>[447]</p></td>
 </tr>
 <tr class="odd">
 <td><p>未定</p></td>
@@ -3405,7 +3403,7 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/頌恩·宋帕山" title="wikilink">頌恩·宋帕山</a>、</p></td>
 <td></td>
-<td><p>[447]</p></td>
+<td><p>[448]</p></td>
 </tr>
 </tbody>
 </table>
@@ -3441,7 +3439,7 @@
 <td><p><a href="../Page/Transit_Girls.md" title="wikilink">百合戀人</a></p></td>
 <td><p><a href="../Page/伊藤沙莉.md" title="wikilink">伊藤沙莉</a>、<a href="../Page/佐久間由衣.md" title="wikilink">佐久間由衣</a>、<a href="https://zh.wikipedia.org/wiki/健太郎" title="wikilink">健太郎</a></p></td>
 <td></td>
-<td><p>[448][449]</p></td>
+<td><p>[449][450]</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
@@ -3468,7 +3466,7 @@
 <td></td>
 <td><p><a href="../Page/中川大志.md" title="wikilink">中川大志</a>、<a href="../Page/山本舞香.md" title="wikilink">山本舞香</a></p></td>
 <td></td>
-<td><p>[450]</p></td>
+<td><p>[451]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -3495,7 +3493,7 @@
 <td><p><a href="../Page/偵探的偵探.md" title="wikilink">偵探的偵探</a></p></td>
 <td><p><a href="../Page/北川景子.md" title="wikilink">北川景子</a></p></td>
 <td></td>
-<td><p>[451]</p></td>
+<td><p>[452]</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
@@ -3586,15 +3584,15 @@
 
 | 首播日期  | 集數 | 來源 | 劇名                                                      | 演員                                                                                                                                                                                                                                               | 官方網頁 | 備註             |
 | ----- | -- | -- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | -------------- |
-| 3月19日 | 20 | 台灣 | [前男友不是人](../Page/前男友不是人.md "wikilink")                  | [楊丞琳](../Page/楊丞琳.md "wikilink")、[藍正龍](../Page/藍正龍.md "wikilink")、[路斯明](../Page/路斯明.md "wikilink")、[李　杏](../Page/李杏.md "wikilink")                                                                                                               |      | \[452\]        |
-| 未定    | 40 | 中國 | [愛情進化論](https://zh.wikipedia.org/wiki/愛情進化論 "wikilink") | [張天愛](https://zh.wikipedia.org/wiki/張天愛_\(演員\) "wikilink")、[張若昀](https://zh.wikipedia.org/wiki/張若昀 "wikilink")、[許魏洲](https://zh.wikipedia.org/wiki/許魏洲 "wikilink")                                                                               |      | \[453\]        |
-| 未定    | 66 | 中國 | [扶搖](https://zh.wikipedia.org/wiki/扶搖 "wikilink")       | [楊　冪](https://zh.wikipedia.org/wiki/楊冪 "wikilink")、[阮經天](../Page/阮經天.md "wikilink")                                                                                                                                                              |      | \[454\]\[455\] |
-| 未定    | 48 | 中國 | [我的真朋友](../Page/我的真朋友.md "wikilink")                    | [Angelababy](../Page/Angelababy.md "wikilink")、[鄧　倫](https://zh.wikipedia.org/wiki/鄧倫 "wikilink")、[朱一龍](https://zh.wikipedia.org/wiki/朱一龍 "wikilink")                                                                                            |      | \[456\]        |
-| 未定    | 39 | 中台 | [我的鬼基友](../Page/我的鬼基友.md "wikilink")                    | [張睿家](../Page/張睿家.md "wikilink")、[劉以豪](../Page/劉以豪.md "wikilink")、[陳匡怡](../Page/陳匡怡.md "wikilink")                                                                                                                                               |      | \[457\]        |
-| 未定    | 17 | 台灣 | [愛的3.14159](../Page/愛的3.14159.md "wikilink")            | [吳思賢](../Page/吳思賢.md "wikilink")、[邵雨薇](https://zh.wikipedia.org/wiki/邵雨薇 "wikilink")、[陳大天](../Page/陳大天.md "wikilink")、[李婕](../Page/李婕.md "wikilink")、[楊小黎](../Page/楊小黎.md "wikilink")                                                            |      | \[458\]        |
-| 未定    | 13 | 台灣 | [姊的時代](../Page/姊的時代.md "wikilink")                      | \-{[鍾瑶](../Page/鍾瑶.md "wikilink")}-、[吳思賢](../Page/吳思賢_\(藝人\).md "wikilink")、[潘慧如](../Page/潘慧如.md "wikilink")、[朱芷瑩](../Page/朱芷瑩.md "wikilink")、[藍鈞天](../Page/藍鈞天.md "wikilink")、[李運慶](../Page/李運慶.md "wikilink")、[吳定謙](../Page/吳定謙.md "wikilink") |      | \[459\]        |
-| 未定    | 31 | 台灣 | [我的男孩](../Page/我的男孩.md "wikilink")                      | [林心如](https://zh.wikipedia.org/wiki/林心如 "wikilink")、[張軒睿](../Page/張軒睿.md "wikilink")、[李李仁](../Page/李李仁.md "wikilink")、[高聖遠](https://zh.wikipedia.org/wiki/高聖遠 "wikilink")                                                                        |      | \[460\]        |
-| 未定    | 11 | 台灣 | [星座女人系列 - 水瓶座](../Page/星座愛情水瓶女.md "wikilink")           | [夏于喬](../Page/夏于喬.md "wikilink")、[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")、[樓庭岑](https://zh.wikipedia.org/wiki/樓庭岑 "wikilink")、[路斯明](../Page/路斯明.md "wikilink")                                                                        |      | \[461\]        |
+| 3月19日 | 20 | 台灣 | [前男友不是人](../Page/前男友不是人.md "wikilink")                  | [楊丞琳](../Page/楊丞琳.md "wikilink")、[藍正龍](../Page/藍正龍.md "wikilink")、[路斯明](../Page/路斯明.md "wikilink")、[李　杏](../Page/李杏.md "wikilink")                                                                                                               |      | \[453\]        |
+| 未定    | 40 | 中國 | [愛情進化論](https://zh.wikipedia.org/wiki/愛情進化論 "wikilink") | [張天愛](https://zh.wikipedia.org/wiki/張天愛_\(演員\) "wikilink")、[張若昀](https://zh.wikipedia.org/wiki/張若昀 "wikilink")、[許魏洲](https://zh.wikipedia.org/wiki/許魏洲 "wikilink")                                                                               |      | \[454\]        |
+| 未定    | 66 | 中國 | [扶搖](https://zh.wikipedia.org/wiki/扶搖 "wikilink")       | [楊　冪](https://zh.wikipedia.org/wiki/楊冪 "wikilink")、[阮經天](../Page/阮經天.md "wikilink")                                                                                                                                                              |      | \[455\]\[456\] |
+| 未定    | 48 | 中國 | [我的真朋友](../Page/我的真朋友.md "wikilink")                    | [Angelababy](../Page/Angelababy.md "wikilink")、[鄧　倫](https://zh.wikipedia.org/wiki/鄧倫 "wikilink")、[朱一龍](https://zh.wikipedia.org/wiki/朱一龍 "wikilink")                                                                                            |      | \[457\]        |
+| 未定    | 39 | 中台 | [我的鬼基友](../Page/我的鬼基友.md "wikilink")                    | [張睿家](../Page/張睿家.md "wikilink")、[劉以豪](../Page/劉以豪.md "wikilink")、[陳匡怡](../Page/陳匡怡.md "wikilink")                                                                                                                                               |      | \[458\]        |
+| 未定    | 17 | 台灣 | [愛的3.14159](../Page/愛的3.14159.md "wikilink")            | [吳思賢](../Page/吳思賢.md "wikilink")、[邵雨薇](https://zh.wikipedia.org/wiki/邵雨薇 "wikilink")、[陳大天](../Page/陳大天.md "wikilink")、[李婕](../Page/李婕.md "wikilink")、[楊小黎](../Page/楊小黎.md "wikilink")                                                            |      | \[459\]        |
+| 未定    | 13 | 台灣 | [姊的時代](../Page/姊的時代.md "wikilink")                      | \-{[鍾瑶](../Page/鍾瑶.md "wikilink")}-、[吳思賢](../Page/吳思賢_\(藝人\).md "wikilink")、[潘慧如](../Page/潘慧如.md "wikilink")、[朱芷瑩](../Page/朱芷瑩.md "wikilink")、[藍鈞天](../Page/藍鈞天.md "wikilink")、[李運慶](../Page/李運慶.md "wikilink")、[吳定謙](../Page/吳定謙.md "wikilink") |      | \[460\]        |
+| 未定    | 31 | 台灣 | [我的男孩](../Page/我的男孩.md "wikilink")                      | [林心如](https://zh.wikipedia.org/wiki/林心如 "wikilink")、[張軒睿](../Page/張軒睿.md "wikilink")、[李李仁](../Page/李李仁.md "wikilink")、[高聖遠](https://zh.wikipedia.org/wiki/高聖遠 "wikilink")                                                                        |      | \[461\]        |
+| 未定    | 11 | 台灣 | [星座女人系列 - 水瓶座](../Page/星座愛情水瓶女.md "wikilink")           | [夏于喬](../Page/夏于喬.md "wikilink")、[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")、[樓庭岑](https://zh.wikipedia.org/wiki/樓庭岑 "wikilink")、[路斯明](../Page/路斯明.md "wikilink")                                                                        |      | \[462\]        |
 
   - 【C】[風雨桃花鎮](https://zh.wikipedia.org/wiki/風雨桃花鎮 "wikilink")
   - 【C】[護國軍魂傳奇](https://zh.wikipedia.org/wiki/護國軍魂傳奇 "wikilink")
@@ -3689,11 +3687,9 @@
 
 ## 參見
 
-[Category:Now寬頻電視節目](https://zh.wikipedia.org/wiki/Category:Now寬頻電視節目 "wikilink")
-[Category:香港電視節目列表](https://zh.wikipedia.org/wiki/Category:香港電視節目列表 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:Now寬頻電視節目](https://zh.wikipedia.org/wiki/Category:Now寬頻電視節目 "wikilink") [Category:香港電視節目列表](https://zh.wikipedia.org/wiki/Category:香港電視節目列表 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
-1.  [Now寬頻電視只有收費電視播映權](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")，免費電視播映權由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")、[亞洲電視或](../Page/亞洲電視.md "wikilink")[奇妙電視擁有](../Page/奇妙電視.md "wikilink")
+1.  [Now寬頻電視只有收費電視播映權](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")，免費電視播映權由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")、[亞洲電視](../Page/亞洲電視.md "wikilink")或[奇妙電視](../Page/奇妙電視.md "wikilink")擁有
 
 2.
 3.
@@ -3737,7 +3733,7 @@
 38.
 39.
 40.
-41. 曾在[ViuTV重播](../Page/ViuTV.md "wikilink")
+41. 曾在[ViuTV](../Page/ViuTV.md "wikilink")重播
 
 42.
 43.
@@ -3848,7 +3844,7 @@
 145.
 146.
 147.
-148. 曾在[ViuTV首播](../Page/ViuTV.md "wikilink")
+148. 曾在[ViuTV](../Page/ViuTV.md "wikilink")首播
 
 149.
 150.
@@ -4132,9 +4128,9 @@
 426.
 427.
 428.
-429. 前兩季由[無線電視購入](../Page/電視廣播有限公司.md "wikilink")，第三季由now TV購入。
+429.
+430. 前兩季由[無線電視購入](../Page/電視廣播有限公司.md "wikilink")，第三季由now TV購入。
 
-430.
 431.
 432.
 433.
@@ -4156,15 +4152,16 @@
 449.
 450.
 451.
-452. 曾在now劇集台／now華劇台自選服務率先上架
+452.
+453. 曾在now劇集台／now華劇台自選服務率先上架
 
-453.
 454.
-455. 曾在[ViuTV首播](../Page/ViuTV.md "wikilink")
+455.
+456. 曾在[ViuTV](../Page/ViuTV.md "wikilink")首播
 
-456.
 457.
 458.
 459.
 460.
 461.
+462.

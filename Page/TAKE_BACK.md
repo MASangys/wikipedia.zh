@@ -1,9 +1,8 @@
-「**TAKE
-BACK**」（原來的我）為2000年12月6日發行之[日本歌手](../Page/日本.md "wikilink")[倖田來未的出道](../Page/倖田來未.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+「**TAKE BACK**」（原來的我）為2000年12月6日發行之[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")的出道[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
-  - 於[美國以](https://zh.wikipedia.org/wiki/美國 "wikilink")「KODA」的名義先行發行，獲得「[告示牌](https://zh.wikipedia.org/wiki/告示牌 "wikilink")」舞蹈部門排行初登場第20名的好成績，但在[日本](../Page/日本.md "wikilink")[Oricon單曲榜僅最高第](../Page/Oricon.md "wikilink")59名。
+  - 於[美國以](https://zh.wikipedia.org/wiki/美國 "wikilink")「KODA」的名義先行發行，獲得「[告示牌](https://zh.wikipedia.org/wiki/告示牌 "wikilink")」舞蹈部門排行初登場第20名的好成績，但在[日本](../Page/日本.md "wikilink")[Oricon](../Page/Oricon.md "wikilink")單曲榜僅最高第59名。
 
 <!-- end list -->
 
@@ -47,5 +46,4 @@ BACK**」（原來的我）為2000年12月6日發行之[日本歌手](../Page/�
 9.  **Take Back (Jonathan Peters' Sound Factory dub)**
 10. **Take Back (Hex Hector dub)**
 
-[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")
-[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
+[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink") [Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")

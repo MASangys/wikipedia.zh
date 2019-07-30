@@ -1,6 +1,4 @@
-《**ROOM
-NO.1301**》是一部由日本作家[新井輝所寫的](https://zh.wikipedia.org/wiki/新井輝 "wikilink")[輕小說](../Page/輕小說.md "wikilink")，日文版由[富士見書房](../Page/富士見書房.md "wikilink")發行，全11冊，另有短篇4冊。中文版由[台灣角川](../Page/台灣角川.md "wikilink")發行。此外亦有推出[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")\[1\]
-和[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")\[2\] 版本。
+《**ROOM NO.1301**》是一部由日本作家[新井輝所寫的](https://zh.wikipedia.org/wiki/新井輝 "wikilink")[輕小說](../Page/輕小說.md "wikilink")，日文版由[富士見書房](../Page/富士見書房.md "wikilink")發行，全11冊，另有短篇4冊。中文版由[台灣角川](../Page/台灣角川.md "wikilink")發行。此外亦有推出[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")\[1\] 和[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")\[2\] 版本。
 
 ## 故事簡介
 
@@ -185,8 +183,7 @@ NO.1301**》是一部由日本作家[新井輝所寫的](https://zh.wikipedia.or
     螢子大學時的同學。被人稱作『人盡可夫的女人』，是冴子同父異母的姐姐。
   -
 
-    有馬冴子的生母，擁有一頭烏髮的美人，實際上本人已經40來歲。本人是冴子父親的外遇對像。在懷上冴子時，擔心會被人要求打掉，於是跑到非常遠的地方將冴子生下撫
-    養，後來被有馬一家找到，最後歸於有馬一家。與冴子父親互有真情。
+    有馬冴子的生母，擁有一頭烏髮的美人，實際上本人已經40來歲。本人是冴子父親的外遇對像。在懷上冴子時，擔心會被人要求打掉，於是跑到非常遠的地方將冴子生下撫 養，後來被有馬一家找到，最後歸於有馬一家。與冴子父親互有真情。
   -
     大海千夜子的哥哥，與螢子是高中的同班同學，曾經想追求螢子但沒有成功，有著有些遺憾的好色個性，與千夜子的關係並不是很好．
     雖然表現輕浮，實際上大學時專情於螢子(在她結婚前都是處男)，對螢子十分關心。最終知道螢子看不上他。在她結婚後便放下這感情。現在與三条宇美交往中。
@@ -391,12 +388,7 @@ NO.1301**》是一部由日本作家[新井輝所寫的](https://zh.wikipedia.or
 
 ## 外部連結
 
-[Category:2003年長篇小說](https://zh.wikipedia.org/wiki/Category:2003年長篇小說 "wikilink")
-[Category:富士見Mystery文庫](https://zh.wikipedia.org/wiki/Category:富士見Mystery文庫 "wikilink")
-[Category:公寓背景作品](https://zh.wikipedia.org/wiki/Category:公寓背景作品 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Dragon_Age_Pure](https://zh.wikipedia.org/wiki/Category:Dragon_Age_Pure "wikilink")
+[Category:2003年長篇小說](https://zh.wikipedia.org/wiki/Category:2003年長篇小說 "wikilink") [Category:富士見Mystery文庫](https://zh.wikipedia.org/wiki/Category:富士見Mystery文庫 "wikilink") [Category:公寓背景作品](https://zh.wikipedia.org/wiki/Category:公寓背景作品 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Dragon_Age_Pure](https://zh.wikipedia.org/wiki/Category:Dragon_Age_Pure "wikilink")
 
 1.
 2.

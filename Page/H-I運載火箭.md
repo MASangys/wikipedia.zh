@@ -1,7 +1,6 @@
-**H-I運載火箭**又稱**H-1運載火箭**，為[日本的](../Page/日本.md "wikilink")[液態燃料火箭](https://zh.wikipedia.org/wiki/液態火箭發動機 "wikilink")，其第一節及輔助火箭為[美國技術提供](https://zh.wikipedia.org/wiki/美國 "wikilink")，第二及第三節為日本自主開發，於1986年至1996年間共發射9次，H-I運載火箭則取代了早期的[N-II運載火箭](../Page/N-II運載火箭.md "wikilink")，後由日本自主開發第一節的[H-II運載火箭所取代](https://zh.wikipedia.org/wiki/H-II運載火箭 "wikilink")。
+**H-I運載火箭**又稱**H-1運載火箭**，為[日本](../Page/日本.md "wikilink")的[液態燃料火箭](https://zh.wikipedia.org/wiki/液態火箭發動機 "wikilink")，其第一節及輔助火箭為[美國技術提供](https://zh.wikipedia.org/wiki/美國 "wikilink")，第二及第三節為日本自主開發，於1986年至1996年間共發射9次，H-I運載火箭則取代了早期的[N-II運載火箭](../Page/N-II運載火箭.md "wikilink")，後由日本自主開發第一節的[H-II運載火箭所取代](https://zh.wikipedia.org/wiki/H-II運載火箭 "wikilink")。
 
-H-I運載火箭的第一節為經授權於日本製造的雷神-ELT運載火箭，該火箭同時也是美國三角洲1000運載火箭的原型，[N-I運載火箭及N](../Page/N-I運載火箭.md "wikilink")-II運載火箭也曾運用相同模式，第二節則採用日本自主開發的[LE-5火箭发动机](../Page/LE-5火箭发动机.md "wikilink")。將衛星送至[地球同步轉移軌道則搭載](../Page/地球同步轉移軌道.md "wikilink")[日產汽車開發的UM](../Page/日產汽車.md "wikilink")-129A發動機做為第三節。依酬載衛星重量不同，可選擇使用9枚或6枚Castor
-2輔助火箭。
+H-I運載火箭的第一節為經授權於日本製造的雷神-ELT運載火箭，該火箭同時也是美國三角洲1000運載火箭的原型，[N-I運載火箭](../Page/N-I運載火箭.md "wikilink")及N-II運載火箭也曾運用相同模式，第二節則採用日本自主開發的[LE-5火箭发动机](../Page/LE-5火箭发动机.md "wikilink")。將衛星送至[地球同步轉移軌道](../Page/地球同步轉移軌道.md "wikilink")則搭載[日產汽車](../Page/日產汽車.md "wikilink")開發的UM-129A發動機做為第三節。依酬載衛星重量不同，可選擇使用9枚或6枚Castor 2輔助火箭。
 
 ## 發射紀錄
 

@@ -1,13 +1,11 @@
-**つぐみ**（），[日本女](../Page/日本.md "wikilink")[演员](https://zh.wikipedia.org/wiki/演员 "wikilink")。
+**つぐみ**（），[日本](../Page/日本.md "wikilink")女[演员](https://zh.wikipedia.org/wiki/演员 "wikilink")。
 
 ## 履历
 
-  - つぐみ商业高中毕业后在赛艇新闻处担任操作员，很快被星探发现，转行成为女演员，以参演电影『タイム・リープ』出道，从此活跃于电影、电视剧表演中，1997年推出《美少女写真集
-    TSUGUMI～つぐみ18歳》。常扮演黑发大眼睛的“古怪美少女”，独特大胆的表演风格给观众留下深刻印象。
+  - つぐみ商业高中毕业后在赛艇新闻处担任操作员，很快被星探发现，转行成为女演员，以参演电影『タイム・リープ』出道，从此活跃于电影、电视剧表演中，1997年推出《美少女写真集 TSUGUMI～つぐみ18歳》。常扮演黑发大眼睛的“古怪美少女”，独特大胆的表演风格给观众留下深刻印象。
   - 在电影方面，つぐみ与[行定勋](https://zh.wikipedia.org/wiki/行定勋 "wikilink")、[盐田明彦](https://zh.wikipedia.org/wiki/盐田明彦 "wikilink")、[园子温等日本著名导演多次合作](https://zh.wikipedia.org/wiki/园子温 "wikilink")。凭借电影《月吟》获得2000年第9回日本映画プロフェッショナル大赏新人奨、第21回ヨコハマ映画祭最优秀新人赏、第14回高崎映画祭最优秀新人赏等一系列新人奖。
   - 2005年在《纪子的餐桌》扮演的“上野54/久美子”一角十分惊艳。2007年出演《美发尸》中性格扭曲的女性也令人印象深刻。 　　
-  - 2007年9月主演TBS电视台“爱の剧场”午间剧《家有五女》（长女・一代役）。这也是她继『直子センセの诊察日记』、『绯の十字架』第三次出演午间剧。
-    　　
+  - 2007年9月主演TBS电视台“爱の剧场”午间剧《家有五女》（长女・一代役）。这也是她继『直子センセの诊察日记』、『绯の十字架』第三次出演午间剧。 　　
   - 2004年之后开始参与舞台戏剧表演。 　　
   - 2007年与前事务所结束合约，现在所属事务所不详。2008年暂时停止了演员事业，成为圈外OL，2010年夏重回公众视野[女优つぐみ博客](https://web.archive.org/web/20101106100921/http://blog.livedoor.jp/tsugumi0804/)。
   - 2010年12月在MUTEKI出演AV出道。
@@ -119,6 +117,4 @@
   - 女優 つぐみ (2010年12月1日、MUTEKI，中西良太導演) AV出道
   - 秘蜜 つぐみ (2011年1月1日、MUTEKI，中西良太導演)
 
-[Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink")
-[Category:东京都出身人物](https://zh.wikipedia.org/wiki/Category:东京都出身人物 "wikilink")
-[Category:橫濱電影節最佳新人獎得主](https://zh.wikipedia.org/wiki/Category:橫濱電影節最佳新人獎得主 "wikilink")
+[Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink") [Category:东京都出身人物](https://zh.wikipedia.org/wiki/Category:东京都出身人物 "wikilink") [Category:橫濱電影節最佳新人獎得主](https://zh.wikipedia.org/wiki/Category:橫濱電影節最佳新人獎得主 "wikilink")

@@ -1,12 +1,8 @@
-[Phantasmagoria_of_Dim.Dream.png](https://zh.wikipedia.org/wiki/File:Phantasmagoria_of_Dim.Dream.png "fig:Phantasmagoria_of_Dim.Dream.png")
-是[东方Project的第三部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，虽然也是[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，但其他不同的是，它是对战模式——也就是双人参加或电脑以第二玩家参与本游戏。这也是在该系列中唯一的不同。本作由[上海愛莉絲幻樂團的前身ZUN](../Page/上海愛莉絲幻樂團.md "wikilink")
-Soft开发，发布于[Comic
-Market](../Page/Comic_Market.md "wikilink")53。本作第一次允许挑选自机角色，[魔理沙和魅魔在本作中也可以被选用](../Page/霧雨魔理沙.md "wikilink")。
+[Phantasmagoria_of_Dim.Dream.png](https://zh.wikipedia.org/wiki/File:Phantasmagoria_of_Dim.Dream.png "fig:Phantasmagoria_of_Dim.Dream.png") 是[东方Project的第三部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，虽然也是[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，但其他不同的是，它是对战模式——也就是双人参加或电脑以第二玩家参与本游戏。这也是在该系列中唯一的不同。本作由[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")的前身ZUN Soft开发，发布于[Comic Market](../Page/Comic_Market.md "wikilink")53。本作第一次允许挑选自机角色，[魔理沙和魅魔在本作中也可以被选用](../Page/霧雨魔理沙.md "wikilink")。
 
 ## 游戏玩法
 
-[th3_gameplay.png](https://zh.wikipedia.org/wiki/File:th3_gameplay.png "fig:th3_gameplay.png")》也採用了類似的遊戲模式。\]\]
-基本和东方Project的操作系统一样，由于是对战游戏，屏幕被分成对应两个玩家的战斗视窗独立战斗。当符合一定条件时，玩家可以释放所使用角色独有的优势性符卡攻击来减少对方的生命值。
+[th3_gameplay.png](https://zh.wikipedia.org/wiki/File:th3_gameplay.png "fig:th3_gameplay.png")》也採用了類似的遊戲模式。\]\] 基本和东方Project的操作系统一样，由于是对战游戏，屏幕被分成对应两个玩家的战斗视窗独立战斗。当符合一定条件时，玩家可以释放所使用角色独有的优势性符卡攻击来减少对方的生命值。
 
 故事模式下，玩家将随着关卡推进，遇到九位实力依次递增的AI对手，每一位都比前一位更加强大。游戏亦提供了对战模式，玩家可与电脑操纵的角色或身边的朋友进行对战，也可以让电脑自行对战，玩家进行观战。
 
@@ -73,8 +69,7 @@ Market](../Page/Comic_Market.md "wikilink")53。本作第一次允许挑选自�
 ## 音乐
 
 1.  ****（译名：超越時空之夢 ） - 标题曲
-2.  ****（译名：Selection ） -
-    选择自机角色时[BGM](https://zh.wikipedia.org/wiki/背景音乐 "wikilink")
+2.  ****（译名：Selection ） - 选择自机角色时[BGM](https://zh.wikipedia.org/wiki/背景音乐 "wikilink")
 3.  ****（译名：東方妖戀談 ）- 博麗靈夢BGM
 4.  ****（译名：輪迴 ） - 魅魔BGM
 5.  ****（译名：朦朧的夢幻 ） - 霧雨魔理沙BGM
@@ -95,13 +90,9 @@ Market](../Page/Comic_Market.md "wikilink")53。本作第一次允许挑选自�
 20. ****（译名：勝利組 ） - 游戏胜利曲
 21. ****（译名：Game Over ） - 游戏失败曲
 
-收录于音乐专辑**「[幺乐团的历史 ～ Akyu's Untouched Score
-vol.4](https://zh.wikipedia.org/wiki/上海愛莉絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」**和以重编的方式收录[东方怪绮谈
-～ Mystic
-Square.的音乐屋中](https://zh.wikipedia.org/wiki/东方怪绮谈_～_Mystic_Square. "wikilink")
+收录于音乐专辑**「[幺乐团的历史 ～ Akyu's Untouched Score vol.4](https://zh.wikipedia.org/wiki/上海愛莉絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」**和以重编的方式收录[东方怪绮谈 ～ Mystic Square.的音乐屋中](https://zh.wikipedia.org/wiki/东方怪绮谈_～_Mystic_Square. "wikilink")
 
-除外，[东方怪绮谈 ～ Mystic
-Square.还包括了一些没在本作使用的曲目](https://zh.wikipedia.org/wiki/东方怪绮谈_～_Mystic_Square. "wikilink")：
+除外，[东方怪绮谈 ～ Mystic Square.还包括了一些没在本作使用的曲目](https://zh.wikipedia.org/wiki/东方怪绮谈_～_Mystic_Square. "wikilink")：
 
 1.  ****（译名：時之風 ） - 未使用曲
 2.  ****（译名：星弓之夢 ） - 未使用曲
@@ -114,13 +105,9 @@ Square.还包括了一些没在本作使用的曲目](https://zh.wikipedia.org/w
 ## 外部链接
 
   - [上海アリス幻樂団](http://www16.big.or.jp/~zun/)
-  - [Amusement
-    Makers（旧）公式サイト](https://www.webcitation.org/654TL2n6o?url=http://www.kt.rim.or.jp/~aotaka/am/index.htm)
+  - [Amusement Makers（旧）公式サイト](https://www.webcitation.org/654TL2n6o?url=http://www.kt.rim.or.jp/~aotaka/am/index.htm)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:1997年电子游戏](https://zh.wikipedia.org/wiki/Category:1997年电子游戏 "wikilink")
-[Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:1997年电子游戏](https://zh.wikipedia.org/wiki/Category:1997年电子游戏 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
 
 1.  『夢時空』同梱の「夢の人々.TXT」では「ふわふわエレン」と表記。
 

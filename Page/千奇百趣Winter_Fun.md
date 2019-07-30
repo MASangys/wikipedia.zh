@@ -1,7 +1,6 @@
-《**千奇百趣Winter
-Fun**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司向日本](../Page/電視廣播有限公司.md "wikilink")[朝日電視台購買版權而製作的一個](../Page/朝日電視台.md "wikilink")[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，以[高清技術拍攝](https://zh.wikipedia.org/wiki/高清 "wikilink")。節目主持為[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[阮小儀](../Page/阮小儀.md "wikilink")，助手為[廖素屏](https://zh.wikipedia.org/wiki/廖素屏 "wikilink")（趣趣），旁白為[林保全](../Page/林保全.md "wikilink")、[雷碧娜](../Page/雷碧娜.md "wikilink")。
+《**千奇百趣Winter Fun**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")向日本[朝日電視台](../Page/朝日電視台.md "wikilink")購買版權而製作的一個[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，以[高清技術拍攝](https://zh.wikipedia.org/wiki/高清 "wikilink")。節目主持為[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[阮小儀](../Page/阮小儀.md "wikilink")，助手為[廖素屏](https://zh.wikipedia.org/wiki/廖素屏 "wikilink")（趣趣），旁白為[林保全](../Page/林保全.md "wikilink")、[雷碧娜](../Page/雷碧娜.md "wikilink")。
 
-本節目是該台早前播出之《[千奇百趣](../Page/千奇百趣.md "wikilink")》系列之第四輯，以冬日為主題，奇趣內容關於日本境內的奇景。節目於2010年12月13日至2011年1月7日，逢星期一至星期五[香港時間](../Page/香港時間.md "wikilink")22:30-23:00於[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台播放](../Page/高清翡翠台.md "wikilink")。
+本節目是該台早前播出之《[千奇百趣](../Page/千奇百趣.md "wikilink")》系列之第四輯，以冬日為主題，奇趣內容關於日本境內的奇景。節目於2010年12月13日至2011年1月7日，逢星期一至星期五[香港時間](../Page/香港時間.md "wikilink")22:30-23:00於[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")播放。
 
 另外，節目播出後於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
 
@@ -21,8 +20,7 @@ Fun**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是
 
 #### X'mas Ball／New Year Ball
 
-獎賞環節。於每集最後一個片段的題目，主持會按嘉賓的答案，決定為答對或答錯的嘉賓進入本環節。該嘉賓需在限時內把手上的袋儲滿20個橙色乒乓球，成功挑戰之嘉賓會獲得大獎。從第5集開始，只需儲滿15個橙色乒乓球。
-為配合播映期間的不同節日，在第1-12集命名為「X'mas Ball」，第13集起改稱「New Year Ball」。
+獎賞環節。於每集最後一個片段的題目，主持會按嘉賓的答案，決定為答對或答錯的嘉賓進入本環節。該嘉賓需在限時內把手上的袋儲滿20個橙色乒乓球，成功挑戰之嘉賓會獲得大獎。從第5集開始，只需儲滿15個橙色乒乓球。 為配合播映期間的不同節日，在第1-12集命名為「X'mas Ball」，第13集起改稱「New Year Ball」。
 
 ### 每集嘉賓
 
@@ -238,7 +236,7 @@ Fun**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是
 
 ## 收視
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 | 週次 | 集數    | 日期                 | 平均收視                                                |
 | -- | ----- | ------------------ | --------------------------------------------------- |
@@ -263,7 +261,7 @@ Fun**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是
 
 ## 記事
 
-2010年12月31日：由於播映特備節目《[奧海城全城狂歡邁向](../Page/奧海城.md "wikilink")2011》，本節目暫停播映一次。
+2010年12月31日：由於播映特備節目《[奧海城](../Page/奧海城.md "wikilink")全城狂歡邁向2011》，本節目暫停播映一次。
 
 ## 電視節目的變遷
 
@@ -278,9 +276,7 @@ Fun**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是
   - [節目網站](http://programme.tvb.com/variety/neighborhoodtreasures3)
   - [myTV](http://mytv.tvb.com/variety/neighborhoodtreasures3)
 
-[Category:千奇百趣系列](https://zh.wikipedia.org/wiki/Category:千奇百趣系列 "wikilink")
-[Category:2010年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年無綫電視節目 "wikilink")
-[Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink")
+[Category:千奇百趣系列](https://zh.wikipedia.org/wiki/Category:千奇百趣系列 "wikilink") [Category:2010年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年無綫電視節目 "wikilink") [Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink")
 
 1.  原本統計為24個，但由於吳雨霏從褲袋掏出2個作弊，主持森美又提出袋內每個白色乒乓球扣減2分，結果只得18個。雖然不足20個，但森美認為已有超過15個，亦算成功過關。
 

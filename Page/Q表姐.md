@@ -1,10 +1,8 @@
-《**Q表姐**》（，又名《**夏天的童話**》），[香港](../Page/香港.md "wikilink")[亞洲電視製作的](../Page/亞洲電視.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共15集，監製[陳澤成](https://zh.wikipedia.org/wiki/陳澤成 "wikilink")。
+《**Q表姐**》（，又名《**夏天的童話**》），[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")製作的[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共15集，監製[陳澤成](https://zh.wikipedia.org/wiki/陳澤成 "wikilink")。
 
 ## 劇情介紹
 
-柴家的爸爸、媽媽因事要往歐洲公幹，順道再度蜜月，只好把15歲的女兒艷娜交給她們的大表姐Oliver(O表姐)看管。
-O表姐卻因事業心重，而無閒分身，把責任交給貪玩的妹妹Quasimodo(Q表姐)。
-Q表姐得其所哉，搬到此對淘氣姊妹花的家裡，一起度過無拘無束、自由自在的日子。
+柴家的爸爸、媽媽因事要往歐洲公幹，順道再度蜜月，只好把15歲的女兒艷娜交給她們的大表姐Oliver(O表姐)看管。 O表姐卻因事業心重，而無閒分身，把責任交給貪玩的妹妹Quasimodo(Q表姐)。 Q表姐得其所哉，搬到此對淘氣姊妹花的家裡，一起度過無拘無束、自由自在的日子。
 
 Q表姐為青春歌星鞏倩文的私人助理。倩文暫別歌壇到外國讀書，但卻因入學延誤，只好折返香港。為免張揚，Q表姐安排她住在柴家。可惜，仍然逃不過新閒界的追纏，找上門來，柴氏姐妹及Q表姐出盡法寶打發這批記者，十分刺激好玩。經過一番擾攘後，柴家父母亦從歐洲再度蜜月回來。一雙小姊妹的歡樂時光也結束了。而倩文也得面對現實向報界解釋，最後獲得大家的諒解。這段快樂而自由的日子更成了她們成長中美好回憶的一部分。
 
@@ -47,10 +45,7 @@ Q表姐為青春歌星鞏倩文的私人助理。倩文暫別歌壇到外國讀�
 
 ## 相關
 
-  - [艷娜印象～王艷娜小屋 -
-    Q表姐](http://blog.sina.com.cn/s/blog_6cf392f90100p2ub.html)
-  - [StephenAu.com-歐錦棠個人網站 -
-    Q表姐](http://www.stephenau.com/works/drama/q.html)
+  - [艷娜印象～王艷娜小屋 - Q表姐](http://blog.sina.com.cn/s/blog_6cf392f90100p2ub.html)
+  - [StephenAu.com-歐錦棠個人網站 - Q表姐](http://www.stephenau.com/works/drama/q.html)
 
-[Category:1990年亞視電視劇集](https://zh.wikipedia.org/wiki/Category:1990年亞視電視劇集 "wikilink")
-[Category:虛構女性電視劇角色](https://zh.wikipedia.org/wiki/Category:虛構女性電視劇角色 "wikilink")
+[Category:1990年亞視電視劇集](https://zh.wikipedia.org/wiki/Category:1990年亞視電視劇集 "wikilink") [Category:虛構女性電視劇角色](https://zh.wikipedia.org/wiki/Category:虛構女性電視劇角色 "wikilink")

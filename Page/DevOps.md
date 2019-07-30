@@ -1,34 +1,27 @@
-**DevOps**（**Dev**elopment和**Op**erations的组合詞）是一种重视「软件开发人员（Dev）」和「IT运维技术人员（Ops）」之间沟通合作的文化、运动或慣例。透过自动化「软件交付」和「架构变更」的流程，来使得构建、测试、发布软件能够更加地快捷、频繁和可靠。\[1\]\[2\]\[3\]\[4\]
-[Devops.svg](https://zh.wikipedia.org/wiki/File:Devops.svg "fig:Devops.svg")
+**DevOps**（**Dev**elopment和**Op**erations的组合詞）是一种重视「软件开发人员（Dev）」和「IT运维技术人员（Ops）」之间沟通合作的文化、运动或慣例。透过自动化「软件交付」和「架构变更」的流程，来使得构建、测试、发布软件能够更加地快捷、频繁和可靠。\[1\]\[2\]\[3\]\[4\] [Devops.svg](https://zh.wikipedia.org/wiki/File:Devops.svg "fig:Devops.svg")
 
-传统的软件组织将开发、IT运营和[质量保障设为各自分离的部门](https://zh.wikipedia.org/wiki/品质保证 "wikilink")，在这种环境下如何采用新的开发方法（例如[敏捷软件开发](../Page/敏捷软件开发.md "wikilink")），是一个重要的课题。按照从前的工作方式，开发和部署，不需要IT支持或者QA深入的跨部门的支持；而现在却需要极其紧密的多部门[协作](https://zh.wikipedia.org/wiki/协作 "wikilink")。而DevOps考虑的还不止是软件部署，它是一套针对这几个部门间[沟通与协作问题的流程和方法](../Page/沟通.md "wikilink")。\[5\]
+传统的软件组织将开发、IT运营和[质量保障设为各自分离的部门](https://zh.wikipedia.org/wiki/品质保证 "wikilink")，在这种环境下如何采用新的开发方法（例如[敏捷软件开发](../Page/敏捷软件开发.md "wikilink")），是一个重要的课题。按照从前的工作方式，开发和部署，不需要IT支持或者QA深入的跨部门的支持；而现在却需要极其紧密的多部门[协作](https://zh.wikipedia.org/wiki/协作 "wikilink")。而DevOps考虑的还不止是软件部署，它是一套针对这几个部门间[沟通](../Page/沟通.md "wikilink")与协作问题的流程和方法。\[5\]
 
-需要频繁交付的企业可能更需要对DevOps有一个大致的了解。[Flickr发展了自己的DevOps能力](../Page/Flickr.md "wikilink")，使之能够支撑业务部门“每天部署10次”的要求\[6\]──如果一个组织要生产面向多种用户、具备多样功能的应用程序，其部署周期必然会很短。这种能力也被称为持续部署\[7\]，并且经常与[精益创业方法联系起来](../Page/精益创业.md "wikilink")。\[8\]
-从2009年起，相关的工作组、专业组织和[博客快速涌现](https://zh.wikipedia.org/wiki/博客 "wikilink")。\[9\]\[10\]\[11\]\[12\]
+需要频繁交付的企业可能更需要对DevOps有一个大致的了解。[Flickr](../Page/Flickr.md "wikilink")发展了自己的DevOps能力，使之能够支撑业务部门“每天部署10次”的要求\[6\]──如果一个组织要生产面向多种用户、具备多样功能的应用程序，其部署周期必然会很短。这种能力也被称为持续部署\[7\]，并且经常与[精益创业](../Page/精益创业.md "wikilink")方法联系起来。\[8\] 从2009年起，相关的工作组、专业组织和[博客快速涌现](https://zh.wikipedia.org/wiki/博客 "wikilink")。\[9\]\[10\]\[11\]\[12\]
 
-DevOps的引入能对产品交付、[测试](https://zh.wikipedia.org/wiki/测试 "wikilink")、功能开发和[维护](https://zh.wikipedia.org/wiki/軟體維護 "wikilink")（包括──曾经罕见但如今已屡见不鲜的──“[热补丁](https://zh.wikipedia.org/wiki/hot_fix "wikilink")”）起到意义深远的影响。在缺乏DevOps能力的组织中，开发与运营之间存在着信息“鸿沟”──例如运营人员要求更好的可靠性和安全性，开发人员则希望[基础设施响应更快](../Page/基础设施.md "wikilink")，而业务用户的需求则是更快地将更多的特性发布给最终用户使用。这种信息鸿沟就是最常出问题的地方。
+DevOps的引入能对产品交付、[测试](https://zh.wikipedia.org/wiki/测试 "wikilink")、功能开发和[维护](https://zh.wikipedia.org/wiki/軟體維護 "wikilink")（包括──曾经罕见但如今已屡见不鲜的──“[热补丁](https://zh.wikipedia.org/wiki/hot_fix "wikilink")”）起到意义深远的影响。在缺乏DevOps能力的组织中，开发与运营之间存在着信息“鸿沟”──例如运营人员要求更好的可靠性和安全性，开发人员则希望[基础设施](../Page/基础设施.md "wikilink")响应更快，而业务用户的需求则是更快地将更多的特性发布给最终用户使用。这种信息鸿沟就是最常出问题的地方。
 
 以下几方面因素可能促使一个组织引入DevOps：
 
-1.  使用敏捷或其他[软件开发过程与方法](../Page/软件开发过程.md "wikilink")
+1.  使用敏捷或其他[软件开发过程](../Page/软件开发过程.md "wikilink")与方法
 2.  业务[负责人要求加快产品交付的速率](../Page/持份者.md "wikilink")
 3.  [虚拟化](https://zh.wikipedia.org/wiki/虚拟化 "wikilink")\[13\]和[云计算基础设施](https://zh.wikipedia.org/wiki/云计算 "wikilink")（可能来自内部或外部供应商）日益普遍
-4.  [数据中心自动化技术](../Page/数据中心.md "wikilink")\[14\]和[配置管理工具的普及](https://zh.wikipedia.org/wiki/軟件配置管理 "wikilink")
-5.  有一种观点认为，目前占主导地位的“传统”美国式管理风格（“[斯隆模型](https://zh.wikipedia.org/wiki/Alfred_P._Sloan "wikilink")
-    vs
-    模型”）\[15\]会导致“烟囱式[自动化](https://zh.wikipedia.org/wiki/自动化 "wikilink")”，从而造成开发与运营之间的鸿沟，因此需要DevOps能力来克服由此引发的问题。
+4.  [数据中心](../Page/数据中心.md "wikilink")自动化技术\[14\]和[配置管理工具的普及](https://zh.wikipedia.org/wiki/軟件配置管理 "wikilink")
+5.  有一种观点认为，目前占主导地位的“传统”美国式管理风格（“[斯隆模型](https://zh.wikipedia.org/wiki/Alfred_P._Sloan "wikilink") vs 模型”）\[15\]会导致“烟囱式[自动化](https://zh.wikipedia.org/wiki/自动化 "wikilink")”，从而造成开发与运营之间的鸿沟，因此需要DevOps能力来克服由此引发的问题。
 
 DevOps经常被描述为“开发团队与运营团队之间更具协作性、更高效的关系”。由于团队间协作关系的改善，整个组织的[效率因此得到提升](https://zh.wikipedia.org/wiki/效率 "wikilink")，伴随频繁变化而来的生产环境的风险也能得到降低。
 
 ## 对应用程序发布的影响
 
-在很多企业中，应用程序发布是一项涉及多个团队、压力很大、风险很高的活动。然而在具备DevOps能力的组织中，应用程序发布的风险很低，原因如下：
-[Agile-vs-iterative-flow.jpg](https://zh.wikipedia.org/wiki/File:Agile-vs-iterative-flow.jpg "fig:Agile-vs-iterative-flow.jpg")
+在很多企业中，应用程序发布是一项涉及多个团队、压力很大、风险很高的活动。然而在具备DevOps能力的组织中，应用程序发布的风险很低，原因如下： [Agile-vs-iterative-flow.jpg](https://zh.wikipedia.org/wiki/File:Agile-vs-iterative-flow.jpg "fig:Agile-vs-iterative-flow.jpg")
 
-  - 减少变更范围:
-    与传统的[瀑布式开发模型相比](https://zh.wikipedia.org/wiki/瀑布式开发 "wikilink")，采用敏捷或[迭代式开发意味着更频繁的发布](https://zh.wikipedia.org/wiki/迭代式开发 "wikilink")、每次发布包含的变化更少。由于部署经常进行，因此每次部署不会对生产系统造成巨大影响，应用程序会以平滑的速率逐渐生长。
-    加强发布协调:
-    靠强有力的发布协调人来弥合开发与运营之间的技能鸿沟和沟通鸿沟；采用[电子数据表](https://zh.wikipedia.org/wiki/电子数据表 "wikilink")、[电话会议](https://zh.wikipedia.org/wiki/电话会议 "wikilink")、[即时消息](https://zh.wikipedia.org/wiki/即时消息 "wikilink")、企业门户（wiki、sharepoint）等协作工具来确保所有相关人员理解变更的内容并全力合作。
+  - 减少变更范围: 与传统的[瀑布式开发模型相比](https://zh.wikipedia.org/wiki/瀑布式开发 "wikilink")，采用敏捷或[迭代式开发意味着更频繁的发布](https://zh.wikipedia.org/wiki/迭代式开发 "wikilink")、每次发布包含的变化更少。由于部署经常进行，因此每次部署不会对生产系统造成巨大影响，应用程序会以平滑的速率逐渐生长。
+    加强发布协调: 靠强有力的发布协调人来弥合开发与运营之间的技能鸿沟和沟通鸿沟；采用[电子数据表](https://zh.wikipedia.org/wiki/电子数据表 "wikilink")、[电话会议](https://zh.wikipedia.org/wiki/电话会议 "wikilink")、[即时消息](https://zh.wikipedia.org/wiki/即时消息 "wikilink")、企业门户（wiki、sharepoint）等协作工具来确保所有相关人员理解变更的内容并全力合作。
     自动化: 强大的部署自动化手段确保部署任务的可重复性、减少部署出错的可能性。
 
 ## 现状
@@ -61,18 +54,15 @@ DevOps经常被描述为“开发团队与运营团队之间更具协作性、�
 
 一般而言，当企业希望将原本笨重的开发与运营之间的工作移交过程变得流畅无碍，他们通常会遇到以下三类问题：
 
-  - 发布管理问题:
-    很多企业有[发布管理问题](https://zh.wikipedia.org/wiki/发布管理 "wikilink")。他们需要更好的发布计划方法，而不止是一份共享的电子数据表。他们需要清晰了解发布的风险、依赖、各阶段的入口条件，并确保各个角色遵守既定流程行事。
+  - 发布管理问题: 很多企业有[发布管理问题](https://zh.wikipedia.org/wiki/发布管理 "wikilink")。他们需要更好的发布计划方法，而不止是一份共享的电子数据表。他们需要清晰了解发布的风险、依赖、各阶段的入口条件，并确保各个角色遵守既定流程行事。
 
 <!-- end list -->
 
-  - 发布/部署协调问题:
-    有发布/部署协调问题的团队需要关注发布/部署过程中的执行。他们需要更好地跟踪发布状态、更快地将问题上升、严格执行流程控制和细粒度的报表。
+  - 发布/部署协调问题: 有发布/部署协调问题的团队需要关注发布/部署过程中的执行。他们需要更好地跟踪发布状态、更快地将问题上升、严格执行流程控制和细粒度的报表。
 
 <!-- end list -->
 
-  - 发布/部署自动化问题:
-    这些企业通常有一些自动化工具，但他们还需要以更灵活的方式来管理和驱动自动化工作──不必要将所有手工操作都在命令行中加以自动化。理想情况下，自动化工具应该能够在非生产环境下由非运营人员使用。
+  - 发布/部署自动化问题: 这些企业通常有一些自动化工具，但他们还需要以更灵活的方式来管理和驱动自动化工作──不必要将所有手工操作都在命令行中加以自动化。理想情况下，自动化工具应该能够在非生产环境下由非运营人员使用。
 
 要开始优化发布流程，可以从问题识别开始：看看上面提到的哪种问题在你的团队中具有最高的优先级。
 
@@ -85,19 +75,17 @@ DevOps经常被描述为“开发团队与运营团队之间更具协作性、�
 3.  发布频率上升（由于敏捷和迭代式开发的引入）
 4.  分布式团队：位于全球多个地点的、包含外包人员的、混合开发/测试/基础设施的团队
 
-发布协调人的角色（也被称为部署协调人或集成协调人）源自[发布管理或发布工程团队](https://zh.wikipedia.org/wiki/发布管理 "wikilink")。这个角色与[航空交通管制有些类似](../Page/航空交通管制.md "wikilink")──实时协调不同团队的行动，有效使用共享的资源（空域、航道、跑道、航站门），达到组织的总体目标（安全起降）。
+发布协调人的角色（也被称为部署协调人或集成协调人）源自[发布管理或发布工程团队](https://zh.wikipedia.org/wiki/发布管理 "wikilink")。这个角色与[航空交通管制](../Page/航空交通管制.md "wikilink")有些类似──实时协调不同团队的行动，有效使用共享的资源（空域、航道、跑道、航站门），达到组织的总体目标（安全起降）。
 
 传统意义上的发布管理往往只关注软件变更的计划与管理，发布协调则需要控制“将特定软件变更发布至生产环境”的整个过程。这项工作需要系统地管理所有与“将代码构建并部署到生产环境”相关的技术任务，也被称为“发布工程”。
 
-[变更管理是跟踪企业IT环境中各种变化](https://zh.wikipedia.org/wiki/变更管理 "wikilink")──不管是应用程序还是基础设施的变化──的基本原则。变更管理是[ITIL](https://zh.wikipedia.org/wiki/ITIL "wikilink")
-v3的核心之一。
+[变更管理是跟踪企业IT环境中各种变化](https://zh.wikipedia.org/wiki/变更管理 "wikilink")──不管是应用程序还是基础设施的变化──的基本原则。变更管理是[ITIL](https://zh.wikipedia.org/wiki/ITIL "wikilink") v3的核心之一。
 
 ## 参考文献
 
 ## 外部链接
 
-  - [What Is This Devops Thing, Anyway? (by Patrick
-    Debois, 2010/02/12)](http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/)
+  - [What Is This Devops Thing, Anyway? (by Patrick Debois, 2010/02/12)](http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/)
 
 <!-- end list -->
 
@@ -110,10 +98,7 @@ v3的核心之一。
   - [StreamStep SmartRelease](http://www.streamstep.com)
   - [The ControlTier Framework](http://www.controltier.org)
 
-[Category:敏捷软件开发](https://zh.wikipedia.org/wiki/Category:敏捷软件开发 "wikilink")
-[Category:软件开发](https://zh.wikipedia.org/wiki/Category:软件开发 "wikilink")
-[Category:软件工程](https://zh.wikipedia.org/wiki/Category:软件工程 "wikilink")
-[Category:資訊科技管理](https://zh.wikipedia.org/wiki/Category:資訊科技管理 "wikilink")
+[Category:敏捷软件开发](https://zh.wikipedia.org/wiki/Category:敏捷软件开发 "wikilink") [Category:软件开发](https://zh.wikipedia.org/wiki/Category:软件开发 "wikilink") [Category:软件工程](https://zh.wikipedia.org/wiki/Category:软件工程 "wikilink") [Category:資訊科技管理](https://zh.wikipedia.org/wiki/Category:資訊科技管理 "wikilink")
 
 1.
 2.

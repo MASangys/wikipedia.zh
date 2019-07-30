@@ -1,10 +1,8 @@
-『**BEST ～BOUNCE & LOVERS～**』（影音雙體驗～媚影 &
-情歌極選～），2007年3月14日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未](../Page/倖田來未.md "wikilink")的首張抒情[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
+『**BEST ～BOUNCE & LOVERS～**』（影音雙體驗～媚影 & 情歌極選～），2007年3月14日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未](../Page/倖田來未.md "wikilink")的首張抒情[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 附註
 
-  - 本[精選輯自](https://zh.wikipedia.org/wiki/精選輯 "wikilink")2006年3月8日發行的『[BEST～second
-    session～再體驗\~第二次精選\~](https://zh.wikipedia.org/wiki/BEST～second_session～再體驗~第二次精選~ "wikilink")』約隔一年多。與35th單曲「（BUT/愛的證明）」同日發行。
+  - 本[精選輯自](https://zh.wikipedia.org/wiki/精選輯 "wikilink")2006年3月8日發行的『[BEST～second session～再體驗\~第二次精選\~](https://zh.wikipedia.org/wiki/BEST～second_session～再體驗~第二次精選~ "wikilink")』約隔一年多。與35th單曲「（BUT/愛的證明）」同日發行。
 
 <!-- end list -->
 
@@ -12,15 +10,11 @@
 
 <!-- end list -->
 
-  - CD所收錄的內容為**抒情精選**，其收錄曲由先前的Fan
-    Club投票決定，收錄初期的歌曲以及專輯未收錄的歌曲。且收錄由德永英明作曲的新曲「**明日へ…（邁向明日）**」。且收錄倖田在尚未出名時期時代所寫的歌曲「**Walk**」，曾收錄在1st專輯中，這次首度收錄在精選集中。
+  - CD所收錄的內容為**抒情精選**，其收錄曲由先前的Fan Club投票決定，收錄初期的歌曲以及專輯未收錄的歌曲。且收錄由德永英明作曲的新曲「**明日へ…（邁向明日）**」。且收錄倖田在尚未出名時期時代所寫的歌曲「**Walk**」，曾收錄在1st專輯中，這次首度收錄在精選集中。
 
 <!-- end list -->
 
-  - DVD收錄的內容為**舞蹈精選**，內容為舞蹈板的音樂錄影帶，本作以舞蹈為中心將其重新再編輯，且收錄5th專輯「[Black
-    Cherry
-    黑色櫻桃](https://zh.wikipedia.org/wiki/Black_Cherry_黑色櫻桃 "wikilink")」中的「**Get
-    Up & Move\!\!**」的音樂錄影帶，以及其舞蹈教學（特典影像）。
+  - DVD收錄的內容為**舞蹈精選**，內容為舞蹈板的音樂錄影帶，本作以舞蹈為中心將其重新再編輯，且收錄5th專輯「[Black Cherry 黑色櫻桃](https://zh.wikipedia.org/wiki/Black_Cherry_黑色櫻桃 "wikilink")」中的「**Get Up & Move\!\!**」的音樂錄影帶，以及其舞蹈教學（特典影像）。
 
 <!-- end list -->
 
@@ -38,8 +32,7 @@
 2.  **大切な君へ**
       -
         16th單曲的B面曲，專輯首次收錄。
-3.  **1000の言葉〜Alternate Orchestra Version〜（千言萬語〜Alternate Orchestra
-    Version〜）**
+3.  **1000の言葉〜Alternate Orchestra Version〜（千言萬語〜Alternate Orchestra Version〜）**
       -
         7th單曲的改編曲。
 4.  **Your Song**
@@ -90,8 +83,7 @@
         同年3月28日預定發行的LIVE DVD之預告篇。
 9.  **Love goes like･･･（LIVE VIDEO）**
       -
-        LIVE DVD『KODA KUMI LIVE TOUR 2006-2007〜second session〜』中「Love
-        goes like･･･」的影像收錄。
+        LIVE DVD『KODA KUMI LIVE TOUR 2006-2007〜second session〜』中「Love goes like･･･」的影像收錄。
 10. **HOW TO DANCE VIDEO〜Get Up & Move\!\!〜**
       - 1st BLOCK：Get image\!\!
       - 2nd BLOCK：Practice move\!\!
@@ -103,5 +95,4 @@
 
 ## 相關條目
 
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink")
+[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink")

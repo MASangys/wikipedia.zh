@@ -1,12 +1,10 @@
-[Phil_Libin_at_LeWeb_in_2011.jpg](https://zh.wikipedia.org/wiki/File:Phil_Libin_at_LeWeb_in_2011.jpg "fig:Phil_Libin_at_LeWeb_in_2011.jpg")，Evernote
-CEO，在[LeWeb大会](https://zh.wikipedia.org/wiki/LeWeb "wikilink")\]\]
+[Phil_Libin_at_LeWeb_in_2011.jpg](https://zh.wikipedia.org/wiki/File:Phil_Libin_at_LeWeb_in_2011.jpg "fig:Phil_Libin_at_LeWeb_in_2011.jpg")，Evernote CEO，在[LeWeb大会](https://zh.wikipedia.org/wiki/LeWeb "wikilink")\]\]
 
 **Evernote**是一款[笔记软件](https://zh.wikipedia.org/wiki/笔记软件 "wikilink")。“笔记”可以是一段文字、完整的网页或网页摘录、照片、语音备忘录或者手写笔记。笔记也可以增加附件。笔记可以按不同的文件夹分类，增加标签，注释，编辑，搜索或者导出。Evernote支持多种操作系统，并且提供远程同步和备份功能。
 
 Evernote提供付带广告的免费服务和付费的高级服务。免费用户每月有一定的流量限制，而付费用户有额外的流量以及更多的功能。
 
-由Stepan
-Pachikov创建的Evernote网络服务于2008年6月24日上线\[1\]，2011年7月用户数量达到1100万\[2\]。
+由Stepan Pachikov创建的Evernote网络服务于2008年6月24日上线\[1\]，2011年7月用户数量达到1100万\[2\]。
 
 2010年10月，Evernote公司获得了2000万美元的风险投资，这笔投资由[红杉资本牵头](https://zh.wikipedia.org/wiki/红杉资本 "wikilink")，风险投资公司和DoCoMo资本参与\[3\]。2011年7月，公司获得来自红杉资本和摩根泰勒的5000万美元投资\[4\]。2012年5月3日，公司再次获得7000万美元融资\[5\]\[6\]。
 
@@ -26,8 +24,7 @@ Pachikov创建的Evernote网络服务于2008年6月24日上线\[1\]，2011年7�
 
 在支持的硬件上，Evernote可以自动添加笔记的地理位置标签。
 
-Evernote在线服务还允许用户选定笔记的共享与编辑功能，并可以与[Twitter整合](../Page/Twitter.md "wikilink")，绑定账号后，在发送
-tweet 时 @myen，可将 tweet 保存至 Evernote。
+Evernote在线服务还允许用户选定笔记的共享与编辑功能，并可以与[Twitter](../Page/Twitter.md "wikilink")整合，绑定账号后，在发送 tweet 时 @myen，可将 tweet 保存至 Evernote。
 
 ## Evernote（印象笔记）各帐户版本差異
 
@@ -44,9 +41,7 @@ tweet 时 @myen，可将 tweet 保存至 Evernote。
 
   - 各帐户支持功能对比\[9\]<ref>{{Cite web
 
-|url = <https://evernote.com/intl/zh-tw/pricing/> |title = 取得免費的
-Evernote 入門版或升級到進階及專業版 | Evernote |accessdate = 2015-10-07 |author =
-|date = |publisher = evernote}}</ref>：
+|url = <https://evernote.com/intl/zh-tw/pricing/> |title = 取得免費的 Evernote 入門版或升級到進階及專業版 | Evernote |accessdate = 2015-10-07 |author = |date = |publisher = evernote}}</ref>：
 
 |                                            | 入門版  | 進階版 | 專業版  |
 | ------------------------------------------ | ---- | --- | ---- |
@@ -72,10 +67,7 @@ Evernote 入門版或升級到進階及專業版 | Evernote |accessdate = 2015-1
 
 ## 国际版（Evernote International）和中國版（印象笔记）的区别
 
-印象笔记和Evernote国际版使用同一款客户端（2018年6月，印象笔记中国版发布不同于Evernote国际版App的“印象笔记
-新App”）,但帐户相互独立（可用同一个邮箱注册Evernote国际版账户和印象笔记账户），在登錄界面有切换入口。Evernote国际版服务器在美国（近期迁移到Google
-Cloud
-Platform）。印象笔记服务器在中国（已经于2018年3月13日至17日迁移至腾讯云），同步速度更快更稳定。印象笔记比Evernote国际版多一些本地化服务，比如保存[微信](../Page/微信.md "wikilink")[微博](../Page/新浪微博.md "wikilink")。另外印象笔记没有笔记公开分享链接，是一个缺憾。
+印象笔记和Evernote国际版使用同一款客户端（2018年6月，印象笔记中国版发布不同于Evernote国际版App的“印象笔记 新App”）,但帐户相互独立（可用同一个邮箱注册Evernote国际版账户和印象笔记账户），在登錄界面有切换入口。Evernote国际版服务器在美国（近期迁移到Google Cloud Platform）。印象笔记服务器在中国（已经于2018年3月13日至17日迁移至腾讯云），同步速度更快更稳定。印象笔记比Evernote国际版多一些本地化服务，比如保存[微信](../Page/微信.md "wikilink")[微博](../Page/新浪微博.md "wikilink")。另外印象笔记没有笔记公开分享链接，是一个缺憾。
 
 私有邮箱区别：
 
@@ -85,29 +77,26 @@ Platform）。印象笔记服务器在中国（已经于2018年3月13日至17日
 
   - Evernote国际版：<username>.xxxxxx@m.evernote.com
 
-最初印象笔记的公开链接，需要注册用户登錄方可查看笔记内容，而Evernote则毋需登錄即可查看。\[11\]
-2014年后，印象笔记不需要登錄，亦可查看公开链接中的笔记。\[12\]但2015年印象笔记因接[大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")「有关部门通知」而關閉公开链接功能，用戶被建議工作群聊功能或郵件分享笔记或笔记本。
+最初印象笔记的公开链接，需要注册用户登錄方可查看笔记内容，而Evernote则毋需登錄即可查看。\[11\] 2014年后，印象笔记不需要登錄，亦可查看公开链接中的笔记。\[12\]但2015年印象笔记因接[大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")「有关部门通知」而關閉公开链接功能，用戶被建議工作群聊功能或郵件分享笔记或笔记本。
 
 ## 平台和客户端
 
-Evernote支持多个平台，还有便携式版本的Evernote可用于隨身碟。目前还没有正式支持[Linux或](../Page/Linux.md "wikilink")[BSD的本地客户端](../Page/BSD.md "wikilink")。
+Evernote支持多个平台，还有便携式版本的Evernote可用于隨身碟。目前还没有正式支持[Linux](../Page/Linux.md "wikilink")或[BSD](../Page/BSD.md "wikilink")的本地客户端。
 
 在不同平台上支持的功能有很大的差异：例如，在Windows上，可以编辑上富文本和草图；在Mac上，可以编辑富文本，但只能查看草图；而在iPad上只有简单的文本编辑。
 
-在Windows和Mac OS
-X上安装Evernote客户端时，默认在[IE浏览器和](https://zh.wikipedia.org/wiki/IE浏览器 "wikilink")[Safari上安装擴充功能](../Page/Safari.md "wikilink")。Evernote的网页剪辑擴充功能也支持[火狐](https://zh.wikipedia.org/wiki/火狐 "wikilink")，[Opera和谷歌](https://zh.wikipedia.org/wiki/Opera "wikilink")[Chrome浏览器](https://zh.wikipedia.org/wiki/Chrome "wikilink")，但需要单独下载并安装。
+在Windows和Mac OS X上安装Evernote客户端时，默认在[IE浏览器和](https://zh.wikipedia.org/wiki/IE浏览器 "wikilink")[Safari](../Page/Safari.md "wikilink")上安装擴充功能。Evernote的网页剪辑擴充功能也支持[火狐](https://zh.wikipedia.org/wiki/火狐 "wikilink")，[Opera和谷歌](https://zh.wikipedia.org/wiki/Opera "wikilink")[Chrome浏览器](https://zh.wikipedia.org/wiki/Chrome "wikilink")，但需要单独下载并安装。
 
 Evernote的一些第三方客户端：
 
-  - NixNote：一个开源，跨平台的Java编写的Evernote虚拟机，在任何可以运行[Java虚拟机的平台都可使用](../Page/Java虚拟机.md "wikilink")\[13\]。
+  - NixNote：一个开源，跨平台的Java编写的Evernote虚拟机，在任何可以运行[Java虚拟机](../Page/Java虚拟机.md "wikilink")的平台都可使用\[13\]。
   - People's Note：支持离线存储\[14\]。
   - Ploze \[15\]
   - EverMemo \[16\]
 
 ## 类似的产品和服务
 
-Evernote的竞争对手包括：\[17\]、、、[Microsoft
-OneNote](../Page/Microsoft_OneNote.md "wikilink")、、、、[Zotero](../Page/Zotero.md "wikilink")、[Gnote](../Page/Gnote.md "wikilink")、[BasKet](https://zh.wikipedia.org/wiki/BasKet "wikilink")。
+Evernote的竞争对手包括：\[17\]、、、[Microsoft OneNote](../Page/Microsoft_OneNote.md "wikilink")、、、、[Zotero](../Page/Zotero.md "wikilink")、[Gnote](../Page/Gnote.md "wikilink")、[BasKet](https://zh.wikipedia.org/wiki/BasKet "wikilink")。
 
 在中文笔记类软件中，主要的竞争对手有[方片收集](http://funp.in/)、[为知笔记](https://zh.wikipedia.org/wiki/为知笔记 "wikilink")、[麦库记事和](https://zh.wikipedia.org/wiki/麦库笔记 "wikilink")[有道云笔记](../Page/有道云笔记.md "wikilink")。
 
@@ -121,10 +110,8 @@ OneNote](../Page/Microsoft_OneNote.md "wikilink")、、、、[Zotero](../Page/Zo
 
 ### 来源
 
-  - [Macworld
-    UK](http://www.macworld.co.uk/macsoftware/reviews/index.cfm?reviewid=3604)
-  - [Pocket PC
-    Central](http://www.pocketpccentral.net/iphone/resources/reviews/apps/evernote_for_iphone.htm)
+  - [Macworld UK](http://www.macworld.co.uk/macsoftware/reviews/index.cfm?reviewid=3604)
+  - [Pocket PC Central](http://www.pocketpccentral.net/iphone/resources/reviews/apps/evernote_for_iphone.htm)
   - [WinPlanet](http://www.winplanet.com/article/2700-3950.htm)
   - [PC Magazine](http://www.pcmag.com/article2/0,2817,1922045,00.asp)
   - [EaseFlow](https://web.archive.org/web/20120425152259/http://www.easeflow.net/Solutions/Informationmanagement/Document/index.html)
@@ -133,56 +120,25 @@ OneNote](../Page/Microsoft_OneNote.md "wikilink")、、、、[Zotero](../Page/Zo
 
   - [Evernote 官方网站](https://evernote.com)
 
-  - [Evernote Suscription
-    Free](https://www.evernote.com/referral/Registration.action?uid=285702&sig=29d08bb91ae9ebcae2043dde036f2ba1)
+  - [Evernote Suscription Free](https://www.evernote.com/referral/Registration.action?uid=285702&sig=29d08bb91ae9ebcae2043dde036f2ba1)
 
-  - [Evernote
-    谷歌Chrome擴充功能](http://chrome-plugin.com/evernote-web-clipper.crx)
+  - [Evernote 谷歌Chrome擴充功能](http://chrome-plugin.com/evernote-web-clipper.crx)
 
   -
   - [善用佳软中的Evernote中文教程](http://xbeta.info/tag/Evernote)
 
 {{-}}
 
-[Category:云存储](https://zh.wikipedia.org/wiki/Category:云存储 "wikilink")
-[Category:笔记软件](https://zh.wikipedia.org/wiki/Category:笔记软件 "wikilink")
-[Category:美國品牌](https://zh.wikipedia.org/wiki/Category:美國品牌 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:黑莓软件](https://zh.wikipedia.org/wiki/Category:黑莓软件 "wikilink")
-[Category:紅木城公司](https://zh.wikipedia.org/wiki/Category:紅木城公司 "wikilink")
-[Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
-[Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink")
-[Category:行動軟體](https://zh.wikipedia.org/wiki/Category:行動軟體 "wikilink")
-[Category:美國私人公司](https://zh.wikipedia.org/wiki/Category:美國私人公司 "wikilink")
-[Category:社交書籤](https://zh.wikipedia.org/wiki/Category:社交書籤 "wikilink")
-[Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink")
-[Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
+[Category:云存储](https://zh.wikipedia.org/wiki/Category:云存储 "wikilink") [Category:笔记软件](https://zh.wikipedia.org/wiki/Category:笔记软件 "wikilink") [Category:美國品牌](https://zh.wikipedia.org/wiki/Category:美國品牌 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:黑莓软件](https://zh.wikipedia.org/wiki/Category:黑莓软件 "wikilink") [Category:紅木城公司](https://zh.wikipedia.org/wiki/Category:紅木城公司 "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink") [Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink") [Category:行動軟體](https://zh.wikipedia.org/wiki/Category:行動軟體 "wikilink") [Category:美國私人公司](https://zh.wikipedia.org/wiki/Category:美國私人公司 "wikilink") [Category:社交書籤](https://zh.wikipedia.org/wiki/Category:社交書籤 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
 
-1.  Libin, Phil. [Evernote Public
-    Launch\!](http://blog.evernote.com/2008/06/24/evernote-public-launch/)
-     Evernote博客 2008年6月24日
-2.  Little, Gary. [Why Evernote Is Winning with the Soft
-    Stuff](http://blogs.forbes.com/nicoleperlroth/2011/07/13/why-evernote-is-winning-with-the-soft-stuff/)
-    *Forbes*, July 13, 2011.
-3.  Reisinger, Don. [Evernote Secures $20 Million in Investment
-    Round](http://news.cnet.com/8301-13506_3-20020000-17.html). *CNET
-    News*, October 19, 2010.
-4.  Phil Libin的Evernote博客：[Evernote Gets $50 Million in
-    Funding](http://blog.evernote.com/2011/07/13/evernote-gets-50-million-in-funding-with-faq/)
-
-5.  Phil Libin的Evernote博客：[Evernote Raises $70 Million
-    Financing](http://blog.evernote.com/2012/05/03/evernote-raises-70-million-financing/)
-
-6.  投资方细节：[Evernote Raises 70 Million Financing Round Led By Meritech
-    Capital and CBC
-    Capital](http://www.marketwire.com/press-release/evernote-raises-70-million-financing-round-led-by-meritech-capital-and-cbc-capital-1652242.htm)
-7.  Evernote正式进入中国市场
-    更名“印象笔记”：[1](http://tech.huanqiu.com/net/2012-05/2711906.html)
-8.  Westfall, Jonathan. [Scan Directly from your Office to
-    Evernote](http://jonwestfall.com/2010/09/scan-directly-from-your-office-to-evernote/)
-    *JonWestfall.com*, September 28, 2010.
+1.  Libin, Phil. [Evernote Public Launch\!](http://blog.evernote.com/2008/06/24/evernote-public-launch/)  Evernote博客 2008年6月24日
+2.  Little, Gary. [Why Evernote Is Winning with the Soft Stuff](http://blogs.forbes.com/nicoleperlroth/2011/07/13/why-evernote-is-winning-with-the-soft-stuff/) *Forbes*, July 13, 2011.
+3.  Reisinger, Don. [Evernote Secures $20 Million in Investment Round](http://news.cnet.com/8301-13506_3-20020000-17.html). *CNET News*, October 19, 2010.
+4.  Phil Libin的Evernote博客：[Evernote Gets $50 Million in Funding](http://blog.evernote.com/2011/07/13/evernote-gets-50-million-in-funding-with-faq/)
+5.  Phil Libin的Evernote博客：[Evernote Raises $70 Million Financing](http://blog.evernote.com/2012/05/03/evernote-raises-70-million-financing/)
+6.  投资方细节：[Evernote Raises 70 Million Financing Round Led By Meritech Capital and CBC Capital](http://www.marketwire.com/press-release/evernote-raises-70-million-financing-round-led-by-meritech-capital-and-cbc-capital-1652242.htm)
+7.  Evernote正式进入中国市场 更名“印象笔记”：[1](http://tech.huanqiu.com/net/2012-05/2711906.html)
+8.  Westfall, Jonathan. [Scan Directly from your Office to Evernote](http://jonwestfall.com/2010/09/scan-directly-from-your-office-to-evernote/) *JonWestfall.com*, September 28, 2010.
 9.
 10.
 11.

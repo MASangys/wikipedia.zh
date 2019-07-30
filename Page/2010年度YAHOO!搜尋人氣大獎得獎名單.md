@@ -1,4 +1,4 @@
-**YAHOO\!搜尋人氣大獎2010**，於2010年12月17日假[香港展覽中心舉行](../Page/香港展覽中心.md "wikilink")，主題為「」，[森美及](https://zh.wikipedia.org/wiki/森美 "wikilink")[胡蓓蔚擔任司儀](../Page/胡蓓蔚.md "wikilink")，當晚共頒發60個項目，當中18項為音樂獎項，11項為電視及電影獎項，2項至尊獎項，更設[亞洲區獎項](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，綜合[港](../Page/香港.md "wikilink")、[台](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[韓三地全年的搜尋次數](https://zh.wikipedia.org/wiki/韓國 "wikilink")，及三地網民在11月至12月初以公投支持其[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")，共頒發12項[亞洲區獎項](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。另外本屆後取消社會焦點獎項，完全改為[娛樂圈的頒獎禮](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")，但仍然保留政府部門獎項。
+**YAHOO\!搜尋人氣大獎2010**，於2010年12月17日假[香港展覽中心](../Page/香港展覽中心.md "wikilink")舉行，主題為「」，[森美及](https://zh.wikipedia.org/wiki/森美 "wikilink")[胡蓓蔚](../Page/胡蓓蔚.md "wikilink")擔任司儀，當晚共頒發60個項目，當中18項為音樂獎項，11項為電視及電影獎項，2項至尊獎項，更設[亞洲區獎項](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，綜合[港](../Page/香港.md "wikilink")、[台](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[韓三地全年的搜尋次數](https://zh.wikipedia.org/wiki/韓國 "wikilink")，及三地網民在11月至12月初以公投支持其[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")，共頒發12項[亞洲區獎項](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。另外本屆後取消社會焦點獎項，完全改為[娛樂圈的頒獎禮](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")，但仍然保留政府部門獎項。
 
 本屆頒獎禮由[蘇寧鐳射冠名贊助](https://zh.wikipedia.org/wiki/蘇寧鐳射 "wikilink")，以下為當晚的得獎名單：
 
@@ -9,11 +9,9 @@
   - 人氣歌曲
       - 《無人之境》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")
       - 《不可預見，只可遇見》 ——[泳兒](../Page/泳兒.md "wikilink")
-      - 《絕配》
-        ——[吳雨霏](../Page/吳雨霏.md "wikilink")、[Hardpack](../Page/Hardpack.md "wikilink")
+      - 《絕配》 ——[吳雨霏](../Page/吳雨霏.md "wikilink")、[Hardpack](../Page/Hardpack.md "wikilink")
       - 《字花》 ——[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
-      - 《Good to be Bad》
-        ——[G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")
+      - 《Good to be Bad》 ——[G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")
       - 《別怕失去》 ——[陳柏宇](../Page/陳柏宇.md "wikilink")
       - 《破相》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
       - 《我不要被你記住》 ——[周柏豪](../Page/周柏豪.md "wikilink")
@@ -40,9 +38,7 @@
   - 搜尋人氣電視劇集主題曲
       - 《義海豪情》 ——[古巨基](../Page/古巨基.md "wikilink")
   - 搜尋人氣電影主題曲
-      - 《一直都在》
-        ——[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
-        （電影《[翡翠明珠](../Page/翡翠明珠.md "wikilink")》主題曲）
+      - 《一直都在》 ——[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink") （電影《[翡翠明珠](../Page/翡翠明珠.md "wikilink")》主題曲）
   - 搜尋人氣廣告歌
       - 《如果...陽光》 ——[馮曦妤](../Page/馮曦妤.md "wikilink")
   - 樂壇新勢力

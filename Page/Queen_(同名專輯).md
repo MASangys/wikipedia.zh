@@ -150,27 +150,20 @@ Queen</p></td>
   - [My Fairy King](http://www.youtube.com/watch?v=U0JjhPZFcek)
   - [Liar](http://www.youtube.com/watch?v=18ZretoGbXc)
   - [The Night Comes Down](http://www.youtube.com/watch?v=XoDpGBlCgKA)
-  - [Modern Times Rock 'n'
-    Roll](http://www.youtube.com/watch?v=PgPSC6VyteU)
+  - [Modern Times Rock 'n' Roll](http://www.youtube.com/watch?v=PgPSC6VyteU)
   - [Son and Daughter](http://www.youtube.com/watch?v=QWfkLZCD5m8)
   - [Jesus](http://www.youtube.com/watch?v=1VSf9abAkW4)
-  - [Seven Seas of Rhye
-    (音樂版)](http://www.youtube.com/watch?v=aSqqVcXRSEU)
+  - [Seven Seas of Rhye (音樂版)](http://www.youtube.com/watch?v=aSqqVcXRSEU)
 
 ## 專輯製作人員
 
   - Freddie Mercury：主唱、和音、鋼琴
   - Brian May：電吉他、木吉他、和音：《Keep Yourself Alive》、鋼琴：《Doing All Right》
   - John Deacon：貝斯
-  - Roger Taylor：爵士鼓、和音：《Keep Yourself Alive》、主唱：《Modern Times Rock 'n'
-    Roll》、打擊樂器
+  - Roger Taylor：爵士鼓、和音：《Keep Yourself Alive》、主唱：《Modern Times Rock 'n' Roll》、打擊樂器
   - John Anthony - 製作人、和音：《Modern Times Rock 'n' Roll》
   - Roy Thomas Baker - 製作人、錄音師
   - Mike Stone - 錄音師
   - Ted Sharpe - 錄音師
 
-[Category:英國音樂專輯](https://zh.wikipedia.org/wiki/Category:英國音樂專輯 "wikilink")
-[Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink")
-[Category:1973年音樂專輯](https://zh.wikipedia.org/wiki/Category:1973年音樂專輯 "wikilink")
-[Category:皇后樂隊音樂專輯](https://zh.wikipedia.org/wiki/Category:皇后樂隊音樂專輯 "wikilink")
-[Category:Parlophone音乐专辑](https://zh.wikipedia.org/wiki/Category:Parlophone音乐专辑 "wikilink")
+[Category:英國音樂專輯](https://zh.wikipedia.org/wiki/Category:英國音樂專輯 "wikilink") [Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink") [Category:1973年音樂專輯](https://zh.wikipedia.org/wiki/Category:1973年音樂專輯 "wikilink") [Category:皇后樂隊音樂專輯](https://zh.wikipedia.org/wiki/Category:皇后樂隊音樂專輯 "wikilink") [Category:Parlophone音乐专辑](https://zh.wikipedia.org/wiki/Category:Parlophone音乐专辑 "wikilink")

@@ -253,17 +253,10 @@
 ## 資料來源
 
   - [BUNGO -日本文學シネマ-](http://www.bungo.jp/)
-  - [日本語維基百科BUNGO
-    -日本文學シネマ-](http://ja.wikipedia.org/wiki/BUNGO_-%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6%E3%82%B7%E3%83%8D%E3%83%9E-#.E3.82.AD.E3.83.A3.E3.82.B9.E3.83.88)
+  - [日本語維基百科BUNGO -日本文學シネマ-](http://ja.wikipedia.org/wiki/BUNGO_-%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6%E3%82%B7%E3%83%8D%E3%83%9E-#.E3.82.AD.E3.83.A3.E3.82.B9.E3.83.88)
 
 ## 參考資料
 
   - [Bungo：太宰治等文豪們的小說日劇化作品，由向井理、佐藤隆太、加藤ローサ等人主演](http://amayzi.pixnet.net/blog/post/30036601)
 
-[Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink")
-[Category:2010年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2010年電視特別劇集 "wikilink")
-[Category:TBS特別劇集](https://zh.wikipedia.org/wiki/Category:TBS特別劇集 "wikilink")
-[Category:TBS深夜劇集](https://zh.wikipedia.org/wiki/Category:TBS深夜劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink")
-[Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
+[Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink") [Category:2010年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2010年電視特別劇集 "wikilink") [Category:TBS特別劇集](https://zh.wikipedia.org/wiki/Category:TBS特別劇集 "wikilink") [Category:TBS深夜劇集](https://zh.wikipedia.org/wiki/Category:TBS深夜劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")

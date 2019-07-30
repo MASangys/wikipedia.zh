@@ -1,24 +1,19 @@
-**琴 まりえ**（こと まりえ、Koto Marie 1978年11月14日 -
-）、元[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[星組的娘役](../Page/星組.md "wikilink"),現在是廣島東洋鯉魚隊・[今井啓介](https://zh.wikipedia.org/wiki/今井啓介 "wikilink")(投手)的夫人。本名是**今井
-裕子**（いまい ゆうこ、Imai Yuuko 、舊姓:横山）。
-兵庫縣神戸市神戸野田高等學校出身。身長160cm。血型AB型。愛稱是**ことこと**、Koto
-Koto、**ゆうこ**、Yuuko。
+**琴 まりえ**（こと まりえ、Koto Marie 1978年11月14日 - ）、元[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[星組](../Page/星組.md "wikilink")的娘役,現在是廣島東洋鯉魚隊・[今井啓介](https://zh.wikipedia.org/wiki/今井啓介 "wikilink")(投手)的夫人。本名是**今井 裕子**（いまい ゆうこ、Imai Yuuko 、舊姓:横山）。 兵庫縣神戸市神戸野田高等學校出身。身長160cm。血型AB型。愛稱是**ことこと**、Koto Koto、**ゆうこ**、Yuuko。
 
 ## 經歷
 
-  - 1995年、[寶塚音樂學校入學](../Page/寶塚音樂學校.md "wikilink")、音樂學校83期生。
-  - 1997年、[寶塚歌劇團入團](../Page/寶塚歌劇團.md "wikilink")。初舞台是『仮面のロマネスク／ゴールデン・デイズ』。之後[星組配屬](../Page/星組.md "wikilink")。藝名的「琴」是由雙親選取、而「まりえ」則是由同期取名\[1\]。
+  - 1995年、[寶塚音樂學校](../Page/寶塚音樂學校.md "wikilink")入學、音樂學校83期生。
+  - 1997年、[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")入團。初舞台是『仮面のロマネスク／ゴールデン・デイズ』。之後[星組](../Page/星組.md "wikilink")配屬。藝名的「琴」是由雙親選取、而「まりえ」則是由同期取名\[1\]。
 
 <!-- end list -->
 
   -
-    同期生有彩乃かなみ（元[月組主演娘役](https://zh.wikipedia.org/wiki/月組 "wikilink")）、紫城るい（元[宙組主演娘役](../Page/宙組.md "wikilink")）、[花組的](../Page/花組.md "wikilink")[愛音羽麗](https://zh.wikipedia.org/wiki/愛音羽麗 "wikilink")、[宙組的](../Page/宙組.md "wikilink")[悠未ひろ等](https://zh.wikipedia.org/wiki/悠未ひろ "wikilink")。
+    同期生有彩乃かなみ（元[月組主演娘役](https://zh.wikipedia.org/wiki/月組 "wikilink")）、紫城るい（元[宙組](../Page/宙組.md "wikilink")主演娘役）、[花組](../Page/花組.md "wikilink")的[愛音羽麗](https://zh.wikipedia.org/wiki/愛音羽麗 "wikilink")、[宙組](../Page/宙組.md "wikilink")的[悠未ひろ等](https://zh.wikipedia.org/wiki/悠未ひろ "wikilink")。
 
 <!-- end list -->
 
   - 曾被選拔參加海外公演，包括2000年的德國柏林公演、2002年的北京公演和2005年的韓國公演。
-  - 2001年3月、『[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")2001
-    -奧斯卡與安德烈編-』的新人公演裡被提拔初演女主角。
+  - 2001年3月、『[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")2001 -奧斯卡與安德烈編-』的新人公演裡被提拔初演女主角。
   - 2004年7月、寶塚Bowhall公演『花のいそぎ』裡初娘役主演。
   - 曾為兵庫縣小野市的宣傳手冊的封面裝飾。
   - 2010年3月21日、於『哈布斯堡的寶劍／BOLERO』千秋楽後寶塚歌劇團退團。
@@ -26,9 +21,7 @@ Koto、**ゆうこ**、Yuuko。
 
 ## 新人公演
 
-2001年3月、『[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")2001
--奧斯卡與安德烈篇-』カトリーヌ、新人公演：[瑪麗·安托瓦內特](https://zh.wikipedia.org/wiki/瑪麗·安托瓦內特 "wikilink")（本役：星奈優里）
-2002年4月、『布哈拉的春天』/LUCKY STAR』ズザナ、新人公演：カテリーナ（本役：渚あき）
+2001年3月、『[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")2001 -奧斯卡與安德烈篇-』カトリーヌ、新人公演：[瑪麗·安托瓦內特](https://zh.wikipedia.org/wiki/瑪麗·安托瓦內特 "wikilink")（本役：星奈優里） 2002年4月、『布哈拉的春天』/LUCKY STAR』ズザナ、新人公演：カテリーナ（本役：渚あき）
 
 ## 主要舞台經歷
 
@@ -50,8 +43,7 @@ Koto、**ゆうこ**、Yuuko。
 2001年
 
   - 1月、『花の業平 ／夢は世界を駆け翔けめぐる』伊勢斎宮恬子、新人公演：とね（本役：陽色萌）
-  - 3月、『[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")2001
-    -奧斯卡與安德烈篇-』カトリーヌ、新人公演：[瑪麗·安托瓦內特](https://zh.wikipedia.org/wiki/瑪麗·安托瓦內特 "wikilink")（本役：星奈優里）
+  - 3月、『[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")2001 -奧斯卡與安德烈篇-』カトリーヌ、新人公演：[瑪麗·安托瓦內特](https://zh.wikipedia.org/wiki/瑪麗·安托瓦內特 "wikilink")（本役：星奈優里）
   - 6月、『風と共に去りぬ 』（全国公演）メイベル
   - 10月、『星組エンカレッジコンサート』（Bow Hall）
   - 11月、『花の業平／サザンクロス・レビューⅡ』伊勢斎宮恬子、新人公演：とね（本役：陽色萌）
@@ -66,22 +58,18 @@ Koto、**ゆうこ**、Yuuko。
 2003年
 
   - 7月、『獻給王室之歌』(「王家に捧ぐ歌」)囚人フィブラーイル、新人公演：ファトマ（本役：万里柚美）
-  - 12月、『永遠的祈禱 - 革命消失的路易17世』(「永遠の祈り－革命に消えたルイ17世－」)永遠の祈り
-    -革命に消えたルイ17世-』)（梅田藝術劇場/Theater Drama
-    City・東京特別）アルビール
+  - 12月、『永遠的祈禱 - 革命消失的路易17世』(「永遠の祈り－革命に消えたルイ17世－」)永遠の祈り -革命に消えたルイ17世-』)（梅田藝術劇場/Theater Drama City・東京特別）アルビール
 
 2004年
 
-  - 2月、『1914/愛 / 寶塚絢爛 － 灼熱的 Caribbean
-    Night』(「1914/愛／タカラヅカ絢爛－灼熱のカリビアンナイト－」)ロロット
+  - 2月、『1914/愛 / 寶塚絢爛 － 灼熱的 Caribbean Night』(「1914/愛／タカラヅカ絢爛－灼熱のカリビアンナイト－」)ロロット
   - 7月、『花のいそぎ』（バウ・東京特別）三の君 **＊Bow Hall初女主角**
-  - 10月、『花舞長安－玄宗與楊貴妃 ／
-    浪漫寶塚'04－甜蜜生活』(「花舞う長安－玄宗と楊貴妃－／ロマンチカ宝塚'04－ドルチェ・ヴィータ！－」)紅蘭
+  - 10月、『花舞長安－玄宗與楊貴妃 ／ 浪漫寶塚'04－甜蜜生活』(「花舞う長安－玄宗と楊貴妃－／ロマンチカ宝塚'04－ドルチェ・ヴィータ！－」)紅蘭
 
 2005年
 
   - 2月、『獻給王室之歌』(「王家に捧ぐ歌」)（中日）囚人ヤナーイル
-  - 3月、[真飛聖晚餐秀](../Page/真飛聖.md "wikilink")『Sky Blue』
+  - 3月、[真飛聖](../Page/真飛聖.md "wikilink")晚餐秀『Sky Blue』
   - 5月、『長崎時雨道／濕婆的靈魂\!\!－穿著夢想鞋的舞神－』(「長崎しぐれ坂／ソウル・オブ・シバ\!\!－夢のシューズを履いた舞神－」)桃羽
   - 9月、『[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")／ソウル・オブ・シバ\!\!』（全国公演）羅莎莉
   - 11月、『[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")／ソウル・オブ・シバ\!\!』（韓國公演）羅莎莉
@@ -102,8 +90,7 @@ Koto、**ゆうこ**、Yuuko。
 
 2008年
 
-  - 3月、『[紅與黒](https://zh.wikipedia.org/wiki/紅與黒 "wikilink")』（Theater
-    Drama city・東京特別・名古屋特別）デルヴィール夫人
+  - 3月、『[紅與黒](https://zh.wikipedia.org/wiki/紅與黒 "wikilink")』（Theater Drama city・東京特別・名古屋特別）デルヴィール夫人
   - 6月、『THE SCARLET PINPERNEL』シュザンヌ
   - 11月、『外傳凡爾賽玫瑰 -貝魯納爾篇-』ランベスク夫人
 
@@ -121,12 +108,9 @@ Koto、**ゆうこ**、Yuuko。
 
 ## 相關連結
 
-  - [日刊スポーツ
-    インタビュー](https://web.archive.org/web/20100901075307/http://osaka.nikkansports.com/entertainment/takarazuka/p-on-tp5-20061208-127556.html)
-  - [デイリースポーツ特集
-    前編](https://web.archive.org/web/20101007174617/http://daily.co.jp/gossip/takara_interview/2008/07/01/0001141552.shtml)
-  - [デイリースポーツ
-    特集後編](https://web.archive.org/web/20101007174617/http://daily.co.jp/gossip/takara_interview/2008/07/01/0001141552.shtml)
+  - [日刊スポーツ インタビュー](https://web.archive.org/web/20100901075307/http://osaka.nikkansports.com/entertainment/takarazuka/p-on-tp5-20061208-127556.html)
+  - [デイリースポーツ特集 前編](https://web.archive.org/web/20101007174617/http://daily.co.jp/gossip/takara_interview/2008/07/01/0001141552.shtml)
+  - [デイリースポーツ 特集後編](https://web.archive.org/web/20101007174617/http://daily.co.jp/gossip/takara_interview/2008/07/01/0001141552.shtml)
 
 ## 外部連結
 
@@ -134,7 +118,5 @@ Koto、**ゆうこ**、Yuuko。
 
 [Category:寶塚歌劇團](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團 "wikilink")
 
-1.  [産経ENAK The name of
-    タカラジェンヌ](http://www.sankei.co.jp/enak/sumirestylevintage/takara0205/0513koto.html)
-2.  [広島・今井と元宝塚の琴まりえさんが結婚](https://web.archive.org/web/20100606194115/http://hochi.yomiuri.co.jp/baseball/npb/news/20100602-OHT1T00145.htm)
-    スポーツ報知、2010年6月2日朝刊
+1.  [産経ENAK The name of タカラジェンヌ](http://www.sankei.co.jp/enak/sumirestylevintage/takara0205/0513koto.html)
+2.  [広島・今井と元宝塚の琴まりえさんが結婚](https://web.archive.org/web/20100606194115/http://hochi.yomiuri.co.jp/baseball/npb/news/20100602-OHT1T00145.htm) スポーツ報知、2010年6月2日朝刊

@@ -1,21 +1,14 @@
-《**HOW CRAZY YOUR
-LOVE**》是[日本唱作女歌手](../Page/日本.md "wikilink")[YUI](../Page/YUI.md "wikilink")，於2011年11月2日所推出的第五張大碟。
+《**HOW CRAZY YOUR LOVE**》是[日本](../Page/日本.md "wikilink")唱作女歌手[YUI](../Page/YUI.md "wikilink")，於2011年11月2日所推出的第五張大碟。
 
 ## 解說
 
-與前作《[HOLIDAYS IN THE
-SUN](../Page/HOLIDAYS_IN_THE_SUN.md "wikilink")》相隔約1年4個月的新作。以CD
-ONLY的通常盤與附送DVD的初回限定盤兩版本發售。
+與前作《[HOLIDAYS IN THE SUN](../Page/HOLIDAYS_IN_THE_SUN.md "wikilink")》相隔約1年4個月的新作。以CD ONLY的通常盤與附送DVD的初回限定盤兩版本發售。
 
-初回限定盤附送的DVD收錄自身於2011年6月26日[香港](../Page/香港.md "wikilink")[亞洲國際博覽館的首次海外公演](../Page/亞洲國際博覽館.md "wikilink")「YUI
-LIVE 2011 Hong Kong HOTEL HOLIDAYS IN THE SUN」全編演唱會影像及幕後花絮。
+初回限定盤附送的DVD收錄自身於2011年6月26日[香港](../Page/香港.md "wikilink")[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")的首次海外公演「YUI LIVE 2011 Hong Kong HOTEL HOLIDAYS IN THE SUN」全編演唱會影像及幕後花絮。
 
-CD收錄上一張專輯以後發行除了雙A面單曲《[It's My Life/Your
-Heaven](https://zh.wikipedia.org/wiki/It's_My_Life/Your_Heaven "wikilink")》中的《Your
-Heaven》的所有單曲A面曲。
+CD收錄上一張專輯以後發行除了雙A面單曲《[It's My Life/Your Heaven](https://zh.wikipedia.org/wiki/It's_My_Life/Your_Heaven "wikilink")》中的《Your Heaven》的所有單曲A面曲。
 
-發行首週登上了[Oricon公信榜冠軍](../Page/Oricon公信榜.md "wikilink")，成為自《[CAN'T BUY MY
-LOVE](../Page/CAN'T_BUY_MY_LOVE.md "wikilink")》以來連續第5張冠軍專輯。
+發行首週登上了[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")冠軍，成為自《[CAN'T BUY MY LOVE](../Page/CAN'T_BUY_MY_LOVE.md "wikilink")》以來連續第5張冠軍專輯。
 
 ## 收錄歌曲
 
@@ -38,6 +31,4 @@ LOVE](../Page/CAN'T_BUY_MY_LOVE.md "wikilink")》以來連續第5張冠軍專輯
 | Oricon年間專輯榜 <small>(2011年)</small>       | 22   | 192,106 |      |
 | Oricon累積銷量                               | —    | 208,566 |      |
 
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:YUI音樂專輯](https://zh.wikipedia.org/wiki/Category:YUI音樂專輯 "wikilink")
-[Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:YUI音樂專輯](https://zh.wikipedia.org/wiki/Category:YUI音樂專輯 "wikilink") [Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")

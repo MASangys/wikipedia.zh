@@ -1,7 +1,4 @@
-《**Never Too
-Late**》是[鄭秀文的第三張粵語專輯](../Page/鄭秀文.md "wikilink")。由於這專輯與前一張《Holiday》相隔超過一年才推出\[1\]，故此專輯亦有以此含義命名為《Never
-Too
-Late》。当时华星唱片正在重组，[陈欣健成为老总](../Page/陳欣健.md "wikilink")，开始培养新人，其中包括年轻的郑秀文\[2\]。
+《**Never Too Late**》是[鄭秀文](../Page/鄭秀文.md "wikilink")的第三張粵語專輯。由於這專輯與前一張《Holiday》相隔超過一年才推出\[1\]，故此專輯亦有以此含義命名為《Never Too Late》。当时华星唱片正在重组，[陈欣健成为老总](../Page/陳欣健.md "wikilink")，开始培养新人，其中包括年轻的郑秀文\[2\]。
 
 ## 專輯介紹
 
@@ -40,10 +37,7 @@ Late》。当时华星唱片正在重组，[陈欣健成为老总](../Page/陳�
 
 ## 參考資料
 
-[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink")
-[Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink") [Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.
 2.

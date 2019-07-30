@@ -1,9 +1,8 @@
-《**Real
-Clothes**》（），為日本漫畫家的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫作品 "wikilink")。2008年以「時尚女王」（）為題，改編為電視劇。
+《**Real Clothes**》（），為日本漫畫家的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫作品 "wikilink")。2008年以「時尚女王」（）為題，改編為電視劇。
 
 ## 概要
 
-《》（[集英社](../Page/集英社.md "wikilink")）於2006年起連載。描寫[百貨公司女裝部的女性銷售員](../Page/百貨公司.md "wikilink")，為了為顧客提供耀眼的服裝與談戀愛努力認真工作的故事。單行本目前為止已發行9卷（集英社。2010年2月19日現在）
+《》（[集英社](../Page/集英社.md "wikilink")）於2006年起連載。描寫[百貨公司](../Page/百貨公司.md "wikilink")女裝部的女性銷售員，為了為顧客提供耀眼的服裝與談戀愛努力認真工作的故事。單行本目前為止已發行9卷（集英社。2010年2月19日現在）
 
 ## 故事情節
 
@@ -13,19 +12,13 @@ Clothes**》（），為日本漫畫家的[漫畫作品](https://zh.wikipedia.or
 
 ## 電視劇
 
-[關西電視台企畫](../Page/關西電視台.md "wikilink")·製作，由[富士電視台](../Page/富士電視台.md "wikilink")[聯播網](https://zh.wikipedia.org/wiki/富士網 "wikilink")（[宮崎電視台除外](../Page/宮崎電視台.md "wikilink")）於2008年9月16日（星期二）22:00
--
-23:34（[JST](../Page/日本標準時間.md "wikilink")）播出，由[香里奈主演](../Page/香里奈.md "wikilink")。收視率12.8%
+[關西電視台](../Page/關西電視台.md "wikilink")企畫·製作，由[富士電視台](../Page/富士電視台.md "wikilink")[聯播網](https://zh.wikipedia.org/wiki/富士網 "wikilink")（[宮崎電視台](../Page/宮崎電視台.md "wikilink")除外）於2008年9月16日（星期二）22:00 - 23:34（[JST](../Page/日本標準時間.md "wikilink")）播出，由[香里奈](../Page/香里奈.md "wikilink")主演。收視率12.8%
 
-2009年10月13日起至12月22日止，每周星期二的22:00 -
-22:54（[JST](../Page/日本標準時間.md "wikilink")），改編為[連續劇播出](https://zh.wikipedia.org/wiki/關西電視台、富士電視台週二晚間十點連續劇 "wikilink")。連續劇版非特別版的續集，重新從最剛開始描述。第一集於22:10
--
-23:14播出。連續劇版的[廣告標語為](../Page/廣告標語.md "wikilink")「人的內在會形之於外，從外表就可以判斷一個人」。
+2009年10月13日起至12月22日止，每周星期二的22:00 - 22:54（[JST](../Page/日本標準時間.md "wikilink")），改編為[連續劇播出](https://zh.wikipedia.org/wiki/關西電視台、富士電視台週二晚間十點連續劇 "wikilink")。連續劇版非特別版的續集，重新從最剛開始描述。第一集於22:10 - 23:14播出。連續劇版的[廣告標語](../Page/廣告標語.md "wikilink")為「人的內在會形之於外，從外表就可以判斷一個人」。
 
-本劇為能瀨三姊妹（[香里奈](../Page/香里奈.md "wikilink")、[英令奈](../Page/英令奈.md "wikilink")、[能世安奈](../Page/能世安奈.md "wikilink")）第一次共同演出，也擔任節目宣傳。三姊妹於[東京Girls
-Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikilink")，黑木瞳以神秘嘉賓身分現身，為節目進行宣傳。
+本劇為能瀨三姊妹（[香里奈](../Page/香里奈.md "wikilink")、[英令奈](../Page/英令奈.md "wikilink")、[能世安奈](../Page/能世安奈.md "wikilink")）第一次共同演出，也擔任節目宣傳。三姊妹於[東京Girls Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikilink")，黑木瞳以神秘嘉賓身分現身，為節目進行宣傳。
 
-電視劇版中，[明石家秋刀魚](https://zh.wikipedia.org/wiki/明石家秋刀魚 "wikilink")·[大竹忍的女兒IMALU](../Page/大竹忍.md "wikilink")，以香里奈妹妹的角色出道。
+電視劇版中，[明石家秋刀魚](https://zh.wikipedia.org/wiki/明石家秋刀魚 "wikilink")·[大竹忍](../Page/大竹忍.md "wikilink")的女兒IMALU，以香里奈妹妹的角色出道。
 
 同時，正篇演員所著之衣裝與飾品都能從購物網站購得。
 
@@ -205,8 +198,7 @@ Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikil
   - [MARILIA](https://zh.wikipedia.org/wiki/MARILIA "wikilink")
 
   -
-  - [DIANA
-    KANDYBA](https://zh.wikipedia.org/wiki/DIANA_KANDYBA "wikilink")
+  - [DIANA KANDYBA](https://zh.wikipedia.org/wiki/DIANA_KANDYBA "wikilink")
 
   - [亞弓](https://zh.wikipedia.org/wiki/亞弓 "wikilink")
 
@@ -217,9 +209,7 @@ Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikil
 
   - 編劇 - [大島里美](https://zh.wikipedia.org/wiki/大島里美 "wikilink")
   - 導演 - [白木啓一郎](https://zh.wikipedia.org/wiki/白木啓一郎 "wikilink")（關西電視台）
-  - 製作人 -
-    [重松圭一](https://zh.wikipedia.org/wiki/重松圭一 "wikilink")·[小寺健太](https://zh.wikipedia.org/wiki/小寺健太 "wikilink")（關西電視台）、[平部隆明](https://zh.wikipedia.org/wiki/平部隆明 "wikilink")（The
-    Farm）
+  - 製作人 - [重松圭一](https://zh.wikipedia.org/wiki/重松圭一 "wikilink")·[小寺健太](https://zh.wikipedia.org/wiki/小寺健太 "wikilink")（關西電視台）、[平部隆明](https://zh.wikipedia.org/wiki/平部隆明 "wikilink")（The Farm）
   - 音樂 - （Jazztronik）
   - 主題曲 - 「」
   - 製作 - 關西電視台、The Farm
@@ -228,19 +218,15 @@ Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikil
 
 #### 演員陣容
 
-  - 天野 絹惠（26） - [香里奈](../Page/香里奈.md "wikilink")-
-    香港粵語[陳凱婷](../Page/陳凱婷.md "wikilink")
+  - 天野 絹惠（26） - [香里奈](../Page/香里奈.md "wikilink")- 香港粵語[陳凱婷](../Page/陳凱婷.md "wikilink")
 
-  - 神保 美姬（47） - [黒木瞳](https://zh.wikipedia.org/wiki/黒木瞳 "wikilink")-
-    香港粵語[許盈](../Page/許盈.md "wikilink")
+  - 神保 美姬（47） - [黒木瞳](https://zh.wikipedia.org/wiki/黒木瞳 "wikilink")- 香港粵語[許盈](../Page/許盈.md "wikilink")
 
   - 山內 達也（28） - [高岡蒼甫](https://zh.wikipedia.org/wiki/高岡蒼甫 "wikilink")
 
-  - 田渕 優作（35） -
-    [西島秀俊](https://zh.wikipedia.org/wiki/西島秀俊 "wikilink")：特別版為[山本太郎飾演](../Page/山本太郎.md "wikilink")。
+  - 田渕 優作（35） - [西島秀俊](https://zh.wikipedia.org/wiki/西島秀俊 "wikilink")：特別版為[山本太郎](../Page/山本太郎.md "wikilink")飾演。
 
-  - 蜂矢 英明（28） -
-    [小泉孝太郎](../Page/小泉孝太郎.md "wikilink")：高級精品店「蔻蒂」（GOLDY）的採購。優作的對手。
+  - 蜂矢 英明（28） - [小泉孝太郎](../Page/小泉孝太郎.md "wikilink")：高級精品店「蔻蒂」（GOLDY）的採購。優作的對手。
 
   - 佐佐木 凌（23） - [加藤夏希](../Page/加藤夏希.md "wikilink")
 
@@ -262,14 +248,11 @@ Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikil
 
   - 田原 梨香 - [理繪](https://zh.wikipedia.org/wiki/理繪 "wikilink")
 
-  - 「The Space」銷售員 -
-    、[中園友乃](https://zh.wikipedia.org/wiki/中園友乃 "wikilink")、[小林よう](https://zh.wikipedia.org/wiki/小林よう "wikilink")、[堀切沙織](https://zh.wikipedia.org/wiki/堀切沙織 "wikilink")、[布施曜子](https://zh.wikipedia.org/wiki/布施曜子 "wikilink")、[村瀨葵](https://zh.wikipedia.org/wiki/村瀨葵 "wikilink")
+  - 「The Space」銷售員 - 、[中園友乃](https://zh.wikipedia.org/wiki/中園友乃 "wikilink")、[小林よう](https://zh.wikipedia.org/wiki/小林よう "wikilink")、[堀切沙織](https://zh.wikipedia.org/wiki/堀切沙織 "wikilink")、[布施曜子](https://zh.wikipedia.org/wiki/布施曜子 "wikilink")、[村瀨葵](https://zh.wikipedia.org/wiki/村瀨葵 "wikilink")
 
-  - \-
-    [黃川田將也](https://zh.wikipedia.org/wiki/黃川田將也 "wikilink")：商品部助理採購。摩洛哥出生，日法混血。（第四集起）
+  - \- [黃川田將也](https://zh.wikipedia.org/wiki/黃川田將也 "wikilink")：商品部助理採購。摩洛哥出生，日法混血。（第四集起）
 
-  - 商品部採購 -
-    [田村愛](https://zh.wikipedia.org/wiki/田村愛 "wikilink")、、[宮島朋宏](https://zh.wikipedia.org/wiki/宮島朋宏 "wikilink")、[カトウシンスケ](https://zh.wikipedia.org/wiki/カトウシンスケ "wikilink")、[平田佳苗](https://zh.wikipedia.org/wiki/平田佳苗 "wikilink")（第4集起）
+  - 商品部採購 - [田村愛](https://zh.wikipedia.org/wiki/田村愛 "wikilink")、、[宮島朋宏](https://zh.wikipedia.org/wiki/宮島朋宏 "wikilink")、[カトウシンスケ](https://zh.wikipedia.org/wiki/カトウシンスケ "wikilink")、[平田佳苗](https://zh.wikipedia.org/wiki/平田佳苗 "wikilink")（第4集起）
 
   - 大面 厚 - [佐藤二朗](../Page/佐藤二朗.md "wikilink")：寢具賣場的部長。
 
@@ -277,46 +260,33 @@ Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikil
 
 #### 客串
 
-  - 山本 加代子 -
-    [榊原郁惠](https://zh.wikipedia.org/wiki/榊原郁惠 "wikilink")：精品店的銷售員（第1集）
+  - 山本 加代子 - [榊原郁惠](https://zh.wikipedia.org/wiki/榊原郁惠 "wikilink")：精品店的銷售員（第1集）
 
-  - 居酒屋「」店長 -
-    [戶田昌宏](https://zh.wikipedia.org/wiki/戶田昌宏 "wikilink")（第1·4集）
+  - 居酒屋「」店長 - [戶田昌宏](https://zh.wikipedia.org/wiki/戶田昌宏 "wikilink")（第1·4集）
 
-  - 日比谷  -
-    [鈴木砂羽](https://zh.wikipedia.org/wiki/鈴木砂羽 "wikilink")：飛貓舍的設計師（第2集）
+  - 日比谷  - [鈴木砂羽](https://zh.wikipedia.org/wiki/鈴木砂羽 "wikilink")：飛貓舍的設計師（第2集）
 
-  - 日比谷 真紀 -
-    [藤本靜](https://zh.wikipedia.org/wiki/藤本靜 "wikilink")：しのぶの妹（第2集）
+  - 日比谷 真紀 - [藤本靜](https://zh.wikipedia.org/wiki/藤本靜 "wikilink")：しのぶの妹（第2集）
 
-  - 栗田 -
-    [岡田浩暉](https://zh.wikipedia.org/wiki/岡田浩暉 "wikilink")：凌的前上司（第2集）
+  - 栗田 - [岡田浩暉](https://zh.wikipedia.org/wiki/岡田浩暉 "wikilink")：凌的前上司（第2集）
 
-  - 水嶋 知子 -
-    [片平渚](https://zh.wikipedia.org/wiki/片平渚 "wikilink")：老牌絲襪製造廠『Viola』的專職董事（第3集）
+  - 水嶋 知子 - [片平渚](https://zh.wikipedia.org/wiki/片平渚 "wikilink")：老牌絲襪製造廠『Viola』的專職董事（第3集）
 
-  - 本鄉 猛 -
-    [西岡德馬](https://zh.wikipedia.org/wiki/西岡德馬 "wikilink")：大日本繊維的社長（特別演出，第3集）
+  - 本鄉 猛 - [西岡德馬](https://zh.wikipedia.org/wiki/西岡德馬 "wikilink")：大日本繊維的社長（特別演出，第3集）
 
-  - 戶部 和泉 -
-    [中鉢明子](https://zh.wikipedia.org/wiki/中鉢明子 "wikilink")：絹惠的同班同學（第4集）
+  - 戶部 和泉 - [中鉢明子](https://zh.wikipedia.org/wiki/中鉢明子 "wikilink")：絹惠的同班同學（第4集）
 
-  - 高級精品店「蔻蒂」（GOLDY）所有者 -
-    [長棟嘉道](https://zh.wikipedia.org/wiki/長棟嘉道 "wikilink")（第4集）
+  - 高級精品店「蔻蒂」（GOLDY）所有者 - [長棟嘉道](https://zh.wikipedia.org/wiki/長棟嘉道 "wikilink")（第4集）
 
-  - 山內 一義 -
-    [福井友信](https://zh.wikipedia.org/wiki/福井友信 "wikilink")：達也的父親（第4集）
+  - 山內 一義 - [福井友信](https://zh.wikipedia.org/wiki/福井友信 "wikilink")：達也的父親（第4集）
 
   - 山內 由美 - [鷲尾真知子](../Page/鷲尾真知子.md "wikilink")：達也的母親（第4集）
 
-  - 山內 雄一 -
-    [三浦剛](https://zh.wikipedia.org/wiki/三浦剛 "wikilink")：達也的哥哥（第4集）
+  - 山內 雄一 - [三浦剛](https://zh.wikipedia.org/wiki/三浦剛 "wikilink")：達也的哥哥（第4集）
 
-  - 山內 杏子 -
-    [大浦理美惠](https://zh.wikipedia.org/wiki/大浦理美惠 "wikilink")：雄一的妻子（第4集）
+  - 山內 杏子 - [大浦理美惠](https://zh.wikipedia.org/wiki/大浦理美惠 "wikilink")：雄一的妻子（第4集）
 
-  - 堀 晴美 -
-    [山田麻衣子](https://zh.wikipedia.org/wiki/山田麻衣子 "wikilink")：達也的同班同學（第4·5·6集）
+  - 堀 晴美 - [山田麻衣子](https://zh.wikipedia.org/wiki/山田麻衣子 "wikilink")：達也的同班同學（第4·5·6集）
 
   - 川原 - [遠山俊也](https://zh.wikipedia.org/wiki/遠山俊也 "wikilink")（第5集）
 
@@ -324,37 +294,27 @@ Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikil
 
   - \- [尾高杏奈](https://zh.wikipedia.org/wiki/尾高杏奈 "wikilink")：的朋友（第6集）
 
-  - 小西  - [中別府葵](../Page/中別府葵.md "wikilink")：漾青春休閒館Cinderrella
-    Town的派遣員工（第6·7集）
+  - 小西  - [中別府葵](../Page/中別府葵.md "wikilink")：漾青春休閒館Cinderrella Town的派遣員工（第6·7集）
 
   - 萩野 - [恆吉梨繪](https://zh.wikipedia.org/wiki/恆吉梨繪 "wikilink")（第6·7集）
 
-  - 商品部採購 -
-    [林健](https://zh.wikipedia.org/wiki/Gallop_\(搞笑團體\) "wikilink")、[毛利大亮](https://zh.wikipedia.org/wiki/Gallop_\(搞笑團體\) "wikilink")（第7集）
+  - 商品部採購 - [林健](https://zh.wikipedia.org/wiki/Gallop_\(搞笑團體\) "wikilink")、[毛利大亮](https://zh.wikipedia.org/wiki/Gallop_\(搞笑團體\) "wikilink")（第7集）
 
-  - 宮澤 雪乃 -
-    [奧貫薰](https://zh.wikipedia.org/wiki/奧貫薰 "wikilink")：優作的未婚妻→前未婚妻（第7·8集）
+  - 宮澤 雪乃 - [奧貫薰](https://zh.wikipedia.org/wiki/奧貫薰 "wikilink")：優作的未婚妻→前未婚妻（第7·8集）
 
-  - 雙葉 公彥 -
-    [中村靖日](https://zh.wikipedia.org/wiki/中村靖日 "wikilink")：人気針織作家（第8集）
+  - 雙葉 公彥 - [中村靖日](https://zh.wikipedia.org/wiki/中村靖日 "wikilink")：人気針織作家（第8集）
 
-  - 小學4年集的田渕（回想） -
-    [安西壹哉](https://zh.wikipedia.org/wiki/安西壹哉 "wikilink")（第8集）
+  - 小學4年集的田渕（回想） - [安西壹哉](https://zh.wikipedia.org/wiki/安西壹哉 "wikilink")（第8集）
 
-  - 播報百貨公司合併新聞的主播 -
-    [山本浩之](https://zh.wikipedia.org/wiki/山本浩之 "wikilink")（關西電視台主播，第8集）
+  - 播報百貨公司合併新聞的主播 - [山本浩之](https://zh.wikipedia.org/wiki/山本浩之 "wikilink")（關西電視台主播，第8集）
 
-  - 竹內 祐造 -
-    [田山涼成](https://zh.wikipedia.org/wiki/田山涼成 "wikilink")：鞋子工廠「竹內」社長（第9集）
+  - 竹內 祐造 - [田山涼成](https://zh.wikipedia.org/wiki/田山涼成 "wikilink")：鞋子工廠「竹內」社長（第9集）
 
-  - 蜂矢 俊生（回想） -
-    [谷原章介](../Page/谷原章介.md "wikilink")：英明過世的父親，美姬過世的戀人（友情演出，第9集·10集）
+  - 蜂矢 俊生（回想） - [谷原章介](../Page/谷原章介.md "wikilink")：英明過世的父親，美姬過世的戀人（友情演出，第9集·10集）
 
-  - \-
-    [Fredric](https://zh.wikipedia.org/wiki/Fredric "wikilink")：SHIELA\&KEITH的設計師（第10集）
+  - \- [Fredric](https://zh.wikipedia.org/wiki/Fredric "wikilink")：SHIELA\&KEITH的設計師（第10集）
 
-  - \- [IAN
-    MOORE](https://zh.wikipedia.org/wiki/IAN_MOORE "wikilink")：SHIELA\&KEITH的所有人（第10集）
+  - \- [IAN MOORE](https://zh.wikipedia.org/wiki/IAN_MOORE "wikilink")：SHIELA\&KEITH的所有人（第10集）
 
   - 宮崎 - [升毅](https://zh.wikipedia.org/wiki/升毅 "wikilink")（第10話）
 
@@ -363,11 +323,9 @@ Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikil
 #### 工作人員
 
   - 編劇 - [大島里美](https://zh.wikipedia.org/wiki/大島里美 "wikilink")
-  - 導演 -
-    [白木啟一郎](https://zh.wikipedia.org/wiki/白木啟一郎 "wikilink")（關西電視台）、[本橋圭太](https://zh.wikipedia.org/wiki/本橋圭太 "wikilink")（）
+  - 導演 - [白木啟一郎](https://zh.wikipedia.org/wiki/白木啟一郎 "wikilink")（關西電視台）、[本橋圭太](https://zh.wikipedia.org/wiki/本橋圭太 "wikilink")（）
   - 總製作人 - 重松圭一（關西電視台）
-  - 製作人 -
-    [佐野拓水](https://zh.wikipedia.org/wiki/佐野拓水 "wikilink")（關西電視台）、[平部隆明](https://zh.wikipedia.org/wiki/平部隆明 "wikilink")（[堀製作](https://zh.wikipedia.org/wiki/堀製作 "wikilink")）
+  - 製作人 - [佐野拓水](https://zh.wikipedia.org/wiki/佐野拓水 "wikilink")（關西電視台）、[平部隆明](https://zh.wikipedia.org/wiki/平部隆明 "wikilink")（[堀製作](https://zh.wikipedia.org/wiki/堀製作 "wikilink")）
   - 音樂 - （Jazztronik）
   - 主題曲 - 「」
   - 製作協力 - 堀製作
@@ -488,8 +446,7 @@ Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikil
 
 #### 原聲帶
 
-  - Real Clothes ～Motion Pictures Sound Track / Jazztronik
-    Collection（[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）
+  - Real Clothes ～Motion Pictures Sound Track / Jazztronik Collection（[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）
 
 #### 攝影協力
 
@@ -508,8 +465,7 @@ Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikil
   - LOUIS VUITTON/香榭麗舍總店
   - [-{zh-hans:巴黎老佛爺百貨公司;zh-hant:巴黎拉法葉百貨公司;}-](../Page/巴黎老佛爺百貨公司.md "wikilink")/巴黎總店
   - [-{zh-tw:芳登廣場;zh-cn:旺多姆广场;zh-hk:凡登廣場;}-](https://zh.wikipedia.org/wiki/旺多姆广场 "wikilink")
-  - [里昂車站內的餐廳](https://zh.wikipedia.org/wiki/里昂車站 "wikilink")「[Le Train
-    Bleu](https://zh.wikipedia.org/wiki/Le_Train_Bleu "wikilink")」
+  - [里昂車站內的餐廳](https://zh.wikipedia.org/wiki/里昂車站 "wikilink")「[Le Train Bleu](https://zh.wikipedia.org/wiki/Le_Train_Bleu "wikilink")」
   - [塞納河上的](https://zh.wikipedia.org/wiki/塞納河 "wikilink")[Bir-Hakeim橋](https://zh.wikipedia.org/wiki/比尔阿克姆桥 "wikilink")
   - 巴黎聖母院西岱島南側的塞納河對岸
 
@@ -551,18 +507,6 @@ Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikil
 
 [Category:巴黎背景電視節目](https://zh.wikipedia.org/wiki/Category:巴黎背景電視節目 "wikilink")
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:YOU連載作品](https://zh.wikipedia.org/wiki/Category:YOU連載作品 "wikilink")
-[Category:富士電視台電視劇](https://zh.wikipedia.org/wiki/Category:富士電視台電視劇 "wikilink")
-[Category:關西電視台週二晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間十點連續劇 "wikilink")
-[Category:2008年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年開播的日本電視劇集 "wikilink")
-[Category:2008年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2008年電視特別劇集 "wikilink")
-[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:Horipro電視劇](https://zh.wikipedia.org/wiki/Category:Horipro電視劇 "wikilink")
-[Category:百貨公司背景作品](https://zh.wikipedia.org/wiki/Category:百貨公司背景作品 "wikilink")
-[Category:時尚題材電視劇](https://zh.wikipedia.org/wiki/Category:時尚題材電視劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:YOU連載作品](https://zh.wikipedia.org/wiki/Category:YOU連載作品 "wikilink") [Category:富士電視台電視劇](https://zh.wikipedia.org/wiki/Category:富士電視台電視劇 "wikilink") [Category:關西電視台週二晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間十點連續劇 "wikilink") [Category:2008年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年開播的日本電視劇集 "wikilink") [Category:2008年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2008年電視特別劇集 "wikilink") [Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:Horipro電視劇](https://zh.wikipedia.org/wiki/Category:Horipro電視劇 "wikilink") [Category:百貨公司背景作品](https://zh.wikipedia.org/wiki/Category:百貨公司背景作品 "wikilink") [Category:時尚題材電視劇](https://zh.wikipedia.org/wiki/Category:時尚題材電視劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.  「結構」可解釋成「夠了」、「還可以」、「不要了」、「不用」、「夠意思」與「相當」，依不同的情況有不同的意思解釋。

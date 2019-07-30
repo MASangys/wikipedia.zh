@@ -1,7 +1,4 @@
-**Hearts
-Grow**（ハーツ・グロウ）是[沖繩縣](../Page/沖繩縣.md "wikilink")[本部町出身的](../Page/本部町.md "wikilink")5人[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。2006年由[EPIC
-Records
-Japan發行單曲](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")「Road」出道。
+**Hearts Grow**（ハーツ・グロウ）是[沖繩縣](../Page/沖繩縣.md "wikilink")[本部町](../Page/本部町.md "wikilink")出身的5人[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。2006年由[EPIC Records Japan發行單曲](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")「Road」出道。
 
 ## 成員
 
@@ -19,8 +16,7 @@ Japan發行單曲](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")�
 
 ## 來歷
 
-出身[沖繩縣](../Page/沖繩縣.md "wikilink")[国頭郡](https://zh.wikipedia.org/wiki/国頭郡 "wikilink")[本部町](../Page/本部町.md "wikilink")、由在便當店的地下室作成音樂工作室並且集結於「[紫陽花音樂村](https://zh.wikipedia.org/wiki/紫陽花音樂村 "wikilink")」這個音樂活動的當地六位高中生在2004年所組成。在沖縄縣內，經過[街頭表演和](https://zh.wikipedia.org/wiki/街頭表演 "wikilink")[Live
-House的表演活動後](https://zh.wikipedia.org/wiki/Live_House "wikilink")，2006年正式出道。
+出身[沖繩縣](../Page/沖繩縣.md "wikilink")[国頭郡](https://zh.wikipedia.org/wiki/国頭郡 "wikilink")[本部町](../Page/本部町.md "wikilink")、由在便當店的地下室作成音樂工作室並且集結於「[紫陽花音樂村](https://zh.wikipedia.org/wiki/紫陽花音樂村 "wikilink")」這個音樂活動的當地六位高中生在2004年所組成。在沖縄縣內，經過[街頭表演和](https://zh.wikipedia.org/wiki/街頭表演 "wikilink")[Live House的表演活動後](https://zh.wikipedia.org/wiki/Live_House "wikilink")，2006年正式出道。
 
 2009年11月、以「音樂性不一樣」的理由停止活動。由主唱春奈單飛且預定要繼續音樂活動（概要可參考他們的官方網站）。
 
@@ -44,23 +40,21 @@ House的表演活動後](https://zh.wikipedia.org/wiki/Live_House "wikilink")，
 <!-- end list -->
 
   - **[搖搖晃晃](https://zh.wikipedia.org/wiki/搖搖晃晃 "wikilink")**（2006年12月6日）
-    1.  搖搖晃晃（[東京電視台動畫](../Page/東京電視台.md "wikilink")「[火影忍者](../Page/火影忍者.md "wikilink")」第九期和[神奈川電視台](../Page/神奈川電視台.md "wikilink")「音樂罐」2007年1月片頭曲）
+    1.  搖搖晃晃（[東京電視台](../Page/東京電視台.md "wikilink")動畫「[火影忍者](../Page/火影忍者.md "wikilink")」第九期和[神奈川電視台](../Page/神奈川電視台.md "wikilink")「音樂罐」2007年1月片頭曲）
     2.  故事
     3.  搖搖晃晃(Instrumental)
 
 <!-- end list -->
 
   - **[向日葵](https://zh.wikipedia.org/wiki/向日葵_\(Hearts_Grow\) "wikilink")**（2007年6月13日）
-    1.  向日葵（[東京電視台](../Page/東京電視台.md "wikilink")
-        動畫「[飛天小女警Z](../Page/飛天小女警Z.md "wikilink")」第四期片尾曲）
+    1.  向日葵（[東京電視台](../Page/東京電視台.md "wikilink") 動畫「[飛天小女警Z](../Page/飛天小女警Z.md "wikilink")」第四期片尾曲）
     2.  夏色
     3.  向日葵(Instrumental)
 
 <!-- end list -->
 
   - **[重疊的影子](https://zh.wikipedia.org/wiki/重疊的影子 "wikilink")**（2008年1月23日）
-    1.  重疊的影子（[東京電視台](../Page/東京電視台.md "wikilink")
-        動畫「[銀魂](https://zh.wikipedia.org/wiki/銀魂_\(動畫\) "wikilink")」第四期片頭曲）
+    1.  重疊的影子（[東京電視台](../Page/東京電視台.md "wikilink") 動畫「[銀魂](https://zh.wikipedia.org/wiki/銀魂_\(動畫\) "wikilink")」第四期片頭曲）
     2.  天空藍
     3.  吶喊
     4.  重疊的影子(Instrumental)
@@ -68,10 +62,7 @@ House的表演活動後](https://zh.wikipedia.org/wiki/Live_House "wikilink")，
 <!-- end list -->
 
   - **[天空](https://zh.wikipedia.org/wiki/天空_\(Hearts_Grow\) "wikilink")**（2008年9月3日）
-    1.  天空
-        [全國獨立UHF放送協議會](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink")
-        動畫「[鐵腕巴迪
-        DECODE](https://zh.wikipedia.org/wiki/鐵腕巴迪_DECODE "wikilink")」片頭曲）
+    1.  天空 [全國獨立UHF放送協議會](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") 動畫「[鐵腕巴迪 DECODE](https://zh.wikipedia.org/wiki/鐵腕巴迪_DECODE "wikilink")」片頭曲）
     2.  未來行程表（[日本越洋航空](../Page/日本越洋航空.md "wikilink") 2008年印象曲）
     3.  天空(Instrumental)
 
@@ -88,7 +79,7 @@ House的表演活動後](https://zh.wikipedia.org/wiki/Live_House "wikilink")，
   - **夏日大雜繪**（2007年8月22日）
     1.  小小的情歌
           -
-            [MONGOL800的同名曲](../Page/MONGOL800.md "wikilink")（收錄在專輯『MESSAGE』）
+            [MONGOL800](../Page/MONGOL800.md "wikilink")的同名曲（收錄在專輯『MESSAGE』）
     2.  向日葵ちゃんぷるう、らふてい、スパムMix
     3.  島人ぬ宝
           -
@@ -96,9 +87,8 @@ House的表演活動後](https://zh.wikipedia.org/wiki/Live_House "wikilink")，
     4.  Road－Sweet Fuchagi Mix
     5.  Best Friend
           -
-            [Kiroro的Best](../Page/Kiroro.md "wikilink") Friend。
-    6.  [ユラユラ](https://zh.wikipedia.org/wiki/ユラユラ "wikilink")－Ryukyu
-        HAYASHI Mix
+            [Kiroro](../Page/Kiroro.md "wikilink")的Best Friend。
+    6.  [ユラユラ](https://zh.wikipedia.org/wiki/ユラユラ "wikilink")－Ryukyu HAYASHI Mix
 
 ### 數位下載
 
@@ -114,13 +104,7 @@ House的表演活動後](https://zh.wikipedia.org/wiki/Live_House "wikilink")，
 
 ## 外部連結
 
-  - [紫陽花Music Hearts
-    Grow網站](https://web.archive.org/web/20100609153451/http://www.ajisaimusic.com/heartsgrow/)
+  - [紫陽花Music Hearts Grow網站](https://web.archive.org/web/20100609153451/http://www.ajisaimusic.com/heartsgrow/)
   - [Sony Music Hearts Growt唱片公司官網](http://www.heartsgrow.com/)
 
-[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
-[Category:2009年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年解散的音樂團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
-[Category:沖繩縣出身人物](https://zh.wikipedia.org/wiki/Category:沖繩縣出身人物 "wikilink")
-[Category:琉球族歌手](https://zh.wikipedia.org/wiki/Category:琉球族歌手 "wikilink")
+[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink") [Category:2009年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年解散的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:沖繩縣出身人物](https://zh.wikipedia.org/wiki/Category:沖繩縣出身人物 "wikilink") [Category:琉球族歌手](https://zh.wikipedia.org/wiki/Category:琉球族歌手 "wikilink")

@@ -1,15 +1,12 @@
-**MSG A
-Cappella**是台灣的[純人聲演唱團體](../Page/無伴奏合唱.md "wikilink")，成軍於2009年，目前編制由七名團員組成。
+**MSG A Cappella**是台灣的[純人聲演唱團體](../Page/無伴奏合唱.md "wikilink")，成軍於2009年，目前編制由七名團員組成。
 
 ## 簡介
 
-MSG A
-Cappella成軍於2009年，為[台灣以](https://zh.wikipedia.org/wiki/台灣 "wikilink")[純人聲形式表演的](../Page/無伴奏合唱.md "wikilink")[樂團之一](https://zh.wikipedia.org/wiki/樂團 "wikilink")。團名由來為[味精的英語縮寫](../Page/味精.md "wikilink")，取意以音樂作為生活調味，「希望透過歌聲，帶大家一起擺脫生活中的煩惱與無奈」\[1\]。
+MSG A Cappella成軍於2009年，為[台灣以](https://zh.wikipedia.org/wiki/台灣 "wikilink")[純人聲形式表演的](../Page/無伴奏合唱.md "wikilink")[樂團之一](https://zh.wikipedia.org/wiki/樂團 "wikilink")。團名由來為[味精](../Page/味精.md "wikilink")的英語縮寫，取意以音樂作為生活調味，「希望透過歌聲，帶大家一起擺脫生活中的煩惱與無奈」\[1\]。
 
 該團演出風格在台灣諸純人聲演唱團體中獨樹一格，選曲風格多元，涵蓋[古典](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")、[流行](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")、[爵士等](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")\[2\]。音樂和舞臺表現上，不強調舞蹈動作，而專注於歌曲[和聲與詮釋](https://zh.wikipedia.org/wiki/和聲 "wikilink")\[3\]。
 
-MSG A Cappella亦投入歌曲創作，如收錄於「A
-House」阿卡貝拉音樂合輯中的「郊遊」，係改編民謠「郊遊」寫成，以輕快甜美的嗓音\[4\]，「回味第一次怦然心動的羞澀與純真」\[5\]。
+MSG A Cappella亦投入歌曲創作，如收錄於「A House」阿卡貝拉音樂合輯中的「郊遊」，係改編民謠「郊遊」寫成，以輕快甜美的嗓音\[4\]，「回味第一次怦然心動的羞澀與純真」\[5\]。
 
 ## 團體組成
 
@@ -156,17 +153,11 @@ House」阿卡貝拉音樂合輯中的「郊遊」，係改編民謠「郊遊」
 
   - （官方粉絲專頁）
 
-[Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink")
-[Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink")
-[Category:台灣人聲樂團](https://zh.wikipedia.org/wiki/Category:台灣人聲樂團 "wikilink")
+[Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink") [Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink") [Category:台灣人聲樂團](https://zh.wikipedia.org/wiki/Category:台灣人聲樂團 "wikilink")
 
 1.  「A House」人聲樂團合輯專輯介紹折頁。
 2.  <http://www.facebook.com/MSGFAN?sk=info/>
-3.  [阿卡貝拉
-    當人聲變成樂器](http://castnet.nctu.edu.tw/castnet/article.php?from_id=10&from_type=issue&id=165/)
-4.  [人聲出輯
-    台灣首張阿卡貝拉](http://www2.cna.com.tw/SearchNews/doDetail.aspx?id=201109260086&q=%E5%8F%A3%E6%8A%80/)
-
+3.  [阿卡貝拉 當人聲變成樂器](http://castnet.nctu.edu.tw/castnet/article.php?from_id=10&from_type=issue&id=165/)
+4.  [人聲出輯 台灣首張阿卡貝拉](http://www2.cna.com.tw/SearchNews/doDetail.aspx?id=201109260086&q=%E5%8F%A3%E6%8A%80/)
 5.  「A House」人聲樂團合輯專輯介紹折頁。
-6.  [阿卡貝拉
-    當人聲變成樂器](http://castnet.nctu.edu.tw/castnet/article.php?from_id=10&from_type=issue&id=165/)
+6.  [阿卡貝拉 當人聲變成樂器](http://castnet.nctu.edu.tw/castnet/article.php?from_id=10&from_type=issue&id=165/)

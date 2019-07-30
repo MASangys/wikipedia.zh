@@ -1,5 +1,4 @@
-『**K-ON\!\! LIVE活動 ～Come with
-Me\!\!～**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的LIVE活動。
+『**K-ON\!\! LIVE活動 ～Come with Me\!\!～**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的LIVE活動。
 
 ## 概要
 
@@ -7,7 +6,7 @@ Me\!\!～**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wiki
 
 2010年11月26日正式發表日期和舉行地方。
 
-2011年2月20日在[埼玉超級競技場舉行的LIVE活動](../Page/埼玉超級競技場.md "wikilink")。
+2011年2月20日在[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")舉行的LIVE活動。
 
 ## 出演者
 
@@ -41,26 +40,22 @@ Me\!\!～**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wiki
 2.  [Listen\!\!](../Page/Listen!!.md "wikilink")
       -
         歌：放課後TEA TIME
-3.  [Oh My
-    ギー太\!\!](https://zh.wikipedia.org/wiki/K-ON!印象歌曲#平澤唯（第2期） "wikilink")
+3.  [Oh My ギー太\!\!](https://zh.wikipedia.org/wiki/K-ON!印象歌曲#平澤唯（第2期） "wikilink")
       -
         歌：平澤唯（豐崎愛生）
 4.  [青春Vibration](https://zh.wikipedia.org/wiki/K-ON!印象歌曲#秋山澪（第2期） "wikilink")
       -
         歌：秋山澪（日笠陽子）
-5.  [Drumming Shining My
-    Life](https://zh.wikipedia.org/wiki/K-ON!印象歌曲#田井中律（第2期） "wikilink")
+5.  [Drumming Shining My Life](https://zh.wikipedia.org/wiki/K-ON!印象歌曲#田井中律（第2期） "wikilink")
       -
         歌：田井中律（佐藤聰美）
 6.  [Diaryはフォルテシモ](https://zh.wikipedia.org/wiki/K-ON!印象歌曲#琴吹紬（第2期） "wikilink")
       -
         歌：琴吹紬（寿美菜子）
-7.  [Over the
-    Starlight](https://zh.wikipedia.org/wiki/K-ON!印象歌曲#中野梓（第2期） "wikilink")
+7.  [Over the Starlight](https://zh.wikipedia.org/wiki/K-ON!印象歌曲#中野梓（第2期） "wikilink")
       -
         歌：中野梓（竹達彩奈）
-8.  [ウキウキNew\! My
-    Way](https://zh.wikipedia.org/wiki/K-ON!印象歌曲#平澤憂（第2期） "wikilink")
+8.  [ウキウキNew\! My Way](https://zh.wikipedia.org/wiki/K-ON!印象歌曲#平澤憂（第2期） "wikilink")
       -
         歌：平澤憂（米澤圓）
 9.  [純情Bomber\!\!](https://zh.wikipedia.org/wiki/K-ON!印象歌曲#鈴木純（第2期） "wikilink")
@@ -75,8 +70,7 @@ Me\!\!～**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wiki
 12. [ときめきシュガー](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")
       -
         歌：放課後TEA TIME
-13. [Honey sweet tea
-    time](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")
+13. [Honey sweet tea time](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")
       -
         歌：放課後TEA TIME
 14. [ごはんはおかず](https://zh.wikipedia.org/wiki/米飯是配菜/U&I "wikilink")
@@ -118,8 +112,7 @@ Me\!\!～**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wiki
     1.  [桜が丘女子高等学校校歌](https://zh.wikipedia.org/wiki/K-ON!_ORIGINAL_SOUND_TRACK#K-ON!!_ORIGINAL_SOUND_TRACK_Vol.2 "wikilink")
           -
             歌：出演者全員、伴奏：山中佐和子（真田麻美）
-    2.  [Come with
-        Me\!\!](https://zh.wikipedia.org/wiki/K-ON!印象歌曲#「K-ON!!」角色歌曲 "wikilink")
+    2.  [Come with Me\!\!](https://zh.wikipedia.org/wiki/K-ON!印象歌曲#「K-ON!!」角色歌曲 "wikilink")
           -
             歌：出演者全員
 
@@ -127,5 +120,4 @@ Me\!\!～**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wiki
 
   - [公式網站](http://www.tbs.co.jp/anime/k-on/special/event110220.html)
 
-[Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink")
-[Category:動畫音樂會](https://zh.wikipedia.org/wiki/Category:動畫音樂會 "wikilink")
+[Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink") [Category:動畫音樂會](https://zh.wikipedia.org/wiki/Category:動畫音樂會 "wikilink")

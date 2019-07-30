@@ -1,5 +1,4 @@
-《**"ISLAND OVER THE HORIZON"at YOKOHAMA ARENA
-06.12.16**》是[Remioromen的第](../Page/Remioromen.md "wikilink")2張DVD。2007年3月14日發行。
+《**"ISLAND OVER THE HORIZON"at YOKOHAMA ARENA 06.12.16**》是[Remioromen](../Page/Remioromen.md "wikilink")的第2張DVD。2007年3月14日發行。
 
 ## 概要
 
@@ -29,5 +28,4 @@
 20. **紙ふぶき**
 21. **スタンドバイミー**
 
-[Category:2007年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2007年音樂相關影像作品 "wikilink")
-[Category:Remioromen影像作品](https://zh.wikipedia.org/wiki/Category:Remioromen影像作品 "wikilink")
+[Category:2007年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2007年音樂相關影像作品 "wikilink") [Category:Remioromen影像作品](https://zh.wikipedia.org/wiki/Category:Remioromen影像作品 "wikilink")

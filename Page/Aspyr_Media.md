@@ -1,16 +1,10 @@
-[Aspyr_Media_Logo.svg](https://zh.wikipedia.org/wiki/File:Aspyr_Media_Logo.svg "fig:Aspyr_Media_Logo.svg")
-**Aspyr Media, Inc.**
-是[美国](../Page/美国.md "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[奥斯汀的一家游戏开发公司](https://zh.wikipedia.org/wiki/奥斯汀 "wikilink")，专注于将[Windows游戏移植到](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac
-OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。公司成立于1996年，在2003年他们占有[Mac游戏市场](https://zh.wikipedia.org/wiki/Mac "wikilink")60%的份额，Aspyr的合作伙伴包括[派拉蒙电影公司](https://zh.wikipedia.org/wiki/派拉蒙电影公司 "wikilink")、[卢卡斯艺术公司](https://zh.wikipedia.org/wiki/卢卡斯艺术公司 "wikilink")、[美国艺电](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")、[Activision和](https://zh.wikipedia.org/wiki/Activision "wikilink")[Eidos
-Interactive](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")。
+[Aspyr_Media_Logo.svg](https://zh.wikipedia.org/wiki/File:Aspyr_Media_Logo.svg "fig:Aspyr_Media_Logo.svg") **Aspyr Media, Inc.** 是[美国](../Page/美国.md "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[奥斯汀的一家游戏开发公司](https://zh.wikipedia.org/wiki/奥斯汀 "wikilink")，专注于将[Windows游戏移植到](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。公司成立于1996年，在2003年他们占有[Mac游戏市场](https://zh.wikipedia.org/wiki/Mac "wikilink")60%的份额，Aspyr的合作伙伴包括[派拉蒙电影公司](https://zh.wikipedia.org/wiki/派拉蒙电影公司 "wikilink")、[卢卡斯艺术公司](https://zh.wikipedia.org/wiki/卢卡斯艺术公司 "wikilink")、[美国艺电](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")、[Activision和](https://zh.wikipedia.org/wiki/Activision "wikilink")[Eidos Interactive](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")。
 
-[Aspyr-logo-old.png](https://zh.wikipedia.org/wiki/File:Aspyr-logo-old.png "fig:Aspyr-logo-old.png")
-最近几年，Aspyr开始将主机游戏移植到Windows和[GBA](https://zh.wikipedia.org/wiki/GBA "wikilink")。另外，Aspyr也曾经发布过几张专辑和一些纪录片。
+[Aspyr-logo-old.png](https://zh.wikipedia.org/wiki/File:Aspyr-logo-old.png "fig:Aspyr-logo-old.png") 最近几年，Aspyr开始将主机游戏移植到Windows和[GBA](https://zh.wikipedia.org/wiki/GBA "wikilink")。另外，Aspyr也曾经发布过几张专辑和一些纪录片。
 
 ## 版权保护
 
-Aspyr使用[SecuROM来保护游戏光盘](../Page/SecuROM.md "wikilink")。
+Aspyr使用[SecuROM](../Page/SecuROM.md "wikilink")来保护游戏光盘。
 
 ## 发行游戏
 
@@ -48,6 +42,4 @@ Aspyr使用[SecuROM来保护游戏光盘](../Page/SecuROM.md "wikilink")。
   - [Aspyr主页](http://www.aspyr.com/)
   - [Aspyr](http://www.mobygames.com/company/aspyr-media-inc)于[MobyGames的资料](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
-[Category:1996年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1996年開業電子遊戲公司 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1996年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1996年開業電子遊戲公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")

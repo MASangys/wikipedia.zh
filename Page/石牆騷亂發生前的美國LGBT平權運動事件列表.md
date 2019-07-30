@@ -1,8 +1,6 @@
-[Barbara_Gittings_1965.jpg](https://zh.wikipedia.org/wiki/File:Barbara_Gittings_1965.jpg "fig:Barbara_Gittings_1965.jpg")[白宮](../Page/白宮.md "wikilink")前的遊行示威者\]\]
-下表记录了**石牆騷亂發生前的美國LGBT平權運動事件**。儘管1969年的[石牆騷亂普遍被視為](https://zh.wikipedia.org/wiki/石牆騷亂 "wikilink")[同性戀](../Page/同性戀.md "wikilink")平權運動的開始，但早在石牆騷亂發生前就已有同性戀者自發或由同性戀團體組織的示威遊行。這些行動的目的在於反同性戀歧視，例如抗議[美軍對同性戀者的排斥與](https://zh.wikipedia.org/wiki/美國軍事 "wikilink")[古巴](../Page/古巴.md "wikilink")對待同性戀者的政策等。這些早期的示威活動成功凝結[同性戀社群的共同意識](https://zh.wikipedia.org/wiki/同性戀社群 "wikilink")，並在1969年石牆騷亂時爆發，使其成為[美國乃至於全球各地同性戀權利運動的開端](https://zh.wikipedia.org/wiki/美國 "wikilink")。
+[Barbara_Gittings_1965.jpg](https://zh.wikipedia.org/wiki/File:Barbara_Gittings_1965.jpg "fig:Barbara_Gittings_1965.jpg")[白宮](../Page/白宮.md "wikilink")前的遊行示威者\]\] 下表记录了**石牆騷亂發生前的美國LGBT平權運動事件**。儘管1969年的[石牆騷亂普遍被視為](https://zh.wikipedia.org/wiki/石牆騷亂 "wikilink")[同性戀](../Page/同性戀.md "wikilink")平權運動的開始，但早在石牆騷亂發生前就已有同性戀者自發或由同性戀團體組織的示威遊行。這些行動的目的在於反同性戀歧視，例如抗議[美軍對同性戀者的排斥與](https://zh.wikipedia.org/wiki/美國軍事 "wikilink")[古巴](../Page/古巴.md "wikilink")對待同性戀者的政策等。這些早期的示威活動成功凝結[同性戀社群的共同意識](https://zh.wikipedia.org/wiki/同性戀社群 "wikilink")，並在1969年石牆騷亂時爆發，使其成為[美國乃至於全球各地同性戀權利運動的開端](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
-早期的平權運動常採取的抗議手段包括設置路障阻擋抗議對象的人員進出等。美國東部的LGBT組織如、[女同性戀](../Page/女同性戀.md "wikilink")組織與等組織在[華盛頓](../Page/华盛顿哥伦比亚特区.md "wikilink")、[紐約或](https://zh.wikipedia.org/wiki/紐約 "wikilink")[費城](../Page/費城.md "wikilink")的總部或分會則組成東岸同志之友組織（，ECHO）以協調與組織示威遊行。由於人口稠密的大城市有相對較多的LGBT人群，ECHO常在這些城市組織遊行活動，同時他們也會對參加者的著裝作出規定，例如男性必須繫上[領帶](https://zh.wikipedia.org/wiki/領帶 "wikilink")、穿上夾克等；女性必須穿上裙子等。這些要求是由馬太辛協會創辦人所提出的，他意圖向人們展示，同性戀者是「體面且適宜僱用的」，並無與異性戀者有何異同。許多早期的示威者都繼續投入後來的同性戀解放運動。
-{{-}}
+早期的平權運動常採取的抗議手段包括設置路障阻擋抗議對象的人員進出等。美國東部的LGBT組織如、[女同性戀](../Page/女同性戀.md "wikilink")組織與等組織在[華盛頓](../Page/华盛顿哥伦比亚特区.md "wikilink")、[紐約或](https://zh.wikipedia.org/wiki/紐約 "wikilink")[費城](../Page/費城.md "wikilink")的總部或分會則組成東岸同志之友組織（，ECHO）以協調與組織示威遊行。由於人口稠密的大城市有相對較多的LGBT人群，ECHO常在這些城市組織遊行活動，同時他們也會對參加者的著裝作出規定，例如男性必須繫上[領帶](https://zh.wikipedia.org/wiki/領帶 "wikilink")、穿上夾克等；女性必須穿上裙子等。這些要求是由馬太辛協會創辦人所提出的，他意圖向人們展示，同性戀者是「體面且適宜僱用的」，並無與異性戀者有何異同。許多早期的示威者都繼續投入後來的同性戀解放運動。 {{-}}
 
 ## 事件
 
@@ -164,13 +162,7 @@
 
 </div>
 
-[Category:LGBT權利運動](https://zh.wikipedia.org/wiki/Category:LGBT權利運動 "wikilink")
-[Category:美國LGBT歷史](https://zh.wikipedia.org/wiki/Category:美國LGBT歷史 "wikilink")
-[Category:美國相關列表](https://zh.wikipedia.org/wiki/Category:美國相關列表 "wikilink")
-[Category:美國的騷亂或暴動](https://zh.wikipedia.org/wiki/Category:美國的騷亂或暴動 "wikilink")
-[Category:LGBT相關列表](https://zh.wikipedia.org/wiki/Category:LGBT相關列表 "wikilink")
-[Category:LGBT民权抗议示威](https://zh.wikipedia.org/wiki/Category:LGBT民权抗议示威 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:LGBT權利運動](https://zh.wikipedia.org/wiki/Category:LGBT權利運動 "wikilink") [Category:美國LGBT歷史](https://zh.wikipedia.org/wiki/Category:美國LGBT歷史 "wikilink") [Category:美國相關列表](https://zh.wikipedia.org/wiki/Category:美國相關列表 "wikilink") [Category:美國的騷亂或暴動](https://zh.wikipedia.org/wiki/Category:美國的騷亂或暴動 "wikilink") [Category:LGBT相關列表](https://zh.wikipedia.org/wiki/Category:LGBT相關列表 "wikilink") [Category:LGBT民权抗议示威](https://zh.wikipedia.org/wiki/Category:LGBT民权抗议示威 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.
 2.

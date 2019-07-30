@@ -8,7 +8,7 @@
   - 於五大唱片2010年度銷售榜1.76%位居十二名
     《上榜三個新人(HEBE.東城衛.嚴爵)之一》
   - 第一波主打曲-在你離開那一天-HitFm年度百首單曲NO.67
-  - 該專輯於[2011超級巨星紅白藝能大賞入圍新人票選](../Page/2011超級巨星紅白藝能大賞.md "wikilink").且以30000票獲選為新人第二
+  - 該專輯於[2011超級巨星紅白藝能大賞](../Page/2011超級巨星紅白藝能大賞.md "wikilink")入圍新人票選.且以30000票獲選為新人第二
 
 ## 曲目
 
@@ -108,7 +108,4 @@ friene</p></td>
 
   - [五大唱片年度銷售榜](http://www.5music.com.tw/CDTop-Year-2010-A.asp)
 
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:東城衞音樂專輯](https://zh.wikipedia.org/wiki/Category:東城衞音樂專輯 "wikilink")
-[Category:2010年迷你專輯](https://zh.wikipedia.org/wiki/Category:2010年迷你專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:東城衞音樂專輯](https://zh.wikipedia.org/wiki/Category:東城衞音樂專輯 "wikilink") [Category:2010年迷你專輯](https://zh.wikipedia.org/wiki/Category:2010年迷你專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

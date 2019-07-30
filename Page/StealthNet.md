@@ -1,5 +1,4 @@
-**StealthNet**是一個[匿名的](../Page/匿名.md "wikilink")[點對點技術](https://zh.wikipedia.org/wiki/點對點技術 "wikilink")[文件共享軟體](https://zh.wikipedia.org/wiki/文件共享 "wikilink")，以
-[RShare](../Page/RShare.md "wikilink") 用戶端為基礎，並且進行強化。
+**StealthNet**是一個[匿名](../Page/匿名.md "wikilink")的[點對點技術](https://zh.wikipedia.org/wiki/點對點技術 "wikilink")[文件共享軟體](https://zh.wikipedia.org/wiki/文件共享 "wikilink")，以 [RShare](../Page/RShare.md "wikilink") 用戶端為基礎，並且進行強化。
 
 ## 特點
 
@@ -24,7 +23,4 @@
 
   - [官方網站](http://www.stealthnet.de)
 
-[Category:開放原始碼](https://zh.wikipedia.org/wiki/Category:開放原始碼 "wikilink")
-[Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink")
-[Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink")
-[Category:匿名網路](https://zh.wikipedia.org/wiki/Category:匿名網路 "wikilink")
+[Category:開放原始碼](https://zh.wikipedia.org/wiki/Category:開放原始碼 "wikilink") [Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink") [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:匿名網路](https://zh.wikipedia.org/wiki/Category:匿名網路 "wikilink")

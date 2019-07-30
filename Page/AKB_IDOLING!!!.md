@@ -1,20 +1,17 @@
-**AKB
-IDOLING\!\!\!**（）是[美女甜甜圈](https://zh.wikipedia.org/wiki/美女甜甜圈 "wikilink")（IDOLING\!\!\!）與[AKB48成員組成的聯合組合](../Page/AKB48.md "wikilink")。
+**AKB IDOLING\!\!\!**（）是[美女甜甜圈](https://zh.wikipedia.org/wiki/美女甜甜圈 "wikilink")（IDOLING\!\!\!）與[AKB48](../Page/AKB48.md "wikilink")成員組成的聯合組合。
 
 ## 概要
 
-2009年1月召開的「偶像冠軍
-Push☆1」活動使兩個組合建立了聯合關係。雙方的選拔成員組成了組合並製作了樂曲，並在「[IDOLING\!\!\!](https://zh.wikipedia.org/wiki/IDOLING!!! "wikilink")」和「[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")」兩個節目中進行相互演出。
+2009年1月召開的「偶像冠軍 Push☆1」活動使兩個組合建立了聯合關係。雙方的選拔成員組成了組合並製作了樂曲，並在「[IDOLING\!\!\!](https://zh.wikipedia.org/wiki/IDOLING!!! "wikilink")」和「[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")」兩個節目中進行相互演出。
 
 ## 成員
 
-  - 根據日程情況，有可能讓各自所屬組合的成員作爲代演。AKB48主要由[宮澤佐江擔任代理](../Page/宮澤佐江.md "wikilink")。
+  - 根據日程情況，有可能讓各自所屬組合的成員作爲代演。AKB48主要由[宮澤佐江](../Page/宮澤佐江.md "wikilink")擔任代理。
   - 按照發表的時的設想，被看作是「進行成員交換」，1st單曲發售後大島（麻）從AKB48畢業，之後活動漸漸低迷，最終自然解散。
 
 ### 1st單曲選拔成員
 
-1st單曲『[啾一個！](../Page/啾一個！.md "wikilink")』選拔成員爲以下16人。
-由AKB48當時發表的成員組成\[1\]。
+1st單曲『[啾一個！](../Page/啾一個！.md "wikilink")』選拔成員爲以下16人。 由AKB48當時發表的成員組成\[1\]。
 
   - IDOLING\!\!\!
 
@@ -100,27 +97,20 @@ PCCA-02873</p></td>
 ### 綜藝節目
 
   - Push★1（2009年2月15日、[BS富士](../Page/BS富士.md "wikilink")）
-  - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")（2009年3月25日・4月1日、[日本電視台](../Page/日本電視台.md "wikilink")）
-    - 谷澤除外
+  - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")（2009年3月25日・4月1日、[日本電視台](../Page/日本電視台.md "wikilink")） - 谷澤除外
   - [IDOLING\!\!\!](https://zh.wikipedia.org/wiki/IDOLING!!! "wikilink")（2009年4月10日・14日・16日、富士電視台）
   - IDOLING\!\!\!日記（2009年4月7日・14日、[富士電視台](../Page/富士電視台.md "wikilink")）
-  - [音樂戰士 MUSIC
-    FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")（2009年4月17日、日本電視台）
-    - 松井珠理奈的代演是[宮澤佐江](../Page/宮澤佐江.md "wikilink")
-  - [魁\!音樂番付](https://zh.wikipedia.org/wiki/魁!音樂番付 "wikilink")
-    〜JET〜（2009年5月6日・13日、富士電視台）
-  - [HEY\!HEY\!HEY\!MUSIC
-    CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")（2009年6月1日、富士電視台）
+  - [音樂戰士 MUSIC FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")（2009年4月17日、日本電視台） - 松井珠理奈的代演是[宮澤佐江](../Page/宮澤佐江.md "wikilink")
+  - [魁\!音樂番付](https://zh.wikipedia.org/wiki/魁!音樂番付 "wikilink") 〜JET〜（2009年5月6日・13日、富士電視台）
+  - [HEY\!HEY\!HEY\!MUSIC CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")（2009年6月1日、富士電視台）
 
 ### 廣播
 
   - ON8（2009年3月30日、）- 遠藤、菊地、板野、前田
 
-  - （2009年4月1日、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")）-
-    遠藤、菊地、大島麻、大島優
+  - （2009年4月1日、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")）- 遠藤、菊地、大島麻、大島優
 
-  - 文化放送開局記念SP AKB IDOLING\!\!\!とチューしようぜ\!（2009年4月2日、文化放送） -
-    谷澤、酒井、三宅、板野、大島麻、前田敦
+  - 文化放送開局記念SP AKB IDOLING\!\!\!とチューしようぜ\!（2009年4月2日、文化放送） - 谷澤、酒井、三宅、板野、大島麻、前田敦
 
 ### 活動
 
@@ -140,9 +130,7 @@ PCCA-02873</p></td>
 
 <!-- end list -->
 
-  - [WEEKLY PLAYBOY](../Page/週刊Playboy.md "wikilink")
-    2009年4月20日号（2009年4月6日発売、[集英社](../Page/集英社.md "wikilink")）-
-    封面\[4\] 和卷頭凹版相片
+  - [WEEKLY PLAYBOY](../Page/週刊Playboy.md "wikilink") 2009年4月20日号（2009年4月6日発売、[集英社](../Page/集英社.md "wikilink")）- 封面\[4\] 和卷頭凹版相片
 
   - （2009年5月号、[學習研究社](https://zh.wikipedia.org/wiki/學習研究社 "wikilink")）
 
@@ -152,8 +140,7 @@ PCCA-02873</p></td>
 
 ## 外部連結
 
-  - [AKB
-    IDOLING\!\!\!官網](https://web.archive.org/web/20110917210224/http://www.ponycanyon.co.jp/akbidoling/pc_index.html)
+  - [AKB IDOLING\!\!\!官網](https://web.archive.org/web/20110917210224/http://www.ponycanyon.co.jp/akbidoling/pc_index.html)
 
 <!-- end list -->
 
@@ -172,14 +159,9 @@ PCCA-02873</p></td>
   - [AKB48官網](http://www.akb48.co.jp/)
   - [SKE48官網（松井珠所属）](http://www.ske48.co.jp/)
 
-[Category:美女甜甜圈！！！](https://zh.wikipedia.org/wiki/Category:美女甜甜圈！！！ "wikilink")
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
-[Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink")
+[Category:美女甜甜圈！！！](https://zh.wikipedia.org/wiki/Category:美女甜甜圈！！！ "wikilink") [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink") [Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink")
 
-1.  [武道館公演](../Page/日本武道館.md "wikilink")（「[AKB48全国巡演
-    (2009年)](https://zh.wikipedia.org/wiki/AKB48全国巡演_\(2009年\) "wikilink")」）後成員更新發生了大幅變動。再者，小野由于留學原因在2010年9月27日舉行的[AKB48劇場公演後畢業了](../Page/AKB48劇場.md "wikilink")。
+1.  [武道館公演](../Page/日本武道館.md "wikilink")（「[AKB48全国巡演 (2009年)](https://zh.wikipedia.org/wiki/AKB48全国巡演_\(2009年\) "wikilink")」）後成員更新發生了大幅變動。再者，小野由于留學原因在2010年9月27日舉行的[AKB48劇場](../Page/AKB48劇場.md "wikilink")公演後畢業了。
 2.  2009年4月26日從AKB48畢業，6月1日從AKB IDOLING\!\!\!畢業。
 3.  單曲選拔成員發布時不屬于AKB48任何一隊，現在是SKE48 Team S所属。
 4.  封面及第8頁，遠藤、外岡、橫山、板野、小嶋、前田敦

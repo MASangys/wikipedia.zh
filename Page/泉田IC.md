@@ -17,11 +17,9 @@
 ## 鄰近設施
 
   - [東北中央自動車道](../Page/東北中央自動車道.md "wikilink")（[泉田道路](https://zh.wikipedia.org/wiki/泉田道路 "wikilink")）
-    [新-{庄}-北IC](https://zh.wikipedia.org/wiki/新庄北IC "wikilink") -
-    **泉田IC**（建設中）
+    [新-{庄}-北IC](https://zh.wikipedia.org/wiki/新庄北IC "wikilink") - **泉田IC**（建設中）
   - [東北中央自動車道](../Page/東北中央自動車道.md "wikilink")
-    **泉田IC**（建設中） -
-    [金山IC](https://zh.wikipedia.org/wiki/金山IC "wikilink")
+    **泉田IC**（建設中） - [金山IC](https://zh.wikipedia.org/wiki/金山IC "wikilink")
 
 ## 相關項目
 
@@ -31,5 +29,4 @@
 
   - [東日本高速道路](http://www.e-nexco.co.jp/)
 
-[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink")
-[Category:山形縣交流道](https://zh.wikipedia.org/wiki/Category:山形縣交流道 "wikilink")
+[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink") [Category:山形縣交流道](https://zh.wikipedia.org/wiki/Category:山形縣交流道 "wikilink")

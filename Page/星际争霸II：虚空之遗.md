@@ -82,7 +82,7 @@
 
 ### 星海爭霸II：諾娃特務密令
 
-是[星海爭霸系列的最新任務組合包](../Page/星海爭霸系列.md "wikilink")，《星海爭霸II：虛空之遺》的外傳，以幽能特務諾娃·泰拉為故事核心。總共發行三部曲，每部曲皆有三個任務，目前三部曲已在2016年11月24日全部發行。\[6\]
+是[星海爭霸系列](../Page/星海爭霸系列.md "wikilink")的最新任務組合包，《星海爭霸II：虛空之遺》的外傳，以幽能特務諾娃·泰拉為故事核心。總共發行三部曲，每部曲皆有三個任務，目前三部曲已在2016年11月24日全部發行。\[6\]
 
 ### 合作模式指揮官
 
@@ -92,8 +92,7 @@
 
 除了每個種族預設的語音，玩家還可購買播報員在多人對戰中使用，每個播報員都擁有獨特的語音，並且所有播報員在任何種族皆可使用。
 
-目前的播報員有阿巴瑟、雷諾、亞坦尼斯、凱莉根、史汪、亞拉瑞克、D.VA、諾娃、菲尼克斯、TotalBiscuit、SCBOY（[黃旭東](https://zh.wikipedia.org/wiki/黃旭東 "wikilink")&[孫一峰](https://zh.wikipedia.org/wiki/孫一峰 "wikilink")）、[盛竹如等](../Page/盛竹如.md "wikilink")。\[8\]
-\[9\]
+目前的播報員有阿巴瑟、雷諾、亞坦尼斯、凱莉根、史汪、亞拉瑞克、D.VA、諾娃、菲尼克斯、TotalBiscuit、SCBOY（[黃旭東](https://zh.wikipedia.org/wiki/黃旭東 "wikilink")&[孫一峰](https://zh.wikipedia.org/wiki/孫一峰 "wikilink")）、[盛竹如](../Page/盛竹如.md "wikilink")等。\[8\] \[9\]
 
 ## 参考文献
 
@@ -101,15 +100,7 @@
 
   - [《星海爭霸ll》官方網站](http://tw.battle.net/sc2/zh/)
 
-[Category:暴雪娱乐游戏](https://zh.wikipedia.org/wiki/Category:暴雪娱乐游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink")
-[Category:科幻电子游戏](https://zh.wikipedia.org/wiki/Category:科幻电子游戏 "wikilink")
-[Category:军事科幻电子游戏](https://zh.wikipedia.org/wiki/Category:军事科幻电子游戏 "wikilink")
-[Category:星際爭霸系列](https://zh.wikipedia.org/wiki/Category:星際爭霸系列 "wikilink")
-[Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:暴雪娱乐游戏](https://zh.wikipedia.org/wiki/Category:暴雪娱乐游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:科幻电子游戏](https://zh.wikipedia.org/wiki/Category:科幻电子游戏 "wikilink") [Category:军事科幻电子游戏](https://zh.wikipedia.org/wiki/Category:军事科幻电子游戏 "wikilink") [Category:星際爭霸系列](https://zh.wikipedia.org/wiki/Category:星際爭霸系列 "wikilink") [Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 
 1.  <https://www.youtube.com/watch?v=6TH3NlDbgDA>
 2.  <http://www.ettoday.net/news/20141108/423403.htm>
@@ -118,6 +109,5 @@
 5.  <http://mag.udn.com/mag/digital/storypage.jsp?f_MAIN_ID=321&f_SUB_ID=2945&f_ART_ID=544611>
 6.  <https://tw.battle.net/shop/zh/product/starcraft-ii-nova-covert-ops>
 7.  <http://tw.battle.net/sc2/zh/blog/19930660/%E3%80%8A%E8%99%9B%E7%A9%BA%E4%B9%8B%E9%81%BA%E3%80%8B-%E5%90%88%E4%BD%9C%E4%BB%BB%E5%8B%99%E6%A8%A1%E5%BC%8F-2015-10-31>
-8.  [《星海爭霸®II》播報員
-    -battle.net商店](https://tw.battle.net/shop/zh/product/starcraft-ii-announcers)
+8.  [《星海爭霸®II》播報員 -battle.net商店](https://tw.battle.net/shop/zh/product/starcraft-ii-announcers)
 9.  <http://tw.battle.net/sc2/zh/blog/20303038/%E6%9B%B4%E6%96%B0%E6%AA%9437%E9%A0%90%E8%A6%BD%EF%BC%9A%E6%94%B6%E8%97%8F%E5%93%81-%E6%92%AD%E5%A0%B1%E5%93%A1%E3%80%81%E9%80%A0%E5%9E%8B%E9%82%84%E6%9C%89%E6%9B%B4%E5%A4%9A%EF%BC%81-2016-10-7>

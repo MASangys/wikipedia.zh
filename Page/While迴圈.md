@@ -1,8 +1,6 @@
-在[程式語言中](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，**while迴圈**（）是一種[控制流程的](../Page/控制流程.md "wikilink")[陳述](https://zh.wikipedia.org/wiki/陳述_\(程式\) "wikilink")。利用一個返回结果为[布林值](https://zh.wikipedia.org/wiki/布爾_\(數據類型\) "wikilink")（Boolean）的表达式作為循环條件，当这个表达式的返回值为“真”（true）时，则反覆執行循环体内的程式碼；若表达式的返回值为“假”（false），则不再执行循环体内的代码，继续执行循环体下面的代码。
+在[程式語言中](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，**while迴圈**（）是一種[控制流程](../Page/控制流程.md "wikilink")的[陳述](https://zh.wikipedia.org/wiki/陳述_\(程式\) "wikilink")。利用一個返回结果为[布林值](https://zh.wikipedia.org/wiki/布爾_\(數據類型\) "wikilink")（Boolean）的表达式作為循环條件，当这个表达式的返回值为“真”（true）时，则反覆執行循环体内的程式碼；若表达式的返回值为“假”（false），则不再执行循环体内的代码，继续执行循环体下面的代码。
 
-因為while迴圈在區塊內代碼被執行之前，先檢查[陳述是否成立](https://zh.wikipedia.org/wiki/陳述_\(程式\) "wikilink")，因此這種[控制流程通常被稱為是一種前測試迴圈](../Page/控制流程.md "wikilink")（pre-test
-loop）。相對而言[do
-while迴圈](https://zh.wikipedia.org/wiki/do-while循环 "wikilink")，是在迴圈區塊執行結束之後，再去檢查[陳述是否成立](https://zh.wikipedia.org/wiki/陳述_\(程式\) "wikilink")，被稱為是後測試迴圈。
+因為while迴圈在區塊內代碼被執行之前，先檢查[陳述是否成立](https://zh.wikipedia.org/wiki/陳述_\(程式\) "wikilink")，因此這種[控制流程](../Page/控制流程.md "wikilink")通常被稱為是一種前測試迴圈（pre-test loop）。相對而言[do while迴圈](https://zh.wikipedia.org/wiki/do-while循环 "wikilink")，是在迴圈區塊執行結束之後，再去檢查[陳述是否成立](https://zh.wikipedia.org/wiki/陳述_\(程式\) "wikilink")，被稱為是後測試迴圈。
 
 ## 程式範例
 
@@ -58,5 +56,4 @@ public static void main(str args[]){
   - [for循环](https://zh.wikipedia.org/wiki/for循环 "wikilink")
   - [迭代](../Page/迭代器.md "wikilink")
 
-[Category:控制流程](https://zh.wikipedia.org/wiki/Category:控制流程 "wikilink")
-[Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink")
+[Category:控制流程](https://zh.wikipedia.org/wiki/Category:控制流程 "wikilink") [Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink")

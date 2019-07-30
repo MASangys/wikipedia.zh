@@ -1,8 +1,5 @@
 好言娛樂有限公司\[1\] | 唱片公司 = 喜歡音樂（製作）
-[環球音樂](../Page/環球音樂_\(台灣\).md "wikilink")（發行） | 現任成員 =
-請參閱[成員](https://zh.wikipedia.org/wiki/#成員 "wikilink") | 過往成員 =
-請參閱[前成員](https://zh.wikipedia.org/wiki/#前成員 "wikilink") | 相關團體 =
-[AKB48](../Page/AKB48.md "wikilink")
+[環球音樂](../Page/環球音樂_\(台灣\).md "wikilink")（發行） | 現任成員 = 請參閱[成員](https://zh.wikipedia.org/wiki/#成員 "wikilink") | 過往成員 = 請參閱[前成員](https://zh.wikipedia.org/wiki/#前成員 "wikilink") | 相關團體 = [AKB48](../Page/AKB48.md "wikilink")
 [SKE48](../Page/SKE48.md "wikilink")
 [NMB48](../Page/NMB48.md "wikilink")
 [HKT48](../Page/HKT48.md "wikilink")
@@ -15,24 +12,19 @@
 [SGO48](../Page/SGO48.md "wikilink")
 [CGM48](../Page/CGM48.md "wikilink")
 [DEL48](../Page/DEL48.md "wikilink")
-[MUB48](../Page/MUB48.md "wikilink") | 官方網站 = [AKB48 Team TP
-官方網站](http://www.akb48teamtp.com) }}
+[MUB48](../Page/MUB48.md "wikilink") | 官方網站 = [AKB48 Team TP 官方網站](http://www.akb48teamtp.com) }}
 
-**AKB48 Team
-TP**是由[日本作詞家](../Page/日本.md "wikilink")[秋元康擔任總製作人](../Page/秋元康.md "wikilink")\[2\]、音乐制作人[陳子鴻负责营运的](../Page/陳子鴻.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")，為[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48在海外的姊妹團體之一](../Page/AKB48.md "wikilink")，以[台北為基地展開活動](../Page/臺北.md "wikilink")。該團體的前身為**TPE48**，於2017年中開始籌備，2018年2月4日團員正式公開亮相；原預計2018年6月在[樂壇](../Page/音樂產業.md "wikilink")[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")\[3\]\[4\]，後來因營運公司發生財務危機，導致活動暂时停止。2018年7月30日，AKB48的營運公司[AKS通过传媒宣布解除原營運公司有關TPE](../Page/AKS.md "wikilink")48的[授权合约](https://zh.wikipedia.org/wiki/特許經營 "wikilink")，除了接手經營與團體改為現名之外，也在台灣成立「好言娛樂有限公司」做為營運單位\[5\]\[6\]\[7\]\[8\]\[9\]，之後於同年8月26日首次以新團名正式公开亮相\[10\]。
+**AKB48 Team TP**是由[日本](../Page/日本.md "wikilink")作詞家[秋元康](../Page/秋元康.md "wikilink")擔任總製作人\[2\]、音乐制作人[陳子鴻](../Page/陳子鴻.md "wikilink")负责营运的[臺灣](../Page/臺灣.md "wikilink")[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")，為[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")在海外的姊妹團體之一，以[台北為基地展開活動](../Page/臺北.md "wikilink")。該團體的前身為**TPE48**，於2017年中開始籌備，2018年2月4日團員正式公開亮相；原預計2018年6月在[樂壇](../Page/音樂產業.md "wikilink")[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")\[3\]\[4\]，後來因營運公司發生財務危機，導致活動暂时停止。2018年7月30日，AKB48的營運公司[AKS](../Page/AKS.md "wikilink")通过传媒宣布解除原營運公司有關TPE48的[授权合约](https://zh.wikipedia.org/wiki/特許經營 "wikilink")，除了接手經營與團體改為現名之外，也在台灣成立「好言娛樂有限公司」做為營運單位\[5\]\[6\]\[7\]\[8\]\[9\]，之後於同年8月26日首次以新團名正式公开亮相\[10\]。
 
 ## 簡介
 
 [AKB48_Team_TP_Logo.svg](https://zh.wikipedia.org/wiki/File:AKB48_Team_TP_Logo.svg "fig:AKB48_Team_TP_Logo.svg")
 
-AKB48 Team
-TP及其前身——**TPE48**，是[AKB48集團在海外成立的第](../Page/AKB48集團.md "wikilink")3批姊妹團體之一（其餘為[BNK48與](../Page/BNK48.md "wikilink")[MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")）、以及繼[中國](../Page/中國.md "wikilink")[上海的](https://zh.wikipedia.org/wiki/上海 "wikilink")[SNH48之後在](https://zh.wikipedia.org/wiki/SNH48 "wikilink")[華語圈成立的第](https://zh.wikipedia.org/wiki/華語圈 "wikilink")2個姊妹團體，其秉持[AKB48](../Page/AKB48.md "wikilink")「可以面對面的偶像」\[11\]之概念，以[臺北為據點展開活動](../Page/臺北.md "wikilink")。当初團體名稱中「**TPE**」以所在地台北（**T**ai**PE**i）命名，代表色為以漸層設計配色的「橘黃色」，靈感來自台灣的代表性水果[芒果](../Page/芒果.md "wikilink")\[12\]。TPE48的團體營運採[特許經營方式](https://zh.wikipedia.org/wiki/特許經營 "wikilink")，由AKB48的營運公司[AKS與台灣在地企業共同合作](../Page/AKS.md "wikilink")。
+AKB48 Team TP及其前身——**TPE48**，是[AKB48集團](../Page/AKB48集團.md "wikilink")在海外成立的第3批姊妹團體之一（其餘為[BNK48](../Page/BNK48.md "wikilink")與[MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")）、以及繼[中國](../Page/中國.md "wikilink")[上海的](https://zh.wikipedia.org/wiki/上海 "wikilink")[SNH48之後在](https://zh.wikipedia.org/wiki/SNH48 "wikilink")[華語圈成立的第](https://zh.wikipedia.org/wiki/華語圈 "wikilink")2個姊妹團體，其秉持[AKB48](../Page/AKB48.md "wikilink")「可以面對面的偶像」\[11\]之概念，以[臺北](../Page/臺北.md "wikilink")為據點展開活動。当初團體名稱中「**TPE**」以所在地台北（**T**ai**PE**i）命名，代表色為以漸層設計配色的「橘黃色」，靈感來自台灣的代表性水果[芒果](../Page/芒果.md "wikilink")\[12\]。TPE48的團體營運採[特許經營方式](https://zh.wikipedia.org/wiki/特許經營 "wikilink")，由AKB48的營運公司[AKS](../Page/AKS.md "wikilink")與台灣在地企業共同合作。
 
-AKB48以台北为据点創立姐妹团体的構想始於2011年，當時AKS與[吉本興業台灣支社合作](../Page/吉本興業.md "wikilink")\[13\]筹办TPE48，原預計2012年開始組團工作，但雙方在籌備工作上遲遲未能達成共識，因而在2012下半年後中斷；2015年4月，AKS舉辦「AKB48台灣徵選活動」\[14\]，直接在台灣召募[AKB48成員在日本活動](../Page/AKB48成員列表.md "wikilink")；同年8月，該徵選最終結果公布，勝出者組成「**AKB48台灣研究生**」，以AKB48在台預備成員的身分進行培訓，當中包括了同年底獲選赴日、隔年成為AKB48首位外籍正式成員的[馬嘉伶](../Page/馬嘉伶.md "wikilink")。
+AKB48以台北为据点創立姐妹团体的構想始於2011年，當時AKS與[吉本興業](../Page/吉本興業.md "wikilink")台灣支社合作\[13\]筹办TPE48，原預計2012年開始組團工作，但雙方在籌備工作上遲遲未能達成共識，因而在2012下半年後中斷；2015年4月，AKS舉辦「AKB48台灣徵選活動」\[14\]，直接在台灣召募[AKB48成員在日本活動](../Page/AKB48成員列表.md "wikilink")；同年8月，該徵選最終結果公布，勝出者組成「**AKB48台灣研究生**」，以AKB48在台預備成員的身分進行培訓，當中包括了同年底獲選赴日、隔年成為AKB48首位外籍正式成員的[馬嘉伶](../Page/馬嘉伶.md "wikilink")。
 
-2016年3月26日，AKS再次宣布啟動TPE48的組團計畫，並在2017年9月1日至10月1日進行一期生的募集\[15\]；AKB48台灣研究生則以類似種子選手的身分，納入TPE48一期生的徵選人選中。依照營運方的規劃，TPE48將於2018年6月正式[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")\[16\]\[17\]，但之后因營運公司「熙曜娛樂」發生財務危機，導致活動暂时停止。2018年7月30日，AKS通过传媒宣布解除與熙曜娛樂有關TPE48的授权合约，除了將團體重組改為「**AKB48
-Team
-TP**」之外，也將在台灣成立公司做為營運單位\[18\]\[19\]\[20\]\[21\]。新團名中的「**TP**」與TPE48一樣取自台北（**T**ai**P**ei），代表色則仍延續TPE48時期的橘黃色，惟漸層方式有所變化。
+2016年3月26日，AKS再次宣布啟動TPE48的組團計畫，並在2017年9月1日至10月1日進行一期生的募集\[15\]；AKB48台灣研究生則以類似種子選手的身分，納入TPE48一期生的徵選人選中。依照營運方的規劃，TPE48將於2018年6月正式[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")\[16\]\[17\]，但之后因營運公司「熙曜娛樂」發生財務危機，導致活動暂时停止。2018年7月30日，AKS通过传媒宣布解除與熙曜娛樂有關TPE48的授权合约，除了將團體重組改為「**AKB48 Team TP**」之外，也將在台灣成立公司做為營運單位\[18\]\[19\]\[20\]\[21\]。新團名中的「**TP**」與TPE48一樣取自台北（**T**ai**P**ei），代表色則仍延續TPE48時期的橘黃色，惟漸層方式有所變化。
 
 ### AKB48台灣研究生
 
@@ -49,77 +41,49 @@ AKB48台灣研究生（簡稱台研）由2015年舉行的AKB48台灣徵選活動
 
 ### 2011年
 
-10月1日，AKB48營運方首次於部落格公開TPE48計畫\[25\]，並有消息指出[中天電視為台灣方面的合作夥伴](../Page/中天電視.md "wikilink")\[26\]。
+10月1日，AKB48營運方首次於部落格公開TPE48計畫\[25\]，並有消息指出[中天電視](../Page/中天電視.md "wikilink")為台灣方面的合作夥伴\[26\]。
 
 ### 2012年
 
-4月6日，AKB48營運方宣布即將展開TPE48成員召募\[27\]。7月4日，[AKB48成員](../Page/AKB48.md "wikilink")[北原里英訪台](../Page/北原里英.md "wikilink")，再次宣布啟動TPE48計畫\[28\]。11月5日，日本媒体报道TPE48计划将延至明年夏天，实际日期未定\[29\]，之後營運沒有發表TPE48相關的籌備訊息，組團計畫形同擱置。
+4月6日，AKB48營運方宣布即將展開TPE48成員召募\[27\]。7月4日，[AKB48](../Page/AKB48.md "wikilink")成員[北原里英](../Page/北原里英.md "wikilink")訪台，再次宣布啟動TPE48計畫\[28\]。11月5日，日本媒体报道TPE48计划将延至明年夏天，实际日期未定\[29\]，之後營運沒有發表TPE48相關的籌備訊息，組團計畫形同擱置。
 
 ### 2014年
 
-12月7日，AKB48營運方在[台北](../Page/臺北市.md "wikilink")[ATT Show
-Box舉行的](https://zh.wikipedia.org/wiki/ATT_Show_Box "wikilink")[HKT48台北公演上](../Page/HKT48.md "wikilink")，臨時宣布將在台灣舉辦[AKB48集團成員的徵選活動](../Page/AKB48集團.md "wikilink")，詳細方法與時程日後公布\[30\]，惟並無提及徵選活動是否與組成TPE48有關。
+12月7日，AKB48營運方在[台北](../Page/臺北市.md "wikilink")[ATT Show Box舉行的](https://zh.wikipedia.org/wiki/ATT_Show_Box "wikilink")[HKT48](../Page/HKT48.md "wikilink")台北公演上，臨時宣布將在台灣舉辦[AKB48集團](../Page/AKB48集團.md "wikilink")成員的徵選活動，詳細方法與時程日後公布\[30\]，惟並無提及徵選活動是否與組成TPE48有關。
 
 ### 2015年
 
 4月1日，AKB48營運方正式宣布舉行「AKB48台灣徵選活動」，是AKB48首次在海外舉辦的成員徵選活動，勝出者可赴日成為AKB48一員。AKB48營運方先行在AKB48官方的Youtube頻道放上活動預告影片，稍晚公布徵選條件，其中規定參加者居住地必須是台灣\[31\]。經過書面遴選、現場面試等兩次初步審查後，入選者在7月起舉行集訓以篩選出合格成員\[32\]。
 
-8月6日，AKB48營運方於台北[松山文創園區內的](../Page/松山文化創意園區.md "wikilink")[臺北文創大樓舉行記者會](../Page/臺北文創.md "wikilink")，公布AKB48台灣徵選活動的17位合格成員（報名徵選者共2,152位），其中最年輕者為11歲，最年長者為21歲。合格成員們暫定以AKB48「台灣研究生」的名義，先留在台灣進行歌唱和舞蹈等訓練課程，其後預定以AKB48研究生之身分在日本參與演藝活動\[33\]\[34\]。
+8月6日，AKB48營運方於台北[松山文創園區內的](../Page/松山文化創意園區.md "wikilink")[臺北文創](../Page/臺北文創.md "wikilink")大樓舉行記者會，公布AKB48台灣徵選活動的17位合格成員（報名徵選者共2,152位），其中最年輕者為11歲，最年長者為21歲。合格成員們暫定以AKB48「台灣研究生」的名義，先留在台灣進行歌唱和舞蹈等訓練課程，其後預定以AKB48研究生之身分在日本參與演藝活動\[33\]\[34\]。
 
 12月15日，在[東京巨蛋城表演廳舉行的](https://zh.wikipedia.org/wiki/東京巨蛋城表演廳 "wikilink")「第5回AKB48紅白對抗歌合戰」上，透過插播影片正式介紹AKB48的台灣研究生[馬嘉伶](../Page/馬嘉伶.md "wikilink")。隨後她上台以日文自我介紹，並以中日文演唱《[無限重播](../Page/無限重播.md "wikilink")》。\[35\]
 
 ### 2016年
 
-2月21日，AKB48營運方在《[紅唇Be My
-Baby](../Page/紅唇Be_My_Baby.md "wikilink")》的握手會上，宣布馬嘉伶以等同於正式成員的「台灣留學生」身分升格並成為AKB48
-Team
-B成員\[36\]。3月17日，AKS拜會[東森國際](../Page/東森國際.md "wikilink")，雙方擬共同打造TPE48\[37\]。3月26日，AKB48營運方於[日本](../Page/日本.md "wikilink")[橫濱球場舉行的](../Page/橫濱球場.md "wikilink")[高橋南](../Page/高橋南.md "wikilink")[畢業演唱會第一天場次上](../Page/畢業_\(演藝界\).md "wikilink")，宣布將在日本以外創立3個新的姊妹團體，包括在台灣台北成立TPE48、在[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[馬尼拉成立](https://zh.wikipedia.org/wiki/馬尼拉 "wikilink")[MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")、以及在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷成立](../Page/曼谷.md "wikilink")[BNK48](../Page/BNK48.md "wikilink")\[38\]。
+2月21日，AKB48營運方在《[紅唇Be My Baby](../Page/紅唇Be_My_Baby.md "wikilink")》的握手會上，宣布馬嘉伶以等同於正式成員的「台灣留學生」身分升格並成為AKB48 Team B成員\[36\]。3月17日，AKS拜會[東森國際](../Page/東森國際.md "wikilink")，雙方擬共同打造TPE48\[37\]。3月26日，AKB48營運方於[日本](../Page/日本.md "wikilink")[橫濱球場](../Page/橫濱球場.md "wikilink")舉行的[高橋南](../Page/高橋南.md "wikilink")[畢業演唱會第一天場次上](../Page/畢業_\(演藝界\).md "wikilink")，宣布將在日本以外創立3個新的姊妹團體，包括在台灣台北成立TPE48、在[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[馬尼拉成立](https://zh.wikipedia.org/wiki/馬尼拉 "wikilink")[MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")、以及在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")成立[BNK48](../Page/BNK48.md "wikilink")\[38\]。
 
 ### 2017年
 
-3月30日，AKB48台灣官方專門店會員俱樂部於官方臉書貼文，AKB48 Team
-8成員[岡部麟](../Page/岡部麟.md "wikilink")、[小栗有以及](../Page/小栗有以.md "wikilink")[山田菜菜美將在](../Page/山田菜菜美.md "wikilink")4月30日於Y17
-花漾Hana展演空間舉辦《AKB48 Fan Meeting in TAIWAN》
-簽名及握手會，AKB48台灣研究生屆時將擔任暖場嘉賓\[39\]。7月5日，AKB48台灣官方專門店會員俱樂部於官方臉書貼文，AKB48
-Team B成員[木崎由里亞](../Page/木崎由里亞.md "wikilink")、Team
-A成員[橫山由依及Team](../Page/橫山由依.md "wikilink")
-K成員[島田晴香將在](../Page/島田晴香.md "wikilink")7月9日於Y17
-花漾Hana展演空間舉辦《AKB48 Fan Meeting in TAIWAN》
-簽名及握手會，AKB48台灣研究生屆時將擔任暖場嘉賓。7月9日，主辦單位於《AKB48
-Fan Meeting in
-TAIWAN》播出緊急特報，宣布於9月1日正式展開TPE48第一期生的徵選活動\[40\]。AKB48集團總監督[橫山由依隨後也在個人推特宣布此項消息](../Page/橫山由依.md "wikilink")\[41\]\[42\]。
+3月30日，AKB48台灣官方專門店會員俱樂部於官方臉書貼文，AKB48 Team 8成員[岡部麟](../Page/岡部麟.md "wikilink")、[小栗有以](../Page/小栗有以.md "wikilink")及[山田菜菜美](../Page/山田菜菜美.md "wikilink")將在4月30日於Y17 花漾Hana展演空間舉辦《AKB48 Fan Meeting in TAIWAN》 簽名及握手會，AKB48台灣研究生屆時將擔任暖場嘉賓\[39\]。7月5日，AKB48台灣官方專門店會員俱樂部於官方臉書貼文，AKB48 Team B成員[木崎由里亞](../Page/木崎由里亞.md "wikilink")、Team A成員[橫山由依](../Page/橫山由依.md "wikilink")及Team K成員[島田晴香](../Page/島田晴香.md "wikilink")將在7月9日於Y17 花漾Hana展演空間舉辦《AKB48 Fan Meeting in TAIWAN》 簽名及握手會，AKB48台灣研究生屆時將擔任暖場嘉賓。7月9日，主辦單位於《AKB48 Fan Meeting in TAIWAN》播出緊急特報，宣布於9月1日正式展開TPE48第一期生的徵選活動\[40\]。AKB48集團總監督[橫山由依](../Page/橫山由依.md "wikilink")隨後也在個人推特宣布此項消息\[41\]\[42\]。
 
-9月1日，負責TPE48營運工作的熙曜娛樂，在[台北](../Page/臺北市.md "wikilink")[信義商圈](https://zh.wikipedia.org/wiki/信義商圈 "wikilink")「Mercedes-Benz
-Pop Up Taipei」舉行TPE48一期生徵選活動開跑記者會，除了AKB48台灣研究生、AKB48 Team B台籍成員馬嘉伶與AKB48
-Team
-K成員[阿部瑪利亞共同出席之外](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")，阿部瑪利亞也在記者會上宣布將移籍TPE48\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]。而做為徵選活動宣傳的一環，AKB48台灣研究生陳詩媛、陳詩雅與旅台日本藝人[Takeshi從](https://zh.wikipedia.org/wiki/喜瀨健 "wikilink")9月2日起展開連續10天的「48環島Go！尋找TPE女孩」環台巡迴活動\[49\]\[50\]。
+9月1日，負責TPE48營運工作的熙曜娛樂，在[台北](../Page/臺北市.md "wikilink")[信義商圈](https://zh.wikipedia.org/wiki/信義商圈 "wikilink")「Mercedes-Benz Pop Up Taipei」舉行TPE48一期生徵選活動開跑記者會，除了AKB48台灣研究生、AKB48 Team B台籍成員馬嘉伶與AKB48 Team K成員[阿部瑪利亞共同出席之外](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")，阿部瑪利亞也在記者會上宣布將移籍TPE48\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]。而做為徵選活動宣傳的一環，AKB48台灣研究生陳詩媛、陳詩雅與旅台日本藝人[Takeshi從](https://zh.wikipedia.org/wiki/喜瀨健 "wikilink")9月2日起展開連續10天的「48環島Go！尋找TPE女孩」環台巡迴活動\[49\]\[50\]。
 
-10月6日，AKB48台灣官方專門店會員俱樂部於官方臉書貼文，HKT48 Team
-H成員[指原莉乃](../Page/指原莉乃.md "wikilink")、AKB48 Team
-B／NGT48 Team NIII成員[柏木由紀及AKB](../Page/柏木由紀.md "wikilink")48 Team
-K成員[峯岸南將在](../Page/峯岸南.md "wikilink")11月11日於Y17
-花漾Hana展演空間舉辦《AKB48 Fan Meeting in TAIWAN》
-簽名及握手會，AKB48台灣研究生屆時將擔任暖場嘉賓\[51\]。
+10月6日，AKB48台灣官方專門店會員俱樂部於官方臉書貼文，HKT48 Team H成員[指原莉乃](../Page/指原莉乃.md "wikilink")、AKB48 Team B／NGT48 Team NIII成員[柏木由紀](../Page/柏木由紀.md "wikilink")及AKB48 Team K成員[峯岸南](../Page/峯岸南.md "wikilink")將在11月11日於Y17 花漾Hana展演空間舉辦《AKB48 Fan Meeting in TAIWAN》 簽名及握手會，AKB48台灣研究生屆時將擔任暖場嘉賓\[51\]。
 
-11月10日，2017[亞洲職棒冠軍爭霸賽熱身賽首日](../Page/亞洲職棒冠軍爭霸賽.md "wikilink")，AKB48台灣研究生、部分進入TPE48第三階段審查的候選者、中華職棒四球團加油團長及12位LamiGirls一起為[中華代表隊加油](../Page/中華成棒隊.md "wikilink")\[52\]\[53\]，活動實況於TPE48官方臉書直播。
+11月10日，2017[亞洲職棒冠軍爭霸賽](../Page/亞洲職棒冠軍爭霸賽.md "wikilink")熱身賽首日，AKB48台灣研究生、部分進入TPE48第三階段審查的候選者、中華職棒四球團加油團長及12位LamiGirls一起為[中華代表隊加油](../Page/中華成棒隊.md "wikilink")\[52\]\[53\]，活動實況於TPE48官方臉書直播。
 
-11月26日，AKB48台灣研究生邱品涵、林倢代表TPE48以「AKB48世界選拔成員」的身分至日本參加[NHK特別節目](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")《SONGS
-OF
-TOKYO》的錄影，與AKB48家族各團體的選拔成員同台表演（包含JKT48、BNK48等海外姐妹團）。該節目將在2018年1月2日於[NHK
-World
-TV首播](https://zh.wikipedia.org/wiki/NHK_World_TV "wikilink")\[54\]\[55\]。
+11月26日，AKB48台灣研究生邱品涵、林倢代表TPE48以「AKB48世界選拔成員」的身分至日本參加[NHK特別節目](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")《SONGS OF TOKYO》的錄影，與AKB48家族各團體的選拔成員同台表演（包含JKT48、BNK48等海外姐妹團）。該節目將在2018年1月2日於[NHK World TV首播](https://zh.wikipedia.org/wiki/NHK_World_TV "wikilink")\[54\]\[55\]。
 
-11月30日，阿部瑪利亞在[AKB48劇場舉行移籍前最後](../Page/AKB48劇場.md "wikilink")[公演兼送行會](../Page/AKB48劇場公演.md "wikilink")，AKB48台灣研究生陳詩媛、陳詩雅、邱品涵、林倢等6人特地赴日登台參與，而曾為Team
-K隊友的NGT48隊長[北原里英也在公演上驚喜登場](../Page/北原里英.md "wikilink")\[56\]。
+11月30日，阿部瑪利亞在[AKB48劇場](../Page/AKB48劇場.md "wikilink")舉行移籍前最後[公演兼送行會](../Page/AKB48劇場公演.md "wikilink")，AKB48台灣研究生陳詩媛、陳詩雅、邱品涵、林倢等6人特地赴日登台參與，而曾為Team K隊友的NGT48隊長[北原里英](../Page/北原里英.md "wikilink")也在公演上驚喜登場\[56\]。
 
 ### 2018年
 
-1月2日，播出的《SONGS OF TOKYO》（[NHK World
-TV](https://zh.wikipedia.org/wiki/NHK_World_TV "wikilink")）中，台湾研究生邱品涵、林倢代表TPE48以AKB48世界選拔成員身分出演。这也是以TPE48名义参与的第一档节目。
+1月2日，播出的《SONGS OF TOKYO》（[NHK World TV](https://zh.wikipedia.org/wiki/NHK_World_TV "wikilink")）中，台湾研究生邱品涵、林倢代表TPE48以AKB48世界選拔成員身分出演。这也是以TPE48名义参与的第一档节目。
 
 2月4日，一期生徵選最終結果公布，合格者共45位，其中包括AKB48台灣研究生全員6名、以及受到媒體矚目的前職棒球員[陳致遠之女陳琳](https://zh.wikipedia.org/wiki/陳致遠 "wikilink")\[57\]\[58\]\[59\]。TPE48營運方並發表以下7項TPE48的媒體合作消息\[60\]：
 
-1.  宣布TPE48劇場將於臺北市內開設，公演將以[擴增實境科技方式呈現](../Page/擴增實境.md "wikilink")，開幕日期及地點則未定。
+1.  宣布TPE48劇場將於臺北市內開設，公演將以[擴增實境](../Page/擴增實境.md "wikilink")科技方式呈現，開幕日期及地點則未定。
 2.  將提供「隨身偶像」服務（[SNS導向服務](../Page/社交網路服務.md "wikilink")）。
 3.  將代言「[Aikatsu！偶像學園](../Page/Aikatsu！偶像活動！.md "wikilink")」。
 4.  與時尚雜誌《[ViVi](../Page/ViVi.md "wikilink")》及《》合作，將在兩雜誌上做為模特兒登場。
@@ -127,46 +91,33 @@ TV](https://zh.wikipedia.org/wiki/NHK_World_TV "wikilink")）中，台湾研究�
 6.  推出「TPE48村落生活」同步線上直播，「村長」由長期與TPE48籌團活動合作的旅台日本藝人Takeshi擔任，預計4月13日「入村」。
 7.  預計在同年5月舉行首場Fan Meeting（粉絲見面會）。
 
-3月10日，TPE48與其他[AKB48集團旗下團體同步舉行](../Page/AKB48集團.md "wikilink")「AKB48集團中心測驗」\[61\]，該測驗考進前16名的成員，將能以特別選拔之身份演唱AKB48的單曲\[62\]。TPE48首個活動「梯批壹村」（TPE村；即上述所提的「TPE48村落生活」）在公布村民選拔人選後於同日正式開始\[63\]。其后，官方網站上正式公布成員資料，通過一期生最終審查的45人中，有39人正式簽約入團\[64\]，其中12人為正式成員、27人為研究生；加上從AKB48移籍的阿部瑪利亞，TPE48創始成員人數為40人\[65\]。
+3月10日，TPE48與其他[AKB48集團](../Page/AKB48集團.md "wikilink")旗下團體同步舉行「AKB48集團中心測驗」\[61\]，該測驗考進前16名的成員，將能以特別選拔之身份演唱AKB48的單曲\[62\]。TPE48首個活動「梯批壹村」（TPE村；即上述所提的「TPE48村落生活」）在公布村民選拔人選後於同日正式開始\[63\]。其后，官方網站上正式公布成員資料，通過一期生最終審查的45人中，有39人正式簽約入團\[64\]，其中12人為正式成員、27人為研究生；加上從AKB48移籍的阿部瑪利亞，TPE48創始成員人數為40人\[65\]。
 
 #### TPE48營運方爆發經營危機
 
 2018年6月，負責經營TPE48的熙曜娛樂被媒體報導截至6月15日止，已超過3個月沒有給付員工薪水，甚至許多員工替公司先支付的代墊款項也沒有領到，總金額超過300萬台幣。熙曜娛樂員工從3月開始就延遲支付薪資，現在約20人的公司已經超過10名員工自請非自願離職另謀出路。不僅拖欠薪水，TPE48正式成員簽約時，合約條款中每月需支付正式成員薪資，也僅僅支付過一次，日前TPE48於網路製播的節目「梯批壹村」，外製單位委由製作人柯柏羽錄製，至今也未支付製作費用。另有员工指出董事長許育榮擅自更改發薪日、積欠勞健保費及勞工退休金等，甚至向多位員工借錢，加上公司高層偏袒某些特定成員，已經造成TPE48士氣低落，甚至有在成员面前喝酒、帶著酒氣到舞蹈教室探班等离谱行为\[66\]，目前公司營運完全停擺，超過40名少女的星夢也面臨危机。內部員工表示：「其實日本已經知道我們的狀況，也派了律師來處理。但我們擔心影響成員的心情，一直不太敢把事情全部說出來。」\[67\]
 
-7月9日，TPE48官方網站無預警關閉，經查證後發現熙曜娛樂負責人仍舊避不見面，員工不但領不到薪水、代墊款，連阿部瑪利亞都一度繳不出房租，只能暫時先回到日本\[68\]。12日，AKB48官方公布之前经由網路直播平台[SHOWROOM决定人选的](../Page/SHOWROOM.md "wikilink")「[TGC富山](../Page/東京女孩展演.md "wikilink")2018」TPE48成員登台演出也因TPE48營運方面的問題而取消\[69\]。截至7月24日，因事件依旧没有解決的跡象，已有成員家屬委請律師處理解約相關事宜\[70\]。
+7月9日，TPE48官方網站無預警關閉，經查證後發現熙曜娛樂負責人仍舊避不見面，員工不但領不到薪水、代墊款，連阿部瑪利亞都一度繳不出房租，只能暫時先回到日本\[68\]。12日，AKB48官方公布之前经由網路直播平台[SHOWROOM](../Page/SHOWROOM.md "wikilink")决定人选的「[TGC富山](../Page/東京女孩展演.md "wikilink")2018」TPE48成員登台演出也因TPE48營運方面的問題而取消\[69\]。截至7月24日，因事件依旧没有解決的跡象，已有成員家屬委請律師處理解約相關事宜\[70\]。
 
 #### 團體改組為「AKB48 Team TP」
 
-7月30日，AKS通过传媒宣布与台湾「海鐿娛樂科技股份有限公司」合資成立的熙曜娛樂解除授權合約，將在台灣成立子公司「阿克斯娛樂有限公司」接手TPE48的營運工作（該公司後來定名為「好言娛樂有限公司」），並將TPE48改組及更名為「AKB48
-Team
-TP」\[71\]\[72\]\[73\]\[74\]\[75\]，聲明中另外表示，AKS對於熙曜娛樂的欠款部分無法提供協助，現階段只能專注新團體的營運工作\[76\]；同日，AKB48
-Team TP的官方Instagram、YouTube频道、Facebook专页亦正式上線。
+7月30日，AKS通过传媒宣布与台湾「海鐿娛樂科技股份有限公司」合資成立的熙曜娛樂解除授權合約，將在台灣成立子公司「阿克斯娛樂有限公司」接手TPE48的營運工作（該公司後來定名為「好言娛樂有限公司」），並將TPE48改組及更名為「AKB48 Team TP」\[71\]\[72\]\[73\]\[74\]\[75\]，聲明中另外表示，AKS對於熙曜娛樂的欠款部分無法提供協助，現階段只能專注新團體的營運工作\[76\]；同日，AKB48 Team TP的官方Instagram、YouTube频道、Facebook专页亦正式上線。
 
-8月26日，AKB48 Team TP於台北世界貿易中心观光文化展之“第4回Touch The Japan in
-台湾”中首次公开亮相\[77\]。担任營運公司總經理的知名音乐制作人[陳子鴻也一同登场](../Page/陳子鴻.md "wikilink")。原TPE48成员35人成为现时AKB48
-Team
-TP的成员\[78\]，成員年齡介於12歲到23歲，共有12名正式成員與23名研究生。營運公司已開始著手規劃她們的後續活動及作品，也将继续TPE48时期承接的遊戲「Aikatsu！偶像學園」的代言工作\[79\]\[80\]。陳子鴻受訪時表示，目前已啟動發片計畫，包含拍照、粉絲俱樂部經營、單曲等等，營運公司將「抱著學習的精神」，加入台灣特有風格以及日本原本的精神，創造出獨特團體\[81\]。
+8月26日，AKB48 Team TP於台北世界貿易中心观光文化展之“第4回Touch The Japan in 台湾”中首次公开亮相\[77\]。担任營運公司總經理的知名音乐制作人[陳子鴻](../Page/陳子鴻.md "wikilink")也一同登场。原TPE48成员35人成为现时AKB48 Team TP的成员\[78\]，成員年齡介於12歲到23歲，共有12名正式成員與23名研究生。營運公司已開始著手規劃她們的後續活動及作品，也将继续TPE48时期承接的遊戲「Aikatsu！偶像學園」的代言工作\[79\]\[80\]。陳子鴻受訪時表示，目前已啟動發片計畫，包含拍照、粉絲俱樂部經營、單曲等等，營運公司將「抱著學習的精神」，加入台灣特有風格以及日本原本的精神，創造出獨特團體\[81\]。
 
-11月4日，營運單位於官方Facebook中公布首張單曲的12位選拔成員\[82\]。12月23日，Team
-TP首場粉絲見面會於台北[三創生活園區舉行](https://zh.wikipedia.org/wiki/三創生活園區 "wikilink")\[83\]，活動當日宣布由陳詩雅擔任首任队长。12月25日，正式發行首張單曲《[勇往直前](../Page/勇往直前_\(AKB48_Team_TP單曲\).md "wikilink")》\[84\]。
+11月4日，營運單位於官方Facebook中公布首張單曲的12位選拔成員\[82\]。12月23日，Team TP首場粉絲見面會於台北[三創生活園區舉行](https://zh.wikipedia.org/wiki/三創生活園區 "wikilink")\[83\]，活動當日宣布由陳詩雅擔任首任队长。12月25日，正式發行首張單曲《[勇往直前](../Page/勇往直前_\(AKB48_Team_TP單曲\).md "wikilink")》\[84\]。
 
 ### 2019年
 
-1月13日，於三創生活園區5樓舉行首張單曲《勇往直前》握手會。1月19日－20日，出席2019第七屆TICA台北國際動漫節\[85\]。1月27日，於泰國曼谷舉辦的「AKB48
-Group Asia Festival 2019 in BANGKOK Presented by SHANDA
-GAMES」中與來自世界各地的姐妹團一同演出\[86\]。
+1月13日，於三創生活園區5樓舉行首張單曲《勇往直前》握手會。1月19日－20日，出席2019第七屆TICA台北國際動漫節\[85\]。1月27日，於泰國曼谷舉辦的「AKB48 Group Asia Festival 2019 in BANGKOK Presented by SHANDA GAMES」中與來自世界各地的姐妹團一同演出\[86\]。
 
 3月6日，研究生李孟純因多次違反公司藝人規定暂停活动\[87\]。11日，冼迪琦因違反成員行為條例暫停活動\[88\]。5月6日，二人在停權期間充分反省自身的過錯且在培訓課程中表現良好，營運團隊決議即日起解除兩位成員的停權處分\[89\]。
 
 3月13日，官方網站正式上線\[90\]。3月20日，公布數位單曲選拔成員\[91\]，上述數位單曲《綠草地上的奇蹟》將於4月15日正式上線\[92\]。
 
-4月13日，參與「第一屆台日紅白歌合戰」演出，日籍成員阿部瑪利亞将参与主持\[93\]。4月14日，將出席「2019台北國際連鎖加盟大展」廠商宣傳活動\[94\]。4月20日，将參與「2019
-SUPER BAND 團團轉演唱會」演出\[95\]。
+4月13日，參與「第一屆台日紅白歌合戰」演出，日籍成員阿部瑪利亞将参与主持\[93\]。4月14日，將出席「2019台北國際連鎖加盟大展」廠商宣傳活動\[94\]。4月20日，将參與「2019 SUPER BAND 團團轉演唱會」演出\[95\]。
 
-5月20日，於[浪Live直播中公布第二張單曲的](../Page/浪Live.md "wikilink")12位選拔成員\[96\]，同时宣布将于6月15日举办“AKB48
-Team TP Fan Meeting～夏日祭典～”\[97\]。在6月15日举办的“AKB48 Team TP Fan
-Meeting～夏日祭典～”中，研究生刘晓晴及林于馨获宣布升格为正式成员\[98\]。7月2日，公布第二張單曲主打歌《TTP
-Festival》相關資訊，中心成員由林于馨擔任\[99\]\[100\]。
+5月20日，於[浪Live](../Page/浪Live.md "wikilink")直播中公布第二張單曲的12位選拔成員\[96\]，同时宣布将于6月15日举办“AKB48 Team TP Fan Meeting～夏日祭典～”\[97\]。在6月15日举办的“AKB48 Team TP Fan Meeting～夏日祭典～”中，研究生刘晓晴及林于馨获宣布升格为正式成员\[98\]。7月2日，公布第二張單曲主打歌为《TTP Festival》，中心成員由林于馨擔任\[99\]\[100\]。
 
 ## 成員
 
@@ -471,11 +422,11 @@ Oyama Mirei</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/董子瑄.md" title="wikilink">董子瑄</a></p></td>
+<td><p>董子瑄</p></td>
 <td><p>Tung Zih-syuan</p></td>
 <td></td>
 <td><p>台北市</p></td>
-<td></td>
+<td><p>将于2019年8月1日起因個人學業規劃暫停活動[108]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -548,7 +499,7 @@ Oyama Mirei</p></td>
 <td><p>2018年8月25日之前</p></td>
 <td><p>正</p></td>
 <td><p>與成员陳詩雅為雙胞胎姊妹<br />
-現為组合<a href="https://zh.wikipedia.org/wiki/5TEAM" title="wikilink">5TEAM队长</a>[108]</p></td>
+現為组合<a href="https://zh.wikipedia.org/wiki/5TEAM" title="wikilink">5TEAM队长</a>[109]</p></td>
 </tr>
 <tr class="odd">
 <td><p>李晨熙</p></td>
@@ -597,7 +548,7 @@ Oyama Mirei</p></td>
 
 ### TPE48一期生
 
-  - 徵選資格\[109\]：
+  - 徵選資格\[110\]：
 
 <!-- end list -->
 
@@ -619,7 +570,7 @@ Oyama Mirei</p></td>
 
 <!-- end list -->
 
-  - 最終審查合格名單\[110\]
+  - 最終審查合格名單\[111\]
     （總計45人；標示**粗體字**為AKB48 Team TP於2018年8月26日首次公開亮相时之在籍成员）
     黃子晴、**張法法**、**潘姿怡**、**李佳俐**、**劉語晴**、**王逸嘉**、**林易沄**、**蔡亞恩**、陳暐、**賈宜蓁**、**小山美玲**、**周佳郁**、李晨熙、李恩妘、**邱品涵**、翁立霏、**林倢**、**林于馨**、**劉曉晴**、**蔡伊柔**、**冼迪琦**、陳嘉希、**柏靈**、**李孟純**、張競、**藤井麻由**、**高云珏**、**張羽翎**、**林潔心**、**國興瑀**、**鄭妤葳**、**董子瑄**、**劉潔明**、**陳詩雅**、溫晨君、**曾詩羽**、陳詩媛、**李采潔**、**鄭佳郁**、**羅瑞婷**、**本田柚萱**、陳琳、**高硯晨**、**林家瑩**、劉姸廷
 
@@ -655,7 +606,7 @@ Oyama Mirei</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月1日</p></td>
-<td><p>阿部瑪利亞正式移籍至TPE48[111]</p></td>
+<td><p>阿部瑪利亞正式移籍至TPE48[112]</p></td>
 <td><p>+1</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -670,7 +621,7 @@ Oyama Mirei</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月10日</p></td>
-<td><p>TPE48活動開始[112]</p></td>
+<td><p>TPE48活動開始[113]</p></td>
 <td><p>+38</p></td>
 <td><p>39</p></td>
 <td><p>13</p></td>
@@ -784,20 +735,13 @@ Oyama Mirei</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>未定</p></td>
+<td><p>2019年7月26日</p></td>
 <td><p>TTP Festival<br />
 （Team Surprise《<a href="https://zh.wikipedia.org/wiki/CR柏青哥AKB48#重力共鳴公演" title="wikilink">AKB Festival</a>》中文版）</p></td>
-<td><p><a href="../Page/CDDA.md" title="wikilink">CD</a>+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></p></td>
-<td></td>
+<td><p>CD+DVD</p></td>
+<td><p>EMCD1906</p></td>
 </tr>
 <tr class="odd">
-<td><p>CD+DVD</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></p></td>
 <td></td>
 <td></td>
@@ -815,7 +759,6 @@ Oyama Mirei</p></td>
 <th><p>張數</p></th>
 <th><p>发售日</p></th>
 <th><p>名称</p></th>
-<th><p>發售型態</p></th>
 </tr>
 </thead>
 <tbody>
@@ -824,7 +767,6 @@ Oyama Mirei</p></td>
 <td><p>2019年4月15日</p></td>
 <td><p>綠草地上的奇蹟<br />
 （AKB48《<a href="../Page/Team_K_3rd_Stage“脑内天堂”.md" title="wikilink">草原的奇迹</a>》中文版）</p></td>
-<td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -842,17 +784,15 @@ Oyama Mirei</p></td>
 | 公开时间          | 歌曲                                                            | 导演        | 备注                         |
 | ------------- | ------------------------------------------------------------- | --------- | -------------------------- |
 | TPE48         |                                                               |           |                            |
-| 2017年9月       | 《[恋爱的幸运饼干](https://zh.wikipedia.org/wiki/恋爱的幸运饼干 "wikilink")》 |           | 林倢、邱品涵\[113\]              |
-| 2018年1月       | 《[向前走](../Page/向前走.md "wikilink")》                            | 黃原 Circle | 阿部瑪利亞、TPE48第1期甄选参加者\[114\] |
+| 2017年9月       | 《[恋爱的幸运饼干](https://zh.wikipedia.org/wiki/恋爱的幸运饼干 "wikilink")》 |           | 林倢、邱品涵\[114\]              |
+| 2018年1月       | 《[向前走](../Page/向前走.md "wikilink")》                            | 黃原 Circle | 阿部瑪利亞、TPE48第1期甄选参加者\[115\] |
 | AKB48 Team TP |                                                               |           |                            |
 | 2018          | 《[勇往直前](../Page/勇往直前_\(AKB48_Team_TP單曲\).md "wikilink")》      | 黃原 Circle |                            |
 | 2019          | 《[櫻花瓣](../Page/勇往直前_\(AKB48_Team_TP單曲\).md "wikilink")》       | 黃原        |                            |
 
 ## 媒体出演
 
-  - 《Team
-    TP青春週記》（2019年3月14日－4月3日，每周四，[KKBOX](../Page/KKBOX.md "wikilink")
-    速爆音樂台）\[115\]
+  - 《Team TP青春週記》（2019年3月14日－4月3日，每周四，[KKBOX](../Page/KKBOX.md "wikilink") 速爆音樂台）\[116\]
 
 ## 活動
 
@@ -883,7 +823,7 @@ Presented by SHANDA GAMES</p></td>
 <td><p>泰國曼谷Impact Arena</p></td>
 <td><p>陳詩雅、劉語晴、邱品涵、阿部瑪利亞、潘姿怡、<br />
 曾詩羽、劉潔明、林于馨、冼迪琦、李孟純</p></td>
-<td><p>[116]</p></td>
+<td><p>[117]</p></td>
 </tr>
 <tr class="odd">
 <td><p>AKB48 Group Asia Festival 2019 in SHANGHAI</p></td>
@@ -891,14 +831,14 @@ Presented by SHANDA GAMES</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/国家会展中心_(上海)" title="wikilink">上海國家會展中心</a></p></td>
 <td><p>邱品涵、冼迪琦、阿部瑪利亞、陳詩雅、<br />
 劉語晴、林于馨、劉潔明、劉曉晴</p></td>
-<td><p>[117][118][119]</p></td>
+<td><p>[118][119][120]</p></td>
 </tr>
 <tr class="even">
 <td><p>AKB48 in Taipei 2019～Are You Ready For It?</p></td>
 <td><p>2019年10月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北小巨蛋" title="wikilink">台北小巨蛋</a></p></td>
 <td><p>待定</p></td>
-<td><p>特別嘉賓[120]</p></td>
+<td><p>特別嘉賓[121]</p></td>
 </tr>
 <tr class="odd">
 <td><p>其他演唱會</p></td>
@@ -912,7 +852,7 @@ Presented by SHANDA GAMES</p></td>
 <td><p>2018年12月8日</p></td>
 <td><p>台北<a href="../Page/圓山大飯店.md" title="wikilink">圓山大飯店</a></p></td>
 <td><p>《勇往直前》选拔组</p></td>
-<td><p>[121]</p></td>
+<td><p>[122]</p></td>
 </tr>
 <tr class="odd">
 <td><p>第一屆台日紅白歌合戰</p></td>
@@ -920,15 +860,15 @@ Presented by SHANDA GAMES</p></td>
 <td><p>台北<a href="https://zh.wikipedia.org/wiki/PIPE_Live_Music" title="wikilink">PIPE Live Music</a></p></td>
 <td><p>阿部瑪利亞、陳詩雅、劉語晴、邱品涵、潘姿怡、林于馨</p></td>
 <td><p>阿部瑪利亞同时担任主持<br />
-[122]</p></td>
+[123]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019 SUPER BAND 團團轉演唱會</p></td>
 <td><p>2019年4月20日</p></td>
-<td><p><a href="../Page/台北國際會議中心.md" title="wikilink">台北國際會議中心大會堂</a></p></td>
+<td><p><a href="../Page/台北國際會議中心.md" title="wikilink">台北國際會議中心</a>大會堂</p></td>
 <td><p>陳詩雅、劉語晴、邱品涵、阿部瑪利亞、潘姿怡、曾詩羽、<br />
 張羽翎、劉潔明、林于馨、劉曉晴、李佳俐、柏靈</p></td>
-<td><p>[123]</p></td>
+<td><p>[124]</p></td>
 </tr>
 </tbody>
 </table>
@@ -965,7 +905,7 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 <td><p>首張單曲《勇往直前》握手會</p></td>
 <td><p>2019年1月13日</p></td>
 <td><p>台北三創生活園區</p></td>
-<td><p>全员</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -974,14 +914,28 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 <td><p>2019年5月19日</p></td>
 <td><p>台北TAV Cafe藝術村餐坊</p></td>
 <td><p>《綠草地上的奇蹟》选拔成员</p></td>
-<td><p>[124]</p></td>
+<td><p>[125]</p></td>
 </tr>
 <tr class="odd">
 <td><p>AKB48 Team TP Fan Meeting～夏日祭典～</p></td>
 <td><p>2019年6月15日</p></td>
-<td><p><a href="../Page/松山文化創意園區.md" title="wikilink">台北市松山文化創意園區二樓多功能展演廳</a></p></td>
+<td><p>台北市<a href="../Page/松山文化創意園區.md" title="wikilink">松山文化創意園區</a>二樓多功能展演廳</p></td>
 <td><p>全員</p></td>
-<td><p>[125]</p></td>
+<td><p>[126]</p></td>
+</tr>
+<tr class="even">
+<td><p>第二張單曲《TTP Festival》握手會</p></td>
+<td><p>2019年9月29日</p></td>
+<td><p>[127]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1039,7 +993,7 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>偶像學員全台巡迴體驗會</p></td>
+<td><p>偶像學園全台巡迴體驗會</p></td>
 <td><p>2019年3月24日</p></td>
 <td><p>台北TOYWORLD美麗華</p></td>
 <td><p>潘姿怡、邱品涵</p></td>
@@ -1078,21 +1032,21 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 <td><p>2019年4月14日</p></td>
 <td><p>台北世貿一館A區大會舞台</p></td>
 <td><p>陳詩雅、邱品涵、劉語晴、阿部瑪利亞、潘姿怡、劉潔明</p></td>
-<td><p>[126]</p></td>
+<td><p>[128]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019海峡两岸电竞文化节暨上海电竞嘉年华</p></td>
 <td><p>2019年7月3日</p></td>
 <td><p><a href="../Page/上海光大会展中心.md" title="wikilink">上海光大会展中心</a></p></td>
 <td><p>陳詩雅、邱品涵、劉語晴</p></td>
-<td><p>[127][128]</p></td>
+<td><p>[129][130]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Guild Friends ULTRA LIVE Vol.1 in TAIPEI</p></td>
 <td><p>2019年8月18日</p></td>
 <td><p>台北三創生活園區</p></td>
 <td><p>陳詩雅、冼迪琦、邱品涵、阿部瑪利亞、劉語晴、劉潔明</p></td>
-<td><p>[129]</p></td>
+<td><p>[131]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1106,10 +1060,9 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 
 ## 廣告代言
 
-  - 2018年台灣無國界醫院展－劉語晴、邱品涵、陳詩雅\[130\]
-  - 「[Aikatsu！偶像學園](../Page/Aikatsu！偶像活動！.md "wikilink")」－阿部瑪利亞、冼迪琦、邱品涵、本田柚萱、張羽翎、潘姿怡\[131\]
-  - [微风南山](../Page/微風廣場.md "wikilink")「HIGH X
-    Breeze微風南山」（2019年2月）\[132\]－《勇往直前》选拔组
+  - 2018年台灣無國界醫院展－劉語晴、邱品涵、陳詩雅\[132\]
+  - 「[Aikatsu！偶像學園](../Page/Aikatsu！偶像活動！.md "wikilink")」－阿部瑪利亞、冼迪琦、邱品涵、本田柚萱、張羽翎、潘姿怡\[133\]
+  - [微风南山](../Page/微風廣場.md "wikilink")「HIGH X Breeze微風南山」（2019年2月）\[134\]－阿部瑪利亞、劉語晴、冼迪琦、林倢、林易沄、劉曉晴、陳詩雅、賈宜蓁、劉潔明、邱品涵、潘姿怡、張羽翎、曾詩羽、林于馨、李孟純、董子瑄、蔡伊柔、周佳郁、高云珏、李佳俐、李采潔、蔡亞恩、柏靈、張法法
   - [新北市一日女警](https://zh.wikipedia.org/wiki/新北市政府警察局 "wikilink")（2019年5月31日）－劉語晴、劉潔明
 
 ## 註釋與參考文獻
@@ -1152,17 +1105,11 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
       -
 {{-}}
 
-[Category:AKB48_Team_TP](https://zh.wikipedia.org/wiki/Category:AKB48_Team_TP "wikilink")
-[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink")
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
-[Category:台北市文化](https://zh.wikipedia.org/wiki/Category:台北市文化 "wikilink")
-[Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:台灣名數48](https://zh.wikipedia.org/wiki/Category:台灣名數48 "wikilink")
+[Category:AKB48_Team_TP](https://zh.wikipedia.org/wiki/Category:AKB48_Team_TP "wikilink") [Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:台北市文化](https://zh.wikipedia.org/wiki/Category:台北市文化 "wikilink") [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:台灣名數48](https://zh.wikipedia.org/wiki/Category:台灣名數48 "wikilink")
 
 1.
 
-2.  包括日本国外组合在內的[AKB48家族各團均由](../Page/AKB48集團.md "wikilink")[秋元康擔任總製作人](../Page/秋元康.md "wikilink")。
+2.  包括日本国外组合在內的[AKB48家族各團均由](../Page/AKB48集團.md "wikilink")[秋元康](../Page/秋元康.md "wikilink")擔任總製作人。
 
 3.
 4.
@@ -1270,7 +1217,7 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 
 60.
 
-61. 「中心測驗」（）的語源為「」，即日本各大學的聯合入學考試，由[文部科學省所轄](../Page/文部科學省.md "wikilink")[獨立行政法人機構](https://zh.wikipedia.org/wiki/獨立行政法人 "wikilink")「」舉辦。
+61. 「中心測驗」（）的語源為「」，即日本各大學的聯合入學考試，由[文部科學省](../Page/文部科學省.md "wikilink")所轄[獨立行政法人機構](https://zh.wikipedia.org/wiki/獨立行政法人 "wikilink")「」舉辦。
 
 62.
 
@@ -1359,41 +1306,39 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 108.
 
 109.
+
 110.
-
 111.
-112. 正式成員及研究生個人資料稍後於3月12日在官方網站公布。
 
-113.
+112.
+113. 正式成員及研究生個人資料稍後於3月12日在官方網站公布。
 
 114.
 
 115.
 
 116.
-117.
 
+117.
 118.
 
 119.
 
 120.
 
-121. [「COOL JAPAN FEST 2018」盛大展開AKB48 Team
-     TP首度參戰](https://atctwn.com/2018/12/08/26678/)－ATC Taiwan
-     2018.12.08
+121.
 
-122.
+122. [「COOL JAPAN FEST 2018」盛大展開AKB48 Team TP首度參戰](https://atctwn.com/2018/12/08/26678/)－ATC Taiwan 2018.12.08
+
 123.
 124.
-
 125.
 
 126.
+
 127.
 
 128.
-
 129.
 
 130.
@@ -1401,3 +1346,7 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 131.
 
 132.
+
+133.
+
+134.

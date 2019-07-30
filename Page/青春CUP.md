@@ -1,5 +1,4 @@
-《**青春CUP**》（）是[日本](../Page/日本.md "wikilink")漫画家[中田ゆみ的作品](https://zh.wikipedia.org/wiki/中田ゆみ "wikilink")，為[雙葉社月刊漫畫雑誌](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")《[Comic
-High\!](https://zh.wikipedia.org/wiki/Comic_High! "wikilink")》所連載校園漫画。改編的電視動畫於2010年1月於日本播放，漫畫由臺灣東立出版社代理發行。
+《**青春CUP**》（）是[日本](../Page/日本.md "wikilink")漫画家[中田ゆみ的作品](https://zh.wikipedia.org/wiki/中田ゆみ "wikilink")，為[雙葉社月刊漫畫雑誌](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")《[Comic High\!](https://zh.wikipedia.org/wiki/Comic_High! "wikilink")》所連載校園漫画。改編的電視動畫於2010年1月於日本播放，漫畫由臺灣東立出版社代理發行。
 
 ## 简介
 
@@ -76,8 +75,7 @@ High\!](https://zh.wikipedia.org/wiki/Comic_High! "wikilink")》所連載校園�
   - 监督：
   - 系列构成：[吉田玲子](../Page/吉田玲子.md "wikilink")
   - 人物设定：[谷津美弥子](https://zh.wikipedia.org/wiki/谷津美弥子 "wikilink")
-  - 音乐制作：[STAR
-    CHILD](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")
+  - 音乐制作：[STAR CHILD](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")
   - 动画制作：[ZEXCS](../Page/ZEXCS.md "wikilink")
 
 ### 主题曲
@@ -296,11 +294,7 @@ High\!](https://zh.wikipedia.org/wiki/Comic_High! "wikilink")》所連載校園�
 
   - [ちゅーぶら\!\!トレーディングカード公式サイト](https://web.archive.org/web/20110802012836/http://gracia-card.com/chubra.html)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Comic_High\!](https://zh.wikipedia.org/wiki/Category:Comic_High! "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:2010年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2010年日本電視動畫 "wikilink")
-[Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Comic_High\!](https://zh.wikipedia.org/wiki/Category:Comic_High! "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:2010年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2010年日本電視動畫 "wikilink") [Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink")
 
 1.  弥子读的各单行本的标题有：STEP.1『剣豪伝説』、STEP.2『家康的影武者』、STEP.3『戦国武\*\*\*（以下不明）』、STEP.4『信長的野望』、STEP.5『最後的武士3』等等。其它集数中登场时也有描写她在一边读单行本一边走路的样子。
 2.  第1話周二播放。

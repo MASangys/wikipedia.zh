@@ -2,13 +2,11 @@
 
 ## 历史
 
-1999年，Wordfast由伊夫·商博良创立于法国巴黎。在翻译与本地化产业中，商博良作为自由译者、项目经理和顾问，25年有余，经验丰富。[伊夫·商博良](http://www.champollion.net)是成功译解罗塞塔石碑的埃及学家[让-弗朗索瓦·商博良的旁系子孙](../Page/让-弗朗索瓦·商博良.md "wikilink")。
+1999年，Wordfast由伊夫·商博良创立于法国巴黎。在翻译与本地化产业中，商博良作为自由译者、项目经理和顾问，25年有余，经验丰富。[伊夫·商博良](http://www.champollion.net)是成功译解罗塞塔石碑的埃及学家[让-弗朗索瓦·商博良](../Page/让-弗朗索瓦·商博良.md "wikilink")的旁系子孙。
 
-1999年，伊夫·商博良开发了最初的Wordfast软件，它由一整套宏命令组成，可以在微软Word
-97或更高版本中运行。截至2002年底，这个基于微软Word的工具（现称为Wordfast经典版）是一个免费软件。通过口口相传，在译者最常使用的翻译记忆软件中，Wordfast位居第二。
+1999年，伊夫·商博良开发了最初的Wordfast软件，它由一整套宏命令组成，可以在微软Word 97或更高版本中运行。截至2002年底，这个基于微软Word的工具（现称为Wordfast经典版）是一个免费软件。通过口口相传，在译者最常使用的翻译记忆软件中，Wordfast位居第二。
 
-2009年1月，Wordfast发布了Wordfast翻译工作室版（Wordfast Translation
-Studio），它包括Wordfast经典版和Wordfast专业版。后者是一个独立、基于Java的翻译记忆工具。
+2009年1月，Wordfast发布了Wordfast翻译工作室版（Wordfast Translation Studio），它包括Wordfast经典版和Wordfast专业版。后者是一个独立、基于Java的翻译记忆工具。
 
 ## 产品
 
@@ -34,18 +32,17 @@ Wordfast软件为用户提供了Wordfast翻译工作室版。根据WFTS协议，
 
 ## 支持的源文件格式
 
-Wordfast经典版可以处理以下格式：任何[微软Word可以读取的格式](https://zh.wikipedia.org/wiki/微软Word "wikilink")，包括纯文本文件，Word文档（doc）[，](https://zh.wikipedia.org/wiki/， "wikilink")
-微软Excel（XLS）[，PowerPoint（PPT）](https://zh.wikipedia.org/wiki/，PowerPoint（PPT） "wikilink")，[富文本格式（RTF）以及带标签的RTF与HTML](https://zh.wikipedia.org/wiki/富文本格式（RTF） "wikilink")。它不直接支持[OpenOffice格式](https://zh.wikipedia.org/wiki/OpenOffice "wikilink")，因为微软Word的当前版本没有针对OpenOffice文档的导入过滤器。
+Wordfast经典版可以处理以下格式：任何[微软Word可以读取的格式](https://zh.wikipedia.org/wiki/微软Word "wikilink")，包括纯文本文件，Word文档（doc）[，](https://zh.wikipedia.org/wiki/， "wikilink") 微软Excel（XLS）[，PowerPoint（PPT）](https://zh.wikipedia.org/wiki/，PowerPoint（PPT） "wikilink")，[富文本格式（RTF）以及带标签的RTF与HTML](https://zh.wikipedia.org/wiki/富文本格式（RTF） "wikilink")。它不直接支持[OpenOffice格式](https://zh.wikipedia.org/wiki/OpenOffice "wikilink")，因为微软Word的当前版本没有针对OpenOffice文档的导入过滤器。
 
-Wordfast专业版可以处理Word文档（doc），微软Excel（XLS），PowerPoint（PPT），HTML，[XML](../Page/XML.md "wikilink")，[ASP](https://zh.wikipedia.org/wiki/ASP "wikilink")，[JSP](../Page/JSP.md "wikilink")，[Java和](../Page/Java.md "wikilink")[InDesign](https://zh.wikipedia.org/wiki/InDesign "wikilink")（INX）。
+Wordfast专业版可以处理Word文档（doc），微软Excel（XLS），PowerPoint（PPT），HTML，[XML](../Page/XML.md "wikilink")，[ASP](https://zh.wikipedia.org/wiki/ASP "wikilink")，[JSP](../Page/JSP.md "wikilink")，[Java](../Page/Java.md "wikilink")和[InDesign](https://zh.wikipedia.org/wiki/InDesign "wikilink")（INX）。
 
 ## 支持的翻译记忆和词汇表格式
 
-Wordfast经典版与Wordfast专业版的[翻译记忆格式](https://zh.wikipedia.org/wiki/翻译记忆 "wikilink")，都是简单的制表符分隔的文本文件，可以在[文本编辑器中打开并编辑](../Page/文本编辑器.md "wikilink")。Wordfast还可以导入和导出TMX文件，与其他主要商业机辅工具进行交流翻译记忆。
+Wordfast经典版与Wordfast专业版的[翻译记忆格式](https://zh.wikipedia.org/wiki/翻译记忆 "wikilink")，都是简单的制表符分隔的文本文件，可以在[文本编辑器](../Page/文本编辑器.md "wikilink")中打开并编辑。Wordfast还可以导入和导出TMX文件，与其他主要商业机辅工具进行交流翻译记忆。
 
 单个翻译记忆中最多可存储1百万个单位。翻译记忆和词汇表的语序可以颠倒，这样可以随时切换源语和目标语。
 
-Wordfast可以利用基于服务器的翻译记忆，并从[机器翻译工具](../Page/机器翻译.md "wikilink")（包括[谷歌在线翻译工具](https://zh.wikipedia.org/wiki/谷歌在线翻译 "wikilink")）中检索数据。
+Wordfast可以利用基于服务器的翻译记忆，并从[机器翻译](../Page/机器翻译.md "wikilink")工具（包括[谷歌在线翻译工具](https://zh.wikipedia.org/wiki/谷歌在线翻译 "wikilink")）中检索数据。
 
 Wordfast的[词汇表格式是简单的制表符分隔文本文件](https://zh.wikipedia.org/wiki/词汇表 "wikilink")。Wordfast专业版还可以导入TBX文件。
 

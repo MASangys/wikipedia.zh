@@ -2,8 +2,6 @@
 
 ## 參考資料
 
-  - [Tvtime - Ubuntu 正體中文
-    Wiki](http://wiki.ubuntu-tw.org/index.php?title=Tvtime)
+  - [Tvtime - Ubuntu 正體中文 Wiki](http://wiki.ubuntu-tw.org/index.php?title=Tvtime)
 
-[Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink")
-[Category:Linux軟體](https://zh.wikipedia.org/wiki/Category:Linux軟體 "wikilink")
+[Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink") [Category:Linux軟體](https://zh.wikipedia.org/wiki/Category:Linux軟體 "wikilink")

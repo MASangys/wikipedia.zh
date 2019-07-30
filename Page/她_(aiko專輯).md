@@ -1,4 +1,4 @@
-《**她**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")7張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2006年8月23日發行。
+《**她**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")7張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2006年8月23日發行。
 
 ## 簡介
 
@@ -6,7 +6,7 @@
 
 因為專輯代表各種各樣沉浸於愛情中的女性和女孩，所以專輯名稱取「[女朋友](../Page/女朋友.md "wikilink")」[第三人稱意味的](https://zh.wikipedia.org/wiki/第三人稱 "wikilink")「她」。
 
-aiko親自出演專輯的宣傳廣告，並且邀請來[大杉漣和](../Page/大杉漣.md "wikilink")[須賀健太一同出演](../Page/須賀健太.md "wikilink")。\[1\]
+aiko親自出演專輯的宣傳廣告，並且邀請來[大杉漣](../Page/大杉漣.md "wikilink")和[須賀健太](../Page/須賀健太.md "wikilink")一同出演。\[1\]
 
 專輯發行首週即取得Oricon公信榜冠軍，連續三張專輯、總共第五張取得冠軍。\[2\]並且取得2006年9月度Oricon月榜冠軍，連續兩張專輯取得月榜冠軍。
 
@@ -33,12 +33,7 @@ aiko親自出演專輯的宣傳廣告，並且邀請來[大杉漣和](../Page/�
 
   - [唱片介紹](https://web.archive.org/web/20110908013328/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200600001279&DSP_SKHKETSEQ=001)
 
-[Category:aiko音樂專輯](https://zh.wikipedia.org/wiki/Category:aiko音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
-[Category:2006年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2006年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:aiko音樂專輯](https://zh.wikipedia.org/wiki/Category:aiko音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:2006年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon專輯月榜冠軍作品 "wikilink") [Category:2006年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon專輯週榜冠軍作品 "wikilink")
 
-1.  [日本戀愛教祖 aiko
-    最新冠軍專輯『她』](http://movie.kingnet.com.tw/media_news/index.html?act=music_news&r=1159187471)
-
+1.  [日本戀愛教祖 aiko 最新冠軍專輯『她』](http://movie.kingnet.com.tw/media_news/index.html?act=music_news&r=1159187471)
 2.  [](http://www.oricon.co.jp/news/ranking/32872)

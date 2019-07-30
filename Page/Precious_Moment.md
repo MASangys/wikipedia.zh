@@ -1,7 +1,6 @@
 
 
-《**Precious
-Moment**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[洪卓立於](../Page/洪卓立.md "wikilink")2010年9月22日發行的第五張個人[音樂專輯](../Page/音樂專輯.md "wikilink")。專輯包括CD和DVD各一。
+《**Precious Moment**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[洪卓立](../Page/洪卓立.md "wikilink")於2010年9月22日發行的第五張個人[音樂專輯](../Page/音樂專輯.md "wikilink")。專輯包括CD和DVD各一。
 
 ## 專輯簡介
 
@@ -46,7 +45,4 @@ Moment**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "
 
   - 新城國語力頒獎禮2010 － 勁爆原創歌曲《無人認領(國語版)》
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:洪卓立音樂專輯](https://zh.wikipedia.org/wiki/Category:洪卓立音樂專輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:洪卓立音樂專輯](https://zh.wikipedia.org/wiki/Category:洪卓立音樂專輯 "wikilink")

@@ -1,8 +1,4 @@
-是由[科樂美開發的](../Page/科樂美.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。该作也是唯一一部[PC
-Engine平台外设](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")[SUPER
-CD-ROM<sup>2</sup>上的](https://zh.wikipedia.org/wiki/SUPER_CD-ROM2 "wikilink")[恶魔城系列作品](../Page/恶魔城系列.md "wikilink")。遊戲將在2018年10月26日發售《惡魔城安魂曲:
-月下狂想曲 & 血之輪迴 - HD合輯》，推出平台為[PlayStation
-4](../Page/PlayStation_4.md "wikilink")\[1\]。
+是由[科樂美](../Page/科樂美.md "wikilink")開發的[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。该作也是唯一一部[PC Engine平台外设](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")[SUPER CD-ROM<sup>2</sup>上的](https://zh.wikipedia.org/wiki/SUPER_CD-ROM2 "wikilink")[恶魔城系列](../Page/恶魔城系列.md "wikilink")作品。遊戲將在2018年10月26日發售《惡魔城安魂曲: 月下狂想曲 & 血之輪迴 - HD合輯》，推出平台為[PlayStation 4](../Page/PlayStation_4.md "wikilink")\[1\]。
 
 ## 劇情
 
@@ -54,10 +50,6 @@ CD-ROM<sup>2</sup>上的](https://zh.wikipedia.org/wiki/SUPER_CD-ROM2 "wikilink"
 
   - [悪魔城ドラキュラシリーズ総合サイト](http://www.konami.jp/gs/game/dracula/)
 
-[Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink")
-[Category:PC_Engine遊戲](https://zh.wikipedia.org/wiki/Category:PC_Engine遊戲 "wikilink")
-[Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:恶魔城系列电子游戏](https://zh.wikipedia.org/wiki/Category:恶魔城系列电子游戏 "wikilink")
+[Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink") [Category:PC_Engine遊戲](https://zh.wikipedia.org/wiki/Category:PC_Engine遊戲 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:恶魔城系列电子游戏](https://zh.wikipedia.org/wiki/Category:恶魔城系列电子游戏 "wikilink")
 
 1.

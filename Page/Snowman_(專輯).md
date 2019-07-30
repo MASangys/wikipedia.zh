@@ -1,4 +1,4 @@
-**《Snowman》**是[香港男子組合](../Page/香港.md "wikilink")[Snowman](https://zh.wikipedia.org/wiki/Swing "wikilink")（即Swing前身）的首張專輯，於1999年11月23日發行，共收錄十首歌。當中《開始到最後》為代表作。
+**《Snowman》**是[香港](../Page/香港.md "wikilink")男子組合[Snowman](https://zh.wikipedia.org/wiki/Swing "wikilink")（即Swing前身）的首張專輯，於1999年11月23日發行，共收錄十首歌。當中《開始到最後》為代表作。
 
 ## 曲目
 
@@ -99,6 +99,4 @@
 
 ## 外部連結
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:Swing音樂專輯](https://zh.wikipedia.org/wiki/Category:Swing音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:Swing音樂專輯](https://zh.wikipedia.org/wiki/Category:Swing音樂專輯 "wikilink")

@@ -1,5 +1,4 @@
-《**STEP BY
-STEP**》为[ZIGGY的第十一张单曲](https://zh.wikipedia.org/wiki/ZIGGY "wikilink")。
+《**STEP BY STEP**》为[ZIGGY的第十一张单曲](https://zh.wikipedia.org/wiki/ZIGGY "wikilink")。
 
 ## 概要
 
@@ -28,6 +27,4 @@ STEP**》为[ZIGGY的第十一张单曲](https://zh.wikipedia.org/wiki/ZIGGY "wi
 </tbody>
 </table>
 
-[Category:1996年单曲](https://zh.wikipedia.org/wiki/Category:1996年单曲 "wikilink")
-[Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
+[Category:1996年单曲](https://zh.wikipedia.org/wiki/Category:1996年单曲 "wikilink") [Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")

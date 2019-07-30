@@ -9,9 +9,4 @@
 3.  **ALIVE（Instrumental）**
 4.  **Up To You\!（Instrumental）**
 
-[Category:SPEED歌曲](https://zh.wikipedia.org/wiki/Category:SPEED歌曲 "wikilink")
-[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
-[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
-[Category:1998年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:TOY'S_FACTORY歌曲](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY歌曲 "wikilink")
+[Category:SPEED歌曲](https://zh.wikipedia.org/wiki/Category:SPEED歌曲 "wikilink") [Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:1998年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon單曲週榜冠軍作品 "wikilink") [Category:TOY'S_FACTORY歌曲](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY歌曲 "wikilink")

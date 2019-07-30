@@ -1,5 +1,4 @@
-《**Startline**》（）是[寿美菜子的第](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2010年11月24日由[Music
-Ray'n發行](../Page/Music_Ray'n.md "wikilink")。
+《**Startline**》（）是[寿美菜子的第](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2010年11月24日由[Music Ray'n發行](../Page/Music_Ray'n.md "wikilink")。
 
 ## 概要
 
@@ -29,7 +28,4 @@ Ray'n發行](../Page/Music_Ray'n.md "wikilink")。
 
   - [寿美菜子 網站](http://www.kotobukiminako.com/)
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:壽美菜子單曲](https://zh.wikipedia.org/wiki/Category:壽美菜子單曲 "wikilink")
-[Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:壽美菜子單曲](https://zh.wikipedia.org/wiki/Category:壽美菜子單曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")

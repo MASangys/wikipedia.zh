@@ -46,7 +46,7 @@
   - [石坂千寻](https://zh.wikipedia.org/wiki/石坂千寻 "wikilink")
   - [橋本紗和](https://zh.wikipedia.org/wiki/橋本紗和 "wikilink")
   - [手塚りえ](https://zh.wikipedia.org/wiki/手塚りえ "wikilink")
-  - [大島麻衣](../Page/大島麻衣.md "wikilink")（[AKB48原成员](../Page/AKB48.md "wikilink")）
+  - [大島麻衣](../Page/大島麻衣.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")原成员）
   - [香原ゆり香](https://zh.wikipedia.org/wiki/香原ゆり香 "wikilink")
   - [涉谷实由生](https://zh.wikipedia.org/wiki/涉谷实由生 "wikilink")
   - [生島可愛](https://zh.wikipedia.org/wiki/生島可愛 "wikilink")
@@ -76,5 +76,4 @@
   - [JMO官网](http://www.jmo.co.jp/)
   - [JMOちゃんねる。](http://www.youtube.com/user/boukenoutv)
 
-[Category:日本艺人经纪公司](https://zh.wikipedia.org/wiki/Category:日本艺人经纪公司 "wikilink")
-[Category:中央區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:中央區公司_\(東京都\) "wikilink")
+[Category:日本艺人经纪公司](https://zh.wikipedia.org/wiki/Category:日本艺人经纪公司 "wikilink") [Category:中央區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:中央區公司_\(東京都\) "wikilink")

@@ -1,4 +1,4 @@
-**Oricon單曲年榜冠軍作品列表**列出1968年以來歷年的[Oricon公信榜單曲年榜的冠軍作品及其資料](../Page/Oricon公信榜.md "wikilink")。
+**Oricon單曲年榜冠軍作品列表**列出1968年以來歷年的[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲年榜的冠軍作品及其資料。
 
 ## 歷年冠軍作品
 
@@ -529,12 +529,8 @@
 
 61.
 
-62. [【オリコン年間】AKB48、前人未到シングル6年連続V
-    TOP4独占](http://www.oricon.co.jp/news/2064271/full/) オリコン
-    2015年12月23日
+62. [【オリコン年間】AKB48、前人未到シングル6年連続V TOP4独占](http://www.oricon.co.jp/news/2064271/full/) オリコン 2015年12月23日
 
-63. [【オリコン年間】AKB48、シングルV7達成 6年連続でTOP4独占](https://www.oricon.co.jp/news/2083531/full/)
-    オリコン 2016年12月24日
+63. [【オリコン年間】AKB48、シングルV7達成 6年連続でTOP4独占](https://www.oricon.co.jp/news/2083531/full/) オリコン 2016年12月24日
 
-64. [【オリコン年間】AKB48、シングルV8達成 7年連続TOP4独占](https://www.oricon.co.jp/news/2102868/full/)
-    オリコン 2017年12月23日
+64. [【オリコン年間】AKB48、シングルV8達成 7年連続TOP4独占](https://www.oricon.co.jp/news/2102868/full/) オリコン 2017年12月23日

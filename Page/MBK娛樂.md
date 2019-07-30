@@ -1,23 +1,16 @@
-**MBK娛樂**（；），前身是金光洙代表的**Core Contents
-Media**。旗下藝人包括[DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")，於2014年10月在
-MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公司出身的高健錫。MBK為「**M**usic **B**eyond
-**K**orea」的縮寫有超越韓國音樂的意思，表示公司未來將不僅是著力於韓國市場，而是朝全球化邁進。
+**MBK娛樂**（；），前身是金光洙代表的**Core Contents Media**。旗下藝人包括[DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")，於2014年10月在 MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公司出身的高健錫。MBK為「**M**usic **B**eyond **K**orea」的縮寫有超越韓國音樂的意思，表示公司未來將不僅是著力於韓國市場，而是朝全球化邁進。
 
 ## 公司歷史
 
 ### 2009
 
-  - 2009年，[Davichi由](../Page/Davichi.md "wikilink")[Mnet
-    Media轉至公司前身Core](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")
-    Contents Media。
-  - 2009年7月29日，[T-ara於](https://zh.wikipedia.org/wiki/T-ara "wikilink")《Radio
-    Star》出道。
+  - 2009年，[Davichi](../Page/Davichi.md "wikilink")由[Mnet Media轉至公司前身Core](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink") Contents Media。
+  - 2009年7月29日，[T-ara於](https://zh.wikipedia.org/wiki/T-ara "wikilink")《Radio Star》出道。
 
 ### 2010
 
   - 2010年9月30日，男女混聲團體[男女共學出道](../Page/男女共學_\(音樂團體\).md "wikilink")。
-  - 2010年12月28日，宣佈男女共學女性成員組成第一組子團[F-VE
-    DOLLS](../Page/F-VE_DOLLS.md "wikilink")。
+  - 2010年12月28日，宣佈男女共學女性成員組成第一組子團[F-VE DOLLS](../Page/F-VE_DOLLS.md "wikilink")。
 
 ### 2011
 
@@ -27,18 +20,16 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 
   - 2012年2月8日，宣佈[男女共學男性成員組成子團](../Page/男女共學_\(音樂團體\).md "wikilink")[SPEED](../Page/SPEED_\(韓國音樂團體\).md "wikilink")。
   - 2012年4月15日，所成立的線上購物網 “C Sharp”（簡稱：C\#）於正式開幕。
-  - 2012年5月18日，[Gangkiz出道](../Page/Gangkiz.md "wikilink")。
+  - 2012年5月18日，[Gangkiz](../Page/Gangkiz.md "wikilink")出道。
   - 2012年11月12日，[The SeeYa出道](../Page/The_SeeYa.md "wikilink")。
 
 ### 2013
 
   - 2013年1月17日，[SPEED出道](../Page/SPEED_\(韓國音樂團體\).md "wikilink")。
-  - 2013年5月1日，宣佈[T-ara組成子團](https://zh.wikipedia.org/wiki/T-ara "wikilink")[T-ara
-    N4](../Page/T-ara_N4.md "wikilink")。
+  - 2013年5月1日，宣佈[T-ara組成子團](https://zh.wikipedia.org/wiki/T-ara "wikilink")[T-ara N4](../Page/T-ara_N4.md "wikilink")。
   - 2013年5月17日，宣佈T-ara組成子團[QBS](../Page/QBS.md "wikilink")。
   - 2013年6月10日，發布家族合作演唱抒情曲“Painkiller”。
-  - 2013年9月21日，在[蒙古](https://zh.wikipedia.org/wiki/蒙古 "wikilink")[烏蘭巴托體育場](https://zh.wikipedia.org/wiki/烏蘭巴托 "wikilink")（Ulaanbaatar
-    Central Naadam Stadium）舉辦家族演唱會。
+  - 2013年9月21日，在[蒙古](https://zh.wikipedia.org/wiki/蒙古 "wikilink")[烏蘭巴托體育場](https://zh.wikipedia.org/wiki/烏蘭巴托 "wikilink")（Ulaanbaatar Central Naadam Stadium）舉辦家族演唱會。
 
 ### 2014
 
@@ -46,38 +37,27 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
   - 2014年6月30日，T-ara成員[孝敏以Solo身分出道](https://zh.wikipedia.org/wiki/朴宣映 "wikilink")。
   - 2014年9月，被MBK Ent.收購合併。
   - 2014年10月1日，Core Contents Media正式改名為MBK Entertainment。\[1\]
-  - 2014年11月29日，[Shannon於其子公司](../Page/Shannon_\(韓國歌手\).md "wikilink")[Dap
-    sound](http://kpopn.com/2014/11/28/251111/)，透過《Hidden Singer》正式出道。
+  - 2014年11月29日，[Shannon於其子公司](../Page/Shannon_\(韓國歌手\).md "wikilink")[Dap sound](http://kpopn.com/2014/11/28/251111/)，透過《Hidden Singer》正式出道。
 
 ### 2015
 
-  - 2015年2月10日，MBK企劃組合TS合唱抒情曲"不要忘記我"。TS的含義「T
-    」是代表[T-ara和](https://zh.wikipedia.org/wiki/T-ara "wikilink")[The
-    SeeYa](../Page/The_SeeYa.md "wikilink")，「 S
-    」是代表[SPEED和](../Page/SPEED_\(韓國音樂團體\).md "wikilink")[承希](../Page/曺承希.md "wikilink")。
-  - 2015年3月10日，MBK娛樂發布官方聲明，[F-VE
-    DOLLS宣告解散](../Page/F-VE_DOLLS.md "wikilink")，成員[連卿繼續以](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")[The
-    SeeYa成員身份活動](../Page/The_SeeYa.md "wikilink")。
-  - 2015年4月，MBK娛樂與化妝品牌[Syndrome
-    Cosmetic](http://kpopn.com/2015/04/21/271485/)合作，推出化妝產品、跨足美容界，首次推出的產品是
-    CB 霜，預計將會在本月中透過網路發售，並把產品推向中華地區。
+  - 2015年2月10日，MBK企劃組合TS合唱抒情曲"不要忘記我"。TS的含義「T 」是代表[T-ara和](https://zh.wikipedia.org/wiki/T-ara "wikilink")[The SeeYa](../Page/The_SeeYa.md "wikilink")，「 S 」是代表[SPEED和](../Page/SPEED_\(韓國音樂團體\).md "wikilink")[承希](../Page/曺承希.md "wikilink")。
+  - 2015年3月10日，MBK娛樂發布官方聲明，[F-VE DOLLS宣告解散](../Page/F-VE_DOLLS.md "wikilink")，成員[連卿繼續以](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")[The SeeYa成員身份活動](../Page/The_SeeYa.md "wikilink")。
+  - 2015年4月，MBK娛樂與化妝品牌[Syndrome Cosmetic](http://kpopn.com/2015/04/21/271485/)合作，推出化妝產品、跨足美容界，首次推出的產品是 CB 霜，預計將會在本月中透過網路發售，並把產品推向中華地區。
   - 2015年4月16日，所屬社MBK娛樂相關人員表示，[玟京將在今年秋天與圈外男友結婚](https://zh.wikipedia.org/wiki/宋玟京 "wikilink")，婚後不會退出組合。
   - 2015年5月7日，T-ara成員[𤨒晶以藝名](../Page/咸𤨒晶.md "wikilink")「Elsie」Solo身份出道。
   - 2015年6月12日，宣佈與《Super Star K6》出身的高那瑛簽約。
-  - 2015年6月29日，宣佈與資深演員[文熙景簽約](../Page/文熙景.md "wikilink")。
+  - 2015年6月29日，宣佈與資深演員[文熙景](../Page/文熙景.md "wikilink")簽約。
   - 2015年7月6日，[High Brow出道](../Page/High_Brow.md "wikilink")。
   - 2015年9月14日，[DIA正式出道](https://zh.wikipedia.org/wiki/DIA "wikilink")。
-  - 2015年12月17日，前[T-ara
-    N4成員](../Page/T-ara_N4.md "wikilink")[Dani](../Page/金岱妮.md "wikilink")、[DIA成員Cathy](https://zh.wikipedia.org/wiki/DIA "wikilink")（以本名[熙賢](../Page/奇熙賢.md "wikilink")）和[彩娟參與](../Page/彩娟.md "wikilink")[Mnet製作的企劃女團節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE
-    101](../Page/PRODUCE_101.md "wikilink")》，DIA改為五人體制進行活動。
+  - 2015年12月17日，前[T-ara N4成員](../Page/T-ara_N4.md "wikilink")[Dani](../Page/金岱妮.md "wikilink")、[DIA成員Cathy](https://zh.wikipedia.org/wiki/DIA "wikilink")（以本名[熙賢](../Page/奇熙賢.md "wikilink")）和[彩娟](../Page/彩娟.md "wikilink")參與[Mnet製作的企劃女團節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，DIA改為五人體制進行活動。
 
 ### 2016
 
   - 2016年1月27日，前[SPEED成員正優表示與所屬社合約已到期](../Page/SPEED_\(韓國音樂團體\).md "wikilink")。
   - 2016年1月28日，前SPEED成員世濬表示在MBK娛樂轉為演員身分進行活動。
   - 2016年3月7日，MBK娛樂宣布DIA 、加入新成員彩媛，DIA改為六人體制進行活動。
-  - 2016年4月1日，《PRODUCE
-    101》公布新女團[I.O.I的成員名單](../Page/I.O.I.md "wikilink")，彩娟獲得第7名，進入最終11人名單，將以YMC娛樂旗下藝人的身份進行為期一年的活動。而Cathy表示會保持練習生身分，尚未決定是否回到DIA。
+  - 2016年4月1日，《PRODUCE 101》公布新女團[I.O.I](../Page/I.O.I.md "wikilink")的成員名單，彩娟獲得第7名，進入最終11人名單，將以YMC娛樂旗下藝人的身份進行為期一年的活動。而Cathy表示會保持練習生身分，尚未決定是否回到DIA。
   - 2016年4月12日，MBK娛樂表示[DIA成員承希的專屬合約將於](https://zh.wikipedia.org/wiki/DIA "wikilink")30日到期，是否續約仍未決定。
   - 2016年4月21日，DIA在直播應用程式V LIVE上開通專屬頻道，頻道封面以不包含成員承希，DIA改為五人體制進行活動。
   - 2016年5月11日，MBK娛樂宣布喜賢和彩娟歸隊，DIA回復七人體制進行活動。\[2\]
@@ -86,10 +66,8 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 
   - 2017年4月5日，MBK娛樂宣布[DIA加入兩名新成員主恩](https://zh.wikipedia.org/wiki/DIA "wikilink")、順伊。
   - 2017年5月15日，T-ara成員[寶藍](https://zh.wikipedia.org/wiki/寶藍 "wikilink")、[昭妍合約到期](https://zh.wikipedia.org/wiki/昭妍 "wikilink")，離開公司。
-  - 2017年9月1日，MBK娛樂宣布[IM66子團IM正式出道](../Page/IM66.md "wikilink")，並將參與[The
-    Unit](../Page/The_Unit.md "wikilink")。
-  - 2017年10月28日，與[KBS合作製作](../Page/韓國放送公社.md "wikilink")[The
-    Unit](../Page/The_Unit.md "wikilink")，及負責管理出道組[UNB](../Page/UNB.md "wikilink")、[UNI.T的演藝活動](../Page/UNI.T.md "wikilink")。\[3\]
+  - 2017年9月1日，MBK娛樂宣布[IM66](../Page/IM66.md "wikilink")子團IM正式出道，並將參與[The Unit](../Page/The_Unit.md "wikilink")。
+  - 2017年10月28日，與[KBS合作製作](../Page/韓國放送公社.md "wikilink")[The Unit](../Page/The_Unit.md "wikilink")，及負責管理出道組[UNB](../Page/UNB.md "wikilink")、[UNI.T](../Page/UNI.T.md "wikilink")的演藝活動。\[3\]
   - 2017年12月31日，T-ara成員[居麗](https://zh.wikipedia.org/wiki/居麗 "wikilink")、[𤨒晶](https://zh.wikipedia.org/wiki/𤨒晶 "wikilink")、[孝敏](https://zh.wikipedia.org/wiki/孝敏 "wikilink")、[芝妍合約到期](https://zh.wikipedia.org/wiki/芝妍 "wikilink")，離開公司。
 
 ### 2018
@@ -98,19 +76,19 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 
 <!-- end list -->
 
-  - 2018年11月3日，與MBC合作製作[Under
-    Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")，及負責管理出道組[1THE9的演藝活動](https://zh.wikipedia.org/wiki/1THE9 "wikilink")。
+  - 2018年11月3日，與MBC合作製作[Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")，及負責管理出道組[1THE9的演藝活動](https://zh.wikipedia.org/wiki/1THE9 "wikilink")。
 
 ### 2019
 
-  - 2019年5月3日，[道賢](../Page/南道賢.md "wikilink")、[IM66成員](../Page/IM66.md "wikilink")[翰潔和志鎬](../Page/李翰潔.md "wikilink")（以本名**金永尚**）參與[Mnet製作的企劃男團節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE
-    X 101](../Page/PRODUCE_X_101.md "wikilink")》。
+  - 2019年5月3日，[道賢](../Page/南道賢.md "wikilink")、[IM66](../Page/IM66.md "wikilink")成員[翰潔和志鎬](../Page/李翰潔.md "wikilink")（以本名**金永尚**）參與[Mnet製作的企劃男團節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》。
 
 <!-- end list -->
 
-  - 2019年5月9日，[IM66的社交媒體帳號都改名為](../Page/IM66.md "wikilink")「[MBK
-    BOYS](https://zh.wikipedia.org/wiki/MBK_BOYS "wikilink")」，並刪除了以前的帖文，因此可得知組合已經改組為[MBK
-    BOYS](https://zh.wikipedia.org/wiki/MBK_BOYS "wikilink")。
+  - 2019年5月9日，[IM66](../Page/IM66.md "wikilink")的社交媒體帳號都改名為「[MBK BOYS](https://zh.wikipedia.org/wiki/MBK_BOYS "wikilink")」，並刪除了以前的帖文，因此可得知組合已經改組為[MBK BOYS](https://zh.wikipedia.org/wiki/MBK_BOYS "wikilink")。
+
+<!-- end list -->
+
+  - 2019年7月6日，公司宣布因膝關節髕骨軟化症而暫停活動的[DIA成員Jenny](https://zh.wikipedia.org/wiki/DIA "wikilink")，雖然接受了治療雖有好轉許多，但是在專家醫生判斷要繼續活動仍會太過勉強，決定中斷活動並退出[DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")，更努力地專注於讓膝蓋恢復。
 
 ## 旗下藝人
 
@@ -151,7 +129,7 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 <td><p>2015年9月14日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a></p></td>
 <td><p>女</p></td>
-<td><p>Eunice、主恩、<a href="../Page/奇熙賢.md" title="wikilink">熙賢</a>、Jenny、<a href="../Page/白豫彬.md" title="wikilink">豫彬</a>、<a href="../Page/彩娟.md" title="wikilink">彩娟</a>、<a href="../Page/恩彩.md" title="wikilink">恩彩</a>、順伊</p></td>
+<td><p>Eunice、主恩、<a href="../Page/奇熙賢.md" title="wikilink">熙賢</a>、<a href="../Page/白豫彬.md" title="wikilink">豫彬</a>、<a href="../Page/彩娟.md" title="wikilink">彩娟</a>、<a href="../Page/恩彩.md" title="wikilink">恩彩</a>、順伊</p></td>
 <td><p><a href="../Page/奇熙賢.md" title="wikilink">熙賢</a></p></td>
 <td><p>AID</p></td>
 <td><p>AIDBLUE<br />
@@ -183,7 +161,7 @@ DIARED</p></td>
 | 出道日期        | 組合名稱                                                           | 所屬組合                                                | 性別 | 成員                                                                                                                                                       |
 | ----------- | -------------------------------------------------------------- | --------------------------------------------------- | -- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2016年12月29日 | [彬彩賢斯順](https://zh.wikipedia.org/wiki/彬彩賢斯順 "wikilink")（BCHCS） | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") | 女  | [Eunice](https://zh.wikipedia.org/wiki/許秀娟 "wikilink")、[熙賢](../Page/奇熙賢.md "wikilink")、[豫彬](../Page/白豫彬.md "wikilink")、[彩娟](../Page/彩娟.md "wikilink")、順伊 |
-| 2016年12月31日 | [L.U.B](https://zh.wikipedia.org/wiki/L.U.B "wikilink")        | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") | 女  | 主恩、再妮、[恩彩](../Page/恩彩.md "wikilink")                                                                                                                     |
+| 2016年12月31日 | [L.U.B](https://zh.wikipedia.org/wiki/L.U.B "wikilink")        | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") | 女  | 主恩、[恩彩](../Page/恩彩.md "wikilink")                                                                                                                        |
 
 ### 限定/企劃組合
 
@@ -198,7 +176,7 @@ DIARED</p></td>
 | 出道 / 加入日期 | 名稱                                    | 性別 | 備註                                                 |
 | --------- | ------------------------------------- | -- | -------------------------------------------------- |
 | 2013年     | 金裕桓\[4\]                              | 男  | 前[SPEED成員](../Page/SPEED_\(韓國音樂團體\).md "wikilink") |
-| 朴尚元\[5\]  | 前[IM66成員](../Page/IM66.md "wikilink") |    |                                                    |
+| 朴尚元\[5\]  | 前[IM66](../Page/IM66.md "wikilink")成員 |    |                                                    |
 
 ### 練習生
 
@@ -778,21 +756,16 @@ BELLA4（前）</p></td>
 ## 外部連結
 
   - [MBK Entertainment Official](http://mbk-ent.com)
-  - [MBK Entertainment
-    Facebook](https://www.facebook.com/officialmbkent?fref=tst)
+  - [MBK Entertainment Facebook](https://www.facebook.com/officialmbkent?fref=tst)
   - [MBK Entertainment Twitter](https://twitter.com/officialmbkent)
-  - [MBK Entertainment
-    Youtube](https://www.youtube.com/user/coremidas/featured)
+  - [MBK Entertainment Youtube](https://www.youtube.com/user/coremidas/featured)
 
 ## 參考資料
 
   - [CCM 線上商店 C\# 開幕](http://kpopn.com/2012/04/15/117656/)
-  - [MBK엔터 고건희 대표 “티아라, 中 한류의 미래가 될것”
-    (인터뷰)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=213&aid=0000619672)
-    ([中文翻譯](http://i.imgur.com/XaFDafh.jpg))
+  - [MBK엔터 고건희 대표 “티아라, 中 한류의 미래가 될것” (인터뷰)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=213&aid=0000619672) ([中文翻譯](http://i.imgur.com/XaFDafh.jpg))
 
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
-[Category:2014年成立的公司](https://zh.wikipedia.org/wiki/Category:2014年成立的公司 "wikilink")
+[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink") [Category:2014年成立的公司](https://zh.wikipedia.org/wiki/Category:2014年成立的公司 "wikilink")
 
 1.
 2.  [采妍、Cathy重返DIA，預計六月回歸](http://kpopn.niusnews.com/=K2puupj8)

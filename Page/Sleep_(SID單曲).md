@@ -1,5 +1,4 @@
-「**sleep**」為[日本的](../Page/日本.md "wikilink")[視覺系樂團](../Page/視覺系.md "wikilink")・[SID的主流單曲第五張作品](https://zh.wikipedia.org/wiki/SID_\(樂團\) "wikilink")。
-於2010年3月3日,由唱片公司[キューンレコード販售](https://zh.wikipedia.org/wiki/キューンレコード "wikilink")。
+「**sleep**」為[日本](../Page/日本.md "wikilink")的[視覺系](../Page/視覺系.md "wikilink")樂團・[SID的主流單曲第五張作品](https://zh.wikipedia.org/wiki/SID_\(樂團\) "wikilink")。 於2010年3月3日,由唱片公司[キューンレコード販售](https://zh.wikipedia.org/wiki/キューンレコード "wikilink")。
 
 ## 概要
 
@@ -22,8 +21,7 @@
 
 ## 收錄Album 專輯
 
-  - 『[dead
-    stock](https://zh.wikipedia.org/wiki/dead_stock "wikilink")』（\#1）
+  - 『[dead stock](https://zh.wikipedia.org/wiki/dead_stock "wikilink")』（\#1）
 
 ## 脚注
 
@@ -31,5 +29,4 @@
 
 </div>
 
-[Category:2010年のシングル](https://zh.wikipedia.org/wiki/Category:2010年のシングル "wikilink")
-[Category:シドの楽曲](https://zh.wikipedia.org/wiki/Category:シドの楽曲 "wikilink")
+[Category:2010年のシングル](https://zh.wikipedia.org/wiki/Category:2010年のシングル "wikilink") [Category:シドの楽曲](https://zh.wikipedia.org/wiki/Category:シドの楽曲 "wikilink")

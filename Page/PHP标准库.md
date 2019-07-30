@@ -1,5 +1,4 @@
-**PHP标准库**（**Standard PHP
-Library**，缩写：**SPL**），是[PHP](../Page/PHP.md "wikilink")5.0之后新添加的重要库。它提供了一系列的[接口](https://zh.wikipedia.org/wiki/接口 "wikilink")（interface）和[类](https://zh.wikipedia.org/wiki/类 "wikilink")（classes）解决网站开发中普遍碰到的问题。源码在ext/spl目录下。
+**PHP标准库**（**Standard PHP Library**，缩写：**SPL**），是[PHP](../Page/PHP.md "wikilink")5.0之后新添加的重要库。它提供了一系列的[接口](https://zh.wikipedia.org/wiki/接口 "wikilink")（interface）和[类](https://zh.wikipedia.org/wiki/类 "wikilink")（classes）解决网站开发中普遍碰到的问题。源码在ext/spl目录下。
 
 ## 介绍
 
@@ -86,7 +85,6 @@ SPL主要提供了以下几个方面的内容：
   - <http://www.php.net/~helly/php/ext/spl/>
   - <http://www.caixw.com/archives/intro-to-spl-iterator.html>
 
-[en:PHP\#Data
-types](https://zh.wikipedia.org/wiki/en:PHP#Data_types "wikilink")
+[en:PHP\#Data types](https://zh.wikipedia.org/wiki/en:PHP#Data_types "wikilink")
 
 [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")

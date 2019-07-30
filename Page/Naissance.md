@@ -1,6 +1,4 @@
-《**naissance**》是[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年9月3日由[Music
-Ray'n
-Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。\[1\]
+《**naissance**》是[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年9月3日由[Music Ray'n Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。\[1\]
 
 ## 收錄曲
 

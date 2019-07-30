@@ -1,10 +1,8 @@
 **新SD高達外傳 鎧鬥神戰記**是SD高達外傳第七作。
 
-故事背景發生在「[新SD戰國傳
-黃金神話](https://zh.wikipedia.org/wiki/新SD戰國傳_黃金神話 "wikilink")」之後數年、由太古時代與超越之龍對抗的古代神バロックガン，在當世再度復活、撒夫魯(シャッフル)的勇者被石化之後，「捷古自護編」中出場的アルガス騎士團的五名繼承者，開始踏上打敗古代神バロックガン的道路。
+故事背景發生在「[新SD戰國傳 黃金神話](https://zh.wikipedia.org/wiki/新SD戰國傳_黃金神話 "wikilink")」之後數年、由太古時代與超越之龍對抗的古代神バロックガン，在當世再度復活、撒夫魯(シャッフル)的勇者被石化之後，「捷古自護編」中出場的アルガス騎士團的五名繼承者，開始踏上打敗古代神バロックガン的道路。
 
-本作以「[新機動戰記 w
-gundam](https://zh.wikipedia.org/wiki/新機動戰記_w_gundam "wikilink")」為藍本，主要角色均以「人類/天使—高達騎士—機兵—鎧鬥神」的發展進化，而作品中也是首次沒有以MS族角色為中心，改以人類角色擔當主角。
+本作以「[新機動戰記 w gundam](https://zh.wikipedia.org/wiki/新機動戰記_w_gundam "wikilink")」為藍本，主要角色均以「人類/天使—高達騎士—機兵—鎧鬥神」的發展進化，而作品中也是首次沒有以MS族角色為中心，改以人類角色擔當主角。
 
 鎧鬥神戰記並無沿用以往為大部份角色推出模型、Cardass為副的安排，改以Cardass為主、相對模型角色大幅減少，結果令本作銷情不振，原定四部曲作品，僅連載至第二部就被腰斬，直至2010年Cardass復刻系列推出，第四部曲「超鎧鬥神光臨」相關的44張卡片，以全新系列再次推出。
 
@@ -12,8 +10,7 @@ gundam](https://zh.wikipedia.org/wiki/新機動戰記_w_gundam "wikilink")」為
 
 ## 各部曲故事
 
-**鎧鬥神出現**
-考古學者拖歷斯(考古学者トレーズ)，在昔日為古代戰場的「機兵之谷」，發掘出古代神バロックガン，為尋找天使族的巫女解開古代神封印的關鍵，以拖歷斯為首的「創世軍オズワルド」，乃率領「無人機．從機兵」，向ユニオン軍發動進攻。
+**鎧鬥神出現** 考古學者拖歷斯(考古学者トレーズ)，在昔日為古代戰場的「機兵之谷」，發掘出古代神バロックガン，為尋找天使族的巫女解開古代神封印的關鍵，以拖歷斯為首的「創世軍オズワルド」，乃率領「無人機．從機兵」，向ユニオン軍發動進攻。
 
 為逃避追捕，天使族公主莉莉娜(天使リリーナ)，與兄長守護天使美利安多(守護天使ミリアル)打算出走，結果被打敗，在絕境之中，美利安多的弟分希羅(守護天使ヒイロ)，獲得超越之龍的力量，變身成騎士飛翼高達(騎士ウイングガンダム)，繼而進化成鎧鬥神。此時，世界各地，亦陸續出現由超越之龍授了力量的機兵，向創世軍進行反擊。
 
@@ -167,8 +164,7 @@ gundam](https://zh.wikipedia.org/wiki/新機動戰記_w_gundam "wikilink")」為
 
 名稱是來自[機動戰士0079商品當中](https://zh.wikipedia.org/wiki/機動戰士0079 "wikilink")，較模型更早推出的超合金玩具系列「クローバーガンダム」。
 
-**守護天使
-美利安多/電光騎士薩古斯/騎士伊比安高達/鎧鬥神伊比安**(守護天使ミリアル/電光騎士<ライトニングナイト>ゼクス/騎士エピオンガンダム/鎧闘神エピオン（ゼクス・マーキス/ガンダムエピオン）)
+**守護天使 美利安多/電光騎士薩古斯/騎士伊比安高達/鎧鬥神伊比安**(守護天使ミリアル/電光騎士<ライトニングナイト>ゼクス/騎士エピオンガンダム/鎧闘神エピオン（ゼクス・マーキス/ガンダムエピオン）)
 
 天使希羅的兄長，在バロックガン的魔力洗腦後，成為電光騎士薩古斯，並與希羅交戰，之後亦變成騎士伊比安,最終清醒並變成神風騎士wind。
 
@@ -272,7 +268,4 @@ gundam](https://zh.wikipedia.org/wiki/新機動戰記_w_gundam "wikilink")」為
 
   - [SD GUNDAM系列](../Page/SD_GUNDAM系列.md "wikilink")
 
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink")
-[Category:天使題材作品](https://zh.wikipedia.org/wiki/Category:天使題材作品 "wikilink")
-[Category:巨大变身英雄](https://zh.wikipedia.org/wiki/Category:巨大变身英雄 "wikilink")
+[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink") [Category:天使題材作品](https://zh.wikipedia.org/wiki/Category:天使題材作品 "wikilink") [Category:巨大变身英雄](https://zh.wikipedia.org/wiki/Category:巨大变身英雄 "wikilink")

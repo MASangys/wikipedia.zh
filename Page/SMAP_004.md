@@ -1,6 +1,4 @@
-『**SMAP
-004**』是[SMAP第](../Page/SMAP.md "wikilink")4張專輯，於1993年7月7日由[Victor
-Entertainment發行](../Page/勝利娛樂.md "wikilink")。
+『**SMAP 004**』是[SMAP](../Page/SMAP.md "wikilink")第4張專輯，於1993年7月7日由[Victor Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 簡介
 
@@ -18,27 +16,26 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
       - 作詞：森浩美 / 作曲：馬飼野康二 / 編曲：長岡成貢
 4.  永遠に抱きしめたい
       - 作詞：吉元由美 / 作曲：羽場仁志 / 編曲：CHOKKAKU / 合唱編排：佐佐木久美
-      - [森且行的獨唱曲](../Page/森且行.md "wikilink")
+      - [森且行](../Page/森且行.md "wikilink")的獨唱曲
 5.  5月の風を抱きしめて
       - 作詞：相田毅 / 作曲、編曲：岩田雅之
-      - [草彅剛的獨唱曲](../Page/草彅剛.md "wikilink")，其獨特的歌詞曾是當時的笑話。
+      - [草彅剛](../Page/草彅剛.md "wikilink")的獨唱曲，其獨特的歌詞曾是當時的笑話。
 6.  幸せになってよ
       - 作詞：小倉めぐみ / 作曲、編曲：長岡成貢 / 合唱編排：松下誠
 7.  日曜日のアニキの役
       - 作詞：戶澤暢美 / 作曲：太田美知彥 / 編曲：CHOKKAKU / 合唱編排：松下誠
-      - [香取慎吾的獨唱曲](../Page/香取慎吾.md "wikilink")
+      - [香取慎吾](../Page/香取慎吾.md "wikilink")的獨唱曲
 8.  それでも君を好きになる
       - 作詞：相田毅 / 作曲：谷本新 / 編曲：土方隆行 / 合唱編排：松下誠
 9.  September Rain
       - 作詞：覺和歌子 / 作曲、編曲：長岡成貢 / 合唱編排：岩田雅之
-      - [稻垣吾郎的獨唱曲](../Page/稻垣吾郎.md "wikilink")
+      - [稻垣吾郎](../Page/稻垣吾郎.md "wikilink")的獨唱曲
 10. こんなに僕を切なくさせてるのに
       - 作詞：小倉めぐみ / 作曲：谷本新 / 編曲：CHOKKAKU
-      - [木村拓哉的獨唱曲](../Page/木村拓哉.md "wikilink")
+      - [木村拓哉](../Page/木村拓哉.md "wikilink")的獨唱曲
 11. 想哭的心情 （）
       - 作詞：相田毅 / 作曲：太田美知彥 / 編曲：土方隆行
-      - [中居正廣的獨唱曲](../Page/中居正廣.md "wikilink")，後來收錄在單曲[Hey Hey
-        每次都感謝及專輯](https://zh.wikipedia.org/wiki/Hey_Hey_每次都感謝 "wikilink")[pamS的版本是合唱版](https://zh.wikipedia.org/wiki/pamS "wikilink")
+      - [中居正廣](../Page/中居正廣.md "wikilink")的獨唱曲，後來收錄在單曲[Hey Hey 每次都感謝及專輯](https://zh.wikipedia.org/wiki/Hey_Hey_每次都感謝 "wikilink")[pamS的版本是合唱版](https://zh.wikipedia.org/wiki/pamS "wikilink")
 12. [歡笑的活力](../Page/歡笑的活力.md "wikilink")
       - 作詞:森浩美 / 作曲:馬飼野康二 / 編曲:船山基紀
 13. [下雪了](../Page/下雪了.md "wikilink")（專輯版本）
@@ -46,8 +43,6 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 外部連結
 
-  - [SMAP 004](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-416.html)
-    （Victor Entertainment）
+  - [SMAP 004](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-416.html) （Victor Entertainment）
 
-[Category:SMAP音樂專輯](https://zh.wikipedia.org/wiki/Category:SMAP音樂專輯 "wikilink")
-[Category:1993年音樂專輯](https://zh.wikipedia.org/wiki/Category:1993年音樂專輯 "wikilink")
+[Category:SMAP音樂專輯](https://zh.wikipedia.org/wiki/Category:SMAP音樂專輯 "wikilink") [Category:1993年音樂專輯](https://zh.wikipedia.org/wiki/Category:1993年音樂專輯 "wikilink")

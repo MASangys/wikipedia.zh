@@ -1,13 +1,8 @@
-《**Weiß
-Schwarz**》是[Bushiroad发售的一款](https://zh.wikipedia.org/wiki/Bushiroad "wikilink")[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")（TCG），游戏设计由《》、的[中村聰担任](https://zh.wikipedia.org/wiki/中村聰_\(遊戲設計師\) "wikilink")，是一个与《PROJECT
-REVOLUTION》类似的多作品TCG。该系列在2010年9月累计生产张数突破了2亿枚的事件曾被发表\[1\]。
+《**Weiß Schwarz**》是[Bushiroad发售的一款](https://zh.wikipedia.org/wiki/Bushiroad "wikilink")[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")（TCG），游戏设计由《》、的[中村聰担任](https://zh.wikipedia.org/wiki/中村聰_\(遊戲設計師\) "wikilink")，是一个与《PROJECT REVOLUTION》类似的多作品TCG。该系列在2010年9月累计生产张数突破了2亿枚的事件曾被发表\[1\]。
 
 ## 概要
 
-Weiß
-Schwarz是Bushiroad开发的交換卡片遊戲系列之一，让在青少年中有人气的[动画](../Page/动画.md "wikilink")、游戏角色跨越作品边界相互混合是该游戏的最大特征。该游戏可分成名为「Weiß
-Side」和「Schwarz
-Side」的两部分，Weiß和Schwarz在[德语中的意思是分别是](../Page/德语.md "wikilink")「[白](https://zh.wikipedia.org/wiki/白 "wikilink")」和「[黑](https://zh.wikipedia.org/wiki/黑 "wikilink")」，因而在中國大陸有着「黑白卡片大战」\[2\]、「黑白双翼」\[3\]等譯名。
+Weiß Schwarz是Bushiroad开发的交換卡片遊戲系列之一，让在青少年中有人气的[动画](../Page/动画.md "wikilink")、游戏角色跨越作品边界相互混合是该游戏的最大特征。该游戏可分成名为「Weiß Side」和「Schwarz Side」的两部分，Weiß和Schwarz在[德语](../Page/德语.md "wikilink")中的意思是分别是「[白](https://zh.wikipedia.org/wiki/白 "wikilink")」和「[黑](https://zh.wikipedia.org/wiki/黑 "wikilink")」，因而在中國大陸有着「黑白卡片大战」\[2\]、「黑白双翼」\[3\]等譯名。
 
 ## 卡片的类型
 
@@ -251,8 +246,7 @@ Side」的两部分，Weiß和Schwarz在[德语中的意思是分别是](../Page
 
 ## 参加作品
 
-有☆标记的是在『[Weiß Schwarz
-Portable](../Page/Weiß_Schwarz_Portable.md "wikilink")』中也登場的作品。
+有☆标记的是在『[Weiß Schwarz Portable](../Page/Weiß_Schwarz_Portable.md "wikilink")』中也登場的作品。
 
 ### Weiß Side
 
@@ -262,26 +256,22 @@ Portable](../Page/Weiß_Schwarz_Portable.md "wikilink")』中也登場的作品�
       - [初音岛III](https://zh.wikipedia.org/wiki/初音岛III "wikilink")
   - 「Little Busters\!」系列
       - [Little Busters\!](../Page/Little_Busters!.md "wikilink")
-          - [Little Busters\!
-            Ecstacy](../Page/Little_Busters!.md "wikilink")
+          - [Little Busters\! Ecstacy](../Page/Little_Busters!.md "wikilink")
       - [Kud Wafter](../Page/Kud_Wafter.md "wikilink")☆
-  - [零之使魔（动画版）](../Page/零之使魔.md "wikilink")
+  - [零之使魔](../Page/零之使魔.md "wikilink")（动画版）
   - [「魔法少女奈叶」系列](../Page/魔法少女奈葉系列.md "wikilink")
       - [魔法少女奈叶A's](https://zh.wikipedia.org/wiki/魔法少女奈叶A's "wikilink")☆
       - [魔法少女奈叶StrikerS](https://zh.wikipedia.org/wiki/魔法少女奈叶StrikerS "wikilink")☆
-      - [魔法少女奈叶 The MOVIE
-        1st](https://zh.wikipedia.org/wiki/魔法少女奈叶_The_MOVIE_1st "wikilink")☆
+      - [魔法少女奈叶 The MOVIE 1st](https://zh.wikipedia.org/wiki/魔法少女奈叶_The_MOVIE_1st "wikilink")☆
       - [魔法少女奈叶Vivid](https://zh.wikipedia.org/wiki/魔法少女奈叶Vivid "wikilink")
-      - [魔法少女奈叶A's PORTABLE -THE GEARS OF
-        DESTINY-](https://zh.wikipedia.org/wiki/魔法少女奈叶A's_PORTABLE_-THE_GEARS_OF_DESTINY- "wikilink")\[8\]
+      - [魔法少女奈叶A's PORTABLE -THE GEARS OF DESTINY-](https://zh.wikipedia.org/wiki/魔法少女奈叶A's_PORTABLE_-THE_GEARS_OF_DESTINY- "wikilink")\[8\]
   - [CLANNAD](../Page/CLANNAD.md "wikilink")
-      - [CLANNAD（动画版）](../Page/CLANNAD.md "wikilink")
+      - [CLANNAD](../Page/CLANNAD.md "wikilink")（动画版）
   - [幸运☆星（原作漫画版）](https://zh.wikipedia.org/wiki/幸运☆星 "wikilink")
   - [穿越宇宙的少女](../Page/穿越宇宙的少女.md "wikilink")
   - [舞-HiME](../Page/舞-HiME.md "wikilink")
       - [舞-乙HiME](../Page/舞-乙HiME.md "wikilink")
-  - [Phantom 〜Requiem for the
-    Phantom〜](https://zh.wikipedia.org/wiki/Phantom_〜Requiem_for_the_Phantom〜 "wikilink")
+  - [Phantom 〜Requiem for the Phantom〜](https://zh.wikipedia.org/wiki/Phantom_〜Requiem_for_the_Phantom〜 "wikilink")
   - [凉宫春日的忧郁 （动画版）](https://zh.wikipedia.org/wiki/凉宫春日的忧郁 "wikilink")☆
   - [Angel Beats\!](../Page/Angel_Beats!.md "wikilink")☆
   - [魔法禁书目录](https://zh.wikipedia.org/wiki/魔法禁书目录 "wikilink")☆
@@ -292,8 +282,7 @@ Portable](../Page/Weiß_Schwarz_Portable.md "wikilink")』中也登場的作品�
   - [DOG DAYS](../Page/DOG_DAYS.md "wikilink")
   - [日常](../Page/日常.md "wikilink")
   - [魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")
-  - [战姬绝唱
-    Symphogear](https://zh.wikipedia.org/wiki/战姬绝唱_Symphogear "wikilink")
+  - [战姬绝唱 Symphogear](https://zh.wikipedia.org/wiki/战姬绝唱_Symphogear "wikilink")
 
 ### Schwarz Side
 
@@ -307,23 +296,17 @@ Portable](../Page/Weiß_Schwarz_Portable.md "wikilink")』中也登場的作品�
       - [魔界战记2](https://zh.wikipedia.org/wiki/魔界战记2 "wikilink")
       - [魔界战记3](https://zh.wikipedia.org/wiki/魔界战记3 "wikilink")
       - [魔界战记4](https://zh.wikipedia.org/wiki/魔界战记4 "wikilink")
-      - [プリニー
-        〜オレが主人公でイイんスか?〜](https://zh.wikipedia.org/wiki/プリニー_〜オレが主人公でイイんスか?〜 "wikilink")
+      - [プリニー 〜オレが主人公でイイんスか?〜](https://zh.wikipedia.org/wiki/プリニー_〜オレが主人公でイイんスか?〜 "wikilink")
   - 「Fate」系列
-      - [Fate/stay
-        night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")
-        ☆
-      - [Fate/unlimited
-        codes](https://zh.wikipedia.org/wiki/Fate/unlimited_codes "wikilink")
-      - [Fate/hollow
-        ataraxia](https://zh.wikipedia.org/wiki/Fate/hollow_ataraxia "wikilink")☆
+      - [Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink") ☆
+      - [Fate/unlimited codes](https://zh.wikipedia.org/wiki/Fate/unlimited_codes "wikilink")
+      - [Fate/hollow ataraxia](https://zh.wikipedia.org/wiki/Fate/hollow_ataraxia "wikilink")☆
       - [Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")
   - [Melty Blood](../Page/Melty_Blood.md "wikilink")
   - [空之境界 剧场版](../Page/空之境界.md "wikilink")
   - 「光明与黑暗」系列
       - [光明與黑暗續戰篇EXA](https://zh.wikipedia.org/wiki/光明與黑暗續戰篇EXA "wikilink")
-      - [光明與黑暗續戰篇
-        羽翼](https://zh.wikipedia.org/wiki/光明與黑暗續戰篇_羽翼 "wikilink")
+      - [光明與黑暗續戰篇 羽翼](https://zh.wikipedia.org/wiki/光明與黑暗續戰篇_羽翼 "wikilink")
   - 「[拳皇](https://zh.wikipedia.org/wiki/拳皇 "wikilink") 」系列
   - 「戰國BASARA」シリーズ
       - [戰國BASARA](https://zh.wikipedia.org/wiki/戰國BASARA "wikilink")
@@ -331,9 +314,7 @@ Portable](../Page/Weiß_Schwarz_Portable.md "wikilink")』中也登場的作品�
   - [CANAAN](../Page/CANAAN.md "wikilink")
   - [偶像大師系列](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")
       - [偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")☆
-      - [偶像大師 Dearly
-        Stars](https://zh.wikipedia.org/wiki/偶像大師_Dearly_Stars "wikilink")
-        ☆
+      - [偶像大師 Dearly Stars](https://zh.wikipedia.org/wiki/偶像大師_Dearly_Stars "wikilink") ☆
       - [偶像大師2](../Page/偶像大師2.md "wikilink")
       - [偶像大師（動畫版）](https://zh.wikipedia.org/wiki/偶像大師_（動畫） "wikilink")
   - [妖精的尾巴](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")
@@ -342,38 +323,27 @@ Portable](../Page/Weiß_Schwarz_Portable.md "wikilink")』中也登場的作品�
   - [BLACK★ROCK SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")
   - [刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")
   - [化物語](../Page/化物語.md "wikilink")
-  - 「[超时空要塞F
-    劇場版](https://zh.wikipedia.org/wiki/超时空要塞Frontier#劇場版 "wikilink")」☆
+  - 「[超时空要塞F 劇場版](https://zh.wikipedia.org/wiki/超时空要塞Frontier#劇場版 "wikilink")」☆
       - 劇場版マクロスF 虚空歌姫 〜イツワリノウタヒメ〜
       - 劇場版マクロスF 恋離飛翼 〜サヨナラノツバサ〜
   - [加速世界](../Page/加速世界.md "wikilink")
-  - [GUILTY
-    CROWN](https://zh.wikipedia.org/wiki/GUILTY_CROWN "wikilink")
+  - [GUILTY CROWN](https://zh.wikipedia.org/wiki/GUILTY_CROWN "wikilink")
 
 ### 特別处理
 
 上述系列作品以外，Bushiroad企划的作品作为「特定的规则下，可以作为任意作品的卡」推广卡登场。
 
-  - [Weiss
-    Survive](https://zh.wikipedia.org/wiki/Weiss_Survive "wikilink")
-    （电视节目「[卡片学園](https://zh.wikipedia.org/wiki/卡片学園 "wikilink")」内放送作品）
+  - [Weiss Survive](https://zh.wikipedia.org/wiki/Weiss_Survive "wikilink") （电视节目「[卡片学園](https://zh.wikipedia.org/wiki/卡片学園 "wikilink")」内放送作品）
   - Weiss Survive R（电视节目「卡片学園」内放送作品）
-  - 和しよ子一起
-    （「[コンプエース](https://zh.wikipedia.org/wiki/コンプエース "wikilink")」連載作品）
+  - 和しよ子一起 （「[コンプエース](https://zh.wikipedia.org/wiki/コンプエース "wikilink")」連載作品）
   - [卡片戰鬥先導者](../Page/卡片戰鬥先導者.md "wikilink")（动画版）
-  - [Weiß Schwarz
-    Portable](../Page/Weiß_Schwarz_Portable.md "wikilink")（游戏原创角色）
+  - [Weiß Schwarz Portable](../Page/Weiß_Schwarz_Portable.md "wikilink")（游戏原创角色）
 
 #### 备考
 
 ## 电子游戏
 
-[PlayStation
-Portable用软件](../Page/PlayStation_Portable.md "wikilink")：『[Weiß
-Schwarz
-Portable](../Page/Weiß_Schwarz_Portable.md "wikilink")』在2011年11月23日发售。发行商是[BANDAI
-NAMCO
-Games](https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Games "wikilink")。
+[PlayStation Portable用软件](../Page/PlayStation_Portable.md "wikilink")：『[Weiß Schwarz Portable](../Page/Weiß_Schwarz_Portable.md "wikilink")』在2011年11月23日发售。发行商是[BANDAI NAMCO Games](https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Games "wikilink")。
 
 ## 插话
 
@@ -385,8 +355,7 @@ Games](https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Games "wikilink")。
 
   - [Weiß Schwarz](http://ws-tcg.com/)（官方网站）
 
-[Category:交換卡片遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲跨界作品 "wikilink")
-[Category:Bushiroad](https://zh.wikipedia.org/wiki/Category:Bushiroad "wikilink")
+[Category:交換卡片遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲跨界作品 "wikilink") [Category:Bushiroad](https://zh.wikipedia.org/wiki/Category:Bushiroad "wikilink")
 
 1.
 
@@ -394,8 +363,7 @@ Games](https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Games "wikilink")。
 
 3.  <http://www.u2game.net/bbs/thread-53597-1-1.html>
 
-4.  なお、巻頭カラー連載記事の取材協力と巻末1面広告の出稿を担当している[電撃G's
-    magazine](https://zh.wikipedia.org/wiki/電撃G's_magazine "wikilink")2011年12月号发售の時点では当初、同月末に发售预定だった。
+4.  なお、巻頭カラー連載記事の取材協力と巻末1面広告の出稿を担当している[電撃G's magazine](https://zh.wikipedia.org/wiki/電撃G's_magazine "wikilink")2011年12月号发售の時点では当初、同月末に发售预定だった。
 
 5.
 6.

@@ -123,5 +123,4 @@
     故事选集—超级英雄（Superheroes） 1995
     短篇故事—打击契约（Contract Hit） 1994
 
-[Category:美国作家](https://zh.wikipedia.org/wiki/Category:美国作家 "wikilink")
-[Category:伊利诺伊大学厄巴纳－香槟分校校友](https://zh.wikipedia.org/wiki/Category:伊利诺伊大学厄巴纳－香槟分校校友 "wikilink")
+[Category:美国作家](https://zh.wikipedia.org/wiki/Category:美国作家 "wikilink") [Category:伊利诺伊大学厄巴纳－香槟分校校友](https://zh.wikipedia.org/wiki/Category:伊利诺伊大学厄巴纳－香槟分校校友 "wikilink")

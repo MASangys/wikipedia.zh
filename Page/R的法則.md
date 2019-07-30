@@ -2,7 +2,7 @@
 
 2012年4月起，擴大為週一至週四18:55至19:25播出。
 
-2018年4月25日，[山口達也涉嫌酒後在自己家中猥褻高中女生](../Page/山口達也.md "wikilink")，被日本警方提送檢方偵辦，山口所主持的NHK節目R的法則於4月25日宣布暫停播出。
+2018年4月25日，[山口達也](../Page/山口達也.md "wikilink")涉嫌酒後在自己家中猥褻高中女生，被日本警方提送檢方偵辦，山口所主持的NHK節目R的法則於4月25日宣布暫停播出。
 
 ## 簡介
 
@@ -77,7 +77,7 @@
 <td><p>まえだ あみ</p></td>
 <td><p>あーみん</p></td>
 <td><p>1995年6月1日</p></td>
-<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48成員</a></p></td>
+<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a>成員</p></td>
 </tr>
 <tr class="odd">
 <td><p>000007</p></td>
@@ -101,7 +101,7 @@
 <td><p>みき にこる</p></td>
 <td><p>にこる</p></td>
 <td><p>1995年6月28日</p></td>
-<td><p>前<a href="../Page/AKB48.md" title="wikilink">AKB48第</a>8期研究生</p></td>
+<td><p>前<a href="../Page/AKB48.md" title="wikilink">AKB48</a>第8期研究生</p></td>
 </tr>
 <tr class="even">
 <td><p>000010</p></td>
@@ -133,7 +133,7 @@
 <td><p>じゅりの</p></td>
 <td><p>じゅりの</p></td>
 <td><p>1997年9月4日</p></td>
-<td><p>前<a href="../Page/AKB48.md" title="wikilink">AKB48成員</a><a href="https://zh.wikipedia.org/wiki/增山加宓乃" title="wikilink">增山加宓乃之妹</a></p></td>
+<td><p>前<a href="../Page/AKB48.md" title="wikilink">AKB48</a>成員<a href="https://zh.wikipedia.org/wiki/增山加宓乃" title="wikilink">增山加宓乃之妹</a></p></td>
 </tr>
 <tr class="even">
 <td><p>000014</p></td>
@@ -189,7 +189,7 @@
 <td><p>おおた あいか</p></td>
 <td><p>あいか、らぶたん[8]</p></td>
 <td><p>1994年12月8日</p></td>
-<td><p><a href="../Page/HKT48.md" title="wikilink">HKT48成員</a></p></td>
+<td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a>成員</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -246,7 +246,7 @@
 <td><p>さとう すみれ</p></td>
 <td><p>すーちゃん</p></td>
 <td><p>1993年1月20日</p></td>
-<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48成員</a></p></td>
+<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a>成員</p></td>
 </tr>
 <tr class="odd">
 <td><p>000025</p></td>
@@ -302,7 +302,7 @@
 <td><p>たなか じゅり</p></td>
 <td><p>ジュリ</p></td>
 <td><p>1995年6月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Johnny&#39;s_Jr." title="wikilink">Johnny's Jr.成員</a>、<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN成員</a><a href="../Page/田中聖.md" title="wikilink">田中聖之弟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Johnny&#39;s_Jr." title="wikilink">Johnny's Jr.成員</a>、<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>成員<a href="../Page/田中聖.md" title="wikilink">田中聖</a>之弟</p></td>
 </tr>
 <tr class="even">
 <td><p>000032</p></td>
@@ -334,7 +334,7 @@
 <td><p>みやざき みほ</p></td>
 <td><p>みゃお</p></td>
 <td><p>1993年7月30日</p></td>
-<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48成員</a></p></td>
+<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a>成員</p></td>
 </tr>
 <tr class="even">
 <td><p>000036</p></td>
@@ -390,7 +390,7 @@
 <td><p>たいら ゆうな</p></td>
 <td><p>たいちゃん</p></td>
 <td><p>1998年11月12日</p></td>
-<td><p>2012年度<a href="https://zh.wikipedia.org/wiki/你的女孩" title="wikilink">你的女孩</a>、<a href="../Page/平愛梨.md" title="wikilink">平愛梨之妹</a></p></td>
+<td><p>2012年度<a href="https://zh.wikipedia.org/wiki/你的女孩" title="wikilink">你的女孩</a>、<a href="../Page/平愛梨.md" title="wikilink">平愛梨</a>之妹</p></td>
 </tr>
 <tr class="odd">
 <td><p>000043</p></td>
@@ -432,7 +432,7 @@
 | 000051 | [國井亞里沙](https://zh.wikipedia.org/wiki/國井亞里沙 "wikilink") | くにい ありさ  | くーちゃん | 1996年6月23日  |                                                                                       |
 | 000052 | [野呂汰雅](https://zh.wikipedia.org/wiki/野呂汰雅 "wikilink")   | のろ たいが   | たいが   | 1995年6月24日  |                                                                                       |
 | 000053 | [若月佑美](../Page/若月佑美.md "wikilink")                      | わかつき ゆみ  | ワカツキ  | 1994年6月27日  | [乃木坂46成員](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")                             |
-| 000054 | [小森美果](../Page/小森美果.md "wikilink")                      | こもり みか   | こもりん  | 1994年7月19日  | 前[AKB48成員](../Page/AKB48.md "wikilink")                                               |
+| 000054 | [小森美果](../Page/小森美果.md "wikilink")                      | こもり みか   | こもりん  | 1994年7月19日  | 前[AKB48](../Page/AKB48.md "wikilink")成員                                               |
 | 000055 | [尾崎有彩](https://zh.wikipedia.org/wiki/尾崎有彩 "wikilink")   | おざき ありさ  | ザッキー  | 1997年7月24日  |                                                                                       |
 | 000056 | [杉山紗英](https://zh.wikipedia.org/wiki/杉山紗英 "wikilink")   | すぎやま さえ  | さえ    | 1996年7月31日  |                                                                                       |
 | 000057 | [椎名桃](../Page/椎名桃.md "wikilink")                        | しいな もも   | もも    | 1997年8月6日   |                                                                                       |
@@ -789,7 +789,7 @@ R'sが気になったニュース＆話題ランキング[14]</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年4月12日</p></td>
-<td><p><a href="../Page/川島海荷.md" title="wikilink">川島海荷もホロリ</a>！？感動＆爆笑の女子マネトーク</p></td>
+<td><p><a href="../Page/川島海荷.md" title="wikilink">川島海荷</a>もホロリ！？感動＆爆笑の女子マネトーク</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -835,7 +835,7 @@ R'sが気になったニュース＆話題ランキング[14]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年4月30日</p></td>
-<td><p><a href="../Page/原宿.md" title="wikilink">原宿</a>・<a href="../Page/竹下通.md" title="wikilink">竹下通りを楽しむ秘訣</a> 生放送！ゲストは大石参月</p></td>
+<td><p><a href="../Page/原宿.md" title="wikilink">原宿</a>・<a href="../Page/竹下通.md" title="wikilink">竹下通</a>りを楽しむ秘訣 生放送！ゲストは大石参月</p></td>
 <td><p>現場直播</p></td>
 </tr>
 <tr class="even">
@@ -1197,7 +1197,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年8月28日</p></td>
-<td><p><a href="../Page/宮城縣.md" title="wikilink">宮城県</a><a href="../Page/女川町.md" title="wikilink">女川町から生放送</a>！被災地の高校生の声を届けます[19]</p></td>
+<td><p><a href="../Page/宮城縣.md" title="wikilink">宮城県</a><a href="../Page/女川町.md" title="wikilink">女川町</a>から生放送！被災地の高校生の声を届けます[19]</p></td>
 <td><p>現場直播</p></td>
 </tr>
 <tr class="odd">
@@ -1233,7 +1233,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年9月10日</p></td>
-<td><p>秋のアニソン祭り(1) このフレーズにグッときた！ <a href="../Page/May&#39;n.md" title="wikilink">May'n生ライブ</a>！</p></td>
+<td><p>秋のアニソン祭り(1) このフレーズにグッときた！ <a href="../Page/May&#39;n.md" title="wikilink">May'n</a>生ライブ！</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1248,7 +1248,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年9月13日</p></td>
-<td><p>秋のアニソン祭り(4) 生放送で投票！あなたが選ぶアニソンナンバーワン さらに<a href="../Page/水木一郎.md" title="wikilink">水木一郎LIVE</a></p></td>
+<td><p>秋のアニソン祭り(4) 生放送で投票！あなたが選ぶアニソンナンバーワン さらに<a href="../Page/水木一郎.md" title="wikilink">水木一郎</a>LIVE</p></td>
 <td><p>現場直播</p></td>
 </tr>
 <tr class="odd">
@@ -1702,7 +1702,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年1月31日</p></td>
-<td><p>R'sマンガ道場 決勝戦 U-19ショートコミック大賞 <a href="../Page/浪川大輔.md" title="wikilink">浪川大輔が生アフレコ</a>!</p></td>
+<td><p>R'sマンガ道場 決勝戦 U-19ショートコミック大賞 <a href="../Page/浪川大輔.md" title="wikilink">浪川大輔</a>が生アフレコ!</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1810,7 +1810,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年3月11日</p></td>
-<td><p>生放送 <a href="../Page/東日本大震災.md" title="wikilink">東日本大震災特集</a> 福島・放送委員の思い メッセージも大募集!</p></td>
+<td><p>生放送 <a href="../Page/東日本大震災.md" title="wikilink">東日本大震災</a>特集 福島・放送委員の思い メッセージも大募集!</p></td>
 <td><p>現場直播</p></td>
 </tr>
 <tr class="even">
@@ -1944,7 +1944,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年4月15日</p></td>
-<td><p>生放送 ぶっちゃけ覆面トーク 「熱い恋も一瞬で冷める?」 <a href="../Page/LinQ.md" title="wikilink">LinQも出るよ</a>!</p></td>
+<td><p>生放送 ぶっちゃけ覆面トーク 「熱い恋も一瞬で冷める?」 <a href="../Page/LinQ.md" title="wikilink">LinQ</a>も出るよ!</p></td>
 <td><p>現場直播</p></td>
 </tr>
 <tr class="even">
@@ -2284,7 +2284,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年7月29日</p></td>
-<td><p>夏のニュース! <a href="../Page/ASIMO.md" title="wikilink">ASIMO登場</a></p></td>
+<td><p>夏のニュース! <a href="../Page/ASIMO.md" title="wikilink">ASIMO</a>登場</p></td>
 <td><p>猛暑をハッピーに過ごす方法は?</p></td>
 </tr>
 <tr class="even">
@@ -2376,8 +2376,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 
 ## 配音員
 
-  - [Yuki
-    Rhinehart](https://zh.wikipedia.org/wiki/Yuki_Rhinehart "wikilink")
+  - [Yuki Rhinehart](https://zh.wikipedia.org/wiki/Yuki_Rhinehart "wikilink")
   - [佐竹海莉](https://zh.wikipedia.org/wiki/佐竹海莉 "wikilink")
   - [大江戸よし々](https://zh.wikipedia.org/wiki/大江戸よし々 "wikilink")
 
@@ -2387,13 +2386,11 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 
 **2011年3月30日 - 2012年3月28日**
 
-  - [NHK教育](../Page/NHK教育頻道.md "wikilink") 星期三 18:55 \~ 19:25(首播), 星期六
-    10:30 \~ 11:00(重播)
+  - [NHK教育](../Page/NHK教育頻道.md "wikilink") 星期三 18:55 \~ 19:25(首播), 星期六 10:30 \~ 11:00(重播)
 
 **2012年4月2日 -**
 
-  - [NHK教育](../Page/NHK教育頻道.md "wikilink") 星期一至星期四 18:55 \~ 19:25(首播),
-    星期二至星期五 00:00 \~ 00:30(重播)
+  - [NHK教育](../Page/NHK教育頻道.md "wikilink") 星期一至星期四 18:55 \~ 19:25(首播), 星期二至星期五 00:00 \~ 00:30(重播)
 
 ## 相關資料
 
@@ -2403,8 +2400,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
   - [R的法則日記](https://web.archive.org/web/20110810180101/http://www.nhk.or.jp/rhousoku/blog/index.html)
   - [R的法則Twitter](http://twitter.com/nhk_rhousoku)
 
-[Category:NHK電視節目](https://zh.wikipedia.org/wiki/Category:NHK電視節目 "wikilink")
-[Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink")
+[Category:NHK電視節目](https://zh.wikipedia.org/wiki/Category:NHK電視節目 "wikilink") [Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink")
 
 1.
 2.
@@ -2418,9 +2414,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 10.
 11. 從2012年11月5日播出的該集開始。
 12.
-13. 本集播出前後，R's成員在[NICONICO動畫於](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")18:20
-    - 18:55、19:25 -
-    20:30亦有演出。演出的成員有：伊藤優衣・川口絹・[前田亞美](../Page/前田亞美.md "wikilink")・[森咲樹](../Page/森咲樹.md "wikilink")4人。
+13. 本集播出前後，R's成員在[NICONICO動畫於](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")18:20 - 18:55、19:25 - 20:30亦有演出。演出的成員有：伊藤優衣・川口絹・[前田亞美](../Page/前田亞美.md "wikilink")・[森咲樹](../Page/森咲樹.md "wikilink")4人。
 14. 放送時間16:00 - 18:55の3時間スペシャル番組。
 15. 7月30日的重播因為轉播[2012年夏季奧林匹克運動會的原因](https://zh.wikipedia.org/wiki/2012年夏季奧林匹克運動會 "wikilink")，原時段播放其他節目，而延至8月2日26:35（8月3日2:35）播出。
 16. 本集原來預定7月31日播出，由於直播2012年夏季奧林匹克運動會而延播，於當初重播時段播放，重播則於隔週8月7日播出。
@@ -2428,7 +2422,5 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 18. 本日播出7月31日未播放的重播。
 19. 播出時間是18:55 - 19:55一個小時。
 20. 於17:00 - 19:00播出的兩小時特別節目。
-21. 渋谷DEどーも2013的「双方向番組
-    生放送スペシャル」，於[NHK放送中心的ふれあいホール公開現場直播](../Page/NHK放送中心.md "wikilink")，播出時間為16:15
-    - 17:00。
+21. 渋谷DEどーも2013的「双方向番組 生放送スペシャル」，於[NHK放送中心](../Page/NHK放送中心.md "wikilink")的ふれあいホール公開現場直播，播出時間為16:15 - 17:00。
 22.

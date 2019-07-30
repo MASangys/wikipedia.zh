@@ -1,19 +1,12 @@
-《**Stellar☆Theater**》（ステラ☆シアター）是[日本成人遊戲公司Rosebleu於](../Page/日本成人遊戲.md "wikilink")2009年6月26日發售的第一部[18禁](https://zh.wikipedia.org/wiki/18禁 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")\[1\]。簡稱「**すてしあ**」。2008年8月18日官方網站開通即發佈遊戲製作消息。2011年6月24日發售續作《**Stellar☆Theater
-encore**》\[2\]。2013年2月28日由CYBERFRONT代理發售[PlayStation
-Portable版](../Page/PlayStation_Portable.md "wikilink")《**Stellar☆Theater
-Portable**》\[3\]\[4\]。
+《**Stellar☆Theater**》（ステラ☆シアター）是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司Rosebleu於2009年6月26日發售的第一部[18禁](https://zh.wikipedia.org/wiki/18禁 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")\[1\]。簡稱「**すてしあ**」。2008年8月18日官方網站開通即發佈遊戲製作消息。2011年6月24日發售續作《**Stellar☆Theater encore**》\[2\]。2013年2月28日由CYBERFRONT代理發售[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")《**Stellar☆Theater Portable**》\[3\]\[4\]。
 
 ## 故事
 
-你的天空，是什麼顏色？ 宇宙人是存在的。這是一個連小孩都知道這個常識的世界。
-地球被名為『十二星座』的擁有特殊能力的人們保護，免於異星人的侵略--這樣的世界。
+你的天空，是什麼顏色？ 宇宙人是存在的。這是一個連小孩都知道這個常識的世界。 地球被名為『十二星座』的擁有特殊能力的人們保護，免於異星人的侵略--這樣的世界。
 
-在5年前的火宅事故中受的傷也已經痊癒，只是理所當然地過著理所當然地到來的每一日。
-然而，那一天，與突然出現的十二星座之一邂逅，使得他的日常變的稍微熱鬧了一點
+在5年前的火宅事故中受的傷也已經痊癒，只是理所當然地過著理所當然地到來的每一日。 然而，那一天，與突然出現的十二星座之一邂逅，使得他的日常變的稍微熱鬧了一點
 
-那就是半強迫地被選為下期十二星座的選拔考試的協助者，開始了與候補生們一起行動的熱鬧的日子。
-然後，為了與他一起接受考試，轉校到他所在的學園的3個候補的少女們。
-在其中有著本應再也無法見面的青梅竹馬的身影。 那臉上浮現著對少年的明顯厭惡感的少女的身影。
+那就是半強迫地被選為下期十二星座的選拔考試的協助者，開始了與候補生們一起行動的熱鬧的日子。 然後，為了與他一起接受考試，轉校到他所在的學園的3個候補的少女們。 在其中有著本應再也無法見面的青梅竹馬的身影。 那臉上浮現著對少年的明顯厭惡感的少女的身影。
 
 他還不知道。在考試的盡頭，有著一個足以改變自己與周圍人未來的事件。以及將要實現一個思念的那個事件。 那是誰的思念？繁星照耀的未來，只有溫柔閃爍。
 
@@ -94,16 +87,9 @@ Portable**》\[3\]\[4\]。
   - [Rosebleu](http://www.rosebleu.jp/)
   - [Stellar☆Theater](http://www.rosebleu.jp/stellar-theater/)
   - [Stellar☆Theater encore](http://www.rosebleu.jp/stellar-encore/)
-  - [Stellar☆Theater
-    Portable](http://www.cyberfront.co.jp/title/stellartheater/)(已關站)
+  - [Stellar☆Theater Portable](http://www.cyberfront.co.jp/title/stellartheater/)(已關站)
 
-[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:星座題材作品](https://zh.wikipedia.org/wiki/Category:星座題材作品 "wikilink")
+[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:星座題材作品](https://zh.wikipedia.org/wiki/Category:星座題材作品 "wikilink")
 
 1.
 2.

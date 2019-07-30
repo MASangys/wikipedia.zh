@@ -1,4 +1,4 @@
-**株式会社HEADLOCK**是一家日本游戏开发商，业务涵盖[家用机](https://zh.wikipedia.org/wiki/家用机 "wikilink")、[移动电话](../Page/移动电话.md "wikilink")、[个人计算机](https://zh.wikipedia.org/wiki/个人计算机 "wikilink")、[街机平台上的游戏的企划](../Page/街机.md "wikilink")、开发，[网络游戏的企划](../Page/网络游戏.md "wikilink")、开发、运营。
+**株式会社HEADLOCK**是一家日本游戏开发商，业务涵盖[家用机](https://zh.wikipedia.org/wiki/家用机 "wikilink")、[移动电话](../Page/移动电话.md "wikilink")、[个人计算机](https://zh.wikipedia.org/wiki/个人计算机 "wikilink")、[街机](../Page/街机.md "wikilink")平台上的游戏的企划、开发，[网络游戏](../Page/网络游戏.md "wikilink")的企划、开发、运营。
 
 ## 作品一览
 
@@ -16,8 +16,7 @@
 
   - [ai sp@ce](https://zh.wikipedia.org/wiki/ai_sp@ce "wikilink")（已停运）
 
-  - [Arcadia
-    Saga](https://zh.wikipedia.org/wiki/Arcadia_Saga "wikilink")
+  - [Arcadia Saga](https://zh.wikipedia.org/wiki/Arcadia_Saga "wikilink")
 
   - （已停运）
 
@@ -34,8 +33,7 @@
 
   - 公主协奏曲
   - [名侦探福音战士](https://zh.wikipedia.org/wiki/名侦探福音战士 "wikilink")
-  - [新世纪福音战士
-    战斗弦乐](https://zh.wikipedia.org/wiki/新世纪福音战士_战斗弦乐 "wikilink")
+  - [新世纪福音战士 战斗弦乐](https://zh.wikipedia.org/wiki/新世纪福音战士_战斗弦乐 "wikilink")
 
 #### PSP平台
 

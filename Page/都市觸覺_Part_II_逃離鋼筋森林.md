@@ -1,5 +1,4 @@
-**《都市觸覺 Part II
-逃離鋼筋森林》**是[香港歌手](../Page/香港.md "wikilink")[林憶蓮第七張粵語錄音室專輯](../Page/林憶蓮.md "wikilink")，於1989年10月24日發行。
+**《都市觸覺 Part II 逃離鋼筋森林》**是[香港](../Page/香港.md "wikilink")歌手[林憶蓮](../Page/林憶蓮.md "wikilink")第七張粵語錄音室專輯，於1989年10月24日發行。
 
 ## 曲目
 
@@ -19,7 +18,7 @@
 | -------------------------------------------- | --------- | ----- | --- | --- |
 | 依然                                           | **\[1\]** | **1** |     | \-  |
 | 燒                                            | **(1)**   | **1** |     | \-  |
-| 此情只待成追憶 ([倫永亮合唱](../Page/倫永亮.md "wikilink")) | 14        | \-    |     | 6   |
+| 此情只待成追憶 ([倫永亮](../Page/倫永亮.md "wikilink")合唱) | 14        | \-    |     | 6   |
 
 數字表示上榜最高位置
 
@@ -42,7 +41,4 @@
 
 ## 外部連結
 
-[Category:林憶蓮音樂專輯](https://zh.wikipedia.org/wiki/Category:林憶蓮音樂專輯 "wikilink")
-[Category:1989年音樂專輯](https://zh.wikipedia.org/wiki/Category:1989年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:林憶蓮音樂專輯](https://zh.wikipedia.org/wiki/Category:林憶蓮音樂專輯 "wikilink") [Category:1989年音樂專輯](https://zh.wikipedia.org/wiki/Category:1989年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

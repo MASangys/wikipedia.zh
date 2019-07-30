@@ -1,6 +1,4 @@
-《**love your
-life**》，是[豐崎愛生](../Page/豐崎愛生.md "wikilink")的第一張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2009年10月28日由[Sony
-Music發行](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")。
+《**love your life**》，是[豐崎愛生](../Page/豐崎愛生.md "wikilink")的第一張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2009年10月28日由[Sony Music發行](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")。
 
 ## 概要
 
@@ -35,5 +33,4 @@ Music發行](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")。
 ## 外部連結
 
   -
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:豐崎愛生歌曲](https://zh.wikipedia.org/wiki/Category:豐崎愛生歌曲 "wikilink")
+[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:豐崎愛生歌曲](https://zh.wikipedia.org/wiki/Category:豐崎愛生歌曲 "wikilink")

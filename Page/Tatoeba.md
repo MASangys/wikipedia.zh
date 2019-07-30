@@ -13,10 +13,6 @@ Tatoeba上有中文，文言文，上海话，粤语，潮州话。每一句中�
 ## 外部链接
 
   - [Tatoeba 中文首页](http://tatoeba.org/chi/home)
-  - [Tatoeba Wiki
-    (English)](http://en.wiki.tatoeba.org/articles/show/main#), 中文版在发展中。
+  - [Tatoeba Wiki (English)](http://en.wiki.tatoeba.org/articles/show/main#), 中文版在发展中。
 
-[Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink")
-[Category:自然語言處理](https://zh.wikipedia.org/wiki/Category:自然語言處理 "wikilink")
-[Category:内容开放](https://zh.wikipedia.org/wiki/Category:内容开放 "wikilink")
-[Category:在线词典](https://zh.wikipedia.org/wiki/Category:在线词典 "wikilink")
+[Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink") [Category:自然語言處理](https://zh.wikipedia.org/wiki/Category:自然語言處理 "wikilink") [Category:内容开放](https://zh.wikipedia.org/wiki/Category:内容开放 "wikilink") [Category:在线词典](https://zh.wikipedia.org/wiki/Category:在线词典 "wikilink")

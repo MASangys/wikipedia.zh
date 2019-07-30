@@ -1,5 +1,4 @@
-『EX\!』（****）系列是[織田兄第創作](https://zh.wikipedia.org/wiki/織田兄第 "wikilink")，[UKI插畫的](https://zh.wikipedia.org/wiki/UKI "wikilink")[輕小說](../Page/輕小說.md "wikilink")。由[SOFTBANK
-Creative於](https://zh.wikipedia.org/wiki/Softbank "wikilink")[GA文庫出版](../Page/GA文庫.md "wikilink")，2007年2月開始連載，2012年6月完結，全刊15集。中文版由[尖端出版社出版](https://zh.wikipedia.org/wiki/尖端出版社 "wikilink")，至今出刊5集。
+『EX\!』（****）系列是[織田兄第創作](https://zh.wikipedia.org/wiki/織田兄第 "wikilink")，[UKI插畫的](https://zh.wikipedia.org/wiki/UKI "wikilink")[輕小說](../Page/輕小說.md "wikilink")。由[SOFTBANK Creative於](https://zh.wikipedia.org/wiki/Softbank "wikilink")[GA文庫](../Page/GA文庫.md "wikilink")出版，2007年2月開始連載，2012年6月完結，全刊15集。中文版由[尖端出版社出版](https://zh.wikipedia.org/wiki/尖端出版社 "wikilink")，至今出刊5集。
 
 ## 故事簡介
 
@@ -170,8 +169,7 @@ Creative於](https://zh.wikipedia.org/wiki/Softbank "wikilink")[GA文庫出版](
 <!-- end list -->
 
   -
-    正式名稱是「Human Evolutionary Research
-    Agency」，即「人類進化研究機關」，又稱為「邪惡的秘密組織」。以「開發更優秀的人類」為目標，暗中研究具有動植物特性的「次世代新人類」，亦即是改造人類。改造人類的兇暴特質被逐漸地增強，引來EX戰士的討伐。在遇到毀滅性的打撃後，現在完全沉默下來。
+    正式名稱是「Human Evolutionary Research Agency」，即「人類進化研究機關」，又稱為「邪惡的秘密組織」。以「開發更優秀的人類」為目標，暗中研究具有動植物特性的「次世代新人類」，亦即是改造人類。改造人類的兇暴特質被逐漸地增強，引來EX戰士的討伐。在遇到毀滅性的打撃後，現在完全沉默下來。
 
 <!-- end list -->
 
@@ -196,8 +194,7 @@ Creative於](https://zh.wikipedia.org/wiki/Softbank "wikilink")[GA文庫出版](
 ## 用語
 
   -
-    全名是「Sphere of
-    Mine」，所有EX戰士也可以學習的能力，創造出一個有利自己戰鬥的空間。在空間中可以提升發動者的能力，削弱敵人的能力。要破解「S.O.M.」，一是令發動者自己解除，二是EX戰士的「對消滅」。由於太依賴此招而缺乏修練的EX戰士有很多。
+    全名是「Sphere of Mine」，所有EX戰士也可以學習的能力，創造出一個有利自己戰鬥的空間。在空間中可以提升發動者的能力，削弱敵人的能力。要破解「S.O.M.」，一是令發動者自己解除，二是EX戰士的「對消滅」。由於太依賴此招而缺乏修練的EX戰士有很多。
 
 <!-- end list -->
 
@@ -309,5 +306,4 @@ Creative於](https://zh.wikipedia.org/wiki/Softbank "wikilink")[GA文庫出版](
 
   - [GA文庫サイトの作品紹介ページ](http://ga.sbcr.jp/novel/ex/index.html)
 
-[Category:2007年小說](https://zh.wikipedia.org/wiki/Category:2007年小說 "wikilink")
-[Category:GA文庫](https://zh.wikipedia.org/wiki/Category:GA文庫 "wikilink")
+[Category:2007年小說](https://zh.wikipedia.org/wiki/Category:2007年小說 "wikilink") [Category:GA文庫](https://zh.wikipedia.org/wiki/Category:GA文庫 "wikilink")

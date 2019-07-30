@@ -1,12 +1,8 @@
-**《Neway Music Live X
-林欣彤音樂會》**是[林欣彤](../Page/林欣彤.md "wikilink")（Mag）的首張個人音樂會
-Karaoke [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink") +
-[CD](../Page/CD.md "wikilink")，於2011年12月22日公開發售。輯錄這次是Mag首次與[Neway合作的首個個人音樂會精彩片段](../Page/Neway.md "wikilink")，讓樂迷可以一次過重溫回味，而首批訂單已超越過萬張銷量。這次唱片公司推出音樂會的DVD，正好讓未能入場的樂迷欣賞Mag懾人的歌藝。
+**《Neway Music Live X 林欣彤音樂會》**是[林欣彤](../Page/林欣彤.md "wikilink")（Mag）的首張個人音樂會 Karaoke [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink") + [CD](../Page/CD.md "wikilink")，於2011年12月22日公開發售。輯錄這次是Mag首次與[Neway](../Page/Neway.md "wikilink")合作的首個個人音樂會精彩片段，讓樂迷可以一次過重溫回味，而首批訂單已超越過萬張銷量。這次唱片公司推出音樂會的DVD，正好讓未能入場的樂迷欣賞Mag懾人的歌藝。
 
 ## 曲目列表
 
-**《Neway Music Live X
-林欣彤音樂會》**一共收錄了23首歌曲，其中9首是林欣彤首張專輯《[Vocalist](../Page/Vocalist.md "wikilink")》的歌曲。
+**《Neway Music Live X 林欣彤音樂會》**一共收錄了23首歌曲，其中9首是林欣彤首張專輯《[Vocalist](../Page/Vocalist.md "wikilink")》的歌曲。
 
 DVD 1 / CD 1
 
@@ -47,7 +43,4 @@ DVD 2 / CD 2
 
   - 首批訂單已經超越過萬張銷量。
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:林欣彤音樂專輯](https://zh.wikipedia.org/wiki/Category:林欣彤音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:林欣彤音樂專輯](https://zh.wikipedia.org/wiki/Category:林欣彤音樂專輯 "wikilink")

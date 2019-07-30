@@ -1,24 +1,21 @@
-『**Sh15uya**』（澀谷15）是一部[田﨑竜太監督的](https://zh.wikipedia.org/wiki/田崎竜太 "wikilink")[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")[電視劇作品](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。2005年1月10日開始放送至3月28日結束，在[朝日電視台每周一深夜](../Page/朝日電視台.md "wikilink")3:12～3:42放送。之後，《[特撮エース](https://zh.wikipedia.org/wiki/特撮エース "wikilink")》雜誌開始連載了該作品的[漫畫版](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
+『**Sh15uya**』（澀谷15）是一部[田﨑竜太監督的](https://zh.wikipedia.org/wiki/田崎竜太 "wikilink")[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")[電視劇作品](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。2005年1月10日開始放送至3月28日結束，在[朝日電視台](../Page/朝日電視台.md "wikilink")每周一深夜3:12～3:42放送。之後，《[特撮エース](https://zh.wikipedia.org/wiki/特撮エース "wikilink")》雜誌開始連載了該作品的[漫畫版](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
 
 ## 概要
 
-背景發生在既是[澀谷又非澀谷的假想世界](../Page/澀谷.md "wikilink")「Shibuya」里，在這個城市裡所有路標中的「澀谷」都以片假名「シブヤ」表示。故事以5個15歲的少男少女之間的「戰鬥」為線索展開，是表現他們各自的心情與互相之間的糾葛的青春作品。
-製作方面，田﨑竜太和白倉伸一郎兩位製作人都是東映[平成假面騎士系列的製作班底](https://zh.wikipedia.org/wiki/平成假面騎士系列 "wikilink")，本作的編劇[米村正二在次年也成為](https://zh.wikipedia.org/wiki/米村正二 "wikilink")[平成假面騎士系列](https://zh.wikipedia.org/wiki/平成假面騎士系列 "wikilink")35周年紀念作《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》的編劇。此外，多位參與假面騎士的演員在本作中客串也是本作的看點之一。
+背景發生在既是[澀谷](../Page/澀谷.md "wikilink")又非澀谷的假想世界「Shibuya」里，在這個城市裡所有路標中的「澀谷」都以片假名「シブヤ」表示。故事以5個15歲的少男少女之間的「戰鬥」為線索展開，是表現他們各自的心情與互相之間的糾葛的青春作品。 製作方面，田﨑竜太和白倉伸一郎兩位製作人都是東映[平成假面騎士系列的製作班底](https://zh.wikipedia.org/wiki/平成假面騎士系列 "wikilink")，本作的編劇[米村正二在次年也成為](https://zh.wikipedia.org/wiki/米村正二 "wikilink")[平成假面騎士系列](https://zh.wikipedia.org/wiki/平成假面騎士系列 "wikilink")35周年紀念作《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》的編劇。此外，多位參與假面騎士的演員在本作中客串也是本作的看點之一。
 
 ## 登場人物・役者
 
-  - 豪(Tsuyoshi) ／ 翔太 ／
-    Revu（演：[悠城早矢](https://zh.wikipedia.org/wiki/悠城早矢 "wikilink")）-**主演**
+  - 豪(Tsuyoshi) ／ 翔太 ／ Revu（演：[悠城早矢](https://zh.wikipedia.org/wiki/悠城早矢 "wikilink")）-**主演**
     本作的[主人公](../Page/主人公.md "wikilink")。本名：**間宮豪**
-    思維簡單、性格爽直、充滿正義感的少年。在故事的開始便失去了過去的記憶，並從口中吐出了「離開Shibuya
-    ——Revu」的信條。是Palhanz最低等級的一員，對Shibuya的規則一無所知，因此常常向其他少男少女詢問。對Ema的話深信不疑，並試圖逃離Shibuya。喜歡上了淺蔥，實際上失憶以前是艾瑪(Ema)的戀人。
+    思維簡單、性格爽直、充滿正義感的少年。在故事的開始便失去了過去的記憶，並從口中吐出了「離開Shibuya ——Revu」的信條。是Palhanz最低等級的一員，對Shibuya的規則一無所知，因此常常向其他少男少女詢問。對Ema的話深信不疑，並試圖逃離Shibuya。喜歡上了淺蔥，實際上失憶以前是艾瑪(Ema)的戀人。
     少年豪由女性的悠城早矢扮演，亦是本作的特色。
   - 艾瑪(Ema)（演：[新垣結衣](../Page/新垣結衣.md "wikilink")）
     Shibuya內唯一一位具有操作魔法的能力、能夠打倒Peace的少女[關鍵人物](https://zh.wikipedia.org/wiki/關鍵人物 "wikilink")。本名：不明
     與Revu是戀人關係的女性。Shibuya內唯一一位具有魔法能力並能夠打倒Peace的特別存在。
   - 淺蔥(Asagi) ／ Miu（演：[芳賀優里亞](../Page/芳賀優里亞.md "wikilink")）
     Rabugen的老大。本名：**昭島瞳**
-    具有男性一般的性格，十分豪快。[口頭禪为](../Page/口頭禪.md "wikilink")「うざいんだよ」。活動地盤為道玄坂，在一場地盤糾紛中與豪相逢。經常與豪一起行動，久而久之對豪產生了好感。父母雙雙住院，卻從未探望過她們。被Piece鎖定時表現得十分被動，曾經等待死亡，但被豪救出。後來失去了與豪有關的所有記憶。
+    具有男性一般的性格，十分豪快。[口頭禪](../Page/口頭禪.md "wikilink")为「うざいんだよ」。活動地盤為道玄坂，在一場地盤糾紛中與豪相逢。經常與豪一起行動，久而久之對豪產生了好感。父母雙雙住院，卻從未探望過她們。被Piece鎖定時表現得十分被動，曾經等待死亡，但被豪救出。後來失去了與豪有關的所有記憶。
   - 龍吾(Ryugo)（演：山下亨）
     Palhands的老大。本名：**内藤茂樹**
     為了打倒目的可以不擇手段的冷酷少年。同時具有優秀的領導才能。口頭禪為「ダリィ」。活動地盤為文化村街道。為了統治整個Shibuya，曾試圖挑起Rabugen與Bunkamu之間的戰爭。
@@ -70,12 +67,10 @@
   - 淺蔥(Asagi) (Face.02-04) - 雖然被鎖定，由於艾瑪將Piece打倒而活了下來→但是成為了「扭結(Yojire)」。
   - 浪(Nami) (Face.05) - 死亡
   - 淺蔥(Asagi) (Face.06) - 第二次被鎖定→死亡
-  - 豪(Tsuyoshi) (Face.07-08) -
-    由龍吾想出來的策略，用鎖定了DJ的人的皮膚製成手機鏈，並將手機鏈燒毀從而打倒了Piece。
+  - 豪(Tsuyoshi) (Face.07-08) - 由龍吾想出來的策略，用鎖定了DJ的人的皮膚製成手機鏈，並將手機鏈燒毀從而打倒了Piece。
   - 幹夫(Mikio) (Face.08) - 死亡
   - 艾瑪(Ema) (Face.08) - 生存下來成為「扭結(Yojire)」。
-  - 豪(Tsuyoshi) (Face.10) -
-    生存下來成為「扭結(Yojire)」→與艾瑪一起將Hall爆破時被殺死（為了幫助艾瑪而被勸說這麼做）
+  - 豪(Tsuyoshi) (Face.10) - 生存下來成為「扭結(Yojire)」→與艾瑪一起將Hall爆破時被殺死（為了幫助艾瑪而被勸說這麼做）
   - 幹夫 (Face.11) - 死亡
   - 艾瑪(Ema)
 
@@ -125,8 +120,7 @@ Shibuya主要有3個勢力集團
   - 扭结(Yojire)
     被Piece鎖定卻沒有被殺死的人。由於違反了Sh15uya的規則而常常被其他人瞧不起。
   - Maaji
-    僅僅艾瑪擁有的特殊能力。將能夠自由變形的物體「Escode」裝備在身上，變身成為適合戰鬥的形態。戰鬥裝備被稱為Maaji
-    Suits。能夠用劍和[巴祖卡一類的武器攻擊](https://zh.wikipedia.org/wiki/巴祖卡 "wikilink")。現實世界中，呈植物人狀態的艾瑪也穿着此服，因此推測為一種生命維持裝置，然而具體不明。
+    僅僅艾瑪擁有的特殊能力。將能夠自由變形的物體「Escode」裝備在身上，變身成為適合戰鬥的形態。戰鬥裝備被稱為Maaji Suits。能夠用劍和[巴祖卡一類的武器攻擊](https://zh.wikipedia.org/wiki/巴祖卡 "wikilink")。現實世界中，呈植物人狀態的艾瑪也穿着此服，因此推測為一種生命維持裝置，然而具體不明。
   - 死體回收車
     回收被鎖定後殺死的人的屍體的大型汽車。
 
@@ -143,8 +137,7 @@ Shibuya主要有3個勢力集團
   - 設計：篠原保
   - 副導演：[加藤弘之](https://zh.wikipedia.org/wiki/加藤弘之_\(特摄导演\) "wikilink")、大峯靖弘ほか
   - 出品人：加藤和夫（[東映影像](https://zh.wikipedia.org/wiki/東映影像 "wikilink")）、松田佐栄子（朝日电视台）、矢田晃一（[東映エージエンシー](https://zh.wikipedia.org/wiki/東映エージエンシー "wikilink")）、[白倉伸一郎](https://zh.wikipedia.org/wiki/白倉伸一郎 "wikilink")、[武部直美](https://zh.wikipedia.org/wiki/武部直美 "wikilink")（[東映](../Page/東映.md "wikilink")）
-  - 「Sh15uya」贊助：[角川書店](../Page/角川書店.md "wikilink")、[コロムビアミュージックエンタテインメント](https://zh.wikipedia.org/wiki/日本コロムビア "wikilink")、東映ビデオ、[天田印刷加工](https://zh.wikipedia.org/wiki/天田印刷加工 "wikilink")、[フロンティアワークス](https://zh.wikipedia.org/wiki/フロンティアワークス "wikilink")、デビロック、[Medicom
-    Toy](https://zh.wikipedia.org/wiki/Medicom_Toy "wikilink")
+  - 「Sh15uya」贊助：[角川書店](../Page/角川書店.md "wikilink")、[コロムビアミュージックエンタテインメント](https://zh.wikipedia.org/wiki/日本コロムビア "wikilink")、東映ビデオ、[天田印刷加工](https://zh.wikipedia.org/wiki/天田印刷加工 "wikilink")、[フロンティアワークス](https://zh.wikipedia.org/wiki/フロンティアワークス "wikilink")、デビロック、[Medicom Toy](https://zh.wikipedia.org/wiki/Medicom_Toy "wikilink")
   - 製作協力：[東映エージエンシー](https://zh.wikipedia.org/wiki/東映エージエンシー "wikilink")
   - 製作：朝日電視台 東映 東映影像
 
@@ -173,8 +166,7 @@ Shibuya主要有3個勢力集團
 ### CD
 
   - 「Sh15uya」COLUMBIA MUSIC ENTERTAINMENT COCX-33078
-  - 「Sh15uya -SHIBUYA FIFTEEN ORIGINAL SOUND TRACK-」COLUMBIA MUSIC
-    ENTERTAINMENT COCZ-1017
+  - 「Sh15uya -SHIBUYA FIFTEEN ORIGINAL SOUND TRACK-」COLUMBIA MUSIC ENTERTAINMENT COCZ-1017
 
 ### DVD
 
@@ -184,9 +176,7 @@ Shibuya主要有3個勢力集團
 2.  Sh15uya VOL.2
 3.  Sh15uya VOL.3
 4.  Sh15uya VOL.4
-5.  Sh15uya Complete DVD DSTD02773 ※[Spin
-    Off新追加特典廣播電視劇](https://zh.wikipedia.org/wiki/Spin_Off "wikilink")
-    2008年發售DVD-BOX。
+5.  Sh15uya Complete DVD DSTD02773 ※[Spin Off新追加特典廣播電視劇](https://zh.wikipedia.org/wiki/Spin_Off "wikilink") 2008年發售DVD-BOX。
 
 <!-- end list -->
 
@@ -202,14 +192,11 @@ Shibuya主要有3個勢力集團
 
 ## 漫畫版
 
-在雜誌《特撮エース》No.007號到No.010號連載的[矢吹豪的漫畫作品](https://zh.wikipedia.org/wiki/矢吹豪 "wikilink")。東映監修。為同名的電視劇作品的漫畫化作品，並對故事的展開做了較大幅度的更改。此外《特撮エース》No.010號還刊載了[新間大悟的漫畫](https://zh.wikipedia.org/wiki/新間大悟 "wikilink")『Sh15uya
-渋谷十五』，同樣為東映監修。
-登場人物比電視版較為少，圍繞豪、艾瑪、淺蔥、健吾等人展開。此外，電視劇中大篇幅描繪的組織勢力之間的地盤爭奪體現較少，僅僅出現名字，龍吾、DJ甚至連名字都未出現。
+在雜誌《特撮エース》No.007號到No.010號連載的[矢吹豪的漫畫作品](https://zh.wikipedia.org/wiki/矢吹豪 "wikilink")。東映監修。為同名的電視劇作品的漫畫化作品，並對故事的展開做了較大幅度的更改。此外《特撮エース》No.010號還刊載了[新間大悟的漫畫](https://zh.wikipedia.org/wiki/新間大悟 "wikilink")『Sh15uya 渋谷十五』，同樣為東映監修。 登場人物比電視版較為少，圍繞豪、艾瑪、淺蔥、健吾等人展開。此外，電視劇中大篇幅描繪的組織勢力之間的地盤爭奪體現較少，僅僅出現名字，龍吾、DJ甚至連名字都未出現。
 
 ### 與電視劇的不同之處
 
-  - 電視劇版豪在故事開頭醒來時口中含着「離開Shibuya ——Revu」的紙條，在漫畫版中變成了牆上書寫着「離開Shibuya
-    ——Revu」。
+  - 電視劇版豪在故事開頭醒來時口中含着「離開Shibuya ——Revu」的紙條，在漫畫版中變成了牆上書寫着「離開Shibuya ——Revu」。
   - 電視版中翔太在與Piece打鬥中想起自己的名字（豪），漫畫版中ドラマ版則是Ema告訴的。
   - Piece的長相完全不同。此外，在電視劇版中刻在手背上的紋章，在漫畫中改為額頭。
   - Piece被打倒以後，被鎖定的紋章不會消失。
@@ -217,16 +204,6 @@ Shibuya主要有3個勢力集團
 
 ## 外部連結
 
-  - [Sh15uya 5108
-    シブヤブログ](https://web.archive.org/web/20080309215645/http://www.toei.co.jp/tv/sh15uya/)（東映内公式サイト、
-    「2005年7月までの期間限定」と書かれているが、2010年9月現在も閲覧可能）
+  - [Sh15uya 5108 シブヤブログ](https://web.archive.org/web/20080309215645/http://www.toei.co.jp/tv/sh15uya/)（東映内公式サイト、 「2005年7月までの期間限定」と書かれているが、2010年9月現在も閲覧可能）
 
-[Category:澀谷背景作品](https://zh.wikipedia.org/wiki/Category:澀谷背景作品 "wikilink")
-[Category:2000年代特攝作品](https://zh.wikipedia.org/wiki/Category:2000年代特攝作品 "wikilink")
-[Category:深夜特摄](https://zh.wikipedia.org/wiki/Category:深夜特摄 "wikilink")
-[Category:東映特攝作品](https://zh.wikipedia.org/wiki/Category:東映特攝作品 "wikilink")
-[Category:朝日電視台深夜劇集](https://zh.wikipedia.org/wiki/Category:朝日電視台深夜劇集 "wikilink")
-[Category:2005年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2005年日本電視劇集 "wikilink")
-[Category:日本科幻劇](https://zh.wikipedia.org/wiki/Category:日本科幻劇 "wikilink")
-[Category:日本動作劇](https://zh.wikipedia.org/wiki/Category:日本動作劇 "wikilink")
-[Category:新垣結衣](https://zh.wikipedia.org/wiki/Category:新垣結衣 "wikilink")
+[Category:澀谷背景作品](https://zh.wikipedia.org/wiki/Category:澀谷背景作品 "wikilink") [Category:2000年代特攝作品](https://zh.wikipedia.org/wiki/Category:2000年代特攝作品 "wikilink") [Category:深夜特摄](https://zh.wikipedia.org/wiki/Category:深夜特摄 "wikilink") [Category:東映特攝作品](https://zh.wikipedia.org/wiki/Category:東映特攝作品 "wikilink") [Category:朝日電視台深夜劇集](https://zh.wikipedia.org/wiki/Category:朝日電視台深夜劇集 "wikilink") [Category:2005年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2005年日本電視劇集 "wikilink") [Category:日本科幻劇](https://zh.wikipedia.org/wiki/Category:日本科幻劇 "wikilink") [Category:日本動作劇](https://zh.wikipedia.org/wiki/Category:日本動作劇 "wikilink") [Category:新垣結衣](https://zh.wikipedia.org/wiki/Category:新垣結衣 "wikilink")

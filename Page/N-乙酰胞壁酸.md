@@ -5,7 +5,4 @@
   - [氨基糖](https://zh.wikipedia.org/wiki/氨基糖 "wikilink")
   - [葡糖胺](https://zh.wikipedia.org/wiki/葡糖胺 "wikilink")
 
-[Category:氨基糖](https://zh.wikipedia.org/wiki/Category:氨基糖 "wikilink")
-[Category:单糖衍生物](https://zh.wikipedia.org/wiki/Category:单糖衍生物 "wikilink")
-[Category:单糖](https://zh.wikipedia.org/wiki/Category:单糖 "wikilink")
-[Category:膜生物学](https://zh.wikipedia.org/wiki/Category:膜生物学 "wikilink")
+[Category:氨基糖](https://zh.wikipedia.org/wiki/Category:氨基糖 "wikilink") [Category:单糖衍生物](https://zh.wikipedia.org/wiki/Category:单糖衍生物 "wikilink") [Category:单糖](https://zh.wikipedia.org/wiki/Category:单糖 "wikilink") [Category:膜生物学](https://zh.wikipedia.org/wiki/Category:膜生物学 "wikilink")

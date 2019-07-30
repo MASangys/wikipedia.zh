@@ -1,6 +1,4 @@
-**愛華 みれ**（あいか
-みれ、1964年11月29日）為日本的女藝人，前[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[花組的主演男役](../Page/花組.md "wikilink")。身高168cm、血型O型。本名**森田
-裕子**（もりた ひろこ Morita Hiroko）。
+**愛華 みれ**（あいか みれ、1964年11月29日）為日本的女藝人，前[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[花組](../Page/花組.md "wikilink")的主演男役。身高168cm、血型O型。本名**森田 裕子**（もりた ひろこ Morita Hiroko）。
 
 鹿兒島縣南大隅町（舊 根占町）出身。鹿兒島縣立南大隅高等學校畢業。
 
@@ -11,7 +9,7 @@
   - 1986年『散る花よ、風の囁きを聞け』的薩摩藩士役受到提拔。之後陸續在『秋…冬への前奏曲』、『春の風を君に』等新人公演中擔任主演的角色。
   - 1999年伴隨[真矢みき退團](https://zh.wikipedia.org/wiki/真矢みき "wikilink")，以『夜明けの序曲』上任花組主演男役。
   - 2001年以『ミケランジェロ』退團。之後以女演員的身分在舞台以及電視表演活躍著。
-  - 2008年3月21日，所屬事務所發表聲明，為專心治療惡性[淋巴瘤之故](../Page/淋巴瘤.md "wikilink")，取消原先預定演出的舞台音樂劇『SEMPO』。\<\[1\]
+  - 2008年3月21日，所屬事務所發表聲明，為專心治療惡性[淋巴瘤](../Page/淋巴瘤.md "wikilink")之故，取消原先預定演出的舞台音樂劇『SEMPO』。\<\[1\]
   - 同年8月6日於[早安少女組與寶塚共同合作的](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")「シンデレラtheミュージカル」復歸。演出仙度瑞拉的後母一角。
   - 2009年1月1日入籍。
 
@@ -23,17 +21,13 @@
   - 1992年 『けれど夢の中で めざめたときに』：マサキ（バウホール公演初主演）
   - 1992年 『心の旅路/ファンシー・タッチ』：リチャード
   - 1992年 『ドニエブルの赤い罌粟』：ニコラーエフ
-  - 1993年
-    『[メランコリック・ジゴロ](https://zh.wikipedia.org/wiki/メランコリック・ジゴロ_-あぶない相続人- "wikilink")/ラ・ノーバ\!』：マチウ
+  - 1993年 『[メランコリック・ジゴロ](https://zh.wikipedia.org/wiki/メランコリック・ジゴロ_-あぶない相続人- "wikilink")/ラ・ノーバ\!』：マチウ
   - 1993年 『ベイ・シティ・ブルース/イッツ・ア・ラブ・ストーリー』：ホールデン
   - 1993年 『ワン・タッチ・オブ・ヴィーナス』：セイボリー
-  - 1994年 『[ブラック・ジャック
-    危険な賭け](https://zh.wikipedia.org/wiki/ブラック・ジャック_危険な賭け "wikilink")/[火の鳥](https://zh.wikipedia.org/wiki/火の鳥_\(漫画\) "wikilink")』：ジョイ（東京公演：ケイン）
+  - 1994年 『[ブラック・ジャック 危険な賭け](https://zh.wikipedia.org/wiki/ブラック・ジャック_危険な賭け "wikilink")/[火の鳥](https://zh.wikipedia.org/wiki/火の鳥_\(漫画\) "wikilink")』：ジョイ（東京公演：ケイン）
   - 1994年 『[たけくらべ](https://zh.wikipedia.org/wiki/たけくらべ "wikilink")』：信如
-  - 1994年
-    『[冬の嵐、ペテルブルグに死す](https://zh.wikipedia.org/wiki/宝塚歌劇団によって舞台化された作品の一覧#スペードの女王 "wikilink")/ハイパー・ステージ\!』：ポール
-  - 1995年
-    『[哀しみのコルドバ](https://zh.wikipedia.org/wiki/哀しみのコルドバ "wikilink")/メガ・ヴィジョン』：ビセント
+  - 1994年 『[冬の嵐、ペテルブルグに死す](https://zh.wikipedia.org/wiki/宝塚歌劇団によって舞台化された作品の一覧#スペードの女王 "wikilink")/ハイパー・ステージ\!』：ポール
+  - 1995年 『[哀しみのコルドバ](https://zh.wikipedia.org/wiki/哀しみのコルドバ "wikilink")/メガ・ヴィジョン』：ビセント
   - 1995年 『LAST DANCE』：ニキ
 
 ### 花組2番手時代（1995-1998）
@@ -45,8 +39,7 @@
   - 1996年 『ハウ・トゥー・サクシード』：バド・フランプ
   - 1996年 『Ryoma 〜硬派・坂本龍馬\!II〜』：桂小五郎
   - 1997年 『失われた楽園/サザンクロス・レビュー」：エリオット・ウォーカー
-  - 1997年
-    『風と共に去りぬ』（[隨風而逝](https://zh.wikipedia.org/wiki/隨風而逝 "wikilink")）：スカーレット・オハラ
+  - 1997年 『風と共に去りぬ』（[隨風而逝](https://zh.wikipedia.org/wiki/隨風而逝 "wikilink")）：スカーレット・オハラ
   - 1997年 『ザッツ・レビュー』：大河原亮
   - 1998年『ヴェロニック』：フロレスタン・ド・ヴァランクール（Bow Hall主演）
   - 1998年 『SPEAKEASY/スナイパー』：ジョナサン・ピーチャム
@@ -56,8 +49,7 @@
   - 1998年 『春ふたたび/サザンクロス・レビュー』：藤原道忠
   - 1999年 『夜明けの序曲』：川上音二郎（大劇場TOP披露公演）
   - 1999年 『タンゴ・アルゼンチーノ/ザ・レビュー'99』：フリオ・デスノイエル
-  - 2000年 『[源氏物語](../Page/源氏物語.md "wikilink")
-    [あさきゆめみし](https://zh.wikipedia.org/wiki/あさきゆめみし "wikilink")/ザ・ビューティーズ\!』：光源氏
+  - 2000年 『[源氏物語](../Page/源氏物語.md "wikilink") [あさきゆめみし](https://zh.wikipedia.org/wiki/あさきゆめみし "wikilink")/ザ・ビューティーズ\!』：光源氏
   - 2000年 『〜夢と孤独の果てに〜 ルードヴィッヒII世/Asian Sunrise』：ルードヴィッヒII世
   - 2001年 『ミケランジェロ ―神になろうとした男- /VIVA\!』：ミケランジェロ・ブォナローティ（退團公演）
 
@@ -79,9 +71,7 @@
   - [1954のホテルライフ](http://www.t1010.jp/html/calender/2004/04/04.htm)
   - キスへのプレリュード
   - 34丁目の奇跡〜Here's Love〜（2004年、2005年、アートスフィア）ドリス・ウォーカー 役
-  - [忍者イリュージョン NARUTO
-    -ナルト-](https://zh.wikipedia.org/wiki/NARUTO_-ナルト-#舞台 "wikilink")（2006年5月、東京
-    ゆうぽうと・大阪 シアターBRAVA\!） - 綱手 役
+  - [忍者イリュージョン NARUTO -ナルト-](https://zh.wikipedia.org/wiki/NARUTO_-ナルト-#舞台 "wikilink")（2006年5月、東京 ゆうぽうと・大阪 シアターBRAVA\!） - 綱手 役
   - ペテン師と詐欺師
   - セレブの資格
   - シンデレラ the ミュージカル
@@ -98,27 +88,20 @@
   - 土曜ワイド劇場「殺人スタント2」（2006年7月15日、朝日放送） - 馬渕孝江 役
   - 連続テレビ小説 芋たこなんきん（2006年10月 - 2007年3月、NHK） - 古城あやめ 役
   - 水曜シアター9 女かけこみ寺 刑事・大石水穂2」（2009年7月15日、テレビ東京） - 陽口茜 役
-  - [水戸黄門](https://zh.wikipedia.org/wiki/水戸黄門_\(パナソニック_ドラマシアター\) "wikilink")[第40部第](https://zh.wikipedia.org/wiki/水戸黄門_\(里見浩太朗\) "wikilink")1話「陰謀暴き、いざ北へ\!終わりなき世直しの旅」（2009年7月27日、TBS）
-    - 鶴次 役
-  - 土曜ワイド劇場「[火災調査官・紅蓮次郎](https://zh.wikipedia.org/wiki/火災調査官・紅蓮次郎 "wikilink")
-    スペシャル」（2010年2月13日、[テレビ朝日](https://zh.wikipedia.org/wiki/テレビ朝日 "wikilink")）
-    - 石田美咲 役
-  - [連続テレビ小説](https://zh.wikipedia.org/wiki/連続テレビ小説 "wikilink")「[ゲゲゲの女房](https://zh.wikipedia.org/wiki/ゲゲゲの女房 "wikilink")」（2010年4月
-    - 9月、NHK）- 村井佐知子 役
-  - [金曜プレステージ](https://zh.wikipedia.org/wiki/金曜プレステージ "wikilink")「山村美紗サスペンス
-    京都・源氏物語殺人絵巻」（2010年11月12日、フジテレビ） - 毛利雅江 役
+  - [水戸黄門](https://zh.wikipedia.org/wiki/水戸黄門_\(パナソニック_ドラマシアター\) "wikilink")[第40部第](https://zh.wikipedia.org/wiki/水戸黄門_\(里見浩太朗\) "wikilink")1話「陰謀暴き、いざ北へ\!終わりなき世直しの旅」（2009年7月27日、TBS） - 鶴次 役
+  - 土曜ワイド劇場「[火災調査官・紅蓮次郎](https://zh.wikipedia.org/wiki/火災調査官・紅蓮次郎 "wikilink") スペシャル」（2010年2月13日、[テレビ朝日](https://zh.wikipedia.org/wiki/テレビ朝日 "wikilink")） - 石田美咲 役
+  - [連続テレビ小説](https://zh.wikipedia.org/wiki/連続テレビ小説 "wikilink")「[ゲゲゲの女房](https://zh.wikipedia.org/wiki/ゲゲゲの女房 "wikilink")」（2010年4月 - 9月、NHK）- 村井佐知子 役
+  - [金曜プレステージ](https://zh.wikipedia.org/wiki/金曜プレステージ "wikilink")「山村美紗サスペンス 京都・源氏物語殺人絵巻」（2010年11月12日、フジテレビ） - 毛利雅江 役
 
 ### 其他電視節目
 
-  - [テレビ東京](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink")
-    [地球街道](https://zh.wikipedia.org/wiki/地球街道 "wikilink")
+  - [テレビ東京](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink") [地球街道](https://zh.wikipedia.org/wiki/地球街道 "wikilink")
 
 他多数
 
 ### 廣播
 
-  - [ABCラジオ](https://zh.wikipedia.org/wiki/ABCラジオ "wikilink")
-    [流星倶楽部](https://zh.wikipedia.org/wiki/流星倶楽部 "wikilink")
+  - [ABCラジオ](https://zh.wikipedia.org/wiki/ABCラジオ "wikilink") [流星倶楽部](https://zh.wikipedia.org/wiki/流星倶楽部 "wikilink")
 
 ### 電影
 
@@ -147,12 +130,9 @@
 ## 外部連結
 
   - [Mire Channel](http://www.mire-channel.com/) - 愛華みれ Official Site
-  - [ホリプロ・ブッキング・エージェンシー
-    愛華みれ](https://web.archive.org/web/20101209072147/http://hba.horipro.co.jp/talent/aikamire.html)
-  - [愛華日記](https://web.archive.org/web/20110104062019/http://aikamire.blog.ocn.ne.jp/)
-    - Officier Blog
+  - [ホリプロ・ブッキング・エージェンシー 愛華みれ](https://web.archive.org/web/20101209072147/http://hba.horipro.co.jp/talent/aikamire.html)
+  - [愛華日記](https://web.archive.org/web/20110104062019/http://aikamire.blog.ocn.ne.jp/) - Officier Blog
 
-[Category:鹿兒島縣出身人物](https://zh.wikipedia.org/wiki/Category:鹿兒島縣出身人物 "wikilink")
-[Category:1964年出生](https://zh.wikipedia.org/wiki/Category:1964年出生 "wikilink")
+[Category:鹿兒島縣出身人物](https://zh.wikipedia.org/wiki/Category:鹿兒島縣出身人物 "wikilink") [Category:1964年出生](https://zh.wikipedia.org/wiki/Category:1964年出生 "wikilink")
 
 1.

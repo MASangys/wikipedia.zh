@@ -1,12 +1,10 @@
-《**-{GEAR戰士電童}-**》（），港譯《**數碼傳-{}-動戰士**》，2000年間[日昇動畫製作的](../Page/日昇動畫.md "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")，全38話。2003年10月16日在[香港](../Page/香港.md "wikilink")[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[翡翠台的兒童節目](../Page/翡翠台.md "wikilink")《[至NET小人類](../Page/至NET小人類.md "wikilink")》播映。
+《**-{GEAR戰士電童}-**》（），港譯《**數碼傳-{}-動戰士**》，2000年間[日昇動畫](../Page/日昇動畫.md "wikilink")製作的[機器人動畫](../Page/機器人動畫.md "wikilink")，全38話。2003年10月16日在[香港](../Page/香港.md "wikilink")[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")的兒童節目《[至NET小人類](../Page/至NET小人類.md "wikilink")》播映。
 
 ## 故事
 
   -
     17年前，一名少女拿著傳動指揮器從外阿爾克多斯逃亡來到地球。
-    17年後的一日，剛搬來星見町的小五學生草薙北斗偶然下認識了熟練功夫的出雲銀河，
-    碰巧有一大群加魯法機械獸，從月球的螺旋城飛來。兩人在逃亡中，突然遇到秘密特務組織GEAR的傳動戰士電童，
-    電童與他們產生了感應，並揀選了他們成為駕駛員，在原先的駕駛員貝嘉指導下， 他們成功戰勝了加魯法機械獸，從此亦兼負上守護地球的責任。
+    17年後的一日，剛搬來星見町的小五學生草薙北斗偶然下認識了熟練功夫的出雲銀河， 碰巧有一大群加魯法機械獸，從月球的螺旋城飛來。兩人在逃亡中，突然遇到秘密特務組織GEAR的傳動戰士電童， 電童與他們產生了感應，並揀選了他們成為駕駛員，在原先的駕駛員貝嘉指導下， 他們成功戰勝了加魯法機械獸，從此亦兼負上守護地球的責任。
 
 ## 登場人物
 
@@ -175,8 +173,7 @@
 ### 數據武器
 
   -
-    稱作「」的程式生命體，在阿爾克多斯的傳說中被稱呼為七個神。除去火鳳凰外其餘六架均在到達地球後便以電子信號的形式四散於各地（火鳳凰藏身於電童內），具有獨立的意志去選擇契約者——電童或凰牙的駕駛員，在安裝後能夠透過消耗大量的能源使出終極攻勢（Final
-    Attack），此外在沒有安裝的狀態下可以透過檔案讀取的方式形成獨立的戰力。劇中共有7個數據武器先後登場。
+    稱作「」的程式生命體，在阿爾克多斯的傳說中被稱呼為七個神。除去火鳳凰外其餘六架均在到達地球後便以電子信號的形式四散於各地（火鳳凰藏身於電童內），具有獨立的意志去選擇契約者——電童或凰牙的駕駛員，在安裝後能夠透過消耗大量的能源使出終極攻勢（Final Attack），此外在沒有安裝的狀態下可以透過檔案讀取的方式形成獨立的戰力。劇中共有7個數據武器先後登場。
     （**超獸王 輝刃**為**獨角獸金鋼鑽**和**獅王光環**融合而成，並不算是一個新的數據武器。）
     以下記載根據登場順序：
 
@@ -190,8 +187,7 @@
     屬性：渦
     技能：尖角鑽頭、主力切割刀
   -
-    安裝後附著於左手，終極攻勢型態為高速旋轉後直接以蛇頭衝擊對手的電磁鍊枷，並能啟動特殊能力「**瞬間幻影**（Illusion
-    Flash）」。
+    安裝後附著於左手，終極攻勢型態為高速旋轉後直接以蛇頭衝擊對手的電磁鍊枷，並能啟動特殊能力「**瞬間幻影**（Illusion Flash）」。
     全高：58m
     武器全長：8.1m
     象徴：自信
@@ -219,8 +215,7 @@
     屬性：火
     技能：龍之刀、燃燒閃光
   -
-    安裝後附著於胸口，終極攻勢型態為從炮口轟出的大量超長距離與大範圍能量機炮，並能啟動特殊能力「**時間管理**（Clock
-    Manager）」。
+    安裝後附著於胸口，終極攻勢型態為從炮口轟出的大量超長距離與大範圍能量機炮，並能啟動特殊能力「**時間管理**（Clock Manager）」。
     全高：12m
     武器全長：10.4m
     象徴：創造
@@ -314,8 +309,7 @@
   - 系列構成 - [兩澤千晶](../Page/兩澤千晶.md "wikilink")
   - 角色/機獸設計 - [久行宏和](https://zh.wikipedia.org/wiki/久行宏和 "wikilink")
   - 主要機械設計 - 阿久津潤一、[PLEX](https://zh.wikipedia.org/wiki/PLEX "wikilink")
-  - 機械設計工作 -
-    [今石進](../Page/今石進.md "wikilink")、大輪充、戸部隆一、[PLEX](https://zh.wikipedia.org/wiki/PLEX "wikilink")
+  - 機械設計工作 - [今石進](../Page/今石進.md "wikilink")、大輪充、戸部隆一、[PLEX](https://zh.wikipedia.org/wiki/PLEX "wikilink")
   - 總作畫監督 - 久行宏和、重田智
   - 美術監督 - 池田繁美
   - 色彩設定 - 黑柳朋子
@@ -325,12 +319,9 @@
   - 音響效果 - 蔭山満
   - 音樂 - [佐橋俊彦](https://zh.wikipedia.org/wiki/佐橋俊彦 "wikilink")
   - 音樂製作人 - 野崎圭一、佐保歌名世
-  - 音樂制作/協力 - [Victor
-    Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")、[TV東京音樂](https://zh.wikipedia.org/wiki/TV東京音樂 "wikilink")、[日昇音樂出版](https://zh.wikipedia.org/wiki/日昇音樂出版 "wikilink")
-  - 製作人 -
-    [五島尚武](https://zh.wikipedia.org/wiki/五島尚武 "wikilink")、[高城一典](https://zh.wikipedia.org/wiki/高城一典 "wikilink")、[古里尚丈](https://zh.wikipedia.org/wiki/古里尚丈 "wikilink")
-  - 製作 -
-    [東京電視台](../Page/東京電視台.md "wikilink")、[読売広告社](https://zh.wikipedia.org/wiki/読売広告社 "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")
+  - 音樂制作/協力 - [Victor Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")、[TV東京音樂](https://zh.wikipedia.org/wiki/TV東京音樂 "wikilink")、[日昇音樂出版](https://zh.wikipedia.org/wiki/日昇音樂出版 "wikilink")
+  - 製作人 - [五島尚武](https://zh.wikipedia.org/wiki/五島尚武 "wikilink")、[高城一典](https://zh.wikipedia.org/wiki/高城一典 "wikilink")、[古里尚丈](https://zh.wikipedia.org/wiki/古里尚丈 "wikilink")
+  - 製作 - [東京電視台](../Page/東京電視台.md "wikilink")、[読売広告社](https://zh.wikipedia.org/wiki/読売広告社 "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")
 
 ## 主題歌
 
@@ -341,9 +332,7 @@
   -
 
       -
-        作詞 - 石川雅敏 / 作曲 - Little Voice / 編曲 - HAL2000 / 歌 -
-        [三重野瞳](../Page/三重野瞳.md "wikilink") with
-        [影山浩宣](../Page/影山浩宣.md "wikilink")
+        作詞 - 石川雅敏 / 作曲 - Little Voice / 編曲 - HAL2000 / 歌 - [三重野瞳](../Page/三重野瞳.md "wikilink") with [影山浩宣](../Page/影山浩宣.md "wikilink")
 
   - 片尾曲
 
@@ -890,23 +879,12 @@
 
 ## 參與遊戲
 
-  - [SUNRISE WORLDWAR from
-    SUNRISE英雄譚](https://zh.wikipedia.org/wiki/SUNRISE英雄譚 "wikilink")
+  - [SUNRISE WORLDWAR from SUNRISE英雄譚](https://zh.wikipedia.org/wiki/SUNRISE英雄譚 "wikilink")
   - [超級機器人大戰R](../Page/超級機器人大戰R.md "wikilink")
   - [超級機器人大戰MX](../Page/超級機器人大戰MX.md "wikilink")
 
 ## 外部連結
 
-  - [《-{zh-hk:數碼傳動戰士;
-    zh-tw:GEAR戰士電童;}-》電視動畫官方網站](http://www.dendoh.net/)
+  - [《-{zh-hk:數碼傳動戰士; zh-tw:GEAR戰士電童;}-》電視動畫官方網站](http://www.dendoh.net/)
 
-[Category:2000年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2000年日本電視動畫 "wikilink")
-[Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:外星科幻題材作品](https://zh.wikipedia.org/wiki/Category:外星科幻題材作品 "wikilink")
-[Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink")
-[Category:宇宙戰爭題材作品](https://zh.wikipedia.org/wiki/Category:宇宙戰爭題材作品 "wikilink")
-[Category:人工智能題材作品](https://zh.wikipedia.org/wiki/Category:人工智能題材作品 "wikilink")
-[Category:机器人题材作品](https://zh.wikipedia.org/wiki/Category:机器人题材作品 "wikilink")
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
+[Category:2000年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2000年日本電視動畫 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:外星科幻題材作品](https://zh.wikipedia.org/wiki/Category:外星科幻題材作品 "wikilink") [Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink") [Category:宇宙戰爭題材作品](https://zh.wikipedia.org/wiki/Category:宇宙戰爭題材作品 "wikilink") [Category:人工智能題材作品](https://zh.wikipedia.org/wiki/Category:人工智能題材作品 "wikilink") [Category:机器人题材作品](https://zh.wikipedia.org/wiki/Category:机器人题材作品 "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")

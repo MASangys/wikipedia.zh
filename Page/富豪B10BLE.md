@@ -10,8 +10,6 @@ B10BLE的蹤跡遍及歐洲、澳洲及新加坡等地。
 
 ## 後繼產品
 
-B10BLE於1993年量產，而B10M並沒有停產，兩者同時生產以因應不同買家的需要。當B10M於2001年停產後，B10BLE也於2004年停產，其城市巴士的後繼車型為[富豪B7L及](https://zh.wikipedia.org/wiki/富豪B7L "wikilink")[富豪B7RLE取代](https://zh.wikipedia.org/wiki/富豪B7RLE "wikilink")，另外還有引擎馬力更強的B12BLE。
+B10BLE於1993年量產，而B10M並沒有停產，兩者同時生產以因應不同買家的需要。當B10M於2001年停產後，B10BLE也於2004年停產，其城市巴士的後繼車型為[富豪B7L及](https://zh.wikipedia.org/wiki/富豪B7L "wikilink")[富豪B7RLE](../Page/富豪B7RLE.md "wikilink")取代，另外還有引擎馬力更強的B12BLE。
 
-[Category:富豪巴士](https://zh.wikipedia.org/wiki/Category:富豪巴士 "wikilink")
-[Category:新加坡單層巴士](https://zh.wikipedia.org/wiki/Category:新加坡單層巴士 "wikilink")
-[Category:1992年面世的交通工具](https://zh.wikipedia.org/wiki/Category:1992年面世的交通工具 "wikilink")
+[Category:富豪巴士](https://zh.wikipedia.org/wiki/Category:富豪巴士 "wikilink") [Category:新加坡單層巴士](https://zh.wikipedia.org/wiki/Category:新加坡單層巴士 "wikilink") [Category:1992年面世的交通工具](https://zh.wikipedia.org/wiki/Category:1992年面世的交通工具 "wikilink")

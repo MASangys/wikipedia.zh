@@ -1,5 +1,4 @@
-《**鬼來電Final**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：
-Final）。[鬼來電系列電影完結篇](https://zh.wikipedia.org/wiki/鬼來電 "wikilink")，人物與前二集並無相關。日本上映日期為2006年6月24日。
+《**鬼來電Final**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")： Final）。[鬼來電系列電影完結篇](https://zh.wikipedia.org/wiki/鬼來電 "wikilink")，人物與前二集並無相關。日本上映日期為2006年6月24日。
 
 完結篇的劇情，沿用第一集「水沼美美子的詛咒」，死亡的學生口中都含著一顆紅色糖果。但此集收到未接留言時，如果轉寄給其他人，就不會死，而收到別人轉寄留言的那個人將無法轉寄出去，與前二集收到留言的人就會死亡的劇情較不相同，也反映出人性深層的黑暗面。
 
@@ -13,7 +12,7 @@ Final）。[鬼來電系列電影完結篇](https://zh.wikipedia.org/wiki/鬼來
 
 ## 主要人物
 
-  - 松田明日香（[堀北真希飾](../Page/堀北真希.md "wikilink")）
+  - 松田明日香（[堀北真希](../Page/堀北真希.md "wikilink")飾）
 
 本作品的女主角，惠美里的密友，曾經送給惠美里一個手機吊飾，並約定要一起去海邊。
 
@@ -37,7 +36,7 @@ Final）。[鬼來電系列電影完結篇](https://zh.wikipedia.org/wiki/鬼來
 
 故事最後與明日香一起到了海邊。
 
-  - 安吉奴（[張根碩飾](../Page/張根碩.md "wikilink")）
+  - 安吉奴（[張根碩](../Page/張根碩.md "wikilink")飾）
 
 惠美里的韓國網友，用手語跟惠美里溝通。
 
@@ -258,18 +257,9 @@ Final）。[鬼來電系列電影完結篇](https://zh.wikipedia.org/wiki/鬼來
 
 ## 外部連結
 
-  - [Movie Database 網路電影資料庫](http://en.wikipedia.org/wiki/Internet)－[鬼來電
-    Final](http://www.imdb.com/title/tt0978797/)
+  - [Movie Database 網路電影資料庫](http://en.wikipedia.org/wiki/Internet)－[鬼來電 Final](http://www.imdb.com/title/tt0978797/)
 
   -
 [ja:着信アリ\#「着信アリFinal」](https://zh.wikipedia.org/wiki/ja:着信アリ#「着信アリFinal」 "wikilink")
 
-[Category:堀北真希](https://zh.wikipedia.org/wiki/Category:堀北真希 "wikilink")
-[Category:2006年電影](https://zh.wikipedia.org/wiki/Category:2006年電影 "wikilink")
-[Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink")
-[Category:2000年代恐怖片](https://zh.wikipedia.org/wiki/Category:2000年代恐怖片 "wikilink")
-[Category:日本恐怖片](https://zh.wikipedia.org/wiki/Category:日本恐怖片 "wikilink")
-[Category:鬼片](https://zh.wikipedia.org/wiki/Category:鬼片 "wikilink")
-[Category:恐怖小說改編電影](https://zh.wikipedia.org/wiki/Category:恐怖小說改編電影 "wikilink")
-[Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink")
-[Category:手機題材作品](https://zh.wikipedia.org/wiki/Category:手機題材作品 "wikilink")
+[Category:堀北真希](https://zh.wikipedia.org/wiki/Category:堀北真希 "wikilink") [Category:2006年電影](https://zh.wikipedia.org/wiki/Category:2006年電影 "wikilink") [Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink") [Category:2000年代恐怖片](https://zh.wikipedia.org/wiki/Category:2000年代恐怖片 "wikilink") [Category:日本恐怖片](https://zh.wikipedia.org/wiki/Category:日本恐怖片 "wikilink") [Category:鬼片](https://zh.wikipedia.org/wiki/Category:鬼片 "wikilink") [Category:恐怖小說改編電影](https://zh.wikipedia.org/wiki/Category:恐怖小說改編電影 "wikilink") [Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink") [Category:手機題材作品](https://zh.wikipedia.org/wiki/Category:手機題材作品 "wikilink")

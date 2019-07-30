@@ -1,34 +1,18 @@
-**羅伯特‧富蘭克林‧楊**（**Robert Franklin
-Young**，1915年－1986年）是一名[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[科幻作家](https://zh.wikipedia.org/wiki/科幻 "wikilink")。除了在[第二次世界大戰時](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，有三年半的時間人在[太平洋服役外](https://zh.wikipedia.org/wiki/太平洋 "wikilink")，他的一生多半在[紐約州度過](https://zh.wikipedia.org/wiki/紐約州 "wikilink")。他在[伊利湖](../Page/伊利湖.md "wikilink")一帶也有房產。
+**羅伯特‧富蘭克林‧楊**（**Robert Franklin Young**，1915年－1986年）是一名[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[科幻作家](https://zh.wikipedia.org/wiki/科幻 "wikilink")。除了在[第二次世界大戰時](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，有三年半的時間人在[太平洋服役外](https://zh.wikipedia.org/wiki/太平洋 "wikilink")，他的一生多半在[紐約州度過](https://zh.wikipedia.org/wiki/紐約州 "wikilink")。他在[伊利湖](../Page/伊利湖.md "wikilink")一帶也有房產。
 
 ## 生平
 
 羅伯特‧楊只能算是一個小有名氣的人，無論在美國或其他地區都一樣。他在寫作投注了超過三十年的時間，一直到他逝世前都沒有停止寫作。幾乎在他逝世前，科幻界才知道他曾經替[水牛城](../Page/水牛城.md "wikilink")的[官立學校擔任過校工](https://zh.wikipedia.org/wiki/官立學校 "wikilink")。
 
-他的寫作生涯從1953年開始，起初在 *[Startling
-Stories](https://zh.wikipedia.org/wiki/:en:Startling_Stories "wikilink")*，然後是[花花公子](../Page/花花公子.md "wikilink")，''[The
-Saturday Evening
-Post](https://zh.wikipedia.org/wiki/:en:The_Saturday_Evening_Post "wikilink")
-*，以及*[Collier's](https://zh.wikipedia.org/wiki/:en:Collier's "wikilink")''。類型主要是以詩意而浪漫的短篇小說為主，使他和[雷·布萊伯利](../Page/雷·布萊伯利.md "wikilink")以及[席奧多爾·史鐸金](../Page/席奧多爾·史鐸金.md "wikilink")得以相提並論。其中有許多作品由法國的
-[*Galaxie*](https://zh.wikipedia.org/wiki/:en:Galaxy_Science_Fiction "wikilink")、[*Fiction*](https://zh.wikipedia.org/wiki/:en:Fiction_\(magazine\) "wikilink")
-以及 *Livre de Poche*
-的科幻選集發行了法文版。在[意大利](../Page/意大利.md "wikilink")，多數的作品是由
-*[Urania](https://zh.wikipedia.org/wiki/:en:Urania_\(magazine\) "wikilink")*
-雜誌發行。
+他的寫作生涯從1953年開始，起初在 *[Startling Stories](https://zh.wikipedia.org/wiki/:en:Startling_Stories "wikilink")*，然後是[花花公子](../Page/花花公子.md "wikilink")，''[The Saturday Evening Post](https://zh.wikipedia.org/wiki/:en:The_Saturday_Evening_Post "wikilink") *，以及*[Collier's](https://zh.wikipedia.org/wiki/:en:Collier's "wikilink")''。類型主要是以詩意而浪漫的短篇小說為主，使他和[雷·布萊伯利](../Page/雷·布萊伯利.md "wikilink")以及[席奧多爾·史鐸金](../Page/席奧多爾·史鐸金.md "wikilink")得以相提並論。其中有許多作品由法國的 [*Galaxie*](https://zh.wikipedia.org/wiki/:en:Galaxy_Science_Fiction "wikilink")、[*Fiction*](https://zh.wikipedia.org/wiki/:en:Fiction_\(magazine\) "wikilink") 以及 *Livre de Poche* 的科幻選集發行了法文版。在[意大利](../Page/意大利.md "wikilink")，多數的作品是由 *[Urania](https://zh.wikipedia.org/wiki/:en:Urania_\(magazine\) "wikilink")* 雜誌發行。
 
-羅伯特‧楊最著名的作品可能是**[蒲公英女孩](../Page/蒲公英女孩.md "wikilink")**（*The Dandelion
-Girl*），影響了[日本](../Page/日本.md "wikilink")[動畫導演](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")[出淵裕的](https://zh.wikipedia.org/wiki/出淵裕 "wikilink")[翼神世音](../Page/翼神世音.md "wikilink")以及楊後來的作品「[Little
-Dog
-Gone](https://zh.wikipedia.org/wiki/Little_Dog_Gone "wikilink")」，該書更被提名為雨果獎最佳故事。\[1\]
+羅伯特‧楊最著名的作品可能是**[蒲公英女孩](../Page/蒲公英女孩.md "wikilink")**（*The Dandelion Girl*），影響了[日本](../Page/日本.md "wikilink")[動畫導演](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")[出淵裕的](https://zh.wikipedia.org/wiki/出淵裕 "wikilink")[翼神世音](../Page/翼神世音.md "wikilink")以及楊後來的作品「[Little Dog Gone](https://zh.wikipedia.org/wiki/Little_Dog_Gone "wikilink")」，該書更被提名為雨果獎最佳故事。\[1\]
 
 ## 作品
 
 ### 小說
 
-羅伯特‧楊只寫過五本小說，包括 *La Quete de la Sainte
-Grille*（1975年），該書是他的[短篇小說](https://zh.wikipedia.org/wiki/短篇小說 "wikilink")「The
-Quest of the Holy
-Grille」的延伸作品，且僅在[法國發行法文版](https://zh.wikipedia.org/wiki/法國 "wikilink")。以下列出全部出版的小說：
+羅伯特‧楊只寫過五本小說，包括 *La Quete de la Sainte Grille*（1975年），該書是他的[短篇小說](https://zh.wikipedia.org/wiki/短篇小說 "wikilink")「The Quest of the Holy Grille」的延伸作品，且僅在[法國發行法文版](https://zh.wikipedia.org/wiki/法國 "wikilink")。以下列出全部出版的小說：
 
   - *La Quete de la Sainte Grille*（1975年）
   - *Starfinder*（1980年）
@@ -108,8 +92,7 @@ Grille」的延伸作品，且僅在[法國發行法文版](https://zh.wikipedia
   - "A Knyght Ther Was"
   - "L'Arc De Jeanne"
   - "Let There Be Night"
-  - "[Little Dog
-    Gone](https://zh.wikipedia.org/wiki/Little_Dog_Gone "wikilink")"
+  - "[Little Dog Gone](https://zh.wikipedia.org/wiki/Little_Dog_Gone "wikilink")"
   - "Little Red Schoolhouse"
   - "Lord of Rays"
   - "The Lost Earthman"
@@ -191,10 +174,6 @@ Grille」的延伸作品，且僅在[法國發行法文版](https://zh.wikipedia
 
 ## 參考資料
 
-[Category:1915年出生](https://zh.wikipedia.org/wiki/Category:1915年出生 "wikilink")
-[Category:1986年逝世](https://zh.wikipedia.org/wiki/Category:1986年逝世 "wikilink")
-[Category:美國作家](https://zh.wikipedia.org/wiki/Category:美國作家 "wikilink")
-[Category:科幻小說作家](https://zh.wikipedia.org/wiki/Category:科幻小說作家 "wikilink")
-[Category:美國短篇小說作家](https://zh.wikipedia.org/wiki/Category:美國短篇小說作家 "wikilink")
+[Category:1915年出生](https://zh.wikipedia.org/wiki/Category:1915年出生 "wikilink") [Category:1986年逝世](https://zh.wikipedia.org/wiki/Category:1986年逝世 "wikilink") [Category:美國作家](https://zh.wikipedia.org/wiki/Category:美國作家 "wikilink") [Category:科幻小說作家](https://zh.wikipedia.org/wiki/Category:科幻小說作家 "wikilink") [Category:美國短篇小說作家](https://zh.wikipedia.org/wiki/Category:美國短篇小說作家 "wikilink")
 
 1.  [1965年雨果獎](http://www.thehugoawards.org/hugo-history/1965-hugo-awards/)

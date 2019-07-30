@@ -1,5 +1,4 @@
-《**關西傑尼斯8 TOUR 2∞9
-PUZZLE**》（）為日本男偶像團體[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")5張DVD。
+《**關西傑尼斯8 TOUR 2∞9 PUZZLE**》（）為日本男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第5張DVD。
 
 ## 概要
 
@@ -101,5 +100,4 @@ PUZZLE**》（）為日本男偶像團體[關西傑尼斯8的第](../Page/關西
 
 ※24頁寫真集
 
-[Category:關西傑尼斯8影像作品](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8影像作品 "wikilink")
-[Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink")
+[Category:關西傑尼斯8影像作品](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8影像作品 "wikilink") [Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink")

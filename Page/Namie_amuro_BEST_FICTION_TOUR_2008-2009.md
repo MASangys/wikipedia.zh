@@ -1,14 +1,10 @@
-《**namie amuro BEST FICTION TOUR 2008-2009**》（安室奈美惠 2008-2009 巡迴演唱會
-鑽漾精選）為日本歌手[安室奈美惠於](../Page/安室奈美惠.md "wikilink")2009年9月9日發行之個人巡迴演唱會DVD。
+《**namie amuro BEST FICTION TOUR 2008-2009**》（安室奈美惠 2008-2009 巡迴演唱會 鑽漾精選）為日本歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2009年9月9日發行之個人巡迴演唱會DVD。
 
 ## 簡介
 
-  - 與2008年7月30日所發行，連續六週奪得週榜冠軍的精選輯《[BEST
-    FICTION](../Page/BEST_FICTION.md "wikilink")》為主題的公演。在23個城市進行共64場公演，並動員50萬人，為個人女歌手人數之冠。其中連續兩年於臺北進行公演，並首次在上海進行公演。
-  - 收錄場次為6月20日、21日於[臺北小巨蛋的公演](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")，為安室本人首次收錄海外公演。映像最後的「BEST
-    non FICTION」則是安室在台灣公演的幕後實拍。
-  - 本作分DVD、藍光光碟兩形式發售，初登場奪下[Oricon榜DVD](../Page/Oricon公信榜.md "wikilink")、藍光光碟兩榜冠軍。初動銷量達到15.5萬張，更新[倉木麻衣的PV集](../Page/倉木麻衣.md "wikilink")《FIRST
-    CUT》的紀錄，成為歷代女歌手[音樂錄影帶初動最高銷量](../Page/音樂錄影帶.md "wikilink")。\[1\]
+  - 與2008年7月30日所發行，連續六週奪得週榜冠軍的精選輯《[BEST FICTION](../Page/BEST_FICTION.md "wikilink")》為主題的公演。在23個城市進行共64場公演，並動員50萬人，為個人女歌手人數之冠。其中連續兩年於臺北進行公演，並首次在上海進行公演。
+  - 收錄場次為6月20日、21日於[臺北小巨蛋的公演](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")，為安室本人首次收錄海外公演。映像最後的「BEST non FICTION」則是安室在台灣公演的幕後實拍。
+  - 本作分DVD、藍光光碟兩形式發售，初登場奪下[Oricon榜DVD](../Page/Oricon公信榜.md "wikilink")、藍光光碟兩榜冠軍。初動銷量達到15.5萬張，更新[倉木麻衣](../Page/倉木麻衣.md "wikilink")的PV集《FIRST CUT》的紀錄，成為歷代女歌手[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")初動最高銷量。\[1\]
   - 本演唱會首次沒有演唱任何由小室哲哉製作的作品。
 
 ## 曲目
@@ -51,7 +47,6 @@
 
 ## 外部連結
 
-[Category:安室奈美惠影像作品](https://zh.wikipedia.org/wiki/Category:安室奈美惠影像作品 "wikilink")
-[Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink")
+[Category:安室奈美惠影像作品](https://zh.wikipedia.org/wiki/Category:安室奈美惠影像作品 "wikilink") [Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink")
 
 1.  [安室奈美恵、DVD初動売上で女性アーティスト歴代1位](http://www.oricon.co.jp/news/rankmusic/69179/full/)、オリコン、2009年9月16日。

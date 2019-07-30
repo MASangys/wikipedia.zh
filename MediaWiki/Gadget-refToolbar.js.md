@@ -19,9 +19,7 @@
 `* @author: `[`User:Kaldari`](https://zh.wikipedia.org/wiki/User:Kaldari "wikilink")
 `*/`
 
-/\*jshint browser: true, camelcase: true, curly: true, eqeqeq: true \*/
-/\*global jQuery, mediaWiki, importScript \*/ ( function ( mw, $ ) {
-'use strict'; function initializeRefTools() {
+/\*jshint browser: true, camelcase: true, curly: true, eqeqeq: true \*/ /\*global jQuery, mediaWiki, importScript \*/ ( function ( mw, $ ) { 'use strict'; function initializeRefTools() {
 
 `   if( window.refToolbarInstalled || $( '#wpTextbox1[readonly]' ).length ){`
 `       return;`
@@ -43,8 +41,7 @@
 
 }
 
-if ( $.inArray( mw.config.get( 'wgAction' ), \[ 'edit', 'submit' \] )
-\!== -1 ) {
+if ( $.inArray( mw.config.get( 'wgAction' ), \[ 'edit', 'submit' \] ) \!== -1 ) {
 
 `   // Double check if user.options is loaded, to prevent errors when copy pasted accross installations`
 `   $.when( mw.loader.using( ['user.options'] ), $.ready ).done( initializeRefTools );`

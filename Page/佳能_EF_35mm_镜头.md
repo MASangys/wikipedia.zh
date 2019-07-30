@@ -1,15 +1,8 @@
-**佳能 EF 35mm
-镜头**是由[佳能公司制造的一组](https://zh.wikipedia.org/wiki/佳能公司 "wikilink")35毫米[广角](https://zh.wikipedia.org/wiki/广角镜 "wikilink")[定焦镜头的总称](../Page/定焦镜头.md "wikilink")。一般认为24毫米至35毫米的焦距是广角范围，而35毫米处於广角范围的最长端，从而接近标准的50毫米焦距但仍具有一定的广角视野。通常这一焦距最常用於群体人像、风光等多种常用场合。这一焦距也被刚开始接触广角摄影的拍摄者所喜爱，因为它并不像更广的焦距那样难以驾驭。
+**佳能 EF 35mm 镜头**是由[佳能公司制造的一组](https://zh.wikipedia.org/wiki/佳能公司 "wikilink")35毫米[广角](https://zh.wikipedia.org/wiki/广角镜 "wikilink")[定焦镜头](../Page/定焦镜头.md "wikilink")的总称。一般认为24毫米至35毫米的焦距是广角范围，而35毫米处於广角范围的最长端，从而接近标准的50毫米焦距但仍具有一定的广角视野。通常这一焦距最常用於群体人像、风光等多种常用场合。这一焦距也被刚开始接触广角摄影的拍摄者所喜爱，因为它并不像更广的焦距那样难以驾驭。
 
-当用於佳能数码[EOS系列的](../Page/佳能EOS系列.md "wikilink")[APS-C幅面机身](https://zh.wikipedia.org/wiki/APS-C "wikilink")（如[佳能
-EOS
-400D](../Page/佳能_EOS_400D.md "wikilink")）时，35毫米的视角会变窄，其等效於全幅机身上的56mm视角（乘以系数1.6）。当用於[APS-H幅面机身](https://zh.wikipedia.org/wiki/APS-H "wikilink")（如[佳能
-EOS-1D Mark
-III](../Page/佳能_EOS-1D_Mark_III.md "wikilink")）时，其等效於全幅机身的46毫米视角（乘以系数1.3）。
+当用於佳能数码[EOS系列的](../Page/佳能EOS系列.md "wikilink")[APS-C幅面机身](https://zh.wikipedia.org/wiki/APS-C "wikilink")（如[佳能 EOS 400D](../Page/佳能_EOS_400D.md "wikilink")）时，35毫米的视角会变窄，其等效於全幅机身上的56mm视角（乘以系数1.6）。当用於[APS-H幅面机身](https://zh.wikipedia.org/wiki/APS-H "wikilink")（如[佳能 EOS-1D Mark III](../Page/佳能_EOS-1D_Mark_III.md "wikilink")）时，其等效於全幅机身的46毫米视角（乘以系数1.3）。
 
-目前35毫米镜头包括[光圈](../Page/光圈.md "wikilink")1.4的EF 35 mm f/1.4L
-USM镜头和光圈2.0的EF 35 mm
-f/2镜头，前者是[L镜头](../Page/佳能L镜头.md "wikilink")。
+目前35毫米镜头包括[光圈](../Page/光圈.md "wikilink")1.4的EF 35 mm f/1.4L USM镜头和光圈2.0的EF 35 mm f/2镜头，前者是[L镜头](../Page/佳能L镜头.md "wikilink")。
 
 ## 产品参数
 
@@ -152,5 +145,4 @@ f/2镜头，前者是[L镜头](../Page/佳能L镜头.md "wikilink")。
 </tbody>
 </table>
 
-[Category:佳能EF接環鏡頭](https://zh.wikipedia.org/wiki/Category:佳能EF接環鏡頭 "wikilink")
-[Category:佳能L鏡頭系列](https://zh.wikipedia.org/wiki/Category:佳能L鏡頭系列 "wikilink")
+[Category:佳能EF接環鏡頭](https://zh.wikipedia.org/wiki/Category:佳能EF接環鏡頭 "wikilink") [Category:佳能L鏡頭系列](https://zh.wikipedia.org/wiki/Category:佳能L鏡頭系列 "wikilink")

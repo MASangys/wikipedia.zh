@@ -1,5 +1,4 @@
-[The_X_Factor_world_map.png](https://zh.wikipedia.org/wiki/File:The_X_Factor_world_map.png "fig:The_X_Factor_world_map.png")
-《**X音素**》（）是一個在英國開始舉辦的真人選秀節目，它最初是作為《流行偶像》的替代節目而出現。這是一個歌唱節目，目前在全球許多國家都有自己的版本。這個節目將參賽選手分組，并互相對抗來決出最後的冠軍。參賽者大多是抱著成為流行歌手的目的參與節目的選拔。該節目由執行製作人[西蒙·考威尔和他的公司](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")製作而成。“X音素”的含義是代表某種明星具備的氣質。該節目的獎勵通常是一份唱片合約，此外還包括後期的一系列的宣傳推廣活動。該獎勵並不只針對冠軍一人，有時也包括其他獲得較高排名的選手。
+[The_X_Factor_world_map.png](https://zh.wikipedia.org/wiki/File:The_X_Factor_world_map.png "fig:The_X_Factor_world_map.png") 《**X音素**》（）是一個在英國開始舉辦的真人選秀節目，它最初是作為《流行偶像》的替代節目而出現。這是一個歌唱節目，目前在全球許多國家都有自己的版本。這個節目將參賽選手分組，并互相對抗來決出最後的冠軍。參賽者大多是抱著成為流行歌手的目的參與節目的選拔。該節目由執行製作人[西蒙·考威尔和他的公司](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")製作而成。“X音素”的含義是代表某種明星具備的氣質。該節目的獎勵通常是一份唱片合約，此外還包括後期的一系列的宣傳推廣活動。該獎勵並不只針對冠軍一人，有時也包括其他獲得較高排名的選手。
 
 這種選秀模式的原創者是[西蒙·考威尔](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")，他同時也是《[英國版X音素](../Page/英國版X音素.md "wikilink")》和《[美國版X音素](https://zh.wikipedia.org/wiki/美國版X音素 "wikilink")》的評委和導師。“X音素”系列節目迄今最成功的選手是《英國版X音素》第三季冠軍[利昂娜·刘易斯](../Page/利昂娜·刘易斯.md "wikilink")。截止到2011年12月，全球“X音素”系列節目合計推出了59名冠軍。最近的一個冠軍是《[美國版X音素](https://zh.wikipedia.org/wiki/美國版X音素 "wikilink")》的[梅拉尼·阿瑪羅](https://zh.wikipedia.org/wiki/梅拉尼·阿瑪羅 "wikilink")。
 
@@ -728,38 +727,18 @@ Yolka<br />
 
 ## 糾紛和爭議
 
-“X音素”系列節目與“偶像”系列節目的相似性促使“偶像”系列節目的著作權人西蒙·富勒（）及其公司19娛樂（）在2004年對[西蒙·考威尔](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")、和提起訴訟。但是很快雙方便在2005年達成了[庭外和解](https://zh.wikipedia.org/wiki/庭外和解 "wikilink")。根據和解協議，西蒙·富勒獲得了“X音素”系列節目一個執行製作人的身份，同時擁有該節目10%的版權，並且商定在2011年前，不得在美國引進“X音素”系列節目。\[4\]\[5\]
-在2011年[西蒙·考威尔](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")、和[福克斯廣播公司達成製作](https://zh.wikipedia.org/wiki/福克斯廣播公司 "wikilink")《[美國版X音素](https://zh.wikipedia.org/wiki/美國版X音素 "wikilink")》的協議后，西蒙·富勒以未能履行其執行製片人身份為由再次起訴上述三家公司。\[6\]\[7\]\[8\]\[9\]
+“X音素”系列節目與“偶像”系列節目的相似性促使“偶像”系列節目的著作權人西蒙·富勒（）及其公司19娛樂（）在2004年對[西蒙·考威尔](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")、和提起訴訟。但是很快雙方便在2005年達成了[庭外和解](https://zh.wikipedia.org/wiki/庭外和解 "wikilink")。根據和解協議，西蒙·富勒獲得了“X音素”系列節目一個執行製作人的身份，同時擁有該節目10%的版權，並且商定在2011年前，不得在美國引進“X音素”系列節目。\[4\]\[5\] 在2011年[西蒙·考威尔](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")、和[福克斯廣播公司達成製作](https://zh.wikipedia.org/wiki/福克斯廣播公司 "wikilink")《[美國版X音素](https://zh.wikipedia.org/wiki/美國版X音素 "wikilink")》的協議后，西蒙·富勒以未能履行其執行製片人身份為由再次起訴上述三家公司。\[6\]\[7\]\[8\]\[9\]
 
 ## 參考資料
 
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
-[Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink")
-[Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink")
-[Category:X音素](https://zh.wikipedia.org/wiki/Category:X音素 "wikilink")
+[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink") [Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink") [Category:X音素](https://zh.wikipedia.org/wiki/Category:X音素 "wikilink")
 
 1.  <http://escdaily.com/articles/28281>
 2.  <http://www.telegrafi.com/magazina/alketa-sjell-x-factor-ne-shqiperi-6-12234.html>
-3.  Also shown in [Republic of
-    Ireland](https://zh.wikipedia.org/wiki/Republic_of_Ireland "wikilink")
-    and In series 3, 4 and 7, auditions were held in Dublin, and viewers
-    in Ireland were allowed to vote on contestants.
-4.  ["X Factor copyright case
-    settled"](http://news.bbc.co.uk/1/hi/entertainment/4482216.stm), BBC
-    News, retrieved 15 May 2007
-5.  [Simon Cowell: And the real winner
-    is...](http://www.independent.co.uk/news/media/simon-cowell-and-the-real-winner-is-523206.html)
-    *The Independent*, retrieved 15 May 2007
-6.  [Fuller Sues Fox For X-Factor
-    Fees](http://www.bloomberg.com/news/2011-07-20/fuller-sues-fox-for-x-factor-fees.html)
-    Bloomberg, retrieved 20 July 2011
-7.  [Simon Fuller Sues Fox Over ‘X
-    Factor’](http://mediadecoder.blogs.nytimes.com/2011/07/20/simon-fuller-sues-fox-over-x-factor/)
-    *The New York Times*, retrieved 20 July 2011
-8.  [Fuller vs Cowell Part Two: American Idol creator 'suing over X
-    Factor
-    USA'](http://www.dailymail.co.uk/tvshowbiz/article-2016967/Fuller-vs-Cowell-Part-Two-American-Idol-creator-suing-X-Factor-USA.html#ixzz1SgXyRnqE)
-    *Daily Mail*, retrieved 20 July 2011
-9.  [Simon Fuller sues Fox and Fremantle over 'X Factor'
-    credit](http://latimesblogs.latimes.com/entertainmentnewsbuzz/2011/07/simon-fuller-sues-fox-and-freemantle-over-x-factor-credit.html)
-    *Los Angeles Times*, retieved 20 July 2011
+3.  Also shown in [Republic of Ireland](https://zh.wikipedia.org/wiki/Republic_of_Ireland "wikilink") and In series 3, 4 and 7, auditions were held in Dublin, and viewers in Ireland were allowed to vote on contestants.
+4.  ["X Factor copyright case settled"](http://news.bbc.co.uk/1/hi/entertainment/4482216.stm), BBC News, retrieved 15 May 2007
+5.  [Simon Cowell: And the real winner is...](http://www.independent.co.uk/news/media/simon-cowell-and-the-real-winner-is-523206.html) *The Independent*, retrieved 15 May 2007
+6.  [Fuller Sues Fox For X-Factor Fees](http://www.bloomberg.com/news/2011-07-20/fuller-sues-fox-for-x-factor-fees.html) Bloomberg, retrieved 20 July 2011
+7.  [Simon Fuller Sues Fox Over ‘X Factor’](http://mediadecoder.blogs.nytimes.com/2011/07/20/simon-fuller-sues-fox-over-x-factor/) *The New York Times*, retrieved 20 July 2011
+8.  [Fuller vs Cowell Part Two: American Idol creator 'suing over X Factor USA'](http://www.dailymail.co.uk/tvshowbiz/article-2016967/Fuller-vs-Cowell-Part-Two-American-Idol-creator-suing-X-Factor-USA.html#ixzz1SgXyRnqE) *Daily Mail*, retrieved 20 July 2011
+9.  [Simon Fuller sues Fox and Fremantle over 'X Factor' credit](http://latimesblogs.latimes.com/entertainmentnewsbuzz/2011/07/simon-fuller-sues-fox-and-freemantle-over-x-factor-credit.html) *Los Angeles Times*, retieved 20 July 2011

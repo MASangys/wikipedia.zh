@@ -1,11 +1,10 @@
-是日本漫画家所著的漫画作品。于[小学馆发行的](https://zh.wikipedia.org/wiki/小学馆 "wikilink")《[月刊Sunday
-GENE-X](https://zh.wikipedia.org/wiki/月刊Sunday_GENE-X "wikilink")》2007年1月号上开始连载。全12卷。中文版由[青文出版社代理出版](../Page/青文出版社.md "wikilink")。
+是日本漫画家所著的漫画作品。于[小学馆发行的](https://zh.wikipedia.org/wiki/小学馆 "wikilink")《[月刊Sunday GENE-X](https://zh.wikipedia.org/wiki/月刊Sunday_GENE-X "wikilink")》2007年1月号上开始连载。全12卷。中文版由[青文出版社](../Page/青文出版社.md "wikilink")代理出版。
 
 動畫方面，2010年7月宣布製作電視動畫，翌年7月至9月首播。
 
 ## 故事
 
-离开闭锁的故乡，**匡平**只身一人来到[东京上大学](../Page/东京.md "wikilink")。某天，匡平的妹妹**诗绪**来到匡平家。她拥有「隻」的资格，可以操纵在家乡中如[神般的存在](../Page/神.md "wikilink")、名为「**案山子**」的人偶。诗绪告诉匡平，过去在村中引发惨剧的儿时玩伴**阿几**，为了找到匡平而逃出村子。阿几跟诗绪一样拥有「隻」的资格，在这时操纵着「案山子」袭击了匡平。
+离开闭锁的故乡，**匡平**只身一人来到[东京](../Page/东京.md "wikilink")上大学。某天，匡平的妹妹**诗绪**来到匡平家。她拥有「隻」的资格，可以操纵在家乡中如[神](../Page/神.md "wikilink")般的存在、名为「**案山子**」的人偶。诗绪告诉匡平，过去在村中引发惨剧的儿时玩伴**阿几**，为了找到匡平而逃出村子。阿几跟诗绪一样拥有「隻」的资格，在这时操纵着「案山子」袭击了匡平。
 
 如今，众神之战一触即发。
 
@@ -16,8 +15,7 @@ GENE-X](https://zh.wikipedia.org/wiki/月刊Sunday_GENE-X "wikilink")》2007年1
   -
     本作品的主角。擁有隨意奪取「案山子」操縱權的能力。因为讨厌时间像是停止不动的故乡空守村，一从高中毕业就到东京生活的大学生。在N大学上学。
     一向都是过着平凡的生活，可是，打算向日日乃告白的那天，发现了被斩杀的尸体。而且，本应留在村中的妹妹来到他那里，平稳的生活随即宣告终结。
-    房间在被阿几袭击时受到破坏，由于日日乃的父亲也是空守村出身，便跟诗绪一起在日日乃家住下。真昼动乱事件中为保护日日乃得以再次操纵玖吼理，并成功击退了复活的天照素，同时赢得了日日乃的芳心。为了挽救被天照素吞噬的桐生与村中神社发生冲突，
-    被捕囚禁后逃出再次向村中神社请求挽救桐生后，用自身某能力得到迦丧建角的操纵权，现正与日日乃一起前往天照素所在处。天照素重伤逃走后与阿几融合，并寻找匡平决战，匡平放弃使用玖吼理，孤身前去面对阿几。
+    房间在被阿几袭击时受到破坏，由于日日乃的父亲也是空守村出身，便跟诗绪一起在日日乃家住下。真昼动乱事件中为保护日日乃得以再次操纵玖吼理，并成功击退了复活的天照素，同时赢得了日日乃的芳心。为了挽救被天照素吞噬的桐生与村中神社发生冲突， 被捕囚禁后逃出再次向村中神社请求挽救桐生后，用自身某能力得到迦丧建角的操纵权，现正与日日乃一起前往天照素所在处。天照素重伤逃走后与阿几融合，并寻找匡平决战，匡平放弃使用玖吼理，孤身前去面对阿几。
     和平主义者，多少有点不喑世事。有好好尽到做哥哥的责任。以前是玖吼理的隻，因为某件事而放棄了资格。
   -
     匡平的妹妹，本作品的女主角之一。操纵形状像是生了手臂的蘑菇一般的案山子·玖吼理。
@@ -122,7 +120,7 @@ GENE-X](https://zh.wikipedia.org/wiki/月刊Sunday_GENE-X "wikilink")》2007年1
 
     久羽子形容它是「超大的[木偶怪物](https://zh.wikipedia.org/wiki/木偶 "wikilink")」。
 
-    头上有一对像是[双马尾的手](https://zh.wikipedia.org/wiki/双马尾 "wikilink")，武器有右手内以特殊金屬製成的刀子，和头部放出的光线，以及左手內的[三神器之一](../Page/三神器.md "wikilink")，[八咫鏡](../Page/八咫鏡.md "wikilink")(可吸收能量，經增幅後射出)。唯一可使用八咫鏡的隻只有匡平。
+    头上有一对像是[双马尾的手](https://zh.wikipedia.org/wiki/双马尾 "wikilink")，武器有右手内以特殊金屬製成的刀子，和头部放出的光线，以及左手內的[三神器](../Page/三神器.md "wikilink")之一，[八咫鏡](../Page/八咫鏡.md "wikilink")(可吸收能量，經增幅後射出)。唯一可使用八咫鏡的隻只有匡平。
 
     名字的由来是[菊理媛神](https://zh.wikipedia.org/wiki/菊理媛命 "wikilink")。
 
@@ -311,9 +309,7 @@ GENE-X](https://zh.wikipedia.org/wiki/月刊Sunday_GENE-X "wikilink")》2007年1
   - 音樂 - 西田マサラ、石川智晶
   - 音樂制作 - [Flying DOG](../Page/Flying_DOG.md "wikilink")
   - 動畫制作 - [Brain's Base](../Page/Brain's_Base.md "wikilink")
-  - 製作 - 案山子保存協會（[Media
-    Factory](../Page/Media_Factory.md "wikilink")、[小學館](../Page/小學館.md "wikilink")、[東京電視台](../Page/東京電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[Flying
-    DOG](../Page/Flying_DOG.md "wikilink")、索尼音樂傳播）
+  - 製作 - 案山子保存協會（[Media Factory](../Page/Media_Factory.md "wikilink")、[小學館](../Page/小學館.md "wikilink")、[東京電視台](../Page/東京電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[Flying DOG](../Page/Flying_DOG.md "wikilink")、索尼音樂傳播）
 
 ### 動畫主題曲
 
@@ -541,7 +537,4 @@ GENE-X](https://zh.wikipedia.org/wiki/月刊Sunday_GENE-X "wikilink")》2007年1
 
   - [](https://web.archive.org/web/20101202150859/http://websunday.net/gx/sakuhin/yamamura.html)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:神道題材作品](https://zh.wikipedia.org/wiki/Category:神道題材作品 "wikilink")
-[Category:2011年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年東京電視網動畫 "wikilink")
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:神道題材作品](https://zh.wikipedia.org/wiki/Category:神道題材作品 "wikilink") [Category:2011年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年東京電視網動畫 "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")

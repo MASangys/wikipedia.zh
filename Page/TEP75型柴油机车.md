@@ -1,4 +1,4 @@
-**TEP75型柴油机车**（）是[苏联铁路的大功率准高速干线客运](../Page/苏联.md "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，属于实验性车型，由[科洛姆纳内燃机车制造厂于](https://zh.wikipedia.org/wiki/科洛姆纳内燃机车制造厂 "wikilink")1975年设计制造。
+**TEP75型柴油机车**（）是[苏联](../Page/苏联.md "wikilink")铁路的大功率准高速干线客运[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，属于实验性车型，由[科洛姆纳内燃机车制造厂于](https://zh.wikipedia.org/wiki/科洛姆纳内燃机车制造厂 "wikilink")1975年设计制造。
 
 TEP75型机车是在TEP70型柴油机车基础上改进而成的大功率客运柴油机车，装用一台20气缸、四冲程、带废气涡轮增压的1Д49型柴油机，额定功率6000马力；并装用一台哈尔科夫电机制造厂生产的А-713У2型同步发电机，额定功率4060千瓦；并采用了轮对空心轴式牵引电机架悬传动装置。
 
@@ -37,12 +37,8 @@ TEP75型机车装用一台20ДГ型柴油发电机组，包括一台1Д49型大�
 
 ## 外部链接
 
-  - [ОАО "Коломенский:
-    Тепловозы](http://www.kolomnadiesel.com/productions/locomotive/diesel_locomotive/)
+  - [ОАО "Коломенский: Тепловозы](http://www.kolomnadiesel.com/productions/locomotive/diesel_locomotive/)
 
-  - [1520mm.ru: Тепловоз
-    ТЭП75](https://web.archive.org/web/20090616082051/http://www.1520mm.ru/locomotives/diesel/tep75.phtml)
+  - [1520mm.ru: Тепловоз ТЭП75](https://web.archive.org/web/20090616082051/http://www.1520mm.ru/locomotives/diesel/tep75.phtml)
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:科洛姆纳制铁路机车](https://zh.wikipedia.org/wiki/Category:科洛姆纳制铁路机车 "wikilink")
-[Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:科洛姆纳制铁路机车](https://zh.wikipedia.org/wiki/Category:科洛姆纳制铁路机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")

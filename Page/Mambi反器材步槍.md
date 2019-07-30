@@ -6,7 +6,7 @@ Mambi是一款專門為破壞敵軍輕型地面載具、小船或[直升機而�
 
 ## 歷史
 
-由於有關Mambi的資料不多，故認識這種武器的人比較少。目前從網上一些圖片可見，在1980年代於[安哥拉作戰的古巴士兵並有使用此槍](../Page/安哥拉.md "wikilink")。
+由於有關Mambi的資料不多，故認識這種武器的人比較少。目前從網上一些圖片可見，在1980年代於[安哥拉](../Page/安哥拉.md "wikilink")作戰的古巴士兵並有使用此槍。
 
 ## 使用國
 
@@ -19,15 +19,9 @@ Mambi是一款專門為破壞敵軍輕型地面載具、小船或[直升機而�
 
 ## 參考資料
 
-  - [UNION DE LA INDUSTRIA MILITAR
-    MAMBI-1](http://www.securityarms.com/20010315/galleryfiles/2800/2865.htm)
+  - [UNION DE LA INDUSTRIA MILITAR MAMBI-1](http://www.securityarms.com/20010315/galleryfiles/2800/2865.htm)
   - [gunco-book](https://archive.is/20120715034656/smallarmsillustrated.tripod.com/01.htm)
 
 {{-}}
 
-[Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink")
-[Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink")
-[Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink")
-[Category:14.5×114毫米槍械](https://zh.wikipedia.org/wiki/Category:14.5×114毫米槍械 "wikilink")
-[Category:古巴槍械](https://zh.wikipedia.org/wiki/Category:古巴槍械 "wikilink")
-[Category:犢牛式槍械](https://zh.wikipedia.org/wiki/Category:犢牛式槍械 "wikilink")
+[Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink") [Category:14.5×114毫米槍械](https://zh.wikipedia.org/wiki/Category:14.5×114毫米槍械 "wikilink") [Category:古巴槍械](https://zh.wikipedia.org/wiki/Category:古巴槍械 "wikilink") [Category:犢牛式槍械](https://zh.wikipedia.org/wiki/Category:犢牛式槍械 "wikilink")

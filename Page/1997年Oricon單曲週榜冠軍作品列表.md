@@ -1,6 +1,6 @@
-**1997年Oricon單曲週榜冠軍作品列表**列出1997年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**1997年Oricon單曲週榜冠軍作品列表**列出1997年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
-全年度共有37首冠軍單曲誕生，其中[GLAY的](../Page/GLAY.md "wikilink")《[HOWEVER](../Page/HOWEVER.md "wikilink")》取得冠軍的週數最多（5週）。
+全年度共有37首冠軍單曲誕生，其中[GLAY](../Page/GLAY.md "wikilink")的《[HOWEVER](../Page/HOWEVER.md "wikilink")》取得冠軍的週數最多（5週）。
 
 ## 冠軍單曲列表
 
@@ -328,5 +328,4 @@
 
   - [1997年每週公信榜統計數據](https://web.archive.org/web/20110124172454/http://www.musictvprogram.com/oricon1997.html)
 
-[Category:1997年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1997年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:1997年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1997年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")

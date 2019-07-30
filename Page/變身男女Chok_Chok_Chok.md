@@ -1,9 +1,8 @@
-《**變身男女Chok Chok
-Chok**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的遊戲節目](../Page/電視廣播有限公司.md "wikilink")，由[伍詠薇和](../Page/伍詠薇.md "wikilink")[阮兆祥](../Page/阮兆祥.md "wikilink")[主持](https://zh.wikipedia.org/wiki/主持 "wikilink")，助手為第五代天使[白雲](../Page/白雲_\(香港藝人\).md "wikilink")、[劉蔚萱](../Page/劉蔚萱.md "wikilink")、[魏采彥和](https://zh.wikipedia.org/wiki/魏采彥 "wikilink")[陳芷尤](../Page/陳芷尤.md "wikilink")，旁白為[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")。本節目於2011年7月3日起逢星期日21:00-22:00在[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台及](../Page/高清翡翠台.md "wikilink")[MyTV播出](../Page/MyTV.md "wikilink")，及於[MyTV為香港地區提供](../Page/MyTV.md "wikilink")60日節目重溫。節目於2012年8月9日至2012年9月3日逢星期一至五早上10:30-11:30在[翡翠台重播](../Page/翡翠台.md "wikilink")，於[MyTV為香港地區提供](../Page/MyTV.md "wikilink")60日節目重溫。
+《**變身男女Chok Chok Chok**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的遊戲節目，由[伍詠薇](../Page/伍詠薇.md "wikilink")和[阮兆祥](../Page/阮兆祥.md "wikilink")[主持](https://zh.wikipedia.org/wiki/主持 "wikilink")，助手為第五代天使[白雲](../Page/白雲_\(香港藝人\).md "wikilink")、[劉蔚萱](../Page/劉蔚萱.md "wikilink")、[魏采彥和](https://zh.wikipedia.org/wiki/魏采彥 "wikilink")[陳芷尤](../Page/陳芷尤.md "wikilink")，旁白為[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")。本節目於2011年7月3日起逢星期日21:00-22:00在[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")及[MyTV](../Page/MyTV.md "wikilink")播出，及於[MyTV](../Page/MyTV.md "wikilink")為香港地區提供60日節目重溫。節目於2012年8月9日至2012年9月3日逢星期一至五早上10:30-11:30在[翡翠台](../Page/翡翠台.md "wikilink")重播，於[MyTV](../Page/MyTV.md "wikilink")為香港地區提供60日節目重溫。
 
 ## 簡介
 
-節目名稱中的[Chok本字為擢](https://zh.wikipedia.org/wiki/Chok "wikilink")，原意是突然大力向上拉然後鬆下，引申意思是刻意裝作型格的樣貌。而變身男女則指節目中有一對男女參賽者[反串為另一性別](../Page/反串.md "wikilink")，由現場嘉賓競猜其真正[性別](https://zh.wikipedia.org/wiki/性別 "wikilink")。
+節目名稱中的[Chok本字為擢](https://zh.wikipedia.org/wiki/Chok "wikilink")，原意是突然大力向上拉然後鬆下，引申意思是刻意裝作型格的樣貌。而變身男女則指節目中有一對男女參賽者[反串](../Page/反串.md "wikilink")為另一性別，由現場嘉賓競猜其真正[性別](https://zh.wikipedia.org/wiki/性別 "wikilink")。
 
 ## 游戏环节
 
@@ -146,7 +145,7 @@ Chok**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公�
 <td><p>10月23日</p></td>
 <td><p>撞鬼你咩組：<a href="../Page/葉念琛.md" title="wikilink">葉念琛</a>、<a href="../Page/羅仲謙.md" title="wikilink">羅仲謙</a>、<a href="../Page/陳嘉桓.md" title="wikilink">陳嘉桓</a><br />
 孖孖三缺一組：<a href="https://zh.wikipedia.org/wiki/鍾欣桐" title="wikilink">鍾欣桐</a>、<a href="../Page/Boy&#39;z.md" title="wikilink">Boyz</a>（<a href="https://zh.wikipedia.org/wiki/張致恒" title="wikilink">張致恒</a>、<a href="../Page/關智斌.md" title="wikilink">關智斌</a>）<br />
-<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉</a>、<a href="../Page/黎美言.md" title="wikilink">黎美言及</a><a href="../Page/陳僖儀.md" title="wikilink">Sita扮</a><a href="../Page/草蜢_(組合).md" title="wikilink">草蜢唱</a>《忘情森巴舞》（分數：8）</p></td>
+<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉</a>、<a href="../Page/黎美言.md" title="wikilink">黎美言</a>及<a href="../Page/陳僖儀.md" title="wikilink">Sita扮</a><a href="../Page/草蜢_(組合).md" title="wikilink">草蜢唱</a>《忘情森巴舞》（分數：8）</p></td>
 <td><p><a href="../Page/雙胞胎.md" title="wikilink">雙胞胎</a>／<a href="https://zh.wikipedia.org/wiki/龍鳳胎" title="wikilink">龍鳳胎</a>、6[1]</p></td>
 <td><p>A</p></td>
 </tr>
@@ -155,8 +154,8 @@ Chok**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公�
 <td><p>10月30日</p></td>
 <td><p>青青河邊草組：<a href="../Page/陳偉霆.md" title="wikilink">陳偉霆</a>、<a href="../Page/鄭希怡.md" title="wikilink">鄭希怡</a>、<a href="https://zh.wikipedia.org/wiki/詩雅" title="wikilink">詩　雅</a>、<a href="../Page/洪卓立.md" title="wikilink">洪卓立</a><br />
 阿哥同阿嫂s組：<a href="../Page/車婉婉.md" title="wikilink">車婉婉</a>、<a href="../Page/湯寶如.md" title="wikilink">湯寶如</a>、<a href="../Page/胡渭康.md" title="wikilink">胡渭康</a>、<a href="../Page/許秋怡.md" title="wikilink">許秋怡</a><br />
-<a href="../Page/莊思明.md" title="wikilink">莊思明扮</a><a href="../Page/羅志祥.md" title="wikilink">羅志祥唱</a>《獨一無二》（分數：5）<br />
-<a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯扮</a><a href="../Page/楊丞琳.md" title="wikilink">楊丞琳唱</a>《曖昧》（分數：8）</p></td>
+<a href="../Page/莊思明.md" title="wikilink">莊思明</a>扮<a href="../Page/羅志祥.md" title="wikilink">羅志祥</a>唱《獨一無二》（分數：5）<br />
+<a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯扮</a><a href="../Page/楊丞琳.md" title="wikilink">楊丞琳</a>唱《曖昧》（分數：8）</p></td>
 <td><p>女／女、3</p></td>
 <td><p>B</p></td>
 </tr>
@@ -165,7 +164,7 @@ Chok**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公�
 <td><p>11月6日</p></td>
 <td><p><a href="../Page/莊思敏.md" title="wikilink">思襪奶茶</a><a href="../Page/王祖藍.md" title="wikilink">藍</a><a href="https://zh.wikipedia.org/wiki/羽翹" title="wikilink">羽雞組</a>：<a href="../Page/莊思敏.md" title="wikilink">莊思敏</a>、<a href="../Page/王祖藍.md" title="wikilink">王祖藍</a>、<a href="https://zh.wikipedia.org/wiki/羽翹" title="wikilink">羽　翹</a><br />
 <a href="https://zh.wikipedia.org/wiki/黃智賢" title="wikilink">黃薑</a><a href="../Page/湯盈盈.md" title="wikilink">湯</a><a href="../Page/張嘉兒.md" title="wikilink">嘉</a><a href="../Page/麥長青.md" title="wikilink">麥包組</a>：<a href="https://zh.wikipedia.org/wiki/黃智賢" title="wikilink">黃智賢</a>、<a href="../Page/湯盈盈.md" title="wikilink">湯盈盈</a>、<a href="../Page/張嘉兒.md" title="wikilink">張嘉兒</a>、<a href="../Page/麥長青.md" title="wikilink">麥長青</a><br />
-<a href="../Page/郭政鴻.md" title="wikilink">郭政鴻扮</a><a href="../Page/周慧敏.md" title="wikilink">周慧敏唱</a>《自作多情》（分數：10）</p></td>
+<a href="../Page/郭政鴻.md" title="wikilink">郭政鴻</a>扮<a href="../Page/周慧敏.md" title="wikilink">周慧敏</a>唱《自作多情》（分數：10）</p></td>
 <td><p>男／男、4</p></td>
 <td><p>B</p></td>
 </tr>
@@ -174,7 +173,7 @@ Chok**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公�
 <td><p>11月13日</p></td>
 <td><p><a href="../Page/Mandy_Lieu.md" title="wikilink">冧</a><a href="../Page/呂慧儀.md" title="wikilink">女至</a><a href="../Page/陳百祥.md" title="wikilink">叻組</a>：<a href="../Page/陳百祥.md" title="wikilink">陳百祥</a>、<a href="../Page/Mandy_Lieu.md" title="wikilink">Mandy Lieu</a>、<a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a><br />
 靚太筍盤組：<a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a>、<a href="../Page/關心妍.md" title="wikilink">關心妍</a>、<a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a><br />
-<a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣扮</a><a href="../Page/東方神起.md" title="wikilink">東方神起唱</a>《Keep Your Head Down》（分數：10）</p></td>
+<a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣扮</a><a href="../Page/東方神起.md" title="wikilink">東方神起</a>唱《Keep Your Head Down》（分數：10）</p></td>
 <td><p>3女2男／真正性別、5[2]</p></td>
 <td><p>A：女<br />
 B：男<br />
@@ -187,7 +186,7 @@ E：男</p></td>
 
 ## 收視
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視翡翠台及](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視翡翠台及](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 | 集數 | 日期          | 平均收視 | 最高收視 |
 | -- | ----------- | ---- | ---- |
@@ -223,19 +222,14 @@ E：男</p></td>
 
 ## 外部連結
 
-  - [無綫電視節目網頁 - 變身男女Chok Chok
-    Chok](http://programme.tvb.com/variety/whattheface/)
+  - [無綫電視節目網頁 - 變身男女Chok Chok Chok](http://programme.tvb.com/variety/whattheface/)
   - [《變身男女》首播涉侮辱女性](http://news.singtao.ca/toronto/2011-07-05/entertainment1309845972d3284930.html)
-  - [《變身男女》高開32點
-    主持被投訴說話侮辱女性](http://hk.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E9%96%8B%E6%90%96%E6%BB%BE%E9%A8%B7%E5%9C%93rock%E5%A4%A2-011233764.html)
-  - [《變身男女Chok Chok
-    Chok》易成咁有咩好估](http://tvbmademeopenthis.wordpress.com/2011/07/24/%E3%80%8A%E8%AE%8A%E8%BA%AB%E7%94%B7%E5%A5%B3chok-chok-chok%E3%80%8B%E6%98%93%E6%88%90%E5%92%81%E6%9C%89%E5%92%A9%E5%A5%BD%E4%BC%B0/)
-
+  - [《變身男女》高開32點 主持被投訴說話侮辱女性](http://hk.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E9%96%8B%E6%90%96%E6%BB%BE%E9%A8%B7%E5%9C%93rock%E5%A4%A2-011233764.html)
+  - [《變身男女Chok Chok Chok》易成咁有咩好估](http://tvbmademeopenthis.wordpress.com/2011/07/24/%E3%80%8A%E8%AE%8A%E8%BA%AB%E7%94%B7%E5%A5%B3chok-chok-chok%E3%80%8B%E6%98%93%E6%88%90%E5%92%81%E6%9C%89%E5%92%A9%E5%A5%BD%E4%BC%B0/)
 
 ## 電視節目的變遷
 
-[Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink")
-[Category:無綫電視遊戲節目](https://zh.wikipedia.org/wiki/Category:無綫電視遊戲節目 "wikilink")
+[Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink") [Category:無綫電視遊戲節目](https://zh.wikipedia.org/wiki/Category:無綫電視遊戲節目 "wikilink")
 
 1.  從兩對「少女」及一對「型男」的雙胞胎組合中猜出當中的一對龍鳳胎組合
 2.  五位變身男女會以不同性別造型亮相，讓嘉賓猜出他們的真正性別

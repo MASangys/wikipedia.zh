@@ -1,4 +1,4 @@
-**Daireaux**（[西班牙语](../Page/西班牙语.md "wikilink")：****）是[阿根廷](../Page/阿根廷.md "wikilink")[布宜诺斯艾利斯省的一座城市](../Page/布宜诺斯艾利斯省.md "wikilink")，人口10,932（2001年）。
+**Daireaux**（[西班牙语](../Page/西班牙语.md "wikilink")：****）是[阿根廷](../Page/阿根廷.md "wikilink")[布宜诺斯艾利斯省](../Page/布宜诺斯艾利斯省.md "wikilink")的一座城市，人口10,932（2001年）。
 
 ## Links
 

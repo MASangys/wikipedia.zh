@@ -1,5 +1,4 @@
-《**ayumi hamasaki DOME TOUR 2001 A**》（濱崎步 2001 巨蛋巡迴演唱會
-A）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2001年在[東京巨蛋](../Page/東京巨蛋.md "wikilink")、[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")、[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")、[福岡巨蛋四個大型巨蛋舉行的](../Page/福岡巨蛋.md "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，隨後2001年12月12日於日本發行DVD版本。
+《**ayumi hamasaki DOME TOUR 2001 A**》（濱崎步 2001 巨蛋巡迴演唱會 A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2001年在[東京巨蛋](../Page/東京巨蛋.md "wikilink")、[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")、[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")、[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")四個大型巨蛋舉行的[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，隨後2001年12月12日於日本發行DVD版本。
 
 ## 說明
 
@@ -35,5 +34,4 @@ A）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2001年在[東
 
 </small>
 
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2001年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2001年音樂相關影像作品 "wikilink")
+[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2001年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2001年音樂相關影像作品 "wikilink")

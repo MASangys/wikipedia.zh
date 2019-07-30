@@ -1,4 +1,4 @@
-《**BABY**》，[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")9張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2010年3月31日發行。
+《**BABY**》，[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")9張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2010年3月31日發行。
 
 ## 解説
 
@@ -35,9 +35,7 @@
 
   - [唱片介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200800000046&DSP_SKHKETSEQ=001)
 
-[Category:aiko音樂專輯](https://zh.wikipedia.org/wiki/Category:aiko音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:aiko音樂專輯](https://zh.wikipedia.org/wiki/Category:aiko音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.  [](http://www.music-snap.com/news_kswSIZvQx.html)
 2.  [](http://natalie.mu/music/news/19605)

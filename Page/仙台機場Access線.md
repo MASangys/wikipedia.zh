@@ -16,8 +16,7 @@ JR東日本與仙台機場鐵道在仙台站－仙台機場站間運行各自的
   - 停靠站
       - 普通…停靠所有車站
       - 快速…●的車站停靠，｜的車站通過
-  - 軌道 …
-    ∥：複線路段（東北本線內），∨：此起往下為單線，◇、｜：單線路段（◇可進行[列車交會](https://zh.wikipedia.org/wiki/列車交會 "wikilink")），∧：終點（可進行列車交會）
+  - 軌道 … ∥：複線路段（東北本線內），∨：此起往下為單線，◇、｜：單線路段（◇可進行[列車交會](https://zh.wikipedia.org/wiki/列車交會 "wikilink")），∧：終點（可進行列車交會）
   - 所有車站都位於[宮城縣](../Page/宮城縣.md "wikilink")內
 
 <table>
@@ -175,9 +174,6 @@ JR東日本與仙台機場鐵道在仙台站－仙台機場站間運行各自的
 
   - [仙台机场专线](http://cat-vnet.tv/category150/152/index.html)（[仙台CATV](https://zh.wikipedia.org/wiki/仙台CATV "wikilink")）
 
-[Category:東北地方鐵路路線](https://zh.wikipedia.org/wiki/Category:東北地方鐵路路線 "wikilink")
-[Category:仙台機場鐵道](https://zh.wikipedia.org/wiki/Category:仙台機場鐵道 "wikilink")
-[Category:宮城縣鐵路](https://zh.wikipedia.org/wiki/Category:宮城縣鐵路 "wikilink")
-[Category:機場聯絡軌道系統](https://zh.wikipedia.org/wiki/Category:機場聯絡軌道系統 "wikilink")
+[Category:東北地方鐵路路線](https://zh.wikipedia.org/wiki/Category:東北地方鐵路路線 "wikilink") [Category:仙台機場鐵道](https://zh.wikipedia.org/wiki/Category:仙台機場鐵道 "wikilink") [Category:宮城縣鐵路](https://zh.wikipedia.org/wiki/Category:宮城縣鐵路 "wikilink") [Category:機場聯絡軌道系統](https://zh.wikipedia.org/wiki/Category:機場聯絡軌道系統 "wikilink")
 
 1.  東北本線與常磐線的分岔點是[岩沼站](https://zh.wikipedia.org/wiki/岩沼站 "wikilink")，運行系統上所有列車都直通至仙台站。

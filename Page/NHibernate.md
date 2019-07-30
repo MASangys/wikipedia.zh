@@ -1,6 +1,6 @@
-**NHibernate**是一个面向[.NET框架的](../Page/.NET框架.md "wikilink")[对象关系映射解决方案](../Page/对象关系映射.md "wikilink")。主要用来把对象模型表示的对象映射到基于SQL的关系模型数据结构中去。
+**NHibernate**是一个面向[.NET框架](../Page/.NET框架.md "wikilink")的[对象关系映射](../Page/对象关系映射.md "wikilink")解决方案。主要用来把对象模型表示的对象映射到基于SQL的关系模型数据结构中去。
 
-NHibernate，顾名思义，如同NUnit，NAnt一样，是基于.Net的[Hibernate实现](../Page/Hibernate.md "wikilink")。
+NHibernate，顾名思义，如同NUnit，NAnt一样，是基于.Net的[Hibernate](../Page/Hibernate.md "wikilink")实现。
 
 ## 例子
 
@@ -54,7 +54,6 @@ using (var session = sessionFactory.OpenSession())
 }
 ```
 
-NHibernate's configuration may affect when NHibernate executes SQL
-statements.
+NHibernate's configuration may affect when NHibernate executes SQL statements.
 
 [Category:.NET](https://zh.wikipedia.org/wiki/Category:.NET "wikilink")

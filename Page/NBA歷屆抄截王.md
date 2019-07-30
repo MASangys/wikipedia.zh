@@ -1,15 +1,10 @@
 [Chris_Paul.jpg](https://zh.wikipedia.org/wiki/File:Chris_Paul.jpg "fig:Chris_Paul.jpg")在2008、2009年和2011至2014年共计六次获抢断王称号。\]\]
 
-[篮球运动中的](../Page/篮球.md "wikilink")[抢断属于防守战术](https://zh.wikipedia.org/wiki/抢断 "wikilink")，指从对方球员手中抢到控球权\[1\]。**抢断王**就是每个赛季平均每场比赛抢断次数最多的球员。[1973-74
-NBA赛季期间](https://zh.wikipedia.org/wiki/1973-74_NBA赛季 "wikilink")，首次统计抢断数据并授予抢断王头衔。\[2\]从[1974-75
-NBA赛季开始](https://zh.wikipedia.org/wiki/1974-75_NBA赛季 "wikilink")，争夺抢断王头衔的球员在相应赛季要参加全部82场比赛中的至少70场，或是抢断次数不低于125\[3\]。
+[篮球](../Page/篮球.md "wikilink")运动中的[抢断属于防守战术](https://zh.wikipedia.org/wiki/抢断 "wikilink")，指从对方球员手中抢到控球权\[1\]。**抢断王**就是每个赛季平均每场比赛抢断次数最多的球员。[1973-74 NBA赛季期间](https://zh.wikipedia.org/wiki/1973-74_NBA赛季 "wikilink")，首次统计抢断数据并授予抢断王头衔。\[2\]从[1974-75 NBA赛季开始](https://zh.wikipedia.org/wiki/1974-75_NBA赛季 "wikilink")，争夺抢断王头衔的球员在相应赛季要参加全部82场比赛中的至少70场，或是抢断次数不低于125\[3\]。
 
-[阿尔文·罗伯逊在](https://zh.wikipedia.org/wiki/阿尔文·罗伯逊 "wikilink")[1985-86
-NBA赛季共抢断](https://zh.wikipedia.org/wiki/1985-86_NBA赛季 "wikilink")301次，平均每场比赛3.67次，两项都创下历史纪录并保持至今。所有现役球员中以以[克里斯·保罗在](https://zh.wikipedia.org/wiki/克里斯·保罗 "wikilink")[2007-08
-NBA赛季的抢断次数最多](../Page/2007-08_NBA赛季.md "wikilink")，达217次，他还在[2008-09
-NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77次，同样超过其他现役球员。
+[阿尔文·罗伯逊在](https://zh.wikipedia.org/wiki/阿尔文·罗伯逊 "wikilink")[1985-86 NBA赛季共抢断](https://zh.wikipedia.org/wiki/1985-86_NBA赛季 "wikilink")301次，平均每场比赛3.67次，两项都创下历史纪录并保持至今。所有现役球员中以以[克里斯·保罗在](https://zh.wikipedia.org/wiki/克里斯·保罗 "wikilink")[2007-08 NBA赛季的抢断次数最多](../Page/2007-08_NBA赛季.md "wikilink")，达217次，他还在[2008-09 NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77次，同样超过其他现役球员。
 
-保罗是获抢断王称号次数最多的球员，共有六次。[迈克尔·雷·理查德森](https://zh.wikipedia.org/wiki/迈克尔·雷·理查德森 "wikilink")、罗伯逊、[迈克尔·乔丹和](../Page/迈克尔·乔丹.md "wikilink")[艾伦·艾佛森均以三次并列第二](https://zh.wikipedia.org/wiki/艾伦·艾佛森 "wikilink")。此外只有[魔术师约翰逊](../Page/魔术师约翰逊.md "wikilink")、[穆奇·布雷洛克](../Page/穆奇·布雷洛克.md "wikilink")、[贝伦·戴维斯和](https://zh.wikipedia.org/wiki/贝伦·戴维斯 "wikilink")[约翰·斯托克顿曾多次获抢助王称号](https://zh.wikipedia.org/wiki/约翰·斯托克顿 "wikilink")（均为两次）。保罗曾连续四次获抢断王头衔，同样超过其他球员。\[4\]历史上共有三位球员在同一赛季拿下抢断王称号的同时还带领球队赢得[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")，分别是[里克·巴里于](../Page/里克·巴里.md "wikilink")[1975年带领](https://zh.wikipedia.org/wiki/1975年NBA总决赛 "wikilink")[金州勇士打入决赛](../Page/金州勇士.md "wikilink")，魔术师约翰逊于[1982年带领](https://zh.wikipedia.org/wiki/1982年NBA总决赛 "wikilink")[洛杉矶湖人进入决赛](../Page/洛杉矶湖人.md "wikilink")，迈克尔·乔丹于[1993年带领](https://zh.wikipedia.org/wiki/1993年NBA总决赛 "wikilink")[芝加哥公牛打入决赛](../Page/芝加哥公牛.md "wikilink")。
+保罗是获抢断王称号次数最多的球员，共有六次。[迈克尔·雷·理查德森](https://zh.wikipedia.org/wiki/迈克尔·雷·理查德森 "wikilink")、罗伯逊、[迈克尔·乔丹](../Page/迈克尔·乔丹.md "wikilink")和[艾伦·艾佛森均以三次并列第二](https://zh.wikipedia.org/wiki/艾伦·艾佛森 "wikilink")。此外只有[魔术师约翰逊](../Page/魔术师约翰逊.md "wikilink")、[穆奇·布雷洛克](../Page/穆奇·布雷洛克.md "wikilink")、[贝伦·戴维斯和](https://zh.wikipedia.org/wiki/贝伦·戴维斯 "wikilink")[约翰·斯托克顿曾多次获抢助王称号](https://zh.wikipedia.org/wiki/约翰·斯托克顿 "wikilink")（均为两次）。保罗曾连续四次获抢断王头衔，同样超过其他球员。\[4\]历史上共有三位球员在同一赛季拿下抢断王称号的同时还带领球队赢得[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")，分别是[里克·巴里](../Page/里克·巴里.md "wikilink")于[1975年带领](https://zh.wikipedia.org/wiki/1975年NBA总决赛 "wikilink")[金州勇士](../Page/金州勇士.md "wikilink")打入决赛，魔术师约翰逊于[1982年带领](https://zh.wikipedia.org/wiki/1982年NBA总决赛 "wikilink")[洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")进入决赛，迈克尔·乔丹于[1993年带领](https://zh.wikipedia.org/wiki/1993年NBA总决赛 "wikilink")[芝加哥公牛](../Page/芝加哥公牛.md "wikilink")打入决赛。
 
 ## 图例
 
@@ -22,10 +17,7 @@ NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77�
 
 ## 历届抢断王
 
-[Magic_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Magic_Lipofsky.jpg "fig:Magic_Lipofsky.jpg")曾连续两个赛季获得抢断王称号\]\]
-[Michael_Jordan.jpg](https://zh.wikipedia.org/wiki/File:Michael_Jordan.jpg "fig:Michael_Jordan.jpg")曾赢得1988、1990和1993年的抢断王称号\]\]
-[John_Stockton_-_Utah.jpg](https://zh.wikipedia.org/wiki/File:John_Stockton_-_Utah.jpg "fig:John_Stockton_-_Utah.jpg")是1989和1992年赛季的抢断王\]\]
-[Allen_Iverson,_Denver_Nuggets.jpg](https://zh.wikipedia.org/wiki/File:Allen_Iverson,_Denver_Nuggets.jpg "fig:Allen_Iverson,_Denver_Nuggets.jpg")共三次获抢断王头衔\]\]
+[Magic_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Magic_Lipofsky.jpg "fig:Magic_Lipofsky.jpg")曾连续两个赛季获得抢断王称号\]\] [Michael_Jordan.jpg](https://zh.wikipedia.org/wiki/File:Michael_Jordan.jpg "fig:Michael_Jordan.jpg")曾赢得1988、1990和1993年的抢断王称号\]\] [John_Stockton_-_Utah.jpg](https://zh.wikipedia.org/wiki/File:John_Stockton_-_Utah.jpg "fig:John_Stockton_-_Utah.jpg")是1989和1992年赛季的抢断王\]\] [Allen_Iverson,_Denver_Nuggets.jpg](https://zh.wikipedia.org/wiki/File:Allen_Iverson,_Denver_Nuggets.jpg "fig:Allen_Iverson,_Denver_Nuggets.jpg")共三次获抢断王头衔\]\]
 
 <table>
 <thead>
@@ -93,7 +85,7 @@ NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1978-79_NBA赛季" title="wikilink">1978-79</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/M·L·凯尔" title="wikilink">M·L·凯尔</a>{{#tag:ref|<a href="../Page/埃迪·乔丹.md" title="wikilink">埃迪·乔丹和</a><a href="https://zh.wikipedia.org/wiki/诺姆·尼克森" title="wikilink">诺姆·尼克森在</a><a href="https://zh.wikipedia.org/wiki/1978-79_NBA赛季" title="wikilink">1978-79 NBA赛季的抢断总数都有</a>201次，但两人平均每场抢断2.45次，都不及凯尔[15]。|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M·L·凯尔" title="wikilink">M·L·凯尔</a>{{#tag:ref|<a href="../Page/埃迪·乔丹.md" title="wikilink">埃迪·乔丹</a>和<a href="https://zh.wikipedia.org/wiki/诺姆·尼克森" title="wikilink">诺姆·尼克森在</a><a href="https://zh.wikipedia.org/wiki/1978-79_NBA赛季" title="wikilink">1978-79 NBA赛季的抢断总数都有</a>201次，但两人平均每场抢断2.45次，都不及凯尔[15]。|group="注"}}</p></td>
 <td></td>
 <td><p><a href="../Page/底特律活塞.md" title="wikilink">底特律活塞</a></p></td>
 <td><p>80</p></td>
@@ -133,7 +125,7 @@ NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1982-83_NBA赛季" title="wikilink">1982-83</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/迈克尔·雷·理查德森" title="wikilink">迈克尔·雷·理查德森</a>（2）{{#tag:ref|迈克尔·雷·理查德森在<a href="https://zh.wikipedia.org/wiki/1982-83_NBA赛季" title="wikilink">1982-83 NBA赛季出赛</a>64场，抢断总数只排第六，<a href="../Page/里基·格林.md" title="wikilink">里基·格林以</a>220次居首，但理查德森平均每场比赛的抢断次数最多[26]。|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/迈克尔·雷·理查德森" title="wikilink">迈克尔·雷·理查德森</a>（2）{{#tag:ref|迈克尔·雷·理查德森在<a href="https://zh.wikipedia.org/wiki/1982-83_NBA赛季" title="wikilink">1982-83 NBA赛季出赛</a>64场，抢断总数只排第六，<a href="../Page/里基·格林.md" title="wikilink">里基·格林</a>以220次居首，但理查德森平均每场比赛的抢断次数最多[26]。|group="注"}}</p></td>
 <td><p>/</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a><br />
 <a href="../Page/布鲁克林篮网.md" title="wikilink">布鲁克林篮网</a></p></td>
@@ -284,7 +276,7 @@ NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1997-98_NBA赛季" title="wikilink">1997-98</a></p></td>
-<td><p><a href="../Page/穆奇·布雷洛克.md" title="wikilink">穆奇·布雷洛克</a>（2）{{#tag:ref|穆奇·布雷洛克在<a href="https://zh.wikipedia.org/wiki/1997-98_NBA赛季" title="wikilink">1997-98 NBA赛季只参赛</a>70场，抢断总数排第四，<a href="../Page/布莱文·奈特.md" title="wikilink">布莱文·奈特以</a>196次居首，但场均抢断不及布雷洛克[57]。|group="注"}}</p></td>
+<td><p><a href="../Page/穆奇·布雷洛克.md" title="wikilink">穆奇·布雷洛克</a>（2）{{#tag:ref|穆奇·布雷洛克在<a href="https://zh.wikipedia.org/wiki/1997-98_NBA赛季" title="wikilink">1997-98 NBA赛季只参赛</a>70场，抢断总数排第四，<a href="../Page/布莱文·奈特.md" title="wikilink">布莱文·奈特</a>以196次居首，但场均抢断不及布雷洛克[57]。|group="注"}}</p></td>
 <td></td>
 <td><p><a href="../Page/亚特兰大老鹰.md" title="wikilink">亚特兰大老鹰</a></p></td>
 <td><p>70</p></td>
@@ -314,7 +306,7 @@ NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2000-01_NBA赛季" title="wikilink">2000-01</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿伦·艾佛森" title="wikilink">阿伦·艾佛森</a>*{{#tag:ref|<a href="../Page/道格·克里斯蒂.md" title="wikilink">道格·克里斯蒂在</a><a href="https://zh.wikipedia.org/wiki/2000-01_NBA赛季" title="wikilink">2000-2001 NBA赛季的抢断次数最多</a>（183次），但场均抢断只排到第三位（2.26次）[66]。|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿伦·艾佛森" title="wikilink">阿伦·艾佛森</a>*{{#tag:ref|<a href="../Page/道格·克里斯蒂.md" title="wikilink">道格·克里斯蒂</a>在<a href="https://zh.wikipedia.org/wiki/2000-01_NBA赛季" title="wikilink">2000-2001 NBA赛季的抢断次数最多</a>（183次），但场均抢断只排到第三位（2.26次）[66]。|group="注"}}</p></td>
 <td></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">费城76人</a></p></td>
 <td><p>71</p></td>
@@ -344,7 +336,7 @@ NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-04</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拜伦·戴维斯" title="wikilink">拜伦·戴维斯</a>{{#tag:ref|<a href="../Page/肖恩·马里昂.md" title="wikilink">肖恩·马里昂在</a><a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-2004 NBA赛季的抢断次数最多</a>（167次），但场均抢断名列第二（2.11次）[74]。|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拜伦·戴维斯" title="wikilink">拜伦·戴维斯</a>{{#tag:ref|<a href="../Page/肖恩·马里昂.md" title="wikilink">肖恩·马里昂</a>在<a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-2004 NBA赛季的抢断次数最多</a>（167次），但场均抢断名列第二（2.11次）[74]。|group="注"}}</p></td>
 <td></td>
 <td><p><a href="../Page/新奥尔良鹈鹕.md" title="wikilink">新奥尔良鹈鹕</a></p></td>
 <td><p>67</p></td>
@@ -374,7 +366,7 @@ NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2006-07_NBA赛季.md" title="wikilink">2006-07</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拜伦·戴维斯" title="wikilink">拜伦·戴维斯</a>（2）{{#tag:ref|戴维斯在<a href="../Page/2006-07_NBA赛季.md" title="wikilink">2006-2007 NBA赛季只出赛</a>63场，抢断总数排第六，<a href="../Page/肖恩·马里昂.md" title="wikilink">肖恩·马里昂以</a>156次位居第一[83]。|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拜伦·戴维斯" title="wikilink">拜伦·戴维斯</a>（2）{{#tag:ref|戴维斯在<a href="../Page/2006-07_NBA赛季.md" title="wikilink">2006-2007 NBA赛季只出赛</a>63场，抢断总数排第六，<a href="../Page/肖恩·马里昂.md" title="wikilink">肖恩·马里昂</a>以156次位居第一[83]。|group="注"}}</p></td>
 <td></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>63</p></td>
@@ -454,7 +446,7 @@ NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2014-15_NBA赛季" title="wikilink">2014-15</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科怀·伦纳德" title="wikilink">科怀·伦纳德</a>^ {{#tag:ref|<a href="../Page/斯蒂芬·科里.md" title="wikilink">斯蒂芬·科里在</a><a href="https://zh.wikipedia.org/wiki/2014-15_NBA赛季" title="wikilink">2014-2015 NBA赛季的抢断次数最多</a>（163次），但场均抢断只有两次，不及伦纳德[98]。|group="注"}}</p></td>
+<td><p><a href="../Page/科怀·伦纳德.md" title="wikilink">科怀·伦纳德</a>^ {{#tag:ref|<a href="../Page/斯蒂芬·科里.md" title="wikilink">斯蒂芬·科里</a>在<a href="https://zh.wikipedia.org/wiki/2014-15_NBA赛季" title="wikilink">2014-2015 NBA赛季的抢断次数最多</a>（163次），但场均抢断只有两次，不及伦纳德[98]。|group="注"}}</p></td>
 <td></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a></p></td>
 <td><p>64</p></td>
@@ -567,8 +559,7 @@ NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77�
 
   - 特定
 
-[Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink")
-[Category:NBA数据统计](https://zh.wikipedia.org/wiki/Category:NBA数据统计 "wikilink")
+[Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink") [Category:NBA数据统计](https://zh.wikipedia.org/wiki/Category:NBA数据统计 "wikilink")
 
 1.
 

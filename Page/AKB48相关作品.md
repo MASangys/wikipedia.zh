@@ -1448,10 +1448,10 @@ CD</p></td>
 | 序号                                                                                               | 发售日        | 曲名                                                                                                                | 备注                                                                                                        |
 | ------------------------------------------------------------------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [AKS](../Page/AKS.md "wikilink")                                                                 |            |                                                                                                                   |                                                                                                           |
-| 9                                                                                                | 2008年6月13日 | **[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")**                                               | 由[i-mode和](https://zh.wikipedia.org/wiki/i-mode "wikilink")[Napster提供獨家下載](../Page/Napster.md "wikilink") |
-| \-                                                                                               | 2009年8月29日 | **[感謝 -2010夏 ver.-](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")**                                              | 在[日本電視台的手機網頁上提供限時獨家下載](../Page/日本電視台.md "wikilink")                                                       |
+| 9                                                                                                | 2008年6月13日 | **[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")**                                               | 由[i-mode和](https://zh.wikipedia.org/wiki/i-mode "wikilink")[Napster](../Page/Napster.md "wikilink")提供獨家下載 |
+| \-                                                                                               | 2009年8月29日 | **[感謝 -2010夏 ver.-](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")**                                              | 在[日本電視台](../Page/日本電視台.md "wikilink")的手機網頁上提供限時獨家下載                                                       |
 | [You, Be Cool\!](../Page/You,_Be_Cool!.md "wikilink")/[KING RECORDS](../Page/國王唱片.md "wikilink") |            |                                                                                                                   |                                                                                                           |
-| \-                                                                                               | 2011年4月1日  | **[为了谁 -What can I do for someone?-](https://zh.wikipedia.org/wiki/为了谁_-What_can_I_do_for_someone?- "wikilink")** | 由RecoChoku提供搶先獨家下載、[「為了誰」計劃赈灾复兴应援曲](../Page/「為了誰」計劃.md "wikilink")                                        |
+| \-                                                                                               | 2011年4月1日  | **[为了谁 -What can I do for someone?-](https://zh.wikipedia.org/wiki/为了谁_-What_can_I_do_for_someone?- "wikilink")** | 由RecoChoku提供搶先獨家下載、[「為了誰」計劃](../Page/「為了誰」計劃.md "wikilink")赈灾复兴应援曲                                        |
 | 无厂牌                                                                                              |            |                                                                                                                   |                                                                                                           |
 | \-                                                                                               | 2013年3月8日  | **[掌心语](https://zh.wikipedia.org/wiki/掌心语 "wikilink")**                                                           | 免费下载、「為了誰」計劃赈灾复兴应援曲                                                                                       |
 
@@ -4523,8 +4523,7 @@ Blu-ray</p></td>
 
 ### 新聞
 
-  - [月刊AKB48團體新聞](../Page/月刊AKB48團體新聞.md "wikilink")（2011年12月16日 -
-    、日刊運動新聞社） - 每月第3個星期五發行
+  - [月刊AKB48團體新聞](../Page/月刊AKB48團體新聞.md "wikilink")（2011年12月16日 - 、日刊運動新聞社） - 每月第3個星期五發行
 
 ### 写真集
 
@@ -4534,8 +4533,7 @@ Blu-ray</p></td>
 
 ### 学習参考書
 
-1.  AKB48小学国語（2011年8月30日、[学研教育出版](https://zh.wikipedia.org/wiki/學習研究社 "wikilink")）ISBN
-    978-4053034939
+1.  AKB48小学国語（2011年8月30日、[学研教育出版](https://zh.wikipedia.org/wiki/學習研究社 "wikilink")）ISBN 978-4053034939
 2.  AKB48小学算数（2011年8月30日、学研教育出版）ISBN 978-4053034946
 3.  AKB48中学国語（2011年8月30日、学研教育出版）ISBN 978-4053034625
 4.  AKB48中学理科（2011年8月30日、学研教育出版）ISBN 978-4053034632
@@ -4545,20 +4543,13 @@ Blu-ray</p></td>
 
 ### 杂志、新闻连载
 
-  - （[東京新聞通信社](../Page/東京新聞通信社.md "wikilink")） - 「AKB48 CATCH THE
-    DREAM\!\!」連載。
+  - （[東京新聞通信社](../Page/東京新聞通信社.md "wikilink")） - 「AKB48 CATCH THE DREAM\!\!」連載。
 
-  - [周刊Playboy](https://zh.wikipedia.org/wiki/周刊Playboy "wikilink")（毎週星期一、[集英社](../Page/集英社.md "wikilink")）
-    - 「AKB48の梦叶ボイス」連載。
+  - [周刊Playboy](https://zh.wikipedia.org/wiki/周刊Playboy "wikilink")（毎週星期一、[集英社](../Page/集英社.md "wikilink")） - 「AKB48の梦叶ボイス」連載。
 
-  - [BIG ONE
-    GIRLS](https://zh.wikipedia.org/wiki/BIG_ONE_GIRLS "wikilink")（2009年2月27日
-    - 、[近代電影社](https://zh.wikipedia.org/wiki/近代電影社 "wikilink")） -
-    「AKB48のマイフェバ☆」連載。
+  - [BIG ONE GIRLS](https://zh.wikipedia.org/wiki/BIG_ONE_GIRLS "wikilink")（2009年2月27日 - 、[近代電影社](https://zh.wikipedia.org/wiki/近代電影社 "wikilink")） - 「AKB48のマイフェバ☆」連載。
 
-  - FLASH（2010年2月 -
-    、[光文社](https://zh.wikipedia.org/wiki/光文社 "wikilink")）
-    - 「AKB48を追っかけ队ッ」連載。
+  - FLASH（2010年2月 - 、[光文社](https://zh.wikipedia.org/wiki/光文社 "wikilink")） - 「AKB48を追っかけ队ッ」連載。
 
   - （2010年2月5日 - 、[讲谈社](../Page/讲谈社.md "wikilink")） - 「AKB48 友撮」連載。
 
@@ -4574,27 +4565,18 @@ Blu-ray</p></td>
       - AKB48総選挙マニフェスト（毎日朝刊＜總選舉告示〜開票前日＞、2010年・2011年・2012年）
       - AKB48 Diary（毎日朝刊、2011年1月24日 - ）
 
-  - [周刊YOUNG
-    JUMP](https://zh.wikipedia.org/wiki/周刊YOUNG_JUMP "wikilink")（集英社）
+  - [周刊YOUNG JUMP](https://zh.wikipedia.org/wiki/周刊YOUNG_JUMP "wikilink")（集英社）
 
       - AKB48当番連載 ぐるぐる4（2010年8月19日 - 3月） - 北原・指原・柏木・渡辺麻交代連載。
       - AKB48当番連載（2011年4月 - ） - 成員交代連載。
 
   - （2010年10月9日 - 、） - 「AKB48ステーション」・「GO\!AKIBA」連載。
 
-  - 月刊ENTAME（2011年8月30日 -
-    、[徳間書店](https://zh.wikipedia.org/wiki/徳間書店 "wikilink")）
-    - 「AKB48月替わりInterview」連載。
+  - 月刊ENTAME（2011年8月30日 - 、[徳間書店](https://zh.wikipedia.org/wiki/徳間書店 "wikilink")） - 「AKB48月替わりInterview」連載。
 
-  - [TV
-    Station](https://zh.wikipedia.org/wiki/TV_Station "wikilink")（2012年1月
-    - 、[DIAMOND社](https://zh.wikipedia.org/wiki/DIAMOND社 "wikilink")） -
-    「AKB48最新トピックス」連載。
+  - [TV Station](https://zh.wikipedia.org/wiki/TV_Station "wikilink")（2012年1月 - 、[DIAMOND社](https://zh.wikipedia.org/wiki/DIAMOND社 "wikilink")） - 「AKB48最新トピックス」連載。
 
-  - [an・an](https://zh.wikipedia.org/wiki/an・an "wikilink")（2012年6月6日 -
-    、[MAGAZINE
-    HOUSE](https://zh.wikipedia.org/wiki/MAGAZINE_HOUSE "wikilink")） -
-    「AKB48 HOW DO I LOOK? スナッププリンセス」連載。
+  - [an・an](https://zh.wikipedia.org/wiki/an・an "wikilink")（2012年6月6日 - 、[MAGAZINE HOUSE](https://zh.wikipedia.org/wiki/MAGAZINE_HOUSE "wikilink")） - 「AKB48 HOW DO I LOOK? スナッププリンセス」連載。
 
   - [读卖新聞](https://zh.wikipedia.org/wiki/读卖新聞 "wikilink")（[讀賣新聞社](https://zh.wikipedia.org/wiki/讀賣新聞社 "wikilink")）
 
@@ -4608,54 +4590,39 @@ Blu-ray</p></td>
 
 <!-- end list -->
 
-  - （隔週星期二、[讲谈社](../Page/讲谈社.md "wikilink")） -
-    每期编辑在2-3页的特集「AKB48虎の巻」中。在东京附近的有名的書店、便利店、AKB48剧场等地能买到。
+  - （隔週星期二、[讲谈社](../Page/讲谈社.md "wikilink")） - 每期编辑在2-3页的特集「AKB48虎の巻」中。在东京附近的有名的書店、便利店、AKB48剧场等地能买到。
 
   - （2009年1月 - 2010年3月、FACTRY） - 「AKB48の基础から学ぶダンスミュージック48手」連載。
 
-  - [Ribon](../Page/Ribon.md "wikilink")（2010年1月号 - 時期不詳、集英社） -
-    「AKB48の私立ミラク儿アイド儿学园りぼん校」連載。
+  - [Ribon](../Page/Ribon.md "wikilink")（2010年1月号 - 時期不詳、集英社） - 「AKB48の私立ミラク儿アイド儿学园りぼん校」連載。
 
   - （2010年6月16日 - 2012年4月4日、） - 「AKB48まで48センチ。」連載。
 
-  - [周刊朝日](https://zh.wikipedia.org/wiki/周刊朝日 "wikilink")（2010年10月5日 -
-    、） - 「AKB48写真馆」・「AKB48リレーインタビュー」連載。
+  - [周刊朝日](https://zh.wikipedia.org/wiki/周刊朝日 "wikilink")（2010年10月5日 - 、） - 「AKB48写真馆」・「AKB48リレーインタビュー」連載。
 
-  - [小说宝石](https://zh.wikipedia.org/wiki/小说宝石 "wikilink")（2010年12月21日 -
-    、光文社） - 「梅佳代が拍摄、○○」连载。※○○成员刊載
+  - [小说宝石](https://zh.wikipedia.org/wiki/小说宝石 "wikilink")（2010年12月21日 - 、光文社） - 「梅佳代が拍摄、○○」连载。※○○成员刊載
 
   - 读卖新闻（2010年3月 - 4月、读卖新闻社） - 挑战25学园連載。
 
-  - [周刊Young
-    Magazine](https://zh.wikipedia.org/wiki/周刊Young_Magazine "wikilink")（2011年4月19日
-    - 時期不詳、講談社） - 「YM7のやっぱり負けられない\!」YM7的成员每周交替連載。
+  - [周刊Young Magazine](https://zh.wikipedia.org/wiki/周刊Young_Magazine "wikilink")（2011年4月19日 - 時期不詳、講談社） - 「YM7のやっぱり負けられない\!」YM7的成员每周交替連載。
 
-  - [日刊ゲンダイ特別版AKB](https://zh.wikipedia.org/wiki/日刊ゲンダイ "wikilink")48（2011年6月1日
-    - 12月28日、日刊現代） - 「スペシャルインタビュー」隔週星期三連載。
+  - [日刊ゲンダイ特別版AKB](https://zh.wikipedia.org/wiki/日刊ゲンダイ "wikilink")48（2011年6月1日 - 12月28日、日刊現代） - 「スペシャルインタビュー」隔週星期三連載。
 
 ### 乐谱本
 
 ## 游戏
 
-1.  [Ponjan](https://zh.wikipedia.org/wiki/Ponjan "wikilink")
-    AKB48（2010年12月4日、[万代](https://zh.wikipedia.org/wiki/万代 "wikilink")）
-2.  [與AKB1/48
-    偶像戀愛的話…](https://zh.wikipedia.org/wiki/與AKB1/48_偶像戀愛的話… "wikilink")（2010年12月23日、[NBGI](https://zh.wikipedia.org/wiki/NBGI "wikilink")）
-3.  [與AKB1/48
-    偶像在關島戀愛的話…](https://zh.wikipedia.org/wiki/與AKB1/48_偶像在關島戀愛的話… "wikilink")
-    2011年10月6日、NBGI）
+1.  [Ponjan](https://zh.wikipedia.org/wiki/Ponjan "wikilink") AKB48（2010年12月4日、[万代](https://zh.wikipedia.org/wiki/万代 "wikilink")）
+2.  [與AKB1/48 偶像戀愛的話…](https://zh.wikipedia.org/wiki/與AKB1/48_偶像戀愛的話… "wikilink")（2010年12月23日、[NBGI](https://zh.wikipedia.org/wiki/NBGI "wikilink")）
+3.  [與AKB1/48 偶像在關島戀愛的話…](https://zh.wikipedia.org/wiki/與AKB1/48_偶像在關島戀愛的話… "wikilink") 2011年10月6日、NBGI）
 4.  AKB48ステージファイター（社交遊戲、2011年10月25日配信開始、[GREE](https://zh.wikipedia.org/wiki/GREE "wikilink")）
-5.  AKB48+Me
-    （[任天堂3DS用](../Page/任天堂3DS.md "wikilink")、2012年10月25日、[角川遊戲](https://zh.wikipedia.org/wiki/角川遊戲 "wikilink")）
-6.  KYORAKU合集 Vol.2「ぱちんこ必殺仕事人4」（[PlayStation
-    3用](../Page/PlayStation_3.md "wikilink")、2012年11月15日、）
-7.  AKB1/149 恋愛総選挙（PSP・[PS
-    Vita用](../Page/PlayStation_Vita.md "wikilink")、2012年12月20日、万代）
+5.  AKB48+Me （[任天堂3DS](../Page/任天堂3DS.md "wikilink")用、2012年10月25日、[角川遊戲](https://zh.wikipedia.org/wiki/角川遊戲 "wikilink")）
+6.  KYORAKU合集 Vol.2「ぱちんこ必殺仕事人4」（[PlayStation 3用](../Page/PlayStation_3.md "wikilink")、2012年11月15日、）
+7.  AKB1/149 恋愛総選挙（PSP・[PS Vita用](../Page/PlayStation_Vita.md "wikilink")、2012年12月20日、万代）
 8.  AKB0048 ギャラクシーシンデレラ（社交遊戲、2013年1月17日配信開始、GREE）
 9.  AKB48之野望（社交遊戲、2013年1月30日配信開始、GREE）
 10. 水手服殭屍～AKB48 機台版～（）（2014年4月、万代）
-11. [AKB48終於推出官方音樂遊戲了。](https://zh.wikipedia.org/wiki/AKB48終於推出官方音樂遊戲了。 "wikilink")
-    （音樂遊戲、2014年5月7日配信開始、S\&P）
+11. [AKB48終於推出官方音樂遊戲了。](https://zh.wikipedia.org/wiki/AKB48終於推出官方音樂遊戲了。 "wikilink") （音樂遊戲、2014年5月7日配信開始、S\&P）
 
 ## 柏青哥機
 
@@ -4663,8 +4630,7 @@ Blu-ray</p></td>
 
 ## 衍生组合
 
-*[Team Dragon from
-AKB48的作品請参照](https://zh.wikipedia.org/wiki/Team_Dragon_from_AKB48 "wikilink")「[心之羽根](../Page/心之羽根.md "wikilink")」。*
+*[Team Dragon from AKB48的作品請参照](https://zh.wikipedia.org/wiki/Team_Dragon_from_AKB48 "wikilink")「[心之羽根](../Page/心之羽根.md "wikilink")」。*
 
 ### 骨头組 from AKB48
 
@@ -5352,14 +5318,10 @@ AKBS-20131/2</p></td>
 ## 外部連結
 
   - [AKB48唱片](https://web.archive.org/web/20110422015724/http://akb48.co.jp/disc/)（官方網站）
-  - [AKB48唱片](http://www.kingrecords.co.jp/akb48/disco.html)（[You, Be
-    Cool\!/KING RECORDS](../Page/You,_Be_Cool!.md "wikilink")）
-  - [AKB48唱片](http://www.akb48-web.com/)（[DefSTAR
-    Records](../Page/DefSTAR_Records.md "wikilink")）
+  - [AKB48唱片](http://www.kingrecords.co.jp/akb48/disco.html)（[You, Be Cool\!/KING RECORDS](../Page/You,_Be_Cool!.md "wikilink")）
+  - [AKB48唱片](http://www.akb48-web.com/)（[DefSTAR Records](../Page/DefSTAR_Records.md "wikilink")）
 
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.  当初预订2011年4月6日发售，因2011年東北地方太平洋沖地震延期发售。
 
@@ -5375,7 +5337,6 @@ AKBS-20131/2</p></td>
 7.
 8.  [AKB錢形優子的曲は弹珠机景品限定品（日刊體育）2011年1月29日閲覧](http://www.nikkansports.com/entertainment/news/f-et-tp0-20110128-729689.html)
 
-9.  [〈彈珠機 錢形平次 with
-    TeamZ〉特別BOX一般發售日決定的告知 2011年5月21日閲覧](http://ameblo.jp/akihabara48/archive55-201105.html#main)
+9.  [〈彈珠機 錢形平次 with TeamZ〉特別BOX一般發售日決定的告知 2011年5月21日閲覧](http://ameblo.jp/akihabara48/archive55-201105.html#main)
 
 10. [太妹Girls「特別商品」發售](http://ameblo.jp/akihabara48/entry-11088145984.html)

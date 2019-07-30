@@ -1,8 +1,6 @@
-本**網域名稱系統記錄類型列表**提供[網域名稱系統](https://zh.wikipedia.org/wiki/DNS "wikilink")（DNS）記錄類型（數據庫記錄）的概覽，而這些記錄都是存儲在網域名稱系統（DNS）的區域文件（zone
-files）。
+本**網域名稱系統記錄類型列表**提供[網域名稱系統](https://zh.wikipedia.org/wiki/DNS "wikilink")（DNS）記錄類型（數據庫記錄）的概覽，而這些記錄都是存儲在網域名稱系統（DNS）的區域文件（zone files）。
 
-網域名稱系統實現將[域名和](../Page/域名.md "wikilink")[IP
-位址相互對映的一個](https://zh.wikipedia.org/wiki/IP_位址 "wikilink")[分散式數據庫](https://zh.wikipedia.org/wiki/分散式數據庫 "wikilink")，能夠使人更方便的存取[互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")。在這些[域名伺服器](https://zh.wikipedia.org/wiki/域名伺服器 "wikilink")，不同的記錄類型有著不同的用途。
+網域名稱系統實現將[域名](../Page/域名.md "wikilink")和[IP 位址相互對映的一個](https://zh.wikipedia.org/wiki/IP_位址 "wikilink")[分散式數據庫](https://zh.wikipedia.org/wiki/分散式數據庫 "wikilink")，能夠使人更方便的存取[互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")。在這些[域名伺服器](https://zh.wikipedia.org/wiki/域名伺服器 "wikilink")，不同的記錄類型有著不同的用途。
 
 ## 記錄類型
 
@@ -23,7 +21,7 @@ files）。
 <p>A</p></td>
 <td><p>1</p></td>
 <td><p>RFC 1035</p></td>
-<td><p><a href="../Page/IPv4.md" title="wikilink">IPv4地址記錄</a></p></td>
+<td><p><a href="../Page/IPv4.md" title="wikilink">IPv4</a>地址記錄</p></td>
 <td><p>傳回一個32位元的IPv4地址，最常用於映射<a href="https://zh.wikipedia.org/wiki/主機名稱" title="wikilink">主機名稱到</a><a href="../Page/IP地址.md" title="wikilink">IP地址</a>，但也用於（RFC 1101）等。</p></td>
 </tr>
 <tr class="even">
@@ -32,7 +30,7 @@ files）。
 <p>AAAA</p></td>
 <td><p>28</p></td>
 <td><p>RFC 3596</p></td>
-<td><p><a href="../Page/IPv6.md" title="wikilink">IPv6地址記錄</a></p></td>
+<td><p><a href="../Page/IPv6.md" title="wikilink">IPv6</a>地址記錄</p></td>
 <td><p>傳回一個128位元的IPv6地址，最常用於映射主機名稱到IP地址。</p></td>
 </tr>
 <tr class="odd">
@@ -342,8 +340,7 @@ files）。
 
 ## 其他類型及偽資源記錄
 
-其他類型的資源記錄簡單地提供一些類型的訊息（如：HINFO
-記錄提供電腦或作業系統的類型），或傳回實驗中之功能的數據。「type」欄位也使用於其他協議作各種操作。
+其他類型的資源記錄簡單地提供一些類型的訊息（如：HINFO 記錄提供電腦或作業系統的類型），或傳回實驗中之功能的數據。「type」欄位也使用於其他協議作各種操作。
 
 <table>
 <thead>
@@ -393,34 +390,20 @@ files）。
 
 ## 過時的記錄類型
 
-發展呈現廢棄一些最初定義的記錄類型。從 IANA
-的記錄可見，一些記錄類型由於一些原因而被限制其使用、一些被標示為明顯過時的、有些是為了隱藏的服務、有些是為了舊版本的服務、有的有特別記錄指出它們是「不正確的」。
+發展呈現廢棄一些最初定義的記錄類型。從 IANA 的記錄可見，一些記錄類型由於一些原因而被限制其使用、一些被標示為明顯過時的、有些是為了隱藏的服務、有些是為了舊版本的服務、有的有特別記錄指出它們是「不正確的」。
 
   - 由 RFC 973 定義為過時：MD(3)、MF (4)、MAILA (254)
-  - 為了發佈郵件列表訂戶的 DNS 記錄：MB(7)、MG(8)、MR(9)、MINFO(14)、MAILB (253)。 在 RFC
-    883 標明的意圖是為了讓 MB 代替
-    [SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink") VRFY 指令、MG 代替
-    SMTP EXPN 指令、及讓 MR 代替「551 User Not Local」SMTP 錯誤。其後，RFC 2505 提議將
-    VRFY 及 EXPN 指令兩者停用，使利用 MB 及 MG 永遠不可能獲得通過。
-  - 在 RFC 1123 不提議使用「not to be relied upon」（RFC 1127
-    有更多的資訊）：WKS(11)\[12\]
+  - 為了發佈郵件列表訂戶的 DNS 記錄：MB(7)、MG(8)、MR(9)、MINFO(14)、MAILB (253)。 在 RFC 883 標明的意圖是為了讓 MB 代替 [SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink") VRFY 指令、MG 代替 SMTP EXPN 指令、及讓 MR 代替「551 User Not Local」SMTP 錯誤。其後，RFC 2505 提議將 VRFY 及 EXPN 指令兩者停用，使利用 MB 及 MG 永遠不可能獲得通過。
+  - 在 RFC 1123 不提議使用「not to be relied upon」（RFC 1127 有更多的資訊）：WKS(11)\[12\]
   - 錯誤: NB(32)、NBSTAT(33)（自 RFC 1002）；號碼現已分配給 NIMLOC 及 SRV。
-  - 由 RFC 1035 定義為過時：NULL(10)（RFC 883 定義「完成查詢」（操作碼二及可能是三）有在使用此記錄，後來 RFC
-    1035 重新分配操作碼二為「狀態」及保留操作碼三）。
-  - 定義為早期的 [IPv6](../Page/IPv6.md "wikilink") 但其後由 RFC 3363
-    降級為試驗性：A6(38)
-  - 由 DNSSEC 更新（RFC 3755） 定義為過時：NXT(30)。同一時間，為 KEY 及 SIG 域名的適用性限制為不包括
-    DNSSEC。
+  - 由 RFC 1035 定義為過時：NULL(10)（RFC 883 定義「完成查詢」（操作碼二及可能是三）有在使用此記錄，後來 RFC 1035 重新分配操作碼二為「狀態」及保留操作碼三）。
+  - 定義為早期的 [IPv6](../Page/IPv6.md "wikilink") 但其後由 RFC 3363 降級為試驗性：A6(38)
+  - 由 DNSSEC 更新（RFC 3755） 定義為過時：NXT(30)。同一時間，為 KEY 及 SIG 域名的適用性限制為不包括 DNSSEC。
   - 第一版 DNSSEC（RFC 2230、RFC 2065）的一部份，現已過時：KX(36)
   - 目前沒有任何顯著的應用程序使用：HINFO(13)、RP(17)、X25(19)、ISDN(20)、RT(21)、NSAP(22)、NSAP-PTR(23)、PX(26)、EID(31)、NIMLOC(32)、ATMA(34)、APL(42)
-  - 由 [Kitchen
-    Sink](http://www.tools.ietf.org/html/draft-eastlake-kitchen-sink)
-    ，但從未達至 RFC 水平：SINK(40)
+  - 由 [Kitchen Sink](http://www.tools.ietf.org/html/draft-eastlake-kitchen-sink) ，但從未達至 RFC 水平：SINK(40)
   - 一個 LOC 記錄更有限的早期版本：GPOS(27)
-  - IANA 保留，及後未有 RFC 記錄它們
-    [1](https://web.archive.org/web/20080611185015/http://www.ops.ietf.org/lists/namedroppers/namedroppers.2004/msg00949.html)
-    而支援已由 [BIND](../Page/BIND.md "wikilink") 於九零年初移除：UINFO(100),
-    UID(101)、GID(102)、UNSPEC(103)
+  - IANA 保留，及後未有 RFC 記錄它們 [1](https://web.archive.org/web/20080611185015/http://www.ops.ietf.org/lists/namedroppers/namedroppers.2004/msg00949.html) 而支援已由 [BIND](../Page/BIND.md "wikilink") 於九零年初移除：UINFO(100), UID(101)、GID(102)、UNSPEC(103)
 
 RP(17) 可能被使用於有關指定的主機的不同聯絡點、子網域其他 SOA 記錄不包含的域名級別的人類可讀信息。
 
@@ -430,26 +413,17 @@ RP(17) 可能被使用於有關指定的主機的不同聯絡點、子網域其�
 
 ## 參考資料
 
-[Category:DNS记录类型](https://zh.wikipedia.org/wiki/Category:DNS记录类型 "wikilink")
-[Category:網際協議](https://zh.wikipedia.org/wiki/Category:網際協議 "wikilink")
+[Category:DNS记录类型](https://zh.wikipedia.org/wiki/Category:DNS记录类型 "wikilink") [Category:網際協議](https://zh.wikipedia.org/wiki/Category:網際協議 "wikilink")
 
 1.  RFC 2535, §3
 
 2.  RFC 3445, §1. "The KEY RR was defined in \[RFC 2930\]..."
 
-3.  RFC 2931, §2.4. "SIG(0) on the other hand, uses public key
-    authentication, where the public keys are stored in DNS as KEY RRs
-    and a private key is stored at the signer."
+3.  RFC 2931, §2.4. "SIG(0) on the other hand, uses public key authentication, where the public keys are stored in DNS as KEY RRs and a private key is stored at the signer."
 
-4.  RFC 3445, §1. "DNSSEC will be the only allowable sub-type for the
-    KEY RR..."
+4.  RFC 3445, §1. "DNSSEC will be the only allowable sub-type for the KEY RR..."
 
-5.  RFC 3755, §3. "DNSKEY will be the replacement for KEY, with the
-    mnemonic indicating that these keys are not for application use, per
-    \[RFC3445\]. RRSIG (Resource Record SIGnature) will replace SIG, and
-    NSEC (Next SECure) will replace NXT. These new types completely
-    replace the old types, except that SIG(0) \[RFC2931\] and TKEY
-    \[RFC2930\] will continue to use SIG and KEY."
+5.  RFC 3755, §3. "DNSKEY will be the replacement for KEY, with the mnemonic indicating that these keys are not for application use, per \[RFC3445\]. RRSIG (Resource Record SIGnature) will replace SIG, and NSEC (Next SECure) will replace NXT. These new types completely replace the old types, except that SIG(0) \[RFC2931\] and TKEY \[RFC2930\] will continue to use SIG and KEY."
 
 6.
 7.
@@ -457,9 +431,7 @@ RP(17) 可能被使用於有關指定的主機的不同聯絡點、子網域其�
 
 9.  [Weiler Spec](http://www.watson.org/~weiler/INI1999-19.pdf)
 
-10. RFC 2930, §6. "... the keying material is sent within the key data
-    field of a TKEY RR encrypted under the public key in an accompanying
-    KEY RR \[RFC 2535\]."
+10. RFC 2930, §6. "... the keying material is sent within the key data field of a TKEY RR encrypted under the public key in an accompanying KEY RR \[RFC 2535\]."
 
 11. RFC 2845, abstract
 

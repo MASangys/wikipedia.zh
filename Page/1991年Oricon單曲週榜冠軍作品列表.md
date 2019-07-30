@@ -1,10 +1,6 @@
-**1991年Oricon單曲週榜冠軍作品列表**列出1991年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**1991年Oricon單曲週榜冠軍作品列表**列出1991年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
-全年度共有19首冠軍單曲誕生，是歷年最少的其中一次，單曲冠軍的位置長期被幾首大熱歌曲佔據著。而其中全年一半時間都被三首最終銷量突破200萬的單曲佔據——[恰克與飛鳥的](../Page/恰克與飛鳥.md "wikilink")《[SAY
-YES](../Page/SAY_YES_\(恰克與飛鳥單曲\).md "wikilink")》（13週）、[小田和正的](../Page/小田和正.md "wikilink")《[Oh\!
-Yeah\!／愛情故事突然發生](../Page/Oh!_Yeah!.md "wikilink")》（7週）以及[KAN的](https://zh.wikipedia.org/wiki/KAN "wikilink")《[有愛必勝](../Page/有愛必勝.md "wikilink")》（6週，同時也是1990年最後一週的冠軍單曲，共7週）。此外，還有[小泉今日子的](../Page/小泉今日子.md "wikilink")《[和你相遇真好](../Page/和你相遇真好.md "wikilink")》（5週）、[B'z的](../Page/B'z.md "wikilink")《[LADY
-NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")》（3週）和[今井美樹的](../Page/今井美樹.md "wikilink")《[PIECE
-OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")》（3週）等。
+全年度共有19首冠軍單曲誕生，是歷年最少的其中一次，單曲冠軍的位置長期被幾首大熱歌曲佔據著。而其中全年一半時間都被三首最終銷量突破200萬的單曲佔據——[恰克與飛鳥](../Page/恰克與飛鳥.md "wikilink")的《[SAY YES](../Page/SAY_YES_\(恰克與飛鳥單曲\).md "wikilink")》（13週）、[小田和正](../Page/小田和正.md "wikilink")的《[Oh\! Yeah\!／愛情故事突然發生](../Page/Oh!_Yeah!.md "wikilink")》（7週）以及[KAN的](https://zh.wikipedia.org/wiki/KAN "wikilink")《[有愛必勝](../Page/有愛必勝.md "wikilink")》（6週，同時也是1990年最後一週的冠軍單曲，共7週）。此外，還有[小泉今日子](../Page/小泉今日子.md "wikilink")的《[和你相遇真好](../Page/和你相遇真好.md "wikilink")》（5週）、[B'z](../Page/B'z.md "wikilink")的《[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")》（3週）和[今井美樹](../Page/今井美樹.md "wikilink")的《[PIECE OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")》（3週）等。
 
 ## 冠軍單曲列表
 
@@ -389,5 +385,4 @@ OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")》（3週）等。
 
   - [1991年每週公信榜統計數據](https://web.archive.org/web/20161106093414/http://www.musictvprogram.com/oricon1991.html)
 
-[Category:1991年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1991年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:1991年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1991年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")

@@ -1,11 +1,8 @@
-Echoes, Silence, Patience & Grace
-是[幽浮一族樂團所發行的一張](https://zh.wikipedia.org/wiki/幽浮一族樂團 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2007年9月25日發行。
+Echoes, Silence, Patience & Grace 是[幽浮一族樂團所發行的一張](https://zh.wikipedia.org/wiki/幽浮一族樂團 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2007年9月25日發行。
 
 ## 單曲
 
-1\. [The
-Pretender](https://zh.wikipedia.org/wiki/The_Pretender_\(歌曲\) "wikilink")
-- 4:29
+1\. [The Pretender](https://zh.wikipedia.org/wiki/The_Pretender_\(歌曲\) "wikilink") - 4:29
 
 2\. Let It Die - 4:05
 
@@ -31,8 +28,6 @@ Pretender](https://zh.wikipedia.org/wiki/The_Pretender_\(歌曲\) "wikilink")
 
 ## 參考資料
 
-[英文維基百科 條目:Echoes, Silence, Patience &
-Grace](http://en.wikipedia.org/wiki/Echoes,_Silence,_Patience_&_Grace)
+[英文維基百科 條目:Echoes, Silence, Patience & Grace](http://en.wikipedia.org/wiki/Echoes,_Silence,_Patience_&_Grace)
 
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
+[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")

@@ -24,13 +24,8 @@ GW近似就是截取该展开式的首项：
 ## 参考文献
 
   - L. Hedin, Phys. Rev. **139**, A796 (1965).
-  - W.G. Aulbur, L. Jönsson and J.W. Wilkins, Solid State Physics
-    **54**, 1 (2000) [full version in postscript
-    (7,3MB)](http://www.physics.ohio-state.edu/~wilkins/vita/gw_review.ps).
-  - F. Aryasetiawan, O. Gunnarsson,
-    [arXiv:cond-mat/9712013v1](http://xxx.lanl.gov/abs/cond-mat/9712013).
-  - C. Friedrich and A. Schindlmayr, Many-body perturbation theory: The
-    GW Approximation
-    [1](http://www.fz-juelich.de/nic-series/volume31/friedrich.pdf)
+  - W.G. Aulbur, L. Jönsson and J.W. Wilkins, Solid State Physics **54**, 1 (2000) [full version in postscript (7,3MB)](http://www.physics.ohio-state.edu/~wilkins/vita/gw_review.ps).
+  - F. Aryasetiawan, O. Gunnarsson, [arXiv:cond-mat/9712013v1](http://xxx.lanl.gov/abs/cond-mat/9712013).
+  - C. Friedrich and A. Schindlmayr, Many-body perturbation theory: The GW Approximation [1](http://www.fz-juelich.de/nic-series/volume31/friedrich.pdf)
 
 [Category:量子場論](https://zh.wikipedia.org/wiki/Category:量子場論 "wikilink")

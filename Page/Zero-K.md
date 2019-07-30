@@ -1,11 +1,8 @@
-**Zero-K**是一个构建于[Spring计划上的](../Page/Spring计划.md "wikilink")[即时战略游戏](https://zh.wikipedia.org/wiki/即时战略 "wikilink")，其命名Zero-K意思是[绝对零度](../Page/绝对零度.md "wikilink")，废墟后完全静止的意境。主要的游戏内容在线进行，力图展现规模化（1～16人），智能，技巧型的快节奏（20\~30分钟）即时战略游戏氛围。程序授权是[自由开源软件](https://zh.wikipedia.org/wiki/自由开源软件 "wikilink")，音频多用[非商业非衍生的知识共享协议](../Page/知识共享.md "wikilink")。
+**Zero-K**是一个构建于[Spring计划](../Page/Spring计划.md "wikilink")上的[即时战略游戏](https://zh.wikipedia.org/wiki/即时战略 "wikilink")，其命名Zero-K意思是[绝对零度](../Page/绝对零度.md "wikilink")，废墟后完全静止的意境。主要的游戏内容在线进行，力图展现规模化（1～16人），智能，技巧型的快节奏（20\~30分钟）即时战略游戏氛围。程序授权是[自由开源软件](https://zh.wikipedia.org/wiki/自由开源软件 "wikilink")，音频多用[非商业非衍生的知识共享协议](../Page/知识共享.md "wikilink")。
 
 ## 历史
 
-Zero-K 项目来自 Complete Annihilation-1Faction，为 Complete
-Annihilation（CA）改动的单阵营版本，而后者是 Balanced
-Annihilation（BA）的Fork，BA又是构架于Spring之上的[横扫千军衍生版本](../Page/横扫千军.md "wikilink")。于2010年9月起，CA1F更名为Pre-Zero-K版本，同时CA项目中止。
-2011年5月的版本0.8.7，开启PlanetWars的第二阶段。
+Zero-K 项目来自 Complete Annihilation-1Faction，为 Complete Annihilation（CA）改动的单阵营版本，而后者是 Balanced Annihilation（BA）的Fork，BA又是构架于Spring之上的[横扫千军](../Page/横扫千军.md "wikilink")衍生版本。于2010年9月起，CA1F更名为Pre-Zero-K版本，同时CA项目中止。 2011年5月的版本0.8.7，开启PlanetWars的第二阶段。
 
 ## 游戏特点
 
@@ -17,16 +14,13 @@ Annihilation（BA）的Fork，BA又是构架于Spring之上的[横扫千军衍�
 
 玩家的自定义指挥官，在服务器储存，可以调用配置。
 
-当前项目重心在于 PlanetWars，在线大规模战役系统，CA时代曾有两个版本。Zero-K
-0.8.5后回归，玩家自行组建和参加联盟，以星系称霸为目的。
+当前项目重心在于 PlanetWars，在线大规模战役系统，CA时代曾有两个版本。Zero-K 0.8.5后回归，玩家自行组建和参加联盟，以星系称霸为目的。
 
 ## 工具
 
-Zero-K的开发者维护Spring服务器和一些工具，比如Zero-K
-Lobby和Rapid。介于此类工具，Zero-K更新速度为一周一个发布版本，也一直有架设测试版本的服务器。活跃开发下，游戏快速的调整和进化。
+Zero-K的开发者维护Spring服务器和一些工具，比如Zero-K Lobby和Rapid。介于此类工具，Zero-K更新速度为一周一个发布版本，也一直有架设测试版本的服务器。活跃开发下，游戏快速的调整和进化。
 
-Zero-K Lobby是建立在.Net上的工具，为Zero-K设计，2013年5月Zero-K:Lobby 添加Linux支持；Mission
-Editor，C\#编程，仅支持Windows，易于编写任务。
+Zero-K Lobby是建立在.Net上的工具，为Zero-K设计，2013年5月Zero-K:Lobby 添加Linux支持；Mission Editor，C\#编程，仅支持Windows，易于编写任务。
 
 ## 网络服务
 
@@ -38,8 +32,4 @@ Editor，C\#编程，仅支持Windows，易于编写任务。
   - [Zero-K 开发主页](http://code.google.com/p/zero-k)
   - [Spring主页](http://www.springrts.com/)
 
-[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:立體3D圖像遊戲](https://zh.wikipedia.org/wiki/Category:立體3D圖像遊戲 "wikilink")
+[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:立體3D圖像遊戲](https://zh.wikipedia.org/wiki/Category:立體3D圖像遊戲 "wikilink")

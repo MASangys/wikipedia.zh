@@ -1,17 +1,14 @@
-**AKB48 好嘞～出發嘍～！in
-西武巨蛋**（），通稱**AKB48西武巨蛋演唱會**，簡稱**西武公演**，是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AKB48在](../Page/AKB48.md "wikilink")2011年7月22日至2011年7月24日於[西武巨蛋舉行的](../Page/西武巨蛋.md "wikilink")[AKB48公演](https://zh.wikipedia.org/wiki/AKB48公演 "wikilink")。
+**AKB48 好嘞～出發嘍～！in 西武巨蛋**（），通稱**AKB48西武巨蛋演唱會**，簡稱**西武公演**，是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AKB48](../Page/AKB48.md "wikilink")在2011年7月22日至2011年7月24日於[西武巨蛋](../Page/西武巨蛋.md "wikilink")舉行的[AKB48公演](https://zh.wikipedia.org/wiki/AKB48公演 "wikilink")。
 
 ## 概要
 
-2011年5月29日，AKB48在[橫濱球場舉行的](../Page/橫濱球場.md "wikilink")《[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")》全國握手會中宣佈在7月22日至7月24日間於西武巨蛋舉行演唱會\[1\]。這次是AKB48成立六年以來首次於[巨蛋舉行演唱會](../Page/巨蛋.md "wikilink")，姊妹組合[SKE48](../Page/SKE48.md "wikilink")、[NMB48和](../Page/NMB48.md "wikilink")[SDN48也有參與](../Page/SDN48.md "wikilink")，演唱會歷時3天總共有9萬人次觀看。期間，AKB48發佈了[阿部マリア和](https://zh.wikipedia.org/wiki/阿部マリア "wikilink")[入山杏奈升格Team](../Page/入山杏奈.md "wikilink")
-4，以及任命[大場美奈為Team](../Page/大場美奈.md "wikilink")
-4隊長的消息，也有研究生佐佐木優佳里模仿CG成員[江口愛實登場](../Page/江口愛實.md "wikilink")\[2\]，與此同時也舉行了[AKB48第24張單曲選拔猜拳大會的抽籤儀式](../Page/AKB48第24張單曲選拔猜拳大會.md "wikilink")\[3\]\[4\]。11月8日，演唱會部分影像在[NHK綜合頻道播出](../Page/NHK綜合頻道.md "wikilink")\[5\]。
+2011年5月29日，AKB48在[橫濱球場](../Page/橫濱球場.md "wikilink")舉行的《[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")》全國握手會中宣佈在7月22日至7月24日間於西武巨蛋舉行演唱會\[1\]。這次是AKB48成立六年以來首次於[巨蛋](../Page/巨蛋.md "wikilink")舉行演唱會，姊妹組合[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")和[SDN48](../Page/SDN48.md "wikilink")也有參與，演唱會歷時3天總共有9萬人次觀看。期間，AKB48發佈了[阿部マリア和](https://zh.wikipedia.org/wiki/阿部マリア "wikilink")[入山杏奈](../Page/入山杏奈.md "wikilink")升格Team 4，以及任命[大場美奈](../Page/大場美奈.md "wikilink")為Team 4隊長的消息，也有研究生佐佐木優佳里模仿CG成員[江口愛實](../Page/江口愛實.md "wikilink")登場\[2\]，與此同時也舉行了[AKB48第24張單曲選拔猜拳大會](../Page/AKB48第24張單曲選拔猜拳大會.md "wikilink")的抽籤儀式\[3\]\[4\]。11月8日，演唱會部分影像在[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")播出\[5\]。
 
 ## DVD
 
-演唱會的[DVD在](https://zh.wikipedia.org/wiki/DVD "wikilink")2011年12月28日由[AKS發行](../Page/AKS.md "wikilink")，分為特別BOX、第一公演、第二公演、第三公演和精華盤，總共五個版本。其中，特別BOX包含三場公演和製作特輯總共7張DVD、132頁寫真集和5張[生寫真](https://zh.wikipedia.org/wiki/生寫真 "wikilink")，其餘則各包含兩張DVD和一張生寫真。另外，購買者可獲贈限量原創筆袋一個，分為[前田敦子](../Page/前田敦子.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")、[板野友美](../Page/板野友美.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[高城亞樹](../Page/高城亞樹.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[秋元才加和](../Page/秋元才加.md "wikilink")[佐藤亞美菜版本](../Page/佐藤亞美菜.md "wikilink")，每個版本再分為紅綠藍三色\[6\]。相關的宣傳廣告遍布[東京各處](https://zh.wikipedia.org/wiki/東京 "wikilink")，其中包括[秋葉原電器街](../Page/秋葉原.md "wikilink")、[澀谷站和](https://zh.wikipedia.org/wiki/澀谷站 "wikilink")[表參道站等等](../Page/表參道站.md "wikilink")\[7\]。
+演唱會的[DVD在](https://zh.wikipedia.org/wiki/DVD "wikilink")2011年12月28日由[AKS](../Page/AKS.md "wikilink")發行，分為特別BOX、第一公演、第二公演、第三公演和精華盤，總共五個版本。其中，特別BOX包含三場公演和製作特輯總共7張DVD、132頁寫真集和5張[生寫真](https://zh.wikipedia.org/wiki/生寫真 "wikilink")，其餘則各包含兩張DVD和一張生寫真。另外，購買者可獲贈限量原創筆袋一個，分為[前田敦子](../Page/前田敦子.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")、[板野友美](../Page/板野友美.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[高城亞樹](../Page/高城亞樹.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[秋元才加](../Page/秋元才加.md "wikilink")和[佐藤亞美菜](../Page/佐藤亞美菜.md "wikilink")版本，每個版本再分為紅綠藍三色\[6\]。相關的宣傳廣告遍布[東京各處](https://zh.wikipedia.org/wiki/東京 "wikilink")，其中包括[秋葉原](../Page/秋葉原.md "wikilink")電器街、[澀谷站和](https://zh.wikipedia.org/wiki/澀谷站 "wikilink")[表參道站](../Page/表參道站.md "wikilink")等等\[7\]。
 
-特別BOX在發行首週以7.1萬銷量取得[OriconDVD週榜冠軍](../Page/Oricon公信榜.md "wikilink")，而精華盤憑0.9萬銷量取得第11位、第三公演憑0.9萬銷量取得第13位、第二公演憑0.4萬銷量取得第23位和第一公演憑0.3萬銷量取得第29位，總共5張DVD同時打入首100位，打破由[MAX](https://zh.wikipedia.org/wiki/MAX_\(日本音樂團體\) "wikilink")、[森高千里](https://zh.wikipedia.org/wiki/森高千里 "wikilink")、[濱崎步和](../Page/濱崎步.md "wikilink")[SPEED以](../Page/SPEED_\(日本音樂團體\).md "wikilink")3張DVD保持的紀錄。與此同時，特別BOX以1萬8900日元的售價成為DVD榜自1999年4月以來金額最高的週榜冠軍\[8\]。
+特別BOX在發行首週以7.1萬銷量取得[OriconDVD週榜冠軍](../Page/Oricon公信榜.md "wikilink")，而精華盤憑0.9萬銷量取得第11位、第三公演憑0.9萬銷量取得第13位、第二公演憑0.4萬銷量取得第23位和第一公演憑0.3萬銷量取得第29位，總共5張DVD同時打入首100位，打破由[MAX](https://zh.wikipedia.org/wiki/MAX_\(日本音樂團體\) "wikilink")、[森高千里](https://zh.wikipedia.org/wiki/森高千里 "wikilink")、[濱崎步](../Page/濱崎步.md "wikilink")和[SPEED以](../Page/SPEED_\(日本音樂團體\).md "wikilink")3張DVD保持的紀錄。與此同時，特別BOX以1萬8900日元的售價成為DVD榜自1999年4月以來金額最高的週榜冠軍\[8\]。
 
 ## 曲目
 
@@ -67,9 +64,7 @@
 
 ## 參考資料
 
-[Category:2011年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2011年巡回演唱会 "wikilink")
-[Category:2011年日本](https://zh.wikipedia.org/wiki/Category:2011年日本 "wikilink")
-[Category:AKB48的演唱会](https://zh.wikipedia.org/wiki/Category:AKB48的演唱会 "wikilink")
+[Category:2011年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2011年巡回演唱会 "wikilink") [Category:2011年日本](https://zh.wikipedia.org/wiki/Category:2011年日本 "wikilink") [Category:AKB48的演唱会](https://zh.wikipedia.org/wiki/Category:AKB48的演唱会 "wikilink")
 
 1.
 2.

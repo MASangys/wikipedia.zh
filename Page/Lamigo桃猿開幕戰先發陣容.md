@@ -1,5 +1,4 @@
-[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[La
-new熊從職棒十五年](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")(2004年)至職棒二十一年(2010年)及[Lamigo桃猿職棒二十二年](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")(2011年)至職棒二十三年(2012年)，球隊於各球季第一場例行賽先發球員陣容的名單。以下表格按各守備位置排序。
+[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[La new熊從職棒十五年](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")(2004年)至職棒二十一年(2010年)及[Lamigo桃猿職棒二十二年](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")(2011年)至職棒二十三年(2012年)，球隊於各球季第一場例行賽先發球員陣容的名單。以下表格按各守備位置排序。
 
 ## 各季先發陣容列表
 
@@ -28,6 +27,4 @@ new熊從職棒十五年](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")(20
 
   - [中華職棒全球資訊網](http://www.cpbl.com.tw/)
 
-[Category:棒球紀錄](https://zh.wikipedia.org/wiki/Category:棒球紀錄 "wikilink")
-[Category:La_Newv熊](https://zh.wikipedia.org/wiki/Category:La_Newv熊 "wikilink")
-[Category:Lamigo桃猿](https://zh.wikipedia.org/wiki/Category:Lamigo桃猿 "wikilink")
+[Category:棒球紀錄](https://zh.wikipedia.org/wiki/Category:棒球紀錄 "wikilink") [Category:La_Newv熊](https://zh.wikipedia.org/wiki/Category:La_Newv熊 "wikilink") [Category:Lamigo桃猿](https://zh.wikipedia.org/wiki/Category:Lamigo桃猿 "wikilink")

@@ -1,5 +1,4 @@
-**《都市觸覺 Part III Faces And
-Places》**是[香港歌手](../Page/香港.md "wikilink")[林憶蓮第八張粵語錄音室專輯](../Page/林憶蓮.md "wikilink")，於1990年8月8日發行。
+**《都市觸覺 Part III Faces And Places》**是[香港](../Page/香港.md "wikilink")歌手[林憶蓮](../Page/林憶蓮.md "wikilink")第八張粵語錄音室專輯，於1990年8月8日發行。
 
 ## 曲目
 
@@ -10,8 +9,7 @@ Places》**是[香港歌手](../Page/香港.md "wikilink")[林憶蓮第八張粵
   - 《風笑痴》是改編自Lolita主唱的《If I Go》。
   - 《微雨撲巴黎》的國語版本為《我只是個不擅等待的情人》。
   - 《夜生活》是改編自Karyn White主唱的《The Way You Love Me》。國語版本為《我的夜生活》。
-  - 《前塵》是改編自[黃鶯鶯主唱的](../Page/黃鶯鶯.md "wikilink")《Paradise In My
-    Heart》。國語版本為同名歌曲。
+  - 《前塵》是改編自[黃鶯鶯](../Page/黃鶯鶯.md "wikilink")主唱的《Paradise In My Heart》。國語版本為同名歌曲。
   - 《怱怱》是改編自The Cover Girls主唱的《No One In This World》。國語版本為同名歌曲。
   - 《都市心》的國語版本為《誰是我的唯一》。
   - 《再不在乎》是改編自Michael Franks主唱的《On My Way Home to You》。
@@ -40,7 +38,4 @@ Places》**是[香港歌手](../Page/香港.md "wikilink")[林憶蓮第八張粵
 
 ## 外部連結
 
-[Category:林憶蓮音樂專輯](https://zh.wikipedia.org/wiki/Category:林憶蓮音樂專輯 "wikilink")
-[Category:1990年音樂專輯](https://zh.wikipedia.org/wiki/Category:1990年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:林憶蓮音樂專輯](https://zh.wikipedia.org/wiki/Category:林憶蓮音樂專輯 "wikilink") [Category:1990年音樂專輯](https://zh.wikipedia.org/wiki/Category:1990年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

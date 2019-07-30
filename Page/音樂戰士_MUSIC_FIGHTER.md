@@ -1,10 +1,8 @@
-『**音樂戰士 MUSIC FIGHTER**』（音楽戦士 MUSIC
-FIGHTER）是2004年10月8日至2010年3月26日在[日本電視台系列深夜播放的](../Page/日本電視台.md "wikilink")[音樂](https://zh.wikipedia.org/wiki/音樂節目 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
+『**音樂戰士 MUSIC FIGHTER**』（音楽戦士 MUSIC FIGHTER）是2004年10月8日至2010年3月26日在[日本電視台](../Page/日本電視台.md "wikilink")系列深夜播放的[音樂](https://zh.wikipedia.org/wiki/音樂節目 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 概要
 
-『[AX
-MUSIC-TV](https://zh.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』的後繼節目。基本是嘉賓藝人1組（2009年4月以後是2組）進行談話，但是內容根據嘉賓藝人而改變。
+『[AX MUSIC-TV](https://zh.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』的後繼節目。基本是嘉賓藝人1組（2009年4月以後是2組）進行談話，但是內容根據嘉賓藝人而改變。
 
 播放時間是2009年10月2日開始是每週五 24:30 - 25:25。
 
@@ -27,8 +25,7 @@ MUSIC-TV](https://zh.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』的後繼節�
 
   - [レニー・ハート](https://zh.wikipedia.org/wiki/レニー・ハート "wikilink")（旁白。2008年10月3日。裏節目『[爆笑問題の検索ちゃん](https://zh.wikipedia.org/wiki/爆笑問題の検索ちゃん "wikilink")』擔任呼叫標題）
   - [宮﨑宣子播報員](https://zh.wikipedia.org/wiki/宮崎宣子 "wikilink")（助手、2005年10月7日まで）
-  - [シーモネーター 改め
-    SEAMO](https://zh.wikipedia.org/wiki/SEAMO "wikilink")（按照的正式、2005年春天左右）
+  - [シーモネーター 改め SEAMO](https://zh.wikipedia.org/wiki/SEAMO "wikilink")（按照的正式、2005年春天左右）
   - [工藤里紗](https://zh.wikipedia.org/wiki/工藤里紗 "wikilink")（按照的正式、2005年春天左右）
   - [はなわ](https://zh.wikipedia.org/wiki/はなわ "wikilink")（同上）
   - アユミ（現在的[ICONIQ](https://zh.wikipedia.org/wiki/ICONIQ "wikilink")、当時是[Sugar的成員](https://zh.wikipedia.org/wiki/Sugar_\(韓国的音樂團體\) "wikilink")、2006年3月）
@@ -92,7 +89,7 @@ MUSIC-TV](https://zh.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』的後繼節�
 <td><p>延遅4日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC、<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台系和跨站網絡</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC、<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>系和跨站網絡）</p></td>
 <td><p>星期四 24:29〜25:24</p></td>
 <td><p>延遅6日</p></td>
 </tr>
@@ -129,5 +126,4 @@ MUSIC-TV](https://zh.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』的後繼節�
 
   - [公式網站](https://web.archive.org/web/20111119150938/http://www.ntv.co.jp/mfighter/)
 
-[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink")
-[Category:2004年日本電視節目](https://zh.wikipedia.org/wiki/Category:2004年日本電視節目 "wikilink")
+[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2004年日本電視節目](https://zh.wikipedia.org/wiki/Category:2004年日本電視節目 "wikilink")

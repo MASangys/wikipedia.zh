@@ -1,9 +1,6 @@
-**Quadro2**是[NVIDIA的於](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")2000年7月25日推出的專業顯示晶片，定位於[工作站領域](../Page/工作站.md "wikilink")。\[1\]。採用該系列晶片的顯示卡是由德國[Elsa（艾爾莎）公司獨家推出的GLoria與Synergy系列產品](https://zh.wikipedia.org/wiki/Elsa "wikilink")。2001年8月14日，NVIDIA推出了全球首颗行動工作站顯示晶片Quadro2
-Go\[2\]。
+**Quadro2**是[NVIDIA的於](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")2000年7月25日推出的專業顯示晶片，定位於[工作站](../Page/工作站.md "wikilink")領域。\[1\]。採用該系列晶片的顯示卡是由德國[Elsa（艾爾莎）公司獨家推出的GLoria與Synergy系列產品](https://zh.wikipedia.org/wiki/Elsa "wikilink")。2001年8月14日，NVIDIA推出了全球首颗行動工作站顯示晶片Quadro2 Go\[2\]。
 
-Quadro2系列共有四款產品，分別是Quadro2 Pro、Quadro2 EX、Quadro2 MXR以及一款行動版Quadro 2
-Go。Quadro2 Pro基於GeForce2 Ultra核心，Quadro2 EX基於GeForce2 MX 200，Quadro2
-MXR基於GeForce2 MX 400，Quadro2 Go基於GeFroce2 Go。
+Quadro2系列共有四款產品，分別是Quadro2 Pro、Quadro2 EX、Quadro2 MXR以及一款行動版Quadro 2 Go。Quadro2 Pro基於GeForce2 Ultra核心，Quadro2 EX基於GeForce2 MX 200，Quadro2 MXR基於GeForce2 MX 400，Quadro2 Go基於GeFroce2 Go。
 
 ## 規格列表
 
@@ -38,18 +35,11 @@ MXR基於GeForce2 MX 400，Quadro2 Go基於GeFroce2 Go。
 
 ## 外部連結
 
-  - [NVIDIA Quadro2
-    Pro主頁](http://www.nvidia.com.tw/page/quadro2pro.html)
-  - [NVIDIA Quadro2
-    MXR/EX主頁](http://www.nvidia.com.tw/page/quadro2mxr.html)
-  - [NVIDIA Quadro2
-    Go系列主頁](http://www.nvidia.com.tw/page/quadro2go.html)
+  - [NVIDIA Quadro2 Pro主頁](http://www.nvidia.com.tw/page/quadro2pro.html)
+  - [NVIDIA Quadro2 MXR/EX主頁](http://www.nvidia.com.tw/page/quadro2mxr.html)
+  - [NVIDIA Quadro2 Go系列主頁](http://www.nvidia.com.tw/page/quadro2go.html)
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
 
-1.  [NVIDIA'S New Quadro2 Workstation Graphics Solutions Break Barriers
-    in Technology, Performance, and
-    Price](http://www.nvidia.com/object/IO_20010618_6416.html)
-2.  [NVIDIA Establishes Industry's First Workstation-Class Mobile
-    GPU](http://www.nvidia.com/object/IO_20010813_8812.html)
+1.  [NVIDIA'S New Quadro2 Workstation Graphics Solutions Break Barriers in Technology, Performance, and Price](http://www.nvidia.com/object/IO_20010618_6416.html)
+2.  [NVIDIA Establishes Industry's First Workstation-Class Mobile GPU](http://www.nvidia.com/object/IO_20010813_8812.html)

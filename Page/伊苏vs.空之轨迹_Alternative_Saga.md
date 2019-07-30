@@ -1,18 +1,12 @@
-《**伊苏vs.空之轨迹 Alternative
-Saga**》（）是[日本](../Page/日本.md "wikilink")[電子遊戲公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[Falcom所製作的一款游戏](https://zh.wikipedia.org/wiki/Falcom "wikilink")，目前已确定2010年7月29日在日本发售PSP版。最多可以供4名PSP玩家联网对战。其中登场的主要人物均有[声优配音](https://zh.wikipedia.org/wiki/声优 "wikilink")。
+《**伊苏vs.空之轨迹 Alternative Saga**》（）是[日本](../Page/日本.md "wikilink")[電子遊戲公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[Falcom所製作的一款游戏](https://zh.wikipedia.org/wiki/Falcom "wikilink")，目前已确定2010年7月29日在日本发售PSP版。最多可以供4名PSP玩家联网对战。其中登场的主要人物均有[声优配音](https://zh.wikipedia.org/wiki/声优 "wikilink")。
 
 ## 世界观
 
-基本的世界設定承襲自 Falcom 的代表作《[Dragon
-Slayer系列](../Page/Dragon_Slayer系列.md "wikilink")》第二代[Xanadu](https://zh.wikipedia.org/wiki/Xanadu "wikilink")（）。魔王在曾經被譽為桃源鄉的
-Xanadu 復活了，為打倒魔王而從異世界征召戰士，故事就這樣開始了。
+基本的世界設定承襲自 Falcom 的代表作《[Dragon Slayer系列](../Page/Dragon_Slayer系列.md "wikilink")》第二代[Xanadu](https://zh.wikipedia.org/wiki/Xanadu "wikilink")（）。魔王在曾經被譽為桃源鄉的 Xanadu 復活了，為打倒魔王而從異世界征召戰士，故事就這樣開始了。
 
 ## 登场人物
 
-游戏中的人物主要來自於《[伊苏系列](../Page/伊苏系列.md "wikilink")》和《[英雄传说VI
-空之轨迹](https://zh.wikipedia.org/wiki/英雄传说VI_空之轨迹 "wikilink")》。其餘人物來自《[英雄傳說
-零之軌跡](https://zh.wikipedia.org/wiki/英雄傳說_零之軌跡 "wikilink")》、《[双星物语](../Page/双星物语.md "wikilink")》、《[英雄传说III
-白发魔女](https://zh.wikipedia.org/wiki/英雄传说III_白发魔女 "wikilink")》、《[Brandish](https://zh.wikipedia.org/wiki/Brandish "wikilink")》、《[咕噜小天使](../Page/咕噜小天使.md "wikilink")》等Falcom游戏。
+游戏中的人物主要來自於《[伊苏系列](../Page/伊苏系列.md "wikilink")》和《[英雄传说VI 空之轨迹](https://zh.wikipedia.org/wiki/英雄传说VI_空之轨迹 "wikilink")》。其餘人物來自《[英雄傳說 零之軌跡](https://zh.wikipedia.org/wiki/英雄傳說_零之軌跡 "wikilink")》、《[双星物语](../Page/双星物语.md "wikilink")》、《[英雄传说III 白发魔女](https://zh.wikipedia.org/wiki/英雄传说III_白发魔女 "wikilink")》、《[Brandish](https://zh.wikipedia.org/wiki/Brandish "wikilink")》、《[咕噜小天使](../Page/咕噜小天使.md "wikilink")》等Falcom游戏。
 
 ### 主要人物
 
@@ -228,8 +222,7 @@ Xanadu 復活了，為打倒魔王而從異世界征召戰士，故事就這樣�
 <!-- end list -->
 
   -
-    《[伊苏
-    起源](https://zh.wikipedia.org/wiki/伊苏_起源 "wikilink")》中的女主角和男主角。效果是“旋风·结界防护”。
+    《[伊苏 起源](https://zh.wikipedia.org/wiki/伊苏_起源 "wikilink")》中的女主角和男主角。效果是“旋风·结界防护”。
 
 <!-- end list -->
 
@@ -507,10 +500,4 @@ Xanadu 復活了，為打倒魔王而從異世界征召戰士，故事就這樣�
 
   - [伊苏vs空之轨迹 Alternative Saga官方网站](http://www.falcom.com/ys_vs_sora/)
 
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink")
-[Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink")
-[Category:伊苏系列](https://zh.wikipedia.org/wiki/Category:伊苏系列 "wikilink")
-[Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink")
+[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink") [Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink") [Category:伊苏系列](https://zh.wikipedia.org/wiki/Category:伊苏系列 "wikilink") [Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink")

@@ -1,4 +1,4 @@
-**2009年Oricon專輯週榜冠軍作品列表**列出2009年度曾經登上[Oricon公信榜專輯週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
+**2009年Oricon專輯週榜冠軍作品列表**列出2009年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜冠軍的[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
 
 全年共有45張冠軍專輯誕生。共7張專輯獲得兩週冠軍，無獲得三週或以上冠軍的專輯。
 
@@ -439,5 +439,4 @@
 
   - [2009年每週公信榜統計數據](https://web.archive.org/web/20101221032544/http://musictvprogram.com/oricon2009.html)
 
-[Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink")
+[Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink") [Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink")

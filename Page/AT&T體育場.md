@@ -1,5 +1,4 @@
-**AT\&T體育場**（AT\&T Stadium），舊名為**牛仔體育場**（Cowboys
-Stadium）。位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德克薩斯州](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[阿靈頓](https://zh.wikipedia.org/wiki/阿靈頓_\(德克薩斯州\) "wikilink")，是一座有100,000個座位的多功能[體育場](https://zh.wikipedia.org/wiki/體育場 "wikilink")。
+**AT\&T體育場**（AT\&T Stadium），舊名為**牛仔體育場**（Cowboys Stadium）。位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德克薩斯州](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[阿靈頓](https://zh.wikipedia.org/wiki/阿靈頓_\(德克薩斯州\) "wikilink")，是一座有100,000個座位的多功能[體育場](https://zh.wikipedia.org/wiki/體育場 "wikilink")。
 
 ## 重要節目
 
@@ -21,9 +20,6 @@ AT\&T體育場現已成為達拉斯地區舉辦重大活動的主要場館之一
 
 ## 參考資料
 
-[Category:德克薩斯州體育](https://zh.wikipedia.org/wiki/Category:德克薩斯州體育 "wikilink")
-[Category:美國室內體育館](https://zh.wikipedia.org/wiki/Category:美國室內體育館 "wikilink")
-[Category:2009年完工體育場館](https://zh.wikipedia.org/wiki/Category:2009年完工體育場館 "wikilink")
-[Category:達拉斯建築物](https://zh.wikipedia.org/wiki/Category:達拉斯建築物 "wikilink")
+[Category:德克薩斯州體育](https://zh.wikipedia.org/wiki/Category:德克薩斯州體育 "wikilink") [Category:美國室內體育館](https://zh.wikipedia.org/wiki/Category:美國室內體育館 "wikilink") [Category:2009年完工體育場館](https://zh.wikipedia.org/wiki/Category:2009年完工體育場館 "wikilink") [Category:達拉斯建築物](https://zh.wikipedia.org/wiki/Category:達拉斯建築物 "wikilink")
 
 1.

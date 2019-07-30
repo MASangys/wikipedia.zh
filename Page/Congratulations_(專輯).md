@@ -1,31 +1,18 @@
-***Congratulations***（中譯：可喜可賀）是美國樂團[MGMT的第二張專輯](https://zh.wikipedia.org/wiki/MGMT "wikilink")，\[1\]
-2010年4月13日於北美發行。\[2\]
+***Congratulations***（中譯：可喜可賀）是美國樂團[MGMT的第二張專輯](https://zh.wikipedia.org/wiki/MGMT "wikilink")，\[1\] 2010年4月13日於北美發行。\[2\]
 
 ## 創作歷程
 
-MGMT早於2009年初便開始為這張專輯作曲。兩人最終前往[馬利布和前](https://zh.wikipedia.org/wiki/马利布_\(加利福尼亚州\) "wikilink")[Spacemen
-3團員](https://zh.wikipedia.org/wiki/Spacemen_3 "wikilink")[Pete
-Kember一同進行錄音工作](https://zh.wikipedia.org/wiki/Pete_Kember "wikilink")，此外合作對象還有[Royal
-Trux](https://zh.wikipedia.org/wiki/Royal_Trux "wikilink") 及歌手[Jennifer
-Herrema](https://zh.wikipedia.org/wiki/Jennifer_Herrema "wikilink")。\[3\]
-VanWyngarden提到:「這是我們試圖回應上一張專輯發行後所產生的衝擊效應，有些事並非想像中簡單。」首張專輯*[Oracular
-Spectacular](https://zh.wikipedia.org/wiki/Oracular_Spectacular "wikilink")*發行後該團知名度大幅提高，連帶影響了這張專輯的產生。\[4\]
+MGMT早於2009年初便開始為這張專輯作曲。兩人最終前往[馬利布和前](https://zh.wikipedia.org/wiki/马利布_\(加利福尼亚州\) "wikilink")[Spacemen 3團員](https://zh.wikipedia.org/wiki/Spacemen_3 "wikilink")[Pete Kember一同進行錄音工作](https://zh.wikipedia.org/wiki/Pete_Kember "wikilink")，此外合作對象還有[Royal Trux](https://zh.wikipedia.org/wiki/Royal_Trux "wikilink") 及歌手[Jennifer Herrema](https://zh.wikipedia.org/wiki/Jennifer_Herrema "wikilink")。\[3\] VanWyngarden提到:「這是我們試圖回應上一張專輯發行後所產生的衝擊效應，有些事並非想像中簡單。」首張專輯*[Oracular Spectacular](https://zh.wikipedia.org/wiki/Oracular_Spectacular "wikilink")*發行後該團知名度大幅提高，連帶影響了這張專輯的產生。\[4\]
 
 據傳[保羅·麥卡尼曾有意與該團一同合作](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")，並希望「\[與他們\]一起寫一些舞曲風格的音樂。」\[5\]
 
-2010年1月12日，主唱Andrew Van Wyngarden在與*[Spin
-Magazine](https://zh.wikipedia.org/wiki/Spin_Magazine "wikilink")*專訪中提到專輯已經完成，並說「
-專輯已經混過音了，目前正等著上架前最後的流程。」\[6\]
+2010年1月12日，主唱Andrew Van Wyngarden在與*[Spin Magazine](https://zh.wikipedia.org/wiki/Spin_Magazine "wikilink")*專訪中提到專輯已經完成，並說「 專輯已經混過音了，目前正等著上架前最後的流程。」\[6\]
 
-同年1月18日，MGMT提到他們並不希望針對此專輯格外發行任何單曲。\[7\]
-在與《[新音樂快遞](https://zh.wikipedia.org/wiki/新音樂快遞 "wikilink")》的專訪中，兩人提到了這張專輯的概念，他們認為這張專輯是一個一體性的產物而非一張主打單曲的集大成。Goldwasser說:「我們希望歌迷能親自聽完整張專輯後找到他們喜歡的歌曲，而非一味地盲從於收音機連環播放的主打歌－前提是如果有任何電臺願意播的話！」他又解釋道:「在這張專輯裡，不會有像'[Time
-to
-Pretend](https://zh.wikipedia.org/wiki/Time_to_Pretend "wikilink")'或'[Kids](https://zh.wikipedia.org/wiki/Kids_\(MGMT_song\) "wikilink")'那樣的主打歌存在。我們討論了很久，希望歌迷能依序聽完整張專輯，而非僅僅上網下載專輯裡前3名熱門主打歌，其餘的一律充耳不聞。」\[8\]
+同年1月18日，MGMT提到他們並不希望針對此專輯格外發行任何單曲。\[7\] 在與《[新音樂快遞](https://zh.wikipedia.org/wiki/新音樂快遞 "wikilink")》的專訪中，兩人提到了這張專輯的概念，他們認為這張專輯是一個一體性的產物而非一張主打單曲的集大成。Goldwasser說:「我們希望歌迷能親自聽完整張專輯後找到他們喜歡的歌曲，而非一味地盲從於收音機連環播放的主打歌－前提是如果有任何電臺願意播的話！」他又解釋道:「在這張專輯裡，不會有像'[Time to Pretend](https://zh.wikipedia.org/wiki/Time_to_Pretend "wikilink")'或'[Kids](https://zh.wikipedia.org/wiki/Kids_\(MGMT_song\) "wikilink")'那樣的主打歌存在。我們討論了很久，希望歌迷能依序聽完整張專輯，而非僅僅上網下載專輯裡前3名熱門主打歌，其餘的一律充耳不聞。」\[8\]
 
 2010年2月5日，該團的官方網站上出現了一個倒數計時的時鐘程式，最終於2010年4月13日倒數停止，預示了該專輯上市的時間表。\[9\]
 
-2010年3月9日，MGMT提供了專輯收錄歌曲"[Flash
-Delirium](https://zh.wikipedia.org/wiki/Flash_Delirium "wikilink")"作為免費下載。\[10\]
+2010年3月9日，MGMT提供了專輯收錄歌曲"[Flash Delirium](https://zh.wikipedia.org/wiki/Flash_Delirium "wikilink")"作為免費下載。\[10\]
 
 2010年3月20日，MGMT在官方網站上提供了專輯全數曲目作為串流試聽用，並加註:「我們其實希望能讓大家免費下載整張專輯，但\[除了我們自己\]沒有人贊同這個點子。」\[11\]
 
@@ -83,15 +70,11 @@ Delirium](https://zh.wikipedia.org/wiki/Flash_Delirium "wikilink")"作為免費�
 ## 外部連結
 
   - [Official website](http://www.whoismgmt.com/)
-  - [Congratulations Album
-    Blog](https://web.archive.org/web/20100201080720/http://mgmt-congratulations.com/)
+  - [Congratulations Album Blog](https://web.archive.org/web/20100201080720/http://mgmt-congratulations.com/)
   - <http://www.mtv.com/news/articles/1631334/20100204/mgmt.jhtml>
-  - [MGMT,
-    "Congratulations"](http://www.billboard.com/#/new-releases/mgmt-congratulations-1004086115.story)
-    by [Billboard](../Page/告示牌_\(雜誌\).md "wikilink")
+  - [MGMT, "Congratulations"](http://www.billboard.com/#/new-releases/mgmt-congratulations-1004086115.story) by [Billboard](../Page/告示牌_\(雜誌\).md "wikilink")
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
 
 1.
 

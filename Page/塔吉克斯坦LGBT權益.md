@@ -2,7 +2,7 @@
 
 ## 同性性行為相關法律歷程
 
-同性性行為自1998年起在塔吉克非刑事化，包括[男同性戀與](../Page/男同性戀.md "wikilink")[女同性戀在內](../Page/女同性戀.md "wikilink")\[1\]。而同性性行為的[同意年齡則是](https://zh.wikipedia.org/wiki/同意年齡 "wikilink")17歲，與異性戀相同。
+同性性行為自1998年起在塔吉克非刑事化，包括[男同性戀](../Page/男同性戀.md "wikilink")與[女同性戀](../Page/女同性戀.md "wikilink")在內\[1\]。而同性性行為的[同意年齡則是](https://zh.wikipedia.org/wiki/同意年齡 "wikilink")17歲，與異性戀相同。
 
 ## 同性伴侶關係
 
@@ -14,8 +14,6 @@
 
 ## 參考文獻
 
-[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
-[Category:塔吉克斯坦人权](https://zh.wikipedia.org/wiki/Category:塔吉克斯坦人权 "wikilink")
-[Category:塔吉克斯坦LGBT](https://zh.wikipedia.org/wiki/Category:塔吉克斯坦LGBT "wikilink")
+[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink") [Category:塔吉克斯坦人权](https://zh.wikipedia.org/wiki/Category:塔吉克斯坦人权 "wikilink") [Category:塔吉克斯坦LGBT](https://zh.wikipedia.org/wiki/Category:塔吉克斯坦LGBT "wikilink")
 
 1.

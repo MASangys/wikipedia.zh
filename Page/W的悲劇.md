@@ -2,19 +2,19 @@
 
 ## 簡介
 
-「W的悲劇」之名的構想是來源於[艾勒里·昆恩推理小說系列的](../Page/艾勒里·昆恩.md "wikilink")《X的悲劇》、《Y的悲劇》、《Z的悲劇》三部曲，「W」即為第四個未知數。同時「W」也指故事發生的舞臺「和辻家」（**W**atsuji），又指[女性](../Page/女性.md "wikilink")（**W**omen）。
+「W的悲劇」之名的構想是來源於[艾勒里·昆恩](../Page/艾勒里·昆恩.md "wikilink")推理小說系列的《X的悲劇》、《Y的悲劇》、《Z的悲劇》三部曲，「W」即為第四個未知數。同時「W」也指故事發生的舞臺「和辻家」（**W**atsuji），又指[女性](../Page/女性.md "wikilink")（**W**omen）。
 
-1984年曾拍攝同名[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[W的悲劇](../Page/W的悲劇_\(電影\).md "wikilink")》，由[藥師丸博子主演](../Page/藥師丸博子.md "wikilink")，但電影並非直接改編自小說，而是以藝能界女性的命運為主題，小說《W的悲劇》作為劇中劇，是電影中的表演劇目。
+1984年曾拍攝同名[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[W的悲劇](../Page/W的悲劇_\(電影\).md "wikilink")》，由[藥師丸博子](../Page/藥師丸博子.md "wikilink")主演，但電影並非直接改編自小說，而是以藝能界女性的命運為主題，小說《W的悲劇》作為劇中劇，是電影中的表演劇目。
 
-2001年和2010年分別被[東京電視台和](../Page/東京電視台.md "wikilink")[TBS電視台改編為特別電視劇](../Page/TBS電視台.md "wikilink")；2012年首次由[朝日電視台改編為](../Page/朝日電視台.md "wikilink")[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")。
+2001年和2010年分別被[東京電視台](../Page/東京電視台.md "wikilink")和[TBS電視台](../Page/TBS電視台.md "wikilink")改編為特別電視劇；2012年首次由[朝日電視台](../Page/朝日電視台.md "wikilink")改編為[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")。
 
 ## 情節
 
-日本的[藥品業大亨和辻與兵衛被發現死於家中](../Page/藥品.md "wikilink")。爲了維護家族聲譽，家族成員們一同偽造了現場。前來調查此案的中里右京[警部很快發現案件漏洞百出](../Page/警部.md "wikilink")，他將與兵衛的外侄孫女和辻摩子逮捕，摩子也承认自己是兇手。但是線索似乎來得太過容易，像有人在指引著警方辦案。通過更深入的調查，真相一層層地揭開。
+日本的[藥品](../Page/藥品.md "wikilink")業大亨和辻與兵衛被發現死於家中。爲了維護家族聲譽，家族成員們一同偽造了現場。前來調查此案的中里右京[警部](../Page/警部.md "wikilink")很快發現案件漏洞百出，他將與兵衛的外侄孫女和辻摩子逮捕，摩子也承认自己是兇手。但是線索似乎來得太過容易，像有人在指引著警方辦案。通過更深入的調查，真相一層層地揭開。
 
 ## 1983年電視劇
 
-[TBS系列於](../Page/TBS.md "wikilink")1983年2月23日（前編）、1983年3月2日（後編）播出。
+[TBS](../Page/TBS.md "wikilink")系列於1983年2月23日（前編）、1983年3月2日（後編）播出。
 
 ### 演員
 
@@ -35,8 +35,7 @@
 
 ## 1986年電視劇
 
-[富士電視台系列於](../Page/富士電視台.md "wikilink")1986年6月20日播出週五女之電視劇『W的悲劇
-京都資産家殺人事件』。
+[富士電視台](../Page/富士電視台.md "wikilink")系列於1986年6月20日播出週五女之電視劇『W的悲劇 京都資産家殺人事件』。
 
 ### 演員
 
@@ -58,7 +57,7 @@
 
 ## 2001年電視劇
 
-[東京電視台系列於](../Page/東京電視台.md "wikilink")2001年5月23日播放的兩小時特別劇，在「[女人與愛與秘聞](https://zh.wikipedia.org/wiki/女人與愛與秘聞 "wikilink")」檔播出。\[1\]
+[東京電視台](../Page/東京電視台.md "wikilink")系列於2001年5月23日播放的兩小時特別劇，在「[女人與愛與秘聞](https://zh.wikipedia.org/wiki/女人與愛與秘聞 "wikilink")」檔播出。\[1\]
 
 ### 演員
 
@@ -82,8 +81,7 @@
 
 ## 2010年電視劇
 
-[TBS系列於](../Page/TBS電視台.md "wikilink")2010年1月11日播放的「TBS特別電視劇
-夏樹静子作家40周年紀念懸疑劇特別企劃」中的單集電視劇。由[岡田惠和擔任編劇](../Page/岡田惠和.md "wikilink")，[菅野美穗主演](../Page/菅野美穗.md "wikilink")。[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")13.3%。
+[TBS系列於](../Page/TBS電視台.md "wikilink")2010年1月11日播放的「TBS特別電視劇 夏樹静子作家40周年紀念懸疑劇特別企劃」中的單集電視劇。由[岡田惠和](../Page/岡田惠和.md "wikilink")擔任編劇，[菅野美穗](../Page/菅野美穗.md "wikilink")主演。[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")13.3%。
 
 ### 演員
 
@@ -97,8 +95,7 @@
   - 春生的上司：[温水洋一](https://zh.wikipedia.org/wiki/温水洋一 "wikilink")
   - 和辻繁：[江守徹](../Page/江守徹.md "wikilink")
   - 和辻與兵衛：[津川雅彥](../Page/津川雅彥.md "wikilink")
-  - 和辻峰：[池內淳子](https://zh.wikipedia.org/wiki/池內淳子 "wikilink")
-    （遺作，已於2010年逝世，享年76歲）
+  - 和辻峰：[池內淳子](https://zh.wikipedia.org/wiki/池內淳子 "wikilink") （遺作，已於2010年逝世，享年76歲）
   - 相浦克平：[武田鐵矢](../Page/武田鐵矢.md "wikilink")
   - 和辻淑枝：[真矢美季](../Page/真矢美季.md "wikilink")
 
@@ -113,12 +110,11 @@
 
 ## 2012年電視劇
 
-《**W的悲劇**》（），[朝日電視台於](../Page/朝日電視台.md "wikilink")2012年4月26日開始播映的[週四晚間九點檔](https://zh.wikipedia.org/wiki/週四 "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，由[武井咲](../Page/武井咲.md "wikilink")\[2\]主演。武井在劇中一人飾演兩角。
+《**W的悲劇**》（），[朝日電視台](../Page/朝日電視台.md "wikilink")於2012年4月26日開始播映的[週四晚間九點檔](https://zh.wikipedia.org/wiki/週四 "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，由[武井咲](../Page/武井咲.md "wikilink")\[2\]主演。武井在劇中一人飾演兩角。
 
 ### 故事大綱
 
-和辻摩子（[武井咲](../Page/武井咲.md "wikilink")
-飾）和倉澤五月（武井咲分飾）雖然擁有一樣的容貌、一樣的紋身，然而命運卻截然不同。和辻摩子是豪門和辻家的千金小姐，受長輩寵愛，衣食無憂，自小過著奢華的生活；而倉澤五月則從小被親生父母遺棄，連名字也沒有，又被養父母虐待以致左手近乎殘障，離家出走後過著顛沛流離的生活，時常三餐不繼，經常要靠出賣肉體過活。當這樣的兩個人相遇時，注定是一場悲劇的開始。一個高貴若仙，另一個卻卑賤如泥，際遇本來差天共地，毫無交集的二人，一旦相遇並互換身份後，卻竟然開啟了奇遇的大門，從此緊密相連在相同的命途上，再也分不開……
+和辻摩子（[武井咲](../Page/武井咲.md "wikilink") 飾）和倉澤五月（武井咲分飾）雖然擁有一樣的容貌、一樣的紋身，然而命運卻截然不同。和辻摩子是豪門和辻家的千金小姐，受長輩寵愛，衣食無憂，自小過著奢華的生活；而倉澤五月則從小被親生父母遺棄，連名字也沒有，又被養父母虐待以致左手近乎殘障，離家出走後過著顛沛流離的生活，時常三餐不繼，經常要靠出賣肉體過活。當這樣的兩個人相遇時，注定是一場悲劇的開始。一個高貴若仙，另一個卻卑賤如泥，際遇本來差天共地，毫無交集的二人，一旦相遇並互換身份後，卻竟然開啟了奇遇的大門，從此緊密相連在相同的命途上，再也分不開……
 
 ### 演員陣容
 
@@ -423,34 +419,7 @@
   - [朝日版官方網頁](http://www.tv-asahi.co.jp/w-higeki/)
   - [緯來日本版官方網頁](http://japan.videoland.com.tw/channel/20130202/default.asp)
 
-[Category:日本推理小說](https://zh.wikipedia.org/wiki/Category:日本推理小說 "wikilink")
-[Category:日本犯罪小說](https://zh.wikipedia.org/wiki/Category:日本犯罪小說 "wikilink")
-[Category:1982年長篇小說](https://zh.wikipedia.org/wiki/Category:1982年長篇小說 "wikilink")
-[Category:交換身分題材小說](https://zh.wikipedia.org/wiki/Category:交換身分題材小說 "wikilink")
-[Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink")
-[Category:1983年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:1983年開播的日本電視劇集 "wikilink")
-[Category:1983年電視特別劇集](https://zh.wikipedia.org/wiki/Category:1983年電視特別劇集 "wikilink")
-[Category:1986年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:1986年開播的日本電視劇集 "wikilink")
-[Category:1986年電視特別劇集](https://zh.wikipedia.org/wiki/Category:1986年電視特別劇集 "wikilink")
-[Category:2001年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2001年開播的日本電視劇集 "wikilink")
-[Category:2001年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2001年電視特別劇集 "wikilink")
-[Category:2010年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年開播的日本電視劇集 "wikilink")
-[Category:2010年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2010年電視特別劇集 "wikilink")
-[Category:2012年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年開播的日本電視劇集 "wikilink")
-[Category:2010年代日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年代日本電視劇集 "wikilink")
-[Category:TBS特別劇集](https://zh.wikipedia.org/wiki/Category:TBS特別劇集 "wikilink")
-[Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink")
-[Category:東京電視台特別劇集](https://zh.wikipedia.org/wiki/Category:東京電視台特別劇集 "wikilink")
-[Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:MMJ電視劇](https://zh.wikipedia.org/wiki/Category:MMJ電視劇 "wikilink")
-[Category:交換身分題材電視劇](https://zh.wikipedia.org/wiki/Category:交換身分題材電視劇 "wikilink")
-[Category:日本推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電視劇 "wikilink")
-[Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink")
-[Category:孤兒題材電視劇](https://zh.wikipedia.org/wiki/Category:孤兒題材電視劇 "wikilink")
-[Category:岡田惠和劇本作品](https://zh.wikipedia.org/wiki/Category:岡田惠和劇本作品 "wikilink")
-[Category:貧窮題材電視劇](https://zh.wikipedia.org/wiki/Category:貧窮題材電視劇 "wikilink")
+[Category:日本推理小說](https://zh.wikipedia.org/wiki/Category:日本推理小說 "wikilink") [Category:日本犯罪小說](https://zh.wikipedia.org/wiki/Category:日本犯罪小說 "wikilink") [Category:1982年長篇小說](https://zh.wikipedia.org/wiki/Category:1982年長篇小說 "wikilink") [Category:交換身分題材小說](https://zh.wikipedia.org/wiki/Category:交換身分題材小說 "wikilink") [Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink") [Category:1983年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:1983年開播的日本電視劇集 "wikilink") [Category:1983年電視特別劇集](https://zh.wikipedia.org/wiki/Category:1983年電視特別劇集 "wikilink") [Category:1986年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:1986年開播的日本電視劇集 "wikilink") [Category:1986年電視特別劇集](https://zh.wikipedia.org/wiki/Category:1986年電視特別劇集 "wikilink") [Category:2001年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2001年開播的日本電視劇集 "wikilink") [Category:2001年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2001年電視特別劇集 "wikilink") [Category:2010年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年開播的日本電視劇集 "wikilink") [Category:2010年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2010年電視特別劇集 "wikilink") [Category:2012年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年開播的日本電視劇集 "wikilink") [Category:2010年代日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年代日本電視劇集 "wikilink") [Category:TBS特別劇集](https://zh.wikipedia.org/wiki/Category:TBS特別劇集 "wikilink") [Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink") [Category:東京電視台特別劇集](https://zh.wikipedia.org/wiki/Category:東京電視台特別劇集 "wikilink") [Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:MMJ電視劇](https://zh.wikipedia.org/wiki/Category:MMJ電視劇 "wikilink") [Category:交換身分題材電視劇](https://zh.wikipedia.org/wiki/Category:交換身分題材電視劇 "wikilink") [Category:日本推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電視劇 "wikilink") [Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink") [Category:孤兒題材電視劇](https://zh.wikipedia.org/wiki/Category:孤兒題材電視劇 "wikilink") [Category:岡田惠和劇本作品](https://zh.wikipedia.org/wiki/Category:岡田惠和劇本作品 "wikilink") [Category:貧窮題材電視劇](https://zh.wikipedia.org/wiki/Category:貧窮題材電視劇 "wikilink") [Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink") [Category:NHK_BS_Premium電視劇](https://zh.wikipedia.org/wiki/Category:NHK_BS_Premium電視劇 "wikilink")
 
 1.  [テレビドラマデータベース](http://www.tvdrama-db.com/drama_info/p/id-35091)
-2.  [Wの悲劇
-    ：武井咲ゴールデン初主演の初回視聴率は10．9％](http://mantan-web.jp/2012/04/27/20120427dog00m200002000c.html)
+2.  [Wの悲劇 ：武井咲ゴールデン初主演の初回視聴率は10．9％](http://mantan-web.jp/2012/04/27/20120427dog00m200002000c.html)

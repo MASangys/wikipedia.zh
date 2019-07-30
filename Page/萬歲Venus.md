@@ -1,5 +1,4 @@
-《**萬歲Venus**》（）是[SKE48的第](../Page/SKE48.md "wikilink")5张[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年3月9日由[CROWN
-GOLD發售](https://zh.wikipedia.org/wiki/CROWN_GOLD "wikilink")。
+《**萬歲Venus**》（）是[SKE48](../Page/SKE48.md "wikilink")的第5张[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年3月9日由[CROWN GOLD發售](https://zh.wikipedia.org/wiki/CROWN_GOLD "wikilink")。
 
 ## 概要
 
@@ -7,8 +6,7 @@ GOLD發售](https://zh.wikipedia.org/wiki/CROWN_GOLD "wikilink")。
   - 「萬歲Venus」的[MV在](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[大須仁王門通商店街和](https://zh.wikipedia.org/wiki/大須 "wikilink")[瀬戶市銀座商店街](https://zh.wikipedia.org/wiki/瀬戶市 "wikilink")，招募約1,000個人的臨時演員拍攝。
   - 「畢業式忘記的東西」的MV在[千葉市](../Page/千葉市.md "wikilink")[中央区的](https://zh.wikipedia.org/wiki/中央区_\(千葉市\) "wikilink")[千葉明徳学園拍攝](https://zh.wikipedia.org/wiki/千葉明徳中学校・高等学校 "wikilink")。
   - C/W曲的「愛之數量」是以Team KII名義為是第一次的原作樂曲。
-  - 首次獲得[Oricon公信榜週冠的SKE](../Page/Oricon公信榜.md "wikilink")48單曲、ORICON
-    2011上半年單曲榜第5位。
+  - 首次獲得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週冠的SKE48單曲、ORICON 2011上半年單曲榜第5位。
 
 ### 選抜成員
 
@@ -16,18 +14,14 @@ GOLD發售](https://zh.wikipedia.org/wiki/CROWN_GOLD "wikilink")。
 
 <!-- end list -->
 
-  - 除了前作受傷脫離Team
-    S的[松下唯全體成員都有參加CD作品](../Page/松下唯.md "wikilink")，今作是除了松下之外，Team
-    E的8人（磯原杏華、小林亞實、酒井萌衣、柴田阿彌、高木由麻奈、竹内舞、都築里佳、間野春香）和研究生都不参加。
+  - 除了前作受傷脫離Team S的[松下唯](../Page/松下唯.md "wikilink")全體成員都有參加CD作品，今作是除了松下之外，Team E的8人（磯原杏華、小林亞實、酒井萌衣、柴田阿彌、高木由麻奈、竹内舞、都築里佳、間野春香）和研究生都不参加。
 
 #### 萬歲Venus
 
 （中心：松井珠理奈、松井玲奈）
 
-  - Team
-    S：[大矢真那](../Page/大矢真那.md "wikilink")、[木崎ゆりあ](https://zh.wikipedia.org/wiki/木崎ゆりあ "wikilink")、[桑原みずき](https://zh.wikipedia.org/wiki/桑原みずき "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[高田志織](../Page/高田志織.md "wikilink")、[平田璃香子](../Page/平田璃香子.md "wikilink")、[平松可奈子](../Page/平松可奈子.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")、[矢神久美](../Page/矢神久美.md "wikilink")
-  - Team
-    KII：[石田安奈](../Page/石田安奈.md "wikilink")、[小木曾汐莉](../Page/小木曾汐莉.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")、[向田茉夏](../Page/向田茉夏.md "wikilink")
+  - Team S：[大矢真那](../Page/大矢真那.md "wikilink")、[木崎ゆりあ](https://zh.wikipedia.org/wiki/木崎ゆりあ "wikilink")、[桑原みずき](https://zh.wikipedia.org/wiki/桑原みずき "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[高田志織](../Page/高田志織.md "wikilink")、[平田璃香子](../Page/平田璃香子.md "wikilink")、[平松可奈子](../Page/平松可奈子.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")、[矢神久美](../Page/矢神久美.md "wikilink")
+  - Team KII：[石田安奈](../Page/石田安奈.md "wikilink")、[小木曾汐莉](../Page/小木曾汐莉.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")、[向田茉夏](../Page/向田茉夏.md "wikilink")
   - Team E：[木本花音](../Page/木本花音.md "wikilink")
 
 <!-- end list -->
@@ -41,8 +35,7 @@ GOLD發售](https://zh.wikipedia.org/wiki/CROWN_GOLD "wikilink")。
 
 （中心：高柳明音）
 
-  - Team
-    KII：赤枝里里奈、[阿比留李帆](../Page/阿比留李帆.md "wikilink")、石田安奈、小木曽汐莉、[加藤智子](https://zh.wikipedia.org/wiki/加藤智子 "wikilink")、後藤理沙子、[佐藤聖羅](https://zh.wikipedia.org/wiki/佐藤聖羅 "wikilink")、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、高柳明音、[秦佐和子](../Page/秦佐和子.md "wikilink")、古川愛李、[松本梨奈](../Page/松本梨奈.md "wikilink")、向田茉夏、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")、[山田澪花](https://zh.wikipedia.org/wiki/山田澪花 "wikilink")、[若林倫香](../Page/若林倫香.md "wikilink")
+  - Team KII：赤枝里里奈、[阿比留李帆](../Page/阿比留李帆.md "wikilink")、石田安奈、小木曽汐莉、[加藤智子](https://zh.wikipedia.org/wiki/加藤智子 "wikilink")、後藤理沙子、[佐藤聖羅](https://zh.wikipedia.org/wiki/佐藤聖羅 "wikilink")、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、高柳明音、[秦佐和子](../Page/秦佐和子.md "wikilink")、古川愛李、[松本梨奈](../Page/松本梨奈.md "wikilink")、向田茉夏、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")、[山田澪花](https://zh.wikipedia.org/wiki/山田澪花 "wikilink")、[若林倫香](../Page/若林倫香.md "wikilink")
 
 #### 畢業式忘記的東西
 
@@ -60,11 +53,9 @@ GOLD發售](https://zh.wikipedia.org/wiki/CROWN_GOLD "wikilink")。
 
 （中心：松井玲奈）
 
-  - Team
-    S：[加藤るみ](https://zh.wikipedia.org/wiki/加藤るみ "wikilink")、木下有希子、[出口陽](../Page/出口陽.md "wikilink")、松井玲奈
+  - Team S：[加藤るみ](https://zh.wikipedia.org/wiki/加藤るみ "wikilink")、木下有希子、[出口陽](../Page/出口陽.md "wikilink")、松井玲奈
   - Team KII：佐藤聖羅、秦佐和子、矢方美紀
-  - Team
-    E：[上野圭澄](../Page/上野圭澄.md "wikilink")、[梅本圓](../Page/梅本圓.md "wikilink")、[金子栞](../Page/金子栞.md "wikilink")、原望奈美、山下ゆかり
+  - Team E：[上野圭澄](../Page/上野圭澄.md "wikilink")、[梅本圓](../Page/梅本圓.md "wikilink")、[金子栞](../Page/金子栞.md "wikilink")、原望奈美、山下ゆかり
 
 ## 收錄曲
 
@@ -82,7 +73,7 @@ GOLD發售](https://zh.wikipedia.org/wiki/CROWN_GOLD "wikilink")。
         [ピザハット](https://zh.wikipedia.org/wiki/ピザハット "wikilink")『帽子超值系列』CM曲
         [鈴鹿賽道CM曲](https://zh.wikipedia.org/wiki/鈴鹿賽道 "wikilink")\[3\]
         [必勝客在](https://zh.wikipedia.org/wiki/必勝客 "wikilink")2011年2月16日開始、2月23日開始先行配信
-        [神奈川電視台](../Page/神奈川電視台.md "wikilink")、[名古屋電視台制作綜藝節目](../Page/名古屋電視台.md "wikilink")『[去吧♡戀48](../Page/去吧戀48.md "wikilink")』初代主題歌
+        [神奈川電視台](../Page/神奈川電視台.md "wikilink")、[名古屋電視台](../Page/名古屋電視台.md "wikilink")制作綜藝節目『[去吧♡戀48](../Page/去吧戀48.md "wikilink")』初代主題歌
 2.  **愛之數量** \[3:34\]
       -
         作曲：[重永亮介](https://zh.wikipedia.org/wiki/重永亮介 "wikilink")、編曲：野中"まさ"雄一、歌：チームKII
@@ -168,16 +159,10 @@ GOLD發售](https://zh.wikipedia.org/wiki/CROWN_GOLD "wikilink")。
 
 ## 外部連結
 
-  - [SKE48｜CROWN GOLD
-    娛樂唱片](http://www.crownrecord.co.jp/artist/ske48/whats.html)
+  - [SKE48｜CROWN GOLD 娛樂唱片](http://www.crownrecord.co.jp/artist/ske48/whats.html)
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:SKE48歌曲](https://zh.wikipedia.org/wiki/Category:SKE48歌曲 "wikilink")
-[Category:食品廣告歌曲](https://zh.wikipedia.org/wiki/Category:食品廣告歌曲 "wikilink")
-[Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:Nippon_Crown歌曲](https://zh.wikipedia.org/wiki/Category:Nippon_Crown歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:SKE48歌曲](https://zh.wikipedia.org/wiki/Category:SKE48歌曲 "wikilink") [Category:食品廣告歌曲](https://zh.wikipedia.org/wiki/Category:食品廣告歌曲 "wikilink") [Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink") [Category:Nippon_Crown歌曲](https://zh.wikipedia.org/wiki/Category:Nippon_Crown歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
 
-1.  [2011年日本東北地方太平洋近海地震により](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")、一部份的會場取消舉行的活動。
+1.  [2011年日本東北地方太平洋近海地震](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")により、一部份的會場取消舉行的活動。
 2.
 3.

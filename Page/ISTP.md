@@ -1,5 +1,4 @@
-[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**ISTP**(内倾/感觉/思考/理解)是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")**[巧匠](https://zh.wikipedia.org/wiki/巧匠_\(角色变异\) "wikilink")**，属于[工匠的四种类型之一](https://zh.wikipedia.org/wiki/工匠_\(气质类型\) "wikilink")。\[1\]
+[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg") **ISTP**(内倾/感觉/思考/理解)是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")**[巧匠](https://zh.wikipedia.org/wiki/巧匠_\(角色变异\) "wikilink")**，属于[工匠的四种类型之一](https://zh.wikipedia.org/wiki/工匠_\(气质类型\) "wikilink")。\[1\]
 
 ISTP大概占人口总数的4%-10%。\[2\]
 
@@ -12,12 +11,11 @@ ISTP大概占人口总数的4%-10%。\[2\]
 
 ## 特征
 
-[ClintEastwood_Berlinale.jpg](https://zh.wikipedia.org/wiki/File:ClintEastwood_Berlinale.jpg "fig:ClintEastwood_Berlinale.jpg")是个ISTP。\[7\]
-但是，根据MBTI伦理应用的指导方针，只有那些参加了类型评估的人能决定他们最适合于哪一型。 \[8\]\]\]
+[ClintEastwood_Berlinale.jpg](https://zh.wikipedia.org/wiki/File:ClintEastwood_Berlinale.jpg "fig:ClintEastwood_Berlinale.jpg")是个ISTP。\[7\] 但是，根据MBTI伦理应用的指导方针，只有那些参加了类型评估的人能决定他们最适合于哪一型。 \[8\]\]\]
 
 ### 迈尔斯·布里格斯分类法的描述
 
-据迈尔斯·布里格斯分类法，ISTP们擅长于分析情形接近问题的核心，因此他们可以即刻完成功能性的补救，这让他们完美地适合[工程学的领域](../Page/工程学.md "wikilink")。他们是天生安静的人，对理解系统如何运行感兴趣，专注于有效率的操作和结构。他们对新的信息和途径保持开放。但同他们表面上超然的天性不同，ISTP们通常有能力对他们周围的世界作出幽默而充满洞察力的观测。同時私下里他们敢於高速度或高风险的娱乐（比如[蹦极](../Page/蹦极.md "wikilink")、[滑翔](../Page/滑翔.md "wikilink")、[竞速运动](https://zh.wikipedia.org/wiki/竞速运动 "wikilink")、[摩托车运动和](https://zh.wikipedia.org/wiki/摩托车运动 "wikilink")[跳伞](../Page/跳伞.md "wikilink")），运动（如[滑雪](https://zh.wikipedia.org/wiki/滑雪 "wikilink")、[彩弹球](https://zh.wikipedia.org/wiki/彩弹球 "wikilink")、[冰壶以及](https://zh.wikipedia.org/wiki/冰壶 "wikilink")[水肺潜水](https://zh.wikipedia.org/wiki/水肺潜水 "wikilink")）或事业（比如[航空和](../Page/航空.md "wikilink")[消防](https://zh.wikipedia.org/wiki/消防 "wikilink")）。
+据迈尔斯·布里格斯分类法，ISTP们擅长于分析情形接近问题的核心，因此他们可以即刻完成功能性的补救，这让他们完美地适合[工程学](../Page/工程学.md "wikilink")的领域。他们是天生安静的人，对理解系统如何运行感兴趣，专注于有效率的操作和结构。他们对新的信息和途径保持开放。但同他们表面上超然的天性不同，ISTP们通常有能力对他们周围的世界作出幽默而充满洞察力的观测。同時私下里他们敢於高速度或高风险的娱乐（比如[蹦极](../Page/蹦极.md "wikilink")、[滑翔](../Page/滑翔.md "wikilink")、[竞速运动](https://zh.wikipedia.org/wiki/竞速运动 "wikilink")、[摩托车运动和](https://zh.wikipedia.org/wiki/摩托车运动 "wikilink")[跳伞](../Page/跳伞.md "wikilink")），运动（如[滑雪](https://zh.wikipedia.org/wiki/滑雪 "wikilink")、[彩弹球](https://zh.wikipedia.org/wiki/彩弹球 "wikilink")、[冰壶以及](https://zh.wikipedia.org/wiki/冰壶 "wikilink")[水肺潜水](https://zh.wikipedia.org/wiki/水肺潜水 "wikilink")）或事业（比如[航空](../Page/航空.md "wikilink")和[消防](https://zh.wikipedia.org/wiki/消防 "wikilink")）。
 
 ISTP们有时候可能在行动时看起來不顾及过程、方向、礼节甚至他们自己的安全或随性。事实上都是基于在行动和观察中长久以来积累的广泛知识。ISTP们喜欢自给自足，在他们自己对问题解决方式的改进中充满了骄傲。
 
@@ -49,8 +47,7 @@ Fe寻找社会上的联系，并用礼貌、体贴、得体的举止营造和谐
 
 ### 隐藏功能
 
-后来的人格类型研究者（特别是琳达·V·贝伦斯）\[14\]
-在这个降序排列中添加了四个附加功能。这些功能被称为隐藏功能，因为一个人并不自然地倾向于它们，但在压力之下它们也会浮现。对ISTP来说，这些隐藏功能是（按次序）：
+后来的人格类型研究者（特别是琳达·V·贝伦斯）\[14\] 在这个降序排列中添加了四个附加功能。这些功能被称为隐藏功能，因为一个人并不自然地倾向于它们，但在压力之下它们也会浮现。对ISTP来说，这些隐藏功能是（按次序）：
 
 #### 外倾思考（Te）
 
@@ -84,11 +81,9 @@ Fi过滤信息，这种过滤的基础是缘于标准（经常是无形的）形
 
 ## 外部链接
 
-  - [Keirsey: Artisan-Crafter
-    (ISTP)](http://keirsey.com/handler.aspx?s=keirsey&f=fourtemps&tab=4&c=crafter)
+  - [Keirsey: Artisan-Crafter (ISTP)](http://keirsey.com/handler.aspx?s=keirsey&f=fourtemps&tab=4&c=crafter)
   - [TypeLogic ISTP](http://typelogic.com/istp.html)
-  - [Personality Page:
-    Mechanic](http://www.personalitypage.com/ISTP_per.html)
+  - [Personality Page: Mechanic](http://www.personalitypage.com/ISTP_per.html)
 
 [Category:性格分类](https://zh.wikipedia.org/wiki/Category:性格分类 "wikilink")
 

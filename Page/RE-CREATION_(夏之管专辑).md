@@ -6,8 +6,7 @@
 
 「重建援助」、「[東日本大地震](https://zh.wikipedia.org/wiki/東日本大地震 "wikilink")」等....
 
-  - 前單「[A Day In The
-    Summer〜回憶笑容的那樣〜](https://zh.wikipedia.org/wiki/A_Day_In_The_Summer〜回憶笑容的那樣〜 "wikilink")」。
+  - 前單「[A Day In The Summer〜回憶笑容的那樣〜](https://zh.wikipedia.org/wiki/A_Day_In_The_Summer〜回憶笑容的那樣〜 "wikilink")」。
 
 ## 收錄曲目
 
@@ -15,9 +14,7 @@
 
 （全作詞:[前田亘輝](../Page/前田亘輝.md "wikilink")）（全作曲:[春畑道哉](../Page/春畑道哉.md "wikilink")）
 
-1.  **[A Day In The
-    Summer〜回憶笑容的那樣〜](https://zh.wikipedia.org/wiki/A_Day_In_The_Summer〜回憶笑容的那樣〜 "wikilink")**(A
-    Day In The Summer〜想い出は笑顔のまま〜)
+1.  **[A Day In The Summer〜回憶笑容的那樣〜](https://zh.wikipedia.org/wiki/A_Day_In_The_Summer〜回憶笑容的那樣〜 "wikilink")**(A Day In The Summer〜想い出は笑顔のまま〜)
 2.  **戀愛和海濱裙褲和細跟**(恋とパレオとピンヒール)
 3.  **向荒野**(荒野へ)
 4.  **到未來還有5分**(未来まであと5分)
@@ -31,11 +28,9 @@
 
 ### DVD
 
-  - 01.Live Around
-    2011〜RE-CREATION〜atグランキューブ[大阪メイキング映像](https://zh.wikipedia.org/wiki/大阪 "wikilink")
+  - 01.Live Around 2011〜RE-CREATION〜atグランキューブ[大阪メイキング映像](https://zh.wikipedia.org/wiki/大阪 "wikilink")
   - 02.A Day In The Summer 〜想い出は笑顔のまま〜-Live Clip-atグランキューブ大阪
   - 03.Live Around〜RE-CREATION〜 atグランキューブ大阪<MC>
   - 04.Rock On The Way-Live Clip-atグランキューブ大阪
 
-[Category:TUBE音樂專輯](https://zh.wikipedia.org/wiki/Category:TUBE音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
+[Category:TUBE音樂專輯](https://zh.wikipedia.org/wiki/Category:TUBE音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")

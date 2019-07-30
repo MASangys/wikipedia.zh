@@ -18,10 +18,8 @@
 ## 收录专辑
 
   - [PLAYGIRL](https://zh.wikipedia.org/wiki/PLAYGIRL "wikilink")（\#1）
-  - [THE BEST OF DETECTIVE CONAN 3 〜名探偵コナン
-    テーマ曲集3〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_3_〜名探偵コナン_テーマ曲集3〜 "wikilink")（\#1）
-  - [ALL SINGLES BEST 〜THANX 10th
-    ANNIVERSARY〜](https://zh.wikipedia.org/wiki/ALL_SINGLES_BEST_〜THANX_10th_ANNIVERSARY〜 "wikilink")（\#1）
+  - [THE BEST OF DETECTIVE CONAN 3 〜名探偵コナン テーマ曲集3〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_3_〜名探偵コナン_テーマ曲集3〜 "wikilink")（\#1）
+  - [ALL SINGLES BEST 〜THANX 10th ANNIVERSARY〜](https://zh.wikipedia.org/wiki/ALL_SINGLES_BEST_〜THANX_10th_ANNIVERSARY〜 "wikilink")（\#1）
   - [COLORS](https://zh.wikipedia.org/wiki/COLORS "wikilink")（\#2,3）
 
 <table>
@@ -38,7 +36,4 @@
 </tbody>
 </table>
 
-[Category:2004年单曲](https://zh.wikipedia.org/wiki/Category:2004年单曲 "wikilink")
-[Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
-[Category:愛內里菜歌曲](https://zh.wikipedia.org/wiki/Category:愛內里菜歌曲 "wikilink")
+[Category:2004年单曲](https://zh.wikipedia.org/wiki/Category:2004年单曲 "wikilink") [Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink") [Category:愛內里菜歌曲](https://zh.wikipedia.org/wiki/Category:愛內里菜歌曲 "wikilink")

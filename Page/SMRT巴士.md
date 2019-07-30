@@ -1,30 +1,20 @@
-**SMRT巴士**（[八達巴士](https://zh.wikipedia.org/wiki/TIBS集團 "wikilink")）是[新加坡的公共運輸機構之一](../Page/新加坡.md "wikilink")，於1982年5月31日成立，當時稱為八達巴士。2001年，[SMRT集團收購了八達巴士有限公司](https://zh.wikipedia.org/wiki/SMRT集團 "wikilink")。八達巴士於2004年5月10日正式更名為SMRT巴士。
+**SMRT巴士**（[八達巴士](https://zh.wikipedia.org/wiki/TIBS集團 "wikilink")）是[新加坡](../Page/新加坡.md "wikilink")的公共運輸機構之一，於1982年5月31日成立，當時稱為八達巴士。2001年，[SMRT集團收購了八達巴士有限公司](https://zh.wikipedia.org/wiki/SMRT集團 "wikilink")。八達巴士於2004年5月10日正式更名為SMRT巴士。
 
 ## 歷史
 
-Singapore Shuttle Bus Pte Ltd (SSB)在1975年正式成立，主要提供City Shuttle
-Service(CSS)巴士服務，80年代更經營機場巴士服務和成立Trans-Island Bus Service Ltd
-（[八達巴士](https://zh.wikipedia.org/wiki/TIBS集團 "wikilink")
-(TIBS)）。
+Singapore Shuttle Bus Pte Ltd (SSB)在1975年正式成立，主要提供City Shuttle Service(CSS)巴士服務，80年代更經營機場巴士服務和成立Trans-Island Bus Service Ltd （[八達巴士](https://zh.wikipedia.org/wiki/TIBS集團 "wikilink") (TIBS)）。
 
-新加坡政府在1981年對公共巴士服務引入競爭，以制衡當時幾乎壟斷巴士服務的[新加坡巴士](https://zh.wikipedia.org/wiki/新捷運 "wikilink")(新巴，2001年易名為新捷運)。1982年，Singapore
-Shuttle Bus Pte Ltd
-(SSB)轄下的[八達巴士](https://zh.wikipedia.org/wiki/TIBS集團 "wikilink")
-(TIBS)取得巴士服務經營權。當時八達巴士擁有了37輛巴士，經營兩條路線-
-160線（其後改為980線）和167線。後來，八達巴士不斷開辦新的巴士路線例如161、178、181線等，主要在新加坡北部義順和兀蘭新發展區提供服務。
+新加坡政府在1981年對公共巴士服務引入競爭，以制衡當時幾乎壟斷巴士服務的[新加坡巴士](https://zh.wikipedia.org/wiki/新捷運 "wikilink")(新巴，2001年易名為新捷運)。1982年，Singapore Shuttle Bus Pte Ltd (SSB)轄下的[八達巴士](https://zh.wikipedia.org/wiki/TIBS集團 "wikilink") (TIBS)取得巴士服務經營權。當時八達巴士擁有了37輛巴士，經營兩條路線- 160線（其後改為980線）和167線。後來，八達巴士不斷開辦新的巴士路線例如161、178、181線等，主要在新加坡北部義順和兀蘭新發展區提供服務。
 
 1995年，新加坡政府為了增強巴士服務的競爭力，將新巴在東北地區盛港和榜鵝經營的17條巴士路線交由八達巴士營運。
 
 1999年，新巴投得地鐵東北線的經營權，政府為了協調巴士和鐵路資源，將八達巴士在東北地區盛港和榜鵝經營的巴士路線交由新巴營運。同時，新巴需要將西北地區蔡厝港和武吉巴督的巴士路線交由八達巴士營運。
 
-2001年，[SMRT集團收購了八達巴士有限公司](https://zh.wikipedia.org/wiki/SMRT集團 "wikilink")。八達巴士其後在2004年正式更名為SMRT巴士，大部份由Singapore
-Shuttle Bus Pte Ltd (SSB)經營的巴士路線在2005-2007年陸續轉至SMRT巴士。而由Singapore
-Shuttle Bus Pte Ltd (SSB)經營的所有City Shuttle Service(CSS)巴士路線在2007年全部取消。
+2001年，[SMRT集團收購了八達巴士有限公司](https://zh.wikipedia.org/wiki/SMRT集團 "wikilink")。八達巴士其後在2004年正式更名為SMRT巴士，大部份由Singapore Shuttle Bus Pte Ltd (SSB)經營的巴士路線在2005-2007年陸續轉至SMRT巴士。而由Singapore Shuttle Bus Pte Ltd (SSB)經營的所有City Shuttle Service(CSS)巴士路線在2007年全部取消。
 
 2012年11月26日上午，171名在SMRT工作的中國籍巴士司機因不滿加薪幅度遠低於馬來西亞籍司機而罷工，令當日巴士服務只有正常水平的90％。新加坡政府人力部後來視為「非法罷工」，因為新加坡規定巴士服務屬於法定的「必要服務」，司機罷工需遵循一定的法律程序，包括至少提前14天通知僱主，否則便視為非法罷工。最後，其中5名罷工者被控參與及煽動「非法罷工」而被判入獄，另有29名中國籍司機被驅逐出境。\[1\]\[2\]
 
-2012年9月，新加坡陸路交通管理局推行改善巴士服务计划，由政府出資購買巴士及提供車長於專營巴士公司，並與新加坡兩間巴士公司新捷運及SMRT巴士合作開辦新路線，以改善巴士服務。2013年4月23日，新加坡陸路交通管理局將會在裕廊西興建一個新的巴士車廠供SMRT
-巴士使用，以容納更多巴士。由於現有的巴士車廠和停車場已不能容納更多巴士，故需要興建新的巴士車廠，以容納在公交巴士服務提升計劃（BSEP）中不斷增加的巴士數目。\[3\]
+2012年9月，新加坡陸路交通管理局推行改善巴士服务计划，由政府出資購買巴士及提供車長於專營巴士公司，並與新加坡兩間巴士公司新捷運及SMRT巴士合作開辦新路線，以改善巴士服務。2013年4月23日，新加坡陸路交通管理局將會在裕廊西興建一個新的巴士車廠供SMRT 巴士使用，以容納更多巴士。由於現有的巴士車廠和停車場已不能容納更多巴士，故需要興建新的巴士車廠，以容納在公交巴士服務提升計劃（BSEP）中不斷增加的巴士數目。\[3\]
 
 ## 巴士車站
 
@@ -89,7 +79,7 @@ SMRT巴士營運6個[巴士轉換站](https://zh.wikipedia.org/wiki/公車站 "w
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/DAF_SB220" title="wikilink">DAF SB220</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:DAF_SB220LT_SMRT_Buses.jpg" title="fig:DAF_SB220LT_SMRT_Buses.jpg">DAF_SB220LT_SMRT_Buses.jpg</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亞歷山大車身公司" title="wikilink">亞歷山大</a></p></td>
+<td><p><a href="../Page/亞歷山大車身公司.md" title="wikilink">亞歷山大</a></p></td>
 <td><p>1995–1997</p></td>
 <td><p>45</p></td>
 <td><p>TIB675K-TIB724C</p></td>
@@ -135,7 +125,7 @@ TIB572Z-TIB634D</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梅賽德斯-奔馳O405.md" title="wikilink">梅賽德斯-奔馳O405G</a></p></td>
+<td><p><a href="../Page/梅賽德斯-奔馳O405.md" title="wikilink">梅賽德斯-奔馳O405</a>G</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:O405G-Mk1_SMRT_TIB838H.JPG" title="fig:O405G-Mk1_SMRT_TIB838H.JPG">O405G-Mk1_SMRT_TIB838H.JPG</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Hispano_Carrocera" title="wikilink">Hispano Carrocera</a></p></td>
 <td><p>1996</p></td>
@@ -455,7 +445,7 @@ TIB839E-TIB848D</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:ScaniaL113-SMRT.JPG" title="fig:ScaniaL113-SMRT.JPG">ScaniaL113-SMRT.JPG</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亞歷山大車身公司" title="wikilink">亞歷山大</a></p></td>
+<td><p><a href="../Page/亞歷山大車身公司.md" title="wikilink">亞歷山大</a></p></td>
 <td><p>1995–1997</p></td>
 <td><p>TIB562C-TIB571B<br />
 TIB635B-TIB674M</p></td>
@@ -507,25 +497,14 @@ TIB566S因火警退役</p></td>
 
 ## 外部链接
 
-  - [SMRT Bus
-    Guide](https://web.archive.org/web/20080415003235/http://www.smrtbuses.com.sg/ebusguide/busguide.asp)
-  - [Commuter
-    Guide](http://webarchive.loc.gov/all/20120418073212/http://www.publictransport.sg/content/publictransport/en/homepage.html)
-  - [Getting
-    Around](http://www.mytransport.sg/content/mytransport/home/commuting.html)
-  - [Public Transport Journey
-    Planner](https://web.archive.org/web/20120218055821/http://www.transitlink.com.sg/h2g_home.html)
+  - [SMRT Bus Guide](https://web.archive.org/web/20080415003235/http://www.smrtbuses.com.sg/ebusguide/busguide.asp)
+  - [Commuter Guide](http://webarchive.loc.gov/all/20120418073212/http://www.publictransport.sg/content/publictransport/en/homepage.html)
+  - [Getting Around](http://www.mytransport.sg/content/mytransport/home/commuting.html)
+  - [Public Transport Journey Planner](https://web.archive.org/web/20120218055821/http://www.transitlink.com.sg/h2g_home.html)
 
-[Category:新加坡交通](https://zh.wikipedia.org/wiki/Category:新加坡交通 "wikilink")
-[Category:新加坡公司](https://zh.wikipedia.org/wiki/Category:新加坡公司 "wikilink")
-[Category:新加坡地铁](https://zh.wikipedia.org/wiki/Category:新加坡地铁 "wikilink")
-[Category:SMRT集團](https://zh.wikipedia.org/wiki/Category:SMRT集團 "wikilink")
+[Category:新加坡交通](https://zh.wikipedia.org/wiki/Category:新加坡交通 "wikilink") [Category:新加坡公司](https://zh.wikipedia.org/wiki/Category:新加坡公司 "wikilink") [Category:新加坡地铁](https://zh.wikipedia.org/wiki/Category:新加坡地铁 "wikilink") [Category:SMRT集團](https://zh.wikipedia.org/wiki/Category:SMRT集團 "wikilink")
 
 1.
 2.
 3.
-4.  [SMRT Buses introduces 10 new full low floor Mercedes-Benz Citaro
-    buses for passenger service from March 2011, two new environmentally
-    friendly buses on
-    trial](http://www.smrt.com.sg/Upload/201111814535361161.pdf) ,
-    2011年1月18日，SMRT新聞稿.
+4.  [SMRT Buses introduces 10 new full low floor Mercedes-Benz Citaro buses for passenger service from March 2011, two new environmentally friendly buses on trial](http://www.smrt.com.sg/Upload/201111814535361161.pdf) , 2011年1月18日，SMRT新聞稿.

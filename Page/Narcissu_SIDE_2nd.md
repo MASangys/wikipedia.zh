@@ -1,7 +1,4 @@
-《**narcissu SIDE
-2nd**》（）是[日本](../Page/日本.md "wikilink")[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")（Stage
-Nana）製作的一款免費[同人遊戲軟體](../Page/同人遊戲.md "wikilink")，於2006年[夏季Comic
-Market發佈](../Page/Comic_Market.md "wikilink")。這個軟體的簡單Demo版，預定於同年9月公開發佈，可是一再延期，最終於2007年5月16日公開正式版。另外、這個正式版也將narcissu收錄在內。
+《**narcissu SIDE 2nd**》（）是[日本](../Page/日本.md "wikilink")[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")（Stage Nana）製作的一款免費[同人遊戲](../Page/同人遊戲.md "wikilink")軟體，於2006年[夏季Comic Market發佈](../Page/Comic_Market.md "wikilink")。這個軟體的簡單Demo版，預定於同年9月公開發佈，可是一再延期，最終於2007年5月16日公開正式版。另外、這個正式版也將narcissu收錄在內。
 
 ## 主要角色介紹
 
@@ -34,10 +31,7 @@ Market發佈](../Page/Comic_Market.md "wikilink")。這個軟體的簡單Demo版
   - OP動畫製作：
   - 動畫協力：
   - 網上四格漫畫：、
-  - 音樂：ebi(Sound Union)、、石橋弘史、MASA、藤間仁（Elements
-    Garden）、SENTIVE、eufonius、Birth
-    Entertainment、ONOKEN、館內明（TGZ）、souten、Barbarian On
-    The Groove
+  - 音樂：ebi(Sound Union)、、石橋弘史、MASA、藤間仁（Elements Garden）、SENTIVE、eufonius、Birth Entertainment、ONOKEN、館內明（TGZ）、souten、Barbarian On The Groove
   - 聲音收錄：
   - 聲音加工：秋津環、樹原新（The SOTS）
 
@@ -51,21 +45,10 @@ Market發佈](../Page/Comic_Market.md "wikilink")。這個軟體的簡單Demo版
 ## 中文版資訊
 
   - 2007年5月17日KEY FANS CLUB表明了取得中文版的授權並開始SIDE 2nd中文化翻譯工作，至今仍未完成。
-  - narcissu SIDE 2nd中文版於2007年9月27日由完成繁體中文發佈，但只翻譯SIDE
-    2nd的新劇本部份，同綁的無印舊劇本部份並未翻譯。
+  - narcissu SIDE 2nd中文版於2007年9月27日由完成繁體中文發佈，但只翻譯SIDE 2nd的新劇本部份，同綁的無印舊劇本部份並未翻譯。
 
 ## 外部連結
 
   - [SIDE 2nd繁體中文版發佈點](http://yuihorie.myweb.hinet.net/nana2_new_ver1.02.rar)
 
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:同人遊戲](https://zh.wikipedia.org/wiki/Category:同人遊戲 "wikilink")
-[Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink")
-[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
-[Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
+[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:同人遊戲](https://zh.wikipedia.org/wiki/Category:同人遊戲 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink") [Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")

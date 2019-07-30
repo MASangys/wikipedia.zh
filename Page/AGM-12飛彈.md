@@ -1,17 +1,16 @@
-**AGM-12“犢牛犬”**（）飛彈是[美國海軍與](../Page/美國海軍.md "wikilink")[美國空軍同時服役的第一種](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")[空對地飛彈](https://zh.wikipedia.org/wiki/空對地飛彈 "wikilink")，也被[美國外銷到其他盟國使用](https://zh.wikipedia.org/wiki/美國 "wikilink")；後由AGM-62鼓眼魚飛彈與[AGM-65小牛飛彈給取代](../Page/AGM-65小牛飛彈.md "wikilink")。
+**AGM-12“犢牛犬”**（）飛彈是[美國海軍](../Page/美國海軍.md "wikilink")與[美國空軍同時服役的第一種](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")[空對地飛彈](https://zh.wikipedia.org/wiki/空對地飛彈 "wikilink")，也被[美國外銷到其他盟國使用](https://zh.wikipedia.org/wiki/美國 "wikilink")；後由AGM-62鼓眼魚飛彈與[AGM-65小牛飛彈](../Page/AGM-65小牛飛彈.md "wikilink")給取代。
 
 ## 歷史
 
-[美國海軍在](../Page/美國海軍.md "wikilink")1953年開始推動一項導引飛彈計畫，由過去對地攻擊任務的經驗，企圖透過新的系統來解決兩項問題。
+[美國海軍](../Page/美國海軍.md "wikilink")在1953年開始推動一項導引飛彈計畫，由過去對地攻擊任務的經驗，企圖透過新的系統來解決兩項問題。
 
-第一個問題是暴露在目標區周遭的防禦火網下的時間，如果可以在較遠的距離上投擲武器，就可以有效的降低風險。第二的問題是諸如[橋或是](../Page/橋.md "wikilink")[碉堡這一類無導引](https://zh.wikipedia.org/wiki/碉堡 "wikilink")[空用炸彈難以發揮作用的目標類型](https://zh.wikipedia.org/wiki/空用炸彈 "wikilink")。這些問題都是在[韓戰進行密接支援任務時浮現的教訓](https://zh.wikipedia.org/wiki/韓戰 "wikilink")，解決這兩個問題的方案是研發一種有導引的短程空對地飛彈。美國海軍於1953年公開這些設計需求，讓各家廠商參予競標。1954年4月，[馬丁公司的設計案獲勝並且取得研發與生產合約](https://zh.wikipedia.org/wiki/馬丁公司 "wikilink")，軍方賦予的飛彈編號式**ASM-N-7**。
+第一個問題是暴露在目標區周遭的防禦火網下的時間，如果可以在較遠的距離上投擲武器，就可以有效的降低風險。第二的問題是諸如[橋](../Page/橋.md "wikilink")或是[碉堡這一類無導引](https://zh.wikipedia.org/wiki/碉堡 "wikilink")[空用炸彈難以發揮作用的目標類型](https://zh.wikipedia.org/wiki/空用炸彈 "wikilink")。這些問題都是在[韓戰進行密接支援任務時浮現的教訓](https://zh.wikipedia.org/wiki/韓戰 "wikilink")，解決這兩個問題的方案是研發一種有導引的短程空對地飛彈。美國海軍於1953年公開這些設計需求，讓各家廠商參予競標。1954年4月，[馬丁公司的設計案獲勝並且取得研發與生產合約](https://zh.wikipedia.org/wiki/馬丁公司 "wikilink")，軍方賦予的飛彈編號式**ASM-N-7**。
 
-第一次試射於1955年6月成功進行，馬丁公司開始製造試製量產型**YASM-N-7**，1959年犢牛犬飛彈進入美國海軍服役。次年ASM-N-7A改良型開始量產並且進入服役，將原先[AerojetMk](../Page/Aerojet.md "wikilink")-8[固態火箭發動機換成燃料可以儲存的LR](https://zh.wikipedia.org/wiki/固態火箭 "wikilink")58-RM-4[液態火箭](https://zh.wikipedia.org/wiki/液態火箭 "wikilink")，彈頭也有些許改進。
+第一次試射於1955年6月成功進行，馬丁公司開始製造試製量產型**YASM-N-7**，1959年犢牛犬飛彈進入美國海軍服役。次年ASM-N-7A改良型開始量產並且進入服役，將原先[Aerojet](../Page/Aerojet.md "wikilink")Mk-8[固態火箭發動機換成燃料可以儲存的LR](https://zh.wikipedia.org/wiki/固態火箭 "wikilink")58-RM-4[液態火箭](https://zh.wikipedia.org/wiki/液態火箭 "wikilink")，彈頭也有些許改進。
 
 下一個改良型包含提升重量的彈頭與彈體，較大的彈翼以及推力提升的液態火箭，這個改良型於1962年成功試射，1964年進入服役，編號是ASM-N-7B。除了海軍以外，美國空軍也引進這一款供空軍的飛機使用。
 
-當美國海軍在1955年開始試驗犢牛犬飛彈之際，也引發美國空軍對於類似系統的興趣，負責研發的廠商仍舊是馬丁公司。空軍賦予的編號是**GAM-79**，名稱改為**白色標槍**（White
-Lance）。基本設計上與海軍的飛彈類似，但是採用不同型號，推力更強的液態火箭，同時彈頭能夠改為[核子彈頭](https://zh.wikipedia.org/wiki/核子武器 "wikilink")。為了提前接收空對地導引飛彈，空軍決定在研發白色標槍飛彈的過程中，先引進海軍版的犢牛犬飛彈，編號改為**GAM-83**。
+當美國海軍在1955年開始試驗犢牛犬飛彈之際，也引發美國空軍對於類似系統的興趣，負責研發的廠商仍舊是馬丁公司。空軍賦予的編號是**GAM-79**，名稱改為**白色標槍**（White Lance）。基本設計上與海軍的飛彈類似，但是採用不同型號，推力更強的液態火箭，同時彈頭能夠改為[核子彈頭](https://zh.wikipedia.org/wiki/核子武器 "wikilink")。為了提前接收空對地導引飛彈，空軍決定在研發白色標槍飛彈的過程中，先引進海軍版的犢牛犬飛彈，編號改為**GAM-83**。
 
 在研發過程當中，空軍版的設計逐漸靠向海軍版，最終成為與海軍版ASM-N-7A類似設計，但是導引系統有所改良，而且仍保留白色標槍時代的大推力液態火箭引擎，因此彈體重量超越海軍型甚多。原先使用的GAM-79編號與白色標槍的名稱皆在飛彈服役之後取消，空軍改以**GAM-83A**稱呼，名稱仍舊沿用犢牛犬。**GAM-83B**增加彈體直徑，以容納1到15千噸當量的W-45核彈頭。
 
@@ -22,8 +21,7 @@ Lance）。基本設計上與海軍的飛彈類似，但是採用不同型號，
 
 ## 設計與外型
 
-[RA-5C_Vigilante_armed_with_AGM-12_Bullpup_missiles.jpg](https://zh.wikipedia.org/wiki/File:RA-5C_Vigilante_armed_with_AGM-12_Bullpup_missiles.jpg "fig:RA-5C_Vigilante_armed_with_AGM-12_Bullpup_missiles.jpg")
-犢牛犬飛彈在靠近彈頭的部份有固定小翼，主要的控制面是靠近尾端的大型翼面。作為練習使用的ATM-12是從12.7[公分](https://zh.wikipedia.org/wiki/公分 "wikilink")（5吋）火箭改裝而來，直徑小很多，但是基本外型類似。
+[RA-5C_Vigilante_armed_with_AGM-12_Bullpup_missiles.jpg](https://zh.wikipedia.org/wiki/File:RA-5C_Vigilante_armed_with_AGM-12_Bullpup_missiles.jpg "fig:RA-5C_Vigilante_armed_with_AGM-12_Bullpup_missiles.jpg") 犢牛犬飛彈在靠近彈頭的部份有固定小翼，主要的控制面是靠近尾端的大型翼面。作為練習使用的ATM-12是從12.7[公分](https://zh.wikipedia.org/wiki/公分 "wikilink")（5吋）火箭改裝而來，直徑小很多，但是基本外型類似。
 
 犢牛犬飛彈在開始設計時，彈頭僅有113[公斤重](https://zh.wikipedia.org/wiki/公斤 "wikilink")，直到ASM-N-7B/AGM-12C時才換成453公斤重的彈頭，而且僅有空軍採用核子彈頭。
 
@@ -48,10 +46,7 @@ Lance）。基本設計上與海軍的飛彈類似，但是採用不同型號，
 
 ## 參考資料
 
-  - [Federation of American Scientists
-    webpage](http://www.fas.org/man/dod-101/sys/missile/agm-12.htm)
-  - Anthony M. Thornborough，Airborne Weapons of the West，Motorbooks
-    Intl，1992， ISBN 0879386703
+  - [Federation of American Scientists webpage](http://www.fas.org/man/dod-101/sys/missile/agm-12.htm)
+  - Anthony M. Thornborough，Airborne Weapons of the West，Motorbooks Intl，1992， ISBN 0879386703
 
-[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink")
-[Category:空对地导弹](https://zh.wikipedia.org/wiki/Category:空对地导弹 "wikilink")
+[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink") [Category:空对地导弹](https://zh.wikipedia.org/wiki/Category:空对地导弹 "wikilink")

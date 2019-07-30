@@ -1,5 +1,4 @@
-**Petasis反应**（Petasis
-reaction），是[胺](https://zh.wikipedia.org/wiki/胺 "wikilink")、[醛](../Page/醛.md "wikilink")与[烯基](https://zh.wikipedia.org/wiki/烯基 "wikilink")／[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[硼酸](../Page/硼酸.md "wikilink")反应生成[取代胺类的反应](../Page/取代基.md "wikilink")。\[1\]\[2\]\[3\]
+**Petasis反应**（Petasis reaction），是[胺](https://zh.wikipedia.org/wiki/胺 "wikilink")、[醛](../Page/醛.md "wikilink")与[烯基](https://zh.wikipedia.org/wiki/烯基 "wikilink")／[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[硼酸](../Page/硼酸.md "wikilink")反应生成[取代胺类的反应](../Page/取代基.md "wikilink")。\[1\]\[2\]\[3\]
 
 
 [Petasis_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:Petasis_Reaction_Scheme.png "fig:Petasis_Reaction_Scheme.png")
@@ -7,8 +6,7 @@ reaction），是[胺](https://zh.wikipedia.org/wiki/胺 "wikilink")、[醛](../
 
 ## 应用
 
-利用[发散合成法制备多官能团产物](https://zh.wikipedia.org/wiki/发散合成法 "wikilink")：\[4\]
-\[5\]
+利用[发散合成法制备多官能团产物](https://zh.wikipedia.org/wiki/发散合成法 "wikilink")：\[4\] \[5\]
 
 
 [PetasisReaction.png](https://zh.wikipedia.org/wiki/File:PetasisReaction.png "fig:PetasisReaction.png")
@@ -21,9 +19,7 @@ reaction），是[胺](https://zh.wikipedia.org/wiki/胺 "wikilink")、[醛](../
 
 ## 参考资料
 
-[Category:多组分反应](https://zh.wikipedia.org/wiki/Category:多组分反应 "wikilink")
-[Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:多组分反应](https://zh.wikipedia.org/wiki/Category:多组分反应 "wikilink") [Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.

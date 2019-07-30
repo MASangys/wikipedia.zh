@@ -1,12 +1,8 @@
-《**Battle Spirits
-少年激霸**》（），由[名古屋電視台製作](../Page/名古屋電視台.md "wikilink")，於2009年9月13日至2010年9月15日在[朝日電視網播放的](../Page/全日本新聞網.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，總共50話。
+《**Battle Spirits 少年激霸**》（），由[名古屋電視台](../Page/名古屋電視台.md "wikilink")製作，於2009年9月13日至2010年9月15日在[朝日電視網播放的](../Page/全日本新聞網.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，總共50話。
 
 ## 作品概要
 
-《[Battle Spirits
-少年突破馬神](../Page/Battle_Spirits_少年突破馬神.md "wikilink")》之後的作品，不過，本篇作品的背景及人物等均為重新設計，所以跟少年突破馬神沒有關係。而且本作的KEY
-SPIRITS不再是X稀有卡，而是稀有度為M的卡（MASTER
-RARE）。前作是採用4:3[播放比例](../Page/長寬比_\(影像\).md "wikilink")。
+《[Battle Spirits 少年突破馬神](../Page/Battle_Spirits_少年突破馬神.md "wikilink")》之後的作品，不過，本篇作品的背景及人物等均為重新設計，所以跟少年突破馬神沒有關係。而且本作的KEY SPIRITS不再是X稀有卡，而是稀有度為M的卡（MASTER RARE）。前作是採用4:3[播放比例](../Page/長寬比_\(影像\).md "wikilink")。
 
 ## 登場人物
 
@@ -32,8 +28,7 @@ RARE）。前作是採用4:3[播放比例](../Page/長寬比_\(影像\).md "wiki
     LV1：晶核1、BP4000；LV2：晶核3、BP5000；LV3：晶核6、BP9000
     技能
       - LV1-3我方持有【覺醒】的spirit全體BP上升1000。
-      - LV2-3
-        \[*互相攻擊階段*\]在我方持有「地龍」系統的spirit，獲得「覺醒」“把自己戰魂上任意數量的晶核移至這隻spirit上。”的效果。
+      - LV2-3 \[*互相攻擊階段*\]在我方持有「地龍」系統的spirit，獲得「覺醒」“把自己戰魂上任意數量的晶核移至這隻spirit上。”的效果。
 
 <!-- end list -->
 
@@ -49,8 +44,7 @@ RARE）。前作是採用4:3[播放比例](../Page/長寬比_\(影像\).md "wiki
 
   - BS06-X21{{nihongo|激神皇災禍龍/激神皇大災難之龍|激神皇カタストロフドラゴン/大艱難のロングショック神皇帝
 
-Daikan'nan no rongushokku-shin kōtei |The Deity Catastrophedragon/Long
-shock God Emperor of the Great Tribulation }
+Daikan'nan no rongushokku-shin kōtei |The Deity Catastrophedragon/Long shock God Emperor of the Great Tribulation }
 
   -
     系統：古龍．虛神、費用：10、減輕戰徽：紅6、戰徽：紅
@@ -72,15 +66,12 @@ shock God Emperor of the Great Tribulation }
 
 <!-- end list -->
 
-  - BS08-X29{{nihongo|魔帝龍騎 暗黑.克里昂迅|マジック皇帝ドラグーンディアブロブラックリヨンモーション|Magic
-    Emperor Dragoon Diablo Black Lyon Motion
+  - BS08-X29{{nihongo|魔帝龍騎 暗黑.克里昂迅|マジック皇帝ドラグーンディアブロブラックリヨンモーション|Magic Emperor Dragoon Diablo Black Lyon Motion
     系統：龍騎．龍帝、費用：7、減輕戰徽：紅4、戰徽：紅
     LV1：晶核1、BP8000；LV2：晶核5、BP11000；LV3：晶核9、BP16000
     技能
-      - LV1-3
-        \[*召喚這隻spirit時*\]從自己卡組的最上方翻開7張卡。其中持有系統「龍帝」或「龍騎」的所有spirit卡，可以不需支付費用，不用進行「轉召」召喚。不過，所召喚的spirit不能發動「召喚這隻spirit時」的効果。殘餘的卡片全部放入廢棄區。
-      - LV2-3
-        \[*這隻spirit攻擊時*\]我方場上持有系統「龍帝」的spirit每有1個，就可以破壞對方BP8000以下的1隻spirit。
+      - LV1-3 \[*召喚這隻spirit時*\]從自己卡組的最上方翻開7張卡。其中持有系統「龍帝」或「龍騎」的所有spirit卡，可以不需支付費用，不用進行「轉召」召喚。不過，所召喚的spirit不能發動「召喚這隻spirit時」的効果。殘餘的卡片全部放入廢棄區。
+      - LV2-3 \[*這隻spirit攻擊時*\]我方場上持有系統「龍帝」的spirit每有1個，就可以破壞對方BP8000以下的1隻spirit。
 
 <!-- end list -->
 
@@ -109,8 +100,7 @@ shock God Emperor of the Great Tribulation }
     系統：咒鬼．夜族、費用：8、減輕戰徽：紫3、戰徽：紫
     LV1：晶核1、BP6000；LV2：晶核4、BP9000
     技能
-      - LV1-2
-        \[*召喚這隻戰魂時*\]這隻戰魂以外的所有戰魂上的1個晶核移至持有者的預備區。每有一隻戰魂因此效果被破壞，就從空間移一個晶核至這隻戰魂。
+      - LV1-2 \[*召喚這隻戰魂時*\]這隻戰魂以外的所有戰魂上的1個晶核移至持有者的預備區。每有一隻戰魂因此效果被破壞，就從空間移一個晶核至這隻戰魂。
       - LV2 \[*這隻戰魂攻擊時*\]指定一隻戰魂，留下一個晶核外，其餘的晶核移至持有者的預備區。
 
 <!-- end list -->
@@ -148,8 +138,7 @@ shock God Emperor of the Great Tribulation }
     LV1：晶核1、BP7000；LV2：晶核3、BP9000；LV3：晶核5、BP13000
     轉召（費用6或以上/空間）：支付召喚費用後，把自己一隻費用6或以上的戰魂上的所有晶核移到空間
     技能
-      - LV1-3 \[*召喚這隻戰魂時*\]對手所有戰魂身上的2個晶核移至對手的預備區。使用魔界七將 毀滅之王或魔界七將
-        蠅王別西卜特作「轉召」時，對手手牌中的4張卡被破棄。
+      - LV1-3 \[*召喚這隻戰魂時*\]對手所有戰魂身上的2個晶核移至對手的預備區。使用魔界七將 毀滅之王或魔界七將 蠅王別西卜特作「轉召」時，對手手牌中的4張卡被破棄。
       - LV3 \[*這隻戰魂攻擊時*\]對手任意戰魂身上的合計2個晶核移至空間。
 
 <!-- end list -->
@@ -195,8 +184,7 @@ shock God Emperor of the Great Tribulation }
     LV1：晶核1、BP7000；LV2：晶核4、BP9000
     技能
       - LV1-2 【暴風：2】\[*這隻戰魂攻擊時*\]這隻戰魂被阻擋時、對手選擇2隻對手戰魂疲勞
-      - LV2
-        \[*這隻戰魂攻擊時*\]此戰魂的攻擊令對手損失生命值時，可把自己預備區中的1個晶核移至廢棄區，讓對手沒持有「轉召」效果的2隻戰魂回到手牌。
+      - LV2 \[*這隻戰魂攻擊時*\]此戰魂的攻擊令對手損失生命值時，可把自己預備區中的1個晶核移至廢棄區，讓對手沒持有「轉召」效果的2隻戰魂回到手牌。
 
 ### 白色
 
@@ -216,8 +204,7 @@ shock God Emperor of the Great Tribulation }
     技能
       - LV1-3 己方全體戰魂白色獲得“\[*這隻戰魂阻擋時*\]這戰魂BP+2000”
       - LV2 己方全部戰魂獲得“【裝甲：紅/紫/綠】這隻戰魂不會受到對手場地上的紅/紫/綠色戰魂、核心、魔法効果的影響。”的效果
-      - LV3
-        己方全部戰魂獲得“【裝甲：紅/紫/綠/黃/藍】己方全體戰魂不會受到對手場地上的紅/紫/綠/黃/藍色戰魂、核心、魔法効果的影響。”
+      - LV3 己方全部戰魂獲得“【裝甲：紅/紫/綠/黃/藍】己方全體戰魂不會受到對手場地上的紅/紫/綠/黃/藍色戰魂、核心、魔法効果的影響。”
 
 <!-- end list -->
 
@@ -300,8 +287,7 @@ shock God Emperor of the Great Tribulation }
     LV1：晶核1、BP6000；LV2：晶核2、BP7000；LV2：晶核6、BP15000
     轉召（費用6或以上/空間）：支付召喚費用後，把自己場上一隻指定費用或以上的戰魂上的晶核移至指定場所。
     技能
-      - LV1-3
-        \[*召喚這隻戰魂時*\]可破壞對手合計費用為5的戰魂。如果用「龍皇齊格弗烈多」或「要塞皇奧丁」進行「轉召」時，可破壞對手合計費用為8的戰魂。
+      - LV1-3 \[*召喚這隻戰魂時*\]可破壞對手合計費用為5的戰魂。如果用「龍皇齊格弗烈多」或「要塞皇奧丁」進行「轉召」時，可破壞對手合計費用為8的戰魂。
       - LV3 \[*這隻戰魂攻擊時*\]破壞對手兩隻BP7000或以下的戰魂。
 
 <!-- end list -->
@@ -318,8 +304,7 @@ shock God Emperor of the Great Tribulation }
     LV1：晶核1、BP7000；LV2：晶核2、BP9000；LV3：晶核5、BP15000
     轉召（費用6或以上/空間）：支付召喚費用後，把自己一隻費用6或以上的戰魂上的核移到空間
     技能
-      - LV1-3
-        \[*召喚這隻戰魂時*\]對手全部Spirits進入疲勞狀態，如果以「鐵騎皇尤特希爾」作「轉召」，在空間移動6個晶核到這隻戰魂上。
+      - LV1-3 \[*召喚這隻戰魂時*\]對手全部Spirits進入疲勞狀態，如果以「鐵騎皇尤特希爾」作「轉召」，在空間移動6個晶核到這隻戰魂上。
       - LV3 \[*這隻戰魂攻擊時*\]回復己方3隻費用8以下的戰魂。
 
 ## 動畫
@@ -354,8 +339,7 @@ shock God Emperor of the Great Tribulation }
 <!-- end list -->
 
   -
-    作詞：[影山浩宣](../Page/影山浩宣.md "wikilink")、作曲：影山浩宣、編曲：、歌：[JAM
-    Project](../Page/JAM_Project.md "wikilink")
+    作詞：[影山浩宣](../Page/影山浩宣.md "wikilink")、作曲：影山浩宣、編曲：、歌：[JAM Project](../Page/JAM_Project.md "wikilink")
 
 <!-- end list -->
 
@@ -1107,7 +1091,7 @@ shock God Emperor of the Great Tribulation }
 
 ## 漫畫
 
-  - 單行本由[角川書店發行](../Page/角川書店.md "wikilink")，總共3卷，香港版由[正文社代理發行](../Page/正文社.md "wikilink")，台灣版由[青文出版社代理發行](../Page/青文出版社.md "wikilink")。
+  - 單行本由[角川書店](../Page/角川書店.md "wikilink")發行，總共3卷，香港版由[正文社](../Page/正文社.md "wikilink")代理發行，台灣版由[青文出版社](../Page/青文出版社.md "wikilink")代理發行。
 
 <table>
 <thead>
@@ -1154,19 +1138,8 @@ shock God Emperor of the Great Tribulation }
 
 ## 外部連結
 
-  - [電視動畫「Battle Spirits
-    少年激霸」官方網頁](http://www.sunrise-inc.co.jp/battlespirits2/)
+  - [電視動畫「Battle Spirits 少年激霸」官方網頁](http://www.sunrise-inc.co.jp/battlespirits2/)
 
-  - [電視動畫「Battle Spirits
-    少年激霸」名古屋電視台網頁](http://www.nagoyatv.com/battlespirits_dan/)
+  - [電視動畫「Battle Spirits 少年激霸」名古屋電視台網頁](http://www.nagoyatv.com/battlespirits_dan/)
 
-[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink")
-[Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink")
-[Category:交換卡片遊戲題材動畫](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:KEROKERO_ACE](https://zh.wikipedia.org/wiki/Category:KEROKERO_ACE "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
+[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink") [Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink") [Category:交換卡片遊戲題材動畫](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:KEROKERO_ACE](https://zh.wikipedia.org/wiki/Category:KEROKERO_ACE "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")

@@ -1,4 +1,4 @@
-**DC信用卡**（），是[三菱日聯日本信販股份有限公司轄下的](https://zh.wikipedia.org/wiki/三菱日聯日本信販股份有限公司 "wikilink")[信用卡品牌](../Page/信用卡.md "wikilink")。DC信用卡的前身是由方塊信用股份有限公司設立的「方塊信用卡」。1984年被三菱日聯日本信販股份有限公司吸收合併後，更名為「DC信用卡」至今。
+**DC信用卡**（），是[三菱日聯日本信販股份有限公司轄下的](https://zh.wikipedia.org/wiki/三菱日聯日本信販股份有限公司 "wikilink")[信用卡](../Page/信用卡.md "wikilink")品牌。DC信用卡的前身是由方塊信用股份有限公司設立的「方塊信用卡」。1984年被三菱日聯日本信販股份有限公司吸收合併後，更名為「DC信用卡」至今。
 
 ## 外部連結
 
@@ -33,5 +33,4 @@
       - [東京海上日動カードサービス株式会社](http://www.tmarinecard.co.jp/)
       - [カッパ・たぬきホームページ](http://www.cr.mufg.jp/kappatanuki/)
 
-[Category:信用卡](https://zh.wikipedia.org/wiki/Category:信用卡 "wikilink")
-[Category:DC信用卡](https://zh.wikipedia.org/wiki/Category:DC信用卡 "wikilink")
+[Category:信用卡](https://zh.wikipedia.org/wiki/Category:信用卡 "wikilink") [Category:DC信用卡](https://zh.wikipedia.org/wiki/Category:DC信用卡 "wikilink")

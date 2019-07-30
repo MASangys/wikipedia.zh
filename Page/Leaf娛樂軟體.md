@@ -1,5 +1,4 @@
-**Leaf娛樂軟體**（Leafアミューズメントソフト），是日本游戏公司[Leaf为旗下游戏发行的](../Page/Leaf.md "wikilink")[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")，至2009年，总共发行了5部，全部为[18禁游戏](https://zh.wikipedia.org/wiki/18禁游戏 "wikilink")。
+**Leaf娛樂軟體**（Leafアミューズメントソフト），是日本游戏公司[Leaf](../Page/Leaf.md "wikilink")为旗下游戏发行的[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")，至2009年，总共发行了5部，全部为[18禁游戏](https://zh.wikipedia.org/wiki/18禁游戏 "wikilink")。
 
 ## 爱佳之夏
 
@@ -27,7 +26,4 @@ disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")，至2009年，总共�
       - [「アルルゥとあそぼ\!\!」介紹頁](http://leaf.aquaplus.co.jp/product/aru/)
       - [「愛佳でいくの\!\!」介紹頁](http://leaf.aquaplus.co.jp/product/manaka/)
 
-[Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink")
-[Category:Leaf](https://zh.wikipedia.org/wiki/Category:Leaf "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:日本成人遊戲fan_disc](https://zh.wikipedia.org/wiki/Category:日本成人遊戲fan_disc "wikilink")
+[Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink") [Category:Leaf](https://zh.wikipedia.org/wiki/Category:Leaf "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:日本成人遊戲fan_disc](https://zh.wikipedia.org/wiki/Category:日本成人遊戲fan_disc "wikilink")

@@ -1,6 +1,6 @@
-《**Mother**》（），是2010年4月14日至6月23日期間於[日本電視台](../Page/日本電視台.md "wikilink")[星期三晚十點播映的電視劇](../Page/日本電視台週三連續劇.md "wikilink")，由[松雪泰子主演](../Page/松雪泰子.md "wikilink")，電視劇以[高清製作](https://zh.wikipedia.org/wiki/高清製作 "wikilink")。電視劇第一集和最後一集分別加長30分鐘和15分鐘播映。
+《**Mother**》（），是2010年4月14日至6月23日期間於[日本電視台](../Page/日本電視台.md "wikilink")[星期三晚十點播映的電視劇](../Page/日本電視台週三連續劇.md "wikilink")，由[松雪泰子](../Page/松雪泰子.md "wikilink")主演，電視劇以[高清製作](https://zh.wikipedia.org/wiki/高清製作 "wikilink")。電視劇第一集和最後一集分別加長30分鐘和15分鐘播映。
 
-2016年[土耳其宣布翻拍此作成](../Page/土耳其.md "wikilink")《**ANNE**》\[1\]。2016年韓國[tvN宣布翻拍此作](https://zh.wikipedia.org/wiki/tvN "wikilink")，於2018年1月播出。\[2\]。
+2016年[土耳其](../Page/土耳其.md "wikilink")宣布翻拍此作成《**ANNE**》\[1\]。2016年韓國[tvN宣布翻拍此作](https://zh.wikipedia.org/wiki/tvN "wikilink")，於2018年1月播出。\[2\]。
 
 ## 故事內容
 
@@ -10,36 +10,25 @@
 
 ### 主要人物
 
-  - 鈴原奈緒（35） -
-    [松雪泰子](../Page/松雪泰子.md "wikilink")（香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）
-  - 道木怜南「鈴原繼美」（7） -
-    [蘆田愛菜](../Page/蘆田愛菜.md "wikilink")（5）（香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
+  - 鈴原奈緒（35） - [松雪泰子](../Page/松雪泰子.md "wikilink")（香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）
+  - 道木怜南「鈴原繼美」（7） - [蘆田愛菜](../Page/蘆田愛菜.md "wikilink")（5）（香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
 
 ### 鈴原家
 
-  - 鈴原藤子（55） -
-    [高畑淳子](../Page/高畑淳子.md "wikilink")（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）
-  - 鈴原芽衣（26） -
-    [酒井若菜](../Page/酒井若菜.md "wikilink")（香港配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
-  - 鈴原果歩（22） -
-    [倉科加奈](../Page/倉科加奈.md "wikilink")（香港配音：[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")）
+  - 鈴原藤子（55） - [高畑淳子](../Page/高畑淳子.md "wikilink")（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）
+  - 鈴原芽衣（26） - [酒井若菜](../Page/酒井若菜.md "wikilink")（香港配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
+  - 鈴原果歩（22） - [倉科加奈](../Page/倉科加奈.md "wikilink")（香港配音：[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")）
 
 ### 其他
 
-  - 望月葉菜（55） -
-    [田中裕子](../Page/田中裕子.md "wikilink")（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
-  - 藤吉駿輔（33） -
-    [山本耕史](../Page/山本耕史.md "wikilink")（香港配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
-  - 道木仁美（29） -
-    [尾野真千子](../Page/尾野真千子.md "wikilink")（香港配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
-  - 浦上真人（29） -
-    [綾野剛](../Page/綾野剛.md "wikilink")（香港配音：[何承駿](../Page/何承駿.md "wikilink")）
+  - 望月葉菜（55） - [田中裕子](../Page/田中裕子.md "wikilink")（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
+  - 藤吉駿輔（33） - [山本耕史](../Page/山本耕史.md "wikilink")（香港配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
+  - 道木仁美（29） - [尾野真千子](../Page/尾野真千子.md "wikilink")（香港配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
+  - 浦上真人（29） - [綾野剛](../Page/綾野剛.md "wikilink")（香港配音：[何承駿](../Page/何承駿.md "wikilink")）
   - 木俣耕平（22） - （香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
-  - 袖川珠美（36） -
-    （香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
+  - 袖川珠美（36） - （香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
   - 加山圭吾（33） - （香港配音：[葉振聲](../Page/葉振聲.md "wikilink")）
-  - 藤吉健輔（38） -
-    [田中實](https://zh.wikipedia.org/wiki/田中實 "wikilink")（香港配音：[伍博民](../Page/伍博民.md "wikilink")）
+  - 藤吉健輔（38） - [田中實](https://zh.wikipedia.org/wiki/田中實 "wikilink")（香港配音：[伍博民](../Page/伍博民.md "wikilink")）
 
 ## 工作人員
 
@@ -53,8 +42,7 @@
 
 ## 主題曲
 
-  - [hinaco](https://zh.wikipedia.org/wiki/hinaco "wikilink") 「」（rhythm
-    zone）
+  - [hinaco](https://zh.wikipedia.org/wiki/hinaco "wikilink") 「」（rhythm zone）
 
 ## 各集播出時間及副題
 
@@ -159,21 +147,7 @@
 
   - [緯來日本台－兩個媽媽](http://japan.videoland.com.tw/channel/mother/introduction.asp)
 
-[Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink")
-[Category:北海道背景作品](https://zh.wikipedia.org/wiki/Category:北海道背景作品 "wikilink")
-[Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink")
-[Category:教師主角電視劇](https://zh.wikipedia.org/wiki/Category:教師主角電視劇 "wikilink")
-[Category:綁架題材作品](https://zh.wikipedia.org/wiki/Category:綁架題材作品 "wikilink")
-[Category:家庭暴力題材電視劇](https://zh.wikipedia.org/wiki/Category:家庭暴力題材電視劇 "wikilink")
-[Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:收養相關電視節目](https://zh.wikipedia.org/wiki/Category:收養相關電視節目 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
-[Category:銀河賞選獎獲獎作品](https://zh.wikipedia.org/wiki/Category:銀河賞選獎獲獎作品 "wikilink")
-[Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink")
-[Category:虐待兒童作品](https://zh.wikipedia.org/wiki/Category:虐待兒童作品 "wikilink")
-[Category:坂元裕二劇本作品](https://zh.wikipedia.org/wiki/Category:坂元裕二劇本作品 "wikilink")
+[Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink") [Category:北海道背景作品](https://zh.wikipedia.org/wiki/Category:北海道背景作品 "wikilink") [Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink") [Category:教師主角電視劇](https://zh.wikipedia.org/wiki/Category:教師主角電視劇 "wikilink") [Category:綁架題材作品](https://zh.wikipedia.org/wiki/Category:綁架題材作品 "wikilink") [Category:家庭暴力題材電視劇](https://zh.wikipedia.org/wiki/Category:家庭暴力題材電視劇 "wikilink") [Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:收養相關電視節目](https://zh.wikipedia.org/wiki/Category:收養相關電視節目 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink") [Category:銀河賞選獎獲獎作品](https://zh.wikipedia.org/wiki/Category:銀河賞選獎獲獎作品 "wikilink") [Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink") [Category:虐待兒童作品](https://zh.wikipedia.org/wiki/Category:虐待兒童作品 "wikilink") [Category:坂元裕二劇本作品](https://zh.wikipedia.org/wiki/Category:坂元裕二劇本作品 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-《**SINGLE
-COLLECTION**》[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[大塚愛的租賃限定](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")[專輯](../Page/音樂專輯.md "wikilink")。2011年3月9日開始於[TSUTAYA提供租賃](https://zh.wikipedia.org/wiki/TSUTAYA "wikilink")。
+《**SINGLE COLLECTION**》[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[大塚愛的租賃限定](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")[專輯](../Page/音樂專輯.md "wikilink")。2011年3月9日開始於[TSUTAYA提供租賃](https://zh.wikipedia.org/wiki/TSUTAYA "wikilink")。
 
 ## 簡介
 
@@ -7,8 +6,7 @@ COLLECTION**》[日本女性](../Page/日本.md "wikilink")[創作歌手](../Pag
 
 封面由收錄的單曲的歷張封面合成。
 
-附錄有演唱會「[【LOVE IS BORN】～7th Anniversary
-2010～](https://zh.wikipedia.org/wiki/【LOVE_IS_BORN】～7th_Anniversary_2010～ "wikilink")」的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+附錄有演唱會「[【LOVE IS BORN】～7th Anniversary 2010～](https://zh.wikipedia.org/wiki/【LOVE_IS_BORN】～7th_Anniversary_2010～ "wikilink")」的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 收錄曲目
 
@@ -42,12 +40,10 @@ COLLECTION**》[日本女性](../Page/日本.md "wikilink")[創作歌手](../Pag
 
 ### DVD
 
-  - [【LOVE IS BORN】～7th Anniversary
-    2010～](https://zh.wikipedia.org/wiki/【LOVE_IS_BORN】～7th_Anniversary_2010～ "wikilink")（精華錄像）
+  - [【LOVE IS BORN】～7th Anniversary 2010～](https://zh.wikipedia.org/wiki/【LOVE_IS_BORN】～7th_Anniversary_2010～ "wikilink")（精華錄像）
 
 ## 外部連結
 
   - [](http://store.tsutaya.co.jp/news/rental_cd/001147.html)
 
-[Category:大塚愛音樂專輯](https://zh.wikipedia.org/wiki/Category:大塚愛音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
+[Category:大塚愛音樂專輯](https://zh.wikipedia.org/wiki/Category:大塚愛音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")

@@ -1,10 +1,8 @@
-《**Checkmate\!**》（全面征服\!），[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠的合作](../Page/安室奈美惠.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。原定於2011年3月23日發行，後由於[東日本大地震的影響而推遲到](https://zh.wikipedia.org/wiki/2011年東北地方太平洋近海地震 "wikilink")4月27日發行。\[1\]\[2\]PLAYBUTTON則在2012年6月27日發行。
+《**Checkmate\!**》（全面征服\!），[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[安室奈美惠](../Page/安室奈美惠.md "wikilink")的合作[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。原定於2011年3月23日發行，後由於[東日本大地震的影響而推遲到](https://zh.wikipedia.org/wiki/2011年東北地方太平洋近海地震 "wikilink")4月27日發行。\[1\]\[2\]PLAYBUTTON則在2012年6月27日發行。
 
 ## 簡介
 
-  - 收錄了2003年至2011年安室奈美惠參加的合作歌曲，安室的首張合作精選輯。加上[AI](../Page/AI_\(歌手\).md "wikilink")
-    & [土屋安娜](../Page/土屋安娜.md "wikilink")、
-    [AFTERSCHOOL](../Page/After_School.md "wikilink")、[川畑要](https://zh.wikipedia.org/wiki/川畑要 "wikilink")（[CHEMISTRY](../Page/化學超男子.md "wikilink")）和[山下智久](../Page/山下智久.md "wikilink")4組新參加的歌手，總共收錄13首歌曲。
+  - 收錄了2003年至2011年安室奈美惠參加的合作歌曲，安室的首張合作精選輯。加上[AI](../Page/AI_\(歌手\).md "wikilink") & [土屋安娜](../Page/土屋安娜.md "wikilink")、 [AFTERSCHOOL](../Page/After_School.md "wikilink")、[川畑要](https://zh.wikipedia.org/wiki/川畑要 "wikilink")（[CHEMISTRY](../Page/化學超男子.md "wikilink")）和[山下智久](../Page/山下智久.md "wikilink")4組新參加的歌手，總共收錄13首歌曲。
 
 <!-- end list -->
 
@@ -12,10 +10,7 @@
 
 <!-- end list -->
 
-  - 專輯發售前，單曲《[Wonder
-    Woman](https://zh.wikipedia.org/wiki/Wonder_Woman_\(歌曲\) "wikilink")》和《[make
-    it
-    happen](https://zh.wikipedia.org/wiki/make_it_happen "wikilink")》先行開放音樂下載。
+  - 專輯發售前，單曲《[Wonder Woman](https://zh.wikipedia.org/wiki/Wonder_Woman_\(歌曲\) "wikilink")》和《[make it happen](https://zh.wikipedia.org/wiki/make_it_happen "wikilink")》先行開放音樂下載。
 
 <!-- end list -->
 
@@ -81,10 +76,7 @@
 
   - [Chackmate\! 專設網頁](http://checkmate.avex.jp)
 
-[Category:安室奈美惠音樂專輯](https://zh.wikipedia.org/wiki/Category:安室奈美惠音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:2011年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:安室奈美惠音樂專輯](https://zh.wikipedia.org/wiki/Category:安室奈美惠音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:2011年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯月榜冠軍作品 "wikilink") [Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
 

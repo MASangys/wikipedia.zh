@@ -1,8 +1,8 @@
-**浙大CCNT实验室饮水机**，人称**饮水机娘**，是[浙江大学玉泉校区老生仪楼一楼CCNT实验室的一台](../Page/浙江大学.md "wikilink")[饮水机](https://zh.wikipedia.org/wiki/饮水机 "wikilink")。因改造后能以一名为“浙大CCNT实验室饮水机”的[新浪微博帐号发布状态和](../Page/新浪微博.md "wikilink")[卖萌微博而在一时间受到关注](https://zh.wikipedia.org/wiki/卖萌 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+**浙大CCNT实验室饮水机**，人称**饮水机娘**，是[浙江大学](../Page/浙江大学.md "wikilink")玉泉校区老生仪楼一楼CCNT实验室的一台[饮水机](https://zh.wikipedia.org/wiki/饮水机 "wikilink")。因改造后能以一名为“浙大CCNT实验室饮水机”的[新浪微博](../Page/新浪微博.md "wikilink")帐号发布状态和[卖萌微博而在一时间受到关注](https://zh.wikipedia.org/wiki/卖萌 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ## 原理
 
-  - 饮水机上安装有一个正对加热指示灯的[摄像头](../Page/摄像头.md "wikilink")，作为[传感器实时监控加热状态](../Page/传感器.md "wikilink")。而发送微博的功能利用了新浪微博开放平台提供的[PHP语言软件开发工具包来实现](../Page/PHP.md "wikilink")。代码设计中主要有检测模块和反应模块两部分。检测模块处理摄像头的监控数据，捕捉加热指示灯“亮-\>不亮”与“不亮-\>亮”两个切换状态，然后调用反应模块即时发送微博。\[7\]
+  - 饮水机上安装有一个正对加热指示灯的[摄像头](../Page/摄像头.md "wikilink")，作为[传感器](../Page/传感器.md "wikilink")实时监控加热状态。而发送微博的功能利用了新浪微博开放平台提供的[PHP](../Page/PHP.md "wikilink")语言软件开发工具包来实现。代码设计中主要有检测模块和反应模块两部分。检测模块处理摄像头的监控数据，捕捉加热指示灯“亮-\>不亮”与“不亮-\>亮”两个切换状态，然后调用反应模块即时发送微博。\[7\]
   - 早期发送的微博内容下方显示“来自未通过审核应用”，后期显示为“来自小kiu”。
 
 ## 制作人员
@@ -15,7 +15,7 @@
 
 <!-- end list -->
 
-  - 饮水机娘的出现吸引了一些中国境内外媒体的关注和报道。例如中国大陆的科普网站兼泛科技兴趣社区[果壳网采访了陈龙彪与饮水机娘的故事](../Page/果壳网.md "wikilink")。
+  - 饮水机娘的出现吸引了一些中国境内外媒体的关注和报道。例如中国大陆的科普网站兼泛科技兴趣社区[果壳网](../Page/果壳网.md "wikilink")采访了陈龙彪与饮水机娘的故事。
 
 ## 发展
 
@@ -38,12 +38,7 @@
 ## 外部链接
 
   -
-[Category:萌擬人化角色](https://zh.wikipedia.org/wiki/Category:萌擬人化角色 "wikilink")
-[Category:同人作品](https://zh.wikipedia.org/wiki/Category:同人作品 "wikilink")
-[Category:中国大陆次文化](https://zh.wikipedia.org/wiki/Category:中国大陆次文化 "wikilink")
-[Category:2011年中國](https://zh.wikipedia.org/wiki/Category:2011年中國 "wikilink")
-[Category:新浪微博](https://zh.wikipedia.org/wiki/Category:新浪微博 "wikilink")
-[Category:浙江大学](https://zh.wikipedia.org/wiki/Category:浙江大学 "wikilink")
+[Category:萌擬人化角色](https://zh.wikipedia.org/wiki/Category:萌擬人化角色 "wikilink") [Category:同人作品](https://zh.wikipedia.org/wiki/Category:同人作品 "wikilink") [Category:中国大陆次文化](https://zh.wikipedia.org/wiki/Category:中国大陆次文化 "wikilink") [Category:2011年中國](https://zh.wikipedia.org/wiki/Category:2011年中國 "wikilink") [Category:新浪微博](https://zh.wikipedia.org/wiki/Category:新浪微博 "wikilink") [Category:浙江大学](https://zh.wikipedia.org/wiki/Category:浙江大学 "wikilink")
 
 1.
 2.

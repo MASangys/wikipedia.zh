@@ -1,4 +1,4 @@
-《**二人的♥甜心男孩**》（[日语](../Page/日语.md "wikilink")：**ふたりの♥ハニーボーイ**）是[OAD](https://zh.wikipedia.org/wiki/OAD "wikilink")『[kiss×sis](https://zh.wikipedia.org/wiki/kiss×sis "wikilink")』的[主題曲的](../Page/主題曲.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+《**二人的♥甜心男孩**》（[日语](../Page/日语.md "wikilink")：**ふたりの♥ハニーボーイ**）是[OAD](https://zh.wikipedia.org/wiki/OAD "wikilink")『[kiss×sis](https://zh.wikipedia.org/wiki/kiss×sis "wikilink")』的[主題曲](../Page/主題曲.md "wikilink")的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 
@@ -23,9 +23,6 @@
   - [OAD公式](http://kc.kodansha.co.jp/kiss_sis/) (日文)
   - [動畫公式](http://www.starchild.co.jp/special/kiss_sis/index.html) (日文)
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
-[Category:動畫音樂作品](https://zh.wikipedia.org/wiki/Category:動畫音樂作品 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:動畫音樂作品](https://zh.wikipedia.org/wiki/Category:動畫音樂作品 "wikilink")
 
 1.

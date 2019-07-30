@@ -8,31 +8,20 @@
 
 ### 主要人物
 
-  - **高倉奏（26） -
-    [小栗旬](../Page/小栗旬.md "wikilink")、[澁谷武尊](https://zh.wikipedia.org/wiki/澁谷武尊 "wikilink")（少年時期）**-
-    [黃啟昌配音](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")
-  - **工藤丸尾（25） - [水嶋宏](https://zh.wikipedia.org/wiki/水嶋宏 "wikilink")**-
-    [李致林](../Page/李致林.md "wikilink")配音
-  - **松永由岐（23） -
-    、[文屋愛海](https://zh.wikipedia.org/wiki/文屋愛海 "wikilink")（少年時期）**-
-    [黃紫嫻配音](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")
-  - **堀川經一（23） -
-    [勝地涼](../Page/勝地涼.md "wikilink")**[關令翹](../Page/關令翹.md "wikilink")配音
+  - **高倉奏（26） - [小栗旬](../Page/小栗旬.md "wikilink")、[澁谷武尊](https://zh.wikipedia.org/wiki/澁谷武尊 "wikilink")（少年時期）**- [黃啟昌配音](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")
+  - **工藤丸尾（25） - [水嶋宏](https://zh.wikipedia.org/wiki/水嶋宏 "wikilink")**- [李致林](../Page/李致林.md "wikilink")配音
+  - **松永由岐（23） - 、[文屋愛海](https://zh.wikipedia.org/wiki/文屋愛海 "wikilink")（少年時期）**- [黃紫嫻配音](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")
+  - **堀川經一（23） - [勝地涼](../Page/勝地涼.md "wikilink")**[關令翹](../Page/關令翹.md "wikilink")配音
   - **益子禮二（40） - [東幹久](https://zh.wikipedia.org/wiki/東幹久 "wikilink")**
-  - **鈴江光男（59） -
-    [志賀廣太郎](https://zh.wikipedia.org/wiki/志賀廣太郎 "wikilink")**
+  - **鈴江光男（59） - [志賀廣太郎](https://zh.wikipedia.org/wiki/志賀廣太郎 "wikilink")**
   - **田中真紀（23） - [臼田麻美](https://zh.wikipedia.org/wiki/臼田麻美 "wikilink")**
   - **西岡百合（29） - [友坂理惠](../Page/友坂理惠.md "wikilink")**
-  - **甲斐崎廣人（27） -
-    [水上剣星](https://zh.wikipedia.org/wiki/水上剣星 "wikilink")**
-  - **神野京介（40） - [仲村亨](../Page/仲村亨.md "wikilink")**-
-    [陳廷軒](../Page/陳廷軒.md "wikilink")配音
+  - **甲斐崎廣人（27） - [水上剣星](https://zh.wikipedia.org/wiki/水上剣星 "wikilink")**
+  - **神野京介（40） - [仲村亨](../Page/仲村亨.md "wikilink")**- [陳廷軒](../Page/陳廷軒.md "wikilink")配音
   - **蒲田茂夫（22） - [矢崎広](https://zh.wikipedia.org/wiki/矢崎広 "wikilink")**
-  - **高倉花梨（17） - [川口春奈](../Page/川口春奈.md "wikilink")**-
-    [楊善諭](../Page/楊善諭.md "wikilink")配音
+  - **高倉花梨（17） - [川口春奈](../Page/川口春奈.md "wikilink")**- [楊善諭](../Page/楊善諭.md "wikilink")配音
   - **中谷祥太（17） - [吉村卓也](https://zh.wikipedia.org/wiki/吉村卓也 "wikilink")**
-  - **高倉京子（53） - [田中好子](../Page/田中好子.md "wikilink")（特別出演）**-
-    [沈小蘭](../Page/沈小蘭.md "wikilink")配音
+  - **高倉京子（53） - [田中好子](../Page/田中好子.md "wikilink")（特別出演）**- [沈小蘭](../Page/沈小蘭.md "wikilink")配音
   - **舞島美紗（38） - [大塚寧寧](../Page/大塚寧寧.md "wikilink")**
   - **大友幸三（57） - [三浦友和](https://zh.wikipedia.org/wiki/三浦友和 "wikilink")**
 
@@ -50,17 +39,14 @@
   - **小宮山宏輔 - [小林海人](https://zh.wikipedia.org/wiki/小林海人 "wikilink")**
   - **小宮山律师事务所的秘書 - [中村友理](../Page/中村友理.md "wikilink")**
   - **柴田雄三 - [佐々木勝彦](https://zh.wikipedia.org/wiki/佐々木勝彦 "wikilink")**
-  - **狙击義彦的男人 -
-    [遠藤要](https://zh.wikipedia.org/wiki/遠藤要 "wikilink")、[堺沢隆史](https://zh.wikipedia.org/wiki/堺沢隆史 "wikilink")**
+  - **狙击義彦的男人 - [遠藤要](https://zh.wikipedia.org/wiki/遠藤要 "wikilink")、[堺沢隆史](https://zh.wikipedia.org/wiki/堺沢隆史 "wikilink")**
   - **下山 - [石川裕一](https://zh.wikipedia.org/wiki/石川裕一 "wikilink")**（第2話-）
   - **茂山剛 - [山崎樹範](https://zh.wikipedia.org/wiki/山崎樹範 "wikilink")**
 
 #### 第3話
 
-  - **木内真二 -
-    [鈴木亮平](https://zh.wikipedia.org/wiki/鈴木亮平_\(モデル\) "wikilink")**
-  - **恵理 -
-    [淺見麗奈](../Page/淺見麗奈.md "wikilink")、[中川真桜](https://zh.wikipedia.org/wiki/中川真桜 "wikilink")（少年時期）**
+  - **木内真二 - [鈴木亮平](https://zh.wikipedia.org/wiki/鈴木亮平_\(モデル\) "wikilink")**
+  - **恵理 - [淺見麗奈](../Page/淺見麗奈.md "wikilink")、[中川真桜](https://zh.wikipedia.org/wiki/中川真桜 "wikilink")（少年時期）**
   - **木内洋子 - [梅宮万紗子](https://zh.wikipedia.org/wiki/梅宮万紗子 "wikilink")**
   - **茂夫的祖父 - [奥野匡](https://zh.wikipedia.org/wiki/奥野匡 "wikilink")**
 
@@ -86,27 +72,21 @@
 
   - 編劇 - [福田雄一](../Page/福田雄一.md "wikilink")
   - 製作人 - [鹿内植](https://zh.wikipedia.org/wiki/鹿内植 "wikilink")
-  - 導演 -
-    [成田岳](https://zh.wikipedia.org/wiki/成田岳 "wikilink")、[石井祐介](https://zh.wikipedia.org/wiki/石井祐介 "wikilink")
+  - 導演 - [成田岳](https://zh.wikipedia.org/wiki/成田岳 "wikilink")、[石井祐介](https://zh.wikipedia.org/wiki/石井祐介 "wikilink")
   - 音楽 - [Rita-iota](https://zh.wikipedia.org/wiki/Rita-iota "wikilink")
   - 演奏 - [unkie](https://zh.wikipedia.org/wiki/unkie "wikilink")
-  - 警察監修 -
-    [飯田裕久](https://zh.wikipedia.org/wiki/飯田裕久 "wikilink")（元：警視庁捜査一課刑事）
-  - 医療指導 -
-    [新村核](https://zh.wikipedia.org/wiki/新村核 "wikilink")（第一会若葉クリニック・医師）
+  - 警察監修 - [飯田裕久](https://zh.wikipedia.org/wiki/飯田裕久 "wikilink")（元：警視庁捜査一課刑事）
+  - 医療指導 - [新村核](https://zh.wikipedia.org/wiki/新村核 "wikilink")（第一会若葉クリニック・医師）
   - 制作 - [富士電視台](../Page/富士電視台.md "wikilink")
 
 ## 主題曲
 
-  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")「ふたつの唇（兩人的唇）」（[rhythm
-    zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")）
+  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")「ふたつの唇（兩人的唇）」（[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")）
 
 ## 插入曲
 
-  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")「ROCK THE
-    BEAT 」
-  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")「Heavenly
-    White」
+  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")「ROCK THE BEAT 」
+  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")「Heavenly White」
 
 ## 播放日期、標題、收視率
 
@@ -219,10 +199,4 @@
 
 ## 作品的變遷
 
-[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:富士電視台週一晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週一晚間九點連續劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:福田雄一劇本電視劇](https://zh.wikipedia.org/wiki/Category:福田雄一劇本電視劇 "wikilink")
+[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:富士電視台週一晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週一晚間九點連續劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:福田雄一劇本電視劇](https://zh.wikipedia.org/wiki/Category:福田雄一劇本電視劇 "wikilink")

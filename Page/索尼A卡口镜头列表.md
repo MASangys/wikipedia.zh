@@ -1,14 +1,10 @@
 [Minolta_50_(1.7)_lens_01.jpg](https://zh.wikipedia.org/wiki/File:Minolta_50_\(1.7\)_lens_01.jpg "fig:Minolta_50_(1.7)_lens_01.jpg")
 
-本列表是 [Minolta
-AF系统](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")/[SONY
-α系统A卡口](https://zh.wikipedia.org/wiki/SONY_α "wikilink")
-所使用镜头之共用集合，包括了[美能达](https://zh.wikipedia.org/wiki/美能达 "wikilink")，[柯尼卡美能达和](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")[索尼所制造的](../Page/索尼.md "wikilink")**Alpha**卡口镜头。
+本列表是 [Minolta AF系统](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")/[SONY α系统A卡口](https://zh.wikipedia.org/wiki/SONY_α "wikilink") 所使用镜头之共用集合，包括了[美能达](https://zh.wikipedia.org/wiki/美能达 "wikilink")，[柯尼卡美能达和](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")[索尼](../Page/索尼.md "wikilink")所制造的**Alpha**卡口镜头。
 
 ## 美能达时期镜头
 
-所谓美能达时期，包括了1985～2003的美能达专属和2003～2005年的柯尼卡美能达时期，这个时期的镜头标为**Minolta**，柯美时期少数的几枚新设计镜头标注**Konica
-Minolta**字样。
+所谓美能达时期，包括了1985～2003的美能达专属和2003～2005年的柯尼卡美能达时期，这个时期的镜头标为**Minolta**，柯美时期少数的几枚新设计镜头标注**Konica Minolta**字样。
 
   - 代号与说明
 
@@ -123,8 +119,7 @@ Minolta**字样。
 
 ### DT镜头
 
-DT镜头是用于Minotla AF/Sony α中APS-C幅面机型使用的专有镜头(除了DT85
-2.8是全画幅镜头)，用于135胶片相机时，因为成像区域的限制会出现严重的暗角。索尼全幅数码单反可兼容DT镜头，但感光元件面积减少为等同APS-C的尺寸。
+DT镜头是用于Minotla AF/Sony α中APS-C幅面机型使用的专有镜头(除了DT85 2.8是全画幅镜头)，用于135胶片相机时，因为成像区域的限制会出现严重的暗角。索尼全幅数码单反可兼容DT镜头，但感光元件面积减少为等同APS-C的尺寸。
 
 | 镜头名称                         | 镜组结构   | 光圈结构     | 最小光圈    | 最近对焦距离 | 最高放大率  | 滤镜口径 | 尺寸            | 重量   | 发布时间     | 制造商    |
 | ---------------------------- | ------ | -------- | ------- | ------ | ------ | ---- | ------------- | ---- | -------- | ------ |
@@ -144,8 +139,7 @@ DT镜头是用于Minotla AF/Sony α中APS-C幅面机型使用的专有镜头(除
 
 索尼使用了一种较为直观的镜头型号命名方法。以Carl Zeiss Distagon T\* 24mm F/2 ZA广角镜头为例：
 **SAL-**<sub>1</sub>**24**<sub>2</sub>**F20**<sub>3</sub>**Z**<sub>4</sub>
-1.表示索尼α镜头(**S**ony **A**lpha
-**L**ens)，相对地[NEX系列的镜头就是SEL](../Page/索尼E接环.md "wikilink")
+1.表示索尼α镜头(**S**ony **A**lpha **L**ens)，相对地[NEX系列的镜头就是SEL](../Page/索尼E接环.md "wikilink")
 2.表示该镜头焦距是24mm，如果是变焦镜头则没有第三部分。焦距则变为最近和最远焦距。例如SAL-1855
 3.定焦镜头的最大光圈值，去掉小数点。这里表示这枚镜头最大光圈是f/2.0。
 4.镜头的标识，Z为蔡司(**Z**eiss)设计，有优秀的光学素质。G表示Gold是美能达的传统，专业级镜头的标记。（成像优秀，做工细致，价格昂贵）。一般的镜头没有标识。
@@ -196,7 +190,7 @@ DT镜头是用于Minotla AF/Sony α中APS-C幅面机型使用的专有镜头(除
 | 1855                                                                                         | SONY DT 18-55mm F/3.5-5.6                        | 27-82.5     | 0.34   | 7-8        | F/22-36 | 有，2片  | 7    | 210   | 69.5x69 | 55       | 前后镜头盖        | 2009 | 索尼全新设计的DT套装镜头。内置SAM马达和AF/MF拨杆。             |
 | 1870                                                                                         | SONY DT 18-70mm F/3.5-5.6                        | 27-105      | 0.25   | 9-11       | F22-35  | 有，1片  | 7    | 235   | 66x77   | 55       | 前后镜头盖和遮光罩    | 2006 | 重新包装的柯尼卡美能达产品。2009年停产。                     |
 | 18200                                                                                        | SONY DT 18-200mm F/3.5-5.6                       | 27-300      | 0.27   | 13-15      | F/22-40 | 有，3片  | 7    | 405   | 73x85.5 | 62       | 前后镜头盖和遮光罩    | 2006 | 重新包装的柯尼卡美能达产品                              |
-| 18250                                                                                        | SONY DT 18-250mm F/3.5-6.3                       | 27-375      | 0.29   | 13-16      | F22-40  | 有，3片  | 7    | 440   | 75x86   | 62       | 前后镜头盖和遮光罩    | 2007 | 全新索尼镜头，可能由[腾龙生产](../Page/腾龙.md "wikilink") |
+| 18250                                                                                        | SONY DT 18-250mm F/3.5-6.3                       | 27-375      | 0.29   | 13-16      | F22-40  | 有，3片  | 7    | 440   | 75x86   | 62       | 前后镜头盖和遮光罩    | 2007 | 全新索尼镜头，可能由[腾龙](../Page/腾龙.md "wikilink")生产 |
 | 55200-2                                                                                      | SONY DT 55-200mm F/4-5.6                         | 82.5-300    | 0.29   | 9-13       | F32-45  | 无     | 9    | 305   | 71.5x85 | 55       | 前后镜头盖和遮光罩    | 2009 | 对比老版本外观增加一圈银边，添加SAM马达和AF/MF拨杆，其余一样。        |
 | 55200                                                                                        | SONY DT 55-200mm F/4-5.6                         | 82.5-300    | 0.29   | 9-13       | F32-45  | 无     | 9    | 295   | 71.5x85 | 55       | 前后镜头盖和遮光罩    | 2007 | 索尼全新设计。在推出带SAM马达的新产品后停产。                   |
 |                                                                                              |                                                  |             |        |            |         |       |      |       |         |          |              |      |                                            |
@@ -232,42 +226,24 @@ DT镜头是用于Minotla AF/Sony α中APS-C幅面机型使用的专有镜头(除
 
 ## 参见
 
-  - [Minolta AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
-    本条目依附之系统
+  - [Minolta AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink") 本条目依附之系统
   - [SONY α](https://zh.wikipedia.org/wiki/SONY_α "wikilink") 本条目依附之系统
-  - [索尼E卡口镜头列表](../Page/索尼E卡口镜头列表.md "wikilink")
-    为索尼公司推出的数码无反系统，该系统与本条目镜头可实现大部分功能兼容的转接
+  - [索尼E卡口镜头列表](../Page/索尼E卡口镜头列表.md "wikilink") 为索尼公司推出的数码无反系统，该系统与本条目镜头可实现大部分功能兼容的转接
 
 ## 参考与引用
 
 ## 外部链接
 
-  - [交換レンズ互換性情報 | コニカミノルタ製品アフターサービス -
-    株式会社ケンコー](http://www.kenko-tokina.co.jp/konicaminolta/support/compatible/lens/)
-    - kenko/tokina（柯尼卡美能达相机业务终止后，维修业务转交，相关信息页面也转移托管）
-  - [A卡口镜头列表](http://www.sonystyle.com.cn/products/slt/lens/a_mount.htm)
-    — 索尼（中国）
-  - [Minolta
-    AF定焦/微距镜头规格指标](http://www2.xitek.com/info/showarticle.php?page=1&id=485)
-    - 色影无忌
-  - [Minolta AF
-    G系列和增距镜规格指标](http://www2.xitek.com/info/showarticle.php?id=486)
-    - 色影无忌
-  - [Minolta/Konica Minolta/Sony Alpha lens
-    data](http://www.mhohner.de/sony-minolta/lenses.php) - mhohner.de
-  - [索尼生产镜头规格列表](http://kurtmunger.com/sony_lens_chartid223.html) -
-    kurtmunger.com
+  - [交換レンズ互換性情報 | コニカミノルタ製品アフターサービス - 株式会社ケンコー](http://www.kenko-tokina.co.jp/konicaminolta/support/compatible/lens/) - kenko/tokina（柯尼卡美能达相机业务终止后，维修业务转交，相关信息页面也转移托管）
+  - [A卡口镜头列表](http://www.sonystyle.com.cn/products/slt/lens/a_mount.htm) — 索尼（中国）
+  - [Minolta AF定焦/微距镜头规格指标](http://www2.xitek.com/info/showarticle.php?page=1&id=485) - 色影无忌
+  - [Minolta AF G系列和增距镜规格指标](http://www2.xitek.com/info/showarticle.php?id=486) - 色影无忌
+  - [Minolta/Konica Minolta/Sony Alpha lens data](http://www.mhohner.de/sony-minolta/lenses.php) - mhohner.de
+  - [索尼生产镜头规格列表](http://kurtmunger.com/sony_lens_chartid223.html) - kurtmunger.com
 
-[Category:镜头](https://zh.wikipedia.org/wiki/Category:镜头 "wikilink")
-[Category:美能达镜头](https://zh.wikipedia.org/wiki/Category:美能达镜头 "wikilink")
+[Category:镜头](https://zh.wikipedia.org/wiki/Category:镜头 "wikilink") [Category:美能达镜头](https://zh.wikipedia.org/wiki/Category:美能达镜头 "wikilink")
 
-1.  [Minolta
-    Dynax 7xi](http://www2.xitek.com/info/showarticle.php?id=479) — 色影无忌
-2.  [Minolta AF 85/1.4G(D)
-    Limited](http://www2.xitek.com/info/showarticle.php?id=484) - 色影无忌
-3.  [美能达AF 85/1.4(G)D
-    Limited镜头的设计思想与其他镜头的比较](http://www3.xitek.com/xitek-lab/minolta85f14.htm)
-    - 色影无忌
-4.  [Planar T\* 50mm F1.4 ZA SSM
-    (SAL50F14Z)](http://www.sonystyle.com.cn/products/slt/lens/sal50f14z.htm)
-    SONY Style
+1.  [Minolta Dynax 7xi](http://www2.xitek.com/info/showarticle.php?id=479) — 色影无忌
+2.  [Minolta AF 85/1.4G(D) Limited](http://www2.xitek.com/info/showarticle.php?id=484) - 色影无忌
+3.  [美能达AF 85/1.4(G)D Limited镜头的设计思想与其他镜头的比较](http://www3.xitek.com/xitek-lab/minolta85f14.htm) - 色影无忌
+4.  [Planar T\* 50mm F1.4 ZA SSM (SAL50F14Z)](http://www.sonystyle.com.cn/products/slt/lens/sal50f14z.htm) SONY Style

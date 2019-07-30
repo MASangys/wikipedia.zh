@@ -46,9 +46,4 @@
   -   - 「Eternal」Music Video
       - 「Eternal」夾克 ＆ Music Video 撮影構成影像
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:赤西仁歌曲](https://zh.wikipedia.org/wiki/Category:赤西仁歌曲 "wikilink")
-[Category:2011年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:赤西仁歌曲](https://zh.wikipedia.org/wiki/Category:赤西仁歌曲 "wikilink") [Category:2011年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲月榜冠軍作品 "wikilink") [Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink") [Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")

@@ -1,11 +1,8 @@
-**NKO☆Lovers\!\!**（）是以[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[京都及](../Page/京都.md "wikilink")[大阪為據點活動的](https://zh.wikipedia.org/wiki/大阪 "wikilink")[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")。
+**NKO☆Lovers\!\!**（）是以[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[京都](../Page/京都.md "wikilink")及[大阪為據點活動的](https://zh.wikipedia.org/wiki/大阪 "wikilink")[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")。
 
 ## 概要
 
-以名古屋為據點活動的[Barbie
-Lips](https://zh.wikipedia.org/wiki/Barbie_Lips "wikilink")(N)京都為據點活動的[Piminy](https://zh.wikipedia.org/wiki/Piminy "wikilink")(K)大阪為據點活動的[Mary
-Angel](https://zh.wikipedia.org/wiki/Mary_Angel "wikilink")(O)的成員組成。
-以[西日本為中心在](https://zh.wikipedia.org/wiki/西日本 "wikilink")[首都圈等地區正進行著LIVE](../Page/首都圈.md "wikilink")。
+以名古屋為據點活動的[Barbie Lips](https://zh.wikipedia.org/wiki/Barbie_Lips "wikilink")(N)京都為據點活動的[Piminy](https://zh.wikipedia.org/wiki/Piminy "wikilink")(K)大阪為據點活動的[Mary Angel](https://zh.wikipedia.org/wiki/Mary_Angel "wikilink")(O)的成員組成。 以[西日本為中心在](https://zh.wikipedia.org/wiki/西日本 "wikilink")[首都圈](../Page/首都圈.md "wikilink")等地區正進行著LIVE。
 
 ## 成員
 
@@ -32,7 +29,7 @@ Angel](https://zh.wikipedia.org/wiki/Mary_Angel "wikilink")(O)的成員組成。
 ### 單曲
 
 1.  **キュンと大好き！**(2011年8月17日)
-    1.  キュンと大好き！(NKO☆Lovers\!\!)([もっと熱いぞ\!猫ヶ谷\!\!](https://zh.wikipedia.org/wiki/もっと熱いぞ!猫ヶ谷!! "wikilink")[名古屋電視台片尾曲](../Page/名古屋電視台.md "wikilink"))
+    1.  キュンと大好き！(NKO☆Lovers\!\!)([もっと熱いぞ\!猫ヶ谷\!\!](https://zh.wikipedia.org/wiki/もっと熱いぞ!猫ヶ谷!! "wikilink")[名古屋電視台](../Page/名古屋電視台.md "wikilink")片尾曲)
     2.  マイライフ　マイペース(Barbie Lips)
     3.  ミラクルなんて信じない (Piminy)
     4.  Forever Light (Mary Angel)
@@ -51,10 +48,8 @@ Angel](https://zh.wikipedia.org/wiki/Mary_Angel "wikilink")(O)的成員組成。
 ### 廣播
 
   - お昼のレコード室　[ぎふチャン](../Page/岐阜放送.md "wikilink")（2011年8月25日）
-  - EVENING
-    TRIPPER　[Radio80](https://zh.wikipedia.org/wiki/岐阜FM "wikilink")（2011年8月25日）
-  - FM
-    トワイライト　[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM放送 "wikilink")（2011年9月16日放送區域：愛知・三重・岐阜・静岡・福井・石川・富山）
+  - EVENING TRIPPER　[Radio80](https://zh.wikipedia.org/wiki/岐阜FM "wikilink")（2011年8月25日）
+  - FM トワイライト　[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM放送 "wikilink")（2011年9月16日放送區域：愛知・三重・岐阜・静岡・福井・石川・富山）
 
 ## 外部链接
 
@@ -69,6 +64,4 @@ Angel](https://zh.wikipedia.org/wiki/Mary_Angel "wikilink")(O)的成員組成。
   - [Piminy官方部落格](https://web.archive.org/web/20110519141154/http://kyoto.ugoclip.tv/piminy/)
   - [Mary Angel官方部落格](http://blog.livedoor.jp/maryangel/)
 
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink")
+[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink")

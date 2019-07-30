@@ -1,8 +1,4 @@
-**Black Veil
-Brides**是一個[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[重金屬樂團](https://zh.wikipedia.org/wiki/重金屬 "wikilink")，成軍於[加州好萊塢](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")。成員有主唱Andy
-Biersack、貝斯手Ashley Purdy、吉他手 Jake Pitts吉他兼小提琴手Jinxx與鼓手Christian "CC"
-Coma。Black Veil
-Brides以他們迥然不同的裝扮著名，這種裝扮是受[Kiss樂團所激發的](../Page/Kiss合唱團.md "wikilink")，他是一個美國80年代的[華麗金屬樂團](../Page/華麗金屬.md "wikilink")。
+**Black Veil Brides**是一個[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[重金屬樂團](https://zh.wikipedia.org/wiki/重金屬 "wikilink")，成軍於[加州好萊塢](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")。成員有主唱Andy Biersack、貝斯手Ashley Purdy、吉他手 Jake Pitts吉他兼小提琴手Jinxx與鼓手Christian "CC" Coma。Black Veil Brides以他們迥然不同的裝扮著名，這種裝扮是受[Kiss樂團所激發的](../Page/Kiss合唱團.md "wikilink")，他是一個美國80年代的[華麗金屬](../Page/華麗金屬.md "wikilink")樂團。
 
 ## 樂團成員
 
@@ -10,19 +6,10 @@ Brides以他們迥然不同的裝扮著名，這種裝扮是受[Kiss樂團所激
 
 <!-- end list -->
 
-  - Andy Biersack – [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink"),
-    [鍵盤手](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink")
-    <small>(自2006)</small>;
-    [貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")
-    <small>(2006)</small>
-  - Christian "Coma" Mora –
-    [鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")
-    <small>(自2006)</small>
-  - Jinxx –
-    [小提琴手](../Page/小提琴.md "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[和聲](../Page/和聲歌手.md "wikilink")
-    <small>(since 2006)</small>
-  - Jake Pitts – [吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")
-    <small>(since 2006)</small>
+  - Andy Biersack – [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink"), [鍵盤手](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink") <small>(自2006)</small>; [貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink") <small>(2006)</small>
+  - Christian "Coma" Mora – [鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink") <small>(自2006)</small>
+  - Jinxx – [小提琴](../Page/小提琴.md "wikilink")手、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[和聲](../Page/和聲歌手.md "wikilink") <small>(since 2006)</small>
+  - Jake Pitts – [吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink") <small>(since 2006)</small>
   - Ashley Purdy – 貝斯手、和聲 <small>(since 2006)</small>
 
 <!-- end list -->
@@ -156,13 +143,10 @@ Brides以他們迥然不同的裝扮著名，這種裝扮是受[Kiss樂團所激
 
 ## 站外連結
 
-  - [Official
-    website](https://web.archive.org/web/20101117200606/http://www.bvbarmy.com/)
+  - [Official website](https://web.archive.org/web/20101117200606/http://www.bvbarmy.com/)
 
   -
   -
-[Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink")
-[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
+[Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink") [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
 
-1.  ["The Legacy" Music
-    Video](http://www.youtube.com/watch?v=G7gAn_b4prw)
+1.  ["The Legacy" Music Video](http://www.youtube.com/watch?v=G7gAn_b4prw)

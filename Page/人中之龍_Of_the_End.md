@@ -1,5 +1,4 @@
-是由[世嘉所製作發行於](../Page/世嘉.md "wikilink")[PlayStation
-3平台的人中之龍系列作之外傳](../Page/PlayStation_3.md "wikilink")[動作冒險](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")[第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/第三人稱射擊 "wikilink")，原預計於2011年3月17日發售。但因為遭遇[東北地方太平洋近海地震](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，而宣佈延期並且在2011年6月9日發售\[1\]。
+是由[世嘉](../Page/世嘉.md "wikilink")所製作發行於[PlayStation 3平台的人中之龍系列作之外傳](../Page/PlayStation_3.md "wikilink")[動作冒險](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")[第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/第三人稱射擊 "wikilink")，原預計於2011年3月17日發售。但因為遭遇[東北地方太平洋近海地震](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，而宣佈延期並且在2011年6月9日發售\[1\]。
 
 ## 概要
 
@@ -44,14 +43,6 @@
 
   - [人中之龍 OF THE END 官方網站](http://ryu-ga-gotoku.com/newproject/)
 
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:人中之龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:人中之龍系列電子遊戲 "wikilink")
-[Category:PlayStation_3獨佔遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3獨佔遊戲 "wikilink")
-[Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink")
-[Category:喪屍遊戲](https://zh.wikipedia.org/wiki/Category:喪屍遊戲 "wikilink")
-[Category:第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:第三人稱射擊遊戲 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:有組織犯罪遊戲](https://zh.wikipedia.org/wiki/Category:有組織犯罪遊戲 "wikilink")
-[Category:微生物題材作品](https://zh.wikipedia.org/wiki/Category:微生物題材作品 "wikilink")
+[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:人中之龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:人中之龍系列電子遊戲 "wikilink") [Category:PlayStation_3獨佔遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3獨佔遊戲 "wikilink") [Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink") [Category:喪屍遊戲](https://zh.wikipedia.org/wiki/Category:喪屍遊戲 "wikilink") [Category:第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:第三人稱射擊遊戲 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:有組織犯罪遊戲](https://zh.wikipedia.org/wiki/Category:有組織犯罪遊戲 "wikilink") [Category:微生物題材作品](https://zh.wikipedia.org/wiki/Category:微生物題材作品 "wikilink")
 
 1.  <http://ryu-ga-gotoku.com/news/detail/405.html>

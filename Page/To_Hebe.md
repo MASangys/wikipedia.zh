@@ -1,19 +1,14 @@
-《**To
-Hebe**》，台灣女子團體[S.H.E成員](../Page/S.H.E.md "wikilink")[田馥甄的首張個人專輯](../Page/田馥甄.md "wikilink")，2010年9月3日發行。專輯分為限量預購版與正式發行版，限量預購版附贈《330音樂田
-生日會精華DVD》正式發行版則無附贈。
+《**To Hebe**》，台灣女子團體[S.H.E](../Page/S.H.E.md "wikilink")成員[田馥甄](../Page/田馥甄.md "wikilink")的首張個人專輯，2010年9月3日發行。專輯分為限量預購版與正式發行版，限量預購版附贈《330音樂田 生日會精華DVD》正式發行版則無附贈。
 
 ## 專輯銷量
 
-以單版不改版成為2010年台灣年度唱片銷量第5位，總銷售量為5萬張。\[1\]2010年10月，舉辦《Love\!田馥甄To
-Hebe音樂會》巡迴，地點包括台北三場，和香港、新加坡、北京及上海各一場。2010年12月3日發行《Love\!
-田馥甄To Hebe影音館DVD》。
+以單版不改版成為2010年台灣年度唱片銷量第5位，總銷售量為5萬張。\[1\]2010年10月，舉辦《Love\!田馥甄To Hebe音樂會》巡迴，地點包括台北三場，和香港、新加坡、北京及上海各一場。2010年12月3日發行《Love\! 田馥甄To Hebe影音館DVD》。
 
 ## 專輯評價
 
 此專輯被[HitFm聯播網評選為](../Page/台北之音.md "wikilink")「2010年度值得推薦十大專輯」和「2010年十大必聽與推薦收藏專輯」，獲得HitFm聯播網DJ群一致推薦。HitFm節目經理表示：「Hebe的專輯將主流與非主流音樂融合，找到了很好的平衡點，並以獨特的田氏唱腔詮釋出不一樣的味道。」\[2\]
 
-2011年5月，《To
-Hebe》入圍[第22屆金曲獎四項](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")，包括最佳國語專輯、單曲製作人、專輯包裝及音樂錄影帶；最後以〈寂寞寂寞就好〉MV獲[最佳音樂錄影帶獎](../Page/最佳音樂錄影帶獎_\(金曲獎\).md "wikilink")、《Love\!》的製作人王治平獲頒[最佳單曲製作人獎](../Page/最佳單曲製作人獎_\(金曲獎\).md "wikilink")。
+2011年5月，《To Hebe》入圍[第22屆金曲獎四項](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")，包括最佳國語專輯、單曲製作人、專輯包裝及音樂錄影帶；最後以〈寂寞寂寞就好〉MV獲[最佳音樂錄影帶獎](../Page/最佳音樂錄影帶獎_\(金曲獎\).md "wikilink")、《Love\!》的製作人王治平獲頒[最佳單曲製作人獎](../Page/最佳單曲製作人獎_\(金曲獎\).md "wikilink")。
 
 ## 唱片版本
 
@@ -148,9 +143,7 @@ Hebe》入圍[第22屆金曲獎四項](https://zh.wikipedia.org/wiki/第22屆金
 
 **330音樂田 生日會精華DVD**
 
-  - 預購
-    [田馥甄](../Page/田馥甄.md "wikilink")（[Hebe](https://zh.wikipedia.org/wiki/Hebe "wikilink")）的《To
-    Hebe》專輯（2010年9月3日發行）預購專輯附送的《330音樂田》音樂生日會精華DVD
+  - 預購 [田馥甄](../Page/田馥甄.md "wikilink")（[Hebe](https://zh.wikipedia.org/wiki/Hebe "wikilink")）的《To Hebe》專輯（2010年9月3日發行）預購專輯附送的《330音樂田》音樂生日會精華DVD
       - 收錄：
 
 <!-- end list -->
@@ -253,29 +246,24 @@ Hebe》入圍[第22屆金曲獎四項](https://zh.wikipedia.org/wiki/第22屆金
 
   -
     日期：2010年10月8日至10月10日（三場）
-    地點：[華山創意文化園區](https://zh.wikipedia.org/wiki/華山創意文化園區 "wikilink")「Legacy
-    Taipei傳」音樂展演空間
+    地點：[華山創意文化園區](https://zh.wikipedia.org/wiki/華山創意文化園區 "wikilink")「Legacy Taipei傳」音樂展演空間
     嘉賓：[Selina](../Page/任家萱.md "wikilink")（10/10場）
-    註：專輯發行一個月後，舉辦三場小型演唱會，觀眾共計3000餘人，三場音樂會皆滿，創下「Legacy
-    Taipei傳」音樂展演空間創辦以來連唱最多場、觀看人數最多的紀錄。影音收錄於2010年12月3日發行的《Love\!
-    田馥甄To Hebe》影音館及DVD）。
+    註：專輯發行一個月後，舉辦三場小型演唱會，觀眾共計3000餘人，三場音樂會皆滿，創下「Legacy Taipei傳」音樂展演空間創辦以來連唱最多場、觀看人數最多的紀錄。影音收錄於2010年12月3日發行的《Love\! 田馥甄To Hebe》影音館及DVD）。
 
 <!-- end list -->
 
-  - Love\!To Hebe音樂會【[香港站](../Page/香港.md "wikilink")】
+  - Love\!To Hebe音樂會【[香港](../Page/香港.md "wikilink")站】
 
 <!-- end list -->
 
   -
     日期：2010年11月6日
-    地點：[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")[匯星Star
-    Hall](https://zh.wikipedia.org/wiki/匯星 "wikilink")
-    註：特別獻唱[詹姆仕·布朗特的](../Page/詹姆仕·布朗特.md "wikilink")《You're
-    Beautiful》時，加上[Selina的相片動畫背景](../Page/任家萱.md "wikilink")，為在接受灼傷治療的Selina祈禱
+    地點：[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")[匯星Star Hall](https://zh.wikipedia.org/wiki/匯星 "wikilink")
+    註：特別獻唱[詹姆仕·布朗特](../Page/詹姆仕·布朗特.md "wikilink")的《You're Beautiful》時，加上[Selina的相片動畫背景](../Page/任家萱.md "wikilink")，為在接受灼傷治療的Selina祈禱
 
 <!-- end list -->
 
-  - Love\!To Hebe音樂會【[新加坡站](../Page/新加坡.md "wikilink")】
+  - Love\!To Hebe音樂會【[新加坡](../Page/新加坡.md "wikilink")站】
 
 <!-- end list -->
 
@@ -308,8 +296,7 @@ Hebe》入圍[第22屆金曲獎四項](https://zh.wikipedia.org/wiki/第22屆金
 
 ## 其他作品
 
-|width=30% align=center|**上一張專輯：** |width=20% align=center
-colspan="2"|**首張專輯**
+|width=30% align=center|**上一張專輯：** |width=20% align=center colspan="2"|**首張專輯**
 **To Hebe**
 2010年9月3日 |width=30% align=center|**下一張專輯：**
 *[My Love](../Page/My_Love_\(田馥甄專輯\).md "wikilink")*
@@ -321,15 +308,10 @@ colspan="2"|**首張專輯**
 
 ## 參考資料
 
-[Category:田馥甄音乐专辑](https://zh.wikipedia.org/wiki/Category:田馥甄音乐专辑 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:华研国际音乐音乐专辑](https://zh.wikipedia.org/wiki/Category:华研国际音乐音乐专辑 "wikilink")
+[Category:田馥甄音乐专辑](https://zh.wikipedia.org/wiki/Category:田馥甄音乐专辑 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:华研国际音乐音乐专辑](https://zh.wikipedia.org/wiki/Category:华研国际音乐音乐专辑 "wikilink")
 
-1.  [年度唱片銷量 小豬15.5萬張 首度踹下雙J
-    登基唱銷王](http://tw.nextmedia.com/applenews/article/art_id/33025619/IssueID/20101210)
+1.  [年度唱片銷量 小豬15.5萬張 首度踹下雙J 登基唱銷王](http://tw.nextmedia.com/applenews/article/art_id/33025619/IssueID/20101210)
 2.
 3.  Love？(官方動畫版MV)
 4.  [寂寞寂寞就好(HQ 官方版MV)](http://www.youtube.com/watch?v=DyFIzKYQQYE)
-5.  [田馥甄 - To Hebe (HQ
-    官方版MV)](http://www.youtube.com/watch?v=Y-l8vok_tUE)
+5.  [田馥甄 - To Hebe (HQ 官方版MV)](http://www.youtube.com/watch?v=Y-l8vok_tUE)

@@ -1,5 +1,4 @@
-以下列出已正式公佈的[任天堂](../Page/任天堂.md "wikilink")[Wii
-U電玩主機遊戲軟體](../Page/Wii_U.md "wikilink")。
+以下列出已正式公佈的[任天堂](../Page/任天堂.md "wikilink")[Wii U電玩主機遊戲軟體](../Page/Wii_U.md "wikilink")。
 
 ## 遊戲列表
 
@@ -217,7 +216,7 @@ U電玩主機遊戲軟體](../Page/Wii_U.md "wikilink")。
 <td><p>2016年3月4日</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="../Page/质量效应3.md" title="wikilink">质量效应3：特别版</a>》</p></td>
+<td><p>《<a href="../Page/质量效应3.md" title="wikilink">质量效应3</a>：特别版》</p></td>
 <td><p><em>Mass Effect 3: Special Edition</em></p></td>
 <td><p><a href="../Page/BioWare.md" title="wikilink">BioWare</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EA" title="wikilink">EA</a></p></td>
@@ -385,21 +384,18 @@ U電玩主機遊戲軟體](../Page/Wii_U.md "wikilink")。
 ### 當前遊戲主機世代
 
   - [Xbox One遊戲列表](../Page/Xbox_One遊戲列表.md "wikilink")
-  - [PlayStation
-    4遊戲列表](https://zh.wikipedia.org/wiki/PlayStation_4遊戲列表 "wikilink")
+  - [PlayStation 4遊戲列表](https://zh.wikipedia.org/wiki/PlayStation_4遊戲列表 "wikilink")
   - [任天堂Switch遊戲列表](https://zh.wikipedia.org/wiki/任天堂Switch遊戲列表 "wikilink")
 
 ## 資料來源
 
 ## 外部連結
 
-  - [Nintendo Network @
-    E3 2011](https://web.archive.org/web/20110615142730/http://e3.nintendo.com/hw/)
+  - [Nintendo Network @ E3 2011](https://web.archive.org/web/20110615142730/http://e3.nintendo.com/hw/)
   - [任天堂日本](http://www.nintendo.co.jp/)
   - [任天堂美國](http://www.nintendo.com/)
 
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
-[Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink")
+[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-《**Stamp
-Out**》为[Monoceros公司于](https://zh.wikipedia.org/wiki/Monoceros "wikilink")2005年6月30日发售的PC用女性向18禁[BL游戏作品](https://zh.wikipedia.org/wiki/BL游戏 "wikilink")。冒险、悬疑向。
+《**Stamp Out**》为[Monoceros公司于](https://zh.wikipedia.org/wiki/Monoceros "wikilink")2005年6月30日发售的PC用女性向18禁[BL游戏作品](https://zh.wikipedia.org/wiki/BL游戏 "wikilink")。冒险、悬疑向。
 
 ## 登场人物
 
@@ -72,5 +71,4 @@ ZAT队长，主人公仰慕、憧憬的前辈。
 
 [分类:BL遊戲](https://zh.wikipedia.org/wiki/分类:BL遊戲 "wikilink")
 
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")

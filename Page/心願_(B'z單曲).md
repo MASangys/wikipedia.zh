@@ -1,11 +1,10 @@
-《**心願**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z的第](../Page/B'z.md "wikilink")16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1995年5月31日發行。
+《**心願**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")的第16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1995年5月31日發行。
 
 ## 簡介
 
-是B'z首張用[平假名命名的單曲](../Page/平假名.md "wikilink")（之後再用平假名命名的單曲，只有2006年發行的[唯一絕不動搖的東西](../Page/唯一絕不動搖的東西.md "wikilink")），亦是[B+U+M解散後發行首張音樂作品](https://zh.wikipedia.org/wiki/B+U+M "wikilink")。
+是B'z首張用[平假名](../Page/平假名.md "wikilink")命名的單曲（之後再用平假名命名的單曲，只有2006年發行的[唯一絕不動搖的東西](../Page/唯一絕不動搖的東西.md "wikilink")），亦是[B+U+M解散後發行首張音樂作品](https://zh.wikipedia.org/wiki/B+U+M "wikilink")。
 
-只有這張和[love me, I love
-you單曲使用蜜蜂尾部造型的B](https://zh.wikipedia.org/wiki/love_me,_I_love_you "wikilink")'z標誌。
+只有這張和[love me, I love you單曲使用蜜蜂尾部造型的B](https://zh.wikipedia.org/wiki/love_me,_I_love_you "wikilink")'z標誌。
 
 包括這張單曲在內，B'z已經連續五張單曲出動銷量超過70萬張，是1995年度日本單曲銷量第13位。\[1\]
 
@@ -50,25 +49,14 @@ you單曲使用蜜蜂尾部造型的B](https://zh.wikipedia.org/wiki/love_me,_I_
 
 ## 收录此单曲的专辑
 
-  - 《[LOOSE](https://zh.wikipedia.org/wiki/LOOSE_\(B'z專輯\) "wikilink")》（\#1、"BUZZ\!\!"
-    STYLE）
-  - 《[B'z The Best
-    "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")》（\#1）
-  - 《[B'z The
-    "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")》（\#2、Mixture
-    mix）
-  - 《[B'z The Best "ULTRA
-    Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")》（\#1）
-  - 《[B'z The Best "ULTRA
-    Treasure"](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")》（\#2）
+  - 《[LOOSE](https://zh.wikipedia.org/wiki/LOOSE_\(B'z專輯\) "wikilink")》（\#1、"BUZZ\!\!" STYLE）
+  - 《[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")》（\#1）
+  - 《[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")》（\#2、Mixture mix）
+  - 《[B'z The Best "ULTRA Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")》（\#1）
+  - 《[B'z The Best "ULTRA Treasure"](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")》（\#2）
 
 ## 參考資料
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:1995年單曲](https://zh.wikipedia.org/wiki/Category:1995年單曲 "wikilink")
-[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
-[Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink")
-[Category:1995年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1995年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:1995年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1995年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:1995年單曲](https://zh.wikipedia.org/wiki/Category:1995年單曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:1995年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1995年Oricon單曲月榜冠軍作品 "wikilink") [Category:1995年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1995年Oricon單曲週榜冠軍作品 "wikilink")
 
 1.

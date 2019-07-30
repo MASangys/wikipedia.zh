@@ -6,8 +6,7 @@
 
 ## 大碟概念
 
-十首歌曲，十個有關「緩慢」的處境。 有些事物，即使你不太留意，也能給你官能刺激。 有些東西，則須要你打開心扉，讓它觸動你的靈魂。
-緩慢是後者，希望聽眾能放緩步伐，放下屠刀，敞開心扉，讓歌曲按摩心靈繃結，重新思考自己的生活態度。
+十首歌曲，十個有關「緩慢」的處境。 有些事物，即使你不太留意，也能給你官能刺激。 有些東西，則須要你打開心扉，讓它觸動你的靈魂。 緩慢是後者，希望聽眾能放緩步伐，放下屠刀，敞開心扉，讓歌曲按摩心靈繃結，重新思考自己的生活態度。
 
 ## 音樂錄像帶
 
@@ -33,13 +32,8 @@
 
 ## 參考
 
-  - [搜狐音乐 - 谢安琪新专辑造型惊艳
-    源自冰国心灵之旅](http://music.yule.sohu.com/20091222/n269116173.shtml)
-  - [搜狐音乐 -
-    谢安琪《SLOWNESS》：沾了王菲的冷艳](http://music.yule.sohu.com/20091223/n269162091.shtml)
-  - [网易娱乐 -
-    谢安琪《Slowness》：换一个角度审视生活](http://ent.163.com/10/0106/15/5SBRI1V1000300C3.html)
+  - [搜狐音乐 - 谢安琪新专辑造型惊艳 源自冰国心灵之旅](http://music.yule.sohu.com/20091222/n269116173.shtml)
+  - [搜狐音乐 - 谢安琪《SLOWNESS》：沾了王菲的冷艳](http://music.yule.sohu.com/20091223/n269162091.shtml)
+  - [网易娱乐 - 谢安琪《Slowness》：换一个角度审视生活](http://ent.163.com/10/0106/15/5SBRI1V1000300C3.html)
 
-[Category:謝安琪音樂專輯](https://zh.wikipedia.org/wiki/Category:謝安琪音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:謝安琪音樂專輯](https://zh.wikipedia.org/wiki/Category:謝安琪音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

@@ -1,6 +1,4 @@
-**新SD高達外傳
-黃金神話**是SD高達外傳第六作，以「[機動武鬥傳G高達](https://zh.wikipedia.org/wiki/機動武鬥傳G高達 "wikilink")」為主要角色藍本。本作最大特色，是出現於各章的超越之龍，與黃金龍結合成巨大黃金神。（同年於[SD戰國傳
-超機動大將軍編中出現的](https://zh.wikipedia.org/wiki/SD戰國傳_超機動大將軍編 "wikilink")「超機動大將軍」，組合方式同樣是將SD角色結合MS機身。）
+**新SD高達外傳 黃金神話**是SD高達外傳第六作，以「[機動武鬥傳G高達](https://zh.wikipedia.org/wiki/機動武鬥傳G高達 "wikilink")」為主要角色藍本。本作最大特色，是出現於各章的超越之龍，與黃金龍結合成巨大黃金神。（同年於[SD戰國傳 超機動大將軍編中出現的](https://zh.wikipedia.org/wiki/SD戰國傳_超機動大將軍編 "wikilink")「超機動大將軍」，組合方式同樣是將SD角色結合MS機身。）
 
 本作的藍本是來自[戰士高迪安以及](https://zh.wikipedia.org/wiki/戰士高迪安 "wikilink")[魔神英雄傳](../Page/魔神英雄傳.md "wikilink")。
 
@@ -37,8 +35,7 @@
 
 繼承超越之龍靈魂的五名人類及五名MS族成員，成為五對彼此性格相反的組合，擁有名為「ユナイト」的特殊能力，令MS族變成由人類操縱的機兵。
 
-**騎士閃光高達/裝光騎士キングシャイン/超光騎士バトルシャイン**(騎士シャインガンダム/装光騎士<パワードナイト>キングシャイン/超光騎士<ハイパーナイト>バトルシャイン(SHINING
-GUNDAM))—元祖SD.0063
+**騎士閃光高達/裝光騎士キングシャイン/超光騎士バトルシャイン**(騎士シャインガンダム/装光騎士<パワードナイト>キングシャイン/超光騎士<ハイパーナイト>バトルシャイン(SHINING GUNDAM))—元祖SD.0063
 
   -
     愛好喧嘩熱鬧的騎士，奉行與自己利益無關而不為的利己主義。漫畫版中則有著冷淡的性格，以拉古羅亞被殺士兵的劍為武器，對於騎士的身份相當驕傲。最初以多蒙未夠成熟而輕視他，後來在絕地中，多蒙發揮真正力量，才獲得他承認為拍檔。
@@ -46,8 +43,7 @@ GUNDAM))—元祖SD.0063
 <!-- end list -->
 
   -
-    騎士閃光高達的組合方式，是先與機兵超光騎士結合，變成裝光騎士頭部，同時座駕裝光機變成身體，兩者結合而成為戰神機。合體原理是來自「變形金剛
-    頭領戰士」。
+    騎士閃光高達的組合方式，是先與機兵超光騎士結合，變成裝光騎士頭部，同時座駕裝光機變成身體，兩者結合而成為戰神機。合體原理是來自「變形金剛 頭領戰士」。
 
 **騎士多蒙**(騎士ドモン)
 
@@ -64,8 +60,7 @@ GUNDAM))—元祖SD.0063
   -
     龍高達的弟子。
 
-**劍士玫瑰高達**(剣士ローズガンダム（[Rose
-Gundam](https://zh.wikipedia.org/wiki/Rose_Gundam "wikilink")）)
+**劍士玫瑰高達**(剣士ローズガンダム（[Rose Gundam](https://zh.wikipedia.org/wiki/Rose_Gundam "wikilink")）)
 
   -
     メビウス共和國的劍士。
@@ -75,8 +70,7 @@ Gundam](https://zh.wikipedia.org/wiki/Rose_Gundam "wikilink")）)
   -
     メビウス共和國的劍士。
 
-'''鬥士美國之星高達(闘士マックスガンダム、[Gundam
-Maxter](https://zh.wikipedia.org/wiki/Gundam_Maxter "wikilink")）
+'''鬥士美國之星高達(闘士マックスガンダム、[Gundam Maxter](https://zh.wikipedia.org/wiki/Gundam_Maxter "wikilink")）
 
   -
     カービィ王國的鬥士。
@@ -86,8 +80,7 @@ Maxter](https://zh.wikipedia.org/wiki/Gundam_Maxter "wikilink")）
   -
     美國之星的同伴。
 
-**重戰士金剛石高達**（重戰士ボルトガンダム、[Bolt
-Gundam](https://zh.wikipedia.org/wiki/Bolt_Gundam "wikilink")）
+**重戰士金剛石高達**（重戰士ボルトガンダム、[Bolt Gundam](https://zh.wikipedia.org/wiki/Bolt_Gundam "wikilink")）
 
   -
     被控制面加入デスペリオル族的戰士，在戰士阿爾戈的呼喚下才再次覺醒。漫畫版中是出賊出身，原本仕奉ミリティア王國、後來才成為デスペリオル族成員。與阿爾戈猶如親人一樣密切。
@@ -108,23 +101,20 @@ Gundam](https://zh.wikipedia.org/wiki/Bolt_Gundam "wikilink")）
   -
     獲得魔龍機惡魔龍騎兵邪惡力量的異能戰士，成員全部以美國英雄漫畫、以及[X-Men角色為藍本](https://zh.wikipedia.org/wiki/變種特攻 "wikilink")。
 
-**異能戰士RF老虎**(異能戦士RFグ)/RF Gouf +
-[蜘蛛俠](https://zh.wikipedia.org/wiki/蜘蛛俠 "wikilink")
+**異能戰士RF老虎**(異能戦士RFグ)/RF Gouf + [蜘蛛俠](https://zh.wikipedia.org/wiki/蜘蛛俠 "wikilink")
 
   -
     異能戰士之一，行動敏捷，可操縱黏性極強、用途廣泛的蜘蛛絲攻擊
 
 **異能戰士突擊亞克托．德卡(異能戦士ストライクギラドーガ)異能戦士ストライクギラドーガ)**/亞克托．德卡+[石頭人](../Page/石頭人.md "wikilink")
 
-**異能戰士葛索拿**(異能戦士ゴッゾーラ)/
-[葛索拿](https://zh.wikipedia.org/wiki/ZMT-S13G "wikilink")+[狼人](../Page/金鋼狼.md "wikilink")
+**異能戰士葛索拿**(異能戦士ゴッゾーラ)/ [葛索拿](https://zh.wikipedia.org/wiki/ZMT-S13G "wikilink")+[狼人](../Page/金鋼狼.md "wikilink")
 
 **異能戰士野蒜夏克**(異能戦士ノビルシャッコー)/夏克+[神奇先生](../Page/神奇先生.md "wikilink")
 
 **異能戰士圓珠佐利迪克(異能戦士オプトゾリティア)**/[佐利迪克](https://zh.wikipedia.org/wiki/ZM-S06G "wikilink")+[鐳射眼](https://zh.wikipedia.org/wiki/變種特攻 "wikilink")
 
-**異能戰士Ice
-Bomber**(異能戦士アイスボマー)/伊弗利特+[冰凍人](https://zh.wikipedia.org/wiki/變種特攻 "wikilink")
+**異能戰士Ice Bomber**(異能戦士アイスボマー)/伊弗利特+[冰凍人](https://zh.wikipedia.org/wiki/變種特攻 "wikilink")
 
 **異能戰士野獸戰蟹**(異能戦士ワイルドゴッグ)/[戰蟹](https://zh.wikipedia.org/wiki/MSM-03 "wikilink")+[劍齒虎](https://zh.wikipedia.org/wiki/變種特攻 "wikilink")
 
@@ -139,8 +129,7 @@ Bomber**(異能戦士アイスボマー)/伊弗利特+[冰凍人](https://zh.wik
 
 ## 參考書目
 
-  - 單行本「SD高達外傳
-    黃金神話」（[ほしの竜一著](https://zh.wikipedia.org/wiki/ほしの竜一 "wikilink")）
+  - 單行本「SD高達外傳 黃金神話」（[ほしの竜一著](https://zh.wikipedia.org/wiki/ほしの竜一 "wikilink")）
 
 <!-- end list -->
 
@@ -154,6 +143,4 @@ Bomber**(異能戦士アイスボマー)/伊弗利特+[冰凍人](https://zh.wik
 
 [SD GUNDAM外傳 圓桌騎士編](../Page/SD_GUNDAM外傳_圓桌騎士編.md "wikilink")
 
-[Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink")
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:1995年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1995年日本劇場動畫 "wikilink")
+[Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:1995年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1995年日本劇場動畫 "wikilink")

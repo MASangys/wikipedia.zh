@@ -1,26 +1,12 @@
-***Gravity***
-是[爱尔兰流行乐队](../Page/北爱尔兰.md "wikilink")[西城男孩的第十一张专辑](../Page/西城男孩.md "wikilink")。
-它于2010年11月22日在[英国通过](https://zh.wikipedia.org/wiki/英国 "wikilink")[Syco
-Music](https://zh.wikipedia.org/wiki/Syco#Syco_Music "wikilink"), [RCA
-Records](https://zh.wikipedia.org/wiki/RCA_Records "wikilink"),和[Sony
-Music发布](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")。 [John
-Shanks](https://zh.wikipedia.org/wiki/John_Shanks "wikilink")
-是这个专辑的制作人。[Simon
-Cowell是这张专辑的监制](https://zh.wikipedia.org/wiki/Simon_Cowell "wikilink")。
+***Gravity*** 是[爱尔兰流行乐队](../Page/北爱尔兰.md "wikilink")[西城男孩](../Page/西城男孩.md "wikilink")的第十一张专辑。 它于2010年11月22日在[英国通过](https://zh.wikipedia.org/wiki/英国 "wikilink")[Syco Music](https://zh.wikipedia.org/wiki/Syco#Syco_Music "wikilink"), [RCA Records](https://zh.wikipedia.org/wiki/RCA_Records "wikilink"),和[Sony Music发布](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")。 [John Shanks](https://zh.wikipedia.org/wiki/John_Shanks "wikilink") 是这个专辑的制作人。[Simon Cowell是这张专辑的监制](https://zh.wikipedia.org/wiki/Simon_Cowell "wikilink")。
 
 ## 歌曲列表
 
-該專集確認的第一首单曲是《Safe》，于專集發布前一星期發布。2010年10月20日，專集製作人透露了包含于該專集內的四首歌曲的標題，即《Closer》、《No
-One's Gonna Sleep Tonight》、《Tell Me I'm
-Dreaming》以及《Weak》。\[1\]10月25日，Feehily在他的官方推特頁面上公開了如下列出的歌曲列表。\[2\]\[3\]11月2日，該專集中每首歌各30秒的片段在
-[Amazon.co.uk放出](https://zh.wikipedia.org/wiki/Amazon.co.uk "wikilink")。\[4\]11月5日，“In
-Demand FM”獨家放映了《Beautiful Tonight》的完整曲目，以及對樂隊的采訪。11月7日，樂隊在“BBC Radio
-2”演唱了《I Will Reach You》。\[5\] 11月14日，“RTE 2fm”首次獨家于網路中播放專集曲目。
+該專集確認的第一首单曲是《Safe》，于專集發布前一星期發布。2010年10月20日，專集製作人透露了包含于該專集內的四首歌曲的標題，即《Closer》、《No One's Gonna Sleep Tonight》、《Tell Me I'm Dreaming》以及《Weak》。\[1\]10月25日，Feehily在他的官方推特頁面上公開了如下列出的歌曲列表。\[2\]\[3\]11月2日，該專集中每首歌各30秒的片段在 [Amazon.co.uk放出](https://zh.wikipedia.org/wiki/Amazon.co.uk "wikilink")。\[4\]11月5日，“In Demand FM”獨家放映了《Beautiful Tonight》的完整曲目，以及對樂隊的采訪。11月7日，樂隊在“BBC Radio 2”演唱了《I Will Reach You》。\[5\] 11月14日，“RTE 2fm”首次獨家于網路中播放專集曲目。
 
 ## 打榜紀錄
 
-西城男孩在2010年11月接受*Daily
-Star*訪問時承認與[JLS在專輯排名上的爭奪會落敗](../Page/JLS.md "wikilink")。成員之一的Kian指：「誠實些，我不認為我們能夠打敗JLS——他們會得到專輯榜榜首。但是我們真的不會被排名高低影響著。」「我們將以這張專輯的銷量作成功的指標。」\[6\]
+西城男孩在2010年11月接受*Daily Star*訪問時承認與[JLS](../Page/JLS.md "wikilink")在專輯排名上的爭奪會落敗。成員之一的Kian指：「誠實些，我不認為我們能夠打敗JLS——他們會得到專輯榜榜首。但是我們真的不會被排名高低影響著。」「我們將以這張專輯的銷量作成功的指標。」\[6\]
 
 | 國家/地區(2010)                                                                                              | 最高排名 |
 | -------------------------------------------------------------------------------------------------------- | ---- |
@@ -111,8 +97,7 @@ Star*訪問時承認與[JLS在專輯排名上的爭奪會落敗](../Page/JLS.md 
 
 ## 參考來源
 
-[Category:西城男孩專輯](https://zh.wikipedia.org/wiki/Category:西城男孩專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
+[Category:西城男孩專輯](https://zh.wikipedia.org/wiki/Category:西城男孩專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
 
 1.  <http://twitter.com/johnshanks1/status/27879339512>
 
@@ -124,10 +109,7 @@ Star*訪問時承認與[JLS在專輯排名上的爭奪會落敗](../Page/JLS.md 
 
 5.  <http://twitter.com/nickybyrneoffic/status/998376707465216>
 
-6.  Gleave, Ed. (2010-11-07) [Simply The Best 7 Days A Week :: Rehab ::
-    Westlife: We're
-    No.2](http://www.dailystar.co.uk/rehab/view/161934/Westlife-We-re-No-2/).
-    Daily Star. Retrieved on 2010-11-28.
+6.  Gleave, Ed. (2010-11-07) [Simply The Best 7 Days A Week :: Rehab :: Westlife: We're No.2](http://www.dailystar.co.uk/rehab/view/161934/Westlife-We-re-No-2/). Daily Star. Retrieved on 2010-11-28.
 
 7.  <http://acharts.us/album/59030>
 
@@ -141,11 +123,9 @@ Star*訪問時承認與[JLS在專輯排名上的爭奪會落敗](../Page/JLS.md 
 
 12. <http://acharts.us/album/59030>
 
-13. [http://www.swisscharts.com/showitem.asp?interpret=Westlife\&titel=Gravity\&cat=a|accessdate=26](http://www.swisscharts.com/showitem.asp?interpret=Westlife&titel=Gravity&cat=a%7Caccessdate=26)
-    November 2010}}
+13. [http://www.swisscharts.com/showitem.asp?interpret=Westlife\&titel=Gravity\&cat=a|accessdate=26](http://www.swisscharts.com/showitem.asp?interpret=Westlife&titel=Gravity&cat=a%7Caccessdate=26) November 2010}}
 
-14. [http://www.swisscharts.com/showitem.asp?interpret=Westlife\&titel=Gravity\&cat=a|accessdate=26](http://www.swisscharts.com/showitem.asp?interpret=Westlife&titel=Gravity&cat=a%7Caccessdate=26)
-    November 2010}}
+14. [http://www.swisscharts.com/showitem.asp?interpret=Westlife\&titel=Gravity\&cat=a|accessdate=26](http://www.swisscharts.com/showitem.asp?interpret=Westlife&titel=Gravity&cat=a%7Caccessdate=26) November 2010}}
 
 15.
 16. <http://cdon.eu/music/westlife/gravity-12412095>

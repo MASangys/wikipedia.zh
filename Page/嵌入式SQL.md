@@ -1,7 +1,6 @@
-**嵌入式SQL**（英文: **Embedded
-SQL**）是一种将[SQL语句直接写入](../Page/SQL.md "wikilink")[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[COBOL](../Page/COBOL.md "wikilink")、[FORTRAN及](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")[Ada等](../Page/Ada.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")[源代码中的方法](../Page/源代码.md "wikilink")。藉此方法，可使得应用程序拥有了访问数据以及处理数据的能力。在这一方法中，将SQL文嵌入的目标源码的语言称为**宿主语言**。
+**嵌入式SQL**（英文: **Embedded SQL**）是一种将[SQL](../Page/SQL.md "wikilink")语句直接写入[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[COBOL](../Page/COBOL.md "wikilink")、[FORTRAN及](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")[Ada](../Page/Ada.md "wikilink")等[编程语言](../Page/编程语言.md "wikilink")[源代码](../Page/源代码.md "wikilink")中的方法。藉此方法，可使得应用程序拥有了访问数据以及处理数据的能力。在这一方法中，将SQL文嵌入的目标源码的语言称为**宿主语言**。
 
-在1986年发布的**SQL86**标准中定义了对于COBOL、FORTRAN及PI/L等语言的嵌入式SQL的规范。在1989年发布的**SQL89**规范中，定义了对于C语言的嵌入式SQL的规范。一些大型的[数据库厂商发布的数据库产品中](../Page/数据库.md "wikilink")，都提供了对于嵌入式SQL的支持。比如[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")、[DB2等](https://zh.wikipedia.org/wiki/DB2 "wikilink")。
+在1986年发布的**SQL86**标准中定义了对于COBOL、FORTRAN及PI/L等语言的嵌入式SQL的规范。在1989年发布的**SQL89**规范中，定义了对于C语言的嵌入式SQL的规范。一些大型的[数据库](../Page/数据库.md "wikilink")厂商发布的数据库产品中，都提供了对于嵌入式SQL的支持。比如[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")、[DB2等](https://zh.wikipedia.org/wiki/DB2 "wikilink")。
 
 ## 嵌入式SQL的工作原理
 
@@ -12,8 +11,7 @@ SQL**）是一种将[SQL语句直接写入](../Page/SQL.md "wikilink")[C语言](
 3.  如何把对数据的查询结果逐次赋值给宿主语言程序中的[变量以供其处理](https://zh.wikipedia.org/wiki/变量 "wikilink")。
 4.  数据库的数据类型与宿主语言的数据类型有时不完全对应或等价，如何解决必要的数据类型转换问题。
 
-[EmbeddedSQLWorkFlow.PNG](https://zh.wikipedia.org/wiki/File:EmbeddedSQLWorkFlow.PNG "fig:EmbeddedSQLWorkFlow.PNG")
-为了解决上述这些问题，数据库厂商需要提供一个嵌入式SQL的[预编译器](https://zh.wikipedia.org/wiki/预编译器 "wikilink")，把包含有嵌入式SQL文的宿主语言源码转换成纯宿主语言的代码。这样一来，源码即可使用宿主语言对应的编译器进行编译。通常情况下，经过嵌入式SQL的预编译之后，原有的嵌入式SQL会被转换成一系列函数调用。因此，数据库厂商还需要提供一些列函数库，以确保[链接器能够把代码中的函数调用与对应的实现链接起来](../Page/链接器.md "wikilink")。
+[EmbeddedSQLWorkFlow.PNG](https://zh.wikipedia.org/wiki/File:EmbeddedSQLWorkFlow.PNG "fig:EmbeddedSQLWorkFlow.PNG") 为了解决上述这些问题，数据库厂商需要提供一个嵌入式SQL的[预编译器](https://zh.wikipedia.org/wiki/预编译器 "wikilink")，把包含有嵌入式SQL文的宿主语言源码转换成纯宿主语言的代码。这样一来，源码即可使用宿主语言对应的编译器进行编译。通常情况下，经过嵌入式SQL的预编译之后，原有的嵌入式SQL会被转换成一系列函数调用。因此，数据库厂商还需要提供一些列函数库，以确保[链接器](../Page/链接器.md "wikilink")能够把代码中的函数调用与对应的实现链接起来。
 
 ## 嵌入式SQL的扩展语法
 
@@ -26,7 +24,7 @@ SQL**）是一种将[SQL语句直接写入](../Page/SQL.md "wikilink")[C语言](
 
 ### 示例代码
 
-以下展示了用于连接[PostgreSQL数据库并执行一次数据查询的嵌入式SQL源码](../Page/PostgreSQL.md "wikilink")（宿主语言为[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")）：
+以下展示了用于连接[PostgreSQL](../Page/PostgreSQL.md "wikilink")数据库并执行一次数据查询的嵌入式SQL源码（宿主语言为[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")）：
 
 ``` c
 #include <stdio.h>
@@ -60,9 +58,7 @@ int main(int argc, char* argv[])
 }
 ```
 
-在[Cygwin平台上](../Page/Cygwin.md "wikilink")，利用PostgreSQL
-7.4.5所自带的嵌入式SQL的预编译器[ECPG](https://zh.wikipedia.org/wiki/ECPG "wikilink")（版本号
-3.1.1）进行预编译，生成的纯C语言代码如下所示：
+在[Cygwin](../Page/Cygwin.md "wikilink")平台上，利用PostgreSQL 7.4.5所自带的嵌入式SQL的预编译器[ECPG](https://zh.wikipedia.org/wiki/ECPG "wikilink")（版本号 3.1.1）进行预编译，生成的纯C语言代码如下所示：
 
 ``` c
 /* Processed by ecpg (3.1.1) */
@@ -137,7 +133,7 @@ if (sqlca.sqlcode < 0) sqlprint();}
 }
 ```
 
-生成后的代码中所调用的**ECPGconnect**等函数，由安装PostgreSQL所自带的ECPG[库](https://zh.wikipedia.org/wiki/函数库 "wikilink")（本例中为`libecpg.so`）提供具体的实现，供[链接器将其与上述C语言代码编译生成的](../Page/链接器.md "wikilink")[目标文件进行链接](https://zh.wikipedia.org/wiki/目标文件 "wikilink")。
+生成后的代码中所调用的**ECPGconnect**等函数，由安装PostgreSQL所自带的ECPG[库](https://zh.wikipedia.org/wiki/函数库 "wikilink")（本例中为`libecpg.so`）提供具体的实现，供[链接器](../Page/链接器.md "wikilink")将其与上述C语言代码编译生成的[目标文件进行链接](https://zh.wikipedia.org/wiki/目标文件 "wikilink")。
 
 ## 支持嵌入式SQL的数据库产品
 
@@ -145,30 +141,17 @@ if (sqlca.sqlcode < 0) sqlprint();}
 
 ### Oracle Database
 
-  - Ada : Pro\*Ada在Oracle 7.3的版本中被加入产品族，并且在Oracle
-    8中被替换为SQL\*Module。但在此之后就一直没有更新<ref>{{cite web
+  - Ada : Pro\*Ada在Oracle 7.3的版本中被加入产品族，并且在Oracle 8中被替换为SQL\*Module。但在此之后就一直没有更新<ref>{{cite web
 
-|url=<http://download.oracle.com/docs/cd/B10501_01/server.920/a96530/migcompa.htm#1010868>
-|title=Ada Support in Version 8 |work=Oracle9i Database Migration,
-Release 2 (9.2), Chapter 5. Compatibility and Interoperability
-|publisher=[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")
-|accessdate=2008-07-14 }}</ref>。SQL\*Module支持Ada 83.
+|url=<http://download.oracle.com/docs/cd/B10501_01/server.920/a96530/migcompa.htm#1010868> |title=Ada Support in Version 8 |work=Oracle9i Database Migration, Release 2 (9.2), Chapter 5. Compatibility and Interoperability |publisher=[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink") |accessdate=2008-07-14 }}</ref>。SQL\*Module支持Ada 83.
 
-  - C/C++ : Pro\*C 在Oracle 8 时被替换成了Pro\*C/C++。之后Pro\*C/C++ 到Oracle
-    Database 11g仍都在被支持。
+  - C/C++ : Pro\*C 在Oracle 8 时被替换成了Pro\*C/C++。之后Pro\*C/C++ 到Oracle Database 11g仍都在被支持。
     COBOL : Pro\*COBOL到Oracle Database 11g仍都在被支持。
-    Fortran : Pro\*FORTRAN 在Oracle
-    8之后的Oracle版本中就不再被更新，但Bug修正仍在维护中\[2\]。
+    Fortran : Pro\*FORTRAN 在Oracle 8之后的Oracle版本中就不再被更新，但Bug修正仍在维护中\[2\]。
     Pascal : Pro\*Pascal在Oracle 8之后的Oracle版本中就不再被更新\[3\]。
-    PI/L : Pro\*PL/I 自Oracle
-    8之后就不再被更新，但文档中仍然有记述<ref name="langalts">{{cite
-    web
+    PI/L : Pro\*PL/I 自Oracle 8之后就不再被更新，但文档中仍然有记述<ref name="langalts">{{cite web
 
-|url=<http://download.oracle.com/docs/cd/A64702_01/doc/server.805/a58232/ch01.htm#505>
-|title=Language Alternatives |work=Pro\*COBOL Precompiler Programmer's
-Guide, Release 8.0, Chapter 1. Introduction
-|publisher=[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")
-|accessdate=2008-07-14 }}</ref>。
+|url=<http://download.oracle.com/docs/cd/A64702_01/doc/server.805/a58232/ch01.htm#505> |title=Language Alternatives |work=Pro\*COBOL Precompiler Programmer's Guide, Release 8.0, Chapter 1. Introduction |publisher=[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink") |accessdate=2008-07-14 }}</ref>。
 
 ### IBM DB2
 
@@ -180,7 +163,7 @@ IBM DB2的版本9中提供了对于C/C++，COBOL，Java等宿主语言的嵌入�
 
 ## 参见
 
-  - [SQL文](../Page/SQL.md "wikilink")
+  - [SQL](../Page/SQL.md "wikilink")文
 
 ## 注释
 

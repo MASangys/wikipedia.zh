@@ -1,5 +1,4 @@
-**《女神Online》**是由[中華網龍](../Page/中華網龍.md "wikilink")自主研發並營運的一款多人在線角色扮演遊戲。該作於2008年5月20日首次在[日本](../Page/日本.md "wikilink")嚗光，與《[飄流幻境Online](../Page/飄流幻境Online.md "wikilink")》為同一個研發團隊\[1\]。遊戲融合奇幻、科技元素、以及戀愛養成跟策略戰鬥，並採用SLG玩法的新形態線上遊戲。\[2\]遊戲於2008年12月24日啟動封測，2009年1月10日公開測試。2010年4月19日於日本發行，並定名為《Angelic
-Crest》\[3\]；2014年5月27日，日本服務終止。
+**《女神Online》**是由[中華網龍](../Page/中華網龍.md "wikilink")自主研發並營運的一款多人在線角色扮演遊戲。該作於2008年5月20日首次在[日本](../Page/日本.md "wikilink")嚗光，與《[飄流幻境Online](../Page/飄流幻境Online.md "wikilink")》為同一個研發團隊\[1\]。遊戲融合奇幻、科技元素、以及戀愛養成跟策略戰鬥，並採用SLG玩法的新形態線上遊戲。\[2\]遊戲於2008年12月24日啟動封測，2009年1月10日公開測試。2010年4月19日於日本發行，並定名為《Angelic Crest》\[3\]；2014年5月27日，日本服務終止。
 
 2012年10月下旬，《新女神Online》上市，由980x遊戲天地營運。2013年7月24日，《女神光速版Online》上市，由中華網龍營運。
 
@@ -41,8 +40,7 @@ Crest》\[3\]；2014年5月27日，日本服務終止。
 ##### 主角（玩家自訂）
 
   -
-    角色聲音
-    男：[赤羽根健治](../Page/赤羽根健治.md "wikilink")；女：[井上麻里奈](../Page/井上麻里奈.md "wikilink")
+    角色聲音 男：[赤羽根健治](../Page/赤羽根健治.md "wikilink")；女：[井上麻里奈](../Page/井上麻里奈.md "wikilink")
     性別：男/女（玩家自訂）
     屬性：水（克爾朵Clotho）/火（拉琪希絲Lachesis）（玩家自訂）
 
@@ -655,12 +653,7 @@ Crest》\[3\]；2014年5月27日，日本服務終止。
 
   - [女神官方資料網站](https://web.archive.org/web/20140405215215/http://angelic.hangame.co.jp/)
 
-[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink")
-[Category:中華網龍遊戲](https://zh.wikipedia.org/wiki/Category:中華網龍遊戲 "wikilink")
-[Category:未來背景電子遊戲](https://zh.wikipedia.org/wiki/Category:未來背景電子遊戲 "wikilink")
-[Category:科学奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:科学奇幻电子游戏 "wikilink")
+[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:中華網龍遊戲](https://zh.wikipedia.org/wiki/Category:中華網龍遊戲 "wikilink") [Category:未來背景電子遊戲](https://zh.wikipedia.org/wiki/Category:未來背景電子遊戲 "wikilink") [Category:科学奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:科学奇幻电子游戏 "wikilink")
 
 1.
 2.

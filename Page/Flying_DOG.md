@@ -1,7 +1,4 @@
-[veglogo.png](https://zh.wikipedia.org/wiki/File:veglogo.png "fig:veglogo.png")
-**flying
-DOG**（飛犬），是指[勝利娛樂旗下動畫相關事業](../Page/勝利娛樂.md "wikilink")**株式会社flying
-DOG**（／），以及所屬品牌。
+[veglogo.png](https://zh.wikipedia.org/wiki/File:veglogo.png "fig:veglogo.png") **flying DOG**（飛犬），是指[勝利娛樂](../Page/勝利娛樂.md "wikilink")旗下動畫相關事業**株式会社flying DOG**（／），以及所屬品牌。
 
 ## 概要
 
@@ -11,8 +8,7 @@ DOG**（／），以及所屬品牌。
 
   - flying DOG
 
-2007年10月，[勝利娛樂動畫相關廠牌](../Page/勝利娛樂.md "wikilink")移管至JVC娛樂，並更名，\[3\]\[4\]亦表記「flying
-DOG/JVC Ent.」。
+2007年10月，[勝利娛樂](../Page/勝利娛樂.md "wikilink")動畫相關廠牌移管至JVC娛樂，並更名，\[3\]\[4\]亦表記「flying DOG/JVC Ent.」。
 
   - FlyingDog
 
@@ -40,13 +36,11 @@ DOG/JVC Ent.」。
   - [小峰理紗](../Page/小峰理紗.md "wikilink")（lisa）
   - [坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")
   - ザッハトルテ
-  - [savage
-    genius](https://zh.wikipedia.org/wiki/savage_genius "wikilink")
+  - [savage genius](https://zh.wikipedia.org/wiki/savage_genius "wikilink")
   - Taja
   - [中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
   - [中野愛子](https://zh.wikipedia.org/wiki/中野愛子 "wikilink")
-  - [南里侑香](../Page/南里侑香.md "wikilink")（[FictionJunction
-    YUUKA](https://zh.wikipedia.org/wiki/FictionJunction_YUUKA "wikilink")）
+  - [南里侑香](../Page/南里侑香.md "wikilink")（[FictionJunction YUUKA](https://zh.wikipedia.org/wiki/FictionJunction_YUUKA "wikilink")）
   - [野水伊織](../Page/野水伊織.md "wikilink")
   - [hibiku](https://zh.wikipedia.org/wiki/hibiku "wikilink")
   - [FIRE BOMBER](https://zh.wikipedia.org/wiki/FIRE_BOMBER "wikilink")
@@ -89,11 +83,7 @@ DOG/JVC Ent.」。
 
   - JVC娛樂網→JVC娛樂
 
-[Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink")
-[Category:勝利娛樂](https://zh.wikipedia.org/wiki/Category:勝利娛樂 "wikilink")
-[Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink")
-[Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
+[Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink") [Category:勝利娛樂](https://zh.wikipedia.org/wiki/Category:勝利娛樂 "wikilink") [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
 
 1.
 2.

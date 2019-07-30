@@ -1,6 +1,4 @@
-《**DearS**》（，中文：親愛一族）是由雙人團體[PEACH-PIT](../Page/PEACH-PIT.md "wikilink")所著的[愛情喜劇](https://zh.wikipedia.org/wiki/愛情喜劇 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，為PEACH-PIT首次長篇連載作品。於[MediaWorks](../Page/MediaWorks.md "wikilink")的《電擊Comic
-GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出版社.md "wikilink")代理出版。其作品還有原作改編的[動畫及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[PlayStation
-2](../Page/PlayStation_2.md "wikilink")[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。
+《**DearS**》（，中文：親愛一族）是由雙人團體[PEACH-PIT](../Page/PEACH-PIT.md "wikilink")所著的[愛情喜劇](https://zh.wikipedia.org/wiki/愛情喜劇 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，為PEACH-PIT首次長篇連載作品。於[MediaWorks](../Page/MediaWorks.md "wikilink")的《電擊Comic GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出版社.md "wikilink")代理出版。其作品還有原作改編的[動畫及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[PlayStation 2](../Page/PlayStation_2.md "wikilink")[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。
 
 ## 故事介紹
 
@@ -12,8 +10,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出�
 
 #### 地球人
 
-  - 幾原 武哉（いくはら
-    たけや），[聲優](../Page/聲優.md "wikilink")：[谷山紀章](../Page/谷山紀章.md "wikilink")
+  - 幾原 武哉（いくはら たけや），[聲優](../Page/聲優.md "wikilink")：[谷山紀章](../Page/谷山紀章.md "wikilink")
 
 <!-- end list -->
 
@@ -22,8 +19,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出�
 
 <!-- end list -->
 
-  - 和泉寧寧子（いずみ
-    ねねこ），[聲優](../Page/聲優.md "wikilink")：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")
+  - 和泉寧寧子（いずみ ねねこ），[聲優](../Page/聲優.md "wikilink")：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")
 
 <!-- end list -->
 
@@ -48,8 +44,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出�
 
 #### 小春高校
 
-  - 及川 彦郎（おいかわ
-    ひころう），[聲優](../Page/聲優.md "wikilink")：[山口勝平](../Page/山口勝平.md "wikilink")
+  - 及川 彦郎（おいかわ ひころう），[聲優](../Page/聲優.md "wikilink")：[山口勝平](../Page/山口勝平.md "wikilink")
 
 <!-- end list -->
 
@@ -58,8 +53,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出�
 
 <!-- end list -->
 
-  - 野仲 宏史（のなか
-    ひろふみ），[聲優](../Page/聲優.md "wikilink")：[諏訪部順一](../Page/諏訪部順一.md "wikilink")
+  - 野仲 宏史（のなか ひろふみ），[聲優](../Page/聲優.md "wikilink")：[諏訪部順一](../Page/諏訪部順一.md "wikilink")
 
 <!-- end list -->
 
@@ -68,8 +62,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出�
 
 <!-- end list -->
 
-  - 芳峰 蜜香（よしみね
-    みつか），[聲優](../Page/聲優.md "wikilink")：[井上喜久子](../Page/井上喜久子.md "wikilink")
+  - 芳峰 蜜香（よしみね みつか），[聲優](../Page/聲優.md "wikilink")：[井上喜久子](../Page/井上喜久子.md "wikilink")
 
 <!-- end list -->
 
@@ -105,8 +98,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出�
 
 #### 武哉的家人
 
-  - 幾原 菜月（いくはら
-    なつき），[聲優](../Page/聲優.md "wikilink")：[新谷良子](../Page/新谷良子.md "wikilink")
+  - 幾原 菜月（いくはら なつき），[聲優](../Page/聲優.md "wikilink")：[新谷良子](../Page/新谷良子.md "wikilink")
 
 <!-- end list -->
 
@@ -115,8 +107,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出�
 
 <!-- end list -->
 
-  - 幾原 晴海（いくはら
-    はるみ），[聲優](../Page/聲優.md "wikilink")：[鈴木麻里子](../Page/鈴木麻里子.md "wikilink")
+  - 幾原 晴海（いくはら はるみ），[聲優](../Page/聲優.md "wikilink")：[鈴木麻里子](../Page/鈴木麻里子.md "wikilink")
 
 <!-- end list -->
 
@@ -251,8 +242,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出�
     音樂製作：[Lantis](../Page/Lantis.md "wikilink")
     製片：GENCO
     動畫製作：[童夢](../Page/童夢_\(動畫工作室\).md "wikilink")
-    製作：TeaM
-    DearS（[萬代影視](../Page/萬代影視.md "wikilink")、MediaWorks、Lantis、GENCO）
+    製作：TeaM DearS（[萬代影視](../Page/萬代影視.md "wikilink")、MediaWorks、Lantis、GENCO）
 
 ### 主題曲
 
@@ -261,9 +251,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出�
 <!-- end list -->
 
   -
-    作詞・作曲 - [桃井晴子](../Page/桃井晴子.md "wikilink")、編曲 -
-    [小池雅也](https://zh.wikipedia.org/wiki/小池雅也 "wikilink")、歌 -
-    [UNDER17](https://zh.wikipedia.org/wiki/UNDER17 "wikilink")
+    作詞・作曲 - [桃井晴子](../Page/桃井晴子.md "wikilink")、編曲 - [小池雅也](https://zh.wikipedia.org/wiki/小池雅也 "wikilink")、歌 - [UNDER17](https://zh.wikipedia.org/wiki/UNDER17 "wikilink")
 
 <!-- end list -->
 
@@ -272,9 +260,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出�
 <!-- end list -->
 
   -
-    作詞 - [畑亞貴](../Page/畑亞貴.md "wikilink")、作曲・編曲 -
-    [田村信二](https://zh.wikipedia.org/wiki/田村信二 "wikilink")、歌 -
-    [PoppinS](https://zh.wikipedia.org/wiki/PoppinS "wikilink")
+    作詞 - [畑亞貴](../Page/畑亞貴.md "wikilink")、作曲・編曲 - [田村信二](https://zh.wikipedia.org/wiki/田村信二 "wikilink")、歌 - [PoppinS](https://zh.wikipedia.org/wiki/PoppinS "wikilink")
 
 ### 各話列表
 
@@ -414,8 +400,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出�
 ## 廣播劇節目
 
   - 《DearS×DearS》（ディアーズ・ディアーズ）
-    主講[radio
-    personality的](https://zh.wikipedia.org/wiki/radio_personality "wikilink")[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")（飾演零）、[中原麻衣](../Page/中原麻衣.md "wikilink")（飾演繆）、[谷山紀章](../Page/谷山紀章.md "wikilink")（飾演武哉）。
+    主講[radio personality的](https://zh.wikipedia.org/wiki/radio_personality "wikilink")[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")（飾演零）、[中原麻衣](../Page/中原麻衣.md "wikilink")（飾演繆）、[谷山紀章](../Page/谷山紀章.md "wikilink")（飾演武哉）。
     於[廣播大阪](../Page/大阪放送.md "wikilink")、[TBS廣播](../Page/TBS廣播.md "wikilink")、[信越放送](../Page/信越放送.md "wikilink")三家電視台的「[ゴクラク\!もえもえステーション](https://zh.wikipedia.org/wiki/ゴクラク!もえもえステーション "wikilink")」頻道放映。
     2004年4月3日到12月25日期間播放（信越放送隔日播映）。全39回。
     2005年1月於網路廣播再行放送、 每月更新1回、同年3月全3回播出完畢。
@@ -464,15 +449,13 @@ GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出�
 
 ## 遊戲
 
-使用[PlayStation
-2平台](../Page/PlayStation_2.md "wikilink")，由[MediaWorks](../Page/MediaWorks.md "wikilink")2004年6月24日發售。分級為[CERO](../Page/電腦娛樂分級機構.md "wikilink")15歲以上。
+使用[PlayStation 2平台](../Page/PlayStation_2.md "wikilink")，由[MediaWorks](../Page/MediaWorks.md "wikilink")2004年6月24日發售。分級為[CERO](../Page/電腦娛樂分級機構.md "wikilink")15歲以上。
 
 Cina（チナ）役由[桃井晴子](../Page/桃井晴子.md "wikilink")飾演。
 
 ## 其他作品合作企劃
 
-於月刊Comic電擊Gao\!2004年2月号刊載，由《DearS》的主要角色，與其他雜誌由同作者連載的[Rozen
-Maiden與](../Page/薔薇少女.md "wikilink")[ZOMBIE-LOAN的主要角色共同演出的合作漫画](../Page/殭屍借貸.md "wikilink")。
+於月刊Comic電擊Gao\!2004年2月号刊載，由《DearS》的主要角色，與其他雜誌由同作者連載的[Rozen Maiden與](../Page/薔薇少女.md "wikilink")[ZOMBIE-LOAN的主要角色共同演出的合作漫画](../Page/殭屍借貸.md "wikilink")。
 
 收錄於漫畫單行本第六卷。
 
@@ -495,10 +478,4 @@ Maiden與](../Page/薔薇少女.md "wikilink")[ZOMBIE-LOAN的主要角色共同�
   - [PEACH-PIT官方網站](https://web.archive.org/web/20100110054908/http://p-pit.net/dears/index.html)
   - [TOKYO MX.TV 動畫官方網站](http://www.mxtv.co.jp/dears/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:2004年UHF動畫](https://zh.wikipedia.org/wiki/Category:2004年UHF動畫 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:人與外星生物接觸題材作品](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:2004年UHF動畫](https://zh.wikipedia.org/wiki/Category:2004年UHF動畫 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:人與外星生物接觸題材作品](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材作品 "wikilink")

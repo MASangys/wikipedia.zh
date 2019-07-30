@@ -1,5 +1,4 @@
-《**yom
-yom**》（）為[新潮社每年發行](https://zh.wikipedia.org/wiki/新潮社 "wikilink")5回的[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。
+《**yom yom**》（）為[新潮社每年發行](https://zh.wikipedia.org/wiki/新潮社 "wikilink")5回的[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。
 
 ## 概要
 
@@ -11,9 +10,9 @@ yom**》（）為[新潮社每年發行](https://zh.wikipedia.org/wiki/新潮社
 
 1〜5号的合計發行數量為37萬4000冊。
 
-因長期身體狀況不佳而停筆的[山本文緒在時隔](../Page/山本文緒.md "wikilink")5年後再度推出新作，於2007年9月的vol.4上刊登。
+因長期身體狀況不佳而停筆的[山本文緒](../Page/山本文緒.md "wikilink")在時隔5年後再度推出新作，於2007年9月的vol.4上刊登。
 
-[小野不由美時隔](../Page/小野不由美.md "wikilink")6年半的《[十二國記](../Page/十二國記.md "wikilink")》新作在2008年2月的vol.6上刊登，引起了廣泛關注，僅初版就發行7萬8000冊，創下了最高初版發行數記錄。
+[小野不由美](../Page/小野不由美.md "wikilink")時隔6年半的《[十二國記](../Page/十二國記.md "wikilink")》新作在2008年2月的vol.6上刊登，引起了廣泛關注，僅初版就發行7萬8000冊，創下了最高初版發行數記錄。
 
 ## 構成
 
@@ -81,8 +80,6 @@ yom**》（）為[新潮社每年發行](https://zh.wikipedia.org/wiki/新潮社
 
   - [新潮社官方網站](http://www.shinchosha.co.jp/yomyom/)
 
-[Category:新潮社的雜誌](https://zh.wikipedia.org/wiki/Category:新潮社的雜誌 "wikilink")
-[Category:日本文学杂志](https://zh.wikipedia.org/wiki/Category:日本文学杂志 "wikilink")
-[Category:2006年創刊的雜誌](https://zh.wikipedia.org/wiki/Category:2006年創刊的雜誌 "wikilink")
+[Category:新潮社的雜誌](https://zh.wikipedia.org/wiki/Category:新潮社的雜誌 "wikilink") [Category:日本文学杂志](https://zh.wikipedia.org/wiki/Category:日本文学杂志 "wikilink") [Category:2006年創刊的雜誌](https://zh.wikipedia.org/wiki/Category:2006年創刊的雜誌 "wikilink")
 
 1.

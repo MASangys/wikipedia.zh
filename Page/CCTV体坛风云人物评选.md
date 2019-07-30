@@ -1,4 +1,4 @@
-**CCTV体坛风云人物评选**，是[中国中央电视台主办的年度大型体育人物评选活动](../Page/中国中央电视台.md "wikilink")，其颁奖典礼在旗下[体育频道播出](../Page/中国中央电视台体育频道.md "wikilink")。前身为**中国电视体育奖**，于2001、2002年举办两届。2005年更名为CCTV体坛风云人物评选，每年举办一届，一般于当年下半年起全面启动，向公众发布提名奖结果，并于次年年初进行总评投票及颁奖盛典。2007年度的评选因[北京奥运会而暂停一届](https://zh.wikipedia.org/wiki/北京奥运会 "wikilink")。2017年度的评选原定于2018年1月20日举行，但疑因体育总局和央视的某些分歧就此停摆。\[1\]
+**CCTV体坛风云人物评选**，是[中国中央电视台](../Page/中国中央电视台.md "wikilink")主办的年度大型体育人物评选活动，其颁奖典礼在旗下[体育频道播出](../Page/中国中央电视台体育频道.md "wikilink")。前身为**中国电视体育奖**，于2001、2002年举办两届。2005年更名为CCTV体坛风云人物评选，每年举办一届，一般于当年下半年起全面启动，向公众发布提名奖结果，并于次年年初进行总评投票及颁奖盛典。2007年度的评选因[北京奥运会而暂停一届](https://zh.wikipedia.org/wiki/北京奥运会 "wikilink")。2017年度的评选原定于2018年1月20日举行，但疑因体育总局和央视的某些分歧就此停摆。\[1\]
 
 体坛风云人物评选因CCTV在全国范围内的巨大影响力成为中国体育界年度规格最高的评选活动和明星秀场，每年都云集中国体育界的诸多知名人士，有较高的权威性。另外评选活动会邀请赞助商进行冠名，如安踏CCTV体坛风云人物评选。
 
@@ -83,8 +83,8 @@
   - 年度残疾人体育精神奖：[中国女子坐式排球队](https://zh.wikipedia.org/wiki/中国女子坐式排球队 "wikilink")
   - 年度未名体育人士奖：[倪震](../Page/倪震.md "wikilink")
   - 终身成就奖：[荣高棠](../Page/荣高棠.md "wikilink")
-  - 年度最佳教练员奖：[孙海平](https://zh.wikipedia.org/wiki/孙海平 "wikilink")、[姚滨和](../Page/姚滨.md "wikilink")[陆善真](https://zh.wikipedia.org/wiki/陆善真 "wikilink")
-  - 年度十大体坛风云人物奖：[刘翔](../Page/刘翔.md "wikilink")、[张怡宁](../Page/张怡宁.md "wikilink")、[韩晓鹏](../Page/韩晓鹏.md "wikilink")、[郑洁](../Page/郑洁.md "wikilink")／[晏紫](../Page/晏紫.md "wikilink")、[蔡赟](../Page/蔡赟.md "wikilink")／[傅海峰](../Page/傅海峰.md "wikilink")、[丁俊晖](../Page/丁俊晖.md "wikilink")、[舒马赫](../Page/迈克尔·舒马赫.md "wikilink")、[王刚义](https://zh.wikipedia.org/wiki/王刚义 "wikilink")、[马晓旭和](../Page/马晓旭.md "wikilink")[孙海平](https://zh.wikipedia.org/wiki/孙海平 "wikilink")。
+  - 年度最佳教练员奖：[孙海平](https://zh.wikipedia.org/wiki/孙海平 "wikilink")、[姚滨](../Page/姚滨.md "wikilink")和[陆善真](https://zh.wikipedia.org/wiki/陆善真 "wikilink")
+  - 年度十大体坛风云人物奖：[刘翔](../Page/刘翔.md "wikilink")、[张怡宁](../Page/张怡宁.md "wikilink")、[韩晓鹏](../Page/韩晓鹏.md "wikilink")、[郑洁](../Page/郑洁.md "wikilink")／[晏紫](../Page/晏紫.md "wikilink")、[蔡赟](../Page/蔡赟.md "wikilink")／[傅海峰](../Page/傅海峰.md "wikilink")、[丁俊晖](../Page/丁俊晖.md "wikilink")、[舒马赫](../Page/迈克尔·舒马赫.md "wikilink")、[王刚义](https://zh.wikipedia.org/wiki/王刚义 "wikilink")、[马晓旭](../Page/马晓旭.md "wikilink")和[孙海平](https://zh.wikipedia.org/wiki/孙海平 "wikilink")。
 
 <!-- end list -->
 
@@ -149,8 +149,7 @@
   - 年度最佳男运动员奖：[孙杨](https://zh.wikipedia.org/wiki/孙杨 "wikilink")（游泳）
   - 年度最佳女运动员奖：[李娜](https://zh.wikipedia.org/wiki/李娜_\(网球运动员\) "wikilink")（网球）
   - 年度最佳新人奖：[范可新](../Page/范可新.md "wikilink")（短道速滑）
-  - 年度最佳组合奖：[蔡赟](../Page/蔡赟.md "wikilink") /
-    [傅海峰](../Page/傅海峰.md "wikilink")（羽毛球）
+  - 年度最佳组合奖：[蔡赟](../Page/蔡赟.md "wikilink") / [傅海峰](../Page/傅海峰.md "wikilink")（羽毛球）
   - 年度最佳团队奖：[中国国家女子排球队](https://zh.wikipedia.org/wiki/中国国家女子排球队 "wikilink")
   - 年度最佳非奥项目运动员奖：[侯逸凡](../Page/侯逸凡.md "wikilink")（国际象棋）
   - 年度最佳教练奖：[王海滨](https://zh.wikipedia.org/wiki/王海滨 "wikilink")（中国男子花剑队主教练）
@@ -225,7 +224,7 @@
   - 最佳教练奖：[郎平](../Page/郎平.md "wikilink")（中国女子排球队主教练）
   - 最佳组合奖：[莫有雪](../Page/莫有雪.md "wikilink")/[谢震业](../Page/谢震业.md "wikilink")/[苏炳添](../Page/苏炳添.md "wikilink")/[张培萌](https://zh.wikipedia.org/wiki/张培萌 "wikilink")（田徑）
   - 最佳新人奖：[周琦](../Page/周琦_\(篮球运动员\).md "wikilink")（篮球）
-  - 大众体育精神奖：[北京马拉松组委会](../Page/北京马拉松.md "wikilink")
+  - 大众体育精神奖：[北京马拉松](../Page/北京马拉松.md "wikilink")组委会
   - 残疾人体育精神奖：[祁顺](https://zh.wikipedia.org/wiki/祁顺_\(田径运动员\) "wikilink")（田徑）
   - 最佳非奥运动员奖：[熊朝忠](../Page/熊朝忠.md "wikilink")（职业拳击）
   - 年度突破奖：[苏炳添](../Page/苏炳添.md "wikilink")（田徑）
@@ -257,29 +256,18 @@
 <!-- end list -->
 
   - [CCTV体坛风云人物评选2006 官方网站](http://sportshero.cctv.com/01/)
-  - [CCTV体坛风云人物评选2008
-    官方网站](http://sports.cctv.com/special/C22672/01/index.shtml)
-  - [CCTV体坛风云人物评选2009
-    官方网站](http://sports.cntv.cn/sportshero/shouye/index.shtml)
-  - [CCTV体坛风云人物评选2010
-    官方网站](http://sports.cntv.cn/sportshero/2010/index.shtml)
+  - [CCTV体坛风云人物评选2008 官方网站](http://sports.cctv.com/special/C22672/01/index.shtml)
+  - [CCTV体坛风云人物评选2009 官方网站](http://sports.cntv.cn/sportshero/shouye/index.shtml)
+  - [CCTV体坛风云人物评选2010 官方网站](http://sports.cntv.cn/sportshero/2010/index.shtml)
   - [CCTV体坛风云人物评选2011 官方网站](http://sports.cntv.cn/sportshero/2011/)
   - [CCTV体坛风云人物评选2012 官方网站](http://sports.cntv.cn/special/fengyun/)
-  - [CCTV体坛风云人物评选2013
-    官方网站](http://sports.cntv.cn/zonghe/special/fengyun2013/)
-  - [CCTV体坛风云人物评选2014
-    官方网站](http://sports.cntv.cn/zonghe/special/fengyun2014/)
-  - [CCTV体坛风云人物评选2015
-    官方网站](http://sports.cntv.cn/zonghe/special/fengyun2015/)
-  - [CCTV体坛风云人物评选2016
-    官方网站](http://sports.cctv.com/zonghe/special/fengyun2016/)
-  - [CCTV体坛风云人物评选2017
-    官方网站](http://sports.cctv.com/zonghe/special/fengyun2017/)
+  - [CCTV体坛风云人物评选2013 官方网站](http://sports.cntv.cn/zonghe/special/fengyun2013/)
+  - [CCTV体坛风云人物评选2014 官方网站](http://sports.cntv.cn/zonghe/special/fengyun2014/)
+  - [CCTV体坛风云人物评选2015 官方网站](http://sports.cntv.cn/zonghe/special/fengyun2015/)
+  - [CCTV体坛风云人物评选2016 官方网站](http://sports.cctv.com/zonghe/special/fengyun2016/)
+  - [CCTV体坛风云人物评选2017 官方网站](http://sports.cctv.com/zonghe/special/fengyun2017/)
 
-[Category:中华人民共和国体育奖项](https://zh.wikipedia.org/wiki/Category:中华人民共和国体育奖项 "wikilink")
-[Category:CCTV体坛风云人物评选](https://zh.wikipedia.org/wiki/Category:CCTV体坛风云人物评选 "wikilink")
-[Category:中国中央电视台](https://zh.wikipedia.org/wiki/Category:中国中央电视台 "wikilink")
-[Category:2001年建立的奖项](https://zh.wikipedia.org/wiki/Category:2001年建立的奖项 "wikilink")
+[Category:中华人民共和国体育奖项](https://zh.wikipedia.org/wiki/Category:中华人民共和国体育奖项 "wikilink") [Category:CCTV体坛风云人物评选](https://zh.wikipedia.org/wiki/Category:CCTV体坛风云人物评选 "wikilink") [Category:中国中央电视台](https://zh.wikipedia.org/wiki/Category:中国中央电视台 "wikilink") [Category:2001年建立的奖项](https://zh.wikipedia.org/wiki/Category:2001年建立的奖项 "wikilink")
 
 1.
 2.

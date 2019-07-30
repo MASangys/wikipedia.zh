@@ -1,14 +1,8 @@
-[Logo_190x40.png](https://zh.wikipedia.org/wiki/File:Logo_190x40.png "fig:Logo_190x40.png")
-**OpenXLive**是[Windows Phone
-7上的](https://zh.wikipedia.org/wiki/Windows_Phone_7 "wikilink")[游戏竞技和](https://zh.wikipedia.org/wiki/游戏竞技 "wikilink")[社交网络](https://zh.wikipedia.org/wiki/社交网络 "wikilink")[SNS平台](https://zh.wikipedia.org/wiki/SNS平台 "wikilink")，允许开发者以最小的工作量为自己的游戏增加游戏竞技服务和社交网络SNS功能。OpenXLive是由Fulcrum
-Mobile Networks,
-Inc.开发运营的。同类的应用还有[iPhone上的](https://zh.wikipedia.org/wiki/iPhone "wikilink")[OpenFeint和](../Page/OpenFeint.md "wikilink")[Plus+等](https://zh.wikipedia.org/wiki/Plus+ "wikilink")。
+[Logo_190x40.png](https://zh.wikipedia.org/wiki/File:Logo_190x40.png "fig:Logo_190x40.png") **OpenXLive**是[Windows Phone 7上的](https://zh.wikipedia.org/wiki/Windows_Phone_7 "wikilink")[游戏竞技和](https://zh.wikipedia.org/wiki/游戏竞技 "wikilink")[社交网络](https://zh.wikipedia.org/wiki/社交网络 "wikilink")[SNS平台](https://zh.wikipedia.org/wiki/SNS平台 "wikilink")，允许开发者以最小的工作量为自己的游戏增加游戏竞技服务和社交网络SNS功能。OpenXLive是由Fulcrum Mobile Networks, Inc.开发运营的。同类的应用还有[iPhone上的](https://zh.wikipedia.org/wiki/iPhone "wikilink")[OpenFeint](../Page/OpenFeint.md "wikilink")和[Plus+等](https://zh.wikipedia.org/wiki/Plus+ "wikilink")。
 
 ## 概述
 
-Windows Phone 7为开发者提供了[Xbox
-Live的支持](../Page/Xbox_Live.md "wikilink")，但是开发者必须自己开发相应的[UI来支持Xbox](https://zh.wikipedia.org/wiki/UI "wikilink")
-Live。OpenXLive为开发者提供了完整的游戏竞技功能和相应UI的支持，使开发者可以方便地将OpenXLive嵌入到自己的游戏中，而无需为开发UI而烦恼。
+Windows Phone 7为开发者提供了[Xbox Live的支持](../Page/Xbox_Live.md "wikilink")，但是开发者必须自己开发相应的[UI来支持Xbox](https://zh.wikipedia.org/wiki/UI "wikilink") Live。OpenXLive为开发者提供了完整的游戏竞技功能和相应UI的支持，使开发者可以方便地将OpenXLive嵌入到自己的游戏中，而无需为开发UI而烦恼。
 
 OpenXLive提供了真实的社交网络功能，允许玩家在[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")[客户端和](https://zh.wikipedia.org/wiki/客户端 "wikilink")[Web上查看好友信息和游戏成绩的情况](https://zh.wikipedia.org/wiki/Web "wikilink")。OpenXLive为每一个玩家提供了个人主页，来展示自己在游戏中取得的丰功伟绩。未来，OpenXLive会和其他社交网络平台更加紧密地结合在一起。
 
@@ -33,7 +27,6 @@ OpenXLive还为游戏开发者提供了游戏的[官网服务](https://zh.wikipe
   - [OpenXLive官网](https://web.archive.org/web/20110218031848/http://www.openxlive.com/)
   - [OpenXLive中文网](https://archive.is/20130502110743/http://www.openxlive.net/)
   - [OpenXLive开发者网站](http://developer.openxlive.com)
-  - [OpenXLive
-    开发指南](https://web.archive.org/web/20110227134133/http://wiki.openxlive.com/Getting-Started-with-Open-XLive.ashx)
+  - [OpenXLive 开发指南](https://web.archive.org/web/20110227134133/http://wiki.openxlive.com/Getting-Started-with-Open-XLive.ashx)
 
 [Category:Windows_Mobile](https://zh.wikipedia.org/wiki/Category:Windows_Mobile "wikilink")

@@ -1,11 +1,8 @@
-**時尚魔女 LOVE AND BERRY**（オシャレ魔女 ラブandベリー、英語表記：*Fashionable Witches Love
-and
-Berry*）為[世嘉](../Page/世嘉.md "wikilink")所開發的[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")式的女子向[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")。2004年10月30日在アミューズメント施設中登場。以『[甲蟲王者](../Page/甲蟲王者.md "wikilink")』女子版的身分被開發、連機體造型也和『甲蟲王者』使用同樣造型。
+**時尚魔女 LOVE AND BERRY**（オシャレ魔女 ラブandベリー、英語表記：*Fashionable Witches Love and Berry*）為[世嘉](../Page/世嘉.md "wikilink")所開發的[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")式的女子向[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")。2004年10月30日在アミューズメント施設中登場。以『[甲蟲王者](../Page/甲蟲王者.md "wikilink")』女子版的身分被開發、連機體造型也和『甲蟲王者』使用同樣造型。
 
 在孩子們間以「拉芙和貝莉」或是「拉芙貝莉」來加以稱呼、報紙或TV等媒體也是以「拉芙貝莉」來稱呼。
 
-2006年11月22日發售附有讀卡器的[NDS版](https://zh.wikipedia.org/wiki/NDS "wikilink")『時尚魔女
-LOVE AND BERRY〜DScollection〜』。
+2006年11月22日發售附有讀卡器的[NDS版](https://zh.wikipedia.org/wiki/NDS "wikilink")『時尚魔女 LOVE AND BERRY〜DScollection〜』。
 
 ## 概要
 
@@ -23,13 +20,9 @@ LOVE AND BERRY〜DScollection〜』。
 
 ### 評價和影響
 
-遊戲系統基本上是『[甲蟲王者](../Page/甲蟲王者.md "wikilink")』的女孩子版、相對於甲蟲王者是收集各種昆蟲卡片及加以對戰為主、LOVE
-AND
-BERRY則是以擁有各種的流行服飾並且能這些物品變成造型為主軸。因此讓對於時尚有所憧憬的女孩能產生興趣、然後也喚醒母親這一輩的人關於過去玩「洋娃娃」的記憶、以小孩子到小學低年級女孩為中、連母親也都跟著捲入而掀起大風潮。而在母親這一邊、除了有和孩子的共同話題外也因為能順便給孩子作時尚教育而受到許多好評。
+遊戲系統基本上是『[甲蟲王者](../Page/甲蟲王者.md "wikilink")』的女孩子版、相對於甲蟲王者是收集各種昆蟲卡片及加以對戰為主、LOVE AND BERRY則是以擁有各種的流行服飾並且能這些物品變成造型為主軸。因此讓對於時尚有所憧憬的女孩能產生興趣、然後也喚醒母親這一輩的人關於過去玩「洋娃娃」的記憶、以小孩子到小學低年級女孩為中、連母親也都跟著捲入而掀起大風潮。而在母親這一邊、除了有和孩子的共同話題外也因為能順便給孩子作時尚教育而受到許多好評。
 
-因為這樣、在最盛期時，『LOVE AND
-BERRY』風潮也和『甲蟲王者』風潮一樣引起空前的規模、在百貨公司的遊樂場和遊樂場中心中、也經常舉辦LOVE
-AND BERRY大賽（時尚比賽）。卡片的銷售量也比他公司的類似機種多更多、連在營運率下降的情況下、也還是有店家將機台擺到營運結束為止。
+因為這樣、在最盛期時，『LOVE AND BERRY』風潮也和『甲蟲王者』風潮一樣引起空前的規模、在百貨公司的遊樂場和遊樂場中心中、也經常舉辦LOVE AND BERRY大賽（時尚比賽）。卡片的銷售量也比他公司的類似機種多更多、連在營運率下降的情況下、也還是有店家將機台擺到營運結束為止。
 
 從2005年到2006年時，因為以小孩子・小学低年級女孩為中心而掀起大風潮、也開啟了世嘉的服裝事業、在遊戲中所登場的服裝都以兒童尺寸來販售[童裝](https://zh.wikipedia.org/wiki/童裝 "wikilink")。
 
@@ -37,13 +30,11 @@ AND BERRY大賽（時尚比賽）。卡片的銷售量也比他公司的類似�
 
 為了確保只對於服裝的感覺或收集服裝有興趣的人的品質、於是將這些服裝加以實體化並且發售。而服裝的設計也會透過舉辦比賽讓時尚專門學校學生參加而加以採用他們的點子。對於廠商來說有著跟上時代的感覺和新鮮感、對於學生來說也是很好的機會和經驗。
 
-其經營模式和『甲蟲王者』一様，在法律上被看作是自動販賣機、並且多設置在遊樂場施設外的場所。因此對於店家方面的投資初期相當稀少、而在家庭向的[主題樂園中](https://zh.wikipedia.org/wiki/主題樂園 "wikilink")、和『甲蟲王者』一樣，可說是沒有不擺設『LOVE
-AND BERRY』的店家，其普及是相當的寬廣。
+其經營模式和『甲蟲王者』一様，在法律上被看作是自動販賣機、並且多設置在遊樂場施設外的場所。因此對於店家方面的投資初期相當稀少、而在家庭向的[主題樂園中](https://zh.wikipedia.org/wiki/主題樂園 "wikilink")、和『甲蟲王者』一樣，可說是沒有不擺設『LOVE AND BERRY』的店家，其普及是相當的寬廣。
 
 但是、本作和『甲蟲王者』不一樣的是、為了要與[大頭貼機一様變形成](https://zh.wikipedia.org/wiki/大頭貼 "wikilink")「在男性客人為主的施設中，也可以設置女性向的機台」來營運、就有必要使遊樂場施設的經營者保護這些女性客人不被來「泡妞」的男性客人打擾、但難處也在於太過保護的話會使原本的男性客人都不肯來。也因此，對於以電視遊戲為主的鬧區或小巷弄，就很少設置那些無法期待以家庭為主的客人會來捧場的遊樂場中心。
 
-LOVE AND
-BERRY的設計被認為是和[莉卡娃娃等一樣的換裝人偶的東西](https://zh.wikipedia.org/wiki/莉卡娃娃 "wikilink")、並且加以作成真實的[3立體電腦圖形](https://zh.wikipedia.org/wiki/3立體電腦圖形 "wikilink")。這種作法，據說是因為要避免讓一些所謂的「大朋友(對兒童向作品有興趣的大人)」們，把本作的人物變成[萌](../Page/萌.md "wikilink")圖畫的結果。
+LOVE AND BERRY的設計被認為是和[莉卡娃娃等一樣的換裝人偶的東西](https://zh.wikipedia.org/wiki/莉卡娃娃 "wikilink")、並且加以作成真實的[3立體電腦圖形](https://zh.wikipedia.org/wiki/3立體電腦圖形 "wikilink")。這種作法，據說是因為要避免讓一些所謂的「大朋友(對兒童向作品有興趣的大人)」們，把本作的人物變成[萌](../Page/萌.md "wikilink")圖畫的結果。
 
 ## 遊戲模式
 
@@ -123,8 +114,7 @@ BERRY的設計被認為是和[莉卡娃娃等一樣的換裝人偶的東西](htt
 <!-- end list -->
 
   - 海景舞台
-    歌曲：KIRAKIRAマーメイド、それが
-    なつなの、なつのかけら、なつだ\!プールだ\!レッツゴー\!、まだまだナツもよう、カラフル☆シーズン
+    歌曲：KIRAKIRAマーメイド、それが なつなの、なつのかけら、なつだ\!プールだ\!レッツゴー\!、まだまだナツもよう、カラフル☆シーズン
     會讓人感到海邊涼風吹來的關卡。拉芙和貝莉也會拿著麥克風
 
 <!-- end list -->
@@ -136,8 +126,7 @@ BERRY的設計被認為是和[莉卡娃娃等一樣的換裝人偶的東西](htt
 <!-- end list -->
 
   - 舞會（畫面寫成日文「ぶとうかい」）
-    歌曲：春之聲、[花的華爾茲](https://zh.wikipedia.org/wiki/胡桃鉗 "wikilink")、[藍色多瑙河](https://zh.wikipedia.org/wiki/藍色多瑙河 "wikilink")、メリー
-    ウィドウ ワルツ、グランドワルツ〜華麗的大圓舞曲〜、エンペラーワルツ
+    歌曲：春之聲、[花的華爾茲](https://zh.wikipedia.org/wiki/胡桃鉗 "wikilink")、[藍色多瑙河](https://zh.wikipedia.org/wiki/藍色多瑙河 "wikilink")、メリー ウィドウ ワルツ、グランドワルツ〜華麗的大圓舞曲〜、エンペラーワルツ
     像城堡一樣華麗的關卡。所跳的舞為[社交舞](../Page/社交舞.md "wikilink")
 
 <!-- end list -->
@@ -249,18 +238,15 @@ BERRY的設計被認為是和[莉卡娃娃等一樣的換裝人偶的東西](htt
 
 ## 任天堂DS板
 
-2006年11月22日發售任天DS版的『時尚魔法學園 DS
-collection』。遊戲還附贈有讀卡機、街機版的卡片也能就這樣拿來使用。裡面附有10張卡、遊戲裡還能夠自己做想像的卡片。
+2006年11月22日發售任天DS版的『時尚魔法學園 DS collection』。遊戲還附贈有讀卡機、街機版的卡片也能就這樣拿來使用。裡面附有10張卡、遊戲裡還能夠自己做想像的卡片。
 
 限定版裡有高貴粉紅色的DS Lite加上音樂CD。通常版的讀卡機則是白色、特別版的讀卡機則是粉紅色。
 
-在發售時，到同年12月就突破100萬張。是世嘉從1995年發售国内家庭用軟體[SEGA
-Saturn版的](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")『[VR快打2](https://zh.wikipedia.org/wiki/VR快打2 "wikilink")』以來，第二隻超過百萬的大作。而且也獲得[日本遊戲大賞](https://zh.wikipedia.org/wiki/日本遊戲大賞 "wikilink")2007年度特別賞。
+在發售時，到同年12月就突破100萬張。是世嘉從1995年發售国内家庭用軟體[SEGA Saturn版的](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")『[VR快打2](https://zh.wikipedia.org/wiki/VR快打2 "wikilink")』以來，第二隻超過百萬的大作。而且也獲得[日本遊戲大賞](https://zh.wikipedia.org/wiki/日本遊戲大賞 "wikilink")2007年度特別賞。
 
 ## 電影版
 
-2007年3月21日、以「**時尚魔女 Love and Berry 幸福的魔法**」（）的標題加以改編成動畫電影上映。製作為世嘉、TMS
-Entertainment。通常場景為「2D動畫」、但在跳舞場合時則是用和遊戲一樣的3D動畫。
+2007年3月21日、以「**時尚魔女 Love and Berry 幸福的魔法**」（）的標題加以改編成動畫電影上映。製作為世嘉、TMS Entertainment。通常場景為「2D動畫」、但在跳舞場合時則是用和遊戲一樣的3D動畫。
 
 ### 工作人員
 
@@ -268,8 +254,7 @@ Entertainment。通常場景為「2D動畫」、但在跳舞場合時則是用�
   - 劇本：国井桂
   - 音樂：MOKA☆
   - 總作画監督・角色設定：[門之園惠美](../Page/門之園惠美.md "wikilink")
-  - 製作：[TMS
-    Entertainment](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")
+  - 製作：[TMS Entertainment](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")
 
 ### 配音員
 
@@ -295,20 +280,8 @@ Entertainment。通常場景為「2D動畫」、但在跳舞場合時則是用�
 
   - [時尚魔法學園日本官網](https://web.archive.org/web/20060517080314/http://osharemajo.com/)
   - [時尚魔法學園台灣官網](https://web.archive.org/web/20090413045947/http://loveandberry.com.tw/)
-  - [新聞記事「女子版｢甲蟲王者｣\!?　時尚魔法學園誕生秘辛（Excite Bit
-    コネタ）」](http://www.excite.co.jp/News/bit/00091126149161.html)
+  - [新聞記事「女子版｢甲蟲王者｣\!?　時尚魔法學園誕生秘辛（Excite Bit コネタ）」](http://www.excite.co.jp/News/bit/00091126149161.html)
 
-[Category:2004年電子遊戲](https://zh.wikipedia.org/wiki/Category:2004年電子遊戲 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:世嘉遊戲](https://zh.wikipedia.org/wiki/Category:世嘉遊戲 "wikilink")
-[Category:街機卡片遊戲](https://zh.wikipedia.org/wiki/Category:街機卡片遊戲 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Ciao](https://zh.wikipedia.org/wiki/Category:Ciao "wikilink")
-[Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink")
-[Category:魔法少女動畫](https://zh.wikipedia.org/wiki/Category:魔法少女動畫 "wikilink")
-[Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink")
-[Category:時尚題材作品](https://zh.wikipedia.org/wiki/Category:時尚題材作品 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
+[Category:2004年電子遊戲](https://zh.wikipedia.org/wiki/Category:2004年電子遊戲 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:世嘉遊戲](https://zh.wikipedia.org/wiki/Category:世嘉遊戲 "wikilink") [Category:街機卡片遊戲](https://zh.wikipedia.org/wiki/Category:街機卡片遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Ciao](https://zh.wikipedia.org/wiki/Category:Ciao "wikilink") [Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink") [Category:魔法少女動畫](https://zh.wikipedia.org/wiki/Category:魔法少女動畫 "wikilink") [Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink") [Category:時尚題材作品](https://zh.wikipedia.org/wiki/Category:時尚題材作品 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
 
 1.

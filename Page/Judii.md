@@ -1,5 +1,4 @@
-**《Judii》**是香港歌手[黃馨的第二張個人唱片](../Page/黃馨_\(歌手\).md "wikilink")(CD+VCD)，於2004年12月公開發售，隨碟附送3首Music
-Video。
+**《Judii》**是香港歌手[黃馨的第二張個人唱片](../Page/黃馨_\(歌手\).md "wikilink")(CD+VCD)，於2004年12月公開發售，隨碟附送3首Music Video。
 
 ## 曲目列表
 
@@ -41,7 +40,4 @@ Video。
 |                                    **先知**                                    |           20           |
 |                                                                              |                        |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:黃馨音樂專輯](https://zh.wikipedia.org/wiki/Category:黃馨音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:黃馨音樂專輯](https://zh.wikipedia.org/wiki/Category:黃馨音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")

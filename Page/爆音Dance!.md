@@ -1,4 +1,4 @@
-「**爆音Dance\!**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")13张[单曲](../Page/单曲.md "wikilink")。2010年8月25日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+「**爆音Dance\!**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[℃-ute](../Page/℃-ute.md "wikilink")的第13张[单曲](../Page/单曲.md "wikilink")。2010年8月25日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -10,11 +10,9 @@
 ### CD（初回生産限定盤A - B，CD ONLY）
 
 1.  **爆音Dance\!**
-    （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[鈴木俊介](https://zh.wikipedia.org/wiki/鈴木俊介 "wikilink")）
+    （作詞・作曲：[淳君](../Page/淳君.md "wikilink") 編曲：[鈴木俊介](https://zh.wikipedia.org/wiki/鈴木俊介 "wikilink")）
 2.  **我不想再被討厭**（これ以上 嫌われたくないの）
-    （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")）
+    （作詞・作曲：[淳君](../Page/淳君.md "wikilink") 編曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")）
 3.  爆音Dance\!(Instrumental)
 
 ### DVD（初回生産限定盤A）
@@ -27,5 +25,4 @@
 
 {{℃-ute}}
 
-[Category:℃-ute歌曲](https://zh.wikipedia.org/wiki/Category:℃-ute歌曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
+[Category:℃-ute歌曲](https://zh.wikipedia.org/wiki/Category:℃-ute歌曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")

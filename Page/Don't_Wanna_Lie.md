@@ -1,11 +1,8 @@
-《**Don't Wanna
-Lie**》是[B'z第](../Page/B'z.md "wikilink")49张[单曲](../Page/单曲.md "wikilink")。
+《**Don't Wanna Lie**》是[B'z](../Page/B'z.md "wikilink")第49张[单曲](../Page/单曲.md "wikilink")。
 
 ## 简介
 
-这首单曲是于2011年4月16日上映的东宝系的[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")15周年纪念电影《[名侦探柯南
-沉默的15分](https://zh.wikipedia.org/wiki/名侦探柯南_沉默的15分 "wikilink")》的主题曲，同时也将和[仓木麻衣的](https://zh.wikipedia.org/wiki/仓木麻衣 "wikilink")《[always](https://zh.wikipedia.org/wiki/Always_\(仓木麻衣单曲\) "wikilink")》一样于4月30日同时作为OP播出，这首歌是柯南的[OP](https://zh.wikipedia.org/wiki/OP "wikilink")31。同时作为剧场版主题曲和柯南OP。单曲分为首发限量版和普通版兩種版本，首发限量版收錄PV的DVD。所有版本均附送收录《Don't
-Wanna Lie -Ballad Version-》的CD。
+这首单曲是于2011年4月16日上映的东宝系的[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")15周年纪念电影《[名侦探柯南 沉默的15分](https://zh.wikipedia.org/wiki/名侦探柯南_沉默的15分 "wikilink")》的主题曲，同时也将和[仓木麻衣的](https://zh.wikipedia.org/wiki/仓木麻衣 "wikilink")《[always](https://zh.wikipedia.org/wiki/Always_\(仓木麻衣单曲\) "wikilink")》一样于4月30日同时作为OP播出，这首歌是柯南的[OP](https://zh.wikipedia.org/wiki/OP "wikilink")31。同时作为剧场版主题曲和柯南OP。单曲分为首发限量版和普通版兩種版本，首发限量版收錄PV的DVD。所有版本均附送收录《Don't Wanna Lie -Ballad Version-》的CD。
 
 單曲的全2首歌曲收錄於專輯[C'mon](../Page/C'mon.md "wikilink")，對上一張全首歌曲收錄於專輯的單曲是5年前的[唯一絕不動搖的東西](../Page/唯一絕不動搖的東西.md "wikilink")。
 
@@ -43,9 +40,7 @@ Wanna Lie -Ballad Version-》的CD。
 ## 收录专辑
 
   - 《[C'mon](../Page/C'mon.md "wikilink")》 （両曲）
-  - 《[THE BEST OF DETECTIVE CONAN 4 〜名侦探柯南
-    主题曲集4〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_4_〜名侦探柯南_主题曲集4〜 "wikilink")》
-    （\#1）
+  - 《[THE BEST OF DETECTIVE CONAN 4 〜名侦探柯南 主题曲集4〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_4_〜名侦探柯南_主题曲集4〜 "wikilink")》 （\#1）
 
 <table>
 <tbody>
@@ -70,10 +65,4 @@ Wanna Lie -Ballad Version-》的CD。
 </tbody>
 </table>
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink")
-[Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
-[Category:2011年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink") [Category:2011年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲月榜冠軍作品 "wikilink") [Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink") [Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")

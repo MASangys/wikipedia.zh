@@ -1,6 +1,4 @@
-**Plarail**（日文：，台灣稱為**陪樂兒**，
-中國大陸稱為**普樂路路**）是[日本](../Page/日本.md "wikilink")[Takara
-Tomy公司推出作為](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")[兒童取向的](https://zh.wikipedia.org/wiki/兒童 "wikilink")[鐵道模型商品](../Page/鐵道模型.md "wikilink")，自1959年開始發售第一款模型，之後經過不斷改良之下，目前除一般鐵道玩法之外，亦有[地下鐵](https://zh.wikipedia.org/wiki/地下鐵 "wikilink")（[捷運](../Page/捷運.md "wikilink")）、[單軌電車及懸空單軌電車等新玩法](https://zh.wikipedia.org/wiki/單軌電車 "wikilink")。列車或聲控產品需安裝[乾電池使其驅動](../Page/乾電池.md "wikilink")。
+**Plarail**（日文：，台灣稱為**陪樂兒**， 中國大陸稱為**普樂路路**）是[日本](../Page/日本.md "wikilink")[Takara Tomy公司推出作為](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")[兒童取向的](https://zh.wikipedia.org/wiki/兒童 "wikilink")[鐵道模型](../Page/鐵道模型.md "wikilink")商品，自1959年開始發售第一款模型，之後經過不斷改良之下，目前除一般鐵道玩法之外，亦有[地下鐵](https://zh.wikipedia.org/wiki/地下鐵 "wikilink")（[捷運](../Page/捷運.md "wikilink")）、[單軌電車及懸空單軌電車等新玩法](https://zh.wikipedia.org/wiki/單軌電車 "wikilink")。列車或聲控產品需安裝[乾電池](../Page/乾電池.md "wikilink")使其驅動。
 
 ## 主要產品
 
@@ -8,7 +6,7 @@ Tomy公司推出作為](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")[�
 
 除日本國內發售之外，也出口至海外通路販售。
 
-  - 部份[JR列車](../Page/JR.md "wikilink")（含日本[國鐵時代](../Page/日本國有鐵道.md "wikilink")）
+  - 部份[JR](../Page/JR.md "wikilink")列車（含日本[國鐵時代](../Page/日本國有鐵道.md "wikilink")）
   - [新幹線](../Page/新幹線.md "wikilink")
   - [Plarail超級系列](../Page/Plarail超級系列.md "wikilink")
   - [新幹線戰士](../Page/新幹線戰士.md "wikilink")
@@ -46,9 +44,8 @@ Tomy公司推出作為](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")[�
 <!-- end list -->
 
   - [TEMU1000型太魯閣號](https://zh.wikipedia.org/wiki/太魯閣列車 "wikilink")（2011年在臺灣上市，日本未發售）
-  - [TEMU2000型普悠瑪號](https://zh.wikipedia.org/wiki/普悠瑪列車 "wikilink")（2013年在臺灣上市，日本未發售）
-  - [新太魯閣 Hello Kitty號
-    彩繪列車](https://zh.wikipedia.org/wiki/新太魯閣_Hello_Kitty號_彩繪列車 "wikilink")（2016年在臺灣上市，日本未發售）
+  - [TEMU2000型普悠瑪號](../Page/普悠瑪列車.md "wikilink")（2013年在臺灣上市，日本未發售）
+  - [新太魯閣 Hello Kitty號 彩繪列車](https://zh.wikipedia.org/wiki/新太魯閣_Hello_Kitty號_彩繪列車 "wikilink")（2016年在臺灣上市，日本未發售）
 
 <!-- end list -->
 
@@ -66,8 +63,7 @@ Tomy公司推出作為](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")[�
 <!-- end list -->
 
   - [港鐵現代化列車 (直流電)](https://zh.wikipedia.org/wiki/港鐵現代化列車 "wikilink")
-  - [港鐵近畿川崎電動列車
-    (交流電)](https://zh.wikipedia.org/wiki/港鐵近畿川崎電動列車 "wikilink")
+  - [港鐵近畿川崎電動列車 (交流電)](https://zh.wikipedia.org/wiki/港鐵近畿川崎電動列車 "wikilink")
   - [港鐵 Adtranz-CAF 電動列車 (直流電)](../Page/港鐵機場鐵路列車.md "wikilink")(機場快綫)
 
 ####
@@ -92,5 +88,4 @@ Tomy公司推出作為](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")[�
 
   - [Plarail官方網站](http://www.takaratomy.co.jp/products/plarail/)
 
-[Category:鐵路模型](https://zh.wikipedia.org/wiki/Category:鐵路模型 "wikilink")
-[Category:玩具](https://zh.wikipedia.org/wiki/Category:玩具 "wikilink")
+[Category:鐵路模型](https://zh.wikipedia.org/wiki/Category:鐵路模型 "wikilink") [Category:玩具](https://zh.wikipedia.org/wiki/Category:玩具 "wikilink")

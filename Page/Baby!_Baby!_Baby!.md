@@ -1,35 +1,27 @@
-《**Baby\! Baby\!
-Baby\!**》是[日本女子偶像團體](../Page/日本.md "wikilink")[AKB48的第](../Page/AKB48.md "wikilink")9張主要[單曲作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2008年2月至10月發行。由於在發行當時AKB48正處於代理唱片公司合約轉移的狀態，在沒有發片商的情況下改以[數位下載的方式發行](../Page/數位音樂下載.md "wikilink")，而成為該團體第一張數位下載曲。完整的單曲是自2008年6月13日開始供人網上下載\[1\]，但在6月1日時就已搶先推出部分的試播影片提供下載。中心成員由前田敦子擔當。
+《**Baby\! Baby\! Baby\!**》是[日本](../Page/日本.md "wikilink")女子偶像團體[AKB48](../Page/AKB48.md "wikilink")的第9張主要[單曲作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2008年2月至10月發行。由於在發行當時AKB48正處於代理唱片公司合約轉移的狀態，在沒有發片商的情況下改以[數位下載的方式發行](../Page/數位音樂下載.md "wikilink")，而成為該團體第一張數位下載曲。完整的單曲是自2008年6月13日開始供人網上下載\[1\]，但在6月1日時就已搶先推出部分的試播影片提供下載。中心成員由前田敦子擔當。
 
 ## 簡介
 
-2010年時AKB48推出的第二張精選[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")《[神曲集](../Page/神曲集.md "wikilink")》（）收錄了該單曲，但因製作時點不同參與演唱的成員名單有變化，單曲名稱也稍作修改而變成《**Baby\!
-Baby\! Baby\! Baby\!**》，是此單曲第一次以實體唱片的方式推出。該單曲的附屬影片作品《**Baby\! Baby\!
-Baby\! 錄影片段收藏集DVD**》（）也一同於本條目中介紹。
+2010年時AKB48推出的第二張精選[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")《[神曲集](../Page/神曲集.md "wikilink")》（）收錄了該單曲，但因製作時點不同參與演唱的成員名單有變化，單曲名稱也稍作修改而變成《**Baby\! Baby\! Baby\! Baby\!**》，是此單曲第一次以實體唱片的方式推出。該單曲的附屬影片作品《**Baby\! Baby\! Baby\! 錄影片段收藏集DVD**》（）也一同於本條目中介紹。
 
-[NTT
-DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode和](https://zh.wikipedia.org/wiki/i-mode "wikilink")[Napster的限定配信曲](https://zh.wikipedia.org/wiki/Napster_Japan "wikilink")。
+[NTT DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode和](https://zh.wikipedia.org/wiki/i-mode "wikilink")[Napster的限定配信曲](https://zh.wikipedia.org/wiki/Napster_Japan "wikilink")。
 
-到第8張單曲為止發售AKB48主要的唱片由[DefSTAR
-Records](../Page/DefSTAR_Records.md "wikilink")，本作是影音獨立製作人從第2張單曲《[裙襬飄飄](../Page/裙襬飄飄.md "wikilink")》以來由[AKS發售的作品](../Page/AKS.md "wikilink")（配信）。
+到第8張單曲為止發售AKB48主要的唱片由[DefSTAR Records](../Page/DefSTAR_Records.md "wikilink")，本作是影音獨立製作人從第2張單曲《[裙襬飄飄](../Page/裙襬飄飄.md "wikilink")》以來由[AKS](../Page/AKS.md "wikilink")發售的作品（配信）。
 
 2008年6月1日由[Music\&Video頻道在](https://zh.wikipedia.org/wiki/Music&Video頻道 "wikilink")「[AKB48公式頻道](https://zh.wikipedia.org/wiki/#AKB48頻道 "wikilink")」發放Making影像和[PV等配信](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。
 
 封面写真有2種，初期的封面選抜成員是大島麻衣、小嶋陽菜、篠田麻里子、渡邊麻友和前田敦子5人。
 
-選拔人數是前作20名不變。川崎、大堀2人第一次入選，中西是第5張單曲《[我的太陽](../Page/我的太陽_\(AKB48單曲\).md "wikilink")》以來和梅田在《[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")》以來的選抜復歸，另一方面是前作的選拔成員[成田梨紗](../Page/成田梨紗.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[多田愛佳和](../Page/多田愛佳.md "wikilink")[平嶋夏海落選](../Page/平嶋夏海.md "wikilink")。
+選拔人數是前作20名不變。川崎、大堀2人第一次入選，中西是第5張單曲《[我的太陽](../Page/我的太陽_\(AKB48單曲\).md "wikilink")》以來和梅田在《[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")》以來的選抜復歸，另一方面是前作的選拔成員[成田梨紗](../Page/成田梨紗.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")和[平嶋夏海](../Page/平嶋夏海.md "wikilink")落選。
 
 ## 下載曲與下載網站
 
 ### AKB48 Mobile（FOMA）
 
 1.  **《Baby\! Baby\! Baby\!》**
-    （作詞：[秋元康](../Page/秋元康.md "wikilink")
-    作曲：[上杉洋史](https://zh.wikipedia.org/wiki/上杉洋史 "wikilink")
-    編曲：[CHOKKAKU](https://zh.wikipedia.org/wiki/CHOKKAKU "wikilink")）
+    （作詞：[秋元康](../Page/秋元康.md "wikilink") 作曲：[上杉洋史](https://zh.wikipedia.org/wiki/上杉洋史 "wikilink") 編曲：[CHOKKAKU](https://zh.wikipedia.org/wiki/CHOKKAKU "wikilink")）
       -
-        [PV的創意總監為小山田彰男](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，導演為森祐樹。服裝（攝影棚內片段）的概念，是源自1960年代的復古服裝風格\[2\]。至於游泳池畔的室外片段，是在[東京都](../Page/東京都.md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")[東陽的](../Page/東陽_\(江東區\).md "wikilink")「東京East
-        21」花園游泳池實地取景。
+        [PV的創意總監為小山田彰男](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，導演為森祐樹。服裝（攝影棚內片段）的概念，是源自1960年代的復古服裝風格\[2\]。至於游泳池畔的室外片段，是在[東京都](../Page/東京都.md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")[東陽的](../Page/東陽_\(江東區\).md "wikilink")「東京East 21」花園游泳池實地取景。
 2.  **《Baby\! Baby\! Baby\!》（主奏橋段版）**（）
 3.  **《Baby\! Baby\! Baby\!》（間奏版）**（）
 
@@ -53,8 +45,7 @@ Records](../Page/DefSTAR_Records.md "wikilink")，本作是影音獨立製作人
 4.  **《初日》**
     （作詞：秋元康；作曲：[岡田實音](https://zh.wikipedia.org/wiki/岡田實音 "wikilink")；編曲：[市川裕一](https://zh.wikipedia.org/wiki/市川裕一 "wikilink")）
       -
-        [teamB 3rd
-        Stage「睡衣兜风」](https://zh.wikipedia.org/wiki/teamB_3rd_Stage「睡衣兜风」 "wikilink")（）公演的樂曲。
+        [teamB 3rd Stage「睡衣兜风」](https://zh.wikipedia.org/wiki/teamB_3rd_Stage「睡衣兜风」 "wikilink")（）公演的樂曲。
     <!-- end list -->
       - [井上奈瑠](https://zh.wikipedia.org/wiki/井上奈瑠 "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、柏木由紀、[片山陽加](../Page/片山陽加.md "wikilink")、菊地彩香、[佐伯美香](../Page/佐伯美香.md "wikilink")、[早乙女美樹](https://zh.wikipedia.org/wiki/早乙女美樹 "wikilink")、[田名部生來](https://zh.wikipedia.org/wiki/田名部生來 "wikilink")、[仲川遙香](https://zh.wikipedia.org/wiki/仲川遙香 "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[野口玲菜](https://zh.wikipedia.org/wiki/野口玲菜 "wikilink")、[平嶋夏海](../Page/平嶋夏海.md "wikilink")、[松岡由紀](https://zh.wikipedia.org/wiki/松岡由紀 "wikilink")、[米澤瑠美](../Page/米澤瑠美.md "wikilink")、渡邊麻友
       - 6月份日語歌曲、J-Pop歌曲下載排行榜第5名
@@ -164,27 +155,21 @@ Records](../Page/DefSTAR_Records.md "wikilink")，本作是影音獨立製作人
 
 （中央位置：前田敦子）
 
-  - Team
-    A：[板野友美](../Page/板野友美.md "wikilink")、[大島麻衣](../Page/大島麻衣.md "wikilink")、[川崎希](../Page/川崎希.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[佐藤由加理](../Page/佐藤由加理.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")、[中西里菜](../Page/中西里菜.md "wikilink")、[前田敦子](../Page/前田敦子.md "wikilink")、[峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")
-  - Team
-    K：[秋元才加](../Page/秋元才加.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[小野惠令奈](../Page/小野惠令奈.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")
-  - Team
-    B：[柏木由紀](../Page/柏木由紀.md "wikilink")、[菊地彩香](https://zh.wikipedia.org/wiki/菊地あやか "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")
+  - Team A：[板野友美](../Page/板野友美.md "wikilink")、[大島麻衣](../Page/大島麻衣.md "wikilink")、[川崎希](../Page/川崎希.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[佐藤由加理](../Page/佐藤由加理.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")、[中西里菜](../Page/中西里菜.md "wikilink")、[前田敦子](../Page/前田敦子.md "wikilink")、[峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")
+  - Team K：[秋元才加](../Page/秋元才加.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[小野惠令奈](../Page/小野惠令奈.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")
+  - Team B：[柏木由紀](../Page/柏木由紀.md "wikilink")、[菊地彩香](https://zh.wikipedia.org/wiki/菊地あやか "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")
 
 ### 專輯用選抜成員
 
-最佳專輯《[神曲集](../Page/神曲集.md "wikilink")》被收錄《Baby\! Baby\! Baby\!
-Baby\!》的選抜成員
+最佳專輯《[神曲集](../Page/神曲集.md "wikilink")》被收錄《Baby\! Baby\! Baby\! Baby\!》的選抜成員
 
   - 團隊所屬情況用新體制表記
 
 <!-- end list -->
 
-  - Team
-    A：[倉持明日香](../Page/倉持明日香.md "wikilink")、小嶋、篠田、[高城亞樹](../Page/高城亞樹.md "wikilink")、高橋、前田
+  - Team A：[倉持明日香](../Page/倉持明日香.md "wikilink")、小嶋、篠田、[高城亞樹](../Page/高城亞樹.md "wikilink")、高橋、前田
   - Team K：秋元、板野、梅田、大島、小野、菊地、峯岸、宮澤
-  - Team
-    B：河西、柏木、[北原里英](../Page/北原里英.md "wikilink")、[佐藤すみれ](https://zh.wikipedia.org/wiki/佐藤すみれ "wikilink")、[宮崎美穗](../Page/宮崎美穗.md "wikilink")、渡邊
+  - Team B：河西、柏木、[北原里英](../Page/北原里英.md "wikilink")、[佐藤すみれ](https://zh.wikipedia.org/wiki/佐藤すみれ "wikilink")、[宮崎美穗](../Page/宮崎美穗.md "wikilink")、渡邊
 
 <!-- end list -->
 
@@ -340,7 +325,7 @@ Baby\!》的選抜成員
 <tr class="odd">
 <td><p>Baby! Baby! Baby!</p></td>
 <td><ul>
-<li><a href="../Page/TBS.md" title="wikilink">TBS系</a>『<a href="https://zh.wikipedia.org/wiki/アッコにおまかせ!" title="wikilink">アッコにおまかせ!</a>』片尾曲</li>
+<li><a href="../Page/TBS.md" title="wikilink">TBS</a>系『<a href="https://zh.wikipedia.org/wiki/アッコにおまかせ!" title="wikilink">アッコにおまかせ!</a>』片尾曲</li>
 <li>CS『<a href="../Page/AKB48神TV.md" title="wikilink">AKB48神TV</a>』・『AKB48ネ申TV Special』開頭曲</li>
 </ul></td>
 </tr>
@@ -353,19 +338,13 @@ Baby\!》的選抜成員
 
 ## 翻唱
 
-《Baby\! Baby\!
-Baby\!》曾被AKB48首個日本國外的[姊妹組合](https://zh.wikipedia.org/wiki/AKB48#姊妹組合 "wikilink")——[JKT48翻唱成](../Page/JKT48.md "wikilink")[印尼語版本](https://zh.wikipedia.org/wiki/印尼語 "wikilink")，名為《Baby\!
-Baby\!
-Baby\!》。JKT48於2012年8月24-26日的東京巨蛋演唱會活動上演唱這首歌;並收綠在JKT48出道的第一隻唱片中.\[4\]
+《Baby\! Baby\! Baby\!》曾被AKB48首個日本國外的[姊妹組合](https://zh.wikipedia.org/wiki/AKB48#姊妹組合 "wikilink")——[JKT48](../Page/JKT48.md "wikilink")翻唱成[印尼語版本](https://zh.wikipedia.org/wiki/印尼語 "wikilink")，名為《Baby\! Baby\! Baby\!》。JKT48於2012年8月24-26日的東京巨蛋演唱會活動上演唱這首歌;並收綠在JKT48出道的第一隻唱片中.\[4\]
 
 ## 註釋
 
 ## 參考文獻
 
-[Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:DefSTAR_Records歌曲](https://zh.wikipedia.org/wiki/Category:DefSTAR_Records歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:DefSTAR_Records歌曲](https://zh.wikipedia.org/wiki/Category:DefSTAR_Records歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
 
 1.  實際是前一天的6月12日晚上就開始提供網上下載。
 2.  「AKB48官方頻道」6月20日在配信部分，前田敦子在訪問時說明。

@@ -12,14 +12,8 @@ Epidata可以用于数据录入和简单的数据分析。如果需要对数据�
 
   - [EpiData官方网站](http://www.epidata.dk)
   - [EpiData维基](https://archive.is/20130108173014/http://www.epidata.org/wiki/)
-  - [EpiData-list](http://lists.umanitoba.ca/mailman/listinfo/epidata-list)
-    – EpiData邮件列表
+  - [EpiData-list](http://lists.umanitoba.ca/mailman/listinfo/epidata-list) – EpiData邮件列表
   - [世界卫生组织STEPS式监测方法](http://www.who.int/chp/steps/resources/EpiData/en/)
-  - [Epicentre](http://www.epicentre.msf.org/) -
-    [无国界医生](https://zh.wikipedia.org/wiki/无国界医生 "wikilink")
+  - [Epicentre](http://www.epicentre.msf.org/) - [无国界医生](https://zh.wikipedia.org/wiki/无国界医生 "wikilink")
 
-[Category:1999年建立](https://zh.wikipedia.org/wiki/Category:1999年建立 "wikilink")
-[Category:生物統計學](https://zh.wikipedia.org/wiki/Category:生物統計學 "wikilink")
-[Category:流行病学](https://zh.wikipedia.org/wiki/Category:流行病学 "wikilink")
-[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
-[Category:统计软件](https://zh.wikipedia.org/wiki/Category:统计软件 "wikilink")
+[Category:1999年建立](https://zh.wikipedia.org/wiki/Category:1999年建立 "wikilink") [Category:生物統計學](https://zh.wikipedia.org/wiki/Category:生物統計學 "wikilink") [Category:流行病学](https://zh.wikipedia.org/wiki/Category:流行病学 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:统计软件](https://zh.wikipedia.org/wiki/Category:统计软件 "wikilink")

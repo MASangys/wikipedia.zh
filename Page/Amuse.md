@@ -1,29 +1,17 @@
-**AMUSE**（；又譯為**雅慕斯**）是[日本一間以從事](../Page/日本.md "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀為主的大型](https://zh.wikipedia.org/wiki/經紀 "wikilink")[演藝事業](../Page/演藝界.md "wikilink")[公司](../Page/公司.md "wikilink")，由創立於1978年。旗下藝人涵蓋的領域相當廣泛，其中又以培育[音樂人和](https://zh.wikipedia.org/wiki/音樂人 "wikilink")[演員為主](../Page/演員.md "wikilink")。
+**AMUSE**（；又譯為**雅慕斯**）是[日本](../Page/日本.md "wikilink")一間以從事[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀為主的大型](https://zh.wikipedia.org/wiki/經紀 "wikilink")[演藝事業](../Page/演藝界.md "wikilink")[公司](../Page/公司.md "wikilink")，由創立於1978年。旗下藝人涵蓋的領域相當廣泛，其中又以培育[音樂人和](https://zh.wikipedia.org/wiki/音樂人 "wikilink")[演員](../Page/演員.md "wikilink")為主。
 
 ## 簡介
 
-1978年10月16日，於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷創立](../Page/澀谷.md "wikilink")
-Amuse，擁有員工198人（集團員工數264人）。
-創始人大里洋吉原為**渡邊事務所**之經紀人，因為路線的對立而獨立出來，憑借擁有[南方之星等藝人](../Page/南方之星.md "wikilink")，而開始培養女演員。
+1978年10月16日，於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷](../Page/澀谷.md "wikilink")創立 Amuse，擁有員工198人（集團員工數264人）。
+創始人大里洋吉原為**渡邊事務所**之經紀人，因為路線的對立而獨立出來，憑借擁有[南方之星](../Page/南方之星.md "wikilink")等藝人，而開始培養女演員。
 在Amuse大股東中，個人持股數第一名是創始人**大里洋吉**、第四名大裡久仁子、第七名是前會長宮下昌之，第十位則是CCC（TSUTAYA）會長増田宗昭。
-Amuse 與 [HORIPRO](../Page/Horipro.md "wikilink")
-同為演藝界少數[上市的事務所](../Page/上市公司.md "wikilink")。以作為上市公司的
-Amuse 為主體，還包括專門製作音樂軟體的  及製作、銷售影像軟體的 Amuse Entertainment。
-2014年9月，與 [Lantis](../Page/Lantis.md "wikilink") 和 [BANDAI NAMCO Live
-Creative](../Page/萬代影視.md "wikilink")
-兩家公司就**動畫相關內容的海外發展**發表締結業務合作聲明\[1\]。海外拓展的內容包含了
-**Lantis 旗下藝人**之演唱會及**動漫相關活動**（例如 [Lantis
-Festival](../Page/Lantis_Festival.md "wikilink") 和 [**Anisong World
-Matsuri**](http://www.anime-expo.org/anisong-world-matsuri-2017/)）的主辦權、且公開販售
-Lantis 和 BANDAI NAMCO Live Creative 所有版權的動漫歌曲等（於 ASMART
-上架，台灣地區由Yahoo奇摩超級商城代理）。
-2016年1月，再與 Lantis 合資設立 [AmuseLantis Europe
-S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")
-，同年4月啟用\[2\]，以拓展至[歐洲市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。
+Amuse 與 [HORIPRO](../Page/Horipro.md "wikilink") 同為演藝界少數[上市的事務所](../Page/上市公司.md "wikilink")。以作為上市公司的 Amuse 為主體，還包括專門製作音樂軟體的  及製作、銷售影像軟體的 Amuse Entertainment。
+2014年9月，與 [Lantis](../Page/Lantis.md "wikilink") 和 [BANDAI NAMCO Live Creative](../Page/萬代影視.md "wikilink") 兩家公司就**動畫相關內容的海外發展**發表締結業務合作聲明\[1\]。海外拓展的內容包含了 **Lantis 旗下藝人**之演唱會及**動漫相關活動**（例如 [Lantis Festival](../Page/Lantis_Festival.md "wikilink") 和 [**Anisong World Matsuri**](http://www.anime-expo.org/anisong-world-matsuri-2017/)）的主辦權、且公開販售 Lantis 和 BANDAI NAMCO Live Creative 所有版權的動漫歌曲等（於 ASMART 上架，台灣地區由Yahoo奇摩超級商城代理）。
+2016年1月，再與 Lantis 合資設立 [AmuseLantis Europe S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink") ，同年4月啟用\[2\]，以拓展至[歐洲市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。
 
 ## 旗下藝人
 
-下面依照[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[五十音排列](../Page/五十音.md "wikilink")。
+下面依照[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[五十音](../Page/五十音.md "wikilink")排列。
 
   - a行
 
@@ -44,7 +32,6 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")
 <!-- end list -->
 
   - [甲斐翔真](../Page/甲斐翔真.md "wikilink")
-  - [加賀美聖良](https://zh.wikipedia.org/wiki/加賀美聖良 "wikilink")
   - [賀来賢人](https://zh.wikipedia.org/wiki/賀来賢人 "wikilink")
   - [風間由次郎](https://zh.wikipedia.org/wiki/風間由次郎 "wikilink")
   - [株元英彰](../Page/株元英彰.md "wikilink")
@@ -117,7 +104,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")
 
 <!-- end list -->
 
-  - [松岡広大](https://zh.wikipedia.org/wiki/松岡広大 "wikilink")
+  - [松岡廣大](https://zh.wikipedia.org/wiki/松岡廣大 "wikilink")
   - [松島庄汰](https://zh.wikipedia.org/wiki/松島庄汰 "wikilink")
   - [三浦春馬](../Page/三浦春馬.md "wikilink")
   - [水田航生](../Page/水田航生.md "wikilink")
@@ -166,8 +153,10 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")
 
   - [Beyond](../Page/Beyond.md "wikilink")
   - [林剛史](../Page/林剛史.md "wikilink")
-  - 山下銀次
-  - 柳澤貴彥
+  - [小出惠介](../Page/小出惠介.md "wikilink")
+  - [加賀美聖良](https://zh.wikipedia.org/wiki/加賀美聖良 "wikilink")
+  - [山下銀次](https://zh.wikipedia.org/wiki/山下銀次 "wikilink")
+  - [柳澤貴彥](https://zh.wikipedia.org/wiki/柳澤貴彥 "wikilink")
 
 ## 參考資料
 
@@ -186,12 +175,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")
   - [雅慕斯娛樂（AMUSE台灣子公司）](http://www.amusetaiwan.com/)
   - [アスマート：ASMART](https://www.asmart.jp/?lang=Jp)
 
-[Category:AMUSE](https://zh.wikipedia.org/wiki/Category:AMUSE "wikilink")
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
+[Category:AMUSE](https://zh.wikipedia.org/wiki/Category:AMUSE "wikilink") [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
 
-1.  [AMUSE，\#Lantis\#，\#BANDAI NAMCO Live
-    Creative\#三家公司就動畫相關內容的海外發展發表締結業務合作聲明。](http://mindcity.sina.com.tw/weibo/user/amusecn/3759025587551213)
-    ・2014年9月26日。
-2.  [アミューズとランティスの合弁会社 AmuseLantis Europe
-    S.A.S.設立！フランス・パリにて記者会見が行われました！](http://www.lantis.jp/news.php?id=1459858850)・2014年4月5日。
+1.  [AMUSE，\#Lantis\#，\#BANDAI NAMCO Live Creative\#三家公司就動畫相關內容的海外發展發表締結業務合作聲明。](http://mindcity.sina.com.tw/weibo/user/amusecn/3759025587551213) ・2014年9月26日。
+2.  [アミューズとランティスの合弁会社 AmuseLantis Europe S.A.S.設立！フランス・パリにて記者会見が行われました！](http://www.lantis.jp/news.php?id=1459858850)・2014年4月5日。

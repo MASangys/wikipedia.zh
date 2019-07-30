@@ -1,5 +1,4 @@
-**MGM-5
-伍長**（Corporal）是[美國第一種可以攜帶](https://zh.wikipedia.org/wiki/美國 "wikilink")[核子武器的](https://zh.wikipedia.org/wiki/核子武器 "wikilink")[彈道飛彈](https://zh.wikipedia.org/wiki/彈道飛彈 "wikilink")，也是[美國陸軍第一款正式服役的飛彈](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")。伍長飛彈採用[液態火箭發動機](https://zh.wikipedia.org/wiki/液態火箭發動機 "wikilink")，可以裝載於機動發射架上更換發射地點，最大射程达140千米。
+**MGM-5 伍長**（Corporal）是[美國第一種可以攜帶](https://zh.wikipedia.org/wiki/美國 "wikilink")[核子武器的](https://zh.wikipedia.org/wiki/核子武器 "wikilink")[彈道飛彈](https://zh.wikipedia.org/wiki/彈道飛彈 "wikilink")，也是[美國陸軍第一款正式服役的飛彈](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")。伍長飛彈採用[液態火箭發動機](https://zh.wikipedia.org/wiki/液態火箭發動機 "wikilink")，可以裝載於機動發射架上更換發射地點，最大射程达140千米。
 
 冷战开始后，为应对这一局面，下士导弹被设计成了一种战术核导弹。最初的下士导弹营于1955年在欧洲开始服役。共有六个下士导弹营被正式部署，直到1964年，被新型的使用固体火箭发动机的[MGM-29中士导弹所取代](https://zh.wikipedia.org/wiki/MGM-29导弹 "wikilink")。
 
@@ -22,5 +21,4 @@ SSM-A-17由[噴射推進實驗室進行研發的工作](https://zh.wikipedia.org
 
   - <https://web.archive.org/web/20070310222630/http://www.redstone.army.mil/history/systems/corporal/welcome.html>
 
-[Category:美國彈道飛彈](https://zh.wikipedia.org/wiki/Category:美國彈道飛彈 "wikilink")
-[Category:面对面飛彈](https://zh.wikipedia.org/wiki/Category:面对面飛彈 "wikilink")
+[Category:美國彈道飛彈](https://zh.wikipedia.org/wiki/Category:美國彈道飛彈 "wikilink") [Category:面对面飛彈](https://zh.wikipedia.org/wiki/Category:面对面飛彈 "wikilink")

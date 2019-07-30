@@ -1,5 +1,4 @@
-本文是介紹[視窗作業系統](https://zh.wikipedia.org/wiki/視窗作業系統 "wikilink")（Microsoft
-Windows）從1985年到現在的發展的歷史年表。
+本文是介紹[視窗作業系統](https://zh.wikipedia.org/wiki/視窗作業系統 "wikilink")（Microsoft Windows）從1985年到現在的發展的歷史年表。
 
 ## 個人電腦/伺服器
 
@@ -79,11 +78,9 @@ Windows）從1985年到現在的發展的歷史年表。
 
 ## 參見
 
-  - [Microsoft
-    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+  - [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 
-  - [Microsoft
-    Windows的歷史](https://zh.wikipedia.org/wiki/Microsoft_Windows的歷史 "wikilink")
+  - [Microsoft Windows的歷史](https://zh.wikipedia.org/wiki/Microsoft_Windows的歷史 "wikilink")
 
   -
   -
@@ -98,13 +95,9 @@ Windows）從1985年到現在的發展的歷史年表。
   -
 ## 外部連結
 
-  - [Official Microsoft Windows
-    Website](http://www.microsoft.com/Windows/)
-  - [Microsoft Windows History
-    Timeline](https://web.archive.org/web/20070202222901/http://www.microsoft.com/windows/WinHistoryIntro.mspx)
+  - [Official Microsoft Windows Website](http://www.microsoft.com/Windows/)
+  - [Microsoft Windows History Timeline](https://web.archive.org/web/20070202222901/http://www.microsoft.com/windows/WinHistoryIntro.mspx)
 
 {{-}}
 
-[Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
-[Category:計算年表](https://zh.wikipedia.org/wiki/Category:計算年表 "wikilink")
-[Category:軟體史](https://zh.wikipedia.org/wiki/Category:軟體史 "wikilink")
+[Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:計算年表](https://zh.wikipedia.org/wiki/Category:計算年表 "wikilink") [Category:軟體史](https://zh.wikipedia.org/wiki/Category:軟體史 "wikilink")

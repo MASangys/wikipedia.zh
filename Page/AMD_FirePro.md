@@ -1,22 +1,11 @@
-[AMD_Graphics_FirePro_New_Logo.png](https://zh.wikipedia.org/wiki/File:AMD_Graphics_FirePro_New_Logo.png "fig:AMD_Graphics_FirePro_New_Logo.png")
-**AMD FirePro**(又称ATI
-FirePro),是由[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")
-开发的显示芯片.由ATI FireGL、ATI FireMV以及ATI
-Firestream三大系列在ATI被AMD收購後合併而來。[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")
-**FirePro**定位於專業領域以及特殊應用，主要競爭對手為[NVIDIA與](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")。
+[AMD_Graphics_FirePro_New_Logo.png](https://zh.wikipedia.org/wiki/File:AMD_Graphics_FirePro_New_Logo.png "fig:AMD_Graphics_FirePro_New_Logo.png") **AMD FirePro**(又称ATI FirePro),是由[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") 开发的显示芯片.由ATI FireGL、ATI FireMV以及ATI Firestream三大系列在ATI被AMD收購後合併而來。[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") **FirePro**定位於專業領域以及特殊應用，主要競爭對手為[NVIDIA與](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")。
 
 ## 子系列
 
   - AMD Firepro系列透過後墜來分別子產品線:
-      - Firepro 3D V/Firepro V/Firepro W:為3D繪圖卡系列，接替[ATI
-        FireGL](../Page/ATI_FireGL.md "wikilink")，其中包含移動版Firepro系列，主要競爭對手為[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")
-        [Quadro系列繪圖卡](../Page/Quadro.md "wikilink")，其中AMD Firepro
-        W600為多螢幕應用顯示卡。
-      - Firepro 22x0/24x0:為多螢幕2D顯示卡，接替[ATI
-        FireMV](https://zh.wikipedia.org/wiki/ATI_FireMV "wikilink")。
-      - Firepro S:為GPGPU應用運算卡，接替[ATi
-        Firestream系列](https://zh.wikipedia.org/wiki/ATi_Firestream "wikilink")，主要競爭對手為[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[Tesla系列與](https://zh.wikipedia.org/wiki/Tesla "wikilink")[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")[Xeon
-        phi系列運算卡](https://zh.wikipedia.org/wiki/Xeon_phi "wikilink")。
+      - Firepro 3D V/Firepro V/Firepro W:為3D繪圖卡系列，接替[ATI FireGL](../Page/ATI_FireGL.md "wikilink")，其中包含移動版Firepro系列，主要競爭對手為[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink") [Quadro](../Page/Quadro.md "wikilink")系列繪圖卡，其中AMD Firepro W600為多螢幕應用顯示卡。
+      - Firepro 22x0/24x0:為多螢幕2D顯示卡，接替[ATI FireMV](https://zh.wikipedia.org/wiki/ATI_FireMV "wikilink")。
+      - Firepro S:為GPGPU應用運算卡，接替[ATi Firestream系列](https://zh.wikipedia.org/wiki/ATi_Firestream "wikilink")，主要競爭對手為[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[Tesla系列與](https://zh.wikipedia.org/wiki/Tesla "wikilink")[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")[Xeon phi系列運算卡](https://zh.wikipedia.org/wiki/Xeon_phi "wikilink")。
       - Firepro R:為遠端應用繪圖卡。
 
 ## AMD FirePro 列表
@@ -1252,24 +1241,17 @@ GFLOPs</p></th>
 
 ## 参见
 
-[AMD
-FirePro官方网站](http://www.amd.com/cn/products/workstation/graphics/ati-firepro-3d/Pages/ati-firepro-3d.aspx)
+[AMD FirePro官方网站](http://www.amd.com/cn/products/workstation/graphics/ati-firepro-3d/Pages/ati-firepro-3d.aspx)
 
 ## 參考資料
 
-[Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink")
-[Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink")
+[Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink") [Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink")
 
-1.  [AMD Vendor ID
-    page](http://developer.amd.com/drivers/pc_vendor_id/Pages/default.aspx)
-    . Retrieved September 6, 2008.
+1.  [AMD Vendor ID page](http://developer.amd.com/drivers/pc_vendor_id/Pages/default.aspx) . Retrieved September 6, 2008.
 
-2.  [AMD FirePro V5800 and V3800 Review - Evergreen completes the
-    sweep](http://www.pcper.com/article.php?aid=909)
+2.  [AMD FirePro V5800 and V3800 Review - Evergreen completes the sweep](http://www.pcper.com/article.php?aid=909)
 
-3.  [AMD FirePro V4800 & FirePro V7800
-    Review](http://www.phoronix.com/scan.php?page=article&item=amd_firepro_v4800_v7800).
-    Retrieved September 6, 2008.
+3.  [AMD FirePro V4800 & FirePro V7800 Review](http://www.phoronix.com/scan.php?page=article&item=amd_firepro_v4800_v7800). Retrieved September 6, 2008.
 
 4.
 5.
@@ -1287,5 +1269,4 @@ FirePro官方网站](http://www.amd.com/cn/products/workstation/graphics/ati-fir
 
 12. <http://www.amd.com/en-us/products/graphics/workstation/firepro-remote-graphics/s9150#>
 
-13. [ATI FirePro 2460 Multi-View Professional
-    Graphics](http://www.amd.com/US/PRODUCTS/WORKSTATION/GRAPHICS/ATI-FIREMV-2D/2460-MV/Pages/2460-firemv.aspx#2)
+13. [ATI FirePro 2460 Multi-View Professional Graphics](http://www.amd.com/US/PRODUCTS/WORKSTATION/GRAPHICS/ATI-FIREMV-2D/2460-MV/Pages/2460-firemv.aspx#2)

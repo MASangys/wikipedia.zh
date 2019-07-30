@@ -1,10 +1,6 @@
-《**DOG
-DAYS**》（）是於2011年4月播放的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。全13話。4月2號深夜於TOKYO
-MX、MBS等電視台開始放送。官方推特上宣布動畫第二季製作確定，命名為「**DOG
-DAYS'**」（），並於2012年7月7日開始播放，全13話。
+《**DOG DAYS**》（）是於2011年4月播放的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。全13話。4月2號深夜於TOKYO MX、MBS等電視台開始放送。官方推特上宣布動畫第二季製作確定，命名為「**DOG DAYS'**」（），並於2012年7月7日開始播放，全13話。
 
-2012年11月25日，漫畫版作者[藤真拓哉在自己的推特上公布了第三季製作決定的消息](../Page/藤真拓哉.md "wikilink")，官方推特也於隨後證實。第三季命名為「**DOG
-DAYS''**」（），並於2015年1月播放。\[1\]
+2012年11月25日，漫畫版作者[藤真拓哉](../Page/藤真拓哉.md "wikilink")在自己的推特上公布了第三季製作決定的消息，官方推特也於隨後證實。第三季命名為「**DOG DAYS''**」（），並於2015年1月播放。\[1\]
 
 ## 故事簡介
 
@@ -18,17 +14,14 @@ DAYS''**」（），並於2015年1月播放。\[1\]
 
 ### 第三季
 
-愉快的夏日——那之後又過了一季，3名勇者再度回歸弗洛尼爾德！
-本次的舞台是秋季。不曉得是敵是友的神秘少女「夏露」加入其中，引發了更加熱鬧的大騷動……！？
-愛與勇氣與耳朵與尾巴的物語，第三次開幕！
+愉快的夏日——那之後又過了一季，3名勇者再度回歸弗洛尼爾德！ 本次的舞台是秋季。不曉得是敵是友的神秘少女「夏露」加入其中，引發了更加熱鬧的大騷動……！？ 愛與勇氣與耳朵與尾巴的物語，第三次開幕！
 
 ## 登場人物
 
 ### 地球人
 
   -
-    13歲，住在日本的紀乃枝市的鴇野町，現正在日本International
-    School（國際學校）上學的英國混血兒初中一年級男生。性格陽光率直有個性。熱愛馬戲團表演和體育競技，最喜歡運動。雖然沒有武術的經驗，但為了做出“像畫一樣的動作”有在練習棍術。看起來是個一旦下定決心就要貫徹到底的熱血少年，實際上平常卻有著天然的一面。以“勇者”的身份被召喚到異世界弗洛尼爾德的比斯科迪共和國，以米希奧蕾公主的“勇者”的身份活躍在異世界中，似乎對公主有特別的感情，自身經常幫蕾貝卡設計新髮型，現在也不時幫米希奧蕾設計新髮型。
+    13歲，住在日本的紀乃枝市的鴇野町，現正在日本International School（國際學校）上學的英國混血兒初中一年級男生。性格陽光率直有個性。熱愛馬戲團表演和體育競技，最喜歡運動。雖然沒有武術的經驗，但為了做出“像畫一樣的動作”有在練習棍術。看起來是個一旦下定決心就要貫徹到底的熱血少年，實際上平常卻有著天然的一面。以“勇者”的身份被召喚到異世界弗洛尼爾德的比斯科迪共和國，以米希奧蕾公主的“勇者”的身份活躍在異世界中，似乎對公主有特別的感情，自身經常幫蕾貝卡設計新髮型，現在也不時幫米希奧蕾設計新髮型。
     得到了比斯科迪的神劍“巴拉迪昂”（Palladion，通常是以棍子形態顯現）
     基於自身的性格及能力，在弗洛尼爾德中有不少人對真紅是有好感的，因此蕾貝卡曾說出真紅在這異世界中豎了太多旗了（請見第2季第3集）。
     在和蕾貝卡、七海及米希奧蕾散步時的飛碟遊戲及摸公主的頭時，被蕾貝卡和七海認為是把米希奧蕾當成愛犬一樣的玩耍（請見第2季第3集）。
@@ -110,8 +103,7 @@ DAYS''**」（），並於2015年1月播放。\[1\]
     非常尊敬主人米爾希，有著無比的忠誠心，很喜歡被米爾希摸頭。
     另外非常崇拜國家的英雄達爾基安卿，實際上一文字、十文字等愛用招式是達爾基安卿所傳授。之後也跟真紅、小雪、諾瓦一起修行。
     戰爭活動中做為親衛隊的領隊，偶爾也會單獨或跟真紅搭擋突入敵軍，擅長使用雙劍二刀流以及紋章砲。不過根據跟真紅的特訓，擅長的武器種類應該相當豐富。
-    是真紅在弗洛尼爾德時的嚮導，一起行動的頻率僅次於莉歌跟小雪，時常一起武術鍛鍊，是互相砥礪的好對手。原本不會邀請男孩子，但是卻主動邀請真紅一起吃晚飯，對真紅持有不明程度的好感。在第二季之前還進行特訓習得了真紅擅長的**Extreme
-    Catch**。
+    是真紅在弗洛尼爾德時的嚮導，一起行動的頻率僅次於莉歌跟小雪，時常一起武術鍛鍊，是互相砥礪的好對手。原本不會邀請男孩子，但是卻主動邀請真紅一起吃晚飯，對真紅持有不明程度的好感。在第二季之前還進行特訓習得了真紅擅長的**Extreme Catch**。
     從莉歌的狀態明白送還之儀的真相，表達自己日理萬機，可沒有自信記住他，要他不想被忘記的話就快點回來。在送還之儀後監督騎士團訓練的畫面可以看到她剛哭過的痕跡。
     跟真紅有數不清的孽緣所以始終單方面的對他嚴厲。被摸到胸部才被認出是女性、在戰爭中誤爆而裸體、受到攻擊不小心接吻等等。在跟莉歌的爭吵事件中，與蕾歐的交戰才把內心的感受宣洩出來，終於坦率面對自己的感情。
     在一起修行時披露自己的對魔物用輝力武裝－輝力之刃「**光凌劍**」及二刀流的「**光凌劍 雙牙**」。
@@ -168,8 +160,7 @@ DAYS''**」（），並於2015年1月播放。\[1\]
     在真紅進行送還之儀之前，從真紅那邊得到的紀念品是四色原子筆以及攜帶式音響，並且表示不會拆來來研究，會好好珍藏著。
     在第二季提及完成了勇者召喚的改良版本「**莉歌式勇者召喚**」，讓勇者們能安心的來回。此外電話方面也有改良，在國內便能讓勇者們的手機與地球接通。
     曾經因為無法放著不坦率的艾可蕾爾不管，而積極的慫恿她表達自己的心意，兩人因此吵了一架，不過後來在蕾歐的幫助下和好，兩人友誼變的更加深厚。
-    另外有著**音痴**的設定。因此是唯一沒有參加比斯科迪的主要女性角色合唱的角色歌曲「Miracle Colors
-    -Remix-（廣播劇CD vol.3收錄）」的角色。
+    另外有著**音痴**的設定。因此是唯一沒有參加比斯科迪的主要女性角色合唱的角色歌曲「Miracle Colors -Remix-（廣播劇CD vol.3收錄）」的角色。
     名字的由來是[里考塔](https://zh.wikipedia.org/wiki/里考塔 "wikilink")。
 
 <!-- end list -->
@@ -537,9 +528,7 @@ DAYS''**」（），並於2015年1月播放。\[1\]
 
 ## 製作人員
 
-[DOG_DAYS.jpg](https://zh.wikipedia.org/wiki/File:DOG_DAYS.jpg "fig:DOG_DAYS.jpg")
-製作人員大多都與[魔法少女奈葉系列相關](../Page/魔法少女奈葉系列.md "wikilink")，網站上亦曾經有DOG
-DAYS的連結\[2\]。
+[DOG_DAYS.jpg](https://zh.wikipedia.org/wiki/File:DOG_DAYS.jpg "fig:DOG_DAYS.jpg") 製作人員大多都與[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")相關，網站上亦曾經有DOG DAYS的連結\[2\]。
 
   - 原作、腳本：[都築真紀](../Page/都築真紀.md "wikilink")
   - 監督：[草川啓造](https://zh.wikipedia.org/wiki/草川啓造 "wikilink")（第1季）、[西村純二](../Page/西村純二.md "wikilink")（第2季、第3季）
@@ -551,8 +540,7 @@ DAYS的連結\[2\]。
   - 圖像設計：
   - 色彩設計：[篠原愛子](https://zh.wikipedia.org/wiki/篠原愛子 "wikilink")
   - CG主動畫：[石川真平](https://zh.wikipedia.org/wiki/石川真平 "wikilink")（第1季）
-  - 美術監督、設定：[片平真司](https://zh.wikipedia.org/wiki/片平真司 "wikilink")（第1季）、[海津利子](https://zh.wikipedia.org/wiki/海津利子 "wikilink")（第2季）、Scott
-    MacDonald（第3季）
+  - 美術監督、設定：[片平真司](https://zh.wikipedia.org/wiki/片平真司 "wikilink")（第1季）、[海津利子](https://zh.wikipedia.org/wiki/海津利子 "wikilink")（第2季）、Scott MacDonald（第3季）
   - 攝影監督：[北岡正](https://zh.wikipedia.org/wiki/北岡正 "wikilink")
   - 編輯：[關一彥](https://zh.wikipedia.org/wiki/關一彥 "wikilink")、關編輯室（第3季）
   - 音樂：[一色由比](https://zh.wikipedia.org/wiki/一色由比 "wikilink")、[井内舞子](../Page/井内舞子.md "wikilink")、[夏目晉](https://zh.wikipedia.org/wiki/夏目晉 "wikilink")、秋月須清（第3季）
@@ -561,34 +549,26 @@ DAYS的連結\[2\]。
   - 音響效果：[山谷尚人](https://zh.wikipedia.org/wiki/山谷尚人 "wikilink")
   - 錄音工程師：[小原吉男](https://zh.wikipedia.org/wiki/小原吉男 "wikilink")
   - 動畫制作：[Seven Arcs](../Page/Seven_Arcs.md "wikilink")
-  - 企劃、製作：PROJECT DD（[Aniplex](../Page/Aniplex.md "wikilink")、Seven
-    Arcs、[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[南夢宮萬代遊戲](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")、[Good
-    Smile Company](../Page/Good_Smile_Company.md "wikilink")）
+  - 企劃、製作：PROJECT DD（[Aniplex](../Page/Aniplex.md "wikilink")、Seven Arcs、[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[南夢宮萬代遊戲](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")、[Good Smile Company](../Page/Good_Smile_Company.md "wikilink")）
 
 ## 主題曲
 
   - 第1季
     片頭曲「[SCARLET KNIGHT](../Page/SCARLET_KNIGHT.md "wikilink")（红色骑士）」
-    作詞、歌：[水樹奈奈](../Page/水樹奈奈.md "wikilink")，作曲、編曲：[藤間仁](../Page/藤間仁.md "wikilink")（[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")）
+    作詞、歌：[水樹奈奈](../Page/水樹奈奈.md "wikilink")，作曲、編曲：[藤間仁](../Page/藤間仁.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
 
   - 片尾曲「PRESENTER（任命者）」（第1話－第12話）
-    作詞：[中村彼方](https://zh.wikipedia.org/wiki/中村彼方 "wikilink")，作曲：Elements
-    Garden，編曲：[中山真斗](../Page/中山真斗.md "wikilink")（Elements
-    Garden），歌：[堀江由衣](../Page/堀江由衣.md "wikilink")
+    作詞：[中村彼方](https://zh.wikipedia.org/wiki/中村彼方 "wikilink")，作曲：Elements Garden，編曲：[中山真斗](../Page/中山真斗.md "wikilink")（Elements Garden），歌：[堀江由衣](../Page/堀江由衣.md "wikilink")
 
   - 插曲
 
 :;「」（一定戀愛著）（第5話）
 
-::
-作詞：米希奧蕾·F·比斯科迪（[都築真紀](../Page/都築真紀.md "wikilink")），作曲、編曲：[高瀨一矢](../Page/高瀨一矢.md "wikilink")，歌：米希奧蕾·F·比斯科迪（堀江由衣）
+:: 作詞：米希奧蕾·F·比斯科迪（[都築真紀](../Page/都築真紀.md "wikilink")），作曲、編曲：[高瀨一矢](../Page/高瀨一矢.md "wikilink")，歌：米希奧蕾·F·比斯科迪（堀江由衣）
 
 :; 「Promised Love 〜×100〜（承诺之爱 〜最喜欢×100〜）」（第11話）
 
-:: 作詞 - 米希奧蕾·F·比斯科迪（都築真紀），作曲、編曲：[C.G
-mix](https://zh.wikipedia.org/wiki/C.G_mix "wikilink")，歌：米希奧蕾·F·比斯科迪（堀江由衣）
+:: 作詞 - 米希奧蕾·F·比斯科迪（都築真紀），作曲、編曲：[C.G mix](https://zh.wikipedia.org/wiki/C.G_mix "wikilink")，歌：米希奧蕾·F·比斯科迪（堀江由衣）
 
 :; 「Miracle Colors（奇迹的颜色）」（第13話）
 
@@ -1239,7 +1219,7 @@ Lee Ouk Ho</p></td>
 <td><p>2011年4月9日－7月2日</p></td>
 <td><p>星期六 23時30分－24時00分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/衞星電視" title="wikilink">衞星電視</a></p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 </tr>
 <tr class="odd">
 <td><p>第2季</p></td>
@@ -1408,14 +1388,11 @@ Lee Ouk Ho</p></td>
 
 ## 小說
 
-原作者[都築真紀的小說作品](../Page/都築真紀.md "wikilink")，在《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》（[角川書店](../Page/角川書店.md "wikilink")）上自2011年3月號開始連載\[3\]。並於[2011年6月在](../Page/2011年6月.md "wikilink")[角川Sneaker文庫發行單行本](../Page/角川Sneaker文庫.md "wikilink")，插畫由擔任。
+原作者[都築真紀](../Page/都築真紀.md "wikilink")的小說作品，在《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》（[角川書店](../Page/角川書店.md "wikilink")）上自2011年3月號開始連載\[3\]。並於[2011年6月](../Page/2011年6月.md "wikilink")在[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")發行單行本，插畫由擔任。
 
 ## 漫畫
 
-[都築真紀原作](../Page/都築真紀.md "wikilink")、[藤真拓哉作畫的漫畫版](../Page/藤真拓哉.md "wikilink")，全五話，在[角川書店旗下各雜誌輪流連載](../Page/角川書店.md "wikilink")\[4\]：自[2011年4月開始](../Page/2011年4月.md "wikilink")，第一話於《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》2011年5月號連載，第二話於《[Comptiq](../Page/Comptiq.md "wikilink")》2011年7月號連載，第三話於《Comptiq》2011年8月號連載，第四話於《[月刊Comp
-Ace](../Page/月刊Comp_Ace.md "wikilink")》2011年10月號連載，最終話於《月刊Comp
-Ace》2011年11月號連載\[5\]。單行本全一集，角川書店2011年10月26日初版發行，ISBN
-978-4-04-715806-1，列入《Kadokawa Comics A》叢書。
+[都築真紀](../Page/都築真紀.md "wikilink")原作、[藤真拓哉](../Page/藤真拓哉.md "wikilink")作畫的漫畫版，全五話，在[角川書店](../Page/角川書店.md "wikilink")旗下各雜誌輪流連載\[4\]：自[2011年4月](../Page/2011年4月.md "wikilink")開始，第一話於《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》2011年5月號連載，第二話於《[Comptiq](../Page/Comptiq.md "wikilink")》2011年7月號連載，第三話於《Comptiq》2011年8月號連載，第四話於《[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")》2011年10月號連載，最終話於《月刊Comp Ace》2011年11月號連載\[5\]。單行本全一集，角川書店2011年10月26日初版發行，ISBN 978-4-04-715806-1，列入《Kadokawa Comics A》叢書。
 
 ## 活動
 
@@ -1430,27 +1407,13 @@ Ace》2011年11月號連載\[5\]。單行本全一集，角川書店2011年10月
   - [電視動畫「DOG DAYS´´」第三季公式網站](http://www.dogdays.tv/)
 
   -
-[Category:2011年背景作品](https://zh.wikipedia.org/wiki/Category:2011年背景作品 "wikilink")
-[Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink")
-[Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:體育動畫](https://zh.wikipedia.org/wiki/Category:體育動畫 "wikilink")
-[Category:虛構運動題材作品](https://zh.wikipedia.org/wiki/Category:虛構運動題材作品 "wikilink")
-[Category:2015年UHF動畫](https://zh.wikipedia.org/wiki/Category:2015年UHF動畫 "wikilink")
-[Category:2012年背景作品](https://zh.wikipedia.org/wiki/Category:2012年背景作品 "wikilink")
-[Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:2011年背景作品](https://zh.wikipedia.org/wiki/Category:2011年背景作品 "wikilink") [Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink") [Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:體育動畫](https://zh.wikipedia.org/wiki/Category:體育動畫 "wikilink") [Category:虛構運動題材作品](https://zh.wikipedia.org/wiki/Category:虛構運動題材作品 "wikilink") [Category:2015年UHF動畫](https://zh.wikipedia.org/wiki/Category:2015年UHF動畫 "wikilink") [Category:2012年背景作品](https://zh.wikipedia.org/wiki/Category:2012年背景作品 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 
-2.  [魔法少女リリカルなのは The MOVIE 1st
-    公式サイト](https://web.archive.org/web/20110726001917/http://nanoha.com/)
+2.  [魔法少女リリカルなのは The MOVIE 1st 公式サイト](https://web.archive.org/web/20110726001917/http://nanoha.com/)
 
-3.  [Newtype CONTENTS
-    MARCH 2011](http://anime.webnt.jp/magazine/view/2500)
+3.  [Newtype CONTENTS MARCH 2011](http://anime.webnt.jp/magazine/view/2500)
 
 4.
 

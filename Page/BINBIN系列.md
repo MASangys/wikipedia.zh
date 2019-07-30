@@ -1,8 +1,6 @@
-《**BINBIN系列**》（），是[日本](../Page/日本.md "wikilink")[富士電視台播放的系列](../Page/富士電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[東寶製作](https://zh.wikipedia.org/wiki/東寶株式會社 "wikilink")。由1987年至1989年連續三年的三部[月九檔](../Page/富士電視台週一晚間九點連續劇.md "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，以及多部特別篇組成。是1980年代後期的大熱日本電視劇。
+《**BINBIN系列**》（），是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")播放的系列[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[東寶製作](https://zh.wikipedia.org/wiki/東寶株式會社 "wikilink")。由1987年至1989年連續三年的三部[月九檔](../Page/富士電視台週一晚間九點連續劇.md "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，以及多部特別篇組成。是1980年代後期的大熱日本電視劇。
 
-系列故事均圍繞德川龍之介（[田原俊彥](../Page/田原俊彥.md "wikilink")
-飾）和榎本英樹（[野村宏伸](https://zh.wikipedia.org/wiki/野村宏伸 "wikilink")
-飾）兩個角色展開，但是角色的設定在不同的故事中也會有所不同。
+系列故事均圍繞德川龍之介（[田原俊彥](../Page/田原俊彥.md "wikilink") 飾）和榎本英樹（[野村宏伸](https://zh.wikipedia.org/wiki/野村宏伸 "wikilink") 飾）兩個角色展開，但是角色的設定在不同的故事中也會有所不同。
 
 ## 廣播電台也瘋狂
 
@@ -58,12 +56,11 @@
 
 《**老師也瘋狂**》又譯: 阿SIR正傳（），1988年4月4日至6月27日播放。全13話。系列的第二作。
 
-隨著[甜甜圈化現象的深入](https://zh.wikipedia.org/wiki/甜甜圈化現象 "wikilink")（即[都市中心地區人口減少](https://zh.wikipedia.org/wiki/都市 "wikilink")，向[郊區轉移的現象](../Page/郊區.md "wikilink")）而學生數量大幅下降的東京「銀座第一小學校」為舞台的校園電視劇。平均收視率22.1%，最高收視率24.9%。
+隨著[甜甜圈化現象的深入](https://zh.wikipedia.org/wiki/甜甜圈化現象 "wikilink")（即[都市中心地區人口減少](https://zh.wikipedia.org/wiki/都市 "wikilink")，向[郊區](../Page/郊區.md "wikilink")轉移的現象）而學生數量大幅下降的東京「銀座第一小學校」為舞台的校園電視劇。平均收視率22.1%，最高收視率24.9%。
 
 以新人熱血教師德川龍之介和後輩教師榎本英樹為中心，劇情體現出當時小學生群體浮動不安的心理狀態，以及學校的廢置合併、運營狀況等問題。
 
-田原演唱的主題曲《[擁抱TONIGHT](https://zh.wikipedia.org/wiki/擁抱TONIGHT "wikilink")》獲得巨大成功，是1988年度《[The
-Best Ten](../Page/The_Best_Ten.md "wikilink")》年度冠軍歌曲。
+田原演唱的主題曲《[擁抱TONIGHT](https://zh.wikipedia.org/wiki/擁抱TONIGHT "wikilink")》獲得巨大成功，是1988年度《[The Best Ten](../Page/The_Best_Ten.md "wikilink")》年度冠軍歌曲。
 
 ### 登場人物
 
@@ -415,16 +412,4 @@ Best Ten](../Page/The_Best_Ten.md "wikilink")》年度冠軍歌曲。
   - 老師也瘋狂特別篇（，2000年3月）
   - 老師也瘋狂特別篇2（，2001年3月）
 
-[Category:富士電視台週一晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週一晚間九點連續劇 "wikilink")
-[Category:1987年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:1987年開播的日本電視劇集 "wikilink")
-[Category:1990年代日本電視劇集](https://zh.wikipedia.org/wiki/Category:1990年代日本電視劇集 "wikilink")
-[Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:1988年電視特別劇集](https://zh.wikipedia.org/wiki/Category:1988年電視特別劇集 "wikilink")
-[Category:1989年電視特別劇集](https://zh.wikipedia.org/wiki/Category:1989年電視特別劇集 "wikilink")
-[Category:1999年電視特別劇集](https://zh.wikipedia.org/wiki/Category:1999年電視特別劇集 "wikilink")
-[Category:2000年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2000年電視特別劇集 "wikilink")
-[Category:2001年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2001年電視特別劇集 "wikilink")
-[Category:東寶電視劇](https://zh.wikipedia.org/wiki/Category:東寶電視劇 "wikilink")
+[Category:富士電視台週一晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週一晚間九點連續劇 "wikilink") [Category:1987年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:1987年開播的日本電視劇集 "wikilink") [Category:1990年代日本電視劇集](https://zh.wikipedia.org/wiki/Category:1990年代日本電視劇集 "wikilink") [Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:1988年電視特別劇集](https://zh.wikipedia.org/wiki/Category:1988年電視特別劇集 "wikilink") [Category:1989年電視特別劇集](https://zh.wikipedia.org/wiki/Category:1989年電視特別劇集 "wikilink") [Category:1999年電視特別劇集](https://zh.wikipedia.org/wiki/Category:1999年電視特別劇集 "wikilink") [Category:2000年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2000年電視特別劇集 "wikilink") [Category:2001年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2001年電視特別劇集 "wikilink") [Category:東寶電視劇](https://zh.wikipedia.org/wiki/Category:東寶電視劇 "wikilink")

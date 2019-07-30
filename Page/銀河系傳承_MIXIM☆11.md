@@ -1,8 +1,8 @@
-《**銀河系傳承**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[安西信行的](../Page/安西信行.md "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。於小學館的《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》連載，連載開始時的名稱為《MiXiM♀12》（ミクシム★トゥエルヴ），而後改成《MIXIM☆11》（ミクシム☆イレブン）。台灣由[東立出版社出版](../Page/東立出版社.md "wikilink")。
+《**銀河系傳承**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[安西信行](../Page/安西信行.md "wikilink")的[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。於小學館的《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》連載，連載開始時的名稱為《MiXiM♀12》（ミクシム★トゥエルヴ），而後改成《MIXIM☆11》（ミクシム☆イレブン）。台灣由[東立出版社](../Page/東立出版社.md "wikilink")出版。
 
 ## 概要
 
-[安西信行與原助理職位的野坂尚史](../Page/安西信行.md "wikilink")（2008年33號後改稱[野坂恒](https://zh.wikipedia.org/wiki/野坂恒 "wikilink")）共稱「安西信行野坂尚史」。同年33號改變為「安西信行☆野坂恒」。日版單行本第一集的作者名稱為「安西信行☆野坂恒」（台版沒有），但網路上的記載與情報常常招致誤會，而後單行本改回「安西信行」的名義。作者於[MÄR魔兵傳奇結束連載後](https://zh.wikipedia.org/wiki/MÄR魔兵傳奇 "wikilink")，曾宣稱無限期休筆，不再畫漫畫（健康因素），但兩年後，因為個人因素（單行本第一集上是說因為「想畫星空」），再度執筆。
+[安西信行](../Page/安西信行.md "wikilink")與原助理職位的野坂尚史（2008年33號後改稱[野坂恒](https://zh.wikipedia.org/wiki/野坂恒 "wikilink")）共稱「安西信行野坂尚史」。同年33號改變為「安西信行☆野坂恒」。日版單行本第一集的作者名稱為「安西信行☆野坂恒」（台版沒有），但網路上的記載與情報常常招致誤會，而後單行本改回「安西信行」的名義。作者於[MÄR魔兵傳奇結束連載後](https://zh.wikipedia.org/wiki/MÄR魔兵傳奇 "wikilink")，曾宣稱無限期休筆，不再畫漫畫（健康因素），但兩年後，因為個人因素（單行本第一集上是說因為「想畫星空」），再度執筆。
 
 「MIXIM」是由兩個MIX單字合成而來的自創詞彙，話數單位是「Mix.○」，也代表「融合」的意思。其中，故事裡也有包含作者以前的作品的要素，像是火箭公主與烈火之炎的要素。
 
@@ -77,8 +77,7 @@
 <!-- end list -->
 
   - 春野 小梅（はるの こうめ）
-    主人公的一人，高中一年級。壱松的朋友。年紀比其他兩個人都小，是個跳級生，成績很好。熱心助人，但也有人因此利用他。桃花運極差。是北極星國王的兒子，由於其真正北極星王子的身分，而被big
-    bang抓走，最後被壹松等人救出
+    主人公的一人，高中一年級。壱松的朋友。年紀比其他兩個人都小，是個跳級生，成績很好。熱心助人，但也有人因此利用他。桃花運極差。是北極星國王的兒子，由於其真正北極星王子的身分，而被big bang抓走，最後被壹松等人救出
 
   - ; 小狗玩偶装
 
@@ -139,8 +138,7 @@
 #### 王女
 
   -
-    外觀是個穿著黑色洋裝、頭上還綁著蝴蝶結的小女孩，是big bang的首領，平常力量被shadow
-    matter四人封印，最後被壹松用十二星座星之加護的弓射殺
+    外觀是個穿著黑色洋裝、頭上還綁著蝴蝶結的小女孩，是big bang的首領，平常力量被shadow matter四人封印，最後被壹松用十二星座星之加護的弓射殺
 
 #### SHADOW-MATTER
 
@@ -165,8 +163,7 @@
 <!-- end list -->
 
   - DODO
-    shadow
-    matter當中最奸詐，最殘爆的，什麼東西都能吃，並且解放了十二難行，跟潘朵拉一樣送給壱松刻印，但刻印被轉移至竹藏身上。本身非常的強大，尤其是身體特別的堅硬。
+    shadow matter當中最奸詐，最殘爆的，什麼東西都能吃，並且解放了十二難行，跟潘朵拉一樣送給壱松刻印，但刻印被轉移至竹藏身上。本身非常的強大，尤其是身體特別的堅硬。
     被竹藏的百手百足，壹松的喀融所傷，最後死於歌丸的水柱攻擊。
 
 <!-- end list -->
@@ -199,8 +196,7 @@
   - 阿蓋斯（アウゲイアス）
     以嗜殺為嗜好，殺掉了來大峽谷的旅客，最後被竹藏的「百足蜈蚣」擊敗。
   - 斯廷法利斯（ステュム＝パリデス）
-    個性其實善良，與壱松首度交戰被擊敗，擁有強大的力量。同時也惋惜壱松在戰鬥的心態。原因是因為壱松很像他的師傅「黑加」，因此非常關心壱松，與DODO決戰前，告知壱松等人
-    DODO和SHADOW-MATTER的秘密與由來，而在壱松失去「尖尖」的第一時間將壱松帶離現場。
+    個性其實善良，與壱松首度交戰被擊敗，擁有強大的力量。同時也惋惜壱松在戰鬥的心態。原因是因為壱松很像他的師傅「黑加」，因此非常關心壱松，與DODO決戰前，告知壱松等人 DODO和SHADOW-MATTER的秘密與由來，而在壱松失去「尖尖」的第一時間將壱松帶離現場。
   - 佩利戴斯（ペリデス）
     女性小孩，可以自行操控人體身上的成長，被音色擊敗，但與音色交戰時貌似保留許多實力，。
   - 尼米亞（ネメア）
@@ -358,12 +354,9 @@
 
 ## 外部連結
 
-  - [WEBサンデー
-    MIXIM☆11](https://web.archive.org/web/20090909011209/http://www.websunday.net/rensai/set_mixim.html)
-  - [漫画家BACKSTAGE
-    安西信行](https://web.archive.org/web/20090727192057/http://websunday.net/backstage/set_anzai.html)
+  - [WEBサンデー MIXIM☆11](https://web.archive.org/web/20090909011209/http://www.websunday.net/rensai/set_mixim.html)
+  - [漫画家BACKSTAGE 安西信行](https://web.archive.org/web/20090727192057/http://websunday.net/backstage/set_anzai.html)
 
 [en:Mixim 11](https://zh.wikipedia.org/wiki/en:Mixim_11 "wikilink")
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink")

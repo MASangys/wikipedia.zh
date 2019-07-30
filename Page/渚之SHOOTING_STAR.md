@@ -1,7 +1,4 @@
-《**渚之SHOOTING
-STAR**》是[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年8月4日由[Music
-Ray'n
-Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。\[1\]
+《**渚之SHOOTING STAR**》是[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年8月4日由[Music Ray'n Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。\[1\]
 
 ## 收錄曲
 

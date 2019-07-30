@@ -1,15 +1,12 @@
-**Gravure
-JAPAN**（[日语](../Page/日语.md "wikilink")：グラビアJAPAN）是[集英社主办的](../Page/集英社.md "wikilink")[选美活动](https://zh.wikipedia.org/wiki/选美活动 "wikilink")，主要用于发掘[写真偶像或艺人](https://zh.wikipedia.org/wiki/写真偶像 "wikilink")。首届于2009年举办。
+**Gravure JAPAN**（[日语](../Page/日语.md "wikilink")：グラビアJAPAN）是[集英社](../Page/集英社.md "wikilink")主办的[选美活动](https://zh.wikipedia.org/wiki/选美活动 "wikilink")，主要用于发掘[写真偶像或艺人](https://zh.wikipedia.org/wiki/写真偶像 "wikilink")。首届于2009年举办。
 
 ## 简介
 
-《[周刊YOUNG
-JUMP](https://zh.wikipedia.org/wiki/周刊YOUNG_JUMP "wikilink")》杂志于1992年开始举办名为[全国女子高中生制服收藏的大赛](../Page/全国女子高中生制服收藏.md "wikilink")，大赛中艺人、演员辈出。
+《[周刊YOUNG JUMP](https://zh.wikipedia.org/wiki/周刊YOUNG_JUMP "wikilink")》杂志于1992年开始举办名为[全国女子高中生制服收藏](../Page/全国女子高中生制服收藏.md "wikilink")的大赛，大赛中艺人、演员辈出。
 
   -
 
-2009年，周刊YOUNG JUMP创刊30周年之际，将此活动联合《周刊Playboy》改组为Gravure
-JAPAN。全国女子高中生制服收藏16年的历史实际上结束了。曾联合[NICONICO动画和](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")[雅虎](../Page/雅虎.md "wikilink")。
+2009年，周刊YOUNG JUMP创刊30周年之际，将此活动联合《周刊Playboy》改组为Gravure JAPAN。全国女子高中生制服收藏16年的历史实际上结束了。曾联合[NICONICO动画和](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")[雅虎](../Page/雅虎.md "wikilink")。
 
 ## 获奖者
 
@@ -75,16 +72,11 @@ JAPAN。全国女子高中生制服收藏16年的历史实际上结束了。曾�
 
 ## 外部链接
 
-  - [2011年的gravure
-    japan（VYJビジュアル・ヤングジャンプ）](http://vyj.shueisha.co.jp/gravure_japan2010/1009start/index.html)
-  - [2011年的gravure
-    japan（週プレnet）](https://web.archive.org/web/20111025060033/http://shupure-net.shueisha.co.jp/gravure_japan_2011/index.html)
+  - [2011年的gravure japan（VYJビジュアル・ヤングジャンプ）](http://vyj.shueisha.co.jp/gravure_japan2010/1009start/index.html)
+  - [2011年的gravure japan（週プレnet）](https://web.archive.org/web/20111025060033/http://shupure-net.shueisha.co.jp/gravure_japan_2011/index.html)
   - [スポニチアイドルレポート｜グラビアJAPAN2009](https://web.archive.org/web/20090905065913/http://www.sponichi.co.jp/gravure/special/ir_2009/gravurejapan/index.html)（2009年7月14日付の記事）
 
-[Category:日本写真偶像](https://zh.wikipedia.org/wiki/Category:日本写真偶像 "wikilink")
-[Category:日本选美活动](https://zh.wikipedia.org/wiki/Category:日本选美活动 "wikilink")
-[Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink")
-[Category:全国女子高中生制服收藏](https://zh.wikipedia.org/wiki/Category:全国女子高中生制服收藏 "wikilink")
+[Category:日本写真偶像](https://zh.wikipedia.org/wiki/Category:日本写真偶像 "wikilink") [Category:日本选美活动](https://zh.wikipedia.org/wiki/Category:日本选美活动 "wikilink") [Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink") [Category:全国女子高中生制服收藏](https://zh.wikipedia.org/wiki/Category:全国女子高中生制服收藏 "wikilink")
 
 1.  清水友子的同年滝川綾于2010年参加Nittelegenic选拔
 2.  广瀬玲奈和广村美つ美落选後、参加Nittelegenic选拔

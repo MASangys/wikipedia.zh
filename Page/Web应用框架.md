@@ -1,12 +1,10 @@
-**Web應用框架**（Web application
-framework）是一種[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[軟體框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，用來支援[動態網站](https://zh.wikipedia.org/wiki/動態網站 "wikilink")、[網絡應用程式及](https://zh.wikipedia.org/wiki/網絡應用程式 "wikilink")[網路服務的開發](https://zh.wikipedia.org/wiki/網路服務 "wikilink")。這種框架有助於減輕網頁開發時共通性活動的工作負荷，例如許多框架提供[資料庫存取介面](https://zh.wikipedia.org/wiki/資料庫 "wikilink")、標準樣板以及[會話管理等](https://zh.wikipedia.org/wiki/會話 "wikilink")，可提昇程式碼的可再用性。
+**Web應用框架**（Web application framework）是一種[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[軟體框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，用來支援[動態網站](https://zh.wikipedia.org/wiki/動態網站 "wikilink")、[網絡應用程式及](https://zh.wikipedia.org/wiki/網絡應用程式 "wikilink")[網路服務的開發](https://zh.wikipedia.org/wiki/網路服務 "wikilink")。這種框架有助於減輕網頁開發時共通性活動的工作負荷，例如許多框架提供[資料庫存取介面](https://zh.wikipedia.org/wiki/資料庫 "wikilink")、標準樣板以及[會話管理等](https://zh.wikipedia.org/wiki/會話 "wikilink")，可提昇程式碼的可再用性。
 
 ## 种类
 
 ### 模型 - 视图 - 控制器（MVC（Model view controller））
 
-许多框架遵循模型 - 视图 -
-控制器（MVC）体系模型的结构模式，使数据模型与用户界面分开。这被普遍认为是一个很好的做法，因为它模块化的代码，能提高代码的重复使用，并允许多个接口。在Web应用中，这允许不同的应用方面，如网页，远程应用程序和Web服务接口。MVC是业界比较认可的架构模型。
+许多框架遵循模型 - 视图 - 控制器（MVC）体系模型的结构模式，使数据模型与用户界面分开。这被普遍认为是一个很好的做法，因为它模块化的代码，能提高代码的重复使用，并允许多个接口。在Web应用中，这允许不同的应用方面，如网页，远程应用程序和Web服务接口。MVC是业界比较认可的架构模型。
 
 ### 三部分组织模式
 
@@ -30,9 +28,7 @@ framework）是一種[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[�
 
 ### AJAX
 
-AJAX即“Asynchronous JavaScript and
-XML”（异步的JavaScript与XML技术），指的是一套综合了多项技术的浏览器端网页开发技术。Ajax的概念由Jesse
-James Garrett所提出\[1\]。
+AJAX即“Asynchronous JavaScript and XML”（异步的JavaScript与XML技术），指的是一套综合了多项技术的浏览器端网页开发技术。Ajax的概念由Jesse James Garrett所提出\[1\]。
 
 传统的Web应用允许用户端填写表单（form），当提交表单时就向Web服务器发送一个请求。服务器接收并处理传来的表单，然后送回一个新的网页，但这个做法浪费了许多带宽，因为在前后两个页面中的大部分HTML码往往是相同的。由于每次应用的沟通都需要向服务器发送请求，应用的回应时间依赖于服务器的回应时间。这导致了用户界面的回应比本机应用慢得多。
 
@@ -107,8 +103,7 @@ James Garrett所提出\[1\]。
 
 ### Ruby
 
-  - [Ruby On
-    Rails](https://zh.wikipedia.org/wiki/Ruby_On_Rails "wikilink")
+  - [Ruby On Rails](https://zh.wikipedia.org/wiki/Ruby_On_Rails "wikilink")
   - [Sinatra](https://zh.wikipedia.org/wiki/Sinatra "wikilink")
 
 ### JAVA

@@ -1,17 +1,13 @@
-**兰色～Love Moon
-Light～**是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[藏族](../Page/藏族.md "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")（alan）的第二张[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")。
+**兰色～Love Moon Light～**是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[藏族](../Page/藏族.md "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")（alan）的第二张[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")。
 
 ## 概况
 
   - 2010年4月16日，《兰色～Love Moon Light～》在alan 4月访港之旅期间在香港率先发行。\[1\]
-  - 2010年4月26日，《兰色～Love Moon
-    Light～》在[中国内地](../Page/中国内地.md "wikilink")发行。
+  - 2010年4月26日，《兰色～Love Moon Light～》在[中国内地](../Page/中国内地.md "wikilink")发行。
   - 初回限定版附赠歌词写真、兰色明信片和折合海报。\[2\]
   - 《有ME就好》是《[加油！你有ME！](https://zh.wikipedia.org/wiki/加油！你有ME！ "wikilink")》的续集，作为[爱普生新一季的广告歌](https://zh.wikipedia.org/wiki/爱普生 "wikilink")。\[3\]
-  - 《炫影～Sharp
-    Light～》是青春励志[偶像剧](https://zh.wikipedia.org/wiki/偶像剧 "wikilink")《怎么会爱上你》的主题曲，同时也是[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")2010年的广告歌。
-  - 2010年8月6日，香港地区发行香港限定版。限定版中收錄《有ME就好》的MV、alan off shot movie DVD以及post
-    card 5張加mini poster，超豪華版包装。\[4\]
+  - 《炫影～Sharp Light～》是青春励志[偶像剧](https://zh.wikipedia.org/wiki/偶像剧 "wikilink")《怎么会爱上你》的主题曲，同时也是[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")2010年的广告歌。
+  - 2010年8月6日，香港地区发行香港限定版。限定版中收錄《有ME就好》的MV、alan off shot movie DVD以及post card 5張加mini poster，超豪華版包装。\[4\]
 
 ## 收录歌曲
 
@@ -48,14 +44,11 @@ Light～**是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[藏族](.
 
 ## 参考资料
 
-[Category:Alan音樂專輯](https://zh.wikipedia.org/wiki/Category:Alan音樂專輯 "wikilink")
-[Category:2010年音乐专辑](https://zh.wikipedia.org/wiki/Category:2010年音乐专辑 "wikilink")
+[Category:Alan音樂專輯](https://zh.wikipedia.org/wiki/Category:Alan音樂專輯 "wikilink") [Category:2010年音乐专辑](https://zh.wikipedia.org/wiki/Category:2010年音乐专辑 "wikilink")
 
 1.  [alan(阿蘭)全新國語EP香港率先發行](http://www.avexasia.com/news.php?nid=14181)
-2.  [YESASIA : 蘭色 -Love Moon Light- (CD+DVD)
-    (香港版)](http://www.yesasia.com/global/love-moon-light-cd-dvd-hong-kong-version/1022466271-0-0-0-zh_TW/info.html)
-3.  [亞蘭alan 蘭色\~Love Moon Light\~(CD+DVD) - Sky
-    Music](http://skymusic.com.hk/?p=7121)
+2.  [YESASIA : 蘭色 -Love Moon Light- (CD+DVD) (香港版)](http://www.yesasia.com/global/love-moon-light-cd-dvd-hong-kong-version/1022466271-0-0-0-zh_TW/info.html)
+3.  [亞蘭alan 蘭色\~Love Moon Light\~(CD+DVD) - Sky Music](http://skymusic.com.hk/?p=7121)
 4.  [蘭色～LoveMoonLight～香港限定版及宣傳](http://www.avexasia.com/news.php?nid=16472)
 5.  [alan(阿蘭)香港簽名會](http://www.avexasia.com/news.php)
 6.  [最主流-ChinaRen社区5周年盛典- 2010.4.25.北京-ChinaRen-年轻人的大社区](http://www.chinaren.com/s2010/5th/)

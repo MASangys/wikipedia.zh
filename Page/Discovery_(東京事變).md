@@ -1,9 +1,8 @@
-《**Discovery**》（，*Discovery*）是[東京事變的第十張](../Page/東京事變.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2012年2月25日與第一張演唱會精選專輯《[東京Collection](https://zh.wikipedia.org/wiki/東京Collection "wikilink")》一同發售。DVD發行當週即賣出2.1萬張，總計銷售額3.7萬張，名列2012年年度銷售榜第53位。藍光版本發行當週即賣出1.2萬張，總計銷售額1.8萬張，名列2012年年度銷售榜第23位。
+《**Discovery**》（，*Discovery*）是[東京事變](../Page/東京事變.md "wikilink")的第十張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2012年2月25日與第一張演唱會精選專輯《[東京Collection](https://zh.wikipedia.org/wiki/東京Collection "wikilink")》一同發售。DVD發行當週即賣出2.1萬張，總計銷售額3.7萬張，名列2012年年度銷售榜第53位。藍光版本發行當週即賣出1.2萬張，總計銷售額1.8萬張，名列2012年年度銷售榜第23位。
 
 ## 簡介
 
-此張DVD是收錄東京事變《東京事變 live tour 2011
-Discovery》巡迴演唱會的其中一站，於2011年12月7日在[東京國際論壇所舉行的](../Page/東京國際論壇.md "wikilink")，其演唱的歌曲及幕後花絮。
+此張DVD是收錄東京事變《東京事變 live tour 2011 Discovery》巡迴演唱會的其中一站，於2011年12月7日在[東京國際論壇](../Page/東京國際論壇.md "wikilink")所舉行的，其演唱的歌曲及幕後花絮。
 
 在日本02月15日發行DVD及藍光版，台灣則是等到02月27日才發行進口盤DVD\[1\]、進口盤BD\[2\]與台壓版DVD\[3\]。
 
@@ -164,8 +163,7 @@ Discovery</p></td>
 
 ## 演唱會簡介
 
-《東京事變 live tour 2011
-Discovery》為二期東京事變第四次日本巡迴演唱會，原預計在12月2日結束巡迴演出，後又新增了4場演唱會，因此這次總共在十九個城市舉辦二十六場的演唱會，為東京事變歷年來跑最多地方，同時也是最多場的巡迴演唱會，場場皆吸引爆滿的觀眾前往感受東京事變的魅力。演唱會演唱的曲目以第五張專輯《大發現》為主。
+《東京事變 live tour 2011 Discovery》為二期東京事變第四次日本巡迴演唱會，原預計在12月2日結束巡迴演出，後又新增了4場演唱會，因此這次總共在十九個城市舉辦二十六場的演唱會，為東京事變歷年來跑最多地方，同時也是最多場的巡迴演唱會，場場皆吸引爆滿的觀眾前往感受東京事變的魅力。演唱會演唱的曲目以第五張專輯《大發現》為主。
 
 ### 演出人員
 
@@ -426,8 +424,7 @@ Discovery》為二期東京事變第四次日本巡迴演唱會，原預計在12
 
 ### 參考資料
 
-[Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink")
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
+[Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
 
 1.
 

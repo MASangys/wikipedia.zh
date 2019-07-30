@@ -1,7 +1,6 @@
 傳說的大陸「三璃紗」被暴虐的大師董卓薩克支配。董卓的悪政，三璃紗全境被黑暗包圍，人民絕望。幽州的義勇軍，[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")，[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")，[張飛三人](https://zh.wikipedia.org/wiki/張飛 "wikilink")。迎擊董卓軍的「鎮江將軍」-**[胡軫](https://zh.wikipedia.org/wiki/胡軫 "wikilink")**。激烈的戰鬥末了，逃跑了窮境的[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")，[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")，[張飛](https://zh.wikipedia.org/wiki/張飛 "wikilink")，住在深山裡的避世的荒村。而已推出的角色追加成形色、貼紙和封面之外，必殺技的特效以及新武器推出。
 
-本作與動畫《[超劇場版 Keroro軍曹 5
-誕生！究極Keroro奇蹟的時空之島！！](../Page/超劇場版_Keroro軍曹_5_誕生！究極Keroro奇蹟的時空之島！！.md "wikilink")》共同上映。
+本作與動畫《[超劇場版 Keroro軍曹 5 誕生！究極Keroro奇蹟的時空之島！！](../Page/超劇場版_Keroro軍曹_5_誕生！究極Keroro奇蹟的時空之島！！.md "wikilink")》共同上映。
 
 ## 角色
 
@@ -77,8 +76,7 @@
 
 :\*必殺：暗黒瘴気弾
 
-  - **[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")-{zh-hk:多魯基斯;zh-tw:托爾吉斯;;}-**（OZ-00MS2B
-    Tallgeese III）
+  - **[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")-{zh-hk:多魯基斯;zh-tw:托爾吉斯;;}-**（OZ-00MS2B Tallgeese III）
 
 <!-- end list -->
 
@@ -91,8 +89,7 @@
 
 :\*必殺：旋風大烈斬
 
-  - '''[貂蟬邱貝蕾](https://zh.wikipedia.org/wiki/貂蟬 "wikilink")（AMX-004
-    Qubeley）
+  - '''[貂蟬邱貝蕾](https://zh.wikipedia.org/wiki/貂蟬 "wikilink")（AMX-004 Qubeley）
 
 「美麗的女將軍」，面對人所畏懼的呂布，她是少數能夠理解其心意的人物，出於愛慕之情，以輔助身份支持他之外，亦會參與作戰。時常稱呼呂布為「奉先」。「虎牢城」攻略戰中，與呂布迎擊發動奇襲的孫堅軍。最後在郿城被李儒不分敵我的弩箭射殺。
 
@@ -126,8 +123,7 @@
 
 ### 袁紹軍
 
-  - '''[袁紹巴烏](https://zh.wikipedia.org/wiki/袁紹 "wikilink")（AMX-107
-    Bawoo）
+  - '''[袁紹巴烏](https://zh.wikipedia.org/wiki/袁紹 "wikilink")（AMX-107 Bawoo）
 
 「河北之雄」。出身自冀州中世代擔任將軍職務的名門「袁家」，既是袁氏當家主，同時想取得天下的野心家。以壓倒性的財力、及顯赫名聲及背景，就任為反董卓聯合體盟主。不過，虎牢城攻略戰中從未親赴戰場。
 
@@ -147,10 +143,8 @@
 
 ### 工作人员
 
-  - 企画 -
-    [サンライズ](https://zh.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")
-  - 原作 -
-    [矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
+  - 企画 - [サンライズ](https://zh.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")
+  - 原作 - [矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
   - 制片人- 佐藤弘幸
   - 監督 - [森邦宏](../Page/森邦宏.md "wikilink")、鈴木健一
   - 系列构成 - [浦畑達彦](https://zh.wikipedia.org/wiki/浦畑達彦 "wikilink")
@@ -166,13 +160,9 @@
 ### 主題曲
 
   - 第一代片尾曲「三璃紗伝説 〜The Brave Legend〜」（第1話 - 第26話）
-    作詞 - [小川マキ](https://zh.wikipedia.org/wiki/小川マキ "wikilink") / 作曲・編曲 -
-    [吉川慶](https://zh.wikipedia.org/wiki/吉川慶 "wikilink") /
-    歌：[Ko-saku](https://zh.wikipedia.org/wiki/Ko-saku "wikilink")
+    作詞 - [小川マキ](https://zh.wikipedia.org/wiki/小川マキ "wikilink") / 作曲・編曲 - [吉川慶](https://zh.wikipedia.org/wiki/吉川慶 "wikilink") / 歌：[Ko-saku](https://zh.wikipedia.org/wiki/Ko-saku "wikilink")
   - 第2代片尾曲「Justice 伝説を刻め\!」（第27話 - 第51話）
-    作詞 - [畑亜貴](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲・編曲 -
-    [増田武史](https://zh.wikipedia.org/wiki/増田武史 "wikilink") / 歌 -
-    ブレイブバトルウォーリアーズ（劉備ガンダム（CV:[梶裕貴](../Page/梶裕貴.md "wikilink")）、関羽ガンダム（CV:[安元洋貴](../Page/安元洋貴.md "wikilink")）、張飛ガンダム（CV:[加藤将之](https://zh.wikipedia.org/wiki/加藤将之 "wikilink")）、曹操ガンダム（CV:[乃村健次](../Page/乃村健次.md "wikilink")）、孫権ガンダム（CV:[島﨑信長](../Page/島崎信長.md "wikilink")））
+    作詞 - [畑亜貴](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲・編曲 - [増田武史](https://zh.wikipedia.org/wiki/増田武史 "wikilink") / 歌 - ブレイブバトルウォーリアーズ（劉備ガンダム（CV:[梶裕貴](../Page/梶裕貴.md "wikilink")）、関羽ガンダム（CV:[安元洋貴](../Page/安元洋貴.md "wikilink")）、張飛ガンダム（CV:[加藤将之](https://zh.wikipedia.org/wiki/加藤将之 "wikilink")）、曹操ガンダム（CV:[乃村健次](../Page/乃村健次.md "wikilink")）、孫権ガンダム（CV:[島﨑信長](../Page/島崎信長.md "wikilink")））
 
 ### 各集列表
 
@@ -734,13 +724,10 @@
 
 ## 參見
 
-  - [BB戰士三國傳
-    風雲豪傑編](https://zh.wikipedia.org/wiki/BB戰士三國傳_風雲豪傑編 "wikilink")
-  - [BB戰士三國傳
-    英雄激突編](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")
+  - [BB戰士三國傳 風雲豪傑編](https://zh.wikipedia.org/wiki/BB戰士三國傳_風雲豪傑編 "wikilink")
+  - [BB戰士三國傳 英雄激突編](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")
   - [BB戰士三國傳 戰神決鬥篇](../Page/BB戰士三國傳_戰神決鬥篇.md "wikilink")
-  - [BB戰士 三國傳外傳
-    武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+  - [BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
 ## 外部連結
 
@@ -752,5 +739,4 @@
 
 [ja:BB戦士三国伝](https://zh.wikipedia.org/wiki/ja:BB戦士三国伝 "wikilink")
 
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:三國題材漫畫](https://zh.wikipedia.org/wiki/Category:三國題材漫畫 "wikilink")
+[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:三國題材漫畫](https://zh.wikipedia.org/wiki/Category:三國題材漫畫 "wikilink")

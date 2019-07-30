@@ -1,15 +1,8 @@
-**Warped巡迴**（Warped
-Tour）是一個[極限運動的音樂節](../Page/極限運動.md "wikilink")。這個巡迴多舉辦在停車場或其他舞台的場地。[小輪車](https://zh.wikipedia.org/wiki/小輪車 "wikilink")（Bicycle
-Motocross）越野與滑板運動鞋的製造商Vans自1995年開始，每年都會贊助這個活動，所以又被稱作**Vans
-Warped巡迴**（Vans Warped
-Tour），到現在越來越多廠商贊助這個活動。\[1\]這個巡迴是從[龐克搖滾樂團的表演開始的](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")，但現在的演出陣容越來越多樣化。
+**Warped巡迴**（Warped Tour）是一個[極限運動](../Page/極限運動.md "wikilink")的音樂節。這個巡迴多舉辦在停車場或其他舞台的場地。[小輪車](https://zh.wikipedia.org/wiki/小輪車 "wikilink")（Bicycle Motocross）越野與滑板運動鞋的製造商Vans自1995年開始，每年都會贊助這個活動，所以又被稱作**Vans Warped巡迴**（Vans Warped Tour），到現在越來越多廠商贊助這個活動。\[1\]這個巡迴是從[龐克搖滾樂團的表演開始的](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")，但現在的演出陣容越來越多樣化。
 
 ## 官方合輯
 
-[Pennywise_Warped_Tour.jpg](https://zh.wikipedia.org/wiki/File:Pennywise_Warped_Tour.jpg "fig:Pennywise_Warped_Tour.jpg")在16場巡演中，共表演了其中8場。\]\]
-[Warped_Tour_moshing_2010-08-10_03.jpg](https://zh.wikipedia.org/wiki/File:Warped_Tour_moshing_2010-08-10_03.jpg "fig:Warped_Tour_moshing_2010-08-10_03.jpg")
-每年Warped巡演的官方合輯由唱片公司SideOneDummy同時在巡迴開始時發行。在1998年前，這些發行由運動商品製造商Vans，在1996年交由Uni經銷商（Uni
-Distribution）處理，到了1997年，則是交給[Epitaph唱片處理](../Page/Epitaph唱片.md "wikilink")。這些合輯收錄了多個演出者在該年所表演的歌曲。
+[Pennywise_Warped_Tour.jpg](https://zh.wikipedia.org/wiki/File:Pennywise_Warped_Tour.jpg "fig:Pennywise_Warped_Tour.jpg")在16場巡演中，共表演了其中8場。\]\] [Warped_Tour_moshing_2010-08-10_03.jpg](https://zh.wikipedia.org/wiki/File:Warped_Tour_moshing_2010-08-10_03.jpg "fig:Warped_Tour_moshing_2010-08-10_03.jpg") 每年Warped巡演的官方合輯由唱片公司SideOneDummy同時在巡迴開始時發行。在1998年前，這些發行由運動商品製造商Vans，在1996年交由Uni經銷商（Uni Distribution）處理，到了1997年，則是交給[Epitaph唱片](../Page/Epitaph唱片.md "wikilink")處理。這些合輯收錄了多個演出者在該年所表演的歌曲。
 
 | 年    | 標題                                                                      |
 | ---- | ----------------------------------------------------------------------- |

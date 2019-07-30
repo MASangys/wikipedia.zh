@@ -2,7 +2,6 @@
 
 ## 参考资料
 
-[Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink")
-[Category:南非](https://zh.wikipedia.org/wiki/Category:南非 "wikilink")
+[Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink") [Category:南非](https://zh.wikipedia.org/wiki/Category:南非 "wikilink")
 
 1.

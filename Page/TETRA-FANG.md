@@ -8,12 +8,9 @@
 
 ## 成員
 
-  - KOJI（[瀬戸康史](https://zh.wikipedia.org/wiki/瀬戸康史 "wikilink")） -
-    [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")
-  - SHUHEI（[鳴瀬シュウヘイ](https://zh.wikipedia.org/wiki/鳴瀬シュウヘイ "wikilink")）
-    - [keyboard](../Page/電子琴.md "wikilink")
-  - Ayano（[綾野光紘](https://zh.wikipedia.org/wiki/FULL_AHEAD "wikilink")） -
-    主[吉他](../Page/吉他.md "wikilink")
+  - KOJI（[瀬戸康史](https://zh.wikipedia.org/wiki/瀬戸康史 "wikilink")） - [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")
+  - SHUHEI（[鳴瀬シュウヘイ](https://zh.wikipedia.org/wiki/鳴瀬シュウヘイ "wikilink")） - [keyboard](../Page/電子琴.md "wikilink")
+  - Ayano（[綾野光紘](https://zh.wikipedia.org/wiki/FULL_AHEAD "wikilink")） - 主[吉他](../Page/吉他.md "wikilink")
   - UME - [貝斯](../Page/電貝斯.md "wikilink")
 
 過往成員
@@ -23,8 +20,7 @@
 
 支持成員
 
-  - TETSUJI - [鼓](../Page/爵士鼓.md "wikilink")（「MASKED RIDER
-    KIVA-LIVE\&SHOW@Zepp Tokyo」公演時）
+  - TETSUJI - [鼓](../Page/爵士鼓.md "wikilink")（「MASKED RIDER KIVA-LIVE\&SHOW@Zepp Tokyo」公演時）
   - H.toshiyanof3rd - 貝斯（「MASKED RIDER KIVA-LIVE\&SHOW@Zepp Tokyo」公演時）
 
 ## 唱片
@@ -32,9 +28,7 @@
 ### 單曲
 
   - Destiny's Play
-    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") /
-    作曲：[NKMD](https://zh.wikipedia.org/wiki/前田尚紀 "wikilink") /
-    編曲：鳴瀬シュウヘイ
+    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲：[NKMD](https://zh.wikipedia.org/wiki/前田尚紀 "wikilink") / 編曲：鳴瀬シュウヘイ
     2008年4月23日發售。
     1.  Destiny's Play
     2.  Destiny's Play (Neo Romanesque Guitar Edit.)
@@ -60,9 +54,7 @@
   - SUPERNOVA
     2008年8月6日發售。
     1.  Entrance Procession（作曲・編曲：鳴瀬シュウヘイ）
-    2.  Supernova（作詞：藤林聖子 / 作曲：[NAOKI
-        MAEDA](https://zh.wikipedia.org/wiki/前田尚紀 "wikilink") /
-        編曲：鳴瀬シュウヘイ）
+    2.  Supernova（作詞：藤林聖子 / 作曲：[NAOKI MAEDA](https://zh.wikipedia.org/wiki/前田尚紀 "wikilink") / 編曲：鳴瀬シュウヘイ）
     3.  Shout in the Moonlight（作詞：藤林聖子 / 作曲・編曲：RYO）
     4.  Innocent Trap（作詞：藤林聖子 / 作曲・編曲：鳴瀬シュウヘイ）
     5.  Silent Shout（作詞：藤林聖子 / 作曲・編曲：RYO）
@@ -87,8 +79,7 @@
 ### 其他
 
   - Destiny's Play イケメンズVer.
-    作詞：藤林聖子 / 作曲：NKMD / 編曲：鳴瀬シュウヘイ / 歌：イケメンズ
-    feat.襟立健吾（[熊井幸平](https://zh.wikipedia.org/wiki/熊井幸平 "wikilink")）
+    作詞：藤林聖子 / 作曲：NKMD / 編曲：鳴瀬シュウヘイ / 歌：イケメンズ feat.襟立健吾（[熊井幸平](https://zh.wikipedia.org/wiki/熊井幸平 "wikilink")）
 
   - Fight For Justice 〜Individual-System NAGO Ver.〜
     作詞：藤林聖子 / 作曲・編曲：鳴瀬シュウヘイ / 歌：名護啓介（[加藤慶祐](../Page/加藤慶祐.md "wikilink")）
@@ -144,5 +135,4 @@
 
 :\# Beginning ～Message3 / Wataru Kurenai・Otoya Kurenai
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")

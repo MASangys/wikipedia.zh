@@ -1,9 +1,6 @@
-**2012年Oricon專輯週榜冠軍作品列表**列出2012年度曾經登上[Oricon公信榜專輯週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
+**2012年Oricon專輯週榜冠軍作品列表**列出2012年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜冠軍的[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
 
-全年度共有39張冠軍專輯誕生，其中取得冠軍週數最多的專輯是[EXILE的](../Page/放浪兄弟.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[EXILE
-JAPAN／Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》、[Mr.Children的](../Page/Mr.Children.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")《[Mr.Children
-2005-2010
-\<macro\>](../Page/Mr.Children_2005-2010＜macro＞.md "wikilink")》、[安室奈美惠的](../Page/安室奈美惠.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[Uncontrolled](../Page/Uncontrolled.md "wikilink")》和[桑田佳祐的](../Page/桑田佳祐.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")《》（3週）。
+全年度共有39張冠軍專輯誕生，其中取得冠軍週數最多的專輯是[EXILE的](../Page/放浪兄弟.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[EXILE JAPAN／Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》、[Mr.Children](../Page/Mr.Children.md "wikilink")的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")《[Mr.Children 2005-2010 \<macro\>](../Page/Mr.Children_2005-2010＜macro＞.md "wikilink")》、[安室奈美惠](../Page/安室奈美惠.md "wikilink")的[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[Uncontrolled](../Page/Uncontrolled.md "wikilink")》和[桑田佳祐](../Page/桑田佳祐.md "wikilink")的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")《》（3週）。
 
 ## 冠軍專輯列表
 
@@ -457,6 +454,4 @@ JAPAN／Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》、[M
 
   - [2012年每週公信榜統計數據](https://web.archive.org/web/20170924144941/http://www.musictvprogram.com/oricon2012.html)
 
-[Category:2012年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink")
-[Category:2012年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2012年音樂排行榜 "wikilink")
+[Category:2012年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon專輯週榜冠軍作品 "wikilink") [Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink") [Category:2012年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2012年音樂排行榜 "wikilink")

@@ -1,37 +1,6 @@
-顏一帆{{、w}}曹頤和{{、w}}夏佩爾{{、w}}烏奴奴 | director =
-[劉俊傑](../Page/劉俊傑.md "wikilink") | creative_director = |
-presenter = | starring =
-[藍正龍](../Page/藍正龍.md "wikilink"){{、w}}[隋棠](../Page/隋棠.md "wikilink"){{、w}}[溫昇豪](../Page/溫昇豪.md "wikilink"){{、w}}[白歆惠](../Page/白歆惠.md "wikilink")
-| judges = | voices = | narrated = | theme_music_composer = |
-opentheme = [Magic
-Power](https://zh.wikipedia.org/wiki/Magic_Power "wikilink")〈我是誰我是誰我是誰〉
-| endtheme =
-[劉若英](https://zh.wikipedia.org/wiki/劉若英 "wikilink")〈我們沒有在一起〉
-| composer = | country =  | language =
-[國語](https://zh.wikipedia.org/wiki/國語 "wikilink") | num_seasons = |
-num_episodes = 21集(首播版)
-34集(海外版) | list_episodes = | executive_producer = |
-supervising_producer =
-[劉麗惠](https://zh.wikipedia.org/wiki/劉麗惠 "wikilink"){{、w}}[陳一俊](https://zh.wikipedia.org/wiki/陳一俊 "wikilink")
-| producer = [廖健行](https://zh.wikipedia.org/wiki/廖健行 "wikilink") |
-editor = [顏正言](https://zh.wikipedia.org/wiki/顏正言 "wikilink") | location
-=
-[桃園](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龍潭](https://zh.wikipedia.org/wiki/龍潭區_\(桃園市\) "wikilink")
-| cinematography = 蕭聖明 | camera = | runtime = 約90分鐘（含廣告）
-60分鐘（海外版、含廣告） | company =
-[聲色工場傳播有限公司](https://zh.wikipedia.org/wiki/聲色工場傳播有限公司 "wikilink")
-| distributor = [三立電視](../Page/三立電視.md "wikilink") | slogan =
-'''女人不愛，男人使壞 | channel =
-[台視主頻](https://zh.wikipedia.org/wiki/台視主頻 "wikilink") |
-picture_format = [NTSC](https://zh.wikipedia.org/wiki/NTSC "wikilink")
-| audio_format = | first_run =  | first_aired =  | last_aired =  |
-channel_1 = [三立都會台](../Page/三立都會台.md "wikilink") | picture_format_1 =
-[NTSC](https://zh.wikipedia.org/wiki/NTSC "wikilink") | audio_format_1
-= | first_run_1 =  | first_aired_1 =  | last_aired_1 =  |
-preceded_by = | followed_by = | related = | website =
-<http://www.ttv.com.tw/drama10/psman/index.htm> | production_website =
-}}
-**《偷心大聖PS男》**（，[新加坡](../Page/新加坡.md "wikilink")譯為****\[1\]，前名《尋找P.S.男》、《愛上P.S.男》）是2010年[三立華人電視劇週日十點檔系列的第二十二部作品](https://zh.wikipedia.org/wiki/三立電視戲劇節目列表#華人電視劇 "wikilink")。全劇共21集。[台灣電視公司](https://zh.wikipedia.org/wiki/台灣電視公司 "wikilink")、[三立電視](../Page/三立電視.md "wikilink")公司聯合出品。[劉俊傑](../Page/劉俊傑.md "wikilink")執導。2009年7月殺青，2010年2月28日播到7月18日止。接檔《[下一站，幸福](../Page/下一站，幸福.md "wikilink")》。主要演員包括[藍正龍](../Page/藍正龍.md "wikilink")、[溫昇豪](../Page/溫昇豪.md "wikilink")、[隋棠](../Page/隋棠.md "wikilink")、[白歆惠](../Page/白歆惠.md "wikilink")、[小小彬](https://zh.wikipedia.org/wiki/小小彬 "wikilink")。
+顏一帆{{、w}}曹頤和{{、w}}夏佩爾{{、w}}烏奴奴 | director = [劉俊傑](../Page/劉俊傑.md "wikilink") | creative_director = | presenter = | starring = [藍正龍](../Page/藍正龍.md "wikilink"){{、w}}[隋棠](../Page/隋棠.md "wikilink"){{、w}}[溫昇豪](../Page/溫昇豪.md "wikilink"){{、w}}[白歆惠](../Page/白歆惠.md "wikilink") | judges = | voices = | narrated = | theme_music_composer = | opentheme = [Magic Power](https://zh.wikipedia.org/wiki/Magic_Power "wikilink")〈我是誰我是誰我是誰〉 | endtheme = [劉若英](https://zh.wikipedia.org/wiki/劉若英 "wikilink")〈我們沒有在一起〉 | composer = | country =  | language = [國語](https://zh.wikipedia.org/wiki/國語 "wikilink") | num_seasons = | num_episodes = 21集(首播版)
+34集(海外版) | list_episodes = | executive_producer = | supervising_producer = [劉麗惠](https://zh.wikipedia.org/wiki/劉麗惠 "wikilink"){{、w}}[陳一俊](https://zh.wikipedia.org/wiki/陳一俊 "wikilink") | producer = [廖健行](https://zh.wikipedia.org/wiki/廖健行 "wikilink") | editor = [顏正言](https://zh.wikipedia.org/wiki/顏正言 "wikilink") | location = [桃園](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龍潭](https://zh.wikipedia.org/wiki/龍潭區_\(桃園市\) "wikilink") | cinematography = 蕭聖明 | camera = | runtime = 約90分鐘（含廣告）
+60分鐘（海外版、含廣告） | company = [聲色工場傳播有限公司](https://zh.wikipedia.org/wiki/聲色工場傳播有限公司 "wikilink") | distributor = [三立電視](../Page/三立電視.md "wikilink") | slogan = '''女人不愛，男人使壞 | channel = [台視主頻](https://zh.wikipedia.org/wiki/台視主頻 "wikilink") | picture_format = [NTSC](https://zh.wikipedia.org/wiki/NTSC "wikilink") | audio_format = | first_run =  | first_aired =  | last_aired =  | channel_1 = [三立都會台](../Page/三立都會台.md "wikilink") | picture_format_1 = [NTSC](https://zh.wikipedia.org/wiki/NTSC "wikilink") | audio_format_1 = | first_run_1 =  | first_aired_1 =  | last_aired_1 =  | preceded_by = | followed_by = | related = | website = <http://www.ttv.com.tw/drama10/psman/index.htm> | production_website = }} **《偷心大聖PS男》**（，[新加坡](../Page/新加坡.md "wikilink")譯為****\[1\]，前名《尋找P.S.男》、《愛上P.S.男》）是2010年[三立華人電視劇週日十點檔系列的第二十二部作品](https://zh.wikipedia.org/wiki/三立電視戲劇節目列表#華人電視劇 "wikilink")。全劇共21集。[台灣電視公司](https://zh.wikipedia.org/wiki/台灣電視公司 "wikilink")、[三立電視](../Page/三立電視.md "wikilink")公司聯合出品。[劉俊傑](../Page/劉俊傑.md "wikilink")執導。2009年7月殺青，2010年2月28日播到7月18日止。接檔《[下一站，幸福](../Page/下一站，幸福.md "wikilink")》。主要演員包括[藍正龍](../Page/藍正龍.md "wikilink")、[溫昇豪](../Page/溫昇豪.md "wikilink")、[隋棠](../Page/隋棠.md "wikilink")、[白歆惠](../Page/白歆惠.md "wikilink")、[小小彬](https://zh.wikipedia.org/wiki/小小彬 "wikilink")。
 
 ## 播出時間
 
@@ -654,16 +623,11 @@ preceded_by = | followed_by = | related = | website =
 
 ## 電視劇歌曲
 
-  - 主題曲：〈我是誰我是誰我是誰〉作詞：[廷廷](https://zh.wikipedia.org/wiki/廷廷 "wikilink")
-    作曲：廷廷 　演唱：[Magic
-    Power](https://zh.wikipedia.org/wiki/Magic_Power "wikilink")
+  - 主題曲：〈我是誰我是誰我是誰〉作詞：[廷廷](https://zh.wikipedia.org/wiki/廷廷 "wikilink") 作曲：廷廷 　演唱：[Magic Power](https://zh.wikipedia.org/wiki/Magic_Power "wikilink")
   - 片尾曲：〈我們沒有在一起〉作詞：黃婷　作曲：陳韋伶　演唱：[劉若英](https://zh.wikipedia.org/wiki/劉若英 "wikilink")
   - 插曲：〈Summer〉作詞：廷廷 作曲：廷廷 　演唱：Magic Power
-  - 插曲：〈時間倒轉〉作詞：廷廷
-    作曲：廷廷、[雷堡](https://zh.wikipedia.org/wiki/雷堡 "wikilink")
-    (Magic Power)演唱：Magic Power
-  - 插曲：〈我不想念〉作詞：[五月天](../Page/五月天.md "wikilink")[阿信](../Page/陳信宏.md "wikilink")/陳沒
-    作曲：鴉片丹 　演唱：[劉若英](https://zh.wikipedia.org/wiki/劉若英 "wikilink")
+  - 插曲：〈時間倒轉〉作詞：廷廷 作曲：廷廷、[雷堡](https://zh.wikipedia.org/wiki/雷堡 "wikilink") (Magic Power)演唱：Magic Power
+  - 插曲：〈我不想念〉作詞：[五月天](../Page/五月天.md "wikilink")[阿信](../Page/陳信宏.md "wikilink")/陳沒 作曲：鴉片丹 　演唱：[劉若英](https://zh.wikipedia.org/wiki/劉若英 "wikilink")
 
 ## 收視率
 
@@ -735,8 +699,7 @@ preceded_by = | followed_by = | related = | website =
 
 <!-- end list -->
 
-1.  我是誰 我是誰 我是誰 (片頭曲／ [Magic
-    Power魔幻力量](https://zh.wikipedia.org/wiki/Magic_Power "wikilink"))
+1.  我是誰 我是誰 我是誰 (片頭曲／ [Magic Power魔幻力量](https://zh.wikipedia.org/wiki/Magic_Power "wikilink"))
 2.  我喜歡(不,我愛) (插曲／ [嚴爵](../Page/嚴爵.md "wikilink"))
 3.  隱藏真心 (OT：困在台北)
 4.  偷心大聖PS男 (OT：我們沒有在一起)
@@ -766,10 +729,8 @@ DVD收錄內容:
 
 ## 取景地點
 
-  - [桃園](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龍潭](https://zh.wikipedia.org/wiki/龍潭區_\(桃園市\) "wikilink")
-    藍月莊園德式咖啡館
-  - [台中市](https://zh.wikipedia.org/wiki/台中市 "wikilink")[霧峰](../Page/霧峰區.md "wikilink")
-    [亞洲大學](https://zh.wikipedia.org/wiki/亞洲大學_\(台灣\) "wikilink")
+  - [桃園](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龍潭](https://zh.wikipedia.org/wiki/龍潭區_\(桃園市\) "wikilink") 藍月莊園德式咖啡館
+  - [台中市](https://zh.wikipedia.org/wiki/台中市 "wikilink")[霧峰](../Page/霧峰區.md "wikilink") [亞洲大學](https://zh.wikipedia.org/wiki/亞洲大學_\(台灣\) "wikilink")
   - 壢新醫院
   - 宜蘭民宿\~麗野渡假別墅 宜蘭民宿\~麗野渡假別墅
   - 華南銀行
@@ -794,8 +755,7 @@ DVD收錄內容:
   - 第二集
       - AMY在打電話給阿曼達通知小陀螺出事時，手上的iPhone很明顯是在聯絡人分頁，而不是通話中。
       - 馬小茜在回憶小時候游泳時，東西被夏和-{杰}-丟掉後，夏和-{杰}-拿給馬小茜坐車的一百元竟然是民國八十九年出版新版鈔票。
-      - 警察逮捕夏和-{杰}-，依據的「刑法一百八十五條之三，公共危險罪」，但看到資料上，修正中華民國刑法第一百八十五條之三條文，中華民國96年12月18日立法院第6屆第6會期第15次會議通過（公報初稿資料，正確條文以總統公布之條文為準）第一百八十五條之三
-        服用毒品、麻醉藥品、酒類或其他相類之物，不能安全駕駛動力交通工具而駕駛者，處一年以下有期徒刑、拘役或科或併科十五萬元以下罰金。故刑法條文不對。
+      - 警察逮捕夏和-{杰}-，依據的「刑法一百八十五條之三，公共危險罪」，但看到資料上，修正中華民國刑法第一百八十五條之三條文，中華民國96年12月18日立法院第6屆第6會期第15次會議通過（公報初稿資料，正確條文以總統公布之條文為準）第一百八十五條之三 服用毒品、麻醉藥品、酒類或其他相類之物，不能安全駕駛動力交通工具而駕駛者，處一年以下有期徒刑、拘役或科或併科十五萬元以下罰金。故刑法條文不對。
   - 第五集
       - 夏和-{杰}-在馬小茜鄉下的房間裡看牆上的獎狀，其中有寫著「大碑國小」的獎狀，上面有寫馬小茜的班級等等，這樣的話夏和-{杰}-不可能不知道馬小茜是他的同班同學。
       - 馬小茜鄉下的房間的桌上有很多化妝品，可是馬小茜很節儉為什麼有這麼多化妝品?**PS.那不是馬小茜的房間,後來一起睡的那間才是馬小茜的房間·**
@@ -803,18 +763,15 @@ DVD收錄內容:
   - 第八集
       - ATM一天最多可以領三萬，馬小茜不太可能只用一張卡就領了五萬三給孟成恩。**PS.ATM是一次最多三萬，一天最多可領十萬。**
   - 第九集
-      - 在facebook一幕，"鋼牙妹"已確認"小王子"的交友邀請，畫面也顯示"你現在是小王子的朋友"。另一幕，夏和傑打開他的MacBook
-        Air後，**畫面卻顯示"小王子"還要確認"鋼牙妹"的交友邀請。**此程序是一方邀請，另一方確認接受邀請即可。
+      - 在facebook一幕，"鋼牙妹"已確認"小王子"的交友邀請，畫面也顯示"你現在是小王子的朋友"。另一幕，夏和傑打開他的MacBook Air後，**畫面卻顯示"小王子"還要確認"鋼牙妹"的交友邀請。**此程序是一方邀請，另一方確認接受邀請即可。
       - Amanda撥電給夏和傑，**畫面iPhone顯示電話已接通後，夏和傑才"接聼"電話。**PS.注意iPhone顯示通話時間已開始計算，以及那紅色的"結束通話"按鈕。
   - 第十三集
       - 馬小茜的阿嬤晚上拿棉被給小茜,說只有九度的寒流要來,但馬小茜的身上卻是只穿著單薄的背心。**PS.當時有可能正開着暖爐。**
-      - 夏和杰當時正在尋找沉到魚塭底的馬蹄鐵,但和馬小茜接吻後帶到的鏡頭，有重量的馬蹄鐵竟然浮在水面上**PS.他不是放在一個盒子裡面嗎
-        正常的話是會浮起來沒有錯**
+      - 夏和杰當時正在尋找沉到魚塭底的馬蹄鐵,但和馬小茜接吻後帶到的鏡頭，有重量的馬蹄鐵竟然浮在水面上**PS.他不是放在一個盒子裡面嗎 正常的話是會浮起來沒有錯**
       - 夏和杰跟馬小茜在雨中相擁，第一第二次馬小茜的左手並沒有雨傘，但第三次時左手出現了雨傘。
   - 第二十一集
       - 夏和杰跟馬小茜被綁架關在房子裡逃出來的時候沒關門,轉個鏡頭,門是關好的,綁匪開門進去。**PS.有可能被風關掉。**
-      - 夏和杰和馬小茜在海邊談心的時候，夏和杰有提到"2010年7月18號下午四點二十七分我跟馬小茜在這裡共享這個片刻..."；但在綁架鬧劇結束後，馬小茜傳給孟成恩簡訊的畫面卻出現"2010/07/13
-        12:41"。
+      - 夏和杰和馬小茜在海邊談心的時候，夏和杰有提到"2010年7月18號下午四點二十七分我跟馬小茜在這裡共享這個片刻..."；但在綁架鬧劇結束後，馬小茜傳給孟成恩簡訊的畫面卻出現"2010/07/13 12:41"。
 
 ## 經典台詞
 
@@ -835,12 +792,9 @@ DVD收錄內容:
       - 真心是笑話、勇氣是廢話、堅持是鬼話、忠貞是夢話、幸福是屁話。所以我的結論是｢去他媽的愛情！｣
       - 一個男人如果從頭好到腳，那不叫好男人，那叫遜咖；一個男人如果從頭壞到腳，那不叫壞男人，那叫爛咖
       - 所謂的真愛就是，活在當下，及時行樂
-      - 真愛,其實一點也不浪漫吧\! 真愛就像一條項鍊,繫在脖子上,
-        既得不到保護,也得不到幸福,更不用說開心,只會讓大家變成一條狗,乖乖聽話的狗\!
+      - 真愛,其實一點也不浪漫吧\! 真愛就像一條項鍊,繫在脖子上, 既得不到保護,也得不到幸福,更不用說開心,只會讓大家變成一條狗,乖乖聽話的狗\!
       - 當你發現真愛就在你面前的時候，你就會心甘情願的當一個傻子\!一個就算被拒絕幾百遍，都不會放棄的傻子
-      - 愛情，九十九分都是假的吧！只有一分是真實的。是什麼？痛。痛是真實的，可笑的是，你身上沒有傷口，你不會流血。
-        這是這種痛，會扎扎實實咬著你不放，直到把你的心咬下來，你才能擺脫這種痛。
-        沒有心，就不會痛。
+      - 愛情，九十九分都是假的吧！只有一分是真實的。是什麼？痛。痛是真實的，可笑的是，你身上沒有傷口，你不會流血。 這是這種痛，會扎扎實實咬著你不放，直到把你的心咬下來，你才能擺脫這種痛。 沒有心，就不會痛。
       - 城市就像人一樣'不同時間'不同地點'就會呈現出不同的面貌
       - 情場上的頂級獵物'只有獅子能夠抓到'怎麼可能被一直土狼從中攔截\!
       - 愛情本來就是自私的'如果太大公無私的話'那不就變成博愛了?
@@ -913,16 +867,7 @@ DVD收錄內容:
 
 ## 作品的變遷
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:2010年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2010年台灣電視劇集 "wikilink")
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:台視電視劇](https://zh.wikipedia.org/wiki/Category:台視電視劇 "wikilink")
-[Category:三立都會台戲劇節目](https://zh.wikipedia.org/wiki/Category:三立都會台戲劇節目 "wikilink")
-[Category:桃園市背景電視劇](https://zh.wikipedia.org/wiki/Category:桃園市背景電視劇 "wikilink")
-[Category:台中市背景電視劇](https://zh.wikipedia.org/wiki/Category:台中市背景電視劇 "wikilink")
-[Category:宜蘭縣背景電視劇](https://zh.wikipedia.org/wiki/Category:宜蘭縣背景電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:中天電視外購電視劇](https://zh.wikipedia.org/wiki/Category:中天電視外購電視劇 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2010年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2010年台灣電視劇集 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:台視電視劇](https://zh.wikipedia.org/wiki/Category:台視電視劇 "wikilink") [Category:三立都會台戲劇節目](https://zh.wikipedia.org/wiki/Category:三立都會台戲劇節目 "wikilink") [Category:桃園市背景電視劇](https://zh.wikipedia.org/wiki/Category:桃園市背景電視劇 "wikilink") [Category:台中市背景電視劇](https://zh.wikipedia.org/wiki/Category:台中市背景電視劇 "wikilink") [Category:宜蘭縣背景電視劇](https://zh.wikipedia.org/wiki/Category:宜蘭縣背景電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:中天電視外購電視劇](https://zh.wikipedia.org/wiki/Category:中天電視外購電視劇 "wikilink")
 
 1.
 2.  收視第一名是在《偷心大聖PS男》之前播出的《[下一站，幸福](../Page/下一站，幸福.md "wikilink")》，所以《偷心大聖PS男》在播出的同時段應該算是收視第一。

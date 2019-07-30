@@ -1,6 +1,4 @@
-**假面骑士 THE
-NEXT**是[幪面超人系列劇場用特攝英雄電影](https://zh.wikipedia.org/wiki/幪面超人系列 "wikilink")，電影《[假面骑士
-THE FIRST](../Page/假面骑士_THE_FIRST.md "wikilink")》的续作。延续前作写实的风格。
+**假面骑士 THE NEXT**是[幪面超人系列劇場用特攝英雄電影](https://zh.wikipedia.org/wiki/幪面超人系列 "wikilink")，電影《[假面骑士 THE FIRST](../Page/假面骑士_THE_FIRST.md "wikilink")》的续作。延续前作写实的风格。
 
 ## 剧情介绍
 
@@ -19,18 +17,13 @@ THE FIRST](../Page/假面骑士_THE_FIRST.md "wikilink")》的续作。延续前
 
 ### 一文字隼人
 
-[高野 八誠](https://zh.wikipedia.org/wiki/高野_八誠 "wikilink")
-饰：(曾出演《[假面骑士龙骑](https://zh.wikipedia.org/wiki/假面骑士龙骑 "wikilink")》中假面骑士Raia
-手冢海之)
+[高野 八誠](https://zh.wikipedia.org/wiki/高野_八誠 "wikilink") 饰：(曾出演《[假面骑士龙骑](https://zh.wikipedia.org/wiki/假面骑士龙骑 "wikilink")》中假面骑士Raia 手冢海之)
 假面骑士2号。在加长版中，隼人因无法得到血液替换而死去。
 
 ### 风见志郎
 
-[加藤 和树](https://zh.wikipedia.org/wiki/加藤_和树 "wikilink")
-饰：(曾出演《[假面骑士KABUTO](../Page/假面骑士KABUTO.md "wikilink")》中假面骑士雷蜓
-风间大介)
-年轻有为的风见是IT企业Exa-stream的社长，有着幸福的家庭。被剪刀手美洲虎在其公司投放了纳米机器人成功改造成蜻蜓怪人。
-最后在得知妹妹死去的真相后，决心对抗修卡。成为假面骑士V3。
+[加藤 和树](https://zh.wikipedia.org/wiki/加藤_和树 "wikilink") 饰：(曾出演《[假面骑士KABUTO](../Page/假面骑士KABUTO.md "wikilink")》中假面骑士雷蜓 风间大介)
+年轻有为的风见是IT企业Exa-stream的社长，有着幸福的家庭。被剪刀手美洲虎在其公司投放了纳米机器人成功改造成蜻蜓怪人。 最后在得知妹妹死去的真相后，决心对抗修卡。成为假面骑士V3。
 
 ### 菊间琴美
 
@@ -39,8 +32,7 @@ THE FIRST](../Page/假面骑士_THE_FIRST.md "wikilink")》的续作。延续前
 
 ### 风见千春
 
-森 绘梨佳 饰：(曾出演《[假面骑士响鬼](https://zh.wikipedia.org/wiki/假面骑士响鬼 "wikilink")》
-持田瞳)
+森 绘梨佳 饰：(曾出演《[假面骑士响鬼](https://zh.wikipedia.org/wiki/假面骑士响鬼 "wikilink")》 持田瞳)
 风见志郎的妹妹，偶像明星Chiharu。再去哥哥的公司时不幸感染修卡的纳米机器人，却又遭同事的推搡而触电，造成体内纳米机器人暴走变成怪物。最后由假面骑士V3亲手消灭。
 
 ## 假面骑士
@@ -108,7 +100,7 @@ THE FIRST](../Page/假面骑士_THE_FIRST.md "wikilink")》的续作。延续前
 
 ### 修卡戰鬥員
 
-ショッカー(shocker)，本作中的反派[雜魚角色](https://zh.wikipedia.org/wiki/雜魚 "wikilink")，卻因為搞笑的長相而推出不少惡搞的週邊商品，如修卡戰鬥員[疊疊樂等等](../Page/疊疊樂.md "wikilink")。
+ショッカー(shocker)，本作中的反派[雜魚角色](https://zh.wikipedia.org/wiki/雜魚 "wikilink")，卻因為搞笑的長相而推出不少惡搞的週邊商品，如修卡戰鬥員[疊疊樂](../Page/疊疊樂.md "wikilink")等等。
 
 ## 主题曲
 
@@ -143,13 +135,4 @@ THE FIRST](../Page/假面骑士_THE_FIRST.md "wikilink")》的续作。延续前
 
   - [官方網站](http://www.toei-video.co.jp/archive/ridernext/)
 
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:重製特攝電影](https://zh.wikipedia.org/wiki/Category:重製特攝電影 "wikilink")
-[Category:田崎龍太電影](https://zh.wikipedia.org/wiki/Category:田崎龍太電影 "wikilink")
-[Category:2000年代恐怖片](https://zh.wikipedia.org/wiki/Category:2000年代恐怖片 "wikilink")
-[Category:日本恐怖片](https://zh.wikipedia.org/wiki/Category:日本恐怖片 "wikilink")
-[Category:2007年日本電影](https://zh.wikipedia.org/wiki/Category:2007年日本電影 "wikilink")
-[Category:教師主角電影](https://zh.wikipedia.org/wiki/Category:教師主角電影 "wikilink")
-[Category:偶像題材電影](https://zh.wikipedia.org/wiki/Category:偶像題材電影 "wikilink")
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:重製特攝電影](https://zh.wikipedia.org/wiki/Category:重製特攝電影 "wikilink") [Category:田崎龍太電影](https://zh.wikipedia.org/wiki/Category:田崎龍太電影 "wikilink") [Category:2000年代恐怖片](https://zh.wikipedia.org/wiki/Category:2000年代恐怖片 "wikilink") [Category:日本恐怖片](https://zh.wikipedia.org/wiki/Category:日本恐怖片 "wikilink") [Category:2007年日本電影](https://zh.wikipedia.org/wiki/Category:2007年日本電影 "wikilink") [Category:教師主角電影](https://zh.wikipedia.org/wiki/Category:教師主角電影 "wikilink") [Category:偶像題材電影](https://zh.wikipedia.org/wiki/Category:偶像題材電影 "wikilink") [Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")

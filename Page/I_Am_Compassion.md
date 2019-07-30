@@ -1,14 +1,11 @@
-《**I Am Compassion**》是韓國Compassion所屬的音樂組合**Compassion
-Band**在2009年11月20日發行的慈善專輯。\[1\]
+《**I Am Compassion**》是韓國Compassion所屬的音樂組合**Compassion Band**在2009年11月20日發行的慈善專輯。\[1\]
 
 ## 概述
 
   - 此張專輯由超過120名Compassion Band成員與韓國Compassion後援者共同參與專輯演出製作，目的為慈善進行奔走。
-  - **사랑하기 때문에 （因為愛）**為整張專輯之主打歌曲，亦進行M／V
-    \[2\]拍攝（由[皇甫惠貞擔任女主角](../Page/皇甫惠貞.md "wikilink")）。
+  - **사랑하기 때문에 （因為愛）**為整張專輯之主打歌曲，亦進行M／V \[2\]拍攝（由[皇甫惠貞](../Page/皇甫惠貞.md "wikilink")擔任女主角）。
   - 2009年11月20日舉行專輯發佈記者會，現場即演唱專輯曲目\[3\]。
-  - 2012年3月4日於韓國首爾新村延世大學100周年紀念館舉行促求中國停止將逃離北韓的逃民遣送回北韓的請願演唱會－Cry with
-    us演唱會中演唱主題曲《Cry with us（함께 울어요）》。
+  - 2012年3月4日於韓國首爾新村延世大學100周年紀念館舉行促求中國停止將逃離北韓的逃民遣送回北韓的請願演唱會－Cry with us演唱會中演唱主題曲《Cry with us（함께 울어요）》。
 
 ## 曲目
 
@@ -33,11 +30,9 @@ Band**在2009年11月20日發行的慈善專輯。\[1\]
 
 ## 參考資料
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.
 2.
 3.
-4.  [Various Artist - Cry With Us MV
-    <eng sub>](http://www.youtube.com/watch?v=g6Jx7a86eRI)
+4.  [Various Artist - Cry With Us MV <eng sub>](http://www.youtube.com/watch?v=g6Jx7a86eRI)

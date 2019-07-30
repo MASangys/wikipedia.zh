@@ -1,5 +1,4 @@
-是一部加拿大與美國合拍的2005年[超級英雄電影](../Page/超級英雄電影.md "wikilink")，由執導。這個故事是來自於[漫威漫畫角色](../Page/漫威漫畫.md "wikilink")「[幻影殺手](https://zh.wikipedia.org/wiki/幻影殺手_\(漫畫\) "wikilink")」（[珍妮佛·嘉納](../Page/珍妮佛·嘉納.md "wikilink")
-飾演）。
+是一部加拿大與美國合拍的2005年[超級英雄電影](../Page/超級英雄電影.md "wikilink")，由執導。這個故事是來自於[漫威漫畫](../Page/漫威漫畫.md "wikilink")角色「[幻影殺手](https://zh.wikipedia.org/wiki/幻影殺手_\(漫畫\) "wikilink")」（[珍妮佛·嘉納](../Page/珍妮佛·嘉納.md "wikilink") 飾演）。
 
 ## 劇情簡介
 
@@ -19,7 +18,7 @@
 <tr class="odd">
 <td><p><a href="../Page/珍妮佛·嘉納.md" title="wikilink">珍妮佛·嘉納</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/幻影殺手_(漫畫)" title="wikilink">伊蕾莎·納崔斯</a>（Elektra Natchios）</p></td>
-<td><p>精通武術及格鬥，復活前為<a href="../Page/夜魔俠.md" title="wikilink">夜魔俠的女友</a>。</p></td>
+<td><p>精通武術及格鬥，復活前為<a href="../Page/夜魔俠.md" title="wikilink">夜魔俠</a>的女友。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -84,12 +83,4 @@ Abby Miller</p></td>
   -
   -
   -
-[Category:2005年電影](https://zh.wikipedia.org/wiki/Category:2005年電影 "wikilink")
-[Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink")
-[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink")
-[Category:動作片](https://zh.wikipedia.org/wiki/Category:動作片 "wikilink")
-[Category:忍者片](https://zh.wikipedia.org/wiki/Category:忍者片 "wikilink")
-[Category:犯罪片](https://zh.wikipedia.org/wiki/Category:犯罪片 "wikilink")
-[Category:漫威漫畫改編電影](https://zh.wikipedia.org/wiki/Category:漫威漫畫改編電影 "wikilink")
-[Category:20世纪福斯电影](https://zh.wikipedia.org/wiki/Category:20世纪福斯电影 "wikilink")
-[Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink")
+[Category:2005年電影](https://zh.wikipedia.org/wiki/Category:2005年電影 "wikilink") [Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:動作片](https://zh.wikipedia.org/wiki/Category:動作片 "wikilink") [Category:忍者片](https://zh.wikipedia.org/wiki/Category:忍者片 "wikilink") [Category:犯罪片](https://zh.wikipedia.org/wiki/Category:犯罪片 "wikilink") [Category:漫威漫畫改編電影](https://zh.wikipedia.org/wiki/Category:漫威漫畫改編電影 "wikilink") [Category:20世纪福斯电影](https://zh.wikipedia.org/wiki/Category:20世纪福斯电影 "wikilink") [Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink")

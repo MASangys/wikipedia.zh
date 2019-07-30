@@ -1,21 +1,13 @@
-**Sony Music
-Records**（）是[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")（SME）旗下的[唱片公司](../Page/唱片公司.md "wikilink")，1968年以「CBS/Sony」為名與SME同時成立，是SME旗下歷史最悠久的唱片公司。之後曾以SME旗下[子公司的方式經營](../Page/子公司.md "wikilink")，2014年3月31日後改以[分公司制成為SME旗下專責唱片品牌的子公司](../Page/分公司制.md "wikilink")「索尼音樂品牌」（）的一部分。目前擁有Sony
-Records、gr8\!records、MASTERSIX FOUNDATION、N46Div.等4個唱片品牌。
+**Sony Music Records**（）是[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")（SME）旗下的[唱片公司](../Page/唱片公司.md "wikilink")，1968年以「CBS/Sony」為名與SME同時成立，是SME旗下歷史最悠久的唱片公司。之後曾以SME旗下[子公司](../Page/子公司.md "wikilink")的方式經營，2014年3月31日後改以[分公司制](../Page/分公司制.md "wikilink")成為SME旗下專責唱片品牌的子公司「索尼音樂品牌」（）的一部分。目前擁有Sony Records、gr8\!records、MASTERSIX FOUNDATION、N46Div.等4個唱片品牌。
 
 ## 沿革
 
-  - 1968年3月1日-「CBS・Sony Record股份有限公司」設立。（Sony Music Entertainment
-    Inc.(SME)草創時期的重要公司。）
-  - 1983年8月-「CBS・Sony Record股份有限公司」進行商號變更，將「CBS・Sony
-    Group」（現・SME）的企劃製作部門與「CBS・Sony股份有限公司」分離。
+  - 1968年3月1日-「CBS・Sony Record股份有限公司」設立。（Sony Music Entertainment Inc.(SME)草創時期的重要公司。）
+  - 1983年8月-「CBS・Sony Record股份有限公司」進行商號變更，將「CBS・Sony Group」（現・SME）的企劃製作部門與「CBS・Sony股份有限公司」分離。
   - 1988年3月-「CBS・Sony」將其吸收合併。
-  - 1991年4月-「CBS・Sony股份有限公司」與「Sony Music Entertainment
-    股份有限公司」進行商號變更時，將「CBS・Sony
-    Record」變更為「Sony Records」。
-  - 2001年10月-SME的製作部門新設立「Sony Music Records Inc.」。將Sony
-    Records業務由其它的子公司繼承。
-  - 2003年4月-廠牌・[SME Records
-    Inc.](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")（設立）分離。
+  - 1991年4月-「CBS・Sony股份有限公司」與「Sony Music Entertainment 股份有限公司」進行商號變更時，將「CBS・Sony Record」變更為「Sony Records」。
+  - 2001年10月-SME的製作部門新設立「Sony Music Records Inc.」。將Sony Records業務由其它的子公司繼承。
+  - 2003年4月-廠牌・[SME Records Inc.](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")（設立）分離。
 
 ## 廠牌
 
@@ -26,15 +18,14 @@ Records、gr8\!records、MASTERSIX FOUNDATION、N46Div.等4個唱片品牌。
   - MASTERSIX FOUNDATION（2003年設立）
   - N46Div.（乃木坂46的自有廠牌）
 
-### 已收掉廠牌
+### 已消滅廠牌
 
   - EPIC
   - Fifty Four Sounds
   - Odyssey（1972年7月 - 1977年12月）
   - UMI（1972年10月-1980年代前半）
   - PEOPLE（1979年2月-1994年12月）
-  - Niagara
-    Records（[大滝詠一專用廠牌](https://zh.wikipedia.org/wiki/大滝詠一 "wikilink")，1981年3月-2014年3月）
+  - Niagara Records（[大滝詠一專用廠牌](https://zh.wikipedia.org/wiki/大滝詠一 "wikilink")，1981年3月-2014年3月）
   - FITZBEAT（1983年-1992年3月）
   - Silverland（1981年5月-1991年9月）
   - RAKKYO／樂京（1980年代後半）
@@ -82,8 +73,7 @@ Records、gr8\!records、MASTERSIX FOUNDATION、N46Div.等4個唱片品牌。
   - [KCB](https://zh.wikipedia.org/wiki/KCB_\(KICK_CHOP_BUSTERS\) "wikilink")
   - [JUNE](https://zh.wikipedia.org/wiki/JUNE_\(歌手\) "wikilink")
   - [ERIKA](https://zh.wikipedia.org/wiki/ERIKA "wikilink")
-  - [little by
-    little](https://zh.wikipedia.org/wiki/little_by_little "wikilink")
+  - [little by little](https://zh.wikipedia.org/wiki/little_by_little "wikilink")
   - [黑木美沙](../Page/黑木美沙.md "wikilink")
 
 ### gr8\!records
@@ -93,12 +83,10 @@ Records、gr8\!records、MASTERSIX FOUNDATION、N46Div.等4個唱片品牌。
   - [Qwai](https://zh.wikipedia.org/wiki/Qwai "wikilink")
   - [ステレオポニー](https://zh.wikipedia.org/wiki/ステレオポニー "wikilink")
   - [高橋瞳](../Page/高橋瞳.md "wikilink")
-  - [DOPING
-    PANDA](https://zh.wikipedia.org/wiki/DOPING_PANDA "wikilink")
+  - [DOPING PANDA](https://zh.wikipedia.org/wiki/DOPING_PANDA "wikilink")
   - [福原美穗](../Page/福原美穗.md "wikilink")
   - [ホイフェスタ](https://zh.wikipedia.org/wiki/ホイフェスタ "wikilink")
-  - [Boom Boom
-    Satellites](https://zh.wikipedia.org/wiki/ブンブンサテライツ "wikilink")
+  - [Boom Boom Satellites](https://zh.wikipedia.org/wiki/ブンブンサテライツ "wikilink")
   - [YUI](https://zh.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")
   - [Rie fu](../Page/Rie_fu.md "wikilink")
   - [Goose House](https://zh.wikipedia.org/wiki/Goose_house "wikilink")
@@ -122,6 +110,4 @@ Records、gr8\!records、MASTERSIX FOUNDATION、N46Div.等4個唱片品牌。
   - [会社案内](https://web.archive.org/web/20101018014708/http://www.sme.co.jp/sme/corporate/smr.html)
   - [Sony Music Online Japan](http://www.sonymusic.co.jp/)
 
-[Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink")
-[Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")
-[Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")
+[Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink") [Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")

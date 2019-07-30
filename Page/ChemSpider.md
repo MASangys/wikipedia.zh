@@ -1,5 +1,4 @@
-**Chemspider**是一个网络[化学数据库](../Page/化学数据库.md "wikilink")。它试运行于2007年3月，并于一年后的2008年3月正式发布。
-ChemSpider数据库记录了超过两千万的[分子](../Page/分子.md "wikilink")，与其他传统化学数据库不同的地方在于，它通过WiChempedia收录[维基百科中的化合物记录](../Page/维基百科.md "wikilink")。ChemSpider于2009年5月被[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[皇家化学会收购](https://zh.wikipedia.org/wiki/皇家化学会 "wikilink")。\[1\]
+**Chemspider**是一个网络[化学数据库](../Page/化学数据库.md "wikilink")。它试运行于2007年3月，并于一年后的2008年3月正式发布。 ChemSpider数据库记录了超过两千万的[分子](../Page/分子.md "wikilink")，与其他传统化学数据库不同的地方在于，它通过WiChempedia收录[维基百科](../Page/维基百科.md "wikilink")中的化合物记录。ChemSpider于2009年5月被[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[皇家化学会收购](https://zh.wikipedia.org/wiki/皇家化学会 "wikilink")。\[1\]
 
 ## 数据来源
 
@@ -158,21 +157,15 @@ ChemSpider数据库以公开的网络数据库为主要数据来源。以下为C
 
 ## 参考资料
 
-  - *[化学化工新闻](https://zh.wikipedia.org/wiki/化学化工新闻 "wikilink")*,
-    **85**(24), June 11, 2007.
+  - *[化学化工新闻](https://zh.wikipedia.org/wiki/化学化工新闻 "wikilink")*, **85**(24), June 11, 2007.
 
-  - {{ cite journal| journal=Chemical & Engineering News| volume=85|
-    issue=24| date=June 11, 2007}}
+  - {{ cite journal| journal=Chemical & Engineering News| volume=85| issue=24| date=June 11, 2007}}
 
   -
   -
   -
   -
-  - E. Curry, A. Freitas, and S. O’Riáin,
-    \[<http://books.google.co.uk/books?id=DsMrnk9-4NsC&lpg=PA25&ots=ngw9sbXIiH&lr&pg=PA25#v=onepage&q&f=false>,
-    “The Role of Community-Driven Data Curation for Enterprises,”\] in
-    Linking Enterprise Data, D. Wood, Ed. Boston, MA: Springer US, 2010,
-    pp. 25–47.
+  - E. Curry, A. Freitas, and S. O’Riáin, \[<http://books.google.co.uk/books?id=DsMrnk9-4NsC&lpg=PA25&ots=ngw9sbXIiH&lr&pg=PA25#v=onepage&q&f=false>, “The Role of Community-Driven Data Curation for Enterprises,”\] in Linking Enterprise Data, D. Wood, Ed. Boston, MA: Springer US, 2010, pp. 25–47.
 
 ## 外部链接
 
@@ -180,8 +173,6 @@ ChemSpider数据库以公开的网络数据库为主要数据来源。以下为C
   - [Moltable](https://web.archive.org/web/20090824063157/http://moltable.ncl.res.in/)
   - [ChemSpider演示](http://www.slideshare.net/AntonyWilliams/slideshows)
 
-[Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink")
-[Category:化学数据库](https://zh.wikipedia.org/wiki/Category:化学数据库 "wikilink")
-[Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink")
+[Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink") [Category:化学数据库](https://zh.wikipedia.org/wiki/Category:化学数据库 "wikilink") [Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink")
 
 1.

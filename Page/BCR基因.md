@@ -1,4 +1,4 @@
-**BCR基因**（），或称**断裂点簇集区**（），是[bcr-abl融合基因的组成部分之一](https://zh.wikipedia.org/wiki/bcr-abl融合基因 "wikilink")，其与[费城染色体的形成机制有关](../Page/费城染色体.md "wikilink")。
+**BCR基因**（），或称**断裂点簇集区**（），是[bcr-abl融合基因的组成部分之一](https://zh.wikipedia.org/wiki/bcr-abl融合基因 "wikilink")，其与[费城染色体](../Page/费城染色体.md "wikilink")的形成机制有关。
 
 ## 病理学
 

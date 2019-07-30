@@ -1,12 +1,8 @@
-《**Royal
-Family**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2011年3月2日起播出的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，改編自日本作家[森村誠一的長篇推理小說](https://zh.wikipedia.org/wiki/森村誠一 "wikilink")《[人性的證明](https://zh.wikipedia.org/wiki/人性的證明 "wikilink")》，是《[綜合醫院2](../Page/綜合醫院2.md "wikilink")》編劇[權音美籌備](https://zh.wikipedia.org/wiki/權音美 "wikilink")2年多的力作，同時由[金榮昡和](../Page/金榮昡.md "wikilink")[朴尚淵作家提供了協助](../Page/朴尚淵.md "wikilink")。
+《**Royal Family**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2011年3月2日起播出的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，改編自日本作家[森村誠一的長篇推理小說](https://zh.wikipedia.org/wiki/森村誠一 "wikilink")《[人性的證明](https://zh.wikipedia.org/wiki/人性的證明 "wikilink")》，是《[綜合醫院2](../Page/綜合醫院2.md "wikilink")》編劇[權音美籌備](https://zh.wikipedia.org/wiki/權音美 "wikilink")2年多的力作，同時由[金榮昡](../Page/金榮昡.md "wikilink")和[朴尚淵](../Page/朴尚淵.md "wikilink")作家提供了協助。
 
 ## 劇情簡介
 
-財閥JK集團二兒媳金仁淑（[廉晶雅](../Page/廉晶雅.md "wikilink")
-飾演），她在這個家族裡沒有名字，被稱為「K」，18年來一直在婆婆孔順好（[金姈愛](../Page/金姈愛.md "wikilink")
-飾演）嚴密監視和羞辱下，過著連呼吸聲都要隱藏的生活。持續15年受到仁淑關懷和支援的韓志勳（[池晟](../Page/池晟.md "wikilink")
-飾演）檢察官，意外得知仁淑的現狀後，決心進入JK集團幫助她。
+財閥JK集團二兒媳金仁淑（[廉晶雅](../Page/廉晶雅.md "wikilink") 飾演），她在這個家族裡沒有名字，被稱為「K」，18年來一直在婆婆孔順好（[金姈愛](../Page/金姈愛.md "wikilink") 飾演）嚴密監視和羞辱下，過著連呼吸聲都要隱藏的生活。持續15年受到仁淑關懷和支援的韓志勳（[池晟](../Page/池晟.md "wikilink") 飾演）檢察官，意外得知仁淑的現狀後，決心進入JK集團幫助她。
 
 然而，當志勳在追查一宗黑人離奇被殺事件時，真相的箭頭指向的竟然是金仁淑，漸漸發現自己傾盡全部愛戀的人並非天使。此時仁淑決定向婆婆還擊，與眾人爭奪JK集團總裁的位置。
 
@@ -329,14 +325,7 @@ Family**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 
   -
   -
-[Category:MBC水木迷你连续剧](https://zh.wikipedia.org/wiki/Category:MBC水木迷你连续剧 "wikilink")
-[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink")
-[Category:日本小說改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編韓國電視劇 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:韓國推理劇](https://zh.wikipedia.org/wiki/Category:韓國推理劇 "wikilink")
-[Category:美亞電視外購劇集](https://zh.wikipedia.org/wiki/Category:美亞電視外購劇集 "wikilink")
-[Category:人性的证明](https://zh.wikipedia.org/wiki/Category:人性的证明 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
+[Category:MBC水木迷你连续剧](https://zh.wikipedia.org/wiki/Category:MBC水木迷你连续剧 "wikilink") [Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink") [Category:日本小說改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編韓國電視劇 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:韓國推理劇](https://zh.wikipedia.org/wiki/Category:韓國推理劇 "wikilink") [Category:美亞電視外購劇集](https://zh.wikipedia.org/wiki/Category:美亞電視外購劇集 "wikilink") [Category:人性的证明](https://zh.wikipedia.org/wiki/Category:人性的证明 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://home.tnms.tv/rating/main.asp)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/)

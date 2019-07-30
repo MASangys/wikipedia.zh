@@ -1,11 +1,6 @@
-**QML** (Qt Markup Language\[1\] 或 Qt Meta Language 或 Qt Modeling
-Language\[2\])
-是基於[JavaScript](../Page/JavaScript.md "wikilink")、宣告式編程的程式語言，用於設計使用者介面為主的應用程式。它是，諾基亞開發的使用者介面建立套件的一部分。QML
-主要用於行動應用程式，注重於觸控輸入、流暢的動畫（60張/秒）和使用者體驗。QML documents 描述元素的物件樹。
+**QML** (Qt Markup Language\[1\] 或 Qt Meta Language 或 Qt Modeling Language\[2\]) 是基於[JavaScript](../Page/JavaScript.md "wikilink")、宣告式編程的程式語言，用於設計使用者介面為主的應用程式。它是，諾基亞開發的使用者介面建立套件的一部分。QML 主要用於行動應用程式，注重於觸控輸入、流暢的動畫（60張/秒）和使用者體驗。QML documents 描述元素的物件樹。
 
-QML 元素可以透過標準 JavaScript 增強，包括這 inline 和引入.js 檔。元素可以也無縫整合和使用
-[Qt](../Page/Qt.md "wikilink") 框架的 [C++](../Page/C++.md "wikilink")
-元件擴展。
+QML 元素可以透過標準 JavaScript 增強，包括這 inline 和引入.js 檔。元素可以也無縫整合和使用 [Qt](../Page/Qt.md "wikilink") 框架的 [C++](../Page/C++.md "wikilink") 元件擴展。
 
 語言的名稱是 QML。runtime的名稱是 QQuickView。
 
@@ -80,37 +75,25 @@ QML 提供直接訪問，從以下來自 Qt 的概念：
 
 ### 操作方法
 
-  - [Calling Qt class methods from
-    QML](https://web.archive.org/web/20100819130735/http://wiki.forum.nokia.com/index.php/CS001613_-_Calling_Qt_class_methods_from_QML)
-  - [Creating a custom QML element with
-    Qt](https://web.archive.org/web/20100819160752/http://wiki.forum.nokia.com/index.php/CS001627_-_Creating_a_custom_QML_element_with_Qt)
-  - [Connecting Qt signal to QML
-    function](https://web.archive.org/web/20101211113715/http://wiki.forum.nokia.com/index.php/CS001625_-_Connecting_Qt_signal_to_QML_function)
+  - [Calling Qt class methods from QML](https://web.archive.org/web/20100819130735/http://wiki.forum.nokia.com/index.php/CS001613_-_Calling_Qt_class_methods_from_QML)
+  - [Creating a custom QML element with Qt](https://web.archive.org/web/20100819160752/http://wiki.forum.nokia.com/index.php/CS001627_-_Creating_a_custom_QML_element_with_Qt)
+  - [Connecting Qt signal to QML function](https://web.archive.org/web/20101211113715/http://wiki.forum.nokia.com/index.php/CS001625_-_Connecting_Qt_signal_to_QML_function)
 
 ## 開發工具
 
-由于 QML 和 Javascript 的语法相似，大多数支持 Javascript 的编辑器均可编辑 QML。但是从 [Qt
-Creator](../Page/Qt_Creator.md "wikilink") 的 2.1 版本开始，该 IDE
-提供了完整的语法高亮、代码补全、内建帮助和所见即所得编辑器。在商业版本的 Creator
-中，所见即所得编辑器还会提供更多的功能。
+由于 QML 和 Javascript 的语法相似，大多数支持 Javascript 的编辑器均可编辑 QML。但是从 [Qt Creator](../Page/Qt_Creator.md "wikilink") 的 2.1 版本开始，该 IDE 提供了完整的语法高亮、代码补全、内建帮助和所见即所得编辑器。在商业版本的 Creator 中，所见即所得编辑器还会提供更多的功能。
 
 ## 參考資料
 
 ## 外部連結
 
-  - [QML Reference
-    Documentation](https://web.archive.org/web/20111024202714/http://doc.qt.nokia.com/4.7-snapshot/qdeclarativeelements.html)
-  - [Introduction to the QML
-    language](https://web.archive.org/web/20111014054245/http://doc.qt.nokia.com/4.7-snapshot/qdeclarativeintroduction.html)
-  - [QML Examples and
-    Demos](https://web.archive.org/web/20111008153849/http://doc.qt.nokia.com/4.7-snapshot/qdeclarativeexamples.html)
-  - [Qt Labs Blog Posts related to
-    QML](https://web.archive.org/web/20090518012534/http://labs.trolltech.com/blogs/category/labs/graphics/kinetic/declarative_ui/)
-  - [QML
-    Tutorial](https://web.archive.org/web/20100924210913/http://doc.qt.nokia.com/4.7/qml-tutorial.html)
+  - [QML Reference Documentation](https://web.archive.org/web/20111024202714/http://doc.qt.nokia.com/4.7-snapshot/qdeclarativeelements.html)
+  - [Introduction to the QML language](https://web.archive.org/web/20111014054245/http://doc.qt.nokia.com/4.7-snapshot/qdeclarativeintroduction.html)
+  - [QML Examples and Demos](https://web.archive.org/web/20111008153849/http://doc.qt.nokia.com/4.7-snapshot/qdeclarativeexamples.html)
+  - [Qt Labs Blog Posts related to QML](https://web.archive.org/web/20090518012534/http://labs.trolltech.com/blogs/category/labs/graphics/kinetic/declarative_ui/)
+  - [QML Tutorial](https://web.archive.org/web/20100924210913/http://doc.qt.nokia.com/4.7/qml-tutorial.html)
 
-[Category:Qt](https://zh.wikipedia.org/wiki/Category:Qt "wikilink")
-[Category:宣告式編程語言](https://zh.wikipedia.org/wiki/Category:宣告式編程語言 "wikilink")
+[Category:Qt](https://zh.wikipedia.org/wiki/Category:Qt "wikilink") [Category:宣告式編程語言](https://zh.wikipedia.org/wiki/Category:宣告式編程語言 "wikilink")
 
 1.
 2.

@@ -1,17 +1,6 @@
-[崔丹尼爾](https://zh.wikipedia.org/wiki/崔丹尼爾 "wikilink"){{、w}}[朴基雄](../Page/朴基雄.md "wikilink"){{、w}}[玉珠賢](https://zh.wikipedia.org/wiki/玉珠賢 "wikilink")
-| slogan = | judges = | voices = | narrated = | theme_music_composer =
-| opentheme = | endtheme = | composer = | country =  | language =
-[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = |
-num_episodes = 15 | list_episodes = | executive_producer = | producer
-= | supervising_producer = | editor = | location = | cinematography = |
-camera = | runtime = 約62分（含廣告） | company = Every Show | distributor = |
-channel = [SBS](../Page/韓國放送公社.md "wikilink") | picture_format = |
-audio_format = | first_run =  | first_aired =  | last_aired =  |
-status = | preceded_by = | followed_by = | related = | website =
-<http://tv.sbs.co.kr/musical/> | production_website = }}
+[崔丹尼爾](https://zh.wikipedia.org/wiki/崔丹尼爾 "wikilink"){{、w}}[朴基雄](../Page/朴基雄.md "wikilink"){{、w}}[玉珠賢](https://zh.wikipedia.org/wiki/玉珠賢 "wikilink") | slogan = | judges = | voices = | narrated = | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 15 | list_episodes = | executive_producer = | producer = | supervising_producer = | editor = | location = | cinematography = | camera = | runtime = 約62分（含廣告） | company = Every Show | distributor = | channel = [SBS](../Page/韓國放送公社.md "wikilink") | picture_format = | audio_format = | first_run =  | first_aired =  | last_aired =  | status = | preceded_by = | followed_by = | related = | website = <http://tv.sbs.co.kr/musical/> | production_website = }}
 
-《**The
-Musical**》（），[SBS電視台於](../Page/SBS_\(韓國\).md "wikilink")2011年9月至2011年12月期間播放的[金曜連續劇](../Page/SBS金曜連續劇.md "wikilink")，由[具惠善](../Page/具惠善.md "wikilink")、[崔丹尼爾](https://zh.wikipedia.org/wiki/崔丹尼爾 "wikilink")、[朴基雄](../Page/朴基雄.md "wikilink")、[玉珠賢領銜演出](https://zh.wikipedia.org/wiki/玉珠賢 "wikilink")。該劇講述了位製作出一流的音樂劇而走到一起的製作人、作曲家合演員們的熱情與愛情故事。
+《**The Musical**》（），[SBS電視台於](../Page/SBS_\(韓國\).md "wikilink")2011年9月至2011年12月期間播放的[金曜連續劇](../Page/SBS金曜連續劇.md "wikilink")，由[具惠善](../Page/具惠善.md "wikilink")、[崔丹尼爾](https://zh.wikipedia.org/wiki/崔丹尼爾 "wikilink")、[朴基雄](../Page/朴基雄.md "wikilink")、[玉珠賢領銜演出](https://zh.wikipedia.org/wiki/玉珠賢 "wikilink")。該劇講述了位製作出一流的音樂劇而走到一起的製作人、作曲家合演員們的熱情與愛情故事。
 
 ## 演出陣容
 
@@ -19,8 +8,7 @@ Musical**》（），[SBS電視台於](../Page/SBS_\(韓國\).md "wikilink")2011
 
   - [具惠善](../Page/具惠善.md "wikilink") 飾　**高恩菲**
 
-發呆的眼神，笨笨呆呆的樣子，有著滿腔熱情。一個完全沉浸于音樂中的女孩。樂譜和醫學用語一起背誦才能記住， 比起Albert
-Schweitzer更崇拜音樂劇演員裴江熙。雖然去參加過音樂劇選拔，但是每次都落榜。跳舞雖然馬馬虎虎的能跟上但是天生遲鈍。雖然知道有熱情和韌性任何事情都可以成功…但是音樂這個東西卻不是。雖然這麼說但是卻不放棄。在一次充滿朝氣的站起來時，出現了這樣洪宰宜。對自己的聲音和熱情瞭如指掌，恩菲心裡有些不平靜。可以唱歌，可以站在舞臺上，可以和洪宰宜一起製作音樂…
+發呆的眼神，笨笨呆呆的樣子，有著滿腔熱情。一個完全沉浸于音樂中的女孩。樂譜和醫學用語一起背誦才能記住， 比起Albert Schweitzer更崇拜音樂劇演員裴江熙。雖然去參加過音樂劇選拔，但是每次都落榜。跳舞雖然馬馬虎虎的能跟上但是天生遲鈍。雖然知道有熱情和韌性任何事情都可以成功…但是音樂這個東西卻不是。雖然這麼說但是卻不放棄。在一次充滿朝氣的站起來時，出現了這樣洪宰宜。對自己的聲音和熱情瞭如指掌，恩菲心裡有些不平靜。可以唱歌，可以站在舞臺上，可以和洪宰宜一起製作音樂…
 
   - [崔丹尼爾](https://zh.wikipedia.org/wiki/崔丹尼爾 "wikilink") 飾 **洪宰宜**
 
@@ -80,7 +68,4 @@ Schweitzer更崇拜音樂劇演員裴江熙。雖然去參加過音樂劇選拔�
 
   - [SBS](http://tv.sbs.co.kr/musical/)
 
-[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink")
-[Category:SBS金曜連續劇](https://zh.wikipedia.org/wiki/Category:SBS金曜連續劇 "wikilink")
-[Category:歌舞電視劇](https://zh.wikipedia.org/wiki/Category:歌舞電視劇 "wikilink")
-[Category:演藝界題材作品](https://zh.wikipedia.org/wiki/Category:演藝界題材作品 "wikilink")
+[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink") [Category:SBS金曜連續劇](https://zh.wikipedia.org/wiki/Category:SBS金曜連續劇 "wikilink") [Category:歌舞電視劇](https://zh.wikipedia.org/wiki/Category:歌舞電視劇 "wikilink") [Category:演藝界題材作品](https://zh.wikipedia.org/wiki/Category:演藝界題材作品 "wikilink")

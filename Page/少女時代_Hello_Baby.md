@@ -1,5 +1,4 @@
-**少女時代 Hello Baby**
-是一部由[韓國著名女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[少女時代出演的育兒](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[實境節目](https://zh.wikipedia.org/wiki/真人實境騷 "wikilink")，由她們負責养育小孩子。
+**少女時代 Hello Baby** 是一部由[韓國著名女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[少女時代出演的育兒](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[實境節目](https://zh.wikipedia.org/wiki/真人實境騷 "wikilink")，由她們負責养育小孩子。
 
 ## 出演
 
@@ -92,5 +91,4 @@
 </tbody>
 </table>
 
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")

@@ -1,4 +1,4 @@
-**LHCb**（），或称[大型强子对撞机](https://zh.wikipedia.org/wiki/大型强子对撞机 "wikilink")[底夸克实验是LHC上的](../Page/底夸克.md "wikilink")7个探测器之一，它的主要物理目标是测量在b强子（包含[底夸克的重粒子](../Page/底夸克.md "wikilink")）中的[CP破坏和新物理](https://zh.wikipedia.org/wiki/CP破坏 "wikilink")。这样的研究可以帮助解释宇宙的[物质-反物质不对称性](https://zh.wikipedia.org/wiki/重子不对称性 "wikilink")。该探测器也能够履行在前面区域的生产截面和[弱电物理学的测量](https://zh.wikipedia.org/wiki/电弱相互作用 "wikilink")。大约有来自60个科研机构840人，代表16个国家，形成建造和操作探测器的合作\[1\]。
+**LHCb**（），或称[大型强子对撞机](https://zh.wikipedia.org/wiki/大型强子对撞机 "wikilink")[底夸克](../Page/底夸克.md "wikilink")实验是LHC上的7个探测器之一，它的主要物理目标是测量在b强子（包含[底夸克](../Page/底夸克.md "wikilink")的重粒子）中的[CP破坏和新物理](https://zh.wikipedia.org/wiki/CP破坏 "wikilink")。这样的研究可以帮助解释宇宙的[物质-反物质不对称性](https://zh.wikipedia.org/wiki/重子不对称性 "wikilink")。该探测器也能够履行在前面区域的生产截面和[弱电物理学的测量](https://zh.wikipedia.org/wiki/电弱相互作用 "wikilink")。大约有来自60个科研机构840人，代表16个国家，形成建造和操作探测器的合作\[1\]。
 
 ## LHCb探测器
 
@@ -21,13 +21,10 @@
 
   - [LHCb的公众网页](http://lhcb-public.web.cern.ch/lhcb-public/)
 
-  - [LHCb section from US/LHC
-    Website](https://web.archive.org/web/20110603104602/http://www.uslhc.us/What_is_the_LHC/Experiments/LHCb)
+  - [LHCb section from US/LHC Website](https://web.archive.org/web/20110603104602/http://www.uslhc.us/What_is_the_LHC/Experiments/LHCb)
 
   - (Full design documentation)
 
-[Category:CERN](https://zh.wikipedia.org/wiki/Category:CERN "wikilink")
-[Category:探测器](https://zh.wikipedia.org/wiki/Category:探测器 "wikilink")
-[Category:大型强子对撞机](https://zh.wikipedia.org/wiki/Category:大型强子对撞机 "wikilink")
+[Category:CERN](https://zh.wikipedia.org/wiki/Category:CERN "wikilink") [Category:探测器](https://zh.wikipedia.org/wiki/Category:探测器 "wikilink") [Category:大型强子对撞机](https://zh.wikipedia.org/wiki/Category:大型强子对撞机 "wikilink")
 
 1.  [1](http://lhcb.cern.ch), Collaboration webpage

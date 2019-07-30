@@ -1,5 +1,4 @@
-**Red Bull X2010**是由遊戲公司[Polyphony
-Digital與](../Page/Polyphony_Digital.md "wikilink")[紅牛車隊共同設計出的](../Page/紅牛車隊.md "wikilink")[概念車](../Page/概念車.md "wikilink")，於遊戲[跑車浪漫旅5中發表](../Page/跑車浪漫旅5.md "wikilink")。
+**Red Bull X2010**是由遊戲公司[Polyphony Digital與](../Page/Polyphony_Digital.md "wikilink")[紅牛車隊](../Page/紅牛車隊.md "wikilink")共同設計出的[概念車](../Page/概念車.md "wikilink")，於遊戲[跑車浪漫旅5](../Page/跑車浪漫旅5.md "wikilink")中發表。
 
 ## 設計理念
 
@@ -7,17 +6,13 @@ Digital與](../Page/Polyphony_Digital.md "wikilink")[紅牛車隊共同設計出
 
 ## 概要
 
-起初，採用翼車(wing
-car)架構，設置了駕駛艙罩的單座原型賽車，前輪圈緊密地包覆在整流罩當中。車上裝載1500ps馬力V6直噴雙渦輪引擎，時速超過400km、最大橫向加速度6G的效能。而[紅牛車隊技術總監](../Page/紅牛車隊.md "wikilink")[亞德利安·紐威](../Page/亚德里安·纽维.md "wikilink")，主動提議將「風扇車」的技術運用在Red
-Bull X2010上。
+起初，採用翼車(wing car)架構，設置了駕駛艙罩的單座原型賽車，前輪圈緊密地包覆在整流罩當中。車上裝載1500ps馬力V6直噴雙渦輪引擎，時速超過400km、最大橫向加速度6G的效能。而[紅牛車隊](../Page/紅牛車隊.md "wikilink")技術總監[亞德利安·紐威](../Page/亚德里安·纽维.md "wikilink")，主動提議將「風扇車」的技術運用在Red Bull X2010上。
 
-風扇車是指用風扇強制導出車子下方的氣流，降低車底氣壓以產生強大的下壓力，使車身緊緊吸附在路面上。這種車的特徵在於不論速度快慢，車身都能獲得龐大的下壓力，大幅提昇車子在低速彎道上的過彎速度；亞德利安·紐威同時也針對前後擾流翼、後擾流器的形狀給了許多建議，使得Red
-Bull X2010極速超過450km/h、最大橫向加速度達8.75G的性能，幾乎已達人體所能承受的極限。
+風扇車是指用風扇強制導出車子下方的氣流，降低車底氣壓以產生強大的下壓力，使車身緊緊吸附在路面上。這種車的特徵在於不論速度快慢，車身都能獲得龐大的下壓力，大幅提昇車子在低速彎道上的過彎速度；亞德利安·紐威同時也針對前後擾流翼、後擾流器的形狀給了許多建議，使得Red Bull X2010極速超過450km/h、最大橫向加速度達8.75G的性能，幾乎已達人體所能承受的極限。
 
 此車剛發表時命名為X1\[1\]，後來於遊戲更新時更名為現在的名稱。
 
-遊戲更新至Spec
-2.0時，亦發表付費下載內容，當中包括X2010改良版X2011，風扇經過改良轉數下降，使引擎最大馬力提升至1600ps，尾翼由後輪之間擴大到車身兩端，加上削減了正面投影面積與風阻系數的改善，也就等於減少了車輛本身負荷，使得X2011超越了X2010的最高車速，達到500km/h。
+遊戲更新至Spec 2.0時，亦發表付費下載內容，當中包括X2010改良版X2011，風扇經過改良轉數下降，使引擎最大馬力提升至1600ps，尾翼由後輪之間擴大到車身兩端，加上削減了正面投影面積與風阻系數的改善，也就等於減少了車輛本身負荷，使得X2011超越了X2010的最高車速，達到500km/h。
 
 ## 主要規格
 
@@ -87,12 +82,11 @@ Bull X2010極速超過450km/h、最大橫向加速度達8.75G的性能，幾乎�
 
 ## 試車員
 
-遊戲公司請來了[紅牛車隊之F](../Page/紅牛車隊.md "wikilink")1車手[賽巴斯蒂安·維泰爾透過遊戲來試駕](../Page/賽巴斯蒂安·維泰爾.md "wikilink")，於第一次在日本[鈴鹿賽道試跑時](https://zh.wikipedia.org/wiki/鈴鹿賽道 "wikilink")，便將該賽道的F1賽車單圈最佳紀錄一口氣縮短了20秒之多。
+遊戲公司請來了[紅牛車隊](../Page/紅牛車隊.md "wikilink")之F1車手[賽巴斯蒂安·維泰爾](../Page/賽巴斯蒂安·維泰爾.md "wikilink")透過遊戲來試駕，於第一次在日本[鈴鹿賽道試跑時](https://zh.wikipedia.org/wiki/鈴鹿賽道 "wikilink")，便將該賽道的F1賽車單圈最佳紀錄一口氣縮短了20秒之多。
 
 ## 實物
 
-Red Bull
-X2010在現實中首先以按照相同比例的模型出現，然後於西班牙马德里舉行的跑車浪漫旅5全球发布会上正式亮相，不過暫時未有任何開發真車的計劃，因為如果按照相同的規格研製真車，費用將達到天文數字。
+Red Bull X2010在現實中首先以按照相同比例的模型出現，然後於西班牙马德里舉行的跑車浪漫旅5全球发布会上正式亮相，不過暫時未有任何開發真車的計劃，因為如果按照相同的規格研製真車，費用將達到天文數字。
 
 ## 版本
 
@@ -117,8 +111,7 @@ X2010在現實中首先以按照相同比例的模型出現，然後於西班牙
 
 ## 外部連結
 
-  - [Gran Turismo 5:Red Bull X2010
-    Prototype官方說明網頁](https://web.archive.org/web/20101105025630/http://www.gran-turismo.com/tw/news/d10017.html)
+  - [Gran Turismo 5:Red Bull X2010 Prototype官方說明網頁](https://web.archive.org/web/20101105025630/http://www.gran-turismo.com/tw/news/d10017.html)
   - [發表消息](https://web.archive.org/web/20101206012735/http://www.gran-turismo.com/tw/news/d9906.html)
   - [Gran Turismo 5官方網站](http://www.gran-turismo.com/)
 
@@ -128,11 +121,8 @@ X2010在現實中首先以按照相同比例的模型出現，然後於西班牙
 
 [分類:虛構汽車](https://zh.wikipedia.org/wiki/分類:虛構汽車 "wikilink")
 
-[fr:Gran Turismo 5\#Red Bull
-X2010](https://zh.wikipedia.org/wiki/fr:Gran_Turismo_5#Red_Bull_X2010 "wikilink")
+[fr:Gran Turismo 5\#Red Bull X2010](https://zh.wikipedia.org/wiki/fr:Gran_Turismo_5#Red_Bull_X2010 "wikilink")
 
-[Category:概念車](https://zh.wikipedia.org/wiki/Category:概念車 "wikilink")
-[Category:賽車](https://zh.wikipedia.org/wiki/Category:賽車 "wikilink")
+[Category:概念車](https://zh.wikipedia.org/wiki/Category:概念車 "wikilink") [Category:賽車](https://zh.wikipedia.org/wiki/Category:賽車 "wikilink")
 
-1.  <http://gnn.gamer.com.tw/6/48116.html> 《跑車浪漫旅 5》Red Bull
-    車隊合作夢幻極致賽車「X1 Prototype」現身
+1.  <http://gnn.gamer.com.tw/6/48116.html> 《跑車浪漫旅 5》Red Bull 車隊合作夢幻極致賽車「X1 Prototype」現身

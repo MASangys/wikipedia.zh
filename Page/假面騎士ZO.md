@@ -1,4 +1,4 @@
-**《假面骑士ZO》**（仮面ライダーゼットオー）是[东映于](https://zh.wikipedia.org/wiki/东映 "wikilink")1993年4月17日上映的一部[电影作品的标题](../Page/电影.md "wikilink")。电影里主角变身的[假面骑士与电影名称同名](https://zh.wikipedia.org/wiki/假面骑士 "wikilink")。（但是于戏中未被提及假面骑士的名称。）
+**《假面骑士ZO》**（仮面ライダーゼットオー）是[东映于](https://zh.wikipedia.org/wiki/东映 "wikilink")1993年4月17日上映的一部[电影](../Page/电影.md "wikilink")作品的标题。电影里主角变身的[假面骑士与电影名称同名](https://zh.wikipedia.org/wiki/假面骑士 "wikilink")。（但是于戏中未被提及假面骑士的名称。）
 
 ## 概要
 
@@ -6,7 +6,7 @@
 
 ## 故事
 
-主角麻生胜是望月博士的助理，为了进行一项实验，而自愿成为实验者。但是却被望月博士欺骗，被改造成[蝗虫和人类](https://zh.wikipedia.org/wiki/蝗虫 "wikilink")[基因结合的新生命体的试验品](../Page/基因.md "wikilink")，那就是假面骑士ZO。麻生胜因受不了被改造的事实而于深山沉睡了四年。四年后，博士终于成功创造了新生命体，但新生命体却认为自己是望月博士的孩子，所以就想杀掉望月博士的儿子－望月宏。此时，于深山沉睡了四年的麻生胜因感应到了望月博士的求救而苏醒，并肩负起保护望月宏，与新生命体对抗。
+主角麻生胜是望月博士的助理，为了进行一项实验，而自愿成为实验者。但是却被望月博士欺骗，被改造成[蝗虫和人类](https://zh.wikipedia.org/wiki/蝗虫 "wikilink")[基因](../Page/基因.md "wikilink")结合的新生命体的试验品，那就是假面骑士ZO。麻生胜因受不了被改造的事实而于深山沉睡了四年。四年后，博士终于成功创造了新生命体，但新生命体却认为自己是望月博士的孩子，所以就想杀掉望月博士的儿子－望月宏。此时，于深山沉睡了四年的麻生胜因感应到了望月博士的求救而苏醒，并肩负起保护望月宏，与新生命体对抗。
 
 ## 登场人物
 
@@ -115,9 +115,6 @@
 ## 外部链接
 
   -
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
-[Category:1990年代特摄作品](https://zh.wikipedia.org/wiki/Category:1990年代特摄作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:1993年日本電影](https://zh.wikipedia.org/wiki/Category:1993年日本電影 "wikilink")
+[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:1990年代特摄作品](https://zh.wikipedia.org/wiki/Category:1990年代特摄作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:1993年日本電影](https://zh.wikipedia.org/wiki/Category:1993年日本電影 "wikilink")
 
 1.  假面骑士ZO的名称与数字20相似。

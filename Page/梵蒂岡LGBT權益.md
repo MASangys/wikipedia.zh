@@ -1,4 +1,4 @@
-**梵蒂岡關於女同性戀、男同性戀、雙性戀與跨性別者權益**的法律最早出現在1929年，根據[義大利王國刑法典所制定](https://zh.wikipedia.org/wiki/義大利王國 "wikilink")，由[羅馬教宗實際管轄的梵蒂岡城正式成為](https://zh.wikipedia.org/wiki/羅馬教宗 "wikilink")[主權國家](https://zh.wikipedia.org/wiki/主權國家 "wikilink")，因此擁有自己的政府、[軍隊](https://zh.wikipedia.org/wiki/瑞士近衛隊 "wikilink")，以及法律。[意大利統一後](../Page/意大利統一.md "wikilink")，梵蒂岡城國的法律襲用鄰國義大利的法律，直到2008年，梵蒂岡才宣布不再自動襲用[義大利國會通過的新法](https://zh.wikipedia.org/wiki/義大利國會 "wikilink")，因為義大利法律中有越來越多和[羅馬天主教教義相左的條文](https://zh.wikipedia.org/wiki/羅馬天主教 "wikilink")\[1\]。
+**梵蒂岡關於女同性戀、男同性戀、雙性戀與跨性別者權益**的法律最早出現在1929年，根據[義大利王國刑法典所制定](https://zh.wikipedia.org/wiki/義大利王國 "wikilink")，由[羅馬教宗實際管轄的梵蒂岡城正式成為](https://zh.wikipedia.org/wiki/羅馬教宗 "wikilink")[主權國家](https://zh.wikipedia.org/wiki/主權國家 "wikilink")，因此擁有自己的政府、[軍隊](https://zh.wikipedia.org/wiki/瑞士近衛隊 "wikilink")，以及法律。[意大利統一](../Page/意大利統一.md "wikilink")後，梵蒂岡城國的法律襲用鄰國義大利的法律，直到2008年，梵蒂岡才宣布不再自動襲用[義大利國會通過的新法](https://zh.wikipedia.org/wiki/義大利國會 "wikilink")，因為義大利法律中有越來越多和[羅馬天主教教義相左的條文](https://zh.wikipedia.org/wiki/羅馬天主教 "wikilink")\[1\]。
 
 ## 同性性行為相關法律歷程
 
@@ -8,7 +8,7 @@
 
 ## 同性伴侶關係
 
-梵蒂岡沒有任何承認不同性傾向和[性別認同有](../Page/性別認同.md "wikilink")[民事權利的法律](../Page/民事結合.md "wikilink")，目前梵蒂岡與[摩納哥是少數還未制定任何保障同志權益法律的西歐國家](https://zh.wikipedia.org/wiki/摩納哥 "wikilink")，而其他未制定其法律的歐洲國家多集中於東歐或是前蘇聯國家。
+梵蒂岡沒有任何承認不同性傾向和[性別認同](../Page/性別認同.md "wikilink")有[民事權利的法律](../Page/民事結合.md "wikilink")，目前梵蒂岡與[摩納哥是少數還未制定任何保障同志權益法律的西歐國家](https://zh.wikipedia.org/wiki/摩納哥 "wikilink")，而其他未制定其法律的歐洲國家多集中於東歐或是前蘇聯國家。
 
 ## 性別認同
 
@@ -28,8 +28,7 @@
 
 {{-}}
 
-[Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink")
-[Category:梵蒂岡LGBT權益](https://zh.wikipedia.org/wiki/Category:梵蒂岡LGBT權益 "wikilink")
+[Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink") [Category:梵蒂岡LGBT權益](https://zh.wikipedia.org/wiki/Category:梵蒂岡LGBT權益 "wikilink")
 
 1.
 

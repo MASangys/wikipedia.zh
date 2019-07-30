@@ -2,7 +2,7 @@
 
 ## 公司沿革
 
-  - 1979年4月27日馬自達（當時仍稱東洋工業）以[資本額](https://zh.wikipedia.org/wiki/資本 "wikilink")5千萬[日圓設立](../Page/日圓.md "wikilink")「馬自達產業公司」（マツダ産業），開始組立裝配[汽車零件](https://zh.wikipedia.org/wiki/汽車 "wikilink")，同年7月整理再生舊引擎，8月開始負責[堆高機的整備工作](https://zh.wikipedia.org/wiki/叉车 "wikilink")。
+  - 1979年4月27日馬自達（當時仍稱東洋工業）以[資本額](https://zh.wikipedia.org/wiki/資本 "wikilink")5千萬[日圓](../Page/日圓.md "wikilink")設立「馬自達產業公司」（マツダ産業），開始組立裝配[汽車零件](https://zh.wikipedia.org/wiki/汽車 "wikilink")，同年7月整理再生舊引擎，8月開始負責[堆高機的整備工作](https://zh.wikipedia.org/wiki/叉车 "wikilink")。
 
 <!-- end list -->
 
@@ -14,8 +14,7 @@
 
 <!-- end list -->
 
-  - 1987年4月開始車輛試驗、改善進口車（這個業務後來在馬自達推行[Eunos和](../Page/Eunos.md "wikilink")[Autozam副品牌時](../Page/Autozam.md "wikilink")，成為該公司賴以維生的營業項目）、PDI（pre
-    delivery inspection）交車前檢查等業務。
+  - 1987年4月開始車輛試驗、改善進口車（這個業務後來在馬自達推行[Eunos](../Page/Eunos.md "wikilink")和[Autozam](../Page/Autozam.md "wikilink")副品牌時，成為該公司賴以維生的營業項目）、PDI（pre delivery inspection）交車前檢查等業務。
 
 <!-- end list -->
 
@@ -23,8 +22,7 @@
 
 <!-- end list -->
 
-  - 1995年3月發售獨力開發的超低車身版「[Carol-i](../Page/馬自達Carol.md "wikilink")」，同時生產[馬自達Bongo
-    Friendee的](../Page/馬自達Bongo_Friendee.md "wikilink")[露營車車型](../Page/露營車.md "wikilink")。
+  - 1995年3月發售獨力開發的超低車身版「[Carol-i](../Page/馬自達Carol.md "wikilink")」，同時生產[馬自達Bongo Friendee的](../Page/馬自達Bongo_Friendee.md "wikilink")[露營車](../Page/露營車.md "wikilink")車型。
 
 <!-- end list -->
 
@@ -57,15 +55,15 @@
 
 <!-- end list -->
 
-  - 改裝車：[馬自達MX-5](../Page/馬自達MX-5.md "wikilink")、[馬自達MPV](../Page/馬自達8.md "wikilink")、[馬自達Biante](../Page/馬自達Biante.md "wikilink")、[馬自達5](../Page/馬自達5.md "wikilink")、[馬自達AZ-Wagon](../Page/馬自達AZ-Wagon.md "wikilink")、[馬自達2](../Page/馬自達2.md "wikilink")、[馬自達3](../Page/馬自達3.md "wikilink")、[馬自達6等](../Page/馬自達6.md "wikilink")。
+  - 改裝車：[馬自達MX-5](../Page/馬自達MX-5.md "wikilink")、[馬自達MPV](../Page/馬自達8.md "wikilink")、[馬自達Biante](../Page/馬自達Biante.md "wikilink")、[馬自達5](../Page/馬自達5.md "wikilink")、[馬自達AZ-Wagon](../Page/馬自達AZ-Wagon.md "wikilink")、[馬自達2](../Page/馬自達2.md "wikilink")、[馬自達3](../Page/馬自達3.md "wikilink")、[馬自達6](../Page/馬自達6.md "wikilink")等。
 
 <!-- end list -->
 
-  - 商用改裝車：翻斗傾卸車、冷凍貨車、裝載卡車等，改裝車種以[馬自達Bongo或](../Page/馬自達Bongo.md "wikilink")[馬自達Titan為主](../Page/馬自達Titan.md "wikilink")。
+  - 商用改裝車：翻斗傾卸車、冷凍貨車、裝載卡車等，改裝車種以[馬自達Bongo](../Page/馬自達Bongo.md "wikilink")或[馬自達Titan](../Page/馬自達Titan.md "wikilink")為主。
 
 <!-- end list -->
 
-  - 教練車：供初學者學習駕駛之用，車種以[馬自達3為主](../Page/馬自達3.md "wikilink")。
+  - 教練車：供初學者學習駕駛之用，車種以[馬自達3](../Page/馬自達3.md "wikilink")為主。
 
 ## 外部連結
 
@@ -75,4 +73,4 @@
 
 [Category:馬自達公司與附屬機構](https://zh.wikipedia.org/wiki/Category:馬自達公司與附屬機構 "wikilink")
 
-1.  6月修改的公司名稱以[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[片假名顯示](../Page/片假名.md "wikilink")「E\&T」，但11月修改的卻以[英語顯示](https://zh.wikipedia.org/wiki/英語 "wikilink")「E\&T」。對日本政府而言，兩種註冊的名稱是有差異的。
+1.  6月修改的公司名稱以[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[片假名](../Page/片假名.md "wikilink")顯示「E\&T」，但11月修改的卻以[英語顯示](https://zh.wikipedia.org/wiki/英語 "wikilink")「E\&T」。對日本政府而言，兩種註冊的名稱是有差異的。

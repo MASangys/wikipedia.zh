@@ -1,14 +1,10 @@
-**T-Max**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：티맥스），為[韓國公司Planet](https://zh.wikipedia.org/wiki/韓國 "wikilink")905的旗下四人男子演唱團體。T-MAX於2007年以三人組合由Mnet
-Media公司推出，當時成員包括[金俊](../Page/金俊.md "wikilink")（김준）、[申旼澈](https://zh.wikipedia.org/wiki/申旼澈 "wikilink")（신민철）與[朴允和](https://zh.wikipedia.org/wiki/朴允和 "wikilink")（박윤화），以《Blooming》一曲於2007年7月19日出道。表面上T-MAX是以時尚和出色的音樂來包裝，但他們的歌曲卻是男女老少都可以輕鬆欣賞的，就像朋友一樣親切。2008年，T-MAX
-為人氣韓劇《[花樣男子](../Page/花樣男子.md "wikilink")》演唱膾炙人口的主題曲《Paradise》，和多首劇中歌曲，例如《Say
-Yes》、《Wish Ur My Love》等。
+**T-Max**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：티맥스），為[韓國公司Planet](https://zh.wikipedia.org/wiki/韓國 "wikilink")905的旗下四人男子演唱團體。T-MAX於2007年以三人組合由Mnet Media公司推出，當時成員包括[金俊](../Page/金俊.md "wikilink")（김준）、[申旼澈](https://zh.wikipedia.org/wiki/申旼澈 "wikilink")（신민철）與[朴允和](https://zh.wikipedia.org/wiki/朴允和 "wikilink")（박윤화），以《Blooming》一曲於2007年7月19日出道。表面上T-MAX是以時尚和出色的音樂來包裝，但他們的歌曲卻是男女老少都可以輕鬆欣賞的，就像朋友一樣親切。2008年，T-MAX 為人氣韓劇《[花樣男子](../Page/花樣男子.md "wikilink")》演唱膾炙人口的主題曲《Paradise》，和多首劇中歌曲，例如《Say Yes》、《Wish Ur My Love》等。
 
 團體名稱T-MAX 的「T」是有著「Triple」的意思，而「Max」是指他們向大家表現出所有能力和才能。應援色為珠光暗黑藍色。
 
 [2010年3月](../Page/2010年3月.md "wikilink")，公司宣佈將加入一名新成員朴韓必（박한비）。[2010年4月](../Page/2010年4月.md "wikilink")，成員朴允和在GO\!T-MAX（T-MAX韓國後援會）宣佈自己將會入伍，並且暫時退出T-MAX。[2010年5月](../Page/2010年5月.md "wikilink")，公司又宣佈加入另一名新成員朱燦陽（주찬양）。
 
-T-MAX 於[2010年6月推出重新組合後的第一張正規專輯](../Page/2010年6月.md "wikilink")《Born to
-the Max》。而舊成員朴允和亦於2010年11月16日正式入伍，進入議政府306補充隊，接受為期五周的基礎軍事訓練後，再服役20個月。
+T-MAX 於[2010年6月](../Page/2010年6月.md "wikilink")推出重新組合後的第一張正規專輯《Born to the Max》。而舊成員朴允和亦於2010年11月16日正式入伍，進入議政府306補充隊，接受為期五周的基礎軍事訓練後，再服役20個月。
 
 2012年1月5日，T-MAX宣佈正式解散。
 
@@ -16,38 +12,27 @@ the Max》。而舊成員朴允和亦於2010年11月16日正式入伍，進入�
 
 ### 申旼澈（隊長）
 
-申旼澈曾經在紐西蘭的 Otorohanga College
-留學，所以有高度的英語能力。他曾是2000年4人跳舞組合B.O.K的主音。2003年演唱KBS2劇集《學校進行》的原聲大碟，2005年演唱KBS1劇集《奇怪的女人，奇怪的男人》的原聲大碟，2006年演唱動畫《Crush
-Gear》的原聲大碟。
+申旼澈曾經在紐西蘭的 Otorohanga College 留學，所以有高度的英語能力。他曾是2000年4人跳舞組合B.O.K的主音。2003年演唱KBS2劇集《學校進行》的原聲大碟，2005年演唱KBS1劇集《奇怪的女人，奇怪的男人》的原聲大碟，2006年演唱動畫《Crush Gear》的原聲大碟。
 
-2010年為TRAX 迷你專輯作曲作詞，同年擔任 KBS 2FM Super Junior 的 Kiss The Radio
-主題嘉賓。2010年12月與2011年1月期間演出音樂劇《Footloose》。
+2010年為TRAX 迷你專輯作曲作詞，同年擔任 KBS 2FM Super Junior 的 Kiss The Radio 主題嘉賓。2010年12月與2011年1月期間演出音樂劇《Footloose》。
 
 ### 金俊
 
-金俊2001年在Mnet節目”hotline school”corner中”美男特攻隊” Scout演出。2006年
-MBC《PD手帳》花美男熱風篇演出，在ECI,
-WOWOW等青少年時裝雜誌擔任模特兒。2009年與成員朴允和一起參演舞台劇《年青的行進》。
+金俊2001年在Mnet節目”hotline school”corner中”美男特攻隊” Scout演出。2006年 MBC《PD手帳》花美男熱風篇演出，在ECI, WOWOW等青少年時裝雜誌擔任模特兒。2009年與成員朴允和一起參演舞台劇《年青的行進》。
 
-2009年參演KBS2 電視劇《花樣男子》韓國版
-F4成員之一宋宇斌。2009年至2010年參與綜藝節目《天下無敵棒球團》。2010年為日本電視台AVEX
-BEE TV 拍攝手機短劇《請把你的回憶留給我》。2011年再為KBS參演電視劇《重案組》。
+2009年參演KBS2 電視劇《花樣男子》韓國版 F4成員之一宋宇斌。2009年至2010年參與綜藝節目《天下無敵棒球團》。2010年為日本電視台AVEX BEE TV 拍攝手機短劇《請把你的回憶留給我》。2011年再為KBS參演電視劇《重案組》。
 
 ### 朱燦揚
 
-[朱燦揚畢業於](https://zh.wikipedia.org/wiki/朱燦揚 "wikilink")[東首爾國立大學音樂系](https://zh.wikipedia.org/wiki/東首爾國立大學 "wikilink")，曾經在紐西蘭的
-Avondale College 留學。2010年10月與歌手여미合唱單曲《我不覺得這是愛情》。
+[朱燦揚畢業於](https://zh.wikipedia.org/wiki/朱燦揚 "wikilink")[東首爾國立大學音樂系](https://zh.wikipedia.org/wiki/東首爾國立大學 "wikilink")，曾經在紐西蘭的 Avondale College 留學。2010年10月與歌手여미合唱單曲《我不覺得這是愛情》。
 
 ### 朴韓必
 
-[朴韓必本名朴東義](https://zh.wikipedia.org/wiki/朴韓必 "wikilink")（박동일），就讀[明智專門大學戲影像學科](https://zh.wikipedia.org/wiki/明智專門大學 "wikilink")。2010年為SBS電視台演出電視劇《Buddy
-Buddy》。
+[朴韓必本名朴東義](https://zh.wikipedia.org/wiki/朴韓必 "wikilink")（박동일），就讀[明智專門大學戲影像學科](https://zh.wikipedia.org/wiki/明智專門大學 "wikilink")。2010年為SBS電視台演出電視劇《Buddy Buddy》。
 
 ### 朴允和（因入伍而退出）
 
-朴允和2005年參加Battle神話；2009年與成員金俊一起參演舞台劇《年青的行進》；2009年參與拍攝SBS
-E\!TV綜藝節目《偶像老小叛亂時代》。2010年1月與4Minute成員金泫雅合唱Love
-Parade Vol.3 單曲《去年冬天》。2010年11月16日正式入伍。
+朴允和2005年參加Battle神話；2009年與成員金俊一起參演舞台劇《年青的行進》；2009年參與拍攝SBS E\!TV綜藝節目《偶像老小叛亂時代》。2010年1月與4Minute成員金泫雅合唱Love Parade Vol.3 單曲《去年冬天》。2010年11月16日正式入伍。
 
 ## 唱片
 

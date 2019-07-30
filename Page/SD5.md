@@ -1,4 +1,4 @@
-**SD5**是[中國大陆](../Page/中國.md "wikilink")2010年出道的五人男子音樂偶像團體\[1\]，成員包括**江南**、**言介**、**齊磊**、**Steven灝**、**原傑**。隸屬[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")，2011年发行首张专辑《SD5同名专辑》\[2\]\[3\]。
+**SD5**是[中國](../Page/中國.md "wikilink")大陆2010年出道的五人男子音樂偶像團體\[1\]，成員包括**江南**、**言介**、**齊磊**、**Steven灝**、**原傑**。隸屬[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")，2011年发行首张专辑《SD5同名专辑》\[2\]\[3\]。
 
 ## 组合成员
 
@@ -63,9 +63,9 @@
 | **日期**     | **節目**                                                          | **主題**     | **其他來賓**                                                                              |
 | ---------- | --------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- |
 | 2011/06/16 | 《[娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")》       |            |                                                                                       |
-| 2011/06/18 | 《[天才衝衝衝](../Page/天才衝衝衝.md "wikilink")》                          | 猜猜我是誰      | [瑤瑤](https://zh.wikipedia.org/wiki/瑤瑤 "wikilink")，[黃義達等](../Page/黃義達.md "wikilink")   |
+| 2011/06/18 | 《[天才衝衝衝](../Page/天才衝衝衝.md "wikilink")》                          | 猜猜我是誰      | [瑤瑤](https://zh.wikipedia.org/wiki/瑤瑤 "wikilink")，[黃義達](../Page/黃義達.md "wikilink")等   |
 | 2011/06/21 | 《[百萬小學堂](../Page/百萬小學堂.md "wikilink")》                          |            |                                                                                       |
-| 2011/07/02 | 《[天才衝衝衝](../Page/天才衝衝衝.md "wikilink")》                          |            | [姚元浩](../Page/姚元浩.md "wikilink")，[NONO等](../Page/NONO.md "wikilink")                  |
+| 2011/07/02 | 《[天才衝衝衝](../Page/天才衝衝衝.md "wikilink")》                          |            | [姚元浩](../Page/姚元浩.md "wikilink")，[NONO](../Page/NONO.md "wikilink")等                  |
 | 2011/07/03 | 《[Power星期天](https://zh.wikipedia.org/wiki/Power星期天 "wikilink")》 | 正音班        | [黃文星](../Page/黃文星.md "wikilink")，[曲嘉瑞等](https://zh.wikipedia.org/wiki/曲嘉瑞 "wikilink") |
 | 2011/07/10 | 《[Power星期天](https://zh.wikipedia.org/wiki/Power星期天 "wikilink")》 | High客任務    |                                                                                       |
 | 2011/07/12 | 《[型男大主廚](../Page/型男大主廚.md "wikilink")》                          |            |                                                                                       |
@@ -89,15 +89,11 @@
 
 ## 外部链接
 
-  - [SD5
-    官方音乐](https://web.archive.org/web/20150607234030/http://music.baidu.com/artist/56881)
+  - [SD5 官方音乐](https://web.archive.org/web/20150607234030/http://music.baidu.com/artist/56881)
   - [SD5 官方MV](http://www.yinyuetai.com/fanclub/6058)
 
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink")
+[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink")
 
-1.  [sd5行堂经纪公司花重金打造
-    新人来头不小](http://news.163.com/10/0430/11/65GVTK3K000146BD.html)
+1.  [sd5行堂经纪公司花重金打造 新人来头不小](http://news.163.com/10/0430/11/65GVTK3K000146BD.html)
 2.  [天后容祖儿现身道贺](http://ent.qq.com/a/20100417/000037.htm)
 3.  [新组合SD5行堂背景不一般 网友预发起人肉搜索](http://ent.qq.com/a/20100513/000422.htm)

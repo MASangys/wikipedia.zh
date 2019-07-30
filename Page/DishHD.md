@@ -1,5 +1,4 @@
-**DishHD**是台湾直播卫星平台，经营团队为英属盖曼群岛商艾科思达亚洲多媒体股份有限公司（EchoStar Asia Multimedia
-Limited），于2007年取得广播电视服务经营者执照\[1\]。DishHD現透過SES-9號衛星（东经108.2度）波束覆蓋整个中國大陸及台灣。
+**DishHD**是台湾直播卫星平台，经营团队为英属盖曼群岛商艾科思达亚洲多媒体股份有限公司（EchoStar Asia Multimedia Limited），于2007年取得广播电视服务经营者执照\[1\]。DishHD現透過SES-9號衛星（东经108.2度）波束覆蓋整个中國大陸及台灣。
 
 ## 简介
 
@@ -7,8 +6,7 @@ Limited），于2007年取得广播电视服务经营者执照\[1\]。DishHD現�
 
 ### 品牌背景
 
-DishHD經營團隊是美國艾科思達（EchoStar
-Corporation，），艾科思達所提供的設備銷售、數位製播和和衛星技術服務擴及全球。公司網絡涵蓋十座全方位的數位製播中心和光纖網路頻寛服務，服務據點遍佈美國近160個城市。艾科思達透過自營八枚軌道衛星和所承租的軌道衛星，以及美國聯邦通訊委員會（FCC）所核可之相關項目，提供衛星傳輸的服務。
+DishHD經營團隊是美國艾科思達（EchoStar Corporation，），艾科思達所提供的設備銷售、數位製播和和衛星技術服務擴及全球。公司網絡涵蓋十座全方位的數位製播中心和光纖網路頻寛服務，服務據點遍佈美國近160個城市。艾科思達透過自營八枚軌道衛星和所承租的軌道衛星，以及美國聯邦通訊委員會（FCC）所核可之相關項目，提供衛星傳輸的服務。
 
 ## 部分頻道列表
 
@@ -69,20 +67,15 @@ Corporation，），艾科思達所提供的設備銷售、數位製播和和衛
   - 8562 迪士尼Playhouse頻道
   - 8650 東森亞洲台
   - 750、752 英超臨時直播頻道
-  - 365 [NHL](https://zh.wikipedia.org/wiki/NHL "wikilink") Network
-    北美冰球HD
-  - 8545
-    [新華新聞網](https://zh.wikipedia.org/wiki/中国新华新闻电视网英语电视台 "wikilink")
-  - 8225
-    [中國中央電視台-{高清}-頻道](https://zh.wikipedia.org/wiki/中國中央電視台高清頻道 "wikilink")
+  - 365 [NHL](https://zh.wikipedia.org/wiki/NHL "wikilink") Network 北美冰球HD
+  - 8545 [新華新聞網](https://zh.wikipedia.org/wiki/中国新华新闻电视网英语电视台 "wikilink")
+  - 8225 [中國中央電視台-{高清}-頻道](https://zh.wikipedia.org/wiki/中國中央電視台高清頻道 "wikilink")
   - 8590 中央电视台证券资讯频道
   - 550 KidsCo 兒童國頻道
   - 555 BabyFirst 幼兒頻道
   - 560 Boomerang 卡通頻道
-  - 630 DA AI 2
-    [大爱海外频道](https://zh.wikipedia.org/wiki/大爱卫星电视 "wikilink")
-  - 632 GOOD TV
-    [好消息卫星电视台](https://zh.wikipedia.org/wiki/好消息卫星电视台 "wikilink")
+  - 630 DA AI 2 [大爱海外频道](https://zh.wikipedia.org/wiki/大爱卫星电视 "wikilink")
+  - 632 GOOD TV [好消息卫星电视台](https://zh.wikipedia.org/wiki/好消息卫星电视台 "wikilink")
   - 8545 CEC [中国国际教育电视台](../Page/中国教育电视台.md "wikilink")
   - 8645 SET Interntional [三立國際台](../Page/三立國際台.md "wikilink")
   - 8508 TTV [台视](https://zh.wikipedia.org/wiki/台视主频 "wikilink")

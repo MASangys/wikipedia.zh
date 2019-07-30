@@ -1,5 +1,4 @@
-《**COUNT DOWN
-TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電視台.md "wikilink")[系列以排名播放的音樂情報節目](https://zh.wikipedia.org/wiki/Japan_News_Network "wikilink")。略称是「**CDTV**」。每週除了以[邦樂最新熱門排名以外](https://zh.wikipedia.org/wiki/日本音樂 "wikilink")，也有嘉賓[藝人和](https://zh.wikipedia.org/wiki/藝人 "wikilink")[音樂家的現場表演](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。該節目的主持人是由[CG構成的人偶擔任](../Page/计算机图形.md "wikilink")，但每逢特別節目時會有真人擔任主持。2009年4月19日起以高畫質製作。
+《**COUNT DOWN TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電視台.md "wikilink")[系列以排名播放的音樂情報節目](https://zh.wikipedia.org/wiki/Japan_News_Network "wikilink")。略称是「**CDTV**」。每週除了以[邦樂最新熱門排名以外](https://zh.wikipedia.org/wiki/日本音樂 "wikilink")，也有嘉賓[藝人和](https://zh.wikipedia.org/wiki/藝人 "wikilink")[音樂家的現場表演](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。該節目的主持人是由[CG構成的人偶擔任](../Page/计算机图形.md "wikilink")，但每逢特別節目時會有真人擔任主持。2009年4月19日起以高畫質製作。
 
 ## 主要環節
 
@@ -44,7 +43,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 <!-- end list -->
 
   - ALBUM INFORMATION
-  - 觀眾要求（明信片）→[HMV請求](../Page/HMV.md "wikilink")→塔記錄請求→CDTV問卷（互聯網和手提電話）（主要每月的第3週）
+  - 觀眾要求（明信片）→[HMV](../Page/HMV.md "wikilink")請求→塔記錄請求→CDTV問卷（互聯網和手提電話）（主要每月的第3週）
   - 樂隊的傳記
   - TBS電視劇主題歌特集（年4回）
   - 電影主題歌特集
@@ -57,7 +56,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 
 ### 声之出演
 
-  - アビー君：[石川寬美](../Page/石川寬美.md "wikilink")（2004年1月10日～3月27日由[根本圭子代替](../Page/根本圭子.md "wikilink")）
+  - アビー君：[石川寬美](../Page/石川寬美.md "wikilink")（2004年1月10日～3月27日由[根本圭子](../Page/根本圭子.md "wikilink")代替）
   - 菊池君：[菊池正美](../Page/菊池正美.md "wikilink")
   - フミエ（初代）→デミコ（第2代）：[高田由美](../Page/高田由美.md "wikilink")
   - ミカちゃん（第3代）：[堀井美香](https://zh.wikipedia.org/wiki/堀井美香 "wikilink")（TBS[播音員](../Page/播音員.md "wikilink")）
@@ -350,9 +349,9 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 
 <!-- end list -->
 
-  - 1996年Oricon年間第1位的[無名的詩](../Page/無名的詩.md "wikilink")/[Mr.Children是第](../Page/Mr.Children.md "wikilink")2位。
-  - 1998年Oricon年間第1位的[誘惑](../Page/誘惑_\(GLAY單曲\).md "wikilink")/[GLAY是第](../Page/GLAY.md "wikilink")2位。
-  - 2002年Oricon年間第1位的[H](../Page/H_\(濱崎步單曲\).md "wikilink")/[濱崎步是第](../Page/濱崎步.md "wikilink")2位。
+  - 1996年Oricon年間第1位的[無名的詩](../Page/無名的詩.md "wikilink")/[Mr.Children](../Page/Mr.Children.md "wikilink")是第2位。
+  - 1998年Oricon年間第1位的[誘惑](../Page/誘惑_\(GLAY單曲\).md "wikilink")/[GLAY](../Page/GLAY.md "wikilink")是第2位。
+  - 2002年Oricon年間第1位的[H](../Page/H_\(濱崎步單曲\).md "wikilink")/[濱崎步](../Page/濱崎步.md "wikilink")是第2位。
   - 2009年、嵐是節目史上首個2年連續第1位。
 
 ## 紀念回的年月日與排名獲得第1位歌曲
@@ -684,10 +683,8 @@ countdown tv 2013～2014
 ## 外部連結
 
   - [TBS「CDTV」](http://www.tbs.co.jp/cdtv/index-j.html)（官方網站）
-  - [CDTV ARTIST
-    AUDITION 2004\!](https://web.archive.org/web/20071222074517/http://www.universal-music.co.jp/cdtv/index.html)（CD專輯介紹網站）
+  - [CDTV ARTIST AUDITION 2004\!](https://web.archive.org/web/20071222074517/http://www.universal-music.co.jp/cdtv/index.html)（CD專輯介紹網站）
 
-[Category:TBS電視台音樂節目](https://zh.wikipedia.org/wiki/Category:TBS電視台音樂節目 "wikilink")
-[Category:1993年日本電視節目](https://zh.wikipedia.org/wiki/Category:1993年日本電視節目 "wikilink")
+[Category:TBS電視台音樂節目](https://zh.wikipedia.org/wiki/Category:TBS電視台音樂節目 "wikilink") [Category:1993年日本電視節目](https://zh.wikipedia.org/wiki/Category:1993年日本電視節目 "wikilink")
 
 1.  並非常規播放，而是在星期六19:00 - 21:54播放的SP。隔8日的常規播放因編成的準備而休止。

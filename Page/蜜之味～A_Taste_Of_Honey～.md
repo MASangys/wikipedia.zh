@@ -1,14 +1,8 @@
-《**蜜之味～A Taste Of
-Honey～**》（），[日本](../Page/日本.md "wikilink")[富士電視台於](../Page/富士電視台.md "wikilink")2011年10月13日開始播放的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，每週四22:00
--
-22:54播出。由[榮倉奈奈和](../Page/榮倉奈奈.md "wikilink")[菅野美穗雙主演](../Page/菅野美穗.md "wikilink")。
+《**蜜之味～A Taste Of Honey～**》（），[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")於2011年10月13日開始播放的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，每週四22:00 - 22:54播出。由[榮倉奈奈](../Page/榮倉奈奈.md "wikilink")和[菅野美穗](../Page/菅野美穗.md "wikilink")雙主演。
 
 ## 劇情簡介
 
-面朝[瀨戶內海橄欖園的一個獨生女森本直子](../Page/瀨戶內海.md "wikilink")（[榮倉奈奈](../Page/榮倉奈奈.md "wikilink")
-飾），自小憧憬父親的義弟（同父異母兄弟）池澤雅人（[ARATA](https://zh.wikipedia.org/wiki/ARATA "wikilink")
-飾），為了追隨雅人，直子決心考取雅人就讀的東京醫大。順利被醫大錄取後，直子來到東京，儘管第一次個人生活，但因為能在雅人身邊，直子依然感到興奮。不過直子很快發現，雅人已經有了一位美麗而又有內涵的女友原田彩（[菅野美穗](../Page/菅野美穗.md "wikilink")
-飾），彩是一名優秀的醫生，充滿自信，她的存在使直子非常痛苦。直子打算放棄對雅人的感情，但是事情卻變得更加複雜……\[1\]
+面朝[瀨戶內海](../Page/瀨戶內海.md "wikilink")橄欖園的一個獨生女森本直子（[榮倉奈奈](../Page/榮倉奈奈.md "wikilink") 飾），自小憧憬父親的義弟（同父異母兄弟）池澤雅人（[ARATA](https://zh.wikipedia.org/wiki/ARATA "wikilink") 飾），為了追隨雅人，直子決心考取雅人就讀的東京醫大。順利被醫大錄取後，直子來到東京，儘管第一次個人生活，但因為能在雅人身邊，直子依然感到興奮。不過直子很快發現，雅人已經有了一位美麗而又有內涵的女友原田彩（[菅野美穗](../Page/菅野美穗.md "wikilink") 飾），彩是一名優秀的醫生，充滿自信，她的存在使直子非常痛苦。直子打算放棄對雅人的感情，但是事情卻變得更加複雜……\[1\]
 
 ## 演員陣容
 
@@ -48,8 +42,7 @@ Honey～**》（），[日本](../Page/日本.md "wikilink")[富士電視台於]
 
 ## 主題曲
 
-  - [aiko](https://zh.wikipedia.org/wiki/aiko "wikilink")
-    《[一直](../Page/一直_\(aiko單曲\).md "wikilink")》（）\[2\]
+  - [aiko](https://zh.wikipedia.org/wiki/aiko "wikilink") 《[一直](../Page/一直_\(aiko單曲\).md "wikilink")》（）\[2\]
 
 ## 收視率
 
@@ -170,14 +163,7 @@ Honey～**》（），[日本](../Page/日本.md "wikilink")[富士電視台於]
 
   - [官方網頁](https://web.archive.org/web/20110921153810/http://www.fujitv.co.jp/mitsunoaji/index.html)
 
-[Category:富士電視台週四連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週四連續劇 "wikilink")
-[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
-[Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink")
-[Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink")
-[Category:親屬間戀情作品](https://zh.wikipedia.org/wiki/Category:親屬間戀情作品 "wikilink")
-[Category:2003年背景作品](https://zh.wikipedia.org/wiki/Category:2003年背景作品 "wikilink")
-[Category:2011年背景作品](https://zh.wikipedia.org/wiki/Category:2011年背景作品 "wikilink")
-[Category:大石靜劇本電視劇](https://zh.wikipedia.org/wiki/Category:大石靜劇本電視劇 "wikilink")
+[Category:富士電視台週四連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週四連續劇 "wikilink") [Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:親屬間戀情作品](https://zh.wikipedia.org/wiki/Category:親屬間戀情作品 "wikilink") [Category:2003年背景作品](https://zh.wikipedia.org/wiki/Category:2003年背景作品 "wikilink") [Category:2011年背景作品](https://zh.wikipedia.org/wiki/Category:2011年背景作品 "wikilink") [Category:大石靜劇本電視劇](https://zh.wikipedia.org/wiki/Category:大石靜劇本電視劇 "wikilink")
 
 1.  [](http://www.oricon.co.jp/news/confidence/2001038/full/)
 2.

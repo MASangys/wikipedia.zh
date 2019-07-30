@@ -64,7 +64,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Google地球.md" title="wikilink">Google地球插件</a></p></td>
+<td><p><a href="../Page/Google地球.md" title="wikilink">Google地球</a>插件</p></td>
 </tr>
 <tr class="odd">
 <td><p>| <a href="https://zh.wikipedia.org/wiki/Cadcorp" title="wikilink">Cadcorp</a></p></td>
@@ -1154,12 +1154,8 @@
 
 ## 外部链接
 
-  - [An Overview of Free & Open Source Desktop GIS
-    (FOS-GIS)](https://web.archive.org/web/20110303001203/http://www.spatialserver.net/osgis/)
-    - GIS software comparison (2008)
-  - [A Survey of Open Source
-    GIS](https://web.archive.org/web/20080605120434/http://www.foss4g2007.org/presentations/view.php?abstract_id=136)
-    - GIS software comparison (2007)
+  - [An Overview of Free & Open Source Desktop GIS (FOS-GIS)](https://web.archive.org/web/20110303001203/http://www.spatialserver.net/osgis/) - GIS software comparison (2008)
+  - [A Survey of Open Source GIS](https://web.archive.org/web/20080605120434/http://www.foss4g2007.org/presentations/view.php?abstract_id=136) - GIS software comparison (2007)
 
 [Category:GIS软件](https://zh.wikipedia.org/wiki/Category:GIS软件 "wikilink")
 
@@ -1258,16 +1254,13 @@
 
 49. [Downloads](http://www.microimages.com/downloads/)
 
-50. [Caliper - Mapping software, GIS, and transportation planning
-    software](http://www.caliper.com/)
+50. [Caliper - Mapping software, GIS, and transportation planning software](http://www.caliper.com/)
 
-51. [Mapping Software Provider - AvisMap GIS
-    Technologies](http://www.avismap.com/)
+51. [Mapping Software Provider - AvisMap GIS Technologies](http://www.avismap.com/)
 
 52.
 
-53. [deegree - Building Spatial Data Infrastructures based on Free
-    Software](http://www.deegree.org)
+53. [deegree - Building Spatial Data Infrastructures based on Free Software](http://www.deegree.org)
 
 54.
 
@@ -1279,18 +1272,15 @@
 
 58. [MetaCarta Labs: TileCache](http://labs.metacarta.com/wms-c/)
 
-59. [Geomajas | Edit and integrate GIS data from within your
-    browser](http://www.geomajas.org)
+59. [Geomajas | Edit and integrate GIS data from within your browser](http://www.geomajas.org)
 
 60. [MapbenderWiki](http://www.mapbender.org/index.php/Main_Page)
 
 61. [Home - Codehaus](http://docs.codehaus.org/display/MAP/Home/)
 
-62. [ArcGIS Server Resource
-    Center](http://resources.esri.com/arcgisserver/index.cfm?fa=applications)
+62. [ArcGIS Server Resource Center](http://resources.esri.com/arcgisserver/index.cfm?fa=applications)
 
-63. [ArcGIS Server Javascript API for ArcGIS Resource
-    Center](http://resources.esri.com/arcgisserver/apis/javascript/arcgis/index.cfm?fa=home)
+63. [ArcGIS Server Javascript API for ArcGIS Resource Center](http://resources.esri.com/arcgisserver/apis/javascript/arcgis/index.cfm?fa=home)
 
 64. [WMS Javascript Library](http://wms-map.sourceforge.net/)
 
@@ -1298,19 +1288,14 @@
 
 66.
 
-67. [ObjectFX Corporation: Dynamic Geospatial
-    Solutions](http://www.objectfx.com/)
+67. [ObjectFX Corporation: Dynamic Geospatial Solutions](http://www.objectfx.com/)
 
 68.
-69. [msCross: AJAX (WEB 2.0) WEB GIS Client (was UMN Mapserver
-    Javascript
-    interface)](http://datacrossing.crs4.it/en_Documentation_mscross.html)
-
+69. [msCross: AJAX (WEB 2.0) WEB GIS Client (was UMN Mapserver Javascript interface)](http://datacrossing.crs4.it/en_Documentation_mscross.html)
 
 70. [worldKit :: easy web mapping :: Home](http://worldkit.org/)
 
-71. [? Que es gvSIG mobile ? —
-    gvSIG](http://www.gvsig.org/web/home/projects/gvsig-mobile)
+71. [? Que es gvSIG mobile ? — gvSIG](http://www.gvsig.org/web/home/projects/gvsig-mobile)
 
 72. [Home - gvSIG Mini - Prodevelop](http://www.gvsigmini.org)
 

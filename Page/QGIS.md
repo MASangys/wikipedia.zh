@@ -1,24 +1,14 @@
-**QGIS**（原稱Quantum
-GIS）是一个[自由软件的桌面](../Page/自由.md "wikilink")[GIS软件](https://zh.wikipedia.org/wiki/GIS "wikilink")。它提供数据的显示、编辑和分析功能。
+**QGIS**（原稱Quantum GIS）是一个[自由](../Page/自由.md "wikilink")软件的桌面[GIS软件](https://zh.wikipedia.org/wiki/GIS "wikilink")。它提供数据的显示、编辑和分析功能。
 
 ## 开发
 
-QGIS由Gary
-Sherman于2002年开始开发，并于2004年成为[开源地理空间基金会的一个孵化项目](../Page/开源地理空间基金会.md "wikilink")。版本1.0于2009年1月发布。
+QGIS由Gary Sherman于2002年开始开发，并于2004年成为[开源地理空间基金会](../Page/开源地理空间基金会.md "wikilink")的一个孵化项目。版本1.0于2009年1月发布。
 
-QGIS以[C++写成](../Page/C++.md "wikilink")，它的[GUI使用了](https://zh.wikipedia.org/wiki/GUI "wikilink")[Qt库](../Page/Qt.md "wikilink")。QGIS允许集成使用C++
-或[Python写成的插件](../Page/Python.md "wikilink")。除了Qt之外，QGIS需要的依赖还包括GEOS和[SQLite](../Page/SQLite.md "wikilink")。同时也推荐安装[GDAL](https://zh.wikipedia.org/wiki/GDAL "wikilink")、[GRASS
-GIS](https://zh.wikipedia.org/wiki/GRASS_GIS "wikilink")、[PostGIS和](../Page/PostGIS.md "wikilink")[PostgreSQL](../Page/PostgreSQL.md "wikilink")。
+QGIS以[C++](../Page/C++.md "wikilink")写成，它的[GUI使用了](https://zh.wikipedia.org/wiki/GUI "wikilink")[Qt](../Page/Qt.md "wikilink")库。QGIS允许集成使用C++ 或[Python](../Page/Python.md "wikilink")写成的插件。除了Qt之外，QGIS需要的依赖还包括GEOS和[SQLite](../Page/SQLite.md "wikilink")。同时也推荐安装[GDAL](https://zh.wikipedia.org/wiki/GDAL "wikilink")、[GRASS GIS](https://zh.wikipedia.org/wiki/GRASS_GIS "wikilink")、[PostGIS](../Page/PostGIS.md "wikilink")和[PostgreSQL](../Page/PostgreSQL.md "wikilink")。
 
-QGIS是一个多平台的应用，可以在多种操作系统上运行，包括[Mac OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")、[UNIX和](../Page/UNIX.md "wikilink")[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。对于Mac用户，QGIS相对于[GRASS
-GIS的优势在于它不需要](https://zh.wikipedia.org/wiki/GRASS_GIS "wikilink")[X11窗口系统](https://zh.wikipedia.org/wiki/X11 "wikilink")，而且界面更简洁、快速。Quantum
-GIS也可以作为GRASS的图形用户界面使用。相较于商业GIS，Quantum
-GIS的文件体积更小，需要的[内存和处理能力也更少](https://zh.wikipedia.org/wiki/内存 "wikilink")。因此它可以在旧的硬件上或CPU运算能力被限制的环境下运行。
+QGIS是一个多平台的应用，可以在多种操作系统上运行，包括[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")、[UNIX](../Page/UNIX.md "wikilink")和[Microsoft Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。对于Mac用户，QGIS相对于[GRASS GIS的优势在于它不需要](https://zh.wikipedia.org/wiki/GRASS_GIS "wikilink")[X11窗口系统](https://zh.wikipedia.org/wiki/X11 "wikilink")，而且界面更简洁、快速。Quantum GIS也可以作为GRASS的图形用户界面使用。相较于商业GIS，Quantum GIS的文件体积更小，需要的[内存和处理能力也更少](https://zh.wikipedia.org/wiki/内存 "wikilink")。因此它可以在旧的硬件上或CPU运算能力被限制的环境下运行。
 
-Quantum GIS被一个活跃的志愿者开发团体持续维护着，他们定期发布更新和错误修正。现在，开发者们已经将Quantum
-GIS翻译为31种语言，它被使用在全世界的学术和专业环境中。
+Quantum GIS被一个活跃的志愿者开发团体持续维护着，他们定期发布更新和错误修正。现在，开发者们已经将Quantum GIS翻译为31种语言，它被使用在全世界的学术和专业环境中。
 
 ### 发布历史
 
@@ -69,31 +59,21 @@ GIS翻译为31种语言，它被使用在全世界的学术和专业环境中。
 
 ## 许可
 
-QGIS是基于[GPL发布的](https://zh.wikipedia.org/wiki/GPL "wikilink")[自由软件](../Page/自由软件.md "wikilink")，可以被修改以执行其他或更加专业的任务。另外有很多[插件可以用来扩展兼容性和功能](../Page/插件.md "wikilink")。
+QGIS是基于[GPL发布的](https://zh.wikipedia.org/wiki/GPL "wikilink")[自由软件](../Page/自由软件.md "wikilink")，可以被修改以执行其他或更加专业的任务。另外有很多[插件](../Page/插件.md "wikilink")可以用来扩展兼容性和功能。
 
 ## 数据格式
 
-QGIS可以使用[Shapefile](../Page/Shapefile.md "wikilink")、[Coverage和Personal](https://zh.wikipedia.org/wiki/Coverage "wikilink")
-Geodatabase格式的数据。它也支持[MapInfo](https://zh.wikipedia.org/wiki/MapInfo "wikilink")、[PostGIS和许多其他格式](../Page/PostGIS.md "wikilink")。\[9\]QGIS也支持包括及的Web服务，以此来使用外部来源的数据。\[10\]
+QGIS可以使用[Shapefile](../Page/Shapefile.md "wikilink")、[Coverage和Personal](https://zh.wikipedia.org/wiki/Coverage "wikilink") Geodatabase格式的数据。它也支持[MapInfo](https://zh.wikipedia.org/wiki/MapInfo "wikilink")、[PostGIS](../Page/PostGIS.md "wikilink")和许多其他格式。\[9\]QGIS也支持包括及的Web服务，以此来使用外部来源的数据。\[10\]
 
 ## 功能
 
-QGIS提供与其他开源GIS软件包的集成，包括[PostGIS](../Page/PostGIS.md "wikilink")、[GRASS和](../Page/GRASS.md "wikilink")[MapServer](../Page/MapServer.md "wikilink")，以向用户提供广泛的功能。\[11\]
+QGIS提供与其他开源GIS软件包的集成，包括[PostGIS](../Page/PostGIS.md "wikilink")、[GRASS](../Page/GRASS.md "wikilink")和[MapServer](../Page/MapServer.md "wikilink")，以向用户提供广泛的功能。\[11\]
 
-用[Python写成的插件扩展了QGIS的功能](../Page/Python.md "wikilink")。
-
-## 參與中文翻譯
-
-  - [Quantum GIS
-    翻譯計劃首頁](https://web.archive.org/web/20140303154812/https://www.transifex.com/projects/p/QGIS/language/zh_TW/)→Quantum
-    GIS 官方使用 [Transifex](../Page/Transifex.md "wikilink")
-    翻譯平台（[相關說明](http://chakra-zh.blogspot.tw/2012/11/chakra.html)）
+用[Python](../Page/Python.md "wikilink")写成的插件扩展了QGIS的功能。
 
 ## 引用
 
-[Category:GIS软件](https://zh.wikipedia.org/wiki/Category:GIS软件 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:使用Qt的软体](https://zh.wikipedia.org/wiki/Category:使用Qt的软体 "wikilink")
+[Category:GIS软件](https://zh.wikipedia.org/wiki/Category:GIS软件 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:使用Qt的软体](https://zh.wikipedia.org/wiki/Category:使用Qt的软体 "wikilink")
 
 1.
 

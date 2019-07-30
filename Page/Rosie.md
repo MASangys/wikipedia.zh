@@ -1,9 +1,8 @@
-《**Rosie**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年5月30日發行。
+《**Rosie**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年5月30日發行。
 
 ## 簡介
 
-CD單曲內收錄的三首歌都是aiko地下時期已經發表過的作品。其中《Rosie》是專輯《[GIRLIE](https://zh.wikipedia.org/wiki/GIRLIE "wikilink")》的曲目；《早安之吻》是專輯《[astral
-box](https://zh.wikipedia.org/wiki/astral_box "wikilink")》的曲目；《他》則是aiko參加的合輯《》的曲目。
+CD單曲內收錄的三首歌都是aiko地下時期已經發表過的作品。其中《Rosie》是專輯《[GIRLIE](https://zh.wikipedia.org/wiki/GIRLIE "wikilink")》的曲目；《早安之吻》是專輯《[astral box](https://zh.wikipedia.org/wiki/astral_box "wikilink")》的曲目；《他》則是aiko參加的合輯《》的曲目。
 
 《Rosie》是一首以女性視角傳達給男性戀人願望的歌曲。雖然「Rosie」一般是女性名字，但在這首歌被認為設定是男性。\[1\]
 
@@ -22,7 +21,6 @@ box](https://zh.wikipedia.org/wiki/astral_box "wikilink")》的曲目；《他�
 
   - [唱片介紹](https://web.archive.org/web/20110908014627/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200100000368&DSP_SKHKETSEQ=001)
 
-[Category:aiko歌曲](https://zh.wikipedia.org/wiki/Category:aiko歌曲 "wikilink")
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
+[Category:aiko歌曲](https://zh.wikipedia.org/wiki/Category:aiko歌曲 "wikilink") [Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
 
 1.

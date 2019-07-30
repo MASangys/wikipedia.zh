@@ -1,10 +1,6 @@
-**Same Difference**
-是一个[英国双人流行乐团](https://zh.wikipedia.org/wiki/英国 "wikilink")，成员
-Sean Smith 和 Sarah Smith 是亲兄妹，他们曾在2007年英国选秀节目《*The [X
-Factor](https://zh.wikipedia.org/wiki/X_Factor "wikilink")*》第四季中获得第三名。
+**Same Difference** 是一个[英国双人流行乐团](https://zh.wikipedia.org/wiki/英国 "wikilink")，成员 Sean Smith 和 Sarah Smith 是亲兄妹，他们曾在2007年英国选秀节目《*The [X Factor](https://zh.wikipedia.org/wiki/X_Factor "wikilink")*》第四季中获得第三名。
 
-2008年11月24日，该乐团发行其首支单曲 "We R
-One"；2008年12月1日，发行首张专辑——*[Pop](https://zh.wikipedia.org/wiki/Pop_\(Same_Difference专辑\) "wikilink")*。
+2008年11月24日，该乐团发行其首支单曲 "We R One"；2008年12月1日，发行首张专辑——*[Pop](https://zh.wikipedia.org/wiki/Pop_\(Same_Difference专辑\) "wikilink")*。
 
 ## 作品列表
 

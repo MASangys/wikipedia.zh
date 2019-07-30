@@ -1,6 +1,4 @@
-**AMT自動馬格南IV型**（；AutoMag，，意為：「自動馬格南」；IV，[罗马数字](../Page/罗马数字.md "wikilink")，意為：[4](../Page/4.md "wikilink")）是一款由[美国](../Page/美国.md "wikilink")槍械製造商（簡稱：AMT）所研製和生產的大型[單動操作型](https://zh.wikipedia.org/wiki/扳機 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。發射、10毫米亞伊馬格南（英文：10mm
-iAi
-Magnum）或[10毫米Auto](../Page/10mm_Auto.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**AMT自動馬格南IV型**（；AutoMag，，意為：「自動馬格南」；IV，[罗马数字](../Page/罗马数字.md "wikilink")，意為：[4](../Page/4.md "wikilink")）是一款由[美国](../Page/美国.md "wikilink")槍械製造商（簡稱：AMT）所研製和生產的大型[單動操作型](https://zh.wikipedia.org/wiki/扳機 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。發射、10毫米亞伊馬格南（英文：10mm iAi Magnum）或[10毫米Auto](../Page/10mm_Auto.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述
 
@@ -21,22 +19,14 @@ Magnum）或[10毫米Auto](../Page/10mm_Auto.md "wikilink")[子彈](../Page/子�
 
 <references />
 
-  - —[Ian's AMT Information
-    site](https://web.archive.org/web/20090615173654/http://www.glossover.co.uk/amt/AutoMagIV/)
+  - —[Ian's AMT Information site](https://web.archive.org/web/20090615173654/http://www.glossover.co.uk/amt/AutoMagIV/)
 
 </div>
 
 ## 外部連結
 
-  - —[Website which presents detailed analyses of many types of weapon
-    including the AMT
-    automag](https://web.archive.org/web/20070506112605/http://www.kitsune.addr.com/Firearms/Auto-Pistols/AMT_Automag_IV.htm)
+  - —[Website which presents detailed analyses of many types of weapon including the AMT automag](https://web.archive.org/web/20070506112605/http://www.kitsune.addr.com/Firearms/Auto-Pistols/AMT_Automag_IV.htm)
 
-  - —[Modern Firearms—AMT Automag II III IV and V
-    pistols](http://world.guns.ru/handguns/hg/usa/amt-automag-ii-v-e.html)
+  - —[Modern Firearms—AMT Automag II III IV and V pistols](http://world.guns.ru/handguns/hg/usa/amt-automag-ii-v-e.html)
 
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink")
-[Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink")
-[Category:半自動馬格南手槍](https://zh.wikipedia.org/wiki/Category:半自動馬格南手槍 "wikilink")
-[Category:.45_Winchester_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_Winchester_Magnum口徑槍械 "wikilink")
-[Category:10毫米Auto槍械](https://zh.wikipedia.org/wiki/Category:10毫米Auto槍械 "wikilink")
+[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink") [Category:半自動馬格南手槍](https://zh.wikipedia.org/wiki/Category:半自動馬格南手槍 "wikilink") [Category:.45_Winchester_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_Winchester_Magnum口徑槍械 "wikilink") [Category:10毫米Auto槍械](https://zh.wikipedia.org/wiki/Category:10毫米Auto槍械 "wikilink")

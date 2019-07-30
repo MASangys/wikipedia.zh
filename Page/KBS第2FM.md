@@ -1,22 +1,15 @@
-**KBS第2FM**（[朝鲜语](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")：KBS
-제2FM），或称**KBS Cool
-FM**。是[韩国放送公社](https://zh.wikipedia.org/wiki/韩国放送公社 "wikilink")（KBS）对韩国国内广播的一个频道，主要播送流行音乐，使用[FM广播](../Page/FM.md "wikilink")。
-[KBS_2FM_studio-Seoul.jpg](https://zh.wikipedia.org/wiki/File:KBS_2FM_studio-Seoul.jpg "fig:KBS_2FM_studio-Seoul.jpg")
+**KBS第2FM**（[朝鲜语](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")：KBS 제2FM），或称**KBS Cool FM**。是[韩国放送公社](https://zh.wikipedia.org/wiki/韩国放送公社 "wikilink")（KBS）对韩国国内广播的一个频道，主要播送流行音乐，使用[FM](../Page/FM.md "wikilink")广播。 [KBS_2FM_studio-Seoul.jpg](https://zh.wikipedia.org/wiki/File:KBS_2FM_studio-Seoul.jpg "fig:KBS_2FM_studio-Seoul.jpg")
 
 ## 历史
 
-  - 1965年 - KBS
-    2FM的前身「首爾廣播電台」（[朝鲜语](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")：라디오
-    서울 방송）开始广播，当时是韩国的第1个FM广播。
-  - 1966年 -
-    [东洋广播公司收购该电台](https://zh.wikipedia.org/wiki/东洋广播公司 "wikilink")，改名為TBC-FM。
+  - 1965年 - KBS 2FM的前身「首爾廣播電台」（[朝鲜语](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")：라디오 서울 방송）开始广播，当时是韩国的第1个FM广播。
+  - 1966年 - [东洋广播公司收购该电台](https://zh.wikipedia.org/wiki/东洋广播公司 "wikilink")，改名為TBC-FM。
   - 1980年12月1日 - 因東洋廣播公司被關閉，电台被併入韓國放送公社。
   - 1980年12月25日 - 电台改為 KBS Radio 4。
   - 1988年12月24日 - 開始部分24小時播出（週一至週五：24小時，週六、週日：18小時​​）。
   - 1994年10月1日 - 開始24小時播出。
   - 2003年10月10日 - 電台改為KBS 2FM，當天起電台的調幅轉播站（AM 639）停播。
-  - 2010年3月2日 -
-    发射地点由[南山移动到冠岳山](https://zh.wikipedia.org/wiki/南山_\(首尔\) "wikilink")。
+  - 2010年3月2日 - 发射地点由[南山移动到冠岳山](https://zh.wikipedia.org/wiki/南山_\(首尔\) "wikilink")。
 
 ## 收听频率
 

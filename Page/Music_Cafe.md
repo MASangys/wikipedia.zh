@@ -1,7 +1,4 @@
-**《Music
-Cafe》**是[鄧麗欣的首張新曲加精選](../Page/鄧麗欣.md "wikilink")，於2009年12月23日推出。當中包括4首新歌及27首精選，共兩個唱片封面；首批版本隨碟附送「Stephy
-2010 Mouse-Pad年曆」。為使歌曲更富意境，精選部份歌曲共分3個場景排列歌曲，包括「In Love（戀愛中）」、「Sad
-Moments（傷心時刻）」及「Amazing Life（奇妙生活）」。
+**《Music Cafe》**是[鄧麗欣](../Page/鄧麗欣.md "wikilink")的首張新曲加精選，於2009年12月23日推出。當中包括4首新歌及27首精選，共兩個唱片封面；首批版本隨碟附送「Stephy 2010 Mouse-Pad年曆」。為使歌曲更富意境，精選部份歌曲共分3個場景排列歌曲，包括「In Love（戀愛中）」、「Sad Moments（傷心時刻）」及「Amazing Life（奇妙生活）」。
 
 ## 曲目列表
 
@@ -95,7 +92,7 @@ Moments（傷心時刻）」及「Amazing Life（奇妙生活）」。
 <td><p><a href="https://zh.wikipedia.org/wiki/Tim_Lui" title="wikilink">Tim Lui</a></p></td>
 <td><p><a href="../Page/雷頌德.md" title="wikilink">雷頌德</a></p></td>
 <td><p><a href="../Page/雷頌德.md" title="wikilink">雷頌德</a></p></td>
-<td><p><a href="../Page/方力申.md" title="wikilink">方力申合唱</a></p></td>
+<td><p><a href="../Page/方力申.md" title="wikilink">方力申</a>合唱</p></td>
 </tr>
 <tr class="odd">
 <td><p>9.</p></td>
@@ -150,7 +147,7 @@ Moments（傷心時刻）」及「Amazing Life（奇妙生活）」。
 <td><p><a href="https://zh.wikipedia.org/wiki/陳少琪" title="wikilink">陳少琪</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Johnny_Yim" title="wikilink">Johnny Yim</a></p></td>
 <td><p><a href="../Page/金培達.md" title="wikilink">金培達</a></p></td>
-<td><p><a href="../Page/方力申.md" title="wikilink">方力申合唱</a></p></td>
+<td><p><a href="../Page/方力申.md" title="wikilink">方力申</a>合唱</p></td>
 </tr>
 </tbody>
 </table>
@@ -196,7 +193,7 @@ Moments（傷心時刻）」及「Amazing Life（奇妙生活）」。
 <td><p>-{<a href="../Page/方杰_(填詞人).md" title="wikilink">方杰</a>}-</p></td>
 <td><p><a href="../Page/雷頌德.md" title="wikilink">雷頌德</a></p></td>
 <td><p><a href="../Page/雷頌德.md" title="wikilink">雷頌德</a></p></td>
-<td><p><a href="../Page/方力申.md" title="wikilink">方力申合唱</a></p></td>
+<td><p><a href="../Page/方力申.md" title="wikilink">方力申</a>合唱</p></td>
 </tr>
 <tr class="even">
 <td><p>4.</p></td>
@@ -342,8 +339,6 @@ Moments（傷心時刻）」及「Amazing Life（奇妙生活）」。
 
   - 2010勁歌金曲優秀選第一回：「入選歌曲」—「一眨眼」
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:鄧麗欣音樂專輯](https://zh.wikipedia.org/wiki/Category:鄧麗欣音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:鄧麗欣音樂專輯](https://zh.wikipedia.org/wiki/Category:鄧麗欣音樂專輯 "wikilink")
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")

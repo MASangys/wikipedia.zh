@@ -1,10 +1,9 @@
-**B.L.**（，為Bad
-Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikilink")[配音員](../Page/配音員.md "wikilink")、[輕小說](../Page/輕小說.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")，本名**徐偉翔**，射手座，桃園人，[國立交通大學](../Page/國立交通大學.md "wikilink")[資訊工程學系畢業](https://zh.wikipedia.org/wiki/資訊工程學系 "wikilink")。
+**B.L.**（，為Bad Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikilink")[配音員](../Page/配音員.md "wikilink")、[輕小說](../Page/輕小說.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")，本名**徐偉翔**，射手座，桃園人，[國立交通大學](../Page/國立交通大學.md "wikilink")[資訊工程學系畢業](https://zh.wikipedia.org/wiki/資訊工程學系 "wikilink")。
 
-出道作是獲得第三屆[台灣角川輕小說暨插畫大賞銀賞的](https://zh.wikipedia.org/wiki/角川华文轻小说暨插画大赏 "wikilink")《[謝謝你\!壞運](https://zh.wikipedia.org/wiki/謝謝你!壞運 "wikilink")》\[1\]\[2\]，同時亦為[台灣角川三屆輕小說比賽以來最年輕的得獎者](../Page/台灣角川.md "wikilink")。作品幽默逗趣、角色鮮明、設定嚴謹、感人肺腑為其創作最大特色。
+出道作是獲得第三屆[台灣角川輕小說暨插畫大賞銀賞的](https://zh.wikipedia.org/wiki/角川华文轻小说暨插画大赏 "wikilink")《[謝謝你\!壞運](https://zh.wikipedia.org/wiki/謝謝你!壞運 "wikilink")》\[1\]\[2\]，同時亦為[台灣角川](../Page/台灣角川.md "wikilink")三屆輕小說比賽以來最年輕的得獎者。作品幽默逗趣、角色鮮明、設定嚴謹、感人肺腑為其創作最大特色。
 
-於就學期間創作兩年即得獎，間中仍維持優秀在校成績，作品甫一上市便空前熱賣，在[蛙蛙書店排行榜高掛逾三週之久](https://zh.wikipedia.org/wiki/蛙蛙書店 "wikilink")，名次遠勝其他同期作者，被譽為「2011年出道輕小說作者中最閃亮的新星」。又因為同時參加[尖端出版舉辦的第四屆](../Page/尖端出版.md "wikilink")[浮文字新人獎亦打入決選](../Page/浮文字新人獎.md "wikilink")，成為「[尖端十聖](https://zh.wikipedia.org/wiki/尖端十聖 "wikilink")」\[3\]（該比賽中，參賽者前十強的統稱）。
-他自言大學二年級時接觸了第一部輕小說《[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")》，人生就此改寫，投入轻小说创作者一列。看完原作和動畫，還成為了[長門有希的配音聲優](../Page/長門有希.md "wikilink")[茅原實里的Fans](../Page/茅原實里.md "wikilink")\[4\]，並參加了茅原實里2008年在台灣舉辦的演唱會。在深深受到感動的同時，形成一個想法──「我也要寫出暢銷到足以改編成動畫的輕小說，然後請她（茅原實里）來幫我的作品配音。」\[5\]。
+於就學期間創作兩年即得獎，間中仍維持優秀在校成績，作品甫一上市便空前熱賣，在[蛙蛙書店排行榜高掛逾三週之久](https://zh.wikipedia.org/wiki/蛙蛙書店 "wikilink")，名次遠勝其他同期作者，被譽為「2011年出道輕小說作者中最閃亮的新星」。又因為同時參加[尖端出版](../Page/尖端出版.md "wikilink")舉辦的第四屆[浮文字新人獎](../Page/浮文字新人獎.md "wikilink")亦打入決選，成為「[尖端十聖](https://zh.wikipedia.org/wiki/尖端十聖 "wikilink")」\[3\]（該比賽中，參賽者前十強的統稱）。
+他自言大學二年級時接觸了第一部輕小說《[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")》，人生就此改寫，投入轻小说创作者一列。看完原作和動畫，還成為了[長門有希](../Page/長門有希.md "wikilink")的配音聲優[茅原實里](../Page/茅原實里.md "wikilink")的Fans\[4\]，並參加了茅原實里2008年在台灣舉辦的演唱會。在深深受到感動的同時，形成一個想法──「我也要寫出暢銷到足以改編成動畫的輕小說，然後請她（茅原實里）來幫我的作品配音。」\[5\]。
 
 曾道「B.L.是Bad Luck的縮寫，想歪的人給我出去罰站！」
 
@@ -148,8 +147,7 @@ Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikil
 ### 特攝片
 
   - 《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》：真倉俊
-  - 《[假面騎士×假面騎士 W\&DECADE
-    MOVIE大戰2010](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_W&DECADE_MOVIE大戰2010 "wikilink")》：真倉俊
+  - 《[假面騎士×假面騎士 W\&DECADE MOVIE大戰2010](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_W&DECADE_MOVIE大戰2010 "wikilink")》：真倉俊
   - 《[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")》：**東·多格伊亞**、星野吾郎、巴獅王、齋延、殺戮
   - 《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》：**大文字隼**
   - 《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》：凰蓮・皮耶爾・阿爾馮斯、戰極凌馬、Zack
@@ -179,16 +177,10 @@ Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikil
   - [第三屆台灣角川輕小說大賞得獎作品](http://www.kadokawa.com.tw/o_lightnovel2011/index.htm)
   - [第四屆浮文字新人獎初選名單公佈](http://www.spp.com.tw/spp2006/other/07/2010FW/new.htm)
 
-[Category:台灣輕小說作家](https://zh.wikipedia.org/wiki/Category:台灣輕小說作家 "wikilink")
-[Category:台灣男性配音員](https://zh.wikipedia.org/wiki/Category:台灣男性配音員 "wikilink")
-[Category:國立交通大學校友](https://zh.wikipedia.org/wiki/Category:國立交通大學校友 "wikilink")
-[Category:徐姓](https://zh.wikipedia.org/wiki/Category:徐姓 "wikilink")
+[Category:台灣輕小說作家](https://zh.wikipedia.org/wiki/Category:台灣輕小說作家 "wikilink") [Category:台灣男性配音員](https://zh.wikipedia.org/wiki/Category:台灣男性配音員 "wikilink") [Category:國立交通大學校友](https://zh.wikipedia.org/wiki/Category:國立交通大學校友 "wikilink") [Category:徐姓](https://zh.wikipedia.org/wiki/Category:徐姓 "wikilink")
 
 1.  [台灣角川第三屆輕小說暨插畫大賞](http://www.kadokawa.com.tw/lightnovel2011/)、[第三屆得獎作品](http://www.kadokawa.com.tw/lightnovel2011/list.html)
-2.  [自由時報 - 隋曉倒楣男
-    奪角川銀獎](http://www.libertytimes.com.tw/2011/new/mar/21/today-life7.htm)
-
+2.  [自由時報 - 隋曉倒楣男 奪角川銀獎](http://www.libertytimes.com.tw/2011/new/mar/21/today-life7.htm)
 3.  [第四屆浮文字新人獎初選名單公佈](http://www.spp.com.tw/spp2006/other/07/2010FW/new.htm)
-4.  [創作的源頭-God knows -
-    yam天空部落](http://blog.yam.com/badluck/article/40562389#comments)
+4.  [創作的源頭-God knows - yam天空部落](http://blog.yam.com/badluck/article/40562389#comments)
 5.  [《謝謝你\!壞運》作者&插畫](http://www.kadokawa.com.tw/o_lightnovel2011/badlucky.html#a1)

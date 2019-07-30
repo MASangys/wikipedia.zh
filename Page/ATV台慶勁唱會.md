@@ -1,4 +1,4 @@
-**ATV台慶勁唱會**於2011年5月29日晚上八時於[亞洲電視](../Page/亞洲電視.md "wikilink")[大埔總台舉行](../Page/大埔_\(香港\).md "wikilink")，為亞視慶祝開台五十四周年的大型[台慶節目](https://zh.wikipedia.org/wiki/台慶 "wikilink")，[本港台及](../Page/本港台.md "wikilink")[亞洲台同步](../Page/亞洲電視亞洲台.md "wikilink")[現場直播](../Page/現場直播.md "wikilink")，2011年6月18日[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")9時至11時和7月2日[下午](https://zh.wikipedia.org/wiki/下午 "wikilink")1時至3時25分於本港台重播。
+**ATV台慶勁唱會**於2011年5月29日晚上八時於[亞洲電視](../Page/亞洲電視.md "wikilink")[大埔總台舉行](../Page/大埔_\(香港\).md "wikilink")，為亞視慶祝開台五十四周年的大型[台慶節目](https://zh.wikipedia.org/wiki/台慶 "wikilink")，[本港台](../Page/本港台.md "wikilink")及[亞洲台同步](../Page/亞洲電視亞洲台.md "wikilink")[現場直播](../Page/現場直播.md "wikilink")，2011年6月18日[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")9時至11時和7月2日[下午](https://zh.wikipedia.org/wiki/下午 "wikilink")1時至3時25分於本港台重播。
 
 ## 嘉賓
 
@@ -32,7 +32,7 @@
 
 ## 收視
 
-以下為該節目於[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台首播之收視紀錄](../Page/本港台.md "wikilink")：
+以下為該節目於[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")首播之收視紀錄：
 
 | 日期             | 平均收視                                               | 最高收視 | 百分比 | 收看比率   | 欣賞指數 |
 | -------------- | -------------------------------------------------- | ---- | --- | ------ | ---- |

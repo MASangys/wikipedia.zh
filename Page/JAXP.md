@@ -1,16 +1,12 @@
-**JAXP**（**Java API for [XML](../Page/XML.md "wikilink")
-Processing**，意为XML处理的Java API）是[Java](../Page/Java.md "wikilink")
-[XML](../Page/XML.md "wikilink")[程序设计的](../Page/程序设计.md "wikilink")[应用程序接口之一](../Page/应用程序接口.md "wikilink")，它提供解析和验证[XML文档的能力](../Page/XML.md "wikilink")。JAXP是在[Java社区进程下开发的](../Page/JCP.md "wikilink")，包括JSR
-5 （JAXP 1.0）和 JSR 63 （JAXP 1.1和1.2）两个规范。
+**JAXP**（**Java API for [XML](../Page/XML.md "wikilink") Processing**，意为XML处理的Java API）是[Java](../Page/Java.md "wikilink") [XML](../Page/XML.md "wikilink")[程序设计](../Page/程序设计.md "wikilink")的[应用程序接口](../Page/应用程序接口.md "wikilink")之一，它提供解析和验证[XML](../Page/XML.md "wikilink")文档的能力。JAXP是在[Java社区进程下开发的](../Page/JCP.md "wikilink")，包括JSR 5 （JAXP 1.0）和 JSR 63 （JAXP 1.1和1.2）两个规范。
 
 JAXP解析XML的三种基本接口为：
 
-  - [文档对象模型解析接口或](../Page/文档对象模型.md "wikilink")**DOM**接口
+  - [文档对象模型](../Page/文档对象模型.md "wikilink")解析接口或**DOM**接口
   - [XML简单API解析接口或](../Page/SAX.md "wikilink")**SAX**接口
-  - [XML流API或](../Page/StAX.md "wikilink")**StAX**接口（是JDK 6的一部分，为JDK
-    5提供单独的包）
+  - [XML流API或](../Page/StAX.md "wikilink")**StAX**接口（是JDK 6的一部分，为JDK 5提供单独的包）
 
-除了解析接口，JAXP还提供了[XSLT接口用来对XML文档进行数据和结构的转换](../Page/XSLT.md "wikilink")。
+除了解析接口，JAXP还提供了[XSLT](../Page/XSLT.md "wikilink")接口用来对XML文档进行数据和结构的转换。
 
 ## DOM接口
 
@@ -21,7 +17,7 @@ DOM解析器被称作`DocumentBuilder`，因为它构建一个内存中的`Docum
   - 元素节点，具有许多属性
   - 文本节点，代表文档元素开始和结束标签之间的文字。
 
-节点类型的完整列表，请参见包中的[Javadoc文档](../Page/Javadoc.md "wikilink")。
+节点类型的完整列表，请参见包中的[Javadoc](../Page/Javadoc.md "wikilink")文档。
 
 ## SAX接口
 
@@ -35,31 +31,25 @@ SAX解析器被称作，SAXParser是由创建的。与DOM解析器不同，SAX�
 
 客户端提供一个`DefaultHandler`的子类，实现这些方法，并在方法中对数据进行处理，可能会将数据存入数据库，或写出到流中。
 
-在解析过程中，解析器可能需要访问外部文档。因此可能会使用[XML
-Catalog将经常使用的XML文档存储在本地的缓存中](https://zh.wikipedia.org/wiki/XML_Catalog "wikilink")。
+在解析过程中，解析器可能需要访问外部文档。因此可能会使用[XML Catalog将经常使用的XML文档存储在本地的缓存中](https://zh.wikipedia.org/wiki/XML_Catalog "wikilink")。
 
 SAX接口是在2000年5月发布的Java 1.3中引入的。\[2\]
 
 ## StAX接口
 
-StAX的设计介于DOM和SAX接口之间，在它的隐喻中，程序的入口点是一个代表文档中一个位置的光标。应用程序可以按需向前移动光标 –
-从解析器中“拉”出信息。这与基于事件的API（如SAX）不同，SAX将数据“推”给应用程序，要求应用程序维护事件间的状态，如果应用需要知道在文档中的位置信息。
+StAX的设计介于DOM和SAX接口之间，在它的隐喻中，程序的入口点是一个代表文档中一个位置的光标。应用程序可以按需向前移动光标 – 从解析器中“拉”出信息。这与基于事件的API（如SAX）不同，SAX将数据“推”给应用程序，要求应用程序维护事件间的状态，如果应用需要知道在文档中的位置信息。
 
 ## XSLT接口
 
-[XSLT](../Page/XSLT.md "wikilink")（可扩展样式表转换语言）允许将XML文档转换为数据其他形式。应用程序使用`javax.xml.transform`包中的接口可以进行XSLT转换。接口最初被称为TrAX
-（Transformation API for XML），是由许多Java XSLT处理器的开发人员通过非正式协作开发的。
+[XSLT](../Page/XSLT.md "wikilink")（可扩展样式表转换语言）允许将XML文档转换为数据其他形式。应用程序使用`javax.xml.transform`包中的接口可以进行XSLT转换。接口最初被称为TrAX （Transformation API for XML），是由许多Java XSLT处理器的开发人员通过非正式协作开发的。
 
 接口的主要特性包括：
 
   - 工厂类可以使应用动态地选择使用哪一个XSLT处理器。
-  - `TransformerFactory`上的方法用来创建对象,
-    表示样式表的编译后的形式。这是一个线程安全的对象，可以重复使用，顺序或并发，在多个源文档上应用同一个样式表（或用用一个源文档，不同的参数）
+  - `TransformerFactory`上的方法用来创建对象, 表示样式表的编译后的形式。这是一个线程安全的对象，可以重复使用，顺序或并发，在多个源文档上应用同一个样式表（或用用一个源文档，不同的参数）
   - `Templates`上的方法可以创建，表示样式表的可执行形式。`Transformer`不可以在线程间共享，虽然也是可重用的。`Transformer`提供方法设置样式表参数和序列化选项（例如，输出是否缩进），以及一个实际运行转换的方法。
 
-JAXP定义了和两个抽象接口来表示转换的输入和输出。某种程度上，这是非常规使用Java接口，这是因为并不期待一个处理器会接受任何实现该接口的类，每一个处理器可以选择支持那些`Source`和`Result`的处理。实际上所有JAXP处理器支持三种标准类型的`Source`
-（`DOMSource`，`SAXSource`，`StreamSource`）以及三种标准类型的`Result`
-（`DOMResult`，`SAXResult`，`StreamResult`）以及处理器自己的实现。
+JAXP定义了和两个抽象接口来表示转换的输入和输出。某种程度上，这是非常规使用Java接口，这是因为并不期待一个处理器会接受任何实现该接口的类，每一个处理器可以选择支持那些`Source`和`Result`的处理。实际上所有JAXP处理器支持三种标准类型的`Source` （`DOMSource`，`SAXSource`，`StreamSource`）以及三种标准类型的`Result` （`DOMResult`，`SAXResult`，`StreamResult`）以及处理器自己的实现。
 
 ## 版本
 
@@ -93,16 +83,8 @@ JAXP 1.4.4于2010年9月3日发布。JAXP 1.3已经于2008年2月12日产品终�
 
 <references />
 
-[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
-[Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")
+[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink") [Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")
 
-1.  [Document Object Model(DOM) Level 2 Core
-    Specification](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113)
-2.  Compare the [Java 1.2.1 API
-    index](http://java.sun.com/j2ee/sdk_1.2.1/techdocs/api/index-all.html#_S_)
-    with the [1.3
-    index](http://java.sun.com/j2ee/sdk_1.3/techdocs/api/index-all.html#_S_).
-    The Java Specification Request (JSR) 5, *XML Parsing Specification*,
-    was finalised on [21
-    March, 2000](http://jcp.org/en/jsr/detail?id=5).
+1.  [Document Object Model(DOM) Level 2 Core Specification](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113)
+2.  Compare the [Java 1.2.1 API index](http://java.sun.com/j2ee/sdk_1.2.1/techdocs/api/index-all.html#_S_) with the [1.3 index](http://java.sun.com/j2ee/sdk_1.3/techdocs/api/index-all.html#_S_). The Java Specification Request (JSR) 5, *XML Parsing Specification*, was finalised on [21 March, 2000](http://jcp.org/en/jsr/detail?id=5).
 3.  [1](https://jaxp.dev.java.net/1.3/EndofLife.html)

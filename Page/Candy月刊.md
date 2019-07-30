@@ -1,5 +1,4 @@
-《Candy月刊》是由[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[長鴻出版社出版的](../Page/長鴻出版社.md "wikilink")[少女漫畫月刊](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")。於2004年3月創刊，每月10日發行，售價[新臺幣](../Page/新臺幣.md "wikilink")138元；2008年4月改為每月1日發行，售價為新臺幣100元。所連載的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，由[小學館的](../Page/小學館.md "wikilink")4本少女漫畫月刊《少女コミック》（Sho-Comi）、《Cheese\!》、《flowers》、《プチコミック》（Petit
-Comic）中挑選出連載作品。2016年6月停刊。
+《Candy月刊》是由[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[長鴻出版社](../Page/長鴻出版社.md "wikilink")出版的[少女漫畫月刊](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")。於2004年3月創刊，每月10日發行，售價[新臺幣](../Page/新臺幣.md "wikilink")138元；2008年4月改為每月1日發行，售價為新臺幣100元。所連載的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，由[小學館](../Page/小學館.md "wikilink")的4本少女漫畫月刊《少女コミック》（Sho-Comi）、《Cheese\!》、《flowers》、《プチコミック》（Petit Comic）中挑選出連載作品。2016年6月停刊。
 
 ## 目前連載作品
 

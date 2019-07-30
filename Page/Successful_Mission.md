@@ -1,17 +1,9 @@
-《**Successful
-Mission**》是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[林原惠](../Page/林原惠.md "wikilink")的第14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年10月23日\[1\]由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King
-Records旗下公司](../Page/國王唱片.md "wikilink")）\[2\]發行。
+《**Successful Mission**》是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[林原惠](../Page/林原惠.md "wikilink")的第14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年10月23日\[1\]由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King Records旗下公司](../Page/國王唱片.md "wikilink")）\[2\]發行。
 
 ## 解說
 
-  - 同名標題曲「Successful
-    Mission」是聲優[林原惠](../Page/林原惠.md "wikilink")主演1996年10月至1997年3月在[東京電視台](../Page/東京電視台.md "wikilink")播出的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[機械女神J](https://zh.wikipedia.org/wiki/機械女神#機械女神J "wikilink")》選用的片頭主題曲。至於B面歌曲「I'll
-    be there」也被同名電視動畫選為片尾主題曲使用。該單曲是自從她的上一張單曲《[Give a
-    reason](../Page/Give_a_reason.md "wikilink")》以來，在Oricon單曲排行榜初次亮相之後第2次入圍前10名的單曲，在名次中即獲第7名。並在同名動畫播出期間獲得1997年4月份[金唱片](../Page/金唱片.md "wikilink")的認定\[3\]\[4\]。
-  - 還有，從此作以後發行的單曲一直到1998年的《[Proof of
-    Myself](../Page/Proof_of_Myself.md "wikilink")》為止，林原惠的單曲連續總計8張都有進入前10名。而且，《Proof
-    of Myself》為《[機械女神J to
-    X](https://zh.wikipedia.org/wiki/機械女神#機械女神JtoX "wikilink")》（《機械女神J》的續篇作品）的主題曲，發行日期也正好為（2年後的）10月23日。
+  - 同名標題曲「Successful Mission」是聲優[林原惠](../Page/林原惠.md "wikilink")主演1996年10月至1997年3月在[東京電視台](../Page/東京電視台.md "wikilink")播出的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[機械女神J](https://zh.wikipedia.org/wiki/機械女神#機械女神J "wikilink")》選用的片頭主題曲。至於B面歌曲「I'll be there」也被同名電視動畫選為片尾主題曲使用。該單曲是自從她的上一張單曲《[Give a reason](../Page/Give_a_reason.md "wikilink")》以來，在Oricon單曲排行榜初次亮相之後第2次入圍前10名的單曲，在名次中即獲第7名。並在同名動畫播出期間獲得1997年4月份[金唱片](../Page/金唱片.md "wikilink")的認定\[3\]\[4\]。
+  - 還有，從此作以後發行的單曲一直到1998年的《[Proof of Myself](../Page/Proof_of_Myself.md "wikilink")》為止，林原惠的單曲連續總計8張都有進入前10名。而且，《Proof of Myself》為《[機械女神J to X](https://zh.wikipedia.org/wiki/機械女神#機械女神JtoX "wikilink")》（《機械女神J》的續篇作品）的主題曲，發行日期也正好為（2年後的）10月23日。
   - 此外，林原惠在1996年第一次上[日本電視台](../Page/日本電視台.md "wikilink")音樂節目《》的時候，曾與節目中的女伴舞者一起對唱此歌曲。但該片段後來在電視上播出時並未完整播出。
   - 該單曲的所有收錄歌曲的作詞雖然都是由林原惠負責，但是在8cm單曲的作詞者中卻有記載的名字。
 
@@ -122,10 +114,7 @@ Records旗下公司](../Page/國王唱片.md "wikilink")）\[2\]發行。
 
   - [Proof of Myself](../Page/Proof_of_Myself.md "wikilink")
 
-[Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink")
-[Category:1996年單曲](https://zh.wikipedia.org/wiki/Category:1996年單曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
+[Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink") [Category:1996年單曲](https://zh.wikipedia.org/wiki/Category:1996年單曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
 
 1.
 

@@ -2,9 +2,7 @@
 
 ## 劇情內容
 
-李耀庭(郭富城飾)自命不凡，辣手幹練；王啟聰(陳奕迅飾)自認瀟灑，不修邊幅。兩人皆為警界楚翹：身手了得、精明、槍法奇準……再加上美艷警花馮寶寶(鄭希怡飾)，三人為破一起鑽鏈失竊案而相逢，奉命同行。
-出師未捷，三人已是互不信任，而為了爭相表現，更是內鬨連連。正當無緒之際，卻遇神秘飄忽的女郎彤(鄔玉君飾)，以交出鑽鍊為條件，要求警方救回男友KEN，與此同時，彤亦一直被黑幫所追殺。為保安全，庭、聰對彤輪番看護，由此，三人的感情由敵對變得微妙而敏感……
-情慾與仇殺糾纏而至。彤與庭、聰的緣份是否會開花結果？被黑幫囚禁的KEN生命岌岌可危，又能否全身而退？
+李耀庭(郭富城飾)自命不凡，辣手幹練；王啟聰(陳奕迅飾)自認瀟灑，不修邊幅。兩人皆為警界楚翹：身手了得、精明、槍法奇準……再加上美艷警花馮寶寶(鄭希怡飾)，三人為破一起鑽鏈失竊案而相逢，奉命同行。 出師未捷，三人已是互不信任，而為了爭相表現，更是內鬨連連。正當無緒之際，卻遇神秘飄忽的女郎彤(鄔玉君飾)，以交出鑽鍊為條件，要求警方救回男友KEN，與此同時，彤亦一直被黑幫所追殺。為保安全，庭、聰對彤輪番看護，由此，三人的感情由敵對變得微妙而敏感…… 情慾與仇殺糾纏而至。彤與庭、聰的緣份是否會開花結果？被黑幫囚禁的KEN生命岌岌可危，又能否全身而退？
 
 ## 演員表
 
@@ -35,7 +33,4 @@
   -
   -
   -
-[Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink")
-[Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink")
-[Category:寰宇電影](https://zh.wikipedia.org/wiki/Category:寰宇電影 "wikilink")
-[Category:林超賢電影](https://zh.wikipedia.org/wiki/Category:林超賢電影 "wikilink")
+[Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink") [Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink") [Category:寰宇電影](https://zh.wikipedia.org/wiki/Category:寰宇電影 "wikilink") [Category:林超賢電影](https://zh.wikipedia.org/wiki/Category:林超賢電影 "wikilink")

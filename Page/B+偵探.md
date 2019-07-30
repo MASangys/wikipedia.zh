@@ -1,4 +1,4 @@
-《**B+偵探**》（）是一部-{zh:於;zh-hans:于;zh-hant:於;}-2011年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[彭順擔任執導](https://zh.wikipedia.org/wiki/彭順 "wikilink")，以及由[郭富城](../Page/郭富城.md "wikilink")、[廖啟智](../Page/廖啟智.md "wikilink")、[譚耀文](../Page/譚耀文.md "wikilink")、[徐正曦](https://zh.wikipedia.org/wiki/徐正曦 "wikilink")、[張兆輝](../Page/張兆輝.md "wikilink")、[龔蓓苾等擔任演出](https://zh.wikipedia.org/wiki/龔蓓苾 "wikilink")，此電影全部在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷取景拍攝](../Page/曼谷.md "wikilink")，內容主要講述[私家偵探調查案件的故事](https://zh.wikipedia.org/wiki/私家偵探 "wikilink")，此電影為《[C+偵探](../Page/C+偵探.md "wikilink")》的續集。
+《**B+偵探**》（）是一部-{zh:於;zh-hans:于;zh-hant:於;}-2011年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[彭順擔任執導](https://zh.wikipedia.org/wiki/彭順 "wikilink")，以及由[郭富城](../Page/郭富城.md "wikilink")、[廖啟智](../Page/廖啟智.md "wikilink")、[譚耀文](../Page/譚耀文.md "wikilink")、[徐正曦](https://zh.wikipedia.org/wiki/徐正曦 "wikilink")、[張兆輝](../Page/張兆輝.md "wikilink")、[龔蓓苾等擔任演出](https://zh.wikipedia.org/wiki/龔蓓苾 "wikilink")，此電影全部在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")取景拍攝，內容主要講述[私家偵探調查案件的故事](https://zh.wikipedia.org/wiki/私家偵探 "wikilink")，此電影為《[C+偵探](../Page/C+偵探.md "wikilink")》的續集。
 
 ## 演員表
 
@@ -57,7 +57,7 @@
 <td><p>凌家輝之母親(因要掩飾真相而自稱是其姐姐)<br />
 曾被陳探在家內訪問關於凌家輝童年的經歷事情<br />
 (客串)<br />
-童年由<a href="../Page/林司敏.md" title="wikilink">林司敏飾演</a></p></td>
+童年由<a href="../Page/林司敏.md" title="wikilink">林司敏</a>飾演</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -144,7 +144,7 @@ Seaung</p></td>
 
 ## 拍攝過程
 
-  - 2009年10月，正式在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷開機拍攝](../Page/曼谷.md "wikilink")。
+  - 2009年10月，正式在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")開機拍攝。
   - 2010年3月至5月期間，泰國曼谷發生[紅衫軍示威](../Page/反獨裁民主聯盟.md "wikilink")，電影已經暫停拍攝，因此續集電影的殺青戲未拍。
   - 2010年7月，電影終於在泰國曼谷拍攝殺青戲便完成，之後正式殺青而展開後期製作。
 
@@ -162,10 +162,4 @@ Seaung</p></td>
   -
   -
   -
-[Category:寰宇電影](https://zh.wikipedia.org/wiki/Category:寰宇電影 "wikilink")
-[Category:香港懸疑片](https://zh.wikipedia.org/wiki/Category:香港懸疑片 "wikilink")
-[Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink")
-[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
-[Category:曼谷取景电影](https://zh.wikipedia.org/wiki/Category:曼谷取景电影 "wikilink")
-[Category:2010年代劇情片](https://zh.wikipedia.org/wiki/Category:2010年代劇情片 "wikilink")
-[Category:2010年代悬疑片](https://zh.wikipedia.org/wiki/Category:2010年代悬疑片 "wikilink")
+[Category:寰宇電影](https://zh.wikipedia.org/wiki/Category:寰宇電影 "wikilink") [Category:香港懸疑片](https://zh.wikipedia.org/wiki/Category:香港懸疑片 "wikilink") [Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink") [Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink") [Category:曼谷取景电影](https://zh.wikipedia.org/wiki/Category:曼谷取景电影 "wikilink") [Category:2010年代劇情片](https://zh.wikipedia.org/wiki/Category:2010年代劇情片 "wikilink") [Category:2010年代悬疑片](https://zh.wikipedia.org/wiki/Category:2010年代悬疑片 "wikilink")

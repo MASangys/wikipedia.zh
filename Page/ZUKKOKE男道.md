@@ -1,5 +1,4 @@
-《**ZUKKOKE男道**》（），為[日本男偶像團體](../Page/日本.md "wikilink")[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。從這張單曲開始，所屬的唱片公司便由演歌部門的TEICHIKU轉為流行音樂部門的IMPERIAL
-RECORDS。初回限定盤贈送的特典為「concert ON-OFF shot mini poster」。
+《**ZUKKOKE男道**》（），為[日本](../Page/日本.md "wikilink")男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。從這張單曲開始，所屬的唱片公司便由演歌部門的TEICHIKU轉為流行音樂部門的IMPERIAL RECORDS。初回限定盤贈送的特典為「concert ON-OFF shot mini poster」。
 
 ## 收錄歌曲
 
@@ -28,9 +27,4 @@ RECORDS。初回限定盤贈送的特典為「concert ON-OFF shot mini poster」
 
 4.ズッコケ男道（Original Karaoke）
 
-[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink")
-[Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink")
-[Category:忍者亂太郎](https://zh.wikipedia.org/wiki/Category:忍者亂太郎 "wikilink")
-[Category:NHK動畫主題曲](https://zh.wikipedia.org/wiki/Category:NHK動畫主題曲 "wikilink")
-[Category:2007年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
+[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink") [Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink") [Category:忍者亂太郎](https://zh.wikipedia.org/wiki/Category:忍者亂太郎 "wikilink") [Category:NHK動畫主題曲](https://zh.wikipedia.org/wiki/Category:NHK動畫主題曲 "wikilink") [Category:2007年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon單曲週榜冠軍作品 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")

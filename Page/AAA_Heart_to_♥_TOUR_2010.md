@@ -1,13 +1,9 @@
-「**AAA Heart to ♥ TOUR
-2010**」是[日本的](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](../Page/AAA_\(團體\).md "wikilink")2010年9月29日推出的DVD，由[avex
-trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
+「**AAA Heart to ♥ TOUR 2010**」是[日本](../Page/日本.md "wikilink")的[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](../Page/AAA_\(團體\).md "wikilink")2010年9月29日推出的DVD，由[avex trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - 與上一張DVD「[AAA 4th Anniversary LIVE 090922 at Yokohama
-    Arena](../Page/AAA_4th_Anniversary_LIVE_090922_at_Yokohama_Arena.md "wikilink")」相距約6個月。
-  - 「AAA Heart to ♥ TOUR
-    2010」是AAA於2010年2月17日推出第5枚原創專輯「[HEARTFUL](../Page/HEARTFUL.md "wikilink")」後舉行的全國巡迴演唱會，由2010年3月6日開始，至2010年5月22日，一共26場公演。
+  - 與上一張DVD「[AAA 4th Anniversary LIVE 090922 at Yokohama Arena](../Page/AAA_4th_Anniversary_LIVE_090922_at_Yokohama_Arena.md "wikilink")」相距約6個月。
+  - 「AAA Heart to ♥ TOUR 2010」是AAA於2010年2月17日推出第5枚原創專輯「[HEARTFUL](../Page/HEARTFUL.md "wikilink")」後舉行的全國巡迴演唱會，由2010年3月6日開始，至2010年5月22日，一共26場公演。
   - 此DVD收錄了AAA於2010年5月16日在[NHK會館舉行的其中一場公演](https://zh.wikipedia.org/wiki/NHK會館 "wikilink")，共演唱25首曲目。
   - 在10月11日於公信榜錄影帶週排行榜取得第7位
 
@@ -52,5 +48,4 @@ trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 1.  Variety Show
 
-[Category:AAA的影像作品](https://zh.wikipedia.org/wiki/Category:AAA的影像作品 "wikilink")
-[Category:2010年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2010年音樂相關影像作品 "wikilink")
+[Category:AAA的影像作品](https://zh.wikipedia.org/wiki/Category:AAA的影像作品 "wikilink") [Category:2010年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2010年音樂相關影像作品 "wikilink")

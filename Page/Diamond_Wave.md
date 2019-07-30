@@ -1,6 +1,4 @@
-**Diamond
-Wave**是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第二十四張單曲](../Page/倉木麻衣.md "wikilink")，於2006年6月21日發行。初動2.1萬，累積銷量3萬。本作為其本人第六張原創專輯《[DIAMOND
-WAVE](../Page/DIAMOND_WAVE.md "wikilink")》的同名先行單曲。
+**Diamond Wave**是[日本](../Page/日本.md "wikilink")歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第二十四張單曲，於2006年6月21日發行。初動2.1萬，累積銷量3萬。本作為其本人第六張原創專輯《[DIAMOND WAVE](../Page/DIAMOND_WAVE.md "wikilink")》的同名先行單曲。
 
 ## 曲目
 
@@ -18,5 +16,4 @@ WAVE](../Page/DIAMOND_WAVE.md "wikilink")》的同名先行單曲。
 | Oricon Yearly Singles Chart  |                            |        |         |      |
 |                              |                            |        |         |      |
 
-[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink")
-[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
+[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink") [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")

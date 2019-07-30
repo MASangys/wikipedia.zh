@@ -1,5 +1,4 @@
-《**MIN·MIN·MIN**》是[SDN48第](../Page/SDN48.md "wikilink")3張的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年8月17日由[Universal
-Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
+《**MIN·MIN·MIN**》是[SDN48](../Page/SDN48.md "wikilink")第3張的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年8月17日由[Universal Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
 ## 概要
 
@@ -9,10 +8,9 @@ Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
 表題曲"MIN·MIN·MIN"是常盤藥品工業「眠眠打破」的廣告曲
 
-B面曲"おねだりシャンパン"的PV中有[AKB48的](../Page/AKB48.md "wikilink")[小嶋陽菜出演](../Page/小嶋陽菜.md "wikilink")，這也是SDN的單曲中首次有AKB的成員出演。
+B面曲"おねだりシャンパン"的PV中有[AKB48](../Page/AKB48.md "wikilink")的[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")出演，這也是SDN的單曲中首次有AKB的成員出演。
 
-另一曲B面曲[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")（SDN48
-ver.）也是SDN的單曲中首次收錄的與AKB的曲目相同的歌曲
+另一曲B面曲[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")（SDN48 ver.）也是SDN的單曲中首次收錄的與AKB的曲目相同的歌曲
 
 ## 選抜成員
 
@@ -143,8 +141,4 @@ ver.）也是SDN的單曲中首次收錄的與AKB的曲目相同的歌曲
 
   - [Universal Music](http://www.universal-music.co.jp/sdn48/)
 
-[Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")

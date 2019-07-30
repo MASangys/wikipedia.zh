@@ -1,11 +1,6 @@
-《**Spa &
-Treatment**》是[東京事變的第七張](../Page/東京事變.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。起初僅接受林檎班的會員預定，然後在2010年3月26日起開跑的《東京事變
-live tour 2010 Ultra C》巡迴演唱會會場上以優惠的價格發售，一般發售則於2010年8月25日與《[Ultra
-C](../Page/Ultra_C.md "wikilink")》一同發售。
+《**Spa & Treatment**》是[東京事變](../Page/東京事變.md "wikilink")的第七張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。起初僅接受林檎班的會員預定，然後在2010年3月26日起開跑的《東京事變 live tour 2010 Ultra C》巡迴演唱會會場上以優惠的價格發售，一般發售則於2010年8月25日與《[Ultra C](../Page/Ultra_C.md "wikilink")》一同發售。
 
-此張DVD是收錄東京事變《東京事變 live tour 2007 Spa &
-Treatment》巡迴演唱會的其中一站，於2007年11月21日在Zepp
-Tokyo所舉行的，其演唱的歌曲及幕後花絮。
+此張DVD是收錄東京事變《東京事變 live tour 2007 Spa & Treatment》巡迴演唱會的其中一站，於2007年11月21日在Zepp Tokyo所舉行的，其演唱的歌曲及幕後花絮。
 
 ## 曲目
 
@@ -23,8 +18,7 @@ Tokyo所舉行的，其演唱的歌曲及幕後花絮。
 12. 地下鐵（，*Metro*）
 13. 皮包內容（，*Crosswalk*）
 14. 丸內虐待狂（，*Marunouchi Sadistic*）
-15. [閃光少女](https://zh.wikipedia.org/wiki/閃光少女 "wikilink")（，*Put Your
-    Camera Down*）
+15. [閃光少女](https://zh.wikipedia.org/wiki/閃光少女 "wikilink")（，*Put Your Camera Down*）
 16. 私生活（，*Backstage,*）
 17. [修羅場](../Page/修羅場_\(東京事變單曲\).md "wikilink")（，*The Rat's-nest,*）
 18. 黑貓道（，*My way*）
@@ -136,8 +130,7 @@ Spa &amp; Treatment</p></td>
 
 ## 演唱會簡介
 
-《東京事變 live tour 2007 Spa &
-Treatment》為二期東京事變第二次日本巡迴演唱會，總共在七個城市舉辦十四場的演唱會，場場皆吸引爆滿的觀眾前往感受東京事變的魅力。演唱會演唱的曲目以第三張專輯《娛樂》為主。另外演唱會上演唱的新曲目「閃光少女」於演唱會結束後，立即以DVD的形式發行。
+《東京事變 live tour 2007 Spa & Treatment》為二期東京事變第二次日本巡迴演唱會，總共在七個城市舉辦十四場的演唱會，場場皆吸引爆滿的觀眾前往感受東京事變的魅力。演唱會演唱的曲目以第三張專輯《娛樂》為主。另外演唱會上演唱的新曲目「閃光少女」於演唱會結束後，立即以DVD的形式發行。
 
 ### 演出人員
 
@@ -248,12 +241,9 @@ Treatment》為二期東京事變第二次日本巡迴演唱會，總共在七�
 ## 演唱會報導
 
   - 電視演出
-      - 01/05(土) 「東京事變 live tour 2007 Spa &
-        Treatment」　富士電視台721（富士電視台TWO）　23:00～25:00\[10\]
-      - 02/05(火) 「東京事變 live tour 2007 Spa &
-        Treatment」　富士電視台（關東地區）　26:48～27:48\[11\]
-      - 03/01(土) 「東京事變 live tour 2007 Spa &
-        Treatment」　ＢＳ　19:00～20:55\[12\]
+      - 01/05(土) 「東京事變 live tour 2007 Spa & Treatment」　富士電視台721（富士電視台TWO）　23:00～25:00\[10\]
+      - 02/05(火) 「東京事變 live tour 2007 Spa & Treatment」　富士電視台（關東地區）　26:48～27:48\[11\]
+      - 03/01(土) 「東京事變 live tour 2007 Spa & Treatment」　ＢＳ　19:00～20:55\[12\]
 
 ## 注釋
 
@@ -261,8 +251,7 @@ Treatment》為二期東京事變第二次日本巡迴演唱會，總共在七�
 
 ### 參考資料
 
-[Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink")
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
+[Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
 
 1.
 

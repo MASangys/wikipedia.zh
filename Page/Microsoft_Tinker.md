@@ -1,16 +1,6 @@
-**Microsoft
-Tinker**是一個由[微軟發行的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[智力](https://zh.wikipedia.org/wiki/智力遊戲 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，其主要玩法是讓玩家控制一個小[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")，使它在每個關卡中突破各種障礙，到達終點處。它原始的發行日期為2008年9月23日，而被包含在[Windows
-Vista的](../Page/Windows_Vista.md "wikilink")[Windows Ultimate
-Extras中](../Page/Windows_Ultimate_Extras.md "wikilink")，共有60個關卡，其中的20個關卡為導覽關卡。另外，還有一個關卡編輯器供玩家下載，以讓玩家能夠自己創造關卡。
+**Microsoft Tinker**是一個由[微軟發行的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[智力](https://zh.wikipedia.org/wiki/智力遊戲 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，其主要玩法是讓玩家控制一個小[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")，使它在每個關卡中突破各種障礙，到達終點處。它原始的發行日期為2008年9月23日，而被包含在[Windows Vista的](../Page/Windows_Vista.md "wikilink")[Windows Ultimate Extras中](../Page/Windows_Ultimate_Extras.md "wikilink")，共有60個關卡，其中的20個關卡為導覽關卡。另外，還有一個關卡編輯器供玩家下載，以讓玩家能夠自己創造關卡。
 
-2009年12月15日，微軟發行了支援[Games for Windows
-LIVE的擴充版](https://zh.wikipedia.org/wiki/Games_for_Windows "wikilink")，並放在其網站上供玩免費下載。這個版本不僅可以讓非旗艦版、沒有[Windows
-Ultimate Extras的](../Page/Windows_Ultimate_Extras.md "wikilink")[Windows
-Vista使用](../Page/Windows_Vista.md "wikilink")，更可以支援[Windows
-XP](../Page/Windows_XP.md "wikilink")。除此之外，這個版本中包括了導覽關卡在內共有160個關卡，並且可以讓玩家獲得價值200[G的獎項](../Page/Xbox_Live.md "wikilink")，就像其它Xbox
-Live Arcade一樣。和所有支援Games for Windows LIVE的遊戲一樣，它仍然需要玩家註冊並登入[Windows Live
-ID才能進行遊戲](https://zh.wikipedia.org/wiki/Windows_Live_ID "wikilink")，不過原本包含在Windows
-Ultimate Extras的版本並沒有這項限制，且可以在電腦離線的狀況下進行遊戲。
+2009年12月15日，微軟發行了支援[Games for Windows LIVE的擴充版](https://zh.wikipedia.org/wiki/Games_for_Windows "wikilink")，並放在其網站上供玩免費下載。這個版本不僅可以讓非旗艦版、沒有[Windows Ultimate Extras的](../Page/Windows_Ultimate_Extras.md "wikilink")[Windows Vista使用](../Page/Windows_Vista.md "wikilink")，更可以支援[Windows XP](../Page/Windows_XP.md "wikilink")。除此之外，這個版本中包括了導覽關卡在內共有160個關卡，並且可以讓玩家獲得價值200[G的獎項](../Page/Xbox_Live.md "wikilink")，就像其它Xbox Live Arcade一樣。和所有支援Games for Windows LIVE的遊戲一樣，它仍然需要玩家註冊並登入[Windows Live ID才能進行遊戲](https://zh.wikipedia.org/wiki/Windows_Live_ID "wikilink")，不過原本包含在Windows Ultimate Extras的版本並沒有這項限制，且可以在電腦離線的狀況下進行遊戲。
 
 ## 玩法
 
@@ -167,26 +157,17 @@ Tinker是一個空間、環境性的智力遊戲。玩家必須要將機器人�
 
 ## 遊戲問題
 
-在支援[Games for Windows
-LIVE的版本中](https://zh.wikipedia.org/wiki/Games_for_Windows "wikilink")，玩家目前沒有辦法在第7大關的第19個關卡中拿到最佳標準星星，因為程式裡該關卡中「剩餘步數」的最低標準值被設定為-1。\[1\]就因為如此，玩家沒有辦法解開「完美獎項」（Perfection
-Achieved），少了這個關卡的星星，玩家就只能拿獎項分數200分中的175分。
+在支援[Games for Windows LIVE的版本中](https://zh.wikipedia.org/wiki/Games_for_Windows "wikilink")，玩家目前沒有辦法在第7大關的第19個關卡中拿到最佳標準星星，因為程式裡該關卡中「剩餘步數」的最低標準值被設定為-1。\[1\]就因為如此，玩家沒有辦法解開「完美獎項」（Perfection Achieved），少了這個關卡的星星，玩家就只能拿獎項分數200分中的175分。
 
 ## 參考資料
 
 ## 外部連結
 
-  - [Microsoft
-    Tinker玩法](http://windowshelp.microsoft.com/Windows/en-US/Help/629c52bd-257b-4d5b-a53a-c04d41262ee51033.mspx)
-  - [Microsoft Tinker - Play Your
-    Game](https://web.archive.org/web/20100210110703/http://www.microsoft.com/games/playyourgame/)
+  - [Microsoft Tinker玩法](http://windowshelp.microsoft.com/Windows/en-US/Help/629c52bd-257b-4d5b-a53a-c04d41262ee51033.mspx)
+  - [Microsoft Tinker - Play Your Game](https://web.archive.org/web/20100210110703/http://www.microsoft.com/games/playyourgame/)
   - [Tinker](https://web.archive.org/web/20100728223146/http://www.microsoft.com/games/en-us/Games/Pages/tinker.aspx)
-  - [Fuel
-    Games官方網站提供的關卡編輯器](https://web.archive.org/web/20100131233019/http://www.fuelgames.com/tinker)
+  - [Fuel Games官方網站提供的關卡編輯器](https://web.archive.org/web/20100131233019/http://www.fuelgames.com/tinker)
 
-[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
-[Category:電子桌上遊戲](https://zh.wikipedia.org/wiki/Category:電子桌上遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
+[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:電子桌上遊戲](https://zh.wikipedia.org/wiki/Category:電子桌上遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 
-1.  [Tinker Set 07 Level 19 - Games for Windows Live
-    (Forum)](http://forums.gamesforwindows.com/t/9512.aspx)
+1.  [Tinker Set 07 Level 19 - Games for Windows Live (Forum)](http://forums.gamesforwindows.com/t/9512.aspx)

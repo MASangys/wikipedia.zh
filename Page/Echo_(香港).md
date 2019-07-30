@@ -1,4 +1,4 @@
-**Echo**是[香港樂壇的二人女子](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")，由[李蕙敏與](../Page/李蕙敏.md "wikilink")[區海倫於](../Page/區海倫.md "wikilink")1989年組成。
+**Echo**是[香港](../Page/香港.md "wikilink")樂壇的二人女子[組合](../Page/組合.md "wikilink")，由[李蕙敏](../Page/李蕙敏.md "wikilink")與[區海倫](../Page/區海倫.md "wikilink")於1989年組成。
 
 二人於1992年**Echo**正式拆夥，區海倫到[無線電視當主持人](https://zh.wikipedia.org/wiki/無線電視 "wikilink")，而李蕙敏則到[商業電台當](https://zh.wikipedia.org/wiki/商業電台 "wikilink")[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")，後來又恢復歌手身分。
 
@@ -182,5 +182,4 @@
 | 903         |
 | **0**       |
 
-[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
+[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")

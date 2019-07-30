@@ -1,8 +1,6 @@
-「**TONE**」為[東方神起在](../Page/東方神起.md "wikilink")2011年9月28日於[日本發行的第](../Page/日本.md "wikilink")5張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
+「**TONE**」為[東方神起](../Page/東方神起.md "wikilink")在2011年9月28日於[日本](../Page/日本.md "wikilink")發行的第5張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 
-距離上一張錄音室專輯《[The Secret
-Code](../Page/The_Secret_Code.md "wikilink")》約兩年半之後發行。是二人體制下活動再開後的首張專輯。分《CD+DVD
-A》、《CD+DVD B》、《CD ONLY》三種形態發售。
+距離上一張錄音室專輯《[The Secret Code](../Page/The_Secret_Code.md "wikilink")》約兩年半之後發行。是二人體制下活動再開後的首張專輯。分《CD+DVD A》、《CD+DVD B》、《CD ONLY》三種形態發售。
 
 ## 专辑曲目
 
@@ -67,8 +65,7 @@ A》、《CD+DVD B》、《CD ONLY》三種形態發售。
 
 <!-- end list -->
 
-1.  2011.02.08 Event @幕张メッセ LIVE 映像（ MAXIMUM / Why?\[Keep Your Head
-    Down\]）
+1.  2011.02.08 Event @幕张メッセ LIVE 映像（ MAXIMUM / Why?\[Keep Your Head Down\]）
 2.  Superstar JK 撮影 Off Shot Movie
 3.  Album JK 撮影 Off Shot Movie
 
@@ -83,12 +80,10 @@ A》、《CD+DVD B》、《CD ONLY》三種形態發售。
         作词・作曲：Shinjiroh Inoue
 2.  B.U.T (BE-AU-TY)
       -
-        作詞：Yoo Young Jin、日本语词：Luna、作曲：Yoo Young Jin / Rlan Jhun /
-        Antwann Frost
+        作詞：Yoo Young Jin、日本语词：Luna、作曲：Yoo Young Jin / Rlan Jhun / Antwann Frost
 3.  I Think U Know
       -
-        作詞：Luna、作曲：Nermin Harambasic / Robin Jenssen / Ronny Svendsen /
-        Anne Judith Wik
+        作詞：Luna、作曲：Nermin Harambasic / Robin Jenssen / Ronny Svendsen / Anne Judith Wik
 4.  Duet
       -
         作詞・作曲：井上慎二郎
@@ -103,8 +98,7 @@ A》、《CD+DVD B》、《CD ONLY》三種形態發售。
         作词：井上慎二郎、作曲：the White N3rd / ポ一ル ルイス
 8.  Why? (Keep Your Head Down)
       -
-        作词：Yoo Young Jin、日本语词：Luna、作曲：Yoo Han Jin / Yoo Young Jin、编曲：Yoo
-        Han Jin
+        作词：Yoo Young Jin、日本语词：Luna、作曲：Yoo Han Jin / Yoo Young Jin、编曲：Yoo Han Jin
         31st单曲A面
         第5张韩语专辑《왜(Keep Your Head Down 》同名主打歌的日语版本
         [关西电视台](https://zh.wikipedia.org/wiki/关西电视台 "wikilink")、[富士电视台电视剧](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《[美丽邻人](https://zh.wikipedia.org/wiki/美丽邻人 "wikilink")》主题歌
@@ -117,14 +111,10 @@ A》、《CD+DVD B》、《CD ONLY》三種形態發售。
       -
         作词：Kim Boomin、日本语词：Luna、作曲・编曲：Hitchhiker
         32nd单曲B面
-        组合在2012年发行的第6张韩语专辑《[CATCH
-        ME](../Page/CATCH_ME.md "wikilink")》中有收录这首歌的韩语版本
+        组合在2012年发行的第6张韩语专辑《[CATCH ME](../Page/CATCH_ME.md "wikilink")》中有收录这首歌的韩语版本
 11. Superstar
       -
-        作词：Luna / Lars Halvor Jensen / Johannes Joergensen / Drew Ryan
-        Scott / Lindy Robbins、作曲：Lars Halvor Jensen / Johannes
-        Joergensen / Drew Ryan Scott / Lindy Robbins、编曲：UTA for Tiny
-        Voice Production
+        作词：Luna / Lars Halvor Jensen / Johannes Joergensen / Drew Ryan Scott / Lindy Robbins、作曲：Lars Halvor Jensen / Johannes Joergensen / Drew Ryan Scott / Lindy Robbins、编曲：UTA for Tiny Voice Production
         32nd单曲A面
 12. シアワセ色の花
       -
@@ -177,7 +167,4 @@ A》、《CD+DVD B》、《CD ONLY》三種形態發售。
 
 
 
-[Category:東方神起專輯](https://zh.wikipedia.org/wiki/Category:東方神起專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:2011年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:東方神起專輯](https://zh.wikipedia.org/wiki/Category:東方神起專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:2011年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯月榜冠軍作品 "wikilink") [Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")

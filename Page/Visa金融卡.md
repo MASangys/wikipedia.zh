@@ -1,5 +1,4 @@
-**Visa金融卡**（），是一種[借記卡](https://zh.wikipedia.org/wiki/借記卡 "wikilink")，在[美國稱為](https://zh.wikipedia.org/wiki/美國 "wikilink")[支票卡](https://zh.wikipedia.org/wiki/支票卡 "wikilink")（cheque
-card），是一種取代[現金的](https://zh.wikipedia.org/wiki/現金 "wikilink")[塑膠貨幣](https://zh.wikipedia.org/wiki/塑膠貨幣 "wikilink")。
+**Visa金融卡**（），是一種[借記卡](https://zh.wikipedia.org/wiki/借記卡 "wikilink")，在[美國稱為](https://zh.wikipedia.org/wiki/美國 "wikilink")[支票卡](https://zh.wikipedia.org/wiki/支票卡 "wikilink")（cheque card），是一種取代[現金的](https://zh.wikipedia.org/wiki/現金 "wikilink")[塑膠貨幣](https://zh.wikipedia.org/wiki/塑膠貨幣 "wikilink")。
 
 Visa金融卡不是[信用卡](../Page/信用卡.md "wikilink")，是[ATM卡及](../Page/自動櫃員機.md "wikilink")[Visa卡的結合](https://zh.wikipedia.org/wiki/Visa卡 "wikilink")，可以在[自動櫃員機](../Page/自動櫃員機.md "wikilink")（ATM）提款，也可以直接在商店刷卡消費。刷卡時直接由存款帳戶扣款，帳戶有多少錢，才能刷多少錢，不會產生超刷、[透支或動用循環利息的狀況](../Page/銀行透支.md "wikilink")。
 
@@ -11,8 +10,7 @@ Visa金融卡不是[信用卡](../Page/信用卡.md "wikilink")，是[ATM卡及]
 
 ## 卡片設計
 
-Visa金融卡的卡片設計與Visa信用卡一樣，包括Visa標誌與16碼卡號。和信用卡不同的是，這是一個存款帳戶的產品，所以卡片上還會有銀行帳號。同時，很多發卡機構都會在卡片正面或背面加上「Visa金融卡」、「Visa
-Debit」或「Debit Card」字樣，作為區別。
+Visa金融卡的卡片設計與Visa信用卡一樣，包括Visa標誌與16碼卡號。和信用卡不同的是，這是一個存款帳戶的產品，所以卡片上還會有銀行帳號。同時，很多發卡機構都會在卡片正面或背面加上「Visa金融卡」、「Visa Debit」或「Debit Card」字樣，作為區別。
 
 芯片类的Visa金融卡与信用卡一样使用[EMV](../Page/EMV.md "wikilink")芯片。
 
@@ -69,8 +67,7 @@ Visa金融卡在全世界所有接受Visa信用卡的商店（包括一般實體
 
 ### 香港及澳门
 
-在[香港](../Page/香港.md "wikilink")和[澳門](../Page/澳門.md "wikilink")，Visa借記卡稱為「Visa扣-{}-賬卡」（前称：Visa户-{}-口扣-{}-賬卡）。目前在[香港](../Page/香港.md "wikilink")只有少數银行发行，其中[恒生銀行](../Page/恒生銀行.md "wikilink")發行的為「enJoy消費卡」，與其他enJoy信用卡不同，此卡不設[Visa
-payWave功能](../Page/Visa_payWave.md "wikilink")；而[花旗銀行的卡面上印有PLATINUM字樣](https://zh.wikipedia.org/wiki/花旗銀行 "wikilink")，現有花旗銀行客戶在2013年6月開始被陸續分階段更換該卡，直至到2014年3月31日\[2\]；[富邦銀行之Visa扣](https://zh.wikipedia.org/wiki/富邦銀行 "wikilink")-{}-賬卡將於2013年7月31日全面停止使用，該銀行亦有意於2013年12月31日停止發行一般提款卡並於2014年4月1日全面停用一般提款卡\[3\]。而在[澳門](../Page/澳門.md "wikilink")亦只有[澳門華僑永亨銀行](../Page/澳門華僑永亨銀行.md "wikilink")有發行「Visa扣-{}-賬卡」\[4\]。
+在[香港](../Page/香港.md "wikilink")和[澳門](../Page/澳門.md "wikilink")，Visa借記卡稱為「Visa扣-{}-賬卡」（前称：Visa户-{}-口扣-{}-賬卡）。目前在[香港](../Page/香港.md "wikilink")只有少數银行发行，其中[恒生銀行](../Page/恒生銀行.md "wikilink")發行的為「enJoy消費卡」，與其他enJoy信用卡不同，此卡不設[Visa payWave功能](../Page/Visa_payWave.md "wikilink")；而[花旗銀行的卡面上印有PLATINUM字樣](https://zh.wikipedia.org/wiki/花旗銀行 "wikilink")，現有花旗銀行客戶在2013年6月開始被陸續分階段更換該卡，直至到2014年3月31日\[2\]；[富邦銀行之Visa扣](https://zh.wikipedia.org/wiki/富邦銀行 "wikilink")-{}-賬卡將於2013年7月31日全面停止使用，該銀行亦有意於2013年12月31日停止發行一般提款卡並於2014年4月1日全面停用一般提款卡\[3\]。而在[澳門](../Page/澳門.md "wikilink")亦只有[澳門華僑永亨銀行](../Page/澳門華僑永亨銀行.md "wikilink")有發行「Visa扣-{}-賬卡」\[4\]。
 
 ## 參見
 
@@ -78,14 +75,9 @@ payWave功能](../Page/Visa_payWave.md "wikilink")；而[花旗銀行的卡面�
 
 ## 參考文獻
 
-[Category:借记卡](https://zh.wikipedia.org/wiki/Category:借记卡 "wikilink")
-[Category:借记卡发卡行](https://zh.wikipedia.org/wiki/Category:借记卡发卡行 "wikilink")
+[Category:借记卡](https://zh.wikipedia.org/wiki/Category:借记卡 "wikilink") [Category:借记卡发卡行](https://zh.wikipedia.org/wiki/Category:借记卡发卡行 "wikilink")
 
 1.
-2.
-    自動櫃員機|url=[https://www.citibank.com.hk/chinese/banking/atmchipcard.htm|accessdate=2019-07-13|work=Citi](https://www.citibank.com.hk/chinese/banking/atmchipcard.htm%7Caccessdate=2019-07-13%7Cwork=Citi)
-    Hong Kong|language=en}}
-3.  [富邦銀行magi©money manager
-    戶口扣賬卡](http://www.fubonbank.com.hk/web/html/dp_mmmdr01_c.html)
-
+2.   自動櫃員機|url=[https://www.citibank.com.hk/chinese/banking/atmchipcard.htm|accessdate=2019-07-13|work=Citi](https://www.citibank.com.hk/chinese/banking/atmchipcard.htm%7Caccessdate=2019-07-13%7Cwork=Citi) Hong Kong|language=en}}
+3.  [富邦銀行magi©money manager 戶口扣賬卡](http://www.fubonbank.com.hk/web/html/dp_mmmdr01_c.html)
 4.

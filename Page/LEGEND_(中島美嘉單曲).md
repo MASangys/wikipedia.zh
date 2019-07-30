@@ -1,4 +1,4 @@
-《**LEGEND**》，[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[中島美嘉的第](../Page/中島美嘉.md "wikilink")13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2004年10月20日發行。
+《**LEGEND**》，[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[中島美嘉](../Page/中島美嘉.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2004年10月20日發行。
 
 ## 概述
 
@@ -12,8 +12,7 @@
 
 1.  **LEGEND（Main）**
       - 作曲：岡野泰也／編曲：COLDFEET
-      - [索尼](../Page/索尼.md "wikilink")「[MD
-        Walkman](https://zh.wikipedia.org/wiki/Walkman#MD_Walkman_系列 "wikilink")」廣告歌
+      - [索尼](../Page/索尼.md "wikilink")「[MD Walkman](https://zh.wikipedia.org/wiki/Walkman#MD_Walkman_系列 "wikilink")」廣告歌
 2.  **LEGEND（Original）**
       - 編曲：富田惠一
 3.  **FAKE**
@@ -26,14 +25,10 @@
 
 ## 資料來源
 
-  - [Sony Music Online Japan : 中島美嘉 :
-    LEGEND](http://www.sonymusic.co.jp/Music/Arch/AI/MikaNakashima/AICL-1693/index.html)
+  - [Sony Music Online Japan : 中島美嘉 : LEGEND](http://www.sonymusic.co.jp/Music/Arch/AI/MikaNakashima/AICL-1693/index.html)
 
 ## 外部連結
 
   - [BARKSによるインタビュー](http://www.barks.jp/feature/?id=1000003127)
 
-[Category:中島美嘉歌曲](https://zh.wikipedia.org/wiki/Category:中島美嘉歌曲 "wikilink")
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:中島美嘉歌曲](https://zh.wikipedia.org/wiki/Category:中島美嘉歌曲 "wikilink") [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")

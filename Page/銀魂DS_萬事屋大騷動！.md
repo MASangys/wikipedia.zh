@@ -1,7 +1,6 @@
 　
 
-**銀魂DS 萬事屋大騷動！**（日文原名： ぎんたま
-よろずやだいそうどう）是根據[空知英秋的人氣](../Page/空知英秋.md "wikilink")​​動漫作品《[銀魂](https://zh.wikipedia.org/wiki/銀魂 "wikilink")》改編的。遊戲的主線是，故事主人公[坂田銀时和他的好友們一起為了償還從房東](https://zh.wikipedia.org/wiki/銀魂角色列表#萬事屋 "wikilink")[登勢借來的](https://zh.wikipedia.org/wiki/登勢 "wikilink")100萬元而努力工作。遊戲以模擬銀时這些人的打工生活展開。如果滿足某些條件後，也能操縱[真選組等的其他角色](https://zh.wikipedia.org/wiki/真選組 "wikilink")。
+**銀魂DS 萬事屋大騷動！**（日文原名： ぎんたま よろずやだいそうどう）是根據[空知英秋](../Page/空知英秋.md "wikilink")的人氣​​動漫作品《[銀魂](https://zh.wikipedia.org/wiki/銀魂 "wikilink")》改編的。遊戲的主線是，故事主人公[坂田銀时和他的好友們一起為了償還從房東](https://zh.wikipedia.org/wiki/銀魂角色列表#萬事屋 "wikilink")[登勢借來的](https://zh.wikipedia.org/wiki/登勢 "wikilink")100萬元而努力工作。遊戲以模擬銀时這些人的打工生活展開。如果滿足某些條件後，也能操縱[真選組等的其他角色](https://zh.wikipedia.org/wiki/真選組 "wikilink")。
 
 30種以上的迷你遊戲及動作遊戲！ 評級：
 
@@ -87,12 +86,6 @@
 
   - [BANDAI游戏官方網站](http://www.bandaigames.channel.or.jp/list/ds_gintama/)
 
-  - [Nintendo SOFTWARE
-    INFO.](https://www.nintendo.co.jp/ds/software/agtj/)
+  - [Nintendo SOFTWARE INFO.](https://www.nintendo.co.jp/ds/software/agtj/)
 
-[Category:銀魂](https://zh.wikipedia.org/wiki/Category:銀魂 "wikilink")
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink")
-[Category:生活模擬遊戲](https://zh.wikipedia.org/wiki/Category:生活模擬遊戲 "wikilink")
-[Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
+[Category:銀魂](https://zh.wikipedia.org/wiki/Category:銀魂 "wikilink") [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink") [Category:生活模擬遊戲](https://zh.wikipedia.org/wiki/Category:生活模擬遊戲 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")

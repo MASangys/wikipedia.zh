@@ -1,18 +1,16 @@
-《**三國殺Online**》是基于纸牌游戏[三国杀的一款](../Page/三国杀.md "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")。
+《**三國殺Online**》是基于纸牌游戏[三国杀](../Page/三国杀.md "wikilink")的一款[网络游戏](../Page/网络游戏.md "wikilink")。
 
 ## 发展史
 
   - 本作最初由[游卡桌游授权](https://zh.wikipedia.org/wiki/游卡桌游 "wikilink")[荣耀科艺开发并由](https://zh.wikipedia.org/wiki/荣耀科艺 "wikilink")[游卡桌游运营](https://zh.wikipedia.org/wiki/游卡桌游 "wikilink")，于2008年12月11日开始[封测](https://zh.wikipedia.org/wiki/封测 "wikilink")\[1\]。
-  - 2009年12月27日，[盛大网络旗下全资子公司](../Page/盛大网络.md "wikilink")[边锋游戏正式接手运营](https://zh.wikipedia.org/wiki/边锋游戏 "wikilink")《三國殺Online》，在原版[客户端游戏基础上增加网页版游戏](https://zh.wikipedia.org/wiki/客户端游戏 "wikilink")，分为[Adobe
-    AIR桌面版和](../Page/Adobe_AIR.md "wikilink")[网页版两个版本](../Page/网页游戏.md "wikilink")，并展开[内测](https://zh.wikipedia.org/wiki/内测 "wikilink")\[2\]。
+  - 2009年12月27日，[盛大网络](../Page/盛大网络.md "wikilink")旗下全资子公司[边锋游戏正式接手运营](https://zh.wikipedia.org/wiki/边锋游戏 "wikilink")《三國殺Online》，在原版[客户端游戏基础上增加网页版游戏](https://zh.wikipedia.org/wiki/客户端游戏 "wikilink")，分为[Adobe AIR桌面版和](../Page/Adobe_AIR.md "wikilink")[网页版两个版本](../Page/网页游戏.md "wikilink")，并展开[内测](https://zh.wikipedia.org/wiki/内测 "wikilink")\[2\]。
   - 2011年3月29日，游戏正式宣布更新军争篇，版本号升至2.0。由于客户端版本要在4月28日才能开放新版，因此老客户端版在此期间无法登录游戏。官方为此专门开设老版客户端怀旧区，直到新版客户端发布。
-  - 2011年7月22日，本作宣布停止开发客户端版，将全部精力转移到网页版和[Adobe
-    AIR桌面版的开发维护上](../Page/Adobe_AIR.md "wikilink")。
-  - 2012年1月19日，台湾游戏厂商[遊戲新幹線宣布取得本作台港澳代理权](../Page/遊戲新幹線.md "wikilink")\[3\]，预计2月开始营运，並在2月21日開始公測\[4\]。
-  - 2012年4月9日，浙报传媒公布了总价35亿的收购方案，拟收购盛大集团旗下[盛大网络旗下全资子公司杭州边锋和上海浩方两家游戏公司](../Page/盛大网络.md "wikilink")100%股权。2012年12月19日，浙报传媒公布了二次修订后方案，拟通过定向增发与自筹资金方式收购杭州边锋、上海浩方各100%股权。2013年1月25日，浙报传媒集团股份有限公司用于收购边锋网络和浩方在线100%股权非公开发行A股股票的申请获得中国证券监督管理委员会发行审核委员会通过。自此，三國殺Online已不隶属于盛大集团旗下产品。但目前[边锋游戏和](https://zh.wikipedia.org/wiki/边锋游戏 "wikilink")[盛大网络仍属平台合作关系](../Page/盛大网络.md "wikilink")，共享盛大通行证帐号、客户服务等系统。
+  - 2011年7月22日，本作宣布停止开发客户端版，将全部精力转移到网页版和[Adobe AIR桌面版的开发维护上](../Page/Adobe_AIR.md "wikilink")。
+  - 2012年1月19日，台湾游戏厂商[遊戲新幹線](../Page/遊戲新幹線.md "wikilink")宣布取得本作台港澳代理权\[3\]，预计2月开始营运，並在2月21日開始公測\[4\]。
+  - 2012年4月9日，浙报传媒公布了总价35亿的收购方案，拟收购盛大集团旗下[盛大网络](../Page/盛大网络.md "wikilink")旗下全资子公司杭州边锋和上海浩方两家游戏公司100%股权。2012年12月19日，浙报传媒公布了二次修订后方案，拟通过定向增发与自筹资金方式收购杭州边锋、上海浩方各100%股权。2013年1月25日，浙报传媒集团股份有限公司用于收购边锋网络和浩方在线100%股权非公开发行A股股票的申请获得中国证券监督管理委员会发行审核委员会通过。自此，三國殺Online已不隶属于盛大集团旗下产品。但目前[边锋游戏和](https://zh.wikipedia.org/wiki/边锋游戏 "wikilink")[盛大网络](../Page/盛大网络.md "wikilink")仍属平台合作关系，共享盛大通行证帐号、客户服务等系统。
   - 2013年3月7日，[边锋游戏宣布](https://zh.wikipedia.org/wiki/边锋游戏 "wikilink")，因业务发展需要，2013年12月31日起《三國殺Online》将于停止盛大点券在游戏内的流通使用而改用边锋集团的游戏货币。
   - 2013年3月19日，游戏货币“铜钱”正式被取消，同时新增游戏货币“银两”，更新后玩家剩余的旧游戏货币可按比例兑换为新游戏货币。\[5\]
-  - 2014年6月30日，[遊戲新幹線宣布](../Page/遊戲新幹線.md "wikilink")，台港澳版本的《三國殺Online》将于2014年7月31日停止营运。\[6\]
+  - 2014年6月30日，[遊戲新幹線](../Page/遊戲新幹線.md "wikilink")宣布，台港澳版本的《三國殺Online》将于2014年7月31日停止营运。\[6\]
   - 2016年1月20日，据浙报传媒发布的官方公告，集团将分拆三国杀业务，拟由杭州边锋与三国杀业务管理团队共同成立合资公司杭州游卡网络技术有限公司(以下简称杭州游卡)，独立运作三国杀桌游及相关业务(包含三国杀桌游、三国杀OL、手机三国杀、三国杀英雄传等)。
 
 ## 游戏模式
@@ -52,7 +50,7 @@
 
   - 由于网络游戏的特殊性，三國殺Online的可选武将数量，和本作的桌游版规则略有不同。
       - 主公：9+3名
-      - 忠臣：3名
+      - 忠臣：4名
       - 反贼：3名
       - 内-{奸}-：5名
       - 国战：4名
@@ -95,18 +93,7 @@
 
 ## 注释
 
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:大型多人在线游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线游戏 "wikilink")
-[Category:电子卡牌游戏](https://zh.wikipedia.org/wiki/Category:电子卡牌游戏 "wikilink")
-[Category:三国杀](https://zh.wikipedia.org/wiki/Category:三国杀 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:基于浏览器的多人在线游戏](https://zh.wikipedia.org/wiki/Category:基于浏览器的多人在线游戏 "wikilink")
-[Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
-[Category:原生中文游戏](https://zh.wikipedia.org/wiki/Category:原生中文游戏 "wikilink")
-[Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink")
-[Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:大型多人在线游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线游戏 "wikilink") [Category:电子卡牌游戏](https://zh.wikipedia.org/wiki/Category:电子卡牌游戏 "wikilink") [Category:三国杀](https://zh.wikipedia.org/wiki/Category:三国杀 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:基于浏览器的多人在线游戏](https://zh.wikipedia.org/wiki/Category:基于浏览器的多人在线游戏 "wikilink") [Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink") [Category:原生中文游戏](https://zh.wikipedia.org/wiki/Category:原生中文游戏 "wikilink") [Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink") [Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink")
 
 1.
 

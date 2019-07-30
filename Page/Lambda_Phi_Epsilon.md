@@ -1,21 +1,10 @@
-**Lambda Phi
-Epsilon**（或稱**ΛΦΕ**、**LPhiE**、**LFE**、**Lambdas**、**人中王**）是個國際性、以社交為主的亞裔[兄弟會](https://zh.wikipedia.org/wiki/兄弟會 "wikilink")。該會被多數[希臘組織及聯盟承認](../Page/兄弟會與姊妹會.md "wikilink")。其主要活動據點在美國及加拿大。Lambda
-Phi
-Epsilon的主要目標包含用積極參與慈善事業的方式來回饋社區、促進亞裔認同感、鼓勵學術研究、以及確保校園內[亞裔美國人的權益](../Page/亞裔美國人.md "wikilink")。Lambda
-Phi Epsilon Fraternity, Inc.為目前最大的亞裔兄弟會，在北美擁有著約50個分部並且持續增加中。\[1\]
+**Lambda Phi Epsilon**（或稱**ΛΦΕ**、**LPhiE**、**LFE**、**Lambdas**、**人中王**）是個國際性、以社交為主的亞裔[兄弟會](https://zh.wikipedia.org/wiki/兄弟會 "wikilink")。該會被多數[希臘組織及聯盟承認](../Page/兄弟會與姊妹會.md "wikilink")。其主要活動據點在美國及加拿大。Lambda Phi Epsilon的主要目標包含用積極參與慈善事業的方式來回饋社區、促進亞裔認同感、鼓勵學術研究、以及確保校園內[亞裔美國人](../Page/亞裔美國人.md "wikilink")的權益。Lambda Phi Epsilon Fraternity, Inc.為目前最大的亞裔兄弟會，在北美擁有著約50個分部並且持續增加中。\[1\]
 
-Lambda Phi
-Epsilon（ΛΦΕ）於1981年2月25日創立。會色為[皇室藍和白色](https://zh.wikipedia.org/wiki/皇室藍 "wikilink")。吉祥物為龍（非官方）。總部位於美國加州洛杉磯的Kerckhoff
-Steps。
+Lambda Phi Epsilon（ΛΦΕ）於1981年2月25日創立。會色為[皇室藍和白色](https://zh.wikipedia.org/wiki/皇室藍 "wikilink")。吉祥物為龍（非官方）。總部位於美國加州洛杉磯的Kerckhoff Steps。
 
 ## 歷史
 
-有鑒於那時的亞裔兄弟會和姊妹會因只招收亞裔會員而只被承認為服務性社團，以Craig
-Ishigo為首的19位[加州大學洛杉磯分校](https://zh.wikipedia.org/wiki/洛杉磯加利福尼亞大學 "wikilink")（UCLA）學生在1981年2月25日創立了Lambda
-Phi
-Epsilon以期作出改變。當初創辦的目的為提升亞裔社團的品質並提供一個受[北美兄弟會聯盟](https://zh.wikipedia.org/wiki/北美兄弟會聯盟 "wikilink")（IFC）及其他[希臘組織承認的兄弟會](../Page/兄弟會與姊妹會.md "wikilink")。Lambda
-Phi
-Epsilon雖然如同其他亞裔組織一樣的注重亞裔相關的事務，但卻不以種族背景作為入會的門檻。該會創辦的願景是讓其會員成為各自族群的領導者，進而成為聯繫各族群的共通組織。\[2\]
+有鑒於那時的亞裔兄弟會和姊妹會因只招收亞裔會員而只被承認為服務性社團，以Craig Ishigo為首的19位[加州大學洛杉磯分校](https://zh.wikipedia.org/wiki/洛杉磯加利福尼亞大學 "wikilink")（UCLA）學生在1981年2月25日創立了Lambda Phi Epsilon以期作出改變。當初創辦的目的為提升亞裔社團的品質並提供一個受[北美兄弟會聯盟](https://zh.wikipedia.org/wiki/北美兄弟會聯盟 "wikilink")（IFC）及其他[希臘組織承認的兄弟會](../Page/兄弟會與姊妹會.md "wikilink")。Lambda Phi Epsilon雖然如同其他亞裔組織一樣的注重亞裔相關的事務，但卻不以種族背景作為入會的門檻。該會創辦的願景是讓其會員成為各自族群的領導者，進而成為聯繫各族群的共通組織。\[2\]
 
 以下為Lambda Phi Epsilon創立時期的首期會員:
 
@@ -112,8 +101,7 @@ Epsilon雖然如同其他亞裔組織一樣的注重亞裔相關的事務，但�
 
 ## 外部連結
 
-  - [Lambda Phi Epsilon National Fraternity,
-    Inc](http://www.lambdaphiepsilon.com/)
+  - [Lambda Phi Epsilon National Fraternity, Inc](http://www.lambdaphiepsilon.com/)
 
   - [Asian American Donor Program](http://www.aadp.org/)
 
@@ -121,14 +109,12 @@ Epsilon雖然如同其他亞裔組織一樣的注重亞裔相關的事務，但�
 
   - [Cammy Lee Leukemia Foundation](http://www.cllf.org/)
 
-  - [In Memory of Phanta Jack Phoummarath/Educational
-    Video](http://inmemoryofjack.com/)
+  - [In Memory of Phanta Jack Phoummarath/Educational Video](http://inmemoryofjack.com/)
 
   - UGA Chapter
 
   -
-[Category:學生組織](https://zh.wikipedia.org/wiki/Category:學生組織 "wikilink")
-[Category:男性](https://zh.wikipedia.org/wiki/Category:男性 "wikilink")
+[Category:學生組織](https://zh.wikipedia.org/wiki/Category:學生組織 "wikilink") [Category:男性](https://zh.wikipedia.org/wiki/Category:男性 "wikilink")
 
 1.
 2.

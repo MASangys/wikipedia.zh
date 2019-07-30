@@ -1,5 +1,4 @@
-[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**ESTJ**(外倾/感觉/思考/判断)是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")。\[1\]在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")[监督者](https://zh.wikipedia.org/wiki/监督者_\(角色变异\) "wikilink")，为[监护人的四种类型之一](https://zh.wikipedia.org/wiki/监护人_\(气质类型\) "wikilink")，大约占人口的8%-12%。.\[2\]\[3\]
+[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg") **ESTJ**(外倾/感觉/思考/判断)是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")。\[1\]在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")[监督者](https://zh.wikipedia.org/wiki/监督者_\(角色变异\) "wikilink")，为[监护人的四种类型之一](https://zh.wikipedia.org/wiki/监护人_\(气质类型\) "wikilink")，大约占人口的8%-12%。.\[2\]\[3\]
 
 ## MBTI偏好
 
@@ -24,8 +23,7 @@ ESTJ们脚踏实地而实事求是，天生擅长于技术或商业。虽然对�
 
 ## 认知功能
 
-[George-W-Bush.jpeg](https://zh.wikipedia.org/wiki/File:George-W-Bush.jpeg "fig:George-W-Bush.jpeg")是个ESTJ。\[8\]
-但是，根据MBTI伦理应用的指导方针，只有那些参加了类型评估的人能决定他们最适合于哪一型。\[9\]\]\]
+[George-W-Bush.jpeg](https://zh.wikipedia.org/wiki/File:George-W-Bush.jpeg "fig:George-W-Bush.jpeg")是个ESTJ。\[8\] 但是，根据MBTI伦理应用的指导方针，只有那些参加了类型评估的人能决定他们最适合于哪一型。\[9\]\]\]
 
 ### 主导功能：外倾思考（Te）
 
@@ -70,14 +68,11 @@ Fe寻找社会上的联系，并用礼貌、体贴、得体的举止营造和谐
 
 ## 外部链接
 
-  - [Keirsey Supervisor Guardian
-    (ESTJ)](http://www.personalityzone.com/view/temperament/supervisor.html)
+  - [Keirsey Supervisor Guardian (ESTJ)](http://www.personalityzone.com/view/temperament/supervisor.html)
   - [TypeLogic ESTJ](http://typelogic.com/estj.html)
   - [Personality Page ESTJ](http://www.personalitypage.com/ESTJ.html)
-  - [The Myers & Briggs Foundation: The 16 MBTI
-    Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
-  - [PersonalityDesk: ESTJ
-    Profile](https://web.archive.org/web/20090827111015/http://www.personalitydesk.com/estj-type-description.php)
+  - [The Myers & Briggs Foundation: The 16 MBTI Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
+  - [PersonalityDesk: ESTJ Profile](https://web.archive.org/web/20090827111015/http://www.personalitydesk.com/estj-type-description.php)
 
 [Category:性格分类](https://zh.wikipedia.org/wiki/Category:性格分类 "wikilink")
 

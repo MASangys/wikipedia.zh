@@ -1,4 +1,4 @@
-**WASP-5**是一颗[视星等为](../Page/视星等.md "wikilink")12的[黄矮星](https://zh.wikipedia.org/wiki/黄矮星 "wikilink")，距离地球大约910光年，位于[凤凰座中](../Page/凤凰座.md "wikilink")\[1\]。
+**WASP-5**是一颗[视星等](../Page/视星等.md "wikilink")为12的[黄矮星](https://zh.wikipedia.org/wiki/黄矮星 "wikilink")，距离地球大约910光年，位于[凤凰座](../Page/凤凰座.md "wikilink")中\[1\]。
 
 ## 行星系
 
@@ -15,15 +15,12 @@
 
 ## 外部链接
 
-  - [UK planet hunters announce three new
-    finds](http://www.superwasp.org/press_release2/WASP2007_national_pressV5.pdf)
-    (PDF requires acrobat reader)
+  - [UK planet hunters announce three new finds](http://www.superwasp.org/press_release2/WASP2007_national_pressV5.pdf) (PDF requires acrobat reader)
 
   - ['''SuperWASP Homepage](http://www.superwasp.org)
 
   -
-[Category:凤凰座](https://zh.wikipedia.org/wiki/Category:凤凰座 "wikilink")
-[Category:黄矮星](https://zh.wikipedia.org/wiki/Category:黄矮星 "wikilink")
+[Category:凤凰座](https://zh.wikipedia.org/wiki/Category:凤凰座 "wikilink") [Category:黄矮星](https://zh.wikipedia.org/wiki/Category:黄矮星 "wikilink")
 
 1.
 2.   ([web Preprint](http://xxx.lanl.gov/abs/0801.1685))

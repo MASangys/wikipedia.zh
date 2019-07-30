@@ -1,8 +1,6 @@
-**超級機器人大戰ORIGINAL
-GENERATION塑膠模型系列**是將[萬代南夢宮遊戲所製作並販賣的](https://zh.wikipedia.org/wiki/萬代南夢宮遊戲 "wikilink")[電玩遊戲](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")[超級機器人大戰ORIGINAL
-GENERATION系列中登場的原創機器人以塑膠組裝模型的形式立體化的系列](https://zh.wikipedia.org/wiki/超級機器人大戰ORIGINAL_GENERATION "wikilink")。
+**超級機器人大戰ORIGINAL GENERATION塑膠模型系列**是將[萬代南夢宮遊戲所製作並販賣的](https://zh.wikipedia.org/wiki/萬代南夢宮遊戲 "wikilink")[電玩遊戲](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")[超級機器人大戰ORIGINAL GENERATION系列中登場的原創機器人以塑膠組裝模型的形式立體化的系列](https://zh.wikipedia.org/wiki/超級機器人大戰ORIGINAL_GENERATION "wikilink")。
 
-塑膠模型的開發以及販售是由[壽屋所進行的](../Page/壽屋.md "wikilink")。
+塑膠模型的開發以及販售是由[壽屋](../Page/壽屋.md "wikilink")所進行的。
 
 ## 概要
 
@@ -97,9 +95,7 @@ GENERATION系列中登場的原創機器人以塑膠組裝模型的形式立體�
 
 ## 絕版商品
 
-於2006年末系列中凶鳥的商品全部絕版，僅剩下店家所擁有的庫存品能夠購買。另一方面，於2006年12月所發售的「S.R.G-S-013
-RTX-011AMB 凶鳥格鬥型」、「S.R.G-S-014 RTX-010-01
-凶鳥Mk-Ⅱ」變成以初回生產限定品的形式販售，公式網頁上的相關頁面、店面的宣傳海報以及於電視動畫《超級機器人大戰OG-聖戰-》等其他發行媒體也發生了撤除、替換等相似情形，官方對此完全沒有正式的回應，其理由完全不明。
+於2006年末系列中凶鳥的商品全部絕版，僅剩下店家所擁有的庫存品能夠購買。另一方面，於2006年12月所發售的「S.R.G-S-013 RTX-011AMB 凶鳥格鬥型」、「S.R.G-S-014 RTX-010-01 凶鳥Mk-Ⅱ」變成以初回生產限定品的形式販售，公式網頁上的相關頁面、店面的宣傳海報以及於電視動畫《超級機器人大戰OG-聖戰-》等其他發行媒體也發生了撤除、替換等相似情形，官方對此完全沒有正式的回應，其理由完全不明。
 
 ## 參考
 
@@ -107,18 +103,13 @@ RTX-011AMB 凶鳥格鬥型」、「S.R.G-S-014 RTX-010-01
 
   - [OG塑膠組裝模型系列公式網站](https://web.archive.org/web/20100805062753/http://www.kotobukiya.co.jp/kotobukiya/pk_srw.shtml)
 
-[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink")
-[Category:比例模型](https://zh.wikipedia.org/wiki/Category:比例模型 "wikilink")
-[Category:玩具](https://zh.wikipedia.org/wiki/Category:玩具 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink") [Category:比例模型](https://zh.wikipedia.org/wiki/Category:比例模型 "wikilink") [Category:玩具](https://zh.wikipedia.org/wiki/Category:玩具 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.  電擊嗜好流行月刊 台灣中文版 2003年8月號
 
 2.  S.R.G-S-002 RTX-009 凶鳥009包裝盒
 
-3.
-    [塑膠模型製品價格變更告知](http://www.kotobukiya.co.jp/kotobukiya/topics/080416/)
-
+3.   [塑膠模型製品價格變更告知](http://www.kotobukiya.co.jp/kotobukiya/topics/080416/)
 
 4.  電擊嗜好流行月刊 台灣中文版 2006年5月號
 

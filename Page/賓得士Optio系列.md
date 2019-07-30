@@ -1,4 +1,4 @@
-**賓得士Optio數位相機系列**是[賓得士旗下的](../Page/賓得士.md "wikilink")[數碼相機系列](https://zh.wikipedia.org/wiki/數碼相機 "wikilink")。
+**賓得士Optio數位相機系列**是[賓得士](../Page/賓得士.md "wikilink")旗下的[數碼相機系列](https://zh.wikipedia.org/wiki/數碼相機 "wikilink")。
 
 ## 旗下產品
 
@@ -98,5 +98,4 @@
 
 ## 外部連結
 
-[Category:宾得相机](https://zh.wikipedia.org/wiki/Category:宾得相机 "wikilink")
-[Category:數位照相機](https://zh.wikipedia.org/wiki/Category:數位照相機 "wikilink")
+[Category:宾得相机](https://zh.wikipedia.org/wiki/Category:宾得相机 "wikilink") [Category:數位照相機](https://zh.wikipedia.org/wiki/Category:數位照相機 "wikilink")

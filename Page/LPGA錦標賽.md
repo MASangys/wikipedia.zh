@@ -1,7 +1,4 @@
-**LPGA錦標賽**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**LPGA
-Championship**）是一項女子職業高爾夫巡迴賽賽事，也是[美國女子職業高爾夫巡迴賽](../Page/美國女子職業高爾夫協會.md "wikilink")（LPGA
-Tour）的大滿貫層級賽事，但是[歐洲女子職業高爾夫巡迴賽](https://zh.wikipedia.org/wiki/歐洲女子職業高爾夫巡迴賽 "wikilink")（Ladies
-European Tour）並未將該賽事視為大滿貫層級賽事。
+**LPGA錦標賽**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**LPGA Championship**）是一項女子職業高爾夫巡迴賽賽事，也是[美國女子職業高爾夫巡迴賽](../Page/美國女子職業高爾夫協會.md "wikilink")（LPGA Tour）的大滿貫層級賽事，但是[歐洲女子職業高爾夫巡迴賽](https://zh.wikipedia.org/wiki/歐洲女子職業高爾夫巡迴賽 "wikilink")（Ladies European Tour）並未將該賽事視為大滿貫層級賽事。
 
 ## 歷史
 
@@ -670,7 +667,6 @@ share</p></th>
 ## 外部連結
 
   -
-  - [LPGA official tournament
-    microsite](http://lpga.com/tournament_microsite.aspx?id=22750)
+  - [LPGA official tournament microsite](http://lpga.com/tournament_microsite.aspx?id=22750)
 
 [Category:LPGA巡回赛赛事](https://zh.wikipedia.org/wiki/Category:LPGA巡回赛赛事 "wikilink")

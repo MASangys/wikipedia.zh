@@ -1,6 +1,4 @@
-**Willis环**（**Circle of Willis**\[1\]），又被称为**大脑动脉环**（**cerebral arterial
-circle**），是指供应[脑组织的](../Page/脑.md "wikilink")[动脉在脑底形成的环状结构](../Page/动脉.md "wikilink")。它是由[英国医师](https://zh.wikipedia.org/wiki/英国 "wikilink")[托马斯·威利斯](https://zh.wikipedia.org/wiki/托马斯·威利斯 "wikilink")（Thomas
-Willis，1621–1675）命名\[2\]。
+**Willis环**（**Circle of Willis**\[1\]），又被称为**大脑动脉环**（**cerebral arterial circle**），是指供应[脑](../Page/脑.md "wikilink")组织的[动脉](../Page/动脉.md "wikilink")在脑底形成的环状结构。它是由[英国医师](https://zh.wikipedia.org/wiki/英国 "wikilink")[托马斯·威利斯](https://zh.wikipedia.org/wiki/托马斯·威利斯 "wikilink")（Thomas Willis，1621–1675）命名\[2\]。
 
 ## 解剖特征
 
@@ -18,7 +16,7 @@ Willis环由下列动脉组成\[3\]：
 
 ### 生理意义
 
-Willis环可以对供应脑组织的动脉进行血液调配，防止脑血液循环的过剩或不足。当组成Willis环的某一动脉或某一部分出现阻塞或者狭窄，可以通过调节其他血管的血流量弥补缺少的部分，保证脑的血流灌注，避免出现[缺血的症状](../Page/缺血.md "wikilink")，维持脑的营养和机能活动\[5\]。
+Willis环可以对供应脑组织的动脉进行血液调配，防止脑血液循环的过剩或不足。当组成Willis环的某一动脉或某一部分出现阻塞或者狭窄，可以通过调节其他血管的血流量弥补缺少的部分，保证脑的血流灌注，避免出现[缺血](../Page/缺血.md "wikilink")的症状，维持脑的营养和机能活动\[5\]。
 
 ### 解剖变异
 
@@ -42,7 +40,7 @@ Willis环存在大量的解剖变异情况。在一项对1413个大脑的解剖�
 
 ### 锁骨下动脉盗血综合征
 
-Willis环组成血管血液供应不足可以导致脑血流灌注减少\[7\]\[8\]。如[锁骨下动脉盗血综合征的患者](https://zh.wikipedia.org/wiki/锁骨下动脉盗血综合征 "wikilink")，锁骨下动脉或[头臂干椎动脉起始处近端部分狭窄或闭塞](https://zh.wikipedia.org/wiki/头臂干 "wikilink")，由于[虹吸效应](../Page/虹吸.md "wikilink")，可以“偷窃”Willis环的血液使其流向上肢，患者可以出现头昏、眼花、恶心、[呕吐](../Page/呕吐.md "wikilink")、[昏厥等脑供血症状](../Page/昏厥.md "wikilink")。
+Willis环组成血管血液供应不足可以导致脑血流灌注减少\[7\]\[8\]。如[锁骨下动脉盗血综合征的患者](https://zh.wikipedia.org/wiki/锁骨下动脉盗血综合征 "wikilink")，锁骨下动脉或[头臂干椎动脉起始处近端部分狭窄或闭塞](https://zh.wikipedia.org/wiki/头臂干 "wikilink")，由于[虹吸](../Page/虹吸.md "wikilink")效应，可以“偷窃”Willis环的血液使其流向上肢，患者可以出现头昏、眼花、恶心、[呕吐](../Page/呕吐.md "wikilink")、[昏厥](../Page/昏厥.md "wikilink")等脑供血症状。
 
 ## 参考资料
 
@@ -51,14 +49,8 @@ Willis环组成血管血液供应不足可以导致脑血流灌注减少\[7\]\[8
 1.
 2.
 3.
-4.  Moore KL, Dalley AR. *Clinically Oriented Anatomy*, 5th Ed.,
-    Lippincott Williams & Wilkins, Toronto. Copyright 2007
+4.  Moore KL, Dalley AR. *Clinically Oriented Anatomy*, 5th Ed., Lippincott Williams & Wilkins, Toronto. Copyright 2007
 5.
-6.  Bergman RA, Afifi AK, Miyauchi R, Circle of Willis. [Illustrated
-    Encyclopedia of Human Anatomic
-    Variation](http://www.vh.org/adult/provider/anatomy/AnatomicVariants/AnatomyHP.html)
-    , URL:
-    <http://www.anatomyatlases.org/AnatomicVariants/Cardiovascular/Text/Arteries/CircleofWillis.shtml>.
-    Accessed on November 6, 2005.
+6.  Bergman RA, Afifi AK, Miyauchi R, Circle of Willis. [Illustrated Encyclopedia of Human Anatomic Variation](http://www.vh.org/adult/provider/anatomy/AnatomicVariants/AnatomyHP.html) , URL: <http://www.anatomyatlases.org/AnatomicVariants/Cardiovascular/Text/Arteries/CircleofWillis.shtml>. Accessed on November 6, 2005.
 7.
 8.

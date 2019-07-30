@@ -1,17 +1,10 @@
-『**電影 光之美少女群星 DX 大家都是朋友☆奇蹟的全員大集合！**
-』是2009年3月20日在[日本](../Page/日本.md "wikilink")上映的電影動畫。此作品為[光之美少女系列](../Page/光之美少女系列.md "wikilink")的結合作品，也是系列中達成過去以來的最高收益達10億日元，並予定於隔年同一時間推出續集。
+『**電影 光之美少女群星 DX 大家都是朋友☆奇蹟的全員大集合！** 』是2009年3月20日在[日本](../Page/日本.md "wikilink")上映的電影動畫。此作品為[光之美少女系列](../Page/光之美少女系列.md "wikilink")的結合作品，也是系列中達成過去以來的最高收益達10億日元，並予定於隔年同一時間推出續集。
 
-台灣於2011年8月21日在[東森幼幼台](../Page/東森幼幼台.md "wikilink")播放時譯名：「光之美少女 All Stars
-閃亮大集合」。
-香港於2014年12月23日在[TVB兒童台](../Page/TVB兒童台.md "wikilink")播放時譯名：「光之美少女All
-Star DX－彩虹奇蹟」，但是其後突然宣布取消播放，之後再定於2015年2月14日播放，將原本節目由聖誕時段改為新年時段播放。
+台灣於2011年8月21日在[東森幼幼台](../Page/東森幼幼台.md "wikilink")播放時譯名：「光之美少女 All Stars 閃亮大集合」。 香港於2014年12月23日在[TVB兒童台](../Page/TVB兒童台.md "wikilink")播放時譯名：「光之美少女All Star DX－彩虹奇蹟」，但是其後突然宣布取消播放，之後再定於2015年2月14日播放，將原本節目由聖誕時段改為新年時段播放。
 
 ## 概要
 
-本作是前年的『[Yes\! 光之美少女5
-GoGo\!](../Page/Yes!_光之美少女5.md "wikilink")』劇場版『甜點王國歡樂的生日聚會♪』同時上映超短編電影的内容所強化的動畫電影。東映最初預告時『[光之美少女：幸福精靈Fresh\!](https://zh.wikipedia.org/wiki/FRESH光之美少女! "wikilink")』尚未公開，所以宣傳的影片以『Yes\!
-光之美少女5
-GoGo\!』為中心。上映當時歴代的光之美少女14人像是跨躍時空的集合，共同前往新敵人所在地。同時歷代的所有妖精與刺客物質除了那基華米基、帕魯米王國四鄰國的精靈外也一同登場。本作沿用的設定為至『[光之美少女：幸福精靈Fresh\!](https://zh.wikipedia.org/wiki/FRESH光之美少女! "wikilink")』初期為止。
+本作是前年的『[Yes\! 光之美少女5 GoGo\!](../Page/Yes!_光之美少女5.md "wikilink")』劇場版『甜點王國歡樂的生日聚會♪』同時上映超短編電影的内容所強化的動畫電影。東映最初預告時『[光之美少女：幸福精靈Fresh\!](https://zh.wikipedia.org/wiki/FRESH光之美少女! "wikilink")』尚未公開，所以宣傳的影片以『Yes\! 光之美少女5 GoGo\!』為中心。上映當時歴代的光之美少女14人像是跨躍時空的集合，共同前往新敵人所在地。同時歷代的所有妖精與刺客物質除了那基華米基、帕魯米王國四鄰國的精靈外也一同登場。本作沿用的設定為至『[光之美少女：幸福精靈Fresh\!](https://zh.wikipedia.org/wiki/FRESH光之美少女! "wikilink")』初期為止。
 
 本作首次交代「各個世界的精靈代表互相認識」及「歷作光之美少女所在的世界相同」的設定，每個精靈都擁有一支彩虹奇蹟手電筒。
 
@@ -137,9 +130,7 @@ GoGo\!』為中心。上映當時歴代的光之美少女14人像是跨躍時空
 
 <!-- end list -->
 
-  - 作詞：青木久美子，作曲：小杉保夫，編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")，主唱：五條真由美
-    from
-    [.R計劃](../Page/Project.R.md "wikilink")（[五條真由美](../Page/五條真由美.md "wikilink")、うちやえゆか、工藤真由、宮本佳那子、茂家瑞季、林桃子）
+  - 作詞：青木久美子，作曲：小杉保夫，編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")，主唱：五條真由美 from [.R計劃](../Page/Project.R.md "wikilink")（[五條真由美](../Page/五條真由美.md "wikilink")、うちやえゆか、工藤真由、宮本佳那子、茂家瑞季、林桃子）
 
 <!-- end list -->
 
@@ -168,18 +159,10 @@ GoGo\!』為中心。上映當時歴代的光之美少女14人像是跨躍時空
   - 錄音：川崎公敬
   - 音響效果：石野貴久（）
   - 動畫製作：[ABC](../Page/ABC.md "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
-  - 製作：©2009 電影光之美少女All
-    Stars製作委員會（東映動畫、[東映](../Page/東映.md "wikilink")、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、Marvelous
-    Entertainment、木下工務店）
+  - 製作：©2009 電影光之美少女All Stars製作委員會（東映動畫、[東映](../Page/東映.md "wikilink")、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、Marvelous Entertainment、木下工務店）
 
 ## 外部連結
 
-[電影 光之美少女 All Stars DX
-大家都是朋友☆奇蹟的全員大集合！](http://www.toei-anim.co.jp/movie/2009_precure_allstars/index.html)
+[電影 光之美少女 All Stars DX 大家都是朋友☆奇蹟的全員大集合！](http://www.toei-anim.co.jp/movie/2009_precure_allstars/index.html)
 
-[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
-[Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink")
-[Category:2009年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2009年日本劇場動畫 "wikilink")
-[Category:橫濱市背景電影](https://zh.wikipedia.org/wiki/Category:橫濱市背景電影 "wikilink")
-[Category:大塚隆史電影](https://zh.wikipedia.org/wiki/Category:大塚隆史電影 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink") [Category:2009年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2009年日本劇場動畫 "wikilink") [Category:橫濱市背景電影](https://zh.wikipedia.org/wiki/Category:橫濱市背景電影 "wikilink") [Category:大塚隆史電影](https://zh.wikipedia.org/wiki/Category:大塚隆史電影 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")

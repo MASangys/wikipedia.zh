@@ -1,5 +1,4 @@
-《**惡魔城XX**》（）是日本[科樂美](../Page/科樂美.md "wikilink")集團旗下遊戲部門所開發的[惡魔城系列](https://zh.wikipedia.org/wiki/惡魔城 "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，這是在[SFC上的第二作](https://zh.wikipedia.org/wiki/SFC "wikilink")；雖然是[惡魔城X
-血之輪迴的移植作](../Page/惡魔城X_血之輪迴.md "wikilink")，不過在關卡以及劇情上都做了極大幅度的修改。
+《**惡魔城XX**》（）是日本[科樂美](../Page/科樂美.md "wikilink")集團旗下遊戲部門所開發的[惡魔城系列](https://zh.wikipedia.org/wiki/惡魔城 "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，這是在[SFC上的第二作](https://zh.wikipedia.org/wiki/SFC "wikilink")；雖然是[惡魔城X 血之輪迴的移植作](../Page/惡魔城X_血之輪迴.md "wikilink")，不過在關卡以及劇情上都做了極大幅度的修改。
 
 ## 劇情
 
@@ -37,11 +36,6 @@
 
   - [悪魔城ドラキュラシリーズ総合サイト](http://www.konami.jp/gs/game/dracula/)
 
-[en:Castlevania: Rondo of Blood\#Versions and
-re-releases](https://zh.wikipedia.org/wiki/en:Castlevania:_Rondo_of_Blood#Versions_and_re-releases "wikilink")
+[en:Castlevania: Rondo of Blood\#Versions and re-releases](https://zh.wikipedia.org/wiki/en:Castlevania:_Rondo_of_Blood#Versions_and_re-releases "wikilink")
 
-[Category:1995年电子游戏](https://zh.wikipedia.org/wiki/Category:1995年电子游戏 "wikilink")
-[Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink")
-[Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:恶魔城系列电子游戏](https://zh.wikipedia.org/wiki/Category:恶魔城系列电子游戏 "wikilink")
+[Category:1995年电子游戏](https://zh.wikipedia.org/wiki/Category:1995年电子游戏 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:恶魔城系列电子游戏](https://zh.wikipedia.org/wiki/Category:恶魔城系列电子游戏 "wikilink")

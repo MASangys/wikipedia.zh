@@ -1,4 +1,4 @@
-《**Leslie**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張國榮的第五張](../Page/張國榮.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")、第四張[粵語錄音室專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於1984年由[華星唱片發行](https://zh.wikipedia.org/wiki/華星唱片 "wikilink")。
+《**Leslie**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張國榮](../Page/張國榮.md "wikilink")的第五張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")、第四張[粵語錄音室專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於1984年由[華星唱片發行](https://zh.wikipedia.org/wiki/華星唱片 "wikilink")。
 
 ## 專輯介紹
 
@@ -23,7 +23,4 @@
 
 </div>
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:1984年音樂專輯](https://zh.wikipedia.org/wiki/Category:1984年音樂專輯 "wikilink")
-[Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:1984年音樂專輯](https://zh.wikipedia.org/wiki/Category:1984年音樂專輯 "wikilink") [Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink")

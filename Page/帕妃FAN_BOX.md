@@ -1,19 +1,14 @@
-《**帕妃FAN
-BOX**》（パルフェふぁんBOX）是2000年9月29日日本[工畫堂所發售的小魔女系列的FAN](https://zh.wikipedia.org/wiki/工畫堂 "wikilink")
-BOX。
+《**帕妃FAN BOX**》（パルフェふぁんBOX）是2000年9月29日日本[工畫堂所發售的小魔女系列的FAN](https://zh.wikipedia.org/wiki/工畫堂 "wikilink") BOX。
 
 ## 概要
 
-收錄著問答遊戲《****》、桌面軟件（Desktop
-Accessories）集《****》、帕妃系列的主題曲迷你專輯《****》、以及歷代4作的試玩版的FAN
-BOX。
+收錄著問答遊戲《****》、桌面軟件（Desktop Accessories）集《****》、帕妃系列的主題曲迷你專輯《****》、以及歷代4作的試玩版的FAN BOX。
 
 ## 可可特的心跳QUIZ大作戰
 
 ### 概要
 
-在費洛愛爾摩斯的街上，突然出現邪惡的謎樣精靈—史芬克斯，以Trouble Buster
-Q（即玩家）與可可特共同戰鬥為內容的冒險遊戲。由黑貓組開發。
+在費洛愛爾摩斯的街上，突然出現邪惡的謎樣精靈—史芬克斯，以Trouble Buster Q（即玩家）與可可特共同戰鬥為內容的冒險遊戲。由黑貓組開發。
 
 是發生在《小魔女帕妃2》故事時間點中的另一個故事，在2003年11月28日發售的《小魔女帕妃2》DVD版有收錄其中。在2005年3月25日，工畫堂發售系列中5部作品的合輯《小魔女帕妃完全版》\[1\]。
 
@@ -91,8 +86,6 @@ Q（即玩家）與可可特共同戰鬥為內容的冒險遊戲。由黑貓組�
 
   - [パルフェふぁんBOX](http://www.kogado.com/html/kuroneko/fanbox/fanbox.htm)（工画堂スタジオ）
 
-[Category:工畫堂工作室](https://zh.wikipedia.org/wiki/Category:工畫堂工作室 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink")
+[Category:工畫堂工作室](https://zh.wikipedia.org/wiki/Category:工畫堂工作室 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-《**好喜歡、大阪。／櫻援歌（Oh\!ENKA）／無限大**》（），為日本男偶像團體[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")3張單曲，3首歌曲都是[A面](../Page/A面與B面.md "wikilink")。
+《**好喜歡、大阪。／櫻援歌（Oh\!ENKA）／無限大**》（），為日本男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第3張單曲，3首歌曲都是[A面](../Page/A面與B面.md "wikilink")。
 
 ## 收錄歌曲
 
@@ -35,7 +35,4 @@
 
 [好喜歡、大阪。／櫻援歌（Oh\!ENKA）／無限大](https://web.archive.org/web/20100330195717/http://www.teichiku.co.jp/artist/kan8/disco/ch38.html)
 
-[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink")
-[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink")
-[Category:忍者亂太郎](https://zh.wikipedia.org/wiki/Category:忍者亂太郎 "wikilink")
-[Category:NHK動畫主題曲](https://zh.wikipedia.org/wiki/Category:NHK動畫主題曲 "wikilink")
+[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink") [Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:忍者亂太郎](https://zh.wikipedia.org/wiki/Category:忍者亂太郎 "wikilink") [Category:NHK動畫主題曲](https://zh.wikipedia.org/wiki/Category:NHK動畫主題曲 "wikilink")

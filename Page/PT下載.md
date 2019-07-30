@@ -1,6 +1,4 @@
-**PT**（Private
-Tracker）是一種改良自[BitTorrent協定的](../Page/BitTorrent_\(协议\).md "wikilink")[P2P下載方式](https://zh.wikipedia.org/wiki/P2P "wikilink")，「Private
-Tracker」指私有種子伺服器。與BT最大的不同點分別為可進行私密範圍下載，并且记录每一个用户的详细数据。
+**PT**（Private Tracker）是一種改良自[BitTorrent協定的](../Page/BitTorrent_\(协议\).md "wikilink")[P2P下載方式](https://zh.wikipedia.org/wiki/P2P "wikilink")，「Private Tracker」指私有種子伺服器。與BT最大的不同點分別為可進行私密範圍下載，并且记录每一个用户的详细数据。
 
 
 
@@ -20,11 +18,7 @@ PT网站禁止一人多个账号、多人共用一个账号、私自贩卖账号
 
 ## 技術原理
 
-BT下載時，軟件會分析.torrent種子文件得到Tracker地址，然后連接Tracker服務器，服務器返回其他下載者的IP，下載者再與這些IP聯系進行下載，從而減輕了服務器的負擔，BT下載的Tracker是公開的，而Private
-Tracker 下載(PT下載)的Tracker則是私有的，Private Tracker
-下載(PT下載)是一種小范圍的BT下載，通過禁用DHT有要求地選擇并控制用戶數量，這樣，在有限的范圍內，下載的用戶基本上都可以達到自己的寬帶上限，Private
-Tracker 下載(PT下載)下載還通過論壇等方式的約束機制將BT下載的理念現實化，真正讓用戶做到下載的過程中努力上傳。因此，Private
-Tracker 下載(PT下載)的速度很快，能夠讓用戶帶寬得到最大程度的使用。
+BT下載時，軟件會分析.torrent種子文件得到Tracker地址，然后連接Tracker服務器，服務器返回其他下載者的IP，下載者再與這些IP聯系進行下載，從而減輕了服務器的負擔，BT下載的Tracker是公開的，而Private Tracker 下載(PT下載)的Tracker則是私有的，Private Tracker 下載(PT下載)是一種小范圍的BT下載，通過禁用DHT有要求地選擇并控制用戶數量，這樣，在有限的范圍內，下載的用戶基本上都可以達到自己的寬帶上限，Private Tracker 下載(PT下載)下載還通過論壇等方式的約束機制將BT下載的理念現實化，真正讓用戶做到下載的過程中努力上傳。因此，Private Tracker 下載(PT下載)的速度很快，能夠讓用戶帶寬得到最大程度的使用。
 
 現在我們下載時用得最多的方式可能就是BT下載。BT下載和傳統的依靠網站服務器作為下載源的HTTP/FTP下載不同，采用的是P2P點對點下載方式。BT下載的理念是人人都是服務器，下載的同時也進行上傳，這樣參與進來的人越多，下載的速度也越快。如果下載的人數足夠多，往往可以達到網絡帶寬的峰值。
 
@@ -33,8 +27,7 @@ Tracker 下載(PT下載)的速度很快，能夠讓用戶帶寬得到最大程�
 
 #### 服務器端:
 
-支援PT的客戶端架構有[Gazelle](https://zh.wikipedia.org/wiki/Gazelle "wikilink")、[XBT
-Tracker](https://zh.wikipedia.org/wiki/XBT_Tracker "wikilink")（XBTT）、[NexusPHP](https://github.com/ZJUT/NexusPHP)等；
+支援PT的客戶端架構有[Gazelle](https://zh.wikipedia.org/wiki/Gazelle "wikilink")、[XBT Tracker](https://zh.wikipedia.org/wiki/XBT_Tracker "wikilink")（XBTT）、[NexusPHP](https://github.com/ZJUT/NexusPHP)等；
 
 #### 客戶端:
 
@@ -96,12 +89,9 @@ Tracker](https://zh.wikipedia.org/wiki/XBT_Tracker "wikilink")（XBTT）、[Nexu
 
 #### Tracker的脆弱性
 
-PT站往往只用自己的Tracker，和Public
-Tracker不同，PT的Tracker是要不停追蹤客戶端的下載上傳流量的，所以對服務器的性能要求很高。Tracker服務器容易被攻破，導致用戶數據passkey泄露引起Tracker失效，就會無法統計上傳下載流量，也就是常說的“紅種”（種子文件顯示為紅色）問題。很多大水管也許無所謂，不過對于很多兢兢業業、如履簿冰正在努力上傳的小水管用戶來說，出現“紅種”會讓人有一種想去撞墻的沖動。
+PT站往往只用自己的Tracker，和Public Tracker不同，PT的Tracker是要不停追蹤客戶端的下載上傳流量的，所以對服務器的性能要求很高。Tracker服務器容易被攻破，導致用戶數據passkey泄露引起Tracker失效，就會無法統計上傳下載流量，也就是常說的“紅種”（種子文件顯示為紅色）問題。很多大水管也許無所謂，不過對于很多兢兢業業、如履簿冰正在努力上傳的小水管用戶來說，出現“紅種”會讓人有一種想去撞墻的沖動。
 
-新手混PT指南盡量搶著上傳新的資源，如果你的帶寬夠大，就第一時間搶占制高點吧。
-不要顧著下自己喜歡的電影，就像玩游戲先練級一樣。先挑選藍種（不計下載只記上傳）和2倍上傳（并非所有的PT站都有）的資源可以讓你事半功倍，有的時候還有藍種加2倍上傳的，看到這種好事還不趕快悶聲大發財。
-有的時候如果你已經在別處下到了某個資源，突然發現在PT站也有人發了同樣的資源。那么你就可以下載該PT種子，然后利用PT客戶端下載到同一個目錄底下，PT客戶端會自動探測到已有的文件，必須先通過校驗該目錄之后確認文件完整性之后才可直接上傳做種。
+新手混PT指南盡量搶著上傳新的資源，如果你的帶寬夠大，就第一時間搶占制高點吧。 不要顧著下自己喜歡的電影，就像玩游戲先練級一樣。先挑選藍種（不計下載只記上傳）和2倍上傳（并非所有的PT站都有）的資源可以讓你事半功倍，有的時候還有藍種加2倍上傳的，看到這種好事還不趕快悶聲大發財。 有的時候如果你已經在別處下到了某個資源，突然發現在PT站也有人發了同樣的資源。那么你就可以下載該PT種子，然后利用PT客戶端下載到同一個目錄底下，PT客戶端會自動探測到已有的文件，必須先通過校驗該目錄之后確認文件完整性之后才可直接上傳做種。
 
 ## 存在问题
 
@@ -133,12 +123,10 @@ PT网站分发的内容，大多以影视出版物、音像制品、软件或应
 
 ## 参考资料
 
-[en:BitTorrent tracker\#Private
-trackers](https://zh.wikipedia.org/wiki/en:BitTorrent_tracker#Private_trackers "wikilink")
+[en:BitTorrent tracker\#Private trackers](https://zh.wikipedia.org/wiki/en:BitTorrent_tracker#Private_trackers "wikilink")
 
 [Category:BitTorrent](https://zh.wikipedia.org/wiki/Category:BitTorrent "wikilink")
 
-1.  [Trading BitTorrent Tracker Invites , Commodity or
-    Curse?](http://torrentfreak.com/trading-bittorrent-tracker-invites-080115/)
+1.  [Trading BitTorrent Tracker Invites , Commodity or Curse?](http://torrentfreak.com/trading-bittorrent-tracker-invites-080115/)
 2.
 3.  [PT站与网络侵权的新发展](https://www.douban.com/note/289393588/)

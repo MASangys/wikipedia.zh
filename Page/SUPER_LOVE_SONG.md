@@ -2,10 +2,8 @@
 
 ## 簡介
 
-  - 收錄於CD[3rd
-    beat](https://zh.wikipedia.org/wiki/3rd_beat "wikilink")，自單曲[OCEAN以來連續](https://zh.wikipedia.org/wiki/OCEAN "wikilink")7張單曲被收錄
-  - 自單曲[太陽的Komachi
-    Angel以來](../Page/太陽的Komachi_Angel.md "wikilink")，達成連續40單曲第一的紀錄
+  - 收錄於CD[3rd beat](https://zh.wikipedia.org/wiki/3rd_beat "wikilink")，自單曲[OCEAN以來連續](https://zh.wikipedia.org/wiki/OCEAN "wikilink")7張單曲被收錄
+  - 自單曲[太陽的Komachi Angel以來](../Page/太陽的Komachi_Angel.md "wikilink")，達成連續40單曲第一的紀錄
   - 最終銷量約23.2萬張。
 
 ## 製作人員
@@ -42,10 +40,4 @@
 
   - [2007年的音樂](http://ja.wikipedia.org/wiki/2007%E5%B9%B4%E3%81%AE%E9%9F%B3%E6%A5%BD)
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink")
-[Category:遊戲歌曲](https://zh.wikipedia.org/wiki/Category:遊戲歌曲 "wikilink")
-[Category:2007年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2007年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")
-[Category:東京電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台節目主題曲 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink") [Category:遊戲歌曲](https://zh.wikipedia.org/wiki/Category:遊戲歌曲 "wikilink") [Category:2007年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon單曲月榜冠軍作品 "wikilink") [Category:2007年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon單曲週榜冠軍作品 "wikilink") [Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink") [Category:東京電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台節目主題曲 "wikilink")

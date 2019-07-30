@@ -15,11 +15,11 @@
 
       - ：部份國家在消防隊編制中的一種階級頭銜。
 3.  頭銜
-      - [總督](https://zh.wikipedia.org/wiki/總督 "wikilink")：[葡萄牙殖民時代使用的一種頭銜](../Page/葡萄牙.md "wikilink")。
+      - [總督](https://zh.wikipedia.org/wiki/總督 "wikilink")：[葡萄牙](../Page/葡萄牙.md "wikilink")殖民時代使用的一種頭銜。
 
       - [甲必丹](../Page/甲必丹.md "wikilink")：葡萄牙及[荷蘭殖民時代使用的一種頭銜](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")。
 
-      - [頭目](https://zh.wikipedia.org/wiki/頭目 "wikilink")：[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[阿美族酋長的頭銜](../Page/阿美族.md "wikilink")。
+      - [頭目](https://zh.wikipedia.org/wiki/頭目 "wikilink")：[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[阿美族](../Page/阿美族.md "wikilink")酋長的頭銜。
 
       - [黨魁](https://zh.wikipedia.org/wiki/黨魁 "wikilink")：政黨領袖。
 
@@ -35,11 +35,9 @@
           -
           - [隊長 (冰球)](../Page/隊長_\(冰球\).md "wikilink")
 5.  船艦
-      - [HMS
-        Captain](https://zh.wikipedia.org/wiki/HMS_Captain "wikilink")：[英國皇家海軍艦隊編制中的艦艇](../Page/英國皇家海軍.md "wikilink")。
+      - [HMS Captain](https://zh.wikipedia.org/wiki/HMS_Captain "wikilink")：[英國皇家海軍](../Page/英國皇家海軍.md "wikilink")艦隊編制中的艦艇。
 
-      - [Captain class
-        frigates](https://zh.wikipedia.org/wiki/Captain_class_frigates "wikilink")：英國皇家海軍護衛艦。
+      - [Captain class frigates](https://zh.wikipedia.org/wiki/Captain_class_frigates "wikilink")：英國皇家海軍護衛艦。
 
       - ：[不列顛東印度公司的船艦](https://zh.wikipedia.org/wiki/不列顛東印度公司 "wikilink")。
 6.  岩石
@@ -51,6 +49,6 @@
 
       - ：[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[瓜達洛普山國家公園的一座山峰](https://zh.wikipedia.org/wiki/瓜達洛普山國家公園 "wikilink")。
 
-      - ：[火星上的一處地岩](../Page/火星.md "wikilink")。
+      - ：[火星](../Page/火星.md "wikilink")上的一處地岩。
 7.  其它
       - ：[意大利喜歌劇中的角色](https://zh.wikipedia.org/wiki/意大利喜歌劇 "wikilink")。

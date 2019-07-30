@@ -1,6 +1,4 @@
-[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**ISFJ**（内倾/感觉/情感/判断）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")**[保护者](https://zh.wikipedia.org/wiki/保护者_\(角色变异\) "wikilink")**，属于[监护人的四种类型之一](https://zh.wikipedia.org/wiki/监护人_\(气质类型\) "wikilink")，\[1\]
-大概占人口的9%-14%。.\[2\]\[3\]
+[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg") **ISFJ**（内倾/感觉/情感/判断）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")**[保护者](https://zh.wikipedia.org/wiki/保护者_\(角色变异\) "wikilink")**，属于[监护人的四种类型之一](https://zh.wikipedia.org/wiki/监护人_\(气质类型\) "wikilink")，\[1\] 大概占人口的9%-14%。.\[2\]\[3\]
 
 ## MBTI偏好
 
@@ -11,8 +9,7 @@
 
 ## 特征
 
-[MotherTeresa_090.jpg](https://zh.wikipedia.org/wiki/File:MotherTeresa_090.jpg "fig:MotherTeresa_090.jpg")具体表达了ISFJ的价值,
-以满足他人的物质需求寻求着一个更加安宁的世界。\[8\]\]\]
+[MotherTeresa_090.jpg](https://zh.wikipedia.org/wiki/File:MotherTeresa_090.jpg "fig:MotherTeresa_090.jpg")具体表达了ISFJ的价值, 以满足他人的物质需求寻求着一个更加安宁的世界。\[8\]\]\]
 
 ### MBTI描述
 
@@ -71,14 +68,11 @@ Ni将看起来矛盾的事物合成出先前无法想象的成果，同时它也
 
 ## 外部链接
 
-  - [Keirsey Guardian-Protector
-    (ISFJ)](http://keirsey.com/handler.aspx?s=keirsey&f=fourtemps&tab=2&c=protector)
+  - [Keirsey Guardian-Protector (ISFJ)](http://keirsey.com/handler.aspx?s=keirsey&f=fourtemps&tab=2&c=protector)
   - [TypeLogic ISFJ](http://typelogic.com/isfj.html)
   - [Personality Page ISFJ](http://www.personalitypage.com/ISFJ.html)
-  - [The Myers & Briggs Foundation: The 16 MBTI
-    Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
-  - [PersonalityDesk: ISFJ
-    Profile](https://web.archive.org/web/20100316182731/http://www.personalitydesk.com/isfj-type-description.php)
+  - [The Myers & Briggs Foundation: The 16 MBTI Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
+  - [PersonalityDesk: ISFJ Profile](https://web.archive.org/web/20100316182731/http://www.personalitydesk.com/isfj-type-description.php)
 
 [Category:性格分類](https://zh.wikipedia.org/wiki/Category:性格分類 "wikilink")
 

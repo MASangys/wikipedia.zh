@@ -1,7 +1,6 @@
 ## 故事大綱
 
-安內相因為公司倒閉而不得不帶著一家大小住進小舅子尹啟相的家裡，因此太太尹裕善變得情緒極不穩定，只好在弟弟家幫忙張羅一家大小瑣事。
-尹裕善的弟弟尹啟相和尹智錫，分別爲醫師和高中體育老師，兩人長相不同，個性也不同，自從姊姊一家搬來寄住在他們家裡後，從此兄弟倆和姊姊、姊夫及外甥安鐘碩、外甥女安秀晶天天上演趣味又搞笑的生活故事。
+安內相因為公司倒閉而不得不帶著一家大小住進小舅子尹啟相的家裡，因此太太尹裕善變得情緒極不穩定，只好在弟弟家幫忙張羅一家大小瑣事。 尹裕善的弟弟尹啟相和尹智錫，分別爲醫師和高中體育老師，兩人長相不同，個性也不同，自從姊姊一家搬來寄住在他們家裡後，從此兄弟倆和姊姊、姊夫及外甥安鐘碩、外甥女安秀晶天天上演趣味又搞笑的生活故事。
 
 ## 演員陣容
 
@@ -465,6 +464,4 @@
   - [韓國MBC官方網站](http://www.imbc.com/broad/tv/ent/highkick3)
   - [臺灣GTV官方網站](https://web.archive.org/web/20120314001247/http://www.gtv.com.tw/Program/B051420120309U/)
 
-[Category:MBC日日情景喜劇](https://zh.wikipedia.org/wiki/Category:MBC日日情景喜劇 "wikilink")
-[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
+[Category:MBC日日情景喜劇](https://zh.wikipedia.org/wiki/Category:MBC日日情景喜劇 "wikilink") [Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")

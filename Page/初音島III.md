@@ -1,6 +1,4 @@
-《**初音島III**》（，簡稱D.C.III）是一款由日本[美少女遊戲品牌](../Page/美少女遊戲.md "wikilink")[CIRCUS製作和發行的](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")[戀愛冒險遊戲](../Page/戀愛遊戲.md "wikilink")，是《[初音島](../Page/初音島.md "wikilink")》系列的續作。全年龄版本於2012年4月27日發售\[1\]。7月7日在TOKYO
-MX電視台播出的特別節目「初音島3」中宣布改編成[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，並於2013年1月至3月播放13集。[18禁版本](../Page/日本成人遊戲.md "wikilink")《R
-x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
+《**初音島III**》（，簡稱D.C.III）是一款由日本[美少女遊戲](../Page/美少女遊戲.md "wikilink")品牌[CIRCUS製作和發行的](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")[戀愛冒險遊戲](../Page/戀愛遊戲.md "wikilink")，是《[初音島](../Page/初音島.md "wikilink")》系列的續作。全年龄版本於2012年4月27日發售\[1\]。7月7日在TOKYO MX電視台播出的特別節目「初音島3」中宣布改編成[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，並於2013年1月至3月播放13集。[18禁版本](../Page/日本成人遊戲.md "wikilink")《R x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
 
 ## 登場人物
 
@@ -78,8 +76,7 @@ x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
   -
     風見鷄學園（國立倫敦魔法學校）的學園長。
   -
-    失憶的少女。被葛木清隆和利卡在倫敦遇見，並帶回學園。當時手持不凋謝的櫻花樹枝。從D.C.IIP.C.的da
-    capo部分可以判斷是與初音島2中的芳乃櫻同一個人。
+    失憶的少女。被葛木清隆和利卡在倫敦遇見，並帶回學園。當時手持不凋謝的櫻花樹枝。從D.C.IIP.C.的da capo部分可以判斷是與初音島2中的芳乃櫻同一個人。
 
 ## 工作人員
 
@@ -94,61 +91,46 @@ x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
     ; 「」
 
       -
-        歌 -
-        [yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")、作詞・作曲
-        - tororo、編曲 -
-        [黑須克彦](https://zh.wikipedia.org/wiki/黑須克彦 "wikilink")
+        歌 - [yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")、作詞・作曲 - tororo、編曲 - [黑須克彦](https://zh.wikipedia.org/wiki/黑須克彦 "wikilink")
 
   - 風見鷄編片頭曲
     ; 「」
 
       -
-        歌 - No Life Negotiator、作詞・作曲 - tororo\&No Life Negotiator、編曲 -
-        No Life Negotiator
+        歌 - No Life Negotiator、作詞・作曲 - tororo\&No Life Negotiator、編曲 - No Life Negotiator
 
   - 女主角片頭曲
     ; 「shiny steps\!\!」
 
       -
-        歌 -
-        [三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")、[愛美](../Page/愛美.md "wikilink")、作詞・作曲
-        - tororo\&No Life Negotiator、編曲 - No Life Negotiator
+        歌 - [三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")、[愛美](../Page/愛美.md "wikilink")、作詞・作曲 - tororo\&No Life Negotiator、編曲 - No Life Negotiator
 
   - Da Capo線片頭曲
     ; 「TRUE MAGIC.....」
 
       -
-        歌 -
-        [YURiCa/花たん](https://zh.wikipedia.org/wiki/YURiCa/花たん "wikilink")、作詞
-        - tororo、作曲 - HΛL with Hiroki、編曲 - HΛL
+        歌 - [YURiCa/花たん](https://zh.wikipedia.org/wiki/YURiCa/花たん "wikilink")、作詞 - tororo、作曲 - HΛL with Hiroki、編曲 - HΛL
 
   - グランドエンディングテーマ
-    ;「[All is Love for
-    you](https://zh.wikipedia.org/wiki/ダ・カーポIII_〜キミにささげる_あいのマホウ〜 "wikilink")」
+    ;「[All is Love for you](https://zh.wikipedia.org/wiki/ダ・カーポIII_〜キミにささげる_あいのマホウ〜 "wikilink")」
 
       -
-        歌 - [CooRie](../Page/CooRie.md "wikilink")、作詞・作曲・編曲 -
-        [rino](https://zh.wikipedia.org/wiki/rino "wikilink")
+        歌 - [CooRie](../Page/CooRie.md "wikilink")、作詞・作曲・編曲 - [rino](https://zh.wikipedia.org/wiki/rino "wikilink")
 
   - 葵シナリオテーマソング
     ;「millions of thanks」（D.C.III DASH 〜ダ・カーポIII Ver.1.3〜 USBメモリ版）
 
       -
-        歌 - [mao](https://zh.wikipedia.org/wiki/mao "wikilink")、作詞・作曲・編曲
-        - No Life Negotiator
+        歌 - [mao](https://zh.wikipedia.org/wiki/mao "wikilink")、作詞・作曲・編曲 - No Life Negotiator
 
   - 片頭曲
-    ;「[endless memory 〜refrain as Da
-    Capo〜](../Page/Decade.md "wikilink")」（D.C.III R 〜ダ・カーポIII
-    アール〜、D.C.III R 〜ダ・カーポIII アール〜X-rated）
+    ;「[endless memory 〜refrain as Da Capo〜](../Page/Decade.md "wikilink")」（D.C.III R 〜ダ・カーポIII アール〜、D.C.III R 〜ダ・カーポIII アール〜X-rated）
 
       -
-        歌 -
-        [fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")、作詞：[南條愛乃](../Page/南條愛乃.md "wikilink")、作曲：[八木沼悟志](../Page/八木沼悟志.md "wikilink")、編曲：[齋藤真也](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink")
+        歌 - [fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")、作詞：[南條愛乃](../Page/南條愛乃.md "wikilink")、作曲：[八木沼悟志](../Page/八木沼悟志.md "wikilink")、編曲：[齋藤真也](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink")
 
   -
-    ;「Wonderful Days\!」（D.C.III R 〜ダ・カーポIII アール〜、D.C.III R 〜ダ・カーポIII
-    アール〜X-rated）
+    ;「Wonderful Days\!」（D.C.III R 〜ダ・カーポIII アール〜、D.C.III R 〜ダ・カーポIII アール〜X-rated）
 
       -
         歌・作詞・作曲 - yozuca\*、編曲 - lotta
@@ -173,9 +155,7 @@ x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
     ; 「」
 
       -
-        歌 -
-        [キョロザワールド](https://zh.wikipedia.org/wiki/キョロザワールド "wikilink")、作詞・作曲
-        - kyoro、編曲 - キョロザワールド
+        歌 - [キョロザワールド](https://zh.wikipedia.org/wiki/キョロザワールド "wikilink")、作詞・作曲 - kyoro、編曲 - キョロザワールド
 
   - ; 「」
 
@@ -217,13 +197,11 @@ x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
 
 :; 「」（第1、10－13話）
 
-::
-作詞、作曲、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")，編曲：lotta
+:: 作詞、作曲、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")，編曲：lotta
 
 :; 「」（第2－5、7－9話）
 
-::
-作詞、作曲：[rino](https://zh.wikipedia.org/wiki/rino "wikilink")，編曲：長田直之，歌：[CooRie](../Page/CooRie.md "wikilink")
+:: 作詞、作曲：[rino](https://zh.wikipedia.org/wiki/rino "wikilink")，編曲：長田直之，歌：[CooRie](../Page/CooRie.md "wikilink")
 
 :; 「REFLECTION」（第6話）
 
@@ -447,7 +425,7 @@ x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
 <td><p>2013年1月6日 - 3月31日</p></td>
 <td><p>星期日 24時30分 - 25時00分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
@@ -462,9 +440,7 @@ x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
 
 ## 漫畫
 
-同名[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")《初音島III》（）於2012年5月號起在[角川書店發行的](../Page/角川書店.md "wikilink")《[Comptiq](../Page/Comptiq.md "wikilink")》進行發表\[4\]，漫畫[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年12月6日首次發售\[5\]，於2014年2月26日推出第3本\[6\]。2012年9月號開始，在[ASCII
-Media Works發行的](../Page/ASCII_Media_Works.md "wikilink")《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》進行發表，漫畫[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年12月15日至2013年9月27日發售\[7\]\[8\]。
+同名[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")《初音島III》（）於2012年5月號起在[角川書店](../Page/角川書店.md "wikilink")發行的《[Comptiq](../Page/Comptiq.md "wikilink")》進行發表\[4\]，漫畫[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年12月6日首次發售\[5\]，於2014年2月26日推出第3本\[6\]。2012年9月號開始，在[ASCII Media Works發行的](../Page/ASCII_Media_Works.md "wikilink")《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》進行發表，漫畫[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年12月15日至2013年9月27日發售\[7\]\[8\]。
 
 ## 注釋/參考資料
 
@@ -474,15 +450,7 @@ magazine](../Page/電擊G's_magazine.md "wikilink")》進行發表，漫畫[單�
   - [風見学園新聞部](http://hibiki-radio.jp/description/kazamigakuen)
   - [電視動畫官方網站](http://www.hatsunejima.com/)
 
-[Category:初音島](https://zh.wikipedia.org/wiki/Category:初音島 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink")
+[Category:初音島](https://zh.wikipedia.org/wiki/Category:初音島 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink")
 
 1.
 2.

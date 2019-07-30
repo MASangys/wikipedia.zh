@@ -1,10 +1,8 @@
-《**UN-GO**》是由動畫公司[BONES製作的](../Page/BONES_\(動畫製作公司\).md "wikilink")[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，全11話，另有一作為前傳的劇場版《'''UN-GO
-episode:0 因果論 '''》。
+《**UN-GO**》是由動畫公司[BONES製作的](../Page/BONES_\(動畫製作公司\).md "wikilink")[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，全11話，另有一作為前傳的劇場版《'''UN-GO episode:0 因果論 '''》。
 
 ## 概要
 
-**UN-GO**改編自[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[坂口安吾的](../Page/坂口安吾.md "wikilink")[偵探小說](https://zh.wikipedia.org/wiki/偵探小說 "wikilink")《明治開化
-安吾捕物帖》《復員殺人事件》等作，故事背景移置近代未來。
+**UN-GO**改編自[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[坂口安吾](../Page/坂口安吾.md "wikilink")的[偵探小說](https://zh.wikipedia.org/wiki/偵探小說 "wikilink")《明治開化 安吾捕物帖》《復員殺人事件》等作，故事背景移置近代未來。
 
 登場人物雖然大多引用小說內角色，但角色本身設計多為製作組重新設定，其內容跟原作有甚差距，可視為原創動畫作品。
 
@@ -185,7 +183,7 @@ episode:0 因果論 '''》。
 
   -
     政治團體“日輪會”創辦人，璽郎之父，島田白朗紀念館所有者。
-    本為作家的前眾議院議員，戰後主張恢復[徵兵制並積極奔走演說](../Page/徵兵制.md "wikilink")。
+    本為作家的前眾議院議員，戰後主張恢復[徵兵制](../Page/徵兵制.md "wikilink")並積極奔走演說。
     事件當時被兒子璽郎以安眠藥昏迷。事件後其隱藏在戰車內的貪污金條被新十郎揪出，遭國稅署與檢察署聯合調整部強制搜查。
     原型為原作中的武術家“島田幾之進”
   -
@@ -325,12 +323,10 @@ episode:0 因果論 '''》。
   - 原案 - [坂口安吾](../Page/坂口安吾.md "wikilink")《明治開化 安吾捕物帖》
   - 監督 - [水島精二](../Page/水島精二.md "wikilink")
   - 故事・脚本 - [會川昇](../Page/會川昇.md "wikilink")
-  - 角色設定 -
-    [pako](https://zh.wikipedia.org/wiki/pako "wikilink")、[高河弓](../Page/高河弓.md "wikilink")
+  - 角色設定 - [pako](https://zh.wikipedia.org/wiki/pako "wikilink")、[高河弓](../Page/高河弓.md "wikilink")
   - 角色設計・總作畫監督 - 稲留和美、矢崎優子、やぐちひろこ
   - 美術設計 - 宮本崇、脇威志
-  - 背景設計 -
-    宮本崇、[石垣純哉](https://zh.wikipedia.org/wiki/石垣純哉 "wikilink")、[柳瀬敬之](https://zh.wikipedia.org/wiki/柳瀬敬之 "wikilink")
+  - 背景設計 - 宮本崇、[石垣純哉](https://zh.wikipedia.org/wiki/石垣純哉 "wikilink")、[柳瀬敬之](https://zh.wikipedia.org/wiki/柳瀬敬之 "wikilink")
   - 美術監督 - 脇威志
   - 色彩設計 - 中山しほ子
   - 攝影監督 - 佐々木康太
@@ -338,16 +334,13 @@ episode:0 因果論 '''》。
   - 音樂監督 - [三間雅文](../Page/三間雅文.md "wikilink")
   - 音樂 - [NARASAKI](https://zh.wikipedia.org/wiki/NARASAKI "wikilink")
   - 動畫製作 - [BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")
-  - 製作 -
-    《UN-GO》製作委員会（[富士電視台](../Page/富士電視台.md "wikilink")、[東宝](https://zh.wikipedia.org/wiki/東宝 "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")）
+  - 製作 - 《UN-GO》製作委員会（[富士電視台](../Page/富士電視台.md "wikilink")、[東宝](https://zh.wikipedia.org/wiki/東宝 "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")）
 
 ## 主題曲
 
-  - Opening《[How to
-    go](https://zh.wikipedia.org/wiki/How_to_go "wikilink")》
+  - Opening《[How to go](https://zh.wikipedia.org/wiki/How_to_go "wikilink")》
     作詞 - 内村友美、江口亮
-    作曲 - [School Food
-    Punishment](https://zh.wikipedia.org/wiki/School_Food_Punishment "wikilink")、江口亮
+    作曲 - [School Food Punishment](https://zh.wikipedia.org/wiki/School_Food_Punishment "wikilink")、江口亮
     編曲 - 江口亮
     歌 - School Food Punishment
   - Ending《[Fantasy](https://zh.wikipedia.org/wiki/Cupid/Fantasy "wikilink")》
@@ -536,9 +529,7 @@ DVD\&Blu-ray各卷特典CD中收录的，由會川昇短編小説所改编的广
 
 ## 劇場版
 
-《**UN-GO episode:0
-因果論**》为东宝旗下影院于2011年11月19日两周内在电影播放结束后限定上映的短篇电影，长49分钟。改编自坂口安吾的《明治開化
-安吾捕物帖 "魔教の怪"》《復員殺人事件》。以新十郎两年前与因果相遇的缘由，作为动画篇的前传。
+《**UN-GO episode:0 因果論**》为东宝旗下影院于2011年11月19日两周内在电影播放结束后限定上映的短篇电影，长49分钟。改编自坂口安吾的《明治開化 安吾捕物帖 "魔教の怪"》《復員殺人事件》。以新十郎两年前与因果相遇的缘由，作为动画篇的前传。
 
 ### 剧情概述
 
@@ -591,16 +582,14 @@ DVD\&Blu-ray各卷特典CD中收录的，由會川昇短編小説所改编的广
   - 「あの素晴しい愛をもう一度」
     作詞：[北山修](https://zh.wikipedia.org/wiki/北山修 "wikilink")、作曲：[加藤和彥](../Page/加藤和彥.md "wikilink")
   - 「[少年期](https://zh.wikipedia.org/wiki/少年期_\(武田鉄矢の曲\) "wikilink")」
-    作詞：[武田鐵矢](../Page/武田鐵矢.md "wikilink")
-    、作曲：[佐孝康夫](https://zh.wikipedia.org/wiki/佐孝康夫 "wikilink")
+    作詞：[武田鐵矢](../Page/武田鐵矢.md "wikilink") 、作曲：[佐孝康夫](https://zh.wikipedia.org/wiki/佐孝康夫 "wikilink")
   - 「THE LIGHTBED」
     演唱：COALTAR OF THE DEEPERS
 
 ## 漫画
 
   -
-    Newtype Ace
-    Vol.1（[Newtype](../Page/Newtype.md "wikilink")2011年10月号増刊）连载。
+    Newtype Ace Vol.1（[Newtype](../Page/Newtype.md "wikilink")2011年10月号増刊）连载。
     漫画：[山田J太](https://zh.wikipedia.org/wiki/山田J太 "wikilink")，原典：「UN-GO」制作委員会，監修：BONES、「UN-GO」製作委員会
   -
     [GUNDAM ACE](../Page/GUNDAM_ACE.md "wikilink")2011年10月号连载。
@@ -610,19 +599,4 @@ DVD\&Blu-ray各卷特典CD中收录的，由會川昇短編小説所改编的广
 
   - [官方網站](http://www.un-go.com/)
 
-[Category:2011年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2011年日本電視動畫 "wikilink")
-[Category:反烏托邦題材動畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材動畫 "wikilink")
-[Category:偵探主角題材動畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材動畫 "wikilink")
-[Category:2011年电影](https://zh.wikipedia.org/wiki/Category:2011年电影 "wikilink")
-[Category:反烏托邦電影](https://zh.wikipedia.org/wiki/Category:反烏托邦電影 "wikilink")
-[Category:水島精二電影](https://zh.wikipedia.org/wiki/Category:水島精二電影 "wikilink")
-[Category:驚悚](https://zh.wikipedia.org/wiki/Category:驚悚 "wikilink")
-[Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink")
-[Category:驚悚動畫](https://zh.wikipedia.org/wiki/Category:驚悚動畫 "wikilink")
-[Category:日本驚悚片](https://zh.wikipedia.org/wiki/Category:日本驚悚片 "wikilink")
-[Category:偵探主角題材電影](https://zh.wikipedia.org/wiki/Category:偵探主角題材電影 "wikilink")
-[Category:月刊Newtype連載作品](https://zh.wikipedia.org/wiki/Category:月刊Newtype連載作品 "wikilink")
-[Category:推理漫畫](https://zh.wikipedia.org/wiki/Category:推理漫畫 "wikilink")
-[Category:偵探主角題材漫畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材漫畫 "wikilink")
-[Category:高河弓](https://zh.wikipedia.org/wiki/Category:高河弓 "wikilink")
-[Category:神秘題材作品](https://zh.wikipedia.org/wiki/Category:神秘題材作品 "wikilink")
+[Category:2011年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2011年日本電視動畫 "wikilink") [Category:反烏托邦題材動畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材動畫 "wikilink") [Category:偵探主角題材動畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材動畫 "wikilink") [Category:2011年电影](https://zh.wikipedia.org/wiki/Category:2011年电影 "wikilink") [Category:反烏托邦電影](https://zh.wikipedia.org/wiki/Category:反烏托邦電影 "wikilink") [Category:水島精二電影](https://zh.wikipedia.org/wiki/Category:水島精二電影 "wikilink") [Category:驚悚](https://zh.wikipedia.org/wiki/Category:驚悚 "wikilink") [Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink") [Category:驚悚動畫](https://zh.wikipedia.org/wiki/Category:驚悚動畫 "wikilink") [Category:日本驚悚片](https://zh.wikipedia.org/wiki/Category:日本驚悚片 "wikilink") [Category:偵探主角題材電影](https://zh.wikipedia.org/wiki/Category:偵探主角題材電影 "wikilink") [Category:月刊Newtype連載作品](https://zh.wikipedia.org/wiki/Category:月刊Newtype連載作品 "wikilink") [Category:推理漫畫](https://zh.wikipedia.org/wiki/Category:推理漫畫 "wikilink") [Category:偵探主角題材漫畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材漫畫 "wikilink") [Category:高河弓](https://zh.wikipedia.org/wiki/Category:高河弓 "wikilink") [Category:神秘題材作品](https://zh.wikipedia.org/wiki/Category:神秘題材作品 "wikilink")

@@ -1,4 +1,17 @@
-**Machi麻吉**為台灣嘻哈團體，由[黃立成領軍](../Page/黃立成.md "wikilink")。
+**Machi麻吉**為台灣嘻哈團體，由[黃立成](../Page/黃立成.md "wikilink")領軍。
+
+## 作品列表
+
+### 專輯
+
+  - 2003 - 麻吉
+  - 2004 - 第貳樂章
+  - 2005 - 超人
+
+### 單曲
+
+  - 2007 - 罪
+  - 2007 - 1937
 
 ## 現任團員
 
@@ -24,7 +37,4 @@
   - Kenny 周逸銘
   - Gabe [藍鈞天](../Page/藍鈞天.md "wikilink")
 
-[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink")
-[Category:台灣嘻哈音樂團體](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂團體 "wikilink")
+[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink") [Category:台灣嘻哈音樂團體](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂團體 "wikilink")

@@ -1,5 +1,5 @@
 
-**日本鐵路車站列表 Te**收錄了日本鐵路車站中，站名羅馬拼音為字母「**Te**」或日文假名為「****」起頭的車站。
+ **日本鐵路車站列表 Te**收錄了日本鐵路車站中，站名羅馬拼音為字母「**Te**」或日文假名為「****」起頭的車站。
 
 <table>
 <thead>
@@ -103,8 +103,6 @@
 </tbody>
 </table>
 
-[ja:日本の鉄道駅一覧
-ち-て\#て](https://zh.wikipedia.org/wiki/ja:日本の鉄道駅一覧_ち-て#て "wikilink")
+[ja:日本の鉄道駅一覧 ち-て\#て](https://zh.wikipedia.org/wiki/ja:日本の鉄道駅一覧_ち-て#て "wikilink")
 
-[Category:日本鐵路車站列表](https://zh.wikipedia.org/wiki/Category:日本鐵路車站列表 "wikilink")
-[Category:日本鐵路車站_Te](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Te "wikilink")
+[Category:日本鐵路車站列表](https://zh.wikipedia.org/wiki/Category:日本鐵路車站列表 "wikilink") [Category:日本鐵路車站_Te](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Te "wikilink")

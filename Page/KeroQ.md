@@ -1,10 +1,8 @@
-**KeroQ**（）是Moonphase股份有限公司（）旗下的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。Moonphase公司的前身是1998年設立的有限公司，2005年組織變更將公司名改為現在的Moonphase。2005年現在的代表取締役是在該公司擔任劇本及原畫的SCA-自（至《[終之空](../Page/終之空.md "wikilink")》為止前是にのみー隊長）。
-「」名稱取自於「」（化學）、「」（邏輯）、「Question」（問題）的第一個字。
+**KeroQ**（）是Moonphase股份有限公司（）旗下的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。Moonphase公司的前身是1998年設立的有限公司，2005年組織變更將公司名改為現在的Moonphase。2005年現在的代表取締役是在該公司擔任劇本及原畫的SCA-自（至《[終之空](../Page/終之空.md "wikilink")》為止前是にのみー隊長）。 「」名稱取自於「」（化學）、「」（邏輯）、「Question」（問題）的第一個字。
 
 製作的遊戲具獨特的世界觀，有許多濃厚的支持玩家。
 
-Moonphase股份有限公司旗下除了KeroQ之外，還持有[枕](../Page/枕_\(遊戲品牌\).md "wikilink")、PetitKeroQ（）。2013年，製作コトバの消えた日
-〜心まで裸にする純愛調教〜時，PetitKeroQ改名為Puchikero（）。
+Moonphase股份有限公司旗下除了KeroQ之外，還持有[枕](../Page/枕_\(遊戲品牌\).md "wikilink")、PetitKeroQ（）。2013年，製作コトバの消えた日 〜心まで裸にする純愛調教〜時，PetitKeroQ改名為Puchikero（）。
 
 ## 作品列表
 
@@ -16,21 +14,16 @@ Moonphase股份有限公司旗下除了KeroQ之外，還持有[枕](../Page/枕_
   - 2003年1月31日 -
   - 2004年6月11日 -
   - 2010年3月26日 - [美好的日子 ～不連續存在～](../Page/美好的日子_～不連續存在～.md "wikilink")（）
-  - 2018年7月20日 - [美好的日子 ～不連續存在～
-    FullvoiceHD版](../Page/美好的日子_～不連續存在～.md "wikilink")（素晴らしき日々
-    〜不連続存在〜 フルボイスHD版）
+  - 2018年7月20日 - [美好的日子 ～不連續存在～ FullvoiceHD版](../Page/美好的日子_～不連續存在～.md "wikilink")（素晴らしき日々 〜不連続存在〜 フルボイスHD版）
   - 凍結 -
 
 ### 枕
 
-  - 2006年6月23日 -　[H2O -FOOTPRINTS IN THE
-    SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")
-  - 2007年10月26日 - [√<span style="text-decoration:overline">after and
-    another</span>](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")
+  - 2006年6月23日 -　[H2O -FOOTPRINTS IN THE SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")
+  - 2007年10月26日 - [√<span style="text-decoration:overline">after and another</span>](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")
   - 2008年9月26日 - [Supreme Candy](../Page/Supreme_Candy.md "wikilink")（）
   - 2011年7月29日 - [倏然之間戀上你](../Page/倏然之間戀上你.md "wikilink")（）
-  - 2013年3月29日 -
-    [向日葵的教会与长夏假期](https://zh.wikipedia.org/wiki/向日葵的教会与长夏假期 "wikilink")（）
+  - 2013年3月29日 - [向日葵的教会与长夏假期](https://zh.wikipedia.org/wiki/向日葵的教会与长夏假期 "wikilink")（）
   - 2015年10月23日 - [櫻之詩](../Page/櫻之詩.md "wikilink")（）
 
 ### PetitKeroQ
@@ -75,6 +68,4 @@ Moonphase股份有限公司旗下除了KeroQ之外，還持有[枕](../Page/枕_
   - [プチケロＱ](http://www.keroq.co.jp/petitkeroq/index.htm)
 
   -
-[Category:KeroQ](https://zh.wikipedia.org/wiki/Category:KeroQ "wikilink")
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
+[Category:KeroQ](https://zh.wikipedia.org/wiki/Category:KeroQ "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")

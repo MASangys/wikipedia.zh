@@ -1,13 +1,9 @@
-在[計算複雜度理論內](https://zh.wikipedia.org/wiki/計算複雜度理論 "wikilink"),
-ZPP（zero-error probabilistic polynomial
-time，零錯誤概率多項式時間）是一個與[機率圖靈機有關的的](../Page/機率圖靈機.md "wikilink")[複雜度類](https://zh.wikipedia.org/wiki/複雜度類 "wikilink")，並且存在以下特點：
+在[計算複雜度理論內](https://zh.wikipedia.org/wiki/計算複雜度理論 "wikilink"), ZPP（zero-error probabilistic polynomial time，零錯誤概率多項式時間）是一個與[機率圖靈機](../Page/機率圖靈機.md "wikilink")有關的的[複雜度類](https://zh.wikipedia.org/wiki/複雜度類 "wikilink")，並且存在以下特點：
 
   - 這機器永遠會給出正確的"是"或者"否"的答案。
   - 這個機器平均運作的時間是多項式時間以內。
 
-換句話說，有一個演算法會在運作時使用一個完美隨機的硬幣，並且永遠回傳正確的答案（這種演算法被稱作[拉斯維加斯演算法](https://zh.wikipedia.org/wiki/拉斯維加斯演算法 "wikilink")（Las
-Vegas
-algorithm））。對一個輸入大小為*n*的問題，存在一個多項式*p*(*n*)，令平均的運作時間小於*p*(*n*)（有可能偶爾會超過）。
+換句話說，有一個演算法會在運作時使用一個完美隨機的硬幣，並且永遠回傳正確的答案（這種演算法被稱作[拉斯維加斯演算法](https://zh.wikipedia.org/wiki/拉斯維加斯演算法 "wikilink")（Las Vegas algorithm））。對一個輸入大小為*n*的問題，存在一個多項式*p*(*n*)，令平均的運作時間小於*p*(*n*)（有可能偶爾會超過）。
 
 另外，**ZPP**可以定義為一個問題的集合，裡面每個問題都存在一個可以解決此問題的機率圖靈機，且此機器性質如下：
 
@@ -17,9 +13,7 @@ algorithm））。對一個輸入大小為*n*的問題，存在一個多項式*p
   - 如果問題的正確答案是YES，這機器回傳YES的機率至少是1/2（其他時候回傳DO NOT KNOW）
   - 如果問題的正確答案是NO，這機器回傳NO的機率至少是1/2（其他時候回傳DO NOT KNOW）
 
-以上這兩個定義是相等的。
-**ZPP**的定義是基於概率圖靈機。其他基於概率圖靈機的複雜度類包含了**[BPP](../Page/BPP_\(複雜度\).md "wikilink")**和**[RP](../Page/RP_\(複雜度\).md "wikilink")**。至於**[BQP
-(複雜度)](../Page/BQP_\(複雜度\).md "wikilink")**這個複雜度類則換成使用了[量子電腦這種也是具有隨機性的電腦](https://zh.wikipedia.org/wiki/量子電腦 "wikilink")。
+以上這兩個定義是相等的。 **ZPP**的定義是基於概率圖靈機。其他基於概率圖靈機的複雜度類包含了**[BPP](../Page/BPP_\(複雜度\).md "wikilink")**和**[RP](../Page/RP_\(複雜度\).md "wikilink")**。至於**[BQP (複雜度)](../Page/BQP_\(複雜度\).md "wikilink")**這個複雜度類則換成使用了[量子電腦這種也是具有隨機性的電腦](https://zh.wikipedia.org/wiki/量子電腦 "wikilink")。
 
 ## 以交集定義
 
@@ -36,15 +30,10 @@ algorithm））。對一個輸入大小為*n*的問題，存在一個多項式*p
 
 既然**ZPP** = **RP** ∩ **coRP**，**ZPP**自然包含在**RP**和**coRP**裡面。
 
-複雜度類**[P](../Page/P_\(複雜度\).md "wikilink")**包含在**ZPP**裡面，有一些人猜想**P** =
-**ZPP**，換句話說，所有的拉斯維加斯演算法都有一個等同的決定型多項式時間演算法。
+複雜度類**[P](../Page/P_\(複雜度\).md "wikilink")**包含在**ZPP**裡面，有一些人猜想**P** = **ZPP**，換句話說，所有的拉斯維加斯演算法都有一個等同的決定型多項式時間演算法。
 
-如果證明了**ZPP** =
-**[EXPTIME](../Page/EXPTIME.md "wikilink")**（雖然這猜想幾乎是不可能的）將代表**P**
-≠ **ZPP**，因為**P** ≠
-**EXPTIME**（參見[時間譜系理論](https://zh.wikipedia.org/wiki/時間譜系理論 "wikilink")）。
+如果證明了**ZPP** = **[EXPTIME](../Page/EXPTIME.md "wikilink")**（雖然這猜想幾乎是不可能的）將代表**P** ≠ **ZPP**，因為**P** ≠ **EXPTIME**（參見[時間譜系理論](https://zh.wikipedia.org/wiki/時間譜系理論 "wikilink")）。
 
 ## 外部連結
 
-[Category:概率複雜度類](https://zh.wikipedia.org/wiki/Category:概率複雜度類 "wikilink")
-[Category:計算複雜性理論](https://zh.wikipedia.org/wiki/Category:計算複雜性理論 "wikilink")
+[Category:概率複雜度類](https://zh.wikipedia.org/wiki/Category:概率複雜度類 "wikilink") [Category:計算複雜性理論](https://zh.wikipedia.org/wiki/Category:計算複雜性理論 "wikilink")

@@ -1,5 +1,4 @@
-《**ROSE
-HIP-BULLET**》是2010年10月27日[GloryHeaven的搖滾團體](https://zh.wikipedia.org/wiki/ランティス "wikilink")[GRANRODEO發售的第十四張單曲](../Page/GRANRODEO.md "wikilink")。
+《**ROSE HIP-BULLET**》是2010年10月27日[GloryHeaven的搖滾團體](https://zh.wikipedia.org/wiki/ランティス "wikilink")[GRANRODEO](../Page/GRANRODEO.md "wikilink")發售的第十四張單曲。
 
 ## 解說
 
@@ -14,7 +13,4 @@ HIP-BULLET**》是2010年10月27日[GloryHeaven的搖滾團體](https://zh.wikip
 3.  **ROSE HIP-BULLET (off vocal)**
 4.  **チキン・ヒーロー (off vocal)**
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:每日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:每日放送動畫主題曲 "wikilink")
-[Category:GRANRODEO歌曲](https://zh.wikipedia.org/wiki/Category:GRANRODEO歌曲 "wikilink")
-[Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:每日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:每日放送動畫主題曲 "wikilink") [Category:GRANRODEO歌曲](https://zh.wikipedia.org/wiki/Category:GRANRODEO歌曲 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")

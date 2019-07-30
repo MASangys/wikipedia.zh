@@ -1,12 +1,10 @@
-**Team A 4th Stage「正在恋爱中」**（）是[AKB48](../Page/AKB48.md "wikilink") Team
-A的第4台剧场公演。
+**Team A 4th Stage「正在恋爱中」**（）是[AKB48](../Page/AKB48.md "wikilink") Team A的第4台剧场公演。
 
 本页也记述了同台复活公演及AKB48研究生公演相关事项。
 
 ## 概要
 
-AKB48 Team
-A的第4台剧场公演。因为向日葵组公演开幕，上演时间较短；不过在向日葵组公演结束后举行了复活公演。此外，也举行了以当时的AKB48研究生为中心的公演。
+AKB48 Team A的第4台剧场公演。因为向日葵组公演开幕，上演时间较短；不过在向日葵组公演结束后举行了复活公演。此外，也举行了以当时的AKB48研究生为中心的公演。
 
 ## 公演内容
 
@@ -77,8 +75,7 @@ A的第4台剧场公演。因为向日葵组公演开幕，上演时间较短；
   - 出演成员
       - 板野友美、大江朝美、大岛麻衣、川崎希、小嶋陽菜、驹谷仁美、[佐藤亚美菜](https://zh.wikipedia.org/wiki/佐藤亚美菜 "wikilink")、佐藤由加理、篠田麻里子、高桥南、户岛花、中西里菜、成田梨纱、[藤江丽奈](https://zh.wikipedia.org/wiki/藤江丽奈 "wikilink")（）、前田敦子、峯岸南
   - 成員更替
-      - [宮崎美穗和](../Page/宮崎美穗.md "wikilink")[北原里英分別于](../Page/北原里英.md "wikilink")2008年7月13日和2008年7月30日從研究生升格至Team
-        A，但在当场公演期间是作为代演出场的。
+      - [宮崎美穗](../Page/宮崎美穗.md "wikilink")和[北原里英](../Page/北原里英.md "wikilink")分別于2008年7月13日和2008年7月30日從研究生升格至Team A，但在当场公演期间是作为代演出场的。
 
 <!-- end list -->
 
@@ -94,9 +91,7 @@ A的第4台剧场公演。因为向日葵组公演开幕，上演时间较短；
   - 公演期間：2008年5月22日－10月7日
   - 出演成員
       - [藤江麗奈](../Page/藤江麗奈.md "wikilink")（）、[石田晴香](../Page/石田晴香.md "wikilink")、[內田真由美](../Page/內田真由美.md "wikilink")、[瓜屋茜](https://zh.wikipedia.org/wiki/瓜屋茜 "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[小原春香](../Page/小原春香.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[冨田麻友](https://zh.wikipedia.org/wiki/冨田麻友 "wikilink")、[中田千智](../Page/中田千智.md "wikilink")（）、[中塚智實](../Page/中塚智實.md "wikilink")、[中西優香](../Page/中西優香.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[畑山亞梨紗](https://zh.wikipedia.org/wiki/畑山亞梨紗 "wikilink")、[藤本紗羅](../Page/藤本紗羅.md "wikilink")、[宮崎美穗](../Page/宮崎美穗.md "wikilink")
-  - 成員離開：宮崎在2008年7月13日升格到Team A。北原在2008年7月30日升格到Team
-    A。指原在2008年8月2日升格到Team B。仁藤在2008年8月5日升格到Team
-    B。中西在2008年8月26日移籍到[SKE48](../Page/SKE48.md "wikilink")。
+  - 成員離開：宮崎在2008年7月13日升格到Team A。北原在2008年7月30日升格到Team A。指原在2008年8月2日升格到Team B。仁藤在2008年8月5日升格到Team B。中西在2008年8月26日移籍到[SKE48](../Page/SKE48.md "wikilink")。
   - 分组曲負責成員
       - 《7点12分的初恋》：藤本、瓜屋、畑山、藤江、石田or 內田→ 内田
       - 《春天到来之前》：小原、冨田
@@ -108,12 +103,8 @@ A的第4台剧场公演。因为向日葵组公演开幕，上演时间较短；
 
   - 公演期間：2015年12月26日 -
   - 出演成員：[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[大島涼花](../Page/大島涼花.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、[木崎由里亚](https://zh.wikipedia.org/wiki/木崎由里亚 "wikilink")（）、[後藤萌咲](../Page/後藤萌咲.md "wikilink")、[坂口渚沙](../Page/坂口渚沙.md "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[達家真姫寶](https://zh.wikipedia.org/wiki/達家真姫寶 "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[福岡聖菜](../Page/福岡聖菜.md "wikilink")、[馬嘉伶](../Page/馬嘉伶.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[横島亞衿](https://zh.wikipedia.org/wiki/横島亞衿 "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")
-      - Team
-        B選秀研究生：[高橋希良](https://zh.wikipedia.org/wiki/高橋希良 "wikilink")、[西川怜](https://zh.wikipedia.org/wiki/西川怜 "wikilink")、[山邊歩夢](https://zh.wikipedia.org/wiki/山邊歩夢 "wikilink")
-      - 助演的其他队伍成员：[大和田南那](../Page/大和田南那.md "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")（以上Team
-        A）、[铃木玛莉亚](https://zh.wikipedia.org/wiki/铃木玛莉亚 "wikilink")（）、[中田千智](../Page/中田千智.md "wikilink")（以上Team
-        K）、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[大川莉央](https://zh.wikipedia.org/wiki/大川莉央 "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")（以上Team
-        4）。
+      - Team B選秀研究生：[高橋希良](https://zh.wikipedia.org/wiki/高橋希良 "wikilink")、[西川怜](https://zh.wikipedia.org/wiki/西川怜 "wikilink")、[山邊歩夢](https://zh.wikipedia.org/wiki/山邊歩夢 "wikilink")
+      - 助演的其他队伍成员：[大和田南那](../Page/大和田南那.md "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")（以上Team A）、[铃木玛莉亚](https://zh.wikipedia.org/wiki/铃木玛莉亚 "wikilink")（）、[中田千智](../Page/中田千智.md "wikilink")（以上Team K）、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[大川莉央](https://zh.wikipedia.org/wiki/大川莉央 "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")（以上Team 4）。
   - 内山奈月在出演了2016年1月31日的毕业公演之后于同年2月21日毕业。岩佐美咲在出演了2016年3月14日的毕业公演之后于同年5月21日毕业。渡邊美優紀于2016年8月9日畢業。
   - 分组曲擔當
 

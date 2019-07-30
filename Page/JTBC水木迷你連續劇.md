@@ -1,4 +1,4 @@
-**JTBC水木迷你連續劇**（），是逢[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")、[星期四韓國晚間](https://zh.wikipedia.org/wiki/星期四 "wikilink")8點45分在[JTBC電視台播映的電視劇](../Page/JTBC.md "wikilink")。
+**JTBC水木迷你連續劇**（），是逢[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")、[星期四韓國晚間](https://zh.wikipedia.org/wiki/星期四 "wikilink")8點45分在[JTBC](../Page/JTBC.md "wikilink")電視台播映的電視劇。
 
 ## 播出時間更動表
 
@@ -177,7 +177,4 @@
   - [SBS特別劇](../Page/SBS特別劇.md "wikilink")
   - [tvN水木連續劇](https://zh.wikipedia.org/wiki/tvN水木連續劇 "wikilink")
 
-[Category:JTBC水木迷你連續劇](https://zh.wikipedia.org/wiki/Category:JTBC水木迷你連續劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:JTBC水木迷你連續劇](https://zh.wikipedia.org/wiki/Category:JTBC水木迷你連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

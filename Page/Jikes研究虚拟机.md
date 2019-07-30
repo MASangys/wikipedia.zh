@@ -1,6 +1,4 @@
-**Jikes研究虚拟机**（Jikes Research Virtual Machine,简称Jikes
-RVM)是一种成熟的用于执行[Java](../Page/Java.md "wikilink")[程序的](https://zh.wikipedia.org/wiki/程序 "wikilink")[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，其早期版本与当前版本分别在（CPL）与[Eclipse公共许可证](../Page/Eclipse公共许可证.md "wikilink")（EPL）下开放代码。与其他以Java编写的虚拟机不同的是，Jikes
-RVM采用了[元循环技术](https://zh.wikipedia.org/wiki/元循环求值器 "wikilink")。
+**Jikes研究虚拟机**（Jikes Research Virtual Machine,简称Jikes RVM)是一种成熟的用于执行[Java](../Page/Java.md "wikilink")[程序的](https://zh.wikipedia.org/wiki/程序 "wikilink")[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，其早期版本与当前版本分别在（CPL）与[Eclipse公共许可证](../Page/Eclipse公共许可证.md "wikilink")（EPL）下开放代码。与其他以Java编写的虚拟机不同的是，Jikes RVM采用了[元循环技术](https://zh.wikipedia.org/wiki/元循环求值器 "wikilink")。
 
 ## 历史
 
@@ -12,8 +10,7 @@ RVM采用了[元循环技术](https://zh.wikipedia.org/wiki/元循环求值器 "
 
 <!-- end list -->
 
-  - 2001年10月，Jikes RVM
-    2发布，并以通用公共许可证（CPL）开放源代码。2.0版支持[PowerPC与](../Page/PowerPC.md "wikilink")[Intel架构](https://zh.wikipedia.org/wiki/Intel "wikilink")，而且也支持许多不同的[垃圾回收算法](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")。
+  - 2001年10月，Jikes RVM 2发布，并以通用公共许可证（CPL）开放源代码。2.0版支持[PowerPC](../Page/PowerPC.md "wikilink")与[Intel架构](https://zh.wikipedia.org/wiki/Intel "wikilink")，而且也支持许多不同的[垃圾回收算法](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")。
 
 <!-- end list -->
 
@@ -33,55 +30,43 @@ RVM采用了[元循环技术](https://zh.wikipedia.org/wiki/元循环求值器 "
 
 <!-- end list -->
 
-  - 2009年，3.1版以Eclipse公共许可证（EPL）发布，此版相对于3.0.1版性能大幅提升，并且提供了对原生[线程的切换支持](../Page/线程.md "wikilink")。
+  - 2009年，3.1版以Eclipse公共许可证（EPL）发布，此版相对于3.0.1版性能大幅提升，并且提供了对原生[线程](../Page/线程.md "wikilink")的切换支持。
 
 ## 特性
 
   - 引导
 
-Jikes
-RVM采用了元循环技术，因而其需要运行在一个[引导](https://zh.wikipedia.org/wiki/引导 "wikilink")[Java虚拟机](../Page/Java虚拟机.md "wikilink")（JVM）上来创建启动镜像。启动镜像在运行时由一个小型的C装入程序载入，其本质是Jikes
-RVM启动必须的[对象的集合](https://zh.wikipedia.org/wiki/对象 "wikilink")，这些对象则是利用引导JVM的[反馈所创建](../Page/反馈.md "wikilink")。
+Jikes RVM采用了元循环技术，因而其需要运行在一个[引导](https://zh.wikipedia.org/wiki/引导 "wikilink")[Java虚拟机](../Page/Java虚拟机.md "wikilink")（JVM）上来创建启动镜像。启动镜像在运行时由一个小型的C装入程序载入，其本质是Jikes RVM启动必须的[对象的集合](https://zh.wikipedia.org/wiki/对象 "wikilink")，这些对象则是利用引导JVM的[反馈](../Page/反馈.md "wikilink")所创建。
 
   - VM Magic
 
-编译器在VM
-Magic里为一个[類別生成不同的代码](../Page/类_\(计算机科学\).md "wikilink")（而非[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")）。VM
-Magic類別允许对内存的直接访问，是影响内存管理工具包的性能的关键所在。VM
-Magic類別被包含于org.vmmagic包内，同时也为其他的Java项目所使用。
+编译器在VM Magic里为一个[類別生成不同的代码](../Page/类_\(计算机科学\).md "wikilink")（而非[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")）。VM Magic類別允许对内存的直接访问，是影响内存管理工具包的性能的关键所在。VM Magic類別被包含于org.vmmagic包内，同时也为其他的Java项目所使用。
 
   - 内存管理工具包
 
-内存管理工具包（MMTk）是在Jikes
-RVM与其他项目（如Singularity系统和Rotor软件项目\[1\]）都有使用的垃圾精确回收器的一个集合。正如Jikes
-RVM其他部件一样,MMTk是用Java实现的，但主要还是依赖于VM Magic。
+内存管理工具包（MMTk）是在Jikes RVM与其他项目（如Singularity系统和Rotor软件项目\[1\]）都有使用的垃圾精确回收器的一个集合。正如Jikes RVM其他部件一样,MMTk是用Java实现的，但主要还是依赖于VM Magic。
 
   - 类库
 
-Jikes RVM已经可以使用[Apache
-Harmony与](../Page/Apache_Harmony.md "wikilink")类库，对[OpenJDK类库的实验性支持也已加入](../Page/OpenJDK.md "wikilink")。
+Jikes RVM已经可以使用[Apache Harmony与](../Page/Apache_Harmony.md "wikilink")类库，对[OpenJDK](../Page/OpenJDK.md "wikilink")类库的实验性支持也已加入。
 
   - 编译器
 
-Jikes
-RVM使用基线[编译器来快速地为特定的](https://zh.wikipedia.org/wiki/编译器 "wikilink")[架构生成](https://zh.wikipedia.org/wiki/指令集架构 "wikilink")[代码](../Page/代码.md "wikilink")，而后的[动态自适应编译利用带有如栈替换等特性的优化编译器重编译代码](https://zh.wikipedia.org/wiki/动态自适应编译 "wikilink")，其中动态自适应编译系统使用。
+Jikes RVM使用基线[编译器来快速地为特定的](https://zh.wikipedia.org/wiki/编译器 "wikilink")[架构生成](https://zh.wikipedia.org/wiki/指令集架构 "wikilink")[代码](../Page/代码.md "wikilink")，而后的[动态自适应编译利用带有如栈替换等特性的优化编译器重编译代码](https://zh.wikipedia.org/wiki/动态自适应编译 "wikilink")，其中动态自适应编译系统使用。
 
   - 运行时
 
-Jikes
-RVM的运行时有着许多新颖的特性，例如快速锁定机构，[协作调度机构以及对](https://zh.wikipedia.org/wiki/调度 "wikilink")[异常的快速收集与调度的支持](../Page/异常处理.md "wikilink")。
+Jikes RVM的运行时有着许多新颖的特性，例如快速锁定机构，[协作调度机构以及对](https://zh.wikipedia.org/wiki/调度 "wikilink")[异常的快速收集与调度的支持](../Page/异常处理.md "wikilink")。
 
   - 处理器支持
 
-Jikes RVM可以支持使用[Power
-PC](https://zh.wikipedia.org/wiki/Power_PC "wikilink")（即ppc）与[IA-32](https://zh.wikipedia.org/wiki/IA-32 "wikilink")（即[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")）指令集的[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")。
+Jikes RVM可以支持使用[Power PC](https://zh.wikipedia.org/wiki/Power_PC "wikilink")（即ppc）与[IA-32](https://zh.wikipedia.org/wiki/IA-32 "wikilink")（即[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")）指令集的[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")。
 
   - 研究
 
 正如其名所示，Jikes RVM是个研究项目，因而功能侧重于用于研究新技术\[2\]。
 
-Jikes
-RVM也出现在了07、08、10、11年的[Google编程之夏比赛中](https://zh.wikipedia.org/wiki/Google编程之夏 "wikilink")\[3\]。
+Jikes RVM也出现在了07、08、10、11年的[Google编程之夏比赛中](https://zh.wikipedia.org/wiki/Google编程之夏 "wikilink")\[3\]。
 
 ## 参考
 
@@ -89,21 +74,14 @@ RVM也出现在了07、08、10、11年的[Google编程之夏比赛中](https://z
 
 ## 外部链接
 
-  - [Jikes
-    RVM在SourceForge的项目](http://sourceforge.net/projects/jikesrvm/)
-
+  - [Jikes RVM在SourceForge的项目](http://sourceforge.net/projects/jikesrvm/)
   - [DaCapo Benchmarks](http://www.dacapobench.org/)
   - [WALA](http://wala.sourceforge.net/)
   - [PearColator](https://archive.is/20121225093413/http://pearcolator.sourceforge.net/)
-
-  - [IBM DevelopWorks中Jikes
-    RVM的介绍](http://www.ibm.com/developerworks/cn/java/jalapeno/index.html)
-
+  - [IBM DevelopWorks中Jikes RVM的介绍](http://www.ibm.com/developerworks/cn/java/jalapeno/index.html)
 
 [Category:虚拟化软体](https://zh.wikipedia.org/wiki/Category:虚拟化软体 "wikilink")
 
-1.  [Jikes RVM Project
-    Proposals 2009](http://jikesrvm.org/Project+Proposals+2009)
+1.  [Jikes RVM Project Proposals 2009](http://jikesrvm.org/Project+Proposals+2009)
 2.  ["Jikes RVM research papers"](http://jikesrvm.org/Publications)
-3.  [Jikes RVM - Google Summer of
-    Code 2011](http://jikesrvm.org/Google+Summer+of+Code+2011)
+3.  [Jikes RVM - Google Summer of Code 2011](http://jikesrvm.org/Google+Summer+of+Code+2011)

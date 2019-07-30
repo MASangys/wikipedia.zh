@@ -1,4 +1,4 @@
-**《Simple》**（意思：簡單）是[香港歌手](../Page/香港.md "wikilink")[林憶蓮第十六張錄音室專輯和首張日語錄音室專輯](../Page/林憶蓮.md "wikilink")，於1994年3月10日發行。
+**《Simple》**（意思：簡單）是[香港](../Page/香港.md "wikilink")歌手[林憶蓮](../Page/林憶蓮.md "wikilink")第十六張錄音室專輯和首張日語錄音室專輯，於1994年3月10日發行。
 
 ## 曲目
 
@@ -26,7 +26,4 @@
 
 ## 外部連結
 
-[Category:林憶蓮音樂專輯](https://zh.wikipedia.org/wiki/Category:林憶蓮音樂專輯 "wikilink")
-[Category:1994年音樂專輯](https://zh.wikipedia.org/wiki/Category:1994年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:NBC環球娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂音樂專輯 "wikilink")
+[Category:林憶蓮音樂專輯](https://zh.wikipedia.org/wiki/Category:林憶蓮音樂專輯 "wikilink") [Category:1994年音樂專輯](https://zh.wikipedia.org/wiki/Category:1994年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:NBC環球娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂音樂專輯 "wikilink")

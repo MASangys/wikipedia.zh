@@ -1,6 +1,4 @@
-「**REMIX
-ATTACK**」是[AAA的第](../Page/AAA_\(團體\).md "wikilink")1枚混音專輯。於2006年3月23日發行。唱片公司為[avex
-trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
+「**REMIX ATTACK**」是[AAA的第](../Page/AAA_\(團體\).md "wikilink")1枚混音專輯。於2006年3月23日發行。唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -12,8 +10,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ### CD
 
-1.  **[BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")**（SHAM-POO
-    vs. HEAVENS WiRE RMX）
+1.  **[BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")**（SHAM-POO vs. HEAVENS WiRE RMX）
 2.  **[DRAGON FIRE](../Page/DRAGON_FIRE.md "wikilink")**（Wall 5 Remix）
 3.  **Welcome to This World**（83key Jump over mix）
 4.  **太陽**（Dub's Opposite showcase Remix）
@@ -33,5 +30,4 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 13. **[哈利路亞](../Page/哈利路亞_\(AAA單曲\).md "wikilink")**（Hype Remix）
     （ハレルヤ）
 
-[Category:AAA的專輯](https://zh.wikipedia.org/wiki/Category:AAA的專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
+[Category:AAA的專輯](https://zh.wikipedia.org/wiki/Category:AAA的專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")

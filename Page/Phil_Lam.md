@@ -1,6 +1,4 @@
-《**Phil
-Lam**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[林奕匡的第二張大碟](../Page/林奕匡.md "wikilink")，系國語專輯。在2012年2月22日\[1\]推出。專輯把他首張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《[Loaded](../Page/Loaded.md "wikilink")》中的歌曲全數收錄，並新增六首新灌錄歌曲，包括第一主打《Stay
-With You tonight》及第二主打《傷仲永》。
+《**Phil Lam**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[林奕匡](../Page/林奕匡.md "wikilink")的第二張大碟，系國語專輯。在2012年2月22日\[1\]推出。專輯把他首張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《[Loaded](../Page/Loaded.md "wikilink")》中的歌曲全數收錄，並新增六首新灌錄歌曲，包括第一主打《Stay With You tonight》及第二主打《傷仲永》。
 
 ## 曲目列表
 
@@ -27,8 +25,6 @@ With You tonight》及第二主打《傷仲永》。
 
 </div>
 
-[Category:林奕匡音樂專輯](https://zh.wikipedia.org/wiki/Category:林奕匡音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:林奕匡音樂專輯](https://zh.wikipedia.org/wiki/Category:林奕匡音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.

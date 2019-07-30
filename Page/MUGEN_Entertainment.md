@@ -1,15 +1,10 @@
-**MUGEN
-Entertainment**（）\[1\]是一家在[美國註冊的](https://zh.wikipedia.org/wiki/美國 "wikilink")[日本色情片製作公司](https://zh.wikipedia.org/wiki/成人视频制造商 "wikilink")，從2006年開始營運。隸屬於[Amorz集團](https://zh.wikipedia.org/wiki/AMORZ_Entertainment "wikilink")\[2\]。
+**MUGEN Entertainment**（）\[1\]是一家在[美國註冊的](https://zh.wikipedia.org/wiki/美國 "wikilink")[日本色情片製作公司](https://zh.wikipedia.org/wiki/成人视频制造商 "wikilink")，從2006年開始營運。隸屬於[Amorz集團](https://zh.wikipedia.org/wiki/AMORZ_Entertainment "wikilink")\[2\]。
 
 ## 概況
 
-MUGEN
-Entertainment所出品的均是[無碼片](https://zh.wikipedia.org/wiki/无码视频 "wikilink")，以[無套性交](../Page/無套性交.md "wikilink")、[體內射精為賣點](../Page/體內射精.md "wikilink")，以面容姣好著稱。系列作品中以「Desire」、「Desire
-(Blu-ray)」、「Egals」、「Egals
-(Blu-ray)」較具知名，在[大中華地區多為流傳](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")。
+MUGEN Entertainment所出品的均是[無碼片](https://zh.wikipedia.org/wiki/无码视频 "wikilink")，以[無套性交](../Page/無套性交.md "wikilink")、[體內射精](../Page/體內射精.md "wikilink")為賣點，以面容姣好著稱。系列作品中以「Desire」、「Desire (Blu-ray)」、「Egals」、「Egals (Blu-ray)」較具知名，在[大中華地區多為流傳](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")。
 
-MUGEN
-Entertainment在2007年就推出了藍光光碟的成人影片，是成人视频業者中採用[藍光光碟的先驅](../Page/藍光光碟.md "wikilink")。所發售的藍光光碟版本常為AV迷收藏的目標，
+MUGEN Entertainment在2007年就推出了藍光光碟的成人影片，是成人视频業者中採用[藍光光碟](../Page/藍光光碟.md "wikilink")的先驅。所發售的藍光光碟版本常為AV迷收藏的目標，
 
 ## 系列作品
 
@@ -1226,22 +1221,19 @@ Egals Vol.18(Blu-ray)</p></td>
 
 ## 參考
 
-  - [MUGEN
-    Entertainment](http://www.amorz.com/Studiolists.aspx?StudioID=2)
+  - [MUGEN Entertainment](http://www.amorz.com/Studiolists.aspx?StudioID=2)
   - [AMORZ Entertainment](http://www.amorz.com)
 
 ## 關連項目
 
-  - [Sky High
-    Entertainment作品列表](../Page/Sky_High_Entertainment作品列表.md "wikilink")
+  - [Sky High Entertainment作品列表](../Page/Sky_High_Entertainment作品列表.md "wikilink")
   - [REDHOT Collection作品列表](../Page/REDHOT_Collection作品列表.md "wikilink")
   - [CATWALK Entertainment](../Page/CATWALK_Entertainment.md "wikilink")
   - [Japorn](../Page/Japorn.md "wikilink")
   - [AV女優列表](https://zh.wikipedia.org/wiki/AV女優列表 "wikilink")
   - 资料党整理不易，还请编辑时手下留情。
 
-[Category:日本色情片公司](https://zh.wikipedia.org/wiki/Category:日本色情片公司 "wikilink")
-[Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")
+[Category:日本色情片公司](https://zh.wikipedia.org/wiki/Category:日本色情片公司 "wikilink") [Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")
 
 1.  尚無官方中文譯名。目前中文社群習慣使用英文名稱MUGEN Entertainment。
 2.  可參考amorz官網：http://www.amorz.com/

@@ -1,5 +1,4 @@
-**/dev/loop**（或称**vnd** (vnode
-disk)、**lofi**（循环文件接口））在[类Unix系统中是一种](../Page/类Unix系统.md "wikilink")[伪设备](../Page/设备文件系统.md "wikilink")，这种设备使得[文件可以如同](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")[块设备一般被访问](../Page/设备文件系统.md "wikilink")。
+**/dev/loop**（或称**vnd** (vnode disk)、**lofi**（循环文件接口））在[类Unix系统](../Page/类Unix系统.md "wikilink")中是一种[伪设备](../Page/设备文件系统.md "wikilink")，这种设备使得[文件可以如同](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")[块设备一般被访问](../Page/设备文件系统.md "wikilink")。
 
 在使用之前，循环设备必须与现存文件系统上的文件相关联。这种关联将提供给用户一个[应用程序接口](../Page/应用程序接口.md "wikilink")，接口将允许文件视为块特殊文件（参见[设备文件系统](../Page/设备文件系统.md "wikilink")）使用。因此，如果文件中包含一个完整的[文件系统](../Page/文件系统.md "wikilink")，那么这个文件就能如同磁盘设备一般被[挂载](https://zh.wikipedia.org/wiki/挂载 "wikilink")。
 
@@ -19,50 +18,25 @@ disk)、**lofi**（循环文件接口））在[类Unix系统中是一种](../Pag
 
 在各种操作系统中循环设备的命名存在着一些混乱。各种类Unix操作系统中，功能性的循环设备被以不同的名字命名。
 
-在Linux中，设备名按照相应设备驱动程序的符号表项进行命名。这些设备被叫做“loop”设备，设备节点通常命名为`/dev/loop0`,
-`/dev/loop1`之类。
-静态设备目录可以用[makedev脚本创建](https://zh.wikipedia.org/wiki/makedev "wikilink")，或者动态地由设备文件系统([udev](https://zh.wikipedia.org/wiki/udev "wikilink"))设施创建。
-循环设备的管理界面是
-`losetup`，这是[util-linux软件包的一部分](https://zh.wikipedia.org/wiki/util-linux "wikilink")。
+在Linux中，设备名按照相应设备驱动程序的符号表项进行命名。这些设备被叫做“loop”设备，设备节点通常命名为`/dev/loop0`, `/dev/loop1`之类。 静态设备目录可以用[makedev脚本创建](https://zh.wikipedia.org/wiki/makedev "wikilink")，或者动态地由设备文件系统([udev](https://zh.wikipedia.org/wiki/udev "wikilink"))设施创建。 循环设备的管理界面是 `losetup`，这是[util-linux软件包的一部分](https://zh.wikipedia.org/wiki/util-linux "wikilink")。
 
 有时，循环设备被错误地认为是回环设备，但是这个术语在Linux内核中是为网络设备保留的（参见[回环网卡](https://zh.wikipedia.org/wiki/回环网卡 "wikilink")）。循环设备的概念和回环设备不同，虽然在名字上有相似的地方。
 
-在[NetBSD和](../Page/NetBSD.md "wikilink")[OpenBSD等BSD所衍生的系统中](../Page/OpenBSD.md "wikilink")，循环设备被称为“虚拟节点设备”或“vnd”，并且设备被置于
-`/dev/vnd0`, `/dev/rvnd0` 或 `/dev/svnd0`等处。在文件系统中，使用`vnconfig`程序来进行配置。
+在[NetBSD](../Page/NetBSD.md "wikilink")和[OpenBSD](../Page/OpenBSD.md "wikilink")等BSD所衍生的系统中，循环设备被称为“虚拟节点设备”或“vnd”，并且设备被置于 `/dev/vnd0`, `/dev/rvnd0` 或 `/dev/svnd0`等处。在文件系统中，使用`vnconfig`程序来进行配置。
 
-[FreeBSD在发行版](../Page/FreeBSD.md "wikilink")5之前和其他BSD系统一样遵守约定，之后循环设备便被纳入记忆磁盘设备（"md"）。目前使用`mdconfig`\[1\]程序进行配置。
+[FreeBSD](../Page/FreeBSD.md "wikilink")在发行版5之前和其他BSD系统一样遵守约定，之后循环设备便被纳入记忆磁盘设备（"md"）。目前使用`mdconfig`\[1\]程序进行配置。
 
-在[Solaris](../Page/Solaris.md "wikilink")/[OpenSolaris中](../Page/OpenSolaris.md "wikilink")，循环设备被称为
-"回环文件接口" 或 lofi,\[2\] 位于 `/dev/lofi/1`等处。SunOS 拥有 `lofiadm`
-配置程序。"lofi"驱动程序支持只读压缩和可读写的加密。
-自从1988年夏季开始更有SunOS/Solaris平台的第三方驱动 "fbk"\[3\]
-(文件模拟块设备,英文:File emulates Blockdevice)
+在[Solaris](../Page/Solaris.md "wikilink")/[OpenSolaris](../Page/OpenSolaris.md "wikilink")中，循环设备被称为 "回环文件接口" 或 lofi,\[2\] 位于 `/dev/lofi/1`等处。SunOS 拥有 `lofiadm` 配置程序。"lofi"驱动程序支持只读压缩和可读写的加密。 自从1988年夏季开始更有SunOS/Solaris平台的第三方驱动 "fbk"\[3\] (文件模拟块设备,英文:File emulates Blockdevice)
 
-[Mac OS
-X实现了一个原生的镜像挂载机制并作为其随机访问磁盘设备的抽象](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。这些设备如同普通设备一样出现在
-`/dev`
-中，读写操作被送往一个用户模式的辅助进程，并由辅助进程负责读取和写入的操作。在用户界面中当打开磁盘镜像的时候自动被启用。这可以处理多种格式的盘片、CD-ROM
-或 DVD 镜像。
+[Mac OS X实现了一个原生的镜像挂载机制并作为其随机访问磁盘设备的抽象](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。这些设备如同普通设备一样出现在 `/dev` 中，读写操作被送往一个用户模式的辅助进程，并由辅助进程负责读取和写入的操作。在用户界面中当打开磁盘镜像的时候自动被启用。这可以处理多种格式的盘片、CD-ROM 或 DVD 镜像。
 
-在[Microsoft
-Windows操作系统上并不能原生支持循环挂载](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")（直到[Windows
-7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，这个功能才被原生实现，并通过工具[diskpart进行工作](https://zh.wikipedia.org/wiki/diskpart "wikilink"))。
-<ref>See for example:
+在[Microsoft Windows操作系统上并不能原生支持循环挂载](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")（直到[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，这个功能才被原生实现，并通过工具[diskpart进行工作](https://zh.wikipedia.org/wiki/diskpart "wikilink"))。 <ref>See for example:
 
-`  `[`DiskPart:``   ``vdisk``   ``create``   ``select``
- ``attach`](http://blogs.msdn.com/7/archive/2009/10/08/diskpart-exe-and-managing-virtual-hard-disks-vhds-in-windows-7.aspx)`, `
-`  `[`install``   ``and``   ``boot``   ``Windows``   ``7``   ``from``
- ``virtual``   ``disk``
- ``drive`](http://www.sevenforums.com/tutorials/2953-virtual-hard-drive-vhd-file-create-start-boot.html)` and `
+`  `[`DiskPart:``   ``vdisk``   ``create``   ``select``   ``attach`](http://blogs.msdn.com/7/archive/2009/10/08/diskpart-exe-and-managing-virtual-hard-disks-vhds-in-windows-7.aspx)`, `
+`  `[`install``   ``and``   ``boot``   ``Windows``   ``7``   ``from``   ``virtual``   ``disk``   ``drive`](http://www.sevenforums.com/tutorials/2953-virtual-hard-drive-vhd-file-create-start-boot.html)` and `
 `  `[`other`](http://www.google.com/search?num=100&hl=en&lr=&q=%22Diskpart%22+%22vdisk%22+create+select+attach+detach+site%3Atechnet.microsoft.com+-site%3Asocial.technet.microsoft.com&aq=f&aqi=&aql=&oq=&gs_rfai=)` `
 
-relative articles on this thematics. </ref>
-然而，这项能力经常通过第三方程序得以实现，例如*[Daemon
-Tools](https://zh.wikipedia.org/wiki/Daemon_Tools "wikilink")* 和
-*[Alcohol 120%](../Page/Alcohol_120%.md "wikilink")*
-[VMware](http://www.vmware.com/download/eula/diskmount_ws_v55.html)的免费工具以及[LTR
-Data](http://www.ltr-data.se/opencode.html#ImDisk)
-([ImDisk](https://zh.wikipedia.org/wiki/ImDisk "wikilink"))都可以实现类似的功能。
+relative articles on this thematics. </ref> 然而，这项能力经常通过第三方程序得以实现，例如*[Daemon Tools](https://zh.wikipedia.org/wiki/Daemon_Tools "wikilink")* 和 *[Alcohol 120%](../Page/Alcohol_120%.md "wikilink")* [VMware](http://www.vmware.com/download/eula/diskmount_ws_v55.html)的免费工具以及[LTR Data](http://www.ltr-data.se/opencode.html#ImDisk) ([ImDisk](https://zh.wikipedia.org/wiki/ImDisk "wikilink"))都可以实现类似的功能。
 
 ## 实例
 
@@ -71,16 +45,14 @@ Data](http://www.ltr-data.se/opencode.html#ImDisk)
 1.  用一个循环[设备节点连接文件](../Page/设备文件系统.md "wikilink")。
 2.  在目录上挂载该循环设备
 
-这两个操作既可以用两条命令来完成，也可以通过加上特殊的挂载符号的挂载命令来完成。第一个操作可以通过如[Linux平台下的](../Page/Linux.md "wikilink")`losetup`\[4\]或者是SunOS上的`lofiadm`\[5\]命令完成。
+这两个操作既可以用两条命令来完成，也可以通过加上特殊的挂载符号的挂载命令来完成。第一个操作可以通过如[Linux](../Page/Linux.md "wikilink")平台下的`losetup`\[4\]或者是SunOS上的`lofiadm`\[5\]命令完成。
 
-例如，如果 `example.img` 是一个包含文件系统的常规文件，并且 `/home/you/dir` 是
-Linux用户的目录，[超级用户](../Page/超级用户.md "wikilink")（root）或许可以通过执行如下的命令来将文件挂载在目录上：
+例如，如果 `example.img` 是一个包含文件系统的常规文件，并且 `/home/you/dir` 是 Linux用户的目录，[超级用户](../Page/超级用户.md "wikilink")（root）或许可以通过执行如下的命令来将文件挂载在目录上：
 
 `losetup /dev/loop0 example.img`
 `mount /dev/loop0 /home/you/dir`
 
-其中第二条命令将设备挂载于目录
-`/home/you/dir`。执行上述语句的效果便是文件被作为文件系统挂载，文件的内容出现在被挂载的目录中（以被挂载的目录作为根目录）。
+其中第二条命令将设备挂载于目录 `/home/you/dir`。执行上述语句的效果便是文件被作为文件系统挂载，文件的内容出现在被挂载的目录中（以被挂载的目录作为根目录）。
 
 此外 mount 工具常常可以胜任整个挂载的程序：
 
@@ -94,8 +66,7 @@ Linux用户的目录，[超级用户](../Page/超级用户.md "wikilink")（root
 `# 并执行下列命令：（`<N>`代表设备号）`
 `umount /dev/loop`<N>` `
 
-在较底层的[应用程序接口中](../Page/应用程序接口.md "wikilink")，文件的关联与解除关联通过在循环设备上的[ioctl](https://zh.wikipedia.org/wiki/ioctl "wikilink")
-[系统调用来实现](https://zh.wikipedia.org/wiki/系统调用 "wikilink")。
+在较底层的[应用程序接口](../Page/应用程序接口.md "wikilink")中，文件的关联与解除关联通过在循环设备上的[ioctl](https://zh.wikipedia.org/wiki/ioctl "wikilink") [系统调用来实现](https://zh.wikipedia.org/wiki/系统调用 "wikilink")。
 
 ## 参见
 
@@ -108,22 +79,13 @@ Linux用户的目录，[超级用户](../Page/超级用户.md "wikilink")（root
 
 ## 外部链接
 
-  - [配置循环设备](https://archive.is/20040210140744/http://www.linux.org/docs/ldp/howto/Cryptoloop-HOWTO/loopdevice-setup.html)
-    from the
-    [cryptoloop](https://zh.wikipedia.org/wiki/cryptoloop "wikilink")
-    [HOWTO](https://zh.wikipedia.org/wiki/HOWTO "wikilink").
-  - [使用循环设备挂载磁盘镜像](http://bochs.sourceforge.net/doc/docbook/user/loop-device-usage.html)
-    from the *[Bochs](../Page/Bochs.md "wikilink") User Manual*
+  - [配置循环设备](https://archive.is/20040210140744/http://www.linux.org/docs/ldp/howto/Cryptoloop-HOWTO/loopdevice-setup.html) from the [cryptoloop](https://zh.wikipedia.org/wiki/cryptoloop "wikilink") [HOWTO](https://zh.wikipedia.org/wiki/HOWTO "wikilink").
+  - [使用循环设备挂载磁盘镜像](http://bochs.sourceforge.net/doc/docbook/user/loop-device-usage.html) from the *[Bochs](../Page/Bochs.md "wikilink") User Manual*
 
-[Category:设备文件](https://zh.wikipedia.org/wiki/Category:设备文件 "wikilink")
-[Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
-[Category:Linux内核功能](https://zh.wikipedia.org/wiki/Category:Linux内核功能 "wikilink")
+[Category:设备文件](https://zh.wikipedia.org/wiki/Category:设备文件 "wikilink") [Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink") [Category:Linux内核功能](https://zh.wikipedia.org/wiki/Category:Linux内核功能 "wikilink")
 
-1.  [mdconfig—configure and enable memory disks, FreeBSD manual
-    page](http://www.freebsd.org/cgi/man.cgi?mdconfig)
+1.  [mdconfig—configure and enable memory disks, FreeBSD manual page](http://www.freebsd.org/cgi/man.cgi?mdconfig)
 2.
 3.
-4.  [losetup manual
-    page](http://www.cl.cam.ac.uk/cgi-bin/manpage?8+losetup)
-5.  [lofiadm, Sun System Administration Command
-    manual](http://docs.sun.com/app/docs/doc/819-2240/lofiadm-1m?a=view)
+4.  [losetup manual page](http://www.cl.cam.ac.uk/cgi-bin/manpage?8+losetup)
+5.  [lofiadm, Sun System Administration Command manual](http://docs.sun.com/app/docs/doc/819-2240/lofiadm-1m?a=view)

@@ -1,15 +1,10 @@
-《**JUJU的點歌本**》（原名：**Request**），[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[JUJU的](../Page/JUJU.md "wikilink")[翻唱](https://zh.wikipedia.org/wiki/翻唱 "wikilink")[專輯](../Page/音樂專輯.md "wikilink")。2010年9月29日發行。
+《**JUJU的點歌本**》（原名：**Request**），[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[JUJU](../Page/JUJU.md "wikilink")的[翻唱](https://zh.wikipedia.org/wiki/翻唱 "wikilink")[專輯](../Page/音樂專輯.md "wikilink")。2010年9月29日發行。
 
 ## 簡介
 
-JUJU的首張翻唱專輯。起初是因為JUJU翻唱[My Little
-Lover的名曲](../Page/My_Little_Lover.md "wikilink")《[Hello, Again
-～在以前的某處～](../Page/Hello,_Again_～在以前的某處～.md "wikilink")》（詳見[Hello,
-Again ～在以前的某處～
-(JUJU單曲)](../Page/Hello,_Again_～在以前的某處～_\(JUJU單曲\).md "wikilink")）獲得了絕佳的反響，於是在官方網站上由歌迷決定將要翻唱的歌曲組成「JUJU的點歌本」。
+JUJU的首張翻唱專輯。起初是因為JUJU翻唱[My Little Lover的名曲](../Page/My_Little_Lover.md "wikilink")《[Hello, Again ～在以前的某處～](../Page/Hello,_Again_～在以前的某處～.md "wikilink")》（詳見[Hello, Again ～在以前的某處～ (JUJU單曲)](../Page/Hello,_Again_～在以前的某處～_\(JUJU單曲\).md "wikilink")）獲得了絕佳的反響，於是在官方網站上由歌迷決定將要翻唱的歌曲組成「JUJU的點歌本」。
 
-翻唱了1990年代中後期至2000年代前期日本12首女聲名曲，除了My Little Lover之外，還包括[DREAMS COME
-TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[安室奈美惠](../Page/安室奈美惠.md "wikilink")、[椎名林檎](../Page/椎名林檎.md "wikilink")、[宇多田光等重量級歌手的作品](../Page/宇多田光.md "wikilink")。此外，專輯的完成度極高也被認為是成功的重要因素。
+翻唱了1990年代中後期至2000年代前期日本12首女聲名曲，除了My Little Lover之外，還包括[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[安室奈美惠](../Page/安室奈美惠.md "wikilink")、[椎名林檎](../Page/椎名林檎.md "wikilink")、[宇多田光](../Page/宇多田光.md "wikilink")等重量級歌手的作品。此外，專輯的完成度極高也被認為是成功的重要因素。
 
 專輯發行的首週即[取得Oricon公信榜冠軍](https://zh.wikipedia.org/wiki/2010年Oricon專輯週榜冠軍作品 "wikilink")，並蟬聯兩週，是首張能蟬聯冠軍的女性歌手翻唱專輯。\[1\]\[2\]是2010年度日本專輯銷量第13位。\[3\]
 
@@ -145,11 +140,7 @@ TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[安室奈美惠](../Page/安室
 
   - [唱片介紹](http://www.sonymusic.co.jp/Music/Arch/AI/JUJU/AICL-2178/index.html)
 
-[Category:JUJU音樂專輯](https://zh.wikipedia.org/wiki/Category:JUJU音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
-[Category:2010年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:JUJU音樂專輯](https://zh.wikipedia.org/wiki/Category:JUJU音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink") [Category:2010年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯月榜冠軍作品 "wikilink") [Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.  [](http://www.oricon.co.jp/news/rankmusic/80702/full/)
 2.  [](http://www.oricon.co.jp/news/confidence/80930/full/)

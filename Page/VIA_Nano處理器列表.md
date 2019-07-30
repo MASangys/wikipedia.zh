@@ -6,18 +6,7 @@ Nano系列處理器為VIA公司開發的第八代處理器，主要面向嵌入�
 
 ### VIA Nano 2000 系列
 
-  - 全系列支援: *[MMX](../Page/MMX.md "wikilink"),
-    [SSE](../Page/SSE.md "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [x86虚拟化](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink")
-    (stepping 3 and higher), [VIA
-    PadLock](https://zh.wikipedia.org/wiki/VIA_PadLock "wikilink") (SHA,
-    AES, RNG)*, [VIA
-    PowerSaver](https://zh.wikipedia.org/wiki/VIA_PowerSaver "wikilink")
+  - 全系列支援: *[MMX](../Page/MMX.md "wikilink"), [SSE](../Page/SSE.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [x86虚拟化](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink") (stepping 3 and higher), [VIA PadLock](https://zh.wikipedia.org/wiki/VIA_PadLock "wikilink") (SHA, AES, RNG)*, [VIA PowerSaver](https://zh.wikipedia.org/wiki/VIA_PowerSaver "wikilink")
 
 | 型號         | 時脈      | L1快取     | L2快取    | 前端匯流排   | 倍頻 | TDP  | Idle Power | CPU腳位    | 核心數 | 發表時間         | 產品編號 |
 | ---------- | ------- | -------- | ------- | ------- | -- | ---- | ---------- | -------- | --- | ------------ | ---- |
@@ -26,18 +15,7 @@ Nano系列處理器為VIA公司開發的第八代處理器，主要面向嵌入�
 
 ### VIA Nano 3000 系列
 
-  - 全系列支援: *[MMX](../Page/MMX.md "wikilink"),
-    [SSE](../Page/SSE.md "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [x86虚拟化](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink"),
-    [VIA PadLock](https://zh.wikipedia.org/wiki/VIA_PadLock "wikilink")
-    (SHA, AES, RNG)*, [VIA
-    PowerSaver](https://zh.wikipedia.org/wiki/VIA_PowerSaver "wikilink")
+  - 全系列支援: *[MMX](../Page/MMX.md "wikilink"), [SSE](../Page/SSE.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [x86虚拟化](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink"), [VIA PadLock](https://zh.wikipedia.org/wiki/VIA_PadLock "wikilink") (SHA, AES, RNG)*, [VIA PowerSaver](https://zh.wikipedia.org/wiki/VIA_PowerSaver "wikilink")
 
 | 型號         | 時脈      | L1快取     | L2快取   | 前端匯流排   | 倍頻  | TDP | Idle Power | CPU腳位    | 核心數 | 發表時間             | 產品編號 |
 | ---------- | ------- | -------- | ------ | ------- | --- | --- | ---------- | -------- | --- | ---------------- | ---- |
@@ -48,18 +26,7 @@ Nano系列處理器為VIA公司開發的第八代處理器，主要面向嵌入�
 
 ### VIA Nano 1000/2000 系列
 
-  - 全系列支援: *[MMX](../Page/MMX.md "wikilink"),
-    [SSE](../Page/SSE.md "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [x86虚拟化](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink")
-    (stepping 3 and higher), [VIA
-    PadLock](https://zh.wikipedia.org/wiki/VIA_PadLock "wikilink") (SHA,
-    AES, RNG)*, [VIA
-    PowerSaver](https://zh.wikipedia.org/wiki/VIA_PowerSaver "wikilink")
+  - 全系列支援: *[MMX](../Page/MMX.md "wikilink"), [SSE](../Page/SSE.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [x86虚拟化](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink") (stepping 3 and higher), [VIA PadLock](https://zh.wikipedia.org/wiki/VIA_PadLock "wikilink") (SHA, AES, RNG)*, [VIA PowerSaver](https://zh.wikipedia.org/wiki/VIA_PowerSaver "wikilink")
 
 | 型號         | 時脈                      | L1快取     | L2快取   | 前端匯流排   | 倍頻      | TDP   | Idle Power | CPU腳位    | 核心數 | 發表時間         | 產品編號 |
 | ---------- | ----------------------- | -------- | ------ | ------- | ------- | ----- | ---------- | -------- | --- | ------------ | ---- |
@@ -71,17 +38,7 @@ Nano系列處理器為VIA公司開發的第八代處理器，主要面向嵌入�
 
 ### VIA Nano 3000 系列\[1\]\[2\]
 
-  - 全系列支援: *[MMX](../Page/MMX.md "wikilink"),
-    [SSE](../Page/SSE.md "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [x86虚拟化](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink"),
-    [VIA PadLock](https://zh.wikipedia.org/wiki/VIA_PadLock "wikilink")
-    (SHA, AES, RNG)*, [VIA
-    PowerSaver](https://zh.wikipedia.org/wiki/VIA_PowerSaver "wikilink")
+  - 全系列支援: *[MMX](../Page/MMX.md "wikilink"), [SSE](../Page/SSE.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [x86虚拟化](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink"), [VIA PadLock](https://zh.wikipedia.org/wiki/VIA_PadLock "wikilink") (SHA, AES, RNG)*, [VIA PowerSaver](https://zh.wikipedia.org/wiki/VIA_PowerSaver "wikilink")
   - 為65nm製程
 
 | 型號         | 時脈                      | L1快取     | L2快取 | 前端匯流排   | 倍頻      | TDP   | Idle Power | CPU腳位    | 核心數 | 發表時間           | 產品編號 |
@@ -94,18 +51,7 @@ Nano系列處理器為VIA公司開發的第八代處理器，主要面向嵌入�
 
 ### VIA Nano 雙核系列\[3\]\[4\]
 
-  - 全系列支援: *[MMX](../Page/MMX.md "wikilink"),
-    [SSE](../Page/SSE.md "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [x86虚拟化](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink"),
-    [VIA PadLock](https://zh.wikipedia.org/wiki/VIA_PadLock "wikilink")
-    (SHA, AES, RNG)*, [VIA
-    PowerSaver](https://zh.wikipedia.org/wiki/VIA_PowerSaver "wikilink")
+  - 全系列支援: *[MMX](../Page/MMX.md "wikilink"), [SSE](../Page/SSE.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [x86虚拟化](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink"), [VIA PadLock](https://zh.wikipedia.org/wiki/VIA_PadLock "wikilink") (SHA, AES, RNG)*, [VIA PowerSaver](https://zh.wikipedia.org/wiki/VIA_PowerSaver "wikilink")
   - 為40nm製程
   - 將兩顆 Nano 3000 (Isaiah) 封裝至同一基板(die)上而來
 
@@ -118,18 +64,7 @@ Nano系列處理器為VIA公司開發的第八代處理器，主要面向嵌入�
 
 ### VIA QuadCore Processor(四核心處理器系列)\[5\]\[6\]\[7\]
 
-  - 全系列支援: *[MMX](../Page/MMX.md "wikilink"),
-    [SSE](../Page/SSE.md "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [x86虚拟化](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink"),
-    [VIA PadLock](https://zh.wikipedia.org/wiki/VIA_PadLock "wikilink")
-    (SHA, AES, RNG)*, [VIA
-    PowerSaver](https://zh.wikipedia.org/wiki/VIA_PowerSaver "wikilink")
+  - 全系列支援: *[MMX](../Page/MMX.md "wikilink"), [SSE](../Page/SSE.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [x86虚拟化](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink"), [VIA PadLock](https://zh.wikipedia.org/wiki/VIA_PadLock "wikilink") (SHA, AES, RNG)*, [VIA PowerSaver](https://zh.wikipedia.org/wiki/VIA_PowerSaver "wikilink")
   - 為40nm製程
   - 為兩顆 Nano x2 (Isaiah) 封裝在同一個基板(die)上
 
@@ -155,24 +90,18 @@ Nano系列處理器為VIA公司開發的第八代處理器，主要面向嵌入�
 ## 外部連結
 
   - [威盛電子官方網站](http://www.viatech.com.tw/)
-  - [雙核心CPU + 32 Cores IGP
-    VIA推出Nano雙核心處理器平台](https://web.archive.org/web/20101204012240/http://global.hkepc.com/5342)
-  - [VIA展示Dual Core Nano處理器 最高達2GHz時脈 功耗約20W
-    TDP](http://www.hkepc.com/5026)
+  - [雙核心CPU + 32 Cores IGP VIA推出Nano雙核心處理器平台](https://web.archive.org/web/20101204012240/http://global.hkepc.com/5342)
+  - [VIA展示Dual Core Nano處理器 最高達2GHz時脈 功耗約20W TDP](http://www.hkepc.com/5026)
   - [預期2010年第一季度投入量產 VIA Nano 3000系列處理器](http://www.hkepc.com/4215)
   - [針對Windows 7嵌入式裝置市場 VIA全系列x86處理器全面支援](http://www.hkepc.com/4088)
   - [VIA Nano處理器進軍伺服器領域 Dell推出XS11-VX8超輕薄伺服器](http://www.hkepc.com/2975)
-  - [2009年VIA處理器最新佈局 Nano 3000、Dual
-    Core計劃曝光](http://www.hkepc.com/tag/via/page/3)
+  - [2009年VIA處理器最新佈局 Nano 3000、Dual Core計劃曝光](http://www.hkepc.com/tag/via/page/3)
   - [全新VIA Isaiah微架構 VIA Nano L2100處理器上市](http://www.hkepc.com/1797)
   - [VIA全新Nano處理器正式發佈 效能比上代高4倍 陳文琦︰VIA未來希望](http://www.hkepc.com/1227)
-  - [VIA's C3 Hits 1
-    GHz](http://www.tomshardware.com/reviews/VIA-s-C3-Hits-1-GHz,472.html)
-  - [Atom, Athlon, or Nano? Energy-Savers
-    Compared](http://www.tomshardware.com/reviews/Athlon-Atom-Nano-power,2036.html)
+  - [VIA's C3 Hits 1 GHz](http://www.tomshardware.com/reviews/VIA-s-C3-Hits-1-GHz,472.html)
+  - [Atom, Athlon, or Nano? Energy-Savers Compared](http://www.tomshardware.com/reviews/Athlon-Atom-Nano-power,2036.html)
 
-[Category:威勝處理器](https://zh.wikipedia.org/wiki/Category:威勝處理器 "wikilink")
-[Category:微處理器列表](https://zh.wikipedia.org/wiki/Category:微處理器列表 "wikilink")
+[Category:威勝處理器](https://zh.wikipedia.org/wiki/Category:威勝處理器 "wikilink") [Category:微處理器列表](https://zh.wikipedia.org/wiki/Category:微處理器列表 "wikilink")
 
 1.
 2.  <http://www.viaembedded.com/servlet/downloadSvl?id=1370&download_file_id=13044>

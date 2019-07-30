@@ -1,6 +1,4 @@
-《**因緣 Kiss Ent. PJT Album**》是由韓國KISS
-Entertainment結合旗下藝人於2004年10月4日推出的第二張合輯。\[1\]由Kiss
-Entertainment企劃，Sony music Korea發行。
+《**因緣 Kiss Ent. PJT Album**》是由韓國KISS Entertainment結合旗下藝人於2004年10月4日推出的第二張合輯。\[1\]由Kiss Entertainment企劃，Sony music Korea發行。
 
 ## 概述
 
@@ -19,8 +17,6 @@ Entertainment企劃，Sony music Korea發行。
 
 ## 參考資料
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
-[Category:Chakra音樂專輯](https://zh.wikipedia.org/wiki/Category:Chakra音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:Chakra音樂專輯](https://zh.wikipedia.org/wiki/Category:Chakra音樂專輯 "wikilink")
 
 1.

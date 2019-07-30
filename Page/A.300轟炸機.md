@@ -2,5 +2,4 @@
 
 ## 性能
 
-[Category:沃多喬迪航空飛機](https://zh.wikipedia.org/wiki/Category:沃多喬迪航空飛機 "wikilink")
-[Category:轟炸機](https://zh.wikipedia.org/wiki/Category:轟炸機 "wikilink")
+[Category:沃多喬迪航空飛機](https://zh.wikipedia.org/wiki/Category:沃多喬迪航空飛機 "wikilink") [Category:轟炸機](https://zh.wikipedia.org/wiki/Category:轟炸機 "wikilink")

@@ -1,13 +1,10 @@
-《**A New
-Beginning**》為[香港女歌手](../Page/香港.md "wikilink")[關心妍的第十二張個人音樂大碟](../Page/關心妍.md "wikilink")（第十張粵語專輯），是她轉投新唱片公司[星煥國際有限公司後的第一張專輯](https://zh.wikipedia.org/wiki/星煥國際有限公司 "wikilink")。進入婚姻后的关心妍在乐坛以此專輯重新出发\[1\]，也拿下二個獎項\[2\]\[3\]。
+《**A New Beginning**》為[香港](../Page/香港.md "wikilink")女歌手[關心妍](../Page/關心妍.md "wikilink")的第十二張個人音樂大碟（第十張粵語專輯），是她轉投新唱片公司[星煥國際有限公司後的第一張專輯](https://zh.wikipedia.org/wiki/星煥國際有限公司 "wikilink")。進入婚姻后的关心妍在乐坛以此專輯重新出发\[1\]，也拿下二個獎項\[2\]\[3\]。
 
 ## 簡介
 
-進入婚姻后的关心妍发行全新專輯《A New
-Beginning》，在乐坛重新出发，主打歌曲《以身试爱》大获全胜，成为傳唱度极高的金曲。《以身试爱》獲得[2010年度“十大中文金曲颁奖典礼”的“十大金曲”獎項](https://zh.wikipedia.org/wiki/第三十三屆十大中文金曲得獎名單#十大中文金曲 "wikilink")。當時上台领奖的关心妍激动不已、泪洒当场表示“这个奖，我等了很多年了。”\[4\]。此外，她在同年11月舉辦的「百年璀璨——华语金曲奖2011盛典」中，以此專輯榮獲「专业推介流行女歌手獎」\[5\]。
+進入婚姻后的关心妍发行全新專輯《A New Beginning》，在乐坛重新出发，主打歌曲《以身试爱》大获全胜，成为傳唱度极高的金曲。《以身试爱》獲得[2010年度“十大中文金曲颁奖典礼”的“十大金曲”獎項](https://zh.wikipedia.org/wiki/第三十三屆十大中文金曲得獎名單#十大中文金曲 "wikilink")。當時上台领奖的关心妍激动不已、泪洒当场表示“这个奖，我等了很多年了。”\[4\]。此外，她在同年11月舉辦的「百年璀璨——华语金曲奖2011盛典」中，以此專輯榮獲「专业推介流行女歌手獎」\[5\]。
 
-《A New
-Beginning》的主题概念是「冬雪」，造型师为关心妍挑選的服饰以個性風格为主。由于关心妍在主打歌《重新出发》MV中的妝容「飘雪妆」大受好评，化妆师持續为她創造新妆容，關心妍也因此每次需要两个多小時完成上妝。拍攝專輯封面时，关特意将头发顏色染深並將瀏海留厚，拍摄当日自备十多雙自己收藏的美鞋上陣；为了讓身形線條更為上鏡，她直到拍摄工作完成前只吃麵包果腹\[6\]。
+《A New Beginning》的主题概念是「冬雪」，造型师为关心妍挑選的服饰以個性風格为主。由于关心妍在主打歌《重新出发》MV中的妝容「飘雪妆」大受好评，化妆师持續为她創造新妆容，關心妍也因此每次需要两个多小時完成上妝。拍攝專輯封面时，关特意将头发顏色染深並將瀏海留厚，拍摄当日自备十多雙自己收藏的美鞋上陣；为了讓身形線條更為上鏡，她直到拍摄工作完成前只吃麵包果腹\[6\]。
 
 ## 專輯曲目
 
@@ -53,21 +50,14 @@ Beginning》的主题概念是「冬雪」，造型师为关心妍挑選的服�
 
 ## 參考資料
 
-[Category:關心妍音樂專輯](https://zh.wikipedia.org/wiki/Category:關心妍音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:關心妍音樂專輯](https://zh.wikipedia.org/wiki/Category:關心妍音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
-1.  [香港歌手关心妍婚后复出
-    “重新出发”出新碟](http://www.gd.chinanews.com/2010/2010-10-08/2/59142.shtml)，廣東新聞網，2010-10-08
+1.  [香港歌手关心妍婚后复出 “重新出发”出新碟](http://www.gd.chinanews.com/2010/2010-10-08/2/59142.shtml)，廣東新聞網，2010-10-08
 
-2.  [关心妍泪洒现场
-    直呼“这奖等了很多年”(图)](http://ent.sina.com.cn/y/2011-01-07/22103201425.shtml)，[新浪娛樂](../Page/新浪.md "wikilink")，2011-01-07
+2.  [关心妍泪洒现场 直呼“这奖等了很多年”(图)](http://ent.sina.com.cn/y/2011-01-07/22103201425.shtml)，[新浪](../Page/新浪.md "wikilink")娛樂，2011-01-07
 
-3.  [“华语金曲奖2011”揭晓
-    龚琳娜成“年度艺人”](http://ent.sina.com.cn/y/2011-11-16/22203483244.shtml)，[新浪娛樂](../Page/新浪.md "wikilink")，2011-11-16
+3.  [“华语金曲奖2011”揭晓 龚琳娜成“年度艺人”](http://ent.sina.com.cn/y/2011-11-16/22203483244.shtml)，[新浪](../Page/新浪.md "wikilink")娛樂，2011-11-16
 
 4.
 5.
-6.  [香港歌手关心妍婚后复出
-    “重新出发”出新碟](http://www.gd.chinanews.com/2010/2010-10-08/2/59142.shtml)，廣東新聞網，2010-10-08
+6.  [香港歌手关心妍婚后复出 “重新出发”出新碟](http://www.gd.chinanews.com/2010/2010-10-08/2/59142.shtml)，廣東新聞網，2010-10-08

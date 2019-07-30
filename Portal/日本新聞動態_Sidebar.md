@@ -86,5 +86,4 @@ __NOTOC__ |} |valign="top" style="width:250px"|
 
 |}<noinclude></noinclude>
 
-[Category:輔助模板](https://zh.wikipedia.org/wiki/Category:輔助模板 "wikilink")
-[Category:日本模板](https://zh.wikipedia.org/wiki/Category:日本模板 "wikilink")
+[Category:輔助模板](https://zh.wikipedia.org/wiki/Category:輔助模板 "wikilink") [Category:日本模板](https://zh.wikipedia.org/wiki/Category:日本模板 "wikilink")

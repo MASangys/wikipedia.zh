@@ -1,4 +1,4 @@
-**SKY**是2003年屬於[香港](../Page/香港.md "wikilink")[新藝寶唱片的一隊](../Page/新藝寶唱片.md "wikilink")[男子演唱團體](https://zh.wikipedia.org/wiki/男子演唱團體 "wikilink")，由[潘卓楠](https://zh.wikipedia.org/wiki/潘卓楠 "wikilink")（Gilbert）、[嚴嘉駿](https://zh.wikipedia.org/wiki/嚴嘉駿 "wikilink")（Yani）、[林卓健](https://zh.wikipedia.org/wiki/林卓健 "wikilink")（Kin）、[趙耀邦](https://zh.wikipedia.org/wiki/趙耀邦 "wikilink")（Bon）以及[梁俊邦](https://zh.wikipedia.org/wiki/梁俊邦 "wikilink")（Bonald）五位男生組成。曾演出音樂作品、電視、廣告；2005年正式解散，各人各自發展，至2018年中，除潘卓楠外四人重組復出\[1\]。
+**SKY**是2003年屬於[香港](../Page/香港.md "wikilink")[新藝寶唱片](../Page/新藝寶唱片.md "wikilink")的一隊[男子演唱團體](https://zh.wikipedia.org/wiki/男子演唱團體 "wikilink")，由[潘卓楠](https://zh.wikipedia.org/wiki/潘卓楠 "wikilink")（Gilbert）、[嚴嘉駿](https://zh.wikipedia.org/wiki/嚴嘉駿 "wikilink")（Yani）、[林卓健](https://zh.wikipedia.org/wiki/林卓健 "wikilink")（Kin）、[趙耀邦](https://zh.wikipedia.org/wiki/趙耀邦 "wikilink")（Bon）以及[梁俊邦](https://zh.wikipedia.org/wiki/梁俊邦 "wikilink")（Bonald）五位男生組成。曾演出音樂作品、電視、廣告；2005年正式解散，各人各自發展，至2018年中，除潘卓楠外四人重組復出\[1\]。
 
 ## 組合成員
 
@@ -56,9 +56,8 @@
 
 ### 其他歌曲／未收錄在大碟內之歌曲
 
-1.  勇者（與[郭力行](../Page/郭力行.md "wikilink")、[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")、[吳卓羲合唱](../Page/吳卓羲.md "wikilink")）（TVB電視劇《學警雄心》主題曲）　
-2.  趁今天有空 (featuring. [Ghost
-    Style](https://zh.wikipedia.org/wiki/Ghost_Style "wikilink"))　
+1.  勇者（與[郭力行](../Page/郭力行.md "wikilink")、[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")、[吳卓羲](../Page/吳卓羲.md "wikilink")合唱）（TVB電視劇《學警雄心》主題曲）　
+2.  趁今天有空 (featuring. [Ghost Style](https://zh.wikipedia.org/wiki/Ghost_Style "wikilink"))　
 3.  人生同盟
 
 ## 外部連結
@@ -68,9 +67,6 @@
   - [《未捱過》](http://www.youtube.com/watch?v=FMzF-gu5mUs&feature=related)
   - [《高高地》](http://www.youtube.com/watch?v=Fjo41JSpO9Q&feature=related)
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink")
-[Category:2005年廢除](https://zh.wikipedia.org/wiki/Category:2005年廢除 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink") [Category:2005年廢除](https://zh.wikipedia.org/wiki/Category:2005年廢除 "wikilink")
 
-1.  [【重回那些年】離樂壇15年
-    男子組合SKY四缺一重組](https://hk.entertainment.appledaily.com/enews/realtime/article/20180727/58492843)
+1.  [【重回那些年】離樂壇15年 男子組合SKY四缺一重組](https://hk.entertainment.appledaily.com/enews/realtime/article/20180727/58492843)

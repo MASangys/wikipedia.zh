@@ -43,8 +43,4 @@
 
 ## 外部链接
 
-[Category:美國發明家](https://zh.wikipedia.org/wiki/Category:美國發明家 "wikilink")
-[Category:美國第二次世界大戰人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰人物 "wikilink")
-[Category:印第安納州人](https://zh.wikipedia.org/wiki/Category:印第安納州人 "wikilink")
-[Category:武器設計師](https://zh.wikipedia.org/wiki/Category:武器設計師 "wikilink")
-[Category:槍械設計師](https://zh.wikipedia.org/wiki/Category:槍械設計師 "wikilink")
+[Category:美國發明家](https://zh.wikipedia.org/wiki/Category:美國發明家 "wikilink") [Category:美國第二次世界大戰人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰人物 "wikilink") [Category:印第安納州人](https://zh.wikipedia.org/wiki/Category:印第安納州人 "wikilink") [Category:武器設計師](https://zh.wikipedia.org/wiki/Category:武器設計師 "wikilink") [Category:槍械設計師](https://zh.wikipedia.org/wiki/Category:槍械設計師 "wikilink")

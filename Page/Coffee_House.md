@@ -1,9 +1,8 @@
-**《Coffee
-House》**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，自2010年5月17日起至7月27日，逢星期一、二晚上八時五十分播出。[香港](../Page/香港.md "wikilink")[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[J2於](../Page/J2.md "wikilink")2010年10月25日起，每週一至四晚上十時三十分播出。[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[衛視中文台於](../Page/衛視中文台.md "wikilink")2011年1月12日起，每週一至五晚上九點播出。\[1\]
+**《Coffee House》**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，自2010年5月17日起至7月27日，逢星期一、二晚上八時五十分播出。[香港](../Page/香港.md "wikilink")[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[J2](../Page/J2.md "wikilink")於2010年10月25日起，每週一至四晚上十時三十分播出。[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[衛視中文台](../Page/衛視中文台.md "wikilink")於2011年1月12日起，每週一至五晚上九點播出。\[1\]
 
 ## 劇情簡介
 
-一部關於年輕人初踏入社會後心智逐漸趨於成熟的浪漫[喜劇](../Page/喜劇.md "wikilink")。劇組希望藉由此劇激勵[觀眾勇於追逐夢想](https://zh.wikipedia.org/wiki/觀眾 "wikilink")，並且不忘家庭的重要性。年輕有為的暢銷[小說家](https://zh.wikipedia.org/wiki/小說 "wikilink")——李辰秀在前往簽書會的路上遇到嚴重的塞車，為了躲雨他索性走進一間彷彿即將倒閉的[咖啡店](../Page/咖啡店.md "wikilink")「宮殿咖啡」，並遇見了穿著邋遢正準備著[公務員考試的老闆女兒](../Page/公務員.md "wikilink")——澄妍。澄妍在見到展秀彬彬有禮且王子般的外貌後便對其一見鍾情，孰不知辰秀真正的個性是既古怪又挑剔，完全是個表裡不一的男人。澄妍為了能跟在展秀身邊，想盡辦法利用學長的關係，進而成為辰秀的私人[秘書](../Page/秘書.md "wikilink")，卻意外成為才貌雙全的[出版社代表](../Page/出版社.md "wikilink")——恩英的競爭者，開始了其苦澀的暗戀人生。\[2\]
+一部關於年輕人初踏入社會後心智逐漸趨於成熟的浪漫[喜劇](../Page/喜劇.md "wikilink")。劇組希望藉由此劇激勵[觀眾勇於追逐夢想](https://zh.wikipedia.org/wiki/觀眾 "wikilink")，並且不忘家庭的重要性。年輕有為的暢銷[小說家](https://zh.wikipedia.org/wiki/小說 "wikilink")——李辰秀在前往簽書會的路上遇到嚴重的塞車，為了躲雨他索性走進一間彷彿即將倒閉的[咖啡店](../Page/咖啡店.md "wikilink")「宮殿咖啡」，並遇見了穿著邋遢正準備著[公務員](../Page/公務員.md "wikilink")考試的老闆女兒——澄妍。澄妍在見到展秀彬彬有禮且王子般的外貌後便對其一見鍾情，孰不知辰秀真正的個性是既古怪又挑剔，完全是個表裡不一的男人。澄妍為了能跟在展秀身邊，想盡辦法利用學長的關係，進而成為辰秀的私人[秘書](../Page/秘書.md "wikilink")，卻意外成為才貌雙全的[出版社](../Page/出版社.md "wikilink")代表——恩英的競爭者，開始了其苦澀的暗戀人生。\[2\]
 
 ## 人物介紹
 
@@ -27,15 +26,13 @@ House》**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS
 <!-- end list -->
 
   -
-    作曲：[葉肇中](../Page/葉肇中.md "wikilink")　作詞：?　主唱：[周志文](https://zh.wikipedia.org/wiki/周志文_\(歌手\) "wikilink")
-    / [周志康](https://zh.wikipedia.org/wiki/周志康 "wikilink")
+    作曲：[葉肇中](../Page/葉肇中.md "wikilink")　作詞：?　主唱：[周志文](https://zh.wikipedia.org/wiki/周志文_\(歌手\) "wikilink") / [周志康](https://zh.wikipedia.org/wiki/周志康 "wikilink")
 
 ## 原聲帶
 
   - 專輯名稱：-{Coffee House}- OST
   - 發行日期：2010年5月20日
-  - 發行商：[LOEN
-    Entertainment](https://zh.wikipedia.org/wiki/LOEN_Entertainment "wikilink")
+  - 發行商：[LOEN Entertainment](https://zh.wikipedia.org/wiki/LOEN_Entertainment "wikilink")
 
 | \# | 歌曲名稱                                     | 歌手                                                                                                                                              |
 | :-: | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,12 +55,7 @@ House》**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS
 
 ## 作品的變遷
 
-[Category:SBS月火連續劇](https://zh.wikipedia.org/wiki/Category:SBS月火連續劇 "wikilink")
-[Category:2010年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2010年韓國電視劇集 "wikilink")
-[Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink")
-[Category:咖啡店背景作品](https://zh.wikipedia.org/wiki/Category:咖啡店背景作品 "wikilink")
-[Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:SBS月火連續劇](https://zh.wikipedia.org/wiki/Category:SBS月火連續劇 "wikilink") [Category:2010年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2010年韓國電視劇集 "wikilink") [Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink") [Category:咖啡店背景作品](https://zh.wikipedia.org/wiki/Category:咖啡店背景作品 "wikilink") [Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.
 

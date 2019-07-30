@@ -1,11 +1,10 @@
-**株式會社Atomic
-Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")[東麻布](../Page/東麻布.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。集團旗下企業之一。
+**株式會社Atomic Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")[東麻布](../Page/東麻布.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。集團旗下企業之一。
 
 ## 概要
 
-2000年8月18日\[2\]成立，是由[東京俳優生活協同組合事務所出身的人所創建的公司](../Page/東京俳優生活協同組合.md "wikilink")。除了聲優經紀業務外，也有[聲優及演技培訓的培訓中心](https://zh.wikipedia.org/wiki/Atomic_Monkey#Atomic_Monkey／聲優·演技研究所 "wikilink")（下述）及音樂事業部。
+2000年8月18日\[2\]成立，是由[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")事務所出身的人所創建的公司。除了聲優經紀業務外，也有[聲優及演技培訓的培訓中心](https://zh.wikipedia.org/wiki/Atomic_Monkey#Atomic_Monkey／聲優·演技研究所 "wikilink")（下述）及音樂事業部。
 
-事務所的風格及自由度與俳協走向相近，但是私生活除外。例如聲優[小野友樹脫離事務所後不久對外公佈已婚長達](../Page/小野友樹.md "wikilink")6年。
+事務所的風格及自由度與俳協走向相近，但是私生活除外。例如聲優[小野友樹](../Page/小野友樹.md "wikilink")脫離事務所後不久對外公佈已婚長達6年。
 
 ## 所屬聲優
 
@@ -223,8 +222,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 
   - 粕谷大介（現所屬：NEW WORLD PRODUCTIONS）
 
-  - [川原慶久](../Page/川原慶久.md "wikilink")（現所屬：[Across
-    Entertainment](../Page/Across_Entertainment.md "wikilink")）
+  - [川原慶久](../Page/川原慶久.md "wikilink")（現所屬：[Across Entertainment](../Page/Across_Entertainment.md "wikilink")）
 
   - （現所屬：）
 
@@ -247,8 +245,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 
   - [高橋洋子](../Page/高橋洋子.md "wikilink")
 
-  - [西田望見](../Page/西田望見.md "wikilink")（現所屬：[Mausu
-    Promotion](../Page/Mausu_Promotion.md "wikilink")）
+  - [西田望見](../Page/西田望見.md "wikilink")（現所屬：[Mausu Promotion](../Page/Mausu_Promotion.md "wikilink")）
 
   - 野月正美
 
@@ -265,8 +262,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 
 ## 音樂事業部
 
-由Atomic
-Monkey自行發售的音樂產品。只有在[事務所官方網站](http://atomicmonkeywebshop.urdr.weblife.me/atomonwebshop/index.html)進行通信販售。
+由Atomic Monkey自行發售的音樂產品。只有在[事務所官方網站](http://atomicmonkeywebshop.urdr.weblife.me/atomonwebshop/index.html)進行通信販售。
 
 <table>
 <thead>
@@ -403,8 +399,7 @@ Monkey自行發售的音樂產品。只有在[事務所官方網站](http://atom
 
 ## Atomic Monkey／聲優·演技研究所
 
-2006年4月開校的Atomic
-Monkey旗下聲優養成所。養成期間2年。但是要升上2年級的話必須通過進級審查。並在一年之內得到前往6次製作公司的審査優秀認可，才能獲得事務所的採用。
+2006年4月開校的Atomic Monkey旗下聲優養成所。養成期間2年。但是要升上2年級的話必須通過進級審查。並在一年之內得到前往6次製作公司的審査優秀認可，才能獲得事務所的採用。
 
 ### 主要出身者
 
@@ -430,10 +425,7 @@ Monkey旗下聲優養成所。養成期間2年。但是要升上2年級的話必
 
   -
 
-[Category:Atomic_Monkey](https://zh.wikipedia.org/wiki/Category:Atomic_Monkey "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
-[Category:2000年成立的公司](https://zh.wikipedia.org/wiki/Category:2000年成立的公司 "wikilink")
+[Category:Atomic_Monkey](https://zh.wikipedia.org/wiki/Category:Atomic_Monkey "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:2000年成立的公司](https://zh.wikipedia.org/wiki/Category:2000年成立的公司 "wikilink")
 
 1.
 

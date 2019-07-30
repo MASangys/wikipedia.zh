@@ -8,7 +8,7 @@
 
 ## 对于经济的影响
 
-根据[经济合作与发展组织的研究](../Page/经济合作与发展组织.md "wikilink")\[3\]，实施巴塞尔协议III将对于世界经济产生−0.05%至−0.15%的影响。这个影响主要是由于银行体系的融资成本的提高使得其将这个成本部分地将其轉嫁至实体经济即贷款人之上，估计贷款人可能因此需要多支付15至50个基点的息差。但这是基于贷币政策不变的前提之下的，真正的影响可能会由于相关环境与政策的变化而有所不同。
+根据[经济合作与发展组织](../Page/经济合作与发展组织.md "wikilink")的研究\[3\]，实施巴塞尔协议III将对于世界经济产生−0.05%至−0.15%的影响。这个影响主要是由于银行体系的融资成本的提高使得其将这个成本部分地将其轉嫁至实体经济即贷款人之上，估计贷款人可能因此需要多支付15至50个基点的息差。但这是基于贷币政策不变的前提之下的，真正的影响可能会由于相关环境与政策的变化而有所不同。
 
 ## 参考文献
 
@@ -17,12 +17,8 @@
   - [巴塞尔协议](https://zh.wikipedia.org/wiki/巴塞尔协议 "wikilink")
   - [新巴塞爾資本協定](../Page/新巴塞爾資本協定.md "wikilink")
 
-[Category:金融制度與規章](https://zh.wikipedia.org/wiki/Category:金融制度與規章 "wikilink")
-[Category:金融風險](https://zh.wikipedia.org/wiki/Category:金融風險 "wikilink")
+[Category:金融制度與規章](https://zh.wikipedia.org/wiki/Category:金融制度與規章 "wikilink") [Category:金融風險](https://zh.wikipedia.org/wiki/Category:金融風險 "wikilink")
 
-1.  [Basel III: A global regulatory framework for more resilient banks
-    and banking systems - revised version
-    June 2011](http://www.bis.org/publ/bcbs189.pdf)
+1.  [Basel III: A global regulatory framework for more resilient banks and banking systems - revised version June 2011](http://www.bis.org/publ/bcbs189.pdf)
 2.  [市场对巴塞尔新协议反应积极](http://www.voanews.com/chinese/news/20100913-Basel-III-102811339.html)
-3.  "Macroeconomic Impact of Basel III" (pdf). February
-    2011.[10.1787/5kghwnhkkjs8-en](http://dx.doi.org/10.1787%2F5kghwnhkkjs8-en)
+3.  "Macroeconomic Impact of Basel III" (pdf). February 2011.[10.1787/5kghwnhkkjs8-en](http://dx.doi.org/10.1787%2F5kghwnhkkjs8-en)

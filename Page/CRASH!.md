@@ -1,19 +1,12 @@
-《**CRASH\!**》是日本[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[藤原友佳的](../Page/藤原友佳.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
-於[集英社出版的](../Page/集英社.md "wikilink")《[Ribon](../Page/Ribon.md "wikilink")》連載中。
-於2013年8月號完結
+《**CRASH\!**》是日本[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[藤原友佳](../Page/藤原友佳.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。 於[集英社](../Page/集英社.md "wikilink")出版的《[Ribon](../Page/Ribon.md "wikilink")》連載中。 於2013年8月號完結
 
 ## 簡介
 
-白星花以著看見偶像光芒就會噴鼻血的能力，在某次中央公園的紀念活動上，偶然遇見五位男主角們，且展現了噴鼻血的超強第六感，因此決定創造出最強偶像團體「CRASH\!」。
-此後，雖然遇到多次失敗以及實力不可小看的團體：Study 5、Dark、P-S、ALFA等，花仍堅強的帶領著CRASH\!邁向新的境界。
-1\~7集為第一部，從第8集開始為第二部，女主角換為綠川一彥的兒時朋友-由衣，其他人物皆無更動。
-由衣在花的邀請下進入CRASH\!工作，並發現自己喜歡上紫之塚-{怜}-，但-{怜}-喜歡的卻是花！
-於是，熱鬧且比第一部更加甜蜜心動的第二部就此展開！
+白星花以著看見偶像光芒就會噴鼻血的能力，在某次中央公園的紀念活動上，偶然遇見五位男主角們，且展現了噴鼻血的超強第六感，因此決定創造出最強偶像團體「CRASH\!」。 此後，雖然遇到多次失敗以及實力不可小看的團體：Study 5、Dark、P-S、ALFA等，花仍堅強的帶領著CRASH\!邁向新的境界。 1\~7集為第一部，從第8集開始為第二部，女主角換為綠川一彥的兒時朋友-由衣，其他人物皆無更動。 由衣在花的邀請下進入CRASH\!工作，並發現自己喜歡上紫之塚-{怜}-，但-{怜}-喜歡的卻是花！ 於是，熱鬧且比第一部更加甜蜜心動的第二部就此展開！
 
 ## 登場人物
 
-※聲優為分鏡廣播劇版 / 分鏡廣播劇特別版 /
-[電視動畫版](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")
+※聲優為分鏡廣播劇版 / 分鏡廣播劇特別版 / [電視動畫版](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")
 
 ### CRASH\!
 
@@ -290,17 +283,12 @@ DARK所屬的唱片公司
 
 ## 外部連結
 
-  - [《CRASH\!》 集英社Voice Comic Station
-    -VOMIC-](https://web.archive.org/web/20160508064103/http://vomic.shueisha.co.jp/crash/)
+  - [《CRASH\!》 集英社Voice Comic Station -VOMIC-](https://web.archive.org/web/20160508064103/http://vomic.shueisha.co.jp/crash/)
 
-  - [『CRASH\!』 特別版 集英社Voice Comic Station
-    -VOMIC-](https://web.archive.org/web/20160304133501/http://vomic.shueisha.co.jp/crash2/)
+  - [『CRASH\!』 特別版 集英社Voice Comic Station -VOMIC-](https://web.archive.org/web/20160304133501/http://vomic.shueisha.co.jp/crash2/)
 
   - [集英社マンガネットにて検索された藤原ゆか作品](http://www.s-manga.net/cgi-bin/s-search.cgi?author=%E8%97%A4%E5%8E%9F%E3%80%80%E3%82%86%E3%81%8B)
 
-  - [小林正典 (CRASH) アニソングランプリ
-    ゲストライブ2011](https://www.youtube.com/watch?v=X26-XMAVNAI)
+  - [小林正典 (CRASH) アニソングランプリ ゲストライブ2011](https://www.youtube.com/watch?v=X26-XMAVNAI)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Ribon](https://zh.wikipedia.org/wiki/Category:Ribon "wikilink")
-[Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Ribon](https://zh.wikipedia.org/wiki/Category:Ribon "wikilink") [Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink")

@@ -1,5 +1,4 @@
-《**Go\! Go\!
-Heaven**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+《**Go\! Go\! Heaven**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解説
 
@@ -23,27 +22,18 @@ Heaven**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](https:/
 4.
 ## 収錄專輯
 
-  - [Starting Over](../Page/Starting_Over_\(SPEED專輯\).md "wikilink")
-    (\#1，專輯版本)
+  - [Starting Over](../Page/Starting_Over_\(SPEED專輯\).md "wikilink") (\#1，專輯版本)
 
   - (\#1)
 
-  - [SPEED THE MEMORIAL BEST 1335days Dear Friends
-    1](../Page/SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends.md "wikilink")
-    (\#1,2，\#2是混音版本)
+  - [SPEED THE MEMORIAL BEST 1335days Dear Friends 1](../Page/SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends.md "wikilink") (\#1,2，\#2是混音版本)
 
 ## 腳註
 
 ## 外部連結
 
-  - [SPEED 10th
-    Anniversary](http://www.toysfactory.co.jp/speed/)（來自[TOY'S
-    FACTORY的](../Page/TOY'S_FACTORY.md "wikilink")10週年紀念網站）
+  - [SPEED 10th Anniversary](http://www.toysfactory.co.jp/speed/)（來自[TOY'S FACTORY的](../Page/TOY'S_FACTORY.md "wikilink")10週年紀念網站）
 
-[Category:SPEED歌曲](https://zh.wikipedia.org/wiki/Category:SPEED歌曲 "wikilink")
-[Category:1997年單曲](https://zh.wikipedia.org/wiki/Category:1997年單曲 "wikilink")
-[Category:1997年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1997年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:1997年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1997年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:TOY'S_FACTORY歌曲](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY歌曲 "wikilink")
+[Category:SPEED歌曲](https://zh.wikipedia.org/wiki/Category:SPEED歌曲 "wikilink") [Category:1997年單曲](https://zh.wikipedia.org/wiki/Category:1997年單曲 "wikilink") [Category:1997年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1997年Oricon單曲月榜冠軍作品 "wikilink") [Category:1997年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1997年Oricon單曲週榜冠軍作品 "wikilink") [Category:TOY'S_FACTORY歌曲](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY歌曲 "wikilink")
 
 1.  [SPEEDさよならツアー涙、涙…](https://web.archive.org/web/20010316014911/http://www.sanspo.com/enter/music/m9911/m1120.html)、SANSPO.COM、1999年11月20日。（[網際網路檔案館的存檔](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")）

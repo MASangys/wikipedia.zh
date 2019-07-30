@@ -2,9 +2,9 @@
 
 ## 簡介
 
-  - 因搭配人氣日劇[海猿](https://zh.wikipedia.org/wiki/海猿 "wikilink")，使本張單曲既[熱情鼓動的結果以來](../Page/熱情鼓動的結果.md "wikilink")，相隔三年再度達到銷售破50萬張
-  - 自16張單曲[心願以來](https://zh.wikipedia.org/wiki/心願 "wikilink")，相隔10年再度達成連續6週都在[Oricon排行榜前](../Page/Oricon.md "wikilink")10名
-  - 自2000年人氣單曲[今夜在賞月的山丘上於年度排行榜前](../Page/今夜在賞月的山丘上.md "wikilink")10名後，相隔5年再度達成年度排行榜前10名的紀錄
+  - 因搭配人氣日劇[海猿](https://zh.wikipedia.org/wiki/海猿 "wikilink")，使本張單曲既[熱情鼓動的結果](../Page/熱情鼓動的結果.md "wikilink")以來，相隔三年再度達到銷售破50萬張
+  - 自16張單曲[心願以來](https://zh.wikipedia.org/wiki/心願 "wikilink")，相隔10年再度達成連續6週都在[Oricon](../Page/Oricon.md "wikilink")排行榜前10名
+  - 自2000年人氣單曲[今夜在賞月的山丘上](../Page/今夜在賞月的山丘上.md "wikilink")於年度排行榜前10名後，相隔5年再度達成年度排行榜前10名的紀錄
   - 最終銷量約50.9萬張。
 
 ## 製作人員
@@ -31,17 +31,11 @@
 ## 收錄專輯
 
   - B'z The Best "Pleasure II"（\#1）
-  - [MONSTER](https://zh.wikipedia.org/wiki/MONSTER_\(B'z专辑\) "wikilink")（\#1、2006
-    MiX）
+  - [MONSTER](https://zh.wikipedia.org/wiki/MONSTER_\(B'z专辑\) "wikilink")（\#1、2006 MiX）
   - B'z The Best "ULTRA Pleasure"（\#1）
 
 ## 參考資料
 
   - [2005年的音樂](http://ja.wikipedia.org/wiki/2005%E5%B9%B4%E3%81%AE%E9%9F%B3%E6%A5%BD)
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink")
-[Category:富士火九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火九劇主題曲 "wikilink")
-[Category:2005年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")
-[Category:海題材歌曲](https://zh.wikipedia.org/wiki/Category:海題材歌曲 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:富士火九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火九劇主題曲 "wikilink") [Category:2005年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon單曲週榜冠軍作品 "wikilink") [Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink") [Category:海題材歌曲](https://zh.wikipedia.org/wiki/Category:海題材歌曲 "wikilink")

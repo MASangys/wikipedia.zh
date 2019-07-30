@@ -1,13 +1,10 @@
-《**Dream
-High**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2011年1月3日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")。
+《**Dream High**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2011年1月3日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")。
 
-2011年3月1日，即電視劇播畢後的一天在[首爾播出了一個特輯](../Page/首爾.md "wikilink")，由原劇組演員出演。\[1\]\[2\]2012年1月後續的《-{[Dream
-High 2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink")}-》播出。
+2011年3月1日，即電視劇播畢後的一天在[首爾](../Page/首爾.md "wikilink")播出了一個特輯，由原劇組演員出演。\[1\]\[2\]2012年1月後續的《-{[Dream High 2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink")}-》播出。
 
 ## 故事大綱
 
-《Dream
-High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因為有夢想而幸福的年輕人，在這裏追逐明星夢的學生們愛情和友情的故事。出生背景各不相同的孩子們在進入藝術高校後為了站在世界舞臺而在矛盾衝撞中成長，汗水與淚水，在遇到挫折時相互依靠，打起勇氣重新開始。
+《Dream High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因為有夢想而幸福的年輕人，在這裏追逐明星夢的學生們愛情和友情的故事。出生背景各不相同的孩子們在進入藝術高校後為了站在世界舞臺而在矛盾衝撞中成長，汗水與淚水，在遇到挫折時相互依靠，打起勇氣重新開始。
 
 ## 演員陣容
 
@@ -63,7 +60,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉澤演</a></p></td>
+<p><a href="../Page/玉澤演.md" title="wikilink">玉澤演</a></p></td>
 <td><center>
 <p>玄振國<br />
 /玄時赫</p></td>
@@ -433,19 +430,15 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 ### 特別演出
 
   - [朴徽淳](../Page/朴徽淳.md "wikilink")
-  - [金賢重](../Page/金賢重.md "wikilink") 飾演
-    金賢重（第一集）（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
+  - [金賢重](../Page/金賢重.md "wikilink") 飾演 金賢重（第一集）（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
   - [曹秀美](../Page/曹秀美.md "wikilink")（香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）
   - [宋海](https://zh.wikipedia.org/wiki/宋海 "wikilink")（香港配音：[古明華](../Page/古明華.md "wikilink")）
   - [Nichkhun](../Page/Nichkhun.md "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）（第八集）
-  - [黃燦盛](../Page/黃燦盛.md "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）飾演
-    幻想的馬斗植（第十二集）
-  - [利特](../Page/利特.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")（[Super
-    Junior](../Page/Super_Junior.md "wikilink")）飾演 電台主持人（第十三集）
+  - [黃燦盛](../Page/黃燦盛.md "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）飾演 幻想的馬斗植（第十二集）
+  - [利特](../Page/利特.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")（[Super Junior](../Page/Super_Junior.md "wikilink")）飾演 電台主持人（第十三集）
   - [全炫茂](https://zh.wikipedia.org/wiki/全炫茂 "wikilink") 飾演 節目主持人（第十五集）
   - [李昶旻](../Page/李昶旻.md "wikilink")、[鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")、[任瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")（[2AM](../Page/2AM.md "wikilink")）（第十六集）
-  - [Fei](../Page/王霏霏.md "wikilink")、[Jia](../Page/孟佳.md "wikilink")、[Min](https://zh.wikipedia.org/wiki/李玟暎 "wikilink")（[Miss
-    A](../Page/Miss_A.md "wikilink")）（第十六集）
+  - [Fei](../Page/王霏霏.md "wikilink")、[Jia](../Page/孟佳.md "wikilink")、[Min](https://zh.wikipedia.org/wiki/李玟暎 "wikilink")（[Miss A](../Page/Miss_A.md "wikilink")）（第十六集）
   - [朴恩玭](../Page/朴恩玭.md "wikilink") 飾演 青少年 高慧星（第十六集）
   - [Dal★Shabet](../Page/Dal★Shabet.md "wikilink")（第十六集）
 
@@ -497,17 +490,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
   - [臺灣東森官方網站](http://tvshow.ebc.net.tw/U22011009/)
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/dreamhigh)
 
-[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink")
-[Category:KBS月火連續劇](https://zh.wikipedia.org/wiki/Category:KBS月火連續劇 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:藝術學校背景作品](https://zh.wikipedia.org/wiki/Category:藝術學校背景作品 "wikilink")
-[Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink")
-[Category:韓國偶像劇](https://zh.wikipedia.org/wiki/Category:韓國偶像劇 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
-[Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink")
+[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink") [Category:KBS月火連續劇](https://zh.wikipedia.org/wiki/Category:KBS月火連續劇 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:藝術學校背景作品](https://zh.wikipedia.org/wiki/Category:藝術學校背景作品 "wikilink") [Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink") [Category:韓國偶像劇](https://zh.wikipedia.org/wiki/Category:韓國偶像劇 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink") [Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink")
 
 1.
 2.

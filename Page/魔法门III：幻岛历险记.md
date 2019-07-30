@@ -1,7 +1,4 @@
-《**魔法门III：幻岛历险记**》（，或称**魔法门III**、**魔法门3**，英文缩写****）是由[New World
-Computing制作组开发](../Page/New_World_Computing.md "wikilink")，于1991年发行，运行于[MS-DOS](../Page/MS-DOS.md "wikilink")、[NES等平台的一款](https://zh.wikipedia.org/wiki/NES "wikilink")[RPG角色扮演类游戏](../Page/電子角色扮演遊戲.md "wikilink")。它是[魔法门系列游戏的第三版](../Page/魔法门系列.md "wikilink")，剧情接在《[魔法门II：异世界之门](../Page/魔法门II：异世界之门.md "wikilink")》之后。
-台灣中文版由智冠改版發行。由於遊戲畫面解析度的限制，因此智冠創造了特製化的字型在遊戲中顯示。同時發行攻略本一本，攻略本內提供[作弊碼](https://zh.wikipedia.org/wiki/游戏作弊 "wikilink")（Cheat
-codes），需在遊戲中的特定地圖位置用中文輸入。
+《**魔法门III：幻岛历险记**》（，或称**魔法门III**、**魔法门3**，英文缩写****）是由[New World Computing制作组开发](../Page/New_World_Computing.md "wikilink")，于1991年发行，运行于[MS-DOS](../Page/MS-DOS.md "wikilink")、[NES等平台的一款](https://zh.wikipedia.org/wiki/NES "wikilink")[RPG角色扮演类游戏](../Page/電子角色扮演遊戲.md "wikilink")。它是[魔法门系列](../Page/魔法门系列.md "wikilink")游戏的第三版，剧情接在《[魔法门II：异世界之门](../Page/魔法门II：异世界之门.md "wikilink")》之后。 台灣中文版由智冠改版發行。由於遊戲畫面解析度的限制，因此智冠創造了特製化的字型在遊戲中顯示。同時發行攻略本一本，攻略本內提供[作弊碼](https://zh.wikipedia.org/wiki/游戏作弊 "wikilink")（Cheat codes），需在遊戲中的特定地圖位置用中文輸入。
 
 ## 遊戲內容
 
@@ -16,9 +13,4 @@ codes），需在遊戲中的特定地圖位置用中文輸入。
 ## 外部連結
 
   -
-[Category:New_World_Computing游戏](https://zh.wikipedia.org/wiki/Category:New_World_Computing游戏 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:第一人稱遊戲](https://zh.wikipedia.org/wiki/Category:第一人稱遊戲 "wikilink")
-[Category:1991年电子游戏](https://zh.wikipedia.org/wiki/Category:1991年电子游戏 "wikilink")
-[Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink")
-[Category:魔法門系列](https://zh.wikipedia.org/wiki/Category:魔法門系列 "wikilink")
+[Category:New_World_Computing游戏](https://zh.wikipedia.org/wiki/Category:New_World_Computing游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:第一人稱遊戲](https://zh.wikipedia.org/wiki/Category:第一人稱遊戲 "wikilink") [Category:1991年电子游戏](https://zh.wikipedia.org/wiki/Category:1991年电子游戏 "wikilink") [Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink") [Category:魔法門系列](https://zh.wikipedia.org/wiki/Category:魔法門系列 "wikilink")

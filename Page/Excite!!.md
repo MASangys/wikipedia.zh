@@ -1,4 +1,4 @@
-《**Excite\!\!**》為日本男偶像團體[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")1張DVD｡
+《**Excite\!\!**》為日本男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第1張DVD｡
 
 ## 概要
 
@@ -16,10 +16,8 @@
 6.  ヴギウギ・キャット
       - ミュージカル・メドレー（07～13.）
 7.  旅人
-8.  So BAD\!
-    [内博貴](https://zh.wikipedia.org/wiki/内博貴 "wikilink")・[丸山隆平](../Page/丸山隆平.md "wikilink")・[安田章大](../Page/安田章大.md "wikilink")
-9.  レクイエム～宇宙の記憶～
-    [村上信五](../Page/村上信五.md "wikilink")・[横山裕](https://zh.wikipedia.org/wiki/横山裕 "wikilink")
+8.  So BAD\! [内博貴](https://zh.wikipedia.org/wiki/内博貴 "wikilink")・[丸山隆平](../Page/丸山隆平.md "wikilink")・[安田章大](../Page/安田章大.md "wikilink")
+9.  レクイエム～宇宙の記憶～ [村上信五](../Page/村上信五.md "wikilink")・[横山裕](https://zh.wikipedia.org/wiki/横山裕 "wikilink")
 10. この星が輝く理由 [澀谷昴](../Page/澀谷昴.md "wikilink")
 11. Do you agree?
 12. DREAMIN' BLOOD
@@ -27,15 +25,12 @@
 14. 浪花いろは節
 15. MC（1）
       - Xmas メドレー（16～21）
-16. ホワイトクリスマス
-    大山田（[大倉忠義](../Page/大倉忠義.md "wikilink")・[丸山隆平](../Page/丸山隆平.md "wikilink")・[安田章大](../Page/安田章大.md "wikilink")）
+16. ホワイトクリスマス 大山田（[大倉忠義](../Page/大倉忠義.md "wikilink")・[丸山隆平](../Page/丸山隆平.md "wikilink")・[安田章大](../Page/安田章大.md "wikilink")）
 17. ジングルベル [丸山隆平](../Page/丸山隆平.md "wikilink")
 18. クリスマス・イブ [安田章大](../Page/安田章大.md "wikilink")
-19. サンタが町にやってくる
-    [錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")・[横山裕](https://zh.wikipedia.org/wiki/横山裕 "wikilink")
+19. サンタが町にやってくる [錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")・[横山裕](https://zh.wikipedia.org/wiki/横山裕 "wikilink")
 20. 赤鼻のトナカイ [澀谷昴](../Page/澀谷昴.md "wikilink")
-21. CAN YOU FEEL THIS CHRISTMAS?
-    [内博貴](https://zh.wikipedia.org/wiki/内博貴 "wikilink")・[村上信五](../Page/村上信五.md "wikilink")
+21. CAN YOU FEEL THIS CHRISTMAS? [内博貴](https://zh.wikipedia.org/wiki/内博貴 "wikilink")・[村上信五](../Page/村上信五.md "wikilink")
 22. MC（2）
 23. All Of Me For You
 24. Eden
@@ -58,5 +53,4 @@ Heavenly Psycho
 
   - 8人視角
 
-[Category:關西傑尼斯8影像作品](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8影像作品 "wikilink")
-[Category:2005年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2005年音樂相關影像作品 "wikilink")
+[Category:關西傑尼斯8影像作品](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8影像作品 "wikilink") [Category:2005年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2005年音樂相關影像作品 "wikilink")

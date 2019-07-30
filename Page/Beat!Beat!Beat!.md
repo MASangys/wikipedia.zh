@@ -4,12 +4,9 @@
 
 Beat\!Beat\!Beat\!乐队的成员在中学时期就已经结识，并且有着相同的音乐口味。经过一段时间的整合，最终由Joshua（主唱，吉他），Tim（贝斯），Moritz（吉他，合成器）和Marius（鼓）四人组成了Beat\!Beat\!Beat\!乐队。乐队于2008年开始正式活动，2009年发行的EP受到了很好的评价，之后乐队在柏林录制了首张录音室专辑“Lightmares”，专辑于2010年10月22日开始发售，随后乐队开始巡演并出席了一些德国本土的音乐节。
 
-这只新乐队一出道便收获了许多青少年的喜爱，并且名声也已传出德国，在英国甚至美国都有非常喜爱他们的歌迷。英国著名的音乐杂志NME曾将乐队评价为“Germany's
-answer to Foals”，但事实上Foals对于乐队的影响并不是非常大。
+这只新乐队一出道便收获了许多青少年的喜爱，并且名声也已传出德国，在英国甚至美国都有非常喜爱他们的歌迷。英国著名的音乐杂志NME曾将乐队评价为“Germany's answer to Foals”，但事实上Foals对于乐队的影响并不是非常大。
 
-之前乐队成员Moritz与Marius曾与另一名鼓手Benedikt组成过一只乐队，名为Last
-Trip，当时Marius担任主唱与吉他手，Moritz担任贝斯手。Joshua也曾参与过Last
-Trip的活动。
+之前乐队成员Moritz与Marius曾与另一名鼓手Benedikt组成过一只乐队，名为Last Trip，当时Marius担任主唱与吉他手，Moritz担任贝斯手。Joshua也曾参与过Last Trip的活动。
 非常受欢迎的Fireworks一曲在美国电视剧《Entourag》第八季的第四集中被用于背景音乐而出现。
 
 2011年年底乐队将着手准备第二张专辑。同时在2011年以鼓手Marius为核心成立了另一只现场乐队，名为ROOSEVELT，Joshua也是这只新乐队的一员。2012年ROOSEVELT开始在德国，法国，英国等地进行一些小型现场演出以及DJ演出。（ROOSEVELT成员：Marius,Joshua,Jenny以及Lukas）

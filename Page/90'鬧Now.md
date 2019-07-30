@@ -1,4 +1,4 @@
-《**90'鬧Now**》是[臺灣女子團體](../Page/臺灣.md "wikilink")[BY2的第四張錄音室專輯](https://zh.wikipedia.org/wiki/BY2 "wikilink")，也是第四張演唱專輯，於2011年10月12日發行。
+《**90'鬧Now**》是[臺灣](../Page/臺灣.md "wikilink")女子團體[BY2的第四張錄音室專輯](https://zh.wikipedia.org/wiki/BY2 "wikilink")，也是第四張演唱專輯，於2011年10月12日發行。
 
 ## 曲目
 
@@ -97,13 +97,10 @@ Dr.Moon</p></td>
 
 ## 版本
 
-  - 2011年9月20日
-    90'鬧Now【預購版】CD+鬧Now炫光彩哨（[全家便利商店](../Page/全家便利商店.md "wikilink")）
+  - 2011年9月20日 90'鬧Now【預購版】CD+鬧Now炫光彩哨（[全家便利商店](../Page/全家便利商店.md "wikilink")）
   - 2011年9月24日 90'鬧Now【預購版】CD+90摩登復古BB哨（全省唱片行）
   - 2011年10月12日 90'鬧Now【平裝版】CD
-  - 2011年12月2日
-    90'鬧Now【特典酷樂版】CD+DVD(五首MV+幕後花絮)+96頁全彩自拍2012寫真精裝手記+少女in品牌“Brown
-    Sugar紋身貼紙
+  - 2011年12月2日 90'鬧Now【特典酷樂版】CD+DVD(五首MV+幕後花絮)+96頁全彩自拍2012寫真精裝手記+少女in品牌“Brown Sugar紋身貼紙
 
 ## 音樂錄影帶
 
@@ -139,5 +136,4 @@ Dr.Moon</p></td>
 
 </div>
 
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:BY2音樂專輯](https://zh.wikipedia.org/wiki/Category:BY2音樂專輯 "wikilink")
+[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:BY2音樂專輯](https://zh.wikipedia.org/wiki/Category:BY2音樂專輯 "wikilink")

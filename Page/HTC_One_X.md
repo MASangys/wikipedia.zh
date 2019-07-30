@@ -1,17 +1,6 @@
-**HTC One X**（型號：S720e 代號：HTC
-Endeavor）為[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電開發的智慧型手機](https://zh.wikipedia.org/wiki/宏達電 "wikilink")。搭載
-[Android 4.0](https://zh.wikipedia.org/wiki/Android_4.0 "wikilink") 作業系統
-、 [HTC Sense](../Page/HTC_Sense.md "wikilink") 4
-使用者介面。2012年2月27日於[巴塞隆納](https://zh.wikipedia.org/wiki/巴塞隆納 "wikilink")[全球移動通訊大會正式發表](https://zh.wikipedia.org/wiki/全球移動通訊大會 "wikilink")，2012年4月起全球販售。採用了[NVidia的](https://zh.wikipedia.org/wiki/NVidia "wikilink")[Tegra
-3處理器](https://zh.wikipedia.org/wiki/Tegra#Tegra_3系列 "wikilink")，成為**全球首部四核心處理器手機**，也是HTC首部採用[NFC](https://zh.wikipedia.org/wiki/NFC "wikilink")、[Android
-4.0和](https://zh.wikipedia.org/wiki/Android_4.0 "wikilink")[Sense
-4的手機](../Page/HTC_Sense.md "wikilink")。為HTC在2012年的旗艦機種，同時也作為第一支手機開啟了[HTC
-One系列的先鋒](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")。One
-X也後續延伸出One X+、One XL、One XL+、One XC、One XT等不同的版本。
+**HTC One X**（型號：S720e 代號：HTC Endeavor）為[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電開發的智慧型手機](https://zh.wikipedia.org/wiki/宏達電 "wikilink")。搭載 [Android 4.0](https://zh.wikipedia.org/wiki/Android_4.0 "wikilink") 作業系統 、 [HTC Sense](../Page/HTC_Sense.md "wikilink") 4 使用者介面。2012年2月27日於[巴塞隆納](https://zh.wikipedia.org/wiki/巴塞隆納 "wikilink")[全球移動通訊大會正式發表](https://zh.wikipedia.org/wiki/全球移動通訊大會 "wikilink")，2012年4月起全球販售。採用了[NVidia的](https://zh.wikipedia.org/wiki/NVidia "wikilink")[Tegra 3處理器](https://zh.wikipedia.org/wiki/Tegra#Tegra_3系列 "wikilink")，成為**全球首部四核心處理器手機**，也是HTC首部採用[NFC](https://zh.wikipedia.org/wiki/NFC "wikilink")、[Android 4.0和](https://zh.wikipedia.org/wiki/Android_4.0 "wikilink")[Sense 4的手機](../Page/HTC_Sense.md "wikilink")。為HTC在2012年的旗艦機種，同時也作為第一支手機開啟了[HTC One系列的先鋒](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")。One X也後續延伸出One X+、One XL、One XL+、One XC、One XT等不同的版本。
 
-而**HTC One X**的頭號對手是[Galaxy S
-III](https://zh.wikipedia.org/wiki/Galaxy_S_III "wikilink")、[Apple](https://zh.wikipedia.org/wiki/Apple "wikilink")
-[iPhone 4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")。
+而**HTC One X**的頭號對手是[Galaxy S III](https://zh.wikipedia.org/wiki/Galaxy_S_III "wikilink")、[Apple](https://zh.wikipedia.org/wiki/Apple "wikilink") [iPhone 4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")。
 
 ## 詳細規格
 
@@ -157,15 +146,15 @@ III](https://zh.wikipedia.org/wiki/Galaxy_S_III "wikilink")、[Apple](https://zh
 </tr>
 <tr class="even">
 <td><p>相機</p></td>
-<td><p>800萬畫素主相機（<a href="../Page/1080p.md" title="wikilink">1080p錄影</a> 30fps）</p></td>
+<td><p>800萬畫素主相機（<a href="../Page/1080p.md" title="wikilink">1080p</a>錄影 30fps）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>130萬畫素前相機（<a href="../Page/720p.md" title="wikilink">720p錄影</a>）</p></td>
-<td><p>160萬畫素前相機（<a href="../Page/720p.md" title="wikilink">720p錄影</a>）</p></td>
+<td><p>130萬畫素前相機（<a href="../Page/720p.md" title="wikilink">720p</a>錄影）</p></td>
+<td><p>160萬畫素前相機（<a href="../Page/720p.md" title="wikilink">720p</a>錄影）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -326,12 +315,12 @@ III](https://zh.wikipedia.org/wiki/Galaxy_S_III "wikilink")、[Apple](https://zh
 </tr>
 <tr class="odd">
 <td><p>相機</p></td>
-<td><p>800萬畫素主相機（<a href="../Page/1080p.md" title="wikilink">1080p錄影</a> 30fps）</p></td>
+<td><p>800萬畫素主相機（<a href="../Page/1080p.md" title="wikilink">1080p</a>錄影 30fps）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>130萬畫素前相機（<a href="../Page/720p.md" title="wikilink">720p錄影</a>）</p></td>
+<td><p>130萬畫素前相機（<a href="../Page/720p.md" title="wikilink">720p</a>錄影）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -380,11 +369,9 @@ III](https://zh.wikipedia.org/wiki/Galaxy_S_III "wikilink")、[Apple](https://zh
 ## 設計
 
   - HTC One X
-    四核心的CPU，使本機與歷代[HTC
-    One相比為機種中速度最快的](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")(2012)
+    四核心的CPU，使本機與歷代[HTC One相比為機種中速度最快的](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")(2012)
     外殼材料是聚碳酸酯。主要顏色為灰黑色與白色。
-  - HTC曾於2013 春夏 MADE 時裝週，在紐約的 Milk Studio 展出HTC One X Cushnie Et Ochs
-    黑白特別版。
+  - HTC曾於2013 春夏 MADE 時裝週，在紐約的 Milk Studio 展出HTC One X Cushnie Et Ochs 黑白特別版。
 
 <!-- end list -->
 
@@ -395,8 +382,7 @@ III](https://zh.wikipedia.org/wiki/Galaxy_S_III "wikilink")、[Apple](https://zh
     正面的三個觸控按鈕也由白色改為紅色。
     值得一題的是，黑色的HTC One X+比過去黑色的HTC One X的灰黑色更為深沉，
     而白色款的HTC One X+似乎僅在少數市場有發售。
-  - HTC亦曾為Barbados女歌手[Rihanna設計HTC](https://zh.wikipedia.org/wiki/Rihanna "wikilink")
-    One X+ 特別版，背面印上了其英文名字開頭的R字母，並於其巡迴演上會上送給聽眾，每隻皆有寫上城市名稱與其1/1(獨一無二)的序號。
+  - HTC亦曾為Barbados女歌手[Rihanna設計HTC](https://zh.wikipedia.org/wiki/Rihanna "wikilink") One X+ 特別版，背面印上了其英文名字開頭的R字母，並於其巡迴演上會上送給聽眾，每隻皆有寫上城市名稱與其1/1(獨一無二)的序號。
 
 ## 更新（採[OTA](https://zh.wikipedia.org/wiki/OTA "wikilink")）
 
@@ -748,67 +734,45 @@ III](https://zh.wikipedia.org/wiki/Galaxy_S_III "wikilink")、[Apple](https://zh
 ## 延伸機種
 
   - HTC One XL
-  - [HTC One
-    XC](https://web.archive.org/web/20121018141803/http://www.htc.com/cn/smartphones/htc-one-xc/)
-  - [HTC One
-    XT](https://web.archive.org/web/20120520035417/http://www.htc.com/cn/smartphones/htc-one-xt/)
-  - [HTC One (M7)](../Page/HTC_One_\(M7\).md "wikilink"):
-    2013年2月19日於美國紐約、英國倫敦兩地同步發表。
+  - [HTC One XC](https://web.archive.org/web/20121018141803/http://www.htc.com/cn/smartphones/htc-one-xc/)
+  - [HTC One XT](https://web.archive.org/web/20120520035417/http://www.htc.com/cn/smartphones/htc-one-xt/)
+  - [HTC One (M7)](../Page/HTC_One_\(M7\).md "wikilink"): 2013年2月19日於美國紐約、英國倫敦兩地同步發表。
   - [HTC One (M8)](../Page/HTC_One_\(M8\).md "wikilink")
 
 ## 評測
 
 ### 臺灣
 
-  - [HTC One X 極速快感
-    介面、效能深度體驗](https://web.archive.org/web/20120608085820/http://www.sogi.com.tw/newforum/article_list.aspx?topic_ID=6192176)
-  - [四核超高效能　HTC One X
-    實機測試報導](http://www.eprice.com.tw/mobile/talk/4542/4758847/)
-  - [HTC One X
-    評測](http://chinese.engadget.com/2012/04/11/htc-one-x-review/)
-  - [HTC One X 四核新旗艦
-    突飛猛進的影音娛樂功能](http://www.mobile01.com/topicdetail.php?f=566&t=2671299)
-  - [HTC One X
-    評測](https://web.archive.org/web/20120607092445/http://nccc.cool3c.com/article/57474)
-  - [hTC ONE
-    X評測文](https://archive.is/20130502113231/http://kocpc.pixnet.net/blog/post/29812168-%E3%80%8C%E4%B8%8A%E7%AF%87%E3%80%8D%E6%87%89%E8%A9%B2%E6%98%AF%E5%B8%82%E9%9D%A2%E4%B8%8A%E6%9C%80%E8%80%81%E5%AF%A6%E7%9A%84htc-one-x%E8%A9%95%E6%B8%AC%E6%96%87)
+  - [HTC One X 極速快感 介面、效能深度體驗](https://web.archive.org/web/20120608085820/http://www.sogi.com.tw/newforum/article_list.aspx?topic_ID=6192176)
+  - [四核超高效能　HTC One X 實機測試報導](http://www.eprice.com.tw/mobile/talk/4542/4758847/)
+  - [HTC One X 評測](http://chinese.engadget.com/2012/04/11/htc-one-x-review/)
+  - [HTC One X 四核新旗艦 突飛猛進的影音娛樂功能](http://www.mobile01.com/topicdetail.php?f=566&t=2671299)
+  - [HTC One X 評測](https://web.archive.org/web/20120607092445/http://nccc.cool3c.com/article/57474)
+  - [hTC ONE X評測文](https://archive.is/20130502113231/http://kocpc.pixnet.net/blog/post/29812168-%E3%80%8C%E4%B8%8A%E7%AF%87%E3%80%8D%E6%87%89%E8%A9%B2%E6%98%AF%E5%B8%82%E9%9D%A2%E4%B8%8A%E6%9C%80%E8%80%81%E5%AF%A6%E7%9A%84htc-one-x%E8%A9%95%E6%B8%AC%E6%96%87)
 
 ### 香港/中國
 
-  - [重返王者之作 – HTC One X
-    詳細評測](http://unwire.hk/2012/04/03/back-to-competition-race-htc-one-x-detail-review/mobile-phone/)
-  - [四核大光圈高速連拍 HTC One
-    X評測](https://web.archive.org/web/20120620100051/http://digital.sina.com.hk/news/7/4/1/1217327/1.html)
-  - [HTC One X 測試專輯 :
-    正式詳盡跑分測試](http://www.hksilicon.com/kb/articles/61602/HTC-One-X)
-  - [拍照/音乐新纪元\!四核HTC One
-    X首发评测](http://mobile.pconline.com.cn/review/1204/2734972.html)
-  - [HTC One X 測試專輯 :
-    正式詳盡跑分測試](http://www.hk-android.info/archives/26038)
+  - [重返王者之作 – HTC One X 詳細評測](http://unwire.hk/2012/04/03/back-to-competition-race-htc-one-x-detail-review/mobile-phone/)
+  - [四核大光圈高速連拍 HTC One X評測](https://web.archive.org/web/20120620100051/http://digital.sina.com.hk/news/7/4/1/1217327/1.html)
+  - [HTC One X 測試專輯 : 正式詳盡跑分測試](http://www.hksilicon.com/kb/articles/61602/HTC-One-X)
+  - [拍照/音乐新纪元\!四核HTC One X首发评测](http://mobile.pconline.com.cn/review/1204/2734972.html)
+  - [HTC One X 測試專輯 : 正式詳盡跑分測試](http://www.hk-android.info/archives/26038)
 
 ### 國外
 
-  - [HTC One X is HTC's quad-core, ICS, Beats Audio powerhouse
-    (hands-on)](http://reviews.cnet.com/8301-13970_7-57382792-78/htc-one-x-is-htcs-quad-core-ics-beats-audio-powerhouse-hands-on/)
-  - [HTC One X
-    review](http://www.techradar.com/reviews/phones/mobile-phones/htc-one-x-1069319/review)
-  - [HTC One X
-    review](http://reviews.cnet.co.uk/mobile-phones/htc-one-x-review-50007077/)
-  - [HTC One X
-    review](http://www.engadget.com/2012/04/02/htc-one-x-review/)
-  - [HTC One X (AT\&T): Hands-on impressions and
-    comparisons](https://web.archive.org/web/20120507210517/http://blogs.computerworld.com/20103/htc_one_x_att)
-  - [TEST: HTC One
-    X](https://archive.is/20120512151126/http://www.htc-hub.com/product-review/test-htc-one-x/)
+  - [HTC One X is HTC's quad-core, ICS, Beats Audio powerhouse (hands-on)](http://reviews.cnet.com/8301-13970_7-57382792-78/htc-one-x-is-htcs-quad-core-ics-beats-audio-powerhouse-hands-on/)
+  - [HTC One X review](http://www.techradar.com/reviews/phones/mobile-phones/htc-one-x-1069319/review)
+  - [HTC One X review](http://reviews.cnet.co.uk/mobile-phones/htc-one-x-review-50007077/)
+  - [HTC One X review](http://www.engadget.com/2012/04/02/htc-one-x-review/)
+  - [HTC One X (AT\&T): Hands-on impressions and comparisons](https://web.archive.org/web/20120507210517/http://blogs.computerworld.com/20103/htc_one_x_att)
+  - [TEST: HTC One X](https://archive.is/20120512151126/http://www.htc-hub.com/product-review/test-htc-one-x/)
 
 ## 參見
 
   - [HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")
   - [HTC Sensation](../Page/HTC_Sensation.md "wikilink")
-  - [HTC Sensation
-    XE](https://zh.wikipedia.org/wiki/HTC_Sensation_XE "wikilink")
-  - [HTC Sensation
-    XL](https://zh.wikipedia.org/wiki/HTC_Sensation_XL "wikilink")
+  - [HTC Sensation XE](https://zh.wikipedia.org/wiki/HTC_Sensation_XE "wikilink")
+  - [HTC Sensation XL](https://zh.wikipedia.org/wiki/HTC_Sensation_XL "wikilink")
   - [宏達國際電子手機列表](https://zh.wikipedia.org/wiki/宏達國際電子手機列表 "wikilink")
 
 ## 參考資料
@@ -817,14 +781,10 @@ III](https://zh.wikipedia.org/wiki/Galaxy_S_III "wikilink")、[Apple](https://zh
 
 ## 外部連結
 
-  - [HTC One
-    X](https://web.archive.org/web/20120512075725/http://www.htc.com/tw/smartphones/htc-one-x/)
+  - [HTC One X](https://web.archive.org/web/20120512075725/http://www.htc.com/tw/smartphones/htc-one-x/)
   - [HTC One 形象網站](http://www.htc.com/tw/htcone/?utm_source=)
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
 
 1.
 2.

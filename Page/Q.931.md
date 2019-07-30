@@ -1,23 +1,15 @@
-**Q.931**是[ITU-T](https://zh.wikipedia.org/wiki/ITU-T "wikilink")
-制定的[ISDN網路層介面協議](https://zh.wikipedia.org/wiki/ISDN "wikilink")（ISDN
-network layer interface protocol）。
+**Q.931**是[ITU-T](https://zh.wikipedia.org/wiki/ITU-T "wikilink") 制定的[ISDN網路層介面協議](https://zh.wikipedia.org/wiki/ISDN "wikilink")（ISDN network layer interface protocol）。
 
-Q.931一般不進行數據運送。Q.931並沒有直接相當於在互聯網協議棧，但跟SIP相比,由于底层的协议被认为是可靠的协议并且电路交换网络的带宽调整是固定的方式,
-所以Q.931不提供流量控制和重传机制.
+Q.931一般不進行數據運送。Q.931並沒有直接相當於在互聯網協議棧，但跟SIP相比,由于底层的协议被认为是可靠的协议并且电路交换网络的带宽调整是固定的方式, 所以Q.931不提供流量控制和重传机制.
 
-Q.931是[ISDN相關的協議](https://zh.wikipedia.org/wiki/ISDN "wikilink"),
-Q.931最近被用來作為[H.323協議](../Page/H.323.md "wikilink")（即[H.225](../Page/H.225.md "wikilink")）的一部份，在某種形式的移動電話傳輸系統。H.323包括Q.931、[H.225](../Page/H.225.md "wikilink")、[H.245和](../Page/H.245.md "wikilink")[ASN.1](../Page/ASN.1.md "wikilink"),
-為了提供呼叫資訊，H.323部份融合了H.225和Q.931標準。Q.931流程包括呼叫建立和拆除。
+Q.931是[ISDN相關的協議](https://zh.wikipedia.org/wiki/ISDN "wikilink"), Q.931最近被用來作為[H.323](../Page/H.323.md "wikilink")協議（即[H.225](../Page/H.225.md "wikilink")）的一部份，在某種形式的移動電話傳輸系統。H.323包括Q.931、[H.225](../Page/H.225.md "wikilink")、[H.245](../Page/H.245.md "wikilink")和[ASN.1](../Page/ASN.1.md "wikilink"), 為了提供呼叫資訊，H.323部份融合了H.225和Q.931標準。Q.931流程包括呼叫建立和拆除。
 
 一個 Q.931 frame包含以下元素：
 
   - 協議鑑別器（Protocol discriminator, PD）-指定的信令協議是用於連接（如PD = 8為DSS1 ）
   - 呼叫參考值（Call reference value, CR） - 針對不同的連接，可以同時存在。 只有在實際連接的一段時間值有效。
-  - 消息類型（message type, MT） - 指定的第3層消息類型的呼叫控制（如設置）設置在Q.931定義的消息類型。
-    有呼叫建立，呼叫釋放和通話功能的控制定義的消息。
-  - 資訊元素（information element, IE） - 指定關聯到實際的消息的進一步資料。Q.931
-    分組（packet）包含多個稱為資訊單元的參數。一個
-    IE瀏覽器包括IE瀏覽器的名稱（如承載能力），其長度和變量字段的內容。
+  - 消息類型（message type, MT） - 指定的第3層消息類型的呼叫控制（如設置）設置在Q.931定義的消息類型。 有呼叫建立，呼叫釋放和通話功能的控制定義的消息。
+  - 資訊元素（information element, IE） - 指定關聯到實際的消息的進一步資料。Q.931 分組（packet）包含多個稱為資訊單元的參數。一個 IE瀏覽器包括IE瀏覽器的名稱（如承載能力），其長度和變量字段的內容。
 
 ## 訊息示例
 
@@ -119,10 +111,7 @@ Q.931最近被用來作為[H.323協議](../Page/H.323.md "wikilink")（即[H.225
 
 ## 限制
 
-Q.931是基於原語（primitive）的，但Q.931並沒有規定原語的字義，Q.931和H.225都定義了呼叫資訊流程，但定義不充分，Q.931的原語缺乏充分的文字說明。另一方面,
-Q.931和H.225融合不夠好，H.225將Q.931中的消息標記成“禁用”，但卻沒有規定出新流程。Q.931介面是不可移植的,
-這是因為H.225只提到原語而沒有提供包含參數的資訊，使得H.323的發展大受影響,
-[SIP有取代H](https://zh.wikipedia.org/wiki/SIP "wikilink").323的趨勢。
+Q.931是基於原語（primitive）的，但Q.931並沒有規定原語的字義，Q.931和H.225都定義了呼叫資訊流程，但定義不充分，Q.931的原語缺乏充分的文字說明。另一方面, Q.931和H.225融合不夠好，H.225將Q.931中的消息標記成“禁用”，但卻沒有規定出新流程。Q.931介面是不可移植的, 這是因為H.225只提到原語而沒有提供包含參數的資訊，使得H.323的發展大受影響, [SIP有取代H](https://zh.wikipedia.org/wiki/SIP "wikilink").323的趨勢。
 
 ## Q.2931
 

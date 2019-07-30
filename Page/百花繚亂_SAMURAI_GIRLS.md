@@ -1,17 +1,12 @@
-《**百花繚亂 SAMURAI GIRLS**》（）是[Hobby
-Japan創立](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")40週年的跨媒體紀念企劃，由[すずきあきら撰寫](https://zh.wikipedia.org/wiki/鈴木ドイツ "wikilink")、[Niθ插畫的](https://zh.wikipedia.org/wiki/Niθ "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[HJ文庫出版](../Page/HJ文庫.md "wikilink")。中文版輕小說由[東立出版社代理](../Page/東立出版社.md "wikilink")。
+《**百花繚亂 SAMURAI GIRLS**》（）是[Hobby Japan創立](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")40週年的跨媒體紀念企劃，由[すずきあきら撰寫](https://zh.wikipedia.org/wiki/鈴木ドイツ "wikilink")、[Niθ插畫的](https://zh.wikipedia.org/wiki/Niθ "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，[HJ文庫](../Page/HJ文庫.md "wikilink")出版。中文版輕小說由[東立出版社](../Page/東立出版社.md "wikilink")代理。
 
-2010年3月，宣布製作電視動畫的企劃；第1季《百花繚亂 武士少女（SAMURAI
-GIRLS）》於2010年10月起透過電視播放。第2季《百花繚亂
-武士新娘（SAMURAI BRIDE）》自2013年4月5日起播出。2015年發售上下兩卷OVA《百花繚亂 武士後談（SAMURAI
-AFTER）》。
+2010年3月，宣布製作電視動畫的企劃；第1季《百花繚亂 武士少女（SAMURAI GIRLS）》於2010年10月起透過電視播放。第2季《百花繚亂 武士新娘（SAMURAI BRIDE）》自2013年4月5日起播出。2015年發售上下兩卷OVA《百花繚亂 武士後談（SAMURAI AFTER）》。
 
 ## 劇情大綱
 
 在年號「平成」二十幾年21世紀的日本，延續著由江戶時代開始的德川幕府，第25代將軍德川慶康統治的盛世日本。而距離首都百公里的聖峰富士山山麓之上建立的巨大學園「武應學園」。在由德川家組成的學生會，執行對反抗的豐臣派的「豐臣狩獵」，在學園中掀起的巨大風暴。
 
-就讀「武應學園」亦身為柳生道場代理教練職務的**柳生宗朗**，對學生會的「豐臣狩獵」行動抱持疑惑，在道場中獨自進行練習時，一名全身赤裸帶著大小兩把日本刀的少女穿過道場屋頂從天而降，
-少女自稱**柳生十兵衛三嚴**，並且使用華麗的劍術，擊退帶領風紀委員會來犯的服部半藏。之後一群擁有歷史上有名武將之名的少女們也相繼出現在宗朗面前……
+就讀「武應學園」亦身為柳生道場代理教練職務的**柳生宗朗**，對學生會的「豐臣狩獵」行動抱持疑惑，在道場中獨自進行練習時，一名全身赤裸帶著大小兩把日本刀的少女穿過道場屋頂從天而降， 少女自稱**柳生十兵衛三嚴**，並且使用華麗的劍術，擊退帶領風紀委員會來犯的服部半藏。之後一群擁有歷史上有名武將之名的少女們也相繼出現在宗朗面前……
 
 ## 登場人物
 
@@ -315,13 +310,9 @@ AFTER）》。
 
 ## 動畫
 
-電視動畫第1季《百花繚亂 武士少女（SAMURAI
-GIRLS）》於2010年9月3日在[東京都會電視台先行播放第一話](../Page/東京都會電視台.md "wikilink")。2010年10月3日在[神奈川等電視台開始播放](https://zh.wikipedia.org/wiki/神奈川 "wikilink")。第2季《百花繚亂
-武士新娘（SAMURAI BRIDE）》自2013年4月5日起播出。
+電視動畫第1季《百花繚亂 武士少女（SAMURAI GIRLS）》於2010年9月3日在[東京都會電視台](../Page/東京都會電視台.md "wikilink")先行播放第一話。2010年10月3日在[神奈川等電視台開始播放](https://zh.wikipedia.org/wiki/神奈川 "wikilink")。第2季《百花繚亂 武士新娘（SAMURAI BRIDE）》自2013年4月5日起播出。
 
-2015年1月23日發售Niθ個人畫冊《續・艶姿戲畫 上卷》，同捆OVA動畫《百花繚亂 武士後談（SAMURAI
-AFTER）》第一話，故事圍繞柳生道場的伙伴們與新角色上杉景勝展開。2015年7月1日發售《續・艶姿戲畫
-下卷》，同捆第二話「武士婚禮」。
+2015年1月23日發售Niθ個人畫冊《續・艶姿戲畫 上卷》，同捆OVA動畫《百花繚亂 武士後談（SAMURAI AFTER）》第一話，故事圍繞柳生道場的伙伴們與新角色上杉景勝展開。2015年7月1日發售《續・艶姿戲畫 下卷》，同捆第二話「武士婚禮」。
 
 ### 製作人員
 
@@ -349,19 +340,15 @@ AFTER）》第一話，故事圍繞柳生道場的伙伴們與新角色上杉景
 
 :; 片頭曲「**Last vision for last**」
 
-::
-作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：[上松範康](../Page/上松範康.md "wikilink")（[Elements
-Garden](../Page/Elements_Garden.md "wikilink")），歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
+:: 作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：[上松範康](../Page/上松範康.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
 
 :; 片尾曲「戀愛什麼還不能通過（）」
 
   -
 
       -
-        作詞：畑亞貴，作曲：福本公四郎 &
-        村井大，編曲：[高田曉](https://zh.wikipedia.org/wiki/高田曉 "wikilink")
-        歌：SAMURAI GIRLS
-        〜柳生十兵衛、真田幸村、德川千〜（[悠木碧](../Page/悠木碧.md "wikilink")、[釘宮理惠](../Page/釘宮理惠.md "wikilink")、[壽美菜子](../Page/壽美菜子.md "wikilink")）
+        作詞：畑亞貴，作曲：福本公四郎 & 村井大，編曲：[高田曉](https://zh.wikipedia.org/wiki/高田曉 "wikilink")
+        歌：SAMURAI GIRLS 〜柳生十兵衛、真田幸村、德川千〜（[悠木碧](../Page/悠木碧.md "wikilink")、[釘宮理惠](../Page/釘宮理惠.md "wikilink")、[壽美菜子](../Page/壽美菜子.md "wikilink")）
 
   - 第2季
 
@@ -838,7 +825,7 @@ Park Chamg-Fwan</p></td>
 <td><p>2013年4月11日－6月27日</p></td>
 <td><p>星期四 24時00分－24時30分</p></td>
 <td><p>衛星電視</p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 </tr>
 </tbody>
 </table>
@@ -1112,12 +1099,6 @@ OVA收錄短篇情節的映像特典。
 
   - [動畫《百花繚亂 武士新娘（SAMURAI BRIDE）》官方網站](http://hyakka-ryoran.tv/)
 
-[Category:HJ文庫](https://zh.wikipedia.org/wiki/Category:HJ文庫 "wikilink")
-[Category:2010年UHF動畫](https://zh.wikipedia.org/wiki/Category:2010年UHF動畫 "wikilink")
-[Category:平行世界題材小說](https://zh.wikipedia.org/wiki/Category:平行世界題材小說 "wikilink")
-[Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink")
-[Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink")
-[Category:AT-X製作動畫](https://zh.wikipedia.org/wiki/Category:AT-X製作動畫 "wikilink")
-[Category:Hobby_Japan](https://zh.wikipedia.org/wiki/Category:Hobby_Japan "wikilink")
+[Category:HJ文庫](https://zh.wikipedia.org/wiki/Category:HJ文庫 "wikilink") [Category:2010年UHF動畫](https://zh.wikipedia.org/wiki/Category:2010年UHF動畫 "wikilink") [Category:平行世界題材小說](https://zh.wikipedia.org/wiki/Category:平行世界題材小說 "wikilink") [Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink") [Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink") [Category:AT-X製作動畫](https://zh.wikipedia.org/wiki/Category:AT-X製作動畫 "wikilink") [Category:Hobby_Japan](https://zh.wikipedia.org/wiki/Category:Hobby_Japan "wikilink")
 
 1.  官方網站寫為「12.5話 大團圓（）」。

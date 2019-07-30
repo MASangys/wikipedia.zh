@@ -1,12 +1,12 @@
-《**CanCam**》（）是[日本的](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")，由[小學館發行](../Page/小學館.md "wikilink")，每月23日發行一次，屬於以[女大學生](https://zh.wikipedia.org/wiki/大學生 "wikilink")、年輕[OL](../Page/办公室女职员.md "wikilink")、20歲世代前半等女性族群為目標的「」（意指封面上的刊名都是以紅底配色）雜誌之一。從1981年創刊以來，獲得10歲至40歲世代女性的廣泛支持。目前每月發行量約33萬本，在赤文字系雜誌中排名第二\[1\]。
+《**CanCam**》（）是[日本](../Page/日本.md "wikilink")的[女性](../Page/女性.md "wikilink")，由[小學館](../Page/小學館.md "wikilink")發行，每月23日發行一次，屬於以[女大學生](https://zh.wikipedia.org/wiki/大學生 "wikilink")、年輕[OL](../Page/办公室女职员.md "wikilink")、20歲世代前半等女性族群為目標的「」（意指封面上的刊名都是以紅底配色）雜誌之一。從1981年創刊以來，獲得10歲至40歲世代女性的廣泛支持。目前每月發行量約33萬本，在赤文字系雜誌中排名第二\[1\]。
 
 ## 概要
 
-該雜誌於小學館創立60周年（1982年）時，在1981年11月23日創刊，是小學館的主力雜誌之一。海外銷售方面，在[香港和](../Page/香港.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，除專賣[日語書籍的書店外](https://zh.wikipedia.org/wiki/日語 "wikilink")，在一些書報攤均可找得到。
+該雜誌於小學館創立60周年（1982年）時，在1981年11月23日創刊，是小學館的主力雜誌之一。海外銷售方面，在[香港](../Page/香港.md "wikilink")和[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，除專賣[日語書籍的書店外](https://zh.wikipedia.org/wiki/日語 "wikilink")，在一些書報攤均可找得到。
 
-《CanCam》以[時尚訊息為中心](https://zh.wikipedia.org/wiki/時尚 "wikilink")，亦包括[海外](https://zh.wikipedia.org/wiki/海外 "wikilink")[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")、[兩性關係](https://zh.wikipedia.org/wiki/兩性關係 "wikilink")、電影、[占卜等女性族群喜愛的話題](../Page/占卜.md "wikilink")。除了雜誌本身的內容受到讀者歡迎外，該雜誌的專屬[模特兒更受到年輕女性族群的喜愛](../Page/模特兒.md "wikilink")，無論是現役與已卒業者，在日本[演藝圈均相當活躍](https://zh.wikipedia.org/wiki/演藝圈 "wikilink")，如現在轉型為[演員的](../Page/演員.md "wikilink")[藤原紀香](https://zh.wikipedia.org/wiki/藤原紀香 "wikilink")、[伊東美咲](../Page/伊東美咲.md "wikilink")、[長谷川京子](https://zh.wikipedia.org/wiki/長谷川京子 "wikilink")、[米倉涼子與](https://zh.wikipedia.org/wiki/米倉涼子 "wikilink")[山田優](../Page/山田優.md "wikilink")，活躍於[綜藝節目的](../Page/綜藝節目.md "wikilink")[蛯原友里](../Page/蛯原友里.md "wikilink")、[押切萌](https://zh.wikipedia.org/wiki/押切萌 "wikilink")、[西山茉希等](../Page/西山茉希.md "wikilink")，其中蛯原友里在日本更享有[超級名模的美譽](../Page/超級名模.md "wikilink")。
+《CanCam》以[時尚訊息為中心](https://zh.wikipedia.org/wiki/時尚 "wikilink")，亦包括[海外](https://zh.wikipedia.org/wiki/海外 "wikilink")[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")、[兩性關係](https://zh.wikipedia.org/wiki/兩性關係 "wikilink")、電影、[占卜](../Page/占卜.md "wikilink")等女性族群喜愛的話題。除了雜誌本身的內容受到讀者歡迎外，該雜誌的專屬[模特兒](../Page/模特兒.md "wikilink")更受到年輕女性族群的喜愛，無論是現役與已卒業者，在日本[演藝圈均相當活躍](https://zh.wikipedia.org/wiki/演藝圈 "wikilink")，如現在轉型為[演員](../Page/演員.md "wikilink")的[藤原紀香](https://zh.wikipedia.org/wiki/藤原紀香 "wikilink")、[伊東美咲](../Page/伊東美咲.md "wikilink")、[長谷川京子](https://zh.wikipedia.org/wiki/長谷川京子 "wikilink")、[米倉涼子與](https://zh.wikipedia.org/wiki/米倉涼子 "wikilink")[山田優](../Page/山田優.md "wikilink")，活躍於[綜藝節目](../Page/綜藝節目.md "wikilink")的[蛯原友里](../Page/蛯原友里.md "wikilink")、[押切萌](https://zh.wikipedia.org/wiki/押切萌 "wikilink")、[西山茉希](../Page/西山茉希.md "wikilink")等，其中蛯原友里在日本更享有[超級名模](../Page/超級名模.md "wikilink")的美譽。
 
-《CanCam》在2006年[春季和](../Page/春季.md "wikilink")[秋季](../Page/秋季.md "wikilink")，發行為已卒業的專屬模特兒量身訂做的特刊「姐系CanCam」（），因受到讀者歡迎，後於2007年3月7日成為定期[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")，並命名為《[AneCan](https://zh.wikipedia.org/wiki/AneCan "wikilink")》。
+《CanCam》在2006年[春季](../Page/春季.md "wikilink")和[秋季](../Page/秋季.md "wikilink")，發行為已卒業的專屬模特兒量身訂做的特刊「姐系CanCam」（），因受到讀者歡迎，後於2007年3月7日成為定期[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")，並命名為《[AneCan](https://zh.wikipedia.org/wiki/AneCan "wikilink")》。
 
 ## 專屬模特兒
 
@@ -165,8 +165,7 @@
 
   - [安座間美優](../Page/安座間美優.md "wikilink")
 
-  - [葉熙祺](https://zh.wikipedia.org/wiki/葉熙祺 "wikilink")(アンナ・ケイ / Anna
-    Kay)
+  - [葉熙祺](https://zh.wikipedia.org/wiki/葉熙祺 "wikilink")(アンナ・ケイ / Anna Kay)
 
   - [久住小春](../Page/久住小春.md "wikilink")
 
@@ -211,11 +210,8 @@
 
 ## 外部連結
 
-  - [CanCam.TV](http://archive.wikiwix.com/cache/20110704061449/http://cancam.tv/)
-    - CanCam官方網站
+  - [CanCam.TV](http://archive.wikiwix.com/cache/20110704061449/http://cancam.tv/) - CanCam官方網站
 
-[Category:小學館的雜誌](https://zh.wikipedia.org/wiki/Category:小學館的雜誌 "wikilink")
-[Category:日本月刊](https://zh.wikipedia.org/wiki/Category:日本月刊 "wikilink")
-[Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
+[Category:小學館的雜誌](https://zh.wikipedia.org/wiki/Category:小學館的雜誌 "wikilink") [Category:日本月刊](https://zh.wikipedia.org/wiki/Category:日本月刊 "wikilink") [Category:女性时尚杂志](https://zh.wikipedia.org/wiki/Category:女性时尚杂志 "wikilink") [Category:日本时尚杂志](https://zh.wikipedia.org/wiki/Category:日本时尚杂志 "wikilink")
 
 1.

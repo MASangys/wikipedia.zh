@@ -1,5 +1,4 @@
-《**What's
-噏？**》（），是[亞洲電視製作的清談節目](../Page/亞洲電視.md "wikilink")，節目由[陳啟泰和](../Page/陳啟泰.md "wikilink")[蔡錦豐主持](../Page/蔡錦豐.md "wikilink")，於逢星期日晚上10:00-10:30[本港台及](../Page/本港台.md "wikilink")[亞洲台同步播出](../Page/亞洲電視亞洲台.md "wikilink")。
+《**What's 噏？**》（），是[亞洲電視](../Page/亞洲電視.md "wikilink")製作的清談節目，節目由[陳啟泰](../Page/陳啟泰.md "wikilink")和[蔡錦豐](../Page/蔡錦豐.md "wikilink")主持，於逢星期日晚上10:00-10:30[本港台](../Page/本港台.md "wikilink")及[亞洲台同步播出](../Page/亞洲電視亞洲台.md "wikilink")。
 
 ## 概述
 
@@ -24,11 +23,8 @@
 
 ## 外部連結
 
-  - [What's
-    噏？官方網站](https://web.archive.org/web/20120310041736/http://www.hkatv.com/v5/11/whatsup/)
+  - [What's 噏？官方網站](https://web.archive.org/web/20120310041736/http://www.hkatv.com/v5/11/whatsup/)
 
 ## 電視節目的變遷
 
-[Category:亞洲電視節目](https://zh.wikipedia.org/wiki/Category:亞洲電視節目 "wikilink")
-[Category:2011年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2011年亞洲電視節目 "wikilink")
-[Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink")
+[Category:亞洲電視節目](https://zh.wikipedia.org/wiki/Category:亞洲電視節目 "wikilink") [Category:2011年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2011年亞洲電視節目 "wikilink") [Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink")

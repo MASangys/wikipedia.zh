@@ -1,5 +1,4 @@
-**Starry☆Sky**是由[HONEY
-BEE發售的](https://zh.wikipedia.org/wiki/HONEY_BEE "wikilink")[日本](../Page/日本.md "wikilink")[女性向](../Page/女性向.md "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")，於2010年12月23日在網絡上播放動畫第一集。
+**Starry☆Sky**是由[HONEY BEE發售的](https://zh.wikipedia.org/wiki/HONEY_BEE "wikilink")[日本](../Page/日本.md "wikilink")[女性向](../Page/女性向.md "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")，於2010年12月23日在網絡上播放動畫第一集。
 
 ## 摘要
 
@@ -21,9 +20,7 @@ BEE發售的](https://zh.wikipedia.org/wiki/HONEY_BEE "wikilink")[日本](../Pag
 ### Starry☆Sky ～in Spring～
 
   -
-    聲 - [緑川光](https://zh.wikipedia.org/wiki/緑川光 "wikilink") /
-    [甲斐田ゆき](https://zh.wikipedia.org/wiki/甲斐田ゆき "wikilink")
-    （幼少期）
+    聲 - [緑川光](https://zh.wikipedia.org/wiki/緑川光 "wikilink") / [甲斐田ゆき](https://zh.wikipedia.org/wiki/甲斐田ゆき "wikilink") （幼少期）
     星座 - [山羊座](https://zh.wikipedia.org/wiki/山羊座 "wikilink")
     身高175cm　體重58kg　O型　生日1月12日
     天文科2年生。法國和日本的混血兒。星月學院天文科的轉校生。小時候曾見過女主角。長大後為了見女主角而特地轉校來到星月學園。後來為了繼續完成自己的夢想而回國和赴美。因為是混血兒的關係，自小便受其他人目光歧視。在第一天轉校時被哉太和錫也說長有一張中性的臉。十分喜歡錫也做的飯糰。意外的是個大食漢。被翼叫作「呆毛前輩」。
@@ -140,8 +137,7 @@ BEE發售的](https://zh.wikipedia.org/wiki/HONEY_BEE "wikilink")[日本](../Pag
     身高182cm　體重65kg　血型O型　生日2月14日。
     星座科2年生。弓道部所屬。弓道部笨蛋三人組之一。個性單純直率，因為戀慕著夜久月子而加入弓道部，常被宮地龍之介嚷著要矯正思想而追著跑。
   -
-    聲 -
-    [堀江一真](../Page/堀江一真.md "wikilink")→[代永翼](../Page/代永翼.md "wikilink")
+    聲 - [堀江一真](../Page/堀江一真.md "wikilink")→[代永翼](../Page/代永翼.md "wikilink")
     星座 - [山羊座](https://zh.wikipedia.org/wiki/山羊座 "wikilink")
     身高168cm　體重54kg　血型A型　生日1月16日。
     天文科1年生。弓道部所屬。弓道部笨蛋三人組之一。個性怯弱膽小，常被犬飼隆文和白鳥彌彥牽連，被宮地龍之介斥責。
@@ -456,8 +452,7 @@ BEE發售的](https://zh.wikipedia.org/wiki/HONEY_BEE "wikilink")[日本](../Pag
       - 演唱：Ito Kanako　作詞：Lynn　作曲：兼平 真規子　編曲：上野浩司
   - 遊戲原聲碟 Starry☆Sky Sound Track～月色音樂集～（2011年4月22日）
       - 作曲：野島健太郎
-  - 動畫原聲碟 Animate Starry☆Sky Original Sound Track～Starry Garden～
-    （2011年5月25日）
+  - 動畫原聲碟 Animate Starry☆Sky Original Sound Track～Starry Garden～ （2011年5月25日）
       - 配樂作曲：菊谷知樹　主題歌作詞：こだまさおり　「Starry☆Days」作曲：eba　「たったひとつのStory」作曲：渡邊拓也
   - 遊戲OP碟 Starry☆Sky ～初恋色歌謡集～（2011年10月28日）
 
@@ -485,9 +480,7 @@ BEE發售的](https://zh.wikipedia.org/wiki/HONEY_BEE "wikilink")[日本](../Pag
 
 ## 動畫
 
-2010年12月23日開始在[Animate
-TV和](https://zh.wikipedia.org/wiki/Animate_TV "wikilink")[animatemobile於](https://zh.wikipedia.org/wiki/animatemobile "wikilink")16：00進行網絡播放。
-預定2011年將會在[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[SUN電視台進行電視播放](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")。
+2010年12月23日開始在[Animate TV和](https://zh.wikipedia.org/wiki/Animate_TV "wikilink")[animatemobile於](https://zh.wikipedia.org/wiki/animatemobile "wikilink")16：00進行網絡播放。 預定2011年將會在[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[SUN電視台進行電視播放](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")。
 
 ### 工作人員
 
@@ -823,8 +816,7 @@ TV和](https://zh.wikipedia.org/wiki/Animate_TV "wikilink")[animatemobile於](ht
 
 ## 官方Twitter
 
-下列為HONEY
-BEE官方為《Starry☆Sky》主要角色們所申請的[Twitter](../Page/Twitter.md "wikilink")，官方會在特殊時節事先公告時間，讓角色們在Twitter上互動，演出在遊戲、廣播劇CD等已公開商品內容裡未發表的劇情對話。
+下列為HONEY BEE官方為《Starry☆Sky》主要角色們所申請的[Twitter](../Page/Twitter.md "wikilink")，官方會在特殊時節事先公告時間，讓角色們在Twitter上互動，演出在遊戲、廣播劇CD等已公開商品內容裡未發表的劇情對話。
 
   - [星月学園広報部](http://twitter.com/#!/StarrySky_hb)
   - [土萌羊](http://twitter.com/#!/TomoeYoh)
@@ -848,8 +840,7 @@ BEE官方為《Starry☆Sky》主要角色們所申請的[Twitter](../Page/Twitt
 
 ## 延伸創作
 
-近期有不少關於Starry☆Sky的衍生創作，除了一般的同人文、同人圖、同人漫的創作外，
-在台灣日漸流行的[噗浪亦出現了不少以漫畫或動畫為藍本的角色噗](../Page/噗浪.md "wikilink")。
+近期有不少關於Starry☆Sky的衍生創作，除了一般的同人文、同人圖、同人漫的創作外， 在台灣日漸流行的[噗浪](../Page/噗浪.md "wikilink")亦出現了不少以漫畫或動畫為藍本的角色噗。
 
 以原作為藍本的衍生劇情。透過角色噗浪及偽官方Blog，建立彼氏與噗友間的交流平台。不定時的日常、事件、活動噗，歡迎粉絲一起互動。
 
@@ -857,68 +848,42 @@ BEE官方為《Starry☆Sky》主要角色們所申請的[Twitter](../Page/Twitt
 
   - [Starry ☆ Sky PORTAL](http://www.honeybee-cd.com/starry_sky.html)
 
-  - [Honey Bee
-    官方網頁](https://web.archive.org/web/20100805072902/http://www.honeybee-cd.com/index.html)
+  - [Honey Bee 官方網頁](https://web.archive.org/web/20100805072902/http://www.honeybee-cd.com/index.html)
 
   - [(動畫) Starry☆Sky 官方網頁](http://sta-ska.com/)
 
 ### PC版
 
-  - [Starry ☆ Sky ～in Spring
-    ～](http://www.honeybee-cd.com/spring/index.html)
+  - [Starry ☆ Sky ～in Spring ～](http://www.honeybee-cd.com/spring/index.html)
 
-  - [Starry ☆ Sky ～in Summer
-    ～](http://www.honeybee-cd.com/summer/index.html)
+  - [Starry ☆ Sky ～in Summer ～](http://www.honeybee-cd.com/summer/index.html)
 
-  - [Starry ☆ Sky ～in Autumn
-    ～](http://www.honeybee-cd.com/autumn/index.html)
+  - [Starry ☆ Sky ～in Autumn ～](http://www.honeybee-cd.com/autumn/index.html)
 
-  - [Starry ☆ Sky ～in Winter
-    ～](http://www.honeybee-cd.com/winter/index.html)
+  - [Starry ☆ Sky ～in Winter ～](http://www.honeybee-cd.com/winter/index.html)
 
 ### PSP版
 
-  - [Starry☆Sky ～in Spring ～
-    Portable](http://www.honeybee-cd.com/spring-p/)
+  - [Starry☆Sky ～in Spring ～ Portable](http://www.honeybee-cd.com/spring-p/)
 
-  - [Starry☆Sky ～in Summer ～
-    Portable](http://www.honeybee-cd.com/summer-p/)
+  - [Starry☆Sky ～in Summer ～ Portable](http://www.honeybee-cd.com/summer-p/)
 
-  - [Starry☆Sky ～in Autumn ～
-    Portable](http://www.honeybee-cd.com/autumn-p/)
+  - [Starry☆Sky ～in Autumn ～ Portable](http://www.honeybee-cd.com/autumn-p/)
 
-  - [Starry☆Sky ～in Winter ～
-    Portable](http://www.honeybee-cd.com/winter-p/)
+  - [Starry☆Sky ～in Winter ～ Portable](http://www.honeybee-cd.com/winter-p/)
 
-  - [Starry☆Sky ～after Spring～
-    Portable](http://www.honeybee-cd.com/p-fan-spring/)
+  - [Starry☆Sky ～after Spring～ Portable](http://www.honeybee-cd.com/p-fan-spring/)
 
-  - [Starry☆Sky ～after Summer ～
-    Portable](http://www.honeybee-cd.com/p-fan-summer/)
+  - [Starry☆Sky ～after Summer ～ Portable](http://www.honeybee-cd.com/p-fan-summer/)
 
 ### FAN DISC PC版
 
-  - [Starry ☆ Sky ～After Spring
-    ～](http://www.honeybee-cd.com/fan-spring/)
+  - [Starry ☆ Sky ～After Spring ～](http://www.honeybee-cd.com/fan-spring/)
 
-  - [Starry ☆ Sky ～After Summer
-    ～](http://www.honeybee-cd.com/fan-summer/)
+  - [Starry ☆ Sky ～After Summer ～](http://www.honeybee-cd.com/fan-summer/)
 
-  - [Starry ☆ Sky ～After Autumn
-    ～](http://www.honeybee-cd.com/fan-autumn/)
+  - [Starry ☆ Sky ～After Autumn ～](http://www.honeybee-cd.com/fan-autumn/)
 
-  - [Starry ☆ Sky ～After Winter
-    ～](http://www.honeybee-cd.com/fan-winter/)
+  - [Starry ☆ Sky ～After Winter ～](http://www.honeybee-cd.com/fan-winter/)
 
-[Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
-[Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:電腦遊戲](https://zh.wikipedia.org/wiki/Category:電腦遊戲 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:天文題材作品](https://zh.wikipedia.org/wiki/Category:天文題材作品 "wikilink")
-[Category:戀愛遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:戀愛遊戲改編電視動畫 "wikilink")
-[Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink") [Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:電腦遊戲](https://zh.wikipedia.org/wiki/Category:電腦遊戲 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:天文題材作品](https://zh.wikipedia.org/wiki/Category:天文題材作品 "wikilink") [Category:戀愛遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:戀愛遊戲改編電視動畫 "wikilink") [Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")

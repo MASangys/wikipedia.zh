@@ -1,5 +1,4 @@
-「**LAST ANGEL
-feat.東方神起**」為2007年11月7日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未](../Page/倖田來未.md "wikilink")第38th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+「**LAST ANGEL feat.東方神起**」為2007年11月7日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未](../Page/倖田來未.md "wikilink")第38th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 附註
 
@@ -7,8 +6,7 @@ feat.東方神起**」為2007年11月7日發行之[日本](../Page/日本.md "wi
 
 <!-- end list -->
 
-  - A面曲「**LAST
-    ANGEL**」為電影「[惡靈古堡3：大滅絕](../Page/惡靈古堡3：大滅絕.md "wikilink")」日本公開版形象歌曲、music.jp電視廣告曲。
+  - A面曲「**LAST ANGEL**」為電影「[惡靈古堡3：大滅絕](../Page/惡靈古堡3：大滅絕.md "wikilink")」日本公開版形象歌曲、music.jp電視廣告曲。
 
 <!-- end list -->
 
@@ -16,8 +14,7 @@ feat.東方神起**」為2007年11月7日發行之[日本](../Page/日本.md "wi
 
 <!-- end list -->
 
-  - 東方神起的專輯『[T](../Page/東方神起.md "wikilink")』收錄「LAST ANGEL -TOHOSHINKI
-    ver.-」為東方神起的獨唱版本。
+  - 東方神起的專輯『[T](../Page/東方神起.md "wikilink")』收錄「LAST ANGEL -TOHOSHINKI ver.-」為東方神起的獨唱版本。
 
 <!-- end list -->
 
@@ -58,7 +55,4 @@ feat.東方神起**」為2007年11月7日發行之[日本](../Page/日本.md "wi
 
 <http://ja.wikipedia.org/wiki/LAST_ANGEL_feat.%E6%9D%B1%E6%96%B9%E7%A5%9E%E8%B5%B7>
 
-
-[Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink")
-[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")
-[Category:天使題材樂曲](https://zh.wikipedia.org/wiki/Category:天使題材樂曲 "wikilink")
+[Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink") [Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink") [Category:天使題材樂曲](https://zh.wikipedia.org/wiki/Category:天使題材樂曲 "wikilink")

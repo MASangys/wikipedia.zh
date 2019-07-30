@@ -1,5 +1,4 @@
-**《我叫MT》**是[中国一部三维动画短片系列](https://zh.wikipedia.org/wiki/中国 "wikilink")，由七彩映画工作室
-出品，其背景为[网络游戏](../Page/网络游戏.md "wikilink")《[魔兽世界](../Page/魔兽世界.md "wikilink")》，编剧為遊戲玩家“核桃”。内含诸多网络流行及恶搞文化。该作品受到中國及其它國家的魔兽世界玩家和非玩家的好评和肯定。\[1\]\[2\]\[3\]\[4\]
+**《我叫MT》**是[中国一部三维动画短片系列](https://zh.wikipedia.org/wiki/中国 "wikilink")，由七彩映画工作室 出品，其背景为[网络游戏](../Page/网络游戏.md "wikilink")《[魔兽世界](../Page/魔兽世界.md "wikilink")》，编剧為遊戲玩家“核桃”。内含诸多网络流行及恶搞文化。该作品受到中國及其它國家的魔兽世界玩家和非玩家的好评和肯定。\[1\]\[2\]\[3\]\[4\]
 
 ## 剧情简介
 
@@ -245,11 +244,9 @@
   - 片頭曲《我叫MT》，改编自《[圣斗士星矢](https://zh.wikipedia.org/wiki/圣斗士星矢 "wikilink")》
   - 片尾曲《地狱咆哮的挽歌》，改编自《[国际歌](../Page/国际歌.md "wikilink")》
   - 第三集插曲《又是下雨天》，改编自[南拳妈妈](https://zh.wikipedia.org/wiki/南拳妈妈 "wikilink")《下雨天》
-  - 第六集插曲《意外之外》，改编自《[Fate/stay
-    night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》片尾曲《曾有你的森林》（あなたがいた森）
+  - 第六集插曲《意外之外》，改编自《[Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》片尾曲《曾有你的森林》（あなたがいた森）
   - 同人歌曲《我们的队伍》
-  - 第十集片尾曲《阳光之旅》改编自《[D
-    gray-man](https://zh.wikipedia.org/wiki/D_gray-man "wikilink")》片尾曲《Regret》
+  - 第十集片尾曲《阳光之旅》改编自《[D gray-man](https://zh.wikipedia.org/wiki/D_gray-man "wikilink")》片尾曲《Regret》
 
 <!-- end list -->
 
@@ -271,9 +268,7 @@
 
   - 片头曲《WOW！春天》 出品：80TIME 曲：郑宇界 演唱：痞子野
   - 片尾曲《不安的前方》 出品：80TIME 曲：水獭 演唱：小树
-  - 第五集插曲《[雪](https://zh.wikipedia.org/wiki/雪_\(歌曲\) "wikilink")》 词：King
-    曲：[杜雯媞](https://zh.wikipedia.org/wiki/杜雯媞 "wikilink")
-    演唱：王艺翔&[杜雯媞](https://zh.wikipedia.org/wiki/杜雯媞 "wikilink")
+  - 第五集插曲《[雪](https://zh.wikipedia.org/wiki/雪_\(歌曲\) "wikilink")》 词：King 曲：[杜雯媞](https://zh.wikipedia.org/wiki/杜雯媞 "wikilink") 演唱：王艺翔&[杜雯媞](https://zh.wikipedia.org/wiki/杜雯媞 "wikilink")
   - 第十集片尾曲《向日葵人生》 出品：80TIME 曲：水獭 演唱：小树
 
 <!-- end list -->
@@ -361,18 +356,11 @@
 
   - [我叫MT官方网站](http://wow.178.com/zt/immt/index.html)
 
-[Category:中华人民共和国动画](https://zh.wikipedia.org/wiki/Category:中华人民共和国动画 "wikilink")
-[Category:網絡動畫](https://zh.wikipedia.org/wiki/Category:網絡動畫 "wikilink")
-[Category:魔兽世界](https://zh.wikipedia.org/wiki/Category:魔兽世界 "wikilink")
-[Category:同人作品](https://zh.wikipedia.org/wiki/Category:同人作品 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
+[Category:中华人民共和国动画](https://zh.wikipedia.org/wiki/Category:中华人民共和国动画 "wikilink") [Category:網絡動畫](https://zh.wikipedia.org/wiki/Category:網絡動畫 "wikilink") [Category:魔兽世界](https://zh.wikipedia.org/wiki/Category:魔兽世界 "wikilink") [Category:同人作品](https://zh.wikipedia.org/wiki/Category:同人作品 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
 
 1.  [3D网络原创动画《我叫MT》“瞬”速传播 2009-10-20 12:04:41](http://game.163.com/09/1020/12/5M2M8SSA00313RAR.html)
-2.  [《我叫MT》在国外好评如潮
-    老外评语整理 2009-11-10](http://game.163.com/09/1110/14/5NP076U900313NAT.html)
-3.  [恶搞魔兽《我叫MT》“瞬”速传播
-    播放量超三百万 2009年08月21日](http://wangyou.pcgames.com.cn/xwkx/gnww/0908/1555467.html)
-4.  [09动漫艺术周：揭晓十佳奖项
-    签约合作项目](http://www.ctbn.com.cn/News/ShowInfoqk.aspx?ID=786051)
+2.  [《我叫MT》在国外好评如潮 老外评语整理 2009-11-10](http://game.163.com/09/1110/14/5NP076U900313NAT.html)
+3.  [恶搞魔兽《我叫MT》“瞬”速传播 播放量超三百万 2009年08月21日](http://wangyou.pcgames.com.cn/xwkx/gnww/0908/1555467.html)
+4.  [09动漫艺术周：揭晓十佳奖项 签约合作项目](http://www.ctbn.com.cn/News/ShowInfoqk.aspx?ID=786051)
 5.  [我叫MT专题站](http://wow.uuu9.com/immtc/)
 6.  [《我叫MT》荣获CCTV动漫频道09年优秀动画片奖](http://wow.uuu9.com/2009/200910/261899.shtml)

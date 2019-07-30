@@ -53,13 +53,12 @@
 
 ### 臺灣
 
-  - 底盤由[國瑞汽車打造](../Page/國瑞汽車.md "wikilink")，車體部分由其他車體廠所打造。
-  - 目前在[臺灣此車款數量很多](../Page/臺灣.md "wikilink")，為[臺灣](../Page/臺灣.md "wikilink")[大臺北都會地區大型公車主力車種](https://zh.wikipedia.org/wiki/大臺北 "wikilink")，使用業者不計其數。但因[大臺北地區的公車開始採用低底盤車輛之後](https://zh.wikipedia.org/wiki/大臺北 "wikilink")，[日野RK](https://zh.wikipedia.org/wiki/日野 "wikilink")8J底盤陸續被中南部引進,[大臺北地區購買的](https://zh.wikipedia.org/wiki/大臺北 "wikilink"),多數為普遊車,或復康巴士。
+  - 底盤由[國瑞汽車](../Page/國瑞汽車.md "wikilink")打造，車體部分由其他車體廠所打造。
+  - 目前在[臺灣](../Page/臺灣.md "wikilink")此車款數量很多，為[臺灣](../Page/臺灣.md "wikilink")[大臺北都會地區大型公車主力車種](https://zh.wikipedia.org/wiki/大臺北 "wikilink")，使用業者不計其數。但因[大臺北地區的公車開始採用低底盤車輛之後](https://zh.wikipedia.org/wiki/大臺北 "wikilink")，[日野RK](https://zh.wikipedia.org/wiki/日野 "wikilink")8J底盤陸續被中南部引進,[大臺北地區購買的](https://zh.wikipedia.org/wiki/大臺北 "wikilink"),多數為普遊車,或復康巴士。
   - 目前在[交通部公路人員訓練所也使用這款車當教練車](../Page/中華民國交通部.md "wikilink")，供學員練習考照為2015年出廠的五期免尿素車種，使用的是台松車體廠所打造之車體。
 
 ## 外部連結
 
   - [臺灣日野官方網站](http://www.hino.com.tw)
 
-[Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink")
-[Category:日野汽車車輛](https://zh.wikipedia.org/wiki/Category:日野汽車車輛 "wikilink")
+[Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink") [Category:日野汽車車輛](https://zh.wikipedia.org/wiki/Category:日野汽車車輛 "wikilink")

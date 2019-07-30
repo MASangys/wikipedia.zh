@@ -1,18 +1,4 @@
-[鄭進永](../Page/鄭進永.md "wikilink"){{、w}}[崔貞媛](../Page/崔貞媛.md "wikilink"){{、w}}[趙東赫](../Page/趙東赫.md "wikilink")
-| slogan = | judges = | voices = | narrated = | theme_music_composer =
-| opentheme = | endtheme = | composer = | country =  | language =
-[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = |
-num_episodes = 20 | list_episodes = | executive_producer = | producer
-= | supervising_producer = | editor = | location = | cinematography = |
-camera = | runtime = 70分鐘（含廣告） | company = CJ E\&M | distributor = |
-channel = [KBS 2TV](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") |
-picture_format = | audio_format = | first_run =  | first_aired =  |
-last_aired =  | status = | preceded_by =
-[波塞冬](../Page/波塞冬_\(電視劇\).md "wikilink") |
-followed_by = [Dream High
-2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink") | related = |
-website = <http://www.kbs.co.kr/drama/brain/> | production_website = |
-中國大陸名稱 = | 台灣名稱 = 就是喜歡你 | 港澳名稱 = 腦學醫神 | 馬新名稱 = }}
+[鄭進永](../Page/鄭進永.md "wikilink"){{、w}}[崔貞媛](../Page/崔貞媛.md "wikilink"){{、w}}[趙東赫](../Page/趙東赫.md "wikilink") | slogan = | judges = | voices = | narrated = | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 20 | list_episodes = | executive_producer = | producer = | supervising_producer = | editor = | location = | cinematography = | camera = | runtime = 70分鐘（含廣告） | company = CJ E\&M | distributor = | channel = [KBS 2TV](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") | picture_format = | audio_format = | first_run =  | first_aired =  | last_aired =  | status = | preceded_by = [波塞冬](../Page/波塞冬_\(電視劇\).md "wikilink") | followed_by = [Dream High 2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink") | related = | website = <http://www.kbs.co.kr/drama/brain/> | production_website = | 中國大陸名稱 = | 台灣名稱 = 就是喜歡你 | 港澳名稱 = 腦學醫神 | 馬新名稱 = }}
 
 《**Brain**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2011年11月14日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")，由《[學習之神](../Page/學習之神.md "wikilink")》的製作團隊再度攜手打造，講述發生在大學附屬醫院研究腦部神經外科的醫學類電視劇。
 
@@ -73,13 +59,13 @@ website = <http://www.kbs.co.kr/drama/brain/> | production_website = |
 
 ## 其他搭配歌曲
 
-  - 台灣[東森戲劇台版本](../Page/東森戲劇台.md "wikilink")
+  - 台灣[東森戲劇台](../Page/東森戲劇台.md "wikilink")版本
       - 片頭曲：[鄧子霆](https://zh.wikipedia.org/wiki/鄧子霆 "wikilink")《壞習慣》
       - 片尾曲：[鄧子霆](https://zh.wikipedia.org/wiki/鄧子霆 "wikilink")《愛過、錯過》
 
 ## 更換演員
 
-原定由[李相侖和](../Page/李相侖.md "wikilink")[尹勝雅分別出演李江勛](https://zh.wikipedia.org/wiki/尹勝雅 "wikilink")、尹智慧，片方以演員年齡層等原因換下了更換演員。
+原定由[李相侖](../Page/李相侖.md "wikilink")和[尹勝雅分別出演李江勛](https://zh.wikipedia.org/wiki/尹勝雅 "wikilink")、尹智慧，片方以演員年齡層等原因換下了更換演員。
 
 ## 獲獎
 
@@ -130,14 +116,9 @@ website = <http://www.kbs.co.kr/drama/brain/> | production_website = |
   - [臺灣東森](http://blog.ebc.net.tw/apps/brain/)
 
   -
-[Category:KBS月火連續劇](https://zh.wikipedia.org/wiki/Category:KBS月火連續劇 "wikilink")
-[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink")
-[Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:KBS月火連續劇](https://zh.wikipedia.org/wiki/Category:KBS月火連續劇 "wikilink") [Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink") [Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
 1.  [TNmS 홈페이지 - 지상파 日日시청률](http://home.tnms.tv/rating/main.asp)
-2.  [AGB닐슨 미디어리서치 홈페이지 - 지상파
-    日日시청률](http://www.agbnielsen.co.kr/index.asp?ref=0)
+2.  [AGB닐슨 미디어리서치 홈페이지 - 지상파 日日시청률](http://www.agbnielsen.co.kr/index.asp?ref=0)
 3.  由於[KBS轉播](../Page/韓國放送公社.md "wikilink")2014年巴西世界杯第三輪的預選賽，因此片方決定把在首播日連續播出第1、2集。
 4.  韓國綜合有線廣播轉播方與KBS電視臺因費用交納問題發生矛盾，停止轉播KBS的信號，致使部分觀眾無法看到節目。

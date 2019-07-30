@@ -1,12 +1,10 @@
-「**SF世界盃**」（Special Force World Championship，簡稱SFWC）為電子競技項目「[SF
-Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")」(由韓國遊戲廠商Dragonfly開發)最重要的國際性電競賽事之一，由2007年於韓國開辦第一屆賽事。除第一屆外，均於每年的10-11月間舉行。目前一共有[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[日本](../Page/日本.md "wikilink")、[泰國五國代表參與](https://zh.wikipedia.org/wiki/泰國 "wikilink")，原則上每個國家各推出一隊參加比賽，但也有因其他的原因而使得一個國家能夠有兩支隊伍參與\[1\]，比賽場地則由各國輪流主辦。
+「**SF世界盃**」（Special Force World Championship，簡稱SFWC）為電子競技項目「[SF Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")」(由韓國遊戲廠商Dragonfly開發)最重要的國際性電競賽事之一，由2007年於韓國開辦第一屆賽事。除第一屆外，均於每年的10-11月間舉行。目前一共有[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[日本](../Page/日本.md "wikilink")、[泰國五國代表參與](https://zh.wikipedia.org/wiki/泰國 "wikilink")，原則上每個國家各推出一隊參加比賽，但也有因其他的原因而使得一個國家能夠有兩支隊伍參與\[1\]，比賽場地則由各國輪流主辦。
 
 ## 各國代表選拔方式
 
   - 台灣：由台灣電子競技聯盟（TeSL）所屬職業隊選出SF戰績最佳者代表（方式不固定）(2009年有兩隊；2016年SF、SF2各派2隊)，2017年後則由內定安排選手隊伍。
   - 韓國：由韓國KeSPA"SF職業聯盟"中成績最佳者代表（2010年）後期改為全國大賽冠軍代表出賽
-  - 泰國：由泰國冠軍杯（Special Force Thailand
-    Championship）戰績最佳者代表（2010\~2011年有兩隊；2016年SF、SF2各派1隊)
+  - 泰國：由泰國冠軍杯（Special Force Thailand Championship）戰績最佳者代表（2010\~2011年有兩隊；2016年SF、SF2各派1隊)
   - 日本：由日本冠軍隊代表
   - 美國：
   - 中國：
@@ -208,7 +206,6 @@ GAME HERO+<br />
 
 [Category:電子競技賽事](https://zh.wikipedia.org/wiki/Category:電子競技賽事 "wikilink")
 
-1.  如2010年世界盃華義Spider雖未取得台灣代表權，但獲得原廠邀請參賽。見[《公告》台灣電競聯盟
-    SF世界盃隊伍新增公告](http://www.esports.com.tw/doc.php?id=2054)。
+1.  如2010年世界盃華義Spider雖未取得台灣代表權，但獲得原廠邀請參賽。見[《公告》台灣電競聯盟 SF世界盃隊伍新增公告](http://www.esports.com.tw/doc.php?id=2054)。
 2.  此隊伍（Wayi）和華義Spider不是同一個隊伍。其成員來自鶯歌國中「火爆冷山」隊(隊長：張家華(即華義Spider的Ray))
 3.  該屆沒有舉行五六名之排名賽。

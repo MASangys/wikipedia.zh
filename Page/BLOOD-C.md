@@ -84,8 +84,7 @@
     声 - [橋本愛](../Page/橋本愛.md "wikilink")
     都内的私立十字（つじ）學園女子高中生。17歳。サーラット所属、尋找失蹤的父親，因在電車上被古物襲擊並被小夜所救，因此認識小夜。其實為集團中兩位駭客之一，僅用手機就破解了學園的電子鎖。
     於劇場版中，對小夜真心想當她朋友。
-    其父親因為想採7th
-    heaven而蒐集相關資料，並得知古物此生物，父親前往後卻因此失蹤。最後是文人告訴小夜，真奈的父親被當作古物的實驗體，小夜在東京都的電車上砍殺的古物就是真奈的父親。
+    其父親因為想採7th heaven而蒐集相關資料，並得知古物此生物，父親前往後卻因此失蹤。最後是文人告訴小夜，真奈的父親被當作古物的實驗體，小夜在東京都的電車上砍殺的古物就是真奈的父親。
     一年半後，相信小夜還會出現在她眼前。
   -
     声 - [中村悠一](../Page/中村悠一.md "wikilink")
@@ -115,8 +114,7 @@
 
 ## 制作人员
 
-  - 原作：[Production
-    I.G](../Page/Production_I.G.md "wikilink")／[CLAMP](../Page/CLAMP.md "wikilink")
+  - 原作：[Production I.G](../Page/Production_I.G.md "wikilink")／[CLAMP](../Page/CLAMP.md "wikilink")
   - 人物设定原案：CLAMP
   - 原作監修：[藤咲淳一](https://zh.wikipedia.org/wiki/藤咲淳一 "wikilink")
   - 監督：[水島努](../Page/水島努.md "wikilink")\[4\]
@@ -146,9 +144,7 @@
   - 片頭曲「spiral」
     歌 - [DUSTZ](https://zh.wikipedia.org/wiki/DUSTZ "wikilink")
   - 片尾曲「[純潔パラドックス](https://zh.wikipedia.org/wiki/純潔パラドックス "wikilink")」
-    作詞・歌 - [水樹奈奈](../Page/水樹奈奈.md "wikilink")\[5\]/ 作曲 -
-    [吉木繪里子](https://zh.wikipedia.org/wiki/吉木繪里子 "wikilink") /
-    編曲 - [陶山隼p](https://zh.wikipedia.org/wiki/陶山隼 "wikilink")
+    作詞・歌 - [水樹奈奈](../Page/水樹奈奈.md "wikilink")\[5\]/ 作曲 - [吉木繪里子](https://zh.wikipedia.org/wiki/吉木繪里子 "wikilink") / 編曲 - [陶山隼p](https://zh.wikipedia.org/wiki/陶山隼 "wikilink")
 
 ## 各话列表
 
@@ -295,14 +291,13 @@
 
 ## 劇場版
 
-電影《**Blood-C: The Last Dark**》于2012年6月2日上映\[9\]。由[Production
-I.G動畫製作](../Page/Production_I.G.md "wikilink")，[松竹國際發行](../Page/松竹.md "wikilink")。日本[映倫評級為PG](https://zh.wikipedia.org/wiki/映倫 "wikilink")12。
+電影《**Blood-C: The Last Dark**》于2012年6月2日上映\[9\]。由[Production I.G動畫製作](../Page/Production_I.G.md "wikilink")，[松竹](../Page/松竹.md "wikilink")國際發行。日本[映倫評級為PG](https://zh.wikipedia.org/wiki/映倫 "wikilink")12。
 
 在電影版中，延續了電視動畫版中的黑幕陰謀事件完結後的故事，與之獨立成篇\[10\]。
 
 本來《BLOOD-C》的企劃中發展初期，曾考慮過以電影或以OVA兩種方式延續故事。之後，經CLAMP參與後決定了實際內容，決定以電視動畫版，後接電影版來發展\[11\]。本作電視動畫版播出时就传出了電影版的消息\[12\]，到了電視動畫版最後一集完結時公開電影版正式上映日期。
 
-本片是[日本](../Page/日本.md "wikilink")[文化廳自](../Page/文化廳.md "wikilink")2011年啟動文化振興政策的「國際共同電影製作支援事業」中，啟動第一年的製作支援對象作品之一，由日本政府注資5千萬日元的補助金開拍\[13\]。
+本片是[日本](../Page/日本.md "wikilink")[文化廳](../Page/文化廳.md "wikilink")自2011年啟動文化振興政策的「國際共同電影製作支援事業」中，啟動第一年的製作支援對象作品之一，由日本政府注資5千萬日元的補助金開拍\[13\]。
 
 本片為2012年第16屆加拿大蒙特利爾幻想電影節，及第16屆韓國富川國際奇幻電影節參展作品\[14\]。並獲得蒙特婁奇幻影展歐羅巴幻想曲獎。\[15\]\[16\]
 
@@ -316,8 +311,7 @@ I.G動畫製作](../Page/Production_I.G.md "wikilink")，[松竹國際發行](..
 
 ### 工作人員
 
-  - 原作：[Production
-    I.G](../Page/Production_I.G.md "wikilink")/[CLAMP](../Page/CLAMP.md "wikilink")
+  - 原作：[Production I.G](../Page/Production_I.G.md "wikilink")/[CLAMP](../Page/CLAMP.md "wikilink")
   - 導演：[鹽谷直義](https://zh.wikipedia.org/wiki/鹽谷直義 "wikilink")
   - 編劇：[大川七瀨](https://zh.wikipedia.org/wiki/大川七瀨 "wikilink")、[藤咲淳一](https://zh.wikipedia.org/wiki/藤咲淳一 "wikilink")
   - 角色原案 - [CLAMP](../Page/CLAMP.md "wikilink")
@@ -328,8 +322,7 @@ I.G動畫製作](../Page/Production_I.G.md "wikilink")，[松竹國際發行](..
 ### 主题曲
 
   - 片頭曲「[METRO BAROQUE](../Page/TIME_SPACE_EP.md "wikilink")」
-    作詞・歌 - [水樹奈奈](../Page/水樹奈奈.md "wikilink")/ 作曲 -  / 編曲 -
-    [中山真斗](../Page/中山真斗.md "wikilink")
+    作詞・歌 - [水樹奈奈](../Page/水樹奈奈.md "wikilink")/ 作曲 -  / 編曲 - [中山真斗](../Page/中山真斗.md "wikilink")
 
 ## 出版書籍
 
@@ -419,8 +412,7 @@ I.G動畫製作](../Page/Production_I.G.md "wikilink")，[松竹國際發行](..
 
 ## 參見
 
-  - [BLOOD: THE LAST
-    VAMPIRE](https://zh.wikipedia.org/wiki/BLOOD:_THE_LAST_VAMPIRE "wikilink")
+  - [BLOOD: THE LAST VAMPIRE](https://zh.wikipedia.org/wiki/BLOOD:_THE_LAST_VAMPIRE "wikilink")
   - [血戰](../Page/血戰.md "wikilink")
 
 ## 注释
@@ -432,18 +424,7 @@ I.G動畫製作](../Page/Production_I.G.md "wikilink")，[松竹國際發行](..
   - [MBS](http://www.mbs.jp/blood-c/)
 
   -
-[Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink")
-[Category:血戰](https://zh.wikipedia.org/wiki/Category:血戰 "wikilink")
-[Category:2011年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年TBS電視網動畫 "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink")
-[Category:吸血鬼題材漫畫](https://zh.wikipedia.org/wiki/Category:吸血鬼題材漫畫 "wikilink")
-[Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink")
-[Category:2012年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2012年日本劇場動畫 "wikilink")
-[Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink")
-[Category:吸血鬼題材動畫電影](https://zh.wikipedia.org/wiki/Category:吸血鬼題材動畫電影 "wikilink")
+[Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink") [Category:血戰](https://zh.wikipedia.org/wiki/Category:血戰 "wikilink") [Category:2011年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年TBS電視網動畫 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink") [Category:吸血鬼題材漫畫](https://zh.wikipedia.org/wiki/Category:吸血鬼題材漫畫 "wikilink") [Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink") [Category:2012年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2012年日本劇場動畫 "wikilink") [Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink") [Category:吸血鬼題材動畫電影](https://zh.wikipedia.org/wiki/Category:吸血鬼題材動畫電影 "wikilink")
 
 1.
 

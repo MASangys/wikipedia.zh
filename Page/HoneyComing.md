@@ -1,14 +1,8 @@
-《**HoneyComing**》是日本遊戲公司[HOOK於](https://zh.wikipedia.org/wiki/HOOK "wikilink")2007年6月29日推出的[戀愛冒險](../Page/戀愛冒險遊戲.md "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")。最早的版本是初回限定版\[1\]。2007年8月24日發行通常版\[2\]；2009年9月3日時移植到PS2上，更名為《**Sweet
-HoneyComing**》\[3\]，並新增了部分劇情\[4\]。2009年8月28日時發行了PC的續作《**@HoneyComing
-RoyalSweet**》\[5\]，亦新增了些許劇情及遊戲功能，部分配角成為可攻略角色。\[6\]2014年、HOOKSOFT為了紀念旗下畫師らっこ引退，於該年1月27日發售名為《HOOKSOFT
-RAKKO The Premium BOX Plus
-α》的作品集（DL版為2013年12月20日發行），內容為該名畫師過去於HOOKSOFT參與製作的所有作品，《@HoneyComing
-RoyalSweet》以及《HoneyComing re:coming》亦在其中。\[7\]
+《**HoneyComing**》是日本遊戲公司[HOOK於](https://zh.wikipedia.org/wiki/HOOK "wikilink")2007年6月29日推出的[戀愛冒險](../Page/戀愛冒險遊戲.md "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")。最早的版本是初回限定版\[1\]。2007年8月24日發行通常版\[2\]；2009年9月3日時移植到PS2上，更名為《**Sweet HoneyComing**》\[3\]，並新增了部分劇情\[4\]。2009年8月28日時發行了PC的續作《**@HoneyComing RoyalSweet**》\[5\]，亦新增了些許劇情及遊戲功能，部分配角成為可攻略角色。\[6\]2014年、HOOKSOFT為了紀念旗下畫師らっこ引退，於該年1月27日發售名為《HOOKSOFT RAKKO The Premium BOX Plus α》的作品集（DL版為2013年12月20日發行），內容為該名畫師過去於HOOKSOFT參與製作的所有作品，《@HoneyComing RoyalSweet》以及《HoneyComing re:coming》亦在其中。\[7\]
 
 ## 遊戲系統
 
-遊戲開始時分為三種不同的模式，分別為娛樂模式（Amusement Mode）、感覺模式（Feeling Mode）與唯一模式（Only One
-Mode）。
+遊戲開始時分為三種不同的模式，分別為娛樂模式（Amusement Mode）、感覺模式（Feeling Mode）與唯一模式（Only One Mode）。
 
   - 娛樂模式
     女主角的好感度與其位置都會在地圖上標示，是適合初學者的模式。
@@ -89,7 +83,7 @@ Mode）。
 
 ## 工作人員
 
-該遊戲的[製作人由亞佐美晶負責](../Page/電子遊戲製作人.md "wikilink")。[導演和](https://zh.wikipedia.org/wiki/導演 "wikilink")[劇本統籌由川波無人負責](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")。[美術監督雖由](https://zh.wikipedia.org/wiki/美術監督 "wikilink")負責，但[原畫由](https://zh.wikipedia.org/wiki/原畫 "wikilink")和負責。[音樂由松浦貴雄負責](https://zh.wikipedia.org/wiki/音樂 "wikilink")。[音響由V](../Page/音響.md "wikilink")Ⅱ負責。\[8\]
+該遊戲的[製作人由亞佐美晶負責](../Page/電子遊戲製作人.md "wikilink")。[導演和](https://zh.wikipedia.org/wiki/導演 "wikilink")[劇本統籌由川波無人負責](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")。[美術監督雖由](https://zh.wikipedia.org/wiki/美術監督 "wikilink")負責，但[原畫由](https://zh.wikipedia.org/wiki/原畫 "wikilink")和負責。[音樂由松浦貴雄負責](https://zh.wikipedia.org/wiki/音樂 "wikilink")。[音響](../Page/音響.md "wikilink")由VⅡ負責。\[8\]
 
 ## 漫畫
 
@@ -117,27 +111,16 @@ Mode）。
 
 《HoneyComing》在日本美少女遊戲與動畫相關商品銷售網站Getchu.com的2007年6月銷量榜上排名第1\[13\]；同年7月排名第11\[14\]；2007年上半年排名第3\[15\]；全年排名第4\[16\]。
 
-2007年10月，《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《HoneyComing》在入圍的249款遊戲中獲得14票而成為第19名\[17\]。
+2007年10月，《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《HoneyComing》在入圍的249款遊戲中獲得14票而成為第19名\[17\]。
 
 ## 參考來源
 
 ## 外部連結
 
-  - [hook-net Official Website - @HoneyComing RoyalSweet
-    -](http://www.hook-net.jp/hcrs/index.htm)
-  - [hook-net Official Website - HoneyComing
-    -](http://www.hook-net.jp/honeycoming/index.htm)
+  - [hook-net Official Website - @HoneyComing RoyalSweet -](http://www.hook-net.jp/hcrs/index.htm)
+  - [hook-net Official Website - HoneyComing -](http://www.hook-net.jp/honeycoming/index.htm)
 
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink")
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:異父母之兄弟姊妹相愛作品](https://zh.wikipedia.org/wiki/Category:異父母之兄弟姊妹相愛作品 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:異父母之兄弟姊妹相愛作品](https://zh.wikipedia.org/wiki/Category:異父母之兄弟姊妹相愛作品 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 2.

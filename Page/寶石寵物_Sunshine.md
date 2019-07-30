@@ -1,25 +1,22 @@
 [Jewelpet_Sunshine.gif](https://zh.wikipedia.org/wiki/File:Jewelpet_Sunshine.gif "fig:Jewelpet_Sunshine.gif")
 
-《**寶石寵物
-Sunshine**》，為[東京電視台製作](../Page/東京電視台.md "wikilink")，劇情則設定為人類與[寶石寵物共同居住在寶石樂園](../Page/寶石寵物.md "wikilink")。[香港](../Page/香港.md "wikilink")[翡翠台定名](../Page/翡翠台.md "wikilink")**寶石寵物III**，於2012年7月4日起逢星期二、三播映。
+《**寶石寵物 Sunshine**》，為[東京電視台](../Page/東京電視台.md "wikilink")製作，劇情則設定為人類與[寶石寵物](../Page/寶石寵物.md "wikilink")共同居住在寶石樂園。[香港](../Page/香港.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")定名**寶石寵物III**，於2012年7月4日起逢星期二、三播映。
 
 ## 簡介
 
-製作局和放送時間表、寶石寵物的基本設定及設計是以魔法學校為舞台而構成的。是《[寶石寵物
-Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的後作，但是，故事中的舞台背景設定與前作並沒有關連，是以獨立和不同的世界觀組成。
+製作局和放送時間表、寶石寵物的基本設定及設計是以魔法學校為舞台而構成的。是《[寶石寵物 Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的後作，但是，故事中的舞台背景設定與前作並沒有關連，是以獨立和不同的世界觀組成。
 
 第1、2系列每集在30分鐘內都是1個故事，本作大部分是30分鐘2個故事。
 
 ## 故事
 
-寶石樂園的全日制學校——「Sunshine學園」的3年梅班（俗稱吊車尾班或垃圾班），[寶石寵物露比](../Page/寶石寵物.md "wikilink")，有精神地面對每天的校園生活。和有對手關係而且是同室的花音過著每天爭吵的生活。花音想與御影成為伴侶、陶魯喜歡露比但露比喜歡御影。另外奈娜和安祖娜惹起的問題、不良學生、奇怪的學生、意味著不明的騒動快將引起。但是，他們的畢業時間漸漸迫近。到底，露比牠們能否在畢業前找到自己的夢想呢…？
+寶石樂園的全日制學校——「Sunshine學園」的3年梅班（俗稱吊車尾班或垃圾班），[寶石寵物](../Page/寶石寵物.md "wikilink")露比，有精神地面對每天的校園生活。和有對手關係而且是同室的花音過著每天爭吵的生活。花音想與御影成為伴侶、陶魯喜歡露比但露比喜歡御影。另外奈娜和安祖娜惹起的問題、不良學生、奇怪的學生、意味著不明的騒動快將引起。但是，他們的畢業時間漸漸迫近。到底，露比牠們能否在畢業前找到自己的夢想呢…？
 
 ## 登場角色
 
 ## 工作人員
 
-  - [原作](https://zh.wikipedia.org/wiki/原作 "wikilink")：[三麗鷗](../Page/三麗鷗.md "wikilink")、[Sega
-    Toys](https://zh.wikipedia.org/wiki/Sega "wikilink")
+  - [原作](https://zh.wikipedia.org/wiki/原作 "wikilink")：[三麗鷗](../Page/三麗鷗.md "wikilink")、[Sega Toys](https://zh.wikipedia.org/wiki/Sega "wikilink")
   - [監督](https://zh.wikipedia.org/wiki/監督 "wikilink")：稻垣隆行
   - [系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink")：柿原優子
   - [角色設定](https://zh.wikipedia.org/wiki/角色設定 "wikilink")：藤田麻理子、宮川知子
@@ -33,28 +30,23 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的後作，但是�
   - [音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[制作](https://zh.wikipedia.org/wiki/制作 "wikilink")：[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")、イマジン
   - [生產者](https://zh.wikipedia.org/wiki/生產者 "wikilink")：奈良初男、可知秀幸、大野亮介
   - [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[生產者](https://zh.wikipedia.org/wiki/生產者 "wikilink")：關山晃弘
-  - [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[製作](../Page/製作.md "wikilink")：[STUDIO
-    COMET](../Page/STUDIO_COMET.md "wikilink")
+  - [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[製作](../Page/製作.md "wikilink")：[STUDIO COMET](../Page/STUDIO_COMET.md "wikilink")
   - [製作](../Page/製作.md "wikilink")：[東京電視台](../Page/東京電視台.md "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、We've
 
 ## 主題曲
 
   - 片頭曲「GO\! GO\! サンシャイン」（GO！GO！Sunshine）
-    作詞、作曲 - [岩崎貴文](../Page/岩崎貴文.md "wikilink")／編曲 - 龜山耕一郎／歌 -
-    [五條真由美](../Page/五條真由美.md "wikilink")
+    作詞、作曲 - [岩崎貴文](../Page/岩崎貴文.md "wikilink")／編曲 - 龜山耕一郎／歌 - [五條真由美](../Page/五條真由美.md "wikilink")
 
 \*; 香港粵語版片頭曲「GO！GO！Sunshine」
 
   -
 
       -
-        作詞 - [鄭櫻綸](../Page/鄭櫻綸.md "wikilink")／作曲 -
-        [岩崎貴文](../Page/岩崎貴文.md "wikilink")／編曲 - 龜山耕一郎／歌
-        - [何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")
+        作詞 - [鄭櫻綸](../Page/鄭櫻綸.md "wikilink")／作曲 - [岩崎貴文](../Page/岩崎貴文.md "wikilink")／編曲 - 龜山耕一郎／歌 - [何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")
 
   - 片尾曲「イマドキ乙女」（戀愛中的少女）
-    作詞 - 森由里子／作曲 - 浦田尚克／編曲 - 新井理生／歌 -
-    [增山加彌乃](https://zh.wikipedia.org/wiki/增山加彌乃 "wikilink")、望月美壽
+    作詞 - 森由里子／作曲 - 浦田尚克／編曲 - 新井理生／歌 - [增山加彌乃](https://zh.wikipedia.org/wiki/增山加彌乃 "wikilink")、望月美壽
 
 ## 插入曲
 
@@ -62,8 +54,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的後作，但是�
 
 <!-- end list -->
 
-  - [Aerosmith](https://zh.wikipedia.org/wiki/Aerosmith "wikilink")『I
-    Don't Want to Miss a Thing』（1998年）
+  - [Aerosmith](https://zh.wikipedia.org/wiki/Aerosmith "wikilink")『I Don't Want to Miss a Thing』（1998年）
     第7話「寶石寵物感謝日Yeah！」
     第23話A部分「好厲害的那個東西Yeah！」
 
@@ -87,9 +78,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的後作，但是�
 
 <!-- end list -->
 
-  - [The
-    Beatles](https://zh.wikipedia.org/wiki/The_Beatles "wikilink")『A
-    Hard Days Night』（1964年）
+  - [The Beatles](https://zh.wikipedia.org/wiki/The_Beatles "wikilink")『A Hard Days Night』（1964年）
     第25話「在雨中唱歌的話Yeah！」
 
 <!-- end list -->
@@ -1113,9 +1102,4 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的後作，但是�
 
   - [東京電視台《寶石寵物 Sunshine》](http://www.tv-tokyo.co.jp/anime/jp-sunshine/)
 
-[Category:2011年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年東京電視網動畫 "wikilink")
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:寶石寵物](https://zh.wikipedia.org/wiki/Category:寶石寵物 "wikilink")
-[Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")
+[Category:2011年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年東京電視網動畫 "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:寶石寵物](https://zh.wikipedia.org/wiki/Category:寶石寵物 "wikilink") [Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")

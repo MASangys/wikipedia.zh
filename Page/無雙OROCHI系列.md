@@ -1,15 +1,8 @@
-是由日本[光榮特庫摩所開發的](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")[砍殺遊戲系列](../Page/砍殺遊戲.md "wikilink")，屬於[無雙系列](../Page/无双系列游戏列表.md "wikilink")，是[真·三国无双系列和](https://zh.wikipedia.org/wiki/真·三国无双系列 "wikilink")[戰國無雙系列等光榮特庫摩旗下作品的](../Page/戰國無雙系列.md "wikilink")[跨界遊戲](../Page/跨界作品.md "wikilink")。遊戲初代《[無雙OROCHI](https://zh.wikipedia.org/wiki/無雙OROCHI "wikilink")》是以《[真·三國無雙4](../Page/真·三國無雙4.md "wikilink")》、《[戰國無雙2](../Page/戰國無雙2.md "wikilink")》及該系列未登場的《[戰國無雙](../Page/戰國無雙.md "wikilink")》角色為基礎《無雙OROCHI
-2 Ultimate》多个版本。 進入魔王遠呂智所創造的世界之故事。在此基礎上包括《[無雙OROCHI
-蛇魔](../Page/無雙OROCHI_蛇魔.md "wikilink")》、《[無雙OROCHI
-蛇魔再臨](../Page/無雙OROCHI_蛇魔再臨.md "wikilink")》和《[無雙OROCHI
-Z](https://zh.wikipedia.org/wiki/無雙OROCHI_Z "wikilink")》三部作品。
+是由日本[光榮特庫摩所開發的](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")[砍殺遊戲](../Page/砍殺遊戲.md "wikilink")系列，屬於[無雙系列](../Page/无双系列游戏列表.md "wikilink")，是[真·三国无双系列和](https://zh.wikipedia.org/wiki/真·三国无双系列 "wikilink")[戰國無雙系列](../Page/戰國無雙系列.md "wikilink")等光榮特庫摩旗下作品的[跨界遊戲](../Page/跨界作品.md "wikilink")。遊戲初代《[無雙OROCHI](https://zh.wikipedia.org/wiki/無雙OROCHI "wikilink")》是以《[真·三國無雙4](../Page/真·三國無雙4.md "wikilink")》、《[戰國無雙2](../Page/戰國無雙2.md "wikilink")》及該系列未登場的《[戰國無雙](../Page/戰國無雙.md "wikilink")》角色為基礎《無雙OROCHI 2 Ultimate》多个版本。 進入魔王遠呂智所創造的世界之故事。在此基礎上包括《[無雙OROCHI 蛇魔](../Page/無雙OROCHI_蛇魔.md "wikilink")》、《[無雙OROCHI 蛇魔再臨](../Page/無雙OROCHI_蛇魔再臨.md "wikilink")》和《[無雙OROCHI Z](https://zh.wikipedia.org/wiki/無雙OROCHI_Z "wikilink")》三部作品。
 
-遊戲二代《[無雙OROCHI
-2](../Page/無雙OROCHI_2.md "wikilink")》是以《[真·三國無雙6](../Page/真·三國無雙6.md "wikilink")》、《[戰國無雙3](https://zh.wikipedia.org/wiki/戰國無雙3 "wikilink")》與該系列未登場的可操作角色、《[忍者外傳](https://zh.wikipedia.org/wiki/忍者外傳 "wikilink")》系列、《[生死格鬥](https://zh.wikipedia.org/wiki/生死格鬥 "wikilink")》系列、《[魔獸戰士ZERO](https://zh.wikipedia.org/wiki/魔獸戰士ZERO "wikilink")》、《[長劍風暴：百年戰爭](../Page/長劍風暴：百年戰爭.md "wikilink")》、《[特洛伊無雙](../Page/特洛伊無雙.md "wikilink")》、《[鍊金術士系列](../Page/鍊金術士系列.md "wikilink")》、《[劍魂](https://zh.wikipedia.org/wiki/劍魂 "wikilink")》系列等代表角色以及本作的原創角色同場演出一往返時空的激戰，先後推出有《無雙OROCHI
-2》、《無雙OROCHI 2 Special》《無雙OROCHI 2 Hyper》、《無雙OROCHI 2 Ultimate》多个版本。
+遊戲二代《[無雙OROCHI 2](../Page/無雙OROCHI_2.md "wikilink")》是以《[真·三國無雙6](../Page/真·三國無雙6.md "wikilink")》、《[戰國無雙3](https://zh.wikipedia.org/wiki/戰國無雙3 "wikilink")》與該系列未登場的可操作角色、《[忍者外傳](https://zh.wikipedia.org/wiki/忍者外傳 "wikilink")》系列、《[生死格鬥](https://zh.wikipedia.org/wiki/生死格鬥 "wikilink")》系列、《[魔獸戰士ZERO](https://zh.wikipedia.org/wiki/魔獸戰士ZERO "wikilink")》、《[長劍風暴：百年戰爭](../Page/長劍風暴：百年戰爭.md "wikilink")》、《[特洛伊無雙](../Page/特洛伊無雙.md "wikilink")》、《[鍊金術士系列](../Page/鍊金術士系列.md "wikilink")》、《[劍魂](https://zh.wikipedia.org/wiki/劍魂 "wikilink")》系列等代表角色以及本作的原創角色同場演出一往返時空的激戰，先後推出有《無雙OROCHI 2》、《無雙OROCHI 2 Special》《無雙OROCHI 2 Hyper》、《無雙OROCHI 2 Ultimate》多个版本。
 
-遊戲三代《[無雙OROCHI
-3](../Page/無雙OROCHI_蛇魔_3.md "wikilink")》是以《[真·三國無雙7](../Page/真·三國無雙7.md "wikilink")》、《[戰國無雙4](../Page/戰國無雙4.md "wikilink")》與該系列未登場的可操作角色與5位新增的角色。
+遊戲三代《[無雙OROCHI 3](../Page/無雙OROCHI_蛇魔_3.md "wikilink")》是以《[真·三國無雙7](../Page/真·三國無雙7.md "wikilink")》、《[戰國無雙4](../Page/戰國無雙4.md "wikilink")》與該系列未登場的可操作角色與5位新增的角色。
 
 ## 歷代作品
 
@@ -133,16 +126,9 @@ steam</p></td>
 
 ## 角色列表
 
-《[无双大蛇](https://zh.wikipedia.org/wiki/无双大蛇 "wikilink")》初代（含《[魔王再临](https://zh.wikipedia.org/wiki/无双大蛇_魔王再临 "wikilink")》）、《[无双大蛇Z](../Page/无双大蛇Z.md "wikilink")》）含有96名可操作角色，主要包括《[真·三國無雙4](../Page/真·三國無雙4.md "wikilink")》和《[战国无双2](https://zh.wikipedia.org/wiki/战国无双2 "wikilink")》的角色，并新增了来自中日古代神话与其他时代的原创角色。《[無雙OROCHI
-2](../Page/無雙OROCHI_2.md "wikilink")》最终含有145名的遊戲角色，包括《[真三國無雙6](https://zh.wikipedia.org/wiki/真三國無雙6 "wikilink")》、《[戰國無雙3](https://zh.wikipedia.org/wiki/戰國無雙3 "wikilink")》的角色，以及其他原創角色。另外本作首次與其他光榮特庫摩作品融合，讓部份角色參戰，當中包括《[忍者外傳](https://zh.wikipedia.org/wiki/忍者外傳 "wikilink")》、《[生死格鬥](https://zh.wikipedia.org/wiki/生死格鬥 "wikilink")》、《[魔獸戰士ZERO](https://zh.wikipedia.org/wiki/魔獸戰士ZERO "wikilink")》、《[長劍風暴：百年戰爭](../Page/長劍風暴：百年戰爭.md "wikilink")》及《[特洛伊無雙](../Page/特洛伊無雙.md "wikilink")》中的代表角色。
+《[无双大蛇](https://zh.wikipedia.org/wiki/无双大蛇 "wikilink")》初代（含《[魔王再临](https://zh.wikipedia.org/wiki/无双大蛇_魔王再临 "wikilink")》）、《[无双大蛇Z](../Page/无双大蛇Z.md "wikilink")》）含有96名可操作角色，主要包括《[真·三國無雙4](../Page/真·三國無雙4.md "wikilink")》和《[战国无双2](https://zh.wikipedia.org/wiki/战国无双2 "wikilink")》的角色，并新增了来自中日古代神话与其他时代的原创角色。《[無雙OROCHI 2](../Page/無雙OROCHI_2.md "wikilink")》最终含有145名的遊戲角色，包括《[真三國無雙6](https://zh.wikipedia.org/wiki/真三國無雙6 "wikilink")》、《[戰國無雙3](https://zh.wikipedia.org/wiki/戰國無雙3 "wikilink")》的角色，以及其他原創角色。另外本作首次與其他光榮特庫摩作品融合，讓部份角色參戰，當中包括《[忍者外傳](https://zh.wikipedia.org/wiki/忍者外傳 "wikilink")》、《[生死格鬥](https://zh.wikipedia.org/wiki/生死格鬥 "wikilink")》、《[魔獸戰士ZERO](https://zh.wikipedia.org/wiki/魔獸戰士ZERO "wikilink")》、《[長劍風暴：百年戰爭](../Page/長劍風暴：百年戰爭.md "wikilink")》及《[特洛伊無雙](../Page/特洛伊無雙.md "wikilink")》中的代表角色。
 
 ## 外部連結
 
   -
-[Category:无双大蛇系列](https://zh.wikipedia.org/wiki/Category:无双大蛇系列 "wikilink")
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
-[Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink")
-[Category:中國神話題材作品](https://zh.wikipedia.org/wiki/Category:中國神話題材作品 "wikilink")
-[Category:日本神話題材作品](https://zh.wikipedia.org/wiki/Category:日本神話題材作品 "wikilink")
+[Category:无双大蛇系列](https://zh.wikipedia.org/wiki/Category:无双大蛇系列 "wikilink") [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink") [Category:中國神話題材作品](https://zh.wikipedia.org/wiki/Category:中國神話題材作品 "wikilink") [Category:日本神話題材作品](https://zh.wikipedia.org/wiki/Category:日本神話題材作品 "wikilink")

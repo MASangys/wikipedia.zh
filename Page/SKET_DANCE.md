@@ -1,5 +1,4 @@
-《**SKET
-DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[篠原健太所創作的校園](https://zh.wikipedia.org/wiki/篠原健太 "wikilink")[喜劇](../Page/喜劇.md "wikilink")漫畫，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）於2007年33號開始連載。本作的單行本、[廣播劇CD與](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")[輕小說](../Page/輕小說.md "wikilink")都已在日本發售。2010年1月21日，本作獲得第55屆[小學館漫畫賞少年向部門賞](https://zh.wikipedia.org/wiki/小學館漫畫賞 "wikilink")。
+《**SKET DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[篠原健太所創作的校園](https://zh.wikipedia.org/wiki/篠原健太 "wikilink")[喜劇](../Page/喜劇.md "wikilink")漫畫，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）於2007年33號開始連載。本作的單行本、[廣播劇CD與](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")[輕小說](../Page/輕小說.md "wikilink")都已在日本發售。2010年1月21日，本作獲得第55屆[小學館漫畫賞少年向部門賞](https://zh.wikipedia.org/wiki/小學館漫畫賞 "wikilink")。
 
 2011年4月7日，TV動畫版於[東京電視台](../Page/東京電視台.md "wikilink")開始播放；在台灣Animax於2012年9月20日開始每週一到週五19:30首播，於2012年11月29日播放至第一季結束，共五十一集；香港Animax自2013年6月5日開始每週一到週五晚上10時播放動畫版第二季；台灣Animax則自2013年7月13日開始至2013年8月7日每週一到週五晚上8點半播放動畫版第二季動畫（第五十二集至七十七集）。
 
@@ -81,8 +80,7 @@ DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wik
     收錄於第五集。女性角色穿泳衣在沙灘玩文字接龍的故事。
   - 番外篇-ROCKET DANCE 遭遇
     收錄於第六集。舞台來到宇宙的科幻風故事。
-  - 番外篇-SILENT DANCE
-    [人情巧克力好難送之卷](https://zh.wikipedia.org/wiki/人情巧克力 "wikilink")
+  - 番外篇-SILENT DANCE [人情巧克力好難送之卷](https://zh.wikipedia.org/wiki/人情巧克力 "wikilink")
     收錄於第七集。描述姬子送巧克力給Bossun的故事。
   - 番外篇-BlSCUIT DANCE 最喜歡老師了之卷
     收錄於第八集。糟糕澤變成幼稚園老師的故事。
@@ -195,9 +193,7 @@ DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wik
 
 ### 單行本
 
-每一話結尾都有Self Liner
-Note（即作者解說）及書未亦收錄人物創作秘話。順便一提日文版第一冊的第一次印刷版及香港中文版，書未的人物創作秘話中Bossun的本名「藤崎**佑**助」錯寫成「**祐**助」。日文版於第二次印刷後已修正，而Self
-Liner Note亦有修改，令讀者更容易閱讀。
+每一話結尾都有Self Liner Note（即作者解說）及書未亦收錄人物創作秘話。順便一提日文版第一冊的第一次印刷版及香港中文版，書未的人物創作秘話中Bossun的本名「藤崎**佑**助」錯寫成「**祐**助」。日文版於第二次印刷後已修正，而Self Liner Note亦有修改，令讀者更容易閱讀。
 
 從單行本第三集開始在書末設有「**社室TALK**」單元以提供讀者發問。
 
@@ -548,12 +544,8 @@ ISBN 978-986-337-497-8</p></td>
 
 ### 輕小説
 
-1.  **SKET DANCE extra dance 1
-    真說\!\!學園七不思議**（作者:[平林佐和子](https://zh.wikipedia.org/wiki/平林佐和子 "wikilink")）
-    2009年11月4日發售\[1\]、ISBN 978-4-08-703211-6
-2.  **SKET DANCE extra dance 2
-    學生會事件簿〜クック・シェル事件〜**（作者:[平林佐和子](https://zh.wikipedia.org/wiki/平林佐和子 "wikilink")）
-    2010年7月2日發售\[2\]、ISBN 978-4-08-703225-3
+1.  **SKET DANCE extra dance 1 真說\!\!學園七不思議**（作者:[平林佐和子](https://zh.wikipedia.org/wiki/平林佐和子 "wikilink")） 2009年11月4日發售\[1\]、ISBN 978-4-08-703211-6
+2.  **SKET DANCE extra dance 2 學生會事件簿〜クック・シェル事件〜**（作者:[平林佐和子](https://zh.wikipedia.org/wiki/平林佐和子 "wikilink")） 2010年7月2日發售\[2\]、ISBN 978-4-08-703225-3
 
 ## 衍生作品
 
@@ -564,8 +556,7 @@ ISBN 978-986-337-497-8</p></td>
 
 ### VOMIC
 
-Jump専門情報節目「」2009年11月中播放，各3分、全4話。12月上載於集英社Voice Comic Station
-Site「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」放送。
+Jump専門情報節目「」2009年11月中播放，各3分、全4話。12月上載於集英社Voice Comic Station Site「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」放送。
 
   - 話數一覽
 
@@ -669,8 +660,7 @@ Site「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」放送。
   - 角色設定：中武學
   - 監督：[川口敬一郎](../Page/川口敬一郎.md "wikilink")
   - 音樂：
-  - 動畫製作：[龍之子
-    Production](https://zh.wikipedia.org/wiki/龍之子_Production "wikilink")
+  - 動畫製作：[龍之子 Production](https://zh.wikipedia.org/wiki/龍之子_Production "wikilink")
 
 #### 主題歌
 
@@ -678,12 +668,9 @@ Site「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」放送。
 
 <!-- end list -->
 
-1.  「**[太遜了I love you\!](../Page/太遜了I_love_you!.md "wikilink")（カッコ悪い I
-    love you\!）**」**(avex entertainment)（第2話 - 第17話）**
+1.  「**[太遜了I love you\!](../Page/太遜了I_love_you!.md "wikilink")（カッコ悪い I love you\!）**」**(avex entertainment)（第2話 - 第17話）**
       -
-        歌 - [French
-        Kiss](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")（フレンチ・キス）
-        作詞：秋元康 作曲 - 黑須克彦 編曲 - 五十嵐“IGAO”淳一
+        歌 - [French Kiss](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")（フレンチ・キス） 作詞：秋元康 作曲 - 黑須克彦 編曲 - 五十嵐“IGAO”淳一
         第1、51話作片尾曲使用。
 2.  「**道**」**(avex entertainment)（第18話 - 第26話）**
       -
@@ -691,8 +678,7 @@ Site「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」放送。
         第17話作插入曲使用。
 3.  「**Graffiti**」**（第27話 - 第39話）**
       -
-        歌 - [GACKT](../Page/GACKT.md "wikilink") 作詞 -
-        [藤林聖子](../Page/藤林聖子.md "wikilink") 作曲、編曲 - Ryo
+        歌 - [GACKT](../Page/GACKT.md "wikilink") 作詞 - [藤林聖子](../Page/藤林聖子.md "wikilink") 作曲、編曲 - Ryo
 4.  「**Message**」**（第40話 - 第46話、第48話 - 第51話）**
       -
         歌 - The Sketchbook 作詞 - 多田宏 作曲、編曲 - tatsuo
@@ -712,9 +698,7 @@ Site「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」放送。
 
 1.  「**Comic Sonic**」**(avex trax)（第2話 - 第16話）**
       -
-        歌、編曲 - [the
-        pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")
-        作詞、作曲 - 山中さわお
+        歌、編曲 - [the pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink") 作詞、作曲 - 山中さわお
 2.  「**Funny Bunny（Rock Stock Version）**」**（第17話）**
       -
         歌 - the pillows 作詞、作曲 - 山中さわお 編曲 - the pillows
@@ -724,21 +708,15 @@ Site「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」放送。
 4.  「**キヲク**」**（第25話）**
       -
         歌 - The Sketchbook 作詞 - Rock the Tiger 作曲、編曲 - tatsuo
-5.  「**[Milk和Chocolate](../Page/Milk和Chocolate.md "wikilink")（ミルクとチョコレート）**」**（第27話
-    - 第36話、第38話 - 第39話）**
+5.  「**[Milk和Chocolate](../Page/Milk和Chocolate.md "wikilink")（ミルクとチョコレート）**」**（第27話 - 第36話、第38話 - 第39話）**
       -
-        歌 - [ChocoLe](../Page/ChocoLe.md "wikilink") 作詞 -
-        [藤林聖子](../Page/藤林聖子.md "wikilink") 作曲、編曲 - 酒井陽一
+        歌 - [ChocoLe](../Page/ChocoLe.md "wikilink") 作詞 - [藤林聖子](../Page/藤林聖子.md "wikilink") 作曲、編曲 - 酒井陽一
 6.  「**HERO**」**（第37話）**
       -
         歌 - The Sketchbook 作詞 - 多田宏 作曲、編曲 - tatsuo
 7.  「**パーリー\!ハレルヤ\!**」**（第40話 - 第46話、第49話 - 第50話）**
       -
-        歌 - SKET ROCK【藤崎 佑助(CV：[吉野裕行](../Page/吉野裕行.md "wikilink"))、椿
-        佐介(CV：[下野紘](../Page/下野紘.md "wikilink"))、笛吹
-        和義(CV：[杉田智和](../Page/杉田智和.md "wikilink"))、安形
-        惣司郎(CV：[關智一](../Page/關智一.md "wikilink"))】 作詞 - 酒井陽一、RUCCA
-        作曲、編曲 - 酒井陽一
+        歌 - SKET ROCK【藤崎 佑助(CV：[吉野裕行](../Page/吉野裕行.md "wikilink"))、椿 佐介(CV：[下野紘](../Page/下野紘.md "wikilink"))、笛吹 和義(CV：[杉田智和](../Page/杉田智和.md "wikilink"))、安形 惣司郎(CV：[關智一](../Page/關智一.md "wikilink"))】 作詞 - 酒井陽一、RUCCA 作曲、編曲 - 酒井陽一
 8.  「**Birthday**」**（第48話）**
       -
         歌 - The Sketchbook 作詞 - 多田宏 作曲、編曲 - tatsuo
@@ -753,8 +731,7 @@ Site「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」放送。
         歌 - The Sketchbook、作詞 - 多田宏、作曲・編曲 - tatsuo
 12. 「**REFLECT**」**（第EX話）**
       -
-        歌 - The Sketchbook、作詞 - 多田宏、作曲 - The Sketchbook、編曲 - The
-        Sketchbook・tatsuo
+        歌 - The Sketchbook、作詞 - 多田宏、作曲 - The Sketchbook、編曲 - The Sketchbook・tatsuo
 
 <!-- end list -->
 
@@ -764,20 +741,16 @@ Site「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」放送。
 
 1.  「**豪華絢爛ヤバヤバス\!（ヤバスver.）**」**（第16話）**
       -
-        歌 - YABASAWA BOOKS【矢場澤 萌（CV：[豐口惠](../Page/豐口惠.md "wikilink")）】
-        作詞 - Noria 作曲、編曲 - 酒井陽一
+        歌 - YABASAWA BOOKS【矢場澤 萌（CV：[豐口惠](../Page/豐口惠.md "wikilink")）】 作詞 - Noria 作曲、編曲 - 酒井陽一
 2.  「**どりぃみんぐ☆らぶ**」**（第17話）**
       -
-        歌 - ROMAN【早乙女 浪漫（CV：[茅野愛衣](../Page/茅野愛衣.md "wikilink")）】 作詞 -
-        Noria 作曲、編曲 - 鳴瀬シュウヘイ
+        歌 - ROMAN【早乙女 浪漫（CV：[茅野愛衣](../Page/茅野愛衣.md "wikilink")）】 作詞 - Noria 作曲、編曲 - 鳴瀬シュウヘイ
 3.  「**Aegis ～君を守る盾～**」**（第17話）**
       -
-        歌 - ザ・生徒会バンド【榛葉 道流（CV：[野島健兒](../Page/野島健兒.md "wikilink")）】 作詞 -
-        Rock the tiger 作曲、編曲 - AYANO
+        歌 - ザ・生徒会バンド【榛葉 道流（CV：[野島健兒](../Page/野島健兒.md "wikilink")）】 作詞 - Rock the tiger 作曲、編曲 - AYANO
 4.  「**生きとし生けるすべてに告ぐ**」**（第17話）**
       -
-        歌 - JardiN【伊達 聖士（CV：[GACKT](../Page/GACKT.md "wikilink")）】 作詞 -
-        藤林聖子 作曲、編曲 - Ryo
+        歌 - JardiN【伊達 聖士（CV：[GACKT](../Page/GACKT.md "wikilink")）】 作詞 - 藤林聖子 作曲、編曲 - Ryo
 5.  「**Funny Bunny**」**（第17話）**
       -
         歌 - The Sketchbook 作詞、作曲 - 山中さわお 編曲 - tatsuo
@@ -786,27 +759,22 @@ Site「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」放送。
         歌 - The Sketchbook 作詞 - Rock the Tiger 作曲、編曲 - tatsuo
 7.  「**何スカ?ロンスカ?ロックンロール?\!**」**（第42話）**
       -
-        歌 - 吉備津百香（CV：[井上麻里奈](../Page/井上麻里奈.md "wikilink")） 作詞 - Rock the
-        Tiger 作曲、編曲 - AYANO
+        歌 - 吉備津百香（CV：[井上麻里奈](../Page/井上麻里奈.md "wikilink")） 作詞 - Rock the Tiger 作曲、編曲 - AYANO
 8.  「*'ますます○○マシュマロ○○☆☆ **」**（第56話）*'
       -
-        歌 - 吉備津百香（CV：[井上麻里奈](../Page/井上麻里奈.md "wikilink")） 作詞 - 篠原健太
-        作曲、編曲 - 鳴瀬シュウヘイ
+        歌 - 吉備津百香（CV：[井上麻里奈](../Page/井上麻里奈.md "wikilink")） 作詞 - 篠原健太 作曲、編曲 - 鳴瀬シュウヘイ
 9.  「**Traveler**」**（第64話）**
       -
         歌 - The Sketchbook 作詞 - 多田宏 作曲、編曲 - tatsuo
 10. 「**理想郷**」**（第67話）**
       -
-        歌 - 椿佐介（[下野紘](../Page/下野紘.md "wikilink")）、作詞 - Rock the
-        Tiger、作曲、編曲 - 大場敏朗
+        歌 - 椿佐介（[下野紘](../Page/下野紘.md "wikilink")）、作詞 - Rock the Tiger、作曲、編曲 - 大場敏朗
 11. 「**全開\!乙女フィルター**」**（第68話）**
       -
-        歌 - 早乙女浪漫（[茅野愛衣](../Page/茅野愛衣.md "wikilink")）、作詞 - Rock the
-        Tiger、作曲・編曲 - 大場敏朗
+        歌 - 早乙女浪漫（[茅野愛衣](../Page/茅野愛衣.md "wikilink")）、作詞 - Rock the Tiger、作曲・編曲 - 大場敏朗
 12. 「**お気になさらずお気持ちです**」**（第74話）**
       -
-        歌 - 丹生美森（[高本惠](../Page/高本惠.md "wikilink")）、作詞 - Noria、作曲・編曲
-        -大場敏朗
+        歌 - 丹生美森（[高本惠](../Page/高本惠.md "wikilink")）、作詞 - Noria、作曲・編曲 -大場敏朗
 13. 「**明日ガール**」**（第76話）**
       -
         歌 - 安形紗綾（[花澤香菜](../Page/花澤香菜.md "wikilink")）、作詞・作曲・編曲 -依田伸隆
@@ -1966,18 +1934,11 @@ Kim yong-sik</p></td>
 ## 外部連結
 
   - [週刊少年Jump 官方網站](http://www.shonenjump.com/j/)
-  - [集英社VOMIC漫畫的網頁-VOMIC-](https://web.archive.org/web/20110324022739/http://vomic.shueisha.co.jp/sketdance/)
-    - 『SKET DANCE』 集英社VOMIC内紹介網頁
+  - [集英社VOMIC漫畫的網頁-VOMIC-](https://web.archive.org/web/20110324022739/http://vomic.shueisha.co.jp/sketdance/) - 『SKET DANCE』 集英社VOMIC内紹介網頁
   - [SKET DANCE 動畫官方網站](http://sketdance.jp/)
   - [SKET DANCE東京電視台網站](http://www.tv-tokyo.co.jp/anime/sketdance/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:2011年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年東京電視網動畫 "wikilink")
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
-[Category:龍之子Production](https://zh.wikipedia.org/wiki/Category:龍之子Production "wikilink")
-[Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:2011年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年東京電視網動畫 "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink") [Category:龍之子Production](https://zh.wikipedia.org/wiki/Category:龍之子Production "wikilink") [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
 
 1.
 2.

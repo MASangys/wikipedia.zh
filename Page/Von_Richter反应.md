@@ -7,8 +7,7 @@
 
 ## 反应机理
 
-在下列机理中，溴可以被氯替换。\[4\]
-[Von-Richter_Reaction_V3.svg](https://zh.wikipedia.org/wiki/File:Von-Richter_Reaction_V3.svg "fig:Von-Richter_Reaction_V3.svg")
+在下列机理中，溴可以被氯替换。\[4\] [Von-Richter_Reaction_V3.svg](https://zh.wikipedia.org/wiki/File:Von-Richter_Reaction_V3.svg "fig:Von-Richter_Reaction_V3.svg")
 
 ## 参考资料
 
@@ -16,8 +15,7 @@
 
   - [1](https://web.archive.org/web/20131203001004/http://rowdy.msudenver.edu/~wiederm/advorgppt/casehistory.ppt)
 
-[Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.

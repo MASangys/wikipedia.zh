@@ -1,8 +1,6 @@
-**聯盟號-L運載火箭**（，意為"聯合"，GRAU代號**11A511L**）為[蘇聯的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[運載火箭](https://zh.wikipedia.org/wiki/運載火箭 "wikilink")，由[OKB-1設計](https://zh.wikipedia.org/wiki/OKB-1 "wikilink")，[國家1號航空工廠](https://zh.wikipedia.org/wiki/國家1號航空工廠 "wikilink")（State
-Aviation Plant No.
-1）於[薩馬拉製造](../Page/薩馬拉.md "wikilink")，該火箭用於月球小艇（，LK）[低地球軌道的測試發射](https://zh.wikipedia.org/wiki/低地球軌道 "wikilink")。為[蘇聯載人登月計畫的一部分](https://zh.wikipedia.org/wiki/蘇聯載人登月計畫 "wikilink")。
+**聯盟號-L運載火箭**（，意為"聯合"，GRAU代號**11A511L**）為[蘇聯的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[運載火箭](https://zh.wikipedia.org/wiki/運載火箭 "wikilink")，由[OKB-1設計](https://zh.wikipedia.org/wiki/OKB-1 "wikilink")，[國家1號航空工廠](https://zh.wikipedia.org/wiki/國家1號航空工廠 "wikilink")（State Aviation Plant No. 1）於[薩馬拉](../Page/薩馬拉.md "wikilink")製造，該火箭用於月球小艇（，LK）[低地球軌道的測試發射](https://zh.wikipedia.org/wiki/低地球軌道 "wikilink")。為[蘇聯載人登月計畫的一部分](https://zh.wikipedia.org/wiki/蘇聯載人登月計畫 "wikilink")。
 
-聯盟號-L運載火箭基於源自[閃電號-M運載火箭的](https://zh.wikipedia.org/wiki/閃電號-M運載火箭 "wikilink")[聯盟號運載火箭進行開發](../Page/聯盟號運載火箭.md "wikilink")，聯盟號-L運載火箭將第一節加大，並能搭載閃電號的第三節火箭，使其能夠酬載更大及更重的人造衛星，另加大的整流罩以收納月球小艇\[1\]。之後的[聯盟號-U運載火箭的外型與L型相似](https://zh.wikipedia.org/wiki/聯盟號-U運載火箭 "wikilink")。
+聯盟號-L運載火箭基於源自[閃電號-M運載火箭的](https://zh.wikipedia.org/wiki/閃電號-M運載火箭 "wikilink")[聯盟號運載火箭](../Page/聯盟號運載火箭.md "wikilink")進行開發，聯盟號-L運載火箭將第一節加大，並能搭載閃電號的第三節火箭，使其能夠酬載更大及更重的人造衛星，另加大的整流罩以收納月球小艇\[1\]。之後的[聯盟號-U運載火箭的外型與L型相似](https://zh.wikipedia.org/wiki/聯盟號-U運載火箭 "wikilink")。
 
 ## 發射記錄
 

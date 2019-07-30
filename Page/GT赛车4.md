@@ -1,5 +1,4 @@
-是[Polyphony
-Digital开发的一款](../Page/Polyphony_Digital.md "wikilink")[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")[模拟赛车游戏](https://zh.wikipedia.org/wiki/模拟赛车 "wikilink")，於2004年上市。GT4的最终发行推迟了一年半，并去掉了联网模式。游戏中提供了来自80个制造商的700种车型，最早的是1886年的戴姆勒四轮汽车，最晚的是2022年的未来概念车。游戏中还提供51条赛道，其中许多是同系列以前作品中玩家最喜爱赛道的改进版，还有一些真实世界的赛道。游戏的日文、韩文和中文版附带一本212页的驾驶说明，以及赛车原理的教程。
+是[Polyphony Digital开发的一款](../Page/Polyphony_Digital.md "wikilink")[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")[模拟赛车游戏](https://zh.wikipedia.org/wiki/模拟赛车 "wikilink")，於2004年上市。GT4的最终发行推迟了一年半，并去掉了联网模式。游戏中提供了来自80个制造商的700种车型，最早的是1886年的戴姆勒四轮汽车，最晚的是2022年的未来概念车。游戏中还提供51条赛道，其中许多是同系列以前作品中玩家最喜爱赛道的改进版，还有一些真实世界的赛道。游戏的日文、韩文和中文版附带一本212页的驾驶说明，以及赛车原理的教程。
 
 本作的简体中文版曾在ChinaJoy等展会上亮相。\[1\]
 
@@ -11,8 +10,7 @@ GT賽車4，是首個DVD9容量的賽車遊戲，包含超過50條的賽道，�
 
 到了今天，在秉承以往追求賽車過程的真實感的基礎上，山內一典大師將“真實感”的內容擴展為整個“汽車人生”，在《GT4》裡，玩家所感受到的，不再是單純的賽車，而是充滿了豐富的人文內容的“賽車生活”。
 
-《GT4》的最大特色，是開創了前所未有的B-SPEC遊戲方式。所謂B-SPEC，即區別於以往直接操作汽車的A-SPEC遊戲模式的遊戲方式，玩家可以成為駕駛員的監督，指揮他什麼時候該加速，什麼時候該減速，什麼時候要打方向盤，用像看電視轉播般的觀察角度來體驗整個駕駛過程。接受玩家多次正確指示的電腦駕駛員，會吸取這些駕駛經驗，玩家將會看到他駕駛得越來越熟練，越來越出彩。這種看著自己培養的駕駛員在先頭陣線活躍的“教導者”的喜悅，是只有B-SPEC遊戲方式才能提供給玩家的。
-　　
+《GT4》的最大特色，是開創了前所未有的B-SPEC遊戲方式。所謂B-SPEC，即區別於以往直接操作汽車的A-SPEC遊戲模式的遊戲方式，玩家可以成為駕駛員的監督，指揮他什麼時候該加速，什麼時候該減速，什麼時候要打方向盤，用像看電視轉播般的觀察角度來體驗整個駕駛過程。接受玩家多次正確指示的電腦駕駛員，會吸取這些駕駛經驗，玩家將會看到他駕駛得越來越熟練，越來越出彩。這種看著自己培養的駕駛員在先頭陣線活躍的“教導者”的喜悅，是只有B-SPEC遊戲方式才能提供給玩家的。 　　
 
 為了滿足玩家“給愛車留影”的願望，《GT4》中攝影機能得到了大幅加強。玩家可以在“攝影駕駛模式”中把愛車開到美麗的風景處，任選角度給愛車留影。另外，玩家也可以通過回顧模式留下愛車在賽場上拼搏的雄姿，或在“攝影駕駛模式”中選擇任一賽道，拍下愛車獨自行駛的畫面。玩家可以對攝影鏡頭的屬性進行變更和對背景進行特殊處理，得到速度感十足的愛車的特寫。遊戲中拍下的寫真可以保存在USB記憶卡裡，用來做電腦牆紙或打印出來欣賞。
 
@@ -31,16 +29,6 @@ GT賽車4，是首個DVD9容量的賽車遊戲，包含超過50條的賽道，�
   - [官方介绍页面](http://www.gran-turismo.com/hk-zh/products/gt4/)
   - [GT賽車4(Video)](https://www.youtube.com/playlist?list=PLvB0VrleWEVjv7X04eK-6lFCcV0GrsIPM)
 
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:跑車浪漫旅系列](https://zh.wikipedia.org/wiki/Category:跑車浪漫旅系列 "wikilink")
-[Category:竞速模拟游戏](https://zh.wikipedia.org/wiki/Category:竞速模拟游戏 "wikilink")
-[Category:拉力赛电子游戏](https://zh.wikipedia.org/wiki/Category:拉力赛电子游戏 "wikilink")
-[Category:香港背景電子遊戲](https://zh.wikipedia.org/wiki/Category:香港背景電子遊戲 "wikilink")
-[Category:上海背景电子游戏](https://zh.wikipedia.org/wiki/Category:上海背景电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink")
-[Category:多人及单人电子游戏](https://zh.wikipedia.org/wiki/Category:多人及单人电子游戏 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:跑車浪漫旅系列](https://zh.wikipedia.org/wiki/Category:跑車浪漫旅系列 "wikilink") [Category:竞速模拟游戏](https://zh.wikipedia.org/wiki/Category:竞速模拟游戏 "wikilink") [Category:拉力赛电子游戏](https://zh.wikipedia.org/wiki/Category:拉力赛电子游戏 "wikilink") [Category:香港背景電子遊戲](https://zh.wikipedia.org/wiki/Category:香港背景電子遊戲 "wikilink") [Category:上海背景电子游戏](https://zh.wikipedia.org/wiki/Category:上海背景电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink") [Category:多人及单人电子游戏](https://zh.wikipedia.org/wiki/Category:多人及单人电子游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.

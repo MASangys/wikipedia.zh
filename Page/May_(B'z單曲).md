@@ -1,4 +1,4 @@
-《**May**》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")28張單曲。
+《**May**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第28張單曲。
 
 ## 收錄曲
 
@@ -7,9 +7,8 @@
 
 ## 簡介
 
-  - 為[看不見的力量 ～INVISIBLE
-    ONE～/MOVE以來](https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE_ONE～/MOVE "wikilink")，第一次在發售前完全未在電視上披露的單曲。
-  - 唯一一張歌曲[商業搭配之中](../Page/商業搭配.md "wikilink")，並非以主打歌曲（第一首歌曲）為主的單曲。
+  - 為[看不見的力量 ～INVISIBLE ONE～/MOVE以來](https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE_ONE～/MOVE "wikilink")，第一次在發售前完全未在電視上披露的單曲。
+  - 唯一一張歌曲[商業搭配](../Page/商業搭配.md "wikilink")之中，並非以主打歌曲（第一首歌曲）為主的單曲。
   - 最終銷量約69.5萬張。
 
 ## 製作人員
@@ -36,7 +35,4 @@
 
   - [2000年的音樂](http://ja.wikipedia.org/wiki/2000%E5%B9%B4%E3%81%AE%E9%9F%B3%E6%A5%BD)
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
-[Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink") [Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")

@@ -2,7 +2,7 @@
 
 ## 概要
 
-  - 「GENIE」是少女時代於[日本正式出道的第一張單曲](../Page/日本.md "wikilink")。
+  - 「GENIE」是少女時代於[日本](../Page/日本.md "wikilink")正式出道的第一張單曲。
   - 「GENIE」是少女時代第二張迷你專輯「[Genie](../Page/說出你願望_\(專輯\).md "wikilink")」主打曲「說出你願望（Genie）」的日語版本。
   - 此單曲有2個版本，分別有「初回生産限定盤」和「通常盤」，收錄了「GENIE」的PV。
   - 在9月20日於公信榜单曲週排行榜取得第4位。
@@ -14,6 +14,4 @@
 
 [分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:少女時代歌曲](https://zh.wikipedia.org/wiki/Category:少女時代歌曲 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:少女時代歌曲](https://zh.wikipedia.org/wiki/Category:少女時代歌曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")

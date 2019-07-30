@@ -1,12 +1,8 @@
-**Base
-FX**，是一家[电影后期视觉](../Page/电影.md "wikilink")[特效和](https://zh.wikipedia.org/wiki/特效 "wikilink")[动画公司](../Page/动画.md "wikilink")，2010年公司凭借在[HBO迷你剧集](../Page/HBO.md "wikilink")《[雷霆戰海](../Page/太平洋_\(电视剧\).md "wikilink")》中的特效制作，获得第62届[艾美奖最佳视觉特效奖](../Page/艾美奖.md "wikilink")\[1\]；2011年，公司凭借为HBO制作的《[大西洋帝国](https://zh.wikipedia.org/wiki/大西洋帝国 "wikilink")》再度赢得[艾美奖最佳视觉特效奖](../Page/艾美奖.md "wikilink")；2014年，公司凭借为Starz制作的《[黑帆](../Page/黑帆.md "wikilink")》第三次赢得[艾美奖最佳视觉特效奖](../Page/艾美奖.md "wikilink")
-\[2\]。
+**Base FX**，是一家[电影](../Page/电影.md "wikilink")后期视觉[特效和](https://zh.wikipedia.org/wiki/特效 "wikilink")[动画](../Page/动画.md "wikilink")公司，2010年公司凭借在[HBO](../Page/HBO.md "wikilink")迷你剧集《[雷霆戰海](../Page/太平洋_\(电视剧\).md "wikilink")》中的特效制作，获得第62届[艾美奖](../Page/艾美奖.md "wikilink")最佳视觉特效奖\[1\]；2011年，公司凭借为HBO制作的《[大西洋帝国](https://zh.wikipedia.org/wiki/大西洋帝国 "wikilink")》再度赢得[艾美奖](../Page/艾美奖.md "wikilink")最佳视觉特效奖；2014年，公司凭借为Starz制作的《[黑帆](../Page/黑帆.md "wikilink")》第三次赢得[艾美奖](../Page/艾美奖.md "wikilink")最佳视觉特效奖 \[2\]。
 
-公司成立于2006年，总部位于[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")，特效制作和项目管理团队位于[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[无锡](https://zh.wikipedia.org/wiki/无锡 "wikilink")、[厦门和](https://zh.wikipedia.org/wiki/厦门 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")，并在[大厂建立了培训基地](https://zh.wikipedia.org/wiki/大厂 "wikilink")\[3\]。截至2015年3月，公司现已完成了130余部国内外的影视特效制作\[4\]，如《[美国队长2](https://zh.wikipedia.org/wiki/美国队长2 "wikilink")》、《[变形金刚4](https://zh.wikipedia.org/wiki/变形金刚4 "wikilink")》、《[环太平洋](https://zh.wikipedia.org/wiki/环太平洋 "wikilink")》、《[狼图腾](https://zh.wikipedia.org/wiki/狼图腾 "wikilink")》、《[王的盛宴](../Page/王的盛宴.md "wikilink")》、《[金陵十三钗](../Page/金陵十三钗.md "wikilink")》、
-《[赵氏孤儿](https://zh.wikipedia.org/wiki/赵氏孤儿 "wikilink")》、《[四大名捕](../Page/四大名捕.md "wikilink")》等。
+公司成立于2006年，总部位于[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")，特效制作和项目管理团队位于[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[无锡](https://zh.wikipedia.org/wiki/无锡 "wikilink")、[厦门和](https://zh.wikipedia.org/wiki/厦门 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")，并在[大厂建立了培训基地](https://zh.wikipedia.org/wiki/大厂 "wikilink")\[3\]。截至2015年3月，公司现已完成了130余部国内外的影视特效制作\[4\]，如《[美国队长2](https://zh.wikipedia.org/wiki/美国队长2 "wikilink")》、《[变形金刚4](https://zh.wikipedia.org/wiki/变形金刚4 "wikilink")》、《[环太平洋](https://zh.wikipedia.org/wiki/环太平洋 "wikilink")》、《[狼图腾](https://zh.wikipedia.org/wiki/狼图腾 "wikilink")》、《[王的盛宴](../Page/王的盛宴.md "wikilink")》、《[金陵十三钗](../Page/金陵十三钗.md "wikilink")》、 《[赵氏孤儿](https://zh.wikipedia.org/wiki/赵氏孤儿 "wikilink")》、《[四大名捕](../Page/四大名捕.md "wikilink")》等。
 
-2012年5月底，Base
-FX正式与[工业光魔展开战略合作](https://zh.wikipedia.org/wiki/工业光魔 "wikilink")，进行好莱坞项目的特效制作。\[5\]
+2012年5月底，Base FX正式与[工业光魔展开战略合作](https://zh.wikipedia.org/wiki/工业光魔 "wikilink")，进行好莱坞项目的特效制作。\[5\]
 
 2015年5月20日，在第五届北京国际电影节上，Base FX发起成立了中国影视后期产业联盟（CPPA）。\[6\]
 
@@ -170,10 +166,7 @@ FX正式与[工业光魔展开战略合作](https://zh.wikipedia.org/wiki/工业
 
 ## 参考文献
 
-[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
-[Category:中國動畫工作室](https://zh.wikipedia.org/wiki/Category:中國動畫工作室 "wikilink")
-[Category:視覺特效公司](https://zh.wikipedia.org/wiki/Category:視覺特效公司 "wikilink")
-[Category:北京市公司](https://zh.wikipedia.org/wiki/Category:北京市公司 "wikilink")
+[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink") [Category:中國動畫工作室](https://zh.wikipedia.org/wiki/Category:中國動畫工作室 "wikilink") [Category:視覺特效公司](https://zh.wikipedia.org/wiki/Category:視覺特效公司 "wikilink") [Category:北京市公司](https://zh.wikipedia.org/wiki/Category:北京市公司 "wikilink")
 
 1.
 2.

@@ -1,12 +1,6 @@
-**PlayStation 3 系统软件**是指[PlayStation
-3可升级系统软件以及PS](../Page/PlayStation_3.md "wikilink")3的[操作系统](../Page/操作系统.md "wikilink")。
+**PlayStation 3 系统软件**是指[PlayStation 3可升级系统软件以及PS](../Page/PlayStation_3.md "wikilink")3的[操作系统](../Page/操作系统.md "wikilink")。
 
-PlayStation 3本机操作系统被称作“Cell OS”，据信是建基于
-[FreeBSD计划](../Page/FreeBSD.md "wikilink")\[1\]。用于PlayStation
-3的[三维计算机图形API软件](https://zh.wikipedia.org/wiki/List_of_3D_graphics_APIs "wikilink")“LibGCM”和[PSGL](https://zh.wikipedia.org/wiki/PSGL "wikilink")，则是基于[OpenGL
-ES以及](../Page/OpenGL_ES.md "wikilink")[Nvidia旗下开发的](https://zh.wikipedia.org/wiki/Nvidia "wikilink")[Cg语言](../Page/Cg語言.md "wikilink")\[2\]。
-PlayStation
-3以“[XrossMediaBar](../Page/XMB.md "wikilink")”（交叉媒体廊）作为其[图形用户界面](../Page/图形用户界面.md "wikilink")。\[3\]
+PlayStation 3本机操作系统被称作“Cell OS”，据信是建基于 [FreeBSD](../Page/FreeBSD.md "wikilink")计划\[1\]。用于PlayStation 3的[三维计算机图形API软件](https://zh.wikipedia.org/wiki/List_of_3D_graphics_APIs "wikilink")“LibGCM”和[PSGL](https://zh.wikipedia.org/wiki/PSGL "wikilink")，则是基于[OpenGL ES以及](../Page/OpenGL_ES.md "wikilink")[Nvidia旗下开发的](https://zh.wikipedia.org/wiki/Nvidia "wikilink")[Cg语言](../Page/Cg語言.md "wikilink")\[2\]。 PlayStation 3以“[XrossMediaBar](../Page/XMB.md "wikilink")”（交叉媒体廊）作为其[图形用户界面](../Page/图形用户界面.md "wikilink")。\[3\]
 
 最新的软件版本**4.84**，2019年2月14日发布更新。
 
@@ -110,7 +104,7 @@ PlayStation
 <dt>網絡</dt>
 
 </dl>
-<p>不再支援與<a href="../Page/Facebook.md" title="wikilink">Facebook連結的功能</a>。</p></td>
+<p>不再支援與<a href="../Page/Facebook.md" title="wikilink">Facebook</a>連結的功能。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>4.76</strong><br />
@@ -407,7 +401,7 @@ PlayStation
 
 </dl>
 <ul>
-<li>蓝光光盘视频内容的版权保护系统<a href="../Page/AACS.md" title="wikilink">AACS的加密密钥已续约</a>。</li>
+<li>蓝光光盘视频内容的版权保护系统<a href="../Page/AACS.md" title="wikilink">AACS</a>的加密密钥已续约。</li>
 </ul>
 <dl>
 <dt>游戏</dt>
@@ -464,7 +458,7 @@ PlayStation
 
 </dl>
 <ul>
-<li>互联网浏览器的一些改进，包括对<a href="../Page/HTML5.md" title="wikilink">HTML5内容的支持</a>（<a href="../Page/NetFront.md" title="wikilink">NetFront</a>）。</li>
+<li>互联网浏览器的一些改进，包括对<a href="../Page/HTML5.md" title="wikilink">HTML5</a>内容的支持（<a href="../Page/NetFront.md" title="wikilink">NetFront</a>）。</li>
 <li>互联网浏览器的显示速度也有所提高。</li>
 <li>支持在Facebook上分享有关获得PlayStation Plus的折扣和下载的信息，以及评价Store上的内容。</li>
 <li>PlayStation Network账户，改称为<a href="https://zh.wikipedia.org/wiki/Sony_Entertainment_Network" title="wikilink">Sony Entertainment Network账户</a></li>
@@ -608,7 +602,7 @@ PlayStation
 <li>[TV]分类已经更名为[TV/Video服务]。</li>
 <li>增加对官方的PS3无线立体声耳机的支持。</li>
 <li>打上一个AVP漏洞绕过补丁</li>
-<li>在墨西哥版本中为用户在[TV/Video服务]下添加<a href="../Page/Netflix.md" title="wikilink">Netflix快捷方式</a></li>
+<li>在墨西哥版本中为用户在[TV/Video服务]下添加<a href="../Page/Netflix.md" title="wikilink">Netflix</a>快捷方式</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -796,7 +790,7 @@ May 15, 2011[35]</p></td>
 
 </dl>
 <ul>
-<li>[Photo Gallery]应用允许用户将照片上传至<a href="../Page/Picasa.md" title="wikilink">Picasa和</a><a href="../Page/Facebook.md" title="wikilink">Facebook</a>, as well as browse and comment on photos, and print them using a connected printer (requires additional download).</li>
+<li>[Photo Gallery]应用允许用户将照片上传至<a href="../Page/Picasa.md" title="wikilink">Picasa</a>和<a href="../Page/Facebook.md" title="wikilink">Facebook</a>, as well as browse and comment on photos, and print them using a connected printer (requires additional download).</li>
 <li>新增[视频编辑&amp;上传]应用，支持用户在系统中编辑、保存和上传视频文件到Facebook以及<a href="../Page/YouTube.md" title="wikilink">YouTube</a>。</li>
 </ul>
 <dl>
@@ -883,7 +877,7 @@ required as of January 27, 2010</em></small></p></td>
 </dl>
 <ul>
 <li><a href="https://zh.wikipedia.org/wiki/PlayStation_minis游戏列表" title="wikilink">PSP Minis游戏可以通过</a><a href="https://zh.wikipedia.org/wiki/模拟器" title="wikilink">模拟器游玩</a>。</li>
-<li><a href="../Page/XMB.md" title="wikilink">XMB中</a>[游戏]下添加[存储游戏数据 (minis)]。</li>
+<li><a href="../Page/XMB.md" title="wikilink">XMB</a>中[游戏]下添加[存储游戏数据 (minis)]。</li>
 <li>重命名[存储游戏数据]目录为[存储游戏数据(PS3)]。</li>
 </ul>
 <dl>
@@ -919,16 +913,16 @@ required as of January 27, 2010</em></small></p></td>
 <li>Expanded [Photo] folders and playlists are now displayed in a grid, rather than a list.</li>
 </ul>
 <ul>
-<li>[TV]下为<a href="../Page/澳大利亚.md" title="wikilink">澳大利亚用户添加</a><a href="https://zh.wikipedia.org/wiki/ABC_iView" title="wikilink">ABC iView快捷方式</a>。</li>
+<li>[TV]下为<a href="../Page/澳大利亚.md" title="wikilink">澳大利亚</a>用户添加<a href="https://zh.wikipedia.org/wiki/ABC_iView" title="wikilink">ABC iView快捷方式</a>。</li>
 </ul>
 <ul>
-<li>[TV]下为<a href="../Page/西班牙.md" title="wikilink">西班牙用户添加</a><a href="https://zh.wikipedia.org/wiki/RTVE" title="wikilink">RTVE</a>、<a href="https://zh.wikipedia.org/wiki/Antena_3_(Spain)" title="wikilink">Antena 3以及</a><a href="https://zh.wikipedia.org/wiki/LaSexta" title="wikilink">LaSexta快捷方式</a>。</li>
+<li>[TV]下为<a href="../Page/西班牙.md" title="wikilink">西班牙</a>用户添加<a href="https://zh.wikipedia.org/wiki/RTVE" title="wikilink">RTVE</a>、<a href="https://zh.wikipedia.org/wiki/Antena_3_(Spain)" title="wikilink">Antena 3以及</a><a href="https://zh.wikipedia.org/wiki/LaSexta" title="wikilink">LaSexta快捷方式</a>。</li>
 </ul>
 <ul>
-<li>[TV]下为<a href="../Page/荷兰.md" title="wikilink">荷兰用户添加</a><a href="https://zh.wikipedia.org/wiki/Nederlandse_Omroep_Stichting" title="wikilink">NOS快捷方式</a></li>
+<li>[TV]下为<a href="../Page/荷兰.md" title="wikilink">荷兰</a>用户添加<a href="https://zh.wikipedia.org/wiki/Nederlandse_Omroep_Stichting" title="wikilink">NOS快捷方式</a></li>
 </ul>
 <ul>
-<li>[TV]下为<a href="../Page/捷克.md" title="wikilink">捷克</a>、<a href="../Page/匈牙利.md" title="wikilink">匈牙利</a>、<a href="https://zh.wikipedia.org/wiki/波兰" title="wikilink">波兰</a>、<a href="https://zh.wikipedia.org/wiki/保加利亚" title="wikilink">保加利亚</a>、<a href="https://zh.wikipedia.org/wiki/罗马尼亚" title="wikilink">罗马尼亚以及</a><a href="../Page/斯洛伐克.md" title="wikilink">斯洛伐克用户添加</a><a href="../Page/AXN.md" title="wikilink">AXN以及</a><a href="../Page/Animax.md" title="wikilink">Animax快捷方式</a>。</li>
+<li>[TV]下为<a href="../Page/捷克.md" title="wikilink">捷克</a>、<a href="../Page/匈牙利.md" title="wikilink">匈牙利</a>、<a href="https://zh.wikipedia.org/wiki/波兰" title="wikilink">波兰</a>、<a href="https://zh.wikipedia.org/wiki/保加利亚" title="wikilink">保加利亚</a>、<a href="https://zh.wikipedia.org/wiki/罗马尼亚" title="wikilink">罗马尼亚以及</a><a href="../Page/斯洛伐克.md" title="wikilink">斯洛伐克</a>用户添加<a href="../Page/AXN.md" title="wikilink">AXN</a>以及<a href="../Page/Animax.md" title="wikilink">Animax</a>快捷方式。</li>
 </ul>
 <ul>
 <li>Added <a href="https://zh.wikipedia.org/wiki/TVNZ" title="wikilink">TVNZ</a> catch-up TV website shortcut for users in New Zealand under [TV]</li>
@@ -1102,8 +1096,7 @@ required as of January 27, 2010</em></small></p></td>
 
 ## 兼容的媒体格式
 
-PlayStation
-3能播放多种格式的图片、音频和视频。还包括多种照片幻灯片选项和几个音乐可视化图像。下表列出了在PS3上支持的图片、音频和视频格式。
+PlayStation 3能播放多种格式的图片、音频和视频。还包括多种照片幻灯片选项和几个音乐可视化图像。下表列出了在PS3上支持的图片、音频和视频格式。
 
   - 图片格式
 
@@ -1127,15 +1120,11 @@ PlayStation
   - [WAV](../Page/WAV.md "wikilink")
   - [WMA 9](../Page/Windows_Media_Audio.md "wikilink")
   - [ATRAC](https://zh.wikipedia.org/wiki/Adaptive_Transform_Acoustic_Coding "wikilink")
-  - [Audio
-    CD](https://zh.wikipedia.org/wiki/Red_Book_\(audio_CD_standard\) "wikilink")
-  - [SACD](../Page/Super_Audio_CD.md "wikilink") <small>(discontinued on
-    newer models)</small>\[69\]
+  - [Audio CD](https://zh.wikipedia.org/wiki/Red_Book_\(audio_CD_standard\) "wikilink")
+  - [SACD](../Page/Super_Audio_CD.md "wikilink") <small>(discontinued on newer models)</small>\[69\]
   - [MP4](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink") Audio
-  - [MPEG-4 Part
-    3](https://zh.wikipedia.org/wiki/MPEG-4_Part_3 "wikilink")
-  - [AAC](https://zh.wikipedia.org/wiki/Advanced_Audio_Coding "wikilink")
-    / AAC Low Complexity (unprotected)
+  - [MPEG-4 Part 3](https://zh.wikipedia.org/wiki/MPEG-4_Part_3 "wikilink")
+  - [AAC](https://zh.wikipedia.org/wiki/Advanced_Audio_Coding "wikilink") / AAC Low Complexity (unprotected)
 
 <!-- end list -->
 
@@ -1144,8 +1133,7 @@ PlayStation
 <!-- end list -->
 
   - [MPEG-1](../Page/MPEG-1.md "wikilink")（MPEG Audio Layer 2）
-  - [MPEG-2](../Page/MPEG-2.md "wikilink") PS（MPEG2 Audio Layer 2、AAC
-    LC、AC3（Dolby Digital），LPCM）
+  - [MPEG-2](../Page/MPEG-2.md "wikilink") PS（MPEG2 Audio Layer 2、AAC LC、AC3（Dolby Digital），LPCM）
   - [MPEG-2](../Page/MPEG-2.md "wikilink") TS（MPEG2 Audio Layer 2）
   - [VC-1](../Page/VC-1.md "wikilink")（.wmv）
   - [AVCHD](../Page/AVCHD.md "wikilink")（.m2ts / .mts）
@@ -1157,51 +1145,33 @@ PlayStation
   - [MP4视频](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink")
   - MP4 via DivX AVI
   - [MP4 SP](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")
-  - [MP4 AVC / MP4
-    H.264](https://zh.wikipedia.org/wiki/MPEG-4_Part_10 "wikilink")
+  - [MP4 AVC / MP4 H.264](https://zh.wikipedia.org/wiki/MPEG-4_Part_10 "wikilink")
   - [DVD Video](https://zh.wikipedia.org/wiki/DVD_Video "wikilink")
   - [VOB](https://zh.wikipedia.org/wiki/VOB "wikilink")
-  - [Blu-ray
-    Disc上的BD视频格式](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")
+  - [Blu-ray Disc上的BD视频格式](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")
   - DVD-ROM上的BD视频格式
 
 ### 注释
 
 <div class="references-small">
 
-  - **a** [JPEG](../Page/JPEG.md "wikilink") files must be DCF 2.0/Exif
-    2.21 compliant
+  - **a** [JPEG](../Page/JPEG.md "wikilink") files must be DCF 2.0/Exif 2.21 compliant
 
-  - **b**
-    [GIF](https://zh.wikipedia.org/wiki/Graphics_Interchange_Format "wikilink")
-    images that display motion do not exhibit motion if viewed from the
-    PS3's hard disk drive. Motion GIF images can be viewed in motion
-    only online on a webpage, via the PS3's web browser.
+  - **b** [GIF](https://zh.wikipedia.org/wiki/Graphics_Interchange_Format "wikilink") images that display motion do not exhibit motion if viewed from the PS3's hard disk drive. Motion GIF images can be viewed in motion only online on a webpage, via the PS3's web browser.
 
   - **c** WMA/VC-1和ATRAC回放功能需要在\[系统设置\]中手动启用。
 
   - **d** SACD仅20 GB、60GB、摩托风暴版80GB和MGS4版80 GB等版本主机支持。
 
-  - **e** [DivX](../Page/DivX.md "wikilink"),
-    [XviD](https://zh.wikipedia.org/wiki/XviD "wikilink"),
-    [3ivx](https://zh.wikipedia.org/wiki/3ivx "wikilink") and other
-    [MPEG-4 Part
-    2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink") codec
-    implementations work with a simple import into
-    [MP4](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink"). Xvid
-    files are recognised as MPEG-4 since system software update 2.20,
-    before this update they were recognised as DivX files.
+  - **e** [DivX](../Page/DivX.md "wikilink"), [XviD](https://zh.wikipedia.org/wiki/XviD "wikilink"), [3ivx](https://zh.wikipedia.org/wiki/3ivx "wikilink") and other [MPEG-4 Part 2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink") codec implementations work with a simple import into [MP4](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink"). Xvid files are recognised as MPEG-4 since system software update 2.20, before this update they were recognised as DivX files.
 
-  - **f** DivX video files that are copy protected are not playable on
-    the PS3.
+  - **f** DivX video files that are copy protected are not playable on the PS3.
 
   - **g** 不支持MPEG-4 ASP。
 
   - **h** 支持Main Profile和High Profile的MP4 AVC / H.264。
 
-  - PS3官方固件不支持播放[Matroska封装](../Page/Matroska.md "wikilink")（.mka /
-    .mkv）的视频， 但如Showtime（适用于已破解的PS3系统）等软件能利用PS3的默认解码器来打开这些文件。
-    使用mkv2vob等PC软件可以快速的将.mkv封装格式的视频转成PS3使用的格式。
+  - PS3官方固件不支持播放[Matroska](../Page/Matroska.md "wikilink")封装（.mka / .mkv）的视频， 但如Showtime（适用于已破解的PS3系统）等软件能利用PS3的默认解码器来打开这些文件。 使用mkv2vob等PC软件可以快速的将.mkv封装格式的视频转成PS3使用的格式。
 
 </div>
 
@@ -1210,10 +1180,8 @@ PlayStation
 **与PlayStation 3相关的软件以及网络服务：**
 
   - [Media Go](../Page/Media_Go.md "wikilink")
-  - [Linux for PlayStation
-    3](https://zh.wikipedia.org/wiki/OtherOS "wikilink")
-  - [LocationFree
-    Player](https://zh.wikipedia.org/wiki/LocationFree_Player "wikilink")
+  - [Linux for PlayStation 3](https://zh.wikipedia.org/wiki/OtherOS "wikilink")
+  - [LocationFree Player](https://zh.wikipedia.org/wiki/LocationFree_Player "wikilink")
   - [PlayStation Home](../Page/PlayStation_Home.md "wikilink")
   - [PlayStation Network](../Page/PlayStation_Network.md "wikilink")
   - [PlayStation Store](../Page/PlayStation_Store.md "wikilink")
@@ -1222,8 +1190,7 @@ PlayStation
 
 **索尼其他游戏平台：**
 
-  - [PlayStation
-    Portable系统软件](https://zh.wikipedia.org/wiki/PlayStation_Portable系统软件 "wikilink")
+  - [PlayStation Portable系统软件](https://zh.wikipedia.org/wiki/PlayStation_Portable系统软件 "wikilink")
   - [PlayStation Vita系统软件](../Page/PlayStation_Vita系统软件.md "wikilink")
   - [PlayStation 4系统软件](../Page/PlayStation_4系统软件.md "wikilink")
 
@@ -1239,37 +1206,23 @@ PlayStation
 
 **PlayStation 3官方系统软件发布页**
 
-  - •
-    [Australia](http://au.playstation.com/help-support/ps3/system-software/)
-    •  •  • [New
-    Zealand](http://nz.playstation.com/help-support/ps3/system-software/)
-    • [United
-    Kingdom](https://web.archive.org/web/20090929080932/http://uk.playstation.com/ps3/support/system-software/)
-    • [United
-    States](http://www.us.playstation.com/Support/SystemUpdates/PS3)
+  - • [Australia](http://au.playstation.com/help-support/ps3/system-software/) •  •  • [New Zealand](http://nz.playstation.com/help-support/ps3/system-software/) • [United Kingdom](https://web.archive.org/web/20090929080932/http://uk.playstation.com/ps3/support/system-software/) • [United States](http://www.us.playstation.com/Support/SystemUpdates/PS3)
 
-  - [Update
-    History](http://www.us.playstation.com/Support/SystemUpdates/PS3/History.html)
+  - [Update History](http://www.us.playstation.com/Support/SystemUpdates/PS3/History.html)
 
-  - [PlayStation Blog (firmware
-    announcements)](http://blog.us.playstation.com/category/playstation-hardware/firmware-playstation-hardware/)
+  - [PlayStation Blog (firmware announcements)](http://blog.us.playstation.com/category/playstation-hardware/firmware-playstation-hardware/)
 
-  - [PS3 compatible
-    printers](https://archive.is/20121208165845/http://playstation.custhelp.com/cgi-bin/playstation.cfg/php/enduser/std_adp.php?p_faqid=433&p_sid=ClkDOJxj&p_lva=432)
+  - [PS3 compatible printers](https://archive.is/20121208165845/http://playstation.custhelp.com/cgi-bin/playstation.cfg/php/enduser/std_adp.php?p_faqid=433&p_sid=ClkDOJxj&p_lva=432)
 
 ## 参考
 
-[Category:PlayStation_3](https://zh.wikipedia.org/wiki/Category:PlayStation_3 "wikilink")
-[Category:電子遊戲機的操作系統](https://zh.wikipedia.org/wiki/Category:電子遊戲機的操作系統 "wikilink")
+[Category:PlayStation_3](https://zh.wikipedia.org/wiki/Category:PlayStation_3 "wikilink") [Category:電子遊戲機的操作系統](https://zh.wikipedia.org/wiki/Category:電子遊戲機的操作系統 "wikilink")
 
-1.  ["DFRWS 2009 Network Forensics", NETRESEC Network Security
-    Blog, 2011](http://www.netresec.com/?page=Blog&month=2011-01&post=DFRWS-2009-Network-Forensics)
+1.  ["DFRWS 2009 Network Forensics", NETRESEC Network Security Blog, 2011](http://www.netresec.com/?page=Blog&month=2011-01&post=DFRWS-2009-Network-Forensics)
 
-2.  [SONY/Khronos OpenGL ES/PSGL Presentation in PPT
-    format](http://www.khronos.org/developers/library/siggraph2006/OpenGL_ES_BOF/OpenGL-ES-Demos.ppt)
+2.  [SONY/Khronos OpenGL ES/PSGL Presentation in PPT format](http://www.khronos.org/developers/library/siggraph2006/OpenGL_ES_BOF/OpenGL-ES-Demos.ppt)
 
-3.
-    XMB™（交叉媒體廊）之基本操作|url=[http://ps3.tgbus.com/zt/manual/basicoperations/xmb.html|publisher=电玩巴士|accessdate=2013-11-25](http://ps3.tgbus.com/zt/manual/basicoperations/xmb.html%7Cpublisher=电玩巴士%7Caccessdate=2013-11-25)}}
+3.   XMB™（交叉媒體廊）之基本操作|url=[http://ps3.tgbus.com/zt/manual/basicoperations/xmb.html|publisher=电玩巴士|accessdate=2013-11-25](http://ps3.tgbus.com/zt/manual/basicoperations/xmb.html%7Cpublisher=电玩巴士%7Caccessdate=2013-11-25)}}
 
 4.
 

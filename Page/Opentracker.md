@@ -19,8 +19,7 @@ opentracker可以完全在[内存中运行](https://zh.wikipedia.org/wiki/内存
 
 ## 参考
 
-[Category:自由網路軟體](https://zh.wikipedia.org/wiki/Category:自由網路軟體 "wikilink")
-[Category:BitTorrent](https://zh.wikipedia.org/wiki/Category:BitTorrent "wikilink")
+[Category:自由網路軟體](https://zh.wikipedia.org/wiki/Category:自由網路軟體 "wikilink") [Category:BitTorrent](https://zh.wikipedia.org/wiki/Category:BitTorrent "wikilink")
 
 1.  <http://xbtt.sourceforge.net/udp_tracker_protocol.html>
 2.

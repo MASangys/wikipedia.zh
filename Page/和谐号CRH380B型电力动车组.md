@@ -2,19 +2,19 @@
 
 ## 概要
 
-为[京沪高速铁路配套的新一代高速列车的开发是在消化吸收基础上一项庞大的再创新工程](../Page/京沪高速铁路.md "wikilink")，当局为全面支撑中国高速列车技术＂自主创新＂的需求，[中华人民共和国科技部与](https://zh.wikipedia.org/wiki/中华人民共和国科技部 "wikilink")[铁道部于](../Page/中华人民共和国铁道部.md "wikilink")2008年2月26日共同签署了《中国高速列车自主创新联合行动计划》，提出研制符合京沪高铁运营需求的高速列车，由[中国南车](https://zh.wikipedia.org/wiki/中国南车集团 "wikilink")、[北车集团在消化吸收外国相关技术的基础上](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")，将动车组的时速从250～300公里提高到350公里及以上，为京沪高速铁路提供强而有力的装备保障。\[1\]。其中，中国北车集团唐山轨道客车以CRH3型电力动车组为基础，研制新一代时速350公里级别高速动车组。2009年正式立项启动，当时研制项目名称为**CRH3-350**。
+为[京沪高速铁路](../Page/京沪高速铁路.md "wikilink")配套的新一代高速列车的开发是在消化吸收基础上一项庞大的再创新工程，当局为全面支撑中国高速列车技术＂自主创新＂的需求，[中华人民共和国科技部与](https://zh.wikipedia.org/wiki/中华人民共和国科技部 "wikilink")[铁道部于](../Page/中华人民共和国铁道部.md "wikilink")2008年2月26日共同签署了《中国高速列车自主创新联合行动计划》，提出研制符合京沪高铁运营需求的高速列车，由[中国南车](https://zh.wikipedia.org/wiki/中国南车集团 "wikilink")、[北车集团在消化吸收外国相关技术的基础上](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")，将动车组的时速从250～300公里提高到350公里及以上，为京沪高速铁路提供强而有力的装备保障。\[1\]。其中，中国北车集团唐山轨道客车以CRH3型电力动车组为基础，研制新一代时速350公里级别高速动车组。2009年正式立项启动，当时研制项目名称为**CRH3-350**。
 
 2008年9月，CRH3-350型动车组开始前期研发阶段，同时提高了车辆的设计标准，设计最高时速由时速350公里提高至380公里，项目名称为**CRH3-380**；列车在京沪高速铁路上的单程行车时间可由原规划的5小时，进一步缩短至4小时\[2\]。更改标准后，新一代动车组的产品设计工作于2009年1月27日正式启动。
 
-2009年3月16日，[中华人民共和国铁道部正式与中国北车集团旗下的](../Page/中华人民共和国铁道部.md "wikilink")[唐山轨道客车公司和](https://zh.wikipedia.org/wiki/唐山轨道客车 "wikilink")[长春轨道客车股份公司](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")、以及[中国铁道科学研究院签署了一系列采购合同](../Page/中国铁道科学研究院.md "wikilink")，合作生产100列新一代高速動車組，为16節車廂的大編組座車，合同总金额达392亿元人民币。其中70列是由[唐山轨道客车制造](https://zh.wikipedia.org/wiki/唐山轨道客车 "wikilink")，其餘30列則由[长春轨道客车制造](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")\[3\]。
+2009年3月16日，[中华人民共和国铁道部](../Page/中华人民共和国铁道部.md "wikilink")正式与中国北车集团旗下的[唐山轨道客车公司和](https://zh.wikipedia.org/wiki/唐山轨道客车 "wikilink")[长春轨道客车股份公司](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")、以及[中国铁道科学研究院](../Page/中国铁道科学研究院.md "wikilink")签署了一系列采购合同，合作生产100列新一代高速動車組，为16節車廂的大編組座車，合同总金额达392亿元人民币。其中70列是由[唐山轨道客车制造](https://zh.wikipedia.org/wiki/唐山轨道客车 "wikilink")，其餘30列則由[长春轨道客车制造](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")\[3\]。
 
-由于此次签订合同的消息中中国官方并没有提到[西门子的参与](https://zh.wikipedia.org/wiki/西门子 "wikilink")，次日铁道部仅在网站上发表“百列国产新一代高速动车组将于2011年驶上京沪高铁”为主题的新闻。至3月20日，德国西门子集团在其网站发布信息称，“唐山轨道客车有限责任公司、长春轨道客车股份有限公司、中国铁道科学院和西门子签署了一份关于提供100列高速列车的合同，西门子获得价值7.5亿欧元份额”，此时[德国](../Page/德国.md "wikilink")《[商报](https://zh.wikipedia.org/wiki/商报 "wikilink")》也援引西门子内部人士谈话，西门子表示“不会、也绝不出让核心技术”\[4\]。这则消息在海内外一度引起广泛关注，许多媒体以“西门子宣布获得中国政府购买100列高速列车的订单”类似标题进行了报道\[5\]。由于西门子网站消息与铁道部官方发布信息，措辞明显有出入，尤其在动车组知识产权归属上存在疑义，引起国内公众疑虑。3月25日，铁道部公开回应称：“近期并没有跟西门子签订任何合同”，形势几乎演变成由铁道部和西门子主演的一场公关危机，引发诸多猜测。3月31日，[西门子交通集团媒体发言人回应媒体时表示](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")，此次100列动车组的合约确已签署，列车将主要在中国生产。而对有关技术转让的合约细节等问题，则并未有详细透露\[6\]。而根据西门子的消息，这些部件的生产任务将分别由西门子位于[德国](../Page/德国.md "wikilink")[纽伦堡](../Page/纽伦堡.md "wikilink")、[克雷费尔德等地](../Page/克雷费尔德.md "wikilink")，以及[奥地利和](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[上海等工厂承担](https://zh.wikipedia.org/wiki/上海 "wikilink")。
+由于此次签订合同的消息中中国官方并没有提到[西门子的参与](https://zh.wikipedia.org/wiki/西门子 "wikilink")，次日铁道部仅在网站上发表“百列国产新一代高速动车组将于2011年驶上京沪高铁”为主题的新闻。至3月20日，德国西门子集团在其网站发布信息称，“唐山轨道客车有限责任公司、长春轨道客车股份有限公司、中国铁道科学院和西门子签署了一份关于提供100列高速列车的合同，西门子获得价值7.5亿欧元份额”，此时[德国](../Page/德国.md "wikilink")《[商报](https://zh.wikipedia.org/wiki/商报 "wikilink")》也援引西门子内部人士谈话，西门子表示“不会、也绝不出让核心技术”\[4\]。这则消息在海内外一度引起广泛关注，许多媒体以“西门子宣布获得中国政府购买100列高速列车的订单”类似标题进行了报道\[5\]。由于西门子网站消息与铁道部官方发布信息，措辞明显有出入，尤其在动车组知识产权归属上存在疑义，引起国内公众疑虑。3月25日，铁道部公开回应称：“近期并没有跟西门子签订任何合同”，形势几乎演变成由铁道部和西门子主演的一场公关危机，引发诸多猜测。3月31日，[西门子交通集团媒体发言人回应媒体时表示](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")，此次100列动车组的合约确已签署，列车将主要在中国生产。而对有关技术转让的合约细节等问题，则并未有详细透露\[6\]。而根据西门子的消息，这些部件的生产任务将分别由西门子位于[德国](../Page/德国.md "wikilink")[纽伦堡](../Page/纽伦堡.md "wikilink")、[克雷费尔德](../Page/克雷费尔德.md "wikilink")等地，以及[奥地利和](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[上海等工厂承担](https://zh.wikipedia.org/wiki/上海 "wikilink")。
 
-2009年6月，[中华人民共和国铁道部向国内动车组制造企业招标采购共](../Page/中华人民共和国铁道部.md "wikilink")320列时速350公里的高速动车组\[7\]，中國北車集团获得了100列动车组的訂單\[8\]，其中80列为新一代CRH3-380型动车组，包含40列16辆编组动车组和40列8辆编组动车组，由长春轨道客车制造\[9\]。2009年9月28日，铁道部、长春轨道客车股份有限公司、北京铁路局于北京正式签订合同，总值235亿元人民币\[10\]。这批动车组计划于2011年4月开始交付，全部80列动车组将于2012年6月完成交付。
+2009年6月，[中华人民共和国铁道部](../Page/中华人民共和国铁道部.md "wikilink")向国内动车组制造企业招标采购共320列时速350公里的高速动车组\[7\]，中國北車集团获得了100列动车组的訂單\[8\]，其中80列为新一代CRH3-380型动车组，包含40列16辆编组动车组和40列8辆编组动车组，由长春轨道客车制造\[9\]。2009年9月28日，铁道部、长春轨道客车股份有限公司、北京铁路局于北京正式签订合同，总值235亿元人民币\[10\]。这批动车组计划于2011年4月开始交付，全部80列动车组将于2012年6月完成交付。
 
 2010年5月27日，首列CRH3-380列车完成样车试制，并在[吉林省](../Page/吉林省.md "wikilink")[長春市绿园区轨道交通装备制造产业园首次向外界展示](https://zh.wikipedia.org/wiki/長春市 "wikilink")。
 
-2010年7月17日，时任[中共中央政治局常委](https://zh.wikipedia.org/wiki/中共中央政治局常委 "wikilink")、[国家副主席](https://zh.wikipedia.org/wiki/中国国家副主席 "wikilink")[习近平在河北省唐山市调研期间](../Page/习近平.md "wikilink")，前往唐山轨道客车有限责任公司，考察新一代时速380公里CRH3-380“和谐号”动车组生产线，先后考察了高速动车组铝合金车体生产线和总装配厂，并登上一列即将下线的CRH3-380型动车组\[11\]。
+2010年7月17日，时任[中共中央政治局常委](https://zh.wikipedia.org/wiki/中共中央政治局常委 "wikilink")、[国家副主席](https://zh.wikipedia.org/wiki/中国国家副主席 "wikilink")[习近平](../Page/习近平.md "wikilink")在河北省唐山市调研期间，前往唐山轨道客车有限责任公司，考察新一代时速380公里CRH3-380“和谐号”动车组生产线，先后考察了高速动车组铝合金车体生产线和总装配厂，并登上一列即将下线的CRH3-380型动车组\[11\]。
 
 2010年9月，铁道部下发《关于新一代高速动车组型号、车号及坐席号的通知》，将70列由[唐山轨道客车制造](https://zh.wikipedia.org/wiki/唐山轨道客车 "wikilink")，110列由[长春轨道客车制造的CRH](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")3-380型动车组定型为CRH380B系列，其中短编组动车为**CRH380B**，而长编组动车为**CRH380BL**。至2010年12月中旬，铁道部重新分配动车组车号，根据《运装客车【2010】807号》文件，将CRH380B分配为长春轨道客车生产的40列短编组座车动车组；CRH380BL分配为长春客车轨道的45列长编组座车动车组、唐山轨道客车的70列长编组座车动车组，CRH380B系列均采用原头型。而长春轨道客车的25列新头型长编组座车动车组则分配至**[CRH380C](../Page/和谐号CRH380C型电力动车组.md "wikilink")**。
 
@@ -29,39 +29,30 @@ CRH380B型动车组是在CRH3C基础上研发的新一代高速动车组，与CR
 
 ### CRH380B
 
-[CRH380B-3632@BJX_(20150118144654).JPG](https://zh.wikipedia.org/wiki/File:CRH380B-3632@BJX_\(20150118144654\).JPG "fig:CRH380B-3632@BJX_(20150118144654).JPG")\]\]
-[Crossing_Shape_hangrao_Railway_Station.JPG](https://zh.wikipedia.org/wiki/File:Crossing_Shape_hangrao_Railway_Station.JPG "fig:Crossing_Shape_hangrao_Railway_Station.JPG")
-（上方為[合福高速鐵路](https://zh.wikipedia.org/wiki/合福高速鐵路 "wikilink")，左下方為[滬昆高速鐵路](https://zh.wikipedia.org/wiki/滬昆高速鐵路 "wikilink")，右下方為[滬昆鐵路](https://zh.wikipedia.org/wiki/滬昆鐵路 "wikilink")）\]\]
-[201604_Comparison_of_Headlights_of_Two_kinds_of_CRH380B.JPG](https://zh.wikipedia.org/wiki/File:201604_Comparison_of_Headlights_of_Two_kinds_of_CRH380B.JPG "fig:201604_Comparison_of_Headlights_of_Two_kinds_of_CRH380B.JPG")
-由唐山轨道客车(CRH380B-3571～CRH380B-3731、CRH380B-3738或之後)或长春轨道客车(CRH380B-5637～CRH380B-5681、CRH380B-5730～CRH380B-5761、CRH380B-5787～CRH380B-5802、CRH380B-5729或之後)生产，采用4动4拖的编组方式。该型号为CRH380B的**非高寒型**，主要为[京沪高铁](https://zh.wikipedia.org/wiki/京沪高铁 "wikilink")、[京广高铁等大部分除东北以外的地方使用](https://zh.wikipedia.org/wiki/京广高铁 "wikilink")。虽然借鉴了[CRH3C型动车组和CRH](https://zh.wikipedia.org/wiki/CRH3 "wikilink")380BL高速动车组再优化设计，但由于编组一样并且列车外形及内部基本没有任何改变因此可视为CRH3C的改进版本，然而CRH380B并没有CRH3C般外露的车钩导向杆，且车轮材质经过强化，解决了CRH3C车轮易磨损的问题。
-
+[CRH380B-3632@BJX_(20150118144654).JPG](https://zh.wikipedia.org/wiki/File:CRH380B-3632@BJX_\(20150118144654\).JPG "fig:CRH380B-3632@BJX_(20150118144654).JPG")\]\] [Crossing_Shape_hangrao_Railway_Station.JPG](https://zh.wikipedia.org/wiki/File:Crossing_Shape_hangrao_Railway_Station.JPG "fig:Crossing_Shape_hangrao_Railway_Station.JPG")
+（上方為[合福高速鐵路](https://zh.wikipedia.org/wiki/合福高速鐵路 "wikilink")，左下方為[滬昆高速鐵路](https://zh.wikipedia.org/wiki/滬昆高速鐵路 "wikilink")，右下方為[滬昆鐵路](https://zh.wikipedia.org/wiki/滬昆鐵路 "wikilink")）\]\] [201604_Comparison_of_Headlights_of_Two_kinds_of_CRH380B.JPG](https://zh.wikipedia.org/wiki/File:201604_Comparison_of_Headlights_of_Two_kinds_of_CRH380B.JPG "fig:201604_Comparison_of_Headlights_of_Two_kinds_of_CRH380B.JPG") 由唐山轨道客车(CRH380B-3571～CRH380B-3731、CRH380B-3738或之後)或长春轨道客车(CRH380B-5637～CRH380B-5681、CRH380B-5730～CRH380B-5761、CRH380B-5787～CRH380B-5802、CRH380B-5729或之後)生产，采用4动4拖的编组方式。该型号为CRH380B的**非高寒型**，主要为[京沪高铁](https://zh.wikipedia.org/wiki/京沪高铁 "wikilink")、[京广高铁等大部分除东北以外的地方使用](https://zh.wikipedia.org/wiki/京广高铁 "wikilink")。虽然借鉴了[CRH3C型动车组和CRH](https://zh.wikipedia.org/wiki/CRH3 "wikilink")380BL高速动车组再优化设计，但由于编组一样并且列车外形及内部基本没有任何改变因此可视为CRH3C的改进版本，然而CRH380B并没有CRH3C般外露的车钩导向杆，且车轮材质经过强化，解决了CRH3C车轮易磨损的问题。
 
 ### CRH380BL
 
-CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生产（CRH380BL-5501～CRH380BL-5545、CRH380BL-5823～CRH380BL-5828），另外76列由唐山轨道客车生产（CRH380BL-3501～CRH380BL-3570、CRH380BL-3732～CRH380BL-3737），采用了8动8拖的编组方式，牵引功率为18400千瓦，列车由1辆商务车（又称VIP座车）、4辆一等座车、10辆二等座车和1辆餐车组成，其中商务车28人，一等座186
-人，二等座791人，定员为1005人\[14\]。
+CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生产（CRH380BL-5501～CRH380BL-5545、CRH380BL-5823～CRH380BL-5828），另外76列由唐山轨道客车生产（CRH380BL-3501～CRH380BL-3570、CRH380BL-3732～CRH380BL-3737），采用了8动8拖的编组方式，牵引功率为18400千瓦，列车由1辆商务车（又称VIP座车）、4辆一等座车、10辆二等座车和1辆餐车组成，其中商务车28人，一等座186 人，二等座791人，定员为1005人\[14\]。
 
 2010年9月20日，首列CRH380B型高速动车组（6401L）在唐山轨道客车的厂房内下线\[15\]，而第二列（6402L）也在10月下线。2010年11月初，两列动车组前往[中国铁道科学研究院环行铁道试验基地安装试验设备并进行初步试验](https://zh.wikipedia.org/wiki/中国铁道科学研究院环行铁道试验基地 "wikilink")，同年11月20日，CRH380B-6401L、CRH380B-6402L开始前往京沪高速铁路先导试验段（[枣庄至](https://zh.wikipedia.org/wiki/枣庄 "wikilink")[蚌埠](https://zh.wikipedia.org/wiki/蚌埠 "wikilink")）开始进行正式线路联调联试和综合试验。11月28日起，CRH380BL开始在[沪宁城际高速铁路上空载试运行](https://zh.wikipedia.org/wiki/沪宁城际高速铁路 "wikilink")。2010年12月5日，CRH380B型动车组在京沪高铁先导段的最高试验速度达457公里/小时\[16\]。
 
-2011年1月9日，采用特殊试验编组（8M4T）的CRH380B-6402L动车组再次进行京沪高速铁路徐州至蚌埠先导段的运行试验。当天下午5点，列车由[徐州东站出发](../Page/徐州东站.md "wikilink")，在启动后6分钟之内就达到了380公里/小时，并于5时15分创造了每小时487.3公里的最高试验速度\[17\]。
+2011年1月9日，采用特殊试验编组（8M4T）的CRH380B-6402L动车组再次进行京沪高速铁路徐州至蚌埠先导段的运行试验。当天下午5点，列车由[徐州东站](../Page/徐州东站.md "wikilink")出发，在启动后6分钟之内就达到了380公里/小时，并于5时15分创造了每小时487.3公里的最高试验速度\[17\]。
 
-2011年1月13日起，配属[上海铁路局的首批](https://zh.wikipedia.org/wiki/上海铁路局 "wikilink")9列CRH380BL型电力动车组，在春运前夕投入[沪杭客运专线的商业运营](../Page/沪杭客运专线.md "wikilink")\[18\]。
+2011年1月13日起，配属[上海铁路局的首批](https://zh.wikipedia.org/wiki/上海铁路局 "wikilink")9列CRH380BL型电力动车组，在春运前夕投入[沪杭客运专线](../Page/沪杭客运专线.md "wikilink")的商业运营\[18\]。
 
 ### CRH380BG
 
-[CRH380BG_20151103.JPG](https://zh.wikipedia.org/wiki/File:CRH380BG_20151103.JPG "fig:CRH380BG_20151103.JPG")\]\]
-[CRH380BJ-A-0504@BCR_(20160420125518).jpg](https://zh.wikipedia.org/wiki/File:CRH380BJ-A-0504@BCR_\(20160420125518\).jpg "fig:CRH380BJ-A-0504@BCR_(20160420125518).jpg")
-CRH380BG型动车组列车总数为40列（CRH380BG-5546～CRH380BG-5585），全部由[长春轨道客车生产](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")，采用4动4拖的编组方式，牵引功率为9200千瓦。该型车为**高寒型**，主要为[哈大客运专线提供](../Page/哈大客运专线.md "wikilink")。
+[CRH380BG_20151103.JPG](https://zh.wikipedia.org/wiki/File:CRH380BG_20151103.JPG "fig:CRH380BG_20151103.JPG")\]\] [CRH380BJ-A-0504@BCR_(20160420125518).jpg](https://zh.wikipedia.org/wiki/File:CRH380BJ-A-0504@BCR_\(20160420125518\).jpg "fig:CRH380BJ-A-0504@BCR_(20160420125518).jpg") CRH380BG型动车组列车总数为40列（CRH380BG-5546～CRH380BG-5585），全部由[长春轨道客车生产](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")，采用4动4拖的编组方式，牵引功率为9200千瓦。该型车为**高寒型**，主要为[哈大客运专线](../Page/哈大客运专线.md "wikilink")提供。
 
 ### 統型CRH380BG
 
-統型CRH380BG型动车组列车总数为117列(CRH380BG-5586～CRH380BG-5600、CRH380BG-5626～CRH380BG-5636、CRH380BG-5684～CRH380BG-5729、CRH380BG-5762～CRH380BG-5786、CRH380BG-5803～CRH380BG-5822)全部由长春轨道客车生产，根据[中国铁路总公司的要求采用根据目前运营经验和乘客乘坐需求](../Page/中国铁路总公司.md "wikilink")，在各型动车组技术平台上，对列车的车型、定员、旅客服务设施、司机操作设施、列车的主要性能进行统一而设计出来的动车组的设计。该型车同樣为**高寒型**，主要为[津秦客运专线提供](https://zh.wikipedia.org/wiki/津秦客运专线 "wikilink")。[1](http://www.ourail.com/thread-175500-7-1.html)
+統型CRH380BG型动车组列车总数为117列(CRH380BG-5586～CRH380BG-5600、CRH380BG-5626～CRH380BG-5636、CRH380BG-5684～CRH380BG-5729、CRH380BG-5762～CRH380BG-5786、CRH380BG-5803～CRH380BG-5822)全部由长春轨道客车生产，根据[中国铁路总公司](../Page/中国铁路总公司.md "wikilink")的要求采用根据目前运营经验和乘客乘坐需求，在各型动车组技术平台上，对列车的车型、定员、旅客服务设施、司机操作设施、列车的主要性能进行统一而设计出来的动车组的设计。该型车同樣为**高寒型**，主要为[津秦客运专线提供](https://zh.wikipedia.org/wiki/津秦客运专线 "wikilink")。[1](http://www.ourail.com/thread-175500-7-1.html)
 
 ## 车内布置
 
-[CRH380BL_Business_Coach_SW622203_20121114.JPG](https://zh.wikipedia.org/wiki/File:CRH380BL_Business_Coach_SW622203_20121114.JPG "fig:CRH380BL_Business_Coach_SW622203_20121114.JPG")
-[Kitchen_of_CRH380B_20151031.JPG](https://zh.wikipedia.org/wiki/File:Kitchen_of_CRH380B_20151031.JPG "fig:Kitchen_of_CRH380B_20151031.JPG")
-CRH380B型动车组设有一等座、二等座、观光座、VIP座等座席等级。二等座车座席采用2+3布置；一等座车座席采用2+2方式布置，每组列车其中一辆一等座车设有一个4人包间、以及两个6人包间\[19\]。VIP座位于商务车车厢（又称VIP车），采用1+2方式布置，设置类似民航客机[头等舱的高级可躺座椅](https://zh.wikipedia.org/wiki/头等舱 "wikilink")。与CRH3型动车组一样，CRH380B型动车组两端头车后方也设有包间，称为观光区，初期可通过可调透明度玻璃看到看到驾驶室的操作以及前方轨道视角，目前玻璃已全部锁定为不透明状态。
+[CRH380BL_Business_Coach_SW622203_20121114.JPG](https://zh.wikipedia.org/wiki/File:CRH380BL_Business_Coach_SW622203_20121114.JPG "fig:CRH380BL_Business_Coach_SW622203_20121114.JPG") [Kitchen_of_CRH380B_20151031.JPG](https://zh.wikipedia.org/wiki/File:Kitchen_of_CRH380B_20151031.JPG "fig:Kitchen_of_CRH380B_20151031.JPG") CRH380B型动车组设有一等座、二等座、观光座、VIP座等座席等级。二等座车座席采用2+3布置；一等座车座席采用2+2方式布置，每组列车其中一辆一等座车设有一个4人包间、以及两个6人包间\[19\]。VIP座位于商务车车厢（又称VIP车），采用1+2方式布置，设置类似民航客机[头等舱的高级可躺座椅](https://zh.wikipedia.org/wiki/头等舱 "wikilink")。与CRH3型动车组一样，CRH380B型动车组两端头车后方也设有包间，称为观光区，初期可通过可调透明度玻璃看到看到驾驶室的操作以及前方轨道视角，目前玻璃已全部锁定为不透明状态。
 
 列车内部的旅客空间“航空化”，座位号除了数字外还增加了英文字母。二等座每列设有“3+2”方式排列五个座位，以“A、B、C、D、F”代表；一等座每列设有“2+2”方式排列四个座位，以“A、C、D、F”代表。无论是一等车厢还是二等车厢，带字母“A”和“F”的座位靠窗，带字母“C”和“D”代表贴近中间走道。以二等车厢第四排的座椅为例，座号“4A”、“4F”靠窗，“4C”、“4D”临过道，4B为两座中间一个座位。自2010年11月起铁道部陆续升级车站的售票系统后，旅客在人工售票窗口购票时可以选择指定车厢和席位号码；网络售票和自动售票机暂不支持自选车厢、席位，但网络售票在票源充足时支持选择靠窗/非靠窗位置。
 
@@ -166,23 +157,23 @@ CRH380B型动车组设有一等座、二等座、观光座、VIP座等座席等�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
-<td><p>13</p></td>
-<td><p>3587、3589、3598、3601～3603、3605、3607、3714、3716、3738、3739、3743</p></td>
+<td><p>12</p></td>
+<td><p>3589、3598、3601～3603、3605、3607、3714、3716、3738、3739、3743</p></td>
 <td><p>上海虹桥</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪昆高铁</a>、<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="https://zh.wikipedia.org/wiki/京广高铁" title="wikilink">京广高铁</a>、<a href="https://zh.wikipedia.org/wiki/金丽温铁路" title="wikilink">金丽温铁路</a>、<a href="https://zh.wikipedia.org/wiki/合福高铁" title="wikilink">合福高铁</a>、<a href="https://zh.wikipedia.org/wiki/郑西高铁" title="wikilink">郑西</a>-<a href="https://zh.wikipedia.org/wiki/郑徐高铁" title="wikilink">郑徐高铁</a></p></td>
 <td><p>部分列车<a href="https://zh.wikipedia.org/wiki/沪杭高铁" title="wikilink">沪杭</a>-<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁直通运行</a></p></td>
 </tr>
 <tr class="even">
-<td><p>11</p></td>
-<td><p>3585、3591、3604、3611、3663、3666、3676、3677、3729、3741、3753</p></td>
+<td><p>17</p></td>
+<td><p>3583、3585、3587、3591、3604、3611、3614、3615、3642、3645、3663、3666、3676、3677、3729、3741、3753</p></td>
 <td><p>上海南翔</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>20</p></td>
-<td><p>3573、3581、3583、3586、3590、3594、3595、3600、3606、3613～3615、3618、3620、3633、3642、3644、3645、3673、3704</p></td>
+<td><p>15</p></td>
+<td><p>3573、3581、3586、3590、3594、3595、3600、3606、3613、3618、3620、3633、3644、3673、3704</p></td>
 <td><p>南京南</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪昆高铁</a>、<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="https://zh.wikipedia.org/wiki/京广高铁" title="wikilink">京广高铁</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉铁路" title="wikilink">沪汉蓉铁路</a>、<a href="https://zh.wikipedia.org/wiki/宁杭高铁" title="wikilink">宁杭高铁</a>、<a href="https://zh.wikipedia.org/wiki/金丽温铁路" title="wikilink">金丽温铁路</a>、<a href="https://zh.wikipedia.org/wiki/合福高铁" title="wikilink">合福高铁</a>、<a href="https://zh.wikipedia.org/wiki/合蚌高铁" title="wikilink">合蚌高铁</a>、<a href="https://zh.wikipedia.org/wiki/郑西高铁" title="wikilink">郑西</a>-<a href="https://zh.wikipedia.org/wiki/郑徐高铁" title="wikilink">郑徐高铁</a></p></td>
 <td><p>部分列车<a href="https://zh.wikipedia.org/wiki/沪杭高铁" title="wikilink">沪杭</a>-<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁直通运行</a></p></td>
@@ -299,7 +290,7 @@ CRH380B型动车组设有一等座、二等座、观光座、VIP座等座席等�
 <td><p>39</p></td>
 <td><p>3510、3517～3520、3522、3523、3525～3527、3531、3533、3534、3536、3538、3540～3542、3545～3547、3555、3560～3569、3732、3734～3737、3775、3776</p></td>
 <td><p>上海虹桥</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪昆高铁</a>、<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁</a>、<a href="https://zh.wikipedia.org/wiki/京广高铁" title="wikilink">京广高铁</a>、<a href="https://zh.wikipedia.org/wiki/合福高铁" title="wikilink">合福高铁</a>、<a href="../Page/胶济客运专线.md" title="wikilink">胶济客运专线</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪昆高铁</a>、<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁</a>、<a href="https://zh.wikipedia.org/wiki/京广高铁" title="wikilink">京广高铁</a>、<a href="https://zh.wikipedia.org/wiki/合福高铁" title="wikilink">合福高铁</a>、<a href="../Page/胶济客运专线.md" title="wikilink">胶济客运专线</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉铁路" title="wikilink">沪汉蓉铁路</a></p></td>
 <td><p>部分列车<a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪杭</a>-<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁直通运行</a>。</p></td>
 </tr>
 <tr class="even">
@@ -823,8 +814,7 @@ SW xxxx00</p></td>
 
 ## 外部链接
 
-  - [新浪新闻：西门子将向中方提供百列高速列车
-    不卖核心技术](http://news.sina.com.cn/c/2009-04-02/083617533481.shtml)
+  - [新浪新闻：西门子将向中方提供百列高速列车 不卖核心技术](http://news.sina.com.cn/c/2009-04-02/083617533481.shtml)
 
   - [CRH380B-6401L于唐山轨道客车下线仪式](http://v.youku.com/v_show/id_XMjA4MDM0MTY4.html)
 
@@ -838,9 +828,7 @@ SW xxxx00</p></td>
 
   - [G7409（上海虹桥—杭州）CRH380B-6403L虹桥出发](http://www.youtube.com/watch?v=V9ctr1zrplc)
 
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:中车唐山制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车唐山制铁路车辆 "wikilink")
-[Category:和谐号电力动车组](https://zh.wikipedia.org/wiki/Category:和谐号电力动车组 "wikilink")
+[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:中车唐山制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车唐山制铁路车辆 "wikilink") [Category:和谐号电力动车组](https://zh.wikipedia.org/wiki/Category:和谐号电力动车组 "wikilink")
 
 1.
 
@@ -882,11 +870,8 @@ SW xxxx00</p></td>
 
 22.
 
-23. [驚險！高鐵途經安徽突起火　逾千乘客急疏散](http://hk.on.cc/cn/bkn/cnt/news/20180125/bkncn-20180125133206440-0125_05011_001.htm)
-    on.cc東網 2018年01月25日
+23. [驚險！高鐵途經安徽突起火　逾千乘客急疏散](http://hk.on.cc/cn/bkn/cnt/news/20180125/bkncn-20180125133206440-0125_05011_001.htm) on.cc東網 2018年01月25日
 
-24. [青島往杭州高鐵列車起火冒煙　車身被燒穿無人傷亡](https://www.hk01.com/article/153071/)
-    [香港01](../Page/香港01.md "wikilink") 2018年01月25日
+24. [青島往杭州高鐵列車起火冒煙　車身被燒穿無人傷亡](https://www.hk01.com/article/153071/) [香港01](../Page/香港01.md "wikilink") 2018年01月25日
 
-25. [高鐵突起火　1,400客急逃生](https://hk.news.appledaily.com/international/daily/article/20180126/20286271)
-    [蘋果日報 (香港)](../Page/蘋果日報_\(香港\).md "wikilink") 2018年01月26日
+25. [高鐵突起火　1,400客急逃生](https://hk.news.appledaily.com/international/daily/article/20180126/20286271) [蘋果日報 (香港)](../Page/蘋果日報_\(香港\).md "wikilink") 2018年01月26日

@@ -18,11 +18,9 @@
   - 人氣國語歌曲
       - 《紅豆》 ——[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
   - 合唱歌曲
-      - 《我的回憶不是我的》
-        ——[海鳴威](https://zh.wikipedia.org/wiki/海鳴威 "wikilink")、[泳兒](../Page/泳兒.md "wikilink")
+      - 《我的回憶不是我的》 ——[海鳴威](https://zh.wikipedia.org/wiki/海鳴威 "wikilink")、[泳兒](../Page/泳兒.md "wikilink")
   - 人氣大碟
-      - 《HOCC 2009 HEROES》
-        ——[何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")
+      - 《HOCC 2009 HEROES》 ——[何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")
   - 網上熱播歌曲
       - 《如果我是個男孩》 ——[駱胤鳴](../Page/駱胤鳴.md "wikilink")
   - 搜尋人氣電視劇集歌曲
@@ -38,8 +36,7 @@
   - 本地男歌手
       - [古巨基](../Page/古巨基.md "wikilink")
   - 國際男歌手
-      - [Michael
-        Jackson](https://zh.wikipedia.org/wiki/Michael_Jackson "wikilink")
+      - [Michael Jackson](https://zh.wikipedia.org/wiki/Michael_Jackson "wikilink")
   - 本地女歌手
       - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
   - 國際女歌手

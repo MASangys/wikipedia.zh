@@ -9,13 +9,9 @@
 ## 外部链接
 
   - [天使文化传媒有限公司](https://web.archive.org/web/20110829220253/http://www.tswh.cc/index.asp)
-  - [广场 -
-    天使论坛](https://web.archive.org/web/20110731024744/http://www.s-tianshi.com/bbs/forum.php)
-    - 该杂志的官方论坛
+  - [广场 - 天使论坛](https://web.archive.org/web/20110731024744/http://www.s-tianshi.com/bbs/forum.php) - 该杂志的官方论坛
 
-[Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink")
-[Category:中国杂志](https://zh.wikipedia.org/wiki/Category:中国杂志 "wikilink")
-[Category:轻小说杂志](https://zh.wikipedia.org/wiki/Category:轻小说杂志 "wikilink")
+[Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink") [Category:中国杂志](https://zh.wikipedia.org/wiki/Category:中国杂志 "wikilink") [Category:轻小说杂志](https://zh.wikipedia.org/wiki/Category:轻小说杂志 "wikilink")
 
 1.  [湖南天使文化有限公司 - 我们的团队](http://www.tswh.cc/aboutus.asp)
 2.  [天使文化 - 杂志动态](http://www.tswh.cc/magazine.asp?id=435)

@@ -1,5 +1,4 @@
-**Sunshine
-Nation**是一個由[加拿大中文電台](../Page/加拿大中文電台.md "wikilink")[AM1470和FM](https://zh.wikipedia.org/wiki/AM1470 "wikilink")96.1主辦；在[温哥華舉行的選美活動](https://zh.wikipedia.org/wiki/温哥華 "wikilink")，其目的是和訓練當地年輕亞裔男女的自信心和發掘其表演慾。其歷史可以追溯到1999年，歴年的参賽者和得獎者有很多都獲得加入[香港](../Page/香港.md "wikilink")或[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[演藝圈的機會](https://zh.wikipedia.org/wiki/演藝圈 "wikilink")。
+**Sunshine Nation**是一個由[加拿大中文電台](../Page/加拿大中文電台.md "wikilink")[AM1470和FM](https://zh.wikipedia.org/wiki/AM1470 "wikilink")96.1主辦；在[温哥華舉行的選美活動](https://zh.wikipedia.org/wiki/温哥華 "wikilink")，其目的是和訓練當地年輕亞裔男女的自信心和發掘其表演慾。其歷史可以追溯到1999年，歴年的参賽者和得獎者有很多都獲得加入[香港](../Page/香港.md "wikilink")或[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[演藝圈的機會](https://zh.wikipedia.org/wiki/演藝圈 "wikilink")。
 
 ## 主辦機構
 
@@ -21,13 +20,11 @@ Nation**是一個由[加拿大中文電台](../Page/加拿大中文電台.md "wi
 
 ### 《Sunshine Boyz》（2002年-2005年）
 
-由2002年開始AM1470和FM96.1把此項選美活動改為一個男性選美活動《**Sunshine
-Boyz**》，參赛資格是16－25歲的亞裔少年。
+由2002年開始AM1470和FM96.1把此項選美活動改為一個男性選美活動《**Sunshine Boyz**》，參赛資格是16－25歲的亞裔少年。
 
 ### 《Sunshine Nation》（2006年－現今）
 
-由2006年開始AM1470和FM96.1再把此項選美活動演變為一個男、女混合的選美活動並與台灣的「可米製作/流星花園製作公司」合辦。此項選美活動從此易名為《**Sunshine
-Nation**》，參赛資格是16－25歲的亞裔少年男女，而男、女兩方各自產生一個冠軍。
+由2006年開始AM1470和FM96.1再把此項選美活動演變為一個男、女混合的選美活動並與台灣的「可米製作/流星花園製作公司」合辦。此項選美活動從此易名為《**Sunshine Nation**》，參赛資格是16－25歲的亞裔少年男女，而男、女兩方各自產生一個冠軍。
 
 ## 著名人物
 
@@ -198,15 +195,7 @@ Nation**》，參赛資格是16－25歲的亞裔少年男女，而男、女兩�
 
 ## 命名
 
-自從2002年《**Sunshine Boyz**》時期以至2006年《**Sunshine
-Nation**》時期到目前為止。縱使此項活動的各主辦機構、策劃、工作人員、參賽者以及觀眾絕大部分皆為華人，但多年來主辨單位似乎從沒有意向為《Sunshine
-Boyz》或《Sunshine
-Nation》取一個中文的官方名字。原因估計是因為坊間被稱為「陽光少年或少女」的比賽實在太多而不想被混淆。事實上主辦單位多年來都沒有解釋為何《Sunshine
-Boyz》或《Sunshine
-Nation》沒有一個正式的中文譯名。所以到目前為止各大小傳媒報導有關是項活動時，大都會直接稱呼為《Sunshine
-Boyz》、《Sunshine Girlz》、《Sunshine
-Nation》或《SSN》。但另一方面，同樣由新時代集團籌辦，在多倫多的同類型活動《Sunshine
-Generations》卻有中文名稱《[陽光世代](../Page/陽光世代選舉.md "wikilink")》。
+自從2002年《**Sunshine Boyz**》時期以至2006年《**Sunshine Nation**》時期到目前為止。縱使此項活動的各主辦機構、策劃、工作人員、參賽者以及觀眾絕大部分皆為華人，但多年來主辨單位似乎從沒有意向為《Sunshine Boyz》或《Sunshine Nation》取一個中文的官方名字。原因估計是因為坊間被稱為「陽光少年或少女」的比賽實在太多而不想被混淆。事實上主辦單位多年來都沒有解釋為何《Sunshine Boyz》或《Sunshine Nation》沒有一個正式的中文譯名。所以到目前為止各大小傳媒報導有關是項活動時，大都會直接稱呼為《Sunshine Boyz》、《Sunshine Girlz》、《Sunshine Nation》或《SSN》。但另一方面，同樣由新時代集團籌辦，在多倫多的同類型活動《Sunshine Generations》卻有中文名稱《[陽光世代](../Page/陽光世代選舉.md "wikilink")》。
 
 ## 歷屆得獎者
 
@@ -378,18 +367,12 @@ Generations》卻有中文名稱《[陽光世代](../Page/陽光世代選舉.md 
 ## 外部連結
 
   - [加拿大中文電台AM1470/FM96.1-Sunshine紅人](https://web.archive.org/web/20100901170440/http://www.am1470.com/sunshine.php)
-  - [Sunshine Boyz 2002
-    官方網站](https://web.archive.org/web/20070309191012/http://www.funfun2.com/funfun/html/ent/show/200206/03_sunshine_boy/info_page_chinese.asp)
-  - [Sunshine Boyz 2003
-    官方網站](https://web.archive.org/web/20090924210618/http://www.funfun2.com/funfun/html/ent/show/200306/02_sunshineboyz/news_release.asp)
-  - [Sunshine Boyz 2004
-    官方網站](https://web.archive.org/web/20090924033507/http://www.funfun2.com/funfun/html/ent/show/200406/02_sunshine_boy/index.asp)
-  - [SunShine Nation 2007
-    官方網站](https://web.archive.org/web/20110102214139/http://www.am1470.com/event/ssn_2007/stage4/ch/finale.php)
+  - [Sunshine Boyz 2002 官方網站](https://web.archive.org/web/20070309191012/http://www.funfun2.com/funfun/html/ent/show/200206/03_sunshine_boy/info_page_chinese.asp)
+  - [Sunshine Boyz 2003 官方網站](https://web.archive.org/web/20090924210618/http://www.funfun2.com/funfun/html/ent/show/200306/02_sunshineboyz/news_release.asp)
+  - [Sunshine Boyz 2004 官方網站](https://web.archive.org/web/20090924033507/http://www.funfun2.com/funfun/html/ent/show/200406/02_sunshine_boy/index.asp)
+  - [SunShine Nation 2007 官方網站](https://web.archive.org/web/20110102214139/http://www.am1470.com/event/ssn_2007/stage4/ch/finale.php)
   - [SunShine Nation 2009 官方網站](http://ssn09.am1470.com/)
 
-[Category:加拿大中文電台主辦活動](https://zh.wikipedia.org/wiki/Category:加拿大中文電台主辦活動 "wikilink")
-[Category:温哥華Sunshine_Boyz/Girls](https://zh.wikipedia.org/wiki/Category:温哥華Sunshine_Boyz/Girls "wikilink")
-[Category:新時代傳媒集團選美活動](https://zh.wikipedia.org/wiki/Category:新時代傳媒集團選美活動 "wikilink")
+[Category:加拿大中文電台主辦活動](https://zh.wikipedia.org/wiki/Category:加拿大中文電台主辦活動 "wikilink") [Category:温哥華Sunshine_Boyz/Girls](https://zh.wikipedia.org/wiki/Category:温哥華Sunshine_Boyz/Girls "wikilink") [Category:新時代傳媒集團選美活動](https://zh.wikipedia.org/wiki/Category:新時代傳媒集團選美活動 "wikilink")
 
 1.  [1](http://news.singtao.ca/vancouver/2009-08-29/community1251538484d1996549.html)

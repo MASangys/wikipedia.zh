@@ -6,6 +6,4 @@
 
   - [ChEBI网站](http://www.ebi.ac.uk/chebi/)
 
-[Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink")
-[Category:化学数据库](https://zh.wikipedia.org/wiki/Category:化学数据库 "wikilink")
-[Category:化学命名法](https://zh.wikipedia.org/wiki/Category:化学命名法 "wikilink")
+[Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink") [Category:化学数据库](https://zh.wikipedia.org/wiki/Category:化学数据库 "wikilink") [Category:化学命名法](https://zh.wikipedia.org/wiki/Category:化学命名法 "wikilink")

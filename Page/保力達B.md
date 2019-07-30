@@ -28,9 +28,7 @@
   - [保力達購物網](http://www.aabb.com.tw/index.php)
 
   -
-[Category:台灣酒精飲料](https://zh.wikipedia.org/wiki/Category:台灣酒精飲料 "wikilink")
-[Category:中藥](https://zh.wikipedia.org/wiki/Category:中藥 "wikilink")
-[Category:1956年面世的產品](https://zh.wikipedia.org/wiki/Category:1956年面世的產品 "wikilink")
+[Category:台灣酒精飲料](https://zh.wikipedia.org/wiki/Category:台灣酒精飲料 "wikilink") [Category:中藥](https://zh.wikipedia.org/wiki/Category:中藥 "wikilink") [Category:1956年面世的產品](https://zh.wikipedia.org/wiki/Category:1956年面世的產品 "wikilink")
 
 1.  [保力達P產品介紹&成分比例](http://www.paolyta.com.tw/product_01.html)
 2.

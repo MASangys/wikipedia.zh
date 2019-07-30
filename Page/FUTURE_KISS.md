@@ -1,22 +1,15 @@
-《**FUTURE
-KISS**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倉木麻衣第九張原創專輯](../Page/倉木麻衣.md "wikilink")，於2010年11月17日發行。
+《**FUTURE KISS**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倉木麻衣](../Page/倉木麻衣.md "wikilink")第九張原創專輯，於2010年11月17日發行。
 
 ## 簡介
 
-  - 與前作「[touch
-    Me\!](https://zh.wikipedia.org/wiki/touch_Me! "wikilink")」相隔約1年零10個月的新原創專輯。
-  - 收錄單曲「[Revive](../Page/PUZZLE／Revive.md "wikilink")」、「[Beautiful](https://zh.wikipedia.org/wiki/Beautiful "wikilink")」、「[Drive
-    me
-    crazy](https://zh.wikipedia.org/wiki/比永遠更遠／Drive_me_crazy "wikilink")」、「[SUMMER
-    TIME GONE](../Page/SUMMER_TIME_GONE.md "wikilink")」。
+  - 與前作「[touch Me\!](https://zh.wikipedia.org/wiki/touch_Me! "wikilink")」相隔約1年零10個月的新原創專輯。
+  - 收錄單曲「[Revive](../Page/PUZZLE／Revive.md "wikilink")」、「[Beautiful](https://zh.wikipedia.org/wiki/Beautiful "wikilink")」、「[Drive me crazy](https://zh.wikipedia.org/wiki/比永遠更遠／Drive_me_crazy "wikilink")」、「[SUMMER TIME GONE](../Page/SUMMER_TIME_GONE.md "wikilink")」。
   - 宣傳標語為「每天與未來接吻。」，主題有「踏出嶄新的一步，觸碰無法看見的未來」的意思。
-  - 初回盤跟通常盤共同特典為於「10th Anniversary Mai Kuraki Live Tour 2009 "BEST"
-    HAPPY HAPPY HALLOWEEN LIVE」初披露的「boyfriend」。
+  - 初回盤跟通常盤共同特典為於「10th Anniversary Mai Kuraki Live Tour 2009 "BEST" HAPPY HAPPY HALLOWEEN LIVE」初披露的「boyfriend」。
   - 初回盤特典DVD為「Mai Kuraki TIME CAPSULE MOVIE」，由2010年的自己傳遞給2020年自己的影像。
   - 原定2010年10月20日發行，其後延遲一個月發行並追加特典「boyfriend」。
-  - 自「[綻放夢想的春天](../Page/綻放夢想的春天／You_and_Music_and_Dream.md "wikilink")」後再次起用[德永曉人作曲](../Page/德永曉人.md "wikilink")。
-  - 「Tomorrow is the last
-    Time」再次成為動畫[名偵探柯南的片尾曲](../Page/名偵探柯南.md "wikilink")。
+  - 自「[綻放夢想的春天](../Page/綻放夢想的春天／You_and_Music_and_Dream.md "wikilink")」後再次起用[德永曉人](../Page/德永曉人.md "wikilink")作曲。
+  - 「Tomorrow is the last Time」再次成為動畫[名偵探柯南](../Page/名偵探柯南.md "wikilink")的片尾曲。
 
 ## 曲目
 
@@ -69,5 +62,4 @@ KISS**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wi
 </tbody>
 </table>
 
-[Category:倉木麻衣音樂專輯](https://zh.wikipedia.org/wiki/Category:倉木麻衣音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
+[Category:倉木麻衣音樂專輯](https://zh.wikipedia.org/wiki/Category:倉木麻衣音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")

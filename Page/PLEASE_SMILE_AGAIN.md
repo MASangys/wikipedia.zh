@@ -1,14 +1,11 @@
-《**PLEASE SMILE
-AGAIN**》（再展笑顏）是[安室奈美惠以個人單獨名義在](../Page/安室奈美惠.md "wikilink")2000年10月4日發行的第18張單曲。
+《**PLEASE SMILE AGAIN**》（再展笑顏）是[安室奈美惠](../Page/安室奈美惠.md "wikilink")以個人單獨名義在2000年10月4日發行的第18張單曲。
 
 ## 簡介
 
   - 與前作《[NEVER END](../Page/NEVER_END.md "wikilink")》相隔約3個月的新單曲。
-  - PLEASE SMILE
-    AGAIN為[明治製菓的廣告歌曲](../Page/明治製菓.md "wikilink")，廣告版本中的歌曲與原版本的編曲有少許不同。
+  - PLEASE SMILE AGAIN為[明治製菓](../Page/明治製菓.md "wikilink")的廣告歌曲，廣告版本中的歌曲與原版本的編曲有少許不同。
   - 安室本人向小室直說「很想要搖滾歌曲\!\!」而作了這首歌曲。
-  - B面歌CROSS OVER其後亦收錄於專輯《[break the
-    rules](https://zh.wikipedia.org/wiki/break_the_rules "wikilink")》中，並改為專輯版本。
+  - B面歌CROSS OVER其後亦收錄於專輯《[break the rules](https://zh.wikipedia.org/wiki/break_the_rules "wikilink")》中，並改為專輯版本。
 
 ## 收錄曲
 
@@ -34,6 +31,4 @@ AGAIN**》（再展笑顏）是[安室奈美惠以個人單獨名義在](../Page
 
 ## 外部連結
 
-[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
-[Category:安室奈美惠歌曲](https://zh.wikipedia.org/wiki/Category:安室奈美惠歌曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
+[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink") [Category:安室奈美惠歌曲](https://zh.wikipedia.org/wiki/Category:安室奈美惠歌曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")

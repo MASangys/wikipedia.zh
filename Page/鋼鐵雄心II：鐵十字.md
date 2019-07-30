@@ -1,5 +1,4 @@
-《**鋼鐵雄心II: 鐵十字**》（*Hearts of Iron II: Iron
-Cross*）是由製作[mod34組成的工作組](https://zh.wikipedia.org/wiki/mod34 "wikilink")[Irshappa所開發出來的一個擴展包](https://zh.wikipedia.org/wiki/Irshappa "wikilink")，並於2010年10月7日放出於遊戲網站線上購買下載。該擴展包增加了數省地圖以及眾多其他增補。
+《**鋼鐵雄心II: 鐵十字**》（*Hearts of Iron II: Iron Cross*）是由製作[mod34組成的工作組](https://zh.wikipedia.org/wiki/mod34 "wikilink")[Irshappa所開發出來的一個擴展包](https://zh.wikipedia.org/wiki/Irshappa "wikilink")，並於2010年10月7日放出於遊戲網站線上購買下載。該擴展包增加了數省地圖以及眾多其他增補。
 
 ## 新的改變
 
@@ -16,13 +15,7 @@ Cross*）是由製作[mod34組成的工作組](https://zh.wikipedia.org/wiki/mod
 
   - [Paradox Entertainment](http://www.paradoxplaza.com/)
   - [鐵十字於ParadoxPlaza的介紹頁](https://web.archive.org/web/20101011092447/http://www.paradoxplaza.com/games/iron-cross)
-  - [遊戲基地，Hearts of Iron
-    鋼鐵雄心討論版](http://www.gamebase.com.tw/forum/forum_index.html?no=5218)
-  - [巴哈姆特，Hearts of Iron
-    虎膽雄心(鋼鐵雄心)系列](https://web.archive.org/web/20140926111058/http://webbbs.gamer.com.tw/gemlist.php?brd=Strategy)
+  - [遊戲基地，Hearts of Iron 鋼鐵雄心討論版](http://www.gamebase.com.tw/forum/forum_index.html?no=5218)
+  - [巴哈姆特，Hearts of Iron 虎膽雄心(鋼鐵雄心)系列](https://web.archive.org/web/20140926111058/http://webbbs.gamer.com.tw/gemlist.php?brd=Strategy)
 
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink")
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
-[Category:Paradox_Interactive游戏](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive游戏 "wikilink")
+[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink") [Category:Paradox_Interactive游戏](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive游戏 "wikilink")

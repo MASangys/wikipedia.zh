@@ -8,7 +8,7 @@
 
 1968年5月1日，保加利亞通過刑法修正案，將同性戀相關的規定自刑法典中完全廢除。
 
-民主化後，隨著教會的影響力恢復及增加，政府對[同性戀議題逐漸持保留態度](../Page/同性戀.md "wikilink")，但傳播媒體上也偶有同志情節的節目放映，近年公開[出櫃的保加利亞人也有增長趨勢](../Page/出櫃.md "wikilink")。
+民主化後，隨著教會的影響力恢復及增加，政府對[同性戀](../Page/同性戀.md "wikilink")議題逐漸持保留態度，但傳播媒體上也偶有同志情節的節目放映，近年公開[出櫃](../Page/出櫃.md "wikilink")的保加利亞人也有增長趨勢。
 
 ## 同性伴侶關係
 
@@ -43,7 +43,6 @@
 
 ## 參考文獻
 
-[Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink")
-[Category:保加利亞LGBT權益](https://zh.wikipedia.org/wiki/Category:保加利亞LGBT權益 "wikilink")
+[Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink") [Category:保加利亞LGBT權益](https://zh.wikipedia.org/wiki/Category:保加利亞LGBT權益 "wikilink")
 
 1.

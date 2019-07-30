@@ -1,22 +1,12 @@
-**Apache
-Cassandra**（社区内一般简称为C\*）是一套开源分布式[NoSQL](../Page/NoSQL.md "wikilink")数据库系统。它最初由[Facebook](../Page/Facebook.md "wikilink")开发，用于储存收件箱等简单格式数据，集[Google](../Page/Google.md "wikilink")
-[BigTable的数据模型与](https://zh.wikipedia.org/wiki/BigTable "wikilink")[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink")
-[Dynamo的完全分布式架构于一身](https://zh.wikipedia.org/wiki/Dynamo "wikilink")。Facebook于2008将
-Cassandra
-开源，此后，由于Cassandra良好的[可扩展性和性能](https://zh.wikipedia.org/wiki/可扩展性 "wikilink")，被 Apple\[1\], Comcast\[2\],Instagram\[3\], Spotify\[4\], eBay\[5\], Rackspace\[6\], Netflix\[7\]等知名网站所采用，成为了一种流行的分布式结构化数据存储方案。
+**Apache Cassandra**（社区内一般简称为C\*）是一套开源分布式[NoSQL](../Page/NoSQL.md "wikilink")数据库系统。它最初由[Facebook](../Page/Facebook.md "wikilink")开发，用于储存收件箱等简单格式数据，集[Google](../Page/Google.md "wikilink") [BigTable的数据模型与](https://zh.wikipedia.org/wiki/BigTable "wikilink")[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink") [Dynamo的完全分布式架构于一身](https://zh.wikipedia.org/wiki/Dynamo "wikilink")。Facebook于2008将 Cassandra 开源，此后，由于Cassandra良好的[可扩展性和性能](https://zh.wikipedia.org/wiki/可扩展性 "wikilink")，被 Apple\[1\], Comcast\[2\],Instagram\[3\], Spotify\[4\], eBay\[5\], Rackspace\[6\], Netflix\[7\]等知名网站所采用，成为了一种流行的分布式结构化数据存储方案。
 
-在数据库排行榜“DB-Engines
-Ranking”中，Cassandra排在第七位，是非关系型数据库中排名第二高的（仅次于[MongoDB](../Page/MongoDB.md "wikilink")）\[8\]。
+在数据库排行榜“DB-Engines Ranking”中，Cassandra排在第七位，是非关系型数据库中排名第二高的（仅次于[MongoDB](../Page/MongoDB.md "wikilink")）\[8\]。
 
 ## 历史
 
-Cassandra
-的名称来源于[希腊神话](../Page/希腊神话.md "wikilink")，是[特洛伊](../Page/特洛伊.md "wikilink")的一位悲剧性的女先知的名字，因此项目的[Logo是一只放光的眼睛](https://zh.wikipedia.org/wiki/Logo "wikilink")。
+Cassandra 的名称来源于[希腊神话](../Page/希腊神话.md "wikilink")，是[特洛伊](../Page/特洛伊.md "wikilink")的一位悲剧性的女先知的名字，因此项目的[Logo是一只放光的眼睛](https://zh.wikipedia.org/wiki/Logo "wikilink")。
 
-这个项目由就职于[Facebook](../Page/Facebook.md "wikilink")的Avinash
-Lakshman（也是[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink")
-的作者之一）和Prashant
-Malik在为[Facebook](../Page/Facebook.md "wikilink")的Inbox编写。2008年，[Facebook](../Page/Facebook.md "wikilink")将项目开源，Cassandra在2009年成为了[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")的Incubator项目，并在2010年2月走出孵化器，成为正式的基金会项目。目前这个项目主要由专门进行Cassandra商业化运作的[DataStax](http://www.datastax.com/)公司来开发，也有一些来自其他公司或独立的开发者\[9\]。
+这个项目由就职于[Facebook](../Page/Facebook.md "wikilink")的Avinash Lakshman（也是[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink") 的作者之一）和Prashant Malik在为[Facebook](../Page/Facebook.md "wikilink")的Inbox编写。2008年，[Facebook](../Page/Facebook.md "wikilink")将项目开源，Cassandra在2009年成为了[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")的Incubator项目，并在2010年2月走出孵化器，成为正式的基金会项目。目前这个项目主要由专门进行Cassandra商业化运作的[DataStax](http://www.datastax.com/)公司来开发，也有一些来自其他公司或独立的开发者\[9\]。
 
 ### 主要版本和主要改进\[10\]
 
@@ -30,31 +20,20 @@ Malik在为[Facebook](../Page/Facebook.md "wikilink")的Inbox编写。2008年，
   - 2.1，2014年9月10日发布
   - 2.2 , 2015年7月20日发布
   - 3.0 , 2015年11月11日发布
-  - 3.1 , 同样 3.10版本，使用类tick-tock发布模式，每月发布一次 ,
-    偶数编号版本提供新功能和错误修正，而奇数编号版本只包括错误修正。
+  - 3.1 , 同样 3.10版本，使用类tick-tock发布模式，每月发布一次 , 偶数编号版本提供新功能和错误修正，而奇数编号版本只包括错误修正。
   - 3.11 ，2017年6月23日发布，作为稳定的3.11版本系列，修复了上一个tick-tock功能版本的错误。
 
 ## 数据模型
 
-Cassandra使用了[Google](../Page/Google.md "wikilink") 设计的
-[BigTable的数据模型](https://zh.wikipedia.org/wiki/BigTable "wikilink")，与面向行(row)的传统的[关系型数据库或](https://zh.wikipedia.org/wiki/关系型数据库 "wikilink")[键值存储的key](https://zh.wikipedia.org/wiki/键值存储 "wikilink")-value数据库不同，Cassandra使用的是[宽列存储模型](https://zh.wikipedia.org/wiki/宽列存储模型 "wikilink")(Wide
-Column Stores)\[11\]，每行数据由row key唯一标识之后，可以有最多20亿个列\[12\]，每个列有一个column
-key标识，每个column
-key下对应若干value。这种模型可以理解为是一个二维的key-value存储，即整个数据模型被定义成一个类似map\<key1,
-map\<key2,value\>\>的类型。
+Cassandra使用了[Google](../Page/Google.md "wikilink") 设计的 [BigTable的数据模型](https://zh.wikipedia.org/wiki/BigTable "wikilink")，与面向行(row)的传统的[关系型数据库或](https://zh.wikipedia.org/wiki/关系型数据库 "wikilink")[键值存储的key](https://zh.wikipedia.org/wiki/键值存储 "wikilink")-value数据库不同，Cassandra使用的是[宽列存储模型](https://zh.wikipedia.org/wiki/宽列存储模型 "wikilink")(Wide Column Stores)\[11\]，每行数据由row key唯一标识之后，可以有最多20亿个列\[12\]，每个列有一个column key标识，每个column key下对应若干value。这种模型可以理解为是一个二维的key-value存储，即整个数据模型被定义成一个类似map\<key1, map\<key2,value\>\>的类型。
 
-旧版的Cassandra与客户端交互的方法是通过[thrift](https://zh.wikipedia.org/wiki/thrift "wikilink")，而目前新版本的Cassandra采用与SQL语言类似的CQL语言\[13\]来实现数据模型的定义和数据的读写。其中BigTable中的列族(Column
-Family)在Cassandra中被称作类似关系型数据库中的称呼——表(table)，而Cassandra/BigTable中的row
-key和column key并称为主键(primary key)。\[14\]
+旧版的Cassandra与客户端交互的方法是通过[thrift](https://zh.wikipedia.org/wiki/thrift "wikilink")，而目前新版本的Cassandra采用与SQL语言类似的CQL语言\[13\]来实现数据模型的定义和数据的读写。其中BigTable中的列族(Column Family)在Cassandra中被称作类似关系型数据库中的称呼——表(table)，而Cassandra/BigTable中的row key和column key并称为主键(primary key)。\[14\]
 
-Cassandra的row key决定了该行数据存储在哪些节点中，因此row
-key需要按哈希来存储，不能顺序的扫描或读取，而一个row内的column
-key是顺序存储的，可以进行有序的扫描或范围查找\[15\]。
+Cassandra的row key决定了该行数据存储在哪些节点中，因此row key需要按哈希来存储，不能顺序的扫描或读取，而一个row内的column key是顺序存储的，可以进行有序的扫描或范围查找\[15\]。
 
 ## 存储模型
 
-与BigTable和其模仿者[HBase不同](https://zh.wikipedia.org/wiki/HBase "wikilink")，Cassandra的数据并不存储在分布式文件系统如[GFS或](https://zh.wikipedia.org/wiki/GFS "wikilink")[HDFS中](https://zh.wikipedia.org/wiki/HDFS "wikilink")，而是直接存于本地。与BigTable一样，Cassandra也是日志型数据库，即把新写入的数据存储在内存的Memtable中并通过磁盘中的CommitLog来做持久化，内存填满后将数据按照key的顺序写进一个只读文件SSTable中，每次读取数据时将所有SSTable和内存中的数据进行查找和合并\[16\]\[17\]。这种系统的特点是写入比读取更快\[18\]，因为写入一条数据是顺序计入commit
-log中，不需要随机读取磁盘以及搜索。
+与BigTable和其模仿者[HBase不同](https://zh.wikipedia.org/wiki/HBase "wikilink")，Cassandra的数据并不存储在分布式文件系统如[GFS或](https://zh.wikipedia.org/wiki/GFS "wikilink")[HDFS中](https://zh.wikipedia.org/wiki/HDFS "wikilink")，而是直接存于本地。与BigTable一样，Cassandra也是日志型数据库，即把新写入的数据存储在内存的Memtable中并通过磁盘中的CommitLog来做持久化，内存填满后将数据按照key的顺序写进一个只读文件SSTable中，每次读取数据时将所有SSTable和内存中的数据进行查找和合并\[16\]\[17\]。这种系统的特点是写入比读取更快\[18\]，因为写入一条数据是顺序计入commit log中，不需要随机读取磁盘以及搜索。
 
 ## 分布式架构
 
@@ -68,8 +47,7 @@ Cassandra支持对一列数据进行insert、update、或delete操作。其中in
 
 ### 轻量级事务
 
-从2.0版开始，Cassandra支持轻量级事务。这种事务被称为“compare-and-set”，简称CAS。通过[paxos算法实现在满足某条件后才修改数据否则不修改](https://zh.wikipedia.org/wiki/paxos算法 "wikilink")。目前支持"insert
-if not exist"、"update if col=value"、"delete if exist"等几种操作。
+从2.0版开始，Cassandra支持轻量级事务。这种事务被称为“compare-and-set”，简称CAS。通过[paxos算法实现在满足某条件后才修改数据否则不修改](https://zh.wikipedia.org/wiki/paxos算法 "wikilink")。目前支持"insert if not exist"、"update if col=value"、"delete if exist"等几种操作。
 
 ## 数据类型
 
@@ -101,12 +79,9 @@ Cassandra在CQL语言层面支持多种数据类型\[20\]。
 
 ### Apache HBase
 
-[HBase是Apache](https://zh.wikipedia.org/wiki/HBase "wikilink")
-Hadoop项目的一个子项目，是[Google](../Page/Google.md "wikilink")
-BigTable的一个克隆，与Cassandra一样，它们都使用了BigTable的列族式的数据模型，但是：
+[HBase是Apache](https://zh.wikipedia.org/wiki/HBase "wikilink") Hadoop项目的一个子项目，是[Google](../Page/Google.md "wikilink") BigTable的一个克隆，与Cassandra一样，它们都使用了BigTable的列族式的数据模型，但是：
 
-  - Cassandra只有一种节点，而HBase有多种不同角色，除了处理读写请求的region
-    server之外，其架构在一套完整的[HDFS分布式文件系统之上](https://zh.wikipedia.org/wiki/HDFS "wikilink")，并需要[ZooKeeper来同步集群状态](https://zh.wikipedia.org/wiki/ZooKeeper "wikilink")，部署上Cassandra更简单。
+  - Cassandra只有一种节点，而HBase有多种不同角色，除了处理读写请求的region server之外，其架构在一套完整的[HDFS分布式文件系统之上](https://zh.wikipedia.org/wiki/HDFS "wikilink")，并需要[ZooKeeper来同步集群状态](https://zh.wikipedia.org/wiki/ZooKeeper "wikilink")，部署上Cassandra更简单。
   - Cassandra的数据一致性策略是可配置的，可选择是强一致性还是性能更高的最终一致性；而HBase总是强一致性的。
   - Cassandra通过一致性哈希来决定一行数据存储在哪些节点，靠概率上的平均来实现负载均衡；而HBase每段数据(region)只有一个节点负责处理，由master来动态分配一个region是否大到需要拆分成两个，同时会将过热的节点上的一些region动态的分配给负载较低的节点，因此实现动态的负载均衡。
   - 因为每个region同时只能有一个节点处理，一旦这个节点无响应，在系统将这个节点的所有region转移到其他节点之前这些数据便无法读写，加上master也只有一个节点，备用master的恢复也需要时间，因此HBase在一定程度上有单点问题；而Cassandra无单点问题。
@@ -116,8 +91,7 @@ BigTable的一个克隆，与Cassandra一样，它们都使用了BigTable的列�
 
 ## 相关阅读
 
-[Category:開源資料庫管理系統](https://zh.wikipedia.org/wiki/Category:開源資料庫管理系統 "wikilink")
-[Category:键-值数据库](https://zh.wikipedia.org/wiki/Category:键-值数据库 "wikilink")
+[Category:開源資料庫管理系統](https://zh.wikipedia.org/wiki/Category:開源資料庫管理系統 "wikilink") [Category:键-值数据库](https://zh.wikipedia.org/wiki/Category:键-值数据库 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-《**Still for your love**》为[Rumania
-Montevideo的第一张单曲](https://zh.wikipedia.org/wiki/Rumania_Montevideo "wikilink")。CD编号为GZDA-1004。
+《**Still for your love**》为[Rumania Montevideo的第一张单曲](https://zh.wikipedia.org/wiki/Rumania_Montevideo "wikilink")。CD编号为GZDA-1004。
 
 ## 概要
 
@@ -20,12 +19,9 @@ rumania montevideo的出道单曲，第一次为动画演唱歌曲。 在公信�
 ## 收录专辑
 
   - [rumaniamania](https://zh.wikipedia.org/wiki/rumaniamania "wikilink")（\#1,\#2）
-  - [THE BEST OF DETECTIVE CONAN 〜名探偵コナン
-    テーマ曲集〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜 "wikilink")（\#1）
-  - [GIZA studio 10th Anniversary Masterpiece BLEND 〜LOVE
-    Side〜](https://zh.wikipedia.org/wiki/GIZA_studio_10th_Anniversary_Masterpiece_BLEND_〜LOVE_Side〜 "wikilink")（\#1）
-  - [GIZA studio presents
-    -Girls-](https://zh.wikipedia.org/wiki/GIZA_studio_presents_-Girls- "wikilink")（\#1）
+  - [THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜 "wikilink")（\#1）
+  - [GIZA studio 10th Anniversary Masterpiece BLEND 〜LOVE Side〜](https://zh.wikipedia.org/wiki/GIZA_studio_10th_Anniversary_Masterpiece_BLEND_〜LOVE_Side〜 "wikilink")（\#1）
+  - [GIZA studio presents -Girls-](https://zh.wikipedia.org/wiki/GIZA_studio_presents_-Girls- "wikilink")（\#1）
 
 <table>
 <tbody>
@@ -41,6 +37,4 @@ rumania montevideo的出道单曲，第一次为动画演唱歌曲。 在公信�
 </tbody>
 </table>
 
-[Category:1999年单曲](https://zh.wikipedia.org/wiki/Category:1999年单曲 "wikilink")
-[Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
+[Category:1999年单曲](https://zh.wikipedia.org/wiki/Category:1999年单曲 "wikilink") [Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")

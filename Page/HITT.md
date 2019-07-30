@@ -1,5 +1,4 @@
-**HITT**是一組韓國[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於2011年7月8日正式出道。HITT是"Here
-Is The Top"的縮寫。
+**HITT**是一組韓國[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於2011年7月8日正式出道。HITT是"Here Is The Top"的縮寫。
 
 2012年3月29日，HaYong與HoWon離開團體，Jay. K娛樂決定將其他成員拆分到其他組合中，宣布HITT正式解散。\[1\]
 
@@ -132,15 +131,6 @@ Is The Top"的縮寫。
 
 ## 参考文章
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2012年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年解散的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink")
-[Category:2012年韓國廢除](https://zh.wikipedia.org/wiki/Category:2012年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2012年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年解散的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink") [Category:2012年韓國廢除](https://zh.wikipedia.org/wiki/Category:2012年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
-1.  [HITT's Hayong and Howon to leave the
-    group](http://www.allkpop.com/article/2012/03/hitts-hayong-and-howon-to-leave-the-group)
+1.  [HITT's Hayong and Howon to leave the group](http://www.allkpop.com/article/2012/03/hitts-hayong-and-howon-to-leave-the-group)

@@ -1,7 +1,4 @@
-第五部《**超劇場版
-Keroro軍曹**》的製作計劃於2009年3月6日，即第四部推出後不久公佈。其後於同年7月[拍板製作](https://zh.wikipedia.org/wiki/拍板 "wikilink")，並推出故事藍本，於2010年2月27日在日本上映。本作名稱為《**誕生！究極Keroro奇蹟的時空之島！！**》（香港版為**反轉復活島**）。本作與動畫《[超電影版
-SD 鋼彈三國傳 Brave Battle
-Warriors](../Page/超電影版SD高達三國傳～BraveBattleWarriors～.md "wikilink")》共同上映。在日本，本片前两周累计票房达1亿0158万3154日元。\[1\]
+第五部《**超劇場版 Keroro軍曹**》的製作計劃於2009年3月6日，即第四部推出後不久公佈。其後於同年7月[拍板製作](https://zh.wikipedia.org/wiki/拍板 "wikilink")，並推出故事藍本，於2010年2月27日在日本上映。本作名稱為《**誕生！究極Keroro奇蹟的時空之島！！**》（香港版為**反轉復活島**）。本作與動畫《[超電影版 SD 鋼彈三國傳 Brave Battle Warriors](../Page/超電影版SD高達三國傳～BraveBattleWarriors～.md "wikilink")》共同上映。在日本，本片前两周累计票房达1亿0158万3154日元。\[1\]
 
 ## 情節簡介
 
@@ -13,8 +10,7 @@ Warriors](../Page/超電影版SD高達三國傳～BraveBattleWarriors～.md "wik
 
 ## 新登場人物／事物
 
-  - **伊歐與拉娜**（イオ＆ラナ
-    配音：[本城雄太郎イオ](https://zh.wikipedia.org/wiki/本城雄太郎 "wikilink")/[松元環季ラナ](https://zh.wikipedia.org/wiki/松元環季 "wikilink")）
+  - **伊歐與拉娜**（イオ＆ラナ 配音：[本城雄太郎イオ](https://zh.wikipedia.org/wiki/本城雄太郎 "wikilink")/[松元環季ラナ](https://zh.wikipedia.org/wiki/松元環季 "wikilink")）
 
 <!-- end list -->
 
@@ -60,8 +56,7 @@ Warriors](../Page/超電影版SD高達三國傳～BraveBattleWarriors～.md "wik
 
   - 「ケロパック」（主題曲）
       -
-        演唱＆作詞：[平原綾香](../Page/平原綾香.md "wikilink")，作曲：Pyotr Ilyich
-        Tchaikovsky，編曲：[坂本昌之](https://zh.wikipedia.org/wiki/坂本昌之 "wikilink")
+        演唱＆作詞：[平原綾香](../Page/平原綾香.md "wikilink")，作曲：Pyotr Ilyich Tchaikovsky，編曲：[坂本昌之](https://zh.wikipedia.org/wiki/坂本昌之 "wikilink")
   - 「メンドク星（せい）マーチ （片頭曲）」
       -
         演唱：[高田純次](https://zh.wikipedia.org/wiki/高田純次 "wikilink")、[松元環季](https://zh.wikipedia.org/wiki/松元環季 "wikilink")，作詞：[織田佳子](https://zh.wikipedia.org/wiki/織田佳子 "wikilink")，作曲・編曲：ken
@@ -80,12 +75,6 @@ Warriors](../Page/超電影版SD高達三國傳～BraveBattleWarriors～.md "wik
 
   - [《Keroro軍曹》劇場版官方網站](https://web.archive.org/web/20111018185702/http://www.keroro-movie.net/)
 
-[Category:超劇場版_Keroro軍曹](https://zh.wikipedia.org/wiki/Category:超劇場版_Keroro軍曹 "wikilink")
-[Category:2010年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2010年日本劇場動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:孤島背景電影](https://zh.wikipedia.org/wiki/Category:孤島背景電影 "wikilink")
-[Category:大洋洲背景電影](https://zh.wikipedia.org/wiki/Category:大洋洲背景電影 "wikilink")
-[Category:山口晋電影](https://zh.wikipedia.org/wiki/Category:山口晋電影 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:超劇場版_Keroro軍曹](https://zh.wikipedia.org/wiki/Category:超劇場版_Keroro軍曹 "wikilink") [Category:2010年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2010年日本劇場動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:孤島背景電影](https://zh.wikipedia.org/wiki/Category:孤島背景電影 "wikilink") [Category:大洋洲背景電影](https://zh.wikipedia.org/wiki/Category:大洋洲背景電影 "wikilink") [Category:山口晋電影](https://zh.wikipedia.org/wiki/Category:山口晋電影 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.  [剧场版凉宫春日的消失票房过5亿](http://game.21cn.com/comic/overseanews/2010/03/11/7398046.shtml)

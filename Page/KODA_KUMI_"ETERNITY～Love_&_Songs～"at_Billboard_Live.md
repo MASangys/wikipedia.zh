@@ -1,14 +1,9 @@
-《'''KODA KUMI "ETERNITY～Love & Songs～"at Billboard Live》（曠世情歌～Love ＆
-Songs～"at Billboard
-Live）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2011年2月23日發行之8th演唱會DVD。
+《'''KODA KUMI "ETERNITY～Love & Songs～"at Billboard Live》（曠世情歌～Love ＆ Songs～"at Billboard Live）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2011年2月23日發行之8th演唱會DVD。
 
 ## 解說
 
-  - 本DVD收錄於2010年10月在日本[東京與](https://zh.wikipedia.org/wiki/東京 "wikilink")[大阪的](https://zh.wikipedia.org/wiki/大阪 "wikilink")「Billboard
-    Live」舉辦的10週年特別演唱會「KODA KUMI "ETERNITY～Love & Songs～"at Billboard
-    Live」。
-  - 與大規模的Arena巡迴的表演方式有不同風味，因為是「Billboard
-    Live」才能展現出與歌迷親近的溫度感，呈現出倖田來未歌手魅力的舞台演出。
+  - 本DVD收錄於2010年10月在日本[東京與](https://zh.wikipedia.org/wiki/東京 "wikilink")[大阪的](https://zh.wikipedia.org/wiki/大阪 "wikilink")「Billboard Live」舉辦的10週年特別演唱會「KODA KUMI "ETERNITY～Love & Songs～"at Billboard Live」。
+  - 與大規模的Arena巡迴的表演方式有不同風味，因為是「Billboard Live」才能展現出與歌迷親近的溫度感，呈現出倖田來未歌手魅力的舞台演出。
 
 ## 巡迴地點與場次
 

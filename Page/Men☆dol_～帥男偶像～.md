@@ -1,6 +1,4 @@
-《**帥男偶像**》（）是[東京電視台系列的](../Page/東京電視台.md "wikilink")[電視劇24時段](../Page/電視劇24.md "wikilink")（每週[星期五的](https://zh.wikipedia.org/wiki/星期五 "wikilink")24:12
--
-24:53，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）於2008年10月10日開始播放的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由「[no3b](https://zh.wikipedia.org/wiki/no3b "wikilink")」的[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[高橋南](../Page/高橋南.md "wikilink")、[峯岸南主演](../Page/峯岸南.md "wikilink")。
+《**帥男偶像**》（）是[東京電視台](../Page/東京電視台.md "wikilink")系列的[電視劇24](../Page/電視劇24.md "wikilink")時段（每週[星期五的](https://zh.wikipedia.org/wiki/星期五 "wikilink")24:12 - 24:53，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）於2008年10月10日開始播放的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由「[no3b](https://zh.wikipedia.org/wiki/no3b "wikilink")」的[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[高橋南](../Page/高橋南.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")主演。
 
 ## 概要
 
@@ -13,13 +11,13 @@
   - 若松朝日/陸（）：[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")、[no3b](https://zh.wikipedia.org/wiki/no3b "wikilink")）
     以偶像為志願的女高中生。
   - 河内娜美/海（）：[高橋南](../Page/高橋南.md "wikilink")（AKB48、no3b）
-    胜似男子的[便利商店店員](../Page/便利商店.md "wikilink")。
+    胜似男子的[便利商店](../Page/便利商店.md "wikilink")店員。
   - 音羽雛田/空（）：[峯岸南](../Page/峯岸南.md "wikilink")（AKB48、no3b）
     不思議系、喜歡[羅莉塔時裝外觀的女高中生](https://zh.wikipedia.org/wiki/羅莉塔時裝 "wikilink")。天然呆、装纯。
   - Ray（）：[多岐川華子](../Page/多岐川華子.md "wikilink")
     「Monkey制作」所属當紅歌手。自私的性格，迷戀對責罵了自己的海，有時想獨占他。
   - 瑪麗琳（）：[垠凌](../Page/垠凌.md "wikilink")
-    「鴨嘴藝能社」社長秘書。是[女同性戀的](../Page/女同性戀.md "wikilink")[M](https://zh.wikipedia.org/wiki/受虐癖 "wikilink")。常穿[網襪](https://zh.wikipedia.org/wiki/網襪 "wikilink")、性感的衣服。
+    「鴨嘴藝能社」社長秘書。是[女同性戀](../Page/女同性戀.md "wikilink")的[M](https://zh.wikipedia.org/wiki/受虐癖 "wikilink")。常穿[網襪](https://zh.wikipedia.org/wiki/網襪 "wikilink")、性感的衣服。
   - 葉村次郎：[川野直輝](https://zh.wikipedia.org/wiki/川野直輝 "wikilink")
     朝日的青梅竹馬新手攝影師。希望得到[普立茲獎](https://zh.wikipedia.org/wiki/普立茲獎 "wikilink")，與朝日結婚。
   - 美吉克之：[大口兼悟](https://zh.wikipedia.org/wiki/大口兼悟 "wikilink")
@@ -38,7 +36,7 @@
     猿川圭史：太川陽介
     藝能事務所「Monkey制作」社長。年輕的時候是3人組的視覺系樂隊「動物抵觸」的隊長。
   - 黑田：[白龍](https://zh.wikipedia.org/wiki/白龍_\(俳優\) "wikilink")（[友情客串](../Page/友情客串.md "wikilink")）
-    把朝日和娜美作目標的謎之男子。被藏在朝日的皮帶的裏面的[SD卡為目標](../Page/SD卡.md "wikilink")。從意想不到被雛田迷戀，被稱為「クロにゃん」。
+    把朝日和娜美作目標的謎之男子。被藏在朝日的皮帶的裏面的[SD卡](../Page/SD卡.md "wikilink")為目標。從意想不到被雛田迷戀，被稱為「クロにゃん」。
   - 鴨嘴（）冴子：[廣田玲央名](../Page/廣田玲央名.md "wikilink")
     「鴨嘴藝能社」社長。以喬裝朝日她們使帥男偶像團體「假面」出道。經常持著鞭子對朝日等3人和瑪麗琳進行「懲罰」的[S](https://zh.wikipedia.org/wiki/施虐癖 "wikilink")。雖然是巨乳但以前是男子，「動物抵觸」的成員，是「犬山」。
 
@@ -99,9 +97,7 @@
 
 <!-- end list -->
 
-  - [no3b](https://zh.wikipedia.org/wiki/no3b "wikilink")《[Relax\!](../Page/Relax!.md "wikilink")》（[Epic
-    Records Japan
-    Inc.](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")）（最終話中作為片尾曲使用）
+  - [no3b](https://zh.wikipedia.org/wiki/no3b "wikilink")《[Relax\!](../Page/Relax!.md "wikilink")》（[Epic Records Japan Inc.](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")）（最終話中作為片尾曲使用）
 
 <!-- end list -->
 
@@ -109,10 +105,8 @@
 
 <!-- end list -->
 
-  - 假面《[3seconds](https://zh.wikipedia.org/wiki/no3b關聯作品#配信限定 "wikilink")》（Epic
-    Records Japan Inc.）（第1話－第10話、最終話）
-  - 假面《[クリスマスプレゼント](https://zh.wikipedia.org/wiki/no3b關聯作品#配信限定 "wikilink")》（Epic
-    Records Japan Inc.）（第10話－最終話）
+  - 假面《[3seconds](https://zh.wikipedia.org/wiki/no3b關聯作品#配信限定 "wikilink")》（Epic Records Japan Inc.）（第1話－第10話、最終話）
+  - 假面《[クリスマスプレゼント](https://zh.wikipedia.org/wiki/no3b關聯作品#配信限定 "wikilink")》（Epic Records Japan Inc.）（第10話－最終話）
 
 <!-- end list -->
 
@@ -120,8 +114,7 @@
 
 <!-- end list -->
 
-  - [AKB48](../Page/AKB48.md "wikilink")《[大声鑽石](https://zh.wikipedia.org/wiki/大声鑽石 "wikilink")》（[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）（第11話、最終話中作為插入曲使用）
+  - [AKB48](../Page/AKB48.md "wikilink")《[大声鑽石](https://zh.wikipedia.org/wiki/大声鑽石 "wikilink")》（[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）（第11話、最終話中作為插入曲使用）
 
 ## 播放日、副標題
 
@@ -331,12 +324,7 @@
   - [ドラマ24「メン☆ドル〜イケメンアイドル〜」：テレビ東京](http://www.tv-tokyo.co.jp/mendol/)
   - [「メン☆ドル〜イケメンアイドル〜」DVD-BOX](http://www.vap.co.jp/mendol/)
 
-[Category:電視劇24](https://zh.wikipedia.org/wiki/Category:電視劇24 "wikilink")
-[Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink")
-[Category:男裝題材電視劇](https://zh.wikipedia.org/wiki/Category:男裝題材電視劇 "wikilink")
-[Category:偶像題材電視劇](https://zh.wikipedia.org/wiki/Category:偶像題材電視劇 "wikilink")
-[Category:女同性恋相关电视节目](https://zh.wikipedia.org/wiki/Category:女同性恋相关电视节目 "wikilink")
-[Category:日本LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:日本LGBT相關電視節目 "wikilink")
+[Category:電視劇24](https://zh.wikipedia.org/wiki/Category:電視劇24 "wikilink") [Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink") [Category:男裝題材電視劇](https://zh.wikipedia.org/wiki/Category:男裝題材電視劇 "wikilink") [Category:偶像題材電視劇](https://zh.wikipedia.org/wiki/Category:偶像題材電視劇 "wikilink") [Category:女同性恋相关电视节目](https://zh.wikipedia.org/wiki/Category:女同性恋相关电视节目 "wikilink") [Category:日本LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:日本LGBT相關電視節目 "wikilink")
 
 1.  2009年1月2日的播放是年末年始特別節目，暫停播放。
 2.  第一集於25時50分－26時30分播放。

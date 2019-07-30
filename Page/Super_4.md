@@ -1,10 +1,8 @@
-**Super
-4**是[香港一隊](../Page/香港.md "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[劉威煌](../Page/劉威煌.md "wikilink")、[林師傑](https://zh.wikipedia.org/wiki/林師傑 "wikilink")、[許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")、[陳鴻碩四位男生組成](../Page/陳鴻碩.md "wikilink")，於2010年成立，其唱片公司為[正視音樂](https://zh.wikipedia.org/wiki/正視音樂 "wikilink")。
+**Super 4**是[香港](../Page/香港.md "wikilink")一隊[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[劉威煌](../Page/劉威煌.md "wikilink")、[林師傑](https://zh.wikipedia.org/wiki/林師傑 "wikilink")、[許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")、[陳鴻碩](../Page/陳鴻碩.md "wikilink")四位男生組成，於2010年成立，其唱片公司為[正視音樂](https://zh.wikipedia.org/wiki/正視音樂 "wikilink")。
 
 ## 出道歷程
 
-2009年，四人各自參加了[電視廣播有限公司的歌唱節目](../Page/電視廣播有限公司.md "wikilink")《[超級巨聲](../Page/超級巨聲.md "wikilink")》。
-2010年，無綫電視將四人組合為**Super 4**。
+2009年，四人各自參加了[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的歌唱節目《[超級巨聲](../Page/超級巨聲.md "wikilink")》。 2010年，無綫電視將四人組合為**Super 4**。
 
 ## 歌曲
 
@@ -44,7 +42,4 @@
 
 <references/>
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
-[Category:粵語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:粵語流行音樂歌手 "wikilink")
-[Category:華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:華語流行音樂歌手 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:粵語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:粵語流行音樂歌手 "wikilink") [Category:華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:華語流行音樂歌手 "wikilink")

@@ -1,5 +1,4 @@
-《**Love
-Cyndi**》为[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[歌手](../Page/歌手.md "wikilink")[赵咏华的第十六张大碟](https://zh.wikipedia.org/wiki/赵咏华 "wikilink")，亦是其加盟[新力后发行的唯一一张专辑](https://zh.wikipedia.org/wiki/新力BMG "wikilink")\[1\]，于2000年12月27日发行，共有十首曲目，其中有两首赵咏华包办了词曲，咏华也再次担任了五首歌曲的制作工作。这张专辑在赵咏华婚后发行，因此充满着幸福气息。第一主打为《Angel》，第二主打为《明白》，两首歌皆为翻唱。
+《**Love Cyndi**》为[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[歌手](../Page/歌手.md "wikilink")[赵咏华的第十六张大碟](https://zh.wikipedia.org/wiki/赵咏华 "wikilink")，亦是其加盟[新力后发行的唯一一张专辑](https://zh.wikipedia.org/wiki/新力BMG "wikilink")\[1\]，于2000年12月27日发行，共有十首曲目，其中有两首赵咏华包办了词曲，咏华也再次担任了五首歌曲的制作工作。这张专辑在赵咏华婚后发行，因此充满着幸福气息。第一主打为《Angel》，第二主打为《明白》，两首歌皆为翻唱。
 
 ## 文案
 
@@ -30,9 +29,7 @@ Cyndi**》为[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[歌手](.
 
 ## 参考资料
 
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:赵咏华音樂專輯](https://zh.wikipedia.org/wiki/Category:赵咏华音樂專輯 "wikilink")
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
+[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:赵咏华音樂專輯](https://zh.wikipedia.org/wiki/Category:赵咏华音樂專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
 
 1.
 2.

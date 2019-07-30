@@ -1,5 +1,4 @@
-**stereopony**（）是[日本](../Page/日本.md "wikilink")的[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")，原屬於[gr8\!records](https://zh.wikipedia.org/wiki/gr8!records "wikilink")，後屬於[Sony
-Records](https://zh.wikipedia.org/wiki/Sony_Records "wikilink")。在日本簡稱為「」或「」。現已被解散。
+**stereopony**（）是[日本](../Page/日本.md "wikilink")的[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")，原屬於[gr8\!records](https://zh.wikipedia.org/wiki/gr8!records "wikilink")，後屬於[Sony Records](https://zh.wikipedia.org/wiki/Sony_Records "wikilink")。在日本簡稱為「」或「」。現已被解散。
 
 ## 成員
 
@@ -17,17 +16,11 @@ Records](https://zh.wikipedia.org/wiki/Sony_Records "wikilink")。在日本簡�
 
 ### 電視
 
-  - [Music
-    Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")（[朝日電視台](../Page/朝日電視台.md "wikilink")：2009年2月20日、5月1日）
-  - [COUNT DOWN
-    TV](../Page/COUNT_DOWN_TV.md "wikilink")（[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")：2009年2月21日）
-  - [MEZAMASHI
-    TV](https://zh.wikipedia.org/wiki/MEZAMASHI_TV "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")：2009年3月17日）
-  - [MUSIC
-    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")：2009年4月19日）
-  - [スペチャ！](https://zh.wikipedia.org/wiki/スペチャ！ "wikilink")（[Space
-    Shower
-    TV](https://zh.wikipedia.org/wiki/Space_Shower_TV "wikilink")：2009年4月25日）
+  - [Music Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")（[朝日電視台](../Page/朝日電視台.md "wikilink")：2009年2月20日、5月1日）
+  - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")：2009年2月21日）
+  - [MEZAMASHI TV](https://zh.wikipedia.org/wiki/MEZAMASHI_TV "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")：2009年3月17日）
+  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")：2009年4月19日）
+  - [スペチャ！](https://zh.wikipedia.org/wiki/スペチャ！ "wikilink")（[Space Shower TV](https://zh.wikipedia.org/wiki/Space_Shower_TV "wikilink")：2009年4月25日）
 
 ## 唱片
 
@@ -189,9 +182,6 @@ SRCL-7279（通常盤）</p></td>
 
   - [ステレオポニー Official Website](http://www.stereopony.com/)
 
-  - [ステレオポニー
-    blog](https://web.archive.org/web/20110522101900/http://6109.jp/stereopony/)
+  - [ステレオポニー blog](https://web.archive.org/web/20110522101900/http://6109.jp/stereopony/)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")

@@ -1,16 +1,8 @@
-**向日葵组 1st Stage「我的太阳」**（）是由[AKB48的Team](../Page/AKB48.md "wikilink")
-A与Team K混合编成的**向日葵组**的第1台剧场公演。本页内也记述了演出内容基本相同的Team
-4公演和研究生公演，以及[JKT48](../Page/JKT48.md "wikilink")（Team
-KIII、研究生）、[SKE48](../Page/SKE48.md "wikilink")（Team
-E）、[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")（Team
-NII）和[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")（Team
-NIII）的同名公演的相关事项。
+**向日葵组 1st Stage「我的太阳」**（）是由[AKB48](../Page/AKB48.md "wikilink")的Team A与Team K混合编成的**向日葵组**的第1台剧场公演。本页内也记述了演出内容基本相同的Team 4公演和研究生公演，以及[JKT48](../Page/JKT48.md "wikilink")（Team KIII、研究生）、[SKE48](../Page/SKE48.md "wikilink")（Team E）、[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")（Team NII）和[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")（Team NIII）的同名公演的相关事项。
 
 ## 概要
 
-Team A与Team
-K的混编组——向日葵组公演的第一弹。人员采取双轨制，每个位置上选出主成员（1st成员）和副成员（2nd成员），并分别举行公演。本公演也是研究生固定出演的最初公演和Team
-4的第一场公演。
+Team A与Team K的混编组——向日葵组公演的第一弹。人员采取双轨制，每个位置上选出主成员（1st成员）和副成员（2nd成员），并分别举行公演。本公演也是研究生固定出演的最初公演和Team 4的第一场公演。
 
 ## 公演内容
 
@@ -78,7 +70,7 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
 <!-- end list -->
 
   -
-    ※[梅田彩佳因腰伤未出演本公演](../Page/梅田彩佳.md "wikilink")。
+    ※[梅田彩佳](../Page/梅田彩佳.md "wikilink")因腰伤未出演本公演。
 
 <!-- end list -->
 
@@ -111,12 +103,10 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
   - 公演成員
     \*:[阿部玛利亚](../Page/阿部玛利亚.md "wikilink")（）、[市川美織](../Page/市川美織.md "wikilink")、[入山杏奈](../Page/入山杏奈.md "wikilink")、[岩田華怜](../Page/岩田華怜.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、[川荣李奈](https://zh.wikipedia.org/wiki/川荣李奈 "wikilink")、[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[田野優花](../Page/田野優花.md "wikilink")、[永尾玛利亚](https://zh.wikipedia.org/wiki/永尾玛利亚 "wikilink")（）、[仲俣汐里](https://zh.wikipedia.org/wiki/仲俣汐里 "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")
     \*:: ※岩田、加藤、川荣、高橋朱、田野在2012年3月24日从研究生昇格。
-    \*::
-    ※[大場美奈在公演开始时因為謹慎而不參加](../Page/大場美奈.md "wikilink")\[1\]，同公演的出演在2012年1月4日开始参加。\[2\]\[3\]在大場謹慎期間中、大場的代役一般是当時为研究生的川荣。
+    \*:: ※[大場美奈](../Page/大場美奈.md "wikilink")在公演开始时因為謹慎而不參加\[1\]，同公演的出演在2012年1月4日开始参加。\[2\]\[3\]在大場謹慎期間中、大場的代役一般是当時为研究生的川荣。
     \*:: ※公演开始时Team 4的成员只有11名\[4\]、在前述五人升格之前、每次公演都有至少五名研究生出演\[5\]。
     \*:: ※2012年3月18日的公演上，演出成员皆为研究生，而Team 4的成员则没有一人参加\[6\]。
-    \*:: ※由于这是Team 4的第一场公演、而在2012年11月1日开始实施的AKB48新体制中废止了Team
-    4、使得这一公演也成为了元Team 4的唯一一份公演曲目\[7\]。
+    \*:: ※由于这是Team 4的第一场公演、而在2012年11月1日开始实施的AKB48新体制中废止了Team 4、使得这一公演也成为了元Team 4的唯一一份公演曲目\[7\]。
 
 <!-- end list -->
 
@@ -147,8 +137,7 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
             [伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[大島涼花](../Page/大島涼花.md "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、[名取椎菜](https://zh.wikipedia.org/wiki/名取椎菜 "wikilink")、[藤田奈那](../Page/藤田奈那.md "wikilink")、[光宗薫](https://zh.wikipedia.org/wiki/光宗薫 "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")、[森川彩香](../Page/森川彩香.md "wikilink")
               -
                 ※大島涼、光宗、武藤在2012年8月24日被宣布从研究生昇格。光宗在2012年10月24日辞退\[9\]。
-                ※2012年11月1日开始、伊豆田、大島涼、森川成为Team A、藤田、武藤成为Team
-                K、小嶋菜、名取成为Team B的正式成员。
+                ※2012年11月1日开始、伊豆田、大島涼、森川成为Team A、藤田、武藤成为Team K、小嶋菜、名取成为Team B的正式成员。
   - 分组曲主要成员（各曲各位置每次有一人出演）
       - 不要叫我偶像
           - 岡田奈、平田
@@ -174,8 +163,7 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
 
 ## JKT48 研究生公演「我的太阳」
 
-  - [印度尼西亚语的公演名称是](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")「Matahari
-    Milikku」
+  - [印度尼西亚语的公演名称是](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")「Matahari Milikku」
 
 <!-- end list -->
 
@@ -185,11 +173,7 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
 
   - 出演成员（初日成员）
       -
-        Alicia Chanzia、Cindy Yuvia、Della Delila、Intar Putri
-        Kariina、Jennifer Hanna、Jennifer Rachel Natasya、Lidya Maulida
-        Djuhandar、Nadila Cindi Wantari、Natalia、Noella Sisterina、Ratu
-        Vienny Fitrilya、Riskha Fairunissa、Rona Anggreani、Shinta
-        Naomi、Thalia、Viviyona Apriani。
+        Alicia Chanzia、Cindy Yuvia、Della Delila、Intar Putri Kariina、Jennifer Hanna、Jennifer Rachel Natasya、Lidya Maulida Djuhandar、Nadila Cindi Wantari、Natalia、Noella Sisterina、Ratu Vienny Fitrilya、Riskha Fairunissa、Rona Anggreani、Shinta Naomi、Thalia、Viviyona Apriani。
 
 <!-- end list -->
 
@@ -222,11 +206,7 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
 
   - 出演成员（初日成员）
       -
-        Alicia Chanzia、Cindy Yuvia、Della Delila、Dwi Putri Bonita、Intar
-        Putri Kariina、Jennifer Hanna、Lidya Maulida Djuhandar、Nadila
-        Cindi Wantari、Natalia、Noella Sisterina、Ratu Vienny
-        Fitrilya、Riskha Fairunissa、Rona Anggreani、Shinta
-        Naomi、Thalia、Viviyona Apriani,。
+        Alicia Chanzia、Cindy Yuvia、Della Delila、Dwi Putri Bonita、Intar Putri Kariina、Jennifer Hanna、Lidya Maulida Djuhandar、Nadila Cindi Wantari、Natalia、Noella Sisterina、Ratu Vienny Fitrilya、Riskha Fairunissa、Rona Anggreani、Shinta Naomi、Thalia、Viviyona Apriani,。
 
 <!-- end list -->
 
@@ -298,22 +278,17 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
 
 ## AKB48 复活公演「我的太陽」
 
-  - 最初由在相近的日程中不参加[日本环球影城](https://zh.wikipedia.org/wiki/日本环球影城 "wikilink")\[13\]的现场演出与舞台剧《[马路须加学园](https://zh.wikipedia.org/wiki/马路须加学园 "wikilink")》～Lost
-    In The SuperMarket～\[14\]的成员所举行的特别公演。
+  - 最初由在相近的日程中不参加[日本环球影城](https://zh.wikipedia.org/wiki/日本环球影城 "wikilink")\[13\]的现场演出与舞台剧《[马路须加学园](https://zh.wikipedia.org/wiki/马路须加学园 "wikilink")》～Lost In The SuperMarket～\[14\]的成员所举行的特别公演。
   - 公演期間：2016年7月16日\[15\]－
   - 出演成员
-      - Team
-        A：[大家志津香](../Page/大家志津香.md "wikilink")、[大和田南那](../Page/大和田南那.md "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[田北香世子](../Page/田北香世子.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")
-      - Team
-        K：[相笠萌](../Page/相笠萌.md "wikilink")、[阿部玛利亚](../Page/阿部玛利亚.md "wikilink")、[市川愛美](../Page/市川愛美.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[下口绯奈奈](https://zh.wikipedia.org/wiki/下口绯奈奈 "wikilink")（）、[铃木玛莉亚](https://zh.wikipedia.org/wiki/铃木玛莉亚 "wikilink")（）、[中田千智](../Page/中田千智.md "wikilink")（）、[藤田奈那](../Page/藤田奈那.md "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")
-      - Team
-        B：[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[達家真姫宝](https://zh.wikipedia.org/wiki/達家真姫宝 "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[馬嘉伶](../Page/馬嘉伶.md "wikilink")、[横島亚衿](https://zh.wikipedia.org/wiki/横島亚衿 "wikilink")
-      - Team
-        4：[飯野雅](../Page/飯野雅.md "wikilink")、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")、[大川莉央](https://zh.wikipedia.org/wiki/大川莉央 "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[岡田奈奈](https://zh.wikipedia.org/wiki/岡田奈奈 "wikilink")、[北澤早紀](../Page/北澤早紀.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
+      - Team A：[大家志津香](../Page/大家志津香.md "wikilink")、[大和田南那](../Page/大和田南那.md "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[田北香世子](../Page/田北香世子.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")
+      - Team K：[相笠萌](../Page/相笠萌.md "wikilink")、[阿部玛利亚](../Page/阿部玛利亚.md "wikilink")、[市川愛美](../Page/市川愛美.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[下口绯奈奈](https://zh.wikipedia.org/wiki/下口绯奈奈 "wikilink")（）、[铃木玛莉亚](https://zh.wikipedia.org/wiki/铃木玛莉亚 "wikilink")（）、[中田千智](../Page/中田千智.md "wikilink")（）、[藤田奈那](../Page/藤田奈那.md "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")
+      - Team B：[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[達家真姫宝](https://zh.wikipedia.org/wiki/達家真姫宝 "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[馬嘉伶](../Page/馬嘉伶.md "wikilink")、[横島亚衿](https://zh.wikipedia.org/wiki/横島亚衿 "wikilink")
+      - Team 4：[飯野雅](../Page/飯野雅.md "wikilink")、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")、[大川莉央](https://zh.wikipedia.org/wiki/大川莉央 "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[岡田奈奈](https://zh.wikipedia.org/wiki/岡田奈奈 "wikilink")、[北澤早紀](../Page/北澤早紀.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
       - 研究生：[野村奈央](https://zh.wikipedia.org/wiki/野村奈央 "wikilink")、[久保怜音](https://zh.wikipedia.org/wiki/久保怜音 "wikilink")、[高橋希良](https://zh.wikipedia.org/wiki/高橋希良 "wikilink")、[西川怜](https://zh.wikipedia.org/wiki/西川怜 "wikilink")、[山邊步夢](https://zh.wikipedia.org/wiki/山邊步夢 "wikilink")、[千葉惠里](https://zh.wikipedia.org/wiki/千葉惠里 "wikilink")
     <!-- end list -->
       -
-        ※[平田梨奈在](../Page/平田梨奈.md "wikilink")2016年8月24日的本公演中举行了畢業公演。
+        ※[平田梨奈](../Page/平田梨奈.md "wikilink")在2016年8月24日的本公演中举行了畢業公演。
   - 分组曲担当
 
 | 分組曲        | 初日表演者               | 轮换表演者          |
@@ -335,8 +310,7 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
 | 中田千智       | 市川愛美                |                |
 | 梅田綾乃       | 大家志津香               |                |
 
-  - 自第二场公演起，在演出的最后加演了新曲《[光与影的每一天](https://zh.wikipedia.org/wiki/LOVE_TRIP/分享幸福#光与影的每一天 "wikilink")》（至10月16日止），并于11月14日起追加演唱新單曲《[High
-    Tension](../Page/High_Tension.md "wikilink")》。
+  - 自第二场公演起，在演出的最后加演了新曲《[光与影的每一天](https://zh.wikipedia.org/wiki/LOVE_TRIP/分享幸福#光与影的每一天 "wikilink")》（至10月16日止），并于11月14日起追加演唱新單曲《[High Tension](../Page/High_Tension.md "wikilink")》。
 
 ## 劇場公演CD
 
@@ -470,8 +444,7 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
 
 ## 外部链接
 
-  - [向日葵组 1st
-    Stage「我的太阳」公演乐曲（AKB48官网）](https://web.archive.org/web/20110424051139/http://akb48.co.jp/song/01h.html)
+  - [向日葵组 1st Stage「我的太阳」公演乐曲（AKB48官网）](https://web.archive.org/web/20110424051139/http://akb48.co.jp/song/01h.html)
 
 [Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
 

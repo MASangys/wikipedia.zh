@@ -1,16 +1,10 @@
-[Canon_EOS.svg](https://zh.wikipedia.org/wiki/File:Canon_EOS.svg "fig:Canon_EOS.svg")
-**佳能EOS系列**是[佳能](../Page/佳能.md "wikilink")公司於1987年開始推出的一系列[單眼相機及其配套系统](https://zh.wikipedia.org/wiki/單眼相機 "wikilink")。EOS在英文的全稱是“”，也就是**電子光學系統**\[1\]。
+[Canon_EOS.svg](https://zh.wikipedia.org/wiki/File:Canon_EOS.svg "fig:Canon_EOS.svg") **佳能EOS系列**是[佳能](../Page/佳能.md "wikilink")公司於1987年開始推出的一系列[單眼相機及其配套系统](https://zh.wikipedia.org/wiki/單眼相機 "wikilink")。EOS在英文的全稱是“”，也就是**電子光學系統**\[1\]。
 
-第一款EOS是在佳能成立的五十周年当天（1987年3月1日）所推出的EOS
-650\[2\]。后来，數位單眼相機逐步取代了底片單眼相機。2000年，佳能推出的EOS
-D30是佳能EOS系列第一款數位單眼相機。\[3\]
+第一款EOS是在佳能成立的五十周年当天（1987年3月1日）所推出的EOS 650\[2\]。后来，數位單眼相機逐步取代了底片單眼相機。2000年，佳能推出的EOS D30是佳能EOS系列第一款數位單眼相機。\[3\]
 
 ## 机身
 
-佳能于1987年发布了EOS系列的第一款单镜反光相机EOS
-650，当时仍然使用胶片。1990年，佳能与[柯达合作开始研制数码单镜反光相机机身](https://zh.wikipedia.org/wiki/柯达 "wikilink")。1995年两家公司合作推出了第一款数码单镜反光相机EOS
-CS 3。2000年，佳能第一款独立设计和制造的数码单镜反光相机EOS D30发布。\[4\]
-[Canon_CMOS.jpg](https://zh.wikipedia.org/wiki/File:Canon_CMOS.jpg "fig:Canon_CMOS.jpg")
+佳能于1987年发布了EOS系列的第一款单镜反光相机EOS 650，当时仍然使用胶片。1990年，佳能与[柯达合作开始研制数码单镜反光相机机身](https://zh.wikipedia.org/wiki/柯达 "wikilink")。1995年两家公司合作推出了第一款数码单镜反光相机EOS CS 3。2000年，佳能第一款独立设计和制造的数码单镜反光相机EOS D30发布。\[4\] [Canon_CMOS.jpg](https://zh.wikipedia.org/wiki/File:Canon_CMOS.jpg "fig:Canon_CMOS.jpg")
 
 ### 眼控对焦（ECF）
 
@@ -22,14 +16,11 @@ CS 3。2000年，佳能第一款独立设计和制造的数码单镜反光相机
 
 ### 快速控制旋钮
 
-[CanonEOS100Back.JPG](https://zh.wikipedia.org/wiki/File:CanonEOS100Back.JPG "fig:CanonEOS100Back.JPG")
-大多数EOS单镜反光相机都在机背上配备了一个快速控制旋钮。通过大拇指旋转这个旋钮，可以调整许多常用选项，例如光圈、快门、曝光补偿等等。不过有的功能需要在特定模式或者需要其他按钮配合使用。
+[CanonEOS100Back.JPG](https://zh.wikipedia.org/wiki/File:CanonEOS100Back.JPG "fig:CanonEOS100Back.JPG") 大多数EOS单镜反光相机都在机背上配备了一个快速控制旋钮。通过大拇指旋转这个旋钮，可以调整许多常用选项，例如光圈、快门、曝光补偿等等。不过有的功能需要在特定模式或者需要其他按钮配合使用。
 
 ### 多点自动对焦系统
 
-高端的EOS相机（如[佳能 EOS-1D X和](../Page/佳能_EOS-1D_X.md "wikilink")[佳能 EOS 5D
-Mark
-III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对焦](../Page/自动对焦.md "wikilink")点\[6\]，在同类相机里优于高端的[尼康](../Page/尼康.md "wikilink")相机（拥有51个自动对焦点）\[7\]。这样就增加了捕捉到高速运动物体的机会，例如体育摄影、鸟类摄影等。目前，自动对焦系统的性能仍在继续提升。
+高端的EOS相机（如[佳能 EOS-1D X和](../Page/佳能_EOS-1D_X.md "wikilink")[佳能 EOS 5D Mark III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对焦](../Page/自动对焦.md "wikilink")点\[6\]，在同类相机里优于高端的[尼康](../Page/尼康.md "wikilink")相机（拥有51个自动对焦点）\[7\]。这样就增加了捕捉到高速运动物体的机会，例如体育摄影、鸟类摄影等。目前，自动对焦系统的性能仍在继续提升。
 
 有时，过多的自动对焦点会影响使用者对于被摄主体的对焦。因此，EOS相机允许使用者选择其中的一个来对焦。
 
@@ -811,8 +802,7 @@ EOS系列自动对焦马达均设置在镜头内部，而镜身内亦有做其�
 
 ### 超声波马达（USM）
 
-目前，许多佳能镜头具有超声波马达（），在对焦时可以更安静、快速\[9\]。同时也在远摄定焦、超远摄变焦镜头上提供电动对焦（PF,Power
-Focus）功能实现在短片拍摄中转动对焦调出环来依靠电力以一定速度平滑移动合焦位置。
+目前，许多佳能镜头具有超声波马达（），在对焦时可以更安静、快速\[9\]。同时也在远摄定焦、超远摄变焦镜头上提供电动对焦（PF,Power Focus）功能实现在短片拍摄中转动对焦调出环来依靠电力以一定速度平滑移动合焦位置。
 
 早在胶片相机年代，佳能首創的超聲波馬達（）鏡頭經已聞名遐邇。USM帶來的好處就是對焦又快又寧靜，鏡頭對焦時內機件發出的聲響，真的能做到非常低。佳能EF鏡頭內置的超声波马达，顧名思義是由超聲波的振動力驅動，配合佳能EOS系列相机的自動對焦系統，从而發揮快速、精確和接近無聲的自動對焦操作。所以大家看到很多體育攝影記者採用的，都是佳能EOS系列相機與EF鏡頭的組合\[10\]\[11\]\[12\]\[13\]。
 
@@ -826,8 +816,7 @@ Focus）功能实现在短片拍摄中转动对焦调出环来依靠电力以一
 
 ### 全时手动对焦
 
-全时手动对焦是指镜头能同时使用自动对焦和手动对焦。这个功能使处于自动对焦状态时进行手动对焦不会损坏自动对焦马达。佳能EF接环镜头中，配有环形USM（超声波马达）的所有EF镜头以及配有微型USM的佳能EF
-50mm f/1.4 USM镜头具有全时手动对焦的特性。另外，配有步进马达和电子手动对焦环的入门级镜头也可基本支持全时手动对焦。\[14\]
+全时手动对焦是指镜头能同时使用自动对焦和手动对焦。这个功能使处于自动对焦状态时进行手动对焦不会损坏自动对焦马达。佳能EF接环镜头中，配有环形USM（超声波马达）的所有EF镜头以及配有微型USM的佳能EF 50mm f/1.4 USM镜头具有全时手动对焦的特性。另外，配有步进马达和电子手动对焦环的入门级镜头也可基本支持全时手动对焦。\[14\]
 
 ### 佳能镜头的命名
 
@@ -849,24 +838,13 @@ Focus）功能实现在短片拍摄中转动对焦调出环来依靠电力以一
   - 标有“**IS**”的镜头配有光学影像穩定器。（全称“**I**mage **S**tabilizer”）
   - 标有“**DO**”的镜头为衍射光学元件的镜头，相同焦段的情况下具有较小的体积，便于携带。外观特点是镜头前端有一环绿圈。
 
-Image:Canon-14mm MG 2029.jpg|佳能EF 14mm 2.8L镜头 Image:Canon TS-E24mm
-F3.5L.jpg|佳能TS-E 24mm 3.5L镜头 Image:35L.jpg|Canon EF 35mm镜头|佳能EF 35mm
-1.4L镜头 Image:lens Canon EF 50mm f1.4.jpg|佳能EF 50mm 1.4镜头
-Image:85L.jpg|Canon EF 85mm镜头|佳能EF 85mm 1.2L镜头 Image:Canon 100mm macro
-MG 1959.JPG|佳能EF 100mm 2.8 macro镜头 Image:Canon EF 135mm f2L.jpg|佳能EF
-135mm 2L镜头 Image:Canon 400mm f28 img 1243.jpg|佳能EF 400mm 2.8L镜头
-Image:Canon 16-35 L IMG 0157.JPG|佳能EF 16-35 2.8L镜头 Image:Canon 24-70 mm
-F2.8 lens side at 70 mm.jpg|佳能EF 24-70 2.8L镜头 Image:Canon EF 70-200mm
-f2.8 L IS USM.jpg|佳能EF 70-200mm 2.8L IS USM II镜头 Image:Canon 70-300 DO
-MG 2020.jpg|佳能EF 70-300mm 4.5-5.6 IS DO镜头
+Image:Canon-14mm MG 2029.jpg|佳能EF 14mm 2.8L镜头 Image:Canon TS-E24mm F3.5L.jpg|佳能TS-E 24mm 3.5L镜头 Image:35L.jpg|Canon EF 35mm镜头|佳能EF 35mm 1.4L镜头 Image:lens Canon EF 50mm f1.4.jpg|佳能EF 50mm 1.4镜头 Image:85L.jpg|Canon EF 85mm镜头|佳能EF 85mm 1.2L镜头 Image:Canon 100mm macro MG 1959.JPG|佳能EF 100mm 2.8 macro镜头 Image:Canon EF 135mm f2L.jpg|佳能EF 135mm 2L镜头 Image:Canon 400mm f28 img 1243.jpg|佳能EF 400mm 2.8L镜头 Image:Canon 16-35 L IMG 0157.JPG|佳能EF 16-35 2.8L镜头 Image:Canon 24-70 mm F2.8 lens side at 70 mm.jpg|佳能EF 24-70 2.8L镜头 Image:Canon EF 70-200mm f2.8 L IS USM.jpg|佳能EF 70-200mm 2.8L IS USM II镜头 Image:Canon 70-300 DO MG 2020.jpg|佳能EF 70-300mm 4.5-5.6 IS DO镜头
 
 ## 闪光系统
 
-EOS闪光系统先后经历A-[TTL](https://zh.wikipedia.org/wiki/镜后测光 "wikilink")、E-TTL系统。E-TTL系统使用了预闪光来帮助自动对焦系统为拍摄对象进行提前测光。E-TTL
-II系统是E-TTL的固件增强版本，于2004年开始逐步代替了E-TTL。\[18\]
+EOS闪光系统先后经历A-[TTL](https://zh.wikipedia.org/wiki/镜后测光 "wikilink")、E-TTL系统。E-TTL系统使用了预闪光来帮助自动对焦系统为拍摄对象进行提前测光。E-TTL II系统是E-TTL的固件增强版本，于2004年开始逐步代替了E-TTL。\[18\]
 
-Image:Canon Speedlite 550EX flash.jpg|Speedlite 550EX Image:Canon
-speedlite 430ex.jpg|Speedlite 430EX
+Image:Canon Speedlite 550EX flash.jpg|Speedlite 550EX Image:Canon speedlite 430ex.jpg|Speedlite 430EX
 
 ## 广告宣传
 
@@ -888,9 +866,7 @@ speedlite 430ex.jpg|Speedlite 430EX
 ## 外部連結
 
   -
-[Category:数码单反相机](https://zh.wikipedia.org/wiki/Category:数码单反相机 "wikilink")
-[Category:單鏡反光相機](https://zh.wikipedia.org/wiki/Category:單鏡反光相機 "wikilink")
-[Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")
+[Category:数码单反相机](https://zh.wikipedia.org/wiki/Category:数码单反相机 "wikilink") [Category:單鏡反光相機](https://zh.wikipedia.org/wiki/Category:單鏡反光相機 "wikilink") [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")
 
 1.
 

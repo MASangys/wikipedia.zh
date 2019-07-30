@@ -6,8 +6,7 @@ Google日文输入法使用的[辞典是在](https://zh.wikipedia.org/wiki/辞�
 
 2010年2月17日开始，为了测试新功能并尽早发现bug，Google日语输入法开发团队发布了开发版（alpha版）；但开发团队表示从安全性的角度考虑，推荐大家日常使用正式版\[5\]。
 
-2010年5月11日，[Google Chrome
-OS中所必要的程序核心部分以](https://zh.wikipedia.org/wiki/Google_Chrome_OS "wikilink")「mozc」这一名称开放源代码，源代码以[三项BSD释出](../Page/BSD许可证.md "wikilink")。\[6\]
+2010年5月11日，[Google Chrome OS中所必要的程序核心部分以](https://zh.wikipedia.org/wiki/Google_Chrome_OS "wikilink")「mozc」这一名称开放源代码，源代码以[三项BSD释出](../Page/BSD许可证.md "wikilink")。\[6\]
 
 2011年12月15日，开发小组发布针对Android平台的Beta版\[7\]。2013年4月4日，Android系统的谷歌日文输入法正式版发布\[8\]。
 
@@ -27,8 +26,7 @@ Google日文输入法在输入专有名词和人名时比较方便。\[9\]另外
 
 ## 隱私安全
 
-2013年末（NISC）指[百度](https://zh.wikipedia.org/wiki/百度日語輸入法 "wikilink")、谷歌等輸入法会將信息在用户不知情的情况下上传，而建議各機關用戶避免使用。\[13\]
-2014年初，日本內閣官房情報資訊安全中心在其官方網站上僅僅提示隱私流失的危險性，未直接指出何種輸入法。\[14\]
+2013年末（NISC）指[百度](https://zh.wikipedia.org/wiki/百度日語輸入法 "wikilink")、谷歌等輸入法会將信息在用户不知情的情况下上传，而建議各機關用戶避免使用。\[13\] 2014年初，日本內閣官房情報資訊安全中心在其官方網站上僅僅提示隱私流失的危險性，未直接指出何種輸入法。\[14\]
 
 ## 更新记录
 
@@ -39,24 +37,19 @@ Google日文输入法在输入专有名词和人名时比较方便。\[9\]另外
       - 3月19日 - 学习算法的改善，根据输入历史所作的推荐选项的改善等\[18\]（0.10.288.x）。
       - 6月25日 - 转换算法的改善，输入辅助功能的改善，优化性能等\[19\]（0.11.382.x）。
       - 8月13日 - 符号辞典的扩充，罗马字拼写检查功能可用性的提高等\[20\]（0.12.434.x）。
-      - 11月17日 -
-        导入拼写检查功能，辞典的扩充，词语推荐选项的改善，修bug等\[21\]（Win：0.13.521.0；Mac：0.13.537.1）。
+      - 11月17日 - 导入拼写检查功能，辞典的扩充，词语推荐选项的改善，修bug等\[21\]（Win：0.13.521.0；Mac：0.13.537.1）。
       - 12月3日 - 增加計算功能，对顔文字変換的扩展，屏蔽Windows中IME切换等\[22\]（0.14.541.x）。
       - 12月16日 - 正式版公開\[23\]（1.0.556.x）。
   - 2011年
       - 2月28日 - 增加实时转换功能、自造词工具等\[24\]（1.1.626.10x）。
-      - 7月21日 -
-        调整再转换功能、取消确定的功能，增加[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")→实际文字转换、输入板和手写板等\[25\]（1.1.770.x）。
-      - 9月30日 -
-        导入罗马字输入的拼写检查，增加邮政编码的转换结果，显示同音异意词的意思和用法等\[26\]（1.2.825.x）。
+      - 7月21日 - 调整再转换功能、取消确定的功能，增加[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")→实际文字转换、输入板和手写板等\[25\]（1.1.770.x）。
+      - 9月30日 - 导入罗马字输入的拼写检查，增加邮政编码的转换结果，显示同音异意词的意思和用法等\[26\]（1.2.825.x）。
       - 12月15日 - 发布Android系统的谷歌日文输入法Beta版\[27\]。
   - 2012年
       - 4月16日 - 增加“コマンド”功能等\[28\]（1.4.1031.x）。
-      - 6月22日 -
-        增加误读修正功能，增加[Unicode与文字间互转功能等](https://zh.wikipedia.org/wiki/Unicode "wikilink")\[29\](1.5.1109.x)。
+      - 6月22日 - 增加误读修正功能，增加[Unicode与文字间互转功能等](https://zh.wikipedia.org/wiki/Unicode "wikilink")\[29\](1.5.1109.x)。
       - 11月5日 - 辞典内容的更新，转换速度的加快\[30\](1.6.1221.x)。
-      - 12月4日 - 兼容[Windows
-        8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")\[31\](1.7.1227.x)。
+      - 12月4日 - 兼容[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")\[31\](1.7.1227.x)。
   - 2013年
       - 4月4日 - Android系统的谷歌日文输入法正式版发布\[32\]。
       - 7月2日 - 增加词语联想功能，云同步信息上传、删除方法变更。\[33\](1.11.1490.10x)。
@@ -69,17 +62,13 @@ Google日文输入法在输入专有名词和人名时比较方便。\[9\]另外
 
   - [Google日文输入法](http://www.google.com/intl/ja/ime/)
   - [漫画Google日语输入法](http://www.google.co.jp/ime/comic/)
-  - [怎么想，怎么输 - Google
-    日文输入法](http://googlejapan.blogspot.com/2009/12/google_03.html)
-    - Google Japan Blog
+  - [怎么想，怎么输 - Google 日文输入法](http://googlejapan.blogspot.com/2009/12/google_03.html) - Google Japan Blog
   - [64bit对应版Google日文输入法发布](http://googlejapan.blogspot.com/2009/12/64-google.html)
-  - [Mozc Project
-    Page](http://code.google.com/p/mozc/)（开放源代码版Google日语输入法工程页面）
+  - [Mozc Project Page](http://code.google.com/p/mozc/)（开放源代码版Google日语输入法工程页面）
 
 {{-}}
 
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:日文輸入法](https://zh.wikipedia.org/wiki/Category:日文輸入法 "wikilink")
+[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:日文輸入法](https://zh.wikipedia.org/wiki/Category:日文輸入法 "wikilink")
 
 1.
 

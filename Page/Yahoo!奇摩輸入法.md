@@ -10,17 +10,14 @@ Yahoo\!奇摩輸入法目前最新版本是1.1.2535，以下是历经发布的�
 | 1.0 正式版   | 第一个正式版本。                                                         |
 | 1.0.2207  | 修正在較早電玩遊戲無法打字的相容性問題。                                             |
 | 1.0.2251  | 支援[Windows7](https://zh.wikipedia.org/wiki/Windows7 "wikilink")。 |
-| 1.1.2408  | 加強與[Google應用程式的相容性](../Page/Google.md "wikilink")。               |
+| 1.1.2408  | 加強與[Google](../Page/Google.md "wikilink")應用程式的相容性。               |
 | 1.1.2462  | 修正「邊打字邊組字」模式的部份問題。                                               |
 | 1.1.2470  | 修正在使用部分軟體切換至英文模式後，有時無法移動游標的問題。                                   |
 | 1.1.2487  | 加強與[Google Chrome的相容性](../Page/Google_Chrome.md "wikilink")。     |
 
 ## 系统需求
 
-  - [Windows XP](../Page/Windows_XP.md "wikilink") / [Windows
-    Vista](../Page/Windows_Vista.md "wikilink") / [Windows
-    7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink") (32/64-bit
-    editions)
+  - [Windows XP](../Page/Windows_XP.md "wikilink") / [Windows Vista](../Page/Windows_Vista.md "wikilink") / [Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink") (32/64-bit editions)
   - Microsoft.NET Framework 2.0版本以上
   - 256MB [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")
 
@@ -30,8 +27,7 @@ Yahoo\!奇摩輸入法目前最新版本是1.1.2535，以下是历经发布的�
 
   - [yahoo/KeyKey GitHub 程式原始碼](https://github.com/yahoo/keykey)
 
-[Category:注音輸入法](https://zh.wikipedia.org/wiki/Category:注音輸入法 "wikilink")
-[Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink")
+[Category:注音輸入法](https://zh.wikipedia.org/wiki/Category:注音輸入法 "wikilink") [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink")
 
 1.
 2.

@@ -1,7 +1,6 @@
-**大学先修课程统计学** (**AP统计学**, **AP Stat**或**AP Stats**)
-是[美国大学理事会为高中生准备的](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[大学先修课程中的](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")[统计学科目](../Page/统计学.md "wikilink")。该课程等同于大学入门[统计学](../Page/统计学.md "wikilink")，时长一学期，无需[微积分基础](https://zh.wikipedia.org/wiki/微积分 "wikilink")。本课程一般来说面向高中第三年（11年级）、第四年（12年级）学生，为他们提供选修。
+**大学先修课程统计学** (**AP统计学**, **AP Stat**或**AP Stats**) 是[美国大学理事会为高中生准备的](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[大学先修课程中的](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")[统计学](../Page/统计学.md "wikilink")科目。该课程等同于大学入门[统计学](../Page/统计学.md "wikilink")，时长一学期，无需[微积分基础](https://zh.wikipedia.org/wiki/微积分 "wikilink")。本课程一般来说面向高中第三年（11年级）、第四年（12年级）学生，为他们提供选修。
 
-根据[美国大学理事会的最新补充消息](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")\[1\]，AP数学之前只有[AP微积分AB和BC两门](../Page/AP微积分.md "wikilink")，\[2\]作为对数学科目的补充，AP统计学在1996年5月第一次开考。在美国，AP统计学的选修人数大幅提升，超过了其它所有的AP科目。\[3\]
+根据[美国大学理事会的最新补充消息](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")\[1\]，AP数学之前只有[AP微积分](../Page/AP微积分.md "wikilink")AB和BC两门，\[2\]作为对数学科目的补充，AP统计学在1996年5月第一次开考。在美国，AP统计学的选修人数大幅提升，超过了其它所有的AP科目。\[3\]
 
 学生如果参加五月份为期3小时的考试并顺利通过，就可能换取大学学分，获得更高阶课程的选修机会。考试包括[选择题和](https://zh.wikipedia.org/wiki/选择题 "wikilink")[申论题两部分](https://zh.wikipedia.org/wiki/申论题 "wikilink")，时长都是90分钟。两部分在总成绩中计分比例相同。
 
@@ -27,7 +26,7 @@
 
 参考人数
 
-[大学先修课程为高中生提供大学课程的先修机会](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。1997年5月，[美国大学理事会与](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[美国教育考试服务中心一道提供了第一份AP统计学考试](../Page/美国教育考试服务中心.md "wikilink")。\[18\]本课程于1996-1997学年第一次向高中生授课。\[19\]在此之前，[大学先修课程数学科目只有](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")[AP微积分AB与BC](../Page/AP微积分.md "wikilink")。没有足够数学基础的学生发现[AP微积分门槛太高](../Page/AP微积分.md "wikilink")，以至于他们在第四年无法选修数学课程。由于大学里选修[统计学的学生人数与选修](../Page/统计学.md "wikilink")[微积分的人数大致相同](https://zh.wikipedia.org/wiki/微积分 "wikilink")，[美国大学理事会决定将](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[统计学入门加入](../Page/统计学.md "wikilink")[大学先修课程计划中](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。统计学所需的数学基础大致不超过高中第二年教授的[代数课程](../Page/代数.md "wikilink")，这使得AP数学的可选范围被大大扩展。由于大学[专业越来越多地使用](https://zh.wikipedia.org/wiki/专业 "wikilink")[统计学](../Page/统计学.md "wikilink")，AP统计学因此更加注重应用。\[20\]有7,667名考生参加了第一次考试，使得AP统计学成为所有科目中首场考试人数最多的一门。\[21\]自此，参考人数到2007年激增至98,033人次，AP统计学因此成为[大学先修课程第十大科目](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。\[22\]
+[大学先修课程为高中生提供大学课程的先修机会](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。1997年5月，[美国大学理事会与](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[美国教育考试服务中心](../Page/美国教育考试服务中心.md "wikilink")一道提供了第一份AP统计学考试。\[18\]本课程于1996-1997学年第一次向高中生授课。\[19\]在此之前，[大学先修课程数学科目只有](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")[AP微积分](../Page/AP微积分.md "wikilink")AB与BC。没有足够数学基础的学生发现[AP微积分](../Page/AP微积分.md "wikilink")门槛太高，以至于他们在第四年无法选修数学课程。由于大学里选修[统计学](../Page/统计学.md "wikilink")的学生人数与选修[微积分的人数大致相同](https://zh.wikipedia.org/wiki/微积分 "wikilink")，[美国大学理事会决定将](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[统计学](../Page/统计学.md "wikilink")入门加入[大学先修课程计划中](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。统计学所需的数学基础大致不超过高中第二年教授的[代数](../Page/代数.md "wikilink")课程，这使得AP数学的可选范围被大大扩展。由于大学[专业越来越多地使用](https://zh.wikipedia.org/wiki/专业 "wikilink")[统计学](../Page/统计学.md "wikilink")，AP统计学因此更加注重应用。\[20\]有7,667名考生参加了第一次考试，使得AP统计学成为所有科目中首场考试人数最多的一门。\[21\]自此，参考人数到2007年激增至98,033人次，AP统计学因此成为[大学先修课程第十大科目](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。\[22\]
 
 ## 课程
 
@@ -37,16 +36,15 @@
 
 ### 大纲
 
-[Black_cherry_tree_histogram.svg](https://zh.wikipedia.org/wiki/File:Black_cherry_tree_histogram.svg "fig:Black_cherry_tree_histogram.svg")，分析其性质，包括[中位数](https://zh.wikipedia.org/wiki/中位数 "wikilink")，统计离差，离群值，簇，间隙等\[27\]\]\]
-课程重点不在于具体数学计算，而是对概念理解与解释。\[28\]课程大纲分为四大部分：第一部分为数据分析，占考试的\[29\]20–30%。学生应该使用绘图计算器来分析数据分布，包括单变量、双变量数据，和分类数据。\[30\]第二部分包括[试验设计占考试的](https://zh.wikipedia.org/wiki/试验设计 "wikilink")10–15%。学生必须学会通过[抽樣或](../Page/抽樣.md "wikilink")[实验来进行数据收集](https://zh.wikipedia.org/wiki/实验 "wikilink")，并从中得出结论。\[31\]第三部分为[概率论](https://zh.wikipedia.org/wiki/概率论 "wikilink")，包括预测数据分布。该部分占考试的20–30%。\[32\]第四部分占考试的30–40%，包括基于点估算的[推論統計學](../Page/推論統計學.md "wikilink")、[置信区间](../Page/置信区间.md "wikilink")、[显著性差异等](../Page/显著性差异.md "wikilink")。\[33\]
+[Black_cherry_tree_histogram.svg](https://zh.wikipedia.org/wiki/File:Black_cherry_tree_histogram.svg "fig:Black_cherry_tree_histogram.svg")，分析其性质，包括[中位数](https://zh.wikipedia.org/wiki/中位数 "wikilink")，统计离差，离群值，簇，间隙等\[27\]\]\] 课程重点不在于具体数学计算，而是对概念理解与解释。\[28\]课程大纲分为四大部分：第一部分为数据分析，占考试的\[29\]20–30%。学生应该使用绘图计算器来分析数据分布，包括单变量、双变量数据，和分类数据。\[30\]第二部分包括[试验设计占考试的](https://zh.wikipedia.org/wiki/试验设计 "wikilink")10–15%。学生必须学会通过[抽樣](../Page/抽樣.md "wikilink")或[实验来进行数据收集](https://zh.wikipedia.org/wiki/实验 "wikilink")，并从中得出结论。\[31\]第三部分为[概率论](https://zh.wikipedia.org/wiki/概率论 "wikilink")，包括预测数据分布。该部分占考试的20–30%。\[32\]第四部分占考试的30–40%，包括基于点估算的[推論統計學](../Page/推論統計學.md "wikilink")、[置信区间](../Page/置信区间.md "wikilink")、[显著性差异](../Page/显著性差异.md "wikilink")等。\[33\]
 
 ## 考试
 
-类似其它课程，AP统计学是有AP统计学考试设计委员会制定的。在大学教授们的帮助下，委员会提出了大量的问题，并向选修统计学的大学生们广泛咨询意见。考试也据此修改到合适的难度和深度。\[34\]在此之后，[美国教育考试服务中心负责印刷试卷](../Page/美国教育考试服务中心.md "wikilink")，执行监考。\[35\]
+类似其它课程，AP统计学是有AP统计学考试设计委员会制定的。在大学教授们的帮助下，委员会提出了大量的问题，并向选修统计学的大学生们广泛咨询意见。考试也据此修改到合适的难度和深度。\[34\]在此之后，[美国教育考试服务中心](../Page/美国教育考试服务中心.md "wikilink")负责印刷试卷，执行监考。\[35\]
 
 ### 结构
 
-考试在每年的5月举行。\[36\]学生不必死记公式，考场会提供一个有关[描述统计学](../Page/描述统计学.md "wikilink")、[概率论](https://zh.wikipedia.org/wiki/概率论 "wikilink")、[推论统计学的列表](https://zh.wikipedia.org/wiki/推论统计学 "wikilink")。列表进一步给出了[正态分布](../Page/正态分布.md "wikilink")、[学生t-分布](../Page/学生t-分布.md "wikilink")、[卡方分佈等参考资料](../Page/卡方分佈.md "wikilink")。\[37\]考试时，学生应使用具有统计功能的绘图计算器来完成题目。\[38\]考试为期三小时，[选择题和](https://zh.wikipedia.org/wiki/选择题 "wikilink")[申论题两部分各为](https://zh.wikipedia.org/wiki/申论题 "wikilink")90分钟。\[39\][选择题部分为](https://zh.wikipedia.org/wiki/选择题 "wikilink")40道题，每题有5个选项。\[40\][申论题部分为](https://zh.wikipedia.org/wiki/申论题 "wikilink")6道开放问题，题目很长，分为几道小题。\[41\]前五道题可能需要12分钟来完成，一般对应某一章节或项目。第六大题为大尺度研究项目，可能需要25分钟来完成作答。\[42\]
+考试在每年的5月举行。\[36\]学生不必死记公式，考场会提供一个有关[描述统计学](../Page/描述统计学.md "wikilink")、[概率论](https://zh.wikipedia.org/wiki/概率论 "wikilink")、[推论统计学的列表](https://zh.wikipedia.org/wiki/推论统计学 "wikilink")。列表进一步给出了[正态分布](../Page/正态分布.md "wikilink")、[学生t-分布](../Page/学生t-分布.md "wikilink")、[卡方分佈](../Page/卡方分佈.md "wikilink")等参考资料。\[37\]考试时，学生应使用具有统计功能的绘图计算器来完成题目。\[38\]考试为期三小时，[选择题和](https://zh.wikipedia.org/wiki/选择题 "wikilink")[申论题两部分各为](https://zh.wikipedia.org/wiki/申论题 "wikilink")90分钟。\[39\][选择题部分为](https://zh.wikipedia.org/wiki/选择题 "wikilink")40道题，每题有5个选项。\[40\][申论题部分为](https://zh.wikipedia.org/wiki/申论题 "wikilink")6道开放问题，题目很长，分为几道小题。\[41\]前五道题可能需要12分钟来完成，一般对应某一章节或项目。第六大题为大尺度研究项目，可能需要25分钟来完成作答。\[42\]
 
 ### 计分
 
@@ -223,10 +221,7 @@
   -
   -
   -
-[Category:美国大学](https://zh.wikipedia.org/wiki/Category:美国大学 "wikilink")
-[Category:大學先修課程](https://zh.wikipedia.org/wiki/Category:大學先修課程 "wikilink")
-[Category:考试](https://zh.wikipedia.org/wiki/Category:考试 "wikilink")
-[Category:统计学](https://zh.wikipedia.org/wiki/Category:统计学 "wikilink")
+[Category:美国大学](https://zh.wikipedia.org/wiki/Category:美国大学 "wikilink") [Category:大學先修課程](https://zh.wikipedia.org/wiki/Category:大學先修課程 "wikilink") [Category:考试](https://zh.wikipedia.org/wiki/Category:考试 "wikilink") [Category:统计学](https://zh.wikipedia.org/wiki/Category:统计学 "wikilink")
 
 1.  Mulekar (2004), p. 4
 

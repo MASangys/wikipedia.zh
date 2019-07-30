@@ -1,13 +1,12 @@
 **[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")**已成功達成許多**[LGBT權益](https://zh.wikipedia.org/wiki/LGBT法律 "wikilink")**的里程碑，其中包括同性[婚姻與](https://zh.wikipedia.org/wiki/冰島同性婚姻 "wikilink")[領養的合法化](https://zh.wikipedia.org/wiki/冰島同性領養 "wikilink")。
 
-2009年2月，由[約翰娜·西-{于}-爾扎多蒂](../Page/约翰娜·西于尔扎多蒂.md "wikilink")（[現代史上首位公開](../Page/現代史.md "wikilink")[同性戀身分的](../Page/同性戀.md "wikilink")[政府首長](https://zh.wikipedia.org/wiki/政府首腦 "wikilink")）領導的少數黨政府上任，推動修訂婚姻法。2010年6月11日，國會重新定義婚姻為「兩個人之間的結合」，從而使同性婚姻合法化。法律於2010年6月27日生效\[1\]；西-{于}-爾扎多蒂也旋即和其同性伴侶提出將[民事結合轉化為婚姻的要求](../Page/民事結合.md "wikilink")，正式結合\[2\]\[3\]。
+2009年2月，由[約翰娜·西-{于}-爾扎多蒂](../Page/约翰娜·西于尔扎多蒂.md "wikilink")（[現代史](../Page/現代史.md "wikilink")上首位公開[同性戀](../Page/同性戀.md "wikilink")身分的[政府首長](https://zh.wikipedia.org/wiki/政府首腦 "wikilink")）領導的少數黨政府上任，推動修訂婚姻法。2010年6月11日，國會重新定義婚姻為「兩個人之間的結合」，從而使同性婚姻合法化。法律於2010年6月27日生效\[1\]；西-{于}-爾扎多蒂也旋即和其同性伴侶提出將[民事結合](../Page/民事結合.md "wikilink")轉化為婚姻的要求，正式結合\[2\]\[3\]。
 
 ## 法律
 
 ### 同性性行為
 
-同性性行為已於1940年[除罪化](https://zh.wikipedia.org/wiki/除罪化 "wikilink")。1992年，國會通過法律訂定[同意年齡為](https://zh.wikipedia.org/wiki/同意年齡 "wikilink")14歲\[4\]。
-2007年限制升到15歲，無關性別。
+同性性行為已於1940年[除罪化](https://zh.wikipedia.org/wiki/除罪化 "wikilink")。1992年，國會通過法律訂定[同意年齡為](https://zh.wikipedia.org/wiki/同意年齡 "wikilink")14歲\[4\]。 2007年限制升到15歲，無關性別。
 
 ### 同性結合
 
@@ -19,8 +18,7 @@
 
 ## 生活環境
 
-[2004-GayPrideIceland-banner.jpg](https://zh.wikipedia.org/wiki/File:2004-GayPrideIceland-banner.jpg "fig:2004-GayPrideIceland-banner.jpg")
-冰島人口雖少，但[同性戀社群十分活躍](https://zh.wikipedia.org/wiki/同性戀社群 "wikilink")，尤其以[雷克雅維克最盛](../Page/雷克雅維克.md "wikilink")：當地有許多同性酒吧和咖啡館\[9\]，每年約八月時舉行[同志驕傲遊行](https://zh.wikipedia.org/wiki/同性戀自豪日 "wikilink")\[10\]。
+[2004-GayPrideIceland-banner.jpg](https://zh.wikipedia.org/wiki/File:2004-GayPrideIceland-banner.jpg "fig:2004-GayPrideIceland-banner.jpg") 冰島人口雖少，但[同性戀社群十分活躍](https://zh.wikipedia.org/wiki/同性戀社群 "wikilink")，尤其以[雷克雅維克](../Page/雷克雅維克.md "wikilink")最盛：當地有許多同性酒吧和咖啡館\[9\]，每年約八月時舉行[同志驕傲遊行](https://zh.wikipedia.org/wiki/同性戀自豪日 "wikilink")\[10\]。
 
 ## 概要
 
@@ -48,17 +46,13 @@
 
 [Category:冰島LGBT權益](https://zh.wikipedia.org/wiki/Category:冰島LGBT權益 "wikilink")
 
-1.  [Iceland parliament votes for gay
-    marriage](http://www.icenews.is/index.php/2010/06/11/iceland-parliament-votes-for-gay-marriage/)
+1.  [Iceland parliament votes for gay marriage](http://www.icenews.is/index.php/2010/06/11/iceland-parliament-votes-for-gay-marriage/)
 
 2.  季平（撰稿、編輯），[冰島女總理與同性伴侶正式結婚](http://news.rti.org.tw/index_newsContent.aspx?nid=248050)，中央廣播電台，2010年6月28日，新聞引據：採訪、法新社。2011年1月16日查閱。
 
-3.  蔡佳慧，[首見
-    冰島女總理與女友完婚](http://tw.nextmedia.com/applenews/article/art_id/32622297/IssueID/20100629)，蘋果日報，2010年6月29日。2011年1月16日查閱。
+3.  蔡佳慧，[首見 冰島女總理與女友完婚](http://tw.nextmedia.com/applenews/article/art_id/32622297/IssueID/20100629)，蘋果日報，2010年6月29日。2011年1月16日查閱。
 
-4.  [Homosexuality and the Law - Fragments of Icelandic
-    History](http://www.gaypride.is/Index/English/AboutReykjavikGayPride/HomosexualityLaw/)
-
+4.  [Homosexuality and the Law - Fragments of Icelandic History](http://www.gaypride.is/Index/English/AboutReykjavikGayPride/HomosexualityLaw/)
 
 5.
 
@@ -67,8 +61,7 @@
 7.
 
 8.
-9.  [Gay
-    Iceland](http://www.globalgayz.com/country/Iceland/view/ISL/gay-iceland)
+9.  [Gay Iceland](http://www.globalgayz.com/country/Iceland/view/ISL/gay-iceland)
 
 10.
 11.

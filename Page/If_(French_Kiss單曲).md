@@ -1,12 +1,8 @@
-《**If**》是[French
-Kiss的第](../Page/French_Kiss_\(音乐团体\).md "wikilink")2張的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年1月19日由[Avex
-Entertainment發售](https://zh.wikipedia.org/wiki/Avex_Entertainment "wikilink")。
+《**If**》是[French Kiss的第](../Page/French_Kiss_\(音乐团体\).md "wikilink")2張的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年1月19日由[Avex Entertainment發售](https://zh.wikipedia.org/wiki/Avex_Entertainment "wikilink")。
 
 ## 概要
 
-CD+戲劇DVD、CD+漫畫DVD、CD的3種形式發售（後述）。CD+漫畫DVD的首2曲目收錄在「沈黙」是柏木由紀的solo曲。全部形式都有初回限定特典、全3種的学生証類型風收集用卡片內的其中1種收入。CD收錄在「嘴对嘴巧克力」最初是[teamB
-4th
-Stage「偶像的黎明」公演的樂曲](https://zh.wikipedia.org/wiki/teamB_4th_Stage「偶像的黎明」 "wikilink")。
+CD+戲劇DVD、CD+漫畫DVD、CD的3種形式發售（後述）。CD+漫畫DVD的首2曲目收錄在「沈黙」是柏木由紀的solo曲。全部形式都有初回限定特典、全3種的学生証類型風收集用卡片內的其中1種收入。CD收錄在「嘴对嘴巧克力」最初是[teamB 4th Stage「偶像的黎明」公演的樂曲](https://zh.wikipedia.org/wiki/teamB_4th_Stage「偶像的黎明」 "wikilink")。
 
 ## 收錄曲
 
@@ -108,9 +104,4 @@ Stage「偶像的黎明」公演的樂曲](https://zh.wikipedia.org/wiki/teamB_4
   - [公式網站](http://www.french-kiss.jp/index.html)
   - [avex内French Kiss公式網站](http://mv.avex.jp/french-kiss/)
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:AKB48家族關連歌曲](https://zh.wikipedia.org/wiki/Category:AKB48家族關連歌曲 "wikilink")
-[Category:OVA主題曲](https://zh.wikipedia.org/wiki/Category:OVA主題曲 "wikilink")
-[Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:AKB48家族關連歌曲](https://zh.wikipedia.org/wiki/Category:AKB48家族關連歌曲 "wikilink") [Category:OVA主題曲](https://zh.wikipedia.org/wiki/Category:OVA主題曲 "wikilink") [Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")

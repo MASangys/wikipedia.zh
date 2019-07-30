@@ -2,8 +2,7 @@
 
 ## 概要
 
-AKB48 Team
-K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶」及使用了全组成员写真纸板的「16人姐妹之歌」的歌曲。之后也被使用为[SNH48的第一台公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")
+AKB48 Team K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶」及使用了全组成员写真纸板的「16人姐妹之歌」的歌曲。之后也被使用为[SNH48的第一台公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")
 
 ## 公演内容
 
@@ -61,7 +60,7 @@ K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶
       -
         [秋元才加](../Page/秋元才加.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大岛优子](https://zh.wikipedia.org/wiki/大岛优子 "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[奥真奈美](https://zh.wikipedia.org/wiki/奥真奈美 "wikilink")、[小野惠令奈](../Page/小野惠令奈.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[成瀨理沙](../Page/成瀨理沙.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")、[早野薫](https://zh.wikipedia.org/wiki/早野薫 "wikilink")、[增田有華](../Page/增田有華.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宫泽佐江](https://zh.wikipedia.org/wiki/宫泽佐江 "wikilink")
           -
-            ※2009年3月26日公演后，[近野莉菜自研究生组升格至K组](../Page/近野莉菜.md "wikilink")，此后未出演。
+            ※2009年3月26日公演后，[近野莉菜](../Page/近野莉菜.md "wikilink")自研究生组升格至K组，此后未出演。
   - 分组曲担当
       - 再战（成瀬、秋元、野呂、梅田）
       - 初恋小偷（奥、小野、早野）
@@ -106,8 +105,7 @@ K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶
 
   - 公演期間：2014年2月20日－2014年4月16日
   - 出演成員：[阿部瑪利亞](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")、[内田眞由美](https://zh.wikipedia.org/wiki/内田眞由美 "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[鈴木紫帆里](../Page/鈴木紫帆里.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[中田千智](../Page/中田千智.md "wikilink")、[永尾瑪利亞](../Page/永尾瑪利亞.md "wikilink")、[野澤玲奈](../Page/野澤玲奈.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")、[藤田奈那](../Page/藤田奈那.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[前田亞美](../Page/前田亞美.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[宮崎美穗](../Page/宮崎美穗.md "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")
-  - Team
-    K選秀生：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、[下口緋奈奈](https://zh.wikipedia.org/wiki/下口緋奈奈 "wikilink")
+  - Team K選秀生：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、[下口緋奈奈](https://zh.wikipedia.org/wiki/下口緋奈奈 "wikilink")
 
 <!-- end list -->
 
@@ -138,8 +136,7 @@ K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶
 
   - 公演期間：2014年11月9日－
   - 出演成員：[秋吉優花](https://zh.wikipedia.org/wiki/秋吉優花 "wikilink")、[穴井千尋](../Page/穴井千尋.md "wikilink")、[井上由莉耶](https://zh.wikipedia.org/wiki/井上由莉耶 "wikilink")、[宇井真白](https://zh.wikipedia.org/wiki/宇井真白 "wikilink")、[上野遥](https://zh.wikipedia.org/wiki/上野遥 "wikilink")、[梅本泉](https://zh.wikipedia.org/wiki/梅本泉 "wikilink")、[岡本尚子](https://zh.wikipedia.org/wiki/岡本尚子 "wikilink")、[神志那結衣](../Page/神志那結衣.md "wikilink")、[兒玉遥](https://zh.wikipedia.org/wiki/兒玉遥 "wikilink")、[駒田京伽](https://zh.wikipedia.org/wiki/駒田京伽 "wikilink")、[坂口理子](https://zh.wikipedia.org/wiki/坂口理子_\(HKT48\) "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")、[田中美久](https://zh.wikipedia.org/wiki/田中美久 "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[山田麻莉奈](https://zh.wikipedia.org/wiki/山田麻莉奈 "wikilink")、[山本茉央](https://zh.wikipedia.org/wiki/山本茉央 "wikilink")、[若田部遥](../Page/若田部遥.md "wikilink")
-  - 助演的Team
-    KIV成員：[伊藤来笑](https://zh.wikipedia.org/wiki/伊藤来笑 "wikilink")、[岡田栞奈](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")、[後藤泉](https://zh.wikipedia.org/wiki/後藤泉 "wikilink")、[下野由貴](../Page/下野由貴.md "wikilink")、[田中優香](https://zh.wikipedia.org/wiki/田中優香 "wikilink")、[深川舞子](https://zh.wikipedia.org/wiki/深川舞子 "wikilink")、[渕上舞](https://zh.wikipedia.org/wiki/淵上舞_\(歌手\) "wikilink")
+  - 助演的Team KIV成員：[伊藤来笑](https://zh.wikipedia.org/wiki/伊藤来笑 "wikilink")、[岡田栞奈](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")、[後藤泉](https://zh.wikipedia.org/wiki/後藤泉 "wikilink")、[下野由貴](../Page/下野由貴.md "wikilink")、[田中優香](https://zh.wikipedia.org/wiki/田中優香 "wikilink")、[深川舞子](https://zh.wikipedia.org/wiki/深川舞子 "wikilink")、[渕上舞](https://zh.wikipedia.org/wiki/淵上舞_\(歌手\) "wikilink")
       -
         在2015年12月27日，举行了梅本泉的毕业公演。
   - 分组曲擔當
@@ -169,11 +166,8 @@ K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶
 
   - 公演期間：2015年11月30日－
   - 出演成員：[相笠萌](../Page/相笠萌.md "wikilink")、[阿部瑪利亞](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")、[石田晴香](../Page/石田晴香.md "wikilink")、[市川愛美](../Page/市川愛美.md "wikilink")、[兒玉遙](../Page/兒玉遙.md "wikilink")、[篠崎彩奈](../Page/篠崎彩奈.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[下口绯奈奈](https://zh.wikipedia.org/wiki/下口绯奈奈 "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")、[高城亞樹](../Page/高城亞樹.md "wikilink")、[田野優花](../Page/田野優花.md "wikilink")、[中田千智](../Page/中田千智.md "wikilink")、[永尾瑪利亞](../Page/永尾瑪利亞.md "wikilink")、[中野郁海](../Page/中野郁海.md "wikilink")、[藤田奈那](../Page/藤田奈那.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")、[向井地美音](../Page/向井地美音.md "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")、[山本彩](../Page/山本彩.md "wikilink")、[湯本亞美](https://zh.wikipedia.org/wiki/湯本亞美 "wikilink")
-  - Team
-    K選秀研究生：[野村奈央](https://zh.wikipedia.org/wiki/野村奈央 "wikilink")、[久保怜音](https://zh.wikipedia.org/wiki/久保怜音 "wikilink")
-  - 其他队伍的助演成员：Team A：[平田梨奈](../Page/平田梨奈.md "wikilink")、Team
-    B：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、Team
-    4：[飯野雅](../Page/飯野雅.md "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")
+  - Team K選秀研究生：[野村奈央](https://zh.wikipedia.org/wiki/野村奈央 "wikilink")、[久保怜音](https://zh.wikipedia.org/wiki/久保怜音 "wikilink")
+  - 其他队伍的助演成员：Team A：[平田梨奈](../Page/平田梨奈.md "wikilink")、Team B：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、Team 4：[飯野雅](../Page/飯野雅.md "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")
       -
         松井珠理奈於2015年12月24日的送别公演后解除兼任。在2016年2月23日举行了高城亞樹的毕业公演，同年3月19日举行了永尾瑪利亞的毕业公演，同年5月17日将举行石田晴香的毕业公演。
 
@@ -266,8 +260,7 @@ K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶
 
 ## 外部链接
 
-  - [4th
-    Stage「最终钟声鸣响」公演乐曲（AKB48官网）](https://web.archive.org/web/20100615060148/http://www.akb48.co.jp/song/04k.html)
+  - [4th Stage「最终钟声鸣响」公演乐曲（AKB48官网）](https://web.archive.org/web/20100615060148/http://www.akb48.co.jp/song/04k.html)
 
 ## 参考文献
 

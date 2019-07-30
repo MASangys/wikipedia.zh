@@ -1,6 +1,6 @@
-《**點解阿Sir係阿Sir**\[1\]》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司以學校作為地方背景題材而拍攝製作的時裝校園](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[陳豪](../Page/陳豪.md "wikilink")、[楊怡](../Page/楊怡.md "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[吳卓羲領銜主演](../Page/吳卓羲.md "wikilink")，監製為[劉家豪](../Page/劉家豪.md "wikilink")。本劇為[2011無綫節目巡禮劇集之一](../Page/2011無綫節目巡禮.md "wikilink")。
+《**點解阿Sir係阿Sir**\[1\]》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")以學校作為地方背景題材而拍攝製作的時裝校園[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[陳豪](../Page/陳豪.md "wikilink")、[楊怡](../Page/楊怡.md "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[吳卓羲](../Page/吳卓羲.md "wikilink")領銜主演，監製為[劉家豪](../Page/劉家豪.md "wikilink")。本劇為[2011無綫節目巡禮](../Page/2011無綫節目巡禮.md "wikilink")劇集之一。
 
-劇集名稱中的首個「阿Sir」意思為教師，最後一個為警察，講述身為警察的羅耀華（[陳豪飾](../Page/陳豪.md "wikilink")）易份教師潛入校園查案的故事。而劇中的中學實際為[培僑書院](../Page/培僑書院.md "wikilink")。
+劇集名稱中的首個「阿Sir」意思為教師，最後一個為警察，講述身為警察的羅耀華（[陳豪](../Page/陳豪.md "wikilink")飾）易份教師潛入校園查案的故事。而劇中的中學實際為[培僑書院](../Page/培僑書院.md "wikilink")。
 
 ## 演員表
 
@@ -215,7 +215,7 @@
 於第5集出現<br />
 <a href="https://zh.wikipedia.org/wiki/重案組" title="wikilink">重案組</a><a href="https://zh.wikipedia.org/wiki/督察" title="wikilink">督察</a><br />
 九龍城區警民關係組<a href="https://zh.wikipedia.org/wiki/警察公共關係科#警察學校聯絡計劃" title="wikilink">警察學校聯絡主任</a>（笫7至19集）<br />
-<a href="../Page/防止罪案科.md" title="wikilink">防止罪案科成員</a>（第30集）<br />
+<a href="../Page/防止罪案科.md" title="wikilink">防止罪案科</a>成員（第30集）<br />
 倪鋒、古嘉倩、盛世龍、眼鏡富之天敵<br />
 喜歡何妙雪，但被拒絕<br />
 程文詩之弟<br />
@@ -1095,7 +1095,7 @@ Jack之女</p></td>
 <td><p>蔣洪之手下</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/招石文.md" title="wikilink">招石文</a></p></td>
+<td></td>
 <td><p>八　爺</p></td>
 <td><p>蔣洪之兄弟</p></td>
 </tr>
@@ -1199,7 +1199,7 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/江漢.md" title="wikilink">江　漢</a></p></td>
+<td></td>
 <td><p>胡　公</p></td>
 <td><p>蔣洪之兄弟</p></td>
 </tr>
@@ -1438,8 +1438,7 @@ Jack之女</p></td>
 
 ### 明報週刊演藝動力大獎2011
 
-  - 我最支持的演藝動力大獎（《點解阿Sir係阿Sir》**[鍾嘉欣](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")
-    飾古嘉嵐**）
+  - 我最支持的演藝動力大獎（《點解阿Sir係阿Sir》**[鍾嘉欣](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink") 飾古嘉嵐**）
 
 ### [MY AOD我的最愛頒獎典禮2011](../Page/MY_AOD我的最愛頒獎典禮2011.md "wikilink")
 
@@ -1535,47 +1534,34 @@ Jack之女</p></td>
 
 ## 記事
 
-  - 2010年5月18日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城四廠舉行試造型記者會](../Page/電視廣播城.md "wikilink")。\[2\]
-  - 2010年6月21日：此劇於14:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城十三廠舉行開鏡拜神儀式](../Page/電視廣播城.md "wikilink")。\[3\]
-  - 2010年7月26日：此劇於12:45在[九龍灣展貿徑一號](../Page/九龍灣.md "wikilink")[國際展貿中心Emax地下香港保齡球城拍攝](https://zh.wikipedia.org/wiki/國際展貿中心 "wikilink")。
-  - 2011年4月15日：此劇於10:45在[尖沙咀](../Page/尖沙咀.md "wikilink")[美麗華酒店舉行](https://zh.wikipedia.org/wiki/美麗華酒店 "wikilink")《點解阿Sir係阿Sir》之「Good
-    Morning Sir開學禮」。\[4\]\[5\]。
-  - 2011年5月4日：此劇於14:00在[九龍灣展貿徑一號](../Page/九龍灣.md "wikilink")[國際展貿中心Emax地下香港保齡球城舉行](https://zh.wikipedia.org/wiki/國際展貿中心 "wikilink")《點解阿Sir係阿Sir》之「師生保齡球爭霸戰」。
-  - 2011年5月15日：此劇於13:30在[大角咀](../Page/大角咀.md "wikilink")[奧海城舉行](../Page/奧海城.md "wikilink")《點解阿Sir係阿Sir》之「阿Sir教精你」。
-  - 2011年5月31日：此劇於13:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城西餐廳舉行](../Page/電視廣播城.md "wikilink")《點解阿Sir係阿Sir》祝捷會。
+  - 2010年5月18日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")四廠舉行試造型記者會。\[2\]
+  - 2010年6月21日：此劇於14:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")十三廠舉行開鏡拜神儀式。\[3\]
+  - 2010年7月26日：此劇於12:45在[九龍灣](../Page/九龍灣.md "wikilink")展貿徑一號[國際展貿中心Emax地下香港保齡球城拍攝](https://zh.wikipedia.org/wiki/國際展貿中心 "wikilink")。
+  - 2011年4月15日：此劇於10:45在[尖沙咀](../Page/尖沙咀.md "wikilink")[美麗華酒店舉行](https://zh.wikipedia.org/wiki/美麗華酒店 "wikilink")《點解阿Sir係阿Sir》之「Good Morning Sir開學禮」。\[4\]\[5\]。
+  - 2011年5月4日：此劇於14:00在[九龍灣](../Page/九龍灣.md "wikilink")展貿徑一號[國際展貿中心Emax地下香港保齡球城舉行](https://zh.wikipedia.org/wiki/國際展貿中心 "wikilink")《點解阿Sir係阿Sir》之「師生保齡球爭霸戰」。
+  - 2011年5月15日：此劇於13:30在[大角咀](../Page/大角咀.md "wikilink")[奧海城](../Page/奧海城.md "wikilink")舉行《點解阿Sir係阿Sir》之「阿Sir教精你」。
+  - 2011年5月31日：此劇於13:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")西餐廳舉行《點解阿Sir係阿Sir》祝捷會。
 
 ## 大結局
 
 大結局雖然未有出現BBQ或出發等老套橋段，但觀眾對大結局普遍全有不滿，包括反對突然殺出喪妻且育有一女的馬國明配上鍾嘉欣、大結局過於平淡草草了事等。
 
-另外，綜合網上討論、維基百科昔日被寫入的資料，以及TVB官方網站劇情大綱簡介\[6\]，網民指出TVB曾經將結局大幅改動。被指是「原裝版本」的劇情後段講述校董會表示有意殺校後，Miss
-Ho發現K4的張柏全是運動天才，Miss
-Koo更向他傳授絕技，保齡球隊終贏得學界冠軍，還有機會到海外參加國際大賽，倪鋒便打算利用學生出國參加比賽的機會於器材內運毒。此時在較早前幫倪鋒頂罪的盛世龍突然偷走，最後成功槍殺倪鋒。而羅Sir因為曾欺騙Miss
-Koo感情而感到太內疚，患上了精神病，幸得Miss Koo體諒並與他一起面對，最終兩人成為一對。另一方面，程Sir因為捨身救了Miss
-Ho一命感動了她，兩人亦成為一對。
+另外，綜合網上討論、維基百科昔日被寫入的資料，以及TVB官方網站劇情大綱簡介\[6\]，網民指出TVB曾經將結局大幅改動。被指是「原裝版本」的劇情後段講述校董會表示有意殺校後，Miss Ho發現K4的張柏全是運動天才，Miss Koo更向他傳授絕技，保齡球隊終贏得學界冠軍，還有機會到海外參加國際大賽，倪鋒便打算利用學生出國參加比賽的機會於器材內運毒。此時在較早前幫倪鋒頂罪的盛世龍突然偷走，最後成功槍殺倪鋒。而羅Sir因為曾欺騙Miss Koo感情而感到太內疚，患上了精神病，幸得Miss Koo體諒並與他一起面對，最終兩人成為一對。另一方面，程Sir因為捨身救了Miss Ho一命感動了她，兩人亦成為一對。
 
 ## 觀眾迴響
 
-劇中本應有四位主角（[陳豪](../Page/陳豪.md "wikilink")、[楊怡](../Page/楊怡.md "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[吳卓羲](../Page/吳卓羲.md "wikilink")）\[7\]\[8\]。此外，亦有很多人都批評角色感情編排嚴重不當，如吳卓羲飾演的程文力喜歡上楊怡飾演的何妙雪、陳豪飾演的羅耀華假裝喜歡鍾嘉欣飾演的古嘉嵐、鍾嘉欣及吳卓羲不被編成一對等等，則是相不相襯的問題。此外，廣管局則公佈收到2宗投訴，無綫宣傳該劇為雙生雙旦、四角戀，但[吳卓羲](../Page/吳卓羲.md "wikilink")、[鍾嘉欣在戲中只是襯托](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，有欺騙成份\[9\]
-及吳卓羲戲份少也遭觀眾12宗投訴\[10\]。
-在學生素質如表現及年齡方面，跟在2004年《[青出於藍](../Page/青出於藍_\(電視劇\).md "wikilink")》中飾演校園學生的演員如
-[梁烈唯](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")、[周永恆](../Page/周永恆.md "wikilink")、[趙頌茹](../Page/趙頌茹.md "wikilink")、[黃嘉樂](../Page/黃嘉樂.md "wikilink")、[沈卓盈](../Page/沈卓盈.md "wikilink")、[鄭俊弘](../Page/鄭俊弘.md "wikilink")、[張雪芹等差別甚大](../Page/張雪芹.md "wikilink")。
+劇中本應有四位主角（[陳豪](../Page/陳豪.md "wikilink")、[楊怡](../Page/楊怡.md "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[吳卓羲](../Page/吳卓羲.md "wikilink")）\[7\]\[8\]。此外，亦有很多人都批評角色感情編排嚴重不當，如吳卓羲飾演的程文力喜歡上楊怡飾演的何妙雪、陳豪飾演的羅耀華假裝喜歡鍾嘉欣飾演的古嘉嵐、鍾嘉欣及吳卓羲不被編成一對等等，則是相不相襯的問題。此外，廣管局則公佈收到2宗投訴，無綫宣傳該劇為雙生雙旦、四角戀，但[吳卓羲](../Page/吳卓羲.md "wikilink")、[鍾嘉欣在戲中只是襯托](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，有欺騙成份\[9\] 及吳卓羲戲份少也遭觀眾12宗投訴\[10\]。
+在學生素質如表現及年齡方面，跟在2004年《[青出於藍](../Page/青出於藍_\(電視劇\).md "wikilink")》中飾演校園學生的演員如 [梁烈唯](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")、[周永恆](../Page/周永恆.md "wikilink")、[趙頌茹](../Page/趙頌茹.md "wikilink")、[黃嘉樂](../Page/黃嘉樂.md "wikilink")、[沈卓盈](../Page/沈卓盈.md "wikilink")、[鄭俊弘](../Page/鄭俊弘.md "wikilink")、[張雪芹](../Page/張雪芹.md "wikilink")等差別甚大。
 
-亦有指此劇只是一部抄襲作品，與[周星馳以往的電影大為相似](../Page/周星馳.md "wikilink")。如全劇的臥底橋段跟《[逃學威龍](https://zh.wikipedia.org/wiki/逃學威龍 "wikilink")》如出一轍\[11\]，劇名又像[亞視舊劇](https://zh.wikipedia.org/wiki/亞視 "wikilink")《[點解阿Sir係隻鬼](../Page/點解阿sir係隻鬼.md "wikilink")》\[12\]。而首兩集陳豪在學校被學生耍就像《[百變星君](../Page/百變星君.md "wikilink")》的橋段、[楊英偉在首集其中有關影響校譽的對白像](../Page/楊英偉.md "wikilink")《[九品芝麻官](../Page/九品芝麻官.md "wikilink")》中包龍星罵鳳來樓三姑、陳豪在學校的線人二五仔像《[逃學威龍2](../Page/逃學威龍2.md "wikilink")》的Albert等。另外，此劇與《[逃學威龍](https://zh.wikipedia.org/wiki/逃學威龍 "wikilink")》最為相似\[13\]，像學生疑似於中史測驗作弊的橋段，女主角和校工的名字跟《逃》的一樣稱為Miss
-Ho和達叔，又如第四集分別有兩幫學生像《逃》中私下對峙。而同樣飾演警察，在明的吳卓羲和在暗的陳豪也像《逃》中的反黑組大幫和周星星對立，並同時喜歡女主角。此外，也有指此劇的內容與1981年的《[IQ成熟時](https://zh.wikipedia.org/wiki/IQ成熟時 "wikilink")》、1994年的《[阿Sir早晨](../Page/阿Sir早晨.md "wikilink")》和日劇《[極道鮮師](../Page/極道鮮師.md "wikilink")》相近。《點》劇主題曲是「春風化雨」，恰好是《阿》劇的前名。此劇的內容更跟2004年由[歐陽震華](../Page/歐陽震華.md "wikilink")、[陶大宇](../Page/陶大宇.md "wikilink")、[郭可盈主演的時裝校園電視劇](../Page/郭可盈.md "wikilink")《[青出於藍](../Page/青出於藍_\(電視劇\).md "wikilink")》頗為相似，就連教師的會議室的場景也一模一樣。
+亦有指此劇只是一部抄襲作品，與[周星馳](../Page/周星馳.md "wikilink")以往的電影大為相似。如全劇的臥底橋段跟《[逃學威龍](https://zh.wikipedia.org/wiki/逃學威龍 "wikilink")》如出一轍\[11\]，劇名又像[亞視舊劇](https://zh.wikipedia.org/wiki/亞視 "wikilink")《[點解阿Sir係隻鬼](../Page/點解阿sir係隻鬼.md "wikilink")》\[12\]。而首兩集陳豪在學校被學生耍就像《[百變星君](../Page/百變星君.md "wikilink")》的橋段、[楊英偉](../Page/楊英偉.md "wikilink")在首集其中有關影響校譽的對白像《[九品芝麻官](../Page/九品芝麻官.md "wikilink")》中包龍星罵鳳來樓三姑、陳豪在學校的線人二五仔像《[逃學威龍2](../Page/逃學威龍2.md "wikilink")》的Albert等。另外，此劇與《[逃學威龍](https://zh.wikipedia.org/wiki/逃學威龍 "wikilink")》最為相似\[13\]，像學生疑似於中史測驗作弊的橋段，女主角和校工的名字跟《逃》的一樣稱為Miss Ho和達叔，又如第四集分別有兩幫學生像《逃》中私下對峙。而同樣飾演警察，在明的吳卓羲和在暗的陳豪也像《逃》中的反黑組大幫和周星星對立，並同時喜歡女主角。此外，也有指此劇的內容與1981年的《[IQ成熟時](https://zh.wikipedia.org/wiki/IQ成熟時 "wikilink")》、1994年的《[阿Sir早晨](../Page/阿Sir早晨.md "wikilink")》和日劇《[極道鮮師](../Page/極道鮮師.md "wikilink")》相近。《點》劇主題曲是「春風化雨」，恰好是《阿》劇的前名。此劇的內容更跟2004年由[歐陽震華](../Page/歐陽震華.md "wikilink")、[陶大宇](../Page/陶大宇.md "wikilink")、[郭可盈](../Page/郭可盈.md "wikilink")主演的時裝校園電視劇《[青出於藍](../Page/青出於藍_\(電視劇\).md "wikilink")》頗為相似，就連教師的會議室的場景也一模一樣。
 
-此外，本劇是鍾嘉欣的一部代表作，劇中她飾演的古嘉嵐（Miss Koo／Miss
-Cool）最初以故意裝酷的保齡球教練姿態出現，\[14\]後來Miss
-Koo的冰山融化，與羅Sir（[陳豪的角色](../Page/陳豪.md "wikilink")）甜蜜的感情戲受到關注，甚至其「愛的抱抱」也在觀眾和網民心中留下深刻的印象。\[15\]\[16\]直到劇情發展近尾聲，羅Sir的臥底身份被揭發，導致被欺騙感情的Miss
-Koo崩潰，觀眾一方面讚賞鍾嘉欣的哭戲，\[17\]揀選她為在年尾頒獎典禮上的「民選視后」，\[18\]\[19\]另一方面則不齒陳豪角色的所作所為，並大罵他為「世紀賤男」，\[20\]但觀其演出也獲推舉為「視帝」人選，後來各大報章也作出報道。\[21\]\[22\]\[23\]另外，《[護花危情](../Page/護花危情.md "wikilink")》則是以Miss
-Koo為主題的姊妹作。\[24\]由於角色討好,鍾嘉欣在「[明報周刊](../Page/明報周刊.md "wikilink")[演藝動力大獎](../Page/演藝動力大獎.md "wikilink")」中曾憑《點解阿Sir係阿Sir》獲得由公眾投票選出的「我最支持的演藝動力大獎」。\[25\]
-\[26\]\[27\]
+此外，本劇是鍾嘉欣的一部代表作，劇中她飾演的古嘉嵐（Miss Koo／Miss Cool）最初以故意裝酷的保齡球教練姿態出現，\[14\]後來Miss Koo的冰山融化，與羅Sir（[陳豪](../Page/陳豪.md "wikilink")的角色）甜蜜的感情戲受到關注，甚至其「愛的抱抱」也在觀眾和網民心中留下深刻的印象。\[15\]\[16\]直到劇情發展近尾聲，羅Sir的臥底身份被揭發，導致被欺騙感情的Miss Koo崩潰，觀眾一方面讚賞鍾嘉欣的哭戲，\[17\]揀選她為在年尾頒獎典禮上的「民選視后」，\[18\]\[19\]另一方面則不齒陳豪角色的所作所為，並大罵他為「世紀賤男」，\[20\]但觀其演出也獲推舉為「視帝」人選，後來各大報章也作出報道。\[21\]\[22\]\[23\]另外，《[護花危情](../Page/護花危情.md "wikilink")》則是以Miss Koo為主題的姊妹作。\[24\]由於角色討好,鍾嘉欣在「[明報周刊](../Page/明報周刊.md "wikilink")[演藝動力大獎](../Page/演藝動力大獎.md "wikilink")」中曾憑《點解阿Sir係阿Sir》獲得由公眾投票選出的「我最支持的演藝動力大獎」。\[25\] \[26\]\[27\]
 
 有觀眾則要求本劇有需要更改結局，讓陳豪與鍾嘉欣的角色最後走在一起，楊怡與吳卓羲亦走在一起。\[28\]
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |        |                  |          |          |         |
 | ------ | ------ | ---------------- | -------- | -------- | ------- |
@@ -1597,46 +1583,32 @@ Koo為主題的姊妹作。\[24\]由於角色討好,鍾嘉欣在「[明報周刊
 
 ## 外部連結
 
-  - [《點解阿Sir係阿Sir》 GOTV
-    第1集重溫](https://web.archive.org/web/20140602100723/http://gotv.tvb.com/programme/102405/150500)
+  - [《點解阿Sir係阿Sir》 GOTV 第1集重溫](https://web.archive.org/web/20140602100723/http://gotv.tvb.com/programme/102405/150500)
+  - \[<https://encoretvb.com/cantonese/series/XtcQB8nH-Yes_Sir,_Sorry,_Sir>\! 《點解阿Sir係阿Sir》- encoreTVB\]
 
 ## 電視節目的變遷
 
 |align="center" colspan="4"|[誰家灶頭無煙火](../Page/誰家灶頭無煙火.md "wikilink")
-3月21日— |- |align="center"
-colspan="2"|[洪武三十二](../Page/洪武三十二.md "wikilink")
-—5月13日 |align="center"
-colspan="2"|[花花世界花家姐](../Page/花花世界花家姐.md "wikilink")
+3月21日— |- |align="center" colspan="2"|[洪武三十二](../Page/洪武三十二.md "wikilink")
+—5月13日 |align="center" colspan="2"|[花花世界花家姐](../Page/花花世界花家姐.md "wikilink")
 5月16日— |- |align="center"|**上一套：**
 [女拳](../Page/女拳.md "wikilink")
-—4月17日 |align="center"
-colspan="2"|**翡翠台／高清翡翠台第三綫劇集（[2011](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2011年\)#第三線劇集 "wikilink")）**
+—4月17日 |align="center" colspan="2"|**翡翠台／高清翡翠台第三綫劇集（[2011](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2011年\)#第三線劇集 "wikilink")）**
 **點解阿Sir係阿Sir**
 4月18日—5月27日 |align="center"|**下一套：**
 [怒火街頭](../Page/怒火街頭.md "wikilink")
 5月30日—
 
-[Category:2011年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2011年無綫電視劇集 "wikilink")
-[Category:AOD電視劇集](https://zh.wikipedia.org/wiki/Category:AOD電視劇集 "wikilink")
-[Category:2011年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2011年AOD電視劇集 "wikilink")
-[Category:中學背景電視劇](https://zh.wikipedia.org/wiki/Category:中學背景電視劇 "wikilink")
-[Category:重案組](https://zh.wikipedia.org/wiki/Category:重案組 "wikilink")
-[Category:教師主角電視劇](https://zh.wikipedia.org/wiki/Category:教師主角電視劇 "wikilink")
-[Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink")
-[Category:無綫電視校園劇集](https://zh.wikipedia.org/wiki/Category:無綫電視校園劇集 "wikilink")
+[Category:2011年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2011年無綫電視劇集 "wikilink") [Category:AOD電視劇集](https://zh.wikipedia.org/wiki/Category:AOD電視劇集 "wikilink") [Category:2011年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2011年AOD電視劇集 "wikilink") [Category:中學背景電視劇](https://zh.wikipedia.org/wiki/Category:中學背景電視劇 "wikilink") [Category:重案組](https://zh.wikipedia.org/wiki/Category:重案組 "wikilink") [Category:教師主角電視劇](https://zh.wikipedia.org/wiki/Category:教師主角電視劇 "wikilink") [Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink") [Category:無綫電視校園劇集](https://zh.wikipedia.org/wiki/Category:無綫電視校園劇集 "wikilink")
 
 1.
-2.  [藝人月曆 - 5月18日 -
-    tvb.com](http://artiste.tvb.com/calendar/list/2010/05/18)
+2.  [藝人月曆 - 5月18日 - tvb.com](http://artiste.tvb.com/calendar/list/2010/05/18)
 
-3.  [藝人月曆 - 6月21日 -
-    tvb.com](http://artiste.tvb.com/calendar/list/2010/06/21)
+3.  [藝人月曆 - 6月21日 - tvb.com](http://artiste.tvb.com/calendar/list/2010/06/21)
 
-4.  [《點解阿Sir
-    係阿Sir》宣傳活動](http://orientaldaily.on.cc/cnt/entertainment/20110415/00282_022.html)
+4.  [《點解阿Sir 係阿Sir》宣傳活動](http://orientaldaily.on.cc/cnt/entertainment/20110415/00282_022.html)
 
-5.  [陳豪否認不肯加簽長約遭雪藏
-    吳卓羲戥林峯墮愛情陷阱叫慘](http://www.hkheadline.com/ent/ent_content.asp?contid=99520&srctype=g)
+5.  [陳豪否認不肯加簽長約遭雪藏 吳卓羲戥林峯墮愛情陷阱叫慘](http://www.hkheadline.com/ent/ent_content.asp?contid=99520&srctype=g)
 
 6.  <http://programme.tvb.com/drama/yessirsorrysir/>
 

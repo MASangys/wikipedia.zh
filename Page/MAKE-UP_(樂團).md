@@ -1,18 +1,14 @@
-**MAKE-UP**是日本的一支摇滚乐团。因演唱动画“[圣斗士星矢](https://zh.wikipedia.org/wiki/圣斗士星矢 "wikilink")”的主题歌“飞马座的幻想”而著名。其大多数作品虽因未发行CD或变成废盘而难以获得，但经在2004年发售的CD
-BOX SET《MEMORIES OF BLUE》而得以再版。之后参加了HARD ROCK SUMMIT，以及担当演唱了剧场版《[圣斗士星矢
-天界篇
-序奏～overture～](https://zh.wikipedia.org/wiki/圣斗士星矢_天界篇_序奏～overture～ "wikilink")》的主题歌，其余活动较稀少，2009年发表消息再次重组。
+**MAKE-UP**是日本的一支摇滚乐团。因演唱动画“[圣斗士星矢](https://zh.wikipedia.org/wiki/圣斗士星矢 "wikilink")”的主题歌“飞马座的幻想”而著名。其大多数作品虽因未发行CD或变成废盘而难以获得，但经在2004年发售的CD BOX SET《MEMORIES OF BLUE》而得以再版。之后参加了HARD ROCK SUMMIT，以及担当演唱了剧场版《[圣斗士星矢 天界篇 序奏～overture～](https://zh.wikipedia.org/wiki/圣斗士星矢_天界篇_序奏～overture～ "wikilink")》的主题歌，其余活动较稀少，2009年发表消息再次重组。
 
 ## 经历
 
-1983年MAKE-UP诞生。“MAKE-UP”这个名字原本是[LOUDNESS的](https://zh.wikipedia.org/wiki/LOUDNESS "wikilink")[高崎晃和](../Page/高崎晃.md "wikilink")[樋口宗孝所创立的乐团的名字](https://zh.wikipedia.org/wiki/樋口宗孝 "wikilink")，后来转让给松泽浩明。
+1983年MAKE-UP诞生。“MAKE-UP”这个名字原本是[LOUDNESS的](https://zh.wikipedia.org/wiki/LOUDNESS "wikilink")[高崎晃](../Page/高崎晃.md "wikilink")和[樋口宗孝所创立的乐团的名字](https://zh.wikipedia.org/wiki/樋口宗孝 "wikilink")，后来转让给松泽浩明。
 
 翌年1984年发表了由樋口宗孝监制的出道专辑《HOWLING WILL》。
 
 1987年，MAKE-UP解散。
 
-在2009年1月“”里，MAKE-UP发表重组宣言，成员是山田信夫、河野阳吾、松泽浩明。发表了《（飞马座的幻想）
-(2009)/（永远的蓝）(2009)》，同时在东京会场和大阪会场限量发售。
+在2009年1月“”里，MAKE-UP发表重组宣言，成员是山田信夫、河野阳吾、松泽浩明。发表了《（飞马座的幻想） (2009)/（永远的蓝）(2009)》，同时在东京会场和大阪会场限量发售。
 
 2010年11月18日，圣斗士星矢主题歌“飞马座的幻想”作曲者之一的吉他手[松澤因突发](https://zh.wikipedia.org/wiki/松澤 "wikilink")[心肌梗塞逝世](https://zh.wikipedia.org/wiki/心肌梗塞 "wikilink")。享年51岁。
 
@@ -38,8 +34,7 @@ BOX SET《MEMORIES OF BLUE》而得以再版。之后参加了HARD ROCK SUMMIT�
 
   - ／（2009年1月7日）
 
-  - ／Get the future（2012年7月11日）※以『MAKE-UP
-    feat.[中川翔子](../Page/中川翔子.md "wikilink")』的名義。
+  - ／Get the future（2012年7月11日）※以『MAKE-UP feat.[中川翔子](../Page/中川翔子.md "wikilink")』的名義。
 
 ### 专辑
 
@@ -63,6 +58,4 @@ BOX SET《MEMORIES OF BLUE》而得以再版。之后参加了HARD ROCK SUMMIT�
 
   - The Voice From Yesterday（2009年12月16日）
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
-[Category:日本重金屬樂團](https://zh.wikipedia.org/wiki/Category:日本重金屬樂團 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:日本重金屬樂團](https://zh.wikipedia.org/wiki/Category:日本重金屬樂團 "wikilink")

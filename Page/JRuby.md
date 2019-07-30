@@ -1,5 +1,4 @@
-**JRuby**，一個採用纯[Java](../Page/Java.md "wikilink")實現的[Ruby](../Page/Ruby.md "wikilink")解释器，由JRuby團隊開發。它是一個自由軟體，在[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")/[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")/[LGPL三种许可协议下发布](https://zh.wikipedia.org/wiki/LGPL "wikilink")。主要开发者有Charles
-Nutter、Thomas Enebo、Ola Bini、Nick Sieger等。最新发布版为9.2.0.0（2018-05-24）。
+**JRuby**，一個採用纯[Java](../Page/Java.md "wikilink")實現的[Ruby](../Page/Ruby.md "wikilink")解释器，由JRuby團隊開發。它是一個自由軟體，在[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")/[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")/[LGPL三种许可协议下发布](https://zh.wikipedia.org/wiki/LGPL "wikilink")。主要开发者有Charles Nutter、Thomas Enebo、Ola Bini、Nick Sieger等。最新发布版为9.2.0.0（2018-05-24）。
 
 ## 历史
 
@@ -87,10 +86,4 @@ POSIX 友好的输入输出及进程</p></td>
 
   - [JRuby官方網站](http://www.jruby.org/)
 
-[Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
-[Category:用Ruby编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Ruby编程的自由软件 "wikilink")
-[Category:JVM程式語言](https://zh.wikipedia.org/wiki/Category:JVM程式語言 "wikilink")
-[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
-[Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink")
-[Category:Ruby](https://zh.wikipedia.org/wiki/Category:Ruby "wikilink")
-[Category:使用CPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用CPL许可证的软件 "wikilink")
+[Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink") [Category:用Ruby编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Ruby编程的自由软件 "wikilink") [Category:JVM程式語言](https://zh.wikipedia.org/wiki/Category:JVM程式語言 "wikilink") [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink") [Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink") [Category:Ruby](https://zh.wikipedia.org/wiki/Category:Ruby "wikilink") [Category:使用CPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用CPL许可证的软件 "wikilink")

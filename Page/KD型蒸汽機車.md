@@ -25,17 +25,13 @@
 
 ### 概要
 
-KD3型的前身為南滿州鐵道Solisa（ソリサ）型 \[2\] 1910年至1911年由英國Beyer
-Peacock製造40輛之飽和式蒸汽機車，原先編為H3型（車號1068～1107），1920年改稱為Solisa（ソリサ）（車號1068～1107）。Solisa（ソリサ）型蒸汽機車為南滿州鐵道為了募集英鎊公司債，與Tehosa（テホサ）型共同向英國訂製的蒸汽機車。最初使用於滿鐵本線，於M型（[ミカイ](https://zh.wikipedia.org/wiki/解放型蒸汽機車#解放1型 "wikilink")）、P型（デカ）型開始使用後，改為行使[安奉鐵路牽引貨物列車或混合列車](https://zh.wikipedia.org/wiki/沈丹鐵路 "wikilink")。1920年至1926年進行過熱式改造。於[九一八事變時](../Page/九一八事變.md "wikilink")，牽引軍用列車進入其他鐵路。其中有4輛機車，為了能夠行使於北滿鐵路（中東鐵路）加裝特殊外輪修改軌距為1,524mm，約一年左右又恢復原狀。之後由於考量將來可能對蘇聯發動軍事行動而將該項設備保留。1933年至1935年間讓渡給滿州國鐵線13輛營業用，新線建設用20輛，稱為Soliku（ソリク）\[3\]。1938年舊Solisa（ソリサ）與舊Solishi（ソリシ）統一形號為Solisa（ソリサ），車號編為1～7（社線）、501～533（國線）
-<ref name=solisa> 南滿州鐵道Solisa（ソリサ）型蒸汽機車共有83輛，可再細分為三種車型：
+KD3型的前身為南滿州鐵道Solisa（ソリサ）型 \[2\] 1910年至1911年由英國Beyer Peacock製造40輛之飽和式蒸汽機車，原先編為H3型（車號1068～1107），1920年改稱為Solisa（ソリサ）（車號1068～1107）。Solisa（ソリサ）型蒸汽機車為南滿州鐵道為了募集英鎊公司債，與Tehosa（テホサ）型共同向英國訂製的蒸汽機車。最初使用於滿鐵本線，於M型（[ミカイ](https://zh.wikipedia.org/wiki/解放型蒸汽機車#解放1型 "wikilink")）、P型（デカ）型開始使用後，改為行使[安奉鐵路牽引貨物列車或混合列車](https://zh.wikipedia.org/wiki/沈丹鐵路 "wikilink")。1920年至1926年進行過熱式改造。於[九一八事變](../Page/九一八事變.md "wikilink")時，牽引軍用列車進入其他鐵路。其中有4輛機車，為了能夠行使於北滿鐵路（中東鐵路）加裝特殊外輪修改軌距為1,524mm，約一年左右又恢復原狀。之後由於考量將來可能對蘇聯發動軍事行動而將該項設備保留。1933年至1935年間讓渡給滿州國鐵線13輛營業用，新線建設用20輛，稱為Soliku（ソリク）\[3\]。1938年舊Solisa（ソリサ）與舊Solishi（ソリシ）統一形號為Solisa（ソリサ），車號編為1～7（社線）、501～533（國線） <ref name=solisa> 南滿州鐵道Solisa（ソリサ）型蒸汽機車共有83輛，可再細分為三種車型：
 
-  - 舊ソリサ型（H3型）：1910年至1911年向英國Beyer
-    Peacock公司訂製40輛飽和式蒸汽機車，1920年至1926年進行過熱化改造。戰後編為[KD3型](https://zh.wikipedia.org/wiki/KD型蒸汽機車#KD3型 "wikilink")。
+  - 舊ソリサ型（H3型）：1910年至1911年向英國Beyer Peacock公司訂製40輛飽和式蒸汽機車，1920年至1926年進行過熱化改造。戰後編為[KD3型](https://zh.wikipedia.org/wiki/KD型蒸汽機車#KD3型 "wikilink")。
   - 舊ソリシ型（H4型）：1914年至1920年由沙河口工廠製造13輛過熱式蒸汽機車。
   - ペンソリ：1938年向賓細法尼亞鐵路購買30輛H6sb型中古機車。戰後編為[KD10型](https://zh.wikipedia.org/wiki/KD型蒸汽機車#KD10型 "wikilink")。
 
-於二次大戰結束時，以上三型機車共83輛中，有64輛分布於大連埠頭局（1輛）、奉天（3輛）、錦州（2輛）、吉林（9輛）、牡丹江（23輛）、齊齊哈爾（7輛）等鐵路局，另有出借建設事務所（3輛）、其他鐵道（15輛），以及其他用途1輛。戰後分別編為KD3（舊ソリサ型）、KD10（ペンソリ）等車型。
-</ref>。
+於二次大戰結束時，以上三型機車共83輛中，有64輛分布於大連埠頭局（1輛）、奉天（3輛）、錦州（2輛）、吉林（9輛）、牡丹江（23輛）、齊齊哈爾（7輛）等鐵路局，另有出借建設事務所（3輛）、其他鐵道（15輛），以及其他用途1輛。戰後分別編為KD3（舊ソリサ型）、KD10（ペンソリ）等車型。 </ref>。
 
 ### 性能諸元
 
@@ -54,20 +50,16 @@ Peacock製造40輛之飽和式蒸汽機車，原先編為H3型（車號1068～11
 
 ### 概要
 
-[KD5-373_in_China_Railway_Museum.JPG](https://zh.wikipedia.org/wiki/File:KD5-373_in_China_Railway_Museum.JPG "fig:KD5-373_in_China_Railway_Museum.JPG")
-[KD55-579_in_China_Railway_Museum_02.JPG](https://zh.wikipedia.org/wiki/File:KD55-579_in_China_Railway_Museum_02.JPG "fig:KD55-579_in_China_Railway_Museum_02.JPG")
-[JGR-9600SL-b.jpg](https://zh.wikipedia.org/wiki/File:JGR-9600SL-b.jpg "fig:JGR-9600SL-b.jpg")
+[KD5-373_in_China_Railway_Museum.JPG](https://zh.wikipedia.org/wiki/File:KD5-373_in_China_Railway_Museum.JPG "fig:KD5-373_in_China_Railway_Museum.JPG") [KD55-579_in_China_Railway_Museum_02.JPG](https://zh.wikipedia.org/wiki/File:KD55-579_in_China_Railway_Museum_02.JPG "fig:KD55-579_in_China_Railway_Museum_02.JPG") [JGR-9600SL-b.jpg](https://zh.wikipedia.org/wiki/File:JGR-9600SL-b.jpg "fig:JGR-9600SL-b.jpg")
 
-KD5型之前身為[日本國鐵9600型蒸汽機車](../Page/日本國鐵9600型蒸汽機車.md "wikilink")，於1913年至1926年間，由[川崎造船](https://zh.wikipedia.org/wiki/川崎重工 "wikilink")（686輛）、[汽車製造](https://zh.wikipedia.org/wiki/汽車製造 "wikilink")（69輛）及日本國鐵小倉工廠（15輛）共製造770輛。此外，日本外地（殖民地）之樺太（庫頁島）
-<ref>樺太（庫頁島）的9600型蒸汽機車可分為以下三種：
+KD5型之前身為[日本國鐵9600型蒸汽機車](../Page/日本國鐵9600型蒸汽機車.md "wikilink")，於1913年至1926年間，由[川崎造船](https://zh.wikipedia.org/wiki/川崎重工 "wikilink")（686輛）、[汽車製造](https://zh.wikipedia.org/wiki/汽車製造 "wikilink")（69輛）及日本國鐵小倉工廠（15輛）共製造770輛。此外，日本外地（殖民地）之樺太（庫頁島） <ref>樺太（庫頁島）的9600型蒸汽機車可分為以下三種：
 
   -
 樺太鐵道於1928年至1936年向汽車製造訂購9輛9600型準同型車。與9600型差異在於鍋爐容量較少、二軸煤水車（9600型使用3軸煤水車）、密閉式駕駛室、原裝除煙板、連結器位置較低。此批機車於1941年隨樺太鐵道為樺太廳鐵道收購，1943年樺太廳鐵道編入國有鐵道後，編入9600型（79680-79688）。
 
   -
 樺太廳鐵道於1936年至1940年向川崎車輛、日立製作所訂購5輛9600型同型車，與本土的9600型差異在於採用密閉式駕駛室、連結器位置較低。1943年樺太廳鐵道編入國有鐵道，此批機車編入9600型（79670-79674）
-此外，1944年為增強輸送力，亦由日本本土移撥6輛9600型至樺太鐵道局（29619、29655、59660、59677、69626、69687）。以上蒸汽機車於二次大戰結束後均為蘇聯所接收。
-</ref> 、台灣 \[4\] ，以及日本本土之私鐵，亦有訂購同型或類似車輛使用。
+此外，1944年為增強輸送力，亦由日本本土移撥6輛9600型至樺太鐵道局（29619、29655、59660、59677、69626、69687）。以上蒸汽機車於二次大戰結束後均為蘇聯所接收。 </ref> 、台灣 \[4\] ，以及日本本土之私鐵，亦有訂購同型或類似車輛使用。
 
 9600型蒸汽機車原始設計之軌距為1067mm（日本普通鐵路使用之軌距），但相當容易修改為標準軌距。於（當時鐵道院車輛局長）及二人之自傳中，明確否定在9600型於設計當時，曾經考量將來將機車改為標準軌距之說法（）。此二人之自傳提到，在滿州事變（[九一八事變](../Page/九一八事變.md "wikilink")）接受秘密指令，將軸箱及彈簧移至車架外側時，意外發現無須修改車架修改軌距之方式。於中日戰爭開戰後，便以此種方式大量將9600型修改軌距為標準軌距。但蒸汽機車研究者則主張，9600型之設計者太田吉松為「廣軌改築論」的支持者，故於設計9600型加入之「隱藏設計」。由於9600型易於修改軌距，故於[抗日戰爭時](https://zh.wikipedia.org/wiki/抗日戰爭 "wikilink")，有大量的9600型蒸汽機車修改為標準軌距，送往中國使用。
 
@@ -77,10 +69,9 @@ KD5型之前身為[日本國鐵9600型蒸汽機車](../Page/日本國鐵9600型�
 
 #### 華北、華中
 
-[Railroad_Protection_Villages_01.JPG](https://zh.wikipedia.org/wiki/File:Railroad_Protection_Villages_01.JPG "fig:Railroad_Protection_Villages_01.JPG")
-9600型蒸汽機車由於軸重較輕可使用於路線標準較差之路線，且設計上易於改造為標準軌距，因此於1937年[中日戰爭開戰後](https://zh.wikipedia.org/wiki/中日戰爭 "wikilink")，依[日本陸軍之要求](../Page/大日本帝國陸軍.md "wikilink")，於日本鐵道省工廠修改為標準軌距送往中國大陸。改造期間由1938年2月至1939年4月分6次進行，總共改造251輛送往中國大陸，占日本鐵道省所有9600型蒸汽機車數量之1/3弱。由於鐵道省將大量的9600型蒸汽機車送往中國大陸，造成支線用煤水車型蒸汽機車不足，故大量製造補充。
+[Railroad_Protection_Villages_01.JPG](https://zh.wikipedia.org/wiki/File:Railroad_Protection_Villages_01.JPG "fig:Railroad_Protection_Villages_01.JPG") 9600型蒸汽機車由於軸重較輕可使用於路線標準較差之路線，且設計上易於改造為標準軌距，因此於1937年[中日戰爭開戰後](https://zh.wikipedia.org/wiki/中日戰爭 "wikilink")，依[日本陸軍之要求](../Page/大日本帝國陸軍.md "wikilink")，於日本鐵道省工廠修改為標準軌距送往中國大陸。改造期間由1938年2月至1939年4月分6次進行，總共改造251輛送往中國大陸，占日本鐵道省所有9600型蒸汽機車數量之1/3弱。由於鐵道省將大量的9600型蒸汽機車送往中國大陸，造成支線用煤水車型蒸汽機車不足，故大量製造補充。
 
-送往中國之251輛9600型蒸汽機車，其中150輛[華北交通接收編為Soliho](../Page/華北交通.md "wikilink")（ソリホ）型（車號：1501～），其餘由[華中鐵道接收編為Soliro](https://zh.wikipedia.org/wiki/華中鐵道 "wikilink")（ソリロ）型。華中鐵道接受之9600型於戰後有80輛由中華民國政府接收使用，10輛出借予華北交通，其餘推定使用於日本陸軍管理之路線。
+送往中國之251輛9600型蒸汽機車，其中150輛[華北交通](../Page/華北交通.md "wikilink")接收編為Soliho（ソリホ）型（車號：1501～），其餘由[華中鐵道接收編為Soliro](https://zh.wikipedia.org/wiki/華中鐵道 "wikilink")（ソリロ）型。華中鐵道接受之9600型於戰後有80輛由中華民國政府接收使用，10輛出借予華北交通，其餘推定使用於日本陸軍管理之路線。
 
 #### 海南島
 
@@ -345,13 +336,11 @@ KD5型之前身為[日本國鐵9600型蒸汽機車](../Page/日本國鐵9600型�
 
 ### 概要
 
-[5197_at_Cheddleton.jpg](https://zh.wikipedia.org/wiki/File:5197_at_Cheddleton.jpg "fig:5197_at_Cheddleton.jpg")
-[Locomotive_5197_approaching_Weybourne_-_geograph.org.uk_-_1035676.jpg](https://zh.wikipedia.org/wiki/File:Locomotive_5197_approaching_Weybourne_-_geograph.org.uk_-_1035676.jpg "fig:Locomotive_5197_approaching_Weybourne_-_geograph.org.uk_-_1035676.jpg")
+[5197_at_Cheddleton.jpg](https://zh.wikipedia.org/wiki/File:5197_at_Cheddleton.jpg "fig:5197_at_Cheddleton.jpg") [Locomotive_5197_approaching_Weybourne_-_geograph.org.uk_-_1035676.jpg](https://zh.wikipedia.org/wiki/File:Locomotive_5197_approaching_Weybourne_-_geograph.org.uk_-_1035676.jpg "fig:Locomotive_5197_approaching_Weybourne_-_geograph.org.uk_-_1035676.jpg")
 
-KD6型前身為美國陸軍型蒸汽機車（USATC S160
-Class），於1942年至1946年間由ALCO（755輛）、Baldwin（712輛）及Lima（653輛）製造2120輛。此型機車為二次大戰期間設計作為歐洲戰場之重型貨運使用，於戰後廣泛的使用在歐洲、亞洲、南美洲、非洲等地。
+KD6型前身為美國陸軍型蒸汽機車（USATC S160 Class），於1942年至1946年間由ALCO（755輛）、Baldwin（712輛）及Lima（653輛）製造2120輛。此型機車為二次大戰期間設計作為歐洲戰場之重型貨運使用，於戰後廣泛的使用在歐洲、亞洲、南美洲、非洲等地。
 
-第二次世界大戰結束後，[聯合國善後救濟總署援助](../Page/聯合國善後救濟總署.md "wikilink")40輛給中國\[6\]，後編為KD6型。中國的KD6型進行許多性能改造，例如配合較大的淨空（車輛界限），改裝大型駕駛室及新式煙囪。部分KD6型進行更多的更動，例如換裝類似於建設型蒸汽機車之煙囪並加裝排煙器等\[7\]。
+第二次世界大戰結束後，[聯合國善後救濟總署](../Page/聯合國善後救濟總署.md "wikilink")援助40輛給中國\[6\]，後編為KD6型。中國的KD6型進行許多性能改造，例如配合較大的淨空（車輛界限），改裝大型駕駛室及新式煙囪。部分KD6型進行更多的更動，例如換裝類似於建設型蒸汽機車之煙囪並加裝排煙器等\[7\]。
 
 ### 性能諸元
 
@@ -376,8 +365,7 @@ Class），於1942年至1946年間由ALCO（755輛）、Baldwin（712輛）及Li
 
 [調兵山蒸汽機車博物館](https://zh.wikipedia.org/wiki/調兵山蒸汽機車博物館 "wikilink")
 
-  - KD6-487（動態保存）<ref>[蒸汽機車簡介
-    KD6-487](http://hi.baidu.com/js5029kd487269/blog/item/9d934755d2d394163a293500.html)
+  - KD6-487（動態保存）<ref>[蒸汽機車簡介 KD6-487](http://hi.baidu.com/js5029kd487269/blog/item/9d934755d2d394163a293500.html)
 
 KD6-487號機車，曾在鄭州、柳州、韶關等地服務，後轉入工礦企業使用，於1996年自內蒙古平庄礦物局停用，2004年7月至調兵山鐵煤集團服務，目前尚可運轉，並曾多次參與例如「建國大業」、「闖關東2」等電影、電視劇拍攝。</ref>
 
@@ -389,21 +377,15 @@ KD6-487號機車，曾在鄭州、柳州、韶關等地服務，後轉入工礦�
 
 #### 外部連結
 
-  -   - [Railography : Chinese Steam Profiles KD6
-        Class 2-8-0（英文）](http://www.railography.co.uk/info/cn_steam/profiles/kd6.htm)
+  -   - [Railography : Chinese Steam Profiles KD6 Class 2-8-0（英文）](http://www.railography.co.uk/info/cn_steam/profiles/kd6.htm)
 
 ## KD7型
 
 ### 概要
 
-[KD7-534_steam_locomotive_in_China_Railway_Museum.JPG](https://zh.wikipedia.org/wiki/File:KD7-534_steam_locomotive_in_China_Railway_Museum.JPG "fig:KD7-534_steam_locomotive_in_China_Railway_Museum.JPG")
-[KD7-641_SL_by_china.JPG](https://zh.wikipedia.org/wiki/File:KD7-641_SL_by_china.JPG "fig:KD7-641_SL_by_china.JPG")
-[Baldwin_locomotive_UNRRA_aid_to_China_1.jpg](https://zh.wikipedia.org/wiki/File:Baldwin_locomotive_UNRRA_aid_to_China_1.jpg "fig:Baldwin_locomotive_UNRRA_aid_to_China_1.jpg")
+[KD7-534_steam_locomotive_in_China_Railway_Museum.JPG](https://zh.wikipedia.org/wiki/File:KD7-534_steam_locomotive_in_China_Railway_Museum.JPG "fig:KD7-534_steam_locomotive_in_China_Railway_Museum.JPG") [KD7-641_SL_by_china.JPG](https://zh.wikipedia.org/wiki/File:KD7-641_SL_by_china.JPG "fig:KD7-641_SL_by_china.JPG") [Baldwin_locomotive_UNRRA_aid_to_China_1.jpg](https://zh.wikipedia.org/wiki/File:Baldwin_locomotive_UNRRA_aid_to_China_1.jpg "fig:Baldwin_locomotive_UNRRA_aid_to_China_1.jpg")
 
-KD7蒸汽機車為[聯合國善後救濟總署](../Page/聯合國善後救濟總署.md "wikilink")（UNRRA）於二次大戰結束後，作為協助中國戰後重建所援助之蒸汽機車
-\[8\]，於1946年至1947年間由美國ALCO、Baldwin及Lima製造160輛，與比利時國鐵（SNCB/NMBS）29型（class
-29）蒸汽機車形式相同。最初稱為MCCS型 \[9\]
-，1950年改為ㄙㄌ7型（SL7），1959年改稱為KD7型。1949年中華人民共和國成立後，由於中美意識型態對立，此批蒸汽機車成為中國最後引進的美國製蒸汽機車。
+KD7蒸汽機車為[聯合國善後救濟總署](../Page/聯合國善後救濟總署.md "wikilink")（UNRRA）於二次大戰結束後，作為協助中國戰後重建所援助之蒸汽機車 \[8\]，於1946年至1947年間由美國ALCO、Baldwin及Lima製造160輛，與比利時國鐵（SNCB/NMBS）29型（class 29）蒸汽機車形式相同。最初稱為MCCS型 \[9\] ，1950年改為ㄙㄌ7型（SL7），1959年改稱為KD7型。1949年中華人民共和國成立後，由於中美意識型態對立，此批蒸汽機車成為中國最後引進的美國製蒸汽機車。
 
 KD7型主要配置於上海、廣州鐵路局做為幹線貨運用蒸汽機車 <ref>KD7型蒸汽機車於各次增產運動中，創下以下紀錄：
 
@@ -412,14 +394,9 @@ KD7型主要配置於上海、廣州鐵路局做為幹線貨運用蒸汽機車 <
   - 機車日產百萬噸公里競賽：KD7-584蒋广臣包车组在1956年5月份完成12个日产百万吨公里，平均日产129.9万吨公里，超轴5768吨。
 
 
-參見：[上海地方志辦公室 上海鐵路志 第二篇運輸生產 第五章機務
-第一節機車運用](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68766/node68846/userobject1ai66619.html)
-</ref>，
-於較大型之蒸汽機車（例如[FD型](https://zh.wikipedia.org/wiki/FD型蒸汽機車 "wikilink")）開始運用後退居次要地位。1970年代末期改為調度及小運轉使用，至1980年代逐步由[建設型蒸汽機車取代](../Page/建設型蒸汽機車.md "wikilink")。上海鐵路局於1988年年調配建設型蒸汽機車34輛，取代KD7型蒸汽機車作為調度及小運轉使用，至此KD7型蒸汽機車全部退出營運。KD7型性能雖然相當優越，但在退出國鐵營運後，並未轉賣至企業繼續使用\[10\]
-\[11\]。
+參見：[上海地方志辦公室 上海鐵路志 第二篇運輸生產 第五章機務 第一節機車運用](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68766/node68846/userobject1ai66619.html) </ref>， 於較大型之蒸汽機車（例如[FD型](https://zh.wikipedia.org/wiki/FD型蒸汽機車 "wikilink")）開始運用後退居次要地位。1970年代末期改為調度及小運轉使用，至1980年代逐步由[建設型蒸汽機車](../Page/建設型蒸汽機車.md "wikilink")取代。上海鐵路局於1988年年調配建設型蒸汽機車34輛，取代KD7型蒸汽機車作為調度及小運轉使用，至此KD7型蒸汽機車全部退出營運。KD7型性能雖然相當優越，但在退出國鐵營運後，並未轉賣至企業繼續使用\[10\] \[11\]。
 
-KD7型是相當現代化的蒸汽機車而受到相當重視，其許多設計及附屬部件作為中國改造或新設計蒸汽機車之標準\[12\]
-。KD7型並曾進行多次性能改造。1954年將機車零部件英制尺寸，進行公制轉換。1957年在群眾性的技術革新運動中，改造汽閥、汽缸漲圈、大軸潤滑系統、加煤機、汽缸排水閥進行技術改造，並加裝推煤機、鍋爐放水閥等裝備\[13\]。
+KD7型是相當現代化的蒸汽機車而受到相當重視，其許多設計及附屬部件作為中國改造或新設計蒸汽機車之標準\[12\] 。KD7型並曾進行多次性能改造。1954年將機車零部件英制尺寸，進行公制轉換。1957年在群眾性的技術革新運動中，改造汽閥、汽缸漲圈、大軸潤滑系統、加煤機、汽缸排水閥進行技術改造，並加裝推煤機、鍋爐放水閥等裝備\[13\]。
 
 ### 性能諸元
 
@@ -459,8 +436,7 @@ KD7型是相當現代化的蒸汽機車而受到相當重視，其許多設計�
 #### 外部連結
 
   -   - 鐵道之路：中國鐵路KD7型蒸汽機車[（中文）](http://www.kurogane-rail.jp/zh2/ccloco19.html)、[（日文）](http://www.kurogane-rail.jp/zh2/cloco19.html)
-      - [Railography:KD7
-        Class 2-8-0（英文）](http://www.railography.co.uk/info/cn_steam/profiles/kd7.htm)
+      - [Railography:KD7 Class 2-8-0（英文）](http://www.railography.co.uk/info/cn_steam/profiles/kd7.htm)
 
 ## KD10型
 
@@ -468,9 +444,7 @@ KD7型是相當現代化的蒸汽機車而受到相當重視，其許多設計�
 
 KD10型蒸汽機車，前身為美國[賓夕法尼亞鐵路](../Page/賓夕法尼亞鐵路.md "wikilink")，最初為1905年至1913年由美國ALCO、Baldwin及賓夕法尼亞鐵路Altoona工廠製造H6b型蒸汽機車，1920年代進行過熱化改造後，改稱為H6sb型\[15\]。
 
-[南滿州鐵道於](https://zh.wikipedia.org/wiki/南滿州鐵道 "wikilink")1938年至1939年間，從美國購買1905年至1907年由Baldwin及賓夕法尼亞鐵路Altoona工廠製造之H6sb型中古機車30輛，編入Solisa型（ソリサ）
-\[16\] \[17\]
-，通稱為「ペンソリ」（意指賓夕法尼亞鐵路的Consoliation型）。車號編為ソリサ8-22（社線）、547-561（國線）。
+[南滿州鐵道於](https://zh.wikipedia.org/wiki/南滿州鐵道 "wikilink")1938年至1939年間，從美國購買1905年至1907年由Baldwin及賓夕法尼亞鐵路Altoona工廠製造之H6sb型中古機車30輛，編入Solisa型（ソリサ） \[16\] \[17\] ，通稱為「ペンソリ」（意指賓夕法尼亞鐵路的Consoliation型）。車號編為ソリサ8-22（社線）、547-561（國線）。
 
 此批機車於中華人民共和國成立後，改稱為KD10型。
 
@@ -500,10 +474,7 @@ KD10型蒸汽機車，前身為美國[賓夕法尼亞鐵路](../Page/賓夕法�
 
 KD11型的前身為南滿州鐵道Solini（ソリニ）型\[18\]，為1907年由美國Baldwin公司製造之20輛飽和式蒸汽機車。原先稱為H2型（車號1048～1067），1920年改稱為Solini（ソリニ）型（車號不變），1938年仍稱為Solini（ソリニ）型，但車號改為ソリニ1～20。
 
-此型機車為南滿州鐵道修改軌距為標準軌後 \[19\]
-，最早訂購的一批蒸汽機車。最初使用於滿鐵本線，於M型（[ミカイ](https://zh.wikipedia.org/wiki/解放型蒸汽機車#解放1型 "wikilink")）、P型（デカ）型開始使用後，改為行使[安奉鐵路牽引貨物列車或混合列車](https://zh.wikipedia.org/wiki/沈丹鐵路 "wikilink")。1927年進行過熱式改造，同時將汽缸直徑擴大（533mm
-→
-560mm），並將汽門修改為華氏汽門。1927年有五輛出借給[四洮鐵路](https://zh.wikipedia.org/wiki/平齊鐵路 "wikilink")，1935年至1936年間使用於[北鮮鐵路](https://zh.wikipedia.org/wiki/咸北線 "wikilink")。
+此型機車為南滿州鐵道修改軌距為標準軌後 \[19\] ，最早訂購的一批蒸汽機車。最初使用於滿鐵本線，於M型（[ミカイ](https://zh.wikipedia.org/wiki/解放型蒸汽機車#解放1型 "wikilink")）、P型（デカ）型開始使用後，改為行使[安奉鐵路牽引貨物列車或混合列車](https://zh.wikipedia.org/wiki/沈丹鐵路 "wikilink")。1927年進行過熱式改造，同時將汽缸直徑擴大（533mm → 560mm），並將汽門修改為華氏汽門。1927年有五輛出借給[四洮鐵路](https://zh.wikipedia.org/wiki/平齊鐵路 "wikilink")，1935年至1936年間使用於[北鮮鐵路](https://zh.wikipedia.org/wiki/咸北線 "wikilink")。
 
 二次大戰結束時，尚有18輛Solini（ソリニ）型分布於奉天（15輛）、哈爾濱鐵路局（1輛），另有2輛出借其他鐵道。
 
@@ -524,12 +495,9 @@ KD11型的前身為南滿州鐵道Solini（ソリニ）型\[18\]，為1907年由
 
 ### 概要
 
-KD51型之前身為。9050型蒸汽機車原為向美國ALCO公司Pittsburgh工廠訂製之26輛機車。
-由於北海道炭礦鐵道於1906年10月1日國有化，故於1907年交貨時，直接編入官設鐵道。1907年由於編號規則尚未統一，故先沿用北海道炭礦鐵道原訂編號100～125，於1909年始正式編為9050型，暱稱為「新コン」（意指新型的Consolidation）
-\[20\]。
+KD51型之前身為。9050型蒸汽機車原為向美國ALCO公司Pittsburgh工廠訂製之26輛機車。 由於北海道炭礦鐵道於1906年10月1日國有化，故於1907年交貨時，直接編入官設鐵道。1907年由於編號規則尚未統一，故先沿用北海道炭礦鐵道原訂編號100～125，於1909年始正式編為9050型，暱稱為「新コン」（意指新型的Consolidation） \[20\]。
 
-1937年[中日戰爭開戰後](https://zh.wikipedia.org/wiki/中日戰爭 "wikilink")，依[日本陸軍要求](../Page/大日本帝國陸軍.md "wikilink")，全部26輛9050型蒸汽機車於1937年12月至1938年11月間，於日本鐵道省苗穗、釧路、土崎、郡山、長野等工廠將軌距由1067mm修改為1000mm後送往中國，用於[華北交通之](../Page/華北交通.md "wikilink")[正太鐵路](https://zh.wikipedia.org/wiki/石太鐵路 "wikilink")，編為SoliA（
-ソリA）型。
+1937年[中日戰爭開戰後](https://zh.wikipedia.org/wiki/中日戰爭 "wikilink")，依[日本陸軍要求](../Page/大日本帝國陸軍.md "wikilink")，全部26輛9050型蒸汽機車於1937年12月至1938年11月間，於日本鐵道省苗穗、釧路、土崎、郡山、長野等工廠將軌距由1067mm修改為1000mm後送往中國，用於[華北交通](../Page/華北交通.md "wikilink")之[正太鐵路](https://zh.wikipedia.org/wiki/石太鐵路 "wikilink")，編為SoliA（ ソリA）型。
 
 ### 性能諸元
 
@@ -564,8 +532,7 @@ KD51型之前身為。9050型蒸汽機車原為向美國ALCO公司Pittsburgh工�
 
   - 南満州鉄道の車両（日文）
 
-[Category:中国蒸汽机车](https://zh.wikipedia.org/wiki/Category:中国蒸汽机车 "wikilink")
-[Category:2-8-0輪式機車](https://zh.wikipedia.org/wiki/Category:2-8-0輪式機車 "wikilink")
+[Category:中国蒸汽机车](https://zh.wikipedia.org/wiki/Category:中国蒸汽机车 "wikilink") [Category:2-8-0輪式機車](https://zh.wikipedia.org/wiki/Category:2-8-0輪式機車 "wikilink")
 
 1.  <http://www.railography.co.uk/info/cn_steam/lists/locos/class_index.htm>
 
@@ -575,31 +542,22 @@ KD51型之前身為。9050型蒸汽機車原為向美國ALCO公司Pittsburgh工�
 4.  台灣總督府鐵道部於1923年至1939年，向川崎造船、汽車製造、日立製作所、日本車輛、三菱造船訂購9600型同型機39輛，編為800型（車號801-838），1937年形式改為D98型（車號不變），戰後改為[DT580型](../Page/日本國鐵9600型蒸汽機車.md "wikilink")（DT581-619）。DT609保存於高雄連池潭。
     另外台灣總督府鐵道部於1919年，原欲向日本訂購9600型同型機，但因日本的機車製造廠因應日本本土大量訂單無暇製造，故轉向美國按9600型的規格ALCO訂製600型共14輛（600-613），1937年改為D96型（車號不變），戰後改為[DT560](../Page/台鐵DT560型蒸汽機車.md "wikilink")。目前DT561保存於[苗栗鐵道文物展示館](../Page/苗栗鐵道文物展示館.md "wikilink")。
 
-5.  [上海地方志 上海鐵路志 運輸生產 機務
-    機車運用](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68766/node68846/userobject1ai66619.html)
-
+5.  [上海地方志 上海鐵路志 運輸生產 機務 機車運用](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68766/node68846/userobject1ai66619.html)
 
 6.
-7.  [Railography : Chinese Steam Profiles KD6
-    Class 2-8-0](http://www.railography.co.uk/info/cn_steam/profiles/kd6.htm)
+7.  [Railography : Chinese Steam Profiles KD6 Class 2-8-0](http://www.railography.co.uk/info/cn_steam/profiles/kd6.htm)
 
 8.  聯合國善後救濟總署移交之機車，有KD6（）、KD7、[JF10](https://zh.wikipedia.org/wiki/解放型蒸汽機車#解放10型 "wikilink")（）等。
 
-9.  MCCS：MC為交通部簡稱（Ministry of Transportation and
-    Communications），CS為當時形式代號（Consolidation）。
+9.  MCCS：MC為交通部簡稱（Ministry of Transportation and Communications），CS為當時形式代號（Consolidation）。
 
-10. [Railography : Chinese Steam Profiles KD7
-    Class 2-8-0](http://www.railography.co.uk/info/cn_steam/profiles/kd7.htm)
+10. [Railography : Chinese Steam Profiles KD7 Class 2-8-0](http://www.railography.co.uk/info/cn_steam/profiles/kd7.htm)
 
-11. [上海地方志辦公室 上海鐵路志 第二篇運輸生產 第五章機務
-    第一節機車運用](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68766/node68846/userobject1ai66619.html)
+11. [上海地方志辦公室 上海鐵路志 第二篇運輸生產 第五章機務 第一節機車運用](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68766/node68846/userobject1ai66619.html)
 
+12. [Railography : Chinese Steam Profiles KD7 Class 2-8-0](http://www.railography.co.uk/info/cn_steam/profiles/kd7.htm)
 
-12. [Railography : Chinese Steam Profiles KD7
-    Class 2-8-0](http://www.railography.co.uk/info/cn_steam/profiles/kd7.htm)
-
-13. [上海地方志辦公室 上海鐵路志 第二篇運輸生產 第五章機務
-    第二節機車檢修。](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68766/node68846/userobject1ai66620.html)
+13. [上海地方志辦公室 上海鐵路志 第二篇運輸生產 第五章機務 第二節機車檢修。](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68766/node68846/userobject1ai66620.html)
 
 14. [上海鐵路博物館](http://www.museum.shrail.com/tup/1-1.htm)
 

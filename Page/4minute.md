@@ -1,5 +1,4 @@
-**4Minute(4M)**（）是[韓國娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Cube娛樂於](../Page/Cube娛樂.md "wikilink")2009年6月成立的五人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，成員包括[南智賢](https://zh.wikipedia.org/wiki/南智賢 "wikilink")、[許嘉允](../Page/許嘉允.md "wikilink")、[田祉潤](../Page/田祉潤.md "wikilink")、[金泫雅](../Page/金泫雅.md "wikilink")、[權昭賢](../Page/權昭賢.md "wikilink")。2009年6月18日，以首張單曲《Hot
-Issue》正式出道。
+**4Minute(4M)**（）是[韓國娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Cube娛樂](../Page/Cube娛樂.md "wikilink")於2009年6月成立的五人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，成員包括[南智賢](https://zh.wikipedia.org/wiki/南智賢 "wikilink")、[許嘉允](../Page/許嘉允.md "wikilink")、[田祉潤](../Page/田祉潤.md "wikilink")、[金泫雅](../Page/金泫雅.md "wikilink")、[權昭賢](../Page/權昭賢.md "wikilink")。2009年6月18日，以首張單曲《Hot Issue》正式出道。
 
 團名的意義即在舞台上的4分鐘内展示她們每個人的不同魅力，另外，for (a) Minute也包含了她們希望在每個瞬間都會努力做到最好的意思。
 
@@ -11,105 +10,54 @@ Issue》正式出道。
 
 ### 2009年：以首張單曲出道、首张迷你专辑《For Muzik》
 
-5月14日，[Cube
-Entertainment公開新人女子團體](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")—4Minute。亦公佈了成員有隊長[智賢和前](https://zh.wikipedia.org/wiki/南智賢 "wikilink")[Wonder
-Girls成員](../Page/Wonder_Girls.md "wikilink")[泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")。6月13日，於網上公開了出道單曲《[Hot
-Issue](../Page/For_Muzik.md "wikilink")》的30秒音樂影像預告。其後6月15日公開《Hot
-Issue》的MV，成為搜索排行榜的第一名。6月18日，以出道曲《Hot
-Issue》在[Mnet的音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行首次登台演出，宣布正式出道，之後在8月初結束此次單曲的宣傳。8月20日，4Minute公開了首張韓語迷你專輯《[For
-Muzik](../Page/For_Muzik.md "wikilink")》，主打歌《Muzik》分別於出道的第101天，9月27日的《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》獲得了第一個1位及10月1日《M\!
-Countdown》第二個1位。專輯公開一星期後的8月27日，[KBS電視台對](https://zh.wikipedia.org/wiki/KBS "wikilink")《For
-Muzik》中收錄的《안줄래 (Won't Give
-You)》進行了評估，後被評為附有色情詞句的歌曲，在電視台禁播。其後10月18日，她們以後續曲《What
-A Girl
-Want》進行了短暫的宣傳。12月2日，4Minute公開與同門師兄[Mario合作錄製的聖誕數位單曲](https://zh.wikipedia.org/wiki/Mario "wikilink")《Jingle
-Jingle》，歌曲MV則在翌日公開。
+5月14日，[Cube Entertainment公開新人女子團體](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")—4Minute。亦公佈了成員有隊長[智賢和前](https://zh.wikipedia.org/wiki/南智賢 "wikilink")[Wonder Girls成員](../Page/Wonder_Girls.md "wikilink")[泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")。6月13日，於網上公開了出道單曲《[Hot Issue](../Page/For_Muzik.md "wikilink")》的30秒音樂影像預告。其後6月15日公開《Hot Issue》的MV，成為搜索排行榜的第一名。6月18日，以出道曲《Hot Issue》在[Mnet的音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行首次登台演出，宣布正式出道，之後在8月初結束此次單曲的宣傳。8月20日，4Minute公開了首張韓語迷你專輯《[For Muzik](../Page/For_Muzik.md "wikilink")》，主打歌《Muzik》分別於出道的第101天，9月27日的《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》獲得了第一個1位及10月1日《M\! Countdown》第二個1位。專輯公開一星期後的8月27日，[KBS電視台對](https://zh.wikipedia.org/wiki/KBS "wikilink")《For Muzik》中收錄的《안줄래 (Won't Give You)》進行了評估，後被評為附有色情詞句的歌曲，在電視台禁播。其後10月18日，她們以後續曲《What A Girl Want》進行了短暫的宣傳。12月2日，4Minute公開與同門師兄[Mario合作錄製的聖誕數位單曲](https://zh.wikipedia.org/wiki/Mario "wikilink")《Jingle Jingle》，歌曲MV則在翌日公開。
 
 ### 2010年：泫雅Solo出道、第二張迷你專輯《Hit Your Heart》
 
-1月8日，[泫雅公開了與](../Page/金泫雅.md "wikilink")[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")[龍俊亨合作的個人Solo單曲](../Page/龍俊亨.md "wikilink")《[Change](../Page/Change_\(歌曲\).md "wikilink")》。5月19日，4Minute公開了第二張迷你專輯《[Hit
-Your Heart](../Page/Hit_Your_Heart.md "wikilink")》，主打歌《Huh》在6月17日的《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》得到了1位。其後她們於7月1日起開始以後續曲《I
-My Me Mine》進行了短暫的宣傳。
+1月8日，[泫雅公開了與](../Page/金泫雅.md "wikilink")[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")[龍俊亨](../Page/龍俊亨.md "wikilink")合作的個人Solo單曲《[Change](../Page/Change_\(歌曲\).md "wikilink")》。5月19日，4Minute公開了第二張迷你專輯《[Hit Your Heart](../Page/Hit_Your_Heart.md "wikilink")》，主打歌《Huh》在6月17日的《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》得到了1位。其後她們於7月1日起開始以後續曲《I My Me Mine》進行了短暫的宣傳。
 
 ### 2011年：首張正規專輯《4minutes Left》、泫雅首張迷你專輯《Bubble Pop\!》、泫雅與BEAST成員賢勝組成Trouble Maker出道
 
-3月29日，4Minute首先公開了首張正規專輯《4minutes Left》的數位先行版本《Heart to
-Heart》，其後在4月5日正式發行首張韓語正規專輯《[4minutes
-Left](../Page/4minutes_Left.md "wikilink")》。此次專輯採用雙主打的方式宣傳，兩首主打歌分別為《거울아
-거울아 (Mirror Mirror)》及《Heart to Heart》。她們先以《거울아 거울아 (Mirror
-Mirror)》作為第一波主打歌，其後在4月21日的《M\!
-Countdown》得到了1位。6月1日起以第二波主打歌《Heart to
-Heart》進行了短暫的宣傳。在完成4Minute的專輯宣傳後，7月5日[泫雅公開了首張個人迷你專輯](../Page/金泫雅.md "wikilink")《》，主打曲為《》，並以《Follow
-Me》作為後續曲。她之後於12月15日與同公司的[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[賢勝組成特別企劃](../Page/張賢勝.md "wikilink")[Trouble
-Maker](../Page/Trouble_Maker.md "wikilink")，其後公開了同名主打曲《Trouble
-Maker》，並分別於12月15日、12月22日、12月29日的《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、2012年1月5日的《》及2012年1月8日的《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》取得一位。
+3月29日，4Minute首先公開了首張正規專輯《4minutes Left》的數位先行版本《Heart to Heart》，其後在4月5日正式發行首張韓語正規專輯《[4minutes Left](../Page/4minutes_Left.md "wikilink")》。此次專輯採用雙主打的方式宣傳，兩首主打歌分別為《거울아 거울아 (Mirror Mirror)》及《Heart to Heart》。她們先以《거울아 거울아 (Mirror Mirror)》作為第一波主打歌，其後在4月21日的《M\! Countdown》得到了1位。6月1日起以第二波主打歌《Heart to Heart》進行了短暫的宣傳。在完成4Minute的專輯宣傳後，7月5日[泫雅公開了首張個人迷你專輯](../Page/金泫雅.md "wikilink")《》，主打曲為《》，並以《Follow Me》作為後續曲。她之後於12月15日與同公司的[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[賢勝組成特別企劃](../Page/張賢勝.md "wikilink")[Trouble Maker](../Page/Trouble_Maker.md "wikilink")，其後公開了同名主打曲《Trouble Maker》，並分別於12月15日、12月22日、12月29日的《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、2012年1月5日的《》及2012年1月8日的《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》取得一位。
 
 ### 2012年：第三張迷你專輯《Volume Up》、泫雅第二張迷你專輯《Melting》
 
-2012年年初，[Cube
-Entertainment曾向外界釋出了](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")4Minute將於2月發行第三張迷你專輯的消息。不過後來不斷延期至4月9日，與去年4月發表的正規專輯足足隔了一年。經紀公司表示此次專輯會以新嘗試的實驗性風格作突破，一共收錄7首歌曲，包括[新沙洞老虎等知名音樂製作人打造屬於](../Page/新沙洞老虎.md "wikilink")4Minute的特色。
-第三張迷你專輯《[Volume
-Up](../Page/Volume_Up.md "wikilink")》於2012年4月9日公開發售，主打曲為《Volume
-Up》。首張概念照於4月3日韓國時間下午1時公開，在這張照片中她們以較清純的形象示人。第二張概念照於4月4日韓國時間下午4時44分公開，與前一張概念照風格截然不同，以吸血鬼的形象示人。首波MV預告於4月6日韓國時間上午10時公開發佈，而第二個MV預告於4月8日韓國時間上午10時公開發佈。MV則於4月9日連同音源公開發佈。
+2012年年初，[Cube Entertainment曾向外界釋出了](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")4Minute將於2月發行第三張迷你專輯的消息。不過後來不斷延期至4月9日，與去年4月發表的正規專輯足足隔了一年。經紀公司表示此次專輯會以新嘗試的實驗性風格作突破，一共收錄7首歌曲，包括[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")等知名音樂製作人打造屬於4Minute的特色。
+第三張迷你專輯《[Volume Up](../Page/Volume_Up.md "wikilink")》於2012年4月9日公開發售，主打曲為《Volume Up》。首張概念照於4月3日韓國時間下午1時公開，在這張照片中她們以較清純的形象示人。第二張概念照於4月4日韓國時間下午4時44分公開，與前一張概念照風格截然不同，以吸血鬼的形象示人。首波MV預告於4月6日韓國時間上午10時公開發佈，而第二個MV預告於4月8日韓國時間上午10時公開發佈。MV則於4月9日連同音源公開發佈。
 
-2012年10月21日，泫雅發表第二張迷你專輯《》，首波主打歌曲《》，該首歌曲是由勇敢兄弟所製作，這也是泫雅首次以solo歌手和他合作，專輯也收錄了泫雅首次作詞作曲的創作歌曲《Very
-Hot》及泫雅參與作詞的《내 남자친구에게》。 《Ice
-Cream》的MV於10月22日發布，PSY為感謝泫雅先前參與《[江南Style](../Page/江南Style.md "wikilink")》的演出，客串演出了該MV，並於4日內(10月26日)點擊率破千萬大關。
+2012年10月21日，泫雅發表第二張迷你專輯《》，首波主打歌曲《》，該首歌曲是由勇敢兄弟所製作，這也是泫雅首次以solo歌手和他合作，專輯也收錄了泫雅首次作詞作曲的創作歌曲《Very Hot》及泫雅參與作詞的《내 남자친구에게》。 《Ice Cream》的MV於10月22日發布，PSY為感謝泫雅先前參與《[江南Style](../Page/江南Style.md "wikilink")》的演出，客串演出了該MV，並於4日內(10月26日)點擊率破千萬大關。
 
 ### 2013年：子團2Yoon出道、第四張迷你專輯《Name is 4minute》、Trouble Maker第二張迷你專輯《CHEMISTRY》
 
-在去年的12月25日，[Cube
-Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[Twitter中對外透露由成員](../Page/Twitter.md "wikilink")[嘉允和](../Page/許嘉允.md "wikilink")[祉潤組成的](../Page/田祉潤.md "wikilink")[2Yoon限定團體將於](../Page/2Yoon.md "wikilink")2013年1月推出，而當時專輯已在後製階段即將完成。2Yoon的首張迷你專輯《[Harvest
-Moon](../Page/Harvest_Moon.md "wikilink")》於1月17日中午公開發售，MV於當日連同音源公開，主打曲《24/7》的音樂風格為Country
-Pop，由新沙洞老虎、金度勋及李尚浩聯手創作。
+在去年的12月25日，[Cube Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[Twitter](../Page/Twitter.md "wikilink")中對外透露由成員[嘉允和](../Page/許嘉允.md "wikilink")[祉潤組成的](../Page/田祉潤.md "wikilink")[2Yoon](../Page/2Yoon.md "wikilink")限定團體將於2013年1月推出，而當時專輯已在後製階段即將完成。2Yoon的首張迷你專輯《[Harvest Moon](../Page/Harvest_Moon.md "wikilink")》於1月17日中午公開發售，MV於當日連同音源公開，主打曲《24/7》的音樂風格為Country Pop，由新沙洞老虎、金度勋及李尚浩聯手創作。
 
-第四張迷你專輯《[Name is
-4minute](https://zh.wikipedia.org/wiki/Name_is_4minute "wikilink")》於2013年4月26日公開發售，主打曲為《이름이
-뭐예요? (What's Your Name?)》。MV與音源於同日公開發佈。在《[Name is
-4minute](https://zh.wikipedia.org/wiki/Name_is_4minute "wikilink")》專輯中，她們表現出只有4Minute能駕馭的強悍形象，而專輯中混合了嘻哈、搖滾、電子樂等各種類型的音樂，更突顯了4Minute的獨特魅力。總是處在話題中心的她們與韓國知名製作人「[勇敢兄弟](https://zh.wikipedia.org/wiki/Brave_Brothers "wikilink")」合作新嘻哈風主打歌《What's
-Your Name?》，是首節奏感強烈且旋律輕快的歌曲，而她們也在MV中引領舞群大跳「殭屍舞」。
+第四張迷你專輯《[Name is 4minute](https://zh.wikipedia.org/wiki/Name_is_4minute "wikilink")》於2013年4月26日公開發售，主打曲為《이름이 뭐예요? (What's Your Name?)》。MV與音源於同日公開發佈。在《[Name is 4minute](https://zh.wikipedia.org/wiki/Name_is_4minute "wikilink")》專輯中，她們表現出只有4Minute能駕馭的強悍形象，而專輯中混合了嘻哈、搖滾、電子樂等各種類型的音樂，更突顯了4Minute的獨特魅力。總是處在話題中心的她們與韓國知名製作人「[勇敢兄弟](https://zh.wikipedia.org/wiki/Brave_Brothers "wikilink")」合作新嘻哈風主打歌《What's Your Name?》，是首節奏感強烈且旋律輕快的歌曲，而她們也在MV中引領舞群大跳「殭屍舞」。
 
-為了感謝粉絲對《What's Your Name?》的支持，4Minute於6月28日釋出新MV《Is It
-Poppin?》再度回歸歌壇；在之前由於未能通過審核，被KBS電視台禁播，禁播理由是因為歌詞裡有「ASS（屁股）」一詞。歌曲是活潑旋律hiphop舞曲，由[勇敢兄弟創作](https://zh.wikipedia.org/wiki/Brave_Brothers "wikilink")，可以再次感受到4Minute的特色。4Minute於28日發表新歌後開始活動。
-之後，[泫雅的特別企劃](https://zh.wikipedia.org/wiki/泫雅 "wikilink")[Trouble
-Maker回歸](../Page/Trouble_Maker.md "wikilink")，於10月28日公開了主打歌《내일은없어(Now)》及MV。
+為了感謝粉絲對《What's Your Name?》的支持，4Minute於6月28日釋出新MV《Is It Poppin?》再度回歸歌壇；在之前由於未能通過審核，被KBS電視台禁播，禁播理由是因為歌詞裡有「ASS（屁股）」一詞。歌曲是活潑旋律hiphop舞曲，由[勇敢兄弟創作](https://zh.wikipedia.org/wiki/Brave_Brothers "wikilink")，可以再次感受到4Minute的特色。4Minute於28日發表新歌後開始活動。 之後，[泫雅的特別企劃](https://zh.wikipedia.org/wiki/泫雅 "wikilink")[Trouble Maker回歸](../Page/Trouble_Maker.md "wikilink")，於10月28日公開了主打歌《내일은없어(Now)》及MV。
 
 ### 2014年：第五張迷你專輯《4Minute World》、泫雅第三張迷你專輯《A Talk》
 
-1月20日，勇敢兄弟發表了由泫雅、嘉允、昭賢feat的單曲「Only Gained
-Weight」，該首歌曲在Melon跟Gaon榜上取得第五名的成績。\[3\]
+1月20日，勇敢兄弟發表了由泫雅、嘉允、昭賢feat的單曲「Only Gained Weight」，該首歌曲在Melon跟Gaon榜上取得第五名的成績。\[3\]
 
-3月17日，發行第五張迷你專輯《[4Minute
-World](../Page/4minute_World.md "wikilink")》，主打歌為「Whatcha
-Doin' Today?」\[4\]
+3月17日，發行第五張迷你專輯《[4Minute World](../Page/4minute_World.md "wikilink")》，主打歌為「Whatcha Doin' Today?」\[4\]
 
 7月28日，泫雅發行個人第三張迷你專輯《[A Talk](../Page/A_Talk.md "wikilink")》。
 
 ### 2015年：第六張迷你專輯《Crazy》、昭賢真少女組合、泫雅第四張個人迷你專輯《A+》
 
-1月20日，[Cube
-Entertainment通過官方SNS公開了](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")4Minute的回歸預告片。此次將於2月攜雙主打歌正式回歸，並在1月26日公開第一首主打歌《Cold
-Rain》的音源及MV\[5\]。
+1月20日，[Cube Entertainment通過官方SNS公開了](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")4Minute的回歸預告片。此次將於2月攜雙主打歌正式回歸，並在1月26日公開第一首主打歌《Cold Rain》的音源及MV\[5\]。
 
-2月9日，發行迷你六輯《[Crazy](../Page/Crazy_\(4MINUTE迷你專輯\).md "wikilink")》；10日，《Crazy》
-MV於24小時內突破百萬人次觀看；20日，昭賢以「真少女」身分公開單曲《Magic Words(올해의 주문)》音源以及MV\[6\]。
+2月9日，發行迷你六輯《[Crazy](../Page/Crazy_\(4MINUTE迷你專輯\).md "wikilink")》；10日，《Crazy》 MV於24小時內突破百萬人次觀看；20日，昭賢以「真少女」身分公開單曲《Magic Words(올해의 주문)》音源以及MV\[6\]。
 
-5月24日，《Crazy》
-MV於105天內突破2千萬人次觀看，成為4Minute合體最快破2千萬的影片。於2017年11月5日，突破一億人次觀看，使4Minute進入有億次觀看MV的韓團之一，亦是首隊非韓國三大娛樂公司推出的女子音樂團體破億。
+5月24日，《Crazy》 MV於105天內突破2千萬人次觀看，成為4Minute合體最快破2千萬的影片。於2017年11月5日，突破一億人次觀看，使4Minute進入有億次觀看MV的韓團之一，亦是首隊非韓國三大娛樂公司推出的女子音樂團體破億。
 
-8月21日，韓國時間中午12點，於4Minute官方Youtube頻道發布泫雅"잘나가서 그래 (Roll Deep) (Feat. 정일훈
-Of BTOB)" 的MV；下午發布專輯全曲音源。
+8月21日，韓國時間中午12點，於4Minute官方Youtube頻道發布泫雅"잘나가서 그래 (Roll Deep) (Feat. 정일훈 Of BTOB)" 的MV；下午發布專輯全曲音源。
 
 ### 2016年：第七張迷你專輯4M《Act.7》、團體解散
 
-1月20日，4Minute通過[Cube娛樂官方SNS公開了回歸宣傳照](../Page/Cube娛樂.md "wikilink")，照片上簡單的紅色「4M」LOGO給人強烈的視覺效果。本次回歸採用的是「強勢大姐」（Girl
-Crush）概念\[7\]。
+1月20日，4Minute通過[Cube娛樂](../Page/Cube娛樂.md "wikilink")官方SNS公開了回歸宣傳照，照片上簡單的紅色「4M」LOGO給人強烈的視覺效果。本次回歸採用的是「強勢大姐」（Girl Crush）概念\[7\]。
 
-2月1日，攜《[Act.
-7](../Page/Act._7.md "wikilink")》正式回歸。主打歌曲《Hate》音樂錄影帶於20小時內突破一百萬人次觀看，超越《Crazy》所創造的紀錄，並於24小時又35分鐘內讚數突破10萬，且在海外歌曲榜單上成績佳，排行榜的排名甚至比之前發行《Crazy》時還上升得快。
+2月1日，攜《[Act. 7](../Page/Act._7.md "wikilink")》正式回歸。主打歌曲《Hate》音樂錄影帶於20小時內突破一百萬人次觀看，超越《Crazy》所創造的紀錄，並於24小時又35分鐘內讚數突破10萬，且在海外歌曲榜單上成績佳，排行榜的排名甚至比之前發行《Crazy》時還上升得快。
 
 6月13日，早上網路流傳4Minute解散消息，公司表示現階段僅得泫雅續約，同日下午發布新聞，5位成員認為不能再繼續進行組合活動，根據成員們的意見實際上與解散無異\[8\]\[9\]。
 
@@ -1133,7 +1081,6 @@ Crush）概念\[7\]。
 
   - [馬來西亞環球唱片官方網站](https://web.archive.org/web/20150123085945/http://www.universalmusic.com.my/unimusic/artist_details.php?artist_id=122)
 
-
 <!-- end list -->
 
   - Twitter
@@ -1155,38 +1102,19 @@ Crush）概念\[7\]。
   -
   -
   -
-[Category:4minute](https://zh.wikipedia.org/wiki/Category:4minute "wikilink")
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
-[Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink")
+[Category:4minute](https://zh.wikipedia.org/wiki/Category:4minute "wikilink") [Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink")
 
-1.  [4Minute 確定解散，泫雅以外四人不續約](http://kpopn.niusnews.com/=K1crxdx4)
-    ，《KPOPN》
-2.  [4Minute停止活動！Cube娛樂正式公佈：南智賢、許嘉允、田祉潤及權昭賢不再續約](http://www.vlovekpop.com/20160617-4min/)
-    vlovekpop
+1.  [4Minute 確定解散，泫雅以外四人不續約](http://kpopn.niusnews.com/=K1crxdx4) ，《KPOPN》
+2.  [4Minute停止活動！Cube娛樂正式公佈：南智賢、許嘉允、田祉潤及權昭賢不再續約](http://www.vlovekpop.com/20160617-4min/) vlovekpop
 3.
 4.
-5.  [4minute曝新曲《冷雨》MV冰感誘惑](http://www.koreastardaily.com/tc/video/55347)韓星網
-    2015-1-26
+5.  [4minute曝新曲《冷雨》MV冰感誘惑](http://www.koreastardaily.com/tc/video/55347)韓星網 2015-1-26
 6.  [真少女《年度咒語》MV](http://kpopn.com/2015/02/21/262704/)Kpopn 2015-2-21
-7.  [4Minute新專輯《Act.7》二月初發售
-    「強勢大姐」回歸](http://www.koreastardaily.com/tc/news/72914)韓星網
-    2016-1-20
-8.  [CUBE更新4minute立場　解散為五人共同決定](http://www.koreastardaily.com/tc/news/79724)韓星網
-    2015-6-13
-9.  [4Minute出道7年 宣佈解散](http://www.koreastardaily.com/tc/news/79686)韓星網
-    2016-6-13
-10. [CUBE
-    發表官方立場 4Minute確定解散](http://www.koreastardaily.com/tc/news/79885)韓星網
-    2016-6-16
-11. [4Minute停止活動！Cube正式公佈：南智賢、許嘉允、田祉潤及權昭賢不再續約](http://www.vlovekpop.com/20160617-4min/)
-    vlovekpop
+7.  [4Minute新專輯《Act.7》二月初發售 「強勢大姐」回歸](http://www.koreastardaily.com/tc/news/72914)韓星網 2016-1-20
+8.  [CUBE更新4minute立場　解散為五人共同決定](http://www.koreastardaily.com/tc/news/79724)韓星網 2015-6-13
+9.  [4Minute出道7年 宣佈解散](http://www.koreastardaily.com/tc/news/79686)韓星網 2016-6-13
+10. [CUBE 發表官方立場 4Minute確定解散](http://www.koreastardaily.com/tc/news/79885)韓星網 2016-6-16
+11. [4Minute停止活動！Cube正式公佈：南智賢、許嘉允、田祉潤及權昭賢不再續約](http://www.vlovekpop.com/20160617-4min/) vlovekpop
 12.
 13.
 14.

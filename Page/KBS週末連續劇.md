@@ -1,5 +1,4 @@
-**KBS週末連續劇**（）是[韓國放送公社](../Page/韓國放送公社.md "wikilink")[第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")（KBS
-2TV）於[星期六](../Page/星期六.md "wikilink")、星期日19:55\~21.15（[KST](https://zh.wikipedia.org/wiki/KST "wikilink")）所播放的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
+**KBS週末連續劇**（）是[韓國放送公社](../Page/韓國放送公社.md "wikilink")[第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")（KBS 2TV）於[星期六](../Page/星期六.md "wikilink")、星期日19:55\~21.15（[KST](https://zh.wikipedia.org/wiki/KST "wikilink")）所播放的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
 KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少經典的家庭劇，而收視率亦長期居高不下，絕大部分劇集皆能獲得超過30%的高收視成績。
 
@@ -1062,7 +1061,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 <td style="text-align: center;"><p><a href="../Page/真是好時節.md" title="wikilink">真是好時節</a><br />
 </p></td>
 <td style="text-align: center;"><p>50</p></td>
-<td style="text-align: center;"><p><a href="../Page/李瑞鎮.md" title="wikilink">李瑞鎮</a>、<a href="../Page/金喜善.md" title="wikilink">金喜善</a>、<a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉澤演</a>、<a href="../Page/柳承秀.md" title="wikilink">柳承秀</a>、<a href="../Page/金芝荷.md" title="wikilink">金芝荷</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李瑞鎮.md" title="wikilink">李瑞鎮</a>、<a href="../Page/金喜善.md" title="wikilink">金喜善</a>、<a href="../Page/玉澤演.md" title="wikilink">玉澤演</a>、<a href="../Page/柳承秀.md" title="wikilink">柳承秀</a>、<a href="../Page/金芝荷.md" title="wikilink">金芝荷</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金鎮元" title="wikilink">金鎮元</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/李慶熙.md" title="wikilink">李慶熙</a></p></td>
 <td style="text-align: center;"></td>
@@ -1336,14 +1335,9 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
   - [韓國KBS官方網站](http://www.kbs.co.kr/)
   - [KBS 2TV節目表](https://web.archive.org/web/20070812055613/http://www.kbs.co.kr/plan_table/channel/2tv/index.html)
 
-
 ## 相關項目
 
   - [MBC週末連續劇](../Page/MBC週末連續劇.md "wikilink")
   - [SBS週末劇場](https://zh.wikipedia.org/wiki/SBS週末劇場 "wikilink")
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:KBS週末連續劇](https://zh.wikipedia.org/wiki/Category:KBS週末連續劇 "wikilink")
-[Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:KBS週末連續劇](https://zh.wikipedia.org/wiki/Category:KBS週末連續劇 "wikilink") [Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

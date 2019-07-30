@@ -1,4 +1,4 @@
-《**Spirits\!\!**》為日本男偶像團體[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")2張DVD｡。
+《**Spirits\!\!**》為日本男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第2張DVD｡。
 
 ## 概要
 
@@ -18,8 +18,7 @@
 9.  明日　大山田（[大倉忠義](../Page/大倉忠義.md "wikilink")・[丸山隆平](../Page/丸山隆平.md "wikilink")・[安田章大](../Page/安田章大.md "wikilink")）
 10. All Of Me For You
 11. PGF　[錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")・[横山裕](https://zh.wikipedia.org/wiki/横山裕 "wikilink")・[澀谷昴](../Page/澀谷昴.md "wikilink")
-12. 剣の舞
-    ※途中加入、[村上信五](../Page/村上信五.md "wikilink")・[大倉忠義](../Page/大倉忠義.md "wikilink")・[安田章大](../Page/安田章大.md "wikilink")・[丸山隆平](../Page/丸山隆平.md "wikilink")
+12. 剣の舞 ※途中加入、[村上信五](../Page/村上信五.md "wikilink")・[大倉忠義](../Page/大倉忠義.md "wikilink")・[安田章大](../Page/安田章大.md "wikilink")・[丸山隆平](../Page/丸山隆平.md "wikilink")
 13. Let's Fight
 14. ベスト・フレンド -BEST FRIEND-
 15. 桜援歌 (Oh\!ENKA)
@@ -53,5 +52,4 @@
 4.  「Spirits\!\!」貼紙
       - 以上沒有收錄於通常盤中
 
-[Category:關西傑尼斯8影像作品](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8影像作品 "wikilink")
-[Category:2006年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2006年音樂相關影像作品 "wikilink")
+[Category:關西傑尼斯8影像作品](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8影像作品 "wikilink") [Category:2006年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2006年音樂相關影像作品 "wikilink")

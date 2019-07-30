@@ -1,5 +1,4 @@
-以下是用不同语言写成的**[Hello World](../Page/Hello_World.md "wikilink")**程序的列表：
-[Hello_World_App.png](https://zh.wikipedia.org/wiki/File:Hello_World_App.png "fig:Hello_World_App.png")的正確輸出示範\]\]
+以下是用不同语言写成的**[Hello World](../Page/Hello_World.md "wikilink")**程序的列表： [Hello_World_App.png](https://zh.wikipedia.org/wiki/File:Hello_World_App.png "fig:Hello_World_App.png")的正確輸出示範\]\]
 
 ## 打印到终端
 
@@ -68,7 +67,7 @@ end HELLO;
 
 \[3\]
 
-#### [x86](https://zh.wikipedia.org/wiki/x86 "wikilink") [CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[MASM32](../Page/MASM.md "wikilink")
+#### [x86](https://zh.wikipedia.org/wiki/x86 "wikilink") [CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[MASM](../Page/MASM.md "wikilink")32
 
 ``` ASM
  .386
@@ -164,8 +163,7 @@ BEGIN { print "Hello, world!" }
 
 ### [BASIC](https://zh.wikipedia.org/wiki/BASIC编程语言 "wikilink")
 
-**传统版 BASIC（例如
-[GWBASIC](https://zh.wikipedia.org/wiki/GWBASIC "wikilink")）：**
+**传统版 BASIC（例如 [GWBASIC](https://zh.wikipedia.org/wiki/GWBASIC "wikilink")）：**
 
 ``` qbasic
 10 PRINT "Hello, world!"
@@ -360,7 +358,7 @@ class HelloWorldApp
 
 \[11\]
 
-### [DOS批处理](../Page/DOS.md "wikilink")
+### [DOS](../Page/DOS.md "wikilink")批处理
 
 ``` dos
 @echo Hello, world!
@@ -413,8 +411,7 @@ end -- class HELLO_WORLD
 
 ### Flowgorithm
 
-[<file:Flowgorithm>`   ``Hello``
- ``World.png`](https://zh.wikipedia.org/wiki/file:Flowgorithm_Hello_World.png "wikilink")
+[<file:Flowgorithm>`   ``Hello``   ``World.png`](https://zh.wikipedia.org/wiki/file:Flowgorithm_Hello_World.png "wikilink")
 
 {{-}}
 
@@ -799,8 +796,7 @@ Om:"Hello, world!"
 
 ### [Scratch](https://zh.wikipedia.org/wiki/Scratch_\(程式語言\) "wikilink")
 
-<small></small>[<File:Scratch>`   ``Hello``   ``World``   ``zh``
- ``hant.png`](https://zh.wikipedia.org/wiki/File:Scratch_Hello_World_zh_hant.png "fig:File:Scratch Hello World zh hant.png")
+<small></small>[<File:Scratch>`   ``Hello``   ``World``   ``zh``   ``hant.png`](https://zh.wikipedia.org/wiki/File:Scratch_Hello_World_zh_hant.png "fig:File:Scratch Hello World zh hant.png")
 
 ### [sed](https://zh.wikipedia.org/wiki/sed "wikilink")
 
@@ -1091,8 +1087,7 @@ public class HelloFrame extends Frame
 
 ### [Java Applet](https://zh.wikipedia.org/wiki/Java_Applet "wikilink")
 
-[Java
-Applet用于](https://zh.wikipedia.org/wiki/Java_Applet "wikilink")[HTML文件](../Page/HTML.md "wikilink")。
+[Java Applet用于](https://zh.wikipedia.org/wiki/Java_Applet "wikilink")[HTML](../Page/HTML.md "wikilink")文件。
 
 HTML代码：
 
@@ -1126,9 +1121,7 @@ public class HelloWorld extends Applet
 
 ### [JavaScript](../Page/JavaScript.md "wikilink")
 
-[JavaScript是一种脚本语言](../Page/JavaScript.md "wikilink")。最广泛用于HTML文件中，也可以用在其它宿主环境下，比如Microsoft®
-Windows®
-脚本宿主（[WSH](https://zh.wikipedia.org/wiki/WSH "wikilink")）和一些web服务环境。
+[JavaScript](../Page/JavaScript.md "wikilink")是一种脚本语言。最广泛用于HTML文件中，也可以用在其它宿主环境下，比如Microsoft® Windows® 脚本宿主（[WSH](https://zh.wikipedia.org/wiki/WSH "wikilink")）和一些web服务环境。
 
 用于HTML中：
 
@@ -1146,7 +1139,7 @@ WScript.Echo("Hello, World!");
 
 ### [PostScript](../Page/PostScript.md "wikilink")
 
-[PostScript是一种专门用来创建图像的语言](../Page/PostScript.md "wikilink")，常用于打印机。
+[PostScript](../Page/PostScript.md "wikilink")是一种专门用来创建图像的语言，常用于打印机。
 
 ``` text
 /font /Courier findfont 24 scalefont
@@ -1204,11 +1197,9 @@ showpage
 
   - [GitHub上的Hello World程序样例集](https://github.com/leachim6/hello-world)
 
-[Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink")
-[Category:带有C代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有C代码示例的条目 "wikilink")
+[Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink") [Category:带有C代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有C代码示例的条目 "wikilink")
 
-1.  [The Hello World Collection](http://helloworldcollection.de)
-    helloworldcollection.de \[2014-12-12\]
+1.  [The Hello World Collection](http://helloworldcollection.de) helloworldcollection.de \[2014-12-12\]
 
 2.
 3.

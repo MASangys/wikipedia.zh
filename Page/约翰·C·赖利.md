@@ -2,12 +2,7 @@
 
 ## 早年生活
 
-[MrJohnCReilly.jpg](https://zh.wikipedia.org/wiki/File:MrJohnCReilly.jpg "fig:MrJohnCReilly.jpg")
-他生于[芝加哥](../Page/芝加哥.md "wikilink")，在家中六个孩子中排行第五。父亲是[爱尔兰裔美国人](https://zh.wikipedia.org/wiki/爱尔兰裔美国人 "wikilink")，母亲是[立陶宛裔美国人](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")\[1\]\[2\]。父亲*John
-Reilly,
-Sr.*经营一家纺织品公司\[3\]\[4\]。家人信仰[天主教](../Page/天主教.md "wikilink")\[5\]\[6\]，他就读于天主教中学—Brother
-Rice High
-School\[7\]\[8\]。后来毕业于芝加哥的[帝博大學](https://zh.wikipedia.org/wiki/帝博大學 "wikilink")。
+[MrJohnCReilly.jpg](https://zh.wikipedia.org/wiki/File:MrJohnCReilly.jpg "fig:MrJohnCReilly.jpg") 他生于[芝加哥](../Page/芝加哥.md "wikilink")，在家中六个孩子中排行第五。父亲是[爱尔兰裔美国人](https://zh.wikipedia.org/wiki/爱尔兰裔美国人 "wikilink")，母亲是[立陶宛裔美国人](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")\[1\]\[2\]。父亲*John Reilly, Sr.*经营一家纺织品公司\[3\]\[4\]。家人信仰[天主教](../Page/天主教.md "wikilink")\[5\]\[6\]，他就读于天主教中学—Brother Rice High School\[7\]\[8\]。后来毕业于芝加哥的[帝博大學](https://zh.wikipedia.org/wiki/帝博大學 "wikilink")。
 
 ## 个人生活
 
@@ -424,50 +419,21 @@ Also Writer/Producer</p></td>
 
   -
   -
-  - [New York Times profile on John C.
-    Reilly](http://www.nytimes.com/2006/07/23/movies/23stei.html?pagewanted=2)
+  - [New York Times profile on John C. Reilly](http://www.nytimes.com/2006/07/23/movies/23stei.html?pagewanted=2)
 
-  - [In the Driver's Seat (*Moving Pictures Magazine*
-    interview)](http://www.movingpicturesmagazine.com/Default.aspx?DN=fd160844-010d-4a64-87c6-3fc652e72811)
+  - [In the Driver's Seat (*Moving Pictures Magazine* interview)](http://www.movingpicturesmagazine.com/Default.aspx?DN=fd160844-010d-4a64-87c6-3fc652e72811)
 
-  - [Interpreting Tennessee
-    Williams](https://web.archive.org/web/20060709180125/http://www.americantheatrewing.org/seminars/detail/interpreting_tennessee_williams_04_05/)
-    – *Working in the Theatre Seminar* video at [American Theatre
-    Wing.org](https://zh.wikipedia.org/wiki/American_Theatre_Wing "wikilink"),
-    April 2005
+  - [Interpreting Tennessee Williams](https://web.archive.org/web/20060709180125/http://www.americantheatrewing.org/seminars/detail/interpreting_tennessee_williams_04_05/) – *Working in the Theatre Seminar* video at [American Theatre Wing.org](https://zh.wikipedia.org/wiki/American_Theatre_Wing "wikilink"), April 2005
 
-  - [John C. Reilly's Producer Profile on The 1 Second
-    Film](https://web.archive.org/web/20100105091117/http://the1secondfilm.com/producer/7044)
+  - [John C. Reilly's Producer Profile on The 1 Second Film](https://web.archive.org/web/20100105091117/http://the1secondfilm.com/producer/7044)
 
   -
-  - [John C Reilly on his children in
-    People.com](http://celebritybabies.people.com/2008/07/23/john-c-reilly-i/)
+  - [John C Reilly on his children in People.com](http://celebritybabies.people.com/2008/07/23/john-c-reilly-i/)
 
-[Category:美国演员工会奖最佳电影群体演出奖得主](https://zh.wikipedia.org/wiki/Category:美国演员工会奖最佳电影群体演出奖得主 "wikilink")
-[Category:美国男歌手](https://zh.wikipedia.org/wiki/Category:美国男歌手 "wikilink")
-[Category:美國天主教徒](https://zh.wikipedia.org/wiki/Category:美國天主教徒 "wikilink")
-[Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink")
-[Category:美国喜剧男演员](https://zh.wikipedia.org/wiki/Category:美国喜剧男演员 "wikilink")
-[Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink")
-[Category:美國舞台男演員](https://zh.wikipedia.org/wiki/Category:美國舞台男演員 "wikilink")
-[Category:美国男配音演员](https://zh.wikipedia.org/wiki/Category:美国男配音演员 "wikilink")
-[Category:美國素食主義者](https://zh.wikipedia.org/wiki/Category:美國素食主義者 "wikilink")
-[Category:爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:爱尔兰裔美国人 "wikilink")
-[Category:立陶宛裔美国人](https://zh.wikipedia.org/wiki/Category:立陶宛裔美国人 "wikilink")
-[Category:芝加哥人](https://zh.wikipedia.org/wiki/Category:芝加哥人 "wikilink")
-[Category:美国天主教徒](https://zh.wikipedia.org/wiki/Category:美国天主教徒 "wikilink")
-[Category:德保罗大学校友](https://zh.wikipedia.org/wiki/Category:德保罗大学校友 "wikilink")
-[Category:美国男性编剧](https://zh.wikipedia.org/wiki/Category:美国男性编剧 "wikilink")
-[Category:蘇格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:蘇格蘭裔美國人 "wikilink")
-[Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink")
-[Category:21世紀美國男演員](https://zh.wikipedia.org/wiki/Category:21世紀美國男演員 "wikilink")
+[Category:美国演员工会奖最佳电影群体演出奖得主](https://zh.wikipedia.org/wiki/Category:美国演员工会奖最佳电影群体演出奖得主 "wikilink") [Category:美国男歌手](https://zh.wikipedia.org/wiki/Category:美国男歌手 "wikilink") [Category:美國天主教徒](https://zh.wikipedia.org/wiki/Category:美國天主教徒 "wikilink") [Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink") [Category:美国喜剧男演员](https://zh.wikipedia.org/wiki/Category:美国喜剧男演员 "wikilink") [Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink") [Category:美國舞台男演員](https://zh.wikipedia.org/wiki/Category:美國舞台男演員 "wikilink") [Category:美国男配音演员](https://zh.wikipedia.org/wiki/Category:美国男配音演员 "wikilink") [Category:美國素食主義者](https://zh.wikipedia.org/wiki/Category:美國素食主義者 "wikilink") [Category:爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:爱尔兰裔美国人 "wikilink") [Category:立陶宛裔美国人](https://zh.wikipedia.org/wiki/Category:立陶宛裔美国人 "wikilink") [Category:芝加哥人](https://zh.wikipedia.org/wiki/Category:芝加哥人 "wikilink") [Category:美国天主教徒](https://zh.wikipedia.org/wiki/Category:美国天主教徒 "wikilink") [Category:德保罗大学校友](https://zh.wikipedia.org/wiki/Category:德保罗大学校友 "wikilink") [Category:美国男性编剧](https://zh.wikipedia.org/wiki/Category:美国男性编剧 "wikilink") [Category:蘇格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:蘇格蘭裔美國人 "wikilink") [Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink") [Category:21世紀美國男演員](https://zh.wikipedia.org/wiki/Category:21世紀美國男演員 "wikilink")
 
-1.  [Interview: John C.
-    Reilly](http://www.cinemablend.com/new.php?id=7260). Retrieved
-    2009-05-19.
-2.  [Life of
-    Reilly](http://film.guardian.co.uk/interview/interviewpages/0,6737,1366501,00.html).
-    Retrieved 2009-05-19.
+1.  [Interview: John C. Reilly](http://www.cinemablend.com/new.php?id=7260). Retrieved 2009-05-19.
+2.  [Life of Reilly](http://film.guardian.co.uk/interview/interviewpages/0,6737,1366501,00.html). Retrieved 2009-05-19.
 3.  <http://www.nypost.com/p/entertainment/movies/life_of_reilly_INwQVwj9NbAAQiAAX3iNRJ>
 4.  <http://moviedriver.wordpress.com/2009/09/29/interview-john-c-reilly-his-joy-of-acting/>
 5.

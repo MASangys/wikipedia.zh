@@ -1,4 +1,4 @@
-在[程序设计中](../Page/程序设计.md "wikilink")，尤其是在[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[C\#和](../Page/C♯.md "wikilink")[Java语言中](../Page/Java.md "wikilink")，使用volatile关键字声明的[变量或](../Page/变量_\(程序设计\).md "wikilink")[对象通常具有与优化](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")、多线程相关的特殊属性。通常，**volatile**关键字用来阻止（伪）编译器认为的无法“被代码本身”改变的代码（变量/对象）进行优化。如在C语言中，**volatile**关键字可以用来提醒编译器它后面所定义的变量随时有可能改变，因此编译后的程序每次需要存储或读取这个变量的时候，都会直接从变量地址中读取数据。如果没有volatile关键字，则编译器可能优化读取和存储，可能暂时使用寄存器中的值，如果这个变量由别的程序更新了的话，将出现不一致的现象。
+在[程序设计](../Page/程序设计.md "wikilink")中，尤其是在[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[C\#和](../Page/C♯.md "wikilink")[Java](../Page/Java.md "wikilink")语言中，使用volatile关键字声明的[变量或](../Page/变量_\(程序设计\).md "wikilink")[对象通常具有与优化](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")、多线程相关的特殊属性。通常，**volatile**关键字用来阻止（伪）编译器认为的无法“被代码本身”改变的代码（变量/对象）进行优化。如在C语言中，**volatile**关键字可以用来提醒编译器它后面所定义的变量随时有可能改变，因此编译后的程序每次需要存储或读取这个变量的时候，都会直接从变量地址中读取数据。如果没有volatile关键字，则编译器可能优化读取和存储，可能暂时使用寄存器中的值，如果这个变量由别的程序更新了的话，将出现不一致的现象。
 
 在C环境中，**volatile**关键字的真实定义和适用范围经常被误解。虽然C++、C\#和Java都保留了C中的**volatile**关键字，但在这些编程语言中**volatile**的用法和语义却大相径庭。
 
@@ -12,10 +12,7 @@
 
 根据相关的标准（C,C++,POSIX,WIN32)和目前绝大多数实现，对volatile变量的操作并不是原子的，也不能用来为线程建立严格的happens-before关系。`volatile`关键字就像便携式线程构建一样基本没什么用处\[2\]\[3\]\[4\]\[5\]\[6\]。
 
-[Visual C++](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink") 2005
-保证volatile变量是一种[内存屏障](../Page/内存屏障.md "wikilink")，阻止编译器和CPU重新安排读入和写出语义。\[7\]
-在先前版本的Visual
-C++则没有此类保证。在其他方面将指针定义为volatile可能会影响程序的性能。例如，如果指针定义对代码的其他地方可见，强制编译器将指针视为屏障，就会降低程序的性能，这是完全不必要的。
+[Visual C++](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink") 2005 保证volatile变量是一种[内存屏障](../Page/内存屏障.md "wikilink")，阻止编译器和CPU重新安排读入和写出语义。\[7\] 在先前版本的Visual C++则没有此类保证。在其他方面将指针定义为volatile可能会影响程序的性能。例如，如果指针定义对代码的其他地方可见，强制编译器将指针视为屏障，就会降低程序的性能，这是完全不必要的。
 
 ### 对用户定义的非基本数据类型使用volatile
 
@@ -77,8 +74,7 @@ void bar_optimized(void) {
 }
 ```
 
-但是，foo可能指向一个随时都能被计算机系统其他部分修改的地址，例如一个连接到[中央处理器的设备的](../Page/中央处理器.md "wikilink")[硬件寄存器](https://zh.wikipedia.org/wiki/硬件寄存器 "wikilink")，上面的代码永远检测不到这样的修改。如果不使用volatile关键字，编译器将假设当前程序是系统中唯一能改变这个值部分（这是到目前为止最广泛的一种情况）。
-为了阻止编译器像上面那样优化代码，需要使用volatile关键字：
+但是，foo可能指向一个随时都能被计算机系统其他部分修改的地址，例如一个连接到[中央处理器](../Page/中央处理器.md "wikilink")的设备的[硬件寄存器](https://zh.wikipedia.org/wiki/硬件寄存器 "wikilink")，上面的代码永远检测不到这样的修改。如果不使用volatile关键字，编译器将假设当前程序是系统中唯一能改变这个值部分（这是到目前为止最广泛的一种情况）。 为了阻止编译器像上面那样优化代码，需要使用volatile关键字：
 
 ``` c
 static volatile int foo;
@@ -164,41 +160,31 @@ void bar (void) {
 
 ## Java中的volatile
 
-[Java也支持](../Page/Java.md "wikilink")`volatile`关键字，但它被用于其他不同的用途。当`volatile`用于一个作用域时，Java保证如下：
+[Java](../Page/Java.md "wikilink")也支持`volatile`关键字，但它被用于其他不同的用途。当`volatile`用于一个作用域时，Java保证如下：
 
-1.  （适用于Java所有版本）读和写一个volatile变量有全局的排序。也就是说每个[线程访问一个volatile作用域时会在继续执行之前读取它的当前值](../Page/线程.md "wikilink")，而不是（可能）使用一个缓存的值。(但是并不保证经常读写volatile作用域时读和写的相对顺序，也就是说通常这并不是有用的线程构建)。
+1.  （适用于Java所有版本）读和写一个volatile变量有全局的排序。也就是说每个[线程](../Page/线程.md "wikilink")访问一个volatile作用域时会在继续执行之前读取它的当前值，而不是（可能）使用一个缓存的值。(但是并不保证经常读写volatile作用域时读和写的相对顺序，也就是说通常这并不是有用的线程构建)。
 2.  （适用于Java5及其之后的版本）volatile的读和写建立了一个happens-before关系，类似于申请和释放一个互斥锁<ref>
 
-Section 17.4.4: Synchronization Order  </ref>。
-使用`volatile`会比使用[锁更快](https://zh.wikipedia.org/wiki/锁_\(计算机科学\) "wikilink")，但是在一些情况下它不能工作。`volatile`使用范围在Java5中得到了扩展，特别是双重检查锁定现在能够正确工作\[8\]。
+Section 17.4.4: Synchronization Order  </ref>。 使用`volatile`会比使用[锁更快](https://zh.wikipedia.org/wiki/锁_\(计算机科学\) "wikilink")，但是在一些情况下它不能工作。`volatile`使用范围在Java5中得到了扩展，特别是双重检查锁定现在能够正确工作\[8\]。
 
 ## Ada中的volatile
 
-在[Ada中](../Page/Ada.md "wikilink")，比起关键字，`Volatile`标记更像是一种指令。“对于volatile对象而言，所有读和更新都会作为一个整体直接执行到内存”\[9\]。
+在[Ada](../Page/Ada.md "wikilink")中，比起关键字，`Volatile`标记更像是一种指令。“对于volatile对象而言，所有读和更新都会作为一个整体直接执行到内存”\[9\]。
 
 ## 参考
 
 ## 外部链接
 
-  - [Ada Reference Manual C.6: Shared Variable
-    Control](http://www.adaic.com/standards/05rm/html/RM-C-6.html)
+  - [Ada Reference Manual C.6: Shared Variable Control](http://www.adaic.com/standards/05rm/html/RM-C-6.html)
 
-[Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink")
-[Category:变量](https://zh.wikipedia.org/wiki/Category:变量 "wikilink")
-[Category:協同控制](https://zh.wikipedia.org/wiki/Category:協同控制 "wikilink")
+[Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink") [Category:变量](https://zh.wikipedia.org/wiki/Category:变量 "wikilink") [Category:協同控制](https://zh.wikipedia.org/wiki/Category:協同控制 "wikilink")
 
-1.  *Publication on C++ standards committee website*;
-    <http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2016.html>
-2.  *Publication on C++ standards committee website*;
-    <http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2016.html>
-3.  *Volatile Keyword In Visual C++*;
-    <http://msdn2.microsoft.com/en-us/library/12a04hfd.aspx>
-4.  *Linux Kernel Documentation - Why the "volatile" type class should
-    not be used*;
-5.  *Volatile: Almost Useless for Multi-Threaded Programming (Intel
-    Software Network)*;
-6.  *C++ and the Perils of Double-Checked Locking*;
-    <http://www.aristeia.com/Papers/DDJ_Jul_Aug_2004_revised.pdf>
+1.  *Publication on C++ standards committee website*; <http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2016.html>
+2.  *Publication on C++ standards committee website*; <http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2016.html>
+3.  *Volatile Keyword In Visual C++*; <http://msdn2.microsoft.com/en-us/library/12a04hfd.aspx>
+4.  *Linux Kernel Documentation - Why the "volatile" type class should not be used*;
+5.  *Volatile: Almost Useless for Multi-Threaded Programming (Intel Software Network)*;
+6.  *C++ and the Perils of Double-Checked Locking*; <http://www.aristeia.com/Papers/DDJ_Jul_Aug_2004_revised.pdf>
 7.  <http://msdn.microsoft.com/en-us/library/12a04hfd(VS.100>).aspx
 8.
 9.  "C.6 Shared Variable Control"

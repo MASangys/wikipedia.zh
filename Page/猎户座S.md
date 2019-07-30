@@ -2,10 +2,6 @@
 
 ## 参考资料
 
-[Category:猎户座](https://zh.wikipedia.org/wiki/Category:猎户座 "wikilink")
-[Category:米拉变星](https://zh.wikipedia.org/wiki/Category:米拉变星 "wikilink")
-[Category:红巨星](https://zh.wikipedia.org/wiki/Category:红巨星 "wikilink")
-[Category:HD和HDE天體](https://zh.wikipedia.org/wiki/Category:HD和HDE天體 "wikilink")
-[Category:HIP天體](https://zh.wikipedia.org/wiki/Category:HIP天體 "wikilink")
+[Category:猎户座](https://zh.wikipedia.org/wiki/Category:猎户座 "wikilink") [Category:米拉变星](https://zh.wikipedia.org/wiki/Category:米拉变星 "wikilink") [Category:红巨星](https://zh.wikipedia.org/wiki/Category:红巨星 "wikilink") [Category:HD和HDE天體](https://zh.wikipedia.org/wiki/Category:HD和HDE天體 "wikilink") [Category:HIP天體](https://zh.wikipedia.org/wiki/Category:HIP天體 "wikilink")
 
 1.

@@ -1,5 +1,4 @@
-《**Remembrance**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周柏豪於](../Page/周柏豪.md "wikilink")2010年8月20日發行的第四張個人[音樂專輯](../Page/音樂專輯.md "wikilink")。平裝版CD+DVD專輯包括CD和DVD各一，DVD了收錄《我不要被你記住》、《乞丐王子》、《最好不過》三首歌的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。CD+DVD特別版專輯包括CD和DVD（附送ZKIN
-x PAKHO 限量相機皮帶）。
+《**Remembrance**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周柏豪](../Page/周柏豪.md "wikilink")於2010年8月20日發行的第四張個人[音樂專輯](../Page/音樂專輯.md "wikilink")。平裝版CD+DVD專輯包括CD和DVD各一，DVD了收錄《我不要被你記住》、《乞丐王子》、《最好不過》三首歌的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。CD+DVD特別版專輯包括CD和DVD（附送ZKIN x PAKHO 限量相機皮帶）。
 
 ## 曲目
 
@@ -79,10 +78,7 @@ x PAKHO 限量相機皮帶）。
 
 ### 歌曲《乞丐王子》
 
-  - [2010年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱咤樂壇流行榜頒獎典禮 "wikilink")
-    - 專業推介、叱咤十大 第六位《乞丐王子》
+  - [2010年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱咤樂壇流行榜頒獎典禮 "wikilink") - 專業推介、叱咤十大 第六位《乞丐王子》
   - 《SinaMusic樂壇民意指數頒獎禮2010》- SINA MUSIC最高收聽率二十大歌曲《乞丐王子》
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:周柏豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周柏豪音樂專輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:周柏豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周柏豪音樂專輯 "wikilink")

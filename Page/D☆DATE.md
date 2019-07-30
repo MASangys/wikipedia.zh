@@ -1,5 +1,4 @@
-**D☆DATE**（）所屬經紀公司Watanabe
-Entertainment。由日本男演員集團[D-BOYS中四位團員所組成](../Page/D-BOYS.md "wikilink")。2010年3月組成、2010年12月CD出道。
+**D☆DATE**（）所屬經紀公司Watanabe Entertainment。由日本男演員集團[D-BOYS](../Page/D-BOYS.md "wikilink")中四位團員所組成。2010年3月組成、2010年12月CD出道。
 
 ## 成員
 
@@ -32,8 +31,7 @@ Entertainment。由日本男演員集團[D-BOYS中四位團員所組成](../Page
 
   - 3月、企劃正式啟動、企劃第一彈：特別組合成立
 
-:\*
-初期團員為[荒木宏文](../Page/荒木宏文.md "wikilink")、[五十嵐隼士](../Page/五十嵐隼士.md "wikilink")、[瀬戸康史](https://zh.wikipedia.org/wiki/瀬戸康史 "wikilink")、[中村優一](../Page/中村優一.md "wikilink")4名。
+:\* 初期團員為[荒木宏文](../Page/荒木宏文.md "wikilink")、[五十嵐隼士](../Page/五十嵐隼士.md "wikilink")、[瀬戸康史](https://zh.wikipedia.org/wiki/瀬戸康史 "wikilink")、[中村優一](../Page/中村優一.md "wikilink")4名。
 
 :\* 當時正式團名尚未確定
 
@@ -46,22 +44,21 @@ Entertainment。由日本男演員集團[D-BOYS中四位團員所組成](../Page
 
   -
     優勝為[堀井新太](../Page/堀井新太.md "wikilink")(在粉絲投票中第一名是[山田裕貴](../Page/山田裕貴.md "wikilink")、堀井則是第三名)，當日加入D☆DATE。
-      - 同日、發表[中村優一因身體不適暫停所有演藝活動](../Page/中村優一.md "wikilink")。
+      - 同日、發表[中村優一](../Page/中村優一.md "wikilink")因身體不適暫停所有演藝活動。
 
 <!-- end list -->
 
   - 10月21日、企劃第五彈：發表將以歌手出道、開設公式網頁。
   - 12月1日、發行首張單曲CD「あと1cmのミライ」，正式出道。
 
-:\*同月13日、在[Oricon公信榜周榜中獲得第七名](../Page/Oricon公信榜.md "wikilink")。
+:\*同月13日、在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")周榜中獲得第七名。
 
 ### 2011年
 
   - 4月6日、第二張單曲「CHANGE my LIFE」發售。
   - 7月27日、第三張單曲「DAY BY DAY」發售。
-  - 7月30日東京、8月3日大阪、8月4日名古屋，舉辦「D☆DATE 1st Tour 2011 Summer DATE LIVE
-    ～手をつないで～」演唱會。
-  - 11月8日、發表長期静養中的中村從[D-BOYS畢業及退出](../Page/D-BOYS.md "wikilink")**D☆DATE**。
+  - 7月30日東京、8月3日大阪、8月4日名古屋，舉辦「D☆DATE 1st Tour 2011 Summer DATE LIVE ～手をつないで～」演唱會。
+  - 11月8日、發表長期静養中的中村從[D-BOYS](../Page/D-BOYS.md "wikilink")畢業及退出**D☆DATE**。
   - 12月21日、演唱會DVD『D☆DATE 1st Tour 2011 Summer DATE LIVE 〜手をつないで〜』發售。
 
 ### 2012年
@@ -70,10 +67,8 @@ Entertainment。由日本男演員集團[D-BOYS中四位團員所組成](../Page
   - 2月16日、官方部落格開設。
   - 2月22日、第五張單曲「JOKER」發售。(連續兩個月發行新單曲)
   - 4月25日、首張專輯「1st DATE」發售。
-  - 6月10日福岡、6月16日東京、6月21日大阪、6月22日名古屋，舉辦「D☆DATE TOUR 2012 〜DATE A
-    LIVE〜」演唱會。
-  - 6月29日、在「TOKYO DOME CITY
-    HALL」舉行追加公演，並公佈新成員[柳下大加入](../Page/柳下大.md "wikilink")。
+  - 6月10日福岡、6月16日東京、6月21日大阪、6月22日名古屋，舉辦「D☆DATE TOUR 2012 〜DATE A LIVE〜」演唱會。
+  - 6月29日、在「TOKYO DOME CITY HALL」舉行追加公演，並公佈新成員[柳下大](../Page/柳下大.md "wikilink")加入。
   - 10月7日、[avex移籍發表](https://zh.wikipedia.org/wiki/avex "wikilink")。
 
 ### 2013年
@@ -91,13 +86,10 @@ Entertainment。由日本男演員集團[D-BOYS中四位團員所組成](../Page
 <!-- end list -->
 
   - 6月12日、第六張單曲「GLORY DAYS」發售。
-  - 8月5日、演出『a-nation island powered by ウイダーinゼリー』 Asia Progress 〜Blue
-    Ocean〜。
-  - 10月13日福岡、10月18日名古屋、10月25日大阪、11月4日東京，舉辦「D☆DATE LIVE TOUR 2013 〜GLORY
-    FIVE〜」演唱會。
+  - 8月5日、演出『a-nation island powered by ウイダーinゼリー』 Asia Progress 〜Blue Ocean〜。
+  - 10月13日福岡、10月18日名古屋、10月25日大阪、11月4日東京，舉辦「D☆DATE LIVE TOUR 2013 〜GLORY FIVE〜」演唱會。
   - 11月4日、成員五十嵐發表11月底將從D-BOYS及D☆DATE畢業並退出演藝圈。([五十嵐隼士引退聲明](https://web.archive.org/web/20131104173736/http://www.d-boys.com/comment/))
-  - 11月17日、在TOKYO DOME CITY HALL舉行『D☆DATE TOUR 2013
-    FINAL』演唱會。同時也是五十嵐最後的登台演出。
+  - 11月17日、在TOKYO DOME CITY HALL舉行『D☆DATE TOUR 2013 FINAL』演唱會。同時也是五十嵐最後的登台演出。
 
 ## 作品
 
@@ -270,10 +262,6 @@ CD</p></td>
 
   - [D☆DATE avex公式サイト](http://www.d-date.jp/)
   - [D☆DATE公式twitter](http://twitter.com/Ddatedirect)
-  - [D☆DATE OFFICIAL
-    BLOG](https://archive.is/20130413112403/ameblo.jp/d-date-official/)
-    (已關閉)
+  - [D☆DATE OFFICIAL BLOG](https://archive.is/20130413112403/ameblo.jp/d-date-official/) (已關閉)
 
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:D-BOYS](https://zh.wikipedia.org/wiki/Category:D-BOYS "wikilink")
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:D-BOYS](https://zh.wikipedia.org/wiki/Category:D-BOYS "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")

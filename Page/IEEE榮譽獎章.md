@@ -1,4 +1,4 @@
-**IEEE荣誉奖章**（），是[国际电子电气工程学会](../Page/电气电子工程师学会.md "wikilink")（IEEE）的最高荣誉，也是世界[电气](https://zh.wikipedia.org/wiki/电气 "wikilink")[电子](../Page/电子.md "wikilink")[工程学界的最高奖励](../Page/工程学.md "wikilink")。
+**IEEE荣誉奖章**（），是[国际电子电气工程学会](../Page/电气电子工程师学会.md "wikilink")（IEEE）的最高荣誉，也是世界[电气](https://zh.wikipedia.org/wiki/电气 "wikilink")[电子](../Page/电子.md "wikilink")[工程学](../Page/工程学.md "wikilink")界的最高奖励。
 
 ## 历史及惯例
 
@@ -8,9 +8,9 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
 
 ## 华人得主
 
-目前至今IEEE荣誉奖章仅有二位[华人得主](../Page/华人.md "wikilink")：
+目前至今IEEE荣誉奖章仅有二位[华人](../Page/华人.md "wikilink")得主：
 
-  - 1994年得主：[卓以和](../Page/卓以和.md "wikilink")（1937年7月10日—），[北京人](https://zh.wikipedia.org/wiki/北京 "wikilink")，[美国籍](../Page/美国.md "wikilink")，[美国工程院](https://zh.wikipedia.org/wiki/美国工程院 "wikilink")[院士](https://zh.wikipedia.org/wiki/院士 "wikilink")，[贝尔实验室研发部前主任](../Page/贝尔实验室.md "wikilink")。
+  - 1994年得主：[卓以和](../Page/卓以和.md "wikilink")（1937年7月10日—），[北京人](https://zh.wikipedia.org/wiki/北京 "wikilink")，[美国](../Page/美国.md "wikilink")籍，[美国工程院](https://zh.wikipedia.org/wiki/美国工程院 "wikilink")[院士](https://zh.wikipedia.org/wiki/院士 "wikilink")，[贝尔实验室](../Page/贝尔实验室.md "wikilink")研发部前主任。
   - 2011年得主：[张忠谋](https://zh.wikipedia.org/wiki/张忠谋 "wikilink")（1931年7月10日—），[浙江](https://zh.wikipedia.org/wiki/浙江 "wikilink")[宁波人](https://zh.wikipedia.org/wiki/宁波 "wikilink")，美国籍/[中华民国国籍](https://zh.wikipedia.org/wiki/中华民国 "wikilink")，美国工程院院士，[台灣積體電路製造公司](https://zh.wikipedia.org/wiki/台灣積體電路製造公司 "wikilink")[董事長](../Page/董事長.md "wikilink")。
 
 ## 历届得主
@@ -20,8 +20,7 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - 1917年：[埃德溫·阿姆斯特朗](https://zh.wikipedia.org/wiki/埃德溫·阿姆斯特朗 "wikilink")
   - 1918年：无获奖人
   - 1919年：
-  - 1920年：[古列尔莫·马可尼](../Page/古列尔莫·马可尼.md "wikilink")
-    [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1909年
+  - 1920年：[古列尔莫·马可尼](../Page/古列尔莫·马可尼.md "wikilink") [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1909年
   - 1921年：[范信達](https://zh.wikipedia.org/wiki/范信達 "wikilink")
   - 1922年：[李·德富雷斯特](../Page/李·德富雷斯特.md "wikilink")
   - 1923年：
@@ -63,23 +62,19 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - 1959年：
   - 1960年：[哈里·奈奎斯特](../Page/哈里·奈奎斯特.md "wikilink")
   - 1961年：
-  - 1962年：[愛德華·阿普爾頓](https://zh.wikipedia.org/wiki/愛德華·阿普爾頓 "wikilink")
-    [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1947年
+  - 1962年：[愛德華·阿普爾頓](https://zh.wikipedia.org/wiki/愛德華·阿普爾頓 "wikilink") [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1947年
   - 1963年：
   - 1964年：
   - 1965年：无获奖人
   - 1966年：[克勞德·夏農](https://zh.wikipedia.org/wiki/克勞德·夏農 "wikilink")
-  - 1967年：[查爾斯·湯斯](https://zh.wikipedia.org/wiki/查爾斯·湯斯 "wikilink")
-    [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1964年
+  - 1967年：[查爾斯·湯斯](https://zh.wikipedia.org/wiki/查爾斯·湯斯 "wikilink") [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1964年
 
 <!-- end list -->
 
   - 1968年：
   - 1969年：
-  - 1970年：[丹尼斯·蓋博](https://zh.wikipedia.org/wiki/丹尼斯·蓋博 "wikilink")
-    [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1971年
-  - 1971年：[約翰·巴丁](https://zh.wikipedia.org/wiki/約翰·巴丁 "wikilink")
-    [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1956年、1972年
+  - 1970年：[丹尼斯·蓋博](https://zh.wikipedia.org/wiki/丹尼斯·蓋博 "wikilink") [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1971年
+  - 1971年：[約翰·巴丁](https://zh.wikipedia.org/wiki/約翰·巴丁 "wikilink") [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1956年、1972年
   - 1972年：
   - 1973年：
   - 1974年：[魯道夫·卡爾曼](https://zh.wikipedia.org/wiki/魯道夫·卡爾曼 "wikilink")
@@ -88,23 +83,18 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - 1977年：
   - 1978年：[羅伯特·諾伊斯](https://zh.wikipedia.org/wiki/羅伯特·諾伊斯 "wikilink")
   - 1979年：[理查德·貝爾曼](../Page/理查德·貝爾曼.md "wikilink")
-  - 1980年：[威廉·肖克利](../Page/威廉·肖克利.md "wikilink")
-    [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1956年
+  - 1980年：[威廉·肖克利](../Page/威廉·肖克利.md "wikilink") [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1956年
   - 1981年：
   - 1982年：[约翰·图基](../Page/约翰·图基.md "wikilink")
-  - 1983年：[尼古拉斯·布隆伯根](../Page/尼古拉斯·布隆伯根.md "wikilink")
-    [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1981年
-  - 1984年：[諾曼·拉姆齊](https://zh.wikipedia.org/wiki/諾曼·拉姆齊 "wikilink")
-    [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1989年
+  - 1983年：[尼古拉斯·布隆伯根](../Page/尼古拉斯·布隆伯根.md "wikilink") [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1981年
+  - 1984年：[諾曼·拉姆齊](https://zh.wikipedia.org/wiki/諾曼·拉姆齊 "wikilink") [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1989年
   - 1985年：
-  - 1986年：[傑克·基爾比](../Page/傑克·基爾比.md "wikilink")
-    [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")2000年
+  - 1986年：[傑克·基爾比](../Page/傑克·基爾比.md "wikilink") [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")2000年
   - 1987年：[保羅·勞特伯](https://zh.wikipedia.org/wiki/保羅·勞特伯 "wikilink")
   - 1988年：
   - 1989年：
   - 1990年：
-  - 1991年：[江崎玲於奈](../Page/江崎玲於奈.md "wikilink")
-    [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1973年
+  - 1991年：[江崎玲於奈](../Page/江崎玲於奈.md "wikilink") [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1973年
   - 1992年：
   - 1993年：
   - 1994年：[卓以和](../Page/卓以和.md "wikilink")
@@ -115,8 +105,7 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - 1999年：
   - 2000年：[安迪·葛洛夫](../Page/安迪·葛洛夫.md "wikilink")
   - 2001年：
-  - 2002年：[赫伯特·克勒默](../Page/赫伯特·克勒默.md "wikilink")
-    [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")2000年
+  - 2002年：[赫伯特·克勒默](../Page/赫伯特·克勒默.md "wikilink") [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")2000年
   - 2003年：
   - 2004年：
   - 2005年：
@@ -165,12 +154,8 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
 ## 参考链接
 
   - 官方网站：[IEEE榮譽獎章](http://www.ieee.org/about/awards/medals/medalofhonor.html)
-  - IEEE榮譽獎章
-    [历届得主](https://web.archive.org/web/20150422004457/http://www.ieee.org/documents/moh_rl.pdf)
+  - IEEE榮譽獎章 [历届得主](https://web.archive.org/web/20150422004457/http://www.ieee.org/documents/moh_rl.pdf)
 
-[Category:IEEE榮譽獎章](https://zh.wikipedia.org/wiki/Category:IEEE榮譽獎章 "wikilink")
-[Category:IEEE獎章](https://zh.wikipedia.org/wiki/Category:IEEE獎章 "wikilink")
+[Category:IEEE榮譽獎章](https://zh.wikipedia.org/wiki/Category:IEEE榮譽獎章 "wikilink") [Category:IEEE獎章](https://zh.wikipedia.org/wiki/Category:IEEE獎章 "wikilink")
 
-1.  [2017 IEEE Medals and recognitions recipients and
-    citations](http://www.ieee.org/about/awards/2017_medal_recog_recipients_citationslist.pdf)
-     (PDF, 46 kB); retrieved 30. November 2016.
+1.  [2017 IEEE Medals and recognitions recipients and citations](http://www.ieee.org/about/awards/2017_medal_recog_recipients_citationslist.pdf)  (PDF, 46 kB); retrieved 30. November 2016.

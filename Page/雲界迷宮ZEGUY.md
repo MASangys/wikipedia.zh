@@ -1,5 +1,4 @@
-『**雲界迷宮ZEGUY**』（うんかいのめいきゅうぜがい、英語表記:**Mask of
-Zeguy**）為日本[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，1993年發售兩集。[香港由](../Page/香港.md "wikilink")[亞洲電視以](../Page/亞洲電視.md "wikilink")《雲界之迷宮》為名於1994年首播，[台灣則由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[首華卡通頻道以](../Page/首華卡通頻道.md "wikilink")《雲界迷宮》為名於1998年首播。
+『**雲界迷宮ZEGUY**』（うんかいのめいきゅうぜがい、英語表記:**Mask of Zeguy**）為日本[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，1993年發售兩集。[香港](../Page/香港.md "wikilink")由[亞洲電視](../Page/亞洲電視.md "wikilink")以《雲界之迷宮》為名於1994年首播，[台灣則由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[首華卡通頻道](../Page/首華卡通頻道.md "wikilink")以《雲界迷宮》為名於1998年首播。
 
 ## 故事大綱
 
@@ -64,6 +63,4 @@ Zeguy**）為日本[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，1
   - 雲界迷宮ゼガイ D-1（2000年4月7日、DVD：KSXA-23898）
   - 雲海迷宮ZEGUY〈時間の迷〉OST（1992年12月21日、KSS RECORDS、CD：JSCA-29004）
 
-[Category:1993年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1993年日本OVA動畫 "wikilink")
-[Category:歷史人物題材作品](https://zh.wikipedia.org/wiki/Category:歷史人物題材作品 "wikilink")
-[Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")
+[Category:1993年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1993年日本OVA動畫 "wikilink") [Category:歷史人物題材作品](https://zh.wikipedia.org/wiki/Category:歷史人物題材作品 "wikilink") [Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")

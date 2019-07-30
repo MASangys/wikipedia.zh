@@ -1,5 +1,4 @@
-**MyMusic**是[台灣大哥大子公司台灣酷樂時代開發的線上音樂平台軟體](../Page/台灣大哥大.md "wikilink")，其產品名原為「[ezPeer+](https://zh.wikipedia.org/wiki/ezPeer+ "wikilink")」，主要提供線上串流音樂播放服務（Streaming）或有條件式的下載歌曲服務（Tethered
-Download）。合作的音樂商達200家，共有20多種音樂分類，收藏超過500萬首歌曲。
+**MyMusic**是[台灣大哥大](../Page/台灣大哥大.md "wikilink")子公司台灣酷樂時代開發的線上音樂平台軟體，其產品名原為「[ezPeer+](https://zh.wikipedia.org/wiki/ezPeer+ "wikilink")」，主要提供線上串流音樂播放服務（Streaming）或有條件式的下載歌曲服務（Tethered Download）。合作的音樂商達200家，共有20多種音樂分類，收藏超過500萬首歌曲。
 
 ## 歷史
 
@@ -10,7 +9,7 @@ Download）。合作的音樂商達200家，共有20多種音樂分類，收藏�
 
 ### MyMusic
 
-  - 2011年8月，[台灣大哥大透過](../Page/台灣大哥大.md "wikilink")[台固媒體](https://zh.wikipedia.org/wiki/台固媒體 "wikilink")100%持有ezPeer+品牌所屬公司台灣酷樂時代之股權。
+  - 2011年8月，[台灣大哥大](../Page/台灣大哥大.md "wikilink")透過[台固媒體](https://zh.wikipedia.org/wiki/台固媒體 "wikilink")100%持有ezPeer+品牌所屬公司台灣酷樂時代之股權。
   - 2012年6月，ezPeer+正式改名為myMusic。
   - 2017年10月，myMusic再次更名為「MyMusic」。
 
@@ -25,11 +24,6 @@ Download）。合作的音樂商達200家，共有20多種音樂分類，收藏�
   -
 [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
 
-[Category:檔案分享程式](https://zh.wikipedia.org/wiki/Category:檔案分享程式 "wikilink")
-[Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:線上音樂商店](https://zh.wikipedia.org/wiki/Category:線上音樂商店 "wikilink")
-[Category:台灣音樂產業](https://zh.wikipedia.org/wiki/Category:台灣音樂產業 "wikilink")
+[Category:檔案分享程式](https://zh.wikipedia.org/wiki/Category:檔案分享程式 "wikilink") [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:線上音樂商店](https://zh.wikipedia.org/wiki/Category:線上音樂商店 "wikilink") [Category:台灣音樂產業](https://zh.wikipedia.org/wiki/Category:台灣音樂產業 "wikilink")
 
 1.  約屬同時期的台灣P2P大型平台尚有飛行網成立的Kuro，比ezPeer早，會員數也較多。

@@ -1,23 +1,16 @@
-**TeSL甲組電競聯賽**（Tt eSports Amateur
-League，簡稱甲組電競聯賽）為《[台灣電子競技聯盟](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")》所主辦的業餘[電子競技聯賽](https://zh.wikipedia.org/wiki/電子競技 "wikilink")。於2010年3月開始第一個賽季。目前的比賽項目有《[SF
-Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")》、《[跑跑卡丁車](https://zh.wikipedia.org/wiki/跑跑卡丁車 "wikilink")》、《[BBO全民打棒球](https://zh.wikipedia.org/wiki/全民打棒球 "wikilink")》三個項目。甲組電競聯賽除禁止職業電競選手（例如：台灣電競聯盟所屬四支職業電競隊的所有成員）參賽外，還有冠亞軍休賽等特殊規定。由於選手每次參賽均需報名通過方可參加，故每次賽事之參賽人員都有所不同。
+**TeSL甲組電競聯賽**（Tt eSports Amateur League，簡稱甲組電競聯賽）為《[台灣電子競技聯盟](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")》所主辦的業餘[電子競技聯賽](https://zh.wikipedia.org/wiki/電子競技 "wikilink")。於2010年3月開始第一個賽季。目前的比賽項目有《[SF Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")》、《[跑跑卡丁車](https://zh.wikipedia.org/wiki/跑跑卡丁車 "wikilink")》、《[BBO全民打棒球](https://zh.wikipedia.org/wiki/全民打棒球 "wikilink")》三個項目。甲組電競聯賽除禁止職業電競選手（例如：台灣電競聯盟所屬四支職業電競隊的所有成員）參賽外，還有冠亞軍休賽等特殊規定。由於選手每次參賽均需報名通過方可參加，故每次賽事之參賽人員都有所不同。
 
 ## 歷史沿革
 
   - 2009年9月：聯盟宣布開辦甲組聯賽。
   - 2010年2月27日：舉行示範賽。
-  - 2010年3月：開始第一年賽季，首波入選之比賽項目為《[SF
-    Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")》、
-    《[跑跑卡丁車](https://zh.wikipedia.org/wiki/跑跑卡丁車 "wikilink")》、
-    《[CS
-    Online](https://zh.wikipedia.org/wiki/CSO "wikilink")》，第一個甲組周冠軍由SF團隊《B‧Stones》獲得。
+  - 2010年3月：開始第一年賽季，首波入選之比賽項目為《[SF Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")》、 《[跑跑卡丁車](https://zh.wikipedia.org/wiki/跑跑卡丁車 "wikilink")》、 《[CS Online](https://zh.wikipedia.org/wiki/CSO "wikilink")》，第一個甲組周冠軍由SF團隊《B‧Stones》獲得。
   - 2010年7月：增加《[魔獸世界](https://zh.wikipedia.org/wiki/魔獸世界 "wikilink")》為甲組第四個比賽項目。\[1\]
   - 2010年7-8月：《[億泰利](https://zh.wikipedia.org/wiki/億泰利 "wikilink")》與台灣電競聯盟合作，於北中南三地分別舉行短期的《光速電競盃》，為旗下遊戲《[光速城市](https://zh.wikipedia.org/wiki/光速城市 "wikilink")》的電競比賽。但尚未成為甲組正式的例行電競項目。
   - 2010年11月11日：《[I54I](https://zh.wikipedia.org/wiki/I54I "wikilink")》成為甲組聯賽的正式電競項目。
   - 2010年11月15日：《[45](https://zh.wikipedia.org/wiki/45 "wikilink")》職業選秀賽開幕。
   - 2011年4月25日：開始二年賽季。
-  - 2011年5月15日：與戰谷合作，舉行《[AVA戰地之王2011
-    春季錦標賽](https://zh.wikipedia.org/wiki/AVA戰地之王2011_春季錦標賽 "wikilink")》。
+  - 2011年5月15日：與戰谷合作，舉行《[AVA戰地之王2011 春季錦標賽](https://zh.wikipedia.org/wiki/AVA戰地之王2011_春季錦標賽 "wikilink")》。
   - 2011年5月20日：《\[7887\[\]\]》成為甲組聯賽的正式電競項目。
   - 2011年11月15日：《百變恰吉》成為甲組聯賽的正式電競項目。\[2\]
   - 2012年9月15日：2012-2013甲組聯賽改由GX GAMING贊助甲組聯賽\[3\]
@@ -65,10 +58,7 @@ Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")》、《[跑跑卡�
 
   - 個人競速賽，每輪同時８人上場．以累計積分較高者勝．
   - 32強及16強皆採用5回合賽道績分制，分別取績分前4名者進晉下一輪賽事，6強決賽時採用7回合賽道績分制，以7張地圖績分總合取出前8名之名次。
-  - 比賽地圖限定為「黃金文明之黃金坐標、月光 水城、冰河 破碎的冰山、礦山 曲折滑坡、冰河 冰山滑雪場、城鎮 高速公路、沙漠 旋轉工地、森林
-    髮夾彎、\[反方向\]海盜 懸崖上的決鬥、海盜 海盜的密寶、童話 奇幻世界之門、太空 戰鬥飛行場、城鎮
-    天下第一關」(2011年甲組聯賽新增礦山 奪魂軌道、太空 蜿蜒跑道、城堡
-    隱藏的密室、墓園 魔王的邀請四張賽道。)\[8\]，順序於賽前由裁判執行抽籤程序決定。
+  - 比賽地圖限定為「黃金文明之黃金坐標、月光 水城、冰河 破碎的冰山、礦山 曲折滑坡、冰河 冰山滑雪場、城鎮 高速公路、沙漠 旋轉工地、森林 髮夾彎、\[反方向\]海盜 懸崖上的決鬥、海盜 海盜的密寶、童話 奇幻世界之門、太空 戰鬥飛行場、城鎮 天下第一關」(2011年甲組聯賽新增礦山 奪魂軌道、太空 蜿蜒跑道、城堡 隱藏的密室、墓園 魔王的邀請四張賽道。)\[8\]，順序於賽前由裁判執行抽籤程序決定。
   - 禁止裝備「氣球類、寵物、蠟筆」道具。
   - 採單淘汰積分賽制，積分算法為當週參賽者出席24強賽得一分，晉級至八強賽再得兩分，晉級至四強賽再得四分，晉級至冠軍賽再得七分，冠軍隊再得11分、亞軍再得7分
 
@@ -116,15 +106,13 @@ Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")》、《[跑跑卡�
   - 比賽頻道統一為『自由頻道』，比賽球場為「隨機球場」，難易度為職業二軍水準。比賽前雙方隊長集合至裁判前，擲硬幣決定先攻方。
   - 比賽模式為非魔法模式九局比賽，採用DH制，變更守備為一局制。
   - 採3v3方式進行比賽，一隊比賽人員為3人；如遇斷線、lag等因素造成人數不到3人，則優勢方(分數領先者)決定是否繼續或重賽。如為平手狀態，則紀錄已進行完成之比分、局數，並重開進行剩餘賽事。甲組預賽比賽時，如九局打完為平手狀態，則延長一局；如十局打完仍未分出勝負，則以安打數多寡分勝負。(在總決賽時沒延長賽，但在四強賽之後若平手最多只延長五局，若還是平手以安打數多寡來分勝負)。
-  - 預賽為單淘汰賽制，總決賽為分四小組循環 (各三隊)，各組取出第一名進行四強準決賽，四強採交叉賽 (A組vs D組，B組vs
-    C組)。冠軍賽為bo3 (三戰兩勝制)。
+  - 預賽為單淘汰賽制，總決賽為分四小組循環 (各三隊)，各組取出第一名進行四強準決賽，四強採交叉賽 (A組vs D組，B組vs C組)。冠軍賽為bo3 (三戰兩勝制)。
   - 決賽之小組賽採積分制，勝隊得3分，輸隊得0分，和局則各得1分。分數最高之第一名晉級四強。
   - 每局僅能暫停一次 (攻守方各一次機會，攻方雖為三人輪流打，但只要有其中一人使用，該局就不能再用)，超過一次則警告，再一次則判負 。
 
 ## 歷屆季冠軍
 
-  - 各季冠軍部分可參照[Taiwan
-    open台灣電子競技公開賽的條目](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")
+  - 各季冠軍部分可參照[Taiwan open台灣電子競技公開賽的條目](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")
 
 ## 名稱變遷
 
@@ -149,17 +137,10 @@ Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")》、《[跑跑卡�
 [Category:台灣電子競技聯盟舉辦的賽事](https://zh.wikipedia.org/wiki/Category:台灣電子競技聯盟舉辦的賽事 "wikilink")
 
 1.  見[《甲組》WOW甲組下半季震撼彈－魔獸世界來啦！7月16日起每個禮拜五開打！](http://www.esports.com.tw/doc.php?id=1714&keyword=)
-
 2.  見[《聯盟》全新甲組項目！體驗「國球」的虛擬世界，全民一起打棒球！](http://www.esports.com.tw/2011/subpage/doc/3771)
-
 3.  見[GAMING甲組聯賽三項目今晚六點開放報名，火熱賽事不容錯過！](http://www.esports.com.tw/news_detail.php?id=3550《聯盟》GX)
-
 4.  見\[<http://www.esports.com.tw/news_detail.php?id=3689《甲組》預測冠軍抽大獎，甲組月冠軍賽直播週末開跑>！\]
-
-5.  見[《甲組》《GX
-    GAMING甲組聯賽》新增比賽項目，CF《穿越火線》火熱開戰！](http://www.esports.com.tw/news_detail.php?id=4571)
-6.  見[《甲組》《GX
-    GAMING甲組聯賽》新增比賽項目，CF《穿越火線》火熱開戰！](http://www.esports.com.tw/news_detail.php?id=4618)
-7.  見[《甲組》電子競技議題大受關注，自由時報談北縣網咖條例](http://www.esports.com.tw/doc.php?id=1502)
-    。
+5.  見[《甲組》《GX GAMING甲組聯賽》新增比賽項目，CF《穿越火線》火熱開戰！](http://www.esports.com.tw/news_detail.php?id=4571)
+6.  見[《甲組》《GX GAMING甲組聯賽》新增比賽項目，CF《穿越火線》火熱開戰！](http://www.esports.com.tw/news_detail.php?id=4618)
+7.  見[《甲組》電子競技議題大受關注，自由時報談北縣網咖條例](http://www.esports.com.tw/doc.php?id=1502) 。
 8.  見[《公告》甲組電競聯賽跑跑卡丁車起跑，單場總獎金1萬2千元！](http://www.esports.com.tw/doc.php?id=2703)

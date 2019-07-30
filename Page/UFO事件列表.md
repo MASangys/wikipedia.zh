@@ -1,4 +1,4 @@
-这篇文章是一个历史上有记载的不明飞行物事件列表，包括近距离接触以及绑架。有部分事件非常有名，已经成为民间的传说，另外一些事件则模糊一些，仅仅只有[UFO研究者和爱好者知道](https://zh.wikipedia.org/wiki/UFO "wikilink")。
+这篇文章是一个历史上有记载的[不明飞行物](../Page/不明飞行物.md "wikilink")事件列表，包括[近距离接触以及绑架](../Page/近距離接觸.md "wikilink")。有部分事件非常有名，已经成为民间的传说，另外一些事件则模糊一些，仅仅只有[UFO研究者和爱好者知道](../Page/不明飞行物.md "wikilink")。
 
 ## 19世紀前的目击事件
 
@@ -38,7 +38,7 @@
 <td><p>從天空來的火焰似的陶罐（<a href="https://zh.wikipedia.org/wiki/:en:pithoi" title="wikilink">pithos</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/弗里吉亞" title="wikilink">弗里吉亞</a>，<a href="https://zh.wikipedia.org/wiki/亞細亞_(羅馬行省)" title="wikilink">亞細亞行省</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/羅馬共和國" title="wikilink">羅馬共和國</a></p></td>
-<td><p>根據<a href="../Page/普魯塔克.md" title="wikilink">普魯塔克的描述</a>，一支由<a href="https://zh.wikipedia.org/wiki/盧庫魯斯" title="wikilink">盧庫魯斯率領的羅馬軍隊即將與</a><a href="../Page/米特里達梯六世.md" title="wikilink">米特里達梯六世進行一場戰爭時</a>,"突然之間天空破裂成數塊，並且一個巨大且像火焰般的身軀落在兩軍之間。形狀上很像酒缸並且顏色像融化的銀。"普魯塔克形容這個物體的形狀就像酒缸一樣（pithos）。顯然地，這個物體被雙方軍隊都記載了下來。</p></td>
+<td><p>根據<a href="../Page/普魯塔克.md" title="wikilink">普魯塔克</a>的描述，一支由<a href="https://zh.wikipedia.org/wiki/盧庫魯斯" title="wikilink">盧庫魯斯率領的羅馬軍隊即將與</a><a href="../Page/米特里達梯六世.md" title="wikilink">米特里達梯六世</a>進行一場戰爭時,"突然之間天空破裂成數塊，並且一個巨大且像火焰般的身軀落在兩軍之間。形狀上很像酒缸並且顏色像融化的銀。"普魯塔克形容這個物體的形狀就像酒缸一樣（pithos）。顯然地，這個物體被雙方軍隊都記載了下來。</p></td>
 <td><p>1</p></td>
 <td><p>[3][4]</p></td>
 </tr>
@@ -209,7 +209,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/德克萨斯奥罗拉UFO事件" title="wikilink">德克萨斯奥罗拉UFO事件</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奥罗拉" title="wikilink">奥罗拉</a>，<a href="../Page/德克萨斯州.md" title="wikilink">德克萨斯州</a></p></td>
 <td><p>美国</p></td>
-<td><p>傳說一架幽浮墜毀並且有外星飛行員埋葬在當地的墓地。這則事件在1897年4月被當地特派員S.E. Haydon送交<a href="../Page/達拉斯.md" title="wikilink">達拉斯和</a><a href="../Page/沃斯堡.md" title="wikilink">沃斯堡的報社</a></p></td>
+<td><p>傳說一架幽浮墜毀並且有外星飛行員埋葬在當地的墓地。這則事件在1897年4月被當地特派員S.E. Haydon送交<a href="../Page/達拉斯.md" title="wikilink">達拉斯</a>和<a href="../Page/沃斯堡.md" title="wikilink">沃斯堡</a>的報社</p></td>
 <td><p>3</p></td>
 <td><p>[22][23]</p></td>
 </tr>
@@ -233,7 +233,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1908-06-30 </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/通古斯事件" title="wikilink">通古斯事件</a></p></td>
+<td><p><a href="../Page/通古斯大爆炸.md" title="wikilink">通古斯大爆炸</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/石泉通古斯河" title="wikilink">石泉通古斯河</a></p></td>
 <td><p><a href="../Page/俄罗斯帝国.md" title="wikilink">俄罗斯帝国</a></p></td>
 <td><p>一次大规模的爆炸，推测是一颗彗星或者流星体撞击。但有UFO学者认为是一次UFO爆炸</p></td>
@@ -260,10 +260,10 @@
 </tr>
 <tr class="even">
 <td><p>1952-7-19</p></td>
-<td><p>白宮<a href="../Page/華盛頓不明飛行物事件.md" title="wikilink">華盛頓不明飛行物事件目击事件</a></p></td>
+<td><p>白宮<a href="../Page/華盛頓不明飛行物事件.md" title="wikilink">華盛頓不明飛行物事件</a>目击事件</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/隆納·雷根華盛頓國家機場" title="wikilink">隆納·雷根華盛頓國家機場</a>，<a href="https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區" title="wikilink">華盛頓哥倫比亞特區</a></p></td>
 <td><p>美國</p></td>
-<td><p>當日晚上在<a href="https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區" title="wikilink">華盛頓上空出現許多</a><a href="https://zh.wikipedia.org/wiki/不明飛行物" title="wikilink">不明飛行物出現在上空</a>，<a href="https://zh.wikipedia.org/wiki/華盛頓國家機場" title="wikilink">華盛頓國家機場的</a><a href="https://zh.wikipedia.org/wiki/雷達" title="wikilink">雷達捕捉到</a>7個不明飛行物體，它們飛過<a href="../Page/白宮.md" title="wikilink">白宮及</a><a href="../Page/美國國會大廈.md" title="wikilink">美國國會大廈等建築</a>，<a href="https://zh.wikipedia.org/wiki/美軍" title="wikilink">美軍的</a><a href="https://zh.wikipedia.org/wiki/戰鬥機" title="wikilink">戰鬥機想攔截它們</a>，但不明飛行物以遠遠超越戰鬥機速度的速度快速移動並集體消失。</p></td>
+<td><p>當日晚上在<a href="https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區" title="wikilink">華盛頓上空出現許多</a><a href="https://zh.wikipedia.org/wiki/不明飛行物" title="wikilink">不明飛行物出現在上空</a>，<a href="https://zh.wikipedia.org/wiki/華盛頓國家機場" title="wikilink">華盛頓國家機場的</a><a href="https://zh.wikipedia.org/wiki/雷達" title="wikilink">雷達捕捉到</a>7個不明飛行物體，它們飛過<a href="../Page/白宮.md" title="wikilink">白宮</a>及<a href="../Page/美國國會大廈.md" title="wikilink">美國國會大廈</a>等建築，<a href="https://zh.wikipedia.org/wiki/美軍" title="wikilink">美軍的</a><a href="https://zh.wikipedia.org/wiki/戰鬥機" title="wikilink">戰鬥機想攔截它們</a>，但不明飛行物以遠遠超越戰鬥機速度的速度快速移動並集體消失。</p></td>
 <td><p>1</p></td>
 <td><p>[30]</p></td>
 </tr>
@@ -762,23 +762,17 @@
 
   - [UFO事件檔案](http://www.ufocasebook.com/casefiles.html)
 
-[Category:不明飛行物體](https://zh.wikipedia.org/wiki/Category:不明飛行物體 "wikilink")
-[Category:事件列表](https://zh.wikipedia.org/wiki/Category:事件列表 "wikilink")
+[Category:不明飛行物體](https://zh.wikipedia.org/wiki/Category:不明飛行物體 "wikilink") [Category:事件列表](https://zh.wikipedia.org/wiki/Category:事件列表 "wikilink")
 
-1.  [The History of Rome, Book 21,
-    Chapter 62](http://www.perseus.tufts.edu/hopper/text?doc=Liv.%2021.62)
+1.  [The History of Rome, Book 21, Chapter 62](http://www.perseus.tufts.edu/hopper/text?doc=Liv.%2021.62)
 
 2.  資治通鑑-漢紀
 
-3.  Plutarch,
-    [Lucullus, 8.6](http://www.perseus.tufts.edu/hopper/text?doc=Plut.+Luc.+8.6&fromdoc=Perseus%3Atext%3A2008.01.0046),
-    on Perseus
+3.  Plutarch, [Lucullus, 8.6](http://www.perseus.tufts.edu/hopper/text?doc=Plut.+Luc.+8.6&fromdoc=Perseus%3Atext%3A2008.01.0046), on Perseus
 
 4.   p. 87
 
-5.  ''[War of the Jews Book VI,
-    sect. 296](http://www.perseus.tufts.edu/hopper/text?doc=J.+BJ+6.5.3&fromdoc=Perseus%3Atext%3A1999.01.0148)
-    (Ch. 5, par. 3)
+5.  ''[War of the Jews Book VI, sect. 296](http://www.perseus.tufts.edu/hopper/text?doc=J.+BJ+6.5.3&fromdoc=Perseus%3Atext%3A1999.01.0148) (Ch. 5, par. 3)
 
 6.
 7.
@@ -798,12 +792,9 @@
 
 15.
 
-16. Kazuo Tanaka: *Did a close encounter of the Third Kind occur on a
-    Japanese beach in 1803?* In: *Sceptical Inquirer*. Vol. 24, No. 4,
-    Juli/August 2000, , p. 37–44
+16. Kazuo Tanaka: *Did a close encounter of the Third Kind occur on a Japanese beach in 1803?* In: *Sceptical Inquirer*. Vol. 24, No. 4, Juli/August 2000, , p. 37–44
 
-17. Masaru Mori: *The female alien in a hollow vessel*. In: *Fortean
-    Times.* Vol. 48, Dennis Publishing Ltd., London 1987, , p. 48–50.
+17. Masaru Mori: *The female alien in a hollow vessel*. In: *Fortean Times.* Vol. 48, Dennis Publishing Ltd., London 1987, , p. 48–50.
 
 18. 湖北省《松滋縣志》
 
@@ -811,44 +802,33 @@
 
 20.
 
-21. [Copy of
-    Article](http://1.bp.blogspot.com/_-qWvml8_fAg/SGccRWGaJpI/AAAAAAAAAF8/J2QyUR-1d0E/s1600-h/SciAm2.JPG)
+21. [Copy of Article](http://1.bp.blogspot.com/_-qWvml8_fAg/SGccRWGaJpI/AAAAAAAAAF8/J2QyUR-1d0E/s1600-h/SciAm2.JPG)
 
-22. [Close Encounters of a
-    Kind](http://www.time.com/time/magazine/article/0,9171,948461,00.html)
-    *Time magazine*
+22. [Close Encounters of a Kind](http://www.time.com/time/magazine/article/0,9171,948461,00.html) *Time magazine*
 
-23. [Aurora - Can a space alien rest in
-    peace?](http://www.chron.com/disp/story.mpl/front/4587362.html)
-    *Houston Chronicle*
+23. [Aurora - Can a space alien rest in peace?](http://www.chron.com/disp/story.mpl/front/4587362.html) *Houston Chronicle*
 
 24.
 
-25. Lyne, J.E., Tauber, M. *[The Tunguska
-    Event](http://web.utk.edu/~comet/papers/nature/TUNGUSKA.html)*
+25. Lyne, J.E., Tauber, M. *[The Tunguska Event](http://web.utk.edu/~comet/papers/nature/TUNGUSKA.html)*
 
 26. Joaquim Fernandes and Fina d'Armada, *Heavenly Lights* 2005
 
 27. Joaquim Fernandes and Fina d'Armada, *Celestial Secrets* 2007
 
-28. Joaquim Fernandes, Fernando Fernandes and Raul Berenguel, *Fatima
-    Revisited* 2008
+28. Joaquim Fernandes, Fernando Fernandes and Raul Berenguel, *Fatima Revisited* 2008
 
 29. Nicholas Roerich, *Altai-Himalaya: A Travel Diary*, pp. 361–62.
 
-30. <https://www.youtube.com/watch?v=hObI12DD3-Y&feature=youtu.be>
-    影片：UFO - OVNI - UFOs In Washington D.C - 62 years ago
+30. <https://www.youtube.com/watch?v=hObI12DD3-Y&feature=youtu.be> 影片：UFO - OVNI - UFOs In Washington D.C - 62 years ago
 
-31. [The 1973 Pascagoula, Mississippi Abduction
-    (Hickson/Parker)](http://www.ufocasebook.com/Pascagoula.html)
+31. [The 1973 Pascagoula, Mississippi Abduction (Hickson/Parker)](http://www.ufocasebook.com/Pascagoula.html)
 
 32. [甲府事件-UFO事件簿](http://ufojikenbo.blogspot.com/2015/11/koufu.html)
 
 33. [央視-黄延秋和外星人](http://www.cctv.com/program/zoujinkexue/topic/science/C14443/02/)
 
-34. Capt. Kenju Terauchi, MEETING THE FUTURE. Translated by Sayoko
-    Mimoto, FAA Alaskan Region, Airway Facilities Division. Received by
-    FAA Jan. 2, 1988
+34. Capt. Kenju Terauchi, MEETING THE FUTURE. Translated by Sayoko Mimoto, FAA Alaskan Region, Airway Facilities Division. Received by FAA Jan. 2, 1988
 
 35. [開洋丸事件](http://ufojikenbo.blogspot.com/2015/12/kaiyoumaru.html)
 
@@ -904,12 +884,9 @@
 
 61.
 
-62. [Residents spot strange UFO
-    lights](http://news.bbc.co.uk/1/hi/northern_ireland/6651121.stm) BBC
+62. [Residents spot strange UFO lights](http://news.bbc.co.uk/1/hi/northern_ireland/6651121.stm) BBC
 
-63.
-    [Original](http://www.theprogress.com/portals-code/list.cgi?paper=39&cat=23&id=997068&more=0)
-
+63.  [Original](http://www.theprogress.com/portals-code/list.cgi?paper=39&cat=23&id=997068&more=0)
 
 64.
 
@@ -917,34 +894,21 @@
 
 66.
 
-67. [UFO sighted in Kolkata
-    sky?](http://news.indiainfo.com/2007/10/29/0710292314_ufo.html)
-    Indiainfo.com
+67. [UFO sighted in Kolkata sky?](http://news.indiainfo.com/2007/10/29/0710292314_ufo.html)  Indiainfo.com
 
-68. [UFO puzzle has city in a
-    tizzy](http://timesofindia.indiatimes.com//Cities/Kolkata/UFO_puzzle_has_city_in_a_tizzy/articleshow/2500882.cms)
-    *Times of India*
+68. [UFO puzzle has city in a tizzy](http://timesofindia.indiatimes.com//Cities/Kolkata/UFO_puzzle_has_city_in_a_tizzy/articleshow/2500882.cms) *Times of India*
 
-69. [UFO Lights above
-    Cyprus](http://www.ufocasebook.com/2008b/cyprus.html)
-    ufocasebook.com
+69. [UFO Lights above Cyprus](http://www.ufocasebook.com/2008b/cyprus.html) ufocasebook.com
 
 70.
 
-71. ["UFOs? Nope. They were fighter jets, Air Force
-    says"](http://www.cnn.com/2008/US/01/23/airforce.ufo/index.html?imw=Y&iref=mpstoryemail)
-    CNN.com. Retrieved 11 October 2008.
+71. ["UFOs? Nope. They were fighter jets, Air Force says"](http://www.cnn.com/2008/US/01/23/airforce.ufo/index.html?imw=Y&iref=mpstoryemail) CNN.com. Retrieved 11 October 2008.
 
-72. ['Flying Saucer' filmed over
-    Turkey](http://www.thesun.co.uk/sol/homepage/news/ufos/article1836403.ece)
-    *The Sun*
+72. ['Flying Saucer' filmed over Turkey](http://www.thesun.co.uk/sol/homepage/news/ufos/article1836403.ece) *The Sun*
 
-73. [Mystery on the River
-    Part 2](http://www.lasvegasnow.com/global/story.asp?s=9276350&ClientType=Printable)
-     *Las Vegas Now*
+73. [Mystery on the River Part 2](http://www.lasvegasnow.com/global/story.asp?s=9276350&ClientType=Printable)  *Las Vegas Now*
 
-74. [UFO spotted by police
-    helicopter](http://news.bbc.co.uk/1/hi/wales/7465041.stm) BBC
+74. [UFO spotted by police helicopter](http://news.bbc.co.uk/1/hi/wales/7465041.stm) BBC
 
 75.
 
@@ -952,23 +916,15 @@
 
 77.
 
-78. [British UFO sightings at 'bizarre'
-    levels](http://www.telegraph.co.uk/news/newstopics/howaboutthat/2261941/British-UFO-sightings-at-%27bizarre%27-levels.html)
-    *Telegraph*
+78. [British UFO sightings at 'bizarre' levels](http://www.telegraph.co.uk/news/newstopics/howaboutthat/2261941/British-UFO-sightings-at-%27bizarre%27-levels.html) *Telegraph*
 
-79. [Navy man sees UFO on the
-    M5](http://www.thesun.co.uk/sol/homepage/news/ufos/article1361570.ece)
-    *The Sun*
+79. [Navy man sees UFO on the M5](http://www.thesun.co.uk/sol/homepage/news/ufos/article1361570.ece) *The Sun*
 
-80. [Alleged UFO awakens Zagreb
-    residents](http://www.croatiantimes.com/index.php?id=2106) *Croatian
-    Times*
+80. [Alleged UFO awakens Zagreb residents](http://www.croatiantimes.com/index.php?id=2106) *Croatian Times*
 
 81.
 
-82. [UFOs photographed over
-    London](http://www.telegraph.co.uk/news/5007735/UFOs-photographed-over-London.html)
-    *Telegraph*
+82. [UFOs photographed over London](http://www.telegraph.co.uk/news/5007735/UFOs-photographed-over-London.html) *Telegraph*
 
 83.
 
@@ -978,19 +934,14 @@
 
 86.
 
-87. [Strange UFO in the sky in
-    Chelsea](http://www.youtube.com/watch?v=1TA_pKVKgKg)
+87. [Strange UFO in the sky in Chelsea](http://www.youtube.com/watch?v=1TA_pKVKgKg)
 
-88. [UFOs New York City RAW video footage October 13, 2010
-    （HD）](http://www.youtube.com/watch?v=HRKnGnjjLY4)
+88. [UFOs New York City RAW video footage October 13, 2010 （HD）](http://www.youtube.com/watch?v=HRKnGnjjLY4)
 
-89. [Sightings of UFOs off North
-    coast](http://www.northernadvocate.co.nz/local/news/sightings-of-ufos-off-north-coast/3936075/)
+89. [Sightings of UFOs off North coast](http://www.northernadvocate.co.nz/local/news/sightings-of-ufos-off-north-coast/3936075/)
 
-90. [UFO in
-    Jerusalem](http://www.thesun.co.uk/sol/homepage/news/3386430/Holy-smoke-UFO-in-Jerusalem.html)
+90. [UFO in Jerusalem](http://www.thesun.co.uk/sol/homepage/news/3386430/Holy-smoke-UFO-in-Jerusalem.html)
 
-91. [UFO over Jerusalem's Dome of the
-    Rock?](http://www.cbsnews.com/stories/2011/02/03/earlyshow/main7313511.shtml)
+91. [UFO over Jerusalem's Dome of the Rock?](http://www.cbsnews.com/stories/2011/02/03/earlyshow/main7313511.shtml)
 
 92.

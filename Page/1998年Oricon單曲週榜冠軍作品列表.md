@@ -1,8 +1,6 @@
-**1998年Oricon單曲週榜冠軍作品列表**列出1998年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**1998年Oricon單曲週榜冠軍作品列表**列出1998年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
-全年度共有41首冠軍單曲誕生，其中[KinKi
-Kids的](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")《[擁抱全部/青之時代](https://zh.wikipedia.org/wiki/擁抱全部/青之時代 "wikilink")》取得冠軍的週數最多（4週
-表格中漏了8月17日的一周）。
+全年度共有41首冠軍單曲誕生，其中[KinKi Kids的](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")《[擁抱全部/青之時代](https://zh.wikipedia.org/wiki/擁抱全部/青之時代 "wikilink")》取得冠軍的週數最多（4週 表格中漏了8月17日的一周）。
 
 ## 冠軍單曲列表
 
@@ -325,5 +323,4 @@ Kids的](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")《[擁抱全部/�
 
   - [1998年每週公信榜統計數據](https://web.archive.org/web/20101221031925/http://musictvprogram.com/oricon1998.html)
 
-[Category:1998年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:1998年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")

@@ -81,8 +81,7 @@ form.quickform select {
 
 }
 
-form.quickform input\[type=checkbox\], form.quickform
-input\[type=radio\] {
+form.quickform input\[type=checkbox\], form.quickform input\[type=radio\] {
 
 `   height: 13px;`
 `   margin-bottom: 2px;`
@@ -106,9 +105,7 @@ form.quickform h5 {
 
 }
 
-/\* only give the top border to headers with something above them \*/
-form.quickform div + h5, form.quickform div + div \> h5, form.quickform
-h5 + h5 {
+/\* only give the top border to headers with something above them \*/ form.quickform div + h5, form.quickform div + div \> h5, form.quickform h5 + h5 {
 
 `   border-top: 1px solid #88A;`
 
@@ -257,8 +254,7 @@ div.morebits-previewbox .mw-editsection {
 
 }
 
-.skin-modern \#mw_contentwrapper div.portlet div.pbody ul li.selected a
-{
+.skin-modern \#mw_contentwrapper div.portlet div.pbody ul li.selected a {
 
 `   text-decoration: none;`
 
@@ -364,8 +360,7 @@ body .ui-dialog.morebits-dialog .morebits-dialog-footerlinks a {
 
 }
 
-.ui-dialog.morebits-dialog a, .ui-dialog.morebits-dialog
-.ui-widget-content a {
+.ui-dialog.morebits-dialog a, .ui-dialog.morebits-dialog .ui-widget-content a {
 
 `   color: #0645AD;  /* jQuery imposes a ridiculous nearly-black colour on `<a>` tags... I don't understand it */`
 

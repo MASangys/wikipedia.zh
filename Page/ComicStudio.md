@@ -19,8 +19,7 @@ ComicStudio可以完成從草稿到上色的全部操作，畫出許多真實手
 
   - 數位漫畫繪圖創作ComicStudio 4.0奇幻技（中文版），作者：張三，出版社：碁峰，ISBN：9789861818528
   - 漫畫創作工房 - ComicStudio 中文版，作者：易水翔麟，出版社：旗標出版，書號：F9590
-  - Comic Studio
-    4.0官方使用手冊，作者：CELSYS，出版社：上奇科技，出版日期：2009/06/15，ISBN：9789866587818
+  - Comic Studio 4.0官方使用手冊，作者：CELSYS，出版社：上奇科技，出版日期：2009/06/15，ISBN：9789866587818
 
 ## 引用參考
 
@@ -29,5 +28,4 @@ ComicStudio可以完成從草稿到上色的全部操作，畫出許多真實手
   - [ComicStudio.net](http://www.comicstudio.net/index.php)（原版官網）
   - [上奇科技ComicStudio官網](http://comicstudio.grandtech.com.tw/)
 
-[Category:漫畫工具](https://zh.wikipedia.org/wiki/Category:漫畫工具 "wikilink")
-[Category:繪圖軟體](https://zh.wikipedia.org/wiki/Category:繪圖軟體 "wikilink")
+[Category:漫畫工具](https://zh.wikipedia.org/wiki/Category:漫畫工具 "wikilink") [Category:繪圖軟體](https://zh.wikipedia.org/wiki/Category:繪圖軟體 "wikilink")

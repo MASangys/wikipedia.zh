@@ -1,6 +1,4 @@
-《**Fractale**》（[片假名](../Page/片假名.md "wikilink")：）是[A-1
-Pictures製作的](../Page/A-1_Pictures.md "wikilink")[日本](../Page/日本.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。本作由導演[山本寬執導](../Page/山本寬.md "wikilink")，山本寬於官方網站發表聲明，若執導此作失敗，將會引咎辭職\[1\]。本作於2011年1月13日起於[富士電視台的](../Page/富士電視台.md "wikilink")[noitaminA第](https://zh.wikipedia.org/wiki/noitaminA "wikilink")1時段開始播放，全11話。[漫畫版則於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2010年9月30日先行在網絡[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")《[GANGAN
-ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
+《**Fractale**》（[片假名](../Page/片假名.md "wikilink")：）是[A-1 Pictures製作的](../Page/A-1_Pictures.md "wikilink")[日本](../Page/日本.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。本作由導演[山本寬](../Page/山本寬.md "wikilink")執導，山本寬於官方網站發表聲明，若執導此作失敗，將會引咎辭職\[1\]。本作於2011年1月13日起於[富士電視台](../Page/富士電視台.md "wikilink")的[noitaminA第](https://zh.wikipedia.org/wiki/noitaminA "wikilink")1時段開始播放，全11話。[漫畫版則於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2010年9月30日先行在網絡[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")《[GANGAN ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 
 ## 故事概要
 
@@ -31,8 +29,7 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 
 ### 格拉尼茨家
 
-否定FRACTALE 系統，屬於「迷失千年」運動活躍的一派。家庭全員已摘下FRACTALE 終端，因此不能受到FRACTALE
-系統所帶來的恩惠，電子分身也只有在佩帶特製眼鏡時才看到。
+否定FRACTALE 系統，屬於「迷失千年」運動活躍的一派。家庭全員已摘下FRACTALE 終端，因此不能受到FRACTALE 系統所帶來的恩惠，電子分身也只有在佩帶特製眼鏡時才看到。
 
   -
     13歳，表現活躍的少女。曾乘坐飛空艇追捕芙露奈，為格拉尼茨家的長女，愛慕著哥哥桑達。後來接替哥哥桑達的職位，成為格拉尼茨家的領導者。
@@ -69,8 +66,7 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 <!-- end list -->
 
   - 星
-    實為衛星般的收發器，圍繞著地球運轉，主要用作數據連輸(像現今的互聯網)，也負責與植有FRACTALE
-    終端的個體進行協調，當人凝視星時，會自動解決人體腦內系統的各種疑難。
+    實為衛星般的收發器，圍繞著地球運轉，主要用作數據連輸(像現今的互聯網)，也負責與植有FRACTALE 終端的個體進行協調，當人凝視星時，會自動解決人體腦內系統的各種疑難。
 
 <!-- end list -->
 
@@ -107,16 +103,12 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 
   - 片頭曲《》
     作詞、作曲、主唱：AZUMA HITOMI，編曲：AZUMAYA
-  - 片尾曲《[Down By The Salley
-    Gardens](https://zh.wikipedia.org/wiki/Down_By_The_Salley_Gardens "wikilink")》（第1話
-    - 第4話、第9話 - 第11話）
-    作詞：[威廉·巴特勒·葉芝](https://zh.wikipedia.org/wiki/威廉·巴特勒·葉芝 "wikilink")，作曲：愛爾蘭民謠，編曲：AZUMAYA、主唱：AZUMA
-    HITOMI
+  - 片尾曲《[Down By The Salley Gardens](https://zh.wikipedia.org/wiki/Down_By_The_Salley_Gardens "wikilink")》（第1話 - 第4話、第9話 - 第11話）
+    作詞：[威廉·巴特勒·葉芝](https://zh.wikipedia.org/wiki/威廉·巴特勒·葉芝 "wikilink")，作曲：愛爾蘭民謠，編曲：AZUMAYA、主唱：AZUMA HITOMI
   - 片尾曲《「サリーガーデン」》（第5話 - 第8話）
     作詞：威廉·巴特勒·葉芝，作曲： 愛爾蘭民謠，編曲：AZUMAYA、日本語版作詞、主唱： AZUMA HITOMI
   - 插曲《》
-    作詞：[岡田麿里](../Page/岡田麿里.md "wikilink")，作曲、編曲：[神前曉](https://zh.wikipedia.org/wiki/神前曉 "wikilink")，主唱：AZUMA
-    HITOMI
+    作詞：[岡田麿里](../Page/岡田麿里.md "wikilink")，作曲、編曲：[神前曉](https://zh.wikipedia.org/wiki/神前曉 "wikilink")，主唱：AZUMA HITOMI
 
 ## 各話標題
 
@@ -265,8 +257,7 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 
 ## 逸闻
 
-山本寬在Fractale播出之前接受報刊採訪時表示，如果本部動畫不成功便隱退。\[3\]不久，山本寬關閉其博客並收回隱退宣言。\[4\]結果該片收視冷淡，故事原案[東浩紀表示山本寬應對此負責](https://zh.wikipedia.org/wiki/東浩紀 "wikilink")。\[5\]而由于山本宽收回隐退宣言的行为，导致之后他所监督的作品在中国有了“遗作”之称
-\[6\]。而该作品第一卷销量883卷也被爱好者将作品和其名字定为销量单位量（单位名称取作品名称缩写为“frt”，读作“宽”），用于和其他作品销量的对比来调侃。\[7\]
+山本寬在Fractale播出之前接受報刊採訪時表示，如果本部動畫不成功便隱退。\[3\]不久，山本寬關閉其博客並收回隱退宣言。\[4\]結果該片收視冷淡，故事原案[東浩紀表示山本寬應對此負責](https://zh.wikipedia.org/wiki/東浩紀 "wikilink")。\[5\]而由于山本宽收回隐退宣言的行为，导致之后他所监督的作品在中国有了“遗作”之称 \[6\]。而该作品第一卷销量883卷也被爱好者将作品和其名字定为销量单位量（单位名称取作品名称缩写为“frt”，读作“宽”），用于和其他作品销量的对比来调侃。\[7\]
 
 ## 參註
 
@@ -274,12 +265,7 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 
   - [動畫官方網站](http://fractale-anime.com/)
 
-[Category:2011年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2011年日本電視動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:GANGAN_ONLINE](https://zh.wikipedia.org/wiki/Category:GANGAN_ONLINE "wikilink")
-[Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink")
+[Category:2011年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2011年日本電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:GANGAN_ONLINE](https://zh.wikipedia.org/wiki/Category:GANGAN_ONLINE "wikilink") [Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink")
 
 1.  [山本寬的聲明](http://fractale-anime.com/special.html#content_message)
 2.

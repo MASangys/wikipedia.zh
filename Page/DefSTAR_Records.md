@@ -1,9 +1,8 @@
-**DefSTAR
-Records**是[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂.md "wikilink")[日本](../Page/日本.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。
+**DefSTAR Records**是[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下的[日本](../Page/日本.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。
 
 ## 概要
 
-2001年1月由日本索尼音樂娛樂的制作部門分化。初代執行董事由[日本華納音樂執行董事社長吉田敬擔任](../Page/日本華納音樂.md "wikilink")\[1\]。DefSTAR是新詞、語源是「Def＝酷」+「STAR＝創造新的明星」的意思。標誌記號是模仿[星中的](https://zh.wikipedia.org/wiki/星 "wikilink")[首字放大的](../Page/首字放大.md "wikilink")[D](../Page/D.md "wikilink")。
+2001年1月由日本索尼音樂娛樂的制作部門分化。初代執行董事由[日本華納音樂](../Page/日本華納音樂.md "wikilink")執行董事社長吉田敬擔任\[1\]。DefSTAR是新詞、語源是「Def＝酷」+「STAR＝創造新的明星」的意思。標誌記號是模仿[星中的](https://zh.wikipedia.org/wiki/星 "wikilink")[首字放大](../Page/首字放大.md "wikilink")的[D](../Page/D.md "wikilink")。
 
 ## 歷史
 
@@ -18,10 +17,8 @@ Records**是[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂
 ### 現在的所屬藝人
 
   - [amplified](https://zh.wikipedia.org/wiki/amplified "wikilink")
-  - [Yellow
-    Cherry](https://zh.wikipedia.org/wiki/Yellow_Cherry "wikilink")
-  - [immi](https://zh.wikipedia.org/wiki/immi "wikilink")（所屬事務所[GRANDFUNK
-    INC.](https://zh.wikipedia.org/wiki/GRANDFUNK_INC. "wikilink")）
+  - [Yellow Cherry](https://zh.wikipedia.org/wiki/Yellow_Cherry "wikilink")
+  - [immi](https://zh.wikipedia.org/wiki/immi "wikilink")（所屬事務所[GRANDFUNK INC.](https://zh.wikipedia.org/wiki/GRANDFUNK_INC. "wikilink")）
   - [Kylee](https://zh.wikipedia.org/wiki/:凯莉·桑德斯 "wikilink")
   - [CHiAKi KURiYAMA](../Page/栗山千明.md "wikilink")
   - [CHEMISTRY](https://zh.wikipedia.org/wiki/CHEMISTRY "wikilink")
@@ -35,70 +32,49 @@ Records**是[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂
   - [FLiP](https://zh.wikipedia.org/wiki/FLiP "wikilink")
   - [pe'zmoku](https://zh.wikipedia.org/wiki/pe'zmoku "wikilink")
   - [monobright](https://zh.wikipedia.org/wiki/monobright "wikilink")（所屬事務所[Amuse](../Page/Amuse.md "wikilink")）
-  - [universe](https://zh.wikipedia.org/wiki/universe "wikilink")（所屬事務所[Stardust
-    Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")）
+  - [universe](https://zh.wikipedia.org/wiki/universe "wikilink")（所屬事務所[Stardust Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")）
   - [Lil'B](https://zh.wikipedia.org/wiki/Lil'B "wikilink")
   - [ON/OFF](https://zh.wikipedia.org/wiki/ON/OFF "wikilink")（所屬事務所[マジソンミュージックアカデミー](https://zh.wikipedia.org/wiki/マジソンミュージックアカデミー "wikilink")）
   - [ROOKiEZ is PUNK'D](../Page/ROOKiEZ_is_PUNK'D.md "wikilink")
   - [kanon×kanon](https://zh.wikipedia.org/wiki/kanon×kanon "wikilink")
   - [mc2](https://zh.wikipedia.org/wiki/mc2_\(音樂\) "wikilink")
-  - [AGGRESSIVE DOGS a.k.a
-    UZI-ONE](https://zh.wikipedia.org/wiki/AGGRESSIVE_DOGS_a.k.a_UZI-ONE "wikilink")
+  - [AGGRESSIVE DOGS a.k.a UZI-ONE](https://zh.wikipedia.org/wiki/AGGRESSIVE_DOGS_a.k.a_UZI-ONE "wikilink")
   - [Aimer](../Page/Aimer.md "wikilink")
   - [GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
 
 ### 過去所屬的藝人
 
   - 移籍
-      - [AKB48](../Page/AKB48.md "wikilink")（[You, Be
-        Cool\!](../Page/You,_Be_Cool!.md "wikilink")/[King
-        Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）
-      - [奥田美和子](https://zh.wikipedia.org/wiki/奥田みわ "wikilink")（[BMG
-        JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")→Cocoon）
-      - [Sowelu](../Page/Sowelu.md "wikilink")（[rhythm
-        zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")）
-      - [NORTHERN
-        BRIGHT](https://zh.wikipedia.org/wiki/NORTHERN_BRIGHT "wikilink")（Sony
-        Records→[LD\&K
-        Records](https://zh.wikipedia.org/wiki/LD&K_Records "wikilink")）
-      - [the brilliant
-        green](https://zh.wikipedia.org/wiki/the_brilliant_green "wikilink")（[日本華納音樂](../Page/日本華納音樂.md "wikilink")）
+      - [AKB48](../Page/AKB48.md "wikilink")（[You, Be Cool\!](../Page/You,_Be_Cool!.md "wikilink")/[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）
+      - [奥田美和子](https://zh.wikipedia.org/wiki/奥田みわ "wikilink")（[BMG JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")→Cocoon）
+      - [Sowelu](../Page/Sowelu.md "wikilink")（[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")）
+      - [NORTHERN BRIGHT](https://zh.wikipedia.org/wiki/NORTHERN_BRIGHT "wikilink")（Sony Records→[LD\&K Records](https://zh.wikipedia.org/wiki/LD&K_Records "wikilink")）
+      - [the brilliant green](https://zh.wikipedia.org/wiki/the_brilliant_green "wikilink")（[日本華納音樂](../Page/日本華納音樂.md "wikilink")）
           - [川瀨智子](../Page/川瀨智子.md "wikilink")
           - Tommy february6
           - Tommy heavenly6
-      - [私立惠比壽中學](../Page/私立惠比壽中學.md "wikilink")（跳槽至[SME
-        Records](../Page/SME_Records.md "wikilink")）
+      - [私立惠比壽中學](../Page/私立惠比壽中學.md "wikilink")（跳槽至[SME Records](../Page/SME_Records.md "wikilink")）
       - [分島花音](../Page/分島花音.md "wikilink")（所属事務所[Hit\&Run](https://zh.wikipedia.org/wiki/Hit&Run "wikilink")）
   - 解散・引退
-      - [YeLLOW
-        Generation](https://zh.wikipedia.org/wiki/YeLLOW_Generation "wikilink")
+      - [YeLLOW Generation](https://zh.wikipedia.org/wiki/YeLLOW_Generation "wikilink")
       - [KGDR](https://zh.wikipedia.org/wiki/KGDR "wikilink")
       - [KILLERS](https://zh.wikipedia.org/wiki/KILLERS "wikilink")
-      - [DEV
-        PARADE](https://zh.wikipedia.org/wiki/DEV_PARADE "wikilink")
-      - [ナチュラル
-        ハイ](https://zh.wikipedia.org/wiki/ナチュラル_ハイ "wikilink")（所屬事務所[ダブルスター](https://zh.wikipedia.org/wiki/ダブルスター "wikilink")）
+      - [DEV PARADE](https://zh.wikipedia.org/wiki/DEV_PARADE "wikilink")
+      - [ナチュラル ハイ](https://zh.wikipedia.org/wiki/ナチュラル_ハイ "wikilink")（所屬事務所[ダブルスター](https://zh.wikipedia.org/wiki/ダブルスター "wikilink")）
       - [平川地一丁目](https://zh.wikipedia.org/wiki/平川地一丁目 "wikilink")（所屬事務所[ダブルスター](https://zh.wikipedia.org/wiki/ダブルスター "wikilink")）
           - [林直次郎](https://zh.wikipedia.org/wiki/林直次郎 "wikilink")
           - [中央特快](https://zh.wikipedia.org/wiki/中央特快 "wikilink")
-      - [BEAT
-        CRUSADERS](https://zh.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")（所屬事務所[HIGH
-        WAVE](https://zh.wikipedia.org/wiki/HIGH_WAVE "wikilink")）
-      - [LONG SHOT
-        PARTY](https://zh.wikipedia.org/wiki/LONG_SHOT_PARTY "wikilink")
+      - [BEAT CRUSADERS](https://zh.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")（所屬事務所[HIGH WAVE](https://zh.wikipedia.org/wiki/HIGH_WAVE "wikilink")）
+      - [LONG SHOT PARTY](https://zh.wikipedia.org/wiki/LONG_SHOT_PARTY "wikilink")
 
 ## 腳註
 
 ## 外部連結
 
-  - [会社案内](https://web.archive.org/web/20130716142958/http://www.sme.co.jp/sme/corporate/def.html)
-    - SONY・音樂團體公式網站內
-  - [DefSTAR Records OFFICIAL
-    SITE](https://web.archive.org/web/20121022172457/http://www.defstar.jp/)
+  - [会社案内](https://web.archive.org/web/20130716142958/http://www.sme.co.jp/sme/corporate/def.html) - SONY・音樂團體公式網站內
+  - [DefSTAR Records OFFICIAL SITE](https://web.archive.org/web/20121022172457/http://www.defstar.jp/)
 
-[Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink")
-[Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
+[Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink") [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
 
 1.
 

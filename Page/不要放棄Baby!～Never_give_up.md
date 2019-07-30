@@ -1,14 +1,8 @@
-「**不要放棄Baby\!～Never give
-up**」（）是[SMAP](../Page/SMAP.md "wikilink")的第4張單曲，於1992年7月8日由[Victor
-Entertainment發行](../Page/勝利娛樂.md "wikilink")。
+「**不要放棄Baby\!～Never give up**」（）是[SMAP](../Page/SMAP.md "wikilink")的第4張單曲，於1992年7月8日由[Victor Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 簡介
 
-  - 專輯《[SMAP 003](../Page/SMAP_003.md "wikilink")》收錄的是「不要放棄Baby\!～Never
-    give up（3×3 MIX）」版本，單曲版本只收錄在《[Smap
-    Vest](https://zh.wikipedia.org/wiki/Smap_Vest "wikilink")》。B面「BEST
-    FRIEND」的單曲版本沒有被收錄在任何專輯，收錄在[pamS的是重新錄制的](https://zh.wikipedia.org/wiki/pamS "wikilink")2001
-    version。
+  - 專輯《[SMAP 003](../Page/SMAP_003.md "wikilink")》收錄的是「不要放棄Baby\!～Never give up（3×3 MIX）」版本，單曲版本只收錄在《[Smap Vest](https://zh.wikipedia.org/wiki/Smap_Vest "wikilink")》。B面「BEST FRIEND」的單曲版本沒有被收錄在任何專輯，收錄在[pamS的是重新錄制的](https://zh.wikipedia.org/wiki/pamS "wikilink")2001 version。
   - 初回盤附送「SMAP MINI-MINI PHOTO BOOK」。
 
 ## 收錄歌曲
@@ -32,9 +26,6 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 相關連結
 
-  - [不要放棄Baby\!～Never give
-    up](http://www.jvcmusic.co.jp/-/Discography/A002763/VIDL-10253.html)
-    （Victor Entertainment）
+  - [不要放棄Baby\!～Never give up](http://www.jvcmusic.co.jp/-/Discography/A002763/VIDL-10253.html) （Victor Entertainment）
 
-[Category:SMAP歌曲](https://zh.wikipedia.org/wiki/Category:SMAP歌曲 "wikilink")
-[Category:1992年單曲](https://zh.wikipedia.org/wiki/Category:1992年單曲 "wikilink")
+[Category:SMAP歌曲](https://zh.wikipedia.org/wiki/Category:SMAP歌曲 "wikilink") [Category:1992年單曲](https://zh.wikipedia.org/wiki/Category:1992年單曲 "wikilink")

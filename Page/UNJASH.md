@@ -9,8 +9,7 @@
 
 ## 略歴
 
-  - 1993年結成。團名是渡部想的「J (JOY) 、A (ANGRY) 、S (SAD) 、H
-    (HAPPY)=喜怒哀樂」這樣，兒嶋表示「加上(a)行跟(n)的藝人比較受歡迎」所以就加上了「UN」，但是UN有否定的意思，所以也有人說團名的意思是否定喜怒哀樂。最初是比較常用英文的UNJASH來表示團名，但最近已經幾乎用日文的「」了。
+  - 1993年結成。團名是渡部想的「J (JOY) 、A (ANGRY) 、S (SAD) 、H (HAPPY)=喜怒哀樂」這樣，兒嶋表示「加上(a)行跟(n)的藝人比較受歡迎」所以就加上了「UN」，但是UN有否定的意思，所以也有人說團名的意思是否定喜怒哀樂。最初是比較常用英文的UNJASH來表示團名，但最近已經幾乎用日文的「」了。
   - 2003年開始在電視節目『』出演，人氣及知名度上升。2004年更是受到『搞笑金牌』的高評價。
   - 2004年9月在[千葉電視台出演電視節目](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")『白黑UNJASH』。
   - 兒嶋在第18回麻將最強戰打入準優勝。
@@ -20,9 +19,7 @@
 ## 外部連結
 
   - [](https://web.archive.org/web/20090916163752/http://www.p-jinriki.com/unjash/)
-  - [Happy
-    Talk](https://web.archive.org/web/20081121005602/http://www.girlsgate.com/lifestyle/emiri/060105/index.html)（
-    GiRLSGATE）
+  - [Happy Talk](https://web.archive.org/web/20081121005602/http://www.girlsgate.com/lifestyle/emiri/060105/index.html)（ GiRLSGATE）
 
 [Category:日本搞笑二人組](https://zh.wikipedia.org/wiki/Category:日本搞笑二人組 "wikilink")
 

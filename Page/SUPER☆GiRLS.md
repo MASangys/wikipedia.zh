@@ -1,10 +1,8 @@
-**SUPER☆GiRLS**，簡稱**S☆G**、**SuPaGa**（，來自「Super
-Girls」的縮寫），是[日本](../Page/日本.md "wikilink")[愛貝克思旗下第一組女子](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，於2010年結成，目前有13名成員。所屬經紀公司為[爱贝克思管理](https://zh.wikipedia.org/wiki/爱贝克思管理 "wikilink")，所屬音樂品牌為[iDOL
-Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
+**SUPER☆GiRLS**，簡稱**S☆G**、**SuPaGa**（，來自「Super Girls」的縮寫），是[日本](../Page/日本.md "wikilink")[愛貝克思旗下第一組女子](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，於2010年結成，目前有13名成員。所屬經紀公司為[爱贝克思管理](https://zh.wikipedia.org/wiki/爱贝克思管理 "wikilink")，所屬音樂品牌為[iDOL Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
 
 ## 概要
 
-SUPER☆GiRLS於2009年12月組成，最初成員均來自愛貝克思首次舉行的大規模甄選活動「」。甄選途中有[BeeTV同名的節目播放](../Page/BeeTV.md "wikilink")。2010年6月12日在中野陽光廣場進行最終審査，參加人數約7000名中選出24名爭奪，最終12名合格\[1\]\[2\]\[3\]。
+SUPER☆GiRLS於2009年12月組成，最初成員均來自愛貝克思首次舉行的大規模甄選活動「」。甄選途中有[BeeTV](../Page/BeeTV.md "wikilink")同名的節目播放。2010年6月12日在中野陽光廣場進行最終審査，參加人數約7000名中選出24名爭奪，最終12名合格\[1\]\[2\]\[3\]。
 
 ### 現役成員
 
@@ -172,7 +170,7 @@ SUPER☆GiRLS於2009年12月組成，最初成員均來自愛貝克思首次舉�
 <td></td>
 <td><p>橙</p></td>
 <td></td>
-<td><p>姐姐是<a href="../Page/HKT48.md" title="wikilink">HKT48的松本日向</a>[5]</p></td>
+<td><p>姐姐是<a href="../Page/HKT48.md" title="wikilink">HKT48</a>的松本日向[5]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -590,29 +588,24 @@ THE☆熱唱權</p></td>
       - 8月7日、在[a-nation'10初之披露](https://zh.wikipedia.org/wiki/a-nation "wikilink")\[13\]。
       - 10月2日、[汐留AXで舉行現場活動](../Page/日本電視台.md "wikilink")，同年12月22日發表以專輯『超絶少女』出道。
       - 10月23日、在原宿アストロホール舉行首個單獨迷你Live。
-      - 12月21日、[SHIBUYA-AX舉行首個單獨全程直播](../Page/SHIBUYA-AX.md "wikilink")\\\[14\]。
+      - 12月21日、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")舉行首個單獨全程直播\\\[14\]。
       - 12月22日、1st專輯『[超絶少女](https://zh.wikipedia.org/wiki/超絶少女 "wikilink")』發售。
   - 2011年
-      - 4月20日、1st單曲「[加油
-        青春](https://zh.wikipedia.org/wiki/加油_青春 "wikilink")」發售\[15\]。
+      - 4月20日、1st單曲「[加油 青春](https://zh.wikipedia.org/wiki/加油_青春 "wikilink")」發售\[15\]。
       - 6月12日、[品川ステラボールにて結成一周年記念ライブを開催](https://zh.wikipedia.org/wiki/エプソン品川アクアスタジアム#Stellar_Ball（ステラボール） "wikilink")\[16\]。
-      - 6月15日、2nd單曲「[MAX\!乙女心/Happy GO
-        Lucky\!〜ハピ☆ラキでゴー\!〜](https://zh.wikipedia.org/wiki/MAX!乙女心/Happy_GO_Lucky!〜ハピ☆ラキでゴー!〜 "wikilink")」發售。
+      - 6月15日、2nd單曲「[MAX\!乙女心/Happy GO Lucky\!〜ハピ☆ラキでゴー\!〜](https://zh.wikipedia.org/wiki/MAX!乙女心/Happy_GO_Lucky!〜ハピ☆ラキでゴー!〜 "wikilink")」發售。
       - 9月28日、1st Live DVD『ファーストコンサート〜超絶少女が止まンないっ\!〜』發售。
       - 10月5日、3rd單曲「[女子力←天堂](../Page/女子力←天堂.md "wikilink")」發售。
       - 11月18日、獲得[第53回日本唱片大獎新人獎決定](https://zh.wikipedia.org/wiki/第53回日本唱片大獎 "wikilink")\[17\]。
   - 2012年
-      - 1月19日、秋田恵里在2月5日[日本青年館舉行公演發表從團體中畢業](../Page/日本青年館.md "wikilink")\[18\]\[19\]。
-      - 2月1日、2nd專輯『[EveryBody
-        JUMP\!\!](../Page/EveryBody_JUMP!!.md "wikilink")』發售。
+      - 1月19日、秋田恵里在2月5日[日本青年館](../Page/日本青年館.md "wikilink")舉行公演發表從團體中畢業\[18\]\[19\]。
+      - 2月1日、2nd專輯『[EveryBody JUMP\!\!](../Page/EveryBody_JUMP!!.md "wikilink")』發售。
       - 2月5日、這日的公演秋田恵里畢業。開始11人体制。
       - 3月28日、2nd Live DVD『SUPER☆GiRLS 超絶少女2012 メモリアル at 日本青年館』發售。
-      - 4月3日 - 、[Pigoo
-        HD首個冠名節目](https://zh.wikipedia.org/wiki/エンタ!371#Pigoo_HD "wikilink")『SUPER☆GiRLSの超絶アドベンチャー\!』開始播放。
+      - 4月3日 - 、[Pigoo HD首個冠名節目](https://zh.wikipedia.org/wiki/エンタ!371#Pigoo_HD "wikilink")『SUPER☆GiRLSの超絶アドベンチャー\!』開始播放。
       - 4月4日 - 29日、在東京、名古屋、大阪的3個都市舉行首次巡迴演出。
       - 4月18日、4th單曲「1,000,000☆スマイル」發售\[20\]。
-      - 7月4日、5th單曲「[彈彈♥SUMMER
-        Kiss](https://zh.wikipedia.org/wiki/彈彈_SUMMER_Kiss "wikilink")」發售。
+      - 7月4日、5th單曲「[彈彈♥SUMMER Kiss](https://zh.wikipedia.org/wiki/彈彈_SUMMER_Kiss "wikilink")」發售。
       - 10月24日、6th單曲「[紅色熱情](../Page/紅色熱情.md "wikilink")」發售。
   - 2013年
       - 1月16日、稼農楓宣布退出。開始10人体制。
@@ -621,8 +614,7 @@ THE☆熱唱權</p></td>
       - 6月11日、舉行首次日本武道館演唱會。
       - 6月12日、7th單曲「常夏High Touch」發售。
       - 12月4日、8th單曲「年輕男孩」、「感傷旅程」・「聖誕鈴鈴鈴」3張同時發售。
-      - 12月12日、八坂沙織在「iDOL Street Carnival 2013 WINTER X'mas Special
-        〜これが私のアイドル道〜」上宣佈將會於2014年2月23日的演唱會公演後從團體中畢業。並公佈同日將加入浅川梨奈、内村莉彩2名新成員。\[21\]\[22\]
+      - 12月12日、八坂沙織在「iDOL Street Carnival 2013 WINTER X'mas Special 〜これが私のアイドル道〜」上宣佈將會於2014年2月23日的演唱會公演後從團體中畢業。並公佈同日將加入浅川梨奈、内村莉彩2名新成員。\[21\]\[22\]
   - 2014年
       - 2月12日、9th單曲「天空色的奇蹟」發售。
       - 2月5日、這日的公演八坂沙織畢業，3名新成員浅川梨奈、内村莉彩、渡邉幸愛加入。開始12人体制。\[23\]
@@ -1171,22 +1163,15 @@ AVBF-74461X</p></td>
 
 <!-- end list -->
 
-1.  [NIJIIROスター☆](https://zh.wikipedia.org/wiki/超絶少女#收錄曲 "wikilink")（作詞・作曲：Litz
-    編曲：[水島康貴](https://zh.wikipedia.org/wiki/水島康貴 "wikilink")）
-2.  [絆デイズ](https://zh.wikipedia.org/wiki/超絶少女#收錄曲 "wikilink")（作詞・作曲：FIREWORKS
-    編曲：[渡邊徹](https://zh.wikipedia.org/wiki/渡邊徹 "wikilink")）
-3.  [Be with
-    you](https://zh.wikipedia.org/wiki/超絶少女#收錄曲 "wikilink")（作詞・作曲：[Tetsuya
-    Komuro](../Page/小室哲哉.md "wikilink")
-    編曲：[齋藤真也](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink")）
+1.  [NIJIIROスター☆](https://zh.wikipedia.org/wiki/超絶少女#收錄曲 "wikilink")（作詞・作曲：Litz 編曲：[水島康貴](https://zh.wikipedia.org/wiki/水島康貴 "wikilink")）
+2.  [絆デイズ](https://zh.wikipedia.org/wiki/超絶少女#收錄曲 "wikilink")（作詞・作曲：FIREWORKS 編曲：[渡邊徹](https://zh.wikipedia.org/wiki/渡邊徹 "wikilink")）
+3.  [Be with you](https://zh.wikipedia.org/wiki/超絶少女#收錄曲 "wikilink")（作詞・作曲：[Tetsuya Komuro](../Page/小室哲哉.md "wikilink") 編曲：[齋藤真也](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink")）
 
 ### 参加作品
 
 #### CD
 
-  - [SUPER EUROBEAT
-    VOL.210](https://zh.wikipedia.org/wiki/SUPER_EUROBEAT#2010年_- "wikilink")（2010年12月29日、[avex
-    trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")）
+  - [SUPER EUROBEAT VOL.210](https://zh.wikipedia.org/wiki/SUPER_EUROBEAT#2010年_- "wikilink")（2010年12月29日、[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")）
       - 「Be with you \[EURO GiRLS MIX\]」都有收錄。
   - a-nation 10th Anniversary Best Selection CD（2011年7月30日、avex trax）
       - 『DISC 4』裡「Be with you」都有收錄。
@@ -1200,8 +1185,7 @@ AVBF-74461X</p></td>
 
 #### 其他歌手翻唱
 
-  - アイドル
-    バイブレーション\!\!（2011年11月2日、[D-topia](https://zh.wikipedia.org/wiki/D-topia "wikilink")）
+  - アイドル バイブレーション\!\!（2011年11月2日、[D-topia](https://zh.wikipedia.org/wiki/D-topia "wikilink")）
       - 第9曲中「MAX\!乙女心」的翻唱收錄。
 
 ### 電視
@@ -1210,11 +1194,8 @@ AVBF-74461X</p></td>
 
 <!-- end list -->
 
-  - avexアイドルオーディション2010 〜ケータイ育成アイドル
-    SUPER☆GiRLS誕生〜（2010年8月28日、[朝日電視台](../Page/朝日電視台.md "wikilink")）
-  - 音樂特集〜SUPER☆GiRLS（2010年12月17日、[Sky
-    PerfecTV\!](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")
-    [エンタ\!371](https://zh.wikipedia.org/wiki/エンタ!371 "wikilink")）
+  - avexアイドルオーディション2010 〜ケータイ育成アイドル SUPER☆GiRLS誕生〜（2010年8月28日、[朝日電視台](../Page/朝日電視台.md "wikilink")）
+  - 音樂特集〜SUPER☆GiRLS（2010年12月17日、[Sky PerfecTV\!](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink") [エンタ\!371](https://zh.wikipedia.org/wiki/エンタ!371 "wikilink")）
 
 <!-- end list -->
 
@@ -1222,8 +1203,7 @@ AVBF-74461X</p></td>
 
 <!-- end list -->
 
-  - START\!\!北海道アイドル☆プロジェクト（2011年6月23日、[北海道放送](../Page/北海道放送.md "wikilink")）
-    - 勝田
+  - START\!\!北海道アイドル☆プロジェクト（2011年6月23日、[北海道放送](../Page/北海道放送.md "wikilink")） - 勝田
 
 <!-- end list -->
 
@@ -1231,24 +1211,17 @@ AVBF-74461X</p></td>
 
 <!-- end list -->
 
-  - 美少女アイドル大集合\!〜かわいさ余ってOTOME100倍\!（2010年12月3日、[朝日放送](../Page/朝日放送.md "wikilink")）
-    - 首個音樂節目
-  - [Mu-Jack](../Page/Mu-Jack.md "wikilink")（2010年12月17日・2011年8月26日・9月30日、[關西電視台](../Page/關西電視台.md "wikilink")）
-    - 8月26日是田中・溝手・後藤・前島、9月30日是志村・渡邉・宮崎・荒井・田中・前島出演
-  - 激☆音ボケ plus（2010年12月27日・2011年3月28日、[TOKYO
-    MX](../Page/東京都會電視台.md "wikilink")） - 八坂・志村・稼農・前島
+  - 美少女アイドル大集合\!〜かわいさ余ってOTOME100倍\!（2010年12月3日、[朝日放送](../Page/朝日放送.md "wikilink")） - 首個音樂節目
+  - [Mu-Jack](../Page/Mu-Jack.md "wikilink")（2010年12月17日・2011年8月26日・9月30日、[關西電視台](../Page/關西電視台.md "wikilink")） - 8月26日是田中・溝手・後藤・前島、9月30日是志村・渡邉・宮崎・荒井・田中・前島出演
+  - 激☆音ボケ plus（2010年12月27日・2011年3月28日、[TOKYO MX](../Page/東京都會電視台.md "wikilink")） - 八坂・志村・稼農・前島
   - [月刊MelodiX\!](https://zh.wikipedia.org/wiki/月刊MelodiX! "wikilink")（2011年3月26日・9月24日、[東京電視台](../Page/東京電視台.md "wikilink")）
-  - [MUSIC
-    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2011年3月27日・6月19日・10月9日、[NHK綜合電視台](../Page/NHK綜合頻道.md "wikilink")）
+  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2011年3月27日・6月19日・10月9日、[NHK綜合電視台](../Page/NHK綜合頻道.md "wikilink")）
   - [ハッピーMusic](https://zh.wikipedia.org/wiki/ハッピーMusic "wikilink")（2011年4月2日・6月24日・10月14日、[日本電視台](../Page/日本電視台.md "wikilink")）
   - [ミューサタ](https://zh.wikipedia.org/wiki/ミューサタ "wikilink")（2011年6月3日・10日、[富士電視台](../Page/富士電視台.md "wikilink")）
   - [魁！音樂排行榜](../Page/魁！音樂排行榜.md "wikilink")（2011年7月27日、富士電視台）
-  - [HEY\!HEY\!HEY\!MUSIC
-    CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")（2011年9月26日、富士電視台）
-  - Pigooライブ〜SUPER☆GiRLS（2011年10月1日・2日、[エンタ\!371](https://zh.wikipedia.org/wiki/エンタ!371 "wikilink")・[Pigoo
-    HD](https://zh.wikipedia.org/wiki/エンタ!371#Pigoo_HD "wikilink")）
-  - [第53回
-    輝く\!日本唱片大賞](https://zh.wikipedia.org/wiki/第53回日本唱片大賞 "wikilink")（2011年12月30日、TBS系列）
+  - [HEY\!HEY\!HEY\!MUSIC CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")（2011年9月26日、富士電視台）
+  - Pigooライブ〜SUPER☆GiRLS（2011年10月1日・2日、[エンタ\!371](https://zh.wikipedia.org/wiki/エンタ!371 "wikilink")・[Pigoo HD](https://zh.wikipedia.org/wiki/エンタ!371#Pigoo_HD "wikilink")）
+  - [第53回 輝く\!日本唱片大賞](https://zh.wikipedia.org/wiki/第53回日本唱片大賞 "wikilink")（2011年12月30日、TBS系列）
 
 <!-- end list -->
 
@@ -1257,12 +1230,8 @@ AVBF-74461X</p></td>
 <!-- end list -->
 
   - [ズームイン\!\!SUPER](https://zh.wikipedia.org/wiki/ズームイン!!SUPER "wikilink")（2010年8月31日、日本電視台系列）
-  - [つながるセブン](https://zh.wikipedia.org/wiki/つながるセブン "wikilink")（2011年1月18日
-    - 9月20日、[J:COM](https://zh.wikipedia.org/wiki/ジュピターテレコム "wikilink")）
-    - 星期二。
-  - [LIONS
-    CHANNEL](https://zh.wikipedia.org/wiki/LIONS_CHANNEL "wikilink")（2011年4月25日
-    - 、毎週月曜、[埼玉電視台](../Page/埼玉電視台.md "wikilink")） - 正式助手（稼農・田中）
+  - [つながるセブン](https://zh.wikipedia.org/wiki/つながるセブン "wikilink")（2011年1月18日 - 9月20日、[J:COM](https://zh.wikipedia.org/wiki/ジュピターテレコム "wikilink")） - 星期二。
+  - [LIONS CHANNEL](https://zh.wikipedia.org/wiki/LIONS_CHANNEL "wikilink")（2011年4月25日 - 、毎週月曜、[埼玉電視台](../Page/埼玉電視台.md "wikilink")） - 正式助手（稼農・田中）
 
 <!-- end list -->
 
@@ -1278,38 +1247,25 @@ AVBF-74461X</p></td>
 
 ### 照片卡
 
-  - [B.L.T.](https://zh.wikipedia.org/wiki/BEAUTIFUL_Lady_&_TELEVISION "wikilink")「SUPER☆GiRLS
-    3Dフォトカード Vol.1」（2011年12月、[東京新聞通信社](../Page/東京新聞通信社.md "wikilink")）
+  - [B.L.T.](https://zh.wikipedia.org/wiki/BEAUTIFUL_Lady_&_TELEVISION "wikilink")「SUPER☆GiRLS 3Dフォトカード Vol.1」（2011年12月、[東京新聞通信社](../Page/東京新聞通信社.md "wikilink")）
 
 ### 電子書籍
 
-  - SUPER☆GiRLS超絶少女2011 FINAL 〜Xmas
-    Special〜@新宿BLAZE（2012年1月5日、出版：エイベックス・マネジメント、發售：iMaga
-    Books）
-  - SUPER☆GiRLS 2012.1.5
-    新宿BRAZE（2012年1月26日、出版：エイベックス・マネジメント、發售：TSUTAYA.com
-    eBOOKs）
-  - SUPER☆GiRLS 2012.1.6
-    新宿BRAZE（2012年1月26日、出版：エイベックス・マネジメント、發售：TSUTAYA.com
-    eBOOKs）
+  - SUPER☆GiRLS超絶少女2011 FINAL 〜Xmas Special〜@新宿BLAZE（2012年1月5日、出版：エイベックス・マネジメント、發售：iMaga Books）
+  - SUPER☆GiRLS 2012.1.5 新宿BRAZE（2012年1月26日、出版：エイベックス・マネジメント、發售：TSUTAYA.com eBOOKs）
+  - SUPER☆GiRLS 2012.1.6 新宿BRAZE（2012年1月26日、出版：エイベックス・マネジメント、發售：TSUTAYA.com eBOOKs）
 
 ### 寫真集
 
   - SUPER☆GiRLS 1st 写真集「超☆絶」(2012年5月14日、東京新聞通信社)
-  - SUPER☆GiRLS 1st Live Tour Photo Book ～エビバディSMiLE\!\!～
-    (2012年5月24日、東京新聞通信社)
+  - SUPER☆GiRLS 1st Live Tour Photo Book ～エビバディSMiLE\!\!～ (2012年5月24日、東京新聞通信社)
 
 ### 雑誌連載
 
   - B.L.T.「誕生SP短期集中連載 SUPER☆GiRLS」（2010年10月号 - 11月号、東京新聞通信社）
   - B.L.T.「SUPER☆GiRLSのiDOL Street」（2010年12月号 - 、東京新聞通信社）
-  - [smart](https://zh.wikipedia.org/wiki/smart_\(雑誌\) "wikilink")「FAVORITE
-    MUSIC」（2010年11月号 -
-    、[宝島社](https://zh.wikipedia.org/wiki/宝島社 "wikilink")）
-  - [WHAT's
-    IN?](https://zh.wikipedia.org/wiki/WHAT's_IN? "wikilink")「SUPER☆GiRLS
-    アイドル成長期\!」（2012年2月号 - 、[Sony
-    Magazines](https://zh.wikipedia.org/wiki/Sony_Magazines "wikilink")）
+  - [smart](https://zh.wikipedia.org/wiki/smart_\(雑誌\) "wikilink")「FAVORITE MUSIC」（2010年11月号 - 、[宝島社](https://zh.wikipedia.org/wiki/宝島社 "wikilink")）
+  - [WHAT's IN?](https://zh.wikipedia.org/wiki/WHAT's_IN? "wikilink")「SUPER☆GiRLS アイドル成長期\!」（2012年2月号 - 、[Sony Magazines](https://zh.wikipedia.org/wiki/Sony_Magazines "wikilink")）
   - 月刊S☆G（2012年1月 - ）
 
 <!-- end list -->
@@ -1324,11 +1280,8 @@ AVBF-74461X</p></td>
 
 ### 専屬模特兒
 
-  - [ピチレモン](https://zh.wikipedia.org/wiki/ピチレモン "wikilink")（2011年5月号 -
-    、[学研パブリッシング](https://zh.wikipedia.org/wiki/学研パブリッシング "wikilink")）
-    - 前島
-  - [JJ](https://zh.wikipedia.org/wiki/JJ_\(雑誌\) "wikilink")（2011年11月号 -
-    、[光文社](https://zh.wikipedia.org/wiki/光文社 "wikilink")） - 荒井
+  - [ピチレモン](https://zh.wikipedia.org/wiki/ピチレモン "wikilink")（2011年5月号 - 、[学研パブリッシング](https://zh.wikipedia.org/wiki/学研パブリッシング "wikilink")） - 前島
+  - [JJ](https://zh.wikipedia.org/wiki/JJ_\(雑誌\) "wikilink")（2011年11月号 - 、[光文社](https://zh.wikipedia.org/wiki/光文社 "wikilink")） - 荒井
 
 ## 獲獎記錄
 
@@ -1344,29 +1297,22 @@ AVBF-74461X</p></td>
 
 ## 外部連結
 
-  - [SUPER☆GiRLS Official
-    Website](https://web.archive.org/web/20110707233415/http://supergirls.jp/index.html)
+  - [SUPER☆GiRLS Official Website](https://web.archive.org/web/20110707233415/http://supergirls.jp/index.html)
 
   - [SUPER☆GiRLS 官方部落格](http://ameblo.jp/supergirls-blog/)
 
-  - [SUPER☆GiRLS Channel](https://www.youtube.com/supergirls) -
-    [YouTube](../Page/YouTube.md "wikilink")
+  - [SUPER☆GiRLS Channel](https://www.youtube.com/supergirls) - [YouTube](../Page/YouTube.md "wikilink")
 
-  - [SUPER☆GiRLS -
-    niconico頻道](http://ch.nicovideo.jp/channel/supergirls) -
-    [niconico頻道](https://zh.wikipedia.org/wiki/niconico頻道 "wikilink")
+  - [SUPER☆GiRLS - niconico頻道](http://ch.nicovideo.jp/channel/supergirls) - [niconico頻道](https://zh.wikipedia.org/wiki/niconico頻道 "wikilink")
 
-  - [supergirls](http://www.ustream.tv/channel/supergirls) -
-    [Ustream](https://zh.wikipedia.org/wiki/Ustream "wikilink")
+  - [supergirls](http://www.ustream.tv/channel/supergirls) - [Ustream](https://zh.wikipedia.org/wiki/Ustream "wikilink")
 
   -
   - [リアルアイドル育成支援サイト『マイドル\!SUPER☆GiRLS』](http://ikusei.supergirls.jp/)
 
-  - [セブンネットショッピング「avex
-    SHOP」内・SUPER☆GiRLS特設ページ](http://www.7netshopping.jp/spc/static/avex/sg.html)
+  - [セブンネットショッピング「avex SHOP」内・SUPER☆GiRLS特設ページ](http://www.7netshopping.jp/spc/static/avex/sg.html)
 
-  - [SUPER☆GiRLS：avex
-    network](https://web.archive.org/web/20111005193656/http://avexnet.jp/id/sgirl/index.html)
+  - [SUPER☆GiRLS：avex network](https://web.archive.org/web/20111005193656/http://avexnet.jp/id/sgirl/index.html)
 
   - [iDOL Street](http://idolstreet.jp/index.html)
 
@@ -1378,10 +1324,8 @@ AVBF-74461X</p></td>
 
   -   - [八坂沙織 オフィシャルブログ 「さおりに捧げるローマーンス」](http://ameblo.jp/sg-saori-nu/)
       - [志村理佳 オフィシャルブログ 「りかたそのおばかな日記」](http://ameblo.jp/sg-rikataso/)
-      - [稼農楓 オフィシャルブログ
-        「稼農楓のふわふわ日記」](https://web.archive.org/web/20110925080811/http://ameblo.jp/sg-kaepyon)
-      - [渡邉ひかる オフィシャルブログ
-        「ひかるのぴかぴかのアイドルになるぞー」](http://ameblo.jp/sg-pikarun/)
+      - [稼農楓 オフィシャルブログ 「稼農楓のふわふわ日記」](https://web.archive.org/web/20110925080811/http://ameblo.jp/sg-kaepyon)
+      - [渡邉ひかる オフィシャルブログ 「ひかるのぴかぴかのアイドルになるぞー」](http://ameblo.jp/sg-pikarun/)
 
 <!-- end list -->
 
@@ -1393,10 +1337,7 @@ AVBF-74461X</p></td>
       - [溝手るか オフィシャルブログ 「がんばるかっ」](http://ameblo.jp/sg-ruka/)
       - [後藤彩 オフィシャルブログ 「ごっちゃん'S house」](http://ameblo.jp/sg-gocchan/)
 
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:SUPER☆GiRLS](https://zh.wikipedia.org/wiki/Category:SUPER☆GiRLS "wikilink")
+[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:SUPER☆GiRLS](https://zh.wikipedia.org/wiki/Category:SUPER☆GiRLS "wikilink")
 
 1.
 
@@ -1404,9 +1345,7 @@ AVBF-74461X</p></td>
 
 3.
 
-4.  [元AKB金澤がスパガ転身 ！
-    新加入7人お披露目](https://www.nikkansports.com/entertainment/news/201812190000635.html)
-    - 日刊スポーツ 2018年12月19日
+4.  [元AKB金澤がスパガ転身 ！ 新加入7人お披露目](https://www.nikkansports.com/entertainment/news/201812190000635.html) - 日刊スポーツ 2018年12月19日
 
 5.
 6.
@@ -1424,7 +1363,7 @@ AVBF-74461X</p></td>
 
 14.
 
-15. 当初在同年3月23日發售預定，因[東日本大震災影響而延期](../Page/東日本大震災.md "wikilink")。
+15. 当初在同年3月23日發售預定，因[東日本大震災](../Page/東日本大震災.md "wikilink")影響而延期。
 
 16.
 

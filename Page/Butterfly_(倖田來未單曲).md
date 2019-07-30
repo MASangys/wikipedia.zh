@@ -27,9 +27,7 @@
         [日本電視台](../Page/日本電視台.md "wikilink")「サンクチュアリ/大人の聖域」片尾曲。
 3.  **大切な君へ**
       -
-        [日本電視台](../Page/日本電視台.md "wikilink")「サンクチュアリ／大人の聖域」主題曲。另收錄於情歌[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")「[BEST
-        〜BOUNCE &
-        LOVERS〜](https://zh.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")」。
+        [日本電視台](../Page/日本電視台.md "wikilink")「サンクチュアリ／大人の聖域」主題曲。另收錄於情歌[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")「[BEST 〜BOUNCE & LOVERS〜](https://zh.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")」。
 4.  '''Butterfly （Instrumental） '''
 5.  **Your Sunshine （Instrumental）**
 6.  **大切な君へ （Instrumental）**
@@ -39,10 +37,4 @@
 1.  Butterfly （MUSIC VIDEO）
 2.  Butterfly （MAKING VIDEO）
 
-[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")
-[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink")
-[Category:日本唱片大獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎歌曲 "wikilink")
-[Category:TBS電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台電視劇主題曲 "wikilink")
-[Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink")
-[Category:藥品廣告歌曲](https://zh.wikipedia.org/wiki/Category:藥品廣告歌曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
+[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink") [Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:日本唱片大獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎歌曲 "wikilink") [Category:TBS電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台電視劇主題曲 "wikilink") [Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink") [Category:藥品廣告歌曲](https://zh.wikipedia.org/wiki/Category:藥品廣告歌曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")

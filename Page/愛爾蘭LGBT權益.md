@@ -12,12 +12,9 @@
 
   - [欧洲LGBT权益](https://zh.wikipedia.org/wiki/欧洲LGBT权益 "wikilink")
 
-[nl:Homohuwelijk in de Republiek
-Ierland](https://zh.wikipedia.org/wiki/nl:Homohuwelijk_in_de_Republiek_Ierland "wikilink")
+[nl:Homohuwelijk in de Republiek Ierland](https://zh.wikipedia.org/wiki/nl:Homohuwelijk_in_de_Republiek_Ierland "wikilink")
 
-[Category:愛爾蘭法律](https://zh.wikipedia.org/wiki/Category:愛爾蘭法律 "wikilink")
-[Category:愛爾蘭LGBT權益](https://zh.wikipedia.org/wiki/Category:愛爾蘭LGBT權益 "wikilink")
-[Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink")
+[Category:愛爾蘭法律](https://zh.wikipedia.org/wiki/Category:愛爾蘭法律 "wikilink") [Category:愛爾蘭LGBT權益](https://zh.wikipedia.org/wiki/Category:愛爾蘭LGBT權益 "wikilink") [Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink")
 
 1.
 2.

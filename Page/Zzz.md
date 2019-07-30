@@ -1,9 +1,8 @@
-「**Zzz**」（ズズズ\[1\]）是[佐咲紗花的第](../Page/佐咲紗花.md "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年5月25日由[Lantis發售](../Page/Lantis.md "wikilink")。
+「**Zzz**」（ズズズ\[1\]）是[佐咲紗花](../Page/佐咲紗花.md "wikilink")的第4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年5月25日由[Lantis](../Page/Lantis.md "wikilink")發售。
 
 ## 概要
 
-與前作「[fly away
-t.p.s](https://zh.wikipedia.org/wiki/fly_away_t.p.s "wikilink")」相隔約3個月發售，是2011年第2張的單曲。標題曲「Zzz」是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[日常](../Page/日常.md "wikilink")》的[片尾曲](../Page/主題曲.md "wikilink")（第1－13話），表達初戀是單戀的感情的歌曲\[2\]。
+與前作「[fly away t.p.s](https://zh.wikipedia.org/wiki/fly_away_t.p.s "wikilink")」相隔約3個月發售，是2011年第2張的單曲。標題曲「Zzz」是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[日常](../Page/日常.md "wikilink")》的[片尾曲](../Page/主題曲.md "wikilink")（第1－13話），表達初戀是單戀的感情的歌曲\[2\]。
 
 ## 收錄曲
 
@@ -32,9 +31,7 @@ t.p.s](https://zh.wikipedia.org/wiki/fly_away_t.p.s "wikilink")」相隔約3個�
 
   - [Lantis介紹網站](http://www.lantis.jp/new-release/data.php?id=56fbc93c211051fdc98c21864540f32c)
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
 
 1.
 2.

@@ -2,14 +2,7 @@
 
 ## 操作系统
 
-**TrueCrypt**支持常见[操作系统](../Page/操作系统.md "wikilink")，如：[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
-OS
-X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux操作系统](../Page/Linux.md "wikilink")\[1\]（使用[FUSE](../Page/FUSE.md "wikilink")）。这些操作系统的32位和64位版本均能支持，除了Windows
-[IA-64](https://zh.wikipedia.org/wiki/Itanium "wikilink")（不支持）和Mac OS
-X10.6雪豹（作为一个32位的进程中运行）。Windows 7，Windows Vista或Windows
-XP的版本可以加密引导分区或整个引导驱动器。对于[DragonFly
-BSD和](../Page/DragonFly_BSD.md "wikilink")[Linux](../Page/Linux.md "wikilink")，有一个单独、兼容的tcplay安装包。**TrueCrypt**使用[WxWidgets作为](../Page/WxWidgets.md "wikilink")[部件工具箱](../Page/部件工具箱.md "wikilink")。
+**TrueCrypt**支持常见[操作系统](../Page/操作系统.md "wikilink")，如：[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")操作系统\[1\]（使用[FUSE](../Page/FUSE.md "wikilink")）。这些操作系统的32位和64位版本均能支持，除了Windows [IA-64](https://zh.wikipedia.org/wiki/Itanium "wikilink")（不支持）和Mac OS X10.6雪豹（作为一个32位的进程中运行）。Windows 7，Windows Vista或Windows XP的版本可以加密引导分区或整个引导驱动器。对于[DragonFly BSD和](../Page/DragonFly_BSD.md "wikilink")[Linux](../Page/Linux.md "wikilink")，有一个单独、兼容的tcplay安装包。**TrueCrypt**使用[WxWidgets](../Page/WxWidgets.md "wikilink")作为[部件工具箱](../Page/部件工具箱.md "wikilink")。
 
 ## 加密算法
 
@@ -17,8 +10,7 @@ TrueCrypt的支持独立算法有[AES](https://zh.wikipedia.org/wiki/AES "wikili
 
 ## 開發終止
 
-2014年5月28日，TrueCrypt將其網站轉址回SourceForge，並在其頁面警告該軟體可能包含未修復的安全性問題，且TrueCrypt的開發已在2014年5月微軟終止Windows
-XP支援後結束。該站亦提供一個新版的TrueCrypt（7.2）下載，此版本僅有解密功能。\[2\]
+2014年5月28日，TrueCrypt將其網站轉址回SourceForge，並在其頁面警告該軟體可能包含未修復的安全性問題，且TrueCrypt的開發已在2014年5月微軟終止Windows XP支援後結束。該站亦提供一個新版的TrueCrypt（7.2）下載，此版本僅有解密功能。\[2\]
 
 ## 参考和注释
 
@@ -27,9 +19,7 @@ XP支援後結束。該站亦提供一個新版的TrueCrypt（7.2）下載，此
   -
   - [Windows下使用TrueCrypt加密](https://www.ytyzx.org/index.php/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8TrueCrypt%E5%8A%A0%E5%AF%86)
 
-[Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink")
-[Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink")
-[Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink")
+[Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink") [Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink") [Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink")
 
 1.
 2.

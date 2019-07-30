@@ -1,12 +1,8 @@
-[Minami_Takahashi_at_AKB48_J\!-ENT_Live.jpg](https://zh.wikipedia.org/wiki/File:Minami_Takahashi_at_AKB48_J!-ENT_Live.jpg "fig:Minami_Takahashi_at_AKB48_J!-ENT_Live.jpg")演唱《Bird》時的造型。\]\]
-**Team A 3rd Stage「为了谁」**（）是[AKB48](../Page/AKB48.md "wikilink") Team
-A的第3台[剧场公演](https://zh.wikipedia.org/wiki/AKB48剧场公演 "wikilink")，以及[NMB48的Team](../Page/NMB48.md "wikilink")
-N和Team研究生的第一台劇場公演。
+[Minami_Takahashi_at_AKB48_J\!-ENT_Live.jpg](https://zh.wikipedia.org/wiki/File:Minami_Takahashi_at_AKB48_J!-ENT_Live.jpg "fig:Minami_Takahashi_at_AKB48_J!-ENT_Live.jpg")演唱《Bird》時的造型。\]\] **Team A 3rd Stage「为了谁」**（）是[AKB48](../Page/AKB48.md "wikilink") Team A的第3台[剧场公演](https://zh.wikipedia.org/wiki/AKB48剧场公演 "wikilink")，以及[NMB48](../Page/NMB48.md "wikilink")的Team N和Team研究生的第一台劇場公演。
 
 ## 概要
 
-[AKB48](../Page/AKB48.md "wikilink") Team
-A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../Page/NMB48.md "wikilink")「為了誰」為其第一場劇場公演。
+[AKB48](../Page/AKB48.md "wikilink") Team A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48](../Page/NMB48.md "wikilink")亦使用了「為了誰」為其第一場劇場公演。
 
 本公演包括在成员[生誕祭时会使用的](https://zh.wikipedia.org/wiki/AKB48劇場公演#生誕祭 "wikilink")《生日夜》。另外，《骑士》是献给在AKB48成立後第10天一直支持AKB48，到2006年6月16日的公演後不久在[劇場內突然逝世](../Page/AKB48劇場.md "wikilink")，綽號「骑士」的粉絲。\[1\]
 
@@ -14,7 +10,7 @@ A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../P
 
 ### 曲目
 
-全部歌曲均由[AKB48和](../Page/AKB48.md "wikilink")[NMB48總製作人](../Page/NMB48.md "wikilink")[秋元康作詞](../Page/秋元康.md "wikilink")。
+全部歌曲均由[AKB48](../Page/AKB48.md "wikilink")和[NMB48](../Page/NMB48.md "wikilink")總製作人[秋元康](../Page/秋元康.md "wikilink")作詞。
 
 <table>
 <thead>
@@ -296,8 +292,7 @@ A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../P
 <!-- end list -->
 
   -
-    Team
-    A：[板野友美](../Page/板野友美.md "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")、[大江朝美](../Page/大江朝美.md "wikilink")、[大岛麻衣](https://zh.wikipedia.org/wiki/大岛麻衣 "wikilink")、[折井あゆみ](https://zh.wikipedia.org/wiki/折井あゆみ "wikilink")、[川崎希](../Page/川崎希.md "wikilink")、[小嶋阳菜](https://zh.wikipedia.org/wiki/小嶋阳菜 "wikilink")、[驹谷仁美](https://zh.wikipedia.org/wiki/驹谷仁美 "wikilink")、[佐藤由加理](../Page/佐藤由加理.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[高桥みなみ](https://zh.wikipedia.org/wiki/高桥みなみ "wikilink")、[户岛花](https://zh.wikipedia.org/wiki/户岛花 "wikilink")、[中西里菜](../Page/中西里菜.md "wikilink")、[成田梨纱](https://zh.wikipedia.org/wiki/成田梨纱 "wikilink")、[平嶋夏海](../Page/平嶋夏海.md "wikilink")、[星野みちる](https://zh.wikipedia.org/wiki/Michiru "wikilink")、[前田敦子](../Page/前田敦子.md "wikilink")、[增山加彌乃](https://zh.wikipedia.org/wiki/增山加彌乃 "wikilink")、[峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")、[渡邊志穗](https://zh.wikipedia.org/wiki/渡邊志穗 "wikilink")
+    Team A：[板野友美](../Page/板野友美.md "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")、[大江朝美](../Page/大江朝美.md "wikilink")、[大岛麻衣](https://zh.wikipedia.org/wiki/大岛麻衣 "wikilink")、[折井あゆみ](https://zh.wikipedia.org/wiki/折井あゆみ "wikilink")、[川崎希](../Page/川崎希.md "wikilink")、[小嶋阳菜](https://zh.wikipedia.org/wiki/小嶋阳菜 "wikilink")、[驹谷仁美](https://zh.wikipedia.org/wiki/驹谷仁美 "wikilink")、[佐藤由加理](../Page/佐藤由加理.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[高桥みなみ](https://zh.wikipedia.org/wiki/高桥みなみ "wikilink")、[户岛花](https://zh.wikipedia.org/wiki/户岛花 "wikilink")、[中西里菜](../Page/中西里菜.md "wikilink")、[成田梨纱](https://zh.wikipedia.org/wiki/成田梨纱 "wikilink")、[平嶋夏海](../Page/平嶋夏海.md "wikilink")、[星野みちる](https://zh.wikipedia.org/wiki/Michiru "wikilink")、[前田敦子](../Page/前田敦子.md "wikilink")、[增山加彌乃](https://zh.wikipedia.org/wiki/增山加彌乃 "wikilink")、[峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")、[渡邊志穗](https://zh.wikipedia.org/wiki/渡邊志穗 "wikilink")
 
 <!-- end list -->
 
@@ -321,8 +316,7 @@ A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../P
 
   - 公演期：2011年1月1日－2011年4月3日
   - 演出成員
-      - [NMB48](../Page/NMB48.md "wikilink")
-        1期生：[太田里織菜](../Page/太田里織菜.md "wikilink")、小笠原茉由、門脇佳奈子、岸野里香、木下春奈、近藤里奈、上西恵、白間美瑠、福本愛菜、松田栞、森彩華、[山口夕輝](../Page/山口夕輝.md "wikilink")、山田菜菜、山本彩（隊長）、吉田朱里、渡邊美優紀（以上16名為首日公演的成員、其後則跟其他成員交替出演）
+      - [NMB48](../Page/NMB48.md "wikilink") 1期生：[太田里織菜](../Page/太田里織菜.md "wikilink")、小笠原茉由、門脇佳奈子、岸野里香、木下春奈、近藤里奈、上西恵、白間美瑠、福本愛菜、松田栞、森彩華、[山口夕輝](../Page/山口夕輝.md "wikilink")、山田菜菜、山本彩（隊長）、吉田朱里、渡邊美優紀（以上16名為首日公演的成員、其後則跟其他成員交替出演）
 
 <!-- end list -->
 
@@ -340,8 +334,7 @@ A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../P
 
   - 公演期：2011年4月4日－2011年5月16日
   - 出演成員
-      - Team
-        N：[小笠原茉由](../Page/小笠原茉由.md "wikilink")、[門脇佳奈子](../Page/門脇佳奈子.md "wikilink")、岸野里香、[木下春奈](../Page/木下春奈.md "wikilink")、[小谷里步](https://zh.wikipedia.org/wiki/小谷里步 "wikilink")、[近藤里奈](../Page/近藤里奈.md "wikilink")、篠原栞那、[上西惠](../Page/上西惠.md "wikilink")、白間美瑠、[福本愛菜](../Page/福本愛菜.md "wikilink")、松田栞、森彩華、[山田菜菜](../Page/山田菜菜.md "wikilink")、[山本彩](../Page/山本彩.md "wikilink")（隊長）、吉田朱里、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")
+      - Team N：[小笠原茉由](../Page/小笠原茉由.md "wikilink")、[門脇佳奈子](../Page/門脇佳奈子.md "wikilink")、岸野里香、[木下春奈](../Page/木下春奈.md "wikilink")、[小谷里步](https://zh.wikipedia.org/wiki/小谷里步 "wikilink")、[近藤里奈](../Page/近藤里奈.md "wikilink")、篠原栞那、[上西惠](../Page/上西惠.md "wikilink")、白間美瑠、[福本愛菜](../Page/福本愛菜.md "wikilink")、松田栞、森彩華、[山田菜菜](../Page/山田菜菜.md "wikilink")、[山本彩](../Page/山本彩.md "wikilink")（隊長）、吉田朱里、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")
 
 <!-- end list -->
 
@@ -367,8 +360,7 @@ A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../P
         [市川美織](../Page/市川美織.md "wikilink")、小笠原茉由、門脇佳奈子、岸野里香、木下春奈、[古賀成美](https://zh.wikipedia.org/wiki/古賀成美 "wikilink")、小谷里歩、近藤里奈、篠原栞那、上西恵、白間美瑠、[西村愛華](https://zh.wikipedia.org/wiki/西村愛華 "wikilink")、[林萌萌香](https://zh.wikipedia.org/wiki/林萌萌香 "wikilink")、福本愛菜、松田栞、山口夕輝、山田菜菜、山本彩、[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")、吉田朱里、渡辺美優紀
           -
             松田在2012年10月28日畢業。
-            横山在2012年8月28日被宣布AKB48 Team K\[2\]和NMB48兼任，12月19日開始在Team
-            N活動。開始参加公演在12月19日。最后一次公演是在2013年5月20日。
+            横山在2012年8月28日被宣布AKB48 Team K\[2\]和NMB48兼任，12月19日開始在Team N活動。開始参加公演在12月19日。最后一次公演是在2013年5月20日。
             篠原在2013年4月12日畢業。
             山田菜菜移籍到了Team M、5月20日的“横山由依 送别会”是她最后一次出演这场公演。
             古賀成美、西村愛華在5月20日昇格进入Team N、从6月14日开始参加此场公演的演出。
@@ -391,19 +383,13 @@ A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../P
 
 ## JKT48 Team J 2nd Stage「為了誰」公演
 
-  - [印度尼西亚语的公演名称是](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")「Demi
-    Seseorang」
+  - [印度尼西亚语的公演名称是](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")「Demi Seseorang」
 
 <!-- end list -->
 
   - 公演时间：2014年1月18日\[3\] -
   - 演出成員
-      - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Delima Rizky、Devi
-        Kinal Putri、Frieska Anastasia Laksani、Ghaida Farisya、[Haruka
-        Nakagawa](../Page/仲川遥香.md "wikilink")、Jessica Vania、Jessica
-        Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu
-        Azalia、Rezky Wiranti Dhike、Sendy Ariani、Shania
-        Junianatha、Sonia Natalia,（以上16名為首日公演的成員、其後則跟其他成員交替出演）
+      - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Delima Rizky、Devi Kinal Putri、Frieska Anastasia Laksani、Ghaida Farisya、[Haruka Nakagawa](../Page/仲川遥香.md "wikilink")、Jessica Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rezky Wiranti Dhike、Sendy Ariani、Shania Junianatha、Sonia Natalia,（以上16名為首日公演的成員、其後則跟其他成員交替出演）
 
 <!-- end list -->
 
@@ -416,8 +402,7 @@ A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../P
   - 《海市蜃楼》：Haruka、Veranda
   - 《骑士》：Dhike、Ghaida、Delima、Frieska、Sendy
   - 《制服真碍事》：Melody、Nabilah、Haruka、Cindy、Veranda、Shania、Ayana、Kinal
-  - 「小池」雖然不是分組曲，但是這首歌中有Jessica
-    Veranda用[印度尼西亚语說的一段長台詞](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")。
+  - 「小池」雖然不是分組曲，但是這首歌中有Jessica Veranda用[印度尼西亚语說的一段長台詞](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")。
 
 ## 錄音室專輯CD
 
@@ -426,8 +411,7 @@ A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../P
 ### AKB48 Team A 3rd Stage「為了誰」
 
   - 收錄成員
-      - Team
-        A：板野友美、浦野一美、大江朝美、大島麻衣、折井あゆみ、川崎希、小嶋陽菜、駒谷仁美、佐藤由加理、篠田麻里子、高橋みなみ、戶島花、中西里菜、成田梨紗、平嶋夏海、星野みちる、前田敦子、增山加彌乃、峯岸みなみ、渡邊志穗
+      - Team A：板野友美、浦野一美、大江朝美、大島麻衣、折井あゆみ、川崎希、小嶋陽菜、駒谷仁美、佐藤由加理、篠田麻里子、高橋みなみ、戶島花、中西里菜、成田梨紗、平嶋夏海、星野みちる、前田敦子、增山加彌乃、峯岸みなみ、渡邊志穗
 
 <!-- end list -->
 
@@ -459,8 +443,7 @@ A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../P
 ### Team A 3rd Stage「为了谁」
 
   - 收錄成員
-      - Team
-        A：板野友美、浦野一美、大江朝美、大島麻衣、折井あゆみ、川崎希、小嶋陽菜、駒谷仁美、佐藤由加理、篠田麻里子、高橋みなみ、戶島花、中西里菜、成田梨紗、平嶋夏海、星野みちる、前田敦子、增山加彌乃、峯岸みなみ、渡邊志穗
+      - Team A：板野友美、浦野一美、大江朝美、大島麻衣、折井あゆみ、川崎希、小嶋陽菜、駒谷仁美、佐藤由加理、篠田麻里子、高橋みなみ、戶島花、中西里菜、成田梨紗、平嶋夏海、星野みちる、前田敦子、增山加彌乃、峯岸みなみ、渡邊志穗
 
 <!-- end list -->
 
@@ -515,15 +498,11 @@ A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../P
 
 ## 翻唱等
 
-  - 《制服真礙事》（[AKB48
-    2nd單曲](https://zh.wikipedia.org/wiki/制服真礙事 "wikilink")）
+  - 《制服真礙事》（[AKB48 2nd單曲](https://zh.wikipedia.org/wiki/制服真礙事 "wikilink")）
   - 《賣眼淚的少女》（[AKB48 3rd單曲](../Page/曾不屑一顧的愛情.md "wikilink")、C/W曲）
-  - 《生日夜》（[AKB48
-    1st專輯](../Page/SET_LIST～Greatest_Songs_2006-2007～.md "wikilink")）
-  - 《為了誰 〜What can I do for someone?〜》（[AKB48
-    配信限定慈善歌](../Page/為了誰_-What_can_I_do_for_someone?-.md "wikilink")）
-  - 《NMB48》（[NMB48
-    1st專輯](https://zh.wikipedia.org/wiki/尖端頂點之上！ "wikilink")）
+  - 《生日夜》（[AKB48 1st專輯](../Page/SET_LIST～Greatest_Songs_2006-2007～.md "wikilink")）
+  - 《為了誰 〜What can I do for someone?〜》（[AKB48 配信限定慈善歌](../Page/為了誰_-What_can_I_do_for_someone?-.md "wikilink")）
+  - 《NMB48》（[NMB48 1st專輯](https://zh.wikipedia.org/wiki/尖端頂點之上！ "wikilink")）
 
 ## 參考資料
 
@@ -533,14 +512,10 @@ A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../P
       - [專輯（唱片頁面）](http://www.sonymusic.co.jp/Music/Arch/DF/Akb48/DFCL-1353/)
       - [專輯（唱片頁面）](http://www.sonymusic.co.jp/Music/Arch/DF/Akb48/DFCL-1865/)
       - [公演DVD（唱片頁面）](http://www.sonymusic.co.jp/Music/Arch/DF/Akb48/DFBL-7098/)
-      - [Team A 3rd
-        Stage「為了誰」公演乐曲（AKB48官方網站）](http://www.akb48.co.jp/about/song/detail.php?team=1&stage=3)
-      - [AKB48黎明期を支えたファンの"夭逝"
-        NMB48が歌い継ぐ「ライダー」誕生秘話](http://www.cyzo.com/2010/12/post_6247.html)（[サイゾー](https://zh.wikipedia.org/wiki/サイゾー "wikilink")）
+      - [Team A 3rd Stage「為了誰」公演乐曲（AKB48官方網站）](http://www.akb48.co.jp/about/song/detail.php?team=1&stage=3)
+      - [AKB48黎明期を支えたファンの"夭逝" NMB48が歌い継ぐ「ライダー」誕生秘話](http://www.cyzo.com/2010/12/post_6247.html)（[サイゾー](https://zh.wikipedia.org/wiki/サイゾー "wikilink")）
 
-[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
-[Category:AKB48音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
+[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink") [Category:AKB48音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
 
 1.
 2.  2012年11月1日移籍到Team A。

@@ -1,6 +1,4 @@
-**ARM Cortex-A15 MPCore**是一个32位的处理器核心，由ARM国际科技许可，实现ARM
-v7-A体系结构。它是一个多核處理器，带有脫序的超標量（out-of-order
-superscalar）流水线，運行速度高達2.5GHz。
+**ARM Cortex-A15 MPCore**是一个32位的处理器核心，由ARM国际科技许可，实现ARM v7-A体系结构。它是一个多核處理器，带有脫序的超標量（out-of-order superscalar）流水线，運行速度高達2.5GHz。
 
 ## 特點
 
@@ -8,15 +6,11 @@ superscalar）流水线，運行速度高達2.5GHz。
   - 15-stage 管道（pipeline）
   - 4 cores 每叢集（cluster）
   - VFPv4 內建浮點單元（每個核心）
-  - [DSP](https://zh.wikipedia.org/wiki/DSP "wikilink") 與 NEON
-    [SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink") extensions
-    onboard (per core).
+  - [DSP](https://zh.wikipedia.org/wiki/DSP "wikilink") 與 NEON [SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink") extensions onboard (per core).
   - 硬件虛擬化支持
   - TrustZone 安全性延伸.
-  - [Jazelle](https://zh.wikipedia.org/wiki/Jazelle "wikilink") DBX 針對
-    Java execution 進行支援.
-  - [Jazelle RCT](https://zh.wikipedia.org/wiki/Jazelle_RCT "wikilink")
-    針對 JIT complilation
+  - [Jazelle](https://zh.wikipedia.org/wiki/Jazelle "wikilink") DBX 針對 Java execution 進行支援.
+  - [Jazelle RCT](https://zh.wikipedia.org/wiki/Jazelle_RCT "wikilink") 針對 JIT complilation
   - Program Trace Macrocell 與 CoreSight Design Kit
   - 32kB data + 32kB 指令 L1 快取（每核）
   - 整合低延遲 level-2 cache controller, 達到 4 MB（每叢集）
@@ -40,7 +34,6 @@ superscalar）流水线，運行速度高達2.5GHz。
 [Category:ARM架構](https://zh.wikipedia.org/wiki/Category:ARM架構 "wikilink")
 
 1.
-2.  [28nm implies cortex
-    a15](http://www.tomshardware.com/news/Tegra-Kal-El-Tegra-2-Snapdragon-ARM-CPU,12229.html)
+2.  [28nm implies cortex a15](http://www.tomshardware.com/news/Tegra-Kal-El-Tegra-2-Snapdragon-ARM-CPU,12229.html)
 3.
 4.

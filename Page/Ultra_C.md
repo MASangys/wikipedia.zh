@@ -1,17 +1,12 @@
-《**Ultra C**》（，*Ultra
-C*）是[東京事變的第八張](../Page/東京事變.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2010年8月27日與第七張DVD《[Spa
-&
-Treatment](../Page/Spa_&_Treatment.md "wikilink")》一同發售。值得一提的是本次演唱會首度的[藍光化](https://zh.wikipedia.org/wiki/藍光 "wikilink")，提供歌迷更棒的享受。DVD發行當週即賣出2.3萬張，總計銷售額3.8萬張，名列2010年年度銷售榜第48位。首次發行的藍光版本，總計銷售額為0.7萬張，名列2010年年度銷售榜第7位。
+《**Ultra C**》（，*Ultra C*）是[東京事變](../Page/東京事變.md "wikilink")的第八張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2010年8月27日與第七張DVD《[Spa & Treatment](../Page/Spa_&_Treatment.md "wikilink")》一同發售。值得一提的是本次演唱會首度的[藍光化](https://zh.wikipedia.org/wiki/藍光 "wikilink")，提供歌迷更棒的享受。DVD發行當週即賣出2.3萬張，總計銷售額3.8萬張，名列2010年年度銷售榜第48位。首次發行的藍光版本，總計銷售額為0.7萬張，名列2010年年度銷售榜第7位。
 
 ## 簡介
 
-此張DVD是收錄東京事變《東京事變 live tour 2010 Ultra
-C》巡迴演唱會的其中一站，於2010年5月12日在[東京國際論壇所舉行的](../Page/東京國際論壇.md "wikilink")，其演唱的歌曲及幕後花絮。
+此張DVD是收錄東京事變《東京事變 live tour 2010 Ultra C》巡迴演唱會的其中一站，於2010年5月12日在[東京國際論壇](../Page/東京國際論壇.md "wikilink")所舉行的，其演唱的歌曲及幕後花絮。
 
 2010年6月4日在官方網站上宣布演唱會DVD即將發售，並首次發行藍光版DVD\[1\]。08月9日「電波通信」、「絕體絕命」、「能動的三分間」、「最佳位置」四首歌提供歌迷觀看即下載的服務\[2\]，同一天也成立了DVD特設網站\[3\]。在日本08月25日發行DVD、09月8日發行藍光版，台灣則是等到08月27日才發行進口盤DVD\[4\]與台壓版DVD\[5\]，09月10日發行藍光的進口版\[6\]。
 
-值得賀喜的是東京事變睽違兩年的作品，不管是專輯《SPORTS》、其單曲《能動的三分間》、影音專輯及藍光專輯《Ultra
-C》皆在Oricon銷售榜上名列第一名，成為了名副其實的「四冠王」\[7\]。
+值得賀喜的是東京事變睽違兩年的作品，不管是專輯《SPORTS》、其單曲《能動的三分間》、影音專輯及藍光專輯《Ultra C》皆在Oricon銷售榜上名列第一名，成為了名副其實的「四冠王」\[7\]。
 
 ## 曲目
 
@@ -178,9 +173,7 @@ Ultra C</p></td>
 
 ## 演唱會簡介
 
-《東京事變 live tour 2010 Ultra
-C》為二期東京事變第三次日本巡迴演唱會，總共在十八個城市舉辦二十二場的演唱會，為東京事變歷年來跑最多地方，同時也是最多場的巡迴演唱會，場場皆吸引爆滿的觀眾前往感受東京事變的魅力。演唱會演唱的曲目以第四張專輯《SPORTS》為主。值得一提的是，如果到了東京事變團員的出生地（千葉、福岡、大阪、島根、岡山），便會有一段特別的演出，這些表演也會收入至DVD/BD中，像是椎名林檎便在兩場的福岡演唱會上演出「黃昏泣」和「Calling
-You」，千葉的浮雲則是表演「Release Me」，而大阪的龜田則是自彈自唱的彈奏著自己的創作曲「閃光少女」。
+《東京事變 live tour 2010 Ultra C》為二期東京事變第三次日本巡迴演唱會，總共在十八個城市舉辦二十二場的演唱會，為東京事變歷年來跑最多地方，同時也是最多場的巡迴演唱會，場場皆吸引爆滿的觀眾前往感受東京事變的魅力。演唱會演唱的曲目以第四張專輯《SPORTS》為主。值得一提的是，如果到了東京事變團員的出生地（千葉、福岡、大阪、島根、岡山），便會有一段特別的演出，這些表演也會收入至DVD/BD中，像是椎名林檎便在兩場的福岡演唱會上演出「黃昏泣」和「Calling You」，千葉的浮雲則是表演「Release Me」，而大阪的龜田則是自彈自唱的彈奏著自己的創作曲「閃光少女」。
 
 而日後接受專訪時提到，巡迴演唱會進入倒數階段時，甚至把講話時間給拿掉了，讓整場演唱會下來感覺十分緊密\[24\]。林檎表示會這樣做完全就是和團員、公司討論之後的結果，龜田則認為音樂密度很高是一件好事，但是他們也不想要讓觀眾聽的喘不過氣來，因此他們做了很多次修正\[25\]。龜田緊接著表示雖然這次巡迴演唱會完全燃燒90分鐘，然而日復一日下來，感覺卻越來越自在，甚至到現在還會不時閃過當時的記憶，像是觀眾、各地城市風景等，而這是他以前不曾有過的經驗，所以他相信這次巡迴演唱會帶給他的感動十分巨大\[26\]。
 
@@ -520,10 +513,8 @@ You」，千葉的浮雲則是表演「Release Me」，而大阪的龜田則是�
 <!-- end list -->
 
   - [RO69 5/11起＜LIVE REPORT＞](http://ro69.jp/live/detail/34480)\[27\]
-  - [excite 5/25起＜LIVE
-    REPORT＞](http://www.excite.co.jp/music/report/1005_tokyojihen)\[28\]
-  - [MSN 5/27起＜LIVE
-    REPORT＞](https://web.archive.org/web/20100607115607/http://music.jp.msn.com/events/report/article.aspx?articleid=293620)\[29\]
+  - [excite 5/25起＜LIVE REPORT＞](http://www.excite.co.jp/music/report/1005_tokyojihen)\[28\]
+  - [MSN 5/27起＜LIVE REPORT＞](https://web.archive.org/web/20100607115607/http://music.jp.msn.com/events/report/article.aspx?articleid=293620)\[29\]
 
 <!-- end list -->
 
@@ -548,8 +539,7 @@ You」，千葉的浮雲則是表演「Release Me」，而大阪的龜田則是�
 ## 外部連結
 
   - [《Ultra C》日本特設網站](http://emimusic.jp/tokyojihen/ultrac/)
-  - [《Ultra
-    C》台灣特設網站](https://web.archive.org/web/20110529015402/http://www.gold-typhoon.com.tw/pop/ultrac/)
+  - [《Ultra C》台灣特設網站](https://web.archive.org/web/20110529015402/http://www.gold-typhoon.com.tw/pop/ultrac/)
 
 ## 注釋
 
@@ -557,8 +547,7 @@ You」，千葉的浮雲則是表演「Release Me」，而大阪的龜田則是�
 
 ### 參考資料
 
-[Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink")
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
+[Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
 
 1.
 

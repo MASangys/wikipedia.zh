@@ -7,9 +7,7 @@
 ### 簡介
 
   -
-    **高機動交響曲
-    白之章～青森企鵝傳說～**是高機動交響曲三部曲第一作，於2006年1月12日發售。初回限定版包括設定資料集、遊戲DVD、OVA
-    CD、音樂CD以及部隊紋章金屬板盾飾等特典。
+    **高機動交響曲 白之章～青森企鵝傳說～**是高機動交響曲三部曲第一作，於2006年1月12日發售。初回限定版包括設定資料集、遊戲DVD、OVA CD、音樂CD以及部隊紋章金屬板盾飾等特典。
 
 <!-- end list -->
 
@@ -265,8 +263,7 @@
   - 青之章—《**抱きしめたその後で**》(擁抱此後)
     作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")　作曲：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")　編曲：飯塚昌明　歌：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
   - 動畫版OP—《Faze to love》
-    作詞：畑亞貴 作、編曲：[齋藤真也](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink")
-    歌：橋本美雪
+    作詞：畑亞貴 作、編曲：[齋藤真也](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink") 歌：橋本美雪
   - 動畫版ED—《ふたりが忘れない》(不忘記二人)
     作詞：畑亞貴 作、編曲：飯塚昌明 歌：美鄉秋
 
@@ -613,8 +610,7 @@
 ### 相關CD
 
   - PS2ゲーム「ガンパレード・オーケストラ」オリジナルサウンドトラック
-  - PS2ゲーム「ガンパレード・オーケストラ」主題歌集 —
-    [美郷あき](https://zh.wikipedia.org/wiki/美郷あき "wikilink")、[橋本みゆき](https://zh.wikipedia.org/wiki/橋本みゆき "wikilink")、[栗林みな実](https://zh.wikipedia.org/wiki/栗林みな実 "wikilink")
+  - PS2ゲーム「ガンパレード・オーケストラ」主題歌集 — [美郷あき](https://zh.wikipedia.org/wiki/美郷あき "wikilink")、[橋本みゆき](https://zh.wikipedia.org/wiki/橋本みゆき "wikilink")、[栗林みな実](https://zh.wikipedia.org/wiki/栗林みな実 "wikilink")
   - TVアニメ「ガンパレード・オーケストラ」OP主題歌 Faze to love — 橋本みゆき
   - TVアニメ「ガンパレード・オーケストラ」ED主題歌 ふたりが忘れない — 美郷あき
   - TVアニメ「ガンパレード・オーケストラ」オリジナルサウンドトラック Vol.1 ～ オーケストラ編 ～
@@ -657,8 +653,7 @@
 <!-- end list -->
 
   -
-    作者：[榊 涼介](https://zh.wikipedia.org/wiki/榊_涼介 "wikilink") 插畫：[きむら
-    じゅんこ](https://zh.wikipedia.org/wiki/きむら_じゅんこ "wikilink")
+    作者：[榊 涼介](https://zh.wikipedia.org/wiki/榊_涼介 "wikilink") 插畫：[きむら じゅんこ](https://zh.wikipedia.org/wiki/きむら_じゅんこ "wikilink")
     發售日：2006年6月 出版社：電撃文庫
 
 <!-- end list -->
@@ -721,13 +716,4 @@
 
   - [緯來綜合台《高機動交響曲GPO》官網](http://ontv.videoland.com.tw/channel/gpo/)
 
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:索尼互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂遊戲 "wikilink")
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:2005年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2005年日本電視動畫 "wikilink")
-[Category:緯來電視外購動畫](https://zh.wikipedia.org/wiki/Category:緯來電視外購動畫 "wikilink")
-[Category:青森縣背景作品](https://zh.wikipedia.org/wiki/Category:青森縣背景作品 "wikilink")
-[Category:廣島縣背景作品](https://zh.wikipedia.org/wiki/Category:廣島縣背景作品 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
+[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:索尼互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂遊戲 "wikilink") [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:2005年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2005年日本電視動畫 "wikilink") [Category:緯來電視外購動畫](https://zh.wikipedia.org/wiki/Category:緯來電視外購動畫 "wikilink") [Category:青森縣背景作品](https://zh.wikipedia.org/wiki/Category:青森縣背景作品 "wikilink") [Category:廣島縣背景作品](https://zh.wikipedia.org/wiki/Category:廣島縣背景作品 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")

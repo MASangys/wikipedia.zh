@@ -1,10 +1,8 @@
-是一款由日本遊戲公司[科樂美所開發與發行之橫向捲軸射擊遊戲](../Page/科樂美.md "wikilink")《[宇宙巡航艦系列](../Page/宇宙巡航艦系列.md "wikilink")》作品，於1989年12月11日在日本上市。
+是一款由日本遊戲公司[科樂美](../Page/科樂美.md "wikilink")所開發與發行之橫向捲軸射擊遊戲《[宇宙巡航艦系列](../Page/宇宙巡航艦系列.md "wikilink")》作品，於1989年12月11日在日本上市。
 
 ## 劇情
 
-存在於未知領域的Bacterion軍團又開始行動了。這次它發出了一種強大的「Dark
-Force」能量，吞噬了一個又一個行星。Gradius軍派出Vic
-Viper超時空戰機迎接Bacterion軍團的攻擊。
+存在於未知領域的Bacterion軍團又開始行動了。這次它發出了一種強大的「Dark Force」能量，吞噬了一個又一個行星。Gradius軍派出Vic Viper超時空戰機迎接Bacterion軍團的攻擊。
 
 ## 遊戲系統
 
@@ -362,7 +360,7 @@ Shipe Shoot</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><a href="../Page/泡沫.md" title="wikilink">泡沫地帶</a></p></td>
+<td><p><a href="../Page/泡沫.md" title="wikilink">泡沫</a>地帶</p></td>
 <td><p>泡泡眼（Bubble Eye）</p></td>
 <td><p>Aqua Illusion<br />
 Dark Force</p></td>
@@ -383,14 +381,14 @@ Dark Force</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p><a href="../Page/岩漿.md" title="wikilink">岩漿區域</a></p></td>
+<td><p><a href="../Page/岩漿.md" title="wikilink">岩漿</a>區域</p></td>
 <td><p>哥爾袞（Gorgon）</p></td>
 <td><p>Fire Scramble<br />
 Shipe Shoot</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p><a href="../Page/植物.md" title="wikilink">植物區域</a></p></td>
+<td><p><a href="../Page/植物.md" title="wikilink">植物</a>區域</p></td>
 <td><p>野草（Choking Weed）</p></td>
 <td><p>Cosmo Plant<br />
 Dark Force</p></td>
@@ -443,11 +441,9 @@ Last Struggle</p></td>
 
   - [SFC](../Page/超級任天堂.md "wikilink")
       - i-revo SFC移植版
-      - [Wii虛擬平臺SFC移植版](../Page/Wii.md "wikilink")
-  - [PlayStation 2](../Page/PlayStation_2.md "wikilink") - 宇宙巡航艦：復活的神話
-    (GRADIUS Deluxe Pack)
-  - [PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") -
-    GRADIUS Portable
+      - [Wii](../Page/Wii.md "wikilink")虛擬平臺SFC移植版
+  - [PlayStation 2](../Page/PlayStation_2.md "wikilink") - 宇宙巡航艦：復活的神話 (GRADIUS Deluxe Pack)
+  - [PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") - GRADIUS Portable
 
 ## 註記
 
@@ -459,13 +455,7 @@ Last Struggle</p></td>
 ## 外部連結
 
   - [GRADIUS Portable官方網站](http://www.konami.jp/gs/game/gra_psp/)(日文)
-  - [GRADIUS III
-    i-revo版官方網站](http://game.i-revo.jp/dl/search/displayDetail.do?productId=10076)
+  - [GRADIUS III i-revo版官方網站](http://game.i-revo.jp/dl/search/displayDetail.do?productId=10076)
   - [Wii虛擬平臺 GRADIUS III(日文](http://www.nintendo.co.jp/wii/vc/vc_gr3/)
 
-[Category:宇宙巡航艦系列電子遊戲](https://zh.wikipedia.org/wiki/Category:宇宙巡航艦系列電子遊戲 "wikilink")
-[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
-[Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:1989年电子游戏](https://zh.wikipedia.org/wiki/Category:1989年电子游戏 "wikilink")
+[Category:宇宙巡航艦系列電子遊戲](https://zh.wikipedia.org/wiki/Category:宇宙巡航艦系列電子遊戲 "wikilink") [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:1989年电子游戏](https://zh.wikipedia.org/wiki/Category:1989年电子游戏 "wikilink")

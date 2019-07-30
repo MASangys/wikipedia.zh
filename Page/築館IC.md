@@ -8,9 +8,8 @@
 
 ## 历史
 
-  - 1977年11月15日 -
-    [東北自動車道築館IC至](https://zh.wikipedia.org/wiki/東北自動車道 "wikilink")[古川IC開通](https://zh.wikipedia.org/wiki/古川IC "wikilink")，此IC同時啟用。
-  - 1978年12月2日 - 東北自動車道[一關IC至築館IC開通](../Page/一關IC.md "wikilink")。
+  - 1977年11月15日 - [東北自動車道築館IC至](https://zh.wikipedia.org/wiki/東北自動車道 "wikilink")[古川IC開通](https://zh.wikipedia.org/wiki/古川IC "wikilink")，此IC同時啟用。
+  - 1978年12月2日 - 東北自動車道[一關IC](../Page/一關IC.md "wikilink")至築館IC開通。
 
 ## IC周邊
 
@@ -33,11 +32,7 @@
 ## 鄰近設施
 
   - [東北自動車道](https://zh.wikipedia.org/wiki/東北自動車道 "wikilink")
-    (31)[古川IC](https://zh.wikipedia.org/wiki/古川IC "wikilink") -
-    (31-1)[長者原SA/SmartIC](https://zh.wikipedia.org/wiki/長者原SA "wikilink")
-    - (32)**築館IC** -
-    [志波姬PA](https://zh.wikipedia.org/wiki/志波姬PA "wikilink")
-    - (33)[若柳金成IC](https://zh.wikipedia.org/wiki/若柳金成IC "wikilink")
+    (31)[古川IC](https://zh.wikipedia.org/wiki/古川IC "wikilink") - (31-1)[長者原SA/SmartIC](https://zh.wikipedia.org/wiki/長者原SA "wikilink") - (32)**築館IC** - [志波姬PA](https://zh.wikipedia.org/wiki/志波姬PA "wikilink") - (33)[若柳金成IC](https://zh.wikipedia.org/wiki/若柳金成IC "wikilink")
 
 ## 相關項目
 
@@ -47,5 +42,4 @@
 
   - [東日本高速道路](http://www.e-nexco.co.jp/)
 
-[Category:日本交流道_Tsu](https://zh.wikipedia.org/wiki/Category:日本交流道_Tsu "wikilink")
-[Category:宮城縣交流道](https://zh.wikipedia.org/wiki/Category:宮城縣交流道 "wikilink")
+[Category:日本交流道_Tsu](https://zh.wikipedia.org/wiki/Category:日本交流道_Tsu "wikilink") [Category:宮城縣交流道](https://zh.wikipedia.org/wiki/Category:宮城縣交流道 "wikilink")

@@ -2,23 +2,11 @@
 
 ## 简介
 
-黒瀬与KOKOMI是LMINA Sound
-Art's(以同属于[LC:AZE](https://zh.wikipedia.org/wiki/LC:AZE "wikilink"))为契机而认识，而在演出结束后的同时2006年5月结成。组合名称是有「as
-+
-real」变体改写过来的。此外也和[伊斯兰教的天使](../Page/伊斯兰教.md "wikilink")「[Azrael](https://zh.wikipedia.org/wiki/Azrael "wikilink")」有关。
+黒瀬与KOKOMI是LMINA Sound Art's(以同属于[LC:AZE](https://zh.wikipedia.org/wiki/LC:AZE "wikilink"))为契机而认识，而在演出结束后的同时2006年5月结成。组合名称是有「as + real」变体改写过来的。此外也和[伊斯兰教](../Page/伊斯兰教.md "wikilink")的天使「[Azrael](https://zh.wikipedia.org/wiki/Azrael "wikilink")」有关。
 
-在[Comic
-Market](../Page/Comic_Market.md "wikilink")、[M3等等](../Page/M3.md "wikilink")[活动上发售独立制作的](https://zh.wikipedia.org/wiki/活动 "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，进行同人音乐的活动。2008年4月，以「Metamorphose」与[メジャー签约](https://zh.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")。独立制作的专辑只要委托大手同人商铺，现在也还可以获得到(除了母盘废弃的以外)。封面图画的1st〜6th由
-[シグヒロ](https://web.archive.org/web/20110824191855/http://www.hoshikuzusenpuu.net/)
-负责、7th和8th则是由 [石据カチル](http://www.kachiru.org/)
-担任。独立制作专辑「白い闇に沈む永遠の夜」、合辑「影縫い」「Endless
-Waltz」以及「夢の繭紡ぐ盲目の輪舞」的「Bonus
-track」作词则是[水川月依](https://zh.wikipedia.org/wiki/水川月依 "wikilink")；「碧い瞳の光は消えゆ」的「Tears
-Flora」作词则由[梨瑚一手担当](https://zh.wikipedia.org/wiki/梨瑚 "wikilink")。
+在[Comic Market](../Page/Comic_Market.md "wikilink")、[M3](../Page/M3.md "wikilink")等等[活动上发售独立制作的](https://zh.wikipedia.org/wiki/活动 "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，进行同人音乐的活动。2008年4月，以「Metamorphose」与[メジャー签约](https://zh.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")。独立制作的专辑只要委托大手同人商铺，现在也还可以获得到(除了母盘废弃的以外)。封面图画的1st〜6th由 [シグヒロ](https://web.archive.org/web/20110824191855/http://www.hoshikuzusenpuu.net/) 负责、7th和8th则是由 [石据カチル](http://www.kachiru.org/) 担任。独立制作专辑「白い闇に沈む永遠の夜」、合辑「影縫い」「Endless Waltz」以及「夢の繭紡ぐ盲目の輪舞」的「Bonus track」作词则是[水川月依](https://zh.wikipedia.org/wiki/水川月依 "wikilink")；「碧い瞳の光は消えゆ」的「Tears Flora」作词则由[梨瑚一手担当](https://zh.wikipedia.org/wiki/梨瑚 "wikilink")。
 
-2009年12月30日、在C77[Comic
-Market上发布的](../Page/Comic_Market.md "wikilink")「Devils
-lullaby」则因CD的形状特殊(齿轮状)，导致播放器无法正常播放，取出CD困难等非正常情况，而进行回收作业。1月17日以圆盘型CD再次发售。此外，期间官方网站提供送货上门更换齿轮状CD的服务。如今齿轮状CD已不流通，入手则非常困难。
+2009年12月30日、在C77[Comic Market上发布的](../Page/Comic_Market.md "wikilink")「Devils lullaby」则因CD的形状特殊(齿轮状)，导致播放器无法正常播放，取出CD困难等非正常情况，而进行回收作业。1月17日以圆盘型CD再次发售。此外，期间官方网站提供送货上门更换齿轮状CD的服务。如今齿轮状CD已不流通，入手则非常困难。
 
 ## 成员
 
@@ -376,15 +364,11 @@ lullaby」则因CD的形状特殊(齿轮状)，导致播放器无法正常播放
 #### 合辑
 
   - 影縫い(CD『Cinderella of magic』 - 母盘废弃)
-  - Endless Waltz(CD『POLYCHROMA』 - 母盘废弃)(CD『POLYCHROMA re-distribution』
-    -
-    于[虎之穴](https://zh.wikipedia.org/wiki/虎之穴 "wikilink")·[あきばお〜发售](https://zh.wikipedia.org/wiki/あきばお〜 "wikilink"))
+  - Endless Waltz(CD『POLYCHROMA』 - 母盘废弃)(CD『POLYCHROMA re-distribution』 - 于[虎之穴](https://zh.wikipedia.org/wiki/虎之穴 "wikilink")·[あきばお〜发售](https://zh.wikipedia.org/wiki/あきばお〜 "wikilink"))
   - Aeon(CD『-LEIRION-』 - 母盘废弃)
   - 黒き粉雪の記憶(CD『Winter Mix vol.5』(重新收录于CD『ALL SEASON MIX BEST』) - 于虎之穴发售)
-  - 蒼月を巡る旋律(CD『Festa\!』 -
-    [メロンブックス](https://zh.wikipedia.org/wiki/メロンブックス "wikilink")·[アニメイト](https://zh.wikipedia.org/wiki/アニメイト "wikilink")·[ゲーマーズ](https://zh.wikipedia.org/wiki/ゲーマーズ "wikilink")·あきばお·ー[メッセサンオー](https://zh.wikipedia.org/wiki/メッセサンオー "wikilink")·[Amazon.co.jp发售](https://zh.wikipedia.org/wiki/Amazon.co.jp "wikilink"))
-  - 淡い風に抱かれて(CD『空想RPG！』 -
-    于虎之穴·メロンブックス·アニメイト·ゲーマーズ·あきばおー·メッセサンオー·Amazon.co.jp发售)
+  - 蒼月を巡る旋律(CD『Festa\!』 - [メロンブックス](https://zh.wikipedia.org/wiki/メロンブックス "wikilink")·[アニメイト](https://zh.wikipedia.org/wiki/アニメイト "wikilink")·[ゲーマーズ](https://zh.wikipedia.org/wiki/ゲーマーズ "wikilink")·あきばお·ー[メッセサンオー](https://zh.wikipedia.org/wiki/メッセサンオー "wikilink")·[Amazon.co.jp发售](https://zh.wikipedia.org/wiki/Amazon.co.jp "wikilink"))
+  - 淡い風に抱かれて(CD『空想RPG！』 - 于虎之穴·メロンブックス·アニメイト·ゲーマーズ·あきばおー·メッセサンオー·Amazon.co.jp发售)
   - 猩紅のMirage(CD『ALL SEASON MIX BEST』 - 于虎之穴发售)
   - 翡翠のMoment(CD『SUMMER VACATION』 - 于メロンブックス发售)
 
@@ -531,7 +515,7 @@ lullaby」则因CD的形状特殊(齿轮状)，导致播放器无法正常播放
 </ol>
 </div>
 </div></td>
-<td><p><a href="../Page/5pb..md" title="wikilink">5pb.Records</a></p></td>
+<td><p><a href="../Page/5pb..md" title="wikilink">5pb.</a>Records</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年5月26日</p></td>
@@ -592,7 +576,7 @@ lullaby」则因CD的形状特殊(齿轮状)，导致播放器无法正常播放
 </ol>
 </div>
 </div></td>
-<td><p><a href="../Page/5pb..md" title="wikilink">5pb.Records</a></p></td>
+<td><p><a href="../Page/5pb..md" title="wikilink">5pb.</a>Records</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年5月25日</p></td>
@@ -612,7 +596,7 @@ lullaby」则因CD的形状特殊(齿轮状)，导致播放器无法正常播放
 </ol>
 </div>
 </div></td>
-<td><p><a href="../Page/5pb..md" title="wikilink">5pb.Records</a></p></td>
+<td><p><a href="../Page/5pb..md" title="wikilink">5pb.</a>Records</p></td>
 </tr>
 </tbody>
 </table>
@@ -623,13 +607,8 @@ lullaby」则因CD的形状特殊(齿轮状)，导致播放器无法正常播放
 
 ## 外部链接
 
-  - [Asriel
-    官方网站](https://web.archive.org/web/20130906162244/http://asriel.jp/)
+  - [Asriel 官方网站](https://web.archive.org/web/20130906162244/http://asriel.jp/)
   - [官方网志](http://ameblo.jp/asriel-blog/)
   - [muzie内アーティストページ](https://web.archive.org/web/20080613130125/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a044824)
 
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
-[Category:同人音乐](https://zh.wikipedia.org/wiki/Category:同人音乐 "wikilink")
-[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:同人音乐](https://zh.wikipedia.org/wiki/Category:同人音乐 "wikilink") [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")

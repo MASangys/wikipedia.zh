@@ -17,9 +17,7 @@
 
   - [國立避難所（SDwing的-{zh-cn:博客;zh-tw:部落格}-）](http://blog.yam.com/sdwing)
 
-[Category:臺灣插畫家](https://zh.wikipedia.org/wiki/Category:臺灣插畫家 "wikilink")
-[Category:臺灣漫畫家](https://zh.wikipedia.org/wiki/Category:臺灣漫畫家 "wikilink")
+[Category:臺灣插畫家](https://zh.wikipedia.org/wiki/Category:臺灣插畫家 "wikilink") [Category:臺灣漫畫家](https://zh.wikipedia.org/wiki/Category:臺灣漫畫家 "wikilink")
 
 1.  [數學少女-青文網路書店](http://www.ching-win.com.tw/?sinfo=detail&b_unit=2669)
-
 2.  [國立避難所 - 個人簡介 - yam天空部落](http://blog.yam.com/sdwing&act=profile)

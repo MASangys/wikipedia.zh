@@ -1,16 +1,6 @@
-**I See
-Stars**是一個於2006年在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[密西根州](https://zh.wikipedia.org/wiki/密西根州 "wikilink")[沃倫成立的](https://zh.wikipedia.org/wiki/沃倫_\(密西根州\) "wikilink")[後硬核](../Page/後硬核.md "wikilink")/[金屬蕊樂團](../Page/金屬蕊.md "wikilink")。他們被認為是[電子蕊](../Page/電子蕊.md "wikilink")（[Electronicore](../Page/電子蕊.md "wikilink")）的先鋒之一。\[1\]\[2\]首張專輯《3-D》找來嘻哈樂團的Bizzy
-Bone客串演唱，\[3\]該專輯獲得了[告示牌200第](https://zh.wikipedia.org/wiki/告示牌 "wikilink")176名。而後於2011年二月份的第二張專輯《The
-End of the World Party》，2012年三月份發行第三張專輯《Digital Renegade》。《Digital
-Renegade》展現出他們風格的改變，比起先前的專輯，顯得更加激進。\[4\]
+**I See Stars**是一個於2006年在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[密西根州](https://zh.wikipedia.org/wiki/密西根州 "wikilink")[沃倫成立的](https://zh.wikipedia.org/wiki/沃倫_\(密西根州\) "wikilink")[後硬核](../Page/後硬核.md "wikilink")/[金屬蕊](../Page/金屬蕊.md "wikilink")樂團。他們被認為是[電子蕊](../Page/電子蕊.md "wikilink")（[Electronicore](../Page/電子蕊.md "wikilink")）的先鋒之一。\[1\]\[2\]首張專輯《3-D》找來嘻哈樂團的Bizzy Bone客串演唱，\[3\]該專輯獲得了[告示牌200第](https://zh.wikipedia.org/wiki/告示牌 "wikilink")176名。而後於2011年二月份的第二張專輯《The End of the World Party》，2012年三月份發行第三張專輯《Digital Renegade》。《Digital Renegade》展現出他們風格的改變，比起先前的專輯，顯得更加激進。\[4\]
 
-此外，樂團為[Fearless唱片所發行的合輯](../Page/Fearless唱片.md "wikilink")《Punk Goes
-Classic Rock》、《Punk Goes Pop 4》分別翻唱了80年代樂團The Outfield的知名作品《Your
-Love》與[布蘭妮·斯皮爾斯](../Page/布蘭妮·斯皮爾斯.md "wikilink")（[Britney
-Spears](../Page/布蘭妮·斯皮爾斯.md "wikilink")）的《Till The World Ends
-舞到世界盡頭》。出自專輯《3-D》的歌曲《Comfortably
-Confused》更成為音樂電玩遊戲《Power Gig: Rise of the
-SixString》的一首遊戲樂曲。\[5\]
+此外，樂團為[Fearless唱片](../Page/Fearless唱片.md "wikilink")所發行的合輯《Punk Goes Classic Rock》、《Punk Goes Pop 4》分別翻唱了80年代樂團The Outfield的知名作品《Your Love》與[布蘭妮·斯皮爾斯](../Page/布蘭妮·斯皮爾斯.md "wikilink")（[Britney Spears](../Page/布蘭妮·斯皮爾斯.md "wikilink")）的《Till The World Ends 舞到世界盡頭》。出自專輯《3-D》的歌曲《Comfortably Confused》更成為音樂電玩遊戲《Power Gig: Rise of the SixString》的一首遊戲樂曲。\[5\]
 
 ## 樂團成員
 
@@ -19,18 +9,11 @@ SixString》的一首遊戲樂曲。\[5\]
 <!-- end list -->
 
   - Brent Allen – [吉他](../Page/吉他.md "wikilink") <small>(自2006)</small>
-  - Jimmy Gregerson – [節奏吉他](../Page/吉他.md "wikilink")
-    <small>(自2006)</small>
-  - Zach Johnson –
-    [吼腔](https://zh.wikipedia.org/wiki/吼腔 "wikilink")、[混音](../Page/混音.md "wikilink")、[電子琴](../Page/電子琴.md "wikilink")、程式
-    <small>(2006–2009; 自2010)</small>
-  - Andrew Oliver –
-    [鼓](../Page/鼓.md "wikilink")、[和聲](https://zh.wikipedia.org/wiki/和聲 "wikilink")
-    <small>(自2006)</small>
-  - Devin Oliver – [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")
-    <small>(自2006)</small>
-  - Jeff Valentine – [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
-    <small>(自2006)</small>
+  - Jimmy Gregerson – [節奏吉他](../Page/吉他.md "wikilink") <small>(自2006)</small>
+  - Zach Johnson – [吼腔](https://zh.wikipedia.org/wiki/吼腔 "wikilink")、[混音](../Page/混音.md "wikilink")、[電子琴](../Page/電子琴.md "wikilink")、程式 <small>(2006–2009; 自2010)</small>
+  - Andrew Oliver – [鼓](../Page/鼓.md "wikilink")、[和聲](https://zh.wikipedia.org/wiki/和聲 "wikilink") <small>(自2006)</small>
+  - Devin Oliver – [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink") <small>(自2006)</small>
+  - Jeff Valentine – [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink") <small>(自2006)</small>
 
 <!-- end list -->
 
@@ -56,9 +39,7 @@ SixString》的一首遊戲樂曲。\[5\]
 
 <!-- end list -->
 
-  - *[Renegades
-    Forever](https://zh.wikipedia.org/wiki/Renegades_Forever "wikilink")*
-    (Sumerian Records, 2013)
+  - *[Renegades Forever](https://zh.wikipedia.org/wiki/Renegades_Forever "wikilink")* (Sumerian Records, 2013)
 
 <!-- end list -->
 
@@ -104,20 +85,11 @@ SixString》的一首遊戲樂曲。\[5\]
   -
   -
   -
-[Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink")
-[Category:美國重金屬樂團](https://zh.wikipedia.org/wiki/Category:美國重金屬樂團 "wikilink")
-[Category:重金屬樂團](https://zh.wikipedia.org/wiki/Category:重金屬樂團 "wikilink")
-[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
-[Category:後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:後硬蕊樂團 "wikilink")
-[Category:美國後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:美國後硬蕊樂團 "wikilink")
+[Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink") [Category:美國重金屬樂團](https://zh.wikipedia.org/wiki/Category:美國重金屬樂團 "wikilink") [Category:重金屬樂團](https://zh.wikipedia.org/wiki/Category:重金屬樂團 "wikilink") [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink") [Category:後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:後硬蕊樂團 "wikilink") [Category:美國後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:美國後硬蕊樂團 "wikilink")
 
 1.
 2.
-3.  "I See Stars". *[Alternative
-    Press](../Page/Alternative_Press.md "wikilink")* \#254 (September
-    2009), p. 48.
+3.  "I See Stars". *[Alternative Press](../Page/Alternative_Press.md "wikilink")* \#254 (September 2009), p. 48.
 4.
 5.
-6.  [I See Stars recently shot "The End of the World Party" music
-    video](http://grafwall.indiestar.tv/2011/01/iseestarsmusic-recently-shot-end-of.html)
-     – indiestar.tv
+6.  [I See Stars recently shot "The End of the World Party" music video](http://grafwall.indiestar.tv/2011/01/iseestarsmusic-recently-shot-end-of.html)  – indiestar.tv

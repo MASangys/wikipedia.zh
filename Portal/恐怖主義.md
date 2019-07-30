@@ -8,8 +8,7 @@ __NOTOC__
 
 <div style="text-align: center;">
 
-[Fairytale_key_enter-2.png](https://zh.wikipedia.org/wiki/File:Fairytale_key_enter-2.png "fig:Fairytale_key_enter-2.png")<span class="plainlinks noarchive">\[
-刷新頁面\]<span>
+[Fairytale_key_enter-2.png](https://zh.wikipedia.org/wiki/File:Fairytale_key_enter-2.png "fig:Fairytale_key_enter-2.png")<span class="plainlinks noarchive">\[ 刷新頁面\]<span>
 
 </div>
 

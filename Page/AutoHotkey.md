@@ -1,11 +1,6 @@
-**AutoHotkey**是面向普通电脑用户的[自由](../Page/自由软件.md "wikilink")[开源的](../Page/开源软件.md "wikilink")[自动化](https://zh.wikipedia.org/wiki/自动化 "wikilink")[软件工具](../Page/软件.md "wikilink")，它让用户能够快捷或自动执行重复性任务\[1\]。为了保持AutoHotkey自由开放、持续开发，2014年4月成立了AutoHotkey
-Foundation以提供组织、法务和财政上的支持。\[2\]
+**AutoHotkey**是面向普通电脑用户的[自由](../Page/自由软件.md "wikilink")[开源的](../Page/开源软件.md "wikilink")[自动化](https://zh.wikipedia.org/wiki/自动化 "wikilink")[软件](../Page/软件.md "wikilink")工具，它让用户能够快捷或自动执行重复性任务\[1\]。为了保持AutoHotkey自由开放、持续开发，2014年4月成立了AutoHotkey Foundation以提供组织、法务和财政上的支持。\[2\]
 
-与同类工具比较，AutoHotkey体积小巧、语法简明使其易学易用，同时在热键、热字串实现的快捷、高效（同时也强大，这点其他语言也能做到）方面没有其他语言能超越，不过缺点同样明显，即没有官方自带或第三方实现的完善的标准库\[3\]，这样需要实现未内置的功能时通常需要直接调用Windows
-API或寻找别人封装好的函数（注：命令行命令或COM等与Windows
-API在功能全面性上相差太远）。换句话说，普通人极容易使用，但熟悉后要提升複雜性以实现更强大的功能时則困难重重，这点从大量用户选择该语言入手而后一些需求较高的用户则转向其他语言容易看的出来。例如，Folder
-Menu
-v2及之前的版本使用AutoHotkey，v3时换为[AutoIt](../Page/AutoIt.md "wikilink")。\[4\]
+与同类工具比较，AutoHotkey体积小巧、语法简明使其易学易用，同时在热键、热字串实现的快捷、高效（同时也强大，这点其他语言也能做到）方面没有其他语言能超越，不过缺点同样明显，即没有官方自带或第三方实现的完善的标准库\[3\]，这样需要实现未内置的功能时通常需要直接调用Windows API或寻找别人封装好的函数（注：命令行命令或COM等与Windows API在功能全面性上相差太远）。换句话说，普通人极容易使用，但熟悉后要提升複雜性以实现更强大的功能时則困难重重，这点从大量用户选择该语言入手而后一些需求较高的用户则转向其他语言容易看的出来。例如，Folder Menu v2及之前的版本使用AutoHotkey，v3时换为[AutoIt](../Page/AutoIt.md "wikilink")。\[4\]
 
 ## 功能与定位
 
@@ -29,8 +24,7 @@ LWin::return
 Return
 ```
 
-运行这个脚本后，只需把要搜索的内容[复制到](https://zh.wikipedia.org/wiki/复制 "wikilink")[剪贴板](../Page/剪贴板.md "wikilink")，然后使用热键就可以打开默认[网页浏览器并自动通过](../Page/网页浏览器.md "wikilink")[Google开始搜索](../Page/Google.md "wikilink")。
-AutoHotkey中不仅支持把单键、组合键设为热键，同时还支持将鼠标和游戏杆按钮设为热键，例如：\[5\]
+运行这个脚本后，只需把要搜索的内容[复制到](https://zh.wikipedia.org/wiki/复制 "wikilink")[剪贴板](../Page/剪贴板.md "wikilink")，然后使用热键就可以打开默认[网页浏览器](../Page/网页浏览器.md "wikilink")并自动通过[Google](../Page/Google.md "wikilink")开始搜索。 AutoHotkey中不仅支持把单键、组合键设为热键，同时还支持将鼠标和游戏杆按钮设为热键，例如：\[5\]
 
 ``` autohotkey
 #If MouseIsOver("ahk_class Shell_TrayWnd")
@@ -49,7 +43,7 @@ AutoHotkey中热键的功能非常强大，支持几乎所有按键和按钮、�
 
 #### 热字串
 
-热字串（有时也被称为“序列键”，类似[Vim一些模式中的操作键](../Page/Vim.md "wikilink")）是指按顺序键入一些字符后触发对应操作的一种方式。它的典型应用是扩展缩写：
+热字串（有时也被称为“序列键”，类似[Vim](../Page/Vim.md "wikilink")一些模式中的操作键）是指按顺序键入一些字符后触发对应操作的一种方式。它的典型应用是扩展缩写：
 
 ``` autohotkey
 ::wjbk::维基百科，自由的百科全书
@@ -77,9 +71,9 @@ AutoHotkey能快速实现的常见功能包括：
   - 发送键击及鼠标和操纵杆的点击几乎可自动化所有操作；
   - 启动程序或文档，操作与控制其他程序的窗口；
   - 处理字符串，支持[正则表达式](../Page/正则表达式.md "wikilink")；
-  - 操作文件和文件夹、[注册表和INI文件](../Page/注册表.md "wikilink")；
+  - 操作文件和文件夹、[注册表](../Page/注册表.md "wikilink")和INI文件；
   - 设置静音，调节音量和声卡的其他设置；
-  - 创建自定义[图形用户界面程序](../Page/图形用户界面.md "wikilink")，从用户或文件中获取输入；
+  - 创建自定义[图形用户界面](../Page/图形用户界面.md "wikilink")程序，从用户或文件中获取输入；
   - 监视系统，当某些状态改变时自动响应；
   - 通过检测图像和像素颜色来自动操作游戏，以减缓[肢体重复性劳损](https://zh.wikipedia.org/wiki/重複使力傷害 "wikilink")；
 
@@ -106,28 +100,21 @@ AutoHotkey_L指主要由Lexikos在AutoHotkey Basic基础上开发的分支，主
 
 ### AutoHotkey v2
 
-AutoHotkey
-v2\[11\]由Lexikos基于AutoHotkey_L代码开发，主要进行语法改进和功能整合。目前仍在测试过程中，语法、功能尚不稳定（与AutoHotkey_L差异较大\[12\]），欢迎用户参与测试协助完善\[13\]，尚不推荐作为日常使用。
+AutoHotkey v2\[11\]由Lexikos基于AutoHotkey_L代码开发，主要进行语法改进和功能整合。目前仍在测试过程中，语法、功能尚不稳定（与AutoHotkey_L差异较大\[12\]），欢迎用户参与测试协助完善\[13\]，尚不推荐作为日常使用。
 
 ### AutoHotkey_H
 
-AutoHotkey_H\[14\]是由HotkeyIt合并了原有AutoHotkey.dll并在AutoHotkey_L（及AutoHotkey
-v2）基础上开发的增强分支。它没有使用自己的版本号，一般与AutoHotkey_L（及AutoHotkey
-v2）并行开发。这个名称实际上包含了基于[AutoHotkey_L和](https://zh.wikipedia.org/wiki/#AutoHotkey_L "wikilink")[AutoHotkey
-v2两种分支扩展后的AutoHotkey](https://zh.wikipedia.org/wiki/#AutoHotkey_v2 "wikilink").exe（H版本）和AutoHotkey.dll及相关文件，功能有所增强，有经验的老用户可考虑使用。
+AutoHotkey_H\[14\]是由HotkeyIt合并了原有AutoHotkey.dll并在AutoHotkey_L（及AutoHotkey v2）基础上开发的增强分支。它没有使用自己的版本号，一般与AutoHotkey_L（及AutoHotkey v2）并行开发。这个名称实际上包含了基于[AutoHotkey_L和](https://zh.wikipedia.org/wiki/#AutoHotkey_L "wikilink")[AutoHotkey v2两种分支扩展后的AutoHotkey](https://zh.wikipedia.org/wiki/#AutoHotkey_v2 "wikilink").exe（H版本）和AutoHotkey.dll及相关文件，功能有所增强，有经验的老用户可考虑使用。
 
 ## 其他内容
 
 ### 辅助工具
 
-目前AutoHotkey的安装包中自带了英文帮助、ahk2exe（脚本编译器，即用于把脚本转换成可执行文件）、Window
-Spy（获取窗口和控件的信息），此外还有许多方便编写、提升效率的辅助工具：
+目前AutoHotkey的安装包中自带了英文帮助、ahk2exe（脚本编译器，即用于把脚本转换成可执行文件）、Window Spy（获取窗口和控件的信息），此外还有许多方便编写、提升效率的辅助工具：
 
   - 中文帮助\[15\]：英文帮助的中文翻译，目前能及时更新。
-  - [SciTE4AutoHotkey](https://zh.wikipedia.org/wiki/SciTE4AutoHotkey "wikilink")：基于[SciTE的AutoHotkey脚本编辑器](../Page/SciTE.md "wikilink")，包括语法高亮、自动补全、智能提示及其他专用于AutoHotkey的增强支持和辅助工具，推荐新手使用。目前与AutoHotkey_L和AutoHotkey
-    v2保持一致更新。
-  - GUI
-    Creator\[16\]：在图形界面中为AutoHotkey脚本创建GUI的工具，极大降低了图形用户界面命令的学习成本和创建难度。
+  - [SciTE4AutoHotkey](https://zh.wikipedia.org/wiki/SciTE4AutoHotkey "wikilink")：基于[SciTE](../Page/SciTE.md "wikilink")的AutoHotkey脚本编辑器，包括语法高亮、自动补全、智能提示及其他专用于AutoHotkey的增强支持和辅助工具，推荐新手使用。目前与AutoHotkey_L和AutoHotkey v2保持一致更新。
+  - GUI Creator\[16\]：在图形界面中为AutoHotkey脚本创建GUI的工具，极大降低了图形用户界面命令的学习成本和创建难度。
   - Pulover's Macro Creator\[17\]：圖形化宏录制和自动脚本輔助工具，可極大的降低學習成本。
   - iWB2 Learner\[18\]：从IE中获取网页元素信息的工具，在编写通过COM自动化操作IE的方便辅助。
 
@@ -137,8 +124,7 @@ Spy（获取窗口和控件的信息），此外还有许多方便编写、提�
 
   - 屏幕密码锁\[19\]：屏幕密码锁软件，可以方便地锁住鼠标和屏幕。
   - AHK脚本管理器\[20\]：用于管理（包括启动、关闭、重载和编辑等操作）AutoHotkey脚本的工具。
-  - Folder
-    Menu\[21\]：在常用位置（我的电脑、打开/保存对话框、[命令提示符](https://zh.wikipedia.org/wiki/命令提示符 "wikilink")、[TC等](../Page/Total_Commander.md "wikilink")）快速切换文件夹的工具<sup>注：后来的版本改用[AutoIt编写](../Page/AutoIt.md "wikilink")</sup>。
+  - Folder Menu\[21\]：在常用位置（我的电脑、打开/保存对话框、[命令提示符](https://zh.wikipedia.org/wiki/命令提示符 "wikilink")、[TC等](../Page/Total_Commander.md "wikilink")）快速切换文件夹的工具<sup>注：后来的版本改用[AutoIt](../Page/AutoIt.md "wikilink")编写</sup>。
   - HK4WIN\[22\]：针对Windows系统的快捷键增强软件。
   - VimDesktop\[23\]：让Windows桌面程序拥有Vim操作风格的辅助工具。
   - LINK\[24\]：用于管理、收藏、重命名各种快捷方式，以便你记忆并通过热字符快速启动程序。
@@ -149,12 +135,9 @@ Spy（获取窗口和控件的信息），此外还有许多方便编写、提�
 
 ### 官方网站说明
 
-AutoHotkey
-Basic时期，官方网站为[www.autohotkey.com](http://www.autohotkey.com)。当Chris
-Mallett（原作者）停止更新时宣布AutoHotkey_L为后续主分支。\[30\]不久网站转由polyethene管理，他对网站的决定与论坛中许多核心用户出现较大分歧\[31\]\[32\]且不时失去联系\[33\]，于是这些用户建立了ahkscripts.org作为AutoHotkey_L的支持网站\[34\]，并成立了公司确保其正常运营。\[35\]
+AutoHotkey Basic时期，官方网站为[www.autohotkey.com](http://www.autohotkey.com)。当Chris Mallett（原作者）停止更新时宣布AutoHotkey_L为后续主分支。\[30\]不久网站转由polyethene管理，他对网站的决定与论坛中许多核心用户出现较大分歧\[31\]\[32\]且不时失去联系\[33\]，于是这些用户建立了ahkscripts.org作为AutoHotkey_L的支持网站\[34\]，并成立了公司确保其正常运营。\[35\]
 
-目前原官网的下载链接提供的仍为AutoHotkey
-Basic，已无法满足当前用户需求，所有用户都应到新官网中下载AutoHotkey_L。因此，在软件信息和外部链接中均不再提供原官网，以免误导新用户。
+目前原官网的下载链接提供的仍为AutoHotkey Basic，已无法满足当前用户需求，所有用户都应到新官网中下载AutoHotkey_L。因此，在软件信息和外部链接中均不再提供原官网，以免误导新用户。
 
 ### 名称的大小写
 
@@ -164,14 +147,9 @@ Basic，已无法满足当前用户需求，所有用户都应到新官网中下
 
 ### 开发历史
 
-Chris Mallett提议在[AutoIt](../Page/AutoIt.md "wikilink")
-v2中集成[热键支持未得到AutoIt社区响应](https://zh.wikipedia.org/wiki/热键 "wikilink")\[36\]\[37\]后，于2003年11月10日公开发布了AutoHotkey的首个[测试版本](https://zh.wikipedia.org/wiki/軟件出版週期 "wikilink")。\[38\]作者以AutoIt
-v2的语法为基础并在一些命令和编译器中使用AutoIt v3的源码开始编写自己的程序。\[39\]随后，AutoIt
-v3的许可从[GPL切换为](https://zh.wikipedia.org/wiki/GPL "wikilink")[闭源](../Page/专有软件.md "wikilink")，原因是“某些项目重复窃取AutoIt的代码”和“建立了竞争者”。\[40\]
+Chris Mallett提议在[AutoIt](../Page/AutoIt.md "wikilink") v2中集成[热键支持未得到AutoIt社区响应](https://zh.wikipedia.org/wiki/热键 "wikilink")\[36\]\[37\]后，于2003年11月10日公开发布了AutoHotkey的首个[测试版本](https://zh.wikipedia.org/wiki/軟件出版週期 "wikilink")。\[38\]作者以AutoIt v2的语法为基础并在一些命令和编译器中使用AutoIt v3的源码开始编写自己的程序。\[39\]随后，AutoIt v3的许可从[GPL切换为](https://zh.wikipedia.org/wiki/GPL "wikilink")[闭源](../Page/专有软件.md "wikilink")，原因是“某些项目重复窃取AutoIt的代码”和“建立了竞争者”。\[40\]
 
-2010年10月10日，原作者在停止更新一年多后表示“失去了兴趣”并声明AutoHotkey_L为正在开发的分支，并把它放置在网页的下载部分的前面。\[41\]同时把原来的版本称为AutoHotkey
-Basic。\[42\]比起AutoHotkey
-Basic，AutoHotkey_L中增加了[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")、[COM](../Page/组件对象模型.md "wikilink")、[对象](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")、[调试特性和其他功能](https://zh.wikipedia.org/wiki/调试 "wikilink")。\[43\]
+2010年10月10日，原作者在停止更新一年多后表示“失去了兴趣”并声明AutoHotkey_L为正在开发的分支，并把它放置在网页的下载部分的前面。\[41\]同时把原来的版本称为AutoHotkey Basic。\[42\]比起AutoHotkey Basic，AutoHotkey_L中增加了[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")、[COM](../Page/组件对象模型.md "wikilink")、[对象](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")、[调试特性和其他功能](https://zh.wikipedia.org/wiki/调试 "wikilink")。\[43\]
 
 ## 另请参阅
 
@@ -190,11 +168,7 @@ Basic，AutoHotkey_L中增加了[Unicode](https://zh.wikipedia.org/wiki/Unicode 
 
   - [AutoHotkey学习指南](http://ahkscript.org/boards/viewtopic.php?f=29&t=1099)
 
-[Category:自动化软件](https://zh.wikipedia.org/wiki/Category:自动化软件 "wikilink")
-[Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink")
-[Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")
-[Category:GUI自动化](https://zh.wikipedia.org/wiki/Category:GUI自动化 "wikilink")
-[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
+[Category:自动化软件](https://zh.wikipedia.org/wiki/Category:自动化软件 "wikilink") [Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink") [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink") [Category:GUI自动化](https://zh.wikipedia.org/wiki/Category:GUI自动化 "wikilink") [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
 
 1.
 
@@ -230,8 +204,7 @@ Basic，AutoHotkey_L中增加了[Unicode](https://zh.wikipedia.org/wiki/Unicode 
 
 17.
 
-18. [iWB2
-    Learner页面](http://www.autohotkey.com/board/topic/84258-iwb2-learner-iwebbrowser2/)
+18. [iWB2 Learner页面](http://www.autohotkey.com/board/topic/84258-iwb2-learner-iwebbrowser2/)
 
 19.
 

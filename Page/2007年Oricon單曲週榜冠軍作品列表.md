@@ -1,7 +1,6 @@
-**2007年Oricon單曲週榜冠軍作品列表**列出2007年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2007年Oricon單曲週榜冠軍作品列表**列出2007年度曾經登上[Oricon](../Page/Oricon.md "wikilink")公信榜單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
-全年度共有50首冠軍單曲誕生，其中[宇多田光的](../Page/宇多田光.md "wikilink")《[Flavor Of
-Life](../Page/Flavor_Of_Life.md "wikilink")》蟬聯時間最長（3週）。
+全年度共有50首冠軍單曲誕生，其中[宇多田光](../Page/宇多田光.md "wikilink")的《[Flavor Of Life](../Page/Flavor_Of_Life.md "wikilink")》蟬聯時間最長（3週）。
 
 ## 冠軍單曲列表
 
@@ -394,5 +393,4 @@ Life](../Page/Flavor_Of_Life.md "wikilink")》蟬聯時間最長（3週）。
 
   - [2007年每週公信榜統計數據](https://web.archive.org/web/20100815001911/http://www.musictvprogram.com/oricon2007.html)
 
-[Category:2007年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:2007年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")

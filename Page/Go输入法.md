@@ -4,19 +4,11 @@
 
 ## 输入法特点
 
-GO输入法能有效提高手机的输入速度，同时具有很强的娱乐性。 支持拼音、笔画、五笔、手写以及语音输入 支持多国语言输入
-支持手势左右滑动切换键盘布局 全智能换肤功能，轻松设置键盘背景 支持导入联系人功能
-支持导入短信词库功能 支持词库备份功能 自动记忆或纠正你的输入词语 支持多点触摸 支持火星文输入 支持的手势：
-向左或向右滑动支持切换键盘布局 向下滑动支持收起键盘
+GO输入法能有效提高手机的输入速度，同时具有很强的娱乐性。 支持拼音、笔画、五笔、手写以及语音输入 支持多国语言输入 支持手势左右滑动切换键盘布局 全智能换肤功能，轻松设置键盘背景 支持导入联系人功能 支持导入短信词库功能 支持词库备份功能 自动记忆或纠正你的输入词语 支持多点触摸 支持火星文输入 支持的手势： 向左或向右滑动支持切换键盘布局 向下滑动支持收起键盘
 
 ## 多国语言支持
 
-go输入法为全世界多个地区提供更方便的输入体验，支持：Chinese pinyin Chinese Stroke, 6 key strokes
-Chinese Wubi Chinese Handwriting Chinese Cangjie Chinese phonetic
-English German French (FR) Spain (ES) Italy Portugal Russian Swedish
-Netherlands Norway Romania Hungary Poland Greece Slovakia finland
-Denmark Czech Bulgaria Korean Hebrew Arabic Turkey Croatia
-。更多国家的语言将不断列入支持。
+go输入法为全世界多个地区提供更方便的输入体验，支持：Chinese pinyin Chinese Stroke, 6 key strokes Chinese Wubi Chinese Handwriting Chinese Cangjie Chinese phonetic English German French (FR) Spain (ES) Italy Portugal Russian Swedish Netherlands Norway Romania Hungary Poland Greece Slovakia finland Denmark Czech Bulgaria Korean Hebrew Arabic Turkey Croatia 。更多国家的语言将不断列入支持。
 
   - [专为触屏设计 3G门户GO输入法V1.0.0评测](http://digi.it.sohu.com/20110118/n278945362.shtml)
   - [参考主页1](https://web.archive.org/web/20110718021809/http://gokeyboard.goforandroid.com/)

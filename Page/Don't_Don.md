@@ -1,11 +1,8 @@
-**《Don't
-Don》**是[韓國演唱組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super
-Junior的第二張錄音室專輯](../Page/Super_Junior.md "wikilink")，2007年9月20日發行\[1\]。
+**《Don't Don》**是[韓國演唱組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super Junior的第二張錄音室專輯](../Page/Super_Junior.md "wikilink")，2007年9月20日發行\[1\]。
 
 ## 錄製與宣傳
 
-專輯的中文官方名稱為《第二擊》，此張專輯距離上一張專輯《[SuperJunior05
-(TWINS)](https://zh.wikipedia.org/wiki/SuperJunior05_\(TWINS\) "wikilink")》的時間有一年十個月之久。該專輯是最後一次全員參與專輯錄製、團體演出與宣傳活動，[韓庚歷經了](../Page/韓庚.md "wikilink")8個月空窗期後，回歸韓國參與唱跳表演，也是[起範最後一次參與專輯錄製](../Page/起範.md "wikilink")、團體演出與宣傳活動。這也是[圭賢車禍後](../Page/圭賢.md "wikilink")，正式回歸演出，但因為傷勢初愈所以在mv與當時現場表演中，只會在某些部分會出來唱歌，然後就自行下去了，並沒有參與舞蹈表演，所以僅有12位成員參與唱跳表演。
+專輯的中文官方名稱為《第二擊》，此張專輯距離上一張專輯《[SuperJunior05 (TWINS)](https://zh.wikipedia.org/wiki/SuperJunior05_\(TWINS\) "wikilink")》的時間有一年十個月之久。該專輯是最後一次全員參與專輯錄製、團體演出與宣傳活動，[韓庚](../Page/韓庚.md "wikilink")歷經了8個月空窗期後，回歸韓國參與唱跳表演，也是[起範](../Page/起範.md "wikilink")最後一次參與專輯錄製、團體演出與宣傳活動。這也是[圭賢](../Page/圭賢.md "wikilink")車禍後，正式回歸演出，但因為傷勢初愈所以在mv與當時現場表演中，只會在某些部分會出來唱歌，然後就自行下去了，並沒有參與舞蹈表演，所以僅有12位成員參與唱跳表演。
 
 ## 曲目列表
 
@@ -132,8 +129,7 @@ Junior的第二張錄音室專輯](../Page/Super_Junior.md "wikilink")，2007年
 ## 外部連結
 
   - [Super Junior 新浪微博](http://weibo.com/superjunior)
-  - [Super Junior
-    Facebook專頁](http://www.facebook.com/superjunior?sk=wall)
+  - [Super Junior Facebook專頁](http://www.facebook.com/superjunior?sk=wall)
   - [Super Junior 官方YouTube頻道](http://www.youtube.com/superjunior/)
 
 <!-- end list -->
@@ -146,10 +142,7 @@ Junior的第二張錄音室專輯](../Page/Super_Junior.md "wikilink")，2007年
 
   - [所屬公司SM Entertainment官方網站](http://www.smtown.com/)
 
-[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink")
+[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink")
 
 1.
 2.

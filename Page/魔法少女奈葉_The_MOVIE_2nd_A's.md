@@ -1,11 +1,8 @@
-『****』（ /
-**）為於2012年7月14日上映的『[魔法少女奈葉A's](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")』電影化作品。
+『****』（ / **）為於2012年7月14日上映的『[魔法少女奈葉A's](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")』電影化作品。
 
 ## 概要
 
-2005年放映的動畫『[魔法少女奈葉A's](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")』的電影化、2010年放映的電影『[魔法少女奈葉
-The MOVIE
-1st](../Page/魔法少女奈葉_The_MOVIE_1st.md "wikilink")』的再續集。於2010年11月23日宣布開始製作\[1\]，預計2012年上映。
+2005年放映的動畫『[魔法少女奈葉A's](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")』的電影化、2010年放映的電影『[魔法少女奈葉 The MOVIE 1st](../Page/魔法少女奈葉_The_MOVIE_1st.md "wikilink")』的再續集。於2010年11月23日宣布開始製作\[1\]，預計2012年上映。
 
 2011年11月30日開啟官方網站，並宣布2012年夏天放映（2012年7月14日正式上映）。於第一部的發佈時間剛好相反。
 
@@ -22,8 +19,7 @@ The MOVIE
   - 奈叶、菲特、维塔的魔导器形状有细微改变。奈叶与菲特在启动凰霞模式与雷神模式后追加新的服装。
   - 剧场版中暗之书觉醒的原因是为了防止八神疾风被卡车撞到而自行启动。原作是某天夜里突然觉醒。
   - 剧场版中琳芙丝从一开始就已出场，且八神疾风在暗之书觉醒前就可以和梦中与她交流，只是在每次醒来后会被抹除记忆。原作中琳芙丝在八神疾风在失去意识之后才第一次登场。
-  - 剧场版中，和守护骑士的初次交战中奈叶和菲特同时被抽走念力核心（Linker Core），并且奈叶也并未使用星光爆裂（Starlight
-    Breaker）。原作中这一战中被抽走念力核心的只有奈叶。
+  - 剧场版中，和守护骑士的初次交战中奈叶和菲特同时被抽走念力核心（Linker Core），并且奈叶也并未使用星光爆裂（Starlight Breaker）。原作中这一战中被抽走念力核心的只有奈叶。
   - 剧场版中，奈叶和菲特的再会发生在和守护骑士战斗之前；原作是在和守护骑士交战的过程中。
   - 原作中奈叶和菲特在沙漠中追踪维塔与席格娜的战斗被删去。
   - 剧场版中琳蒂提督也进入了战场，但并没有实际展开战斗。
@@ -41,7 +37,7 @@ The MOVIE
 
 ## 角色
 
-基本与原作配音对应，除了蕾蒂·罗兰的配音因退役改由[大原沙耶香代替](../Page/大原沙耶香.md "wikilink")。
+基本与原作配音对应，除了蕾蒂·罗兰的配音因退役改由[大原沙耶香](../Page/大原沙耶香.md "wikilink")代替。
 
   - [高町奈叶](https://zh.wikipedia.org/wiki/高町奈叶 "wikilink")：[田村由香里](../Page/田村由香里.md "wikilink")
   - [菲特·泰斯塔罗沙](https://zh.wikipedia.org/wiki/菲特·泰斯塔罗沙 "wikilink")：[水树奈奈](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")
@@ -95,8 +91,7 @@ The MOVIE
         作詞：[水樹奈奈](../Page/水樹奈奈.md "wikilink")
         作曲：[吉木絵里子](https://zh.wikipedia.org/wiki/吉木絵里子 "wikilink")
         編曲：藤間仁
-        演唱：[水樹奈奈](../Page/水樹奈奈.md "wikilink")（[KING
-        RECORDS](https://zh.wikipedia.org/wiki/King_Records "wikilink")）
+        演唱：[水樹奈奈](../Page/水樹奈奈.md "wikilink")（[KING RECORDS](https://zh.wikipedia.org/wiki/King_Records "wikilink")）
 
   - 片尾曲
     \*「微笑みのプルマージュ」
@@ -105,8 +100,7 @@ The MOVIE
         作詞：[松井五郎](https://zh.wikipedia.org/wiki/松井五郎 "wikilink")
         作曲：[太田雅友](../Page/太田雅友.md "wikilink")
         編曲：太田雅友
-        演唱：[田村ゆかり](https://zh.wikipedia.org/wiki/田村ゆかり "wikilink")（KING
-        RECORDS）
+        演唱：[田村ゆかり](https://zh.wikipedia.org/wiki/田村ゆかり "wikilink")（KING RECORDS）
 
   - 挿入歌
     \*「Sacred Force」
@@ -131,14 +125,7 @@ The MOVIE
 
   - [魔法少女リリカルなのはThe MOVIE 2nd A's 公式サイト](http://www.nanoha.com)
 
-[Category:草川啟造電影](https://zh.wikipedia.org/wiki/Category:草川啟造電影 "wikilink")
-[Category:魔法少女奈葉](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉 "wikilink")
-[Category:2012年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2012年日本劇場動畫 "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:Megami_MAGAZINE](https://zh.wikipedia.org/wiki/Category:Megami_MAGAZINE "wikilink")
-[Category:重製動畫電影](https://zh.wikipedia.org/wiki/Category:重製動畫電影 "wikilink")
-[Category:魔法題材動畫電影](https://zh.wikipedia.org/wiki/Category:魔法題材動畫電影 "wikilink")
+[Category:草川啟造電影](https://zh.wikipedia.org/wiki/Category:草川啟造電影 "wikilink") [Category:魔法少女奈葉](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉 "wikilink") [Category:2012年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2012年日本劇場動畫 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:Megami_MAGAZINE](https://zh.wikipedia.org/wiki/Category:Megami_MAGAZINE "wikilink") [Category:重製動畫電影](https://zh.wikipedia.org/wiki/Category:重製動畫電影 "wikilink") [Category:魔法題材動畫電影](https://zh.wikipedia.org/wiki/Category:魔法題材動畫電影 "wikilink")
 
-1.  [映画「魔法少女リリカルなのは The MOVIE 2nd
-    A’s」の製作が決定、2012年公開へ](http://gigazine.net/news/20101123_nanoha_the_movie_2nd/)、[GIGAZINE](https://zh.wikipedia.org/wiki/GIGAZINE "wikilink")、2010年11月23日。
+1.  [映画「魔法少女リリカルなのは The MOVIE 2nd A’s」の製作が決定、2012年公開へ](http://gigazine.net/news/20101123_nanoha_the_movie_2nd/)、[GIGAZINE](https://zh.wikipedia.org/wiki/GIGAZINE "wikilink")、2010年11月23日。
 2.  『[娘TYPE](../Page/娘TYPE.md "wikilink")』2012年1月号、都築真紀インタビューより。

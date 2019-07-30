@@ -1,15 +1,16 @@
-**MBC日日連續劇**（），亦稱**MBC日日劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台每逢週一至週五晚間播放的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1969年8月。播出50年直至2019年7月11日廢止。
+**MBC日日連續劇**（），亦稱**MBC日日劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台每逢週一至週五晚間播放的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1969年8月。播出50年直至2019年7月12日廢止。
 
 ## 播映時間
 
-| 電視台                                                         | 播映日期                       | 播映時間                       | 播映長度 |
-| ----------------------------------------------------------- | -------------------------- | -------------------------- | ---- |
-| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 1969年8月11日 \~ 1973年12月28日  | 每週一至周五 逢晚間8點 30分 \~ 9點 00分 | 30分  |
-| 1996年3月4日 \~ 2006年11月3日                                     | 每週一至周五 逢晚間8點 20分 \~ 8點 55分 | 35分                        |      |
-| 2006年11月6日 \~ 2008年5月9日                                     | 每週一至周五 逢晚間7點 50分 \~ 8點 20分 | 30分                        |      |
-| 2008年5月19日 \~ 2012年11月2日                                    | 每周一至周五 逢晚間8點 15分 \~ 8點 55分 | 40分                        |      |
-| 2012年11月5日 \~ 2019年3月15日                                    | 每周一至周五 逢晚間7點 15分 \~ 7點 55分 | 40分                        |      |
-| 2019年3月18日至今                                                | 每周一至周五 逢晚間6點 50分 \~ 7點 30分 | 40分                        |      |
+| 電視台                                                         | 播映日期                      | 播映時間                      | 播映長度 |
+| ----------------------------------------------------------- | ------------------------- | ------------------------- | ---- |
+| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 1969年8月11日 \~ 1973年12月28日 | 每週一至週五 晚上8時 30分 \~ 9時 00分 | 30分  |
+| 1996年3月4日 \~ 2006年11月3日                                     | 每週一至週五 晚上8時 20分 \~ 8時 55分 | 35分                       |      |
+| 2006年11月6日 \~ 2008年5月9日                                     | 每週一至週五 晚上7時 50分 \~ 8時 20分 | 30分                       |      |
+| 2008年5月19日 \~ 2012年11月2日                                    | 每週一至週五 晚上8時 15分 \~ 8時 55分 | 40分                       |      |
+| 2012年11月5日 \~ 2019年3月15日                                    | 每週一至週五 晚上7時 15分 \~ 7時 55分 | 40分                       |      |
+| 2019年3月18日 \~ 2019年7月12日                                    | 每週一至週五 晚上6時 50分 \~ 7時 30分 | 40分                       |      |
+|                                                             |                           |                           |      |
 
 ## 歷年作品
 
@@ -1017,14 +1018,23 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年1月14日－2019年6月<br />
+<td style="text-align: center;"><p>2019年1月14日－2019年7月12日<br />
 </p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/龍王保祐" title="wikilink">龍王保祐</a><br />
 </p></td>
-<td style="text-align: center;"><p>120</p></td>
+<td style="text-align: center;"><p>121</p></td>
 <td style="text-align: center;"><p><a href="../Page/李昭娟.md" title="wikilink">李昭娟</a>、<a href="../Page/在喜.md" title="wikilink">在喜</a>、<a href="../Page/趙安_(韓國藝人).md" title="wikilink">趙安</a>、</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔恩慶_(導演)" title="wikilink">崔恩慶</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔淵傑" title="wikilink">崔淵傑</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -1038,7 +1048,4 @@
   - [SBS日日連續劇](../Page/SBS日日連續劇.md "wikilink")
   - [JTBC日日連續劇](../Page/JTBC日日連續劇.md "wikilink")
 
-[Category:MBC日日連續劇](https://zh.wikipedia.org/wiki/Category:MBC日日連續劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
+[Category:MBC日日連續劇](https://zh.wikipedia.org/wiki/Category:MBC日日連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")

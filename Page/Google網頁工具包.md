@@ -1,26 +1,19 @@
-**Google Web
-Toolkit**（簡稱[GWT](https://zh.wikipedia.org/wiki/GWT "wikilink")，讀作），是一個前端使用[JavaScript](../Page/JavaScript.md "wikilink")，後端使用[Java的](../Page/Java.md "wikilink")[AJAX](../Page/AJAX.md "wikilink")
-framework，以[Apache許可證](https://zh.wikipedia.org/wiki/Apache許可證 "wikilink")2.0版本[開放源始碼](https://zh.wikipedia.org/wiki/開放源始碼 "wikilink")。GWT透過編譯器將Java程式碼編譯成JavaScript，可讓開發人員使用Java程式設計語言，快速建置與維護複雜但高效能的JavaScript前端應用程式，藉此減輕開發人員負擔。
+**Google Web Toolkit**（簡稱[GWT](https://zh.wikipedia.org/wiki/GWT "wikilink")，讀作），是一個前端使用[JavaScript](../Page/JavaScript.md "wikilink")，後端使用[Java](../Page/Java.md "wikilink")的[AJAX](../Page/AJAX.md "wikilink") framework，以[Apache許可證](https://zh.wikipedia.org/wiki/Apache許可證 "wikilink")2.0版本[開放源始碼](https://zh.wikipedia.org/wiki/開放源始碼 "wikilink")。GWT透過編譯器將Java程式碼編譯成JavaScript，可讓開發人員使用Java程式設計語言，快速建置與維護複雜但高效能的JavaScript前端應用程式，藉此減輕開發人員負擔。
 
-2010年8月，[Google買下Instantiations公司](../Page/Google.md "wikilink")\[1\]，並免費釋出該公司旗下所有產品，當中包括[GWT
-Designer](https://zh.wikipedia.org/wiki/GWT_Designer "wikilink")。GWT
-Designer是[Eclipse的插件](../Page/Eclipse.md "wikilink")，為GWT提供[WYSIWYG](https://zh.wikipedia.org/wiki/WYSIWYG "wikilink")（[所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")）的AJAX設計介面\[2\]。Google亦正在計劃為GWT
-Designer增加[UiBinder支援](https://zh.wikipedia.org/wiki/UiBinder "wikilink")。
+2010年8月，[Google](../Page/Google.md "wikilink")買下Instantiations公司\[1\]，並免費釋出該公司旗下所有產品，當中包括[GWT Designer](https://zh.wikipedia.org/wiki/GWT_Designer "wikilink")。GWT Designer是[Eclipse](../Page/Eclipse.md "wikilink")的插件，為GWT提供[WYSIWYG](https://zh.wikipedia.org/wiki/WYSIWYG "wikilink")（[所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")）的AJAX設計介面\[2\]。Google亦正在計劃為GWT Designer增加[UiBinder支援](https://zh.wikipedia.org/wiki/UiBinder "wikilink")。
 
 2014年10月30日，在GWT 2.7.0 RC1版本中，GWT Designer已弃用。\[3\]
 
-2016年10月20日，GWT 2.8.0 版本正式发布。该版本支持Java
-8和CSS3。同时正式支持JsInterop和GSS，前者可替换原先的JSNI，后者取代过时的CssResource。\[4\]
+2016年10月20日，GWT 2.8.0 版本正式发布。该版本支持Java 8和CSS3。同时正式支持JsInterop和GSS，前者可替换原先的JSNI，后者取代过时的CssResource。\[4\]
 
 ## 組件
 
 Google Web Toolkit的主要組件包括：
 
   - GWT Developer Plugin
-    提供GWT開發模式（GWT Development
-    Mode），將Java代碼的執行結果即時反映到本機瀏覽器上，整個過程完全不需進行編譯。在此模式下，對Java代碼進行除錯，就像直接對JavaScript進行除錯一樣迅速。
+    提供GWT開發模式（GWT Development Mode），將Java代碼的執行結果即時反映到本機瀏覽器上，整個過程完全不需進行編譯。在此模式下，對Java代碼進行除錯，就像直接對JavaScript進行除錯一樣迅速。
   - GWT Web UI class library
-    一套用於建立[控件的自定介面與](../Page/控件.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")。
+    一套用於建立[控件](../Page/控件.md "wikilink")的自定介面與[函式庫](../Page/函式庫.md "wikilink")。
   - GWT Java-to-JavaScript Compiler
     將Java代碼編譯成JavaScript代碼的編譯器，編譯方式有三種：\[5\]
 
@@ -57,44 +50,25 @@ Google Web Toolkit的主要組件包括：
 
 ## 參見
 
-  - [Java](../Page/Java.md "wikilink") ─
-    已於2007年[開放源始碼的一種非常強大的系統語言](https://zh.wikipedia.org/wiki/開放源始碼 "wikilink")。
-  - [Google Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink")
-    ─
-    提供開發工具、[應用程式介面及技術資源的Google網站](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")。
+  - [Java](../Page/Java.md "wikilink") ─ 已於2007年[開放源始碼的一種非常強大的系統語言](https://zh.wikipedia.org/wiki/開放源始碼 "wikilink")。
+  - [Google Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") ─ 提供開發工具、[應用程式介面及技術資源的Google網站](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")。
 
 ## 外部連結
 
   - [GWT homepage on Google code](http://code.google.com/webtoolkit/)
   - [Official GWT blog](http://googlewebtoolkit.blogspot.com/)
-  - [Official GWT
-    forums](http://groups.google.com/group/Google-Web-Toolkit)
-  - [GWT
-    Tutorials](http://courses.coreservlets.com/Course-Materials/gwt.html)
-    Tutorials with source code
-  - [Google Web Toolkit
-    Incubator](http://code.google.com/p/google-web-toolkit-incubator/)
-  - [Conference on GWT organized by Addison-Wesley, Prentice Hall and
-    Pearson Education](http://www.VoicesThatMatter.com/GWT2007)
-  - [GWT-Unite is a library/framework which allows Opera Unite
-    applications to be written using the Google Web
-    Toolkit.](http://code.google.com/p/gwt-unite/)
+  - [Official GWT forums](http://groups.google.com/group/Google-Web-Toolkit)
+  - [GWT Tutorials](http://courses.coreservlets.com/Course-Materials/gwt.html) Tutorials with source code
+  - [Google Web Toolkit Incubator](http://code.google.com/p/google-web-toolkit-incubator/)
+  - [Conference on GWT organized by Addison-Wesley, Prentice Hall and Pearson Education](http://www.VoicesThatMatter.com/GWT2007)
+  - [GWT-Unite is a library/framework which allows Opera Unite applications to be written using the Google Web Toolkit.](http://code.google.com/p/gwt-unite/)
 
 ## 参考文献
 
-[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
-[Category:JavaScript函式庫](https://zh.wikipedia.org/wiki/Category:JavaScript函式庫 "wikilink")
-[Category:网络开发软件](https://zh.wikipedia.org/wiki/Category:网络开发软件 "wikilink")
-[Category:丰富互联网应用程序](https://zh.wikipedia.org/wiki/Category:丰富互联网应用程序 "wikilink")
-[Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink")
-[Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink")
+[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:JavaScript函式庫](https://zh.wikipedia.org/wiki/Category:JavaScript函式庫 "wikilink") [Category:网络开发软件](https://zh.wikipedia.org/wiki/Category:网络开发软件 "wikilink") [Category:丰富互联网应用程序](https://zh.wikipedia.org/wiki/Category:丰富互联网应用程序 "wikilink") [Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink") [Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink")
 
-1.  [Google Relaunches Instantiations Developer Tools - Now Available
-    for
-    Free](http://googlewebtoolkit.blogspot.com/2010/09/google-relaunches-instantiations.html)
-2.  [GWT Designer User
-    Guide](http://code.google.com/webtoolkit/tools/gwtdesigner/)
+1.  [Google Relaunches Instantiations Developer Tools - Now Available for Free](http://googlewebtoolkit.blogspot.com/2010/09/google-relaunches-instantiations.html)
+2.  [GWT Designer User Guide](http://code.google.com/webtoolkit/tools/gwtdesigner/)
 3.
 4.
-5.  [Debug and Compile -
-    FAQ](http://code.google.com/webtoolkit/doc/latest/FAQ_DebuggingAndCompiling.html)
+5.  [Debug and Compile - FAQ](http://code.google.com/webtoolkit/doc/latest/FAQ_DebuggingAndCompiling.html)

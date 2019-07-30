@@ -1,16 +1,13 @@
-『**NEWS LIVE
-DIAMOND**』是[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下團體](../Page/傑尼斯事務所.md "wikilink")[NEWS的第四張DVD](../Page/NEWS.md "wikilink")。
+『**NEWS LIVE DIAMOND**』是[日本](../Page/日本.md "wikilink")[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下團體[NEWS](../Page/NEWS.md "wikilink")的第四張DVD。
 
 ## 概要
 
   - 日版於2009年11月4日發售，台灣代理發行於2009年12月4日。
-  - 收錄「WINTER PARTY DIAMOND LIVE TOUR」\<2008年10月25日-
-    2009年1月12日、10個地點\>，1月12日在Kyocera Dome大阪最終場的LIVE演出。
-  - 另收錄SPECIAL REEL－「Orignal Music Clip & Making」與「Making of Opening
-    Film」。
+  - 收錄「WINTER PARTY DIAMOND LIVE TOUR」\<2008年10月25日- 2009年1月12日、10個地點\>，1月12日在Kyocera Dome大阪最終場的LIVE演出。
+  - 另收錄SPECIAL REEL－「Orignal Music Clip & Making」與「Making of Opening Film」。
 
 `「Orignal Music Clip & Making」收錄各團員solo曲目PV及製作。`
-`「Making of Opening Film」由前輩`[`瀧澤秀明所監製拍攝的開場影片`](../Page/瀧澤秀明.md "wikilink")`。`
+`「Making of Opening Film」由前輩`[`瀧澤秀明`](../Page/瀧澤秀明.md "wikilink")所監製拍攝的開場影片`。`
 
   - 初回生產限定為5.1聲道、20頁寫真本。
 

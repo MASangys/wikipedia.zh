@@ -1,10 +1,8 @@
-**Rie
-fu**（，），[日本女性](../Page/日本.md "wikilink")[創作歌手與](../Page/創作歌手.md "wikilink")[畫家](https://zh.wikipedia.org/wiki/畫家 "wikilink")，本名**舩越里惠**。出身於[東京都](../Page/東京都.md "wikilink")。[青山學院高等部](https://zh.wikipedia.org/wiki/青山學院高等部 "wikilink")、[倫敦藝術大學](../Page/倫敦藝術大學.md "wikilink")[中央聖馬丁藝術與設計學院畢業](../Page/中央聖馬丁藝術與設計學院.md "wikilink")。之前隸屬於[gr8\!records](https://zh.wikipedia.org/wiki/gr8!records "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")。
+**Rie fu**（，），[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")與[畫家](https://zh.wikipedia.org/wiki/畫家 "wikilink")，本名**舩越里惠**。出身於[東京都](../Page/東京都.md "wikilink")。[青山學院高等部](https://zh.wikipedia.org/wiki/青山學院高等部 "wikilink")、[倫敦藝術大學](../Page/倫敦藝術大學.md "wikilink")[中央聖馬丁藝術與設計學院](../Page/中央聖馬丁藝術與設計學院.md "wikilink")畢業。之前隸屬於[gr8\!records](https://zh.wikipedia.org/wiki/gr8!records "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 概要
 
-藝名「Rie fu」的由來是本名的\[Rie\] 加上\[Funakoshi\]字頭所組成。以畫家身份活動時會以本名的英語表記「RIE
-FUNAKOSHI」為藝名。
+藝名「Rie fu」的由來是本名的\[Rie\] 加上\[Funakoshi\]字頭所組成。以畫家身份活動時會以本名的英語表記「RIE FUNAKOSHI」為藝名。
 
 ## 略歷
 
@@ -41,7 +39,7 @@ FUNAKOSHI」為藝名。
 |                                                     |             |                                                                                            |
 | --------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------ |
 |                                                     | 發行日         | 標題                                                                                         |
-| [日本國內發售](../Page/日本.md "wikilink")                  |             |                                                                                            |
+| [日本](../Page/日本.md "wikilink")國內發售                  |             |                                                                                            |
 | 1st                                                 | 2005年1月19日  | <big>**[Rie fu](https://zh.wikipedia.org/wiki/Rie_fu_\(アルバム\) "wikilink")**</big>          |
 | 2nd                                                 | 2006年3月24日  | <big>**[ROSE ALBUM](https://zh.wikipedia.org/wiki/ROSE_ALBUM "wikilink")**</big>           |
 | 3rd                                                 | 2007年11月21日 | <big>**[Tobira Album](https://zh.wikipedia.org/wiki/Tobira_Album "wikilink")**</big>       |
@@ -87,7 +85,7 @@ FUNAKOSHI」為藝名。
 |                                                                                                                                              |                                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 曲名                                                                                                                                           | 商業搭配                                                                                                                                                                                        |
-| Life is Like a Boat                                                                                                                          | [東京電視台系動畫](../Page/東京電視台.md "wikilink")《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》片尾曲                                                                                                   |
+| Life is Like a Boat                                                                                                                          | [東京電視台](../Page/東京電視台.md "wikilink")系動畫《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》片尾曲                                                                                                   |
 | [FM鹿児島](https://zh.wikipedia.org/wiki/FM鹿児島 "wikilink")《[Move On\!](https://zh.wikipedia.org/wiki/Move_On!〜aiRhythm〜 "wikilink")》2004年9月度片尾曲 |                                                                                                                                                                                             |
 | I Wanna Go To A Place...                                                                                                                     | [毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")、[TBS系動畫](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")《[機動戰士GUNDAM SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》片尾曲 |
 | Until I Say                                                                                                                                  | [ギャガ・コミュニケーションズ配給映画](https://zh.wikipedia.org/wiki/ギャガ・コミュニケーションズ "wikilink")『[ハイジ](https://zh.wikipedia.org/wiki/アルプスの少女ハイジ "wikilink")』主題歌                                                |
@@ -104,7 +102,7 @@ FUNAKOSHI」為藝名。
 | Sunny Days                                                                                                                                   | [BS朝日](https://zh.wikipedia.org/wiki/ビーエス朝日 "wikilink")『しあわせロハス』テーマソング                                                                                                                      |
 | Just like you                                                                                                                                | [JALリゾートシーホークホテル福岡](https://zh.wikipedia.org/wiki/JALホテルズ "wikilink")「SUMMER WEDDING FAIR」CMソング                                                                                             |
 | Come On Come On                                                                                                                              | イーオンCMソング（東海・北陸地区限定）                                                                                                                                                                        |
-| For You                                                                                                                                      | [富士電視台系動畫](../Page/富士電視台.md "wikilink")《[放浪男孩](../Page/放浪男孩.md "wikilink")》片尾曲                                                                                                              |
+| For You                                                                                                                                      | [富士電視台](../Page/富士電視台.md "wikilink")系動畫《[放浪男孩](../Page/放浪男孩.md "wikilink")》片尾曲                                                                                                              |
 
 ## Live
 
@@ -112,20 +110,13 @@ FUNAKOSHI」為藝名。
 
   - [Rie fu](http://www.riefu.com/)
 
-  - [Rie Funakoshi
-    Paints](https://web.archive.org/web/20110225020441/http://www.riefunakoshi.com/)
+  - [Rie Funakoshi Paints](https://web.archive.org/web/20110225020441/http://www.riefunakoshi.com/)
 
   - [Rie fuオフィシャルブログ「For You」by Ameba](http://ameblo.jp/riefu-blog/)，網誌。
 
-  - [エキサイトミュージック連載ブログ：Rie
-    fuブログ「りえふぅきのこ」](http://blog.excite.co.jp/riefublog/)，舊網誌，[2006年4月](../Page/2006年4月.md "wikilink")－[2010年2月](../Page/2010年2月.md "wikilink")。
+  - [エキサイトミュージック連載ブログ：Rie fuブログ「りえふぅきのこ」](http://blog.excite.co.jp/riefublog/)，舊網誌，[2006年4月](../Page/2006年4月.md "wikilink")－[2010年2月](../Page/2010年2月.md "wikilink")。
 
-  - [ちゅるっとりえふぅ churutto rie fu -
-    Yahoo\!ブログ](http://blogs.yahoo.co.jp/riefudotcom/folder/757277.html)，舊網誌，[2005年8月](../Page/2005年8月.md "wikilink")－[2006年4月](../Page/2006年4月.md "wikilink")。
+  - [ちゅるっとりえふぅ churutto rie fu - Yahoo\!ブログ](http://blogs.yahoo.co.jp/riefudotcom/folder/757277.html)，舊網誌，[2005年8月](../Page/2005年8月.md "wikilink")－[2006年4月](../Page/2006年4月.md "wikilink")。
 
   -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
-[Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")

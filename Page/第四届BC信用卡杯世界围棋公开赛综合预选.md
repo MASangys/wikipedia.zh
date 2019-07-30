@@ -1,4 +1,4 @@
-第四届[BC信用卡盃世界圍棋公開賽综合预选于](../Page/BC信用卡盃世界圍棋公開賽.md "wikilink")2012年2月27-29日在首尔连战三轮。\[1\]\[2\]\[3\]\[4\]
+第四届[BC信用卡盃世界圍棋公開賽](../Page/BC信用卡盃世界圍棋公開賽.md "wikilink")综合预选于2012年2月27-29日在首尔连战三轮。\[1\]\[2\]\[3\]\[4\]
 
 ## 第四届BC信用卡盃世界圍棋公開賽综合预选第1组
 
@@ -108,13 +108,7 @@
 
 [Category:国际围棋比赛](https://zh.wikipedia.org/wiki/Category:国际围棋比赛 "wikilink")
 
-1.  [BC卡杯27日开战罗洗河VS尹峻相
-    谢赫常昊李昌镐等出战](http://weiqi.sports.tom.com/2012-02-26/00UP/26952148.html)
-
+1.  [BC卡杯27日开战罗洗河VS尹峻相 谢赫常昊李昌镐等出战](http://weiqi.sports.tom.com/2012-02-26/00UP/26952148.html)
 2.  [BC卡杯钟文靖王磊罗洗河等8人出局 28日严欢大战赵汉乘](http://weiqi.sports.tom.com/2012-02-27/00UP/38399204.html)
-
-3.  [BC卡杯严欢李喆王檄邱峻周鹤洋告负
-    常昊周睿羊争本赛名额](http://weiqi.sports.tom.com/2012-02-28/00UP/31949829.html)
-
-4.  [BC卡杯周睿羊胜常昊
-    杨鼎新范廷钰分别力克姜东润李映九](http://weiqi.sports.tom.com/2012-02-29/00UP/29999838.html)
+3.  [BC卡杯严欢李喆王檄邱峻周鹤洋告负 常昊周睿羊争本赛名额](http://weiqi.sports.tom.com/2012-02-28/00UP/31949829.html)
+4.  [BC卡杯周睿羊胜常昊 杨鼎新范廷钰分别力克姜东润李映九](http://weiqi.sports.tom.com/2012-02-29/00UP/29999838.html)

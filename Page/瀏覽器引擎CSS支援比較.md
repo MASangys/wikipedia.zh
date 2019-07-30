@@ -8,8 +8,7 @@ __TOC__
 
 ## CSS版本支援
 
-想了解各版本的CSS差異，請參考項目[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")。
-本表格不以CSS2.0為準，因為存在取代它的CSS2.1。CSS2.1修正了部份CSS2.0的錯誤，刪除了不被CSS社區接受的功能。大部分被刪除的功能將會出現在CSS3。
+想了解各版本的CSS差異，請參考項目[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")。 本表格不以CSS2.0為準，因為存在取代它的CSS2.1。CSS2.1修正了部份CSS2.0的錯誤，刪除了不被CSS社區接受的功能。大部分被刪除的功能將會出現在CSS3。
 
 <table>
 <thead>
@@ -354,15 +353,11 @@ __TOC__
 ### Trident語法與規則附註
 
 1.  `!important` — 7.0之前，`!important`並不會蓋掉在同一個宣告區的後面的規則。
-2.  `@import` — 8.0之前，不支援媒體形態。使用` @import  `<URL>`
-     `<MEDIA>，則IE會要求此URL：「<URL>`
-     `<MEDIA>」，包括`url()`及URL裡的引號。無法匯入超過35的樣式表。
+2.  `@import` — 8.0之前，不支援媒體形態。使用` @import  `<URL>`   `<MEDIA>，則IE會要求此URL：「<URL>`   `<MEDIA>」，包括`url()`及URL裡的引號。無法匯入超過35的樣式表。
 
 ### Presto語法與規則附註
 
-1.  `@import` —
-    儘管Gecko、WebKit及iCab會立即下載所有樣式表，Opera只下載媒體名為「handheld」、「print」、「projection」、「screen
-    media」、「speech」（當聲音功能在啟動狀態）、「tv」（電視裝置）。文字瀏覽器模擬模式僅為一個使用者樣式表而不用媒體形態「tty」。這是符合不支援CSS的老舊文字瀏覽器的。
+1.  `@import` — 儘管Gecko、WebKit及iCab會立即下載所有樣式表，Opera只下載媒體名為「handheld」、「print」、「projection」、「screen media」、「speech」（當聲音功能在啟動狀態）、「tv」（電視裝置）。文字瀏覽器模擬模式僅為一個使用者樣式表而不用媒體形態「tty」。這是符合不支援CSS的老舊文字瀏覽器的。
 
 ## 選擇器
 
@@ -1203,8 +1198,7 @@ __TOC__
 
 ### 一般選擇器附註
 
-1.  `:read-only`與`:read-write` —
-    Presto與KHTML皆不正確地處理有`contenteditable`屬性的元素。
+1.  `:read-only`與`:read-write` — Presto與KHTML皆不正確地處理有`contenteditable`屬性的元素。
 
 ### Trident選擇器附註
 
@@ -1212,10 +1206,8 @@ __TOC__
 2.  `:hover` — 7.0之前，Trident僅支援超連結元素。
 3.  `.one.two` — 7.0之前，被當成`.two`類別選擇器處理。
 4.  `*` — 7.0之前這代表「一個或是沒有元素」。
-5.  `[attr]` —
-    當屬性是`colspan`的時候，選出所有表格內的`td`元素及`th`元素（有沒有之的有`colspan`屬性都一樣）。\[27\]這可能不是一個bug，因規格存在模稜兩可的解釋。\[28\]
-6.  `:first-letter`、`:first-line` —
-    在6.0，`:first-letter`與其他rules一起使用的時候可能有問題。\[29\]在8.0，在`:first-line`與`:first-letter`宣告內的有`!important`的rules會被省略。\[30\]
+5.  `[attr]` — 當屬性是`colspan`的時候，選出所有表格內的`td`元素及`th`元素（有沒有之的有`colspan`屬性都一樣）。\[27\]這可能不是一個bug，因規格存在模稜兩可的解釋。\[28\]
+6.  `:first-letter`、`:first-line` — 在6.0，`:first-letter`與其他rules一起使用的時候可能有問題。\[29\]在8.0，在`:first-line`與`:first-letter`宣告內的有`!important`的rules會被省略。\[30\]
 
 ### Gecko選擇器附註
 
@@ -3677,68 +3669,49 @@ __TOC__
 ### Trident屬性附註
 
 1.  `margin` — `inherit`繼承未計算值然後再計算一次而不是直接繼承計算後的值。\[121\]
-2.  `display` —
-    7.0之前，支援無誤的只有`none`、`block`、`inline`、`table-header-group`及`table-footer-group`。8.0之前，沒支援`run-in`與`table`，而`inline-block`僅支援在行級元素上。
-3.  `overflow` — 7.0之前，`overflow:
-    visible;`支援的不正確。在8.0，`scroll`將該元素的高度調至`max-height`，就算內容並沒有這麼高。\[122\]
-4.  `visibility` — 8.0之前，未支援「`visibility: collapse;`」。在8.0，`visibility:
-    hidden;`的塊元素(@@block翻譯)中「`visibility: visible;`」的行級元素不被顯示。\[123\]
+2.  `display` — 7.0之前，支援無誤的只有`none`、`block`、`inline`、`table-header-group`及`table-footer-group`。8.0之前，沒支援`run-in`與`table`，而`inline-block`僅支援在行級元素上。
+3.  `overflow` — 7.0之前，`overflow: visible;`支援的不正確。在8.0，`scroll`將該元素的高度調至`max-height`，就算內容並沒有這麼高。\[122\]
+4.  `visibility` — 8.0之前，未支援「`visibility: collapse;`」。在8.0，`visibility: hidden;`的塊元素(@@block翻譯)中「`visibility: visible;`」的行級元素不被顯示。\[123\]
 5.  `content` — 在8.0，`attr()`的算後值不在屬性(attribute)變更時被更新。\[124\]
 6.  `border-color` — 7.0之前，不支援`transparent`。
 7.  `border-style` — 8.0之前，不支援`hidden`。
 8.  `border-style` — 7.0之前，`dotted`被顯示成`dashed`。
-9.  `box-shadow` —
-    9.0之前，trident支援自從5.5就有的類似的專有屬性「Shadow」\[125\]及「DropShadow」\[126\]過濾器。
+9.  `box-shadow` — 9.0之前，trident支援自從5.5就有的類似的專有屬性「Shadow」\[125\]及「DropShadow」\[126\]過濾器。
 10. `position` — 7.0之前，未支援固定配置。7.0跟之後版本只在標準模式的時候支援。
 11. `z-index` — 8.0之前，僅部份支援`z-index`。\[127\]在8.0，除了整數以外也支持浮點數。\[128\]
-12. `list-style-type` —
-    8.0之前，不支援`armenian`、`decimal-leading-zero`、`georgian`、`lower-greek`、`lower-latin`、`upper-latin`。
+12. `list-style-type` — 8.0之前，不支援`armenian`、`decimal-leading-zero`、`georgian`、`lower-greek`、`lower-latin`、`upper-latin`。
 13. `opacity` — 9.0之前，Trident支援一個專有的替代屬性。\[129\]
 14. `background-image` — 8.0之前，背景圖片在某些情況下被處理的很糟。\[130\]\[131\]
 15. `background-attachment` — 7.0之前，`fixed`只被允許使用在`body`元素上。
 16. `background-position` — 8.0之前，不支援固定配置。
 17. `font-weight` — 8.0之前，當取值為600顯示不正確。\[132\]
 18. `text-align` — 在8.0，`text-align`不被`:before`及`:after`擬元素繼承。\[133\]
-19. `white-space` —
-    6.0之前，不支援`pre`。8.0之前，僅部份支援`white-space`：不支援`pre-line`及`pre-wrap`。\[134\]
-20. `writing-mode` —
-    Trident支援過期的取值`lr-tb`、`tb-rl`、`tb-lr`等等。\[135\]這些取值作用在`direction`上。這是與Webkit不同的行為。
+19. `white-space` — 6.0之前，不支援`pre`。8.0之前，僅部份支援`white-space`：不支援`pre-line`及`pre-wrap`。\[134\]
+20. `writing-mode` — Trident支援過期的取值`lr-tb`、`tb-rl`、`tb-lr`等等。\[135\]這些取值作用在`direction`上。這是與Webkit不同的行為。
 21. `cursor` — 仍作用於沒前輟的瀏覽器擴充。
 
 ### Gecko屬性附註
 
-1.  `display` —
-    不支援`run-in`。\[136\]1.9之前，不支援「`inline-table`\[137\]」與「`inline-block`\[138\]」。
+1.  `display` — 不支援`run-in`。\[136\]1.9之前，不支援「`inline-table`\[137\]」與「`inline-block`\[138\]」。
 2.  `z-index` — 1.9之前負數的支援情況不佳。
 3.  `quotes` — 1.8之前不支援巢狀引用。\[139\]
-4.  `content` — 1.9之前不支援「`none`」。此屬性不作用在一般元素（非擬元素），不符合《CSS 3
-    生成內容與取代內容模組》。
+4.  `content` — 1.9之前不支援「`none`」。此屬性不作用在一般元素（非擬元素），不符合《CSS 3 生成內容與取代內容模組》。
 5.  `background-position` — 1.7以前的版本使用CSS2語法，非CSS2.1的擴充語法。
 6.  `font-size-adjust` — 1.9之前，僅在視窗版支援。
-7.  `font-weight` —
-    就算裝了一個字型的Light或Heavy/Black[字模](https://zh.wikipedia.org/wiki/字模 "wikilink")，除非使用Gecko
-    2.0在Windows 7或Windows Vista的DirectWrite，僅Regular與Bold會被使用。
-8.  `white-space` —
-    1.9.1之前不支援`pre-line`。1.9之前，以`-moz-pre-wrap`實驗性地支援`pre-wrap`的功能。
+7.  `font-weight` — 就算裝了一個字型的Light或Heavy/Black[字模](https://zh.wikipedia.org/wiki/字模 "wikilink")，除非使用Gecko 2.0在Windows 7或Windows Vista的DirectWrite，僅Regular與Bold會被使用。
+8.  `white-space` — 1.9.1之前不支援`pre-line`。1.9之前，以`-moz-pre-wrap`實驗性地支援`pre-wrap`的功能。
 9.  `visibility` — 1.8之前不支援`collapse`。
-10. `border-radius` —
-    1.9.1之前，邊框的曲線是圓形而不是同現在CSS3草案記載的橢圓曲線，短宣告`border-radius`的順序是「左上
-    右上 右下 左下」而不是W3C的「右上 右下 左下
-    左上」。當邊框的樣式是點線(dotted)破折線(dashed)，曲線總是顯示實線為。\[140\]
+10. `border-radius` — 1.9.1之前，邊框的曲線是圓形而不是同現在CSS3草案記載的橢圓曲線，短宣告`border-radius`的順序是「左上 右上 右下 左下」而不是W3C的「右上 右下 左下 左上」。當邊框的樣式是點線(dotted)破折線(dashed)，曲線總是顯示實線為。\[140\]
 11. `page-break-before; page-break-after` — 僅支援「`always`」與「`auto`」。
 
 ### WebKit屬性附註
 
 1.  `font` — 不支援讓設計師根據使用者作業系統呈現結果的系統字型關鍵字。
-2.  `font-weight` —
-    就算裝了一個字型的Light或Heavy/Black[字模](https://zh.wikipedia.org/wiki/字模 "wikilink")，僅Regular與Bold會被使用。
+2.  `font-weight` — 就算裝了一個字型的Light或Heavy/Black[字模](https://zh.wikipedia.org/wiki/字模 "wikilink")，僅Regular與Bold會被使用。
 3.  `page-break-before; page-break-after` — 僅支援「`always`」與「`auto`」。
 4.  `white-space` — 522之前，不支援「`pre-line`」與「`pre-wrap`」。
-5.  `visibility` —
-    522之前不支援「`collapse`」，這個值的實作跟「`hidden`」一樣，因此不合標準。\[141\]
-6.  `content` —
-    不支援「`none`」、「`open-quote`」、「`close-quote`」、「`no-open-quote`」、「`no-close-quote`」及「`normal`」，且此屬性不作用在一般元素（非擬元素），不符合《CSS
-    3 生成內容與取代內容模組》。
+5.  `visibility` — 522之前不支援「`collapse`」，這個值的實作跟「`hidden`」一樣，因此不合標準。\[141\]
+6.  `content` — 不支援「`none`」、「`open-quote`」、「`close-quote`」、「`no-open-quote`」、「`no-close-quote`」及「`normal`」，且此屬性不作用在一般元素（非擬元素），不符合《CSS 3 生成內容與取代內容模組》。
 7.  `font-size` — 「`font-size`」屬性不見得吃0這個值，就算用「font-size: 0px」，文字還是看得見。
 
 ### KHTML屬性附註
@@ -3752,12 +3725,10 @@ __TOC__
 1.  `counter-increment, counter-reset` — 使用推薦標準版本(CSS2)的演算法。
 2.  `background-position` — Presto在Opera 8.0以前的版本使用CSS2語法，非CSS2.1的擴充語法。
 3.  `font-weight` — 當取值為600顯示不正確，與以Trident為對象設計的網站兼容。
-4.  `visibility` —
-    2.5之前，在表格列裡不支援「`collapse`」這個值，在表格行裡，這個值呈現與「`hidden`」同樣的效果因此不合標準。
+4.  `visibility` — 2.5之前，在表格列裡不支援「`collapse`」這個值，在表格行裡，這個值呈現與「`hidden`」同樣的效果因此不合標準。
 5.  `cursor` — 「`cursor`」不支援動態擬類別，且不支援自定游標。
 6.  `content` — 不支援取值「`none`」。\[142\]
-7.  `font` —
-    不應該吃「`inherit`」跟一個「font-size」取值的情形，這應該被當作語法錯誤並丟棄，但Opera接受這種狀況。
+7.  `font` — 不應該吃「`inherit`」跟一個「font-size」取值的情形，這應該被當作語法錯誤並丟棄，但Opera接受這種狀況。
 
 ### Prince XML屬性附註
 
@@ -4016,7 +3987,7 @@ __TOC__
 </tr>
 <tr class="odd">
 <td><p><code>rgba(r, g, b, a)</code></p></td>
-<td><p><a href="../Page/RGBA.md" title="wikilink">RGBA記法</a></p></td>
+<td><p><a href="../Page/RGBA.md" title="wikilink">RGBA</a>記法</p></td>
 <td></td>
 <td><p>rowspan="4" </p></td>
 <td></td>
@@ -4421,7 +4392,7 @@ __TOC__
 </tr>
 <tr class="even">
 <td><p><code>ch</code></p></td>
-<td><p>從字型中抽出的該大小的「0」(ZERO, U+0030)的<a href="../Page/字形.md" title="wikilink">字形寬度</a></p></td>
+<td><p>從字型中抽出的該大小的「0」(ZERO, U+0030)的<a href="../Page/字形.md" title="wikilink">字形</a>寬度</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4444,61 +4415,48 @@ __TOC__
 
 1.  `transparent` —
     >
-    CSS1引入了「transparent」當作「background-color」的一個值。
-    CSS2開始允許「border-color」使用「transparent」。《Open eBook(tm)
-    Publication Structure
-    1.0.1》\[OEB101\]擴張了「color」屬性使其也吃關鍵字「transparent」。CSS3擴張了顏色的取值使其包含關鍵字「transparent」，使得所有吃<value>的屬性都可以使用這個值，這也簡化了這些屬性在CSS3的定義。
+    CSS1引入了「transparent」當作「background-color」的一個值。 CSS2開始允許「border-color」使用「transparent」。《Open eBook(tm) Publication Structure 1.0.1》\[OEB101\]擴張了「color」屬性使其也吃關鍵字「transparent」。CSS3擴張了顏色的取值使其包含關鍵字「transparent」，使得所有吃<value>的屬性都可以使用這個值，這也簡化了這些屬性在CSS3的定義。
     </blockquote>
 2.  <angle> — 不支援 `turn`。
 
 ### 取值與單位Trident附註
 
 1.  `rect()` — 8.0之前，不支援用逗號的正確語法。
-2.  `auto` — 在 [Quirks
-    mode](https://zh.wikipedia.org/wiki/Quirks_mode "wikilink")（IE5模擬模式），`auto`不作用在除了表格元素之外的`margin`屬性上。
+2.  `auto` — 在 [Quirks mode](https://zh.wikipedia.org/wiki/Quirks_mode "wikilink")（IE5模擬模式），`auto`不作用在除了表格元素之外的`margin`屬性上。
 3.  `transparent` — 設`color`屬性為`transparent`則字會呈現為黑色。
 4.  `transparent` — 7.0之前，不支援在邊框上的`transparent`（呈現為實心黑色），且在PNG圖像上被省略。
 
 ### 取值與單位Gecko附註
 
-1.  <ch> — 版本1.9.1之前，用「M」的[字形寬度](../Page/字形.md "wikilink")
-    而非「0」的字形寬度。\[160\]
+1.  <ch> — 版本1.9.1之前，用「M」的[字形](../Page/字形.md "wikilink")寬度 而非「0」的字形寬度。\[160\]
 
 ### 取值與單位Presto附註
 
-1.  <number> —
-    2.1之前，對於大於20.47的值曾有一個[量子化錯誤](https://zh.wikipedia.org/wiki/非交換幾何 "wikilink")（不只是`em`，其他非像素單位也一樣）。\[161\]
-2.  `transparent` — 當使用屬性
-    `outline-color`時此關鍵字會被忽略。版本2.2之前，同樣的情形也發生在屬性`color`及`text-shadow`。
+1.  <number> — 2.1之前，對於大於20.47的值曾有一個[量子化錯誤](https://zh.wikipedia.org/wiki/非交換幾何 "wikilink")（不只是`em`，其他非像素單位也一樣）。\[161\]
+2.  `transparent` — 當使用屬性 `outline-color`時此關鍵字會被忽略。版本2.2之前，同樣的情形也發生在屬性`color`及`text-shadow`。
 
 ## 一般附註
 
 ### 一般Trident附註
 
-1.  `-ms-` —
-    所有實驗中的選取器、屬性、值都有「-ms-」作為前輟。例如：是`-ms-interpolation-mode`而不是`interpolation-mode`。
+1.  `-ms-` — 所有實驗中的選取器、屬性、值都有「-ms-」作為前輟。例如：是`-ms-interpolation-mode`而不是`interpolation-mode`。
 
 ### 一般Gecko附註
 
-1.  `-moz-` —
-    所有實驗中的選取器、屬性、值都有「-moz-」作為前輟。例如：是`::-moz-selection`而不是`::selection`。
+1.  `-moz-` — 所有實驗中的選取器、屬性、值都有「-moz-」作為前輟。例如：是`::-moz-selection`而不是`::selection`。
 
 ### 一般WebKit附註
 
-1.  `-webkit-` —
-    所有實驗中的選取器、屬性、值都有「-webkit-」作為前輟。例如：是`-webkit-box-shadow`而不是`box-shadow`。
+1.  `-webkit-` — 所有實驗中的選取器、屬性、值都有「-webkit-」作為前輟。例如：是`-webkit-box-shadow`而不是`box-shadow`。
 
 ### 一般KHTML附註
 
-1.  `-khtml-` —
-    所有實驗中的選取器、屬性、值都有「-khtml-」作為前輟。例如：是`-khtml-opacity`而不是`opacity`。
+1.  `-khtml-` — 所有實驗中的選取器、屬性、值都有「-khtml-」作為前輟。例如：是`-khtml-opacity`而不是`opacity`。
 
 ### 一般Presto附註
 
-1.  `-o-` —
-    所有實驗中的選取器、屬性、值都有「-o-」作為前輟。例如：是`-o-transition-property`而不是`transition-property`。
-2.  `-xv-` —
-    所有實驗中的《CSS3口說模組(@@翻譯)》選取器、屬性、值都有「-o-」作為前輟。例如：是`-xv-voice-rate`而不是`voice-rate`。
+1.  `-o-` — 所有實驗中的選取器、屬性、值都有「-o-」作為前輟。例如：是`-o-transition-property`而不是`transition-property`。
+2.  `-xv-` — 所有實驗中的《CSS3口說模組(@@翻譯)》選取器、屬性、值都有「-o-」作為前輟。例如：是`-xv-voice-rate`而不是`voice-rate`。
 
 ### 瀏覽器自定樣式的DOM表現
 
@@ -4536,8 +4494,7 @@ __TOC__
   - [WebDevout](http://www.webdevout.net/browser-support-css)——以視窗瀏覽器的臭蟲測試為主要導向。
   - [Can I Use](http://caniuse.com/)——展示各大浏览器对HTML5、CSS3的支持程度。
   - [The CSS3 Test](http://css3test.com/)——测试各大浏览器对CSS3的支持程度。
-  - [Mozilla Developer
-    Network上面的CSS相关资料](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [Mozilla Developer Network上面的CSS相关资料](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 [Category:軟件比較](https://zh.wikipedia.org/wiki/Category:軟件比較 "wikilink")
 

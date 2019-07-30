@@ -37,11 +37,9 @@ Rh血型的频率和RhD-基因纯合子的频率在不同人群中是不同的�
 
 {{-}}
 
-[nl:Bloedgroep\#Het
-resusbloedgroepsysteem](https://zh.wikipedia.org/wiki/nl:Bloedgroep#Het_resusbloedgroepsysteem "wikilink")
+[nl:Bloedgroep\#Het resusbloedgroepsysteem](https://zh.wikipedia.org/wiki/nl:Bloedgroep#Het_resusbloedgroepsysteem "wikilink")
 
-[Category:血液](https://zh.wikipedia.org/wiki/Category:血液 "wikilink")
-[Category:血型系統](https://zh.wikipedia.org/wiki/Category:血型系統 "wikilink")
+[Category:血液](https://zh.wikipedia.org/wiki/Category:血液 "wikilink") [Category:血型系統](https://zh.wikipedia.org/wiki/Category:血型系統 "wikilink")
 
 1.
 2.

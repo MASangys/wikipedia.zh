@@ -1,33 +1,24 @@
-《**IS〈Infinite
-Stratos〉**》（），也称为《无限斯特拉托斯》，是[弓弦出著作的](../Page/弓弦出.md "wikilink")[日本](../Page/日本.md "wikilink")[轻小说系列](https://zh.wikipedia.org/wiki/轻小说 "wikilink")，曾因某些因素导致小说、漫画更换绘者，发行出版社变更為[Media
-Factory](../Page/Media_Factory.md "wikilink")，此版本[插画由](https://zh.wikipedia.org/wiki/插画 "wikilink")[okiura负责](https://zh.wikipedia.org/wiki/okiura "wikilink")，[OVERLAP新装版插画由](../Page/OVERLAP.md "wikilink")[CHOCO负责](https://zh.wikipedia.org/wiki/CHOCO "wikilink")。台湾中文版均由[尖端出版代理](../Page/尖端出版.md "wikilink")。
+《**IS〈Infinite Stratos〉**》（），也称为《无限斯特拉托斯》，是[弓弦出](../Page/弓弦出.md "wikilink")著作的[日本](../Page/日本.md "wikilink")[轻小说系列](https://zh.wikipedia.org/wiki/轻小说 "wikilink")，曾因某些因素导致小说、漫画更换绘者，发行出版社变更為[Media Factory](../Page/Media_Factory.md "wikilink")，此版本[插画由](https://zh.wikipedia.org/wiki/插画 "wikilink")[okiura负责](https://zh.wikipedia.org/wiki/okiura "wikilink")，[OVERLAP](../Page/OVERLAP.md "wikilink")新装版插画由[CHOCO负责](https://zh.wikipedia.org/wiki/CHOCO "wikilink")。台湾中文版均由[尖端出版](../Page/尖端出版.md "wikilink")代理。
 
 ## 概要
 
-  - 由[赤星健次作畫的漫畫版於](https://zh.wikipedia.org/wiki/赤星健次 "wikilink")2010年5月27日在《[月刊Comic
-    Alive](../Page/月刊Comic_Alive.md "wikilink")》7月號開始連載。
+  - 由[赤星健次作畫的漫畫版於](https://zh.wikipedia.org/wiki/赤星健次 "wikilink")2010年5月27日在《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》7月號開始連載。
 
-  - 動畫版於2011年1月在[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")、[BS-TBS開始播放](../Page/BS-TBS.md "wikilink")。並於2011年12月7日發售OVA
-    Blu-ray\&DVD 《IS[安可](../Page/安可.md "wikilink")「愛情戰火六重奏」》。\[1\]
+  - 動畫版於2011年1月在[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")開始播放。並於2011年12月7日發售OVA Blu-ray\&DVD 《IS[安可](../Page/安可.md "wikilink")「愛情戰火六重奏」》。\[1\]
 
   - 在日本，小說至第6卷為止累計銷售量達120萬本\[2\]。之後，小說至第7卷為止累計銷售量達135萬本。
 
-  - 本作《[MF文庫](https://zh.wikipedia.org/wiki/MF文庫 "wikilink")》版第7卷後未見續集，已停刷\[3\]、作者也自承出不了新刊\[4\]
-    ，《MF文庫J》10週年紀念亦排除本作\[5\]，無異宣告絕版。
+  - 本作《[MF文庫](https://zh.wikipedia.org/wiki/MF文庫 "wikilink")》版第7卷後未見續集，已停刷\[3\]、作者也自承出不了新刊\[4\] ，《MF文庫J》10週年紀念亦排除本作\[5\]，無異宣告絕版。
 
-  - 2012年6月，作者宣布跳槽到[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")\[6\]，宣佈與新作並行執筆本作品\[7\]。另外，[Media
-    Factory已於](../Page/Media_Factory.md "wikilink")2012年2月28日完成原作商標讓渡。\[8\]
+  - 2012年6月，作者宣布跳槽到[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")\[6\]，宣佈與新作並行執筆本作品\[7\]。另外，[Media Factory已於](../Page/Media_Factory.md "wikilink")2012年2月28日完成原作商標讓渡。\[8\]
 
-  - 2012年11月30日，動畫官網[Twitter宣佈再啟動](../Page/Twitter.md "wikilink")，由與Media
-    Factory協力關係密切的[OVERLAP出面參加](../Page/OVERLAP.md "wikilink")[Comic
-    Market](../Page/Comic_Market.md "wikilink")
-    83並販售原創商品\[9\]，作品商標也跟先前不同。
+  - 2012年11月30日，動畫官網[Twitter](../Page/Twitter.md "wikilink")宣佈再啟動，由與Media Factory協力關係密切的[OVERLAP](../Page/OVERLAP.md "wikilink")出面參加[Comic Market](../Page/Comic_Market.md "wikilink") 83並販售原創商品\[9\]，作品商標也跟先前不同。
 
   - 2012年12月29日，OVERLAP宣布成立，預定出IS原作小說新裝版，插畫家改為[CHOCO](https://zh.wikipedia.org/wiki/CHOCO "wikilink")，原作商標亦一併更換。
 
   - 2013年4月8日，OVERLAP開設《OVERLAP文庫》創刊紀念活動特設網站，卻不慎洩露決定製作電視動畫新作的消息，之後修正。\[10\]同年4月20日正式宣佈。
 
-  - 2013年8月16日，作者應[尖端出版邀請來](../Page/尖端出版.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，在[漫畫博覽會首度舉辦簽名會](https://zh.wikipedia.org/wiki/漫畫博覽會 "wikilink")，並接受[台灣媒體聯訪](../Page/台灣媒體.md "wikilink")，透露未來將設定以台灣為形象的《IS》女性角色\[11\]。
+  - 2013年8月16日，作者應[尖端出版](../Page/尖端出版.md "wikilink")邀請來[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，在[漫畫博覽會首度舉辦簽名會](https://zh.wikipedia.org/wiki/漫畫博覽會 "wikilink")，並接受[台灣媒體](../Page/台灣媒體.md "wikilink")聯訪，透露未來將設定以台灣為形象的《IS》女性角色\[11\]。
 
 ## 故事簡介
 
@@ -39,14 +30,11 @@ Factory](../Page/Media_Factory.md "wikilink")，此版本[插画由](https://zh.
 
 ## IS設定
 
-IS正式名稱是“Infinite
-Stratos”。以宇宙活動為目的製作的多功能太空服，使用[反作用力力翼](https://zh.wikipedia.org/wiki/反作用力 "wikilink")、流動波的干涉等理論，所有IS皆可漂浮於空中。在“[白騎士事件](https://zh.wikipedia.org/wiki/#白事件 "wikilink")”展露出壓倒性的兵器性能後，轉變為軍事用的飛行強化服，成為各國軍事力量的指標\[12\]。目前有1～4世代版本\[13\]。
+IS正式名稱是“Infinite Stratos”。以宇宙活動為目的製作的多功能太空服，使用[反作用力力翼](https://zh.wikipedia.org/wiki/反作用力 "wikilink")、流動波的干涉等理論，所有IS皆可漂浮於空中。在“[白騎士事件](https://zh.wikipedia.org/wiki/#白事件 "wikilink")”展露出壓倒性的兵器性能後，轉變為軍事用的飛行強化服，成為各國軍事力量的指標\[12\]。目前有1～4世代版本\[13\]。
 
 IS有許多謎團。特別是相當於心臟部分的IS核心的技術，除了已知會自我進化外全部沒有公開，完全是[黑箱狀態](https://zh.wikipedia.org/wiki/黑箱 "wikilink")。另外，因為不明的原因，除了織斑一夏外，只有女性能使用IS。\[14\]
 
-因唯一能製作IS核心的篠之之束博士停止製造的緣故，IS的總機數固定在467架（實際上指登入進國際IS機構的核心數量，實際數量不明），要製造新機型必須將舊機體解體、核心初始化。\[15\]在小說第3本中的第3話—「站在條那境界線上」—（Thin
-Red
-Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而其餘145架就是供給各國研究機關或企業做為研究開發之用。而這些地方所研發出的許多實驗機體都交給IS學園的專用機持有者使用。在IS學園裡面計上教師使用機，訓練機以及專用機就佔了467架中的30架。而一夏等人入讀的一年級裡面，有專用機的人就有5人以上，以前最多似乎也只有3人。而專用機之所以有這麼多人在一年級，似乎是因為第三世代專用機持有者原本就設定得比較多、和世界出現了「全世界唯一可以使用IS的男性」織斑一夏，這使各國也紛紛動作頻頻。
+因唯一能製作IS核心的篠之之束博士停止製造的緣故，IS的總機數固定在467架（實際上指登入進國際IS機構的核心數量，實際數量不明），要製造新機型必須將舊機體解體、核心初始化。\[15\]在小說第3本中的第3話—「站在條那境界線上」—（Thin Red Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而其餘145架就是供給各國研究機關或企業做為研究開發之用。而這些地方所研發出的許多實驗機體都交給IS學園的專用機持有者使用。在IS學園裡面計上教師使用機，訓練機以及專用機就佔了467架中的30架。而一夏等人入讀的一年級裡面，有專用機的人就有5人以上，以前最多似乎也只有3人。而專用機之所以有這麼多人在一年級，似乎是因為第三世代專用機持有者原本就設定得比較多、和世界出現了「全世界唯一可以使用IS的男性」織斑一夏，這使各國也紛紛動作頻頻。
 
 ### IS世代
 
@@ -72,8 +60,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
   -
     指IS操縱者的精神與IS同步到最高境界時所能發揮的特殊能力，每一架IS的能力都不一樣。一般在機體進化到第二形態後才會出現，但沒出現此能力的IS佔壓倒性的多數。白式與紅椿這兩架機體則完全是特例，在第一形態就能發動。\[21\]
   - <span id="VT">
-    即「[女武神回溯系統](../Page/女武神.md "wikilink")（Valkyrie Trace System）」
-    在阿拉斯加條約中規定禁止任何國家、企業和組織進行研究。此系統裡搭載著過去世界大賽各部門優勝者的動作紀錄。小說第二卷中，[黑雨就是因為這系統而暴走](https://zh.wikipedia.org/wiki/#黑 "wikilink")，模擬出織班千冬的外貌和劍術招式。\[22\]
+    即「[女武神](../Page/女武神.md "wikilink")回溯系統（Valkyrie Trace System）」 在阿拉斯加條約中規定禁止任何國家、企業和組織進行研究。此系統裡搭載著過去世界大賽各部門優勝者的動作紀錄。小說第二卷中，[黑雨就是因為這系統而暴走](https://zh.wikipedia.org/wiki/#黑 "wikilink")，模擬出織班千冬的外貌和劍術招式。\[22\]
   -
     白式（第一型態）的雪片貳式和紅椿的全身裝甲使用的第四世代IS裝備，可對應攻擊、防禦、機動等需要進行切換，例如白式（第二型態）的雪羅就具有巨爪（格鬥）、粒子炮（射擊）和盾牌（防禦）三種型態。\[23\]
 
@@ -85,8 +72,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <!-- end list -->
 
   -
-    聯合國正在開發的動力裝甲。全稱Extended Operation
-    Seeker，其主要目的是用於災害時的救援行動，或者是維和行動之類。其被設想了各種各樣的用途。
+    聯合國正在開發的動力裝甲。全稱Extended Operation Seeker，其主要目的是用於災害時的救援行動，或者是維和行動之類。其被設想了各種各樣的用途。
 
 ## 登場IS
 
@@ -95,7 +81,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 國家或企業代表以及代表候補生才會有的專用機體。為了能夠讓操縱者可以順利的、完全的使用，因此採量身訂做，以發揮IS本身的全力。一夏和箒因身分特殊，也擁有自己的專用機。
 
   - <span id="白">
-    一夏的第四世代IS。近戰格鬥特化型機體，專門為這位「全世界唯一能操縱IS的男人」所準備的。原型為日本的IS企業所製作，但因無法啟動而廢棄，後經由篠之之束博士改造。由於「零落白夜」這項能力的關係，經常會發生能源不足的問題，算是台缺陷機。\[25\]
+    一夏的第三世代IS。近戰格鬥特化型機體，專門為這位「全世界唯一能操縱IS的男人」所準備的。原型為日本的IS企業所製作，但因無法啟動而廢棄，後經由篠之之束博士改造。由於「零落白夜」這項能力的關係，經常會發生能源不足的問題，算是台缺陷機。\[25\]
     進化到第二形態後，背後裝備四台大型翼狀推進器，可以做出二段瞬時加速，而且充電時間只需要原本的三分之二，最快速度增加50%，左手追加新武器「雪羅」，並具有治療操縱者傷勢的能力，但能量消耗比第一型態還嚴重。\[26\]\[27\]
     核心編號001，是從做為世界上第一台IS的「白騎士」移植而來。\[28\]
     **One-off ability：**「」
@@ -197,8 +183,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 
   - <span id="疾">
     夏洛特的第二世代IS，使用「[疾風・里凡穆](https://zh.wikipedia.org/wiki/#疾原 "wikilink")」修改而來。移除大部份裝備、只保留幾項基本裝備，使擴充槽增加為原本的兩倍，能收納多達20件的[套件](https://zh.wikipedia.org/wiki/#Package "wikilink")。\[55\]
-    本機安裝大量實體武器，配合操縱者夏洛特的特殊技能「高速切換」與戰技「沙漠幻影 （ミラージュ・デ・デザート ／ Mirage de
-    Désert）」，能徹底展現「靈活運用大量套件對應各種戰況」的設計初衷，為目前最強等級的第二世代IS。\[56\]
+    本機安裝大量實體武器，配合操縱者夏洛特的特殊技能「高速切換」與戰技「沙漠幻影 （ミラージュ・デ・デザート ／ Mirage de Désert）」，能徹底展現「靈活運用大量套件對應各種戰況」的設計初衷，為目前最強等級的第二世代IS。\[56\]
     **主要武器：**
       -
         「麵包切片器」：
@@ -207,8 +192,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
         「風」（仿製 [TAR-21突擊步槍](../Page/IMI_TAR-21突擊步槍.md "wikilink")）：
           -
             55口徑突擊步槍，標準規格彈匣的容量為16發子彈。
-        「[加姆](https://zh.wikipedia.org/wiki/加姆 "wikilink")」（仿製 [FN
-        P90衝鋒槍](../Page/FN_P90衝鋒槍.md "wikilink")）：
+        「[加姆](https://zh.wikipedia.org/wiki/加姆 "wikilink")」（仿製 [FN P90衝鋒槍](../Page/FN_P90衝鋒槍.md "wikilink")）：
           -
             61口徑衝鋒槍。
         「星期六之雨」：
@@ -216,8 +200,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
             62口徑霰彈槍，本機配備兩把此型號的槍械。
         「灰色鱗殼」：
           -
-            69口徑左輪衝樁機，通稱「護盾殺手（Shield Pierce）」-
-            隱藏在盾牌內的最後王牌。前半段結構類似破碎鎬、後半段結構類似左輪手槍，能透過後半段的轉輪結構快速更換發射藥包來實現連續打擊。\[58\]
+            69口徑左輪衝樁機，通稱「護盾殺手（Shield Pierce）」- 隱藏在盾牌內的最後王牌。前半段結構類似破碎鎬、後半段結構類似左輪手槍，能透過後半段的轉輪結構快速更換發射藥包來實現連續打擊。\[58\]
         「沙漠之狐」：
           -
             五九口徑重機關槍。
@@ -253,8 +236,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
             黑雨的主力武裝，80口徑的大口徑磁軌砲。\[67\]
         「慣性停止結界」：
           -
-            正式名稱為「Active Inertial
-            Canceller（簡稱AIC）」的特殊領域，可以強行停止砲彈、空間壓縮兵器、甚至是目標IS的一切肢體動作，但必須把意識集中在欲停止的目標上才能保持效果。\[68\]
+            正式名稱為「Active Inertial Canceller（簡稱AIC）」的特殊領域，可以強行停止砲彈、空間壓縮兵器、甚至是目標IS的一切肢體動作，但必須把意識集中在欲停止的目標上才能保持效果。\[68\]
     **其他武器：**
       -
         「VT系統」：
@@ -305,8 +287,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <!-- end list -->
 
   -
-    德國開發的的第三世代型IS，「黑雨」的姐妹機，機體名「Schwarzer
-    Zweig」為德文的「黑枝」之義，已被部署於德國的特殊部隊中。\[78\]
+    德國開發的的第三世代型IS，「黑雨」的姐妹機，機體名「Schwarzer Zweig」為德文的「黑枝」之義，已被部署於德國的特殊部隊中。\[78\]
 
 ### 亡國機業
 
@@ -446,8 +427,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 ### 漫畫版
 
   - IS〈Infinite Stratos〉
-    作畫：[赤星健次](https://zh.wikipedia.org/wiki/赤星健次 "wikilink")，在2010年7月號的《[月刊Comic
-    Alive](../Page/月刊Comic_Alive.md "wikilink")》開始連載（正式連載2010年8月號）。從第3話（連載第4回）開始，由[Zengo\!協力製作構成](https://zh.wikipedia.org/wiki/Zengo! "wikilink")。全5卷。
+    作畫：[赤星健次](https://zh.wikipedia.org/wiki/赤星健次 "wikilink")，在2010年7月號的《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》開始連載（正式連載2010年8月號）。從第3話（連載第4回）開始，由[Zengo\!協力製作構成](https://zh.wikipedia.org/wiki/Zengo! "wikilink")。全5卷。
 
 <table>
 <thead>
@@ -492,8 +472,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 </table>
 
   - IS！
-    作畫：[今拓人](https://zh.wikipedia.org/wiki/今拓人 "wikilink")，其[四格漫畫在](../Page/四格漫畫.md "wikilink")2011年2月號的《月刊Comic
-    Alive》上開始連載。
+    作畫：[今拓人](https://zh.wikipedia.org/wiki/今拓人 "wikilink")，其[四格漫畫](../Page/四格漫畫.md "wikilink")在2011年2月號的《月刊Comic Alive》上開始連載。
 
 <table>
 <thead>
@@ -519,8 +498,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 </table>
 
   - IS〈Infinite Stratos〉
-    作畫：[結城焰](https://zh.wikipedia.org/wiki/結城焰 "wikilink")，**新漫畫版**在2013年6月號[小學館的](../Page/小學館.md "wikilink")《[月刊Sunday
-    Gene-X](../Page/月刊Sunday_Gene-X.md "wikilink")》雜誌重新開始連載。
+    作畫：[結城焰](https://zh.wikipedia.org/wiki/結城焰 "wikilink")，**新漫畫版**在2013年6月號[小學館](../Page/小學館.md "wikilink")的《[月刊Sunday Gene-X](../Page/月刊Sunday_Gene-X.md "wikilink")》雜誌重新開始連載。
 
 <table>
 <thead>
@@ -620,41 +598,35 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 
 ## 電視動畫
 
-2011年1月到3月底間由[TBS](../Page/TBS.md "wikilink")、[BS-TBS播放](../Page/BS-TBS.md "wikilink")。全12話。海外版均收錄OVA《IS安可「愛情戰火六重奏」》。
+2011年1月到3月底間由[TBS](../Page/TBS.md "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")播放。全12話。海外版均收錄OVA《IS安可「愛情戰火六重奏」》。
 
-第二季動畫於2013年10月3日深夜1點58分在[TBS電視台開播](../Page/TBS.md "wikilink")，名称为。
+第二季動畫於2013年10月3日深夜1點58分在[TBS](../Page/TBS.md "wikilink")電視台開播，名称为。
 
 ### 製作人員
 
   - 原作 - [弓弦出](../Page/弓弦出.md "wikilink")
-  - 角色原案 -
-    [okiura](https://zh.wikipedia.org/wiki/okiura "wikilink")、[CHOCO](https://zh.wikipedia.org/wiki/CHOCO "wikilink")（第2季）
+  - 角色原案 - [okiura](https://zh.wikipedia.org/wiki/okiura "wikilink")、[CHOCO](https://zh.wikipedia.org/wiki/CHOCO "wikilink")（第2季）
   - 監督 - [菊地康仁](../Page/菊地康仁.md "wikilink")
   - 系列指導 - 登坂晋（第2季）
-  - 系列構成、劇本 -
-    [志茂文彦](https://zh.wikipedia.org/wiki/志茂文彦 "wikilink")（第1季）→弓弦出·Infinite
-    Staff（第2季）
+  - 系列構成、劇本 - [志茂文彦](https://zh.wikipedia.org/wiki/志茂文彦 "wikilink")（第1季）→弓弦出·Infinite Staff（第2季）
   - 腳本 - 富岡淳廣、北条千夏
   - 角色設計 - 倉嶋丈康（第1季）、堀井久美（第2季）
   - 副角色設計 - 清水空翔（第2季）
   - 總作畫監督 - 清水空翔、西澤真也（第2季）
-  - 機械設計 -
-    高倉武史、[麥谷興一](https://zh.wikipedia.org/wiki/CHOCO "wikilink")（第2季）
+  - 機械設計 - 高倉武史、[麥谷興一](https://zh.wikipedia.org/wiki/CHOCO "wikilink")（第2季）
   - CGI指導 - 井野元英二
   - 美術監督 - 吉原俊一郎
   - 美術設定 - 鹽澤良憲
   - 色彩設計 - 中山久美子→村上智美（第2季）
   - 攝影監督 - 荒幡和也→田中恒嗣（第2季）
   - 編輯 - 木村佳史子
-  - 音響監督 -
-    [中嶋聰彦](https://zh.wikipedia.org/wiki/中嶋聰彦 "wikilink")、[三間雅文](../Page/三間雅文.md "wikilink")（第1季）
+  - 音響監督 - [中嶋聰彦](https://zh.wikipedia.org/wiki/中嶋聰彦 "wikilink")、[三間雅文](../Page/三間雅文.md "wikilink")（第1季）
   - 音樂 - [七瀨光](../Page/伊藤真澄.md "wikilink")
   - \-{制}-片人
       - 第1季 - 岩崎篤史、田中豪、金田一健、小池克實、高橋直美、土井美佳
       - 第2季 - 岩崎篤史、田中豪、櫻井優香、石塚正俊
   - 動畫-{制}-作 - [8bit](../Page/8bit.md "wikilink")
-  - 製作協力 - [Media
-    Factory](../Page/Media_Factory.md "wikilink")（第1季）→OVERLAP（第2季）、[Lantis](../Page/Lantis.md "wikilink")、8bit、索尼音樂傳播
+  - 製作協力 - [Media Factory](../Page/Media_Factory.md "wikilink")（第1季）→OVERLAP（第2季）、[Lantis](../Page/Lantis.md "wikilink")、8bit、索尼音樂傳播
   - 製作 - Project IS、[TBS](../Page/TBS.md "wikilink")
 
 ### 主題曲
@@ -717,7 +689,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 
 ### 各話列表
 
-譯名以[普威爾國際為主](../Page/普威爾國際.md "wikilink")。
+譯名以[普威爾國際](../Page/普威爾國際.md "wikilink")為主。
 
 <table>
 <thead>
@@ -1223,17 +1195,14 @@ BS數碼放送</p></td>
 
 <!-- end list -->
 
-  - 使用平台：[PlayStation 3](../Page/PlayStation_3.md "wikilink")
-    及[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")
+  - 使用平台：[PlayStation 3](../Page/PlayStation_3.md "wikilink") 及[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")
   - 發售日期：2014年2月27日
 
 <!-- end list -->
 
   -
     類型：戀愛攻略冒險遊戲
-    本作发售有限定特典版、預約特典版及通常版三个版本。限定特典版附送夏洛特·迪諾亞睡衣白貓SD
-    Figure及遊戲原聲帶CD，預約特典版中PS3版是「女主角們只穿浴巾的換裝用序號」而PS
-    Vita版則是「女主角們泳裝的換裝用序號」，設外三个版本中都有早期封入特典一張篠之之箒的Fiveqross角色遊戲卡。
+    本作发售有限定特典版、預約特典版及通常版三个版本。限定特典版附送夏洛特·迪諾亞睡衣白貓SD Figure及遊戲原聲帶CD，預約特典版中PS3版是「女主角們只穿浴巾的換裝用序號」而PS Vita版則是「女主角們泳裝的換裝用序號」，設外三个版本中都有早期封入特典一張篠之之箒的Fiveqross角色遊戲卡。
 
 <!-- end list -->
 
@@ -1241,8 +1210,7 @@ BS數碼放送</p></td>
 
 <!-- end list -->
 
-  - 使用平台：[Personal
-    Computer](https://zh.wikipedia.org/wiki/Personal_Computer "wikilink")
+  - 使用平台：[Personal Computer](https://zh.wikipedia.org/wiki/Personal_Computer "wikilink")
   - 發售日期：2014年12月
 
 <!-- end list -->
@@ -1281,48 +1249,18 @@ BS數碼放送</p></td>
   - \[<http://over-lap.co.jp/bunko/>　OVL文庫官方網站\]
       - [IS特設網站](https://web.archive.org/web/20140104021949/http://over-lap.co.jp/IS/)（2014年1月4天存檔內容）
   - [月刊ComicAlive官方網站](http://www.mediafactory.co.jp/comic-alive/index.php)
-  - [IS〈Infinite
-    Stratos〉動畫官方網站（TBS内）](http://www.tbs.co.jp/anime/is/index-j.html)
-  - [IS〈Infinite
-    Stratos〉2動畫官方網站（TBS内）](http://www.tbs.co.jp/anime/is2/index-j.html)
+  - [IS〈Infinite Stratos〉動畫官方網站（TBS内）](http://www.tbs.co.jp/anime/is/index-j.html)
+  - [IS〈Infinite Stratos〉2動畫官方網站（TBS内）](http://www.tbs.co.jp/anime/is2/index-j.html)
       -
       -
   - [Lantis網路廣播](https://web.archive.org/web/20140422184319/http://lantis-net.com/is/)
-  - [PS3 / Vita IS〈Infinite Stratos〉2 Ignition
-    Hearts](http://5pb.jp/games/is2/)
-  - [Personal Computer IS〈Infinite Stratos〉Versus
-    Colors](http://5pb.jp/games/isvc/)
-  - [PS3 / Vita IS〈Infinite Stratos〉2 Love and
-    Purge](http://5pb.jp/games/is2lp/)
+  - [PS3 / Vita IS〈Infinite Stratos〉2 Ignition Hearts](http://5pb.jp/games/is2/)
+  - [Personal Computer IS〈Infinite Stratos〉Versus Colors](http://5pb.jp/games/isvc/)
+  - [PS3 / Vita IS〈Infinite Stratos〉2 Love and Purge](http://5pb.jp/games/is2lp/)
   - [无限斯特拉托斯2 搜狐视频独播专区](http://tv.sohu.com/s2013/is2/)
   - [无限斯特拉托斯2 OVA 搜狐视频独播专区](http://tv.sohu.com/s2014/is2ova/)
 
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
-[Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink")
-[Category:愛情小說](https://zh.wikipedia.org/wiki/Category:愛情小說 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
-[Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")
-[Category:2011年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年TBS電視網動畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:科幻作品](https://zh.wikipedia.org/wiki/Category:科幻作品 "wikilink")
-[Category:孤兒題材小說](https://zh.wikipedia.org/wiki/Category:孤兒題材小說 "wikilink")
-[Category:動力服題材作品](https://zh.wikipedia.org/wiki/Category:動力服題材作品 "wikilink")
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:架空專校背景作品](https://zh.wikipedia.org/wiki/Category:架空專校背景作品 "wikilink")
-[Category:反烏托邦小說](https://zh.wikipedia.org/wiki/Category:反烏托邦小說 "wikilink")
-[Category:反烏托邦題材漫畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材漫畫 "wikilink")
-[Category:反烏托邦題材動畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材動畫 "wikilink")
-[Category:2013年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年TBS電視網動畫 "wikilink")
-[Category:2014年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2014年日本OVA動畫 "wikilink")
-[Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:反乌托邦游戏](https://zh.wikipedia.org/wiki/Category:反乌托邦游戏 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink") [Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink") [Category:愛情小說](https://zh.wikipedia.org/wiki/Category:愛情小說 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink") [Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink") [Category:2011年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年TBS電視網動畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:科幻作品](https://zh.wikipedia.org/wiki/Category:科幻作品 "wikilink") [Category:孤兒題材小說](https://zh.wikipedia.org/wiki/Category:孤兒題材小說 "wikilink") [Category:動力服題材作品](https://zh.wikipedia.org/wiki/Category:動力服題材作品 "wikilink") [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:架空專校背景作品](https://zh.wikipedia.org/wiki/Category:架空專校背景作品 "wikilink") [Category:反烏托邦小說](https://zh.wikipedia.org/wiki/Category:反烏托邦小說 "wikilink") [Category:反烏托邦題材漫畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材漫畫 "wikilink") [Category:反烏托邦題材動畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材動畫 "wikilink") [Category:2013年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年TBS電視網動畫 "wikilink") [Category:2014年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2014年日本OVA動畫 "wikilink") [Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:反乌托邦游戏](https://zh.wikipedia.org/wiki/Category:反乌托邦游戏 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 
@@ -1429,8 +1367,7 @@ BS數碼放送</p></td>
 
 91. 第12話
 
-92. 动漫论坛 -
-    STAGE1|url=<http://bbs.saraba1st.com/2b/read.php?tid=732283&page=4#16354014>}}
+92. 动漫论坛 - STAGE1|url=<http://bbs.saraba1st.com/2b/read.php?tid=732283&page=4#16354014>}}
 
 93.
 

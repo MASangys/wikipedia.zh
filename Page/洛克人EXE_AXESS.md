@@ -1,5 +1,4 @@
-《**洛克人EXE
-AXESS**》（）是[洛克人EXE系列的第二部電視動畫](../Page/洛克人EXE系列.md "wikilink")，在2003年10月4日到2004年9月25日播放全51話。香港無線電視把動畫名稱譯為**《熱斗洛克人》**，香港首播在2005年12月22日。
+《**洛克人EXE AXESS**》（）是[洛克人EXE系列](../Page/洛克人EXE系列.md "wikilink")的第二部電視動畫，在2003年10月4日到2004年9月25日播放全51話。香港無線電視把動畫名稱譯為**《熱斗洛克人》**，香港首播在2005年12月22日。
 
 ## 故事概要
 
@@ -27,8 +26,7 @@ AXESS**》（）是[洛克人EXE系列的第二部電視動畫](../Page/洛克�
   - 動畫製作人- 千野孝敏
   - 製片人 - 紅谷佳和、宮澤秀典
   - 動畫製作 - XEBEC
-  - 製作 -
-    [東京電視台](../Page/東京電視台.md "wikilink")、[小學館集英社製作](../Page/小學館集英社製作.md "wikilink")
+  - 製作 - [東京電視台](../Page/東京電視台.md "wikilink")、[小學館集英社製作](../Page/小學館集英社製作.md "wikilink")
 
 ## 主題曲
 
@@ -603,9 +601,4 @@ AXESS**》（）是[洛克人EXE系列的第二部電視動畫](../Page/洛克�
   - [洛克人AXESS官方網站](http://www.tv-tokyo.co.jp/anime/rockmanexe_axess/)
   - [洛克人AXESS中文官方網站](http://www.e-muse.com.tw/property/rockman/introduction/2006/index.html)
 
-[Category:2003年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2003年東京電視網動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
-[Category:洛克人EXE系列](https://zh.wikipedia.org/wiki/Category:洛克人EXE系列 "wikilink")
+[Category:2003年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2003年東京電視網動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink") [Category:洛克人EXE系列](https://zh.wikipedia.org/wiki/Category:洛克人EXE系列 "wikilink")

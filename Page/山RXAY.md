@@ -16,7 +16,4 @@
 | [陳啟峻](https://zh.wikipedia.org/wiki/陳啟峻 "wikilink") | 二哥     |              | 第3集      |
 |                                                     |        |              |          |
 
-[Category:2012年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2012年台灣電視劇集 "wikilink")
-[Category:大愛電視劇](https://zh.wikipedia.org/wiki/Category:大愛電視劇 "wikilink")
-[Category:台灣原住民題材作品](https://zh.wikipedia.org/wiki/Category:台灣原住民題材作品 "wikilink")
-[Category:山題材作品](https://zh.wikipedia.org/wiki/Category:山題材作品 "wikilink")
+[Category:2012年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2012年台灣電視劇集 "wikilink") [Category:大愛電視劇](https://zh.wikipedia.org/wiki/Category:大愛電視劇 "wikilink") [Category:台灣原住民題材作品](https://zh.wikipedia.org/wiki/Category:台灣原住民題材作品 "wikilink") [Category:山題材作品](https://zh.wikipedia.org/wiki/Category:山題材作品 "wikilink")

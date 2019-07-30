@@ -1,9 +1,6 @@
-《**crossroad**》（歧路）
-為[日本歌手](../Page/日本.md "wikilink")[濱崎步發行的第](../Page/濱崎步.md "wikilink")49張單曲，50單曲三連發計畫的第二張單曲，2010年9月22日於日本發售，同月24日於台灣發售。
+《**crossroad**》（歧路） 為[日本](../Page/日本.md "wikilink")歌手[濱崎步](../Page/濱崎步.md "wikilink")發行的第49張單曲，50單曲三連發計畫的第二張單曲，2010年9月22日於日本發售，同月24日於台灣發售。
 
-2002年與[KEIKO的合作單曲](https://zh.wikipedia.org/wiki/KEIKO "wikilink")《[a
-song is
-born](https://zh.wikipedia.org/wiki/a_song_is_born "wikilink")》是濱崎步首次與小室哲哉的合作，而這張單曲則是濱崎步首次以個人身分邀請[小室哲哉合作的單曲](../Page/小室哲哉.md "wikilink")。七萬的銷量使得這張單曲登上公信榜冠軍，同時與[松田聖子的](../Page/松田聖子.md "wikilink")24張連續冠軍單曲紀錄齊名，一週後《[L](../Page/L_\(濱崎步單曲\).md "wikilink")》的發行，則突破了這個紀錄。
+2002年與[KEIKO的合作單曲](https://zh.wikipedia.org/wiki/KEIKO "wikilink")《[a song is born](https://zh.wikipedia.org/wiki/a_song_is_born "wikilink")》是濱崎步首次與小室哲哉的合作，而這張單曲則是濱崎步首次以個人身分邀請[小室哲哉](../Page/小室哲哉.md "wikilink")合作的單曲。七萬的銷量使得這張單曲登上公信榜冠軍，同時與[松田聖子](../Page/松田聖子.md "wikilink")的24張連續冠軍單曲紀錄齊名，一週後《[L](../Page/L_\(濱崎步單曲\).md "wikilink")》的發行，則突破了這個紀錄。
 
 ## 收錄歌曲
 
@@ -21,8 +18,7 @@ born](https://zh.wikipedia.org/wiki/a_song_is_born "wikilink")》是濱崎步首
       -
         作曲：小室哲哉／編曲：CMJK／作詞：小室光子
         翻唱自[TM NETWORK](../Page/TM_NETWORK.md "wikilink")
-3.  **[blossom](https://zh.wikipedia.org/wiki/MOON/blossom "wikilink")
-    (Clockwork yellow remix)**
+3.  **[blossom](https://zh.wikipedia.org/wiki/MOON/blossom "wikilink") (Clockwork yellow remix)**
 4.  **crossroad (Original mix -Instrumental-)**
 5.  **SEVEN DAYS WAR (Original mix -Instrumental-)**
 
@@ -45,8 +41,7 @@ born](https://zh.wikipedia.org/wiki/a_song_is_born "wikilink")》是濱崎步首
 1.  **crossroad (Original mix)**
 2.  **SEVEN DAYS WAR (Original mix)**
 3.  **blossom (Clockwork yellow remix)**
-4.  **[MOON](https://zh.wikipedia.org/wiki/MOON/blossom "wikilink")
-    (Orchestra version)**
+4.  **[MOON](https://zh.wikipedia.org/wiki/MOON/blossom "wikilink") (Orchestra version)**
 5.  **crossroad (Original mix -Instrumental-)**
 6.  **SEVEN DAYS WAR (Original mix -Instrumental-)**
 
@@ -76,9 +71,4 @@ born](https://zh.wikipedia.org/wiki/a_song_is_born "wikilink")》是濱崎步首
 
 <references/>
 
-[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:翻唱歌曲](https://zh.wikipedia.org/wiki/Category:翻唱歌曲 "wikilink")
-[Category:2010年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:小室哲哉創作的詞曲](https://zh.wikipedia.org/wiki/Category:小室哲哉創作的詞曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
+[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:翻唱歌曲](https://zh.wikipedia.org/wiki/Category:翻唱歌曲 "wikilink") [Category:2010年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon單曲週榜冠軍作品 "wikilink") [Category:小室哲哉創作的詞曲](https://zh.wikipedia.org/wiki/Category:小室哲哉創作的詞曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")

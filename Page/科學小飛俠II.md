@@ -108,13 +108,9 @@
   - [科學小飛俠](../Page/科學小飛俠.md "wikilink")
   - [科學小飛俠Crowds](../Page/科學小飛俠Crowds.md "wikilink")
 
-[Category:1978年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1978年日本電視動畫 "wikilink")
-[Category:忍者動畫](https://zh.wikipedia.org/wiki/Category:忍者動畫 "wikilink")
+[Category:1978年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1978年日本電視動畫 "wikilink") [Category:忍者動畫](https://zh.wikipedia.org/wiki/Category:忍者動畫 "wikilink")
 
 [Category:科學小飛俠](https://zh.wikipedia.org/wiki/Category:科學小飛俠 "wikilink")
 
-1.  [Kagaku Ninja-Tai Gatchaman II
-    (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1219)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+1.  [Kagaku Ninja-Tai Gatchaman II (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1219)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [科学忍者隊ガッチャマンⅡ](http://nendai-ryuukou.com/1970/anime/033.html)年代流行

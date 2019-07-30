@@ -1,7 +1,4 @@
-《**海貓悲鳴時散 episode8 - Twilight of the golden
-witch**》是[日本](../Page/日本.md "wikilink")[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th
-Expansion所製作的同人遊戲](../Page/07th_Expansion.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》的第八作和該系列的完結篇\[1\]。遊戲於2010年冬季的Comic
-Market79發表。
+《**海貓悲鳴時散 episode8 - Twilight of the golden witch**》是[日本](../Page/日本.md "wikilink")[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th Expansion所製作的同人遊戲](../Page/07th_Expansion.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》的第八作和該系列的完結篇\[1\]。遊戲於2010年冬季的Comic Market79發表。
 
 ## 概要
 
@@ -13,8 +10,7 @@ Market79發表。
 
 ## 漫畫
 
-《海貓悲鳴時散 Episode8 - Twilight of the golden
-witch》（作畫：[夏海慧](../Page/夏海慧.md "wikilink")）
+《海貓悲鳴時散 Episode8 - Twilight of the golden witch》（作畫：[夏海慧](../Page/夏海慧.md "wikilink")）
 
 ## TIPS
 
@@ -28,8 +24,6 @@ witch》（作畫：[夏海慧](../Page/夏海慧.md "wikilink")）
 
   - [海貓悲鳴時官方網站](http://07th-expansion.net/umi/Main.htm)
 
-[Category:海貓悲鳴時](https://zh.wikipedia.org/wiki/Category:海貓悲鳴時 "wikilink")
-[Category:恐怖漫畫](https://zh.wikipedia.org/wiki/Category:恐怖漫畫 "wikilink")
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
+[Category:海貓悲鳴時](https://zh.wikipedia.org/wiki/Category:海貓悲鳴時 "wikilink") [Category:恐怖漫畫](https://zh.wikipedia.org/wiki/Category:恐怖漫畫 "wikilink") [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
 
 1.

@@ -1,17 +1,12 @@
-**NeoOffice**是在[Mac OS
-X平台上的一個](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[辦公室軟體](https://zh.wikipedia.org/wiki/辦公室軟體 "wikilink")。這個軟體最早從[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[OpenOffice.org分離開來](../Page/OpenOffice.org.md "wikilink")，並與OpenOffice.org功能幾乎雷同。軟體套件包括[文書處理器](https://zh.wikipedia.org/wiki/文書處理器 "wikilink")、[電子試算表](https://zh.wikipedia.org/wiki/電子試算表 "wikilink")、[簡報軟體](../Page/簡報.md "wikilink")、與[圖像處理軟體](https://zh.wikipedia.org/wiki/繪圖軟體 "wikilink")。這套軟體由Planamesa
-Software開發，軟體基於[Java技術](../Page/Java.md "wikilink")，並實現與[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Aqua使用者介面的整合](../Page/Aqua_\(GUI\).md "wikilink")。當前版本基於[LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")
-4.4。
+**NeoOffice**是在[Mac OS X平台上的一個](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[辦公室軟體](https://zh.wikipedia.org/wiki/辦公室軟體 "wikilink")。這個軟體最早從[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")分離開來，並與OpenOffice.org功能幾乎雷同。軟體套件包括[文書處理器](https://zh.wikipedia.org/wiki/文書處理器 "wikilink")、[電子試算表](https://zh.wikipedia.org/wiki/電子試算表 "wikilink")、[簡報](../Page/簡報.md "wikilink")軟體、與[圖像處理軟體](https://zh.wikipedia.org/wiki/繪圖軟體 "wikilink")。這套軟體由Planamesa Software開發，軟體基於[Java](../Page/Java.md "wikilink")技術，並實現與[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Aqua使用者介面的整合](../Page/Aqua_\(GUI\).md "wikilink")。當前版本基於[LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink") 4.4。
 
 ## 概覽
 
-NeoOffice是一套基於[OpenOffice.org為基礎開發的](../Page/OpenOffice.org.md "wikilink")[Mac
-OS
-X的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[辦公室軟體](https://zh.wikipedia.org/wiki/辦公室軟體 "wikilink")。
+NeoOffice是一套基於[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")為基礎開發的[Mac OS X的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[辦公室軟體](https://zh.wikipedia.org/wiki/辦公室軟體 "wikilink")。
 
 ## 版本歷史
 
-| [OpenOffice.org版本](../Page/OpenOffice.org.md "wikilink") | 版本                      | 發布日期                                                                                                                                                                  | 附註                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| [OpenOffice.org](../Page/OpenOffice.org.md "wikilink")版本 | 版本                      | 發布日期                                                                                                                                                                  | 附註                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.0.3.1                                                  | NeoOffice/C 0.0.1       | June 22, 2003                                                                                                                                                         | Incendiary Goblin build                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 1.1.2                                                    | NeoOffice/J 1.1 Alpha 2 | September, 2004                                                                                                                                                       | /                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -48,8 +43,7 @@ X的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[辦公室軟體](https:
 
 ### 備註
 
-為了符合[GNU條款的規定](../Page/GNU.md "wikilink")，從版本3.2開始，NeoOffice
-將會分出付費版本，使用者付費後，將會得到更多的支持：
+為了符合[GNU](../Page/GNU.md "wikilink")條款的規定，從版本3.2開始，NeoOffice 將會分出付費版本，使用者付費後，將會得到更多的支持：
 
   - 10美元，便可在一年內從資料庫中取得最新版的軟體
   - 20美元，便可在一年內從資料庫中取得最新版的軟體，並能在討論區中討論及表決需增加的新功能
@@ -70,29 +64,18 @@ X的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[辦公室軟體](https:
   - [NeoWiki](http://neowiki.neooffice.org/index.php/Main_Page)
   - [Review](http://www.netzwelt.de/news/83304-neooffice-kostenloses-office-paket-mac.html)
 
-[Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
-[Category:OpenOffice.org](https://zh.wikipedia.org/wiki/Category:OpenOffice.org "wikilink")
+[Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink") [Category:OpenOffice.org](https://zh.wikipedia.org/wiki/Category:OpenOffice.org "wikilink")
 
-1.  [2.2.2 Release
-    Notes](http://neowiki.neooffice.org/index.php/NeoOffice_2.2.2_Release_Notes#Current_Patch)
-2.  [2.2.3 Release
-    Notes](http://neowiki.neooffice.org/index.php/NeoOffice_2.2.3_Release_Notes)
-3.  [NeoOffice 2.2.4
-    Announcement](http://trinity.neooffice.org/modules.php?name=News&file=article&sid=130)
-4.  [2.2.4 Release
-    Notes](http://neowiki.neooffice.org/index.php/NeoOffice_2.2.4_Release_Notes)
-5.  [NeoOffice 2.2.5
-    Announcement](http://trinity.neooffice.org/modules.php?name=News&file=article&sid=131)
-6.  [2.2.5 Release
-    Notes](http://neowiki.neooffice.org/index.php/NeoOffice_2.2.5_Release_Notes)
-7.  [NeoOffice 2.1 release
-    announcement](https://trinity.neooffice.org/modules.php?name=News&file=article&sid=116)
-8.  [NeoOffice 3.0
-    Announcement](http://trinity.neooffice.org/modules.php?name=News&file=article&sid=132)
-9.  [New Features
-    of 3.0.2](http://www.neooffice.org/neojava/en/features.php#newfeatures)
-10. [NeoOffice 3.1.1
-    released](https://trinity.neooffice.org/modules.php?name=Forums&file=viewtopic&p=59659#59659)
+1.  [2.2.2 Release Notes](http://neowiki.neooffice.org/index.php/NeoOffice_2.2.2_Release_Notes#Current_Patch)
+2.  [2.2.3 Release Notes](http://neowiki.neooffice.org/index.php/NeoOffice_2.2.3_Release_Notes)
+3.  [NeoOffice 2.2.4 Announcement](http://trinity.neooffice.org/modules.php?name=News&file=article&sid=130)
+4.  [2.2.4 Release Notes](http://neowiki.neooffice.org/index.php/NeoOffice_2.2.4_Release_Notes)
+5.  [NeoOffice 2.2.5 Announcement](http://trinity.neooffice.org/modules.php?name=News&file=article&sid=131)
+6.  [2.2.5 Release Notes](http://neowiki.neooffice.org/index.php/NeoOffice_2.2.5_Release_Notes)
+7.  [NeoOffice 2.1 release announcement](https://trinity.neooffice.org/modules.php?name=News&file=article&sid=116)
+8.  [NeoOffice 3.0 Announcement](http://trinity.neooffice.org/modules.php?name=News&file=article&sid=132)
+9.  [New Features of 3.0.2](http://www.neooffice.org/neojava/en/features.php#newfeatures)
+10. [NeoOffice 3.1.1 released](https://trinity.neooffice.org/modules.php?name=Forums&file=viewtopic&p=59659#59659)
 11.
 12.
 13.

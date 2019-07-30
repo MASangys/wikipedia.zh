@@ -1,112 +1,72 @@
-{{Infobox Weapon |name= RPG-16
-|image= |image_size= 300px |caption= RPG-16 |origin=
+**RPG-16**（；\[1\][俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）所研製及生產的58.3毫米[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，主要在[反坦克戰](../Page/反坦克戰.md "wikilink")時使用，發射[PG-16V](https://zh.wikipedia.org/wiki/PG-16V "wikilink") [HEAT火箭彈](../Page/高爆反坦克彈.md "wikilink")。
 
-<div class="NavFrame collapsed" style="color: black; background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; text-align: left;">
+## 歷史
 
-<div class="NavHead" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; font-weight:normal;">
+RPG-16於1968年開發。在1970年被[蘇聯軍隊所採用](https://zh.wikipedia.org/wiki/蘇聯武裝力量 "wikilink")。並且在1979年—1989年期間於[阿富汗](../Page/阿富汗.md "wikilink")的[軍事行動之中的該戰區服役](../Page/苏联－阿富汗战争.md "wikilink")，在多場戰役之中被蘇聯特別任務部隊\[2\]和[空降軍](../Page/俄羅斯空降軍.md "wikilink")（VDV）所少量使用。
 
-</div>
+## 設計
 
-<div class="NavContent" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px;">
+RPG-16是一枝[無後座力發射的](../Page/无后座力炮.md "wikilink")[火箭](../Page/火箭.md "wikilink")發射器，具有58毫米炮管和HEAT彈頭。\[3\]在攜行狀態的時候，炮身前後可以分離以便[空投及攜行](https://zh.wikipedia.org/wiki/空投 "wikilink")，長度是645毫米（25.39英吋）。在發射狀態的時候，其總長度是1,104毫米（43.46英吋）。沒有裝填火箭彈時，其重量為9.39公斤（20.7磅）。而裝填火箭彈成為發射狀態及配備了光學[瞄準鏡時](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，其重量為12.4公斤（27.34磅）。RPG-16的有效最大射程可達800公尺（874.89码，2,624.67英尺）。
+
+\[4\]RPG-16看起來很像[RPG-7](../Page/RPG-7.md "wikilink")，並且保留它的一些富有特色的配置，例如：、炮身後方的[塑料](../Page/塑料.md "wikilink")製後燄噴嘴和光學瞄準具。不過，RPG-16和[RPG-7](../Page/RPG-7.md "wikilink")的差異就是[口徑縮小至](https://zh.wikipedia.org/wiki/口徑 "wikilink")58.3毫米（2.3英吋）、可以在前端配備了[兩腳架和取消了](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")[後握把](../Page/輔助握把.md "wikilink")。其光學[瞄準鏡命名為PGO](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")-16（），[放大倍率為](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")2.7倍，亦可使用裝設於發射器頂部的固定機械瞄具瞄準。
+
+相比它的主要對手，[RPG-7](../Page/RPG-7.md "wikilink")，RPG-16具有一枚小口徑彈頭和更強大的火箭助推器，這使得RPG-16在遠距離更為精確。與RPG-7不同的是，彈頭不會伸出發射器，因為它正好與發射管具有相同的直徑，並與發射管內裡完全適合。然而，較小的彈頭也意味著面對使用PG-7VL火箭彈的RPG-7時，卻等同不得不犧牲火力。（PG-7VL火箭彈可貫穿大約500毫米的[軋壓均質裝甲](../Page/軋壓均質裝甲.md "wikilink")，而RPG-16的火箭彈則只可貫穿大約300毫米的軋壓均質裝甲）
+
+在蘇聯服役RPG-16會給特別行動隊以一對人為隊伍裝備，並不分配給一般部隊使用。其中一人，射手，配備發射器和兩枚PG-16彈頭。 另一人，助手，進行了三枚以上的彈頭。
+
+雖然RPG-16深受部隊的好評和經常在對抗[當地的衝突](../Page/苏联－阿富汗战争.md "wikilink")，尤其是對抗當地的[聖戰者](../Page/聖戰者.md "wikilink")戰士時使用。可是，由於發射的[炮彈](../Page/炮彈.md "wikilink")的口徑實在太小，相對的貫穿裝甲的能力亦較低（RPG-16的火箭彈只可貫穿大約300毫米的[軋壓均質裝甲](../Page/軋壓均質裝甲.md "wikilink")），這對於對付現代[坦克](../Page/坦克.md "wikilink")而言沒有效用。最終在1980年代後期至90年代初期，RPG-16被其他火箭推進榴彈所取代。
+
+## 使用國
+
+  - \[5\]
 
   -
   -
+### 前使用國
+
+  -
+## 參見
+
+  - [火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")
+      - [RPG-2](../Page/RPG-2.md "wikilink")
+      - [RPG-7](../Page/RPG-7.md "wikilink")
+      - [Mk 777](https://zh.wikipedia.org/wiki/Mk_777 "wikilink")
+      - [PG-7VR](https://zh.wikipedia.org/wiki/PG-7VR "wikilink")
+      - [RPG-18](../Page/RPG-18.md "wikilink")
+      - [RPG-22](../Page/RPG-22.md "wikilink")
+      - [RPG-26](../Page/RPG-26.md "wikilink")
+      - [RPG-27](../Page/RPG-27.md "wikilink")
+      - [RPG-28](../Page/RPG-28.md "wikilink")
+      - [RPG-29](../Page/RPG-29.md "wikilink")
+      - [RPG-30](../Page/RPG-30.md "wikilink")
+      - [RPG-32](../Page/RPG-32.md "wikilink")
+  - [RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")
+  - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
+
+## 資料來源
+
+<div class="references-small">
+
+<references />
 
 </div>
 
-</div>
+## 外部連結
 
-|type=
-[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")
-|is_ranged= yes |is_bladed= |is_explosive= |is_artillery= yes
-|is_vehicle= |service= 1970年—現在 |used_by=
-[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯武裝力量 "wikilink")，[空降軍士兵](../Page/俄羅斯空降軍.md "wikilink")
-|wars=
+  - —[Modern Firearms—RPG-16 antitank grenade launcher](http://world.guns.ru/grenade/rus/rpg-16-e.html)
 
-<div class="NavFrame collapsed" style="color: black; background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; text-align: left;">
+  - —[Weapon.ge—RPG-16](http://georgians.weapon.ge/index.php?sel=1&id=315&man=&coun=&cat=12&l=en)
 
-<div class="NavHead" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; font-weight:normal;">
+  - —[MegaSword—Ручной противотанковый гранатомет РПГ - 16 «Гром»](http://www.megasword.ru/index.php?pg=614)
 
-</div>
+  - —[РПГ-16](https://web.archive.org/web/20101017084921/http://diversant.h1.ru/guns/granatomet/rpg16.html)
 
-<div class="NavContent" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px;">
+  - —[defenseonline.com.cn—前苏联RPG-16式58.3ｍｍ火箭筒](https://web.archive.org/web/20050308091223/http://www.defenseonline.com.cn/weapon/qwq/hjt/hjt00039.htm)
 
-  - [1979年苏联－阿富汗战争](../Page/苏联－阿富汗战争.md "wikilink")
-  - [車臣戰爭](https://zh.wikipedia.org/wiki/車臣戰爭 "wikilink")
+[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:無後座力炮](https://zh.wikipedia.org/wiki/Category:無後座力炮 "wikilink") [Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink") [Category:反坦克榴彈](https://zh.wikipedia.org/wiki/Category:反坦克榴彈 "wikilink")
 
-</div>
-
-</div>
-
-|designer= |design_date= 1968年 |manufacturer= |unit_cost=
-|production_date= 1970年—現在 |number= |variants= |weight=
-
-<div class="NavFrame collapsed" style="color: black; background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; text-align: left;">
-
-<div class="NavHead" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; font-weight:normal;">
-
-</div>
-
-<div class="NavContent" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px;">
-
-  - 發射器：9.39[千克](../Page/千克.md "wikilink")（20.7[磅](../Page/磅.md "wikilink")）
-      - 連瞄準鏡及[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")：10.3千克（22.71磅）
-      - 上彈、連瞄準鏡：12.4千克（27.34磅）
-  - PG-16V HEAT火箭彈：2.99千克（6.6磅）
-
-</div>
-
-</div>
-
-|length=
-
-<div class="NavFrame collapsed" style="color: black; background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; text-align: left;">
-
-<div class="NavHead" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; font-weight:normal;">
-
-</div>
-
-<div class="NavContent" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px;">
-
-  - 發射狀態：1,104[毫米](../Page/毫米.md "wikilink")（43.46[英寸](https://zh.wikipedia.org/wiki/英寸 "wikilink")）
-  - 攜行狀態：645毫米（25.39英吋）
-
-</div>
-
-</div>
-
-|part_length= |width= |height= |crew= 2人 |cartridge=
-[PG-16V](https://zh.wikipedia.org/wiki/PG-16V "wikilink")
-[HEAT火箭彈](../Page/高爆反坦克彈.md "wikilink") |caliber= 58.3毫米（2.3英吋）
-|action= 手動 |rate= |velocity= PG-16V HEAT火箭彈
-
-<div class="NavFrame collapsed" style="color: black; background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; text-align: left;">
-
-<div class="NavHead" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; font-weight:normal;">
-
-</div>
-
-<div class="NavContent" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px;">
-
-  - 最初：129.99[米／秒](https://zh.wikipedia.org/wiki/米每秒 "wikilink")（426.5[英尺／秒](https://zh.wikipedia.org/wiki/英尺每秒 "wikilink")）
-  - 最大：349.96米／秒（1,148.2英尺／秒）
-
-</div>
-
-</div>
-
-|range=
-520[公尺](../Page/米_\(单位\).md "wikilink")（568.68[码](https://zh.wikipedia.org/wiki/码 "wikilink")，1,706.04[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")）
-|max_range= 800公尺（874.89码，2,624.67英尺） |feed= 單發，手動裝填 |sights=
-
-<div class="NavFrame collapsed" style="color: black; background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; text-align: left;">
-
-<div class="NavHead" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; font-weight:normal;">
-
-</div>
-
-<div class="NavContent" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px;">
-
-  - [機械瞄具](../Page/機械瞄具.md "wikilink")：金屬[照門及](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")
-  - 可選擇安裝的[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")
-      - PGO-16（），\[\[
+1.  РПГ，全寫：**Р**учной **п**ротивотанковый **г**ранатомёт，意為：反坦克榴彈發射器
+2.
+3.
+4.
+5.  <https://sites.google.com/site/worldinventory/wiw_sa_colombia>

@@ -1,5 +1,4 @@
-**GLAY EXPO '99 SURVIVAL LIVE IN
-MAKUHARI**是[GLAY在](../Page/GLAY.md "wikilink")1999年7月31日於[千葉縣](../Page/千葉縣.md "wikilink")[幕張Messe所舉辦的](https://zh.wikipedia.org/wiki/幕張Messe "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，該演唱會動員了超過20萬的歌迷，是日本音樂史上動員最多人的單場演唱會，亦是目前的付費單場演唱會動員人員最多的[世界紀錄](https://zh.wikipedia.org/wiki/世界紀錄 "wikilink")。
+**GLAY EXPO '99 SURVIVAL LIVE IN MAKUHARI**是[GLAY](../Page/GLAY.md "wikilink")在1999年7月31日於[千葉縣](../Page/千葉縣.md "wikilink")[幕張Messe所舉辦的](https://zh.wikipedia.org/wiki/幕張Messe "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，該演唱會動員了超過20萬的歌迷，是日本音樂史上動員最多人的單場演唱會，亦是目前的付費單場演唱會動員人員最多的[世界紀錄](https://zh.wikipedia.org/wiki/世界紀錄 "wikilink")。
 
 ## 演唱會規模
 
@@ -17,7 +16,7 @@ MAKUHARI**是[GLAY在](../Page/GLAY.md "wikilink")1999年7月31日於[千葉縣]
 
   - 入場數:20萬人(世界紀錄)
   - 總製作費:30億日圓
-  - 會場總面積:18.5公頃(約4個[東京巨蛋大小](../Page/東京巨蛋.md "wikilink"))
+  - 會場總面積:18.5公頃(約4個[東京巨蛋](../Page/東京巨蛋.md "wikilink")大小)
   - 會場規模:長700公尺、寬264公尺
   - 舞台規模:長145公尺、高40公尺
   - 照明燈:15000盞
@@ -58,8 +57,7 @@ MAKUHARI**是[GLAY在](../Page/GLAY.md "wikilink")1999年7月31日於[千葉縣]
 9.  **[Yes, Summerdays](../Page/Yes,_Summerdays.md "wikilink")**
 10. **summer FM**
 11. **INNOCENCE**
-12. **[Freeze My
-    Love](https://zh.wikipedia.org/wiki/Freeze_My_Love "wikilink")**
+12. **[Freeze My Love](https://zh.wikipedia.org/wiki/Freeze_My_Love "wikilink")**
 13. **[HOWEVER](../Page/HOWEVER.md "wikilink")**
 14. **[ここではない、どこかへ](https://zh.wikipedia.org/wiki/ここではない、どこかへ "wikilink")**
 15. **LADY CLOSE**
@@ -74,6 +72,4 @@ MAKUHARI**是[GLAY在](../Page/GLAY.md "wikilink")1999年7月31日於[千葉縣]
 24. **BURST**
 25. **ENDING**
 
-[Category:GLAY](https://zh.wikipedia.org/wiki/Category:GLAY "wikilink")
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
-[Category:1999年日本](https://zh.wikipedia.org/wiki/Category:1999年日本 "wikilink")
+[Category:GLAY](https://zh.wikipedia.org/wiki/Category:GLAY "wikilink") [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:1999年日本](https://zh.wikipedia.org/wiki/Category:1999年日本 "wikilink")

@@ -1,6 +1,4 @@
-《**幻想水滸傳III**》是[科樂美](../Page/科樂美.md "wikilink")公司在2002年7月11日發佈開發的[RPG類型的遊戲](../Page/電子角色扮演遊戲.md "wikilink")。『[幻想水滸傳系列](../Page/幻想水滸傳系列.md "wikilink")』第三部正傳作品。宣傳口語是「如果你相信未來的道路，前進吧。這就是人性。」2004年6月5日KONAMI
-the Best，2005年9月2日在科樂美殿堂selection發售。特別一提的是，本作也是系列首次運用的3D computer
-graphics技術。
+《**幻想水滸傳III**》是[科樂美](../Page/科樂美.md "wikilink")公司在2002年7月11日發佈開發的[RPG類型的遊戲](../Page/電子角色扮演遊戲.md "wikilink")。『[幻想水滸傳系列](../Page/幻想水滸傳系列.md "wikilink")』第三部正傳作品。宣傳口語是「如果你相信未來的道路，前進吧。這就是人性。」2004年6月5日KONAMI the Best，2005年9月2日在科樂美殿堂selection發售。特別一提的是，本作也是系列首次運用的3D computer graphics技術。
 
 ## 故事概要
 
@@ -34,10 +32,6 @@ graphics技術。
 
 ## 外部連結
 
-[sv:Suikoden
-III](https://zh.wikipedia.org/wiki/sv:Suikoden_III "wikilink")
+[sv:Suikoden III](https://zh.wikipedia.org/wiki/sv:Suikoden_III "wikilink")
 
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
+[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")

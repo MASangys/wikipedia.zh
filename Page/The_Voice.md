@@ -1,19 +1,14 @@
 [The_Voice_Of_.jpg](https://zh.wikipedia.org/wiki/File:The_Voice_Of_.jpg "fig:The_Voice_Of_.jpg")
 
-《**The
-Voice**》是荷兰Tapla公司出品的一个跨国的歌唱比赛电视节目，该系列节目最初始于[荷兰](../Page/荷兰.md "wikilink")。2010年由[John
-de
-Mol和](../Page/小約翰·德·莫爾.md "wikilink")创造的《[荷兰之声](../Page/荷兰之声.md "wikilink")》在荷兰播出，随后在2011年4月-6月以《[美国之声](https://zh.wikipedia.org/wiki/美国之声 "wikilink")》为名在美国[NBC电视台播出](https://zh.wikipedia.org/wiki/NBC "wikilink")，另外其他很多国家也陆续推出本地版本，并将在2011年或2012年正式播出。
+《**The Voice**》是荷兰Tapla公司出品的一个跨国的歌唱比赛电视节目，该系列节目最初始于[荷兰](../Page/荷兰.md "wikilink")。2010年由[John de Mol和](../Page/小約翰·德·莫爾.md "wikilink")创造的《[荷兰之声](../Page/荷兰之声.md "wikilink")》在荷兰播出，随后在2011年4月-6月以《[美国之声](https://zh.wikipedia.org/wiki/美国之声 "wikilink")》为名在美国[NBC电视台播出](https://zh.wikipedia.org/wiki/NBC "wikilink")，另外其他很多国家也陆续推出本地版本，并将在2011年或2012年正式播出。
 
-而2012年暑期播放的《[中国好声音](https://zh.wikipedia.org/wiki/中国好声音_\(2016年之前\) "wikilink")》取得了极高的收视率和关注度，受影响的[中国媒体也开始把](https://zh.wikipedia.org/wiki/中国媒体 "wikilink")“”译为“好声音”并称作**美国好声音**、**英国好声音**等。繼2012年首度引進亞洲地區後，2017年二度引進亞洲地區，新加坡、馬來西亞兩地跨國合作，播放《The
-Voice》新馬版，譯作《決戰好聲》。但2017年荷蘭方終止了中國方的授權。
+而2012年暑期播放的《[中国好声音](https://zh.wikipedia.org/wiki/中国好声音_\(2016年之前\) "wikilink")》取得了极高的收视率和关注度，受影响的[中国媒体也开始把](https://zh.wikipedia.org/wiki/中国媒体 "wikilink")“”译为“好声音”并称作**美国好声音**、**英国好声音**等。繼2012年首度引進亞洲地區後，2017年二度引進亞洲地區，新加坡、馬來西亞兩地跨國合作，播放《The Voice》新馬版，譯作《決戰好聲》。但2017年荷蘭方終止了中國方的授權。
 
 本节目由TMG推出，并许可全球推广\[1\]。
 
 ## 特色
 
-不同国家The
-Voice的规则会有所不同，但是都有一个共同的特点：选手选择一首歌曲演唱，评选期间评委都**背对**选手（不看选手外表只听声音），在歌曲演唱结束前如果有评委选择按下按钮则选手成功晋级；当有多位评委选择该选手时，评委（导师）选择权就转移到了选手的手上。
+不同国家The Voice的规则会有所不同，但是都有一个共同的特点：选手选择一首歌曲演唱，评选期间评委都**背对**选手（不看选手外表只听声音），在歌曲演唱结束前如果有评委选择按下按钮则选手成功晋级；当有多位评委选择该选手时，评委（导师）选择权就转移到了选手的手上。
 
 ## 《The Voice》在全球的各个版本
 
@@ -492,9 +487,7 @@ V.Music band<br />
   - [《中国好声音》官方网站](https://web.archive.org/web/20120917005818/http://haoshengyin.cztv.com/)
   - [新马版《决战好声》官方网站](http://www.thevoicesgmy.com/)
 
-[Category:The_Voice系列](https://zh.wikipedia.org/wiki/Category:The_Voice系列 "wikilink")
-[Category:音乐比赛](https://zh.wikipedia.org/wiki/Category:音乐比赛 "wikilink")
-[Category:才艺表演](https://zh.wikipedia.org/wiki/Category:才艺表演 "wikilink")
+[Category:The_Voice系列](https://zh.wikipedia.org/wiki/Category:The_Voice系列 "wikilink") [Category:音乐比赛](https://zh.wikipedia.org/wiki/Category:音乐比赛 "wikilink") [Category:才艺表演](https://zh.wikipedia.org/wiki/Category:才艺表演 "wikilink")
 
 1.
 2.  <http://competition.mbc.net/thevoice/>

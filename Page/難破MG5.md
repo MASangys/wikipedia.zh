@@ -63,8 +63,4 @@
 
 </div>
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:週刊少年Champion](https://zh.wikipedia.org/wiki/Category:週刊少年Champion "wikilink")
-[Category:千葉縣背景作品](https://zh.wikipedia.org/wiki/Category:千葉縣背景作品 "wikilink")
-[Category:不良少年及少女主角題材漫畫](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:週刊少年Champion](https://zh.wikipedia.org/wiki/Category:週刊少年Champion "wikilink") [Category:千葉縣背景作品](https://zh.wikipedia.org/wiki/Category:千葉縣背景作品 "wikilink") [Category:不良少年及少女主角題材漫畫](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材漫畫 "wikilink")

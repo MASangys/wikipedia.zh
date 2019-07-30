@@ -1,5 +1,4 @@
-《**超劇場版 Keroro軍曹
-2**》於2006年9月拍板製作，並於2007年3月17日在日本上映，[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")4.8億[日圓](../Page/日圓.md "wikilink")。香港於2007年7月19日上映，[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")470萬港元，台灣則於2007年8月10日，[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")280萬[台幣](https://zh.wikipedia.org/wiki/台幣 "wikilink")。內容分為兩個情節不同的故事。其中長篇的是《》，片長約80分鐘；而短篇則是特別以3D—CG技術製作的《》，片長約16分鐘。另外，電影DVD在9月28日正式發行，分為普通版和豪華版。
+《**超劇場版 Keroro軍曹 2**》於2006年9月拍板製作，並於2007年3月17日在日本上映，[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")4.8億[日圓](../Page/日圓.md "wikilink")。香港於2007年7月19日上映，[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")470萬港元，台灣則於2007年8月10日，[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")280萬[台幣](https://zh.wikipedia.org/wiki/台幣 "wikilink")。內容分為兩個情節不同的故事。其中長篇的是《》，片長約80分鐘；而短篇則是特別以3D—CG技術製作的《》，片長約16分鐘。另外，電影DVD在9月28日正式發行，分為普通版和豪華版。
 
 ## 情節簡介
 
@@ -8,7 +7,7 @@
 <!-- end list -->
 
   -
-    謎一般的Meru王子和他的隨從Maru在一次海難中出現。某天，他決定迎聚一位公主，而他所鎖定的目標居然是夏美，甚至還擄走了她。Keroro等人於是展開「救出夏美大作戰」。另一方面，夏美受到Meru王子的高度禮遇，居住在藉由她的記憶所投射出來的夏美城。但是同時，Meru又想把[地球變成全都是水的星球](../Page/地球.md "wikilink")，就像他們的故鄉一樣。Keroro等人能否成功救出夏美，守護地球？
+    謎一般的Meru王子和他的隨從Maru在一次海難中出現。某天，他決定迎聚一位公主，而他所鎖定的目標居然是夏美，甚至還擄走了她。Keroro等人於是展開「救出夏美大作戰」。另一方面，夏美受到Meru王子的高度禮遇，居住在藉由她的記憶所投射出來的夏美城。但是同時，Meru又想把[地球](../Page/地球.md "wikilink")變成全都是水的星球，就像他們的故鄉一樣。Keroro等人能否成功救出夏美，守護地球？
 
 <!-- end list -->
 
@@ -124,11 +123,6 @@
 
 ## 外部連結／參考資料
 
-  - [共鳴xS Keroro軍曹侵略專區
-    超劇場版2資料](https://web.archive.org/web/20110303062005/http://k66.shingoaoi.com/story/214/keroro-2)
+  - [共鳴xS Keroro軍曹侵略專區 超劇場版2資料](https://web.archive.org/web/20110303062005/http://k66.shingoaoi.com/story/214/keroro-2)
 
-[Category:超劇場版_Keroro軍曹](https://zh.wikipedia.org/wiki/Category:超劇場版_Keroro軍曹 "wikilink")
-[Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:海洋冒险作品](https://zh.wikipedia.org/wiki/Category:海洋冒险作品 "wikilink")
-[Category:山口晋電影](https://zh.wikipedia.org/wiki/Category:山口晋電影 "wikilink")
+[Category:超劇場版_Keroro軍曹](https://zh.wikipedia.org/wiki/Category:超劇場版_Keroro軍曹 "wikilink") [Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:海洋冒险作品](https://zh.wikipedia.org/wiki/Category:海洋冒险作品 "wikilink") [Category:山口晋電影](https://zh.wikipedia.org/wiki/Category:山口晋電影 "wikilink")

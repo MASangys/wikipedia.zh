@@ -1,5 +1,4 @@
-《**Suite
-光之美少女♪**》（）是由[東堂泉所製作的](../Page/東堂泉.md "wikilink")[魔法少女動畫作品](../Page/魔法少女.md "wikilink")，「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」的第八輯，屬第六代光之美少女。於2011年2月6日開始於[朝日電視系播出](https://zh.wikipedia.org/wiki/朝日電視系 "wikilink")。台灣和香港分別在2013年9月20日以及2014年7月9日，以「**光之美少女：美樂天使**」的名稱於[東森幼幼台及](../Page/東森幼幼台.md "wikilink")[翡翠台播出](../Page/翡翠台.md "wikilink")。
+《**Suite 光之美少女♪**》（）是由[東堂泉](../Page/東堂泉.md "wikilink")所製作的[魔法少女](../Page/魔法少女.md "wikilink")動畫作品，「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」的第八輯，屬第六代光之美少女。於2011年2月6日開始於[朝日電視系播出](https://zh.wikipedia.org/wiki/朝日電視系 "wikilink")。台灣和香港分別在2013年9月20日以及2014年7月9日，以「**光之美少女：美樂天使**」的名稱於[東森幼幼台](../Page/東森幼幼台.md "wikilink")及[翡翠台](../Page/翡翠台.md "wikilink")播出。
 
 ## 概要
 
@@ -39,16 +38,14 @@
 
 ::; 光之美少女 -{音}-樂圓舞曲（Precure Music Rondo）
 
-::: 於第6話後使用「奇蹟指揮棒（Miracle Belltier）」的技能。將咪利放入武器一端後畫出橘色光環，套住敵人，揮動指揮棒說「三拍子
-1･2･3･最後樂章\!」後爆發。電影作品DX3中公開時間較早。
+::: 於第6話後使用「奇蹟指揮棒（Miracle Belltier）」的技能。將咪利放入武器一端後畫出橘色光環，套住敵人，揮動指揮棒說「三拍子 1･2･3･最後樂章\!」後爆發。電影作品DX3中公開時間較早。
 
 ::; 光之美少女 奇蹟急-{音}-（Precure Miracle Heart Arpeggio）
 
   -
 
       -
-        於第12話後將朵利、咪利各放入「奇蹟指揮棒」兩端，拆解為雙組合武器。雙手一起畫出心型火光，飛向並套住敵人，揮動指揮棒說「三拍子
-        1･2･3･最後樂章\!」後爆發。
+        於第12話後將朵利、咪利各放入「奇蹟指揮棒」兩端，拆解為雙組合武器。雙手一起畫出心型火光，飛向並套住敵人，揮動指揮棒說「三拍子 1･2･3･最後樂章\!」後爆發。
         「Arpeggio」為義大利文的音樂術語，有「急速合聲彈奏」之意。
 
 :;特殊型態
@@ -58,8 +55,7 @@
   -
 
       -
-        在劇場版[電影 Suite 光之美少女♪
-        奪取回來！連結心中的奇蹟旋律♪中出現](https://zh.wikipedia.org/wiki/#電影_Suite_光之美少女♪_奪取回來！連結心中的奇蹟旋律♪ "wikilink")。
+        在劇場版[電影 Suite 光之美少女♪ 奪取回來！連結心中的奇蹟旋律♪中出現](https://zh.wikipedia.org/wiki/#電影_Suite_光之美少女♪_奪取回來！連結心中的奇蹟旋律♪ "wikilink")。
 
 <!-- end list -->
 
@@ -85,17 +81,14 @@
 
     :; 光之美少女 -{音}-樂圓舞曲（Precure Music Rondo）
 
-    :: 於第9話後使用「幻想指揮棒（Fantastic
-    Belltier）」的技能。將法利放入武器一端後畫出黃色光環，套住敵人，揮動指揮棒說「三拍子
-    1･2･3･最後樂章\!」後爆發。電影作品DX3中公開時間較早。
+    :: 於第9話後使用「幻想指揮棒（Fantastic Belltier）」的技能。將法利放入武器一端後畫出黃色光環，套住敵人，揮動指揮棒說「三拍子 1･2･3･最後樂章\!」後爆發。電影作品DX3中公開時間較早。
 
     :; 光之美少女 幻想漫奏（Precure Fantastic Piacere）
 
       -
 
           -
-            於第12話後將瑞利、法利各放入「幻想指揮棒」兩端，拆解為雙組合武器。雙手一起畫出心型火光，飛向並套住敵人，揮動指揮棒說「三拍子
-            1･2･3･最後樂章\!」後爆發。
+            於第12話後將瑞利、法利各放入「幻想指揮棒」兩端，拆解為雙組合武器。雙手一起畫出心型火光，飛向並套住敵人，揮動指揮棒說「三拍子 1･2･3･最後樂章\!」後爆發。
             「Piacere」為義大利文的音樂術語，有「自由的」、「任意彈奏」之意。
 
 <!-- end list -->
@@ -104,8 +97,7 @@
 
     來自音樂王國「大調島」，任職「小調島」的主唱妖精歌姬，外型為黑貓，哈咪的兒時玩伴。去年以前一直是「大調島」的主唱，今年為同伴哈咪獲選，因此心中產生黑暗而投靠梅菲斯特，成為他的忠實部下。常說朋友不能相信之類的話，實際上常因友情而產生動搖，但數度接受了梅菲斯特的洗腦而隱蔽對哈咪的感情。雖然主要是單方面和哈咪吵架，但跟哈咪的關係就像是-{響}-與-{奏}-之間的關係。另外有怕妖怪、寄居蟹等弱點。樂隊隊長王子多次幫助她，對其有好感。
 
-    配戴的項鍊能量使其有模仿別人聲音和外型的能力，平時人類的姿態為「黑川艾蓮」。戰鬥時可使用音符來攻擊。第21話
-    ，受到哈咪的友情感動，光之美少女的潛能被喚醒而成為同伴，但項鍊也因此破碎。之後維持於人的型態「艾蓮」，暫時無法變成貓或其他型態，被音吉收留在調邊家、就讀於-{北條響}-與-{南野奏}-的班級。
+    配戴的項鍊能量使其有模仿別人聲音和外型的能力，平時人類的姿態為「黑川艾蓮」。戰鬥時可使用音符來攻擊。第21話 ，受到哈咪的友情感動，光之美少女的潛能被喚醒而成為同伴，但項鍊也因此破碎。之後維持於人的型態「艾蓮」，暫時無法變成貓或其他型態，被音吉收留在調邊家、就讀於-{北條響}-與-{南野奏}-的班級。
 
     賽蓮原指[希臘神話中的](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")「海妖[賽蓮](../Page/塞壬.md "wikilink")」。
 
@@ -128,9 +120,7 @@
       -
 
           -
-            於第22話後使用「愛心吉他（Love Guitar
-            Rod）」的技能，與「音樂圓舞曲」使用方式相同。將索利放入後令吉他本體移至上端彈出羽翼，轉為「靈魂杖（Soul
-            Rod）」模式，將索利放入武器一端後畫出綠色光環，套住敵人，揮動吉他說「三拍子 1･2･3･最後樂章\!」後爆發。
+            於第22話後使用「愛心吉他（Love Guitar Rod）」的技能，與「音樂圓舞曲」使用方式相同。將索利放入後令吉他本體移至上端彈出羽翼，轉為「靈魂杖（Soul Rod）」模式，將索利放入武器一端後畫出綠色光環，套住敵人，揮動吉他說「三拍子 1･2･3･最後樂章\!」後爆發。
 
       - 一般技
 
@@ -155,7 +145,7 @@
 
     第35話時為阻止暴走的梅菲斯特而拿下面具公開身分，揭露實為愛芙羅黛蒂與梅菲斯特的女兒、大調島的公主。在父親無故失蹤後為查明真相，寄住在加音町的外祖父家。回憶中其光之美少女的潛能於第1話時因得知「傳說中的樂譜」音符飛散而喚醒。目前為歷代光之美少女中年紀最小的。\[7\]
 
-    由於本作的作畫設計，原形可能為[怪談餐館的同名主角](../Page/怪談餐館.md "wikilink")。[繆斯原意為](https://zh.wikipedia.org/wiki/繆斯 "wikilink")[希臘神話中的九位文藝](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")[女神](https://zh.wikipedia.org/wiki/女神 "wikilink")。
+    由於本作的作畫設計，原形可能為[怪談餐館](../Page/怪談餐館.md "wikilink")的同名主角。[繆斯原意為](https://zh.wikipedia.org/wiki/繆斯 "wikilink")[希臘神話中的九位文藝](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")[女神](https://zh.wikipedia.org/wiki/女神 "wikilink")。
 
     變身咒語為「Let's Play！美樂天使 變身（Let's Play！Precure Modulation！）」\[8\]
 
@@ -172,9 +162,7 @@
       -
 
           -
-            於37話出現。直接使用變身器「變身魔笛（Cure
-            Module）」進行攻擊的技能。將席利放入變身器後畫出藍色光環、變為閃爍的黃色泡沫(泡沫會變為音符的形狀)包圍敵人，揮動變身魔笛說「三拍子
-            1･2･3･最後樂章\!」後爆發。
+            於37話出現。直接使用變身器「變身魔笛（Cure Module）」進行攻擊的技能。將席利放入變身器後畫出藍色光環、變為閃爍的黃色泡沫(泡沫會變為音符的形狀)包圍敵人，揮動變身魔笛說「三拍子 1･2･3･最後樂章\!」後爆發。
 
       - 一般技
 
@@ -183,8 +171,7 @@
       -
 
           -
-            於37話出現。將席利放入「變身魔笛（Cure Module）」後吹奏出「閃耀的旋律」（Shining
-            Melody），複製自己的四個影像並連成五芒星，藉以封鎖敵人。
+            於37話出現。將席利放入「變身魔笛（Cure Module）」後吹奏出「閃耀的旋律」（Shining Melody），複製自己的四個影像並連成五芒星，藉以封鎖敵人。
 
 <!-- end list -->
 
@@ -205,21 +192,18 @@
 
 ::; 光之美少女 熱情和-{音}-（Precure Passionate Harmony）
 
-:::
-兩人以上時使用，彼此握住一隻手向前舉，手掌前的高音譜記號高速旋轉釋放出金黃光芒，衝向敵方、淨化音符，电影版中尾語加上「Crescendo（高潮）」。
+::: 兩人以上時使用，彼此握住一隻手向前舉，手掌前的高音譜記號高速旋轉釋放出金黃光芒，衝向敵方、淨化音符，电影版中尾語加上「Crescendo（高潮）」。
 
 ::; 光之美少女 音樂圓舞曲‧超級四重奏（Precure Music Rondo Super Quartet）
 
-:::
-於第16話後拆解「幻想指揮棒」與「奇蹟指揮棒」，交錯合併使用的必殺技。同時釋放四色光環，加上彼此握住一隻手，釋放合聲的高音譜記號，化為第五個光環，放射為五線光束衝過敵方、兩人一起揮動指揮棒說「預備、最後樂章！」後爆發。
+::: 於第16話後拆解「幻想指揮棒」與「奇蹟指揮棒」，交錯合併使用的必殺技。同時釋放四色光環，加上彼此握住一隻手，釋放合聲的高音譜記號，化為第五個光環，放射為五線光束衝過敵方、兩人一起揮動指揮棒說「預備、最後樂章！」後爆發。
 
 ::; 光之美少女 組曲大合奏（Precure Suite Session Ensemble）
 
   -
 
       -
-        於第31話後使用「治癒音樂盒」（Healing
-        Chest）的招式。全體與精靈克雷仙多結合，化為金色火焰貫穿敵人，最後以「最後樂章！」結束。後期繆思天使加入後，尾語加上「Crescendo（高潮）」。
+        於第31話後使用「治癒音樂盒」（Healing Chest）的招式。全體與精靈克雷仙多結合，化為金色火焰貫穿敵人，最後以「最後樂章！」結束。後期繆思天使加入後，尾語加上「Crescendo（高潮）」。
 
 ### 大調島（Major Land）
 
@@ -311,9 +295,7 @@
 
     自行解除封印墜落於人間後，被不知情的亞子拾去療傷，因此借住於調邊家。後來暗中奪取妖精們的音符，企圖殺害音吉時被主角們揭發身分。後來，先後吞噬了「小調三重唱」而變成鳥人的型態。最後被光之美少女淨化而成為亞子的寵物且身體變成白色。
 
-    後來在[STMM中被索爾希埃爾的魔力以最終型態復活](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")，與[Happiness
-    Charge
-    光之美少女及奇跡天使戰鬥](https://zh.wikipedia.org/wiki/Happiness_Charge_光之美少女 "wikilink")，最後自爆。
+    後來在[STMM中被索爾希埃爾的魔力以最終型態復活](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")，與[Happiness Charge 光之美少女及奇跡天使戰鬥](https://zh.wikipedia.org/wiki/Happiness_Charge_光之美少女 "wikilink")，最後自爆。
 
 #### 高層
 
@@ -325,7 +307,7 @@
 
     日後揭發事實上其本身也是被邪惡力量以耳塞催眠的受害者，原先身分是「大調島」的[駙馬](https://zh.wikipedia.org/wiki/駙馬 "wikilink")、愛芙羅黛蒂的丈夫，不知為何失蹤並獨立創出「小調島」，據梅菲斯特印象是尋找「治癒音樂盒」途中時在魔響之森遭到攻擊而被邪惡力量（後期証實是噪音）操縱心靈。第36集時被亞子打倒而解除催眠。
 
-    梅菲斯特原指[浮士德傳說中的](../Page/浮士德.md "wikilink")「惡魔[梅菲斯特](https://zh.wikipedia.org/wiki/梅菲斯特 "wikilink")」。
+    梅菲斯特原指[浮士德](../Page/浮士德.md "wikilink")傳說中的「惡魔[梅菲斯特](https://zh.wikipedia.org/wiki/梅菲斯特 "wikilink")」。
 
 <!-- end list -->
 
@@ -465,8 +447,7 @@
 <!-- end list -->
 
   - 播放電視台及時間：[朝日電視台](../Page/朝日電視台.md "wikilink")、逢星期日早上8時30分至9時
-  - 播放日期：2011年2月6日－2012年1月29日
-    全48話（原為49話，第6話因為發生[311地震而延後播出](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，並取消其中1話）
+  - 播放日期：2011年2月6日－2012年1月29日 全48話（原為49話，第6話因為發生[311地震而延後播出](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，並取消其中1話）
 
 **台灣**
 
@@ -521,8 +502,8 @@
 <tr class="header">
 <th><p>話數</p></th>
 <th><p>標題（日文原文）[10]</p></th>
-<th><p>標題（台灣<a href="../Page/東森幼幼台.md" title="wikilink">東森幼幼台翻譯</a>）</p></th>
-<th><p>標題（香港<a href="../Page/翡翠台.md" title="wikilink">翡翠台翻譯</a>）</p></th>
+<th><p>標題（台灣<a href="../Page/東森幼幼台.md" title="wikilink">東森幼幼台</a>翻譯）</p></th>
+<th><p>標題（香港<a href="../Page/翡翠台.md" title="wikilink">翡翠台</a>翻譯）</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡/演出</p></th>
 <th><p>作畫監督</p></th>
@@ -1268,31 +1249,22 @@
 ### All Stars 系列電影
 
   -
-    主條目：[All Stars
-    系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
+    主條目：[All Stars 系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
 
 <!-- end list -->
 
-  - [All Stars
-    DX3上映於本作播出時](../Page/光之美少女_All_Stars_DX3_傳達到未來！連結世界☆彩虹之花！.md "wikilink")，因此以本作故事初期設定為準。
+  - [All Stars DX3上映於本作播出時](../Page/光之美少女_All_Stars_DX3_傳達到未來！連結世界☆彩虹之花！.md "wikilink")，因此以本作故事初期設定為準。
 
 <!-- end list -->
 
   -
-    [光之美少女 All Stars DX3
-    傳達到未來！連結世界☆彩虹之花！](../Page/光之美少女_All_Stars_DX3_傳達到未來！連結世界☆彩虹之花！.md "wikilink")
-    [光之美少女 All Stars New Stage
-    未來的朋友](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")
-    [光之美少女 All Stars New Stage2
-    心之朋友](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")
-    [光之美少女 All Stars New Stage3
-    永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
-    [光之美少女 All Stars
-    春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
-    [光之美少女 All Stars
-    大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
-    [HUG！光之美少女♡光之美少女 All Stars
-    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
+    [光之美少女 All Stars DX3 傳達到未來！連結世界☆彩虹之花！](../Page/光之美少女_All_Stars_DX3_傳達到未來！連結世界☆彩虹之花！.md "wikilink")
+    [光之美少女 All Stars New Stage 未來的朋友](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")
+    [光之美少女 All Stars New Stage2 心之朋友](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")
+    [光之美少女 All Stars New Stage3 永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
+    [光之美少女 All Stars 春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
+    [光之美少女 All Stars 大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
+    [HUG！光之美少女♡光之美少女 All Stars Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ## 註釋
 
@@ -1304,15 +1276,9 @@
 
   - [光之美少女：美樂天使（東映動畫）](http://www.toei-anim.co.jp/tv/suite_precure/)
 
-  - [電影 光之美少女：美樂天使
-    奪取回來！連結心中的奇蹟旋律♪（東映動畫）](http://www.toei-anim.co.jp/movie/2011_suite_precure/)
+  - [電影 光之美少女：美樂天使 奪取回來！連結心中的奇蹟旋律♪（東映動畫）](http://www.toei-anim.co.jp/movie/2011_suite_precure/)
 
-[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
-[Category:2011年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2011年日本電視動畫 "wikilink")
-[Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink")
-[Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
+[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:2011年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2011年日本電視動畫 "wikilink") [Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
 
 1.  原文：
 
@@ -1324,8 +1290,7 @@
 5.
 6.  原文：
 
-7.  另外也是歷代系列僅有兩位以長䄂穿著的光之美少女，另外一位為[KiraKira☆光之美少女 A La
-    Mode的巧克力天使](https://zh.wikipedia.org/wiki/KiraKira☆光之美少女_A_La_Mode "wikilink")。
+7.  另外也是歷代系列僅有兩位以長䄂穿著的光之美少女，另外一位為[KiraKira☆光之美少女 A La Mode的巧克力天使](https://zh.wikipedia.org/wiki/KiraKira☆光之美少女_A_La_Mode "wikilink")。
 
 8.
 9.  原文：

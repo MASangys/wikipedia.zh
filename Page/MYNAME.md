@@ -1,7 +1,6 @@
 **MYNAME**（），簡稱「**MN**」，是[韓國H](https://zh.wikipedia.org/wiki/韓國 "wikilink")2media旗下五人男子演唱團體，成員包括[建雨](https://zh.wikipedia.org/wiki/建雨 "wikilink")、[仁秀](https://zh.wikipedia.org/wiki/仁秀 "wikilink")、[世容](https://zh.wikipedia.org/wiki/世容 "wikilink")、[俊Q與](https://zh.wikipedia.org/wiki/俊Q "wikilink")[蔡晉](https://zh.wikipedia.org/wiki/蔡晉 "wikilink")，2011年10月28日，發行首張單曲專輯《Message》。
 
-團體口號是「**Yo Wassup\! We are MYNAME\!**」。\[1\]官方歌迷名稱是「**MYgirl**」，由「MYNAME
-+ girl」組成，意指為MYNAME的女孩。\[2\]
+團體口號是「**Yo Wassup\! We are MYNAME\!**」。\[1\]官方歌迷名稱是「**MYgirl**」，由「MYNAME + girl」組成，意指為MYNAME的女孩。\[2\]
 
 ## 成員資料
 
@@ -19,80 +18,31 @@
 
 ### 2011年：[Message](../Page/Message_\(MYNAME單曲\).md "wikilink")
 
-MYNAME是由R\&B組合[Fly to the
-Sky成員](../Page/Fly_to_the_Sky.md "wikilink")[煥熙](https://zh.wikipedia.org/wiki/煥熙 "wikilink")（Fany）培養的新人偶像組合。\[3\]
-正式出道前，出演試播節目《Ta-Dah It's MYNAME》。\[4\]\[5\]
-10月27日，發行出道作《[Message](../Page/Message_\(MYNAME單曲\).md "wikilink")》，同日在韓國M-NET電視台《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。\[6\]\[7\]\[8\]
+MYNAME是由R\&B組合[Fly to the Sky成員](../Page/Fly_to_the_Sky.md "wikilink")[煥熙](https://zh.wikipedia.org/wiki/煥熙 "wikilink")（Fany）培養的新人偶像組合。\[3\] 正式出道前，出演試播節目《Ta-Dah It's MYNAME》。\[4\]\[5\] 10月27日，發行出道作《[Message](../Page/Message_\(MYNAME單曲\).md "wikilink")》，同日在韓國M-NET電視台《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。\[6\]\[7\]\[8\]
 
 ### 2012年：[Hello & Goodbye](../Page/MYNAME_the_1st_single.md "wikilink")、日本出道
 
-2012年5月，發行首張韓語實體單曲《[MYNAME the 1st
-single](../Page/MYNAME_the_1st_single.md "wikilink")》，主打曲《Hello &
-Goodbye》。\[9\]\[10\]
-2012年7月，於日本正式出道，首張日語單曲《[Message](https://zh.wikipedia.org/wiki/Message_\(MYNAME單曲\)#日語單曲 "wikilink")》於公信榜單曲週排行榜取得第14位。\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]
-原定於下半年回歸，主打曲《那算什麼（Just That Little Thing）》已製作完成，但因某些原因而取消。
-2012年11月，發行首張原創日語單曲《[What's
-Up](../Page/What's_Up_\(MYNAME單曲\).md "wikilink")》，舉行首個演唱會《[MYNAME 1st
-LIVE ～What's
-Up～](https://zh.wikipedia.org/wiki/MYNAME_1st_LIVE_～What's_Up～ "wikilink")》。\[18\]\[19\]
+2012年5月，發行首張韓語實體單曲《[MYNAME the 1st single](../Page/MYNAME_the_1st_single.md "wikilink")》，主打曲《Hello & Goodbye》。\[9\]\[10\] 2012年7月，於日本正式出道，首張日語單曲《[Message](https://zh.wikipedia.org/wiki/Message_\(MYNAME單曲\)#日語單曲 "wikilink")》於公信榜單曲週排行榜取得第14位。\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\] 原定於下半年回歸，主打曲《那算什麼（Just That Little Thing）》已製作完成，但因某些原因而取消。 2012年11月，發行首張原創日語單曲《[What's Up](../Page/What's_Up_\(MYNAME單曲\).md "wikilink")》，舉行首個演唱會《[MYNAME 1st LIVE ～What's Up～](https://zh.wikipedia.org/wiki/MYNAME_1st_LIVE_～What's_Up～ "wikilink")》。\[18\]\[19\]
 
 ### 2013年：[那算什麼](../Page/MYNAME_the_2nd_single.md "wikilink")、[Baby I'm Sorry](../Page/MYNAME_1st_Mini_Album.md "wikilink")、[Day by Day](../Page/MYNAME_the_3rd_single.md "wikilink")、[WE ARE MYNAME](../Page/WE_ARE_MYNAME.md "wikilink")
 
-1月，發行第二張韓語實體單曲《[MYNAME the 2nd
-single](../Page/MYNAME_the_2nd_single.md "wikilink")》，主打曲《那算什麼（Just That
-Little Thing）》，舉行韓國首個單獨演唱會《MYNAME 1st Concert "The Beginning"》。\[20\]
-3月，發行首張原創日本正規專輯《[WE ARE
-MYNAME](../Page/WE_ARE_MYNAME.md "wikilink")》，主打歌《We Are The
-Night》，於公信榜週排行榜取下佳績（第3位）。\[21\] 5月，舉行日本巡迴演唱會《MYNAME LIVE TOUR
-2013 ～THE DEPARTURE～》。\[22\] 7月4日，發行首張韓語迷你專輯《[MYNAME 1st Mini
-Album](../Page/MYNAME_1st_Mini_Album.md "wikilink")》，主打曲《Baby I'm
-Sorry》，同日於《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》回歸，MV半天內突破100萬觀看次，Hanteo榜拿下即時榜、日榜、週榜的冠軍，銷量共達兩萬張以上，亦於音樂節目取得滿意排名。\[23\]\[24\]\[25\]\[26\]
-7月5日，日方官網公佈「第95屆全國高中棒球錦標賽 東・西東京大會2013」，MYNAME演唱主題曲《[Sha la
-la](../Page/Shirayuki.md "wikilink")》。 10月11日，發行第三張韓語實體單曲《[MYNAME the
-3rd single](../Page/MYNAME_the_3rd_single.md "wikilink")》，主打曲目為《Day by
-Day》。\[27\]\[28\]
-11月20日，發行第三張日語單曲《[Shirayuki](../Page/Shirayuki.md "wikilink")》，主打曲目《Shirayuki》和B面曲《Sha
-la
-la》為初主演電影《[新大久保物語](https://zh.wikipedia.org/wiki/新大久保物語 "wikilink")》的主題曲和插曲。\[29\]
+1月，發行第二張韓語實體單曲《[MYNAME the 2nd single](../Page/MYNAME_the_2nd_single.md "wikilink")》，主打曲《那算什麼（Just That Little Thing）》，舉行韓國首個單獨演唱會《MYNAME 1st Concert "The Beginning"》。\[20\] 3月，發行首張原創日本正規專輯《[WE ARE MYNAME](../Page/WE_ARE_MYNAME.md "wikilink")》，主打歌《We Are The Night》，於公信榜週排行榜取下佳績（第3位）。\[21\] 5月，舉行日本巡迴演唱會《MYNAME LIVE TOUR 2013 ～THE DEPARTURE～》。\[22\] 7月4日，發行首張韓語迷你專輯《[MYNAME 1st Mini Album](../Page/MYNAME_1st_Mini_Album.md "wikilink")》，主打曲《Baby I'm Sorry》，同日於《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》回歸，MV半天內突破100萬觀看次，Hanteo榜拿下即時榜、日榜、週榜的冠軍，銷量共達兩萬張以上，亦於音樂節目取得滿意排名。\[23\]\[24\]\[25\]\[26\] 7月5日，日方官網公佈「第95屆全國高中棒球錦標賽 東・西東京大會2013」，MYNAME演唱主題曲《[Sha la la](../Page/Shirayuki.md "wikilink")》。 10月11日，發行第三張韓語實體單曲《[MYNAME the 3rd single](../Page/MYNAME_the_3rd_single.md "wikilink")》，主打曲目為《Day by Day》。\[27\]\[28\] 11月20日，發行第三張日語單曲《[Shirayuki](../Page/Shirayuki.md "wikilink")》，主打曲目《Shirayuki》和B面曲《Sha la la》為初主演電影《[新大久保物語](https://zh.wikipedia.org/wiki/新大久保物語 "wikilink")》的主題曲和插曲。\[29\]
 
 ### 2014年：[FIVE STARS](../Page/FIVE_STARS_\(MYNAME專輯\).md "wikilink")
 
-2014年1月，舉行演唱會《MYNAME JAPAN HALL TOUR 2014 ～HANDS UP～》。\[30\]
-3月，發行第二張原創日語專輯《[FIVE
-STARS](../Page/FIVE_STARS_\(MYNAME專輯\).md "wikilink")》，主打歌《F.F.Y (Fight
-for You)》 。\[31\] 2014年年中至下半年，專注日本的音樂活動，並舉行多場不同規模的演唱會 - 《MYNAME LIVE
-HOUSE TOUR 2014 "WOW\!"》、《MYNAME JAPAN 2nd HALL TOUR 2014》
+2014年1月，舉行演唱會《MYNAME JAPAN HALL TOUR 2014 ～HANDS UP～》。\[30\] 3月，發行第二張原創日語專輯《[FIVE STARS](../Page/FIVE_STARS_\(MYNAME專輯\).md "wikilink")》，主打歌《F.F.Y (Fight for You)》 。\[31\] 2014年年中至下半年，專注日本的音樂活動，並舉行多場不同規模的演唱會 - 《MYNAME LIVE HOUSE TOUR 2014 "WOW\!"》、《MYNAME JAPAN 2nd HALL TOUR 2014》
 
 ### 2015年：[非常Very一下子](../Page/MYNAME_2nd_Mini_Album.md "wikilink")、[直說吧](../Page/MYNAME_the_4th_single.md "wikilink")、[I.M.G. without you](../Page/I.M.G._～without_you～.md "wikilink")
 
-2015年1月，舉行演唱會《MYNAME LIVE HOUSE TOUR 2015 "WOW！" vol.3》，在演唱會中公開新曲《[Stop
-the time](../Page/I.M.G._～without_you～.md "wikilink")》。《Stop the
-time》亦是[日本電視台週四劇](../Page/日本電視台.md "wikilink")《五つ星ツーリスト～最高の旅、ご案內します\!\!》的主題曲。
-2月12日，發行第二張韓語迷你專輯《[MYNAME 2nd Mini
-Album](../Page/MYNAME_2nd_Mini_Album.md "wikilink")》，相隔約1年零4個月，主打曲《非常Very一下子》。\[32\]
-3月，發行第三張原創日語專輯《[I.M.G. without
-you](https://zh.wikipedia.org/wiki/I.M.G._without_you "wikilink")》，發行首日取得[Oricon公信榜專輯日榜第](../Page/Oricon公信榜.md "wikilink")1位。\[33\]\[34\]
-5月13日，發行第四張韓語實體單曲《[MYNAME the 4th
-single](../Page/MYNAME_the_4th_single.md "wikilink")》，主打曲《直說吧（Just Say
-It）》。\[35\] 5月24日，於AX-Korea舉辦韓國第三次演唱會，《2015 The Greatest Stories -
-第三次的約定》。\[36\] 5月30、31日，於仁川Nest飯店舉行了兩天一夜的粉絲見面會《MY
-NAME撲通撲通Camp Fanmeeting》。\[37\] 6月，舉行巡迴演唱會《MYNAME LIVE TOUR 2015
-～The Greatest Stories～》，演唱會以日本出道三週年為概念，每場次各有主題，展現這3年來的變化。
-7月28日，發行日文單曲《HELLO_AGAIN》，登上公信榜單曲榜日冠軍。\[38\]
+2015年1月，舉行演唱會《MYNAME LIVE HOUSE TOUR 2015 "WOW！" vol.3》，在演唱會中公開新曲《[Stop the time](../Page/I.M.G._～without_you～.md "wikilink")》。《Stop the time》亦是[日本電視台](../Page/日本電視台.md "wikilink")週四劇《五つ星ツーリスト～最高の旅、ご案內します\!\!》的主題曲。 2月12日，發行第二張韓語迷你專輯《[MYNAME 2nd Mini Album](../Page/MYNAME_2nd_Mini_Album.md "wikilink")》，相隔約1年零4個月，主打曲《非常Very一下子》。\[32\] 3月，發行第三張原創日語專輯《[I.M.G. without you](https://zh.wikipedia.org/wiki/I.M.G._without_you "wikilink")》，發行首日取得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯日榜第1位。\[33\]\[34\] 5月13日，發行第四張韓語實體單曲《[MYNAME the 4th single](../Page/MYNAME_the_4th_single.md "wikilink")》，主打曲《直說吧（Just Say It）》。\[35\] 5月24日，於AX-Korea舉辦韓國第三次演唱會，《2015 The Greatest Stories - 第三次的約定》。\[36\] 5月30、31日，於仁川Nest飯店舉行了兩天一夜的粉絲見面會《MY NAME撲通撲通Camp Fanmeeting》。\[37\] 6月，舉行巡迴演唱會《MYNAME LIVE TOUR 2015 ～The Greatest Stories～》，演唱會以日本出道三週年為概念，每場次各有主題，展現這3年來的變化。 7月28日，發行日文單曲《HELLO_AGAIN》，登上公信榜單曲榜日冠軍。\[38\]
 
 ### 2016年：建雨I AM 27、ALIVE Always In Your Heart
 
-1月30日，建雨發行首張日文個人專輯《I AM 27》。\[39\]。 12月7日，發行第四張日文專輯《ALIVE～Always In Your
-Heart～》，主打曲《Alive or Fallen》。
+1月30日，建雨發行首張日文個人專輯《I AM 27》。\[39\]。 12月7日，發行第四張日文專輯《ALIVE～Always In Your Heart～》，主打曲《Alive or Fallen》。
 
 ### 2017年：仁秀NAKED、仁秀入伍
 
-8月25日，於東京國際論壇舉辦的《MYNAME LIVE 2017\~由再見開始的 STORY\~》演唱會\[40\]。
-9月6日，仁秀發行首張SOLO日文迷你專輯《NAKED》
-10月26日，仁秀在位忠清南道的論山訓練所入伍，完成基礎軍事訓練後服役。
-10月28日，其餘成員出演KBS選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》。
+8月25日，於東京國際論壇舉辦的《MYNAME LIVE 2017\~由再見開始的 STORY\~》演唱會\[40\]。 9月6日，仁秀發行首張SOLO日文迷你專輯《NAKED》 10月26日，仁秀在位忠清南道的論山訓練所入伍，完成基礎軍事訓練後服役。 10月28日，其餘成員出演KBS選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》。
 
 ## 影視作品
 
@@ -732,100 +682,54 @@ Heart～》，主打曲《Alive or Fallen》。
   - [**俊Q Instagram**](https://www.instagram.com/kkangx/)
   - [**蔡晉 Instagram**](https://www.instagram.com/chaejin95/)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
-1.  \[hhttps://www.youtube.com/watch?v=o8JSB25TURY 마이네임의 2015 새해 인사
-    (HAPPY NEW YEAR)\]
-2.  [MYNAME
-    的粉絲名稱](https://www.kpopn.com/2012/05/07/myname-%E7%9A%84%E7%B2%89%E7%B5%B2%E5%90%8D%E7%A8%B1/)Kpopn
-    - 2012-05-07
-3.  [Fany 10月27日入伍！](https://www.kpopn.com/2011/10/18/fany-10%E6%9C%8827%E6%97%A5%E5%85%A5%E4%BC%8D%EF%BC%81/)Kpopn
-    - 2011-10-18
-4.  [新團 MYNAME
-    即將出道](https://www.kpopn.com/2011/10/06/%E6%96%B0%E5%9C%98-myname-%E5%8D%B3%E5%B0%87%E5%87%BA%E9%81%93/)Kpopn
-    - 2011-10-06
-5.  [MYNAME
-    首個節目即將播映](https://www.kpopn.com/2011/10/24/myname-%E9%A6%96%E5%80%8B%E7%AF%80%E7%9B%AE%E5%8D%B3%E5%B0%87%E6%92%AD%E6%98%A0/)Kpopn
-    - 2011-10-06
-6.  [MYNAME “Message”
-    MV](https://www.kpopn.com/2011/10/28/myname-message-mv/)
-7.  [MYNAME 專訪
-    I](https://www.kpopn.com/2011/11/21/myname-%E5%B0%88%E8%A8%AA-i/)
-8.  [MYNAME 專訪
-    II](https://www.kpopn.com/2011/11/21/myname-%E5%B0%88%E8%A8%AA-ii/)
-9.  [MYNAME 回歸曲 MV
-    公開](https://www.kpopn.com/2012/06/01/myname-%E5%9B%9E%E6%AD%B8%E6%9B%B2-mv-%E5%85%AC%E9%96%8B/)
-10. [MYNAME
-    新輯成績優異](https://www.kpopn.com/2012/06/12/myname-%E6%96%B0%E8%BC%AF%E6%88%90%E7%B8%BE%E5%84%AA%E7%95%B0/)
-11. [MYNAME
-    漫畫透露演出時間](https://www.kpopn.com/2012/06/27/myname-%E6%BC%AB%E7%95%AB%E9%80%8F%E9%9C%B2%E6%BC%94%E5%87%BA%E6%99%82%E9%96%93/)
-12. [MYNAME
-    在日受關心](https://www.kpopn.com/2011/10/28/myname-%E5%9C%A8%E6%97%A5%E5%8F%97%E9%97%9C%E5%BF%83/)
-13. [MYNAME
-    與日公司簽約](https://www.kpopn.com/2012/05/18/myname-%E8%88%87%E6%97%A5%E5%85%AC%E5%8F%B8%E7%B0%BD%E7%B4%84/)
-14. [MYNAME
-    與日女歌手合作](https://www.kpopn.com/2012/05/22/myname-%E8%88%87%E6%97%A5%E5%A5%B3%E6%AD%8C%E6%89%8B%E5%90%88%E4%BD%9C/)
-15. [MYNAME
-    與日名製作人合作](https://www.kpopn.com/2012/06/05/myname-%E8%88%87%E6%97%A5%E5%90%8D%E8%A3%BD%E4%BD%9C%E4%BA%BA%E5%90%88%E4%BD%9C/)
-16. [MYNAME
-    正式在日出道](https://www.kpopn.com/2012/06/13/myname-%E6%AD%A3%E5%BC%8F%E5%9C%A8%E6%97%A5%E5%87%BA%E9%81%93/)
-17. [MYNAME
-    登日公信榜前十](https://www.kpopn.com/2012/07/28/myname-%E7%99%BB%E6%97%A5%E5%85%AC%E4%BF%A1%E6%A6%9C%E5%89%8D%E5%8D%81/)
-18. [MYNAME – What’s Up
-    MV](https://www.kpopn.com/2012/10/26/myname-whats-up-mv/)
-19. [MYNAME
-    日演唱會完美結束](https://www.kpopn.com/2012/12/19/myname-%E6%97%A5%E6%BC%94%E5%94%B1%E6%9C%83%E5%AE%8C%E7%BE%8E%E7%B5%90%E6%9D%9F/)
-20. [MYNAME 新曲
-    MV](https://www.kpopn.com/2013/01/25/myname-%E6%96%B0%E6%9B%B2-mv-2/)
-21. [MYNAME 日輯主打歌
-    MV](https://www.kpopn.com/2013/03/18/myname-%E6%97%A5%E8%BC%AF%E4%B8%BB%E6%89%93%E6%AD%8C-mv/)
-22. [MYNAME
-    演唱會大成功！](https://www.kpopn.com/2013/03/05/myname-%E6%BC%94%E5%94%B1%E6%9C%83%E5%A4%A7%E6%88%90%E5%8A%9F%EF%BC%81/)
-23. [MYNAME 新曲
-    MV](https://www.kpopn.com/2013/07/05/myname-%E6%96%B0%E6%9B%B2-mv/)
-24. [MYNAME MV
-    半天百萬點擊](https://www.kpopn.com/2013/07/10/myname-mv-%E5%8D%8A%E5%A4%A9%E7%99%BE%E8%90%AC%E9%BB%9E%E6%93%8A/)
-25. [MYNAME
-    新曲的好成績](https://www.kpopn.com/2013/07/12/myname-%E6%96%B0%E6%9B%B2%E7%9A%84%E5%A5%BD%E6%88%90%E7%B8%BE/)
-26. [MYNAME
-    因為粉絲重拾希望](https://www.kpopn.com/2013/07/26/myname-%E5%9B%A0%E7%82%BA%E7%B2%89%E7%B5%B2%E9%87%8D%E6%8B%BE%E5%B8%8C%E6%9C%9B/)
-27. [MYNAME “Day By Day”
-    MV](https://www.kpopn.com/2013/10/11/myname-day-by-day-mv/)
-28. [MYNAME
-    與李賢道合作](https://www.kpopn.com/2013/10/02/myname-%E8%88%87%E6%9D%8E%E8%B3%A2%E9%81%93%E5%90%88%E4%BD%9C/)
-29. [MYNAME
-    將發行日文三單](https://www.kpopn.com/2013/10/20/myname-%E5%B0%87%E7%99%BC%E8%A1%8C%E6%97%A5%E6%96%87%E4%B8%89%E5%96%AE/)
+1.  \[hhttps://www.youtube.com/watch?v=o8JSB25TURY 마이네임의 2015 새해 인사 (HAPPY NEW YEAR)\]
+2.  [MYNAME 的粉絲名稱](https://www.kpopn.com/2012/05/07/myname-%E7%9A%84%E7%B2%89%E7%B5%B2%E5%90%8D%E7%A8%B1/)Kpopn - 2012-05-07
+3.  [Fany 10月27日入伍！](https://www.kpopn.com/2011/10/18/fany-10%E6%9C%8827%E6%97%A5%E5%85%A5%E4%BC%8D%EF%BC%81/)Kpopn - 2011-10-18
+4.  [新團 MYNAME 即將出道](https://www.kpopn.com/2011/10/06/%E6%96%B0%E5%9C%98-myname-%E5%8D%B3%E5%B0%87%E5%87%BA%E9%81%93/)Kpopn - 2011-10-06
+5.  [MYNAME 首個節目即將播映](https://www.kpopn.com/2011/10/24/myname-%E9%A6%96%E5%80%8B%E7%AF%80%E7%9B%AE%E5%8D%B3%E5%B0%87%E6%92%AD%E6%98%A0/)Kpopn - 2011-10-06
+6.  [MYNAME “Message” MV](https://www.kpopn.com/2011/10/28/myname-message-mv/)
+7.  [MYNAME 專訪 I](https://www.kpopn.com/2011/11/21/myname-%E5%B0%88%E8%A8%AA-i/)
+8.  [MYNAME 專訪 II](https://www.kpopn.com/2011/11/21/myname-%E5%B0%88%E8%A8%AA-ii/)
+9.  [MYNAME 回歸曲 MV 公開](https://www.kpopn.com/2012/06/01/myname-%E5%9B%9E%E6%AD%B8%E6%9B%B2-mv-%E5%85%AC%E9%96%8B/)
+10. [MYNAME 新輯成績優異](https://www.kpopn.com/2012/06/12/myname-%E6%96%B0%E8%BC%AF%E6%88%90%E7%B8%BE%E5%84%AA%E7%95%B0/)
+11. [MYNAME 漫畫透露演出時間](https://www.kpopn.com/2012/06/27/myname-%E6%BC%AB%E7%95%AB%E9%80%8F%E9%9C%B2%E6%BC%94%E5%87%BA%E6%99%82%E9%96%93/)
+12. [MYNAME 在日受關心](https://www.kpopn.com/2011/10/28/myname-%E5%9C%A8%E6%97%A5%E5%8F%97%E9%97%9C%E5%BF%83/)
+13. [MYNAME 與日公司簽約](https://www.kpopn.com/2012/05/18/myname-%E8%88%87%E6%97%A5%E5%85%AC%E5%8F%B8%E7%B0%BD%E7%B4%84/)
+14. [MYNAME 與日女歌手合作](https://www.kpopn.com/2012/05/22/myname-%E8%88%87%E6%97%A5%E5%A5%B3%E6%AD%8C%E6%89%8B%E5%90%88%E4%BD%9C/)
+15. [MYNAME 與日名製作人合作](https://www.kpopn.com/2012/06/05/myname-%E8%88%87%E6%97%A5%E5%90%8D%E8%A3%BD%E4%BD%9C%E4%BA%BA%E5%90%88%E4%BD%9C/)
+16. [MYNAME 正式在日出道](https://www.kpopn.com/2012/06/13/myname-%E6%AD%A3%E5%BC%8F%E5%9C%A8%E6%97%A5%E5%87%BA%E9%81%93/)
+17. [MYNAME 登日公信榜前十](https://www.kpopn.com/2012/07/28/myname-%E7%99%BB%E6%97%A5%E5%85%AC%E4%BF%A1%E6%A6%9C%E5%89%8D%E5%8D%81/)
+18. [MYNAME – What’s Up MV](https://www.kpopn.com/2012/10/26/myname-whats-up-mv/)
+19. [MYNAME 日演唱會完美結束](https://www.kpopn.com/2012/12/19/myname-%E6%97%A5%E6%BC%94%E5%94%B1%E6%9C%83%E5%AE%8C%E7%BE%8E%E7%B5%90%E6%9D%9F/)
+20. [MYNAME 新曲 MV](https://www.kpopn.com/2013/01/25/myname-%E6%96%B0%E6%9B%B2-mv-2/)
+21. [MYNAME 日輯主打歌 MV](https://www.kpopn.com/2013/03/18/myname-%E6%97%A5%E8%BC%AF%E4%B8%BB%E6%89%93%E6%AD%8C-mv/)
+22. [MYNAME 演唱會大成功！](https://www.kpopn.com/2013/03/05/myname-%E6%BC%94%E5%94%B1%E6%9C%83%E5%A4%A7%E6%88%90%E5%8A%9F%EF%BC%81/)
+23. [MYNAME 新曲 MV](https://www.kpopn.com/2013/07/05/myname-%E6%96%B0%E6%9B%B2-mv/)
+24. [MYNAME MV 半天百萬點擊](https://www.kpopn.com/2013/07/10/myname-mv-%E5%8D%8A%E5%A4%A9%E7%99%BE%E8%90%AC%E9%BB%9E%E6%93%8A/)
+25. [MYNAME 新曲的好成績](https://www.kpopn.com/2013/07/12/myname-%E6%96%B0%E6%9B%B2%E7%9A%84%E5%A5%BD%E6%88%90%E7%B8%BE/)
+26. [MYNAME 因為粉絲重拾希望](https://www.kpopn.com/2013/07/26/myname-%E5%9B%A0%E7%82%BA%E7%B2%89%E7%B5%B2%E9%87%8D%E6%8B%BE%E5%B8%8C%E6%9C%9B/)
+27. [MYNAME “Day By Day” MV](https://www.kpopn.com/2013/10/11/myname-day-by-day-mv/)
+28. [MYNAME 與李賢道合作](https://www.kpopn.com/2013/10/02/myname-%E8%88%87%E6%9D%8E%E8%B3%A2%E9%81%93%E5%90%88%E4%BD%9C/)
+29. [MYNAME 將發行日文三單](https://www.kpopn.com/2013/10/20/myname-%E5%B0%87%E7%99%BC%E8%A1%8C%E6%97%A5%E6%96%87%E4%B8%89%E5%96%AE/)
 30. [MYNAME日巡8千粉絲參加](https://www.kpopn.com/2014/01/21/myname%E6%97%A5%E5%B7%A18%E5%8D%83%E7%B2%89%E7%B5%B2%E5%8F%83%E5%8A%A0/)
 31. [MYNAME日單”F.F.Y”MV](https://www.kpopn.com/2014/02/20/myname%E6%97%A5%E5%96%AEf-f-ymv/)
-32. [MYNAME 新專輯 MV
-    公開](https://www.kpopn.com/2015/02/12/myname-%E6%96%B0%E5%B0%88%E8%BC%AF-mv-%E5%85%AC%E9%96%8B/)
+32. [MYNAME 新專輯 MV 公開](https://www.kpopn.com/2015/02/12/myname-%E6%96%B0%E5%B0%88%E8%BC%AF-mv-%E5%85%AC%E9%96%8B/)
 33. [MYNAME在日發展有成　新專輯稱霸Oricon榜](https://www.koreastardaily.com/tc/photo/58052)
 34. [MYNAME逆襲日本　時隔8週重登榜首](https://www.koreastardaily.com/tc/news/61129)
-35. [MYNAME 新輯
-    MV、音源](https://www.kpopn.com/2015/05/14/myname-%E6%96%B0%E8%BC%AF-mv%E3%80%81%E9%9F%B3%E6%BA%90/)
-36. [MYNAME 5/24
-    辦演唱會](https://www.kpopn.com/2015/05/09/myname-524-%E8%BE%A6%E6%BC%94%E5%94%B1%E6%9C%83/)
-37. [MY NAME舉行見面會
-    與日歌迷共度兩天一夜](http://www.allthatstar.com/tw/view.php?action=5205&postID=88431)
+35. [MYNAME 新輯 MV、音源](https://www.kpopn.com/2015/05/14/myname-%E6%96%B0%E8%BC%AF-mv%E3%80%81%E9%9F%B3%E6%BA%90/)
+36. [MYNAME 5/24 辦演唱會](https://www.kpopn.com/2015/05/09/myname-524-%E8%BE%A6%E6%BC%94%E5%94%B1%E6%9C%83/)
+37. [MY NAME舉行見面會 與日歌迷共度兩天一夜](http://www.allthatstar.com/tw/view.php?action=5205&postID=88431)
 38. [MYNAME獲公信榜單曲榜冠軍](https://www.kpopn.com/2015/07/31/myname%E7%8D%B2%E5%85%AC%E4%BF%A1%E6%A6%9C%E5%96%AE%E6%9B%B2%E6%A6%9C%E5%86%A0%E8%BB%8D/)
-39. [MYNAME 建雨日本 SOLO
-    出輯！](https://www.kpopn.com/2016/01/03/myname-%E5%BB%BA%E9%9B%A8%E6%97%A5%E6%9C%AC-solo-%E5%87%BA%E8%BC%AF%EF%BC%81/)
-40. [MYNAME
-    日本完成最後的五人演唱會](https://www.kpopn.com/2017/08/26/myname-%E6%97%A5%E6%9C%AC%E5%AE%8C%E6%88%90%E6%9C%80%E5%BE%8C%E7%9A%84%E4%BA%94%E4%BA%BA%E6%BC%94%E5%94%B1%E6%9C%83/)
+39. [MYNAME 建雨日本 SOLO 出輯！](https://www.kpopn.com/2016/01/03/myname-%E5%BB%BA%E9%9B%A8%E6%97%A5%E6%9C%AC-solo-%E5%87%BA%E8%BC%AF%EF%BC%81/)
+40. [MYNAME 日本完成最後的五人演唱會](https://www.kpopn.com/2017/08/26/myname-%E6%97%A5%E6%9C%AC%E5%AE%8C%E6%88%90%E6%9C%80%E5%BE%8C%E7%9A%84%E4%BA%94%E4%BA%BA%E6%BC%94%E5%94%B1%E6%9C%83/)
 41.
-42. [MYNAME
-    節目迷倒女嘉賓](https://www.kpopn.com/2012/06/17/myname-%E7%AF%80%E7%9B%AE%E8%BF%B7%E5%80%92%E5%A5%B3%E5%98%89%E8%B3%93/)Kpopn
-43. [多組新人加入 MTV
-    節目](https://www.kpopn.com/2012/06/22/%E5%A4%9A%E7%B5%84%E6%96%B0%E4%BA%BA%E5%8A%A0%E5%85%A5-mtv-%E7%AF%80%E7%9B%AE/)Kpopn
-44. [MTV Diary
-    E20](https://www.kpopn.com/2012/08/18/mtv-diary-e20/)Kpopn
+42. [MYNAME 節目迷倒女嘉賓](https://www.kpopn.com/2012/06/17/myname-%E7%AF%80%E7%9B%AE%E8%BF%B7%E5%80%92%E5%A5%B3%E5%98%89%E8%B3%93/)Kpopn
+43. [多組新人加入 MTV 節目](https://www.kpopn.com/2012/06/22/%E5%A4%9A%E7%B5%84%E6%96%B0%E4%BA%BA%E5%8A%A0%E5%85%A5-mtv-%E7%AF%80%E7%9B%AE/)Kpopn
+44. [MTV Diary E20](https://www.kpopn.com/2012/08/18/mtv-diary-e20/)Kpopn
 45. [《強心臟》仁秀暫代利特位](https://www.kpopn.com/2012/12/05/%E3%80%8A%E5%BC%B7%E5%BF%83%E8%87%9F%E3%80%8B%E4%BB%81%E7%A7%80%E6%9A%AB%E4%BB%A3%E5%88%A9%E7%89%B9%E4%BD%8D/)Kpopn
-46. [MYNAME
-    在日本有專屬節目](https://www.kpopn.com/2013/01/11/myname-%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%9C%89%E5%B0%88%E5%B1%AC%E7%AF%80%E7%9B%AE)Kpopn
+46. [MYNAME 在日本有專屬節目](https://www.kpopn.com/2013/01/11/myname-%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%9C%89%E5%B0%88%E5%B1%AC%E7%AF%80%E7%9B%AE)Kpopn
 47.
 48.
 49.

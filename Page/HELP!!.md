@@ -3,7 +3,7 @@
 ## 概要
 
   - [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[MM一族](../Page/MM一族.md "wikilink")』的[主題曲](../Page/主題曲.md "wikilink")。
-  - 歌曲由劇中的石動美緒和結野嵐子的[聲優](../Page/聲優.md "wikilink")[竹達彩奈和](../Page/竹達彩奈.md "wikilink")[早見沙織所唱](../Page/早見沙織.md "wikilink")。
+  - 歌曲由劇中的石動美緒和結野嵐子的[聲優](../Page/聲優.md "wikilink")[竹達彩奈](../Page/竹達彩奈.md "wikilink")和[早見沙織](../Page/早見沙織.md "wikilink")所唱。
   - CD封面有石動美緒和結野嵐子的畫像。
 
 ## 收錄曲
@@ -35,7 +35,4 @@
 
   - [HELP\!\!](http://lantis.jp/new-release/data.php?id=b94acb1664f06d2108b1a56ba3337d1d)
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
-[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")
-[Category:兒玉沙織製作的樂曲](https://zh.wikipedia.org/wiki/Category:兒玉沙織製作的樂曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:兒玉沙織製作的樂曲](https://zh.wikipedia.org/wiki/Category:兒玉沙織製作的樂曲 "wikilink")

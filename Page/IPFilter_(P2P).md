@@ -1,4 +1,4 @@
-**IPFilter**是一种过滤阻擋不安全[IP的功能](../Page/IP地址.md "wikilink")，它被很多[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[檔案分享客户端和](../Page/檔案分享.md "wikilink")[防火牆軟體所使用](https://zh.wikipedia.org/wiki/防火牆 "wikilink")。
+**IPFilter**是一种过滤阻擋不安全[IP的功能](../Page/IP地址.md "wikilink")，它被很多[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[檔案分享](../Page/檔案分享.md "wikilink")客户端和[防火牆軟體所使用](https://zh.wikipedia.org/wiki/防火牆 "wikilink")。
 
 ## 目的
 
@@ -8,8 +8,7 @@
 
 IPFilter被很多[防火牆軟體](https://zh.wikipedia.org/wiki/防火牆 "wikilink")、[eDonkey网络客户端与](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")[BitTorrent协议客户端所使用](https://zh.wikipedia.org/wiki/BitTorrent协议 "wikilink")，支持IPFilter的软件包括\[2\]\[3\]：
 
-  - eDonkey网络客户端：[aMule](https://zh.wikipedia.org/wiki/aMule "wikilink")、[eMule与其](https://zh.wikipedia.org/wiki/eMule "wikilink")[Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")（修改版）、[eMule
-    Plus](https://zh.wikipedia.org/wiki/eMule_Plus "wikilink")、[MLDonkey](../Page/MLDonkey.md "wikilink")、[Shareaza](../Page/Shareaza.md "wikilink")、[Lphant](../Page/Lphant.md "wikilink")、[JMule等](../Page/JMule.md "wikilink")
+  - eDonkey网络客户端：[aMule](https://zh.wikipedia.org/wiki/aMule "wikilink")、[eMule与其](https://zh.wikipedia.org/wiki/eMule "wikilink")[Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")（修改版）、[eMule Plus](https://zh.wikipedia.org/wiki/eMule_Plus "wikilink")、[MLDonkey](../Page/MLDonkey.md "wikilink")、[Shareaza](../Page/Shareaza.md "wikilink")、[Lphant](../Page/Lphant.md "wikilink")、[JMule](../Page/JMule.md "wikilink")等
   - BitTorrent协议客户端：[μTorrent](https://zh.wikipedia.org/wiki/μTorrent "wikilink")、[Vuze](../Page/Vuze.md "wikilink")、[BitTorrent](../Page/BitTorrent_\(软件\).md "wikilink")、[BitSpirit](https://zh.wikipedia.org/wiki/BitSpirit "wikilink")、[BitComet](../Page/BitComet.md "wikilink")、[Halite等](https://zh.wikipedia.org/wiki/Halite "wikilink")
 
 eMule等一些客户端也具有自动更新IPFilter的功能。
@@ -30,15 +29,12 @@ IPFilter通常的格式包括**ipfilter.dat**格式和**guarding.p2p**格式。�
 
 ## 外部链接
 
-  - [eMule
-    IPFilter（IP过滤库）详解](https://web.archive.org/web/20100712095052/http://emulefans.com/emule-ipfilter-intro/)
+  - [eMule IPFilter（IP过滤库）详解](https://web.archive.org/web/20100712095052/http://emulefans.com/emule-ipfilter-intro/)
   - [eMule的IP过滤数据库（IPFilter.dat）](https://web.archive.org/web/20101104212949/http://emulefans.com/news/plugin/ipfilter/)
   - [eMule IPFilter](http://www.emule-mods.de/?mods=ipfilter)
-  - [ipfilter
-    updater](https://web.archive.org/web/20100829045348/http://ipfilterupdater.sourceforge.net/)
+  - [ipfilter updater](https://web.archive.org/web/20100829045348/http://ipfilterupdater.sourceforge.net/)
 
-[Category:網路安全](https://zh.wikipedia.org/wiki/Category:網路安全 "wikilink")
-[Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink")
+[Category:網路安全](https://zh.wikipedia.org/wiki/Category:網路安全 "wikilink") [Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink")
 
 1.
 2.

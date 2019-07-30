@@ -1,15 +1,12 @@
-《**a walk in the
-park**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠的第](../Page/安室奈美惠.md "wikilink")8張個人[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年11月27日發行。
+《**a walk in the park**》，是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[安室奈美惠](../Page/安室奈美惠.md "wikilink")的第8張個人[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年11月27日發行。
 
 ## 簡介
 
-  - 取得巨大成功的[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[SWEET
-    19 BLUES](../Page/SWEET_19_BLUES.md "wikilink")》發行之後的首張單曲。
+  - 取得巨大成功的[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[SWEET 19 BLUES](../Page/SWEET_19_BLUES.md "wikilink")》發行之後的首張單曲。
 
 <!-- end list -->
 
-  - 是[安室奈美惠親自出演的](../Page/安室奈美惠.md "wikilink")[日立Maxell](https://zh.wikipedia.org/wiki/日立Maxell "wikilink")「maxell
-    UD」[廣告的歌曲](../Page/廣告.md "wikilink")。
+  - 是[安室奈美惠](../Page/安室奈美惠.md "wikilink")親自出演的[日立Maxell](https://zh.wikipedia.org/wiki/日立Maxell "wikilink")「maxell UD」[廣告](../Page/廣告.md "wikilink")的歌曲。
 
 <!-- end list -->
 
@@ -17,8 +14,7 @@ park**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.
 
 <!-- end list -->
 
-  - 1997年上半年，在日本全國舉行同名巡迴[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")「Namie
-    Amuro tour 1997 a walk in the park」，動員超過12萬人觀看。
+  - 1997年上半年，在日本全國舉行同名巡迴[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")「Namie Amuro tour 1997 a walk in the park」，動員超過12萬人觀看。
 
 ## 收錄曲目
 
@@ -31,8 +27,7 @@ park**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.
 Mixed by Eddie DeLena
 Guitar: Michael Thompson
 Bass: Kenji Sano
-Synthesizer Programming, Manipulating, Keyboards, Chorus - Tetsuya
-Komuro
+Synthesizer Programming, Manipulating, Keyboards, Chorus - Tetsuya Komuro
 
 ## 參考資料
 
@@ -40,12 +35,7 @@ Komuro
 
   - [唱片介紹](https://web.archive.org/web/20090601164411/http://avexnet.jp/id/amuro/discography/product/AVDD-20161.html)
 
-[Category:安室奈美惠歌曲](https://zh.wikipedia.org/wiki/Category:安室奈美惠歌曲 "wikilink")
-[Category:1996年單曲](https://zh.wikipedia.org/wiki/Category:1996年單曲 "wikilink")
-[Category:科技產品廣告歌曲](https://zh.wikipedia.org/wiki/Category:科技產品廣告歌曲 "wikilink")
-[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
-[Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink")
-[Category:1996年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1996年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:安室奈美惠歌曲](https://zh.wikipedia.org/wiki/Category:安室奈美惠歌曲 "wikilink") [Category:1996年單曲](https://zh.wikipedia.org/wiki/Category:1996年單曲 "wikilink") [Category:科技產品廣告歌曲](https://zh.wikipedia.org/wiki/Category:科技產品廣告歌曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:1996年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1996年Oricon單曲週榜冠軍作品 "wikilink")
 
 1.  [](https://web.archive.org/web/20010715041931/http://www.nikkansports.com/news2/amuro/a-cd.html)
 2.

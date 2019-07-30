@@ -1220,12 +1220,12 @@
 <tbody>
 <tr class="odd">
 <td><p>『<strong>Live</strong>』</p></td>
-<td><p>地下時期作品。收錄1985年6月26日於<a href="../Page/神樂坂.md" title="wikilink">神樂坂Explosion演出時的音源</a>。</p></td>
+<td><p>地下時期作品。收錄1985年6月26日於<a href="../Page/神樂坂.md" title="wikilink">神樂坂</a>Explosion演出時的音源。</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>『<strong>I'll Kill You</strong>』</p></td>
-<td><p>地下時期作品，與『Live』同時期發表。收錄1985年10月4日於<a href="../Page/神樂坂.md" title="wikilink">神樂坂Explosion演出時的音源</a>。</p></td>
+<td><p>地下時期作品，與『Live』同時期發表。收錄1985年10月4日於<a href="../Page/神樂坂.md" title="wikilink">神樂坂</a>Explosion演出時的音源。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1248,7 +1248,7 @@
 | **Tuneup Baby**             | 詞・曲：JUN            |                                                                                                 |
 | **Jungle**                  | 曲：TAIJI & HIDE     | 由TAIJI離團後自行發表，X未曾正式發表。                                                                          |
 | **Hero**                    | 詞・曲：YOSHIKI        | 劇場版電影《[聖鬥士星矢 聖域傳說](../Page/聖鬥士星矢_LEGEND_of_SANCTUARY.md "wikilink")》主題曲。電影中是古典版，X JAPAN以重搖滾版演出。 |
-| **Beneath The Skin**        | 詞：YOSHIKI／曲：SUGIZO | X JAPAN在『』演奏的[S.K.I.N.歌曲](../Page/S.K.I.N..md "wikilink")。                                      |
+| **Beneath The Skin**        | 詞：YOSHIKI／曲：SUGIZO | X JAPAN在『』演奏的[S.K.I.N.](../Page/S.K.I.N..md "wikilink")歌曲。                                      |
 | **Kiss the Sky**            | 未詳                 | 2015年6月27日於[LUNA SEA主辦的搖滾音樂節](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")『』上首次演出此新曲。     |
 | **Angel**                   | 未詳                 | X JAPAN在『』中演出的Violet UK歌曲。                                                                      |
 | **Rock Star**               | 未詳                 | YOSHIKI於2016年1月26日宣布的新曲。                                                                        |
@@ -1308,7 +1308,7 @@
 | 「Tears」                | [TBS電視台](../Page/TBS電視台.md "wikilink")《》主題曲、電影《》插曲                                                                                          |
 | 「Rusty Nail」           | [富士電視台](../Page/富士電視台.md "wikilink")《》主題曲、[鈴木汽車](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")「[Swift](../Page/鈴木Swift.md "wikilink")」廣告曲  |
 | 「X」                    | [Sony](../Page/索尼.md "wikilink")[卡式錄音帶](https://zh.wikipedia.org/wiki/卡式錄音帶 "wikilink")《X》廣告曲                                               |
-| 「Longing 〜跡切れたmelody〜」 | [美津濃體育用品](../Page/美津濃.md "wikilink")《[鈴木一朗篇](https://zh.wikipedia.org/wiki/鈴木一朗 "wikilink")》廣告曲                                             |
+| 「Longing 〜跡切れたmelody〜」 | [美津濃](../Page/美津濃.md "wikilink")體育用品《[鈴木一朗篇](https://zh.wikipedia.org/wiki/鈴木一朗 "wikilink")》廣告曲                                             |
 | 「Forever Love」         | 電影《X》主題曲、[自由民主黨國政選舉廣告曲](https://zh.wikipedia.org/wiki/自由民主黨_\(日本\) "wikilink")（總裁[小泉純一郎出演](https://zh.wikipedia.org/wiki/小泉純一郎 "wikilink")） |
 | 「Crucify My Love」      | [日本石油](https://zh.wikipedia.org/wiki/JX能源 "wikilink")《ZOA》廣告曲、朝日電視台《》片尾曲                                                                    |
 | 「White Poem I」         | 日本石油《ZOA》廣告曲                                                                                                                                |
@@ -1321,9 +1321,7 @@
 
 ## 引用
 
-[Category:X_Japan](https://zh.wikipedia.org/wiki/Category:X_Japan "wikilink")
-[Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink")
-[Category:重金屬樂團作品列表](https://zh.wikipedia.org/wiki/Category:重金屬樂團作品列表 "wikilink")
+[Category:X_Japan](https://zh.wikipedia.org/wiki/Category:X_Japan "wikilink") [Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink") [Category:重金屬樂團作品列表](https://zh.wikipedia.org/wiki/Category:重金屬樂團作品列表 "wikilink")
 
 1.
 

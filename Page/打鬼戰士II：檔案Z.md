@@ -1,6 +1,4 @@
-《**打鬼戰士II：檔案Z**》（）是由[麥克斯·布魯克斯](https://zh.wikipedia.org/wiki/麥克斯·布魯克斯 "wikilink")（Max
-Brooks）所寫，繼《[打鬼戰士1：世界末日求生指南](../Page/打鬼戰士1：世界末日求生指南.md "wikilink")》（*The
-Zombie Survival Guide*）又一作品，中文譯者為趙德昌。本書中文版於2008年由木馬文化出版。
+《**打鬼戰士II：檔案Z**》（）是由[麥克斯·布魯克斯](https://zh.wikipedia.org/wiki/麥克斯·布魯克斯 "wikilink")（Max Brooks）所寫，繼《[打鬼戰士1：世界末日求生指南](../Page/打鬼戰士1：世界末日求生指南.md "wikilink")》（*The Zombie Survival Guide*）又一作品，中文譯者為趙德昌。本書中文版於2008年由木馬文化出版。
 
 2013年台灣由遠流出版社再版，譯名改為《**末日之戰：政府不想讓你知道的事**》。目前市面上的舊版全部已經絕版。
 
@@ -54,20 +52,10 @@ Zombie Survival Guide*）又一作品，中文譯者為趙德昌。本書中文�
 ## 參見
 
   - [喪屍](../Page/喪屍.md "wikilink")
-  - [僵尸世界大战
-    (2019年游戏)](https://zh.wikipedia.org/wiki/僵尸世界大战_\(2019年游戏\) "wikilink")
+  - [僵尸世界大战 (2019年游戏)](https://zh.wikipedia.org/wiki/僵尸世界大战_\(2019年游戏\) "wikilink")
 
 ## 外部連結
 
   - [本書官網](http://www.randomhouse.com/crown/recordedattacks/)
 
-[Category:2006年小說](https://zh.wikipedia.org/wiki/Category:2006年小說 "wikilink")
-[Category:科幻小說](https://zh.wikipedia.org/wiki/Category:科幻小說 "wikilink")
-[Category:美国恐怖小说](https://zh.wikipedia.org/wiki/Category:美国恐怖小说 "wikilink")
-[Category:書信體小說](https://zh.wikipedia.org/wiki/Category:書信體小說 "wikilink")
-[Category:喪屍題材作品](https://zh.wikipedia.org/wiki/Category:喪屍題材作品 "wikilink")
-[Category:潛水艦題材作品](https://zh.wikipedia.org/wiki/Category:潛水艦題材作品 "wikilink")
-[Category:反烏托邦小說](https://zh.wikipedia.org/wiki/Category:反烏托邦小說 "wikilink")
-[Category:处女作小说](https://zh.wikipedia.org/wiki/Category:处女作小说 "wikilink")
-[Category:美國小說](https://zh.wikipedia.org/wiki/Category:美國小說 "wikilink")
-[Category:虚构战争](https://zh.wikipedia.org/wiki/Category:虚构战争 "wikilink")
+[Category:2006年小說](https://zh.wikipedia.org/wiki/Category:2006年小說 "wikilink") [Category:科幻小說](https://zh.wikipedia.org/wiki/Category:科幻小說 "wikilink") [Category:美国恐怖小说](https://zh.wikipedia.org/wiki/Category:美国恐怖小说 "wikilink") [Category:書信體小說](https://zh.wikipedia.org/wiki/Category:書信體小說 "wikilink") [Category:喪屍題材作品](https://zh.wikipedia.org/wiki/Category:喪屍題材作品 "wikilink") [Category:潛水艦題材作品](https://zh.wikipedia.org/wiki/Category:潛水艦題材作品 "wikilink") [Category:反烏托邦小說](https://zh.wikipedia.org/wiki/Category:反烏托邦小說 "wikilink") [Category:处女作小说](https://zh.wikipedia.org/wiki/Category:处女作小说 "wikilink") [Category:美國小說](https://zh.wikipedia.org/wiki/Category:美國小說 "wikilink") [Category:虚构战争](https://zh.wikipedia.org/wiki/Category:虚构战争 "wikilink")

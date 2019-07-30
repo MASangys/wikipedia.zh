@@ -1,6 +1,4 @@
-[For-loop-diagram.png](https://zh.wikipedia.org/wiki/File:For-loop-diagram.png "fig:For-loop-diagram.png")
-
-**for迴圈**（）在計算機科學是一種[程式語言的](https://zh.wikipedia.org/wiki/程式語言 "wikilink")[迭代](../Page/迭代.md "wikilink")[陳述](https://zh.wikipedia.org/wiki/陳述_\(程式\) "wikilink")，能夠讓程式碼反覆的執行。
+[For-loop-diagram.png](https://zh.wikipedia.org/wiki/File:For-loop-diagram.png "fig:For-loop-diagram.png")  **for迴圈**（）在計算機科學是一種[程式語言的](https://zh.wikipedia.org/wiki/程式語言 "wikilink")[迭代](../Page/迭代.md "wikilink")[陳述](https://zh.wikipedia.org/wiki/陳述_\(程式\) "wikilink")，能夠讓程式碼反覆的執行。
 
 它跟其他的[迴圈](../Page/迴圈.md "wikilink")，如[while迴圈](https://zh.wikipedia.org/wiki/while迴圈 "wikilink")，最大的不同，是它擁有一個[迴圈計數器](https://zh.wikipedia.org/wiki/迴圈計數器 "wikilink")，或是迴圈變數。這使得for迴圈能夠知道在迭代過程中的執行順序。
 
@@ -50,15 +48,10 @@ for item in some_iterable_object:
 
 ### 矩陣化for迴圈
 
-有一些語言支援比較特別的for迴圈，如同它可以同時處理所有的指標[in
-parallel](https://zh.wikipedia.org/wiki/Automatic_vectorization "wikilink")，像是在[FORTRAN
-95中的](https://zh.wikipedia.org/wiki/FORTRAN_95 "wikilink")`for all`語法。
-舉例來說，在以下的for迴圈[虛擬碼片段](https://zh.wikipedia.org/wiki/虛擬碼 "wikilink")，當計算`A(i)`的新的值，除了第一個(也就是
-`i = 2`)，`A(i - 1)`的參照會得到新的值。 然而，在`for all` 版本，每個計算都會使用一開始的值，不會更改 `A`.
+有一些語言支援比較特別的for迴圈，如同它可以同時處理所有的指標[in parallel](https://zh.wikipedia.org/wiki/Automatic_vectorization "wikilink")，像是在[FORTRAN 95中的](https://zh.wikipedia.org/wiki/FORTRAN_95 "wikilink")`for all`語法。 舉例來說，在以下的for迴圈[虛擬碼片段](https://zh.wikipedia.org/wiki/虛擬碼 "wikilink")，當計算`A(i)`的新的值，除了第一個(也就是 `i = 2`)，`A(i - 1)`的參照會得到新的值。 然而，在`for all` 版本，每個計算都會使用一開始的值，不會更改 `A`.
 
 **`for`**`     i := 2 : N - 1 `**`do`**` A(i) := [A(i - 1) + A(i) + A(i + 1)] / 3; `**`next`**` i;`
-**`for``
- ``all`**` i := 2 : N - 1 `**`do`**` A(i) := [A(i - 1) + A(i) + A(i + 1)] / 3;`
+**`for``   ``all`**` i := 2 : N - 1 `**`do`**` A(i) := [A(i - 1) + A(i) + A(i + 1)] / 3;`
 
 和一般的for迴圈可能差距比較大。
 
@@ -114,7 +107,7 @@ for (int i=0;i<10;i--)
 
 ### 超出界限
 
-[編譯器會顯示out](../Page/編譯器.md "wikilink") of bound，通常是指嘗試取矩陣界限外的值。
+[編譯器](../Page/編譯器.md "wikilink")會顯示out of bound，通常是指嘗試取矩陣界限外的值。
 
 ### 迴圈內的變數
 
@@ -172,9 +165,7 @@ end do
 
 ### 1960: COBOL
 
-[COBOL在許多努力之下](../Page/COBOL.md "wikilink")，在1959年終正式格式化。他使用PERFORM
-動詞，而PERFORM動詞有很多功能，像是後來加上的＂結構化＂的語法，像是
-END-PERFORM。忽略宣告和初始化變數的必要，類似for迴圈的語法為：
+[COBOL](../Page/COBOL.md "wikilink")在許多努力之下，在1959年終正式格式化。他使用PERFORM 動詞，而PERFORM動詞有很多功能，像是後來加上的＂結構化＂的語法，像是 END-PERFORM。忽略宣告和初始化變數的必要，類似for迴圈的語法為：
 
 ``` COBOL
       PERFORM VARYING I FROM 1 BY 1 UNTIL I > 1000
@@ -196,8 +187,7 @@ Next I
 
 ### 1964: PL/I
 
-由IBM公司在1950年代發明的第三代高級程式語言，
-有些類似[PASCAL語言](https://zh.wikipedia.org/wiki/PASCAL "wikilink")。
+由IBM公司在1950年代發明的第三代高級程式語言， 有些類似[PASCAL語言](https://zh.wikipedia.org/wiki/PASCAL "wikilink")。
 
   -
     以下為[PLI使用例](https://zh.wikipedia.org/wiki/PLI "wikilink")：
@@ -214,8 +204,7 @@ do counter = 1 to 5 by 1; /* "by 1" is the default if not specified */
 
 ### 1968: Algol 68
 
-[Algol68](https://zh.wikipedia.org/wiki/Algol68 "wikilink")
-很類似現在的for語言了：
+[Algol68](https://zh.wikipedia.org/wiki/Algol68 "wikilink") 很類似現在的for語言了：
 
 ``` Algol68
 FOR i FROM 1 BY 2 TO 3 WHILE i≠4 DO ~ OD
@@ -261,8 +250,7 @@ Maple有兩種型式的for迴圈，一個是指標一定範圍的值，另一個
 
 ### 1982: PostScript
 
-他的for迴圈 `[initial] [increment] [limit] { ... } for` 初始化一個內部的變數,
-並且執行到他不大於限制的值(若遞增為負則以此類推)。\[2\]
+他的for迴圈 `[initial] [increment] [limit] { ... } for` 初始化一個內部的變數, 並且執行到他不大於限制的值(若遞增為負則以此類推)。\[2\]
 
 ``` AppleScript
 1 1 6 {STATEMENTS} for
@@ -496,5 +484,4 @@ for (var counter:uint = 1; counter <= 5; counter++){
 
 1.
 2.
-3.  [OCaml expression
-    syntax](http://caml.inria.fr/pub/docs/manual-ocaml-4.00/expr.html)
+3.  [OCaml expression syntax](http://caml.inria.fr/pub/docs/manual-ocaml-4.00/expr.html)

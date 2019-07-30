@@ -1,8 +1,4 @@
-**BeOS
-API**亦被[Be公司称作](https://zh.wikipedia.org/wiki/Be公司 "wikilink")**Be
-API** after [Be
-Inc.](https://zh.wikipedia.org/wiki/Be_Inc. "wikilink")，是在[BeOS](../Page/BeOS.md "wikilink")上编写图形应用程序所需要的[应用程序接口](../Page/应用程序接口.md "wikilink")，并由此延伸出了[Magnussoft
-ZETA](../Page/Magnussoft_ZETA.md "wikilink")。
+**BeOS API**亦被[Be公司称作](https://zh.wikipedia.org/wiki/Be公司 "wikilink")**Be API** after [Be Inc.](https://zh.wikipedia.org/wiki/Be_Inc. "wikilink")，是在[BeOS](../Page/BeOS.md "wikilink")上编写图形应用程序所需要的[应用程序接口](../Page/应用程序接口.md "wikilink")，并由此延伸出了[Magnussoft ZETA](../Page/Magnussoft_ZETA.md "wikilink")。
 
 该API被分为数个“包”，“包”中包含类似的[类](../Page/类_\(计算机科学\).md "wikilink")，并容忍一些与包含支持代码的[库的联系](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")。
 
@@ -32,11 +28,7 @@ ZETA](../Page/Magnussoft_ZETA.md "wikilink")。
 
 ### 网络包
 
-网络包提供基本的（在[BeOS
-R5及更低版本中](https://zh.wikipedia.org/wiki/BeOS_R5 "wikilink")）或基本完整的（在BeOS
-Dano及更高版本中）对[伯克利套接字及](https://zh.wikipedia.org/wiki/伯克利套接字 "wikilink")[BIND](../Page/BIND.md "wikilink")的支持，基于Nettle
-C++网络库的“原生”功能。libnet.so为R5提供伯克利套接字的支持，后来基于系统命名法被更换为更为普遍的libsocket.so及libbind.so；R5上的libnetapi.so在后来被libbnetapi替换以提供修改版的Nettle
-C++网络库。
+网络包提供基本的（在[BeOS R5及更低版本中](https://zh.wikipedia.org/wiki/BeOS_R5 "wikilink")）或基本完整的（在BeOS Dano及更高版本中）对[伯克利套接字及](https://zh.wikipedia.org/wiki/伯克利套接字 "wikilink")[BIND](../Page/BIND.md "wikilink")的支持，基于Nettle C++网络库的“原生”功能。libnet.so为R5提供伯克利套接字的支持，后来基于系统命名法被更换为更为普遍的libsocket.so及libbind.so；R5上的libnetapi.so在后来被libbnetapi替换以提供修改版的Nettle C++网络库。
 
 ### 邮件包
 
@@ -44,8 +36,7 @@ C++网络库。
 
 ### 翻译包
 
-翻译包提供一种将图片和纯文本通过以插件来处理，因而使应用程序支持一种即时的原生方式来保存、读取插件所支持的格式。该API同样支持通过库进行的视频、音频翻译，尽管这种方式在BeOS
-R4中被废弃并随后被停用。翻译包通过libtranslation.so提供支持。
+翻译包提供一种将图片和纯文本通过以插件来处理，因而使应用程序支持一种即时的原生方式来保存、读取插件所支持的格式。该API同样支持通过库进行的视频、音频翻译，尽管这种方式在BeOS R4中被废弃并随后被停用。翻译包通过libtranslation.so提供支持。
 
 ### 媒体库
 
@@ -53,8 +44,7 @@ R4中被废弃并随后被停用。翻译包通过libtranslation.so提供支持�
 
 ### [MIDI](../Page/MIDI.md "wikilink")包
 
-MIDI包提供MIDI硬件的输入输出的抽取。在BeOS R5中包含一个由Headspace提供的软件合成器。libmidi.so提供了BeOS
-R3时代的旧的MIDI API，libmidi2.so为BeOS R4及更高版本提供API。
+MIDI包提供MIDI硬件的输入输出的抽取。在BeOS R5中包含一个由Headspace提供的软件合成器。libmidi.so提供了BeOS R3时代的旧的MIDI API，libmidi2.so为BeOS R4及更高版本提供API。
 
 ### 游戏包
 
@@ -62,8 +52,7 @@ R3时代的旧的MIDI API，libmidi2.so为BeOS R4及更高版本提供API。
 
 ### [OpenGL](../Page/OpenGL.md "wikilink")包
 
-OpenGL包提供完整的OpenGL执行能力，以及使其在原生程序中生效的支持类。在BeOS R5中支持OpenGL
-1.1，尽管该包是硬件中立的，该版本可以使用软件加速。事实上，这个方式甚至胜过在竞争平台上使用硬件加速方式的效果。基于效率底下的设计，那些竞争平台无法传递类似的潜在的、抑或是带宽上的表现。[1](https://web.archive.org/web/20010202233200/http://www.benews.com/story/3587).
+OpenGL包提供完整的OpenGL执行能力，以及使其在原生程序中生效的支持类。在BeOS R5中支持OpenGL 1.1，尽管该包是硬件中立的，该版本可以使用软件加速。事实上，这个方式甚至胜过在竞争平台上使用硬件加速方式的效果。基于效率底下的设计，那些竞争平台无法传递类似的潜在的、抑或是带宽上的表现。[1](https://web.archive.org/web/20010202233200/http://www.benews.com/story/3587).
 
 ### 设备包
 
@@ -71,22 +60,14 @@ OpenGL包提供完整的OpenGL执行能力，以及使其在原生程序中生�
 
 ## 非BeOS实现方式
 
-大部分的Be
-API在[Haiku](../Page/Haiku.md "wikilink")这个开源BeOS替代品中被重新实现，以赶上自Be公司被[Palm](../Page/Palm.md "wikilink")收购后多年的差距，为邮件包增加了对IMAP的支持，加密连接和多账户支持，并且通过[Mesa
-3D实现了OpenGL](../Page/Mesa_3D.md "wikilink") 1.5的支持。
+大部分的Be API在[Haiku](../Page/Haiku.md "wikilink")这个开源BeOS替代品中被重新实现，以赶上自Be公司被[Palm](../Page/Palm.md "wikilink")收购后多年的差距，为邮件包增加了对IMAP的支持，加密连接和多账户支持，并且通过[Mesa 3D实现了OpenGL](../Page/Mesa_3D.md "wikilink") 1.5的支持。
 
-替代的系统尝试通过Be API得到一些灵感（例如[Syllable
-Desktop](https://zh.wikipedia.org/wiki/Syllable_Desktop "wikilink")），但并非完全移植。
+替代的系统尝试通过Be API得到一些灵感（例如[Syllable Desktop](https://zh.wikipedia.org/wiki/Syllable_Desktop "wikilink")），但并非完全移植。
 
-[Gobe
-Software](https://web.archive.org/web/20071012005455/http://www.gobe.com/)将Be
-API移植到[微软](../Page/微软.md "wikilink")[Windows操作系统](https://zh.wikipedia.org/wiki/Windows "wikilink")，后期通过[GTK+移植到](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[Linux](../Page/Linux.md "wikilink")操作系统，以移植他们先前为BeOS开发的[Gobe
-Productive办公套件](https://zh.wikipedia.org/wiki/Gobe_Productive "wikilink")。
+[Gobe Software](https://web.archive.org/web/20071012005455/http://www.gobe.com/)将Be API移植到[微软](../Page/微软.md "wikilink")[Windows操作系统](https://zh.wikipedia.org/wiki/Windows "wikilink")，后期通过[GTK+移植到](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[Linux](../Page/Linux.md "wikilink")操作系统，以移植他们先前为BeOS开发的[Gobe Productive办公套件](https://zh.wikipedia.org/wiki/Gobe_Productive "wikilink")。
 
 ## 文档
 
-所有的API在BeOS R3阶段被记录在两本纸质书籍中——Be Developer Guide和Be Advanced
-Topics，由[奥莱理出版公司在Be公司的许可下于](https://zh.wikipedia.org/wiki/奥莱理 "wikilink")1997年[八月出版发行](https://zh.wikipedia.org/wiki/八月 "wikilink")。此外，电子版在亦被发行和更新，尽管略显粗燥。在2007年，Be公司知识产权的拥有者[爱可信公司以](https://zh.wikipedia.org/wiki/爱可信 "wikilink")[创作共用](../Page/创作共用.md "wikilink")协议释出了这些文档。[2](https://web.archive.org/web/20070407172603/http://haiku-os.org/news/2007-04-03/access_co_releases_bebook_and_be_newsletters).
+所有的API在BeOS R3阶段被记录在两本纸质书籍中——Be Developer Guide和Be Advanced Topics，由[奥莱理出版公司在Be公司的许可下于](https://zh.wikipedia.org/wiki/奥莱理 "wikilink")1997年[八月出版发行](https://zh.wikipedia.org/wiki/八月 "wikilink")。此外，电子版在亦被发行和更新，尽管略显粗燥。在2007年，Be公司知识产权的拥有者[爱可信公司以](https://zh.wikipedia.org/wiki/爱可信 "wikilink")[创作共用](../Page/创作共用.md "wikilink")协议释出了这些文档。[2](https://web.archive.org/web/20070407172603/http://haiku-os.org/news/2007-04-03/access_co_releases_bebook_and_be_newsletters).
 
-[Category:BeOS](https://zh.wikipedia.org/wiki/Category:BeOS "wikilink")
-[Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")
+[Category:BeOS](https://zh.wikipedia.org/wiki/Category:BeOS "wikilink") [Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")

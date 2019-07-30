@@ -1,5 +1,4 @@
-《**Only You
-只有您**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝愛情[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，由[李司棋](../Page/李司棋.md "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")及[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")領銜主演，並由[田蕊妮](../Page/田蕊妮.md "wikilink")及[麥長青](../Page/麥長青.md "wikilink")聯合主演，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為[2011無綫節目巡禮](../Page/2011無綫節目巡禮.md "wikilink")劇集之一及2011\[愛的季節」呈獻劇集。
+《**Only You 只有您**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝愛情[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，由[李司棋](../Page/李司棋.md "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")及[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")領銜主演，並由[田蕊妮](../Page/田蕊妮.md "wikilink")及[麥長青](../Page/麥長青.md "wikilink")聯合主演，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為[2011無綫節目巡禮](../Page/2011無綫節目巡禮.md "wikilink")劇集之一及2011\[愛的季節」呈獻劇集。
 
 ## 演員表
 
@@ -1475,22 +1474,18 @@ Jenny之夫</p></td>
 
 ## 資料錯誤
 
-  - 第二集須然沒有交代[傅劍虹是甚麼角色](https://zh.wikipedia.org/wiki/傅劍虹 "wikilink"),但張笑雯([張雪芹](../Page/張雪芹.md "wikilink"))的角色是傅劍虹的太太,
-    但是婚宴竟是 "蕭朱聯婚" 。
+  - 第二集須然沒有交代[傅劍虹是甚麼角色](https://zh.wikipedia.org/wiki/傅劍虹 "wikilink"),但張笑雯([張雪芹](../Page/張雪芹.md "wikilink"))的角色是傅劍虹的太太, 但是婚宴竟是 "蕭朱聯婚" 。
 
 ## 記事
 
   - 2009年11月2日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")一廠外灰位舉行試造型記者會。\[3\]
   - 2009年12月1日：此劇於15:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")十三廠舉行開鏡拜神儀式。\[4\]
   - 2009年12月11日：此劇於10:00在[土瓜灣](../Page/土瓜灣.md "wikilink")北帝街60-62號東寶大樓12樓天台進行拍攝，參與拍攝藝人包括[田蕊妮](../Page/田蕊妮.md "wikilink")、[黃浩然](../Page/黃浩然.md "wikilink")及[江美儀](../Page/江美儀.md "wikilink")等。\[5\]
-  - 2011年2月20日：此劇於14:30在[屯門](../Page/屯門.md "wikilink")黃金海岸酒店地下低層宴會廳舉行《Only
-    You 只有您》之「I Do 我願意」宣傳活動。
+  - 2011年2月20日：此劇於14:30在[屯門](../Page/屯門.md "wikilink")黃金海岸酒店地下低層宴會廳舉行《Only You 只有您》之「I Do 我願意」宣傳活動。
   - 2011年3月4日：由於播映劇集《[魚躍在花見](../Page/魚躍在花見.md "wikilink")》兩小時大結局，此劇暫停播映一次。
-  - 2011年3月14日：此劇於15:30在[尖沙咀](../Page/尖沙咀.md "wikilink")金馬倫道22-24號東麗中心2樓Tandoori
-    Nights舉行《Only You 只有您》之「情定印度婚禮」宣傳活動。
+  - 2011年3月14日：此劇於15:30在[尖沙咀](../Page/尖沙咀.md "wikilink")金馬倫道22-24號東麗中心2樓Tandoori Nights舉行《Only You 只有您》之「情定印度婚禮」宣傳活動。
   - 2011年3月18日：由於播映劇集《[依家有喜](../Page/依家有喜.md "wikilink")》一小時大結局，此劇順延至晚上21:00-22:00播映。
-  - 2011年3月25日：此劇於20:00在[屯門](../Page/屯門.md "wikilink")黃金海岸酒店地下低層翠篷廳舉行《Only
-    You 只有您》之「Loving You浪漫之夜」宣傳活動。
+  - 2011年3月25日：此劇於20:00在[屯門](../Page/屯門.md "wikilink")黃金海岸酒店地下低層翠篷廳舉行《Only You 只有您》之「Loving You浪漫之夜」宣傳活動。
   - 2011年4月1日：由於播映特備節目《[愛心無國界311燭光晚會](../Page/愛心無國界311燭光晚會.md "wikilink")》，此劇之兩小時大結局順延至4月2日晚上21:30-23:30播映。
 
 ## 收視
@@ -1514,8 +1509,7 @@ Jenny之夫</p></td>
 
 ## 外部連結
 
-  - [《Only You 只有您》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222154824/http://gotv.tvb.com/programme/102343/149842/)
+  - [《Only You 只有您》 GOTV 第1集重溫](https://web.archive.org/web/20140222154824/http://gotv.tvb.com/programme/102343/149842/)
 
   -
   -
@@ -1524,17 +1518,14 @@ Jenny之夫</p></td>
 ### 香港播放
 
 |align="center" colspan="3"|[依家有喜](../Page/依家有喜.md "wikilink")
-\-3月18日 |align="center"
-colspan="2"|[誰家灶頭無煙火](../Page/誰家灶頭無煙火.md "wikilink")
+\-3月18日 |align="center" colspan="2"|[誰家灶頭無煙火](../Page/誰家灶頭無煙火.md "wikilink")
 3月21日- |- |align="center"|**上一套：**
 [隔離七日情](../Page/隔離七日情.md "wikilink")
-\-2月18日 |align="center"
-colspan="3"|**翡翠台／高清翡翠台第二綫劇集（[2011](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2011年\)#第二線劇集 "wikilink")）**
+\-2月18日 |align="center" colspan="3"|**翡翠台／高清翡翠台第二綫劇集（[2011](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2011年\)#第二線劇集 "wikilink")）**
 **Only You 只有您**
 2月21日-4月2日 |align="center"|**下一套：**
 [洪武三十二](../Page/洪武三十二.md "wikilink")
-4月4日- |- |align="center"
-colspan="2"|[魚躍在花見](../Page/魚躍在花見.md "wikilink")
+4月4日- |- |align="center" colspan="2"|[魚躍在花見](../Page/魚躍在花見.md "wikilink")
 \-3月4日 |align="center" colspan="3"|[女拳](../Page/女拳.md "wikilink")
 3月7日-
 
@@ -1542,19 +1533,10 @@ colspan="2"|[魚躍在花見](../Page/魚躍在花見.md "wikilink")
 
 ### 香港以外地區播放
 
-[Category:2011年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2011年無綫電視劇集 "wikilink")
-[Category:2011年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2011年AOD電視劇集 "wikilink")
-[Category:2011無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2011無綫節目巡禮劇集 "wikilink")
-[Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink")
-[Category:無綫電視愛的季節劇集](https://zh.wikipedia.org/wiki/Category:無綫電視愛的季節劇集 "wikilink")
-[Category:婚禮相關電視劇](https://zh.wikipedia.org/wiki/Category:婚禮相關電視劇 "wikilink")
+[Category:2011年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2011年無綫電視劇集 "wikilink") [Category:2011年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2011年AOD電視劇集 "wikilink") [Category:2011無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2011無綫節目巡禮劇集 "wikilink") [Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink") [Category:無綫電視愛的季節劇集](https://zh.wikipedia.org/wiki/Category:無綫電視愛的季節劇集 "wikilink") [Category:婚禮相關電視劇](https://zh.wikipedia.org/wiki/Category:婚禮相關電視劇 "wikilink")
 
-1.  [觀眾反感喊重拍炒無線編劇 《Only
-    You只有您》血腥結局](http://kkground.blogspot.hk/2011/04/only-you.html)
+1.  [觀眾反感喊重拍炒無線編劇 《Only You只有您》血腥結局](http://kkground.blogspot.hk/2011/04/only-you.html)
 2.  [You》大結局報捷被投訴](http://www.ihktv.com/only-you-bloody-ending.html《Only)
-
-3.  [藝人月曆 - 藝人 - tvb.com
-    - 11月2日](http://artiste.tvb.com/calendar/list/2009/11/02)
-4.  [藝人月曆 - 藝人 - tvb.com
-    - 12月1日](http://artiste.tvb.com/calendar/list/2009/12/01)
+3.  [藝人月曆 - 藝人 - tvb.com - 11月2日](http://artiste.tvb.com/calendar/list/2009/11/02)
+4.  [藝人月曆 - 藝人 - tvb.com - 12月1日](http://artiste.tvb.com/calendar/list/2009/12/01)
 5.  [無線火燭外景 驚動真消防員](http://hk.news.yahoo.com/article/091211/4/fm0g.html)

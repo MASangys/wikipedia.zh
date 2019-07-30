@@ -1,6 +1,4 @@
-***2006 Summer SMTown*** 是[SM
-Town於](../Page/SM_Town.md "wikilink")2006年推出的第四張夏日專輯。樂隊[TRAX和男子組合](https://zh.wikipedia.org/wiki/TRAX "wikilink")[Super
-Junior首次參與家族合輯的錄製](../Page/Super_Junior.md "wikilink")。
+***2006 Summer SMTown*** 是[SM Town於](../Page/SM_Town.md "wikilink")2006年推出的第四張夏日專輯。樂隊[TRAX和男子組合](https://zh.wikipedia.org/wiki/TRAX "wikilink")[Super Junior首次參與家族合輯的錄製](../Page/Super_Junior.md "wikilink")。
 
 ## 曲目列表
 
@@ -20,5 +18,4 @@ Junior首次參與家族合輯的錄製](../Page/Super_Junior.md "wikilink")。
 
   - [SM Entertainment's Official Page](http://www.smtown.com/)
 
-[Category:SM_Town音樂專輯](https://zh.wikipedia.org/wiki/Category:SM_Town音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
+[Category:SM_Town音樂專輯](https://zh.wikipedia.org/wiki/Category:SM_Town音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")

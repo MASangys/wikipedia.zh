@@ -1,6 +1,4 @@
-**KT公司**（），舊名**韓國電信**（），是[韩国的电信公司](https://zh.wikipedia.org/wiki/韩国 "wikilink")。以电话通訊、高速[网络等有線及无线通信服务业为主要业务](https://zh.wikipedia.org/wiki/网络 "wikilink")。1981年，在韩国先以电气通信公司的名义成立的KT公司，以情报化时代为先导，使大韩民国IT先进国担当着核心部分的角色。通过2009年与KTF合并，基于有、无线的融合，正在向着全球信息通信交易（ICT；Information,
-Communication,
-Transaction）融合的先导迈进。通过数码终端机器，任何时候任何地方都能够进行沟通，为了用户提供先进的有、无线服务。守护着绿化成长以及创造工作机会等‘伴随成长’的企业宗旨。KT在语音和数据、有线和无线、通信和广播服务所融合的时代，提供着先进的家庭与个人还有企业的IT服务，正在努力促进环保职责、社会职责、经济责任、成为全项目企业。
+**KT公司**（），舊名**韓國電信**（），是[韩国的电信公司](https://zh.wikipedia.org/wiki/韩国 "wikilink")。以电话通訊、高速[网络等有線及无线通信服务业为主要业务](https://zh.wikipedia.org/wiki/网络 "wikilink")。1981年，在韩国先以电气通信公司的名义成立的KT公司，以情报化时代为先导，使大韩民国IT先进国担当着核心部分的角色。通过2009年与KTF合并，基于有、无线的融合，正在向着全球信息通信交易（ICT；Information, Communication, Transaction）融合的先导迈进。通过数码终端机器，任何时候任何地方都能够进行沟通，为了用户提供先进的有、无线服务。守护着绿化成长以及创造工作机会等‘伴随成长’的企业宗旨。KT在语音和数据、有线和无线、通信和广播服务所融合的时代，提供着先进的家庭与个人还有企业的IT服务，正在努力促进环保职责、社会职责、经济责任、成为全项目企业。
 
 ## 沿革
 
@@ -19,7 +17,7 @@ Transaction）融合的先导迈进。通过数码终端机器，任何时候任
   - 1996年：PCS与CT-2获得业务权，设立「韩国通信Freetel（株式会社）」。
   - 1997年：转为政府投资机关。
   - 1997年10月1日：当天重新实施正式适用工业的经营构造改善与影视相关的法律。（除了适用于政府投资机关管理基本法）
-  - 1998年：总公司从[首尔特别市](../Page/首爾.md "wikilink")[鐘路區世宗路](../Page/鐘路區.md "wikilink")100号搬至[京畿道](../Page/京畿道.md "wikilink")[城南市](../Page/城南市.md "wikilink")[盆唐区亭子](https://zh.wikipedia.org/wiki/盆唐区 "wikilink")3洞206号。
+  - 1998年：总公司从[首尔特别市](../Page/首爾.md "wikilink")[鐘路區](../Page/鐘路區.md "wikilink")世宗路100号搬至[京畿道](../Page/京畿道.md "wikilink")[城南市](../Page/城南市.md "wikilink")[盆唐区亭子](https://zh.wikipedia.org/wiki/盆唐区 "wikilink")3洞206号。
   - 1998年12月：本公司登陆股票市场。
   - 1999年：「木槿花卫星3号」发射。
   - 2000年6月：接管「Hansolm.com（株式会社）」的经营权，12月获得IMT-2000业务权。
@@ -34,8 +32,7 @@ Transaction）融合的先导迈进。通过数码终端机器，任何时候任
   - 2008年12月9日：在总经理推荐委员会上，李锡采被任命为唯一的新执行总裁总经理后补。
   - 2009年1月14日：有500多名股东在[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")[瑞草区牛眠洞KT研究开发中心参与了股东大会](https://zh.wikipedia.org/wiki/瑞草区 "wikilink")，受总经理推荐委员会拥戴的李锡采总经理后补，被正式任命为第11代代表理事总经理。
   - 2009年3月：[广播通信委员会批准有关与KTF子公司有条件合并的事项](https://zh.wikipedia.org/wiki/广播通信委员会 "wikilink")。
-  - 2009年4月：新品牌「QOOK」上市。现有的「Megapass」改为「QOOK Internet」，「Mega TV」改为「QOOK
-    TV」。
+  - 2009年4月：新品牌「QOOK」上市。现有的「Megapass」改为「QOOK Internet」，「Mega TV」改为「QOOK TV」。
   - 2009年6月1日：与子公司KTF正式合并，公司更名为kt
   - 2009年7月：现在为止使用的All New挂着「olleh」的经营旗帜，把CI改为「olleh kt」。
   - 2009年10月：被喻为QOOK\&SHOW的有線及无线FMC综合服务上市。
@@ -45,7 +42,7 @@ Transaction）融合的先导迈进。通过数码终端机器，任何时候任
   - 2010年8月：有線及无线FMC综合服务品牌，本社企业标语重新统一改为「olleh」。
   - 2010年8月31日：第一次被编入「Dow Jones Sustainability Index World」。
 
-## 统治结构
+## 组织结构
 
 KT在韩国企业管制服务机构的2010年韩国企业组织结构评价中得了大奖。
 
@@ -77,8 +74,7 @@ KT在韩国企业管制服务机构的2010年韩国企业组织结构评价中�
 
   - [Genie音樂](../Page/Genie音樂.md "wikilink")（製作及發行音樂產品）
 
-  - [KT
-    Kumhorentcar](https://zh.wikipedia.org/wiki/KT_Kumhorentcar "wikilink")
+  - [KT Kumhorentcar](https://zh.wikipedia.org/wiki/KT_Kumhorentcar "wikilink")
 
   - （電子競技隊伍）
 
@@ -89,5 +85,4 @@ KT在韩国企业管制服务机构的2010年韩国企业组织结构评价中�
 ## 外部链接
 
   -
-[Category:韩国公司](https://zh.wikipedia.org/wiki/Category:韩国公司 "wikilink")
-[Category:1981年成立的公司](https://zh.wikipedia.org/wiki/Category:1981年成立的公司 "wikilink")
+[Category:韩国公司](https://zh.wikipedia.org/wiki/Category:韩国公司 "wikilink") [Category:1981年成立的公司](https://zh.wikipedia.org/wiki/Category:1981年成立的公司 "wikilink")

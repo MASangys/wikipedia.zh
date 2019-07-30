@@ -69,13 +69,4 @@
   -
   -
   -
-[Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink")
-[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink")
-[Category:香港剧情片](https://zh.wikipedia.org/wiki/Category:香港剧情片 "wikilink")
-[Category:粤语電影](https://zh.wikipedia.org/wiki/Category:粤语電影 "wikilink")
-[Category:赌博片](https://zh.wikipedia.org/wiki/Category:赌博片 "wikilink")
-[Category:杜琪峰電影](https://zh.wikipedia.org/wiki/Category:杜琪峰電影 "wikilink")
-[Category:悲剧电影](https://zh.wikipedia.org/wiki/Category:悲剧电影 "wikilink")
-[Category:永盛电影](https://zh.wikipedia.org/wiki/Category:永盛电影 "wikilink")
-[Category:嘉禾电影](https://zh.wikipedia.org/wiki/Category:嘉禾电影 "wikilink")
-[Category:胡伟立配乐电影](https://zh.wikipedia.org/wiki/Category:胡伟立配乐电影 "wikilink")
+[Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink") [Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:香港剧情片](https://zh.wikipedia.org/wiki/Category:香港剧情片 "wikilink") [Category:粤语電影](https://zh.wikipedia.org/wiki/Category:粤语電影 "wikilink") [Category:赌博片](https://zh.wikipedia.org/wiki/Category:赌博片 "wikilink") [Category:杜琪峰電影](https://zh.wikipedia.org/wiki/Category:杜琪峰電影 "wikilink") [Category:悲剧电影](https://zh.wikipedia.org/wiki/Category:悲剧电影 "wikilink") [Category:永盛电影](https://zh.wikipedia.org/wiki/Category:永盛电影 "wikilink") [Category:嘉禾电影](https://zh.wikipedia.org/wiki/Category:嘉禾电影 "wikilink") [Category:胡伟立配乐电影](https://zh.wikipedia.org/wiki/Category:胡伟立配乐电影 "wikilink")

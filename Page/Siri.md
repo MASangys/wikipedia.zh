@@ -1,51 +1,16 @@
-****（）是一款內建在蘋果[iOS系统中的](https://zh.wikipedia.org/wiki/iOS "wikilink")[人工智能助理軟體](../Page/人工智能.md "wikilink")。此軟體使用[自然語言處理技術](https://zh.wikipedia.org/wiki/自然語言處理 "wikilink")，使用者可以使用自然的對話與手機進行互動，完成搜尋資料、查詢天氣、設定手機日曆、設定鬧鈴等許多服務。\[1\]
+****（）是一款內建在蘋果[iOS系统中的](https://zh.wikipedia.org/wiki/iOS "wikilink")[人工智能](../Page/人工智能.md "wikilink")助理軟體。此軟體使用[自然語言處理技術](https://zh.wikipedia.org/wiki/自然語言處理 "wikilink")，使用者可以使用自然的對話與手機進行互動，完成搜尋資料、查詢天氣、設定手機日曆、設定鬧鈴等許多服務。\[1\]
 
-Siri 公司建立於2007年。起初 Siri 只是 iOS
-平台中的一个應用程式，并同时在[黑莓与](../Page/黑莓.md "wikilink")
-[Android](../Page/Android.md "wikilink")
-平台提供Siri软件，但在[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
-2010 年 4 月 28 日收購了 Siri 公司並重新開發後，Siri 成為了蘋果裝置的內建軟體，並只允许在 iOS、macOS 中執行。
+Siri 公司建立於2007年。起初 Siri 只是 iOS 平台中的一个應用程式，并同时在[黑莓](../Page/黑莓.md "wikilink")与 [Android](../Page/Android.md "wikilink") 平台提供Siri软件，但在[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink") 2010 年 4 月 28 日收購了 Siri 公司並重新開發後，Siri 成為了蘋果裝置的內建軟體，並只允许在 iOS、macOS 中執行。
 
-Siri 可用於： [iPhone
-4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink") 及更新机型、[iPod
-touch ( 第 5 代
-)](https://zh.wikipedia.org/wiki/iPod_touch#iPod_Touch_第五代 "wikilink")
-及更新機型、[iPad ( 第三代 )](../Page/IPad_\(第三代\).md "wikilink") 及更新机型、[iPad
-mini](https://zh.wikipedia.org/wiki/iPad_mini "wikilink") 及更新机型、[iPad
-Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink") 及更新機型、IPad Pro
-及更新機型、 [Apple
-Watch](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")
-及更新機型、[Macbook](../Page/MacBook.md "wikilink") ( 2009 年稍晚 )
-及更新機型、[iMac](https://zh.wikipedia.org/wiki/iMac "wikilink") ( 2009 年稍晚
-) 及更新機型、[Macbook Air](../Page/MacBook_Air.md "wikilink") ( 2010 年 )
-及更新機型、[Macbook Pro](../Page/MacBook_Pro.md "wikilink") ( 2010
-年 ) 及更新機型、[Mac
-Mini](https://zh.wikipedia.org/wiki/Mac_mini "wikilink") ( 2010 年 )
-及更新機型、 [Mac Pro](../Page/Mac_Pro.md "wikilink") ( 2010 年 )
-及更新機型以及苹果于2018年推出的智能音箱[HomePod](../Page/HomePod.md "wikilink")。
+Siri 可用於： [iPhone 4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink") 及更新机型、[iPod touch ( 第 5 代 )](https://zh.wikipedia.org/wiki/iPod_touch#iPod_Touch_第五代 "wikilink") 及更新機型、[iPad ( 第三代 )](../Page/IPad_\(第三代\).md "wikilink") 及更新机型、[iPad mini](https://zh.wikipedia.org/wiki/iPad_mini "wikilink") 及更新机型、[iPad Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink") 及更新機型、IPad Pro 及更新機型、 [Apple Watch](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink") 及更新機型、[Macbook](../Page/MacBook.md "wikilink") ( 2009 年稍晚 ) 及更新機型、[iMac](https://zh.wikipedia.org/wiki/iMac "wikilink") ( 2009 年稍晚 ) 及更新機型、[Macbook Air](../Page/MacBook_Air.md "wikilink") ( 2010 年 ) 及更新機型、[Macbook Pro](../Page/MacBook_Pro.md "wikilink") ( 2010 年 ) 及更新機型、[Mac Mini](https://zh.wikipedia.org/wiki/Mac_mini "wikilink") ( 2010 年 ) 及更新機型、 [Mac Pro](../Page/Mac_Pro.md "wikilink") ( 2010 年 ) 及更新機型以及苹果于2018年推出的智能音箱[HomePod](../Page/HomePod.md "wikilink")。
 
 ## 建立
 
-Siri 起初是[美國國防部其下](https://zh.wikipedia.org/wiki/美國國防部 "wikilink")
-[DARPA](https://zh.wikipedia.org/wiki/DARPA "wikilink")
-的研究計畫，定位為國家級的虛擬語音助理 ( 原本甚至有可能變成
-Android 智慧型手機的預設功能，不過最後在蘋果的介入之下賣給了蘋果公司 )。Siri 公司建立于 2007 年，创始人有 [Dag
-Kittlaus](https://zh.wikipedia.org/wiki/Dag_Kittlaus "wikilink")（任[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")），Adam
-Cheyer（任高级工程副总裁），及 Tom Gruber（任 CECTO 和高级设计副总裁）；SRI 国际公司的Norman
-Winarsky也参与了 Siri 公司的成立。在 2008 年 10 月 13 日，Siri 公司宣布由Menlo Ventures
-和Morgenthaler Ventures 主导的第一轮融资已经达到了 850
-万美元。而後\[2\]苹果公司在2010年4月28日完成了对 Siri
-公司的收购。
+Siri 起初是[美國國防部其下](https://zh.wikipedia.org/wiki/美國國防部 "wikilink") [DARPA](https://zh.wikipedia.org/wiki/DARPA "wikilink") 的研究計畫，定位為國家級的虛擬語音助理 ( 原本甚至有可能變成 Android 智慧型手機的預設功能，不過最後在蘋果的介入之下賣給了蘋果公司 )。Siri 公司建立于 2007 年，创始人有 [Dag Kittlaus](https://zh.wikipedia.org/wiki/Dag_Kittlaus "wikilink")（任[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")），Adam Cheyer（任高级工程副总裁），及 Tom Gruber（任 CECTO 和高级设计副总裁）；SRI 国际公司的Norman Winarsky也参与了 Siri 公司的成立。在 2008 年 10 月 13 日，Siri 公司宣布由Menlo Ventures 和Morgenthaler Ventures 主导的第一轮融资已经达到了 850 万美元。而後\[2\]苹果公司在2010年4月28日完成了对 Siri 公司的收购。
 
 ## iOS、Android及黑莓中的應用程式
 
-在苹果公司收购 Siri 公司之前，Siri 是
-[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 的 [App
-Store](../Page/App_Store_\(iOS\).md "wikilink")
-中的一个应用，同時也在黑莓平台（Blackberry）与 Android
-平台進行开发；但在苹果完成了对Siri公司的收购后\[3\]，2010年4月28日，Siri 从 [App
-Store](../Page/App_Store_\(iOS\).md "wikilink") 中下架，并取消了所有除 iOS
-平台外的软件研发。\[4\]
+在苹果公司收购 Siri 公司之前，Siri 是 [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 的 [App Store](../Page/App_Store_\(iOS\).md "wikilink") 中的一个应用，同時也在黑莓平台（Blackberry）与 Android 平台進行开发；但在苹果完成了对Siri公司的收购后\[3\]，2010年4月28日，Siri 从 [App Store](../Page/App_Store_\(iOS\).md "wikilink") 中下架，并取消了所有除 iOS 平台外的软件研发。\[4\]
 
 ## 支援語言
 
@@ -298,13 +263,7 @@ Store](../Page/App_Store_\(iOS\).md "wikilink") 中下架，并取消了所有�
 
 ## 第三方移植
 
-因為Siri僅支援特定iPhone, iPad及iPod
-Touch機種，因此許多[駭客針對此開發了一系列擬Siri的軟體](https://zh.wikipedia.org/wiki/駭客 "wikilink")。2011年10月29日，一Siri的开发員Steven
-Troughton Smith成功将Siri移植到iPhone
-4上。\[6\]\[7\]此版Siri因為無法與Apple的伺服器連線，只能显示Siri界面，并不能完成语音命令，但仍可透過連上個人伺服器或iPhone
-4S的金鑰啟用)。在Apple推出iOS5.0.1後，被駭客發現可利用其未加密韌體內的Siri檔案移植Siri至非iPhone
-4S機種的可能性，於是Siri的三位開發員Steven Troughton
-Smith，Chpwn和Ryan合力推出Spire，供已越獄的iOS5.0裝置使用。 \[8\]
+因為Siri僅支援特定iPhone, iPad及iPod Touch機種，因此許多[駭客針對此開發了一系列擬Siri的軟體](https://zh.wikipedia.org/wiki/駭客 "wikilink")。2011年10月29日，一Siri的开发員Steven Troughton Smith成功将Siri移植到iPhone 4上。\[6\]\[7\]此版Siri因為無法與Apple的伺服器連線，只能显示Siri界面，并不能完成语音命令，但仍可透過連上個人伺服器或iPhone 4S的金鑰啟用)。在Apple推出iOS5.0.1後，被駭客發現可利用其未加密韌體內的Siri檔案移植Siri至非iPhone 4S機種的可能性，於是Siri的三位開發員Steven Troughton Smith，Chpwn和Ryan合力推出Spire，供已越獄的iOS5.0裝置使用。 \[8\]
 
 ## 参考文献
 
@@ -328,22 +287,17 @@ Smith，Chpwn和Ryan合力推出Spire，供已越獄的iOS5.0裝置使用。 \[8
 
   - [iPhone 4s的Siri到底將會有多犀利？這次蘋果出的是大絕招！](http://www.inside.com.tw/2011/10/12/iphone-4s-siri)
 
-  - [Why is Siri
-    important?](http://www.quora.com/Siri-product/Why-is-Siri-important)
+  - [Why is Siri important?](http://www.quora.com/Siri-product/Why-is-Siri-important)
 
 ## 參見
 
   - [Cortana](../Page/Cortana.md "wikilink")
-  - [Google
-    Assistant](https://zh.wikipedia.org/wiki/Google_Assistant "wikilink")
+  - [Google Assistant](https://zh.wikipedia.org/wiki/Google_Assistant "wikilink")
   - [Google Now](https://zh.wikipedia.org/wiki/Google_Now "wikilink")
 
 {{-}}
 
-[Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink")
-[Category:苹果公司收购](https://zh.wikipedia.org/wiki/Category:苹果公司收购 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:语音识别](https://zh.wikipedia.org/wiki/Category:语音识别 "wikilink")
+[Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink") [Category:苹果公司收购](https://zh.wikipedia.org/wiki/Category:苹果公司收购 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:语音识别](https://zh.wikipedia.org/wiki/Category:语音识别 "wikilink")
 
 1.
 2.

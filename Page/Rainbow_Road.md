@@ -1,7 +1,4 @@
-《**Rainbow
-Road**》是[聲優](../Page/聲優.md "wikilink")[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")1張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2010年2月24日由[Music
-Ray'n
-Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。
+《**Rainbow Road**》是[聲優](../Page/聲優.md "wikilink")[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")1張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2010年2月24日由[Music Ray'n Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。
 
 ## 收錄曲
 
@@ -49,5 +46,4 @@ Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。
 
   - [戶松遥 Special website](http://www.tomatsuharuka.com/)
 
-[Category:戶松遙音樂專輯](https://zh.wikipedia.org/wiki/Category:戶松遙音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
+[Category:戶松遙音樂專輯](https://zh.wikipedia.org/wiki/Category:戶松遙音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")

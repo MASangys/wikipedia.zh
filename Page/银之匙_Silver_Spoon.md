@@ -1,20 +1,16 @@
-《**银之匙 Silver
-Spoon**》（）是[荒川弘的](../Page/荒川弘.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，于《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》连载。
+《**银之匙 Silver Spoon**》（）是[荒川弘](../Page/荒川弘.md "wikilink")的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，于《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》连载。
 
 ## 概要
 
-  - 本作是以[北海道的农业高中为舞台的校园漫画作品](../Page/北海道.md "wikilink")。靈感源自出生于北海道乳畜业家庭，同时也是毕业于农业高中的作者的大量的亲身体验。\[1\]\[2\][廣告標語為](../Page/廣告標語.md "wikilink")“沾满了汗水、眼泪和泥土的青春故事。”
+  - 本作是以[北海道](../Page/北海道.md "wikilink")的农业高中为舞台的校园漫画作品。靈感源自出生于北海道乳畜业家庭，同时也是毕业于农业高中的作者的大量的亲身体验。\[1\]\[2\][廣告標語](../Page/廣告標語.md "wikilink")為“沾满了汗水、眼泪和泥土的青春故事。”
 
 <!-- end list -->
 
-  - 本作中的“大虾夷农业高等学校”是以“北海道带广农业高等学校”为原形创作，\[3\]\[4\]登场人物的姓氏也多引用自北海道地名。
-    作者荒川弘在开始连载本漫画的同时，也正在《月刊Wings》上连载着以她本人亲自体验的农业生活为题材的随笔型漫画
-    《[百姓贵族](https://zh.wikipedia.org/wiki/百姓贵族 "wikilink")》。
+  - 本作中的“大虾夷农业高等学校”是以“北海道带广农业高等学校”为原形创作，\[3\]\[4\]登场人物的姓氏也多引用自北海道地名。 作者荒川弘在开始连载本漫画的同时，也正在《月刊Wings》上连载着以她本人亲自体验的农业生活为题材的随笔型漫画 《[百姓贵族](https://zh.wikipedia.org/wiki/百姓贵族 "wikilink")》。
 
 <!-- end list -->
 
-  - 作者先前创作的知名作品《[钢之炼金术师](https://zh.wikipedia.org/wiki/钢之炼金术师 "wikilink")》连载于[SE旗下的](../Page/史克威尔艾尼克斯.md "wikilink")《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》，而这一次却交给了小学馆旗下的《週刊少年Sunday》，这其中的原因也成了《Comic
-    Natalie》采访Sunday总编绳田正树时的谈资\[5\]。此外，这一次连载是荒川弘第一次在週刊杂志上连载漫画。
+  - 作者先前创作的知名作品《[钢之炼金术师](https://zh.wikipedia.org/wiki/钢之炼金术师 "wikilink")》连载于[SE旗下的](../Page/史克威尔艾尼克斯.md "wikilink")《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》，而这一次却交给了小学馆旗下的《週刊少年Sunday》，这其中的原因也成了《Comic Natalie》采访Sunday总编绳田正树时的谈资\[5\]。此外，这一次连载是荒川弘第一次在週刊杂志上连载漫画。
 
 <!-- end list -->
 
@@ -30,18 +26,16 @@ Spoon**》（）是[荒川弘的](../Page/荒川弘.md "wikilink")[日本](../Pa
 
   -
     本作的主人公。平日基本上都以眼镜配校服或配连帽上衣 形象示人。
-    家住[札幌市](../Page/札幌市.md "wikilink")[西區](../Page/西區_\(札幌市\).md "wikilink")，毕业自[完全制中学的新札幌中学](https://zh.wikipedia.org/wiki/完全中学 "wikilink")。自家并非农家，而是受薪階級。他是以考試的方式进入了虾夷高农。社团活动选择了[马术社](../Page/马术.md "wikilink")。实习小组为A组。
-    他在初中时激烈的学业竞争中失败并丧失了自信，自那之后，他开始回避自己的家人。仅以“不需要回家
-    ”为理由，升学进了住宿制的虾夷农高。他不知道自己的梦想为何，所以并非是因为想要就职于与农业有关的工作而选择了农高。而当他发现身边的同学都有着各自的梦想时，深深地感受到了焦躁和自卑。
+    家住[札幌市](../Page/札幌市.md "wikilink")[西區](../Page/西區_\(札幌市\).md "wikilink")，毕业自[完全制中学的新札幌中学](https://zh.wikipedia.org/wiki/完全中学 "wikilink")。自家并非农家，而是受薪階級。他是以考試的方式进入了虾夷高农。社团活动选择了[马术](../Page/马术.md "wikilink")社。实习小组为A组。
+    他在初中时激烈的学业竞争中失败并丧失了自信，自那之后，他开始回避自己的家人。仅以“不需要回家 ”为理由，升学进了住宿制的虾夷农高。他不知道自己的梦想为何，所以并非是因为想要就职于与农业有关的工作而选择了农高。而当他发现身边的同学都有着各自的梦想时，深深地感受到了焦躁和自卑。
     在升进农校前，他是一个为了获得好成绩而刻苦读书，放弃了绝大多数休息、玩乐时间的学生。进入虾夷高农后，在数学等基础学科方面，他的成绩凌驾于其他学生之上。但他不擅长运动和体力劳动，而且在专业的农牧业知识方面也逊于其他同学，不過學年綜合成績仍然是第一名。而另一方面，因为父母在饮食上很花心思，所以他的味觉相当灵敏。在这一方面他得到了稻田学长和亞紀的祖父等人的认可。
-    虽然在性格上有着拘泥于“第一名”的一面，不过也有着容易移情于弱者，率真且温柔的一面。也因为如此，他总会轻易地答应别人的请求，所以被身边的人评价为“是那种迁就别人，而使自己吃亏的人
-    ”、“老好人”、“不會拒絕別人的男人”。曾經因為接了太多事情，而在學園祭的早上累倒送醫。但也因此吸引人们聚在一起，发起活动也得到许多人的支持。八軒獨特的想法也開始改變周遭農家同學根深柢固的想法。現在為了能夠讓各種形式、強弱勢不同的農家都能和平共榮而有了畢業後創業的想法，並且正在規劃中。
-    对同班的御影亞紀抱有好感，为了接近她而加入了她参加的[马术社](../Page/马术.md "wikilink")。得知亞紀真正的夢想後鼓勵她向家人坦言，並在亞紀決定考取大蝦夷畜產大學時向其家人提出協助的保證，為了替提昇成績而對她做一對一的補習。但同時也被亞紀的父親要求，嚴禁他利用補習的機會來追求亞紀。
+    虽然在性格上有着拘泥于“第一名”的一面，不过也有着容易移情于弱者，率真且温柔的一面。也因为如此，他总会轻易地答应别人的请求，所以被身边的人评价为“是那种迁就别人，而使自己吃亏的人 ”、“老好人”、“不會拒絕別人的男人”。曾經因為接了太多事情，而在學園祭的早上累倒送醫。但也因此吸引人们聚在一起，发起活动也得到许多人的支持。八軒獨特的想法也開始改變周遭農家同學根深柢固的想法。現在為了能夠讓各種形式、強弱勢不同的農家都能和平共榮而有了畢業後創業的想法，並且正在規劃中。
+    对同班的御影亞紀抱有好感，为了接近她而加入了她参加的[马术](../Page/马术.md "wikilink")社。得知亞紀真正的夢想後鼓勵她向家人坦言，並在亞紀決定考取大蝦夷畜產大學時向其家人提出協助的保證，為了替提昇成績而對她做一對一的補習。但同時也被亞紀的父親要求，嚴禁他利用補習的機會來追求亞紀。
     雖然兩人的關係在外人看來都是情侶關係，而且雙方也有意思，但因為亞紀父親所設下的限制讓勇吾不能主動，亞紀也因為對戀愛過於遲鈍而非常被動，因此就總是處於不上不下的尷尬狀態。後來與亞紀訂下「當妳成功錄取大蝦夷畜產大學的時候，我便向你告白」的約定。
     御影成績公布當天因為壓力過大導致胃痛，而向學校申請休假在家休養。等待的同時接到八軒慎吾打來的電話，表示與其妻子生下了一個女兒。
     當接收到御影的錄取消息時，勇吾依照當初約定告白，但是卻被御影豪志搶去手機無法立刻得知其告白的回應；三天之後與御影到馬術社時，一起前往入學時迷路初次遇見御影的地點，並表示其心意，正式開始交往。
     在與視察回來的大川學長深談過後，為了考取今後開設加工廠必須的食品衛生證照，打破原先不考大學的決定，決定報考大蝦夷畜產大學畜產系。
-    [除夕時回到家中](../Page/除夕.md "wikilink")，與姪女八軒麥初次見面，並體認到人類比家畜好照顧。
+    [除夕](../Page/除夕.md "wikilink")時回到家中，與姪女八軒麥初次見面，並體認到人類比家畜好照顧。
     數正回家後看穿勇吾回家的目的並認為正事該在晚餐前說，勇吾於是告知要去考大學的決定，隨後被帶進房間商討GINSAJI未來的規劃，直到午夜過後。
 
 <!-- end list -->
@@ -62,10 +56,10 @@ Spoon**》（）是[荒川弘的](../Page/荒川弘.md "wikilink")[日本](../Pa
 
   -
     眼神锐利，一头黑色短发的大个子少年。
-    亞紀的青梅竹馬，兩人都是清水第一中学的毕业生。其父早逝，因此为了繼承没有其他帮手的自家的酪農产业而由推荐入学进入了虾夷高农。社团为[棒球社](../Page/棒球.md "wikilink")，本人的目标是打入[甲子园](https://zh.wikipedia.org/wiki/甲子園球場 "wikilink")，成为职业棒球选手，并希望以此为契机来改善家里的条件，让自家的农场重新起步\[10\]。实习分组与八轩同为A组。
+    亞紀的青梅竹馬，兩人都是清水第一中学的毕业生。其父早逝，因此为了繼承没有其他帮手的自家的酪農产业而由推荐入学进入了虾夷高农。社团为[棒球](../Page/棒球.md "wikilink")社，本人的目标是打入[甲子园](https://zh.wikipedia.org/wiki/甲子園球場 "wikilink")，成为职业棒球选手，并希望以此为契机来改善家里的条件，让自家的农场重新起步\[10\]。实习分组与八轩同为A组。
     在实习周中，他不仅接受了早出晚归的实习的考验，还兼顾了棒球社的社团活动。身體強健，在做完棒球練習後還能幫忙馬術社打理拖曳賽馬場。与亞紀家住得也比较“近”（虽说近，但两家间的距离仍有约8公里\[11\]），所以和亞紀比较亲近。平时上课都在打瞌睡，国语、数学等基础学科的成绩堪忧。不过，像是《作物》等专业课的成绩却很优秀\[12\]。
     後來因为在地区进入全国甲子园的棒球赛队友失手无法晋级，并且家中農場破產放棄農業，申請退學打工還債，並打算以此供妹妹們念大學。意志消沈的樣子曾經被南九条菖蒲怒斥過。一段時間後在八軒、多摩子等人的鼓勵下重拾球棒。之后也去到东京打工来赚取生费用。
-    到東京打工一段時間之後，打電話給八軒勇吾要他介紹其兄當補習教師，隨後勇吾拜託西川到[秋葉原時幫助駒場購買電腦](../Page/秋葉原.md "wikilink")，最後在八軒慎吾的教導下開始補習課業。
+    到東京打工一段時間之後，打電話給八軒勇吾要他介紹其兄當補習教師，隨後勇吾拜託西川到[秋葉原](../Page/秋葉原.md "wikilink")時幫助駒場購買電腦，最後在八軒慎吾的教導下開始補習課業。
 
 <!-- end list -->
 
@@ -100,8 +94,7 @@ Spoon**》（）是[荒川弘的](../Page/荒川弘.md "wikilink")[日本](../Pa
   -
     脸上长有[雀斑的](https://zh.wikipedia.org/wiki/雀斑 "wikilink")[双马尾少女](https://zh.wikipedia.org/wiki/双马尾 "wikilink")。
     下浦幌中学的毕业生。梦想是创建一间乳酪工房，用自家出产的牛奶制作[乳酪](../Page/乾酪.md "wikilink")，最喜歡[卡門貝爾乳酪](https://zh.wikipedia.org/wiki/卡門貝爾乳酪 "wikilink")。社團為羽球社。
-    特别擅长《食品加工
-    》科目。在第一学期的期中考试裏这一科取得了满分\[21\]。對於乳酪的知識很豐富，在八軒在做披薩時發現了中島老師的祕密乳酪熟成室，因此使得披薩要用的乳酪順利到手，往後常常藉此威脅中島老師。
+    特别擅长《食品加工 》科目。在第一学期的期中考试裏这一科取得了满分\[21\]。對於乳酪的知識很豐富，在八軒在做披薩時發現了中島老師的祕密乳酪熟成室，因此使得披薩要用的乳酪順利到手，往後常常藉此威脅中島老師。
     曾經和八軒鬧出不純異性交往的緋聞，但那只是常盤闖的禍的其中一件。而本人對他的評價是「雖然條件很不錯，但是個性太麻煩」，所以不在對象範圍內。
     因受到八軒的建議而短暫到法國留學，原以為是學習[乳酪的知識](../Page/乾酪.md "wikilink")，但到當地後才發現是要學習培養[觀賞魚](../Page/觀賞魚.md "wikilink")，而寄了封內容為**救命**的郵件給八軒，但也因為在當地狂吃[乳酪](../Page/乾酪.md "wikilink")，而找到了自己將來想做的口味。
     畢業前開始找工作，參加工作面試時，發覺其公司散發出的血汗工廠的味道，在與熟人的聚會上表示極度抗拒進入該公司。
@@ -112,7 +105,7 @@ Spoon**》（）是[荒川弘的](../Page/荒川弘.md "wikilink")[日本](../Pa
   -
     额头有一丛突出的头发，常常眯着眼睛的少年。
     畢業於新日高町第四中學，八轩的室友。老家是種田的，为了继承家业而进入农业科学科学习。因为家业的缘故，擅长操作农业[拖拉机](../Page/拖拉机.md "wikilink")，相关的知识也很丰富。幻想着用机械零件制作出一架机器人。
-    喜欢漫画、[动画之类的](../Page/动画.md "wikilink")[次文化](../Page/次文化.md "wikilink")，往宿舍内带了不少东西，比如书、音乐CD、游戏DVD和动画角色的海报等\[22\]。畫工高強，曾幫亞紀叔叔的輓馬橇裝飾、製作商品包裝貼紙（畫的全是萌系少女）。自從有一次正在玩遊戲途中由於大川學長的失誤使得宿舍電源跳脫便開始記仇，一逮到機會就會打擊報復。
+    喜欢漫画、[动画](../Page/动画.md "wikilink")之类的[次文化](../Page/次文化.md "wikilink")，往宿舍内带了不少东西，比如书、音乐CD、游戏DVD和动画角色的海报等\[22\]。畫工高強，曾幫亞紀叔叔的輓馬橇裝飾、製作商品包裝貼紙（畫的全是萌系少女）。自從有一次正在玩遊戲途中由於大川學長的失誤使得宿舍電源跳脫便開始記仇，一逮到機會就會打擊報復。
     熱衷於角色攻略遊戲而十分熟悉，曾用熱狗堡「馴服」食品科肉食系女生池田。曾藉機向池田求交往，结果被對方以非肉农不嫁拒绝。
     畢業後準備就讀東京的東村山大學農業部。
 
@@ -127,9 +120,8 @@ Spoon**》（）是[荒川弘的](../Page/荒川弘.md "wikilink")[日本](../Pa
 
   -
     3年级的学长，多摩子的哥哥。
-    被八轩叫做“烟熏鸡学长
-    ”。五官和妹妹多摩子一样端正，但是体型却与妹妹不同，和正常人相同。他正在钻研不含[食品添加剂的食品加工技术](../Page/食品添加剂.md "wikilink")，与认为“应要合理地使用食品添加剂”的多摩子意见相左。在让八轩帮忙抓捕逃走了的实验用鸡一事中与八轩相识，后因八轩在品尝作为回礼的烟熏鸡时展露出的能辨别出鸡肉不含添加剂的灵敏味觉而很中意八轩。
-    畢業後到大學開學之前經人介紹到約800頭豬的[放牧豬大型牧場做暑期打工](../Page/放牧.md "wikilink")。
+    被八轩叫做“烟熏鸡学长 ”。五官和妹妹多摩子一样端正，但是体型却与妹妹不同，和正常人相同。他正在钻研不含[食品添加剂](../Page/食品添加剂.md "wikilink")的食品加工技术，与认为“应要合理地使用食品添加剂”的多摩子意见相左。在让八轩帮忙抓捕逃走了的实验用鸡一事中与八轩相识，后因八轩在品尝作为回礼的烟熏鸡时展露出的能辨别出鸡肉不含添加剂的灵敏味觉而很中意八轩。
+    畢業後到大學開學之前經人介紹到約800頭豬的[放牧](../Page/放牧.md "wikilink")豬大型牧場做暑期打工。
 
 ### 馬術社
 
@@ -139,7 +131,7 @@ Spoon**》（）是[荒川弘的](../Page/荒川弘.md "wikilink")[日本](../Pa
     但只要在工作中，就會變成一個熱心勤勞的好青年，八軒的評價是「大川學長只要有活幹，就會變成一個正經的人」。
     被人當成瘟神，但本人不太在意。
     受八軒邀請，目前為八軒所創事業之社長。為了讓看不起他的人另眼相看，在創業活動上頗為用心。不只代替還在校的八軒處理各項業務，還拿出自己的積蓄作為創業資經金。
-    但是行事風格仍常讓人認為毫無責任感。曾經因為商品販賣超支預算問題導致赤字，而將扣除工資剩餘的營業所得78400[日圓全部拿去買輓曳馬](../Page/日圓.md "wikilink")[馬票](../Page/馬票.md "wikilink")，企圖靠高賠率的馬賺取所得，但因為下注金額過多以至於賠率降低為1.1倍，導致贏錢也只能稍稍持平。最後因為是賭博贏來的錢只能申報為「額外收入」。\[25\]
+    但是行事風格仍常讓人認為毫無責任感。曾經因為商品販賣超支預算問題導致赤字，而將扣除工資剩餘的營業所得78400[日圓](../Page/日圓.md "wikilink")全部拿去買輓曳馬[馬票](../Page/馬票.md "wikilink")，企圖靠高賠率的馬賺取所得。但因為下注金額過多以至於賠率降低為1.1倍，導致贏錢也只能稍稍持平。而相比之下，一旦輸了就要淪落到一貧如洗的悲慘後果。做出這種差點就要讓公司徹底破產的行為一度讓八軒等人對他產生殺意。最後因為是賭博贏來的錢只能申報為「額外收入」。\[25\]
 
 <!-- end list -->
 
@@ -374,10 +366,8 @@ Spoon**》（）是[荒川弘的](../Page/荒川弘.md "wikilink")[日本](../Pa
 ## 作品舞台及用語
 
   - 大蝦夷高級農業學校
-    通称“虾夷农高”。共有农业科学科、乳畜科学科，食品科学科、农业土木工程科和森林科学科
-    这五个大科系。学校推行的体制是从饲育家禽家畜到培育农作物，一切都要求学生和教师亲力亲为，而且从畜禽的饲料到师生餐点在内的一切食物都能够自给自足。
-    包含实习农田、林地和牧场
-    在内的总占地面积是足以让校内师生都感到自豪的全国最大规模，绕行学校一圈的距离长约20公里。校内有棒球场和足球场各两个，还备有田径部所需的跑道。学校要求所有学生均必须参加社团活动，不过校内没有文化型社团，都为运动型社团。虽然是一所农业高中，但却拥有包括能够移植受精卵和研究複製技術的最先进的研究设备，有兴趣的学生甚至能参与实践性的研究\[39\]。校训是「」\[40\]。
+    通称“虾夷农高”。共有农业科学科、乳畜科学科，食品科学科、农业土木工程科和森林科学科 这五个大科系。学校推行的体制是从饲育家禽家畜到培育农作物，一切都要求学生和教师亲力亲为，而且从畜禽的饲料到师生餐点在内的一切食物都能够自给自足。
+    包含实习农田、林地和牧场 在内的总占地面积是足以让校内师生都感到自豪的全国最大规模，绕行学校一圈的距离长约20公里。校内有棒球场和足球场各两个，还备有田径部所需的跑道。学校要求所有学生均必须参加社团活动，不过校内没有文化型社团，都为运动型社团。虽然是一所农业高中，但却拥有包括能够移植受精卵和研究複製技術的最先进的研究设备，有兴趣的学生甚至能参与实践性的研究\[39\]。校训是「」\[40\]。
 
 <!-- end list -->
 
@@ -561,7 +551,7 @@ Spoon**》（）是[荒川弘的](../Page/荒川弘.md "wikilink")[日本](../Pa
 
 ## 電視動畫
 
-该作品于2012年末從海外流出動畫化消息\[45\]。在2013年1月16日發售的《週刊少年》2013年7月號正式宣佈電視動畫化。2013年7月至9月於[富士電視台的](../Page/富士電視台.md "wikilink")「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」時段播出播出第1季\[46\]\[47\]，第2季於2014年1月至3月播出。
+该作品于2012年末從海外流出動畫化消息\[45\]。在2013年1月16日發售的《週刊少年》2013年7月號正式宣佈電視動畫化。2013年7月至9月於[富士電視台](../Page/富士電視台.md "wikilink")的「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」時段播出播出第1季\[46\]\[47\]，第2季於2014年1月至3月播出。
 
 ### 製作人員
 
@@ -588,11 +578,9 @@ Spoon**》（）是[荒川弘的](../Page/荒川弘.md "wikilink")[日本](../Pa
 
   - 第1季
 
-:; 片頭曲「[kiss
-you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
+:; 片頭曲「[kiss you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
 
-::
-作詞、作曲、主唱：[miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")，編曲：Naoki-T
+:: 作詞、作曲、主唱：[miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")，編曲：Naoki-T
 
 :; 片尾曲「[Hello Especially](../Page/Hello_Especially.md "wikilink")」
 
@@ -927,16 +915,14 @@ you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
 #### 日本国外
 
   - 香港
-    由[J2播放](../Page/J2.md "wikilink")。于2014年7月23日至8月22日，星期一至五的18時25分－19時00分两期连播。均提供雙語廣播和中文字幕，有重播和[myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")14天重溫。
+    由[J2](../Page/J2.md "wikilink")播放。于2014年7月23日至8月22日，星期一至五的18時25分－19時00分两期连播。均提供雙語廣播和中文字幕，有重播和[myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")14天重溫。
   - 台湾
     由[衛視電影台](../Page/衛視電影台.md "wikilink")，于2014年7月21日－8月4日，星期一至五的19:00－20:00两期连播。
     由[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")，于2016年2月10日起，星期一至五，下午18:00-18:30，兩期連播。
 
 ## 電影
 
-2013年8月宣布製作真人電影，2014年3月7日在全國285處公開播映。[廣告標語為](../Page/廣告標語.md "wikilink")「**最強、不講理的青春\!\!**」（「最強に理不尽な青春\!\!」）。
-截至3月10日的日本全國電影動員排行榜的票房結果（興行通信社調查）首度排名第四，首日播映兩天之間吸引逾9萬8956人進場觀賞的成績，収入有1億2111萬7900日圓的記錄\[55\]。男女觀眾人數比例調查是27比73，因「我喜歡的演員」等吸引觀賞的動機比率達53%\[56\]。4週之內更達到52萬1282人進場觀賞，累計收入達6億968萬5850日圓票房中第九名\[57\]。台灣於2014年4月18日上映。
-2014年10月15日，電影版藍光BD/DVD於日本發售。2014年11月14日，電影版DVD於台灣發售。\[58\]
+2013年8月宣布製作真人電影，2014年3月7日在全國285處公開播映。[廣告標語](../Page/廣告標語.md "wikilink")為「**最強、不講理的青春\!\!**」（「最強に理不尽な青春\!\!」）。 截至3月10日的日本全國電影動員排行榜的票房結果（興行通信社調查）首度排名第四，首日播映兩天之間吸引逾9萬8956人進場觀賞的成績，収入有1億2111萬7900日圓的記錄\[55\]。男女觀眾人數比例調查是27比73，因「我喜歡的演員」等吸引觀賞的動機比率達53%\[56\]。4週之內更達到52萬1282人進場觀賞，累計收入達6億968萬5850日圓票房中第九名\[57\]。台灣於2014年4月18日上映。 2014年10月15日，電影版藍光BD/DVD於日本發售。2014年11月14日，電影版DVD於台灣發售。\[58\]
 
 ### 演員
 
@@ -963,7 +949,7 @@ you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
   - 御影豪志：[竹内力](https://zh.wikipedia.org/wiki/竹内力 "wikilink")<small>（香港配音：[葉振聲](../Page/葉振聲.md "wikilink")）</small>
   - 御影政子：[宮本裕子](https://zh.wikipedia.org/wiki/宮本裕子 "wikilink")<small>（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）</small>
   - 御影大作：[石橋蓮司](https://zh.wikipedia.org/wiki/石橋蓮司 "wikilink")<small>（香港配音：[招世亮](../Page/招世亮.md "wikilink")）</small>
-  - 御影サト：稲川美代子<small>（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）</small>
+  - 御影サト：稲川実代子<small>（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）</small>
   - 御影優志：哀川翔<small>（香港配音：[陳卓智](../Page/陳卓智.md "wikilink")）</small>
   - 駒場菜實：[西田尚美](https://zh.wikipedia.org/wiki/西田尚美 "wikilink")<small>（香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）</small>
   - 駒場二野：高城樹里<small>（香港配音：[凌晞](../Page/凌晞.md "wikilink")）</small>
@@ -971,8 +957,7 @@ you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
 
 ### 工作人員
 
-  - 原作：[荒川弘](../Page/荒川弘.md "wikilink")《銀の匙 Silver
-    Spoon》（[小學館](../Page/小學館.md "wikilink")「[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")」連載）
+  - 原作：[荒川弘](../Page/荒川弘.md "wikilink")《銀の匙 Silver Spoon》（[小學館](../Page/小學館.md "wikilink")「[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")」連載）
   - 导演：
   - 编剧：吉田惠輔、高田亮
   - 音樂：[羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
@@ -990,9 +975,7 @@ you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
   - 协助导演：佃謙介
   - 製作擔當：早川徹
   - 製作公司：
-  - 制作组织：電影「銀之匙 Silver
-    Spoon」製作委員會（[TBS電視台](../Page/TBS電視台.md "wikilink")、小學館、東寶、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[WOWOW](../Page/WOWOW.md "wikilink")、[中部日本放送](../Page/中部日本放送.md "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[TBS廣播與信息公司](https://zh.wikipedia.org/wiki/TBS廣播與信息公司 "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[北海道放送](../Page/北海道放送.md "wikilink")、[RKB每日放送](../Page/RKB每日放送.md "wikilink")、、JTB
-    Corporate Sales）
+  - 制作组织：電影「銀之匙 Silver Spoon」製作委員會（[TBS電視台](../Page/TBS電視台.md "wikilink")、小學館、東寶、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[WOWOW](../Page/WOWOW.md "wikilink")、[中部日本放送](../Page/中部日本放送.md "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[TBS廣播與信息公司](https://zh.wikipedia.org/wiki/TBS廣播與信息公司 "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[北海道放送](../Page/北海道放送.md "wikilink")、[RKB每日放送](../Page/RKB每日放送.md "wikilink")、、JTB Corporate Sales）
   - 分发：[東寶](../Page/東寶.md "wikilink")
   - 公映时间：2014年3月7日（[日本](../Page/日本.md "wikilink")）
   - 协助：文化藝術振興費補助金
@@ -1001,8 +984,7 @@ you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
 
 该作品曾获得2012年度「[漫画大奖](https://zh.wikipedia.org/wiki/漫画大奖 "wikilink")」（）的大奖。\[59\]
 
-在[讀賣新聞社主辦的SUGOI](../Page/讀賣新聞.md "wikilink") JAPAN Award
-2015「最想向海外介紹的日本流行文化」評選中獲得漫畫部門第2名。\[60\]\[61\]
+在[讀賣新聞](../Page/讀賣新聞.md "wikilink")社主辦的SUGOI JAPAN Award 2015「最想向海外介紹的日本流行文化」評選中獲得漫畫部門第2名。\[60\]\[61\]
 
 ## 脚注
 
@@ -1016,28 +998,7 @@ you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
   - [原作官網](http://www.shogakukan.co.jp/pr/ginsaji/)
   - [電視動畫官網](http://www.ginsaji-anime.com/)
 
-[Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink")
-[Category:高中背景漫画](https://zh.wikipedia.org/wiki/Category:高中背景漫画 "wikilink")
-[Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink")
-[Category:北海道背景作品](https://zh.wikipedia.org/wiki/Category:北海道背景作品 "wikilink")
-[Category:農校背景作品](https://zh.wikipedia.org/wiki/Category:農校背景作品 "wikilink")
-[Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink")
-[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink")
-[Category:2014年日本電影](https://zh.wikipedia.org/wiki/Category:2014年日本電影 "wikilink")
-[Category:TBS製作的電影](https://zh.wikipedia.org/wiki/Category:TBS製作的電影 "wikilink")
-[Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink")
-[Category:每日放送製作的電影](https://zh.wikipedia.org/wiki/Category:每日放送製作的電影 "wikilink")
-[Category:WOWOW製作的電影](https://zh.wikipedia.org/wiki/Category:WOWOW製作的電影 "wikilink")
-[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")
-[Category:北海道背景電影](https://zh.wikipedia.org/wiki/Category:北海道背景電影 "wikilink")
-[Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink")
-[Category:日本校園電影](https://zh.wikipedia.org/wiki/Category:日本校園電影 "wikilink")
-[Category:賽馬漫畫](https://zh.wikipedia.org/wiki/Category:賽馬漫畫 "wikilink")
-[Category:2010年代青春電影](https://zh.wikipedia.org/wiki/Category:2010年代青春電影 "wikilink")
-[Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink")
+[Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink") [Category:高中背景漫画](https://zh.wikipedia.org/wiki/Category:高中背景漫画 "wikilink") [Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink") [Category:北海道背景作品](https://zh.wikipedia.org/wiki/Category:北海道背景作品 "wikilink") [Category:農校背景作品](https://zh.wikipedia.org/wiki/Category:農校背景作品 "wikilink") [Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink") [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink") [Category:2014年日本電影](https://zh.wikipedia.org/wiki/Category:2014年日本電影 "wikilink") [Category:TBS製作的電影](https://zh.wikipedia.org/wiki/Category:TBS製作的電影 "wikilink") [Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink") [Category:每日放送製作的電影](https://zh.wikipedia.org/wiki/Category:每日放送製作的電影 "wikilink") [Category:WOWOW製作的電影](https://zh.wikipedia.org/wiki/Category:WOWOW製作的電影 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:北海道背景電影](https://zh.wikipedia.org/wiki/Category:北海道背景電影 "wikilink") [Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink") [Category:日本校園電影](https://zh.wikipedia.org/wiki/Category:日本校園電影 "wikilink") [Category:賽馬漫畫](https://zh.wikipedia.org/wiki/Category:賽馬漫畫 "wikilink") [Category:2010年代青春電影](https://zh.wikipedia.org/wiki/Category:2010年代青春電影 "wikilink") [Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink")
 
 1.
 2.  （见《週刊少年Sunday》2011年第19号刊的卷末留言：“这部漫画...并不是一部基于虚构的校园漫画。”）
@@ -1045,7 +1006,6 @@ you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
 3.  （相关内容记述于《北海道新闻（北海道报）》2011年4月25日的晚报文章中，标题为《以带农高为蓝本的漫画连载》、《体验，真实的宿舍生活》）
 
 4.  [（十胜每日报社的新闻）](http://www.tokachi.co.jp/news/201105/20110517-0009207.php)
-
 
 5.  [（Comic Natalie的相关采访）](http://natalie.mu/comic/pp/sunday)
 
@@ -1105,8 +1065,7 @@ you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
 38. 日本學業成績是由最低1分至最高5分
 
 39.
-40. 其原形的北海道带广农业高等学校的校训是「礼儀、協同、勤労（礼仪、合作、勤劳）」。[带广农高官方网站](http://www.obino.hokkaido-c.ed.jp/gakkouannnai.html)
-    ，参见该页中的“学校教育目標”或“経営方針”。
+40. 其原形的北海道带广农业高等学校的校训是「礼儀、協同、勤労（礼仪、合作、勤劳）」。[带广农高官方网站](http://www.obino.hokkaido-c.ed.jp/gakkouannnai.html) ，参见该页中的“学校教育目標”或“経営方針”。
 
 41. 漫画第11话
 
@@ -1115,9 +1074,7 @@ you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
 
 44. 漫画第90话
 
-45. [Silver Spoon adapté en
-    anime](http://www.manga-news.com/index.php/actus/2012/12/28/Silver-Spoon-La-cuillere-dargent-%3A-Lanime).
-    Manga News. 2012-12-28.
+45. [Silver Spoon adapté en anime](http://www.manga-news.com/index.php/actus/2012/12/28/Silver-Spoon-La-cuillere-dargent-%3A-Lanime). Manga News. 2012-12-28.
 
 46.
 

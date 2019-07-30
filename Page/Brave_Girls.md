@@ -1,5 +1,4 @@
-**Brave
-Girls**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Brave娛樂在](../Page/Brave娛樂.md "wikilink")2011年推出的女子團體，最初由恩英、殊雅、藝眞、裕眞、蕙蘭組成，現任成員有玟瑩、侑廷、恩智、裕那、夏昀。
+**Brave Girls**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Brave娛樂](../Page/Brave娛樂.md "wikilink")在2011年推出的女子團體，最初由恩英、殊雅、藝眞、裕眞、蕙蘭組成，現任成員有玟瑩、侑廷、恩智、裕那、夏昀。
 
 2011年4月8日發行首張單曲《The Difference》，並於音樂銀行正式出道。
 
@@ -11,17 +10,11 @@ Brave Girls的官方歌迷名稱為**Fearless**，意思是戰鬥中勇敢無畏
 
 ## 摘要
 
-Brave
-Girls是由韓國著名音樂人[勇敢兄弟徵選並親自培養挑選的女子組合](../Page/勇敢兄弟.md "wikilink")，[勇敢兄弟曾製做過很多優秀作品](../Page/勇敢兄弟.md "wikilink")。隊長恩英是韓國演員[申河均的](../Page/申河均.md "wikilink")[侄女](https://zh.wikipedia.org/wiki/侄女 "wikilink")，成員蕙蘭長得像[孫淡妃而受到關注](../Page/孫淡妃.md "wikilink")，藝眞參加2008年韓國小姐選拔而獲得西雅圖小姐的稱呼\[2\]，殊雅以前是一個[模特兒](../Page/模特兒.md "wikilink")。
+Brave Girls是由韓國著名音樂人[勇敢兄弟](../Page/勇敢兄弟.md "wikilink")徵選並親自培養挑選的女子組合，[勇敢兄弟](../Page/勇敢兄弟.md "wikilink")曾製做過很多優秀作品。隊長恩英是韓國演員[申河均](../Page/申河均.md "wikilink")的[侄女](https://zh.wikipedia.org/wiki/侄女 "wikilink")，成員蕙蘭長得像[孫淡妃](../Page/孫淡妃.md "wikilink")而受到關注，藝眞參加2008年韓國小姐選拔而獲得西雅圖小姐的稱呼\[2\]，殊雅以前是一個[模特兒](../Page/模特兒.md "wikilink")。
 
-2011年3月15日，公開隊長恩英，3月17日公開成員蕙蘭和3月23日公開藝眞，3月29日公開殊雅，3月31日組合所有成員亮相。4月6日發布了Brave
-Girls新歌的預告，4月7日主打歌《Do You
-Know》完整版MV公開，曲風為R\&B。4月8日正式發行出道[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")\[3\]，並且在
-KBS《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》首次現場登台演出。
+2011年3月15日，公開隊長恩英，3月17日公開成員蕙蘭和3月23日公開藝眞，3月29日公開殊雅，3月31日組合所有成員亮相。4月6日發布了Brave Girls新歌的預告，4月7日主打歌《Do You Know》完整版MV公開，曲風為R\&B。4月8日正式發行出道[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")\[3\]，並且在 KBS《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》首次現場登台演出。
 
-2016年2月3日，釋出《Deepened》回歸預告，官方宣佈將改為七人制，隊長恩英及成員殊雅、藝眞等因個人理由退出Brave
-Girls，並加入玟瑩、侑廷、恩智、裕那、夏昀，預計二月中旬回歸。當中，玟瑩曾是[HavyT](https://zh.wikipedia.org/wiki/HavyT "wikilink")、[ZZBEst成員](https://zh.wikipedia.org/wiki/ZZBEst "wikilink")。
+2016年2月3日，釋出《Deepened》回歸預告，官方宣佈將改為七人制，隊長恩英及成員殊雅、藝眞等因個人理由退出Brave Girls，並加入玟瑩、侑廷、恩智、裕那、夏昀，預計二月中旬回歸。當中，玟瑩曾是[HavyT](https://zh.wikipedia.org/wiki/HavyT "wikilink")、[ZZBEst成員](https://zh.wikipedia.org/wiki/ZZBEst "wikilink")。
 
 2017年1月13日，裕眞、蕙蘭分別以學業原因、健康問題退出\[4\]。
 
@@ -51,10 +44,7 @@ Girls，並加入玟瑩、侑廷、恩智、裕那、夏昀，預計二月中旬
 
 ### 成員變動時間表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2011 till:2018 TimeAxis =
-orientation:horizontal format:yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2011 till:2018 TimeAxis = orientation:horizontal format:yyyy
 
 ScaleMajor = unit:year increment:1 start:2011 gridcolor:black
 
@@ -440,8 +430,7 @@ PlotData =
 
   - Brave Entertainment [官方網站](http://bravesound.com/)
 
-  - Brave Girls [官方Daum
-    Cafe](http://cafe446.daum.net/_c21_/home?grpid=1OVS4)
+  - Brave Girls [官方Daum Cafe](http://cafe446.daum.net/_c21_/home?grpid=1OVS4)
 
   -
   -
@@ -452,12 +441,7 @@ PlotData =
   -
   -
   -
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
 2.  [Donga運動網新聞](http://sports.donga.com/3//20110323/35803565/2)

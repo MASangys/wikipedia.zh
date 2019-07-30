@@ -1,9 +1,8 @@
-**javac**是收录于[JDK中的](../Page/JDK.md "wikilink")[Java语言](https://zh.wikipedia.org/wiki/Java语言 "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")。该工具可以将[后缀名为](https://zh.wikipedia.org/wiki/后缀名 "wikilink").java的源文件[编译为后缀名为](https://zh.wikipedia.org/wiki/编译 "wikilink").class的可以运行于[Java虚拟机的](../Page/Java虚拟机.md "wikilink")[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")。
+**javac**是收录于[JDK](../Page/JDK.md "wikilink")中的[Java语言](https://zh.wikipedia.org/wiki/Java语言 "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")。该工具可以将[后缀名为](https://zh.wikipedia.org/wiki/后缀名 "wikilink").java的源文件[编译为后缀名为](https://zh.wikipedia.org/wiki/编译 "wikilink").class的可以运行于[Java虚拟机](../Page/Java虚拟机.md "wikilink")的[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")。
 
 ## 使用方法
 
-若[开发者使用IDE编写的源程序](https://zh.wikipedia.org/wiki/开发者 "wikilink")（扩展名为.java）必须遵从于“The
-Java Language Specification”，可手工编译或IDE编译。运行javac的实质便是命令行的调用：
+若[开发者使用IDE编写的源程序](https://zh.wikipedia.org/wiki/开发者 "wikilink")（扩展名为.java）必须遵从于“The Java Language Specification”，可手工编译或IDE编译。运行javac的实质便是命令行的调用：
 
   -
     javac hello.java
@@ -64,8 +63,7 @@ javac的具体帮助文档见：\[1\]
 
 ## 参见
 
-  - [Java
-    compiler](https://zh.wikipedia.org/wiki/Java_compiler "wikilink")
+  - [Java compiler](https://zh.wikipedia.org/wiki/Java_compiler "wikilink")
   - [Java](../Page/Java.md "wikilink")
   - [Java平臺](../Page/Java平臺.md "wikilink")
   - [OpenJDK](../Page/OpenJDK.md "wikilink")
@@ -75,13 +73,8 @@ javac的具体帮助文档见：\[1\]
 ## 外部链接
 
   - [The Compiler Group](http://openjdk.java.net/groups/compiler/)
-  - [JSR 199](http://www.jcp.org/en/jsr/detail?id=199) Java Compiler API
-    [Java Specification Request](../Page/JCP.md "wikilink") for invoking
-    the Java compiler from a Java program
+  - [JSR 199](http://www.jcp.org/en/jsr/detail?id=199) Java Compiler API [Java Specification Request](../Page/JCP.md "wikilink") for invoking the Java compiler from a Java program
 
-[Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink")
-[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
-[Category:程序设计工具](https://zh.wikipedia.org/wiki/Category:程序设计工具 "wikilink")
+[Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink") [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink") [Category:程序设计工具](https://zh.wikipedia.org/wiki/Category:程序设计工具 "wikilink")
 
-1.  [Java Platform, Standard Edition Tools
-    Reference:javac](https://docs.oracle.com/javase/10/tools/javac.htm)
+1.  [Java Platform, Standard Edition Tools Reference:javac](https://docs.oracle.com/javase/10/tools/javac.htm)

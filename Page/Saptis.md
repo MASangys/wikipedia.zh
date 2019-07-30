@@ -1,5 +1,4 @@
-**SapTis**( Structure Analysis Program for Temperature and its Induced
-Stress)早期为一款[混凝土结构](../Page/混凝土.md "wikilink")[温度场](https://zh.wikipedia.org/wiki/温度场 "wikilink")、[温度应力分析](https://zh.wikipedia.org/wiki/温度应力 "wikilink")[软件](../Page/软件.md "wikilink")，由[中国水利水电科学研究院](https://zh.wikipedia.org/wiki/中国水利水电科学研究院 "wikilink")[张国新独自开发](../Page/张国新.md "wikilink")，已有20多年的开发应用历史。现已开发成为一款大型结构温度场、应力场线性及非线性分析程序。主要功能及特点如下：
+**SapTis**( Structure Analysis Program for Temperature and its Induced Stress)早期为一款[混凝土](../Page/混凝土.md "wikilink")结构[温度场](https://zh.wikipedia.org/wiki/温度场 "wikilink")、[温度应力分析](https://zh.wikipedia.org/wiki/温度应力 "wikilink")[软件](../Page/软件.md "wikilink")，由[中国水利水电科学研究院](https://zh.wikipedia.org/wiki/中国水利水电科学研究院 "wikilink")[张国新](../Page/张国新.md "wikilink")独自开发，已有20多年的开发应用历史。现已开发成为一款大型结构温度场、应力场线性及非线性分析程序。主要功能及特点如下：
 
 ## 混凝土坝浇筑到运行全过程仿真分析
 
@@ -14,8 +13,7 @@ Stress)早期为一款[混凝土结构](../Page/混凝土.md "wikilink")[温度�
 
 ## 大坝浇筑到运行全过程非线性模拟
 
-Saptis
-具备非线性分析功能：具有脆断、软化、理想弹塑性三种模型。可采用的屈服准则包括：D-P准侧、M-C准则、三\~五参数混凝土屈服准则，可用于对高坝进行超载、降强等非线性安全度分析。
+Saptis 具备非线性分析功能：具有脆断、软化、理想弹塑性三种模型。可采用的屈服准则包括：D-P准侧、M-C准则、三\~五参数混凝土屈服准则，可用于对高坝进行超载、降强等非线性安全度分析。
 
 ## 基础及洞室开挖、衬砌、锚固模拟
 

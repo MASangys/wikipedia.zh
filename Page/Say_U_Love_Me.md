@@ -1,5 +1,4 @@
-《**Say U Love
-Me**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[蔡立的第五張大碟](https://zh.wikipedia.org/wiki/蔡立 "wikilink")，在1991年3月推出。專輯中的《請你不要這樣》是她首次演唱國語作品，這也是她在首張大碟《[希望](https://zh.wikipedia.org/wiki/希望_\(蔡立專輯\) "wikilink")》中的《怎麼》之國語版本。
+《**Say U Love Me**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[蔡立的第五張大碟](https://zh.wikipedia.org/wiki/蔡立 "wikilink")，在1991年3月推出。專輯中的《請你不要這樣》是她首次演唱國語作品，這也是她在首張大碟《[希望](https://zh.wikipedia.org/wiki/希望_\(蔡立專輯\) "wikilink")》中的《怎麼》之國語版本。
 
 ## 曲目
 
@@ -109,7 +108,4 @@ C.Y.Kong</p></td>
   - 錄音帶版
   - 復刻金CD版
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:蔡立音樂專輯](https://zh.wikipedia.org/wiki/Category:蔡立音樂專輯 "wikilink")
-[Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink")
-[Category:愛情題材歌曲](https://zh.wikipedia.org/wiki/Category:愛情題材歌曲 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:蔡立音樂專輯](https://zh.wikipedia.org/wiki/Category:蔡立音樂專輯 "wikilink") [Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink") [Category:愛情題材歌曲](https://zh.wikipedia.org/wiki/Category:愛情題材歌曲 "wikilink")

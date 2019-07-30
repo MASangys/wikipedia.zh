@@ -1,4 +1,4 @@
-**《Vocalist》**是[林欣彤的首張個人大碟](../Page/林欣彤.md "wikilink")，於2011年8月18日公開發售。《Vocalist》以兩個不同的封面推出發行，隨碟附送2首MV，而《乾燥花》為《洗澡》的國語版本、《非凡》則為大新人壽廣告歌曲。
+**《Vocalist》**是[林欣彤](../Page/林欣彤.md "wikilink")的首張個人大碟，於2011年8月18日公開發售。《Vocalist》以兩個不同的封面推出發行，隨碟附送2首MV，而《乾燥花》為《洗澡》的國語版本、《非凡》則為大新人壽廣告歌曲。
 
 ## 曲目
 
@@ -29,7 +29,4 @@ MV現有7首，當中《平凡.明星》、《我們不是公主》、《鳥籠�
   - [非凡](http://www.youtube.com/watch?v=L8aokWNSNSk/)
   - [乾燥花](http://www.youtube.com/watch?v=buLzNlOwjko/)
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:林欣彤音樂專輯](https://zh.wikipedia.org/wiki/Category:林欣彤音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:林欣彤音樂專輯](https://zh.wikipedia.org/wiki/Category:林欣彤音樂專輯 "wikilink")

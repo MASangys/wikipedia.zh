@@ -1,144 +1,89 @@
-**馬自達RX-7**（）是由[日本](../Page/日本.md "wikilink")[馬自達汽車公司自](https://zh.wikipedia.org/wiki/馬自達 "wikilink")1978年至2002年間製造販售、搭載[轉子引擎的雙門](../Page/馬自達轉子引擎.md "wikilink")[跑車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。關於車名的由來，「R」代表Rotary[轉子引擎](../Page/馬自達轉子引擎.md "wikilink")，「X」為代表未來的象徵記號，而「7」是[馬自達內部的車型代碼](https://zh.wikipedia.org/wiki/馬自達 "wikilink")，比如[馬自達2](../Page/馬自達2.md "wikilink")、[馬自達5分別為小型車](../Page/馬自達5.md "wikilink")、轎式[多功能休旅車車型](../Page/多功能休旅車.md "wikilink")。在車迷之間，則常以車型代號的開頭二字譬如「FC」、「FD」來做為各代車型的暱稱。
+**馬自達RX-7**（）是由[日本](../Page/日本.md "wikilink")[馬自達汽車公司自](https://zh.wikipedia.org/wiki/馬自達 "wikilink")1978年至2002年間製造販售、搭載[轉子引擎的雙門](../Page/馬自達轉子引擎.md "wikilink")[跑車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。關於車名的由來，「R」代表Rotary[轉子引擎](../Page/馬自達轉子引擎.md "wikilink")，「X」為代表未來的象徵記號，而「7」是[馬自達內部的車型代碼](https://zh.wikipedia.org/wiki/馬自達 "wikilink")，比如[馬自達2](../Page/馬自達2.md "wikilink")、[馬自達5](../Page/馬自達5.md "wikilink")分別為小型車、轎式[多功能休旅車](../Page/多功能休旅車.md "wikilink")車型。在車迷之間，則常以車型代號的開頭二字譬如「FC」、「FD」來做為各代車型的暱稱。
 
 ## 概要
 
-1978年3月時，以[RX-3後繼車款姿態的](../Page/馬自達RX-3.md "wikilink")「**Savanna
-RX-7**」（サバンナRX-7，因為[RX-3在](../Page/馬自達RX-3.md "wikilink")[日本稱為Savanna](../Page/日本.md "wikilink")）車名公開發表。1991年第三代上市，時值[馬自達採行多品牌行銷策略](https://zh.wikipedia.org/wiki/馬自達 "wikilink")，故冠以副品牌「[Ẽfini](../Page/Ẽfini.md "wikilink")」，在[日本名為](../Page/日本.md "wikilink")「**Ẽfini
-RX-7**」（アンフィニ・RX-7）。1997年10月，停止使用[Ẽfini副品牌](../Page/Ẽfini.md "wikilink")，且整合了全國[Ẽfini和](../Page/Ẽfini.md "wikilink")[Eunos兩個銷售通路系統](../Page/Eunos.md "wikilink")，才改以**馬自達RX-7**稱呼。2002年8月由於無法通過[日本汽車廢氣排放的環保法規](../Page/日本.md "wikilink")，才停止生產。在此期間，全世界總共生產了811,634輛\[1\]。
+1978年3月時，以[RX-3後繼車款姿態的](../Page/馬自達RX-3.md "wikilink")「**Savanna RX-7**」（サバンナRX-7，因為[RX-3在](../Page/馬自達RX-3.md "wikilink")[日本](../Page/日本.md "wikilink")稱為Savanna）車名公開發表。1991年第三代上市，時值[馬自達採行多品牌行銷策略](https://zh.wikipedia.org/wiki/馬自達 "wikilink")，故冠以副品牌「[Ẽfini](../Page/Ẽfini.md "wikilink")」，在[日本](../Page/日本.md "wikilink")名為「**Ẽfini RX-7**」（アンフィニ・RX-7）。1997年10月，停止使用[Ẽfini](../Page/Ẽfini.md "wikilink")副品牌，且整合了全國[Ẽfini](../Page/Ẽfini.md "wikilink")和[Eunos](../Page/Eunos.md "wikilink")兩個銷售通路系統，才改以**馬自達RX-7**稱呼。2002年8月由於無法通過[日本](../Page/日本.md "wikilink")汽車廢氣排放的環保法規，才停止生產。在此期間，全世界總共生產了811,634輛\[1\]。
 
-[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《人車誌汽車雜誌》（Car and
-Driver Magazine）曾經五度將RX-7列入年度十大風雲車。
+[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《人車誌汽車雜誌》（Car and Driver Magazine）曾經五度將RX-7列入年度十大風雲車。
 
 ## 歷史
 
 ### 第一代SA22C/FB3S型（1978-1985年）
 
-1978年 -
-3月時RX-7（日本國內稱為サバンナRX-7）以[RX-3後繼車款之姿面世](../Page/馬自達RX-3.md "wikilink")，開發代號為X605。以馬自達SA平台為底，搭載[12A型雙轉子](https://zh.wikipedia.org/wiki/馬自達轉子引擎#12A型 "wikilink")、[自然進氣的](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")[轉子引擎](../Page/馬自達轉子引擎.md "wikilink")。由於彼時發生[第一次石油危機](https://zh.wikipedia.org/wiki/第一次石油危機 "wikilink")，原廠採用可將排氣再度燃燒的溫控反應器（thermal
-reactor），燃料消耗率比前代車型提升了40%。翌年則廢止溫控反應器，將12A型引擎改為[稀薄燃燒](https://zh.wikipedia.org/wiki/稀薄燃燒 "wikilink")（lean-burn）方式；並且更改尾燈和前側裙的形狀，幫助風阻係數Cd值從0.36降至0.34。
+1978年 - 3月時RX-7（日本國內稱為サバンナRX-7）以[RX-3後繼車款之姿面世](../Page/馬自達RX-3.md "wikilink")，開發代號為X605。以馬自達SA平台為底，搭載[12A型雙轉子](https://zh.wikipedia.org/wiki/馬自達轉子引擎#12A型 "wikilink")、[自然進氣的](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")[轉子引擎](../Page/馬自達轉子引擎.md "wikilink")。由於彼時發生[第一次石油危機](https://zh.wikipedia.org/wiki/第一次石油危機 "wikilink")，原廠採用可將排氣再度燃燒的溫控反應器（thermal reactor），燃料消耗率比前代車型提升了40%。翌年則廢止溫控反應器，將12A型引擎改為[稀薄燃燒](https://zh.wikipedia.org/wiki/稀薄燃燒 "wikilink")（lean-burn）方式；並且更改尾燈和前側裙的形狀，幫助風阻係數Cd值從0.36降至0.34。
 
-1983年 -
-小改款時日本地區追加[12A型渦輪增壓轉子引擎](https://zh.wikipedia.org/wiki/馬自達轉子引擎#12A型渦輪增壓 "wikilink")，最大馬力可達165hp
-/
-6,000rpm。1984年至1985年間外銷世界的RX-7則搭載1.3L的[13B-RESI型燃油噴射轉子引擎](https://zh.wikipedia.org/wiki/馬自達轉子引擎#13B-RESI型 "wikilink")，最大馬力135hp、最大扭力183N·m。根據原廠的說法，從0加速到50mph只需6.3秒。
+1983年 - 小改款時日本地區追加[12A型渦輪增壓轉子引擎](https://zh.wikipedia.org/wiki/馬自達轉子引擎#12A型渦輪增壓 "wikilink")，最大馬力可達165hp / 6,000rpm。1984年至1985年間外銷世界的RX-7則搭載1.3L的[13B-RESI型燃油噴射轉子引擎](https://zh.wikipedia.org/wiki/馬自達轉子引擎#13B-RESI型 "wikilink")，最大馬力135hp、最大扭力183N·m。根據原廠的說法，從0加速到50mph只需6.3秒。
 
-前輪[懸吊系統採用](../Page/懸吊系統.md "wikilink")[麥花臣式](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")（MacPherson
-strut），後輪則採瓦氏四連桿式（Watt's linkage
-4-link）懸吊系統。乘坐兩人時，車身前後配重比例達50.7：49.3，加上1,100kg的車重（此款車是歷代最輕的），更增加了其操控性能。
+前輪[懸吊系統](../Page/懸吊系統.md "wikilink")採用[麥花臣式](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")（MacPherson strut），後輪則採瓦氏四連桿式（Watt's linkage 4-link）懸吊系統。乘坐兩人時，車身前後配重比例達50.7：49.3，加上1,100kg的車重（此款車是歷代最輕的），更增加了其操控性能。
 
-此代車款在全球共出售了474,565輛，其中[美國地區占了](https://zh.wikipedia.org/wiki/美國 "wikilink")377,878輛。1983年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《人車誌汽車雜誌》（Car
-and Driver
-Magazine）把RX-7列為年度十大風雲車；2004年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《跑車國際雜誌》（Sports
-Car International Magazine）在其「七〇年代頂尖跑車」名單中將RX-7列為第七名。
+此代車款在全球共出售了474,565輛，其中[美國地區占了](https://zh.wikipedia.org/wiki/美國 "wikilink")377,878輛。1983年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《人車誌汽車雜誌》（Car and Driver Magazine）把RX-7列為年度十大風雲車；2004年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《跑車國際雜誌》（Sports Car International Magazine）在其「七〇年代頂尖跑車」名單中將RX-7列為第七名。
 
-Image:Mazda RX7 115PS 1983 1.jpg|車頭 Image:Mazda RX7 115PS 1983 2.jpg|車尾
-Image:Mazda-rx7-1st-generation01.jpg|[馬自達博物館展示的第一代RX](../Page/馬自達博物館.md "wikilink")-7
-Image:MazdaRx-7GSL-SE-interior.jpg|車室內裝 Image:Mazda RX7 modèle SA22C
-1979.JPG|第一代前期型
+Image:Mazda RX7 115PS 1983 1.jpg|車頭 Image:Mazda RX7 115PS 1983 2.jpg|車尾 Image:Mazda-rx7-1st-generation01.jpg|[馬自達博物館](../Page/馬自達博物館.md "wikilink")展示的第一代RX-7 Image:MazdaRx-7GSL-SE-interior.jpg|車室內裝 Image:Mazda RX7 modèle SA22C 1979.JPG|第一代前期型
 
 {{-}}
 
 ### 第二代FC3S型（1985-1991年）/ FC3C型敞篷車型（1987-1992年）
 
-1985年 -
-10月進行大改款。除了日本本土外，美國為RX-7最大的市場。當年系列在[北美洲市場非常暢銷](../Page/北美洲.md "wikilink")，於是此代外觀造型以保時捷944和為藍本，造成當時汽車雜誌遂以「平民[保時捷](https://zh.wikipedia.org/wiki/保時捷 "wikilink")」來形容第二代RX-7。
+1985年 - 10月進行大改款。除了日本本土外，美國為RX-7最大的市場。當年系列在[北美洲](../Page/北美洲.md "wikilink")市場非常暢銷，於是此代外觀造型以保時捷944和為藍本，造成當時汽車雜誌遂以「平民[保時捷](https://zh.wikipedia.org/wiki/保時捷 "wikilink")」來形容第二代RX-7。
 
-此款車以FC平台為基礎，開發代號為P747。引擎改採內附中冷器的[13B-DEI型](https://zh.wikipedia.org/wiki/馬自達轉子引擎#13B-DEI型 "wikilink")[渦輪增壓轉子引擎](../Page/渦輪增壓器.md "wikilink")，輸出[功率提升至](../Page/功率.md "wikilink")185ps
-/
-6,500rpm，另有自然進氣型版本可供選購。銷售海外市場則以自然進氣版引擎為主，但美國地區亦可選購渦輪增壓引擎。馬自達特別在避震系統組件下功夫，增加動態追蹤懸吊系統（Dynamic
-Tracking Suspension System，縮寫為DTSS）與自動調整懸吊系統（Auto Adjusting
-Suspension，縮寫為AAS），提高過彎時的穩定性。操控亦大幅度改善，因為前一代FB容易發生[轉向過度](https://zh.wikipedia.org/wiki/轉向過度 "wikilink")（oversteer）的毛病。轉向也有改善，前一代FB採循環球與螺母式轉向（recirculating
-ball and nut steering），此代FC則改採更精密的齒條與小齒輪式轉向（rack and pinion
-steering）。此外，前輪的制動系統為日本國內首見的[鋁合金鍛造四活塞卡鉗煞車系統](../Page/鋁合金.md "wikilink")。
+此款車以FC平台為基礎，開發代號為P747。引擎改採內附中冷器的[13B-DEI型](https://zh.wikipedia.org/wiki/馬自達轉子引擎#13B-DEI型 "wikilink")[渦輪增壓轉子引擎](../Page/渦輪增壓器.md "wikilink")，輸出[功率](../Page/功率.md "wikilink")提升至185ps / 6,500rpm，另有自然進氣型版本可供選購。銷售海外市場則以自然進氣版引擎為主，但美國地區亦可選購渦輪增壓引擎。馬自達特別在避震系統組件下功夫，增加動態追蹤懸吊系統（Dynamic Tracking Suspension System，縮寫為DTSS）與自動調整懸吊系統（Auto Adjusting Suspension，縮寫為AAS），提高過彎時的穩定性。操控亦大幅度改善，因為前一代FB容易發生[轉向過度](https://zh.wikipedia.org/wiki/轉向過度 "wikilink")（oversteer）的毛病。轉向也有改善，前一代FB採循環球與螺母式轉向（recirculating ball and nut steering），此代FC則改採更精密的齒條與小齒輪式轉向（rack and pinion steering）。此外，前輪的制動系統為日本國內首見的[鋁合金](../Page/鋁合金.md "wikilink")鍛造四活塞卡鉗煞車系統。
 
-1989年 -
-4月進行小改款：改進空氣流量計、尾燈由方形改為圓形三燈、改良[懸吊系統](../Page/懸吊系統.md "wikilink")、後視鏡與車門同色、更改前後保險桿的造型、鋁合金輪圈，另外變更前座、中控台與儀表的造型設計。動力方面也改良渦輪增壓器，並提高引擎[壓縮比](https://zh.wikipedia.org/wiki/壓縮比 "wikilink")，使得最大馬力向上提升至205ps。而且[引擎的轉子與飛輪經過輕量化處理](https://zh.wikipedia.org/wiki/發動機 "wikilink")，提高油門的反應速度。
+1989年 - 4月進行小改款：改進空氣流量計、尾燈由方形改為圓形三燈、改良[懸吊系統](../Page/懸吊系統.md "wikilink")、後視鏡與車門同色、更改前後保險桿的造型、鋁合金輪圈，另外變更前座、中控台與儀表的造型設計。動力方面也改良渦輪增壓器，並提高引擎[壓縮比](https://zh.wikipedia.org/wiki/壓縮比 "wikilink")，使得最大馬力向上提升至205ps。而且[引擎的轉子與飛輪經過輕量化處理](https://zh.wikipedia.org/wiki/發動機 "wikilink")，提高油門的反應速度。
 
-此代車款在全球共出售272,027輛，其中1986年在美國市場售出86,000輛，並於1988年達到銷售量的尖峰。1986年美國《汽車趨勢雜誌》（Motor
-Trend Magazine）把RX-7評選為「年度最佳進口車」，而1987年美國《人車誌汽車雜誌》（Car and Driver
-Magazine）第二度將RX-7列為年度十大風雲車。
+此代車款在全球共出售272,027輛，其中1986年在美國市場售出86,000輛，並於1988年達到銷售量的尖峰。1986年美國《汽車趨勢雜誌》（Motor Trend Magazine）把RX-7評選為「年度最佳進口車」，而1987年美國《人車誌汽車雜誌》（Car and Driver Magazine）第二度將RX-7列為年度十大風雲車。
 
 #### 特別仕樣車
 
-「Savanna RX-7・∞」（）是日本地區曾四度發售過的特別規格雙人座車款，其中無鉛高級汽油版更誇口最大馬力可達215ps /
-6,500rpm。此外在1991年8月，也就是下一代FD3S型問世之前，馬自達以[787B贏得](../Page/馬自達787.md "wikilink")[利曼24小時耐力賽綜合優勝](https://zh.wikipedia.org/wiki/利曼24小時耐力賽 "wikilink")，FC3S亦曾推出「優勝限量版」（winning
-limited）發售。
+「Savanna RX-7・∞」（）是日本地區曾四度發售過的特別規格雙人座車款，其中無鉛高級汽油版更誇口最大馬力可達215ps / 6,500rpm。此外在1991年8月，也就是下一代FD3S型問世之前，馬自達以[787B贏得](../Page/馬自達787.md "wikilink")[利曼24小時耐力賽綜合優勝](https://zh.wikipedia.org/wiki/利曼24小時耐力賽 "wikilink")，FC3S亦曾推出「優勝限量版」（winning limited）發售。
 
 #### FC3C型敞篷車型
 
 1987年8月為了紀念馬自達推出轉子引擎量產車20週年，故推出FC3C敞篷車型。在日本、[英國與其他地區](https://zh.wikipedia.org/wiki/英國 "wikilink")，此車款有渦輪增壓版轉子引擎可選購，但美國市場則為自然進氣版。1991年大改款的第三代RX-7問世時，敞篷版的FC3C在日本依然持續銷售至1992年10月為止，當月並推出限定數量的最終版車款，平台與引擎與FC3S皆同。
 
-Image:1990 Mazda RX7 FC3S Modified.jpg|此FC經過改裝 Image:Mazda fc3s
-autocross.jpg|一輛FC正在繞錐 Image:1989-1991 Mazda RX-7 (FC) Turbo coupe
-01.jpg|第二代RX-7車尾（澳洲） Image:Tuned '86-'88 Mazda RX-7 (Orange Julep
-'10).jpg|第二代RX-7（加拿大）
+Image:1990 Mazda RX7 FC3S Modified.jpg|此FC經過改裝 Image:Mazda fc3s autocross.jpg|一輛FC正在繞錐 Image:1989-1991 Mazda RX-7 (FC) Turbo coupe 01.jpg|第二代RX-7車尾（澳洲） Image:Tuned '86-'88 Mazda RX-7 (Orange Julep '10).jpg|第二代RX-7（加拿大）
 
 {{-}}
 
 ### 第三代FD3S型（1991-2002年）
 
-1991年 - 10月馬自達公開發表大改款的第三代RX-7，同年12月開始正式交車。在日本地區上市時仍稱「**Ẽfini
-RX-7**」（アンフィニ・RX-7），且僅在「[Ẽfini](../Page/Ẽfini.md "wikilink")」銷售商通路發售。直至1997年10月，停用副品牌Ẽfini，且整合全國Ẽfini和[Eunos兩個銷售通路系統](../Page/Eunos.md "wikilink")，才改以**馬自達RX-7**（開發代號為X105）稱呼，並更改車頭、車尾的公司銘牌標誌。
+1991年 - 10月馬自達公開發表大改款的第三代RX-7，同年12月開始正式交車。在日本地區上市時仍稱「**Ẽfini RX-7**」（アンフィニ・RX-7），且僅在「[Ẽfini](../Page/Ẽfini.md "wikilink")」銷售商通路發售。直至1997年10月，停用副品牌Ẽfini，且整合全國Ẽfini和[Eunos](../Page/Eunos.md "wikilink")兩個銷售通路系統，才改以**馬自達RX-7**（開發代號為X105）稱呼，並更改車頭、車尾的公司銘牌標誌。
 
-此代車款更外擴的四輪與加大尺碼的輪圈輪胎增強了操控穩定性，[懸吊系統上採前](../Page/懸吊系統.md "wikilink")、後雙A臂獨立懸吊，懸臂以鋁合金製成，且[阻尼係數亦偏運動化的設定](../Page/阻尼.md "wikilink")。此外，由於引擎蓋的造型設計，轉子引擎之位置下移了50mm，除增加貼地性外，也使得車身配重比達到50：50。
+此代車款更外擴的四輪與加大尺碼的輪圈輪胎增強了操控穩定性，[懸吊系統](../Page/懸吊系統.md "wikilink")上採前、後雙A臂獨立懸吊，懸臂以鋁合金製成，且[阻尼](../Page/阻尼.md "wikilink")係數亦偏運動化的設定。此外，由於引擎蓋的造型設計，轉子引擎之位置下移了50mm，除增加貼地性外，也使得車身配重比達到50：50。
 
-此代車款之[13B-REW型轉子引擎採序列式雙渦輪增壓系統](https://zh.wikipedia.org/wiki/馬自達轉子引擎#13B-REW型 "wikilink")（sequential
-twin turbocharged
-system），並降低[壓縮比](https://zh.wikipedia.org/wiki/壓縮比 "wikilink")，使得最大馬力達255ps
-/ 6,500rpm，最大扭力30.0kg-m /
-5,000rpm。該序列式雙渦輪增壓系統經由[日立的協助而開發](https://zh.wikipedia.org/wiki/日立 "wikilink")，由兩顆[渦輪增壓器組成](../Page/渦輪增壓器.md "wikilink")：一開始先將所有廢氣集中在第一顆[直徑](https://zh.wikipedia.org/wiki/直徑 "wikilink")51mm的小渦輪，使該渦輪在低[轉速時](https://zh.wikipedia.org/wiki/每分鐘轉速 "wikilink")（約1,800rpm）作動，減少渦輪遲滯（turbo
-lag）的現象。當接近第一顆渦輪的最大工作轉速時，廢氣開始被導入第二顆直徑57mm的大渦輪；一旦引擎轉速達到約4,000rpm的作動範圍，所有廢氣被集中在此渦輪而全力作動。往後的小改款[馬自達陸續提升](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[馬力](../Page/馬力.md "wikilink")，1996年1月為265ps（手排版），1999年1月更一舉攀升至日本車廠自主[馬力上限的](../Page/馬力.md "wikilink")280ps\[2\]。
+此代車款之[13B-REW型轉子引擎採序列式雙渦輪增壓系統](https://zh.wikipedia.org/wiki/馬自達轉子引擎#13B-REW型 "wikilink")（sequential twin turbocharged system），並降低[壓縮比](https://zh.wikipedia.org/wiki/壓縮比 "wikilink")，使得最大馬力達255ps / 6,500rpm，最大扭力30.0kg-m / 5,000rpm。該序列式雙渦輪增壓系統經由[日立的協助而開發](https://zh.wikipedia.org/wiki/日立 "wikilink")，由兩顆[渦輪增壓器](../Page/渦輪增壓器.md "wikilink")組成：一開始先將所有廢氣集中在第一顆[直徑](https://zh.wikipedia.org/wiki/直徑 "wikilink")51mm的小渦輪，使該渦輪在低[轉速時](https://zh.wikipedia.org/wiki/每分鐘轉速 "wikilink")（約1,800rpm）作動，減少渦輪遲滯（turbo lag）的現象。當接近第一顆渦輪的最大工作轉速時，廢氣開始被導入第二顆直徑57mm的大渦輪；一旦引擎轉速達到約4,000rpm的作動範圍，所有廢氣被集中在此渦輪而全力作動。往後的小改款[馬自達陸續提升](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[馬力](../Page/馬力.md "wikilink")，1996年1月為265ps（手排版），1999年1月更一舉攀升至日本車廠自主[馬力](../Page/馬力.md "wikilink")上限的280ps\[2\]。
 
-第三代RX-7於美國和[加拿大地區銷售的時間只有](../Page/加拿大.md "wikilink")1993年至1995年，為255ps馬力的版本；該版本亦於[英國售出了](https://zh.wikipedia.org/wiki/英國 "wikilink")124部。接著1996至1998年的265ps馬力版本因為只有製造右駕車款，因此僅於[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")、英國、日本等採取右駕的國家發售。而1999年達到280ps馬力巔峰的小改款，僅限[日本國內販售](../Page/日本.md "wikilink")。以下將第三代RX-7販售的十一年間，所歷經的小改款次數整理如下：
+第三代RX-7於美國和[加拿大](../Page/加拿大.md "wikilink")地區銷售的時間只有1993年至1995年，為255ps馬力的版本；該版本亦於[英國售出了](https://zh.wikipedia.org/wiki/英國 "wikilink")124部。接著1996至1998年的265ps馬力版本因為只有製造右駕車款，因此僅於[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")、英國、日本等採取右駕的國家發售。而1999年達到280ps馬力巔峰的小改款，僅限[日本](../Page/日本.md "wikilink")國內販售。以下將第三代RX-7販售的十一年間，所歷經的小改款次數整理如下：
 
 **前期型**
 
   - 1型（1991年2月起）：引擎最大馬力255ps。
-  - 2型（1993年8月起）：加強車身剛性、加大避震器並可調整[阻尼](../Page/阻尼.md "wikilink")、增加中央扶手、強化內裝質感，追加Type
-    RZ與Type R II兩個級距。此型曾在[北美洲地區發售](../Page/北美洲.md "wikilink")。
-  - 3型（1995年3月起）：追加Type R-S級距。此型曾在[北美洲地區發售](../Page/北美洲.md "wikilink")。
+  - 2型（1993年8月起）：加強車身剛性、加大避震器並可調整[阻尼](../Page/阻尼.md "wikilink")、增加中央扶手、強化內裝質感，追加Type RZ與Type R II兩個級距。此型曾在[北美洲](../Page/北美洲.md "wikilink")地區發售。
+  - 3型（1995年3月起）：追加Type R-S級距。此型曾在[北美洲](../Page/北美洲.md "wikilink")地區發售。
 
 **中期型**
 
-  - 4型（1996年1月起）：[ECU由](https://zh.wikipedia.org/wiki/發動機控制器 "wikilink")8[位元提高至](../Page/位元.md "wikilink")16[位元](../Page/位元.md "wikilink")，故手排版馬力達265ps、自排版馬力達255ps。尾燈造型改成圓形三連燈式，且尾翼加大。此型曾在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[日本等右駕國家發售](../Page/日本.md "wikilink")。
+  - 4型（1996年1月起）：[ECU由](https://zh.wikipedia.org/wiki/發動機控制器 "wikilink")8[位元](../Page/位元.md "wikilink")提高至16[位元](../Page/位元.md "wikilink")，故手排版馬力達265ps、自排版馬力達255ps。尾燈造型改成圓形三連燈式，且尾翼加大。此型曾在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[日本](../Page/日本.md "wikilink")等右駕國家發售。
 
 **後期型**
 
-  - 5型（1999年1月起）：除手排版馬力提高至280ps（Type
-    RB手排版則為265ps）、自排版255ps外，前保險桿的進氣壩改成五角形，頭燈改為整合式，尾翼形式再度變更，前座雙[安全氣囊與ABS](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")[防鎖死煞車系统為全車型標準配備](https://zh.wikipedia.org/wiki/防鎖死煞車系统 "wikilink")。此型僅於[日本地區發售](../Page/日本.md "wikilink")。
-  - 6型（2000年9月起）：ABS[防鎖死煞車系统之控制單元由](https://zh.wikipedia.org/wiki/防鎖死煞車系统 "wikilink")8[位元提高至](../Page/位元.md "wikilink")16[位元](../Page/位元.md "wikilink")，避震系統可調，追加EBD[電子制動力分配系統](https://zh.wikipedia.org/wiki/電子制動力分配系統 "wikilink")，儀表板的照明顏色改為紅色。外觀方面修改了整合式尾燈、前保險桿、尾翼等。
+  - 5型（1999年1月起）：除手排版馬力提高至280ps（Type RB手排版則為265ps）、自排版255ps外，前保險桿的進氣壩改成五角形，頭燈改為整合式，尾翼形式再度變更，前座雙[安全氣囊與ABS](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")[防鎖死煞車系统為全車型標準配備](https://zh.wikipedia.org/wiki/防鎖死煞車系统 "wikilink")。此型僅於[日本](../Page/日本.md "wikilink")地區發售。
+  - 6型（2000年9月起）：ABS[防鎖死煞車系统之控制單元由](https://zh.wikipedia.org/wiki/防鎖死煞車系统 "wikilink")8[位元](../Page/位元.md "wikilink")提高至16[位元](../Page/位元.md "wikilink")，避震系統可調，追加EBD[電子制動力分配系統](https://zh.wikipedia.org/wiki/電子制動力分配系統 "wikilink")，儀表板的照明顏色改為紅色。外觀方面修改了整合式尾燈、前保險桿、尾翼等。
 
-當時第三代RX-7是全世界唯一搭載轉子引擎的量產市售車，且追求車體輕量化、引擎高出力的純種跑車之[市場定位非常明顯](https://zh.wikipedia.org/wiki/市場定位 "wikilink")。但是主要目標市場日本、[歐洲與](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北美洲對](../Page/北美洲.md "wikilink")[跑車的需求日漸萎縮](https://zh.wikipedia.org/wiki/跑車 "wikilink")，加上世界各國對汽車廢氣排放標準的規定日趨嚴格，2002年8月馬自達不得不對這部純種跑車吹出熄燈號，總計第三代RX-7在全球共售出了68,589輛。
+當時第三代RX-7是全世界唯一搭載轉子引擎的量產市售車，且追求車體輕量化、引擎高出力的純種跑車之[市場定位非常明顯](https://zh.wikipedia.org/wiki/市場定位 "wikilink")。但是主要目標市場日本、[歐洲與](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北美洲](../Page/北美洲.md "wikilink")對[跑車的需求日漸萎縮](https://zh.wikipedia.org/wiki/跑車 "wikilink")，加上世界各國對汽車廢氣排放標準的規定日趨嚴格，2002年8月馬自達不得不對這部純種跑車吹出熄燈號，總計第三代RX-7在全球共售出了68,589輛。
 
-在RX-7停產之前，馬自達在2002年4月推出最終特別限定車款「RX-7 Spirit
-R版」：包含17吋BBS製鋁合金輪框、紅色煞車卡鉗、Recaro賽車桶椅等配備。2002年8月26日馬自達宇品工廠所生產的最後一輛RX-7，是一部鐵灰色塗裝的Spirit
-R TypeA車型，該部車後來被馬自達公司收藏為展示用車。隨後在原廠員工與消費者參與見證的典禮中，純種跑車RX-7正式停產。
+在RX-7停產之前，馬自達在2002年4月推出最終特別限定車款「RX-7 Spirit R版」：包含17吋BBS製鋁合金輪框、紅色煞車卡鉗、Recaro賽車桶椅等配備。2002年8月26日馬自達宇品工廠所生產的最後一輛RX-7，是一部鐵灰色塗裝的Spirit R TypeA車型，該部車後來被馬自達公司收藏為展示用車。隨後在原廠員工與消費者參與見證的典禮中，純種跑車RX-7正式停產。
 
-[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《人車誌汽車雜誌》（Car and
-Driver
-Magazine）在1993年至1995年間連續三次將RX-7列為年度十大風雲車；而[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《[花花公子雜誌](../Page/花花公子.md "wikilink")》在1993年將RX-7與[道奇Viper一同評比](../Page/道奇毒蛇.md "wikilink")，結果他們把RX-7評為年度好車。此外，該部車更獲得1992年度[RJC年度國產風雲車的獎項](https://zh.wikipedia.org/wiki/RJC年度風雲車 "wikilink")。
+[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《人車誌汽車雜誌》（Car and Driver Magazine）在1993年至1995年間連續三次將RX-7列為年度十大風雲車；而[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《[花花公子](../Page/花花公子.md "wikilink")雜誌》在1993年將RX-7與[道奇Viper一同評比](../Page/道奇毒蛇.md "wikilink")，結果他們把RX-7評為年度好車。此外，該部車更獲得1992年度[RJC年度國產風雲車的獎項](https://zh.wikipedia.org/wiki/RJC年度風雲車 "wikilink")。
 
-Image:Mazda-rx7-3rd-generation01.jpg|[馬自達博物館展示的第三代RX](../Page/馬自達博物館.md "wikilink")-7
-Image:'93-'95 Mazda RX-7 (Orange Julep).JPG|第三代RX-7（加拿大） Image:Mazda RX7
-RE Amemiya.jpg|第三代RX-7 RE雨宮 Image:Cymr1fd3s.jpg|第三代RX-7（澳洲）
+Image:Mazda-rx7-3rd-generation01.jpg|[馬自達博物館](../Page/馬自達博物館.md "wikilink")展示的第三代RX-7 Image:'93-'95 Mazda RX-7 (Orange Julep).JPG|第三代RX-7（加拿大） Image:Mazda RX7 RE Amemiya.jpg|第三代RX-7 RE雨宮 Image:Cymr1fd3s.jpg|第三代RX-7（澳洲）
 
 {{-}}
 
 ## 競速賽事
 
-[馬自達自](https://zh.wikipedia.org/wiki/馬自達 "wikilink")1979年起以RX-7投入由[美國IMSA](https://zh.wikipedia.org/wiki/美國 "wikilink")（International
-Motor Sports Association）舉辦的GTU系列賽。該年RX-7分占德多納24小時耐力賽（24 Hours of
-Daytona）的冠、亞軍，並在GTU系列賽中奪冠，此後RX-7連續七年於此系列賽中得到第一名。自1982年起，RX-7也連續十年在GTO系列賽中掄元，超越其他車廠的紀錄。在[美國SCCA](https://zh.wikipedia.org/wiki/美國 "wikilink")（Sports
-Car Club of America）的賽事中，RX-7也表現良好：車手當·柯尼（Don
-Kearney）在NE分組、另一車手約翰·芬格（John
-Finger）在SE分組都取得了優異的成績。1981年馬自達派出三輛RX-7參加在[比利時的](https://zh.wikipedia.org/wiki/比利時 "wikilink")[斯帕-弗朗科爾尚賽道](https://zh.wikipedia.org/wiki/斯帕-弗朗科爾尚賽道 "wikilink")（（法文）Circuit
-de Spa-Francorchamps）舉辦的24小時耐力賽，由湯姆·渥金蕭（Tom Walkinshaw）駕駛的RX-7打敗對手BMW
-530，贏得總合冠軍\[3\]。
+[馬自達自](https://zh.wikipedia.org/wiki/馬自達 "wikilink")1979年起以RX-7投入由[美國IMSA](https://zh.wikipedia.org/wiki/美國 "wikilink")（International Motor Sports Association）舉辦的GTU系列賽。該年RX-7分占德多納24小時耐力賽（24 Hours of Daytona）的冠、亞軍，並在GTU系列賽中奪冠，此後RX-7連續七年於此系列賽中得到第一名。自1982年起，RX-7也連續十年在GTO系列賽中掄元，超越其他車廠的紀錄。在[美國SCCA](https://zh.wikipedia.org/wiki/美國 "wikilink")（Sports Car Club of America）的賽事中，RX-7也表現良好：車手當·柯尼（Don Kearney）在NE分組、另一車手約翰·芬格（John Finger）在SE分組都取得了優異的成績。1981年馬自達派出三輛RX-7參加在[比利時的](https://zh.wikipedia.org/wiki/比利時 "wikilink")[斯帕-弗朗科爾尚賽道](https://zh.wikipedia.org/wiki/斯帕-弗朗科爾尚賽道 "wikilink")（（法文）Circuit de Spa-Francorchamps）舉辦的24小時耐力賽，由湯姆·渥金蕭（Tom Walkinshaw）駕駛的RX-7打敗對手BMW 530，贏得總合冠軍\[3\]。
 
-[RE_AMEMIYA_RX-7_01.jpg](https://zh.wikipedia.org/wiki/File:RE_AMEMIYA_RX-7_01.jpg "fig:RE_AMEMIYA_RX-7_01.jpg")
-在1992年至1994年連續三年間，FD3S投入[澳洲的巴瑟斯特](https://zh.wikipedia.org/wiki/澳洲 "wikilink")（Bathurst）12小時耐久賽皆獲得優勝，[日本地區甚至推出限量紀念版](../Page/日本.md "wikilink")「Type
-R Bathurst」銷售。日本車手今村陽一在2003年曾以FD3S在日本D1巡迴大賽（D1 Grand
-Prix）中獲得冠軍，而另一車手末永正雄則在2005年排名第二。日本[RE雨宮車隊在](https://zh.wikipedia.org/wiki/RE雨宮 "wikilink")2006年超級GT賽（舊稱：全日本GT選手權）的GT300級中以FD3S贏得冠軍。
+[RE_AMEMIYA_RX-7_01.jpg](https://zh.wikipedia.org/wiki/File:RE_AMEMIYA_RX-7_01.jpg "fig:RE_AMEMIYA_RX-7_01.jpg") 在1992年至1994年連續三年間，FD3S投入[澳洲的巴瑟斯特](https://zh.wikipedia.org/wiki/澳洲 "wikilink")（Bathurst）12小時耐久賽皆獲得優勝，[日本](../Page/日本.md "wikilink")地區甚至推出限量紀念版「Type R Bathurst」銷售。日本車手今村陽一在2003年曾以FD3S在日本D1巡迴大賽（D1 Grand Prix）中獲得冠軍，而另一車手末永正雄則在2005年排名第二。日本[RE雨宮車隊在](https://zh.wikipedia.org/wiki/RE雨宮 "wikilink")2006年超級GT賽（舊稱：全日本GT選手權）的GT300級中以FD3S贏得冠軍。
 
 ## 未來展望
 
@@ -164,23 +109,12 @@ Prix）中獲得冠軍，而另一車手末永正雄則在2005年排名第二。
 
   - [AutoNet汽車日報：MAZDA 90週年經典車特輯（三）](https://web.archive.org/web/20140813063035/http://www.autonet.com.tw/cgi-bin/view.cgi?%2Fnews%2F2010%2F10%2Fb0100399.ti+a2+a3+a4+a5+b1+%2Fnews%2F2010%2F10%2Fb0100399+b3+d6+c1+c2+c3+e1+e2+e3+e5+f1)
 
-  - [YouTube -
-    RX-7（FD）日本電視廣告](http://www.youtube.com/watch?v=jxY0w6S_UTo)
+  - [YouTube - RX-7（FD）日本電視廣告](http://www.youtube.com/watch?v=jxY0w6S_UTo)
 
-[Category:馬自達車輛](https://zh.wikipedia.org/wiki/Category:馬自達車輛 "wikilink")
-[Category:跑車](https://zh.wikipedia.org/wiki/Category:跑車 "wikilink")
-[Category:利曼24小時耐力賽車輛](https://zh.wikipedia.org/wiki/Category:利曼24小時耐力賽車輛 "wikilink")
-[Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink")
-[Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink")
-[Category:汪克爾引擎車輛](https://zh.wikipedia.org/wiki/Category:汪克爾引擎車輛 "wikilink")
-[Category:拉力賽車輛](https://zh.wikipedia.org/wiki/Category:拉力賽車輛 "wikilink")
-[Category:1978年面世的汽車](https://zh.wikipedia.org/wiki/Category:1978年面世的汽車 "wikilink")
+[Category:馬自達車輛](https://zh.wikipedia.org/wiki/Category:馬自達車輛 "wikilink") [Category:跑車](https://zh.wikipedia.org/wiki/Category:跑車 "wikilink") [Category:利曼24小時耐力賽車輛](https://zh.wikipedia.org/wiki/Category:利曼24小時耐力賽車輛 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink") [Category:汪克爾引擎車輛](https://zh.wikipedia.org/wiki/Category:汪克爾引擎車輛 "wikilink") [Category:拉力賽車輛](https://zh.wikipedia.org/wiki/Category:拉力賽車輛 "wikilink") [Category:1978年面世的汽車](https://zh.wikipedia.org/wiki/Category:1978年面世的汽車 "wikilink")
 
-1.  參看Brian Long著《RX-7: Mazda's Rotary Engine Sports Car》，Veloce
-    Publishing出版，ISBN 1-904788-03-3，頁206。
+1.  參看Brian Long著《RX-7: Mazda's Rotary Engine Sports Car》，Veloce Publishing出版，ISBN 1-904788-03-3，頁206。
 2.  1989年時日本國內各車廠共同簽署了一份自主限制條約，內容是為了避免引擎輸出功率的競爭，違反國內訂定的100km/h速限，所以將最大馬力限制在280ps內。
-3.  參看[【MAZDA】第十節-斯帕-弗朗科爾尚赛道24小时耐力赛（1981年）](http://www.mazda.com.cn/mazdaspirit/rotary/motorsports/index01_10.html)
-    。
-4.  [Next generation RENESIS (Rotary
-    Engine 16X)](http://www.mazda.com/mazdaspirit/rotary/16x/)
+3.  參看[【MAZDA】第十節-斯帕-弗朗科爾尚赛道24小时耐力赛（1981年）](http://www.mazda.com.cn/mazdaspirit/rotary/motorsports/index01_10.html) 。
+4.  [Next generation RENESIS (Rotary Engine 16X)](http://www.mazda.com/mazdaspirit/rotary/16x/)
 5.  [AutoNet汽車日報：省油不如預期、排污降不下來，MAZDA新轉子引擎遇困境](http://www.autonet.com.tw/cgi-bin/view.cgi?/news/2010/10/b0100555.ti+a2+a3+a4+a5+b1+/news/2010/10/b0100555+b3+d6+c1+c2+c3+e1+e2+e3+e5+f1)

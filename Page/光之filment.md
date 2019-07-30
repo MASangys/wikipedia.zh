@@ -1,5 +1,4 @@
-「**光之filment**」（）是[高垣彩陽的第](../Page/高垣彩陽.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年11月17日由[Music
-Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
+「**光之filment**」（）是[高垣彩陽](../Page/高垣彩陽.md "wikilink")的第2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年11月17日由[Music Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
 
 ## 概要
 
@@ -35,9 +34,6 @@ Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
       - [初回限定盤](http://www.sonymusic.co.jp/Music/Arch/MR/ayahitakagaki/SMCL-222/index.html)
       - [通常盤](http://www.sonymusic.co.jp/Music/Arch/MR/ayahitakagaki/SMCL-224/index.html)
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:高垣彩陽單曲](https://zh.wikipedia.org/wiki/Category:高垣彩陽單曲 "wikilink")
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:高垣彩陽單曲](https://zh.wikipedia.org/wiki/Category:高垣彩陽單曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
 
 1.

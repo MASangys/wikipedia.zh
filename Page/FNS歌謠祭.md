@@ -2,7 +2,7 @@
 
 ## 歷史
 
-1974年為了紀念[富士電視台開局](../Page/富士電視台.md "wikilink")15週年而第一次舉行，當時的名稱是「**FNS歌謠祭音樂大賞**」。其目的是「通過電視為[日本的歌謠曲找到新的方向](../Page/日本歌謠曲.md "wikilink")，為明日的電視文化創作新的目標」。協辦單位有[日本音樂事業者協會](../Page/日本音樂事業者協會.md "wikilink")、[音樂出版社協會](https://zh.wikipedia.org/wiki/音樂出版社協會 "wikilink")、[日本唱片協會](../Page/日本唱片協會.md "wikilink")。
+1974年為了紀念[富士電視台](../Page/富士電視台.md "wikilink")開局15週年而第一次舉行，當時的名稱是「**FNS歌謠祭音樂大賞**」。其目的是「通過電視為[日本的歌謠曲找到新的方向](../Page/日本歌謠曲.md "wikilink")，為明日的電視文化創作新的目標」。協辦單位有[日本音樂事業者協會](../Page/日本音樂事業者協會.md "wikilink")、[音樂出版社協會](https://zh.wikipedia.org/wiki/音樂出版社協會 "wikilink")、[日本唱片協會](../Page/日本唱片協會.md "wikilink")。
 
 1974年與1975年每半年舉行一次，之後改為每年舉行一次的年度節目。
 
@@ -17,15 +17,11 @@
   - [帝國飯店](../Page/帝國飯店.md "wikilink")「孔雀之間」 - 1974年上期預選、1974年下期預選
   - [日本劇場](https://zh.wikipedia.org/wiki/日本劇場 "wikilink") - 1974年上期本選
   - [新宿KOMA劇場](../Page/新宿KOMA劇場.md "wikilink") - 1974年下期本選
-  - [京王廣場酒店](https://zh.wikipedia.org/wiki/京王廣場酒店 "wikilink")「」 -
-    1975年上期預選
-  - [中野太阳廣場](https://zh.wikipedia.org/wiki/中野太阳廣場 "wikilink") -
-    1975年上期本選、1975年下期本選、1976年本選、1977年本選、1978年至1985年的預選
+  - [京王廣場酒店](https://zh.wikipedia.org/wiki/京王廣場酒店 "wikilink")「」 - 1975年上期預選
+  - [中野太阳廣場](https://zh.wikipedia.org/wiki/中野太阳廣場 "wikilink") - 1975年上期本選、1975年下期本選、1976年本選、1977年本選、1978年至1985年的預選
   - 富士電視台旧河田町社屋第6特設STUDIO - 1975年下期預選、1976年預選、1977年預選、1988年
-  - [日本武道館](../Page/日本武道館.md "wikilink") -
-    1978年至1985年的本選、1986年、1987年、1989年、1990年
-  - [新高輪格蘭王子大飯店](https://zh.wikipedia.org/wiki/新高輪格蘭王子大飯店 "wikilink")「飛天」
-    - 1991年至1995年、1998年至今
+  - [日本武道館](../Page/日本武道館.md "wikilink") - 1978年至1985年的本選、1986年、1987年、1989年、1990年
+  - [新高輪格蘭王子大飯店](https://zh.wikipedia.org/wiki/新高輪格蘭王子大飯店 "wikilink")「飛天」 - 1991年至1995年、1998年至今
   - [橫濱體育館](../Page/橫濱體育館.md "wikilink") - 1996年、1997年
   - 富士電視台本社V5 STUDIO - 2014年（兩地直播）
 
@@ -424,10 +420,8 @@ FNS歌謠祭包括大獎之內的所有在1991年已經廢除。
 ## 參見
 
   - [日本歌謠大賞](https://zh.wikipedia.org/wiki/日本歌謠大賞 "wikilink")
-  - [夜之HIT
-    STUDIO](https://zh.wikipedia.org/wiki/夜之HIT_STUDIO "wikilink")
-  - [HEY\!HEY\!HEY\!MUSIC
-    CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")
+  - [夜之HIT STUDIO](https://zh.wikipedia.org/wiki/夜之HIT_STUDIO "wikilink")
+  - [HEY\!HEY\!HEY\!MUSIC CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")
   - [我們的音樂 Our Music](../Page/我們的音樂_Our_Music.md "wikilink")
   - [MUSIC FAIR](https://zh.wikipedia.org/wiki/MUSIC_FAIR "wikilink")
   - [富士網](https://zh.wikipedia.org/wiki/富士網 "wikilink")（FNS）
@@ -436,7 +430,4 @@ FNS歌謠祭包括大獎之內的所有在1991年已經廢除。
 
   - [富士電視台](http://www.fujitv.co.jp/)
 
-[Category:FNS歌謠祭](https://zh.wikipedia.org/wiki/Category:FNS歌謠祭 "wikilink")
-[Category:富士電視台音樂節目](https://zh.wikipedia.org/wiki/Category:富士電視台音樂節目 "wikilink")
-[Category:日本音樂獎項](https://zh.wikipedia.org/wiki/Category:日本音樂獎項 "wikilink")
-[Category:1974年日本電視節目](https://zh.wikipedia.org/wiki/Category:1974年日本電視節目 "wikilink")
+[Category:FNS歌謠祭](https://zh.wikipedia.org/wiki/Category:FNS歌謠祭 "wikilink") [Category:富士電視台音樂節目](https://zh.wikipedia.org/wiki/Category:富士電視台音樂節目 "wikilink") [Category:日本音樂獎項](https://zh.wikipedia.org/wiki/Category:日本音樂獎項 "wikilink") [Category:1974年日本電視節目](https://zh.wikipedia.org/wiki/Category:1974年日本電視節目 "wikilink")

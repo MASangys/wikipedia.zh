@@ -1,5 +1,4 @@
-《**REMIOROMEN SPECIAL LIVE at SAITAMA SUPER ARENA 6th MAY,
-2009**》是[Remioromen的第](../Page/Remioromen.md "wikilink")4張DVD。2009年11月25日發行。
+《**REMIOROMEN SPECIAL LIVE at SAITAMA SUPER ARENA 6th MAY, 2009**》是[Remioromen](../Page/Remioromen.md "wikilink")的第4張DVD。2009年11月25日發行。
 
 ## 概要
 
@@ -56,5 +55,4 @@ Encore
 4.  **Sakura**
 5.  **3月9日**
 
-[Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink")
-[Category:Remioromen影像作品](https://zh.wikipedia.org/wiki/Category:Remioromen影像作品 "wikilink")
+[Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink") [Category:Remioromen影像作品](https://zh.wikipedia.org/wiki/Category:Remioromen影像作品 "wikilink")

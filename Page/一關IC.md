@@ -13,9 +13,8 @@
 
 ## 历史
 
-  - 1977年11月19日 -
-    [東北自動車道一關IC至](https://zh.wikipedia.org/wiki/東北自動車道 "wikilink")[盛岡南IC開通](https://zh.wikipedia.org/wiki/盛岡南IC "wikilink")，此IC同時啟用。
-  - 1978年12月2日 - 東北自動車道[築館IC至一關IC開通](../Page/築館IC.md "wikilink")。
+  - 1977年11月19日 - [東北自動車道一關IC至](https://zh.wikipedia.org/wiki/東北自動車道 "wikilink")[盛岡南IC開通](https://zh.wikipedia.org/wiki/盛岡南IC "wikilink")，此IC同時啟用。
+  - 1978年12月2日 - 東北自動車道[築館IC](../Page/築館IC.md "wikilink")至一關IC開通。
 
 ## IC周邊
 
@@ -40,11 +39,7 @@
 ## 鄰近設施
 
   - [東北自動車道](https://zh.wikipedia.org/wiki/東北自動車道 "wikilink")
-    (33)[若柳金成IC](https://zh.wikipedia.org/wiki/若柳金成IC "wikilink") -
-    [金成PA](https://zh.wikipedia.org/wiki/金成PA "wikilink") -
-    (34)**一關IC** -
-    [中尊寺PA](https://zh.wikipedia.org/wiki/中尊寺PA "wikilink")
-    - (35)[平泉前澤IC](https://zh.wikipedia.org/wiki/平泉前澤IC "wikilink")
+    (33)[若柳金成IC](https://zh.wikipedia.org/wiki/若柳金成IC "wikilink") - [金成PA](https://zh.wikipedia.org/wiki/金成PA "wikilink") - (34)**一關IC** - [中尊寺PA](https://zh.wikipedia.org/wiki/中尊寺PA "wikilink") - (35)[平泉前澤IC](https://zh.wikipedia.org/wiki/平泉前澤IC "wikilink")
 
 ## 相關項目
 
@@ -54,5 +49,4 @@
 
   - [東日本高速道路](http://www.e-nexco.co.jp/)
 
-[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink")
-[Category:岩手縣交流道](https://zh.wikipedia.org/wiki/Category:岩手縣交流道 "wikilink")
+[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink") [Category:岩手縣交流道](https://zh.wikipedia.org/wiki/Category:岩手縣交流道 "wikilink")

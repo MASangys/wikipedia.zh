@@ -1,13 +1,12 @@
-，是[藤子·F·不二雄的](../Page/藤子·F·不二雄.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》的單行本。收錄[小學館瓢蟲漫畫中](https://zh.wikipedia.org/wiki/小學館瓢蟲漫畫 "wikilink")《哆啦A夢》已發行的45卷中未收錄的作品。
+，是[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》的單行本。收錄[小學館瓢蟲漫畫中](https://zh.wikipedia.org/wiki/小學館瓢蟲漫畫 "wikilink")《哆啦A夢》已發行的45卷中未收錄的作品。
 
 ## 歷史由來
 
-小學館瓢蟲漫畫《哆啦A夢》全45卷（下稱「瓢蟲漫畫」）都是由藤子·F·不二雄所親自選定\[1\]\[2\]。1996年9月
-藤子·F·不二雄過世後，46卷以後的出版預定即取消，但瓢蟲漫畫仍有大量未收錄的作品，以及只收錄於「[彩色哆啦A夢](https://zh.wikipedia.org/wiki/彩色哆啦A夢 "wikilink")」或「[藤子不二雄園地](https://zh.wikipedia.org/wiki/藤子不二雄園地 "wikilink")」的作品，若不收錄，此後將成絕版。
+小學館瓢蟲漫畫《哆啦A夢》全45卷（下稱「瓢蟲漫畫」）都是由藤子·F·不二雄所親自選定\[1\]\[2\]。1996年9月 藤子·F·不二雄過世後，46卷以後的出版預定即取消，但瓢蟲漫畫仍有大量未收錄的作品，以及只收錄於「[彩色哆啦A夢](https://zh.wikipedia.org/wiki/彩色哆啦A夢 "wikilink")」或「[藤子不二雄園地](https://zh.wikipedia.org/wiki/藤子不二雄園地 "wikilink")」的作品，若不收錄，此後將成絕版。
 
 各界呼聲不斷，致使從45卷出版後歷經9年瓢蟲漫畫再度進行出版哆啦A夢新刊的工作。但名稱既非「瓢蟲漫畫46卷」也非藤子·F·不二雄選集，標題改為「哆啦A夢Plus」\[3\]自2005年起一年內販售5卷。一共收錄了105話的作品\[4\]。然而，本系列出版後仍有超過100話作品未被收錄。
 
-原先的《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》單行本封面採用[藍色為底](../Page/藍色.md "wikilink")。為了顯示不同系列的區別，《哆啦A夢Plus》改用[紅色做為封面底色](https://zh.wikipedia.org/wiki/紅色 "wikilink")。
+原先的《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》單行本封面採用[藍色](../Page/藍色.md "wikilink")為底。為了顯示不同系列的區別，《哆啦A夢Plus》改用[紅色做為封面底色](https://zh.wikipedia.org/wiki/紅色 "wikilink")。
 
 ## 收錄作品
 
@@ -176,10 +175,7 @@
 
 <references/>
 
-[Category:哆啦A夢](https://zh.wikipedia.org/wiki/Category:哆啦A夢 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")
-[Category:藤子·F·不二雄](https://zh.wikipedia.org/wiki/Category:藤子·F·不二雄 "wikilink")
+[Category:哆啦A夢](https://zh.wikipedia.org/wiki/Category:哆啦A夢 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink") [Category:藤子·F·不二雄](https://zh.wikipedia.org/wiki/Category:藤子·F·不二雄 "wikilink")
 
 1.  [大中華哆啦網](http://chinesedora.com/comic/table.htm)
 

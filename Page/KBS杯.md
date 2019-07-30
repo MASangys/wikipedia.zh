@@ -48,5 +48,4 @@
 
 [Category:韩国围棋比赛](https://zh.wikipedia.org/wiki/Category:韩国围棋比赛 "wikilink")
 
-1.  [KBS杯李世石再遭重创
-    朴廷桓2比1逆转夺冠](http://sports.sina.com.cn/go/2016-01-14/doc-ifxnqrkc6409731.shtml)
+1.  [KBS杯李世石再遭重创 朴廷桓2比1逆转夺冠](http://sports.sina.com.cn/go/2016-01-14/doc-ifxnqrkc6409731.shtml)

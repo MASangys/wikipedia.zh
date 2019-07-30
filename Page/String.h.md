@@ -1,6 +1,6 @@
-**string.h**是[C标准库的](https://zh.wikipedia.org/wiki/C标准库 "wikilink")[头文件](../Page/头文件.md "wikilink")，其中包含了[宏](https://zh.wikipedia.org/wiki/宏 "wikilink")(巨集)定义、常量以及函数和类型的声明，涉及的内容除了[字符串处理之外](../Page/字符串.md "wikilink")，还包括大量的内存处理函数；因此，`string.h`这个命名是不恰当的。
+**string.h**是[C标准库的](https://zh.wikipedia.org/wiki/C标准库 "wikilink")[头文件](../Page/头文件.md "wikilink")，其中包含了[宏](https://zh.wikipedia.org/wiki/宏 "wikilink")(巨集)定义、常量以及函数和类型的声明，涉及的内容除了[字符串](../Page/字符串.md "wikilink")处理之外，还包括大量的内存处理函数；因此，`string.h`这个命名是不恰当的。
 
-在`string.h`中定义的函数十分常用，作为[C标准库的一部分](https://zh.wikipedia.org/wiki/C标准库 "wikilink")，它们被强制要求可以在任何支持C语言的平台上运行。但是，部分函数存在一些安全隐患，例如[缓存溢出等](https://zh.wikipedia.org/wiki/缓存溢出 "wikilink")，导致程序员宁愿使用一些更安全的函数而放弃一定的可移植性。同时，这些字符串函数只能处理[ASCII字符集或兼容ASCII的字符集](../Page/ASCII.md "wikilink")，如[ISO-8859-1](https://zh.wikipedia.org/wiki/ISO-8859-1 "wikilink")；在处理存在多字节字符的字符集，如[UTF-8时](../Page/UTF-8.md "wikilink")，会产生一个警告，指出对字符串“长度”的计算是以字节而不是以[Unicode字符为单位](https://zh.wikipedia.org/wiki/Unicode "wikilink")。非ASCII兼容字符集的字符串处理函数一般位于[`wchar.h`](https://zh.wikipedia.org/wiki/wchar.h "wikilink")中。
+在`string.h`中定义的函数十分常用，作为[C标准库的一部分](https://zh.wikipedia.org/wiki/C标准库 "wikilink")，它们被强制要求可以在任何支持C语言的平台上运行。但是，部分函数存在一些安全隐患，例如[缓存溢出等](https://zh.wikipedia.org/wiki/缓存溢出 "wikilink")，导致程序员宁愿使用一些更安全的函数而放弃一定的可移植性。同时，这些字符串函数只能处理[ASCII](../Page/ASCII.md "wikilink")字符集或兼容ASCII的字符集，如[ISO-8859-1](https://zh.wikipedia.org/wiki/ISO-8859-1 "wikilink")；在处理存在多字节字符的字符集，如[UTF-8](../Page/UTF-8.md "wikilink")时，会产生一个警告，指出对字符串“长度”的计算是以字节而不是以[Unicode字符为单位](https://zh.wikipedia.org/wiki/Unicode "wikilink")。非ASCII兼容字符集的字符串处理函数一般位于[`wchar.h`](https://zh.wikipedia.org/wiki/wchar.h "wikilink")中。
 
 ## 常量和类型
 
@@ -23,7 +23,7 @@
 | `char *`[`strchr`](https://zh.wikipedia.org/wiki/strchr "wikilink")`(const char* str, int ch);`                    | 从字符串str头开始查找字符ch首次出现的位置                                                                                                                                             |
 | `char *`[`strrchr`](https://zh.wikipedia.org/wiki/strrchr "wikilink")`(const char* str,int ch);`                   | 从字符串str尾开始查找字符ch首次出现的位置 |-\<nowiki\>请在这里插入非格式化文字</nowiki>                                                                                                           |
 | ` int  `[`strncmp`](https://zh.wikipedia.org/wiki/strncmp "wikilink")`(const char *, const char *, size_t n);`     | 基于字典顺序比较两个字符串，最多比较n个字节                                                                                                                                              |
-| ` int  `[`strcoll`](https://zh.wikipedia.org/wiki/strcoll "wikilink")`(const char *, const char *);`               | 基于当前[区域设置的](../Page/区域设置.md "wikilink")比较两个字符串                                                                                                                      |
+| ` int  `[`strcoll`](https://zh.wikipedia.org/wiki/strcoll "wikilink")`(const char *, const char *);`               | 基于当前[区域设置](../Page/区域设置.md "wikilink")的比较两个字符串                                                                                                                      |
 | `char *`[`strcpy`](https://zh.wikipedia.org/wiki/strcpy "wikilink")`(char* str1, const char* str2);`               | 将str2拷贝给str1                                                                                                                                                        |
 | `char *`[`strncpy`](https://zh.wikipedia.org/wiki/strncpy "wikilink")`(char* str1, const char* str2, size_t n);`   | 截取str2的n个字符拷贝给str1                                                                                                                                                  |
 | `char *`[`strerror`](https://zh.wikipedia.org/wiki/strerror "wikilink")`(int);`                                    | 返回错误码对应的解释字符串，参见[errno.h](https://zh.wikipedia.org/wiki/errno.h "wikilink")（非线程安全函数）                                                                                |
@@ -55,5 +55,4 @@
 
   - [Linux库函数手册：字符串操作](http://linux.die.net/man/3/string)
 
-[Category:字符串](https://zh.wikipedia.org/wiki/Category:字符串 "wikilink")
-[Category:C标准库头文件](https://zh.wikipedia.org/wiki/Category:C标准库头文件 "wikilink")
+[Category:字符串](https://zh.wikipedia.org/wiki/Category:字符串 "wikilink") [Category:C标准库头文件](https://zh.wikipedia.org/wiki/Category:C标准库头文件 "wikilink")

@@ -1,68 +1,40 @@
-**HIStory世界巡回演唱会**（[英文原文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**HIStory
-World Tour**，简称**HIStory
-WT**），是流行乐天王[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")的第三次世界巡回演唱会，也是最后一次。1996年9月7日开始，1997年10月15日结束，横跨[非洲](../Page/非洲.md "wikilink")、[亚洲](../Page/亚洲.md "wikilink")、[欧洲](../Page/欧洲.md "wikilink")、[大洋洲](../Page/大洋洲.md "wikilink")和[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")。此次巡演共82场演出，共计4500000歌迷入场，总收入高达1.63亿[美元](../Page/美元.md "wikilink")。
+**HIStory世界巡回演唱会**（[英文原文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**HIStory World Tour**，简称**HIStory WT**），是流行乐天王[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")的第三次世界巡回演唱会，也是最后一次。1996年9月7日开始，1997年10月15日结束，横跨[非洲](../Page/非洲.md "wikilink")、[亚洲](../Page/亚洲.md "wikilink")、[欧洲](../Page/欧洲.md "wikilink")、[大洋洲](../Page/大洋洲.md "wikilink")和[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")。此次巡演共82场演出，共计4500000歌迷入场，总收入高达1.63亿[美元](../Page/美元.md "wikilink")。
 
 ## 巡演曲目
 
 1.  基辅大门序曲 (Gates of Kiev)
 2.  Medley:
     1.  "[Scream](https://zh.wikipedia.org/wiki/Scream/Childhood "wikilink")"
-    2.  "[They Don't Care About
-        Us](../Page/They_Don't_Care_About_Us.md "wikilink")"
-    3.  "[In the
-        Closet](https://zh.wikipedia.org/wiki/In_the_Closet "wikilink")"
-        (包含: "She Drives Me Wild" 聲音片段)
-3.  "[Wanna Be Startin'
-    Somethin'](https://zh.wikipedia.org/wiki/Wanna_Be_Startin'_Somethin' "wikilink")"
-4.  "[Stranger in
-    Moscow](https://zh.wikipedia.org/wiki/Stranger_in_Moscow "wikilink")"
-5.  "[Smooth Criminal](../Page/Smooth_Criminal.md "wikilink")" (包含："Mind
-    Is The Magic"聲音片段)
+    2.  "[They Don't Care About Us](../Page/They_Don't_Care_About_Us.md "wikilink")"
+    3.  "[In the Closet](https://zh.wikipedia.org/wiki/In_the_Closet "wikilink")" (包含: "She Drives Me Wild" 聲音片段)
+3.  "[Wanna Be Startin' Somethin'](https://zh.wikipedia.org/wiki/Wanna_Be_Startin'_Somethin' "wikilink")"
+4.  "[Stranger in Moscow](https://zh.wikipedia.org/wiki/Stranger_in_Moscow "wikilink")"
+5.  "[Smooth Criminal](../Page/Smooth_Criminal.md "wikilink")" (包含："Mind Is The Magic"聲音片段)
 6.  "The Wind" 影片插曲
 7.  "[You Are Not Alone](../Page/You_Are_Not_Alone.md "wikilink")"
-8.  "[The Way You Make Me
-    Feel](../Page/The_Way_You_Make_Me_Feel.md "wikilink")"
-    <small>(只在1996年9月7日至1997年6月15日的部分演出内表演)</small>
+8.  "[The Way You Make Me Feel](../Page/The_Way_You_Make_Me_Feel.md "wikilink")" <small>(只在1996年9月7日至1997年6月15日的部分演出内表演)</small>
 9.  Jackson 5 Medley:
-    1.  "[I Want You
-        Back](https://zh.wikipedia.org/wiki/I_Want_You_Back "wikilink")"
-    2.  "[The Love You
-        Save](https://zh.wikipedia.org/wiki/The_Love_You_Save "wikilink")"
+    1.  "[I Want You Back](https://zh.wikipedia.org/wiki/I_Want_You_Back "wikilink")"
+    2.  "[The Love You Save](https://zh.wikipedia.org/wiki/The_Love_You_Save "wikilink")"
     3.  "[I'll Be There](../Page/I'll_Be_There.md "wikilink")"
 10. Off the Wall Medley: <small>(只在1997年6月10日之前的部分演唱会表演)</small>
     1.  "[Rock with You](../Page/Rock_with_You.md "wikilink")"
-    2.  "[Off the
-        Wall](https://zh.wikipedia.org/wiki/Off_the_Wall_\(迈克尔·杰克逊歌曲\) "wikilink")"
-    3.  "[Don't Stop 'Til You Get
-        Enough](https://zh.wikipedia.org/wiki/Don't_Stop_'Til_You_Get_Enough "wikilink")"
-11. "[Remember the
-    Time](https://zh.wikipedia.org/wiki/Remember_the_Time "wikilink")"
-    视频编辑插曲
-12. "[Billie
-    Jean](https://zh.wikipedia.org/wiki/Billie_Jean "wikilink")"
+    2.  "[Off the Wall](https://zh.wikipedia.org/wiki/Off_the_Wall_\(迈克尔·杰克逊歌曲\) "wikilink")"
+    3.  "[Don't Stop 'Til You Get Enough](https://zh.wikipedia.org/wiki/Don't_Stop_'Til_You_Get_Enough "wikilink")"
+11. "[Remember the Time](https://zh.wikipedia.org/wiki/Remember_the_Time "wikilink")" 视频编辑插曲
+12. "[Billie Jean](https://zh.wikipedia.org/wiki/Billie_Jean "wikilink")"
 13. "[Thriller](https://zh.wikipedia.org/wiki/Thriller_\(迈克尔·杰克逊歌曲\) "wikilink")"
 14. "[Beat It](../Page/Beat_It.md "wikilink")"
-15. "[Come Together](../Page/Come_Together.md "wikilink")" /
-    "[D.S.](https://zh.wikipedia.org/wiki/D.S._\(迈克尔·杰克逊歌曲\) "wikilink")"
-    <small>(只在1996年9月7日至1996年11月11日的部分演唱会内表演)</small>
-16. "[Blood on the Dance
-    Floor](https://zh.wikipedia.org/wiki/Blood_on_the_Dance_Floor_\(迈克尔·杰克逊歌曲\) "wikilink")"
-    <small>(1997年5月31日至1997年8月19日的演唱会内表演)</small>
-17. [Black or White
-    "Panther"视频插曲](https://zh.wikipedia.org/wiki/Black_or_White#被剪掉的片段 "wikilink")
-18. "[Dangerous](https://zh.wikipedia.org/wiki/Dangerous_\(迈克尔·杰克逊歌曲\) "wikilink")"
-    (包含[Smooth
-    Criminal和](../Page/Smooth_Criminal.md "wikilink")[珍妮特·杰克逊的](https://zh.wikipedia.org/wiki/珍妮特·杰克逊 "wikilink")[歌曲片段](https://zh.wikipedia.org/wiki/珍妮特·杰克逊单曲列表 "wikilink"))
+15. "[Come Together](../Page/Come_Together.md "wikilink")" / "[D.S.](https://zh.wikipedia.org/wiki/D.S._\(迈克尔·杰克逊歌曲\) "wikilink")" <small>(只在1996年9月7日至1996年11月11日的部分演唱会内表演)</small>
+16. "[Blood on the Dance Floor](https://zh.wikipedia.org/wiki/Blood_on_the_Dance_Floor_\(迈克尔·杰克逊歌曲\) "wikilink")" <small>(1997年5月31日至1997年8月19日的演唱会内表演)</small>
+17. [Black or White "Panther"视频插曲](https://zh.wikipedia.org/wiki/Black_or_White#被剪掉的片段 "wikilink")
+18. "[Dangerous](https://zh.wikipedia.org/wiki/Dangerous_\(迈克尔·杰克逊歌曲\) "wikilink")" (包含[Smooth Criminal和](../Page/Smooth_Criminal.md "wikilink")[珍妮特·杰克逊的](https://zh.wikipedia.org/wiki/珍妮特·杰克逊 "wikilink")[歌曲片段](https://zh.wikipedia.org/wiki/珍妮特·杰克逊单曲列表 "wikilink"))
 19. "[Black or White](../Page/Black_or_White.md "wikilink")"
 20. "[Earth Song](../Page/Earth_Song.md "wikilink")"
-21. "[We Are the
-    World](https://zh.wikipedia.org/wiki/We_Are_the_World "wikilink")"
-    视频插曲
+21. "[We Are the World](https://zh.wikipedia.org/wiki/We_Are_the_World "wikilink")" 视频插曲
 22. "[Heal the World](../Page/Heal_the_World.md "wikilink")"
-23. "[They Don't Care About
-    Us](../Page/They_Don't_Care_About_Us.md "wikilink") (純音樂)
-24. "[HIStory](https://zh.wikipedia.org/wiki/HIStory/Ghosts#原"HIStory"歌曲 "wikilink")"
-    (包含HIStory Teaser之影片片段）
+23. "[They Don't Care About Us](../Page/They_Don't_Care_About_Us.md "wikilink") (純音樂)
+24. "[HIStory](https://zh.wikipedia.org/wiki/HIStory/Ghosts#原"HIStory"歌曲 "wikilink")" (包含HIStory Teaser之影片片段）
 
 [Michael_Jackson_Lausanne_20_juin_1997.jpg](https://zh.wikipedia.org/wiki/File:Michael_Jackson_Lausanne_20_juin_1997.jpg "fig:Michael_Jackson_Lausanne_20_juin_1997.jpg")》\]\]
 
@@ -658,11 +630,7 @@ WT**），是流行乐天王[迈克尔·杰克逊](../Page/迈克尔·杰克逊.
 
 ### 在文莱皇家音乐会
 
-举行巡演之前，杰克逊在[文莱](https://zh.wikipedia.org/wiki/文莱 "wikilink")[首都](../Page/首都.md "wikilink")[斯里巴加湾市](../Page/斯里巴加湾市.md "wikilink")的[水晶公园举行了一次免费音乐会](https://zh.wikipedia.org/wiki/斯里巴加湾市水晶公园 "wikilink")（后又称此次音乐会是**文莱热身演唱会**）。该音乐会是为了庆祝[文莱苏丹](https://zh.wikipedia.org/wiki/文莱苏丹 "wikilink")[哈桑纳尔·博尔基亚](../Page/哈桑纳尔·博尔基亚.md "wikilink")50岁生日，由皇室人员出席，但苏丹本人并未到场。当晚到场的6000多名观众都是文莱的皇室成员和特约嘉宾。这次在文莱的演出与[危险之旅巡演相似](../Page/Dangerous世界巡回演唱会.md "wikilink")，如开场的歌曲并非HIStory巡演的“Scream”，而是Dangerous巡演的“Jam”。（但特別值得一提的是，這場演唱會在結束曲“[Man
-In The
-Mirror](../Page/Man_in_the_Mirror_\(米高·傑克遜單曲\).md "wikilink")”後，還有一首收錄在[HIStory專輯中的](../Page/HIStory:_Past,_Present_and_Future,_Book_I.md "wikilink")“Earth
-Song”。另外，在其中也增加了“You Are Not
-Alone”。）这场演唱会一直蒙着神秘的面纱，直到2008年年底，2009年年初才浮出水面，在[网上可以观看](https://zh.wikipedia.org/wiki/因特网 "wikilink")，但是画质非常模糊，目前已經發行DVD清晰版本。
+举行巡演之前，杰克逊在[文莱](https://zh.wikipedia.org/wiki/文莱 "wikilink")[首都](../Page/首都.md "wikilink")[斯里巴加湾市](../Page/斯里巴加湾市.md "wikilink")的[水晶公园举行了一次免费音乐会](https://zh.wikipedia.org/wiki/斯里巴加湾市水晶公园 "wikilink")（后又称此次音乐会是**文莱热身演唱会**）。该音乐会是为了庆祝[文莱苏丹](https://zh.wikipedia.org/wiki/文莱苏丹 "wikilink")[哈桑纳尔·博尔基亚](../Page/哈桑纳尔·博尔基亚.md "wikilink")50岁生日，由皇室人员出席，但苏丹本人并未到场。当晚到场的6000多名观众都是文莱的皇室成员和特约嘉宾。这次在文莱的演出与[危险之旅巡演相似](../Page/Dangerous世界巡回演唱会.md "wikilink")，如开场的歌曲并非HIStory巡演的“Scream”，而是Dangerous巡演的“Jam”。（但特別值得一提的是，這場演唱會在結束曲“[Man In The Mirror](../Page/Man_in_the_Mirror_\(米高·傑克遜單曲\).md "wikilink")”後，還有一首收錄在[HIStory專輯中的](../Page/HIStory:_Past,_Present_and_Future,_Book_I.md "wikilink")“Earth Song”。另外，在其中也增加了“You Are Not Alone”。）这场演唱会一直蒙着神秘的面纱，直到2008年年底，2009年年初才浮出水面，在[网上可以观看](https://zh.wikipedia.org/wiki/因特网 "wikilink")，但是画质非常模糊，目前已經發行DVD清晰版本。
 
 ## 参见
 
@@ -671,7 +639,6 @@ Alone”。）这场演唱会一直蒙着神秘的面纱，直到2008年年底�
 
 ## 外部链接
 
-  - [HIStory World Tour Live In
-    Manila 1996](http://v.youku.com/v_show/id_XOTQwMTQ2NjA=.html)
+  - [HIStory World Tour Live In Manila 1996](http://v.youku.com/v_show/id_XOTQwMTQ2NjA=.html)
 
 [Category:迈克尔·杰克逊](https://zh.wikipedia.org/wiki/Category:迈克尔·杰克逊 "wikilink")

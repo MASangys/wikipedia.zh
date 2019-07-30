@@ -4,8 +4,7 @@
 
 ## 設計
 
-9mm警用轉輪手槍是一支警用[轉輪手槍](https://zh.wikipedia.org/wiki/轉輪手槍 "wikilink")，全槍尺寸為197毫米×35.6毫米×125毫米，槍管長76.2毫米，瞄準基線長108毫米，全槍重840克。容彈量為6發，使用壽命超過3
-000發。初速大約為300米/秒，有效射程50米，發射方式有單動和雙動兩種。
+9mm警用轉輪手槍是一支警用[轉輪手槍](https://zh.wikipedia.org/wiki/轉輪手槍 "wikilink")，全槍尺寸為197毫米×35.6毫米×125毫米，槍管長76.2毫米，瞄準基線長108毫米，全槍重840克。容彈量為6發，使用壽命超過3 000發。初速大約為300米/秒，有效射程50米，發射方式有單動和雙動兩種。
 
 該槍主要由槍管、彈巢（轉輪）、槍身、擊發裝置、握把和瞄準機構等組成，表面拋光並經過特殊表面處理工藝，整體結構性能優良，威力大，射擊精度好，容易操作，美觀大方，能適應各種惡劣的環境，安全性能良好。其76.2毫米長（3英寸）的槍管既保證了該槍具備足夠的殺傷威力，又使全槍長度適中，兼顧了攜帶的方便性。
 
@@ -18,6 +17,4 @@
 ## 使用國
 
   -
-[Category:左輪手槍](https://zh.wikipedia.org/wiki/Category:左輪手槍 "wikilink")
-[Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink")
-[Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink")
+[Category:左輪手槍](https://zh.wikipedia.org/wiki/Category:左輪手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink")

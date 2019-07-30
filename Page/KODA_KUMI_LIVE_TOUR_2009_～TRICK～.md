@@ -1,5 +1,4 @@
-《KODA KUMI LIVE TOUR 2009 ～TRICK～》（倖田來未 2009巡迴演唱會
-～～）為日本歌手[倖田來未於](../Page/倖田來未.md "wikilink")2009年10月21日發行之6th個人巡迴演唱會DVD。台港未獲得授權發行。
+《KODA KUMI LIVE TOUR 2009 ～TRICK～》（倖田來未 2009巡迴演唱會 ～～）為日本歌手[倖田來未](../Page/倖田來未.md "wikilink")於2009年10月21日發行之6th個人巡迴演唱會DVD。台港未獲得授權發行。
 
 ## 解說
 
@@ -40,8 +39,7 @@
 18. Joyful
       -
         【ENCORE】
-19. Sweet Kiss / 愛のうた / Someday / 空 / LOVE HOLIC / WON'T BE LONG /
-    Butterfly / It's all Love\!
+19. Sweet Kiss / 愛のうた / Someday / 空 / LOVE HOLIC / WON'T BE LONG / Butterfly / It's all Love\!
 20. 走れ\!
 21. Lick me♥
 22. walk
@@ -87,8 +85,7 @@
 18. Joyful
       -
         【ENCORE】
-19. Sweet Kiss / 愛のうた / Someday / 空 / LOVE HOLIC / WON'T BE LONG /
-    Butterfly / It's all Love\!
+19. Sweet Kiss / 愛のうた / Someday / 空 / LOVE HOLIC / WON'T BE LONG / Butterfly / It's all Love\!
 20. 走れ\!
 21. Lick me♥
 22. walk
@@ -97,7 +94,6 @@
 
 <references/>
 
-[Category:倖田來未影音作品](https://zh.wikipedia.org/wiki/Category:倖田來未影音作品 "wikilink")
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
+[Category:倖田來未影音作品](https://zh.wikipedia.org/wiki/Category:倖田來未影音作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
 
 1.

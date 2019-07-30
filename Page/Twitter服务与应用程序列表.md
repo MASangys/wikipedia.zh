@@ -201,20 +201,12 @@
 
 ## 外部链接
 
-  - ["Apps" at the Twitter Fan Wiki](http://twitter.pbworks.com/Apps) -
-    list of applications for Twitter, categorized by client.
-  - [Twitter Apps for everyday
-    use](https://web.archive.org/web/20100106121554/http://tweeterland.com/twitter-applications/)
-    - list Twitter applications.
-  - [Make maximum use of automated tweeting with AutoTweeting software
-    (blog)](https://web.archive.org/web/20100122105319/http://www.autotweeter.in/blog/)
-    - How to make maximum use of automated tweeting with AutoTweeting
-    software.
+  - ["Apps" at the Twitter Fan Wiki](http://twitter.pbworks.com/Apps) - list of applications for Twitter, categorized by client.
+  - [Twitter Apps for everyday use](https://web.archive.org/web/20100106121554/http://tweeterland.com/twitter-applications/) - list Twitter applications.
+  - [Make maximum use of automated tweeting with AutoTweeting software (blog)](https://web.archive.org/web/20100122105319/http://www.autotweeter.in/blog/) - How to make maximum use of automated tweeting with AutoTweeting software.
   - [Reviews of All Twitter Apps](http://www.alltwitterapps.com)
-  - [Twitter Content
-    Organizer](https://web.archive.org/web/20130719040342/http://www.tweetingstock.com/)
+  - [Twitter Content Organizer](https://web.archive.org/web/20130719040342/http://www.tweetingstock.com/)
 
-[Category:Twitter](https://zh.wikipedia.org/wiki/Category:Twitter "wikilink")
-[Category:软件扩展列表](https://zh.wikipedia.org/wiki/Category:软件扩展列表 "wikilink")
+[Category:Twitter](https://zh.wikipedia.org/wiki/Category:Twitter "wikilink") [Category:软件扩展列表](https://zh.wikipedia.org/wiki/Category:软件扩展列表 "wikilink")
 
 1.

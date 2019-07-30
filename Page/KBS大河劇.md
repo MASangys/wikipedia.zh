@@ -1,10 +1,8 @@
-**KBS大河劇**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
-1TV於每週六](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")、日晚上9時55分的劇集時段。此劇集時段於1981年至2016年間播出。
+**KBS大河劇**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 1TV於每週六](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")、日晚上9時55分的劇集時段。此劇集時段於1981年至2016年間播出。
 
 ## 概要
 
-「大河劇」一詞源自於日本。大多為朝鮮時代的主要題材，其次則是三國時代、後三國時代與近代。但因近年來收視率不振的關係，且在故事上虛構部份頗多，遭到非議的地方也不少，其中歷史歪曲。自70年代半KBS的史劇使用大河劇的名稱。然而，週末播出的史劇是自1982年《風雲》才冠上「大河劇」一名，且剛開始仿效日本NHK，一年內播出完畢。與NHK比較，NHK大河劇通常只播出1年內50集多，而KBS大河劇1年內播出100集多。1980年代後半，以朴景利為原作《土地》之大河劇播出，才帶動韓國國內制作的歷史小說改編時代劇。不過1992年的《三國記》是正統歷史劇
-\[1\]。
+「大河劇」一詞源自於日本。大多為朝鮮時代的主要題材，其次則是三國時代、後三國時代與近代。但因近年來收視率不振的關係，且在故事上虛構部份頗多，遭到非議的地方也不少，其中歷史歪曲。自70年代半KBS的史劇使用大河劇的名稱。然而，週末播出的史劇是自1982年《風雲》才冠上「大河劇」一名，且剛開始仿效日本NHK，一年內播出完畢。與NHK比較，NHK大河劇通常只播出1年內50集多，而KBS大河劇1年內播出100集多。1980年代後半，以朴景利為原作《土地》之大河劇播出，才帶動韓國國內制作的歷史小說改編時代劇。不過1992年的《三國記》是正統歷史劇 \[1\]。
 
 1990年代志2000年代的大河劇中，1996年《龍之淚》、1998年《王與妃》、2000年《太祖王健》、2004年《不滅的李舜臣》及2006年《漢城1945》《大祚榮》播出時成為熱門話題。
 
@@ -502,12 +500,7 @@
 
 ## 参考资料
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:KBS大河連續劇](https://zh.wikipedia.org/wiki/Category:KBS大河連續劇 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:KBS大河連續劇](https://zh.wikipedia.org/wiki/Category:KBS大河連續劇 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
-1.  [Namu上的KBS
-    대하드라마](https://namu.wiki/w/KBS%20%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88)
-2.  [조대현 KBS 사장 "'징비록'부터 대하드라마 블랙아웃
-    없앤다"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=213&aid=0000628525&viewType=pc)
+1.  [Namu上的KBS 대하드라마](https://namu.wiki/w/KBS%20%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88)
+2.  [조대현 KBS 사장 "'징비록'부터 대하드라마 블랙아웃 없앤다"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=213&aid=0000628525&viewType=pc)

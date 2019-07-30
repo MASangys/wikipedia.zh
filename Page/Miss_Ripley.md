@@ -1,18 +1,7 @@
-[崔元锡](https://zh.wikipedia.org/wiki/崔元锡 "wikilink") | creative_director
-= | presenter = | starring =
-[李多海](../Page/李多海.md "wikilink")、[朴有天](../Page/朴有天.md "wikilink")、[金勝友](../Page/金勝友.md "wikilink")、
-[姜惠貞](../Page/姜惠貞.md "wikilink") | theme_music_composer = | opentheme
-= | endtheme = | composer = | country =  | language =
-[韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink") | num_episodes =
-16 | producer = 金東具、李善常、白昌洙 | runtime = 70分钟（含广告） | company =
-| distributor = | channel =
-[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-| first_run =  | first_aired =  | last_aired =  | preceded_by = |
-followed_by = | related = | website =
-<http://www.imbc.com/broad/tv/drama/ripley/> | production_website = |
-台灣名稱 = 雷普利小姐 | 中國大陸名稱 = 再見美麗小姐
-雷普利小姐 | 港澳名稱 = 說謊的女人 | 新加坡名稱 = 再見雷普利小姐 }} 《**Miss
-Ripley**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2011年5月30日起製播的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")。
+[崔元锡](https://zh.wikipedia.org/wiki/崔元锡 "wikilink") | creative_director = | presenter = | starring = [李多海](../Page/李多海.md "wikilink")、[朴有天](../Page/朴有天.md "wikilink")、[金勝友](../Page/金勝友.md "wikilink")、
+[姜惠貞](../Page/姜惠貞.md "wikilink") | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink") | num_episodes = 16 | producer = 金東具、李善常、白昌洙 | runtime = 70分钟（含广告） | company =
+ | distributor = | channel = [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | first_run =  | first_aired =  | last_aired =  | preceded_by = | followed_by = | related = | website = <http://www.imbc.com/broad/tv/drama/ripley/> | production_website = | 台灣名稱 = 雷普利小姐 | 中國大陸名稱 = 再見美麗小姐
+雷普利小姐 | 港澳名稱 = 說謊的女人 | 新加坡名稱 = 再見雷普利小姐 }} 《**Miss Ripley**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2011年5月30日起製播的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")。
 
 ## 演員陣容
 
@@ -157,8 +146,7 @@ Ripley**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 ## 電視原聲帶
 
-  - 製作公司：[凯易悌音乐](https://zh.wikipedia.org/wiki/韩国通信 "wikilink")（KT
-    Music）
+  - 製作公司：[凯易悌音乐](https://zh.wikipedia.org/wiki/韩国通信 "wikilink")（KT Music）
 
 ### 電視原聲帶 Part 1
 
@@ -216,13 +204,9 @@ Ripley**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
   - [韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/ripley/)
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/missripley)
 
-[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink")
-[Category:MBC月火連續劇](https://zh.wikipedia.org/wiki/Category:MBC月火連續劇 "wikilink")
+[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink") [Category:MBC月火連續劇](https://zh.wikipedia.org/wiki/Category:MBC月火連續劇 "wikilink")
 
-[Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:旅館背景電視劇](https://zh.wikipedia.org/wiki/Category:旅館背景電視劇 "wikilink")
-[Category:騙局相關作品](https://zh.wikipedia.org/wiki/Category:騙局相關作品 "wikilink")
+[Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:旅館背景電視劇](https://zh.wikipedia.org/wiki/Category:旅館背景電視劇 "wikilink") [Category:騙局相關作品](https://zh.wikipedia.org/wiki/Category:騙局相關作品 "wikilink")
 
 1.  本劇第一集即出現漢字表示為張美麗，但其它片段又高頻率出現張美里的漢字。
 2.  本劇第一集本劇即出現漢字表示為宋裕賢第十集即出現漢字表示為宋有鉉。

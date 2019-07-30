@@ -1,7 +1,6 @@
-**鋼彈戰記超百科**週刊（ガンダムファクトファイル，Gundam Fact
-File）是日本[迪亞哥公司](https://zh.wikipedia.org/wiki/迪亞哥_\(出版社\) "wikilink")（）在[台灣及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港以](../Page/香港.md "wikilink")[分冊出版型式](https://zh.wikipedia.org/wiki/分冊出版 "wikilink")（）出版的[鋼彈](https://zh.wikipedia.org/wiki/鋼彈 "wikilink")[百科全書](https://zh.wikipedia.org/wiki/百科全書 "wikilink")。內容是以「生活在鋼彈世界的人們以貴重的證言所構成」的概念來製作。
+**鋼彈戰記超百科**週刊（ガンダムファクトファイル，Gundam Fact File）是日本[迪亞哥公司](https://zh.wikipedia.org/wiki/迪亞哥_\(出版社\) "wikilink")（）在[台灣及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港](../Page/香港.md "wikilink")以[分冊出版型式](https://zh.wikipedia.org/wiki/分冊出版 "wikilink")（）出版的[鋼彈](https://zh.wikipedia.org/wiki/鋼彈 "wikilink")[百科全書](https://zh.wikipedia.org/wiki/百科全書 "wikilink")。內容是以「生活在鋼彈世界的人們以貴重的證言所構成」的概念來製作。
 
-從「機械檔案」到「MS運用理論」的6個主題，是介紹以[宇宙世紀為舞台的系列](../Page/宇宙世紀.md "wikilink")（「[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")」～「[機動戰士V鋼彈](https://zh.wikipedia.org/wiki/機動戰士V鋼彈 "wikilink")」）。至於宇宙世紀之外的5部系列作品，則在「持續擴展的世界」的主題裡，分別進行介紹。
+從「機械檔案」到「MS運用理論」的6個主題，是介紹以[宇宙世紀](../Page/宇宙世紀.md "wikilink")為舞台的系列（「[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")」～「[機動戰士V鋼彈](https://zh.wikipedia.org/wiki/機動戰士V鋼彈 "wikilink")」）。至於宇宙世紀之外的5部系列作品，則在「持續擴展的世界」的主題裡，分別進行介紹。
 
 利用特殊[裝訂方式](https://zh.wikipedia.org/wiki/裝訂 "wikilink")，讀者於每期購買後只要將每頁按章節分離，放入特製藏書夾分類歸檔後，即可成為完整的百科全書。
 
@@ -26,12 +25,9 @@ File）是日本[迪亞哥公司](https://zh.wikipedia.org/wiki/迪亞哥_\(出�
 <!-- end list -->
 
   - **FG**=[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")
-  - **08**=[機動戰士GUNDAM
-    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
-  - **80**=[機動戰士GUNDAM0080
-    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")
-  - **83**=[機動戰士GUNDAM
-    -{zh-hans:星尘的回忆;zh-hk:星塵回憶錄;zh-tw:星塵的回憶;}-](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")
+  - **08**=[機動戰士GUNDAM 第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
+  - **80**=[機動戰士GUNDAM0080 口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")
+  - **83**=[機動戰士GUNDAM -{zh-hans:星尘的回忆;zh-hk:星塵回憶錄;zh-tw:星塵的回憶;}-](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")
   - **Z**=[機動戰士ZGUNDAM](https://zh.wikipedia.org/wiki/機動戰士ZGUNDAM "wikilink")
   - **ZZ**=[機動戰士GUNDAMZZ](https://zh.wikipedia.org/wiki/機動戰士GUNDAMZZ "wikilink")
   - **CCA**=[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
@@ -652,7 +648,4 @@ align="left"|*GLOSSARY 鋼彈用語辭典*
   - [台灣版電視廣告](http://www.youtube.com/watch?v=XEECi1aOKj8)
   - [香港版官方網頁](http://www.deagostini.hk/Gundam.html)
 
-[Category:臺灣雜誌](https://zh.wikipedia.org/wiki/Category:臺灣雜誌 "wikilink")
-[Category:香港雜誌](https://zh.wikipedia.org/wiki/Category:香港雜誌 "wikilink")
-[Category:日本週刊](https://zh.wikipedia.org/wiki/Category:日本週刊 "wikilink")
-[Category:GUNDAM](https://zh.wikipedia.org/wiki/Category:GUNDAM "wikilink")
+[Category:臺灣雜誌](https://zh.wikipedia.org/wiki/Category:臺灣雜誌 "wikilink") [Category:香港雜誌](https://zh.wikipedia.org/wiki/Category:香港雜誌 "wikilink") [Category:日本週刊](https://zh.wikipedia.org/wiki/Category:日本週刊 "wikilink") [Category:GUNDAM](https://zh.wikipedia.org/wiki/Category:GUNDAM "wikilink")

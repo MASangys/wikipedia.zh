@@ -1,8 +1,8 @@
-《**法證先鋒III**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[法證先鋒系列第三部](../Page/法證先鋒系列.md "wikilink")，故事與前兩輯無關。該輯由[黎耀祥](../Page/黎耀祥.md "wikilink")、[張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")、[徐子珊及](../Page/徐子珊.md "wikilink")[吳卓羲領銜主演](../Page/吳卓羲.md "wikilink")，並由[陳茵媺](../Page/陳茵媺.md "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[蔣志光及](../Page/蔣志光.md "wikilink")[元華聯合主演](../Page/元華.md "wikilink")，監製[梅小青](../Page/梅小青.md "wikilink")。亦為無綫電視所選播的**44週年台慶劇**。
+《**法證先鋒III**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[法證先鋒系列](../Page/法證先鋒系列.md "wikilink")第三部，故事與前兩輯無關。該輯由[黎耀祥](../Page/黎耀祥.md "wikilink")、[張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")、[徐子珊](../Page/徐子珊.md "wikilink")及[吳卓羲](../Page/吳卓羲.md "wikilink")領銜主演，並由[陳茵媺](../Page/陳茵媺.md "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")及[元華](../Page/元華.md "wikilink")聯合主演，監製[梅小青](../Page/梅小青.md "wikilink")。亦為無綫電視所選播的**邁向45週年台慶劇**。
 
 ## 故事大綱
 
-一連串的離奇命案將[法證部](https://zh.wikipedia.org/wiki/法證部 "wikilink")[高級化驗師布國棟](https://zh.wikipedia.org/wiki/高級化驗師 "wikilink")（[黎耀祥飾](../Page/黎耀祥.md "wikilink")）、[法醫部](https://zh.wikipedia.org/wiki/法醫部 "wikilink")[高級醫生鍾學心](https://zh.wikipedia.org/wiki/高級醫生 "wikilink")（[張可頤飾](https://zh.wikipedia.org/wiki/張可頤 "wikilink")）、[重案組](https://zh.wikipedia.org/wiki/重案組 "wikilink")[高級督察淩倩兒](../Page/高級督察.md "wikilink")（[徐子珊飾](../Page/徐子珊.md "wikilink")）和[警長李展風](../Page/警長.md "wikilink")（[吳卓羲飾](../Page/吳卓羲.md "wikilink")）等人聯繫起來。國棟與學心因性情相近合作多年，一種難以言喻的默契漸漸滋長，故當國棟與妻子周奕霏（[胡定欣飾](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")）的婚姻破裂之後，才明白最瞭解自己的是學心；而倩兒與展風於重案組合作無間出生入死，造就了一段真摯的愛情。這群專業的人員，從[鑑證](https://zh.wikipedia.org/wiki/鑑證 "wikilink")、[化驗](https://zh.wikipedia.org/wiki/化驗 "wikilink")、[邏輯](https://zh.wikipedia.org/wiki/邏輯 "wikilink")、[心理](https://zh.wikipedia.org/wiki/心理 "wikilink")、[醫學及](https://zh.wikipedia.org/wiki/醫學 "wikilink")[科學等不同範疇](https://zh.wikipedia.org/wiki/科學 "wikilink")，跨部門聯合破案緝兇，竭力維護法紀。
+一連串的離奇命案將[法證部](https://zh.wikipedia.org/wiki/法證部 "wikilink")[高級化驗師布國棟](https://zh.wikipedia.org/wiki/高級化驗師 "wikilink")（[黎耀祥](../Page/黎耀祥.md "wikilink")飾）、[法醫部](https://zh.wikipedia.org/wiki/法醫部 "wikilink")[高級醫生鍾學心](https://zh.wikipedia.org/wiki/高級醫生 "wikilink")（[張可頤飾](https://zh.wikipedia.org/wiki/張可頤 "wikilink")）、[重案組](https://zh.wikipedia.org/wiki/重案組 "wikilink")[高級督察](../Page/高級督察.md "wikilink")淩倩兒（[徐子珊](../Page/徐子珊.md "wikilink")飾）和[警長](../Page/警長.md "wikilink")李展風（[吳卓羲](../Page/吳卓羲.md "wikilink")飾）等人聯繫起來。國棟與學心因性情相近合作多年，一種難以言喻的默契漸漸滋長，故當國棟與妻子周奕霏（[胡定欣飾](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")）的婚姻破裂之後，才明白最瞭解自己的是學心；而倩兒與展風於重案組合作無間出生入死，造就了一段真摯的愛情。這群專業的人員，從[鑑證](https://zh.wikipedia.org/wiki/鑑證 "wikilink")、[化驗](https://zh.wikipedia.org/wiki/化驗 "wikilink")、[邏輯](https://zh.wikipedia.org/wiki/邏輯 "wikilink")、[心理](https://zh.wikipedia.org/wiki/心理 "wikilink")、[醫學及](https://zh.wikipedia.org/wiki/醫學 "wikilink")[科學等不同範疇](https://zh.wikipedia.org/wiki/科學 "wikilink")，跨部門聯合破案緝兇，竭力維護法紀。
 
 ## 演員表
 
@@ -1826,38 +1826,33 @@ Oscar之孿生弟弟，後反目<br />
 
 ## 記事
 
-  - 巡禮片演員陣容：[歐陽震華](../Page/歐陽震華.md "wikilink")、[佘詩曼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")、[林文龍](../Page/林文龍.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[曹永廉](../Page/曹永廉.md "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")、[洪天明](../Page/洪天明.md "wikilink")、[黎諾懿](../Page/黎諾懿.md "wikilink")、[曹敏莉](../Page/曹敏莉.md "wikilink")、[李亞男](https://zh.wikipedia.org/wiki/李亞男 "wikilink")、[陳美詩](../Page/陳美詩.md "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")。而據2009年11月15日[星島日報報導](../Page/星島日報.md "wikilink")，[歐陽震華](../Page/歐陽震華.md "wikilink")、[佘詩曼及](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")[林文龍事實上不在演員名單](../Page/林文龍.md "wikilink")（其實名單上亦不包括[羅仲謙](../Page/羅仲謙.md "wikilink")），[歐陽震華經理人更稱沒收過接拍此劇的消息](../Page/歐陽震華.md "wikilink")。\[1\]另外，計劃中劇組將赴[台灣取景](https://zh.wikipedia.org/wiki/台灣 "wikilink")，巡禮片內亦有提及。
-  - 2011年1月3日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠Common](../Page/電視廣播城.md "wikilink")
-    Room舉行試造型記者會。\[2\]
-  - 2011年1月22日：原為女主角的[佘詩曼在內地撞車受傷以至左手脫骹](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，所以決定辭演此劇，其角色由当年因时间问题未能出演[法證先鋒第一辑的](../Page/法證先鋒.md "wikilink")[張可頤頂上](https://zh.wikipedia.org/wiki/張可頤 "wikilink")。\[3\]
+  - 巡禮片演員陣容：[歐陽震華](../Page/歐陽震華.md "wikilink")、[佘詩曼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")、[林文龍](../Page/林文龍.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[曹永廉](../Page/曹永廉.md "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")、[洪天明](../Page/洪天明.md "wikilink")、[黎諾懿](../Page/黎諾懿.md "wikilink")、[曹敏莉](../Page/曹敏莉.md "wikilink")、[李亞男](https://zh.wikipedia.org/wiki/李亞男 "wikilink")、[陳美詩](../Page/陳美詩.md "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")。而據2009年11月15日[星島日報](../Page/星島日報.md "wikilink")報導，[歐陽震華](../Page/歐陽震華.md "wikilink")、[佘詩曼及](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")[林文龍](../Page/林文龍.md "wikilink")事實上不在演員名單（其實名單上亦不包括[羅仲謙](../Page/羅仲謙.md "wikilink")），[歐陽震華](../Page/歐陽震華.md "wikilink")經理人更稱沒收過接拍此劇的消息。\[1\]另外，計劃中劇組將赴[台灣取景](https://zh.wikipedia.org/wiki/台灣 "wikilink")，巡禮片內亦有提及。
+  - 2011年1月3日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")一廠Common Room舉行試造型記者會。\[2\]
+  - 2011年1月22日：原為女主角的[佘詩曼在內地撞車受傷以至左手脫骹](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，所以決定辭演此劇，其角色由当年因时间问题未能出演[法證先鋒](../Page/法證先鋒.md "wikilink")第一辑的[張可頤頂上](https://zh.wikipedia.org/wiki/張可頤 "wikilink")。\[3\]
   - 2011年1月25日：[張可頤為此劇試造型](https://zh.wikipedia.org/wiki/張可頤 "wikilink")。\[4\]
-  - 2011年1月28日：[黎耀祥及](../Page/黎耀祥.md "wikilink")[張可頤於九龍灣MegaBox為無綫新劇](https://zh.wikipedia.org/wiki/張可頤 "wikilink")《法證先鋒III》進行外景拍攝。\[5\]
-  - 2011年2月9日：[黎耀祥及](../Page/黎耀祥.md "wikilink")[吳卓羲為本劇主題曲進行錄音工作](../Page/吳卓羲.md "wikilink")。
-  - 2011年2月23日：此劇於15:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城十二廠舉行拜神儀式](../Page/電視廣播城.md "wikilink")。\[6\]
-  - 2011年3月4日：[吳卓羲及](../Page/吳卓羲.md "wikilink")[徐子珊於](../Page/徐子珊.md "wikilink")[旺角街頭](../Page/旺角.md "wikilink")
-    進行外景拍攝\[7\]
-  - 2011年3月14日：[吳卓羲及](../Page/吳卓羲.md "wikilink")[徐子珊](../Page/徐子珊.md "wikilink")
-    進行外景拍攝。\[8\]
-  - 2011年4月18日：[黎耀祥及](../Page/黎耀祥.md "wikilink")[張可頤到一婚紗店拍攝外景](https://zh.wikipedia.org/wiki/張可頤 "wikilink")。
-  - 2011年4月23日：[黎耀祥及](../Page/黎耀祥.md "wikilink")[張可頤於西貢拍攝外景](https://zh.wikipedia.org/wiki/張可頤 "wikilink")，劇情講述女方被綁匪撲暈後困在車尾廂內，男方則現身英雄救美。
-  - 2011年5月2日：此劇全體演員於16:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠停車場拍攝片頭](../Page/電視廣播城.md "wikilink")。\[9\]
-  - 2011年10月9日：此劇於15:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[環球貿易廣場](../Page/環球貿易廣場.md "wikilink")[天際100舉行](../Page/天際100.md "wikilink")《法證先鋒III》之「百分100優先場」宣傳活動。
-  - 2011年10月12日：此劇於12:45在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠灰位舉行](../Page/電視廣播城.md "wikilink")《法證先鋒III》記者會，公佈此劇是本年度首播日收視冠軍的劇集。
-  - 2011年10月23日：一眾演員於12:50在[中環](../Page/中環.md "wikilink")[遮打道出席](../Page/遮打道.md "wikilink")《香港國際鑽一裡2011》之「法證先鋒III鑽一哩挑戰盃」比賽。
+  - 2011年1月28日：[黎耀祥](../Page/黎耀祥.md "wikilink")及[張可頤於九龍灣MegaBox為無綫新劇](https://zh.wikipedia.org/wiki/張可頤 "wikilink")《法證先鋒III》進行外景拍攝。\[5\]
+  - 2011年2月9日：[黎耀祥](../Page/黎耀祥.md "wikilink")及[吳卓羲](../Page/吳卓羲.md "wikilink")為本劇主題曲進行錄音工作。
+  - 2011年2月23日：此劇於15:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")十二廠舉行拜神儀式。\[6\]
+  - 2011年3月4日：[吳卓羲](../Page/吳卓羲.md "wikilink")及[徐子珊](../Page/徐子珊.md "wikilink")於[旺角](../Page/旺角.md "wikilink")街頭 進行外景拍攝\[7\]
+  - 2011年3月14日：[吳卓羲](../Page/吳卓羲.md "wikilink")及[徐子珊](../Page/徐子珊.md "wikilink") 進行外景拍攝。\[8\]
+  - 2011年4月18日：[黎耀祥](../Page/黎耀祥.md "wikilink")及[張可頤到一婚紗店拍攝外景](https://zh.wikipedia.org/wiki/張可頤 "wikilink")。
+  - 2011年4月23日：[黎耀祥](../Page/黎耀祥.md "wikilink")及[張可頤於西貢拍攝外景](https://zh.wikipedia.org/wiki/張可頤 "wikilink")，劇情講述女方被綁匪撲暈後困在車尾廂內，男方則現身英雄救美。
+  - 2011年5月2日：此劇全體演員於16:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")一廠停車場拍攝片頭。\[9\]
+  - 2011年10月9日：此劇於15:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[環球貿易廣場](../Page/環球貿易廣場.md "wikilink")[天際100](../Page/天際100.md "wikilink")舉行《法證先鋒III》之「百分100優先場」宣傳活動。
+  - 2011年10月12日：此劇於12:45在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")一廠灰位舉行《法證先鋒III》記者會，公佈此劇是本年度首播日收視冠軍的劇集。
+  - 2011年10月23日：一眾演員於12:50在[中環](../Page/中環.md "wikilink")[遮打道](../Page/遮打道.md "wikilink")出席《香港國際鑽一裡2011》之「法證先鋒III鑽一哩挑戰盃」比賽。
   - 2011年10月28日：由於21:00-23:00播映劇集《[荃加福祿壽探案](../Page/荃加福祿壽探案.md "wikilink")》兩小時大結局，本劇暫停播映。
-  - 2011年10月31日：此劇於13:30在[葵芳](../Page/葵芳.md "wikilink")[新都會廣場天晶館舉行](../Page/新都會廣場.md "wikilink")《法證先鋒III》之「法力展現哈囉喂」宣傳活動。
+  - 2011年10月31日：此劇於13:30在[葵芳](../Page/葵芳.md "wikilink")[新都會廣場](../Page/新都會廣場.md "wikilink")天晶館舉行《法證先鋒III》之「法力展現哈囉喂」宣傳活動。
   - 2011年10月31日：由於20:30-22:30播映劇集《[萬凰之王](../Page/萬凰之王.md "wikilink")》首集兩小時特別版，本劇暫停播映。
-  - 2011年11月7日：此劇於13:45在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠Common](../Page/電視廣播城.md "wikilink")
-    Room舉行《法證先鋒III》記者會，公布此劇當時是本年度平均收視冠軍的劇集。
-  - 2011年11月13日：一眾演員到[荃灣](../Page/荃灣.md "wikilink")[愉景新城出席](../Page/愉景新城.md "wikilink")「台慶巡迴展覽」，並舉行「法證搜證真本領」活動。
-  - 2011年11月20日：除要趕拍另一劇集《[造王者](https://zh.wikipedia.org/wiki/造王者 "wikilink")》的黎耀祥外，一眾演員到[九龍灣](../Page/九龍灣.md "wikilink")[九展世貿中心三法齊集](https://zh.wikipedia.org/wiki/九展世貿中心 "wikilink")
-    共赏结局
+  - 2011年11月7日：此劇於13:45在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")一廠Common Room舉行《法證先鋒III》記者會，公布此劇當時是本年度平均收視冠軍的劇集。
+  - 2011年11月13日：一眾演員到[荃灣](../Page/荃灣.md "wikilink")[愉景新城](../Page/愉景新城.md "wikilink")出席「台慶巡迴展覽」，並舉行「法證搜證真本領」活動。
+  - 2011年11月20日：除要趕拍另一劇集《[造王者](https://zh.wikipedia.org/wiki/造王者 "wikilink")》的黎耀祥外，一眾演員到[九龍灣](../Page/九龍灣.md "wikilink")[九展世貿中心三法齊集](https://zh.wikipedia.org/wiki/九展世貿中心 "wikilink") 共赏结局
   - 2011年11月22日：除要趕拍另一劇集《造王者》的黎耀祥外，一眾演員出席《法證先鋒III》祝捷會
-  - 2011年12月13日：[梁乃鵬博士宴請台前幕後出席慶功宴](../Page/梁乃鵬.md "wikilink")。
+  - 2011年12月13日：[梁乃鵬](../Page/梁乃鵬.md "wikilink")博士宴請台前幕後出席慶功宴。
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |             |                    |          |           |         |
 | ------ | ----------- | ------------------ | -------- | --------- | ------- |
@@ -1879,7 +1874,7 @@ Oscar之孿生弟弟，後反目<br />
 
 ## 觀眾迴響
 
-《法證先鋒III》開播首周平均收視31點、最高收視34點，成為今年TVB劇集首周收視冠軍。但劇情方面遭批評，有指劇中各人墨鏡出現頻率過於頻密，以及每次討論案情都過份倚賴[平板電腦](../Page/平板電腦.md "wikilink")，加上劇集對主角乃至[法醫的形象刻劃過於刻意](https://zh.wikipedia.org/wiki/法醫 "wikilink")，這些皆產生了與觀眾的距離隔閡，嚴重影響職業劇的靈魂：劇集的真實性。有觀眾批評徐子珊扮演正氣的[高級督察氣場不夠強大](../Page/高級督察.md "wikilink")，演技太差。\[13\]亦有觀眾批評這次主演安排失重，黎耀祥和[張可頤兩人戲份太多](https://zh.wikipedia.org/wiki/張可頤 "wikilink")，這兩個法證人員及法醫幾乎包攬重案組的事，去[案發現場找到證據便](https://zh.wikipedia.org/wiki/案發現場 "wikilink")[破案](https://zh.wikipedia.org/wiki/破案 "wikilink")，與現實不符，有唱獨角戲的嫌疑，還要加多條感情線分別與[陳展鵬和](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")[胡定欣展開一段四角戀](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，使到戲分多上多，案件及感情線一切圍繞兩人轉，使得飾演重案組[警員的](https://zh.wikipedia.org/wiki/警員 "wikilink")[吳卓羲和](../Page/吳卓羲.md "wikilink")[徐子珊如同虛設](../Page/徐子珊.md "wikilink")\[14\]。吳卓羲坦言多謝觀眾，表示一點也不介意，相信公司有安排，他同時指出劇集重點是[法證](https://zh.wikipedia.org/wiki/法證 "wikilink")，而自己演警察，所以才令觀眾覺得戲份不是集中在他身上。而黎耀祥也回應，吳卓羲拍攝的場口比他多，更自稱自己主要是廠景比較舒服，所以也有點不好意思\[15\]\[16\]。
+《法證先鋒III》開播首周平均收視31點、最高收視34點，成為今年TVB劇集首周收視冠軍。但劇情方面遭批評，有指劇中各人墨鏡出現頻率過於頻密，以及每次討論案情都過份倚賴[平板電腦](../Page/平板電腦.md "wikilink")，加上劇集對主角乃至[法醫的形象刻劃過於刻意](https://zh.wikipedia.org/wiki/法醫 "wikilink")，這些皆產生了與觀眾的距離隔閡，嚴重影響職業劇的靈魂：劇集的真實性。有觀眾批評徐子珊扮演正氣的[高級督察](../Page/高級督察.md "wikilink")氣場不夠強大，演技太差。\[13\]亦有觀眾批評這次主演安排失重，黎耀祥和[張可頤兩人戲份太多](https://zh.wikipedia.org/wiki/張可頤 "wikilink")，這兩個法證人員及法醫幾乎包攬重案組的事，去[案發現場找到證據便](https://zh.wikipedia.org/wiki/案發現場 "wikilink")[破案](https://zh.wikipedia.org/wiki/破案 "wikilink")，與現實不符，有唱獨角戲的嫌疑，還要加多條感情線分別與[陳展鵬和](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")[胡定欣展開一段四角戀](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，使到戲分多上多，案件及感情線一切圍繞兩人轉，使得飾演重案組[警員的](https://zh.wikipedia.org/wiki/警員 "wikilink")[吳卓羲](../Page/吳卓羲.md "wikilink")和[徐子珊](../Page/徐子珊.md "wikilink")如同虛設\[14\]。吳卓羲坦言多謝觀眾，表示一點也不介意，相信公司有安排，他同時指出劇集重點是[法證](https://zh.wikipedia.org/wiki/法證 "wikilink")，而自己演警察，所以才令觀眾覺得戲份不是集中在他身上。而黎耀祥也回應，吳卓羲拍攝的場口比他多，更自稱自己主要是廠景比較舒服，所以也有點不好意思\[15\]\[16\]。
 
 ## 參考資料
 
@@ -1888,32 +1883,19 @@ Oscar之孿生弟弟，後反目<br />
 ## 外部連結
 
   - [TVB.com - 法證先鋒III](http://programme.tvb.com/drama/forensicheroes3/)
-  - [《法證先鋒III》 GOTV
-    第1集重溫](https://web.archive.org/web/20151120062950/http://gotv.tvb.com/programme/102417/150810)
+  - [《法證先鋒III》 GOTV 第1集重溫](https://web.archive.org/web/20151120062950/http://gotv.tvb.com/programme/102417/150810)
 
 ## 電視節目的變遷
 
-[Category:2011年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2011年無綫電視劇集 "wikilink")
-[Category:無綫電視台慶劇](https://zh.wikipedia.org/wiki/Category:無綫電視台慶劇 "wikilink")
-[Category:法證先鋒系列](https://zh.wikipedia.org/wiki/Category:法證先鋒系列 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:2010無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2010無綫節目巡禮劇集 "wikilink")
-[Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink")
+[Category:2011年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2011年無綫電視劇集 "wikilink") [Category:無綫電視台慶劇](https://zh.wikipedia.org/wiki/Category:無綫電視台慶劇 "wikilink") [Category:法證先鋒系列](https://zh.wikipedia.org/wiki/Category:法證先鋒系列 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:2010無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2010無綫節目巡禮劇集 "wikilink") [Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink")
 
 1.
-2.  [藝人月曆 - 1月3日 -
-    tvb.com](http://artiste.tvb.com/calendar/list/2011/01/03)
-3.  [阿佘受傷辭演《法證先鋒3》](http://www.singtao.com/yesterday/ent/0122fo05.html)
-    星島日報. 2011年1月22日.
-4.  [張可頤遇時機懶理執二攤
-    變髮演《法證III》](http://life.mingpao.com/cfm/dailynews3b.cfm?File=20110126/nalmc/mcb1.txt)
-    明報. 2011年1月26日
-5.  [黎耀祥為瘦身拒與張可頤吃飯](http://news.hkheadline.com/instantnews/news_content/201101/28/20110128f223311.html?cat=f)
-    頭條日報. 2011年1月28日.
-6.  [藝人月曆 - 2月23日 -
-    tvb.com](http://artiste.tvb.com/calendar/list/2011/02/23)
-7.  [徐子珊讚吳卓羲最好咀](http://the-sun.on.cc/cnt/entertainment/20110305/00470_043.html)
-    大陽報. 2011年3月4日
+2.  [藝人月曆 - 1月3日 - tvb.com](http://artiste.tvb.com/calendar/list/2011/01/03)
+3.  [阿佘受傷辭演《法證先鋒3》](http://www.singtao.com/yesterday/ent/0122fo05.html) 星島日報. 2011年1月22日.
+4.  [張可頤遇時機懶理執二攤 變髮演《法證III》](http://life.mingpao.com/cfm/dailynews3b.cfm?File=20110126/nalmc/mcb1.txt) 明報. 2011年1月26日
+5.  [黎耀祥為瘦身拒與張可頤吃飯](http://news.hkheadline.com/instantnews/news_content/201101/28/20110128f223311.html?cat=f) 頭條日報. 2011年1月28日.
+6.  [藝人月曆 - 2月23日 - tvb.com](http://artiste.tvb.com/calendar/list/2011/02/23)
+7.  [徐子珊讚吳卓羲最好咀](http://the-sun.on.cc/cnt/entertainment/20110305/00470_043.html) 大陽報. 2011年3月4日
 8.
 9.
 10.

@@ -1,4 +1,4 @@
-**2011年Oricon專輯週榜冠軍作品列表**列出2011年度曾經登上[Oricon公信榜專輯週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
+**2011年Oricon專輯週榜冠軍作品列表**列出2011年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜冠軍的[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
 
 全年度共有45張冠軍專輯誕生，其中取得冠軍週數最多的專輯是[EXILE的](../Page/放浪兄弟.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[祈願之塔](../Page/祈願之塔.md "wikilink")》（3週）。
 
@@ -446,6 +446,4 @@
 
   - [2011年每週公信榜統計數據](https://web.archive.org/web/20160722215716/http://www.musictvprogram.com/oricon2011.html)
 
-[Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink")
-[Category:2011年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2011年音樂排行榜 "wikilink")
+[Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink") [Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink") [Category:2011年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2011年音樂排行榜 "wikilink")

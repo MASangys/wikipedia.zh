@@ -159,12 +159,9 @@ manipulation</p></td>
 
 <!-- end list -->
 
-  - [`mbtowc`](http://www.cplusplus.com/reference/clibrary/cstdlib/mbtowc)
-    - converts the first multibyte character in a string to the matching
-    wide character
+  - [`mbtowc`](http://www.cplusplus.com/reference/clibrary/cstdlib/mbtowc) - converts the first multibyte character in a string to the matching wide character
 
-  - [`wctomb`](http://www.cplusplus.com/reference/clibrary/cstdlib/wctomb)
-    - converts a wide character to the matching multibyte character
+  - [`wctomb`](http://www.cplusplus.com/reference/clibrary/cstdlib/wctomb) - converts a wide character to the matching multibyte character
 
 ## 參考資料
 
@@ -175,8 +172,6 @@ manipulation</p></td>
   -
   - [Null-terminated string](../Page/C风格字符串.md "wikilink")
 
-[Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink")
-[Category:C標準函式庫](https://zh.wikipedia.org/wiki/Category:C標準函式庫 "wikilink")
-[Category:字符串](https://zh.wikipedia.org/wiki/Category:字符串 "wikilink")
+[Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink") [Category:C標準函式庫](https://zh.wikipedia.org/wiki/Category:C標準函式庫 "wikilink") [Category:字符串](https://zh.wikipedia.org/wiki/Category:字符串 "wikilink")
 
 1.  描述內的**字串**可以指字元組字串或闊字串

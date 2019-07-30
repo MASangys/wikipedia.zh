@@ -1,6 +1,4 @@
-[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**ESFP**（外倾/感觉/情感/理解）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink").\[1\]
-，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")「[表演者](https://zh.wikipedia.org/wiki/表演者_\(角色变异\) "wikilink")」，属于[工匠的四种类型之一](https://zh.wikipedia.org/wiki/工匠_\(气质类型\) "wikilink")，约占人口的4%-10%。\[2\]\[3\]
+[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg") **ESFP**（外倾/感觉/情感/理解）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink").\[1\] ，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")「[表演者](https://zh.wikipedia.org/wiki/表演者_\(角色变异\) "wikilink")」，属于[工匠的四种类型之一](https://zh.wikipedia.org/wiki/工匠_\(气质类型\) "wikilink")，约占人口的4%-10%。\[2\]\[3\]
 
 ## MBTI偏好
 
@@ -11,8 +9,7 @@
 
 ## 特征
 
-[Bill_Clinton.jpg](https://zh.wikipedia.org/wiki/File:Bill_Clinton.jpg "fig:Bill_Clinton.jpg")是个ESFP。\[8\]
-但是，根据MBTI伦理应用的指导方针，只有那些参加了类型评估的人能决定他们最适合于哪一型。\[9\]\]\]
+[Bill_Clinton.jpg](https://zh.wikipedia.org/wiki/File:Bill_Clinton.jpg "fig:Bill_Clinton.jpg")是个ESFP。\[8\] 但是，根据MBTI伦理应用的指导方针，只有那些参加了类型评估的人能决定他们最适合于哪一型。\[9\]\]\]
 
 ### 类型描述
 
@@ -56,15 +53,13 @@ Ni将看起来矛盾的事物合成出先前无法想象的成果，同时它也
 
 ### 隐藏功能
 
-后来的人格类型研究者（特别是琳达·V·贝伦斯）\[17\]
-在这个降序排列中添加了四个附加功能。这些功能被称为隐藏功能，因为一个人并不自然地倾向于它们，但在压力之下它们也会浮现。对ESFP来说，这些隐藏功能是（按次序）：
+后来的人格类型研究者（特别是琳达·V·贝伦斯）\[17\] 在这个降序排列中添加了四个附加功能。这些功能被称为隐藏功能，因为一个人并不自然地倾向于它们，但在压力之下它们也会浮现。对ESFP来说，这些隐藏功能是（按次序）：
 
   - **内倾感觉（Si）**:Si收集关于当下的数据，然后把它们和过去的经验比较，这过程有时候随着记忆唤起与之关联的感觉，就好像再体验一遍过去。为寻求保护那些熟悉的东西，Si回溯历史，用以形成对未来的期望和目标。\[18\]
 
 <!-- end list -->
 
-  - *'
-    外倾情感（Fe）*'：Fe寻找社会上的联系，并用礼貌、体贴、得体的举止营造和谐的沟通。Fe对他人明确（或暗示）的需求作出回应，甚至可能会制造内在自我需求和欲望的冲突来满足别人。.\[19\]
+  - *' 外倾情感（Fe）*'：Fe寻找社会上的联系，并用礼貌、体贴、得体的举止营造和谐的沟通。Fe对他人明确（或暗示）的需求作出回应，甚至可能会制造内在自我需求和欲望的冲突来满足别人。.\[19\]
 
 <!-- end list -->
 
@@ -83,14 +78,11 @@ Ni将看起来矛盾的事物合成出先前无法想象的成果，同时它也
 
 ## 外部链接
 
-  - [Keirsey Performer Artisan
-    (ESFP)](http://www.personalityzone.com/view/temperament/performer.html)
+  - [Keirsey Performer Artisan (ESFP)](http://www.personalityzone.com/view/temperament/performer.html)
   - [TypeLogic ESFP](http://typelogic.com/esfp.html)
   - [Personality Page ESFP](http://www.personalitypage.com/ESFP.html)
-  - [The Myers & Briggs Foundation: The 16 MBTI
-    Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
-  - [PersonalityDesk: ESFP
-    Profile](https://web.archive.org/web/20100315081448/http://www.personalitydesk.com/esfp-type-description.php)
+  - [The Myers & Briggs Foundation: The 16 MBTI Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
+  - [PersonalityDesk: ESFP Profile](https://web.archive.org/web/20100315081448/http://www.personalitydesk.com/esfp-type-description.php)
 
 [Category:性格分類](https://zh.wikipedia.org/wiki/Category:性格分類 "wikilink")
 

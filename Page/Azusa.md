@@ -2,23 +2,15 @@
 
 ## 来历
 
-2003年11月，中学三年级时，在[奄美群岛的](https://zh.wikipedia.org/wiki/奄美群岛 "wikilink")[德之岛文化中心举行的](https://zh.wikipedia.org/wiki/德之岛 "wikilink")，由德之岛委员会连同[Being
-公司所属LOOP事务所所举办的](https://zh.wikipedia.org/wiki/Being_公司 "wikilink")“Power
-of
-Dream”歌唱比赛中获奖，她的声音受到委员会成员的一致好评，与同时获奖的亚衣里和明日香一同组成[Sparkling☆Point团体](https://zh.wikipedia.org/wiki/Sparkling☆Point "wikilink")（以「**梓**」的名义），在[奄美大島开始现场演出](../Page/奄美大島.md "wikilink")。2004年3月，中学毕业的同时迁往[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")，就读于[大阪市通信教育高等学校](../Page/大阪市.md "wikilink")。
+2003年11月，中学三年级时，在[奄美群岛的](https://zh.wikipedia.org/wiki/奄美群岛 "wikilink")[德之岛文化中心举行的](https://zh.wikipedia.org/wiki/德之岛 "wikilink")，由德之岛委员会连同[Being 公司所属LOOP事务所所举办的](https://zh.wikipedia.org/wiki/Being_公司 "wikilink")“Power of Dream”歌唱比赛中获奖，她的声音受到委员会成员的一致好评，与同时获奖的亚衣里和明日香一同组成[Sparkling☆Point团体](https://zh.wikipedia.org/wiki/Sparkling☆Point "wikilink")（以「**梓**」的名义），在[奄美大島](../Page/奄美大島.md "wikilink")开始现场演出。2004年3月，中学毕业的同时迁往[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")，就读于[大阪市](../Page/大阪市.md "wikilink")通信教育高等学校。
 
-2004年9月1日在“Hey Hey Baby\! You're
-NO.1\!”登场。在2006年9月1日的“恋の1-2-3”亦有演出。2007年2月23日发表由自己创作的《》。2007年3月24日高中毕业。由[GIZA
-studio转籍至](../Page/GIZA_studio.md "wikilink")[NORTHERN
-MUSIC](../Page/NORTHERN_MUSIC.md "wikilink")，并移居[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")。
+2004年9月1日在“Hey Hey Baby\! You're NO.1\!”登场。在2006年9月1日的“恋の1-2-3”亦有演出。2007年2月23日发表由自己创作的《》。2007年3月24日高中毕业。由[GIZA studio转籍至](../Page/GIZA_studio.md "wikilink")[NORTHERN MUSIC](../Page/NORTHERN_MUSIC.md "wikilink")，并移居[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")。
 
-2008年3月起以“azusa”的名义开始独自演出。2008年秋、網絡廣播節目《》結束。
-2009年4月14日在奄美FM，她與同為奄美大島出身的安田竜馬一起開設了一個廣播節目《》。
+2008年3月起以“azusa”的名义开始独自演出。2008年秋、網絡廣播節目《》結束。 2009年4月14日在奄美FM，她與同為奄美大島出身的安田竜馬一起開設了一個廣播節目《》。
 
 2009年6月[Sparkling☆Point组合发表解散宣言](https://zh.wikipedia.org/wiki/Sparkling☆Point "wikilink")。
 
-2010年7月21日在[波丽佳音制作的TV动画](https://zh.wikipedia.org/wiki/波丽佳音 "wikilink")《[圣诞之吻](https://zh.wikipedia.org/wiki/圣诞之吻 "wikilink")》中演唱《i
-Love》一曲重新登场，并与10月20日发表单曲《》。這兩張單曲的發售量比起Sparkling☆Point時期來的亮眼。
+2010年7月21日在[波丽佳音制作的TV动画](https://zh.wikipedia.org/wiki/波丽佳音 "wikilink")《[圣诞之吻](https://zh.wikipedia.org/wiki/圣诞之吻 "wikilink")》中演唱《i Love》一曲重新登场，并与10月20日发表单曲《》。這兩張單曲的發售量比起Sparkling☆Point時期來的亮眼。
 
 2013年11月6日azusa在官方部落格表示中止歌唱活動。
 
@@ -29,43 +21,31 @@ Love》一曲重新登场，并与10月20日发表单曲《》。這兩張單曲
 ### 广播
 
   - 《竜馬とazusaの東京でゆらおうDi\!》（2009年4月14日 - 2011年3月、ディ\!ウェイヴ） - 安田竜馬との合同MC
-  - 《[A\&G ARTIST ZONE
-    2h](https://zh.wikipedia.org/wiki/A&G_ARTIST_ZONE_2h "wikilink")》（2010年10月4日
-    -
-    2012年12月24日、每周一、[超\!A\&G+](https://zh.wikipedia.org/wiki/超!A&G+ "wikilink")）
+  - 《[A\&G ARTIST ZONE 2h](https://zh.wikipedia.org/wiki/A&G_ARTIST_ZONE_2h "wikilink")》（2010年10月4日 - 2012年12月24日、每周一、[超\!A\&G+](https://zh.wikipedia.org/wiki/超!A&G+ "wikilink")）
 
 ### Live
 
   - 2008年
-      - 3月28日 - 在[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")「hills
-        パン工场」举办的「MJTV presents HORIELIVE
-        FACTORY」同[高冈亜衣](https://zh.wikipedia.org/wiki/高冈亜衣 "wikilink")、[美元智衣一起出演](https://zh.wikipedia.org/wiki/美元智衣 "wikilink")，首次Live演出成功。
-      - 4月19日 - 在[东京](../Page/东京.md "wikilink")「新宿RUIDO
-        K4」举办的150人限定Live单独出演，第2次的个人Live成功。
-      - 8月31日 - 在「渋谷RUIDOK 2」、9月10日「両国Fourvalley」、9月23日「小岩eM
-        SEVEN」Live出演。
+      - 3月28日 - 在[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")「hills パン工场」举办的「MJTV presents HORIELIVE FACTORY」同[高冈亜衣](https://zh.wikipedia.org/wiki/高冈亜衣 "wikilink")、[美元智衣一起出演](https://zh.wikipedia.org/wiki/美元智衣 "wikilink")，首次Live演出成功。
+      - 4月19日 - 在[东京](../Page/东京.md "wikilink")「新宿RUIDO K4」举办的150人限定Live单独出演，第2次的个人Live成功。
+      - 8月31日 - 在「渋谷RUIDOK 2」、9月10日「両国Fourvalley」、9月23日「小岩eM SEVEN」Live出演。
       - 10月29日 - 在「渋谷SPUMA」进行了首次在咖啡厅举办的个人Live。
-      - 11月13日 -
-        在[北千住首次进行街头演唱](https://zh.wikipedia.org/wiki/北千住 "wikilink")。
-      - 11月20日 -
-        在[北千住街头演唱](https://zh.wikipedia.org/wiki/北千住 "wikilink")。
+      - 11月13日 - 在[北千住首次进行街头演唱](https://zh.wikipedia.org/wiki/北千住 "wikilink")。
+      - 11月20日 - 在[北千住街头演唱](https://zh.wikipedia.org/wiki/北千住 "wikilink")。
       - 12月5日 - 第二次在「渋谷SPUMA」咖啡馆进行Live演出。
-      - 12月13日 - 在「四谷天窓.comfort」举行的活动「Super-right brain
-        sence～舞い降りたメロディーvol.1」出演。
+      - 12月13日 - 在「四谷天窓.comfort」举行的活动「Super-right brain sence～舞い降りたメロディーvol.1」出演。
   - 2009年
       - 1月20日 - 在「渋谷RUIDO K2」举办的「星・空・歌・音 vol.3」出演。
       - 2月27日 - 在「四谷天窓.comfort」举办的「comfort presents Precious\!」出演。
       - 4月17日 - 在「渋谷RUIDO K2」举办的「星・空・歌・音 vol.5」出演。
       - 5月12日 - 在「四谷天窓.comfort」举办的「comfort presents Precious\!」出演。
       - 5月27日 - 在「渋谷SPUMA」举办的「Pop's Living」出演。。
-      - 6月25日 - 在「渋谷SPUMA」举办的「ツノッチ Dream Party～Super-right brain sence
-        Vol.2」出演。
+      - 6月25日 - 在「渋谷SPUMA」举办的「ツノッチ Dream Party～Super-right brain sence Vol.2」出演。
       - 6月29日 - 在「沟の口」街头演出。
       - 7月18日 - 在「渋谷RUIDO K2」举办的奄美的活动「第3回むじらしゃホコラシャTOKYO NIGHT」出演。
       - 7月27日 - 在「四谷天窓.comfort」举办的「Precious\!」出演。
       - 8月10日 - 在「下北沢mona records」出演。
-      - 8月16日 - 在「渋谷RUIDO K4」举办的「Wonderful Opportunity Season 6
-        ～Acoustic～」出演。
+      - 8月16日 - 在「渋谷RUIDO K4」举办的「Wonderful Opportunity Season 6 ～Acoustic～」出演。
       - 10月1日 - 在「下北沢mona records」出演。
       - 10月20日 - 在「高田马场 live cafe mono」出演。
       - 10月28日 - 在「高円寺 楽や」出演。
@@ -76,8 +56,7 @@ Love》一曲重新登场，并与10月20日发表单曲《》。這兩張單曲
   - 2010年
       - 1月22日 - 在「四谷天窓.comfort」出演。
   - 2011年
-      - 6月3日 -
-        在「[中野太阳广场](https://zh.wikipedia.org/wiki/中野太阳广场 "wikilink")」举办的「～东日本大震灾チャリティアニソンコンサート～(AnimeSong)Smile」出演。
+      - 6月3日 - 在「[中野太阳广场](https://zh.wikipedia.org/wiki/中野太阳广场 "wikilink")」举办的「～东日本大震灾チャリティアニソンコンサート～(AnimeSong)Smile」出演。
 
 ## 作品
 
@@ -412,10 +391,7 @@ Character Songs w/OST「always vol.02」</p></td>
 
   - [azusa官方博客 Powered by Ameba](http://ameblo.jp/azusa-amami/)
 
-  - [WhiteDream 官方页面 |
-    azusa](https://web.archive.org/web/20100328180544/http://www.white-dream.com/azusa.html)
+  - [WhiteDream 官方页面 | azusa](https://web.archive.org/web/20100328180544/http://www.white-dream.com/azusa.html)
 
   -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:鹿兒島縣出身人物](https://zh.wikipedia.org/wiki/Category:鹿兒島縣出身人物 "wikilink")
-[Category:日本创作歌手](https://zh.wikipedia.org/wiki/Category:日本创作歌手 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:鹿兒島縣出身人物](https://zh.wikipedia.org/wiki/Category:鹿兒島縣出身人物 "wikilink") [Category:日本创作歌手](https://zh.wikipedia.org/wiki/Category:日本创作歌手 "wikilink")

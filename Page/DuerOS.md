@@ -1,7 +1,6 @@
-**DuerOS**，是[百度旗下度秘事業部推出的對話式人工智能系統](../Page/百度.md "wikilink")，面向[智能家居等](https://zh.wikipedia.org/wiki/智能家居 "wikilink")[物联网上游厂商提供人工智能语音识别与交互解决方案](../Page/物联网.md "wikilink")。
+**DuerOS**，是[百度](../Page/百度.md "wikilink")旗下度秘事業部推出的對話式人工智能系統，面向[智能家居等](https://zh.wikipedia.org/wiki/智能家居 "wikilink")[物联网](../Page/物联网.md "wikilink")上游厂商提供人工智能语音识别与交互解决方案。
 
-搭載設備可讓用戶以自然語言對話的交互方式，實現影音娛樂、信息查詢、生活服務、出行路況、設備控制、情感交流、鏈接服務、日程管理等10大類目的250多項功能的操作。目前已與國內外多家企業達成戰略合作，在中國和美國約有千人規模的團隊在開發人工智能技術。作為一個開放的操作系统，同時發布開放平台，搭建語音AI生態體系，支持第三方開發者的能力接入。度秘事業部還為B端廠商打造了語音智能分層解決方案Turnkey
-Solution，以適應各類型廠商不同層次的需求，幫助廠商完成智能化轉變。\[1\]
+搭載設備可讓用戶以自然語言對話的交互方式，實現影音娛樂、信息查詢、生活服務、出行路況、設備控制、情感交流、鏈接服務、日程管理等10大類目的250多項功能的操作。目前已與國內外多家企業達成戰略合作，在中國和美國約有千人規模的團隊在開發人工智能技術。作為一個開放的操作系统，同時發布開放平台，搭建語音AI生態體系，支持第三方開發者的能力接入。度秘事業部還為B端廠商打造了語音智能分層解決方案Turnkey Solution，以適應各類型廠商不同層次的需求，幫助廠商完成智能化轉變。\[1\]
 
 ## 歷史
 
@@ -15,13 +14,7 @@ Solution，以適應各類型廠商不同層次的需求，幫助廠商完成智
 
   - [DuerOS](https://dueros.baidu.com/)
 
-[Category:百度软件](https://zh.wikipedia.org/wiki/Category:百度软件 "wikilink")
-[Category:嵌入式作業系統](https://zh.wikipedia.org/wiki/Category:嵌入式作業系統 "wikilink")
-[Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink")
-[Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink")
-[Category:中國作業系統](https://zh.wikipedia.org/wiki/Category:中國作業系統 "wikilink")
-[Category:语音识别](https://zh.wikipedia.org/wiki/Category:语音识别 "wikilink")
-[Category:人工智能应用](https://zh.wikipedia.org/wiki/Category:人工智能应用 "wikilink")
+[Category:百度软件](https://zh.wikipedia.org/wiki/Category:百度软件 "wikilink") [Category:嵌入式作業系統](https://zh.wikipedia.org/wiki/Category:嵌入式作業系統 "wikilink") [Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink") [Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink") [Category:中國作業系統](https://zh.wikipedia.org/wiki/Category:中國作業系統 "wikilink") [Category:语音识别](https://zh.wikipedia.org/wiki/Category:语音识别 "wikilink") [Category:人工智能应用](https://zh.wikipedia.org/wiki/Category:人工智能应用 "wikilink")
 
 1.
 

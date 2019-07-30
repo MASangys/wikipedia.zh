@@ -1,7 +1,4 @@
-《**SHUFFLE\! Love
-Rainbow**》是[Navel於](../Page/Navel.md "wikilink")2011年4月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，《[SHUFFLE\!
-Essence+](../Page/SHUFFLE!.md "wikilink")》的[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。
+《**SHUFFLE\! Love Rainbow**》是[Navel](../Page/Navel.md "wikilink")於2011年4月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，《[SHUFFLE\! Essence+](../Page/SHUFFLE!.md "wikilink")》的[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。
 
 ## 故事简介
 
@@ -9,8 +6,7 @@ disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。
 
   - {{nihongo|【リシアンサス＆キキョウ 插曲】
 
-|「**双子姉妹のハネムーン**」|（※『[SHUFFLE！
-Essence＋](../Page/SHUFFLE!.md "wikilink")』 シア・キキョウEND後）}}
+|「**双子姉妹のハネムーン**」|（※『[SHUFFLE！ Essence＋](../Page/SHUFFLE!.md "wikilink")』 シア・キキョウEND後）}}
 
   -
     シア、キキョウ和稟成為戀人後，依舊沒幹過多少戀人應該干的事，這自然讓神王等得不耐煩。
@@ -22,8 +18,7 @@ Essence＋](../Page/SHUFFLE!.md "wikilink")』 シア・キキョウEND後）}}
 
   - {{nihongo|【楓 插曲】
 
-|「**夏の花火、続いていく約束**」|（※『[Really?
-Really\!](../Page/Really?_Really!.md "wikilink")』 楓記憶恢復之後）}}
+|「**夏の花火、続いていく約束**」|（※『[Really? Really\!](../Page/Really?_Really!.md "wikilink")』 楓記憶恢復之後）}}
 
   -
     春去秋來，又是一個夏天。作為兩人以戀人身份度過的第一個夏天，溢滿溫情的同時，多少還是會想“這樣真的就可以嗎”……
@@ -48,8 +43,7 @@ Really\!](../Page/Really?_Really!.md "wikilink")』 楓記憶恢復之後）}}
 |「**秘めやかな片思い**」}}
 
   -
-    在『[SHUFFLE！
-    Essence＋](../Page/SHUFFLE!.md "wikilink")』裡登場的男裝少女——瑠璃＝マツリ也終於正式成為稟的後宮成員之一。如果當初不是以那樣的方式相遇的話……
+    在『[SHUFFLE！ Essence＋](../Page/SHUFFLE!.md "wikilink")』裡登場的男裝少女——瑠璃＝マツリ也終於正式成為稟的後宮成員之一。如果當初不是以那樣的方式相遇的話……
 
 ## 登場人物
 
@@ -61,21 +55,17 @@ Really\!](../Page/Really?_Really!.md "wikilink")』 楓記憶恢復之後）}}
 <!-- end list -->
 
   -
-    生日：7月30日，身高：160cm，三圍：81/58/83，暱稱希亞（シア），神族的公主。神王的獨生女。爲了能再見到稟而來到人間界，稟的結婚候選。精力充沛的而熱心，平易近人，不論跟誰都能聊得起來、製造愉快氣氛的專門家。家事全般、運動神經也不錯，但是對讀書非常不擅長（課業能力驚人的低），很認真卻很喜歡惡作劇，做事十分努力也是優點之一。然而常常對神王進行暴走椅子攻擊。
-    其名字的由來是植物的洋桔梗的別名。
+    生日：7月30日，身高：160cm，三圍：81/58/83，暱稱希亞（シア），神族的公主。神王的獨生女。爲了能再見到稟而來到人間界，稟的結婚候選。精力充沛的而熱心，平易近人，不論跟誰都能聊得起來、製造愉快氣氛的專門家。家事全般、運動神經也不錯，但是對讀書非常不擅長（課業能力驚人的低），很認真卻很喜歡惡作劇，做事十分努力也是優點之一。然而常常對神王進行暴走椅子攻擊。 其名字的由來是植物的洋桔梗的別名。
 
 <!-- end list -->
 
   -
-    生日：11月10日，身高：162cm，三圍：83/59/84，土見稟的青梅竹馬。頭腦聰明、運動神經萬能、容姿端麗、擅長家務的完美超人。在學校極具人氣。是整個學校的偶像。
-    年幼的時候自己的母親與稟的雙親因事故而死亡，之後就和稟生活在一起。之前曾經因為這個事故而怨恨著稟、但長大後知道事實真相後，把憎恨轉換為200%的思慕之情。一手包辦所有的家事並且為稟準備所有的餐點。但是卻因為過於重視稟，對於自己的事情反而有些少根筋（有時會黑化）。
-    其名字的由來正是植物木芙蓉和楓樹。
+    生日：11月10日，身高：162cm，三圍：83/59/84，土見稟的青梅竹馬。頭腦聰明、運動神經萬能、容姿端麗、擅長家務的完美超人。在學校極具人氣。是整個學校的偶像。 年幼的時候自己的母親與稟的雙親因事故而死亡，之後就和稟生活在一起。之前曾經因為這個事故而怨恨著稟、但長大後知道事實真相後，把憎恨轉換為200%的思慕之情。一手包辦所有的家事並且為稟準備所有的餐點。但是卻因為過於重視稟，對於自己的事情反而有些少根筋（有時會黑化）。 其名字的由來正是植物木芙蓉和楓樹。
 
 <!-- end list -->
 
   -
-    暱稱莉姆（リム），是個神秘的女孩，神界與魔界共同開發的人工生命體。擁有全世界最強的魔力，但還不會使用魔法，她在魔界時，就認識奈莉奈，聽到リコリス對稟的描述後來到人間界尋找稟。
-    無口性格，對於和他人交際極端的不在行。喜歡抱着貓玩偶。沒有興趣和好惡。不過在遇到稟之後有了改變。 其名字的由來是植物櫻草屬的學名。
+    暱稱莉姆（リム），是個神秘的女孩，神界與魔界共同開發的人工生命體。擁有全世界最強的魔力，但還不會使用魔法，她在魔界時，就認識奈莉奈，聽到リコリス對稟的描述後來到人間界尋找稟。 無口性格，對於和他人交際極端的不在行。喜歡抱着貓玩偶。沒有興趣和好惡。不過在遇到稟之後有了改變。 其名字的由來是植物櫻草屬的學名。
 
 <!-- end list -->
 
@@ -107,7 +97,7 @@ Really\!](../Page/Really?_Really!.md "wikilink")』 楓記憶恢復之後）}}
 <!-- end list -->
 
   -
-    生日：1月1日。身高:167cm，三圍：77/57/82，她是在稟班上一個相當[平胸的女孩](../Page/平胸.md "wikilink")，但她在精神上補償它。喜歡假裝成一個記者，總是在追尋“最新的獨家新聞”。她經常帶著[數位相機出現](https://zh.wikipedia.org/wiki/數位相機 "wikilink")，偶爾會和樹策劃些小詭計。
+    生日：1月1日。身高:167cm，三圍：77/57/82，她是在稟班上一個相當[平胸](../Page/平胸.md "wikilink")的女孩，但她在精神上補償它。喜歡假裝成一個記者，總是在追尋“最新的獨家新聞”。她經常帶著[數位相機出現](https://zh.wikipedia.org/wiki/數位相機 "wikilink")，偶爾會和樹策劃些小詭計。
     兩眼瞳孔顏色不同：右眼為紅色，左眼為藍色。
 
 <!-- end list -->
@@ -128,8 +118,7 @@ Really\!](../Page/Really?_Really!.md "wikilink")』 楓記憶恢復之後）}}
 <!-- end list -->
 
   -
-    生日：？？？，身高：156cm　三圍：81/ 57/
-    82,來自神界的留學生，稟他們的同級生，對于神界的王女希亞心懷憧憬，為了親近她想要勸誘她進自己所屬的廣播部。
+    生日：？？？，身高：156cm　三圍：81/ 57/ 82,來自神界的留學生，稟他們的同級生，對于神界的王女希亞心懷憧憬，為了親近她想要勸誘她進自己所屬的廣播部。
 
 ## 制作人员
 
@@ -137,8 +126,7 @@ Really\!](../Page/Really?_Really!.md "wikilink")』 楓記憶恢復之後）}}
   - 原畫：[西又葵](../Page/西又葵.md "wikilink")、[鈴平ひろ](https://zh.wikipedia.org/wiki/鈴平ひろ "wikilink")
   - 音樂：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
   - 背景美術·CG监修：[斉藤陽子](https://zh.wikipedia.org/wiki/斉藤陽子 "wikilink")
-  - CG:
-    [斉藤陽子](https://zh.wikipedia.org/wiki/斉藤陽子 "wikilink")、[飴](https://zh.wikipedia.org/wiki/飴 "wikilink")、[たけぽん](https://zh.wikipedia.org/wiki/たけぽん "wikilink")、[真希](https://zh.wikipedia.org/wiki/真希 "wikilink")、[ゆう](https://zh.wikipedia.org/wiki/ゆう "wikilink")、[依織](https://zh.wikipedia.org/wiki/依織 "wikilink")、[まぐぅ](https://zh.wikipedia.org/wiki/まぐぅ "wikilink")
+  - CG: [斉藤陽子](https://zh.wikipedia.org/wiki/斉藤陽子 "wikilink")、[飴](https://zh.wikipedia.org/wiki/飴 "wikilink")、[たけぽん](https://zh.wikipedia.org/wiki/たけぽん "wikilink")、[真希](https://zh.wikipedia.org/wiki/真希 "wikilink")、[ゆう](https://zh.wikipedia.org/wiki/ゆう "wikilink")、[依織](https://zh.wikipedia.org/wiki/依織 "wikilink")、[まぐぅ](https://zh.wikipedia.org/wiki/まぐぅ "wikilink")
   - 背景:[コタロー](https://zh.wikipedia.org/wiki/コタロー "wikilink")、[灯色](https://zh.wikipedia.org/wiki/灯色 "wikilink")
   - 圖形系統:[まぐぅ](https://zh.wikipedia.org/wiki/まぐぅ "wikilink")
   - 程序・制作進行：[Ellefin](https://zh.wikipedia.org/wiki/Ellefin "wikilink")
@@ -158,23 +146,16 @@ Really\!](../Page/Really?_Really!.md "wikilink")』 楓記憶恢復之後）}}
 
 ## 評價
 
-《SHUFFLE\! Love
-Rainbow》在日本美少女游戏与动画相关商品销售网站Getchu.com的2011年4月销量榜上排名第8，\[2\]2011年上半年排名第37\[3\]。
+《SHUFFLE\! Love Rainbow》在日本美少女游戏与动画相关商品销售网站Getchu.com的2011年4月销量榜上排名第8，\[2\]2011年上半年排名第37\[3\]。
 
 ## 參考來源
 
 ## 外部連結
 
   - [Navel官方網站](http://www.project-navel.com/)
-  - [SHUFFLE\! Love
-    Rainbow官方網站](http://www.project-navel.com/shuffle_lr/)
+  - [SHUFFLE\! Love Rainbow官方網站](http://www.project-navel.com/shuffle_lr/)
 
-[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:日本成人遊戲fan_disc](https://zh.wikipedia.org/wiki/Category:日本成人遊戲fan_disc "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Navel游戏](https://zh.wikipedia.org/wiki/Category:Navel游戏 "wikilink")
+[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:日本成人遊戲fan_disc](https://zh.wikipedia.org/wiki/Category:日本成人遊戲fan_disc "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Navel游戏](https://zh.wikipedia.org/wiki/Category:Navel游戏 "wikilink")
 
 1.
 2.

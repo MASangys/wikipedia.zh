@@ -2,8 +2,7 @@
 
 ## 簡介
 
-  - 前作[ultra
-    soul是](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")「動」的意思，「GOLD」是「靜」的意思
+  - 前作[ultra soul是](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")「動」的意思，「GOLD」是「靜」的意思
   - 與上一張單曲一樣，連續2週獲得第一
   - 最終銷量約56.2萬張。
 
@@ -39,8 +38,4 @@
 
   - [2001年的音樂](http://ja.wikipedia.org/wiki/2001%E5%B9%B4%E3%81%AE%E9%9F%B3%E6%A5%BD)
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
-[Category:世界游泳錦標賽](https://zh.wikipedia.org/wiki/Category:世界游泳錦標賽 "wikilink")
-[Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink") [Category:世界游泳錦標賽](https://zh.wikipedia.org/wiki/Category:世界游泳錦標賽 "wikilink") [Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink") [Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")

@@ -1,5 +1,4 @@
-《**As A
-Sa**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[蔡卓妍發行的首張個人國語大碟](../Page/蔡卓妍.md "wikilink")，於2010年6月15日在香港發行。唱片共收錄10首歌曲，专辑内含CD+DVD、60頁台灣寫真、迷你歌词海報，港版加增精美明信片\[1\]。中國大陸於2010年6月23日發行，專輯內包含CD、60頁台灣寫真和迷你歌詞海報\[2\]。
+《**As A Sa**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[蔡卓妍](../Page/蔡卓妍.md "wikilink")發行的首張個人國語大碟，於2010年6月15日在香港發行。唱片共收錄10首歌曲，专辑内含CD+DVD、60頁台灣寫真、迷你歌词海報，港版加增精美明信片\[1\]。中國大陸於2010年6月23日發行，專輯內包含CD、60頁台灣寫真和迷你歌詞海報\[2\]。
 
 ## 曲目列表
 
@@ -35,10 +34,7 @@ Sa**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wiki
 
 </div>
 
-[Category:蔡卓妍音樂專輯](https://zh.wikipedia.org/wiki/Category:蔡卓妍音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:蔡卓妍音樂專輯](https://zh.wikipedia.org/wiki/Category:蔡卓妍音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.
 2.

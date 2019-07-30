@@ -1,18 +1,14 @@
-是由[史克威爾開發](../Page/史克威爾.md "wikilink")，並於1990年在[FC遊戲機平臺發行的](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，遊戲是[最終幻想系列的第三部作品](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")。本作是第一部使用職業轉換系統的最終幻想遊戲，也是[Final
-Fantasy系列中第一部在最初版本即取得百萬以上銷量的作品](https://zh.wikipedia.org/wiki/Final_Fantasy系列 "wikilink")。
+是由[史克威爾](../Page/史克威爾.md "wikilink")開發，並於1990年在[FC遊戲機平臺發行的](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，遊戲是[最終幻想系列的第三部作品](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")。本作是第一部使用職業轉換系統的最終幻想遊戲，也是[Final Fantasy系列中第一部在最初版本即取得百萬以上銷量的作品](https://zh.wikipedia.org/wiki/Final_Fantasy系列 "wikilink")。
 
 故事主角是受光之水晶引導的四個孤兒青年。水晶将自己的力量給了他們，並指示他們恢復世界的平衡。虽然他们不知道水晶话语的含义，但仍然能意识到其重要性，四青年将他们的使命告诉了收养家庭，并动身探索，找回世界的平衡。
 
-游戏于1990年4月27日在日本首發，FC版在日本出貨140萬份。2006年發行[任天堂DS重製版](../Page/任天堂DS.md "wikilink")，該版本也是《最終幻想III》首次在日本以外發行，而這也是當時唯一沒有在西方發行的最終幻想遊戲\[1\]。任天堂DS版在國際上獲得積極評價，並在全球售出193萬份。
+游戏于1990年4月27日在日本首發，FC版在日本出貨140萬份。2006年發行[任天堂DS](../Page/任天堂DS.md "wikilink")重製版，該版本也是《最終幻想III》首次在日本以外發行，而這也是當時唯一沒有在西方發行的最終幻想遊戲\[1\]。任天堂DS版在國際上獲得積極評價，並在全球售出193萬份。
 
-遊戲還在其他多個系統發行。FC原版的日本[Virtual
-Console服務於](../Page/Virtual_Console.md "wikilink")2009年7月21日發行，任天堂DS版的[iOS移植版於](https://zh.wikipedia.org/wiki/iOS "wikilink")2011年3月24日發行，Android版於2012年3月12日發行，[PlayStation
-Portable版於](../Page/PlayStation_Portable.md "wikilink")2012年9月下旬發行（日本以外透過[PlayStation
-Network下載](../Page/PlayStation_Network.md "wikilink")），並在2013年4月發行於修改自Android的[Ouya遊戲機](../Page/Ouya.md "wikilink")。
+遊戲還在其他多個系統發行。FC原版的日本[Virtual Console服務於](../Page/Virtual_Console.md "wikilink")2009年7月21日發行，任天堂DS版的[iOS移植版於](https://zh.wikipedia.org/wiki/iOS "wikilink")2011年3月24日發行，Android版於2012年3月12日發行，[PlayStation Portable版於](../Page/PlayStation_Portable.md "wikilink")2012年9月下旬發行（日本以外透過[PlayStation Network下載](../Page/PlayStation_Network.md "wikilink")），並在2013年4月發行於修改自Android的[Ouya](../Page/Ouya.md "wikilink")遊戲機。
 
 ## 遊戲玩法
 
-《最終幻想III》在結合系列前兩作遊戲元素的基礎上加入了新功能。遊戲延續了前兩作的[回合制戰鬥系統](https://zh.wikipedia.org/wiki/回合制 "wikilink")，但攻擊或治癒時會在目標角色頂部顯示[生命值變化](../Page/生命值.md "wikilink")，而非前兩作那樣用文字來顯示。和前兩作不同，當預先指定攻擊敵人被殺死後，角色將會自動攻擊其他敵人；然而和續作不同，魔法攻擊不會自動攻擊其他敌人\[2\]。
+《最終幻想III》在結合系列前兩作遊戲元素的基礎上加入了新功能。遊戲延續了前兩作的[回合制戰鬥系統](https://zh.wikipedia.org/wiki/回合制 "wikilink")，但攻擊或治癒時會在目標角色頂部顯示[生命值](../Page/生命值.md "wikilink")變化，而非前兩作那樣用文字來顯示。和前兩作不同，當預先指定攻擊敵人被殺死後，角色將會自動攻擊其他敵人；然而和續作不同，魔法攻擊不會自動攻擊其他敌人\[2\]。
 
 繼《[最終幻想II](https://zh.wikipedia.org/wiki/最終幻想II "wikilink")》取消經驗值系統後，《[最終幻想](https://zh.wikipedia.org/wiki/最終幻想_\(遊戲\) "wikilink")》的經驗值系統又迴歸《最終幻想III》。遊戲重新使用了首作的職業系統，同時做了一些修改。在首作中，玩家只能在遊戲開始時為角色選定職業，之後的遊戲將不能改變，而《最終幻想III》為系列引入了後來知名的“職業系統”。職業可以改變：在FC原版中，四人開始的職業都為“洋蔥劍士”，並隨著遊戲推進可轉換為各種職業。任何玩家角色都可以轉換為現有職業，並可在不同職業中相互轉換\[3\]。轉換職業需要耗費“能量值”，和金幣類似，該值會在戰鬥後由全隊獲得。每個職業可裝備的武器、防具飾品與可使用的魔法都不盡相同。角色的職業等級僅會在當前職業下增長。高職業等級可提升角色能力值，並降低將職業轉換回來所需的能量值\[4\]。
 
@@ -26,8 +22,7 @@ Network下載](../Page/PlayStation_Network.md "wikilink")），並在2013年4月
 
 ### 角色
 
-[FF3Freelancers.png](https://zh.wikipedia.org/wiki/File:FF3Freelancers.png "fig:FF3Freelancers.png")
-《最终幻想III》以偏远村庄乌鲁的四个[孤儿为主角](https://zh.wikipedia.org/wiki/孤儿 "wikilink")。後來從席德口中得知四人實際上並不是浮游大陸的人，且還是船難中少數生存下來的，天生體內富有光之力。在原版游戏中他们的职业是洋葱剑士，在任天堂DS重制版中为自由人。而DS版给他们设定了各自的外表、背景、性格与名称。而在官方漫畫化中四人分別為「烏姆希（ムウチ）」、「道格（ダグ）」、「J·巴伊（J·ボウイ）」、「梅爾菲（メルフィ）」。
+[FF3Freelancers.png](https://zh.wikipedia.org/wiki/File:FF3Freelancers.png "fig:FF3Freelancers.png") 《最终幻想III》以偏远村庄乌鲁的四个[孤儿为主角](https://zh.wikipedia.org/wiki/孤儿 "wikilink")。後來從席德口中得知四人實際上並不是浮游大陸的人，且還是船難中少數生存下來的，天生體內富有光之力。在原版游戏中他们的职业是洋葱剑士，在任天堂DS重制版中为自由人。而DS版给他们设定了各自的外表、背景、性格与名称。而在官方漫畫化中四人分別為「烏姆希（ムウチ）」、「道格（ダグ）」、「J·巴伊（J·ボウイ）」、「梅爾菲（メルフィ）」。
 
   - ：象征着「勇气」的光之戰士。乌鲁村长大，好奇心旺盛，情緒豐富，平時樂觀，但卻有很強的正義感的孤儿少年。儘管鲁内斯是一個男性角色，但名字「Luneth」是一個代表[拉丁語中的](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「月亮」。
 
@@ -198,73 +193,47 @@ PAL</p></td>
 
 ### 取消WonderSwan Color重制版
 
-[万代在](https://zh.wikipedia.org/wiki/万代 "wikilink")2000年公布了其掌上游戏机系统[WonderSwan
-Color的消息](../Page/WonderSwan_Color.md "wikilink")，并立刻和史克威尔就最终幻想前三作的重制达成协议\[18\]。虽然《最终幻想》和《最终幻想II》在消息公布当年就已发行，但《最终幻想III》从预定2001年晚期发行一再延迟，甚至当万代拿到游戏出版权后还在延迟\[19\]。最终当《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》在WonderSwan
-Color发行时，史克威尔开始对《最终幻想III》保持沉默。虽然游戏从未正式宣布取消，但官方网页在2002年随WonderSwan
-Color平台的结束而下线\[20\]。
+[万代在](https://zh.wikipedia.org/wiki/万代 "wikilink")2000年公布了其掌上游戏机系统[WonderSwan Color的消息](../Page/WonderSwan_Color.md "wikilink")，并立刻和史克威尔就最终幻想前三作的重制达成协议\[18\]。虽然《最终幻想》和《最终幻想II》在消息公布当年就已发行，但《最终幻想III》从预定2001年晚期发行一再延迟，甚至当万代拿到游戏出版权后还在延迟\[19\]。最终当《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》在WonderSwan Color发行时，史克威尔开始对《最终幻想III》保持沉默。虽然游戏从未正式宣布取消，但官方网页在2002年随WonderSwan Color平台的结束而下线\[20\]。
 
-在2007年，田中弘道在采访中解释称，放弃WonderSwan Color重制版是因为FC原版的大小与代码结构难以在WonderSwan
-Color上重制：
+在2007年，田中弘道在采访中解释称，放弃WonderSwan Color重制版是因为FC原版的大小与代码结构难以在WonderSwan Color上重制：
 
 ### 3D重制版
 
 [Hiromichi_Tanaka_and_Tomoya_Asano.jpg](https://zh.wikipedia.org/wiki/File:Hiromichi_Tanaka_and_Tomoya_Asano.jpg "fig:Hiromichi_Tanaka_and_Tomoya_Asano.jpg")
 
-在WonderSwan
-Color版重制失败，以及2003年史克威尔与前竞争对手[艾尼克斯合并为史克威尔艾尼克斯后](../Page/艾尼克斯.md "wikilink")，公司宣称游戏不会被完全遗忘，并曾考虑像前作那样，在[索尼电脑娱乐的](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation或任天堂的](../Page/PlayStation.md "wikilink")[Game
-Boy
-Advance上重制](../Page/Game_Boy_Advance.md "wikilink")\[21\]。史克威尔艾尼克斯也考虑在[PlayStation
-2上重制](../Page/PlayStation_2.md "wikilink")，但最终接受任天堂将本作开发于其新掌机平台[任天堂DS的要求](../Page/任天堂DS.md "wikilink")，这一决定后来推动增强了[任天堂DS的商业成功](../Page/任天堂DS.md "wikilink")\[22\]。《最终幻想III》重制的消息最早于2004年10月24日公布，但一年来都没有详细消息。项目由担任执行制作人兼总监的田中弘道领导。不同於單純更新圖像的《最終幻想》與《最終幻想II》重製版，這次重製完全使用了任天堂DS的[3D功能](../Page/三维计算机图形.md "wikilink")，因而需要他來指導與監督。除了3D圖形外，遊戲類似於2D
-PlayStation移植版的《最終幻想》，還加入了[全动态影象開場動畫](https://zh.wikipedia.org/wiki/全动态影象 "wikilink")。程序交由[Matrix
-Software開發](../Page/Matrix_Software.md "wikilink")\[23\]。
+在WonderSwan Color版重制失败，以及2003年史克威尔与前竞争对手[艾尼克斯](../Page/艾尼克斯.md "wikilink")合并为史克威尔艾尼克斯后，公司宣称游戏不会被完全遗忘，并曾考虑像前作那样，在[索尼电脑娱乐的](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")或任天堂的[Game Boy Advance上重制](../Page/Game_Boy_Advance.md "wikilink")\[21\]。史克威尔艾尼克斯也考虑在[PlayStation 2上重制](../Page/PlayStation_2.md "wikilink")，但最终接受任天堂将本作开发于其新掌机平台[任天堂DS](../Page/任天堂DS.md "wikilink")的要求，这一决定后来推动增强了[任天堂DS](../Page/任天堂DS.md "wikilink")的商业成功\[22\]。《最终幻想III》重制的消息最早于2004年10月24日公布，但一年来都没有详细消息。项目由担任执行制作人兼总监的田中弘道领导。不同於單純更新圖像的《最終幻想》與《最終幻想II》重製版，這次重製完全使用了任天堂DS的[3D功能](../Page/三维计算机图形.md "wikilink")，因而需要他來指導與監督。除了3D圖形外，遊戲類似於2D PlayStation移植版的《最終幻想》，還加入了[全动态影象開場動畫](https://zh.wikipedia.org/wiki/全动态影象 "wikilink")。程序交由[Matrix Software開發](../Page/Matrix_Software.md "wikilink")\[23\]。
 
-[Final_Fantasy_III_Nintendo_DS_Japanese.jpg](https://zh.wikipedia.org/wiki/File:Final_Fantasy_III_Nintendo_DS_Japanese.jpg "fig:Final_Fantasy_III_Nintendo_DS_Japanese.jpg")
-重制版由浅野智也制作，史克威尔艾尼克斯和Matrix
-Software合作开发。相场良佑担任[艺术监制](https://zh.wikipedia.org/wiki/艺术监制 "wikilink")，[吉田明彦为](../Page/吉田明彦.md "wikilink")3D画面重新设计原版角色，并设计了新玩家角色\[24\]。原来的普通无名的玩家角色换为了更具体的角色，并为其设计了新个性与背景故事，同时为其个性发展加入了新增事件；但是故事主线情节没有明显变化\[25\]。除了四名主角，其它角色也会像原作般加入队伍。但和前作不同，这些角色可能会在战斗中随机参战\[26\]。
+[Final_Fantasy_III_Nintendo_DS_Japanese.jpg](https://zh.wikipedia.org/wiki/File:Final_Fantasy_III_Nintendo_DS_Japanese.jpg "fig:Final_Fantasy_III_Nintendo_DS_Japanese.jpg") 重制版由浅野智也制作，史克威尔艾尼克斯和Matrix Software合作开发。相场良佑担任[艺术监制](https://zh.wikipedia.org/wiki/艺术监制 "wikilink")，[吉田明彦](../Page/吉田明彦.md "wikilink")为3D画面重新设计原版角色，并设计了新玩家角色\[24\]。原来的普通无名的玩家角色换为了更具体的角色，并为其设计了新个性与背景故事，同时为其个性发展加入了新增事件；但是故事主线情节没有明显变化\[25\]。除了四名主角，其它角色也会像原作般加入队伍。但和前作不同，这些角色可能会在战斗中随机参战\[26\]。
 
 重制版使用了调整平衡的新设计职业系统，将原来游戏开始的默认职业“洋葱剑士”改为了“自由人”，洋葱剑士改为了隐藏职业。此外游戏加入了新事件，一个新水晶和迷宫，并取消了能量点。和原版游戏不同，大部分的职业仍然对整个游戏有用。终极职业忍者和贤者，以及风水师等较少使用的职业被重新设计，使其像战士那样有相同的能力水平。游戏另外加入了一些职业专用特殊道具，当角色完全掌握了特定职业才能使用。作为能量点的替代，每个角色转职后都会受到临时限制，即几场战斗中内降低角色的能力值。这段时间称为“职业过渡阶段”，时长取决于新旧职业的相似度，以及角色对新职业的精通程度，限制战斗场数为0至10之间\[27\]。
 
-重制版利用了任天堂DS的[Wi-Fi功能](../Page/Wi-Fi.md "wikilink")，使用类似《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》邮件/莫古系统的方式通信。玩家可在游戏中以使用各种[莫古利给其它人寄送电子邮件](https://zh.wikipedia.org/wiki/莫古利 "wikilink")，也可以像寄送给其他人那样寄给多个游戏角色\[28\]。一些支线情节需要用这个系统解锁，如寻找洋葱剑士职业\[29\]。游戏使用了的中断存档功能，可让玩家关闭DS并在开机时继续游戏。但如同原版，迷宫中不能保存永久存档\[30\]。
+重制版利用了任天堂DS的[Wi-Fi](../Page/Wi-Fi.md "wikilink")功能，使用类似《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》邮件/莫古系统的方式通信。玩家可在游戏中以使用各种[莫古利给其它人寄送电子邮件](https://zh.wikipedia.org/wiki/莫古利 "wikilink")，也可以像寄送给其他人那样寄给多个游戏角色\[28\]。一些支线情节需要用这个系统解锁，如寻找洋葱剑士职业\[29\]。游戏使用了的中断存档功能，可让玩家关闭DS并在开机时继续游戏。但如同原版，迷宫中不能保存永久存档\[30\]。
 
-[iOS上的DS移植版于](https://zh.wikipedia.org/wiki/iOS "wikilink")2011年3月24日在[App商店发行](https://zh.wikipedia.org/wiki/App_Store "wikilink")。该版本在游戏系统和图像上做了改进，同时也重制了声音。但和其他玩家通信的邮件/莫古系统被移除，洋葱骑士职业需要通过其他方式获得\[31\]\[32\]。[Android上的DS重制版于](../Page/Android.md "wikilink")2012年6月在[Google
-Play上发行](../Page/Google_Play.md "wikilink")。[PlayStation
-Portable版于](../Page/PlayStation_Portable.md "wikilink")2012年9月20日在日本发行，其他区域在随后几天开放下载。2013年4月，史克威尔艾尼克斯[Ouya发行了重制版的](../Page/Ouya.md "wikilink")[高清移植版](https://zh.wikipedia.org/wiki/高清 "wikilink")，其也是该系统的首发游戏\[33\]。2013年12月29日发行了Windows
-Phone移植版。史克威尔艾尼克斯于2014年5月27日在[Steam上发布了移植自任天堂DS的Microsoft](../Page/Steam.md "wikilink")
-Windows高清版。
+[iOS上的DS移植版于](https://zh.wikipedia.org/wiki/iOS "wikilink")2011年3月24日在[App商店发行](https://zh.wikipedia.org/wiki/App_Store "wikilink")。该版本在游戏系统和图像上做了改进，同时也重制了声音。但和其他玩家通信的邮件/莫古系统被移除，洋葱骑士职业需要通过其他方式获得\[31\]\[32\]。[Android](../Page/Android.md "wikilink")上的DS重制版于2012年6月在[Google Play上发行](../Page/Google_Play.md "wikilink")。[PlayStation Portable版于](../Page/PlayStation_Portable.md "wikilink")2012年9月20日在日本发行，其他区域在随后几天开放下载。2013年4月，史克威尔艾尼克斯[Ouya](../Page/Ouya.md "wikilink")发行了重制版的[高清移植版](https://zh.wikipedia.org/wiki/高清 "wikilink")，其也是该系统的首发游戏\[33\]。2013年12月29日发行了Windows Phone移植版。史克威尔艾尼克斯于2014年5月27日在[Steam](../Page/Steam.md "wikilink")上发布了移植自任天堂DS的Microsoft Windows高清版。
 
 ## 音乐
 
-《最终幻想III》的音乐由系列主要作曲家[植松伸夫谱写](../Page/植松伸夫.md "wikilink")。游戏中几乎全部音乐的收录于音乐合辑《最终幻想III
-原声音乐版》中，专辑由史克威尔/[NTT出版于](https://zh.wikipedia.org/wiki/NTT出版 "wikilink")1991年发行，后于1994年和2004年由NTT出版再版\[34\]。声乐[改编专辑](https://zh.wikipedia.org/wiki/改编_\(音乐\) "wikilink")《最终幻想III
-悠久的风传说》选录了游戏中的音乐，专辑由植松伸夫编曲，Dido配人声。专辑由Data
-M于1990年发行，并于1994年由Polystar再版\[35\]。
+《最终幻想III》的音乐由系列主要作曲家[植松伸夫](../Page/植松伸夫.md "wikilink")谱写。游戏中几乎全部音乐的收录于音乐合辑《最终幻想III 原声音乐版》中，专辑由史克威尔/[NTT出版于](https://zh.wikipedia.org/wiki/NTT出版 "wikilink")1991年发行，后于1994年和2004年由NTT出版再版\[34\]。声乐[改编专辑](https://zh.wikipedia.org/wiki/改编_\(音乐\) "wikilink")《最终幻想III 悠久的风传说》选录了游戏中的音乐，专辑由植松伸夫编曲，Dido配人声。专辑由Data M于1990年发行，并于1994年由Polystar再版\[35\]。
 
-游戏多个曲目收录于各种最终幻想编曲合辑专辑中，包括《最终幻想声乐合辑I－祈祷－》、《最终幻想声乐合辑II
-“爱将成长”》\[36\]\[37\]，以及[前卫金属乐团](https://zh.wikipedia.org/wiki/前卫金属 "wikilink")[黑魔导士的第二和第三张专辑中](../Page/黑魔导士.md "wikilink")\[38\]\[39\]。一些游戏曲目后来重制收录于其他史克威尔作品中，如《[陆行鸟赛车](https://zh.wikipedia.org/wiki/陆行鸟赛车 "wikilink")》\[40\]和《[陆行鸟不可思议迷宫](https://zh.wikipedia.org/wiki/陆行鸟不可思议迷宫 "wikilink")》中\[41\]。一些曲目片段至今仍然知名，并在一系列最终幻想管弦音乐会上多次演奏，如《Tour
-de Japon: Music from Final Fantasy》音乐会系列和《Distant Worlds - Music from
-Final Fantasy》系列\[42\]\[43\]。
+游戏多个曲目收录于各种最终幻想编曲合辑专辑中，包括《最终幻想声乐合辑I－祈祷－》、《最终幻想声乐合辑II “爱将成长”》\[36\]\[37\]，以及[前卫金属乐团](https://zh.wikipedia.org/wiki/前卫金属 "wikilink")[黑魔导士](../Page/黑魔导士.md "wikilink")的第二和第三张专辑中\[38\]\[39\]。一些游戏曲目后来重制收录于其他史克威尔作品中，如《[陆行鸟赛车](https://zh.wikipedia.org/wiki/陆行鸟赛车 "wikilink")》\[40\]和《[陆行鸟不可思议迷宫](https://zh.wikipedia.org/wiki/陆行鸟不可思议迷宫 "wikilink")》中\[41\]。一些曲目片段至今仍然知名，并在一系列最终幻想管弦音乐会上多次演奏，如《Tour de Japon: Music from Final Fantasy》音乐会系列和《Distant Worlds - Music from Final Fantasy》系列\[42\]\[43\]。
 
-任天堂DS重制版配乐由[关户刚和](https://zh.wikipedia.org/wiki/关户刚 "wikilink")[河盛庆次编曲](https://zh.wikipedia.org/wiki/河盛庆次 "wikilink")，植松伸夫监督\[44\]。该版本的原声又NTT出版于2006年以《最终幻想III
-原声音乐》为题发行，其中收录了改编版曲目以及几个新增曲目\[45\]。
+任天堂DS重制版配乐由[关户刚和](https://zh.wikipedia.org/wiki/关户刚 "wikilink")[河盛庆次编曲](https://zh.wikipedia.org/wiki/河盛庆次 "wikilink")，植松伸夫监督\[44\]。该版本的原声又NTT出版于2006年以《最终幻想III 原声音乐》为题发行，其中收录了改编版曲目以及几个新增曲目\[45\]。
 
 ## 评价
 
 FC版《最终幻想III》被视作当时角色扮演游戏的典型，同时其高难度需要玩家大量练级\[46\]。在2006年日本游戏杂志《[Fami通](../Page/Fami通.md "wikilink")》举办的史上最佳电子游戏票选中，原版《最终幻想III》排到第8位\[47\]。截至2003年3月31日，FC版在日本出货量達140万份\[48\]。
 
-任天堂DS重制版也获得高销量。[IGN称](../Page/IGN.md "wikilink")“鉴于DS的普及，FFIII的吸引力不足为怪”\[49\]。DS版在日本首周销量为50万，打破了史克威尔艾尼克斯最初只有35万的预期\[50\]。截至2007年8月6日，DS版在日本售出99万，在北美售出46万\[51\]。截至2008年8月8日，DS版在欧洲售出48万\[52\]。以上數值加總後，DS版全球累計賣出193萬份。
+任天堂DS重制版也获得高销量。[IGN](../Page/IGN.md "wikilink")称“鉴于DS的普及，FFIII的吸引力不足为怪”\[49\]。DS版在日本首周销量为50万，打破了史克威尔艾尼克斯最初只有35万的预期\[50\]。截至2007年8月6日，DS版在日本售出99万，在北美售出46万\[51\]。截至2008年8月8日，DS版在欧洲售出48万\[52\]。以上數值加總後，DS版全球累計賣出193萬份。
 
-评论大多给DS重制版《最终幻想III》正面评价，游戏在[GameRankings的汇总得分为](https://zh.wikipedia.org/wiki/GameRankings "wikilink")77%\[53\]。[1UP.com称游戏是](../Page/1UP.com.md "wikilink")“专门给RPG爱好者的RPG”，并称虽然职业系统较原作有了重大改进，但总还觉得“非常有限”。然而评论称，重要的是要记住《最终幻想III》对北美玩家是“一部历史片，一个非常成功系列的缺失一角”，并称相比于其它最终幻想游戏，“狂热PRG爱好者”应该更喜欢本作。评论又称其为“迄今最好的掌上PRG游戏之一”\[54\]。[GameSpy主张道](../Page/GameSpy.md "wikilink")，和史克威尔艾尼克斯新游戏相比，对本作的乐趣“完全取决于你对游戏的渴望，以及看来原始枯燥的陈古游戏机制”。评论还称游戏“非常有挑战性”，并补充称，“游戏人渴望如此，但另一些人则会不快于游戏常不友好的本性”\[55\]。
+评论大多给DS重制版《最终幻想III》正面评价，游戏在[GameRankings的汇总得分为](https://zh.wikipedia.org/wiki/GameRankings "wikilink")77%\[53\]。[1UP.com](../Page/1UP.com.md "wikilink")称游戏是“专门给RPG爱好者的RPG”，并称虽然职业系统较原作有了重大改进，但总还觉得“非常有限”。然而评论称，重要的是要记住《最终幻想III》对北美玩家是“一部历史片，一个非常成功系列的缺失一角”，并称相比于其它最终幻想游戏，“狂热PRG爱好者”应该更喜欢本作。评论又称其为“迄今最好的掌上PRG游戏之一”\[54\]。[GameSpy](../Page/GameSpy.md "wikilink")主张道，和史克威尔艾尼克斯新游戏相比，对本作的乐趣“完全取决于你对游戏的渴望，以及看来原始枯燥的陈古游戏机制”。评论还称游戏“非常有挑战性”，并补充称，“游戏人渴望如此，但另一些人则会不快于游戏常不友好的本性”\[55\]。
 
-[GameTrailers认为虽然剧情简单且队员普通](../Page/GameTrailers.md "wikilink")，但游戏剧本是“一流的”。它补充称，虽然玩家应该想到练一些级是必须的，但游戏中“探险区域大都太小了”\[56\]。IGN称《最终幻想III》会是那种“让当今主流最终幻想爱好者相当沮丧”的游戏，并称独特的职业系统概念在那时“绝对会让玩家震惊”，但对于今天《[最终幻想XII](../Page/最终幻想XII.md "wikilink")》的许可盘则“简直不能比”。评论还称重制拖慢了游戏，因为战斗本应“不过是几秒中滚过”，但现在“延长到近一分钟”。评论的另一不满时游戏发行到了任天堂DS，称掌机上屏幕在“游戏75%的时间”是不活跃的，就算只显示插画都比这好。但IGN也称游戏的“图形惊人，配乐相当出色”。他们还称从2D到3D的过渡“做得不错”\[57\]。
+[GameTrailers](../Page/GameTrailers.md "wikilink")认为虽然剧情简单且队员普通，但游戏剧本是“一流的”。它补充称，虽然玩家应该想到练一些级是必须的，但游戏中“探险区域大都太小了”\[56\]。IGN称《最终幻想III》会是那种“让当今主流最终幻想爱好者相当沮丧”的游戏，并称独特的职业系统概念在那时“绝对会让玩家震惊”，但对于今天《[最终幻想XII](../Page/最终幻想XII.md "wikilink")》的许可盘则“简直不能比”。评论还称重制拖慢了游戏，因为战斗本应“不过是几秒中滚过”，但现在“延长到近一分钟”。评论的另一不满时游戏发行到了任天堂DS，称掌机上屏幕在“游戏75%的时间”是不活跃的，就算只显示插画都比这好。但IGN也称游戏的“图形惊人，配乐相当出色”。他们还称从2D到3D的过渡“做得不错”\[57\]。
 
 ## 影響
 
-1991年至1992年，[角川書店的FC遊戲雜誌](../Page/角川書店.md "wikilink")《マル勝ファミコン》連載了衣谷游的漫畫《悠久之風傳說
-自最終幻想III》（）。漫画改编自[寺田宪史的原剧情](../Page/寺田宪史.md "wikilink")，讲述了整个游戏中发生的情节。其后来由角川书店发行了三本[单行本](https://zh.wikipedia.org/wiki/单行本 "wikilink")：《悠久之风传说1》、《2》和《3》\[58\]。
+1991年至1992年，[角川書店](../Page/角川書店.md "wikilink")的FC遊戲雜誌《マル勝ファミコン》連載了衣谷游的漫畫《悠久之風傳說 自最終幻想III》（）。漫画改编自[寺田宪史](../Page/寺田宪史.md "wikilink")的原剧情，讲述了整个游戏中发生的情节。其后来由角川书店发行了三本[单行本](https://zh.wikipedia.org/wiki/单行本 "wikilink")：《悠久之风传说1》、《2》和《3》\[58\]。
 
-洋葱剑士和黑暗之云成为了《[最终幻想
-纷争](https://zh.wikipedia.org/wiki/最终幻想_纷争 "wikilink")》中《最终幻想III》的勇者和反派角色，日文版分别由[福山润和](https://zh.wikipedia.org/wiki/福山润 "wikilink")[池田昌子配音](../Page/池田昌子.md "wikilink")，英文版分别由亚伦·史盘和劳拉·贝利配音\[59\]。角色同样出现在其续作《[最终幻想
-纷争012](https://zh.wikipedia.org/wiki/最终幻想_纷争012 "wikilink")》中\[60\]。
+洋葱剑士和黑暗之云成为了《[最终幻想 纷争](https://zh.wikipedia.org/wiki/最终幻想_纷争 "wikilink")》中《最终幻想III》的勇者和反派角色，日文版分别由[福山润和](https://zh.wikipedia.org/wiki/福山润 "wikilink")[池田昌子](../Page/池田昌子.md "wikilink")配音，英文版分别由亚伦·史盘和劳拉·贝利配音\[59\]。角色同样出现在其续作《[最终幻想 纷争012](https://zh.wikipedia.org/wiki/最终幻想_纷争012 "wikilink")》中\[60\]。
 
 ## 參考文獻
 
@@ -273,23 +242,7 @@ FC版《最终幻想III》被视作当时角色扮演游戏的典型，同时其
   -
   -
   -
-[Category:1990年电子游戏](https://zh.wikipedia.org/wiki/Category:1990年电子游戏 "wikilink")
-[Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
-[Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink")
-[Category:任天堂3DS_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_Virtual_Console游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:Ouya遊戲](https://zh.wikipedia.org/wiki/Category:Ouya遊戲 "wikilink")
-[Category:任天堂Wi-Fi连接游戏](https://zh.wikipedia.org/wiki/Category:任天堂Wi-Fi连接游戏 "wikilink")
-[Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
-[Category:女性反派电子游戏](https://zh.wikipedia.org/wiki/Category:女性反派电子游戏 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
-[Category:Wii_U_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_U_Virtual_Console游戏 "wikilink")
-[Category:Matrix_Software游戏](https://zh.wikipedia.org/wiki/Category:Matrix_Software游戏 "wikilink")
+[Category:1990年电子游戏](https://zh.wikipedia.org/wiki/Category:1990年电子游戏 "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink") [Category:任天堂3DS_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_Virtual_Console游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:Ouya遊戲](https://zh.wikipedia.org/wiki/Category:Ouya遊戲 "wikilink") [Category:任天堂Wi-Fi连接游戏](https://zh.wikipedia.org/wiki/Category:任天堂Wi-Fi连接游戏 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:女性反派电子游戏](https://zh.wikipedia.org/wiki/Category:女性反派电子游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:Wii_U_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_U_Virtual_Console游戏 "wikilink") [Category:Matrix_Software游戏](https://zh.wikipedia.org/wiki/Category:Matrix_Software游戏 "wikilink")
 
 1.
 

@@ -1,7 +1,4 @@
-**《[MY
-AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒獎典禮 "wikilink")2010》**（MY
-AOD Favourites Awards
-2010）於2010年12月3日晚在假香港[九龍](../Page/九龍.md "wikilink")[香格里拉酒店舉行](../Page/香格里拉酒店.md "wikilink")，當晚共頒發7個獎項。由[王浩信及](../Page/王浩信.md "wikilink")[李亞男主持](https://zh.wikipedia.org/wiki/李亞男 "wikilink")。
+**《[MY AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒獎典禮 "wikilink")2010》**（MY AOD Favourites Awards 2010）於2010年12月3日晚在假香港[九龍](../Page/九龍.md "wikilink")[香格里拉酒店](../Page/香格里拉酒店.md "wikilink")舉行，當晚共頒發7個獎項。由[王浩信](../Page/王浩信.md "wikilink")及[李亞男主持](https://zh.wikipedia.org/wiki/李亞男 "wikilink")。
 
 ## 出席艺人
 
@@ -170,5 +167,4 @@ AOD Favourites Awards
   - [星和無綫電視大獎2010](../Page/星和無綫電視大獎2010.md "wikilink")
   - [萬千星輝頒獎典禮2010](../Page/萬千星輝頒獎典禮2010.md "wikilink")
 
-[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")
-[Category:MY_AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/Category:MY_AOD我的最愛頒獎典禮 "wikilink")
+[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink") [Category:MY_AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/Category:MY_AOD我的最愛頒獎典禮 "wikilink")

@@ -295,7 +295,7 @@
 <td><p><em><a href="https://zh.wikipedia.org/wiki/澳亞航空" title="wikilink">澳亞航空</a></em></p></td>
 <td><p>AUSTASIA</p></td>
 <td><p>澳洲</p></td>
-<td><p>與<a href="../Page/澳洲航空.md" title="wikilink">澳洲航空合併</a><br />
+<td><p>與<a href="../Page/澳洲航空.md" title="wikilink">澳洲航空</a>合併<br />
 前IATA代碼：IM</p></td>
 </tr>
 <tr class="even">
@@ -4118,7 +4118,7 @@
 <td><p><em><a href="https://zh.wikipedia.org/wiki/澳亞航空" title="wikilink">澳亞航空</a></em></p></td>
 <td><p>AUSTRALIAN</p></td>
 <td><p>澳洲</p></td>
-<td><p>已與<a href="../Page/澳洲航空.md" title="wikilink">澳洲航空合併</a></p></td>
+<td><p>已與<a href="../Page/澳洲航空.md" title="wikilink">澳洲航空</a>合併</p></td>
 </tr>
 <tr class="odd">
 <td><p>AV</p></td>

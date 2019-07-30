@@ -1,19 +1,16 @@
 **Tipson-Cohen反应**，最早由在华盛顿国家标准局的 Stuart Tipson 和 Alex Cohen 首先报道。\[1\]
 
-与[锌粉和](../Page/锌.md "wikilink")[碘化钠在](../Page/碘化钠.md "wikilink")[二甲基甲酰胺等溶剂中回流时](https://zh.wikipedia.org/wiki/二甲基甲酰胺 "wikilink")，含两个相邻的伯[磺酰氧基的](https://zh.wikipedia.org/wiki/磺酰氧基 "wikilink")[糖转变为相应的不饱和糖](https://zh.wikipedia.org/wiki/糖 "wikilink")。\[2\]
+与[锌](../Page/锌.md "wikilink")粉和[碘化钠](../Page/碘化钠.md "wikilink")在[二甲基甲酰胺等溶剂中回流时](https://zh.wikipedia.org/wiki/二甲基甲酰胺 "wikilink")，含两个相邻的伯[磺酰氧基的](https://zh.wikipedia.org/wiki/磺酰氧基 "wikilink")[糖转变为相应的不饱和糖](https://zh.wikipedia.org/wiki/糖 "wikilink")。\[2\]
 
 ## 背景
 
 不饱和糖是重要的合成前体，可参与多种反应。\[3\]可用于天然产物和寡糖的合成，也可用作[狄尔斯-阿尔德反应中的双烯体](https://zh.wikipedia.org/wiki/狄尔斯-阿尔德反应 "wikilink")。\[4\]
 
-Tipson-Cohen
-反应为同式（*syn*）或对式（*anti*）消除机理。产物为烯烃，产率中等。\[5\]反应受周边取代基的影响。下面是吡喃葡糖苷和吡喃甘露苷的反应机理。\[6\]
+Tipson-Cohen 反应为同式（*syn*）或对式（*anti*）消除机理。产物为烯烃，产率中等。\[5\]反应受周边取代基的影响。下面是吡喃葡糖苷和吡喃甘露苷的反应机理。\[6\]
 
 
 :[Scheme_1_Noren_Hirani.gif](https://zh.wikipedia.org/wiki/File:Scheme_1_Noren_Hirani.gif "fig:Scheme_1_Noren_Hirani.gif")
-图1．吡喃葡糖苷和吡喃半乳糖苷发生同式消除。\[7\]吡喃甘露苷则发生对式消除。\[8\]注：R基可为甲磺酰基
-CH<sub>3</sub>SO<sub>2</sub> (Ms) 或对甲苯磺酰基
-CH<sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub> (Ts)。
+图1．吡喃葡糖苷和吡喃半乳糖苷发生同式消除。\[7\]吡喃甘露苷则发生对式消除。\[8\]注：R基可为甲磺酰基 CH<sub>3</sub>SO<sub>2</sub> (Ms) 或对甲苯磺酰基 CH<sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub> (Ts)。
 
 ## 反应机理
 
@@ -21,8 +18,7 @@ CH<sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub> (Ts)。
 
 图2．首步取代产生碘代物是反应的决速步，\[9\]生成的碘代物很快转化为不饱和糖，故很难检测到。以叠氮化物进行实验，证实亲核进攻发生在C-3，相应的含氮中间体可分离出来。
 
-从 β-吡喃葡糖苷、β-吡喃甘露糖苷、α-吡喃葡糖苷到
-α-吡喃甘露糖苷，反应活性逐渐降低。β-吡喃甘露苷比β-葡苷反应慢、产率低是因为其中含有一个与C-3相邻的直键磺酰氧基，\[10\]该直键基团导致过渡态中立体作用增加，产生不利的两个磺酰氧基间的重叠构象。α-葡苷中有一个β-反式的直键基团（即异头的甲氧基，相对C-3磺酰氧基），该基团同样导致上述两个基团间发生不利的立体作用。而α-甘露苷则同时具有β-甘露苷和β-葡苷的不利成分，所以速率最慢、产率也最低。\[11\]
+从 β-吡喃葡糖苷、β-吡喃甘露糖苷、α-吡喃葡糖苷到 α-吡喃甘露糖苷，反应活性逐渐降低。β-吡喃甘露苷比β-葡苷反应慢、产率低是因为其中含有一个与C-3相邻的直键磺酰氧基，\[10\]该直键基团导致过渡态中立体作用增加，产生不利的两个磺酰氧基间的重叠构象。α-葡苷中有一个β-反式的直键基团（即异头的甲氧基，相对C-3磺酰氧基），该基团同样导致上述两个基团间发生不利的立体作用。而α-甘露苷则同时具有β-甘露苷和β-葡苷的不利成分，所以速率最慢、产率也最低。\[11\]
 
 ## 反应条件
 
@@ -49,20 +45,16 @@ CH<sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub> (Ts)。
 
 ## 参考资料
 
-[Category:糖化学](https://zh.wikipedia.org/wiki/Category:糖化学 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:糖化学](https://zh.wikipedia.org/wiki/Category:糖化学 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.  R.S. Tipson and A. Cohen, Carbohydrate Research, 1 (1965), 338-340.
 
-2.  E.Albano, D. Horton, and T. Tsuchiya. Carbohydrate Research, 2
-    (1966), 349-362
+2.  E.Albano, D. Horton, and T. Tsuchiya. Carbohydrate Research, 2 (1966), 349-362
 
 3.
-4.  T. Yamazaki and K. Matsuda. Carbohydrate Research, 50 (1976),
-    279-281.
+4.  T. Yamazaki and K. Matsuda. Carbohydrate Research, 50 (1976), 279-281.
 
-5.  T. Yamazaki and K. Matsuda. Journal of the Chemical Society, Perkin
-    Transactions 1, 1 (1977), 1981-1984.
+5.  T. Yamazaki and K. Matsuda. Journal of the Chemical Society, Perkin Transactions 1, 1 (1977), 1981-1984.
 
 6.
 7.
@@ -71,12 +63,10 @@ CH<sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub> (Ts)。
 10.
 11.
 12.
-13. L. Baptistella, A. Neto, et al. Tetrahedron Letters, 34 (1993),
-    8407-8410.
+13. L. Baptistella, A. Neto, et al. Tetrahedron Letters, 34 (1993), 8407-8410.
 
 14.
 15.
-16. E.Albano, D. Horton, and T. Tsuchiya. Carbohydrate Research, 2
-    (1966), 349-362.
+16. E.Albano, D. Horton, and T. Tsuchiya. Carbohydrate Research, 2 (1966), 349-362.
 
 17.

@@ -1,11 +1,6 @@
-《**SUGAR DARK
-被埋葬的黑闇與少女**》（），是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[新井円侍創作的](https://zh.wikipedia.org/wiki/新井円侍 "wikilink")[輕小說](../Page/輕小說.md "wikilink")，由[mebae負責插畫](https://zh.wikipedia.org/wiki/mebae "wikilink")。於[角川書店](../Page/角川書店.md "wikilink")[The
-Sneaker](../Page/The_Sneaker.md "wikilink")2009年2月號開始連載，單行本全一卷。繁體中文版由[台灣角川發行](../Page/台灣角川.md "wikilink")；简体中文版由[天闻角川发行](../Page/天闻角川.md "wikilink")，[湖南美术出版社出版](../Page/湖南美术出版社.md "wikilink")，沿用台湾角川译本，因[中国大陆出版审查所限](../Page/中华人民共和国出版物审查制度.md "wikilink")，简中版将书名改为《**SUGAR
-DARK 被埋葬的-{黑暗}-**》。
+《**SUGAR DARK 被埋葬的黑闇與少女**》（），是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[新井円侍創作的](https://zh.wikipedia.org/wiki/新井円侍 "wikilink")[輕小說](../Page/輕小說.md "wikilink")，由[mebae負責插畫](https://zh.wikipedia.org/wiki/mebae "wikilink")。於[角川書店](../Page/角川書店.md "wikilink")[The Sneaker](../Page/The_Sneaker.md "wikilink")2009年2月號開始連載，單行本全一卷。繁體中文版由[台灣角川](../Page/台灣角川.md "wikilink")發行；简体中文版由[天闻角川](../Page/天闻角川.md "wikilink")发行，[湖南美术出版社](../Page/湖南美术出版社.md "wikilink")出版，沿用台湾角川译本，因[中国大陆出版审查所限](../Page/中华人民共和国出版物审查制度.md "wikilink")，简中版将书名改为《**SUGAR DARK 被埋葬的-{黑暗}-**》。
 
-由第14回（2009年）[Sneaker大賞](../Page/Sneaker大賞.md "wikilink")〈大賞〉，「新井碩野」名義作品《SUGAR
-DARK
--Digger\&Keeper-》改名而成。是自2003年《[涼宮春日的憂鬱](../Page/涼宮春日系列.md "wikilink")》以來，再度得到大賞之作品。
+由第14回（2009年）[Sneaker大賞](../Page/Sneaker大賞.md "wikilink")〈大賞〉，「新井碩野」名義作品《SUGAR DARK -Digger\&Keeper-》改名而成。是自2003年《[涼宮春日的憂鬱](../Page/涼宮春日系列.md "wikilink")》以來，再度得到大賞之作品。
 
 ## 概要
 
@@ -19,7 +14,7 @@ DARK
     死去的父親是名石匠，有兩名哥哥。
   - 梅麗亞‧瑪斯‧葛雷布
     本作的女主角，守墓者，14歲。
-    擁有茶褐色長頭髮，[湛藍的眼睛的少女](https://zh.wikipedia.org/wiki/天藍色 "wikilink")。總是穿著深[藏青色連帽外套](../Page/藏青色.md "wikilink")。
+    擁有茶褐色長頭髮，[湛藍的眼睛的少女](https://zh.wikipedia.org/wiki/天藍色 "wikilink")。總是穿著深[藏青色](../Page/藏青色.md "wikilink")連帽外套。
   - 卡拉斯
     卡拉斯是[烏鴉](https://zh.wikipedia.org/wiki/烏鴉 "wikilink")（KARASU）的化名，性別不詳。經常能出奇不意地出現在主角面前，
     把主角稱為「地鼠先生」，所以主角也以莫古拉(地鼠)自稱。
@@ -132,6 +127,4 @@ DARK
 
   - [新井円侍ホームページ「環状炉」](http://www.araiengine.com/)（作者Blog）
 
-[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:怪物题材作品](https://zh.wikipedia.org/wiki/Category:怪物题材作品 "wikilink")
+[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:怪物题材作品](https://zh.wikipedia.org/wiki/Category:怪物题材作品 "wikilink")

@@ -1,10 +1,9 @@
-**HIROSHI
-ARO**\[1\]（，），是[日本](../Page/日本.md "wikilink")[東京都出身的](../Page/東京都.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。
+**HIROSHI ARO**\[1\]（，），是[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")出身的[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。
 
 ## 人物
 
   - 自畫像是戴著眼鏡的[鱷魚](https://zh.wikipedia.org/wiki/鱷魚 "wikilink")，也用於作品《短吻鱷》系列主角造型上。
-  - 1980年第13回[赤塚賞準入選出道後](https://zh.wikipedia.org/wiki/赤塚賞 "wikilink")，當過[秋本治](../Page/秋本治.md "wikilink")、[加藤唯史的助手](../Page/加藤唯史.md "wikilink")。
+  - 1980年第13回[赤塚賞準入選出道後](https://zh.wikipedia.org/wiki/赤塚賞 "wikilink")，當過[秋本治](../Page/秋本治.md "wikilink")、[加藤唯史](../Page/加藤唯史.md "wikilink")的助手。
   - 早期曾以本名發行[同人誌](../Page/同人誌.md "wikilink")；其他名義還有「」、「」。
   - 開設工作室「」。對外行程、網站經營由其妻負責，其妻自稱「」。
 
@@ -139,8 +138,6 @@ ARO**\[1\]（，），是[日本](../Page/日本.md "wikilink")[東京都出身�
   - [](http://ameblo.jp/aro-yome/)
 
   -
-[Category:日本漫画家](https://zh.wikipedia.org/wiki/Category:日本漫画家 "wikilink")
-[Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
+[Category:日本漫画家](https://zh.wikipedia.org/wiki/Category:日本漫画家 "wikilink") [Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
 
-1.  [大然文化引進時直接表記日文或英文名稱](../Page/大然文化.md "wikilink")，[東立也採日文名稱](https://zh.wikipedia.org/wiki/東立 "wikilink")。
+1.  [大然文化](../Page/大然文化.md "wikilink")引進時直接表記日文或英文名稱，[東立也採日文名稱](https://zh.wikipedia.org/wiki/東立 "wikilink")。

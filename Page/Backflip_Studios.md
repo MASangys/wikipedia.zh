@@ -1,22 +1,14 @@
-**Backflip
-Studios**是一個電子遊戲開發和發售商，其總部設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[科羅拉多州的博爾德](https://zh.wikipedia.org/wiki/博爾德_\(科羅拉多州\) "wikilink")。\[1\]Backflip
-Studios是於2009年4月由朱利安·法羅、戴爾·托馬斯和湯姆·班林德建立。\[2\]於2009年8月，它宣布公司成功籌得145,000[美元以繼續開發](../Page/美元.md "wikilink")[iPhone
-OS遊戲](https://zh.wikipedia.org/wiki/iPhone_OS "wikilink")。\[3\]這間公司最有名的莫過於它的免費iPhone
-OS遊戲——[扔紙團](https://zh.wikipedia.org/wiki/扔紙團 "wikilink")（Paper
-Toss），一個累積逾2400萬次下載的遊戲。\[4\]
+**Backflip Studios**是一個電子遊戲開發和發售商，其總部設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[科羅拉多州的博爾德](https://zh.wikipedia.org/wiki/博爾德_\(科羅拉多州\) "wikilink")。\[1\]Backflip Studios是於2009年4月由朱利安·法羅、戴爾·托馬斯和湯姆·班林德建立。\[2\]於2009年8月，它宣布公司成功籌得145,000[美元](../Page/美元.md "wikilink")以繼續開發[iPhone OS遊戲](https://zh.wikipedia.org/wiki/iPhone_OS "wikilink")。\[3\]這間公司最有名的莫過於它的免費iPhone OS遊戲——[扔紙團](https://zh.wikipedia.org/wiki/扔紙團 "wikilink")（Paper Toss），一個累積逾2400萬次下載的遊戲。\[4\]
 
 ## iphone OS apps
 
 ### 玩偶衝擊
 
-**玩偶衝擊**（*Ragdoll
-Blaster*）是一個[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。遊戲中，玩家須以一玩偶大炮解決難題。\[5\]
+**玩偶衝擊**（*Ragdoll Blaster*）是一個[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。遊戲中，玩家須以一玩偶大炮解決難題。\[5\]
 
 ### 扔紙團
 
-**扔紙團**（*Paper
-Toss*）是一個模擬遊戲。遊戲中，玩家要將紙團扔進垃圾筒中。遊戲附設多種不同難度及挑戰模式。\[6\]該遊戲是Backflip
-Studios最成功的遊戲，共累積逾2400萬次下載。
+**扔紙團**（*Paper Toss*）是一個模擬遊戲。遊戲中，玩家要將紙團扔進垃圾筒中。遊戲附設多種不同難度及挑戰模式。\[6\]該遊戲是Backflip Studios最成功的遊戲，共累積逾2400萬次下載。
 
 ### 扔紙團：巡迴世界之旅
 
@@ -36,13 +28,11 @@ Studios最成功的遊戲，共累積逾2400萬次下載。
 
 ### 塗鴉球
 
-**塗鴉球**（*Graffiti
-Ball*）是一個動作遊戲，遊戲主題為**塗鴉**。遊戲中，玩家要畫線以令一彈跳球盡快到達每一關的出口。\[11\]
+**塗鴉球**（*Graffiti Ball*）是一個動作遊戲，遊戲主題為**塗鴉**。遊戲中，玩家要畫線以令一彈跳球盡快到達每一關的出口。\[11\]
 
 ### 隧道射擊
 
-**隧道射擊**（*Tunnel Shoot*）是一由Backflip Studios和[Team
-Phobic共同開發的遊戲](https://zh.wikipedia.org/wiki/Team_Phobic "wikilink")。遊戲中，玩家要控制一艘船穿插於一條無盡、彩色並充滿障礙和敵人的隧道中。\[12\]
+**隧道射擊**（*Tunnel Shoot*）是一由Backflip Studios和[Team Phobic共同開發的遊戲](https://zh.wikipedia.org/wiki/Team_Phobic "wikilink")。遊戲中，玩家要控制一艘船穿插於一條無盡、彩色並充滿障礙和敵人的隧道中。\[12\]
 
 ### NinJump
 
@@ -92,33 +82,19 @@ Phobic共同開發的遊戲](https://zh.wikipedia.org/wiki/Team_Phobic "wikilink
 
   - [官方網站](http://www.backflipstudios.com/)
 
-[Category:電子遊戲產業](https://zh.wikipedia.org/wiki/Category:電子遊戲產業 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:電子遊戲產業](https://zh.wikipedia.org/wiki/Category:電子遊戲產業 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
-1.  [linkedin company
-    profile](http://www.linkedin.com/companies/backflip-studios)
-2.  [Touch Arcade Backflip Studios Success and Upcoming
-    Games](http://toucharcade.com/2010/06/10/wwdc-2010-backflip-studios-success-and-upcoming-games)
+1.  [linkedin company profile](http://www.linkedin.com/companies/backflip-studios)
+2.  [Touch Arcade Backflip Studios Success and Upcoming Games](http://toucharcade.com/2010/06/10/wwdc-2010-backflip-studios-success-and-upcoming-games)
 3.
-4.  [Pocket Gamer Backflip builds on Paper Toss'
-    success](http://www.pocketgamer.biz/r/PG.Biz/Backflip+Studios+news/news.asp?c=22754)
-5.  [Pocket Gamer Ragdoll Blaster
-    Review](http://www.pocketgamer.co.uk/r/iPhone/Ragdoll+Blaster/review.asp?c=13531)
-6.  \[<http://www.appolicious.com/apps/paper-toss-backflip-studios->::23711
-    appolicious\]
-7.  [app chatter paper toss world tour
-    review](http://www.appchatter.com/2009/08/app-review-paper-toss-world-tour-by-backflip-studios/)
-8.  [Pocket Gamer Harbor Havoc
-    Review](http://www.pocketgamer.co.uk/r/iPhone/Harbor+Havoc+3D/review.asp?c=16788)
-9.  [Touch Arcade Ragdoll Blaster 2
-    Review](http://toucharcade.com/2010/03/01/ragdoll-blaster-2-propels-head-first-into-the-appstore)
-10. [Touch Arcade Strike Knight
-    Review](http://toucharcade.com/2010/05/17/backflip-studios-releases-free-strike-knight)
-11. [Pocket Gamer Graffiti Ball
-    Review](http://www.pocketgamer.co.uk/r/iPhone/Graffiti+Ball/news.asp?c=22035)
-12. [148 Apps Tunnel Shoot
-    Review](http://www.148apps.com/reviews/tunnel-shoot-review)
-13. [148 Apps NinJump
-    Review](http://www.148apps.com/news/ninjump-climbs-app-store)
-14. [Android and Me Paper Toss for
-    Android](http://androidandme.com/2010/06/games/paper-toss-for-android)
+4.  [Pocket Gamer Backflip builds on Paper Toss' success](http://www.pocketgamer.biz/r/PG.Biz/Backflip+Studios+news/news.asp?c=22754)
+5.  [Pocket Gamer Ragdoll Blaster Review](http://www.pocketgamer.co.uk/r/iPhone/Ragdoll+Blaster/review.asp?c=13531)
+6.  \[<http://www.appolicious.com/apps/paper-toss-backflip-studios->::23711 appolicious\]
+7.  [app chatter paper toss world tour review](http://www.appchatter.com/2009/08/app-review-paper-toss-world-tour-by-backflip-studios/)
+8.  [Pocket Gamer Harbor Havoc Review](http://www.pocketgamer.co.uk/r/iPhone/Harbor+Havoc+3D/review.asp?c=16788)
+9.  [Touch Arcade Ragdoll Blaster 2 Review](http://toucharcade.com/2010/03/01/ragdoll-blaster-2-propels-head-first-into-the-appstore)
+10. [Touch Arcade Strike Knight Review](http://toucharcade.com/2010/05/17/backflip-studios-releases-free-strike-knight)
+11. [Pocket Gamer Graffiti Ball Review](http://www.pocketgamer.co.uk/r/iPhone/Graffiti+Ball/news.asp?c=22035)
+12. [148 Apps Tunnel Shoot Review](http://www.148apps.com/reviews/tunnel-shoot-review)
+13. [148 Apps NinJump Review](http://www.148apps.com/news/ninjump-climbs-app-store)
+14. [Android and Me Paper Toss for Android](http://androidandme.com/2010/06/games/paper-toss-for-android)

@@ -1,4 +1,4 @@
-**nobodyknows+**（ノーバディノウズ）是1999年形成的[嘻哈乐团](../Page/嘻哈.md "wikilink")。2002年正式于日本乐坛登场亮相。
+**nobodyknows+**（ノーバディノウズ）是1999年形成的[嘻哈](../Page/嘻哈.md "wikilink")乐团。2002年正式于日本乐坛登场亮相。
 
 ## 成员
 
@@ -6,48 +6,41 @@
 
   -
     **-{ちびまるお}-**
-    艺名修改历程：HIDDEN
-    FISH（-{ヒドゥンフィッシュ}-）→-{漫☆画次郎（-{まんがじろう}-）}-(自2012年起)→-{ちびまるお}-(自2013年起)
-    出生日期：1979年7月21日，原名：坂梨
-    博樹，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")：A
-    [岐阜县出身](../Page/岐阜县.md "wikilink")，[岐阜县立土岐商业高等学校经理科毕业](https://zh.wikipedia.org/wiki/岐阜县立土岐商业高等学校 "wikilink")。以纯真可爱的声音成为了nobodyknows+的吉祥物。
+    艺名修改历程：HIDDEN FISH（-{ヒドゥンフィッシュ}-）→-{漫☆画次郎（-{まんがじろう}-）}-(自2012年起)→-{ちびまるお}-(自2013年起)
+    出生日期：1979年7月21日，原名：坂梨 博樹，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")：A
+    [岐阜县](../Page/岐阜县.md "wikilink")出身，[岐阜县立土岐商业高等学校经理科毕业](https://zh.wikipedia.org/wiki/岐阜县立土岐商业高等学校 "wikilink")。以纯真可爱的声音成为了nobodyknows+的吉祥物。
 
 <!-- end list -->
 
   -
     **crystal boy**（-{クリスタルボーイ}-）
-    出生日期：1977年7月4日，原名：加藤
-    正道，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")：O
-    [爱知县](https://zh.wikipedia.org/wiki/爱知县 "wikilink")[名古屋市出身](../Page/名古屋市.md "wikilink")。
+    出生日期：1977年7月4日，原名：加藤 正道，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")：O
+    [爱知县](https://zh.wikipedia.org/wiki/爱知县 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身。
 
 <!-- end list -->
 
   -
     **ヤス一番?**（-{やすいちばん}-）
-    出生日期：1978年11月29日，原名：-{鈴木
-    やすゆき}-，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")：A
+    出生日期：1978年11月29日，原名：-{鈴木 やすゆき}-，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")：A
     [岐阜县](../Page/岐阜县.md "wikilink")[多治見市](../Page/多治見市.md "wikilink")[滝呂町出身](https://zh.wikipedia.org/wiki/滝呂町 "wikilink")。
 
 <!-- end list -->
 
   -
     **ノリ・ダ・ファンキーシビレサス**
-    出生日期：1980年8月20日，原名：高橋
-    哲，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")：O
+    出生日期：1980年8月20日，原名：高橋 哲，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")：O
 
 <!-- end list -->
 
   -
     **DJ MITSU**（-{ディージェイみつ}-）
-    出生日期：1972年3月12日，原名：山本
-    充洋，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")：A
+    出生日期：1972年3月12日，原名：山本 充洋，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")：A
 
 ### 以往成员
 
   -
     **g-ton**（-{ジートン}-）
-    出生日期：1975年1月22日，原名：後藤
-    和幸，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")：B
+    出生日期：1975年1月22日，原名：後藤 和幸，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")：B
 
 ## 唱片
 
@@ -103,15 +96,10 @@
     5.
 ### 专辑
 
-1.  [Do You
-    Know?](https://zh.wikipedia.org/wiki/Do_You_Know? "wikilink")（2004.6.30）
-2.  [5MC&1DJ](https://zh.wikipedia.org/wiki/5MC&1DJ "wikilink")
-    （2005.11.2）
-3.  [vulgarhythm](https://zh.wikipedia.org/wiki/vulgarhythm "wikilink")
-    (2007.8.22)
-4.  [best of
-    nobodyknows+](https://zh.wikipedia.org/wiki/best_of_nobodyknows+ "wikilink")
-    (2009.3.11)
+1.  [Do You Know?](https://zh.wikipedia.org/wiki/Do_You_Know? "wikilink")（2004.6.30）
+2.  [5MC&1DJ](https://zh.wikipedia.org/wiki/5MC&1DJ "wikilink") （2005.11.2）
+3.  [vulgarhythm](https://zh.wikipedia.org/wiki/vulgarhythm "wikilink") (2007.8.22)
+4.  [best of nobodyknows+](https://zh.wikipedia.org/wiki/best_of_nobodyknows+ "wikilink") (2009.3.11)
 
 ### DVD
 
@@ -126,10 +114,6 @@
   - （日语）[nobodyknows+](http://www.sigma-sounds-studio.jp/03artist/03artist_nk.html)
   - （日语）[$TAX RECORDS](http://www.sigma-sounds-studio.jp/02label.html)
   - （日语）[SMOnline](http://www.sonymusic.co.jp/Music/Arch/AI/nobodyknows/)
-  - （日语）[official
-    site](https://web.archive.org/web/20070406233020/http://www.nobodyknows.jp/)
+  - （日语）[official site](https://web.archive.org/web/20070406233020/http://www.nobodyknows.jp/)
 
-[Category:1999年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年成立的音樂團體 "wikilink")
-[Category:日本乐团](https://zh.wikipedia.org/wiki/Category:日本乐团 "wikilink")
-[Category:日本男子演唱团体](https://zh.wikipedia.org/wiki/Category:日本男子演唱团体 "wikilink")
-[Category:日本嘻哈團體](https://zh.wikipedia.org/wiki/Category:日本嘻哈團體 "wikilink")
+[Category:1999年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年成立的音樂團體 "wikilink") [Category:日本乐团](https://zh.wikipedia.org/wiki/Category:日本乐团 "wikilink") [Category:日本男子演唱团体](https://zh.wikipedia.org/wiki/Category:日本男子演唱团体 "wikilink") [Category:日本嘻哈團體](https://zh.wikipedia.org/wiki/Category:日本嘻哈團體 "wikilink")

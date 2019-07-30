@@ -1,7 +1,4 @@
-《**LOVE
-SURVIVE**》是日本女子樂隊[SCANDAL的第](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年7月27日由[Epic
-Records Japan
-Inc.發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
+《**LOVE SURVIVE**》是日本女子樂隊[SCANDAL的第](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年7月27日由[Epic Records Japan Inc.發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概要
 
@@ -22,9 +19,6 @@ Inc.發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 外部連結
 
-  - [Epic Records Japan
-    Inc.介紹網站](http://www.sonymusic.co.jp/Music/Arch/ES/scandal/index.html)
+  - [Epic Records Japan Inc.介紹網站](http://www.sonymusic.co.jp/Music/Arch/ES/scandal/index.html)
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:SCANDAL歌曲](https://zh.wikipedia.org/wiki/Category:SCANDAL歌曲 "wikilink")
-[Category:日本史詩唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本史詩唱片歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:SCANDAL歌曲](https://zh.wikipedia.org/wiki/Category:SCANDAL歌曲 "wikilink") [Category:日本史詩唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本史詩唱片歌曲 "wikilink")

@@ -1,8 +1,8 @@
-《**Vamp\!**》（），[日本](../Page/日本.md "wikilink")[輕小說作家](../Page/輕小說.md "wikilink")[成田良悟的作品](../Page/成田良悟.md "wikilink")，在[電擊文庫發售](../Page/電擊文庫.md "wikilink")，插畫是[エナミカツミ](https://zh.wikipedia.org/wiki/エナミカツミ "wikilink")。
+《**Vamp\!**》（），[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作家[成田良悟](../Page/成田良悟.md "wikilink")的作品，在[電擊文庫](../Page/電擊文庫.md "wikilink")發售，插畫是[エナミカツミ](https://zh.wikipedia.org/wiki/エナミカツミ "wikilink")。
 
 ## 概要
 
-内容是以住著各式各様的[吸血鬼的格爾華斯島作為舞台](../Page/吸血鬼.md "wikilink")，描寫當中的所生的騷動。比起其他系列，並未有著明確的目標是其特徴。
+内容是以住著各式各様的[吸血鬼](../Page/吸血鬼.md "wikilink")的格爾華斯島作為舞台，描寫當中的所生的騷動。比起其他系列，並未有著明確的目標是其特徴。
 
 ## 大要
 
@@ -246,6 +246,4 @@
 
   - （ISBN 9784048689281； 2010年10月）
 
-[Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink")
-[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink")
-[Category:吸血鬼題材小說](https://zh.wikipedia.org/wiki/Category:吸血鬼題材小說 "wikilink")
+[Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink") [Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink") [Category:吸血鬼題材小說](https://zh.wikipedia.org/wiki/Category:吸血鬼題材小說 "wikilink")

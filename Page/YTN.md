@@ -1,34 +1,25 @@
-**YTN**（Yonhap Television
-News）是一條[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")24小時[新聞頻道](../Page/新聞頻道.md "wikilink")，成立於1993年9月14日，並在1995年3月1日开播，曾為[韓國聯合通訊社的](../Page/韓國聯合通訊社.md "wikilink")[子公司](../Page/子公司.md "wikilink")，其政治倾向中立。口號為「**Y**es\!
-**T**op **N**ews」。
+**YTN**（Yonhap Television News）是一條[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")24小時[新聞頻道](../Page/新聞頻道.md "wikilink")，成立於1993年9月14日，並在1995年3月1日开播，曾為[韓國聯合通訊社](../Page/韓國聯合通訊社.md "wikilink")的[子公司](../Page/子公司.md "wikilink")，其政治倾向中立。口號為「**Y**es\! **T**op **N**ews」。
 
 ## 歷史
 
   - 1993年9月14日 (株)聯合Television News（**(주)연합텔레비뉴스**）創立
   - 1995年3月1日 新聞頻道開始放送
-  - 2004年12月
-    演藝新聞專門放送頻道[YTNstar開播](https://zh.wikipedia.org/wiki/YTNstar "wikilink")
-  - 2005年12月1日 [YTN
-    DMB開播](https://zh.wikipedia.org/wiki/YTN_DMB "wikilink")
-  - 2007年9月17日 科學頻道[YTN
-    Science開播](https://zh.wikipedia.org/wiki/YTN_Science "wikilink")
+  - 2004年12月 演藝新聞專門放送頻道[YTNstar開播](https://zh.wikipedia.org/wiki/YTNstar "wikilink")
+  - 2005年12月1日 [YTN DMB開播](https://zh.wikipedia.org/wiki/YTN_DMB "wikilink")
+  - 2007年9月17日 科學頻道[YTN Science開播](https://zh.wikipedia.org/wiki/YTN_Science "wikilink")
   - 2008年3月1日  試驗放送
   - 2008年4月30日 YTN FM 開播(FM 94.5MHz, 呼號：HLQV-FM)，後改為「YTN NEWS FM」
   - 2009年7月1日 開始全面HD放送
-  - 2011年7月1日 氣象頻道[YTN
-    Weather開播](https://zh.wikipedia.org/wiki/YTN_Weather "wikilink")
-  - 2013年3月 美洲地方廣播[YTN FM 100.3
-    HD2開播](https://zh.wikipedia.org/wiki/YTN_FM_100.3_HD2 "wikilink")
+  - 2011年7月1日 氣象頻道[YTN Weather開播](https://zh.wikipedia.org/wiki/YTN_Weather "wikilink")
+  - 2013年3月 美洲地方廣播[YTN FM 100.3 HD2開播](https://zh.wikipedia.org/wiki/YTN_FM_100.3_HD2 "wikilink")
 
 ## 節目
 
   - 《YTN24 늦은 밤 에디션》（ YTN24 Late Night Edition ）：每日 00:00-04:25。
   - 《YTN24 저녁 판》（ YTN24 Evening Edition ）：星期一至五 20:15-20:45。
-  - 《YTN24 주말 판》（ YTN24 Weekend Edition ）：星期六、日
-    09:00-10:00、11:00-12:00、15:00-16:00、19:00-21:10。
+  - 《YTN24 주말 판》（ YTN24 Weekend Edition ）：星期六、日 09:00-10:00、11:00-12:00、15:00-16:00、19:00-21:10。
   - 《NEWS 출발》（ News Start ）：每日04:30-06:50、星期一至五07:00-07:40。
-  - 《NEWS 와이드》（ News Wide
-    ）：星期六、日07:00-09:00、10:00-11:00、14:00-15:00、18:00-19:00。
+  - 《NEWS 와이드》（ News Wide ）：星期六、日07:00-09:00、10:00-11:00、14:00-15:00、18:00-19:00。
   - 《이슈오늘》（ Issue Today ）：星期一至五08:00-09:30。
   - 《뉴스브리핑》（ News Briefing ）：星期一至五09:49-09:57。
   - 《NEWS 타워》（ News Tower ）：星期一至五10:00-11:45。
@@ -50,6 +41,4 @@ News）是一條[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")24小�
 
   - [官方网站](http://www.ytn.co.kr/)
 
-[Category:韓國電視台](https://zh.wikipedia.org/wiki/Category:韓國電視台 "wikilink")
-[Category:24小時電視新聞頻道](https://zh.wikipedia.org/wiki/Category:24小時電視新聞頻道 "wikilink")
-[Category:YTN_Group](https://zh.wikipedia.org/wiki/Category:YTN_Group "wikilink")
+[Category:韓國電視台](https://zh.wikipedia.org/wiki/Category:韓國電視台 "wikilink") [Category:24小時電視新聞頻道](https://zh.wikipedia.org/wiki/Category:24小時電視新聞頻道 "wikilink") [Category:YTN_Group](https://zh.wikipedia.org/wiki/Category:YTN_Group "wikilink")

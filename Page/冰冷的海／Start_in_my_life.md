@@ -1,5 +1,4 @@
-**冰冷的海／Start in my
-life**（）是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第七張單曲](../Page/倉木麻衣.md "wikilink")，於2001年2月7日發行。初動20萬，累積銷量35萬。本作是倉木麻衣本人的第一張雙A面單曲。
+**冰冷的海／Start in my life**（）是[日本](../Page/日本.md "wikilink")歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第七張單曲，於2001年2月7日發行。初動20萬，累積銷量35萬。本作是倉木麻衣本人的第一張雙A面單曲。
 
 ## 曲目
 
@@ -34,8 +33,4 @@ life**（）是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第�
 </tbody>
 </table>
 
-[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink")
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
-[Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink")
-[Category:海題材歌曲](https://zh.wikipedia.org/wiki/Category:海題材歌曲 "wikilink")
+[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink") [Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink") [Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink") [Category:海題材歌曲](https://zh.wikipedia.org/wiki/Category:海題材歌曲 "wikilink")

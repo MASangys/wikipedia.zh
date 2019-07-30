@@ -1,21 +1,16 @@
-在[HTTP中](https://zh.wikipedia.org/wiki/HTTP "wikilink")，**基本认证**（Basic
-access
-authentication）是一种用来允许[网页浏览器或其他客户端程序在请求时提供](../Page/网页浏览器.md "wikilink")[用户名和](https://zh.wikipedia.org/wiki/用户名 "wikilink")[口令形式的身份凭证的一种登录验证方式](https://zh.wikipedia.org/wiki/口令 "wikilink")。
+在[HTTP中](https://zh.wikipedia.org/wiki/HTTP "wikilink")，**基本认证**（Basic access authentication）是一种用来允许[网页浏览器](../Page/网页浏览器.md "wikilink")或其他客户端程序在请求时提供[用户名和](https://zh.wikipedia.org/wiki/用户名 "wikilink")[口令形式的身份凭证的一种登录验证方式](https://zh.wikipedia.org/wiki/口令 "wikilink")。
 
-在发送之前是以用户名追加一个冒号然后[串接上口令](https://zh.wikipedia.org/wiki/串接 "wikilink")，并将得出的结果[字符串再用](../Page/字符串.md "wikilink")[Base64算法编码](../Page/Base64.md "wikilink")。例如，提供的用户名是`Aladdin`、口令是`open
-sesame`，则拼接后的结果就是`Aladdin:open
-sesame`，然后再将其用Base64编码，得到`QWxhZGRpbjpvcGVuIHNlc2FtZQ==`。最终将Base64编码的字符串发送出去，由接收者解码得到一个由冒号分隔的用户名和口令的字符串。
+在发送之前是以用户名追加一个冒号然后[串接上口令](https://zh.wikipedia.org/wiki/串接 "wikilink")，并将得出的结果[字符串](../Page/字符串.md "wikilink")再用[Base64](../Page/Base64.md "wikilink")算法编码。例如，提供的用户名是`Aladdin`、口令是`open sesame`，则拼接后的结果就是`Aladdin:open sesame`，然后再将其用Base64编码，得到`QWxhZGRpbjpvcGVuIHNlc2FtZQ==`。最终将Base64编码的字符串发送出去，由接收者解码得到一个由冒号分隔的用户名和口令的字符串。
 
 虽然对用户名和口令的Base64算法编码结果很难用肉眼识别解码，但它仍可以极为轻松地被计算机所解码，就像其容易编码一样。编码这一步骤的目的并不是安全与隐私，而是为将用户名和口令中的不兼容的字符转换为均与[HTTP协议兼容的字符集](https://zh.wikipedia.org/wiki/HTTP协议 "wikilink")。
 
-最初，基本认证是定义在HTTP 1.0规范（RFC 1945）中，后续的有关安全的信息可以在HTTP 1.1规范（RFC
-2616）和HTTP认证规范（RFC 2617）中找到。
+最初，基本认证是定义在HTTP 1.0规范（RFC 1945）中，后续的有关安全的信息可以在HTTP 1.1规范（RFC 2616）和HTTP认证规范（RFC 2617）中找到。
 
 ## 优点
 
-基本认证的一个优点是基本上所有流行的网页浏览器都支持基本认证\[1\]。基本认证很少在可公开访问的[互联网](../Page/互联网.md "wikilink")[网站上使用](https://zh.wikipedia.org/wiki/网站 "wikilink")，有时候会在小的私有系统中使用（如[路由器网页管理接口](../Page/路由器.md "wikilink")）。后来的机制[HTTP摘要认证是为替代基本认证而开发的](../Page/HTTP摘要认证.md "wikilink")，允许密钥以相对安全的方式在不安全的通道上传输。
+基本认证的一个优点是基本上所有流行的网页浏览器都支持基本认证\[1\]。基本认证很少在可公开访问的[互联网](../Page/互联网.md "wikilink")[网站上使用](https://zh.wikipedia.org/wiki/网站 "wikilink")，有时候会在小的私有系统中使用（如[路由器](../Page/路由器.md "wikilink")网页管理接口）。后来的机制[HTTP摘要认证](../Page/HTTP摘要认证.md "wikilink")是为替代基本认证而开发的，允许密钥以相对安全的方式在不安全的通道上传输。
 
-程序员和系统管理员有时会在可信网络环境中使用基本认证，使用[Telnet或其他明文网络协议工具手动地测试Web服务器](../Page/Telnet.md "wikilink")。这是一个麻烦的过程，但是网络上传输的内容是人可读的，以便进行诊断。
+程序员和系统管理员有时会在可信网络环境中使用基本认证，使用[Telnet](../Page/Telnet.md "wikilink")或其他明文网络协议工具手动地测试Web服务器。这是一个麻烦的过程，但是网络上传输的内容是人可读的，以便进行诊断。
 
 ## 缺点
 
@@ -162,7 +157,7 @@ Content-Type: text/html
 Content-Length: 10476
 ```
 
-（跟随一个空行，随后是需凭据页的[HTML文本](../Page/HTML.md "wikilink")）。
+（跟随一个空行，随后是需凭据页的[HTML](../Page/HTML.md "wikilink")文本）。
 
 ## 参考文献和注释
 
@@ -172,12 +167,11 @@ Content-Length: 10476
 
 ## 外部链接
 
-  - [RFC2617: HTTP Authentication: Basic and Digest Access
-    Authentication](http://tools.ietf.org/html/rfc2617)
+  - [RFC2617: HTTP Authentication: Basic and Digest Access Authentication](http://tools.ietf.org/html/rfc2617)
 
 [分类:認證方法](https://zh.wikipedia.org/wiki/分类:認證方法 "wikilink")
 
 [Category:HTTP](https://zh.wikipedia.org/wiki/Category:HTTP "wikilink")
 
-1.  这里的“所有的流行网页浏览器”包括任何目前市场份额超过0.2%的网页浏览器，参见[网页浏览器比较了解网页浏览器对HTTP的支持](../Page/网页浏览器比较.md "wikilink")
+1.  这里的“所有的流行网页浏览器”包括任何目前市场份额超过0.2%的网页浏览器，参见[网页浏览器比较](../Page/网页浏览器比较.md "wikilink")了解网页浏览器对HTTP的支持
 2.  [1](http://www.tolaris.com/2009/09/08/logging-out-of-http-auth-with-firefox/)

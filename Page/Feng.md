@@ -7,10 +7,8 @@
   - 2005年3月4日 -
   - 2006年4月21日 - [望见青空之丘](../Page/望见青空之丘.md "wikilink")（）
   - 2007年7月27日 - [染红的街道](../Page/染红的街道.md "wikilink")（）
-  - 2010年10月15日 -
-    [架向星空之桥](https://zh.wikipedia.org/wiki/架向星空之桥 "wikilink")（）
-  - 2012年4月27日 -
-    [架向星空之桥AA](https://zh.wikipedia.org/wiki/架向星空之桥 "wikilink")（）
+  - 2010年10月15日 - [架向星空之桥](https://zh.wikipedia.org/wiki/架向星空之桥 "wikilink")（）
+  - 2012年4月27日 - [架向星空之桥AA](https://zh.wikipedia.org/wiki/架向星空之桥 "wikilink")（）
   - 2013年10月25日 -
   - 2014年12月19日 - [彼女のセイイキ](../Page/她的聖域.md "wikilink")
   - 2015年8月28日 -
@@ -52,9 +50,6 @@
   - [feng](http://www.feng.jp/)
 
   -
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:千葉縣公司](https://zh.wikipedia.org/wiki/Category:千葉縣公司 "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:千葉縣公司](https://zh.wikipedia.org/wiki/Category:千葉縣公司 "wikilink")
 
-1.  [ギャルゲーブランド突撃\!\!
-    現場訪問インタビュー](https://web.archive.org/web/20031206081430/http://www.galge.com/galge/nomember/sbp/toku/houmon_feng.html)Galge.com
+1.  [ギャルゲーブランド突撃\!\! 現場訪問インタビュー](https://web.archive.org/web/20031206081430/http://www.galge.com/galge/nomember/sbp/toku/houmon_feng.html)Galge.com

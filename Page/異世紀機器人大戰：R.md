@@ -1,22 +1,14 @@
-《**異世紀機器人大戰：R**》（、、簡稱**A.C.E:R**）是[PlayStation
-3](../Page/PlayStation_3.md "wikilink")（PS3）用遊戲。是將不同的[機器人動畫](../Page/機器人動畫.md "wikilink")（其中包括[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、遊戲）作品變成[跨界作品的](../Page/跨界作品.md "wikilink")[動作冒險遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")——《[異世紀機器人大戰系列](../Page/異世紀機器人大戰系列.md "wikilink")》（A.C.E.）的第四作。也是系列作中初次為十二歲以上才能遊玩的作品。
+《**異世紀機器人大戰：R**》（、、簡稱**A.C.E:R**）是[PlayStation 3](../Page/PlayStation_3.md "wikilink")（PS3）用遊戲。是將不同的[機器人動畫](../Page/機器人動畫.md "wikilink")（其中包括[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、遊戲）作品變成[跨界作品](../Page/跨界作品.md "wikilink")的[動作冒險遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")——《[異世紀機器人大戰系列](../Page/異世紀機器人大戰系列.md "wikilink")》（A.C.E.）的第四作。也是系列作中初次為十二歲以上才能遊玩的作品。
 
 ## 概要
 
-為操控真實比例的巨大機器人，通過各種任務的高速機器人動作遊戲。也是繼出在[PlayStation
-2](../Page/PlayStation_2.md "wikilink")、2007年9月發售的《**[異世紀機器人大戰3 THE
-FINAL](https://zh.wikipedia.org/wiki/異世紀機器人大戰系列#異世紀機器人大戰3_THE_FINAL "wikilink")**》完結後，A.C.E.系列闊別三年的新作。不但是A.C.E.系列第一個PlayStation3用遊戲，就連故事和遊戲也都全面更新。名稱中的「R」意指Rebirth／重生，而且以成為本作的主題曲名。
+為操控真實比例的巨大機器人，通過各種任務的高速機器人動作遊戲。也是繼出在[PlayStation 2](../Page/PlayStation_2.md "wikilink")、2007年9月發售的《**[異世紀機器人大戰3 THE FINAL](https://zh.wikipedia.org/wiki/異世紀機器人大戰系列#異世紀機器人大戰3_THE_FINAL "wikilink")**》完結後，A.C.E.系列闊別三年的新作。不但是A.C.E.系列第一個PlayStation3用遊戲，就連故事和遊戲也都全面更新。名稱中的「R」意指Rebirth／重生，而且以成為本作的主題曲名。
 
-開發工作依然和前作一樣由開發「[機戰傭兵](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")」的[FromSoftware負責](../Page/FromSoftware.md "wikilink")。企畫和劇本則由製作過許多機器人跨界作品劇本的「[超級機器人大戰](https://zh.wikipedia.org/wiki/超級機器人大戰 "wikilink")」的製作人員（SR製作小隊）負責。發行商則由前作的[萬普變成](../Page/萬普.md "wikilink")[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")，這是由於2008年萬普被南夢萬代吸收成為子公司所致。不過[品牌和以前一樣都是標記成萬普](../Page/品牌.md "wikilink")。
+開發工作依然和前作一樣由開發「[機戰傭兵](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")」的[FromSoftware](../Page/FromSoftware.md "wikilink")負責。企畫和劇本則由製作過許多機器人跨界作品劇本的「[超級機器人大戰](https://zh.wikipedia.org/wiki/超級機器人大戰 "wikilink")」的製作人員（SR製作小隊）負責。發行商則由前作的[萬普](../Page/萬普.md "wikilink")變成[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")，這是由於2008年萬普被南夢萬代吸收成為子公司所致。不過[品牌](../Page/品牌.md "wikilink")和以前一樣都是標記成萬普。
 
 宣傳詞為「**切開異界吧\! 王牌之翼**」。
 
-都目前為止都有登場的作品包括《[機動戰士Z鋼彈](https://zh.wikipedia.org/wiki/機動戰士Z鋼彈 "wikilink")\[1\]》、《[機動戰士鋼彈
-逆襲的夏亞](https://zh.wikipedia.org/wiki/機動戰士鋼彈_逆襲的夏亞 "wikilink")》、《[極限戰士](https://zh.wikipedia.org/wiki/極限戰士 "wikilink")》，系列作初登場作品則有《[超時空世紀](https://zh.wikipedia.org/wiki/超時空世紀 "wikilink")》、《[機動戰士海盜鋼彈](https://zh.wikipedia.org/wiki/機動戰士海盜鋼彈 "wikilink")》、《[驚爆危機](../Page/驚爆危機.md "wikilink")》、《[Code
-Geass反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修 "wikilink")》、《[創聖機械天使](https://zh.wikipedia.org/wiki/創聖機械天使 "wikilink")》、《[Macross
-Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")》、《[Macross
-F](https://zh.wikipedia.org/wiki/Macross_F "wikilink")》、《[超級機器人大戰OG](https://zh.wikipedia.org/wiki/超級機器人大戰OG "wikilink")\[2\]\[3\]》、《[機動戰士鋼彈SEED
-DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink")》、《[機戰傭兵](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")\[4\]》等9部作品占據大部分的登場機體數。總計有十三部作品登場。基本上都有收錄原作的故事劇情，例外只有《逆襲的夏亞》、《機戰傭兵》的機體（ν鋼彈、九號球Seraph\[5\]）登場。
+都目前為止都有登場的作品包括《[機動戰士Z鋼彈](https://zh.wikipedia.org/wiki/機動戰士Z鋼彈 "wikilink")\[1\]》、《[機動戰士鋼彈 逆襲的夏亞](https://zh.wikipedia.org/wiki/機動戰士鋼彈_逆襲的夏亞 "wikilink")》、《[極限戰士](https://zh.wikipedia.org/wiki/極限戰士 "wikilink")》，系列作初登場作品則有《[超時空世紀](https://zh.wikipedia.org/wiki/超時空世紀 "wikilink")》、《[機動戰士海盜鋼彈](https://zh.wikipedia.org/wiki/機動戰士海盜鋼彈 "wikilink")》、《[驚爆危機](../Page/驚爆危機.md "wikilink")》、《[Code Geass反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修 "wikilink")》、《[創聖機械天使](https://zh.wikipedia.org/wiki/創聖機械天使 "wikilink")》、《[Macross Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")》、《[Macross F](https://zh.wikipedia.org/wiki/Macross_F "wikilink")》、《[超級機器人大戰OG](https://zh.wikipedia.org/wiki/超級機器人大戰OG "wikilink")\[2\]\[3\]》、《[機動戰士鋼彈SEED DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink")》、《[機戰傭兵](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")\[4\]》等9部作品占據大部分的登場機體數。總計有十三部作品登場。基本上都有收錄原作的故事劇情，例外只有《逆襲的夏亞》、《機戰傭兵》的機體（ν鋼彈、九號球Seraph\[5\]）登場。
 
 本作作為初版生產的特典，是能在遊戲的序盤中使用[Ζ鋼彈3号機的使用碼](https://zh.wikipedia.org/wiki/MSZ-006系列機動戰士 "wikilink")。不過這台機體只要滿足一定條件的話，也能在後面得到。
 
@@ -47,11 +39,9 @@ DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink"
   - [Ζ鋼彈](https://zh.wikipedia.org/wiki/MSZ-006系列機動戰士 "wikilink")（[卡密兒·維丹](../Page/卡密兒·維丹.md "wikilink")）
   - [百式](https://zh.wikipedia.org/wiki/MSN-00100系列機動戰士 "wikilink")（[克瓦特羅·巴吉納](https://zh.wikipedia.org/wiki/夏亚·阿兹纳布尔 "wikilink")）
   - [-{zh-hans:利克迪亚斯;zh-tw:里克迪亞斯;zh-hk:力奇戴亞斯}-](https://zh.wikipedia.org/wiki/MSK-008系列機動戰士 "wikilink")（[阿姆羅·雷](../Page/阿姆羅·雷.md "wikilink")）
-  - [Ζ鋼彈3号機](https://zh.wikipedia.org/wiki/MSZ-006系列機動戰士 "wikilink")（阿姆羅·雷）※來自《鋼彈新体驗
-    GREEN DIVERS》\[6\]。
+  - [Ζ鋼彈3号機](https://zh.wikipedia.org/wiki/MSZ-006系列機動戰士 "wikilink")（阿姆羅·雷）※來自《鋼彈新体驗 GREEN DIVERS》\[6\]。
 
-**[機動戰士鋼彈
-逆襲的夏亞](https://zh.wikipedia.org/wiki/機動戰士鋼彈_逆襲的夏亞 "wikilink")**
+**[機動戰士鋼彈 逆襲的夏亞](https://zh.wikipedia.org/wiki/機動戰士鋼彈_逆襲的夏亞 "wikilink")**
 
   - [ν鋼彈](https://zh.wikipedia.org/wiki/RX-93系列機動戰士 "wikilink")（[阿姆羅·雷](../Page/阿姆羅·雷.md "wikilink")）
   - [Hi-ν鋼彈](https://zh.wikipedia.org/wiki/RX-93系列機動戰士 "wikilink")（阿姆羅·雷）※來自《CCA-MSV》小説版。
@@ -61,11 +51,9 @@ DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink"
   - XM-X1\\F-97 骷髏鋼彈 X1（[金格度·那烏](../Page/西布克·亞諾.md "wikilink")）
   - XM-X1改 骷髏鋼彈 X1改（金格度·那烏）
   - XM-X3 骷髏鋼彈 X3（托比亞·亞羅拿克斯）
-  - 骷髏鋼彈X1全武裝（托比亞·亞羅拿克斯）※來自《[機動戰士海盜GUNDAM
-    鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")》。
+  - 骷髏鋼彈X1全武裝（托比亞·亞羅拿克斯）※來自《[機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")》。
 
-★**[機動戰士鋼彈SEED
-DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink")**
+★**[機動戰士鋼彈SEED DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink")**
 
   - [命運鋼彈](../Page/ZGMF-X42S_Destiny.md "wikilink")（[真·飛鳥](../Page/真·飛鳥.md "wikilink")）
   - [攻擊自由鋼彈](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")（[煌·大和](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")）
@@ -79,39 +67,24 @@ DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink"
 
 ★**[驚爆危機](../Page/驚爆危機.md "wikilink")**
 
-  - [ARX-7
-    Arbalest](https://zh.wikipedia.org/wiki/ARX-7 "wikilink")（[相良宗介](https://zh.wikipedia.org/wiki/相良宗介 "wikilink")）
-  - [M9
-    Gernsback（毛機）](https://zh.wikipedia.org/wiki/M9_Gernsback "wikilink")（[梅麗莎·毛](https://zh.wikipedia.org/wiki/驚爆危機角色列表#特別對應班（SRT） "wikilink")）
+  - [ARX-7 Arbalest](https://zh.wikipedia.org/wiki/ARX-7 "wikilink")（[相良宗介](https://zh.wikipedia.org/wiki/相良宗介 "wikilink")）
+  - [M9 Gernsback（毛機）](https://zh.wikipedia.org/wiki/M9_Gernsback "wikilink")（[梅麗莎·毛](https://zh.wikipedia.org/wiki/驚爆危機角色列表#特別對應班（SRT） "wikilink")）
   - M9 Gernsback（克魯茲機）（克魯茲·威巴）
   - M9 Gernsback（宗介機）（相良宗介）
   - [蹦太君](https://zh.wikipedia.org/wiki/蹦太君 "wikilink")※來自《[驚爆危機？校園篇](https://zh.wikipedia.org/wiki/驚爆危機#驚爆危機？校園篇（ふもっふ） "wikilink")》\[8\]。
 
-★**[Code Geass反叛的魯路修
-R2](https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修 "wikilink")**、**[Code
-Geass反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修 "wikilink")**\[9\]
+★**[Code Geass反叛的魯路修 R2](https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修 "wikilink")**、**[Code Geass反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修 "wikilink")**\[9\]
 
-  - [Z-01
-    蘭斯洛特](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#第七世代Knightmare_Frame "wikilink")（[樞木朱雀](../Page/Code_Geass角色列表.md "wikilink")）
-  - [Z-01/A 蘭斯洛特‧Air
-    Cavalry](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#第七世代Knightmare_Frame "wikilink")（樞木朱雀）
-  - [Z-01/D
-    蘭斯洛特‧征服者](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#Knight_of_Rounds專用機種 "wikilink")（樞木朱雀）
-  - [Z-01/Z
-    蘭斯洛特‧阿爾比昂](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#第九世代Knightmare_Frame "wikilink")（樞木朱雀）
-  - [Type-0/0A
-    蜃氣樓](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#黑色騎士團Knightmare_Frame "wikilink")（[ZERO](../Page/Code_Geass角色列表.md "wikilink")）
-  - [Type-02
-    紅蓮貳式](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#黑色騎士團Knightmare_Frame "wikilink")（[紅月卡蓮](../Page/Code_Geass角色列表.md "wikilink")）
-  - [Type-02
-    紅蓮貳式甲壹型腕裝備](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#黑色騎士團Knightmare_Frame "wikilink")
-    （紅月卡蓮）☆
-  - [Type-02/F1A
-    紅蓮可翔式](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#黑色騎士團Knightmare_Frame "wikilink")（紅月卡蓮）
-  - [Type-02/F1Z
-    紅蓮聖天八極式](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#黑色騎士團Knightmare_Frame "wikilink")（紅月卡蓮）
-  - [Type-05S 曉
-    直參式樣（C.C.專用機）](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#黑色騎士團Knightmare_Frame "wikilink")（[C.C.](../Page/Code_Geass角色列表.md "wikilink")）
+  - [Z-01 蘭斯洛特](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#第七世代Knightmare_Frame "wikilink")（[樞木朱雀](../Page/Code_Geass角色列表.md "wikilink")）
+  - [Z-01/A 蘭斯洛特‧Air Cavalry](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#第七世代Knightmare_Frame "wikilink")（樞木朱雀）
+  - [Z-01/D 蘭斯洛特‧征服者](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#Knight_of_Rounds專用機種 "wikilink")（樞木朱雀）
+  - [Z-01/Z 蘭斯洛特‧阿爾比昂](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#第九世代Knightmare_Frame "wikilink")（樞木朱雀）
+  - [Type-0/0A 蜃氣樓](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#黑色騎士團Knightmare_Frame "wikilink")（[ZERO](../Page/Code_Geass角色列表.md "wikilink")）
+  - [Type-02 紅蓮貳式](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#黑色騎士團Knightmare_Frame "wikilink")（[紅月卡蓮](../Page/Code_Geass角色列表.md "wikilink")）
+  - [Type-02 紅蓮貳式甲壹型腕裝備](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#黑色騎士團Knightmare_Frame "wikilink") （紅月卡蓮）☆
+  - [Type-02/F1A 紅蓮可翔式](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#黑色騎士團Knightmare_Frame "wikilink")（紅月卡蓮）
+  - [Type-02/F1Z 紅蓮聖天八極式](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#黑色騎士團Knightmare_Frame "wikilink")（紅月卡蓮）
+  - [Type-05S 曉 直參式樣（C.C.專用機）](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表#黑色騎士團Knightmare_Frame "wikilink")（[C.C.](../Page/Code_Geass角色列表.md "wikilink")）
   - Z-01/A 蘭斯洛特・Frontier（C.C.）
 
 ★**[創聖機械天使](https://zh.wikipedia.org/wiki/創聖機械天使 "wikilink")**\[10\]
@@ -123,11 +96,9 @@ Geass反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路
   - 火星戰機（希烏斯·多·艾利西亞）
   - 月亮戰機（西薇亞·多·艾利西亞）
 
-★**[Macross
-Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")**
+★**[Macross Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")**
 
-  - [VF-0鳳凰](../Page/VF-0鳳凰.md "wikilink")\[11\]（工藤真）／鬼魂裝備型
-    ※鬼魂裝備只能在EX任務使用
+  - [VF-0鳳凰](../Page/VF-0鳳凰.md "wikilink")\[11\]（工藤真）／鬼魂裝備型 ※鬼魂裝備只能在EX任務使用
   - VF-0S 鳳凰（工藤真\[12\]）
 
 ★**[Macross F](https://zh.wikipedia.org/wiki/Macross_F "wikilink")**
@@ -138,19 +109,16 @@ Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")**
   - RVF-25 彌賽亞（盧卡·安傑洛）／超級背包裝備
   - [卡忒蘭・蕾雅](https://zh.wikipedia.org/wiki/超时空要塞Frontier#机体 "wikilink")（[格蘭·葛蘭](https://zh.wikipedia.org/wiki/超時空要塞Frontier#S.M.S "wikilink")）
   - 卡忒蘭・蕾雅重裝甲型（格蘭·葛蘭）
-  - [VB-6
-    怪獸君王](https://zh.wikipedia.org/wiki/超时空要塞Frontier#机体 "wikilink")（卡納莉亞）
+  - [VB-6 怪獸君王](https://zh.wikipedia.org/wiki/超时空要塞Frontier#机体 "wikilink")（卡納莉亞）
   - Macross Quarter☆
 
 ★**[超級機器人大戰OG](https://zh.wikipedia.org/wiki/超級機器人大戰OG "wikilink")**
 
   - 賽巴斯塔（[安藤正樹](https://zh.wikipedia.org/wiki/魔裝機神 "wikilink")）
-  - [PTX-003-SP1
-    古鐵巨人](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#ATX計劃 "wikilink")（[南部響介](https://zh.wikipedia.org/wiki/超級機器人大戰OG角色列表#ATX隊 "wikilink")）
+  - [PTX-003-SP1 古鐵巨人](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#ATX計劃 "wikilink")（[南部響介](https://zh.wikipedia.org/wiki/超級機器人大戰OG角色列表#ATX隊 "wikilink")）
   - [ART-1](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#R系列 "wikilink")（[伊達隆聖](https://zh.wikipedia.org/wiki/SRX計劃#伊達隆聖 "wikilink")）
 
-**[機戰傭兵 競技場之王](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")**、**[機戰傭兵2
-AA](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")**
+**[機戰傭兵 競技場之王](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")**、**[機戰傭兵2 AA](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")**
 
   - [九號球](https://zh.wikipedia.org/wiki/機戰傭兵#系列用語詞彙 "wikilink")☆
 
@@ -194,8 +162,7 @@ AA](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")**
 ### 主題曲
 
   - 「[Re:birth](https://zh.wikipedia.org/wiki/Re:birth "wikilink")」
-    作詞、作曲、編曲：林保徳 歌：[Acid Black
-    Cherry](https://zh.wikipedia.org/wiki/Acid_Black_Cherry "wikilink")
+    作詞、作曲、編曲：林保徳 歌：[Acid Black Cherry](https://zh.wikipedia.org/wiki/Acid_Black_Cherry "wikilink")
 
 本作中、隨著場景而會使用原作的音樂。另外也能選擇BGM。
 
@@ -239,9 +206,7 @@ AA](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")**
 
   - （《Macross Zero》）
 
-  - [射手座☆午後九時Don't be
-    late](https://zh.wikipedia.org/wiki/射手座☆午後九時Don't_be_late "wikilink")（《Macross
-    F》）
+  - [射手座☆午後九時Don't be late](https://zh.wikipedia.org/wiki/射手座☆午後九時Don't_be_late "wikilink")（《Macross F》）
 
   - What 'bout my Star?（《Macross F》）
 
@@ -261,34 +226,30 @@ AA](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")**
 
 ### BGM強化
 
-本作中，擁有能夠將存放在PlayStation3主機內的音樂加以播放的功能。在任務開始的「BATTLE SETTING」中，可以從EDIT
-BGM選擇CUSTOM，而能夠選擇主機內的音樂作為BGM。
+本作中，擁有能夠將存放在PlayStation3主機內的音樂加以播放的功能。在任務開始的「BATTLE SETTING」中，可以從EDIT BGM選擇CUSTOM，而能夠選擇主機內的音樂作為BGM。
 
 ### 九號球专用的BGM
 
-已被記錄在本作中的《9（Alternative）》，BGM的九號球的歌。
-它是在裝甲核心配置版本的歌曲《9》的。不能用於BGM選擇，它可以被聽到僅在某些情況。
+已被記錄在本作中的《9（Alternative）》，BGM的九號球的歌。 它是在裝甲核心配置版本的歌曲《9》的。不能用於BGM選擇，它可以被聽到僅在某些情況。
 
 ## 遊戲系統
 
 在任務中能選擇駕駛機體（可操作的機体）。除了駕駛機體外，也能另外選擇兩台輔助機體（僚機）出擊。
 
-遊玩畫面中，會在畫面右上角出現雷達地圖，我機會在中央，敵機則以紅點表示。畫面左下角則有[HP值](https://zh.wikipedia.org/wiki/HP "wikilink")、血條下還有狀態條。畫面右下角則有可使用武器。與前作不同的是、以武器形狀作為[圖示來表示](../Page/圖示.md "wikilink")。
+遊玩畫面中，會在畫面右上角出現雷達地圖，我機會在中央，敵機則以紅點表示。畫面左下角則有[HP值](https://zh.wikipedia.org/wiki/HP "wikilink")、血條下還有狀態條。畫面右下角則有可使用武器。與前作不同的是、以武器形狀作為[圖示](../Page/圖示.md "wikilink")來表示。
 
   - 交換駕駛
-    本作導入的新系統。以往的系列作都是機體與駕駛都固定著，本作中則能夠交換駕駛員。但是能夠交換的機体會受到作品設定的限制。例如百式除克瓦特羅·巴吉納外，只有卡密兒·維丹、阿姆羅·雷及金格度·那烏等[宇宙世紀作品的鋼彈駕駛才能操控](../Page/宇宙世紀.md "wikilink")，另外如果是機械天使，會因為不同的駕駛而有不同的武器。
+    本作導入的新系統。以往的系列作都是機體與駕駛都固定著，本作中則能夠交換駕駛員。但是能夠交換的機体會受到作品設定的限制。例如百式除克瓦特羅·巴吉納外，只有卡密兒·維丹、阿姆羅·雷及金格度·那烏等[宇宙世紀](../Page/宇宙世紀.md "wikilink")作品的鋼彈駕駛才能操控，另外如果是機械天使，會因為不同的駕駛而有不同的武器。
 
 <!-- end list -->
 
   - 作品選擇
-    以往的A.C.E.系列作都是順著故事模式，讓機体與駕駛一個個依序加入，本作中則改成可從參加本作的11個作品（除了《A.C.E.原創機體》、《機戰傭兵》、《逆襲的夏亞》）中選擇一個作品出戰，各作品都是從第1話開始。雖然大部分也都依其原作故事進行任務，但只有《SEED
-    DESTINY》是以原作結束後，《OG》是以《[OG外傳](https://zh.wikipedia.org/wiki/超級機器人大戰OG外傳 "wikilink")》結束後的事件開始。另外沒有選擇的作品機體，會在比較早的階段與操控機體會合。
+    以往的A.C.E.系列作都是順著故事模式，讓機体與駕駛一個個依序加入，本作中則改成可從參加本作的11個作品（除了《A.C.E.原創機體》、《機戰傭兵》、《逆襲的夏亞》）中選擇一個作品出戰，各作品都是從第1話開始。雖然大部分也都依其原作故事進行任務，但只有《SEED DESTINY》是以原作結束後，《OG》是以《[OG外傳](https://zh.wikipedia.org/wiki/超級機器人大戰OG外傳 "wikilink")》結束後的事件開始。另外沒有選擇的作品機體，會在比較早的階段與操控機體會合。
 
 <!-- end list -->
 
   - 變形
-    Z鋼彈及VF-0等機體擁有變形機能，可以透過右搖桿而變身成各形態。例如，機械天使在3台Vector
-    Machine戰機出擊時，可以變身成太陽、月亮、火星各形態。以下則是Orguss變身方式。
+    Z鋼彈及VF-0等機體擁有變形機能，可以透過右搖桿而變身成各形態。例如，機械天使在3台Vector Machine戰機出擊時，可以變身成太陽、月亮、火星各形態。以下則是Orguss變身方式。
       - 右搖桿往上・・・Orguss・オーガロイド（人型形態）
       - 右搖桿往左・・・Orguss・ガウォーク（鳥人形態）
       - 右搖桿往右・・・Orguss・タンク（戦車形態）
@@ -306,8 +267,7 @@ BGM選擇CUSTOM，而能夠選擇主機內的音樂作為BGM。
 <!-- end list -->
 
   - 支援攻擊
-    在有僚機（輔助機體）出擊時，能夠進行支援攻擊。按L1可以將武器圖示切換成支援攻擊，並且持續按住對應的按鈕就能發動。進行支援攻擊會消耗一定的HP，所以在HP低落到一定程度時，會無法進行支援攻擊。另外會因為不同機體而有不同的支援方式。不過以Vector
-    Machine3台戰機出擊並且當合體成機械天使時，會無法使用支援攻擊。
+    在有僚機（輔助機體）出擊時，能夠進行支援攻擊。按L1可以將武器圖示切換成支援攻擊，並且持續按住對應的按鈕就能發動。進行支援攻擊會消耗一定的HP，所以在HP低落到一定程度時，會無法進行支援攻擊。另外會因為不同機體而有不同的支援方式。不過以Vector Machine3台戰機出擊並且當合體成機械天使時，會無法使用支援攻擊。
 
 <!-- end list -->
 
@@ -325,30 +285,18 @@ BGM選擇CUSTOM，而能夠選擇主機內的音樂作為BGM。
 
   - [《異世紀機器人大戰：R》官網](https://web.archive.org/web/20101018063756/http://www.ace-game.jp/acer.html)
 
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink")
-[Category:FromSoftware游戏](https://zh.wikipedia.org/wiki/Category:FromSoftware游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_3独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3独占游戏 "wikilink")
-[Category:機械人動畫跨界作品](https://zh.wikipedia.org/wiki/Category:機械人動畫跨界作品 "wikilink")
+[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink") [Category:FromSoftware游戏](https://zh.wikipedia.org/wiki/Category:FromSoftware游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_3独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3独占游戏 "wikilink") [Category:機械人動畫跨界作品](https://zh.wikipedia.org/wiki/Category:機械人動畫跨界作品 "wikilink")
 
 1.  《Ζ鋼彈》也包括[劇場版的声優及一部分機體的設定](https://zh.wikipedia.org/wiki/機動戰士Z鋼彈 "wikilink")（但故事以電視版為準）。
 2.  遊戲發表的當初並未公佈，直到第二部PV時才登場。因為第1作《[異世紀機器人大戰](../Page/異世紀機器人大戰.md "wikilink")》中有出現[量產型亡靈Mk-II](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#亡靈系列 "wikilink")，因此嚴格來說並非是首次登場。但《A.C.E.》中，沒有《OG系列》的人物、故事出現，只有機體登場。
-3.  《OG系列》，在本作則是首次以《超級機器人大戰OG》名義參加，本作的操控機則只有一台[ART-1](https://zh.wikipedia.org/wiki/超級機器人大戰OG機動兵器列表 "wikilink")，不過嚴格來講並非來自GBA版《[超級機器人大戰OG](https://zh.wikipedia.org/wiki/超級機器人大戰OG "wikilink")》，而是從同作的重製版《[超級機器人大戰OG
-    ORIGINAL
-    GENERATIONS](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")》的「OG2.5」劇本登場。
-4.  發售前的情報並沒有公開有《機戰傭兵》登場的情報、遊戲中則是有《[機戰傭兵
-    競技場之王](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")》、《[機戰傭兵2
-    AA](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")》中出現的[九號球](https://zh.wikipedia.org/wiki/九號球 "wikilink")。
+3.  《OG系列》，在本作則是首次以《超級機器人大戰OG》名義參加，本作的操控機則只有一台[ART-1](https://zh.wikipedia.org/wiki/超級機器人大戰OG機動兵器列表 "wikilink")，不過嚴格來講並非來自GBA版《[超級機器人大戰OG](https://zh.wikipedia.org/wiki/超級機器人大戰OG "wikilink")》，而是從同作的重製版《[超級機器人大戰OG ORIGINAL GENERATIONS](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")》的「OG2.5」劇本登場。
+4.  發售前的情報並沒有公開有《機戰傭兵》登場的情報、遊戲中則是有《[機戰傭兵 競技場之王](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")》、《[機戰傭兵2 AA](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")》中出現的[九號球](https://zh.wikipedia.org/wiki/九號球 "wikilink")。
 5.  九號球Seraph在原典中與專用BGM一起登場，遊戲中則變成受到原創敵方角色命令而襲擊玩家。
 6.  《GREEN DIVERS》中並沒有公佈駕駛的本名，但本作中變成阿姆羅。
-7.  原作未登場過的機体。在[電擊HOBBY](https://zh.wikipedia.org/wiki/電擊HOBBY "wikilink")10周年記念企畫中登場。另外這台機體在《[超級機器人大戰Z
-    特別版](../Page/超級機器人大戰Z.md "wikilink")》中也登場過。
+7.  原作未登場過的機体。在[電擊HOBBY](https://zh.wikipedia.org/wiki/電擊HOBBY "wikilink")10周年記念企畫中登場。另外這台機體在《[超級機器人大戰Z 特別版](../Page/超級機器人大戰Z.md "wikilink")》中也登場過。
 8.  本來是隱藏機体，版權標記為《[驚爆危機？校園篇](https://zh.wikipedia.org/wiki/驚爆危機#驚爆危機？校園篇（ふもっふ） "wikilink")》製作委員會，但由於寺田認為「這台機體的存在已經曝光」，所以在第二部PV中先加以公開。
 9.  本作中，從《Code Geass反叛的魯路修》登場的機体也在《Code Geass反叛的魯路修R2》登場。
-10. 本作中，只能以Vector
-    Machine狀態出擊，所以太陽、月亮、火星三台戰機不同時出動的話就無法合體成機械天使，因此只能說近乎於單機出擊。
+10. 本作中，只能以Vector Machine狀態出擊，所以太陽、月亮、火星三台戰機不同時出動的話就無法合體成機械天使，因此只能說近乎於單機出擊。
 11. 原作中，只能在大氣層內活動。劇中因為換裝成與彌賽亞一樣規格的熱核融合引擎，而可以在大氣層外戰鬥。
 12. 原作中他不是駕駛，這台本來是洛伊福克的機體。
 13. 出處為《[SD鋼彈G世代 F](https://zh.wikipedia.org/wiki/SD鋼彈G世代 "wikilink")》

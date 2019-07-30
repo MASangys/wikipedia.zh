@@ -3,7 +3,7 @@
 ## 簡介
 
   - 距離上一張單曲僅相隔1個半月
-  - 本單曲達成[Oricon連續](../Page/Oricon.md "wikilink")25單曲第一的紀錄，打破[松田聖子保持](../Page/松田聖子.md "wikilink")11年10個月連續24單曲第一的紀錄
+  - 本單曲達成[Oricon](../Page/Oricon.md "wikilink")連續25單曲第一的紀錄，打破[松田聖子](../Page/松田聖子.md "wikilink")保持11年10個月連續24單曲第一的紀錄
   - 最終銷量約67.4萬張。
 
 ## 製作人員
@@ -30,6 +30,4 @@
   - B'z The Best "Pleasure II"（\#1）
   - B'z The Best "ULTRA Pleasure"（\#1）
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
-[Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink") [Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink")

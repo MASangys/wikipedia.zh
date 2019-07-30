@@ -1,10 +1,8 @@
-**SKE48学園**（）是由2009年10月3日開始在[Sky
-PerfecTV\!的](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")[エンタ\!371播放的](https://zh.wikipedia.org/wiki/エンタ!371 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
+**SKE48学園**（）是由2009年10月3日開始在[Sky PerfecTV\!的](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")[エンタ\!371播放的](https://zh.wikipedia.org/wiki/エンタ!371 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 概要
 
-[SKE48首個冠名節目](../Page/SKE48.md "wikilink")。成員透過學園的設定、「授業」和「部活」展開各種企劃\[1\]。正式出演是Team
-S的成員，企劃有時由Team KII成員和研究生出演。
+[SKE48](../Page/SKE48.md "wikilink")首個冠名節目。成員透過學園的設定、「授業」和「部活」展開各種企劃\[1\]。正式出演是Team S的成員，企劃有時由Team KII成員和研究生出演。
 
 ## 播放日・企劃
 
@@ -27,7 +25,7 @@ S的成員，企劃有時由Team KII成員和研究生出演。
 10月3日</p></td>
 <td><p>成員自我介紹<br />
 由新聞部成員帶來的特別技能・山下萌・松井珠理奈<br />
-<a href="../Page/愛知縣.md" title="wikilink">愛知縣出身以外的成員在校內播放</a></p></td>
+<a href="../Page/愛知縣.md" title="wikilink">愛知縣</a>出身以外的成員在校內播放</p></td>
 <td><p>|<a href="../Page/大矢真那.md" title="wikilink">大矢真那</a>、<a href="../Page/小野晴香.md" title="wikilink">小野晴香</a>、<a href="https://zh.wikipedia.org/wiki/桑原みずき" title="wikilink">桑原みずき</a>、<a href="../Page/新海里奈.md" title="wikilink">新海里奈</a>、<a href="../Page/高田志織.md" title="wikilink">高田志織</a>、<br />
 <a href="../Page/出口陽.md" title="wikilink">出口陽</a>、<a href="../Page/中西優香.md" title="wikilink">中西優香</a>、<a href="../Page/平田璃香子.md" title="wikilink">平田璃香子</a>、<a href="../Page/平松可奈子.md" title="wikilink">平松可奈子</a>、<a href="../Page/松井珠理奈.md" title="wikilink">松井珠理奈</a>、<br />
 <a href="../Page/松井玲奈.md" title="wikilink">松井玲奈</a>、<a href="../Page/松下唯.md" title="wikilink">松下唯</a>、<a href="../Page/森紗雪.md" title="wikilink">森紗雪</a>、<a href="../Page/矢神久美.md" title="wikilink">矢神久美</a>、<a href="https://zh.wikipedia.org/wiki/山下萌" title="wikilink">山下萌</a></p></td>
@@ -450,15 +448,9 @@ S的成員，企劃有時由Team KII成員和研究生出演。
 
 ## 外部連結
 
-  - [SKE48学園 -
-    スカパー371ch](https://web.archive.org/web/20111008014223/http://www.cs371.com/ske48/)
+  - [SKE48学園 - スカパー371ch](https://web.archive.org/web/20111008014223/http://www.cs371.com/ske48/)
 
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink")
-[Category:2009年日本電視節目](https://zh.wikipedia.org/wiki/Category:2009年日本電視節目 "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
+[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink") [Category:2009年日本電視節目](https://zh.wikipedia.org/wiki/Category:2009年日本電視節目 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
 
-1.  [秋元康綜合製作人的偶像組合・SKE48首個冠名節目『SKE48
-    学園』\!](http://www.oricon.co.jp/news/deview/69289/) -
-    ORICON・2009年9月21日
+1.  [秋元康綜合製作人的偶像組合・SKE48首個冠名節目『SKE48 学園』\!](http://www.oricon.co.jp/news/deview/69289/) - ORICON・2009年9月21日
 2.  秦を特集した「ハタモン流」の撮影の為に[週刊AKBのカメラマンもファインダーの外で同席していた](https://zh.wikipedia.org/wiki/週刊AKB "wikilink")。

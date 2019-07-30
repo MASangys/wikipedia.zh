@@ -1,9 +1,6 @@
-《**ONE PIECE 3D 追逐草帽大冒險**》是於2011年上映的第十一部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》劇場版動畫。並首次採取[3D製作技術](https://zh.wikipedia.org/wiki/3D "wikilink")，也是歷年來所有劇場版長度最短的一部。
+《**ONE PIECE 3D 追逐草帽大冒險**》是於2011年上映的第十一部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》劇場版動畫。並首次採取[3D製作技術](https://zh.wikipedia.org/wiki/3D "wikilink")，也是歷年來所有劇場版長度最短的一部。
 
-以『JUMP HEROES
-film』為題，同步上映『[美食獵人TORIKO](../Page/美食獵人TORIKO.md "wikilink")
-3D 開幕！美食大冒險！！』。
+以『JUMP HEROES film』為題，同步上映『[美食獵人TORIKO](../Page/美食獵人TORIKO.md "wikilink") 3D 開幕！美食大冒險！！』。
 
 ## 製作
 
@@ -66,7 +63,7 @@ film』為題，同步上映『[美食獵人TORIKO](../Page/美食獵人TORIKO.m
 <td><p><a href="https://zh.wikipedia.org/wiki/長_(日本配音員)" title="wikilink">長</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/傑克_(ONE_PIECE)" title="wikilink">「紅髮」傑克</a></p></td>
+<td><p>'''<a href="../Page/傑克_(ONE_PIECE).md" title="wikilink">「紅髮」傑克</a></p></td>
 <td><p><a href="../Page/池田秀一.md" title="wikilink">池田秀一</a></p></td>
 </tr>
 </tbody>
@@ -74,7 +71,7 @@ film』為題，同步上映『[美食獵人TORIKO](../Page/美食獵人TORIKO.m
 
 ### 本作人物
 
-本作電影[山口智充先生飾演](../Page/山口智充.md "wikilink")3名角色。
+本作電影[山口智充](../Page/山口智充.md "wikilink")先生飾演3名角色。
 
   -
     聲優：[山口智充](../Page/山口智充.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）；[黃志明](../Page/黃志明_\(香港\).md "wikilink")（香港）
@@ -100,15 +97,11 @@ film』為題，同步上映『[美食獵人TORIKO](../Page/美食獵人TORIKO.m
 ## 音樂
 
   - 「」
-    作曲：沖祐市，編曲/演奏：[Tokyo Ska Paradise
-    Orchestra](https://zh.wikipedia.org/wiki/Tokyo_Ska_Paradise_Orchestra "wikilink")
+    作曲：沖祐市，編曲/演奏：[Tokyo Ska Paradise Orchestra](https://zh.wikipedia.org/wiki/Tokyo_Ska_Paradise_Orchestra "wikilink")
 
 ## 外部連結
 
   -
-  - [NISSAN Original One Piece Anime
-    DVD](https://archive.is/20130501052902/http://www.nissan.co.jp/SP/SERENA/SPECIAL/DVD/)
+  - [NISSAN Original One Piece Anime DVD](https://archive.is/20130501052902/http://www.nissan.co.jp/SP/SERENA/SPECIAL/DVD/)
 
-[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
-[Category:2011年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2011年日本劇場動畫 "wikilink")
-[Category:日本3D電影](https://zh.wikipedia.org/wiki/Category:日本3D電影 "wikilink")
+[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink") [Category:2011年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2011年日本劇場動畫 "wikilink") [Category:日本3D電影](https://zh.wikipedia.org/wiki/Category:日本3D電影 "wikilink")

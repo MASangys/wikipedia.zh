@@ -1,5 +1,4 @@
-**Office
-PAC**是[日本的演藝事務所](../Page/日本.md "wikilink")。主要經營[聲優](../Page/聲優.md "wikilink")、[演員的經紀業務](../Page/演員.md "wikilink")。
+**Office PAC**是[日本](../Page/日本.md "wikilink")的演藝事務所。主要經營[聲優](../Page/聲優.md "wikilink")、[演員](../Page/演員.md "wikilink")的經紀業務。
 
 ## 概要
 

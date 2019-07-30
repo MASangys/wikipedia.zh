@@ -1,22 +1,11 @@
-***Nu ABO*** (; *Nu Yeppioh*)
-是[南韓女子團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[f(x)首張EP](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink"),
-於2010年5月4日正式發售。而f(x)通過在5月7號的《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》給觀眾展現精彩的回歸舞台，在宣傳期期間，成員Amber因腳踝受傷的影響，回到美國洛杉磯進行休養。f(x)以四人活動形式繼續其他的宣傳行程。
+***Nu ABO*** (; *Nu Yeppioh*) 是[南韓女子團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[f(x)首張EP](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink"), 於2010年5月4日正式發售。而f(x)通過在5月7號的《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》給觀眾展現精彩的回歸舞台，在宣傳期期間，成員Amber因腳踝受傷的影響，回到美國洛杉磯進行休養。f(x)以四人活動形式繼續其他的宣傳行程。
 
-其後在7月17日通過[Show\!
-音樂中心回歸舞台宣傳後續曲](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")《**Mr.
-Boogie**》，於7月18日[SBS人气歌谣中結束短暫的打歌舞台](https://zh.wikipedia.org/wiki/SBS人气歌谣 "wikilink")。
-**《Mr. Boogie》**曾在2009年9月2日在出道Show case中演唱過，是唯一一次由五人表演的**《Mr.
-Boogie》**舞台。
+其後在7月17日通過[Show\! 音樂中心回歸舞台宣傳後續曲](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")《**Mr. Boogie**》，於7月18日[SBS人气歌谣中結束短暫的打歌舞台](https://zh.wikipedia.org/wiki/SBS人气歌谣 "wikilink")。
+**《Mr. Boogie》**曾在2009年9月2日在出道Show case中演唱過，是唯一一次由五人表演的**《Mr. Boogie》**舞台。
 
 ## 背景
 
-同名歌曲《**Nu ABO**》 ,是由精簡電子合成器的即興重複段落與雖微小但又非常具有強烈聲響的鼓聲所編排出來的Reverse
-Beat舞曲。《NU ABO》的'NU'是指英文'NEW'，其意思為"新的血型" ─ A, B, O是血型類別,
-發音取其韓語近似音"ye-bbi-oh"
-("예삐오")；而Nu取自英語NEW相近的發音。專輯比喻成一個未曾存在過的新血型之誕生；歌詞亦表現出女孩們想打破傳統的戀愛模式,
-並希望藉此開展屬於自己具有強烈自我表現的方式。歌詞中的「姐姐」是指成員[Victoria](../Page/宋茜.md "wikilink")，在歌詞中問[Victoria愛情是什麼](../Page/宋茜.md "wikilink")。《**Nu
-ABO**》的“化妆舞”在韩国掀起一种中性与温柔兼备的可爱热潮。
+同名歌曲《**Nu ABO**》 ,是由精簡電子合成器的即興重複段落與雖微小但又非常具有強烈聲響的鼓聲所編排出來的Reverse Beat舞曲。《NU ABO》的'NU'是指英文'NEW'，其意思為"新的血型" ─ A, B, O是血型類別, 發音取其韓語近似音"ye-bbi-oh" ("예삐오")；而Nu取自英語NEW相近的發音。專輯比喻成一個未曾存在過的新血型之誕生；歌詞亦表現出女孩們想打破傳統的戀愛模式, 並希望藉此開展屬於自己具有強烈自我表現的方式。歌詞中的「姐姐」是指成員[Victoria](../Page/宋茜.md "wikilink")，在歌詞中問[Victoria愛情是什麼](../Page/宋茜.md "wikilink")。《**Nu ABO**》的“化妆舞”在韩国掀起一种中性与温柔兼备的可爱热潮。
 
 曾在出道Showcase中充分展現出f(x)強悍魅力的《**Mr. Boogie**》。
 
@@ -30,8 +19,7 @@ ABO**》的“化妆舞”在韩国掀起一种中性与温柔兼备的可爱热
 
 ## 成績
 
-2010年6月14日至20日，f(x)凭借**《NU ABO》**在菲律宾austro
-plus销量统计中排在了首位，此次获得的冠军头衔是f(x)自正式出道以来，在海外歌曲排行榜上获得的首个冠军头衔。
+2010年6月14日至20日，f(x)凭借**《NU ABO》**在菲律宾austro plus销量统计中排在了首位，此次获得的冠军头衔是f(x)自正式出道以来，在海外歌曲排行榜上获得的首个冠军头衔。
 
 在*Monkey3*, *Dosirak* and *Bugs*等音源網站曾獲得一位, 而*Melon*最高排名為第二。\[1\]
 
@@ -103,16 +91,11 @@ plus销量统计中排在了首位，此次获得的冠军头衔是f(x)自正式
 
   - [f(x) - Official website](http://fx.smtown.com/)
 
-  - [SM Entertainment - Official
-    website](https://web.archive.org/web/20060424164456/http://www.smtown.com/)
+  - [SM Entertainment - Official website](https://web.archive.org/web/20060424164456/http://www.smtown.com/)
 
   -
   -
-[Category:f(x)](https://zh.wikipedia.org/wiki/Category:f\(x\) "wikilink")
-[Category:f(x)音樂專輯](https://zh.wikipedia.org/wiki/Category:f\(x\)音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:f(x)](https://zh.wikipedia.org/wiki/Category:f\(x\) "wikilink") [Category:f(x)音樂專輯](https://zh.wikipedia.org/wiki/Category:f\(x\)音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.
 2.

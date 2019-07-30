@@ -1,8 +1,6 @@
-《**So
-What**》是[周定緯的首張](../Page/周定緯.md "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2008年10月31日推出。
+《**So What**》是[周定緯](../Page/周定緯.md "wikilink")的首張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2008年10月31日推出。
 
-專輯的第一主打歌《寂寞包廂》揉合中國風和R\&B音樂，而第二主打歌《遠在身邊》則是抒發他個人的心聲，另外《You are not
-alone》則是翻唱歌曲。
+專輯的第一主打歌《寂寞包廂》揉合中國風和R\&B音樂，而第二主打歌《遠在身邊》則是抒發他個人的心聲，另外《You are not alone》則是翻唱歌曲。
 
 ## 曲目
 
@@ -62,9 +60,7 @@ alone》則是翻唱歌曲。
 
 ## 外部連結
 
-  - [Yesasia](https://zh.wikipedia.org/wiki/Yesasia "wikilink")，[So
-    What](http://www.yesasia.com/global/so-what/1012750471-0-0-0-zh_TW/info.html)，2010年8月21日
-    （六） 23:50 （UTC+8）查閱，
+  - [Yesasia](https://zh.wikipedia.org/wiki/Yesasia "wikilink")，[So What](http://www.yesasia.com/global/so-what/1012750471-0-0-0-zh_TW/info.html)，2010年8月21日 （六） 23:50 （UTC+8）查閱，
 
 ## 參考資料
 
@@ -78,8 +74,6 @@ alone》則是翻唱歌曲。
 
 </div>
 
-[Category:周定緯音樂專輯](https://zh.wikipedia.org/wiki/Category:周定緯音樂專輯 "wikilink")
-[Category:2008年迷你專輯](https://zh.wikipedia.org/wiki/Category:2008年迷你專輯 "wikilink")
-[Category:台灣音樂迷你專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂迷你專輯 "wikilink")
+[Category:周定緯音樂專輯](https://zh.wikipedia.org/wiki/Category:周定緯音樂專輯 "wikilink") [Category:2008年迷你專輯](https://zh.wikipedia.org/wiki/Category:2008年迷你專輯 "wikilink") [Category:台灣音樂迷你專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂迷你專輯 "wikilink")
 
 1.  CD作鴉片丹，但MV版作[《降落傘》](https://zh.wikipedia.org/wiki/《降落傘》 "wikilink")，現以前者為準。

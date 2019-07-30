@@ -1,5 +1,4 @@
-《**Code Geass 漆黑的蓮夜**》（）是基於動畫“Code Geass”系列展開的漫畫，同時本作是迎接“Code
-Geass”[動畫系列第二作的活動第一彈](https://zh.wikipedia.org/wiki/動畫 "wikilink")\[1\]，預定於2010年1月的月刊《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》開始連戴。故事背景以描述[日本](../Page/日本.md "wikilink")的[江戶時代一名裝有義肢的少年](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")**蓮夜**接觸「Geass」作為中心。
+《**Code Geass 漆黑的蓮夜**》（）是基於動畫“Code Geass”系列展開的漫畫，同時本作是迎接“Code Geass”[動畫系列第二作的活動第一彈](https://zh.wikipedia.org/wiki/動畫 "wikilink")\[1\]，預定於2010年1月的月刊《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》開始連戴。故事背景以描述[日本](../Page/日本.md "wikilink")的[江戶時代一名裝有義肢的少年](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")**蓮夜**接觸「Geass」作為中心。
 
 ## 時代設定
 
@@ -103,12 +102,7 @@ Geass”[動畫系列第二作的活動第一彈](https://zh.wikipedia.org/wiki/
   - [Sunrise動畫官方網站](http://www.sunrise-inc.co.jp/geas/)
   - [Code Geass漆黑的蓮夜官方網站](http://www.geass.jp/renya/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Code_Geass](https://zh.wikipedia.org/wiki/Category:Code_Geass "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink")
-[Category:江戶時代背景作品](https://zh.wikipedia.org/wiki/Category:江戶時代背景作品 "wikilink")
-[Category:動畫改編漫畫](https://zh.wikipedia.org/wiki/Category:動畫改編漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Code_Geass](https://zh.wikipedia.org/wiki/Category:Code_Geass "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink") [Category:江戶時代背景作品](https://zh.wikipedia.org/wiki/Category:江戶時代背景作品 "wikilink") [Category:動畫改編漫畫](https://zh.wikipedia.org/wiki/Category:動畫改編漫畫 "wikilink")
 
 1.  [新Code Geass開動決定](http://geass.jp/new_project/index.html)
 2.

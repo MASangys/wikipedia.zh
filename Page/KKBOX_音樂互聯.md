@@ -1,7 +1,4 @@
-KKBOX音樂互聯是每週日晚間於[華娛衛視播出一個半小時](https://zh.wikipedia.org/wiki/華娛衛視 "wikilink")(21:30-23:00)的音樂節目。每集由[Lollipop
-F的](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")[敖犬](../Page/敖犬.md "wikilink")、[小煜](https://zh.wikipedia.org/wiki/小煜 "wikilink")、[威廉](../Page/威廉.md "wikilink")、[阿緯其中兩人輪流主持的節目](https://zh.wikipedia.org/wiki/阿緯 "wikilink")，除報導KKBOX華語人氣週榜每週第1到第10名單曲外，每星期還邀請一至兩組大來賓做現場演唱及訪談。另外，[Lollipop
-F亦有參與幕後製作](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")，節目片頭的音樂就是由[Lollipop
-F所創作](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")。節目於2012年3月25日已播出最後一集。
+KKBOX音樂互聯是每週日晚間於[華娛衛視播出一個半小時](https://zh.wikipedia.org/wiki/華娛衛視 "wikilink")(21:30-23:00)的音樂節目。每集由[Lollipop F的](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")[敖犬](../Page/敖犬.md "wikilink")、[小煜](https://zh.wikipedia.org/wiki/小煜 "wikilink")、[威廉](../Page/威廉.md "wikilink")、[阿緯其中兩人輪流主持的節目](https://zh.wikipedia.org/wiki/阿緯 "wikilink")，除報導KKBOX華語人氣週榜每週第1到第10名單曲外，每星期還邀請一至兩組大來賓做現場演唱及訪談。另外，[Lollipop F亦有參與幕後製作](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")，節目片頭的音樂就是由[Lollipop F所創作](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")。節目於2012年3月25日已播出最後一集。
 
 ## 每集内容
 

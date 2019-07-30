@@ -1,7 +1,4 @@
-「**OVER**」是[日本的](../Page/日本.md "wikilink")[男子偶像團體](https://zh.wikipedia.org/wiki/男子偶像團體 "wikilink")[Hey\!
-Say\!
-JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年6月29日由[J
-Storm發售](../Page/J_Storm.md "wikilink")。
+「**OVER**」是[日本](../Page/日本.md "wikilink")的[男子偶像團體](https://zh.wikipedia.org/wiki/男子偶像團體 "wikilink")[Hey\! Say\! JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年6月29日由[J Storm發售](../Page/J_Storm.md "wikilink")。
 
 ## 概要
 
@@ -14,8 +11,7 @@ Storm發售](../Page/J_Storm.md "wikilink")。
 ### 初回限定盤1
 
 1.  **OVER**
-      - 作詞：zopp / 村野直球、作曲：Devanté / Tomas Cederholm / Filip
-        Lindfors、編曲：[船山基紀](https://zh.wikipedia.org/wiki/船山基紀 "wikilink")
+      - 作詞：zopp / 村野直球、作曲：Devanté / Tomas Cederholm / Filip Lindfors、編曲：[船山基紀](https://zh.wikipedia.org/wiki/船山基紀 "wikilink")
 2.  OVER（オリジナル・カラオケ）
 
 <!-- end list -->
@@ -56,10 +52,6 @@ Storm發售](../Page/J_Storm.md "wikilink")。
 
 ## 外部連結
 
-  - [OVER - J
-    Storm](https://web.archive.org/web/20120125033228/http://www.j-storm.co.jp/heysayjump/disco/single/s_07.html#img01)
+  - [OVER - J Storm](https://web.archive.org/web/20120125033228/http://www.j-storm.co.jp/heysayjump/disco/single/s_07.html#img01)
 
-[Category:Hey\!_Say\!_JUMP歌曲](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink")
+[Category:Hey\!_Say\!_JUMP歌曲](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink") [Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink")

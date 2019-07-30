@@ -1,6 +1,4 @@
-**Haxe** (读音为英语的 **hex**\[1\]，音标形式为 /heks/\[2\]\[3\])
-是一种多用途的开源高级[编程语言](../Page/编程语言.md "wikilink")，在其官方网站上称其为
-"universal language"。\[4\]
+**Haxe** (读音为英语的 **hex**\[1\]，音标形式为 /heks/\[2\]\[3\]) 是一种多用途的开源高级[编程语言](../Page/编程语言.md "wikilink")，在其官方网站上称其为 "universal language"。\[4\]
 
 它可以生成：
 
@@ -28,12 +26,9 @@
   - [Official Haxe website](http://haxe.org)
   - [Official Haxe book](http://www.amazon.co.uk/dp/0470122137)
   - [A Haxe Introduction Video](http://www.devideas.com/shows/haxe)
-  - [RAZAINA.FR](https://web.archive.org/web/20110721020154/http://www.razaina.fr/)
-    - some Haxe tutorials for beginners.
+  - [RAZAINA.FR](https://web.archive.org/web/20110721020154/http://www.razaina.fr/) - some Haxe tutorials for beginners.
 
-[Category:基于对象的编程语言](https://zh.wikipedia.org/wiki/Category:基于对象的编程语言 "wikilink")
-[Category:源代码到源代码编译器](https://zh.wikipedia.org/wiki/Category:源代码到源代码编译器 "wikilink")
-[Category:使用GPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用GPL许可证的软件 "wikilink")
+[Category:基于对象的编程语言](https://zh.wikipedia.org/wiki/Category:基于对象的编程语言 "wikilink") [Category:源代码到源代码编译器](https://zh.wikipedia.org/wiki/Category:源代码到源代码编译器 "wikilink") [Category:使用GPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用GPL许可证的软件 "wikilink")
 
 1.
 

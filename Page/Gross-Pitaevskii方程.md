@@ -1,29 +1,21 @@
-**Gross–Pitaevskii 方程**（以[Eugene P.
-Gross命名](https://zh.wikipedia.org/wiki/Eugene_P._Gross "wikilink")\[1\]与[Lev
-Petrovich
-Pitaevskii](https://zh.wikipedia.org/wiki/Lev_Petrovich_Pitaevskii "wikilink")\[2\])
-描述了全同[玻色子量子体系的基态](../Page/玻色子.md "wikilink")，其中使用了[Hartree-Fock近似与](../Page/哈特里－福克方程.md "wikilink")[赝势相互作用模型](../Page/赝势.md "wikilink")。
+**Gross–Pitaevskii 方程**（以[Eugene P. Gross命名](https://zh.wikipedia.org/wiki/Eugene_P._Gross "wikilink")\[1\]与[Lev Petrovich Pitaevskii](https://zh.wikipedia.org/wiki/Lev_Petrovich_Pitaevskii "wikilink")\[2\]) 描述了全同[玻色子](../Page/玻色子.md "wikilink")量子体系的基态，其中使用了[Hartree-Fock近似与](../Page/哈特里－福克方程.md "wikilink")[赝势](../Page/赝势.md "wikilink")相互作用模型。
 
 在Hartree-Fock近似中，\(N\)个玻色子体系的总[波函数](../Page/波函数.md "wikilink")\(\Psi\)为单粒子波函数\(\psi\)之积
 
-\[\Psi(\mathbf{r}_1,\mathbf{r}_2,\dots,\mathbf{r}_N)=\psi(\mathbf{r}_1)\psi(\mathbf{r}_2)\dots\psi(\mathbf{r}_N)\]
-其中\(\mathbf{r}_i\)为第\(i\)个玻色子的坐标。
+\[\Psi(\mathbf{r}_1,\mathbf{r}_2,\dots,\mathbf{r}_N)=\psi(\mathbf{r}_1)\psi(\mathbf{r}_2)\dots\psi(\mathbf{r}_N)\] 其中\(\mathbf{r}_i\)为第\(i\)个玻色子的坐标。
 
 赝势模型下的哈密顿量为
 
 \[H=\sum_{i=1}^N \left(-{\hbar^2\over 2m}{\partial^2\over\partial\mathbf{r}_i^2}+V(\mathbf{r}_i)\right)
-+\sum_{i<j}{4\pi\hbar^2a_s\over m}\delta(\mathbf{r}_i-\mathbf{r}_j),\]
-其中\(m\)为玻色子质量，\(V\)为外势场，\(a_s\)为玻色子-玻色子散射长度，\(\delta(\mathbf{r})\)为狄拉克δ函数。
++\sum_{i<j}{4\pi\hbar^2a_s\over m}\delta(\mathbf{r}_i-\mathbf{r}_j),\] 其中\(m\)为玻色子质量，\(V\)为外势场，\(a_s\)为玻色子-玻色子散射长度，\(\delta(\mathbf{r})\)为狄拉克δ函数。
 
 如果单粒子波函数满足Gross-Pitaevski方程，
 
-\[\left(-\frac{\hbar^2}{2m}{\partial^2\over\partial\mathbf{r}^2} + V(\mathbf{r})  + {4\pi\hbar^2a_s\over m}\vert\psi(\mathbf{r})\vert^2\right)\psi(\mathbf{r})=\mu\psi(\mathbf{r}),\]
-则总波函数在归一化条件\(\int dV |\psi|^2=N\)下可以使赝势模型哈密顿量的总能量最小。
+\[\left(-\frac{\hbar^2}{2m}{\partial^2\over\partial\mathbf{r}^2} + V(\mathbf{r})  + {4\pi\hbar^2a_s\over m}\vert\psi(\mathbf{r})\vert^2\right)\psi(\mathbf{r})=\mu\psi(\mathbf{r}),\] 则总波函数在归一化条件\(\int dV |\psi|^2=N\)下可以使赝势模型哈密顿量的总能量最小。
 
-Gross-Pitaevski方程是描述[玻色-爱因斯坦凝聚单粒子波函数的模型方程](https://zh.wikipedia.org/wiki/玻色-爱因斯坦凝聚 "wikilink")。它有类似[金兹堡－朗道方程的形式](../Page/金兹堡－朗道方程.md "wikilink")，也会被称为[非线性薛定谔方程](https://zh.wikipedia.org/wiki/非线性薛定谔方程 "wikilink").
+Gross-Pitaevski方程是描述[玻色-爱因斯坦凝聚单粒子波函数的模型方程](https://zh.wikipedia.org/wiki/玻色-爱因斯坦凝聚 "wikilink")。它有类似[金兹堡－朗道方程](../Page/金兹堡－朗道方程.md "wikilink")的形式，也会被称为[非线性薛定谔方程](https://zh.wikipedia.org/wiki/非线性薛定谔方程 "wikilink").
 
-[玻色-爱因斯坦凝聚](https://zh.wikipedia.org/wiki/玻色-爱因斯坦凝聚 "wikilink")(BEC)
-是处于同一量子态的玻色气体可以由同一个波函数进行描述。单个粒子可有单粒子波函数描述。真实气体中粒子相互作用包含在相应的多体薛定谔方程当中。当气体中粒子间距大于[散射长度](../Page/散射长度.md "wikilink")（即所谓的稀薄极限）时，真实的相互作用势就可以被替换为赝势。Gross-Pitaevskii方程的[非线性来源于粒子间的相互作用](https://zh.wikipedia.org/wiki/非线性 "wikilink")。当把方程中相互作用的耦合常数设为零时，非线性消失，方程以描述单粒子在势阱中的单粒子薛定谔方程的形式出现。
+[玻色-爱因斯坦凝聚](https://zh.wikipedia.org/wiki/玻色-爱因斯坦凝聚 "wikilink")(BEC) 是处于同一量子态的玻色气体可以由同一个波函数进行描述。单个粒子可有单粒子波函数描述。真实气体中粒子相互作用包含在相应的多体薛定谔方程当中。当气体中粒子间距大于[散射长度](../Page/散射长度.md "wikilink")（即所谓的稀薄极限）时，真实的相互作用势就可以被替换为赝势。Gross-Pitaevskii方程的[非线性来源于粒子间的相互作用](https://zh.wikipedia.org/wiki/非线性 "wikilink")。当把方程中相互作用的耦合常数设为零时，非线性消失，方程以描述单粒子在势阱中的单粒子薛定谔方程的形式出现。
 
 ## 方程形式
 
@@ -31,8 +23,7 @@ Gross-Pitaevskii方程的形式类似于一般薛定谔方程，但是多出一�
 
 \[g=\frac{4\pi\hbar^2 a_s}{m}\],
 
-其中\(\hbar\)为约化[普朗克常数](../Page/普朗克常数.md "wikilink")。
-[能量密度为](../Page/能量密度.md "wikilink")
+其中\(\hbar\)为约化[普朗克常数](../Page/普朗克常数.md "wikilink")。 [能量密度](../Page/能量密度.md "wikilink")为
 
 \[\mathcal{E}=\frac{\hbar^2}{2m}\vert\nabla\Psi(\mathbf{r})\vert^2 + V(\mathbf{r})\vert\Psi(\mathbf{r})\vert^2 + \frac{1}{2}g\vert\Psi(\mathbf{r})\vert^4,\]
 
@@ -74,8 +65,7 @@ Gross-Pitaevskii方程的形式类似于一般薛定谔方程，但是多出一�
 
 #### 孤子
 
-一维[孤子可以构成玻色爱因斯坦凝聚](https://zh.wikipedia.org/wiki/孤子 "wikilink")，取决于相互作用是[引力还是](../Page/引力.md "wikilink")[斥力](https://zh.wikipedia.org/wiki/斥力 "wikilink")，形成亮孤子或暗孤子。两种孤子都是均匀密度背景下的定域扰动。如若相互作用是斥力形式的，
-\(g>0\)，Gross–Pitaevskii方程的可能解为，
+一维[孤子可以构成玻色爱因斯坦凝聚](https://zh.wikipedia.org/wiki/孤子 "wikilink")，取决于相互作用是[引力](../Page/引力.md "wikilink")还是[斥力](https://zh.wikipedia.org/wiki/斥力 "wikilink")，形成亮孤子或暗孤子。两种孤子都是均匀密度背景下的定域扰动。如若相互作用是斥力形式的， \(g>0\)，Gross–Pitaevskii方程的可能解为，
 
 \[\psi(x) = \psi_0\tanh\left(\frac{x}{\sqrt{2}\xi}\right)\],
 
@@ -125,17 +115,15 @@ Gross-Pitaevskii方程的形式类似于一般薛定谔方程，但是多出一�
 
 \[\hbar\omega = \epsilon_\boldsymbol{q} = \sqrt{\frac{\hbar^2\boldsymbol{q}^2}{2m}(\frac{\hbar^2\boldsymbol{q}^2}{2m}+2gn)}\]
 
-当\(\boldsymbol{q}\)很大时，[色散关系呈现为](../Page/色散关系.md "wikilink")\(\boldsymbol{q}\)的平方，正如所料类似于非相互作用的激子。当\(\boldsymbol{q}\)很小，色散关系为线性，
+当\(\boldsymbol{q}\)很大时，[色散关系](../Page/色散关系.md "wikilink")呈现为\(\boldsymbol{q}\)的平方，正如所料类似于非相互作用的激子。当\(\boldsymbol{q}\)很小，色散关系为线性，
 
 \[\epsilon_\boldsymbol{q} = s\hbar q\]
 
-其中\(s=\sqrt{ng/m}\)为凝聚态中的声速。
-\(\epsilon_\boldsymbol{q}/(\hbar q)>s\)表明，根据[Landau的判则](https://zh.wikipedia.org/wiki/Landau "wikilink")，该凝聚态为[超流体](../Page/超流体.md "wikilink")，意味着如果一个物体在凝聚态中以小于\(s\)的速度运动，它不会形成激子，运动无[耗散](../Page/耗散.md "wikilink")，此为超流体的特征。实验上，采用高度聚焦激光，激光频率较共振频率小，已经证明了凝聚态的超流性\[4\]。采用[二次量子化公式](https://zh.wikipedia.org/wiki/二次量子化 "wikilink")，微观方法可以描述凝聚态同样的色散关系。
+其中\(s=\sqrt{ng/m}\)为凝聚态中的声速。 \(\epsilon_\boldsymbol{q}/(\hbar q)>s\)表明，根据[Landau的判则](https://zh.wikipedia.org/wiki/Landau "wikilink")，该凝聚态为[超流体](../Page/超流体.md "wikilink")，意味着如果一个物体在凝聚态中以小于\(s\)的速度运动，它不会形成激子，运动无[耗散](../Page/耗散.md "wikilink")，此为超流体的特征。实验上，采用高度聚焦激光，激光频率较共振频率小，已经证明了凝聚态的超流性\[4\]。采用[二次量子化公式](https://zh.wikipedia.org/wiki/二次量子化 "wikilink")，微观方法可以描述凝聚态同样的色散关系。
 
 ## 参考文献
 
-Theory of Bose_Einstein condensation in trapped gases Franco Dalfovo
-and Stafano Giorgini Reviews Modern Physics
+Theory of Bose_Einstein condensation in trapped gases Franco Dalfovo and Stafano Giorgini Reviews Modern Physics
 
 ## 更多阅读
 
@@ -148,7 +136,4 @@ and Stafano Giorgini Reviews Modern Physics
 1.
 2.
 3.
-4.  [*Evidence for a Critical Velocity in a Bose–Einstein Condensed Gas*
-    C. Raman, M. Köhl, R. Onofrio, D. S. Durfee, C. E. Kuklewicz, Z.
-    Hadzibabic, and W.
-    Ketterle](http://prl.aps.org/abstract/PRL/v83/i13/p2502_1)
+4.  [*Evidence for a Critical Velocity in a Bose–Einstein Condensed Gas* C. Raman, M. Köhl, R. Onofrio, D. S. Durfee, C. E. Kuklewicz, Z. Hadzibabic, and W. Ketterle](http://prl.aps.org/abstract/PRL/v83/i13/p2502_1)

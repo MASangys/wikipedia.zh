@@ -1,5 +1,4 @@
-**cFosSpeed**是一個在[Windows作業系統上管理網路流量的軟體方案](https://zh.wikipedia.org/wiki/Windows作業系統 "wikilink")。在繁忙的網路環境中，它能有效改善網路延遲。
-這個程式以驅動程式的方式附加於Windows作業系統，進行封包監測與[應用層協定的分析](https://zh.wikipedia.org/wiki/應用層 "wikilink")。
+**cFosSpeed**是一個在[Windows作業系統上管理網路流量的軟體方案](https://zh.wikipedia.org/wiki/Windows作業系統 "wikilink")。在繁忙的網路環境中，它能有效改善網路延遲。 這個程式以驅動程式的方式附加於Windows作業系統，進行封包監測與[應用層協定的分析](https://zh.wikipedia.org/wiki/應用層 "wikilink")。
 
 因此，它较獲得[線上遊戲玩家與](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")[網路電話使用者的青睞](https://zh.wikipedia.org/wiki/網路電話 "wikilink")。
 
@@ -29,14 +28,11 @@ cFosSpeed也會降低TCP的窗口大小，以避免資料傳出者一次送出�
 ## 外部链接
 
   -
-  - [Review on
-    kashfi.com](https://web.archive.org/web/20120306225236/http://kashfi.com/2010/04/08/review-cfosspeed-traffic-shaper/)
+  - [Review on kashfi.com](https://web.archive.org/web/20120306225236/http://kashfi.com/2010/04/08/review-cfosspeed-traffic-shaper/)
 
-  - [Review on Softonic
-    onsoftware](http://en.onsoftware.com/review-cfosspeed/)
+  - [Review on Softonic onsoftware](http://en.onsoftware.com/review-cfosspeed/)
 
-[Category:网络软件](https://zh.wikipedia.org/wiki/Category:网络软件 "wikilink")
-[Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
+[Category:网络软件](https://zh.wikipedia.org/wiki/Category:网络软件 "wikilink") [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-〈**Amazing**〉是[西城男孩](../Page/西城男孩.md "wikilink")在專輯[Face to
-Face的第三支單曲](https://zh.wikipedia.org/wiki/Face_to_Face_\(Westlife_album\) "wikilink")。這支單曲是西城男孩最低銷量的單曲。
+〈**Amazing**〉是[西城男孩](../Page/西城男孩.md "wikilink")在專輯[Face to Face的第三支單曲](https://zh.wikipedia.org/wiki/Face_to_Face_\(Westlife_album\) "wikilink")。這支單曲是西城男孩最低銷量的單曲。
 
 單曲在英國單曲排行榜最高排行第四。
 
@@ -39,5 +38,4 @@ Face的第三支單曲](https://zh.wikipedia.org/wiki/Face_to_Face_\(Westlife_al
 
   - [西城男孩官方網站](http://www.westlife.com)
 
-[Category:西城男孩歌曲](https://zh.wikipedia.org/wiki/Category:西城男孩歌曲 "wikilink")
-[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
+[Category:西城男孩歌曲](https://zh.wikipedia.org/wiki/Category:西城男孩歌曲 "wikilink") [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")

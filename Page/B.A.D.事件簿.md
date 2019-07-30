@@ -1,9 +1,8 @@
-《**B.A.D.事件簿**》（）是[日本的](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")。作者為，插畫是kona。為第11屆[Entame大獎小說部門優秀賞的得獎作品](../Page/Entame大獎小說部門.md "wikilink")，最初參賽時作品名為《》。
+《**B.A.D.事件簿**》（）是[日本](../Page/日本.md "wikilink")的[輕小說](../Page/輕小說.md "wikilink")作品。作者為，插畫是kona。為第11屆[Entame大獎小說部門](../Page/Entame大獎小說部門.md "wikilink")優秀賞的得獎作品，最初參賽時作品名為《》。
 
 ## 概要
 
-傲慢而冷酷，自我中心的14歲少女**繭墨阿座化**。具有異能的她，身穿[哥德蘿莉服裝](https://zh.wikipedia.org/wiki/哥德蘿莉 "wikilink")，手持[紙傘與異界聯繫](https://zh.wikipedia.org/wiki/紙傘 "wikilink")，與死者進行溝通。但是她的力量只用於自身的娛樂。殘酷而痛苦，醜陋而美麗的神祕幻想（Mysterious
-fantasy）。
+傲慢而冷酷，自我中心的14歲少女**繭墨阿座化**。具有異能的她，身穿[哥德蘿莉服裝](https://zh.wikipedia.org/wiki/哥德蘿莉 "wikilink")，手持[紙傘與異界聯繫](https://zh.wikipedia.org/wiki/紙傘 "wikilink")，與死者進行溝通。但是她的力量只用於自身的娛樂。殘酷而痛苦，醜陋而美麗的神祕幻想（Mysterious fantasy）。
 
 ## 大綱
 
@@ -353,9 +352,6 @@ fantasy）。
 
 ## 外部連結
 
-  - [FB
-    CollectDrama系列公式網頁](https://web.archive.org/web/20111212064939/http://www.enterbrain.co.jp/cp/fbcd/index.html)
+  - [FB CollectDrama系列公式網頁](https://web.archive.org/web/20111212064939/http://www.enterbrain.co.jp/cp/fbcd/index.html)
 
-[Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:神秘題材作品](https://zh.wikipedia.org/wiki/Category:神秘題材作品 "wikilink")
+[Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:神秘題材作品](https://zh.wikipedia.org/wiki/Category:神秘題材作品 "wikilink")

@@ -1,5 +1,4 @@
-《**超級機械人大戰OG -The
-Inspector-**》為[超級機械人大戰OG系列的動畫](https://zh.wikipedia.org/wiki/超級機械人大戰OG "wikilink")。
+《**超級機械人大戰OG -The Inspector-**》為[超級機械人大戰OG系列的動畫](https://zh.wikipedia.org/wiki/超級機械人大戰OG "wikilink")。
 
 ## 簡介
 
@@ -11,15 +10,11 @@ L5战役完结半年后。世界上各种势力及DC残党都在暗中活跃，�
 
   - 原作 - SR Produce Team
   - 監督 - [大張正己](https://zh.wikipedia.org/wiki/大張正己 "wikilink")
-  - 系列構成・脚本 -
-    [竹田裕一郎](https://zh.wikipedia.org/wiki/竹田裕一郎 "wikilink")、[八房龍之助](https://zh.wikipedia.org/wiki/八房龍之助 "wikilink")
+  - 系列構成・脚本 - [竹田裕一郎](https://zh.wikipedia.org/wiki/竹田裕一郎 "wikilink")、[八房龍之助](https://zh.wikipedia.org/wiki/八房龍之助 "wikilink")
   - 人物原案 - [河野さち子](https://zh.wikipedia.org/wiki/河野さち子 "wikilink")、斉藤和衛
-  - 人物设置 -
-    [江端里沙](https://zh.wikipedia.org/wiki/江端里沙 "wikilink")、[山根理宏](https://zh.wikipedia.org/wiki/山根理宏 "wikilink")、浜崎賢一、大籠之仁
-  - 机械设定 -
-    [宮武一貴](https://zh.wikipedia.org/wiki/宮武一貴 "wikilink")、[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")、[明貴美加](../Page/明貴美加.md "wikilink")、山根理宏、[ことぶきつかさ](https://zh.wikipedia.org/wiki/ことぶきつかさ "wikilink")、斉藤和衛、藤井大誠、[富士原昌幸](https://zh.wikipedia.org/wiki/富士原昌幸 "wikilink")、守谷淳一、杉浦俊朗、安藤弘、小野聖二、金丸仁、土屋英寛、大張正己、[大河原邦男](../Page/大河原邦男.md "wikilink")
-  - Production Design -
-    [中北晃二](https://zh.wikipedia.org/wiki/中北晃二 "wikilink")
+  - 人物设置 - [江端里沙](https://zh.wikipedia.org/wiki/江端里沙 "wikilink")、[山根理宏](https://zh.wikipedia.org/wiki/山根理宏 "wikilink")、浜崎賢一、大籠之仁
+  - 机械设定 - [宮武一貴](https://zh.wikipedia.org/wiki/宮武一貴 "wikilink")、[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")、[明貴美加](../Page/明貴美加.md "wikilink")、山根理宏、[ことぶきつかさ](https://zh.wikipedia.org/wiki/ことぶきつかさ "wikilink")、斉藤和衛、藤井大誠、[富士原昌幸](https://zh.wikipedia.org/wiki/富士原昌幸 "wikilink")、守谷淳一、杉浦俊朗、安藤弘、小野聖二、金丸仁、土屋英寛、大張正己、[大河原邦男](../Page/大河原邦男.md "wikilink")
+  - Production Design - [中北晃二](https://zh.wikipedia.org/wiki/中北晃二 "wikilink")
   - 总作画監督 - 椛島洋介（人物）、山根理宏（機體）
   - 美術監督 - 野村正信
   - 色彩設計 - 斉藤麻記
@@ -27,26 +22,21 @@ L5战役完结半年后。世界上各种势力及DC残党都在暗中活跃，�
   - 动画制作人 - 曽根孝治
   - 制作人 - [創通](../Page/創通.md "wikilink")
   - 动画制作 - [旭プロダクション](https://zh.wikipedia.org/wiki/旭プロダクション "wikilink")
-  - 監修 -
-    [寺田貴信](../Page/寺田貴信.md "wikilink")、[森住惣一郎](https://zh.wikipedia.org/wiki/森住惣一郎 "wikilink")
+  - 監修 - [寺田貴信](../Page/寺田貴信.md "wikilink")、[森住惣一郎](https://zh.wikipedia.org/wiki/森住惣一郎 "wikilink")
   - 製作 - SRWOG PROJECT
 
 ## 主題曲
 
   - 主題曲1「MAXON」
-    作詞、作曲 - [影山浩宣](../Page/影山浩宣.md "wikilink") / 編曲 -
-    [IKUO](https://zh.wikipedia.org/wiki/Ikuo "wikilink")、寺田志保、栗山善親 / 歌
-    - [JAM Project](../Page/JAM_Project.md "wikilink")
+    作詞、作曲 - [影山浩宣](../Page/影山浩宣.md "wikilink") / 編曲 - [IKUO](https://zh.wikipedia.org/wiki/Ikuo "wikilink")、寺田志保、栗山善親 / 歌 - [JAM Project](../Page/JAM_Project.md "wikilink")
   - 主題曲2「」
     作詞、作曲 - 影山浩宣 / 編曲 - 寺田志保、栗山善親 / 歌 - JAM Project
   - 片尾曲1「」
-    作詞、作曲、編曲 - 山田高弘 / 歌 -
-    [美鄉秋](https://zh.wikipedia.org/wiki/美鄉秋 "wikilink")
+    作詞、作曲、編曲 - 山田高弘 / 歌 - [美鄉秋](https://zh.wikipedia.org/wiki/美鄉秋 "wikilink")
   - 片尾曲2「」
     作詞 - 畑亜貴 / 作曲・編曲 - 黒須克彦 / 歌 - 美鄉秋
   - 插入歌「」
-    作詞 - 寺田貴信\[1\] / 歌 -
-    [平井理子](../Page/平井理子.md "wikilink")、[貝原怜奈](https://zh.wikipedia.org/wiki/貝原怜奈 "wikilink")
+    作詞 - 寺田貴信\[1\] / 歌 - [平井理子](../Page/平井理子.md "wikilink")、[貝原怜奈](https://zh.wikipedia.org/wiki/貝原怜奈 "wikilink")
 
 ## 各集列表
 
@@ -477,14 +467,9 @@ L5战役完结半年后。世界上各种势力及DC残党都在暗中活跃，�
 
   - [官方網站](http://www.suparobo.jp/srw_lineup/srw_ogin/)
 
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink")
-[Category:2010年UHF動畫](https://zh.wikipedia.org/wiki/Category:2010年UHF動畫 "wikilink")
-[Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink")
-[Category:旭Production](https://zh.wikipedia.org/wiki/Category:旭Production "wikilink")
+[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink") [Category:2010年UHF動畫](https://zh.wikipedia.org/wiki/Category:2010年UHF動畫 "wikilink") [Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink") [Category:旭Production](https://zh.wikipedia.org/wiki/Category:旭Production "wikilink")
 
-1.  [「ネタバレ\!?インスペクター」第10話](http://www.suparobo.jp/srw_lineup/srw_ogin/netabare/)
-    中，確認了寺田在插入歌中有其銜頭。
+1.  [「ネタバレ\!?インスペクター」第10話](http://www.suparobo.jp/srw_lineup/srw_ogin/netabare/) 中，確認了寺田在插入歌中有其銜頭。
 
 2.  也在担任副人物设计。
 

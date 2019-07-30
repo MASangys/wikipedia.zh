@@ -1,10 +1,8 @@
-**大瀧若菜**（），日本女性歌手。出身於[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。隸屬於[SPACE
-CRAFT](../Page/SPACE_CRAFT.md "wikilink")。是已解散的女子組合[Kalafina](../Page/Kalafina.md "wikilink")成員之一。梶浦曾說過Wakana有「女神一般的歌聲」。喜歡的動物是鯊魚，所以有鯊魚姬的稱號。
+**大瀧若菜**（），日本女性歌手。出身於[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。隸屬於[SPACE CRAFT](../Page/SPACE_CRAFT.md "wikilink")。是已解散的女子組合[Kalafina](../Page/Kalafina.md "wikilink")成員之一。梶浦曾說過Wakana有「女神一般的歌聲」。喜歡的動物是鯊魚，所以有鯊魚姬的稱號。
 
 ## 來歷
 
-自12歲時學習[聲樂](https://zh.wikipedia.org/wiki/聲樂 "wikilink")。自17歲開始參加許多Club
-Event。到東京後，2006年拔擢為[FictionJunction](../Page/FictionJunction.md "wikilink")的主唱。
+自12歲時學習[聲樂](https://zh.wikipedia.org/wiki/聲樂 "wikilink")。自17歲開始參加許多Club Event。到東京後，2006年拔擢為[FictionJunction](../Page/FictionJunction.md "wikilink")的主唱。
 
 ## 主要活動
 
@@ -14,12 +12,9 @@ Event。到東京後，2006年拔擢為[FictionJunction](../Page/FictionJunction
   - 《》OST（2007年2月21日）
       -
       - Where the lights are (Japanese Ver.)
-  - [Revo](../Page/Revo.md "wikilink") &
-    [梶浦由記](../Page/梶浦由記.md "wikilink") 合作單曲《[Dream
-    Port](https://zh.wikipedia.org/wiki/Dream_Port "wikilink")》（2008年6月18日）
+  - [Revo](../Page/Revo.md "wikilink") & [梶浦由記](../Page/梶浦由記.md "wikilink") 合作單曲《[Dream Port](https://zh.wikipedia.org/wiki/Dream_Port "wikilink")》（2008年6月18日）
       -
-  - 專輯《[Everlasting
-    Songs](https://zh.wikipedia.org/wiki/Everlasting_Songs "wikilink")》（2009年2月25日）
+  - 專輯《[Everlasting Songs](https://zh.wikipedia.org/wiki/Everlasting_Songs "wikilink")》（2009年2月25日）
       -
       - 部分合唱
   - 單曲《Parallel Hearts》（2009年4月29日）
@@ -40,8 +35,7 @@ Event。到東京後，2006年拔擢為[FictionJunction](../Page/FictionJunction
   - 單曲《》（2010年1月27日）
       -
       - 野原（合唱）
-  - Live專輯《FictionJunction 2008-2010 The BEST of Yuki Kajiura
-    LIVE》（2010年5月12日）
+  - Live專輯《FictionJunction 2008-2010 The BEST of Yuki Kajiura LIVE》（2010年5月12日）
       - vanity
       - Liminality
       - forest
@@ -66,8 +60,7 @@ Event。到東京後，2006年拔擢為[FictionJunction](../Page/FictionJunction
 
 #### 專輯
 
-  - [Seventh
-    Heaven](../Page/Seventh_Heaven_\(Kalafina專輯\).md "wikilink")（2009年3月4日）
+  - [Seventh Heaven](../Page/Seventh_Heaven_\(Kalafina專輯\).md "wikilink")（2009年3月4日）
   - [Red Moon](../Page/Red_Moon.md "wikilink")（2010年3月17日）
   - [After Eden](../Page/After_Eden.md "wikilink")（2011年9月21日）
 
@@ -98,8 +91,4 @@ Event。到東京後，2006年拔擢為[FictionJunction](../Page/FictionJunction
   - [FictionJunction](http://www.jvcmusic.co.jp/fj/)
   - [Kalafina OFFICIAL WEBSITE](http://www.kalafina.jp/)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink")
-[Category:Kalafina](https://zh.wikipedia.org/wiki/Category:Kalafina "wikilink")
-[Category:SPACE_CRAFT](https://zh.wikipedia.org/wiki/Category:SPACE_CRAFT "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink") [Category:Kalafina](https://zh.wikipedia.org/wiki/Category:Kalafina "wikilink") [Category:SPACE_CRAFT](https://zh.wikipedia.org/wiki/Category:SPACE_CRAFT "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")

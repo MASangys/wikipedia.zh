@@ -1,15 +1,10 @@
-[Aberdeen_Centre_Plaza_ac1_201508.jpg](https://zh.wikipedia.org/wiki/File:Aberdeen_Centre_Plaza_ac1_201508.jpg "fig:Aberdeen_Centre_Plaza_ac1_201508.jpg")
-[Aberdeen_Centre_Plaza_ac2_shops_201508.jpg](https://zh.wikipedia.org/wiki/File:Aberdeen_Centre_Plaza_ac2_shops_201508.jpg "fig:Aberdeen_Centre_Plaza_ac2_shops_201508.jpg")
-[Ac4_interior_201508.jpg](https://zh.wikipedia.org/wiki/File:Ac4_interior_201508.jpg "fig:Ac4_interior_201508.jpg")
-[Aberdeen_Centre_Ac5_shops_201508.jpg](https://zh.wikipedia.org/wiki/File:Aberdeen_Centre_Ac5_shops_201508.jpg "fig:Aberdeen_Centre_Ac5_shops_201508.jpg")
+[Aberdeen_Centre_Plaza_ac1_201508.jpg](https://zh.wikipedia.org/wiki/File:Aberdeen_Centre_Plaza_ac1_201508.jpg "fig:Aberdeen_Centre_Plaza_ac1_201508.jpg") [Aberdeen_Centre_Plaza_ac2_shops_201508.jpg](https://zh.wikipedia.org/wiki/File:Aberdeen_Centre_Plaza_ac2_shops_201508.jpg "fig:Aberdeen_Centre_Plaza_ac2_shops_201508.jpg") [Ac4_interior_201508.jpg](https://zh.wikipedia.org/wiki/File:Ac4_interior_201508.jpg "fig:Ac4_interior_201508.jpg") [Aberdeen_Centre_Ac5_shops_201508.jpg](https://zh.wikipedia.org/wiki/File:Aberdeen_Centre_Ac5_shops_201508.jpg "fig:Aberdeen_Centre_Ac5_shops_201508.jpg")
 
-**ac**，前稱**香港仔中心商場**\[1\]，是[南區內的龍頭](../Page/南區_\(香港\).md "wikilink")[商場](../Page/商場.md "wikilink")，位於[香港仔中心基座](../Page/香港仔中心.md "wikilink")，不少[連鎖店的](../Page/連鎖店.md "wikilink")[南區分店都設於此處](../Page/南區_\(香港\).md "wikilink")，當中包括同屬[和記黃埔的](../Page/和記黃埔.md "wikilink")[百佳超級廣場](https://zh.wikipedia.org/wiki/百佳超級廣場 "wikilink")、[豐澤電器和](../Page/豐澤電器.md "wikilink")[屈臣氏](https://zh.wikipedia.org/wiki/屈臣氏 "wikilink")。商場共分五期。
+**ac**，前稱**香港仔中心商場**\[1\]，是[南區內的龍頭](../Page/南區_\(香港\).md "wikilink")[商場](../Page/商場.md "wikilink")，位於[香港仔中心](../Page/香港仔中心.md "wikilink")基座，不少[連鎖店](../Page/連鎖店.md "wikilink")的[南區分店都設於此處](../Page/南區_\(香港\).md "wikilink")，當中包括同屬[和記黃埔](../Page/和記黃埔.md "wikilink")的[百佳超級廣場](https://zh.wikipedia.org/wiki/百佳超級廣場 "wikilink")、[豐澤電器](../Page/豐澤電器.md "wikilink")和[屈臣氏](https://zh.wikipedia.org/wiki/屈臣氏 "wikilink")。商場共分五期。
 
 ## 簡介
 
-香港仔中心在未改建時，前身為船塢，期後船塢撤出並於1960年進行填海，重建為現時的香港仔中心，**香港仔中心商場**隨即落成。\[2\]商場分為5期，第1期任於香港仔中心的北面，有百佳等商舖進進駐。第2期位於香港仔中心的西面，擁有[美國冒險樂園](../Page/美國冒險樂園.md "wikilink")、[759阿信屋等商舖](../Page/759阿信屋.md "wikilink")。第3期位於香港仔中心的南面，有兩間酒樓、[元氣壽司](../Page/元氣壽司.md "wikilink")、[大家樂](../Page/大家樂.md "wikilink")、[馬會等商舖](https://zh.wikipedia.org/wiki/馬會 "wikilink")。第4期位於香港仔中心的東面，在2014年，位於一樓的[嘉年華海鮮酒家結業後進行大規模翻新](https://zh.wikipedia.org/wiki/嘉年華海鮮酒家 "wikilink")，重新裝修，加入時尚的室內設計，引入不同類型的食肆及特色零售商戶，當中包括首次進駐港島南區的太興燒味、靠得住粥麵小館、mee
-lemongrass 馬來喇沙.海南雞飯專門店 、 菜菜鍋
-、牛角日本燒肉專門店、Triumph、Wacoal及天仁茗茶等。第5期位於1-4期商場中央，有[恆生銀行](https://zh.wikipedia.org/wiki/恆生銀行 "wikilink")、[百份百.意樂大師即造烘焙餐廳](https://zh.wikipedia.org/wiki/百份百.意樂大師即造烘焙餐廳 "wikilink")、[南小館等商舖進進駐](https://zh.wikipedia.org/wiki/南小館 "wikilink")。商場於2015年3月易名為《ac》\[3\]
+香港仔中心在未改建時，前身為船塢，期後船塢撤出並於1960年進行填海，重建為現時的香港仔中心，**香港仔中心商場**隨即落成。\[2\]商場分為5期，第1期任於香港仔中心的北面，有百佳等商舖進進駐。第2期位於香港仔中心的西面，擁有[美國冒險樂園](../Page/美國冒險樂園.md "wikilink")、[759阿信屋](../Page/759阿信屋.md "wikilink")等商舖。第3期位於香港仔中心的南面，有兩間酒樓、[元氣壽司](../Page/元氣壽司.md "wikilink")、[大家樂](../Page/大家樂.md "wikilink")、[馬會等商舖](https://zh.wikipedia.org/wiki/馬會 "wikilink")。第4期位於香港仔中心的東面，在2014年，位於一樓的[嘉年華海鮮酒家結業後進行大規模翻新](https://zh.wikipedia.org/wiki/嘉年華海鮮酒家 "wikilink")，重新裝修，加入時尚的室內設計，引入不同類型的食肆及特色零售商戶，當中包括首次進駐港島南區的太興燒味、靠得住粥麵小館、mee lemongrass 馬來喇沙.海南雞飯專門店 、 菜菜鍋 、牛角日本燒肉專門店、Triumph、Wacoal及天仁茗茶等。第5期位於1-4期商場中央，有[恆生銀行](https://zh.wikipedia.org/wiki/恆生銀行 "wikilink")、[百份百.意樂大師即造烘焙餐廳](https://zh.wikipedia.org/wiki/百份百.意樂大師即造烘焙餐廳 "wikilink")、[南小館等商舖進進駐](https://zh.wikipedia.org/wiki/南小館 "wikilink")。商場於2015年3月易名為《ac》\[3\]
 
 ## 租戶
 
@@ -38,8 +33,7 @@ lemongrass 馬來喇沙.海南雞飯專門店 、 菜菜鍋
       - [牛角日本燒肉專門店](https://zh.wikipedia.org/wiki/牛角日本燒肉專門店 "wikilink")
       - [殿糖級](https://zh.wikipedia.org/wiki/殿糖級 "wikilink")
       - [麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")
-      - [mee lemongrass
-        馬來喇沙.海南雞飯專門店](https://zh.wikipedia.org/wiki/mee_lemongrass_馬來喇沙.海南雞飯專門店 "wikilink")
+      - [mee lemongrass 馬來喇沙.海南雞飯專門店](https://zh.wikipedia.org/wiki/mee_lemongrass_馬來喇沙.海南雞飯專門店 "wikilink")
       - [里的茶](https://zh.wikipedia.org/wiki/里的茶 "wikilink")
       - [大昌食品專門店](https://zh.wikipedia.org/wiki/大昌食品專門店 "wikilink")
 
@@ -47,27 +41,19 @@ lemongrass 馬來喇沙.海南雞飯專門店 、 菜菜鍋
 
   - 第5期商場 ac5
       - [百份百.意樂大師即造烘焙餐廳](https://zh.wikipedia.org/wiki/百份百.意樂大師即造烘焙餐廳 "wikilink")
-
       - [味千拉麵](../Page/味千拉麵.md "wikilink")
-
       - [南小館](https://zh.wikipedia.org/wiki/南小館 "wikilink")
-
       - [吉野家](../Page/吉野家.md "wikilink")
-
       - [譚仔三哥](https://zh.wikipedia.org/wiki/譚仔三哥 "wikilink")
-
       - [八方雲集](../Page/八方雲集.md "wikilink")
-
-      -
+      - [裝修中](https://zh.wikipedia.org/wiki/裝修中 "wikilink")
       - [茶木](https://zh.wikipedia.org/wiki/茶木 "wikilink")
-
       - [肇順名匯河鮮專門店](https://zh.wikipedia.org/wiki/肇順名匯河鮮專門店 "wikilink")
 
 <!-- end list -->
 
   - 第1期商場
-      - [金滿樓海鮮酒家](https://zh.wikipedia.org/wiki/金滿樓海鮮酒家 "wikilink")→[權發飯店](https://zh.wikipedia.org/wiki/權發飯店 "wikilink")→[板長壽司](https://zh.wikipedia.org/wiki/板長壽司 "wikilink")（其位置後變為囍
-        Hey變蠔灘）
+      - [金滿樓海鮮酒家](https://zh.wikipedia.org/wiki/金滿樓海鮮酒家 "wikilink")→[權發飯店](https://zh.wikipedia.org/wiki/權發飯店 "wikilink")→[板長壽司](https://zh.wikipedia.org/wiki/板長壽司 "wikilink")（其位置後變為囍 Hey變蠔灘）
 
       - [星加坡餐廳](https://zh.wikipedia.org/wiki/星加坡餐廳 "wikilink")（其位置後變為補習中心）
 
@@ -81,8 +67,7 @@ lemongrass 馬來喇沙.海南雞飯專門店 、 菜菜鍋
       - [金龍船餅店](../Page/金龍船集團.md "wikilink")（其位置後變為[中華煤氣](https://zh.wikipedia.org/wiki/中華煤氣 "wikilink")）
       - [馬里奧餐廳](https://zh.wikipedia.org/wiki/馬里奧餐廳 "wikilink")（其位置後變為緣來素食變大新銀行）
   - 第4期商場
-      - [海寶酒樓](https://zh.wikipedia.org/wiki/海寶酒樓 "wikilink")→[紅寶石大酒樓](https://zh.wikipedia.org/wiki/紅寶石大酒樓 "wikilink")、[紅寶石茶餐廳](https://zh.wikipedia.org/wiki/紅寶石茶餐廳 "wikilink")（地面）
-        →[嘉年華海鮮酒家](https://zh.wikipedia.org/wiki/嘉年華海鮮酒家 "wikilink")（當中地面位置變為其燒味檔，於2014年6月結業，原位置於2015年3月被分拆為多間店舖並重新對外開放，燒味檔位置後變為[天仁茗茶](https://zh.wikipedia.org/wiki/天仁茗茶 "wikilink")）
+      - [海寶酒樓](https://zh.wikipedia.org/wiki/海寶酒樓 "wikilink")→[紅寶石大酒樓](https://zh.wikipedia.org/wiki/紅寶石大酒樓 "wikilink")、[紅寶石茶餐廳](https://zh.wikipedia.org/wiki/紅寶石茶餐廳 "wikilink")（地面） →[嘉年華海鮮酒家](https://zh.wikipedia.org/wiki/嘉年華海鮮酒家 "wikilink")（當中地面位置變為其燒味檔，於2014年6月結業，原位置於2015年3月被分拆為多間店舖並重新對外開放，燒味檔位置後變為[天仁茗茶](https://zh.wikipedia.org/wiki/天仁茗茶 "wikilink")）
       - [羅麥記](https://zh.wikipedia.org/wiki/羅麥記 "wikilink")（其位置後變為上海婆婆變太興燒味）
       - [上海婆婆](https://zh.wikipedia.org/wiki/上海婆婆 "wikilink")（變為靠得住粥麵小館）
   - 第5期商場
@@ -136,7 +121,7 @@ lemongrass 馬來喇沙.海南雞飯專門店 、 菜菜鍋
   - [美國冒險樂園](../Page/美國冒險樂園.md "wikilink")
 
   -
-  - [香港賽馬會場外投注站](../Page/香港賽馬會.md "wikilink")
+  - [香港賽馬會](../Page/香港賽馬會.md "wikilink")場外投注站
 
 <!-- end list -->
 
@@ -186,8 +171,7 @@ lemongrass 馬來喇沙.海南雞飯專門店 、 菜菜鍋
 
 <!-- end list -->
 
-  - <font color="{{南港島綫西段色彩}}">█</font>[南港島綫
-    (西段)](../Page/南港島綫.md "wikilink")：[香港仔站](https://zh.wikipedia.org/wiki/香港仔站 "wikilink")（計劃中）
+  - <font color="{{南港島綫西段色彩}}">█</font>[南港島綫 (西段)](../Page/南港島綫.md "wikilink")：[香港仔站](https://zh.wikipedia.org/wiki/香港仔站 "wikilink")（計劃中）
 
 <!-- end list -->
 
@@ -227,16 +211,11 @@ lemongrass 馬來喇沙.海南雞飯專門店 、 菜菜鍋
 
 <!-- end list -->
 
-  - [全記渡](https://zh.wikipedia.org/wiki/全記渡 "wikilink")
-    [香港仔魚市場](https://zh.wikipedia.org/wiki/香港仔魚市場 "wikilink")←→[索罟灣](https://zh.wikipedia.org/wiki/索罟灣 "wikilink")/[模達灣](https://zh.wikipedia.org/wiki/模達灣 "wikilink")/蒲台誕時往[蒲台島](../Page/蒲台群島.md "wikilink")
-  - [香港仔小輪](https://zh.wikipedia.org/wiki/香港仔小輪 "wikilink")
-    [香港仔海濱公園](../Page/香港仔海濱公園.md "wikilink")(行人隧道口/[香港仔珍寶碼頭](https://zh.wikipedia.org/wiki/香港仔珍寶碼頭 "wikilink"))←→[鴨脷洲大街](../Page/鴨脷洲大街.md "wikilink")，服務時間由06:00至00:00。（可前往港鐵[利東站A](../Page/利東站.md "wikilink")1出口）
-  - [翠華船務](https://zh.wikipedia.org/wiki/翠華船務 "wikilink")
-    [香港仔海濱公園](../Page/香港仔海濱公園.md "wikilink")←→[北角村](https://zh.wikipedia.org/wiki/北角村 "wikilink")←→[榕樹灣](https://zh.wikipedia.org/wiki/榕樹灣 "wikilink")
-  - [翠華船務](https://zh.wikipedia.org/wiki/翠華船務 "wikilink")
-    [香港仔海濱公園](../Page/香港仔海濱公園.md "wikilink")←→[赤柱](../Page/赤柱.md "wikilink")←→[蒲台島](../Page/蒲台群島.md "wikilink")-只在週二、四、六、日開出
-  - [翠盈船務](https://zh.wikipedia.org/wiki/翠盈船務 "wikilink")（[Maris
-    Ferry](https://zh.wikipedia.org/wiki/Maris_Ferry "wikilink")）[香港仔海濱公園](../Page/香港仔海濱公園.md "wikilink")←→[長洲公眾碼頭](../Page/長洲公眾碼頭.md "wikilink")
+  - [全記渡](https://zh.wikipedia.org/wiki/全記渡 "wikilink") [香港仔魚市場](https://zh.wikipedia.org/wiki/香港仔魚市場 "wikilink")←→[索罟灣](https://zh.wikipedia.org/wiki/索罟灣 "wikilink")/[模達灣](https://zh.wikipedia.org/wiki/模達灣 "wikilink")/蒲台誕時往[蒲台島](../Page/蒲台群島.md "wikilink")
+  - [香港仔小輪](https://zh.wikipedia.org/wiki/香港仔小輪 "wikilink") [香港仔海濱公園](../Page/香港仔海濱公園.md "wikilink")(行人隧道口/[香港仔珍寶碼頭](https://zh.wikipedia.org/wiki/香港仔珍寶碼頭 "wikilink"))←→[鴨脷洲大街](../Page/鴨脷洲大街.md "wikilink")，服務時間由06:00至00:00。（可前往港鐵[利東站](../Page/利東站.md "wikilink")A1出口）
+  - [翠華船務](https://zh.wikipedia.org/wiki/翠華船務 "wikilink") [香港仔海濱公園](../Page/香港仔海濱公園.md "wikilink")←→[北角村](https://zh.wikipedia.org/wiki/北角村 "wikilink")←→[榕樹灣](https://zh.wikipedia.org/wiki/榕樹灣 "wikilink")
+  - [翠華船務](https://zh.wikipedia.org/wiki/翠華船務 "wikilink") [香港仔海濱公園](../Page/香港仔海濱公園.md "wikilink")←→[赤柱](../Page/赤柱.md "wikilink")←→[蒲台島](../Page/蒲台群島.md "wikilink")-只在週二、四、六、日開出
+  - [翠盈船務](https://zh.wikipedia.org/wiki/翠盈船務 "wikilink")（[Maris Ferry](https://zh.wikipedia.org/wiki/Maris_Ferry "wikilink")）[香港仔海濱公園](../Page/香港仔海濱公園.md "wikilink")←→[長洲公眾碼頭](../Page/長洲公眾碼頭.md "wikilink")
 
 </div>
 
@@ -252,8 +231,7 @@ lemongrass 馬來喇沙.海南雞飯專門店 、 菜菜鍋
 
 ## 參考文獻
 
-[Category:香港仔](https://zh.wikipedia.org/wiki/Category:香港仔 "wikilink")
-[Category:南區商場_(香港)](https://zh.wikipedia.org/wiki/Category:南區商場_\(香港\) "wikilink")
+[Category:香港仔](https://zh.wikipedia.org/wiki/Category:香港仔 "wikilink") [Category:南區商場_(香港)](https://zh.wikipedia.org/wiki/Category:南區商場_\(香港\) "wikilink")
 
 1.  [【提提你】香港仔中心商場改名「ac」](http://hk.apple.nextmedia.com/realtime/news/20150321/53548819)
 2.  [香港仔中心　佔地利價錢堅穩](http://hk.apple.nextmedia.com/financeestate/art/20041106/4423048)

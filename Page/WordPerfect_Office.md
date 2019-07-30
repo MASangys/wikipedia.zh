@@ -1,17 +1,12 @@
-**WordPerfect Office**是一款由Corel公司開發的辦公套件。自WordPerfect Office
-2000發佈以來，[文字處理器](https://zh.wikipedia.org/wiki/文字處理器 "wikilink")[WordPerfect集成到辦公套件WordPerfect](../Page/WordPerfect.md "wikilink")
-Office中，WordPerfect
-Office成爲擁有文字處理器WordPerfect、電子表格Quattro和演示文稿Presentations的完整辦公軟件\[1\]。
+**WordPerfect Office**是一款由Corel公司開發的辦公套件。自WordPerfect Office 2000發佈以來，[文字處理器](https://zh.wikipedia.org/wiki/文字處理器 "wikilink")[WordPerfect](../Page/WordPerfect.md "wikilink")集成到辦公套件WordPerfect Office中，WordPerfect Office成爲擁有文字處理器WordPerfect、電子表格Quattro和演示文稿Presentations的完整辦公軟件\[1\]。
 
 最新的版本爲Corel WordPerfect Office X5，于2010年3月23日發佈\[2\]。
 
 ## 歷史
 
-1996年1月31日，Corel收購[Novell公司的WordPerfect軟件産品](../Page/Novell.md "wikilink")，包括the
-PerfectOffice，WordPerfect，Quattro Pro以及其它相關軟件\[3\]\[4\]。
+1996年1月31日，Corel收購[Novell](../Page/Novell.md "wikilink")公司的WordPerfect軟件産品，包括the PerfectOffice，WordPerfect，Quattro Pro以及其它相關軟件\[3\]\[4\]。
 
-1999年5月25日，Corel發佈集成了WordPerfect，Quattro和Presentations三大套件的WordPerfect
-Office 2000\[5\]。
+1999年5月25日，Corel發佈集成了WordPerfect，Quattro和Presentations三大套件的WordPerfect Office 2000\[5\]。
 
 ## 組件
 
@@ -54,8 +49,7 @@ Office 2000\[5\]。
 WordPerfect Office X5的功能包括\[10\]：
 
   - 集成[PDF工具](https://zh.wikipedia.org/wiki/PDF "wikilink")：創建、編輯PDF；對PDF文件作注釋；轉換PDF文件爲文本文件；
-  - 支持超過60種文件格式：兼容Microsoft Office格式，包括Microsoft Office
-    2007和2010最新的[OOXML版本](https://zh.wikipedia.org/wiki/OOXML "wikilink")；兼容[開放文檔格式](https://zh.wikipedia.org/wiki/開放文檔格式 "wikilink")（[ODF](https://zh.wikipedia.org/wiki/ODF "wikilink")）；
+  - 支持超過60種文件格式：兼容Microsoft Office格式，包括Microsoft Office 2007和2010最新的[OOXML版本](https://zh.wikipedia.org/wiki/OOXML "wikilink")；兼容[開放文檔格式](https://zh.wikipedia.org/wiki/開放文檔格式 "wikilink")（[ODF](https://zh.wikipedia.org/wiki/ODF "wikilink")）；
   - 集成[Web服務](https://zh.wikipedia.org/wiki/Web "wikilink")：每次打開文檔時能從Web自動更新數據；
   - 支持Microsoft SharePoint。
 
@@ -168,8 +162,7 @@ SHW，MST，CPT，CDR，CDT，WPG；PPT，PPTX；PDF，HTML；PSD，EPS，EMF，
 
 ## 外部連結
 
-[Corel WordPerfect Office
-X5](http://www.corel.com/servlet/Satellite/us/en/Product/1207676528492)
+[Corel WordPerfect Office X5](http://www.corel.com/servlet/Satellite/us/en/Product/1207676528492)
 
 [Category:办公室自动化软件](https://zh.wikipedia.org/wiki/Category:办公室自动化软件 "wikilink")
 

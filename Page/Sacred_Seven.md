@@ -1,21 +1,15 @@
-**Sacred
-Seven**（）是[日昇動畫制作](../Page/日昇動畫.md "wikilink")，並由日本[MBS播放的原創系列电视动画](../Page/每日放送.md "wikilink")，於2011年7月開始播放，同年9月17日播放完畢，全12话。2012年1月17日推出劇場版「**Sacred
-Seven─銀月之翼─**」，以輝島奈特與丹童子交手的每場戰鬥為主軸，敘述輝島奈特不為人知的隱密過去，並大致交代了電視動畫留下的謎團。
+**Sacred Seven**（）是[日昇動畫](../Page/日昇動畫.md "wikilink")制作，並由日本[MBS播放的原創系列电视动画](../Page/每日放送.md "wikilink")，於2011年7月開始播放，同年9月17日播放完畢，全12话。2012年1月17日推出劇場版「**Sacred Seven─銀月之翼─**」，以輝島奈特與丹童子交手的每場戰鬥為主軸，敘述輝島奈特不為人知的隱密過去，並大致交代了電視動畫留下的謎團。
 
 ## 概要
 
-某一天，在一直孤单地一人生活的男主角丹童子有馬面前，突然出现了一位带领著执事和女仆的少女蓝羽瑠璃。蓝羽的目的是希望能借用丹童子那寄宿在他身上的Sacred
-Seven力量。但是，在过去因曾经使用了那力量而伤害了其他人的丹童子理所当然地把瑠璃她们赶走。另一方面，这个平稳的城市中突然出现了石之魔物“恶石”，并同樣为了丹童子身上的力量而来。原来，瑠璃是能够把丹童子身上的Sacred
-Seven力量真正地解放出来，并练成宝石，使丹童子能够击退“恶石”。本篇的男主角丹童子由于过去力量的暴走，使他变得会避开周围的人，并因此过著孤单的学园生活，但会因为瑠璃的出现，而使他开始正视Sacred
-Seven的力量。
+某一天，在一直孤单地一人生活的男主角丹童子有馬面前，突然出现了一位带领著执事和女仆的少女蓝羽瑠璃。蓝羽的目的是希望能借用丹童子那寄宿在他身上的Sacred Seven力量。但是，在过去因曾经使用了那力量而伤害了其他人的丹童子理所当然地把瑠璃她们赶走。另一方面，这个平稳的城市中突然出现了石之魔物“恶石”，并同樣为了丹童子身上的力量而来。原来，瑠璃是能够把丹童子身上的Sacred Seven力量真正地解放出来，并练成宝石，使丹童子能够击退“恶石”。本篇的男主角丹童子由于过去力量的暴走，使他变得会避开周围的人，并因此过著孤单的学园生活，但会因为瑠璃的出现，而使他开始正视Sacred Seven的力量。
 
 ## 登場人物
 
 ### 主要角色
 
   - 丹童子阿爾瑪（）
-    聲 -
-    [寺岛拓笃](https://zh.wikipedia.org/wiki/寺岛拓笃 "wikilink")；[水原薰](../Page/水原薰.md "wikilink")（幼年）
+    聲 - [寺岛拓笃](https://zh.wikipedia.org/wiki/寺岛拓笃 "wikilink")；[水原薰](../Page/水原薰.md "wikilink")（幼年）
     **生日**：4月7日
     **血型**：O型
     **年齡**：17岁
@@ -25,8 +19,7 @@ Seven的力量。
     本作主角，個性孤僻，但本性不壞。
     出生於[神奈川縣](../Page/神奈川縣.md "wikilink")[鎌倉市](https://zh.wikipedia.org/wiki/鎌倉市 "wikilink")，父不明，母未婚產子，小學開始常與人衝突而轉學頻繁，10歲時母親意外死亡，而後輾轉於保護機構中，現居於[橫須賀市](../Page/橫須賀市.md "wikilink")。
     因母親與17年前的隕石事件有所接觸，而拥有**Sacred Seven**的力量，但本身無法控制。
-    14歲時與18名中學生衝突時，因情緒失控而使Sacred
-    Seven力量暴走，將全員打到送醫住院八個月，受校方停學半年處分，目前保護觀察中，他也因此事件而受人側目。
+    14歲時與18名中學生衝突時，因情緒失控而使Sacred Seven力量暴走，將全員打到送醫住院八個月，受校方停學半年處分，目前保護觀察中，他也因此事件而受人側目。
     與蓝羽琉璃接觸後，開始了解Sacred Seven的真相，並因琉璃給予的寶石而擁有控制之力，第11集時想起小時候曾救過蓝羽琉璃。
     本來是右撇子，但是在他媽媽的矯正下，現在是左撇子。「總之......」是他的口頭禪。
     愛車是Honda NCZ 50 Motocompo
@@ -60,7 +53,7 @@ Seven的力量。
     **身份**：蓝羽家管家、私立新港學園學生會長、學生
     蓝羽家的管家，戰鬥時負責指挥女仆隊，从各方面支援琉璃。
     駕駛**契約（Engagement）装甲**和惡石战斗。
-    國二就從[哈佛大学跳級畢業的天才](../Page/哈佛大学.md "wikilink")，隨琉璃轉入私立新港學園，並就任學生會長。
+    國二就從[哈佛大学](../Page/哈佛大学.md "wikilink")跳級畢業的天才，隨琉璃轉入私立新港學園，並就任學生會長。
 
 <!-- end list -->
 
@@ -201,16 +194,13 @@ Seven的力量。
   - 原作 - [矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
   - 監督 - [大橋誉志光](https://zh.wikipedia.org/wiki/大橋誉志光 "wikilink")
   - 系列構成 - [吉田伸](../Page/吉田伸.md "wikilink")
-  - 人物设计 -
-    [いのまたむつみ](https://zh.wikipedia.org/wiki/いのまたむつみ "wikilink")、形部一平
+  - 人物设计 - [いのまたむつみ](https://zh.wikipedia.org/wiki/いのまたむつみ "wikilink")、形部一平
   - 角色设计 - [千羽由利子](../Page/千羽由利子.md "wikilink")、中田栄治
   - 美術監督 - [河野次郎](https://zh.wikipedia.org/wiki/河野次郎 "wikilink")
   - 音響監督- [明田川仁](../Page/明田川仁.md "wikilink")
   - 音楽 - [佐橋俊彦](https://zh.wikipedia.org/wiki/佐橋俊彦 "wikilink")
-  - 执行制作人 -
-    河口佳高、上山公一、細川修、[丸山博雄](https://zh.wikipedia.org/wiki/丸山博雄 "wikilink")
-  - 制作人 -
-    松村圭一、桑園裕子、[前田俊博](https://zh.wikipedia.org/wiki/前田俊博 "wikilink")
+  - 执行制作人 - 河口佳高、上山公一、細川修、[丸山博雄](https://zh.wikipedia.org/wiki/丸山博雄 "wikilink")
+  - 制作人 - 松村圭一、桑園裕子、[前田俊博](https://zh.wikipedia.org/wiki/前田俊博 "wikilink")
   - 动画制作 - [日昇動畫](../Page/日昇動畫.md "wikilink")
 
 <!-- end list -->
@@ -457,9 +447,4 @@ Seven的力量。
   - [MBS](http://www.mbs.jp/sacred7/)
 
   -
-[Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink")
-[Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink")
-[Category:月刊少年天狼星](https://zh.wikipedia.org/wiki/Category:月刊少年天狼星 "wikilink")
-[Category:橫須賀市背景電視劇](https://zh.wikipedia.org/wiki/Category:橫須賀市背景電視劇 "wikilink")
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink") [Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink") [Category:月刊少年天狼星](https://zh.wikipedia.org/wiki/Category:月刊少年天狼星 "wikilink") [Category:橫須賀市背景電視劇](https://zh.wikipedia.org/wiki/Category:橫須賀市背景電視劇 "wikilink") [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")

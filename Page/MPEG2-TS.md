@@ -1,28 +1,20 @@
-**MPEG2-TS 傳輸串流**（MPEG-2 Transport
-Stream；又称MPEG-TS、MTS、TS）是一種傳輸和儲存包含視訊、音訊與通訊協定各種資料的標準格式，用於數位電視廣播系統，如[DVB](../Page/DVB.md "wikilink")、[ATSC](../Page/ATSC.md "wikilink")、[ISDB](../Page/ISDB.md "wikilink")、[IPTV](../Page/IPTV.md "wikilink")等等。
+**MPEG2-TS 傳輸串流**（MPEG-2 Transport Stream；又称MPEG-TS、MTS、TS）是一種傳輸和儲存包含視訊、音訊與通訊協定各種資料的標準格式，用於數位電視廣播系統，如[DVB](../Page/DVB.md "wikilink")、[ATSC](../Page/ATSC.md "wikilink")、[ISDB](../Page/ISDB.md "wikilink")、[IPTV](../Page/IPTV.md "wikilink")等等。
 
-MPEG2-TS定義於[MPEG-2](../Page/MPEG-2.md "wikilink")第一部份：系統（即[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC標準](https://zh.wikipedia.org/wiki/IEC "wikilink")13818-1或[ITU-T](https://zh.wikipedia.org/wiki/ITU-T "wikilink")
-Rec. H.222.0）。
+MPEG2-TS定義於[MPEG-2](../Page/MPEG-2.md "wikilink")第一部份：系統（即[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC標準](https://zh.wikipedia.org/wiki/IEC "wikilink")13818-1或[ITU-T](https://zh.wikipedia.org/wiki/ITU-T "wikilink") Rec. H.222.0）。
 
 MPEG2-TS面向的传输介质是[地面和](https://zh.wikipedia.org/wiki/地面电视 "wikilink")[卫星等](../Page/卫星电视.md "wikilink")[可靠性较低的传输介质](https://zh.wikipedia.org/wiki/可靠性_\(计算机网络\) "wikilink")，这一点与面向较可靠介质如[DVD等的](https://zh.wikipedia.org/wiki/DVD "wikilink")不同。
 
 ## 传输协议
 
-[MPEG_Transport_Stream_HL.svg](https://zh.wikipedia.org/wiki/File:MPEG_Transport_Stream_HL.svg "fig:MPEG_Transport_Stream_HL.svg")功能的电视机）接收射频信号并解码后进行播放\]\]
-1个TS承载多个子TS，通常子TS是（）；分组化基本流上承载（），或者非MPEG的编码流，例如[AC-3](https://zh.wikipedia.org/wiki/杜比数字#杜比數位 "wikilink")、[DTS](../Page/DTS.md "wikilink")音频流，[MJPEG](https://zh.wikipedia.org/wiki/MJPEG "wikilink")、[JPEG
-2000视频流](../Page/JPEG_2000.md "wikilink")、字幕所需要的文本和图像、用于定义基本流的表、乃至电视台定义的[电子节目表](https://zh.wikipedia.org/wiki/电子节目表 "wikilink")（EPG）等。
+[MPEG_Transport_Stream_HL.svg](https://zh.wikipedia.org/wiki/File:MPEG_Transport_Stream_HL.svg "fig:MPEG_Transport_Stream_HL.svg")功能的电视机）接收射频信号并解码后进行播放\]\] 1个TS承载多个子TS，通常子TS是（）；分组化基本流上承载（），或者非MPEG的编码流，例如[AC-3](https://zh.wikipedia.org/wiki/杜比数字#杜比數位 "wikilink")、[DTS](../Page/DTS.md "wikilink")音频流，[MJPEG](https://zh.wikipedia.org/wiki/MJPEG "wikilink")、[JPEG 2000视频流](../Page/JPEG_2000.md "wikilink")、字幕所需要的文本和图像、用于定义基本流的表、乃至电视台定义的[电子节目表](https://zh.wikipedia.org/wiki/电子节目表 "wikilink")（EPG）等。
 
 一些相互独立的流可以被[复用在一个TS里](../Page/多路复用.md "wikilink")，例如几个不同的电视频道或者同一个电影的多个拍摄角度。
 
-TS分组（TS
-Packet）大小最大为188字节，它是多路复用的基本单位。多个不同的ES的内容会分别被封装到TSP中通过同一个TS传输。由于封包（分组）尺寸较小，复用对各个ES造成的时延也较低，对传输误码的耐受性也强于那些将一帧画面封装到一整个包里的容器格式，如MPEG
-PS和[AVI](https://zh.wikipedia.org/wiki/AVI "wikilink")、[MOV](https://zh.wikipedia.org/wiki/QuickTime文件格式 "wikilink")/[MP4](../Page/MP4.md "wikilink")、[MKV等](../Page/Matroska.md "wikilink")。这对于[视频会议](../Page/视频会议.md "wikilink")等对实时性要求高的场景特别有意义：单个分组损坏不会造成很大的语音延迟。
+TS分组（TS Packet）大小最大为188字节，它是多路复用的基本单位。多个不同的ES的内容会分别被封装到TSP中通过同一个TS传输。由于封包（分组）尺寸较小，复用对各个ES造成的时延也较低，对传输误码的耐受性也强于那些将一帧画面封装到一整个包里的容器格式，如MPEG PS和[AVI](https://zh.wikipedia.org/wiki/AVI "wikilink")、[MOV](https://zh.wikipedia.org/wiki/QuickTime文件格式 "wikilink")/[MP4](../Page/MP4.md "wikilink")、[MKV等](../Page/Matroska.md "wikilink")。这对于[视频会议](../Page/视频会议.md "wikilink")等对实时性要求高的场景特别有意义：单个分组损坏不会造成很大的语音延迟。
 
-TS通常以[固定码率传输](https://zh.wikipedia.org/wiki/固定码率 "wikilink")。固定码率传输时，如果上层待传输内容不足，会发送[空分组](https://zh.wikipedia.org/wiki/#空分组 "wikilink")以占位。[蓝光光碟中使用的MPEG-2
-TS也使用了固定码率](https://zh.wikipedia.org/wiki/#蓝光 "wikilink")。
+TS通常以[固定码率传输](https://zh.wikipedia.org/wiki/固定码率 "wikilink")。固定码率传输时，如果上层待传输内容不足，会发送[空分组](https://zh.wikipedia.org/wiki/#空分组 "wikilink")以占位。[蓝光光碟中使用的MPEG-2 TS也使用了固定码率](https://zh.wikipedia.org/wiki/#蓝光 "wikilink")。
 
-下表为MPEG-2
-TS协议的一个实际应用的例子：日本地面数字电视[ISDB-T](https://zh.wikipedia.org/wiki/ISDB-T "wikilink")。表中列举了TS、PES、ES层次上，ISDB-T这个具体的系统使用的具体标准。
+下表为MPEG-2 TS协议的一个实际应用的例子：日本地面数字电视[ISDB-T](https://zh.wikipedia.org/wiki/ISDB-T "wikilink")。表中列举了TS、PES、ES层次上，ISDB-T这个具体的系统使用的具体标准。
 
 <table>
 <thead>
@@ -60,8 +52,7 @@ TS协议的一个实际应用的例子：日本地面数字电视[ISDB-T](https:
 
 ### TS分组
 
-TS分组（TS
-packet）是TS的基本传输单位。在TS范围以外并不存在描述一个TS的属性的全局性的描述体。TS自身的全部信息仅由其自身描述，TS仅由一系列的TS分组构成。
+TS分组（TS packet）是TS的基本传输单位。在TS范围以外并不存在描述一个TS的属性的全局性的描述体。TS自身的全部信息仅由其自身描述，TS仅由一系列的TS分组构成。
 
 每个TS分组以固定的起始，这个同步字节的值为0x47，它也是TS分组头的一部分。TS分组的必选头长度为4字节，其后为可选部分，为[载荷或](../Page/负载_\(计算机\).md "wikilink")[适配域](https://zh.wikipedia.org/wiki/#适配域 "wikilink")。TS分组的头部固定以[大端序读写](https://zh.wikipedia.org/wiki/字节序#大端序 "wikilink")。TS分组长度为188字节。
 
@@ -267,25 +258,17 @@ TS分组包括头部和载荷两部分。头部包括固定长度部分和可选
 
 ### PSI
 
-节目专用信息（PSI，Program Specific
-Information），描述特定节目相关的属性。MPEG-2标准规定了4种PSI：节目关联表（PAT，Program
-Association Table）、节目映射表（PMT，Program Map Table）、条件访问表（CAT，Conditional
-Access Table）以及网络信息表（NIT，Network Information
-Table）。其中MPEG-2标准规定了PAT和PMT的具体结构。
+节目专用信息（PSI，Program Specific Information），描述特定节目相关的属性。MPEG-2标准规定了4种PSI：节目关联表（PAT，Program Association Table）、节目映射表（PMT，Program Map Table）、条件访问表（CAT，Conditional Access Table）以及网络信息表（NIT，Network Information Table）。其中MPEG-2标准规定了PAT和PMT的具体结构。
 
-在基于MPEG-2
-TS的一些系统，如[地面数字电视](https://zh.wikipedia.org/wiki/地面数字电视 "wikilink")[DVB](../Page/DVB.md "wikilink")、[ATSC](../Page/ATSC.md "wikilink")、[ISDB-T](https://zh.wikipedia.org/wiki/ISDB-T "wikilink")等扩展了MPEG2-TS，引入了服务信息（SI，Service
-Information）这一概念。SI是PSI的补充，在协议层次上与PSI相同。
+在基于MPEG-2 TS的一些系统，如[地面数字电视](https://zh.wikipedia.org/wiki/地面数字电视 "wikilink")[DVB](../Page/DVB.md "wikilink")、[ATSC](../Page/ATSC.md "wikilink")、[ISDB-T](https://zh.wikipedia.org/wiki/ISDB-T "wikilink")等扩展了MPEG2-TS，引入了服务信息（SI，Service Information）这一概念。SI是PSI的补充，在协议层次上与PSI相同。
 
 #### PAT
 
-PAT (PAT: Program Association
-Table)列出该TS内所有节目。其PID固定为0x0000。每个节目由一个16比特的字段program_number指定。每个program_number都有一个对应的PID，用来指定该节目的PMT。PAT中不包含节目信息时，program_number为0x0000，则应从NIT（PID为0x0010）获取节目信息。
+PAT (PAT: Program Association Table)列出该TS内所有节目。其PID固定为0x0000。每个节目由一个16比特的字段program_number指定。每个program_number都有一个对应的PID，用来指定该节目的PMT。PAT中不包含节目信息时，program_number为0x0000，则应从NIT（PID为0x0010）获取节目信息。
 
 #### PMT
 
-PMT (PMT: Program Map
-Table)包含特定[节目相关的信息](https://zh.wikipedia.org/wiki/#节目 "wikilink")，每一个节目有一个PMT。虽然MPEG-2协议标准允许多个PMT使用相同的PID，常见的系统中，如ATSC、SCTE中，不同的PMT有各自的PID。
+PMT (PMT: Program Map Table)包含特定[节目相关的信息](https://zh.wikipedia.org/wiki/#节目 "wikilink")，每一个节目有一个PMT。虽然MPEG-2协议标准允许多个PMT使用相同的PID，常见的系统中，如ATSC、SCTE中，不同的PMT有各自的PID。
 
 PMT包含的信息有特定节目的program_number，以及该节目对应的所有ES的PID。此外还有可选的描述子用来提供整个MPEG-2系统的属性和特定ES的属性。
 
@@ -295,41 +278,29 @@ CAT (CAT: Conditional Access Table) 用于节目的加密與解密。CAT对应PI
 
 #### NIT
 
-NIT (NIT: Network Information Table
-网络信息表)提供TS的相关信息，如频率、调制方式。在扫描所有频道的节目时，关键信息来自各频道的TS中的NIT。
+NIT (NIT: Network Information Table 网络信息表)提供TS的相关信息，如频率、调制方式。在扫描所有频道的节目时，关键信息来自各频道的TS中的NIT。
 
 ### PCR
 
-节目时钟参考（PCR，Program Clock
-Reference）使得解码后的内容可以正确地同步播放。最多每100ms，接收方会从TS分组的适配域中得到特定节目的PCR值，PCR的PID由该节目的PMT中的PCR_PID域指定。解码系统应当基于PCR生成高精度的系统校时时钟（System
-Timing Clock，STC），用于同步声音ES和视频ES的内容。STC是MPEG-2系统里校时的基准。例如，（Presentation
-timestamp，PTS）的值即是以PCR值为基准的偏移量。
+节目时钟参考（PCR，Program Clock Reference）使得解码后的内容可以正确地同步播放。最多每100ms，接收方会从TS分组的适配域中得到特定节目的PCR值，PCR的PID由该节目的PMT中的PCR_PID域指定。解码系统应当基于PCR生成高精度的系统校时时钟（System Timing Clock，STC），用于同步声音ES和视频ES的内容。STC是MPEG-2系统里校时的基准。例如，（Presentation timestamp，PTS）的值即是以PCR值为基准的偏移量。
 
 PCR包括一个33比特的低精度部分（90kHz）和一个9比特的高精度部分（27MHz，取值为0-299）。PCR容许的最大[抖动](../Page/抖动.md "wikilink")为+/-500ns。
 
 ### 空分组
 
-空分组（null
-packet）存在于某些使用MPEG2-TS的系统中，例如[地面数字电视系统ATSC和DVB](https://zh.wikipedia.org/wiki/地面数字电视 "wikilink")，用于保证固定码率。在从ES复用到TS的过程中，如果ES的数据量不足用尽TS的比特率，则[复用器模块会插入空分组](https://zh.wikipedia.org/wiki/多路复用器 "wikilink")。空分组使用保留的PID值0x1FFF。空分组的载荷没有意义，接收者应当丢弃。
+空分组（null packet）存在于某些使用MPEG2-TS的系统中，例如[地面数字电视系统ATSC和DVB](https://zh.wikipedia.org/wiki/地面数字电视 "wikilink")，用于保证固定码率。在从ES复用到TS的过程中，如果ES的数据量不足用尽TS的比特率，则[复用器模块会插入空分组](https://zh.wikipedia.org/wiki/多路复用器 "wikilink")。空分组使用保留的PID值0x1FFF。空分组的载荷没有意义，接收者应当丢弃。
 
 ## 数字电视以外的应用
 
 ### 数码摄像机
 
-MPEG-2
-TS原本的设计用途是数字电视广播，不过后来用在数码摄像机、录像机、播放机上。用于非广播类用途时，其TS分组格式有所不同：在分组上增加了4个字节长的时间码（Time
-Code），使分组长度变为192字节。时间码使得播放系统可以在允许[随机读取的存储介质中快速找到特定时间点的视频内容](https://zh.wikipedia.org/wiki/隨機存取 "wikilink")。借助时间码也可以用来同步多个摄像机拍摄的内容。
+MPEG-2 TS原本的设计用途是数字电视广播，不过后来用在数码摄像机、录像机、播放机上。用于非广播类用途时，其TS分组格式有所不同：在分组上增加了4个字节长的时间码（Time Code），使分组长度变为192字节。时间码使得播放系统可以在允许[随机读取的存储介质中快速找到特定时间点的视频内容](https://zh.wikipedia.org/wiki/隨機存取 "wikilink")。借助时间码也可以用来同步多个摄像机拍摄的内容。
 
 [JVC](../Page/JVC.md "wikilink")在基于[硬盘](../Page/硬盘.md "wikilink")存储的产品中将这种流称为。
 
 ### 蓝光
 
-以前述格式构成的流被[蓝光光碟联盟称为](https://zh.wikipedia.org/wiki/蓝光光碟联盟 "wikilink")“[BDAV
-MPEG-2 transport
-stream](../Page/M2TS.md "wikilink")”（字面意思为BDAV版本的MPEG2-TS），其文件扩展名为.m2ts，俗称[M2TS](../Page/M2TS.md "wikilink")流。蓝光的影碟以BDAV（Blu-ray
-Disc Movie）格式的BDMV容器存储音频、视频以及其他内容，用于BD-R和BD-RE等格式的录制中。由于蓝光的M2TS和标准的MPEG
-TS格式基本相同，其设备能够以非常小的延迟转录数字电视内容。由于MPEG-2
-TS原本就是面向实时播放的格式，使得蓝光的内容可以简单地从流中截取任意一段，降低了视频剪辑的处理成本。此外，这种流格式也使得存储介质的物理损坏对内容的影响降到最小。
+以前述格式构成的流被[蓝光光碟联盟称为](https://zh.wikipedia.org/wiki/蓝光光碟联盟 "wikilink")“[BDAV MPEG-2 transport stream](../Page/M2TS.md "wikilink")”（字面意思为BDAV版本的MPEG2-TS），其文件扩展名为.m2ts，俗称[M2TS](../Page/M2TS.md "wikilink")流。蓝光的影碟以BDAV（Blu-ray Disc Movie）格式的BDMV容器存储音频、视频以及其他内容，用于BD-R和BD-RE等格式的录制中。由于蓝光的M2TS和标准的MPEG TS格式基本相同，其设备能够以非常小的延迟转录数字电视内容。由于MPEG-2 TS原本就是面向实时播放的格式，使得蓝光的内容可以简单地从流中截取任意一段，降低了视频剪辑的处理成本。此外，这种流格式也使得存储介质的物理损坏对内容的影响降到最小。
 
 ## 关联条目
 
@@ -350,12 +321,9 @@ TS原本就是面向实时播放的格式，使得蓝光的内容可以简单地
 
 ## 外部連結
 
-  - [ITU-T H.222.0 |
-    ISO/IEC 13818-1系统标准文档](http://www.itu.int/rec/T-REC-H.222.0)
+  - [ITU-T H.222.0 | ISO/IEC 13818-1系统标准文档](http://www.itu.int/rec/T-REC-H.222.0)
       - [上述文档的最近免费公开版本（2015年1月）](http://www.itu.int/rec/T-REC-H.222.0-201410-S/en)
   - [解释TS分组、PES、几种PSI结构的资料](http://kangun.tistory.com/attachment/ik0.pdf)
   - [MPEG-4系统FAQ](http://mpeg.chiariglione.org/faq/mp4-sys/mp4-sys.htm)
 
-[Category:MPEG](https://zh.wikipedia.org/wiki/Category:MPEG "wikilink")
-[Category:ITU-建議書](https://zh.wikipedia.org/wiki/Category:ITU-建議書 "wikilink")
-[Category:數碼電視](https://zh.wikipedia.org/wiki/Category:數碼電視 "wikilink")
+[Category:MPEG](https://zh.wikipedia.org/wiki/Category:MPEG "wikilink") [Category:ITU-建議書](https://zh.wikipedia.org/wiki/Category:ITU-建議書 "wikilink") [Category:數碼電視](https://zh.wikipedia.org/wiki/Category:數碼電視 "wikilink")

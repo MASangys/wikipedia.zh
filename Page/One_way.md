@@ -1,5 +1,4 @@
-「**one
-way**」為[日本的](../Page/日本.md "wikilink")[視覺系樂團](../Page/視覺系.md "wikilink")・[SID的主流單曲第四張作品](https://zh.wikipedia.org/wiki/SID_\(樂團\) "wikilink")。於2009年11月11日由唱片公司[キューンレコード販售](https://zh.wikipedia.org/wiki/キューンレコード "wikilink")。
+「**one way**」為[日本](../Page/日本.md "wikilink")的[視覺系](../Page/視覺系.md "wikilink")樂團・[SID的主流單曲第四張作品](https://zh.wikipedia.org/wiki/SID_\(樂團\) "wikilink")。於2009年11月11日由唱片公司[キューンレコード販售](https://zh.wikipedia.org/wiki/キューンレコード "wikilink")。
 
 ## 概要
 
@@ -12,7 +11,7 @@ way**」為[日本的](../Page/日本.md "wikilink")[視覺系樂團](../Page/�
       -
         作詞：[マオ](https://zh.wikipedia.org/wiki/マオ_\(シド\) "wikilink")、作曲：[御恵明希](https://zh.wikipedia.org/wiki/御恵明希 "wikilink")、編曲：シド
     <!-- end list -->
-      - [富士電視台系](../Page/富士電視台.md "wikilink")『[ウチくる\!?](https://zh.wikipedia.org/wiki/ウチくる!? "wikilink")』片尾曲
+      - [富士電視台](../Page/富士電視台.md "wikilink")系『[ウチくる\!?](https://zh.wikipedia.org/wiki/ウチくる!? "wikilink")』片尾曲
     <!-- end list -->
       -
         歌詞為マオ在學生時期的描述自己最大的敵人為師長及大人所創作之曲。
@@ -25,9 +24,6 @@ way**」為[日本的](../Page/日本.md "wikilink")[視覺系樂團](../Page/�
 
 ## 收錄Album 專輯
 
-  - 『[dead
-    stock](https://zh.wikipedia.org/wiki/dead_stock "wikilink")』（\#1）
+  - 『[dead stock](https://zh.wikipedia.org/wiki/dead_stock "wikilink")』（\#1）
 
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:シドの楽曲](https://zh.wikipedia.org/wiki/Category:シドの楽曲 "wikilink")
-[Category:キューンレコードのシングル](https://zh.wikipedia.org/wiki/Category:キューンレコードのシングル "wikilink")
+[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:シドの楽曲](https://zh.wikipedia.org/wiki/Category:シドの楽曲 "wikilink") [Category:キューンレコードのシングル](https://zh.wikipedia.org/wiki/Category:キューンレコードのシングル "wikilink")

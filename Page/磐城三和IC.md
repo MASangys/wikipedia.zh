@@ -1,4 +1,4 @@
-**磐城三和IC**（平假名：いわきみわインターチェンジ）是位於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[磐城市的](../Page/磐城市.md "wikilink")[磐越自動車道之](../Page/磐越自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**磐城三和IC**（平假名：いわきみわインターチェンジ）是位於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[磐城市](../Page/磐城市.md "wikilink")的[磐越自動車道](../Page/磐越自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -9,8 +9,7 @@
 
 ## 历史
 
-  - 1995年8月2日 -
-    [磐越自動車道](../Page/磐越自動車道.md "wikilink")[磐城JCT至](https://zh.wikipedia.org/wiki/磐城JCT "wikilink")[郡山JCT開通](https://zh.wikipedia.org/wiki/郡山JCT "wikilink")，此IC也同時啟用。
+  - 1995年8月2日 - [磐越自動車道](../Page/磐越自動車道.md "wikilink")[磐城JCT至](https://zh.wikipedia.org/wiki/磐城JCT "wikilink")[郡山JCT開通](https://zh.wikipedia.org/wiki/郡山JCT "wikilink")，此IC也同時啟用。
 
 ## 收費站設施
 
@@ -32,10 +31,7 @@
 ## 鄰近設施
 
   - [磐越自動車道](../Page/磐越自動車道.md "wikilink")
-    (16-1)[磐城JCT](https://zh.wikipedia.org/wiki/磐城JCT "wikilink") -
-    (1)**磐城三和IC** -
-    [差鹽PA](https://zh.wikipedia.org/wiki/差鹽PA "wikilink") -
-    (2)[小野IC](https://zh.wikipedia.org/wiki/小野IC "wikilink")
+    (16-1)[磐城JCT](https://zh.wikipedia.org/wiki/磐城JCT "wikilink") - (1)**磐城三和IC** - [差鹽PA](https://zh.wikipedia.org/wiki/差鹽PA "wikilink") - (2)[小野IC](https://zh.wikipedia.org/wiki/小野IC "wikilink")
 
 ## 相關項目
 
@@ -45,5 +41,4 @@
 
   - [東日本高速道路](http://www.e-nexco.co.jp/)
 
-[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink")
-[Category:福島縣交流道](https://zh.wikipedia.org/wiki/Category:福島縣交流道 "wikilink")
+[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink") [Category:福島縣交流道](https://zh.wikipedia.org/wiki/Category:福島縣交流道 "wikilink")

@@ -1,7 +1,6 @@
 
 
-《**Grown
-Up**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[洪卓立於](../Page/洪卓立.md "wikilink")2012年3月21日發行的第七張個人[音樂專輯](../Page/音樂專輯.md "wikilink")。專輯包括CD和DVD各一。
+《**Grown Up**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[洪卓立](../Page/洪卓立.md "wikilink")於2012年3月21日發行的第七張個人[音樂專輯](../Page/音樂專輯.md "wikilink")。專輯包括CD和DVD各一。
 
 ## 專輯簡介
 
@@ -140,7 +139,7 @@ Up**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wiki
 
 ## 派台歌曲及四台成績
 
-此專輯的派台歌目前共有五首，分別是與[鍾舒漫合唱的](../Page/鍾舒漫.md "wikilink")《傻瓜》、《想一個人》、《勿忘草》、《梵谷的耳朵》及《奴隸與皇后的愛情故事》。
+此專輯的派台歌目前共有五首，分別是與[鍾舒漫](../Page/鍾舒漫.md "wikilink")合唱的《傻瓜》、《想一個人》、《勿忘草》、《梵谷的耳朵》及《奴隸與皇后的愛情故事》。
 
 | 歌曲         | 903 專業推介 | RTHK 中文歌曲龍虎榜 | 997 勁爆流行榜 | TVB 勁歌金榜 |
 | ---------- | -------- | ------------ | --------- | -------- |
@@ -152,10 +151,9 @@ Up**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wiki
 
 ## 獎項
 
-  - [2011年度十大勁歌金曲頒獎典禮](../Page/2011年度十大勁歌金曲得獎名單.md "wikilink")-
-    最受歡迎合唱歌曲銀獎:洪卓立、鍾舒漫《傻瓜》
+  - [2011年度十大勁歌金曲頒獎典禮](../Page/2011年度十大勁歌金曲得獎名單.md "wikilink")- 最受歡迎合唱歌曲銀獎:洪卓立、鍾舒漫《傻瓜》
   - Young D熱點歌曲排行榜2011年總選 - 年度合唱歌曲金獎《傻瓜》
-  - 《[勁歌金曲優秀選第一回](../Page/勁歌金曲優秀選.md "wikilink")》得獎歌曲《**想一個人**》
+  - 《[勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")第一回》得獎歌曲《**想一個人**》
   - Yahoo！搜尋人氣大獎2012 - 人氣MV大獎《勿忘草》
   - 新城勁爆頒獎禮2012 － 勁爆歌曲《想一個人》
   - SINA MUSIC樂壇民意指數頒獎禮2012 - SINA MUSIC 最髙收聽率二十大歌曲《想一個人》
@@ -166,8 +164,6 @@ Up**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wiki
 
 ## 外部連結
 
-  - 《[洪卓立最新廣東大碟《Grown Up》
-    新曲風新形象心口寫上勇字初現熟男魅力](https://web.archive.org/web/20120329085920/http://www.eegmusic.com/news/content.php/view/952)》(英皇娛樂新聞稿，2012年3月19日)
+  - 《[洪卓立最新廣東大碟《Grown Up》 新曲風新形象心口寫上勇字初現熟男魅力](https://web.archive.org/web/20120329085920/http://www.eegmusic.com/news/content.php/view/952)》(英皇娛樂新聞稿，2012年3月19日)
 
-[Category:洪卓立音樂專輯](https://zh.wikipedia.org/wiki/Category:洪卓立音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
+[Category:洪卓立音樂專輯](https://zh.wikipedia.org/wiki/Category:洪卓立音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")

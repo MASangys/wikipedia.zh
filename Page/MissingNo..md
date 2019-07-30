@@ -1,7 +1,4 @@
-[Missingno.png](https://zh.wikipedia.org/wiki/File:Missingno.png "fig:Missingno.png")
-**MissingNo.** 是遊戲《[精靈寶可夢
-紅·綠](../Page/精靈寶可夢_紅·綠.md "wikilink")》版裡的一種寶可夢品種。這個名字其實就是“Missing
-Number”（遺失號碼）的英文簡寫。實際上這隻寶可夢並不存在於正常的遊戲，而是被遊戲設計師作為錯誤處理器的用途，其作用是防止遊戲讀取一種不存在的寶可夢品種而出現錯誤。
+[Missingno.png](https://zh.wikipedia.org/wiki/File:Missingno.png "fig:Missingno.png") **MissingNo.** 是遊戲《[精靈寶可夢 紅·綠](../Page/精靈寶可夢_紅·綠.md "wikilink")》版裡的一種寶可夢品種。這個名字其實就是“Missing Number”（遺失號碼）的英文簡寫。實際上這隻寶可夢並不存在於正常的遊戲，而是被遊戲設計師作為錯誤處理器的用途，其作用是防止遊戲讀取一種不存在的寶可夢品種而出現錯誤。
 
 戰鬥時遇上MissingNo.將會導致遊戲圖像出現錯誤，和令玩家道具欄中的第六項道具的數量變成128個。情況嚴重者甚至會令遊戲進度毀壞，被迫重新開始遊戲。\[1\]
 
@@ -13,27 +10,17 @@ Number”（遺失號碼）的英文簡寫。實際上這隻寶可夢並不存�
 
 ## MissingNo.的特性
 
-就像平常跟野生寶可夢戰鬥時一樣，玩家可以逃走、戰鬥或捕捉MissingNo.\[4\]。然而當遭遇MissingNo.的那一刻開始，遊戲亦會發生變化。這個時候玩家道具欄中第六項物品的數量會變成128個，而遊戲中Hall
-of Fame的資料則會永久損毀。同時，會發生只要重新啟動遊戲機即可回復的暫時性的圖像錯誤。\[5\]
+就像平常跟野生寶可夢戰鬥時一樣，玩家可以逃走、戰鬥或捕捉MissingNo.\[4\]。然而當遭遇MissingNo.的那一刻開始，遊戲亦會發生變化。這個時候玩家道具欄中第六項物品的數量會變成128個，而遊戲中Hall of Fame的資料則會永久損毀。同時，會發生只要重新啟動遊戲機即可回復的暫時性的圖像錯誤。\[5\]
 
-捕獲的MissingNo.就跟普通的寶可夢一樣可以進行戰鬥，並且會記錄在寶可夢圖鑑的第000項，其屬性為鳥(Bird)/一般(Normal)
-(鳥屬性並非飛行屬性，為不存在於遊戲之屬性)。MissingNo.的樣子會依據玩家名字的組成字元而有所不同。大部份情況MissingNo.看起來就像是一個小寫的d字，由一些雜亂無章的像素所組成。\[6\]當玩家的名字中包含某幾個指定的字元，MissingNo.的樣子則有可能變成鐮刀盔化石、化石翼龍化石或是紫苑鎮的寶可夢塔中的鬼。
+捕獲的MissingNo.就跟普通的寶可夢一樣可以進行戰鬥，並且會記錄在寶可夢圖鑑的第000項，其屬性為鳥(Bird)/一般(Normal) (鳥屬性並非飛行屬性，為不存在於遊戲之屬性)。MissingNo.的樣子會依據玩家名字的組成字元而有所不同。大部份情況MissingNo.看起來就像是一個小寫的d字，由一些雜亂無章的像素所組成。\[6\]當玩家的名字中包含某幾個指定的字元，MissingNo.的樣子則有可能變成鐮刀盔化石、化石翼龍化石或是紫苑鎮的寶可夢塔中的鬼。
 
 ## 玩家群中的反響
 
-這個遊戲Bug在玩家群中引起了相當大的反響，後來任天堂亦警告玩家不要試圖遭遇甚至捕捉MissingNo.。但即使官方已發出警告，但捕捉MissingNo.彷彿已成為一種熱潮。那段時間的遊戲雜誌紛紛刊出遭遇MissingNo.的方法\[7\]\[8\]\[9\]，甚至有人試圖高價出售捕獲MissingNo.的方法\[10\]。這個Bug後來被修復，並被作為[精靈寶可夢
-黃版推出市場](../Page/精靈寶可夢_皮卡丘.md "wikilink")（但仍有許多其他方法製造出遊戲中不應存在的寶可夢，如著名的夢幻捕獲法）。於2009年，MissingNo.被列入IGN的「最經典遊戲彩蛋」名單之一\[11\]
-。
+這個遊戲Bug在玩家群中引起了相當大的反響，後來任天堂亦警告玩家不要試圖遭遇甚至捕捉MissingNo.。但即使官方已發出警告，但捕捉MissingNo.彷彿已成為一種熱潮。那段時間的遊戲雜誌紛紛刊出遭遇MissingNo.的方法\[7\]\[8\]\[9\]，甚至有人試圖高價出售捕獲MissingNo.的方法\[10\]。這個Bug後來被修復，並被作為[精靈寶可夢 黃版推出市場](../Page/精靈寶可夢_皮卡丘.md "wikilink")（但仍有許多其他方法製造出遊戲中不應存在的寶可夢，如著名的夢幻捕獲法）。於2009年，MissingNo.被列入IGN的「最經典遊戲彩蛋」名單之一\[11\] 。
 
 ## 参考资料
 
-[Category:虛構生物](https://zh.wikipedia.org/wiki/Category:虛構生物 "wikilink")
-[Category:寶可夢](https://zh.wikipedia.org/wiki/Category:寶可夢 "wikilink")
-[Category:程式錯誤](https://zh.wikipedia.org/wiki/Category:程式錯誤 "wikilink")
-[Category:电子游戏角色](https://zh.wikipedia.org/wiki/Category:电子游戏角色 "wikilink")
-[Category:都市傳說](https://zh.wikipedia.org/wiki/Category:都市傳說 "wikilink")
-[Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink")
-[Category:1996年推出的電子遊戲角色](https://zh.wikipedia.org/wiki/Category:1996年推出的電子遊戲角色 "wikilink")
+[Category:虛構生物](https://zh.wikipedia.org/wiki/Category:虛構生物 "wikilink") [Category:寶可夢](https://zh.wikipedia.org/wiki/Category:寶可夢 "wikilink") [Category:程式錯誤](https://zh.wikipedia.org/wiki/Category:程式錯誤 "wikilink") [Category:电子游戏角色](https://zh.wikipedia.org/wiki/Category:电子游戏角色 "wikilink") [Category:都市傳說](https://zh.wikipedia.org/wiki/Category:都市傳說 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:1996年推出的電子遊戲角色](https://zh.wikipedia.org/wiki/Category:1996年推出的電子遊戲角色 "wikilink")
 
 1.  <http://bulbapedia.bulbagarden.net/wiki/Missingno>.
 

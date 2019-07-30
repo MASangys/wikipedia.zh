@@ -1,8 +1,6 @@
 **MacPaint**是一個由[蘋果公司所開發的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[點陣圖繪圖軟件](https://zh.wikipedia.org/wiki/點陣圖 "wikilink")。在1984年1月24日，MacPaint作為第一代[麥金塔](../Page/麥金塔.md "wikilink")[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")（麥金塔128K）的預載軟件，正式推出市場。此外，MacPaint是和蘋果另一款的[文字處理軟件MacWrite一同綑綁銷售](https://zh.wikipedia.org/wiki/文字處理器 "wikilink")，售價為195[美元](../Page/美元.md "wikilink")。\[1\]MacPaint的一大特點是它制作的[圖像可以被其它麥金塔應用程式再使用](https://zh.wikipedia.org/wiki/圖像 "wikilink")。MacPaint透過使用[滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")，[剪貼簿和QuickDraw圖像語言技術](https://zh.wikipedia.org/wiki/剪貼簿 "wikilink")，令圖片可被軟件剪出，然後複制進其他MacWrite文件裏。\[2\]
 
-最初，MacPaint是由原麥金塔開發團隊成員[比爾·阿特金森負責研發的項目](https://zh.wikipedia.org/wiki/比爾·阿特金森 "wikilink")。\[3\]
-早期版本的MacPaint是叫MacSketch，繼承了MacPaint的前身LisaSketch名字中的「Sketch」一詞。\[4\]之後在1987年，蘋果屬下的軟件子公司Claris接手了MacPaint的研發工作。一年之後（1988年），MacPaint
-2.0釋出，同時是MacPaint的最後一個版本。鑑於銷售額每況愈下，MacPaint的銷售在1998年正式中止。\[5\]
+最初，MacPaint是由原麥金塔開發團隊成員[比爾·阿特金森負責研發的項目](https://zh.wikipedia.org/wiki/比爾·阿特金森 "wikilink")。\[3\] 早期版本的MacPaint是叫MacSketch，繼承了MacPaint的前身LisaSketch名字中的「Sketch」一詞。\[4\]之後在1987年，蘋果屬下的軟件子公司Claris接手了MacPaint的研發工作。一年之後（1988年），MacPaint 2.0釋出，同時是MacPaint的最後一個版本。鑑於銷售額每況愈下，MacPaint的銷售在1998年正式中止。\[5\]
 
 ## 發展
 
@@ -14,17 +12,13 @@ MacPaint是由蘋果工程師[比爾·阿特金森負責編寫的](https://zh.wi
 
 ## 發行
 
-在1983年12月，跟接著麥金塔128K的發佈，MacPaint首先在一份18頁的小冊子上做廣告。\[14\]麥金塔128K在1984年1月24日正式發售的時候，預載了MacPaint和[MacWrite兩款軟件](https://zh.wikipedia.org/wiki/MacWrite "wikilink")。在1984年11月，[新聞週刊出版了大選後特別版](https://zh.wikipedia.org/wiki/新聞週刊 "wikilink")，蘋果合共花了250萬美元買下了該期全數一共39頁的廣告頁，為麥金塔128K作宣傳。那份廣告同時用了相當多的篇幅演繹了MacWrite和MacPaint兩者如何合起來使用。\[15\]其後，一位[紐約時報的評論員指出MacPaint為個人電腦的圖像處理帶來了無限的可能性](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")，他進一步表示「它（MacPaint）比其他同類型的產品要好上十倍」。\[16\]
-直至1986年新版麥金塔發售前，MacPaint一直是麥金塔電腦的附載軟件。之後，MacPaint和MacWrite的組合就成了一款獨立發售的產品。
+在1983年12月，跟接著麥金塔128K的發佈，MacPaint首先在一份18頁的小冊子上做廣告。\[14\]麥金塔128K在1984年1月24日正式發售的時候，預載了MacPaint和[MacWrite兩款軟件](https://zh.wikipedia.org/wiki/MacWrite "wikilink")。在1984年11月，[新聞週刊出版了大選後特別版](https://zh.wikipedia.org/wiki/新聞週刊 "wikilink")，蘋果合共花了250萬美元買下了該期全數一共39頁的廣告頁，為麥金塔128K作宣傳。那份廣告同時用了相當多的篇幅演繹了MacWrite和MacPaint兩者如何合起來使用。\[15\]其後，一位[紐約時報的評論員指出MacPaint為個人電腦的圖像處理帶來了無限的可能性](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")，他進一步表示「它（MacPaint）比其他同類型的產品要好上十倍」。\[16\] 直至1986年新版麥金塔發售前，MacPaint一直是麥金塔電腦的附載軟件。之後，MacPaint和MacWrite的組合就成了一款獨立發售的產品。
 
 ## 其後版本
 
 [MacPaint_2.0_screenshot.png](https://zh.wikipedia.org/wiki/File:MacPaint_2.0_screenshot.png "fig:MacPaint_2.0_screenshot.png")
 
-在1988年1月11日，Claris發行了MacPaint的2.0版本。\[17\]新版本對程式作出了很多的改進，包括能夠同時開啟並編輯9個文件。\[18\]
-正如先前所述，原先的MacPaint使用了單文件介面，而且文件視窗是固定的。2.0版本刪去了這一限制，首次引進一個擁有全面功能的文件視窗，其次是視窗大小最大可放至8吋X10吋。\[19\]與此同時新版本同時也引入了數項新功能，包括:縮放和魔術橡皮工具。\[20\]MacPaint
-2.0版本的開發任務是由一位Claris的軟件開發者大衛·朗姆西負責。\[21\]
-2.0版本售價為125美元，升級版售價為25美元。\[22\]然而Claris在1989年中止了對MacPaint的技術支援。\[23\]最終在1998年，Claris停止售賣MacPaint。\[24\]
+在1988年1月11日，Claris發行了MacPaint的2.0版本。\[17\]新版本對程式作出了很多的改進，包括能夠同時開啟並編輯9個文件。\[18\] 正如先前所述，原先的MacPaint使用了單文件介面，而且文件視窗是固定的。2.0版本刪去了這一限制，首次引進一個擁有全面功能的文件視窗，其次是視窗大小最大可放至8吋X10吋。\[19\]與此同時新版本同時也引入了數項新功能，包括:縮放和魔術橡皮工具。\[20\]MacPaint 2.0版本的開發任務是由一位Claris的軟件開發者大衛·朗姆西負責。\[21\] 2.0版本售價為125美元，升級版售價為25美元。\[22\]然而Claris在1989年中止了對MacPaint的技術支援。\[23\]最終在1998年，Claris停止售賣MacPaint。\[24\]
 
 ## 原始碼釋出
 
@@ -32,10 +26,7 @@ MacPaint的1.3版本的[原始碼已經向公眾釋出](https://zh.wikipedia.org
 
 ## 影響
 
-MacPaint啟發了其他公司開發同類的產品。\[26\]當中包括Broderbund為Apple II設計的Dazzledraw\[27\]
-，Mouse Systems為IBM PC設計的PC Paint\[28\]
-，還有[IBM為自家IBM](../Page/IBM.md "wikilink") PCjr設計的Color
-Paint。\[29\]
+MacPaint啟發了其他公司開發同類的產品。\[26\]當中包括Broderbund為Apple II設計的Dazzledraw\[27\] ，Mouse Systems為IBM PC設計的PC Paint\[28\] ，還有[IBM](../Page/IBM.md "wikilink")為自家IBM PCjr設計的Color Paint。\[29\]
 
 ## 版本歷史
 
@@ -57,11 +48,7 @@ Paint。\[29\]
   - [電腦歷史博物館的網站上提供的MacPaint原始碼](http://www.computerhistory.org/highlights/macpaint/)
   - [Macpaint.org](http://www.macpaint.org/)
 
-[Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink")
-[Category:Mac_OS软件](https://zh.wikipedia.org/wiki/Category:Mac_OS软件 "wikilink")
-[Category:位图编辑软件](https://zh.wikipedia.org/wiki/Category:位图编辑软件 "wikilink")
-[Category:已停止開發的軟體](https://zh.wikipedia.org/wiki/Category:已停止開發的軟體 "wikilink")
-[Category:組合語言軟體](https://zh.wikipedia.org/wiki/Category:組合語言軟體 "wikilink")
+[Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink") [Category:Mac_OS软件](https://zh.wikipedia.org/wiki/Category:Mac_OS软件 "wikilink") [Category:位图编辑软件](https://zh.wikipedia.org/wiki/Category:位图编辑软件 "wikilink") [Category:已停止開發的軟體](https://zh.wikipedia.org/wiki/Category:已停止開發的軟體 "wikilink") [Category:組合語言軟體](https://zh.wikipedia.org/wiki/Category:組合語言軟體 "wikilink")
 
 1.
 
@@ -112,13 +99,10 @@ Paint。\[29\]
 
 28.
 29.
-30. [Apple's new MacIntosh:
-    specs](http://macgui.com/usenet/?group=26&id=4731)
+30. [Apple's new MacIntosh: specs](http://macgui.com/usenet/?group=26&id=4731)
 
 31.
 
-32. [Mac Finder..etc.. upgrade available
-    FREE](http://macgui.com/usenet/?group=26&id=6697)
+32. [Mac Finder..etc.. upgrade available FREE](http://macgui.com/usenet/?group=26&id=6697)
 
-33. [MacExpo: Bursting at the
-    seams](http://macgui.com/usenet/?group=14&id=10855)
+33. [MacExpo: Bursting at the seams](http://macgui.com/usenet/?group=14&id=10855)

@@ -1,19 +1,14 @@
-『**侍戰隊真劍者VS轟音者
-銀幕BANG\!\!**』在2010年1月30日於日本上映，是『[侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")』第二部劇場版作品。這是繼『**[劇場版
-炎神戰隊轟音者VS激氣連者](../Page/劇場版_炎神戰隊轟音者VS激氣連者.md "wikilink")**』之後，超級戰隊VS系列的續作劇場版作品。
+『**侍戰隊真劍者VS轟音者 銀幕BANG\!\!**』在2010年1月30日於日本上映，是『[侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")』第二部劇場版作品。這是繼『**[劇場版 炎神戰隊轟音者VS激氣連者](../Page/劇場版_炎神戰隊轟音者VS激氣連者.md "wikilink")**』之後，超級戰隊VS系列的續作劇場版作品。
 
-本片於台灣播出時，由[卡通頻道首播](../Page/卡通頻道.md "wikilink")，加上中文版本並收錄成DVD（包括再次由[中華電信MOD播出時](../Page/中華電信MOD.md "wikilink")）。但是[東森幼幼台後來播出時](../Page/東森幼幼台.md "wikilink")，因配合真劍者電視本篇重新製作中文聲優及翻譯，導致爭議不斷（包括真劍者獨立劇場版和歸來篇）。
+本片於台灣播出時，由[卡通頻道](../Page/卡通頻道.md "wikilink")首播，加上中文版本並收錄成DVD（包括再次由[中華電信MOD](../Page/中華電信MOD.md "wikilink")播出時）。但是[東森幼幼台](../Page/東森幼幼台.md "wikilink")後來播出時，因配合真劍者電視本篇重新製作中文聲優及翻譯，導致爭議不斷（包括真劍者獨立劇場版和歸來篇）。
 
 ## 概要
 
 故事發生在真劍者電視本篇第43-44話之間。
 
-轟音者在完結篇中，應BOMPER和炎神們請求再次成為正義的英雄，為追蠻機族的餘黨，而追到了「[槍手](https://zh.wikipedia.org/wiki/槍手 "wikilink")[世界](../Page/世界.md "wikilink")(ガンマンワールド
-= Gunman World)」，在槍手世界與害統領「巴奇德」最終決戰中，被巴奇德打敗，最後轟音者和炎神們紛紛掉落同地次元世界......
+轟音者在完結篇中，應BOMPER和炎神們請求再次成為正義的英雄，為追蠻機族的餘黨，而追到了「[槍手](https://zh.wikipedia.org/wiki/槍手 "wikilink")[世界](../Page/世界.md "wikilink")(ガンマンワールド = Gunman World)」，在槍手世界與害統領「巴奇德」最終決戰中，被巴奇德打敗，最後轟音者和炎神們紛紛掉落同地次元世界......
 
-另一方面，在人類世界的真劍者跟突如出現的蠻機兵戰鬥，最後被幸運釣回人類世界的轟音紅
-江角走輔，給一口氣全數殲滅，在志葉家本來想尋求合作的走輔，被真劍紅
-志葉丈瑠稱「[外行人](https://zh.wikipedia.org/wiki/外行人 "wikilink")」，兩個人因此撕破臉。巴奇德和外眾道連手準備用三途之川的水汙染整個人類世界，得知巴奇德陰謀的真劍者，在與巴奇德戰鬥時將真劍紅以外的真劍者丟到其他次元世界中，除此之外就連BOMPER和日下部彦馬也被巴奇德和外眾道抓來當俘虜......
+另一方面，在人類世界的真劍者跟突如出現的蠻機兵戰鬥，最後被幸運釣回人類世界的轟音紅 江角走輔，給一口氣全數殲滅，在志葉家本來想尋求合作的走輔，被真劍紅 志葉丈瑠稱「[外行人](https://zh.wikipedia.org/wiki/外行人 "wikilink")」，兩個人因此撕破臉。巴奇德和外眾道連手準備用三途之川的水汙染整個人類世界，得知巴奇德陰謀的真劍者，在與巴奇德戰鬥時將真劍紅以外的真劍者丟到其他次元世界中，除此之外就連BOMPER和日下部彦馬也被巴奇德和外眾道抓來當俘虜......
 
 走輔和丈瑠有辦法突破這最大的障礙嗎？而失散到各次元世界中的轟音者及真劍者等十一位正義的英雄能再次騎聚一堂嗎？兩大超級戰隊能化解這次的危機嗎？兩大戰隊與侵略者的大戦就此展開
 
@@ -28,7 +23,7 @@
 
 台配為[卡通頻道](../Page/卡通頻道.md "wikilink")/[中華電信MOD](../Page/中華電信MOD.md "wikilink")/DVD版本。
 
-### [侍戰隊真劍者登場人物](../Page/侍戰隊真劍者.md "wikilink")
+### [侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")登場人物
 
 #### 真劍者
 
@@ -38,13 +33,11 @@
 
 ::侍戰隊真劍者的主人公，剛開始看到走輔的戰鬥方式時，稱走輔是外行人，所以拒絕和他合作，但在第一次與巴奇德交手失敗過後，最後知道走輔想要保護世界真實的感覺和心情，終於和走輔合作
 
-:;**池波流之介 / 真劍藍** ([相葉弘樹](https://zh.wikipedia.org/wiki/相葉弘樹 "wikilink")
-飾/台：[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink"))
+:;**池波流之介 / 真劍藍** ([相葉弘樹](https://zh.wikipedia.org/wiki/相葉弘樹 "wikilink") 飾/台：[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink"))
 
-::敗給巴奇德後，被巴奇德丟往[垃圾世界](../Page/垃圾.md "wikilink")，最後碰上先前同樣被丟往垃圾世界的範人和早輝，是真劍者中唯一一個被獨自丟往[垃圾世界的人](../Page/垃圾.md "wikilink")
+::敗給巴奇德後，被巴奇德丟往[垃圾](../Page/垃圾.md "wikilink")世界，最後碰上先前同樣被丟往垃圾世界的範人和早輝，是真劍者中唯一一個被獨自丟往[垃圾](../Page/垃圾.md "wikilink")世界的人
 
-:;**白石茉子 / 真劍粉紅** ([高梨臨](../Page/高梨臨.md "wikilink")
-飾/台：[謝佼娟](../Page/謝佼娟.md "wikilink"))
+:;**白石茉子 / 真劍粉紅** ([高梨臨](../Page/高梨臨.md "wikilink") 飾/台：[謝佼娟](../Page/謝佼娟.md "wikilink"))
 
 ::敗給巴奇德後，和源太一起被巴奇德丟往[聖誕世界](https://zh.wikipedia.org/wiki/聖誕 "wikilink")，最後碰上先前同樣被丟往聖誕世界的須塔兄妹，須塔大翔和須塔美羽
 
@@ -56,8 +49,7 @@
 
 ::敗給巴奇德後，和千明一起被巴奇德丟往[武士世界](https://zh.wikipedia.org/wiki/武士 "wikilink")，最後碰上先前同樣被丟往武士世界因不明原因而被追趕的連和軍平，另外還有源太的提燈折神-大御用
 
-:;**梅盛源太 / 真劍金** ([相馬圭祐](https://zh.wikipedia.org/wiki/相馬圭祐 "wikilink")
-飾/台：待查)
+:;**梅盛源太 / 真劍金** ([相馬圭祐](https://zh.wikipedia.org/wiki/相馬圭祐 "wikilink") 飾/台：待查)
 
 ::敗給巴奇德後，和茉子一起被巴奇德丟往[聖誕世界](https://zh.wikipedia.org/wiki/聖誕 "wikilink")，最後碰上先前同樣被丟往聖誕世界的須塔兄妹，須塔大翔和須塔美羽
 
@@ -65,8 +57,7 @@
 
 ::志葉家忠心[家臣](https://zh.wikipedia.org/wiki/家臣 "wikilink")，在宅中被稱為「老爺子」，是個萬能管家，最後和BOMPER被巴奇德和朧車綁架到惡車山去當人質
 
-:;**大御用**
-(CV：[遠近孝一](https://zh.wikipedia.org/wiki/遠近孝一 "wikilink")/台：待查)
+:;**大御用** (CV：[遠近孝一](https://zh.wikipedia.org/wiki/遠近孝一 "wikilink")/台：待查)
 
 ::源太的提燈折神，被巴奇德丟往[武士世界無故當了捕快們所用的提燈](https://zh.wikipedia.org/wiki/武士 "wikilink")，更協助捕快們拘捕了連、軍平、琴羽和千明，但最後放了他們並一起逃獄
 
@@ -81,8 +72,7 @@
 
 ;
 
-:;**血祭慟哭**
-(CV：[西凜太朗](https://zh.wikipedia.org/wiki/西凜太朗 "wikilink")/台：待查)
+:;**血祭慟哭** (CV：[西凜太朗](https://zh.wikipedia.org/wiki/西凜太朗 "wikilink")/台：待查)
 
 ::外道眾的首領，對巴奇德的合作提議實際上都抱著懷疑的態度
 
@@ -94,8 +84,7 @@
 
 ::作戰計畫幾乎都由他指揮，可說是外道眾的[軍師](../Page/軍師.md "wikilink")
 
-:;**[朧車](https://zh.wikipedia.org/wiki/朧車 "wikilink")**
-(CV：[吉野裕行](../Page/吉野裕行.md "wikilink")/台：待查)
+:;**[朧車](https://zh.wikipedia.org/wiki/朧車 "wikilink")** (CV：[吉野裕行](../Page/吉野裕行.md "wikilink")/台：待查)
 
 ::協助巴奇德進行計畫，但最終被巴奇德背叛，被轟音者和真劍者消滅
 
@@ -126,7 +115,7 @@
 
 ::千明專用折神，代表「**木**」的折神
 
-:;**[猿折神](../Page/猿.md "wikilink")**
+:;**[猿](../Page/猿.md "wikilink")折神**
 
 ::琴羽專用折神，代表「**土**」的折神
 
@@ -134,7 +123,7 @@
 
 ::源太專用折神，代表「**光**」的折神，也是丈瑠小時候送他的禮物
 
-:;**[獨角仙折神](../Page/獨角仙.md "wikilink")**
+:;**[獨角仙](../Page/獨角仙.md "wikilink")折神**
 
 ::原為丈瑠常用折神，後來轉讓給千明，而成為千明常用折神
 
@@ -142,7 +131,7 @@
 
 ::流之介用釣竿釣到的折神，並成為流之介常用折神
 
-:;**[虎折神](../Page/虎.md "wikilink")**
+:;**[虎](../Page/虎.md "wikilink")折神**
 
 ::丈瑠專用折神
 
@@ -150,7 +139,7 @@
 
 ::源太專用折神，也是其自行開發的折神
 
-:;**[牛折神](../Page/牛.md "wikilink")**
+:;**[牛](../Page/牛.md "wikilink")折神**
 
 ::丈瑠專用折神，是所有折神的元祖
 
@@ -162,14 +151,13 @@
         首代真劍紅-志葉烈堂所使用的先祖秘傳碟，而後為丈瑠常用折神
         在本劇場版借予走輔使用,從而變身為Hyper轟音紅
 
-### [炎神戰隊轟音者登場人物](../Page/炎神戰隊轟音者.md "wikilink")
+### [炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")登場人物
 
 #### 轟音者、轟音雙翼
 
 ;
 
-:;**江角走輔 / 轟音紅** ([古原靖久](../Page/古原靖久.md "wikilink")
-飾/台：[李世揚](../Page/李世揚.md "wikilink"))
+:;**江角走輔 / 轟音紅** ([古原靖久](../Page/古原靖久.md "wikilink") 飾/台：[李世揚](../Page/李世揚.md "wikilink"))
 
 ::在槍手世界敗給巴奇德後，和BOMBER一起被丟回人類世界，並在真劍者們跟蠻機兵戰鬥時插手加入戰鬥。但自身的戰鬥的方式被丈瑠稱為「外行人」，被丈瑠拒絕合作，在情急之下也氣極敗壞的拒絕與真劍者合作，直到最後丈瑠的同伴也被巴奇德丟往次元世界，而且知道丈瑠想要保護世界真實的感覺和心情，最後兩人終於合作。在本篇中是棕色且稍長的頭髮，此劇場版中以黑色且較短的頭髮亮相。
 
@@ -193,8 +181,7 @@
 
 ::在槍手世界敗給巴奇德後，和自己的妹妹美羽一起被丟往聖誕世界，最後碰上了後來同樣被丟往聖誕世界的茉子和源太。在本篇中是較長的黑色挑染金色的髮型。此劇場版中是棕色稍短的髮形亮相。
 
-:;**須塔美羽 / 轟音銀** ([杉本有美](../Page/杉本有美.md "wikilink")
-飾/台：[謝佼娟](../Page/謝佼娟.md "wikilink"))
+:;**須塔美羽 / 轟音銀** ([杉本有美](../Page/杉本有美.md "wikilink") 飾/台：[謝佼娟](../Page/謝佼娟.md "wikilink"))
 
 ::在槍手世界敗給巴奇德後，和自己的哥哥大翔一起被丟往聖誕世界，最後碰上了後來同樣被丟往聖誕世界的茉子和源太。
 
@@ -221,8 +208,7 @@
 
 ::在本篇中，因為背叛總理大臣 污希克里坦因，而被消滅。
 
-:;**害水大臣【凱格雷西亞】** ([及川奈央](../Page/及川奈央.md "wikilink")
-飾/台：[謝佼娟](../Page/謝佼娟.md "wikilink"))
+:;**害水大臣【凱格雷西亞】** ([及川奈央](../Page/及川奈央.md "wikilink") 飾/台：[謝佼娟](../Page/謝佼娟.md "wikilink"))
 
 ::在本篇中，因為背叛總理大臣 污希克里坦因，而被消滅。
 
@@ -241,8 +227,7 @@
 
 ::走輔的[搭擋炎神](https://zh.wikipedia.org/wiki/搭擋 "wikilink")，機體號碼「1」，在槍手世界轟音者敗給巴奇德後，沒有和走輔一起掉回人類世界，而是和其他炎神在各次元中找尋其他人。
 
-:;**巴獅王**
-(CV：[江川央生](../Page/江川央生.md "wikilink")/台：[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink"))
+:;**巴獅王** (CV：[江川央生](../Page/江川央生.md "wikilink")/台：[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink"))
 
 ::連的搭擋炎神，機體號碼「2」，在槍手世界轟音者敗給巴奇德後，沒有和連一起掉到武士世界，最後在武士世界和連會合。
 
@@ -258,13 +243,11 @@
 
 ::軍平的搭擋炎神，機體號碼「5」，在槍手世界轟音者敗給巴奇德後，沒有和軍平一起掉到武士世界，最後在武士世界和軍平會合
 
-:;**鱷魚拖車**
-(CV：[津久井教生](../Page/津久井教生.md "wikilink")/台：[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink"))
+:;**鱷魚拖車** (CV：[津久井教生](../Page/津久井教生.md "wikilink")/台：[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink"))
 
 ::算範人和軍平的搭擋炎神，機體號碼「6」，在槍手世界轟音者敗給巴奇德後，沒有和範人及軍平一起掉到武士世界，最後在武士世界和範人及軍平會合
 
-:;**直升鬥雞**
-(CV：[石川靜](../Page/石川靜.md "wikilink")/台：[謝佼娟](../Page/謝佼娟.md "wikilink"))
+:;**直升鬥雞** (CV：[石川靜](../Page/石川靜.md "wikilink")/台：[謝佼娟](../Page/謝佼娟.md "wikilink"))
 
 ::大翔的搭擋炎神，機體號碼「7」，在槍手世界轟音者敗給巴奇德後，沒有和大翔一起掉到聖誕世界，最後在聖誕世界和大翔會合
 
@@ -278,8 +261,7 @@
 
 :;**猛瑪火車頭**
 
-::認定走輔為搭擋的古代炎神，炎神的祖先，機體號碼「10」，在槍手世界轟音者敗給巴奇德後，和走輔一起掉回人類世界
-(因在槍手世界，轟音者只用炎神王G9和巴奇德對抗)
+::認定走輔為搭擋的古代炎神，炎神的祖先，機體號碼「10」，在槍手世界轟音者敗給巴奇德後，和走輔一起掉回人類世界 (因在槍手世界，轟音者只用炎神王G9和巴奇德對抗)
 
 :;**暴龍新幹線**
 
@@ -300,23 +282,19 @@
 
 :;**護星紅** (CV：[千葉雄大](../Page/千葉雄大.md "wikilink")/台：待查)
 
-:;**護星粉紅**
-(CV：[佐藤里香](https://zh.wikipedia.org/wiki/佐藤里香 "wikilink")/台：待查)
+:;**護星粉紅** (CV：[佐藤里香](https://zh.wikipedia.org/wiki/佐藤里香 "wikilink")/台：待查)
 
-:;**護星黑**
-(CV：[浜尾京介](https://zh.wikipedia.org/wiki/浜尾京介 "wikilink")/台：待查)
+:;**護星黑** (CV：[浜尾京介](https://zh.wikipedia.org/wiki/浜尾京介 "wikilink")/台：待查)
 
-:;**護星黃**
-(CV：[丹羽未來帆](https://zh.wikipedia.org/wiki/丹羽未來帆 "wikilink")/台：[謝佼娟](../Page/謝佼娟.md "wikilink"))
+:;**護星黃** (CV：[丹羽未來帆](https://zh.wikipedia.org/wiki/丹羽未來帆 "wikilink")/台：[謝佼娟](../Page/謝佼娟.md "wikilink"))
 
-:;**護星藍**
-(CV：[小野健斗](https://zh.wikipedia.org/wiki/小野健斗 "wikilink")/台：待查)
+:;**護星藍** (CV：[小野健斗](https://zh.wikipedia.org/wiki/小野健斗 "wikilink")/台：待查)
 
 ## 登場世界
 
 ;
 
-:;**[人類世界](../Page/人類.md "wikilink")** (ヒューマンワールド = Human World)
+:;**[人類](../Page/人類.md "wikilink")世界** (ヒューマンワールド = Human World)
 
 ::為所有超級戰隊主要舞台，在[假面騎士DECADE裡稱為真劍者世界](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")，但實際上就是人類世界
 
@@ -326,7 +304,7 @@
 
 :;**聖誕世界** (クリスマスワールド = Christmas World)
 
-::在轟音者本篇中第43、44話中的聖誕老人就是來自這哩，在本話中提到，聖誕老人的袋子可以連結到聖誕世界，是個次元的袋子，類是[哆啦A夢的](../Page/哆啦A夢.md "wikilink")[百寶袋](https://zh.wikipedia.org/wiki/四次元口袋 "wikilink")，在本劇場版中為大翔、美羽、末子、源太掉入的世界
+::在轟音者本篇中第43、44話中的聖誕老人就是來自這哩，在本話中提到，聖誕老人的袋子可以連結到聖誕世界，是個次元的袋子，類是[哆啦A夢](../Page/哆啦A夢.md "wikilink")的[百寶袋](https://zh.wikipedia.org/wiki/四次元口袋 "wikilink")，在本劇場版中為大翔、美羽、末子、源太掉入的世界
 
 :;**垃圾世界** (ジャンクワールド = Junk World)
 
@@ -356,10 +334,7 @@
 <!-- end list -->
 
   -
-    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")、マイクスギヤマ /
-    作曲：大石憲一郎（[Project.R](../Page/Project.R.md "wikilink")）、[YOFFY](../Page/PSYCHIC_LOVER.md "wikilink")、[高取秀明](../Page/高取秀明.md "wikilink")/
-    編曲：大石憲一郎（Project.R） / 歌：Project.R（YOFFY、高取秀明、[Sister
-    MAYO](../Page/Sister_MAYO.md "wikilink")）
+    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")、マイクスギヤマ / 作曲：大石憲一郎（[Project.R](../Page/Project.R.md "wikilink")）、[YOFFY](../Page/PSYCHIC_LOVER.md "wikilink")、[高取秀明](../Page/高取秀明.md "wikilink")/ 編曲：大石憲一郎（Project.R） / 歌：Project.R（YOFFY、高取秀明、[Sister MAYO](../Page/Sister_MAYO.md "wikilink")）
 
 ## 製作人員
 
@@ -371,12 +346,8 @@
   - 助理監督：須上和泰
   - 特技監督：石垣広文
   - 特攝監督：佛田洋（特撮研究所）
-  - 制作：[tv
-    asahi](https://zh.wikipedia.org/wiki/テレビ朝日 "wikilink")、[東映](../Page/東映.md "wikilink")、東映AG、東映ビデオ、木下工務店
+  - 制作：[tv asahi](https://zh.wikipedia.org/wiki/テレビ朝日 "wikilink")、[東映](../Page/東映.md "wikilink")、東映AG、東映ビデオ、木下工務店
 
 ## 外部連結
 
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:2010年电影](https://zh.wikipedia.org/wiki/Category:2010年电影 "wikilink")
-[Category:2010年代特攝作品](https://zh.wikipedia.org/wiki/Category:2010年代特攝作品 "wikilink")
+[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:2010年电影](https://zh.wikipedia.org/wiki/Category:2010年电影 "wikilink") [Category:2010年代特攝作品](https://zh.wikipedia.org/wiki/Category:2010年代特攝作品 "wikilink")

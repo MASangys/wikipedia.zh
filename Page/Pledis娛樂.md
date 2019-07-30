@@ -1,18 +1,16 @@
-**Pledis娛樂**（；）是一間韓國藝人企劃和經紀公司，旗下包括[After
-School](../Page/After_School.md "wikilink")、[NU'EST](../Page/NU'EST.md "wikilink")、[SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")、[韓東根](../Page/韓東根.md "wikilink")、[BUMZU等藝人](https://zh.wikipedia.org/wiki/BUMZU "wikilink")。
+**Pledis娛樂**（；）是一間韓國藝人企劃和經紀公司，旗下包括[After School](../Page/After_School.md "wikilink")、[NU'EST](../Page/NU'EST.md "wikilink")、[SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")、[韓東根](../Page/韓東根.md "wikilink")、[BUMZU等藝人](https://zh.wikipedia.org/wiki/BUMZU "wikilink")。
 
-2012年Pledis與[Fantagio共同合作設立Tricell](../Page/Fantagio.md "wikilink")
-Media，並推出女團[Hello Venus](../Page/Hello_Venus.md "wikilink")。
+2012年Pledis與[Fantagio](../Page/Fantagio.md "wikilink")共同合作設立Tricell Media，並推出女團[Hello Venus](../Page/Hello_Venus.md "wikilink")。
 
 2013年Pledis與[樂華娛樂共同宣布](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")，雙方將在音樂領域進行全方位的合作。\[1\]
 
-2014年7月31日宣布Pledis與Fantagio透過Tricell Media一起經營[Hello
-Venus的企劃已結束](../Page/Hello_Venus.md "wikilink")，雙方公司協議終止此項計劃，Pledis的所屬成員[柳娥羅與](../Page/柳娥羅.md "wikilink")[慎胤祖也因此退出組合](../Page/慎胤祖.md "wikilink")。\[2\]
+2014年7月31日宣布Pledis與Fantagio透過Tricell Media一起經營[Hello Venus的企劃已結束](../Page/Hello_Venus.md "wikilink")，雙方公司協議終止此項計劃，Pledis的所屬成員[柳娥羅](../Page/柳娥羅.md "wikilink")與[慎胤祖](../Page/慎胤祖.md "wikilink")也因此退出組合。\[2\]
 
-2018年9月21日與CJ E\&M合資成立公司Off The
-Record娱乐，正式接管[IZ\*ONE和](../Page/IZ*ONE.md "wikilink")[fromis_9的一切活动](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")。
+2018年9月21日與CJ E\&M合資成立公司Off The Record娱乐，正式接管[IZ\*ONE](../Page/IZ*ONE.md "wikilink")和[fromis_9的一切活动](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")。
 
 2018年11月在中国成立分公司星灿盛世。
+
+2019年5月24日，旗下女子團體[PRISTIN宣布解散](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")。
 
 ## 旗下藝人
 
@@ -34,10 +32,9 @@ Record娱乐，正式接管[IZ\*ONE和](../Page/IZ*ONE.md "wikilink")[fromis_9�
   - [Raina](https://zh.wikipedia.org/wiki/吳慧潾 "wikilink")
   - [NaNa](https://zh.wikipedia.org/wiki/林珍兒 "wikilink")
   - [E-Young](https://zh.wikipedia.org/wiki/盧俐英 "wikilink")
-  - [李佳恩](https://zh.wikipedia.org/wiki/李佳恩 "wikilink")
   - [周潔瓊](../Page/周潔瓊.md "wikilink")
-  - [金譽媛](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")
-  - [裵成娫](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")
+  - [金譽媛](../Page/Yehana.md "wikilink")
+  - [裵成娫](../Page/成嬿.md "wikilink")
 
 ### 組合
 
@@ -101,20 +98,21 @@ Record娱乐，正式接管[IZ\*ONE和](../Page/IZ*ONE.md "wikilink")[fromis_9�
 
       - [Lizzy](../Page/Lizzy_\(韓國歌手\).md "wikilink")<small>（2010－2018）</small>
 
+      - [佳恩](https://zh.wikipedia.org/wiki/李佳恩 "wikilink")<small>（2012－2019）</small>
+
 <!-- end list -->
 
-  - [Hello
-    Venus](../Page/Hello_Venus.md "wikilink")<small>（2012－2014）</small>
+  - [Hello Venus](../Page/Hello_Venus.md "wikilink")<small>（2012－2014）</small>
       - [娥羅](../Page/柳娥羅.md "wikilink")<small>（2012－2014）</small>
       - [胤祖](../Page/慎胤祖.md "wikilink")<small>（2012－2014）</small>
   - [PRISTIN](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")<small>（2017－2019）</small>
       - [娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")<small>（2017－2019）</small>
-      - Roa<small>（2017－2019）</small>
-      - Yuha<small>（2017－2019）</small>
-      - 銀雨<small>（2017－2019）</small>
-      - Rena<small>（2017－2019）</small>
-      - 施妍<small>（2017－2019）</small>
-      - Kyla<small>（2017－2019）</small>
+      - [Roa](../Page/Roa.md "wikilink")<small>（2017－2019）</small>
+      - [Yuha](../Page/Yuha.md "wikilink")<small>（2017－2019）</small>
+      - [銀雨](../Page/鄭銀雨.md "wikilink")<small>（2017－2019）</small>
+      - [Rena](../Page/Rena.md "wikilink")<small>（2017－2019）</small>
+      - [施妍](../Page/施妍.md "wikilink")<small>（2017－2019）</small>
+      - [Kyla](../Page/Kyla.md "wikilink")<small>（2017－2019）</small>
 
 ## 練習生
 
@@ -142,8 +140,7 @@ Record娱乐，正式接管[IZ\*ONE和](../Page/IZ*ONE.md "wikilink")[fromis_9�
 
   - 林孝宣（[H.U.B](../Page/H.U.B.md "wikilink")）
 
-  - （《[PRODUCE
-    101](../Page/PRODUCE_101.md "wikilink")》、《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》）
+  - （《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》、《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》）
 
 ## 參考來源
 
@@ -165,10 +162,7 @@ Record娱乐，正式接管[IZ\*ONE和](../Page/IZ*ONE.md "wikilink")[fromis_9�
 
   - [Pledis娛樂 社長個人Instagram](https://www.instagram.com/pledis_boss/)
 
-[Category:Pledis娛樂](https://zh.wikipedia.org/wiki/Category:Pledis娛樂 "wikilink")
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
+[Category:Pledis娛樂](https://zh.wikipedia.org/wiki/Category:Pledis娛樂 "wikilink") [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
 
-1.  [樂華娛樂與韓國PLEDIS達成戰略合作](http://news.sina.com.tw/article/20131106/11051914.html)
-    北京新浪網 2013-11-6
-2.  [2成員宣布退出HELLOVENUS重新整隊成4人組](http://n.yam.com/wownews/entertain/20140731/20140731457637.html/)bnt新聞訊
-    2014年07月31日
+1.  [樂華娛樂與韓國PLEDIS達成戰略合作](http://news.sina.com.tw/article/20131106/11051914.html) 北京新浪網 2013-11-6
+2.  [2成員宣布退出HELLOVENUS重新整隊成4人組](http://n.yam.com/wownews/entertain/20140731/20140731457637.html/)bnt新聞訊 2014年07月31日

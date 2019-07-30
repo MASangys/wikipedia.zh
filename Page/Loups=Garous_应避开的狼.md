@@ -1,65 +1,47 @@
-《**Loups=Garous
-应避开的狼**》（）是由[京極夏彥所著的SF小说](https://zh.wikipedia.org/wiki/京極夏彥 "wikilink")。以及以这个作品为原作，由[樋口彰彥出版了](https://zh.wikipedia.org/wiki/樋口彰彥 "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、并且推出了[动画电影](https://zh.wikipedia.org/wiki/动画电影 "wikilink")《**Loups=Garous**》。
+《**Loups=Garous 应避开的狼**》（）是由[京極夏彥所著的SF小说](https://zh.wikipedia.org/wiki/京極夏彥 "wikilink")。以及以这个作品为原作，由[樋口彰彥出版了](https://zh.wikipedia.org/wiki/樋口彰彥 "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、并且推出了[动画电影](https://zh.wikipedia.org/wiki/动画电影 "wikilink")《**Loups=Garous**》。
 
 ## 小說
 
   - **ルー=ガルー 忌避すべき狼**
-      - 單行本（[徳間書店](https://zh.wikipedia.org/wiki/徳間書店 "wikilink")、2001年6月、ISBN
-        4-19-861364-8）
+      - 單行本（[徳間書店](https://zh.wikipedia.org/wiki/徳間書店 "wikilink")、2001年6月、ISBN 4-19-861364-8）
 
-          - 封面插圖 -
-            [小岐須雅之](https://zh.wikipedia.org/wiki/小岐須雅之 "wikilink")
+          - 封面插圖 - [小岐須雅之](https://zh.wikipedia.org/wiki/小岐須雅之 "wikilink")
 
       - 版（、2004年11月、ISBN 4-19-850653-1）
 
           - 封面插圖 - 小岐須雅之
 
-      - 新書版（[講談社NOVELS](https://zh.wikipedia.org/wiki/講談社NOVELS "wikilink")、2009年10月21日、ISBN
-        978-4-06-182674-8）
+      - 新書版（[講談社NOVELS](https://zh.wikipedia.org/wiki/講談社NOVELS "wikilink")、2009年10月21日、ISBN 978-4-06-182674-8）
 
-          - 封面插圖 -
-            [redjuice](https://zh.wikipedia.org/wiki/redjuice "wikilink")
+          - 封面插圖 - [redjuice](https://zh.wikipedia.org/wiki/redjuice "wikilink")
 
-      - 分冊文庫版（[講談社文庫](https://zh.wikipedia.org/wiki/講談社文庫 "wikilink")、2011年9月15日、上卷ISBN
-        978-4-06-276899-3 下卷ISBN 978-4-06-276910-5）
+      - 分冊文庫版（[講談社文庫](https://zh.wikipedia.org/wiki/講談社文庫 "wikilink")、2011年9月15日、上卷ISBN 978-4-06-276899-3 下卷ISBN 978-4-06-276910-5）
 
-          - 封面設計 -
-            [坂野公一](https://zh.wikipedia.org/wiki/坂野公一 "wikilink")＋吉田友美(welle
-            design)
+          - 封面設計 - [坂野公一](https://zh.wikipedia.org/wiki/坂野公一 "wikilink")＋吉田友美(welle design)
 
       - 電子書籍版（講談社、2010年9月6日）
   - **ルー=ガルー2 インクブス×スクブス 相容れぬ夢魔**\[1\]
-      - 單行本（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、2011年10月14日、ISBN
-        978-4-06-217294-3）
+      - 單行本（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、2011年10月14日、ISBN 978-4-06-217294-3）
       - 新書版（講談社NOVELS、2011年10月14日、ISBN 978-4-06-182755-4）
-          - 封面插圖 -
-            [redjuice](https://zh.wikipedia.org/wiki/redjuice "wikilink")
-      - 分冊文庫版（講談社文庫、2011年10月14日、上卷ISBN 978-4-06-277082-8 下卷ISBN
-        978-4-06-277083-5）
-          - 封面設計 -
-            [坂野公一](https://zh.wikipedia.org/wiki/坂野公一 "wikilink")＋吉田友美(welle
-            design)
+          - 封面插圖 - [redjuice](https://zh.wikipedia.org/wiki/redjuice "wikilink")
+      - 分冊文庫版（講談社文庫、2011年10月14日、上卷ISBN 978-4-06-277082-8 下卷ISBN 978-4-06-277083-5）
+          - 封面設計 - [坂野公一](https://zh.wikipedia.org/wiki/坂野公一 "wikilink")＋吉田友美(welle design)
       - 電子書籍版（講談社、2011年10月14日）
 
 ### 作品名稱由來
 
-  - [法語中的](https://zh.wikipedia.org/wiki/法語 "wikilink") *loup-garou*
-    意思為「人狼（じんろう）」。詳細請參照[Loups
-    Garous條目](https://zh.wikipedia.org/wiki/狼人#Loups_Garous "wikilink")。
-  - [英語中的](https://zh.wikipedia.org/wiki/英語 "wikilink") *incubus* 以及
-    *succubus* 請參照條目。
+  - [法語中的](https://zh.wikipedia.org/wiki/法語 "wikilink") *loup-garou* 意思為「人狼（じんろう）」。詳細請參照[Loups Garous條目](https://zh.wikipedia.org/wiki/狼人#Loups_Garous "wikilink")。
+  - [英語中的](https://zh.wikipedia.org/wiki/英語 "wikilink") *incubus* 以及 *succubus* 請參照條目。
 
 ### 公開募集的近未來設定
 
-[1998年から開始された](../Page/1998年.md "wikilink")「**F・F・N**」（フューチャー・フロム・ナウ）という企画の取組みで、[動畫雜誌](../Page/動畫雜誌.md "wikilink")「[Animage](../Page/Animage.md "wikilink")」跟[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")「[Chara](https://zh.wikipedia.org/wiki/Chara_\(雜誌\) "wikilink")」、於[網際網路上で募集した](https://zh.wikipedia.org/wiki/網際網路 "wikilink")、近未来における様々な着想が作中に登場している。
+[1998年](../Page/1998年.md "wikilink")から開始された「**F・F・N**」（フューチャー・フロム・ナウ）という企画の取組みで、[動畫雜誌](../Page/動畫雜誌.md "wikilink")「[Animage](../Page/Animage.md "wikilink")」跟[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")「[Chara](https://zh.wikipedia.org/wiki/Chara_\(雜誌\) "wikilink")」、於[網際網路上で募集した](https://zh.wikipedia.org/wiki/網際網路 "wikilink")、近未来における様々な着想が作中に登場している。
 
 ## 概要
 
-在不远的未来，人与人之间通过末端（monitor）相互联系。在管理型社会中被统治的住民们通常都被时刻监视着，物理接触（real
-communication）变得越来越少。
+在不远的未来，人与人之间通过末端（monitor）相互联系。在管理型社会中被统治的住民们通常都被时刻监视着，物理接触（real communication）变得越来越少。
 
-在这种社会里，学校对于少年少女们来说是仅有的沟通场所，由于出现针对少年少女们的连续杀人事件，和现实没有联系的主人公牧野葉月、天才少女都築美緒、及与避开和人接触的少女神埜歩未偶然接触到了被害者之一矢部祐子接触（动画版里是葉月・歩未・美緒3人去找同班的矢部祐子时、将被卷入人口贩卖事件的矢部救出），不过她们自己也被卷入了事件之中。在不断接近事件真相的过程中，牧野葉月开始注意到了比自己知道
-的Monitor里的世界更广阔的外面世界。
+在这种社会里，学校对于少年少女们来说是仅有的沟通场所，由于出现针对少年少女们的连续杀人事件，和现实没有联系的主人公牧野葉月、天才少女都築美緒、及与避开和人接触的少女神埜歩未偶然接触到了被害者之一矢部祐子接触（动画版里是葉月・歩未・美緒3人去找同班的矢部祐子时、将被卷入人口贩卖事件的矢部救出），不过她们自己也被卷入了事件之中。在不断接近事件真相的过程中，牧野葉月开始注意到了比自己知道 的Monitor里的世界更广阔的外面世界。
 
 ## 登場人物
 
@@ -155,10 +137,8 @@ communication）变得越来越少。
   - 3Dディレクター - 磯部兼士
   - 音響監督 - 小泉紀介
   - 音楽 - [SCANDAL](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")
-  - 制作 - [プロダクション
-    I.G](../Page/Production_I.G.md "wikilink")、[トランス・アーツ](https://zh.wikipedia.org/wiki/トランス・アーツ "wikilink")
-  - ルー=ガルー製作委員会 - [Kitty
-    film](../Page/Kitty_film.md "wikilink")、[萬代影視](../Page/萬代影視.md "wikilink")、[木下工務店](https://zh.wikipedia.org/wiki/木下工務店 "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[ミクシィ](https://zh.wikipedia.org/wiki/ミクシィ "wikilink")
+  - 制作 - [プロダクション I.G](../Page/Production_I.G.md "wikilink")、[トランス・アーツ](https://zh.wikipedia.org/wiki/トランス・アーツ "wikilink")
+  - ルー=ガルー製作委員会 - [Kitty film](../Page/Kitty_film.md "wikilink")、[萬代影視](../Page/萬代影視.md "wikilink")、[木下工務店](https://zh.wikipedia.org/wiki/木下工務店 "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[ミクシィ](https://zh.wikipedia.org/wiki/ミクシィ "wikilink")
 
 ### 歌曲
 
@@ -179,10 +159,6 @@ communication）变得越来越少。
   - [ルー=ガルー](http://lg-anime.com/)（2010年夏公開 劇場アニメ「ルー=ガルー」官方網站）
   - [ルー=ガルー×SCANDAL](http://lg-anime.com/scandal/)
 
-[Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:2010年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2010年日本劇場動畫 "wikilink")
-[Category:反烏托邦題材漫畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材漫畫 "wikilink")
-[Category:反烏托邦題材動畫電影](https://zh.wikipedia.org/wiki/Category:反烏托邦題材動畫電影 "wikilink")
+[Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:2010年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2010年日本劇場動畫 "wikilink") [Category:反烏托邦題材漫畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材漫畫 "wikilink") [Category:反烏托邦題材動畫電影](https://zh.wikipedia.org/wiki/Category:反烏托邦題材動畫電影 "wikilink")
 
 1.  單行本・小說・文庫・電子書等4種媒介同時發售為出版史上的第一次壯舉。

@@ -1,24 +1,18 @@
-[Habemus_Papam_1415.jpg](https://zh.wikipedia.org/wiki/File:Habemus_Papam_1415.jpg "fig:Habemus_Papam_1415.jpg")后宣告[馬丁五世当选的畫作](../Page/馬丁五世.md "wikilink")，這次大公會議结束了[三个教宗并立的](https://zh.wikipedia.org/wiki/对立教宗 "wikilink")[天主教会大分裂的局面](https://zh.wikipedia.org/wiki/天主教会大分裂 "wikilink")。\]\]
+[Habemus_Papam_1415.jpg](https://zh.wikipedia.org/wiki/File:Habemus_Papam_1415.jpg "fig:Habemus_Papam_1415.jpg")后宣告[馬丁五世](../Page/馬丁五世.md "wikilink")当选的畫作，這次大公會議结束了[三个教宗并立的](https://zh.wikipedia.org/wiki/对立教宗 "wikilink")[天主教会大分裂的局面](https://zh.wikipedia.org/wiki/天主教会大分裂 "wikilink")。\]\]
 
-****（“我们有了教宗！”）是[罗马天主教会向世人宣告](https://zh.wikipedia.org/wiki/罗马天主教会 "wikilink")[教宗选举结果时说的一段话](../Page/教宗选举.md "wikilink")，通常由担任[執事級枢机时间最长的一位在](../Page/樞機.md "wikilink")[圣伯多禄大教堂的中央阳台以](https://zh.wikipedia.org/wiki/圣伯多禄大教堂 "wikilink")[拉丁语说出](../Page/拉丁语.md "wikilink")。当他宣告完之后，新任教宗会出现在阳台，向守候在[圣伯多禄广场的人群及普世人类发表](https://zh.wikipedia.org/wiki/圣伯多禄广场 "wikilink")[全城及全球的首个宗座祝福](https://zh.wikipedia.org/wiki/全城及全球 "wikilink")；而人群会对他报以“”（教宗万岁！）的欢呼
-\[1\]\[2\]\[3\]。
+****（“我们有了教宗！”）是[罗马天主教会向世人宣告](https://zh.wikipedia.org/wiki/罗马天主教会 "wikilink")[教宗选举](../Page/教宗选举.md "wikilink")结果时说的一段话，通常由担任[執事級枢机时间最长的一位在](../Page/樞機.md "wikilink")[圣伯多禄大教堂的中央阳台以](https://zh.wikipedia.org/wiki/圣伯多禄大教堂 "wikilink")[拉丁语](../Page/拉丁语.md "wikilink")说出。当他宣告完之后，新任教宗会出现在阳台，向守候在[圣伯多禄广场的人群及普世人类发表](https://zh.wikipedia.org/wiki/圣伯多禄广场 "wikilink")[全城及全球的首个宗座祝福](https://zh.wikipedia.org/wiki/全城及全球 "wikilink")；而人群会对他报以“”（教宗万岁！）的欢呼 \[1\]\[2\]\[3\]。
 
 ## 格式
 
 如果当选的是一位[枢机](https://zh.wikipedia.org/wiki/枢机 "wikilink")，宣报者会说如下的拉丁语：
 
-> <poem> Annuntio vobis gaudium magnum: Habemus Papam\! Eminentissimum
-> ac reverendissimum Dominum, Dominum \[nomen\], Sanctæ Romanæ Ecclesiæ
-> Cardinalem \[cognomen\], Qui sibi nomen imposuit \[nomen
-> pontificale\]. </poem>
+> <poem> Annuntio vobis gaudium magnum: Habemus Papam\! Eminentissimum ac reverendissimum Dominum, Dominum \[nomen\], Sanctæ Romanæ Ecclesiæ Cardinalem \[cognomen\], Qui sibi nomen imposuit \[nomen pontificale\]. </poem>
 
 翻译为中文则是：
 
-> <poem> 我十分高興向你們宣布： 我們有了教宗！ 他是最傑出和最可敬的 神聖羅馬教會（姓名）樞機閣下 並以「（教宗尊號）」作為他的尊號
-> </poem>
+> <poem> 我十分高興向你們宣布： 我們有了教宗！ 他是最傑出和最可敬的 神聖羅馬教會（姓名）樞機閣下 並以「（教宗尊號）」作為他的尊號 </poem>
 
-前教宗[本笃十六世](https://zh.wikipedia.org/wiki/本笃十六世 "wikilink")（德国籍枢机若瑟·拉辛格）由[2005年教宗选举秘密会议选出後](../Page/2005年教宗选举秘密会议.md "wikilink")，該宣布由智利籍枢机Jorge
-Medina Estévez在2005年4月19日宣布。这也是有史以来第一次宣报者先以多种语言问候信众 \[4\]\[5\]：
+前教宗[本笃十六世](https://zh.wikipedia.org/wiki/本笃十六世 "wikilink")（德国籍枢机若瑟·拉辛格）由[2005年教宗选举秘密会议](../Page/2005年教宗选举秘密会议.md "wikilink")选出後，該宣布由智利籍枢机Jorge Medina Estévez在2005年4月19日宣布。这也是有史以来第一次宣报者先以多种语言问候信众 \[4\]\[5\]：
 
 >
 >
@@ -38,13 +32,7 @@ Medina Estévez在2005年4月19日宣布。这也是有史以来第一次宣报�
 
 ## 宣告的拉丁文法
 
-通常，以拉丁文的[宾格说出教宗的教名](../Page/宾格.md "wikilink")，例如从现任起最近七任教宗——[方濟各](../Page/方濟各_\(教宗\).md "wikilink")、[本笃十六世](https://zh.wikipedia.org/wiki/本笃十六世 "wikilink")\[6\]、[若望保禄二世](https://zh.wikipedia.org/wiki/若望保禄二世 "wikilink")\[7\]、[若望·保禄一世](../Page/若望·保禄一世.md "wikilink")\[8\]、[保禄六世](https://zh.wikipedia.org/wiki/保禄六世 "wikilink")\[9\]、[若望二十三世](../Page/若望二十三世.md "wikilink")\[10\]、[庇护十二世](https://zh.wikipedia.org/wiki/庇护十二世 "wikilink")\[11\]的教名Georgium
-Marium、Iosephum、Carolum、Albinum、Ioannem Baptistam、Angelum
-Iosephum、Eugenium；再以原语言说出教宗的[姓](https://zh.wikipedia.org/wiki/姓 "wikilink")，上述六任教宗的姓分别是西班牙文、德文、波兰文、意大利文（后四位），即Bergoglio、Ratzinger、Wojtyła、Luciani、Montini、Roncalli、Pacelli；教宗的则由[属格说出](../Page/属格.md "wikilink")，本笃十六世的Benedicti
-decimi sexti、若望·保禄一世的Ioannis Pauli primi、若望二十三世的Ioannis vigesimi
-tertii均符合惯例，但也有一些例外。1939年宣告庇护十二世、1963年宣告保禄六世及2013宣告方濟各分别使用了宾格"Pium"（无“第十二”）\[12\]、"Paulum
-sextum"\[13\]和"Franciscum"；1978年宣告若望·保禄二世时没有说出“第二”，仅"Ioannis
-Pauli"\[14\]。
+通常，以拉丁文的[宾格](../Page/宾格.md "wikilink")说出教宗的教名，例如从现任起最近七任教宗——[方濟各](../Page/方濟各_\(教宗\).md "wikilink")、[本笃十六世](https://zh.wikipedia.org/wiki/本笃十六世 "wikilink")\[6\]、[若望保禄二世](https://zh.wikipedia.org/wiki/若望保禄二世 "wikilink")\[7\]、[若望·保禄一世](../Page/若望·保禄一世.md "wikilink")\[8\]、[保禄六世](https://zh.wikipedia.org/wiki/保禄六世 "wikilink")\[9\]、[若望二十三世](../Page/若望二十三世.md "wikilink")\[10\]、[庇护十二世](https://zh.wikipedia.org/wiki/庇护十二世 "wikilink")\[11\]的教名Georgium Marium、Iosephum、Carolum、Albinum、Ioannem Baptistam、Angelum Iosephum、Eugenium；再以原语言说出教宗的[姓](https://zh.wikipedia.org/wiki/姓 "wikilink")，上述六任教宗的姓分别是西班牙文、德文、波兰文、意大利文（后四位），即Bergoglio、Ratzinger、Wojtyła、Luciani、Montini、Roncalli、Pacelli；教宗的则由[属格](../Page/属格.md "wikilink")说出，本笃十六世的Benedicti decimi sexti、若望·保禄一世的Ioannis Pauli primi、若望二十三世的Ioannis vigesimi tertii均符合惯例，但也有一些例外。1939年宣告庇护十二世、1963年宣告保禄六世及2013宣告方濟各分别使用了宾格"Pium"（无“第十二”）\[12\]、"Paulum sextum"\[13\]和"Franciscum"；1978年宣告若望·保禄二世时没有说出“第二”，仅"Ioannis Pauli"\[14\]。
 
 ## 历史上的宣告者
 
@@ -88,11 +76,11 @@ Pauli"\[14\]。
 
   - 在1939年宣告了[庇护十二世的当选](https://zh.wikipedia.org/wiki/庇护十二世 "wikilink")
 
-  - 在1958年宣告了[若望二十三世的当选](../Page/若望二十三世.md "wikilink")
+  - 在1958年宣告了[若望二十三世](../Page/若望二十三世.md "wikilink")的当选
 
   - 在1963年宣告了[保禄六世的当选](https://zh.wikipedia.org/wiki/保禄六世 "wikilink")
 
-  - 在1978年宣告了[若望·保禄一世及](../Page/若望·保禄一世.md "wikilink")[若望·保禄二世的当选](https://zh.wikipedia.org/wiki/若望·保禄二世 "wikilink")
+  - 在1978年宣告了[若望·保禄一世](../Page/若望·保禄一世.md "wikilink")及[若望·保禄二世的当选](https://zh.wikipedia.org/wiki/若望·保禄二世 "wikilink")
 
   - 在2005年宣告了[本笃十六世的当选](https://zh.wikipedia.org/wiki/本笃十六世 "wikilink")
 
@@ -107,21 +95,12 @@ Pauli"\[14\]。
 
 {{-}}
 
-[Category:拉丁文单字及词组](https://zh.wikipedia.org/wiki/Category:拉丁文单字及词组 "wikilink")
-[Category:教宗选举](https://zh.wikipedia.org/wiki/Category:教宗选举 "wikilink")
-[Category:天主教术语](https://zh.wikipedia.org/wiki/Category:天主教术语 "wikilink")
-[Category:口号](https://zh.wikipedia.org/wiki/Category:口号 "wikilink")
+[Category:拉丁文单字及词组](https://zh.wikipedia.org/wiki/Category:拉丁文单字及词组 "wikilink") [Category:教宗选举](https://zh.wikipedia.org/wiki/Category:教宗选举 "wikilink") [Category:天主教术语](https://zh.wikipedia.org/wiki/Category:天主教术语 "wikilink") [Category:口号](https://zh.wikipedia.org/wiki/Category:口号 "wikilink")
 
-1.  [从天主教的巴伐利亚的童年到当选伯多禄的继承人：本笃十六世为基督和教会谦逊服务的一生](http://www.radiovaticana.org/cinesegb/notiziari/notiz2005/notiz05-04/not04-21.htm)
-    ，[梵蒂冈广播电台](https://zh.wikipedia.org/wiki/梵蒂冈广播电台 "wikilink")，2005年4月19日
-2.  [本篤十六世拉青格教宗](http://www.opusdei.org.tw/art.php?p=9986)，[Opus
-    Dei](../Page/主业会.md "wikilink")，2005年4月19日
-3.  [Benedict
-    XVI](http://www.bbc.co.uk/religion/religions/christianity/pope/benedictxvi_1.shtml)，[BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")，Tara
-    Holmes, Last updated 2009年8月6日
-4.  [Benedict
-    XVI](http://www.bbc.co.uk/religion/religions/christianity/pope/benedictxvi_1.shtml)，[BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")，Tara
-    Holmes, Last updated 2009年8月6日
+1.  [从天主教的巴伐利亚的童年到当选伯多禄的继承人：本笃十六世为基督和教会谦逊服务的一生](http://www.radiovaticana.org/cinesegb/notiziari/notiz2005/notiz05-04/not04-21.htm) ，[梵蒂冈广播电台](https://zh.wikipedia.org/wiki/梵蒂冈广播电台 "wikilink")，2005年4月19日
+2.  [本篤十六世拉青格教宗](http://www.opusdei.org.tw/art.php?p=9986)，[Opus Dei](../Page/主业会.md "wikilink")，2005年4月19日
+3.  [Benedict XVI](http://www.bbc.co.uk/religion/religions/christianity/pope/benedictxvi_1.shtml)，[BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")，Tara Holmes, Last updated 2009年8月6日
+4.  [Benedict XVI](http://www.bbc.co.uk/religion/religions/christianity/pope/benedictxvi_1.shtml)，[BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")，Tara Holmes, Last updated 2009年8月6日
 5.  [宣告本笃十六世，美国NBC电视台转播（英语解说）](http://www.youtube.com/watch?v=-ws0AmufB8g)，[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
 6.  [宣告本笃十六世，美国NBC电视台转播（英语解说）](http://www.youtube.com/watch?v=-ws0AmufB8g)，[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
 7.  [宣告若望·保禄二世，美国ABC电视台转播（英语解说）](http://www.youtube.com/watch?v=cSmOp-ns6Yw)，[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")

@@ -1,8 +1,4 @@
-《**This Is Not The
-End**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周國賢的第六張個人專輯](../Page/周國賢.md "wikilink")（2張專輯同時發行），同時亦是第三張細碟專輯（2張專輯同時發行）。於2011年7月20日發行。於同年9月22日，[種子博美娛樂發行](https://zh.wikipedia.org/wiki/種子博美娛樂 "wikilink")《**This
-Is Not The End Is The Beginning**》CD+DVD版本，加入《登陸日》及《有時 White
-Version》兩曲。同時附送收錄《天馬行空》、《陽光燦爛的日子Sunshine
-Version》和《覺醒字幕組》[音樂錄影帶的](../Page/音樂錄影帶.md "wikilink")+DVD。
+《**This Is Not The End**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周國賢](../Page/周國賢.md "wikilink")的第六張個人專輯（2張專輯同時發行），同時亦是第三張細碟專輯（2張專輯同時發行）。於2011年7月20日發行。於同年9月22日，[種子博美娛樂發行](https://zh.wikipedia.org/wiki/種子博美娛樂 "wikilink")《**This Is Not The End Is The Beginning**》CD+DVD版本，加入《登陸日》及《有時 White Version》兩曲。同時附送收錄《天馬行空》、《陽光燦爛的日子Sunshine Version》和《覺醒字幕組》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")的+DVD。
 
 ## Black EP 曲目
 
@@ -64,9 +60,6 @@ Version》和《覺醒字幕組》[音樂錄影帶的](../Page/音樂錄影帶.m
 
 ## 外部連結
 
-[佛山日報：周国贤《This Is Not The
-End》：摇滚才是王道](http://epaper.citygf.com/szb/html/2011-08/06/content_449986016.htm)
+[佛山日報：周国贤《This Is Not The End》：摇滚才是王道](http://epaper.citygf.com/szb/html/2011-08/06/content_449986016.htm)
 
-[Category:周國賢音樂專輯](https://zh.wikipedia.org/wiki/Category:周國賢音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:周國賢音樂專輯](https://zh.wikipedia.org/wiki/Category:周國賢音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

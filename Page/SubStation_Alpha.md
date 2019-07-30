@@ -1,8 +1,6 @@
-**SubStation Alpha**（或 **Sub Station Alpha**），简称**SSA**，是由 CS Low（亦作
-Kotus）创建、比传统字幕（如[SRT](https://zh.wikipedia.org/wiki/字幕格式#SRT.E6.A0.BC.E5.BC.8F "wikilink")）更加强大先进的字幕文件格式。该格式在[Windows平台上可以经播放器由VSFilter渲染进行播放](https://zh.wikipedia.org/wiki/Windows "wikilink")。这是一款广受欢迎且已停止开发的字幕编辑制作工具。
+**SubStation Alpha**（或 **Sub Station Alpha**），简称**SSA**，是由 CS Low（亦作 Kotus）创建、比传统字幕（如[SRT](https://zh.wikipedia.org/wiki/字幕格式#SRT.E6.A0.BC.E5.BC.8F "wikilink")）更加强大先进的字幕文件格式。该格式在[Windows平台上可以经播放器由VSFilter渲染进行播放](https://zh.wikipedia.org/wiki/Windows "wikilink")。这是一款广受欢迎且已停止开发的字幕编辑制作工具。
 
-而**Advanced SubStation Alpha**（**ASS**）是一種比SSA更先進的字幕腳本格式。基於SSA
-4.00+編碼構建。ASS的主要變化就是在SSA編寫風格的基礎上增添更多的效果和指令。
+而**Advanced SubStation Alpha**（**ASS**）是一種比SSA更先進的字幕腳本格式。基於SSA 4.00+編碼構建。ASS的主要變化就是在SSA編寫風格的基礎上增添更多的效果和指令。
 
 该字幕格式常被[字幕组所应用](https://zh.wikipedia.org/wiki/字幕组 "wikilink")，分为内挂字幕、外挂字幕和内嵌字幕三种形式。内挂字幕一般指字幕文件与视频一同封装在[MKV文件中](https://zh.wikipedia.org/wiki/MKV "wikilink")，播放时需经过[VSFilter渲染](https://zh.wikipedia.org/wiki/VSFilter "wikilink")。外挂字幕指字幕文件以单独形式存在，播放时经VSFilter渲染到视频上。内、外挂字幕又称软字幕，是可以提取、取出和查看源代码的。而内嵌字幕则是指字幕被以图形方式硬编码到视频中，所以播放时不需VSFilter等渲染，一般来说，该过程不可逆。
 
@@ -54,17 +52,14 @@ SSA当前版本为V4.00。ASS则使用更高级的V4.00+编码。
       - TertiaryColour（ASS中称为OutlineColour）边框色，文字边框的颜色。
       - BackColour. 阴影颜色，文字阴影的颜色。
       - MarginL, MarginR. 左右缩进。文字距离视频最左最右的最小距离。
-      - MarginV.
-        上下缩进。文字热点（对齐点）距离视频上下的最小间距离。这取决于文字对齐方式，如果该文字使用中对齐，则上下缩进值无效。需要时文字可用\\n或\\N命令换行。ASS文件中，Script
-        Info部分的一个参数“WrapStyle”也可以改变此值。
+      - MarginV. 上下缩进。文字热点（对齐点）距离视频上下的最小间距离。这取决于文字对齐方式，如果该文字使用中对齐，则上下缩进值无效。需要时文字可用\\n或\\N命令换行。ASS文件中，Script Info部分的一个参数“WrapStyle”也可以改变此值。
       - Outline. 边框样式，文字可以设定为有边框，无边框，或拥有不透明边框（矩形背景）。
       - Shadow. 阴影距离。文字的阴影到文字的距离大小。
       - AlphaLevel. 透明度（0至255有效）
       - Encoding. ASCII码中的文字编码方式。
   - **Events**: 字幕的主体部分。
 
-字幕的出现时间和样式、对样式的修改和特效均在这里编写。 其一般语法格式为：`{\命令(参数，多个参数用逗号隔开)}`, 例如
-`{\move(80,80,200,200,150,300)}`.只有一个参数的命令不需要括号 (如. `{\kf89}`).
+字幕的出现时间和样式、对样式的修改和特效均在这里编写。 其一般语法格式为：`{\命令(参数，多个参数用逗号隔开)}`, 例如 `{\move(80,80,200,200,150,300)}`.只有一个参数的命令不需要括号 (如. `{\kf89}`).
 
 有两处注意:
 
@@ -73,9 +68,7 @@ SSA当前版本为V4.00。ASS则使用更高级的V4.00+编码。
 
 ## Advanced SubStation Alpha（ASS字幕）
 
-**Advanced SubStation Alpha**（**ASS**）是一种比SSA更先进的字幕脚本格式。他基于SSA
-4.00+编码构建。他可以将普通的句子转变为华丽动感的卡拉OK特效。 有一部分程序专门为编写此类脚本而设计。
-ASS的主要变化就是在SSA编写风格的基础上增添更多的效果和指令。 例：将上面的SSA脚本转化为ASS脚本：
+**Advanced SubStation Alpha**（**ASS**）是一种比SSA更先进的字幕脚本格式。他基于SSA 4.00+编码构建。他可以将普通的句子转变为华丽动感的卡拉OK特效。 有一部分程序专门为编写此类脚本而设计。 ASS的主要变化就是在SSA编写风格的基础上增添更多的效果和指令。 例：将上面的SSA脚本转化为ASS脚本：
 
 ```
  [Script Info]
@@ -124,8 +117,7 @@ ASS的主要变化就是在SSA编写风格的基础上增添更多的效果和�
 ## 延伸阅读
 
   -
-  -   - [moodub.free.fr
-        Mirror](http://moodub.free.fr/video/ass-specs.doc)
+  -   - [moodub.free.fr Mirror](http://moodub.free.fr/video/ass-specs.doc)
 
   -
 ## 参考
@@ -134,15 +126,11 @@ ASS的主要变化就是在SSA编写风格的基础上增添更多的效果和�
 
   - [VisualSubSync](http://www.visualsubsync.org/)
   - [Subtitle Editor](http://kitone.free.fr/subtitleeditor/)
-  - [Sub Station Alpha - Video software and
-    downloads](http://www.videohelp.com/tools?tool=Sub_Station_Alpha)
-  - [URUWorks - Subtitle
-    Workshop](http://www.urusoft.net/products.php?cat=sw)
-  - [Subtitle Processor | Download Subtitle Processor software for free
-    at](http://sourceforge.net/projects/subtitleproc/)
+  - [Sub Station Alpha - Video software and downloads](http://www.videohelp.com/tools?tool=Sub_Station_Alpha)
+  - [URUWorks - Subtitle Workshop](http://www.urusoft.net/products.php?cat=sw)
+  - [Subtitle Processor | Download Subtitle Processor software for free at](http://sourceforge.net/projects/subtitleproc/)
   - [Miyu](https://web.archive.org/web/20100810210408/http://www.fluffalopefactory.com/miyu/)
-  - [Gaupol Subtitle
-    Editor](http://webarchive.loc.gov/all/20090304133231/http%3A//home.gna.org//gaupol//)
+  - [Gaupol Subtitle Editor](http://webarchive.loc.gov/all/20090304133231/http%3A//home.gna.org//gaupol//)
 
 [Category:字幕格式](https://zh.wikipedia.org/wiki/Category:字幕格式 "wikilink")
 

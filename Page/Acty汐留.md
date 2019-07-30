@@ -2,10 +2,7 @@
 
 ## 概要
 
-于2004年11月竣工，是一栋56层，户数为682户，东京都最高的住宅楼。45楼～56楼为面向[富裕阶层的高级租赁住宅](https://zh.wikipedia.org/wiki/富裕阶层 "wikilink")“La
-Tour
-汐留”。1楼设有24小时营业的[超市](https://zh.wikipedia.org/wiki/超市 "wikilink")“[Maruetsu](https://zh.wikipedia.org/wiki/Maruetsu "wikilink")
-Petit”，2楼设有医疗设施与托儿设施，有较高的便利性。
+于2004年11月竣工，是一栋56层，户数为682户，东京都最高的住宅楼。45楼～56楼为面向[富裕阶层的高级租赁住宅](https://zh.wikipedia.org/wiki/富裕阶层 "wikilink")“La Tour 汐留”。1楼设有24小时营业的[超市](https://zh.wikipedia.org/wiki/超市 "wikilink")“[Maruetsu](https://zh.wikipedia.org/wiki/Maruetsu "wikilink") Petit”，2楼设有医疗设施与托儿设施，有较高的便利性。
 
 ## 交通
 
@@ -17,9 +14,7 @@ Petit”，2楼设有医疗设施与托儿设施，有较高的便利性。
 
 [Category:东京都摩天大楼](https://zh.wikipedia.org/wiki/Category:东京都摩天大楼 "wikilink")
 
-[Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink")
-[Category:2004年完工建築物](https://zh.wikipedia.org/wiki/Category:2004年完工建築物 "wikilink")
-[Category:汐留](https://zh.wikipedia.org/wiki/Category:汐留 "wikilink")
+[Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink") [Category:2004年完工建築物](https://zh.wikipedia.org/wiki/Category:2004年完工建築物 "wikilink") [Category:汐留](https://zh.wikipedia.org/wiki/Category:汐留 "wikilink")
 
 1.
 2.

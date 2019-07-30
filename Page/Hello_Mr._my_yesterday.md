@@ -1,5 +1,4 @@
-《**Hello Mr. my yesterday**》为[Hundred Percent
-Free的第一张单曲](https://zh.wikipedia.org/wiki/Hundred_Percent_Free "wikilink")。
+《**Hello Mr. my yesterday**》为[Hundred Percent Free的第一张单曲](https://zh.wikipedia.org/wiki/Hundred_Percent_Free "wikilink")。
 
 ## 概要
 
@@ -7,12 +6,9 @@ Free的第一张单曲](https://zh.wikipedia.org/wiki/Hundred_Percent_Free "wiki
 
   - [读卖电视台制作](https://zh.wikipedia.org/wiki/读卖电视台 "wikilink")・[日本电视台动画](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南_\(动画\) "wikilink")》　
       - 第一次为该动画演唱歌曲。
-  - [名古屋电视台](https://zh.wikipedia.org/wiki/名古屋电视台 "wikilink")《King
-    Kong的琐事》
+  - [名古屋电视台](https://zh.wikipedia.org/wiki/名古屋电视台 "wikilink")《King Kong的琐事》
   - [長野朝日放送](https://zh.wikipedia.org/wiki/長野朝日放送 "wikilink")《情報Paradise》
-  - [Sky
-    PerfecTV\!](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")《MUSIC
-    FOCUS》
+  - [Sky PerfecTV\!](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")《MUSIC FOCUS》
   - [金泽电视台](https://zh.wikipedia.org/wiki/金泽电视台 "wikilink")《となりのテレ金ちゃん》
 
 首次非自主作曲。初回盘附加DVD。
@@ -39,7 +35,4 @@ Free的第一张单曲](https://zh.wikipedia.org/wiki/Hundred_Percent_Free "wiki
 </tbody>
 </table>
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
-[Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink") [Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")

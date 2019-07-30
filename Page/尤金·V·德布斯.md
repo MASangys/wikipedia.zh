@@ -4,13 +4,6 @@
 
 ## 参考
 
-[Category:美國反戰人士](https://zh.wikipedia.org/wiki/Category:美國反戰人士 "wikilink")
-[Category:美國社會主義者](https://zh.wikipedia.org/wiki/Category:美國社會主義者 "wikilink")
-[Category:反饥饿倡导者](https://zh.wikipedia.org/wiki/Category:反饥饿倡导者 "wikilink")
-[Category:美國歷史_(1865年-1918年)](https://zh.wikipedia.org/wiki/Category:美國歷史_\(1865年-1918年\) "wikilink")
-[Category:無國籍人士](https://zh.wikipedia.org/wiki/Category:無國籍人士 "wikilink")
-[Category:印第安纳州民主党人](https://zh.wikipedia.org/wiki/Category:印第安纳州民主党人 "wikilink")
-[Category:1912年美国总统选举候选人](https://zh.wikipedia.org/wiki/Category:1912年美国总统选举候选人 "wikilink")
-[Category:美国进步时代](https://zh.wikipedia.org/wiki/Category:美国进步时代 "wikilink")
+[Category:美國反戰人士](https://zh.wikipedia.org/wiki/Category:美國反戰人士 "wikilink") [Category:美國社會主義者](https://zh.wikipedia.org/wiki/Category:美國社會主義者 "wikilink") [Category:反饥饿倡导者](https://zh.wikipedia.org/wiki/Category:反饥饿倡导者 "wikilink") [Category:美國歷史_(1865年-1918年)](https://zh.wikipedia.org/wiki/Category:美國歷史_\(1865年-1918年\) "wikilink") [Category:無國籍人士](https://zh.wikipedia.org/wiki/Category:無國籍人士 "wikilink") [Category:印第安纳州民主党人](https://zh.wikipedia.org/wiki/Category:印第安纳州民主党人 "wikilink") [Category:1912年美国总统选举候选人](https://zh.wikipedia.org/wiki/Category:1912年美国总统选举候选人 "wikilink") [Category:美国进步时代](https://zh.wikipedia.org/wiki/Category:美国进步时代 "wikilink")
 
 1.

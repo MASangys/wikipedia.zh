@@ -1,4 +1,4 @@
-**Juby**（），本名**郭以樂**，為歌手[馬兆駿遺孀](../Page/馬兆駿.md "wikilink")，[東海大學外文系畢業](../Page/東海大學_\(台灣\).md "wikilink")。
+**Juby**（），本名**郭以樂**，為歌手[馬兆駿](../Page/馬兆駿.md "wikilink")遺孀，[東海大學外文系畢業](../Page/東海大學_\(台灣\).md "wikilink")。
 
 郭自幼成長於[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")，家人從事鞋類製作與買賣，家境優渥一時。爾後，因財務問題致家道中落。婚前，曾任導遊、Pub歌手，努力賺錢，為家人分憂解勞；婚後，隨夫居[臺北市](../Page/臺北市.md "wikilink")，為全職家庭主婦，育有2女1子。
 
@@ -65,21 +65,16 @@
 ### 活動
 
   - [台灣世界展望會](../Page/台灣世界展望會.md "wikilink")[飢餓三十主持](https://zh.wikipedia.org/wiki/飢餓三十 "wikilink")
-  - [立法院聖誕晚會主持](../Page/立法院.md "wikilink")
+  - [立法院](../Page/立法院.md "wikilink")聖誕晚會主持
 
 ## 参考文献
 
 ## 外部連結
 
-  - [郭以樂
-    JUBY](https://zh.wikipedia.org/wiki/郭以樂_JUBY "wikilink")[Facebook](../Page/Facebook.md "wikilink")
+  - [郭以樂 JUBY](https://zh.wikipedia.org/wiki/郭以樂_JUBY "wikilink")[Facebook](../Page/Facebook.md "wikilink")
 
-[Category:台灣電影女演員](https://zh.wikipedia.org/wiki/Category:台灣電影女演員 "wikilink")
-[Category:台灣電視女演員](https://zh.wikipedia.org/wiki/Category:台灣電視女演員 "wikilink")
-[Category:東海大學校友](https://zh.wikipedia.org/wiki/Category:東海大學校友 "wikilink")
+[Category:台灣電影女演員](https://zh.wikipedia.org/wiki/Category:台灣電影女演員 "wikilink") [Category:台灣電視女演員](https://zh.wikipedia.org/wiki/Category:台灣電視女演員 "wikilink") [Category:東海大學校友](https://zh.wikipedia.org/wiki/Category:東海大學校友 "wikilink")
 
-1.  [郭美珒走出喪夫之痛
-    陽光形象主持節目](http://www.epochtimes.com/b5/9/3/31/n2480725.htm)
+1.  [郭美珒走出喪夫之痛 陽光形象主持節目](http://www.epochtimes.com/b5/9/3/31/n2480725.htm)
 2.  [靠信仰走出傷痛　郭美珒：我和孩子每天都會想馬爺](http://www.nownews.com/2009/04/01/11490-2430549.htm)
-3.  [湯志偉公開愛
-    不排除娶Juby－攜手創業相互包容](http://www.libertytimes.com.tw/2012/new/jun/19/today-show14.htm)
+3.  [湯志偉公開愛 不排除娶Juby－攜手創業相互包容](http://www.libertytimes.com.tw/2012/new/jun/19/today-show14.htm)

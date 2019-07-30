@@ -1,4 +1,4 @@
-《**SKE48的世界征服女子**》（）是[日本](../Page/日本.md "wikilink")[中京電視台自](../Page/中京電視台.md "wikilink")2011年10月3日開始播放的一個午夜[綜藝節目](../Page/綜藝節目.md "wikilink")，是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[SKE48的冠名節目之一](../Page/SKE48.md "wikilink")，簡稱為**S女**（）。節目是在[日本標準時間每週一的](../Page/日本標準時間.md "wikilink")24時29分（相當於週二凌晨的零時29分）開始播放30分鐘，並於翌週開始在[電子商務網站](https://zh.wikipedia.org/wiki/電子商務 "wikilink")[DMM上開放](../Page/DMM.com.md "wikilink")[付費下載](https://zh.wikipedia.org/wiki/付費下載 "wikilink")。
+《**SKE48的世界征服女子**》（）是[日本](../Page/日本.md "wikilink")[中京電視台](../Page/中京電視台.md "wikilink")自2011年10月3日開始播放的一個午夜[綜藝節目](../Page/綜藝節目.md "wikilink")，是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[SKE48](../Page/SKE48.md "wikilink")的冠名節目之一，簡稱為**S女**（）。節目是在[日本標準時間](../Page/日本標準時間.md "wikilink")每週一的24時29分（相當於週二凌晨的零時29分）開始播放30分鐘，並於翌週開始在[電子商務網站](https://zh.wikipedia.org/wiki/電子商務 "wikilink")[DMM上開放](../Page/DMM.com.md "wikilink")[付費下載](https://zh.wikipedia.org/wiki/付費下載 "wikilink")。
 
 ## 簡介
 
@@ -219,10 +219,7 @@
 
   - [SKE48の世界征服女子](http://www.ctv.co.jp/ssj/)
 
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink")
-[Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
+[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink") [Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
 
 1.  「史上最小アメリカ冗談ウルトラクイズ\!」を開催。アメリカ代表として[マイケル富岡が出演](https://zh.wikipedia.org/wiki/マイケル富岡 "wikilink")。
 

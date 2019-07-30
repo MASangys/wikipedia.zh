@@ -1,5 +1,4 @@
-**EXO-M**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM
-Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的12人大型男子偶像團體[EXO的六人分隊](../Page/EXO.md "wikilink")，在[EXO後添加代表普通话](../Page/EXO.md "wikilink")（Mandarin）的M在中國進行活動。EXO-M在華語圈開始活動，並逐步進軍全球华语音乐市场。\[1\]
+**EXO-M**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的12人大型男子偶像團體[EXO](../Page/EXO.md "wikilink")的六人分隊，在[EXO](../Page/EXO.md "wikilink")後添加代表普通话（Mandarin）的M在中國進行活動。EXO-M在華語圈開始活動，並逐步進軍全球华语音乐市场。\[1\]
 
 經過長達一百日的預告期後，EXO全體在2012年3月31日和4月1日分別於中韓兩地召開大型新聞發布會，EXO-M並於4月8日的第十二屆音樂風云榜頒獎典禮正式出道。2012年4月9日发行迷你一辑《MAMA》。\[2\]
 
@@ -30,11 +29,8 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
   - 2012年1月12日公開《Sehun & Luhan》預告，背景歌曲為新歌《너의 세상으로(你的世界)》的片段。
   - 2012年1月17日公開《Lay》預告，背景歌曲為《PHOENIX》的片段。
   - 2012年1月25日公開《Xiumin & Kai》預告，背景歌曲為新歌《LET OUT THE BEAST》的片段。
-  - 2012年1月27日公開《Lay & Kai》合作舞蹈預告，背景歌曲為新歌《TWO MOONS 雙月之夜 (ft.Key of
-    SHINee)》的片段。
-  - 2012年1月30日公開《[WHAT IS
-    LOVE](https://zh.wikipedia.org/wiki/WHAT_IS_LOVE "wikilink")》Music
-    Video 中韓文雙版本。
+  - 2012年1月27日公開《Lay & Kai》合作舞蹈預告，背景歌曲為新歌《TWO MOONS 雙月之夜 (ft.Key of SHINee)》的片段。
+  - 2012年1月30日公開《[WHAT IS LOVE](https://zh.wikipedia.org/wiki/WHAT_IS_LOVE "wikilink")》Music Video 中韓文雙版本。
   - 2012年2月14日公開《Tao》預告，背景歌曲為《METAL》的片段。
   - 2012年2月16日公開《Kris》預告，背景歌曲為新歌《너의 세상으로(你的世界)》的片段。
   - 2012年2月21日公開《Lay & Chen & Baekhyun》，背景歌曲為新歌《BEAUTIFUL》的片段。
@@ -294,13 +290,13 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
 | 播放日期            | 電視台                                                                                             | 節目名稱                                                               | 參與成員                                                                                                     | 備註                                                                                  |
 | 2013年6月7日       | [KBS 2](../Page/KBS第2频道.md "wikilink")                                                          | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")  | Xiumin                                                                                                   | 待機室Special MC                                                                       |
 | 2013年8月27日、9月3日 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")                               | Simply Kpop                                                        | Kris                                                                                                     | －                                                                                   |
-| 2013年9月28日      | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                                     | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | Xiumin                                                                                                   | Special MC，代[盧弘喆主持](../Page/盧弘喆.md "wikilink")                                      |
+| 2013年9月28日      | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                                     | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | Xiumin                                                                                                   | Special MC，代[盧弘喆](../Page/盧弘喆.md "wikilink")主持                                      |
 | 2013年10月9日      | [KBS 2](../Page/KBS第2频道.md "wikilink")                                                          | 2013 [亚洲音乐节](../Page/亚洲音乐节.md "wikilink")                          | Kris                                                                                                     | 與[銀赫](../Page/銀赫.md "wikilink")、[澤演主持](https://zh.wikipedia.org/wiki/澤演 "wikilink") |
 | 2013年11月3日      | －                                                                                               | [YouTube音乐奖](../Page/YouTube音乐奖.md "wikilink") Seoul               | 與[Min](https://zh.wikipedia.org/wiki/Min "wikilink")、[澤演主持](https://zh.wikipedia.org/wiki/澤演 "wikilink") |                                                                                     |
 | 2013年12月13日     | [KBS 2](../Page/KBS第2频道.md "wikilink")                                                          | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")  | Chen                                                                                                     | 待機室Special MC                                                                       |
 | 2013年12月18日     | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")                                               | [Show Champion](../Page/Show_Champion.md "wikilink")               | Xiumin                                                                                                   | Special MC                                                                          |
-| 2014年1月4日       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                                     | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | Special MC，代[珉豪主持](../Page/珉豪.md "wikilink")                                                             |                                                                                     |
-| 2014年3月8日       | Special MC，與[徐玄代替](https://zh.wikipedia.org/wiki/徐玄 "wikilink")[珉豪主持](../Page/珉豪.md "wikilink") |                                                                    |                                                                                                          |                                                                                     |
+| 2014年1月4日       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                                     | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | Special MC，代[珉豪](../Page/珉豪.md "wikilink")主持                                                             |                                                                                     |
+| 2014年3月8日       | Special MC，與[徐玄代替](https://zh.wikipedia.org/wiki/徐玄 "wikilink")[珉豪](../Page/珉豪.md "wikilink")主持 |                                                                    |                                                                                                          |                                                                                     |
 | 2014年6月21日      | [CCTV 15](https://zh.wikipedia.org/wiki/中國中央電視台音樂頻道 "wikilink")                                 | [全球中文音乐榜上榜](../Page/全球中文音乐榜上榜.md "wikilink")                       | Lay                                                                                                      | 嘉賓主持                                                                                |
 | 2014年6月30日－7月4日 | [北京電視台](https://zh.wikipedia.org/wiki/北京電視台 "wikilink")                                         | [音樂風雲榜](https://zh.wikipedia.org/wiki/音樂風雲榜 "wikilink")            | 一周代班主持                                                                                                   |                                                                                     |
 
@@ -364,8 +360,7 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
 | 2014年4月15日 | 首爾    | 首爾蠶室室內體育館    |
 | 2014年5月11日 | 上海    | 上海梅賽德斯賓士文化中心 |
 
-  - EXO首場亞洲巡迴演唱會《[EXO FROM. EXOPLANET ＃1 - THE LOST PLANET
-    -](../Page/EXO_FROM._EXOPLANET_＃1_-_THE_LOST_PLANET_-.md "wikilink")》
+  - EXO首場亞洲巡迴演唱會《[EXO FROM. EXOPLANET ＃1 - THE LOST PLANET -](../Page/EXO_FROM._EXOPLANET_＃1_-_THE_LOST_PLANET_-.md "wikilink")》
 
 |                |       |               |
 | -------------- | ----- | ------------- |
@@ -438,7 +433,7 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
 | 2013年5月26日            | 2013 Happy 4 K-POP Concert in Taiwan                                        | 台北[南港展覽館](https://zh.wikipedia.org/wiki/南港展覽館 "wikilink")           |       |
 | 2013年6月23日            | 樸智星基金會 "第三屆亞洲夢想盃" 慈善足球賽                                                     | 上海[虹口足球场](../Page/虹口足球场.md "wikilink")                              | EXO-M |
 | 2013年6月28日            | 2013 中韓友誼演唱會                                                                | 北京[國家奧林匹克體育中心](../Page/国家奥林匹克体育中心.md "wikilink")                    | EXO   |
-| 2013年7月1日             | 香港巨蛋音樂節                                                                     | 香港九龍城前[啟德機場跑道](../Page/啟德機場.md "wikilink")                          |       |
+| 2013年7月1日             | 香港巨蛋音樂節                                                                     | 香港九龍城前[啟德機場](../Page/啟德機場.md "wikilink")跑道                          |       |
 | 2013年7月17日            | [第27屆世界大學生運動會閉幕式](https://zh.wikipedia.org/wiki/2013年夏季世界大學生運動會 "wikilink") | 喀山市新喀山紅寶石體育場                                                        |       |
 | 2013年7月20日            | BlueOne K-POP Dream Festival                                                | 慶州BLUEONE水上樂園特設舞台                                                   |       |
 | 2013年8月4日             | 第9屆釜山玄仁歌謠節                                                                  | 釜山松島海水浴場特設舞台                                                        |       |
@@ -625,12 +620,7 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
   -
   -
   -
-[Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
+[Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
 
 1.
 2.

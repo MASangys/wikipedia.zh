@@ -1,9 +1,4 @@
-**Dream
-Girls**，為[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")，由[宏將多利安與](../Page/宏將多利安.md "wikilink")[金士頓科技聯手推出](../Page/金士頓科技.md "wikilink")，團員包括[宋米秦](../Page/宋米秦.md "wikilink")、[李毓芬和](../Page/李毓芬.md "wikilink")[郭雪芙](../Page/郭雪芙.md "wikilink")。Dream
-Girls於2010年簽約，經過訓練後在2011年3月23日發表[記者會正式出道](https://zh.wikipedia.org/wiki/記者會 "wikilink")，並於同年4月8日發行首張EP《美夢當前》。2012年12月7日，發行第二張EP《Girl's
-Talk》。2013年12月27日，發行首張專輯《[美麗頭條](../Page/美麗頭條.md "wikilink")》。2014年12月5日，發行新書《華麗奔跑－Dream
-Girls勇敢追夢之旅》。
-2016年，[宋米秦約滿單飛離開](../Page/宋米秦.md "wikilink")[宏將多利安](../Page/宏將多利安.md "wikilink")；[郭雪芙也於](../Page/郭雪芙.md "wikilink")2017年約滿不續約。
+**Dream Girls**，為[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")，由[宏將多利安](../Page/宏將多利安.md "wikilink")與[金士頓科技](../Page/金士頓科技.md "wikilink")聯手推出，團員包括[宋米秦](../Page/宋米秦.md "wikilink")、[李毓芬](../Page/李毓芬.md "wikilink")和[郭雪芙](../Page/郭雪芙.md "wikilink")。Dream Girls於2010年簽約，經過訓練後在2011年3月23日發表[記者會正式出道](https://zh.wikipedia.org/wiki/記者會 "wikilink")，並於同年4月8日發行首張EP《美夢當前》。2012年12月7日，發行第二張EP《Girl's Talk》。2013年12月27日，發行首張專輯《[美麗頭條](../Page/美麗頭條.md "wikilink")》。2014年12月5日，發行新書《華麗奔跑－Dream Girls勇敢追夢之旅》。 2016年，[宋米秦](../Page/宋米秦.md "wikilink")約滿單飛離開[宏將多利安](../Page/宏將多利安.md "wikilink")；[郭雪芙](../Page/郭雪芙.md "wikilink")也於2017年約滿不續約。
 
 ## 成員
 
@@ -19,11 +14,8 @@ Girls勇敢追夢之旅》。
 ### 微電影
 
   - 2012年 全家康健霓小姐的愛情 微電影：郭雪芙
-  - 2012年
-    [聯合報系Uch](https://zh.wikipedia.org/wiki/聯合報系 "wikilink")­allenger幹部訓練班
-    微電影《[森林小鼓手](https://zh.wikipedia.org/wiki/森林小鼓手 "wikilink")》：宋米秦
-  - 2012年 Dream
-    Girls首部微電影《[減嘆日記](https://zh.wikipedia.org/wiki/減嘆日記 "wikilink")》：郭雪芙、宋米秦、李毓芬
+  - 2012年 [聯合報系Uch](https://zh.wikipedia.org/wiki/聯合報系 "wikilink")­allenger幹部訓練班 微電影《[森林小鼓手](https://zh.wikipedia.org/wiki/森林小鼓手 "wikilink")》：宋米秦
+  - 2012年 Dream Girls首部微電影《[減嘆日記](https://zh.wikipedia.org/wiki/減嘆日記 "wikilink")》：郭雪芙、宋米秦、李毓芬
 
 <!-- end list -->
 
@@ -171,10 +163,9 @@ Girls勇敢追夢之旅》。
 <!-- end list -->
 
   - **2013年**
-      - 2月：[人因科技](https://zh.wikipedia.org/wiki/人因科技 "wikilink")[平板電腦系列](../Page/平板電腦.md "wikilink")
+      - 2月：[人因科技](https://zh.wikipedia.org/wiki/人因科技 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")系列
       - 5月：全家便利商店「搖搖茶吧」
-      - 6月：[紅心辣椒](../Page/紅心辣椒.md "wikilink")《[FREE STYLE 2
-        Online](https://archive.is/20130914073705/http://fs2.wasabii.com.tw/index.aspx)》
+      - 6月：[紅心辣椒](../Page/紅心辣椒.md "wikilink")《[FREE STYLE 2 Online](https://archive.is/20130914073705/http://fs2.wasabii.com.tw/index.aspx)》
       - 12月：全家便利商店 「海綿寶寶FUN文具」集點活動
 
 <!-- end list -->
@@ -217,18 +208,10 @@ Girls勇敢追夢之旅》。
 
 ## 爭議
 
-Dream
-Girls在出道初期曾引發爭議，遭網友指出內容抄襲[S.H.E專輯](../Page/S.H.E.md "wikilink")《[SHERO](https://zh.wikipedia.org/wiki/SHERO "wikilink")》封面。封面抄襲部分，經紀公司的解釋為：「拍照過程皆是依攝影師與企劃的安排，加上雙方都是三個女生，拍照的方式難免大同小異，造成誤會，希望網友能够體諒。」另外，Dream
-Girls屢傳團員不合。團員們無奈卻總只能出面否認，表示正努力用行動破除不和的謠言。\[1\]
+Dream Girls在出道初期曾引發爭議，遭網友指出內容抄襲[S.H.E](../Page/S.H.E.md "wikilink")專輯《[SHERO](https://zh.wikipedia.org/wiki/SHERO "wikilink")》封面。封面抄襲部分，經紀公司的解釋為：「拍照過程皆是依攝影師與企劃的安排，加上雙方都是三個女生，拍照的方式難免大同小異，造成誤會，希望網友能够體諒。」另外，Dream Girls屢傳團員不合。團員們無奈卻總只能出面否認，表示正努力用行動破除不和的謠言。\[1\]
 
 ## 參考資料
 
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:台灣女性模特兒](https://zh.wikipedia.org/wiki/Category:台灣女性模特兒 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
+[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:台灣女性模特兒](https://zh.wikipedia.org/wiki/Category:台灣女性模特兒 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
 
-1.  [Dream
-    Girls面臨解散？　李毓芬出面否認](http://tw.twent.chinayes.com/Content/20111020/kdztjgxc4fw3g.shtml)
+1.  [Dream Girls面臨解散？　李毓芬出面否認](http://tw.twent.chinayes.com/Content/20111020/kdztjgxc4fw3g.shtml)

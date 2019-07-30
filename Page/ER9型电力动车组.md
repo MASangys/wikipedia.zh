@@ -1,4 +1,4 @@
-**ER9型电力动车组**（）是[苏联铁路的](../Page/苏联铁路运输.md "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，适用于供电制式为25千伏工频[单相交流电的](https://zh.wikipedia.org/wiki/单相交流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由位于[拉脱维亚的](https://zh.wikipedia.org/wiki/拉脱维亚 "wikilink")[里加车辆制造厂设计制造](../Page/里加车辆制造厂.md "wikilink")，被广泛运用于苏联各地的交流[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")。
+**ER9型电力动车组**（）是[苏联铁路的](../Page/苏联铁路运输.md "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，适用于供电制式为25千伏工频[单相交流电的](https://zh.wikipedia.org/wiki/单相交流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由位于[拉脱维亚的](https://zh.wikipedia.org/wiki/拉脱维亚 "wikilink")[里加车辆制造厂](../Page/里加车辆制造厂.md "wikilink")设计制造，被广泛运用于苏联各地的交流[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")。
 
 ER9型电力动车组的车体结构和[转向架等机械部分与](https://zh.wikipedia.org/wiki/转向架 "wikilink")[ER2型直流电力动车组基本相同](../Page/ER2型电力动车组.md "wikilink")，标准编组为10辆编组，由2辆带司机室的头部拖车、3辆中间[拖车](https://zh.wikipedia.org/wiki/拖车 "wikilink")、5辆[动车组成](https://zh.wikipedia.org/wiki/动车 "wikilink")，但也可按情况灵活采用4、6、8、12辆编组；采用交—直流电传动、硅整流器、有级调压。
 
@@ -6,15 +6,13 @@ ER9型电力动车组的车体结构和[转向架等机械部分与](https://zh.
 
 ### 研制
 
-1950年代中期，苏联开始研制适用于[交流](../Page/交流電.md "wikilink")[电气化铁路的市郊通勤电力动车组](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")。1961年，[里加车辆制造厂在](../Page/里加车辆制造厂.md "wikilink")[ER1型电力动车组的基础上](../Page/ER1型电力动车组.md "wikilink")，开发研制了首列[ER7型电力动车组](../Page/ER7型电力动车组.md "wikilink")，适用于供电制式为25千伏工频[单相交流电的电气化铁路](https://zh.wikipedia.org/wiki/单相交流电 "wikilink")，采用变压器高压侧调压和[引燃管](https://zh.wikipedia.org/wiki/引燃管 "wikilink")[整流器](../Page/整流器.md "wikilink")。然而，在试验过程中发现引燃管整流器可靠性很差，因此苏联铁道部门决定以[硅整流器取代性能落后的引燃管整流器](../Page/硅.md "wikilink")。
+1950年代中期，苏联开始研制适用于[交流](../Page/交流電.md "wikilink")[电气化铁路的市郊通勤电力动车组](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")。1961年，[里加车辆制造厂](../Page/里加车辆制造厂.md "wikilink")在[ER1型电力动车组](../Page/ER1型电力动车组.md "wikilink")的基础上，开发研制了首列[ER7型电力动车组](../Page/ER7型电力动车组.md "wikilink")，适用于供电制式为25千伏工频[单相交流电的电气化铁路](https://zh.wikipedia.org/wiki/单相交流电 "wikilink")，采用变压器高压侧调压和[引燃管](https://zh.wikipedia.org/wiki/引燃管 "wikilink")[整流器](../Page/整流器.md "wikilink")。然而，在试验过程中发现引燃管整流器可靠性很差，因此苏联铁道部门决定以[硅](../Page/硅.md "wikilink")整流器取代性能落后的引燃管整流器。
 
 1961年底，里加车辆制造厂试制了两节采用硅整流器的控制单元车辆（一辆控制拖车和一辆中间动车），并定型为ER9型电力动车组。1962年初，ER9-01号列车在[全苏铁道运输科学研究院的环形铁道进行了性能试验](https://zh.wikipedia.org/wiki/全苏铁道运输科学研究院 "wikilink")，经过试验显示其性能状态良好。同年下旬，ER9型电力动车组开始投入批量生产，其中里加车辆制造厂负责制造动车和列车总组装，[加里宁车辆制造厂负责制造拖车](https://zh.wikipedia.org/wiki/加里宁车辆制造厂 "wikilink")，[牵引电动机和部分电气设备由](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")[里加电机制造厂提供](https://zh.wikipedia.org/wiki/里加电机制造厂 "wikilink")，牵引变压器和整流装置由[塔林电气工厂](https://zh.wikipedia.org/wiki/塔林电气工厂 "wikilink")、[乌拉尔电器工厂等单位提供](https://zh.wikipedia.org/wiki/乌拉尔电器工厂 "wikilink")\[1\]。1962年至1964年间，累计生产了45组（450辆）ER9型电力动车组。
 
 ### 改进型
 
-[缩略图](https://zh.wikipedia.org/wiki/File:ER9P-341-Fundukleevka.jpg "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:ER9M.JPG "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:ER9T-683.jpg "fig:缩略图")
+[缩略图](https://zh.wikipedia.org/wiki/File:ER9P-341-Fundukleevka.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:ER9M.JPG "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:ER9T-683.jpg "fig:缩略图")
 
 #### ER9P
 
@@ -30,7 +28,7 @@ ER9型电力动车组的车体结构和[转向架等机械部分与](https://zh.
 
 #### ER9T
 
-1987年，里加车辆制造厂在ER9E-666号列车上，进行了加装[电阻制动装置的试验](../Page/电阻制动.md "wikilink")，并改称为ER9ET-666号列车。1988年，里加车辆制造厂开始批量生产带有电阻制动的ER9T型电力动车组，动车车顶上装有制动电阻，当实施电阻制动时牵引电动机变为直流发电机，经过电阻将电能转换为热能并消散掉。列车并采用了新的动车转向架和牵引电动机，齿轮传动比由3.17改为3.41。1996年10月，里加车辆制造厂生产的最后一列ER9T型电力动车组出厂，由于该列车采用了与ED9T型电力动车组相同的电气设备，因此被称为ER9TM-801号列车，并于1997年3月在[白俄罗斯铁路明斯克](../Page/白俄罗斯铁路.md "wikilink")-北方机务段投入运用。2000年代初，位于[乌克兰](../Page/乌克兰.md "wikilink")[基辅的](https://zh.wikipedia.org/wiki/基辅 "wikilink")[达尔尼茨基车辆修理厂亦制造了两列ER](https://zh.wikipedia.org/wiki/达尔尼茨基车辆修理厂 "wikilink")9T型电力动车组，分别为ER9T-746（2001年制造）、ER9T-747号列车（2003年制造）。
+1987年，里加车辆制造厂在ER9E-666号列车上，进行了加装[电阻制动](../Page/电阻制动.md "wikilink")装置的试验，并改称为ER9ET-666号列车。1988年，里加车辆制造厂开始批量生产带有电阻制动的ER9T型电力动车组，动车车顶上装有制动电阻，当实施电阻制动时牵引电动机变为直流发电机，经过电阻将电能转换为热能并消散掉。列车并采用了新的动车转向架和牵引电动机，齿轮传动比由3.17改为3.41。1996年10月，里加车辆制造厂生产的最后一列ER9T型电力动车组出厂，由于该列车采用了与ED9T型电力动车组相同的电气设备，因此被称为ER9TM-801号列车，并于1997年3月在[白俄罗斯铁路](../Page/白俄罗斯铁路.md "wikilink")明斯克-北方机务段投入运用。2000年代初，位于[乌克兰](../Page/乌克兰.md "wikilink")[基辅的](https://zh.wikipedia.org/wiki/基辅 "wikilink")[达尔尼茨基车辆修理厂亦制造了两列ER](https://zh.wikipedia.org/wiki/达尔尼茨基车辆修理厂 "wikilink")9T型电力动车组，分别为ER9T-746（2001年制造）、ER9T-747号列车（2003年制造）。
 
 ### 现代化改造
 
@@ -44,8 +42,7 @@ ER9型电力动车组的车体结构和[转向架等机械部分与](https://zh.
 
 ## 技术特点
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Cab-ER9P-283-S-KAV.jpg "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:ER9P-377-06-subwag.jpg "fig:缩略图")
+[缩略图](https://zh.wikipedia.org/wiki/File:Cab-ER9P-283-S-KAV.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:ER9P-377-06-subwag.jpg "fig:缩略图")
 
 ### 总体结构
 
@@ -74,16 +71,10 @@ ER7型电力动车组是采用[动力分散方式的交流电力动车组](https
 
 ## 外部链接
 
-  - [История поездов: Электропоезд
-    ЭР9](http://trainshistory.ru/motorvagonnyi-podvizhnoi-sostav/prigorodnye-elektropoezda/elektropoezd-er9.html)
+  - [История поездов: Электропоезд ЭР9](http://trainshistory.ru/motorvagonnyi-podvizhnoi-sostav/prigorodnye-elektropoezda/elektropoezd-er9.html)
 
-  - [Электропоезд переменного тока
-    ЭР9](http://www.emupages.narod.ru/trains-er9.htm)
+  - [Электропоезд переменного тока ЭР9](http://www.emupages.narod.ru/trains-er9.htm)
 
-[Category:苏联电力动车组](https://zh.wikipedia.org/wiki/Category:苏联电力动车组 "wikilink")
-[Category:俄罗斯电力动车组](https://zh.wikipedia.org/wiki/Category:俄罗斯电力动车组 "wikilink")
-[Category:乌克兰电力动车组](https://zh.wikipedia.org/wiki/Category:乌克兰电力动车组 "wikilink")
-[Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink")
-[Category:里加製鐵路車輛](https://zh.wikipedia.org/wiki/Category:里加製鐵路車輛 "wikilink")
+[Category:苏联电力动车组](https://zh.wikipedia.org/wiki/Category:苏联电力动车组 "wikilink") [Category:俄罗斯电力动车组](https://zh.wikipedia.org/wiki/Category:俄罗斯电力动车组 "wikilink") [Category:乌克兰电力动车组](https://zh.wikipedia.org/wiki/Category:乌克兰电力动车组 "wikilink") [Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink") [Category:里加製鐵路車輛](https://zh.wikipedia.org/wiki/Category:里加製鐵路車輛 "wikilink")
 
 1.

@@ -1,13 +1,10 @@
-**OMX哥本哈根20** (), formerly **KFX**)
-是[OMX的一部分](../Page/OMX.md "wikilink")[哥本哈根证券交易所的顶级](../Page/哥本哈根证券交易所.md "wikilink")[股市指数](https://zh.wikipedia.org/wiki/股市指数 "wikilink")。它是一种市值加权指数，在哥本哈根证券交易所20个最热的加权股票组成。
+**OMX哥本哈根20** (), formerly **KFX**) 是[OMX](../Page/OMX.md "wikilink")的一部分[哥本哈根证券交易所](../Page/哥本哈根证券交易所.md "wikilink")的顶级[股市指数](https://zh.wikipedia.org/wiki/股市指数 "wikilink")。它是一种市值加权指数，在哥本哈根证券交易所20个最热的加权股票组成。
 
 ## 组成
 
 下列20支上市公司股票组成哥本哈根20指数\[1\]
 
-[Maersk_Sealand_containers_by_Thorfinn_Stainforth_20040801.jpg](https://zh.wikipedia.org/wiki/File:Maersk_Sealand_containers_by_Thorfinn_Stainforth_20040801.jpg "fig:Maersk_Sealand_containers_by_Thorfinn_Stainforth_20040801.jpg")\]\]
-[Danske_Bank.jpg](https://zh.wikipedia.org/wiki/File:Danske_Bank.jpg "fig:Danske_Bank.jpg")丹斯克银行大厦\]\]
-[Vestasturbine.jpg](https://zh.wikipedia.org/wiki/File:Vestasturbine.jpg "fig:Vestasturbine.jpg")\]\]
+[Maersk_Sealand_containers_by_Thorfinn_Stainforth_20040801.jpg](https://zh.wikipedia.org/wiki/File:Maersk_Sealand_containers_by_Thorfinn_Stainforth_20040801.jpg "fig:Maersk_Sealand_containers_by_Thorfinn_Stainforth_20040801.jpg")\]\] [Danske_Bank.jpg](https://zh.wikipedia.org/wiki/File:Danske_Bank.jpg "fig:Danske_Bank.jpg")丹斯克银行大厦\]\] [Vestasturbine.jpg](https://zh.wikipedia.org/wiki/File:Vestasturbine.jpg "fig:Vestasturbine.jpg")\]\]
 
 <table>
 <thead>
@@ -146,15 +143,9 @@
 
 ## 外部链接
 
-  - [Official OMX Copenhagen 20
-    composition](http://www.omxnordicexchange.com/priceinformation/indexes/Microsite_Index/?InstrumentId=CSEDX0000001376)
+  - [Official OMX Copenhagen 20 composition](http://www.omxnordicexchange.com/priceinformation/indexes/Microsite_Index/?InstrumentId=CSEDX0000001376)
 
-[Category:欧洲股市指数](https://zh.wikipedia.org/wiki/Category:欧洲股市指数 "wikilink")
-[Category:OMX](https://zh.wikipedia.org/wiki/Category:OMX "wikilink")
-[Category:丹麦经济](https://zh.wikipedia.org/wiki/Category:丹麦经济 "wikilink")
-[Category:上市公司列表](https://zh.wikipedia.org/wiki/Category:上市公司列表 "wikilink")
+[Category:欧洲股市指数](https://zh.wikipedia.org/wiki/Category:欧洲股市指数 "wikilink") [Category:OMX](https://zh.wikipedia.org/wiki/Category:OMX "wikilink") [Category:丹麦经济](https://zh.wikipedia.org/wiki/Category:丹麦经济 "wikilink") [Category:上市公司列表](https://zh.wikipedia.org/wiki/Category:上市公司列表 "wikilink")
 
 1.
-2.  At last index reclassification on 20 December 2010. Source: [Index
-    reviews](http://nordic.nasdaqomxtrader.com/trading/indexes/index_review_archive/),
-    [Nasdaq OMX](https://zh.wikipedia.org/wiki/Nasdaq_OMX "wikilink").
+2.  At last index reclassification on 20 December 2010. Source: [Index reviews](http://nordic.nasdaqomxtrader.com/trading/indexes/index_review_archive/), [Nasdaq OMX](https://zh.wikipedia.org/wiki/Nasdaq_OMX "wikilink").

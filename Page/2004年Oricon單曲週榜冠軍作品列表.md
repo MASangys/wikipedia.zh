@@ -1,6 +1,6 @@
-**2004年Oricon單曲週榜冠軍作品列表**列出2004年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2004年Oricon單曲週榜冠軍作品列表**列出2004年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
-全年度共有42首冠軍單曲誕生，其中[橘子新樂園的](https://zh.wikipedia.org/wiki/橘子新樂園 "wikilink")《[花](../Page/花_\(橘子新樂園單曲\).md "wikilink")》取得冠軍的週書最多（4週）；蟬聯時間最長的則是[SMAP上一年](../Page/SMAP.md "wikilink")（2003年）的單曲《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》（3週）。
+全年度共有42首冠軍單曲誕生，其中[橘子新樂園的](https://zh.wikipedia.org/wiki/橘子新樂園 "wikilink")《[花](../Page/花_\(橘子新樂園單曲\).md "wikilink")》取得冠軍的週書最多（4週）；蟬聯時間最長的則是[SMAP](../Page/SMAP.md "wikilink")上一年（2003年）的單曲《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》（3週）。
 
 ## 冠軍單曲列表
 
@@ -385,5 +385,4 @@
 
   - [2004年每週公信榜統計數據](https://web.archive.org/web/20170924142549/http://www.musictvprogram.com/oricon2004.html)
 
-[Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")

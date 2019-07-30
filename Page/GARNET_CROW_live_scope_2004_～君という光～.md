@@ -1,7 +1,4 @@
-『**GARNET CROW live scope 2004 〜君という光〜**』是[GARNET
-CROW的第二张LIVE](../Page/GARNET_CROW.md "wikilink")
-DVD。在2004年6月16日由[GIZA
-studio发售](../Page/GIZA_studio.md "wikilink")。
+『**GARNET CROW live scope 2004 〜君という光〜**』是[GARNET CROW的第二张LIVE](../Page/GARNET_CROW.md "wikilink") DVD。在2004年6月16日由[GIZA studio发售](../Page/GIZA_studio.md "wikilink")。
 
 ## 概要
 
@@ -39,5 +36,4 @@ DISC1
 
 ...and Interview & Making
 
-[Category:GARNET_CROW影像作品](https://zh.wikipedia.org/wiki/Category:GARNET_CROW影像作品 "wikilink")
-[Category:2004年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2004年音樂相關影像作品 "wikilink")
+[Category:GARNET_CROW影像作品](https://zh.wikipedia.org/wiki/Category:GARNET_CROW影像作品 "wikilink") [Category:2004年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2004年音樂相關影像作品 "wikilink")

@@ -1,10 +1,10 @@
-**Motoblur**是[摩托罗拉针对](../Page/摩托罗拉.md "wikilink")[Android平台开发的](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")[触控](https://zh.wikipedia.org/wiki/触控 "wikilink")[用户界面及服务](../Page/用户界面.md "wikilink")，第一部搭载Motoblur[用户界面的手机是摩托罗拉在](../Page/用户界面.md "wikilink")2009年9月10日发布的Android智能手机CLIQ（也称DEXT）。
+**Motoblur**是[摩托罗拉](../Page/摩托罗拉.md "wikilink")针对[Android](../Page/Android.md "wikilink")平台开发的[智能手机](../Page/智能手机.md "wikilink")[触控](https://zh.wikipedia.org/wiki/触控 "wikilink")[用户界面](../Page/用户界面.md "wikilink")及服务，第一部搭载Motoblur[用户界面](../Page/用户界面.md "wikilink")的手机是摩托罗拉在2009年9月10日发布的Android智能手机CLIQ（也称DEXT）。
 
 ## 主要特点
 
   - 聚合：Motoblur会把短消息、社交信息、电子邮件等整合到Motoblur服务器再将其推送到手机端。
   - 整合：Motoblur在聚合的同时会分拣每条信息的重要性及时效性，将重要的信息及时推送到手机，例如重要电子邮件。将好友的状态、评论等推送到“新鲜事”中，并及时删除。
-  - 推送：Motoblur可以进行快速回复、评论，及时推送[社交信息](https://zh.wikipedia.org/wiki/社交信息 "wikilink")、[电子邮件](../Page/电子邮件.md "wikilink")、[新闻](../Page/新闻.md "wikilink")、[天气等信息](../Page/天气.md "wikilink")。
+  - 推送：Motoblur可以进行快速回复、评论，及时推送[社交信息](https://zh.wikipedia.org/wiki/社交信息 "wikilink")、[电子邮件](../Page/电子邮件.md "wikilink")、[新闻](../Page/新闻.md "wikilink")、[天气](../Page/天气.md "wikilink")等信息。
 
 ## 支持的服务
 
@@ -92,7 +92,7 @@ MyMotoblur是一项云服务，可以通过MyMotoblur这个网站来控制用户
 
 ## 发展趋势
 
-自[Google收购](../Page/Google.md "wikilink")[摩托罗拉移动以来](../Page/摩托罗拉移动.md "wikilink")，摩托罗拉已经在开始淡化Motoblur服务，其已经开始向用户界面方向发展。在新推出的搭载Motoblur的三防手机DEFY+，在初次使用时已经没有了Motoblur账户设置，说明摩托罗拉正在淡化Motoblur这个概念，而将其发展成一个单纯的Google用户界面。
+自[Google](../Page/Google.md "wikilink")收购[摩托罗拉移动](../Page/摩托罗拉移动.md "wikilink")以来，摩托罗拉已经在开始淡化Motoblur服务，其已经开始向用户界面方向发展。在新推出的搭载Motoblur的三防手机DEFY+，在初次使用时已经没有了Motoblur账户设置，说明摩托罗拉正在淡化Motoblur这个概念，而将其发展成一个单纯的Google用户界面。
 
 ## 数据来源
 
@@ -102,7 +102,6 @@ MyMotoblur是一项云服务，可以通过MyMotoblur这个网站来控制用户
 ## 参见
 
   - [摩托罗拉移动 中国官方网站](http://www.motorola.com/Consumers/CN-ZH/Home)
-  - [Motorola Mobility
-    USA](http://www.motorola.com/Consumers/US-EN/Home)
+  - [Motorola Mobility USA](http://www.motorola.com/Consumers/US-EN/Home)
 
 [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")

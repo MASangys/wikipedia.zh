@@ -1,5 +1,4 @@
-**深海－電影原聲帶**（Blue
-Cha-cha）是[台灣電影](../Page/台灣電影.md "wikilink")《深海》的[原聲音樂專輯](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。該片是台灣導演[鄭文堂的作品](../Page/鄭文堂.md "wikilink")，由[蘇慧倫](../Page/蘇慧倫.md "wikilink")、陸奕靜、[戴立忍](../Page/戴立忍.md "wikilink")、[李威等人主演](../Page/李威.md "wikilink")，整全片在[高雄旗津](https://zh.wikipedia.org/wiki/高雄 "wikilink")、哨船頭、愛河等地拍攝。擔當原創音樂的[李欣芸](../Page/李欣芸.md "wikilink")，先從劇情大綱和劇本寫下音樂片段供片場播放，李欣芸甚自親到高雄片場旁觀拍片情況\[1\]，做出更貼近電影本義的音樂，並堅持以管絃樂彈奏所有曲目。
+**深海－電影原聲帶**（Blue Cha-cha）是[台灣電影](../Page/台灣電影.md "wikilink")《深海》的[原聲音樂專輯](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。該片是台灣導演[鄭文堂](../Page/鄭文堂.md "wikilink")的作品，由[蘇慧倫](../Page/蘇慧倫.md "wikilink")、陸奕靜、[戴立忍](../Page/戴立忍.md "wikilink")、[李威](../Page/李威.md "wikilink")等人主演，整全片在[高雄旗津](https://zh.wikipedia.org/wiki/高雄 "wikilink")、哨船頭、愛河等地拍攝。擔當原創音樂的[李欣芸](../Page/李欣芸.md "wikilink")，先從劇情大綱和劇本寫下音樂片段供片場播放，李欣芸甚自親到高雄片場旁觀拍片情況\[1\]，做出更貼近電影本義的音樂，並堅持以管絃樂彈奏所有曲目。
 
 該片獲得2005年[第42屆金馬獎最佳原創電影音樂獎](https://zh.wikipedia.org/wiki/第42屆金馬獎 "wikilink")\[2\]\[3\]，翌年由李欣芸以個人工作室的名義發行電影原聲帶，並於同年在日本發行。
 
@@ -162,17 +161,12 @@ Midi Programming：程馗</p></td>
 
   - [【世界電影雜誌】：李欣芸的深海世界－金馬獎最佳電影音樂專訪，2006年3月2日](http://epaper.pchome.com.tw/archive/last.htm?s_date=search&s_dir=20060302&s_code=0044&s_cat=娛樂嗜好#c493619)
   - [DreaMania樂評－「深海電影原聲帶」](http://dreamicandi.blogspot.com/2007/03/blog-post_3274.html)
-  - [李欣芸 / 深海(Blue Cha Cha)
-    \[SOUNDTRACK](http://blog.roodo.com/showba94718/archives/3073379.html)\]
-  - [【聯合晚報】李欣芸
-    邀侯孝賢共舞](http://www.ccuart.org/bluechacha/archives/2006/03/aeae_eaeee.html)
-  - [【中時電子報藝文新聞】恰恰貫穿深海
-    李欣芸獲金馬獎激勵](http://news.chinatimes.com/Chinatimes/Philology/Philology-artnews/0,3409,112005111700342+110513+20051117+news,00.html)
+  - [李欣芸 / 深海(Blue Cha Cha) \[SOUNDTRACK](http://blog.roodo.com/showba94718/archives/3073379.html)\]
+  - [【聯合晚報】李欣芸 邀侯孝賢共舞](http://www.ccuart.org/bluechacha/archives/2006/03/aeae_eaeee.html)
+  - [【中時電子報藝文新聞】恰恰貫穿深海 李欣芸獲金馬獎激勵](http://news.chinatimes.com/Chinatimes/Philology/Philology-artnews/0,3409,112005111700342+110513+20051117+news,00.html)
   - [誠品網路書店－深海](http://www.eslite.com/product.aspx?pgid=1004188681562482)
 
-[Category:電影原聲帶](https://zh.wikipedia.org/wiki/Category:電影原聲帶 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:2006年原聲帶](https://zh.wikipedia.org/wiki/Category:2006年原聲帶 "wikilink")
+[Category:電影原聲帶](https://zh.wikipedia.org/wiki/Category:電影原聲帶 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:2006年原聲帶](https://zh.wikipedia.org/wiki/Category:2006年原聲帶 "wikilink")
 
 1.  [李欣芸的深海世界－金馬獎最佳電影音樂專訪](http://epaper.pchome.com.tw/archive/last.htm?s_date=search&s_dir=20060302&s_code=0044&s_cat=娛樂嗜好#c493619)
 2.  [圖文：李欣芸《深海》獲得最佳原創電影音樂獎](http://ent.qq.com/a/20051113/000157.htm)

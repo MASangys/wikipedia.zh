@@ -1,7 +1,4 @@
-《**洛克先生演唱會Live紀實**》（英語：**Mr. Rock
-Concert**）是[蕭敬騰的首張演唱會現場實況影音專輯](../Page/蕭敬騰.md "wikilink")，2010年7月5日由[華納音樂發行](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")。內容收錄了其個人首場售票演唱會「蕭敬騰
-洛克先生Mr.
-Rock演唱會」2009年[台北小巨蛋場的三十四首曲目](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")，首波發行的「3D立體限量超級豪華版」並附上演唱會彩排過程DVD。專輯中的現場版[老鷹合唱團名曲](https://zh.wikipedia.org/wiki/老鷹合唱團 "wikilink")〈[Desperado](https://zh.wikipedia.org/wiki/Desperado "wikilink")〉是蕭敬騰首支收錄在個人專輯中的英文單曲，〈[上海灘](https://zh.wikipedia.org/wiki/上海灘 "wikilink")〉則是首支[粵語歌曲](https://zh.wikipedia.org/wiki/粵語 "wikilink")。
+《**洛克先生演唱會Live紀實**》（英語：**Mr. Rock Concert**）是[蕭敬騰](../Page/蕭敬騰.md "wikilink")的首張演唱會現場實況影音專輯，2010年7月5日由[華納音樂發行](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")。內容收錄了其個人首場售票演唱會「蕭敬騰 洛克先生Mr. Rock演唱會」2009年[台北小巨蛋場的三十四首曲目](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")，首波發行的「3D立體限量超級豪華版」並附上演唱會彩排過程DVD。專輯中的現場版[老鷹合唱團名曲](https://zh.wikipedia.org/wiki/老鷹合唱團 "wikilink")〈[Desperado](https://zh.wikipedia.org/wiki/Desperado "wikilink")〉是蕭敬騰首支收錄在個人專輯中的英文單曲，〈[上海灘](https://zh.wikipedia.org/wiki/上海灘 "wikilink")〉則是首支[粵語歌曲](https://zh.wikipedia.org/wiki/粵語 "wikilink")。
 
 ## 曲目
 
@@ -101,8 +98,7 @@ Rock演唱會」2009年[台北小巨蛋場的三十四首曲目](https://zh.wiki
 ### 簽唱會
 
   - 2010年7月10日 台中市[廣三崇光百貨](../Page/廣三崇光百貨.md "wikilink")
-  - 2010年7月11日
-    [台北市立聯合醫院](https://zh.wikipedia.org/wiki/台北市立聯合醫院 "wikilink")
+  - 2010年7月11日 [台北市立聯合醫院](https://zh.wikipedia.org/wiki/台北市立聯合醫院 "wikilink")
   - 2010年7月17日 台南市南方公園
 
 ## 銷售記錄
@@ -145,8 +141,7 @@ Rock演唱會」2009年[台北小巨蛋場的三十四首曲目](https://zh.wiki
 <!-- end list -->
 
   -
-    2010KKBOX數位音樂風雲榜年度百大專輯第二十名
-    [3](http://tw.kkbox.com/event/2010kdma/rank.php?&channel=chinese&offset=0)
+    2010KKBOX數位音樂風雲榜年度百大專輯第二十名 [3](http://tw.kkbox.com/event/2010kdma/rank.php?&channel=chinese&offset=0)
     2010KKBOX數位音樂風雲榜年度百大單曲（華語）：第三十名〈童話〉
     2010KKBOX數位音樂風雲榜年度百大單曲（西洋）：第二十名〈Desperado〉
     2010年7月華語單曲榜 月冠軍〈童話〉
@@ -159,6 +154,4 @@ Rock演唱會」2009年[台北小巨蛋場的三十四首曲目](https://zh.wiki
 
 ## 参考文献
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:蕭敬騰音樂專輯](https://zh.wikipedia.org/wiki/Category:蕭敬騰音樂專輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:蕭敬騰音樂專輯](https://zh.wikipedia.org/wiki/Category:蕭敬騰音樂專輯 "wikilink")

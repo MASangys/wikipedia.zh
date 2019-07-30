@@ -3,7 +3,7 @@
 ## 簡介
 
   - 第17張專輯[MAGIC發行前先行發售](https://zh.wikipedia.org/wiki/MAGIC "wikilink")
-  - PV在[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[端島拍攝](../Page/端島.md "wikilink")
+  - PV在[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[端島](../Page/端島.md "wikilink")拍攝
   - 最終銷量約23.1萬張。
 
 ## 製作人員
@@ -41,10 +41,4 @@
 
   - [B'z Official Website](http://bz-vermillion.com/)
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:2009年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2009年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2009年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2009年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")
-[Category:电视剧插曲](https://zh.wikipedia.org/wiki/Category:电视剧插曲 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:2009年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon單曲月榜冠軍作品 "wikilink") [Category:2009年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon單曲週榜冠軍作品 "wikilink") [Category:2009年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2009年Japan_Hot_100冠軍歌曲 "wikilink") [Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink") [Category:电视剧插曲](https://zh.wikipedia.org/wiki/Category:电视剧插曲 "wikilink")

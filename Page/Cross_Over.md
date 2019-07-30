@@ -1,11 +1,8 @@
-《**Cross
-Over**》是[9nine的第](../Page/9nine.md "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2010年12月1日由[SME
-Records發售](../Page/SME_Records.md "wikilink")。
+《**Cross Over**》是[9nine](../Page/9nine.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2010年12月1日由[SME Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要
 
-2010年第2張、重組後第1張單曲。《Cross
-Over》是自《》以来相隔2年再次有標題曲的音樂合作，是組合首個成為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[主題曲的單曲](../Page/主題曲.md "wikilink")。
+2010年第2張、重組後第1張單曲。《Cross Over》是自《》以来相隔2年再次有標題曲的音樂合作，是組合首個成為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[主題曲](../Page/主題曲.md "wikilink")的單曲。
 
 ## 收錄曲
 
@@ -34,10 +31,6 @@ Over》是自《》以来相隔2年再次有標題曲的音樂合作，是組合
   - SME Records介紹網站
       - [初回生產限定盤](http://www.sonymusic.co.jp/Music/Arch/SMER/9nine/SECL-929)
       - [通常盤](http://www.sonymusic.co.jp/Music/Arch/SMER/9nine/SECL-931)
-      - [STAR
-        DRIVER盤](http://www.sonymusic.co.jp/Music/Arch/SMER/9nine/SECL-932)
+      - [STAR DRIVER盤](http://www.sonymusic.co.jp/Music/Arch/SMER/9nine/SECL-932)
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:每日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:每日放送動畫主題曲 "wikilink")
-[Category:9nine歌曲](https://zh.wikipedia.org/wiki/Category:9nine歌曲 "wikilink")
-[Category:SME_Records歌曲](https://zh.wikipedia.org/wiki/Category:SME_Records歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:每日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:每日放送動畫主題曲 "wikilink") [Category:9nine歌曲](https://zh.wikipedia.org/wiki/Category:9nine歌曲 "wikilink") [Category:SME_Records歌曲](https://zh.wikipedia.org/wiki/Category:SME_Records歌曲 "wikilink")

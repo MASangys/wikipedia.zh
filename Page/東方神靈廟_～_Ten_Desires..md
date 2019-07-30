@@ -1,10 +1,10 @@
 [252px](https://zh.wikipedia.org/wiki/檔案:Ten_Desires_Title.JPG "wikilink")
 
-是由[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")[上海愛莉絲幻樂團發行的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，為[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")13作。
+是由[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")發行的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，為[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")13作。
 
 ## 概要
 
-2011年2月28日，[ZUN的部落格新增一篇](../Page/ZUN.md "wikilink")「」來介紹新遊戲。遊戲的體驗版原訂於原定於3月13日例大祭公開，但由於[2011年日本東北地方太平洋近海地震緣故而延期](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")、網路體驗版亦提前至4月15日公開。正式版已於8月13日C80發售。
+2011年2月28日，[ZUN](../Page/ZUN.md "wikilink")的部落格新增一篇「」來介紹新遊戲。遊戲的體驗版原訂於原定於3月13日例大祭公開，但由於[2011年日本東北地方太平洋近海地震](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")緣故而延期、網路體驗版亦提前至4月15日公開。正式版已於8月13日C80發售。
 
 自機角色主角博麗靈夢、霧雨魔理沙、東風谷早苗外，還追加了魂魄妖夢。
 
@@ -22,8 +22,7 @@
 
 ## 系統
 
-[Th13_gameplay.png](https://zh.wikipedia.org/wiki/File:Th13_gameplay.png "fig:Th13_gameplay.png")
-本作与基本系统的主要差异在于引入了灵界系统，包括灵界计、灵界模式及小神灵三种设定。
+[Th13_gameplay.png](https://zh.wikipedia.org/wiki/File:Th13_gameplay.png "fig:Th13_gameplay.png") 本作与基本系统的主要差异在于引入了灵界系统，包括灵界计、灵界模式及小神灵三种设定。
 
 ### 灵界计
 
@@ -96,9 +95,7 @@
 
 ### Overdrive（符卡暴走）
 
-是類似[永夜抄Last](../Page/東方永夜抄_～_Imperishable_Night..md "wikilink")
-Word的一種[符卡練習](../Page/符卡.md "wikilink")，比Lunatic還要更華麗、複雜、困難的一種符卡練習。
-一個頭目只有一張Overdrive符卡（包括蘇我屠自古），基本上全部都是特定一張符卡的強化版。要開啟Overdrive的符卡，首先必須破完特定清單上的全部難度的符卡，最後一張Overdrive符卡才會出現。不限自機不同，不同角色破完不同符卡也行，但自機角色本身並沒有Overdrive的符卡，小傘和鵺也沒有Overdrive的符卡。音樂用的是角色本身的BGM（屠自古用的是道中曲）。
+是類似[永夜抄Last](../Page/東方永夜抄_～_Imperishable_Night..md "wikilink") Word的一種[符卡](../Page/符卡.md "wikilink")練習，比Lunatic還要更華麗、複雜、困難的一種符卡練習。 一個頭目只有一張Overdrive符卡（包括蘇我屠自古），基本上全部都是特定一張符卡的強化版。要開啟Overdrive的符卡，首先必須破完特定清單上的全部難度的符卡，最後一張Overdrive符卡才會出現。不限自機不同，不同角色破完不同符卡也行，但自機角色本身並沒有Overdrive的符卡，小傘和鵺也沒有Overdrive的符卡。音樂用的是角色本身的BGM（屠自古用的是道中曲）。
 
   - EX：破完蘇我屠自古的符卡練習
 
@@ -273,7 +270,7 @@ Word的一種[符卡練習](../Page/符卡.md "wikilink")，比Lunatic還要更�
 
 崇拜的仙人是[何仙姑](../Page/何仙姑.md "wikilink")（此設定與《[聊齋誌異](https://zh.wikipedia.org/wiki/聊齋誌異 "wikilink")》一致）。
 
-教導生前的神子張明佛教以求眾生太平、暗自研究道教以求長生不死，但[煉丹術終究引領神子步入死亡](https://zh.wikipedia.org/wiki/煉丹術 "wikilink")，因此神子死前習得[屍解術](../Page/屍解.md "wikilink")，進入長眠。一直守護著大祀廟和神子的大體，殷盼祂復活的一天。
+教導生前的神子張明佛教以求眾生太平、暗自研究道教以求長生不死，但[煉丹術終究引領神子步入死亡](https://zh.wikipedia.org/wiki/煉丹術 "wikilink")，因此神子死前習得[屍解](../Page/屍解.md "wikilink")術，進入長眠。一直守護著大祀廟和神子的大體，殷盼祂復活的一天。
 
 能力雖然是穿牆術，但就是把牆上鑿出一個洞，而那個洞過幾秒鐘會自動復原。
 
@@ -298,12 +295,11 @@ Word的一種[符卡練習](../Page/符卡.md "wikilink")，比Lunatic還要更�
       - 《神靈廟》第五關中頭目
       - 《心綺樓》觀眾，及結局
 
-豪族亡靈，沒有腳，但有兩條尾巴。以歷史的角度來說，[蘇我氏和](../Page/蘇我氏.md "wikilink")[物部氏是勢不兩立的冤家](../Page/物部氏.md "wikilink")，但在這裡祂們的關係沒那麼糟，他們兩個還一起愉快地出現在神子的Spell
-Card中（召喚「豪族亂舞」）。生前的因為是蘇我氏的緣故，和布都屬敵對，但現在兩人（？）會互相扶持（或者說被布都任憑擺佈）。比起布都她認為做為一個亡靈沒什麼不好，因為祂更不喜歡會隨時間凋零的肉體（可能是佛教的涅槃論）。蘇我一族的她現在和布都一樣排斥佛教。
+豪族亡靈，沒有腳，但有兩條尾巴。以歷史的角度來說，[蘇我氏](../Page/蘇我氏.md "wikilink")和[物部氏](../Page/物部氏.md "wikilink")是勢不兩立的冤家，但在這裡祂們的關係沒那麼糟，他們兩個還一起愉快地出現在神子的Spell Card中（召喚「豪族亂舞」）。生前的因為是蘇我氏的緣故，和布都屬敵對，但現在兩人（？）會互相扶持（或者說被布都任憑擺佈）。比起布都她認為做為一個亡靈沒什麼不好，因為祂更不喜歡會隨時間凋零的肉體（可能是佛教的涅槃論）。蘇我一族的她現在和布都一樣排斥佛教。
 
 原本應該是和神子一樣成為屍解仙，但因為布都的詭計，原本應該讓靈魂依憑的「壺」被掉包成未燒製過的陶器，因此屠自古的靈魂一進壺裡壺馬上碎裂，她就這樣成為了亡靈。雖然她未成為仙人，但她並未因此憤恨。「操縱雷電」其實是怨靈的一種能力，代表她曾經可能為怨靈，但她現在怨氣消散了，現在的她只是一個普通不過的亡靈。
 
-原型為[聖德太子的妻子之一](../Page/聖德太子.md "wikilink")，****。
+原型為[聖德太子](../Page/聖德太子.md "wikilink")的妻子之一，****。
 
 ### 物部 布都
 
@@ -324,9 +320,9 @@ Card中（召喚「豪族亂舞」）。生前的因為是蘇我氏的緣故，�
       - 《深秘錄》可用角色
     **主題曲**： 　大神神話傳（《神靈廟》）
 
-種族不明，似乎是「人」，但已經死過一次了。大祀廟的道士，被神子作為[屍解術的實驗品](../Page/屍解.md "wikilink")，相信神子的屍解術會成功，自願為神子「死亡」一次，最後如期復活。以為人類的靈夢是來慶祝神子的復活將她帶入神靈廟，結果卻把麻煩引了進來。
+種族不明，似乎是「人」，但已經死過一次了。大祀廟的道士，被神子作為[屍解](../Page/屍解.md "wikilink")術的實驗品，相信神子的屍解術會成功，自願為神子「死亡」一次，最後如期復活。以為人類的靈夢是來慶祝神子的復活將她帶入神靈廟，結果卻把麻煩引了進來。
 
-做為[物部氏的她](../Page/物部氏.md "wikilink")，信仰的卻不是日本[神道教](https://zh.wikipedia.org/wiki/神道教 "wikilink")，而是求長生不死的[道教](../Page/道教.md "wikilink")。她將物部一族出賣，並暗地操縱[蘇我氏](../Page/蘇我氏.md "wikilink")，最後導致物部與蘇我的宗教戰爭。但這一切都是算計好的，因為道教人人都能修成長生不死，對於治國會產生不利。佛法嚴禁殺生、講究死後的涅槃，因此立佛派的蘇我氏便派上用場。
+做為[物部氏](../Page/物部氏.md "wikilink")的她，信仰的卻不是日本[神道教](https://zh.wikipedia.org/wiki/神道教 "wikilink")，而是求長生不死的[道教](../Page/道教.md "wikilink")。她將物部一族出賣，並暗地操縱[蘇我氏](../Page/蘇我氏.md "wikilink")，最後導致物部與蘇我的宗教戰爭。但這一切都是算計好的，因為道教人人都能修成長生不死，對於治國會產生不利。佛法嚴禁殺生、講究死後的涅槃，因此立佛派的蘇我氏便派上用場。
 
 神子便用使用佛教教化社會，暗地裡和青娥、布都研究仙術，但最後神子不堪負荷外丹術的侵蝕，而使用了屍解術（屍解仙算是最低等的仙人），而布都願意成為神子的實驗品。確認布都的「屍體」沒發生腐敗，並陷入沉睡後，神子隨後進入長眠。
 
@@ -664,22 +660,13 @@ Card中（召喚「豪族亂舞」）。生前的因為是蘇我氏的緣故，�
 ## 外部連結
 
   - [東方神靈廟 官方網站](http://www16.big.or.jp/~zun/html/th13top.html)
-  - [東方Project第13弾　東方神霊廟　～ Ten
-    Desires.](http://kourindou.exblog.jp/14332117/)
+  - [東方Project第13弾　東方神霊廟　～ Ten Desires.](http://kourindou.exblog.jp/14332117/)
   - [台北霞海城隍廟](http://www.tpecitygod.org/)
-  - [steam上的《東方神霊廟 〜 Ten
-    Desires.》](https://store.steampowered.com/app/1043230)
+  - [steam上的《東方神霊廟 〜 Ten Desires.》](https://store.steampowered.com/app/1043230)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:道教題材作品](https://zh.wikipedia.org/wiki/Category:道教題材作品 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:道教題材作品](https://zh.wikipedia.org/wiki/Category:道教題材作品 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.
-2.  [TH13\~Ten Desires 東方神靈廟 第四面 (Reimu) -
-    YouTube](http://www.youtube.com/watch?v=e9KO7OfGM1Q)
-3.  [大稻埕霞海城隍廟 - 數位典藏與數位學習國家型科技計畫
-    成果入口網](http://catalog.digitalarchives.tw/item/00/2f/ea/fd.html)。**大稻埕霞海城隍廟**即**台北霞海城隍廟**，對照真實廟景之對聯、門神、燈籠等，均與遊戲畫面第四關頭目之背景完全相同。
+2.  [TH13\~Ten Desires 東方神靈廟 第四面 (Reimu) - YouTube](http://www.youtube.com/watch?v=e9KO7OfGM1Q)
+3.  [大稻埕霞海城隍廟 - 數位典藏與數位學習國家型科技計畫 成果入口網](http://catalog.digitalarchives.tw/item/00/2f/ea/fd.html)。**大稻埕霞海城隍廟**即**台北霞海城隍廟**，對照真實廟景之對聯、門神、燈籠等，均與遊戲畫面第四關頭目之背景完全相同。
 4.  「ユアンシェン」的發音是「yaan shen」，有可能是「元神」或「妖仙」的音譯

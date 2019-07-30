@@ -1,5 +1,4 @@
-**CLANNAD ORIGINAL SOUNDTRACK**是由[Key Sounds
-Label發售的配樂](../Page/Key_Sounds_Label.md "wikilink")。
+**CLANNAD ORIGINAL SOUNDTRACK**是由[Key Sounds Label發售的配樂](../Page/Key_Sounds_Label.md "wikilink")。
 
 ## 解説
 
@@ -79,14 +78,10 @@ Label發售的配樂](../Page/Key_Sounds_Label.md "wikilink")。
 
 ## 外部連結
 
-  - [Key Sounds Label's
-    discography](https://web.archive.org/web/20070410020137/http://key.soundslabel.com/discography.htm)
+  - [Key Sounds Label's discography](https://web.archive.org/web/20070410020137/http://key.soundslabel.com/discography.htm)
 
 ## 参见
 
   - [CLANNAD](../Page/CLANNAD.md "wikilink")
 
-[Category:CLANNAD](https://zh.wikipedia.org/wiki/Category:CLANNAD "wikilink")
-[Category:電子遊戲原聲帶](https://zh.wikipedia.org/wiki/Category:電子遊戲原聲帶 "wikilink")
-[Category:2004年原聲帶](https://zh.wikipedia.org/wiki/Category:2004年原聲帶 "wikilink")
-[Category:Key_Sounds_Label音樂專輯](https://zh.wikipedia.org/wiki/Category:Key_Sounds_Label音樂專輯 "wikilink")
+[Category:CLANNAD](https://zh.wikipedia.org/wiki/Category:CLANNAD "wikilink") [Category:電子遊戲原聲帶](https://zh.wikipedia.org/wiki/Category:電子遊戲原聲帶 "wikilink") [Category:2004年原聲帶](https://zh.wikipedia.org/wiki/Category:2004年原聲帶 "wikilink") [Category:Key_Sounds_Label音樂專輯](https://zh.wikipedia.org/wiki/Category:Key_Sounds_Label音樂專輯 "wikilink")

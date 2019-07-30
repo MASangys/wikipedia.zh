@@ -1,5 +1,4 @@
-《**Comic
-Beam**》（）是[Enterbrain所發行的月刊漫畫雜誌](../Page/Enterbrain.md "wikilink")。1995年11月11日創刊，每月[12日發行](https://zh.wikipedia.org/wiki/12日 "wikilink")。
+《**Comic Beam**》（）是[Enterbrain](../Page/Enterbrain.md "wikilink")所發行的月刊漫畫雜誌。1995年11月11日創刊，每月[12日發行](https://zh.wikipedia.org/wiki/12日 "wikilink")。
 
 ## 概要
 
@@ -33,47 +32,30 @@ Beam**》（）是[Enterbrain所發行的月刊漫畫雜誌](../Page/Enterbrain.
   - bakuha.com（）
       - 「B.Q.」内的「」原作。在[BS-i放送後再出劇場版](https://zh.wikipedia.org/wiki/BS-i "wikilink")。
   - [SOIL](https://zh.wikipedia.org/wiki/SOIL "wikilink")（）
-      - [WOWOW上](../Page/WOWOW.md "wikilink")2010年3月6日開始放送。
+      - [WOWOW](../Page/WOWOW.md "wikilink")上2010年3月6日開始放送。
 
 ## 得獎作品
 
-  - （） -
-    第5回（2001年）[手塚治虫文化賞漫畫優秀賞](https://zh.wikipedia.org/wiki/手塚治虫文化賞 "wikilink")
+  - （） - 第5回（2001年）[手塚治虫文化賞漫畫優秀賞](https://zh.wikipedia.org/wiki/手塚治虫文化賞 "wikilink")
 
-  - [戀之門](https://zh.wikipedia.org/wiki/戀之門 "wikilink")（[羽生生純](https://zh.wikipedia.org/wiki/羽生生純 "wikilink")）
-    -
-    平成13年度（第5回）[文化廳媒體藝術祭マンガ部門審査委員会推薦作品](../Page/文化廳媒體藝術祭.md "wikilink")
+  - [戀之門](https://zh.wikipedia.org/wiki/戀之門 "wikilink")（[羽生生純](https://zh.wikipedia.org/wiki/羽生生純 "wikilink")） - 平成13年度（第5回）[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")マンガ部門審査委員会推薦作品
 
-  - （[水野純子](https://zh.wikipedia.org/wiki/水野純子 "wikilink")） -
-    平成16年度（第8回）[文化廳媒體藝術祭漫畫部門審査委員会推薦作品](../Page/文化廳媒體藝術祭.md "wikilink")
+  - （[水野純子](https://zh.wikipedia.org/wiki/水野純子 "wikilink")） - 平成16年度（第8回）[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")漫畫部門審査委員会推薦作品
 
-  - [艾瑪
-    (漫畫)](../Page/艾瑪_\(漫畫\).md "wikilink")（[森薫](https://zh.wikipedia.org/wiki/森薫 "wikilink")）
-    - 平成17年度（第9回）[文化廳媒體藝術祭漫畫部門優秀賞](../Page/文化廳媒體藝術祭.md "wikilink")
+  - [艾瑪 (漫畫)](../Page/艾瑪_\(漫畫\).md "wikilink")（[森薫](https://zh.wikipedia.org/wiki/森薫 "wikilink")） - 平成17年度（第9回）[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")漫畫部門優秀賞
 
-  - [機動旅團八福神](https://zh.wikipedia.org/wiki/機動旅團八福神 "wikilink")（[福島聰](https://zh.wikipedia.org/wiki/福島聰 "wikilink")）
-    - 平成17年度（第9回）[文化廳媒體藝術祭漫畫部門審査委員会推薦作品](../Page/文化廳媒體藝術祭.md "wikilink")
+  - [機動旅團八福神](https://zh.wikipedia.org/wiki/機動旅團八福神 "wikilink")（[福島聰](https://zh.wikipedia.org/wiki/福島聰 "wikilink")） - 平成17年度（第9回）[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")漫畫部門審査委員会推薦作品
 
-  - （[安永知澄](https://zh.wikipedia.org/wiki/安永知澄 "wikilink")） -
-    平成17年度（第9回）[文化廳媒體藝術祭漫畫部門審査委員会推薦作品](../Page/文化廳媒體藝術祭.md "wikilink")
+  - （[安永知澄](https://zh.wikipedia.org/wiki/安永知澄 "wikilink")） - 平成17年度（第9回）[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")漫畫部門審査委員会推薦作品
 
-  - [放浪男孩](../Page/放浪男孩.md "wikilink")（[志村貴子](../Page/志村貴子.md "wikilink")）
-    -
-    平成18年度（第10回）[文化廳媒體藝術祭漫畫部門審査委員会推薦作品](../Page/文化廳媒體藝術祭.md "wikilink")
+  - [放浪男孩](../Page/放浪男孩.md "wikilink")（[志村貴子](../Page/志村貴子.md "wikilink")） - 平成18年度（第10回）[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")漫畫部門審査委員会推薦作品
 
-  - （[三宅亂丈](https://zh.wikipedia.org/wiki/三宅亂丈 "wikilink")） -
-    平成21年度（第13回）[文化廳媒體藝術祭漫畫部門優秀賞受賞](../Page/文化廳媒體藝術祭.md "wikilink")
+  - （[三宅亂丈](https://zh.wikipedia.org/wiki/三宅亂丈 "wikilink")） - 平成21年度（第13回）[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")漫畫部門優秀賞受賞
 
-  - [羅馬浴場](https://zh.wikipedia.org/wiki/羅馬浴場 "wikilink")（） -
-    第3回（2010年）[漫畫大賞](https://zh.wikipedia.org/wiki/漫畫大賞 "wikilink")、第14回（2010年）[手塚治虫文化賞短編賞](https://zh.wikipedia.org/wiki/手塚治虫文化賞 "wikilink")
+  - [羅馬浴場](https://zh.wikipedia.org/wiki/羅馬浴場 "wikilink")（） - 第3回（2010年）[漫畫大賞](https://zh.wikipedia.org/wiki/漫畫大賞 "wikilink")、第14回（2010年）[手塚治虫文化賞短編賞](https://zh.wikipedia.org/wiki/手塚治虫文化賞 "wikilink")
 
 ## 外部連結
 
   - [コミックビーム OFFICIAL WEB SITE](http://www.enterbrain.co.jp/comic/)
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:Comic_Beam](https://zh.wikipedia.org/wiki/Category:Comic_Beam "wikilink")
-[Category:1995年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1995年創辦的雜誌 "wikilink")
-[Category:1995年日本建立](https://zh.wikipedia.org/wiki/Category:1995年日本建立 "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:Comic_Beam](https://zh.wikipedia.org/wiki/Category:Comic_Beam "wikilink") [Category:1995年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1995年創辦的雜誌 "wikilink") [Category:1995年日本建立](https://zh.wikipedia.org/wiki/Category:1995年日本建立 "wikilink")

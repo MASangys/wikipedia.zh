@@ -1,19 +1,8 @@
-{{Infobox Software |name = redsn0w |logo =
-[Quickpwn.png](https://zh.wikipedia.org/wiki/File:Quickpwn.png "fig:Quickpwn.png")
-|developer = [iPhone Dev
-Team](https://zh.wikipedia.org/wiki/iPhone_Dev_Team "wikilink") |latest
-preview version = 0.9.15b3b |latest preview date =  |operating_system =
-[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
-[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") |license =
-[Freeware](https://zh.wikipedia.org/wiki/Freeware "wikilink") |website =
-<http://blog.iphone-dev.org/> |purpose = 越狱工具 }}
-**redsn0w**是一个用于[越狱](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")[iOS设备的工具](https://zh.wikipedia.org/wiki/iOS "wikilink")。它通过读取通过[iTunes或其它途径下载的官方固件](https://zh.wikipedia.org/wiki/iTunes "wikilink")，并在设备上建立一个[RAM盘](https://zh.wikipedia.org/wiki/RAM盘 "wikilink")，从RAM盘上面运行相应程序来进行越狱工作。在越狱时，设备会进入固件升级模式。redsn0w同时允许用于安装流行的第三方软件安装器[Cydia](../Page/Cydia.md "wikilink")，也可以用来优化系统，安装自制软件，访问[文件系统等](../Page/文件系统.md "wikilink")。
+{{Infobox Software |name = redsn0w |logo = [Quickpwn.png](https://zh.wikipedia.org/wiki/File:Quickpwn.png "fig:Quickpwn.png") |developer = [iPhone Dev Team](https://zh.wikipedia.org/wiki/iPhone_Dev_Team "wikilink") |latest preview version = 0.9.15b3b |latest preview date =  |operating_system = [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"), [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") |license = [Freeware](https://zh.wikipedia.org/wiki/Freeware "wikilink") |website = <http://blog.iphone-dev.org/> |purpose = 越狱工具 }} **redsn0w**是一个用于[越狱](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")[iOS设备的工具](https://zh.wikipedia.org/wiki/iOS "wikilink")。它通过读取通过[iTunes或其它途径下载的官方固件](https://zh.wikipedia.org/wiki/iTunes "wikilink")，并在设备上建立一个[RAM盘](https://zh.wikipedia.org/wiki/RAM盘 "wikilink")，从RAM盘上面运行相应程序来进行越狱工作。在越狱时，设备会进入固件升级模式。redsn0w同时允许用于安装流行的第三方软件安装器[Cydia](../Page/Cydia.md "wikilink")，也可以用来优化系统，安装自制软件，访问[文件系统](../Page/文件系统.md "wikilink")等。
 
 ## 兼容性
 
-[Mac OS
-X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的redsn](https://zh.wikipedia.org/wiki/Windows "wikilink")0w可以用于运行全部iOS版本的各种设备，虽然对于具有新版引导固件的iPhone
-3GS及更新的固件无法完美解锁：也就是说，电话每次重启的时候，都必须连上计算机重新越狱。不稳定发行版0.9.6b6使用limera1n和24kpwm引导固件的组合来达成与4.2版iOS的兼容性\[1\]。
+[Mac OS X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的redsn](https://zh.wikipedia.org/wiki/Windows "wikilink")0w可以用于运行全部iOS版本的各种设备，虽然对于具有新版引导固件的iPhone 3GS及更新的固件无法完美解锁：也就是说，电话每次重启的时候，都必须连上计算机重新越狱。不稳定发行版0.9.6b6使用limera1n和24kpwm引导固件的组合来达成与4.2版iOS的兼容性\[1\]。
 
 <table>
 <thead>
@@ -224,12 +213,10 @@ Apple最近修改了其iPhone开发者协议，加入了以下一段：
 
 ## 参见
 
-  - [iPhone Dev
-    Team](https://zh.wikipedia.org/wiki/iPhone_Dev_Team "wikilink")
+  - [iPhone Dev Team](https://zh.wikipedia.org/wiki/iPhone_Dev_Team "wikilink")
   - [Cydia](../Page/Cydia.md "wikilink")
 
-[Category:自制软体](https://zh.wikipedia.org/wiki/Category:自制软体 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
+[Category:自制软体](https://zh.wikipedia.org/wiki/Category:自制软体 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
 
 1.
 2.

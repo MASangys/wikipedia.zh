@@ -2,12 +2,11 @@
 
 ## 劇情介紹
 
-深夜電台節目《深-{}-夜FM》的電台DJ高善英，她的節目深受觀眾喜愛，但是為了照顧健康狀況惡化的女兒，決定辭掉已經擔任5年DJ的工作。但卻沒想到，在正要進行最後一集節目的同時，一名變態韓東秀卻闖進他的住處，綁架她的女兒和妹妹高雅英，必須和他單獨連線，要在她的節目按照他的音樂進行最終集節目才能救回家人的性命。原本她想請警衛確認家裡的狀況，但是那兩名警衛卻被變態以[鐵撬砸死](../Page/鐵撬.md "wikilink")。
+深夜電台節目《深-{}-夜FM》的電台DJ高善英，她的節目深受觀眾喜愛，但是為了照顧健康狀況惡化的女兒，決定辭掉已經擔任5年DJ的工作。但卻沒想到，在正要進行最後一集節目的同時，一名變態韓東秀卻闖進他的住處，綁架她的女兒和妹妹高雅英，必須和他單獨連線，要在她的節目按照他的音樂進行最終集節目才能救回家人的性命。原本她想請警衛確認家裡的狀況，但是那兩名警衛卻被變態以[鐵撬](../Page/鐵撬.md "wikilink")砸死。
 
 原本要照他的指示進行，但卻被站長一在阻止，認為她在影響收視率，變態一時火大，切斷她妹妹的動脈放血致死，而看到這一幕的高善英當場昏厥，這時大家才驚覺大事不妙。
 
-最後在一處空房，這時大批媒體和警力已經到達，韓東秀抵住高善英脖子，企圖想讓她死在媒體和警方面前。高善英冷不防地拿起一方的左輪手槍朝韓東秀頭部開了一槍，韓東秀當場死亡，他也跟著自己的作品一起毀滅。大批媒體衝上去爭先恐後的訪問。
-過沒多久，大批媒體已經離去，高善英在救護車上呆坐，站長前去安慰她這段當眾開槍的畫面很快就會被世人遺忘。隨後救護車開走了，在路途中，高善英聽到收音機上正在撥放與她類似的節目，她要求把收音機關掉以讓自己好好靜一靜。
+最後在一處空房，這時大批媒體和警力已經到達，韓東秀抵住高善英脖子，企圖想讓她死在媒體和警方面前。高善英冷不防地拿起一方的左輪手槍朝韓東秀頭部開了一槍，韓東秀當場死亡，他也跟著自己的作品一起毀滅。大批媒體衝上去爭先恐後的訪問。 過沒多久，大批媒體已經離去，高善英在救護車上呆坐，站長前去安慰她這段當眾開槍的畫面很快就會被世人遺忘。隨後救護車開走了，在路途中，高善英聽到收音機上正在撥放與她類似的節目，她要求把收音機關掉以讓自己好好靜一靜。
 
 ## 演員陣容
 
@@ -36,7 +35,7 @@
 
 ## 評價
 
-[爛番茄給予這部片子](../Page/爛番茄.md "wikilink")57%(腐爛)的評價。\[2\]
+[爛番茄](../Page/爛番茄.md "wikilink")給予這部片子57%(腐爛)的評價。\[2\]
 
 ## 參考資料
 
@@ -47,14 +46,7 @@
   -
   -
   -
-[Category:2010年電影](https://zh.wikipedia.org/wiki/Category:2010年電影 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink")
-[Category:韓國驚悚片](https://zh.wikipedia.org/wiki/Category:韓國驚悚片 "wikilink")
-[Category:廣播題材電影](https://zh.wikipedia.org/wiki/Category:廣播題材電影 "wikilink")
+[Category:2010年電影](https://zh.wikipedia.org/wiki/Category:2010年電影 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink") [Category:韓國驚悚片](https://zh.wikipedia.org/wiki/Category:韓國驚悚片 "wikilink") [Category:廣播題材電影](https://zh.wikipedia.org/wiki/Category:廣播題材電影 "wikilink")
 
-1.  [深夜FM(MIDNIGHT F.M.) -
-    Yahoo\!奇摩電影](http://tw.movie.yahoo.com/movieinfo_main.html?id=3810)
-
-2.  [Midnight FM (Simya-ui FM) - Rotten
-    Tomatoes](http://www.rottentomatoes.com/m/midnight_fm_2010/)
+1.  [深夜FM(MIDNIGHT F.M.) - Yahoo\!奇摩電影](http://tw.movie.yahoo.com/movieinfo_main.html?id=3810)
+2.  [Midnight FM (Simya-ui FM) - Rotten Tomatoes](http://www.rottentomatoes.com/m/midnight_fm_2010/)

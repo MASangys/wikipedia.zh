@@ -1,4 +1,4 @@
-**勝者為王III王者之戰**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：）是[香港](../Page/香港.md "wikilink")[亞洲電視製作的時裝賭博劇集](../Page/亞洲電視.md "wikilink")。1993年11月15日[本港台首播](../Page/本港台.md "wikilink")，全劇共30集。監製為[龍紹基](../Page/龍紹基.md "wikilink")。為《[勝者為王](https://zh.wikipedia.org/wiki/勝者為王 "wikilink")》系列之第三部，但故事人物和首兩部沒有關係。
+**勝者為王III王者之戰**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：）是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")製作的時裝賭博劇集。1993年11月15日[本港台](../Page/本港台.md "wikilink")首播，全劇共30集。監製為[龍紹基](../Page/龍紹基.md "wikilink")。為《[勝者為王](https://zh.wikipedia.org/wiki/勝者為王 "wikilink")》系列之第三部，但故事人物和首兩部沒有關係。
 
 ## 劇情簡介
 
@@ -53,5 +53,4 @@
   - 武術指導：[馬玉成](https://zh.wikipedia.org/wiki/馬玉成 "wikilink")
   - 賭術指導：[江道海](https://zh.wikipedia.org/wiki/江道海 "wikilink")
 
-[Category:1993年亞視電視劇集](https://zh.wikipedia.org/wiki/Category:1993年亞視電視劇集 "wikilink")
-[Category:赌博题材作品](https://zh.wikipedia.org/wiki/Category:赌博题材作品 "wikilink")
+[Category:1993年亞視電視劇集](https://zh.wikipedia.org/wiki/Category:1993年亞視電視劇集 "wikilink") [Category:赌博题材作品](https://zh.wikipedia.org/wiki/Category:赌博题材作品 "wikilink")

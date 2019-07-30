@@ -1,5 +1,4 @@
-《**STAR DRIVER
-銀河美少年**》（），2010年10月3日預訂在[MBS](../Page/每日放送.md "wikilink")、[TBS系列](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")（[JNN](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")）開始放送的原創[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。劇場版於2013年2月9日上映。
+《**STAR DRIVER 銀河美少年**》（），2010年10月3日預訂在[MBS](../Page/每日放送.md "wikilink")、[TBS系列](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")（[JNN](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")）開始放送的原創[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。劇場版於2013年2月9日上映。
 
 ## 概要
 
@@ -54,7 +53,7 @@
     **印記屬性**：王
     **階段**：第一階段
     **擁有賽巴迪**：「薩曼古（Samekh）」（動畫於第25話方駕駛）
-    南十字島的名門望族**新藤家**的，個性平易近人，行為中規中矩，[劍道極強](../Page/劍道.md "wikilink")。
+    南十字島的名門望族**新藤家**的，個性平易近人，行為中規中矩，[劍道](../Page/劍道.md "wikilink")極強。
     因為繼承王之印記「柱」，而被家族規定必須與島上的四位巫女之一結婚，同時一生也不離開這座島。
     第一階段能力可破解第一階段能力、攻擊第二階段(含)以下賽巴迪、加持第三階段賽巴迪，但使用能力後會陷入沉眠，須依靠**逆日死的巫女**的第一階段能力才能甦醒。
     隱藏身分為綺羅星十字團第1分隊『皇帝(Emperor)』代表「王(king)」，但直到動畫第23話方接受並出席，第22話出演的舞台劇、第23話**特納西·特奇歐**送給他的一幅肖像畫都暗示了這個發展。
@@ -803,8 +802,7 @@
   - 音響監督：[若林和弘](../Page/若林和弘.md "wikilink")
   - 製作人：[丸山博雄](https://zh.wikipedia.org/wiki/丸山博雄 "wikilink")、[大藪芳廣](https://zh.wikipedia.org/wiki/大藪芳廣 "wikilink")、[大山良](https://zh.wikipedia.org/wiki/大山良 "wikilink")、[稻垣浩文](https://zh.wikipedia.org/wiki/稻垣浩文 "wikilink")、[倉重宣之](https://zh.wikipedia.org/wiki/倉重宣之 "wikilink")
   - 動畫製作：BONES
-  - 製作：STAR
-    DRIVER製作委員會（[Aniplex](../Page/Aniplex.md "wikilink")、[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")、BONES、[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）、[每日放送](../Page/每日放送.md "wikilink")
+  - 製作：STAR DRIVER製作委員會（[Aniplex](../Page/Aniplex.md "wikilink")、[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")、BONES、[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）、[每日放送](../Page/每日放送.md "wikilink")
 
 ## 主題曲
 
@@ -812,9 +810,7 @@
 
 1.  《GRAVITY Ø》**（第1話－第13話）**
       -
-        作詞：太志，作曲、編曲：[Aqua
-        Timez](../Page/Aqua_Timez.md "wikilink")，歌：[Aqua
-        Timez](../Page/Aqua_Timez.md "wikilink")
+        作詞：太志，作曲、編曲：[Aqua Timez](../Page/Aqua_Timez.md "wikilink")，歌：[Aqua Timez](../Page/Aqua_Timez.md "wikilink")
 2.  《SHINING☆STAR》**（第14話－第24話）**
       -
         作詞、作曲：網本ナオノブ，編曲：大西省吾，歌：[9nine](../Page/9nine.md "wikilink")
@@ -826,8 +822,7 @@
         作詞：前澤希，作曲：古川貴浩，編曲：釣俊輔，歌：[9nine](../Page/9nine.md "wikilink")
 2.  《[Pride](../Page/Pride_\(SCANDAL單曲\).md "wikilink")》**（第14話－第24話）**
       -
-        作詞︰TOMOMI、Hidenori Tanaka，作曲：Hidenori Tanaka，編曲：Keita
-        Kawaguchi，歌：[SCANDAL](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")
+        作詞︰TOMOMI、Hidenori Tanaka，作曲：Hidenori Tanaka，編曲：Keita Kawaguchi，歌：[SCANDAL](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")
 
 ### 剧中曲
 
@@ -1126,10 +1121,7 @@
 
 ## 漫畫版
 
-電視動畫開播前的先驅，於《[YOUNG
-GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》2010年18號開始連載。作畫由KEY
-by
-Ylab擔任。三本[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2011年2月26日至2012年1月25日發售。\[5\]\[6\]
+電視動畫開播前的先驅，於《[YOUNG GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》2010年18號開始連載。作畫由KEY by Ylab擔任。三本[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2011年2月26日至2012年1月25日發售。\[5\]\[6\]
 
 ## 劇場版
 
@@ -1170,7 +1162,7 @@ Ylab擔任。三本[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[單
 
 | 播放電視台                                                                                                                                            | 播放日期         | 播放时间（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 備註                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| [MBS](../Page/每日放送.md "wikilink")・[TBS系列](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")（[JNN](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")） | 2010年10月3日－  | 星期日 17時00分 - 17時30分                                                                                           | [地面電視播放](../Page/地面電視.md "wikilink") |
+| [MBS](../Page/每日放送.md "wikilink")・[TBS系列](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")（[JNN](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")） | 2010年10月3日－  | 星期日 17時00分 - 17時30分                                                                                           | [地面電視](../Page/地面電視.md "wikilink")播放 |
 | [GyaO\!](https://zh.wikipedia.org/wiki/GyaO! "wikilink")                                                                                         | 2010年10月8日－  | 星期五更新                                                                                                         | [网络电视](../Page/网络电视.md "wikilink")   |
 | MBS公式番宣サイト                                                                                                                                       | 2010年10月14日－ | 星期五 0時00分更新（第2話以後）                                                                                            |                                      |
 | [萬代頻道](../Page/萬代頻道.md "wikilink")                                                                                                               | 2010年10月15日－ | 星期五更新                                                                                                         |                                      |
@@ -1272,19 +1264,12 @@ Ylab擔任。三本[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[單
 
   - [STAR DRIVER 閃亮的塔科特 \[每日放送\]](http://www.mbs.jp/star-driver/)
 
-  - [STAR DRIVER 閃亮的塔科特 YOUNG GANGAN
-    OFFICIALSITE](http://www.square-enix.co.jp/magazine/yg/introduction/sutadora/)
+  - [STAR DRIVER 閃亮的塔科特 YOUNG GANGAN OFFICIALSITE](http://www.square-enix.co.jp/magazine/yg/introduction/sutadora/)
 
-  - [STAR DRIVER 閃亮的塔科特 - 漫畫 - GANGAN ONLINE -SQUARE
-    ENIX-](https://web.archive.org/web/20110501151610/http://www.square-enix.com/jp/magazine/ganganonline/comic/star_d/)
+  - [STAR DRIVER 閃亮的塔科特 - 漫畫 - GANGAN ONLINE -SQUARE ENIX-](https://web.archive.org/web/20110501151610/http://www.square-enix.com/jp/magazine/ganganonline/comic/star_d/)
 
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink")
-[Category:孤島背景動畫電影](https://zh.wikipedia.org/wiki/Category:孤島背景動畫電影 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink") [Category:孤島背景動畫電影](https://zh.wikipedia.org/wiki/Category:孤島背景動畫電影 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 
 1.  NT的五十嵐&榎戶訪談
 

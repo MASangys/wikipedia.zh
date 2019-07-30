@@ -1,5 +1,4 @@
-《**REAL**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[井上雄彥的](https://zh.wikipedia.org/wiki/井上雄彥 "wikilink")[日本漫画作品](../Page/日本漫画.md "wikilink")。在《[週刊YOUNG
-JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上，從1999年48号開始不定期連載（現在大概是2個月發表一次）。單行本發行至第14卷。
+《**REAL**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[井上雄彥的](https://zh.wikipedia.org/wiki/井上雄彥 "wikilink")[日本漫画](../Page/日本漫画.md "wikilink")作品。在《[週刊YOUNG JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上，從1999年48号開始不定期連載（現在大概是2個月發表一次）。單行本發行至第14卷。
 
 2001年得到第5回優秀賞。
 
@@ -7,7 +6,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上，從1999年48号開始不�
 
 一位是從高中自行退學、對於自己引起車禍造成他人一生的傷害而感到自責而希望成為職籃選手來贖罪的**野宮朋美**。
 
-一位是[輪椅籃球中的強力選手](../Page/輪椅籃球.md "wikilink")、卻因為與隊友不合而一度離開球隊之後又回隊的**戶川清春**。
+一位是[輪椅籃球](../Page/輪椅籃球.md "wikilink")中的強力選手、卻因為與隊友不合而一度離開球隊之後又回隊的**戶川清春**。
 
 一位則是自尊心強而且實力高超的籃球選手、但卻因為車禍造成半身不遂而一直難以接受現實的**高橋久信**。
 
@@ -21,9 +20,9 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上，從1999年48号開始不�
     長相嚴厲、不過卻有著會對想說的事情毫不猶豫地說出來的開朗個性。雖然曾打過校隊、但因為與隊友不服而離隊。之後過著我行我素的生活、在一次偶然下，載著[搭訕的山下夏美並且因為自己所騎的](https://zh.wikipedia.org/wiki/搭訕 "wikilink")[機車發生](https://zh.wikipedia.org/wiki/機車 "wikilink")[車禍](https://zh.wikipedia.org/wiki/車禍 "wikilink")、使她半身不遂。因此自行從高中[退学](https://zh.wikipedia.org/wiki/退学 "wikilink")。雖然一度為自己造成夏美的人生產生變化感到罪惡而自責不已、但在與戶川相遇後，決定開始改變自己並且加以行動。不過因為個性的關係而老是遭到開除、然後在決定要擔任[搬運工工作的數個月](https://zh.wikipedia.org/wiki/運輸業 "wikilink")，也因為公司破產而被迫離職。後來決定要通過「東京閃電隊」的[選秀會而開始特訓](https://zh.wikipedia.org/wiki/選秀會 "wikilink")。18歳。
     由於母親常頻繁地出外旅行、所以有著喜歡將土產送給別人的習慣。不過他的母親在本篇尚未登場。
   -
-    有著好強卻纖細的[個性](https://zh.wikipedia.org/wiki/個性 "wikilink")。特徵是喜歡戴著鴨舌帽以及穿著帽Tee。野宮稱他是「輪椅界的[文斯·卡特](https://zh.wikipedia.org/wiki/文斯·卡特 "wikilink")」而叫他「文斯」。小時候母親就過世而成為單親家庭並且也從父親那邊學[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。國中時屬於田徑部、而且還成為進入到全国大賽決賽的短跑選手、但在決賽中因為[骨肉瘤症狀惡化](../Page/肉瘤.md "wikilink")。為了切除脛骨骨肉上的瘤而進行手術、使他右膝關節以下遭到截肢、只能過著坐在像是義肢般的[輪椅的生活](../Page/輪椅.md "wikilink")。屬於輪椅籃球隊「老虎隊」、由於實力高而有很強的上進心、讓他一度與隊友不合兒離隊。在遇到野宮後、決定要改變自己與球隊而歸隊。之後被選為輪椅籃球隊的日本代表。19歳。
+    有著好強卻纖細的[個性](https://zh.wikipedia.org/wiki/個性 "wikilink")。特徵是喜歡戴著鴨舌帽以及穿著帽Tee。野宮稱他是「輪椅界的[文斯·卡特](https://zh.wikipedia.org/wiki/文斯·卡特 "wikilink")」而叫他「文斯」。小時候母親就過世而成為單親家庭並且也從父親那邊學[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。國中時屬於田徑部、而且還成為進入到全国大賽決賽的短跑選手、但在決賽中因為[骨肉瘤症狀惡化](../Page/肉瘤.md "wikilink")。為了切除脛骨骨肉上的瘤而進行手術、使他右膝關節以下遭到截肢、只能過著坐在像是義肢般的[輪椅](../Page/輪椅.md "wikilink")的生活。屬於輪椅籃球隊「老虎隊」、由於實力高而有很強的上進心、讓他一度與隊友不合兒離隊。在遇到野宮後、決定要改變自己與球隊而歸隊。之後被選為輪椅籃球隊的日本代表。19歳。
   -
-    受父親影響，而在小學時就開始學打籃球、之後持為西高中籃球隊隊長。把自己視為「A級」以上、所以喜歡為週圍的人附上等級而看低他們並且因為自尊心高而也有[傲慢的一面](https://zh.wikipedia.org/wiki/傲慢 "wikilink")。擁有做什事都能表現得很好的天份、所以雖然学業成績・運動能力・長相都相當優秀而被大家所重視、不過卻因為一時的衝動而偷[腳踏車並且因此遇到車禍](https://zh.wikipedia.org/wiki/腳踏車 "wikilink")、造成[脊髓受傷而下半身不遂](../Page/脊髓.md "wikilink")。事故後、與八年不見的父親相遇並且在經歷一段親情的掙扎後、而開始慢慢面對自己受傷的事實。現在18歳（3集〜）。
+    受父親影響，而在小學時就開始學打籃球、之後持為西高中籃球隊隊長。把自己視為「A級」以上、所以喜歡為週圍的人附上等級而看低他們並且因為自尊心高而也有[傲慢的一面](https://zh.wikipedia.org/wiki/傲慢 "wikilink")。擁有做什事都能表現得很好的天份、所以雖然学業成績・運動能力・長相都相當優秀而被大家所重視、不過卻因為一時的衝動而偷[腳踏車並且因此遇到車禍](https://zh.wikipedia.org/wiki/腳踏車 "wikilink")、造成[脊髓](../Page/脊髓.md "wikilink")受傷而下半身不遂。事故後、與八年不見的父親相遇並且在經歷一段親情的掙扎後、而開始慢慢面對自己受傷的事實。現在18歳（3集〜）。
 
 ### 與野宮朋美有關的人
 
@@ -50,7 +49,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上，從1999年48号開始不�
 ### 與高橋久信有關的人
 
   - 高橋 久行（たかはし ひさゆき）
-    久信之父。小時候教久信打籃球。以前是位[精英](https://zh.wikipedia.org/wiki/精英 "wikilink")[上班族](../Page/上班族.md "wikilink")、但在8年前與妻‧千鶴子分居、現在住在埼玉縣[秩父並且成為](https://zh.wikipedia.org/wiki/秩父地方 "wikilink")[陶藝家](https://zh.wikipedia.org/wiki/陶藝家 "wikilink")、就連久信也佩服他的手藝。由於復健中心的指導員的要求而在一段時間內與久信一起生活。一開始，打扮成上半身穿著襯衫，下半身穿著體操褲並且穿著[拖鞋像是遠離人世般的人一樣](../Page/拖鞋.md "wikilink")、但在久信發生意外後才慢慢改善並且一直在被後守護著久信。
+    久信之父。小時候教久信打籃球。以前是位[精英](https://zh.wikipedia.org/wiki/精英 "wikilink")[上班族](../Page/上班族.md "wikilink")、但在8年前與妻‧千鶴子分居、現在住在埼玉縣[秩父並且成為](https://zh.wikipedia.org/wiki/秩父地方 "wikilink")[陶藝家](https://zh.wikipedia.org/wiki/陶藝家 "wikilink")、就連久信也佩服他的手藝。由於復健中心的指導員的要求而在一段時間內與久信一起生活。一開始，打扮成上半身穿著襯衫，下半身穿著體操褲並且穿著[拖鞋](../Page/拖鞋.md "wikilink")像是遠離人世般的人一樣、但在久信發生意外後才慢慢改善並且一直在被後守護著久信。
   - 高橋 千鶴子（たかはし ちづこ）
     久信之母。8年前與丈夫分居、一人養育久信。雖然為久信的表現優秀感到驕傲、而強烈希望他回去讀書、但反而被討厭這樣想法的久信痛斥、因此被久信的墮落所震驚而開始[酗酒](../Page/酗酒.md "wikilink")。之後因為過勞和肝臟惡化而住院，但也讓久信感到後悔而開始改變自己。
   - 本城　文香（ほんじょう ふみか）
@@ -58,11 +57,11 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上，從1999年48号開始不�
   - 小林 薰（こばやし かおる）
     久信入院時，負責照顧他的[看護師](https://zh.wikipedia.org/wiki/看護師 "wikilink")。雖然長得不好看、卻會熱情地鼓勵久信、還在他自暴自棄時，加以斥責。有個雙胞胎姐姐（茂）也在復健中心擔任看護師、所以知道在同中心裡開始復健的久信。
   - 花咲 滿（はなさき みつる）
-    因為脊髓受傷而進入復健中心的病人。是個常常喃喃自語的[宅男](../Page/宅男.md "wikilink")。本來與久信不合，但慢慢地與他熱絡起來。對於異性抱著一份情節、讓他由於這份獨特的想法而接受半身不遂的情況。是スコーピオン白鳥的大粉絲、也擁有對[手辦及](https://zh.wikipedia.org/wiki/手辦 "wikilink")[摔角等方面的興趣](../Page/摔角.md "wikilink")。
+    因為脊髓受傷而進入復健中心的病人。是個常常喃喃自語的[宅男](../Page/宅男.md "wikilink")。本來與久信不合，但慢慢地與他熱絡起來。對於異性抱著一份情節、讓他由於這份獨特的想法而接受半身不遂的情況。是スコーピオン白鳥的大粉絲、也擁有對[手辦及](https://zh.wikipedia.org/wiki/手辦 "wikilink")[摔角](../Page/摔角.md "wikilink")等方面的興趣。
   - 白鳥 加州雄（しらとり かずお）
     因為脊髓受傷而進入復健中心的病人。與久信同間病房。是個有著**スコーピオン白鳥**綽號的[摔角手](https://zh.wikipedia.org/wiki/摔角手 "wikilink")、還被稱為「日本第一的壞蛋」。年齢40歳左右。性格坦率且遲鈍、經常有不經思考的言論。有著「所謂的強是?」的煩惱、因為相信摔角手與一般人不同、所以會自己決定無法達成的「走路」的期限的目標、來鼓勵自己進行復健。
   - 石崎（いしざき）
-    復健中心的[物理治療師](../Page/物理治療.md "wikilink")。進行恩威並濟的指導、讓原本低落的久信可以一步步學會如何復健。
+    復健中心的[物理治療](../Page/物理治療.md "wikilink")師。進行恩威並濟的指導、讓原本低落的久信可以一步步學會如何復健。
   - 原 藤子（はら ふじこ）
     復健中心的。是個留著短髮看起來就像是男人的女子。常常帶著[竹刀對久信進行魔鬼訓練](https://zh.wikipedia.org/wiki/竹刀 "wikilink")、讓他可以達到白鳥的極限。喜歡的東西是[果醬麵包](https://zh.wikipedia.org/wiki/果醬麵包 "wikilink")。
 
@@ -114,9 +113,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上，從1999年48号開始不�
 ## 補充
 
   - 分數
-    輪椅籃球中，為了確保公平競爭，對於每隊同時在球場上的球員的身體素質做出了硬性規定。每名球員依照身體殘障程度，會得到 1.0分至
-    4.5分的評等 (每 0.5分為一級，總共八級)，身體功能越健全者，評分越高。每隊同時在場上的五名球員的評分總和不得超過
-    14分。
+    輪椅籃球中，為了確保公平競爭，對於每隊同時在球場上的球員的身體素質做出了硬性規定。每名球員依照身體殘障程度，會得到 1.0分至 4.5分的評等 (每 0.5分為一級，總共八級)，身體功能越健全者，評分越高。每隊同時在場上的五名球員的評分總和不得超過 14分。
 
 ## 出版書籍
 
@@ -213,10 +210,4 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上，從1999年48号開始不�
   - [YOUNG JUMP官方Web](http://yj.shueisha.co.jp/)
   - [S-MANGA.NET - REAL](http://annex.s-manga.net/real/)
 
-[Category:井上雄彦](https://zh.wikipedia.org/wiki/Category:井上雄彦 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:籃球漫畫](https://zh.wikipedia.org/wiki/Category:籃球漫畫 "wikilink")
-[Category:不良少年及少女主角題材漫畫](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材漫畫 "wikilink")
-[Category:肢體障礙題材作品](https://zh.wikipedia.org/wiki/Category:肢體障礙題材作品 "wikilink")
+[Category:井上雄彦](https://zh.wikipedia.org/wiki/Category:井上雄彦 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:籃球漫畫](https://zh.wikipedia.org/wiki/Category:籃球漫畫 "wikilink") [Category:不良少年及少女主角題材漫畫](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材漫畫 "wikilink") [Category:肢體障礙題材作品](https://zh.wikipedia.org/wiki/Category:肢體障礙題材作品 "wikilink")

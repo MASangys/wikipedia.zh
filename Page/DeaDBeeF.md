@@ -1,4 +1,4 @@
-**DeaDBeeF**是一个跨平台的[音频播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")，可以运行在[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")、[BSD](../Page/BSD.md "wikilink")、[OpenSolaris以及其他类](../Page/OpenSolaris.md "wikilink")[UNIX系统上](../Page/UNIX.md "wikilink")，也有[Android版本](../Page/Android.md "wikilink")。DeaDBeeF注重于减少资源占用并提供广泛的音频格式支持，其界面类似[Foobar2000](../Page/Foobar2000.md "wikilink")。主程序于[GPLv2下发布](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")，插件适用的授权许可则各不相同（有些适用zlib/libpng许可证）。DeaDBeeF这个名字来自[16进制魔术数](https://zh.wikipedia.org/wiki/16进制魔术数 "wikilink")0xDEADBEEF.
+**DeaDBeeF**是一个跨平台的[音频播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")，可以运行在[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")、[BSD](../Page/BSD.md "wikilink")、[OpenSolaris](../Page/OpenSolaris.md "wikilink")以及其他类[UNIX](../Page/UNIX.md "wikilink")系统上，也有[Android](../Page/Android.md "wikilink")版本。DeaDBeeF注重于减少资源占用并提供广泛的音频格式支持，其界面类似[Foobar2000](../Page/Foobar2000.md "wikilink")。主程序于[GPLv2下发布](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")，插件适用的授权许可则各不相同（有些适用zlib/libpng许可证）。DeaDBeeF这个名字来自[16进制魔术数](https://zh.wikipedia.org/wiki/16进制魔术数 "wikilink")0xDEADBEEF.
 
 ## 功能
 
@@ -26,5 +26,4 @@
 
   - [官方網站](http://deadbeef.sourceforge.net/)
 
-[Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink")
-[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
+[Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")

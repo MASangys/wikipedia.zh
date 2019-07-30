@@ -1,36 +1,24 @@
-**貂鼠（黃鼠狼）I**（德文： Marder
-I），是在第二次世界大戦期間由納粹德國所開發的自行反坦克炮(或稱坦克驅逐車)。是由1940年對法國戰役中，所擄獲的數百輛做為火砲牽引車・装甲運輸車的37L
-Lorraine牽引車 (Tracteur Blinde 37L "Lorraine") 為基礎，搭載7.5 cm PaK 40反坦克炮所完成。
+**貂鼠（黃鼠狼）I**（德文： Marder I），是在第二次世界大戦期間由納粹德國所開發的自行反坦克炮(或稱坦克驅逐車)。是由1940年對法國戰役中，所擄獲的數百輛做為火砲牽引車・装甲運輸車的37L Lorraine牽引車 (Tracteur Blinde 37L "Lorraine") 為基礎，搭載7.5 cm PaK 40反坦克炮所完成。
 
-制式名稱為7.5cm 40式1型反坦克炮搭載Lorraine牽引車 (f) 型自走砲 (7.5cm PaK40/1 auf
-Geschützwagen Lorraine Schlepper (f))，Marder字面即為「貂鼠（黃鼠狼）」的意義。制式編號為
-Sf.Kfz. 135。
+制式名稱為7.5cm 40式1型反坦克炮搭載Lorraine牽引車 (f) 型自走砲 (7.5cm PaK40/1 auf Geschützwagen Lorraine Schlepper (f))，Marder字面即為「貂鼠（黃鼠狼）」的意義。制式編號為 Sf.Kfz. 135。
 
-雖說制式採用的規格底盤為Lorraine牽引車，但是也有些說法是將許多不同款淘汰的法軍戰車所改造搭載的7.5 cm PaK
-40反坦克炮的同類型車款，均列為貂鼠I。
+雖說制式採用的規格底盤為Lorraine牽引車，但是也有些說法是將許多不同款淘汰的法軍戰車所改造搭載的7.5 cm PaK 40反坦克炮的同類型車款，均列為貂鼠I。
 
 ## 概要
 
 從1941年德國發動[巴巴羅薩作戰的初期開始](https://zh.wikipedia.org/wiki/巴巴羅薩作戰 "wikilink")、德國國防軍始終不滿足於牽引式的反坦克砲與I號自行反坦克炮這樣的裝備，而覺得必須要有更富有機動性、更強力的反坦克武器。而此一要求在1941年末期變成了緊急課題，因為[蘇聯投入了新型的T](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")-34與KV-1等戰車。
 
-做為暫時的解決策略，德軍先打算將已經过时的II號坦克，以及擄獲的Lorraine牽引車此類車輛，均改裝成自行反坦克炮。而這就是貂鼠(黃鼠狼)系列的由來，搭載了7.5
-cm PaK
-40/1反坦克炮或是由[蘇聯大量擄獲的F](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")-22
-76mm野砲所改造出來的7.62 cm PaK 36(r)反坦克炮。
+做為暫時的解決策略，德軍先打算將已經过时的II號坦克，以及擄獲的Lorraine牽引車此類車輛，均改裝成自行反坦克炮。而這就是貂鼠(黃鼠狼)系列的由來，搭載了7.5 cm PaK 40/1反坦克炮或是由[蘇聯大量擄獲的F](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")-22 76mm野砲所改造出來的7.62 cm PaK 36(r)反坦克炮。
 
 ## 開發過程
 
-黄鼠狼I是於1942年5月，由在Lorraine底盤上安裝7.5cm PaK 40
-反坦克炮所開發出來的。由於本車原本就將引擎配置於車体中央，是非常適合自行反坦克炮的設計。而在撤除車体後部的兵員乘坐用空間之後，代以安裝火砲以及設置開放式的戰鬥室。不過戰鬥室僅由10～9mm厚的裝甲板所構成，僅能防護成員免於輕兵器及砲彈破片的傷害，無法防護來自敵方戰車的砲擊。
+黄鼠狼I是於1942年5月，由在Lorraine底盤上安裝7.5cm PaK 40 反坦克炮所開發出來的。由於本車原本就將引擎配置於車体中央，是非常適合自行反坦克炮的設計。而在撤除車体後部的兵員乘坐用空間之後，代以安裝火砲以及設置開放式的戰鬥室。不過戰鬥室僅由10～9mm厚的裝甲板所構成，僅能防護成員免於輕兵器及砲彈破片的傷害，無法防護來自敵方戰車的砲擊。
 
-在1942年的7-8月間，約有170輛的黄鼠狼I是由前述的Lorraine牽引車所改造的。另外有其他的法軍戰車如[Hotchkiss
-H39與](https://zh.wikipedia.org/wiki/Hotchkiss_H39 "wikilink")[FCM
-36等等](../Page/FCM_36.md "wikilink")，每次以數十輛為單位所改造出來的自行反坦克炮，這些也常被列入黄鼠狼I之中。
+在1942年的7-8月間，約有170輛的黄鼠狼I是由前述的Lorraine牽引車所改造的。另外有其他的法軍戰車如[Hotchkiss H39與](https://zh.wikipedia.org/wiki/Hotchkiss_H39 "wikilink")[FCM 36等等](../Page/FCM_36.md "wikilink")，每次以數十輛為單位所改造出來的自行反坦克炮，這些也常被列入黄鼠狼I之中。
 
 ## 戰績
 
-最初的一批貂鼠I型是在1942年投入了東部戰線，配備於步兵師團戰車驅逐 (Panzerjäger)
-大隊。但是這些貂鼠I型在後續車型如[貂鼠II型](https://zh.wikipedia.org/wiki/黄鼠狼II驱逐战车 "wikilink")、[貂鼠III型出現後](https://zh.wikipedia.org/wiki/貂鼠III型 "wikilink")，就陸續被後送回法國境內使用。主要理由是因為Lorraine牽引車以及其他法軍戰車底盤，在法國會比較容易由當地其他的法軍車輛來取得、挪用零件的關係。而在聯軍登陸諾曼第的前後，配備於大西洋防線的幾個裝甲師由於戰車不足，許多都是以法軍戰車底盤改造的貂鼠I型來填補缺額。
+最初的一批貂鼠I型是在1942年投入了東部戰線，配備於步兵師團戰車驅逐 (Panzerjäger) 大隊。但是這些貂鼠I型在後續車型如[貂鼠II型](https://zh.wikipedia.org/wiki/黄鼠狼II驱逐战车 "wikilink")、[貂鼠III型出現後](https://zh.wikipedia.org/wiki/貂鼠III型 "wikilink")，就陸續被後送回法國境內使用。主要理由是因為Lorraine牽引車以及其他法軍戰車底盤，在法國會比較容易由當地其他的法軍車輛來取得、挪用零件的關係。而在聯軍登陸諾曼第的前後，配備於大西洋防線的幾個裝甲師由於戰車不足，許多都是以法軍戰車底盤改造的貂鼠I型來填補缺額。
 
 ## 裝備部隊
 
@@ -46,9 +34,8 @@ H39與](https://zh.wikipedia.org/wiki/Hotchkiss_H39 "wikilink")[FCM
 
 ## 相關條目
 
-  - [貂鼠式步兵戰車](../Page/貂鼠式步兵戰車.md "wikilink")（[冷战時期同名戰車](../Page/冷战.md "wikilink")）
+  - [貂鼠式步兵戰車](../Page/貂鼠式步兵戰車.md "wikilink")（[冷战](../Page/冷战.md "wikilink")時期同名戰車）
   - [黃鼠狼II驅逐戰車](../Page/黃鼠狼II驅逐戰車.md "wikilink")
   - [黃鼠狼III驅逐戰車](../Page/黃鼠狼III驅逐戰車.md "wikilink")
 
-[Category:驅逐戰車](https://zh.wikipedia.org/wiki/Category:驅逐戰車 "wikilink")
-[Category:二戰德國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:二戰德國裝甲戰鬥車輛 "wikilink")
+[Category:驅逐戰車](https://zh.wikipedia.org/wiki/Category:驅逐戰車 "wikilink") [Category:二戰德國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:二戰德國裝甲戰鬥車輛 "wikilink")

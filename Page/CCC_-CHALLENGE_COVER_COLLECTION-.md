@@ -1,16 +1,9 @@
-「**CCC -CHALLENGE COVER
-COLLECTION-**」是[AAA的第](../Page/AAA_\(團體\).md "wikilink")1枚翻唱專輯。於2007年2月7日發行。唱片公司為[avex
-trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
+「**CCC -CHALLENGE COVER COLLECTION-**」是[AAA的第](../Page/AAA_\(團體\).md "wikilink")1枚翻唱專輯。於2007年2月7日發行。唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - 「CCC -CHALLENGE COVER
-    COLLECTION-」是AAA出道以來的第1張翻唱專輯。與上一張專輯「[ALL](../Page/ALL_\(AAA專輯\).md "wikilink")」相距約1個月。
-  - 收錄了2005年至2007年多首配信限定及参與的歌曲，包括[TRF的](../Page/TRF.md "wikilink")「[CRAZY
-    GONNA
-    CRAZY](../Page/CRAZY_GONNA_CRAZY.md "wikilink")」、[m.c.A・T的](https://zh.wikipedia.org/wiki/富樫明生 "wikilink")「[Bomb
-    A
-    Head](https://zh.wikipedia.org/wiki/Bomb_A_Head "wikilink")」、「歌舞青春特別版原聲帶」收錄曲「每個人都是明星」等，一共10首歌曲。
+  - 「CCC -CHALLENGE COVER COLLECTION-」是AAA出道以來的第1張翻唱專輯。與上一張專輯「[ALL](../Page/ALL_\(AAA專輯\).md "wikilink")」相距約1個月。
+  - 收錄了2005年至2007年多首配信限定及参與的歌曲，包括[TRF](../Page/TRF.md "wikilink")的「[CRAZY GONNA CRAZY](../Page/CRAZY_GONNA_CRAZY.md "wikilink")」、[m.c.A・T的](https://zh.wikipedia.org/wiki/富樫明生 "wikilink")「[Bomb A Head](https://zh.wikipedia.org/wiki/Bomb_A_Head "wikilink")」、「歌舞青春特別版原聲帶」收錄曲「每個人都是明星」等，一共10首歌曲。
   - 本作分「CD+DVD」和「CD ONLY」2種版本，收錄了「CRAZY GONNA CRAZY」的PV和PV making。
   - 在2月19日於公信榜專輯週排行榜取得第13位。
 
@@ -28,7 +21,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 | 6  | **[sūre danse](https://zh.wikipedia.org/wiki/sūre_danse "wikilink")**                                           | [米米CLUB](../Page/米米CLUB.md "wikilink")                      | 米米CLUB                                                  | 米米CLUB                                                | [中崎英也](https://zh.wikipedia.org/wiki/中崎英也 "wikilink")・米米CLUB |
 | 7  | **[Be cool\!](https://zh.wikipedia.org/wiki/Be_cool! "wikilink")**                                              | [野猿](https://zh.wikipedia.org/wiki/野猿 "wikilink")           | [秋元康](../Page/秋元康.md "wikilink")                        | [後藤次利](../Page/後藤次利.md "wikilink")                    | 後藤次利                                                         |
 | 8  | **[I SAW MOMMY KISSING SANTA CLAUS](https://zh.wikipedia.org/wiki/I_SAW_MOMMY_KISSING_SANTA_CLAUS "wikilink")** | \-                                                          | \-                                                      | \-                                                    | \-                                                           |
-| 9  | **[全民明星\!](https://zh.wikipedia.org/wiki/全民明星! "wikilink")**（みんなスター\!）                                          | [歌舞青春演員](../Page/歌舞青春.md "wikilink")                        | Matthew Gerrard ・ Robbie Nevil                          |                                                       |                                                              |
+| 9  | **[全民明星\!](https://zh.wikipedia.org/wiki/全民明星! "wikilink")**（みんなスター\!）                                          | [歌舞青春](../Page/歌舞青春.md "wikilink")演員                        | Matthew Gerrard ・ Robbie Nevil                          |                                                       |                                                              |
 | 10 | **[不想再戀愛](../Page/不想再戀愛.md "wikilink")**（）                                                                      | [槙原敬之](../Page/槙原敬之.md "wikilink")                          | 槙原敬之                                                    | 槙原敬之                                                  | \-                                                           |
 |    |                                                                                                                 |                                                             |                                                         |                                                       |                                                              |
 
@@ -36,5 +29,4 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
   - CRAZY GONNA CRAZY（Music Clip + Off Shot）
 
-[Category:AAA的專輯](https://zh.wikipedia.org/wiki/Category:AAA的專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
+[Category:AAA的專輯](https://zh.wikipedia.org/wiki/Category:AAA的專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")

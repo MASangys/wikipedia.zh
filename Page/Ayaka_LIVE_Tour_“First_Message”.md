@@ -1,5 +1,4 @@
-「**ayaka LIVE Tour “First
-Message”**」為[日本歌手](../Page/日本.md "wikilink")[絢香於](../Page/絢香.md "wikilink")2007年4月4日發行的演唱會影像作品。
+「**ayaka LIVE Tour “First Message”**」為[日本](../Page/日本.md "wikilink")歌手[絢香](../Page/絢香.md "wikilink")於2007年4月4日發行的演唱會影像作品。
 
 ## 說明
 
@@ -33,6 +32,4 @@ Message”**」為[日本歌手](../Page/日本.md "wikilink")[絢香於](../Pag
 
 2006.5.26 ayaka -Acoustic Round Vol.1-"SOUNDS REAL" Digest ＠澀谷O-EAST
 
-[Category:2007年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2007年音樂相關影像作品 "wikilink")
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
-[Category:絢香影音作品](https://zh.wikipedia.org/wiki/Category:絢香影音作品 "wikilink")
+[Category:2007年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2007年音樂相關影像作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink") [Category:絢香影音作品](https://zh.wikipedia.org/wiki/Category:絢香影音作品 "wikilink")

@@ -1,5 +1,4 @@
-《**KJ2
-ZUKKOKE大脫走**》（），為[日本男偶像團體](../Page/日本.md "wikilink")[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")2張專輯。這是睽違1年3個月的新專輯，共發行初回初回限定盤A、初回限定盤B、通常盤等三個種類，所附贈的特典也不同。
+《**KJ2 ZUKKOKE大脫走**》（），為[日本](../Page/日本.md "wikilink")男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第2張專輯。這是睽違1年3個月的新專輯，共發行初回初回限定盤A、初回限定盤B、通常盤等三個種類，所附贈的特典也不同。
 
 採雙CD裝，DISC1為團體合唱曲13首，DISC2為成員各自創作的獨唱曲共7首。另外，初回限定盤B的DISC2還另外收錄一首歌曲「いつかまた...。」。初回限定盤A另附有一張DVD『ズッコケお宝パニック\!』。此為另外拍攝的短篇電影，成員們分別扮演角色扮演遊戲的不同人物，目的是取得位於終點的寶藏。初回限定盤B的DISC2另收錄一首歌曲「いつかまた...。」為在錄音室裡一刀未剪的錄音版本。另外還附贈『ズッコケお宝パニック\!』的角色卡片，共7種。
 
@@ -53,6 +52,4 @@ ZUKKOKE大脫走**》（），為[日本男偶像團體](../Page/日本.md "wiki
 8.  いつか、また...。 - 僅收錄於初回限定盤B
       - 作詞、作曲：飯田建彦
 
-[Category:關西傑尼斯8音樂專輯](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:2007年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:關西傑尼斯8音樂專輯](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:2007年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯週榜冠軍作品 "wikilink")

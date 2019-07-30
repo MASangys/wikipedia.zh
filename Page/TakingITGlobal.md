@@ -8,15 +8,11 @@ TIG的任务旨在于“通过传播与信息技术，提供学习、能力构�
 
 ## 历史
 
-1999年初建时，两位建立者柯瑞羅和傅迪克想“合作建立一个全球性的站点，为那些有意发展的青年们提供服务，让他们也可以参与别人的项目”
-\[8\]。于是他们就建立了一个在线社区，这是世界上最早的在线社区之一。2000年9月2日，正式运行一年后，（比[Facebook](../Page/Facebook.md "wikilink"),
-[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink") 和
-[Friendster](../Page/Friendster.md "wikilink")要早），这个站点吸引到了几千名青少年，他们来自超过100个国家\[9\]。随着TakingITGlobal服务和程序的演进，柯瑞羅现在称之为“一个平台，在上面年轻人可以以合作的方式做很多事情，诸如开发项目，学习或者辩论议题，影响决定过程（主要是在那些被直接影响的人当中）。\[10\]
+1999年初建时，两位建立者柯瑞羅和傅迪克想“合作建立一个全球性的站点，为那些有意发展的青年们提供服务，让他们也可以参与别人的项目” \[8\]。于是他们就建立了一个在线社区，这是世界上最早的在线社区之一。2000年9月2日，正式运行一年后，（比[Facebook](../Page/Facebook.md "wikilink"), [MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink") 和 [Friendster](../Page/Friendster.md "wikilink")要早），这个站点吸引到了几千名青少年，他们来自超过100个国家\[9\]。随着TakingITGlobal服务和程序的演进，柯瑞羅现在称之为“一个平台，在上面年轻人可以以合作的方式做很多事情，诸如开发项目，学习或者辩论议题，影响决定过程（主要是在那些被直接影响的人当中）。\[10\]
 
 ## 程序
 
-TIG最主要提供在线社区，这个社区“给了用户对社会问题、经济问题和环境问题一个更深入的认识”，而且“在知与行之间架起了一座桥梁”，因此“得到了更成熟的理解”。\[11\]用户可以使用一大批工具包括管理[projects](http://www.tigweb.org/action/projects)，参与[discussion
-boards](http://discuss.tigweb.org)，签署请愿以及写[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")。\[12\]
+TIG最主要提供在线社区，这个社区“给了用户对社会问题、经济问题和环境问题一个更深入的认识”，而且“在知与行之间架起了一座桥梁”，因此“得到了更成熟的理解”。\[11\]用户可以使用一大批工具包括管理[projects](http://www.tigweb.org/action/projects)，参与[discussion boards](http://discuss.tigweb.org)，签署请愿以及写[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")。\[12\]
 
 ## 外部链接
 
@@ -24,8 +20,7 @@ boards](http://discuss.tigweb.org)，签署请愿以及写[博客](https://zh.wi
 
 ## 参考资料
 
-[Category:慈善組織](https://zh.wikipedia.org/wiki/Category:慈善組織 "wikilink")
-[Category:加拿大组织](https://zh.wikipedia.org/wiki/Category:加拿大组织 "wikilink")
+[Category:慈善組織](https://zh.wikipedia.org/wiki/Category:慈善組織 "wikilink") [Category:加拿大组织](https://zh.wikipedia.org/wiki/Category:加拿大组织 "wikilink")
 
 1.  \[ <http://www.tigweb.org/about/who/weare/founders.html>\]
 
@@ -40,18 +35,12 @@ boards](http://discuss.tigweb.org)，签署请愿以及写[博客](https://zh.wi
 
 7.  [TIG Objectives](http://www.tigweb.org/about/why/objectives.html)
 
-8.  Azam, Sharlene. "They are IT ; Entrepreneurs Jennifer Corriero and
-    Michael Furdyk want to connect youth with technology." *Toronto
-    Star.* August 22, 2000, F01
+8.  Azam, Sharlene. "They are IT ; Entrepreneurs Jennifer Corriero and Michael Furdyk want to connect youth with technology." *Toronto Star.* August 22, 2000, F01
 
-9.  Frank, Steven (October 12, 2001). "Helping Hands". *Time Magazine*,
-    p. 67.
+9.  Frank, Steven (October 12, 2001). "Helping Hands". *Time Magazine*, p. 67.
 
 10. e-NBFC Report, page 30. The Baller Herbst Law Group, June 2008.
 
-11. ["TakingITGlobal: Adding Social Change to the Curriculum"
-    Podtech.net.
-    November 26, 2007](http://www.podtech.net/home/4627/takingitglobal-adding-social-change-to-the-curriculum)
-
+11. ["TakingITGlobal: Adding Social Change to the Curriculum" Podtech.net. November 26, 2007](http://www.podtech.net/home/4627/takingitglobal-adding-social-change-to-the-curriculum)
 
 12.

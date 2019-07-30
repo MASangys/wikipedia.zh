@@ -1,15 +1,12 @@
-**now芒果台**（）是[now寬頻電視與](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[湖南衛視合辦的一條](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")[香港中文資訊娛樂頻道兼主打頻道](../Page/香港.md "wikilink")，於2011年12月12日晚上9時正啟播。該頻道會播放湖南衛視的綜藝娛樂及資訊節目。
+**now芒果台**（）是[now寬頻電視與](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[湖南衛視合辦的一條](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")[香港](../Page/香港.md "wikilink")中文資訊娛樂頻道兼主打頻道，於2011年12月12日晚上9時正啟播。該頻道會播放湖南衛視的綜藝娛樂及資訊節目。
 
 ## 歷史與發展
 
-2011年7月7日，湖南衛視國際頻道從[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")、[香港有線電視和](../Page/香港有線電視.md "wikilink")[香港寬頻bbTV當中停播](../Page/香港寬頻bbTV.md "wikilink")，為擴大在香港的市場力度。
+2011年7月7日，湖南衛視國際頻道從[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")、[香港有線電視](../Page/香港有線電視.md "wikilink")和[香港寬頻bbTV](../Page/香港寬頻bbTV.md "wikilink")當中停播，為擴大在香港的市場力度。
 
-2011年12月12日，與now TV合辦的now芒果台在103頻道開播。所謂的節目編排框架與湖南國際頻道相似，節目以國語廣播，廣告是now
-TV和芒果節目宣傳片，以粵語廣播。湖南衛視同步直播所有大型直播節目在now芒果台依然同步直播，包括湘軍團隊製作的青海衛視《花兒朵朵》選秀節目，另外還有自辦節目《操控音樂》和now寬頻電視的自助服務。
+2011年12月12日，與now TV合辦的now芒果台在103頻道開播。所謂的節目編排框架與湖南國際頻道相似，節目以國語廣播，廣告是now TV和芒果節目宣傳片，以粵語廣播。湖南衛視同步直播所有大型直播節目在now芒果台依然同步直播，包括湘軍團隊製作的青海衛視《花兒朵朵》選秀節目，另外還有自辦節目《操控音樂》和now寬頻電視的自助服務。
 
-2015年2月1日，該頻道終止播映並會被「**[now
-jelli](https://zh.wikipedia.org/wiki/now_jelli "wikilink")**」取代。停播原因為湖南衛視與now
-TV終止合作，且湖南衛視實行版權分銷制度，且湖南國際頻道也取消與湖南衛視大型直播節目的同步直播。
+2015年2月1日，該頻道終止播映並會被「**[now jelli](https://zh.wikipedia.org/wiki/now_jelli "wikilink")**」取代。停播原因為湖南衛視與now TV終止合作，且湖南衛視實行版權分銷制度，且湖南國際頻道也取消與湖南衛視大型直播節目的同步直播。
 
 ## 播放節目
 
@@ -28,7 +25,4 @@ TV終止合作，且湖南衛視實行版權分銷制度，且湖南國際頻道
   - [湖南卫视国际频道](https://zh.wikipedia.org/wiki/湖南卫视国际频道 "wikilink")
   - [湖南卫视](../Page/湖南卫视.md "wikilink")
 
-[Category:電視頻道](https://zh.wikipedia.org/wiki/Category:電視頻道 "wikilink")
-[Category:2011年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2011年成立的電視台或電視頻道 "wikilink")
-[Category:香港已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:香港已停播的電視頻道 "wikilink")
-[Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink")
+[Category:電視頻道](https://zh.wikipedia.org/wiki/Category:電視頻道 "wikilink") [Category:2011年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2011年成立的電視台或電視頻道 "wikilink") [Category:香港已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:香港已停播的電視頻道 "wikilink") [Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink")

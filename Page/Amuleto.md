@@ -192,8 +192,7 @@
 
   - [伊藤香奈子](../Page/伊藤香奈子.md "wikilink")（）
 
-  - [Afilia
-    Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")（）
+  - [Afilia Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")（）
 
 ### 歌手（Artist Room）
 
@@ -223,8 +222,7 @@
 
 ### 男性
 
-  - [伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎 "wikilink")（現所屬：[Mausu
-    Promotion](../Page/Mausu_Promotion.md "wikilink")）
+  - [伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎 "wikilink")（現所屬：[Mausu Promotion](../Page/Mausu_Promotion.md "wikilink")）
 
   -
   -
@@ -286,6 +284,4 @@
 
   -
 
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:amuleto](https://zh.wikipedia.org/wiki/Category:amuleto "wikilink")
+[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:amuleto](https://zh.wikipedia.org/wiki/Category:amuleto "wikilink")

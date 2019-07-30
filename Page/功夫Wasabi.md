@@ -1,18 +1,8 @@
-**功夫Wasabi**（英文：Kickin' It）是一部美國的武術題材喜劇電視影集，在[Disney
-XD於](https://zh.wikipedia.org/wiki/Disney_XD "wikilink")2011年6月13日首播\[1\]\[2\]。由[Jim
-O'Doherty所創作](https://zh.wikipedia.org/wiki/imdbname:0640691 "wikilink")，該系列被列為[TV-Y7](../Page/美国电视分级制度.md "wikilink")，內容關於一間在一開始缺乏表現的武術學院的空手道教練以及他的五位學生的故事。教練由Jason
-Earles扮演，五位學生分別由[Leo
-Howard](https://zh.wikipedia.org/wiki/:en:Leo_Howard "wikilink")、[Dylan
-Riley
-Snyder](https://zh.wikipedia.org/wiki/:en:Dylan_Riley_Snyder "wikilink")、[Mateo
-Arias](https://zh.wikipedia.org/wiki/imdbname:2062698 "wikilink")、[Olivia
-Holt和](https://zh.wikipedia.org/wiki/imdbname:3127051 "wikilink")[Alex
-Christian
-Jones扮演](https://zh.wikipedia.org/wiki/imdbname:4162375 "wikilink")\[3\]。在2011年9月20日，[迪士尼微型宣佈製作第二季的消息](https://zh.wikipedia.org/wiki/迪士尼微型 "wikilink")。\[4\]\[5\]台灣在2011年12月16日到2012年1月13日由台灣迪士尼以「週五首映館」特輯的模式在每週五21:00播出三集共播出15集，並於2012年1月16日開始每週一到週四20:30播出這15集中的一集。
+**功夫Wasabi**（英文：Kickin' It）是一部美國的武術題材喜劇電視影集，在[Disney XD於](https://zh.wikipedia.org/wiki/Disney_XD "wikilink")2011年6月13日首播\[1\]\[2\]。由[Jim O'Doherty所創作](https://zh.wikipedia.org/wiki/imdbname:0640691 "wikilink")，該系列被列為[TV-Y7](../Page/美国电视分级制度.md "wikilink")，內容關於一間在一開始缺乏表現的武術學院的空手道教練以及他的五位學生的故事。教練由Jason Earles扮演，五位學生分別由[Leo Howard](https://zh.wikipedia.org/wiki/:en:Leo_Howard "wikilink")、[Dylan Riley Snyder](https://zh.wikipedia.org/wiki/:en:Dylan_Riley_Snyder "wikilink")、[Mateo Arias](https://zh.wikipedia.org/wiki/imdbname:2062698 "wikilink")、[Olivia Holt和](https://zh.wikipedia.org/wiki/imdbname:3127051 "wikilink")[Alex Christian Jones扮演](https://zh.wikipedia.org/wiki/imdbname:4162375 "wikilink")\[3\]。在2011年9月20日，[迪士尼微型宣佈製作第二季的消息](https://zh.wikipedia.org/wiki/迪士尼微型 "wikilink")。\[4\]\[5\]台灣在2011年12月16日到2012年1月13日由台灣迪士尼以「週五首映館」特輯的模式在每週五21:00播出三集共播出15集，並於2012年1月16日開始每週一到週四20:30播出這15集中的一集。
 
 2013年8月，本劇獲得第4季續訂，成為迪士尼XD史上首個季數突破3季的影集。
 
-由於於2014年加入了[迪士尼頻道新影集](../Page/迪士尼頻道.md "wikilink")《[真的不是我](../Page/真的不是我.md "wikilink")》，因此其於第四季是以“客串”身分出演了3集，同時，本劇正式於2015年3月25日完結。
+由於於2014年加入了[迪士尼頻道](../Page/迪士尼頻道.md "wikilink")新影集《[真的不是我](../Page/真的不是我.md "wikilink")》，因此其於第四季是以“客串”身分出演了3集，同時，本劇正式於2015年3月25日完結。
 
 ## 源起
 
@@ -20,14 +10,12 @@ Jones扮演](https://zh.wikipedia.org/wiki/imdbname:4162375 "wikilink")\[3\]。�
 
 ## 角色
 
-  - **傑克**（Jack）
-    演員：[里奧·霍華德](https://zh.wikipedia.org/wiki/里奧·霍華德 "wikilink")
+  - **傑克**（Jack） 演員：[里奧·霍華德](https://zh.wikipedia.org/wiki/里奧·霍華德 "wikilink")
 
 <!-- end list -->
 
   -
-    一位新來的成員，有經驗的武道家和滑板客。他學習空手道的對象是他的祖父，也就是巴比哇沙比（Bobby
-    Wasabi）所有電影的武術指導。他對朋友忠誠並鼓勵他們做到最好。是小琪的男朋友。\[6\]
+    一位新來的成員，有經驗的武道家和滑板客。他學習空手道的對象是他的祖父，也就是巴比哇沙比（Bobby Wasabi）所有電影的武術指導。他對朋友忠誠並鼓勵他們做到最好。是小琪的男朋友。\[6\]
 
 <!-- end list -->
 
@@ -137,41 +125,18 @@ Jones扮演](https://zh.wikipedia.org/wiki/imdbname:4162375 "wikilink")\[3\]。�
   - [官方網站](http://disney.go.com/xd/kickinit/)
   - [功夫Wasabi在IMDb上的資料](http://www.imdb.com/title/tt1765622/)
   - [功夫Wasabi](https://web.archive.org/web/20111105064848/http://www.tv.com/shows/wasabi-warriors/)在[TV.com](../Page/TV.com.md "wikilink")
-  - [功夫Wasabi](http://www.tvguide.com/tvshows/kickin-it/326506)在[TV
-    Guide](https://zh.wikipedia.org/wiki/TV_Guide "wikilink")
+  - [功夫Wasabi](http://www.tvguide.com/tvshows/kickin-it/326506)在[TV Guide](https://zh.wikipedia.org/wiki/TV_Guide "wikilink")
 
-[Category:美國電視情景喜劇](https://zh.wikipedia.org/wiki/Category:美國電視情景喜劇 "wikilink")
-[Category:迪士尼電視劇](https://zh.wikipedia.org/wiki/Category:迪士尼電視劇 "wikilink")
-[Category:2008年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2008年開播的美國電視影集 "wikilink")
-[Category:2015年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2015年停播的美國電視影集 "wikilink")
-[Category:2012年電視劇集](https://zh.wikipedia.org/wiki/Category:2012年電視劇集 "wikilink")
-[Category:空手道題材作品](https://zh.wikipedia.org/wiki/Category:空手道題材作品 "wikilink")
-[Category:美国动作电视剧](https://zh.wikipedia.org/wiki/Category:美国动作电视剧 "wikilink")
-[Category:2011年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2011年停播的美國電視影集 "wikilink")
-[Category:加利福尼亞州背景電視節目](https://zh.wikipedia.org/wiki/Category:加利福尼亞州背景電視節目 "wikilink")
-[Category:專校背景作品](https://zh.wikipedia.org/wiki/Category:專校背景作品 "wikilink")
+[Category:美國電視情景喜劇](https://zh.wikipedia.org/wiki/Category:美國電視情景喜劇 "wikilink") [Category:迪士尼電視劇](https://zh.wikipedia.org/wiki/Category:迪士尼電視劇 "wikilink") [Category:2008年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2008年開播的美國電視影集 "wikilink") [Category:2015年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2015年停播的美國電視影集 "wikilink") [Category:2012年電視劇集](https://zh.wikipedia.org/wiki/Category:2012年電視劇集 "wikilink") [Category:空手道題材作品](https://zh.wikipedia.org/wiki/Category:空手道題材作品 "wikilink") [Category:美国动作电视剧](https://zh.wikipedia.org/wiki/Category:美国动作电视剧 "wikilink") [Category:2011年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2011年停播的美國電視影集 "wikilink") [Category:加利福尼亞州背景電視節目](https://zh.wikipedia.org/wiki/Category:加利福尼亞州背景電視節目 "wikilink") [Category:專校背景作品](https://zh.wikipedia.org/wiki/Category:專校背景作品 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [Disney XD Renews "Kickin' It' for a Second
-    Season](http://tvbythenumbers.zap2it.com/2011/09/21/disney-xd-renews-kickin-it-for-a-second-season/104454/)
-    *TV By The Numbers*. September 21, 2011
-6.  [Disney XD介紹Leo
-    Howard](http://www.disneyxdmedianet.com/web/showpage/showpage.aspx?program_id=3136029&type=howard)
-
-7.  [Disney XD介紹Dylan Riley
-    Snyder](http://www.disneyxdmedianet.com/web/showpage/showpage.aspx?program_id=3136029&type=snyder)
-
-8.  [Disney XD介紹Mateo
-    Arias](http://www.disneyxdmedianet.com/web/showpage/showpage.aspx?program_id=3136029&type=arias)
-
-9.  [Disney XD介紹Olivia
-    Holt](http://www.disneyxdmedianet.com/web/showpage/showpage.aspx?program_id=3136029&type=holt)
-
-10. [Disney XD介紹Alex Christian
-    Jones](http://www.disneyxdmedianet.com/web/showpage/showpage.aspx?program_id=3136029&type=jones)
-
-11. [Disney XD介紹Jason
-    Earles](http://www.disneyxdmedianet.com/web/showpage/showpage.aspx?program_id=3136029&type=earles)
+5.  [Disney XD Renews "Kickin' It' for a Second Season](http://tvbythenumbers.zap2it.com/2011/09/21/disney-xd-renews-kickin-it-for-a-second-season/104454/) *TV By The Numbers*. September 21, 2011
+6.  [Disney XD介紹Leo Howard](http://www.disneyxdmedianet.com/web/showpage/showpage.aspx?program_id=3136029&type=howard)
+7.  [Disney XD介紹Dylan Riley Snyder](http://www.disneyxdmedianet.com/web/showpage/showpage.aspx?program_id=3136029&type=snyder)
+8.  [Disney XD介紹Mateo Arias](http://www.disneyxdmedianet.com/web/showpage/showpage.aspx?program_id=3136029&type=arias)
+9.  [Disney XD介紹Olivia Holt](http://www.disneyxdmedianet.com/web/showpage/showpage.aspx?program_id=3136029&type=holt)
+10. [Disney XD介紹Alex Christian Jones](http://www.disneyxdmedianet.com/web/showpage/showpage.aspx?program_id=3136029&type=jones)
+11. [Disney XD介紹Jason Earles](http://www.disneyxdmedianet.com/web/showpage/showpage.aspx?program_id=3136029&type=earles)

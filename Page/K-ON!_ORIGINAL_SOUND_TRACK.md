@@ -1,5 +1,4 @@
-『**K-ON\! ORIGINAL SOUND
-TRACK**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。
+『**K-ON\! ORIGINAL SOUND TRACK**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。
 
 ## K-ON\! ORIGINAL SOUND TRACK
 
@@ -121,8 +120,7 @@ TRACK**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink
 
 ## K-ON\! MOVIE ORIGINAL SOUND TRACK
 
-『[K-ON\!
-劇場版](../Page/K-ON!_\(電影\).md "wikilink")』的原聲音樂。於2011年12月21日由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+『[K-ON\! 劇場版](../Page/K-ON!_\(電影\).md "wikilink")』的原聲音樂。於2011年12月21日由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
   - 收錄曲
 
@@ -170,8 +168,7 @@ TRACK**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink
 
 :\# London E
 
-:\#: 基於[綠洲樂隊](https://zh.wikipedia.org/wiki/綠洲樂隊 "wikilink")（Oasis）的「Put
-Yer Money Where Yer Mouth Is」，原曲收錄於專輯「」中。
+:\#: 基於[綠洲樂隊](https://zh.wikipedia.org/wiki/綠洲樂隊 "wikilink")（Oasis）的「Put Yer Money Where Yer Mouth Is」，原曲收錄於專輯「」中。
 
 :\# Yearning for the Far East
 
@@ -223,10 +220,4 @@ Yer Money Where Yer Mouth Is」，原曲收錄於專輯「」中。
   -
   -
   -
-[Category:2009年原聲帶](https://zh.wikipedia.org/wiki/Category:2009年原聲帶 "wikilink")
-[Category:2010年原聲帶](https://zh.wikipedia.org/wiki/Category:2010年原聲帶 "wikilink")
-[Category:2011年原聲帶](https://zh.wikipedia.org/wiki/Category:2011年原聲帶 "wikilink")
-[Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink")
-[Category:電影原聲帶](https://zh.wikipedia.org/wiki/Category:電影原聲帶 "wikilink")
-[Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink")
-[Category:波麗佳音原聲帶](https://zh.wikipedia.org/wiki/Category:波麗佳音原聲帶 "wikilink")
+[Category:2009年原聲帶](https://zh.wikipedia.org/wiki/Category:2009年原聲帶 "wikilink") [Category:2010年原聲帶](https://zh.wikipedia.org/wiki/Category:2010年原聲帶 "wikilink") [Category:2011年原聲帶](https://zh.wikipedia.org/wiki/Category:2011年原聲帶 "wikilink") [Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink") [Category:電影原聲帶](https://zh.wikipedia.org/wiki/Category:電影原聲帶 "wikilink") [Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink") [Category:波麗佳音原聲帶](https://zh.wikipedia.org/wiki/Category:波麗佳音原聲帶 "wikilink")

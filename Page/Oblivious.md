@@ -1,6 +1,4 @@
-《**oblivious**》是[Kalafina](../Page/Kalafina.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年1月23日由[SME
-Records發行](../Page/SME_Records.md "wikilink")。\[1\]
-收錄了劇場版動畫《[空之境界](../Page/空之境界.md "wikilink")》第一章至第三章的片尾主題歌。另外亦發行了本作品的[Remix版本](https://zh.wikipedia.org/wiki/Remix "wikilink")《Re/oblivious》。
+《**oblivious**》是[Kalafina](../Page/Kalafina.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年1月23日由[SME Records發行](../Page/SME_Records.md "wikilink")。\[1\] 收錄了劇場版動畫《[空之境界](../Page/空之境界.md "wikilink")》第一章至第三章的片尾主題歌。另外亦發行了本作品的[Remix版本](https://zh.wikipedia.org/wiki/Remix "wikilink")《Re/oblivious》。
 
 電視廣告的旁述為聲優[高垣彩陽](../Page/高垣彩陽.md "wikilink")。原作小說《空之境界》的作者[奈須茸評價她掌握到了原作的氣氛](https://zh.wikipedia.org/wiki/奈須茸 "wikilink")。
 
@@ -21,8 +19,7 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
 ## Re/oblivious
 
-《**Re/oblivious**》為Kalafina第1張單曲《oblivious》的完全生産限定Remix迷你專輯。\[2\]
-於2008年4月23日由SME Records發行。這是製作人梶浦由記的第一次Remix。
+《**Re/oblivious**》為Kalafina第1張單曲《oblivious》的完全生産限定Remix迷你專輯。\[2\] 於2008年4月23日由SME Records發行。這是製作人梶浦由記的第一次Remix。
 
 ## 收錄曲
 
@@ -61,8 +58,7 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
   - [Kalafina 官方網站](http://www.sonymusic.co.jp/Music/Info/kalafina/)
 
-[Category:Kalafina單曲](https://zh.wikipedia.org/wiki/Category:Kalafina單曲 "wikilink")
-[Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
+[Category:Kalafina單曲](https://zh.wikipedia.org/wiki/Category:Kalafina單曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
 
 1.
 2.  所有曲目皆來自該單曲。

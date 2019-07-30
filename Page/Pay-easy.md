@@ -1,4 +1,4 @@
-**Pay-easy**（或稱**付帳便**）是[日本採用](../Page/日本.md "wikilink")[網路銀行與](../Page/網路銀行.md "wikilink")[自動櫃員機等的方式](../Page/自動櫃員機.md "wikilink")，來進行的[電子支付系統](https://zh.wikipedia.org/wiki/電子支付 "wikilink")。
+**Pay-easy**（或稱**付帳便**）是[日本](../Page/日本.md "wikilink")採用[網路銀行](../Page/網路銀行.md "wikilink")與[自動櫃員機](../Page/自動櫃員機.md "wikilink")等的方式，來進行的[電子支付系統](https://zh.wikipedia.org/wiki/電子支付 "wikilink")。
 
 ## 概要
 
@@ -6,11 +6,9 @@ Pay-easy是由設立日本多元支付網路營運機構（）的富士銀行（
 
 本來Pay-easy是從存款收納機關到金融機關的收納委託契約基礎的櫃臺窗口為對象，適用在公共規費的繳納系統，進而中央與地方政府的稅金、手續費繳納、電信公司的帳單付款、信用卡費、人壽保險、意外險等保險費的支付都可以使用。
 
-Pay-easy在應用面上，初期富士銀行是與機票結算服務有關的[全日空](https://zh.wikipedia.org/wiki/全日空 "wikilink")，對於日本國內線導入無紙機票的支付方式。近期，已經開始在通訊費、JR
-Highway Bus的交通費、學費等月租型利用銀行轉帳的領域積極使用。
+Pay-easy在應用面上，初期富士銀行是與機票結算服務有關的[全日空](https://zh.wikipedia.org/wiki/全日空 "wikilink")，對於日本國內線導入無紙機票的支付方式。近期，已經開始在通訊費、JR Highway Bus的交通費、學費等月租型利用銀行轉帳的領域積極使用。
 
-Pay-easy可作為代替預付卡的收據的手段，比方[SoftBank
-Mobile的預付卡行動電話](https://zh.wikipedia.org/wiki/SoftBank_Mobile "wikilink")「」、預付型虛擬貨幣、作為支付方式之一，透過Pay-easy的ATM來交易，預付的帳號會在ATM收據的訊息欄中列印註明。
+Pay-easy可作為代替預付卡的收據的手段，比方[SoftBank Mobile的預付卡行動電話](https://zh.wikipedia.org/wiki/SoftBank_Mobile "wikilink")「」、預付型虛擬貨幣、作為支付方式之一，透過Pay-easy的ATM來交易，預付的帳號會在ATM收據的訊息欄中列印註明。
 
 ## 特徵
 
@@ -22,8 +20,7 @@ Mobile的預付卡行動電話](https://zh.wikipedia.org/wiki/SoftBank_Mobile "w
 
 ## Pay-easy帳號轉帳服務
 
-2004年時，各銀行申辦[信用卡](../Page/信用卡.md "wikilink")、[人壽保險](../Page/人壽保險.md "wikilink")、[意外險等手續費轉帳手續](https://zh.wikipedia.org/wiki/意外險 "wikilink")，已經可以用信用卡的刷卡設備、J-Debit等相同的手續，透過Pay-easy的設備來進行即時轉帳手續。申請書不需要蓋帳號印章鑑，即可進行轉帳手續。（由[NTT
-Data與](https://zh.wikipedia.org/wiki/NTT_Data "wikilink")[CAFIS開發](https://zh.wikipedia.org/wiki/CAFIS "wikilink")）
+2004年時，各銀行申辦[信用卡](../Page/信用卡.md "wikilink")、[人壽保險](../Page/人壽保險.md "wikilink")、[意外險等手續費轉帳手續](https://zh.wikipedia.org/wiki/意外險 "wikilink")，已經可以用信用卡的刷卡設備、J-Debit等相同的手續，透過Pay-easy的設備來進行即時轉帳手續。申請書不需要蓋帳號印章鑑，即可進行轉帳手續。（由[NTT Data與](https://zh.wikipedia.org/wiki/NTT_Data "wikilink")[CAFIS開發](https://zh.wikipedia.org/wiki/CAFIS "wikilink")）
 
 Pay-easy也可以透過[FOMA的電信封包網路的手持設備](https://zh.wikipedia.org/wiki/FOMA "wikilink")，保險業務員可以在家戶，對於保險業務進行相關的手續。
 

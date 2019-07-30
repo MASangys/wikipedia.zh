@@ -1,6 +1,4 @@
-**Team B 3rd Stage“睡衣兜风”**（）是[AKB48](../Page/AKB48.md "wikilink") Team
-B的第3台[剧场公演](../Page/AKB48劇場公演.md "wikilink")、以及[SKE48](../Page/SKE48.md "wikilink")
-Team E的第1台劇場公演。
+**Team B 3rd Stage“睡衣兜风”**（）是[AKB48](../Page/AKB48.md "wikilink") Team B的第3台[剧场公演](../Page/AKB48劇場公演.md "wikilink")、以及[SKE48](../Page/SKE48.md "wikilink") Team E的第1台劇場公演。
 
 ## 概要
 
@@ -15,8 +13,7 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
     所有AKB48公演都以這首歌作開始。
 1.  《初日》
     （作词：秋元康　作曲：岡田実音　编曲：市川裕一）
-    AKB48
-    第12張单曲《[驚喜之淚！](https://zh.wikipedia.org/wiki/驚喜之淚！ "wikilink")》的B面曲。
+    AKB48 第12張单曲《[驚喜之淚！](https://zh.wikipedia.org/wiki/驚喜之淚！ "wikilink")》的B面曲。
 2.  《必杀瞬间移动》（）
     （作词：秋元康　作曲：上杉洋史　编曲：、稲留春雄）
 3.  《不开心的美人鱼》（）
@@ -75,7 +72,7 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
       - 井上於9月29日畢業
       - 佐伯自2009年1月8日的演出後開始長期休養（其後畢業）
       - 小原於2009年1月24日由研究生升格；早乙女於2009年1月25日起降格至研究生
-      - 2009年1月29日公演结束後，[中塚智實也由研究生升格](../Page/中塚智實.md "wikilink")，但升格後未參加本公演演出
+      - 2009年1月29日公演结束後，[中塚智實](../Page/中塚智實.md "wikilink")也由研究生升格，但升格後未參加本公演演出
 
 <!-- end list -->
 
@@ -90,8 +87,7 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
 
   - 公演期間：2011年1月16日－2012年3月28日
   - 出演成員
-  - Team
-    E：[磯原杏華](../Page/磯原杏華.md "wikilink")、[上野圭澄](../Page/上野圭澄.md "wikilink")、[梅本圓](../Page/梅本圓.md "wikilink")（）、[金子栞](../Page/金子栞.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")、[小林亞實](../Page/小林亞實.md "wikilink")、[酒井萌衣](https://zh.wikipedia.org/wiki/酒井萌衣 "wikilink")、[柴田阿彌](https://zh.wikipedia.org/wiki/柴田阿彌 "wikilink")、[高木由麻奈](../Page/高木由麻奈.md "wikilink")、[竹内舞](https://zh.wikipedia.org/wiki/竹内舞 "wikilink")、[都築里佳](https://zh.wikipedia.org/wiki/都築里佳 "wikilink")、[中村優花](../Page/中村優花.md "wikilink")、[原望奈美](../Page/原望奈美.md "wikilink")、[間野春香](https://zh.wikipedia.org/wiki/間野春香 "wikilink")、[山下由佳里](https://zh.wikipedia.org/wiki/山下由佳里 "wikilink")（）、[山田惠里伽](../Page/山田惠里伽.md "wikilink")
+  - Team E：[磯原杏華](../Page/磯原杏華.md "wikilink")、[上野圭澄](../Page/上野圭澄.md "wikilink")、[梅本圓](../Page/梅本圓.md "wikilink")（）、[金子栞](../Page/金子栞.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")、[小林亞實](../Page/小林亞實.md "wikilink")、[酒井萌衣](https://zh.wikipedia.org/wiki/酒井萌衣 "wikilink")、[柴田阿彌](https://zh.wikipedia.org/wiki/柴田阿彌 "wikilink")、[高木由麻奈](../Page/高木由麻奈.md "wikilink")、[竹内舞](https://zh.wikipedia.org/wiki/竹内舞 "wikilink")、[都築里佳](https://zh.wikipedia.org/wiki/都築里佳 "wikilink")、[中村優花](../Page/中村優花.md "wikilink")、[原望奈美](../Page/原望奈美.md "wikilink")、[間野春香](https://zh.wikipedia.org/wiki/間野春香 "wikilink")、[山下由佳里](https://zh.wikipedia.org/wiki/山下由佳里 "wikilink")（）、[山田惠里伽](../Page/山田惠里伽.md "wikilink")
   - 成員增減：
       - 中村优花在2011年12月31日毕业（最后一次出席公演是在12月27日）
       - 间野春香与山田恵里伽两人在2012年4月15日毕业，但本公演的千秋乐是两人的毕业公演。
@@ -105,20 +101,14 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
 
 ## JKT48 1st Stage「睡衣兜風」公演
 
-  - [印度尼西亚语的公演名称是](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")“Pajama
-    Drive”
+  - [印度尼西亚语的公演名称是](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")“Pajama Drive”
 
 ### 1期生
 
   - 公演期間：2012年5月17日\[1\] - 12月13日\[2\]
   - 出演成員
       -
-        Ayana Shahab、Ghaida Farisya、Cleopatra、Jessica Vania、Jessica
-        Veranda、Shania Junianatha、Stella Cornelia、Sendy Ariani、Sonya
-        Pandarmawan、Devi Kinal Putri、Nabilah Ratna Ayu Azalia、Neneng
-        Rosediana、Beby Chaesara Anadila、Melody Nurramdhani Laksani、Rezky
-        Wiranti Dhike、[Rena
-        Nozawa](https://zh.wikipedia.org/wiki/野泽玲奈 "wikilink")（初日成員）
+        Ayana Shahab、Ghaida Farisya、Cleopatra、Jessica Vania、Jessica Veranda、Shania Junianatha、Stella Cornelia、Sendy Ariani、Sonya Pandarmawan、Devi Kinal Putri、Nabilah Ratna Ayu Azalia、Neneng Rosediana、Beby Chaesara Anadila、Melody Nurramdhani Laksani、Rezky Wiranti Dhike、[Rena Nozawa](https://zh.wikipedia.org/wiki/野泽玲奈 "wikilink")（初日成員）
   - 分組曲負責成員
       - 天使的尾巴（Rena、Dhike、Nabilah）
       - 睡衣兜風（Shania、Sendy、Ayana）
@@ -134,11 +124,7 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
   - 公演期間：2013年1月11日 - 5月12日\[3\]
   - 出演成員
       -
-        Pertunjukan hari pertama: Alicia Chanzia、Annisa Athia、Cindy
-        Yuvia、Dellia Erdita、Dwi Putri Bonita、Jennifer Hanna、Jennifer
-        Rachel Natasya、Nadhifa Karimah、Nadila Cindi
-        Wantari、Natalia、Noella Sisterina、Ratu Vienny Fitrilya、Riskha
-        Fairunissa、Rona Anggreani、Thalia、Viviyona Apriani（初日成員）
+        Pertunjukan hari pertama: Alicia Chanzia、Annisa Athia、Cindy Yuvia、Dellia Erdita、Dwi Putri Bonita、Jennifer Hanna、Jennifer Rachel Natasya、Nadhifa Karimah、Nadila Cindi Wantari、Natalia、Noella Sisterina、Ratu Vienny Fitrilya、Riskha Fairunissa、Rona Anggreani、Thalia、Viviyona Apriani（初日成員）
   - 分組曲負責成員
       - 天使的尾巴（Cindy、Rachel、Nadila）
       - 睡衣兜風（Rona、Dellia、Thalia）
@@ -153,24 +139,16 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
   - 公演期間：2013年9月7日 - 8日
   - 出演成員
       -
-        Beby Chaesara Anadila、Cindy Yuvia、Devi Kinal Putri、Frieska
-        Anastasia Laksani、Ghaida Farisya、[Haruka
-        Nakagawa](../Page/仲川遥香.md "wikilink")、Jennifer
-        Hanna、Jessica Veranda、Nabilah Ratna Ayu Azalia、Ratu Vienny
-        Fitrilya、Rezky Wiranti Dhike、Rica Leyona、Sendy Ariani、Shania
-        Junianatha、Shinta Naomi、Stella Cornelia
+        Beby Chaesara Anadila、Cindy Yuvia、Devi Kinal Putri、Frieska Anastasia Laksani、Ghaida Farisya、[Haruka Nakagawa](../Page/仲川遥香.md "wikilink")、Jennifer Hanna、Jessica Veranda、Nabilah Ratna Ayu Azalia、Ratu Vienny Fitrilya、Rezky Wiranti Dhike、Rica Leyona、Sendy Ariani、Shania Junianatha、Shinta Naomi、Stella Cornelia
     <!-- end list -->
-      - 背景舞者是Ayana Shahab、Cindy Gulla、Delima Rizky、Diasta
-        Priswarini、Melody Nurramdhani Laksani、Sonya Pandarmawan六人
+      - 背景舞者是Ayana Shahab、Cindy Gulla、Delima Rizky、Diasta Priswarini、Melody Nurramdhani Laksani、Sonya Pandarmawan六人
   - 分組曲負責成員
       - 天使的尾巴（Ghaida、Rica、Nabilah）
       - 睡衣兜风（Jennifer H、Beby、Cindy）
       - 純情主義（Nakagawa、Ratu、Shania）
       - 无望之泪（Sendy、Stella）
       - 镜中的圣女贞德（Devi、Jessica Ve、Rezky、Shinta、Frieska）
-  - 整场演出的成员名单（包括分组曲出演名单与背景舞者）由粉丝投票决定，由于日程问题，兼任AKB48的[Aki
-    Takajo与](https://zh.wikipedia.org/wiki/高城亚树 "wikilink")[Rena
-    Nozawa未列入候选名单](https://zh.wikipedia.org/wiki/野泽玲奈 "wikilink")。
+  - 整场演出的成员名单（包括分组曲出演名单与背景舞者）由粉丝投票决定，由于日程问题，兼任AKB48的[Aki Takajo与](https://zh.wikipedia.org/wiki/高城亚树 "wikilink")[Rena Nozawa未列入候选名单](https://zh.wikipedia.org/wiki/野泽玲奈 "wikilink")。
 
 ## AKB48 研究生公演“睡衣兜风”
 
@@ -180,13 +158,10 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
         [相笠萌](../Page/相笠萌.md "wikilink")、[市川愛美](../Page/市川愛美.md "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")、[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[大森美優](../Page/大森美優.md "wikilink")、[大和田南那](../Page/大和田南那.md "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[冈田奈奈](https://zh.wikipedia.org/wiki/冈田奈奈_\(AKB48\) "wikilink")、[北澤早紀](../Page/北澤早紀.md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[篠崎彩奈](../Page/篠崎彩奈.md "wikilink")、[高島祐利奈](https://zh.wikipedia.org/wiki/高島祐利奈 "wikilink")、[土保瑞希](../Page/土保瑞希.md "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[橋本耀](../Page/橋本耀.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")、[福岡聖菜](../Page/福岡聖菜.md "wikilink")、[前田美月](https://zh.wikipedia.org/wiki/前田美月 "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")（）、[向井地美音](../Page/向井地美音.md "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")、[湯本亚美](https://zh.wikipedia.org/wiki/湯本亚美 "wikilink")
         2013年4月28日时、大森升格至Team B、佐佐木升格至Team A、平田升格至Team K\[5\]\[6\]。
         15期研究生市川、大和田、込山、佐藤、土保、福岡、向井地、湯本八人从2013年6月9日的公演开始演出\[7\]\[8\]。
-        2013年8月24日时、相笠、岩立、内山、梅田綾、岡田彩、岡田奈、北澤、小嶋真、篠崎、高島、西野、橋本、前田美、峯岸、村山、茂木（13期、14期研究生全員与峯岸）升格到了新设立的第二代Team
-        4\[9\]。升格之后，这些成员仍然继续出席本公演，使得这一公演成为Team 4与15期研究生的合同公演\[10\]。
+        2013年8月24日时、相笠、岩立、内山、梅田綾、岡田彩、岡田奈、北澤、小嶋真、篠崎、高島、西野、橋本、前田美、峯岸、村山、茂木（13期、14期研究生全員与峯岸）升格到了新设立的第二代Team 4\[9\]。升格之后，这些成员仍然继续出席本公演，使得这一公演成为Team 4与15期研究生的合同公演\[10\]。
     <!-- end list -->
       - 大森、佐佐木、平田昇格后至15期研究生出演之前这段时間（2013年5月）中的一部分公演由正規成员同SKE48的成员支援出演。
-          - 5月5日：[菊地彩香](../Page/菊地彩香.md "wikilink")（Team
-            A）<ref>菊地是在008年7月31日的公演以来（当時是以本名菊地彩香作为Team
-            B成员出演）
+          - 5月5日：[菊地彩香](../Page/菊地彩香.md "wikilink")（Team A）<ref>菊地是在008年7月31日的公演以来（当時是以本名菊地彩香作为Team B成员出演）
 
 約5年后再次出演“睡衣兜风”公演。</ref>、片山陽加（Team B）\[11\]
 
@@ -261,9 +236,7 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
       -
         [生駒里奈](../Page/生駒里奈.md "wikilink")、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[大島涼花](../Page/大島涼花.md "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、[大和田南那](../Page/大和田南那.md "wikilink")、[小笠原茉由](../Page/小笠原茉由.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[川本紗矢](../Page/川本紗矢.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[高城亚樹](https://zh.wikipedia.org/wiki/高城亚樹 "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[朝長美樱](https://zh.wikipedia.org/wiki/朝長美樱 "wikilink")、[名取稚菜](../Page/名取稚菜.md "wikilink")、[野澤玲奈](../Page/野澤玲奈.md "wikilink")、[橋本耀](../Page/橋本耀.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")、[福岡聖菜](../Page/福岡聖菜.md "wikilink")、[橫島亞衿](https://zh.wikipedia.org/wiki/橫島亞衿 "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")
     <!-- end list -->
-      - 其他队伍成员：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、[湯本亚美](https://zh.wikipedia.org/wiki/湯本亚美 "wikilink")（以上Team
-        K）、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[前田美月](https://zh.wikipedia.org/wiki/前田美月 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")（以上Team
-        4）
+      - 其他队伍成员：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、[湯本亚美](https://zh.wikipedia.org/wiki/湯本亚美 "wikilink")（以上Team K）、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[前田美月](https://zh.wikipedia.org/wiki/前田美月 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")（以上Team 4）
   - 分组曲負責成員（◎代表center） （每场公演中由其中一名成员演出）
 
 | 分組曲     | 公演初日演唱成員              | 代役之表演者               |
@@ -289,8 +262,7 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
 
   - 公演期間：2014年5月30日－11月1日
   - 出演成員（初日成员）
-  - Team
-    SII：[陈观慧](https://zh.wikipedia.org/wiki/陈观慧 "wikilink")、[陈思](https://zh.wikipedia.org/wiki/陈思 "wikilink")、[戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")、[蒋芸](https://zh.wikipedia.org/wiki/蒋芸 "wikilink")、[孔肖吟](../Page/孔肖吟.md "wikilink")、[李宇琪](../Page/李宇琪.md "wikilink")、[莫寒](../Page/莫寒.md "wikilink")、[钱蓓婷](https://zh.wikipedia.org/wiki/钱蓓婷 "wikilink")、[邱欣怡](../Page/邱欣怡.md "wikilink")、[孙芮](../Page/孙芮.md "wikilink")、[温晶婕](https://zh.wikipedia.org/wiki/温晶婕 "wikilink")、[吴哲晗](../Page/吴哲晗.md "wikilink")、[徐晨辰](https://zh.wikipedia.org/wiki/徐晨辰 "wikilink")、[许佳琪](../Page/许佳琪.md "wikilink")、[徐子轩](https://zh.wikipedia.org/wiki/徐子轩 "wikilink")、[张语格](../Page/张语格.md "wikilink")、[赵嘉敏](https://zh.wikipedia.org/wiki/赵嘉敏 "wikilink")
+  - Team SII：[陈观慧](https://zh.wikipedia.org/wiki/陈观慧 "wikilink")、[陈思](https://zh.wikipedia.org/wiki/陈思 "wikilink")、[戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")、[蒋芸](https://zh.wikipedia.org/wiki/蒋芸 "wikilink")、[孔肖吟](../Page/孔肖吟.md "wikilink")、[李宇琪](../Page/李宇琪.md "wikilink")、[莫寒](../Page/莫寒.md "wikilink")、[钱蓓婷](https://zh.wikipedia.org/wiki/钱蓓婷 "wikilink")、[邱欣怡](../Page/邱欣怡.md "wikilink")、[孙芮](../Page/孙芮.md "wikilink")、[温晶婕](https://zh.wikipedia.org/wiki/温晶婕 "wikilink")、[吴哲晗](../Page/吴哲晗.md "wikilink")、[徐晨辰](https://zh.wikipedia.org/wiki/徐晨辰 "wikilink")、[许佳琪](../Page/许佳琪.md "wikilink")、[徐子轩](https://zh.wikipedia.org/wiki/徐子轩 "wikilink")、[张语格](../Page/张语格.md "wikilink")、[赵嘉敏](https://zh.wikipedia.org/wiki/赵嘉敏 "wikilink")
   - 分組曲負責成員
       - 《天使的尾巴》：邱欣怡、张语格、赵嘉敏
       - 《不眠之夜》：李宇琪、莫寒、许佳琪
@@ -303,8 +275,7 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
 
   - 公演期間：2016年4月30日－12月17日
   - 出演成員（初日成员）
-  - Team
-    E：畢夢媛、陳姣荷、陳倩楠、馮思佳、林堃、劉勝男、李詩彥、李想、羅雪麗、李媛媛、李梓、馬玉靈、蘇杉杉、頊澌煬、易妍倩、張笑盈、鄭一凡
+  - Team E：畢夢媛、陳姣荷、陳倩楠、馮思佳、林堃、劉勝男、李詩彥、李想、羅雪麗、李媛媛、李梓、馬玉靈、蘇杉杉、頊澌煬、易妍倩、張笑盈、鄭一凡
   - 分組曲負責成員
       - 《天使的尾巴》：李詩彥、鄭一凡、易妍倩
       - 《不眠之夜》：馬玉靈、李想、陳倩楠
@@ -316,9 +287,7 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
 
   - 公演期间：2016年5月28日 -
   - 出演成员：[荻野由佳](../Page/荻野由佳.md "wikilink")、[小熊倫實](https://zh.wikipedia.org/wiki/小熊倫實 "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[加藤美南](../Page/加藤美南.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[佐藤杏樹](https://zh.wikipedia.org/wiki/佐藤杏樹 "wikilink")、[菅原里子](https://zh.wikipedia.org/wiki/菅原里子 "wikilink")（）、[高倉萌香](https://zh.wikipedia.org/wiki/高倉萌香 "wikilink")、[太野彩香](https://zh.wikipedia.org/wiki/太野彩香 "wikilink")、[中井莉加](../Page/中井莉加.md "wikilink")（）、[西潟茉莉奈](../Page/西潟茉莉奈.md "wikilink")、[長谷川玲奈](https://zh.wikipedia.org/wiki/長谷川玲奈 "wikilink")、[本間日陽](../Page/本間日陽.md "wikilink")、[村雲颯香](https://zh.wikipedia.org/wiki/村雲颯香 "wikilink")、[山口真帆](../Page/山口真帆.md "wikilink")、[山田野绘画](https://zh.wikipedia.org/wiki/山田野绘画 "wikilink")
-      - 代演的研究生：
-        [角尤利娅](https://zh.wikipedia.org/wiki/角尤利娅 "wikilink")（）、[日下部爱菜](https://zh.wikipedia.org/wiki/日下部爱菜 "wikilink")、[清司丽菜](https://zh.wikipedia.org/wiki/清司丽菜 "wikilink")、[高桥真生](https://zh.wikipedia.org/wiki/高桥真生 "wikilink")、[中村歩加](https://zh.wikipedia.org/wiki/中村歩加 "wikilink")、[奈良未遥](https://zh.wikipedia.org/wiki/奈良未遥 "wikilink")、[西村菜那子](https://zh.wikipedia.org/wiki/西村菜那子 "wikilink")、
-        [宫岛亚弥](https://zh.wikipedia.org/wiki/宫岛亚弥 "wikilink")
+      - 代演的研究生： [角尤利娅](https://zh.wikipedia.org/wiki/角尤利娅 "wikilink")（）、[日下部爱菜](https://zh.wikipedia.org/wiki/日下部爱菜 "wikilink")、[清司丽菜](https://zh.wikipedia.org/wiki/清司丽菜 "wikilink")、[高桥真生](https://zh.wikipedia.org/wiki/高桥真生 "wikilink")、[中村歩加](https://zh.wikipedia.org/wiki/中村歩加 "wikilink")、[奈良未遥](https://zh.wikipedia.org/wiki/奈良未遥 "wikilink")、[西村菜那子](https://zh.wikipedia.org/wiki/西村菜那子 "wikilink")、 [宫岛亚弥](https://zh.wikipedia.org/wiki/宫岛亚弥 "wikilink")
   - 分组曲担当（◎代表center）
 
 | 分組曲     | Team NIII演唱成員 | 代役之表演者     |
@@ -396,8 +365,7 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
 ### Team B 3rd Stage“睡衣兜风”
 
   - 收錄成員
-      - Team
-        B：浦野一美、多田愛佳、柏木由紀、片山陽加、佐伯美香、指原莉乃、早乙女美樹、田名部生來、仲川遙香、仲谷明香、仁藤萌乃、野口玲菜、平嶋夏海、松岡由紀、米澤瑠美、渡邊麻友
+      - Team B：浦野一美、多田愛佳、柏木由紀、片山陽加、佐伯美香、指原莉乃、早乙女美樹、田名部生來、仲川遙香、仲谷明香、仁藤萌乃、野口玲菜、平嶋夏海、松岡由紀、米澤瑠美、渡邊麻友
   - 收錄曲目
     1.  overture
     2.  初日
@@ -447,16 +415,8 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
 
   - 收录成员
       -
-        1期生：Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal
-        Putri、Gabriela Margareth Warouw、Ghaida Farisya、Jessica
-        Vania、Jessica Veranda、Melody Nurramdhani Laksani、Rena
-        Nozawa、Rezky Wiranti Dhike、Rica Leyona、Sendy Ariani、Shania
-        Junianatha、Sonia Natalia、Stella Cornelia
-        2期生：Alicia Chanzia、Annisa Athia、Cindy Yuvia、Dellia Erdita、Dwi
-        Putri Bonita、Jennifer Hanna、Nadhifa Karimah、Nadila Cindi
-        Wantari、Natalia、Noella Sisterina、Ratu Vienny Fitrilya、Riskha
-        Fairunissa、Rona Anggreani、Thalia、Thalia Ivanka
-        Elizabeth、Viviyona Apriani
+        1期生：Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal Putri、Gabriela Margareth Warouw、Ghaida Farisya、Jessica Vania、Jessica Veranda、Melody Nurramdhani Laksani、Rena Nozawa、Rezky Wiranti Dhike、Rica Leyona、Sendy Ariani、Shania Junianatha、Sonia Natalia、Stella Cornelia
+        2期生：Alicia Chanzia、Annisa Athia、Cindy Yuvia、Dellia Erdita、Dwi Putri Bonita、Jennifer Hanna、Nadhifa Karimah、Nadila Cindi Wantari、Natalia、Noella Sisterina、Ratu Vienny Fitrilya、Riskha Fairunissa、Rona Anggreani、Thalia、Thalia Ivanka Elizabeth、Viviyona Apriani
   - 収録曲
     1.  overture（JKT48 ver.）
     2.  Shonichi
@@ -483,15 +443,11 @@ AKB48 Team B的第3台劇場公演，也是初次的专属公演，因为公演�
   - [官方網站](http://www.akb48.co.jp/about/song/detail.php?team=3&stage=15)
   - [DVD頁面](https://shopping.akb48-group.com/selection/detail/1/10926)
 
-[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
+[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink") [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
 
-1.  [暂定劇場公演的通知](http://jkt48.com/news/detail/id/39?lang=jp) - JKT48
-    Official Web Site（2012年5月15日）
-2.  [关于1期生“睡衣兜风”最终公演的通知](http://www.jkt48.com/news/detail/id/90?lang=jp)
-    - JKT48 Official Web Site（2012年12月7日）
-3.  [关于研究生“睡衣兜风”最终公演的通知](http://www.jkt48.com/news/detail/id/135?lang=jp)
-    - JKT48 Official Web Site（2013年5月5日）
+1.  [暂定劇場公演的通知](http://jkt48.com/news/detail/id/39?lang=jp) - JKT48 Official Web Site（2012年5月15日）
+2.  [关于1期生“睡衣兜风”最终公演的通知](http://www.jkt48.com/news/detail/id/90?lang=jp) - JKT48 Official Web Site（2012年12月7日）
+3.  [关于研究生“睡衣兜风”最终公演的通知](http://www.jkt48.com/news/detail/id/135?lang=jp) - JKT48 Official Web Site（2013年5月5日）
 4.
 5.  升格之后也曾支援出演本公演
 6.

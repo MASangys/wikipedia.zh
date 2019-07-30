@@ -1,23 +1,16 @@
-是由[EXAMU在](https://zh.wikipedia.org/wiki/EXAMU "wikilink")[街机平台上开发](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")，[AQUAPLUS发行的](../Page/AQUAPLUS.md "wikilink")2D对战类[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")。
+是由[EXAMU在](https://zh.wikipedia.org/wiki/EXAMU "wikilink")[街机平台上开发](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")，[AQUAPLUS](../Page/AQUAPLUS.md "wikilink")发行的2D对战类[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")。
 
 ## 概要
 
-[AQUAPLUS的首部街机游戏](../Page/AQUAPLUS.md "wikilink")，游戏中的角色均来自AQUAPLUS出品的游戏\[1\]，其中甚至包括于更名为AQUAPLUS后出品的首部作品[To
-Heart中登场的Multi](../Page/To_Heart.md "wikilink")。玩家可以操控这些出自同一个公司的游戏角色进行对战。
+[AQUAPLUS](../Page/AQUAPLUS.md "wikilink")的首部街机游戏，游戏中的角色均来自AQUAPLUS出品的游戏\[1\]，其中甚至包括于更名为AQUAPLUS后出品的首部作品[To Heart中登场的Multi](../Page/To_Heart.md "wikilink")。玩家可以操控这些出自同一个公司的游戏角色进行对战。
 
-游戏基板为[TAITO公司的Taito](https://zh.wikipedia.org/wiki/TAITO "wikilink")
-Type
-X2\[2\]，游戏会通过该公司的网络发布系统「[NESiCAxLive](https://zh.wikipedia.org/wiki/NESiCAxLive "wikilink")」将游戏下载至机台\[3\]。
+游戏基板为[TAITO公司的Taito](https://zh.wikipedia.org/wiki/TAITO "wikilink") Type X2\[2\]，游戏会通过该公司的网络发布系统「[NESiCAxLive](https://zh.wikipedia.org/wiki/NESiCAxLive "wikilink")」将游戏下载至机台\[3\]。
 
-于2011年12月1日升级游戏版本至“Version1.5A”，后又于2012年4月4日升级至“Version2.0”\[4\]。这两次升级均增加了新的角色，并对一部分旧版本的内容做出了调整。而要在游戏中使用新角色则需要先到[手机版的官方网站](https://zh.wikipedia.org/wiki/手机 "wikilink")「(AQUAPAZZA
-MOBILE)」购买解锁。
+于2011年12月1日升级游戏版本至“Version1.5A”，后又于2012年4月4日升级至“Version2.0”\[4\]。这两次升级均增加了新的角色，并对一部分旧版本的内容做出了调整。而要在游戏中使用新角色则需要先到[手机版的官方网站](https://zh.wikipedia.org/wiki/手机 "wikilink")「(AQUAPAZZA MOBILE)」购买解锁。
 
-于2011年12月29日公开了决定移植至[家用机平台的消息](https://zh.wikipedia.org/wiki/家用机 "wikilink")\[5\]，之后发表了预定于2012年6月28日开始销售PlayStation
-3平台的移植版本的消息\[6\]，虽然后来又以制作上的某些原因为由而将销售日期延期至同年的7月26日\[7\]，但最后又因网络联机方面的一些问题将销售日期延后至同年的8月30日\[8\]。
+于2011年12月29日公开了决定移植至[家用机平台的消息](https://zh.wikipedia.org/wiki/家用机 "wikilink")\[5\]，之后发表了预定于2012年6月28日开始销售PlayStation 3平台的移植版本的消息\[6\]，虽然后来又以制作上的某些原因为由而将销售日期延期至同年的7月26日\[7\]，但最后又因网络联机方面的一些问题将销售日期延后至同年的8月30日\[8\]。
 
-2012年11月22日，由AQUAPLUS官方免費發布PlayStation
-3版《AQUAPAZZA》版本升級檔，主要內容為追加Training
-Mode下的設定項目，以及加強網路對戰的運行效率及設定項目。
+2012年11月22日，由AQUAPLUS官方免費發布PlayStation 3版《AQUAPAZZA》版本升級檔，主要內容為追加Training Mode下的設定項目，以及加強網路對戰的運行效率及設定項目。
 
 ## 系统
 
@@ -37,17 +30,14 @@ Mode下的設定項目，以及加強網路對戰的運行效率及設定項目�
 
 ### 能量槽
 
-对战画面下方的条状槽。游戏中以攻击和防御动作来积蓄能量，正常模式最多可以积蓄5条能量，简单模式最多可以积蓄3条。通过消耗积蓄的能量来发动「超必殺技」、「Splash
-Arts」、「反抗打击」、「援护攻击」和「援护防御」。
+对战画面下方的条状槽。游戏中以攻击和防御动作来积蓄能量，正常模式最多可以积蓄5条能量，简单模式最多可以积蓄3条。通过消耗积蓄的能量来发动「超必殺技」、「Splash Arts」、「反抗打击」、「援护攻击」和「援护防御」。
 
   - 超必殺技
     发动超必杀技需要消耗一条能量槽，它比普通的必杀技更强力。按照出招表用摇杆输入既定的一系列方向后同时按下按键A和B后即可发动超必杀技。
     简单模式中不需要用摇杆输入一系列的方向，只需要同时按下按键A和B，或仅需要将摇杆推向特定方向并同时按下A和B后就能发动对应的超必杀技。但是，有部分角色无法在简单模式中发动那些只有在正常模式中可用的、特定的超必殺技。
   - Splash Arts
-    在对战画面上方的体力槽中的剩余体力少于一半的状态下，可以通过消耗三条能量槽来发动Splash
-    Arts，其威力比超必杀技更高。具体发动方法为：在体力槽周围闪烁时，按照出招表用摇杆输入既定的一系列方向后同时按下按键B和C。
-    简单模式中不需要用摇杆输入一系列的方向，只需要同时按下按键B和C，或仅需要将摇杆推向特定方向并同时按下B和C后就能发动对应的Splash
-    Arts技。但是，有部分角色无法在简单模式中发动那些只有在正常模式中可用的、特定的Splash Arts技。
+    在对战画面上方的体力槽中的剩余体力少于一半的状态下，可以通过消耗三条能量槽来发动Splash Arts，其威力比超必杀技更高。具体发动方法为：在体力槽周围闪烁时，按照出招表用摇杆输入既定的一系列方向后同时按下按键B和C。
+    简单模式中不需要用摇杆输入一系列的方向，只需要同时按下按键B和C，或仅需要将摇杆推向特定方向并同时按下B和C后就能发动对应的Splash Arts技。但是，有部分角色无法在简单模式中发动那些只有在正常模式中可用的、特定的Splash Arts技。
 
 ### 基本操作
 
@@ -61,8 +51,7 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
     在防御状态中同时按下按键B和C后发动。消费一条能量槽并迅速地反击对手。
     无法在简单模式中使用。
   - 优势防御（Impact Guard）
-    特殊的防御方式，在对手的攻击命中前的瞬间输入防御指令来发动。成功发动的话会出现特殊的光影效果，同时该次防御附加不会被必杀技等攻击蹭去体力、避免防御姿态崩溃（Guard
-    Crash。即一般格斗术语中的崩防、破防）和提升好感度（后述）等能使角色产生优势的效果。
+    特殊的防御方式，在对手的攻击命中前的瞬间输入防御指令来发动。成功发动的话会出现特殊的光影效果，同时该次防御附加不会被必杀技等攻击蹭去体力、避免防御姿态崩溃（Guard Crash。即一般格斗术语中的崩防、破防）和提升好感度（后述）等能使角色产生优势的效果。
   - 快速起身（Fast Standing）
     从被对手打飞后到角色着地的瞬间之前，可以通过长时间地向上推摇杆来快速起身，无须像一般情况下的倒地起身那样花费大量时间。
   - 通常技取消链（Combination Smash）
@@ -121,8 +110,7 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
 
 :: 心气高洁、擅武又重义的艾文库鲁加族的女性武人。
 
-::
-爱用的武器是[日本刀](../Page/日本刀.md "wikilink")。擅长使用[居合这种攻击范围较大的武技](https://zh.wikipedia.org/wiki/拔刀术 "wikilink")。
+:: 爱用的武器是[日本刀](../Page/日本刀.md "wikilink")。擅长使用[居合这种攻击范围较大的武技](https://zh.wikipedia.org/wiki/拔刀术 "wikilink")。
 
 :; 胧
 
@@ -135,8 +123,7 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
 
 <!-- end list -->
 
-  - 出自《[Tears to Tiara
-    花冠之大地](https://zh.wikipedia.org/wiki/花冠之泪 "wikilink")》
+  - 出自《[Tears to Tiara 花冠之大地](https://zh.wikipedia.org/wiki/花冠之泪 "wikilink")》
 
 :; 阿隆
 
@@ -144,18 +131,15 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
 
 :: 经历了数千年的长眠后复活的黑衣魔王。
 
-::
-除了使用[长剑](https://zh.wikipedia.org/wiki/剑 "wikilink")「艾多拉姆」进行基本的挥砍以外，还能使出带有特殊效果的狡诈魔法。
+:: 除了使用[长剑](https://zh.wikipedia.org/wiki/剑 "wikilink")「艾多拉姆」进行基本的挥砍以外，还能使出带有特殊效果的狡诈魔法。
 
 :; 莫尔嘉
 
 :: 声：[中原麻衣](../Page/中原麻衣.md "wikilink")
 
-::
-位列盖尔族最强战士次席的猎人。莉安珑的[发小](https://zh.wikipedia.org/wiki/青梅竹马 "wikilink")。
+:: 位列盖尔族最强战士次席的猎人。莉安珑的[发小](https://zh.wikipedia.org/wiki/青梅竹马 "wikilink")。
 
-::
-主要武器为[长弓和](https://zh.wikipedia.org/wiki/长弓 "wikilink")[箭矢](https://zh.wikipedia.org/wiki/箭矢 "wikilink")，在白刃战时则会改用[徒手格斗术或](https://zh.wikipedia.org/wiki/柔术 "wikilink")[匕首来战斗](https://zh.wikipedia.org/wiki/匕首 "wikilink")。擅长于活用其自身灵活移动的战术。
+:: 主要武器为[长弓和](https://zh.wikipedia.org/wiki/长弓 "wikilink")[箭矢](https://zh.wikipedia.org/wiki/箭矢 "wikilink")，在白刃战时则会改用[徒手格斗术或](https://zh.wikipedia.org/wiki/柔术 "wikilink")[匕首来战斗](https://zh.wikipedia.org/wiki/匕首 "wikilink")。擅长于活用其自身灵活移动的战术。
 
 :; 莉安珑
 
@@ -184,8 +168,7 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
 
 :: 喜欢占卜和贪嘴的爱管闲事少女。环的童年玩伴。
 
-::
-拥有能轻易干扰对手行动的高速行动，不仅会打击类格斗技，也能将[书包作为武器来攻击对手](https://zh.wikipedia.org/wiki/书包 "wikilink")。
+:: 拥有能轻易干扰对手行动的高速行动，不仅会打击类格斗技，也能将[书包作为武器来攻击对手](https://zh.wikipedia.org/wiki/书包 "wikilink")。
 
 :; 小牧 愛佳
 
@@ -194,12 +177,11 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
       -
         声：[力丸乃梨子](../Page/力丸乃梨子.md "wikilink")
         努力家兼偶尔会[冒失一下的副班长](https://zh.wikipedia.org/wiki/冒失娘 "wikilink")。
-        除了使用[书籍作为武器以外](https://zh.wikipedia.org/wiki/书籍 "wikilink")，还有着许多动作奇特的攻击技（像是推倒[书架之类的攻击](../Page/书架.md "wikilink")）。
+        除了使用[书籍作为武器以外](https://zh.wikipedia.org/wiki/书籍 "wikilink")，还有着许多动作奇特的攻击技（像是推倒[书架](../Page/书架.md "wikilink")之类的攻击）。
 
 <!-- end list -->
 
-  - 出自《[To Heart 2 Dungeon
-    Travelers](https://zh.wikipedia.org/wiki/To_Heart_2_Dungeon_Travelers "wikilink")》
+  - 出自《[To Heart 2 Dungeon Travelers](https://zh.wikipedia.org/wiki/To_Heart_2_Dungeon_Travelers "wikilink")》
 
 :; 久寿川莎莎拉
 
@@ -235,8 +217,7 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
       -
         声：[堀江由衣](../Page/堀江由衣.md "wikilink")
         正式名称为HMX-12型。来栖川重工开发的试作型家用机器人[女仆](https://zh.wikipedia.org/wiki/女仆 "wikilink")。
-        以[拖把作为自己的武器](https://zh.wikipedia.org/wiki/拖把 "wikilink")。使用拖把施展的攻击中包含了一些能产生特殊效果的、很有“特色”
-        的攻击技。
+        以[拖把作为自己的武器](https://zh.wikipedia.org/wiki/拖把 "wikilink")。使用拖把施展的攻击中包含了一些能产生特殊效果的、很有“特色” 的攻击技。
 
 ### 支援角色
 
@@ -253,14 +234,13 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
 
 <!-- end list -->
 
-  - 出自《[Comic
-    Party](https://zh.wikipedia.org/wiki/漫画派对_\(游戏\) "wikilink")》
+  - 出自《[Comic Party](https://zh.wikipedia.org/wiki/漫画派对_\(游戏\) "wikilink")》
 
 :; 高瀬 瑞希
 
 :: 声：[茶山莉子](../Page/茶山莉子.md "wikilink")
 
-:: 身边围绕着许多[次文化爱好者的大学生](../Page/次文化.md "wikilink")。
+:: 身边围绕着许多[次文化](../Page/次文化.md "wikilink")爱好者的大学生。
 
 :: 援护模式为“待机”、“打击”。攻击方式为不断地逼近并打击对手。
 
@@ -272,7 +252,7 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
         声：[茂吕田薰](https://zh.wikipedia.org/wiki/茂吕田薰 "wikilink")
         Version1.5A版的新增角色。
         在关西地区享有盛名，准备向东京发展的优秀同人漫画家。
-        援护模式为“跟随”、“打击”。使用[吐槽用的](../Page/吐槽.md "wikilink")[纸折扇和绘制漫画的](https://zh.wikipedia.org/wiki/纸折扇 "wikilink")[G笔来攻击对手](https://zh.wikipedia.org/wiki/沾水笔 "wikilink")。
+        援护模式为“跟随”、“打击”。使用[吐槽](../Page/吐槽.md "wikilink")用的[纸折扇和绘制漫画的](https://zh.wikipedia.org/wiki/纸折扇 "wikilink")[G笔来攻击对手](https://zh.wikipedia.org/wiki/沾水笔 "wikilink")。
 
 <!-- end list -->
 
@@ -301,7 +281,7 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
       -
         声 - [名冢佳织](https://zh.wikipedia.org/wiki/名冢佳织 "wikilink")
         Version2.0版的新增角色。
-        有着「水边的妖精」这一别名的[海豹妖精](../Page/海豹.md "wikilink")。
+        有着「水边的妖精」这一别名的[海豹](../Page/海豹.md "wikilink")妖精。
         援护类型为“跟随”、“万能”。
 
 <!-- end list -->
@@ -335,8 +315,7 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
 
 :: 活泼且好胜的少女。爱佳的朋友。
 
-::
-援护类型为“待机”、“打击”。攻击方式为从屏幕外骑着[-{zh-hans:山地自行车;zh-hk:山地單車;zh-tw:山地腳踏車;}-冲进对战场地攻击对手](https://zh.wikipedia.org/wiki/自行车#.E5.B1.B1.E5.9C.B0.E8.85.B3.E8.B8.8F.E8.BB.8A.EF.BC.88Mountain_bike.EF.BC.89 "wikilink")。
+:: 援护类型为“待机”、“打击”。攻击方式为从屏幕外骑着[-{zh-hans:山地自行车;zh-hk:山地單車;zh-tw:山地腳踏車;}-冲进对战场地攻击对手](https://zh.wikipedia.org/wiki/自行车#.E5.B1.B1.E5.9C.B0.E8.85.B3.E8.B8.8F.E8.BB.8A.EF.BC.88Mountain_bike.EF.BC.89 "wikilink")。
 
 :; 麻利安前辈（まーりゃん）
 
@@ -348,8 +327,7 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
 
 <!-- end list -->
 
-  - 出自《[WHITE
-    ALBUM](https://zh.wikipedia.org/wiki/WHITE_ALBUM "wikilink")》
+  - 出自《[WHITE ALBUM](https://zh.wikipedia.org/wiki/WHITE_ALBUM "wikilink")》
 
 :; 森川 由綺
 
@@ -443,8 +421,7 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
 
 :; 河野贵明
 
-::
-环和木实的[青梅竹马](https://zh.wikipedia.org/wiki/青梅竹马 "wikilink")。在环的结局动画中出场。
+:: 环和木实的[青梅竹马](https://zh.wikipedia.org/wiki/青梅竹马 "wikilink")。在环的结局动画中出场。
 
 :; 姬百合珊瑚
 
@@ -470,35 +447,24 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
 
 ## 参见
 
-  - [THE QUEEN OF
-    HEART](https://zh.wikipedia.org/wiki/THE_QUEEN_OF_HEART "wikilink")
-    -
-    由Leaf作品中的女主角出战的对战格斗类的[同人游戏](https://zh.wikipedia.org/wiki/同人游戏 "wikilink")。
+  - [THE QUEEN OF HEART](https://zh.wikipedia.org/wiki/THE_QUEEN_OF_HEART "wikilink") - 由Leaf作品中的女主角出战的对战格斗类的[同人游戏](https://zh.wikipedia.org/wiki/同人游戏 "wikilink")。
 
 ## 脚注
 
 ## 外部链接
 
-  - [AQUAPAZZA -AQUAPLUS DREAM MATCH-](http://aquaplus.jp/aquapazza/) -
-    街机版官方网站
+  - [AQUAPAZZA -AQUAPLUS DREAM MATCH-](http://aquaplus.jp/aquapazza/) - 街机版官方网站
 
-  - [AQUAPAZZA PlayStation®3](http://aquaplus.jp/aquapazza_ps3/) -
-    PlayStation 3版官方网站
+  - [AQUAPAZZA PlayStation®3](http://aquaplus.jp/aquapazza_ps3/) - PlayStation 3版官方网站
 
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:格斗游戏](https://zh.wikipedia.org/wiki/Category:格斗游戏 "wikilink")
-[Category:街机游戏](https://zh.wikipedia.org/wiki/Category:街机游戏 "wikilink")
-[Category:PlayStation_3独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3独占游戏 "wikilink")
+[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:格斗游戏](https://zh.wikipedia.org/wiki/Category:格斗游戏 "wikilink") [Category:街机游戏](https://zh.wikipedia.org/wiki/Category:街机游戏 "wikilink") [Category:PlayStation_3独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3独占游戏 "wikilink")
 
 1.  虽然这些游戏皆由「[Leaf](../Page/Leaf.md "wikilink")」制作，但以AQUAPLUS名义出品的版本都**不是**成人游戏。
 2.  见《AQUAPAZZA》的官方网站。
-3.  请见[《アクアパッツァ》アクアプラスから2D格闘ゲームが登場 -
-    ファミ通.com](http://www.famitsu.com/news/201101/27039715.html)
+3.  请见[《アクアパッツァ》アクアプラスから2D格闘ゲームが登場 - ファミ通.com](http://www.famitsu.com/news/201101/27039715.html)
 4.
-5.  详见[『アクアパッツァ』がコンシューマー化決定！（决定将《AQUAPAZZA》家用机化！） -
-    ファミ通.com](http://www.famitsu.com/news/201112/29007957.html)。
+5.  详见[『アクアパッツァ』がコンシューマー化決定！（决定将《AQUAPAZZA》家用机化！） - ファミ通.com](http://www.famitsu.com/news/201112/29007957.html)。
 6.
-7.  [PlayStation®3専用ソフト『AQUAPAZZA』発売延期のお知らせとお詫び（关于PlayStation®3独占游戏《AQUAPAZZA》销售延期及致歉的通知，7月26日版）](http://blog.aquaplus.jp/archives/2273)
-    。
+7.  [PlayStation®3専用ソフト『AQUAPAZZA』発売延期のお知らせとお詫び（关于PlayStation®3独占游戏《AQUAPAZZA》销售延期及致歉的通知，7月26日版）](http://blog.aquaplus.jp/archives/2273) 。
 8.  [PlayStation®3専用ソフト『AQUAPAZZA』発売日決定のお知らせ（关于PlayStation®3独占游戏《AQUAPAZZA》销售延期及致歉的通知，8月30日版）](http://blog.aquaplus.jp/archives/2426)
 9.  即：可以在轻攻击的出招硬直中按下中攻击来消除轻攻击的硬直并打出中攻击，形成连续技，而重攻击则可以取消轻攻击和中攻击的出招硬直。但轻攻击无法取消中攻击和重攻击的出招硬直，同理类推，中攻击无法取消重攻击的出招硬直。

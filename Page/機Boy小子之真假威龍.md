@@ -1,4 +1,4 @@
-是一部1992年[陳嘉上执导的香港動作喜劇片](../Page/陳嘉上.md "wikilink")，[刘德华](https://zh.wikipedia.org/wiki/刘德华 "wikilink")、[郭富城和](../Page/郭富城.md "wikilink")[關之琳主演](../Page/關之琳.md "wikilink")。台灣翻譯為**龍神太子**。
+是一部1992年[陳嘉上](../Page/陳嘉上.md "wikilink")执导的香港動作喜劇片，[刘德华](https://zh.wikipedia.org/wiki/刘德华 "wikilink")、[郭富城](../Page/郭富城.md "wikilink")和[關之琳](../Page/關之琳.md "wikilink")主演。台灣翻譯為**龍神太子**。
 
 ## 剧情简介
 
@@ -29,9 +29,4 @@
   -
   -
   -
-[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink")
-[Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink")
-[Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink")
-[Category:香港喜剧片](https://zh.wikipedia.org/wiki/Category:香港喜剧片 "wikilink")
-[Category:陳嘉上電影](https://zh.wikipedia.org/wiki/Category:陳嘉上電影 "wikilink")
-[Category:天幕製作電影](https://zh.wikipedia.org/wiki/Category:天幕製作電影 "wikilink")
+[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink") [Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink") [Category:香港喜剧片](https://zh.wikipedia.org/wiki/Category:香港喜剧片 "wikilink") [Category:陳嘉上電影](https://zh.wikipedia.org/wiki/Category:陳嘉上電影 "wikilink") [Category:天幕製作電影](https://zh.wikipedia.org/wiki/Category:天幕製作電影 "wikilink")

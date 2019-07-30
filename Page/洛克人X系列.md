@@ -1,5 +1,4 @@
-是遊戲開發商[卡普空中的遊戲系列之一](../Page/卡普空.md "wikilink")，為洛克人的第二個系列，1993年首次發行，故事背景承接[洛克人元祖系列](../Page/洛克人元祖系列.md "wikilink")，在22世紀的未來世界。此系列延續[洛克人元祖系列](../Page/洛克人元祖系列.md "wikilink")，依舊以高難度著稱，十二作中只有一作不是動作遊戲（[洛克人X
-指令任務是角色扮演遊戲](../Page/洛克人X_指令任務.md "wikilink")）。本系列另有一些漫畫改編作品與卡片周邊。
+是遊戲開發商[卡普空](../Page/卡普空.md "wikilink")中的遊戲系列之一，為洛克人的第二個系列，1993年首次發行，故事背景承接[洛克人元祖系列](../Page/洛克人元祖系列.md "wikilink")，在22世紀的未來世界。此系列延續[洛克人元祖系列](../Page/洛克人元祖系列.md "wikilink")，依舊以高難度著稱，十二作中只有一作不是動作遊戲（[洛克人X 指令任務是角色扮演遊戲](../Page/洛克人X_指令任務.md "wikilink")）。本系列另有一些漫畫改編作品與卡片周邊。
 
 ## 故事背景
 
@@ -17,13 +16,7 @@
 
 ## 系列作品
 
-<SMALL>※SFC=[超級任天堂](../Page/超級任天堂.md "wikilink")、GB=[Game
-Boy](../Page/Game_Boy.md "wikilink")、GBC=[Game Boy
-Color](../Page/Game_Boy_Color.md "wikilink")、GC=[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、SS=[世嘉土星](../Page/世嘉土星.md "wikilink")、PS=[PlayStation](../Page/PlayStation.md "wikilink")、PS2=[Playstation
-2](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")、PSP=[PlayStation
-Portable](../Page/PlayStation_Portable.md "wikilink")、PC=[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、VC=[Virtual
-Console](../Page/Virtual_Console.md "wikilink")</SMALL>
+<SMALL>※SFC=[超級任天堂](../Page/超級任天堂.md "wikilink")、GB=[Game Boy](../Page/Game_Boy.md "wikilink")、GBC=[Game Boy Color](../Page/Game_Boy_Color.md "wikilink")、GC=[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、SS=[世嘉土星](../Page/世嘉土星.md "wikilink")、PS=[PlayStation](../Page/PlayStation.md "wikilink")、PS2=[Playstation 2](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")、PSP=[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、PC=[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、VC=[Virtual Console](../Page/Virtual_Console.md "wikilink")</SMALL>
 
   - [洛克人X](../Page/洛克人X_\(遊戲\).md "wikilink")（SFC、PC、VC、ios）
   - [洛克人X2](../Page/洛克人X2.md "wikilink")（SFC、VC）
@@ -46,8 +39,7 @@ Console](../Page/Virtual_Console.md "wikilink")</SMALL>
 
   - [艾克斯](../Page/艾克斯_\(洛克人\).md "wikilink")(エックス，X)
     登場作品：全
-    聲優：[緒方惠美](../Page/緒方惠美.md "wikilink")(X1)／[伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎 "wikilink")(X4)／[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")(X5\~X7)／[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")(X8、指令任務、Irregular
-    Hunter X、其它跨領域作品)
+    聲優：[緒方惠美](../Page/緒方惠美.md "wikilink")(X1)／[伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎 "wikilink")(X4)／[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")(X5\~X7)／[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")(X8、指令任務、Irregular Hunter X、其它跨領域作品)
     本系列的主人公，繼承前系列[洛克人的能力](https://zh.wikipedia.org/wiki/洛克人 "wikilink")，在擊倒敵人後能夠將對方的技能納為己用，並強化自身的藍色思考型機器人。在冰冷身軀下，藏著對和平的嚮往與炙熱助人之心的非正規品獵人。
     原作中對自己的身世並不是非常清楚，漫畫版中對萊特博士也只是「明明第一次見面，但卻覺得很安心」的印象，而在重製版中艾克斯卻保有進行啟動測試的記憶，也記得自己被萊特博士封印起來的事。小說版中則由凱恩博士告知身世\[2\]
 
@@ -57,7 +49,7 @@ Console](../Page/Virtual_Console.md "wikilink")</SMALL>
     登場作品：全
     聲優：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
     本系列的第二主角，孤傲的特A級獵人，是艾克斯的前輩兼戰友，亦是少數了解艾克斯的人。
-    在《漫威對卡普空》系列中是首位做為自機的X系列的角色，曾在被[銀色衝浪手送回自己世界時誤打誤撞被送到](../Page/銀色衝浪手.md "wikilink")[洛克人Zero的時空去](https://zh.wikipedia.org/wiki/洛克人Zero "wikilink")。
+    在《漫威對卡普空》系列中是首位做為自機的X系列的角色，曾在被[銀色衝浪手](../Page/銀色衝浪手.md "wikilink")送回自己世界時誤打誤撞被送到[洛克人Zero的時空去](https://zh.wikipedia.org/wiki/洛克人Zero "wikilink")。
 
 <!-- end list -->
 
@@ -65,8 +57,7 @@ Console](../Page/Virtual_Console.md "wikilink")</SMALL>
     登場作品：『X7』、『X8』、『指令任務』
     聲優：[高山南](../Page/高山南.md "wikilink")
     製造者不明，喪失過去記憶、被謎團包圍的思考型機器人，使用武器為雙槍，本系列第三名玩家可操縱的角色。艾克賽爾具有奇異的變身能力，利用光彈槍發射的複製彈打倒敵人，將思考型機器人的DNA進行複製，並能夠馬上根據DNA核心的設計圖進行變身，然而這個能力對沒有過去記憶的他來說也是個未解的謎。性格方面，平常就跟一名天真、無邪氣的小孩沒兩樣，但戰鬥時卻表露令人意想不到的殘酷。
-    自從被組織「赤色警戒(Red
-    Alert)」領導者－－雷德收養後，便成為雷德的左右手，作為「赤色警戒」的中心人物而活躍著。然而，「赤色警戒」與雷德異樣的轉變讓艾克賽爾大惑不解，為了查明原因，藉由執行任務時與[傑洛相遇此一契機](../Page/傑洛.md "wikilink")，脫離「赤色警戒」並開始以成為一名非正規品獵人為目標。不料此舉卻引發了「非正規品獵人」與「赤色警戒」兩大組織的全面衝突，為了對此負責，同時也是為了履行初衷，艾克賽爾以非正規品獵人的身分參與了此場戰爭。在這之後，艾克賽爾正式成為非正規品獵人的一員而活躍著。
+    自從被組織「赤色警戒(Red Alert)」領導者－－雷德收養後，便成為雷德的左右手，作為「赤色警戒」的中心人物而活躍著。然而，「赤色警戒」與雷德異樣的轉變讓艾克賽爾大惑不解，為了查明原因，藉由執行任務時與[傑洛](../Page/傑洛.md "wikilink")相遇此一契機，脫離「赤色警戒」並開始以成為一名非正規品獵人為目標。不料此舉卻引發了「非正規品獵人」與「赤色警戒」兩大組織的全面衝突，為了對此負責，同時也是為了履行初衷，艾克賽爾以非正規品獵人的身分參與了此場戰爭。在這之後，艾克賽爾正式成為非正規品獵人的一員而活躍著。
     在『X8』的故事中，被西克瑪稱為「新世代思考型機器人的原型機」。故事的最末，頭上的水晶體被露明尼植入不明物體，為未來投下了未知的變數……
 
 <!-- end list -->
@@ -94,48 +85,38 @@ Console](../Page/Virtual_Console.md "wikilink")</SMALL>
     聲優：[麥人](../Page/麥人.md "wikilink")
     在所有思考型機器人中，被譽為凱恩博士的最高傑作，凱恩博士將所有當時的最新晶片、程式都放在他身上，讓他擁有高度戰鬥能力以及相當優秀的電子頭腦，能夠解決一切問題的能力。原第17特殊部隊隊長，在制裁紅色的非正規機器人（即剛從百年封印中甦醒的[傑洛](../Page/傑洛.md "wikilink")）時遭到重創，之後將傑洛編到自己部隊中以利監視，但心裡一直有陰影。後來利用自己深受所有獵人信賴這一點，趁機率眾多獵人發動叛亂，為了建立一個只有思考型機器人的理想國家而企圖征服世界。
     雖數度被艾克斯與傑洛阻止，但西克瑪已經將自身化為電腦病毒，由於病毒並無實體，就算數度破壞西克瑪的身體，西克瑪也能數度藉由各種管道獲得身體而復活。除『X8』、『指令任務』外，本系列歷代作品的最終頭目都是西克瑪，其身型、武器等幾乎都大不相同，且通常存在兩種形態，第一型態為人形，第二形態都有巨大化的傾向。
-    雖然講談社出版的「**ロックマンX4
-    XtoZ攻略ファイル**」中提到，與傑洛一戰時遭到傑洛帶原的病毒感染是西克瑪的非正規化的原因，但X8的露明尼卻表示西克瑪是依他自己的意志自行非正規化的。
-    在『Irregular Hunter
-    X』中對於西克瑪的設定，與原系列作有相當大的不同。在此作品中，西克瑪是為了瞭解凱恩博士口中，[艾克斯所擁有的](../Page/艾克斯_\(洛克人\).md "wikilink")「思考型機器人的可能性」，才發起這場「賭上思考型機器人未來的大戰」。
+    雖然講談社出版的「**ロックマンX4 XtoZ攻略ファイル**」中提到，與傑洛一戰時遭到傑洛帶原的病毒感染是西克瑪的非正規化的原因，但X8的露明尼卻表示西克瑪是依他自己的意志自行非正規化的。
+    在『Irregular Hunter X』中對於西克瑪的設定，與原系列作有相當大的不同。在此作品中，西克瑪是為了瞭解凱恩博士口中，[艾克斯所擁有的](../Page/艾克斯_\(洛克人\).md "wikilink")「思考型機器人的可能性」，才發起這場「賭上思考型機器人未來的大戰」。
     小說版中，除了是凱恩博士的最高傑作外，也提及他是依照凱恩博士年輕時的樣貌製作\[4\]
-    在《漫威對卡普空》系列中曾經和[奧創合作](../Page/奧創.md "wikilink")，並合體成「奧創西格瑪」，計劃將漫威宇宙和卡普空宇宙都改造成由機器統治的世界，更導致兩個世界永久融合。
+    在《漫威對卡普空》系列中曾經和[奧創](../Page/奧創.md "wikilink")合作，並合體成「奧創西格瑪」，計劃將漫威宇宙和卡普空宇宙都改造成由機器統治的世界，更導致兩個世界永久融合。
 
 <!-- end list -->
 
   - 霸法(ヴァヴァ，VAVA,Vile)
     登場代：『X』、『X3』、『X8』、『Cyber Mission』、『Irregular Hunter X』
-    聲優：[麥人](../Page/麥人.md "wikilink")(X8)、[下崎紘史](https://zh.wikipedia.org/wiki/下崎紘史 "wikilink")(Irregular
-    Hunter X)
-    在「洛克人系列20周年紀念活動」中，等同於[洛克人系列生父的](../Page/洛克人系列.md "wikilink")[稻船敬二表示](../Page/稻船敬二.md "wikilink")，霸法的名字來源為[澳大利亞的](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")1979年電影《[衝鋒飛車隊](https://zh.wikipedia.org/wiki/衝鋒飛車隊 "wikilink")》的反派角色巴布·薩內蒂（Bubba
-    Zanetti）\[5\]歐美版本的霸法名字改為「**Vile**」。
-    原屬第17特殊部隊，艾克斯的前同僚，擁有相當高的戰鬥能力，作品中使用原為土木作業用的機動裝甲做為武器的技術就是由他發明，並有著高度的駕駛技術。由於電子頭腦有問題，以破壞非正規品為樂，並不會考慮使用哪種手段或後果，喜歡將任務當作是在「狩獵」一樣地享受，與非正規品只有一線之隔。其後在西克瑪叛亂時被看上，招募他一起破壞世界。後來遭到艾克斯處分，但是藉由多普拉博士的手，以「VaVa
-    Mk-2」的姿態復活\[6\]。X8時再次復活（原因不明），姿態名為「VaVa V」（發音為「Vent」，羅馬數字的「5」）。
-      - 『[Irregular Hunter
-        X](https://zh.wikipedia.org/wiki/Irregular_Hunter_X "wikilink")』的設定：由於電子頭腦迴路異常的影響，經常違反非正規獵人必需將傷害減至最低的目的，反而屢次造成更大的損害，遭到非正規品獵人的拘禁處分，後被西克瑪釋放，想將之納入麾下，但霸法並不聽令於西克瑪，此時的他對於大家都只關注X而感到火大，為了證明自己比X強，作為第三勢力行動，最後被X與Z打敗後才被西克瑪回收。在此作品中，前額的標誌為代表自身的「V」，原作X1中則是西克瑪的標誌「Σ」。
-      - 在[洛克人
-        (動畫)中與閃電山魈一同登場的霸法](https://zh.wikipedia.org/wiki/洛克人_\(動畫\) "wikilink")，採用的是[洛克人X原版本的設定](../Page/洛克人X_\(遊戲\).md "wikilink")，是該動畫中少數貼近原遊戲設定的角色之一。
+    聲優：[麥人](../Page/麥人.md "wikilink")(X8)、[下崎紘史](https://zh.wikipedia.org/wiki/下崎紘史 "wikilink")(Irregular Hunter X)
+    在「洛克人系列20周年紀念活動」中，等同於[洛克人系列](../Page/洛克人系列.md "wikilink")生父的[稻船敬二](../Page/稻船敬二.md "wikilink")表示，霸法的名字來源為[澳大利亞的](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")1979年電影《[衝鋒飛車隊](https://zh.wikipedia.org/wiki/衝鋒飛車隊 "wikilink")》的反派角色巴布·薩內蒂（Bubba Zanetti）\[5\]歐美版本的霸法名字改為「**Vile**」。
+    原屬第17特殊部隊，艾克斯的前同僚，擁有相當高的戰鬥能力，作品中使用原為土木作業用的機動裝甲做為武器的技術就是由他發明，並有著高度的駕駛技術。由於電子頭腦有問題，以破壞非正規品為樂，並不會考慮使用哪種手段或後果，喜歡將任務當作是在「狩獵」一樣地享受，與非正規品只有一線之隔。其後在西克瑪叛亂時被看上，招募他一起破壞世界。後來遭到艾克斯處分，但是藉由多普拉博士的手，以「VaVa Mk-2」的姿態復活\[6\]。X8時再次復活（原因不明），姿態名為「VaVa V」（發音為「Vent」，羅馬數字的「5」）。
+      - 『[Irregular Hunter X](https://zh.wikipedia.org/wiki/Irregular_Hunter_X "wikilink")』的設定：由於電子頭腦迴路異常的影響，經常違反非正規獵人必需將傷害減至最低的目的，反而屢次造成更大的損害，遭到非正規品獵人的拘禁處分，後被西克瑪釋放，想將之納入麾下，但霸法並不聽令於西克瑪，此時的他對於大家都只關注X而感到火大，為了證明自己比X強，作為第三勢力行動，最後被X與Z打敗後才被西克瑪回收。在此作品中，前額的標誌為代表自身的「V」，原作X1中則是西克瑪的標誌「Σ」。
+      - 在[洛克人 (動畫)中與閃電山魈一同登場的霸法](https://zh.wikipedia.org/wiki/洛克人_\(動畫\) "wikilink")，採用的是[洛克人X原版本的設定](../Page/洛克人X_\(遊戲\).md "wikilink")，是該動畫中少數貼近原遊戲設定的角色之一。
       - 在岩本佳浩的漫畫版《洛克人X》中有著獨特的硬派風格和高雅形象\[7\]，其反英雄作風是相當受歡迎的個性設定，因此重製版和小說版都或多或少採用了此一設定
 
 ### 人類
 
   - 凱恩博士(Dr.ケイン，Dr.Cain)
     登場作品：『X』(僅在開頭出現名字)、『X2』、『X3』、『Cyber Mission』、『Irregular Hunter X』
-    聲優：[宮澤正](https://zh.wikipedia.org/wiki/宮澤正 "wikilink")(Irregular
-    Hunter X)
+    聲優：[宮澤正](https://zh.wikipedia.org/wiki/宮澤正 "wikilink")(Irregular Hunter X)
     考古學家兼科學家，艾克斯的發現者，並以艾克斯為藍本，開發出跟人類十分相近、擁有自我思考能力的「思考型機器人」，成為22世紀機器人工學權威。
     為了解決思考型機器人暴走的異常事件，成立非正規品獵人組織，成為非正規戰警總部的高層顧問，並且每天親自進行指導，對被視為自己最高傑作的西克瑪發動叛變一事，感到相當痛心。
     X4時因為判定仲裁部隊為非正規品而引發世界大戰，導致許多無辜百姓死亡，為此辭去職位、淡出X系列。
-    在『Irregular Hunter X』收錄的OVA「THE DAY OF
-    Σ」中，凱恩博士已是一位需要生命維持裝置的衰弱老人，最後被描繪成西克瑪發動叛亂時的犧牲者之一。
+    在『Irregular Hunter X』收錄的OVA「THE DAY OF Σ」中，凱恩博士已是一位需要生命維持裝置的衰弱老人，最後被描繪成西克瑪發動叛亂時的犧牲者之一。
     小說版中，曾經回憶過發現艾克斯和創造思考型機器人的經過，並提及凱恩博士十分尊敬萊特博士。
 
 <!-- end list -->
 
   - 萊特博士(Dr.ライド，Dr.Right)
     登場作品：『指令任務』以外作品
-    聲優：[佐佐山洋一](https://zh.wikipedia.org/wiki/佐佐山洋一 "wikilink")(X8)、[麻生智久](https://zh.wikipedia.org/wiki/麻生智久 "wikilink")(Irregular
-    Hunter X)
+    聲優：[佐佐山洋一](https://zh.wikipedia.org/wiki/佐佐山洋一 "wikilink")(X8)、[麻生智久](https://zh.wikipedia.org/wiki/麻生智久 "wikilink")(Irregular Hunter X)
     21世紀的機器人工學權威，人稱機器人工學之父，艾克斯的製造者，約100年前辭世。將自己化為資料般的形式安置在膠囊中，等待艾克斯的來臨。每每在短暫的見面時仍不忘叮嚀艾克斯不要忘記正義與和平精神，仍然深深地影響自己的愛子。似乎也知道傑洛的過去。
     在《漫威對卡普空》系列中也出場過，似乎已經和雙方陣營\[8\]都十分熟識。
     小說版中被描述為「百年前的超級天才」，但是有關的事蹟幾乎全被掩蓋\[9\]
@@ -154,8 +135,7 @@ Console](../Page/Virtual_Console.md "wikilink")</SMALL>
     又稱**異常獵人**、**非正規戰警**，歐美版本為「**Maverick Hunter**」。
     凱恩博士所創立的治安維持組織，目的是將危害人類的非正規品予以破壞，可說是思考型機器人中的[警察](../Page/警察.md "wikilink")。獵人分有「A級」「B級」、「C級」，以及僅佔全體人員0.01%的「特A級」四等級；在『指令任務』中提到A級之上有一個「S級」的單位存在，與特A級的相異之處不明。艾克斯、傑洛都是這個組織的成員，西克瑪也曾經隸屬於此。
     組織保有非正規品的判定權，有如政府般，對所有的思考型機器人來說擁有最高的管轄權。但自從「西克瑪叛亂事件」開始，由於「獵人非正規化」的出現、「非正規化」的判定曖昧不明等因素，開始出現對非正規品獵人組織抱持不信任感的思考型機器人。雖然實際情況不明，但與X4中的「仲裁部隊」最大的不同點，就是仲裁部隊是直屬於人類的。
-    在「The Day Of
-    Σ」中有提到，組織總部設於[亞伯市](https://zh.wikipedia.org/wiki/亞伯 "wikilink")，不過在遊戲開始前已被飛彈摧毀。
+    在「The Day Of Σ」中有提到，組織總部設於[亞伯市](https://zh.wikipedia.org/wiki/亞伯 "wikilink")，不過在遊戲開始前已被飛彈摧毀。
       - 組織架構與成員
     :;指揮官
     ::總部：凱恩博士→席格納斯
@@ -189,9 +169,7 @@ Console](../Page/Virtual_Console.md "wikilink")</SMALL>
         在反覆的戰爭中，各戰鬥部隊人員已經所剩無幾。由於部隊的機能喪失，『X6』時將各部隊解散，改採用最終指揮官席格那斯領導，直接對所有獵人進行指示的方式以維持部隊的運作。
           - 領航員
             主要工作是引導獵人的行動與分析各種資料，在獵人們的行動上有著舉足輕重的地位。
-            目前有出現名字的成員有艾莉雅、柏拉圖、雷亞、愛麗絲（僅在[Soul
-            Eraser](https://zh.wikipedia.org/wiki/洛克人X2_Soul_Eraser "wikilink")）、奈奈（僅在Command
-            Mission）
+            目前有出現名字的成員有艾莉雅、柏拉圖、雷亞、愛麗絲（僅在[Soul Eraser](https://zh.wikipedia.org/wiki/洛克人X2_Soul_Eraser "wikilink")）、奈奈（僅在Command Mission）
           - 其他成員
             艾克賽爾
             生命維持者(X5)
@@ -204,7 +182,7 @@ Console](../Page/Virtual_Console.md "wikilink")</SMALL>
 
   - 修羅獵人（カウンターハンター，Counter Hunter）(X2)
     歐美版本為「**X Hunter**」。
-    由**亞吉爾**、**巴雷**、**卡斯**三人所構成的組織，組織名稱有「非正規品獵人抹殺者」的意義（歐美版本名稱則是針對艾克斯）。恰如其名，以癱瘓「非正規品獵人」為目的，半個月內就已秘密殺害「非正規品獵人」中100位以上的優秀獵人。組織的最終目的是將[艾克斯抹殺以及復活西克馬](https://zh.wikipedia.org/wiki/洛克人X "wikilink")，為了妨礙[艾克斯](https://zh.wikipedia.org/wiki/洛克人X "wikilink")，以卡斯製作的[傑洛部件為賭注向](../Page/傑洛.md "wikilink")[艾克斯挑戰](https://zh.wikipedia.org/wiki/洛克人X "wikilink")。
+    由**亞吉爾**、**巴雷**、**卡斯**三人所構成的組織，組織名稱有「非正規品獵人抹殺者」的意義（歐美版本名稱則是針對艾克斯）。恰如其名，以癱瘓「非正規品獵人」為目的，半個月內就已秘密殺害「非正規品獵人」中100位以上的優秀獵人。組織的最終目的是將[艾克斯抹殺以及復活西克馬](https://zh.wikipedia.org/wiki/洛克人X "wikilink")，為了妨礙[艾克斯](https://zh.wikipedia.org/wiki/洛克人X "wikilink")，以卡斯製作的[傑洛](../Page/傑洛.md "wikilink")部件為賭注向[艾克斯挑戰](https://zh.wikipedia.org/wiki/洛克人X "wikilink")。
 
 <!-- end list -->
 
@@ -249,7 +227,7 @@ Console](../Page/Virtual_Console.md "wikilink")</SMALL>
     「Replica（複製品）」+「Android（人型機器人）」的複合字，又稱**雷普利機器人**。歐美版本為「**reploid**（レプロイド）」。
     具有像人類一般思考迴路的機器人總稱，能夠獨自思考並自行解決事情；為了區分，僅按照程式指令行動的機器人被稱為**指令型機器人**（メカニロイド，Mechaniroid）。思考型機器人的創造者是凱因博士，但所參考的思考迴路原型，是由100年前的湯瑪士‧萊特與艾伯特‧W‧威利2人所寫。
     在100年後，X系列的世界中已經擁有了各種高度的技術，然而在萊特、威利博士相繼過世後，當時未能被他人理解思考迴路理論與技術早已完全失傳。藉由解析艾克斯，凱恩博士才得以使這項技術重見於世；然而即使是凱恩博士，也並不完全了解這樣技術，如同萊特博士在封印艾克斯的膠囊中所留下的警告：「沒有人能夠100%了解我的技術」。
-    由於[艾克斯](https://zh.wikipedia.org/wiki/艾克斯 "wikilink")、[傑洛並非基於凱恩博士的技術而誕生](../Page/傑洛.md "wikilink")，故嚴格來講並不算是思考型機器人。而一般認為由凱恩博士製造的西克瑪是第一台思考型機器人\[12\]。
+    由於[艾克斯](https://zh.wikipedia.org/wiki/艾克斯 "wikilink")、[傑洛](../Page/傑洛.md "wikilink")並非基於凱恩博士的技術而誕生，故嚴格來講並不算是思考型機器人。而一般認為由凱恩博士製造的西克瑪是第一台思考型機器人\[12\]。
     小說版中，對此一名詞解釋為「擁有能模仿人類思考能力的機器人」。
 
 <!-- end list -->
@@ -257,7 +235,7 @@ Console](../Page/Virtual_Console.md "wikilink")</SMALL>
   - 非正規品（イレギュラー，Irregular）
     又稱**非正規機器人**、**異常者**、**異常機器人**，歐美版本為「**Maverick**」（意為不服從者、異教徒、特立獨行者）。
     指包含指令型、思考型機器人在內因電子頭腦故障會傷害人類及其它思考型機器人的機器人總稱，也就是機器人中的犯罪者。一旦思考型機器人被政府的「非正規品獵人」組織認定為非正規品後，獵人就可將其處刑。但並非所有的非正規品都會受到破壞處分，也有像[傑洛](../Page/傑洛.md "wikilink")、冰霜海象等，之後解除其非正規品判定並回歸社會的思考型機器人存在。
-    非正規化的原因，[傑洛曾說](../Page/傑洛.md "wikilink")「程式上的錯誤，以及電子智能的故障。我們思考型機器人的編碼處理能力，反而也會變成麻煩的東西」\[13\]。除了電子頭腦的思考程式故障，病毒等外在因素的影響也經常發生。除了技術上的缺失，擁有與人類相同思考方式的思考型機器人，就像人類一樣，也可能按自己的意思違反命令或進行犯罪；這些思考型機器人同樣會被判定為非正規品之後處刑。
+    非正規化的原因，[傑洛](../Page/傑洛.md "wikilink")曾說「程式上的錯誤，以及電子智能的故障。我們思考型機器人的編碼處理能力，反而也會變成麻煩的東西」\[13\]。除了電子頭腦的思考程式故障，病毒等外在因素的影響也經常發生。除了技術上的缺失，擁有與人類相同思考方式的思考型機器人，就像人類一樣，也可能按自己的意思違反命令或進行犯罪；這些思考型機器人同樣會被判定為非正規品之後處刑。
     在本系列中的各關頭目在非正規品獵人組織中的正式記錄上，都被當作非正規品處理。
 
 <!-- end list -->
@@ -275,18 +253,13 @@ Console](../Page/Virtual_Console.md "wikilink")</SMALL>
   -
   -
   -
-[Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
-[Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:22世紀背景作品](https://zh.wikipedia.org/wiki/Category:22世紀背景作品 "wikilink")
-[Category:洛克人X系列](https://zh.wikipedia.org/wiki/Category:洛克人X系列 "wikilink")
+[Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink") [Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:22世紀背景作品](https://zh.wikipedia.org/wiki/Category:22世紀背景作品 "wikilink") [Category:洛克人X系列](https://zh.wikipedia.org/wiki/Category:洛克人X系列 "wikilink")
 
 1.
 2.  但是，凱恩博士對艾克斯有所隱瞞，所以艾克斯只知道自己的製作者已不在人世。而凱恩博士對外及對內都謊稱艾克斯的製作者是自己已逝的密友。
 3.  設定上是為了因應西克瑪的叛亂而被派去支援領航工作，從艾克斯的敘述「她有著讓人想起了傑洛的金髮和顏色略淡的紅色身體」一句已經暗示她的身分，其後艾克斯更直接叫出了她的名字。
 4.  小說插畫裡也有出現年輕時的凱恩博士
-5.  在此之前，有粉絲猜測「VAVA」之名是來自日文中的「鬼牌（日文中也被稱為「ババ」，有此一說可能來自於「和身為王牌的X為相對的存在」）」。重製版裡霸法也曾自稱為「鬼牌（日文版為Joker，歐美版則是Wild
-    card）」，另外在行動裝置上的重製版中達成條件下打倒霸法時會取得成就「孤独の道化（道化即日文的小丑=Joker）」。
+5.  在此之前，有粉絲猜測「VAVA」之名是來自日文中的「鬼牌（日文中也被稱為「ババ」，有此一說可能來自於「和身為王牌的X為相對的存在」）」。重製版裡霸法也曾自稱為「鬼牌（日文版為Joker，歐美版則是Wild card）」，另外在行動裝置上的重製版中達成條件下打倒霸法時會取得成就「孤独の道化（道化即日文的小丑=Joker）」。
 6.  對多普拉博士表示感謝，但本人表示絕對不會遵從命令，所以多普拉博士自己也認為他很礙事
 7.  例如在手中拿著一杯[波旁威士忌沉思](https://zh.wikipedia.org/wiki/波旁威士忌 "wikilink")，或是邊彈奏鋼琴邊思考哲學
 8.  包含艾克斯，但不清楚是否交代過艾克斯的身世

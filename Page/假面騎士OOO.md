@@ -1,14 +1,12 @@
-《**假面騎士OOO**》(，)從2010年9月5日～2011年8月28日期間，於[朝日電視台](../Page/朝日電視台.md "wikilink")，每週日早上8:00-8:30播出的[日本](../Page/日本.md "wikilink")[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")，为《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第12部[平成系列作品](../Page/平成.md "wikilink")。
+《**假面騎士OOO**》(，)從2010年9月5日～2011年8月28日期間，於[朝日電視台](../Page/朝日電視台.md "wikilink")，每週日早上8:00-8:30播出的[日本](../Page/日本.md "wikilink")[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")，为《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第12部[平成](../Page/平成.md "wikilink")系列作品。
 
-台灣[東森幼幼台從](../Page/東森幼幼台.md "wikilink")2013年6月16日起於每個星期日17:30～18:00播出，而香港[無綫電視定本作譯名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**-{幪面超人OOO}-**》，從2013年7月13日起於[翡翠台每週六早上](../Page/翡翠台.md "wikilink")11:15～11:50播出。
+台灣[東森幼幼台](../Page/東森幼幼台.md "wikilink")從2013年6月16日起於每個星期日17:30～18:00播出，而香港[無綫電視定本作譯名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**-{幪面超人OOO}-**》，從2013年7月13日起於[翡翠台](../Page/翡翠台.md "wikilink")每週六早上11:15～11:50播出。
 
 ## 本作特色
 
-  - 本作首次以[硬幣為主题](../Page/硬幣.md "wikilink")，除了這個，还围绕著[欲望和](https://zh.wikipedia.org/wiki/欲望 "wikilink")[内褲等关键字](https://zh.wikipedia.org/wiki/内褲 "wikilink")。
-  - 本作的世界觀設定和後作《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》\[1\]有所關聯，之後於2017年上映的《[假面騎士平成Generations
-    FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀。
-  - 本作主角騎士所使用的相关道具為類似[自動販賣機的裝置](../Page/自動販賣機.md "wikilink")，當投入不同[代幣就可以變身成不同的戰鬥型態](../Page/代幣.md "wikilink")，若需要時可按下騎士機車成為一臺自動販賣機，再次投入代幣後可再變成騎士機車或得到其他不同機器。
+  - 本作首次以[硬幣](../Page/硬幣.md "wikilink")為主题，除了這個，还围绕著[欲望和](https://zh.wikipedia.org/wiki/欲望 "wikilink")[内褲等关键字](https://zh.wikipedia.org/wiki/内褲 "wikilink")。
+  - 本作的世界觀設定和後作《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》\[1\]有所關聯，之後於2017年上映的《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀。
+  - 本作主角騎士所使用的相关道具為類似[自動販賣機](../Page/自動販賣機.md "wikilink")的裝置，當投入不同[代幣](../Page/代幣.md "wikilink")就可以變身成不同的戰鬥型態，若需要時可按下騎士機車成為一臺自動販賣機，再次投入代幣後可再變成騎士機車或得到其他不同機器。
   - 本作结合了历代平成假面騎士的相关元素，其中《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》就占大多数：
       - 本作繼《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》後，主角騎士的变身腰带来自远古时期，同時最终形態被設定為「會因陷入失控而有生命危險的形態」。
       - 本作繼《[假面騎士555](../Page/假面騎士555.md "wikilink")》和《[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")》後，再次出現主角騎士有怪人形态\[2\]。
@@ -19,11 +17,11 @@
 ## 故事概要
 
   -
-    本作中怪人是由800年的沉睡中覺醒的動物族，分別為鳥系、昆蟲系、貓科系、重量系，水棲系和恐龍系這六大族類。其中鳥類的幹部怪人（Ankh）因意外借助使用瀕死狀態的泉刑警身體出現，與主角合作令其成為假面騎士OOO。
-    主角是名沒有夢想，沒有工作，也沒有家庭的男人（但在后期发现主角其实是某富贵人家的公子）。隨著戰鬥才漸漸對於活著這件事情有了確實的體會。而變身所使用的[代幣是作為本身能量來源的存在](../Page/代幣.md "wikilink")，沉睡的怪人因為醒來後發現作為自己身體能量源的代幣不足，因此開始追尋代幣。
+    本作中怪人是由800年的沉睡中覺醒的動物族，分別為鳥系、昆蟲系、貓科系、重力系，水棲系和恐龍系這六大族類。其中鳥類的幹部怪人（Ankh）因意外借助使用瀕死狀態的泉刑警身體出現，與主角合作令其成為假面騎士OOO。
+    主角是名沒有夢想，沒有工作，也沒有家庭的男人（但在后期发现主角其实是某富贵人家的公子）。隨著戰鬥才漸漸對於活著這件事情有了確實的體會。而變身所使用的核心硬幣是作為本身能量來源的存在，沉睡的怪人因為醒來後發現作為自己身體能量源的代幣不足，因此開始追尋代幣。
     怪人的終極目的，是希望搜集齊所有的代幣進行完全復活，成為萬物之「王」。假面騎士OOO為了粉碎這些怪人的野心而登場。
-    根據核心幣在Driver（變身器）擺放順序分別給與頭部、手臂、雙腳能力進行變身，通過打倒敵對怪人，可以獲得隱藏能力的硬幣。
-    初期變身的形態為獵鷹、猛虎、蝗蟲的結合體（鷹虎蝗），擁有獵鷹的視力和老虎的銳爪還有蝗蟲的跳躍力。
+    根據核心硬幣在Driver（變身器）擺放順序分別給與頭部、手臂、雙腳能力進行變身，通過打倒敵對怪人，可以獲得隱藏能力的硬幣。
+    初期變身的形態為老鷹、老虎、蝗蟲的結合體（鷹虎蝗），擁有獵鷹的視力和老虎的銳爪還有蝗蟲的跳躍力。
     順帶一提，OOO的故事舞台是虛構地點「夢見町」。
 
 ## 用語
@@ -34,13 +32,11 @@
 
 ### 一般硬幣 （Cell Medal）
 
-怪人透過吸取人類的慾望可以製作出一般硬幣。有時候硬幣會被植入人體中，有時則是寄生在人類身上，有時又會把慾望吃掉。
-隨著人類慾望的滿足，硬幣也會增加。而騎士將怪人打倒就會掉出一般硬幣。而主角要使用鴻上基金會所提供的設備亦要投入足夠的硬幣才行。
+怪人透過吸取人類的慾望可以製作出一般硬幣。有時候硬幣會被植入人體中，有時則是寄生在人類身上，有時又會把慾望吃掉。 隨著人類慾望的滿足，硬幣也會增加。而騎士將怪人打倒就會掉出一般硬幣。而主角要使用鴻上基金會所提供的設備亦要投入足夠的硬幣才行。
 
 ### 核心硬幣 （Core Medal）
 
-OOO用作變身及變成其他形態的硬幣，那些硬幣就藏在幹部怪人(Greeed)的體內，如果將核心硬幣投入普通人以後，該人會逐漸有變成Greeed的傾向，而主角(火野
-映司)的體內也有恐龍系的核心硬幣。
+OOO用作變身及變成其他形態的硬幣，那些硬幣就藏在幹部怪人(Greeed)的體內，如果將核心硬幣投入普通人以後，該人會逐漸有變成Greeed的傾向，而主角(火野 映司)的體內也有恐龍系的核心硬幣。
 
 ## 本作登場人物
 
@@ -53,10 +49,7 @@ OOO用作變身及變成其他形態的硬幣，那些硬幣就藏在幹部怪�
   -
     原文：オーズドライバー
     火野映司變身為假面騎士OOO的Driver。原本的用途是用在封印Greeed及Medal上，在Greeed的封印解開後被Ankh取走後才用於戰鬥上。
-    OOO Driver的右側裝有O-Scanner（掃瞄器），左側裝有一個能放6枚Medal的Medal備用盒，OOO
-    Driver上有3個投幣口，使用時置入3枚核心硬幣，將OOO Driver向下轉向固定MEDAL，此時OOO
-    Driver會下斜30度角，然後用O-Scanner掃瞄OOO
-    Driver，便能變身成假面騎士OOO，轉換型態時也是以同樣方法更換MEDAL後再掃瞄一次即可。
+    OOO Driver的右側裝有O-Scanner（掃瞄器），左側裝有一個能放6枚Medal的Medal備用盒，OOO Driver上有3個投幣口，使用時置入3枚核心硬幣，將OOO Driver向下轉向固定MEDAL，此時OOO Driver會下斜30度角，然後用O-Scanner掃瞄OOO Driver，便能變身成假面騎士OOO，轉換型態時也是以同樣方法更換MEDAL後再掃瞄一次即可。
 
 #### 變身模式（通常聯組）
 
@@ -249,19 +242,14 @@ OOO的基本形態鷹虎蝗聯組的極限進化，超越能力的発揮而不�
 #### 變身模式（普通）
 
   -
-    火野映司投入OOO Driver的核心硬幣分別代表頭部、手臂、腿部，投入代表這三個部位的核心硬幣至OOO Driver，之後將OOO
-    Driver向下轉向固定MEDAL，再取下O-Scanner掃瞄OOO
-    Driver，便能變身成假面騎士OOO。變身期間若再次使用O-Scanner掃瞄OOO
-    Driver則會發動必殺技，有Scanning Charge的指令音效。
+    火野映司投入OOO Driver的核心硬幣分別代表頭部、手臂、腿部，投入代表這三個部位的核心硬幣至OOO Driver，之後將OOO Driver向下轉向固定MEDAL，再取下O-Scanner掃瞄OOO Driver，便能變身成假面騎士OOO。變身期間若再次使用O-Scanner掃瞄OOO Driver則會發動必殺技，有Scanning Charge的指令音效。
     根據不同配合，產生多種不同的形態，可按所有情況而使用不同的形態或聯組。相对于联组的力量较弱，但是不同的代币组合可以令OOO在对付不同的敌人时取得针对性的优势。OOO的亚种一共有119个。tv版和剧场版加起来一共只有29个亚种，其他90个亚种都只能在格斗游戏-超巅峰英雄实现。
-    順帶一提，在第六集Ankh把TaToBa聯組的核心硬幣交給映司以前，映司都只是保管OOO
-    Driver，並沒有持有核心硬幣，核心硬幣是由Ankh所保管的\[7\]但其後又被Ankh沒收了。
+    順帶一提，在第六集Ankh把TaToBa聯組的核心硬幣交給映司以前，映司都只是保管OOO Driver，並沒有持有核心硬幣，核心硬幣是由Ankh所保管的\[7\]但其後又被Ankh沒收了。
 
 <!-- end list -->
 
   -
-    OOO共有五種普通系的聯組和二種特別系的聯組。COMBO是特定組合，並有特殊音效，劇中除了TATOBA
-    COMBO為基本組合外，其餘的COMBO皆為同系組合。
+    OOO共有五種普通系的聯組和二種特別系的聯組。COMBO是特定組合，並有特殊音效，劇中除了TATOBA COMBO為基本組合外，其餘的COMBO皆為同系組合。
     同類系的核心幣會彼此間產生共鳴藉以激發力量，因此COMBO的組合雖擁有較強的力量，但也因為維持其力量所需必須消耗變身者的體力，為使用COMBO的缺點。
 
 <!-- end list -->
@@ -375,16 +363,14 @@ OOO的基本形態鷹虎蝗聯組的極限進化，超越能力的発揮而不�
 
   -
     鍬虎鷲
-    頭部—綠色；手臂—黃色；腿部—深紅色。於劇場版\<假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max\>登場。
+    頭部—綠色；手臂—黃色；腿部—深紅色。於劇場版\<假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max\>登場。
     能發出電擊及用其虎爪和鷲爪能同時攻擊。
 
 ・
 
   -
     鍬猩豹
-    頭部—綠色；手臂—灰色；腿部—橙黃色。於劇場版\<假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max\>登場。
+    頭部—綠色；手臂—灰色；腿部—橙黃色。於劇場版\<假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max\>登場。
 
 <!-- end list -->
 
@@ -523,10 +509,7 @@ OOO的基本形態鷹虎蝗聯組的極限進化，超越能力的発揮而不�
 
   - Medajalibur（）
     鴻上基金會開發，假面騎士OOO專用的大劍，以TaToBa Combo擅長使用大劍。
-    投入1枚Cell Medal攻擊力會加強1倍，投入2枚會加強2倍，投入3枚Cell
-    Medals後，再以O-Scanner掃瞄劍身，便可發動必殺技**OOO
-    Bash**，有Triple Scanning
-    Charge指令音效，一招非常霸道的斬擊，斬擊路線的所有事物連同空間都會被斬斷。但目標以外的物件會在被斬擊以後進行時間逆行並修復。
+    投入1枚Cell Medal攻擊力會加強1倍，投入2枚會加強2倍，投入3枚Cell Medals後，再以O-Scanner掃瞄劍身，便可發動必殺技**OOO Bash**，有Triple Scanning Charge指令音效，一招非常霸道的斬擊，斬擊路線的所有事物連同空間都會被斬斷。但目標以外的物件會在被斬擊以後進行時間逆行並修復。
 
 ### 假面騎士Birth
 
@@ -534,12 +517,9 @@ OOO的基本形態鷹虎蝗聯組的極限進化，超越能力的発揮而不�
     本作的第二騎士，能使用六種戰鬥武裝用作各種組合攻擊。
     武器為Birth Buster。
     扭蛋機是其變身器模式的參照對像。
-    因為變身、以Birth Buster攻擊、得到戰鬥武裝和使用必殺技時也要使用Cell Medal，所以必須常常帶著大量Cell
-    Medal。因此，Birth需要助手以保持Cell Medal的供給順暢及輔助戰鬥，若無助手幫忙，Birth戰力只能撐到Cell
-    Medal用盡。
+    因為變身、以Birth Buster攻擊、得到戰鬥武裝和使用必殺技時也要使用Cell Medal，所以必須常常帶著大量Cell Medal。因此，Birth需要助手以保持Cell Medal的供給順暢及輔助戰鬥，若無助手幫忙，Birth戰力只能撐到Cell Medal用盡。
     雖然沒有Cell Medal便不能變身和戰鬥，但一使用Cell Medal便能使出多樣化和強力的組合攻擊。
-    使用過的變身者：織田信長（Movie大戰Core）、伊達明（第一任，第16話）、後藤慎太郎（第二任，第38話和Movie大戰Core）、火野映司（將軍與21個Core
-    Medal）
+    使用過的變身者：織田信長（Movie大戰Core）、伊達明（第一任，第16話）、後藤慎太郎（第二任，第38話和Movie大戰Core）、火野映司（將軍與21個Core Medal）
     變身者－助手：織田信長－無；伊達明－後藤慎太郎；後藤慎太郎－里中惠理；火野映司－泉比奈
 
 #### Birth Prototype
@@ -554,15 +534,10 @@ OOO的基本形態鷹虎蝗聯組的極限進化，超越能力的発揮而不�
 
   -
     原文：バースドライバー
-    變身為假面騎士Birth的Driver。由真木清人開發和製造，外型像扭蛋機。完全使用CELL
-    MEDAL運作的系統。分別有原型版跟正式版(原型版在變身後在扭蛋會有紅色的條紋，而且召喚出的戰鬥武裝一樣會有紅色條紋)
-    由於Birth Driver必須藉由消耗Cell Medal的能量以維持運作，因此使用過的Cell
-    Medals會消失（類似前作[電王中的零神卡](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")）。而且Birth
-    Driver內有自爆系統，是為了防止Birth
-    Driver落入其他人手中而設，只要一按真木設計的引爆器，Birth的胸口會發出紅色閃光後幾秒內爆炸，變身者會當場被炸死。但在第38話中後藤說明已經移除此系統。
+    變身為假面騎士Birth的Driver。由真木清人開發和製造，外型像扭蛋機。完全使用CELL MEDAL運作的系統。分別有原型版跟正式版(原型版在變身後在扭蛋會有紅色的條紋，而且召喚出的戰鬥武裝一樣會有紅色條紋)
+    由於Birth Driver必須藉由消耗Cell Medal的能量以維持運作，因此使用過的Cell Medals會消失（類似前作[電王中的零神卡](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")）。而且Birth Driver內有自爆系統，是為了防止Birth Driver落入其他人手中而設，只要一按真木設計的引爆器，Birth的胸口會發出紅色閃光後幾秒內爆炸，變身者會當場被炸死。但在第38話中後藤說明已經移除此系統。
     Driver左側有1個投幣口，使用時須投入1枚Cell Medal，然後轉動右邊把手半圈，便能變身成假面騎士Birth。
-    變身期間可投入1枚Cell Medals，然後再轉動右邊把手半圈，便能召喚出各式戰鬥武裝，由身上的扭蛋彈出和裝上。如同時投入兩枚Cell
-    Medals，然後扭動右邊把手，能發動戰鬥武裝的必殺技。將Cell Medal拿出便會解除變身。
+    變身期間可投入1枚Cell Medals，然後再轉動右邊把手半圈，便能召喚出各式戰鬥武裝，由身上的扭蛋彈出和裝上。如同時投入兩枚Cell Medals，然後扭動右邊把手，能發動戰鬥武裝的必殺技。將Cell Medal拿出便會解除變身。
 
 #### Birth CLAWS
 
@@ -653,8 +628,7 @@ OOO的基本形態鷹虎蝗聯組的極限進化，超越能力的発揮而不�
 
   -
     將全數武裝一併召喚後在獨立組裝為大型作戰機械的狀態，外型為蠍子，第28話登場。
-    身體主架構為Breast Cannon，右手為Cutter Wing，左手為Shovel Arm，腿部為Catepillar
-    Leg，背部為Crane Arm，尾端為Drill Arm。
+    身體主架構為Breast Cannon，右手為Cutter Wing，左手為Shovel Arm，腿部為Catepillar Leg，背部為Crane Arm，尾端為Drill Arm。
     主要上由Birth Driver的人工智慧自動運作而行動，也可由Birth的身體動作同步控制行動。
     亦具有吸收假面騎士OOO的COMBO型態的過剩能量的功能。
     能在陸上和海上行動，移動速度很快。也能載人進行作戰。
@@ -664,19 +638,15 @@ OOO的基本形態鷹虎蝗聯組的極限進化，超越能力的発揮而不�
 #### 武器
 
   - Birth Buster（バースバスター）
-    由真木清人為假面騎士Birth特別製造的機槍，裝入有Cell
-    Medals的彈匣後才能發射，只要把彈匣裝上便能大量發射黃色代幣子彈。代幣子彈射完後，需再次填裝Cell
-    Medals才可再次使用。把彈匣裝上槍口能發動必殺技「**CELL Burst**」，為黃色光球形的強力槍擊。
+    由真木清人為假面騎士Birth特別製造的機槍，裝入有Cell Medals的彈匣後才能發射，只要把彈匣裝上便能大量發射黃色代幣子彈。代幣子彈射完後，需再次填裝Cell Medals才可再次使用。把彈匣裝上槍口能發動必殺技「**CELL Burst**」，為黃色光球形的強力槍擊。
 
 ### 假面騎士Poseidon
 
   -
     本作惡役騎士，是歷代惡役騎士最晚登場的騎士。
-    只於《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》登場。
+    只於《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》登場。
     變身器與變身的三枚海神系硬幣（鯊魚、鯨、狼魚各只得一枚），皆為鴻上基金會所製造。
-    原作故事四十年後，那時的騎士為水系的**假面騎士Aqua**，但由於變身者**湊海遙**不擅水性，於是鴻上會長把同是水系的Poseidon變身器交托於**湊海遙**，變身成假面騎士Poseidon仍不敵未來的敵人，突然天上大量的Core
-    Medals及Cell Medals進入本體Poseidon體內成為Greeed。
+    原作故事四十年後，那時的騎士為水系的**假面騎士Aqua**，但由於變身者**湊海遙**不擅水性，於是鴻上會長把同是水系的Poseidon變身器交托於**湊海遙**，變身成假面騎士Poseidon仍不敵未來的敵人，突然天上大量的Core Medals及Cell Medals進入本體Poseidon體內成為Greeed。
     主要武器為長型深紅魚叉，可發動絕招Deepest Harpoon（汪洋深淵叉擊）。
     使用過的變身者：湊海遙、海神系Greeed（已成獨立個體）
 
@@ -688,14 +658,10 @@ OOO的基本形態鷹虎蝗聯組的極限進化，超越能力的発揮而不�
 ### Core Medals（コアメダル）（核心硬幣）
 
   -
-    相當特殊且數量極少的Medals，擁有金色的邊緣，為怪人們主要搶奪的目標，亦是假面騎士OOO和Greeed的力量之源。代幣總共有七系，分為五個主要系—鳥系、昆蟲系、貓系、水棲系和重力系，其後加上恐龍系和爬蟲系。每種系列核心幣各有3種，並各有3枚，Greeed們必須取得自身系列的所有核心幣才能完全復活。每系原本有10枚Core
-    Medals，但因為破壞其中一個而想找回其核心硬幣的慾望變化成Greeed。
+    相當特殊且數量極少的Medals，擁有金色的邊緣，為怪人們主要搶奪的目標，亦是假面騎士OOO和Greeed的力量之源。代幣總共有七系，分為五個主要系—鳥系、昆蟲系、貓系、水棲系和重力系，其後加上恐龍系和爬蟲系。每種系列核心幣各有3種，並各有3枚，Greeed們必須取得自身系列的所有核心幣才能完全復活。每系原本有10枚Core Medals，但因為破壞其中一個而想找回其核心硬幣的慾望變化成Greeed。
     每一個Greeed只要集齊1枚核心代幣（要留有意識）及足夠的普通代幣便能復活（但並非完全復活）。即使自身被打敗，但只要一個留有意識的核心硬幣尚存且達到以上要求便能復活。不過如果該留有意識的核心硬幣被打碎，該Greeed才算是正式死亡。
-    每集片尾和片頭都會顯示該集映司和Ankh的持有枚數。最終話時幾乎所有Core
-    Medals皆被真木死去的黑洞吸進虛無，只剩一枚代表Ankh，碎成兩半的TAKA代幣。
-    於\<[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")\>得知所有Core
-    Medals被吸進黑洞後飛到40年後的世界去。
+    每集片尾和片頭都會顯示該集映司和Ankh的持有枚數。最終話時幾乎所有Core Medals皆被真木死去的黑洞吸進虛無，只剩一枚代表Ankh，碎成兩半的TAKA代幣。
+    於\<[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")\>得知所有Core Medals被吸進黑洞後飛到40年後的世界去。
 
 <table>
 <thead>
@@ -1120,8 +1086,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 ### Cell Medals（）（普通代幣）
 
   -
-    銀色，可組成Greeed和Yummy的身體，以及供Ride
-    Vendor、Medajalibur、Medagabryu等工具使用，也能在假面騎士Birth變身及戰鬥時使用。
+    銀色，可組成Greeed和Yummy的身體，以及供Ride Vendor、Medajalibur、Medagabryu等工具使用，也能在假面騎士Birth變身及戰鬥時使用。
 
 ## 輔助工具
 
@@ -1129,18 +1094,14 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 
   -
     **Ride Vendor**（）
-    假面騎士OOO的專用摩托車。可變形至「自動販賣機」模式，裝載著支援機器人Candroid。摩托車是以 [本田SHADOW
-    Phantom 750](http://www.honda.co.jp/SHADOW/Phantom/) 作為藍本。
+    假面騎士OOO的專用摩托車。可變形至「自動販賣機」模式，裝載著支援機器人Candroid。摩托車是以 [本田SHADOW Phantom 750](http://www.honda.co.jp/SHADOW/Phantom/) 作為藍本。
     並非只有一台販賣機，而是在各處都有，讓映司投入Cell Medals使用離自己最近的一台。
 
 ### 支援機器人
 
   -
     **Candroids**（）
-    被裝載在Ride Vendor內。當投入Cell Medals到「自動販賣機」模式的Ride Vendor中，再按Ride
-    Vendor上的按制，便會得到一個飲料罐形狀的機器人。如果以特定的方式按制，便能令Ride
-    Vendor同時掉落大量的同形號Candroids（第2話時後籐慎太郎以這方式以1枚Cell
-    Medal得到大量章魚罐來排出道路）。Candroids可以通過拉下頂部的拉環，由罐頭模式（）變形至動物模式（）。
+    被裝載在Ride Vendor內。當投入Cell Medals到「自動販賣機」模式的Ride Vendor中，再按Ride Vendor上的按制，便會得到一個飲料罐形狀的機器人。如果以特定的方式按制，便能令Ride Vendor同時掉落大量的同形號Candroids（第2話時後籐慎太郎以這方式以1枚Cell Medal得到大量章魚罐來排出道路）。Candroids可以通過拉下頂部的拉環，由罐頭模式（）變形至動物模式（）。
       - **鷹罐**
     紅色，能飛在空中，用來追蹤怪人和收集普通硬幣，也可以運送東西。
       - **章魚罐**
@@ -1148,11 +1109,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
       - **蝗蟲罐**
     綠色，有對講機和監視器的功能。
       - **虎罐**
-    黃色，變形後為老虎，放大後能和Ride Vendor合體為Toride Vendor，但其OOO難以制禦，只有Latoratah
-    Combo能控制，不然會暴走。能吸收Latoratah
-    Combo變身時過剩的能量以達至出力最大化，同時也能減少映司使用後的不適。比起普通的Ride
-    Vendor，Toride Vendor有更強的裝甲和武器，速度也有提升，攻擊力比普通的Ride
-    Vendor強上多倍，能發射圓形的硬幣彈，車頭能像猛虎的囗一樣張開咬碎敵人，也能以車前的利爪進行接近戰，甚至可以飛行。
+    黃色，變形後為老虎，放大後能和Ride Vendor合體為Toride Vendor，但其OOO難以制禦，只有Latoratah Combo能控制，不然會暴走。能吸收Latoratah Combo變身時過剩的能量以達至出力最大化，同時也能減少映司使用後的不適。比起普通的Ride Vendor，Toride Vendor有更強的裝甲和武器，速度也有提升，攻擊力比普通的Ride Vendor強上多倍，能發射圓形的硬幣彈，車頭能像猛虎的囗一樣張開咬碎敵人，也能以車前的利爪進行接近戰，甚至可以飛行。
       - **電鰻罐**
     紫藍色，能發出電流。第12話時曾組成帶電的套索牽制Ageha Yummy。
       - **猩猩罐**
@@ -1184,7 +1141,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <!-- end list -->
 
   -
-    **Ankh（Lost）（）**（[飛田光里飾](https://zh.wikipedia.org/wiki/飛田光里 "wikilink")/[入野自由聲演](../Page/入野自由.md "wikilink")/香港配音:[麥皓豐](../Page/麥皓豐.md "wikilink")（怪人）、[魏惠娥](../Page/魏惠娥.md "wikilink")（人型））
+    **Ankh（Lost）（）**（[飛田光里飾](https://zh.wikipedia.org/wiki/飛田光里 "wikilink")/[入野自由](../Page/入野自由.md "wikilink")聲演/香港配音:[麥皓豐](../Page/麥皓豐.md "wikilink")（怪人）、[魏惠娥](../Page/魏惠娥.md "wikilink")（人型））
     鳥系幹部。右半身不完全，代表色是紅色，能創造哺育型的Yummy。
     一開始僅有左腕出現於劇中。常散落紅色羽毛。
     其軀體因為被鴻上找到，並且復活，但僅空有生命型態並無自我意識和記憶。
@@ -1200,7 +1157,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <!-- end list -->
 
   -
-    **Uva（）**（[山田悠介飾](../Page/山田悠介.md "wikilink")／香港配音:[周良鴻](../Page/周良鴻.md "wikilink")）
+    **Uva（）**（[山田悠介](../Page/山田悠介.md "wikilink")飾／香港配音:[周良鴻](../Page/周良鴻.md "wikilink")）
     昆蟲系幹部。下半身不完全，代表色是綠色，能創造蟲蛹型的Yummy。
     在復活時，身上持有七枚核心硬幣。
     名字的含義是「掠奪」。
@@ -1234,7 +1191,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <!-- end list -->
 
   -
-    **Kazari（）**（[橋本汰斗飾](../Page/橋本汰斗.md "wikilink")／香港配音:[鄧港文](../Page/鄧港文.md "wikilink")）
+    **Kazari（）**（[橋本汰斗](../Page/橋本汰斗.md "wikilink")飾／香港配音:[鄧港文](../Page/鄧港文.md "wikilink")）
     貓系幹部。下半身不完全，代表色是黃色，能創造寄宿型的Yummy。
     在復活時，身上持有七枚核心硬幣。
     名字的含義是「偽裝」。
@@ -1281,8 +1238,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
     於第9話被奪走四枚核心硬幣。導致除了頭和身體以外都不完全。
     於第12話從Gamel手上取回2枚自己的核心硬幣，完成身體的一部分。
     於第15話被Kazari襲擊而幾乎失去所有核心硬幣（五枚），而被強制變成人類型態。
-    於第16話把回復為完全形態的Gamel和自己的七枚核心硬幣吸收再回復為完全形態，其後被真木強行將5,000個Cell
-    Medals與Uva的兩枚核心硬幣吸收入體內而變成巨大的貪婪形態並暴走，最後被OOO擊破。其本體和Gamel一起爆炸而核心硬幣卻被Kazari、Uva和Ankh奪取。
+    於第16話把回復為完全形態的Gamel和自己的七枚核心硬幣吸收再回復為完全形態，其後被真木強行將5,000個Cell Medals與Uva的兩枚核心硬幣吸收入體內而變成巨大的貪婪形態並暴走，最後被OOO擊破。其本體和Gamel一起爆炸而核心硬幣卻被Kazari、Uva和Ankh奪取。
     於第36話再次復活。
     於第45話中完全復活，能夠變為水流，但被OOO擊破，身上三枚核心硬幣亦被斬碎，隨即死亡。
     完全體時，頭部為殺人鯨造形，全身為電鰻造形的藍、黑和銀色衣甲，身上裝上有章魚腳的斗篷，雙腿也是章魚造形的，腰帶加上外框和金色寶石。
@@ -1313,11 +1269,10 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <!-- end list -->
 
   -
-    **Shocker Greeed**（[石川英郎聲演](../Page/石川英郎.md "wikilink")）
+    **Shocker Greeed**（[石川英郎](../Page/石川英郎.md "wikilink")聲演）
     劇場版Let's go kamen rider中登場的Greeed，由修卡核心硬幣變成。同時具有Greeed和Shocker怪人的特性。
     外形為修卡鳥。能連續放出硬幣狀的能源彈。
-    實力強大，在1971年曾壓倒性打敗幪面超人一號、二號，力壓OOO和NEW電王。但在2011年再戰時最終敗北在幪面超人一號、二號的Rider
-    Double Kick之下。而修卡核心硬幣被使用成TaMaShi Combo上。
+    實力強大，在1971年曾壓倒性打敗幪面超人一號、二號，力壓OOO和NEW電王。但在2011年再戰時最終敗北在幪面超人一號、二號的Rider Double Kick之下。而修卡核心硬幣被使用成TaMaShi Combo上。
 
 ### Yummy（下級怪人）
 
@@ -1325,13 +1280,10 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
     Yummy的讀音為，音同日文中的漢字「闇」的讀音，代表「黑暗」之意。
     Greeed從人類身上創造的怪物，只須將普通幣植入人的頭部即可製造出來。而被植入者即為「宿主」，Greeed也可以自身為宿主，但最後只能獲得1枚普通代幣而已。
     Yummy被製造的目的是為了藉由人類的慾望來增加普通代幣的獲得，一個完全成長的Yummy至少能增加上百枚普通代幣，Yummy最後會被Greeed還原成普通代幣。
-    剛製造出時為白色木乃伊不完全體（）（Blank），沒有任何能力和思考，只會單純的強化慾望（由原本的所製造出來的而定，如第一話中的是奪取寶石），有時甚至連原本將他們製造出來的怪人的命令都不會聽從，這時它們體內只有投入時的那一枚CELL
-    MEDAL。
-    當其慾望強化至一定程度時，就會蛻去原有的木乃伊外型，並擁有特殊的能力和智慧。體內的Cell
-    Medals就會增加，成為具備自身特質的怪人。
+    剛製造出時為白色木乃伊不完全體（）（Blank），沒有任何能力和思考，只會單純的強化慾望（由原本的所製造出來的而定，如第一話中的是奪取寶石），有時甚至連原本將他們製造出來的怪人的命令都不會聽從，這時它們體內只有投入時的那一枚CELL MEDAL。
+    當其慾望強化至一定程度時，就會蛻去原有的木乃伊外型，並擁有特殊的能力和智慧。體內的Cell Medals就會增加，成為具備自身特質的怪人。
     不同系的幹部製造出來的Yummy也不一樣。
-    Yummy因為和宿主的慾望而有互相直接影響的特性，當宿主發生異狀時Yummy也會產生異變，例如第17-18話中因宿主的慾望為雙重衍生而導致Kabuto
-    Yummy分裂出另一隻Yummy。
+    Yummy因為和宿主的慾望而有互相直接影響的特性，當宿主發生異狀時Yummy也會產生異變，例如第17-18話中因宿主的慾望為雙重衍生而導致Kabuto Yummy分裂出另一隻Yummy。
 
 #### 各類型的Yummy
 
@@ -1380,8 +1332,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 
   -
     **混合型Yummy**
-    因為Kazari吸收了不同屬性的CORE
-    MEDALS所以可製造兼具兩種以上特徵的Yummy，甚至是持有全新特性的Yummy\[9\]，復活後的Mezuru以Gamel為宿主亦可製造兼具速成特性的Yummy。
+    因為Kazari吸收了不同屬性的CORE MEDALS所以可製造兼具兩種以上特徵的Yummy，甚至是持有全新特性的Yummy\[9\]，復活後的Mezuru以Gamel為宿主亦可製造兼具速成特性的Yummy。
     使用過的Greeed- Kazari、Mezool
 
 <!-- end list -->
@@ -1444,7 +1395,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/鵺.md" title="wikilink">鵺Yummy</a></p></td>
+<td><p><a href="../Page/鵺.md" title="wikilink">鵺</a>Yummy</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1455,7 +1406,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/螳螂.md" title="wikilink">螳螂Yummy</a></p></td>
+<td><p><a href="../Page/螳螂.md" title="wikilink">螳螂</a>Yummy</p></td>
 <td><p>蟲蛹型</p></td>
 <td></td>
 <td><p>珠寶</p></td>
@@ -1467,7 +1418,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/象鼻蟲.md" title="wikilink">象鼻蟲Yummy</a></p></td>
+<td><p><a href="../Page/象鼻蟲.md" title="wikilink">象鼻蟲</a>Yummy</p></td>
 <td><p>蟲蛹型</p></td>
 <td><p>警備員A</p></td>
 <td><p>金錢</p></td>
@@ -1547,7 +1498,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/陸龜.md" title="wikilink">陸龜Yummy</a></p></td>
+<td><p><a href="../Page/陸龜.md" title="wikilink">陸龜</a>Yummy</p></td>
 <td><p>速成型</p></td>
 <td><p>Gamel</p></td>
 <td><p>打倒OOO</p></td>
@@ -1559,7 +1510,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/獨角仙.md" title="wikilink">獨角仙Yummy</a></p></td>
+<td><p><a href="../Page/獨角仙.md" title="wikilink">獨角仙</a>Yummy</p></td>
 <td><p>蟲蛹型</p></td>
 <td><p>白鳥梨惠</p></td>
 <td><p>由愛情衍生的變強</p></td>
@@ -1572,7 +1523,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/鍬形蟲.md" title="wikilink">鍬形蟲Yummy</a></p></td>
+<td><p><a href="../Page/鍬形蟲.md" title="wikilink">鍬形蟲</a>Yummy</p></td>
 <td><p>由愛情衍生的破壞</p></td>
 <td><p>擁有堅硬的殼<br />
 破壞力強</p></td>
@@ -1583,7 +1534,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/獅子" title="wikilink">獅子</a><a href="../Page/水母.md" title="wikilink">水母Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/獅子" title="wikilink">獅子</a><a href="../Page/水母.md" title="wikilink">水母</a>Yummy</p></td>
 <td><p>混合型</p></td>
 <td><p>山金十一</p></td>
 <td><p>復仇</p></td>
@@ -1594,7 +1545,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/蝗蟲.md" title="wikilink">蝗蟲Yummy</a></p></td>
+<td><p><a href="../Page/蝗蟲.md" title="wikilink">蝗蟲</a>Yummy</p></td>
 <td><p>蟲蛹型</p></td>
 <td><p>神林進</p></td>
 <td><p>消滅壞人</p></td>
@@ -1616,7 +1567,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p>魟魚<a href="../Page/犀牛.md" title="wikilink">犀牛Yummy</a></p></td>
+<td><p>魟魚<a href="../Page/犀牛.md" title="wikilink">犀牛</a>Yummy</p></td>
 <td><p>混合型</p></td>
 <td><p>全身被硬質皮膚包裹</p></td>
 <td><p><a href="../Page/鳥海浩輔.md" title="wikilink">鳥海浩輔</a>(日)<br />
@@ -1706,7 +1657,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/貓頭鷹.md" title="wikilink">貓頭鷹Yummy</a></p></td>
+<td><p><a href="../Page/貓頭鷹.md" title="wikilink">貓頭鷹</a>Yummy</p></td>
 <td><p>哺育型</p></td>
 <td><p>北村雄一</p></td>
 <td><p>和火野映司作朋友</p></td>
@@ -1761,7 +1712,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/禿鷲.md" title="wikilink">禿鷲Yummy</a></p></td>
+<td><p><a href="../Page/禿鷲.md" title="wikilink">禿鷲</a>Yummy</p></td>
 <td><p>哺育型</p></td>
 <td><p>草田</p></td>
 <td><p>嫉妒</p></td>
@@ -2389,21 +2340,14 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 
 ### 劇場版
 
-  - 「[假面騎士W Forever A至Z/命運的Gaia
-    Memory](https://zh.wikipedia.org/wiki/假面騎士W_Forever_A至Z/命運的Gaia_Memory "wikilink")」
-  - 「[假面騎士×假面騎士 OOO & W feat. Skull Movie大戰
-    Core](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_OOO_&_W_feat._Skull_Movie大戰_Core "wikilink")」
-  - 「[OOO·电王·All Riders Let's Go Kamen
-    Riders](../Page/OOO·電王·All_Riders_Let's_Go_假面騎士.md "wikilink")」
-  - 「[假面騎士OOO Wonderful
-    將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")」
-  - 「[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")」
+  - 「[假面騎士W Forever A至Z/命運的Gaia Memory](https://zh.wikipedia.org/wiki/假面騎士W_Forever_A至Z/命運的Gaia_Memory "wikilink")」
+  - 「[假面騎士×假面騎士 OOO & W feat. Skull Movie大戰 Core](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_OOO_&_W_feat._Skull_Movie大戰_Core "wikilink")」
+  - 「[OOO·电王·All Riders Let's Go Kamen Riders](../Page/OOO·電王·All_Riders_Let's_Go_假面騎士.md "wikilink")」
+  - 「[假面騎士OOO Wonderful 將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")」
+  - 「[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")」
   - 「[假面騎士×假面騎士超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")」
-  - 「[假面騎士×假面騎士 Wizard & Fourze
-    Movie大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")」
-  - 《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
+  - 「[假面騎士×假面騎士 Wizard & Fourze Movie大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")」
+  - 《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
 
 ## 樂曲
 
@@ -2411,21 +2355,15 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 
   - 『Anything Goes！』\[21\]\[22\]**有關OOO使用的變身模組不時會重製。**
 
-作詞 - [藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲 -  / 編曲 -
-、[中川幸太郎](../Page/中川幸太郎.md "wikilink") / 歌 -
-[大黑摩季](../Page/大黑摩季.md "wikilink")
+作詞 - [藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲 -  / 編曲 - 、[中川幸太郎](../Page/中川幸太郎.md "wikilink") / 歌 - [大黑摩季](../Page/大黑摩季.md "wikilink")
 
   - \-{『假面騎士Anything Goes！』}-（台灣版）\[23\]**有關OOO使用的變身模組不時會重製。**
 
-作詞 - [香蕉哥哥](../Page/香蕉哥哥.md "wikilink") / 作曲 -  / 編曲 -
-[西瓜哥哥](../Page/西瓜哥哥.md "wikilink") / 歌 -
-[周定緯](../Page/周定緯.md "wikilink")
+作詞 - [香蕉哥哥](../Page/香蕉哥哥.md "wikilink") / 作曲 -  / 編曲 - [西瓜哥哥](../Page/西瓜哥哥.md "wikilink") / 歌 - [周定緯](../Page/周定緯.md "wikilink")
 
   - \-{『幪面超人Anything Goes！』}-（香港版）\[24\]**有關OOO使用的變身模組不時會重製。**
 
-作詞 - [鄭櫻綸](../Page/鄭櫻綸.md "wikilink") / 作曲 -  / 編曲 -
-[葉肇中](../Page/葉肇中.md "wikilink") / 歌 -
-[馮允謙](../Page/馮允謙.md "wikilink")
+作詞 - [鄭櫻綸](../Page/鄭櫻綸.md "wikilink") / 作曲 -  / 編曲 - [葉肇中](../Page/葉肇中.md "wikilink") / 歌 - [馮允謙](../Page/馮允謙.md "wikilink")
 
 ### 插曲
 
@@ -2451,9 +2389,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 
   - 『レッツゴー\!\! ライダーキック』（第27話）
 
-作詞 - [石之森章太郎](../Page/石之森章太郎.md "wikilink") / 作曲・編曲 -
-[菊池俊輔](../Page/菊池俊輔.md "wikilink") / 歌 -
-[藤浩一](../Page/子門真人.md "wikilink")、メール・ハーモニー
+作詞 - [石之森章太郎](../Page/石之森章太郎.md "wikilink") / 作曲・編曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink") / 歌 - [藤浩一](../Page/子門真人.md "wikilink")、メール・ハーモニー
 
   - 『WIND WAVE』（第35話）
 
@@ -2461,8 +2397,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 
   - 『POWER to TEARER』（第36話、第44集）
 
-作詞 - 藤林聖子 / 作曲・編曲 - 鳴瀨シュウヘイ / 歌 -
-火野映司（渡部秀）×[串田晃](../Page/串田晃.md "wikilink")
+作詞 - 藤林聖子 / 作曲・編曲 - 鳴瀨シュウヘイ / 歌 - 火野映司（渡部秀）×[串田晃](../Page/串田晃.md "wikilink")
 
   - 『Reverse / Re：birth』（第38話、第46集、第47集）
 
@@ -2493,20 +2428,11 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 
 ## 外部連結
 
-  - [-{zh-cn:假面骑士; zh-tw:假面騎士; zh-hk:幪面超人;}-OOO
-    朝日電視台官网](http://www.tv-asahi.co.jp/ooo/)
-  - [-{zh-cn:假面骑士; zh-tw:假面騎士; zh-hk:幪面超人;}-OOO
-    東映官网](http://www.toei.co.jp/tv/ooo/index.html)
-  - [-{zh-cn:假面骑士; zh-tw:假面騎士; zh-hk:幪面超人;}-OOO 介紹（Ban Dai Hong
-    Kong）](http://www.youtube.com/watch?v=aYAz71qmPWI/)
+  - [-{zh-cn:假面骑士; zh-tw:假面騎士; zh-hk:幪面超人;}-OOO 朝日電視台官网](http://www.tv-asahi.co.jp/ooo/)
+  - [-{zh-cn:假面骑士; zh-tw:假面騎士; zh-hk:幪面超人;}-OOO 東映官网](http://www.toei.co.jp/tv/ooo/index.html)
+  - [-{zh-cn:假面骑士; zh-tw:假面騎士; zh-hk:幪面超人;}-OOO 介紹（Ban Dai Hong Kong）](http://www.youtube.com/watch?v=aYAz71qmPWI/)
 
-[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink")
-[Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink")
-[Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink")
-[Category:東森電視外購電視劇](https://zh.wikipedia.org/wiki/Category:東森電視外購電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:動物題材電視劇](https://zh.wikipedia.org/wiki/Category:動物題材電視劇 "wikilink")
-[Category:鍊金術題材作品](https://zh.wikipedia.org/wiki/Category:鍊金術題材作品 "wikilink")
+[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink") [Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink") [Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink") [Category:東森電視外購電視劇](https://zh.wikipedia.org/wiki/Category:東森電視外購電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:動物題材電視劇](https://zh.wikipedia.org/wiki/Category:動物題材電視劇 "wikilink") [Category:鍊金術題材作品](https://zh.wikipedia.org/wiki/Category:鍊金術題材作品 "wikilink")
 
 1.  假面騎士OOO第48集片尾曾經顯示過假面騎士Fourze中的角色與Fourze所用的Switch。
 

@@ -1,5 +1,4 @@
-《**Stay by my
-side**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第二張單曲](../Page/倉木麻衣.md "wikilink")，於2000年3月15日發行。
+《**Stay by my side**》是[日本](../Page/日本.md "wikilink")歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第二張單曲，於2000年3月15日發行。
 
 ## 簡介
 
@@ -17,8 +16,7 @@ side**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第二�
     <!-- end list -->
       -
         A面的後補曲。
-3.  '''Love, Day After Tomorrow （Day Tripper Drum'n' Bass Mix） (4:52)
-    '''
+3.  '''Love, Day After Tomorrow （Day Tripper Drum'n' Bass Mix） (4:52) '''
       - Remixed by Toast
 4.  **Stay by my side （Instrumental）**
 
@@ -36,12 +34,8 @@ side**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第二�
 
 ## 外部連結
 
-[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink")
-[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
-[Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
+[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink") [Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink") [Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
 
-1.  [2000年3月27日付 シングルチャート
-    TOP30](http://www.musictvprogram.com/corner-ranking-2000-3-27.html)
+1.  [2000年3月27日付 シングルチャート TOP30](http://www.musictvprogram.com/corner-ranking-2000-3-27.html)
 2.
 3.  [第54回NHK紅白歌合戦「素晴らしいニッポン　心に響く紅白を」](http://www.geocities.jp/kouhaku_mania/54)

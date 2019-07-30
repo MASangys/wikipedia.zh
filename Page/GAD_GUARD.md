@@ -1,5 +1,4 @@
-《**GAD
-Guard**》是[锦织博监督](https://zh.wikipedia.org/wiki/锦织博 "wikilink")，[GONZO制作的一部](../Page/GONZO.md "wikilink")26集原創日本動畫，于2003年4月至9月在[Animax与](../Page/Animax.md "wikilink")[富士电视台播出](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")。
+《**GAD Guard**》是[锦织博监督](https://zh.wikipedia.org/wiki/锦织博 "wikilink")，[GONZO](../Page/GONZO.md "wikilink")制作的一部26集原創日本動畫，于2003年4月至9月在[Animax](../Page/Animax.md "wikilink")与[富士电视台播出](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")。
 
 ## 故事概要
 
@@ -274,7 +273,4 @@ Guard**》是[锦织博监督](https://zh.wikipedia.org/wiki/锦织博 "wikilink
 
   - [ガドガード](https://archive.is/20130501150437/http://anime.biglobe.ne.jp/title/?id=1341)
 
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:2003年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2003年日本電視動畫 "wikilink")
-[Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:2003年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2003年日本電視動畫 "wikilink") [Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")

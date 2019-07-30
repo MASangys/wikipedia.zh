@@ -2,17 +2,8 @@
 
 ## 表示时间的三种数据类型
 
-  - 日历时间（Calendar
-    Time），是从一个标准**时间点**（epoch）到现在的时间经过的秒数，不包括插入[闰秒对时间的调整](../Page/闰秒.md "wikilink")。开始计时的标准时间点，各种编译器一般使用[UTC](../Page/协调世界时.md "wikilink")
-    1970-01-01
-    00:00:00。日历时间用数据类型`time_t`表示。`time_t`类型实际上一般是32位整数类型，因此表示的时间不能晚于[UTC](../Page/协调世界时.md "wikilink")
-    2038-01-18 19:14:07。为此，某些编译器引入了64位甚至更长的整型来保存日历时间，如Visual
-    C++支持`__time64_t`数据类型，通过`_time64()`函数获取日历时间，可支持到[UTC](../Page/协调世界时.md "wikilink")
-    3001-01-01 00:00:00的时间。
-  - 处理器时间（Processor
-    Time），也被称为[CPU时间](https://zh.wikipedia.org/wiki/CPU "wikilink")（CPU
-    Time），用以度量[进程使用的CPU资源](https://zh.wikipedia.org/wiki/进程 "wikilink")。处理器时间以时钟滴答数（Clock
-    Tick）计算，通常从进程启动开始计时，因此这是相对时间。时钟滴答数用[系统基本数据类型](https://zh.wikipedia.org/wiki/系统基本数据类型 "wikilink")`clock_t`来表示，每[秒钟包含](https://zh.wikipedia.org/wiki/秒钟 "wikilink")`CLOCKS_PER_SEC`（time.h中定义的常量，一般为1000）个时钟滴答，也可使用`sysconf`函数得到每秒的时钟滴答数。`clock_t`类型一般是32位整数类型。
+  - 日历时间（Calendar Time），是从一个标准**时间点**（epoch）到现在的时间经过的秒数，不包括插入[闰秒](../Page/闰秒.md "wikilink")对时间的调整。开始计时的标准时间点，各种编译器一般使用[UTC](../Page/协调世界时.md "wikilink") 1970-01-01 00:00:00。日历时间用数据类型`time_t`表示。`time_t`类型实际上一般是32位整数类型，因此表示的时间不能晚于[UTC](../Page/协调世界时.md "wikilink") 2038-01-18 19:14:07。为此，某些编译器引入了64位甚至更长的整型来保存日历时间，如Visual C++支持`__time64_t`数据类型，通过`_time64()`函数获取日历时间，可支持到[UTC](../Page/协调世界时.md "wikilink") 3001-01-01 00:00:00的时间。
+  - 处理器时间（Processor Time），也被称为[CPU时间](https://zh.wikipedia.org/wiki/CPU "wikilink")（CPU Time），用以度量[进程使用的CPU资源](https://zh.wikipedia.org/wiki/进程 "wikilink")。处理器时间以时钟滴答数（Clock Tick）计算，通常从进程启动开始计时，因此这是相对时间。时钟滴答数用[系统基本数据类型](https://zh.wikipedia.org/wiki/系统基本数据类型 "wikilink")`clock_t`来表示，每[秒钟包含](https://zh.wikipedia.org/wiki/秒钟 "wikilink")`CLOCKS_PER_SEC`（time.h中定义的常量，一般为1000）个时钟滴答，也可使用`sysconf`函数得到每秒的时钟滴答数。`clock_t`类型一般是32位整数类型。
   - 分解时间(broken-down time)，用结构数据类型`tm`表示，`tm`包含下列结构成员：
 
 | 成员                                                      | 描述                                                                              |
@@ -45,8 +36,7 @@
   -
     得到从进程启动到此次函数调用的累计的时钟滴答数。
 
-Windows
-API提供了更为精确的GetLocalTime()获取毫秒级的日历时间；QueryPerformanceCounter和QueryPerformanceFrequency两个函数获取高于1毫秒的精度。
+Windows API提供了更为精确的GetLocalTime()获取毫秒级的日历时间；QueryPerformanceCounter和QueryPerformanceFrequency两个函数获取高于1毫秒的精度。
 
 ## 三种时间日期数据类型的转换函数
 
@@ -55,13 +45,11 @@ API提供了更为精确的GetLocalTime()获取毫秒级的日历时间；QueryP
 <!-- end list -->
 
   -
-    从日历时间`time_t`到分解时间`tm`（[世界协调时UTC](https://zh.wikipedia.org/wiki/世界协调时 "wikilink")）的转换。函数返回的是一个静态分配的`tm`结构存储空间，该存储空间被`gmtime`,
-    `localtime`与`ctime`函数所共用. 这些函数的每一次调用会覆盖这块`tm`结构存储空间的内容。
+    从日历时间`time_t`到分解时间`tm`（[世界协调时UTC](https://zh.wikipedia.org/wiki/世界协调时 "wikilink")）的转换。函数返回的是一个静态分配的`tm`结构存储空间，该存储空间被`gmtime`, `localtime`与`ctime`函数所共用. 这些函数的每一次调用会覆盖这块`tm`结构存储空间的内容。
 
 <!-- end list -->
 
-  - ` struct tm*  `**`gmtime_r`**` (const time_t*  `*`timer`*` , struct
-    tm*  `*`result`*`)`
+  - ` struct tm*  `**`gmtime_r`**` (const time_t*  `*`timer`*` , struct tm*  `*`result`*`)`
 
 <!-- end list -->
 
@@ -102,9 +90,7 @@ API提供了更为精确的GetLocalTime()获取毫秒级的日历时间；QueryP
 <!-- end list -->
 
   -
-    把分解时间`tm`输出到字符串，结果的格式为"Www Mmm dd hh:mm:ss yyyy"，即“周几 月份数 日数
-    小时数:分钟数:秒钟数
-    年份数”。函数返回的字符串为静态分配，长度不大于26，与`ctime`函数共用。函数的每次调用将覆盖该字符串内容。
+    把分解时间`tm`输出到字符串，结果的格式为"Www Mmm dd hh:mm:ss yyyy"，即“周几 月份数 日数 小时数:分钟数:秒钟数 年份数”。函数返回的字符串为静态分配，长度不大于26，与`ctime`函数共用。函数的每次调用将覆盖该字符串内容。
 
 <!-- end list -->
 
@@ -117,8 +103,7 @@ API提供了更为精确的GetLocalTime()获取毫秒级的日历时间；QueryP
 
 <!-- end list -->
 
-  - `size_t strftime(char* s, size_t n, const char* format, const struct
-    tm* tptr)`
+  - `size_t strftime(char* s, size_t n, const char* format, const struct tm* tptr)`
 
 <!-- end list -->
 
@@ -127,8 +112,7 @@ API提供了更为精确的GetLocalTime()获取毫秒级的日历时间；QueryP
 
 <!-- end list -->
 
-  - `char * strptime(const char* buf, const char* format, struct tm*
-    tptr)`
+  - `char * strptime(const char* buf, const char* format, struct tm* tptr)`
 
 <!-- end list -->
 
@@ -168,9 +152,6 @@ int main(void)
   -
 ## 外部連結
 
-  - [C++ reference for date/time functions inherited from
-    C](http://en.cppreference.com/w/cpp/chrono/c)
+  - [C++ reference for date/time functions inherited from C](http://en.cppreference.com/w/cpp/chrono/c)
 
-[Category:时间](https://zh.wikipedia.org/wiki/Category:时间 "wikilink")
-[Category:C标准函数库](https://zh.wikipedia.org/wiki/Category:C标准函数库 "wikilink")
-[Category:C语言](https://zh.wikipedia.org/wiki/Category:C语言 "wikilink")
+[Category:时间](https://zh.wikipedia.org/wiki/Category:时间 "wikilink") [Category:C标准函数库](https://zh.wikipedia.org/wiki/Category:C标准函数库 "wikilink") [Category:C语言](https://zh.wikipedia.org/wiki/Category:C语言 "wikilink")

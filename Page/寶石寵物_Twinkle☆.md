@@ -1,34 +1,26 @@
-《**寶石寵物 Twinkle☆**》，是[三麗鷗和](../Page/三麗鷗.md "wikilink")[SEGA
-TOYS共同開發的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[角色](../Page/角色.md "wikilink")，[寶石寵物動畫版的第二作](../Page/寶石寵物.md "wikilink")。在2010年4月3日至2011年4月2日於[東京電視台播出](../Page/東京電視台.md "wikilink")，共52集，2013年7月22日發售收錄於BD-BOX的特別篇。宣傳口號是「每個女生都是出色的魔法使！」。台灣以《**寶石寵物
-閃亮魔法學園**》為標題，香港以《**寶石寵物II**》為標題播映。
+《**寶石寵物 Twinkle☆**》，是[三麗鷗](../Page/三麗鷗.md "wikilink")和[SEGA TOYS共同開發的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[角色](../Page/角色.md "wikilink")，[寶石寵物](../Page/寶石寵物.md "wikilink")動畫版的第二作。在2010年4月3日至2011年4月2日於[東京電視台](../Page/東京電視台.md "wikilink")播出，共52集，2013年7月22日發售收錄於BD-BOX的特別篇。宣傳口號是「每個女生都是出色的魔法使！」。台灣以《**寶石寵物 閃亮魔法學園**》為標題，香港以《**寶石寵物II**》為標題播映。
 
 ## 概要
 
-製作方由前作的[大阪電視台改為](../Page/大阪電視台.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")，而播放時間也由每週日早上9:30
-- 10:00改為每週六早上9:30 - 10:00。\[1\]
+製作方由前作的[大阪電視台](../Page/大阪電視台.md "wikilink")改為[東京電視台](../Page/東京電視台.md "wikilink")，而播放時間也由每週日早上9:30 - 10:00改為每週六早上9:30 - 10:00。\[1\]
 
-人類角色方面也作出了徹底的改變，而部分[寶石寵物的性格亦和前作有所不同](../Page/寶石寵物.md "wikilink")，但[寶石寵物所持有的寶石能力則不變](../Page/寶石寵物.md "wikilink")。世界觀也和前作有所不同，本作中人類是不知道寶石樂園的存在。
+人類角色方面也作出了徹底的改變，而部分[寶石寵物](../Page/寶石寵物.md "wikilink")的性格亦和前作有所不同，但[寶石寵物](../Page/寶石寵物.md "wikilink")所持有的寶石能力則不變。世界觀也和前作有所不同，本作中人類是不知道寶石樂園的存在。
 
 而本作中魔法學校作為主要場景經常出現，以魔法學校入學到畢業作為故事的主線大綱。
 
-製作班底也作出了更換、本作主要由『[七色★星露](../Page/七色★星露.md "wikilink")』的班底負責製作（系列構成 -
-[島田滿](../Page/島田滿.md "wikilink")、角色設定 - 伊部由起子、監督 -
-山本天志）。而劇本繼續由山田隆司、江夏由結擔當。
+製作班底也作出了更換、本作主要由『[七色★星露](../Page/七色★星露.md "wikilink")』的班底負責製作（系列構成 - [島田滿](../Page/島田滿.md "wikilink")、角色設定 - 伊部由起子、監督 - 山本天志）。而劇本繼續由山田隆司、江夏由結擔當。
 
 [Jewelpet_Twinkle_logo_TW.jpg](https://zh.wikipedia.org/wiki/File:Jewelpet_Twinkle_logo_TW.jpg "fig:Jewelpet_Twinkle_logo_TW.jpg")
 
-香港在2011年7月12日（首播）及2012年5月19日（重播）以「寶石寵物II」為標題分別於[翡翠台及](../Page/翡翠台.md "wikilink")[兒童台開始播放](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")。
+香港在2011年7月12日（首播）及2012年5月19日（重播）以「寶石寵物II」為標題分別於[翡翠台](../Page/翡翠台.md "wikilink")及[兒童台開始播放](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")。
 
-台灣在2012年8月25日以「寶石寵物 閃亮魔法學園」為標題開始於每週六早上8:00 - 8:30播放。後改為每週六早上上7:00 -
-7:30播放，並對於「不適兒童（不雅語、愛情）」台詞做了部分的裁剪。
+台灣在2012年8月25日以「寶石寵物 閃亮魔法學園」為標題開始於每週六早上8:00 - 8:30播放。後改為每週六早上上7:00 - 7:30播放，並對於「不適兒童（不雅語、愛情）」台詞做了部分的裁剪。
 
 ## 副標題「Tinkle☆」名稱的由來
 
-據官方得知，最初的「Jewelpet Tinkle☆」為錯誤的標題名稱，應為「Jewelpet
-Twinkle☆」。因大部分地區原先都以「Tinkle☆」來作副標題名稱，故「Tinkle☆」仍是大眾普遍且較喜歡使用的稱呼。產生這種差錯的原因是因為日語在念此平假名時將其音節省略，最後才造成其他地區音譯的差異（其實翻譯為「Tinkle☆」是沒問題的，因為日本插畫家「[てぃんくる](../Page/Tinkle.md "wikilink")」的譯名也是「Tinkle」。所以，「Tinkle」也是「てぃんくる」的常用譯名）。
+據官方得知，最初的「Jewelpet Tinkle☆」為錯誤的標題名稱，應為「Jewelpet Twinkle☆」。因大部分地區原先都以「Tinkle☆」來作副標題名稱，故「Tinkle☆」仍是大眾普遍且較喜歡使用的稱呼。產生這種差錯的原因是因為日語在念此平假名時將其音節省略，最後才造成其他地區音譯的差異（其實翻譯為「Tinkle☆」是沒問題的，因為日本插畫家「[てぃんくる](../Page/Tinkle.md "wikilink")」的譯名也是「Tinkle」。所以，「Tinkle」也是「てぃんくる」的常用譯名）。
 
-香港播映的「寶石寵物II」為節目表名稱，節目內的標題則為「寶石寵物 Tinkle☆」，後來改為「寶石寵物
-Twinkle☆」。因此，副標題「Tinkle☆」可等如「Twinkle☆」，兩者皆可搜尋到同樣的資料。
+香港播映的「寶石寵物II」為節目表名稱，節目內的標題則為「寶石寵物 Tinkle☆」，後來改為「寶石寵物 Twinkle☆」。因此，副標題「Tinkle☆」可等如「Twinkle☆」，兩者皆可搜尋到同樣的資料。
 
 ## 故事大綱
 
@@ -36,13 +28,11 @@ Twinkle☆」。因此，副標題「Tinkle☆」可等如「Twinkle☆」，兩
 
 ## 寶石樂園
 
-由茱莉娜女王以魔法守護的國度。天上有著一大一小的[月亮](https://zh.wikipedia.org/wiki/月亮 "wikilink")，其中小月亮似乎隱藏著甚麼秘密。在寶石樂園的上空存在著被稱為「Jewel
-land
-Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行星環 "wikilink")，在地上看就像一道白色的[彩虹](../Page/彩虹.md "wikilink")。寶石樂園把人類所居住的世界稱之為「利亞利亞界」，而在利亞利亞界居住的人類則稱之為「利亞利亞」。
+由茱莉娜女王以魔法守護的國度。天上有著一大一小的[月亮](https://zh.wikipedia.org/wiki/月亮 "wikilink")，其中小月亮似乎隱藏著甚麼秘密。在寶石樂園的上空存在著被稱為「Jewel land Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行星環 "wikilink")，在地上看就像一道白色的[彩虹](../Page/彩虹.md "wikilink")。寶石樂園把人類所居住的世界稱之為「利亞利亞界」，而在利亞利亞界居住的人類則稱之為「利亞利亞」。
 
 在這世界居住的寶石寵物與生俱來就擁有使用魔法的能力。而這裡也有教授魔法的學校，而這裡所提及的「魔法學校」就是主角們所就讀的那一間，台灣版則將主角們所就讀的魔法學校命名為「魔法學園」。而寶石寵物入讀魔法學校必需有一個利亞利亞的搭擋。
 
-對[寶石寵物來說自己搭擋的幸福就是牠們最大的幸福](../Page/寶石寵物.md "wikilink")，搭擋的夢想和精神就是寶石寵物的力量之源。當搭擋沒精神時寶石寵物也會沒精神，嚴重時會發燒甚至昏迷。
+對[寶石寵物](../Page/寶石寵物.md "wikilink")來說自己搭擋的幸福就是牠們最大的幸福，搭擋的夢想和精神就是寶石寵物的力量之源。當搭擋沒精神時寶石寵物也會沒精神，嚴重時會發燒甚至昏迷。
 
 寶石寵物擁有一個名為Jewelpod的道具。使用該道具可以來往寶石樂園和利亞利亞界，而且更可利用魔法陣於利亞利亞界進行移動。其他功能還可以變出一些魔法道具，偵測主人位置…等。
 
@@ -51,8 +41,7 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
 ### 活動
 
   - 寶石之星大賽
-    寶石樂園中的魔法使互相比試魔法的大會，必須集齊12顆Jewel Stone才能參加。當擁有12顆Jewel
-    Stone的魔法使到達一定的人數，於每所魔法學校的寶石之花就會綻放，這時寶石之星大賽將會開幕。
+    寶石樂園中的魔法使互相比試魔法的大會，必須集齊12顆Jewel Stone才能參加。當擁有12顆Jewel Stone的魔法使到達一定的人數，於每所魔法學校的寶石之花就會綻放，這時寶石之星大賽將會開幕。
 
 <!-- end list -->
 
@@ -82,8 +71,7 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
 <!-- end list -->
 
   - 夏祭
-    寶石樂園為慶祝4年1度的夏至所舉行的活動。於日落的3日期間舉行，進入夜之週後會進行煙花大會，之後夏祭就會閉幕。在日落期間，Jewel
-    Stone持有者的魔力會有所增強，能使用一次「夏日寶石魔法（Summer Jewel Magic）」。
+    寶石樂園為慶祝4年1度的夏至所舉行的活動。於日落的3日期間舉行，進入夜之週後會進行煙花大會，之後夏祭就會閉幕。在日落期間，Jewel Stone持有者的魔力會有所增強，能使用一次「夏日寶石魔法（Summer Jewel Magic）」。
 
 <!-- end list -->
 
@@ -108,7 +96,7 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
 <!-- end list -->
 
   - Magical Chocolate Day（魔法巧克力日）
-    跟利亞利亞界的[情人節一樣](https://zh.wikipedia.org/wiki/情人節 "wikilink")，是女生向喜歡的男生送出[巧克力以及表白的日子](../Page/巧克力.md "wikilink")。在該日寶石之星大賽會暫停。
+    跟利亞利亞界的[情人節一樣](https://zh.wikipedia.org/wiki/情人節 "wikilink")，是女生向喜歡的男生送出[巧克力](../Page/巧克力.md "wikilink")以及表白的日子。在該日寶石之星大賽會暫停。
 
 ### \-{zh-cn:魔法學校; zh-tw:魔法學校（魔法學園）; zh-hk:魔法學校;}-
 
@@ -189,7 +177,7 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
 
 ## 登場人物
 
-[動畫第二季以櫻明等人為主](https://zh.wikipedia.org/wiki/動畫 "wikilink")，而[寶石寵物們為輔](../Page/寶石寵物.md "wikilink")。而故事的舞台亦以[魔法之國寶石樂園為主](../Page/魔法.md "wikilink")。
+[動畫第二季以櫻明等人為主](https://zh.wikipedia.org/wiki/動畫 "wikilink")，而[寶石寵物](../Page/寶石寵物.md "wikilink")們為輔。而故事的舞台亦以[魔法](../Page/魔法.md "wikilink")之國寶石樂園為主。
 
 ## 登場的魔法咒語
 
@@ -220,11 +208,8 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
     此咒語前面有時候也會加上寶石寵物的咒語，列表如下：
     {| class="wikitable"
 
-|- \!寶石寵物\!\!咒語內容 |- |露比||閃亮的勇氣是露比的標誌 |-
-|拉布拉||-{zh-cn:宇宙的力量Labradorite;zh-tw:沉睡的力量由拉布拉喚醒
-宇宙的力量由拉布拉明燈;zh-hk:宇宙的力量Labradorite}- |- |佳娜德||閃閃亮亮I Love佳娜德 |-
-|珊瑚||最喜歡吃甜品的珊瑚，喵 |- |莎菲||閃耀的藍寶石滿載的是友情 |-
-|戴安娜||激動的誘惑，粉紅色的鑽石 |}
+|- \!寶石寵物\!\!咒語內容 |- |露比||閃亮的勇氣是露比的標誌 |- |拉布拉||-{zh-cn:宇宙的力量Labradorite;zh-tw:沉睡的力量由拉布拉喚醒
+宇宙的力量由拉布拉明燈;zh-hk:宇宙的力量Labradorite}- |- |佳娜德||閃閃亮亮I Love佳娜德 |- |珊瑚||最喜歡吃甜品的珊瑚，喵 |- |莎菲||閃耀的藍寶石滿載的是友情 |- |戴安娜||激動的誘惑，粉紅色的鑽石 |}
 
   - Rararura（Lalarula、Rararula）
     可以更換衣服的魔法。
@@ -274,8 +259,7 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
 
 <!-- end list -->
 
-  - Gurizararira Gurizararira Gurizararira Gurizararira Gurizararira
-    Gurizararira Gurizararira Gurizararira…
+  - Gurizararira Gurizararira Gurizararira Gurizararira Gurizararira Gurizararira Gurizararira Gurizararira…
     只有莫魯塔貝多校長才能使用的「終極魔法」，但後半段的咒語卻忘記了。
     第6話中由校長初次使用。
 
@@ -368,9 +352,7 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
 <!-- end list -->
 
   - Jewel Stone
-    在魔法學校中只要能夠掌握一些魔法，便可得到加強魔法力量的寶石。每收集兩顆Jewel
-    Stone，便可升一級，變身魔法使的服裝會有改變。只要收集了12顆Jewel
-    Stone便可得到參加寶石之星大賽的參賽資格了。
+    在魔法學校中只要能夠掌握一些魔法，便可得到加強魔法力量的寶石。每收集兩顆Jewel Stone，便可升一級，變身魔法使的服裝會有改變。只要收集了12顆Jewel Stone便可得到參加寶石之星大賽的參賽資格了。
 
 <!-- end list -->
 
@@ -454,45 +436,30 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
 
 [Jewelpet_Tinkle_DVD1.jpg](https://zh.wikipedia.org/wiki/File:Jewelpet_Tinkle_DVD1.jpg "fig:Jewelpet_Tinkle_DVD1.jpg")
 
-  - [原作](https://zh.wikipedia.org/wiki/原作 "wikilink") -
-    [Sanrio](https://zh.wikipedia.org/wiki/Sanrio "wikilink")、[Sega
-    Toys](https://zh.wikipedia.org/wiki/Sega "wikilink")
-  - [企劃](https://zh.wikipedia.org/wiki/企劃 "wikilink") -
-    佐佐木章人、橫關謙治、安東ちよ、中村直樹、及川武（特別篇）、中村誠（特別篇）
+  - [原作](https://zh.wikipedia.org/wiki/原作 "wikilink") - [Sanrio](https://zh.wikipedia.org/wiki/Sanrio "wikilink")、[Sega Toys](https://zh.wikipedia.org/wiki/Sega "wikilink")
+  - [企劃](https://zh.wikipedia.org/wiki/企劃 "wikilink") - 佐佐木章人、橫關謙治、安東ちよ、中村直樹、及川武（特別篇）、中村誠（特別篇）
   - [監督](https://zh.wikipedia.org/wiki/監督 "wikilink") - 山本天志
-  - [系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink") -
-    [島田滿](../Page/島田滿.md "wikilink")
+  - [系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink") - [島田滿](../Page/島田滿.md "wikilink")
   - [角色設定](https://zh.wikipedia.org/wiki/角色設定 "wikilink") - 伊部由起子、宮川知子
   - CG監督 - 佐藤淳也、齋藤仁
   - [美術監督](https://zh.wikipedia.org/wiki/美術監督 "wikilink") - 春日禮兒
   - [色彩設計](../Page/色彩設計.md "wikilink") - 津守裕子
   - 攝影監督 - 鎌田克明、五十嵐慎一（至最終話）
   - [編輯](https://zh.wikipedia.org/wiki/編輯 "wikilink") - 中葉由美子、村井秀明
-  - [音響監督](https://zh.wikipedia.org/wiki/音響監督 "wikilink") -
-    [岩浪美和](../Page/岩浪美和.md "wikilink")
+  - [音響監督](https://zh.wikipedia.org/wiki/音響監督 "wikilink") - [岩浪美和](../Page/岩浪美和.md "wikilink")
   - [音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink") - 濱口史郎
   - [音樂製作人](../Page/音樂製作人.md "wikilink") - 八木仁、澁谷知子
-  - [製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink") -
-    奈良初男、可知秀幸、鈴木隆浩（至第16話）、大野亮介（第17話開始）
+  - [製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink") - 奈良初男、可知秀幸、鈴木隆浩（至第16話）、大野亮介（第17話開始）
   - 動畫製作人 - 關山晃弘、川崎とも子（特別篇）
-  - 動畫製作 - [STUDIO
-    COMET](../Page/STUDIO_COMET.md "wikilink")（本篇和特別篇的動畫製作協力）、[ZEXCS](../Page/ZEXCS.md "wikilink")（特別篇）
-  - [製作](../Page/製作.md "wikilink") -
-    [東京電視台](../Page/東京電視台.md "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、We've
+  - 動畫製作 - [STUDIO COMET](../Page/STUDIO_COMET.md "wikilink")（本篇和特別篇的動畫製作協力）、[ZEXCS](../Page/ZEXCS.md "wikilink")（特別篇）
+  - [製作](../Page/製作.md "wikilink") - [東京電視台](../Page/東京電視台.md "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、We've
 
 ## 主題曲
 
 [Happy_Tinkle.jpg](https://zh.wikipedia.org/wiki/File:Happy_Tinkle.jpg "fig:Happy_Tinkle.jpg")
 
   - 片頭曲「Happy☆てぃんくる」（Happy☆Twinkle）
-    [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink") -
-    森由里子／[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")
-    -
-    [岩崎貴文](../Page/岩崎貴文.md "wikilink")／[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")
-    - 亀山耕一郎／[歌](https://zh.wikipedia.org/wiki/歌 "wikilink") -
-    [增山加彌乃](https://zh.wikipedia.org/wiki/增山加彌乃 "wikilink")
-    with
-    露比（[齋藤彩夏](../Page/齋藤彩夏.md "wikilink")）、拉布拉（[澤城美雪](../Page/澤城美雪.md "wikilink")）
+    [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink") - 森由里子／[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink") - [岩崎貴文](../Page/岩崎貴文.md "wikilink")／[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink") - 亀山耕一郎／[歌](https://zh.wikipedia.org/wiki/歌 "wikilink") - [增山加彌乃](https://zh.wikipedia.org/wiki/增山加彌乃 "wikilink") with 露比（[齋藤彩夏](../Page/齋藤彩夏.md "wikilink")）、拉布拉（[澤城美雪](../Page/澤城美雪.md "wikilink")）
     由第27話至39話使用歌詞的第2段。
     第52話為合唱Ver.。
     特別篇使用歌詞的第1、2段。
@@ -507,22 +474,19 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
 [So_ra_ni_ra_ku_ga_ki.jpg](https://zh.wikipedia.org/wiki/File:So_ra_ni_ra_ku_ga_ki.jpg "fig:So_ra_ni_ra_ku_ga_ki.jpg")
 
   - 片尾曲「空ニラクガキ」（在天空塗鴉）
-    作詞 - 森由里子／作曲 - 松本尚裕／編曲 - 新井理生／歌 -
-    明（[高森奈津美](../Page/高森奈津美.md "wikilink")）、米莉亞（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）、沙羅（[片岡梓](https://zh.wikipedia.org/wiki/片岡梓 "wikilink")）
+    作詞 - 森由里子／作曲 - 松本尚裕／編曲 - 新井理生／歌 - 明（[高森奈津美](../Page/高森奈津美.md "wikilink")）、米莉亞（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）、沙羅（[片岡梓](https://zh.wikipedia.org/wiki/片岡梓 "wikilink")）
     由第27話至39話使用歌詞的第2段。
     第52話為完全版，並從第2段起為合唱Ver.。
 
 <!-- end list -->
 
   - 特別篇片尾曲「ほほえみの呪文 〜みんな笑顔になぁれ〜」
-    作詞 - 森由里子／作曲 - 濱口史郎／編曲 - 岡崎雄二郎／歌 -
-    高森奈津美、竹達彩奈、片岡梓、[高本惠](../Page/高本惠.md "wikilink")
+    作詞 - 森由里子／作曲 - 濱口史郎／編曲 - 岡崎雄二郎／歌 - 高森奈津美、竹達彩奈、片岡梓、[高本惠](../Page/高本惠.md "wikilink")
 
 <!-- end list -->
 
   - 插入曲「Little ☆ てぃんくる ☆ Star」（Little ☆ Twinkle ☆ Star）（第28話）
-    作詞 - 森由里子／作曲 - 坂部剛／編曲 - 亀山耕一郎／歌 -
-    米莉亞（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）
+    作詞 - 森由里子／作曲 - 坂部剛／編曲 - 亀山耕一郎／歌 - 米莉亞（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）
 
 ## 各話標題
 
@@ -1281,22 +1245,12 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
 
 ## 外部連結
 
-  - [東京電視台《寶石寵物
-    Twinkle☆》](http://www.tv-tokyo.co.jp/contents/jewelpet2/index.html)
+  - [東京電視台《寶石寵物 Twinkle☆》](http://www.tv-tokyo.co.jp/contents/jewelpet2/index.html)
 
-  - [東森幼幼台《寶石寵物
-    閃亮魔法學園》](https://web.archive.org/web/20160304131845/http://yoyotv.ebc.net.tw/apps/index.html?page=cartoon-p2&cartoonID=122)
+  - [東森幼幼台《寶石寵物 閃亮魔法學園》](https://web.archive.org/web/20160304131845/http://yoyotv.ebc.net.tw/apps/index.html?page=cartoon-p2&cartoonID=122)
 
   - [Sanrio《寶石寵物 閃亮魔法學園》](http://www.sanrio.com.tw/news/jewelpet.php#)
 
-[Category:2010年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年東京電視網動畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:寶石寵物](https://zh.wikipedia.org/wiki/Category:寶石寵物 "wikilink")
-[Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink")
-[Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink")
-[Category:小學女生主角題材作品](https://zh.wikipedia.org/wiki/Category:小學女生主角題材作品 "wikilink")
-[Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")
+[Category:2010年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年東京電視網動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:寶石寵物](https://zh.wikipedia.org/wiki/Category:寶石寵物 "wikilink") [Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink") [Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink") [Category:小學女生主角題材作品](https://zh.wikipedia.org/wiki/Category:小學女生主角題材作品 "wikilink") [Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")
 
 1.

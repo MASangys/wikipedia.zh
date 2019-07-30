@@ -1,8 +1,6 @@
-**CREA**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[濱崎步從事作曲和編曲工作時使用的](../Page/濱崎步.md "wikilink")[筆名](../Page/筆名.md "wikilink")。自1998年出道的濱崎步在首張作品《[poker
-face](https://zh.wikipedia.org/wiki/poker_face_\(濱崎步單曲\) "wikilink")》以來，就不間斷為自己的歌曲所作詞，但是在2000年的單曲《[M](../Page/M_\(濱崎步單曲\).md "wikilink")》才開始首次的作曲工作。她開始作曲的契機是由於她在聽過〈M〉的原本的旋律後，認為作曲家所創作的內容無法符合她構想的想法，於是她開始自行嘗試作曲。然而濱崎步並沒有十分擅長的樂器，起初她嘗試以電子鋼琴作曲，但最終還是採用歌唱的方式來錄下她的創作。
+**CREA**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[濱崎步](../Page/濱崎步.md "wikilink")從事作曲和編曲工作時使用的[筆名](../Page/筆名.md "wikilink")。自1998年出道的濱崎步在首張作品《[poker face](https://zh.wikipedia.org/wiki/poker_face_\(濱崎步單曲\) "wikilink")》以來，就不間斷為自己的歌曲所作詞，但是在2000年的單曲《[M](../Page/M_\(濱崎步單曲\).md "wikilink")》才開始首次的作曲工作。她開始作曲的契機是由於她在聽過〈M〉的原本的旋律後，認為作曲家所創作的內容無法符合她構想的想法，於是她開始自行嘗試作曲。然而濱崎步並沒有十分擅長的樂器，起初她嘗試以電子鋼琴作曲，但最終還是採用歌唱的方式來錄下她的創作。
 
-在單曲《[Dearest](https://zh.wikipedia.org/wiki/Dearest "wikilink")》發行之後，濱崎步又與和[D・A・I合作作曲](../Page/長尾大.md "wikilink")。2004年，在專輯《[MY
-STORY](../Page/MY_STORY.md "wikilink")》的創作過程中，她又首次嘗試編曲，完成了間奏〈WONDERLAND〉的製作。一至到2005年的作品〈Will〉，她停用了「CREA」這個筆名，在她演藝事業的後期便不再作曲。
+在單曲《[Dearest](https://zh.wikipedia.org/wiki/Dearest "wikilink")》發行之後，濱崎步又與和[D・A・I合作作曲](../Page/長尾大.md "wikilink")。2004年，在專輯《[MY STORY](../Page/MY_STORY.md "wikilink")》的創作過程中，她又首次嘗試編曲，完成了間奏〈WONDERLAND〉的製作。一至到2005年的作品〈Will〉，她停用了「CREA」這個筆名，在她演藝事業的後期便不再作曲。
 
 ## 作品
 

@@ -1,5 +1,4 @@
-，是[關西電視台和](../Page/關西電視台.md "wikilink")[共同電視台共同製作的](https://zh.wikipedia.org/wiki/共同電視台 "wikilink")[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，2011年10月11日起在[富士電視台](../Page/富士電視台.md "wikilink")[系列播出](../Page/富士電視網.md "wikilink")，由[米倉涼子主演](https://zh.wikipedia.org/wiki/米倉涼子 "wikilink")。首集為15分鐘的加長版，播出時間為22:00
-- 23:09（[JST](../Page/日本標準時間.md "wikilink")）。節目表以『****』為劇名。
+，是[關西電視台](../Page/關西電視台.md "wikilink")和[共同電視台共同製作的](https://zh.wikipedia.org/wiki/共同電視台 "wikilink")[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，2011年10月11日起在[富士電視台](../Page/富士電視台.md "wikilink")[系列播出](../Page/富士電視網.md "wikilink")，由[米倉涼子主演](https://zh.wikipedia.org/wiki/米倉涼子 "wikilink")。首集為15分鐘的加長版，播出時間為22:00 - 23:09（[JST](../Page/日本標準時間.md "wikilink")）。節目表以『****』為劇名。
 
 ## 概要
 
@@ -17,8 +16,7 @@
 
 ### 賞金獵人團隊
 
-  - 井坂黎（35）：[米倉涼子](https://zh.wikipedia.org/wiki/米倉涼子 "wikilink")（少女時代：淺田帆香
-    / 高中時代：[工藤綾乃](../Page/工藤綾乃.md "wikilink")）
+  - 井坂黎（35）：[米倉涼子](https://zh.wikipedia.org/wiki/米倉涼子 "wikilink")（少女時代：淺田帆香 / 高中時代：[工藤綾乃](../Page/工藤綾乃.md "wikilink")）
 
 <!-- end list -->
 
@@ -63,8 +61,7 @@
 
 ### 井坂家
 
-  - 井坂茜（32）：[山口紗弥加](https://zh.wikipedia.org/wiki/山口紗弥加 "wikilink")（幼年時代：信太真妃
-    / 高中時代：[伊藤梨沙子](../Page/伊藤梨沙子.md "wikilink")）
+  - 井坂茜（32）：[山口紗弥加](https://zh.wikipedia.org/wiki/山口紗弥加 "wikilink")（幼年時代：信太真妃 / 高中時代：[伊藤梨沙子](../Page/伊藤梨沙子.md "wikilink")）
 
 <!-- end list -->
 
@@ -323,9 +320,7 @@
 
 ## 主題曲
 
-  - [倉木麻衣](../Page/倉木麻衣.md "wikilink")「[Strong
-    Heart](../Page/Strong_Heart.md "wikilink")」（[NORTHERN
-    MUSIC](../Page/NORTHERN_MUSIC.md "wikilink")）
+  - [倉木麻衣](../Page/倉木麻衣.md "wikilink")「[Strong Heart](../Page/Strong_Heart.md "wikilink")」（[NORTHERN MUSIC](../Page/NORTHERN_MUSIC.md "wikilink")）
 
 ## 副標題
 
@@ -441,13 +436,6 @@
 
 ## 節目的變遷
 
-[Category:關西電視台週二晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間十點連續劇 "wikilink")
-[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
-[Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink")
-[Category:赏金猎人](https://zh.wikipedia.org/wiki/Category:赏金猎人 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink")
-[Category:伴一彥劇本作品](https://zh.wikipedia.org/wiki/Category:伴一彥劇本作品 "wikilink")
+[Category:關西電視台週二晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間十點連續劇 "wikilink") [Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink") [Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink") [Category:赏金猎人](https://zh.wikipedia.org/wiki/Category:赏金猎人 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink") [Category:伴一彥劇本作品](https://zh.wikipedia.org/wiki/Category:伴一彥劇本作品 "wikilink")
 
 1.  <http://japan.videoland.com.tw/channel/20140604/character.asp>

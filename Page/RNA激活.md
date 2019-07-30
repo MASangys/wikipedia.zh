@@ -1,12 +1,8 @@
-**RNA激活**（RNA activation, RNAa)
-是一种由小分子RNA介导的特异性基因表达上调机制，是李龙承等\[1\]于2006年首先在人细胞中发现并命名的。随后，其他研究小组也报道了相似的现象，证明了RNA激活是从人及大小鼠等哺乳类动物到植物及线虫中的保守现象\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]。RNA激活是由靶向基因启动子区域的双链小RNA（dsRNA）分子介导并需要Argonaute（AGO）蛋白的参与\[11\]\[12\]。这类能够诱导RNA激活现象（即激活基因表达）的dsRNA被称为小激活RNA（small
-activating
-RNA，saRNA）\[13\]。saRNA可通过人工设计及化学合成而获得，也可为天然存在的内源性RNA如miRNA；前者介导的RNA激活被称为外源性RNA激活，后者为内源性RNA激活。
+**RNA激活**（RNA activation, RNAa) 是一种由小分子RNA介导的特异性基因表达上调机制，是李龙承等\[1\]于2006年首先在人细胞中发现并命名的。随后，其他研究小组也报道了相似的现象，证明了RNA激活是从人及大小鼠等哺乳类动物到植物及线虫中的保守现象\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]。RNA激活是由靶向基因启动子区域的双链小RNA（dsRNA）分子介导并需要Argonaute（AGO）蛋白的参与\[11\]\[12\]。这类能够诱导RNA激活现象（即激活基因表达）的dsRNA被称为小激活RNA（small activating RNA，saRNA）\[13\]。saRNA可通过人工设计及化学合成而获得，也可为天然存在的内源性RNA如miRNA；前者介导的RNA激活被称为外源性RNA激活，后者为内源性RNA激活。
 
 ## 与RNA干扰（RNAi）的异同
 
-介导外源性RNA激活的saRNA与介导RNAi的[siRNA结构相似](https://zh.wikipedia.org/wiki/siRNA "wikilink")，
-是含21个核苷酸的双链RNA（[dsRNA](https://zh.wikipedia.org/wiki/dsRNA "wikilink")），其兩条链在各自的3’端含2个核苷酸的突出。和[RNAi一样](https://zh.wikipedia.org/wiki/RNAi "wikilink")，RNAa也需要AGO蛋白特别是AGO2的参与，其作用可能是处理和活化saRNA分子，并介导saRNA与其启动子上的靶位点结合。与[RNAi](https://zh.wikipedia.org/wiki/RNAi "wikilink")（主要发生在胞浆）不同的是，RNA激活机制发生在细胞核，介导RNA激活的saRNA靶向启动子而不是mRNA序列，此外，RNA激活具有特殊的时效性，表现为其效果（基因表达上调）的出现呈现48小时左右的滞后，及效果的长久性（10-14天）\[14\]\[15\]\[16\]。其机制被认为是因为RNA激活导致了表观遗传的改变\[17\]。
+介导外源性RNA激活的saRNA与介导RNAi的[siRNA结构相似](https://zh.wikipedia.org/wiki/siRNA "wikilink")， 是含21个核苷酸的双链RNA（[dsRNA](https://zh.wikipedia.org/wiki/dsRNA "wikilink")），其兩条链在各自的3’端含2个核苷酸的突出。和[RNAi一样](https://zh.wikipedia.org/wiki/RNAi "wikilink")，RNAa也需要AGO蛋白特别是AGO2的参与，其作用可能是处理和活化saRNA分子，并介导saRNA与其启动子上的靶位点结合。与[RNAi](https://zh.wikipedia.org/wiki/RNAi "wikilink")（主要发生在胞浆）不同的是，RNA激活机制发生在细胞核，介导RNA激活的saRNA靶向启动子而不是mRNA序列，此外，RNA激活具有特殊的时效性，表现为其效果（基因表达上调）的出现呈现48小时左右的滞后，及效果的长久性（10-14天）\[14\]\[15\]\[16\]。其机制被认为是因为RNA激活导致了表观遗传的改变\[17\]。
 
 ## 内源性RNA激活
 
@@ -23,18 +19,14 @@ RNA激活是一种简单易行的上调基因表达的方法，在生物医学�
   -
   -
   -
-  - How to get your genes switched on. [New Scientist 16
-    November 2006](http://www.newscientist.com/channel/life/genetics/mg19225780.149-how-to-get-your-genes-switched-on.html)
+  - How to get your genes switched on. [New Scientist 16 November 2006](http://www.newscientist.com/channel/life/genetics/mg19225780.149-how-to-get-your-genes-switched-on.html)
 
 ## 外部連結
 
-  - RNAa FAQs [Li Lab, University of California San
-    Francisco](http://www.urogene.org/RNAa-FAQs.html)
-  - saRNAdb - Resource of small activating RNAs for up-regulating gene
-    expression [IMTech](http://bioinfo.imtech.res.in/manojk/sarna/)
+  - RNAa FAQs [Li Lab, University of California San Francisco](http://www.urogene.org/RNAa-FAQs.html)
+  - saRNAdb - Resource of small activating RNAs for up-regulating gene expression [IMTech](http://bioinfo.imtech.res.in/manojk/sarna/)
 
-[Category:RNA](https://zh.wikipedia.org/wiki/Category:RNA "wikilink")
-[Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink")
+[Category:RNA](https://zh.wikipedia.org/wiki/Category:RNA "wikilink") [Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink")
 
 1.
 

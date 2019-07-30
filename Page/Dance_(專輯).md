@@ -1,9 +1,6 @@
-《**Dance**》為[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[Lollipop-F的第四張專輯](https://zh.wikipedia.org/wiki/Lollipop-F "wikilink")，於2011年9月28日進行預購\[1\]，亦於同年10月20日正式發行，是他們在[金牌大風
-(台灣)簽全約後第二張專輯](../Page/金牌大風_\(台灣\).md "wikilink")。
+《**Dance**》為[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[Lollipop-F的第四張專輯](https://zh.wikipedia.org/wiki/Lollipop-F "wikilink")，於2011年9月28日進行預購\[1\]，亦於同年10月20日正式發行，是他們在[金牌大風 (台灣)簽全約後第二張專輯](../Page/金牌大風_\(台灣\).md "wikilink")。
 
-在2011年11月16日，[金牌大風
-(台灣)宣佈推出](../Page/金牌大風_\(台灣\).md "wikilink")「一起衝冠軍慶功盤」，加收《還要一起衝》一曲，在11月23日發行。
-四位男孩從男孩偶像蛻變為輕熟男偶像
+在2011年11月16日，[金牌大風 (台灣)宣佈推出](../Page/金牌大風_\(台灣\).md "wikilink")「一起衝冠軍慶功盤」，加收《還要一起衝》一曲，在11月23日發行。 四位男孩從男孩偶像蛻變為輕熟男偶像
 
 ## 曲目
 
@@ -271,19 +268,13 @@
 
 </div>
 
-[Category:Lollipop-F音樂專輯](https://zh.wikipedia.org/wiki/Category:Lollipop-F音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:Lollipop-F音樂專輯](https://zh.wikipedia.org/wiki/Category:Lollipop-F音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
 
-1.  [LOLLIPOP F ［DANCE］台版 - Sky
-    Music](http://skymusic.com.hk/?p=24468)，2011年10月27日 (四) 00:35
-    (UTC+8)查閱
+1.  [LOLLIPOP F ［DANCE］台版 - Sky Music](http://skymusic.com.hk/?p=24468)，2011年10月27日 (四) 00:35 (UTC+8)查閱
 
 2.
 3.
 4.
-5.  [LOLLIPOP F 2011全新專輯 DANCE［港版］ - Sky
-    Music](http://skymusic.com.hk/?p=24933)，2011年10月27日 (四) 00:40
-    (UTC+8)查閱
+5.  [LOLLIPOP F 2011全新專輯 DANCE［港版］ - Sky Music](http://skymusic.com.hk/?p=24933)，2011年10月27日 (四) 00:40 (UTC+8)查閱
 
 6.

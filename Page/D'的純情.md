@@ -2,8 +2,7 @@
 
 ## 概要
 
-CD封面是成員全員桃色幸運草穿著[女忍者風的衣服](../Page/女忍者.md "wikilink")\[1\]</small>。2011年7月10日與《[Z傳說
-～永無止境的革命～](../Page/Z傳說_～永無止境的革命～.md "wikilink")》獨占了Oricon公信榜第1名和第2名。
+CD封面是成員全員桃色幸運草穿著[女忍者](../Page/女忍者.md "wikilink")風的衣服\[1\]</small>。2011年7月10日與《[Z傳說 ～永無止境的革命～](../Page/Z傳說_～永無止境的革命～.md "wikilink")》獨占了Oricon公信榜第1名和第2名。
 
 ## 收錄曲目
 
@@ -15,8 +14,6 @@ CD封面是成員全員桃色幸運草穿著[女忍者風的衣服](../Page/女�
 
 ## 備註
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:桃色幸運草Z歌曲](https://zh.wikipedia.org/wiki/Category:桃色幸運草Z歌曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:桃色幸運草Z歌曲](https://zh.wikipedia.org/wiki/Category:桃色幸運草Z歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
 
 1.

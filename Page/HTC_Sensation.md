@@ -1,10 +1,6 @@
-**HTC
-Sensation**，是由[HTC製造的](https://zh.wikipedia.org/wiki/HTC "wikilink")[Android智能手機](../Page/Android.md "wikilink")，這款手機最早於2011年4月12日推出。2011年5月20日首先於[北美洲](../Page/北美洲.md "wikilink")（[AT\&T](../Page/AT&T.md "wikilink")、[T-Mobile](../Page/T-Mobile.md "wikilink")）、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")（[Vodafone](https://zh.wikipedia.org/wiki/沃達豐 "wikilink")）、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")（[鮮京電信](https://zh.wikipedia.org/wiki/鮮京電信 "wikilink")）上市，[台灣則是於](https://zh.wikipedia.org/wiki/台灣 "wikilink")5月27日上市（[中華電信](https://zh.wikipedia.org/wiki/中華電信 "wikilink")、[台灣大哥大](../Page/台灣大哥大.md "wikilink")、[遠傳電信](../Page/遠傳電信.md "wikilink")）。它是第一台擁有[HTC
-Sense](../Page/HTC_Sense.md "wikilink") 3.0觸控界面的HTC手機。
+**HTC Sensation**，是由[HTC製造的](https://zh.wikipedia.org/wiki/HTC "wikilink")[Android](../Page/Android.md "wikilink")智能手機，這款手機最早於2011年4月12日推出。2011年5月20日首先於[北美洲](../Page/北美洲.md "wikilink")（[AT\&T](../Page/AT&T.md "wikilink")、[T-Mobile](../Page/T-Mobile.md "wikilink")）、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")（[Vodafone](https://zh.wikipedia.org/wiki/沃達豐 "wikilink")）、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")（[鮮京電信](https://zh.wikipedia.org/wiki/鮮京電信 "wikilink")）上市，[台灣則是於](https://zh.wikipedia.org/wiki/台灣 "wikilink")5月27日上市（[中華電信](https://zh.wikipedia.org/wiki/中華電信 "wikilink")、[台灣大哥大](../Page/台灣大哥大.md "wikilink")、[遠傳電信](../Page/遠傳電信.md "wikilink")）。它是第一台擁有[HTC Sense](../Page/HTC_Sense.md "wikilink") 3.0觸控界面的HTC手機。
 
-而**HTC Sensation**的頭號對手是[Samsung Galaxy S
-II](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_II "wikilink")、[iPhone
-4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")。
+而**HTC Sensation**的頭號對手是[Samsung Galaxy S II](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_II "wikilink")、[iPhone 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")。
 
 ## 軟件
 
@@ -15,13 +11,11 @@ II](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_II "wikilink")、[iPhone
 
   - 支援GSM四頻以及3.5G的收訊系統
 
-  - 採用[高通Qualcomm](../Page/高通.md "wikilink") Snapdragon MSM8260 Dual
-    Core 1.2GHz雙核心處理器
+  - 採用[高通](../Page/高通.md "wikilink")Qualcomm Snapdragon MSM8260 Dual Core 1.2GHz雙核心處理器
 
   - 3.5mm耳機插孔
 
-  - 採用4.3吋[索尼或](../Page/索尼.md "wikilink")[友达生產的Super](https://zh.wikipedia.org/wiki/友达 "wikilink")
-    LCD qHD螢幕，解析度：960\*540
+  - 採用4.3吋[索尼](../Page/索尼.md "wikilink")或[友达生產的Super](https://zh.wikipedia.org/wiki/友达 "wikilink") LCD qHD螢幕，解析度：960\*540
 
   - 支援WI-FI以及藍芽無線通訊技術
 
@@ -35,13 +29,11 @@ II](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_II "wikilink")、[iPhone
 
   - 支援GSM四頻以及3.5G的收訊系統
 
-  - 採用[高通出產的Qualcomm](../Page/高通.md "wikilink") Snapdragon MSM8260
-    1.5GHz雙核心處理器
+  - 採用[高通](../Page/高通.md "wikilink")出產的Qualcomm Snapdragon MSM8260 1.5GHz雙核心處理器
 
-  - 3.5mm耳機插孔，搭配[Beats by Dr.
-    Dre技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")
+  - 3.5mm耳機插孔，搭配[Beats by Dr. Dre技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")
 
-  - 採用4.3吋[索尼生產的Super](../Page/索尼.md "wikilink") LCD螢幕，解析度：960\*540
+  - 採用4.3吋[索尼](../Page/索尼.md "wikilink")生產的Super LCD螢幕，解析度：960\*540
 
   - 支援WI-FI以及藍芽無線通訊技術
 
@@ -53,13 +45,11 @@ II](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_II "wikilink")、[iPhone
 
   - 支援GSM四頻以及3.5G的收訊系統
 
-  - 採用[高通出產的Qualcomm](../Page/高通.md "wikilink") Snapdragon MSM8255
-    1.5GHz單核心處理器
+  - 採用[高通](../Page/高通.md "wikilink")出產的Qualcomm Snapdragon MSM8255 1.5GHz單核心處理器
 
-  - 3.5mm耳機插孔，搭配[Beats by Dr.
-    Dre技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")
+  - 3.5mm耳機插孔，搭配[Beats by Dr. Dre技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")
 
-  - 採用4.7吋[索尼生產的Super](../Page/索尼.md "wikilink") LCD螢幕，解析度：800\*480
+  - 採用4.7吋[索尼](../Page/索尼.md "wikilink")生產的Super LCD螢幕，解析度：800\*480
 
   - 支援WI-FI以及藍芽無線通訊技術
 
@@ -69,16 +59,15 @@ II](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_II "wikilink")、[iPhone
 
 ### Amaze 4G
 
-  - 為[美國電信業者](https://zh.wikipedia.org/wiki/美國 "wikilink")[T-Mobile的客製機](../Page/T-Mobile.md "wikilink")，僅在美國上市
+  - 為[美國電信業者](https://zh.wikipedia.org/wiki/美國 "wikilink")[T-Mobile](../Page/T-Mobile.md "wikilink")的客製機，僅在美國上市
 
   - 支援GSM四頻以及4G HSPA+的收訊系統
 
-  - 採用[高通出產的Snapdragon](../Page/高通.md "wikilink") MSM8260
-    1.5GHz雙核心處理器，內置了Adreno 220 GPU
+  - 採用[高通](../Page/高通.md "wikilink")出產的Snapdragon MSM8260 1.5GHz雙核心處理器，內置了Adreno 220 GPU
 
   - 3.5mm耳機插孔
 
-  - 採用4.3吋[索尼生產的Super](../Page/索尼.md "wikilink") LCD 螢幕，解析度：960\*540
+  - 採用4.3吋[索尼](../Page/索尼.md "wikilink")生產的Super LCD 螢幕，解析度：960\*540
 
   - 支援WI-FI以及藍芽無線通訊技術
 
@@ -94,13 +83,11 @@ II](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_II "wikilink")、[iPhone
 
   - 支援GSM四頻以及HSPA/WCDMA 900/2100 的收訊系統
 
-  - 採用[高通出產的Qualcomm](../Page/高通.md "wikilink") Snapdragon MSM8260
-    1.5GHz雙核心處理器
+  - 採用[高通](../Page/高通.md "wikilink")出產的Qualcomm Snapdragon MSM8260 1.5GHz雙核心處理器
 
-  - 3.5mm耳機插孔，搭配[Beats by Dr.
-    Dre技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")
+  - 3.5mm耳機插孔，搭配[Beats by Dr. Dre技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")
 
-  - 採用4.3吋[索尼生產的Super](../Page/索尼.md "wikilink") LCD 螢幕，解析度：960\*540
+  - 採用4.3吋[索尼](../Page/索尼.md "wikilink")生產的Super LCD 螢幕，解析度：960\*540
 
   - 支援WI-FI以及藍芽無線通訊技術
 
@@ -114,7 +101,4 @@ II](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_II "wikilink")、[iPhone
   - [HTC Sense](../Page/HTC_Sense.md "wikilink")
   - [HTC Desire HD](../Page/HTC_Desire_HD.md "wikilink")
 
-[Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink")
-[Category:触控手机](https://zh.wikipedia.org/wiki/Category:触控手机 "wikilink")
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
+[Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink") [Category:触控手机](https://zh.wikipedia.org/wiki/Category:触控手机 "wikilink") [Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")

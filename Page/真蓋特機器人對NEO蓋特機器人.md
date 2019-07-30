@@ -12,8 +12,7 @@
 
   -
     地下摔角的霸者。性格極之單純、有強烈的戰鬥精神、十分熱血。討厭細心的事情。見到他這樣的性格與体力的隼人，便讓他當上NEO蓋特機器人的駕駛員。操縱NEO蓋特1、真蓋特1。
-    劇中，剴和傑克均稱他為「野猴子（ジャックにはポケットモンキーとも(Japanese Pocket
-    Monkey)）」。另外，在遊戲《[超級機器人大戰GC/XO](https://zh.wikipedia.org/wiki/超級機器人大戰GC "wikilink")》中，剴評他為「猴子頭（頭はサル並）」。
+    劇中，剴和傑克均稱他為「野猴子（ジャックにはポケットモンキーとも(Japanese Pocket Monkey)）」。另外，在遊戲《[超級機器人大戰GC/XO](https://zh.wikipedia.org/wiki/超級機器人大戰GC "wikilink")》中，剴評他為「猴子頭（頭はサル並）」。
 
 <!-- end list -->
 
@@ -99,10 +98,8 @@
     機體能力甚高，有將巴特將軍及格拉利長官壓倒性擊敗的強大戰鬥力。之後，在最終決戰時被巨大化的哥魯陷入苦戰，在快要被擊破之際，進化成名為**神蓋特機器人**的形態一舉逆轉形勢。在無視哥魯攻擊下，只用一記反擊便將哥魯瞬殺。
       - 武裝
     <!-- end list -->
-      - 本作中，蓋特戰斧的日文原文設定為「雙重戰斧」（ダブルトマホーク・ランサー），設計亦簡樸化，
-        亦沒有前作真蓋特的「眼珠」\[2\]。
-      - 設定上有-{zh-hans:Stoner Sunshine;zh-hk:烈光太陽彈;zh-tw:Stoner
-        Sunshine;}-（ストナーサンシャイン），但在劇中沒有使出過。在遊戲《[超級機器人大戰R](../Page/超級機器人大戰R.md "wikilink")》中作為隱藏武器登場。
+      - 本作中，蓋特戰斧的日文原文設定為「雙重戰斧」（ダブルトマホーク・ランサー），設計亦簡樸化， 亦沒有前作真蓋特的「眼珠」\[2\]。
+      - 設定上有-{zh-hans:Stoner Sunshine;zh-hk:烈光太陽彈;zh-tw:Stoner Sunshine;}-（ストナーサンシャイン），但在劇中沒有使出過。在遊戲《[超級機器人大戰R](../Page/超級機器人大戰R.md "wikilink")》中作為隱藏武器登場。
       - 真蓋特2的必殺技，變更為幻影鑽頭（ミラージュドリル）。
       - 真蓋特3的武裝中，ミサイルストーム的名稱變為ミサイルボム\[3\]另外，繼承武藏3號機位置的剴並沒有使出過-{zh-hans:大雪山崩落;zh-hk:大雪山龍捲風;zh-tw:大雪山崩落;}-。
 
@@ -116,14 +113,12 @@
 ### 美軍的兵器
 
   -
-    美軍所屬的機械人。駕駛員為傑克·金和瑪莉·金。使用手槍和來福槍。在美國白宮及各国的美國領事館的敷地内，都埋有個收納大型來福槍的棺材型盒子。備有馬型支援機械Pascha
-    King（パスチャーキング）。頭部的帽子機械可變成盾牌，此時瑪莉的本體亦會移去別處。有參加最終決戰。
+    美軍所屬的機械人。駕駛員為傑克·金和瑪莉·金。使用手槍和來福槍。在美國白宮及各国的美國領事館的敷地内，都埋有個收納大型來福槍的棺材型盒子。備有馬型支援機械Pascha King（パスチャーキング）。頭部的帽子機械可變成盾牌，此時瑪莉的本體亦會移去別處。有參加最終決戰。
 
 ## 工作人員
 
   - 企畫 - [DYNAMIC企畫](../Page/永井豪.md "wikilink")
-  - 原作 -
-    [永井豪](../Page/永井豪.md "wikilink")・[石川賢](../Page/石川賢.md "wikilink")
+  - 原作 - [永井豪](../Page/永井豪.md "wikilink")・[石川賢](../Page/石川賢.md "wikilink")
   - 監督 - [川越淳](https://zh.wikipedia.org/wiki/川越淳 "wikilink")
   - 系列構成 - [藤田伸三](../Page/藤田伸三.md "wikilink")
   - 人物、機械原案 - 石川賢
@@ -135,17 +130,13 @@
   - 編集 - 關一彦
   - 音樂 - [信田かずお](https://zh.wikipedia.org/wiki/信田かずお "wikilink")
   - 音響監督 - [岩浪美和](../Page/岩浪美和.md "wikilink")
-  - 製作人 -
-    南喜長、小林辰-{与}-、[森本浩二](https://zh.wikipedia.org/wiki/森本浩二 "wikilink")、徳原八州、水野さつき、田中渉
-  - 製作 - 早乙女研究所（[萬代影視](../Page/萬代影視.md "wikilink")、DYNAMIC
-    AUDIO企畫、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")）
+  - 製作人 - 南喜長、小林辰-{与}-、[森本浩二](https://zh.wikipedia.org/wiki/森本浩二 "wikilink")、徳原八州、水野さつき、田中渉
+  - 製作 - 早乙女研究所（[萬代影視](../Page/萬代影視.md "wikilink")、DYNAMIC AUDIO企畫、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")）
 
 ## 主題歌
 
   - 主題歌「STORM」
-    作詞：[工藤哲雄](https://zh.wikipedia.org/wiki/工藤哲雄 "wikilink")、作曲：[千沢仁](https://zh.wikipedia.org/wiki/千沢仁 "wikilink")、編曲：[須藤賢一](https://zh.wikipedia.org/wiki/須藤賢一 "wikilink")、主唱：[JAM
-    Project](../Page/JAM_Project.md "wikilink") featuring
-    [水木一郎](../Page/水木一郎.md "wikilink")&[影山浩宣](../Page/影山浩宣.md "wikilink")
+    作詞：[工藤哲雄](https://zh.wikipedia.org/wiki/工藤哲雄 "wikilink")、作曲：[千沢仁](https://zh.wikipedia.org/wiki/千沢仁 "wikilink")、編曲：[須藤賢一](https://zh.wikipedia.org/wiki/須藤賢一 "wikilink")、主唱：[JAM Project](../Page/JAM_Project.md "wikilink") featuring [水木一郎](../Page/水木一郎.md "wikilink")&[影山浩宣](../Page/影山浩宣.md "wikilink")
   - 片尾曲「RISING」
     作詞：工藤哲雄、作曲：千沢仁、編曲：須藤賢一、主唱：JAM Project featuring 水木一郎&影山浩宣
   - 最終話片尾曲「yeah\!yeah\!yeah\!」
@@ -215,7 +206,7 @@
 
 ## 小說版
 
-作者：[遠藤明範](https://zh.wikipedia.org/wiki/遠藤明範 "wikilink")、插畫：[鈴木藤雄](https://zh.wikipedia.org/wiki/鈴木藤雄 "wikilink")・[田中良](../Page/田中良.md "wikilink")、封面繪圖：[石川賢](../Page/石川賢.md "wikilink")。[角川Sneaker文庫全](../Page/角川Sneaker文庫.md "wikilink")2卷。
+作者：[遠藤明範](https://zh.wikipedia.org/wiki/遠藤明範 "wikilink")、插畫：[鈴木藤雄](https://zh.wikipedia.org/wiki/鈴木藤雄 "wikilink")・[田中良](../Page/田中良.md "wikilink")、封面繪圖：[石川賢](../Page/石川賢.md "wikilink")。[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")全2卷。
 
 ## 關連項目
 
@@ -228,11 +219,7 @@
   - [真蓋特機器人對NEO蓋特機器人 官方網站](http://www.bandaivisual.co.jp/neo_getter/)
   - [真三-{}-一萬能俠對NEO三-{}-一萬能俠](http://www.yesasia.com/global/%E7%9C%9F%E4%B8%89%E4%B8%80%E5%B0%8D%E7%9C%9F%E4%B8%89%E4%B8%80-vol-1-4-%E5%AE%8C-%E9%A6%99%E6%B8%AF%E7%89%88/1004097334-0-0-0-zh_TW/info.html)在YESASIA
 
-[Category:2000年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2000年日本OVA動畫 "wikilink")
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:永井豪](https://zh.wikipedia.org/wiki/Category:永井豪 "wikilink")
-[Category:恐龍題材作品](https://zh.wikipedia.org/wiki/Category:恐龍題材作品 "wikilink")
-[Category:蓋特機器人](https://zh.wikipedia.org/wiki/Category:蓋特機器人 "wikilink")
+[Category:2000年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2000年日本OVA動畫 "wikilink") [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:永井豪](https://zh.wikipedia.org/wiki/Category:永井豪 "wikilink") [Category:恐龍題材作品](https://zh.wikipedia.org/wiki/Category:恐龍題材作品 "wikilink") [Category:蓋特機器人](https://zh.wikipedia.org/wiki/Category:蓋特機器人 "wikilink")
 
 1.  初代、新和真蓋特都是1號空戰，2號陸戰，3號海戰
 2.  號在最終決戰時，真蓋特再起的一瞬間「眼珠」突然出現。變成神蓋特形態時，眼珠則變成完全出現的狀態。

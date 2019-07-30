@@ -1,6 +1,4 @@
-**Not
-yet**（）是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48的一個衍生團體](../Page/AKB48.md "wikilink")，成立於2011年1月21日，由[大島優子](../Page/大島優子.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[指原莉乃與](../Page/指原莉乃.md "wikilink")[橫山由依](../Page/橫山由依.md "wikilink")4人組成，團員所屬的[經紀公司均為](../Page/經紀公司.md "wikilink")[太田製作](../Page/太田製作.md "wikilink")、所屬[唱片公司則為](../Page/唱片公司.md "wikilink")[日本哥伦比亚](https://zh.wikipedia.org/wiki/日本哥伦比亚 "wikilink")。Not
-yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿下4次[Oricon公信榜單曲周榜冠軍與](../Page/Oricon公信榜.md "wikilink")1次專輯周榜冠軍，其中第三張單曲更於首周創下17萬張的銷量佳績，是AKB48眾多子團體中的最高紀錄，而累積的冠軍次數與音樂作品銷量皆是AKB48子團之最。
+**Not yet**（）是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的一個衍生團體，成立於2011年1月21日，由[大島優子](../Page/大島優子.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")與[橫山由依](../Page/橫山由依.md "wikilink")4人組成，團員所屬的[經紀公司](../Page/經紀公司.md "wikilink")均為[太田製作](../Page/太田製作.md "wikilink")、所屬[唱片公司](../Page/唱片公司.md "wikilink")則為[日本哥伦比亚](https://zh.wikipedia.org/wiki/日本哥伦比亚 "wikilink")。Not yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿下4次[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲周榜冠軍與1次專輯周榜冠軍，其中第三張單曲更於首周創下17萬張的銷量佳績，是AKB48眾多子團體中的最高紀錄，而累積的冠軍次數與音樂作品銷量皆是AKB48子團之最。
 
 ## 成員
 
@@ -50,7 +48,7 @@ yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿�
 </tbody>
 </table>
 
-註：最初4人均為AKB48成員。目前大島優子\[1\]\[2\]、北原里英\[3\]、指原莉乃\[4\]3人已從[AKB48集團畢業](../Page/AKB48集團.md "wikilink")。
+註：最初4人均為AKB48成員。目前大島優子\[1\]\[2\]、北原里英\[3\]、指原莉乃\[4\]3人已從[AKB48集團](../Page/AKB48集團.md "wikilink")畢業。
 
 ## 概要
 
@@ -60,14 +58,11 @@ yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿�
 
 ### 結成背景
 
-  - 在[TBS電視台的深夜](../Page/TBS電視台.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《》中，擔任[主持人的](https://zh.wikipedia.org/wiki/主持人 "wikilink")[指原莉乃和](../Page/指原莉乃.md "wikilink")[土田晃之的談話中](../Page/土田晃之.md "wikilink")「當初預定成員爲大島、北原、指原3人。但在大島擔任TOP1的時候，擔任TOP2『（做為組合）有點弱……，』因爲這個理由讓橫山加入組合」，由此確認了4人組合。
+  - 在[TBS電視台](../Page/TBS電視台.md "wikilink")的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")《》中，擔任[主持人的](https://zh.wikipedia.org/wiki/主持人 "wikilink")[指原莉乃](../Page/指原莉乃.md "wikilink")和[土田晃之](../Page/土田晃之.md "wikilink")的談話中「當初預定成員爲大島、北原、指原3人。但在大島擔任TOP1的時候，擔任TOP2『（做為組合）有點弱……，』因爲這個理由讓橫山加入組合」，由此確認了4人組合。
 
 <!-- end list -->
 
-  - 「Not yet」結成之初並非一路平坦，當工作人員告知「Not
-    yet」的組成計畫時，大島優子對此團抱著消極心態，因當時大島已和[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[野呂佳代自組了](../Page/野呂佳代.md "wikilink")「梅島夏代」舞蹈子團，自行編舞並張羅服裝等，亦已有秋元康量身製作的歌曲，雖未正式發行專輯，但在路線相似的情形下，大島表示「我一個人又要另外以全新的四個人組成子團出道，好像背叛了『梅島夏代』......。當時甚至自暴自棄不敢和『Not
-    yet』預定成員北原、指原及橫山說話」。之後於「AKB48 重溫時間 最佳曲目100 2011」初次舞台表演後，大島先去找了「Not
-    yet」的北原、指原與橫山三人道歉，並表示今後會好好努力，亦會取得「梅島夏代」其他人的諒解，其他三人聽完後希望能和大島一起加油；而大島當面告知「梅島夏代」成員時，成員表示雖然很落寞，但對於新發展衷心祝福\[6\]\[7\]。
+  - 「Not yet」結成之初並非一路平坦，當工作人員告知「Not yet」的組成計畫時，大島優子對此團抱著消極心態，因當時大島已和[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")自組了「梅島夏代」舞蹈子團，自行編舞並張羅服裝等，亦已有秋元康量身製作的歌曲，雖未正式發行專輯，但在路線相似的情形下，大島表示「我一個人又要另外以全新的四個人組成子團出道，好像背叛了『梅島夏代』......。當時甚至自暴自棄不敢和『Not yet』預定成員北原、指原及橫山說話」。之後於「AKB48 重溫時間 最佳曲目100 2011」初次舞台表演後，大島先去找了「Not yet」的北原、指原與橫山三人道歉，並表示今後會好好努力，亦會取得「梅島夏代」其他人的諒解，其他三人聽完後希望能和大島一起加油；而大島當面告知「梅島夏代」成員時，成員表示雖然很落寞，但對於新發展衷心祝福\[6\]\[7\]。
 
 ## 經歷
 
@@ -75,13 +70,10 @@ yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿�
 
 <!-- end list -->
 
-  - 1月21日，在「[AKB48 重溫時間 最佳曲目100
-    2011](../Page/AKB48_重溫時間_最佳曲目100_2011.md "wikilink")」上，宣布組合誕生。
-  - 3月16日，以單曲CD《[週末Not
-    yet](../Page/週末Not_yet.md "wikilink")》出道。另外，預訂同日在舉辦的針對單曲預約者的抽選活動受[東日本大震災影響而中止](../Page/東日本大震災.md "wikilink")\[8\]。
-  - 3月28日，第1張單曲《週末Not
-    yet》獲得[Oricon週榜第](../Page/Oricon.md "wikilink")1位，銷售額爲AKB48衍生組合首週單曲銷量中的最高記錄（16萬張）\[9\]。
-  - 5月14日，於[有明競技場舉行Not](../Page/有明競技場.md "wikilink") yet的首次活動「」\[10\]。
+  - 1月21日，在「[AKB48 重溫時間 最佳曲目100 2011](../Page/AKB48_重溫時間_最佳曲目100_2011.md "wikilink")」上，宣布組合誕生。
+  - 3月16日，以單曲CD《[週末Not yet](../Page/週末Not_yet.md "wikilink")》出道。另外，預訂同日在舉辦的針對單曲預約者的抽選活動受[東日本大震災](../Page/東日本大震災.md "wikilink")影響而中止\[8\]。
+  - 3月28日，第1張單曲《週末Not yet》獲得[Oricon](../Page/Oricon.md "wikilink")週榜第1位，銷售額爲AKB48衍生組合首週單曲銷量中的最高記錄（16萬張）\[9\]。
+  - 5月14日，於[有明競技場](../Page/有明競技場.md "wikilink")舉行Not yet的首次活動「」\[10\]。
   - 7月6日，第2張單曲《[破浪刨冰](../Page/破浪刨冰.md "wikilink")》發售。
   - 10月9日，組合首個固定節目《》開始播映，主持為[劇團一人](../Page/劇團一人.md "wikilink")。
   - 11月16日，第3張單曲《[愛說愛說愛說的男人](../Page/愛說愛說愛說的男人.md "wikilink")》發售，並在首周獲得17萬張的銷量，再次刷新自身所保持的AKB48衍生組合首週單曲銷量的最高記錄。
@@ -108,11 +100,9 @@ yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿�
 
 <!-- end list -->
 
-  - 4月23日，發行出道以來的第一張專輯《[already](https://zh.wikipedia.org/wiki/already "wikilink")》\[11\]，並且成功奪得Oricon專輯週榜冠軍。包含單曲在內，Not
-    yet目前共有5部作品得到首周冠軍，與過去女子團體衍生組合的冠軍數目紀錄持平，而之前的紀錄是同樣由秋元康擔任監督的[小貓俱樂部衍生組合](../Page/小貓俱樂部.md "wikilink")[指指點點組所保持](https://zh.wikipedia.org/wiki/指指點點組 "wikilink")，是繼1987年3月2日以來、相隔27年又2個月後，再次有衍生組合達成此項紀錄\[12\]。
+  - 4月23日，發行出道以來的第一張專輯《[already](https://zh.wikipedia.org/wiki/already "wikilink")》\[11\]，並且成功奪得Oricon專輯週榜冠軍。包含單曲在內，Not yet目前共有5部作品得到首周冠軍，與過去女子團體衍生組合的冠軍數目紀錄持平，而之前的紀錄是同樣由秋元康擔任監督的[小貓俱樂部](../Page/小貓俱樂部.md "wikilink")衍生組合[指指點點組所保持](https://zh.wikipedia.org/wiki/指指點點組 "wikilink")，是繼1987年3月2日以來、相隔27年又2個月後，再次有衍生組合達成此項紀錄\[12\]。
   - 5月10日，於有明競技場舉行「Not yet 1st Album《already》發售紀念SPECIAL LIVE。」
-  - 10月15日，發行「Not yet "already" 2014.5.10 1st
-    LIVE」演唱會影音作品，其中[藍光版本在首週拿下](https://zh.wikipedia.org/wiki/藍光 "wikilink")1.1萬的銷售佳績，創下由2008年7月藍光榜發布後，首次有偶像衍生團體拿下銷量冠軍的紀錄，也打破過去由[走廊奔跑隊所創下的藍光影音作品銷量紀錄](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")，而DVD版本銷量也拿下首週DVD榜第2名的佳績\[13\]。
+  - 10月15日，發行「Not yet "already" 2014.5.10 1st LIVE」演唱會影音作品，其中[藍光版本在首週拿下](https://zh.wikipedia.org/wiki/藍光 "wikilink")1.1萬的銷售佳績，創下由2008年7月藍光榜發布後，首次有偶像衍生團體拿下銷量冠軍的紀錄，也打破過去由[走廊奔跑隊所創下的藍光影音作品銷量紀錄](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")，而DVD版本銷量也拿下首週DVD榜第2名的佳績\[13\]。
 
 ## 音樂作品
 
@@ -349,7 +339,7 @@ COBA-6703-4</p></td>
 <tr class="odd">
 <td><p>第1張單曲《<a href="../Page/週末Not_yet.md" title="wikilink">週末Not yet</a>》</p></td>
 <td><p><strong>《週末Not yet》</strong></p></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台週末夜間電視劇</a>《<a href="../Page/Dr.伊良部一郎.md" title="wikilink">Dr.伊良部一郎</a>》主題歌</p></td>
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>週末夜間電視劇《<a href="../Page/Dr.伊良部一郎.md" title="wikilink">Dr.伊良部一郎</a>》主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>《飄飄》</strong></p></td>
@@ -358,7 +348,7 @@ COBA-6703-4</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>《需要誠實》</strong></p></td>
-<td><p><a href="../Page/關西電視台.md" title="wikilink">關西電視台節目</a>《》結尾曲</p></td>
+<td><p><a href="../Page/關西電視台.md" title="wikilink">關西電視台</a>節目《》結尾曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -389,7 +379,7 @@ COBA-6703-4</p></td>
 <tr class="odd">
 <td><p>第3張單曲《<a href="../Page/愛說愛說愛說的男人.md" title="wikilink">愛說愛說愛說的男人</a>》</p></td>
 <td><p><strong>《愛說愛說愛說的男人》</strong></p></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台系</a>《》10月度主題曲<br />
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>系《》10月度主題曲<br />
 TBS《》結尾曲<br />
 朝日電視台《》11月度結尾曲</p></td>
 </tr>
@@ -425,29 +415,22 @@ TBS《》結尾曲<br />
 
 ### 電視劇
 
-  - [Dr.伊良部一郎](../Page/Dr.伊良部一郎.md "wikilink")
-    第7話（2011年3月20日；[朝日電視台](../Page/朝日電視台.md "wikilink")）：飾演
-    本人（Not yet）
+  - [Dr.伊良部一郎](../Page/Dr.伊良部一郎.md "wikilink") 第7話（2011年3月20日；[朝日電視台](../Page/朝日電視台.md "wikilink")）：飾演 本人（Not yet）
 
 ### 電視節目
 
-  - Music Birth+
-    （2011年1月30日－3月27日；[TBS](../Page/TBS.md "wikilink")）：首次登台
+  - Music Birth+ （2011年1月30日－3月27日；[TBS](../Page/TBS.md "wikilink")）：首次登台
 
   - （2011年10月9日－2012年3月25日；TBS）
 
 ### 電台
 
-  - [AKB48的「我們的故事」](../Page/AKB48的「我們的故事」.md "wikilink")
-    第8集（2011年7月8日・11月25日・2012年1月20日；[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM放送 "wikilink")）
+  - [AKB48的「我們的故事」](../Page/AKB48的「我們的故事」.md "wikilink") 第8集（2011年7月8日・11月25日・2012年1月20日；[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM放送 "wikilink")）
 
 ### 活動
 
-  - Not yet 1st Single《週末Not
-    yet》發售記念活動（2011年5月14日；[御台場有明競技場](../Page/御台場.md "wikilink")
-    3公演）
-  - [a-nation 10th Anniversary for Life Charge ▶ Go\!
-    ウイダーinゼリー](https://zh.wikipedia.org/wiki/a-nation "wikilink")（2011年8月13日；[名古屋市](../Page/名古屋市.md "wikilink")、野外特設会場）
+  - Not yet 1st Single《週末Not yet》發售記念活動（2011年5月14日；[御台場](../Page/御台場.md "wikilink")有明競技場 3公演）
+  - [a-nation 10th Anniversary for Life Charge ▶ Go\! ウイダーinゼリー](https://zh.wikipedia.org/wiki/a-nation "wikilink")（2011年8月13日；[名古屋市](../Page/名古屋市.md "wikilink")、野外特設会場）
   - Not yet 1st Album《already》發售紀念SPECIAL LIVE（2014年5月10日；御台場有明競技場）
 
 ## 備註
@@ -457,21 +440,14 @@ TBS《》結尾曲<br />
   - [Not yet官方網站（古倫美亞音樂娛樂）](http://columbia.jp/notyet/)
   - [太田製作](http://www.ohtapro.co.jp/)
 
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:太田製作](https://zh.wikipedia.org/wiki/Category:太田製作 "wikilink")
-[Category:NGT48](https://zh.wikipedia.org/wiki/Category:NGT48 "wikilink")
-[Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink")
+[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:太田製作](https://zh.wikipedia.org/wiki/Category:太田製作 "wikilink") [Category:NGT48](https://zh.wikipedia.org/wiki/Category:NGT48 "wikilink") [Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.  《優子》大島優子個人寫真集.[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")
-    發行日期：2011年6月17日
+6.  《優子》大島優子個人寫真集.[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink") 發行日期：2011年6月17日
 7.  《[有吉AKB共和國](../Page/有吉AKB共和國.md "wikilink")》 播出日期：2011年10月27日
 8.
 9.

@@ -1,4 +1,4 @@
-**CD店大獎**（），[日本的音樂獎項](../Page/日本.md "wikilink")，由[全日本CD店店員組合主辦](https://zh.wikipedia.org/wiki/全日本CD店店員組合 "wikilink")，日本全國的CD店店員投票選出各獎項。被稱為文學獎項「[書店大獎的音樂版](https://zh.wikipedia.org/wiki/書店大獎 "wikilink")」。\[1\]\[2\]
+**CD店大獎**（），[日本](../Page/日本.md "wikilink")的音樂獎項，由[全日本CD店店員組合主辦](https://zh.wikipedia.org/wiki/全日本CD店店員組合 "wikilink")，日本全國的CD店店員投票選出各獎項。被稱為文學獎項「[書店大獎的音樂版](https://zh.wikipedia.org/wiki/書店大獎 "wikilink")」。\[1\]\[2\]
 
 ## 選拔標準
 
@@ -10,7 +10,7 @@
 
 ## 投票
 
-全國的CD店店員可以通過[互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")、[移動電話或者](https://zh.wikipedia.org/wiki/移動電話 "wikilink")[傳真進行投票](../Page/傳真.md "wikilink")。
+全國的CD店店員可以通過[互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")、[移動電話或者](https://zh.wikipedia.org/wiki/移動電話 "wikilink")[傳真](../Page/傳真.md "wikilink")進行投票。
 
 ### 審查
 
@@ -33,8 +33,7 @@
 
 ## 頒獎
 
-第1回（2009年）的頒獎典禮在[澀谷](../Page/澀谷.md "wikilink")[HMV店內舉行](../Page/HMV.md "wikilink")，當時唱片公司及大部分CD店店員對這個獎項的認知度還很低；媒體也不怎麼關注此獎，只有獲得準大獎的[大橋好規出席的頒獎典禮](https://zh.wikipedia.org/wiki/大橋好規 "wikilink")。但是隨著第1回的獲獎作品和歌手的唱片銷量逐漸提高，以及眾多CD店店員的幫助，到第2回舉行時，CD店大獎已經成為頗受外界關注的新興音樂獎項；大獎的獲得者[THE
-BAWDIES和準大獎的獲得者](../Page/THE_BAWDIES.md "wikilink")[清龍人都出席了第](https://zh.wikipedia.org/wiki/清龍人 "wikilink")2回的頒獎典禮。\[3\]
+第1回（2009年）的頒獎典禮在[澀谷](../Page/澀谷.md "wikilink")[HMV](../Page/HMV.md "wikilink")店內舉行，當時唱片公司及大部分CD店店員對這個獎項的認知度還很低；媒體也不怎麼關注此獎，只有獲得準大獎的[大橋好規出席的頒獎典禮](https://zh.wikipedia.org/wiki/大橋好規 "wikilink")。但是隨著第1回的獲獎作品和歌手的唱片銷量逐漸提高，以及眾多CD店店員的幫助，到第2回舉行時，CD店大獎已經成為頗受外界關注的新興音樂獎項；大獎的獲得者[THE BAWDIES和準大獎的獲得者](../Page/THE_BAWDIES.md "wikilink")[清龍人都出席了第](https://zh.wikipedia.org/wiki/清龍人 "wikilink")2回的頒獎典禮。\[3\]
 
 ## 舉行時間
 
@@ -522,8 +521,7 @@ MODERN TIMES（PUNPEE）</p></td>
 
   - [全日本CD店店員組合](http://www.cdshop-kumiai.jp/)
 
-[Category:日本音樂獎項](https://zh.wikipedia.org/wiki/Category:日本音樂獎項 "wikilink")
-[Category:2009年建立的獎項](https://zh.wikipedia.org/wiki/Category:2009年建立的獎項 "wikilink")
+[Category:日本音樂獎項](https://zh.wikipedia.org/wiki/Category:日本音樂獎項 "wikilink") [Category:2009年建立的獎項](https://zh.wikipedia.org/wiki/Category:2009年建立的獎項 "wikilink")
 
 1.
 

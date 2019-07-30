@@ -1,7 +1,4 @@
-**Medibank私人保險**（），是澳洲政府擁有的一間私人[保險公司](../Page/保險.md "wikilink")。成立於1976年\[1\],
-拥有40年的行业经验，是澳洲最大的保險公司。公司通过Medibank和ahm品牌为超过370万客户提供健康保险服务，同时提供旅行和宠物保险服务。此外，Medibank在澳大利亞提供一系列健康服務，包括精神健康、預防性和綜合性初級保健、非工作時間健康支持服務，並為6萬名澳大利亞國防軍和2萬名預備役提供醫保服務\[2\]
-。Medibank 2017-2018財年的營業收入達到69.064億澳元，總收入64.48億澳元\[3\]。
-截至2018年12月，公司市值约为66.1亿澳元\[4\]。
+**Medibank私人保險**（），是澳洲政府擁有的一間私人[保險](../Page/保險.md "wikilink")公司。成立於1976年\[1\], 拥有40年的行业经验，是澳洲最大的保險公司。公司通过Medibank和ahm品牌为超过370万客户提供健康保险服务，同时提供旅行和宠物保险服务。此外，Medibank在澳大利亞提供一系列健康服務，包括精神健康、預防性和綜合性初級保健、非工作時間健康支持服務，並為6萬名澳大利亞國防軍和2萬名預備役提供醫保服務\[2\] 。Medibank 2017-2018財年的營業收入達到69.064億澳元，總收入64.48億澳元\[3\]。 截至2018年12月，公司市值约为66.1亿澳元\[4\]。
 
 ## 公司历史
 
@@ -9,18 +6,13 @@
 
 1990年，Medibank Private與Health Australia合併，進一步擴大客戶群和地理位置。
 
-1997年，由聯邦政府註冊成立Medibank Private
-Limited。於1998年Medibank私人健康福利基金轉移到Medibank
-Private Limited；Medibank Private Limited作為Medibank
-Private的經營實體，聯邦政府為唯一股東。
+1997年，由聯邦政府註冊成立Medibank Private Limited。於1998年Medibank私人健康福利基金轉移到Medibank Private Limited；Medibank Private Limited作為Medibank Private的經營實體，聯邦政府為唯一股東。
 
-2010年，Medibank收購澳大利亞和新西蘭醫療服務提供商McKesson Australia
-Pacific和旅遊健康服務的提供商Carepoint。
+2010年，Medibank收購澳大利亞和新西蘭醫療服務提供商McKesson Australia Pacific和旅遊健康服務的提供商Carepoint。
 
 2012年，Medibank Health Solutions被委任為澳大利亞國防軍唯一的健康服務提供商。
 
-2014年11月23日澳洲財政部，以每股2.15澳元出售約27億股Medibank股票，給機構投資人，籌得56.79億澳幣（49億美元）(382億港元)，創澳洲第二大首次公開發行股票（IPO）紀錄。Medibank
-，11月25日將在澳洲證交所掛牌上市。\[5\]
+2014年11月23日澳洲財政部，以每股2.15澳元出售約27億股Medibank股票，給機構投資人，籌得56.79億澳幣（49億美元）(382億港元)，創澳洲第二大首次公開發行股票（IPO）紀錄。Medibank ，11月25日將在澳洲證交所掛牌上市。\[5\]
 
 ## 财务表现
 
@@ -35,8 +27,7 @@ Pacific和旅遊健康服務的提供商Carepoint。
 
 \==参考文献==
 
-[Category:1976年成立的公司](https://zh.wikipedia.org/wiki/Category:1976年成立的公司 "wikilink")
-[Category:澳大利亚保险公司](https://zh.wikipedia.org/wiki/Category:澳大利亚保险公司 "wikilink")
+[Category:1976年成立的公司](https://zh.wikipedia.org/wiki/Category:1976年成立的公司 "wikilink") [Category:澳大利亚保险公司](https://zh.wikipedia.org/wiki/Category:澳大利亚保险公司 "wikilink")
 
 1.
 

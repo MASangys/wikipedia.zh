@@ -1,6 +1,4 @@
-《**機動戰士海盜高達
-鋼鐵之七人**》（、）是[富野由悠季及](../Page/富野由悠季.md "wikilink")[矢立肇原作](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[長谷川裕一作畫的日本](../Page/長谷川裕一.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於[高達ACE](../Page/GUNDAM_ACE.md "wikilink")
-2006年7月號至2007年9月號期間連載。日文單行本由[角川書店發行](../Page/角川書店.md "wikilink")，台灣中文版由[台灣角川代理發行](../Page/台灣角川.md "wikilink")。本作是《[機動戰士海盜鋼彈](https://zh.wikipedia.org/wiki/機動戰士海盜鋼彈 "wikilink")》的後續。
+《**機動戰士海盜高達 鋼鐵之七人**》（、）是[富野由悠季](../Page/富野由悠季.md "wikilink")及[矢立肇原作](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[長谷川裕一](../Page/長谷川裕一.md "wikilink")作畫的日本[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於[高達ACE](../Page/GUNDAM_ACE.md "wikilink") 2006年7月號至2007年9月號期間連載。日文單行本由[角川書店](../Page/角川書店.md "wikilink")發行，台灣中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理發行。本作是《[機動戰士海盜鋼彈](https://zh.wikipedia.org/wiki/機動戰士海盜鋼彈 "wikilink")》的後續。
 
 ## 故事簡介
 
@@ -8,8 +6,7 @@ UC0136年，自三年前與木星帝國的大戰後，杜比安與新死亡先�
 
 ## 登場人物
 
-  - 使用的香港譯名參考自《機動戰士海盜高達》文化傳信版。配音員為[SD GUNDAM
-    G世代出演的聲優](../Page/SD_GUNDAM_G世代.md "wikilink")。
+  - 使用的香港譯名參考自《機動戰士海盜高達》文化傳信版。配音員為[SD GUNDAM G世代出演的聲優](../Page/SD_GUNDAM_G世代.md "wikilink")。
 
 ### 主要角色
 
@@ -99,14 +96,12 @@ UC0136年，自三年前與木星帝國的大戰後，杜比安與新死亡先�
 <!-- end list -->
 
   -
-    SNRI第二月面開發實驗所的負責人，與《[機動戰士V
-    高達](https://zh.wikipedia.org/wiki/機動戰士VGUNDAM "wikilink")》「神聖軍事同盟」中一名老伯角色有着相同名字。
+    SNRI第二月面開發實驗所的負責人，與《[機動戰士V 高達](https://zh.wikipedia.org/wiki/機動戰士VGUNDAM "wikilink")》「神聖軍事同盟」中一名老伯角色有着相同名字。
 
 <!-- end list -->
 
   -
-    SNRI第二月面開發實驗所的技術人員，與《[機動戰士V
-    高達](https://zh.wikipedia.org/wiki/機動戰士VGUNDAM "wikilink")》中主角胡索的母親同名。
+    SNRI第二月面開發實驗所的技術人員，與《[機動戰士V 高達](https://zh.wikipedia.org/wiki/機動戰士VGUNDAM "wikilink")》中主角胡索的母親同名。
 
 <!-- end list -->
 
@@ -177,7 +172,7 @@ UC0136年，自三年前與木星帝國的大戰後，杜比安與新死亡先�
 
 ## 漫畫
 
-  - 日文版由[角川書店出版發行](../Page/角川書店.md "wikilink")，台灣中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")，香港未有代理。
+  - 日文版由[角川書店](../Page/角川書店.md "wikilink")出版發行，台灣中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理，香港未有代理。
 
   - 在三卷漫畫的封底略有不同，第一卷封底只顯示杜比安一人及一個徽章，第二卷封底增至四人，第三卷封底則七人全部顯示。
 
@@ -245,9 +240,7 @@ UC0136年，自三年前與木星帝國的大戰後，杜比安與新死亡先�
 
   - [台灣角川](http://www.kadokawa.com.tw/details.asp?id=5635) － 中文版出版社官方網站
 
-[Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink")
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
+[Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
 
 1.  富野由悠季、矢立肇(2010)，《機動戰士海盜鋼彈 鋼鐵的7人 3》，台灣角川
 2.  富野由悠季、矢立肇(2010)，《機動戰士海盜鋼彈 鋼鐵的7人 2》，台灣角川

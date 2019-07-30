@@ -13,8 +13,7 @@
 
 }
 
-/\* If the user manually chose this gadget \*/ if (
-mw.user.options.get('gadget-Edittools-vector') ) {
+/\* If the user manually chose this gadget \*/ if ( mw.user.options.get('gadget-Edittools-vector') ) {
 
 `   customizeToolbar( function() {`
 `       this.wikiEditor('addToToolbar', {`

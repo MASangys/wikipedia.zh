@@ -34,12 +34,12 @@
   - [磷化铟](https://zh.wikipedia.org/wiki/磷化铟 "wikilink")
   - 2-氨基-3-甲基咪唑并\[4,5-*f*\][喹啉](../Page/喹啉.md "wikilink")（IQ）
   - [卡波济氏肉瘤](https://zh.wikipedia.org/wiki/卡波济氏肉瘤 "wikilink")（皮肤多发性肉瘤）[疱疹病毒](https://zh.wikipedia.org/wiki/疱疹病毒 "wikilink")/人疱疹病毒8类
-  - [铅的](../Page/铅.md "wikilink")[无机化合物](../Page/无机化合物.md "wikilink")
+  - [铅](../Page/铅.md "wikilink")的[无机化合物](../Page/无机化合物.md "wikilink")
   - [香柑内酯](../Page/香柑内酯.md "wikilink")
   - [甲磺酸甲酯](https://zh.wikipedia.org/wiki/甲磺酸甲酯 "wikilink")
   - *N*-甲基-*N*'-硝基-*N*-亚硝基胍（MNNG）
   - *N*-甲基-*N*-亚硝脲
-  - [硝酸盐及](../Page/硝酸盐.md "wikilink")[亚硝酸盐](../Page/亚硝酸盐.md "wikilink")（在可引起[蛋白质](../Page/蛋白质.md "wikilink")[亚硝化条件下](https://zh.wikipedia.org/wiki/亚硝化 "wikilink")）
+  - [硝酸盐](../Page/硝酸盐.md "wikilink")及[亚硝酸盐](../Page/亚硝酸盐.md "wikilink")（在可引起[蛋白质](../Page/蛋白质.md "wikilink")[亚硝化条件下](https://zh.wikipedia.org/wiki/亚硝化 "wikilink")）
   - [氮芥](https://zh.wikipedia.org/wiki/氮芥 "wikilink")
   - *N*-[二乙亚硝胺](https://zh.wikipedia.org/wiki/二乙亚硝胺 "wikilink")
   - *N*-[二甲亚硝胺](https://zh.wikipedia.org/wiki/二甲亚硝胺 "wikilink")
@@ -66,7 +66,7 @@
   - [二嗪磷](../Page/二嗪磷.md "wikilink")
   - [草甘膦](../Page/草甘膦.md "wikilink")
   - [1,3-丙磺酸内酯](../Page/1,3-丙磺酸内酯.md "wikilink")
-  - [碳化硅晶须](../Page/碳化硅.md "wikilink")
+  - [碳化硅](../Page/碳化硅.md "wikilink")晶须
   - 多溴联苯
   - 吡格列酮
 
@@ -84,7 +84,7 @@
 
   - 工艺玻璃、玻璃容器和冲压器皿制造
   - [石墨电极制造](https://zh.wikipedia.org/wiki/石墨电极 "wikilink")
-  - 含[碳化钨的](https://zh.wikipedia.org/wiki/碳化钨 "wikilink")[钴金属](../Page/钴.md "wikilink")
+  - 含[碳化钨的](https://zh.wikipedia.org/wiki/碳化钨 "wikilink")[钴](../Page/钴.md "wikilink")金属
   - [理发师](https://zh.wikipedia.org/wiki/理发师 "wikilink")（作为职业）
   - [石油精炼](https://zh.wikipedia.org/wiki/石油精炼 "wikilink")（职业接触）
   - [日晒床](../Page/日晒床.md "wikilink")
@@ -94,8 +94,7 @@
 
 ## 外部链接
 
-  - [致癌物分类表描述](http://monographs.iarc.fr/ENG/Classification/),
-    [国际癌症研究机构](../Page/国际癌症研究机构.md "wikilink")
+  - [致癌物分类表描述](http://monographs.iarc.fr/ENG/Classification/), [国际癌症研究机构](../Page/国际癌症研究机构.md "wikilink")
       - [致癌物分类表](http://monographs.iarc.fr/ENG/Classification/latest_classif.php)（最新版本）
 
 <!-- end list -->

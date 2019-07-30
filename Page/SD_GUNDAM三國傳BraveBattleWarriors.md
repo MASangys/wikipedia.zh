@@ -1,15 +1,10 @@
-《**SD高達三國傳～BraveBattleWarriors～**》，簡稱「三國傳BBW」，又稱「SD高逹三國傳」，是[萬代於](../Page/萬代.md "wikilink")2010年4月3日，於日本時間10:15
-\~10:30播映的短篇連續[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。台灣由[群英社取得授權](../Page/群英社.md "wikilink")，並於同年12月5日下午4:30在[東森幼幼台首播](../Page/東森幼幼台.md "wikilink")，亦從2011年4月27日開始發售中日雙語發音[DVD影片](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+《**SD高達三國傳～BraveBattleWarriors～**》，簡稱「三國傳BBW」，又稱「SD高逹三國傳」，是[萬代](../Page/萬代.md "wikilink")於2010年4月3日，於日本時間10:15 \~10:30播映的短篇連續[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。台灣由[群英社](../Page/群英社.md "wikilink")取得授權，並於同年12月5日下午4:30在[東森幼幼台](../Page/東森幼幼台.md "wikilink")首播，亦從2011年4月27日開始發售中日雙語發音[DVD影片](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
-2010年12月25日，香港[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[翡翠台於早上時段首播](../Page/翡翠台.md "wikilink")[粵語配音](https://zh.wikipedia.org/wiki/粵語 "wikilink")[電影版](https://zh.wikipedia.org/wiki/電影 "wikilink")，名為《SD高達三國傳電影－三英崛起》，動畫版則於2011年3月20日起逢星期六、日播出。
+2010年12月25日，香港[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")於早上時段首播[粵語配音](https://zh.wikipedia.org/wiki/粵語 "wikilink")[電影版](https://zh.wikipedia.org/wiki/電影 "wikilink")，名為《SD高達三國傳電影－三英崛起》，動畫版則於2011年3月20日起逢星期六、日播出。
 
-本編作品最早版本，是2006年推出的《[BB戰士三國傳
-風雲豪傑編](https://zh.wikipedia.org/wiki/BB戰士三國傳_風雲豪傑編 "wikilink")》，該系列一直延續至2010年1月完結。由於大受華人地區歡迎，令模型銷量破紀錄達到350萬盒，萬代乃決定將該系列，以全新故事再次推出，包括動畫及單行本漫畫。模型商品方面，除了將已推出商品，以追加零件（例如劍氣、裝甲、武器等）形式再次發行外，亦為部份全新角色、或者以往未商品代角色，製作全部模型玩具。
+本編作品最早版本，是2006年推出的《[BB戰士三國傳 風雲豪傑編](https://zh.wikipedia.org/wiki/BB戰士三國傳_風雲豪傑編 "wikilink")》，該系列一直延續至2010年1月完結。由於大受華人地區歡迎，令模型銷量破紀錄達到350萬盒，萬代乃決定將該系列，以全新故事再次推出，包括動畫及單行本漫畫。模型商品方面，除了將已推出商品，以追加零件（例如劍氣、裝甲、武器等）形式再次發行外，亦為部份全新角色、或者以往未商品代角色，製作全部模型玩具。
 
-2013年，官方公布將會推出全新三國傳系列，以[機動戰士GUNDAM
-SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")、[機動戰士GUNDAM SEED
-DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")、[機動戰士GUNDAM SEED
-ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，重新設計舊有角色。
+2013年，官方公布將會推出全新三國傳系列，以[機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")、[機動戰士GUNDAM SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")、[機動戰士GUNDAM SEED ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，重新設計舊有角色。
 
 2017年，因十周年到來，官方於是重新推出8隻角色上市開賣，並首次推出貂蟬丘貝雷，8名腳色將於2018年2月起發售。
 
@@ -67,8 +62,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
             超必殺技：「天翔真龍斬」
             座騎：的盧
 
-:; [劉邦](https://zh.wikipedia.org/wiki/劉邦 "wikilink") 龍裝
-[劉備高達](https://zh.wikipedia.org/wiki/劉備 "wikilink")
+:; [劉邦](https://zh.wikipedia.org/wiki/劉邦 "wikilink") 龍裝 [劉備高達](https://zh.wikipedia.org/wiki/劉備 "wikilink")
 
   -
 
@@ -95,14 +89,14 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
   -
 
       -
-        呼應天玉鎧的力量而覺醒，得到「鬼牙」的力量換上全新鎧姿。設計藍本來自[真·三國無雙4同名角色](../Page/真·三國無雙4.md "wikilink")。
+        呼應天玉鎧的力量而覺醒，得到「鬼牙」的力量換上全新鎧姿。設計藍本來自[真·三國無雙4](../Page/真·三國無雙4.md "wikilink")同名角色。
 
 <!-- end list -->
 
   -
 
       -
-        必殺技：「鬼牙百裂擊」、「蒼紋百烈擊」（與[張遼的合體技](../Page/張遼.md "wikilink")）
+        必殺技：「鬼牙百裂擊」、「蒼紋百烈擊」（與[張遼](../Page/張遼.md "wikilink")的合體技）
         武器：真鬼牙龍月刀
 
 <!-- end list -->
@@ -122,7 +116,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
   -
 
       -
-        呼應天玉鎧的力量而覺醒，得到「雷」的力量換上全新鎧姿。設計藍本來自[真·三國無雙4同名角色](../Page/真·三國無雙4.md "wikilink")。
+        呼應天玉鎧的力量而覺醒，得到「雷」的力量換上全新鎧姿。設計藍本來自[真·三國無雙4](../Page/真·三國無雙4.md "wikilink")同名角色。
           -
             必殺技：「爆裂大雷蛇」﹑「爆裂超雷蛟」
             武器：真雷蛇、真大雷蛇
@@ -184,8 +178,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[周倉](../Page/周倉.md "wikilink")-{zh-hk:達希魯夫;zh-tw:飙狼;}-**（AMX-014
-    DovenWolf）
+  - **[周倉](../Page/周倉.md "wikilink")-{zh-hk:達希魯夫;zh-tw:飙狼;}-**（AMX-014 DovenWolf）
 
     被曹操軍擒獲的山賊，性格重情重義，力大無窮的大漢。
 
@@ -199,7 +192,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 官軍成員，由擁有「官軍最後的鬥將」之稱的曹操為領袖。先後討董卓、滅袁紹，令董卓、袁紹的武將及軍隊投降。但赤壁之戰中被劉備和孫權重創。
 
-  - **[曹操高達](../Page/曹操.md "wikilink")**（曹操ガンダム ）
+  - **[曹操](../Page/曹操.md "wikilink")高達**（曹操ガンダム ）
 
     原型為GX-9901-DX 高達DX
 
@@ -236,8 +229,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[司馬懿](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")-{zh-hk:沙薩比;zh-tw:沙薩比;}-/機駕太傅司馬懿沙薩比**（MSN-04
-    Sazabi）
+  - **[司馬懿](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")-{zh-hk:沙薩比;zh-tw:沙薩比;}-/機駕太傅司馬懿沙薩比**（MSN-04 Sazabi）
 
     「辣腕之軍師」，擁有與孔明匹敵的才智，認為曹操是天玉鎧繼承者，而加入旗下。對郿城會戰時，為何呂布會繼承天玉鎧的原因相當不解。
 
@@ -249,7 +241,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[夏侯惇基羅斯](../Page/夏侯惇.md "wikilink")**（XM-05 Berga Giros）
+  - **[夏侯惇](../Page/夏侯惇.md "wikilink")基羅斯**（XM-05 Berga Giros）
 
     「**鋼之猛將**」機駕猛將，曹操最信賴的將領，地位猶如右手的豪傑，在對呂布時失去左眼，愛好堂堂正正的戰鬥。
 
@@ -259,8 +251,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[夏侯淵達拉斯](https://zh.wikipedia.org/wiki/夏侯淵 "wikilink")**（XM-04
-    Berga Daias）
+  - **[夏侯淵達拉斯](https://zh.wikipedia.org/wiki/夏侯淵 "wikilink")**（XM-04 Berga Daias）
 
     「**隼之猛將**」機駕猛將，夏侯惇之弟，地位猶如曹操左手的猛將，擅長射擊，速度敏捷、神出鬼沒。
 
@@ -270,7 +261,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[徐晃大蛇](../Page/徐晃.md "wikilink")**（MMS-01 Serpent）
+  - **[徐晃](../Page/徐晃.md "wikilink")大蛇**（MMS-01 Serpent）
 
     原為董卓側近、官位衛將軍。質疑董卓及李儒的所作所為。曾為此與李儒發生強烈爭執。董卓被滅後，投靠曹操。
 
@@ -280,7 +271,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[張遼格魯古古](../Page/張遼.md "wikilink")**（MS-14 Gelgoog）
+  - **[張遼](../Page/張遼.md "wikilink")格魯古古**（MS-14 Gelgoog）
 
     「**淒絕的鬥魂**」呂布隊成員，是呂布部下猛將，有「威名能令泣子默然」的傳說，與呂布一樣擁有轟動天下的威名。為人重視義理，尊重俠者。效忠於呂布的戰鬥本能，為保護呂布之戰而戰。但當張遼目睹呂布對袁紹殘殺公孫瓚與屠戳幽州城的行為無動於衷後，不能認同呂布的人格，於是隻身投靠曹操，希望借其力量討伐袁紹，為公孫瓚復仇。此後，張遼便成為曹操軍的一員。官渡前哨戰與關羽共同擊滅袁紹軍先鋒隊的沮授、顏良、文醜，二人因此建立深厚的友誼。
 
@@ -290,9 +281,9 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[張郃渣古III](../Page/張郃.md "wikilink")**（AMX-011s zaku III custom）
+  - **[張郃](../Page/張郃.md "wikilink")渣古III**（AMX-011s zaku III custom）
 
-    原**袁紹**手下將軍，擅長格鬥戰，一擊能使堅硬的鋼鉄粉碎。性格忠厚，與軍師[田豐不和](../Page/田豐.md "wikilink")，但深得部下信賴。後袁紹為曹操所敗，見識曹操理想認同後加入曹操軍。
+    原**袁紹**手下將軍，擅長格鬥戰，一擊能使堅硬的鋼鉄粉碎。性格忠厚，與軍師[田豐](../Page/田豐.md "wikilink")不和，但深得部下信賴。後袁紹為曹操所敗，見識曹操理想認同後加入曹操軍。
 
     武器：狼牙‧雙重戟、烈銳爪、突毆拳
 
@@ -300,8 +291,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[典韋亞斯曼](https://zh.wikipedia.org/wiki/典韋 "wikilink")**（NRX-044
-    Asshimar）
+  - **[典韋亞斯曼](https://zh.wikipedia.org/wiki/典韋 "wikilink")**（NRX-044 Asshimar）
 
     原是山賊，因受到曹操的感昭才將其之利用於正途，因此相當敬重曹操，開口閉口都是稱讚他的君主。形容曹操如同太陽般的閃耀-賦予子民光明。後來為救曹操中了張繡和賈詡的陷阱，力盡而死。
 
@@ -311,7 +301,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[郭嘉華沙高](../Page/郭嘉.md "wikilink")**（NRX-0013 GUNDAM-VIRSAGO）
+  - **[郭嘉](../Page/郭嘉.md "wikilink")華沙高**（NRX-0013 GUNDAM-VIRSAGO）
 
     曹操軍軍師，司馬懿的首席弟子，有著冰一般冷酷的美妙才能的人，所使的計謀巧妙綿密，連曹操也稱讚為「年輕的天才」。
 
@@ -321,7 +311,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[程昱華玆禾拉比](../Page/程昱.md "wikilink")**（DT-6800HMC Wise Wallaby）
+  - **[程昱](../Page/程昱.md "wikilink")華玆禾拉比**（DT-6800HMC Wise Wallaby）
 
     曹操軍軍師，對人心有獨特的洞察力，年齡比司馬懿年長，但亦願意奉其為軍師之首。
 
@@ -333,8 +323,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 古代兵法家孫武之後裔。
 
-  - **[孫權高達](https://zh.wikipedia.org/wiki/孫權 "wikilink")**（RX-78GP03S
-    Gundam "Dendrobium Stamen"）
+  - **[孫權高達](https://zh.wikipedia.org/wiki/孫權 "wikilink")**（RX-78GP03S Gundam "Dendrobium Stamen"）
 
     是管治三縭紗南部、長沙地方的將軍孫堅之次子。雖然出身貴冑，但卻是一名重情重義，能與下屬打成一片的少俠。其為「三候」之一的治癒著三璃紗大地之「月亮」化身。獲得天玉鎧力量後，進化成「猛虎裝」型態。
 
@@ -367,8 +356,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
     超必殺：王虎轟獸擊
 
-:; [孫武猛虎装](https://zh.wikipedia.org/wiki/孫武 "wikilink") 孫權
-高達-（機體不詳；有可能和猛虎装孫權高達一样模式）
+:; [孫武猛虎装](https://zh.wikipedia.org/wiki/孫武 "wikilink") 孫權 高達-（機體不詳；有可能和猛虎装孫權高達一样模式）
 
   -
 
@@ -381,8 +369,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[孫堅積菲蘭沙斯高達](https://zh.wikipedia.org/wiki/孫堅 "wikilink")**（RX-78GP01
-    "Zephyranthes"）
+  - **[孫堅積菲蘭沙斯高達](https://zh.wikipedia.org/wiki/孫堅 "wikilink")**（RX-78GP01 "Zephyranthes"）
 
     「**江東之虎**」孫權之父、孫氏三代霸業的草創者。長沙地方的領主，亦為偉大兵法家「[孫武](https://zh.wikipedia.org/wiki/孫武 "wikilink")」（[孫族](https://zh.wikipedia.org/wiki/孫族 "wikilink")）後裔。擁有足以與龍帝劍匹敵、由三侯時代己流傳至今的的兵器「虎錠刀」。最後與呂布作戰時戰死。
 
@@ -392,11 +379,9 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[孫策薩爾沙拉斯高達](https://zh.wikipedia.org/wiki/孫策 "wikilink")**（RX-78GP02
-    "Physalis"）
+  - **[孫策薩爾沙拉斯高達](https://zh.wikipedia.org/wiki/孫策 "wikilink")**（RX-78GP02 "Physalis"）
 
-    「**江東的小霸王**」孫權之兄。
-    「虎牢城攻略戰」時留守江東，與文靜的弟弟相反，個性活躍強悍。為磨練幼弟孫權，著令其加入聯軍作戰。與周瑜年少時已是好友。最後與呂布作戰時戰死。
+    「**江東的小霸王**」孫權之兄。 「虎牢城攻略戰」時留守江東，與文靜的弟弟相反，個性活躍強悍。為磨練幼弟孫權，著令其加入聯軍作戰。與周瑜年少時已是好友。最後與呂布作戰時戰死。
 
     武器：雙虎旋棍、強襲激鋼棍、牙王劍
 
@@ -406,8 +391,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[孫尚香卡貝拉](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")**（RX-78GP04G
-    "Gerbera"）
+  - **[孫尚香卡貝拉](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")**（RX-78GP04G "Gerbera"）
 
     「**江東的弓腰姬**」孫權之妹。作為女性，卻如男性一樣強悍的性格，連兄長都感到十分棘手。
 
@@ -419,8 +403,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 由孫一族旗下四員宿將——程普、黃蓋、韓當、祖茂所組成的騎兵團。
 
-  - **[黃蓋](../Page/黃蓋.md "wikilink")-{zh-hk:老虎;zh-tw:古夫;}-**（MS-07B
-    Gouf）
+  - **[黃蓋](../Page/黃蓋.md "wikilink")-{zh-hk:老虎;zh-tw:古夫;}-**（MS-07B Gouf）
 
     「長沙四騎眾」之一，孫家的元老將領，為孫堅保管虎錠刀。自小家貧，為出人頭地便努力學習武藝和兵法。最後在赤壁之戰時，為發動火攻而與曹軍戰船同歸於盡。
 
@@ -432,24 +415,23 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[祖茂強攻型吉姆](https://zh.wikipedia.org/wiki/祖茂 "wikilink")**（RGM-79C
-    Powered GM）
+  - **[祖茂強攻型吉姆](https://zh.wikipedia.org/wiki/祖茂 "wikilink")**（RGM-79C Powered GM）
     「長沙四騎眾」之一，擔任先鋒，善使兩柄短劍，多次穿越生死關頭。
 
 <!-- end list -->
 
-  - **[程普吉姆改](../Page/程普.md "wikilink")**（RGM-79N GM custom）
+  - **[程普](../Page/程普.md "wikilink")吉姆改**（RGM-79N GM custom）
     「長沙四騎眾」之一，善使鐵脊蛇矛。
     武器：鐵脊蛇矛
 
 <!-- end list -->
 
-  - **[韓當吉姆加農II](../Page/韓當.md "wikilink")**（RGC-83 GM Cannon II）
+  - **[韓當](../Page/韓當.md "wikilink")吉姆加農II**（RGC-83 GM Cannon II）
     「長沙四騎眾」之一，對禮節相當重視的老將。
 
 #### 其他將領
 
-  - **[周瑜百式](../Page/周瑜.md "wikilink")**（MSN-00100 Hyaku Shiki）
+  - **[周瑜](../Page/周瑜.md "wikilink")百式**（MSN-00100 Hyaku Shiki）
 
     「**白金之智將**」、長沙軍軍師，與孫權之兄．孫策自小已經相識的將領，是建成強力水軍、以平定江東不可缺少的人物。而外傳「創世編」中，周瑜是魯肅弟子，經魯肅介紹而入仕。
 
@@ -461,10 +443,9 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[太史慈](../Page/太史慈.md "wikilink")-{zh-hk:大魔;zh-tw:德姆;}-**（MS-09
-    Dom）
+  - **[太史慈](../Page/太史慈.md "wikilink")-{zh-hk:大魔;zh-tw:德姆;}-**（MS-09 Dom）
 
-    江東平民，孔武有力的豪傑，認為來到江東的[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")，不過與其他江東出沒的盜賊無異，於是與孫策其進行壯烈的單挑，雙方決戰半日仍未分勝負。最後[孫策戰勝](https://zh.wikipedia.org/wiki/孫策 "wikilink")。孫策相當欣賞[太史慈](../Page/太史慈.md "wikilink")，便想親自邀其加入，然而遭到拒絕。不過在孫尚香受到紀靈攻擊時，[太史慈主動前來救助](../Page/太史慈.md "wikilink")，之後正式加入孫策軍麾下。設計以及所用武器，藍本來自[真．三國無雙4同名角色](https://zh.wikipedia.org/wiki/真．三國無雙4 "wikilink")。
+    江東平民，孔武有力的豪傑，認為來到江東的[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")，不過與其他江東出沒的盜賊無異，於是與孫策其進行壯烈的單挑，雙方決戰半日仍未分勝負。最後[孫策戰勝](https://zh.wikipedia.org/wiki/孫策 "wikilink")。孫策相當欣賞[太史慈](../Page/太史慈.md "wikilink")，便想親自邀其加入，然而遭到拒絕。不過在孫尚香受到紀靈攻擊時，[太史慈](../Page/太史慈.md "wikilink")主動前來救助，之後正式加入孫策軍麾下。設計以及所用武器，藍本來自[真．三國無雙4同名角色](https://zh.wikipedia.org/wiki/真．三國無雙4 "wikilink")。
 
 <!-- end list -->
 
@@ -474,10 +455,9 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[陸遜Zeta](../Page/陸遜.md "wikilink")-Plus A1（MSZ-006 阿姆羅專用Zeta-Plus
-    A1）**
+  - **[陸遜](../Page/陸遜.md "wikilink")Zeta-Plus A1（MSZ-006 阿姆羅專用Zeta-Plus A1）**
 
-    [周瑜的弟子](../Page/周瑜.md "wikilink")，同時以[孫尚香側近身份活躍](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")。設計藍本來自[真．三國無雙4同名角色](https://zh.wikipedia.org/wiki/真．三國無雙4 "wikilink")。
+    [周瑜](../Page/周瑜.md "wikilink")的弟子，同時以[孫尚香側近身份活躍](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")。設計藍本來自[真．三國無雙4同名角色](https://zh.wikipedia.org/wiki/真．三國無雙4 "wikilink")。
 
 <!-- end list -->
 
@@ -490,10 +470,9 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 #### 江東強襲水軍
 
-又稱**強襲水軍**，由[孫策建立](https://zh.wikipedia.org/wiki/孫策 "wikilink")，隸屬於江東提督[周瑜](../Page/周瑜.md "wikilink")，由[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")、[甘寧率領](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，對抗[曹操軍](../Page/曹操.md "wikilink")。在對抗曹操軍前，強襲水軍已消滅在江東一帶作亂的海賊。
+又稱**強襲水軍**，由[孫策建立](https://zh.wikipedia.org/wiki/孫策 "wikilink")，隸屬於江東提督[周瑜](../Page/周瑜.md "wikilink")，由[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")、[甘寧率領](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，對抗[曹操](../Page/曹操.md "wikilink")軍。在對抗曹操軍前，強襲水軍已消滅在江東一帶作亂的海賊。
 
-  - **[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")-{zh-hk:迪傑;zh-tw:迪謝;}-**（輕裝：RMS-099
-    Rick Dias／提督裝備：MSK-008 Dijeh）
+  - **[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")-{zh-hk:迪傑;zh-tw:迪謝;}-**（輕裝：RMS-099 Rick Dias／提督裝備：MSK-008 Dijeh）
 
     與[甘寧一同率領轟國](https://zh.wikipedia.org/wiki/甘寧 "wikilink")**強襲水軍**作戰。本想與甘寧投奔孫策。孫策死後投靠無門，與甘寧在江東一帶作亂，與孫權交手後認同其真正的勇氣，原來只是一介莾夫，勇於從連敗中汲取教訓，並勤習兵法，終於成為一位身經百戰的智將。
 
@@ -507,8 +486,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[甘寧](https://zh.wikipedia.org/wiki/甘寧 "wikilink")-{zh-hk:京寶梵;zh-tw:肯普法;}-**（MS-18E
-    Kämpfer；蒼烈鮫：Mad Angler class）
+  - **[甘寧](https://zh.wikipedia.org/wiki/甘寧 "wikilink")-{zh-hk:京寶梵;zh-tw:肯普法;}-**（MS-18E Kämpfer；蒼烈鮫：Mad Angler class）
 
     本是為患江東一帶的水盜頭領。性格極重情義，深得部下的敬重，當甘寧身上的鈐鐺響起，就代表戰場即將掀起腥風血雨。
 
@@ -524,8 +502,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 由冀州名門「袁家」的當家主人兼反董卓聯盟盟主袁紹所建立的大軍，管理着冀州，後佔領整個北方地區，更打敗公孫瓚，攻佔其幽州，成為最強的諸侯，但在官渡之戰中被曹操重創並消滅。袁紹軍有外號「陷阱之天才」的沮授和利用各種卑劣兵法的田豐等軍師，並有顏良和文醜等強悍猛將，而且其軍隊規模龐大，人數眾多，實力十分強大。
 
-  - **[袁紹](https://zh.wikipedia.org/wiki/袁紹 "wikilink")-{zh-hk:龍飛;zh-tw:巴烏;}-**（武將型態：AMX-107
-    Bawoo／龍飛型態：NZ-000 Quin Mantha）
+  - **[袁紹](https://zh.wikipedia.org/wiki/袁紹 "wikilink")-{zh-hk:龍飛;zh-tw:巴烏;}-**（武將型態：AMX-107 Bawoo／龍飛型態：NZ-000 Quin Mantha）
 
     「**河北之雄**」。出身自冀州中世代擔任將軍職務的名門「袁家」，身為四世三公，既是袁氏當家主，同時想取得天下的野心家。以壓倒性的財力、及顯赫名聲及背景成為討伐董卓聯合軍的盟主。繼其弟[袁術後成為玉壐的擁有者](https://zh.wikipedia.org/wiki/袁術 "wikilink")，並成功召喚玉壐內的闇黑力量型態-龍飛，此面貌乃是袁紹與在地獄的袁術魂魄合體而成。
 
@@ -535,7 +512,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[沮授R](../Page/沮授.md "wikilink")．賈賈**(AMX-104 R-Jarja)
+  - **[沮授](../Page/沮授.md "wikilink")R．賈賈**(AMX-104 R-Jarja)
 
     外號**「陷阱之天才」**，袁紹軍司令，擁有天才軍略的參謀，唯美主義者，喜歡漂亮的東西，口頭禪是「完美」、「漂亮」，深受袁紹倚重。
 
@@ -543,7 +520,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[田豐寇斯](../Page/田豐.md "wikilink")-J**（AMX-101 Galluss-J）
+  - **[田豐](../Page/田豐.md "wikilink")寇斯-J**（AMX-101 Galluss-J）
 
     仕奉袁紹的優秀軍師，亦為袁紹軍參謀長，為達成目的可以不計較任何犠牲，甚至使用各種卑劣兵法也在所不惜。
 
@@ -551,8 +528,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[顏良加斯L](https://zh.wikipedia.org/wiki/顏良 "wikilink")**(AMX-117L
-    Gazu-L)
+  - **[顏良加斯L](https://zh.wikipedia.org/wiki/顏良 "wikilink")**(AMX-117L Gazu-L)
 
     **袁紹**手下猛將，文醜義兄，與義弟文醜共同守護冀州。憑籍袁紹軍豐厚的財力，由鎧甲到武器，均選用貴價裝備，對自身擁有天生神力相當自信。最後和顏良一起被關羽、張遼聯手打敗。
 
@@ -562,7 +538,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[文醜加斯R](../Page/文醜.md "wikilink")**(AMX-117R Gazu-R)
+  - **[文醜](../Page/文醜.md "wikilink")加斯R**(AMX-117R Gazu-R)
 
     **袁紹**手下猛將、顏良義弟，和他一起鎮守冀州。對自己以長槍準確地發動突擊的技法極之自信。總是與顏良共同作戰，跟顏良的組合攻擊，自稱能擊碎所有敵人。最後和顏良一起被關羽、張遼聯手打敗。
 
@@ -572,7 +548,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[張郃渣古III](../Page/張郃.md "wikilink")**（AMX-011s zaku III custom）
+  - **[張郃](../Page/張郃.md "wikilink")渣古III**（AMX-011s zaku III custom）
 
     **袁紹**手下猛將，擅長格鬥戰，一擊能使堅硬的鋼鉄粉碎。性格忠厚，雖然與軍師田豐不和，但深得部下信賴。官渡之戰後，帶兵進攻曹操替主公袁紹報仇，結果最後卻反被曹操的一番說話令他向曹操投降，成為他手下一員。
 
@@ -582,8 +558,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[趙雲高達](https://zh.wikipedia.org/wiki/趙雲 "wikilink")**（LM314V21
-    Victory2 Gundam）
+  - **[趙雲高達](https://zh.wikipedia.org/wiki/趙雲 "wikilink")**（LM314V21 Victory2 Gundam）
 
     **袁紹**手下猛將，擁有堅強的信念與自信心，無論對任何事都不輕言放棄。在董卓討伐戰中，奉袁紹之命阻擋任何打算擅自離開追擊董卓的盟軍成員，亦因此結識劉備和公孫瓚。後來對只想擁有王壐和奪取三璃紗的主公袁紹感到失望，轉向投身公孫瓚，自此成為公孫瓚的得力部下。最後在公孫瓚被袁紹所打敗後，轉投劉備。
 
@@ -605,8 +580,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 冀州名門「袁家」成員袁術的軍隊，參加虎牢城會戰。董卓勢力滅亡後，由董卓手中取得玉壐，並佔領壽春城一帶。後孫策攻打袁術，袁術逃往徐州並擊退當地的劉備軍，最後由孫權用天玉鎧重創袁術軍，袁術身負重病投靠兄長袁紹被拒，最終病倒在大雨的泥濘中。
 
-  - **[袁術茲沙](https://zh.wikipedia.org/wiki/袁術 "wikilink")**(AMX-102
-    Zssa)
+  - **[袁術茲沙](https://zh.wikipedia.org/wiki/袁術 "wikilink")**(AMX-102 Zssa)
 
     曾在「電擊Hobby」三國傳文字介紹中出現名字的角色，出身自冀州中、世代擔任將軍職務的名門「袁家」，袁紹之弟，與兄長一樣，以四世三公的出身，表現相當自負，虎牢城會戰時，身兼聯盟副首領以及軍師。非常喜歡蜂蜜糖漿等甜食。繼董卓後成為玉壐的擁有者，並成功召喚玉壐內的闇黑力量，得到十極呪導鎧黑堷力量的袁術濫殺無辜，並打傷孫尚香。最終激怒了孫權。被裝上天玉鎧「弩虎」的孫權打敗。袁術因有十極呪導鎧護身才得以保命。後來身負重傷投靠兄長袁紹被拒，最終在大雨的泥濘中身亡。
 
@@ -618,8 +592,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[紀靈哈瑪](https://zh.wikipedia.org/wiki/紀靈 "wikilink")．哈瑪**(AMX-103
-    Hamma Hamma)
+  - **[紀靈哈瑪](https://zh.wikipedia.org/wiki/紀靈 "wikilink")．哈瑪**(AMX-103 Hamma Hamma)
 
     **動畫版新角色**，袁術的部下。自稱袁術軍最強武將，對主君忠誠，可容忍袁術的任性行為，但處事亦有卑鄙一面。
 
@@ -631,14 +604,13 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[張繡布里托瓦](../Page/張繡.md "wikilink")（NRX-011 ブリトヴァ）**
+  - **[張繡](../Page/張繡.md "wikilink")布里托瓦（NRX-011 ブリトヴァ）**
 
     **動畫版新增角色**，武器是[鎖分銅](https://zh.wikipedia.org/wiki/鎖分銅 "wikilink")（高熱鋼線），對軍師賈詡言聽計從。鎮守[宛城](https://zh.wikipedia.org/wiki/宛 "wikilink")，曾決定誓死效忠曹操，可惜因為袁術的出現而改變初衷，聯同賈詡於宛城設陷阱襲擊曹操、劉備，機駕猛將典韋為救主而亡。張繡與賈詡在袁術麾下，見孫策大舉入侵，形勢不利，二人再叛離袁術。後來二人在荊州想將劉備等人擒住獻給曹操，卻因事敗而被劉備以三位一體絕技殺掉。
 
 <!-- end list -->
 
-  - **[賈詡亞士特隆高達](https://zh.wikipedia.org/wiki/賈詡 "wikilink")（NRX-0015
-    Gundam Ashtaron)**
+  - **[賈詡亞士特隆高達](https://zh.wikipedia.org/wiki/賈詡 "wikilink")（NRX-0015 Gundam Ashtaron)**
 
     張繡軍軍師，外貌年輕卻是深具智謀的術士。於宛城一役曾安排計謀打算殺掉曹操、劉備，令二人陷入險境，但因典韋勇猛以死相抵，曹操等最終得救。賈詡與張繡在袁術麾下時，眼見袁術將被孫策打敗，於是主張離開壽春逃走。後來賈詡到荊州設陷阱擒住劉備、關羽、張飛、趙雲四人，打算與張繡一起將四人獻予曹操以求赦罪，但因孔明出手相救而計劃失敗，張繡更被劉備打敗。結果賈詡毫不在乎地退場。
 
@@ -650,10 +622,9 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 由官軍領朱儁率領，主力討伐黃巾軍的部隊。
 
-  - **[朱儁](../Page/朱儁.md "wikilink")**-{zh-hk:渣古鐳射炮;zh-tw:薩克加農;}-'''(MS-06K
-    Zaku Cannon)
+  - **[朱儁](../Page/朱儁.md "wikilink")**-{zh-hk:渣古鐳射炮;zh-tw:薩克加農;}-'''(MS-06K Zaku Cannon)
 
-    **動畫版新角色**，官軍將領，個性優柔寡斷。奉朝廷之命率領曹操軍(曹操)、長沙軍(孫堅)討伐黃巾賊根據地[穎川](https://zh.wikipedia.org/wiki/穎川 "wikilink")。因為輕敵而拒絕曹操提醒，結果被棄守本陣出逃的[張角以妖術打敗](../Page/張角.md "wikilink")。
+    **動畫版新角色**，官軍將領，個性優柔寡斷。奉朝廷之命率領曹操軍(曹操)、長沙軍(孫堅)討伐黃巾賊根據地[穎川](https://zh.wikipedia.org/wiki/穎川 "wikilink")。因為輕敵而拒絕曹操提醒，結果被棄守本陣出逃的[張角](../Page/張角.md "wikilink")以妖術打敗。
 
 ### 董卓軍
 
@@ -707,12 +678,8 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 先後投靠董卓、袁術和袁紹，不過董卓等人只視呂布隊為稱霸天下的棋子，而呂布加入董卓軍和袁術軍，也是為了令內心熾熱的戰鬥之魂得以燃燒所致，所以雙方一直處於互相利用的關係中。
 
-  - **[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")-{zh-hk:多魯基斯;zh-tw:托爾吉斯;}-**（OZ-00MS2B
-    Tallgeese III）（日：[宮內敦士](../Page/宮內敦士.md "wikilink")
-    港﹕[何承駿](../Page/何承駿.md "wikilink")
-    台﹕[陳余寬](https://zh.wikipedia.org/wiki/陳余寬 "wikilink")）
-    「**戰慄的暴將**」天下聞名的的豪傑。有著一騎當千的武勇，作戰有如鬼神般勇猛。不斷追求更強對手，更會為此令靈魂燃燒起來，加入董卓軍純粹為著得到與天下強者交手的機會，對其引致民不聊生的惡行毫不關心。後來因為董卓所進行的無差別攻擊傷及其親近部屬貂蟬及張遼，大怒之下發動天玉鎧
-    真武的威力，將董卓殺掉，並失去蹤跡。後來先後出現於擁有玉璽的袁術及袁紹處，與孫策、公孫瓚等交手，將他們打敗。
+  - **[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")-{zh-hk:多魯基斯;zh-tw:托爾吉斯;}-**（OZ-00MS2B Tallgeese III）（日：[宮內敦士](../Page/宮內敦士.md "wikilink") 港﹕[何承駿](../Page/何承駿.md "wikilink") 台﹕[陳余寬](https://zh.wikipedia.org/wiki/陳余寬 "wikilink")）
+    「**戰慄的暴將**」天下聞名的的豪傑。有著一騎當千的武勇，作戰有如鬼神般勇猛。不斷追求更強對手，更會為此令靈魂燃燒起來，加入董卓軍純粹為著得到與天下強者交手的機會，對其引致民不聊生的惡行毫不關心。後來因為董卓所進行的無差別攻擊傷及其親近部屬貂蟬及張遼，大怒之下發動天玉鎧 真武的威力，將董卓殺掉，並失去蹤跡。後來先後出現於擁有玉璽的袁術及袁紹處，與孫策、公孫瓚等交手，將他們打敗。
     初出現於第4話。
     武器：破塵戟
     必殺：旋風大烈斬、旋風爆裂衝
@@ -736,10 +703,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - '''[貂蟬](https://zh.wikipedia.org/wiki/貂蟬 "wikilink")-{zh-hk:卡碧妮;zh-tw:邱貝蕾;}-
-    '''（AMX-004
-    Qubeley）(日：[恆松步](https://zh.wikipedia.org/wiki/恆松步 "wikilink")
-    港﹕[陳凱婷](../Page/陳凱婷.md "wikilink"))
+  - '''[貂蟬](https://zh.wikipedia.org/wiki/貂蟬 "wikilink")-{zh-hk:卡碧妮;zh-tw:邱貝蕾;}- '''（AMX-004 Qubeley）(日：[恆松步](https://zh.wikipedia.org/wiki/恆松步 "wikilink") 港﹕[陳凱婷](../Page/陳凱婷.md "wikilink"))
     「**美麗的女將軍**」，面對人所畏懼的呂布，她是少數能夠理解其心意的人物，出於愛慕之情，以輔助身份支持他之外，亦會參與作戰。
     官渡之戰後，呂布與裝備天玉鎧的曹操單挑，最終為保護呂布被殺。
     初出現於第4話。
@@ -748,7 +712,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[高順拜葉特](../Page/高順.md "wikilink")**（OZ-13MSX1 Vayeate）
+  - **[高順](../Page/高順.md "wikilink")拜葉特**（OZ-13MSX1 Vayeate）
     配音：宮崎寬務
     「**最強之矛**」董卓軍虎牢城左軍校尉。以呂布側近身份而活躍。擅長進攻，英勇善戰，經常與陳宮配合。
 
@@ -765,8 +729,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[陳宮麥丘留士](https://zh.wikipedia.org/wiki/陳宮 "wikilink")**（OZ-13MSX2
-    Mercurius）
+  - **[陳宮麥丘留士](https://zh.wikipedia.org/wiki/陳宮 "wikilink")**（OZ-13MSX2 Mercurius）
     配音：仲村水希
     「**最強之盾**」董卓軍虎牢城右軍校尉，足智多謀，是呂布軍的軍師。擅長防守，經常與高順配合作戰。亦擅長用兵和謀略，是隊中的參謀。在虎牢關之役中，本來想以「奔火之計」對付聯合軍，卻被曹操軍師司馬懿實施反計，反遭大火燒傷。
 
@@ -804,11 +767,9 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
       -
 
-        原型為[PMX-003 THE
-        O](https://zh.wikipedia.org/wiki/PMX-003_THE_O "wikilink")
+        原型為[PMX-003 THE O](https://zh.wikipedia.org/wiki/PMX-003_THE_O "wikilink")
 
-        由張氏三兄弟利用「太平要術－木星合身」合體所組成的，咒語是「蒼天既死，黃天當立」。最後被[劉備利用](https://zh.wikipedia.org/wiki/劉備 "wikilink")「三位一體
-        星龍斬」打敗。
+        由張氏三兄弟利用「太平要術－木星合身」合體所組成的，咒語是「蒼天既死，黃天當立」。最後被[劉備利用](https://zh.wikipedia.org/wiki/劉備 "wikilink")「三位一體 星龍斬」打敗。
 
         初出現於第3話。
 
@@ -850,17 +811,16 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
     原型為MS-06 ZAKU II
 
-    黃巾賊先遣部隊隊長，率兵迎擊以[盧植為首的幽州軍](../Page/盧植.md "wikilink")，更重創[盧植](../Page/盧植.md "wikilink")。最後被握有真龍帝劍的[劉備打敗](https://zh.wikipedia.org/wiki/劉備 "wikilink")。
+    黃巾賊先遣部隊隊長，率兵迎擊以[盧植](../Page/盧植.md "wikilink")為首的幽州軍，更重創[盧植](../Page/盧植.md "wikilink")。最後被握有真龍帝劍的[劉備打敗](https://zh.wikipedia.org/wiki/劉備 "wikilink")。
 
 ### 其他
 
-  - **[靈帝高達](https://zh.wikipedia.org/wiki/靈帝 "wikilink")**(日﹕[平川大輔](../Page/平川大輔.md "wikilink")
-    港﹕[梁偉德](../Page/梁偉德.md "wikilink"))
+  - **[靈帝高達](https://zh.wikipedia.org/wiki/靈帝 "wikilink")**(日﹕[平川大輔](../Page/平川大輔.md "wikilink") 港﹕[梁偉德](../Page/梁偉德.md "wikilink"))
     三璃紗皇帝，因為年紀老邁，無力阻止朝政敗壞，終於引發「黃巾之亂」。後來為董卓及呂布暗殺。
 
 <!-- end list -->
 
-  - **[馬騰藍色命運](../Page/馬騰.md "wikilink")**（RX-79BD-3)
+  - **[馬騰](../Page/馬騰.md "wikilink")藍色命運**（RX-79BD-3)
     西涼軍首領，獅子王，也是馬超的父親
 
 <!-- end list -->
@@ -870,8 +830,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[馬超蒼藍戰慄](https://zh.wikipedia.org/wiki/馬超 "wikilink")**（RX-79\[G\]
-    BD-1 Blue Destiny)
+  - **[馬超蒼藍戰慄](https://zh.wikipedia.org/wiki/馬超 "wikilink")**（RX-79\[G\] BD-1 Blue Destiny)
     配音﹕日﹕田村睦心 港﹕[陈琴云](https://zh.wikipedia.org/wiki/陈琴云 "wikilink")
     三縭紗中旅遊的少年，後期有出現長大後的馬超，名為「馬超蒼藍命運」。
 
@@ -883,7 +842,7 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[蹋頓梅美德薩](../Page/蹋頓.md "wikilink")（ZMT-S16G Memedorza）**
+  - **[蹋頓](../Page/蹋頓.md "wikilink")梅美德薩（ZMT-S16G Memedorza）**
     配音﹕田中 一成
     烏丸[單于](https://zh.wikipedia.org/wiki/單于 "wikilink")。率領烏丸族多次侵入三璃紗北方邊境。
 
@@ -893,33 +852,30 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 <!-- end list -->
 
-  - **[陶謙陸戦型吉姆](../Page/陶謙.md "wikilink")**(RX-79 GM）
+  - **[陶謙](../Page/陶謙.md "wikilink")陸戦型吉姆**(RX-79 GM）
     配音﹕土屋トシヒデ
     徐州的領主，深得民心，然而由於年事已高，登場時已經病入膏肓。在曹操打算征服徐州時，劉備阻止，終使後者退兵。同時陶謙病逝，臨終前將徐州託付予劉備。
 
 <!-- end list -->
 
-  - **[劉表高達](https://zh.wikipedia.org/wiki/劉表 "wikilink")（RX-78-1
-    Prototype Gundam)**
+  - **[劉表高達](https://zh.wikipedia.org/wiki/劉表 "wikilink")（RX-78-1 Prototype Gundam)**
     荊州的領主。
 
 <!-- end list -->
 
-  - **[黃月英鋼依勒](https://zh.wikipedia.org/wiki/黃月英 "wikilink")
-    (Gun-EZ)**
-    配音﹕日﹕[嶋村侑](../Page/嶋村侑.md "wikilink")
-    港﹕[沈小蘭](../Page/沈小蘭.md "wikilink")
+  - **[黃月英鋼依勒](https://zh.wikipedia.org/wiki/黃月英 "wikilink") (Gun-EZ)**
+    配音﹕日﹕[嶋村侑](../Page/嶋村侑.md "wikilink") 港﹕[沈小蘭](../Page/沈小蘭.md "wikilink")
     受周瑜命令,設計兵器「天火雷砲」。
     原為單行本作者津島直人設計的角色,經重新設計後列為BBW的正式角色。
 
 <!-- end list -->
 
-  - **[關平高達](../Page/關平.md "wikilink") (MSA-0011 S Gundam)**
+  - **[關平](../Page/關平.md "wikilink")高達 (MSA-0011 S Gundam)**
     關羽的義子。
 
 <!-- end list -->
 
-  - '''[黄帝極限](../Page/黄帝.md "wikilink")【黄帝エクストリーム】
+  - '''[黄帝](../Page/黄帝.md "wikilink")極限【黄帝エクストリーム】
     是创造擁有古代遺産：天玉鎧，也是早已打擊黑暗的神人，但是黄帝打算把古代遺産：天玉鎧藏在玉璽；當三璃紗再次受黑暗包圍時，繼承三侯靈魂高達們，將會在玉璽引導下，再次打擊黑暗与…
 
 <!-- end list -->
@@ -1645,21 +1601,16 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 ## 遊戲
 
-  - [SD Gundam GGENERATION
-    World](https://zh.wikipedia.org/wiki/SD_GUNDAM_G世代#SD_Gundam_GGENERATION_WORLD "wikilink")（[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")）
+  - [SD Gundam GGENERATION World](https://zh.wikipedia.org/wiki/SD_GUNDAM_G世代#SD_Gundam_GGENERATION_WORLD "wikilink")（[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")）
   - [超級機械人大戰UX](https://zh.wikipedia.org/wiki/超級機械人大戰UX "wikilink")（[N3DS](https://zh.wikipedia.org/wiki/N3DS "wikilink")）
-  - [SD GUNDAM三國傳Brave Battle Warriors
-    真三璃紗大戰](https://zh.wikipedia.org/wiki/SD_GUNDAM三國傳Brave_Battle_Warriors_真三璃紗大戰 "wikilink")（[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")）
+  - [SD GUNDAM三國傳Brave Battle Warriors 真三璃紗大戰](https://zh.wikipedia.org/wiki/SD_GUNDAM三國傳Brave_Battle_Warriors_真三璃紗大戰 "wikilink")（[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")）
 
 ## 參見
 
-  - [BB戰士三國傳
-    風雲豪傑編](https://zh.wikipedia.org/wiki/BB戰士三國傳_風雲豪傑編 "wikilink")
-  - [BB戰士三國傳
-    英雄激突編](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")
+  - [BB戰士三國傳 風雲豪傑編](https://zh.wikipedia.org/wiki/BB戰士三國傳_風雲豪傑編 "wikilink")
+  - [BB戰士三國傳 英雄激突編](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")
   - [BB戰士三國傳 戰神決鬥篇](../Page/BB戰士三國傳_戰神決鬥篇.md "wikilink")
-  - [BB戰士 三國傳外傳
-    武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+  - [BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
 ## 外部連結
 
@@ -1675,10 +1626,4 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
   - [My卡通動畫網 - SD鋼-{}-彈三國傳](http://www.my-cartoon.com.tw/sdgundam/)
 
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:三國題材漫畫](https://zh.wikipedia.org/wiki/Category:三國題材漫畫 "wikilink")
-[Category:三國題材動畫](https://zh.wikipedia.org/wiki/Category:三國題材動畫 "wikilink")
-[Category:2010年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年東京電視網動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:三國題材漫畫](https://zh.wikipedia.org/wiki/Category:三國題材漫畫 "wikilink") [Category:三國題材動畫](https://zh.wikipedia.org/wiki/Category:三國題材動畫 "wikilink") [Category:2010年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年東京電視網動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")

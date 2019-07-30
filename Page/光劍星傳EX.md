@@ -1,15 +1,12 @@
-《**光劍星傳EX**》（、）是[Studio
-Deen製作的日本](https://zh.wikipedia.org/wiki/Studio_Deen "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，改編自《[星海遊俠系列](../Page/星海遊俠系列.md "wikilink")》之一的[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")〈星海遊俠
-The Second
-Story〉與[東麻由美依該軟體改編的](../Page/東麻由美.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
+《**光劍星傳EX**》（、）是[Studio Deen製作的日本](https://zh.wikipedia.org/wiki/Studio_Deen "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，改編自《[星海遊俠系列](../Page/星海遊俠系列.md "wikilink")》之一的[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")〈星海遊俠 The Second Story〉與[東麻由美](../Page/東麻由美.md "wikilink")依該軟體改編的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
 
 ## 故事
 
-由於神秘[惑星引來的大型](https://zh.wikipedia.org/wiki/惑星 "wikilink")[隕石群](../Page/隕石.md "wikilink")，克勞德與父親羅尼齊斯提督來到密羅奇尼亞行星做調查。然而克勞德誤觸傳送裝置而被傳送到異世界的艾斯貝爾星，而他來到艾斯貝爾星的這天正符合了這個世界的[預言](https://zh.wikipedia.org/wiki/預言 "wikilink")：一個來自異世界、拿著光劍的勇者，會拯救這世界。克勞德醒來後意外解救了蕾娜，成為蕾娜眼中和異世界預言中的勇者。之後克勞德與蕾娜接連遇到艾修頓、塞麗奴，克勞德便與蕾娜、艾修頓、塞麗奴展開了冒險。
+由於神秘[惑星引來的大型](https://zh.wikipedia.org/wiki/惑星 "wikilink")[隕石](../Page/隕石.md "wikilink")群，克勞德與父親羅尼齊斯提督來到密羅奇尼亞行星做調查。然而克勞德誤觸傳送裝置而被傳送到異世界的艾斯貝爾星，而他來到艾斯貝爾星的這天正符合了這個世界的[預言](https://zh.wikipedia.org/wiki/預言 "wikilink")：一個來自異世界、拿著光劍的勇者，會拯救這世界。克勞德醒來後意外解救了蕾娜，成為蕾娜眼中和異世界預言中的勇者。之後克勞德與蕾娜接連遇到艾修頓、塞麗奴，克勞德便與蕾娜、艾修頓、塞麗奴展開了冒險。
 
 ## 登場人物
 
-下列譯名為[中視版與](https://zh.wikipedia.org/wiki/中視 "wikilink")[東森綜合台版共通譯名](../Page/東森綜合台.md "wikilink")。
+下列譯名為[中視版與](https://zh.wikipedia.org/wiki/中視 "wikilink")[東森綜合台](../Page/東森綜合台.md "wikilink")版共通譯名。
 
   -
     本作男主角，地球聯邦[少尉](../Page/少尉.md "wikilink")，與父親羅尼齊斯提督來到密羅奇尼亞行星做調查，因為誤觸傳送裝置而被送到惑星艾斯貝爾星。隨身武器是費茲槍（[雷射槍](https://zh.wikipedia.org/wiki/雷射槍 "wikilink")）。
@@ -70,8 +67,7 @@ Story〉與[東麻由美依該軟體改編的](../Page/東麻由美.md "wikilink
   - 音響監督：[菊田浩巳](https://zh.wikipedia.org/wiki/菊田浩巳 "wikilink")
   - 音樂：[櫻庭統](https://zh.wikipedia.org/wiki/櫻庭統 "wikilink")
   - 製作人：[東不可止](https://zh.wikipedia.org/wiki/東不可止 "wikilink")、山西太平、豐住政弘
-  - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[Studio
-    Deen](https://zh.wikipedia.org/wiki/Studio_Deen "wikilink")
+  - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[Studio Deen](https://zh.wikipedia.org/wiki/Studio_Deen "wikilink")
 
 ## 各話標題
 
@@ -357,11 +353,4 @@ Story〉與[東麻由美依該軟體改編的](../Page/東麻由美.md "wikilink
 
   - [《光劍星傳EX》日本非官方網頁](http://www.h4.dion.ne.jp/~mist/sutao.html)
 
-[Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink")
-[Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:星海遊俠系列](https://zh.wikipedia.org/wiki/Category:星海遊俠系列 "wikilink")
+[Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:星海遊俠系列](https://zh.wikipedia.org/wiki/Category:星海遊俠系列 "wikilink")

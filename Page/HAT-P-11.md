@@ -9,8 +9,6 @@
 
 ## 参考资料
 
-[Category:天鹅座](https://zh.wikipedia.org/wiki/Category:天鹅座 "wikilink")
-[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink")
-[Category:行星凌變星](https://zh.wikipedia.org/wiki/Category:行星凌變星 "wikilink")
+[Category:天鹅座](https://zh.wikipedia.org/wiki/Category:天鹅座 "wikilink") [Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:行星凌變星](https://zh.wikipedia.org/wiki/Category:行星凌變星 "wikilink")
 
 1.

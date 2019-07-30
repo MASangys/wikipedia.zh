@@ -1,33 +1,18 @@
-**XBL**（XML Binding Language或称作 Extensible Bindings
-Language）是一种基于[XML的](../Page/XML.md "wikilink")[置标语言](../Page/置标语言.md "wikilink")，用于描述如何将其他文档中的元素（如XPCOM的功能）绑定到部件（如XUL部件）。可以使用[级联样式表](https://zh.wikipedia.org/wiki/级联样式表 "wikilink")（CSS）或[文档对象模型](../Page/文档对象模型.md "wikilink")（DOM）两种方式绑定，绑定可为部件创建新的行为。绑定可以包含已注册到“被绑定元素”的事件处理程序，实现对“被绑定元素”的新的方法和属性访问，包括“被绑定元素”内的“匿名内容”。大部分XUL组建至少是部分需要用XBL实现，您可以使用现有的[XUL](../Page/XUL.md "wikilink")、[HTML](../Page/HTML.md "wikilink")、[SVG和其他使用XBL的高级语言建立自己的可重用组件](https://zh.wikipedia.org/wiki/SVG "wikilink")。
-XBL由[Mozilla基金会组织开发](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")，用于[Mozilla
-Application
-Suite](../Page/Mozilla_Application_Suite.md "wikilink")；该语言目前没有任何正式的标准描述，只属于Mozilla专有，只能用于[Gecko排版引擎](../Page/Gecko.md "wikilink")。
+**XBL**（XML Binding Language或称作 Extensible Bindings Language）是一种基于[XML](../Page/XML.md "wikilink")的[置标语言](../Page/置标语言.md "wikilink")，用于描述如何将其他文档中的元素（如XPCOM的功能）绑定到部件（如XUL部件）。可以使用[级联样式表](https://zh.wikipedia.org/wiki/级联样式表 "wikilink")（CSS）或[文档对象模型](../Page/文档对象模型.md "wikilink")（DOM）两种方式绑定，绑定可为部件创建新的行为。绑定可以包含已注册到“被绑定元素”的事件处理程序，实现对“被绑定元素”的新的方法和属性访问，包括“被绑定元素”内的“匿名内容”。大部分XUL组建至少是部分需要用XBL实现，您可以使用现有的[XUL](../Page/XUL.md "wikilink")、[HTML](../Page/HTML.md "wikilink")、[SVG和其他使用XBL的高级语言建立自己的可重用组件](https://zh.wikipedia.org/wiki/SVG "wikilink")。 XBL由[Mozilla基金会组织开发](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")，用于[Mozilla Application Suite](../Page/Mozilla_Application_Suite.md "wikilink")；该语言目前没有任何正式的标准描述，只属于Mozilla专有，只能用于[Gecko](../Page/Gecko.md "wikilink")排版引擎。
 
 ## 规范
 
-  - XBL 1.0 是在XBL 1.0
-    Reference中规定的。不幸的是Mozilla实际执行的与此规范不同，而且没有已知的文档描述这些不同，不过在规范更新中有望来描述这些不同。XBL
-    1.0是Mozilla私有技术，并不是W3C标准。不过两种标准正被制定成sXBL和XBL 2.0。
-  - W3C sXBL (目前的工作草案, 2005) 是指 SVG's XML Binding Language，
-    是原本打算加入到XBL2.0所需SVG功能的子集。它和Mozilla的XBL精神类似，但有些微妙的不同。比如元素的名称不同，sXBL也缺少XBL里的一些功能,
-    比如绑定的继承，被绑定元素的属性、方法的定义。
-  - XBL 2.0 (W3C候选推荐 ) 正在开发。针对XBL 1.0中发现的问题以及考虑可以在更广泛的Web浏览器中执行，
-    Mozilla计划从2009年6月开始初步在未来版本的Gecko中启用XBL2。
+  - XBL 1.0 是在XBL 1.0 Reference中规定的。不幸的是Mozilla实际执行的与此规范不同，而且没有已知的文档描述这些不同，不过在规范更新中有望来描述这些不同。XBL 1.0是Mozilla私有技术，并不是W3C标准。不过两种标准正被制定成sXBL和XBL 2.0。
+  - W3C sXBL (目前的工作草案, 2005) 是指 SVG's XML Binding Language， 是原本打算加入到XBL2.0所需SVG功能的子集。它和Mozilla的XBL精神类似，但有些微妙的不同。比如元素的名称不同，sXBL也缺少XBL里的一些功能, 比如绑定的继承，被绑定元素的属性、方法的定义。
+  - XBL 2.0 (W3C候选推荐 ) 正在开发。针对XBL 1.0中发现的问题以及考虑可以在更广泛的Web浏览器中执行， Mozilla计划从2009年6月开始初步在未来版本的Gecko中启用XBL2。
 
 ## 外部链接
 
   - [W3C的XBL Candidate Recommendation](http://www.w3.org/TR/xbl/)
-  - 关于sXBL和XBL2一些不同的列表[an article by Anne van
-    Kesteren](http://annevankesteren.nl/2005/11/xbl) (11, 2005)
-  - 关于Mozilla XB和XBL2区别的概述 [newsgroup posting by Jonas
-    Sicking](http://groups.google.com/group/mozilla.dev.tech.xbl/msg/af3d4e37cce1d907)
-    (04, 2007)
+  - 关于sXBL和XBL2一些不同的列表[an article by Anne van Kesteren](http://annevankesteren.nl/2005/11/xbl) (11, 2005)
+  - 关于Mozilla XB和XBL2区别的概述 [newsgroup posting by Jonas Sicking](http://groups.google.com/group/mozilla.dev.tech.xbl/msg/af3d4e37cce1d907) (04, 2007)
   - [Mozilla XBL文档](https://developer.mozilla.org/en/docs/XBL)
 
 <references />
 
-[Category:标记语言](https://zh.wikipedia.org/wiki/Category:标记语言 "wikilink")
-[Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink")
-[Category:W3C标准](https://zh.wikipedia.org/wiki/Category:W3C标准 "wikilink")
-[Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")
+[Category:标记语言](https://zh.wikipedia.org/wiki/Category:标记语言 "wikilink") [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:W3C标准](https://zh.wikipedia.org/wiki/Category:W3C标准 "wikilink") [Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")

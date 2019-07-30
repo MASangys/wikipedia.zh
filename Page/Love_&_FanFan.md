@@ -1,5 +1,4 @@
-**Love and
-FanFan**是台灣歌手[范瑋琪的第十張專輯](../Page/范瑋琪.md "wikilink")，2011年3月18日發行，這也是她踏入[婚禮前的最後一張專輯](https://zh.wikipedia.org/wiki/婚禮 "wikilink")。\[1\]\[2\]
+**Love and FanFan**是台灣歌手[范瑋琪](../Page/范瑋琪.md "wikilink")的第十張專輯，2011年3月18日發行，這也是她踏入[婚禮前的最後一張專輯](https://zh.wikipedia.org/wiki/婚禮 "wikilink")。\[1\]\[2\]
 
 ## 專輯曲目
 
@@ -110,13 +109,9 @@ FanFan**是台灣歌手[范瑋琪的第十張專輯](../Page/范瑋琪.md "wikil
 
 ## 外部連結
 
-  - [范瑋琪最新專輯《Love &
-    FanFan》「生日快樂版」3/18幸福發行](https://web.archive.org/web/20110323023013/http://www.linfairrecords.com/news/news.php?id=568)
+  - [范瑋琪最新專輯《Love & FanFan》「生日快樂版」3/18幸福發行](https://web.archive.org/web/20110323023013/http://www.linfairrecords.com/news/news.php?id=568)
 
-[Category:范瑋琪音樂專輯](https://zh.wikipedia.org/wiki/Category:范瑋琪音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
+[Category:范瑋琪音樂專輯](https://zh.wikipedia.org/wiki/Category:范瑋琪音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
 
 1.
 2.

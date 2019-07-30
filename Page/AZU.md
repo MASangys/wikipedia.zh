@@ -57,9 +57,7 @@
 | For You                                                              | 38                                                                                                                | 53                                                 | 9           | 2,933  |
 | たしかなこと                                                               | *待定*                                                                                                              | *待定*                                               | *待定*        | *待定*   |
 
-<small>\*註：[Japan Hot
-100](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink") 成立於
-2008年2月，[RIAJ付費音樂下載榜成立於](../Page/RIAJ付費音樂下載榜.md "wikilink")2009年4月。</small>
+<small>\*註：[Japan Hot 100](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink") 成立於 2008年2月，[RIAJ付費音樂下載榜](../Page/RIAJ付費音樂下載榜.md "wikilink")成立於2009年4月。</small>
 
 ### 合輯
 

@@ -1,20 +1,14 @@
-**Battle Moon
-Wars**（），簡稱**BMW**或**BMW银**，是由[日本](../Page/日本.md "wikilink")[同人组织](https://zh.wikipedia.org/wiki/同人 "wikilink")[Werk制作的](https://zh.wikipedia.org/wiki/Werk "wikilink")，以[TYPE-MOON公司作品中的角色为主的](../Page/TYPE-MOON.md "wikilink")[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")[戰棋類](https://zh.wikipedia.org/wiki/戰棋類 "wikilink")[二次创作作品及其后续升级版的总称](https://zh.wikipedia.org/wiki/同人 "wikilink")。目前最終版本是結合了BMW1,2,3,4的**BMW
-THE BEST**。
+**Battle Moon Wars**（），簡稱**BMW**或**BMW银**，是由[日本](../Page/日本.md "wikilink")[同人组织](https://zh.wikipedia.org/wiki/同人 "wikilink")[Werk制作的](https://zh.wikipedia.org/wiki/Werk "wikilink")，以[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")公司作品中的角色为主的[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")[戰棋類](https://zh.wikipedia.org/wiki/戰棋類 "wikilink")[二次创作作品及其后续升级版的总称](https://zh.wikipedia.org/wiki/同人 "wikilink")。目前最終版本是結合了BMW1,2,3,4的**BMW THE BEST**。
 
-本作品是仿效[超级机器人大战系列](https://zh.wikipedia.org/wiki/超级机器人大战 "wikilink")，将[TYPE-MOON公司的作品](../Page/TYPE-MOON.md "wikilink")——[Fate/stay
-night系列](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")，[月姬系列及](../Page/月姬.md "wikilink")[空之境界及其他衍生作品中的主要角色](../Page/空之境界.md "wikilink")，以原创剧本进行串联、演绎的同人策略战棋类电脑遊戲。
+本作品是仿效[超级机器人大战系列](https://zh.wikipedia.org/wiki/超级机器人大战 "wikilink")，将[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")公司的作品——[Fate/stay night系列](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")，[月姬](../Page/月姬.md "wikilink")系列及[空之境界](../Page/空之境界.md "wikilink")及其他衍生作品中的主要角色，以原创剧本进行串联、演绎的同人策略战棋类电脑遊戲。
 
 与超级机器人大战系列的模式类似，本作品也采用了**超级系**与**真实系**两条线路供玩家选择，并分别有一名原创主角（超级系主角为少年**匠**，真实系主角为少女**阳菜**）。不同路线除了设定不同，剧情、可加入的伙伴及敌人的登场安排也会有所不同。
 
-由于本作采用类似连载的形式，先发布第1作后在其后的各届日本Comic
-Market上继续发布后续作品，因此实际上最终版之前的作品（1-3作）剧情皆不完整。后续作品的性质类似资料片，在已安装第1作的情况下才能执行，内容则是接续的剧情。
+由于本作采用类似连载的形式，先发布第1作后在其后的各届日本Comic Market上继续发布后续作品，因此实际上最终版之前的作品（1-3作）剧情皆不完整。后续作品的性质类似资料片，在已安装第1作的情况下才能执行，内容则是接续的剧情。
 
 ## 版本历史
 
-目前已经发布的版本如下。除第1作外，其他皆为资料片形式，即不可单独执行。 但下表中的合集版（如1+2）因为内含第1作，是可以直接执行的。
-目前最终版本为2009年8月26日所发布的“the Best”版，为1-4作的合集增补版。
-游戏主页也提供了补丁供玩家升级至the Best版。
+目前已经发布的版本如下。除第1作外，其他皆为资料片形式，即不可单独执行。 但下表中的合集版（如1+2）因为内含第1作，是可以直接执行的。 目前最终版本为2009年8月26日所发布的“the Best”版，为1-4作的合集增补版。 游戏主页也提供了补丁供玩家升级至the Best版。
 
 <table>
 <thead>
@@ -71,16 +65,12 @@ Market上继续发布后续作品，因此实际上最终版之前的作品（1-
       - [歌月十夜](https://zh.wikipedia.org/wiki/歌月十夜 "wikilink")
       - [Melty Blood](../Page/Melty_Blood.md "wikilink")
   - Fate系列
-      - [Fate/stay
-        night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")
-      - [Fate/hollow
-        ataraxia](https://zh.wikipedia.org/wiki/Fate/hollow_ataraxia "wikilink")
-      - [Fate/unlimited
-        codes](https://zh.wikipedia.org/wiki/Fate/unlimited_codes "wikilink")
+      - [Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")
+      - [Fate/hollow ataraxia](https://zh.wikipedia.org/wiki/Fate/hollow_ataraxia "wikilink")
+      - [Fate/unlimited codes](https://zh.wikipedia.org/wiki/Fate/unlimited_codes "wikilink")
       - [Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")
   - [空之境界](../Page/空之境界.md "wikilink")
-  - [Character
-    material](https://zh.wikipedia.org/wiki/Character_material "wikilink")
+  - [Character material](https://zh.wikipedia.org/wiki/Character_material "wikilink")
 
 ## 参战角色一览
 
@@ -148,11 +138,9 @@ Market上继续发布后续作品，因此实际上最终版之前的作品（1-
 ### 原创角色
 
   - 匠
-    超強攻擊性肉盾。
-    Super線的男主角，出場率自然超高。持有布都之加護，初始獲得底力和移動力，建議學習攻擊者、看破和援護防禦。除了敏捷外全面加強，道具帶寶石和蝴蝶結。
+    超強攻擊性肉盾。 Super線的男主角，出場率自然超高。持有布都之加護，初始獲得底力和移動力，建議學習攻擊者、看破和援護防禦。除了敏捷外全面加強，道具帶寶石和蝴蝶結。
   - 陽菜
-    重要敏捷型角色。
-    Real線的女主角，出場率自然超高。持有未來視和飛行，初始獲得先制反擊。建議學節奏感、看破、鬥爭心和意氣洋洋。攻擊力不算高，但有熱血和魂，必中、必閃和集中的消耗也不高，強化還是很有必要的。建議提升EN、敏、攻，帶騎兵之卡片和貓耳。
+    重要敏捷型角色。 Real線的女主角，出場率自然超高。持有未來視和飛行，初始獲得先制反擊。建議學節奏感、看破、鬥爭心和意氣洋洋。攻擊力不算高，但有熱血和魂，必中、必閃和集中的消耗也不高，強化還是很有必要的。建議提升EN、敏、攻，帶騎兵之卡片和貓耳。
   - 菜月
     輔助角色。出場率低，只能丟丟聲援和期待，和陽菜的合體技還不能移動，不建議提升。
 
@@ -161,8 +149,7 @@ Market上继续发布后续作品，因此实际上最终版之前的作品（1-
   - Arcueid（爱尔奎特·布伦史达特）
     超強攻擊角色。一共有3種形態，第4部的真祖形態最強。攻、防、血、臂力和命中都很高，尤其是離譜的空想具現化的傷害具有合體技以外最高的傷害，建議提升武器、血、防和EN。初始獲得底力、先制反擊和防御者技能，建議學習攻擊者、魔力節約和看破（或援護攻擊）。此外還有脫力，對付BOSS也很有效。道具建議帶蝴蝶結。
   - 志貴（远野 志贵）
-    超重要攻擊角色。
-    Super線出場率超高，初期很爛，但中期大幅加強，後期非常強大，底子稍差於式。持有直死之魔眼·改，初始獲得先制反擊，建議學節奏感、看破、攻擊者和鬥爭心，SP恢復可以保證一直丟集中，魔力節約可以讓持久戰不太吃緊。建議提升EN、敏和攻，帶法衣和貓耳。
+    超重要攻擊角色。 Super線出場率超高，初期很爛，但中期大幅加強，後期非常強大，底子稍差於式。持有直死之魔眼·改，初始獲得先制反擊，建議學節奏感、看破、攻擊者和鬥爭心，SP恢復可以保證一直丟集中，魔力節約可以讓持久戰不太吃緊。建議提升EN、敏和攻，帶法衣和貓耳。
   - 秋葉（远野秋叶）
     防禦角色。固有能力紅朱赤可以抵消4000以下的傷害，所以很適合學援護防禦。由於前3部出場率較高，建議學個一擊脫離。但後期由於攻擊力不夠，不建議繼續培養。
   - 琥珀
@@ -182,19 +169,16 @@ Market上继续发布后续作品，因此实际上最终版之前的作品（1-
 <!-- end list -->
 
   - Sion（希翁）
-    攻擊角色。初始獲得先制反擊和復仇者，建議學習攻擊者。精神有個再動，關鍵時刻可以用用。Replica的攻擊力非常高，只是彈數有限，也算是個不錯的輸出，強化武器還是很有必要的。道具方面可以帶蝴蝶結、眼鏡和Phantasm
-    Rod。
+    攻擊角色。初始獲得先制反擊和復仇者，建議學習攻擊者。精神有個再動，關鍵時刻可以用用。Replica的攻擊力非常高，只是彈數有限，也算是個不錯的輸出，強化武器還是很有必要的。道具方面可以帶蝴蝶結、眼鏡和Phantasm Rod。
   - 機械翡翠
     輔助角色。47話時，琥珀＋翡翠的擊破合計超過45時加入。不如翡翠實用。
 
 ### FATE系列角色
 
   - 士郎（卫宫 士郎）
-    超強攻擊型肉盾。最初很差，但後來橙子給了他一副強大的身軀，獲得不屈不撓能力。初始獲得援護防禦，建議提升底力、對抗心、攻擊者。 NINE
-    LIVES的傷害非常高，自身臂力也很高，傷害算是數一數二的，而且可以和櫻用合體技。建議全面提升，帶上眼鏡、劍士之卡片或老虎掛繩。
+    超強攻擊型肉盾。最初很差，但後來橙子給了他一副強大的身軀，獲得不屈不撓能力。初始獲得援護防禦，建議提升底力、對抗心、攻擊者。 NINE LIVES的傷害非常高，自身臂力也很高，傷害算是數一數二的，而且可以和櫻用合體技。建議全面提升，帶上眼鏡、劍士之卡片或老虎掛繩。
   - 凜（远坂 凛）
-    攻擊角色。有2種形態，正常形態比較強。
-    Real線的出場率超高，但後期不強，不建議培養。初始獲得一擊脫離和援護攻擊技能，可以與秋葉、Rider搭配。由於移動很低，可以穿雙鞋子。
+    攻擊角色。有2種形態，正常形態比較強。 Real線的出場率超高，但後期不強，不建議培養。初始獲得一擊脫離和援護攻擊技能，可以與秋葉、Rider搭配。由於移動很低，可以穿雙鞋子。
   - 櫻（间桐 樱）
     肉盾角色。出場率一般，第4部獲得聖杯連結能力，且可以和士郎用合體技，不建議過多提升。
   - Saber
@@ -202,8 +186,7 @@ Market上继续发布后续作品，因此实际上最终版之前的作品（1-
   - Archer
     超重要攻擊角色。近程到遠程通吃，傷害、臂力、攻防敏都是一流的，清場能力首屈一指，可惜前三部出場率太低。持有熾天覆七重圓環，初始獲得底力和看破，建議學習復仇者、意氣洋洋和攻擊者，魔力節約也不錯。需要全面提升，一周目可以帶弓兵之卡片和騎兵之卡片，二週目可以換成類激化藥物異常症候群和魔術師卡片。
   - Lancer
-    非常重要的敏捷型角色。
-    Archer以外最佳的清場角色，可惜攻擊和臂力稍低。持有對魔力障壁B、避矢的加護和持續戰鬥，初始獲得底力、移動力和節奏感，建議學習復仇者和看破，鬥爭心和意氣洋洋可以選學。建議提升EN、敏、攻，帶弓道裝和貓耳。
+    非常重要的敏捷型角色。 Archer以外最佳的清場角色，可惜攻擊和臂力稍低。持有對魔力障壁B、避矢的加護和持續戰鬥，初始獲得底力、移動力和節奏感，建議學習復仇者和看破，鬥爭心和意氣洋洋可以選學。建議提升EN、敏、攻，帶弓道裝和貓耳。
   - Rider
     重要攻擊角色。雖然出場率不高，但是匠的34話非常需要提升她。初始獲得援護攻擊和看破，建議學習復仇者和節奏感，此外鬥爭心和攻擊者也可以選擇。精神方面有個很好用的補給，就是消耗大了點。建議提升EN、敏和攻，帶法衣和鞋子。
 

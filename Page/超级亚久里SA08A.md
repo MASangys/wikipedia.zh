@@ -1,5 +1,4 @@
-[Davidson_Sepang_2008.jpg](https://zh.wikipedia.org/wiki/File:Davidson_Sepang_2008.jpg "fig:Davidson_Sepang_2008.jpg")举办地[雪邦赛道上的SA](https://zh.wikipedia.org/wiki/雪邦赛道 "wikilink")08A（车手是[安东尼·戴维森](https://zh.wikipedia.org/wiki/安东尼·戴维森 "wikilink")）\]\]
-**超级亚久里·SA08A**，是超级亚久里车队为2008年世界一级方程式锦标赛设计制造的[方程式赛车](https://zh.wikipedia.org/wiki/方程式赛车 "wikilink")。
+[Davidson_Sepang_2008.jpg](https://zh.wikipedia.org/wiki/File:Davidson_Sepang_2008.jpg "fig:Davidson_Sepang_2008.jpg")举办地[雪邦赛道上的SA](https://zh.wikipedia.org/wiki/雪邦赛道 "wikilink")08A（车手是[安东尼·戴维森](https://zh.wikipedia.org/wiki/安东尼·戴维森 "wikilink")）\]\] **超级亚久里·SA08A**，是超级亚久里车队为2008年世界一级方程式锦标赛设计制造的[方程式赛车](https://zh.wikipedia.org/wiki/方程式赛车 "wikilink")。
 
 ## 特征
 
@@ -38,11 +37,9 @@
   - 制动器 [Alcon](https://zh.wikipedia.org/wiki/Alcon "wikilink")
   - 刹车盘 [Hitoko](https://zh.wikipedia.org/wiki/Hitoko "wikilink")
   - 减震器 [Showa](https://zh.wikipedia.org/wiki/Showa "wikilink")
-  - 轮毂 [BBS
-    (汽车零配件生产商)](https://zh.wikipedia.org/wiki/BBS_\(汽车零配件生产商\) "wikilink")
+  - 轮毂 [BBS (汽车零配件生产商)](https://zh.wikipedia.org/wiki/BBS_\(汽车零配件生产商\) "wikilink")
   - 轮胎 [普利司通](../Page/普利司通.md "wikilink")
-  - 变速器
-    7速[半自动变速器](../Page/半自动变速器.md "wikilink")/[碳纤维製表皮](https://zh.wikipedia.org/wiki/碳纤维 "wikilink")
+  - 变速器 7速[半自动变速器](../Page/半自动变速器.md "wikilink")/[碳纤维製表皮](https://zh.wikipedia.org/wiki/碳纤维 "wikilink")
   - 安全带 [TAKATA](https://zh.wikipedia.org/wiki/TAKATA "wikilink")
 
 ### 引擎
@@ -187,6 +184,4 @@
   - **粗体**是[杆位](https://zh.wikipedia.org/wiki/杆位 "wikilink")、*斜字*是[最快单圈](https://zh.wikipedia.org/wiki/最快单圈 "wikilink")。([key](https://zh.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
   - 第5站之后退出。
 
-[Category:2008年F1赛车](https://zh.wikipedia.org/wiki/Category:2008年F1赛车 "wikilink")
-[Category:超级亚久里车队的F1赛车](https://zh.wikipedia.org/wiki/Category:超级亚久里车队的F1赛车 "wikilink")
-[Category:一级方程式车型](https://zh.wikipedia.org/wiki/Category:一级方程式车型 "wikilink")
+[Category:2008年F1赛车](https://zh.wikipedia.org/wiki/Category:2008年F1赛车 "wikilink") [Category:超级亚久里车队的F1赛车](https://zh.wikipedia.org/wiki/Category:超级亚久里车队的F1赛车 "wikilink") [Category:一级方程式车型](https://zh.wikipedia.org/wiki/Category:一级方程式车型 "wikilink")

@@ -1,16 +1,11 @@
-[Sony_NEX-C3_01s4500.jpg](https://zh.wikipedia.org/wiki/File:Sony_NEX-C3_01s4500.jpg "fig:Sony_NEX-C3_01s4500.jpg")
-NEX-C3\]\]
-索尼**E接环**是[索尼公司为旗下](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")[NEX系列产品所设计的新](https://zh.wikipedia.org/wiki/索尼_NEX_系列 "wikilink")[镜头接环](https://zh.wikipedia.org/wiki/镜头接环 "wikilink")。英文称为E-Mount，有时也被叫做E卡口、NEX卡口。
-最初这个接环是随着NEX-3和NEX-5一起面世的，随后索尼的一款**可更换镜头高清摄像机**[Handycam
-NEX-VG10也搭配了这个接环](https://zh.wikipedia.org/wiki/Handycam_NEX-VG10 "wikilink")。\[1\]
+[Sony_NEX-C3_01s4500.jpg](https://zh.wikipedia.org/wiki/File:Sony_NEX-C3_01s4500.jpg "fig:Sony_NEX-C3_01s4500.jpg") NEX-C3\]\] 索尼**E接环**是[索尼公司为旗下](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")[NEX系列产品所设计的新](https://zh.wikipedia.org/wiki/索尼_NEX_系列 "wikilink")[镜头接环](https://zh.wikipedia.org/wiki/镜头接环 "wikilink")。英文称为E-Mount，有时也被叫做E卡口、NEX卡口。
+最初这个接环是随着NEX-3和NEX-5一起面世的，随后索尼的一款**可更换镜头高清摄像机**[Handycam NEX-VG10也搭配了这个接环](https://zh.wikipedia.org/wiki/Handycam_NEX-VG10 "wikilink")。\[1\]
 
 2013年索尼启用的[ILCE系列产品继续沿用E接环](../Page/索尼ILCE系列.md "wikilink")。
 
 ## 专用镜头
 
-索尼E为全新规格卡口，以往镜头不能直接使用（稍迟推出的LA-EA接环可以使用之前的 [Minolta
-AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")/[SONY
-αA口镜头](https://zh.wikipedia.org/wiki/SONY_α "wikilink")），索尼公司特别推出了E卡口镜头，可以接驳NEX与ILCE机型进行自动对焦；2013年开始，随着全画幅规格的[ILCE-7等一系列全幅机型出现](https://zh.wikipedia.org/wiki/ILCE-7 "wikilink")，索尼也开始打造FE镜头，接口界面与原本E镜头完全一致，唯有覆盖幅面有所差异。
+索尼E为全新规格卡口，以往镜头不能直接使用（稍迟推出的LA-EA接环可以使用之前的 [Minolta AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")/[SONY αA口镜头](https://zh.wikipedia.org/wiki/SONY_α "wikilink")），索尼公司特别推出了E卡口镜头，可以接驳NEX与ILCE机型进行自动对焦；2013年开始，随着全画幅规格的[ILCE-7等一系列全幅机型出现](https://zh.wikipedia.org/wiki/ILCE-7 "wikilink")，索尼也开始打造FE镜头，接口界面与原本E镜头完全一致，唯有覆盖幅面有所差异。
 
 同时，索尼也与[蔡司合作](https://zh.wikipedia.org/wiki/蔡司 "wikilink")，打造E口的ZA镜头，这类镜头镜身具备索尼与蔡司双厂牌，同时参数的标注习惯也同德制，例如光圈值标注在焦距前，逗点与句点习惯对调。
 
@@ -71,9 +66,7 @@ AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")/[SONY
 
 ## 转接到其他镜头
 
-[Olympus_PEN_F_Lens_to_Sony_NEX_E_Mount_Adapter.jpg](https://zh.wikipedia.org/wiki/File:Olympus_PEN_F_Lens_to_Sony_NEX_E_Mount_Adapter.jpg "fig:Olympus_PEN_F_Lens_to_Sony_NEX_E_Mount_Adapter.jpg")PEN
-F鏡頭轉 Sony NEX機身的轉接環\]\]
-因为E接环的[法兰距非常短](https://zh.wikipedia.org/wiki/法兰距 "wikilink")，因此通过第三方制造的转接环可以使用各种品牌的镜头。而[美能达MA接环镜头和](https://zh.wikipedia.org/wiki/美能达 "wikilink")[索尼A接环镜头能通过LA](../Page/索尼.md "wikilink")-EA1和LA-EA2转接环在NEX产品上使用，全片幅機身亦可使用LA-EA3和LA-EA4转接环，它具有电子触点和机械光圈控制的转换机构，这样机身就能直接控制镜头，获得[自动对焦和输出](../Page/自动对焦.md "wikilink")[EXIF的功能](../Page/EXIF.md "wikilink")。然而支持镜头数目并不多，一些较为早期的美能达镜头只能手动对焦，并且自动对焦的速度也并不快。
+[Olympus_PEN_F_Lens_to_Sony_NEX_E_Mount_Adapter.jpg](https://zh.wikipedia.org/wiki/File:Olympus_PEN_F_Lens_to_Sony_NEX_E_Mount_Adapter.jpg "fig:Olympus_PEN_F_Lens_to_Sony_NEX_E_Mount_Adapter.jpg")PEN F鏡頭轉 Sony NEX機身的轉接環\]\] 因为E接环的[法兰距非常短](https://zh.wikipedia.org/wiki/法兰距 "wikilink")，因此通过第三方制造的转接环可以使用各种品牌的镜头。而[美能达MA接环镜头和](https://zh.wikipedia.org/wiki/美能达 "wikilink")[索尼](../Page/索尼.md "wikilink")A接环镜头能通过LA-EA1和LA-EA2转接环在NEX产品上使用，全片幅機身亦可使用LA-EA3和LA-EA4转接环，它具有电子触点和机械光圈控制的转换机构，这样机身就能直接控制镜头，获得[自动对焦](../Page/自动对焦.md "wikilink")和输出[EXIF](../Page/EXIF.md "wikilink")的功能。然而支持镜头数目并不多，一些较为早期的美能达镜头只能手动对焦，并且自动对焦的速度也并不快。
 
 一般年代久远的镜头都具备变焦/对焦和光圈控制环，那么安装在NEX产品上需要开启无镜头拍摄功能。之后可手动对焦正常拍摄。部分半电子化的镜头可能机身无法直接控制光圈。
 
@@ -81,13 +74,13 @@ F鏡頭轉 Sony NEX機身的轉接環\]\]
 
   - [Alpha接环](https://zh.wikipedia.org/wiki/:en:apla "wikilink")
   - [C接环](https://zh.wikipedia.org/wiki/:en:C_mount "wikilink")（通常用于监控设备）
-  - [佳能EF或EF](../Page/佳能.md "wikilink")-S
+  - [佳能](../Page/佳能.md "wikilink")EF或EF-S
   - 佳能FD
   - [康泰时G](https://zh.wikipedia.org/wiki/康泰时 "wikilink")
   - 康泰时[蔡司镜头](https://zh.wikipedia.org/wiki/蔡司 "wikilink")(Contarex)
   - 康泰时/[雅西卡接环](https://zh.wikipedia.org/wiki/雅西卡 "wikilink")
   - [爱克泰接环](https://zh.wikipedia.org/wiki/:en:Exakta "wikilink")
-  - [哈苏Xpan](../Page/哈苏.md "wikilink")
+  - [哈苏](../Page/哈苏.md "wikilink")Xpan
   - [徕卡M系列镜头](https://zh.wikipedia.org/wiki/徕卡 "wikilink")
   - 徕卡M39镜头（螺纹）
   - 徕卡R镜头
@@ -102,7 +95,7 @@ F鏡頭轉 Sony NEX機身的轉接環\]\]
   - [奥林巴斯OM](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")
   - [奥林巴斯PEN](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink") F
   - [宾得K接环](https://zh.wikipedia.org/wiki/宾得 "wikilink")（第三方转接环可提供DA镜头的光圈调节机构）
-  - [禄莱镜头](../Page/禄莱.md "wikilink")
+  - [禄莱](../Page/禄莱.md "wikilink")镜头
   - T2接环（常见于天文望远镜）
 
 ## 适配机型

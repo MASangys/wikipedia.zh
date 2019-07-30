@@ -1,6 +1,4 @@
-[Super_Robot_Wars_MX_Portable.jpg](https://zh.wikipedia.org/wiki/File:Super_Robot_Wars_MX_Portable.jpg "fig:Super_Robot_Wars_MX_Portable.jpg")
-《**超級機器人大戰MX**》（）、《**超級機器人大戰MX
-攜帶版**》（）為[萬普發行的](../Page/萬普.md "wikilink")[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")[戰略](https://zh.wikipedia.org/wiki/戰略 "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")。簡稱「機戰MX」「SRWMX」。
+[Super_Robot_Wars_MX_Portable.jpg](https://zh.wikipedia.org/wiki/File:Super_Robot_Wars_MX_Portable.jpg "fig:Super_Robot_Wars_MX_Portable.jpg") 《**超級機器人大戰MX**》（）、《**超級機器人大戰MX 攜帶版**》（）為[萬普](../Page/萬普.md "wikilink")發行的[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")[戰略](https://zh.wikipedia.org/wiki/戰略 "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")。簡稱「機戰MX」「SRWMX」。
 
 ## 參戰作品
 
@@ -10,12 +8,10 @@
 
   - [機器勇士](../Page/機器勇士.md "wikilink")（）
   - P [新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")（）
-  - P [新世紀福音戰士劇場版：THE END OF
-    EVANGELION](https://zh.wikipedia.org/wiki/新世紀福音戰士劇場版：THE_END_OF_EVANGELION "wikilink")（）
+  - P [新世紀福音戰士劇場版：THE END OF EVANGELION](https://zh.wikipedia.org/wiki/新世紀福音戰士劇場版：THE_END_OF_EVANGELION "wikilink")（）
   - ☆[GEAR戰士電童](../Page/GEAR戰士電童.md "wikilink")（）
   - [機動戰艦撫子](https://zh.wikipedia.org/wiki/機動戰艦撫子 "wikilink")（）
-  - ☆[劇場版 機動戰艦撫子 -The prince of
-    darkness-](../Page/機動戰艦_The_prince_of_darkness.md "wikilink")（）
+  - ☆[劇場版 機動戰艦撫子 -The prince of darkness-](../Page/機動戰艦_The_prince_of_darkness.md "wikilink")（）
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")（）
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")（）
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")（）
@@ -35,9 +31,7 @@
 
 ### 解說
 
-初登場作品有《**冥王計劃傑歐萊馬**》和《**翼神世音**》2部作品。《GEAR戰士電童》、《劇場版 機動戰艦撫子 -The prince
-of
-darkness-》、《機甲戰記威龍》是在家用遊戲機初參戰。另外，《新世紀福音戰士》、《翼神世音》則是在移植往PSP時首次在攜帶型遊戲機參戰。
+初登場作品有《**冥王計劃傑歐萊馬**》和《**翼神世音**》2部作品。《GEAR戰士電童》、《劇場版 機動戰艦撫子 -The prince of darkness-》、《機甲戰記威龍》是在家用遊戲機初參戰。另外，《新世紀福音戰士》、《翼神世音》則是在移植往PSP時首次在攜帶型遊戲機參戰。
 
 ### 封面登場機體
 
@@ -102,11 +96,6 @@ darkness-》、《機甲戰記威龍》是在家用遊戲機初參戰。另外�
 
 ## 外部連結
 
-  - [超級機器人大戰MX
-    攜帶版(超級機械人大戰官方網站)](http://www.suparobo.jp/srw_lineup/srw_mxp/index.html)
+  - [超級機器人大戰MX 攜帶版(超級機械人大戰官方網站)](http://www.suparobo.jp/srw_lineup/srw_mxp/index.html)
 
-[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink")
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
+[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")

@@ -1,62 +1,32 @@
-[Sony_alpha_logo.svg](https://zh.wikipedia.org/wiki/File:Sony_alpha_logo.svg "fig:Sony_alpha_logo.svg")
-[Sony_NEX-3_red_Pancake.jpg](https://zh.wikipedia.org/wiki/File:Sony_NEX-3_red_Pancake.jpg "fig:Sony_NEX-3_red_Pancake.jpg")
-[Sony_NEX-C3_01s4500.jpg](https://zh.wikipedia.org/wiki/File:Sony_NEX-C3_01s4500.jpg "fig:Sony_NEX-C3_01s4500.jpg")
-**NEX系列相机**是[索尼公司於](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")2010年5月11日开始發佈的[无反光镜可更换镜头](https://zh.wikipedia.org/wiki/无反光镜可换镜头相机 "wikilink")[相机系列](https://zh.wikipedia.org/wiki/相机 "wikilink")。NEX系列之所以能將可換鏡頭相機的機身體績大幅縮小，是由於它捨棄傳統[單反相機所採用的](https://zh.wikipedia.org/wiki/單反相機 "wikilink")[五稜鏡](https://zh.wikipedia.org/wiki/五稜鏡 "wikilink")、[反光鏡等组件](https://zh.wikipedia.org/wiki/反光鏡 "wikilink")。NEX取New
-Eighteen-mm（E-mount）
-eXperience之意，因其系列成像系统中的[法兰距为](https://zh.wikipedia.org/wiki/法兰距 "wikilink")
-18
-毫米（Eighteen-mm）。该系列相机亦使用**[α](https://zh.wikipedia.org/wiki/Sony_α "wikilink")**品牌，但产品分类上则归属索尼自家商标[微单™相机](https://zh.wikipedia.org/wiki/微單相機 "wikilink")。
-[Sony_NEX-3_sensor.jpg](https://zh.wikipedia.org/wiki/File:Sony_NEX-3_sensor.jpg "fig:Sony_NEX-3_sensor.jpg")
+[Sony_alpha_logo.svg](https://zh.wikipedia.org/wiki/File:Sony_alpha_logo.svg "fig:Sony_alpha_logo.svg") [Sony_NEX-3_red_Pancake.jpg](https://zh.wikipedia.org/wiki/File:Sony_NEX-3_red_Pancake.jpg "fig:Sony_NEX-3_red_Pancake.jpg") [Sony_NEX-C3_01s4500.jpg](https://zh.wikipedia.org/wiki/File:Sony_NEX-C3_01s4500.jpg "fig:Sony_NEX-C3_01s4500.jpg") **NEX系列相机**是[索尼公司於](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")2010年5月11日开始發佈的[无反光镜可更换镜头](https://zh.wikipedia.org/wiki/无反光镜可换镜头相机 "wikilink")[相机系列](https://zh.wikipedia.org/wiki/相机 "wikilink")。NEX系列之所以能將可換鏡頭相機的機身體績大幅縮小，是由於它捨棄傳統[單反相機所採用的](https://zh.wikipedia.org/wiki/單反相機 "wikilink")[五稜鏡](https://zh.wikipedia.org/wiki/五稜鏡 "wikilink")、[反光鏡等组件](https://zh.wikipedia.org/wiki/反光鏡 "wikilink")。NEX取New Eighteen-mm（E-mount） eXperience之意，因其系列成像系统中的[法兰距为](https://zh.wikipedia.org/wiki/法兰距 "wikilink") 18 毫米（Eighteen-mm）。该系列相机亦使用**[α](https://zh.wikipedia.org/wiki/Sony_α "wikilink")**品牌，但产品分类上则归属索尼自家商标[微单™相机](https://zh.wikipedia.org/wiki/微單相機 "wikilink")。 [Sony_NEX-3_sensor.jpg](https://zh.wikipedia.org/wiki/File:Sony_NEX-3_sensor.jpg "fig:Sony_NEX-3_sensor.jpg")
 
 2013年8月起，索尼公司推出的新款E接口相机编号采用[ILCE打头](https://zh.wikipedia.org/wiki/索尼ILCE系列相机 "wikilink")，原先的NEX标签停止使用。
 
 ## 簡介
 
-NEX系統採用了全新的[E接環](https://zh.wikipedia.org/wiki/E接環 "wikilink")，在如卡片數碼相機般輕巧的機身內放入了[APS-C數碼](https://zh.wikipedia.org/wiki/APS-C "wikilink")[單反相機一樣大的Exmor](https://zh.wikipedia.org/wiki/單反相機 "wikilink")™
-APS HD
-[CMOS影像感測器及高清影片拍攝功能](https://zh.wikipedia.org/wiki/CMOS "wikilink")，以簡易操作帶來媲美數碼單鏡反光相機的畫質。
+NEX系統採用了全新的[E接環](https://zh.wikipedia.org/wiki/E接環 "wikilink")，在如卡片數碼相機般輕巧的機身內放入了[APS-C數碼](https://zh.wikipedia.org/wiki/APS-C "wikilink")[單反相機一樣大的Exmor](https://zh.wikipedia.org/wiki/單反相機 "wikilink")™ APS HD [CMOS影像感測器及高清影片拍攝功能](https://zh.wikipedia.org/wiki/CMOS "wikilink")，以簡易操作帶來媲美數碼單鏡反光相機的畫質。
 
-目前競爭對手包括:[三星Samsung](https://zh.wikipedia.org/wiki/三星集團 "wikilink")
-NX系列，[富士Fujifilm](https://zh.wikipedia.org/wiki/富士菲林 "wikilink")
-X-Pro 1，[松下](https://zh.wikipedia.org/wiki/松下 "wikilink") Panasonic
-GF和GX系列，[奧林巴斯Olympus](../Page/奧林巴斯.md "wikilink")
-PEN系列，[尼康Nikon](../Page/尼康.md "wikilink")
-1系列，[賓得Pentax](https://zh.wikipedia.org/wiki/賓得 "wikilink")
-Q，[佳能Canon](../Page/佳能.md "wikilink") EOS-M系列。
+目前競爭對手包括:[三星Samsung](https://zh.wikipedia.org/wiki/三星集團 "wikilink") NX系列，[富士Fujifilm](https://zh.wikipedia.org/wiki/富士菲林 "wikilink") X-Pro 1，[松下](https://zh.wikipedia.org/wiki/松下 "wikilink") Panasonic GF和GX系列，[奧林巴斯](../Page/奧林巴斯.md "wikilink")Olympus PEN系列，[尼康](../Page/尼康.md "wikilink")Nikon 1系列，[賓得Pentax](https://zh.wikipedia.org/wiki/賓得 "wikilink") Q，[佳能](../Page/佳能.md "wikilink")Canon EOS-M系列。
 
 中國大陸用戶根據英文發音規律（Nex）賦予它「[奶昔](https://zh.wikipedia.org/wiki/奶昔 "wikilink")」的暱稱。
 
 ## 特色
 
-NEX系列在小巧的機身內集成了豐富的功能。包括一些曾經是單反相機專屬的功能，但同樣也包括一般數碼相機的功能。NEX-5的機身是用高強度的鎂合金製造的，而較便宜的**NEX-3**則是工程塑料，並且視頻規格也較NEX-3高。NEX-5能拍攝60fps的1080i高清視頻，而NEX-3為720p。如單反一樣尺寸的[APS
-HD CMOS傳感元件有達到ISO](https://zh.wikipedia.org/wiki/CMOS "wikilink")
-12800的感光度。相機同樣包括了索尼特色的智能全景模式，用戶只要手持相機按照提示橫向或者豎向旋轉相機，相機即可合成一張JPEG格式的全景照片。
-2011年发售的NEX-5N的最高感光度达到ISO 25600。 NEX-5N与NEX-7将视频拍摄提高到1080
-50/60p及加入视频拍摄全手动功能。
+NEX系列在小巧的機身內集成了豐富的功能。包括一些曾經是單反相機專屬的功能，但同樣也包括一般數碼相機的功能。NEX-5的機身是用高強度的鎂合金製造的，而較便宜的**NEX-3**則是工程塑料，並且視頻規格也較NEX-3高。NEX-5能拍攝60fps的1080i高清視頻，而NEX-3為720p。如單反一樣尺寸的[APS HD CMOS傳感元件有達到ISO](https://zh.wikipedia.org/wiki/CMOS "wikilink") 12800的感光度。相機同樣包括了索尼特色的智能全景模式，用戶只要手持相機按照提示橫向或者豎向旋轉相機，相機即可合成一張JPEG格式的全景照片。 2011年发售的NEX-5N的最高感光度达到ISO 25600。 NEX-5N与NEX-7将视频拍摄提高到1080 50/60p及加入视频拍摄全手动功能。
 
 ## 鏡頭
 
-NEX-5連同它的姊妹型號NEX-3使用了索尼為NEX系列產品最新開發的[索尼E接環](https://zh.wikipedia.org/wiki/E接環 "wikilink")。隨產品一起發售的有兩枚鏡頭，一枚是通常搭配發售的套機鏡頭E
-18-55mm f/3.5-5.6
-OSS（SEL-1855）、另一款是小巧的超廣角[餅乾鏡頭E](https://zh.wikipedia.org/wiki/餅乾鏡頭 "wikilink")
-16mm f/2.8（SEL-16F28），此外還有一個魚眼附件，在搭配 16
-毫米鏡頭之後即可變為魚眼鏡頭。在索尼發佈NEX系統的第三款產品**索尼
-Handycam NEX-VG10**的同時也發佈了一枚18-200 毫米長焦鏡頭。
+NEX-5連同它的姊妹型號NEX-3使用了索尼為NEX系列產品最新開發的[索尼E接環](https://zh.wikipedia.org/wiki/E接環 "wikilink")。隨產品一起發售的有兩枚鏡頭，一枚是通常搭配發售的套機鏡頭E 18-55mm f/3.5-5.6 OSS（SEL-1855）、另一款是小巧的超廣角[餅乾鏡頭E](https://zh.wikipedia.org/wiki/餅乾鏡頭 "wikilink") 16mm f/2.8（SEL-16F28），此外還有一個魚眼附件，在搭配 16 毫米鏡頭之後即可變為魚眼鏡頭。在索尼發佈NEX系統的第三款產品**索尼 Handycam NEX-VG10**的同時也發佈了一枚18-200 毫米長焦鏡頭。
 
-在2010年11月的固件版本3更新之後，NEX-5可使用索尼LA-EA1轉接環使用幾乎所有索尼A接口的鏡頭，實現自動對焦和光圈調節。不過一些鏡頭內沒有馬達的索尼/美能達鏡頭只能使用手動對焦。
-在2011年的固件版本4更新以后的NEX-3/5及此后新上市的NEX系列相机NEX-5N与7上，加入峰值辅助（peaking）这一原本用于较高阶摄像机的功能作为手动对焦辅助，使得NEX成为转接爱好者的普遍选择。
-在2011年的固件版本5更新以后的NEX-3/5及此后新上市的NEX系列相机NEX-5N与7上，可使用索尼LA-EA2转接环使用几乎所有索尼A接口的镜头，并实现拥有索尼中高阶DSLR的自动对焦性能和光圈调节。并可在视频拍摄中使用自动对焦，但拍摄视频时若使用自动，则最大光圈值被限定在3.5。
+在2010年11月的固件版本3更新之後，NEX-5可使用索尼LA-EA1轉接環使用幾乎所有索尼A接口的鏡頭，實現自動對焦和光圈調節。不過一些鏡頭內沒有馬達的索尼/美能達鏡頭只能使用手動對焦。 在2011年的固件版本4更新以后的NEX-3/5及此后新上市的NEX系列相机NEX-5N与7上，加入峰值辅助（peaking）这一原本用于较高阶摄像机的功能作为手动对焦辅助，使得NEX成为转接爱好者的普遍选择。 在2011年的固件版本5更新以后的NEX-3/5及此后新上市的NEX系列相机NEX-5N与7上，可使用索尼LA-EA2转接环使用几乎所有索尼A接口的镜头，并实现拥有索尼中高阶DSLR的自动对焦性能和光圈调节。并可在视频拍摄中使用自动对焦，但拍摄视频时若使用自动，则最大光圈值被限定在3.5。
 
-由於NEX系統的[法蘭距](https://zh.wikipedia.org/wiki/法蘭距 "wikilink")（鏡頭到成像元件距離）非常短，只有
-18 毫米，因此理論上可以轉接 45
-毫米內甚至更長法蘭距的鏡頭。事實上，有許多第三方廠商製造了各種適合E接環的轉接環。這樣一來不單E接口和A接口兼容鏡頭，還可以轉接其他系統的鏡頭，包括佳能、尼康、賓得、M4/3、[徠卡等各品牌的鏡頭](https://zh.wikipedia.org/wiki/徠卡 "wikilink")，甚至是天文望遠鏡。這類第三方轉接環有時候會包括一片矯正鏡片，鏡頭轉接到NEX-5／3後可通過手動對焦正常拍攝。有一些無機械控制光圈的電子式鏡頭可能無法使用，例如[佳能EF接環鏡頭](../Page/佳能EF接環鏡頭.md "wikilink")。
+由於NEX系統的[法蘭距](https://zh.wikipedia.org/wiki/法蘭距 "wikilink")（鏡頭到成像元件距離）非常短，只有 18 毫米，因此理論上可以轉接 45 毫米內甚至更長法蘭距的鏡頭。事實上，有許多第三方廠商製造了各種適合E接環的轉接環。這樣一來不單E接口和A接口兼容鏡頭，還可以轉接其他系統的鏡頭，包括佳能、尼康、賓得、M4/3、[徠卡等各品牌的鏡頭](https://zh.wikipedia.org/wiki/徠卡 "wikilink")，甚至是天文望遠鏡。這類第三方轉接環有時候會包括一片矯正鏡片，鏡頭轉接到NEX-5／3後可通過手動對焦正常拍攝。有一些無機械控制光圈的電子式鏡頭可能無法使用，例如[佳能EF接環鏡頭](../Page/佳能EF接環鏡頭.md "wikilink")。
 
 ## 系列產品
 
 ### [可換鏡頭數碼相機](../Page/無反光鏡可換鏡頭相機.md "wikilink")
 
-  - [索尼
-    NEX-3](https://zh.wikipedia.org/wiki/索尼_NEX-3 "wikilink")（A／K／D）\[1\]（已於2011年2月23日停產\[2\]）
+  - [索尼 NEX-3](https://zh.wikipedia.org/wiki/索尼_NEX-3 "wikilink")（A／K／D）\[1\]（已於2011年2月23日停產\[2\]）
 
 <!-- end list -->
 
@@ -65,8 +35,7 @@ Handycam NEX-VG10**的同時也發佈了一枚18-200 毫米長焦鏡頭。
 
 <!-- end list -->
 
-  - [索尼
-    NEX-5](https://zh.wikipedia.org/wiki/索尼_NEX-5 "wikilink")（A／K／D／H/B）\[4\]
+  - [索尼 NEX-5](https://zh.wikipedia.org/wiki/索尼_NEX-5 "wikilink")（A／K／D／H/B）\[4\]
 
 <!-- end list -->
 
@@ -75,8 +44,7 @@ Handycam NEX-VG10**的同時也發佈了一枚18-200 毫米長焦鏡頭。
 
 <!-- end list -->
 
-  - [索尼
-    NEX-C3](https://zh.wikipedia.org/wiki/索尼_NEX-C3 "wikilink")（A／K／D）
+  - [索尼 NEX-C3](https://zh.wikipedia.org/wiki/索尼_NEX-C3 "wikilink")（A／K／D）
   - [索尼 NEX-5N](https://zh.wikipedia.org/wiki/索尼_NEX-5N "wikilink")
   - [索尼 NEX-7](https://zh.wikipedia.org/wiki/索尼_NEX-7 "wikilink")
   - [索尼 NEX-F3](https://zh.wikipedia.org/wiki/索尼_NEX-F3 "wikilink")
@@ -169,8 +137,7 @@ APS-C规格
 
   - 魚眼效果轉接鏡（VCL-ECF1）（SEL16F28專用，安裝後相當於 35 毫米規格的 15 毫米魚眼鏡）
   - 超廣角效果轉接鏡（VCL-ECU1）（SEL16F28專用，安裝後相當於 35 毫米規格的 18 毫米超廣角鏡）
-  - 超廣角效果轉接鏡（VCL-ECU2）（適用於SEL16F28和SEL20F28，安裝後相當於 35 毫米規格的 18 或 24
-    毫米超廣角鏡）
+  - 超廣角效果轉接鏡（VCL-ECU2）（適用於SEL16F28和SEL20F28，安裝後相當於 35 毫米規格的 18 或 24 毫米超廣角鏡）
   - [鱼眼附加镜](../Page/鱼眼镜头.md "wikilink")（SEL057FEC）（SEL28F20专用，安装后实现16mm鱼眼/180度视角）
   - 超广角附加镜（SEL075UWC）（SEL28F20专用，安装后实现21mm超广角视角）
 
@@ -179,8 +146,7 @@ APS-C规格
   - [α鏡頭轉接環](https://zh.wikipedia.org/wiki/Sony_α "wikilink")（LA-EA1）（使用此接環轉接Alpha全系列鏡頭）
   - [α鏡頭轉接環](https://zh.wikipedia.org/wiki/Sony_α "wikilink")（LA-EA2）（使用此接環轉接Alpha全系列鏡頭，支援自動對焦功能，不支援STF鏡頭自動對焦）
   - [α鏡頭轉接環](https://zh.wikipedia.org/wiki/Sony_α "wikilink")（LA-EA3）（現時為NEX-VG900附件，使用此接環轉接Alpha全系列鏡頭，支援带马达镜头实现自動對焦，支援全片幅感光原件）
-  - [α鏡頭轉接環](https://zh.wikipedia.org/wiki/Sony_α "wikilink")（LA-EA4）（支持135全画幅E卡口机型，可以转接使用[Minolta
-    AF兼容镜头](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")，实现除135STF镜头外的自动对焦）
+  - [α鏡頭轉接環](https://zh.wikipedia.org/wiki/Sony_α "wikilink")（LA-EA4）（支持135全画幅E卡口机型，可以转接使用[Minolta AF兼容镜头](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")，实现除135STF镜头外的自动对焦）
 
 ### 濾鏡
 
@@ -228,12 +194,9 @@ APS-C规格
 
   - [日本 Sony NEX 官方網站](http://www.sony.jp/ichigan-e/message/index.html)
   - [台灣 Sony NEX 官方網站](http://www.sonystyle.com.tw/nex/)
-  - [香港Sony
-    NEX官方網站](https://web.archive.org/web/20111125153109/http://www.sonystyle.com.hk/ss/product/alpha/nex3/spec.jsp)
-  - [DP Review（Digital Photography
-    Review）](https://web.archive.org/web/20100720140854/http://www.dpreview.com/reviews/SonyNex5Nex3/Default.asp)
-  - [Pop Photo
-    Review](http://www.popphoto.com/reviews/cameras/2010/05/new-gear-sony-alpha-nex-3-and-nex-5-cameras)
+  - [香港Sony NEX官方網站](https://web.archive.org/web/20111125153109/http://www.sonystyle.com.hk/ss/product/alpha/nex3/spec.jsp)
+  - [DP Review（Digital Photography Review）](https://web.archive.org/web/20100720140854/http://www.dpreview.com/reviews/SonyNex5Nex3/Default.asp)
+  - [Pop Photo Review](http://www.popphoto.com/reviews/cameras/2010/05/new-gear-sony-alpha-nex-3-and-nex-5-cameras)
 
 ## 相关条目
 
@@ -241,15 +204,13 @@ APS-C规格
   - [Sony α](https://zh.wikipedia.org/wiki/Sony_α "wikilink")
       - [索尼ILCE系列](../Page/索尼ILCE系列.md "wikilink")
 
-[Category:索尼相機](https://zh.wikipedia.org/wiki/Category:索尼相機 "wikilink")
-[Category:電子式取景可換鏡頭相機](https://zh.wikipedia.org/wiki/Category:電子式取景可換鏡頭相機 "wikilink")
+[Category:索尼相機](https://zh.wikipedia.org/wiki/Category:索尼相機 "wikilink") [Category:電子式取景可換鏡頭相機](https://zh.wikipedia.org/wiki/Category:電子式取景可換鏡頭相機 "wikilink")
 
 1.
 2.
 
 3.
 
-4.  A 代表機身加SEL16F28搭售，K 代表機身加SEL1855搭售，D 代表機身加SEL16F28與SEL1855搭售，H/B
-    代表機身加SEL18200搭售。
+4.  A 代表機身加SEL16F28搭售，K 代表機身加SEL1855搭售，D 代表機身加SEL16F28與SEL1855搭售，H/B 代表機身加SEL18200搭售。
 
 5.

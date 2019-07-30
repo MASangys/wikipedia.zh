@@ -2,22 +2,9 @@
 
 ## 歷史沿革
 
-1990年代初法國提出利用輪型戰車取代履帶運兵車（取代1960年代起服役的履帶式AMX-10P步兵戰車系列）的VBM計畫（模組化戰鬥載具），同時期的[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[德國也有類似的計畫](https://zh.wikipedia.org/wiki/德國 "wikilink")，三國遂展開共同合作，在1998年4月合資成立裝甲科技公司（ARTEC
-GmbH），其中英國稱之為多用途輪型裝甲車系列(Multi Role Armoured
-Vehicle，MRAV)，法國稱之為步兵戰鬥車輛（Vehicule de Combat
-d'Infanterie，VBCI），而德國則稱之為地面戰鬥車輛（Gepanzertes
-Transport-Kraftfahrzeug，GTK，德國方面最終研製成果為[拳獅裝甲車](../Page/拳獅裝甲車.md "wikilink")）。然而在1999年，法國基於國內政治壓力等因素，退出了此一合作計畫，故VBCI成為一個國產計畫，2000年11月6日，法國宣布將採購700輛VBCI裝甲車。2000年11月，法國國防部與GIAT（目前為Nexter）和雷諾（Renault）兩家公司簽署VBCI的發展合約。隨後這兩家公司合資成立Satory
-Military
-Vehicles公司，專門負責VBCI的研發與生產以及法國陸軍現役[AMX-10RC](https://zh.wikipedia.org/wiki/AMX-10RC "wikilink")、[VAB裝甲車](../Page/VAB裝甲車.md "wikilink")等輪型裝甲車輛的維修。在VBCI研發工作的分攤上
-，GIAT負責車體、砲塔、觀測射控系統、武器與系統整合等，Renault負責相關的動力系統，包括駕駛艙、發動機、變速箱、傳動與轉向裝置、懸吊系統
-等。VBCI裝甲車以GIAT在1990年代開發的Vextra系列八輪裝甲車為基礎發展而成，主要有兩種構型：
-裝步戰車(VCI)以及指揮車(VPC) 法國陸軍將
-分別採購550輛步兵戰車型（VCI）以及150輛指揮車型（VPC）。
+1990年代初法國提出利用輪型戰車取代履帶運兵車（取代1960年代起服役的履帶式AMX-10P步兵戰車系列）的VBM計畫（模組化戰鬥載具），同時期的[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[德國也有類似的計畫](https://zh.wikipedia.org/wiki/德國 "wikilink")，三國遂展開共同合作，在1998年4月合資成立裝甲科技公司（ARTEC GmbH），其中英國稱之為多用途輪型裝甲車系列(Multi Role Armoured Vehicle，MRAV)，法國稱之為步兵戰鬥車輛（Vehicule de Combat d'Infanterie，VBCI），而德國則稱之為地面戰鬥車輛（Gepanzertes Transport-Kraftfahrzeug，GTK，德國方面最終研製成果為[拳獅裝甲車](../Page/拳獅裝甲車.md "wikilink")）。然而在1999年，法國基於國內政治壓力等因素，退出了此一合作計畫，故VBCI成為一個國產計畫，2000年11月6日，法國宣布將採購700輛VBCI裝甲車。2000年11月，法國國防部與GIAT（目前為Nexter）和雷諾（Renault）兩家公司簽署VBCI的發展合約。隨後這兩家公司合資成立Satory Military Vehicles公司，專門負責VBCI的研發與生產以及法國陸軍現役[AMX-10RC](https://zh.wikipedia.org/wiki/AMX-10RC "wikilink")、[VAB裝甲車](../Page/VAB裝甲車.md "wikilink")等輪型裝甲車輛的維修。在VBCI研發工作的分攤上 ，GIAT負責車體、砲塔、觀測射控系統、武器與系統整合等，Renault負責相關的動力系統，包括駕駛艙、發動機、變速箱、傳動與轉向裝置、懸吊系統 等。VBCI裝甲車以GIAT在1990年代開發的Vextra系列八輪裝甲車為基礎發展而成，主要有兩種構型： 裝步戰車(VCI)以及指揮車(VPC) 法國陸軍將 分別採購550輛步兵戰車型（VCI）以及150輛指揮車型（VPC）。
 
-2003至2004年，VBCI裝甲車陸續完成車體、機動力、裝甲、機電系統等主要測試。首批五輛原型車於2004至2005年陸續出廠（其中四輛是步兵戰車型（VCI），一輛為指揮車型（VPC））
-，用於實際環境測試，原訂第一批VBCI的量產作業會從2005年展開，包括54輛步兵戰車與11輛指揮車；然而在初期的原型車測試中，配套的Drager砲塔被發現存在若干設計錯誤，並重新進行相關設計導致量產計畫延後約兩年。首批三輛量產型VBCI（包括兩輛步兵戰車與一輛指揮車）在2008年5月交付法國陸軍，配屬於訓練單位作為後續換裝訓練之用
-，首先換裝VBCI的實戰單位是法國陸軍第35步兵旅（該旅原本操作AMX-10P）
-；至2010年，法國陸軍訂購了630輛VBCI裝甲車，總價值28.6億歐元。
+2003至2004年，VBCI裝甲車陸續完成車體、機動力、裝甲、機電系統等主要測試。首批五輛原型車於2004至2005年陸續出廠（其中四輛是步兵戰車型（VCI），一輛為指揮車型（VPC）） ，用於實際環境測試，原訂第一批VBCI的量產作業會從2005年展開，包括54輛步兵戰車與11輛指揮車；然而在初期的原型車測試中，配套的Drager砲塔被發現存在若干設計錯誤，並重新進行相關設計導致量產計畫延後約兩年。首批三輛量產型VBCI（包括兩輛步兵戰車與一輛指揮車）在2008年5月交付法國陸軍，配屬於訓練單位作為後續換裝訓練之用 ，首先換裝VBCI的實戰單位是法國陸軍第35步兵旅（該旅原本操作AMX-10P） ；至2010年，法國陸軍訂購了630輛VBCI裝甲車，總價值28.6億歐元。
 
 ## 各國八輪裝甲車比較
 
@@ -159,8 +146,7 @@ CIS SGL</small></p></td>
 
 ## 圖集
 
-<File:VBCI> 501556 fh000010.jpg|原型車 <File:VCBI-1RCA-IMG>
-5591.jpg|VBCI於國慶閱兵 <File:VCBI-1RCA-IMG> 5607.jpg|艙門
+<File:VBCI> 501556 fh000010.jpg|原型車 <File:VCBI-1RCA-IMG> 5591.jpg|VBCI於國慶閱兵 <File:VCBI-1RCA-IMG> 5607.jpg|艙門
 
 ## 參見
 
@@ -173,18 +159,12 @@ CIS SGL</small></p></td>
 
 ## 外部連結
 
-  - [VBCI Nexter Data Sheet - Pictures -
-    Video](http://www.armyrecognition.com/index.php?option=com_content&task=view&id=2208)
+  - [VBCI Nexter Data Sheet - Pictures - Video](http://www.armyrecognition.com/index.php?option=com_content&task=view&id=2208)
 
   - [Janes](http://www.janes.com/defence/land_forces/news/idr/idr050908_1_n.shtml)
 
-  - [chars-francais.net](https://web.archive.org/web/20051216140845/http://www.chars-francais.net/archives/vbci.htm)
-    (numerous photographs, including the inside)
+  - [chars-francais.net](https://web.archive.org/web/20051216140845/http://www.chars-francais.net/archives/vbci.htm) (numerous photographs, including the inside)
 
-  - [VBCI Program
-    Update](https://web.archive.org/web/20060111062139/http://www.defense-update.com/products/v/vbci.htm)
+  - [VBCI Program Update](https://web.archive.org/web/20060111062139/http://www.defense-update.com/products/v/vbci.htm)
 
-[Category:步兵戰車](https://zh.wikipedia.org/wiki/Category:步兵戰車 "wikilink")
-[Category:裝甲運兵車](https://zh.wikipedia.org/wiki/Category:裝甲運兵車 "wikilink")
-[Category:法國軍事](https://zh.wikipedia.org/wiki/Category:法國軍事 "wikilink")
-[Category:兩棲車輛](https://zh.wikipedia.org/wiki/Category:兩棲車輛 "wikilink")
+[Category:步兵戰車](https://zh.wikipedia.org/wiki/Category:步兵戰車 "wikilink") [Category:裝甲運兵車](https://zh.wikipedia.org/wiki/Category:裝甲運兵車 "wikilink") [Category:法國軍事](https://zh.wikipedia.org/wiki/Category:法國軍事 "wikilink") [Category:兩棲車輛](https://zh.wikipedia.org/wiki/Category:兩棲車輛 "wikilink")

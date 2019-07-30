@@ -1,11 +1,8 @@
-**MAX
-FACTORY**（）為日本的[人形玩具設計和製作](https://zh.wikipedia.org/wiki/人形 "wikilink")（原型製作）公司。
+**MAX FACTORY**（）為日本的[人形玩具設計和製作](https://zh.wikipedia.org/wiki/人形 "wikilink")（原型製作）公司。
 
 ## 概要
 
-**MAX
-FACTORY**是的製造商，也是[figma的設計商](https://zh.wikipedia.org/wiki/figma "wikilink")，figma是由[Good
-Smile Company負責銷售的](../Page/Good_Smile_Company.md "wikilink")。
+**MAX FACTORY**是的製造商，也是[figma的設計商](https://zh.wikipedia.org/wiki/figma "wikilink")，figma是由[Good Smile Company負責銷售的](../Page/Good_Smile_Company.md "wikilink")。
 
 ## 主要商品
 
@@ -31,10 +28,6 @@ Smile Company負責銷售的](../Page/Good_Smile_Company.md "wikilink")。
 
 ## 外部链接
 
-  - [MAX
-    FACTORY官方網站](https://web.archive.org/web/20130602040423/http://maxfactory.cms.drecom.jp/)
+  - [MAX FACTORY官方網站](https://web.archive.org/web/20130602040423/http://maxfactory.cms.drecom.jp/)
 
-[Category:日本製造公司](https://zh.wikipedia.org/wiki/Category:日本製造公司 "wikilink")
-[Category:日本玩具制造商](https://zh.wikipedia.org/wiki/Category:日本玩具制造商 "wikilink")
-[Category:1987年成立的公司](https://zh.wikipedia.org/wiki/Category:1987年成立的公司 "wikilink")
-[Category:松戶市](https://zh.wikipedia.org/wiki/Category:松戶市 "wikilink")
+[Category:日本製造公司](https://zh.wikipedia.org/wiki/Category:日本製造公司 "wikilink") [Category:日本玩具制造商](https://zh.wikipedia.org/wiki/Category:日本玩具制造商 "wikilink") [Category:1987年成立的公司](https://zh.wikipedia.org/wiki/Category:1987年成立的公司 "wikilink") [Category:松戶市](https://zh.wikipedia.org/wiki/Category:松戶市 "wikilink")

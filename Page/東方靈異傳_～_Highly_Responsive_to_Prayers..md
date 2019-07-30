@@ -1,12 +1,8 @@
-[Highly_Responsive_to_Prayers.png](https://zh.wikipedia.org/wiki/File:Highly_Responsive_to_Prayers.png "fig:Highly_Responsive_to_Prayers.png")
-是[东方Project的第一部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，一个是除了背景原创外的[打砖块游戏](https://zh.wikipedia.org/wiki/打砖块 "wikilink")，是东方Project中唯一游戏类型与其他不同的作品。本作发布于[東京電機大学理工学部鳩山祭](https://zh.wikipedia.org/wiki/東京電機大学 "wikilink")，由[上海愛莉絲幻樂團的前身ZUN](../Page/上海愛莉絲幻樂團.md "wikilink")
-Soft开发，本作主角之一[博丽灵梦第一次登场](https://zh.wikipedia.org/wiki/博丽灵梦 "wikilink")。
+[Highly_Responsive_to_Prayers.png](https://zh.wikipedia.org/wiki/File:Highly_Responsive_to_Prayers.png "fig:Highly_Responsive_to_Prayers.png") 是[东方Project的第一部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，一个是除了背景原创外的[打砖块游戏](https://zh.wikipedia.org/wiki/打砖块 "wikilink")，是东方Project中唯一游戏类型与其他不同的作品。本作发布于[東京電機大学理工学部鳩山祭](https://zh.wikipedia.org/wiki/東京電機大学 "wikilink")，由[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")的前身ZUN Soft开发，本作主角之一[博丽灵梦第一次登场](https://zh.wikipedia.org/wiki/博丽灵梦 "wikilink")。
 
 ## 游戏玩法
 
-[Th1_gameplay.png](https://zh.wikipedia.org/wiki/File:Th1_gameplay.png "fig:Th1_gameplay.png")遊戲。\]\]
-与其他作品不同，本作品为打砖块的游戏系统。[博丽灵梦要诱导阴阳玉来击破在荧幕的那些看似](https://zh.wikipedia.org/wiki/博丽灵梦 "wikilink")“卡片”和“头目”的目标。可以以御币、撩、踢铲、发射札弹等引导球的方向。发射的札弹亦可以对冲掉一颗米弹，但是不能对BOSS产生伤害或消去砖块。敌方将会以子弹朝着你发射来扰乱你的进展，
-但你可以将它们的子弹以自己发射的札弹抵消（限米弹），或者利用御币来反射子弹。但札弹对敌人是没有伤害的，只有阴阳玉才能伤及敌人。阴阳玉经过的路线上的敌方米弹也会被清除。可以使用一命一次的“炸弹”来击中荧幕内的绝大部分卡片。但这无法保证所有出现的卡都可以被击中。仅当没有额外的命时炸弹才对于头目有效。炸弹在游戏过程中也会随机掉出，但是数量很少，全程至多3个。保有上限数量为5个，并且使用过程中不能移动自机。与其它作不同，本作自机为全身判定而不是点判定。
+[Th1_gameplay.png](https://zh.wikipedia.org/wiki/File:Th1_gameplay.png "fig:Th1_gameplay.png")遊戲。\]\] 与其他作品不同，本作品为打砖块的游戏系统。[博丽灵梦要诱导阴阳玉来击破在荧幕的那些看似](https://zh.wikipedia.org/wiki/博丽灵梦 "wikilink")“卡片”和“头目”的目标。可以以御币、撩、踢铲、发射札弹等引导球的方向。发射的札弹亦可以对冲掉一颗米弹，但是不能对BOSS产生伤害或消去砖块。敌方将会以子弹朝着你发射来扰乱你的进展， 但你可以将它们的子弹以自己发射的札弹抵消（限米弹），或者利用御币来反射子弹。但札弹对敌人是没有伤害的，只有阴阳玉才能伤及敌人。阴阳玉经过的路线上的敌方米弹也会被清除。可以使用一命一次的“炸弹”来击中荧幕内的绝大部分卡片。但这无法保证所有出现的卡都可以被击中。仅当没有额外的命时炸弹才对于头目有效。炸弹在游戏过程中也会随机掉出，但是数量很少，全程至多3个。保有上限数量为5个，并且使用过程中不能移动自机。与其它作不同，本作自机为全身判定而不是点判定。
 
 本游戏拥有几个让难度提高的固定界面等级，每过5关就会遇到一次头目。如要过关，玩家应该将所有卡片解除或击中特定关卡的头目几次。博丽灵梦如果被敌人的子弹、雷射、魔法或被自己的阴阳玉所击中的话，就损失一条命。
 
@@ -69,8 +65,7 @@ Soft开发，本作主角之一[博丽灵梦第一次登场](https://zh.wikipedi
 
 1.  ****（译名：神圣的地段 ）- 标题曲
 2.  ****（译名：风之神社）- 未使用曲
-3.  ****（译名：永远的巫女） -
-    第1～4关、地獄路线16〜19关[BGM](https://zh.wikipedia.org/wiki/背景音乐 "wikilink")
+3.  ****（译名：永远的巫女） - 第1～4关、地獄路线16〜19关[BGM](https://zh.wikipedia.org/wiki/背景音乐 "wikilink")
 4.  ****（译名：阳性和阴性）- 第5关BGM
 5.  ****（译名：对祈祷的高度回报） - 魔界路线第6～9关BGM
 6.  ****（译名：东方怪奇谈） - 地狱路线第6～9关BGM
@@ -84,21 +79,13 @@ Soft开发，本作主角之一[博丽灵梦第一次登场](https://zh.wikipedi
 14. ****（译名：星幽剑师） - 地獄最终关曲
 15. ****（译名：鸢尾） - 通关曲
 
-所有曲目均以重编的方式重新收录在[东方Project第](https://zh.wikipedia.org/wiki/东方Project "wikilink")5部作品[東方怪綺談
-～ Mystic
-Square.的音乐屋中](../Page/東方怪綺談_～_Mystic_Square..md "wikilink")（除了未使用曲****），部分曲目重编名字被修改，****被修改为****，****被修改为****
+所有曲目均以重编的方式重新收录在[东方Project第](https://zh.wikipedia.org/wiki/东方Project "wikilink")5部作品[東方怪綺談 ～ Mystic Square.的音乐屋中](../Page/東方怪綺談_～_Mystic_Square..md "wikilink")（除了未使用曲****），部分曲目重编名字被修改，****被修改为****，****被修改为****
 
-除外，也收录于音乐专辑**「[幺乐团的历史 ～ Akyu's Untouched Score
-vol.5](https://zh.wikipedia.org/wiki/上海愛莉絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」**（依然没有包括未使用曲目****）
+除外，也收录于音乐专辑**「[幺乐团的历史 ～ Akyu's Untouched Score vol.5](https://zh.wikipedia.org/wiki/上海愛莉絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」**（依然没有包括未使用曲目****）
 
 ## 外部链接
 
   - [上海アリス幻樂団](http://www16.big.or.jp/~zun/)
-  - [Amusement
-    Makers（旧）公式サイト](https://www.webcitation.org/654TL2n6o?url=http://www.kt.rim.or.jp/~aotaka/am/index.htm)
+  - [Amusement Makers（旧）公式サイト](https://www.webcitation.org/654TL2n6o?url=http://www.kt.rim.or.jp/~aotaka/am/index.htm)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink")
-[Category:休闲游戏](https://zh.wikipedia.org/wiki/Category:休闲游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:PC-9801游戏](https://zh.wikipedia.org/wiki/Category:PC-9801游戏 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink") [Category:休闲游戏](https://zh.wikipedia.org/wiki/Category:休闲游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:PC-9801游戏](https://zh.wikipedia.org/wiki/Category:PC-9801游戏 "wikilink")

@@ -1,12 +1,8 @@
-**TAS**（Tool-Assisted
-[Speedrun](https://zh.wikipedia.org/wiki/Speedrun "wikilink")），又稱為“**電腦輔助競速**”。是指在[電腦上利用](https://zh.wikipedia.org/wiki/電腦 "wikilink")[模擬器等辅助](../Page/游戏机模拟器.md "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，在仅使用游戏程序的合法输入前提之下，達成快速[破關的一種遊戲競速方式](https://zh.wikipedia.org/wiki/破關 "wikilink")。大部分TAS是[競速破關為主](https://zh.wikipedia.org/wiki/競速破關 "wikilink")，但是並不以此為限。TAS通常是以游戏视频的形式发布。
+**TAS**（Tool-Assisted [Speedrun](https://zh.wikipedia.org/wiki/Speedrun "wikilink")），又稱為“**電腦輔助競速**”。是指在[電腦上利用](https://zh.wikipedia.org/wiki/電腦 "wikilink")[模擬器等辅助](../Page/游戏机模拟器.md "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，在仅使用游戏程序的合法输入前提之下，達成快速[破關的一種遊戲競速方式](https://zh.wikipedia.org/wiki/破關 "wikilink")。大部分TAS是[競速破關為主](https://zh.wikipedia.org/wiki/競速破關 "wikilink")，但是並不以此為限。TAS通常是以游戏视频的形式发布。
 
 ## 起源
 
-1999年，Andy Kempling
-修改了《[毀滅戰士](https://zh.wikipedia.org/wiki/毀滅戰士 "wikilink")》的原始碼，使得遊戲可以[慢動作並紀錄過程](https://zh.wikipedia.org/wiki/慢動作 "wikilink")，此時誕生了第一個TAS影片。2000年，知名的日本遊戲競速網站
-High Level Challenge\!
-的站長認為，「如果模擬器錄影可隨時中斷，並可任意重複錄影的話，影片一定會很有趣」。此一說法引起[紅白機模擬器作者Nori的關注](https://zh.wikipedia.org/wiki/紅白機 "wikilink")，進而在新版的[Famtasia中加入了重複錄製的功能](https://zh.wikipedia.org/wiki/Famtasia "wikilink")。同年，利用重複錄影的功能製作出了第一個紅白機TAS影片「超級[瑪利歐競速](https://zh.wikipedia.org/wiki/瑪利歐 "wikilink")」。
+1999年，Andy Kempling 修改了《[毀滅戰士](https://zh.wikipedia.org/wiki/毀滅戰士 "wikilink")》的原始碼，使得遊戲可以[慢動作並紀錄過程](https://zh.wikipedia.org/wiki/慢動作 "wikilink")，此時誕生了第一個TAS影片。2000年，知名的日本遊戲競速網站 High Level Challenge\! 的站長認為，「如果模擬器錄影可隨時中斷，並可任意重複錄影的話，影片一定會很有趣」。此一說法引起[紅白機模擬器作者Nori的關注](https://zh.wikipedia.org/wiki/紅白機 "wikilink")，進而在新版的[Famtasia中加入了重複錄製的功能](https://zh.wikipedia.org/wiki/Famtasia "wikilink")。同年，利用重複錄影的功能製作出了第一個紅白機TAS影片「超級[瑪利歐競速](https://zh.wikipedia.org/wiki/瑪利歐 "wikilink")」。
 
 ## 特徵
 
@@ -16,9 +12,7 @@ High Level Challenge\!
 
 一个良好的TAS视频通常有着不可思议的通关效率或游戏技巧，也因此有着很好的观赏价值。不过，由于TAS只要求游戏输入必须合法，因此大多数时候，TAS的效率和技巧都只是理论上的，玩家们在实际游戏时不能达到。
 
-與 TAS
-競速相反的就是「[競速破關](https://zh.wikipedia.org/wiki/競速破關 "wikilink")（Speedrun）」，或稱「RTA
-競速（Real Time Attack）」，著重在以實時、實力完成遊戲為目標。
+與 TAS 競速相反的就是「[競速破關](https://zh.wikipedia.org/wiki/競速破關 "wikilink")（Speedrun）」，或稱「RTA 競速（Real Time Attack）」，著重在以實時、實力完成遊戲為目標。
 
 ## 制作技巧
 
@@ -57,7 +51,6 @@ TAS主要透過下列幾種方式來達成。
 
   - [TASVideos](http://tasvideos.org/)
   - [TASLabo](https://archive.is/20081011064156/http://gocha.s1.zmx.jp/tas/)
-
   - [TAS的歷史](http://www.yuko2ch.net/rockman/tashistory.htm)
   - [TAS專有名詞](http://www.yuko2ch.net/rockman/tasyougo.htm)
   - [High Level Challenge\!](http://www.geocities.jp/hlc6502/)

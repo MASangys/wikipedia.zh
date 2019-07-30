@@ -1,8 +1,8 @@
-《**LADY～最后的犯罪画像～**》（）通稱**-{LADY}-**。是一部於2011年1月7日起，由[日本](../Page/日本.md "wikilink")[TBS電視台於逢](../Page/TBS電視台.md "wikilink")[每週五](https://zh.wikipedia.org/wiki/每週五 "wikilink")22:00〜22:54（[日本標準時間](../Page/日本標準時間.md "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[北川景子主演](../Page/北川景子.md "wikilink")，[木村多江](../Page/木村多江.md "wikilink")、[平岡祐太](../Page/平岡祐太.md "wikilink")、[須藤理彩](https://zh.wikipedia.org/wiki/須藤理彩 "wikilink")、[要潤](../Page/要潤.md "wikilink")、[小澤征悦等人參演](https://zh.wikipedia.org/wiki/小澤征悦 "wikilink")。首回播放時間為21:00〜23:09。
+《**LADY～最后的犯罪画像～**》（）通稱**-{LADY}-**。是一部於2011年1月7日起，由[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")於逢[每週五](https://zh.wikipedia.org/wiki/每週五 "wikilink")22:00〜22:54（[日本標準時間](../Page/日本標準時間.md "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[北川景子](../Page/北川景子.md "wikilink")主演，[木村多江](../Page/木村多江.md "wikilink")、[平岡祐太](../Page/平岡祐太.md "wikilink")、[須藤理彩](https://zh.wikipedia.org/wiki/須藤理彩 "wikilink")、[要潤](../Page/要潤.md "wikilink")、[小澤征悦等人參演](https://zh.wikipedia.org/wiki/小澤征悦 "wikilink")。首回播放時間為21:00〜23:09。
 
 ## 劇情
 
-該劇以犯罪行動分析室為背景，講述一群犯罪心理分析官通過分析罪犯心理來破案的故事。在片中[北川景子飾演的天才香月翔子](../Page/北川景子.md "wikilink")，是一個對工作異常投入，卻對戀愛表現得非常拙劣的角色。
+該劇以犯罪行動分析室為背景，講述一群犯罪心理分析官通過分析罪犯心理來破案的故事。在片中[北川景子](../Page/北川景子.md "wikilink")飾演的天才香月翔子，是一個對工作異常投入，卻對戀愛表現得非常拙劣的角色。
 
 ## 主要人物
 
@@ -104,8 +104,7 @@
 <!-- end list -->
 
   -
-    翔子和舞子的父親。10年前在工作的大學發生大火中不幸罹難。當年追查到女高中生殺人事件的兇手“Lady
-    Killer”是自己後輩今泉的女兒，欲通知當時參與調查的結城，但被今泉刺殺，現場偽裝成火災事件。
+    翔子和舞子的父親。10年前在工作的大學發生大火中不幸罹難。當年追查到女高中生殺人事件的兇手“Lady Killer”是自己後輩今泉的女兒，欲通知當時參與調查的結城，但被今泉刺殺，現場偽裝成火災事件。
 
 <!-- end list -->
 
@@ -187,8 +186,7 @@
 
 <!-- end list -->
 
-  - **警視廳犯罪行動演習中，扮演炸彈客的警方人員：[小澤一敬](https://zh.wikipedia.org/wiki/小澤一敬 "wikilink")（[SPEED
-    WAGON](https://zh.wikipedia.org/wiki/SPEED_WAGON "wikilink")）**
+  - **警視廳犯罪行動演習中，扮演炸彈客的警方人員：[小澤一敬](https://zh.wikipedia.org/wiki/小澤一敬 "wikilink")（[SPEED WAGON](https://zh.wikipedia.org/wiki/SPEED_WAGON "wikilink")）**
   - **伊野充：[佐藤詩音](https://zh.wikipedia.org/wiki/佐藤詩音 "wikilink")**
   - **本宮：[鈴之助](https://zh.wikipedia.org/wiki/鈴之助 "wikilink")**
 
@@ -356,8 +354,7 @@
 
 <!-- end list -->
 
-  - '''吉野：[久保貫太郎](https://zh.wikipedia.org/wiki/久保貫太郎 "wikilink")（第4章）
-    '''
+  - '''吉野：[久保貫太郎](https://zh.wikipedia.org/wiki/久保貫太郎 "wikilink")（第4章） '''
 
 <!-- end list -->
 
@@ -646,8 +643,7 @@
 <!-- end list -->
 
   -
-    10年前女高中生連續殺人事件的真兇。通稱“Lady
-    Killer”。心理醫生今泉的女兒、翔子與舞子的好友。10年前轉學不久後，遭到同學欺凌。因被自己最要好的同學裕美子背叛，持刀刺死了裕美子。事後相當後悔及自責，最終自殺身亡。
+    10年前女高中生連續殺人事件的真兇。通稱“Lady Killer”。心理醫生今泉的女兒、翔子與舞子的好友。10年前轉學不久後，遭到同學欺凌。因被自己最要好的同學裕美子背叛，持刀刺死了裕美子。事後相當後悔及自責，最終自殺身亡。
 
 <!-- end list -->
 
@@ -798,10 +794,8 @@
 ## 制作人员
 
   - 剧本：[荒井修子](https://zh.wikipedia.org/wiki/荒井修子 "wikilink")（第3話原案）、[渡邊雄介](https://zh.wikipedia.org/wiki/渡邊雄介 "wikilink")、[徳永友一](https://zh.wikipedia.org/wiki/徳永友一 "wikilink")
-  - 監修：
-    [桐生正幸](https://zh.wikipedia.org/wiki/桐生正幸 "wikilink")〔關西國際大人間科學部人間心理學科教授〕
-  - 制作人：[津留正明](https://zh.wikipedia.org/wiki/津留正明 "wikilink")、
-    [渡邊良介](https://zh.wikipedia.org/wiki/渡邊良介 "wikilink")（[大映テレビ](https://zh.wikipedia.org/wiki/大映テレビ "wikilink")）
+  - 監修： [桐生正幸](https://zh.wikipedia.org/wiki/桐生正幸 "wikilink")〔關西國際大人間科學部人間心理學科教授〕
+  - 制作人：[津留正明](https://zh.wikipedia.org/wiki/津留正明 "wikilink")、 [渡邊良介](https://zh.wikipedia.org/wiki/渡邊良介 "wikilink")（[大映テレビ](https://zh.wikipedia.org/wiki/大映テレビ "wikilink")）
   - 导演：[平野俊一](https://zh.wikipedia.org/wiki/平野俊一 "wikilink")、[山本剛義](https://zh.wikipedia.org/wiki/山本剛義 "wikilink")（[ドリマックス・テレビジョン](https://zh.wikipedia.org/wiki/ドリマックス・テレビジョン "wikilink")）、[今井夏木](https://zh.wikipedia.org/wiki/今井夏木 "wikilink")
   - 音樂：[河野伸](https://zh.wikipedia.org/wiki/河野伸 "wikilink")、[羽岡佳](https://zh.wikipedia.org/wiki/羽岡佳 "wikilink")、中村浩士（[i-dep](https://zh.wikipedia.org/wiki/i-dep "wikilink")）
   - 音樂製作：[志田博英](https://zh.wikipedia.org/wiki/志田博英 "wikilink")
@@ -826,9 +820,4 @@
 
 ## 作品的變遷
 
-[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:犯罪心理學](https://zh.wikipedia.org/wiki/Category:犯罪心理學 "wikilink")
-[Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:TBS警匪電視劇](https://zh.wikipedia.org/wiki/Category:TBS警匪電視劇 "wikilink")
+[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:犯罪心理學](https://zh.wikipedia.org/wiki/Category:犯罪心理學 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:TBS警匪電視劇](https://zh.wikipedia.org/wiki/Category:TBS警匪電視劇 "wikilink")

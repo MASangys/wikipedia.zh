@@ -1,7 +1,4 @@
-Sony Ericsson W995是[Sony
-Ericsson旗下一部音樂手機](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")，發售於2009年5月22日。最先於MWC
-2009上發表，為Sony Ericsson 2009 上半年旗艦手機。搭載810萬畫素相機，內建LED閃光燈。採用320X240
-Pixels，26萬色2.6吋液晶TFT螢幕。研發代號為Hikaru。黑色及銀色、紅色版先行發售，粉紅色版本亦已於稍後上市。
+Sony Ericsson W995是[Sony Ericsson旗下一部音樂手機](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")，發售於2009年5月22日。最先於MWC 2009上發表，為Sony Ericsson 2009 上半年旗艦手機。搭載810萬畫素相機，內建LED閃光燈。採用320X240 Pixels，26萬色2.6吋液晶TFT螢幕。研發代號為Hikaru。黑色及銀色、紅色版先行發售，粉紅色版本亦已於稍後上市。
 
 ## 主要規格
 
@@ -15,8 +12,7 @@ Pixels，26萬色2.6吋液晶TFT螢幕。研發代號為Hikaru。黑色及銀色
 ## 使用系統
 
   - 制式：GSM四頻/WCDMA
-  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Sony Ericsson
-    自家封閉式系統 (A200)
+  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Sony Ericsson 自家封閉式系統 (A200)
   - cpu：ARM11 369Mhz
 
 ## 數位功能

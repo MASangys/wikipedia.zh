@@ -1,10 +1,8 @@
-《****》（倖田來未 2008巡迴演唱會
-～倖感王國～）為[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2008年9月24日發行之5th個人巡迴演唱會DVD。
+《****》（倖田來未 2008巡迴演唱會 ～倖感王國～）為[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")於2008年9月24日發行之5th個人巡迴演唱會DVD。
 
 ## 解說
 
-  - 全國動員約14萬人的「KODA KUMI LIVE TOUR 2008
-    ～Kingdom～」，此DVD收錄[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[國立代代木競技場第一體育館的演唱會影像](../Page/國立代代木競技場.md "wikilink")。另收錄巡迴全公演的貼身幕後花絮影像、特典映像，收錄約75分鐘的演唱會DVD。
+  - 全國動員約14萬人的「KODA KUMI LIVE TOUR 2008 ～Kingdom～」，此DVD收錄[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館的演唱會影像。另收錄巡迴全公演的貼身幕後花絮影像、特典映像，收錄約75分鐘的演唱會DVD。
   - 日本初回盤與單曲「[TABOO](../Page/TABOO.md "wikilink")」連動特典應募券封入。
   - 此巡迴演唱會DVD為倖田來未第5張連續奪冠的巡迴演唱會DVD。
   - 藍光DVD於 2011年5月18日發售
@@ -36,8 +34,7 @@
 
 \-ENCORE-
 
-1.  Single Medley：SHAKE IT UP～BUT～real Emotion真實情感～Butterfly～Crazy 4
-    U～DANCE BATTLE
+1.  Single Medley：SHAKE IT UP～BUT～real Emotion真實情感～Butterfly～Crazy 4 U～DANCE BATTLE
 2.  Moon Cryin
 3.  walk
 
@@ -84,8 +81,7 @@
 
 \-ENCORE-
 
-1.  Single Medley：SHAKE IT UP～BUT～real Emotion真實情感～Butterfly～Crazy 4
-    U～DANCE BATTLE
+1.  Single Medley：SHAKE IT UP～BUT～real Emotion真實情感～Butterfly～Crazy 4 U～DANCE BATTLE
 2.  Moon Cryin
 3.  walk
 
@@ -93,5 +89,4 @@
 
 <references/>
 
-[Category:倖田來未影音作品](https://zh.wikipedia.org/wiki/Category:倖田來未影音作品 "wikilink")
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
+[Category:倖田來未影音作品](https://zh.wikipedia.org/wiki/Category:倖田來未影音作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")

@@ -1,34 +1,26 @@
-**F-VE
-DOLLS**（，前稱**5dolls**）為[MBK娛樂旗下已解散的女子團體](../Page/MBK娛樂.md "wikilink")，原為韓國混聲音樂團體[男女共學的女性子團](https://zh.wikipedia.org/wiki/男女共學_\(組合\) "wikilink")，後為獨立團體。
+**F-VE DOLLS**（，前稱**5dolls**）為[MBK娛樂](../Page/MBK娛樂.md "wikilink")旗下已解散的女子團體，原為韓國混聲音樂團體[男女共學的女性子團](https://zh.wikipedia.org/wiki/男女共學_\(組合\) "wikilink")，後為獨立團體。
 
 ## 經歷
 
 ### 2010年\~2011年：5dolls出道
 
-2010年12月28日，男女共學所屬經紀公司宣佈加入女性成員，並與其他四位原有女性成員、[孝榮](../Page/柳孝榮.md "wikilink")、[受美和](../Page/李受美.md "wikilink")組成第一組子團5dolls，意為洋娃娃。出道單曲〈Lip
-Stains〉由[勇敢兄弟製作](https://zh.wikipedia.org/wiki/Brave_Brothers "wikilink")。
+2010年12月28日，男女共學所屬經紀公司宣佈加入女性成員，並與其他四位原有女性成員、[孝榮](../Page/柳孝榮.md "wikilink")、[受美和](../Page/李受美.md "wikilink")組成第一組子團5dolls，意為洋娃娃。出道單曲〈Lip Stains〉由[勇敢兄弟製作](https://zh.wikipedia.org/wiki/Brave_Brothers "wikilink")。
 
 2011年2月11日，正式公開MV。
 
-2011年2月17日，播映的音樂節目[M\!
-Countdown為她們的出道舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
+2011年2月17日，播映的音樂節目[M\! Countdown為她們的出道舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
 
-2011年3月30日，5dolls出演[MBC水木劇](https://zh.wikipedia.org/wiki/MBC "wikilink")[最佳愛情飾演女子組合Candies](../Page/最佳愛情.md "wikilink")，其中[孝榮飾演Candies隊長河璐美](../Page/柳孝榮.md "wikilink")。
+2011年3月30日，5dolls出演[MBC水木劇](https://zh.wikipedia.org/wiki/MBC "wikilink")[最佳愛情](../Page/最佳愛情.md "wikilink")飾演女子組合Candies，其中[孝榮飾演Candies隊長河璐美](../Page/柳孝榮.md "wikilink")。
 
-2011年5月11日，發行迷你專輯《Club Remix Time To Play》，主打歌為〈이러쿵 저러쿵〉(Like This or
-That)。
+2011年5月11日，發行迷你專輯《Club Remix Time To Play》，主打歌為〈이러쿵 저러쿵〉(Like This or That)。
 
 ### 2012年：受美退出，娜妍加入
 
-2012年2月13日，[孝榮參與](../Page/柳孝榮.md "wikilink")[SPEED單曲](../Page/SPEED_\(韓國音樂團體\).md "wikilink")〈Lovey
-Dovey Plus〉MV，並參與〈Lovey Dovey Plus〉音樂節目。
+2012年2月13日，[孝榮參與](../Page/柳孝榮.md "wikilink")[SPEED單曲](../Page/SPEED_\(韓國音樂團體\).md "wikilink")〈Lovey Dovey Plus〉MV，並參與〈Lovey Dovey Plus〉音樂節目。
 
 2012年2月17日，[受美向經紀公司傳達了想要solo活動的意向](../Page/李受美.md "wikilink")，退出5dolls，加入新成員**娜妍**。**娜妍**精通英語與日語，會彈鋼琴、吉他、吹長笛…等五種樂器。
 
-同时5dolls的經紀公司也從[Core Contents
-Media轉到](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")[GM
-Contents
-Media](https://zh.wikipedia.org/wiki/GM_Contents_Media "wikilink")。
+同时5dolls的經紀公司也從[Core Contents Media轉到](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")[GM Contents Media](https://zh.wikipedia.org/wiki/GM_Contents_Media "wikilink")。
 
 2012年4月5日，**娜妍**在Yangpa〈사랑은 다 그런거래요〉〈愛情都是那樣的吧〉參與Rap部分。
 
@@ -40,58 +32,39 @@ Media](https://zh.wikipedia.org/wiki/GM_Contents_Media "wikilink")。
 
 2013年2月19日，所屬公司表示5dolls從5人體制改為6人體制，加入英國出身的[Shannon以及專攻舞蹈的](../Page/Shannon_\(韓國歌手\).md "wikilink")**智賢**。
 
-2013年3月3日，[孝榮參與](../Page/柳孝榮.md "wikilink") Davichi 回歸曲《거북이 (Turtle /
-烏龜)》 MV。
+2013年3月3日，[孝榮參與](../Page/柳孝榮.md "wikilink") Davichi 回歸曲《거북이 (Turtle / 烏龜)》 MV。
 
 2013年3月，[孝榮和](../Page/柳孝榮.md "wikilink")《學校2013》演員[金英春擔任學生服務學校暴力實態調查宣傳大使](https://zh.wikipedia.org/wiki/金英春 "wikilink")。
 
-2013年4月28日，T-ara子團[T-ara
-N4出道歌](../Page/T-ara_N4.md "wikilink")《田園日記》中，和參與Drama
-Ver的配角及伴舞。
+2013年4月28日，T-ara子團[T-ara N4出道歌](../Page/T-ara_N4.md "wikilink")《田園日記》中，和參與Drama Ver的配角及伴舞。
 
-2013年6月10日，與[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")[昭妍](../Page/朴昭妍.md "wikilink")、[The
-SeeYa幼真](../Page/The_SeeYa.md "wikilink")、[SPEED泰雲和成旻合作演唱抒情曲](https://zh.wikipedia.org/wiki/SPEED_\(韓國組合\) "wikilink")〈Painkiller〉(止痛藥)。因[昭妍當時在日本宣傳](../Page/朴昭妍.md "wikilink")[QBS出道單曲](../Page/QBS.md "wikilink")，[承希代替](../Page/曺承希.md "wikilink")[昭妍參與](../Page/朴昭妍.md "wikilink")〈Painkiller〉(止痛藥)的打歌現場。
+2013年6月10日，與[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")[昭妍](../Page/朴昭妍.md "wikilink")、[The SeeYa幼真](../Page/The_SeeYa.md "wikilink")、[SPEED泰雲和成旻合作演唱抒情曲](https://zh.wikipedia.org/wiki/SPEED_\(韓國組合\) "wikilink")〈Painkiller〉(止痛藥)。因[昭妍當時在日本宣傳](../Page/朴昭妍.md "wikilink")[QBS](../Page/QBS.md "wikilink")出道單曲，[承希代替](../Page/曺承希.md "wikilink")[昭妍參與](../Page/朴昭妍.md "wikilink")〈Painkiller〉(止痛藥)的打歌現場。
 
-2013年7月10日，所屬公司宣布5dolls組合成員變化，加入2012年的「春香真」[承希和](../Page/曺承希.md "wikilink")[The
-SeeYa成員](../Page/The_SeeYa.md "wikilink")[書仁](https://zh.wikipedia.org/wiki/連卿 "wikilink")。而今年2月加入的[Shannon計畫在練習](../Page/Shannon_\(韓國歌手\).md "wikilink")1、2年後solo出道，**智賢**則是預計之後成為其他组合成員出道。
+2013年7月10日，所屬公司宣布5dolls組合成員變化，加入2012年的「春香真」[承希和](../Page/曺承希.md "wikilink")[The SeeYa成員](../Page/The_SeeYa.md "wikilink")[書仁](https://zh.wikipedia.org/wiki/連卿 "wikilink")。而今年2月加入的[Shannon計畫在練習](../Page/Shannon_\(韓國歌手\).md "wikilink")1、2年後solo出道，**智賢**則是預計之後成為其他组合成員出道。
 
 2013年7月11日，宣佈更改團名為**「F-VE DOLLS」**重新出發。
 
-2013年7月29日，公開新曲〈[第一靈魂伴侶](../Page/第一靈魂伴侶.md "wikilink")〉(Soulmate
-\#1)。以及在距離上一首派台歌《이러쿵 저러쿵》(This and That)
-兩年的時間後，推出單曲《第一靈魂伴侶》。《第一靈魂伴侶》由[二段橫踢創作](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")，並加入迪斯科編舞增加看點。
+2013年7月29日，公開新曲〈[第一靈魂伴侶](../Page/第一靈魂伴侶.md "wikilink")〉(Soulmate \#1)。以及在距離上一首派台歌《이러쿵 저러쿵》(This and That) 兩年的時間後，推出單曲《第一靈魂伴侶》。《第一靈魂伴侶》由[二段橫踢創作](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")，並加入迪斯科編舞增加看點。
 
-2013年9月12日，公開回歸主打歌〈愛, 不愛〉《사랑한다, 안한다》 MV ，力邀 [T-ara
-N4](../Page/T-ara_N4.md "wikilink") 的 [Dani](../Page/金岱妮.md "wikilink")
-跨刀 Rap。這首歌是繼 "第一靈魂伴侶″
-後，再次與[二段橫踢合作](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")，是一首融合韓國傳統樂器與木吉他的現代流行抒情曲。
+2013年9月12日，公開回歸主打歌〈愛, 不愛〉《사랑한다, 안한다》 MV ，力邀 [T-ara N4](../Page/T-ara_N4.md "wikilink") 的 [Dani](../Page/金岱妮.md "wikilink") 跨刀 Rap。這首歌是繼 "第一靈魂伴侶″ 後，再次與[二段橫踢合作](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")，是一首融合韓國傳統樂器與木吉他的現代流行抒情曲。
 
-2013年9月17日，發行迷你專輯《First Love》，並公開<被欺騙了>《사기쳤어》MV 和〈愛, 不愛〉Ver2 MV ，《사랑한다,
-안한다》專輯中有[二段橫踢](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")、[新沙洞老虎等熱門作曲家參與](../Page/新沙洞老虎.md "wikilink")。
+2013年9月17日，發行迷你專輯《First Love》，並公開<被欺騙了>《사기쳤어》MV 和〈愛, 不愛〉Ver2 MV ，《사랑한다, 안한다》專輯中有[二段橫踢](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")、[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")等熱門作曲家參與。
 
 ### 2014年：成員大變動
 
-2014年1月21日，[承希參與](../Page/曺承希.md "wikilink") [The
-SeeYa新輯主打歌](../Page/The_SeeYa.md "wikilink")《Tell Me》MV。
+2014年1月21日，[承希參與](../Page/曺承希.md "wikilink") [The SeeYa新輯主打歌](../Page/The_SeeYa.md "wikilink")《Tell Me》MV。
 
-2014年2月13日，[孝榮確定出演](../Page/柳孝榮.md "wikilink")
-[JTBC](../Page/JTBC.md "wikilink")
-新週末劇《[山蒜醬湯：12年後的重逢](https://zh.wikipedia.org/wiki/山蒜醬湯：12年後的重逢 "wikilink")》，在劇中飾演朱多海(少年時期)。
+2014年2月13日，[孝榮確定出演](../Page/柳孝榮.md "wikilink") [JTBC](../Page/JTBC.md "wikilink") 新週末劇《[山蒜醬湯：12年後的重逢](https://zh.wikipedia.org/wiki/山蒜醬湯：12年後的重逢 "wikilink")》，在劇中飾演朱多海(少年時期)。
 
-2014年6月5日，[承希參與](../Page/曺承希.md "wikilink")
-[Davichi新歌](../Page/Davichi.md "wikilink")《分手後相遇》MV。
+2014年6月5日，[承希參與](../Page/曺承希.md "wikilink") [Davichi](../Page/Davichi.md "wikilink")新歌《分手後相遇》MV。
 
-2014年9月16日，[孝榮確定出演](../Page/柳孝榮.md "wikilink")
-[TVN](../Page/TVN.md "wikilink")
-新日日劇《[家族的秘密](../Page/家族的秘密.md "wikilink")》，在劇中飾演高恩星。
+2014年9月16日，[孝榮確定出演](../Page/柳孝榮.md "wikilink") [TVN](../Page/TVN.md "wikilink") 新日日劇《[家族的秘密](../Page/家族的秘密.md "wikilink")》，在劇中飾演高恩星。
 
-2014年10月，所屬的經紀公司[Core Contents
-Media](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")
-進入停業程序，公司所屬藝人均轉至[MBK娛樂](../Page/MBK娛樂.md "wikilink")。
+2014年10月，所屬的經紀公司[Core Contents Media](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink") 進入停業程序，公司所屬藝人均轉至[MBK娛樂](../Page/MBK娛樂.md "wikilink")。
 
 ### 2015年：官方宣告解散
 
-2015年3月10日，[MBK娛樂表示組合成員合約即將到期](../Page/MBK娛樂.md "wikilink")，而公司沒有和她們續約的意向，而與[Keyeast簽定專屬合約](../Page/Keyeast.md "wikilink")，開始演員活動。
+2015年3月10日，[MBK娛樂](../Page/MBK娛樂.md "wikilink")表示組合成員合約即將到期，而公司沒有和她們續約的意向，而與[Keyeast](../Page/Keyeast.md "wikilink")簽定專屬合約，開始演員活動。
 
 ## 成員資料
 
@@ -144,10 +117,7 @@ Media](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")
 
 ### 成員变迁史
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2011 till:2015 TimeAxis =
-orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2011 till:2015 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -504,13 +474,4 @@ PlotData =
 
   - [F-VE DOLLS官方推特](http://twitter.com/ccm_fvedolls)
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink")
-[Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink") [Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink")

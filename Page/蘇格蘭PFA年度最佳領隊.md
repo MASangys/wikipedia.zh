@@ -1,5 +1,4 @@
-**蘇格蘭PFA年度最佳領隊**（）於每年[蘇格蘭球季末頒發](../Page/蘇格蘭.md "wikilink")，由球員工會[PFA蘇格蘭](https://zh.wikipedia.org/wiki/蘇格蘭職業足球員協會 "wikilink")（PFA
-Scotland）的會員投票選出上年度的最佳領隊。提名名單於每年4月份公佈，而在稍後於[格拉斯哥舉行的頒獎典禮中揭曉獲獎者](https://zh.wikipedia.org/wiki/格拉斯哥 "wikilink")。
+**蘇格蘭PFA年度最佳領隊**（）於每年[蘇格蘭](../Page/蘇格蘭.md "wikilink")球季末頒發，由球員工會[PFA蘇格蘭](https://zh.wikipedia.org/wiki/蘇格蘭職業足球員協會 "wikilink")（PFA Scotland）的會員投票選出上年度的最佳領隊。提名名單於每年4月份公佈，而在稍後於[格拉斯哥舉行的頒獎典禮中揭曉獲獎者](https://zh.wikipedia.org/wiki/格拉斯哥 "wikilink")。
 
 ## 歷屆獲獎人
 
@@ -83,9 +82,7 @@ Scotland）的會員投票選出上年度的最佳領隊。提名名單於每年
 
 ## 參考資料
 
-[Category:蘇格蘭足球](https://zh.wikipedia.org/wiki/Category:蘇格蘭足球 "wikilink")
-[Category:英国足球奖项](https://zh.wikipedia.org/wiki/Category:英国足球奖项 "wikilink")
-[Category:2006年建立的獎項](https://zh.wikipedia.org/wiki/Category:2006年建立的獎項 "wikilink")
+[Category:蘇格蘭足球](https://zh.wikipedia.org/wiki/Category:蘇格蘭足球 "wikilink") [Category:英国足球奖项](https://zh.wikipedia.org/wiki/Category:英国足球奖项 "wikilink") [Category:2006年建立的獎項](https://zh.wikipedia.org/wiki/Category:2006年建立的獎項 "wikilink")
 
 1.
 

@@ -12,12 +12,8 @@
 
 ### 來源
 
-  - [PDF des
-    Unicode-Konsortiums](http://www.unicode.org/charts/PDF/U2A700.pdf)
-    (englisch)
+  - [PDF des Unicode-Konsortiums](http://www.unicode.org/charts/PDF/U2A700.pdf) (englisch)
 
-[Category:CJK](https://zh.wikipedia.org/wiki/Category:CJK "wikilink")
-[Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
+[Category:CJK](https://zh.wikipedia.org/wiki/Category:CJK "wikilink") [Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
 
-1.  [BabelStone - A Brief History of
-    CJK-C](http://babelstone.blogspot.com/2007/06/brief-history-of-cjk-c.html)
+1.  [BabelStone - A Brief History of CJK-C](http://babelstone.blogspot.com/2007/06/brief-history-of-cjk-c.html)

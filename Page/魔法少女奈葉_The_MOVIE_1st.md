@@ -1,14 +1,10 @@
-《**魔法少女奈葉 The MOVIE
-1st**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")的第一部[劇場版動畫](https://zh.wikipedia.org/wiki/劇場版 "wikilink")，根據系列的[電視動畫第一作](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》改編，于2010年1月23日公映。
+《**魔法少女奈葉 The MOVIE 1st**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")的第一部[劇場版動畫](https://zh.wikipedia.org/wiki/劇場版 "wikilink")，根據系列的[電視動畫第一作](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》改編，于2010年1月23日公映。
 
 ## 概要
 
-此劇場版是根據2004年[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")的第一期電視動畫《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》（全13話）改編，以原有的故事情節，構筑新的腳本，添加新的設定而成的新製作。2008年7月在《[Megami
-MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》第100號的紀念號上公布劇場版的製作決定\[1\]，原本計劃在2009年公映，但其後推遲到2010年1月。
+此劇場版是根據2004年[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")的第一期電視動畫《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》（全13話）改編，以原有的故事情節，構筑新的腳本，添加新的設定而成的新製作。2008年7月在《[Megami MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》第100號的紀念號上公布劇場版的製作決定\[1\]，原本計劃在2009年公映，但其後推遲到2010年1月。
 
-根據此劇場版所作的漫畫《魔法少女奈葉 The MOVIE 1st THE COMICS》從《[Megami
-MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》2009年10月號起連載。\[2\]
-台灣地區的代理商為普威爾國際股份有限公司，負責人為陳旭飛。
+根據此劇場版所作的漫畫《魔法少女奈葉 The MOVIE 1st THE COMICS》從《[Megami MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》2009年10月號起連載。\[2\] 台灣地區的代理商為普威爾國際股份有限公司，負責人為陳旭飛。
 
 ## 角色
 
@@ -31,8 +27,7 @@ MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》2009年10月號起連載。\[
   - 監督 - [草川啓造](https://zh.wikipedia.org/wiki/草川啓造 "wikilink")
   - 人物設計、概念設計、總作畫監督 - 奥田泰弘
   - 生物設計 - 宮澤努、橋本貴吉
-  - 分鏡 -
-    草川啓造、岩井優器、[松井仁之](https://zh.wikipedia.org/wiki/松井仁之 "wikilink")、[大森英敏](https://zh.wikipedia.org/wiki/大森英敏 "wikilink")、[坂田純一](../Page/坂田純一.md "wikilink")、宮澤努
+  - 分鏡 - 草川啓造、岩井優器、[松井仁之](https://zh.wikipedia.org/wiki/松井仁之 "wikilink")、[大森英敏](https://zh.wikipedia.org/wiki/大森英敏 "wikilink")、[坂田純一](../Page/坂田純一.md "wikilink")、宮澤努
   - 演出 - 奥野耕太、小林浩輔
   - 作畫監督 - 橋本貴吉、宮澤努、清水祐実、長町英樹、砂川正和、加藤剣、古池敏也、烏宏明、相坂ナオキ、安本学、井畑翔太、大貫望
   - 美術監督 - 片平真司
@@ -43,9 +38,7 @@ MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》2009年10月號起連載。\[
   - 音樂 - [佐野廣明](https://zh.wikipedia.org/wiki/佐野廣明 "wikilink")
   - 製作人 - [三嶋章夫](../Page/三嶋章夫.md "wikilink")、田中辰彌、清水博之
   - 動畫製作 - [Seven Arcs](../Page/Seven_Arcs.md "wikilink")
-  - 企劃、製作 - NANOHA The MOVIE 1st
-    PROJECT（[國王唱片](../Page/國王唱片.md "wikilink")、Seven
-    Arcs、[多玩國](../Page/多玩國.md "wikilink")、[東寶](../Page/東寶.md "wikilink")、[Aniplex](../Page/Aniplex.md "wikilink")）\[4\]
+  - 企劃、製作 - NANOHA The MOVIE 1st PROJECT（[國王唱片](../Page/國王唱片.md "wikilink")、Seven Arcs、[多玩國](../Page/多玩國.md "wikilink")、[東寶](../Page/東寶.md "wikilink")、[Aniplex](../Page/Aniplex.md "wikilink")）\[4\]
   - 配給 - Aniplex
 
 ## 主題曲
@@ -54,8 +47,7 @@ MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》2009年10月號起連載。\[
 
 <!-- end list -->
 
-  - 作詞：[水樹奈奈](../Page/水樹奈奈.md "wikilink")；作曲：吉木繪里子；編曲：陶山隼；歌：水樹奈奈（[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）\[5\]
+  - 作詞：[水樹奈奈](../Page/水樹奈奈.md "wikilink")；作曲：吉木繪里子；編曲：陶山隼；歌：水樹奈奈（[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）\[5\]
 
 <!-- end list -->
 
@@ -71,8 +63,7 @@ MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》2009年10月號起連載。\[
 
 <!-- end list -->
 
-  - 作詞、作曲、編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")；歌：水樹奈奈（King
-    Records）\[6\]
+  - 作詞、作曲、編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")；歌：水樹奈奈（King Records）\[6\]
 
 ## 相關商品
 
@@ -91,17 +82,9 @@ MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》2009年10月號起連載。\[
 
   - [魔法少女奈葉 The MOVIE 1st 台灣官方網站](http://www.prowaremovie.com/nanoha/)
 
-[Category:魔法少女奈葉](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉 "wikilink")
-[Category:2010年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2010年日本劇場動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Megami_MAGAZINE](https://zh.wikipedia.org/wiki/Category:Megami_MAGAZINE "wikilink")
-[Category:重製動畫電影](https://zh.wikipedia.org/wiki/Category:重製動畫電影 "wikilink")
-[Category:魔法題材動畫電影](https://zh.wikipedia.org/wiki/Category:魔法題材動畫電影 "wikilink")
-[Category:草川啟造電影](https://zh.wikipedia.org/wiki/Category:草川啟造電影 "wikilink")
+[Category:魔法少女奈葉](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉 "wikilink") [Category:2010年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2010年日本劇場動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Megami_MAGAZINE](https://zh.wikipedia.org/wiki/Category:Megami_MAGAZINE "wikilink") [Category:重製動畫電影](https://zh.wikipedia.org/wiki/Category:重製動畫電影 "wikilink") [Category:魔法題材動畫電影](https://zh.wikipedia.org/wiki/Category:魔法題材動畫電影 "wikilink") [Category:草川啟造電影](https://zh.wikipedia.org/wiki/Category:草川啟造電影 "wikilink")
 
-1.  [《魔法少女奈葉The
-    MOVIE 1st》首度動畫電影版企劃始動](http://gnn.gamer.com.tw/2/31712.html)
-    巴哈姆特
+1.  [《魔法少女奈葉The MOVIE 1st》首度動畫電影版企劃始動](http://gnn.gamer.com.tw/2/31712.html) 巴哈姆特
 
 2.
 

@@ -3,7 +3,7 @@
 ## 簡介
 
   - [Don't Leave Me發行歷經](../Page/Don't_Leave_Me.md "wikilink")9個月所發行的單曲
-  - 初登場就獲得[Oricon第一名](../Page/Oricon.md "wikilink")
+  - 初登場就獲得[Oricon](../Page/Oricon.md "wikilink")第一名
   - 此張單曲收錄完，[B+U+M就解散了](https://zh.wikipedia.org/wiki/B+U+M "wikilink")
   - 最終銷量約131.6萬張，為日本最暢銷單曲第117名。
 
@@ -39,10 +39,4 @@
 
   - [1994年的音樂](http://ja.wikipedia.org/wiki/1994%E5%B9%B4%E3%81%AE%E9%9F%B3%E6%A5%BD)
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:1994年單曲](https://zh.wikipedia.org/wiki/Category:1994年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
-[Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink")
-[Category:1994年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1994年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:1994年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1994年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:1994年單曲](https://zh.wikipedia.org/wiki/Category:1994年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:1994年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1994年Oricon單曲月榜冠軍作品 "wikilink") [Category:1994年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1994年Oricon單曲週榜冠軍作品 "wikilink")

@@ -1,6 +1,4 @@
-[Suzaka-NaganohigashiIC_02.JPG](https://zh.wikipedia.org/wiki/File:Suzaka-NaganohigashiIC_02.JPG "fig:Suzaka-NaganohigashiIC_02.JPG")
-[Suzaka-NaganohigashiIC_03.JPG](https://zh.wikipedia.org/wiki/File:Suzaka-NaganohigashiIC_03.JPG "fig:Suzaka-NaganohigashiIC_03.JPG")
-**須坂長野東IC**（平假名：すざかながのひがしインターチェンジ）是位於[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[須坂市的](../Page/須坂市.md "wikilink")[上信越自動車道之](../Page/上信越自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
+[Suzaka-NaganohigashiIC_02.JPG](https://zh.wikipedia.org/wiki/File:Suzaka-NaganohigashiIC_02.JPG "fig:Suzaka-NaganohigashiIC_02.JPG") [Suzaka-NaganohigashiIC_03.JPG](https://zh.wikipedia.org/wiki/File:Suzaka-NaganohigashiIC_03.JPG "fig:Suzaka-NaganohigashiIC_03.JPG") **須坂長野東IC**（平假名：すざかながのひがしインターチェンジ）是位於[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[須坂市](../Page/須坂市.md "wikilink")的[上信越自動車道](../Page/上信越自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -14,10 +12,8 @@
 
 ## 歷史
 
-  - 1993年3月25日 -
-    [上信越自動車道](../Page/上信越自動車道.md "wikilink")[更填JCT至須坂長野東IC開通](https://zh.wikipedia.org/wiki/更填JCT "wikilink")，此交流道也同時啟用。
-  - 1995年11月30日 -
-    上信越自動車道須坂長野東IC至[信州中野IC開通](../Page/信州中野IC.md "wikilink")。
+  - 1993年3月25日 - [上信越自動車道](../Page/上信越自動車道.md "wikilink")[更填JCT至須坂長野東IC開通](https://zh.wikipedia.org/wiki/更填JCT "wikilink")，此交流道也同時啟用。
+  - 1995年11月30日 - 上信越自動車道須坂長野東IC至[信州中野IC](../Page/信州中野IC.md "wikilink")開通。
 
 ## 收費站設施
 
@@ -41,13 +37,7 @@
 ## 鄰近設施
 
   - [上信越自動車道](../Page/上信越自動車道.md "wikilink")
-    (13)[長野IC/BS](https://zh.wikipedia.org/wiki/長野IC "wikilink") -
-    [若穗BS](https://zh.wikipedia.org/wiki/若穗巴士站 "wikilink") -
-    (14)**須坂長野東IC** -
-    [須坂BS](https://zh.wikipedia.org/wiki/須坂巴士站 "wikilink")
-    - (14-1)[小布施PA/SIC](https://zh.wikipedia.org/wiki/小布施PA "wikilink")
-    - [小布施BS](https://zh.wikipedia.org/wiki/小布施巴士站 "wikilink") -
-    (15)[信州中野IC](../Page/信州中野IC.md "wikilink")
+    (13)[長野IC/BS](https://zh.wikipedia.org/wiki/長野IC "wikilink") - [若穗BS](https://zh.wikipedia.org/wiki/若穗巴士站 "wikilink") - (14)**須坂長野東IC** - [須坂BS](https://zh.wikipedia.org/wiki/須坂巴士站 "wikilink") - (14-1)[小布施PA/SIC](https://zh.wikipedia.org/wiki/小布施PA "wikilink") - [小布施BS](https://zh.wikipedia.org/wiki/小布施巴士站 "wikilink") - (15)[信州中野IC](../Page/信州中野IC.md "wikilink")
 
 ## 相關項目
 
@@ -57,5 +47,4 @@
 
   - [東日本高速道路](http://www.e-nexco.co.jp/)
 
-[Category:日本交流道_Su](https://zh.wikipedia.org/wiki/Category:日本交流道_Su "wikilink")
-[Category:長野縣交流道](https://zh.wikipedia.org/wiki/Category:長野縣交流道 "wikilink")
+[Category:日本交流道_Su](https://zh.wikipedia.org/wiki/Category:日本交流道_Su "wikilink") [Category:長野縣交流道](https://zh.wikipedia.org/wiki/Category:長野縣交流道 "wikilink")

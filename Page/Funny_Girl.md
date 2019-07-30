@@ -1,10 +1,8 @@
-**《Funny
-Girl》**為香港女歌手[薛凱琪於](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")2005年發行的廣東專輯，全碟收錄11首歌曲，當中法文和英文各一首。限量版內附100頁的彩圖及護膚品試用裝。
+**《Funny Girl》**為香港女歌手[薛凱琪於](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")2005年發行的廣東專輯，全碟收錄11首歌曲，當中法文和英文各一首。限量版內附100頁的彩圖及護膚品試用裝。
 
 ## 簡介
 
-《Funny Girl》為發行的第三張專輯，特別收錄一首法文歌曲《Si j'etais Carla.......》及一首英文歌曲《You
-Were Meant For Me》，而本唱片亦收錄了上一張唱片《886》的兩首全城熱門歌曲—「886」及「南瓜車」MV。
+《Funny Girl》為發行的第三張專輯，特別收錄一首法文歌曲《Si j'etais Carla.......》及一首英文歌曲《You Were Meant For Me》，而本唱片亦收錄了上一張唱片《886》的兩首全城熱門歌曲—「886」及「南瓜車」MV。
 
 ## 收錄歌曲
 
@@ -33,22 +31,15 @@ Were Meant For Me》，而本唱片亦收錄了上一張唱片《886》的兩首
 
 ### 派台歌獲獎
 
-  - [2005年度叱咤樂壇流行榜頒獎禮](https://zh.wikipedia.org/wiki/2005年度叱咤樂壇流行榜頒獎禮 "wikilink")
-    - 專業推介叱咤十大 第5位《小黑與我》
-  - [2005年度十大勁歌金曲頒獎禮](https://zh.wikipedia.org/wiki/2005年度十大勁歌金曲頒獎禮 "wikilink")
-    - 十大勁歌金曲《男孩像你》
-  - [2005年度新城勁爆頒獎禮](https://zh.wikipedia.org/wiki/2005年度新城勁爆頒獎禮 "wikilink")
-    - 勁爆卡拉OK歌曲《小黑與我》
+  - [2005年度叱咤樂壇流行榜頒獎禮](https://zh.wikipedia.org/wiki/2005年度叱咤樂壇流行榜頒獎禮 "wikilink") - 專業推介叱咤十大 第5位《小黑與我》
+  - [2005年度十大勁歌金曲頒獎禮](https://zh.wikipedia.org/wiki/2005年度十大勁歌金曲頒獎禮 "wikilink") - 十大勁歌金曲《男孩像你》
+  - [2005年度新城勁爆頒獎禮](https://zh.wikipedia.org/wiki/2005年度新城勁爆頒獎禮 "wikilink") - 勁爆卡拉OK歌曲《小黑與我》
 
 ## 參考資料
 
-  - [華納唱片 《Funny
-    Girl》專頁](https://web.archive.org/web/20110830222652/http://www.warnermusic.com.hk/FunnyGirl/)
-  - [薛凱琪 - 暢談新碟Funny
-    Girl音樂風格，以及她的新曲風嘗試](http://www.youtube.com/watch?v=Y8N3Z-D7p64)
+  - [華納唱片 《Funny Girl》專頁](https://web.archive.org/web/20110830222652/http://www.warnermusic.com.hk/FunnyGirl/)
+  - [薛凱琪 - 暢談新碟Funny Girl音樂風格，以及她的新曲風嘗試](http://www.youtube.com/watch?v=Y8N3Z-D7p64)
 
-[Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink")
-[Category:薛凱琪粵語專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪粵語專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
+[Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink") [Category:薛凱琪粵語專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪粵語專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
 
 1.  TVB卡通片集《[時空歷險](https://zh.wikipedia.org/wiki/時空歷險 "wikilink")》主題曲

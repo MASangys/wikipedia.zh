@@ -1,30 +1,16 @@
-《**MySecret**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")[G.E.M.推出的第三張](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，風格主要是[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")、[靈魂樂和](../Page/靈魂樂.md "wikilink")[Rock
-ballad](https://zh.wikipedia.org/wiki/:en:Rock_ballad "wikilink")。平裝版原本於2010年10月28日發行，但由於運送問題，專輯於10月29日才正式於唱片店發售\[1\]，而限量紀念版《**MySecret
-BOX
-SET**》於11月1日推出\[2\]。首個《**MySecret**》專輯簽唱會則於11月14日在[海港城舉行](../Page/海港城.md "wikilink")。\[3\]
+《**MySecret**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")[G.E.M.推出的第三張](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，風格主要是[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")、[靈魂樂](../Page/靈魂樂.md "wikilink")和[Rock ballad](https://zh.wikipedia.org/wiki/:en:Rock_ballad "wikilink")。平裝版原本於2010年10月28日發行，但由於運送問題，專輯於10月29日才正式於唱片店發售\[1\]，而限量紀念版《**MySecret BOX SET**》於11月1日推出\[2\]。首個《**MySecret**》專輯簽唱會則於11月14日在[海港城](../Page/海港城.md "wikilink")舉行。\[3\]
 
 ## 專輯簡介
 
-本專輯收錄了10首新歌，其中《**Good to be Bad**》及《**Get Over
-You**》於專輯發行前已經派台。鄧紫棋參與全碟填詞，其中6首作品更是曲詞包辦。\[4\]
+本專輯收錄了10首新歌，其中《**Good to be Bad**》及《**Get Over You**》於專輯發行前已經派台。鄧紫棋參與全碟填詞，其中6首作品更是曲詞包辦。\[4\]
 
 ### MySecret Box Set
 
-《**MySecret Box
-Set**》為《**MySecret**》的限量特別版，原本預計與平裝版同步上市，但由於需求數量遠超於預期，所以推出日期延遲至11月1日。《**MySecret
-BOX SET**》內除了包含《**MySecret**》專輯外，還附贈『MySecret
-秘密日記』、『秘密影像[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")』、環保紙製[錢包及](https://zh.wikipedia.org/wiki/錢包 "wikilink")**The
-Voice Within**
-[Webcam-V](https://zh.wikipedia.org/wiki/Webcam-V "wikilink")
-Kit。DVD收錄唱片製作花絮、訪問及**Good to be Bad**
-[MV](https://zh.wikipedia.org/wiki/MV "wikilink")。\[5\]
+《**MySecret Box Set**》為《**MySecret**》的限量特別版，原本預計與平裝版同步上市，但由於需求數量遠超於預期，所以推出日期延遲至11月1日。《**MySecret BOX SET**》內除了包含《**MySecret**》專輯外，還附贈『MySecret 秘密日記』、『秘密影像[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")』、環保紙製[錢包及](https://zh.wikipedia.org/wiki/錢包 "wikilink")**The Voice Within** [Webcam-V](https://zh.wikipedia.org/wiki/Webcam-V "wikilink") Kit。DVD收錄唱片製作花絮、訪問及**Good to be Bad** [MV](https://zh.wikipedia.org/wiki/MV "wikilink")。\[5\]
 
 ## 歌曲介紹
 
-「**Good to be bad**」是G.E.M.一貫的R\&B風格；「**Get Over You**」則是Soft
-Rock類型的歌曲；「**The Voice Within**」比較American
-Pop風格；「**MySecret**」就有少許台灣華語歌曲風格；「**Twinkle
-II**」是一首寫給上帝的歌，感謝神永遠在她身邊幫助她。
+「**Good to be bad**」是G.E.M.一貫的R\&B風格；「**Get Over You**」則是Soft Rock類型的歌曲；「**The Voice Within**」比較American Pop風格；「**MySecret**」就有少許台灣華語歌曲風格；「**Twinkle II**」是一首寫給上帝的歌，感謝神永遠在她身邊幫助她。
 
 ## 音樂影片
 
@@ -155,9 +141,7 @@ II**」是一首寫給上帝的歌，感謝神永遠在她身邊幫助她。
   - [蜂鳥音樂官方網站](http://www.hummingbird.hk/)
   - [G.E.M. YouTube官方頻道](http://www.youtube.com/user/GEMblog)
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:鄧紫棋音樂專輯](https://zh.wikipedia.org/wiki/Category:鄧紫棋音樂專輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:鄧紫棋音樂專輯](https://zh.wikipedia.org/wiki/Category:鄧紫棋音樂專輯 "wikilink")
 
 1.
 

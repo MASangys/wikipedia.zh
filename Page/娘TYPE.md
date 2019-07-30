@@ -116,10 +116,8 @@
 ## 連載作品
 
   - [魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")（原作：[都築真紀](../Page/都築真紀.md "wikilink")，作画：[绯贺由香理](https://zh.wikipedia.org/wiki/绯贺由香理 "wikilink")）
-  - [ORIGINAL CHRONICLE 魔法少女奈葉
-    1st](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")（原作：[都築真紀](../Page/都築真紀.md "wikilink")，作画：[绯贺由香理](https://zh.wikipedia.org/wiki/绯贺由香理 "wikilink")）
-  - [強襲魔女零 1937
-    扶桑海事變](https://zh.wikipedia.org/wiki/強襲魔女零_1937_扶桑海事變 "wikilink")（）
+  - [ORIGINAL CHRONICLE 魔法少女奈葉 1st](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")（原作：[都築真紀](../Page/都築真紀.md "wikilink")，作画：[绯贺由香理](https://zh.wikipedia.org/wiki/绯贺由香理 "wikilink")）
+  - [強襲魔女零 1937 扶桑海事變](https://zh.wikipedia.org/wiki/強襲魔女零_1937_扶桑海事變 "wikilink")（）
   - [迷茫女僕！](https://zh.wikipedia.org/wiki/迷茫女僕！ "wikilink")（作画：栄智ゆう）
       - 註：是輕小說《[迷茫管家與膽怯的我](../Page/迷茫管家與膽怯的我.md "wikilink")》漫畫版外傳。
 
@@ -141,10 +139,7 @@
 
   - [娘TYPE［ニャンタイプ］.com](http://nyantype.com/)（官方网站）
 
-[Category:角川書店的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:角川書店的漫畫雜誌 "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:動畫雜誌](https://zh.wikipedia.org/wiki/Category:動畫雜誌 "wikilink")
-[Category:月刊Newtype](https://zh.wikipedia.org/wiki/Category:月刊Newtype "wikilink")
+[Category:角川書店的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:角川書店的漫畫雜誌 "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:動畫雜誌](https://zh.wikipedia.org/wiki/Category:動畫雜誌 "wikilink") [Category:月刊Newtype](https://zh.wikipedia.org/wiki/Category:月刊Newtype "wikilink")
 
 1.  <https://twitter.com/nyantype_KADO/status/932537204001226752>
 2.

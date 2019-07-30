@@ -15,8 +15,7 @@
   -
     主角。魔神皇帝SKL的駕駛者（Skull Force－死滅無常小隊（）所屬的特務中尉。代號為惡魔6），擅長大劍術。
   -
-    另外一名主角。魔神皇帝SKL的駕駛者（Skull
-    Force－死滅無常小隊所屬的特務中尉。代號為路西法4），擅長雙手槍、雙短劍術。\<\!--ニヒルでクールだが一度キレると手が付けられない危険人物と化す。カイザーの操縦においては二挺のガンコントローラーを介してブレストリガーを操り、正確無比の銃撃戦のみならず、銃を打撃武器とした独特の格闘術にも優れる。
+    另外一名主角。魔神皇帝SKL的駕駛者（Skull Force－死滅無常小隊所屬的特務中尉。代號為路西法4），擅長雙手槍、雙短劍術。\<\!--ニヒルでクールだが一度キレると手が付けられない危険人物と化す。カイザーの操縦においては二挺のガンコントローラーを介してブレストリガーを操り、正確無比の銃撃戦のみならず、銃を打撃武器とした独特の格闘術にも優れる。
     その正体は「エルプスユンデ」と呼ばれる人造人間の一人であり、漫画『ヴァーサス』では世界征服を企む科学者ファウストが造り出した存在である事が語られている。--\>
   -
     Skull Force－紅蓮獵隼小隊（グレンファルコン隊）所屬的特務中尉，精通電腦機械的女性技術官員，在這次任務中為海動及真上的上司。
@@ -67,15 +66,12 @@
 
 ## 製作人員
 
-  - 原作 - [永井豪](../Page/永井豪.md "wikilink") /
-    [DYNAMIC企畫](https://zh.wikipedia.org/wiki/DYNAMIC企畫 "wikilink")
+  - 原作 - [永井豪](../Page/永井豪.md "wikilink") / [DYNAMIC企畫](https://zh.wikipedia.org/wiki/DYNAMIC企畫 "wikilink")
   - 企画 - DYNAMIC企畫
   - 構成・脚本 - [早川正](https://zh.wikipedia.org/wiki/早川正 "wikilink")
-  - 魔神皇帝SKL、威因古設計 -
-    [野中剛](https://zh.wikipedia.org/wiki/野中剛 "wikilink")（[PLEX](https://zh.wikipedia.org/wiki/PLEX "wikilink")）
+  - 魔神皇帝SKL、威因古設計 - [野中剛](https://zh.wikipedia.org/wiki/野中剛 "wikilink")（[PLEX](https://zh.wikipedia.org/wiki/PLEX "wikilink")）
   - 人物設定 - 伊藤岳史
-  - 機械設定 -
-    [阿部宗孝](https://zh.wikipedia.org/wiki/阿部宗孝 "wikilink")、堀井敏之、小川浩
+  - 機械設定 - [阿部宗孝](https://zh.wikipedia.org/wiki/阿部宗孝 "wikilink")、堀井敏之、小川浩
   - 美術 - 李凡善
   - 美術設定 - 坂本竜
   - 色彩設計 - [原田幸子](https://zh.wikipedia.org/wiki/原田幸子 "wikilink")
@@ -89,28 +85,23 @@
   - 音樂制作 - [Lantis](../Page/Lantis.md "wikilink")
   - 動畫製作 - [Actas](../Page/Actas.md "wikilink")
   - 動畫製作人 - 丸山俊平
-  - 製作人 -
-    徳原八州、永井一巨、南喜長、長谷部大樹、臼井久人、井上俊次、[森本浩二](https://zh.wikipedia.org/wiki/森本浩二 "wikilink")
+  - 製作人 - 徳原八州、永井一巨、南喜長、長谷部大樹、臼井久人、井上俊次、[森本浩二](https://zh.wikipedia.org/wiki/森本浩二 "wikilink")
   - 監督 - 川越淳
   - 製作 - 魔神皇帝製作委員会
 
 <!-- end list -->
 
   -
-    DYNAMIC企画、[Bandai
-    Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")、Lantis、シュウゲート、Emotion
+    DYNAMIC企画、[Bandai Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")、Lantis、シュウゲート、Emotion
 
 ## 主題曲
 
-  - 片頭曲「[The ETERNAL
-    SOLDIERS](https://zh.wikipedia.org/wiki/The_ETERNAL_SOLDIERS "wikilink")」
+  - 片頭曲「[The ETERNAL SOLDIERS](https://zh.wikipedia.org/wiki/The_ETERNAL_SOLDIERS "wikilink")」
 
 <!-- end list -->
 
   -
-    主唱 - [LOUDNESS](../Page/響度樂團.md "wikilink") / 作詞 -
-    [二井原實](https://zh.wikipedia.org/wiki/二井原實 "wikilink")、金澤隆志 /
-    作曲 - [高崎晃](../Page/高崎晃.md "wikilink") / 編曲 - LOUDNESS
+    主唱 - [LOUDNESS](../Page/響度樂團.md "wikilink") / 作詞 - [二井原實](https://zh.wikipedia.org/wiki/二井原實 "wikilink")、金澤隆志 / 作曲 - [高崎晃](../Page/高崎晃.md "wikilink") / 編曲 - LOUDNESS
 
 <!-- end list -->
 
@@ -119,8 +110,7 @@
 <!-- end list -->
 
   -
-    主唱 - [sadie](https://zh.wikipedia.org/wiki/sadie "wikilink") / 作詞 -
-    真緒 / 作曲、編曲 - Sadie
+    主唱 - [sadie](https://zh.wikipedia.org/wiki/sadie "wikilink") / 作詞 - 真緒 / 作曲、編曲 - Sadie
 
 <!-- end list -->
 
@@ -138,8 +128,7 @@
 <!-- end list -->
 
   -
-    歌・作詞 - [Rey](https://zh.wikipedia.org/wiki/Rey "wikilink") / 作曲 -
-    原田謙太 / 編曲 - 寺園健二
+    歌・作詞 - [Rey](https://zh.wikipedia.org/wiki/Rey "wikilink") / 作曲 - 原田謙太 / 編曲 - 寺園健二
 
 ## 各話標題
 
@@ -201,9 +190,7 @@
 
   - [超級機器人大戰BX](../Page/超級機器人大戰BX.md "wikilink")
 
-首次與《[真魔神
-衝擊！Z篇](../Page/真魔神_衝擊！Z篇.md "wikilink")》主角兜甲兒一起參戰，兜甲兒與海動劍及真上遼使出的合體技
-動力組合攻擊。
+首次與《[真魔神 衝擊！Z篇](../Page/真魔神_衝擊！Z篇.md "wikilink")》主角兜甲兒一起參戰，兜甲兒與海動劍及真上遼使出的合體技 動力組合攻擊。
 
 ## 注腳
 
@@ -211,10 +198,8 @@
 
   - [魔神皇帝SKL](http://www.mazinkaizer-skl.com/) - 官方網站
   - [ANIME FES "VS"官方網站](http://www.animefes-vs.jp/)
-  - [Bandai Channel ANIME FES
-    "VS"特集](http://www.b-ch.com/ant/contents/feat_animefes_vs/)
+  - [Bandai Channel ANIME FES "VS"特集](http://www.b-ch.com/ant/contents/feat_animefes_vs/)
 
-[Category:魔神](https://zh.wikipedia.org/wiki/Category:魔神 "wikilink")
-[Category:2011年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2011年日本OVA動畫 "wikilink")
+[Category:魔神](https://zh.wikipedia.org/wiki/Category:魔神 "wikilink") [Category:2011年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2011年日本OVA動畫 "wikilink")
 
 1.  [全日賞：日本動畫賞　佛光照追星女](http://hk.apple.nextmedia.com/entertainment/art/20110820/15539521)於[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink")

@@ -1,5 +1,4 @@
-《**What Really
-Matters**》是香港歌手[何韻詩的第六張錄音室專輯](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")，於2007年8月21日由[東亞唱片發行](../Page/東亞唱片_\(集團\).md "wikilink")。\[1\]\[2\]</ref>\[3\]
+《**What Really Matters**》是香港歌手[何韻詩的第六張錄音室專輯](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")，於2007年8月21日由[東亞唱片發行](../Page/東亞唱片_\(集團\).md "wikilink")。\[1\]\[2\]</ref>\[3\]
 
 ## 簡介
 
@@ -27,8 +26,7 @@ Matters**》是香港歌手[何韻詩的第六張錄音室專輯](https://zh.wik
 
 ### 歌曲《幽默感》
 
-  - [2007
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2007_CASH金帆音樂獎 "wikilink")－最佳另類作品（提名）
+  - [2007 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2007_CASH金帆音樂獎 "wikilink")－最佳另類作品（提名）
 
 ### 歌曲《大紅袍》
 
@@ -37,16 +35,12 @@ Matters**》是香港歌手[何韻詩的第六張錄音室專輯](https://zh.wik
 ### 歌曲《木紋》
 
   - [新城勁爆頒獎禮2007](../Page/2007年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城勁爆歌曲
-  - [2007年度叱咤樂壇流行榜頒獎典禮](../Page/2007年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")－專業推介
-    叱咤十大（第五位）
+  - [2007年度叱咤樂壇流行榜頒獎典禮](../Page/2007年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")－專業推介 叱咤十大（第五位）
   - [2007年度十大勁歌金曲頒獎典禮](../Page/2007年度十大勁歌金曲得獎名單.md "wikilink")－十大勁歌金曲
   - 2007年度TVB8金曲榜頒獎典禮－TVB8金曲榜金曲獎
-  - [2007
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2007_CASH金帆音樂獎 "wikilink")－最佳女歌手演繹（提名）
-  - [2007
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2007_CASH金帆音樂獎 "wikilink")－最佳歌詞（提名）
-  - [2007
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2007_CASH金帆音樂獎 "wikilink")－CASH最佳歌曲大獎（提名）
+  - [2007 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2007_CASH金帆音樂獎 "wikilink")－最佳女歌手演繹（提名）
+  - [2007 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2007_CASH金帆音樂獎 "wikilink")－最佳歌詞（提名）
+  - [2007 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2007_CASH金帆音樂獎 "wikilink")－CASH最佳歌曲大獎（提名）
 
 ### 歌曲《木紋（國語版）》
 
@@ -55,19 +49,13 @@ Matters**》是香港歌手[何韻詩的第六張錄音室專輯](https://zh.wik
 
 ## 外部連結
 
-  - [香港音樂網：What Really
-    Matters](http://lyric.musichk.org/main1/hocc9.htm)
-  - [SOSO音樂：What Really
-    Matters](https://web.archive.org/web/20120416144748/http://music.soso.com/portal/albumn/66/albumn_505558366.html)
-  - [蘋果日報：雙碟記：何韻詩《 What Really
-    Matters》踏實記憶](http://hk.apple.nextmedia.com/entertainment/art/20070915/10157847)
+  - [香港音樂網：What Really Matters](http://lyric.musichk.org/main1/hocc9.htm)
+  - [SOSO音樂：What Really Matters](https://web.archive.org/web/20120416144748/http://music.soso.com/portal/albumn/66/albumn_505558366.html)
+  - [蘋果日報：雙碟記：何韻詩《 What Really Matters》踏實記憶](http://hk.apple.nextmedia.com/entertainment/art/20070915/10157847)
 
 ## 參考文獻
 
-[Category:何韻詩音樂專輯](https://zh.wikipedia.org/wiki/Category:何韻詩音樂專輯 "wikilink")
-[Category:何韻詩粵語專輯](https://zh.wikipedia.org/wiki/Category:何韻詩粵語專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
+[Category:何韻詩音樂專輯](https://zh.wikipedia.org/wiki/Category:何韻詩音樂專輯 "wikilink") [Category:何韻詩粵語專輯](https://zh.wikipedia.org/wiki/Category:何韻詩粵語專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
 
 1.
 

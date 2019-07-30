@@ -1,5 +1,4 @@
-**《My Private
-Selection》**是香港女歌手[鍾嘉欣的第三張個人專輯](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，第一張新曲加精選，該專輯在2011年3月25日推出，共收錄18首歌曲（包括5首新曲及13首精選歌曲）及MV（包括2首新曲MV及8首精選歌曲MV），隨碟附送6款全新Postcard。銷量及評價不俗。\[1\]\[2\]
+**《My Private Selection》**是香港女歌手[鍾嘉欣的第三張個人專輯](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，第一張新曲加精選，該專輯在2011年3月25日推出，共收錄18首歌曲（包括5首新曲及13首精選歌曲）及MV（包括2首新曲MV及8首精選歌曲MV），隨碟附送6款全新Postcard。銷量及評價不俗。\[1\]\[2\]
 
 ## 曲目
 
@@ -214,7 +213,7 @@ Selection》**是香港女歌手[鍾嘉欣的第三張個人專輯](https://zh.w
 | 7\.  | 我不懂你                                   | Alex Lung                                                                   | 王仲傑                              |    |
 | 8\.  | 火柴天堂                                   | [熊天平](../Page/熊天平.md "wikilink")                                            | 張美賢                              |    |
 | 9\.  | 其實我不快樂                                 | [張家誠](../Page/張家誠.md "wikilink")                                            | 張美賢                              |    |
-| 10\. | 愛得起（與[鄭融合唱](../Page/鄭融.md "wikilink")） | [袁詠琳](../Page/袁詠琳.md "wikilink")                                            | 王仲傑                              |    |
+| 10\. | 愛得起（與[鄭融](../Page/鄭融.md "wikilink")合唱） | [袁詠琳](../Page/袁詠琳.md "wikilink")                                            | 王仲傑                              |    |
 
 ## 專輯派台歌曲成績（按派台次序）
 
@@ -286,36 +285,30 @@ Selection》**是香港女歌手[鍾嘉欣的第三張個人專輯](https://zh.w
 
 ## 曲目資料
 
-  - 第一首派台作品《If You Want Me》是改編自[Marketa
-    Irglova的同名歌曲](https://zh.wikipedia.org/wiki/Marketa_Irglova "wikilink")，亦是四台上榜歌曲。
+  - 第一首派台作品《If You Want Me》是改編自[Marketa Irglova的同名歌曲](https://zh.wikipedia.org/wiki/Marketa_Irglova "wikilink")，亦是四台上榜歌曲。
   - 《得閒找你》為第二首派台作品。
-  - 《I'll be waiting for
-    you》是改編自[金有京的歌曲](https://zh.wikipedia.org/wiki/金有京 "wikilink")《星光眼淚》。
+  - 《I'll be waiting for you》是改編自[金有京的歌曲](https://zh.wikipedia.org/wiki/金有京 "wikilink")《星光眼淚》。
   - 《愛得起（Solo Version）》是重新錄音的獨唱版本，改編袁詠琳、周杰倫歌曲《畫沙》。
-  - 《一人晚餐》改編自[歐得洋的](../Page/歐得洋.md "wikilink")《孤單北半球》。
-  - 《二人世界》改編自[蔡依林的](../Page/蔡依林.md "wikilink")《愛上了一條街》。
-  - 《火柴天堂》改編自[熊天平的](../Page/熊天平.md "wikilink")《火柴天堂》（國語）／《賣情人》（粵語）。
+  - 《一人晚餐》改編自[歐得洋](../Page/歐得洋.md "wikilink")的《孤單北半球》。
+  - 《二人世界》改編自[蔡依林](../Page/蔡依林.md "wikilink")的《愛上了一條街》。
+  - 《火柴天堂》改編自[熊天平](../Page/熊天平.md "wikilink")的《火柴天堂》（國語）／《賣情人》（粵語）。
   - 《過山車》、《有沒有她》、《日夜想你》皆為主唱者親自作曲的作品。
   - 《其實我不快樂》為第二首派台作品。
-  - 《浪漫無聲》改編自[林依晨的](../Page/林依晨.md "wikilink")《你》。
-  - 《戀愛令人心痛》是翻唱[周杰倫的作品](../Page/周杰倫.md "wikilink")，並與[韋雄合唱](../Page/韋雄.md "wikilink")。
-  - 《有一天》的歌曲由[鍾嘉欣與其哥哥](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[鍾偉權一起創作](https://zh.wikipedia.org/wiki/鍾偉權 "wikilink")，並找來[王祖藍填詞](../Page/王祖藍.md "wikilink")。
+  - 《浪漫無聲》改編自[林依晨](../Page/林依晨.md "wikilink")的《你》。
+  - 《戀愛令人心痛》是翻唱[周杰倫](../Page/周杰倫.md "wikilink")的作品，並與[韋雄](../Page/韋雄.md "wikilink")合唱。
+  - 《有一天》的歌曲由[鍾嘉欣與其哥哥](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[鍾偉權一起創作](https://zh.wikipedia.org/wiki/鍾偉權 "wikilink")，並找來[王祖藍](../Page/王祖藍.md "wikilink")填詞。
 
 ## 獎項
 
   - [勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")2010 - 第一回得獎歌曲（《愛得起》與鄭融合唱）
-  - [勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")2010 - 第一回得獎歌曲（《If You Want
-    Me》）
-  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")2010
-    - 最受歡迎合唱歌曲獎-銅獎（《愛得起》與鄭融合唱）
+  - [勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")2010 - 第一回得獎歌曲（《If You Want Me》）
+  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")2010 - 最受歡迎合唱歌曲獎-銅獎（《愛得起》與鄭融合唱）
 
 ## 參考資料
 
 <references/>
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:鍾嘉欣音樂專輯](https://zh.wikipedia.org/wiki/Category:鍾嘉欣音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:鍾嘉欣音樂專輯](https://zh.wikipedia.org/wiki/Category:鍾嘉欣音樂專輯 "wikilink")
 
 1.
 2.

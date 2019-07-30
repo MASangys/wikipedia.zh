@@ -251,16 +251,8 @@
 
   - [保罗·W·S·安德森](http://www.imdb.com/name/nm0027271/)在[IMDB的资料](https://zh.wikipedia.org/wiki/IMDB "wikilink")
   - [保罗·W·S·安德森](http://www.rottentomatoes.com/celebrity/paul_anderson/)在[烂番茄的资料](https://zh.wikipedia.org/wiki/烂番茄 "wikilink")
-  - [保罗·W·S·安德森](http://www.the-numbers.com/people/directors/PANDE.php)在The
-    Numbers的资料
-  - [保罗·W·S·安德森](http://www.boxofficemojo.com/people/chart/?view=Director&id=paulwsanderson.htm)在[Box
-    Office
-    Mojo的资料](https://zh.wikipedia.org/wiki/Box_Office_Mojo "wikilink")
+  - [保罗·W·S·安德森](http://www.the-numbers.com/people/directors/PANDE.php)在The Numbers的资料
+  - [保罗·W·S·安德森](http://www.boxofficemojo.com/people/chart/?view=Director&id=paulwsanderson.htm)在[Box Office Mojo的资料](https://zh.wikipedia.org/wiki/Box_Office_Mojo "wikilink")
   - [保罗·W·S·安德森官网](https://web.archive.org/web/20111007031213/http://www.paulwsanderson.co.uk/)
 
-[Category:1965年出生](https://zh.wikipedia.org/wiki/Category:1965年出生 "wikilink")
-[Category:英格兰电影导演](https://zh.wikipedia.org/wiki/Category:英格兰电影导演 "wikilink")
-[Category:英格兰编剧](https://zh.wikipedia.org/wiki/Category:英格兰编剧 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:在美国的英格兰人](https://zh.wikipedia.org/wiki/Category:在美国的英格兰人 "wikilink")
-[Category:男性编剧](https://zh.wikipedia.org/wiki/Category:男性编剧 "wikilink")
+[Category:1965年出生](https://zh.wikipedia.org/wiki/Category:1965年出生 "wikilink") [Category:英格兰电影导演](https://zh.wikipedia.org/wiki/Category:英格兰电影导演 "wikilink") [Category:英格兰编剧](https://zh.wikipedia.org/wiki/Category:英格兰编剧 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:在美国的英格兰人](https://zh.wikipedia.org/wiki/Category:在美国的英格兰人 "wikilink") [Category:男性编剧](https://zh.wikipedia.org/wiki/Category:男性编剧 "wikilink")

@@ -1,4 +1,4 @@
-**V.K克**（，）本名**許勤毅，**[臺灣](../Page/臺灣.md "wikilink")[基隆市人](../Page/基隆市.md "wikilink")，[新世紀音樂創作人及流行鋼琴](../Page/新世紀音樂.md "wikilink")[演奏家](https://zh.wikipedia.org/wiki/演奏家 "wikilink")。創作領域橫跨個人演奏專輯，電影配樂，電玩配樂，廣告配樂，並擔任多部電影音樂總監。\[1\]
+**V.K克**（，）本名**許勤毅，**[臺灣](../Page/臺灣.md "wikilink")[基隆市](../Page/基隆市.md "wikilink")人，[新世紀音樂](../Page/新世紀音樂.md "wikilink")創作人及流行鋼琴[演奏家](https://zh.wikipedia.org/wiki/演奏家 "wikilink")。創作領域橫跨個人演奏專輯，電影配樂，電玩配樂，廣告配樂，並擔任多部電影音樂總監。\[1\]
 
 ## 記錄&獎項
 
@@ -6,12 +6,10 @@
   - 專輯銷售蟬聯博客來音樂榜進榜100週。
   - 偶像自傳書《我就是我的無限大》博客來明星寫真榜TOP3。
   - 所有作品連續兩年皆進入博客來年度百大
-  - 作品《手掌心》＂丁噹＂演唱Youtube點閱率突破8千萬人次點閱。並獲蒙牛酸酸乳年度最佳影視歌曲（電視劇蘭陵王）
+  - 作品《手掌心》＂丁噹＂演唱Youtube點閱率突破1億人次點閱。並獲蒙牛酸酸乳年度最佳影視歌曲（電視劇蘭陵王）
   - 作品《手掌心》入圍 安徽衛視2013國劇盛典-最受觀眾喜愛電視劇歌曲
   - 《第三樂章》專輯主打歌曲，Evolution era 登上日本iTunes演奏榜冠軍 (2014,2015)
-  - 《到不了的地方》電影配樂入圍 [Apollo
-    Awards 2015(亞洲阿波羅影視大獎)](https://web.archive.org/web/20150920221446/http://apollo.onscreenasia.com/nominations-list)
-    最佳音樂音效
+  - 《到不了的地方》電影配樂入圍 [Apollo Awards 2015(亞洲阿波羅影視大獎)](https://web.archive.org/web/20150920221446/http://apollo.onscreenasia.com/nominations-list) 最佳音樂音效
   - 第9屆KKBOX數位音樂風雲榜 - 年度最佳電視原聲帶單曲獎《手掌心》
   - MusicRadio中國TOP排行榜頒獎典禮 - 年度最佳影視歌曲獎《手掌心》
   - Hito流行音樂頒獎典禮 - hito電視主題曲獎《手掌心》
@@ -24,11 +22,9 @@ V.K克4歲開始學琴，12歲開始嘗試作曲\[2\]。在14歲時診斷出罹�
 
 ## 音樂歷程
 
-華人演奏樂壇中著名的作曲鋼琴演奏家，同時也是台灣少有的跨界音樂代表性人物。連續兩張專輯登上KKBOX數位音樂排行榜演奏類第一名的好成績，第三張專輯主打歌「Evolution
-Era」更榮登日本iTunes演奏類冠軍。所出版之鋼琴譜集連續多年持續蟬聯於博客來銷售榜並年年入選年度百大商品。
+華人演奏樂壇中著名的作曲鋼琴演奏家，同時也是台灣少有的跨界音樂代表性人物。連續兩張專輯登上KKBOX數位音樂排行榜演奏類第一名的好成績，第三張專輯主打歌「Evolution Era」更榮登日本iTunes演奏類冠軍。所出版之鋼琴譜集連續多年持續蟬聯於博客來銷售榜並年年入選年度百大商品。
 
-V.K克如鬼才般不受侷限的創作風格深受各界青睞，創作領域橫跨個人演奏專輯，電影，電玩，廣告配樂，且擔任多部電影，電視劇音樂總監，打造多首令人驚艷的歌曲。如偶像劇歌姬丁噹所演唱的《蘭陵王》片尾曲「手掌心」及為金曲歌王蕭敬騰量身打造電影《到不了的地方》同名主題曲。2014年為大陸電視劇《離婚律師》製作配樂，並邀請范瑋琪演唱插曲「與愛為鄰」。
-同年也為台灣跨界國樂美少女團體『無双樂團』創作全新風格流行國樂曲。2015年與蘭陵王製作團隊再度攜手合作，為電視劇《千金女賊》製作戲劇配樂，並再次創作深情片尾情歌「桃花結」。V.K克的音樂在國際間也引起注目，演奏足跡橫跨歐洲、亞洲、美洲、中南美洲，國際粉絲不斷累積。
+V.K克如鬼才般不受侷限的創作風格深受各界青睞，創作領域橫跨個人演奏專輯，電影，電玩，廣告配樂，且擔任多部電影，電視劇音樂總監，打造多首令人驚艷的歌曲。如偶像劇歌姬丁噹所演唱的《蘭陵王》片尾曲「手掌心」及為金曲歌王蕭敬騰量身打造電影《到不了的地方》同名主題曲。2014年為大陸電視劇《離婚律師》製作配樂，並邀請范瑋琪演唱插曲「與愛為鄰」。 同年也為台灣跨界國樂美少女團體『無双樂團』創作全新風格流行國樂曲。2015年與蘭陵王製作團隊再度攜手合作，為電視劇《千金女賊》製作戲劇配樂，並再次創作深情片尾情歌「桃花結」。V.K克的音樂在國際間也引起注目，演奏足跡橫跨歐洲、亞洲、美洲、中南美洲，國際粉絲不斷累積。
 
 [八八風災時](https://zh.wikipedia.org/wiki/八八風災 "wikilink")，V.K克以單曲《愛‧無限》，協助捐款賑災。
 
@@ -40,8 +36,7 @@ V.K克如鬼才般不受侷限的創作風格深受各界青睞，創作領域�
 
 2011年7月1日，推出第一本偶像書籍《我就是我的無限大：V.K克樂譜寫真書》
 
-2011年12月，推出第二本個人創作琴譜《愛‧無限-鋼琴典藏琴譜Vol .2
-》(含2010愛無限演奏會全紀錄DVD與伴奏CD)，之後於2014推出無DVD版樂譜。
+2011年12月，推出第二本個人創作琴譜《愛‧無限-鋼琴典藏琴譜Vol .2 》(含2010愛無限演奏會全紀錄DVD與伴奏CD)，之後於2014推出無DVD版樂譜。
 
 2011年，V.K克為導演金馬獎導演李佑寧所拍攝之電影**麵引子**創作的電影配樂。
 
@@ -63,9 +58,7 @@ V.K克如鬼才般不受侷限的創作風格深受各界青睞，創作領域�
 
 2015年，受邀前往[羅馬等城市演出](https://zh.wikipedia.org/wiki/羅馬 "wikilink")，這是V.K克首次踏上南美與歐洲之演出。
 
-2015年12月2日，於日本出道，EXIT
-TUNES發行\[<https://web.archive.org/web/20151117022559/http://vk-japan.extsm.com/>　《Our
-Story Best of V.K》專輯\]。
+2015年12月2日，於日本出道，EXIT TUNES發行\[<https://web.archive.org/web/20151117022559/http://vk-japan.extsm.com/>　《Our Story Best of V.K》專輯\]。
 
 2015年12月16日，推出第四張《Our Story Best of V.K》創作+精選專輯
 
@@ -165,14 +158,12 @@ Story Best of V.K》專輯\]。
 ## 配樂作品
 
   - 《麵引子電影原聲帶－V.K克電影配樂作品》（2011年10月21日）：第一張[電影原聲帶](https://zh.wikipedia.org/wiki/電影原聲帶 "wikilink")[作品](../Page/作品.md "wikilink")，為[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")[麵引子所創作之](https://zh.wikipedia.org/wiki/麵引子 "wikilink")[配樂](https://zh.wikipedia.org/wiki/配樂 "wikilink")。
-  - 《到不了的地方》電影原聲帶 及
-    ["到不了的地方"電影主題曲](https://www.youtube.com/watch?v=3JT_iQbyBt4)
-    蕭敬騰演唱
+  - 《到不了的地方》電影原聲帶 及 ["到不了的地方"電影主題曲](https://www.youtube.com/watch?v=3JT_iQbyBt4) 蕭敬騰演唱
   - 《蘭陵王》電視劇配樂 及 片尾曲 手掌心 丁噹演唱
   - 《離婚律師》 電視劇配樂 及 插曲 與愛為鄰 范瑋琪 演唱
   - 《千金女賊》 電視劇配樂 及 片尾曲 桃花結 王詩安 演唱
   - 《幻城》 電視劇配樂
-  - [中華電視公司旗下頻道台呼](../Page/中華電視公司.md "wikilink")
+  - [中華電視公司](../Page/中華電視公司.md "wikilink")旗下頻道台呼
       - “Evolution era”：下個節目預告
       - 《紙飛機的冒險》：現在播出節目提示
   - [戀與製作人配樂BGM](../Page/恋与制作人.md "wikilink")
@@ -197,7 +188,7 @@ Story Best of V.K》專輯\]。
 
 由V.K克所編曲的《女神聯盟》手機遊戲主題曲《穿越時空》被發現其編曲風格與轉換技巧等方面疑似抄襲了《[魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")》的《コネクト》，
 
-而受到網友與部份作曲家批判，並造成V.K克於粉絲專頁道歉、與V.K克有合作關係的[雷亞遊戲宣佈不再採用其作品](../Page/雷亞遊戲.md "wikilink")。\[7\]\[8\]
+而受到網友與部份作曲家批判，並造成V.K克於粉絲專頁道歉、與V.K克有合作關係的[雷亞遊戲](../Page/雷亞遊戲.md "wikilink")宣佈不再採用其作品。\[7\]\[8\]
 
 ## 参考文献
 
@@ -211,21 +202,13 @@ Story Best of V.K》專輯\]。
   -
   -
   -
-[Category:台灣鋼琴家](https://zh.wikipedia.org/wiki/Category:台灣鋼琴家 "wikilink")
-[Category:许姓](https://zh.wikipedia.org/wiki/Category:许姓 "wikilink")
-[Category:基隆市人](https://zh.wikipedia.org/wiki/Category:基隆市人 "wikilink")
-[Category:國立臺北藝術大學校友](https://zh.wikipedia.org/wiki/Category:國立臺北藝術大學校友 "wikilink")
-[Category:台灣作曲家](https://zh.wikipedia.org/wiki/Category:台灣作曲家 "wikilink")
+[Category:台灣鋼琴家](https://zh.wikipedia.org/wiki/Category:台灣鋼琴家 "wikilink") [Category:许姓](https://zh.wikipedia.org/wiki/Category:许姓 "wikilink") [Category:基隆市人](https://zh.wikipedia.org/wiki/Category:基隆市人 "wikilink") [Category:國立臺北藝術大學校友](https://zh.wikipedia.org/wiki/Category:國立臺北藝術大學校友 "wikilink") [Category:台灣作曲家](https://zh.wikipedia.org/wiki/Category:台灣作曲家 "wikilink")
 
-1.  [V.K克即興-in Rayark Live
-    Concert 2013](https://www.youtube.com/watch?v=JWpzVFt2co0)
+1.  [V.K克即興-in Rayark Live Concert 2013](https://www.youtube.com/watch?v=JWpzVFt2co0)
 2.
 3.
-4.  [【2013/02/04】 【夢想的軌跡】 Traces of
-    Dreams](http://vk-style.com/?lan=cht&pag=news&id=134)
-5.  [V.K克【蘭陵王】テーマ曲＜雪舞＞Music Video
-    【雪舞】官方MV-電視劇交響主題曲](https://www.youtube.com/watch?v=r2KlbmwA44Q)
+4.  [【2013/02/04】 【夢想的軌跡】 Traces of Dreams](http://vk-style.com/?lan=cht&pag=news&id=134)
+5.  [V.K克【蘭陵王】テーマ曲＜雪舞＞Music Video 【雪舞】官方MV-電視劇交響主題曲](https://www.youtube.com/watch?v=r2KlbmwA44Q)
 6.  [【公告】【V.K克加盟成為小巨人音樂國際有限公司旗下藝人】](http://vkstylemusic.blogspot.tw/2013/12/blog-post.html)
-7.   aniarc news
-    動漫新聞|accessdate=2017-12-30|author=|date=2016-05-13|publisher=|deadurl=yes|archiveurl=[https://web.archive.org/web/20160513052810/http://news.aniarc.com/news/143482/%E9%9F%B3%E6%A8%82%E4%BA%BAv-k%E5%85%8B-%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA%E9%A1%9E%E4%BC%BC%E5%B0%8F%E5%9C%93%E9%81%93%E6%AD%89|archivedate=2016-05-13](https://web.archive.org/web/20160513052810/http://news.aniarc.com/news/143482/%E9%9F%B3%E6%A8%82%E4%BA%BAv-k%E5%85%8B-%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA%E9%A1%9E%E4%BC%BC%E5%B0%8F%E5%9C%93%E9%81%93%E6%AD%89%7Carchivedate=2016-05-13)}}
+7.   aniarc news 動漫新聞|accessdate=2017-12-30|author=|date=2016-05-13|publisher=|deadurl=yes|archiveurl=[https://web.archive.org/web/20160513052810/http://news.aniarc.com/news/143482/%E9%9F%B3%E6%A8%82%E4%BA%BAv-k%E5%85%8B-%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA%E9%A1%9E%E4%BC%BC%E5%B0%8F%E5%9C%93%E9%81%93%E6%AD%89|archivedate=2016-05-13](https://web.archive.org/web/20160513052810/http://news.aniarc.com/news/143482/%E9%9F%B3%E6%A8%82%E4%BA%BAv-k%E5%85%8B-%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA%E9%A1%9E%E4%BC%BC%E5%B0%8F%E5%9C%93%E9%81%93%E6%AD%89%7Carchivedate=2016-05-13)}}
 8.

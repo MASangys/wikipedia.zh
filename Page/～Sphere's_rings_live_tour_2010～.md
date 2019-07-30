@@ -1,14 +1,10 @@
-『**～Sphere's rings live tour 2010～**』（スフィアーズ・リングス・ライブツアーにせんじゅう）是
-[sphere的第一張live的影像作品](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")。於2011年1月1日由[GloryHeaven以](../Page/Lantis.md "wikilink")[BD](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD發售](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+『**～Sphere's rings live tour 2010～**』（スフィアーズ・リングス・ライブツアーにせんじゅう）是 [sphere的第一張live的影像作品](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")。於2011年1月1日由[GloryHeaven以](../Page/Lantis.md "wikilink")[BD](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD發售](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要
 
-  - 收錄2010年4月18日至7月25日舉行的巡迴演唱會『〜Sphere's rings live tour
-    2010〜』在[NHK大廳最終公演的演出](https://zh.wikipedia.org/wiki/NHK大廳 "wikilink")。
+  - 收錄2010年4月18日至7月25日舉行的巡迴演唱會『〜Sphere's rings live tour 2010〜』在[NHK大廳最終公演的演出](https://zh.wikipedia.org/wiki/NHK大廳 "wikilink")。
   - 以[BD](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD取得各成員的獨唱樂曲](https://zh.wikipedia.org/wiki/DVD "wikilink")。
-  - 『〜Sphere's rings live tour 2010〜 FINAL　LIVE BD plus sphere in
-    3D』與『〜Sphere's rings live tour 2010〜 FINAL　LIVE
-    DVD』的2種方式發行，前者live的3D影像收錄在特典上。
+  - 『〜Sphere's rings live tour 2010〜 FINAL　LIVE BD plus sphere in 3D』與『〜Sphere's rings live tour 2010〜 FINAL　LIVE DVD』的2種方式發行，前者live的3D影像收錄在特典上。
 
 ## 收錄内容
 
@@ -78,7 +74,7 @@
 
 | 公演數 | 開催日   | 会場                                                                |
 | --- | ----- | ----------------------------------------------------------------- |
-| 01  | 4月18日 | [東京國際論壇A](../Page/東京國際論壇.md "wikilink")                           |
+| 01  | 4月18日 | [東京國際論壇](../Page/東京國際論壇.md "wikilink")A                           |
 | 02  | 4月25日 | [徳島市立文化中心](https://zh.wikipedia.org/wiki/徳島市立文化中心 "wikilink")     |
 | 03  | 5月16日 | [福岡国際会議場大廳](https://zh.wikipedia.org/wiki/福岡国際会議場 "wikilink")     |
 | 04  | 5月23日 | [愛知縣芸術劇場大廳](https://zh.wikipedia.org/wiki/愛知縣芸術劇場 "wikilink")     |
@@ -95,8 +91,7 @@
 
   - live名稱是『**Sphere in 3D 屏幕 〜Sphere's rings live tour 2010〜 FINAL**』。
   - 2010年7月25日在日本全国8個地方開催。
-  - 2010年12月3D光碟收錄部分主體的上映會，同年
-    11月23日在[日本武道館舉辦的live影像以直播形式播放](../Page/日本武道館.md "wikilink")。
+  - 2010年12月3D光碟收錄部分主體的上映會，同年 11月23日在[日本武道館](../Page/日本武道館.md "wikilink")舉辦的live影像以直播形式播放。
 
 <!-- end list -->
 
@@ -116,11 +111,8 @@
 ## 外部連結
 
   - Lantis介紹網頁
-      - [〜Sphere's rings live tour 2010〜 FINAL　LIVE BD plus スフィア
-        in 3D](http://lantis.jp/new-release/data.php?id=1da2aa374500bd32bf47ca9fbdf3a241)
-      - [〜Sphere's rings live tour 2010〜 FINAL　LIVE
-        DVD](http://lantis.jp/new-release/data.php?id=c2ed30efc8417a33b8b2d60e4536cb4f)
+      - [〜Sphere's rings live tour 2010〜 FINAL　LIVE BD plus スフィア in 3D](http://lantis.jp/new-release/data.php?id=1da2aa374500bd32bf47ca9fbdf3a241)
+      - [〜Sphere's rings live tour 2010〜 FINAL　LIVE DVD](http://lantis.jp/new-release/data.php?id=c2ed30efc8417a33b8b2d60e4536cb4f)
   - [Pl@net sphere](http://www.planet-sphere.jp/)（公式網頁）
 
-[Category:Sphere](https://zh.wikipedia.org/wiki/Category:Sphere "wikilink")
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
+[Category:Sphere](https://zh.wikipedia.org/wiki/Category:Sphere "wikilink") [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")

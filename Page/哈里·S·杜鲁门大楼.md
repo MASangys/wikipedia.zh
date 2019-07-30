@@ -1,5 +1,4 @@
-**哈里·S·杜鲁门大楼**（**Harry S. Truman
-Building**）位于[美国首都](../Page/美国.md "wikilink")[华盛顿特区](https://zh.wikipedia.org/wiki/华盛顿特区 "wikilink")[雾谷](https://zh.wikipedia.org/wiki/雾谷 "wikilink")，是[美国国务院总部和](../Page/美国国务院.md "wikilink")[美国国务卿办公室所在地](../Page/美国国务卿.md "wikilink")，以[美国总统](../Page/美国总统.md "wikilink")[哈里·S·杜鲁门命名](../Page/哈里·S·杜鲁门.md "wikilink")。
+**哈里·S·杜鲁门大楼**（**Harry S. Truman Building**）位于[美国](../Page/美国.md "wikilink")首都[华盛顿特区](https://zh.wikipedia.org/wiki/华盛顿特区 "wikilink")[雾谷](https://zh.wikipedia.org/wiki/雾谷 "wikilink")，是[美国国务院](../Page/美国国务院.md "wikilink")总部和[美国国务卿](../Page/美国国务卿.md "wikilink")办公室所在地，以[美国总统](../Page/美国总统.md "wikilink")[哈里·S·杜鲁门](../Page/哈里·S·杜鲁门.md "wikilink")命名。
 
 ## 周边
 
@@ -12,5 +11,4 @@ Building**）位于[美国首都](../Page/美国.md "wikilink")[华盛顿特区]
 
   - [美国国务院官方网站](http://www.state.gov/)
 
-[Category:华盛顿哥伦比亚特区政府建筑物](https://zh.wikipedia.org/wiki/Category:华盛顿哥伦比亚特区政府建筑物 "wikilink")
-[Category:美国国务院](https://zh.wikipedia.org/wiki/Category:美国国务院 "wikilink")
+[Category:华盛顿哥伦比亚特区政府建筑物](https://zh.wikipedia.org/wiki/Category:华盛顿哥伦比亚特区政府建筑物 "wikilink") [Category:美国国务院](https://zh.wikipedia.org/wiki/Category:美国国务院 "wikilink")

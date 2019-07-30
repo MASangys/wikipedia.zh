@@ -28,7 +28,7 @@
 <td><p><a href="../Page/香港.md" title="wikilink">香港</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紅磡體育館" title="wikilink">紅磡體育館</a></p></td>
 <td><p><a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a>、<a href="https://zh.wikipedia.org/wiki/葉倩文" title="wikilink">葉倩文</a><br />
-<a href="../Page/張衛健.md" title="wikilink">張衛健</a>、<a href="../Page/草蜢.md" title="wikilink">草蜢</a></p></td>
+<a href="../Page/張衛健.md" title="wikilink">張衛健</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2002年9月14日</p></td>
@@ -85,5 +85,4 @@
 
 ## 參考文獻
 
-[Category:Twins](https://zh.wikipedia.org/wiki/Category:Twins "wikilink")
-[Category:Twins巡迴演唱會](https://zh.wikipedia.org/wiki/Category:Twins巡迴演唱會 "wikilink")
+[Category:Twins](https://zh.wikipedia.org/wiki/Category:Twins "wikilink") [Category:Twins巡迴演唱會](https://zh.wikipedia.org/wiki/Category:Twins巡迴演唱會 "wikilink")

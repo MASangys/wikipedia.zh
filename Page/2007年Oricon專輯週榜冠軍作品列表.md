@@ -1,7 +1,6 @@
-**2007年Oricon專輯週榜冠軍作品列表**列出2008年度曾經登上[Oricon公信榜專輯週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
+**2007年Oricon專輯週榜冠軍作品列表**列出2008年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜冠軍的[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
 
-全年共有41張冠軍專輯誕生。獲得冠軍週數最多的是[倖田來未的專輯](../Page/倖田來未.md "wikilink")《[Black
-Cherry](../Page/Black_Cherry_\(倖田來未專輯\).md "wikilink")》（4週）。
+全年共有41張冠軍專輯誕生。獲得冠軍週數最多的是[倖田來未](../Page/倖田來未.md "wikilink")的專輯《[Black Cherry](../Page/Black_Cherry_\(倖田來未專輯\).md "wikilink")》（4週）。
 
 ## 冠軍專輯列表
 
@@ -448,5 +447,4 @@ Cherry](../Page/Black_Cherry_\(倖田來未專輯\).md "wikilink")》（4週）�
 
   - [2007年每週公信榜統計數據](https://web.archive.org/web/20100815001911/http://www.musictvprogram.com/oricon2007.html)
 
-[Category:2007年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink")
+[Category:2007年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯週榜冠軍作品 "wikilink") [Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink")

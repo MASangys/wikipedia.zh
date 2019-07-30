@@ -21,6 +21,4 @@ iJab同时还开发了类似于[Facebook](../Page/Facebook.md "wikilink")聊天�
   - [iJab演示](https://web.archive.org/web/20100301120235/http://samespace.anzsoft.com/webim/iJab/iJab.html)
   - [iJabBar演示](https://web.archive.org/web/20090923181302/http://samespace.anzsoft.com/webim/iJabBar/index.html)
 
-[Category:AJAX](https://zh.wikipedia.org/wiki/Category:AJAX "wikilink")
-[Category:自由的即时通讯软件](https://zh.wikipedia.org/wiki/Category:自由的即时通讯软件 "wikilink")
-[Category:Jabber客户端](https://zh.wikipedia.org/wiki/Category:Jabber客户端 "wikilink")
+[Category:AJAX](https://zh.wikipedia.org/wiki/Category:AJAX "wikilink") [Category:自由的即时通讯软件](https://zh.wikipedia.org/wiki/Category:自由的即时通讯软件 "wikilink") [Category:Jabber客户端](https://zh.wikipedia.org/wiki/Category:Jabber客户端 "wikilink")

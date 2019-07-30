@@ -1,101 +1,60 @@
-**Dal★Shabet**（）是[Happy
-Face娛樂在](../Page/Happy_Face娛樂.md "wikilink")2011年推出的女子團體，出道時成員包括、[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、、[佳恩](../Page/佳恩_\(1992年出生\).md "wikilink")、[秀彬](../Page/秀彬.md "wikilink")。粉絲名稱為「Darling」。
+**Dal★Shabet**（）是[Happy Face娛樂在](../Page/Happy_Face娛樂.md "wikilink")2011年推出的女子團體，出道時成員包括、[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、、[佳恩](../Page/佳恩_\(1992年出生\).md "wikilink")、[秀彬](../Page/秀彬.md "wikilink")。粉絲名稱為「Darling」。
 
 ## 摘要
 
-Dal★Shabet的意思是甜[-{zh-cn:雪葩;zh-tw:雪酪;zh-hk:雪葩;}-](https://zh.wikipedia.org/wiki/雪葩 "wikilink")，自身定位為擁有甜美而獨特音色的團體，粉絲的名稱經過官方票選後定為Darling。Dal★Shabet由E-TRIBE打造，E-TRIBE曾為[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[Super
-Junior](../Page/Super_Junior.md "wikilink")、[李孝利等人製做過熱門歌曲](../Page/李孝利.md "wikilink")\[1\]。成員們都是從小就學習唱歌、[舞蹈](../Page/舞蹈.md "wikilink")，在成為練習生之前就已進行專業訓練，為出道打好了底子\[2\]，出道前也上過[SBS電視臺的節目](../Page/SBS_\(韓國\).md "wikilink")《[金諪恩的巧克力](../Page/金諪恩的巧克力.md "wikilink")》，這在韓國是很例外的，其中成員、[世理](../Page/世理.md "wikilink")、與[雅英是同德女子大學](../Page/雅英.md "wikilink")[廣播系的同學](https://zh.wikipedia.org/wiki/廣播 "wikilink")，[佳恩與](../Page/佳恩_\(1992年出生\).md "wikilink")[秀彬則有](../Page/秀彬.md "wikilink")[模特兒經驗](../Page/模特兒.md "wikilink")。另外，她們曾在接受[訪問時表示有進軍](https://zh.wikipedia.org/wiki/訪問 "wikilink")[日本的打算](../Page/日本.md "wikilink")，若有機會還想發展[歐美市場](https://zh.wikipedia.org/wiki/歐美 "wikilink")\[3\]。
+Dal★Shabet的意思是甜[-{zh-cn:雪葩;zh-tw:雪酪;zh-hk:雪葩;}-](https://zh.wikipedia.org/wiki/雪葩 "wikilink")，自身定位為擁有甜美而獨特音色的團體，粉絲的名稱經過官方票選後定為Darling。Dal★Shabet由E-TRIBE打造，E-TRIBE曾為[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[Super Junior](../Page/Super_Junior.md "wikilink")、[李孝利](../Page/李孝利.md "wikilink")等人製做過熱門歌曲\[1\]。成員們都是從小就學習唱歌、[舞蹈](../Page/舞蹈.md "wikilink")，在成為練習生之前就已進行專業訓練，為出道打好了底子\[2\]，出道前也上過[SBS電視臺的節目](../Page/SBS_\(韓國\).md "wikilink")《[金諪恩的巧克力](../Page/金諪恩的巧克力.md "wikilink")》，這在韓國是很例外的，其中成員、[世理](../Page/世理.md "wikilink")、與[雅英](../Page/雅英.md "wikilink")是同德女子大學[廣播系的同學](https://zh.wikipedia.org/wiki/廣播 "wikilink")，[佳恩與](../Page/佳恩_\(1992年出生\).md "wikilink")[秀彬](../Page/秀彬.md "wikilink")則有[模特兒](../Page/模特兒.md "wikilink")經驗。另外，她們曾在接受[訪問時表示有進軍](https://zh.wikipedia.org/wiki/訪問 "wikilink")[日本](../Page/日本.md "wikilink")的打算，若有機會還想發展[歐美市場](https://zh.wikipedia.org/wiki/歐美 "wikilink")\[3\]。
 
 ## 經歷
 
 ### 2010年：迷你一輯《Supa Dupa Diva》
 
-2010年12月15日公開了[MV拍攝現場的照片受到關注](https://zh.wikipedia.org/wiki/MV "wikilink")，12月29日公開團體成員照片，2011年1月4日發佈[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《[Supa
-Dupa
-Diva](https://zh.wikipedia.org/wiki/Supa_Dupa_Diva "wikilink")》正式出道，并在官網及[音源網站公布專輯歌曲](https://zh.wikipedia.org/wiki/音源 "wikilink")\[4\]，此張專輯由E-TRIBE製做，主打歌為韓國第一次嘗試[鄉村音樂與Urban](https://zh.wikipedia.org/wiki/鄉村音樂 "wikilink")
-R\&B結合的感覺。
+2010年12月15日公開了[MV拍攝現場的照片受到關注](https://zh.wikipedia.org/wiki/MV "wikilink")，12月29日公開團體成員照片，2011年1月4日發佈[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《[Supa Dupa Diva](https://zh.wikipedia.org/wiki/Supa_Dupa_Diva "wikilink")》正式出道，并在官網及[音源網站公布專輯歌曲](https://zh.wikipedia.org/wiki/音源 "wikilink")\[4\]，此張專輯由E-TRIBE製做，主打歌為韓國第一次嘗試[鄉村音樂與Urban](https://zh.wikipedia.org/wiki/鄉村音樂 "wikilink") R\&B結合的感覺。
 
 ### 2011年：迷你二輯《Pink Rocket》、迷你三輯《Bling Bling》
 
-2011年4月5日公開了第二張迷你專輯《Pink Rocket》的專輯照，4月11日發佈此專輯主打歌《Pink
-Rocket》的MV預告，4月14日正式發售迷你專輯《Pink Rocket》並在此日於《[M
-Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》表演正式回歸，主打歌題材為粉色浪漫[愛情乘坐](../Page/愛情.md "wikilink")[火箭飛翔](../Page/火箭.md "wikilink")\[5\]，此專輯仍為E-TRIBE製做。
-在同年的8月3日，Dal★Shabet公開了新專輯《Bling
-Bling》專輯概念照，這次她們將以70年代和80年代的龐克和Disco兩種混合的風格為主。\[6\]。8月8日，公開了同名主打曲《Bling
-Bling》的MV預告\[7\]，在8月10日公開完整版MV。\[8\]
+2011年4月5日公開了第二張迷你專輯《Pink Rocket》的專輯照，4月11日發佈此專輯主打歌《Pink Rocket》的MV預告，4月14日正式發售迷你專輯《Pink Rocket》並在此日於《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》表演正式回歸，主打歌題材為粉色浪漫[愛情](../Page/愛情.md "wikilink")乘坐[火箭](../Page/火箭.md "wikilink")飛翔\[5\]，此專輯仍為E-TRIBE製做。 在同年的8月3日，Dal★Shabet公開了新專輯《Bling Bling》專輯概念照，這次她們將以70年代和80年代的龐克和Disco兩種混合的風格為主。\[6\]。8月8日，公開了同名主打曲《Bling Bling》的MV預告\[7\]，在8月10日公開完整版MV。\[8\]
 
 ### 2012年：成員更替、迷你四輯《Hit U》、正規一輯《BANG BANG》、迷你五輯《Have, Don't Have(있기 없기)》
 
-在2012年1月16日正式公開了專輯《Hit U》封面照\[9\]，1月17日公開了《Hit
-U》的MV預告\[10\]，而在1月27日公開了《Hit U》完整MV
-\[11\]，並在同日在[音樂銀行中回歸](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。\[12\]
-同年5月24日在即將推出首張正規專輯前，隊長因想以個人身份活動而宣佈退出團體\[13\]，由新成員[優熙遞補其空缺維持六人形式](../Page/優熙.md "wikilink")。
-2012年5月30日公開加入新成員後的首張專輯合照，6月7日正式發售首張正規專輯《BANG BANG》。 11月9日，
-Dal★Shabet公開了第5張迷你專輯《Have, Don't Have》MV 預告\[14\]，《Have, Don't
-Have》這是一首有著讓人中毒 Disco 曲風歌曲。同時，歌詞是講述一個女孩對心愛的人表現感情的故事。這支 MV
-也共拍攝了兩種不同的版本，分別是「Have」與「Don't
-Have」。11月13日，公開了《Have, Don't Have》的音源\[15\]。
+在2012年1月16日正式公開了專輯《Hit U》封面照\[9\]，1月17日公開了《Hit U》的MV預告\[10\]，而在1月27日公開了《Hit U》完整MV \[11\]，並在同日在[音樂銀行中回歸](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。\[12\] 同年5月24日在即將推出首張正規專輯前，隊長因想以個人身份活動而宣佈退出團體\[13\]，由新成員[優熙](../Page/優熙.md "wikilink")遞補其空缺維持六人形式。 2012年5月30日公開加入新成員後的首張專輯合照，6月7日正式發售首張正規專輯《BANG BANG》。 11月9日， Dal★Shabet公開了第5張迷你專輯《Have, Don't Have》MV 預告\[14\]，《Have, Don't Have》這是一首有著讓人中毒 Disco 曲風歌曲。同時，歌詞是講述一個女孩對心愛的人表現感情的故事。這支 MV 也共拍攝了兩種不同的版本，分別是「Have」與「Don't Have」。11月13日，公開了《Have, Don't Have》的音源\[15\]。
 
 ### 2013年：迷你六輯《Be Ambitious(내 다리를 봐)》
 
-Dal★Shabet預計在2013年6月20日回歸，並在6月12日釋出了回歸主打歌《Be Ambitious》MV預告\[16\]，這次的 MV
-預告風格相當特別，成員們的頭部分別以小動物遮擋，俏皮的風格、穿著均一長袖韻律服裝類的成員們秀出了她們廣告般漂亮的長腿，最後的團名 logo
-上也有一雙腿，代替兔子的耳朵，整個 “D"
-字就是一隻俏皮的兔子。在6月14日，公開了回歸概念照\[17\]，並在20日當日發表了迷你6輯《Be
-Ambitious》和主打歌《Look At My Legs (Be Ambitious)(내 다리를 봐)》\[18\]。
+Dal★Shabet預計在2013年6月20日回歸，並在6月12日釋出了回歸主打歌《Be Ambitious》MV預告\[16\]，這次的 MV 預告風格相當特別，成員們的頭部分別以小動物遮擋，俏皮的風格、穿著均一長袖韻律服裝類的成員們秀出了她們廣告般漂亮的長腿，最後的團名 logo 上也有一雙腿，代替兔子的耳朵，整個 “D" 字就是一隻俏皮的兔子。在6月14日，公開了回歸概念照\[17\]，並在20日當日發表了迷你6輯《Be Ambitious》和主打歌《Look At My Legs (Be Ambitious)(내 다리를 봐)》\[18\]。
 
 ### 2014年：迷你七輯《B.B.B (Big Baby Baby)》
 
-Dal★Shabet所屬公司Happy Face
-Entertainment在1月2日無預警釋出回歸概念照\[19\]。並以成熟女人的形象發行第七張迷你專輯《B.B.B
-(Big Baby Baby)》回歸。
+Dal★Shabet所屬公司Happy Face Entertainment在1月2日無預警釋出回歸概念照\[19\]。並以成熟女人的形象發行第七張迷你專輯《B.B.B (Big Baby Baby)》回歸。
 
-成員[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、、[佳恩](../Page/佳恩_\(1992年出生\).md "wikilink")、[秀彬於](../Page/秀彬.md "wikilink")2014年年末與台灣新人女子團體[Twinko合作拍攝創意方城市廣告](../Page/Twinko.md "wikilink")，並合唱廣告主題曲。
+成員[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、、[佳恩](../Page/佳恩_\(1992年出生\).md "wikilink")、[秀彬](../Page/秀彬.md "wikilink")於2014年年末與台灣新人女子團體[Twinko](../Page/Twinko.md "wikilink")合作拍攝創意方城市廣告，並合唱廣告主題曲。
 
 ### 2015年：迷你八輯《JOKER IS ALIVE》、成員退出
 
-Dal★Shabet所屬公司Happy Face
-Entertainment在3月26日宣佈確定於4月15日時隔一年三個月發表全新迷你專輯回歸\[20\]，並以由新銳作曲家
-Neevers (니버스)
-負責製作，而成員及[佳恩更參與了作詞的工作](../Page/佳恩_\(1992年出生\).md "wikilink")。在4月6日，公司在Facebook公開了專輯的曲目表，[秀彬更親自擔任專輯製作人](../Page/秀彬.md "wikilink")\[21\]，並在8日公開了個人及專輯封面照。在4月15日中午公開迷你八輯《JOKER
-IS
-ALIVE》音源與主打歌《Joker》\[22\]。而同日經紀公司透露主打歌曲《Joker》未能通過[KBS的審查](https://zh.wikipedia.org/wiki/KBS "wikilink")，因此已經重新修改歌詞，遞交給KBS重新審查，但因此Dal★Shabet未能於17日的[音樂銀行放送中演出回歸舞台](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。
+Dal★Shabet所屬公司Happy Face Entertainment在3月26日宣佈確定於4月15日時隔一年三個月發表全新迷你專輯回歸\[20\]，並以由新銳作曲家 Neevers (니버스) 負責製作，而成員及[佳恩更參與了作詞的工作](../Page/佳恩_\(1992年出生\).md "wikilink")。在4月6日，公司在Facebook公開了專輯的曲目表，[秀彬](../Page/秀彬.md "wikilink")更親自擔任專輯製作人\[21\]，並在8日公開了個人及專輯封面照。在4月15日中午公開迷你八輯《JOKER IS ALIVE》音源與主打歌《Joker》\[22\]。而同日經紀公司透露主打歌曲《Joker》未能通過[KBS的審查](https://zh.wikipedia.org/wiki/KBS "wikilink")，因此已經重新修改歌詞，遞交給KBS重新審查，但因此Dal★Shabet未能於17日的[音樂銀行放送中演出回歸舞台](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。
 
-12月8日，[Happy
-Face娛樂表示成員](../Page/Happy_Face娛樂.md "wikilink")、[佳恩與公司的合約將於](../Page/佳恩_\(1992年出生\).md "wikilink")12月底到期，此後將結束團內活動，以個人身份與大家見面。今後，**祉潏**將專注於影視活動，**佳恩**將在時尚領域活動，兩人均將為了自己的夢想繼續奮鬥。此外，兩人還透過粉絲俱樂部親自與粉絲們道別，向一如既往地支持並喜愛她們的粉絲表示了感謝。
-**祉潏**留言表示，今後將以演員的身份與大家見面，並向公司、工作人員、成員等表示了感謝。**佳恩**也表示，希望自己參與的Dal★Shabet最後一個行程能如平常一樣愉快，便沒有提前告訴大家，為此向粉絲們表達了歉意及謝意。\[23\]\[24\]\[25\]
+12月8日，[Happy Face娛樂表示成員](../Page/Happy_Face娛樂.md "wikilink")、[佳恩與公司的合約將於](../Page/佳恩_\(1992年出生\).md "wikilink")12月底到期，此後將結束團內活動，以個人身份與大家見面。今後，**祉潏**將專注於影視活動，**佳恩**將在時尚領域活動，兩人均將為了自己的夢想繼續奮鬥。此外，兩人還透過粉絲俱樂部親自與粉絲們道別，向一如既往地支持並喜愛她們的粉絲表示了感謝。 **祉潏**留言表示，今後將以演員的身份與大家見面，並向公司、工作人員、成員等表示了感謝。**佳恩**也表示，希望自己參與的Dal★Shabet最後一個行程能如平常一樣愉快，便沒有提前告訴大家，為此向粉絲們表達了歉意及謝意。\[23\]\[24\]\[25\]
 
 ### 2016年：迷你九輯《Naturalness》、秀彬首兩張個人數位單曲《花》、《這𥚃》、迷你十輯《FRI. SAT. SUN》
 
-2016年12月22日，四人體制的 Dal★Shabet 於官方
-[Facebook](../Page/Facebook.md "wikilink")
-公開第九張迷你專輯《Naturalness》的回歸預告照，並發表回歸日期為1月5日，並在期間公開不同的概念照和預告。
+2016年12月22日，四人體制的 Dal★Shabet 於官方 [Facebook](../Page/Facebook.md "wikilink") 公開第九張迷你專輯《Naturalness》的回歸預告照，並發表回歸日期為1月5日，並在期間公開不同的概念照和預告。
 
 1月5日，公開專輯音源和主打曲《和你一樣》MV。
 
-5月9日，[Happy
-Face娛樂宣布成員](../Page/Happy_Face娛樂.md "wikilink")[秀彬將於](../Page/秀彬.md "wikilink")12日發行數位單曲《花》，並公開兩張概念照。12日，官方公開秀彬首張單曲《花》全輯音源。6月16日，Happy
-Face 娛樂於官方 Facebook 留言：「2016.06.20 PM 12:00，秀彬 SINGLE PART.2 《這裡(이
-곳)》，並公開專輯概念照。
+5月9日，[Happy Face娛樂宣布成員](../Page/Happy_Face娛樂.md "wikilink")[秀彬](../Page/秀彬.md "wikilink")將於12日發行數位單曲《花》，並公開兩張概念照。12日，官方公開秀彬首張單曲《花》全輯音源。6月16日，Happy Face 娛樂於官方 Facebook 留言：「2016.06.20 PM 12:00，秀彬 SINGLE PART.2 《這裡(이 곳)》，並公開專輯概念照。
 
 9月29日，發行第十張迷你專輯《FRI. SAT. SUN》。
 
-### 2017年：部分成員參加[The Unit](../Page/The_Unit.md "wikilink")，成員[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、[秀彬合約到期不續約](../Page/秀彬.md "wikilink")
+### 2017年：部分成員參加[The Unit](../Page/The_Unit.md "wikilink")，成員[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、[秀彬](../Page/秀彬.md "wikilink")合約到期不續約
 
-10月28日，成員[世理](../Page/世理.md "wikilink")、[優熙參加The](../Page/優熙.md "wikilink")
-Unit。
+10月28日，成員[世理](../Page/世理.md "wikilink")、[優熙](../Page/優熙.md "wikilink")參加The Unit。
 
-12月14日，[Happy
-Face娛樂宣布成員](../Page/Happy_Face娛樂.md "wikilink")[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、[秀彬合約到期](../Page/秀彬.md "wikilink")，三人皆不續約，離開公司。公司聲明會繼續辦理世理的The
-Unit 事務。\[26\]
+12月14日，[Happy Face娛樂宣布成員](../Page/Happy_Face娛樂.md "wikilink")[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、[秀彬](../Page/秀彬.md "wikilink")合約到期，三人皆不續約，離開公司。公司聲明會繼續辦理世理的The Unit 事務。\[26\]
 
-### 2018年：[優熙The](../Page/優熙.md "wikilink") Unit 成功出道、合約到期不續約
+### 2018年：[優熙](../Page/優熙.md "wikilink")The Unit 成功出道、合約到期不續約
 
-2月3日，[世理在](../Page/世理.md "wikilink")《The
-Unit》中被淘汰。而成員[優熙於](../Page/優熙.md "wikilink")2018年2月11日，在《The
-Unit》的最後一集中獲得第7名，進入期間限定團體出道。
+2月3日，[世理](../Page/世理.md "wikilink")在《The Unit》中被淘汰。而成員[優熙](../Page/優熙.md "wikilink")於2018年2月11日，在《The Unit》的最後一集中獲得第7名，進入期間限定團體出道。
 
-12月5日，[優熙與所屬社合約到期不續約](../Page/優熙.md "wikilink")，離開公司。公司表示Dal★Shabet不會解散。
+12月5日，[優熙](../Page/優熙.md "wikilink")與所屬社合約到期不續約，離開公司。公司表示Dal★Shabet不會解散。
 
 ## 成員資料
 
@@ -171,48 +130,6 @@ Subin<br />
 | 2013年                                                     | 《[屏息](../Page/No_Breathing.md "wikilink")》     | 世美 | 雅英   |
 | 《[58年屬狗](https://zh.wikipedia.org/wiki/58年屬狗 "wikilink")》 | 今紅                                             |    |      |
 | 2014年                                                     | 《[隧道 (電視劇)](../Page/隧道_\(電視劇\).md "wikilink")》 | 惠英 | 優熙   |
-
-### 綜藝節目
-
-| 綜藝節目列表      |
-| ----------- |
-| 日期          |
-| 2011年       |
-| 2月3日        |
-| 3月3日        |
-| 3月6日        |
-| 4月21日       |
-| 2012年       |
-| 1月28日       |
-| 6月10日       |
-| 2013年       |
-| 2月11日       |
-| 2月13日       |
-| 2月22日－6月5日  |
-| 8月4日        |
-| 9月19日       |
-| 2014年       |
-| 1月28日       |
-| 2月2日        |
-| 4月16日－7月16日 |
-| 2015年       |
-| 9月29日       |
-| 2016年       |
-| 1月7日        |
-| 1月20日       |
-| 4月14日       |
-| 4月18日       |
-| 7月31日－8月28日 |
-| 9月9日        |
-| 10月19日      |
-| 2017年       |
-| 3月13日－3月31日 |
-| 7月20日       |
-| 7月24日－8月4日  |
-| 7月31日－8月24日 |
-| 2018年       |
-| 2月26日－3月20日 |
-|             |
 
 ## 音樂作品
 
@@ -822,11 +739,9 @@ Subin<br />
 
   - [官方中文微博](http://tw.weibo.com/Dalshabet1)
 
-  - [Happy Face Entertainment
-    官方Youtube頻道](https://www.youtube.com/user/happyfaceent)
+  - [Happy Face Entertainment 官方Youtube頻道](https://www.youtube.com/user/happyfaceent)
 
-  - [Dal★Shabet
-    官方Youtube頻道](https://www.youtube.com/user/DalShabet2?feature=mhee)
+  - [Dal★Shabet 官方Youtube頻道](https://www.youtube.com/user/DalShabet2?feature=mhee)
 
 **成员SNS**
 
@@ -834,25 +749,13 @@ Subin<br />
   -
   -
   -
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
-[Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink")
-[Category:2018年韓國廢除](https://zh.wikipedia.org/wiki/Category:2018年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink") [Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink") [Category:2018年韓國廢除](https://zh.wikipedia.org/wiki/Category:2018年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
-1.  [著名製作人E-TRIBE傾情打造
-    女子六人組Dal★shabet終揭神秘面紗](http://www.koreastardaily.com/tc/news/6040)
+1.  [著名製作人E-TRIBE傾情打造 女子六人組Dal★shabet終揭神秘面紗](http://www.koreastardaily.com/tc/news/6040)
 2.  [Dal★shabet公開成員照片 6名成員全部多才多藝](http://www.koreastardaily.com/tc/photo/6363)
-3.  [韓星網專訪-Dal★shabet傾訴與少女時代
-    東方神起引發誤會真相專訪2](http://www.koreastardaily.com/tc/news/7011)
-4.  [新團Dal★shabet出道
-    新專輯下重磅戰書](http://www.koreastardaily.com/tc/video/6431)
-5.  [Dal★shabet新曲《Pink Rocket》MV公開
-    展粉色浪漫愛情](http://www.koreastardaily.com/tc/video/7885)
+3.  [韓星網專訪-Dal★shabet傾訴與少女時代 東方神起引發誤會真相專訪2](http://www.koreastardaily.com/tc/news/7011)
+4.  [新團Dal★shabet出道 新專輯下重磅戰書](http://www.koreastardaily.com/tc/video/6431)
+5.  [Dal★shabet新曲《Pink Rocket》MV公開 展粉色浪漫愛情](http://www.koreastardaily.com/tc/video/7885)
 6.  [Dal★Shabet將龐克回歸\!](http://kpopn.com/2011/08/03/76464/)
 7.  [Dal★Shabet新歌Teaser](http://kpopn.com/2011/08/08/77104/)
 8.  [Bling Bling 完整版MV](http://kpopn.com/2011/08/10/77664/)

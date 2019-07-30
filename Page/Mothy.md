@@ -1,14 +1,10 @@
-**mothy**（读作****，）是[日本](../Page/日本.md "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")，男性。[Vocaloid歌迷稱他](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")**惡之P**
-()。名字来源于「**M**aster **o**f **t**he **H**eavenly
-**Y**ard」（其个人[網路日誌站名即为](https://zh.wikipedia.org/wiki/網路日誌 "wikilink")」the
-heavenly
-yard」），主要創作[鏡音鈴、連等vocaloid演唱的歌曲](../Page/鏡音鈴、連.md "wikilink")。2010年開始發表小說。
+**mothy**（读作****，）是[日本](../Page/日本.md "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")，男性。[Vocaloid歌迷稱他](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")**惡之P** ()。名字来源于「**M**aster **o**f **t**he **H**eavenly **Y**ard」（其个人[網路日誌站名即为](https://zh.wikipedia.org/wiki/網路日誌 "wikilink")」the heavenly yard」），主要創作[鏡音鈴、連](../Page/鏡音鈴、連.md "wikilink")等vocaloid演唱的歌曲。2010年開始發表小說。
 
 ## 簡歷
 
-大學時加入樂團，並在那時學習音樂，退出樂團後在[NICONICO動畫看到](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[MEIKO的演唱影片](https://zh.wikipedia.org/wiki/MEIKO "wikilink")，因此知道Vocaloid。之後於[2007年8月受到](../Page/2007年8月.md "wikilink")[初音未來](../Page/初音未來.md "wikilink")（[角色主唱系列第一彈](../Page/角色主唱系列.md "wikilink")）熱潮觸發，因為初音未來演唱的歌曲已經很多，因此在NICONICO動畫發表鏡音鈴、連演唱的歌曲。
+大學時加入樂團，並在那時學習音樂，退出樂團後在[NICONICO動畫看到](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[MEIKO的演唱影片](https://zh.wikipedia.org/wiki/MEIKO "wikilink")，因此知道Vocaloid。之後於[2007年8月](../Page/2007年8月.md "wikilink")受到[初音未來](../Page/初音未來.md "wikilink")（[角色主唱系列](../Page/角色主唱系列.md "wikilink")第一彈）熱潮觸發，因為初音未來演唱的歌曲已經很多，因此在NICONICO動畫發表鏡音鈴、連演唱的歌曲。
 
-當初發表的三首只是作了自己想作作看的歌曲，並未受到很大的歡迎。後來考量聽眾的接受度，於[2008年4月發表故事音樂](../Page/2008年4月.md "wikilink")《[惡之系列](../Page/惡之系列.md "wikilink")》，歡迎度高速上昇。《惡之系列》在網路上出現大量聽眾的[同人](../Page/同人_\(ACG\).md "wikilink")[二次創作](../Page/二次創作.md "wikilink")，也被改編成舞台劇及漫畫。mothy也因為《惡之系列》而被[Vocaloid歌迷稱為惡之P](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")。雖然也發行別的Vocaloid演唱的歌曲，因為最初發表的是鏡音鈴、連演唱的歌曲，而且想要表現的世界和鏡音鈴、連很搭配，所以最喜歡的Vocaloid是鏡音鈴、連。
+當初發表的三首只是作了自己想作作看的歌曲，並未受到很大的歡迎。後來考量聽眾的接受度，於[2008年4月](../Page/2008年4月.md "wikilink")發表故事音樂《[惡之系列](../Page/惡之系列.md "wikilink")》，歡迎度高速上昇。《惡之系列》在網路上出現大量聽眾的[同人](../Page/同人_\(ACG\).md "wikilink")[二次創作](../Page/二次創作.md "wikilink")，也被改編成舞台劇及漫畫。mothy也因為《惡之系列》而被[Vocaloid歌迷稱為惡之P](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")。雖然也發行別的Vocaloid演唱的歌曲，因為最初發表的是鏡音鈴、連演唱的歌曲，而且想要表現的世界和鏡音鈴、連很搭配，所以最喜歡的Vocaloid是鏡音鈴、連。
 
 2010年開始發表[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。
 
@@ -51,8 +47,7 @@ yard」），主要創作[鏡音鈴、連等vocaloid演唱的歌曲](../Page/鏡
 
 《****》是mothy的第一張同人專輯，於2009年5月17日發行。
 
-收錄了mothy於2008年創作的11首歌曲。每一首都由mothy作詞、作曲（South North
-Story除外，該首歌與合作），大部份都重新錄製過。
+收錄了mothy於2008年創作的11首歌曲。每一首都由mothy作詞、作曲（South North Story除外，該首歌與合作），大部份都重新錄製過。
 
 收錄曲
 

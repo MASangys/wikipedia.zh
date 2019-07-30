@@ -34,7 +34,4 @@
 
   - [2004年的音樂](http://ja.wikipedia.org/wiki/2004%E5%B9%B4%E3%81%AE%E9%9F%B3%E6%A5%BD)
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
-[Category:飲料廣告歌曲](https://zh.wikipedia.org/wiki/Category:飲料廣告歌曲 "wikilink")
-[Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink") [Category:飲料廣告歌曲](https://zh.wikipedia.org/wiki/Category:飲料廣告歌曲 "wikilink") [Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink")

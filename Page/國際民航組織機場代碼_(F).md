@@ -25,12 +25,10 @@
   - **FAEL**-[東倫敦機場](../Page/東倫敦機場.md "wikilink")-[東倫敦](https://zh.wikipedia.org/wiki/東倫敦 "wikilink")
   - **FAEM**-[Empangeni機場](https://zh.wikipedia.org/wiki/Empangeni機場 "wikilink")-[Empangeni](https://zh.wikipedia.org/wiki/Empangeni "wikilink")
   - **FAEO**-[埃爾默洛機場](https://zh.wikipedia.org/wiki/埃爾默洛機場 "wikilink")-[埃爾默洛](https://zh.wikipedia.org/wiki/埃爾默洛 "wikilink")
-  - **FAER**-[Ellisras
-    (Mitimba)機場](https://zh.wikipedia.org/wiki/Ellisras_\(Mitimba\)機場 "wikilink")-[Ellisras](https://zh.wikipedia.org/wiki/Ellisras "wikilink")
+  - **FAER**-[Ellisras (Mitimba)機場](https://zh.wikipedia.org/wiki/Ellisras_\(Mitimba\)機場 "wikilink")-[Ellisras](https://zh.wikipedia.org/wiki/Ellisras "wikilink")
   - **FAFB**-[菲克斯堡機場](https://zh.wikipedia.org/wiki/菲克斯堡機場 "wikilink")-[菲克斯堡](https://zh.wikipedia.org/wiki/菲克斯堡 "wikilink")
   - **FAGG**-[喬治機場](../Page/喬治機場.md "wikilink")-[喬治](https://zh.wikipedia.org/wiki/喬治 "wikilink")
-  - **FAGI**-[Giyani
-    Airport](https://zh.wikipedia.org/wiki/Giyani_Airport "wikilink")-[Giyani](https://zh.wikipedia.org/wiki/Giyani "wikilink")
+  - **FAGI**-[Giyani Airport](https://zh.wikipedia.org/wiki/Giyani_Airport "wikilink")-[Giyani](https://zh.wikipedia.org/wiki/Giyani "wikilink")
   - **FAGM**-[蘭德機場](https://zh.wikipedia.org/wiki/蘭德機場 "wikilink")-[約翰內斯堡](https://zh.wikipedia.org/wiki/約翰內斯堡 "wikilink")
   - **FAGR**-[格拉夫赫拉夫機場](https://zh.wikipedia.org/wiki/格拉夫赫拉夫機場 "wikilink")-[格拉夫赫拉夫](https://zh.wikipedia.org/wiki/格拉夫赫拉夫 "wikilink")
   - **FAGT**-[Grahamstown機場](https://zh.wikipedia.org/wiki/Grahamstown機場 "wikilink")-[Grahamstown](https://zh.wikipedia.org/wiki/Grahamstown "wikilink")
@@ -38,9 +36,7 @@
   - **FAHL**-[赫盧赫盧韋機場](https://zh.wikipedia.org/wiki/赫盧赫盧韋機場 "wikilink")-[赫盧赫盧韋](https://zh.wikipedia.org/wiki/赫盧赫盧韋 "wikilink")
   - **FAHR**-[哈里史密斯機場](https://zh.wikipedia.org/wiki/哈里史密斯機場 "wikilink")-[哈里史密斯](https://zh.wikipedia.org/wiki/哈里史密斯 "wikilink")
   - **FAHS**-[Hoedspruit空軍基地](https://zh.wikipedia.org/wiki/Hoedspruit空軍基地 "wikilink")-[Hoedspruit](https://zh.wikipedia.org/wiki/Hoedspruit "wikilink")
-  - **FAHV**-[Gariep
-    Dam機場](https://zh.wikipedia.org/wiki/Gariep_Dam機場 "wikilink")-[Gariep
-    Dam](https://zh.wikipedia.org/wiki/Gariep_Dam "wikilink")
+  - **FAHV**-[Gariep Dam機場](https://zh.wikipedia.org/wiki/Gariep_Dam機場 "wikilink")-[Gariep Dam](https://zh.wikipedia.org/wiki/Gariep_Dam "wikilink")
   - **FAJB**-[中央機場](https://zh.wikipedia.org/wiki/中央機場 "wikilink")-[約翰內斯堡](https://zh.wikipedia.org/wiki/約翰內斯堡 "wikilink")
   - **FAJS**-[奧利弗·坦博國際機場](https://zh.wikipedia.org/wiki/奧利弗·坦博國際機場 "wikilink")-[約翰內斯堡](https://zh.wikipedia.org/wiki/約翰內斯堡 "wikilink")
   - **FAKD**-[Klerksdorp機場](https://zh.wikipedia.org/wiki/Klerksdorp機場 "wikilink")-[Klerksdorp](https://zh.wikipedia.org/wiki/Klerksdorp "wikilink")
@@ -51,8 +47,7 @@
   - **FAKU**-[約翰皮納爾機場](https://zh.wikipedia.org/wiki/約翰皮納爾機場 "wikilink")-[庫魯曼](https://zh.wikipedia.org/wiki/庫魯曼 "wikilink")
   - **FAKZ**-[Kleinzee機場](https://zh.wikipedia.org/wiki/Kleinzee機場 "wikilink")-[Kleinzee](https://zh.wikipedia.org/wiki/Kleinzee "wikilink")
   - **FALA**-[Lanseria機場](https://zh.wikipedia.org/wiki/Lanseria機場 "wikilink")-[約翰內斯堡](https://zh.wikipedia.org/wiki/約翰內斯堡 "wikilink")
-  - **FALC**-[Finsch
-    Mine機場](https://zh.wikipedia.org/wiki/Finsch_Mine機場 "wikilink")-[石灰畝](https://zh.wikipedia.org/wiki/石灰畝 "wikilink")
+  - **FALC**-[Finsch Mine機場](https://zh.wikipedia.org/wiki/Finsch_Mine機場 "wikilink")-[石灰畝](https://zh.wikipedia.org/wiki/石灰畝 "wikilink")
   - **FALI**-[Lichtenburg機場](https://zh.wikipedia.org/wiki/Lichtenburg機場 "wikilink")-[Lichtenburg](https://zh.wikipedia.org/wiki/Lichtenburg "wikilink")
   - **FALK**-[Lusikisiki機場](https://zh.wikipedia.org/wiki/Lusikisiki機場 "wikilink")-[Lusikisiki](https://zh.wikipedia.org/wiki/Lusikisiki "wikilink")
   - **FALO**-[馬克哈多空軍基地](https://zh.wikipedia.org/wiki/馬克哈多空軍基地 "wikilink")-[路易特里哈特](../Page/路易特里哈特.md "wikilink")
@@ -61,10 +56,7 @@
   - **FAMB**-[米德爾堡機場](https://zh.wikipedia.org/wiki/米德爾堡機場 "wikilink")-[米德爾堡](https://zh.wikipedia.org/wiki/米德爾堡 "wikilink")-又稱[德蘭士瓦機場](https://zh.wikipedia.org/wiki/德蘭士瓦機場 "wikilink")
   - **FAMD**-[馬拉馬拉機場](../Page/馬拉馬拉機場.md "wikilink")-[馬拉馬拉](https://zh.wikipedia.org/wiki/馬拉馬拉 "wikilink")
   - **FAMG**-[馬蓋特機場](https://zh.wikipedia.org/wiki/馬蓋特機場 "wikilink")-[馬蓋特](https://zh.wikipedia.org/wiki/馬蓋特 "wikilink")
-  - **FAMI**-[Marble
-    Hall機場](https://zh.wikipedia.org/wiki/Marble_Hall機場 "wikilink")-[Marble
-    Hall
-    Airport](https://zh.wikipedia.org/wiki/Marble_Hall_Airport "wikilink")
+  - **FAMI**-[Marble Hall機場](https://zh.wikipedia.org/wiki/Marble_Hall機場 "wikilink")-[Marble Hall Airport](https://zh.wikipedia.org/wiki/Marble_Hall_Airport "wikilink")
   - **FAMM**-[Mmabatho國際機場](https://zh.wikipedia.org/wiki/Mmabatho國際機場 "wikilink")-[Mmabatho](https://zh.wikipedia.org/wiki/Mmabatho "wikilink")/[Mafikeng](https://zh.wikipedia.org/wiki/Mafikeng "wikilink")
   - **FAMN**-[Malelane機場](https://zh.wikipedia.org/wiki/Malelane機場 "wikilink")-[Malelane](https://zh.wikipedia.org/wiki/Malelane "wikilink")
   - **FAMO**-[莫塞爾貝機場](https://zh.wikipedia.org/wiki/莫塞爾貝機場 "wikilink")-[莫塞爾貝](https://zh.wikipedia.org/wiki/莫塞爾貝 "wikilink")
@@ -79,8 +71,7 @@
   - **FAOB**-[Overberg空軍基地](https://zh.wikipedia.org/wiki/Overberg空軍基地 "wikilink")-[Overberg](https://zh.wikipedia.org/wiki/Overberg "wikilink")
   - **FAOH**-[奧茨胡恩機場](https://zh.wikipedia.org/wiki/奧茨胡恩機場 "wikilink")-[奧茨胡恩](https://zh.wikipedia.org/wiki/奧茨胡恩 "wikilink")
   - **FAPA**-[艾爾弗雷德港機場](../Page/艾爾弗雷德港機場.md "wikilink")-[艾爾弗雷德港](https://zh.wikipedia.org/wiki/艾爾弗雷德港 "wikilink")
-  - **FAPB**-[彼得斯堡空軍基地](https://zh.wikipedia.org/wiki/彼得斯堡空軍基地 "wikilink")-[波洛](https://zh.wikipedia.org/wiki/波洛 "wikilink")
-    (前是彼得斯堡)-已關閉
+  - **FAPB**-[彼得斯堡空軍基地](https://zh.wikipedia.org/wiki/彼得斯堡空軍基地 "wikilink")-[波洛](https://zh.wikipedia.org/wiki/波洛 "wikilink") (前是彼得斯堡)-已關閉
   - **FAPE**-[伊麗莎白港機場](../Page/伊麗莎白港機場.md "wikilink")/[伊麗莎白港空軍基地](https://zh.wikipedia.org/wiki/伊麗莎白港空軍基地 "wikilink")-[伊麗莎白港](https://zh.wikipedia.org/wiki/伊麗莎白港 "wikilink")
   - **FAPG**-[普勒滕貝格灣機場](https://zh.wikipedia.org/wiki/普勒滕貝格灣機場 "wikilink")-[普勒滕貝格灣](https://zh.wikipedia.org/wiki/普勒滕貝格灣 "wikilink")
   - **FAPH**-[亨德里凡埃克機場](https://zh.wikipedia.org/wiki/亨德里凡埃克機場 "wikilink")-[帕拉博魯瓦](https://zh.wikipedia.org/wiki/帕拉博魯瓦 "wikilink")
@@ -102,18 +93,15 @@
   - **FASD**-[Vredenburg機場](https://zh.wikipedia.org/wiki/Vredenburg機場 "wikilink")-[薩爾達尼亞灣](https://zh.wikipedia.org/wiki/薩爾達尼亞灣 "wikilink")
   - **FASK**-[Zwartkop空軍基地](https://zh.wikipedia.org/wiki/Zwartkop空軍基地 "wikilink")-[普利托里亞](https://zh.wikipedia.org/wiki/普利托里亞 "wikilink")
   - **FASS**-[四神機場](https://zh.wikipedia.org/wiki/四神機場 "wikilink")-[四神](https://zh.wikipedia.org/wiki/四神 "wikilink")
-  - **FASX**-[Hendrik
-    Swellengrebel機場](https://zh.wikipedia.org/wiki/Hendrik_Swellengrebel機場 "wikilink")-[Swellendam](https://zh.wikipedia.org/wiki/Swellendam "wikilink")
+  - **FASX**-[Hendrik Swellengrebel機場](https://zh.wikipedia.org/wiki/Hendrik_Swellengrebel機場 "wikilink")-[Swellendam](https://zh.wikipedia.org/wiki/Swellendam "wikilink")
   - **FASZ**-[Skukuza機場](https://zh.wikipedia.org/wiki/Skukuza機場 "wikilink")-[Skukuza](https://zh.wikipedia.org/wiki/Skukuza "wikilink")
-  - **FATH**-[P.R.
-    Mphephu機場](https://zh.wikipedia.org/wiki/P.R._Mphephu機場 "wikilink")-[托霍延杜](https://zh.wikipedia.org/wiki/托霍延杜 "wikilink")
+  - **FATH**-[P.R. Mphephu機場](https://zh.wikipedia.org/wiki/P.R._Mphephu機場 "wikilink")-[托霍延杜](https://zh.wikipedia.org/wiki/托霍延杜 "wikilink")
   - **FATN**-[塔巴恩丘機場](https://zh.wikipedia.org/wiki/塔巴恩丘機場 "wikilink")-[塔巴恩丘](https://zh.wikipedia.org/wiki/塔巴恩丘 "wikilink")
   - **FATP**-[新坦培機場](https://zh.wikipedia.org/wiki/新坦培機場 "wikilink")-[新坦培](https://zh.wikipedia.org/wiki/新坦培 "wikilink")
   - **FATZ**-[Tzaneen機場](https://zh.wikipedia.org/wiki/Tzaneen機場 "wikilink")-[Tzaneen](https://zh.wikipedia.org/wiki/Tzaneen "wikilink")
   - **FAUL**-[烏倫迪機場](https://zh.wikipedia.org/wiki/烏倫迪機場 "wikilink")-[烏倫迪](https://zh.wikipedia.org/wiki/烏倫迪 "wikilink")
   - **FAUP**-[阿平頓機場](../Page/阿平頓機場.md "wikilink")-[阿平頓](https://zh.wikipedia.org/wiki/阿平頓 "wikilink")
-  - **FAUT**-[K. D.
-    Matanzima機場](https://zh.wikipedia.org/wiki/K._D._Matanzima機場 "wikilink")-[阿姆塔塔](https://zh.wikipedia.org/wiki/阿姆塔塔 "wikilink")
+  - **FAUT**-[K. D. Matanzima機場](https://zh.wikipedia.org/wiki/K._D._Matanzima機場 "wikilink")-[阿姆塔塔](https://zh.wikipedia.org/wiki/阿姆塔塔 "wikilink")
   - **FAVB**-[弗雷堡機場](https://zh.wikipedia.org/wiki/弗雷堡機場 "wikilink")-[弗雷堡](https://zh.wikipedia.org/wiki/弗雷堡 "wikilink")
   - **FAVG**-[弗吉尼亞機場](https://zh.wikipedia.org/wiki/弗吉尼亞機場 "wikilink")-[德班](../Page/德班.md "wikilink")
   - **FAVR**-[Vredendal機場](https://zh.wikipedia.org/wiki/Vredendal機場 "wikilink")-[Vredendal](https://zh.wikipedia.org/wiki/Vredendal "wikilink")
@@ -237,8 +225,7 @@
 
 ## FI：[毛里求斯](../Page/毛里求斯.md "wikilink")
 
-  - **FIMP**-[西沃薩古爾·拉姆古蘭爵士國際機場](https://zh.wikipedia.org/wiki/西沃薩古爾·拉姆古蘭爵士國際機場 "wikilink")-[Plaine
-    Magnien](https://zh.wikipedia.org/wiki/Plaine_Magnien "wikilink")
+  - **FIMP**-[西沃薩古爾·拉姆古蘭爵士國際機場](https://zh.wikipedia.org/wiki/西沃薩古爾·拉姆古蘭爵士國際機場 "wikilink")-[Plaine Magnien](https://zh.wikipedia.org/wiki/Plaine_Magnien "wikilink")
   - **FIMR**-[加埃唐杜瓦爾爵士機場](https://zh.wikipedia.org/wiki/加埃唐杜瓦爾爵士機場 "wikilink")-[羅德里格斯島](https://zh.wikipedia.org/wiki/羅德里格斯島 "wikilink")
 
 ## FJ：[英屬印度洋領地](../Page/英屬印度洋領地.md "wikilink")
@@ -313,9 +300,7 @@
   - **FMMG**-[安察盧瓦機場](https://zh.wikipedia.org/wiki/安察盧瓦機場 "wikilink")-[安察盧瓦](https://zh.wikipedia.org/wiki/安察盧瓦 "wikilink")
   - **FMMI**-[伊瓦圖國際機場](https://zh.wikipedia.org/wiki/伊瓦圖國際機場 "wikilink")-[塔那那利佛](../Page/塔那那利佛.md "wikilink")
   - **FMMK**-[安卡萬德拉機場](https://zh.wikipedia.org/wiki/安卡萬德拉機場 "wikilink")-[安卡萬德拉](../Page/安卡萬德拉.md "wikilink")
-  - **FMML**-[Belon'i
-    Tsiribihina機場](https://zh.wikipedia.org/wiki/Belon'i_Tsiribihina機場 "wikilink")-[Belon'i
-    Tsiribihina](https://zh.wikipedia.org/wiki/Belon'i_Tsiribihina "wikilink")
+  - **FMML**-[Belon'i Tsiribihina機場](https://zh.wikipedia.org/wiki/Belon'i_Tsiribihina機場 "wikilink")-[Belon'i Tsiribihina](https://zh.wikipedia.org/wiki/Belon'i_Tsiribihina "wikilink")
   - **FMMN**-[米安德里瓦祖機場](https://zh.wikipedia.org/wiki/米安德里瓦祖機場 "wikilink")-[米安德里瓦祖](../Page/米安德里瓦祖.md "wikilink")
   - **FMMO**-[邁因蒂拉努機場](https://zh.wikipedia.org/wiki/邁因蒂拉努機場 "wikilink")-[邁因蒂拉努](../Page/邁因蒂拉努.md "wikilink")
   - **FMMQ**-[Ilaka-Est機場](https://zh.wikipedia.org/wiki/Ilaka-Est機場 "wikilink")-[Ilaka-Est](https://zh.wikipedia.org/wiki/Ilaka-Est "wikilink")
@@ -372,8 +357,7 @@
   - **FNCV**-[奎托誇納瓦萊機場](https://zh.wikipedia.org/wiki/奎托誇納瓦萊機場 "wikilink")-[奎托誇納瓦萊](https://zh.wikipedia.org/wiki/奎托誇納瓦萊 "wikilink")
   - **FNCZ**-[卡宗博機場](https://zh.wikipedia.org/wiki/卡宗博機場 "wikilink")-[卡宗博](https://zh.wikipedia.org/wiki/卡宗博 "wikilink")
   - **FNDU**-[Dundo機場](https://zh.wikipedia.org/wiki/Dundo機場 "wikilink")-[Dundo](https://zh.wikipedia.org/wiki/Dundo "wikilink")
-  - **FNGI**-[Ondjiva
-    Pereira機場](https://zh.wikipedia.org/wiki/Ondjiva_Pereira機場 "wikilink")-[Ondjiva](https://zh.wikipedia.org/wiki/Ondjiva "wikilink")
+  - **FNGI**-[Ondjiva Pereira機場](https://zh.wikipedia.org/wiki/Ondjiva_Pereira機場 "wikilink")-[Ondjiva](https://zh.wikipedia.org/wiki/Ondjiva "wikilink")
   - **FNHU**-[新里斯本機場](https://zh.wikipedia.org/wiki/新里斯本機場 "wikilink")-[萬博](https://zh.wikipedia.org/wiki/萬博 "wikilink")
   - **FNKU**-[奎托機場](https://zh.wikipedia.org/wiki/奎托機場 "wikilink")-[奎托](../Page/奎托.md "wikilink")
   - **FNLK**-[盧卡帕機場](https://zh.wikipedia.org/wiki/盧卡帕機場 "wikilink")-[盧卡帕](../Page/盧卡帕.md "wikilink")
@@ -506,9 +490,7 @@
 
   - **FWCD**-[Chelinda機場](https://zh.wikipedia.org/wiki/Chelinda機場 "wikilink")-[Chelinda](https://zh.wikipedia.org/wiki/Chelinda "wikilink")
   - **FWCL**-[奇萊卡國際機場](https://zh.wikipedia.org/wiki/奇萊卡國際機場 "wikilink")-[布蘭太爾](https://zh.wikipedia.org/wiki/布蘭太爾_\(馬拉維\) "wikilink")
-  - **FWCM**-[Club
-    Makokola機場](https://zh.wikipedia.org/wiki/Club_Makokola機場 "wikilink")-[Club
-    Makokola](https://zh.wikipedia.org/wiki/Club_Makokola "wikilink")
+  - **FWCM**-[Club Makokola機場](https://zh.wikipedia.org/wiki/Club_Makokola機場 "wikilink")-[Club Makokola](https://zh.wikipedia.org/wiki/Club_Makokola "wikilink")
   - **FWCS**-[恩奇斯機場](https://zh.wikipedia.org/wiki/恩奇斯機場 "wikilink")-[恩奇斯](../Page/恩奇斯.md "wikilink")
   - **FWCT**-[奇蒂帕機場](https://zh.wikipedia.org/wiki/奇蒂帕機場 "wikilink")-[奇蒂帕](../Page/奇蒂帕.md "wikilink")
   - **FWDW**-[Dwanga機場](https://zh.wikipedia.org/wiki/Dwanga機場 "wikilink")-[Dwanga](https://zh.wikipedia.org/wiki/Dwanga "wikilink")

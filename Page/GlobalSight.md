@@ -1,49 +1,29 @@
-'''GlobalSight '''是一个在[Apache许可证](../Page/Apache许可证.md "wikilink")
-2.0下发布的开源[翻译管理系统](../Page/翻译.md "wikilink")（TMS）。\[1\]
-从7.1版开始，它支持TMX和SRX 2.0
-[本地化行业标准协会标准](https://zh.wikipedia.org/wiki/本地化行业标准协会 "wikilink")。\[2\]
-它用[Java编程语言开发](../Page/Java.md "wikilink")，使用[MySQL数据库](../Page/MySQL.md "wikilink")。\[3\]
-GlobalSight还支持[计算机辅助翻译和](https://zh.wikipedia.org/wiki/计算机辅助翻译 "wikilink")[机器翻译](../Page/机器翻译.md "wikilink")。
+'''GlobalSight '''是一个在[Apache许可证](../Page/Apache许可证.md "wikilink") 2.0下发布的开源[翻译](../Page/翻译.md "wikilink")管理系统（TMS）。\[1\] 从7.1版开始，它支持TMX和SRX 2.0 [本地化行业标准协会标准](https://zh.wikipedia.org/wiki/本地化行业标准协会 "wikilink")。\[2\] 它用[Java](../Page/Java.md "wikilink")编程语言开发，使用[MySQL](../Page/MySQL.md "wikilink")数据库。\[3\] GlobalSight还支持[计算机辅助翻译和](https://zh.wikipedia.org/wiki/计算机辅助翻译 "wikilink")[机器翻译](../Page/机器翻译.md "wikilink")。
 
 ## 历史
 
-从1997年到2005年，它被称为Ambassador
-Suite，是由GlobalSight公司开发和拥有。根据[红鲱鱼杂志](https://zh.wikipedia.org/wiki/红鲱鱼杂志 "wikilink")，GlobalSight公司是1999年“十家最值得期待的公司“之一。
-\[4\] 在2005年Transware公司收购了GlobalSight，并继续它的开发。
-2008年5月[Welocalize](https://zh.wikipedia.org/wiki/Welocalize "wikilink")\[5\]
-收购了Transware，同时也得到了GlobalSight。\[6\]
-在用开源组件更换了产品中使用的专有技术（工作流，数据库，对象关系映射，中间件，目录管理和调度）之后，\[7\]
-Welocalize于2009年1月发布了开源的7.1版。\[8\]
+从1997年到2005年，它被称为Ambassador Suite，是由GlobalSight公司开发和拥有。根据[红鲱鱼杂志](https://zh.wikipedia.org/wiki/红鲱鱼杂志 "wikilink")，GlobalSight公司是1999年“十家最值得期待的公司“之一。 \[4\] 在2005年Transware公司收购了GlobalSight，并继续它的开发。 2008年5月[Welocalize](https://zh.wikipedia.org/wiki/Welocalize "wikilink")\[5\] 收购了Transware，同时也得到了GlobalSight。\[6\] 在用开源组件更换了产品中使用的专有技术（工作流，数据库，对象关系映射，中间件，目录管理和调度）之后，\[7\] Welocalize于2009年1月发布了开源的7.1版。\[8\]
 
 ## 指导委员会
 
 指导委员会由目前参与这个项目的主要公司的代表组成。他们是：
 
-  - [美国在线的](../Page/美国在线.md "wikilink") Stephen Roantree
-  - [Autodesk的](../Page/Autodesk.md "wikilink") Mirko Plitt
-  - [EMC公司的](https://zh.wikipedia.org/wiki/EMC公司 "wikilink") Jessica
-    Roland
-  - [IBM的](../Page/IBM.md "wikilink") Frank Rojas
-  - [Novell的](../Page/Novell.md "wikilink") Daniel McGowan
-  - 的 [Martin
-    Wunderlich](https://web.archive.org/web/20181025170410/http://www.martinwunderlich.com/)
-  - [太阳微系统的](https://zh.wikipedia.org/wiki/太阳微系统 "wikilink") Melissa
-    Biggs
+  - [美国在线](../Page/美国在线.md "wikilink")的 Stephen Roantree
+  - [Autodesk](../Page/Autodesk.md "wikilink")的 Mirko Plitt
+  - [EMC公司的](https://zh.wikipedia.org/wiki/EMC公司 "wikilink") Jessica Roland
+  - [IBM](../Page/IBM.md "wikilink")的 Frank Rojas
+  - [Novell](../Page/Novell.md "wikilink")的 Daniel McGowan
+  - 的 [Martin Wunderlich](https://web.archive.org/web/20181025170410/http://www.martinwunderlich.com/)
+  - [太阳微系统的](https://zh.wikipedia.org/wiki/太阳微系统 "wikilink") Melissa Biggs
   - XenCraft的 Tex Texin\[9\]
-  - [罗塞塔基金会的](https://zh.wikipedia.org/wiki/罗塞塔基金会 "wikilink") Reinhard
-    Schaler
-  - [VistaTEC的](https://zh.wikipedia.org/wiki/VistaTEC "wikilink") Phil
-    Ritchie
-  - [YYZ
-    Translations的](https://zh.wikipedia.org/wiki/YYZ_Translations "wikilink")
-    Sultan Ghaznawi\[10\]
-  - [Welocalize的](https://zh.wikipedia.org/wiki/Welocalize "wikilink")
-    Derek Coffey \[11\]
+  - [罗塞塔基金会的](https://zh.wikipedia.org/wiki/罗塞塔基金会 "wikilink") Reinhard Schaler
+  - [VistaTEC的](https://zh.wikipedia.org/wiki/VistaTEC "wikilink") Phil Ritchie
+  - [YYZ Translations的](https://zh.wikipedia.org/wiki/YYZ_Translations "wikilink") Sultan Ghaznawi\[10\]
+  - [Welocalize的](https://zh.wikipedia.org/wiki/Welocalize "wikilink") Derek Coffey \[11\]
 
 ## 其他参与公司
 
-2008年12月有四个语言服务供应商参与这个项目： 阿富汗翻译服务，应用语言解决方案，Lloyd International
-Translations与VistaTEC。\[12\]
+2008年12月有四个语言服务供应商参与这个项目： 阿富汗翻译服务，应用语言解决方案，Lloyd International Translations与VistaTEC。\[12\]
 
 ## 特征
 
@@ -60,8 +40,7 @@ Translations与VistaTEC。\[12\]
   - 两个在线翻译编辑
   - 支持像 Trados 这样的桌面计算机辅助翻译（CAT）工具
   - 基于本地化过程中每一步都可设定价格的成本计算
-  - 数十种文件类型的过滤器，包括[Word](../Page/Microsoft_Word.md "wikilink")，RTF，[PowerPoint](https://zh.wikipedia.org/wiki/PowerPoint "wikilink")，[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")，[XML](../Page/XML.md "wikilink")，[HTML](../Page/HTML.md "wikilink")
-    [Javascript](https://zh.wikipedia.org/wiki/Javascript "wikilink")，[PHP](../Page/PHP.md "wikilink")，ASP，JSP，Java属性，Frame，[InDesign等](https://zh.wikipedia.org/wiki/InDesign "wikilink")
+  - 数十种文件类型的过滤器，包括[Word](../Page/Microsoft_Word.md "wikilink")，RTF，[PowerPoint](https://zh.wikipedia.org/wiki/PowerPoint "wikilink")，[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")，[XML](../Page/XML.md "wikilink")，[HTML](../Page/HTML.md "wikilink") [Javascript](https://zh.wikipedia.org/wiki/Javascript "wikilink")，[PHP](../Page/PHP.md "wikilink")，ASP，JSP，Java属性，Frame，[InDesign等](https://zh.wikipedia.org/wiki/InDesign "wikilink")
   - 一致性搜索
   - 从先前翻译的文件产生翻译记忆的对齐功能
   - 报告
@@ -69,12 +48,7 @@ Translations与VistaTEC。\[12\]
 
 ## 参考资料
 
-[Category:翻譯軟體](https://zh.wikipedia.org/wiki/Category:翻譯軟體 "wikilink")
-[Category:用Java编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Java编程的自由软件 "wikilink")
-[Category:之前为专用软件](https://zh.wikipedia.org/wiki/Category:之前为专用软件 "wikilink")
-[Category:翻译公司](https://zh.wikipedia.org/wiki/Category:翻译公司 "wikilink")
-[Category:自由軟體計劃](https://zh.wikipedia.org/wiki/Category:自由軟體計劃 "wikilink")
-[Category:電腦輔助翻譯](https://zh.wikipedia.org/wiki/Category:電腦輔助翻譯 "wikilink")
+[Category:翻譯軟體](https://zh.wikipedia.org/wiki/Category:翻譯軟體 "wikilink") [Category:用Java编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Java编程的自由软件 "wikilink") [Category:之前为专用软件](https://zh.wikipedia.org/wiki/Category:之前为专用软件 "wikilink") [Category:翻译公司](https://zh.wikipedia.org/wiki/Category:翻译公司 "wikilink") [Category:自由軟體計劃](https://zh.wikipedia.org/wiki/Category:自由軟體計劃 "wikilink") [Category:電腦輔助翻譯](https://zh.wikipedia.org/wiki/Category:電腦輔助翻譯 "wikilink")
 
 1.  <http://www.globalsight.com/index.php?option=com_content&view=article&catid=28%3Acategory-for-news&id=78%3Aintroducing-globalsight-71&Itemid=69>
 

@@ -17,8 +17,7 @@
 ### 警視廳刑事部
 
   - 野立信次郎(參事官輔佐，階級是警視正，第二季晉升參事官) - [竹野內豐](../Page/竹野內豐.md "wikilink")
-  - 丹波博久(刑事部長，階級是警視監) -
-    [光石研](https://zh.wikipedia.org/wiki/光石研 "wikilink")
+  - 丹波博久(刑事部長，階級是警視監) - [光石研](https://zh.wikipedia.org/wiki/光石研 "wikilink")
   - 屋田健三(參事官) - [相島一之](https://zh.wikipedia.org/wiki/相島一之 "wikilink")
 
 ### 警視廳捜査第一課13係
@@ -29,8 +28,7 @@
 
 ### 科学捜査研究所
 
-  - 奈良橋玲子 -
-    [吉瀨美智子](../Page/吉瀨美智子.md "wikilink")（第2季，[友情客串](../Page/友情客串.md "wikilink")）
+  - 奈良橋玲子 - [吉瀨美智子](../Page/吉瀨美智子.md "wikilink")（第2季，[友情客串](../Page/友情客串.md "wikilink")）
 
 ### 其他
 
@@ -479,14 +477,4 @@
 
   - [官方網站](https://web.archive.org/web/20110629231536/http://wwwz.fujitv.co.jp/BOSS/index.html)
 
-[Category:富士電視台週四連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週四連續劇 "wikilink")
-[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink")
-[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:富士電視台警匪電視劇](https://zh.wikipedia.org/wiki/Category:富士電視台警匪電視劇 "wikilink")
-[Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:日本民間放送聯盟獎優秀電視劇](https://zh.wikipedia.org/wiki/Category:日本民間放送聯盟獎優秀電視劇 "wikilink")
+[Category:富士電視台週四連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週四連續劇 "wikilink") [Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink") [Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:富士電視台警匪電視劇](https://zh.wikipedia.org/wiki/Category:富士電視台警匪電視劇 "wikilink") [Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:日本民間放送聯盟獎優秀電視劇](https://zh.wikipedia.org/wiki/Category:日本民間放送聯盟獎優秀電視劇 "wikilink")

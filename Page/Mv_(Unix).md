@@ -1,9 +1,8 @@
-**mv**（）是[类Unix操作系统中移动单个或多个](https://zh.wikipedia.org/wiki/类Unix "wikilink")[文件或](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")[目录的命令](../Page/目录_\(文件系统\).md "wikilink")。一般在移动操作之后，原来的文件或目录不能再次访问。移动后的文件名可以与原来相同（只要不与原文件在相同目录中），也可以不同。当需要移动的文件和新文件位于同一[文件系统上时](../Page/文件系统.md "wikilink")，mv命令只是将原始文件[重命名来达到移动的效果](https://zh.wikipedia.org/wiki/重命名 "wikilink")。操作要求拥有需要被修改目录的写入权限。
+**mv**（）是[类Unix操作系统中移动单个或多个](https://zh.wikipedia.org/wiki/类Unix "wikilink")[文件或](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")[目录的命令](../Page/目录_\(文件系统\).md "wikilink")。一般在移动操作之后，原来的文件或目录不能再次访问。移动后的文件名可以与原来相同（只要不与原文件在相同目录中），也可以不同。当需要移动的文件和新文件位于同一[文件系统](../Page/文件系统.md "wikilink")上时，mv命令只是将原始文件[重命名来达到移动的效果](https://zh.wikipedia.org/wiki/重命名 "wikilink")。操作要求拥有需要被修改目录的写入权限。
 
 ## 与已存在文件的冲突
 
-当文件将被移动时，若目标目录含有与原始文件同名的文件，则目标文件将被删除。如果已存在的目标文件并没有写权限，但它的所在目录拥有写权限，则mv命令在移动前请求用户确认操作（当mv在终端中执行时）。但是使用
--f (强制) 选项来移动时，mv命令会跳过用户确认环节而直接执行移动。
+当文件将被移动时，若目标目录含有与原始文件同名的文件，则目标文件将被删除。如果已存在的目标文件并没有写权限，但它的所在目录拥有写权限，则mv命令在移动前请求用户确认操作（当mv在终端中执行时）。但是使用 -f (强制) 选项来移动时，mv命令会跳过用户确认环节而直接执行移动。
 
 ## 移动行为
 
@@ -12,8 +11,7 @@
 大多数版本的mv命令支持以下选项：
 
   - `-h` 帮助模式，显示支持的附加选项。 使用**`man mv`**命令可以查看在你所使用的操作系统中mv命令支持的详细参数选项。
-  - `-i`
-    交互模式，在将要覆盖一个已存在文件之前在[标准错误中输出提示](https://zh.wikipedia.org/wiki/標準串流#標準錯誤輸出_\(stderr\) "wikilink")，若用户回答以'Y'或'y'字母开头，则覆盖操作将继续执行（覆盖此选项之前的-f和-n选项）。
+  - `-i` 交互模式，在将要覆盖一个已存在文件之前在[标准错误中输出提示](https://zh.wikipedia.org/wiki/標準串流#標準錯誤輸出_\(stderr\) "wikilink")，若用户回答以'Y'或'y'字母开头，则覆盖操作将继续执行（覆盖此选项之前的-f和-n选项）。
   - `-n` 不覆盖已存在的文件。（覆盖此选项之前的-f和-i选项）。
   - `-f` 强制模式，强制覆盖目标文件（覆盖此选项之前的-i和-n选项）。
   - `-v` 详述模式，在移动文件（或目录）后列出它们的名字。
@@ -91,10 +89,7 @@ mv myfile myoldfilename
 
 ## 外部参考
 
-  - [mv](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/mv.html):
-    move files - Commands & Utilities Reference, The Single UNIX®
-    Specification, Issue 7 from The Open Group mv
-  - [mv(1)](http://linux.die.net/man/1/mv): move (rename) files – Linux
-    User Commands Manual
+  - [mv](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/mv.html): move files - Commands & Utilities Reference, The Single UNIX® Specification, Issue 7 from The Open Group mv
+  - [mv(1)](http://linux.die.net/man/1/mv): move (rename) files – Linux User Commands Manual
 
 [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")

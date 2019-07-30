@@ -1,15 +1,8 @@
-**猎鹰** (Predator)
-是由[德国体育用品制造商](../Page/德国.md "wikilink")[阿迪达斯公司开发的一系列](https://zh.wikipedia.org/wiki/阿迪达斯 "wikilink")[足球鞋](https://zh.wikipedia.org/wiki/足球鞋 "wikilink")。它的雏形是由[澳大利亚足球运动员](../Page/澳大利亚.md "wikilink")
-[Craig
-Johnston](https://zh.wikipedia.org/wiki/Craig_Johnston "wikilink")
-设计的。猎鹰系列的特征是位于鞋上部，用于增加球鞋与[球之间摩擦的橡胶块或橡胶条](../Page/足球.md "wikilink")。在
-2010 年下半年，阿迪达斯开发了新的“Power-spine”技术，宣称可以通过减少踢球时脚掌的弯曲来增加射门的力量。
+**猎鹰** (Predator) 是由[德国](../Page/德国.md "wikilink")体育用品制造商[阿迪达斯公司开发的一系列](https://zh.wikipedia.org/wiki/阿迪达斯 "wikilink")[足球鞋](https://zh.wikipedia.org/wiki/足球鞋 "wikilink")。它的雏形是由[澳大利亚](../Page/澳大利亚.md "wikilink")足球运动员 [Craig Johnston](https://zh.wikipedia.org/wiki/Craig_Johnston "wikilink") 设计的。猎鹰系列的特征是位于鞋上部，用于增加球鞋与[球之间摩擦的橡胶块或橡胶条](../Page/足球.md "wikilink")。在 2010 年下半年，阿迪达斯开发了新的“Power-spine”技术，宣称可以通过减少踢球时脚掌的弯曲来增加射门的力量。
 
 ## 历史型号
 
-目前这一系列共有 11 种型号。价格低廉的版本并不包含所有的猎鹰科技，而且会有独立的名称。例如“Predator
-Pulse”的低配版本被称为“Pulsado”。最新的猎鹰版本为猎鹰 11 （Predator
-Adipower）。以下是猎鹰系列的历史型号列表：
+目前这一系列共有 11 种型号。价格低廉的版本并不包含所有的猎鹰科技，而且会有独立的名称。例如“Predator Pulse”的低配版本被称为“Pulsado”。最新的猎鹰版本为猎鹰 11 （Predator Adipower）。以下是猎鹰系列的历史型号列表：
 
 1.  Predator (1994)
 2.  Rapier (1995
@@ -31,14 +24,11 @@ Rapier是第一双带有不同配色的阿迪达斯足球鞋。在这之前，�
 
 ### Touch
 
-Predator
-Touch是一款前所未有的产品，它采用了奇钉（Traxion）技术，其鞋钉为矩形。而在此之前，足球鞋的鞋钉均为圆形。阿迪达斯为于喜欢圆钉的职业球员生产了带有不同外底的猎鹰足球鞋。
+Predator Touch是一款前所未有的产品，它采用了奇钉（Traxion）技术，其鞋钉为矩形。而在此之前，足球鞋的鞋钉均为圆形。阿迪达斯为于喜欢圆钉的职业球员生产了带有不同外底的猎鹰足球鞋。
 
 ### Accelerator
 
-为了迎合1998年的[法国世界杯](https://zh.wikipedia.org/wiki/法国世界杯 "wikilink")，阿迪达斯发布了Predator
-Accelerator。这款球鞋采用了重新设计的TRX外底、不对称系带、天足（feet you
-wear）内底，并将球鞋前部的摩擦块嵌入鞋面。这款球鞋被称为阿迪达斯生产的最好的球鞋。Accelerator的代言人包括[德尔·皮耶罗](https://zh.wikipedia.org/wiki/德尔·皮耶罗 "wikilink")、齐达内和大卫贝克汉姆等顶级球星。
+为了迎合1998年的[法国世界杯](https://zh.wikipedia.org/wiki/法国世界杯 "wikilink")，阿迪达斯发布了Predator Accelerator。这款球鞋采用了重新设计的TRX外底、不对称系带、天足（feet you wear）内底，并将球鞋前部的摩擦块嵌入鞋面。这款球鞋被称为阿迪达斯生产的最好的球鞋。Accelerator的代言人包括[德尔·皮耶罗](https://zh.wikipedia.org/wiki/德尔·皮耶罗 "wikilink")、齐达内和大卫贝克汉姆等顶级球星。
 
 阿迪达斯Predator Accelerator共有四种不同的配色：
 
@@ -54,8 +44,7 @@ wear）内底，并将球鞋前部的摩擦块嵌入鞋面。这款球鞋被称�
 
 ### Precision
 
-Predator
-Precision引入了可更换式奇钉技术。鞋钉有不同的长度，可以适应不同的场地条件。但是这也带来了一些问题，可更换式奇钉经常会松脱，相对于传统的鞋钉，需要更多的日常维护。2001年，阿迪达斯发布了经过改进的版本，拥有类似的条纹和配色方案。但是这一改进版本所采用的猎鹰技术与Accelerator类似。
+Predator Precision引入了可更换式奇钉技术。鞋钉有不同的长度，可以适应不同的场地条件。但是这也带来了一些问题，可更换式奇钉经常会松脱，相对于传统的鞋钉，需要更多的日常维护。2001年，阿迪达斯发布了经过改进的版本，拥有类似的条纹和配色方案。但是这一改进版本所采用的猎鹰技术与Accelerator类似。
 
 ### Mania
 

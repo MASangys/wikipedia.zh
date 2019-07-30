@@ -1,33 +1,22 @@
-**BOYFRIEND**（，），為[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，於2011年5月24日在[Mnet節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!Pick](https://zh.wikipedia.org/wiki/M!Pick "wikilink")》首次亮相，並於同年5月26日在《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。團體由[東玄](../Page/金東玄.md "wikilink")、賢星、正珉、榮旻、光旻以及珉玗六位成員所組成，所屬公司為[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")。
-\[1\]No Yun Ho跟TNT雖是原先公佈的成員之一，但在出道前成員更換成賢星和正珉。
+**BOYFRIEND**（，），為[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，於2011年5月24日在[Mnet節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!Pick](https://zh.wikipedia.org/wiki/M!Pick "wikilink")》首次亮相，並於同年5月26日在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。團體由[東玄](../Page/金東玄.md "wikilink")、賢星、正珉、榮旻、光旻以及珉玗六位成員所組成，所屬公司為[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")。 \[1\]No Yun Ho跟TNT雖是原先公佈的成員之一，但在出道前成員更換成賢星和正珉。
 
-Boyfriend的韓國歌迷名稱為Best friend（）。
-Best就是指無論何時何地都在Boyfriend的身邊，成為一個堅不可摧、最棒的支持者；而Friend是隨著Boyfriend的「Friend」所決定的，有著永遠成為Boyfriend的好朋友的意思。同時，這亦意味著Best
-Friend無論在何時都會守護在Boyfriend的身邊，成為他們最好的朋友。**Boyfriend的日本歌迷名稱為Dear
-friend，但不常使用。**
+Boyfriend的韓國歌迷名稱為Best friend（）。 Best就是指無論何時何地都在Boyfriend的身邊，成為一個堅不可摧、最棒的支持者；而Friend是隨著Boyfriend的「Friend」所決定的，有著永遠成為Boyfriend的好朋友的意思。同時，這亦意味著Best Friend無論在何時都會守護在Boyfriend的身邊，成為他們最好的朋友。**Boyfriend的日本歌迷名稱為Dear friend，但不常使用。**
 
-2019年5月17日，
-[STARSHIP娛樂宣布合約到期](../Page/STARSHIP娛樂.md "wikilink")，6位成員皆不續約，團體解散\[2\]。
+2019年5月17日， [STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")宣布合約到期，6位成員皆不續約，團體解散\[2\]。
 
 ## 经历
 
 ### 出道前
 
-2010年，[東玄](../Page/金東玄.md "wikilink")、[榮旻](https://zh.wikipedia.org/wiki/榮旻 "wikilink")、[光旻出演SISTAR](https://zh.wikipedia.org/wiki/光旻 "wikilink")《Push
-Push》MV。原先公佈的成員之一卢允浩跟TNT，变更为賢星和正珉。
+2010年，[東玄](../Page/金東玄.md "wikilink")、[榮旻](https://zh.wikipedia.org/wiki/榮旻 "wikilink")、[光旻出演SISTAR](https://zh.wikipedia.org/wiki/光旻 "wikilink")《Push Push》MV。原先公佈的成員之一卢允鎬跟TNT，变更为賢星和正珉。
 
 ### 2011年：首张單曲《Boyfriend》、韩国出道
 
-由经纪公司[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")，推出的第一男子团体。5月20日，公开《Boyfriend》预告。5月24日，在[Mnet節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!Pick](https://zh.wikipedia.org/wiki/M!Pick "wikilink")》首次亮相。5月26日，發行首張同名單曲《Boyfriend》，在《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。10月6日，發行第二張單曲《Don't
-touch my girl》。12月8日，發行第三張單曲《I'll be there》。
+由经纪公司[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")，推出的第一男子团体。5月20日，公开《Boyfriend》预告。5月24日，在[Mnet節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!Pick](https://zh.wikipedia.org/wiki/M!Pick "wikilink")》首次亮相。5月26日，發行首張同名單曲《Boyfriend》，在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。10月6日，發行第二張單曲《Don't touch my girl》。12月8日，發行第三張單曲《I'll be there》。
 
 ### 2012年：榮獲新人獎、日本出道、發行首張迷你專輯及首張正規專輯
 
-4月19日，官方宣布Boyfriend已經簽約旗下有[ZARD](../Page/ZARD.md "wikilink")、[倉木麻衣等日本國民歌手的](../Page/倉木麻衣.md "wikilink")[日本知名娛樂公司](../Page/日本.md "wikilink")[Being](../Page/Being_\(公司\).md "wikilink")，並將於6月30日在可容納1萬名觀眾的[日本武道館舉辦大型出道Showcase](../Page/日本武道館.md "wikilink")。從6月6日在日本發行特輯專輯《We
-are BOYFRIEND》開始，在日本全面展開活動。\[3\]6月19日，發行首張迷你專輯《Love
-Style》。11月13日，發行首張正規專輯《Janus》。
+4月19日，官方宣布Boyfriend已經簽約旗下有[ZARD](../Page/ZARD.md "wikilink")、[倉木麻衣](../Page/倉木麻衣.md "wikilink")等日本國民歌手的[日本](../Page/日本.md "wikilink")知名娛樂公司[Being](../Page/Being_\(公司\).md "wikilink")，並將於6月30日在可容納1萬名觀眾的[日本武道館](../Page/日本武道館.md "wikilink")舉辦大型出道Showcase。從6月6日在日本發行特輯專輯《We are BOYFRIEND》開始，在日本全面展開活動。\[3\]6月19日，發行首張迷你專輯《Love Style》。11月13日，發行首張正規專輯《Janus》。
 
 ### 2013年：首張改版正規專輯
 
@@ -35,15 +24,11 @@ Style》。11月13日，發行首張正規專輯《Janus》。
 
 ### 2014年：第二張及第三張迷你專輯，舉辦韓國首場單獨演唱會
 
-6月8日，時隔1年6個月發行第二張迷你專輯《OBSESSION》。10月13日，發行第三張迷你專輯《WITCH》。11月11日，BOYFRIEND在《THE
-SHOW》以歌曲<WITCH>獲出道以来首個一位。\[4\]11月23日，於首爾奧林匹克公園奧林匹克大廳舉辦韓國首場單獨演唱會《2014
-Boyfriend The First Chapter in Seoul "BEWITCH"》。
+6月8日，時隔1年6個月發行第二張迷你專輯《OBSESSION》。10月13日，發行第三張迷你專輯《WITCH》。11月11日，BOYFRIEND在《THE SHOW》以歌曲<WITCH>獲出道以来首個一位。\[4\]11月23日，於首爾奧林匹克公園奧林匹克大廳舉辦韓國首場單獨演唱會《2014 Boyfriend The First Chapter in Seoul "BEWITCH"》。
 
 ### 2015年：第四張迷你專輯、签约新日本唱片公司
 
-3月9日，發行第四張迷你專輯《BOYFRIEND IN
-Wonderland》。12月17日，官方宣布Boyfriend已經簽約旗下有[BTOB](../Page/BTOB.md "wikilink")、[Girl's
-day等歌手的](https://zh.wikipedia.org/wiki/Girl's_day "wikilink")[日本娛樂公司](../Page/日本.md "wikilink")[Kiss娱乐](https://zh.wikipedia.org/wiki/Kiss娱乐 "wikilink")。
+3月9日，發行第四張迷你專輯《BOYFRIEND IN Wonderland》。12月17日，官方宣布Boyfriend已經簽約旗下有[BTOB](../Page/BTOB.md "wikilink")、[Girl's day等歌手的](https://zh.wikipedia.org/wiki/Girl's_day "wikilink")[日本](../Page/日本.md "wikilink")娛樂公司[Kiss娱乐](https://zh.wikipedia.org/wiki/Kiss娱乐 "wikilink")。
 
 ### 2016年：出道5周年紀念單曲
 
@@ -51,21 +36,15 @@ day等歌手的](https://zh.wikipedia.org/wiki/Girl's_day "wikilink")[日本娛�
 
 ### 2017年：第五張迷你專輯《Never End》、成员参加選秀節目《The Unit》
 
-8月9日，发行第五張迷你專輯《Never End》**。**8月27日，消息透露BOYFRIEND將出演KBS選秀節目《[The
-Unit](../Page/The_Unit.md "wikilink")》，並正在調整日程。\[5\]9月19日，官方推特發佈新聞網址，出演KBS選秀節目《[The
-Unit](../Page/The_Unit.md "wikilink")》的成員名單：東玄、正珉、光旻、珉玗。\[6\]
-最终只有队长[東玄成功入选選秀節目](https://zh.wikipedia.org/wiki/東玄 "wikilink")《The
-Unit》。
+8月9日，发行第五張迷你專輯《Never End》**。**8月27日，消息透露BOYFRIEND將出演KBS選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》，並正在調整日程。\[5\]9月19日，官方推特發佈新聞網址，出演KBS選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》的成員名單：東玄、正珉、光旻、珉玗。\[6\] 最终只有队长[東玄成功入选選秀節目](https://zh.wikipedia.org/wiki/東玄 "wikilink")《The Unit》。
 
 ### 2018年：選秀節目《The Unit》结束、出道七年
 
-2月10日，《The
-Unit》最後一集，東玄最終以第12名落敗，未能進入限定組合。5月25日，發行由成員正珉所創作的出道7周年紀念單曲《太陽雨》。5月26日，Boyfriend出道七周年，並於同日在首爾同德女子大學百周年紀念館舉行《BOYFRIEND
-Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡》。
+2月10日，《The Unit》最後一集，東玄最終以第12名落敗，未能進入限定組合。5月25日，發行由成員正珉所創作的出道7周年紀念單曲《太陽雨》。5月26日，Boyfriend出道七周年，並於同日在首爾同德女子大學百周年紀念館舉行《BOYFRIEND Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡》。
 
 ### 2019年：團體解散
 
-5月17日，[STARSHIP娛樂宣布合約結束](../Page/STARSHIP娛樂.md "wikilink")，團體解散；6月19日，成員正珉加入ARA娛樂（），以單曲專輯《NEARBY》（）Solo出道。
+5月17日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")宣布合約結束，團體解散；6月19日，成員正珉加入ARA娛樂（），以單曲專輯《NEARBY》（）Solo出道。
 
 ## 成員資料
 
@@ -84,9 +63,8 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 
 ### 出道前预备成员
 
-  - 允浩（现为[A
-    team娱乐旗下](https://zh.wikipedia.org/wiki/A_team娱乐 "wikilink")[VAV组合成员Ayno](../Page/VAV.md "wikilink")）
-  - TNT（現為[SM娛樂旗下](../Page/SM娛樂.md "wikilink")[NCT成員](../Page/NCT.md "wikilink")）
+  - 允鎬（现为[A team娱乐旗下](https://zh.wikipedia.org/wiki/A_team娱乐 "wikilink")[VAV](../Page/VAV.md "wikilink")组合成员Ayno）
+  - TNT（現為[SM娛樂](../Page/SM娛樂.md "wikilink")旗下[NCT](../Page/NCT.md "wikilink")成員）
 
 ## 影视作品
 
@@ -257,7 +235,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 <td><p>Ep. 1-12{{hidden</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台TWO</a></p></td>
+<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>TWO</p></td>
 <td><p><strong>ボーイフレンド大作戦</strong><small>(日本)</small></p></td>
 <td><p>Ep. 1-5{{hidden</p></td>
 <td><p><small></p>
@@ -900,12 +878,12 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 
 | **年份** | **歌曲名稱**      | **專輯名稱** | **合作藝人**                                                                                                    | 参与成员 | **備註**              |
 | ------ | ------------- | -------- | ----------------------------------------------------------------------------------------------------------- | ---- | ------------------- |
-| 2011年  | Pink Romance  |          | Starship Planet ([STARSHIP娛樂歌手](../Page/STARSHIP娛樂.md "wikilink"))                                          | 全员   | 以Starship Planet的名義 |
+| 2011年  | Pink Romance  |          | Starship Planet ([STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")歌手)                                          | 全员   | 以Starship Planet的名義 |
 | 2012年  | White Love    |          | [昭宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")、[K.will](https://zh.wikipedia.org/wiki/K.Will "wikilink") | 正珉   |                     |
-| 2013年  | Snow Candy    |          | Starship Planet ([STARSHIP娛樂歌手](../Page/STARSHIP娛樂.md "wikilink"))                                          | 全员   |                     |
+| 2013年  | Snow Candy    |          | Starship Planet ([STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")歌手)                                          | 全员   |                     |
 | 2014年  | Love Is You   |          |                                                                                                             |      |                     |
 |        | Paper of Mind |          | LeL                                                                                                         | 正珉   |                     |
-| 2015年  | Softly        |          | Starship Planet ([STARSHIP娛樂歌手](../Page/STARSHIP娛樂.md "wikilink"))                                          | 全员   | 以Starship Planet的名義 |
+| 2015年  | Softly        |          | Starship Planet ([STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")歌手)                                          | 全员   | 以Starship Planet的名義 |
 | 2016年  | Love wishes   |          |                                                                                                             |      |                     |
 | 2017年  | Christmas Day |          |                                                                                                             |      |                     |
 
@@ -1044,16 +1022,14 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 | 2013年4月13日 | 廣州站   | 廣州白雲國際會議中心 |
 | 2013年4月21日 | 台北站   | 台北國際會議中心   |
 
-  - Boyfriend韓國單獨演唱會《2014 Boyfriend The First Chapter in Seoul
-    "BEWITCH"》
+  - Boyfriend韓國單獨演唱會《2014 Boyfriend The First Chapter in Seoul "BEWITCH"》
 
 |             |       |                  |
 | ----------- | ----- | ---------------- |
 | 日期          | 演唱會站次 | 舉行地點             |
 | 2014年11月23日 | 首爾站   | 首爾奧林匹克公園奧林匹克HALL |
 
-  - Boyfriend台北首場演唱會《2015 Boyfriend The First Chapter in Taiwan
-    "BEWITCH"》
+  - Boyfriend台北首場演唱會《2015 Boyfriend The First Chapter in Taiwan "BEWITCH"》
 
 |           |       |          |
 | --------- | ----- | -------- |
@@ -1067,8 +1043,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 | 日期         | 演唱會站次 | 舉行地點   |
 | 2016年5月21日 | 首爾站   | 誠信女子大學 |
 
-  - Boyfriend出道七周年紀念粉絲見面會 - 日本《Precious time \~BESTFRIEND with
-    BOYFRIEND\~》
+  - Boyfriend出道七周年紀念粉絲見面會 - 日本《Precious time \~BESTFRIEND with BOYFRIEND\~》
 
 |            |       |                                            |
 | ---------- | ----- | ------------------------------------------ |
@@ -1358,20 +1333,11 @@ Boyfriend其他大型演唱會
   - [趙光旻 新浪微博](http://www.weibo.com/u/5518731335)
   - [盧珉玗 新浪微博](http://www.weibo.com/u/5518447367)
 
-[Category:STARSHIP娛樂](https://zh.wikipedia.org/wiki/Category:STARSHIP娛樂 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink")
+[Category:STARSHIP娛樂](https://zh.wikipedia.org/wiki/Category:STARSHIP娛樂 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink")
 
-1.  [2011閃亮新星 ─ Boyfriend](http://kpopn.com/2011/12/14/96696/)
-    2011.12.14 Kpopn
+1.  [2011閃亮新星 ─ Boyfriend](http://kpopn.com/2011/12/14/96696/) 2011.12.14 Kpopn
 2.
-3.  [Boy Friend 將在日出道](http://kpopn.com/2012/04/19/118333/) 2012.04.19
-    Kpopn
+3.  [Boy Friend 將在日出道](http://kpopn.com/2012/04/19/118333/) 2012.04.19 Kpopn
 4.  [BF 獲出道後首個一位](http://kpopn.com/2014/11/12/248845/)
 5.  <https://www.koreastardaily.com/tc/news/97566>
 6.  <https://twitter.com/G_BoyFriend/status/909939589099356160>

@@ -10,24 +10,20 @@ __NOTOC__ **CRI**可以指：
 
   - , a Danish aerospace company
 
-  - [商台互動](https://zh.wikipedia.org/wiki/商台互動 "wikilink")（Commercial
-    Radio Interactive）
+  - [商台互動](https://zh.wikipedia.org/wiki/商台互動 "wikilink")（Commercial Radio Interactive）
 
 ## 組織
 
   -
   -
-  - , a research institute and school belonging to Mexico's Universidad
-    Nacional Autónoma de México
+  - , a research institute and school belonging to Mexico's Universidad Nacional Autónoma de México
 
   -
-  - [中国国际广播电台](../Page/中国国际广播电台.md "wikilink")（China Radio
-    International）
+  - [中国国际广播电台](../Page/中国国际广播电台.md "wikilink")（China Radio International）
 
   -
   -
-  - , Crime Reduction Initiatives, a British voluntary sector
-    organisation
+  - , Crime Reduction Initiatives, a British voluntary sector organisation
 
   - (New Zealand)
 
@@ -37,15 +33,11 @@ __NOTOC__ **CRI**可以指：
 
 ## 科學與科技
 
-  - [去甲腎上腺素-多巴胺再吸收抑制劑](../Page/去甲腎上腺素-多巴胺再吸收抑制劑.md "wikilink")（Catecholamine
-    reuptake inhibitor）
-  - [慢性肾脏病](../Page/慢性肾脏病.md "wikilink")（Chronic kidney
-    disease），簡寫源自於chronic renal insufficiency。
+  - [去甲腎上腺素-多巴胺再吸收抑制劑](../Page/去甲腎上腺素-多巴胺再吸收抑制劑.md "wikilink")（Catecholamine reuptake inhibitor）
+  - [慢性肾脏病](../Page/慢性肾脏病.md "wikilink")（Chronic kidney disease），簡寫源自於chronic renal insufficiency。
   - [演色性指數](../Page/演色性指數.md "wikilink")（Color Rendering Index）
-  - [中間負片](https://zh.wikipedia.org/wiki/中間負片 "wikilink")（Color reversal
-    internegative）
-  - [輪作指數](https://zh.wikipedia.org/wiki/輪作 "wikilink")（Crop rotation
-    index）
+  - [中間負片](https://zh.wikipedia.org/wiki/中間負片 "wikilink")（Color reversal internegative）
+  - [輪作指數](https://zh.wikipedia.org/wiki/輪作 "wikilink")（Crop rotation index）
 
 ## 其他用法
 
@@ -55,8 +47,7 @@ __NOTOC__ **CRI**可以指：
 
   - [哥斯达黎加](../Page/哥斯达黎加.md "wikilink")（Costa Rica），CRI為其國家代碼之一
 
-  - [伊奇克里亞車臣共和國](../Page/伊奇克里亞車臣共和國.md "wikilink")（Chechen Republic of
-    Ichkeria）
+  - [伊奇克里亞車臣共和國](../Page/伊奇克里亞車臣共和國.md "wikilink")（Chechen Republic of Ichkeria）
 
 ## 參見
 

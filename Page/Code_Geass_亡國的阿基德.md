@@ -1,12 +1,8 @@
-《**Code Geass
-亡國的AKITO**》（）是[日本](../Page/日本.md "wikilink")[日昇動畫製作的](../Page/日昇動畫.md "wikilink")[Code
-Geass動畫系列第二作](../Page/Code_Geass.md "wikilink")。於2012年1月12日證實為劇場動畫作品，初步安排分4章在電影院推出，於2015年5月2日上映第3章時宣佈追加第5章的製作。
+《**Code Geass 亡國的AKITO**》（）是[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")製作的[Code Geass動畫系列第二作](../Page/Code_Geass.md "wikilink")。於2012年1月12日證實為劇場動畫作品，初步安排分4章在電影院推出，於2015年5月2日上映第3章時宣佈追加第5章的製作。
 
 ## 概要
 
-製作消息最早於2010年發售的《Code Geass 反叛的魯路修
-奇蹟的誕生日》DVD中公佈，當時有一段包含基本劇情提要和影像概念的預告片。此動畫作品原定於2010年內推出，但在公佈機體設定後宣佈押後，於2011年曾在雜誌推出數張包含人設的版權繪。直至2012年1月12日，官方召開記者招待會公佈Code
-Geass系列作品的最新情報，其中包括本作最新的聲優、主題曲和發佈形式的情報。直至作品正式面世之時，製作方面繼續受到[日昇動畫同期有大量作品所影響](../Page/日昇動畫.md "wikilink")，而令各章節上映日期朝令夕改。
+製作消息最早於2010年發售的《Code Geass 反叛的魯路修 奇蹟的誕生日》DVD中公佈，當時有一段包含基本劇情提要和影像概念的預告片。此動畫作品原定於2010年內推出，但在公佈機體設定後宣佈押後，於2011年曾在雜誌推出數張包含人設的版權繪。直至2012年1月12日，官方召開記者招待會公佈Code Geass系列作品的最新情報，其中包括本作最新的聲優、主題曲和發佈形式的情報。直至作品正式面世之時，製作方面繼續受到[日昇動畫](../Page/日昇動畫.md "wikilink")同期有大量作品所影響，而令各章節上映日期朝令夕改。
 
 ## 故事簡介
 
@@ -80,8 +76,7 @@ wZERO作戰部隊的高效率作戰小隊稱呼，成員以阿基德為首，後
 <!-- end list -->
 
   -
-    腦權威科學家，因為莱拉的招募而與wZERO合作，軍事應用合作上在阿基德等人身上測試名為BRS(Brain Raid
-    System)\[5\]的腦波精神操作實驗在令涼等3名新成員更有效在實際戰中發揮Alexander機種性能，而實際BRS的開發目的是為了「不用言語,消除彼此隔膜互相了解」為宗旨而開發。而言BRS的實踐應用中阿基德的腦波動是研究團的關注重點，其行為間接涼等3名成員行為形成稱為「精神網絡」的連結。
+    腦權威科學家，因為莱拉的招募而與wZERO合作，軍事應用合作上在阿基德等人身上測試名為BRS(Brain Raid System)\[5\]的腦波精神操作實驗在令涼等3名新成員更有效在實際戰中發揮Alexander機種性能，而實際BRS的開發目的是為了「不用言語,消除彼此隔膜互相了解」為宗旨而開發。而言BRS的實踐應用中阿基德的腦波動是研究團的關注重點，其行為間接涼等3名成員行為形成稱為「精神網絡」的連結。
     阿基德與真在激戰中發現腦波動更與過往數據不同的反常現象，2人激戰中突然短暫消失，並期望用腦波動反常現象和物理現象比較為何出現「離散化」的特異點，萊拉從這事件中令悟出是「人的意識影響到現實世界」的精神干擾，索菲試著大膽假設『這個世界的創造是由觀察者的觀察』所制定，根據觀察者的思想所謂『消失在深淵的事物，定能從深淵返回』，並在其言繼續推斷下這能超越空間、時間、甚至改寫過去。
     其愛人於一次精神與機械連接的實驗中成為類似植物人的狀態，為了對方而全力繼續研究，BRS是索菲與其愛人的研究宗旨下的產物。而對方亦在萊拉跳躍下確認最終會甦醒。
 
@@ -156,7 +151,7 @@ wZERO作戰部隊的高效率作戰小隊稱呼，成員以阿基德為首，後
 <!-- end list -->
 
   -
-    莱拉前任的wZERO部队司令官，E.U.军中校，首輪作戰中下令wZERO作戰部隊所有KMF都均搭載自爆裝置，無視前線作戰的11區人生死均在彈藥耗盡後自爆，作战指挥中遭萊拉參謀以武力制服，被警备队拘捕，後由莱拉接手指挥逆转形势，其后被調职到[华沙的后方补给部队](../Page/华沙.md "wikilink")。
+    莱拉前任的wZERO部队司令官，E.U.军中校，首輪作戰中下令wZERO作戰部隊所有KMF都均搭載自爆裝置，無視前線作戰的11區人生死均在彈藥耗盡後自爆，作战指挥中遭萊拉參謀以武力制服，被警备队拘捕，後由莱拉接手指挥逆转形势，其后被調职到[华沙](../Page/华沙.md "wikilink")的后方补给部队。
     為了報復對方而篡改了軍人紀錄，最終被其人之道還治其人之身。
 
 ##### 旅團婆婆們
@@ -171,8 +166,7 @@ wZERO作戰部隊的高效率作戰小隊稱呼，成員以阿基德為首，後
 #### 歐洲不列顛尼亞
 
   -
-    聖米迦勒騎士團所屬騎士，後搶奪聖米迦勒騎士團團長職位及專屬座駕维钦托利，後來為歐洲不列顛尼亞總帥
-    ，阿基德的哥哥，被文費洛迪稱為「東洋武士血統的繼承者」，擁有能让他人更傾向自滅的Geass。
+    聖米迦勒騎士團所屬騎士，後搶奪聖米迦勒騎士團團長職位及專屬座駕维钦托利，後來為歐洲不列顛尼亞總帥 ，阿基德的哥哥，被文費洛迪稱為「東洋武士血統的繼承者」，擁有能让他人更傾向自滅的Geass。
     父母是為宗教團體的領袖，後來在母親出軌誕下阿基德之時，露出了對眾人無恥的不屑，最終弒去雙親。一名Code(頭骨形態)就在此時出現，向真賦予了Geass。
     認為年幼阿基德純潔無垢，應該從瘋狂的世界中「解放」曾向阿基德施以為其而死的Geass，並以類似的力量不停攀登高位，對殺人的執著亦使之進入雙眼Geass的狀態。Knightmare操縱能力在眾人之上。（曾为了领率米迦勒骑士团命令其长官曼弗雷迪自杀身亡），用奸計引導朱利亞斯使其精神崩潰後禁錮朱利亞斯與朱雀，杀死了乌列骑士团和加百列骑士团团长，並由此奪走軍權&大貴族議會長政權，擁有歐洲不列顛尼亞的軍政權後，用Geass下令养母和义妹互相殘殺，實行最後計劃意图用阿波罗马车炸毁帝都潘德拉贡，引起全球無盡恐慌。最终章真看到不少過去愛惜的人的靈魂及阿基德的已故戰友等要求其不要殺害阿基德，最终一剑捅穿為其弟弟擋劍的珍·羅胡，但也被珍用枪射中，真最後期望阿基德在這世界繼續活下，然後回到珍身邊一同死去。
   -
@@ -220,16 +214,14 @@ wZERO作戰部隊的高效率作戰小隊稱呼，成員以阿基德為首，後
 #### 11区
 
   -
-    第一作主要人物，皇帝直屬的親衛隊「Knight of
-    Rounds」，成為排名第七位的騎士。成為第一位出身於Number地區的「Knight
-    of Rounds」。作為皇帝的直屬騎士，奔走於世界各地。
-    以不列顛尼亞軍師朱利叶斯·金斯利(魯路修)的護衛身分來到歐洲，實為監視對方有沒有恢復記憶的蹟象。厭惡帶著魯魯修四處活動。因為作為好友，他不忍心見到對方因記憶混亂而難受，但是又不能讓他恢復記憶，再次成為Zero。再者，他也無法忍受對方以軍師之名義在戰場上散佈恐懼。
+    第一作主要人物，皇帝直屬的親衛隊「Knight of Rounds」，成為排名第七位的騎士。成為第一位出身於Number地區的「Knight of Rounds」。作為皇帝的直屬騎士，奔走於世界各地。然而，他的出身仍受到不少不列顛軍人和貴族的歧視。
+    以不列顛尼亞軍師朱利叶斯·金斯利(魯路修)的護衛身分來到歐洲，實為監視對方有沒有恢復記憶的蹟象。厭惡帶著魯魯修四處活動。因為作為好友，他不忍心見到對方因記憶混亂而難受，但是又對他殺死尤菲一事恨之入骨，卻被皇帝下令要護他周全。再者，他也無法忍受對方以軍師之名義在戰場上散佈恐懼，禍及平民。
 
 <!-- end list -->
 
   -
-    由神聖不列顛帝國派往歐洲不列顛尼亞軍的軍師，持有皇帝授予的皇家權杖作為皇帝代表。實際是被洗腦的第一作主要人物魯魯修，左眼帶著眼罩(以封印自身Geass的能力)，總是要水(實為因為想起小時候夏天與娜娜莉和朱雀的回憶，所造成的記憶錯亂，誤以為是夏天災熱的天氣;而朱雀給予的「水」皆混有精神科藥物，以加強控制皇帝對他強下的Geass)，對自己的領導能力十分有自信。
-    攻陷歐洲第一步計劃虛構出「方舟船團」的恐佈組織宣傳的行動令歐洲(E.U.方)一時民怨四起，本來帝國期望以其能力一舉壓制E.U.所有戰場，但在真看穿身份和惡意引導下陷入記憶錯亂狀態。最後跟朱雀一同被禁錮。
+    由神聖不列顛帝國派往歐洲不列顛尼亞軍的軍師，持有皇帝授予的皇家權杖作為皇帝代表。實際是被洗腦的第一作主要人物魯魯修，左眼帶著眼罩(以封印其Geass的能力)，總是向朱雀討水(實為因為想起小時候的夏天與娜娜莉、朱雀的回憶，所造成的記憶錯亂，誤以為是夏天災熱的天氣)，對自己的領導能力十分有自信。
+    攻陷歐洲第一步計劃虛構出「方舟船團」的恐佈組織宣傳的行動令歐洲(E.U.方)一時民怨四起，本來帝國期望以其能力一舉壓制E.U.所有戰場，但在真看穿身份(因其發佈恐佈片段的手段、言行及衣著與不久前被朱雀拘捕的11區恐怖份子Zero如出一徹，加上種種特權對待，令他推斷出朱利葉斯應該是擁有皇子身份、被Geass改寫記憶的Zero;加上朱利亞斯在記憶錯亂時提及「娜娜莉」，而令真得知他就是傳聞中已作為人質死於日本的第11皇子)和惡意引導下陷入記憶錯亂狀態。最後跟朱雀一同被禁錮。
 
 <!-- end list -->
 
@@ -322,7 +314,7 @@ wZERO作戰部隊的高效率作戰小隊稱呼，成員以阿基德為首，後
   -
     型式編號（蘭斯洛特）：Z-01 全高／戰鬥重量：4.49m／6890kg
     型式編號（蘭斯洛特‧Air Cavalry）：Z-01/A 全高／戰鬥重量：4.49m／7820kg
-    最新型的第7代Knightmare，以傳說中[亞瑟王手下最強的](https://zh.wikipedia.org/wiki/亞瑟王 "wikilink")[圓桌騎士蘭斯洛特為名](https://zh.wikipedia.org/wiki/圓桌騎士 "wikilink")。
+    最新型的第7代Knightmare，以傳說中[亞瑟王手下最強的](https://zh.wikipedia.org/wiki/亞瑟王 "wikilink")[圓桌騎士蘭斯洛特為名](https://zh.wikipedia.org/wiki/圓桌騎士 "wikilink")。駕駛者是樞木朱雀。
 
 ## 製作人員
 
@@ -345,8 +337,7 @@ wZERO作戰部隊的高效率作戰小隊稱呼，成員以阿基德為首，後
   - 音樂：橋本一子
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 動畫製作：[日昇動畫](../Page/日昇動畫.md "wikilink")
-  - 製作：[Code Geass
-    亡國的AKITO製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
+  - 製作：[Code Geass 亡國的AKITO製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
 
 ## 主題曲
 
@@ -558,7 +549,7 @@ To Beloved Ones</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BS11" title="wikilink">BS11</a></p></td>
 <td><p>星期六 27時30分－28時30分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -649,7 +640,7 @@ To Beloved Ones</p></td>
 <td><p>2015年4月10日</p></td>
 <td><p>星期五 27時30分—28時30分</p></td>
 <td><p>衛星電視</p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 </tr>
 <tr class="odd">
 <td><p>ANIMAX</p></td>
@@ -760,15 +751,7 @@ To Beloved Ones</p></td>
 
   - [Sunrise動畫官方網站](http://www.geass.jp/)
 
-[Category:平行世界題材動畫電影](https://zh.wikipedia.org/wiki/Category:平行世界題材動畫電影 "wikilink")
-[Category:歐洲背景電影](https://zh.wikipedia.org/wiki/Category:歐洲背景電影 "wikilink")
-[Category:動畫衍生作品](https://zh.wikipedia.org/wiki/Category:動畫衍生作品 "wikilink")
-[Category:2012年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2012年日本劇場動畫 "wikilink")
-[Category:2013年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2013年日本劇場動畫 "wikilink")
-[Category:Code_Geass](https://zh.wikipedia.org/wiki/Category:Code_Geass "wikilink")
-[Category:2017年背景電影](https://zh.wikipedia.org/wiki/Category:2017年背景電影 "wikilink")
-[Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink")
-[Category:2015年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2015年日本劇場動畫 "wikilink")
+[Category:平行世界題材動畫電影](https://zh.wikipedia.org/wiki/Category:平行世界題材動畫電影 "wikilink") [Category:歐洲背景電影](https://zh.wikipedia.org/wiki/Category:歐洲背景電影 "wikilink") [Category:動畫衍生作品](https://zh.wikipedia.org/wiki/Category:動畫衍生作品 "wikilink") [Category:2012年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2012年日本劇場動畫 "wikilink") [Category:2013年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2013年日本劇場動畫 "wikilink") [Category:Code_Geass](https://zh.wikipedia.org/wiki/Category:Code_Geass "wikilink") [Category:2017年背景電影](https://zh.wikipedia.org/wiki/Category:2017年背景電影 "wikilink") [Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink") [Category:2015年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2015年日本劇場動畫 "wikilink")
 
 1.  第3章中在與綾乃對話中表明出生於歐洲
 2.  11區人（日本人）的官方漢字於中提及。

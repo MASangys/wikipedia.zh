@@ -1,5 +1,4 @@
-**EXO-K**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM
-Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012年4月8日正式推出的12人大型男子偶像團體[EXO的分隊](../Page/EXO.md "wikilink")，在[EXO後添加代表KOREAN](../Page/EXO.md "wikilink")（韩语）的K在韓國進行活動。EXO這個名字從意為太陽系以外的行星「EXOPLANET」一詞中得來，寓意新團體是「從未知世界來的新星」，EXO-K在韓國開始活動，並逐步進軍全球，有將EXO的音樂傳遍全世界的抱負。\[1\]
+**EXO-K**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012年4月8日正式推出的12人大型男子偶像團體[EXO](../Page/EXO.md "wikilink")的分隊，在[EXO](../Page/EXO.md "wikilink")後添加代表KOREAN（韩语）的K在韓國進行活動。EXO這個名字從意為太陽系以外的行星「EXOPLANET」一詞中得來，寓意新團體是「從未知世界來的新星」，EXO-K在韓國開始活動，並逐步進軍全球，有將EXO的音樂傳遍全世界的抱負。\[1\]
 
 正式出道前，EXO-K就已成為牛仔品牌的代言人，並登上雜誌封面。經過長達一百日的預告期後，EXO全體在2012年3月31日和4月1日分別於中韓兩地召開大型新聞發布會，EXO-K並於4月8日的SBS人氣歌謠正式出道。\[2\]
 
@@ -36,22 +35,19 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
   - 2012年1月12日公開Sehun和Luhan預告，背景歌曲為新歌《너의 세상으로(你的世界)》的片段。
   - 2012年1月17日公開Lay的舞蹈預告，背景歌曲為《PHOENIX》的片段。
   - 2012年1月25日公開Xiumin和Kai預告，背景歌曲為新歌《LET OUT THE BEAST》的片段。
-  - 2012年1月27日公開Lay 和Kai合作舞蹈預告，背景歌曲為新歌《TWO MOONS 雙月之夜 (ft.Key of
-    SHINee)》的片段。
+  - 2012年1月27日公開Lay 和Kai合作舞蹈預告，背景歌曲為新歌《TWO MOONS 雙月之夜 (ft.Key of SHINee)》的片段。
   - 2012年1月30日公開《WHAT IS LOVE》Music Video 中韓文雙版本，並首次公開成員D.O. & Baekhyun
   - 2012年2月7日公開'Sehun的舞蹈預告，背景歌曲為單曲《WHAT IS LOVE》的片段。
   - 2012年2月9日公開Kai的舞蹈預告，背景歌曲為單曲《WHAT IS LOVE》的片段。
   - 2012年2月14日公開Tao的武打預告，背景歌曲為《METAL》的片段。
-  - 2012年2月15日公開D.O.和HyunMoo預告，背景歌曲為SONG KWANG SIK的鋼琴曲目《REFLECTION
-    I》的片段。
+  - 2012年2月15日公開D.O.和HyunMoo預告，背景歌曲為SONG KWANG SIK的鋼琴曲目《REFLECTION I》的片段。
   - 2012年2月16日公開Kris的舞蹈預告，背景歌曲為新歌《너의 세상으로(你的世界)》的片段。
   - 2012年2月17日公開Kai的舞蹈預告，背景歌曲為《EMERGENCY》的片段。
   - 2012年2月21日公開Lay 、Chen以及Baekhyun的預告'，背景歌曲為新歌《BEAUTIFUL》的片段。
   - 2012年2月22日公開Chanyeol的預告，背景歌曲為《EL DORADO》的片段。
   - 2012年2月29日公開Kai的舞蹈預告，背景歌曲為新歌《BABY DON'T CRY》的片段。
   - 2012年3月1日公開'Sehun和Lay的舞蹈預告，背景歌曲為新歌《너의 세상으로(你的世界)》的片段。
-  - 2012年3月2日公開Kai、Sehun、Lay、Luhan、Tao、Xiumin、D.O.、HyunMoo和Kris九人（主Kai，副Sehun、Lay）的舞蹈預告，背景歌曲為《너의
-    세상으로》（你的世界）的片段。
+  - 2012年3月2日公開Kai、Sehun、Lay、Luhan、Tao、Xiumin、D.O.、HyunMoo和Kris九人（主Kai，副Sehun、Lay）的舞蹈預告，背景歌曲為《너의 세상으로》（你的世界）的片段。
   - 2012年3月9日公開單曲《History》MV，由EXO-M和EXO-K兩小隊分別演唱中韓文雙版本。
 
 ## 音樂作品
@@ -263,7 +259,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 | 2013年10月5日    | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")          | Chanyeol                                                | Special MC                                                          |
 | 2013年10月6日    | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                       | Baekhyun                                                |                                                                     |
 | －             | 江南韓流音樂節                                                     | Suho、Baekhyun                                                               | [SHINee](../Page/SHINee.md "wikilink") Comeback Show MC |                                                                     |
-| 2013年11月14日   | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | 2013 [甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")                                   | Suho、Baekhyun、Chanyeol、Kai                              | 與[李侑菲主持](../Page/李侑菲.md "wikilink")                                 |
+| 2013年11月14日   | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | 2013 [甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")                                   | Suho、Baekhyun、Chanyeol、Kai                              | 與[李侑菲](../Page/李侑菲.md "wikilink")主持                                 |
 | 2013年12月13日   | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")           | Baekhyun                                                | 待機室Special MC                                                       |
 | 2013年12月18日   | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | [Show Champion](../Page/Show_Champion.md "wikilink")                        | Suho                                                    | Special MC                                                          |
 | 2014年1月4日     | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")          | Sehun                                                   |                                                                     |
@@ -359,8 +355,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 | 2014年4月15日 | 首爾    | 首爾蠶室室內體育館  |
 | 2014年5月11日 | 上海    | 上海梅賽德斯奔馳中心 |
 
-  - EXO首場亞洲巡迴演唱會《[EXO FROM. EXOPLANET ＃1 - THE LOST PLANET
-    -](../Page/EXO_FROM._EXOPLANET_＃1_-_THE_LOST_PLANET_-.md "wikilink")》
+  - EXO首場亞洲巡迴演唱會《[EXO FROM. EXOPLANET ＃1 - THE LOST PLANET -](../Page/EXO_FROM._EXOPLANET_＃1_-_THE_LOST_PLANET_-.md "wikilink")》
 
 |                |       |               |
 | -------------- | ----- | ------------- |
@@ -438,7 +433,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 | 2013 景福高中同心大祝祭        | 景福高中大運動場                                                                    | EXO                                                                 |       |
 | 2013年5月26日            | 2013 Happy 4 K-POP Concert in Taiwan                                        | 台北[南港展覽館](https://zh.wikipedia.org/wiki/台北世界貿易中心南港展覽館 "wikilink")   |       |
 | 2013年6月28日            | 2013 中韓友誼演唱會                                                                | 北京[國家奧林匹克體育中心](https://zh.wikipedia.org/wiki/國家奧林匹克體育中心 "wikilink") |       |
-| 2013年7月1日             | 香港巨蛋音樂節                                                                     | 香港九龍城前[啟德機場跑道](../Page/啟德機場.md "wikilink")                          |       |
+| 2013年7月1日             | 香港巨蛋音樂節                                                                     | 香港九龍城前[啟德機場](../Page/啟德機場.md "wikilink")跑道                          |       |
 | 2013年7月17日            | [第27屆世界大學生運動會閉幕式](https://zh.wikipedia.org/wiki/2013年夏季世界大學生運動會 "wikilink") | 喀山市新喀山紅寶石體育場                                                        |       |
 | 2013年7月20日            | BlueOne K-POP Dream Festival                                                | 慶州BLUEONE水上樂園特設舞台                                                   |       |
 | 2013年8月4日             | 第9屆釜山玄仁歌謠節                                                                  | 釜山松島海水浴場特設舞台                                                        |       |
@@ -462,7 +457,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 | 2014年4月6日             | 2014 成龍“Peace \&Love \&Friendship”慈善演唱會                                     | [北京工人體育館](https://zh.wikipedia.org/wiki/北京工人體育館 "wikilink")         |       |
 | 2014年6月7日             | 第20屆我愛你，大韓民國2014夢想演唱會                                                       | 首爾世界盃競技場                                                            |       |
 | 2014年6月28日            | 亞洲超級演唱會                                                                     | 西安體育館|-                                                             |       |
-| 2014年7月1日             | 香港巨蛋音樂節                                                                     | 香港九龍城前[啟德機場跑道](../Page/啟德機場.md "wikilink")                          | EXO-K |
+| 2014年7月1日             | 香港巨蛋音樂節                                                                     | 香港九龍城前[啟德機場](../Page/啟德機場.md "wikilink")跑道                          | EXO-K |
 | 2014年9月17日            | 仁川韓流演唱會                                                                     | 仁川市松島國際都市                                                           |       |
 | 2014年9月19日            | 2014年仁川亞運會的開幕式                                                              | 仁川亞運主體育場                                                            |       |
 | 2014年9月28日            | 2014 Hallyu DREAM FESTIVAL                                                  | Gyeongju Civic Stadium                                              |       |
@@ -585,13 +580,9 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
   -
   -
   -
-[EXO](https://zh.wikipedia.org/wiki/分類:EXO "wikilink")
-[分類:SM娛樂](https://zh.wikipedia.org/wiki/分類:SM娛樂 "wikilink")
+[EXO](https://zh.wikipedia.org/wiki/分類:EXO "wikilink") [分類:SM娛樂](https://zh.wikipedia.org/wiki/分類:SM娛樂 "wikilink")
 
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
 
 1.
 2.

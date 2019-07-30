@@ -1,7 +1,4 @@
-**Nomico**（，）是[日本的](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")、女演员。出生于[德岛县](../Page/德岛县.md "wikilink")。因翻唱[東方系列遊戲](../Page/東方.md "wikilink")[東方幻想鄉
-～ Lotus Land
-Story.的](../Page/東方幻想鄉_～_Lotus_Land_Story..md "wikilink")[Bad
-Apple\!\!意外走紅](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")，之後與唱片公司簽約。
+**Nomico**（，）是[日本](../Page/日本.md "wikilink")的[歌手](../Page/歌手.md "wikilink")、女演员。出生于[德岛县](../Page/德岛县.md "wikilink")。因翻唱[東方](../Page/東方.md "wikilink")系列遊戲[東方幻想鄉 ～ Lotus Land Story.的](../Page/東方幻想鄉_～_Lotus_Land_Story..md "wikilink")[Bad Apple\!\!意外走紅](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")，之後與唱片公司簽約。
 
 ## 人物
 
@@ -22,8 +19,7 @@ Apple\!\!意外走紅](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")，�
 
   - 想い出ダイアリー イメージソング《hollyhock》
   - morning glory and sunflower. イメージソング《Spiral Spring》
-  - PS2版（[Alchemist](../Page/Alchemist.md "wikilink")）[春天的足音](../Page/春天的足音.md "wikilink")
-    -Step of Spring- エンディングテーマ《Spiral Spiral Spring-Step of Spring mix》
+  - PS2版（[Alchemist](../Page/Alchemist.md "wikilink")）[春天的足音](../Page/春天的足音.md "wikilink") -Step of Spring- エンディングテーマ《Spiral Spiral Spring-Step of Spring mix》
       - 03 アーリーデイズ（ボーナストラック）
 
 **LINEAR**より
@@ -77,9 +73,7 @@ Apple\!\!意外走紅](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")，�
   - The Last Judgement
       - 09 The Last Judgement
   - Lovelight
-      - 02 [Bad
-        Apple\!\!](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")
-        feat.nomico
+      - 02 [Bad Apple\!\!](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink") feat.nomico
   - Dolls
       - 03 Dreaming
       - 07 Infinite Being
@@ -135,9 +129,8 @@ Apple\!\!意外走紅](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")，�
   - 俺たちに翼はない ドラマCD 2nd Season イメージソングアルバム
       - 恋の運命
           - ドラマCD 我们没有羽翼 ドラマCD 2nd Season 第二巻 夢シアター・虹色リストランテ 主題歌
-  - [Magical
-    Melody\!](https://zh.wikipedia.org/wiki/Magical_Melody! "wikilink")（2007年10月10日、LACA-9088〜LACA-9099）
-  - [空罐少女！主题曲](../Page/空罐少女！.md "wikilink")
+  - [Magical Melody\!](https://zh.wikipedia.org/wiki/Magical_Melody! "wikilink")（2007年10月10日、LACA-9088〜LACA-9099）
+  - [空罐少女！](../Page/空罐少女！.md "wikilink")主题曲
       - 恋空リサイクリング featuring リサイクル\!（Version”The ぶどう缶”）
   - リプル☆リプル Twinkle Show\!
       - オーディオドラマ（リプル、星由なぎさ：CV）
@@ -157,8 +150,7 @@ Apple\!\!意外走紅](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")，�
 #### 其他
 
   - 俺フェチ 〜いちごちゃん気をつけて\! イメージソング フェチ☆オーレッ！
-  - [不平衡抽签](https://zh.wikipedia.org/wiki/不平衡抽签 "wikilink") LOVE\!
-    YES☆NO 〜はてしない愛で（小袋あのね）
+  - [不平衡抽签](https://zh.wikipedia.org/wiki/不平衡抽签 "wikilink") LOVE\! YES☆NO 〜はてしない愛で（小袋あのね）
   - [小心啊公主](../Page/小心啊公主.md "wikilink") オリジナルサウンドトラック内 美少女戦士キューピーマミー
   - [炼金三级魔法少女エンディング](https://zh.wikipedia.org/wiki/炼金三级魔法少女 "wikilink")
       - 第5話エンディングテーマ しちゃいましょう sensuous
@@ -166,18 +158,14 @@ Apple\!\!意外走紅](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")，�
       - 第7話エンディングテーマ しちゃいましょう predator
       - 第8話エンディングテーマ しちゃいましょう devoted
   - 錬金3級 まじかる?ぽか〜ん」とく1・2・3（DVD特典）エンディングテーマ しちゃいましょう invisible（ケイミィ）
-  - [现视研](https://zh.wikipedia.org/wiki/现视研 "wikilink")2 挿入歌
-    プリティメンマでちゅるちゅるりん
-  - 电视动画 [空罐少女！エンディングテーマ](../Page/空罐少女！.md "wikilink") 恋空リサイクリング
+  - [现视研](https://zh.wikipedia.org/wiki/现视研 "wikilink")2 挿入歌 プリティメンマでちゅるちゅるりん
+  - 电视动画 [空罐少女！](../Page/空罐少女！.md "wikilink")エンディングテーマ 恋空リサイクリング
   - PC游戏 Maximum Magic主題歌 Binary Orbit
-  - PC游戏 [架向星空之桥主題歌](https://zh.wikipedia.org/wiki/架向星空之桥 "wikilink")
-    星空へ架かる橋
+  - PC游戏 [架向星空之桥主題歌](https://zh.wikipedia.org/wiki/架向星空之桥 "wikilink") 星空へ架かる橋
 
 #### 评论CD
 
-  - Comic Market71 2006 Winter Edition Lantis＆Mellow Head
-    大入りCD（2006年冬期[Comic
-    Market的](../Page/Comic_Market.md "wikilink")[Lantis所属](../Page/Lantis.md "wikilink")）
+  - Comic Market71 2006 Winter Edition Lantis＆Mellow Head 大入りCD（2006年冬期[Comic Market的](../Page/Comic_Market.md "wikilink")[Lantis](../Page/Lantis.md "wikilink")所属）
 
 ## 出演作品
 
@@ -188,12 +176,10 @@ Apple\!\!意外走紅](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")，�
   - LINEAR05 クラブイベント内でライブ出演(2004年12月11日)※LOOPCUBE feat. 真優 & のみこ
   - LINEAR06 クラブイベント内でライブ出演(2005年2月19日)※LOOPCUBE feat. のみこ
   - LINEAR07 クラブイベント内でライブ出演(2005年4月30日)※LOOPCUBE feat. のみこ
-  - コミックマーケット68　minoriブース内でライブ「LOOPCUBE/nomico
-    ミニ歌う会」出演(2005年8月14日)※LOOPCUBE feat. のみこ
+  - コミックマーケット68　minoriブース内でライブ「LOOPCUBE/nomico ミニ歌う会」出演(2005年8月14日)※LOOPCUBE feat. のみこ
   - **東京国際アニメフェア 特設ステージでライブ出演**(2006年3月25日)
   - LINEAR14 クラブイベント内でゲストライブ出演(2006年6月1日) ※quad出演枠にゲスト出演
-  - Kaya Private Party 「宴 vol.1」ゲストライブ出演(2007年6月2日)新宿SOUTH TOWER
-    HALL※ユニット名義で出演〈nomico + hiro〉
+  - Kaya Private Party 「宴 vol.1」ゲストライブ出演(2007年6月2日)新宿SOUTH TOWER HALL※ユニット名義で出演〈nomico + hiro〉
   - 第2回島人間コンテスト(2007年11月24日)秋葉原 Live Spot PAGODA
   - *' のみこファーストワンマンライブ「のみこのおれいまいり」(2007年2月17日)音楽喫茶「茶箱」*'
   - EVIHABARA-15丁目（2007年12月22日） ※友人である歌手真優の出演枠にゲスト出演
@@ -212,8 +198,7 @@ Apple\!\!意外走紅](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")，�
 <!-- end list -->
 
   - Live！ CHOIR 002（2009年1月11日）LIVEGATE TOKYO@EBISU(第２部のみ出演)
-  - Acoustic Brilliant \#1（2010年12月20日）Shibuya duo MUSIC EXCHANGE
-    (のみことかわの名義)
+  - Acoustic Brilliant \#1（2010年12月20日）Shibuya duo MUSIC EXCHANGE (のみことかわの名義)
 
 ### 电视动画
 
@@ -224,13 +209,11 @@ Apple\!\!意外走紅](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")，�
 
 パーソナリティ
 
-  - 「アキバチック天国スーパー」地上デジタルラジオ(東京)「超！A＆G＋」(9302Ch/302Ch)　毎週金曜日２１時より放送中。（2009年10月〜）
-    パーソナリティ:鹿野優以・のみこ
+  - 「アキバチック天国スーパー」地上デジタルラジオ(東京)「超！A＆G＋」(9302Ch/302Ch)　毎週金曜日２１時より放送中。（2009年10月〜） パーソナリティ:鹿野優以・のみこ
 
 <!-- end list -->
 
-  - 「のみこのNomicalラヂヲ」ランティスネットラジオにて」(隔週木曜配信・期間限定)（2010年2月18日〜）
-    パーソナリティ:のみこ　サブキャラ：川野
+  - 「のみこのNomicalラヂヲ」ランティスネットラジオにて」(隔週木曜配信・期間限定)（2010年2月18日〜） パーソナリティ:のみこ　サブキャラ：川野
 
 ゲスト出演
 
@@ -240,15 +223,13 @@ Apple\!\!意外走紅](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")，�
   - 「真優のぱじゃまのままでおしゃべりしよう☆」第3回(2008年4月1日O.A.) パーソナリティ:真優
   - 「真優のぱじゃまのままでおしゃべりしよう☆」第14回(2008年10月7日O.A.) パーソナリティ:真優
   - 「真優のぱじゃまのままでおしゃべりしよう☆」第15回(2008年10月21日O.A.) パーソナリティ:真優
-  - 「アニメ [空罐少女！](../Page/空罐少女！.md "wikilink")
-    メロン・なじみのスパークリング☆KISS」第3回(Webラジオ、2009年1月23日配信)
+  - 「アニメ [空罐少女！](../Page/空罐少女！.md "wikilink") メロン・なじみのスパークリング☆KISS」第3回(Webラジオ、2009年1月23日配信)
   - 「[架向星空之桥](https://zh.wikipedia.org/wiki/架向星空之桥 "wikilink")」第25回（インターネットラジオ、2009年4月16日配信）パーソナリティ：柚木かなめ、桃井いちご
   - 「みつどもえラジオ３ちゃんねる」第17回(2011年2月3日配信)パーソナリティ:下野紘(矢部智)、高垣彩陽(丸井みつば)、明坂聡美(丸井ふたば)、戸松遥(丸井ひとは)←不在
 
 ### 广播剧CD
 
-  - [MOON
-    CHILDe](https://zh.wikipedia.org/wiki/MOON_CHILDe "wikilink")（水原まゆ）
+  - [MOON CHILDe](https://zh.wikipedia.org/wiki/MOON_CHILDe "wikilink")（水原まゆ）
   - 炼金三级魔法少女（ケイミィ、ジュン）
 
 ### DVD
@@ -262,12 +243,6 @@ Apple\!\!意外走紅](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")，�
 
   - [官方網站＞　はちみつまにあ](http://ameblo.jp/nomico-honey/)
   - [官方推特＞　nomico的Twitter](http://twitter.com/nomico_honey)
-  - [失效！--\>　nomico官网 のみこの部屋 -nomico's official
-    website-](https://web.archive.org/web/20081204155209/http://nomico-honey.com/)
+  - [失效！--\>　nomico官网 のみこの部屋 -nomico's official website-](https://web.archive.org/web/20081204155209/http://nomico-honey.com/)
 
-[Category:动画歌手](https://zh.wikipedia.org/wiki/Category:动画歌手 "wikilink")
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:德岛县出身人物](https://zh.wikipedia.org/wiki/Category:德岛县出身人物 "wikilink")
-[Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
-[Category:萌系歌曲歌手](https://zh.wikipedia.org/wiki/Category:萌系歌曲歌手 "wikilink")
+[Category:动画歌手](https://zh.wikipedia.org/wiki/Category:动画歌手 "wikilink") [Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:德岛县出身人物](https://zh.wikipedia.org/wiki/Category:德岛县出身人物 "wikilink") [Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink") [Category:萌系歌曲歌手](https://zh.wikipedia.org/wiki/Category:萌系歌曲歌手 "wikilink")

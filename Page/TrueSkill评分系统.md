@@ -1,10 +1,8 @@
-TrueSkill系统是基于[贝叶斯推断的评分系统](../Page/贝叶斯推断.md "wikilink")，由[微软研究院开发以代替传统](https://zh.wikipedia.org/wiki/微软研究院 "wikilink")[Elo评分](../Page/等级分.md "wikilink")，并成功应用于[Xbox
-Live自动匹配系统](../Page/Xbox_Live.md "wikilink")。TrueSkill评分系统是评分系统的衍伸，主要用于多人游戏中\[1\]\[2\]。TrueSkill评分系统考虑到了你水平的不确定性，综合考虑了玩家的胜率和可能的水平涨落。当玩家进行了更多的游戏后，即使你的胜率不变，系统也会因为对你的水平更加了解而改变对你的评分。
+TrueSkill系统是基于[贝叶斯推断](../Page/贝叶斯推断.md "wikilink")的评分系统，由[微软研究院开发以代替传统](https://zh.wikipedia.org/wiki/微软研究院 "wikilink")[Elo评分](../Page/等级分.md "wikilink")，并成功应用于[Xbox Live自动匹配系统](../Page/Xbox_Live.md "wikilink")。TrueSkill评分系统是评分系统的衍伸，主要用于多人游戏中\[1\]\[2\]。TrueSkill评分系统考虑到了你水平的不确定性，综合考虑了玩家的胜率和可能的水平涨落。当玩家进行了更多的游戏后，即使你的胜率不变，系统也会因为对你的水平更加了解而改变对你的评分。
 
 ## Rank值的计算公式
 
-[Skilldia.jpg](https://zh.wikipedia.org/wiki/File:Skilldia.jpg "fig:Skilldia.jpg")
-TrueSkill假设玩家的水平可以用一个正态分布来表示，而正态分布可以用两个参数：平均值和方差来完全描述。设Rank值为R，代表玩家水平的正态分布的两个参数平均值和方差分别为\(\mu\)和\(\sigma\)，则系统对玩家的评分即Rank值为
+[Skilldia.jpg](https://zh.wikipedia.org/wiki/File:Skilldia.jpg "fig:Skilldia.jpg") TrueSkill假设玩家的水平可以用一个正态分布来表示，而正态分布可以用两个参数：平均值和方差来完全描述。设Rank值为R，代表玩家水平的正态分布的两个参数平均值和方差分别为\(\mu\)和\(\sigma\)，则系统对玩家的评分即Rank值为
 
 \[R = \mu - k \times \sigma\] *k*值越大则系统的评分越保守。
 
@@ -36,8 +34,7 @@ TrueSkill假设玩家的水平可以用一个正态分布来表示，而正态�
 
 \[\sigma^{2}_{loser}\longleftarrow\sigma^{2}_{loser}*[1-\dfrac{\sigma^{2}_{loser}}{c}*w(\dfrac{\mu_{winner}-\mu_{loser}}{c},\dfrac{\varepsilon}{c})\]
 
-\[c^{2}=2\beta^{2}+\sigma^{2}_{winner}+\sigma^{2}_{loser}\]
-系数\(\beta^{2}\)代表的是所有玩家的平均方差。\(v\)和\(w\)是两个函数，比较复杂。ε是“平局参数”。
+\[c^{2}=2\beta^{2}+\sigma^{2}_{winner}+\sigma^{2}_{loser}\] 系数\(\beta^{2}\)代表的是所有玩家的平均方差。\(v\)和\(w\)是两个函数，比较复杂。ε是“平局参数”。
 
 简而言之，你赢了\(\mu\) 就增加，输了\(\mu\) 减小；但不论输赢，\(\sigma\)都是在减小，所以有可能出现输了涨分的情况。
 
@@ -45,14 +42,11 @@ TrueSkill假设玩家的水平可以用一个正态分布来表示，而正态�
 
 势均力敌的对手能带来最精彩的比赛，所以当自动匹配对手时，系统会尽可能的为你安排可能与水平最为接近的玩家。TrueSkill评分系统采用了一个值域为\((0,1)\)的函数来描述两个人是否势均力敌：结果越接近0代表差距越大，越接近1代表水平越接近。
 
-假设有两个玩家A和B，他们的参数为\((\mu_{A},\sigma_{A})\) 和 \((\mu_{B},\sigma_{B})\)
-，则函数对这两个玩家的返回值为
+假设有两个玩家A和B，他们的参数为\((\mu_{A},\sigma_{A})\) 和 \((\mu_{B},\sigma_{B})\) ，则函数对这两个玩家的返回值为
 
-\[e^{-\dfrac{(\mu_{A}-\mu_{B})^{2}}{2c^{2}}}\sqrt{\dfrac{2\beta^{2}}{c^{2}}}\]
-c的值由如下公式给出
+\[e^{-\dfrac{(\mu_{A}-\mu_{B})^{2}}{2c^{2}}}\sqrt{\dfrac{2\beta^{2}}{c^{2}}}\] c的值由如下公式给出
 
-\[c^{2}=2\beta^{2}+\mu^{2}_{A}+\mu^{2}_{B}\]
-如果两人有较大几率被匹配在一起，光是平均值接近还不行（e指数上那一项），还得方差也比较接近才行（d）。
+\[c^{2}=2\beta^{2}+\mu^{2}_{A}+\mu^{2}_{B}\] 如果两人有较大几率被匹配在一起，光是平均值接近还不行（e指数上那一项），还得方差也比较接近才行（d）。
 
 ## Xbox Live上的应用
 
@@ -64,16 +58,11 @@ c的值由如下公式给出
 
 ## 外部链接
 
-  - [Microsoft Research's TrueSkill
-    homepage](http://research.microsoft.com/en-us/projects/trueskill/)
-  - [Microsoft Research's TrueSkill
-    paper](http://research.microsoft.com/apps/pubs/default.aspx?id=67956)
-  - [In-depth explanation of the mathematical
-    background](http://www.moserware.com/2010/03/computing-your-skill.html)
+  - [Microsoft Research's TrueSkill homepage](http://research.microsoft.com/en-us/projects/trueskill/)
+  - [Microsoft Research's TrueSkill paper](http://research.microsoft.com/apps/pubs/default.aspx?id=67956)
+  - [In-depth explanation of the mathematical background](http://www.moserware.com/2010/03/computing-your-skill.html)
 
-[Category:Rating_systems](https://zh.wikipedia.org/wiki/Category:Rating_systems "wikilink")
-[Category:Xbox_360](https://zh.wikipedia.org/wiki/Category:Xbox_360 "wikilink")
-[Category:Xbox_Live](https://zh.wikipedia.org/wiki/Category:Xbox_Live "wikilink")
+[Category:Rating_systems](https://zh.wikipedia.org/wiki/Category:Rating_systems "wikilink") [Category:Xbox_360](https://zh.wikipedia.org/wiki/Category:Xbox_360 "wikilink") [Category:Xbox_Live](https://zh.wikipedia.org/wiki/Category:Xbox_Live "wikilink")
 
 1.
 2.

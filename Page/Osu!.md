@@ -1,8 +1,4 @@
-《**osu\!**》是一款[Microsoft
-Windows平台上的同人節奏遊戲](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。使用[.NET
-Framework中的](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[C\#編寫](https://zh.wikipedia.org/wiki/C＃ "wikilink")，後來陸續推出[Mac
-OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows
-Phone等平台](../Page/Windows_Phone.md "wikilink")。遊玩方式的設計參考了《[押忍！戰鬥！應援團](../Page/押忍！戰鬥！應援團.md "wikilink")》、《[精英节拍特工](../Page/精英节拍特工.md "wikilink")》、《[太鼓達人](../Page/太鼓之達人系列.md "wikilink")》、《[O2Jam](../Page/劲乐团.md "wikilink")》和《[DJMax](../Page/DJMax.md "wikilink")》。
+《**osu\!**》是一款[Microsoft Windows平台上的同人節奏遊戲](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。使用[.NET Framework中的](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[C\#編寫](https://zh.wikipedia.org/wiki/C＃ "wikilink")，後來陸續推出[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows Phone等平台](../Page/Windows_Phone.md "wikilink")。遊玩方式的設計參考了《[押忍！戰鬥！應援團](../Page/押忍！戰鬥！應援團.md "wikilink")》、《[精英节拍特工](../Page/精英节拍特工.md "wikilink")》、《[太鼓達人](../Page/太鼓之達人系列.md "wikilink")》、《[O2Jam](../Page/劲乐团.md "wikilink")》和《[DJMax](../Page/DJMax.md "wikilink")》。
 
 ## 遊戲模式
 
@@ -10,12 +6,10 @@ Phone等平台](../Page/Windows_Phone.md "wikilink")。遊玩方式的設計參�
 
 #### 簡介
 
-由於這個模式和遊戲同名，所以有另一個稱呼為 osu\!
-Standard，也因此有了"osu\!std"的簡稱。這是《**osu\!**》中最早開發的玩法，也是遊戲社群中最主要玩法，遊戲中隨著音樂節奏，用游標點擊譜面上的點擊圈圈、拖曳滑條和旋轉轉盤，玩法和NDS上的《[應援團](../Page/押忍！戰鬥！應援團.md "wikilink")》或《[精英节拍特工](../Page/精英节拍特工.md "wikilink")》相同。
+由於這個模式和遊戲同名，所以有另一個稱呼為 osu\! Standard，也因此有了"osu\!std"的簡稱。這是《**osu\!**》中最早開發的玩法，也是遊戲社群中最主要玩法，遊戲中隨著音樂節奏，用游標點擊譜面上的點擊圈圈、拖曳滑條和旋轉轉盤，玩法和NDS上的《[應援團](../Page/押忍！戰鬥！應援團.md "wikilink")》或《[精英节拍特工](../Page/精英节拍特工.md "wikilink")》相同。
 
 遊玩中會需要移動游標以及點擊，移動游標的手段包含[滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")、[數位繪圖板](https://zh.wikipedia.org/wiki/數位繪圖板 "wikilink")、[軌跡球等等](https://zh.wikipedia.org/wiki/軌跡球 "wikilink")，點擊的手段則是包含[鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、[滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")、[數位繪圖板或](https://zh.wikipedia.org/wiki/數位繪圖板 "wikilink")[觸控螢幕等硬體進行操作](https://zh.wikipedia.org/wiki/觸控螢幕 "wikilink")。
-Windows 和 Mac OS
-的osu\!較其他節奏遊戲難上手的原因，有很高的可能性在於大部分的玩家都是使用雙手控制不同的硬體（如：左手鍵盤、右手滑鼠），但這個模式並不一定要用到兩種硬體設備，例如[滑鼠就是一個可以同時具備移動](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")[游標和點擊功能的](https://zh.wikipedia.org/wiki/游標 "wikilink")[硬體](https://zh.wikipedia.org/wiki/硬體 "wikilink")，有少部分玩家基於挑戰自我或是專注單一硬體，所以僅用單手遊玩此模式。
+Windows 和 Mac OS 的osu\!較其他節奏遊戲難上手的原因，有很高的可能性在於大部分的玩家都是使用雙手控制不同的硬體（如：左手鍵盤、右手滑鼠），但這個模式並不一定要用到兩種硬體設備，例如[滑鼠就是一個可以同時具備移動](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")[游標和點擊功能的](https://zh.wikipedia.org/wiki/游標 "wikilink")[硬體](https://zh.wikipedia.org/wiki/硬體 "wikilink")，有少部分玩家基於挑戰自我或是專注單一硬體，所以僅用單手遊玩此模式。
 
 #### 遊玩方式
 
@@ -30,10 +24,7 @@ Windows 和 Mac OS
 
 ##### 拖曳滑條（Slider）
 
-外觀：一個滑條的組成主要是由起始圈圈、結束圈圈以及其之間不一定規則的滑條路線（Slider's
-path）組成，過程中會出現一顆球等速的在滑條路線上移動，球的外圍會出現一個範圍提示圈（Slider
-Follow Circle）。而滑條中還有不一定會出現的折返箭頭（Reverse Arrow）及滑條判定點（Slider
-Tick），取決於作圖者是否要放入。
+外觀：一個滑條的組成主要是由起始圈圈、結束圈圈以及其之間不一定規則的滑條路線（Slider's path）組成，過程中會出現一顆球等速的在滑條路線上移動，球的外圍會出現一個範圍提示圈（Slider Follow Circle）。而滑條中還有不一定會出現的折返箭頭（Reverse Arrow）及滑條判定點（Slider Tick），取決於作圖者是否要放入。
 
 進行：起始圈圈和點擊圈圈一樣需要點擊，在漸近環與起始圈圈重合時，玩家需要點擊游標不放，並且開始沿著路線拖曳。在過程中，玩家需要在範圍提示圈內跟隨著球移動，直到滑條結束。一些滑條的末端會出現折返箭頭，當折返箭頭出現時，玩家需沿著原路徑折返。
 值得注意的一點是，每取得一個滑條判定點都可以額外獲得分數以及連擊，是一個大量累積連擊數的物件，滑條結束時依然還會有計分判定以及連擊判定。
@@ -54,7 +45,7 @@ Tick），取決於作圖者是否要放入。
 
 又稱為[太鼓模式](https://zh.wikipedia.org/wiki/太鼓 "wikilink")，命名正是取自日本傳統的打擊樂器[太鼓](https://zh.wikipedia.org/wiki/太鼓 "wikilink")。遊玩方式與[太鼓之達人相似](https://zh.wikipedia.org/wiki/太鼓之達人 "wikilink")，透過按鍵在適當的時機敲擊螢幕上出現的指示。
 
-這個模式相當特別的是，可以透過[Wii所推出的TaTaCon來進行遊戲](../Page/Wii.md "wikilink")，讓玩家體驗更接近實際敲鼓的情形。
+這個模式相當特別的是，可以透過[Wii](../Page/Wii.md "wikilink")所推出的TaTaCon來進行遊戲，讓玩家體驗更接近實際敲鼓的情形。
 
 在2015年五月，愛好者開發了非官方的Android版本，稱為“T-Aiko\!”，並且在同年11月推出iOS版本。
 
@@ -92,10 +83,9 @@ Tick），取決於作圖者是否要放入。
 
 ## 其他平台
 
-在2008年9月，《**osu\!**》官方宣布開發[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")/[iPod
-Touch平台的版本](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")。接著在2009年1月透過Cydia發布。\[1\]
+在2008年9月，《**osu\!**》官方宣布開發[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")/[iPod Touch平台的版本](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")。接著在2009年1月透過Cydia發布。\[1\]
 在2014年9月，愛好者開發了非官方的Windows Phone版本（支援WP7、WP8），稱為“osu\!WP”。\[2\]
-在2015年2月，愛好者[開發了非官方的](https://zh.wikipedia.org/wiki/開發 "wikilink")[Android版本](../Page/Android.md "wikilink")，稱為“osu\!droid”\[3\]
+在2015年2月，愛好者[開發了非官方的](https://zh.wikipedia.org/wiki/開發 "wikilink")[Android](../Page/Android.md "wikilink")版本，稱為“osu\!droid”\[3\]
 
 ### osu\!stream
 
@@ -103,8 +93,7 @@ Touch平台的版本](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")。接
 
 這個模式的遊玩方式與其他版本稍有不同，其中對明顯的一點在於，不允許玩家遊玩自製的譜面，僅能從商店下載指定的譜面遊玩。
 
-在2011年1月8日，《**osu\!**》官方發布了[App
-Store版本](../Page/App_Store_\(iOS\).md "wikilink")。\[4\]
+在2011年1月8日，《**osu\!**》官方發布了[App Store版本](../Page/App_Store_\(iOS\).md "wikilink")。\[4\]
 在2014年1月3日，osu\!stream因版權問題從App Store下架。\[5\]
 在2014年1月28日，重新上架。\[6\]
 
@@ -126,16 +115,13 @@ osu\!stream的遊玩方式中，增加了新的圈圈類型和模式。\[7\]
 
 ### 計分與加分參數
 
-一張譜面的難度，主要來自於四個量化過的參數，圓圈大小（**C**ircle **S**ize）、漸近速度（**A**pproach
-**R**ate）、判定難度（**O**verall **D**ifficulty）、生命值排放量（**HP** drain
-rate），再加上譜面的時間長短、物件的排列方式等，有了這些數值，電腦會計算出該譜面的難度，並量化成星星數（Star）給玩家參考，但並不是沒有計算錯誤的時候。
+一張譜面的難度，主要來自於四個量化過的參數，圓圈大小（**C**ircle **S**ize）、漸近速度（**A**pproach **R**ate）、判定難度（**O**verall **D**ifficulty）、生命值排放量（**HP** drain rate），再加上譜面的時間長短、物件的排列方式等，有了這些數值，電腦會計算出該譜面的難度，並量化成星星數（Star）給玩家參考，但並不是沒有計算錯誤的時候。
 
 #### 遊戲修改器（Game Modifiers）
 
 簡稱為Mods，是遊戲中讓譜面增加或減少難度的選擇之一，並且依照當下的遊玩模式以及開啟的遊戲修改器，給予不同的分數加成或是折扣。
 
-其中有的修改器影響的僅僅只是難度( HardRock 、DoubleTime
-)，有的則是會透過隱藏(Hidden、FlashLight)來考驗玩家的記憶力，另外也有一些不予計分的特殊模式，讓玩家單純享受音樂或是背景動畫。
+其中有的修改器影響的僅僅只是難度( HardRock 、DoubleTime )，有的則是會透過隱藏(Hidden、FlashLight)來考驗玩家的記憶力，另外也有一些不予計分的特殊模式，讓玩家單純享受音樂或是背景動畫。
 
 由於幾乎所有常用的修改器都有了簡稱，所以不開啟修改器的遊玩方式也有了一個簡稱為NoMod。
 
@@ -157,11 +143,9 @@ rate），再加上譜面的時間長短、物件的排列方式等，有了這�
 起初並不是《**osu\!**》官方內建，在納入官方系統前，原本的名稱為osu\!tp，是由玩家（[Tom94](https://osu.ppy.sh/u/1857058)）製作的新排名系統，其目的在於讓玩家排名的實力更貼近真實情況，2014年，正式收入官方系統中。
 
 計算所使用到的參數和分數排名大致雷同，但是公式大不相同。
-計算出玩家從該譜面取得的表現點數（Performance
-Points，簡稱為PP），系統會依照該玩家的遊玩歷史中，表現點數最高的前一百張譜面去做加權，最終的總和就是排名的依據。
+計算出玩家從該譜面取得的表現點數（Performance Points，簡稱為PP），系統會依照該玩家的遊玩歷史中，表現點數最高的前一百張譜面去做加權，最終的總和就是排名的依據。
 
-這兩個排名系統確實讓一部分的人誤會認為，玩家在譜面分數的高低排列，在表現分數上也會是如此，但實際上不然，以下就是一個例子。以下三位玩家先後都有遊玩同一張[譜面(Remote
-Control)](https://osu.ppy.sh/s/53857)的同一個難度，並且使用了同樣的遊戲修改器(HD,DT)，但是在遊玩過程中的連擊數和命中率上有一點點的差別，進而產生了這樣的的結果。
+這兩個排名系統確實讓一部分的人誤會認為，玩家在譜面分數的高低排列，在表現分數上也會是如此，但實際上不然，以下就是一個例子。以下三位玩家先後都有遊玩同一張[譜面(Remote Control)](https://osu.ppy.sh/s/53857)的同一個難度，並且使用了同樣的遊戲修改器(HD,DT)，但是在遊玩過程中的連擊數和命中率上有一點點的差別，進而產生了這樣的的結果。
 
 | 遊戲ID                                    | 連擊數 | 命中率    | 譜面分數     | 表現分數 |
 | --------------------------------------- | --- | ------ | -------- | ---- |
@@ -183,8 +167,7 @@ Control)](https://osu.ppy.sh/s/53857)的同一個難度，並且使用了同樣�
 
 ### 譜面狀態
 
-分為**Ranked**、**Approved**、**Qualified**、**Pending**、**Graveyard、Work in
-Process(WIP)**和**Loved**。
+分為**Ranked**、**Approved**、**Qualified**、**Pending**、**Graveyard、Work in Process(WIP)**和**Loved**。
 
 #### Ranked
 
@@ -205,8 +188,7 @@ Process(WIP)**和**Loved**。
 
 #### Work in Process(WIP)
 
-表明谱面已经创建并上传，可以下载游玩，但是正在进行编辑和优化中。官方不会对该类谱面进行审核。该类谱面的游戏体验往往不如Pending状态与Ranked
-& Approved状态的谱面好，但对于急于游玩该谱面的玩家来说，可以用来了解作者的工作进度。
+表明谱面已经创建并上传，可以下载游玩，但是正在进行编辑和优化中。官方不会对该类谱面进行审核。该类谱面的游戏体验往往不如Pending状态与Ranked & Approved状态的谱面好，但对于急于游玩该谱面的玩家来说，可以用来了解作者的工作进度。
 
 #### Graveyard
 
@@ -214,22 +196,16 @@ Process(WIP)**和**Loved**。
 
 #### Loved
 
-当一张谱面未达到Ranked标准，但得到社区的喜爱后，会变为Loved状态。與Ranked差別在於，Ranked於玩家成功遊玩Ranked的圖時，會計算表現點數(Performance
-Points)，但是，Loved的圖於玩家遊玩過後並不會給予任何表現點數。
+当一张谱面未达到Ranked标准，但得到社区的喜爱后，会变为Loved状态。與Ranked差別在於，Ranked於玩家成功遊玩Ranked的圖時，會計算表現點數(Performance Points)，但是，Loved的圖於玩家遊玩過後並不會給予任何表現點數。
 
 ## 營運狀況
 
 ### 簡介
 
-《**osu\!**》是在2007年由[peppy](https://osu.ppy.sh/u/2)和身邊的朋友一起製作的小遊戲，遊戲名为ouentest，僅有osu\!模式，遊戲畫面、特效和歌曲譜面完成度不高。
-[缩略图](https://zh.wikipedia.org/wiki/File:Osu!2007.png "fig:缩略图")
-2008年，加入Taiko和CatchTheBeat。2010年，舉辦第一屆[osu\! World
-Cup](https://zh.wikipedia.org/wiki/osu!_World_Cup "wikilink")，並且持續至今，成為《**osu\!**》每年最受矚目的活動之一。此外，另外三個模式也在後續幾年開始舉辦大型比賽。
+《**osu\!**》是在2007年由[peppy](https://osu.ppy.sh/u/2)和身邊的朋友一起製作的小遊戲，遊戲名为ouentest，僅有osu\!模式，遊戲畫面、特效和歌曲譜面完成度不高。 [缩略图](https://zh.wikipedia.org/wiki/File:Osu!2007.png "fig:缩略图") 2008年，加入Taiko和CatchTheBeat。2010年，舉辦第一屆[osu\! World Cup](https://zh.wikipedia.org/wiki/osu!_World_Cup "wikilink")，並且持續至今，成為《**osu\!**》每年最受矚目的活動之一。此外，另外三個模式也在後續幾年開始舉辦大型比賽。
 2012年，osu\!mania加入遊戲成為第四個遊玩方式。同年，peppy在社群中發起[在地化計畫](https://osu.ppy.sh/forum/t/104342)，目前完整翻譯的語言已達30種，翻譯持續進行中。
 2013年3月，遊戲介面大幅度更新。
-2016年5月，宣布《**osu\!**》的遊戲程式將逐步邁入[開源](https://zh.wikipedia.org/wiki/開放原始碼軟體 "wikilink")。(目前**osu\!**的作者Dean
-"peppy"
-Herbert已經於[GitHub放出osu](../Page/GitHub.md "wikilink")\!lazer（即开发中的osu\!未来版本）的原始碼。)
+2016年5月，宣布《**osu\!**》的遊戲程式將逐步邁入[開源](https://zh.wikipedia.org/wiki/開放原始碼軟體 "wikilink")。(目前**osu\!**的作者Dean "peppy" Herbert已經於[GitHub](../Page/GitHub.md "wikilink")放出osu\!lazer（即开发中的osu\!未来版本）的原始碼。)
 
 ### 運作資金
 
@@ -249,7 +225,7 @@ Herbert已經於[GitHub放出osu](../Page/GitHub.md "wikilink")\!lazer（即开�
 
 ### 正面評價
 
-知名實況主[PewDiePie在實況中說](../Page/PewDiePie.md "wikilink")：那遊戲真讚，我真不敢相信這是免費的，而且真的是個好遊戲，看起來後面有個很棒的社群。
+知名實況主[PewDiePie](../Page/PewDiePie.md "wikilink")在實況中說：那遊戲真讚，我真不敢相信這是免費的，而且真的是個好遊戲，看起來後面有個很棒的社群。
 MMOHuts給《**osu\!**》的結論為Good。（原文為英文）\[8\]
 Free to Play Review以10/10的高分，評價為Epic Game。（原文為英文）\[9\]
 
@@ -261,13 +237,7 @@ Free to Play Review以10/10的高分，評價為Epic Game。（原文為英文�
 
   - [osu\!wiki](https://osu.ppy.sh/help/wiki/FAQ?locale=zh)
 
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
-[Category:2007年電子遊戲](https://zh.wikipedia.org/wiki/Category:2007年電子遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:同人遊戲](https://zh.wikipedia.org/wiki/Category:同人遊戲 "wikilink")
-[Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink")
-[Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
+[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:2007年電子遊戲](https://zh.wikipedia.org/wiki/Category:2007年電子遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:同人遊戲](https://zh.wikipedia.org/wiki/Category:同人遊戲 "wikilink") [Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
 
 1.
 2.
@@ -275,7 +245,6 @@ Free to Play Review以10/10的高分，評價為Epic Game。（原文為英文�
 4.
 5.
 6.
-7.  <http://osu.ppy.sh/wiki/Osu!stream#New_Modes_to_replace_the_difficulty>
-     difficulty levels of osu\! stream. Retrieved March 2, 2013
+7.  <http://osu.ppy.sh/wiki/Osu!stream#New_Modes_to_replace_the_difficulty>  difficulty levels of osu\! stream. Retrieved March 2, 2013
 8.  <http://mmohuts.com/news/osu-game-review/>
 9.  <http://freetoplayreview.com/osu-review>

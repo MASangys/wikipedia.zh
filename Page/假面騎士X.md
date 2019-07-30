@@ -1,4 +1,4 @@
-《**假面骑士X**》（原文标题：仮面ライダーエックス）于1974年（昭和49年）2月16日至同年10月12日，是由[每日放送和](../Page/每日放送.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")（當時名稱為NET電視台）播放，[東映制作的日本特摄英雄电视剧](../Page/東映.md "wikilink")，[假面骑士系列第三作](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")。每逢星期六1930时至2000时播放，全35话。
+《**假面骑士X**》（原文标题：仮面ライダーエックス）于1974年（昭和49年）2月16日至同年10月12日，是由[每日放送](../Page/每日放送.md "wikilink")和[朝日電視台](../Page/朝日電視台.md "wikilink")（當時名稱為NET電視台）播放，[東映](../Page/東映.md "wikilink")制作的日本特摄英雄电视剧，[假面骑士系列第三作](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")。每逢星期六1930时至2000时播放，全35话。
 
 ## 概要
 
@@ -50,13 +50,11 @@
 
 深海開發用改造人，可以在水中自由活動，身體表面物料能把光變換成能量。
 
-後期因和クモナポレオン（Spider
-Napoleon）戰鬥時陷於苦戰，有感自身力量不足應付往後的戰鬥，**風見志郎/假面騎士V3**便安裝Mercury回路於他身上提昇力量。
+後期因和クモナポレオン（Spider Napoleon）戰鬥時陷於苦戰，有感自身力量不足應付往後的戰鬥，**風見志郎/假面騎士V3**便安裝Mercury回路於他身上提昇力量。
 
 變身方法1 當敬介把腰帶間的道具拿出，當道具變成面具後在再裝上面部便完成。
 
-變身方法2 提昇力量後的方法，先把雙手向上伸，再喊「大・變・身」擺一個**大**字姿勢，左手回腰，右手向左斜伸，再跳躍便完成。
-而不必要再把腰帶間的道具裝上面部。
+變身方法2 提昇力量後的方法，先把雙手向上伸，再喊「大・變・身」擺一個**大**字姿勢，左手回腰，右手向左斜伸，再跳躍便完成。 而不必要再把腰帶間的道具裝上面部。
 
 武器有收藏於腰帶內，能變作警棒/軟劍/長繩/長棒四種型態的ライドル。
 
@@ -64,8 +62,7 @@ Napoleon）戰鬥時陷於苦戰，有感自身力量不足應付往後的戰鬥
 
 ### G.O.D.秘密机关
 
-黑暗组织Destron被毁灭后，在海底建筑和与日本大国对抗的秘密结社。**G.O.D.秘密机关**（G.O.D）是黑暗政府（Goverment
-of Darkness）的缩写。
+黑暗组织Destron被毁灭后，在海底建筑和与日本大国对抗的秘密结社。**G.O.D.秘密机关**（G.O.D）是黑暗政府（Goverment of Darkness）的缩写。
 
 #### 首领
 
@@ -90,12 +87,10 @@ of Darkness）的缩写。
   - ヘラクレス/[海格力斯](https://zh.wikipedia.org/wiki/海格力斯 "wikilink")（Hercules）
   - メドウサ/[美杜莎](../Page/美杜莎.md "wikilink")（Medusa）
   - キクロプス/[独眼巨人](https://zh.wikipedia.org/wiki/独眼巨人 "wikilink")（Cyclops）
-  - 牛男ミノタウロス/[米洛陶洛斯](https://zh.wikipedia.org/wiki/米洛陶洛斯 "wikilink")（Oxman
-    Minotaur）
+  - 牛男ミノタウロス/[米洛陶洛斯](https://zh.wikipedia.org/wiki/米洛陶洛斯 "wikilink")（Oxman Minotaur）
   - 鳥人イカルス/[伊卡洛斯](../Page/伊卡洛斯.md "wikilink")（Birdman Icarus）
   - 鉄腕アトラス/[阿特拉斯](../Page/阿特拉斯.md "wikilink")（Strong-Armed Atlas）
-  - マッハアキレス/[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")（Mach
-    Achilles）
+  - マッハアキレス/[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")（Mach Achilles）
   - 火焔プロメテス/[普罗米修斯](../Page/普罗米修斯.md "wikilink")（Flamy Prometheus）
   - ヒュドラー/[海德拉](https://zh.wikipedia.org/wiki/海德拉 "wikilink")（Hydra）
   - キマイラ/[奇美拉](https://zh.wikipedia.org/wiki/奇美拉 "wikilink")（Chimera）
@@ -113,26 +108,19 @@ of Darkness）的缩写。
 参考自历史人物
 
   - ジンギスカンコンドル/[成吉思汗](../Page/成吉思汗.md "wikilink")（Ghengis-Khan Condor）
-  - ガマゴエモン/[石川五衛門](https://zh.wikipedia.org/wiki/石川五衛門 "wikilink")（Toad
-    Goemon）
+  - ガマゴエモン/[石川五衛門](https://zh.wikipedia.org/wiki/石川五衛門 "wikilink")（Toad Goemon）
   - サソリジェロニモ/[傑羅尼莫](../Page/傑羅尼莫.md "wikilink")（Scorpion Geronimo）
-  - カブト虫ルパン/[亚森·罗宾](../Page/亚森·罗宾.md "wikilink")（Rhinoceros Beetle
-    Lupin）
-  - ヒトデヒットラー/[希特勒](https://zh.wikipedia.org/wiki/希特勒 "wikilink")（Starfish
-    Hilter）
-  - クモナポレオン/[拿破仑](https://zh.wikipedia.org/wiki/拿破仑 "wikilink")（Spider
-    Napoleon）
+  - カブト虫ルパン/[亚森·罗宾](../Page/亚森·罗宾.md "wikilink")（Rhinoceros Beetle Lupin）
+  - ヒトデヒットラー/[希特勒](https://zh.wikipedia.org/wiki/希特勒 "wikilink")（Starfish Hilter）
+  - クモナポレオン/[拿破仑](https://zh.wikipedia.org/wiki/拿破仑 "wikilink")（Spider Napoleon）
   - カメレオンファントマ/（Chameleon Phantom）
   - ヒルドラキュラ/[德拉库拉](../Page/弗拉德三世.md "wikilink")（Leech Dracula）
-  - トカゲバイキング/[维京人](https://zh.wikipedia.org/wiki/维京人 "wikilink")（Lizard
-    Viking）
-  - アリカポネ/[艾尔·卡彭](https://zh.wikipedia.org/wiki/艾尔·卡彭 "wikilink")（Ant
-    Capone）
+  - トカゲバイキング/[维京人](https://zh.wikipedia.org/wiki/维京人 "wikilink")（Lizard Viking）
+  - アリカポネ/[艾尔·卡彭](https://zh.wikipedia.org/wiki/艾尔·卡彭 "wikilink")（Ant Capone）
   - ムカデヨウキヒ/[杨贵妃](../Page/杨贵妃.md "wikilink")（Centipede Yang GuiFei）
   - タイガーネロ/[尼路](https://zh.wikipedia.org/wiki/尼路 "wikilink")（Tiger Nero）
   - サソリジェロニモJr/[傑羅尼莫](../Page/傑羅尼莫.md "wikilink")（Scorpion Geronimo Jr）
-  - コウモリフランケン[弗兰肯斯坦](https://zh.wikipedia.org/wiki/弗兰肯斯坦 "wikilink")（Bat
-    Franken）
+  - コウモリフランケン[弗兰肯斯坦](https://zh.wikipedia.org/wiki/弗兰肯斯坦 "wikilink")（Bat Franken）
 
 #### G.O.D.戦闘工作員
 
@@ -170,7 +158,7 @@ of Darkness）的缩写。
       - 作曲：菊池俊輔
       - 歌：水木一郎 SCS-224
 
-這首歌的[泰文版本](https://zh.wikipedia.org/wiki/泰文 "wikilink")，因為泰文發音與[粵語相似](https://zh.wikipedia.org/wiki/粵語 "wikilink")，而且歌詞聽起來猶如粵語髒話，結果成為[香港網民的笑柄](../Page/香港.md "wikilink")。
+這首歌的[泰文版本](https://zh.wikipedia.org/wiki/泰文 "wikilink")，因為泰文發音與[粵語相似](https://zh.wikipedia.org/wiki/粵語 "wikilink")，而且歌詞聽起來猶如粵語髒話，結果成為[香港](../Page/香港.md "wikilink")網民的笑柄。
 
   - **《おれはXカイゾーグ》**
       - 作词：石ノ森章太郎
@@ -179,8 +167,4 @@ of Darkness）的缩写。
 
 ## 外部链接
 
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
-[Category:历史人物题材作品](https://zh.wikipedia.org/wiki/Category:历史人物题材作品 "wikilink")
-[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink")
-[Category:1974年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1974年日本電視劇集 "wikilink")
-[Category:希臘神話題材作品](https://zh.wikipedia.org/wiki/Category:希臘神話題材作品 "wikilink")
+[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:历史人物题材作品](https://zh.wikipedia.org/wiki/Category:历史人物题材作品 "wikilink") [Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink") [Category:1974年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1974年日本電視劇集 "wikilink") [Category:希臘神話題材作品](https://zh.wikipedia.org/wiki/Category:希臘神話題材作品 "wikilink")

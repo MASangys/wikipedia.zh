@@ -1,15 +1,12 @@
-《**C**》（[片假名](../Page/片假名.md "wikilink")：，全名：\[ C \] THE MONEY OF SOUL
-AND POSSIBILITY
-CONTROL，別名：**Control**、**金錢掌控**）是[龍之子Production製作的](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")[日本動畫作品](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。於2011年4月14日開始，在[富士電視台的](../Page/富士電視台.md "wikilink")[noitaminA第](https://zh.wikipedia.org/wiki/noitaminA "wikilink")1時段放送\[1\]，於2011年6月24日播放完畢，全11話。
+《**C**》（[片假名](../Page/片假名.md "wikilink")：，全名：\[ C \] THE MONEY OF SOUL AND POSSIBILITY CONTROL，別名：**Control**、**金錢掌控**）是[龍之子Production製作的](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")[日本動畫作品](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。於2011年4月14日開始，在[富士電視台](../Page/富士電視台.md "wikilink")的[noitaminA第](https://zh.wikipedia.org/wiki/noitaminA "wikilink")1時段放送\[1\]，於2011年6月24日播放完畢，全11話。
 
 ## 概要
 
-這是[龍之子Production繼](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")26年前的《[燃燒的玫瑰](https://zh.wikipedia.org/wiki/燃燒的玫瑰 "wikilink")》（）後再度與[富士電視台合作的電視動畫](../Page/富士電視台.md "wikilink")。這部以[金錢和](https://zh.wikipedia.org/wiki/金錢 "wikilink")[未來為主題的原創動畫](https://zh.wikipedia.org/wiki/未來 "wikilink")，起用了曾執導《[物怪](../Page/物怪_\(動畫\).md "wikilink")》、《[空中鞦韆](../Page/空中鞦韆.md "wikilink")》的[中村健治](https://zh.wikipedia.org/wiki/中村健治 "wikilink")。
+這是[龍之子Production繼](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")26年前的《[燃燒的玫瑰](https://zh.wikipedia.org/wiki/燃燒的玫瑰 "wikilink")》（）後再度與[富士電視台](../Page/富士電視台.md "wikilink")合作的電視動畫。這部以[金錢和](https://zh.wikipedia.org/wiki/金錢 "wikilink")[未來為主題的原創動畫](https://zh.wikipedia.org/wiki/未來 "wikilink")，起用了曾執導《[物怪](../Page/物怪_\(動畫\).md "wikilink")》、《[空中鞦韆](../Page/空中鞦韆.md "wikilink")》的[中村健治](https://zh.wikipedia.org/wiki/中村健治 "wikilink")。
 
 ## 故事簡介
 
-20XX年，日本正處於嚴重的巨額財政赤字，日本經濟可以說已經崩壞了。在處於終結的危機之中，出現一個名叫「Sovereign Wealth
-Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政府奇蹟地實現財政的重建。
+20XX年，日本正處於嚴重的巨額財政赤字，日本經濟可以說已經崩壞了。在處於終結的危機之中，出現一個名叫「Sovereign Wealth Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政府奇蹟地實現財政的重建。
 
 日本政府在[主權財富基金的拯救下](https://zh.wikipedia.org/wiki/主權財富基金 "wikilink")，脫離了財政崩潰的危機。另一方面，雖然經濟走出了谷底，但在期間國民的生活卻未完全改善，失業與犯罪案、自暴自棄者引發的無差別殺人事件等等行為，仍然非常猖獗，社會處於絕望中（因結婚率減少導致少子化而感到絕望的人，逃避現實者、失蹤者及自殺者都急劇增加中）。
 
@@ -22,8 +19,7 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
 ### 主要人物
 
   -
-    男主角，19歲大學生，經濟學系的二年級生，財力普通，沒有女友。失去雙親（母親因病去世、父親在他小時候失蹤），曾寄宿於舅母家。上大學後靠著獎學金和打工，一個人過著單身生活。夢想就是盼望成為公務員，過著平淡安穩的生活並擁有屬於一個自己的房子、建造幸福的家庭。對生田
-    羽奈日有好感，但認為自己沒錢不夠配上她。
+    男主角，19歲大學生，經濟學系的二年級生，財力普通，沒有女友。失去雙親（母親因病去世、父親在他小時候失蹤），曾寄宿於舅母家。上大學後靠著獎學金和打工，一個人過著單身生活。夢想就是盼望成為公務員，過著平淡安穩的生活並擁有屬於一個自己的房子、建造幸福的家庭。對生田 羽奈日有好感，但認為自己沒錢不夠配上她。
     某日，在公麿面前，出現了一位神秘的男子，並將借他錢，希望他能利用自己的才能運用那筆金錢。公麿受引導往金融街的異世界，捲進了各式的事情中。\[2\]
       -
         公麿的Asset，與公麿在金融街相遇的不可思議美少女。在金融街進行買賣與戰鬥時，是公麿不可缺少的共同進退夥伴。除了髮色有差異之外，真朱外表與公麿父親的Asset慕兒極度相像。\[3\]
@@ -51,8 +47,7 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
 <!-- end list -->
 
   -
-    31歲。日裔美國人，女性，[IMF](../Page/國際貨幣基金組織.md "wikilink")
-    派駐於東京的特派員。米達斯卡為金卡。總是以吃東西的狀態出現。
+    31歲。日裔美國人，女性，[IMF](../Page/國際貨幣基金組織.md "wikilink") 派駐於東京的特派員。米達斯卡為金卡。總是以吃東西的狀態出現。
     負責盯睄三國，偶然間獲得Entrepreneur資格後便開始在金融街收集情報，一直試圖找出三國讓米達斯貨幣在現實流通的原因。
     進行Deal的時候會刻意隱藏實力，故意小輸或小贏讓自己能持續留在金融街。
     後與公麿合作，意圖扭轉三國無限制運用米達斯貨幣所種下的後遺症。
@@ -60,8 +55,7 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
       -
         佐藤的Asset，外形是背後長著兩排角的銀白巨狼，擁有可以變身成人的經濟魔法。
         **中額經濟魔法**「員工收購（Employee Buy-Out）」
-        **巨額經濟魔法**「[合併收購](../Page/併購.md "wikilink")（Mergers &
-        Acquisition）」
+        **巨額經濟魔法**「[合併收購](../Page/併購.md "wikilink")（Mergers & Acquisition）」
 
 ### 金融街
 
@@ -123,9 +117,9 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
 
   -
     與現實分離的異空間，Entrepreneur在此使用Midas Money和Asset進行Deal以增進自己的資產。
-    除了[日本之外](../Page/日本.md "wikilink")，世界上還存在著其他九條金融街。
+    除了[日本](../Page/日本.md "wikilink")之外，世界上還存在著其他九條金融街。
       - 遠東金融街
-        存在於日本的金融街名稱。現實中的範本是存在於[東京都](../Page/東京都.md "wikilink")[中央區的地名](https://zh.wikipedia.org/wiki/中央區 "wikilink")「[兜町](https://zh.wikipedia.org/wiki/兜町 "wikilink")」，指以[東京證券交易所為中心](../Page/東京證券交易所.md "wikilink")，集中了眾多證券公司與銀行的地區。
+        存在於日本的金融街名稱。現實中的範本是存在於[東京都](../Page/東京都.md "wikilink")[中央區的地名](https://zh.wikipedia.org/wiki/中央區 "wikilink")「[兜町](https://zh.wikipedia.org/wiki/兜町 "wikilink")」，指以[東京證券交易所](../Page/東京證券交易所.md "wikilink")為中心，集中了眾多證券公司與銀行的地區。
       - 東南亞金融街
         存在於新加坡的金融街，第九話徹底崩潰後，所在地的新加坡也連帶著消失了。
       - 南美金融街
@@ -151,7 +145,7 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
 
   -
     金融街的掌控者，正式名稱為Bank of Midas，是創造出金融街、開發出米達斯貨幣的超常怪異銀行。
-    目的與經營理念等完全不明。一說是米達斯銀行在人類產生[貨幣概念時即已存在](../Page/貨幣.md "wikilink")，對[意大利](../Page/意大利.md "wikilink")[文藝復興時期的美第奇家族的躍進與](https://zh.wikipedia.org/wiki/文藝復興時期 "wikilink")[希特勒的抬頭均有關係](https://zh.wikipedia.org/wiki/希特勒 "wikilink")。
+    目的與經營理念等完全不明。一說是米達斯銀行在人類產生[貨幣](../Page/貨幣.md "wikilink")概念時即已存在，對[意大利](../Page/意大利.md "wikilink")[文藝復興時期的美第奇家族的躍進與](https://zh.wikipedia.org/wiki/文藝復興時期 "wikilink")[希特勒的抬頭均有關係](https://zh.wikipedia.org/wiki/希特勒 "wikilink")。
 
 :;
 
@@ -229,7 +223,7 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
         根據投資金額的不同，經濟魔法可以分為「小額（Micro）」「中額（Mezzo）」和「巨額（Macro）」三種。
           -
             花費以10萬元起跳，使用起來最為方便的經濟魔法。
-            雖然有屬性上的不同（例如[火與](../Page/火.md "wikilink")[冰](../Page/冰.md "wikilink")），但無論哪個Asset都是物理攻擊的經濟魔法，可以做出像是「投資100萬元，做出10萬元5次及50萬元1次的攻擊」這樣細微的指令，或是交由Asset自行判定要投資多少金額（可由資產的角有無發光來判斷是否已經入帳），仔細研究的話可做出豐富的戰術規劃。
+            雖然有屬性上的不同（例如[火](../Page/火.md "wikilink")與[冰](../Page/冰.md "wikilink")），但無論哪個Asset都是物理攻擊的經濟魔法，可以做出像是「投資100萬元，做出10萬元5次及50萬元1次的攻擊」這樣細微的指令，或是交由Asset自行判定要投資多少金額（可由資產的角有無發光來判斷是否已經入帳），仔細研究的話可做出豐富的戰術規劃。
           -
             花費以100萬元起跳，每個Asset固有的經濟魔法。
             從強力的攻擊魔法、迷惑對手、反射攻擊、預測動向等類型都有，種類非常繁多且不同，通常做為最後一擊使用，但也有在交易初期就使用效果會比較顯著的中額經濟魔法。
@@ -238,9 +232,7 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
                 原為軍事用語，在商業上指的是被視為併購目標的公司大量出售公司資產，或者破壞公司的特性，以挫敗敵意收購人的收購意圖。
               -
                 喬治的中額經濟魔法。可以製造出大片的煙霧擾亂對手，同時把自己變成佐藤的樣子引誘對手攻擊。
-                原指一個公司中大部份或所有的員工結合在一起，以共同營運（Co-operate）或是運用員工持股計劃（Employee
-                Stock Ownership
-                Plan，ESOP）的模式將公司50%以上的股份買下，從而取得所在公司的控制權的行為。
+                原指一個公司中大部份或所有的員工結合在一起，以共同營運（Co-operate）或是運用員工持股計劃（Employee Stock Ownership Plan，ESOP）的模式將公司50%以上的股份買下，從而取得所在公司的控制權的行為。
               -
                 卡茲的中額經濟魔法。能召喚出Entrepreneur所持有的其他Asset，進行雙重攻擊。
                 原指在敵意併購發生時，被視為併購目標公司的友好人士或公司作為第三方出面來解救目標公司、驅逐敵意收購者。
@@ -260,8 +252,7 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
             使用後會對asset造成很大的負擔。
               -
                 真朱的巨額經濟魔法。發動後從天空召來一道極強大的天火，以火焰覆蓋廣泛的範圍，燃盡一切。
-                威力和範圍都在「焦土作戰（Scorched
-                Earth）」的數倍以上。需要巨額成本並且會對真朱自身造成重負，因此不能連發。
+                威力和範圍都在「焦土作戰（Scorched Earth）」的數倍以上。需要巨額成本並且會對真朱自身造成重負，因此不能連發。
                 原指市場供給發展的速度與市場需求發展速度不成比例的現象。當資本增長速度超過市場實際所需要的週期量後，在一定週期階段內就出現相應的市場資源短缺與一定資源的過剩同時出現的矛盾現象，一定時期其會表現為經濟高速發展與物價指數飆高的雙高現象。
               -
                 喬治的巨額經濟魔法，在交易中能完全奪取敵人Asset的支配權，但使用次數有限。
@@ -276,8 +267,7 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
 
 :: 指一個Entrepreneur藉由固定的戰鬥方式持續性地取得Deal的勝利。
 
-::
-原是指一個完整的產品、服務和信息流體系，包括每一個參與者和其在當中起到的作用，以及每一個參與者的潛在利益和相應的收益來源和方式。簡言之，就是公司賺錢的途徑和方式。
+:: 原是指一個完整的產品、服務和信息流體系，包括每一個參與者和其在當中起到的作用，以及每一個參與者的潛在利益和相應的收益來源和方式。簡言之，就是公司賺錢的途徑和方式。
 
 :; 交易的勝敗與報酬
 
@@ -286,11 +276,9 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
       -
         交易勝敗有兩種決定方式，分別是「資本增加率」以及「破產」，不同的獲勝方式報酬也會不同。
 
-::\* **破產**：在交易結束之前，迫使對手的總資本額變為0或以下，此時對手在交易中的消費額、剩餘的資金以及股份(即 Asset
-的所有權)都會歸勝者所有。
+::\* **破產**：在交易結束之前，迫使對手的總資本額變為0或以下，此時對手在交易中的消費額、剩餘的資金以及股份(即 Asset 的所有權)都會歸勝者所有。
 
-::\* **資本增加率**：即「( 後期資本 - 前期資本 ) /
-前期資本」在交易時間結束時比較雙方的資本增加率，較高的人為勝者，此時獲得報酬僅只有對手在交易中的消費額而已。
+::\* **資本增加率**：即「( 後期資本 - 前期資本 ) / 前期資本」在交易時間結束時比較雙方的資本增加率，較高的人為勝者，此時獲得報酬僅只有對手在交易中的消費額而已。
 
 ### 其他用語
 
@@ -315,8 +303,7 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
 
   - 人物設定 : [mebae](https://zh.wikipedia.org/wiki/mebae "wikilink")
 
-  - 動畫人物設定、總作畫監督 :
-    [橋本敬史](https://zh.wikipedia.org/wiki/橋本敬史 "wikilink")、[高田晃](https://zh.wikipedia.org/wiki/高田晃 "wikilink")
+  - 動畫人物設定、總作畫監督 : [橋本敬史](https://zh.wikipedia.org/wiki/橋本敬史 "wikilink")、[高田晃](https://zh.wikipedia.org/wiki/高田晃 "wikilink")
 
   - \-
 
@@ -344,8 +331,7 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
 
   - 音響製作 :
 
-  - 動畫製作 :
-    [龍之子Production](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")
+  - 動畫製作 : [龍之子Production](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")
 
   - 製作 : 「C」製作委員會
 
@@ -354,19 +340,14 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
   - 片頭曲「[マトリョーシカ](https://zh.wikipedia.org/wiki/PASSENGER_\(NICO_Touches_the_Wallsのアルバム\) "wikilink")」
     作詞 : 光村龍哉
     作曲 : 坂倉心悟
-    編曲 :[NICO Touches the
-    Walls](../Page/NICO_Touches_the_Walls.md "wikilink") 、Words
-    produce:淳治
-    歌 : [NICO Touches the
-    Walls](../Page/NICO_Touches_the_Walls.md "wikilink")
+    編曲 :[NICO Touches the Walls](../Page/NICO_Touches_the_Walls.md "wikilink") 、Words produce:淳治
+    歌 : [NICO Touches the Walls](../Page/NICO_Touches_the_Walls.md "wikilink")
     CD發售日：2011年4月6日
   - 片尾曲「RPG」
     作詞 : 內村友美、江口亮
-    作曲 : [School Food
-    Punishment](https://zh.wikipedia.org/wiki/school_food_punishment "wikilink")、江口亮
+    作曲 : [School Food Punishment](https://zh.wikipedia.org/wiki/school_food_punishment "wikilink")、江口亮
     編曲 : 江口亮
-    歌 : [School Food
-    Punishment](https://zh.wikipedia.org/wiki/school_food_punishment "wikilink")
+    歌 : [School Food Punishment](https://zh.wikipedia.org/wiki/school_food_punishment "wikilink")
     CD發售日：2011年5月11日
   - 插入曲「Time capsule/High Heel Shoes In Pink」
     作詞 : かの香織
@@ -548,22 +529,16 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
 
 ## 外部連結
 
-  - [C OFFICIAL
-    SITE官方網頁](https://web.archive.org/web/20110330161203/http://www.noitamina-control.jp//)
+  - [C OFFICIAL SITE官方網頁](https://web.archive.org/web/20110330161203/http://www.noitamina-control.jp//)
 
-[Category:2011年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2011年日本電視動畫 "wikilink")
-[Category:龍之子Production](https://zh.wikipedia.org/wiki/Category:龍之子Production "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:借貸題材作品](https://zh.wikipedia.org/wiki/Category:借貸題材作品 "wikilink")
+[Category:2011年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2011年日本電視動畫 "wikilink") [Category:龍之子Production](https://zh.wikipedia.org/wiki/Category:龍之子Production "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:借貸題材作品](https://zh.wikipedia.org/wiki/Category:借貸題材作品 "wikilink")
 
 1.  [『Ｃ』4月14日（木）より放送スタート！](http://www.noitamina-control.jp/01news/index.html)
 
-
-2.  [金融大戰超次元展開《C》動畫角色設定與參演聲優新公開 -
-    巴哈姆特](http://gnn.gamer.com.tw/3/51543.html)
+2.  [金融大戰超次元展開《C》動畫角色設定與參演聲優新公開 - 巴哈姆特](http://gnn.gamer.com.tw/3/51543.html)
 
 3.
-4.  Lehman Shock，暗指現實中的[雷曼兄弟破產事件](../Page/雷曼兄弟.md "wikilink")
+4.  Lehman Shock，暗指現實中的[雷曼兄弟](../Page/雷曼兄弟.md "wikilink")破產事件
 
 5.  ，官網資料集《資產運用的方法》。
 
@@ -571,5 +546,4 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
 
 7.  動畫中諧音處理為柏金
 
-8.  參閱\[ C \] [OFFICIAL SITE -
-    story集數介紹](http://www.noitamina-control.jp/05story/index.html)
+8.  參閱\[ C \] [OFFICIAL SITE - story集數介紹](http://www.noitamina-control.jp/05story/index.html)

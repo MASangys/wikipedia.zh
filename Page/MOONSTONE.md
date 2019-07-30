@@ -1,4 +1,4 @@
-**MOONSTONE**（**ムーンストーン**）是[日本成人遊戲公司](../Page/日本成人遊戲.md "wikilink")。最初是從另一家成人遊戲公司[CIRCUS的一部份工作人員另外獨自成立的公司](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")。\[1\]
+**MOONSTONE**（**ムーンストーン**）是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司。最初是從另一家成人遊戲公司[CIRCUS的一部份工作人員另外獨自成立的公司](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")。\[1\]
 
 ## 作品列表
 
@@ -10,20 +10,14 @@
   - 2003年11月28日 - 妹 わたし、どんなことだって…
   - 2004年6月25日 - 何処へ行くの、あの日
   - 2005年5月27日 - [Gift](../Page/Gift.md "wikilink")
-      - 2006年1月27日 - [Giftにじいろストーリーズ](../Page/Gift.md "wikilink")
+      - 2006年1月27日 - [Gift](../Page/Gift.md "wikilink")にじいろストーリーズ
   - 2007年8月24日 - [Clear](../Page/Clear_\(遊戲\).md "wikilink")
-      - 2008年5月3日 -
-        [Clearクリスタルストーリーズ](../Page/Clear_\(遊戲\).md "wikilink")
-  - 2009年4月24日 - [マジスキ 〜Marginal
-    Skip〜](https://zh.wikipedia.org/wiki/マジスキ_〜Marginal_Skip〜 "wikilink")
-  - 2010年6月25日 - [Angel Ring
-    〜エンジェルリング〜](../Page/Angel_Ring.md "wikilink")
-  - 2011年7月29日 - [Princess Evangile 〜プリンセス
-    エヴァンジール〜](../Page/Princess_Evangile.md "wikilink")
-      - 2012年6月29日 - [Princess Evangile〜W
-        Happiness〜](../Page/Princess_Evangile.md "wikilink")
-  - 2013年9月27日 - [Magical Marriage Lunatics\!\! 〜マジカル マリッジ
-    ルナティクス〜](../Page/Magical_Marriage_Lunatics!!.md "wikilink")
+      - 2008年5月3日 - [Clearクリスタルストーリーズ](../Page/Clear_\(遊戲\).md "wikilink")
+  - 2009年4月24日 - [マジスキ 〜Marginal Skip〜](https://zh.wikipedia.org/wiki/マジスキ_〜Marginal_Skip〜 "wikilink")
+  - 2010年6月25日 - [Angel Ring 〜エンジェルリング〜](../Page/Angel_Ring.md "wikilink")
+  - 2011年7月29日 - [Princess Evangile 〜プリンセス エヴァンジール〜](../Page/Princess_Evangile.md "wikilink")
+      - 2012年6月29日 - [Princess Evangile〜W Happiness〜](../Page/Princess_Evangile.md "wikilink")
+  - 2013年9月27日 - [Magical Marriage Lunatics\!\! 〜マジカル マリッジ ルナティクス〜](../Page/Magical_Marriage_Lunatics!!.md "wikilink")
   - 2014年4月25日 - [Love Sweets](../Page/Love_Sweets.md "wikilink")
   - 2015年1月30日 - 夏の色のノスタルジア
   - 2016年5月27日 - [サクラノモリ†ドリーマーズ](../Page/櫻之杜†淨夢者.md "wikilink")
@@ -37,15 +31,12 @@
 <!-- end list -->
 
   - 2009年12月18日 - いちゃぷり\! 〜お嬢さまとイチャラブえっちな毎日〜
-  - 2011年1月28日 - [妹ぱらだいす\!
-    〜お兄ちゃんと5人の妹のエッチしまくりな毎日〜](../Page/妹天堂！.md "wikilink")
+  - 2011年1月28日 - [妹ぱらだいす\! 〜お兄ちゃんと5人の妹のエッチしまくりな毎日〜](../Page/妹天堂！.md "wikilink")
       - 2013年3月29日 - 同上増量版
   - 2012年3月23日 - 放課後☆エロゲー部\! 〜エロゲー制作のため女の子たちとえっちしまくりな毎日〜
-  - 2013年5月31日 - [妹ぱらだいす\!2
-    〜お兄ちゃんと5人の妹のも〜っと\!エッチしまくりな毎日〜](../Page/妹天堂！2.md "wikilink")
+  - 2013年5月31日 - [妹ぱらだいす\!2 〜お兄ちゃんと5人の妹のも〜っと\!エッチしまくりな毎日〜](../Page/妹天堂！2.md "wikilink")
   - 2014年10月31日 - デーモンバスターズ ～えっちなえっちなデーモン退治～
-  - 2018年1月26日 - [妹ぱらだいす\!3
-    ～お兄ちゃんと5人の妹のすご～く\!エッチしまくりな毎日～](../Page/妹天堂！3.md "wikilink")
+  - 2018年1月26日 - [妹ぱらだいす\!3 ～お兄ちゃんと5人の妹のすご～く\!エッチしまくりな毎日～](../Page/妹天堂！3.md "wikilink")
   - 2019年9月27日 - セックスオープンワールドへようこそ！
 
 <!-- end list -->
@@ -111,7 +102,6 @@
   -
   - [Argonauts](https://argonauts-soft.com/)
 
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
 
 1.

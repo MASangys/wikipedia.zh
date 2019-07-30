@@ -8,10 +8,8 @@
 
 ## 历史
 
-  - 1975年11月28日 -
-    [東北自動車道](https://zh.wikipedia.org/wiki/東北自動車道 "wikilink")[仙台南IC至泉IC開通](https://zh.wikipedia.org/wiki/仙台南IC "wikilink")，此IC同時啟用
-  - 1976年12月9日 -
-    東北自動車道泉IC至[古川IC開通](https://zh.wikipedia.org/wiki/古川IC "wikilink")。
+  - 1975年11月28日 - [東北自動車道](https://zh.wikipedia.org/wiki/東北自動車道 "wikilink")[仙台南IC至泉IC開通](https://zh.wikipedia.org/wiki/仙台南IC "wikilink")，此IC同時啟用
+  - 1976年12月9日 - 東北自動車道泉IC至[古川IC開通](https://zh.wikipedia.org/wiki/古川IC "wikilink")。
 
 ## 收費站設施
 
@@ -39,12 +37,7 @@
 ## 鄰近設施
 
   - [東北自動車道](https://zh.wikipedia.org/wiki/東北自動車道 "wikilink")
-    (28)[仙台宮城IC](https://zh.wikipedia.org/wiki/仙台宮城IC "wikilink") -
-    (28-1)[泉PA/SIC](https://zh.wikipedia.org/wiki/泉PA "wikilink") -
-    (29)**泉IC** -
-    (29-1)[富谷JCT](https://zh.wikipedia.org/wiki/富谷JCT "wikilink")
-    - [鶴巢PA](https://zh.wikipedia.org/wiki/鶴巢PA "wikilink") -
-    (30)[大和IC](https://zh.wikipedia.org/wiki/大和IC "wikilink")
+    (28)[仙台宮城IC](https://zh.wikipedia.org/wiki/仙台宮城IC "wikilink") - (28-1)[泉PA/SIC](https://zh.wikipedia.org/wiki/泉PA "wikilink") - (29)**泉IC** - (29-1)[富谷JCT](https://zh.wikipedia.org/wiki/富谷JCT "wikilink") - [鶴巢PA](https://zh.wikipedia.org/wiki/鶴巢PA "wikilink") - (30)[大和IC](https://zh.wikipedia.org/wiki/大和IC "wikilink")
 
 ## 相關項目
 
@@ -54,6 +47,4 @@
 
   - [東日本高速道路](http://www.e-nexco.co.jp/)
 
-[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink")
-[Category:宮城縣交流道](https://zh.wikipedia.org/wiki/Category:宮城縣交流道 "wikilink")
-[Category:泉區_(仙台市)](https://zh.wikipedia.org/wiki/Category:泉區_\(仙台市\) "wikilink")
+[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink") [Category:宮城縣交流道](https://zh.wikipedia.org/wiki/Category:宮城縣交流道 "wikilink") [Category:泉區_(仙台市)](https://zh.wikipedia.org/wiki/Category:泉區_\(仙台市\) "wikilink")

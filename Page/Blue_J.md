@@ -1,6 +1,4 @@
-《**Blue
-J**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[紀佳松的大碟](../Page/紀佳松.md "wikilink")，於2009年3月6日推出，由[巨室音樂製作](https://zh.wikipedia.org/wiki/巨室音樂 "wikilink")，[環球唱片
-(台灣)發行](https://zh.wikipedia.org/wiki/環球唱片_\(台灣\) "wikilink")，是其第一張國語專輯。專輯的第一主打歌是改編其父[紀明陽監製](https://zh.wikipedia.org/wiki/紀明陽 "wikilink")、[黃乙玲演繹的歌曲](https://zh.wikipedia.org/wiki/黃乙玲 "wikilink")《水潑落地難收回》的《水潑落地難收回2009》，而第二主打歌為《每天》。
+《**Blue J**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[紀佳松](../Page/紀佳松.md "wikilink")的大碟，於2009年3月6日推出，由[巨室音樂製作](https://zh.wikipedia.org/wiki/巨室音樂 "wikilink")，[環球唱片 (台灣)發行](https://zh.wikipedia.org/wiki/環球唱片_\(台灣\) "wikilink")，是其第一張國語專輯。專輯的第一主打歌是改編其父[紀明陽監製](https://zh.wikipedia.org/wiki/紀明陽 "wikilink")、[黃乙玲演繹的歌曲](https://zh.wikipedia.org/wiki/黃乙玲 "wikilink")《水潑落地難收回》的《水潑落地難收回2009》，而第二主打歌為《每天》。
 
 ## 曲目
 
@@ -204,6 +202,4 @@ J**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Pa
 
 (\*)表示仍在榜上 **粗體**表示冠軍歌
 
-[Category:紀佳松音樂專輯](https://zh.wikipedia.org/wiki/Category:紀佳松音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:紀佳松音樂專輯](https://zh.wikipedia.org/wiki/Category:紀佳松音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")

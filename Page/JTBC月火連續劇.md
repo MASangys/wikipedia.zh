@@ -1,4 +1,4 @@
-**JTBC月火連續劇**（），是逢[星期一](../Page/星期一.md "wikilink")、[星期二在](https://zh.wikipedia.org/wiki/星期二 "wikilink")[JTBC電視台播映的](../Page/JTBC.md "wikilink")[韓國電視劇](../Page/韓國電視劇.md "wikilink")。2017年12月重新推出月火劇\[1\]。
+**JTBC月火連續劇**（），是逢[星期一](../Page/星期一.md "wikilink")、[星期二在](https://zh.wikipedia.org/wiki/星期二 "wikilink")[JTBC](../Page/JTBC.md "wikilink")電視台播映的[韓國電視劇](../Page/韓國電視劇.md "wikilink")。2017年12月重新推出月火劇\[1\]。
 
 ## 播出時間更動表
 
@@ -459,7 +459,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年5月27日 - 2019年7月</p></td>
+<td style="text-align: center;"><p>2019年5月27日 - 2019年7月16日</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/風在吹_(電視劇)" title="wikilink">風在吹</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
@@ -469,23 +469,33 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年7月22日 - 2019年9月</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/十八的瞬間" title="wikilink">十八的瞬間</a><br />
+<td style="text-align: center;"><p>2019年7月22日 - 2019年9月10日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/18歲的瞬間" title="wikilink">18歲的瞬間</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a>、<a href="../Page/金香起.md" title="wikilink">金香起</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a>、<a href="../Page/金香起.md" title="wikilink">金香起</a>、<a href="https://zh.wikipedia.org/wiki/申承浩" title="wikilink">申承浩</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/沈娜妍" title="wikilink">沈娜妍</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹景雅" title="wikilink">尹景雅</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年9月 - 2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/花黨：朝鮮婚姻介紹所" title="wikilink">花黨：朝鮮婚姻介紹所</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朝鮮婚姻介紹所：花黨" title="wikilink">朝鮮婚姻介紹所：花黨</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴志訓" title="wikilink">朴志訓</a>、<a href="../Page/孔升妍.md" title="wikilink">孔升妍</a>、<a href="../Page/金旻載.md" title="wikilink">金旻載</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金旻載.md" title="wikilink">金旻載</a>、<a href="../Page/孔升妍.md" title="wikilink">孔升妍</a>、<a href="../Page/徐志焄.md" title="wikilink">徐志焄</a>、<a href="https://zh.wikipedia.org/wiki/朴志訓" title="wikilink">朴志訓</a>、<a href="https://zh.wikipedia.org/wiki/卞宇錫" title="wikilink">卞宇錫</a>、<a href="../Page/高媛熙.md" title="wikilink">高媛熙</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金佳藍" title="wikilink">金佳藍</a></p></td>
 <td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年11月–2019年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/輔佐官2" title="wikilink">輔佐官2</a><br />
+</p></td>
+<td style="text-align: center;"><p>10</p></td>
+<td style="text-align: center;"><p><a href="../Page/李政宰.md" title="wikilink">李政宰</a>、<a href="../Page/新慜娥.md" title="wikilink">新慜娥</a>、<a href="../Page/金桐俊.md" title="wikilink">金桐俊</a>、<a href="../Page/李伊利雅.md" title="wikilink">李伊利雅</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/郭正煥" title="wikilink">郭正煥</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李大日" title="wikilink">李大日</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -543,10 +553,6 @@
   - [KBS月火連續劇](../Page/KBS月火連續劇.md "wikilink")
   - [OCN月火連續劇](https://zh.wikipedia.org/wiki/OCN月火連續劇 "wikilink")
 
-[Category:JTBC月火連續劇](https://zh.wikipedia.org/wiki/Category:JTBC月火連續劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:JTBC月火連續劇](https://zh.wikipedia.org/wiki/Category:JTBC月火連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
-1.  [JTBC, 드라마 시간대 확장\! 12월부터 신규 월화드라마
-    신설](http://news.jtbc.joins.com/article/article.aspx?news_id=NB11520968)
+1.  [JTBC, 드라마 시간대 확장\! 12월부터 신규 월화드라마 신설](http://news.jtbc.joins.com/article/article.aspx?news_id=NB11520968)

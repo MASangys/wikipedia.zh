@@ -1,5 +1,4 @@
-**Taru**（타루）（1982年7月10日－），韩国女歌手，藝名「타루」取自漢字「墮淚」，本名**金敏英**（김민영）。2002年至2007年担任韩国乐队The
-Melody的主唱，2007年离开乐队，2008年开始活跃于韩国乐坛。
+**Taru**（타루）（1982年7月10日－），韩国女歌手，藝名「타루」取自漢字「墮淚」，本名**金敏英**（김민영）。2002年至2007年担任韩国乐队The Melody的主唱，2007年离开乐队，2008年开始活跃于韩国乐坛。
 
 ## 作品列表
 
@@ -169,6 +168,4 @@ Melody的主唱，2007年离开乐队，2008年开始活跃于韩国乐坛。
   - [Taru的個人主頁](http://twitter.com/tarushaman)
   - [Taru的facebook個人主頁](https://www.facebook.com/official.taru?fref=ts)
 
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")

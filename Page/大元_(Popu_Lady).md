@@ -1,11 +1,8 @@
-**林盈臻**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：DaYuan
-Lin，），藝名**大元**，[臺灣女藝人](../Page/臺灣.md "wikilink")，現為[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")[Popu
-Lady成員](../Page/Popu_Lady.md "wikilink")。
+**林盈臻**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：DaYuan Lin，），藝名**大元**，[臺灣](../Page/臺灣.md "wikilink")女藝人，現為[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")[Popu Lady成員](../Page/Popu_Lady.md "wikilink")。
 
 ## 經歷
 
-2010年，大元因主持各電視綜藝節目和擔任《[大學生了沒](../Page/大學生了沒.md "wikilink")》等節目嘉賓而初次受到關注\[1\]。2010年被[華研國際音樂發掘後](../Page/華研國際音樂.md "wikilink")，曾參與多部戲劇演出，拍攝多個廣告，發行冩真集。2011年在公司定案要成立新的女子團體之後，經過一年與團員合宿培訓，在2012年12月14日發行Popu
-Lady的首張寫真迷你專輯《一直一直愛》正式跨足歌手領域，現為華研旗下女子團體Popu Lady成員。
+2010年，大元因主持各電視綜藝節目和擔任《[大學生了沒](../Page/大學生了沒.md "wikilink")》等節目嘉賓而初次受到關注\[1\]。2010年被[華研國際音樂](../Page/華研國際音樂.md "wikilink")發掘後，曾參與多部戲劇演出，拍攝多個廣告，發行冩真集。2011年在公司定案要成立新的女子團體之後，經過一年與團員合宿培訓，在2012年12月14日發行Popu Lady的首張寫真迷你專輯《一直一直愛》正式跨足歌手領域，現為華研旗下女子團體Popu Lady成員。
 
 ## 影视作品
 
@@ -68,8 +65,8 @@ Lady的首張寫真迷你專輯《一直一直愛》正式跨足歌手領域，�
 </tr>
 <tr class="even">
 <td></td>
-<td></td>
-<td></td>
+<td><p>|《<a href="https://zh.wikipedia.org/wiki/打CALL天團" title="wikilink">打CALL天團</a>》</p></td>
+<td><p>若曦</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -86,12 +83,11 @@ Lady的首張寫真迷你專輯《一直一直愛》正式跨足歌手領域，�
 | 2017年1月1日  | 《[麥呆的劈腿日記](../Page/麥呆的劈腿日記.md "wikilink")》                                | 可倩   | 女主角 |
 | 待上映        | 《[學長](../Page/學長_\(電影\).md "wikilink")》                                   | 熊維妮  |     |
 | 2018年      | 《[最佳前男友之月老下凡来爱你](https://zh.wikipedia.org/wiki/最佳前男友之月老下凡来爱你 "wikilink")》 |      |     |
-|            |                                                                           |      |     |
+|            | 《[打CALL天團](https://zh.wikipedia.org/wiki/打CALL天團 "wikilink")》             | 若曦   | 女主角 |
 
 ## 音樂作品
 
-  - **<small>註：團體Popu Lady的音樂作品請參閱[Popu
-    Lady條目](../Page/Popu_Lady.md "wikilink")**</small>
+  - **<small>註：團體Popu Lady的音樂作品請參閱[Popu Lady條目](../Page/Popu_Lady.md "wikilink")**</small>
 
 ## 主持作品
 
@@ -108,8 +104,7 @@ Lady的首張寫真迷你專輯《一直一直愛》正式跨足歌手領域，�
 
 ## 廣告代言
 
-**<small>註：以團體Popu Lady身份的廣告/代言請參閱[Popu
-Lady條目](../Page/Popu_Lady.md "wikilink")**</small>
+**<small>註：以團體Popu Lady身份的廣告/代言請參閱[Popu Lady條目](../Page/Popu_Lady.md "wikilink")**</small>
 
 | style="background:\#ff9cc0|代言年份 | style="background:\#ff9cc0|產品/活動                          | style="background:\#ff9cc0|備註 |
 | ------------------------------- | --------------------------------------------------------- | ----------------------------- |
@@ -124,8 +119,7 @@ Lady條目](../Page/Popu_Lady.md "wikilink")**</small>
 
 ## 書籍作品
 
-**<small>註：以團體Popu Lady身份出道後的團體書籍作品請參閱[Popu
-Lady條目](../Page/Popu_Lady.md "wikilink")**</small>
+**<small>註：以團體Popu Lady身份出道後的團體書籍作品請參閱[Popu Lady條目](../Page/Popu_Lady.md "wikilink")**</small>
 
 | style="background:\#ff9cc0|發行日期 | style="background:\#ff9cc0|書名 | style="background:\#ff9cc0|出版社 |
 | ------------------------------- | ----------------------------- | ------------------------------ |
@@ -140,13 +134,6 @@ Lady條目](../Page/Popu_Lady.md "wikilink")**</small>
   -
   -
   -
-[Category:台灣電視女演員](https://zh.wikipedia.org/wiki/Category:台灣電視女演員 "wikilink")
-[Category:台灣女歌手](https://zh.wikipedia.org/wiki/Category:台灣女歌手 "wikilink")
-[Category:台灣電視主持人](https://zh.wikipedia.org/wiki/Category:台灣電視主持人 "wikilink")
-[Category:林姓](https://zh.wikipedia.org/wiki/Category:林姓 "wikilink")
-[Category:Popu_Lady](https://zh.wikipedia.org/wiki/Category:Popu_Lady "wikilink")
-[Category:輔仁大學校友](https://zh.wikipedia.org/wiki/Category:輔仁大學校友 "wikilink")
-[Category:華研國際音樂藝人](https://zh.wikipedia.org/wiki/Category:華研國際音樂藝人 "wikilink")
+[Category:台灣電視女演員](https://zh.wikipedia.org/wiki/Category:台灣電視女演員 "wikilink") [Category:台灣女歌手](https://zh.wikipedia.org/wiki/Category:台灣女歌手 "wikilink") [Category:台灣電視主持人](https://zh.wikipedia.org/wiki/Category:台灣電視主持人 "wikilink") [Category:林姓](https://zh.wikipedia.org/wiki/Category:林姓 "wikilink") [Category:Popu_Lady](https://zh.wikipedia.org/wiki/Category:Popu_Lady "wikilink") [Category:輔仁大學校友](https://zh.wikipedia.org/wiki/Category:輔仁大學校友 "wikilink") [Category:華研國際音樂藝人](https://zh.wikipedia.org/wiki/Category:華研國際音樂藝人 "wikilink")
 
-1.  正妹時代. [大元 林盈臻 Popu Lady
-    國民夢幻宅男女神](http://cutiesgeneration.com/大元-popu-lady-國民夢幻宅男女神/)
+1.  正妹時代. [大元 林盈臻 Popu Lady 國民夢幻宅男女神](http://cutiesgeneration.com/大元-popu-lady-國民夢幻宅男女神/)

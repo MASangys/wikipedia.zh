@@ -1,6 +1,4 @@
-「**One Room
-Disco**」（）是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第九張](../Page/Perfume_\(日本音樂團體\).md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2009年3月25日發行。唱片公司為[Tokuma
-Japan Communications](../Page/德間日本傳播.md "wikilink")。
+「**One Room Disco**」（）是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第九張](../Page/Perfume_\(日本音樂團體\).md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2009年3月25日發行。唱片公司為[Tokuma Japan Communications](../Page/德間日本傳播.md "wikilink")。
 
 ## 解説
 
@@ -20,8 +18,4 @@ Japan Communications](../Page/德間日本傳播.md "wikilink")。
 ## 外部連結
 
   -
-[Category:Perfume歌曲](https://zh.wikipedia.org/wiki/Category:Perfume歌曲 "wikilink")
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:2009年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2009年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2009年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
+[Category:Perfume歌曲](https://zh.wikipedia.org/wiki/Category:Perfume歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:2009年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon單曲週榜冠軍作品 "wikilink") [Category:2009年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2009年Japan_Hot_100冠軍歌曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")

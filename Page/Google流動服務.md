@@ -1,5 +1,4 @@
-**Google流動服務**（英文：**Google Mobile
-Services**）是[Google的一項服務](../Page/Google.md "wikilink")，讓用戶利用[流動電話或其他](https://zh.wikipedia.org/wiki/流動電話 "wikilink")[流動裝置使用](https://zh.wikipedia.org/wiki/流動裝置 "wikilink")[Google搜尋](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")、[Google地圖](https://zh.wikipedia.org/wiki/Google地圖 "wikilink")、[Gmail](../Page/Gmail.md "wikilink")、[YouTube等Google產品](../Page/YouTube.md "wikilink")。
+**Google流動服務**（英文：**Google Mobile Services**）是[Google](../Page/Google.md "wikilink")的一項服務，讓用戶利用[流動電話或其他](https://zh.wikipedia.org/wiki/流動電話 "wikilink")[流動裝置使用](https://zh.wikipedia.org/wiki/流動裝置 "wikilink")[Google搜尋](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")、[Google地圖](https://zh.wikipedia.org/wiki/Google地圖 "wikilink")、[Gmail](../Page/Gmail.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")等Google產品。
 
 ## 適用裝置
 
@@ -10,8 +9,7 @@ Services**）是[Google的一項服務](../Page/Google.md "wikilink")，讓用�
   - [Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")
   - [Nokia S60](https://zh.wikipedia.org/wiki/Nokia_S60 "wikilink")
   - [Samsung](https://zh.wikipedia.org/wiki/Samsung "wikilink")
-  - [Sony
-    Ericsson](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")
+  - [Sony Ericsson](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")
   - [Windows Mobile](../Page/Windows_Mobile.md "wikilink")
 
 ## 參考資料

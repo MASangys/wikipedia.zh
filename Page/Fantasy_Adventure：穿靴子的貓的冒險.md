@@ -1,5 +1,4 @@
-《**Fantasy
-Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日每週星期三7時00分〜7時30分期間放送的冒險系奇幻[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。於[東京電視台上放送](../Page/東京電視台.md "wikilink")。動畫製作由負責。全26話。
+《**Fantasy Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日每週星期三7時00分〜7時30分期間放送的冒險系奇幻[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。於[東京電視台](../Page/東京電視台.md "wikilink")上放送。動畫製作由負責。全26話。
 
 ## 概要
 
@@ -35,8 +34,7 @@ Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日
   - 音樂 - 村上浩司
   - 音樂製作協力 - [Horipro](../Page/Horipro.md "wikilink")
   - 製作人 - 神田豊
-  - 美術設定 -
-    [小林七郎](https://zh.wikipedia.org/wiki/小林七郎 "wikilink")、大山哲史、井野部修
+  - 美術設定 - [小林七郎](https://zh.wikipedia.org/wiki/小林七郎 "wikilink")、大山哲史、井野部修
   - 美術材料 - 宮前光春、秋保富惠、東條俊寿
   - 撮影監督 - 沖野雅英
   - 編集 - 鶴渕友彰
@@ -44,17 +42,13 @@ Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日
   - 攝影 - ティ・ニシムラ
   - 音響監督 - [田中英行](https://zh.wikipedia.org/wiki/田中英行 "wikilink")
   - 修音 - 池上信照
-  - 效果 - [Anime Sound
-    Production](https://zh.wikipedia.org/wiki/Anime_Sound_Production "wikilink")
+  - 效果 - [Anime Sound Production](https://zh.wikipedia.org/wiki/Anime_Sound_Production "wikilink")
 
 ## 主題曲
 
   - 片頭曲「8ビートのエチュード」
-    歌 -
-    [千葉美加](../Page/千葉美加.md "wikilink")（[索尼唱片](../Page/Sony_Music_Records.md "wikilink")）
-    作詞 - [まさごろ](https://zh.wikipedia.org/wiki/まさごろ "wikilink")、作曲 -
-    [REMOTE](https://zh.wikipedia.org/wiki/REMOTE "wikilink")、編曲 -
-    [梁邦彦](../Page/梁邦彦.md "wikilink")
+    歌 - [千葉美加](../Page/千葉美加.md "wikilink")（[索尼唱片](../Page/Sony_Music_Records.md "wikilink")）
+    作詞 - [まさごろ](https://zh.wikipedia.org/wiki/まさごろ "wikilink")、作曲 - [REMOTE](https://zh.wikipedia.org/wiki/REMOTE "wikilink")、編曲 - [梁邦彦](../Page/梁邦彦.md "wikilink")
   - 片尾曲「Heart to Heart」
     歌 - 千葉美加（索尼唱片）
     作詞 - まさごろ、作曲・編曲 - 梁邦彦
@@ -299,11 +293,6 @@ Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日
 
 <references/>
 
-[Category:1992年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1992年日本電視動畫 "wikilink")
-[Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink")
-[Category:貓主角故事](https://zh.wikipedia.org/wiki/Category:貓主角故事 "wikilink")
-[Category:鹅妈妈的故事题材作品](https://zh.wikipedia.org/wiki/Category:鹅妈妈的故事题材作品 "wikilink")
-[Category:文學作品改編動畫](https://zh.wikipedia.org/wiki/Category:文學作品改編動畫 "wikilink")
-[Category:貓電影](https://zh.wikipedia.org/wiki/Category:貓電影 "wikilink")
+[Category:1992年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1992年日本電視動畫 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:貓主角故事](https://zh.wikipedia.org/wiki/Category:貓主角故事 "wikilink") [Category:鹅妈妈的故事题材作品](https://zh.wikipedia.org/wiki/Category:鹅妈妈的故事题材作品 "wikilink") [Category:文學作品改編動畫](https://zh.wikipedia.org/wiki/Category:文學作品改編動畫 "wikilink") [Category:貓電影](https://zh.wikipedia.org/wiki/Category:貓電影 "wikilink")
 
 1.  熊本日日新聞電視台專欄

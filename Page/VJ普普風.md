@@ -1,5 +1,4 @@
-《**VJ普普風**》是[Channel
-\[V](../Page/Channel_V.md "wikilink")\]（台灣）播出的[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，於2009年1月7日開始播映。該節目原本由[小香](../Page/趙延慶.md "wikilink")、亨利輪流主持，之後就由[黑澀會美眉](../Page/黑澀會美眉.md "wikilink")、[Choc7](../Page/Choc7.md "wikilink")、[模-{范}-三軍輪流主持](../Page/模范三軍.md "wikilink")，後來就由[四妞妞](../Page/黑Girl.md "wikilink")（[丫頭](../Page/詹子晴.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink")、[允菲](https://zh.wikipedia.org/wiki/林允菲 "wikilink")、[斯亞](../Page/陳斯亞.md "wikilink")），該節目是由[美眉普普風](../Page/美眉普普風.md "wikilink")改版而成的節目。
+《**VJ普普風**》是[Channel \[V](../Page/Channel_V.md "wikilink")\]（台灣）播出的[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，於2009年1月7日開始播映。該節目原本由[小香](../Page/趙延慶.md "wikilink")、亨利輪流主持，之後就由[黑澀會美眉](../Page/黑澀會美眉.md "wikilink")、[Choc7](../Page/Choc7.md "wikilink")、[模-{范}-三軍輪流主持](../Page/模范三軍.md "wikilink")，後來就由[四妞妞](../Page/黑Girl.md "wikilink")（[丫頭](../Page/詹子晴.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink")、[允菲](https://zh.wikipedia.org/wiki/林允菲 "wikilink")、[斯亞](../Page/陳斯亞.md "wikilink")），該節目是由[美眉普普風](../Page/美眉普普風.md "wikilink")改版而成的節目。
 
 由於Channel \[V\]不斷推出新節目影響節目時間表，使得節目於2010年5月28日播出最後一集後停播，\[1\]
 
@@ -461,10 +460,6 @@ Wenzi</p></td>
 
 ## 參考資料
 
-[Category:台灣電視節目](https://zh.wikipedia.org/wiki/Category:台灣電視節目 "wikilink")
-[Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink")
-[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
-[Category:音樂節目](https://zh.wikipedia.org/wiki/Category:音樂節目 "wikilink")
+[Category:台灣電視節目](https://zh.wikipedia.org/wiki/Category:台灣電視節目 "wikilink") [Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink") [Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink") [Category:音樂節目](https://zh.wikipedia.org/wiki/Category:音樂節目 "wikilink")
 
-1.  [開眼電影電視娛樂網 @movies
-    <http://www.atmovies.com.tw>](http://tv.atmovies.com.tw/tv/attv.cfm?action=channeltime&channel_id=CH71&tday=2010-06-01)
+1.  [開眼電影電視娛樂網 @movies <http://www.atmovies.com.tw>](http://tv.atmovies.com.tw/tv/attv.cfm?action=channeltime&channel_id=CH71&tday=2010-06-01)

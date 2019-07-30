@@ -1,9 +1,8 @@
-**Eva會客室**是由[亞洲電視於](../Page/亞洲電視.md "wikilink")2011年起播出至2012年9月29日
-的[清談節目](https://zh.wikipedia.org/wiki/清談節目 "wikilink")，原本Eva會客室是由午間資訊娛樂節目《[生活加油站](../Page/生活加油站.md "wikilink")》的長壽環節，後轉為獨立節目於晚上[黃金時段播出](https://zh.wikipedia.org/wiki/黃金時段 "wikilink")。
+**Eva會客室**是由[亞洲電視](../Page/亞洲電視.md "wikilink")於2011年起播出至2012年9月29日 的[清談節目](https://zh.wikipedia.org/wiki/清談節目 "wikilink")，原本Eva會客室是由午間資訊娛樂節目《[生活加油站](../Page/生活加油站.md "wikilink")》的長壽環節，後轉為獨立節目於晚上[黃金時段播出](https://zh.wikipedia.org/wiki/黃金時段 "wikilink")。
 
 ## 簡介
 
-**Eva會客室**由[黎燕珊及](../Page/黎燕珊.md "wikilink")[馮家俊主持](https://zh.wikipedia.org/wiki/馮家俊 "wikilink")，每集都會邀請城中知名嘉賓接受訪問，當中包括娛樂熱話主角、中港台歌手、人氣主播、影視紅人、官商政要、名流望族、名人學者等，透過輕鬆訪問，讓觀眾全方位了解嘉賓，從交談中獲到得著。
+**Eva會客室**由[黎燕珊](../Page/黎燕珊.md "wikilink")及[馮家俊主持](https://zh.wikipedia.org/wiki/馮家俊 "wikilink")，每集都會邀請城中知名嘉賓接受訪問，當中包括娛樂熱話主角、中港台歌手、人氣主播、影視紅人、官商政要、名流望族、名人學者等，透過輕鬆訪問，讓觀眾全方位了解嘉賓，從交談中獲到得著。
 
 ## 每集訪問人物
 
@@ -76,7 +75,4 @@
   - [生活加油站](../Page/生活加油站.md "wikilink")
   - [黎燕珊](../Page/黎燕珊.md "wikilink")
 
-[Category:香港電視小作品](https://zh.wikipedia.org/wiki/Category:香港電視小作品 "wikilink")
-[Category:2011年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2011年亞洲電視節目 "wikilink")
-[Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink")
-[Category:亞洲電視清談節目](https://zh.wikipedia.org/wiki/Category:亞洲電視清談節目 "wikilink")
+[Category:香港電視小作品](https://zh.wikipedia.org/wiki/Category:香港電視小作品 "wikilink") [Category:2011年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2011年亞洲電視節目 "wikilink") [Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink") [Category:亞洲電視清談節目](https://zh.wikipedia.org/wiki/Category:亞洲電視清談節目 "wikilink")

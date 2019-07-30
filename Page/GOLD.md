@@ -1,12 +1,10 @@
-《**GOLD**》，[富士電視台系列自](../Page/富士電視台.md "wikilink")2010年7月8日起播出的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。播出時間為每周四22:00
-\~ 22:54（[JST](../Page/日本標準時間.md "wikilink")）。播到2010年9月16日，第一集22:00 \~
-23:09延長15分鐘。總共11集。
+《**GOLD**》，[富士電視台](../Page/富士電視台.md "wikilink")系列自2010年7月8日起播出的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。播出時間為每周四22:00 \~ 22:54（[JST](../Page/日本標準時間.md "wikilink")）。播到2010年9月16日，第一集22:00 \~ 23:09延長15分鐘。總共11集。
 
 ## 概要
 
-透過一名撫養了4個子女的女性，描寫最終的家庭之愛的[家庭劇](https://zh.wikipedia.org/wiki/家庭劇 "wikilink")。編劇為富士電視台系列《[沒有薔薇的花店](https://zh.wikipedia.org/wiki/沒有玫瑰的花店 "wikilink")》等的[野島伸司](../Page/野島伸司.md "wikilink")。[天海祐希繼](../Page/天海祐希.md "wikilink")《[BOSS女王](https://zh.wikipedia.org/wiki/BOSS "wikilink")》以來的主演作品，繼《[不毛地帶](../Page/不毛地帶.md "wikilink")》以來的[木曜劇場作品](https://zh.wikipedia.org/wiki/富士電視台週四連續劇 "wikilink")。
+透過一名撫養了4個子女的女性，描寫最終的家庭之愛的[家庭劇](https://zh.wikipedia.org/wiki/家庭劇 "wikilink")。編劇為富士電視台系列《[沒有薔薇的花店](https://zh.wikipedia.org/wiki/沒有玫瑰的花店 "wikilink")》等的[野島伸司](../Page/野島伸司.md "wikilink")。[天海祐希](../Page/天海祐希.md "wikilink")繼《[BOSS女王](https://zh.wikipedia.org/wiki/BOSS "wikilink")》以來的主演作品，繼《[不毛地帶](../Page/不毛地帶.md "wikilink")》以來的[木曜劇場作品](https://zh.wikipedia.org/wiki/富士電視台週四連續劇 "wikilink")。
 
-[廣告標語為](../Page/廣告標語.md "wikilink")「**天海祐希，以金牌為目標。**」
+[廣告標語](../Page/廣告標語.md "wikilink")為「**天海祐希，以金牌為目標。**」
 
 ## 演員陣容
 
@@ -17,8 +15,7 @@
 <!-- end list -->
 
   -
-    42歲。管理健身房·美容院的YS
-    Corporation的[CEO](https://zh.wikipedia.org/wiki/執行長 "wikilink")，頂尖的美容研究家，也在電視上演出。無論再怎麼忙，也親自做家事，希望孩子們在奧運上奪得金牌。從第一代開始收集[麗佳娃娃的人偶](https://zh.wikipedia.org/wiki/麗佳娃娃 "wikilink")。在年幼時因為親眼看見保坂的妻子為了保護自己而被強盜殺死，因而導致精神創傷，對罪犯感到強烈的氣憤。
+    42歲。管理健身房·美容院的YS Corporation的[CEO](https://zh.wikipedia.org/wiki/執行長 "wikilink")，頂尖的美容研究家，也在電視上演出。無論再怎麼忙，也親自做家事，希望孩子們在奧運上奪得金牌。從第一代開始收集[麗佳娃娃的人偶](https://zh.wikipedia.org/wiki/麗佳娃娃 "wikilink")。在年幼時因為親眼看見保坂的妻子為了保護自己而被強盜殺死，因而導致精神創傷，對罪犯感到強烈的氣憤。
 
 <!-- end list -->
 
@@ -90,8 +87,7 @@
 <!-- end list -->
 
   -
-    40歲。YS
-    Corporation美容部的負責人。悠-{里}-對她也相當信賴。「10年前，因沉迷於[柏青哥而將自己的孩子丟在車裡](../Page/彈珠機.md "wikilink")，導致其[中暑去世](https://zh.wikipedia.org/wiki/中暑 "wikilink")。」從顧客那裡聽到這則往事的職員開始散播傳言，幸惠為了不給公司帶來麻煩而遞交辭呈。了解情況的悠-{里}-雖極力挽留，仍抵不過她堅決的辭意。
+    40歲。YS Corporation美容部的負責人。悠-{里}-對她也相當信賴。「10年前，因沉迷於[柏青哥而將自己的孩子丟在車裡](../Page/彈珠機.md "wikilink")，導致其[中暑去世](https://zh.wikipedia.org/wiki/中暑 "wikilink")。」從顧客那裡聽到這則往事的職員開始散播傳言，幸惠為了不給公司帶來麻煩而遞交辭呈。了解情況的悠-{里}-雖極力挽留，仍抵不過她堅決的辭意。
 
 <!-- end list -->
 
@@ -100,8 +96,7 @@
 <!-- end list -->
 
   -
-    YS
-    Corporation的美容師。因為失戀的打擊，體重由46kg增加到68kg，遭悠-{里}-告誡必須在期限內減重10kg，但她反駁悠-{里}-這幾乎不可能。因理佳之助而只受到減薪處分，減重成功前不得出現於客人面前並轉為雜役。
+    YS Corporation的美容師。因為失戀的打擊，體重由46kg增加到68kg，遭悠-{里}-告誡必須在期限內減重10kg，但她反駁悠-{里}-這幾乎不可能。因理佳之助而只受到減薪處分，減重成功前不得出現於客人面前並轉為雜役。
 
 <!-- end list -->
 
@@ -119,8 +114,7 @@
 <!-- end list -->
 
   -
-    38歲。前游泳選手，為洸、廉、晶的教練員，同時也是洸的教練。一力承擔YS
-    Corporation的體育俱樂部部門，悠-{里}-對其相當信賴。他是悠-{里}-、修一的青梅竹馬，偷偷愛慕著悠-{里}-。也是唯一知道修一事故身亡真相者。
+    38歲。前游泳選手，為洸、廉、晶的教練員，同時也是洸的教練。一力承擔YS Corporation的體育俱樂部部門，悠-{里}-對其相當信賴。他是悠-{里}-、修一的青梅竹馬，偷偷愛慕著悠-{里}-。也是唯一知道修一事故身亡真相者。
 
 ### 丹羽家
 
@@ -183,8 +177,7 @@
 <!-- end list -->
 
   -
-    溫泉街的伴遊。在遭遇丈夫DV（Domestic
-    Violence，[家庭暴力](../Page/家庭暴力.md "wikilink")）時，遇見當時進行強化特訓的修一，之後又因為丈夫的DV造成失語症。
+    溫泉街的伴遊。在遭遇丈夫DV（Domestic Violence，[家庭暴力](../Page/家庭暴力.md "wikilink")）時，遇見當時進行強化特訓的修一，之後又因為丈夫的DV造成失語症。
 
 <!-- end list -->
 
@@ -250,8 +243,7 @@
 
 ## 主題曲
 
-  - [Superfly](../Page/Superfly.md "wikilink")「Wildflower」（[Warner Music
-    Japan](../Page/日本華納音樂.md "wikilink")）
+  - [Superfly](../Page/Superfly.md "wikilink")「Wildflower」（[Warner Music Japan](../Page/日本華納音樂.md "wikilink")）
 
 ## 播出列表
 
@@ -462,15 +454,10 @@
 
 ## 外部連結
 
-  - [GOLD -
-    富士電視台官方網站](https://web.archive.org/web/20101016155951/http://www.fujitv.co.jp/GOLD/index.html)
+  - [GOLD - 富士電視台官方網站](https://web.archive.org/web/20101016155951/http://www.fujitv.co.jp/GOLD/index.html)
 
 ## 相關條目
 
   - [2012年夏季奧林匹克運動會](https://zh.wikipedia.org/wiki/2012年夏季奧林匹克運動會 "wikilink")
 
-[Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink")
-[Category:野島伸司劇本作品](https://zh.wikipedia.org/wiki/Category:野島伸司劇本作品 "wikilink")
-[Category:游泳電視劇](https://zh.wikipedia.org/wiki/Category:游泳電視劇 "wikilink")
-[Category:美亞電視外购劇集](https://zh.wikipedia.org/wiki/Category:美亞電視外购劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
+[Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink") [Category:野島伸司劇本作品](https://zh.wikipedia.org/wiki/Category:野島伸司劇本作品 "wikilink") [Category:游泳電視劇](https://zh.wikipedia.org/wiki/Category:游泳電視劇 "wikilink") [Category:美亞電視外购劇集](https://zh.wikipedia.org/wiki/Category:美亞電視外购劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")

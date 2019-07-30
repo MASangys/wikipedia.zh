@@ -1,5 +1,4 @@
-**Soya**（；），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")，現為混音團體成員之一，是[金鐘國的侄女](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")．2010年4月30日以單曲《笑著說再見》在《[Music
-Bank](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》中出道。
+**Soya**（；），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")，現為混音團體成員之一，是[金鐘國的侄女](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")．2010年4月30日以單曲《笑著說再見》在《[Music Bank](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》中出道。
 
 ## 音樂作品
 
@@ -162,8 +161,7 @@ Bank](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》中出道。
 
 ## 綜藝節目
 
-  - 2017年：[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[The
-    Unit](../Page/The_Unit.md "wikilink")》
+  - 2017年：[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[The Unit](../Page/The_Unit.md "wikilink")》
 
 ## 參考資料
 
@@ -171,5 +169,4 @@ Bank](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》中出道。
 
   -
   -
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")

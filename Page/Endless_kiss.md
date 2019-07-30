@@ -1,9 +1,8 @@
-『**エンドレスkiss**』（-キス）是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[kiss×sis](https://zh.wikipedia.org/wiki/kiss×sis "wikilink")』的[角色歌曲和](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")[原聲音樂收錄的](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。在2010年6月23日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King
-Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）發售。
+『**エンドレスkiss**』（-キス）是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[kiss×sis](https://zh.wikipedia.org/wiki/kiss×sis "wikilink")』的[角色歌曲和](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")[原聲音樂收錄的](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。在2010年6月23日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）發售。
 
 ## 概要
 
-  - 收錄了[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[kiss×sis](https://zh.wikipedia.org/wiki/kiss×sis "wikilink")』的[角色歌曲和](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")，DISC-1是角色歌曲，DISC-2收錄的是[原聲音樂和](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")[主題曲和片尾曲](../Page/主題曲.md "wikilink")。
+  - 收錄了[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[kiss×sis](https://zh.wikipedia.org/wiki/kiss×sis "wikilink")』的[角色歌曲和](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")，DISC-1是角色歌曲，DISC-2收錄的是[原聲音樂和](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")[主題曲](../Page/主題曲.md "wikilink")和片尾曲。
   - CD的封面是住之江圭太、住之江亞香、住之江理香的畫像。
   - [BGM的作曲是](https://zh.wikipedia.org/wiki/BGM "wikilink")[植木瑞基担当的](https://zh.wikipedia.org/wiki/植木瑞基 "wikilink")。
 
@@ -34,9 +33,7 @@ Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）發售。
 
 ### DISC-2
 
-1.  **[バランスKISS TV Size
-    Ver.](https://zh.wikipedia.org/wiki/バランスKISS "wikilink")**
-    \[1:32\]
+1.  **[バランスKISS TV Size Ver.](https://zh.wikipedia.org/wiki/バランスKISS "wikilink")** \[1:32\]
       -
         歌：あこりこ（竹達彩奈&巽悠衣子）
         作詞・作曲・編曲：[橋本由香利](../Page/橋本由香利.md "wikilink")
@@ -76,22 +73,17 @@ Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）發售。
 33. いつもの「おかえりなさい」 \[1:46\]
 34. やっぱりkiss×sis \[1:40\]
 35. 次回予告 \[0:22\]
-36. **[Our Steady Boy TV Size
-    Ver.](../Page/Our_Steady_Boy.md "wikilink")** \[1:31\]
+36. **[Our Steady Boy TV Size Ver.](../Page/Our_Steady_Boy.md "wikilink")** \[1:31\]
       -
         歌：[ゆいかおり](https://zh.wikipedia.org/wiki/ゆいかおり "wikilink")（[小倉唯](../Page/小倉唯.md "wikilink")&[石原夏織](../Page/石原夏織.md "wikilink")）
-        作詞：[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink")、作曲・編曲：[植木瑞基](https://zh.wikipedia.org/wiki/植木瑞基 "wikilink")
-        in [俊龍](../Page/俊龍.md "wikilink")
+        作詞：[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink")、作曲・編曲：[植木瑞基](https://zh.wikipedia.org/wiki/植木瑞基 "wikilink") in [俊龍](../Page/俊龍.md "wikilink")
     <!-- end list -->
       - 電視動畫『kiss×sis』[主題曲](../Page/主題曲.md "wikilink")
 
 ## 外部連結
 
-  - [kiss×sis
-    リリース情報](http://www.starchild.co.jp/special/kiss_sis/release.html)
+  - [kiss×sis リリース情報](http://www.starchild.co.jp/special/kiss_sis/release.html)
 
 [ja:Kiss×sisのディスコグラフィ\#エンドレスkiss](https://zh.wikipedia.org/wiki/ja:Kiss×sisのディスコグラフィ#エンドレスkiss "wikilink")
 
-[Category:2010年原聲帶](https://zh.wikipedia.org/wiki/Category:2010年原聲帶 "wikilink")
-[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")
-[Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink")
+[Category:2010年原聲帶](https://zh.wikipedia.org/wiki/Category:2010年原聲帶 "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink")

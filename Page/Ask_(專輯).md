@@ -1,4 +1,4 @@
-**《Ask》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳慧琳的第十一張個人粵語大碟](../Page/陳慧琳.md "wikilink")，於2002年2月1日推出，2002年3月8日推出珍藏版附送手錶一只（共有紅、黃、藍三款顏色）。
+**《Ask》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳慧琳](../Page/陳慧琳.md "wikilink")的第十一張個人粵語大碟，於2002年2月1日推出，2002年3月8日推出珍藏版附送手錶一只（共有紅、黃、藍三款顏色）。
 
 ## 唱片版本
 
@@ -175,8 +175,7 @@
 
   - 新城勁爆頒獎禮2002 — 勁爆歌曲（有福氣） （[新城電台](../Page/新城電台.md "wikilink")）
   - 第二十五屆十大中文金曲頒獎典禮 — 十大中文金曲（有福氣） （[香港電台](../Page/香港電台.md "wikilink")）
-  - 2002年度十大勁歌金曲頒獎典禮 — 十大勁歌金曲（有福氣）
-    （[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")）
+  - 2002年度十大勁歌金曲頒獎典禮 — 十大勁歌金曲（有福氣） （[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")）
   - 2002年度勁歌金曲第一季季選 — 入選金曲（有福氣） （電視廣播有限公司）
   - 馬來西亞第二屆金曲紅人頒獎禮 — 金曲獎（有福氣）
 
@@ -198,10 +197,8 @@
 
 </div>
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:陳慧琳音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧琳音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:陳慧琳音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧琳音樂專輯 "wikilink")
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
 
 1.  《填詞人最怕的事（上）》，VERSE-CHORUS-VERSE （黃偉文專欄），2009年11月1日

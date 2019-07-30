@@ -35,6 +35,4 @@
 9.  **THANK YOU（新曲）**
       - 作詞・作曲・編曲：小林武史
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:傑尼斯相關音樂專輯](https://zh.wikipedia.org/wiki/Category:傑尼斯相關音樂專輯 "wikilink")
-[Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:傑尼斯相關音樂專輯](https://zh.wikipedia.org/wiki/Category:傑尼斯相關音樂專輯 "wikilink") [Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")

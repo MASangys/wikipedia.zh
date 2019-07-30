@@ -1,5 +1,4 @@
-《**電-{}-競All
-Star**》是[中國電視公司的](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")[電玩競技節目](https://zh.wikipedia.org/wiki/電玩 "wikilink")，由競賽聯盟單位[阿茲特克電子競技聯盟](https://zh.wikipedia.org/wiki/阿茲特克電子競技聯盟 "wikilink")(AztecCup)製作，[台灣時間](https://zh.wikipedia.org/wiki/台灣時間 "wikilink")2010年10月17日00:00於[中視無線台開播](https://zh.wikipedia.org/wiki/中視無線台 "wikilink")。目前播出時段為每星期日00:00\~01:00首播。
+《**電-{}-競All Star**》是[中國電視公司的](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")[電玩競技節目](https://zh.wikipedia.org/wiki/電玩 "wikilink")，由競賽聯盟單位[阿茲特克電子競技聯盟](https://zh.wikipedia.org/wiki/阿茲特克電子競技聯盟 "wikilink")(AztecCup)製作，[台灣時間](https://zh.wikipedia.org/wiki/台灣時間 "wikilink")2010年10月17日00:00於[中視無線台開播](https://zh.wikipedia.org/wiki/中視無線台 "wikilink")。目前播出時段為每星期日00:00\~01:00首播。
 
 ## 節目播出期間與時段
 
@@ -11,8 +10,7 @@ Star**》是[中國電視公司的](https://zh.wikipedia.org/wiki/中國電視�
 
 ## 節目主持人
 
-  - 第一集由[南拳媽媽成員彈頭](../Page/南拳媽媽.md "wikilink")、宇豪主持，第2集開始改由[DJ
-    Dennis主持](../Page/區耕祥.md "wikilink")。
+  - 第一集由[南拳媽媽](../Page/南拳媽媽.md "wikilink")成員彈頭、宇豪主持，第2集開始改由[DJ Dennis主持](../Page/區耕祥.md "wikilink")。
 
 ## 節目單元
 
@@ -37,10 +35,8 @@ Star**》是[中國電視公司的](https://zh.wikipedia.org/wiki/中國電視�
 ## 相關網站
 
   - [電競All Star官方網站](http://www.keygamer.com)
-  - [電競All
-    Star官方Facebook頁面](http://www.facebook.com/pages/dian-jingAllstar/148871358484517)
+  - [電競All Star官方Facebook頁面](http://www.facebook.com/pages/dian-jingAllstar/148871358484517)
 
 [Category:中視電視節目](https://zh.wikipedia.org/wiki/Category:中視電視節目 "wikilink")
 
-[Category:電玩節目](https://zh.wikipedia.org/wiki/Category:電玩節目 "wikilink")
-[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
+[Category:電玩節目](https://zh.wikipedia.org/wiki/Category:電玩節目 "wikilink") [Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")

@@ -1,53 +1,26 @@
-[MacOS_original_logo.svg](https://zh.wikipedia.org/wiki/File:MacOS_original_logo.svg "fig:MacOS_original_logo.svg")将其操作系统称为“Mac
-OS”\]\]
+[MacOS_original_logo.svg](https://zh.wikipedia.org/wiki/File:MacOS_original_logo.svg "fig:MacOS_original_logo.svg")将其操作系统称为“Mac OS”\]\]
 
-1984年1月24日，[苹果电脑](https://zh.wikipedia.org/wiki/苹果电脑 "wikilink")（今
-[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")）发布了其第一台[麦金塔个人电脑](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")──[Macintosh
-128K](https://zh.wikipedia.org/wiki/Macintosh_128K "wikilink")
-。与其一起发布的操作系统当时被简单的称为System
-Software（系统软件），于7.6版本之后更名为[Mac
-OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")\[1\]。麦金塔对普及[图形用户界面起到了很大作用](../Page/图形用户界面.md "wikilink")。[Mac
-OS被预装在几乎所有的麦金塔电脑上](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。同时，该系统也在苹果零售店和线上零售店进行单独售卖。原始的麦金塔系统软件是部分基于[Lisa
-OS的](https://zh.wikipedia.org/wiki/Lisa_OS "wikilink")，该系统是苹果在1983年随[Lisa的发布一同发行的](../Page/Apple_Lisa.md "wikilink")。
+1984年1月24日，[苹果电脑](https://zh.wikipedia.org/wiki/苹果电脑 "wikilink")（今 [蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")）发布了其第一台[麦金塔个人电脑](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")──[Macintosh 128K](https://zh.wikipedia.org/wiki/Macintosh_128K "wikilink") 。与其一起发布的操作系统当时被简单的称为System Software（系统软件），于7.6版本之后更名为[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")\[1\]。麦金塔对普及[图形用户界面](../Page/图形用户界面.md "wikilink")起到了很大作用。[Mac OS被预装在几乎所有的麦金塔电脑上](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。同时，该系统也在苹果零售店和线上零售店进行单独售卖。原始的麦金塔系统软件是部分基于[Lisa OS的](https://zh.wikipedia.org/wiki/Lisa_OS "wikilink")，该系统是苹果在1983年随[Lisa的发布一同发行的](../Page/Apple_Lisa.md "wikilink")。
 
 ## System 1到System 4
 
-**System 1**到**System 4**全都是单任务操作系统，意味着用户只能同时运行一个应用程序。 System 1.0, 1.1,
-以及
-2.0使用了一种名叫[MFS的平面](https://zh.wikipedia.org/wiki/MFS "wikilink")[文件系统](../Page/文件系统.md "wikilink")，MFS对于子文件夹的支持并不完善。System
-2.1（Finder
-5.0）改用了真正支持文件夹系统的[HFS文件系统](../Page/分层文件系统.md "wikilink")，这被认为是一个重大的进步。
-System 3.0 随 [Mac
-Plus](https://zh.wikipedia.org/wiki/Macintosh_Plus "wikilink") 发行，而
-System 4.0 随 [Mac
-SE](https://zh.wikipedia.org/wiki/Macintosh_SE "wikilink") 及 [Macintosh
-II一同出现](https://zh.wikipedia.org/wiki/Macintosh_II "wikilink")。
+**System 1**到**System 4**全都是单任务操作系统，意味着用户只能同时运行一个应用程序。 System 1.0, 1.1, 以及 2.0使用了一种名叫[MFS的平面](https://zh.wikipedia.org/wiki/MFS "wikilink")[文件系统](../Page/文件系统.md "wikilink")，MFS对于子文件夹的支持并不完善。System 2.1（Finder 5.0）改用了真正支持文件夹系统的[HFS文件系统](../Page/分层文件系统.md "wikilink")，这被认为是一个重大的进步。 System 3.0 随 [Mac Plus](https://zh.wikipedia.org/wiki/Macintosh_Plus "wikilink") 发行，而 System 4.0 随 [Mac SE](https://zh.wikipedia.org/wiki/Macintosh_SE "wikilink") 及 [Macintosh II一同出现](https://zh.wikipedia.org/wiki/Macintosh_II "wikilink")。
 
 ## System 5
 
-**System Software 5**（或是简称 System
-5）是[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[操作系统](../Page/操作系统.md "wikilink")。其增加了[MultiFinder](https://zh.wikipedia.org/wiki/MultiFinder "wikilink")
-来实现多任务处理。System Software 5 只在部分国家在很短的时间内出售， 这些国家包括美国、加拿大和欧洲的一些国家。
+**System Software 5**（或是简称 System 5）是[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[操作系统](../Page/操作系统.md "wikilink")。其增加了[MultiFinder](https://zh.wikipedia.org/wiki/MultiFinder "wikilink") 来实现多任务处理。System Software 5 只在部分国家在很短的时间内出售， 这些国家包括美国、加拿大和欧洲的一些国家。
 
 ## System Software 6
 
-**System 6**（亦稱System Software 6）是一個使用Macintosh電腦的圖形用戶界面的操作系统。System
-6於1988年4月首次發佈。直至System 7於1991年發佈之前，它是最受歡迎的Macintosh操作系统。可能是首個含中文語言的Mac
-OS。
+**System 6**（亦稱System Software 6）是一個使用Macintosh電腦的圖形用戶界面的操作系统。System 6於1988年4月首次發佈。直至System 7於1991年發佈之前，它是最受歡迎的Macintosh操作系统。可能是首個含中文語言的Mac OS。
 
 當時盒裝版本的售价是49美元。
 
 ## System Software 7
 
-**System 7**（代號「Big Bang」，亦稱Mac OS
-7）是一個使用Macintosh電腦的單用戶圖形用戶界面的操作系统。System
-7於1991年5月13日首次發佈。它是System 6的後繼版，直至Mac OS
-8於1997年發佈之前，是當時最受歡迎的Macintosh操作系统。
+**System 7**（代號「Big Bang」，亦稱Mac OS 7）是一個使用Macintosh電腦的單用戶圖形用戶界面的操作系统。System 7於1991年5月13日首次發佈。它是System 6的後繼版，直至Mac OS 8於1997年發佈之前，是當時最受歡迎的Macintosh操作系统。
 
-「System
-7」的7.6版本開始被[蘋果公司改名為](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac
-OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，System
-7.5.1開始系統啟動會顯示「Mac OS」畫面。
+「System 7」的7.6版本開始被[蘋果公司改名為](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，System 7.5.1開始系統啟動會顯示「Mac OS」畫面。
 
 ## Mac OS 8
 
@@ -55,70 +28,36 @@ OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，System
 
 ## Mac OS 9
 
-**Mac OS
-9**是[蘋果電腦於](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")2000年發佈的操作系统，一共發佈了7個版本，直到2002年秋天發佈的Mac
-OS 9.2.2為止。
+**Mac OS 9**是[蘋果電腦於](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")2000年發佈的操作系统，一共發佈了7個版本，直到2002年秋天發佈的Mac OS 9.2.2為止。
 
-1998年，蘋果總裁[史蒂夫·乔布斯發布了直到](../Page/史蒂夫·乔布斯.md "wikilink")[Mac OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（Carbon）的操作系统路線，並決定，每隔半年發佈系統更新，直到Mac
-OS X出爐，而Mac OS 9系列則是這系統路線的最後一個Mac OS系列。
+1998年，蘋果總裁[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")發布了直到[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（Carbon）的操作系统路線，並決定，每隔半年發佈系統更新，直到Mac OS X出爐，而Mac OS 9系列則是這系統路線的最後一個Mac OS系列。
 
 ## Mac OS X/OS X/macOS
 
-[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
-是[蘋果電腦作業系統產品線最新的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")
-[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。儘管官方上簡單地說是 Mac
-OS 的「版本10」，但是在歷史上看來它與早期的 Mac OS 版本有本质区别。
+[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 是[蘋果電腦作業系統產品線最新的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink") [Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。儘管官方上簡單地說是 Mac OS 的「版本10」，但是在歷史上看來它與早期的 Mac OS 版本有本质区别。
 
-蘋果於1999年1月推出 Mac OS X Server 1.0，Mac OS X
-的公開測試版於2000年釋出，且於2001年3月24日看到完整和官方推出的
-Mac OS X 版本 10.0。10.1版大概於2001年9月25日出貨，接著是於2002年8月24日 Mac OS X
-10.2（"Jaguar"）的推出，於2003年10月24日推出Mac OS X
-10.3（"Panther"），於2005年4月29日推出Mac OS X
-10.4（"Tiger"），於2007年10月26日發行推出Mac OS X v10.5（"Leopard"）。Mac OS X
-10.6 "Snow Leopard"于2009年8月28日发行。
+蘋果於1999年1月推出 Mac OS X Server 1.0，Mac OS X 的公開測試版於2000年釋出，且於2001年3月24日看到完整和官方推出的 Mac OS X 版本 10.0。10.1版大概於2001年9月25日出貨，接著是於2002年8月24日 Mac OS X 10.2（"Jaguar"）的推出，於2003年10月24日推出Mac OS X 10.3（"Panther"），於2005年4月29日推出Mac OS X 10.4（"Tiger"），於2007年10月26日發行推出Mac OS X v10.5（"Leopard"）。Mac OS X 10.6 "Snow Leopard"于2009年8月28日发行。
 
 蘋果的Mac操作系统被稱為：OS X已長達15年之久。
 
 蘋果公司在6月13日的2016蘋果全球開發者大會上宣布：Mac操作系统 OS X 更名為 macOS，首推版本是Sierra。
 
-  - [Mac OS X
-    公開測試版](https://zh.wikipedia.org/wiki/Mac_OS_X_公開測試版 "wikilink")
+  - [Mac OS X 公開測試版](https://zh.wikipedia.org/wiki/Mac_OS_X_公開測試版 "wikilink")
   - [Mac OS X v10.0](../Page/Mac_OS_X_v10.0.md "wikilink") "Cheetah"
   - [Mac OS X v10.1](../Page/Mac_OS_X_v10.1.md "wikilink") "Puma"
   - [Mac OS X v10.2](../Page/Mac_OS_X_v10.2.md "wikilink") "Jaguar"
-  - [Mac OS X
-    v10.3](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3 "wikilink")
-    "Panther"
-  - [Mac OS X
-    v10.4](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")
-    "Tiger"
-  - [Mac OS X
-    v10.5](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")
-    "Leopard"
-  - [Mac OS X
-    v10.6](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.6 "wikilink")
-    "Snow Leopard"
-  - [Mac OS X
-    v10.7](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.7 "wikilink")
-    "Lion"
-  - [OS X v10.8](https://zh.wikipedia.org/wiki/OS_X_v10.8 "wikilink")
-    "Mountion Lion"
-  - [OS X v10.9](https://zh.wikipedia.org/wiki/OS_X_v10.9 "wikilink")
-    "Mavericks"
-  - [OS X v10.10](https://zh.wikipedia.org/wiki/OS_X_v10.10 "wikilink")
-    "Yosemite"
-  - [OS X v10.11](https://zh.wikipedia.org/wiki/OS_X_v10.11 "wikilink")
-    "El Capitan"
-  - [macOS
-    v10.12](https://zh.wikipedia.org/wiki/macOS_Sierra "wikilink")
-    "Sierra"
-  - [macOS
-    v10.13](https://zh.wikipedia.org/wiki/macOS_High_Sierra "wikilink")
-    "High Sierra"
-  - [macOS
-    v10.14](https://zh.wikipedia.org/wiki/macOS_Mojave "wikilink")
-    "Mojave"
+  - [Mac OS X v10.3](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3 "wikilink") "Panther"
+  - [Mac OS X v10.4](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink") "Tiger"
+  - [Mac OS X v10.5](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink") "Leopard"
+  - [Mac OS X v10.6](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.6 "wikilink") "Snow Leopard"
+  - [Mac OS X v10.7](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.7 "wikilink") "Lion"
+  - [OS X v10.8](https://zh.wikipedia.org/wiki/OS_X_v10.8 "wikilink") "Mountion Lion"
+  - [OS X v10.9](https://zh.wikipedia.org/wiki/OS_X_v10.9 "wikilink") "Mavericks"
+  - [OS X v10.10](https://zh.wikipedia.org/wiki/OS_X_v10.10 "wikilink") "Yosemite"
+  - [OS X v10.11](https://zh.wikipedia.org/wiki/OS_X_v10.11 "wikilink") "El Capitan"
+  - [macOS v10.12](https://zh.wikipedia.org/wiki/macOS_Sierra "wikilink") "Sierra"
+  - [macOS v10.13](https://zh.wikipedia.org/wiki/macOS_High_Sierra "wikilink") "High Sierra"
+  - [macOS v10.14](https://zh.wikipedia.org/wiki/macOS_Mojave "wikilink") "Mojave"
 
 ## 发展时间表
 
@@ -184,18 +123,11 @@ Mac OS X 版本 10.0。10.1版大概於2001年9月25日出貨，接著是於2002
 
 ## 外部链接
 
-  - [System 7.5.3](http://download.info.apple.com/Apple_Support_Area/Apple_Software_Updates/English-North_American/Macintosh/System/Older_System/System_7.5_Version_7.5.3/)
-    from Apple.com
-  - [Older Macintosh System
-    Software](http://download.info.apple.com/Apple_Support_Area/Apple_Software_Updates/English-North_American/Macintosh/System/Older_System/)
-    from Apple.com
-  - [Bibliography](http://www.sitepoint.com/article/real-history-gui/9/)
-    A list of links to the history of GUIs
-  - [Mac OS X history on
-    Mactimeline](https://web.archive.org/web/20101011024042/http://www.mactimeline.com/software/mac-os-x)
+  - [System 7.5.3](http://download.info.apple.com/Apple_Support_Area/Apple_Software_Updates/English-North_American/Macintosh/System/Older_System/System_7.5_Version_7.5.3/) from Apple.com
+  - [Older Macintosh System Software](http://download.info.apple.com/Apple_Support_Area/Apple_Software_Updates/English-North_American/Macintosh/System/Older_System/) from Apple.com
+  - [Bibliography](http://www.sitepoint.com/article/real-history-gui/9/) A list of links to the history of GUIs
+  - [Mac OS X history on Mactimeline](https://web.archive.org/web/20101011024042/http://www.mactimeline.com/software/mac-os-x)
 
-[Category:Mac_OS](https://zh.wikipedia.org/wiki/Category:Mac_OS "wikilink")
-[Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink")
-[Category:軟體史](https://zh.wikipedia.org/wiki/Category:軟體史 "wikilink")
+[Category:Mac_OS](https://zh.wikipedia.org/wiki/Category:Mac_OS "wikilink") [Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink") [Category:軟體史](https://zh.wikipedia.org/wiki/Category:軟體史 "wikilink")
 
 1.  <http://support.apple.com/kb/TA31885?viewlocale=en_US>

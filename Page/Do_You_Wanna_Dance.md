@@ -1,5 +1,4 @@
-《**Do You Wanna
-Dance**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳偉霆的第三張個人音樂專輯](../Page/陳偉霆.md "wikilink")，於2010年4月22日推出。同名主打歌走輕快的唱跳路線，由[陳台證與](../Page/陳台證.md "wikilink")[周耀輝為陳偉霆編寫](../Page/周耀輝.md "wikilink")。
+《**Do You Wanna Dance**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳偉霆](../Page/陳偉霆.md "wikilink")的第三張個人音樂專輯，於2010年4月22日推出。同名主打歌走輕快的唱跳路線，由[陳台證](../Page/陳台證.md "wikilink")與[周耀輝](../Page/周耀輝.md "wikilink")為陳偉霆編寫。
 
 另外專輯附有一片DVD，收錄3首歌曲的音樂錄影帶：《Do You Wanna Dance》、《大峽谷》與《穿心箭》。
 
@@ -86,9 +85,4 @@ Dance**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "w
 
 </div>
 
-[Category:陳偉霆](https://zh.wikipedia.org/wiki/Category:陳偉霆 "wikilink")
-[Category:陳偉霆音樂專輯](https://zh.wikipedia.org/wiki/Category:陳偉霆音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")
+[Category:陳偉霆](https://zh.wikipedia.org/wiki/Category:陳偉霆 "wikilink") [Category:陳偉霆音樂專輯](https://zh.wikipedia.org/wiki/Category:陳偉霆音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")

@@ -4,9 +4,7 @@
 
 ## 作品風格
 
-不以一般男性畫家的視點描繪少女角色，反而較接近女性畫家的細膩風格。
-擅長描繪[蘿莉](../Page/蘿莉.md "wikilink")等少女角色，由於作畫華麗精緻、筆觸細膩，吸引了不少喜歡其風格的讀者。
-較常繪畫薄紗、蕾絲、[洋裝等服飾](https://zh.wikipedia.org/wiki/洋裝 "wikilink")，另外喜歡以兔子娃娃作為吉祥物。
+不以一般男性畫家的視點描繪少女角色，反而較接近女性畫家的細膩風格。 擅長描繪[蘿莉](../Page/蘿莉.md "wikilink")等少女角色，由於作畫華麗精緻、筆觸細膩，吸引了不少喜歡其風格的讀者。 較常繪畫薄紗、蕾絲、[洋裝等服飾](https://zh.wikipedia.org/wiki/洋裝 "wikilink")，另外喜歡以兔子娃娃作為吉祥物。
 
 ## 作品列表
 
@@ -15,9 +13,7 @@
   - 眠れる森のお姫さま（Penguin Works）
       - エミーリアemmyrea（[KID](../Page/KID.md "wikilink")）
   - [Cafe Little Wish](../Page/Cafe_Little_Wish.md "wikilink")（ぱてぃしえ）
-      - [Cafe Little Wish
-        ～魔法のレシピ～](../Page/Cafe_Little_Wish.md "wikilink")（Princess
-        Soft）
+      - [Cafe Little Wish ～魔法のレシピ～](../Page/Cafe_Little_Wish.md "wikilink")（Princess Soft）
   - まじかる☆ている（ぱてぃしえ）
       - まじかる☆ている ちっちゃな魔法使い（Princess Soft）
 
@@ -46,8 +42,7 @@
 
 ### 漫畫
 
-  - [萌·怪盜蕾莉絲](../Page/萌·怪盜蕾莉絲.md "wikilink")（連載，[Square
-    Enix](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")）
+  - [萌·怪盜蕾莉絲](../Page/萌·怪盜蕾莉絲.md "wikilink")（連載，[Square Enix](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")）
 
   - （封面插圖、開首插圖，Square Enix）
 
@@ -63,12 +58,8 @@
 
   - [官方網站 Piece Gardien（新）](http://www.tinkerbell.vc/)
 
-  - [官方網站 Piece
-    Gardien（舊）](http://www.ne.jp/asahi/tinker/bell/)，該站已在2007年底停止更新。
+  - [官方網站 Piece Gardien（舊）](http://www.ne.jp/asahi/tinker/bell/)，該站已在2007年底停止更新。
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
-[Category:共用筆名](https://zh.wikipedia.org/wiki/Category:共用筆名 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:共用筆名](https://zh.wikipedia.org/wiki/Category:共用筆名 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
 
 1.  上有許多關於[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")的參展訊息。

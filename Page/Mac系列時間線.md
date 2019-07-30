@@ -40,8 +40,7 @@
 | 9月20日                                                                             | [Macintosh IIci](https://zh.wikipedia.org/wiki/Macintosh_IIci "wikilink")       | Mac II                                                                      | 2月20日, 1993  |              |
 | [Macintosh Portable](https://zh.wikipedia.org/wiki/Macintosh_Portable "wikilink") | [Portable](https://zh.wikipedia.org/wiki/Macintosh_Portable "wikilink")         | 2月11日, 1991                                                                 |              |              |
 
-*\*[Apple Lisa雖然沒有運行](../Page/Apple_Lisa.md "wikilink")[Mac
-OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink"),但仍列在其中,因為它的開發平台使它能兼容麥金塔的軟件。*
+*\*[Apple Lisa雖然沒有運行](../Page/Apple_Lisa.md "wikilink")[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink"),但仍列在其中,因為它的開發平台使它能兼容麥金塔的軟件。*
 
 ## 1990年代
 
@@ -298,19 +297,12 @@ OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink"),但仍列在其中,因為�
 
 ## 參考
 
-  - [Specifications](http://www.info.apple.com/support/applespec.html),
-    蘋果公司
-  - [Mac Systems: Apple](http://www.everymac.com/systems/apple/),
-    EveryMac.com
+  - [Specifications](http://www.info.apple.com/support/applespec.html), 蘋果公司
+  - [Mac Systems: Apple](http://www.everymac.com/systems/apple/), EveryMac.com
   - Glen Sanford, [蘋果公司歷史](http://apple-history.com/), apple-history.com
-  - Dan Knight, [Computer Profiles](http://lowendmac.com/profiles.htm),
-    LowEndMac, Cobweb Publishing, Inc.
-  - [Ultimate Mac Timeline at
-    EveryMac.com](http://www.everymac.com/ultimate-mac-timeline)
-  - [Apple Products Timeline at
-    AllofMe](https://web.archive.org/web/20080705184930/http://www.allofme.com/T/621734/Apple_Products)
-  - [Mactimeline a timeline of Apple software and hardware
-    updates](http://mactimeline.com/)
+  - Dan Knight, [Computer Profiles](http://lowendmac.com/profiles.htm), LowEndMac, Cobweb Publishing, Inc.
+  - [Ultimate Mac Timeline at EveryMac.com](http://www.everymac.com/ultimate-mac-timeline)
+  - [Apple Products Timeline at AllofMe](https://web.archive.org/web/20080705184930/http://www.allofme.com/T/621734/Apple_Products)
+  - [Mactimeline a timeline of Apple software and hardware updates](http://mactimeline.com/)
 
-[Category:麦金塔](https://zh.wikipedia.org/wiki/Category:麦金塔 "wikilink")
-[Category:技术时间表](https://zh.wikipedia.org/wiki/Category:技术时间表 "wikilink")
+[Category:麦金塔](https://zh.wikipedia.org/wiki/Category:麦金塔 "wikilink") [Category:技术时间表](https://zh.wikipedia.org/wiki/Category:技术时间表 "wikilink")

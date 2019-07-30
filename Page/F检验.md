@@ -11,9 +11,7 @@
 
 ## 注意事项
 
-F检验对于数据的正态性非常敏感，因此在检验方差齐性的时候，Levene检验,
-Bartlett检验或者Brown–Forsythe检验的稳健性都要优于F检验。
-F检验还可以用于三组或者多组之间的均值比较，但是如果被检验的数据无法满足均是正态分布的条件时，该数据的稳健型会大打折扣，特别是当显著性水平比较低时。但是，如果数据符合正态分布，而且alpha值至少为0.05，该检验的稳健型还是相当可靠的。
+F检验对于数据的正态性非常敏感，因此在检验方差齐性的时候，Levene检验, Bartlett检验或者Brown–Forsythe检验的稳健性都要优于F检验。 F检验还可以用于三组或者多组之间的均值比较，但是如果被检验的数据无法满足均是正态分布的条件时，该数据的稳健型会大打折扣，特别是当显著性水平比较低时。但是，如果数据符合正态分布，而且alpha值至少为0.05，该检验的稳健型还是相当可靠的。
 
 若两个母体有相同的方差（方差齐性），那么可以采用F检验，但是该检验会呈现极端的非稳健性和非常态性\[2\]\[3\]，可以用[t检验](https://zh.wikipedia.org/wiki/t检验 "wikilink")、[巴特勒特检验等取代](https://zh.wikipedia.org/wiki/巴特勒特检验 "wikilink")。
 
@@ -36,12 +34,9 @@ F检验还可以用于三组或者多组之间的均值比较，但是如果被�
 
 </div>
 
-[Category:變異數分析](https://zh.wikipedia.org/wiki/Category:變異數分析 "wikilink")
-[Category:統計比率](https://zh.wikipedia.org/wiki/Category:統計比率 "wikilink")
-[Category:統計檢驗](https://zh.wikipedia.org/wiki/Category:統計檢驗 "wikilink")
+[Category:變異數分析](https://zh.wikipedia.org/wiki/Category:變異數分析 "wikilink") [Category:統計比率](https://zh.wikipedia.org/wiki/Category:統計比率 "wikilink") [Category:統計檢驗](https://zh.wikipedia.org/wiki/Category:統計檢驗 "wikilink")
 
-1.  Lomax, Richard G. (2007) "Statistical Concepts: A Second Course", p.
-    10, ISBN 0-8058-5850-4
+1.  Lomax, Richard G. (2007) "Statistical Concepts: A Second Course", p. 10, ISBN 0-8058-5850-4
 2.
 3.
 4.

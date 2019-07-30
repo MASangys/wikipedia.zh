@@ -1,16 +1,14 @@
-《**MARUMO的規定**》\[1\]（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是一部於2011年4月24日至7月3日期間，每週日21時（日本時間）於[日本](../Page/日本.md "wikilink")[富士電視台及其聯播網播放的日本電視劇](../Page/富士電視台.md "wikilink")。其他譯名包括《高木護的規矩》、《阿護一家》、《阿護的法則》、《寶貝的生活守則》、《契爸唔易做》等。
+《**MARUMO的規定**》\[1\]（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是一部於2011年4月24日至7月3日期間，每週日21時（日本時間）於[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")及其聯播網播放的日本電視劇。其他譯名包括《高木護的規矩》、《阿護一家》、《阿護的法則》、《寶貝的生活守則》、《契爸唔易做》等。
 
 ## 劇情簡介
 
-高木護是個38歲的[單身男子](../Page/單身.md "wikilink")，在大型[文具公司客戶服務部工作的普通職員](../Page/文具.md "wikilink")，[大學時代他曾加入](../Page/大學.md "wikilink")[棒球部做](../Page/棒球.md "wikilink")[捕手](../Page/捕手.md "wikilink")，在一次[同學](https://zh.wikipedia.org/wiki/同學 "wikilink")[聚會上](https://zh.wikipedia.org/wiki/聚會 "wikilink")，重遇棒球部的好友笹倉純一郎，純一郎和妻子[離婚了](https://zh.wikipedia.org/wiki/離婚 "wikilink")，自己帶着[雙胞胎笹倉薰和笹倉友樹一起生活](../Page/雙胞胎.md "wikilink")。不料隔幾天，高木護突然接獲通知純一郎病逝的消息。在[喪禮上](https://zh.wikipedia.org/wiki/喪禮 "wikilink")，高木護目睹年幼的薰和友樹，因分別被不同的[親戚收養而被迫分開](https://zh.wikipedia.org/wiki/親戚 "wikilink")，心裏十分難受。然後一天，友樹從親戚的家出走了。高木護得知此事後，帶着薰四處尋找，終於在[公園找到友樹](https://zh.wikipedia.org/wiki/公園 "wikilink")。看見原本膽小怕事的友樹，竟有勇氣離家出走找姊姊，以及兩姊弟重逢時依依不捨的樣子，高木護不願再拆散二人，決定[收養他們](../Page/收養.md "wikilink")，成為他們的[爸爸](https://zh.wikipedia.org/wiki/爸爸 "wikilink")！未婚、也沒有和[小孩相處過的高木護](https://zh.wikipedia.org/wiki/小孩 "wikilink")，一開始非常不習慣照顧孩子的生活，甚至跟薰和友樹發生不少爭執。然而，他們三人相處下來，卻漸漸培養出比血緣關係更深的親情。
+高木護是個38歲的[單身](../Page/單身.md "wikilink")男子，在大型[文具](../Page/文具.md "wikilink")公司客戶服務部工作的普通職員，[大學](../Page/大學.md "wikilink")時代他曾加入[棒球](../Page/棒球.md "wikilink")部做[捕手](../Page/捕手.md "wikilink")，在一次[同學](https://zh.wikipedia.org/wiki/同學 "wikilink")[聚會上](https://zh.wikipedia.org/wiki/聚會 "wikilink")，重遇棒球部的好友笹倉純一郎，純一郎和妻子[離婚了](https://zh.wikipedia.org/wiki/離婚 "wikilink")，自己帶着[雙胞胎](../Page/雙胞胎.md "wikilink")笹倉薰和笹倉友樹一起生活。不料隔幾天，高木護突然接獲通知純一郎病逝的消息。在[喪禮上](https://zh.wikipedia.org/wiki/喪禮 "wikilink")，高木護目睹年幼的薰和友樹，因分別被不同的[親戚收養而被迫分開](https://zh.wikipedia.org/wiki/親戚 "wikilink")，心裏十分難受。然後一天，友樹從親戚的家出走了。高木護得知此事後，帶着薰四處尋找，終於在[公園找到友樹](https://zh.wikipedia.org/wiki/公園 "wikilink")。看見原本膽小怕事的友樹，竟有勇氣離家出走找姊姊，以及兩姊弟重逢時依依不捨的樣子，高木護不願再拆散二人，決定[收養](../Page/收養.md "wikilink")他們，成為他們的[爸爸](https://zh.wikipedia.org/wiki/爸爸 "wikilink")！未婚、也沒有和[小孩相處過的高木護](https://zh.wikipedia.org/wiki/小孩 "wikilink")，一開始非常不習慣照顧孩子的生活，甚至跟薰和友樹發生不少爭執。然而，他們三人相處下來，卻漸漸培養出比血緣關係更深的親情。
 
 ## 登場人物
 
 ### 高木家
 
-  - **高木護（MARUMO）（38→41）** -
-    [阿部貞夫](../Page/阿部貞夫.md "wikilink")（**高中時期：**清水貴紀）
-    （粵語配音：[古明華](../Page/古明華.md "wikilink")、[葉振聲](../Page/葉振聲.md "wikilink")（特別篇2））
+  - **高木護（MARUMO）（38→41）** - [阿部貞夫](../Page/阿部貞夫.md "wikilink")（**高中時期：**清水貴紀） （粵語配音：[古明華](../Page/古明華.md "wikilink")、[葉振聲](../Page/葉振聲.md "wikilink")（特別篇2））
 
 <!-- end list -->
 
@@ -22,8 +20,7 @@
 
 <!-- end list -->
 
-  - **笹倉薰（6→7→10）** - [蘆田愛菜](../Page/蘆田愛菜.md "wikilink")
-    （粵語配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
+  - **笹倉薰（6→7→10）** - [蘆田愛菜](../Page/蘆田愛菜.md "wikilink") （粵語配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
 
 <!-- end list -->
 
@@ -33,8 +30,7 @@
 
 <!-- end list -->
 
-  - **笹倉友樹（6→7→10）** - [鈴木福](../Page/鈴木福.md "wikilink")
-    （粵語配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
+  - **笹倉友樹（6→7→10）** - [鈴木福](../Page/鈴木福.md "wikilink") （粵語配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
 
 <!-- end list -->
 
@@ -44,8 +40,7 @@
 
 <!-- end list -->
 
-  - **穆克/牧可**（港譯：**木吉** ） - 穆克（迷你雪納瑞）聲音 -
-    （粵語配音：[曾秀清](../Page/曾秀清.md "wikilink")）
+  - **穆克/牧可**（港譯：**木吉** ） - 穆克（迷你雪納瑞）聲音 -  （粵語配音：[曾秀清](../Page/曾秀清.md "wikilink")）
 
 <!-- end list -->
 
@@ -64,8 +59,7 @@
 
 <!-- end list -->
 
-  - **畑中彩（25→28）** -
-    [比嘉愛未](../Page/比嘉愛未.md "wikilink")（粵語配音：[余欣沛](../Page/余欣沛.md "wikilink")、[黃昕瑜](../Page/黃昕瑜.md "wikilink")（特別篇2））
+  - **畑中彩（25→28）** - [比嘉愛未](../Page/比嘉愛未.md "wikilink")（粵語配音：[余欣沛](../Page/余欣沛.md "wikilink")、[黃昕瑜](../Page/黃昕瑜.md "wikilink")（特別篇2））
 
 <!-- end list -->
 
@@ -74,8 +68,7 @@
 
 ### 曙光文具
 
-  - **鮫島勇三（55→58）** -
-    [伊武雅刀](../Page/伊武雅刀.md "wikilink")（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - **鮫島勇三（55→58）** - [伊武雅刀](../Page/伊武雅刀.md "wikilink")（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
 
 <!-- end list -->
 
@@ -84,8 +77,7 @@
 
 <!-- end list -->
 
-  - **牧村香奈（30→33）** -
-    [瀧澤沙織](../Page/瀧澤沙織.md "wikilink")（粵語配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
+  - **牧村香奈（30→33）** - [瀧澤沙織](../Page/瀧澤沙織.md "wikilink")（粵語配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
 
 <!-- end list -->
 
@@ -94,8 +86,7 @@
 
 <!-- end list -->
 
-  - **真島孝則（25→28）** -
-    [小柳友](../Page/小柳友.md "wikilink")（粵語配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
+  - **真島孝則（25→28）** - [小柳友](../Page/小柳友.md "wikilink")（粵語配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
 
 <!-- end list -->
 
@@ -113,8 +104,7 @@
 
 <!-- end list -->
 
-  - **尾崎凜花（22→25）** -
-    [外岡枝里香](https://zh.wikipedia.org/wiki/外岡枝里香 "wikilink")（[IDOLING\!\!\!](https://zh.wikipedia.org/wiki/IDOLING!!! "wikilink")）（粵語配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
+  - **尾崎凜花（22→25）** - [外岡枝里香](https://zh.wikipedia.org/wiki/外岡枝里香 "wikilink")（[IDOLING\!\!\!](https://zh.wikipedia.org/wiki/IDOLING!!! "wikilink")）（粵語配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
 
 <!-- end list -->
 
@@ -129,8 +119,7 @@
 
 ### 墨田區立廣川小學校
 
-  - **杉下秀夫** -
-    （粵語配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
+  - **杉下秀夫** - （粵語配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
 
 <!-- end list -->
 
@@ -139,8 +128,7 @@
 
 #### 1年1組學生
 
-  - **谷口隼人** -
-    [貴島康成](https://zh.wikipedia.org/wiki/貴島康成 "wikilink")（粵語配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）
+  - **谷口隼人** - [貴島康成](https://zh.wikipedia.org/wiki/貴島康成 "wikilink")（粵語配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）
 
 <!-- end list -->
 
@@ -149,14 +137,12 @@
 
 <!-- end list -->
 
-  - **川口健太** -
-    [藤本飛龍](https://zh.wikipedia.org/wiki/藤本飛龍 "wikilink")（粵語配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
+  - **川口健太** - [藤本飛龍](https://zh.wikipedia.org/wiki/藤本飛龍 "wikilink")（粵語配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
   - 戶上元氣 - [下出倫輝](https://zh.wikipedia.org/wiki/下出倫輝 "wikilink")
   - 森本聖也 - [西谷帆澄](https://zh.wikipedia.org/wiki/西谷帆澄 "wikilink")
   - 廣瀨響 - [後藤小太郎](https://zh.wikipedia.org/wiki/後藤小太郎 "wikilink")
   - 石川翼 -
-  - **遠藤真奈美** -
-    [本田望結](../Page/本田望結.md "wikilink")（粵語配音：[曾秀清](../Page/曾秀清.md "wikilink")）
+  - **遠藤真奈美** - [本田望結](../Page/本田望結.md "wikilink")（粵語配音：[曾秀清](../Page/曾秀清.md "wikilink")）
 
 <!-- end list -->
 
@@ -165,8 +151,7 @@
 
 <!-- end list -->
 
-  - **町田春花** -
-    [芳山-{叶}-戀](https://zh.wikipedia.org/wiki/芳山叶戀 "wikilink")（粵語配音：[余欣沛](../Page/余欣沛.md "wikilink")）
+  - **町田春花** - [芳山-{叶}-戀](https://zh.wikipedia.org/wiki/芳山叶戀 "wikilink")（粵語配音：[余欣沛](../Page/余欣沛.md "wikilink")）
   - 伊藤亞里沙 - [伊藤未來](https://zh.wikipedia.org/wiki/伊藤未來 "wikilink")
   - 木暮葵 -
   - 椎名美櫻 - [内藤穗之香](https://zh.wikipedia.org/wiki/内藤穗之香 "wikilink")
@@ -183,8 +168,7 @@
 
 <!-- end list -->
 
-  - **笹倉純一郎** （滿38歳過世）-
-    [葛山信吾](../Page/葛山信吾.md "wikilink")（粵語配音：[雷霆](../Page/雷霆.md "wikilink")）
+  - **笹倉純一郎** （滿38歳過世）- [葛山信吾](../Page/葛山信吾.md "wikilink")（粵語配音：[雷霆](../Page/雷霆.md "wikilink")）
 
 <!-- end list -->
 
@@ -220,8 +204,7 @@
 
 <!-- end list -->
 
-  - **千葉亮一** -
-    [兒嶋一哉](../Page/兒嶋一哉.md "wikilink")（[UNJASH](../Page/UNJASH.md "wikilink")）（粵語配音：[梁偉德](../Page/梁偉德.md "wikilink")）
+  - **千葉亮一** - [兒嶋一哉](../Page/兒嶋一哉.md "wikilink")（[UNJASH](../Page/UNJASH.md "wikilink")）（粵語配音：[梁偉德](../Page/梁偉德.md "wikilink")）
 
 <!-- end list -->
 
@@ -308,8 +291,7 @@
 
 #### 第6話
 
-  - 伊達 -
-    [吉田鋼太郎](https://zh.wikipedia.org/wiki/吉田鋼太郎 "wikilink")（粵語配音：[潘文柏](../Page/潘文柏.md "wikilink")）
+  - 伊達 - [吉田鋼太郎](https://zh.wikipedia.org/wiki/吉田鋼太郎 "wikilink")（粵語配音：[潘文柏](../Page/潘文柏.md "wikilink")）
 
 #### 第7話
 
@@ -362,13 +344,9 @@
   - 旅館的掌櫃 - （粵語配音：[招世亮](../Page/招世亮.md "wikilink")）
   - 飯田友朗 - 淺井廣太朗
   - 友朗的母親 - [東沙也香](https://zh.wikipedia.org/wiki/東沙也香 "wikilink")
-  - 蘆屋瑞希 -
-    [前田敦子](../Page/前田敦子.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")）
-    ※特別出演（粵語配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
-  - 佐野泉 - [中村蒼](../Page/中村蒼.md "wikilink")
-    ※特別出演（粵語配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
-  - 中津秀一 - [三浦翔平](../Page/三浦翔平.md "wikilink")
-    ※特別出演（粵語配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
+  - 蘆屋瑞希 - [前田敦子](../Page/前田敦子.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")） ※特別出演（粵語配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
+  - 佐野泉 - [中村蒼](../Page/中村蒼.md "wikilink") ※特別出演（粵語配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
+  - 中津秀一 - [三浦翔平](../Page/三浦翔平.md "wikilink") ※特別出演（粵語配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
 
 #### 特別篇1
 
@@ -383,8 +361,7 @@
 
 <!-- end list -->
 
-  - **藤澤理沙** -
-    [白石美帆](../Page/白石美帆.md "wikilink")（粵語配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
+  - **藤澤理沙** - [白石美帆](../Page/白石美帆.md "wikilink")（粵語配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
 
 <!-- end list -->
 
@@ -411,8 +388,7 @@
 
 <!-- end list -->
 
-  - **藤澤希美** -
-    （粵語配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
+  - **藤澤希美** - （粵語配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
 
 <!-- end list -->
 
@@ -430,8 +406,7 @@
 
 <!-- end list -->
 
-  - 早海優梨子 - [松下奈緒](../Page/松下奈緒.md "wikilink")
-    ※特別出演（粵語配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
+  - 早海優梨子 - [松下奈緒](../Page/松下奈緒.md "wikilink") ※特別出演（粵語配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
 
 #### 特別篇2
 
@@ -439,8 +414,7 @@
   - **森尾** - 鈴木秋野府（粵語配音：[麥皓豐](../Page/麥皓豐.md "wikilink")）
   - **島本櫻花** - 笹岡雛里（粵語配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
   - **木村健人** - 江上凌平（粵語配音：[黃淑芬](../Page/黃淑芬.md "wikilink")）
-  - **渡邊穗花** -
-    古味來夢（粵語配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
+  - **渡邊穗花** - 古味來夢（粵語配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
   - **中村亞美** - 松井響希（粵語配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
   - **內田希** - 愛川葵（粵語配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
   - '''片野理佐 ''' - 內田彩花
@@ -455,14 +429,13 @@
   - 第四集：うがい、手洗い、かぜひかない（勤漱口，勤洗手，不會[感冒](../Page/感冒.md "wikilink")）
   - 第五集：すききらい、いわないのこさない（不挑食，不剩飯）
   - 第六集：好きでも嫌いでも家族（無論喜歡還是不喜歡，都是一家人）
-  - 第七集：たんじょう日は家族みんなでお祝いすること（家人[生日全家所有人要開心慶祝](../Page/生日.md "wikilink")）
-  - 第八集：そうじはちゃんとやること\!足ウラせいけつ\!バイバイスリッパ\!（要好好打掃房間！腳底乾乾淨淨！[拖鞋再見了](../Page/拖鞋.md "wikilink")！）
+  - 第七集：たんじょう日は家族みんなでお祝いすること（家人[生日](../Page/生日.md "wikilink")全家所有人要開心慶祝）
+  - 第八集：そうじはちゃんとやること\!足ウラせいけつ\!バイバイスリッパ\!（要好好打掃房間！腳底乾乾淨淨！[拖鞋](../Page/拖鞋.md "wikilink")再見了！）
   - 第九集：ケンカしたあとは、ペコリンコビーム（吵架之後就使用愛心光波）
   - 第十集：みんなでみんなを応援しよう（彼此要互相幫助努力打氣）
   - 大結局：はなればなれでも家族（就算大家分開也是一家人）
-  - 特別篇1：しんじればこころもつながる、しんじればカッパにもあえる（只要相信，大家就會心連心；只要相信，就連[河童也遇得見](../Page/河童.md "wikilink")）
-  - 特別篇2：失敗しながら家族
-    カニでもカニカマでもおいしいカニチャーハン\!\!（遭遇過失敗後才是家人。蟹肉也好，[蟹肉棒也好](https://zh.wikipedia.org/wiki/蟹肉棒 "wikilink")，蟹肉炒飯都很好吃\!\!）
+  - 特別篇1：しんじればこころもつながる、しんじればカッパにもあえる（只要相信，大家就會心連心；只要相信，就連[河童](../Page/河童.md "wikilink")也遇得見）
+  - 特別篇2：失敗しながら家族 カニでもカニカマでもおいしいカニチャーハン\!\!（遭遇過失敗後才是家人。蟹肉也好，[蟹肉棒也好](https://zh.wikipedia.org/wiki/蟹肉棒 "wikilink")，蟹肉炒飯都很好吃\!\!）
 
 ## 收視率
 
@@ -627,23 +600,6 @@ MARUMO希望看到兩個孩子的成長？<br />
 
 ## 節目的變遷
 
-[Category:富士電視台週日晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週日晚間九點連續劇 "wikilink")
-[Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink")
-[Category:2011年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年開播的日本電視劇集 "wikilink")
-[Category:2011年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2011年電視特別劇集 "wikilink")
-[Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink")
-[Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink")
-[Category:小學女生主角題材作品](https://zh.wikipedia.org/wiki/Category:小學女生主角題材作品 "wikilink")
-[Category:狗題材電視劇](https://zh.wikipedia.org/wiki/Category:狗題材電視劇 "wikilink")
-[Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink")
-[Category:雙胞胎題材電視劇](https://zh.wikipedia.org/wiki/Category:雙胞胎題材電視劇 "wikilink")
-[Category:墨田區背景作品](https://zh.wikipedia.org/wiki/Category:墨田區背景作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:2014年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2014年電視特別劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:橋田賞獲獎作品](https://zh.wikipedia.org/wiki/Category:橋田賞獲獎作品 "wikilink")
-[Category:寵物題材作品](https://zh.wikipedia.org/wiki/Category:寵物題材作品 "wikilink")
-[Category:收養相關電視節目](https://zh.wikipedia.org/wiki/Category:收養相關電視節目 "wikilink")
-[Category:Dramatic_Sunday](https://zh.wikipedia.org/wiki/Category:Dramatic_Sunday "wikilink")
+[Category:富士電視台週日晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週日晚間九點連續劇 "wikilink") [Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink") [Category:2011年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年開播的日本電視劇集 "wikilink") [Category:2011年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2011年電視特別劇集 "wikilink") [Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink") [Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink") [Category:小學女生主角題材作品](https://zh.wikipedia.org/wiki/Category:小學女生主角題材作品 "wikilink") [Category:狗題材電視劇](https://zh.wikipedia.org/wiki/Category:狗題材電視劇 "wikilink") [Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink") [Category:雙胞胎題材電視劇](https://zh.wikipedia.org/wiki/Category:雙胞胎題材電視劇 "wikilink") [Category:墨田區背景作品](https://zh.wikipedia.org/wiki/Category:墨田區背景作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:2014年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2014年電視特別劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:橋田賞獲獎作品](https://zh.wikipedia.org/wiki/Category:橋田賞獲獎作品 "wikilink") [Category:寵物題材作品](https://zh.wikipedia.org/wiki/Category:寵物題材作品 "wikilink") [Category:收養相關電視節目](https://zh.wikipedia.org/wiki/Category:收養相關電視節目 "wikilink") [Category:Dramatic_Sunday](https://zh.wikipedia.org/wiki/Category:Dramatic_Sunday "wikilink")
 
 1.  [富士中文網官方譯名](http://www.fujitv.co.jp/cn/drama/before/marumo.html)

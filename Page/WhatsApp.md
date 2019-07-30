@@ -1,14 +1,10 @@
-[WhatsApp_chatting.jpg](https://zh.wikipedia.org/wiki/File:WhatsApp_chatting.jpg "fig:WhatsApp_chatting.jpg")
-**WhatsApp Messenger**，簡稱**WhatsApp
-，**是一款用於[智能手機的](../Page/智能手机.md "wikilink")[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")[即時通訊](../Page/即時通訊.md "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。\[1\]該軟體透過[互聯網進行語音通話及影像通話](../Page/互联网.md "wikilink")，並使用標準[行動網路](https://zh.wikipedia.org/wiki/行動網路 "wikilink")[電話號碼向其他用戶發送](https://zh.wikipedia.org/wiki/電話號碼 "wikilink")[簡訊](../Page/簡訊.md "wikilink")、文件檔、[PDF文件](https://zh.wikipedia.org/wiki/便携式文档格式 "wikilink")、[圖片](https://zh.wikipedia.org/wiki/圖片 "wikilink")、[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")、[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、聯絡人資訊、用戶位置及錄音檔等。\[2\]\[3\]
+[WhatsApp_chatting.jpg](https://zh.wikipedia.org/wiki/File:WhatsApp_chatting.jpg "fig:WhatsApp_chatting.jpg") **WhatsApp Messenger**，簡稱**WhatsApp ，**是一款用於[智能手機的](../Page/智能手机.md "wikilink")[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")[即時通訊](../Page/即時通訊.md "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。\[1\]該軟體透過[互聯網進行語音通話及影像通話](../Page/互联网.md "wikilink")，並使用標準[行動網路](https://zh.wikipedia.org/wiki/行動網路 "wikilink")[電話號碼向其他用戶發送](https://zh.wikipedia.org/wiki/電話號碼 "wikilink")[簡訊](../Page/簡訊.md "wikilink")、文件檔、[PDF文件](https://zh.wikipedia.org/wiki/便携式文档格式 "wikilink")、[圖片](https://zh.wikipedia.org/wiki/圖片 "wikilink")、[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")、[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、聯絡人資訊、用戶位置及錄音檔等。\[2\]\[3\]
 
-**WhatsApp公司**總部設在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州的](../Page/加利福尼亚州.md "wikilink")[山景城](../Page/山景城_\(加利福尼亚州\).md "wikilink")，2014年2月[Facebook耗資約](../Page/Facebook.md "wikilink")193億[美元收購為旗下事業體](../Page/美元.md "wikilink")。\[4\]\[5\]截至2016年2月，WhatsApp的用戶人數超過10億人，\[6\]\[7\]\[8\]使其成為時下[最流行的即時通訊軟體](https://zh.wikipedia.org/wiki/用户过亿的虚拟社区列表 "wikilink")。\[9\]\[10\]
+**WhatsApp公司**總部設在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州的](../Page/加利福尼亚州.md "wikilink")[山景城](../Page/山景城_\(加利福尼亚州\).md "wikilink")，2014年2月[Facebook](../Page/Facebook.md "wikilink")耗資約193億[美元](../Page/美元.md "wikilink")收購為旗下事業體。\[4\]\[5\]截至2016年2月，WhatsApp的用戶人數超過10億人，\[6\]\[7\]\[8\]使其成為時下[最流行的即時通訊軟體](https://zh.wikipedia.org/wiki/用户过亿的虚拟社区列表 "wikilink")。\[9\]\[10\]
 
 ## Facebook收購歷史
 
-2014年2月19日，[Facebook宣佈以美金](../Page/Facebook.md "wikilink")190億元全面收購WhatsApp\[11\]\[12\]，其中40億美元為現金支付，而大約120億美元的部分以Facebook股票形式交易，另外Facebook將向WhatsApp員工發放價值30億美元特別股份作為分紅\[13\]。WhatsApp總部仍將留在[加州](../Page/加利福尼亚州.md "wikilink")[山景城](../Page/山景城_\(加利福尼亚州\).md "wikilink")（Mountain
-View），繼續作為獨立業務，並保留自己的品牌，而創辦人兼[首席執行長庫姆](https://zh.wikipedia.org/wiki/首席執行長 "wikilink")（Jan
-Koum）則加入Facebook[董事會](https://zh.wikipedia.org/wiki/董事會 "wikilink")\[14\]。
+2014年2月19日，[Facebook](../Page/Facebook.md "wikilink")宣佈以美金190億元全面收購WhatsApp\[11\]\[12\]，其中40億美元為現金支付，而大約120億美元的部分以Facebook股票形式交易，另外Facebook將向WhatsApp員工發放價值30億美元特別股份作為分紅\[13\]。WhatsApp總部仍將留在[加州](../Page/加利福尼亚州.md "wikilink")[山景城](../Page/山景城_\(加利福尼亚州\).md "wikilink")（Mountain View），繼續作為獨立業務，並保留自己的品牌，而創辦人兼[首席執行長庫姆](https://zh.wikipedia.org/wiki/首席執行長 "wikilink")（Jan Koum）則加入Facebook[董事會](https://zh.wikipedia.org/wiki/董事會 "wikilink")\[14\]。
 
 2014年10月6日[歐盟監管當局正式批准Facebook收購WhatsApp](https://zh.wikipedia.org/wiki/歐盟 "wikilink")，由於交易涉及Facebook[股權](https://zh.wikipedia.org/wiki/股權 "wikilink")，而其自2月中公布收購至今股價上漲，根據交易協議，Facebook會以1.78億股作收購代價，另支付4,600萬股限售股予WhatsApp員工，以星期一10月6日收市價77.555美元計，股份總值達173.7億美元，再加上45.9億美元現金代價，令交易總值增加至219億美元。
 
@@ -16,26 +12,22 @@ Koum）則加入Facebook[董事會](https://zh.wikipedia.org/wiki/董事會 "wik
 
 ### 手機
 
-  - [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")（僅支援[iPhone使用](https://zh.wikipedia.org/wiki/iPhone "wikilink")，[iPod及](https://zh.wikipedia.org/wiki/iPod "wikilink")[iPad需要](https://zh.wikipedia.org/wiki/iPad "wikilink")[越獄使用](https://zh.wikipedia.org/wiki/越狱_\(iOS\) "wikilink")\[15\]）。
+  - [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")（僅支援[iPhone使用](https://zh.wikipedia.org/wiki/iPhone "wikilink")，[iPad則需為測試員才能使用](https://zh.wikipedia.org/wiki/iPad "wikilink")。\[15\]）
   - [Android](../Page/Android.md "wikilink")（2016年底停止支援2.1－2.2版本\[16\]）
-  - [Windows
-    Phone](../Page/Windows_Phone.md "wikilink")（2016年底停止支援7.1版本\[17\]）
+  - [Windows Phone](../Page/Windows_Phone.md "wikilink")（2016年底停止支援7.1版本\[17\]）
 
 ### 電腦
 
-  - [Windows
-    8或以上版本](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")\[18\]
-  - [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
-    10.9或以上版本\[19\]
+  - [Windows 8或以上版本](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")\[18\]
+  - [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 10.9或以上版本\[19\]
 
 ### 網頁版
 
-WhatsApp於2015年1月21日推出「WhatsApp網頁版」功能，目前僅提供[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android與](../Page/Android.md "wikilink")[Windows
-Phone平台的用戶使用](../Page/Windows_Phone.md "wikilink")。用戶必須更新為最新版本的WhatsApp，並透過[瀏覽器進入網頁版頁面後](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")，掃描[QR條碼驗證成功即可使用](https://zh.wikipedia.org/wiki/QR條碼 "wikilink")。
+WhatsApp於2015年1月21日推出「WhatsApp網頁版」功能，目前僅提供[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")與[Windows Phone平台的用戶使用](../Page/Windows_Phone.md "wikilink")。用戶必須更新為最新版本的WhatsApp，並透過[瀏覽器進入網頁版頁面後](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")，掃描[QR條碼驗證成功即可使用](https://zh.wikipedia.org/wiki/QR條碼 "wikilink")。
 
 ### 數據傳輸
 
-WhatsApp使用[-{zh-tw:行動網路;zh-hk:流動網絡;zh-cn:移动网络}-或是](https://zh.wikipedia.org/wiki/蜂窩網絡 "wikilink")[Wi-Fi來傳送訊息](../Page/Wi-Fi.md "wikilink")，並使用[TCP端口](https://zh.wikipedia.org/wiki/TCP协议 "wikilink")5222传输数据，该协议为开放式协议[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")。
+WhatsApp使用[-{zh-tw:行動網路;zh-hk:流動網絡;zh-cn:移动网络}-或是](https://zh.wikipedia.org/wiki/蜂窩網絡 "wikilink")[Wi-Fi](../Page/Wi-Fi.md "wikilink")來傳送訊息，並使用[TCP端口](https://zh.wikipedia.org/wiki/TCP协议 "wikilink")5222传输数据，该协议为开放式协议[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")。
 
 ## 特點
 
@@ -55,8 +47,7 @@ WhatsApp預設讓所有人能夠將其他使用者加入他管理的群組聊天
 
 ### 語音通話
 
-WhatsApp於2015年4月推出語音通話功能，透過 App
-跟世界各地的使用者直接通話，用戶使用[3G](../Page/3G.md "wikilink")、[4G网络或透過](../Page/4G.md "wikilink")[Wi-Fi连接進行通話](../Page/Wi-Fi.md "wikilink")，用戶只需使用[3G](../Page/3G.md "wikilink")、[4G网络數據用量](../Page/4G.md "wikilink")，而無須繳付電話費用。
+WhatsApp於2015年4月推出語音通話功能，透過 App 跟世界各地的使用者直接通話，用戶使用[3G](../Page/3G.md "wikilink")、[4G](../Page/4G.md "wikilink")网络或透過[Wi-Fi](../Page/Wi-Fi.md "wikilink")连接進行通話，用戶只需使用[3G](../Page/3G.md "wikilink")、[4G](../Page/4G.md "wikilink")网络數據用量，而無須繳付電話費用。
 
 ### 其他
 
@@ -66,12 +57,9 @@ WhatsApp的帳號是綑綁用戶手機的電話號碼，但用戶如需要更改
 
 ## 收費
 
-目前WhatsApp應用程式在所有平台皆為免費使用。起初在[Android](../Page/Android.md "wikilink")、[Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")（[S40](https://zh.wikipedia.org/wiki/S40 "wikilink")、[S60](https://zh.wikipedia.org/wiki/S60 "wikilink")）和[BlackBerry系統中](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")，WhatsApp通常給予用戶[免費試用一年](https://zh.wikipedia.org/wiki/免費 "wikilink")，往後需付年費，每年收費0.99[美元](../Page/美元.md "wikilink")。但若同一帳戶之前在iOS版已付下載及使用權費用，或是使用[Windows
-Phone免費註冊的帳戶](../Page/Windows_Phone.md "wikilink")，則無需再次付費。Windows
-Phone版本的WhatsApp是免費下載和註冊使用的。
+目前WhatsApp應用程式在所有平台皆為免費使用。起初在[Android](../Page/Android.md "wikilink")、[Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")（[S40](https://zh.wikipedia.org/wiki/S40 "wikilink")、[S60](https://zh.wikipedia.org/wiki/S60 "wikilink")）和[BlackBerry系統中](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")，WhatsApp通常給予用戶[免費試用一年](https://zh.wikipedia.org/wiki/免費 "wikilink")，往後需付年費，每年收費0.99[美元](../Page/美元.md "wikilink")。但若同一帳戶之前在iOS版已付下載及使用權費用，或是使用[Windows Phone免費註冊的帳戶](../Page/Windows_Phone.md "wikilink")，則無需再次付費。Windows Phone版本的WhatsApp是免費下載和註冊使用的。
 
-在[iOS版本中](https://zh.wikipedia.org/wiki/iOS "wikilink")，用戶要先付0.99美元，才擁有在[App
-Store的下載及使用權](https://zh.wikipedia.org/wiki/App_Store "wikilink")，或是在不定時會推出限時免費的優惠時段以衝高市佔率，通常在受到其他通訊軟體製造新聞話題時，而使WhatsApp的通訊量暴跌，便會出現免費下載的情況，例如曾於2011年5月31日至6月2日期間注冊可免費使用。
+在[iOS版本中](https://zh.wikipedia.org/wiki/iOS "wikilink")，用戶要先付0.99美元，才擁有在[App Store的下載及使用權](https://zh.wikipedia.org/wiki/App_Store "wikilink")，或是在不定時會推出限時免費的優惠時段以衝高市佔率，通常在受到其他通訊軟體製造新聞話題時，而使WhatsApp的通訊量暴跌，便會出現免費下載的情況，例如曾於2011年5月31日至6月2日期間注冊可免費使用。
 
 ### 统一收費
 
@@ -83,21 +71,19 @@ WhatsApp的付費使用曾引起爭議，很多人認為伺服器運作成本「
 
 ## 安全疑慮
 
-2013年1月，加拿大隱私權委員會辦公室（The Office of the Privacy Commissioner of
-Canada，OPC）與荷蘭資料保護機構（Dutch Data Protection
-Authority，CBP）共同針對知名行動程式WhatsApp的隱私作法展開調查，並指控WhatsApp違反國際隱私權準則，未能遵循國際間對於個人資料的保留、維護與揭露原則。
-\[27\] 2019年5月，WhatsApp和以色列開發商NSO
-Group確認他們在Android和iOS版本WhatsApp的通話功能發現漏洞，而且成功置放NSO的Pegasus間諜軟體。這工具即使使用者沒有應答電話，也可以對目標進行攻擊，而且不會留下通話記錄。Pegasus還可以開啟相機和麥克風功能，以及存取位置和訊息內容。\[28\]
+2013年1月，加拿大隱私權委員會辦公室（The Office of the Privacy Commissioner of Canada，OPC）與荷蘭資料保護機構（Dutch Data Protection Authority，CBP）共同針對知名行動程式WhatsApp的隱私作法展開調查，並指控WhatsApp違反國際隱私權準則，未能遵循國際間對於個人資料的保留、維護與揭露原則。 \[27\] 2019年5月，WhatsApp和以色列開發商NSO Group確認他們在Android和iOS版本WhatsApp的通話功能發現漏洞，而且成功置放NSO的Pegasus間諜軟體。這工具即使使用者沒有應答電話，也可以對目標進行攻擊，而且不會留下通話記錄。Pegasus還可以開啟相機和麥克風功能，以及存取位置和訊息內容。\[28\]
+
+2019年5月，WhatsApp和以色列開發商NSO Group確認他們在Android和iOS版本WhatsApp的通話功能發現漏洞，而且成功置放NSO的Pegasus間諜軟體。這工具即使使用者沒有應答電話，也可以對目標進行攻擊，而且不會留下通話記錄。Pegasus還可以開啟相機和麥克風功能，以及存取位置和訊息內容。\[29\]
 
 ## 地區限制
 
 ###
 
-2017年7月起，根據[法國國際廣播電台的報導](https://zh.wikipedia.org/wiki/法國國際廣播電台 "wikilink")，在[中国大陆訪問或使用WhatsApp的服務](../Page/中国大陆.md "wikilink")，可能受到[防火長城的限制而無法正常使用](https://zh.wikipedia.org/wiki/防火長城 "wikilink")\[29\]，當時只有視訊通話、圖片和檔案收發功能被封鎖。同年9月24日起，WhatsApp的收發文字訊息功能亦被封鎖，\[30\]目前WhatsApp需要通過[翻牆才能使用](https://zh.wikipedia.org/wiki/突破網絡審查 "wikilink")。
+2017年7月起，根據[法國國際廣播電台的報導](https://zh.wikipedia.org/wiki/法國國際廣播電台 "wikilink")，在[中国大陆](../Page/中国大陆.md "wikilink")訪問或使用WhatsApp的服務，可能受到[防火長城的限制而無法正常使用](https://zh.wikipedia.org/wiki/防火長城 "wikilink")\[30\]，當時只有視訊通話、圖片和檔案收發功能被封鎖。同年9月24日起，WhatsApp的收發文字訊息功能亦被封鎖，\[31\]目前WhatsApp需要通過[翻牆才能使用](https://zh.wikipedia.org/wiki/突破網絡審查 "wikilink")。
 
 ###
 
-2016年11月，在逮捕了11名亲[库尔德族政党人民民主党议员后](../Page/库尔德人.md "wikilink")，土耳其政府封锁了WhatsApp。\[31\]
+2016年11月，在逮捕了11名亲[库尔德族政党人民民主党议员后](../Page/库尔德人.md "wikilink")，土耳其政府封锁了WhatsApp。\[32\]
 
 ###
 
@@ -118,16 +104,7 @@ Group確認他們在Android和iOS版本WhatsApp的通話功能發現漏洞，而
 ## 外部链接
 
   -
-[Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:黑莓软件](https://zh.wikipedia.org/wiki/Category:黑莓软件 "wikilink")
-[Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink")
-[Category:Firefox_OS軟體](https://zh.wikipedia.org/wiki/Category:Firefox_OS軟體 "wikilink")
-[Category:Facebook收購](https://zh.wikipedia.org/wiki/Category:Facebook收購 "wikilink")
-[Category:山景城公司](https://zh.wikipedia.org/wiki/Category:山景城公司 "wikilink")
+[Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:黑莓软件](https://zh.wikipedia.org/wiki/Category:黑莓软件 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink") [Category:Firefox_OS軟體](https://zh.wikipedia.org/wiki/Category:Firefox_OS軟體 "wikilink") [Category:Facebook收購](https://zh.wikipedia.org/wiki/Category:Facebook收購 "wikilink") [Category:山景城公司](https://zh.wikipedia.org/wiki/Category:山景城公司 "wikilink")
 
 1.
 
@@ -150,8 +127,7 @@ Group確認他們在Android和iOS版本WhatsApp的通話功能發現漏洞，而
 
 11. [臉書花190億美元買下WhatsApp](http://www.cna.com.tw/news/firstnews/201402200003-1.aspx)，中央社2014年2月20日
 
-12. [Facebook190亿美元收购WhatsApp](http://www.apdnews.com/news/70168.html)
-    ，亚太日报，2014年2月20日
+12. [Facebook190亿美元收购WhatsApp](http://www.apdnews.com/news/70168.html) ，亚太日报，2014年2月20日
 
 13.
 
@@ -188,3 +164,5 @@ Group確認他們在Android和iOS版本WhatsApp的通話功能發現漏洞，而
 30.
 
 31.
+
+32.

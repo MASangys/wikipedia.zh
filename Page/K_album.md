@@ -1,9 +1,8 @@
-《**K
-album**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")12張[專輯](../Page/音樂專輯.md "wikilink")。於2011年11月9日由[傑尼斯娛樂唱片公司發行](../Page/傑尼斯娛樂.md "wikilink")。
+《**K album**》是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")12張[專輯](../Page/音樂專輯.md "wikilink")。於2011年11月9日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解說
 
-本專輯分別有初回版和通常版兩個版本。初回版附送的特典[數碼多功能影音光碟收錄了出道至今的所有單曲](../Page/數碼多功能影音光碟.md "wikilink")，一共31首[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，封面各有不同。
+本專輯分別有初回版和通常版兩個版本。初回版附送的特典[數碼多功能影音光碟](../Page/數碼多功能影音光碟.md "wikilink")收錄了出道至今的所有單曲，一共31首[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，封面各有不同。
 
 ## 收錄歌曲
 
@@ -61,25 +60,19 @@ album**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的�
       - 編曲：[鈴木雅也](https://zh.wikipedia.org/wiki/鈴木雅也 "wikilink")
       - 和音編排：[Ko-saku](https://zh.wikipedia.org/wiki/Ko-saku "wikilink")
 12. **[Time](../Page/Time_\(近畿小子\).md "wikilink")**
-      - 作曲：[U-Key
-        zone](https://zh.wikipedia.org/wiki/U-Key_zone "wikilink")
-      - 作詞：[U-Key zone /
-        mikula](https://zh.wikipedia.org/wiki/U-Key_zone_/_mikula "wikilink")
-      - 編曲：[U-Key
-        zone](https://zh.wikipedia.org/wiki/U-Key_zone "wikilink")
-      - 弦樂編排：[Simon
-        Hale](https://zh.wikipedia.org/wiki/Simon_Hale "wikilink")
+      - 作曲：[U-Key zone](https://zh.wikipedia.org/wiki/U-Key_zone "wikilink")
+      - 作詞：[U-Key zone / mikula](https://zh.wikipedia.org/wiki/U-Key_zone_/_mikula "wikilink")
+      - 編曲：[U-Key zone](https://zh.wikipedia.org/wiki/U-Key_zone "wikilink")
+      - 弦樂編排：[Simon Hale](https://zh.wikipedia.org/wiki/Simon_Hale "wikilink")
 13. **在你與我的心中**（****）
       - 作曲：[堂島孝平](https://zh.wikipedia.org/wiki/堂島孝平 "wikilink")
       - 作詞：[堂島孝平](https://zh.wikipedia.org/wiki/堂島孝平 "wikilink")
       - 編曲：[堂島孝平](https://zh.wikipedia.org/wiki/堂島孝平 "wikilink")
 14. **我出生的那一天**（****）
       - ※通常版收錄
-      - 作曲：[Steve Mac /
-        Shusui](https://zh.wikipedia.org/wiki/Steve_Mac_/_Shusui "wikilink")
+      - 作曲：[Steve Mac / Shusui](https://zh.wikipedia.org/wiki/Steve_Mac_/_Shusui "wikilink")
       - 作詞：[canna](https://zh.wikipedia.org/wiki/canna "wikilink")
-      - 編曲：[Steve Mac /
-        Shusui](https://zh.wikipedia.org/wiki/Steve_Mac_/_Shusui "wikilink")
+      - 編曲：[Steve Mac / Shusui](https://zh.wikipedia.org/wiki/Steve_Mac_/_Shusui "wikilink")
       - 和音編排：[松下誠](https://zh.wikipedia.org/wiki/松下誠 "wikilink")
 15. **Family ～讓我們在一起 \[Unplugged\]**（****）
       - ※通常版收錄
@@ -153,6 +146,4 @@ album**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的�
 
 \#\*「Time」Music Clip/TV SPOT
 
-[Category:近畿小子專輯](https://zh.wikipedia.org/wiki/Category:近畿小子專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:近畿小子專輯](https://zh.wikipedia.org/wiki/Category:近畿小子專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")

@@ -2,8 +2,8 @@
 
 ## 簡介
 
-  - [B'z自歌曲](../Page/B'z.md "wikilink")《[ONE](https://zh.wikipedia.org/wiki/ONE "wikilink")》以來第四次成為[名偵探柯南的主題曲](../Page/名偵探柯南.md "wikilink")
-  - [B'z所有歌曲裡](../Page/B'z.md "wikilink")，唯一完全使用[漢字當歌名的歌曲](https://zh.wikipedia.org/wiki/漢字 "wikilink")
+  - [B'z](../Page/B'z.md "wikilink")自歌曲《[ONE](https://zh.wikipedia.org/wiki/ONE "wikilink")》以來第四次成為[名偵探柯南](../Page/名偵探柯南.md "wikilink")的主題曲
+  - [B'z](../Page/B'z.md "wikilink")所有歌曲裡，唯一完全使用[漢字當歌名的歌曲](https://zh.wikipedia.org/wiki/漢字 "wikilink")
   - 最終銷量約30.4萬張。
 
 ## 製作人員
@@ -20,9 +20,8 @@
 
 ## 主題曲
 
-  - 讀賣電視台動畫『[名偵探柯南](../Page/名偵探柯南.md "wikilink")』播放10周年記念主題歌（片頭曲）・2006年1月9日
-    - 2006年5月8日（\#1）。
-  - [日本電視台週六連續劇](../Page/日本電視台.md "wikilink")『美食偵探王 』主題曲（\#2）。
+  - 讀賣電視台動畫『[名偵探柯南](../Page/名偵探柯南.md "wikilink")』播放10周年記念主題歌（片頭曲）・2006年1月9日 - 2006年5月8日（\#1）。
+  - [日本電視台](../Page/日本電視台.md "wikilink")週六連續劇『美食偵探王 』主題曲（\#2）。
 
 ## 收錄專輯
 
@@ -48,10 +47,4 @@
 </tbody>
 </table>
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
-[Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
-[Category:2006年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2006年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink") [Category:2006年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲月榜冠軍作品 "wikilink") [Category:2006年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲週榜冠軍作品 "wikilink") [Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")

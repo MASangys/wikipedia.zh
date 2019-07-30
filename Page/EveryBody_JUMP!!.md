@@ -1,11 +1,8 @@
-「**EveryBody
-JUMP\!\!**」是[SUPER☆GiRLS的第](../Page/SUPER☆GiRLS.md "wikilink")2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2012年2月1日由[iDOL
-Street發售](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
+「**EveryBody JUMP\!\!**」是[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")的第2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2012年2月1日由[iDOL Street發售](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
 
 ## 概要
 
-收錄了13歌曲。分為封面A超絶盤（初回限定盤、CD+DVD）、封面B（CD+DVD）、封面C（只有CD）、封面C活動会場、mu-mo
-shop限定盤（只有CD）的4形式發售\[1\]。是成員秋田惠里最後参加的專輯。
+收錄了13歌曲。分為封面A超絶盤（初回限定盤、CD+DVD）、封面B（CD+DVD）、封面C（只有CD）、封面C活動会場、mu-mo shop限定盤（只有CD）的4形式發售\[1\]。是成員秋田惠里最後参加的專輯。
 
 ## 收錄曲
 
@@ -21,8 +18,7 @@ shop限定盤（只有CD）的4形式發售\[1\]。是成員秋田惠里最後�
 6.  **シェルターなんかいらない** \[3:46\]（荒井・後藤・田中・渡邊）
 7.  **夕焼け空に、また明日。** \[5:24\]（宮崎・八坂）
 8.  **My dream** \[4:25\]（溝手）
-9.  **[MAX\!乙女心](https://zh.wikipedia.org/wiki/MAX!乙女心/Happy_GO_Lucky!〜ハピ☆ラキでゴー!〜 "wikilink")**
-    \[4:36\]
+9.  **[MAX\!乙女心](https://zh.wikipedia.org/wiki/MAX!乙女心/Happy_GO_Lucky!〜ハピ☆ラキでゴー!〜 "wikilink")** \[4:36\]
       -
         作詞：BOUNCEBACK、作曲：松田純一、編曲：鈴木Daichi秀行
 10. **BELIEVER** \[4:33\]

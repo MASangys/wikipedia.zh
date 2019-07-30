@@ -1,6 +1,6 @@
 這是一個**Wiki站點架設**網站的比較表，一般比較其收費、廣告、版權條款及[Alexa排名](../Page/Alexa_Internet.md "wikilink")。
 
-[Wiki是一個網上合作工具](../Page/Wiki.md "wikilink")；第一，他們是比一般網站容易編輯，且可以用標準[瀏覽器訪問](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")；第二，修訂是存檔及可重寫的。
+[Wiki](../Page/Wiki.md "wikilink")是一個網上合作工具；第一，他們是比一般網站容易編輯，且可以用標準[瀏覽器訪問](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")；第二，修訂是存檔及可重寫的。
 
 ## 一般比較
 
@@ -171,15 +171,6 @@
 <td><p>[10]</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/wiki.wiki" title="wikilink">wiki.wiki</a></strong></p></td>
-<td><p>免费</p></td>
-<td><p>否</p></td>
-<td></td>
-<td><p>MediaWiki</p></td>
-<td><p>多种</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/灰机wiki" title="wikilink">灰机wiki</a></strong></p></td>
 <td><p>免费</p></td>
 <td><p>否</p></td>
@@ -188,7 +179,7 @@
 <td><p>简体中文</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/@wiki" title="wikilink">@wiki</a></strong></p></td>
 <td><p>免费</p></td>
 <td><p>否</p></td>
@@ -206,6 +197,12 @@
   - [維基](../Page/維基.md "wikilink")
   - [Wiki農場](https://zh.wikipedia.org/wiki/Wiki農場 "wikilink")
 
+## 已关闭的Wiki農場
+
+  - [Wiki.wiki](https://zh.wikipedia.org/wiki/Wiki.wiki "wikilink")\[11\]
+
+
+
 ## 參考
 
 [Category:Wiki](https://zh.wikipedia.org/wiki/Category:Wiki "wikilink")
@@ -220,3 +217,4 @@
 8.  Wikispaces private and plus accounts are free for K-12 educators.
 9.
 10.
+11.

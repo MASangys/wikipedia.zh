@@ -2,26 +2,21 @@
 
 ## 人物
 
-2001年，以《鐵道天使》在第11回[ACE &
-NEXT新人漫畫賞中得到獎勵賞](https://zh.wikipedia.org/wiki/角川漫画新人赏#Ace新人漫画賞 "wikilink")。
+2001年，以《鐵道天使》在第11回[ACE & NEXT新人漫畫賞中得到獎勵賞](https://zh.wikipedia.org/wiki/角川漫画新人赏#Ace新人漫画賞 "wikilink")。
 
 ## 作品列表
 
 ### 連載完結
 
-  - （於《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》2004年 -
-    2005年連載，[角川書店出版](../Page/角川書店.md "wikilink")，全4冊，完全版全3冊）
+  - （於《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》2004年 - 2005年連載，[角川書店](../Page/角川書店.md "wikilink")出版，全4冊，完全版全3冊）
 
-  - （於《月刊少年Ace》2006年 -
-    2011年連載，角川書店出版，全12冊，中文版[台灣角川發行](../Page/台灣角川.md "wikilink")）
+  - （於《月刊少年Ace》2006年 - 2011年連載，角川書店出版，全12冊，中文版[台灣角川](../Page/台灣角川.md "wikilink")發行）
 
-      - （於月刊少年Ace増刊《[Ace
-        Assault](https://zh.wikipedia.org/wiki/Ace_Assault "wikilink")》連載，角川書店出版，全1冊）
+      - （於月刊少年Ace増刊《[Ace Assault](https://zh.wikipedia.org/wiki/Ace_Assault "wikilink")》連載，角川書店出版，全1冊）
 
-      - （於月刊少年Ace増刊《Ace Assault》（第一話、二話）及《[Young
-        Ace](../Page/Young_Ace.md "wikilink")》（第三話至五話）連載，角川書店出版，全1冊）
+      - （於月刊少年Ace増刊《Ace Assault》（第一話、二話）及《[Young Ace](../Page/Young_Ace.md "wikilink")》（第三話至五話）連載，角川書店出版，全1冊）
 
-  - （《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》2011年開始連載，[角川書店出版](../Page/角川書店.md "wikilink")，中文版由[台灣角川發行](../Page/台灣角川.md "wikilink")，全10冊）
+  - （《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》2011年開始連載，[角川書店](../Page/角川書店.md "wikilink")出版，中文版由[台灣角川](../Page/台灣角川.md "wikilink")發行，全10冊）
 
   - （《月刊少年Ace》2017年－2018年連載、全4冊）
 

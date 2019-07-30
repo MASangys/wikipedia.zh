@@ -1,17 +1,7 @@
-《**魔法门V：黑暗魔君大反扑**》（，又译**魔法门V：黑暗星云**，或称**魔法门V**、**魔法门5**，英文缩写****）是由[New
-World
-Computing制作组开发](../Page/New_World_Computing.md "wikilink")，于1993年发行，运行于[MS-DOS](../Page/MS-DOS.md "wikilink")、[Mac等平台的一款](https://zh.wikipedia.org/wiki/Mac "wikilink")[RPG角色扮演类游戏](../Page/電子角色扮演遊戲.md "wikilink")。它是[魔法门系列游戏的第五版](../Page/魔法门系列.md "wikilink")，剧情接在《[魔法门IV：星云之谜](https://zh.wikipedia.org/wiki/魔法门IV：星云之谜 "wikilink")》之后。
+《**魔法门V：黑暗魔君大反扑**》（，又译**魔法门V：黑暗星云**，或称**魔法门V**、**魔法门5**，英文缩写****）是由[New World Computing制作组开发](../Page/New_World_Computing.md "wikilink")，于1993年发行，运行于[MS-DOS](../Page/MS-DOS.md "wikilink")、[Mac等平台的一款](https://zh.wikipedia.org/wiki/Mac "wikilink")[RPG角色扮演类游戏](../Page/電子角色扮演遊戲.md "wikilink")。它是[魔法门系列](../Page/魔法门系列.md "wikilink")游戏的第五版，剧情接在《[魔法门IV：星云之谜](https://zh.wikipedia.org/wiki/魔法门IV：星云之谜 "wikilink")》之后。
 
 ## 决战星云世界
 
-[World_of_Xeen_Cover.jpg](https://zh.wikipedia.org/wiki/File:World_of_Xeen_Cover.jpg "fig:World_of_Xeen_Cover.jpg")
-《魔法门：决战星云世界》（）是一个整合游戏。如果《[魔法门IV：星云之谜](https://zh.wikipedia.org/wiki/魔法门IV：星云之谜 "wikilink")》和《魔法门V：黑暗魔君大反扑》装在一个系统中的话，它们可以整合成在一个“星云世界”中。《决战星云世界》游戏包含《魔法门IV》和《魔法门V》的所有内容，另外还有一些附加的任务。1994年，[New
-World
-Computing单独发行了](../Page/New_World_Computing.md "wikilink")《魔法门：决战星云世界》CD。
+[World_of_Xeen_Cover.jpg](https://zh.wikipedia.org/wiki/File:World_of_Xeen_Cover.jpg "fig:World_of_Xeen_Cover.jpg") 《魔法门：决战星云世界》（）是一个整合游戏。如果《[魔法门IV：星云之谜](https://zh.wikipedia.org/wiki/魔法门IV：星云之谜 "wikilink")》和《魔法门V：黑暗魔君大反扑》装在一个系统中的话，它们可以整合成在一个“星云世界”中。《决战星云世界》游戏包含《魔法门IV》和《魔法门V》的所有内容，另外还有一些附加的任务。1994年，[New World Computing单独发行了](../Page/New_World_Computing.md "wikilink")《魔法门：决战星云世界》CD。
 
-[Category:New_World_Computing游戏](https://zh.wikipedia.org/wiki/Category:New_World_Computing游戏 "wikilink")
-[Category:電子角色扮演游戏](https://zh.wikipedia.org/wiki/Category:電子角色扮演游戏 "wikilink")
-[Category:第一人稱游戏](https://zh.wikipedia.org/wiki/Category:第一人稱游戏 "wikilink")
-[Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink")
-[Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink")
-[Category:魔法門系列](https://zh.wikipedia.org/wiki/Category:魔法門系列 "wikilink")
+[Category:New_World_Computing游戏](https://zh.wikipedia.org/wiki/Category:New_World_Computing游戏 "wikilink") [Category:電子角色扮演游戏](https://zh.wikipedia.org/wiki/Category:電子角色扮演游戏 "wikilink") [Category:第一人稱游戏](https://zh.wikipedia.org/wiki/Category:第一人稱游戏 "wikilink") [Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink") [Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink") [Category:魔法門系列](https://zh.wikipedia.org/wiki/Category:魔法門系列 "wikilink")

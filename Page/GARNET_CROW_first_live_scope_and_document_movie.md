@@ -1,7 +1,4 @@
-《**GARNET CROW first live scope and document movie**》是[GARNET
-CROW的第一张LIVE](../Page/GARNET_CROW.md "wikilink")
-DVD。2003年2月26日由[GIZA
-studio发售](../Page/GIZA_studio.md "wikilink")。
+《**GARNET CROW first live scope and document movie**》是[GARNET CROW的第一张LIVE](../Page/GARNET_CROW.md "wikilink") DVD。2003年2月26日由[GIZA studio发售](../Page/GIZA_studio.md "wikilink")。
 
 ## 概要
 
@@ -39,5 +36,4 @@ studio发售](../Page/GIZA_studio.md "wikilink")。
 
 and document movie
 
-[Category:GARNET_CROW影像作品](https://zh.wikipedia.org/wiki/Category:GARNET_CROW影像作品 "wikilink")
-[Category:2003年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2003年音樂相關影像作品 "wikilink")
+[Category:GARNET_CROW影像作品](https://zh.wikipedia.org/wiki/Category:GARNET_CROW影像作品 "wikilink") [Category:2003年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2003年音樂相關影像作品 "wikilink")

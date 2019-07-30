@@ -1,59 +1,34 @@
-**Modern
-Children**，是於2006年冬天成立的一隊[香港](../Page/香港.md "wikilink")[獨立搖滾樂隊](https://zh.wikipedia.org/wiki/獨立搖滾 "wikilink")。成員包括Kenneth
-Tsang、Jimmy Cheung、Chih Leung、Tony Leung、隆威 和Winnie Lau。
+**Modern Children**，是於2006年冬天成立的一隊[香港](../Page/香港.md "wikilink")[獨立搖滾樂隊](https://zh.wikipedia.org/wiki/獨立搖滾 "wikilink")。成員包括Kenneth Tsang、Jimmy Cheung、Chih Leung、Tony Leung、隆威 和Winnie Lau。
 
-如果用一個詞形容Modern Children，
-最適合不過的詞語是「繽紛」了。他們「繽紛」，因為他們喜歡玩不同類型的音樂，以另類流行和後搖滾音樂為主﹔他們的演出「繽紛」，有別於傳統搖滾樂隊，除了以結他、低音結他和鼓的演奏外，亦會以不同的樂器演奏，如[手風琴](https://zh.wikipedia.org/wiki/手風琴 "wikilink")、Rainbowbells、[弦樂等](https://zh.wikipedia.org/wiki/弦樂 "wikilink")，力求得到不同的聲音，他們的演出保證目不暇給；他們的音樂「繽紛」，可以溫婉甜美，又使人血脈噴張。Modern
-Children 努力尋找「流行」和「另類」之間的平衡點，積極拓闊音樂領域，也把美麗動人和流暢的調子引入歌曲中。
+如果用一個詞形容Modern Children， 最適合不過的詞語是「繽紛」了。他們「繽紛」，因為他們喜歡玩不同類型的音樂，以另類流行和後搖滾音樂為主﹔他們的演出「繽紛」，有別於傳統搖滾樂隊，除了以結他、低音結他和鼓的演奏外，亦會以不同的樂器演奏，如[手風琴](https://zh.wikipedia.org/wiki/手風琴 "wikilink")、Rainbowbells、[弦樂等](https://zh.wikipedia.org/wiki/弦樂 "wikilink")，力求得到不同的聲音，他們的演出保證目不暇給；他們的音樂「繽紛」，可以溫婉甜美，又使人血脈噴張。Modern Children 努力尋找「流行」和「另類」之間的平衡點，積極拓闊音樂領域，也把美麗動人和流暢的調子引入歌曲中。
 
-樂隊演出經驗豐富，曾經為[The
-Pancakes作樂手](../Page/The_Pancakes.md "wikilink")，也多次為海內外著名樂隊作暖場嘉賓，如英國樂隊的The
-Charlatans、北京樂隊的[旅行團等](../Page/旅行團.md "wikilink")。
+樂隊演出經驗豐富，曾經為[The Pancakes作樂手](../Page/The_Pancakes.md "wikilink")，也多次為海內外著名樂隊作暖場嘉賓，如英國樂隊的The Charlatans、北京樂隊的[旅行團](../Page/旅行團.md "wikilink")等。
 
 ## 名稱
 
-2008年某天的一個樂隊聚會，有成員穿著印有「The
-Modern」字樣的汗衫，成員皆認為「Modern」這個字很能代表他們喜歡的音樂，並以此當樂隊名。經[Google後](../Page/Google.md "wikilink")，發現外國也有一隊樂隊叫「The
-Modern」，在堅決不放棄此名及避免同名為原則下，決定叫「Modern
-Children」。加上「Children」一字的原因是樂隊會使用玩具樂器演奏，同時認為要保持童心才能創作出真誠及新穎的音樂。
+2008年某天的一個樂隊聚會，有成員穿著印有「The Modern」字樣的汗衫，成員皆認為「Modern」這個字很能代表他們喜歡的音樂，並以此當樂隊名。經[Google](../Page/Google.md "wikilink")後，發現外國也有一隊樂隊叫「The Modern」，在堅決不放棄此名及避免同名為原則下，決定叫「Modern Children」。加上「Children」一字的原因是樂隊會使用玩具樂器演奏，同時認為要保持童心才能創作出真誠及新穎的音樂。
 
 ## 歷史
 
 ### 第一代 (2006年 – 2009年)
 
-2006年冬天，結他手Chih Leung 在網路討論區Hong Kong Band Forum中以「玩Indie Pop
-音樂」為題招隊員組團。其兄Tony Leung、Kenneth Tsang及Jimmy
-Cheung先後加入，開始創作音樂。一個多月後，主音Kenneth Tsang
-介紹他的朋友[蔡世豪](https://zh.wikipedia.org/wiki/蔡世豪 "wikilink")
-S.T--多媒體電子音樂人\[1\] 加入Modern
-Children，他為樂隊音樂加入[電子及](https://zh.wikipedia.org/wiki/電子 "wikilink")[小提琴元素](../Page/小提琴.md "wikilink")。五人一拍即合，第一代的Modern
-Children正式成立。因樂隊其中三人同為結他手，他們會在不同歌曲中分擔低音結他手的角色，所以會在現場演出中常互換位置，這也成為樂隊演出時的一大特色。
+2006年冬天，結他手Chih Leung 在網路討論區Hong Kong Band Forum中以「玩Indie Pop 音樂」為題招隊員組團。其兄Tony Leung、Kenneth Tsang及Jimmy Cheung先後加入，開始創作音樂。一個多月後，主音Kenneth Tsang 介紹他的朋友[蔡世豪](https://zh.wikipedia.org/wiki/蔡世豪 "wikilink") S.T--多媒體電子音樂人\[1\] 加入Modern Children，他為樂隊音樂加入[電子及](https://zh.wikipedia.org/wiki/電子 "wikilink")[小提琴](../Page/小提琴.md "wikilink")元素。五人一拍即合，第一代的Modern Children正式成立。因樂隊其中三人同為結他手，他們會在不同歌曲中分擔低音結他手的角色，所以會在現場演出中常互換位置，這也成為樂隊演出時的一大特色。
 
-2008年，Modern Children被Hong Kong
-Underground邀請表演，是次也是樂隊的第一次公開演出\[2\]。2009年，
-蔡世豪 (S.T) 推出了他的個人電子大碟 《Weird Mind》。為了能更專注他的個人發展，決定離開樂隊。樂隊成員變為四人陣容。
+2008年，Modern Children被Hong Kong Underground邀請表演，是次也是樂隊的第一次公開演出\[2\]。2009年， 蔡世豪 (S.T) 推出了他的個人電子大碟 《Weird Mind》。為了能更專注他的個人發展，決定離開樂隊。樂隊成員變為四人陣容。
 
 ### 第二代 (2010 – 2015)
 
-2010年1月，樂隊被邀請為[The
-Pancakes的](../Page/The_Pancakes.md "wikilink")《阿戟十週年聯歡音樂會》擔任樂手，同時認識了另一位樂手隆威。完成音樂會後，他決定加入Modern
-Children。隆威在樂隊中負責低音結他、二胡、小提琴、鍵琴等部分。同年9月，香港獨立樂隊False Alarm
-的[小提琴手Winnie](../Page/小提琴.md "wikilink") Lau 隨Modern
-Children到[日本](../Page/日本.md "wikilink")[小豆島的](../Page/小豆島.md "wikilink")《瀬戸內國際芸術祭》中作嘉賓表演。到2010年尾，她決定加入樂隊，並負責[小提琴及和唱等崗位](../Page/小提琴.md "wikilink")。2011年1月，樂隊為由袁智聰舉辦的《公園好聲》表演，是次也是首次以六人組合作第一次的演出。
+2010年1月，樂隊被邀請為[The Pancakes的](../Page/The_Pancakes.md "wikilink")《阿戟十週年聯歡音樂會》擔任樂手，同時認識了另一位樂手隆威。完成音樂會後，他決定加入Modern Children。隆威在樂隊中負責低音結他、二胡、小提琴、鍵琴等部分。同年9月，香港獨立樂隊False Alarm 的[小提琴](../Page/小提琴.md "wikilink")手Winnie Lau 隨Modern Children到[日本](../Page/日本.md "wikilink")[小豆島](../Page/小豆島.md "wikilink")的《瀬戸內國際芸術祭》中作嘉賓表演。到2010年尾，她決定加入樂隊，並負責[小提琴](../Page/小提琴.md "wikilink")及和唱等崗位。2011年1月，樂隊為由袁智聰舉辦的《公園好聲》表演，是次也是首次以六人組合作第一次的演出。
 
-2011年11月27日，樂隊以[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")
-App形式推出首張同名大碟，免費供聽眾們下載。\[3\] 12月17日，單曲《Mongolia》成為RTHK環球榜Hong Kong Top
-Ten第十位。直到2012年1月7日，成為環球榜第一位。
+2011年11月27日，樂隊以[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink") App形式推出首張同名大碟，免費供聽眾們下載。\[3\] 12月17日，單曲《Mongolia》成為RTHK環球榜Hong Kong Top Ten第十位。直到2012年1月7日，成為環球榜第一位。
 
-2012年1月14日，舉辦Come Come Come Sun 演歌會，同場更推出首張實體CD。同日，《Tree Of
-Life》在商台903豁達推介歌曲排行榜成為第五位。
+2012年1月14日，舉辦Come Come Come Sun 演歌會，同場更推出首張實體CD。同日，《Tree Of Life》在商台903豁達推介歌曲排行榜成為第五位。
 
 2015年12月，Winnie Lau 離開樂隊。
 
 ### (2016 – 現在)
 
-2016年1月，結他手Jimmy因病離世，樂隊其他成員收拾傷痛的心情，以一曲Jimmy親自填詞的遺作《Bittersweet
-Memories》悼念亡友。
+2016年1月，結他手Jimmy因病離世，樂隊其他成員收拾傷痛的心情，以一曲Jimmy親自填詞的遺作《Bittersweet Memories》悼念亡友。
 
 ## 海外表演經驗
 
@@ -220,15 +195,12 @@ Memories》悼念亡友。
 
   - [Modern Children官方網站](http://www.modernchildren.net)
   - [Modern Children Facebook](http://www.facebook.com/ModernChildren/)
-  - [Modern Children
-    Myspace](http://www.myspace.com/modernchildrenmusic)
+  - [Modern Children Myspace](http://www.myspace.com/modernchildrenmusic)
   - [Modern Children 豆瓣](http://site.douban.com/modernchildren/)
   - [Modern Children 微博](http://weibo.com/modernchildren)
 
 [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
 
 1.  [st-saiho.com](http://st-saiho.com)
-2.  [Live Review from
-    Underground 59](http://www.undergroundhk.com/v2/underground-bands/modern-children/)
-3.  [Modern Children iPhone
-    App](http://itunes.apple.com/hk/app/modern-children/id478677132?mt=8)
+2.  [Live Review from Underground 59](http://www.undergroundhk.com/v2/underground-bands/modern-children/)
+3.  [Modern Children iPhone App](http://itunes.apple.com/hk/app/modern-children/id478677132?mt=8)

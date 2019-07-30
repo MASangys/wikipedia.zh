@@ -1,4 +1,4 @@
-这是一个按[化学式和](../Page/化学式.md "wikilink")[化合物排序的](../Page/化合物.md "wikilink")[CAS号列表](../Page/CAS号.md "wikilink")。相关列表参见：[无机化合物列表](../Page/无机化合物列表.md "wikilink")、[有机化合物列表和](../Page/有机化合物列表.md "wikilink")[离子列表](../Page/离子列表.md "wikilink")。
+这是一个按[化学式](../Page/化学式.md "wikilink")和[化合物](../Page/化合物.md "wikilink")排序的[CAS号](../Page/CAS号.md "wikilink")列表。相关列表参见：[无机化合物列表](../Page/无机化合物列表.md "wikilink")、[有机化合物列表](../Page/有机化合物列表.md "wikilink")和[离子列表](../Page/离子列表.md "wikilink")。
 
 ## A
 
@@ -603,7 +603,7 @@
 | BaH<sub>2</sub>                                             | [氢化钡](../Page/氢化钡.md "wikilink")                                  | 13477-09-3  |
 | BaHgI<sub>4</sub>                                           | [四碘合汞酸钡](https://zh.wikipedia.org/wiki/四碘合汞酸钡 "wikilink")         | 10048-99-4  |
 | BaI<sub>2</sub>                                             | [碘化钡](../Page/碘化钡.md "wikilink")                                  | 13718-50-8  |
-| BaI<sub>2</sub>·2H<sub>2</sub>O                             | [碘化钡二水合物](../Page/碘化钡.md "wikilink")                              | 7787-33-9   |
+| BaI<sub>2</sub>·2H<sub>2</sub>O                             | [碘化钡](../Page/碘化钡.md "wikilink")二水合物                              | 7787-33-9   |
 | BaMnO<sub>4</sub>                                           | [锰酸钡](https://zh.wikipedia.org/wiki/锰酸钡 "wikilink")               | 7787-35-1   |
 | Ba(MnO<sub>4</sub>)<sub>2</sub>                             | [高锰酸钡](https://zh.wikipedia.org/wiki/高锰酸钡 "wikilink")             | 7787-36-2   |
 | BaMoO<sub>4</sub>                                           | [钼酸钡](../Page/钼酸钡.md "wikilink")                                  | 7787-37-3   |
@@ -649,13 +649,13 @@
 | BeH<sub>2</sub>                                             | [氢化铍](../Page/氢化铍.md "wikilink")                                  | 7787-52-2   |
 | BeI<sub>2</sub>                                             | [碘化铍](../Page/碘化铍.md "wikilink")                                  | 7787-53-3   |
 | Be(NO<sub>3</sub>)<sub>2</sub>                              | [硝酸铍](../Page/硝酸铍.md "wikilink")                                  | 13597-99-4  |
-| Be(NO<sub>3</sub>)<sub>2</sub>·4H<sub>2</sub>O              | [硝酸铍四水合物](../Page/硝酸铍.md "wikilink")                              | 13510-48-0  |
-| Be(NO<sub>3</sub>)<sub>2</sub>·3H<sub>2</sub>O              | [硝酸铍三水合物](../Page/硝酸铍.md "wikilink")                              | 7787-55-5   |
+| Be(NO<sub>3</sub>)<sub>2</sub>·4H<sub>2</sub>O              | [硝酸铍](../Page/硝酸铍.md "wikilink")四水合物                              | 13510-48-0  |
+| Be(NO<sub>3</sub>)<sub>2</sub>·3H<sub>2</sub>O              | [硝酸铍](../Page/硝酸铍.md "wikilink")三水合物                              | 7787-55-5   |
 | BeO                                                         | [氧化铍](../Page/氧化铍.md "wikilink")                                  | 1304-56-9   |
 | Be(OH)<sub>2</sub>                                          | [氫氧化鈹](../Page/氫氧化鈹.md "wikilink")                                | 13327-32-7  |
 | BeS                                                         | [硫化铍](../Page/硫化铍.md "wikilink")                                  | 13598-22-6  |
 | BeSO<sub>4</sub>                                            | [硫酸铍](../Page/硫酸铍.md "wikilink")                                  | 13510-49-1  |
-| BeSO<sub>4</sub>·4H<sub>2</sub>O                            | [硫酸铍四水合物](../Page/硫酸铍.md "wikilink")                              | 7787-56-6   |
+| BeSO<sub>4</sub>·4H<sub>2</sub>O                            | [硫酸铍](../Page/硫酸铍.md "wikilink")四水合物                              | 7787-56-6   |
 | BeSe                                                        | [硒化铍](https://zh.wikipedia.org/wiki/硒化铍 "wikilink")               | 12232-25-6  |
 | BeTe                                                        | [碲化铍](https://zh.wikipedia.org/wiki/碲化铍 "wikilink")               | 12232-27-8  |
 | Be<sub>2</sub>C                                             | [碳化铍](../Page/碳化铍.md "wikilink")                                  | 506-66-1    |
@@ -834,7 +834,7 @@
 | CoBr<sub>2</sub>                                                        | [溴化钴](../Page/溴化钴.md "wikilink")                                                                  | 7789-43-7                 |
 | Co(CN)<sub>2</sub>                                                      | [氰化钴](../Page/氰化钴.md "wikilink")                                                                  | 542-84-7                  |
 | Co(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>                 | [乙酸钴](../Page/乙酸钴.md "wikilink")                                                                  | 71-48-7                   |
-| Co(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>·4H<sub>2</sub>O | [乙酸钴四水合物](../Page/乙酸钴.md "wikilink")                                                              | 6147-53-1                 |
+| Co(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>·4H<sub>2</sub>O | [乙酸钴](../Page/乙酸钴.md "wikilink")四水合物                                                              | 6147-53-1                 |
 | CoC<sub>2</sub>O<sub>4</sub>                                            | [草酸钴](../Page/草酸钴.md "wikilink")                                                                  | 814-89-1                  |
 | Co(C<sub>11</sub>H<sub>10</sub>O<sub>2</sub>)<sub>2</sub>               | [环烷酸钴](https://zh.wikipedia.org/wiki/环烷酸钴 "wikilink")(II)                                         | 61789-51-3                |
 | Co(acac)<sub>2</sub>                                                    | [乙酰丙酮钴(II)](https://zh.wikipedia.org/wiki/乙酰丙酮钴\(II\) "wikilink")                                 |                           |
@@ -852,7 +852,7 @@
 | Co(IO<sub>3</sub>)<sub>2</sub>                                          | [碘酸钴](../Page/碘酸钴.md "wikilink")                                                                  | 13455-28-2                |
 | CoMoO<sub>4</sub>                                                       | [钼酸钴](https://zh.wikipedia.org/wiki/钼酸钴 "wikilink")                                               | 13762-14-6                |
 | Co(NO<sub>3</sub>)<sub>2</sub>                                          | [硝酸钴](../Page/硝酸钴.md "wikilink")                                                                  | 10141-05-6                |
-| Co(NO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O                          | [硝酸钴六水合物](../Page/硝酸钴.md "wikilink")                                                              | 10026-22-9                |
+| Co(NO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O                          | [硝酸钴](../Page/硝酸钴.md "wikilink")六水合物                                                              | 10026-22-9                |
 | Co(NO<sub>3</sub>)<sub>3</sub>                                          | [三硝酸钴](../Page/三硝酸钴.md "wikilink")                                                                | 15520-84-0                |
 | CoO                                                                     | [氧化亚钴](../Page/氧化亚钴.md "wikilink")                                                                | 1307-96-6                 |
 | Co(OH)<sub>2</sub>                                                      | [氢氧化钴](../Page/氢氧化钴.md "wikilink")                                                                | 21041-93-0                |
@@ -937,7 +937,7 @@
 | Cu(BO<sub>2</sub>)<sub>2</sub>                                          | [硼酸铜(II)](https://zh.wikipedia.org/wiki/硼酸铜\(II\) "wikilink")                                     | 393290-85-2               |
 | CuBr                                                                    | [溴化亚铜](../Page/溴化亚铜.md "wikilink")                                                                | 7787-70-4                 |
 | CuBr<sub>2</sub>                                                        | [溴化銅](../Page/溴化銅.md "wikilink")                                                                  | 7789-45-9                 |
-| Cu(CHO<sub>2</sub>)<sub>2</sub>·4H<sub>2</sub>O                         | [甲酸铜四水合物](../Page/甲酸铜.md "wikilink")                                                              | 544-19-4                  |
+| Cu(CHO<sub>2</sub>)<sub>2</sub>·4H<sub>2</sub>O                         | [甲酸铜](../Page/甲酸铜.md "wikilink")四水合物                                                              | 544-19-4                  |
 | CuCN                                                                    | [氰化亚铜](../Page/氰化亚铜.md "wikilink")                                                                | 544-92-3                  |
 | Cu(CN)<sub>2</sub>                                                      | [氰化铜](https://zh.wikipedia.org/wiki/氰化铜 "wikilink")                                               | 14763-77-0                |
 | CuC<sub>2</sub>                                                         | [乙炔铜](../Page/乙炔铜.md "wikilink")                                                                  | 1117-94-8                 |
@@ -949,7 +949,7 @@
 | CuCl                                                                    | [氯化亚铜](../Page/氯化亚铜.md "wikilink")                                                                | 7758-89-6                 |
 | Cu(ClO<sub>4</sub>)<sub>2</sub>                                         | [高氯酸铜](../Page/高氯酸铜.md "wikilink")                                                                | 13770-18-8                |
 | CuCl<sub>2</sub>                                                        | [氯化铜](../Page/氯化铜.md "wikilink")                                                                  | 7447-39-4                 |
-| CuCl<sub>2</sub>·2H<sub>2</sub>O                                        | [氯化铜二水合物](../Page/氯化铜.md "wikilink")                                                              | 10125-13-0                |
+| CuCl<sub>2</sub>·2H<sub>2</sub>O                                        | [氯化铜](../Page/氯化铜.md "wikilink")二水合物                                                              | 10125-13-0                |
 | CuCrO<sub>4</sub>                                                       | [铬酸铜](../Page/铬酸铜.md "wikilink")                                                                  | 13548-42-0                |
 | CuF                                                                     | [氟化铜](../Page/氟化铜.md "wikilink")                                                                  | 13478-41-6                |
 | CuF<sub>2</sub>                                                         | [氟化铜](../Page/氟化铜.md "wikilink")                                                                  | 7789-19-7                 |
@@ -997,11 +997,11 @@
 | Dy<sub>2</sub>O<sub>3</sub>                                 | [氧化镝](../Page/氧化镝.md "wikilink")                              | 1308-87-8  |
 | Dy<sub>2</sub>S<sub>3</sub>                                 | [硫化镝](https://zh.wikipedia.org/wiki/硫化镝 "wikilink")           | 12133-10-7 |
 | Dy<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>                  | [硫酸镝](../Page/硫酸镝.md "wikilink")                              | 14373-91-2 |
-| Dy<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>·8H<sub>2</sub>O  | [硫酸镝八水合物](../Page/硫酸镝.md "wikilink")                          | 10031-50-2 |
+| Dy<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>·8H<sub>2</sub>O  | [硫酸镝](../Page/硫酸镝.md "wikilink")八水合物                          | 10031-50-2 |
 | Dy<sub>2</sub>(SeO<sub>4</sub>)<sub>3</sub>                 | [硒酸镝](../Page/硒酸镝.md "wikilink")                              | 20148-58-7 |
-| Dy<sub>2</sub>(SeO<sub>4</sub>)<sub>3</sub>·8H<sub>2</sub>O | [硒酸镝八水合物](../Page/硒酸镝.md "wikilink")                          | 13476-03-4 |
+| Dy<sub>2</sub>(SeO<sub>4</sub>)<sub>3</sub>·8H<sub>2</sub>O | [硒酸镝](../Page/硒酸镝.md "wikilink")八水合物                          | 13476-03-4 |
 | Dy(NO<sub>3</sub>)<sub>3</sub>                              | [硝酸镝](../Page/硝酸镝.md "wikilink")                              | 10143-38-1 |
-| Dy(NO<sub>3</sub>)<sub>3</sub>·6H<sub>2</sub>O              | [硝酸镝六水合物](../Page/硝酸镝.md "wikilink")                          | 35725-30-5 |
+| Dy(NO<sub>3</sub>)<sub>3</sub>·6H<sub>2</sub>O              | [硝酸镝](../Page/硝酸镝.md "wikilink")六水合物                          | 35725-30-5 |
 |                                                             |                                                               |            |
 
 ## E
@@ -1012,7 +1012,7 @@
 | ErBr<sub>3</sub>                           | [溴化铒](https://zh.wikipedia.org/wiki/溴化铒 "wikilink")           | 13536-73-7 |
 | Er(CHO<sub>2</sub>)<sub>3</sub>            | [甲酸铒](https://zh.wikipedia.org/wiki/甲酸铒 "wikilink")           | 15331-72-3 |
 | ErCl<sub>3</sub>                           | [氯化铒](../Page/氯化铒.md "wikilink")                              | 10138-41-7 |
-| ErCl<sub>3</sub>·6H<sub>2</sub>O           | [氯化铒六水合物](../Page/氯化铒.md "wikilink")                          | 10025-75-9 |
+| ErCl<sub>3</sub>·6H<sub>2</sub>O           | [氯化铒](../Page/氯化铒.md "wikilink")六水合物                          | 10025-75-9 |
 | ErF<sub>3</sub>                            | [氟化铒](../Page/氟化铒.md "wikilink")                              | 13760-83-3 |
 | ErH<sub>3</sub>                            | [三氢化铒](https://zh.wikipedia.org/wiki/三氢化铒 "wikilink")         | 13550-53-3 |
 | ErI<sub>3</sub>                            | [碘化铒](../Page/碘化铒.md "wikilink")                              | 13813-42-8 |
@@ -1121,12 +1121,12 @@
 </tr>
 <tr class="even">
 <td><p>FeCl<sub>2</sub>·2H<sub>2</sub>O</p></td>
-<td><p><a href="../Page/氯化亚铁.md" title="wikilink">氯化亚铁二水合物</a></p></td>
+<td><p><a href="../Page/氯化亚铁.md" title="wikilink">氯化亚铁</a>二水合物</p></td>
 <td><p>16399-77-2</p></td>
 </tr>
 <tr class="odd">
 <td><p>FeCl<sub>2</sub>·4H<sub>2</sub>O</p></td>
-<td><p><a href="../Page/氯化亚铁.md" title="wikilink">氯化亚铁四水合物</a></p></td>
+<td><p><a href="../Page/氯化亚铁.md" title="wikilink">氯化亚铁</a>四水合物</p></td>
 <td><p>13478-10-9</p></td>
 </tr>
 <tr class="even">
@@ -1151,7 +1151,7 @@
 </tr>
 <tr class="even">
 <td><p>FeF<sub>2</sub>·4H<sub>2</sub>O</p></td>
-<td><p><a href="../Page/氟化亚铁.md" title="wikilink">氟化亚铁四水合物</a></p></td>
+<td><p><a href="../Page/氟化亚铁.md" title="wikilink">氟化亚铁</a>四水合物</p></td>
 <td><p>13940-89-1</p></td>
 </tr>
 <tr class="odd">
@@ -1161,7 +1161,7 @@
 </tr>
 <tr class="even">
 <td><p>FeF<sub>3</sub>·3H<sub>2</sub>O</p></td>
-<td><p><a href="../Page/氟化铁.md" title="wikilink">氟化铁三水合物</a></p></td>
+<td><p><a href="../Page/氟化铁.md" title="wikilink">氟化铁</a>三水合物</p></td>
 <td><p>15469-38-2</p></td>
 </tr>
 <tr class="odd">
@@ -1575,8 +1575,8 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | La(CHO<sub>2</sub>)<sub>3</sub>                       | [甲酸镧](https://zh.wikipedia.org/wiki/甲酸镧 "wikilink")     | 2081-11-0  |
 | LaC<sub>2</sub>                                       | [碳化镧](https://zh.wikipedia.org/wiki/碳化镧 "wikilink")     | 12071-15-7 |
 | LaCl<sub>3</sub>                                      | [氯化镧](../Page/氯化镧.md "wikilink")                        | 10099-58-8 |
-| LaCl<sub>3</sub>·3H<sub>2</sub>O                      | [氯化镧三水合物](../Page/氯化镧.md "wikilink")                    | 35564-84-2 |
-| LaCl<sub>3</sub>·7H<sub>2</sub>O                      | [氯化镧六水合物](../Page/氯化镧.md "wikilink")                    | 10025-84-0 |
+| LaCl<sub>3</sub>·3H<sub>2</sub>O                      | [氯化镧](../Page/氯化镧.md "wikilink")三水合物                    | 35564-84-2 |
+| LaCl<sub>3</sub>·7H<sub>2</sub>O                      | [氯化镧](../Page/氯化镧.md "wikilink")六水合物                    | 10025-84-0 |
 | LaF<sub>3</sub>                                       | [氟化镧](../Page/氟化镧.md "wikilink")                        | 13709-38-1 |
 | LaH<sub>3</sub>                                       | [氢化镧](https://zh.wikipedia.org/wiki/氢化镧 "wikilink")     | 13864-01-2 |
 | LaI<sub>3</sub>                                       | [碘化镧](../Page/碘化镧.md "wikilink")                        | 13813-22-4 |
@@ -1596,12 +1596,12 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | LiCH<sub>3</sub>O                                     | [甲氧基锂](https://zh.wikipedia.org/wiki/甲氧基锂 "wikilink")   | 865-34-9   |
 | LiC<sub>7</sub>H<sub>5</sub>O<sub>2</sub>             | [苯甲酸锂](https://zh.wikipedia.org/wiki/苯甲酸锂 "wikilink")   | 553-54-8   |
 | LiCl                                                  | [氯化锂](../Page/氯化锂.md "wikilink")                        | 7447-41-8  |
-| LiCl·H<sub>2</sub>O                                   | [氯化锂一水合物](../Page/氯化锂.md "wikilink")                    | 16712-20-2 |
+| LiCl·H<sub>2</sub>O                                   | [氯化锂](../Page/氯化锂.md "wikilink")一水合物                    | 16712-20-2 |
 | LiClO<sub>4</sub>                                     | [高氯酸鋰](../Page/高氯酸鋰.md "wikilink")                      | 7791-03-9  |
 | LiF                                                   | [氟化锂](../Page/氟化锂.md "wikilink")                        | 7789-24-4  |
 | LiH                                                   | [氢化锂](../Page/氢化锂.md "wikilink")                        | 7580-67-8  |
 | LiI                                                   | [碘化锂](../Page/碘化锂.md "wikilink")                        | 10377-51-2 |
-| LiI·3H<sub>2</sub>O                                   | [碘化锂三水合物](../Page/碘化锂.md "wikilink")                    | 7790-22-9  |
+| LiI·3H<sub>2</sub>O                                   | [碘化锂](../Page/碘化锂.md "wikilink")三水合物                    | 7790-22-9  |
 | LiN(C<sub>3</sub>H<sub>7</sub>)<sub>2</sub>           | [二异丙基氨基锂](../Page/二异丙基氨基锂.md "wikilink")                | 4111-54-0  |
 | LiNH<sub>2</sub>                                      | [氨基锂](../Page/氨基锂.md "wikilink")                        | 7782-89-0  |
 | LiNO<sub>3</sub>                                      | [硝酸鋰](../Page/硝酸鋰.md "wikilink")                        | 7790-69-4  |
@@ -1650,7 +1650,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | 化学式                                                                               | 名称                                                        | CAS号       |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
 | MgBr<sub>2</sub>                                                                  | [溴化镁](../Page/溴化镁.md "wikilink")                          | 7789-48-2  |
-| MgBr<sub>2</sub>·6H<sub>2</sub>O                                                  | [溴化镁六水合物](../Page/溴化镁.md "wikilink")                      | 13446-53-2 |
+| MgBr<sub>2</sub>·6H<sub>2</sub>O                                                  | [溴化镁](../Page/溴化镁.md "wikilink")六水合物                      | 13446-53-2 |
 | MgCO<sub>3</sub>                                                                  | [碳酸镁](https://zh.wikipedia.org/wiki/碳酸镁 "wikilink")       | 546-93-0   |
 | Mg(C<sub>2</sub>H<sub>2</sub>O<sub>2</sub>)<sub>2</sub>H<sub>8</sub>O<sub>4</sub> | [琥珀酸镁四水合物](https://zh.wikipedia.org/wiki/琥珀酸镁 "wikilink") | 556-32-1   |
 | MgC<sub>3</sub>H<sub>9</sub>O<sub>6</sub>P                                        | 甘油磷酸镁                                                     | 927-20-8   |
@@ -1685,7 +1685,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | MnF<sub>3</sub>                                                                   | [三氟化錳](../Page/三氟化錳.md "wikilink")                        | 7783-53-1  |
 | MnF<sub>4</sub>                                                                   | [四氟化錳](../Page/四氟化錳.md "wikilink")                        | 15195-58-1 |
 | MnI<sub>2</sub>                                                                   | [溴化锰](../Page/溴化锰.md "wikilink")                          | 7790-33-2  |
-| MnI<sub>2</sub>·4H<sub>2</sub>O                                                   | [碘化锰四水合物](../Page/碘化锰.md "wikilink")                      | 98716-23-5 |
+| MnI<sub>2</sub>·4H<sub>2</sub>O                                                   | [碘化锰](../Page/碘化锰.md "wikilink")四水合物                      | 98716-23-5 |
 | Mn(NO<sub>3</sub>)<sub>2</sub>                                                    | [硝酸锰](../Page/硝酸锰.md "wikilink")                          | 10377-66-9 |
 | MnO                                                                               | [一氧化锰](../Page/一氧化锰.md "wikilink")                        | 1344-43-0  |
 | MnO<sub>2</sub>                                                                   | [二氧化锰](../Page/二氧化锰.md "wikilink")                        | 1313-13-9  |
@@ -2182,12 +2182,12 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 </tr>
 <tr class="odd">
 <td><p>Na<sub>2</sub>S·5H<sub>2</sub>O</p></td>
-<td><p><a href="../Page/硫化钠.md" title="wikilink">硫化钠五水合物</a></p></td>
+<td><p><a href="../Page/硫化钠.md" title="wikilink">硫化钠</a>五水合物</p></td>
 <td><p>1313-83-3</p></td>
 </tr>
 <tr class="even">
 <td><p>Na<sub>2</sub>S·9H<sub>2</sub>O</p></td>
-<td><p><a href="../Page/硫化钠.md" title="wikilink">硫化钠九水合物</a></p></td>
+<td><p><a href="../Page/硫化钠.md" title="wikilink">硫化钠</a>九水合物</p></td>
 <td><p>1313-84-4</p></td>
 </tr>
 <tr class="odd">
@@ -2562,7 +2562,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 </tr>
 <tr class="odd">
 <td><p>NiCl<sub>2</sub>·6H<sub>2</sub>O</p></td>
-<td><p><a href="../Page/氯化镍.md" title="wikilink">氯化镍六水合物</a></p></td>
+<td><p><a href="../Page/氯化镍.md" title="wikilink">氯化镍</a>六水合物</p></td>
 <td><p>7791-20-0</p></td>
 </tr>
 <tr class="even">
@@ -4024,17 +4024,11 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 
   - [PubChem Search](http://pubchem.ncbi.nlm.nih.gov/)
   - [CAS Chemical Search](http://www.caslab.com/Chemical-Search/)
-  - [Scorecard Pollution
-    Search](http://scorecard.org/chemical-profiles/)
+  - [Scorecard Pollution Search](http://scorecard.org/chemical-profiles/)
   - [Webelements](http://www.webelements.com/)
   - [Oxford University MSDS](http://physchem.ox.ac.uk/MSDS/)
-  - [ATSDR Toxic
-    Substances](http://www.atsdr.cdc.gov/toxprofiles/index.asp)
-  - [Chemical
-    List](https://web.archive.org/web/20100903142718/http://www.chemicallist.org/)
-  - [Common Chemistry - Most common substances from Chemical Abstracts
-    Service](http://www.commonchemistry.org/)
+  - [ATSDR Toxic Substances](http://www.atsdr.cdc.gov/toxprofiles/index.asp)
+  - [Chemical List](https://web.archive.org/web/20100903142718/http://www.chemicallist.org/)
+  - [Common Chemistry - Most common substances from Chemical Abstracts Service](http://www.commonchemistry.org/)
 
-[Category:化合物](https://zh.wikipedia.org/wiki/Category:化合物 "wikilink")
-[Category:化学列表](https://zh.wikipedia.org/wiki/Category:化学列表 "wikilink")
-[Category:化学式辞典](https://zh.wikipedia.org/wiki/Category:化学式辞典 "wikilink")
+[Category:化合物](https://zh.wikipedia.org/wiki/Category:化合物 "wikilink") [Category:化学列表](https://zh.wikipedia.org/wiki/Category:化学列表 "wikilink") [Category:化学式辞典](https://zh.wikipedia.org/wiki/Category:化学式辞典 "wikilink")

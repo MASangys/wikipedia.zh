@@ -1,7 +1,6 @@
-**FPSRussia**是一个在[YouTube上的视频栏目和](../Page/YouTube.md "wikilink")[美国](../Page/美国.md "wikilink")[网络名人](https://zh.wikipedia.org/wiki/网络名人 "wikilink")。本人名叫**凱爾·邁爾斯**（），他以一个俄罗斯式的昵称「迪米特里」（）在该视频栏目发布他的武器演示视频，，该栏目成为[YouTube第十六大订阅栏目](../Page/YouTube.md "wikilink")，直到2011年9月17日，已有2.5亿人次观看过他的视频。
+**FPSRussia**是一个在[YouTube](../Page/YouTube.md "wikilink")上的视频栏目和[美国](../Page/美国.md "wikilink")[网络名人](https://zh.wikipedia.org/wiki/网络名人 "wikilink")。本人名叫**凱爾·邁爾斯**（），他以一个俄罗斯式的昵称「迪米特里」（）在该视频栏目发布他的武器演示视频，，该栏目成为[YouTube](../Page/YouTube.md "wikilink")第十六大订阅栏目，直到2011年9月17日，已有2.5亿人次观看过他的视频。
 
-邁爾斯在2006年5月18日在youtube建立了名字为"klm5986"的頻道并于2009年7月3日上传他评论[決勝時刻4：現代戰爭的第一部游戏评论视频](../Page/決勝時刻4：現代戰爭.md "wikilink")。2010年3月19日建立了"FPSRussia"栏目。该栏目视频出名在于其以真实的武器——尤其是来自于[決勝時刻](https://zh.wikipedia.org/wiki/決勝時刻 "wikilink")——进行演示来“以真实武器戳穿游戏中的误解”，证明同一武器现实和游戏中的不同。\[1\]
-其之所以使用"FPSRussia" 作为栏目名称是源于其当汽车销售员时的俄罗斯老板。
+邁爾斯在2006年5月18日在youtube建立了名字为"klm5986"的頻道并于2009年7月3日上传他评论[決勝時刻4：現代戰爭](../Page/決勝時刻4：現代戰爭.md "wikilink")的第一部游戏评论视频。2010年3月19日建立了"FPSRussia"栏目。该栏目视频出名在于其以真实的武器——尤其是来自于[決勝時刻](https://zh.wikipedia.org/wiki/決勝時刻 "wikilink")——进行演示来“以真实武器戳穿游戏中的误解”，证明同一武器现实和游戏中的不同。\[1\] 其之所以使用"FPSRussia" 作为栏目名称是源于其当汽车销售员时的俄罗斯老板。
 
 由于其本身也有大量枪支和弹药，起初制作这些视频并没有太大投入。后来由于有枪支供应商愿意免费租借枪支和弹药，并以在其视频描述中加入该供应商的网址\[2\]作为交换，现在他能演示更为惊人和昂贵的枪械。其本人也在本辑视频提及过\[3\]。
 
@@ -25,8 +24,7 @@
 
   - [莫斯伯格500泵動式霰彈槍](../Page/莫斯伯格500泵動式霰彈槍.md "wikilink")
 
-  - [Ultimax
-    100轻机枪](https://zh.wikipedia.org/wiki/Ultimax_100轻机枪 "wikilink")
+  - [Ultimax 100轻机枪](https://zh.wikipedia.org/wiki/Ultimax_100轻机枪 "wikilink")
 
   - [.357沙鹰](https://zh.wikipedia.org/wiki/沙漠之鹰手枪 "wikilink")
 
@@ -45,9 +43,7 @@
 
   - [AR-15自動步槍](../Page/AR-15自動步槍.md "wikilink")（[5.56子弹演示](../Page/5.56×45mm_NATO.md "wikilink")）、[AK-47](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")（[7.62子弹演示](../Page/7.62×39mm.md "wikilink")）、[莫辛-納甘步槍](../Page/莫辛-納甘步槍.md "wikilink")（[7.62子弹演示](../Page/7.62×54mmR.md "wikilink")）、[雷明顿R700](../Page/雷明登700步槍.md "wikilink")（.270子弹演示）
 
-  - [儒格P94](../Page/儒格P系列手槍.md "wikilink")（9毫米手枪弹演示），柯尔特蟒蛇S\&W
-    .357马格南转轮手枪（.38和.357手枪弹演示），S\&W
-    .44马格南转轮手枪（.44手枪弹演示），3英寸口径猎枪
+  - [儒格P94](../Page/儒格P系列手槍.md "wikilink")（9毫米手枪弹演示），柯尔特蟒蛇S\&W .357马格南转轮手枪（.38和.357手枪弹演示），S\&W .44马格南转轮手枪（.44手枪弹演示），3英寸口径猎枪
 
   - [Kel-Tec SUB-2000卡賓槍](../Page/Kel-Tec_SUB-2000卡賓槍.md "wikilink")
 
@@ -107,8 +103,7 @@
 
   - [PPSh-41衝鋒槍](https://zh.wikipedia.org/wiki/PPSh-41衝鋒槍 "wikilink")
 
-  - [MK
-    .46机枪](https://zh.wikipedia.org/wiki/M249班用自動武器#Mk_46_Mod_0 "wikilink")
+  - [MK .46机枪](https://zh.wikipedia.org/wiki/M249班用自動武器#Mk_46_Mod_0 "wikilink")
 
   - [M134迷你炮](../Page/M134迷你砲機槍.md "wikilink")
 
@@ -118,8 +113,7 @@
 
   - Dragon M-50 .50 机关枪
 
-  - M26[电击枪](https://zh.wikipedia.org/wiki/电击枪 "wikilink")（英語：M26
-    [taser](../Page/泰瑟.md "wikilink")）
+  - M26[电击枪](https://zh.wikipedia.org/wiki/电击枪 "wikilink")（英語：M26 [taser](../Page/泰瑟.md "wikilink")）
 
   - [雷明顿700战术型](../Page/雷明登700步槍.md "wikilink")
 

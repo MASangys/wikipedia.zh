@@ -1,11 +1,8 @@
-《**The Last
-Guy**》為[索尼电脑娱乐日本所開發的行列式迷宮遊戲](https://zh.wikipedia.org/wiki/新力電腦娛樂 "wikilink")。由[索尼电脑娱乐發行](https://zh.wikipedia.org/wiki/新力電腦娛樂 "wikilink")。於2008年7月31日透過PlayStation
-Store發售下載，獨佔於[PlayStation 3平台上](../Page/PlayStation_3.md "wikilink")。
+《**The Last Guy**》為[索尼电脑娱乐日本所開發的行列式迷宮遊戲](https://zh.wikipedia.org/wiki/新力電腦娛樂 "wikilink")。由[索尼电脑娱乐發行](https://zh.wikipedia.org/wiki/新力電腦娛樂 "wikilink")。於2008年7月31日透過PlayStation Store發售下載，獨佔於[PlayStation 3平台上](../Page/PlayStation_3.md "wikilink")。
 
 ## 概要
 
-《The Last Guy》遊戲類型為行列式迷宮，是一款運用[Google
-Earth精細衛星照片所創造的擬真都市](https://zh.wikipedia.org/wiki/Google_Earth "wikilink")，聚集倖存的人類，並引導到安全的場地。
+《The Last Guy》遊戲類型為行列式迷宮，是一款運用[Google Earth精細衛星照片所創造的擬真都市](https://zh.wikipedia.org/wiki/Google_Earth "wikilink")，聚集倖存的人類，並引導到安全的場地。
 
 ## 登場場景
 
@@ -63,8 +60,7 @@ Earth精細衛星照片所創造的擬真都市](https://zh.wikipedia.org/wiki/G
 
 ## 發行版本
 
-2008年7月31日，透過PlayStation
-Store下載版，2009年5月28日發行[藍光光碟](../Page/藍光光碟.md "wikilink")版。
+2008年7月31日，透過PlayStation Store下載版，2009年5月28日發行[藍光光碟](../Page/藍光光碟.md "wikilink")版。
 
 ## 评价
 
@@ -74,13 +70,8 @@ Store下載版，2009年5月28日發行[藍光光碟](../Page/藍光光碟.md "w
 
 ## 外部連結
 
-  - [《The Last
-    Guy》日文官方網站](http://www.jp.playstation.com/scej/title/lastguy/)
+  - [《The Last Guy》日文官方網站](http://www.jp.playstation.com/scej/title/lastguy/)
 
-[Category:索尼互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂遊戲 "wikilink")
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:PlayStation_3独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3独占游戏 "wikilink")
-[Category:丧尸游戏](https://zh.wikipedia.org/wiki/Category:丧尸游戏 "wikilink")
-[Category:迷宮遊戲](https://zh.wikipedia.org/wiki/Category:迷宮遊戲 "wikilink")
+[Category:索尼互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂遊戲 "wikilink") [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:PlayStation_3独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3独占游戏 "wikilink") [Category:丧尸游戏](https://zh.wikipedia.org/wiki/Category:丧尸游戏 "wikilink") [Category:迷宮遊戲](https://zh.wikipedia.org/wiki/Category:迷宮遊戲 "wikilink")
 
 1.

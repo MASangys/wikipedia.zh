@@ -10,10 +10,7 @@
 
 ### [电影](../Page/电影.md "wikilink")
 
-  - 2013年—《[辣手警花](https://zh.wikipedia.org/wiki/辣手警花 "wikilink")》（The
-    Heat）：為香農·穆林斯（Shannon
-    Mullins，[梅利莎·麥卡錫飾演](https://zh.wikipedia.org/wiki/梅利莎·麥卡錫 "wikilink")）擁有，被莎拉·雅許朋（Sarah
-    Ashburn，[珊卓·布拉克](../Page/珊卓·布拉克.md "wikilink")飾演）所使用。
+  - 2013年—《[辣手警花](https://zh.wikipedia.org/wiki/辣手警花 "wikilink")》（The Heat）：為香農·穆林斯（Shannon Mullins，[梅利莎·麥卡錫飾演](https://zh.wikipedia.org/wiki/梅利莎·麥卡錫 "wikilink")）擁有，被莎拉·雅許朋（Sarah Ashburn，[珊卓·布拉克](../Page/珊卓·布拉克.md "wikilink")飾演）所使用。
 
 ## 參見
 
@@ -28,23 +25,16 @@
 
 <references />
 
-  - —[Ian's AMT Information
-    site](https://web.archive.org/web/20090615173649/http://www.glossover.co.uk/amt/AutoMagIII/)
+  - —[Ian's AMT Information site](https://web.archive.org/web/20090615173649/http://www.glossover.co.uk/amt/AutoMagIII/)
 
 </div>
 
 ## 外部連結
 
-  - —[Owner's
-    Manual](https://web.archive.org/web/20100921133707/http://glossover.co.uk/amt/pdf/AutoMagIII.pdf)
+  - —[Owner's Manual](https://web.archive.org/web/20100921133707/http://glossover.co.uk/amt/pdf/AutoMagIII.pdf)
 
-  - —[Modern Firearms—AMT Automag II III IV and V
-    pistols](http://world.guns.ru/handguns/hg/usa/amt-automag-ii-v-e.html)
+  - —[Modern Firearms—AMT Automag II III IV and V pistols](http://world.guns.ru/handguns/hg/usa/amt-automag-ii-v-e.html)
 
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink")
-[Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink")
-[Category:半自動馬格南手槍](https://zh.wikipedia.org/wiki/Category:半自動馬格南手槍 "wikilink")
-[Category:9毫米Winchester_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:9毫米Winchester_Magnum口徑槍械 "wikilink")
-[Category:.30_Carbine口徑槍械](https://zh.wikipedia.org/wiki/Category:.30_Carbine口徑槍械 "wikilink")
+[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink") [Category:半自動馬格南手槍](https://zh.wikipedia.org/wiki/Category:半自動馬格南手槍 "wikilink") [Category:9毫米Winchester_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:9毫米Winchester_Magnum口徑槍械 "wikilink") [Category:.30_Carbine口徑槍械](https://zh.wikipedia.org/wiki/Category:.30_Carbine口徑槍械 "wikilink")
 
 1.

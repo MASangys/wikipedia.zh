@@ -51,8 +51,8 @@
 <li><a href="../Page/三羧酸循环.md" title="wikilink">三羧酸循环</a></li>
 <li><a href="../Page/磷酸戊糖途径.md" title="wikilink">磷酸戊糖途径</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/尿素循环" title="wikilink">尿素循环</a></li>
-<li><a href="../Page/嘧啶.md" title="wikilink">嘧啶合成</a></li>
-<li><a href="../Page/嘌呤.md" title="wikilink">嘌呤合成</a></li>
+<li><a href="../Page/嘧啶.md" title="wikilink">嘧啶</a>合成</li>
+<li><a href="../Page/嘌呤.md" title="wikilink">嘌呤</a>合成</li>
 </ul></td>
 <td><ul>
 <li><a href="../Page/葡萄糖.md" title="wikilink">葡萄糖</a></li>

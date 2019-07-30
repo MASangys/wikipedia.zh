@@ -1,11 +1,10 @@
-**AKB48劇場公演**是[AKB48在](../Page/AKB48.md "wikilink")[AKB48劇場等專屬活動據點進行的](../Page/AKB48劇場.md "wikilink")[現場音樂活動](https://zh.wikipedia.org/wiki/音樂會 "wikilink")，也是AKB48最重要的演藝工作。
+**AKB48劇場公演**是[AKB48](../Page/AKB48.md "wikilink")在[AKB48劇場](../Page/AKB48劇場.md "wikilink")等專屬活動據點進行的[現場音樂活動](https://zh.wikipedia.org/wiki/音樂會 "wikilink")，也是AKB48最重要的演藝工作。
 
 ## 概要
 
-AKB48自結成時便在專屬的表演場地「[AKB48劇場](../Page/AKB48劇場.md "wikilink")」，由成員輪流進行公演。由於有固定的舉行時間與曲目，呈現性質與一般的定期公演或相似，因而不稱「演唱會」而稱為「公演」。其內容由AKB48的原創歌曲組成，作詞均由總製作人[秋元康負責](../Page/秋元康.md "wikilink")；如同現今的[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，公演歌曲演唱時常以[舞蹈](../Page/舞蹈.md "wikilink")、小[短劇等方式來呈現](https://zh.wikipedia.org/wiki/短劇 "wikilink")，而在公演中也會穿插成員們說話聊天用以串場的「[MC](../Page/MC.md "wikilink")」時間。
+AKB48自結成時便在專屬的表演場地「[AKB48劇場](../Page/AKB48劇場.md "wikilink")」，由成員輪流進行公演。由於有固定的舉行時間與曲目，呈現性質與一般的定期公演或相似，因而不稱「演唱會」而稱為「公演」。其內容由AKB48的原創歌曲組成，作詞均由總製作人[秋元康](../Page/秋元康.md "wikilink")負責；如同現今的[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，公演歌曲演唱時常以[舞蹈](../Page/舞蹈.md "wikilink")、小[短劇等方式來呈現](https://zh.wikipedia.org/wiki/短劇 "wikilink")，而在公演中也會穿插成員們說話聊天用以串場的「[MC](../Page/MC.md "wikilink")」時間。
 
-劇場公演原則上以Team為單位作演出；但是從2007年7月1日到2008年4月19日進行的向日葵組公演，則由Team A和Team
-K成員混合進行。另外，2009年6月4日－10月23日在GRosso劇場進行的公演，由全體成員進行演出。此外，在2011年4月3日以前，曾舉行以研究生為主的公演，研究生公演的演出曲目和服裝都是借用正式成員的。現在亦會有研究生佔表演成員大半的情況出現。
+劇場公演原則上以Team為單位作演出；但是從2007年7月1日到2008年4月19日進行的向日葵組公演，則由Team A和Team K成員混合進行。另外，2009年6月4日－10月23日在GRosso劇場進行的公演，由全體成員進行演出。此外，在2011年4月3日以前，曾舉行以研究生為主的公演，研究生公演的演出曲目和服裝都是借用正式成員的。現在亦會有研究生佔表演成員大半的情況出現。
 
 在AKB48劇場的公演，截至2011年11月23日，總共舉行了2454次公演，動員人數約61萬人\[1\]。總公演次數在2013年5月6日的晚間公演達到了3,000次\[2\]。
 
@@ -89,8 +88,7 @@ K成員混合進行。另外，2009年6月4日－10月23日在GRosso劇場進行
 
   - 2012年組閣体制（大島Team K）
       - [Waiting公演](https://zh.wikipedia.org/wiki/AKB48「Waiting」公演#Team_K_「Waiting」公演 "wikilink")：2012年11月1日－2014年2月12日（95公演）。
-      - Waiting公演2:
-        [最終鐘聲鳴響](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最终钟声鸣响」 "wikilink")：2014年2月20日－2014年4月16日
+      - Waiting公演2: [最終鐘聲鳴響](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最终钟声鸣响」 "wikilink")：2014年2月20日－2014年4月16日
     <!-- end list -->
       -
         截至2014年3月31日，實施8公演。
@@ -208,8 +206,7 @@ K成員混合進行。另外，2009年6月4日－10月23日在GRosso劇場進行
 
 1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#AKB48_Team_8_1st_Stage「PARTY開始了」公演 "wikilink")：2014年8月5日－2015年8月16日（109公演）\[20\]
       - 再演：2018年2月17日 - 11月3日
-2.  [想見妳](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想见你」#AKB48_Team_8_2nd_Stage「想见你」公演 "wikilink")：2015年9月5日\[21\]
-    - 2017年8月20日
+2.  [想見妳](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想见你」#AKB48_Team_8_2nd_Stage「想见你」公演 "wikilink")：2015年9月5日\[21\] - 2017年8月20日
       - 再演：2018年2月12日 - 11月4日
 3.  Top Reed制作“你是否也为8而哭泣”：2017年9月2日 - 2018年1月8日
 4.  汤浅顺司制作“这汗水、是与未来相接的彩虹”：2018年11月22日 -
@@ -221,17 +218,12 @@ K成員混合進行。另外，2009年6月4日－10月23日在GRosso劇場進行
 
 ### 研究生、Team 研究生
 
-1.  研究生公演
-    [正在戀愛中](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在恋爱中」#AKB48_研究生公演「正在恋爱中」 "wikilink")（A4th）：2008年5月22日－10月7日（41公演）
-2.  Team 研究生公演
-    [偶像的黎明](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")（B4th）：2009年3月6日－2010年4月12日（121公演）
-3.  Team 研究生公演
-    [恋愛禁止条例](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「恋愛禁止条例」#AKB48_team研究生_「恋愛禁止条例」公演 "wikilink")（A5th）：2010年4月17日－6月18日（30公演）
-4.  Team 研究生公演
-    [劇場女神](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")（B5th）：2010年6月20日－2011年4月3日（151公演）
+1.  研究生公演 [正在戀愛中](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在恋爱中」#AKB48_研究生公演「正在恋爱中」 "wikilink")（A4th）：2008年5月22日－10月7日（41公演）
+2.  Team 研究生公演 [偶像的黎明](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")（B4th）：2009年3月6日－2010年4月12日（121公演）
+3.  Team 研究生公演 [恋愛禁止条例](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「恋愛禁止条例」#AKB48_team研究生_「恋愛禁止条例」公演 "wikilink")（A5th）：2010年4月17日－6月18日（30公演）
+4.  Team 研究生公演 [劇場女神](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")（B5th）：2010年6月20日－2011年4月3日（151公演）
 5.  [RESET](https://zh.wikipedia.org/wiki/Team_K_6th_Stage「RESET」#AKB48_研究生公演「RESET」 "wikilink")（K6th）：2012年3月29日－9月8日（56公演）
-6.  [我的太阳](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage「我的太阳」#AKB48_研究生公演「我的太阳」 "wikilink")（H1st/4
-    1st）：2012年8月19日－2013年3月17日（88公演）
+6.  [我的太阳](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage「我的太阳」#AKB48_研究生公演「我的太阳」 "wikilink")（H1st/4 1st）：2012年8月19日－2013年3月17日（88公演）
 7.  [睡衣兜風](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」 "wikilink")：2013年3月20日－
 
 <!-- end list -->
@@ -265,7 +257,7 @@ K成員混合進行。另外，2009年6月4日－10月23日在GRosso劇場進行
 
 ### 演出曲目
 
-成員會在公演中以現場演唱模式表演原創歌曲，各Team組曲中的歌曲並不相同。每場公演耗時1小時40至50分鐘（包括[安可時間](../Page/安可.md "wikilink")），有時會因有成員過生日（生誕祭）等原因，延長公演時間。另外，慣例會在安可時表演當時新發售的單曲。
+成員會在公演中以現場演唱模式表演原創歌曲，各Team組曲中的歌曲並不相同。每場公演耗時1小時40至50分鐘（包括[安可](../Page/安可.md "wikilink")時間），有時會因有成員過生日（生誕祭）等原因，延長公演時間。另外，慣例會在安可時表演當時新發售的單曲。
 
 ### 公演模式
 
@@ -306,10 +298,8 @@ K成員混合進行。另外，2009年6月4日－10月23日在GRosso劇場進行
 
   - 「[PARTY開始了](https://zh.wikipedia.org/wiki/TeamA_1st_Stage「PARTY开始了」 "wikilink")」公演的《和你在一起的平安夜》的鋼琴演奏
   - 「[腦內天堂](https://zh.wikipedia.org/wiki/TeamK_3rd_Stage「脑内天堂」 "wikilink")」公演的《朋友啊》的樂隊演奏
-  - 「[偶像的黎明](https://zh.wikipedia.org/wiki/TeamB_4th_Stage「偶像的黎明」 "wikilink")」公演的《偶像的黎明》的Marching
-    band演奏
-  - 於第25張單曲《[GIVE ME
-    FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》發售時期，各Team公演中的樂隊演奏
+  - 「[偶像的黎明](https://zh.wikipedia.org/wiki/TeamB_4th_Stage「偶像的黎明」 "wikilink")」公演的《偶像的黎明》的Marching band演奏
+  - 於第25張單曲《[GIVE ME FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》發售時期，各Team公演中的樂隊演奏
 
 ### 生誕祭
 
@@ -327,8 +317,7 @@ K成員混合進行。另外，2009年6月4日－10月23日在GRosso劇場進行
 
 如果有成員因個人工作、健康不適等原因休演，就會由其他成員代演。
 
-代演中，可能須要一個人演出休演者全部的表演部份，亦可能會分別加入表演組曲與全體曲。
-研究生、各Team的內部成員以至於其他Team成員都會擔任代演。當由同Team的成員擔任代演時，該成員原本的位置有時會由其他人替上。
+代演中，可能須要一個人演出休演者全部的表演部份，亦可能會分別加入表演組曲與全體曲。 研究生、各Team的內部成員以至於其他Team成員都會擔任代演。當由同Team的成員擔任代演時，該成員原本的位置有時會由其他人替上。
 
 如果有個人表演部分的成員突然因身體不適缺席，公演中也有其他成員代演。如果趕不及安排代演，就不表演該部分。
 
@@ -349,39 +338,33 @@ K成員混合進行。另外，2009年6月4日－10月23日在GRosso劇場進行
 
 ## Theatre G-Rosso的通常公演
 
-2009年5月在[Tokyo Dome
-City内](https://zh.wikipedia.org/wiki/Tokyo_Dome_City "wikilink")不定期進行公演和握手會。不過，這不是專用劇場，而是與[超級戰隊系列的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")等共用。
+2009年5月在[Tokyo Dome City内](https://zh.wikipedia.org/wiki/Tokyo_Dome_City "wikilink")不定期進行公演和握手會。不過，這不是專用劇場，而是與[超級戰隊系列的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")等共用。
 
-  - Theatre G-Rosso公演
-    [不要讓夢想死去](https://zh.wikipedia.org/wiki/向日葵组_2nd_Stage「不要让梦想死去」#AKB48_in_剧场G-Rosso_「不要让梦想死去」公演 "wikilink")：2009年6月4日－10月23日（40公演）
+  - Theatre G-Rosso公演 [不要讓夢想死去](https://zh.wikipedia.org/wiki/向日葵组_2nd_Stage「不要让梦想死去」#AKB48_in_剧场G-Rosso_「不要让梦想死去」公演 "wikilink")：2009年6月4日－10月23日（40公演）
 
 ## 特別公演
 
 ### AKB48劇場的特別公演
 
-特別公演的曲目有別於以Team為單位作演出的通常公演。這些公演會在特別日子舉行，例如元旦公演（1月1日）和○周年記念特別公演（12月8日）等等；也有不定期為CD購入特典和有音樂合作的公司舉行的公演。在2012年3月11日，舉行了為2011年同日發生的[東日本大震災舉行了復興支援特別公演](../Page/東日本大震災.md "wikilink")\[24\]。
+特別公演的曲目有別於以Team為單位作演出的通常公演。這些公演會在特別日子舉行，例如元旦公演（1月1日）和○周年記念特別公演（12月8日）等等；也有不定期為CD購入特典和有音樂合作的公司舉行的公演。在2012年3月11日，舉行了為2011年同日發生的[東日本大震災](../Page/東日本大震災.md "wikilink")舉行了復興支援特別公演\[24\]。
 
   - 名人考案特別公演
 
 <!-- end list -->
 
-  - [春風亭小朝](https://zh.wikipedia.org/wiki/春風亭小朝 "wikilink")「夏娃是亞當的肋骨」（2015年9月12日
-    - ） \[25\]\[26\]
+  - [春風亭小朝](https://zh.wikipedia.org/wiki/春風亭小朝 "wikilink")「夏娃是亞當的肋骨」（2015年9月12日 - ） \[25\]\[26\]
 
 <!-- end list -->
 
-  - [岩本輝雄](../Page/岩本輝雄.md "wikilink")「青春沒有結束」（2015年9月18日 - ）
-    \[27\]\[28\]\[29\]
+  - [岩本輝雄](../Page/岩本輝雄.md "wikilink")「青春沒有結束」（2015年9月18日 - ） \[27\]\[28\]\[29\]
 
 <!-- end list -->
 
-  - [田原總一朗](../Page/田原總一朗.md "wikilink")「ド〜なる?\!ド〜する?\!AKB48」（2015年10月16日
-    - ） \[30\]
+  - [田原總一朗](../Page/田原總一朗.md "wikilink")「ド〜なる?\!ド〜する?\!AKB48」（2015年10月16日 - ） \[30\]
 
 <!-- end list -->
 
-  - [田中將大](../Page/田中將大.md "wikilink")「我在這裡的理由」（2015年11月8日 -
-    2016年12月27日）﻿\[31\]\[32\]
+  - [田中將大](../Page/田中將大.md "wikilink")「我在這裡的理由」（2015年11月8日 - 2016年12月27日）﻿\[31\]\[32\]
 
 ### Theatre G-Rosso的特別公演
 
@@ -389,19 +372,15 @@ City内](https://zh.wikipedia.org/wiki/Tokyo_Dome_City "wikilink")不定期進�
 
 ### SUNSHINE STUDIO（現・SKE48劇場）的特別公演
 
-  - AKB48 in [SUNSHINE
-    STUDIO](../Page/SUNSHINE_SAKAE.md "wikilink")：2008年6月15日，選拔成員\[34\]
+  - AKB48 in [SUNSHINE STUDIO](../Page/SUNSHINE_SAKAE.md "wikilink")：2008年6月15日，選拔成員\[34\]
 
   - ：2008年9月13日，Team A和TeamK選拔成員\[35\]
 
 ### TOKYO DOME CITY HALL的特別公演
 
-  - [「獻給錯過的你們」～AKB48全體總動員公演～](../Page/「獻給錯過的你們」～AKB48全體總動員公演～.md "wikilink")（2011年5月24日
-    - 6月8日・10日 - 12日）
-  - [「獻給錯過的你們2」～AKB48全體總動員公演～](../Page/「獻給錯過的你們2」～AKB48全體總動員公演～.md "wikilink")（2012年5月3日
-    - 24日）
-  - [「獻給追憶的你們」～AKB48全體總動員公演～](../Page/「獻給追憶的你們」～AKB48全體總動員公演～.md "wikilink")（2013年5月2日
-    - 25日）
+  - [「獻給錯過的你們」～AKB48全體總動員公演～](../Page/「獻給錯過的你們」～AKB48全體總動員公演～.md "wikilink")（2011年5月24日 - 6月8日・10日 - 12日）
+  - [「獻給錯過的你們2」～AKB48全體總動員公演～](../Page/「獻給錯過的你們2」～AKB48全體總動員公演～.md "wikilink")（2012年5月3日 - 24日）
+  - [「獻給追憶的你們」～AKB48全體總動員公演～](../Page/「獻給追憶的你們」～AKB48全體總動員公演～.md "wikilink")（2013年5月2日 - 25日）
 
 ## 參考
 
@@ -411,8 +390,7 @@ City内](https://zh.wikipedia.org/wiki/Tokyo_Dome_City "wikilink")不定期進�
 
 [Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
 
-1.  当日的公演完結時候的数目。『bayfm meets AKB48 6th
-    Stage〜誰かのために〜』（[bayfm](https://zh.wikipedia.org/wiki/bayfm "wikilink")、2011年11月23日播放），DJ[門脇知子的發言](https://zh.wikipedia.org/wiki/門脇知子 "wikilink")。
+1.  当日的公演完結時候的数目。『bayfm meets AKB48 6th Stage〜誰かのために〜』（[bayfm](https://zh.wikipedia.org/wiki/bayfm "wikilink")、2011年11月23日播放），DJ[門脇知子的發言](https://zh.wikipedia.org/wiki/門脇知子 "wikilink")。
 
 2.
 
@@ -431,8 +409,7 @@ City内](https://zh.wikipedia.org/wiki/Tokyo_Dome_City "wikilink")不定期進�
 11.
 12. 名單的構成由各Team討論。
 
-13. [「新チーム体制発足」](http://ameblo.jp/akihabara48/entry-11373651917.html) -
-    AKB48オフィシャルブログ（2012年10月7日）
+13. [「新チーム体制発足」](http://ameblo.jp/akihabara48/entry-11373651917.html) - AKB48オフィシャルブログ（2012年10月7日）
 
 14.
 15.

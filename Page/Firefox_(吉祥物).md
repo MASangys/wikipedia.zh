@@ -1,6 +1,4 @@
-各国家或地区的[Mozilla社群為推廣](../Page/Mozilla.md "wikilink")[Mozilla
-Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，可能會自行設計[吉祥物做為Mozilla](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
-Firefox的象徵。
+各国家或地区的[Mozilla](../Page/Mozilla.md "wikilink")社群為推廣[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，可能會自行設計[吉祥物做為Mozilla](https://zh.wikipedia.org/wiki/吉祥物 "wikilink") Firefox的象徵。
 
 ## Alab
 
@@ -16,8 +14,7 @@ Firefox的象徵。
 
 ## Foxmosa
 
-**狐耳摩莎**（Foxmosa）是[Mozilla台灣社群所創作的吉祥物](https://zh.wikipedia.org/wiki/Mozilla台灣社群 "wikilink")\[3\]。2006年11月12日，於[Firefox
-2.0正式推出當天](https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史#Firefox_2.0 "wikilink")[誠品書店信義店舉辦的火狐大轟趴](../Page/誠品書店.md "wikilink")2.0活動中公開。最初這隻小狐狸繪者為網路插畫家「他踢的」，代號為「FoxTWET」\[4\]。
+**狐耳摩莎**（Foxmosa）是[Mozilla台灣社群所創作的吉祥物](https://zh.wikipedia.org/wiki/Mozilla台灣社群 "wikilink")\[3\]。2006年11月12日，於[Firefox 2.0正式推出當天](https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史#Firefox_2.0 "wikilink")[誠品書店](../Page/誠品書店.md "wikilink")信義店舉辦的火狐大轟趴2.0活動中公開。最初這隻小狐狸繪者為網路插畫家「他踢的」，代號為「FoxTWET」\[4\]。
 
 ## Kumi
 
@@ -30,8 +27,7 @@ Firefox的象徵。
 **英文**
 
   - [印尼吉祥物](https://web.archive.org/web/20130102091711/http://kumi.web.id/)
-  - [Foxkeh's Wallpaper Creator](http://wallpapers.foxkeh.com/en/)  -
-    可自訂個人化的Foxkeh桌布和面板
+  - [Foxkeh's Wallpaper Creator](http://wallpapers.foxkeh.com/en/)  - 可自訂個人化的Foxkeh桌布和面板
 
 **日文**
 
@@ -46,11 +42,9 @@ Firefox的象徵。
   - [台灣吉祥物](http://moztw.org/foxmosa/)
   - [抓火狐 狐耳摩莎推薦您使用 Firefox！](http://gfx.tw/foxmosa) MozTW社群Firefox下載介紹頁
 
-[Category:吉祥物](https://zh.wikipedia.org/wiki/Category:吉祥物 "wikilink")
-[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink")
+[Category:吉祥物](https://zh.wikipedia.org/wiki/Category:吉祥物 "wikilink") [Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink")
 
 1.  [G-Fox](http://g-fox.cn/fox.html)
 2.  [フォクすけ＊ブログ - FAQ](http://foxkeh.jp/faq/)
 3.  [Foxmosa 小莎](http://moztw.org/foxmosa/)
-4.  [Firefox 2 熱潮燒遍全球
-    台灣社群舉辦慶祝派對](http://mozlinks-zh.blogspot.com/2006/11/firefox-2.html)
+4.  [Firefox 2 熱潮燒遍全球 台灣社群舉辦慶祝派對](http://mozlinks-zh.blogspot.com/2006/11/firefox-2.html)

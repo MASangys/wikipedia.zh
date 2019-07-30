@@ -1,7 +1,4 @@
-**BlackBerry Tablet OS**是基于[QNX Neutrino](../Page/QNX.md "wikilink")
-[实时操作系统的新型操作系统](../Page/实时操作系统.md "wikilink")，据报道可以运行为[Google的](../Page/Google.md "wikilink")[Android系统开发的应用程序](../Page/Android.md "wikilink")。\[1\]
-\[2\] 第一款运行此系统的设备将是[BlackBerry
-PlayBook](../Page/BlackBerry_PlayBook.md "wikilink")[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink").\[3\]
+**BlackBerry Tablet OS**是基于[QNX Neutrino](../Page/QNX.md "wikilink") [实时操作系统](../Page/实时操作系统.md "wikilink")的新型操作系统，据报道可以运行为[Google](../Page/Google.md "wikilink")的[Android](../Page/Android.md "wikilink")系统开发的应用程序。\[1\] \[2\] 第一款运行此系统的设备将是[BlackBerry PlayBook](../Page/BlackBerry_PlayBook.md "wikilink")[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink").\[3\]
 
 微內核設計用於分佈式處理，与[整块性核心架构如Linux相比](../Page/整塊性核心.md "wikilink")，減少了散熱和能源使用。鎖定軟件任務到指定核心，由操作系統的單一副本控制，讓所有的資源動態分配并在應用程序之間共享。在應用程序的初始化时，由系統設計者決定的設定強制指定应用的所有线程僅运行在指定的核心，從而降低了處理器間通信開銷并保持總線整洁。\[4\]這種方法介于對稱多處理和非對稱多處理之間。
 
@@ -108,22 +105,13 @@ PlayBook](../Page/BlackBerry_PlayBook.md "wikilink")[平板电脑](https://zh.wi
 
 ## 外部链接
 
-  - [Official Announcement at QNX
-    site](http://www.qnx.com/company/announcements/blackberry_tablet_os.html)
+  - [Official Announcement at QNX site](http://www.qnx.com/company/announcements/blackberry_tablet_os.html)
 
-[Category:移动电话操作系统](https://zh.wikipedia.org/wiki/Category:移动电话操作系统 "wikilink")
-[Category:黑莓手機](https://zh.wikipedia.org/wiki/Category:黑莓手機 "wikilink")
-[Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink")
-[Category:实时操作系统](https://zh.wikipedia.org/wiki/Category:实时操作系统 "wikilink")
+[Category:移动电话操作系统](https://zh.wikipedia.org/wiki/Category:移动电话操作系统 "wikilink") [Category:黑莓手機](https://zh.wikipedia.org/wiki/Category:黑莓手機 "wikilink") [Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink") [Category:实时操作系统](https://zh.wikipedia.org/wiki/Category:实时操作系统 "wikilink")
 
-1.  <http://www.cnbeta.com/articles/133424.htm>
-    传黑莓平板Playbook将可运行Android应用
-2.  <http://www.bloomberg.com/news/2011-02-10/rim-is-said-to-plan-playbook-tablet-software-to-run-google-s-android-apps.html>
-    RIM Said to Plan PlayBook Software to Run Google Apps
-3.  [RIM Unveils The BlackBerry
-    PlayBook](http://www.marketwire.com/press-release/RIM-Unveils-The-BlackBerry-PlayBook-NASDAQ-RIMM-1325727.htm),
-    official press release, September 27, 2010
-4.  [Making the Most of Multi-Core Processors:
-    Part 1](http://www.eetimes.com/design/embedded/4006625/Making-the-Most-of-Multi-Core-Processors-Part-1)
+1.  <http://www.cnbeta.com/articles/133424.htm> 传黑莓平板Playbook将可运行Android应用
+2.  <http://www.bloomberg.com/news/2011-02-10/rim-is-said-to-plan-playbook-tablet-software-to-run-google-s-android-apps.html> RIM Said to Plan PlayBook Software to Run Google Apps
+3.  [RIM Unveils The BlackBerry PlayBook](http://www.marketwire.com/press-release/RIM-Unveils-The-BlackBerry-PlayBook-NASDAQ-RIMM-1325727.htm), official press release, September 27, 2010
+4.  [Making the Most of Multi-Core Processors: Part 1](http://www.eetimes.com/design/embedded/4006625/Making-the-Most-of-Multi-Core-Processors-Part-1)
 5.
 6.

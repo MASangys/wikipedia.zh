@@ -1,5 +1,4 @@
-《**progressive**》是[Kalafina](../Page/Kalafina.md "wikilink")的第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2009年10月28日由[SME
-Records發行](../Page/SME_Records.md "wikilink")。\[1\]
+《**progressive**》是[Kalafina](../Page/Kalafina.md "wikilink")的第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2009年10月28日由[SME Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
 ## 收錄曲
 

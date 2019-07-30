@@ -1,5 +1,4 @@
-**tvN水木連續劇**（），是逢[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")、[星期四韓國晚間在](https://zh.wikipedia.org/wiki/星期四 "wikilink")[tvN電視台播映的電視劇](https://zh.wikipedia.org/wiki/tvN "wikilink")。
-2017年7月起重新恢復此時段。\[1\] \[2\]
+**tvN水木連續劇**（），是逢[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")、[星期四韓國晚間在](https://zh.wikipedia.org/wiki/星期四 "wikilink")[tvN電視台播映的電視劇](https://zh.wikipedia.org/wiki/tvN "wikilink")。 2017年7月起重新恢復此時段。\[1\] \[2\]
 
 ## 播出時間
 
@@ -651,10 +650,7 @@
   - [SBS特別劇](../Page/SBS特別劇.md "wikilink")
   - [JTBC水木迷你連續劇](../Page/JTBC水木迷你連續劇.md "wikilink")
 
-[Category:tvN水木連續劇](https://zh.wikipedia.org/wiki/Category:tvN水木連續劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:tvN水木連續劇](https://zh.wikipedia.org/wiki/Category:tvN水木連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
 1.
 2.

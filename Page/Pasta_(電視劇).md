@@ -1,5 +1,4 @@
-《**-{zh-tw:料理絕配Pasta; zh-hk:意麵情迷;
-zh-cn:Pasta}-**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2010年1月4日起播放的[月火迷你連續劇](../Page/MBC月火連續劇.md "wikilink")。以義大利餐廳為背景，講述了以出色料理師為理想的女主角的愛情和成功故事。[孔曉振在劇中扮演活潑而勇往直前的廚房助理宥京](../Page/孔曉振.md "wikilink")，[李善均則飾演兼備外貌和實力的留學派一流料理師](../Page/李善均.md "wikilink")，他和宥京在各種衝突和爭吵中產生愛的火花。此外還有韓國小姐出身[李荷妮和歌手出身](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")[Alex出演](../Page/秋憲坤.md "wikilink")。
+《**-{zh-tw:料理絕配Pasta; zh-hk:意麵情迷; zh-cn:Pasta}-**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2010年1月4日起播放的[月火迷你連續劇](../Page/MBC月火連續劇.md "wikilink")。以義大利餐廳為背景，講述了以出色料理師為理想的女主角的愛情和成功故事。[孔曉振](../Page/孔曉振.md "wikilink")在劇中扮演活潑而勇往直前的廚房助理宥京，[李善均](../Page/李善均.md "wikilink")則飾演兼備外貌和實力的留學派一流料理師，他和宥京在各種衝突和爭吵中產生愛的火花。此外還有韓國小姐出身[李荷妮和歌手出身](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")[Alex出演](../Page/秋憲坤.md "wikilink")。
 
 ## 演員陣容
 
@@ -54,7 +53,7 @@ zh-cn:Pasta}-**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikili
 | [張　勇](../Page/張勇_\(演員\).md "wikilink")              | 徐宗具    | [譚炳文](../Page/譚炳文.md "wikilink")                      |
 | [金東熙](https://zh.wikipedia.org/wiki/金東熙 "wikilink") | 徐有植    | [張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")   |
 | [尹容賢](../Page/尹容賢.md "wikilink")                    | 光泰     | [古明華](../Page/古明華.md "wikilink")                      |
-| [崔珉成](../Page/崔珉.md "wikilink")                     | 四角     |                                                       |
+| [崔珉](../Page/崔珉.md "wikilink")成                     | 四角     |                                                       |
 
 ## 收視率
 
@@ -213,15 +212,7 @@ zh-cn:Pasta}-**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikili
   - [臺灣東森官方網站](http://tvshow.ebc.net.tw/U22010001/)
   - [香港無綫官方網站](http://programme.tvb.com/drama/pasta/)
 
-[Category:2010年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2010年韓國電視劇集 "wikilink")
-[Category:MBC月火連續劇](https://zh.wikipedia.org/wiki/Category:MBC月火連續劇 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:料理電視劇](https://zh.wikipedia.org/wiki/Category:料理電視劇 "wikilink")
-[Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink")
-[Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:廚師主角題材電視劇](https://zh.wikipedia.org/wiki/Category:廚師主角題材電視劇 "wikilink")
+[Category:2010年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2010年韓國電視劇集 "wikilink") [Category:MBC月火連續劇](https://zh.wikipedia.org/wiki/Category:MBC月火連續劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:料理電視劇](https://zh.wikipedia.org/wiki/Category:料理電視劇 "wikilink") [Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink") [Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:廚師主角題材電視劇](https://zh.wikipedia.org/wiki/Category:廚師主角題材電視劇 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

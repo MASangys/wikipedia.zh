@@ -1,6 +1,4 @@
-**鲍比·威尔逊**（），生于1980年2月27日，以其[艺名](https://zh.wikipedia.org/wiki/艺名 "wikilink")**鲍比·V**（Bobby
-V）知名，是[美国音乐人](../Page/美国.md "wikilink")。他的昵称“瓦伦蒂诺”（Valentino）是因为根据预产期推算，他应该在[情人节那天出生](../Page/情人节.md "wikilink")，\[1\]而在英国，由于卷入同一位名叫“鲍比·瓦伦蒂诺”的音乐家的官司，他被称为**鲍比·V-蒂诺**（Bobby
-V-Tino）。 \[2\]\[3\]
+**鲍比·威尔逊**（），生于1980年2月27日，以其[艺名](https://zh.wikipedia.org/wiki/艺名 "wikilink")**鲍比·V**（Bobby V）知名，是[美国](../Page/美国.md "wikilink")音乐人。他的昵称“瓦伦蒂诺”（Valentino）是因为根据预产期推算，他应该在[情人节](../Page/情人节.md "wikilink")那天出生，\[1\]而在英国，由于卷入同一位名叫“鲍比·瓦伦蒂诺”的音乐家的官司，他被称为**鲍比·V-蒂诺**（Bobby V-Tino）。 \[2\]\[3\]
 
 ## 音乐作品
 
@@ -18,9 +16,7 @@ V-Tino）。 \[2\]\[3\]
 <!-- end list -->
 
   -   - 2006年，最佳R\&B/灵魂乐单曲 - 男歌手：《Slow Down》 （提名）
-      - 2006, [Best R\&B/Soul or Rap New
-        Artist](https://zh.wikipedia.org/wiki/Soul_Train_Music_Award_for_Best_R&B/Soul_or_Rap_New_Artist "wikilink")
-        （提名）
+      - 2006, [Best R\&B/Soul or Rap New Artist](https://zh.wikipedia.org/wiki/Soul_Train_Music_Award_for_Best_R&B/Soul_or_Rap_New_Artist "wikilink") （提名）
 
 <!-- end list -->
 
@@ -39,14 +35,8 @@ V-Tino）。 \[2\]\[3\]
 
   - [官方网站](http://www.bobbyvmusic.com/)
 
-[Category:1980年出生](https://zh.wikipedia.org/wiki/Category:1980年出生 "wikilink")
-[Category:美国歌手](https://zh.wikipedia.org/wiki/Category:美国歌手 "wikilink")
+[Category:1980年出生](https://zh.wikipedia.org/wiki/Category:1980年出生 "wikilink") [Category:美国歌手](https://zh.wikipedia.org/wiki/Category:美国歌手 "wikilink")
 
-1.  [1](http://www.bobbyvalentino.com/biography/) *bobbyvalentino.com*.
-    Accessed September 14, 2008
-2.  [SOHH Soulful: Bobby Valentino Saves New LP For "Special
-    Occasion"](http://www.sohh.com/articles/article.php/10282)  Accessed
-    December 3, 2007
-3.  [Matters Musical - Bobby
-    Valentino](http://www.mattersmusical.com/dbdetails.php?AId=294)
-    Accessed December 3, 2007
+1.  [1](http://www.bobbyvalentino.com/biography/) *bobbyvalentino.com*. Accessed September 14, 2008
+2.  [SOHH Soulful: Bobby Valentino Saves New LP For "Special Occasion"](http://www.sohh.com/articles/article.php/10282)  Accessed December 3, 2007
+3.  [Matters Musical - Bobby Valentino](http://www.mattersmusical.com/dbdetails.php?AId=294)  Accessed December 3, 2007

@@ -2,8 +2,7 @@
 
 ## 富櫃五十指數
 
-**櫃買「富櫃五十指數」**（GreTai 50
-Index）是財團法人中華民國證券櫃檯買賣中心所編製，櫃買「富櫃五十指數」是以市值排序，並考量公眾流通量及流動性等條件，選出五十支上櫃股票以流通市值加權計算之股價指數，用以表彰櫃檯買賣股票市場之績效。指數在交易時間內即時計算，每十五秒發布一次。
+**櫃買「富櫃五十指數」**（GreTai 50 Index）是財團法人中華民國證券櫃檯買賣中心所編製，櫃買「富櫃五十指數」是以市值排序，並考量公眾流通量及流動性等條件，選出五十支上櫃股票以流通市值加權計算之股價指數，用以表彰櫃檯買賣股票市場之績效。指數在交易時間內即時計算，每十五秒發布一次。
 
 ## 課稅
 
@@ -35,7 +34,6 @@ Index）是財團法人中華民國證券櫃檯買賣中心所編製，櫃買「
   - [富櫃50指數成分股票](http://www.otc.org.tw/ch/stock/iNdex_info/gretai50/ingrid/r50cnstnt.php)
   - [寶來櫃買ETF傘型基金](https://web.archive.org/web/20110103023939/http://www.polarisfund.com.tw/folder/event64/index.htm)
 
-[Category:基金](https://zh.wikipedia.org/wiki/Category:基金 "wikilink")
-[Category:台灣股市](https://zh.wikipedia.org/wiki/Category:台灣股市 "wikilink")
+[Category:基金](https://zh.wikipedia.org/wiki/Category:基金 "wikilink") [Category:台灣股市](https://zh.wikipedia.org/wiki/Category:台灣股市 "wikilink")
 
 1.

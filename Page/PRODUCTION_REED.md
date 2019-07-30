@@ -1,30 +1,22 @@
-**Production REED**（，或**PRODUCTION REED
-CO.,LTD.**，）為主要從事[動畫企劃](https://zh.wikipedia.org/wiki/動畫 "wikilink")、制作及銷售的[日本企業公司](../Page/日本.md "wikilink")，是[日本動畫協會的正式會員](../Page/日本動畫協會.md "wikilink")。
+**Production REED**（，或**PRODUCTION REED CO.,LTD.**，）為主要從事[動畫企劃](https://zh.wikipedia.org/wiki/動畫 "wikilink")、制作及銷售的[日本](../Page/日本.md "wikilink")企業公司，是[日本動畫協會](../Page/日本動畫協會.md "wikilink")的正式會員。
 
 2007年11月1日起，從原本商號「葦Production（」之名稱轉變過來。採納「葦」的英文名稱**REED**，因而變成了「」。
 
 ## 簡介
 
-1975年，從事[龍之子Production的](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")[電視廣告](../Page/電視廣告.md "wikilink")（CM）制作和[版權業務的](https://zh.wikipedia.org/wiki/版權 "wikilink")[佐藤俊彥](https://zh.wikipedia.org/wiki/佐藤俊彥 "wikilink")、[加藤博受到當時新興的玩具公司](https://zh.wikipedia.org/wiki/加藤博 "wikilink")[TAKEMI](https://zh.wikipedia.org/wiki/TAKEMI "wikilink")（）的請求，獨立創立「葦Production（」。由於後起的公司要確保廣播時段是非常困難的，所以創業當初的3部作品迫不得已，才借[日本動畫公司的招牌才能成功播放](../Page/日本動畫公司.md "wikilink")。從《》至《[宇宙戰士](../Page/宇宙戰士.md "wikilink")》為止的4部作品則捨棄日本動畫公司，改與[國際映畫社共同制作](https://zh.wikipedia.org/wiki/國際映畫社 "wikilink")。直至《[戰國魔神豪將軍](../Page/戰國魔神豪將軍.md "wikilink")》才開始獨力制作。由原作為基礎開始著手規劃的作品較少，多數作品都是以原創企劃為始。
+1975年，從事[龍之子Production的](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")[電視廣告](../Page/電視廣告.md "wikilink")（CM）制作和[版權業務的](https://zh.wikipedia.org/wiki/版權 "wikilink")[佐藤俊彥](https://zh.wikipedia.org/wiki/佐藤俊彥 "wikilink")、[加藤博受到當時新興的玩具公司](https://zh.wikipedia.org/wiki/加藤博 "wikilink")[TAKEMI](https://zh.wikipedia.org/wiki/TAKEMI "wikilink")（）的請求，獨立創立「葦Production（」。由於後起的公司要確保廣播時段是非常困難的，所以創業當初的3部作品迫不得已，才借[日本動畫公司](../Page/日本動畫公司.md "wikilink")的招牌才能成功播放。從《》至《[宇宙戰士](../Page/宇宙戰士.md "wikilink")》為止的4部作品則捨棄日本動畫公司，改與[國際映畫社共同制作](https://zh.wikipedia.org/wiki/國際映畫社 "wikilink")。直至《[戰國魔神豪將軍](../Page/戰國魔神豪將軍.md "wikilink")》才開始獨力制作。由原作為基礎開始著手規劃的作品較少，多數作品都是以原創企劃為始。
 
-2001年11月，[資本額大幅度增加](https://zh.wikipedia.org/wiki/資本額 "wikilink")，但就成了[萬代集團](../Page/萬代.md "wikilink")（及後為[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")）旗下[子公司](../Page/子公司.md "wikilink")。不過，2005年末因再次削減資本額達1000萬日圓的關係，萬代集團決定全面撤資。2006年1月20日，與玩具企劃開發公司[WiZ](https://zh.wikipedia.org/wiki/:ja:ウィズ_\(玩具\) "wikilink")\[1\]
-進行業務合作，並且於同年8月被WiZ公司收購超過一半股權，而再次成為子公司。2007年11月，從原本商號「葦Production（」轉名至「Production
-REED」（），而且還出現人事變動：由佐藤俊彥出任[董事長的](../Page/董事長.md "wikilink")[董事會出現變動](https://zh.wikipedia.org/wiki/董事會 "wikilink")，由[本鄉武一擔任新任社長](https://zh.wikipedia.org/wiki/本鄉武一 "wikilink")。2009年5月20日，WiZ公司以未能受惠於玩具企劃、開發、專門製作的協同效應為由，將持有的該公司股份悉數放售予佐藤俊彥，該公司因此得以從WiZ公司撒離。\[2\]
+2001年11月，[資本額大幅度增加](https://zh.wikipedia.org/wiki/資本額 "wikilink")，但就成了[萬代](../Page/萬代.md "wikilink")集團（及後為[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")）旗下[子公司](../Page/子公司.md "wikilink")。不過，2005年末因再次削減資本額達1000萬日圓的關係，萬代集團決定全面撤資。2006年1月20日，與玩具企劃開發公司[WiZ](https://zh.wikipedia.org/wiki/:ja:ウィズ_\(玩具\) "wikilink")\[1\] 進行業務合作，並且於同年8月被WiZ公司收購超過一半股權，而再次成為子公司。2007年11月，從原本商號「葦Production（」轉名至「Production REED」（），而且還出現人事變動：由佐藤俊彥出任[董事長](../Page/董事長.md "wikilink")的[董事會出現變動](https://zh.wikipedia.org/wiki/董事會 "wikilink")，由[本鄉武一擔任新任社長](https://zh.wikipedia.org/wiki/本鄉武一 "wikilink")。2009年5月20日，WiZ公司以未能受惠於玩具企劃、開發、專門製作的協同效應為由，將持有的該公司股份悉數放售予佐藤俊彥，該公司因此得以從WiZ公司撒離。\[2\]
 
 以下為與此公司有關聯的工作室。
 
-  - \-
-    1982年由[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")[相原義彰為中心及若干年青職員一起創立](https://zh.wikipedia.org/wiki/相原義彰 "wikilink")。
+  - \- 1982年由[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")[相原義彰為中心及若干年青職員一起創立](https://zh.wikipedia.org/wiki/相原義彰 "wikilink")。
 
-  - [XEBEC](../Page/XEBEC.md "wikilink")（[Production
-    I.G.旗下](https://zh.wikipedia.org/wiki/Production_I.G. "wikilink")）-
-    製作人-{[下地志直](https://zh.wikipedia.org/wiki/下地志直 "wikilink")}-於1995年脫離後所創立。
+  - [XEBEC](../Page/XEBEC.md "wikilink")（[Production I.G.旗下](https://zh.wikipedia.org/wiki/Production_I.G. "wikilink")）- 製作人-{[下地志直](https://zh.wikipedia.org/wiki/下地志直 "wikilink")}-於1995年脫離後所創立。
 
-  - [Actas](../Page/Actas.md "wikilink") -
-    製作人[加藤博於](https://zh.wikipedia.org/wiki/加藤博 "wikilink")1998年脫離後而創立。
+  - [Actas](../Page/Actas.md "wikilink") - 製作人[加藤博於](https://zh.wikipedia.org/wiki/加藤博 "wikilink")1998年脫離後而創立。
 
-  - \-
-    製作人[石坂透於](https://zh.wikipedia.org/wiki/石坂透 "wikilink")2000年脫離後所創立。
+  - \- 製作人[石坂透於](https://zh.wikipedia.org/wiki/石坂透 "wikilink")2000年脫離後所創立。
 
 ## 作品
 
@@ -112,7 +104,7 @@ REED」（），而且還出現人事變動：由佐藤俊彥出任[董事長的
 <tr class="even">
 <td><p>8</p></td>
 <td><p><a href="../Page/超時空騎兵.md" title="wikilink">超時空騎兵</a></p></td>
-<td><p>三一無敵(香港，無線電視)</p></td>
+<td><p>-{三一無敵}-(香港，無線電視)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:ja:特装機兵ドルバック" title="wikilink">特装機兵ドルバック</a></p></td>
 <td><p>1983-1984</p></td>
 <td><p>制作</p></td>
@@ -516,7 +508,7 @@ REED」（），而且還出現人事變動：由佐藤俊彥出任[董事長的
 </tr>
 <tr class="even">
 <td><p>44</p></td>
-<td><p><a href="../Page/熱拳本色.md" title="wikilink">熱拳本色-日美決戰篇</a></p></td>
+<td><p><a href="../Page/熱拳本色.md" title="wikilink">熱拳本色</a>-日美決戰篇</p></td>
 <td><p>～</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:ja:リングにかけろ" title="wikilink">リングにかけろ1 -日米決戦編-</a></p></td>
 <td><p>2006</p></td>
@@ -544,7 +536,7 @@ REED」（），而且還出現人事變動：由佐藤俊彥出任[董事長的
 <tr class="odd">
 <td><p>49</p></td>
 <td><p><a href="../Page/黑執事.md" title="wikilink">黑執事</a><br />
-<a href="../Page/黑執事.md" title="wikilink">黑執事II</a></p></td>
+<a href="../Page/黑執事.md" title="wikilink">黑執事</a>II</p></td>
 <td><p>～</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:ja:黒執事" title="wikilink">黒執事</a><br />
 <a href="https://zh.wikipedia.org/wiki/:ja:黑執事" title="wikilink">黑執事II</a></p></td>
@@ -837,11 +829,7 @@ NG騎士ラムネ&amp;40 DX ワクワク時空 炎の大捜査戦<br />
   - [PRODUCTION REED 官方網頁](http://www.pro-reed.com/)
   - [TAKEMI 公司的網頁](http://www.tkm.ne.jp/)
 
-[Category:1975年成立的公司](https://zh.wikipedia.org/wiki/Category:1975年成立的公司 "wikilink")
-[Category:PRODUCTION_REED](https://zh.wikipedia.org/wiki/Category:PRODUCTION_REED "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
+[Category:1975年成立的公司](https://zh.wikipedia.org/wiki/Category:1975年成立的公司 "wikilink") [Category:PRODUCTION_REED](https://zh.wikipedia.org/wiki/Category:PRODUCTION_REED "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
 
 1.  [WiZ公司網頁的公司歷史](http://www.wizinc.co.jp/wiz_group/history.html)
-2.  [WiZ公司向佐藤俊彥的股份轉售文件](http://www.wizinc.co.jp/ir/files/210520purodakusyonnri-do.pdf)
-     - 2009年6月1日
+2.  [WiZ公司向佐藤俊彥的股份轉售文件](http://www.wizinc.co.jp/ir/files/210520purodakusyonnri-do.pdf)  - 2009年6月1日

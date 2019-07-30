@@ -1,5 +1,4 @@
-**室女座QS**（**QS Virginis**，縮寫**QS
-Vir**）是一個距離地球157光年的[食聯星系統](https://zh.wikipedia.org/wiki/聯星#食聯星 "wikilink")，並且是[激變變星](../Page/激變變星.md "wikilink")\[1\]。該聯星系統包含一個[白矮星和一個](../Page/白矮星.md "wikilink")[紅矮星](../Page/紅矮星.md "wikilink")，以3.37小時軌道週期互繞\[2\]。
+**室女座QS**（**QS Virginis**，縮寫**QS Vir**）是一個距離地球157光年的[食聯星系統](https://zh.wikipedia.org/wiki/聯星#食聯星 "wikilink")，並且是[激變變星](../Page/激變變星.md "wikilink")\[1\]。該聯星系統包含一個[白矮星](../Page/白矮星.md "wikilink")和一個[紅矮星](../Page/紅矮星.md "wikilink")，以3.37小時軌道週期互繞\[2\]。
 
 ## 可能的第三個天體
 
@@ -18,11 +17,7 @@ Vir**）是一個距離地球157光年的[食聯星系統](https://zh.wikipedia.
 
 ## 參考資料
 
-[Category:室女座](https://zh.wikipedia.org/wiki/Category:室女座 "wikilink")
-[Category:食雙星](https://zh.wikipedia.org/wiki/Category:食雙星 "wikilink")
-[Category:白矮星](https://zh.wikipedia.org/wiki/Category:白矮星 "wikilink")
-[Category:紅矮星](https://zh.wikipedia.org/wiki/Category:紅矮星 "wikilink")
-[Category:假想行星系](https://zh.wikipedia.org/wiki/Category:假想行星系 "wikilink")
+[Category:室女座](https://zh.wikipedia.org/wiki/Category:室女座 "wikilink") [Category:食雙星](https://zh.wikipedia.org/wiki/Category:食雙星 "wikilink") [Category:白矮星](https://zh.wikipedia.org/wiki/Category:白矮星 "wikilink") [Category:紅矮星](https://zh.wikipedia.org/wiki/Category:紅矮星 "wikilink") [Category:假想行星系](https://zh.wikipedia.org/wiki/Category:假想行星系 "wikilink")
 
 1.
 

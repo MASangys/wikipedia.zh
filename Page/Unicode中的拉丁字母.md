@@ -10,11 +10,8 @@
 | [Unicode 3.1](https://zh.wikipedia.org/wiki/Unicode#Standard "wikilink") |
 | [Unicode 3.2](https://zh.wikipedia.org/wiki/Unicode#Standard "wikilink") |
 
-  - **Basic Latin** 0000–007F: 與[ASCII](../Page/ASCII.md "wikilink")等同
-    (0000–001F, 007F 為控制字符，0020–003F 為標點符號和阿拉伯數字)
-  - **Latin-1 Supplement** 0080–00FF: 與[ISO/IEC
-    8859-1等同](https://zh.wikipedia.org/wiki/ISO/IEC_8859-1 "wikilink")
-    (0080–009F 為控制字符，00A0–00BF 為貨幣符號、標點和數字)
+  - **Basic Latin** 0000–007F: 與[ASCII](../Page/ASCII.md "wikilink")等同 (0000–001F, 007F 為控制字符，0020–003F 為標點符號和阿拉伯數字)
+  - **Latin-1 Supplement** 0080–00FF: 與[ISO/IEC 8859-1等同](https://zh.wikipedia.org/wiki/ISO/IEC_8859-1 "wikilink") (0080–009F 為控制字符，00A0–00BF 為貨幣符號、標點和數字)
   - **Latin Extended-A** 0100–017F
   - **Latin Extended-B** 0180–024F
   - **IPA Extensions** 0250–02AF
@@ -26,8 +23,7 @@
   - **Latin Extended-C** 2C60–2C7F
   - **Latin Extended-D** A720–A7FF
   - **Alphabetic Presentation Forms** (Latin ligatures) FB00–FB4F
-  - **Halfwidth and Fullwidth Forms** (fullwidth Latin letters)
-    FF00–FFEF
+  - **Halfwidth and Fullwidth Forms** (fullwidth Latin letters) FF00–FFEF
   - **Mathematical Alphanumeric Symbols** 1D400–1D7FF
 
 | U+    | 0                                                     | 1                                                     | 2                                               | 3                                               | 4                                               | 5                                               | 6                                               | 7                                               | 8                                               | 9                                               | A                                               | B                                               | C                                               | D                                               | E                                               | F                                               |
@@ -171,5 +167,4 @@
 
 {{-}}
 
-[Category:拉丁字母](https://zh.wikipedia.org/wiki/Category:拉丁字母 "wikilink")
-[Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
+[Category:拉丁字母](https://zh.wikipedia.org/wiki/Category:拉丁字母 "wikilink") [Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")

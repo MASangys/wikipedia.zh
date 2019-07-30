@@ -1,8 +1,4 @@
-**Sunny
-Hill**（[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：**써니힐**），[韓國五人男女音樂組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由一位男子成員與四位女子成員所組成。
-最初由章賢、勝兒、JuB组成的二女一男混聲组合，2010年加入Kota，2011年加入美成。 2007年的出道作品為單曲《Love
-Letter》，2011年初以演唱[最佳愛情OST](../Page/最佳愛情.md "wikilink")《扑通扑通》開始為人熟識，同年其後推出的主打歌《Midnight
-Circus》大受歡迎。 Sunny Hill的歌迷官方稱為「Hiller」。
+**Sunny Hill**（[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：**써니힐**），[韓國五人男女音樂組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由一位男子成員與四位女子成員所組成。 最初由章賢、勝兒、JuB组成的二女一男混聲组合，2010年加入Kota，2011年加入美成。 2007年的出道作品為單曲《Love Letter》，2011年初以演唱[最佳愛情](../Page/最佳愛情.md "wikilink")OST《扑通扑通》開始為人熟識，同年其後推出的主打歌《Midnight Circus》大受歡迎。 Sunny Hill的歌迷官方稱為「Hiller」。
 
 2017年，成員與公司的合約到期。
 
@@ -528,11 +524,4 @@ Circus》大受歡迎。 Sunny Hill的歌迷官方稱為「Hiller」。
 
   - [經紀公司](https://web.archive.org/web/20120504005354/http://www.iloen.com/)
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
-[Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
-[Category:FAVE娛樂](https://zh.wikipedia.org/wiki/Category:FAVE娛樂 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:FAVE娛樂](https://zh.wikipedia.org/wiki/Category:FAVE娛樂 "wikilink")

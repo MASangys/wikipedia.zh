@@ -9,11 +9,6 @@ HAT-P-13b的半径是[木星](../Page/木星.md "wikilink")的1.28倍，而质�
 
 ## 参考文献
 
-[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink")
-[Category:2009年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2009年发现的系外行星 "wikilink")
-[Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink")
-[Category:凌星行星](https://zh.wikipedia.org/wiki/Category:凌星行星 "wikilink")
-[Category:大熊座](https://zh.wikipedia.org/wiki/Category:大熊座 "wikilink")
+[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:2009年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2009年发现的系外行星 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink") [Category:凌星行星](https://zh.wikipedia.org/wiki/Category:凌星行星 "wikilink") [Category:大熊座](https://zh.wikipedia.org/wiki/Category:大熊座 "wikilink")
 
-1.  [HAT‐P‐6b: A Hot Jupiter Transiting a Bright F
-    Star](http://www.mendeley.com/research/hatp6b-a-hot-jupiter-transiting-a-bright-f-star)
+1.  [HAT‐P‐6b: A Hot Jupiter Transiting a Bright F Star](http://www.mendeley.com/research/hatp6b-a-hot-jupiter-transiting-a-bright-f-star)

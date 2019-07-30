@@ -1,9 +1,4 @@
-**Piko**（，）是日本的男性流行樂歌手。其聲域廣泛到足以安穩自信的唱出男性與女性的音域範圍，因此他是以「[兩聲類](https://zh.wikipedia.org/wiki/兩聲類 "wikilink")」的名稱為招牌特點的歌手。在[NICONICO動畫上發表自己的翻唱作品](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，以動漫和Janne
-Da Arc的歌曲為主，為大賣的音樂軟體[VOCALOID
-2](https://zh.wikipedia.org/wiki/VOCALOID_2 "wikilink")
-[歌手音ピコ](https://zh.wikipedia.org/wiki/歌手音ピコ "wikilink")
-提供原聲。所屬經紀公司為[Ki/oon Records
-Inc.](https://zh.wikipedia.org/wiki/Ki/oon_Records_Inc. "wikilink")。
+**Piko**（，）是日本的男性流行樂歌手。其聲域廣泛到足以安穩自信的唱出男性與女性的音域範圍，因此他是以「[兩聲類](https://zh.wikipedia.org/wiki/兩聲類 "wikilink")」的名稱為招牌特點的歌手。在[NICONICO動畫上發表自己的翻唱作品](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，以動漫和Janne Da Arc的歌曲為主，為大賣的音樂軟體[VOCALOID 2](https://zh.wikipedia.org/wiki/VOCALOID_2 "wikilink") [歌手音ピコ](https://zh.wikipedia.org/wiki/歌手音ピコ "wikilink") 提供原聲。所屬經紀公司為[Ki/oon Records Inc.](https://zh.wikipedia.org/wiki/Ki/oon_Records_Inc. "wikilink")。
 
 ## CD
 
@@ -318,16 +313,12 @@ KSCL-2621 【通常盤】<br />
 
 ## 外部
 
-  - [ピコ VOCALOID2 開発コードPiko
-    「歌手音ピコ」](http://www.kioon.com/vocaloid/piko/)
+  - [ピコ VOCALOID2 開発コードPiko 「歌手音ピコ」](http://www.kioon.com/vocaloid/piko/)
 
-  - [ピコ オフィシャルブログ 「⑨ピコ風呂」 Powered by
-    Ameba(官方部落格)](http://ameblo.jp/piko-blo/)
+  - [ピコ オフィシャルブログ 「⑨ピコ風呂」 Powered by Ameba(官方部落格)](http://ameblo.jp/piko-blo/)
 
   - [ピコ Official Web Site](http://www.piko-piko.jp/)
 
   -
 
-[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
-[Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink")
+[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink")

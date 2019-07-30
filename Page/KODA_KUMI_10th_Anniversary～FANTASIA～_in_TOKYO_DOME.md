@@ -1,21 +1,10 @@
-《**KODA KUMI 10th Anniversary～FANTASIA～ in TOKYO
-DOME**》（10周年紀念～FANTASIA～東京巨蛋演唱會）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2011年5月18日發行之9th演唱會DVD。
+《**KODA KUMI 10th Anniversary～FANTASIA～ in TOKYO DOME**》（10周年紀念～FANTASIA～東京巨蛋演唱會）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2011年5月18日發行之9th演唱會DVD。
 
 ## 解說
 
-  - 本DVD收錄[倖田來未出道](../Page/倖田來未.md "wikilink")10周年於2010年12月5日在[日本](../Page/日本.md "wikilink")[東京巨蛋舉行的](../Page/東京巨蛋.md "wikilink")10周年紀念演唱會，約4萬7千人入場觀看\[1\]。
-  - 本次演唱會為[倖田來未第二次到](../Page/倖田來未.md "wikilink")「[東京巨蛋](../Page/東京巨蛋.md "wikilink")」進行演唱（能在如此大的場地開辦演唱會，對於在日本活動的藝人是個相當高的榮譽），上次是在2007年《[KODA
-    KUMI LIVE TOUR 2007 ～Black Cherry～ SPECIAL FINAL in TOKYO
-    DOME](../Page/KODA_KUMI_LIVE_TOUR_2007_～Black_Cherry～_SPECIAL_FINAL_in_TOKYO_DOME.md "wikilink")》，本次10周年演唱會演唱了新舊歌共46曲，為倖田史上演唱的最多曲目，而這次主題以\[喜、怒、哀、樂\]代表倖田這10年來的精華。
-  - 本次演唱會也同時推出了[藍光光碟版](../Page/藍光光碟.md "wikilink")，也在同日推出以前的4場演唱會的藍光版本（《[KODA
-    KUMI LIVE TOUR 2006-2007 ～second
-    session～](../Page/KODA_KUMI_LIVE_TOUR_2006-2007_～second_session～.md "wikilink")》、《[KODA
-    KUMI LIVE TOUR 2008
-    ～Kingdom～](../Page/KODA_KUMI_LIVE_TOUR_2008_～Kingdom～.md "wikilink")》、《[KODA
-    KUMI LIVE TOUR 2010
-    ～UNIVERSE～](../Page/KODA_KUMI_LIVE_TOUR_2010_～UNIVERSE～.md "wikilink")》、《[KODA
-    KUMI "ETERNITY～Love & Songs～"at Billboard
-    Live](../Page/KODA_KUMI_"ETERNITY～Love_&_Songs～"at_Billboard_Live.md "wikilink")》）
+  - 本DVD收錄[倖田來未](../Page/倖田來未.md "wikilink")出道10周年於2010年12月5日在[日本](../Page/日本.md "wikilink")[東京巨蛋](../Page/東京巨蛋.md "wikilink")舉行的10周年紀念演唱會，約4萬7千人入場觀看\[1\]。
+  - 本次演唱會為[倖田來未](../Page/倖田來未.md "wikilink")第二次到「[東京巨蛋](../Page/東京巨蛋.md "wikilink")」進行演唱（能在如此大的場地開辦演唱會，對於在日本活動的藝人是個相當高的榮譽），上次是在2007年《[KODA KUMI LIVE TOUR 2007 ～Black Cherry～ SPECIAL FINAL in TOKYO DOME](../Page/KODA_KUMI_LIVE_TOUR_2007_～Black_Cherry～_SPECIAL_FINAL_in_TOKYO_DOME.md "wikilink")》，本次10周年演唱會演唱了新舊歌共46曲，為倖田史上演唱的最多曲目，而這次主題以\[喜、怒、哀、樂\]代表倖田這10年來的精華。
+  - 本次演唱會也同時推出了[藍光光碟](../Page/藍光光碟.md "wikilink")版，也在同日推出以前的4場演唱會的藍光版本（《[KODA KUMI LIVE TOUR 2006-2007 ～second session～](../Page/KODA_KUMI_LIVE_TOUR_2006-2007_～second_session～.md "wikilink")》、《[KODA KUMI LIVE TOUR 2008 ～Kingdom～](../Page/KODA_KUMI_LIVE_TOUR_2008_～Kingdom～.md "wikilink")》、《[KODA KUMI LIVE TOUR 2010 ～UNIVERSE～](../Page/KODA_KUMI_LIVE_TOUR_2010_～UNIVERSE～.md "wikilink")》、《[KODA KUMI "ETERNITY～Love & Songs～"at Billboard Live](../Page/KODA_KUMI_"ETERNITY～Love_&_Songs～"at_Billboard_Live.md "wikilink")》）
   - 初回限定特典（僅限日本）為「工作人員會場工作證」、「特殊金箔字體」、「10周年幕後花絮影像」。
   - 這張也已2.1萬張獲得周冠，也是倖田第8張冠軍DVD，也更刷進唯一歌手(包含男.女.團體)7年擁有DVD冠軍歌手第1人。
 
@@ -83,9 +72,7 @@ DOME**》（10周年紀念～FANTASIA～東京巨蛋演唱會）為[日本歌手
 5.  It's all Love\!
       -
         **DOUBLE ENCORE**
-6.  COME WITH ME～Lady Go\!～So Into You～WON'T BE LONG～TABOO～Trust Your
-    Love～ Chase～キューティーハニー（甜心戰士）～No Regret～love across the ocean～Come
-    Over
+6.  COME WITH ME～Lady Go\!～So Into You～WON'T BE LONG～TABOO～Trust Your Love～ Chase～キューティーハニー（甜心戰士）～No Regret～love across the ocean～Come Over
 7.  好きで、好きで、好きで。（喜歡，喜歡，喜歡。）
 8.  WIND
 9.  walk
@@ -140,8 +127,7 @@ DOME**》（10周年紀念～FANTASIA～東京巨蛋演唱會）為[日本歌手
 25. It's all Love\!
       -
         【DOUBLE ENCORE】
-26. COME WITH ME〜Lady Go\!〜So Into You〜WON'T BE LONG〜TABOO〜Trust Your
-    Love〜 Chase〜キューティーハニー〜No Regret〜love across the ocean〜Come Over
+26. COME WITH ME〜Lady Go\!〜So Into You〜WON'T BE LONG〜TABOO〜Trust Your Love〜 Chase〜キューティーハニー〜No Regret〜love across the ocean〜Come Over
 27. 好きで、好きで、好きで。
 28. WIND
 29. walk

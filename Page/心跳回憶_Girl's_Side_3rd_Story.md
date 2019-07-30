@@ -1,9 +1,4 @@
-《**心跳回憶 Girl's Side 3rd
-Story**》（）是[科樂美數位娛樂于](../Page/科樂美數位娛樂.md "wikilink")2010年6月24日發售的[任天堂DS用](../Page/任天堂DS.md "wikilink")[女性向戀愛遊戲](https://zh.wikipedia.org/wiki/女性向戀愛遊戲 "wikilink")，略稱為「GS3」。是《[心跳回憶
-Girl's Side
-系列](https://zh.wikipedia.org/wiki/心跳回憶_Girl's_Side_系列 "wikilink")》的第3彈。舞台是《[心跳回憶
-Girl's
-Side](../Page/心跳回憶_Girl's_Side.md "wikilink")》（略稱為「GS1」）開學時的七年後的振翅市。主人公就讀的學校也是跟GS1時一樣的振翅学園。
+《**心跳回憶 Girl's Side 3rd Story**》（）是[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")于2010年6月24日發售的[任天堂DS](../Page/任天堂DS.md "wikilink")用[女性向戀愛遊戲](https://zh.wikipedia.org/wiki/女性向戀愛遊戲 "wikilink")，略稱為「GS3」。是《[心跳回憶 Girl's Side 系列](https://zh.wikipedia.org/wiki/心跳回憶_Girl's_Side_系列 "wikilink")》的第3彈。舞台是《[心跳回憶 Girl's Side](../Page/心跳回憶_Girl's_Side.md "wikilink")》（略稱為「GS1」）開學時的七年後的振翅市。主人公就讀的學校也是跟GS1時一樣的振翅学園。
 
 ## 登場人物
 
@@ -149,17 +144,10 @@ Side](../Page/心跳回憶_Girl's_Side.md "wikilink")》（略稱為「GS1」）
 
   - [心跳回憶](https://zh.wikipedia.org/wiki/心跳回憶 "wikilink")
   - [心跳回憶 Girl's Side](../Page/心跳回憶_Girl's_Side.md "wikilink")
-  - [心跳回憶 Girl's Side 2nd
-    Kiss](../Page/心跳回憶_Girl's_Side_2nd_Kiss.md "wikilink")
+  - [心跳回憶 Girl's Side 2nd Kiss](../Page/心跳回憶_Girl's_Side_2nd_Kiss.md "wikilink")
 
 ## 外部連結
 
   - [官方网站](http://www.konami.jp/gs/game/Girls_Side/3rd_Story/index.html)
 
-[Category:心跳回憶系列電子遊戲](https://zh.wikipedia.org/wiki/Category:心跳回憶系列電子遊戲 "wikilink")
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:少女游戏](https://zh.wikipedia.org/wiki/Category:少女游戏 "wikilink")
-[Category:恋爱模拟游戏](https://zh.wikipedia.org/wiki/Category:恋爱模拟游戏 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:心跳回憶系列電子遊戲](https://zh.wikipedia.org/wiki/Category:心跳回憶系列電子遊戲 "wikilink") [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:少女游戏](https://zh.wikipedia.org/wiki/Category:少女游戏 "wikilink") [Category:恋爱模拟游戏](https://zh.wikipedia.org/wiki/Category:恋爱模拟游戏 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")

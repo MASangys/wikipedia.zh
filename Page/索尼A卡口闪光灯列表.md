@@ -1,11 +1,8 @@
-本列表是为[Minolta
-AF系统所制造的专用](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")[闪光灯列表](../Page/闪光灯.md "wikilink")，仅包含[美能达](https://zh.wikipedia.org/wiki/美能达 "wikilink")，[柯尼卡美能达](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")，[Sony
-α所制造之闪光灯](https://zh.wikipedia.org/wiki/Sony_α "wikilink")，并不包含第三方产品。
+本列表是为[Minolta AF系统所制造的专用](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")[闪光灯](../Page/闪光灯.md "wikilink")列表，仅包含[美能达](https://zh.wikipedia.org/wiki/美能达 "wikilink")，[柯尼卡美能达](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")，[Sony α所制造之闪光灯](https://zh.wikipedia.org/wiki/Sony_α "wikilink")，并不包含第三方产品。
 
 ## 小型热靴闪光灯
 
-[Minolta_7000_Blitzschuh.jpg](https://zh.wikipedia.org/wiki/File:Minolta_7000_Blitzschuh.jpg "fig:Minolta_7000_Blitzschuh.jpg")
-第一代机器，α-7000上的标准热靴接口，可支持之前X700专用闪光灯，完成TTL功能\]\]
+[Minolta_7000_Blitzschuh.jpg](https://zh.wikipedia.org/wiki/File:Minolta_7000_Blitzschuh.jpg "fig:Minolta_7000_Blitzschuh.jpg") 第一代机器，α-7000上的标准热靴接口，可支持之前X700专用闪光灯，完成TTL功能\]\]
 
   - 第一代，随AF SLR发布
       - 1800AF
@@ -45,7 +42,7 @@ AF系统所制造的专用](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
 <!-- end list -->
 
   - 五代半
-    [Sony_HVL-F56AM_flash_3.jpg](https://zh.wikipedia.org/wiki/File:Sony_HVL-F56AM_flash_3.jpg "fig:Sony_HVL-F56AM_flash_3.jpg")这一代由于柯尼卡美能达将影像事业部门移交给[索尼公司](../Page/索尼.md "wikilink")，故厂牌发生了变化，但产品依旧采用第五代的3600HS(D)以及5600HS(D)的设计
+    [Sony_HVL-F56AM_flash_3.jpg](https://zh.wikipedia.org/wiki/File:Sony_HVL-F56AM_flash_3.jpg "fig:Sony_HVL-F56AM_flash_3.jpg")这一代由于柯尼卡美能达将影像事业部门移交给[索尼](../Page/索尼.md "wikilink")公司，故厂牌发生了变化，但产品依旧采用第五代的3600HS(D)以及5600HS(D)的设计
       - HVL-F36AM
       - HVL-F56AM
 
@@ -75,31 +72,26 @@ Minolta
   - Macro Twin Flash T-2400
   - Macro Flash Controller MFC-1000
 
-Ring Flash R1200 或 Twin FlashT2400 必需配合 Macro Flash Controller MFC-1000
-才能使用。
+Ring Flash R1200 或 Twin FlashT2400 必需配合 Macro Flash Controller MFC-1000 才能使用。
 
 Sony
 
   - Ring Flash HVL-RL1
   - Macro Twin Flash HVL-MT24AM
 
-Ring Flash HVL-RL1 和 Twin Flash HVL-MT24AM 是两个独立系统，要注意的是 Ring Flash
-HVL-RL1是LED灯不是闪光灯。Macro Twin Flash HVL-MT24AM 已經包括 Flash Controller 在內。
+Ring Flash HVL-RL1 和 Twin Flash HVL-MT24AM 是两个独立系统，要注意的是 Ring Flash HVL-RL1是LED灯不是闪光灯。Macro Twin Flash HVL-MT24AM 已經包括 Flash Controller 在內。
 
 ## 参见
 
   - [闪光灯](../Page/闪光灯.md "wikilink")
   - [Minolta AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
       - [iISO 热靴](https://zh.wikipedia.org/wiki/iISO "wikilink")
-      - [Minolta
-        AF镜头列表](https://zh.wikipedia.org/wiki/Minolta_AF镜头列表 "wikilink")
+      - [Minolta AF镜头列表](https://zh.wikipedia.org/wiki/Minolta_AF镜头列表 "wikilink")
 
 ## 外部链接
 
-  - [柯尼卡美能达闪光灯](https://web.archive.org/web/20101003221811/http://ca.konicaminolta.com/products/consumer/camera-pus/slr/acc/acc_flashes.html)
-    — 柯尼卡美能达（英语）
-  - [美能达/索尼 闪光灯概要](http://www.mhohner.de/sony-minolta/flashcomp.php) —
-    mhohner.de（英语）
+  - [柯尼卡美能达闪光灯](https://web.archive.org/web/20101003221811/http://ca.konicaminolta.com/products/consumer/camera-pus/slr/acc/acc_flashes.html) — 柯尼卡美能达（英语）
+  - [美能达/索尼 闪光灯概要](http://www.mhohner.de/sony-minolta/flashcomp.php) — mhohner.de（英语）
       - [闪光灯列表](http://www.mhohner.de/sony-minolta/flashes.php)
 
 [Category:摄影器材](https://zh.wikipedia.org/wiki/Category:摄影器材 "wikilink")

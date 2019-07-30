@@ -14,20 +14,16 @@
 
 ### 邵氏電影
 
-  - [Laughing
-    Gor之变节](https://zh.wikipedia.org/wiki/Laughing_Gor之变节 "wikilink")
+  - [Laughing Gor之变节](https://zh.wikipedia.org/wiki/Laughing_Gor之变节 "wikilink")
   - [72家租客](../Page/72家租客.md "wikilink")
   - [翡翠明珠](../Page/翡翠明珠.md "wikilink")
   - [抱抱俏佳人](../Page/抱抱俏佳人.md "wikilink")
   - [醉馬騮](https://zh.wikipedia.org/wiki/醉馬騮 "wikilink")
   - [我愛HK開心萬歲](../Page/我愛HK開心萬歲.md "wikilink")
   - [勁抽福祿壽](../Page/勁抽福祿壽.md "wikilink")
-  - [Laughing
-    Gor之潛罪犯](../Page/Laughing_Gor之潛罪犯.md "wikilink")(2012年10月6日)
-  - [2012我愛HK
-    喜上加囍](https://zh.wikipedia.org/wiki/2012我愛HK_喜上加囍 "wikilink")(2013年2月9日)
-  - [2013我愛HK
-    恭喜發財](https://zh.wikipedia.org/wiki/2013我愛HK_恭喜發財 "wikilink")(2013年10月1日)
+  - [Laughing Gor之潛罪犯](../Page/Laughing_Gor之潛罪犯.md "wikilink")(2012年10月6日)
+  - [2012我愛HK 喜上加囍](https://zh.wikipedia.org/wiki/2012我愛HK_喜上加囍 "wikilink")(2013年2月9日)
+  - [2013我愛HK 恭喜發財](https://zh.wikipedia.org/wiki/2013我愛HK_恭喜發財 "wikilink")(2013年10月1日)
 
 ### 香港電影
 
@@ -289,8 +285,7 @@
 
   - [一頁台北](https://zh.wikipedia.org/wiki/一頁台北 "wikilink")(2013年3月3日)(全港首播)
 
-  - [Mr.
-    Idol愛回歸](https://zh.wikipedia.org/wiki/Mr._Idol愛回歸 "wikilink")(2013年4月1日)(全港首播)
+  - [Mr. Idol愛回歸](https://zh.wikipedia.org/wiki/Mr._Idol愛回歸 "wikilink")(2013年4月1日)(全港首播)
 
   - [女孩壞壞](../Page/女孩壞壞.md "wikilink")(2013年4月20日)(全港首播)
 
@@ -350,26 +345,19 @@
 
   - [崖上的波兒](https://zh.wikipedia.org/wiki/崖上的波兒 "wikilink")（2011年4月25日）
 
-  - [機動戰士00 -
-    先驅者的醒覺](https://zh.wikipedia.org/wiki/劇場版_機動戰士高達00_-A_wakening_of_the_Trailblazer- "wikilink")(2011年7月9日)(全港首播)
+  - [機動戰士00 - 先驅者的醒覺](https://zh.wikipedia.org/wiki/劇場版_機動戰士高達00_-A_wakening_of_the_Trailblazer- "wikilink")(2011年7月9日)(全港首播)
 
-  - [北斗之拳系列: 雷奧傳 -
-    殉愛之章](https://zh.wikipedia.org/wiki/北斗之拳 "wikilink")(2011年7月22日)(全港首播)
+  - [北斗之拳系列: 雷奧傳 - 殉愛之章](https://zh.wikipedia.org/wiki/北斗之拳 "wikilink")(2011年7月22日)(全港首播)
 
-  - [北斗之拳系列:
-    由利亞傳](https://zh.wikipedia.org/wiki/北斗之拳 "wikilink")(2011年7月29日)(全港首播)
+  - [北斗之拳系列: 由利亞傳](https://zh.wikipedia.org/wiki/北斗之拳 "wikilink")(2011年7月29日)(全港首播)
 
-  - [北斗之拳系列: 雷奧傳 -
-    激鬥之章](https://zh.wikipedia.org/wiki/北斗之拳 "wikilink")（2011年8月6日）(全港首播)
+  - [北斗之拳系列: 雷奧傳 - 激鬥之章](https://zh.wikipedia.org/wiki/北斗之拳 "wikilink")（2011年8月6日）(全港首播)
 
-  - [北斗之拳系列:
-    多奇傳](https://zh.wikipedia.org/wiki/北斗之拳 "wikilink")（2011年8月13日）(全港首播)
+  - [北斗之拳系列: 多奇傳](https://zh.wikipedia.org/wiki/北斗之拳 "wikilink")（2011年8月13日）(全港首播)
 
-  - [火影忍者大電影:
-    新月島之動物大騷動](../Page/火影忍者劇場版：大興奮！三日月島上的動物騷亂.md "wikilink")（2011年8月20日）(全港首播)
+  - [火影忍者大電影: 新月島之動物大騷動](../Page/火影忍者劇場版：大興奮！三日月島上的動物騷亂.md "wikilink")（2011年8月20日）(全港首播)
 
-  - [我們這一家電影版 -
-    超能力花師奶](https://zh.wikipedia.org/wiki/我們這一家#電影 "wikilink")（2011年8月21日）(全港首播)
+  - [我們這一家電影版 - 超能力花師奶](https://zh.wikipedia.org/wiki/我們這一家#電影 "wikilink")（2011年8月21日）(全港首播)
 
   - （2011年8月27日）
 
@@ -431,8 +419,7 @@
 
   - [多啦A夢大電影:夢幻三劍士](../Page/大雄與夢幻三劍士.md "wikilink")(2013年2月12日)
 
-  - [借東西的小矮人 -
-    亞莉亞蒂](https://zh.wikipedia.org/wiki/借東西的小矮人_-_亞莉亞蒂 "wikilink")(2013年3月29日)
+  - [借東西的小矮人 - 亞莉亞蒂](https://zh.wikipedia.org/wiki/借東西的小矮人_-_亞莉亞蒂 "wikilink")(2013年3月29日)
 
   - [銀魂劇場版新譯紅櫻篇](../Page/銀魂劇場版_新譯紅櫻篇.md "wikilink")(2013年3月30日)
 
@@ -461,9 +448,6 @@
 
 ## 外部連結
 
-[Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink")
-[Category:2011年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2011年成立的電視台或電視頻道 "wikilink")
-[Category:香港已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:香港已停播的電視頻道 "wikilink")
-[Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink")
+[Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink") [Category:2011年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2011年成立的電視台或電視頻道 "wikilink") [Category:香港已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:香港已停播的電視頻道 "wikilink") [Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink")
 
 1.

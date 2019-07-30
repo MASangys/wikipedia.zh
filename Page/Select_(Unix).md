@@ -1,7 +1,6 @@
 **select**是用于I/O多路转接的一个[系统调用函数](https://zh.wikipedia.org/wiki/系统调用 "wikilink")。
 
-在[C程序中](../Page/C.md "wikilink")，该系统调用在 sys/select.h 或
-[unistd.h](https://zh.wikipedia.org/wiki/unistd.h "wikilink") 中声明，语法如下：
+在[C](../Page/C.md "wikilink")程序中，该系统调用在 sys/select.h 或 [unistd.h](https://zh.wikipedia.org/wiki/unistd.h "wikilink") 中声明，语法如下：
 
 ``` c
 int select(int nfds, fd_set* readfds, fd_set* writefds, fd_set* errorfds, struct timeval* timeout);
@@ -15,12 +14,11 @@ int select(int nfds, fd_set* readfds, fd_set* writefds, fd_set* errorfds, struct
 | *errorfds* | `fd_set` 类型，包含了需要检查是否出错的描述符，输出时表示哪些描述符出错。可为 `NULL`。 |
 | *timeout*  | `struct timeval` 类型的结构体，表示等待检查完成的最长时间。              |
 
-为了维护fd_set类型的参数，会使用下面四个[宏](https://zh.wikipedia.org/wiki/宏 "wikilink")：FD_SET(),
-FD_CLR(), FD_ZERO() 和 FD_ISSET()。
+为了维护fd_set类型的参数，会使用下面四个[宏](https://zh.wikipedia.org/wiki/宏 "wikilink")：FD_SET(), FD_CLR(), FD_ZERO() 和 FD_ISSET()。
 
 **返回值**：
 
-`      这个`[`函数将返回描述符集的个数`](../Page/函数.md "wikilink")`， 如果`[`超时返回为`](https://zh.wikipedia.org/wiki/超时 "wikilink")`0，错误则返回-1。`
+`      这个`[`函数`](../Page/函数.md "wikilink")将返回描述符集的个数`， 如果`[`超时返回为`](https://zh.wikipedia.org/wiki/超时 "wikilink")`0，错误则返回-1。`
 
 **参看**：
 
@@ -40,7 +38,7 @@ FD_CLR(), FD_ZERO() 和 FD_ISSET()。
 <tbody>
 <tr class="odd">
 <td><p>概述</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/epoll" title="wikilink">epoll是个</a><a href="https://zh.wikipedia.org/wiki/模块" title="wikilink">模块</a>，由三个<a href="https://zh.wikipedia.org/wiki/系统调用" title="wikilink">系统调用组成</a>，内核中由用<a href="../Page/文件系统.md" title="wikilink">文件系统实现</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/epoll" title="wikilink">epoll是个</a><a href="https://zh.wikipedia.org/wiki/模块" title="wikilink">模块</a>，由三个<a href="https://zh.wikipedia.org/wiki/系统调用" title="wikilink">系统调用组成</a>，内核中由用<a href="../Page/文件系统.md" title="wikilink">文件系统</a>实现</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/select" title="wikilink">select是个</a><a href="https://zh.wikipedia.org/wiki/系统调用" title="wikilink">系统调用</a></p></td>
 </tr>
 <tr class="even">
@@ -129,8 +127,7 @@ for(int i=0;i&lt;maxfds; i++){<br />
 </tbody>
 </table>
 
-**说明**：以上无论epoll_create,
-fd_set都受限于系统中单个进程能够打开的[文件句柄数](https://zh.wikipedia.org/wiki/文件句柄 "wikilink")。
+**说明**：以上无论epoll_create, fd_set都受限于系统中单个进程能够打开的[文件句柄数](https://zh.wikipedia.org/wiki/文件句柄 "wikilink")。
 
 ## 示例
 
@@ -310,6 +307,4 @@ void die(const char *msg)
 
   -
   -
-[Category:C_POSIX库](https://zh.wikipedia.org/wiki/Category:C_POSIX库 "wikilink")
-[Category:事件_(计算机)](https://zh.wikipedia.org/wiki/Category:事件_\(计算机\) "wikilink")
-[Category:系统调用](https://zh.wikipedia.org/wiki/Category:系统调用 "wikilink")
+[Category:C_POSIX库](https://zh.wikipedia.org/wiki/Category:C_POSIX库 "wikilink") [Category:事件_(计算机)](https://zh.wikipedia.org/wiki/Category:事件_\(计算机\) "wikilink") [Category:系统调用](https://zh.wikipedia.org/wiki/Category:系统调用 "wikilink")

@@ -1,4 +1,4 @@
-『**CHECK-IN**』是[PASSPO☆首張的主流專輯](../Page/PASSPO☆.md "wikilink")。於2011年12月7日由[環球唱片J發售](../Page/环球唱片.md "wikilink")。
+『**CHECK-IN**』是[PASSPO☆](../Page/PASSPO☆.md "wikilink")首張的主流專輯。於2011年12月7日由[環球唱片J發售](../Page/环球唱片.md "wikilink")。
 
 ## 概要
 

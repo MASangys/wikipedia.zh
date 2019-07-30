@@ -1,10 +1,4 @@
-《**CANCAN BUNNY**》（）是1989年[Cocktail
-Soft首次發表的](../Page/Cocktail_Soft.md "wikilink")[約會模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，及一系列作品的總稱，並且該作品為日本第一部戀愛養成遊戲。第4回作品《Can
-Can Bunny Premiere》（）女主角 Swaty / Swatty
-（）的人氣非常高，造成有時候狹義上指的是該角色。第4回作品《Can
-Can Bunny
-Premiere》（）於1996年4月5日被[KID](../Page/KID.md "wikilink")正式移植到[SEGA
-Saturn家用遊戲主機](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")。
+《**CANCAN BUNNY**》（）是1989年[Cocktail Soft首次發表的](../Page/Cocktail_Soft.md "wikilink")[約會模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，及一系列作品的總稱，並且該作品為日本第一部戀愛養成遊戲。第4回作品《Can Can Bunny Premiere》（）女主角 Swaty / Swatty （）的人氣非常高，造成有時候狹義上指的是該角色。第4回作品《Can Can Bunny Premiere》（）於1996年4月5日被[KID](../Page/KID.md "wikilink")正式移植到[SEGA Saturn家用遊戲主機](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")。
 
 ## 遊戲
 
@@ -72,8 +66,7 @@ Saturn家用遊戲主機](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")�
 
 ## 動畫
 
-《Can Can Bunny Extra》（）是由Pink
-Pineapple於1996年至1997年期間發售的成人動畫共六集，以[LD](https://zh.wikipedia.org/wiki/LD "wikilink")、[VHS](../Page/VHS.md "wikilink")、[DVD形式發售](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+《Can Can Bunny Extra》（）是由Pink Pineapple於1996年至1997年期間發售的成人動畫共六集，以[LD](https://zh.wikipedia.org/wiki/LD "wikilink")、[VHS](../Page/VHS.md "wikilink")、[DVD形式發售](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 小說
 
@@ -149,9 +142,4 @@ Pineapple於1996年至1997年期間發售的成人動畫共六集，以[LD](http
 5.  西崎美耶子
 6.  春日惠
 
-[Category:F\&C遊戲](https://zh.wikipedia.org/wiki/Category:F&C遊戲 "wikilink")
-[Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:1989年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1989年日本成人遊戲 "wikilink")
-[Category:1996年日本成人動畫](https://zh.wikipedia.org/wiki/Category:1996年日本成人動畫 "wikilink")
-[Category:日本成人遊戲系列](https://zh.wikipedia.org/wiki/Category:日本成人遊戲系列 "wikilink")
+[Category:F\&C遊戲](https://zh.wikipedia.org/wiki/Category:F&C遊戲 "wikilink") [Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:1989年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1989年日本成人遊戲 "wikilink") [Category:1996年日本成人動畫](https://zh.wikipedia.org/wiki/Category:1996年日本成人動畫 "wikilink") [Category:日本成人遊戲系列](https://zh.wikipedia.org/wiki/Category:日本成人遊戲系列 "wikilink")

@@ -1,5 +1,4 @@
-**DEEP**是來自[日本的四人男子歌唱團體](../Page/日本.md "wikilink")，前身為**COLOR**。唱片發行公司為[Rhythm
-zone](../Page/Rhythm_zone.md "wikilink")。團體所屬事務所為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。\[1\]
+**DEEP**是來自[日本](../Page/日本.md "wikilink")的四人男子歌唱團體，前身為**COLOR**。唱片發行公司為[Rhythm zone](../Page/Rhythm_zone.md "wikilink")。團體所屬事務所為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。\[1\]
 
 初代COLOR(2004年\~2006年)由[EXILE的主唱](https://zh.wikipedia.org/wiki/EXILE "wikilink")[ATSUSHI領隊主唱及製作](https://zh.wikipedia.org/wiki/EXILE "wikilink")\[2\]。2006年10月24日，新生COLOR正式宣佈結成\[3\]。COLOR於2007年7月變更團隊名字為DEEP\[4\]。
 
@@ -7,11 +6,9 @@ zone](../Page/Rhythm_zone.md "wikilink")。團體所屬事務所為[LDH](../Page
 
 ### 2004\~2006
 
-2004年下旬開始，[EXILE成員各自實行短期的單飛活動](https://zh.wikipedia.org/wiki/EXILE "wikilink")。主唱[ATSUSHI一直都希望組成以黑人音樂為主軸的合唱團體](../Page/ATSUSHI.md "wikilink")，給歌迷傳達比音樂更高的訊息——於是以[ATSUSHI為中心](../Page/ATSUSHI.md "wikilink")、連同於同一音樂專門學校就讀的KIKURI、YORK、以及TAKA，四人組成了一個歌唱團體。\[5\]
+2004年下旬開始，[EXILE成員各自實行短期的單飛活動](https://zh.wikipedia.org/wiki/EXILE "wikilink")。主唱[ATSUSHI](../Page/ATSUSHI.md "wikilink")一直都希望組成以黑人音樂為主軸的合唱團體，給歌迷傳達比音樂更高的訊息——於是以[ATSUSHI](../Page/ATSUSHI.md "wikilink")為中心、連同於同一音樂專門學校就讀的KIKURI、YORK、以及TAKA，四人組成了一個歌唱團體。\[5\]
 
-2004年2月25日，[久保田利伸TRIBUTE](../Page/久保田利伸.md "wikilink")
-ALBUM「」發行，並收錄了「Cymbals (ATSUSHI from
-EXILE)」。這是初代COLOR四位成員同時初次出現於發行音樂裡的歌曲，只是名義上還沒有出現「COLOR」的隊名。
+2004年2月25日，[久保田利伸](../Page/久保田利伸.md "wikilink")TRIBUTE ALBUM「」發行，並收錄了「Cymbals (ATSUSHI from EXILE)」。這是初代COLOR四位成員同時初次出現於發行音樂裡的歌曲，只是名義上還沒有出現「COLOR」的隊名。
 
 2004年9月29日，發行「」，當中包括以COLOR名義演唱的「JOY」及「Close To You」兩首歌。COLOR是屬於的其中一個團體。
 
@@ -19,11 +16,11 @@ EXILE)」。這是初代COLOR四位成員同時初次出現於發行音樂裡的
 
 ### 2006\~今
 
-在發行了四張單曲及一張專輯之後，2006年10月21日，[ATSUSHI宣佈轉居幕後當COLOR製作人](../Page/ATSUSHI.md "wikilink")，KIKURI、YORK也同時表示退出COLOR。10月24日，舊有COLOR成員TAKA領隊，再加上由「」總決賽参加者YUICHIRO、3次審查參賽者KEISEI以及RYO，「新生COLOR」宣佈結成，藝人通告將於同年12月正式始動。\[6\]
+在發行了四張單曲及一張專輯之後，2006年10月21日，[ATSUSHI](../Page/ATSUSHI.md "wikilink")宣佈轉居幕後當COLOR製作人，KIKURI、YORK也同時表示退出COLOR。10月24日，舊有COLOR成員TAKA領隊，再加上由「」總決賽参加者YUICHIRO、3次審查參賽者KEISEI以及RYO，「新生COLOR」宣佈結成，藝人通告將於同年12月正式始動。\[6\]
 
 在2007年4月25日，新生COLOR發行出道單曲「涙が落ちないように」。
 
-2009年7月1日開始，[ATSUSHI宣佈退出COLOR幕後製作](../Page/ATSUSHI.md "wikilink")，組合名字變更為DEEP。\[7\]
+2009年7月1日開始，[ATSUSHI](../Page/ATSUSHI.md "wikilink")宣佈退出COLOR幕後製作，組合名字變更為DEEP。\[7\]
 
 2015年12月8日、唱片發行公司由 rhythm zone移籍至Sony Music Associated Records\[8\]。
 
@@ -34,8 +31,7 @@ EXILE)」。這是初代COLOR四位成員同時初次出現於發行音樂裡的
 #### TAKA
 
   -
-    本名：木村貴浩 (Kimura
-    Takahiro)。1983年10月24日[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[糟屋郡出生](../Page/糟屋郡.md "wikilink")。血液型O型、身長175cm。團長。初代COLOR至今的成員。
+    本名：木村貴浩 (Kimura Takahiro)。1983年10月24日[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[糟屋郡](../Page/糟屋郡.md "wikilink")出生。血液型O型、身長175cm。團長。初代COLOR至今的成員。
 
 <!-- end list -->
 
@@ -45,8 +41,7 @@ EXILE)」。這是初代COLOR四位成員同時初次出現於發行音樂裡的
 #### YUICHIRO
 
   -
-    本名：前田雄一郎 (Maeda
-    Yuichiro)。1981年11月8日[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[長崎市出生](https://zh.wikipedia.org/wiki/長崎市 "wikilink")。血液型A型、身長173cm。
+    本名：前田雄一郎 (Maeda Yuichiro)。1981年11月8日[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[長崎市出生](https://zh.wikipedia.org/wiki/長崎市 "wikilink")。血液型A型、身長173cm。
 
 <!-- end list -->
 
@@ -56,8 +51,7 @@ EXILE)」。這是初代COLOR四位成員同時初次出現於發行音樂裡的
 #### KEISEI
 
   -
-    本名：天羽景聖 (Amou
-    Keisei)。1986年1月24日[北海道](../Page/北海道.md "wikilink")[札幌市出生](../Page/札幌市.md "wikilink")。血液型A型。
+    本名：天羽景聖 (Amou Keisei)。1986年1月24日[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")出生。血液型A型。
 
 <!-- end list -->
 
@@ -69,8 +63,7 @@ EXILE)」。這是初代COLOR四位成員同時初次出現於發行音樂裡的
 #### RYO
 
   -
-    本名：前田亮太 (Maeda
-    Ryota)。1986年7月11日[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[長崎市出生](https://zh.wikipedia.org/wiki/長崎市 "wikilink")。血液型O型。
+    本名：前田亮太 (Maeda Ryota)。1986年7月11日[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[長崎市出生](https://zh.wikipedia.org/wiki/長崎市 "wikilink")。血液型O型。
 
 <!-- end list -->
 
@@ -82,8 +75,7 @@ EXILE)」。這是初代COLOR四位成員同時初次出現於發行音樂裡的
 #### ATSUSHI
 
   -
-    本名：[佐藤篤志](../Page/ATSUSHI.md "wikilink") (Satou
-    Atsushi)。1980年4月30日[埼玉縣](../Page/埼玉縣.md "wikilink")[越谷市出生](../Page/越谷市.md "wikilink")。血液型A型、身長175cm、体重67kg。
+    本名：[佐藤篤志](../Page/ATSUSHI.md "wikilink") (Satou Atsushi)。1980年4月30日[埼玉縣](../Page/埼玉縣.md "wikilink")[越谷市](../Page/越谷市.md "wikilink")出生。血液型A型、身長175cm、体重67kg。
 
 <!-- end list -->
 
@@ -231,7 +223,7 @@ COLOR名義
 
 </div>
 
-  - [久保田利伸TRIBUTE](../Page/久保田利伸.md "wikilink") ALBUM 「」（2004年2月25日）
+  - [久保田利伸](../Page/久保田利伸.md "wikilink")TRIBUTE ALBUM 「」（2004年2月25日）
 
       -
         M-5「Cymbals」（ATSUSHI from EXILE名義）
@@ -251,10 +243,9 @@ COLOR名義
       - 參與演唱者包括「」總決賽者TAKA及YUICHIRO。
       - [日本電視台](../Page/日本電視台.md "wikilink")「」2月份（1月29日～）片尾音樂
 
-  - [加藤ミリヤ](../Page/加藤米莉亚.md "wikilink") 「My Girl feat.COLOR
-    」（2007年5月30日）
+  - [加藤ミリヤ](../Page/加藤米莉亚.md "wikilink") 「My Girl feat.COLOR 」（2007年5月30日）
 
-      - [富士電視台電視劇](../Page/富士電視台.md "wikilink")「 (新娘與爸爸)」片尾音樂
+      - [富士電視台](../Page/富士電視台.md "wikilink")電視劇「 (新娘與爸爸)」片尾音樂
 
 </div>
 
@@ -268,8 +259,7 @@ DEEP名義
 
   - 「キミの夢 feat. TAKA from DEEP」（2010年9月22日） - TAKA
 
-      - [TBS電視台](../Page/TBS電視台.md "wikilink")「[COUNT DOWN
-        TV](../Page/COUNT_DOWN_TV.md "wikilink")」片尾音樂
+      - [TBS電視台](../Page/TBS電視台.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」片尾音樂
 
 </div>
 
@@ -314,17 +304,17 @@ COLOR名義
 </tr>
 <tr class="odd">
 <td><p><strong>音色</strong></p></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台電視劇</a>「」主題歌</p></td>
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>電視劇「」主題歌</p></td>
 <td><p>4th單曲「音色」</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Blue Sky</strong></p></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台電視劇</a>「」片尾音樂</p></td>
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>電視劇「」片尾音樂</p></td>
 <td><p>6th單曲「Blue Sky」</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>青い鳥</strong></p></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台電視劇</a>「」主題歌</p></td>
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>電視劇「」主題歌</p></td>
 <td><p>7th單曲「青い鳥」</p></td>
 </tr>
 <tr class="even">
@@ -346,17 +336,17 @@ COLOR名義
 </tr>
 <tr class="odd">
 <td><p><strong>Call My Name</strong></p></td>
-<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台電視劇</a>「<a href="../Page/島耕作.md" title="wikilink">課長島耕作2 -香港の誘惑-</a>」插曲</p></td>
+<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a>電視劇「<a href="../Page/島耕作.md" title="wikilink">課長島耕作2 -香港の誘惑-</a>」插曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>BUDDY feat. <a href="../Page/J_Soul_Brothers.md" title="wikilink">J Soul Brothers</a></strong></p></td>
-<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台電視劇</a>「<a href="../Page/島耕作.md" title="wikilink">課長島耕作2 -香港の誘惑-</a>」主題歌</p></td>
+<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a>電視劇「<a href="../Page/島耕作.md" title="wikilink">課長島耕作2 -香港の誘惑-</a>」主題歌</p></td>
 <td><p>2nd專輯「BLACK 〜A night for you〜」</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Just a Little Bit</strong></p></td>
-<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台電視劇</a>「<a href="../Page/島耕作.md" title="wikilink">課長島耕作2 -香港の誘惑-</a>」插曲</p></td>
+<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a>電視劇「<a href="../Page/島耕作.md" title="wikilink">課長島耕作2 -香港の誘惑-</a>」插曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -413,7 +403,7 @@ DEEP名義
 </tr>
 <tr class="even">
 <td><p><strong>North Star</strong></p></td>
-<td><p><a href="../Page/WOWOW.md" title="wikilink">WOWOW電視劇</a>「」主題歌</p></td>
+<td><p><a href="../Page/WOWOW.md" title="wikilink">WOWOW</a>電視劇「」主題歌</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -438,12 +428,12 @@ DEEP名義
 </tr>
 <tr class="odd">
 <td><p><strong>SORA〜この声が届くまで〜</strong></p></td>
-<td><p><a href="../Page/每日放送.md" title="wikilink">每日放送</a>・<a href="../Page/TBS電視台.md" title="wikilink">TBS電視台電視劇</a>「」主題音樂</p></td>
+<td><p><a href="../Page/每日放送.md" title="wikilink">每日放送</a>・<a href="../Page/TBS電視台.md" title="wikilink">TBS電視台</a>電視劇「」主題音樂</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>未来への扉</strong></p></td>
-<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台電視劇</a>「<a href="https://zh.wikipedia.org/wiki/醫龍-Team_Medical_Dragon-_(電視劇)" title="wikilink">醫龍-Team Medical Dragon-3</a>」主題音樂</p></td>
+<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>電視劇「<a href="https://zh.wikipedia.org/wiki/醫龍-Team_Medical_Dragon-_(電視劇)" title="wikilink">醫龍-Team Medical Dragon-3</a>」主題音樂</p></td>
 <td><p>4th單曲「未来への扉」</p></td>
 </tr>
 <tr class="odd">
@@ -605,8 +595,7 @@ DEEP名義
 
   - 「スーパーサマーセール」（2008年7月、関東地方）
 
-  - [福岡ソフトバンクホークス](../Page/福岡軟銀鷹.md "wikilink")「アサヒスーパードライスペシャル2011
-    (ASAHI SUPER DRY SPECIAL 2011)」（2011年2月～3月、福岡・佐賀・大分・長崎・熊本・鹿児島・宮崎・山口）
+  - [福岡ソフトバンクホークス](../Page/福岡軟銀鷹.md "wikilink")「アサヒスーパードライスペシャル2011 (ASAHI SUPER DRY SPECIAL 2011)」（2011年2月～3月、福岡・佐賀・大分・長崎・熊本・鹿児島・宮崎・山口）
 
 ## 關聯項目
 
@@ -635,16 +624,13 @@ DEEP名義
 
 **過去**
 
-  - [COLOR :: rhythmzone official
-    website](http://www.rhythmzone.net/color/index.html)
+  - [COLOR :: rhythmzone official website](http://www.rhythmzone.net/color/index.html)
   - [DEEP avex OFFICIAL WEBSITE](http://avex.jp/deep/)
   - [DEEP TAKA 公式部落格](http://gree.jp/taka_deep/)
 
 ## 註解
 
-[Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
+[Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 
@@ -654,8 +640,7 @@ DEEP名義
 
 4.
 
-5.  EXILE EVOLUTION (初回受注限定盤)(CD+2DVD) DISC 3 DVD \#16: The Document
-    Movie of EXILE Vocal Battle Audition 2006 ～ASIAN DREAM～
+5.  EXILE EVOLUTION (初回受注限定盤)(CD+2DVD) DISC 3 DVD \#16: The Document Movie of EXILE Vocal Battle Audition 2006 ～ASIAN DREAM～
 
 6.
 7.

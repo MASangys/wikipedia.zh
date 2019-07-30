@@ -1,6 +1,4 @@
-《**On Call
-36小時**》（），[香港電視廣播有限公司時裝醫務](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[馬國明及](https://zh.wikipedia.org/wiki/馬國明 "wikilink")[楊怡領銜主演](../Page/楊怡.md "wikilink")，並由[羅仲謙](../Page/羅仲謙.md "wikilink")、[黃智雯及](../Page/黃智雯.md "wikilink")[袁偉豪聯合主演](../Page/袁偉豪.md "wikilink")，監製為[潘嘉德](../Page/潘嘉德.md "wikilink")。本劇為[2012無綫節目巡禮劇集之一](../Page/2012無綫節目巡禮.md "wikilink")，劇名源自香港的公立醫療制度規定：醫生每次當值時間為36小時\[1\]（比照美國每週80小時的[莉比·锡安法](../Page/莉比·锡安之死.md "wikilink")）。此劇以25集平均收視30.6點，成為無綫2012年第一季最高收視劇集。劇中慈愛醫院場地為[瑪麗醫院和](../Page/瑪麗醫院.md "wikilink")[北區醫院](../Page/北區醫院.md "wikilink")。2013年拍攝並播映續集《[On
-Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
+《**On Call 36小時**》（），[香港電視廣播有限公司時裝醫務](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[馬國明及](https://zh.wikipedia.org/wiki/馬國明 "wikilink")[楊怡](../Page/楊怡.md "wikilink")領銜主演，並由[羅仲謙](../Page/羅仲謙.md "wikilink")、[黃智雯](../Page/黃智雯.md "wikilink")及[袁偉豪](../Page/袁偉豪.md "wikilink")聯合主演，監製為[潘嘉德](../Page/潘嘉德.md "wikilink")。本劇為[2012無綫節目巡禮](../Page/2012無綫節目巡禮.md "wikilink")劇集之一，劇名源自香港的公立醫療制度規定：醫生每次當值時間為36小時\[1\]（比照美國每週80小時的[莉比·锡安法](../Page/莉比·锡安之死.md "wikilink")）。此劇以25集平均收視30.6點，成為無綫2012年第一季最高收視劇集。劇中慈愛醫院場地為[瑪麗醫院](../Page/瑪麗醫院.md "wikilink")和[北區醫院](../Page/北區醫院.md "wikilink")。2013年拍攝並播映續集《[On Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 
 ## 紀錄
 
@@ -1140,7 +1138,7 @@ Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |        |                  |          |          |         |
 | ------ | ------ | ---------------- | -------- | -------- | ------- |
@@ -1217,8 +1215,8 @@ Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
   - 我的最愛電視女主角：[楊怡](../Page/楊怡.md "wikilink")
   - 我的最愛電視男配角：[羅仲謙](../Page/羅仲謙.md "wikilink")
   - 我的最愛十五大電視角色：張一健（[馬國明飾](https://zh.wikipedia.org/wiki/馬國明 "wikilink")）
-  - 我的最愛十五大電視角色：范子妤（[楊怡飾](../Page/楊怡.md "wikilink")）
-  - 我的最愛十五大電視角色：楊沛聰（[羅仲謙飾](../Page/羅仲謙.md "wikilink")）
+  - 我的最愛十五大電視角色：范子妤（[楊怡](../Page/楊怡.md "wikilink")飾）
+  - 我的最愛十五大電視角色：楊沛聰（[羅仲謙](../Page/羅仲謙.md "wikilink")飾）
   - 我的最愛電視螢幕情侶：[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")、[楊怡](../Page/楊怡.md "wikilink")
 
 ### 壹電視大獎2012
@@ -1235,14 +1233,12 @@ Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 
 ## 記事
 
-  - 2011年7月21日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城十二廠外灰位舉行試造型記者會](../Page/電視廣播城.md "wikilink")\[2\]。
+  - 2011年7月21日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")十二廠外灰位舉行試造型記者會\[2\]。
   - 2012年2月11日：此劇於14:00在將軍澳電視廣播城四廠舉行「就職典禮」宣傳活動\[3\]。
-  - 2012年2月25日：此劇於14:00在[荃灣廣場舉行](../Page/荃灣廣場.md "wikilink")「為您On
-    Call」宣傳活動\[4\]。
-  - 2012年3月5日：此劇於13:30在[將軍澳中心一樓](../Page/將軍澳中心.md "wikilink")[鴻星海鮮酒家舉行](../Page/鴻星海鮮酒家.md "wikilink")「向全港醫護人員致敬」活動\[5\]。
-  - 2012年3月10日：此劇於09:00在[山頂廣場舉行](../Page/山頂廣場.md "wikilink")「腦前行2012」慈善步行\[6\]。
-  - 2012年3月12日：此劇於12:30在[漢華中學](../Page/漢華中學.md "wikilink")（小西灣富欣道3號）舉行《On
-    Call 36小時》 籃球友誼賽\[7\]。
+  - 2012年2月25日：此劇於14:00在[荃灣廣場](../Page/荃灣廣場.md "wikilink")舉行「為您On Call」宣傳活動\[4\]。
+  - 2012年3月5日：此劇於13:30在[將軍澳中心](../Page/將軍澳中心.md "wikilink")一樓[鴻星海鮮酒家](../Page/鴻星海鮮酒家.md "wikilink")舉行「向全港醫護人員致敬」活動\[5\]。
+  - 2012年3月10日：此劇於09:00在[山頂廣場](../Page/山頂廣場.md "wikilink")舉行「腦前行2012」慈善步行\[6\]。
+  - 2012年3月12日：此劇於12:30在[漢華中學](../Page/漢華中學.md "wikilink")（小西灣富欣道3號）舉行《On Call 36小時》 籃球友誼賽\[7\]。
   - 2012年3月16日：由於播映《[2012行政長官選舉辯論](https://zh.wikipedia.org/wiki/2012年香港特別行政區行政長官選舉#電視辯論 "wikilink")》，本劇大結局順延至22:00至23:00播映。
   - 2012年3月19日：[楊怡](../Page/楊怡.md "wikilink")、[馬國明宣佈此劇決定開拍續集](https://zh.wikipedia.org/wiki/馬國明 "wikilink")。
 
@@ -1251,34 +1247,22 @@ Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 ## 電視節目的變遷
 
 |align="center" colspan="4"|[結·分@謊情式](../Page/結·分@謊情式.md "wikilink")
-2011年10月31日－ |- |align="center" colspan="2"|[4 In
-Love](https://zh.wikipedia.org/wiki/4_In_Love_\(電視劇\) "wikilink")
+2011年10月31日－ |- |align="center" colspan="2"|[4 In Love](https://zh.wikipedia.org/wiki/4_In_Love_\(電視劇\) "wikilink")
 －2月24日 |align="center" colspan="2"|[東西宮略](../Page/東西宮略.md "wikilink")
 2月27日－ |- |align="center"|**上一套：**
 [缺宅男女](../Page/缺宅男女.md "wikilink")
-－2月12日 |align="center"
-colspan="2"|**翡翠台／高清翡翠台第三綫劇集（[2012](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2012年\)#第二線劇集 "wikilink")）**
+－2月12日 |align="center" colspan="2"|**翡翠台／高清翡翠台第三綫劇集（[2012](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2012年\)#第二線劇集 "wikilink")）**
 **On Call 36小時**
 2月13日－3月16日 |align="center"|**下一套：**
 [當旺爸爸](../Page/當旺爸爸.md "wikilink")
 3月19日－
 
-[Category:2012年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2012年無綫電視劇集 "wikilink")
-[Category:2012年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2012年AOD電視劇集 "wikilink")
-[Category:2012無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2012無綫節目巡禮劇集 "wikilink")
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink")
+[Category:2012年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2012年無綫電視劇集 "wikilink") [Category:2012年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2012年AOD電視劇集 "wikilink") [Category:2012無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2012無綫節目巡禮劇集 "wikilink") [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink")
 
 1.
-2.  [藝人月曆 - 6月21日 -
-    tvb.com](http://artiste.tvb.com/calendar/list/2011/06/21)
-3.  [藝人月曆 - 2月11日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-4.  [藝人月曆 - 2月25日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-5.  [藝人月曆 - 3月5日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-6.  [藝人月曆 - 3月10日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-7.  [藝人月曆 - 3月12日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+2.  [藝人月曆 - 6月21日 - tvb.com](http://artiste.tvb.com/calendar/list/2011/06/21)
+3.  [藝人月曆 - 2月11日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+4.  [藝人月曆 - 2月25日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+5.  [藝人月曆 - 3月5日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+6.  [藝人月曆 - 3月10日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+7.  [藝人月曆 - 3月12日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)

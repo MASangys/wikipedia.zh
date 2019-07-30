@@ -1,4 +1,4 @@
-《**STAR**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")19張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2005年11月30日發行。
+《**STAR**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")19張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2005年11月30日發行。
 
 ## 簡介
 
@@ -22,8 +22,7 @@
 3.  **金平糖**（）
 4.  STAR（insturumental）
 
-全
-作詞、作曲：[AIKO](https://zh.wikipedia.org/wiki/aiko "wikilink")；編曲：[島田昌典](https://zh.wikipedia.org/wiki/島田昌典 "wikilink")　
+全 作詞、作曲：[AIKO](https://zh.wikipedia.org/wiki/aiko "wikilink")；編曲：[島田昌典](https://zh.wikipedia.org/wiki/島田昌典 "wikilink")　
 
 ## 參考資料
 
@@ -31,8 +30,6 @@
 
   - [唱片介紹](https://web.archive.org/web/20100823225809/http://music.ponycanyon.co.jp/pickup/pcca01530/)
 
-[Category:aiko歌曲](https://zh.wikipedia.org/wiki/Category:aiko歌曲 "wikilink")
-[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink")
-[Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
+[Category:aiko歌曲](https://zh.wikipedia.org/wiki/Category:aiko歌曲 "wikilink") [Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
 
 1.  [](http://www.oricon.co.jp/news/music/5169/)

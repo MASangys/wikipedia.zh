@@ -1,7 +1,6 @@
-**Sabayon Linux**（旧名RR4 Linux、RR64 Linux）是一个由Fabio
-Erculiani和**Sabayon**开发团队制作的基于[Gentoo的](https://zh.wikipedia.org/wiki/Gentoo "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")。Sabayon遵循“开箱即用”哲学，目的是提供给用户大量即时可用的程序和自由配置的[操作系统](../Page/操作系统.md "wikilink")。
+**Sabayon Linux**（旧名RR4 Linux、RR64 Linux）是一个由Fabio Erculiani和**Sabayon**开发团队制作的基于[Gentoo的](https://zh.wikipedia.org/wiki/Gentoo "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")。Sabayon遵循“开箱即用”哲学，目的是提供给用户大量即时可用的程序和自由配置的[操作系统](../Page/操作系统.md "wikilink")。
 
-Sabayon擁有[Entropy](http://wiki.sabayon.org/index.php?title=Entropy#About_Entropy)及[Portage兩個軟體包管理](../Page/Portage.md "wikilink")，而能夠同時獲得源碼包的自訂性及二進位包的快速是其特色。軟體更新方式和Gentoo相同採用[滾動更新](https://zh.wikipedia.org/wiki/滾動更新 "wikilink")。
+Sabayon擁有[Entropy](http://wiki.sabayon.org/index.php?title=Entropy#About_Entropy)及[Portage](../Page/Portage.md "wikilink")兩個軟體包管理，而能夠同時獲得源碼包的自訂性及二進位包的快速是其特色。軟體更新方式和Gentoo相同採用[滾動更新](https://zh.wikipedia.org/wiki/滾動更新 "wikilink")。
 
 Sabayon的名字来自一种名为“”的鸡蛋制成的[意大利](../Page/意大利.md "wikilink")[甜食](https://zh.wikipedia.org/wiki/甜食 "wikilink")。\[1\]Sabayon的徽标抽象自鸡爪的图案。
 
@@ -11,7 +10,7 @@ Sabayon的设计目的是给[计算机用户提供一个易于使用的工作空
 
 ### 版本
 
-Sabayon从4.1版本以来，提供[GNOME和](../Page/GNOME.md "wikilink")[KDE两种](../Page/KDE.md "wikilink")[桌面环境的发行套件](../Page/桌面环境.md "wikilink")，同时也包括非常轻量的[Fluxbox环境](../Page/Fluxbox.md "wikilink")。（更早的版本三种桌面环境都被包含在一个[DVD大小的ISO镜像中](https://zh.wikipedia.org/wiki/DVD "wikilink")。另外曾经有一个CoreCD版本，不包含[X](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")。）
+Sabayon从4.1版本以来，提供[GNOME](../Page/GNOME.md "wikilink")和[KDE](../Page/KDE.md "wikilink")两种[桌面环境](../Page/桌面环境.md "wikilink")的发行套件，同时也包括非常轻量的[Fluxbox](../Page/Fluxbox.md "wikilink")环境。（更早的版本三种桌面环境都被包含在一个[DVD大小的ISO镜像中](https://zh.wikipedia.org/wiki/DVD "wikilink")。另外曾经有一个CoreCD版本，不包含[X](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")。）
 
 凭借开发一种[CD](../Page/CD.md "wikilink")/DVD镜像创建工具“Molecule”，Sabayon成为了第一个每天都更新镜像的Linux发行版。\[2\]这些镜像面向Sabayon测试者，而每周会向公众发布稳定版本。官方正式版本实质上只是在每日更新版本的基础上进行了较深入的测试。
 
@@ -30,28 +29,19 @@ Sabayon从4.1版本以来，提供[GNOME和](../Page/GNOME.md "wikilink")[KDE两
 
 ### 配置
 
-Sabayon的核心组件和Gentoo完全相同，因此所有的Gentoo配置工具都可以在Sabayon中使用。Sabayon也包括额外的自动配置工具，用来配置各种各样的系统组件，如[OpenGL](../Page/OpenGL.md "wikilink")。Sabayon为[nVidia和](https://zh.wikipedia.org/wiki/nVidia "wikilink")[ATI的显卡提供专有驱动](https://zh.wikipedia.org/wiki/ATI "wikilink")\[3\]，检测到相应的硬件就会自动启用。窗口混成管理器[Compiz和Kwin分别用于GNOME和KDE版本](../Page/Compiz.md "wikilink")。其他硬件，比如[网卡和](../Page/网卡.md "wikilink")[摄像头也会进行相应的自动配置](../Page/摄像头.md "wikilink")。大部分[打印机能够被自动检测出来](../Page/打印机.md "wikilink")，但需要通过[CUPS进行手动配置](../Page/CUPS.md "wikilink")。
+Sabayon的核心组件和Gentoo完全相同，因此所有的Gentoo配置工具都可以在Sabayon中使用。Sabayon也包括额外的自动配置工具，用来配置各种各样的系统组件，如[OpenGL](../Page/OpenGL.md "wikilink")。Sabayon为[nVidia和](https://zh.wikipedia.org/wiki/nVidia "wikilink")[ATI的显卡提供专有驱动](https://zh.wikipedia.org/wiki/ATI "wikilink")\[3\]，检测到相应的硬件就会自动启用。窗口混成管理器[Compiz](../Page/Compiz.md "wikilink")和Kwin分别用于GNOME和KDE版本。其他硬件，比如[网卡](../Page/网卡.md "wikilink")和[摄像头](../Page/摄像头.md "wikilink")也会进行相应的自动配置。大部分[打印机](../Page/打印机.md "wikilink")能够被自动检测出来，但需要通过[CUPS](../Page/CUPS.md "wikilink")进行手动配置。
 
 ### 软件包管理
 
-Sabayon使用两种软件包管理工具，[Portage继承自Gentoo](../Page/Portage.md "wikilink")，[Entropy](http://wiki.sabayon.org/index.php?title=Entropy#About_Entropy)则是专为Sabayon开发。Portage下载源代码，并针对目标系统进行编译，而Entropy管理下载自服务器的二进制文件。来自Gentoo“unstable”分支的源码包，经过预先编译，Entropy下载这些预编译的包，进行进一步的编译（称为Gentoo
-ebuild），完成对软件包的安装。这意味着Sabayon系统和Gentoo系统是完全兼容的。两种软件包管理器的采用，使得专业用户可以获得与Gentoo系统一样的灵活性，又可以使其他用户轻松快捷地管理应用软件和更新。
+Sabayon使用两种软件包管理工具，[Portage](../Page/Portage.md "wikilink")继承自Gentoo，[Entropy](http://wiki.sabayon.org/index.php?title=Entropy#About_Entropy)则是专为Sabayon开发。Portage下载源代码，并针对目标系统进行编译，而Entropy管理下载自服务器的二进制文件。来自Gentoo“unstable”分支的源码包，经过预先编译，Entropy下载这些预编译的包，进行进一步的编译（称为Gentoo ebuild），完成对软件包的安装。这意味着Sabayon系统和Gentoo系统是完全兼容的。两种软件包管理器的采用，使得专业用户可以获得与Gentoo系统一样的灵活性，又可以使其他用户轻松快捷地管理应用软件和更新。
 
 ### 应用软件
 
-Sabayon版本众多，不同的选择预装的软件并不相同。由于不同版本的设计目标不同，软件数量也会有较大的差别，但所有的软件都在共同的软件仓库中，因此任何版本的用户都可以获得自己想要的软件。[Windows程序默认在](https://zh.wikipedia.org/wiki/Windows "wikilink")[Wine中运行](../Page/Wine.md "wikilink")。Sabayon还包括数量众多的游戏，如[Doom
-3](https://zh.wikipedia.org/wiki/Doom_3 "wikilink"), Wolfenstein: Enemy
-Territory， [Nexuiz](../Page/Nexuiz.md "wikilink")，
-[雷神之锤系列](../Page/雷神之锤系列.md "wikilink"),
-[Sauerbraten](../Page/Sauerbraten.md "wikilink")， [The Battle for
-Wesnoth](../Page/韦诺之战.md "wikilink")，
-[Unreal](https://zh.wikipedia.org/wiki/Unreal "wikilink")， [Unreal
-Tournament](https://zh.wikipedia.org/wiki/Unreal_Tournament "wikilink")，[Warsow和](../Page/Warsow.md "wikilink")[Warzone
-2100等](https://zh.wikipedia.org/wiki/Warzone_2100 "wikilink")。
+Sabayon版本众多，不同的选择预装的软件并不相同。由于不同版本的设计目标不同，软件数量也会有较大的差别，但所有的软件都在共同的软件仓库中，因此任何版本的用户都可以获得自己想要的软件。[Windows程序默认在](https://zh.wikipedia.org/wiki/Windows "wikilink")[Wine](../Page/Wine.md "wikilink")中运行。Sabayon还包括数量众多的游戏，如[Doom 3](https://zh.wikipedia.org/wiki/Doom_3 "wikilink"), Wolfenstein: Enemy Territory， [Nexuiz](../Page/Nexuiz.md "wikilink")， [雷神之锤系列](../Page/雷神之锤系列.md "wikilink"), [Sauerbraten](../Page/Sauerbraten.md "wikilink")， [The Battle for Wesnoth](../Page/韦诺之战.md "wikilink")， [Unreal](https://zh.wikipedia.org/wiki/Unreal "wikilink")， [Unreal Tournament](https://zh.wikipedia.org/wiki/Unreal_Tournament "wikilink")，[Warsow](../Page/Warsow.md "wikilink")和[Warzone 2100等](https://zh.wikipedia.org/wiki/Warzone_2100 "wikilink")。
 
 ## 安装
 
-Sabayon为用户提供的是LiveDVD镜像，用户可以从光盘运行Sabayon，也可以将它安装到计算机硬盘中。安装使用[Anaconda](../Page/Anaconda.md "wikilink")，以前也曾使用Gentoo的安装工具，现在的工具使用较为简单，适合一般用户。安装速度跟[光驱的读取速度有关](https://zh.wikipedia.org/wiki/光驱 "wikilink")，通常需要30分钟左右。没有光驱的计算机可以使用[UNetbootin等工具](../Page/UNetbootin.md "wikilink")，将镜像烧录到[USB存储进行安装](../Page/USB.md "wikilink")。
+Sabayon为用户提供的是LiveDVD镜像，用户可以从光盘运行Sabayon，也可以将它安装到计算机硬盘中。安装使用[Anaconda](../Page/Anaconda.md "wikilink")，以前也曾使用Gentoo的安装工具，现在的工具使用较为简单，适合一般用户。安装速度跟[光驱的读取速度有关](https://zh.wikipedia.org/wiki/光驱 "wikilink")，通常需要30分钟左右。没有光驱的计算机可以使用[UNetbootin](../Page/UNetbootin.md "wikilink")等工具，将镜像烧录到[USB](../Page/USB.md "wikilink")存储进行安装。
 
 ### 版本历史
 
@@ -102,7 +92,7 @@ Sabayon为用户提供的是LiveDVD镜像，用户可以从光盘运行Sabayon�
 | 5.3 SpinBase                  | 2010年6月18日  | 取代CoreCD                                          |
 | 5.3 CoreCDX                   | 2010年6月18日  | 包含X和Fluxbox                                       |
 | 5.3 LXDE/XFCE                 | 2010年7月19日  | 首个包含LXDE/XFCE的稳定版本                                |
-| 5.3 SpinBase/OpenVZ Templates | 2010年7月19日  | 首个可以使用[OpenVZ的稳定版本](../Page/OpenVZ.md "wikilink") |
+| 5.3 SpinBase/OpenVZ Templates | 2010年7月19日  | 首个可以使用[OpenVZ](../Page/OpenVZ.md "wikilink")的稳定版本 |
 | 5.4 GNOME/KDE                 | 2010年9月30日  |                                                   |
 | 5.5 GNOME/KDE                 | 2011年1月27日  |                                                   |
 | 6 GNOME/KDE                   | 2011年6月23日  |                                                   |
@@ -116,13 +106,8 @@ Sabayon为用户提供的是LiveDVD镜像，用户可以从光盘运行Sabayon�
 
 ## 注释
 
-[Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")
-[Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
-[Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:Gentoo_Linux](https://zh.wikipedia.org/wiki/Category:Gentoo_Linux "wikilink")
+[Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:Gentoo_Linux](https://zh.wikipedia.org/wiki/Category:Gentoo_Linux "wikilink")
 
-1.  [Information about Sabayon Linux — Sabayon Linux
-    Wiki](http://wiki.sabayon.org/index.php?title=En:Sabayon_Linux)
+1.  [Information about Sabayon Linux — Sabayon Linux Wiki](http://wiki.sabayon.org/index.php?title=En:Sabayon_Linux)
 2.
 3.  <http://distrowatch.com/table.php?distribution=sabayon>

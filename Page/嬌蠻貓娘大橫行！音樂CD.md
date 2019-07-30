@@ -1,10 +1,8 @@
-『**嬌蠻貓娘大橫行！音樂CD**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[嬌蠻貓娘大橫行](https://zh.wikipedia.org/wiki/嬌蠻貓娘大橫行 "wikilink")』的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。在2010年7月30日和同年8月27日由Geneon
-Universal Entertainment發售。
+『**嬌蠻貓娘大橫行！音樂CD**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[嬌蠻貓娘大橫行](https://zh.wikipedia.org/wiki/嬌蠻貓娘大橫行 "wikilink")』的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。在2010年7月30日和同年8月27日由Geneon Universal Entertainment發售。
 
 ## 概要
 
-  - 除了電視動畫本編的[BGM](https://zh.wikipedia.org/wiki/BGM "wikilink")，Vol.1收錄TV
-    size的主題曲和第6話片尾曲「迷猫同好会之歌」的整首歌，Vol.2則有『勇者超人グランブレイバー』的主題歌（整首）和BGM，第11談話的插入歌和片尾曲亦有收錄。
+  - 除了電視動畫本編的[BGM](https://zh.wikipedia.org/wiki/BGM "wikilink")，Vol.1收錄TV size的主題曲和第6話片尾曲「迷猫同好会之歌」的整首歌，Vol.2則有『勇者超人グランブレイバー』的主題歌（整首）和BGM，第11談話的插入歌和片尾曲亦有收錄。
   - 音樂是[高木隆次担当](https://zh.wikipedia.org/wiki/高木隆次 "wikilink")。
 
 ## Vol.1
@@ -13,9 +11,7 @@ Universal Entertainment發售。
 
 ### 收錄曲
 
-1.  **[はっぴぃ にゅう
-    にゃあ](https://zh.wikipedia.org/wiki/はっぴぃ_にゅう_にゃあ/イチャラブ_Come_Home! "wikilink")（TV-SIZE）**
-    \[1:34\]
+1.  **[はっぴぃ にゅう にゃあ](https://zh.wikipedia.org/wiki/はっぴぃ_にゅう_にゃあ/イチャラブ_Come_Home! "wikilink")（TV-SIZE）** \[1:34\]
       -
         歌：芹澤文乃（[伊藤加奈惠](../Page/伊藤加奈惠.md "wikilink")）、梅之森千世（[井口裕香](../Page/井口裕香.md "wikilink")）、霧谷希（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）
         作詞：[くまのきよみ](https://zh.wikipedia.org/wiki/くまのきよみ "wikilink")、作曲・編曲：高木隆次
@@ -36,9 +32,7 @@ Universal Entertainment發售。
       - [主題曲](../Page/主題曲.md "wikilink")（第6話）
 10. 迷い猫の記憶 \[3:32\]
 11. 巧の優しさ \[5:18\]
-12. **[イチャラブ Come
-    Home\!](https://zh.wikipedia.org/wiki/はっぴぃ_にゅう_にゃあ/イチャラブ_Come_Home! "wikilink")（TV-SIZE）**
-    \[1:32\]
+12. **[イチャラブ Come Home\!](https://zh.wikipedia.org/wiki/はっぴぃ_にゅう_にゃあ/イチャラブ_Come_Home! "wikilink")（TV-SIZE）** \[1:32\]
       -
         歌：芹澤澤くまのきよみ、作曲・編曲：高木隆次
     <!-- end list -->
@@ -87,11 +81,9 @@ Universal Entertainment發售。
 
 ## 外部連結
 
-  - [『迷い猫オーバーラン\!』公式サイト
-    リリース情報](http://www.patisserie-straycats.com/goods_cd.html)
+  - [『迷い猫オーバーラン\!』公式サイト リリース情報](http://www.patisserie-straycats.com/goods_cd.html)
 
-[Category:2010年原聲帶](https://zh.wikipedia.org/wiki/Category:2010年原聲帶 "wikilink")
-[Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink")
+[Category:2010年原聲帶](https://zh.wikipedia.org/wiki/Category:2010年原聲帶 "wikilink") [Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink")
 
 1.  アニメでの曲名は「スパッツの歌」。
 2.  アニメでの曲名は「ブルマの歌」。

@@ -1,15 +1,12 @@
-北京寰宇行思广告服务有限公司联合全国地方电台建立的[音乐](../Page/音乐.md "wikilink")[广播网](https://zh.wikipedia.org/wiki/广播 "wikilink")。合作形式是由地方电台提供广播[频率播出](https://zh.wikipedia.org/wiki/频率 "wikilink")，寰宇提供节目运营外包服务。台呼为“MY
-FM \[具体频率\]，随时随心，好音乐”。
+北京寰宇行思广告服务有限公司联合全国地方电台建立的[音乐](../Page/音乐.md "wikilink")[广播网](https://zh.wikipedia.org/wiki/广播 "wikilink")。合作形式是由地方电台提供广播[频率播出](https://zh.wikipedia.org/wiki/频率 "wikilink")，寰宇提供节目运营外包服务。台呼为“MY FM \[具体频率\]，随时随心，好音乐”。
 
 ## 背景
 
-北京寰宇行思广告服务有限公司是[马来西亚](../Page/马来西亚.md "wikilink")寰宇集团在[北京设立的外资独资广告服务公司](https://zh.wikipedia.org/wiki/北京 "wikilink")，而马来西亚的[My
-FM正是寰宇所拥有的电台](../Page/MY_\(马来西亚电台\).md "wikilink")。
+北京寰宇行思广告服务有限公司是[马来西亚](../Page/马来西亚.md "wikilink")寰宇集团在[北京设立的外资独资广告服务公司](https://zh.wikipedia.org/wiki/北京 "wikilink")，而马来西亚的[My FM正是寰宇所拥有的电台](../Page/MY_\(马来西亚电台\).md "wikilink")。
 
 ## 成员
 
-截止2016年，My
-FM在[南京](https://zh.wikipedia.org/wiki/南京 "wikilink")，[江西](https://zh.wikipedia.org/wiki/江西 "wikilink")，[陕西](https://zh.wikipedia.org/wiki/陕西 "wikilink")，[新疆](https://zh.wikipedia.org/wiki/新疆 "wikilink")，[长春](https://zh.wikipedia.org/wiki/长春 "wikilink")，[安徽](https://zh.wikipedia.org/wiki/安徽 "wikilink")，[湖南](https://zh.wikipedia.org/wiki/湖南 "wikilink")，[天津](https://zh.wikipedia.org/wiki/天津 "wikilink")，廣州等地建立了成员台。
+截止2016年，My FM在[南京](https://zh.wikipedia.org/wiki/南京 "wikilink")，[江西](https://zh.wikipedia.org/wiki/江西 "wikilink")，[陕西](https://zh.wikipedia.org/wiki/陕西 "wikilink")，[新疆](https://zh.wikipedia.org/wiki/新疆 "wikilink")，[长春](https://zh.wikipedia.org/wiki/长春 "wikilink")，[安徽](https://zh.wikipedia.org/wiki/安徽 "wikilink")，[湖南](https://zh.wikipedia.org/wiki/湖南 "wikilink")，[天津](https://zh.wikipedia.org/wiki/天津 "wikilink")，廣州等地建立了成员台。
 
 ### [南京人民广播电台My](https://zh.wikipedia.org/wiki/南京人民广播电台 "wikilink") FM 103.5
 
@@ -56,9 +53,7 @@ FM在[南京](https://zh.wikipedia.org/wiki/南京 "wikilink")，[江西](https:
 
 [Category:中国电台广播网](https://zh.wikipedia.org/wiki/Category:中国电台广播网 "wikilink")
 
-1.  [6月18日15：35，南京人民广播电台汪湃台长转动巨大的收音机调频旋钮，MY FM 103.5的呼号响遍南京，宣告MY
-    FM 103.5正式开播。（南京报业网）](http://www.5bcl.com/Article/Class3/200908/3375.html)
-
+1.  [6月18日15：35，南京人民广播电台汪湃台长转动巨大的收音机调频旋钮，MY FM 103.5的呼号响遍南京，宣告MY FM 103.5正式开播。（南京报业网）](http://www.5bcl.com/Article/Class3/200908/3375.html)
 2.  [江西交通信息广播MY FM 96.9在线收听](http://blog.gbtai.cn/?p=1846)
 3.  [合肥热线新闻](http://www.hefei.cc/news_view.php?d=7201)
 4.  电台宣传广告中FM97.5不含株洲，FM96.9不含湘潭

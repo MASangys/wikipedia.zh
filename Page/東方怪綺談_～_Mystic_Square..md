@@ -1,10 +1,8 @@
-[Mystic_Square.png](https://zh.wikipedia.org/wiki/File:Mystic_Square.png "fig:Mystic_Square.png")
-是日本遊戲開發者[ZUN製作的](../Page/ZUN.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[东方Project的第五部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，也是该系列在[PC-98平台的最后一作](https://zh.wikipedia.org/wiki/PC-98 "wikilink")。
+[Mystic_Square.png](https://zh.wikipedia.org/wiki/File:Mystic_Square.png "fig:Mystic_Square.png") 是日本遊戲開發者[ZUN](../Page/ZUN.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[东方Project的第五部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，也是该系列在[PC-98平台的最后一作](https://zh.wikipedia.org/wiki/PC-98 "wikilink")。
 
 ## 概要
 
-这是东方Project的第五部作品，是该系列在PC-98平台的最后一部作品，发布于[Comic
-Market](../Page/Comic_Market.md "wikilink")55，依然为[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，基本和后来的[windows平台的系统无太大差别](https://zh.wikipedia.org/wiki/windows "wikilink")。
+这是东方Project的第五部作品，是该系列在PC-98平台的最后一部作品，发布于[Comic Market](../Page/Comic_Market.md "wikilink")55，依然为[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，基本和后来的[windows平台的系统无太大差别](https://zh.wikipedia.org/wiki/windows "wikilink")。
 
 除外，出于纪念的原因，本作以重编的方式将前四作所使用过和未被使用的音乐也一并收录于本作的音乐屋中。
 
@@ -14,8 +12,7 @@ Market](../Page/Comic_Market.md "wikilink")55，依然为[弹幕射击游戏](ht
 
 ## 游戏系统
 
-[th5_gameplay.png](https://zh.wikipedia.org/wiki/File:th5_gameplay.png "fig:th5_gameplay.png")
-虽然受限于[PC-98的硬件性能](https://zh.wikipedia.org/wiki/PC-98 "wikilink")，但基本与[Windows平台的系统无异](https://zh.wikipedia.org/wiki/Windows "wikilink")。对玩家的操作有更明确的奖罚，如更为合理的计分系统，对在高位收集“点”道具给予奖励或过度使用炸弹的惩罚。
+[th5_gameplay.png](https://zh.wikipedia.org/wiki/File:th5_gameplay.png "fig:th5_gameplay.png") 虽然受限于[PC-98的硬件性能](https://zh.wikipedia.org/wiki/PC-98 "wikilink")，但基本与[Windows平台的系统无异](https://zh.wikipedia.org/wiki/Windows "wikilink")。对玩家的操作有更明确的奖罚，如更为合理的计分系统，对在高位收集“点”道具给予奖励或过度使用炸弹的惩罚。
 
 ## 登场角色
 
@@ -178,8 +175,7 @@ Market](../Page/Comic_Market.md "wikilink")55，依然为[弹幕射击游戏](ht
 ## 音乐
 
 1.  ****（译名：怪綺談　～ Mystic Square ） - 标题曲
-2.  ****（译名：高速夢想 ） -
-    第1关卡[BGM](https://zh.wikipedia.org/wiki/背景音乐 "wikilink")
+2.  ****（译名：高速夢想 ） - 第1关卡[BGM](https://zh.wikipedia.org/wiki/背景音乐 "wikilink")
 3.  ****（译名：魔法陣　～ Magic Square ） - 第1关卡头目（沙罗）BGM
 4.  ****（译名：夢想時空 ） - 第2关卡BGM
 5.  ****（译名：靈天　～神聖天堂 ） - 第2关卡头目（露伊兹）BGM
@@ -202,32 +198,24 @@ Market](../Page/Comic_Market.md "wikilink")55，依然为[弹幕射击游戏](ht
 22. ****（译名：Peaceful Romancer ） - Extra结局BGM
 23. ****（译名：魂的休息地 ） - 登记玩家名称BGM
 
-收录于音乐专辑'''「[幺乐团的历史 ～ Akyu's Untouched Score
-vol.2](https://zh.wikipedia.org/wiki/上海愛莉絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」
-'''
+收录于音乐专辑'''「[幺乐团的历史 ～ Akyu's Untouched Score vol.2](https://zh.wikipedia.org/wiki/上海愛莉絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」 '''
 
 ## 附注
 
 ## 外部链接
 
   - [上海アリス幻樂団](http://www16.big.or.jp/~zun/)
-  - [Amusement
-    Makers（旧）公式サイト](https://www.webcitation.org/654TL2n6o?url=http://www.kt.rim.or.jp/~aotaka/am/index.htm)
+  - [Amusement Makers（旧）公式サイト](https://www.webcitation.org/654TL2n6o?url=http://www.kt.rim.or.jp/~aotaka/am/index.htm)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.  『怪綺談』のExtraエンディングでは、『靈異伝』から『怪綺談』までの5作品に登場するオールキャストの名前と二つ名が英字で表記されている。ただし『靈異伝』からは靈夢のみ。『封魔録』以降でも、玄爺と名無しのボスキャラクターは表記されていない。
 
 2.
-3.  在[東方妖妖夢 ～ Perfect Cherry
-    Blossom.指为先天魔法使](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom..md "wikilink")，但在“求闻史纪”指其原来为人类，是后天修炼成的魔法使
+3.  在[東方妖妖夢 ～ Perfect Cherry Blossom.指为先天魔法使](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom..md "wikilink")，但在“求闻史纪”指其原来为人类，是后天修炼成的魔法使
 
 4.
-5.  PC-98版では姓がなく、Windows版とは服装が異なっている。『妖々夢』のアリスについて、ZUNは
-    で「東方怪綺談（シリーズ第5弾）でも3面ボス」「霊夢達と3戦目」「（『怪綺談』のアリスと）一応、同一人物ですが、ストーリー的には一切関係ありません」と発言している。
+5.  PC-98版では姓がなく、Windows版とは服装が異なっている。『妖々夢』のアリスについて、ZUNは  で「東方怪綺談（シリーズ第5弾）でも3面ボス」「霊夢達と3戦目」「（『怪綺談』のアリスと）一応、同一人物ですが、ストーリー的には一切関係ありません」と発言している。
 
 6.
 7.

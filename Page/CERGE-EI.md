@@ -1,26 +1,20 @@
-**经济研究与研究生教育中心-经济学院**（CERGE-EI），是位於[捷克首都](../Page/捷克.md "wikilink")[布拉格的一所提供](../Page/布拉格.md "wikilink")[美国式](../Page/美国.md "wikilink")[经济学](../Page/经济学.md "wikilink")[硕士与](../Page/硕士.md "wikilink")[博士研究生教育项目的学术](../Page/博士.md "wikilink")[研究机构](https://zh.wikipedia.org/wiki/研究机构 "wikilink")，同时，它还开设应用经济学领域的硕士研究生项目（应用经济学硕士）以及本科生教学项目（中欧研究，UPCES），以上各个学位的授予都遵循[纽约州立大学校董会所颁布的章程](../Page/纽约州立大学.md "wikilink")。研究中心（CERGE-EI）的研究工作涵盖经济学的理论与应用、政策相关等领域。
+**经济研究与研究生教育中心-经济学院**（CERGE-EI），是位於[捷克](../Page/捷克.md "wikilink")首都[布拉格](../Page/布拉格.md "wikilink")的一所提供[美国](../Page/美国.md "wikilink")式[经济学](../Page/经济学.md "wikilink")[硕士](../Page/硕士.md "wikilink")与[博士](../Page/博士.md "wikilink")研究生教育项目的学术[研究机构](https://zh.wikipedia.org/wiki/研究机构 "wikilink")，同时，它还开设应用经济学领域的硕士研究生项目（应用经济学硕士）以及本科生教学项目（中欧研究，UPCES），以上各个学位的授予都遵循[纽约州立大学](../Page/纽约州立大学.md "wikilink")校董会所颁布的章程。研究中心（CERGE-EI）的研究工作涵盖经济学的理论与应用、政策相关等领域。
 
-经济研究与研究生教育中心-经济学院（CERGE-EI）是由[布拉格查理大学的经济研究与研究生教育中心](../Page/布拉格查理大学.md "wikilink")（CERGE）会同[捷克共和国科学院的经济学院](https://zh.wikipedia.org/wiki/捷克共和国科学院 "wikilink")（EI）共同组建的。本学院（CERGE-EI）创建于1991年，创始人包括扬·施维纳（Jan
-Švejnar）与约瑟夫·兹兰涅茨（Jozef
-Zieleniec），目的是教育出新一代来自于前[共产主义国家的经济学家](../Page/共产主义.md "wikilink")。现今在学院进行学习的学生来自中东部[欧洲](../Page/欧洲.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、各个前[苏维埃共和国](https://zh.wikipedia.org/wiki/苏维埃 "wikilink")、[中亚以及其他国家](../Page/中亚.md "wikilink")。
+经济研究与研究生教育中心-经济学院（CERGE-EI）是由[布拉格查理大学](../Page/布拉格查理大学.md "wikilink")的经济研究与研究生教育中心（CERGE）会同[捷克共和国科学院的经济学院](https://zh.wikipedia.org/wiki/捷克共和国科学院 "wikilink")（EI）共同组建的。本学院（CERGE-EI）创建于1991年，创始人包括扬·施维纳（Jan Švejnar）与约瑟夫·兹兰涅茨（Jozef Zieleniec），目的是教育出新一代来自于前[共产主义](../Page/共产主义.md "wikilink")国家的经济学家。现今在学院进行学习的学生来自中东部[欧洲](../Page/欧洲.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、各个前[苏维埃共和国](https://zh.wikipedia.org/wiki/苏维埃 "wikilink")、[中亚](../Page/中亚.md "wikilink")以及其他国家。
 
 ## 学术研究群体
 
-学院现有的将近120名学生源自全世界的30多个国家，主要生源来自中东部欧洲以及前苏维埃国家。学院的固定教员由来自不同国家的19名学者构成。大多数教员拥有美国或西欧著名大学的博士学位。
-新的学院成员则是招募自国际人才市场中的学院派经济学家。学院的工作语言为英语。
+学院现有的将近120名学生源自全世界的30多个国家，主要生源来自中东部欧洲以及前苏维埃国家。学院的固定教员由来自不同国家的19名学者构成。大多数教员拥有美国或西欧著名大学的博士学位。 新的学院成员则是招募自国际人才市场中的学院派经济学家。学院的工作语言为英语。
 
 ## 教学项目
 
 ### 硕士/博士研究生项目
 
-博士研究生项目的课程设计遵循美国式经济学研究生的培养模板，由两年的课程学习以及两年或两年以上的论文指导研究构成。成功完成两年课程学习的学生将被授予硕士学位。本学院（CERGE-EI）的学生经常会有机会在位于西欧或北美的合作大学中完成部分论文。
-本学院（CERGE-EI）的毕业生广泛受雇于各种国际组织，例如，国际货币基金组织（IMF）、欧洲复兴开发银行（EBRD）、大学、咨询公司、私人金融研究机构以及各地区中央银行与政府部门。尽管有部分本学院（CERGE-EI）的毕业生在毕业之后转向了管理咨询岗位，本学院（CERGE-EI）的经济学硕士/博士学位（CERGE-EI
-MA/PhD）不应被混淆为商业管理硕士学位（MBA）。
+博士研究生项目的课程设计遵循美国式经济学研究生的培养模板，由两年的课程学习以及两年或两年以上的论文指导研究构成。成功完成两年课程学习的学生将被授予硕士学位。本学院（CERGE-EI）的学生经常会有机会在位于西欧或北美的合作大学中完成部分论文。 本学院（CERGE-EI）的毕业生广泛受雇于各种国际组织，例如，国际货币基金组织（IMF）、欧洲复兴开发银行（EBRD）、大学、咨询公司、私人金融研究机构以及各地区中央银行与政府部门。尽管有部分本学院（CERGE-EI）的毕业生在毕业之后转向了管理咨询岗位，本学院（CERGE-EI）的经济学硕士/博士学位（CERGE-EI MA/PhD）不应被混淆为商业管理硕士学位（MBA）。
 
 ### 财务支持
 
-多数被录取入硕士/博士项目的学生在前两年的学习中将获得减免学费与发放生活补贴的支持。几乎所有选择在两年后继续博士阶段学习的学生将获得减免学费与生活补贴的财务支持。
-五年级生将受雇为学院初级研究员（JEIRs），从而以支领薪水的方式获得财务支持。通过选拔的三年级或四年级学生也有机会获得同样方式的支持。
+多数被录取入硕士/博士项目的学生在前两年的学习中将获得减免学费与发放生活补贴的支持。几乎所有选择在两年后继续博士阶段学习的学生将获得减免学费与生活补贴的财务支持。 五年级生将受雇为学院初级研究员（JEIRs），从而以支领薪水的方式获得财务支持。通过选拔的三年级或四年级学生也有机会获得同样方式的支持。
 
 ### 学术技巧中心
 
@@ -40,26 +34,18 @@ MA/PhD）不应被混淆为商业管理硕士学位（MBA）。
 
 ## 赞助
 
-本学院（CERGE-EI）的财政支持来自于捷克政府的教育与研究资助以及捷克与国外机构的资助，同时来自于私人、基金、企业的捐助也是重要的组成部分。资金募集的工作是由两个下属机构完成的：学院基金（CERGE-EI
-Foundation U.S.A.）以及Nadace CERGE-EI。部分资金也来自学生的学费缴纳。
+本学院（CERGE-EI）的财政支持来自于捷克政府的教育与研究资助以及捷克与国外机构的资助，同时来自于私人、基金、企业的捐助也是重要的组成部分。资金募集的工作是由两个下属机构完成的：学院基金（CERGE-EI Foundation U.S.A.）以及Nadace CERGE-EI。部分资金也来自学生的学费缴纳。
 
 ## 外部链接
 
-  - [CERGE-EI's official
-    website](https://web.archive.org/web/20070316135642/http://www.cerge-ei.cz/)
-  - [Official website for the Ph.D.
-    program](http://www.cerge-ei.cz/phd-program/the-phd-program)
+  - [CERGE-EI's official website](https://web.archive.org/web/20070316135642/http://www.cerge-ei.cz/)
+  - [Official website for the Ph.D. program](http://www.cerge-ei.cz/phd-program/the-phd-program)
   - [Official website for the MAE program](http://www.cerge-ei.cz/mae)
   - [UPCES Study Abroad official website](http://upces.cerge-ei.cz)
-  - [Charles University's official website (in
-    English)](http://www.cuni.cz/UKENG-1.html)
-  - [Academy of Sciences of the Czech Republic official website (in
-    English)](http://www.avcr.cz/index.html)
+  - [Charles University's official website (in English)](http://www.cuni.cz/UKENG-1.html)
+  - [Academy of Sciences of the Czech Republic official website (in English)](http://www.avcr.cz/index.html)
   - [CERGE-EI Foundation USA](http://www.cerge-ei.cz/donors/foundation/)
-  - [Foundation Nadace
-    CERGE-EI](https://web.archive.org/web/20110118030923/http://www.cerge-ei.cz/donors/nadace)
-  - [The William Davidson Institute, University of
-    Michigan](http://www.wdi.umich.edu/)
+  - [Foundation Nadace CERGE-EI](https://web.archive.org/web/20110118030923/http://www.cerge-ei.cz/donors/nadace)
+  - [The William Davidson Institute, University of Michigan](http://www.wdi.umich.edu/)
 
-[Category:捷克大学](https://zh.wikipedia.org/wiki/Category:捷克大学 "wikilink")
-[Category:经济学院](https://zh.wikipedia.org/wiki/Category:经济学院 "wikilink")
+[Category:捷克大学](https://zh.wikipedia.org/wiki/Category:捷克大学 "wikilink") [Category:经济学院](https://zh.wikipedia.org/wiki/Category:经济学院 "wikilink")

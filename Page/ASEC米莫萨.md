@@ -1,4 +1,4 @@
-**ASEC米莫萨**，又称**阿比让ASEC**，是[科特迪瓦](../Page/科特迪瓦.md "wikilink")[阿比让的一个](../Page/阿比让.md "wikilink")[足球俱乐部](../Page/足球.md "wikilink")。成立于1948年。
+**ASEC米莫萨**，又称**阿比让ASEC**，是[科特迪瓦](../Page/科特迪瓦.md "wikilink")[阿比让](../Page/阿比让.md "wikilink")的一个[足球](../Page/足球.md "wikilink")俱乐部。成立于1948年。
 
 该队为科特迪瓦联赛的一支强队，曾夺得1998年[非洲冠军联赛冠军](https://zh.wikipedia.org/wiki/非洲冠军联赛 "wikilink")。
 
@@ -16,7 +16,6 @@
 
   - [Official website](http://www.asec.ci)
 
-[Category:科特迪瓦足球](https://zh.wikipedia.org/wiki/Category:科特迪瓦足球 "wikilink")
-[Category:1948年建立的足球俱樂部](https://zh.wikipedia.org/wiki/Category:1948年建立的足球俱樂部 "wikilink")
+[Category:科特迪瓦足球](https://zh.wikipedia.org/wiki/Category:科特迪瓦足球 "wikilink") [Category:1948年建立的足球俱樂部](https://zh.wikipedia.org/wiki/Category:1948年建立的足球俱樂部 "wikilink")
 
 1.

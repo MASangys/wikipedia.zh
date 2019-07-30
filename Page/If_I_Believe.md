@@ -1,16 +1,11 @@
-《**If I
-Believe**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣第四張專輯](../Page/倉木麻衣.md "wikilink")，於2003年7月9日發行。
+《**If I Believe**》是[日本](../Page/日本.md "wikilink")歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")第四張專輯，於2003年7月9日發行。
 
 ## 背景
 
   - 與前作「[FAIRY TALE](../Page/FAIRY_TALE.md "wikilink")」相距約九個月時間。
-  - 自出道作「[delicious
-    way](https://zh.wikipedia.org/wiki/delicious_way "wikilink")」以來連續第四張專輯獲得[oricon榜首位](https://zh.wikipedia.org/wiki/oricon "wikilink")。
-  - 收錄單曲「[Make my day](../Page/Make_my_day_\(倉木麻衣單曲\).md "wikilink")」、「
-    [Time after time
-    ～在落花紛飛的街道上～](../Page/Time_after_time_～在落花紛飛的街道上～.md "wikilink")」、「[Kiss](../Page/Kiss_\(倉木麻衣單曲\).md "wikilink")」、「[風的啦啦啦](../Page/風的啦啦啦.md "wikilink")」。
-  - 「**Tonight, I feel close to
-    you**」為與[新加坡](../Page/新加坡.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫燕姿的合唱歌](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")。
+  - 自出道作「[delicious way](https://zh.wikipedia.org/wiki/delicious_way "wikilink")」以來連續第四張專輯獲得[oricon榜首位](https://zh.wikipedia.org/wiki/oricon "wikilink")。
+  - 收錄單曲「[Make my day](../Page/Make_my_day_\(倉木麻衣單曲\).md "wikilink")」、「 [Time after time ～在落花紛飛的街道上～](../Page/Time_after_time_～在落花紛飛的街道上～.md "wikilink")」、「[Kiss](../Page/Kiss_\(倉木麻衣單曲\).md "wikilink")」、「[風的啦啦啦](../Page/風的啦啦啦.md "wikilink")」。
+  - 「**Tonight, I feel close to you**」為與[新加坡](../Page/新加坡.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫燕姿的合唱歌](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")。
   - 專輯曲「If I Believe」跟「SAME」分別拍攝了PV。
   - 初動銷量25萬，累積銷量44萬，在榜週數達16週。
 
@@ -18,9 +13,7 @@ Believe**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣第四�
 
 1.  **If I Believe**
       - 作詞：倉木麻衣 作曲：大野愛果 編曲：Cybersound
-2.  **[Time after time
-    ～在落花紛飛的街道上～](../Page/Time_after_time_～在落花紛飛的街道上～.md "wikilink")**
-    (theater version)
+2.  **[Time after time ～在落花紛飛的街道上～](../Page/Time_after_time_～在落花紛飛的街道上～.md "wikilink")** (theater version)
       - 作詞：倉木麻衣 作曲：大野愛果 編曲：池田大介・Cybersound
 3.  **[風的啦啦啦](../Page/風的啦啦啦.md "wikilink")**
       - 作詞：倉木麻衣 作曲：春畑道哉 編曲：Cybersound
@@ -28,11 +21,9 @@ Believe**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣第四�
       - 作詞：倉木麻衣 作曲： Yoko B. Stone 編曲：Cybersound
 5.  **mi corazón**
       - 作詞：倉木麻衣 作曲：M. Africk・M. Pessoa・Perry Geyer 編曲：M. Pessoa
-6.  **[I don't wanna lose
-    you](../Page/Make_my_day_\(倉木麻衣單曲\).md "wikilink")**
+6.  **[I don't wanna lose you](../Page/Make_my_day_\(倉木麻衣單曲\).md "wikilink")**
       - 作詞：倉木麻衣 作曲・編曲：徳永曉人
-7.  **[Make my day](../Page/Make_my_day_\(倉木麻衣單曲\).md "wikilink")**
-    〜album version〜
+7.  **[Make my day](../Page/Make_my_day_\(倉木麻衣單曲\).md "wikilink")** 〜album version〜
       - 作詞：倉木麻衣 作曲：徳永曉人 編曲：Cybersound
 8.  **SAME**
       - 作詞：倉木麻衣 作曲・編曲：M. Africk・M. Pessoa・Perry Geyer・J.Risk
@@ -44,7 +35,7 @@ Believe**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣第四�
       - 作詞：倉木麻衣、西室斗紀子 作曲：大野愛果 編曲：Cybersound
     <!-- end list -->
       -
-        與[新加坡歌手](../Page/新加坡.md "wikilink")[孫燕姿合唱的歌](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")。
+        與[新加坡](../Page/新加坡.md "wikilink")歌手[孫燕姿合唱的歌](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")。
 
 ## 銷量
 
@@ -63,6 +54,4 @@ Believe**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣第四�
 
 </div>
 
-[Category:倉木麻衣音樂專輯](https://zh.wikipedia.org/wiki/Category:倉木麻衣音樂專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
-[Category:2003年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:倉木麻衣音樂專輯](https://zh.wikipedia.org/wiki/Category:倉木麻衣音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:2003年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon專輯週榜冠軍作品 "wikilink")

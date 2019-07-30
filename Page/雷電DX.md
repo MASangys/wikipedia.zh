@@ -1,21 +1,18 @@
-是由Seibu開發（）於1994年上市的縱向[捲軸射擊類型](https://zh.wikipedia.org/wiki/捲軸射擊 "wikilink")[街機遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")，[雷電系列的第三部作品](https://zh.wikipedia.org/wiki/雷電系列 "wikilink")。後來在1997年4月11日由日本System（日本システム）發售[PlayStation版](../Page/PlayStation.md "wikilink")，2000年10月26日由Hamster發售廉價版《雷電DX
-Major Wave1500系列》（）。\[1\]
+是由Seibu開發（）於1994年上市的縱向[捲軸射擊類型](https://zh.wikipedia.org/wiki/捲軸射擊 "wikilink")[街機遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")，[雷電系列的第三部作品](https://zh.wikipedia.org/wiki/雷電系列 "wikilink")。後來在1997年4月11日由日本System（日本システム）發售[PlayStation](../Page/PlayStation.md "wikilink")版，2000年10月26日由Hamster發售廉價版《雷電DX Major Wave1500系列》（）。\[1\]
 
 ## 與雷電II的不同
 
-雷電DX大致上與[雷電II雷同](../Page/雷電II.md "wikilink")，主要的分別是在於在雷電DX中，玩家可選擇「初級」﹑「中級」和「高級」關卡。
+雷電DX大致上與[雷電II](../Page/雷電II.md "wikilink")雷同，主要的分別是在於在雷電DX中，玩家可選擇「初級」﹑「中級」和「高級」關卡。
 
-  - 初級（Alpha Mode）：只有一關，一個BOSS，分為「農村」﹑「城市」﹑「軍事基地」三個區。玩家在此級別中如果Game
-    Over，不可再繼續玩下去，只可重新開始或選擇另一級別。
-  - 中級（Bravo Mode）：一共有五關，而那五關與[雷電II相同](../Page/雷電II.md "wikilink")。
-  - 高級〔Expert
-    Mode〕：一共有九關，前五關是中級關卡的改造，後四關都在太空進行，可謂是中級的延續版本。第九關是一個特別關卡，玩家不死命且不使用炸彈才能夠到達，而那關卡是在一結冰的微型行星進行，BOSS為巨型坦克。
+  - 初級（Alpha Mode）：只有一關，一個BOSS，分為「農村」﹑「城市」﹑「軍事基地」三個區。玩家在此級別中如果Game Over，不可再繼續玩下去，只可重新開始或選擇另一級別。
+  - 中級（Bravo Mode）：一共有五關，而那五關與[雷電II](../Page/雷電II.md "wikilink")相同。
+  - 高級〔Expert Mode〕：一共有九關，前五關是中級關卡的改造，後四關都在太空進行，可謂是中級的延續版本。第九關是一個特別關卡，玩家不死命且不使用炸彈才能夠到達，而那關卡是在一結冰的微型行星進行，BOSS為巨型坦克。
 
 ## 遊戲
 
 ### 關卡
 
-與初代[雷電和](../Page/雷電_\(遊戲\).md "wikilink")[雷電II是有所不同的](../Page/雷電II.md "wikilink")，不同的級別有不同的關卡數目，不過BOSS也是由紅色水晶生命體來操控BOSS機體，機體遭擊破之後，水晶生命體會逃跑。而值得一提的是，不是所有紅色水晶生命體都在BOSS機體內，中途的巨型坦克都有，如中級和高級的第二關之兩艘水陸兩用坦克。
+與初代[雷電和](../Page/雷電_\(遊戲\).md "wikilink")[雷電II](../Page/雷電II.md "wikilink")是有所不同的，不同的級別有不同的關卡數目，不過BOSS也是由紅色水晶生命體來操控BOSS機體，機體遭擊破之後，水晶生命體會逃跑。而值得一提的是，不是所有紅色水晶生命體都在BOSS機體內，中途的巨型坦克都有，如中級和高級的第二關之兩艘水陸兩用坦克。
 
 #### 初級
 
@@ -103,12 +100,8 @@ BOSS為巨大太空坦克。
   - [Hamster page](http://www.hamster.co.jp/products/soft.cgi?ps&86656)
 
   -
-  - [Raiden
-    DX@worldofstuart](http://worldofstuart.excellentcontent.com/raidendx.htm)
+  - [Raiden DX@worldofstuart](http://worldofstuart.excellentcontent.com/raidendx.htm)
 
-[Category:雷电系列](https://zh.wikipedia.org/wiki/Category:雷电系列 "wikilink")
-[Category:1994年电子游戏](https://zh.wikipedia.org/wiki/Category:1994年电子游戏 "wikilink")
-[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
-[Category:PlayStation_(遊戲機)遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_\(遊戲機\)遊戲 "wikilink")
+[Category:雷电系列](https://zh.wikipedia.org/wiki/Category:雷电系列 "wikilink") [Category:1994年电子游戏](https://zh.wikipedia.org/wiki/Category:1994年电子游戏 "wikilink") [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:PlayStation_(遊戲機)遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_\(遊戲機\)遊戲 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-**丹麥對女同性戀、男同性戀、雙性戀與跨性別者權益**的保障相當完善。1989年，[丹麥通過](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[民事結合法案](../Page/民事結合.md "wikilink")，允許同性伴侶享有和異性伴侶相同的權利，是全球第一個通過類似法案的國家。
+**丹麥對女同性戀、男同性戀、雙性戀與跨性別者權益**的保障相當完善。1989年，[丹麥通過](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[民事結合](../Page/民事結合.md "wikilink")法案，允許同性伴侶享有和異性伴侶相同的權利，是全球第一個通過類似法案的國家。
 
 ## 同性性行為相關法律
 
@@ -6,7 +6,7 @@
 
 ## 同性伴侶關係
 
-丹麥是全球第一個通過民事結合法案，允許同性伴侶享有和異性戀相同的權利，例如贍養、財務、稅收、移民等民法行為的國家。另外，[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")、[女同性戀是否可藉](../Page/女同性戀.md "wikilink")[人工授精產子與同性伴侶是否可擁有收養權](../Page/人工授精.md "wikilink")，是當時[丹麥國會的重要議題](https://zh.wikipedia.org/wiki/丹麥國會 "wikilink")。
+丹麥是全球第一個通過民事結合法案，允許同性伴侶享有和異性戀相同的權利，例如贍養、財務、稅收、移民等民法行為的國家。另外，[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")、[女同性戀](../Page/女同性戀.md "wikilink")是否可藉[人工授精](../Page/人工授精.md "wikilink")產子與同性伴侶是否可擁有收養權，是當時[丹麥國會的重要議題](https://zh.wikipedia.org/wiki/丹麥國會 "wikilink")。
 
 ## 同性婚姻
 
@@ -46,17 +46,12 @@
 
 ## 參考文獻
 
-[Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink")
-[Category:丹麥LGBT權益](https://zh.wikipedia.org/wiki/Category:丹麥LGBT權益 "wikilink")
+[Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink") [Category:丹麥LGBT權益](https://zh.wikipedia.org/wiki/Category:丹麥LGBT權益 "wikilink")
 
 1.
-2.  [Gay marriage
-    legalised](http://cphpost.dk/news/national/updated-gay-marriage-legalised)
-
-3.  [Danish lawmakers approve church weddings for same-sex
-    couples](http://www.washingtonpost.com/world/europe/danish-lawmakers-approve-church-weddings-for-same-sex-couples/2012/06/07/gJQAcOAxKV_story.html)
-4.  [Denmark approves gay weddings in
-    church](http://www.dailytelegraph.com.au/news/breaking-news/denmark-approves-gay-weddings-in-church/story-e6freuyi-1226388155168)
+2.  [Gay marriage legalised](http://cphpost.dk/news/national/updated-gay-marriage-legalised)
+3.  [Danish lawmakers approve church weddings for same-sex couples](http://www.washingtonpost.com/world/europe/danish-lawmakers-approve-church-weddings-for-same-sex-couples/2012/06/07/gJQAcOAxKV_story.html)
+4.  [Denmark approves gay weddings in church](http://www.dailytelegraph.com.au/news/breaking-news/denmark-approves-gay-weddings-in-church/story-e6freuyi-1226388155168)
 5.
 6.
 7.

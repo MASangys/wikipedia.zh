@@ -1,5 +1,4 @@
-《**We Are Compassion**》是韓國Compassion所屬的音樂組合**Compassion
-Band**在2010年6月3日發行的單曲。\[1\]
+《**We Are Compassion**》是韓國Compassion所屬的音樂組合**Compassion Band**在2010年6月3日發行的單曲。\[1\]
 
 ## 概述
 

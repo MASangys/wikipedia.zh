@@ -1,6 +1,4 @@
-「**Monochrome
-Effect**」（モノクロームエフェクト）是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume非主流時期的第二張](../Page/Perfume_\(日本音樂團體\).md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2004年3月17日發行。唱片公司為[BEE-HIVE
-RECORDS](https://zh.wikipedia.org/wiki/BEE-HIVE_RECORDS "wikilink")。
+「**Monochrome Effect**」（モノクロームエフェクト）是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume非主流時期的第二張](../Page/Perfume_\(日本音樂團體\).md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2004年3月17日發行。唱片公司為[BEE-HIVE RECORDS](https://zh.wikipedia.org/wiki/BEE-HIVE_RECORDS "wikilink")。
 
 ## 解説
 
@@ -18,5 +16,4 @@ RECORDS](https://zh.wikipedia.org/wiki/BEE-HIVE_RECORDS "wikilink")。
         東京電視台「なぜ?謎\!ごはん」片尾曲
         同時，在[BEE-HIVE推出的合輯中也先行收錄了此曲](https://zh.wikipedia.org/wiki/BEE-HIVE "wikilink")。
 
-[Category:Perfume歌曲](https://zh.wikipedia.org/wiki/Category:Perfume歌曲 "wikilink")
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
+[Category:Perfume歌曲](https://zh.wikipedia.org/wiki/Category:Perfume歌曲 "wikilink") [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")

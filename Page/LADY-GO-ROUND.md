@@ -2,8 +2,7 @@
 
 ## 簡介
 
-  - 與第三專輯[BREAK
-    THROUGH同時發表](../Page/BREAK_THROUGH.md "wikilink"),這也是最後一張同時與專輯一起發表的單曲
+  - 與第三專輯[BREAK THROUGH同時發表](../Page/BREAK_THROUGH.md "wikilink"),這也是最後一張同時與專輯一起發表的單曲
   - 松本孝弘第一次參與編曲的單曲
   - 銷售量開始進入Oricon榜單內
   - 總銷量為24800張
@@ -18,8 +17,7 @@
 
 ## 主題曲
 
-  - [NEWS
-    STATION](../Page/NEWS_STATION.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")
+  - [NEWS STATION](../Page/NEWS_STATION.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")
   - [お天気Diary](https://zh.wikipedia.org/wiki/お天気Diary "wikilink")[秋田電視台主題曲](https://zh.wikipedia.org/wiki/秋田電視台 "wikilink")
   - [プロ野球中継](https://zh.wikipedia.org/wiki/プロ野球中継 "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")
 
@@ -34,5 +32,4 @@
 
   - [1990年的音樂](http://ja.wikipedia.org/wiki/1990%E5%B9%B4%E3%81%AE%E9%9F%B3%E6%A5%BD)
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:1990年單曲](https://zh.wikipedia.org/wiki/Category:1990年單曲 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:1990年單曲](https://zh.wikipedia.org/wiki/Category:1990年單曲 "wikilink")

@@ -1,11 +1,6 @@
 **Davichi**（），韓國二人女子組合，成員包括[李海莉](https://zh.wikipedia.org/wiki/李海莉 "wikilink")及[姜珉炅](../Page/姜珉炅.md "wikilink")\[1\]。組合名稱Davichi的意思為「用美麗的歌聲照亮一切」\[2\]。
 
-Davichi於2008年1月31日推出首張專輯《Amaranth》，並於2008年2月22日正式出道。歌迷名稱為High（）。應援色為珠光長春花藍/珠光淺紫光藍色（pearl
-light
-periwinkle）。初出道時為[Mnet媒體旗下歌手](../Page/Mnet媒體.md "wikilink")，2009年轉至其子公司[Core
-Contents Media](../Page/MBK娛樂.md "wikilink")，合約期滿後，於2014年7月正式與[CJ
-E\&M](../Page/Mnet媒體.md "wikilink")（現名為 ）簽約。2015年1月，公布官方歌迷會名稱為「DAVICHI
-CHORD」（），CHORD是「合音」之意。
+Davichi於2008年1月31日推出首張專輯《Amaranth》，並於2008年2月22日正式出道。歌迷名稱為High（）。應援色為珠光長春花藍/珠光淺紫光藍色（pearl light periwinkle）。初出道時為[Mnet媒體](../Page/Mnet媒體.md "wikilink")旗下歌手，2009年轉至其子公司[Core Contents Media](../Page/MBK娛樂.md "wikilink")，合約期滿後，於2014年7月正式與[CJ E\&M](../Page/Mnet媒體.md "wikilink")（現名為 ）簽約。2015年1月，公布官方歌迷會名稱為「DAVICHI CHORD」（），CHORD是「合音」之意。
 
 ## 成員資料
 
@@ -692,6 +687,7 @@ That's my fault</p></td>
 | 2018年5月16日  | 你和我在下雨的大街上            | 비 오는 거리 너와 나 | 姜珉炅 & [Kisum](../Page/Kisum.md "wikilink")       | 電視劇《[Suits](https://zh.wikipedia.org/wiki/金裝律師_\(韓國電視劇\) "wikilink") OST》         |
 | 2018年10月16日 | 如夢般降臨                 | 꿈처럼 내린       | Davichi                                          | 電視劇《[愛上變身情人](https://zh.wikipedia.org/wiki/Beauty_Inside_\(電視劇\) "wikilink") OST》 |
 | 2019年5月2日   | Maybe                 |              | 李海莉                                              | 電視劇《[她的私生活](../Page/她的私生活.md "wikilink") OST》                                     |
+| 2019年7月18日  | Sign                  |              | 李海莉                                              | 網路遊戲《[天翼之鍊](../Page/天翼之鍊.md "wikilink") EPISODE 4－變奏 OST》                         |
 
 ### 創作
 
@@ -796,18 +792,12 @@ That's my fault</p></td>
 
 ### MV
 
-  - 2008年 〈唯一的花〉\[3\]、 〈即使恨也愛你〉\[4\]、 〈悲傷情歌〉\[5\]、 〈悲傷承諾〉\[6\]、 〈Blue
-    Moon〉\[7\]、 〈愛情與戰爭〉\[8\]、 〈HAPPY TOGETHER〉\[9\]
-  - 2009年 〈女性時代〉\[10\]、 〈永遠的愛〉\[11\]、 〈裝作善良〉\[12\]、 〈8282〉、 〈闖禍了〉、 〈My
-    Man〉、 〈Hot stuff〉（OST）\[13\]、 〈Wonder Woman〉、 〈時間啊 停止吧〉
+  - 2008年 〈唯一的花〉\[3\]、 〈即使恨也愛你〉\[4\]、 〈悲傷情歌〉\[5\]、 〈悲傷承諾〉\[6\]、 〈Blue Moon〉\[7\]、 〈愛情與戰爭〉\[8\]、 〈HAPPY TOGETHER〉\[9\]
+  - 2009年 〈女性時代〉\[10\]、 〈永遠的愛〉\[11\]、 〈裝作善良〉\[12\]、 〈8282〉、 〈闖禍了〉、 〈My Man〉、 〈Hot stuff〉（OST）\[13\]、 〈Wonder Woman〉、 〈時間啊 停止吧〉
   - 2010年 〈From me To you〉\[14\]、 〈想念你〉\[15\]、 〈都長大了〉\[16\]、 〈烏冬〉\[17\]
-  - 2011年 〈Heaven〉（OST）\[18\]、 〈不要說再見 〉\[19\]、 〈To Angel〉（OST）\[20\]、
-    〈我們不是相愛嗎〉\[21\]
-  - 2012年 〈會想起的〉\[22\]、 〈毒藥〉（Location Ver.）\[23\]、 〈毒藥〉（Studio
-    Ver.）\[24\]
-  - 2013年 〈悲傷約定〉（Dance Ver.）\[25\]、 〈不知道嗎〉（IRIS 2 OST）\[26\]、
-    〈烏龜〉\[27\]、 〈兩個人喝一杯〉\[28\]、 〈融化中〉\[29\]、 〈因為今天特別想你〉\[30\]、
-    〈如果相愛過〉\[31\]、〈信〉（Drama Ver.）\[32\]、〈信〉（Lip Ver.）\[33\]
+  - 2011年 〈Heaven〉（OST）\[18\]、 〈不要說再見 〉\[19\]、 〈To Angel〉（OST）\[20\]、 〈我們不是相愛嗎〉\[21\]
+  - 2012年 〈會想起的〉\[22\]、 〈毒藥〉（Location Ver.）\[23\]、 〈毒藥〉（Studio Ver.）\[24\]
+  - 2013年 〈悲傷約定〉（Dance Ver.）\[25\]、 〈不知道嗎〉（IRIS 2 OST）\[26\]、 〈烏龜〉\[27\]、 〈兩個人喝一杯〉\[28\]、 〈融化中〉\[29\]、 〈因為今天特別想你〉\[30\]、 〈如果相愛過〉\[31\]、〈信〉（Drama Ver.）\[32\]、〈信〉（Lip Ver.）\[33\]
   - 2014年 〈分手後再相遇〉\[34\]、 〈臂枕〉\[35\]、 〈不要動〉\[36\]、
   - 2015年 〈哭了又哭〉\[37\]、 〈對不起 我太幸福〉\[38\]、 〈兩個愛〉\[39\]、 〈這瞬間〉\[40\]
   - 2016年 〈你在我身邊〉\[41\]、〈得到的愛致給予的愛〉\[42\]
@@ -1734,12 +1724,8 @@ That's my fault</p></td>
 
 ### MV演出
 
-  - 2012年
-    [超新星](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")〈Stupid
-    Love〉MV（姜珉炅）
-  - 2013年
-    [SPEED](https://zh.wikipedia.org/wiki/SPEED_\(韓國組合\) "wikilink")〈悲傷約定(Dance
-    Ver.)〉MV（姜珉炅）
+  - 2012年 [超新星](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")〈Stupid Love〉MV（姜珉炅）
+  - 2013年 [SPEED](https://zh.wikipedia.org/wiki/SPEED_\(韓國組合\) "wikilink")〈悲傷約定(Dance Ver.)〉MV（姜珉炅）
   - 2013年 [T-ara N4](../Page/T-ara_N4.md "wikilink") - 田園日記 MV（姜珉炅）
 
 ### 音樂劇
@@ -1830,11 +1816,7 @@ Skoollooks校服（與BigBang）、飛利浦刮鬍刀</p></td>
   -
   - [姜珉炅](https://www.youtube.com/channel/UCfqVrM2cvwxG3-EvxbsN0KQ)的Youtube頻道
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
 1.
 2.

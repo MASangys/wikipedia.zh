@@ -4,13 +4,13 @@
 
 同志族群在美國的發展史如同多數國家，從最早被定義為罪惡、違法犯罪和疾病，最終除罪化為自然事實。由於美國各聯邦州有獨立的法律系統，同性戀合法化的歷程較為緩慢。1962年，[伊利諾斯州首先廢除](https://zh.wikipedia.org/wiki/伊利諾斯州 "wikilink")[性悖軌法](../Page/性悖軌法.md "wikilink")。在某些州別，直到2003年全國立法修正以前，同性戀一直是屬違法行為。
 
-美國對同志立法的轉變，與傳統性別文化的自由化過程大致符合。隨著文化發展成熟，以及20世紀以後性別文化的傳統束縛逐漸衰弱、個人性自由學說的出現，美國社會開始重視同志權益。美國的同性戀[解放運動興起於](../Page/解放.md "wikilink")[二次大戰期間](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")，重要里程碑包括：[金賽博士對性行為的研究](https://zh.wikipedia.org/wiki/金賽 "wikilink")（1948年）；[馬太辛協會的創立](https://zh.wikipedia.org/wiki/馬太辛協會 "wikilink")（1950年）；[民權運動](https://zh.wikipedia.org/wiki/美國民權運動_\(1955年-1968年\) "wikilink")（1955年1968年），其中部分支持者後來成為同志權利運動家；[石牆事件](https://zh.wikipedia.org/wiki/石牆事件 "wikilink")（1969年）；[同性戀解放陣線成立](https://zh.wikipedia.org/wiki/同性戀解放陣線 "wikilink")（1969年）；排除同性戀於[美國精神醫學學會的疾病名單外](../Page/美國精神醫學學會.md "wikilink")（1973年）；[愛滋危機的同志再教育運動](https://zh.wikipedia.org/wiki/愛滋病 "wikilink")（1981年起）；同志族群納入[跨性別者](https://zh.wikipedia.org/wiki/跨性別者 "wikilink")（19世紀起）；以及21世紀的[同性婚姻合法化運動](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。
+美國對同志立法的轉變，與傳統性別文化的自由化過程大致符合。隨著文化發展成熟，以及20世紀以後性別文化的傳統束縛逐漸衰弱、個人性自由學說的出現，美國社會開始重視同志權益。美國的同性戀[解放](../Page/解放.md "wikilink")運動興起於[二次大戰期間](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")，重要里程碑包括：[金賽博士對性行為的研究](https://zh.wikipedia.org/wiki/金賽 "wikilink")（1948年）；[馬太辛協會的創立](https://zh.wikipedia.org/wiki/馬太辛協會 "wikilink")（1950年）；[民權運動](https://zh.wikipedia.org/wiki/美國民權運動_\(1955年-1968年\) "wikilink")（1955年1968年），其中部分支持者後來成為同志權利運動家；[石牆事件](https://zh.wikipedia.org/wiki/石牆事件 "wikilink")（1969年）；[同性戀解放陣線成立](https://zh.wikipedia.org/wiki/同性戀解放陣線 "wikilink")（1969年）；排除同性戀於[美國精神醫學學會](../Page/美國精神醫學學會.md "wikilink")的疾病名單外（1973年）；[愛滋危機的同志再教育運動](https://zh.wikipedia.org/wiki/愛滋病 "wikilink")（1981年起）；同志族群納入[跨性別者](https://zh.wikipedia.org/wiki/跨性別者 "wikilink")（19世紀起）；以及21世紀的[同性婚姻合法化運動](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。
 
 同性婚姻在美國受到聯邦政府承認，同時根據最高法院在[奧貝格費爾訴霍奇斯案的判決](https://zh.wikipedia.org/wiki/奧貝格費爾訴霍奇斯案 "wikilink")，各州亦須給予承認，並且不得拒絕發放結婚證書給予同性伴侶。最高法院判決，對同性配偶拒絕發放結婚證書，違反美國憲法正當法律程序和第十四修正案的平等保護條款。[奧貝格費爾訴霍奇斯案的判決](https://zh.wikipedia.org/wiki/奧貝格費爾訴霍奇斯案 "wikilink")，也保障了同性伴侶能共同收養子女的權利。
 
-美國已有20個州別和1個特別行政區立法禁止有關[性傾向之歧視](https://zh.wikipedia.org/wiki/性傾向 "wikilink")，12個州別和1個特別行政區並訂定法律禁止[性別認同和性別氣質的相關歧視](../Page/性別認同.md "wikilink")。根據2009年[馬修·謝巴德法案所制定的聯邦法](https://zh.wikipedia.org/wiki/馬修·謝巴德法案 "wikilink")，性傾向和性別認同相關的仇恨罪也已懲處有據。
+美國已有20個州別和1個特別行政區立法禁止有關[性傾向之歧視](https://zh.wikipedia.org/wiki/性傾向 "wikilink")，12個州別和1個特別行政區並訂定法律禁止[性別認同](../Page/性別認同.md "wikilink")和性別氣質的相關歧視。根據2009年[馬修·謝巴德法案所制定的聯邦法](https://zh.wikipedia.org/wiki/馬修·謝巴德法案 "wikilink")，性傾向和性別認同相關的仇恨罪也已懲處有據。
 
-2016年6月，美國軍方取消了對[跨性別軍人的禁令](../Page/跨性別.md "wikilink")，准許他們公開在該國武裝部隊服役。這將保證沒有人因為性別身份而被「開除或不能重新入伍」。這項新規定，讓跨性別者可以在一年後入伍，只要他們在認同的性別中「穩定」了18個月\[1\]。
+2016年6月，美國軍方取消了對[跨性別](../Page/跨性別.md "wikilink")軍人的禁令，准許他們公開在該國武裝部隊服役。這將保證沒有人因為性別身份而被「開除或不能重新入伍」。這項新規定，讓跨性別者可以在一年後入伍，只要他們在認同的性別中「穩定」了18個月\[1\]。
 
 2018年10月11日，纽约市长白思豪于当地时间9日签署了一项法案，法案同意在纽约市发放的出生证明添加男女以外的“X”这一性类别，有关部门表示，这个新增的性类别适用于那些不认为自己是男性或者女性的人，这部法律将于2019年1月1日生效。\[2\]
 
@@ -18,8 +18,7 @@
 
 ## 美國原住民文化
 
-[Catlin_-_Dance_to_the_berdache.jpg](https://zh.wikipedia.org/wiki/File:Catlin_-_Dance_to_the_berdache.jpg "fig:Catlin_-_Dance_to_the_berdache.jpg")（1796年－1872年）繪。\]\]
-報告顯示，超過130種[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")[原住民的部落內存在一種特殊的男性階級](../Page/美洲原住民.md "wikilink")：他們穿戴女性的衣著，進行編織、燒陶等女人的勞動工作，並和男人發生性行為。他們被稱為「[雙靈](../Page/雙靈.md "wikilink")」（，又譯為「博達切」），意指一個身體內住著「二個靈魂」\[5\]。雖然他們也被歸類入同性戀，但更準確而言，雙靈被視為「[第三性](https://zh.wikipedia.org/wiki/第三性 "wikilink")」或「第四性」。最先踏上現今美國領土的歐洲人是基督教傳教士和探險家，包括[努涅斯·卡韋薩·德巴卡](https://zh.wikipedia.org/wiki/努涅斯·卡韋薩·德巴卡 "wikilink")、[雅克·馬凱特](https://zh.wikipedia.org/wiki/雅克·馬凱特 "wikilink")、[皮耶·利耶特和](https://zh.wikipedia.org/wiki/皮耶·利耶特 "wikilink")[皮耶·法蘭索·雅韋·德夏洛克等](https://zh.wikipedia.org/wiki/皮耶·法蘭索·雅韋·德夏洛克 "wikilink")。儘管歐洲人對[民族學抱持興趣](https://zh.wikipedia.org/wiki/民族學 "wikilink")，如畫家[喬治·卡特林曾在](https://zh.wikipedia.org/wiki/喬治·卡特林 "wikilink")1830年投身觀察、描繪雙靈人，他們仍以歐洲人的觀點，倡議「淘汰」雙靈文化。經過歐洲文明統治後，即使後來原住民文化微有復興之態，原住民部落的雙靈[多元性別文化已幾乎徹底絕跡](../Page/多元性別.md "wikilink")\[6\]。
+[Catlin_-_Dance_to_the_berdache.jpg](https://zh.wikipedia.org/wiki/File:Catlin_-_Dance_to_the_berdache.jpg "fig:Catlin_-_Dance_to_the_berdache.jpg")（1796年－1872年）繪。\]\] 報告顯示，超過130種[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")[原住民的部落內存在一種特殊的男性階級](../Page/美洲原住民.md "wikilink")：他們穿戴女性的衣著，進行編織、燒陶等女人的勞動工作，並和男人發生性行為。他們被稱為「[雙靈](../Page/雙靈.md "wikilink")」（，又譯為「博達切」），意指一個身體內住著「二個靈魂」\[5\]。雖然他們也被歸類入同性戀，但更準確而言，雙靈被視為「[第三性](https://zh.wikipedia.org/wiki/第三性 "wikilink")」或「第四性」。最先踏上現今美國領土的歐洲人是基督教傳教士和探險家，包括[努涅斯·卡韋薩·德巴卡](https://zh.wikipedia.org/wiki/努涅斯·卡韋薩·德巴卡 "wikilink")、[雅克·馬凱特](https://zh.wikipedia.org/wiki/雅克·馬凱特 "wikilink")、[皮耶·利耶特和](https://zh.wikipedia.org/wiki/皮耶·利耶特 "wikilink")[皮耶·法蘭索·雅韋·德夏洛克等](https://zh.wikipedia.org/wiki/皮耶·法蘭索·雅韋·德夏洛克 "wikilink")。儘管歐洲人對[民族學抱持興趣](https://zh.wikipedia.org/wiki/民族學 "wikilink")，如畫家[喬治·卡特林曾在](https://zh.wikipedia.org/wiki/喬治·卡特林 "wikilink")1830年投身觀察、描繪雙靈人，他們仍以歐洲人的觀點，倡議「淘汰」雙靈文化。經過歐洲文明統治後，即使後來原住民文化微有復興之態，原住民部落的雙靈[多元性別](../Page/多元性別.md "wikilink")文化已幾乎徹底絕跡\[6\]。
 
 ## 18及19世紀
 
@@ -27,11 +26,11 @@
 
 ### 放寬刑罰
 
-1776年美國獨立後，美國各州仍保留殖民時代的[性悖軌法](../Page/性悖軌法.md "wikilink")，規定男性間的性行為得處死刑。在多數州別，女性間的性行為行為也屬違法行為，但歷史上鮮有相關訴訟，其刑罰也比[男同性戀輕微](../Page/男同性戀.md "wikilink")。受[啟蒙運動和](https://zh.wikipedia.org/wiki/啟蒙運動 "wikilink")[法國大革命影響](https://zh.wikipedia.org/wiki/法國大革命 "wikilink")，美國也全面展開自由化運動。1786年，[賓夕法尼亞州在美國](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")13個州別中首先廢止性悖軌罪的[死刑](../Page/死刑.md "wikilink")，以10年有期徒刑及沒收所有財產取代。其他州別也追隨其後，紛紛將性悖軌行為的懲罰改訂為相較寬容的刑罰；其中[南卡羅來納州遲至](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")1873年才完成這項改革\[7\]\[8\]。
+1776年美國獨立後，美國各州仍保留殖民時代的[性悖軌法](../Page/性悖軌法.md "wikilink")，規定男性間的性行為得處死刑。在多數州別，女性間的性行為行為也屬違法行為，但歷史上鮮有相關訴訟，其刑罰也比[男同性戀](../Page/男同性戀.md "wikilink")輕微。受[啟蒙運動和](https://zh.wikipedia.org/wiki/啟蒙運動 "wikilink")[法國大革命影響](https://zh.wikipedia.org/wiki/法國大革命 "wikilink")，美國也全面展開自由化運動。1786年，[賓夕法尼亞州在美國](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")13個州別中首先廢止性悖軌罪的[死刑](../Page/死刑.md "wikilink")，以10年有期徒刑及沒收所有財產取代。其他州別也追隨其後，紛紛將性悖軌行為的懲罰改訂為相較寬容的刑罰；其中[南卡羅來納州遲至](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")1873年才完成這項改革\[7\]\[8\]。
 
 ### 精神疾病學說
 
-1896年隨著[精神分析的出現](https://zh.wikipedia.org/wiki/精神分析 "wikilink")，將同性戀認定為精神疾病的觀念達到鼎盛。事實上，早在19世紀初期，此類觀點便已有跡可循。時下性教育刊物如「青年指南」（，威廉·安德勒斯·奧科特，1883年）、「青年貞節講座」（，西爾維斯特·葛拉罕，1834年）等，紛紛指出[自慰和同性性行為等不當性行為](../Page/自慰.md "wikilink")，會導致嚴重的健康問題，包括：[精神失常](https://zh.wikipedia.org/wiki/精神失常 "wikilink")、[亨丁頓舞蹈症](../Page/亨丁頓舞蹈症.md "wikilink")、[癲癇](https://zh.wikipedia.org/wiki/癲癇 "wikilink")、[智能障礙](../Page/智能障礙.md "wikilink")、[癱瘓](https://zh.wikipedia.org/wiki/癱瘓 "wikilink")、[中風](../Page/中風.md "wikilink")、[失明](../Page/失明.md "wikilink")、[疑病症和](../Page/疑病症.md "wikilink")[結核病](https://zh.wikipedia.org/wiki/結核病 "wikilink")\[9\]。
+1896年隨著[精神分析的出現](https://zh.wikipedia.org/wiki/精神分析 "wikilink")，將同性戀認定為精神疾病的觀念達到鼎盛。事實上，早在19世紀初期，此類觀點便已有跡可循。時下性教育刊物如「青年指南」（，威廉·安德勒斯·奧科特，1883年）、「青年貞節講座」（，西爾維斯特·葛拉罕，1834年）等，紛紛指出[自慰](../Page/自慰.md "wikilink")和同性性行為等不當性行為，會導致嚴重的健康問題，包括：[精神失常](https://zh.wikipedia.org/wiki/精神失常 "wikilink")、[亨丁頓舞蹈症](../Page/亨丁頓舞蹈症.md "wikilink")、[癲癇](https://zh.wikipedia.org/wiki/癲癇 "wikilink")、[智能障礙](../Page/智能障礙.md "wikilink")、[癱瘓](https://zh.wikipedia.org/wiki/癱瘓 "wikilink")、[中風](../Page/中風.md "wikilink")、[失明](../Page/失明.md "wikilink")、[疑病症](../Page/疑病症.md "wikilink")和[結核病](https://zh.wikipedia.org/wiki/結核病 "wikilink")\[9\]。
 
 ## 1969年－1980年
 
@@ -809,8 +808,7 @@
   - [美國男女同性戀歷史](https://web.archive.org/web/20110408130104/http://edweb.sdsu.edu/people/cmathison/gay_les/home.html)：20世紀簡介
   - [背負歷史的人們](http://www.fordham.edu/halsall/pwh/index-am.html)：LGBT歷史線上指南
 
-[Category:美國LGBT權益](https://zh.wikipedia.org/wiki/Category:美國LGBT權益 "wikilink")
-[Category:美洲LGBT權益](https://zh.wikipedia.org/wiki/Category:美洲LGBT權益 "wikilink")
+[Category:美國LGBT權益](https://zh.wikipedia.org/wiki/Category:美國LGBT權益 "wikilink") [Category:美洲LGBT權益](https://zh.wikipedia.org/wiki/Category:美洲LGBT權益 "wikilink")
 
 1.
 2.

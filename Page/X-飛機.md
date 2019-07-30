@@ -1,6 +1,6 @@
 **X-飛機**（****）是一系列的[美國試驗](https://zh.wikipedia.org/wiki/美國 "wikilink")[飛機和](https://zh.wikipedia.org/wiki/飛機 "wikilink")[直升機](https://zh.wikipedia.org/wiki/直升機 "wikilink")（及部分[火箭](../Page/火箭.md "wikilink")）以用於測試尖端新技術。部分X-飛機被大力宣傳及用作破紀錄，但同時大部分X-飛機在開發的過程中都保持高度的機密。
 
-首部X-飛機－－[貝爾X-1因首次突破](../Page/X-1試驗機.md "wikilink")[音障而知名](../Page/音障.md "wikilink")。後来的X-飛機都取得重要的研究成果，其中火箭動力飛機[北美X-15在](../Page/X-15試驗機.md "wikilink")1960年代成名。絕大多數的X-飛機都不會進行全面生產，通常只作少數生產。例外的是[X-35試驗機](https://zh.wikipedia.org/wiki/X-35試驗機 "wikilink")，在擊敗競爭對手[波音X-32後即以](https://zh.wikipedia.org/wiki/波音X-32 "wikilink")[F-35的编号投入生產](https://zh.wikipedia.org/wiki/F-35 "wikilink")。
+首部X-飛機－－[貝爾X-1因首次突破](../Page/X-1試驗機.md "wikilink")[音障](../Page/音障.md "wikilink")而知名。後来的X-飛機都取得重要的研究成果，其中火箭動力飛機[北美X-15在](../Page/X-15試驗機.md "wikilink")1960年代成名。絕大多數的X-飛機都不會進行全面生產，通常只作少數生產。例外的是[X-35試驗機](https://zh.wikipedia.org/wiki/X-35試驗機 "wikilink")，在擊敗競爭對手[波音X-32後即以](https://zh.wikipedia.org/wiki/波音X-32 "wikilink")[F-35的编号投入生產](https://zh.wikipedia.org/wiki/F-35 "wikilink")。
 
 大多數的X-飛機由[美國國家航空諮詢委員會](../Page/美國國家航空諮詢委員會.md "wikilink")（NACA，即[美國太空總署的前身](https://zh.wikipedia.org/wiki/美國太空總署 "wikilink")）經營，部分聯同[美國空軍經營](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")。但並非所有美國試驗機都被称为X-飛機。
 
@@ -42,7 +42,7 @@ USAF</p></td>
 USAF, NACA</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Douglas_X-3_NASA_E-17348.jpg" title="fig:Douglas_X-3_NASA_E-17348.jpg">Douglas_X-3_NASA_E-17348.jpg</a></p></td>
 <td><p>1952年10月27日</p></td>
-<td><p>鈦合金機身;低<a href="../Page/展弦比.md" title="wikilink">展弦比機翼</a>。<br />
+<td><p>鈦合金機身;低<a href="../Page/展弦比.md" title="wikilink">展弦比</a>機翼。<br />
 用作測試長時間高速飛行。<br />
 未能達到設計速度。[3]</p></td>
 </tr>
@@ -60,7 +60,7 @@ USAF, NACA</p></td>
 USAF, NACA</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Bell-X5-Multiple.jpg" title="fig:Bell-X5-Multiple.jpg">Bell-X5-Multiple.jpg</a></p></td>
 <td><p>1951年6月20日</p></td>
-<td><p>首架<a href="../Page/可變後掠翼.md" title="wikilink">可變後掠翼飛機</a>。[5]</p></td>
+<td><p>首架<a href="../Page/可變後掠翼.md" title="wikilink">可變後掠翼</a>飛機。[5]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/X-6試驗機.md" title="wikilink">X-6</a></p></td>
@@ -415,7 +415,7 @@ DARPA, USN</p></td>
 NASA</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:ED06-0198-62.jpg" title="fig:ED06-0198-62.jpg">ED06-0198-62.jpg</a></p></td>
 <td><p>2007年7月20日</p></td>
-<td><p><a href="../Page/翼身融合.md" title="wikilink">翼身融合測試</a>。[50]</p></td>
+<td><p><a href="../Page/翼身融合.md" title="wikilink">翼身融合</a>測試。[50]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/X-49試驗機.md" title="wikilink">X-49</a></p></td>
@@ -462,7 +462,7 @@ NASA, USAF</p></td>
 NASA</p></td>
 <td></td>
 <td><p>未來</p></td>
-<td><p><a href="../Page/超音速客機.md" title="wikilink">超音速客機測試</a>。[56]</p></td>
+<td><p><a href="../Page/超音速客機.md" title="wikilink">超音速客機</a>測試。[56]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/X-55試驗機" title="wikilink">X-55</a></p></td>
@@ -521,10 +521,8 @@ NASA</p></td>
 
 ## 參考資料
 
-  - [Early
-    X-planes](https://web.archive.org/web/20031220121649/http://www.centennialofflight.gov/essay/Evolution_of_Technology/early_X_planes/Tech27.htm)
-  - [X-15 Videos by
-    NASA](https://web.archive.org/web/20060928220628/http://lisar.larc.nasa.gov/BROWSE/xplane.html)
+  - [Early X-planes](https://web.archive.org/web/20031220121649/http://www.centennialofflight.gov/essay/Evolution_of_Technology/early_X_planes/Tech27.htm)
+  - [X-15 Videos by NASA](https://web.archive.org/web/20060928220628/http://lisar.larc.nasa.gov/BROWSE/xplane.html)
 
 [Category:美國試驗機](https://zh.wikipedia.org/wiki/Category:美國試驗機 "wikilink")
 
@@ -587,11 +585,9 @@ NASA</p></td>
 54.
 55.
 56.
-57. [Advanced Composite Cargo Aircraft gets X-plane
-    designation](https://archive.is/20120630081008/http://www.af.mil/news/story.asp?id=123173711)
+57. [Advanced Composite Cargo Aircraft gets X-plane designation](https://archive.is/20120630081008/http://www.af.mil/news/story.asp?id=123173711)
 
-58. [Introducing the X-56A MUTT: Who Let the Dog
-    Out](http://www.nasa.gov/topics/aeronautics/features/x-56a_mutt.html)
+58. [Introducing the X-56A MUTT: Who Let the Dog Out](http://www.nasa.gov/topics/aeronautics/features/x-56a_mutt.html)
 
 59.
 

@@ -1,5 +1,4 @@
-**赤犬**是日本漫畫家[尾田榮一郎的漫畫作品](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》裡的一個角色。在第一部中是[海軍三上將之一](../Page/海軍_\(ONE_PIECE\).md "wikilink")，於「頂點戰爭」後成為海軍元帥。
+**赤犬**是日本漫畫家[尾田榮一郎的漫畫作品](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》裡的一個角色。在第一部中是[海軍三上將之一](../Page/海軍_\(ONE_PIECE\).md "wikilink")，於「頂點戰爭」後成為海軍元帥。
 
 ## 設計
 
@@ -60,8 +59,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》裡的一個角色。在第一部中�
 
 ### 第二部
 
-  - [ONE PIECE FILM
-    Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")
+  - [ONE PIECE FILM Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")
 
 <!-- end list -->
 
@@ -70,12 +68,12 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》裡的一個角色。在第一部中�
 
 <!-- end list -->
 
-  - [多雷斯羅薩篇](../Page/多雷斯羅薩.md "wikilink")
+  - [多雷斯羅薩](../Page/多雷斯羅薩.md "wikilink")篇
 
 <!-- end list -->
 
   -
-    赤犬指派藤虎前往多雷斯羅薩執行狙捕魯夫和羅的任務，但其後得知藤虎率兵向利克王為世界政府造成多雷斯羅薩多年前的悲劇跪地謝罪並道出希望廢除[王下七武海的制度](../Page/王下七武海.md "wikilink")，而且此情況藉由轉播散布到全世界，赤犬憤而下令藤虎在逮捕到魯夫和羅之前不得踏入海軍基地。
+    赤犬指派藤虎前往多雷斯羅薩執行狙捕魯夫和羅的任務，但其後得知藤虎率兵向利克王為世界政府造成多雷斯羅薩多年前的悲劇跪地謝罪並道出希望廢除[王下七武海](../Page/王下七武海.md "wikilink")的制度，而且此情況藉由轉播散布到全世界，赤犬憤而下令藤虎在逮捕到魯夫和羅之前不得踏入海軍基地。
 
 <!-- end list -->
 
@@ -84,13 +82,13 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》裡的一個角色。在第一部中�
 <!-- end list -->
 
   -
-    赤犬為確保世界會議的維安警衛，指派海軍成員負責護衛參加世界會議的王公貴族，對於藤虎未完成任務便前往馬力喬亞以及受到戰國調侃頗有微詞。後因海軍竊聽四皇[夏洛特·莉莉和海道於電話蟲通訊裡的對話得知兩者可能再度攜手合作](../Page/夏洛特·莉莉.md "wikilink")；黃猿自告奮勇欲處理此事，但赤犬認為和之國尚有武藝高強的武士們存在而按兵不動。
+    赤犬為確保世界會議的維安警衛，指派海軍成員負責護衛參加世界會議的王公貴族，對於藤虎未完成任務便前往馬力喬亞以及受到戰國調侃頗有微詞。後因海軍竊聽四皇[夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")和海道於電話蟲通訊裡的對話得知兩者可能再度攜手合作；黃猿自告奮勇欲處理此事，但赤犬認為和之國尚有武藝高強的武士們存在而按兵不動。
 
 ## 能力
 
 ### 惡魔果實
 
-赤犬是自然系「[岩漿果實](../Page/惡魔果實.md "wikilink")」能力者，岩漿人，能製造出纏繞著黑煙的[岩漿進行攻擊](../Page/岩漿.md "wikilink")，還能製造火山彈攻擊敵人<small>\[4\]</small>。
+赤犬是自然系「[岩漿果實](../Page/惡魔果實.md "wikilink")」能力者，岩漿人，能製造出纏繞著黑煙的[岩漿](../Page/岩漿.md "wikilink")進行攻擊，還能製造火山彈攻擊敵人<small>\[4\]</small>。
 
 ### 霸氣
 

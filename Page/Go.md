@@ -1,24 +1,12 @@
 ****（又稱****\[1\]）是[Google](../Page/Google.md "wikilink")開發的一种[静态](https://zh.wikipedia.org/wiki/静态类型 "wikilink")[强类型](https://zh.wikipedia.org/wiki/强类型 "wikilink")、[編譯型](https://zh.wikipedia.org/wiki/編譯語言 "wikilink")、[-{zh-hant:並發型;zh-hans:并发型}-](https://zh.wikipedia.org/wiki/並行計算 "wikilink")，并具有[垃圾回收功能的](../Page/垃圾回收_\(計算機科學\).md "wikilink")[编程语言](../Page/编程语言.md "wikilink")。
 
-，[羅勃·派克](../Page/羅勃·派克.md "wikilink")（Rob
-Pike）及[肯·汤普逊](../Page/肯·汤普逊.md "wikilink")於2007年9月开始设计Go，\[2\]，稍後Ian
-Lance Taylor、Russ
-Cox加入專案。Go是基於[Inferno](../Page/Inferno.md "wikilink")作業系統所開發的。\[3\]Go於2009年11月正式宣布推出，成為[開放原始碼專案](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，支援[Linux](../Page/Linux.md "wikilink")、[Mac
-OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows等作業系統](https://zh.wikipedia.org/wiki/Windows "wikilink")。\[4\]
-在2016年，Go被軟體評價公司TIOBE 選為「TIOBE 2016 年最佳語言」。\[5\] ​
-目前，Go每半年发布一个二级版本（即从a.x升级到a.y）。
+，[羅勃·派克](../Page/羅勃·派克.md "wikilink")（Rob Pike）及[肯·汤普逊](../Page/肯·汤普逊.md "wikilink")於2007年9月开始设计Go，\[2\]，稍後Ian Lance Taylor、Russ Cox加入專案。Go是基於[Inferno](../Page/Inferno.md "wikilink")作業系統所開發的。\[3\]Go於2009年11月正式宣布推出，成為[開放原始碼專案](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，支援[Linux](../Page/Linux.md "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows等作業系統](https://zh.wikipedia.org/wiki/Windows "wikilink")。\[4\] 在2016年，Go被軟體評價公司TIOBE 選為「TIOBE 2016 年最佳語言」。\[5\] ​ 目前，Go每半年发布一个二级版本（即从a.x升级到a.y）。
 
 ## 描述
 
 Go的语法接近[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")，但对于有所不同。Go支持[垃圾回收功能](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")。Go的[并行计算](../Page/并行计算.md "wikilink")模型是以[東尼·霍爾](../Page/東尼·霍爾.md "wikilink")的[交談循序程式](https://zh.wikipedia.org/wiki/交談循序程式 "wikilink")（CSP）为基础，采取类似模型的其他语言包括[Occam和](https://zh.wikipedia.org/wiki/Occam "wikilink")[Limbo](https://zh.wikipedia.org/wiki/Limbo "wikilink")，\[6\]，但它也具有pipeline模型的特征，比如通道传输。在1.8版本中開放插件（Plugin）的支持，這意味著現在能從Go中動態載入部分函式。
 
-与C++相比，Go並不包括如[枚举](../Page/枚举.md "wikilink")、[异常处理](../Page/异常处理.md "wikilink")、[继承](https://zh.wikipedia.org/wiki/繼承_\(計算機科學\) "wikilink")、[泛型](../Page/泛型.md "wikilink")、[断言](../Page/斷言_\(程式\).md "wikilink")、[虚函数](../Page/虚函数.md "wikilink")等功能，但增加了
-切片(Slice)
-型、并发、管道、[垃圾回收功能](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")、[介面
-(資訊科技)等特性的语言级支持](../Page/介面_\(資訊科技\).md "wikilink")\[7\]。Go
-2.0版本將支持泛型\[8\]，對於[斷言
-(程式)的存在](../Page/斷言_\(程式\).md "wikilink")，則持負面態度，同時也為自己不提供型別[继承來辯護](https://zh.wikipedia.org/wiki/繼承_\(計算機科學\) "wikilink")。
+与C++相比，Go並不包括如[枚举](../Page/枚举.md "wikilink")、[异常处理](../Page/异常处理.md "wikilink")、[继承](https://zh.wikipedia.org/wiki/繼承_\(計算機科學\) "wikilink")、[泛型](../Page/泛型.md "wikilink")、[断言](../Page/斷言_\(程式\).md "wikilink")、[虚函数](../Page/虚函数.md "wikilink")等功能，但增加了 切片(Slice) 型、并发、管道、[垃圾回收功能](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")、[介面 (資訊科技)等特性的语言级支持](../Page/介面_\(資訊科技\).md "wikilink")\[7\]。Go 2.0版本將支持泛型\[8\]，對於[斷言 (程式)的存在](../Page/斷言_\(程式\).md "wikilink")，則持負面態度，同時也為自己不提供型別[继承來辯護](https://zh.wikipedia.org/wiki/繼承_\(計算機科學\) "wikilink")。
 
 不同于[Java](../Page/Java.md "wikilink")，Go内嵌了[关联数组](../Page/关联数组.md "wikilink")（也称为[哈希表](../Page/哈希表.md "wikilink")（Hashes）或字典（Dictionaries）），就像字符串类型一样。
 
@@ -100,9 +88,7 @@ func main() {
 }
 ```
 
-Goroutine是類似線程的概念（但Goroutine並不是線程）。線程屬於系統層面，通常來說建立一個新的線程會消耗較多的資源且管理不易。而
-Goroutine就像輕量級的線程，但我們稱其為併發，一個Go程式可以執行超過數萬個
-Goroutine\[10\]，並且這些效能都是原生級的，隨時都能夠關閉、結束。一個核心裡面可以有多個Goroutine，透過GOMAXPROCS參數你能夠限制Gorotuine可以佔用幾個系統線程來避免失控。
+Goroutine是類似線程的概念（但Goroutine並不是線程）。線程屬於系統層面，通常來說建立一個新的線程會消耗較多的資源且管理不易。而 Goroutine就像輕量級的線程，但我們稱其為併發，一個Go程式可以執行超過數萬個 Goroutine\[10\]，並且這些效能都是原生級的，隨時都能夠關閉、結束。一個核心裡面可以有多個Goroutine，透過GOMAXPROCS參數你能夠限制Gorotuine可以佔用幾個系統線程來避免失控。
 
 在內建的官方套件中也不時能夠看見Goroutine的應用，像是net/http中用來監聽網路服務的函式實際上是建立一個不斷執行迴圈的Goroutine。
 
@@ -195,20 +181,13 @@ Go的名稱與2003年發表的程式語言雷同。
 
   - [邮件列表](https://groups.google.com/forum/m/#!forum/golang-nuts)
 
-[Category:Go语言](https://zh.wikipedia.org/wiki/Category:Go语言 "wikilink")
-[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
-[Category:过程式编程语言](https://zh.wikipedia.org/wiki/Category:过程式编程语言 "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:美国发明](https://zh.wikipedia.org/wiki/Category:美国发明 "wikilink")
-[Category:使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink")
-[Category:自由编译器和解释器](https://zh.wikipedia.org/wiki/Category:自由编译器和解释器 "wikilink")
+[Category:Go语言](https://zh.wikipedia.org/wiki/Category:Go语言 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:过程式编程语言](https://zh.wikipedia.org/wiki/Category:过程式编程语言 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:美国发明](https://zh.wikipedia.org/wiki/Category:美国发明 "wikilink") [Category:使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink") [Category:自由编译器和解释器](https://zh.wikipedia.org/wiki/Category:自由编译器和解释器 "wikilink")
 
 1.  [Google-go-language](https://www.techcrunch.com/2009/11/10/google-go-language/)
 
 2.  [Language Design FAQ](http://golang.org/doc/go_faq.html)
 
-3.  [goyacc.go: **Derived from Inferno's
-    utils/iyacc/yacc.c**](http://golang.org/src/cmd/goyacc/goyacc.go)
+3.  [goyacc.go: **Derived from Inferno's utils/iyacc/yacc.c**](http://golang.org/src/cmd/goyacc/goyacc.go)
 
 4.  [Installing Go](http://golang.org/doc/install.html#tmp_29)
 
@@ -224,7 +203,6 @@ Go的名稱與2003年發表的程式語言雷同。
 
 11. [Google公布实现Go 1.5自举的计划](http://www.infoq.com/cn/news/2015/01/golang-15-bootstrapped)
 
-12. [Go FAQ:
-    Implementation](http://golang.org/doc/go_faq.html#Implementation)
+12. [Go FAQ: Implementation](http://golang.org/doc/go_faq.html#Implementation)
 
 13. <http://golang.org/doc/go_tutorial.html>

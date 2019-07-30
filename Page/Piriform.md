@@ -1,4 +1,4 @@
-**Piriform**（[梨形之意](../Page/梨.md "wikilink")）是2004年在[英國建立的一家](https://zh.wikipedia.org/wiki/英國 "wikilink")[軟體公司](https://zh.wikipedia.org/wiki/軟體公司 "wikilink")，專長於[Windows系統維護軟体的開發](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。2017年7月，此公司被[捷克的資安軟體廠商](../Page/捷克.md "wikilink")[Avast併購](../Page/Avast.md "wikilink")，成為Avast旗下公司\[1\]。
+**Piriform**（[梨](../Page/梨.md "wikilink")形之意）是2004年在[英國建立的一家](https://zh.wikipedia.org/wiki/英國 "wikilink")[軟體公司](https://zh.wikipedia.org/wiki/軟體公司 "wikilink")，專長於[Windows系統維護軟体的開發](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。2017年7月，此公司被[捷克](../Page/捷克.md "wikilink")的資安軟體廠商[Avast](../Page/Avast.md "wikilink")併購，成為Avast旗下公司\[1\]。
 
 ## 軟體
 
@@ -13,7 +13,6 @@
 
   - [Piriform網站](http://www.piriform.com/)
 
-[Category:英国软件公司](https://zh.wikipedia.org/wiki/Category:英国软件公司 "wikilink")
-[Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink")
+[Category:英国软件公司](https://zh.wikipedia.org/wiki/Category:英国软件公司 "wikilink") [Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink")
 
 1.  [系統清理軟體CCleaner被駭 可能控制你的電腦](https://udn.com/news/story/6811/2708516)

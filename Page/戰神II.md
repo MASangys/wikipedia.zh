@@ -1,5 +1,4 @@
-為[索尼電腦娛樂聖塔莫尼卡工作室所開發的](https://zh.wikipedia.org/wiki/索尼電腦娛樂聖塔莫尼卡工作室 "wikilink")《[戰神](https://zh.wikipedia.org/wiki/戰神_\(動作遊戲\) "wikilink")》續篇新作，由[索尼電腦娛樂發行](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")。於2007年3月13日獨佔發行於[PlayStation
-2平台上](../Page/PlayStation_2.md "wikilink")。按情节来看是《战神》系列第六作。
+為[索尼電腦娛樂聖塔莫尼卡工作室所開發的](https://zh.wikipedia.org/wiki/索尼電腦娛樂聖塔莫尼卡工作室 "wikilink")《[戰神](https://zh.wikipedia.org/wiki/戰神_\(動作遊戲\) "wikilink")》續篇新作，由[索尼電腦娛樂發行](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")。於2007年3月13日獨佔發行於[PlayStation 2平台上](../Page/PlayStation_2.md "wikilink")。按情节来看是《战神》系列第六作。
 
 SCEA於2009年11月17日推出重製《戰神》與《戰神II》戰神合輯版，並針對PS3硬體加以強化移植，解析度提升為720p，也支援PS3獎盃系統。
 
@@ -31,13 +30,4 @@ SCEA於2009年11月17日推出重製《戰神》與《戰神II》戰神合輯版
 
   - [《戰神II》中文簡介](http://asia.playstation.com/tw/cht/game/gameDetail/88420)
 
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:战神系列](https://zh.wikipedia.org/wiki/Category:战神系列 "wikilink")
-[Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink")
-[Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:时间旅行游戏](https://zh.wikipedia.org/wiki/Category:时间旅行游戏 "wikilink")
-[Category:报复题材电子游戏](https://zh.wikipedia.org/wiki/Category:报复题材电子游戏 "wikilink")
+[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:战神系列](https://zh.wikipedia.org/wiki/Category:战神系列 "wikilink") [Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:时间旅行游戏](https://zh.wikipedia.org/wiki/Category:时间旅行游戏 "wikilink") [Category:报复题材电子游戏](https://zh.wikipedia.org/wiki/Category:报复题材电子游戏 "wikilink")

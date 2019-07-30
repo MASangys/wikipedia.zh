@@ -35,9 +35,6 @@
 
   - [Pl@net sphere](http://www.planet-sphere.jp/)（sphere 官方網站）
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
-[Category:Sphere歌曲](https://zh.wikipedia.org/wiki/Category:Sphere歌曲 "wikilink")
-[Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:Sphere歌曲](https://zh.wikipedia.org/wiki/Category:Sphere歌曲 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
 
 1.  <http://www.planet-sphere.jp/discography.html>

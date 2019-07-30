@@ -1,6 +1,4 @@
-『**Our Steady
-Boy**』是[ゆいかおり的第](https://zh.wikipedia.org/wiki/ゆいかおり "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年5月12日由[King
-Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
+『**Our Steady Boy**』是[ゆいかおり的第](https://zh.wikipedia.org/wiki/ゆいかおり "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年5月12日由[King Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 概要
 
@@ -22,6 +20,4 @@ Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
   - [電視動畫公式](http://www.starchild.co.jp/special/kiss_sis/index.html)
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")

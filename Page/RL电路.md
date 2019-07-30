@@ -2,7 +2,7 @@
 
 ## 概论
 
-最基本的[被动线性元件为](https://zh.wikipedia.org/wiki/被动元件 "wikilink")[电阻器](https://zh.wikipedia.org/wiki/电阻器 "wikilink")（R）、[电容器](../Page/电容器.md "wikilink")（C）和[电感元件](../Page/电感元件.md "wikilink")（L）。这些元件可以被用来组成4种不同的电路：[RC电路](https://zh.wikipedia.org/wiki/RC电路 "wikilink")、RL电路、[LC电路和](../Page/LC电路.md "wikilink")[RLC电路](../Page/RLC电路.md "wikilink")，这些名称都缘于各自所使用元件的英语缩写。它们体现了一些对于模拟电子技术来说很重要的性质。它们都可以被用作被动滤波器。本条目主要讲述RL电路串联、并联状态的情况。
+最基本的[被动线性元件为](https://zh.wikipedia.org/wiki/被动元件 "wikilink")[电阻器](https://zh.wikipedia.org/wiki/电阻器 "wikilink")（R）、[电容器](../Page/电容器.md "wikilink")（C）和[电感元件](../Page/电感元件.md "wikilink")（L）。这些元件可以被用来组成4种不同的电路：[RC电路](https://zh.wikipedia.org/wiki/RC电路 "wikilink")、RL电路、[LC电路](../Page/LC电路.md "wikilink")和[RLC电路](../Page/RLC电路.md "wikilink")，这些名称都缘于各自所使用元件的英语缩写。它们体现了一些对于模拟电子技术来说很重要的性质。它们都可以被用作被动滤波器。本条目主要讲述RL电路串联、并联状态的情况。
 
 在实际应用中通常使用电容器（以及RC电路）而非电感来构成滤波电路。这是因为电容更容易制造，且元件的尺寸普遍更小。
 
@@ -22,7 +22,7 @@
 
 \[j^2 = -1\]
 
-  - \(\sigma \\)为[指数衰减常数](../Page/指数衰减.md "wikilink")（以[每秒弧度为单位](https://zh.wikipedia.org/wiki/每秒弧度 "wikilink")），且
+  - \(\sigma \\)为[指数衰减](../Page/指数衰减.md "wikilink")常数（以[每秒弧度为单位](https://zh.wikipedia.org/wiki/每秒弧度 "wikilink")），且
 
 <!-- end list -->
 
@@ -50,8 +50,7 @@
 
 ## 串联
 
-[Series-RL.svg](https://zh.wikipedia.org/wiki/File:Series-RL.svg "fig:Series-RL.svg")
-如果把整个RL电路看做一个按阻抗进行[分压](https://zh.wikipedia.org/wiki/电压分配定则 "wikilink")\[4\]的系统，则电感元件“分得”的电压为：
+[Series-RL.svg](https://zh.wikipedia.org/wiki/File:Series-RL.svg "fig:Series-RL.svg") 如果把整个RL电路看做一个按阻抗进行[分压](https://zh.wikipedia.org/wiki/电压分配定则 "wikilink")\[4\]的系统，则电感元件“分得”的电压为：
 
 \[V_L(s) = \frac{Ls}{R+Ls}V_{in}(s)\]
 
@@ -67,7 +66,7 @@
 
 ### 传递函数
 
-电感元件的[传递函数为](../Page/传递函数.md "wikilink")：
+电感元件的[传递函数](../Page/传递函数.md "wikilink")为：
 
 \[H_L(s) = { V_L(s) \over V_{in}(s) }   = { Ls \over R + Ls  }  =  G_L e^{j \phi_L}\]
 
@@ -103,7 +102,7 @@
 
 ### 相量表示
 
-通常用[相量代替上面的式子来表达输出](../Page/相量.md "wikilink")\[5\]：
+通常用[相量](../Page/相量.md "wikilink")代替上面的式子来表达输出\[5\]：
 
 \[V_L = G_{L}V_{in} e^{j \phi_L}\]
 
@@ -111,13 +110,13 @@
 
 ### 脉冲响应
 
-每一种[电压的](https://zh.wikipedia.org/wiki/电压 "wikilink")[冲激响应是对应传输函数的反](../Page/冲激响应.md "wikilink")[拉普拉斯变换](https://zh.wikipedia.org/wiki/拉普拉斯变换 "wikilink")。它代表电路对于包含脉冲或[狄拉克δ函数的输入电压的响应](../Page/狄拉克δ函数.md "wikilink")。
+每一种[电压的](https://zh.wikipedia.org/wiki/电压 "wikilink")[冲激响应](../Page/冲激响应.md "wikilink")是对应传输函数的反[拉普拉斯变换](https://zh.wikipedia.org/wiki/拉普拉斯变换 "wikilink")。它代表电路对于包含脉冲或[狄拉克δ函数](../Page/狄拉克δ函数.md "wikilink")的输入电压的响应。
 
 电感元件电压的响应为：
 
 \[h_L(t) = \delta(t)- { R \over L} e^{-tR / L} u(t)   =  \delta(t) - { 1 \over \tau} e^{-t / \tau} u(t)\]
 
-这里*u*(*t*)是[单位阶跃函数且](../Page/单位阶跃函数.md "wikilink")
+这里*u*(*t*)是[单位阶跃函数](../Page/单位阶跃函数.md "wikilink")且
 
 \[\tau = { L \over R}\]为[时间常数](https://zh.wikipedia.org/wiki/时间常数 "wikilink")。
 
@@ -137,8 +136,7 @@ RL电路的零输入响应（）描述了电路在不连接输入信号源的情
 
 ## 并联
 
-[RL_Parallel_Filter_(with_I_Labels).svg](https://zh.wikipedia.org/wiki/File:RL_Parallel_Filter_\(with_I_Labels\).svg "fig:RL_Parallel_Filter_(with_I_Labels).svg")
-除非连接到[电流源](https://zh.wikipedia.org/wiki/电流源 "wikilink")，RL电路的并联形式很少引起人们的兴趣。这主要是因为输出电压\(V_{out}\)等于输入电压\(V_{in}\)，这样，整个电路并未能充当一个电压信号的滤波器。
+[RL_Parallel_Filter_(with_I_Labels).svg](https://zh.wikipedia.org/wiki/File:RL_Parallel_Filter_\(with_I_Labels\).svg "fig:RL_Parallel_Filter_(with_I_Labels).svg") 除非连接到[电流源](https://zh.wikipedia.org/wiki/电流源 "wikilink")，RL电路的并联形式很少引起人们的兴趣。这主要是因为输出电压\(V_{out}\)等于输入电压\(V_{in}\)，这样，整个电路并未能充当一个电压信号的滤波器。
 
 复阻抗为：
 
@@ -148,7 +146,7 @@ RL电路的零输入响应（）描述了电路在不连接输入信号源的情
 
 这表明电感元件在相位上落后电阻器（以及输入信号）90度。
 
-RL电路的并联形式经常在[放大器电路的输出级上](https://zh.wikipedia.org/wiki/放大器电路 "wikilink")，使[放大器与负载隔离](../Page/放大器.md "wikilink")。由于电容器引入的相移，有些放大器在高频的情况会变得不稳定，容易产生振荡。这会影响电器功能（例如[音响的音效品质](../Page/高保真.md "wikilink")）和其使用寿命（特别是对[晶体管来说](../Page/晶体管.md "wikilink")），所以应当尽量避免。
+RL电路的并联形式经常在[放大器电路的输出级上](https://zh.wikipedia.org/wiki/放大器电路 "wikilink")，使[放大器](../Page/放大器.md "wikilink")与负载隔离。由于电容器引入的相移，有些放大器在高频的情况会变得不稳定，容易产生振荡。这会影响电器功能（例如[音响的音效品质](../Page/高保真.md "wikilink")）和其使用寿命（特别是对[晶体管](../Page/晶体管.md "wikilink")来说），所以应当尽量避免。
 
 ## 参考文献
 

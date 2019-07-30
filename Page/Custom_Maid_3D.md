@@ -1,6 +1,4 @@
-**Custom Maid
-3D**（カスタムメイド3D）是[KISS在](https://zh.wikipedia.org/wiki/KISS "wikilink")2011年1月28日發售的[養成模擬類型](https://zh.wikipedia.org/wiki/養成遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]本作也是Custom系列作品首度的3D化作品，之後又陸續發售數款資料片。2015年7月24日發售《Custom
-Maid 3D 2》（カスタムメイド3D2）\[2\]
+**Custom Maid 3D**（カスタムメイド3D）是[KISS在](https://zh.wikipedia.org/wiki/KISS "wikilink")2011年1月28日發售的[養成模擬類型](https://zh.wikipedia.org/wiki/養成遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]本作也是Custom系列作品首度的3D化作品，之後又陸續發售數款資料片。2015年7月24日發售《Custom Maid 3D 2》（カスタムメイド3D2）\[2\]
 
 ## 故事
 
@@ -14,8 +12,7 @@ Maid 3D 2》（カスタムメイド3D2）\[2\]
 
 #### 性格
 
-原始的遊戲系統將個性分為四個類型，分別占在性格四角型的四端，性格會依據主人公對於女僕的行為過程發生改變，初始時玩家可以決定女僕的性格。而資料片「カスタムメイド3D
-性格パック」中則新增兩種性格健気和ドS。\[4\]
+原始的遊戲系統將個性分為四個類型，分別占在性格四角型的四端，性格會依據主人公對於女僕的行為過程發生改變，初始時玩家可以決定女僕的性格。而資料片「カスタムメイド3D 性格パック」中則新增兩種性格健気和ドS。\[4\]
 
   - 甘えん坊
 
@@ -148,11 +145,7 @@ Maid 3D 2》（カスタムメイド3D2）\[2\]
   - [KISS Official Website](http://www.kisskiss.tv/)
   - [カスタムメイド3D](http://www.kisskiss.tv/cm3d/)
 
-[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:模擬遊戲](https://zh.wikipedia.org/wiki/Category:模擬遊戲 "wikilink")
-[Category:三維日本成人遊戲](https://zh.wikipedia.org/wiki/Category:三維日本成人遊戲 "wikilink")
-[Category:女僕題材作品](https://zh.wikipedia.org/wiki/Category:女僕題材作品 "wikilink")
+[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:模擬遊戲](https://zh.wikipedia.org/wiki/Category:模擬遊戲 "wikilink") [Category:三維日本成人遊戲](https://zh.wikipedia.org/wiki/Category:三維日本成人遊戲 "wikilink") [Category:女僕題材作品](https://zh.wikipedia.org/wiki/Category:女僕題材作品 "wikilink")
 
 1.  [カスタムメイド3D](http://www.getchu.com/soft.phtml?id=686413)Getchu.com
 2.  [カスタムメイド3D2](http://www.getchu.com/soft.phtml?id=853835)Getchu.com

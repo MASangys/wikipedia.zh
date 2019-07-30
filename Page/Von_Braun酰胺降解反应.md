@@ -12,9 +12,7 @@
 
 ## 参考资料
 
-[Category:消除反应](https://zh.wikipedia.org/wiki/Category:消除反应 "wikilink")
-[Category:降解反应](https://zh.wikipedia.org/wiki/Category:降解反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:消除反应](https://zh.wikipedia.org/wiki/Category:消除反应 "wikilink") [Category:降解反应](https://zh.wikipedia.org/wiki/Category:降解反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.

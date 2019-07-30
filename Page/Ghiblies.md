@@ -1,4 +1,4 @@
-《**Ghiblies**》（）為日本[吉卜力工作室製作的電視動畫短片](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")，於2000年在[日本電視台播放](../Page/日本電視台.md "wikilink")。
+《**Ghiblies**》（）為日本[吉卜力工作室製作的電視動畫短片](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")，於2000年在[日本電視台](../Page/日本電視台.md "wikilink")播放。
 
 ## 劇情簡介
 
@@ -37,12 +37,8 @@
 
   - [TAITO電子遊戲《塗鴉王國》製作的Ghiblies角色群](http://www.garakuta-studio.com/ghiblies/index.html)
 
-[en:Studio Ghibli short
-films\#Ghiblies](https://zh.wikipedia.org/wiki/en:Studio_Ghibli_short_films#Ghiblies "wikilink")
+[en:Studio Ghibli short films\#Ghiblies](https://zh.wikipedia.org/wiki/en:Studio_Ghibli_short_films#Ghiblies "wikilink")
 
-[Category:吉卜力工作室短篇動畫](https://zh.wikipedia.org/wiki/Category:吉卜力工作室短篇動畫 "wikilink")
-[Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink")
-[Category:日本電視台動畫](https://zh.wikipedia.org/wiki/Category:日本電視台動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:吉卜力工作室短篇動畫](https://zh.wikipedia.org/wiki/Category:吉卜力工作室短篇動畫 "wikilink") [Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink") [Category:日本電視台動畫](https://zh.wikipedia.org/wiki/Category:日本電視台動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 
 1.  《風之谷》DVD的幕後花絮短片～「」

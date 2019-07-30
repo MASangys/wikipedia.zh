@@ -1,29 +1,20 @@
-《**Smile
-光之美少女！**》（），是由[東映動畫所製作的](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")[魔法少女動畫作品](../Page/魔法少女.md "wikilink")，「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」第九部作品，屬第七代光之美少女，於2012年2月5日在[朝日電視系播出](../Page/全日本新聞網.md "wikilink")。台灣和香港分別在2014年8月16日和2015年6月25日以「**Smile
-光之美少女！**」的名義播出。美國的Saban Entertainment在2015年12月18日開始以「**Glitter
-Force**」的名義於歐洲地區版本的[Netflix提供點播服務](../Page/Netflix.md "wikilink")。
+《**Smile 光之美少女！**》（），是由[東映動畫所製作的](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")[魔法少女](../Page/魔法少女.md "wikilink")動畫作品，「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」第九部作品，屬第七代光之美少女，於2012年2月5日在[朝日電視系播出](../Page/全日本新聞網.md "wikilink")。台灣和香港分別在2014年8月16日和2015年6月25日以「**Smile 光之美少女！**」的名義播出。美國的Saban Entertainment在2015年12月18日開始以「**Glitter Force**」的名義於歐洲地區版本的[Netflix](../Page/Netflix.md "wikilink")提供點播服務。
 
 ## 概要
 
-本作是系列中從第四季「[Yes\!
-光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")」以來，再次出現五人的組合模式。
+本作是系列中從第四季「[Yes\! 光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")」以來，再次出現五人的組合模式。
 
 「如果笑口常開，快樂未來將在等待」則為本作的主題標語，內容描繪主角們一同成長的過程，即使遇到許多困難而挫敗，但只要一抹微笑，便有強勁力量、力爭上游以及絕不放棄的心。
 
-以下為東映動畫製作人梅澤淳稔的簡介「光之美少女系列的五人團隊於2012年活力四射！在2011年，日本發生了一件悲痛的災難（即[日本311](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")），為了走出陰霾邁向未來，就需要團隊的『同心協力』、『彼此揮汗』、『不忘笑容』、『絕不放棄』，因此《Smile
-光之美少女！》在此。」
+以下為東映動畫製作人梅澤淳稔的簡介「光之美少女系列的五人團隊於2012年活力四射！在2011年，日本發生了一件悲痛的災難（即[日本311](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")），為了走出陰霾邁向未來，就需要團隊的『同心協力』、『彼此揮汗』、『不忘笑容』、『絕不放棄』，因此《Smile 光之美少女！》在此。」
 
 本作的第11話同時也是整個光之美少女系列的第400話。
 
 ## 故事簡介
 
-在遙遠的地方，有一個洋溢著各式各樣的童話故事、可愛和快樂的國家「童話國度」（Märchen Land）（在Glitter
-Force被称为Jubiland）。然而，「悲劇王國」（Bad End
-Kingdom）的皇帝入侵了「童話國度」，使女王失去力量。精靈糖糖隨即前往地球，尋找傳說中的戰士「光之美少女」（Pretty
-Cure）。
+在遙遠的地方，有一個洋溢著各式各樣的童話故事、可愛和快樂的國家「童話國度」（Märchen Land）（在Glitter Force被称为Jubiland）。然而，「悲劇王國」（Bad End Kingdom）的皇帝入侵了「童話國度」，使女王失去力量。精靈糖糖隨即前往地球，尋找傳說中的戰士「光之美少女」（Pretty Cure）。
 
-來到七色丘的轉學生星空幸接獲一本從天而降的繪本，裡頭的精靈糖糖（Candy）竟然實體化並溜走了。直到下課時，她又被扯入異次元世界，只見糖糖正在逃避敵人。為了阻止敵人令世界進入悲劇結局，小幸決定接受糖糖的求救，變身成「光之美少女」－－快樂天使。此後，其餘的四位「光之美少女」陸續出現，與糖糖一同收集象徵幸福的「魔法果實」（Cure
-Decor），好讓女王恢復並對抗敵人。
+來到七色丘的轉學生星空幸接獲一本從天而降的繪本，裡頭的精靈糖糖（Candy）竟然實體化並溜走了。直到下課時，她又被扯入異次元世界，只見糖糖正在逃避敵人。為了阻止敵人令世界進入悲劇結局，小幸決定接受糖糖的求救，變身成「光之美少女」－－快樂天使。此後，其餘的四位「光之美少女」陸續出現，與糖糖一同收集象徵幸福的「魔法果實」（Cure Decor），好讓女王恢復並對抗敵人。
 
 ## 登場人物
 
@@ -31,8 +22,7 @@ Decor），好讓女王恢復並對抗敵人。
 
   -
 
-    本作主角之一，
-    七色丘中學的轉學生，現讀二年二班，14歲。個性開朗活潑，積極正面並勇於嘗試。性格冒失天真，但緊要關頭總能拉人一把。興趣是吃蛋糕和看繪本。跟小直一樣非常害怕鬼怪。
+    本作主角之一， 七色丘中學的轉學生，現讀二年二班，14歲。個性開朗活潑，積極正面並勇於嘗試。性格冒失天真，但緊要關頭總能拉人一把。興趣是吃蛋糕和看繪本。跟小直一樣非常害怕鬼怪。
 
     口頭禪是「超級快樂（Ultra Happy）！」
 
@@ -68,8 +58,7 @@ Decor），好讓女王恢復並對抗敵人。
   -
 
       -
-        在劇場版中出現。集合眾人力量所誕生的超強型態，可將魔王的強大攻擊，瞬間化成粉色羽毛消失，變身之後碰觸到大地，可將原本沉寂的樣子，瞬間變回原樣。無特殊攻擊招式，但可和其餘變身為公主型態
-        **（Princess Form）** 的光之美少女，一同淨化魔王。
+        在劇場版中出現。集合眾人力量所誕生的超強型態，可將魔王的強大攻擊，瞬間化成粉色羽毛消失，變身之後碰觸到大地，可將原本沉寂的樣子，瞬間變回原樣。無特殊攻擊招式，但可和其餘變身為公主型態 **（Princess Form）** 的光之美少女，一同淨化魔王。
 
 <!-- end list -->
 
@@ -102,8 +91,7 @@ Decor），好讓女王恢復並對抗敵人。
 
   -
 
-    本作主角之一，
-    七色丘中學二年二班學生。性格軟弱愛哭，但老實安分，意志力堅強。在班上沒什麼存在感，給人印象如妹妹一般，但家政上是個媽媽般的角色。熱愛漫畫、立志成為漫畫家，由於個性害羞而很少將自己作品分享他人。
+    本作主角之一， 七色丘中學二年二班學生。性格軟弱愛哭，但老實安分，意志力堅強。在班上沒什麼存在感，給人印象如妹妹一般，但家政上是個媽媽般的角色。熱愛漫畫、立志成為漫畫家，由於個性害羞而很少將自己作品分享他人。
 
     為了保護同學與維護作為畫家的尊嚴，以閃電的力量變身成和平天使
 
@@ -157,7 +145,7 @@ Decor），好讓女王恢復並對抗敵人。
 
   -
 
-    本作主角之一，七色丘中學二年二班學生，曾經任職學生會副會長，之後升任學生會會長（第37話），參與弓道部，與小直從小相識。出身自古風世家，多才多藝、形象優雅，善於賦詩，善良又美麗，有如[大和撫子一般](../Page/大和撫子.md "wikilink")。性格和善、理智、誠實，平常不怎發脾氣，但生氣時是最可怕的。善於用劍。
+    本作主角之一，七色丘中學二年二班學生，曾經任職學生會副會長，之後升任學生會會長（第37話），參與弓道部，與小直從小相識。出身自古風世家，多才多藝、形象優雅，善於賦詩，善良又美麗，有如[大和撫子](../Page/大和撫子.md "wikilink")一般。性格和善、理智、誠實，平常不怎發脾氣，但生氣時是最可怕的。善於用劍。
 
     為了維護學生會的尊嚴，以冰雪的力量變身成美麗天使
 
@@ -189,29 +177,21 @@ Decor），好讓女王恢復並對抗敵人。
   -
 
       -
-        第12話開始，糖糖變出彩虹魔法果實（Rainbow Cure
-        Decors），全體光之美少女將其放入變身道具，變出金色王冠，然後以五人為中心，向四周擴散出彩虹光波衝向敵人，加以淨化。
+        第12話開始，糖糖變出彩虹魔法果實（Rainbow Cure Decors），全體光之美少女將其放入變身道具，變出金色王冠，然後以五人為中心，向四周擴散出彩虹光波衝向敵人，加以淨化。
 
 :; 光之美少女 彩虹璀璨（Precure Rainbow Burst）
 
   -
 
       -
-        全體光之美少女於23話獲得公主魔法果實（Princess Cure Decors）後，變身為公主形態（Princess
-        Form），點燃自己的武器－－公主聖燭（Princess
-        Candle）並釋放出光束，化為五色天馬合一成巨大白馬，射出巨大的彩虹光波將敵人加以淨化。最後吹熄自己的燭光，使彩虹光波瞬間爆烈四射。
+        全體光之美少女於23話獲得公主魔法果實（Princess Cure Decors）後，變身為公主形態（Princess Form），點燃自己的武器－－公主聖燭（Princess Candle）並釋放出光束，化為五色天馬合一成巨大白馬，射出巨大的彩虹光波將敵人加以淨化。最後吹熄自己的燭光，使彩虹光波瞬間爆烈四射。
 
 :; 光之美少女 皇家彩虹璀璨（Precure Royal Rainbow Burst）
 
   -
 
       -
-        「彩虹璀璨」的進化招式。第32話後將皇家彩虹魔法果實（Royal Rainbow Cure
-        Decors）插入皇家魔法時鐘（Royale
-        Clock）并啟動，五色天馬合一成一隻巨大的火鳳凰，射出巨大的彩虹光波將敵人加以淨化。第48話中，主角們在超級型態（Ultra
-        Pretty Cure）之下，亦可使用強化的超級彩虹璀璨（Ultra Rainbow
-        Burst）及奇蹟寶石力量的奇蹟彩虹璀璨（Miracle
-        Rainbow Burst）。
+        「彩虹璀璨」的進化招式。第32話後將皇家彩虹魔法果實（Royal Rainbow Cure Decors）插入皇家魔法時鐘（Royale Clock）并啟動，五色天馬合一成一隻巨大的火鳳凰，射出巨大的彩虹光波將敵人加以淨化。第48話中，主角們在超級型態（Ultra Pretty Cure）之下，亦可使用強化的超級彩虹璀璨（Ultra Rainbow Burst）及奇蹟寶石力量的奇蹟彩虹璀璨（Miracle Rainbow Burst）。
 
 :; 光之美少女 火焰追擊（Precure Fire Shoot）
 
@@ -287,9 +267,7 @@ Decor），好讓女王恢復並對抗敵人。
 
     在第47話復活，之後更巨大化（比地球還大）。最後被光之美少女 奇蹟彩虹璀璨給消滅。
 
-    後來在[STMM中被索爾希埃爾的魔力以完全型態復活](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")，和葛亞聯手對抗[Go！Princess
-    光之美少女](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")，回聲天使與魔法天使，最後被[Go！Princess
-    光之美少女打敗](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")。
+    後來在[STMM中被索爾希埃爾的魔力以完全型態復活](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")，和葛亞聯手對抗[Go！Princess 光之美少女](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")，回聲天使與魔法天使，最後被[Go！Princess 光之美少女打敗](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")。
 
     皮耶羅原意為英文「（舊時[法國啞劇中的](https://zh.wikipedia.org/wiki/法國 "wikilink")）粉白臉丑角（Pierrot）」
 
@@ -297,7 +275,7 @@ Decor），好讓女王恢復並對抗敵人。
 
   -
 
-    本作第二大反派，皮耶羅的幹部之一，性格陰險扭曲，總是蒙面、耍[雜技和玩](../Page/雜技.md "wikilink")[撲克牌](https://zh.wikipedia.org/wiki/撲克牌 "wikilink")。主導另外三位幹部的行動，並試圖尋找童話國度傳說中的「奇蹟寶石」。
+    本作第二大反派，皮耶羅的幹部之一，性格陰險扭曲，總是蒙面、耍[雜技](../Page/雜技.md "wikilink")和玩[撲克牌](https://zh.wikipedia.org/wiki/撲克牌 "wikilink")。主導另外三位幹部的行動，並試圖尋找童話國度傳說中的「奇蹟寶石」。
 
     最終在第46話時在將所有的悲劇能量獻給皮耶羅後，化為黑色顏料與皮耶羅融為一體。
 
@@ -381,8 +359,7 @@ Decor），好讓女王恢復並對抗敵人。
 
       -
 
-        自比為「燒盡一切事物的太陽」，燒盡一切美好的事物。和晴朗天使「勢不兩立」。最後被晴朗天使使出“光之美少女 晴朗火焰
-        熾熱燃燒”打敗。
+        自比為「燒盡一切事物的太陽」，燒盡一切美好的事物。和晴朗天使「勢不兩立」。最後被晴朗天使使出“光之美少女 晴朗火焰 熾熱燃燒”打敗。
 
 ::;必殺技
 
@@ -517,7 +494,7 @@ Decor），好讓女王恢復並對抗敵人。
 
   -
 
-    麗華的母親，為[合氣道老師](../Page/合氣道.md "wikilink")。
+    麗華的母親，為[合氣道](../Page/合氣道.md "wikilink")老師。
 
 <!-- end list -->
 
@@ -569,8 +546,7 @@ Decor），好讓女王恢復並對抗敵人。
 <!-- end list -->
 
   -
-    光之美少女變身為公主形態（Princess
-    Form）時使用的武器，可以使出「彩虹璀璨」，若配合其他角色或道具，可以使出更強的「皇家彩虹璀璨」、「超級彩虹璀璨」和「奇跡彩虹璀璨」。
+    光之美少女變身為公主形態（Princess Form）時使用的武器，可以使出「彩虹璀璨」，若配合其他角色或道具，可以使出更強的「皇家彩虹璀璨」、「超級彩虹璀璨」和「奇跡彩虹璀璨」。
 
 <!-- end list -->
 
@@ -618,8 +594,8 @@ Decor），好讓女王恢復並對抗敵人。
 <tr class="header">
 <th><p>話數</p></th>
 <th><p>標題（日文原文）[11]</p></th>
-<th><p>標題（台灣<a href="../Page/東森幼幼台.md" title="wikilink">東森幼幼台翻譯</a>）</p></th>
-<th><p>標題（香港<a href="../Page/翡翠台.md" title="wikilink">翡翠台翻譯</a>）</p></th>
+<th><p>標題（台灣<a href="../Page/東森幼幼台.md" title="wikilink">東森幼幼台</a>翻譯）</p></th>
+<th><p>標題（香港<a href="../Page/翡翠台.md" title="wikilink">翡翠台</a>翻譯）</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡/演出</p></th>
 <th><p>作畫監督</p></th>
@@ -1360,8 +1336,7 @@ Decor），好讓女王恢復並對抗敵人。
   - OST1「」（第34話）
     作詞：青木久美子，作曲：高梨康治，編曲：藤澤健至，歌：Smile 光之美少女 with 糖糖
   - OST2「」（第43話）
-    作詞：實之里，作曲、編曲：岡部啟一（MONACA），歌：青木麗華／Cure
-    Beauty（[西村千奈美](../Page/西村千奈美.md "wikilink")）
+    作詞：實之里，作曲、編曲：岡部啟一（MONACA），歌：青木麗華／Cure Beauty（[西村千奈美](../Page/西村千奈美.md "wikilink")）
   - OST3「」（第44話、第48話）
     作詞：Funta3，作曲、編曲：Funta7，歌：Smile 光之美少女
 
@@ -1378,22 +1353,19 @@ Decor），好讓女王恢復並對抗敵人。
 #### 故事簡介
 
   -
-    令人期待已久的“世界绘本大博览”隆重開幕，幸等五人相约前往参观。正当她们正在看电影时，繪本里被追杀的少女-**妮可**和反派**金角**、**银角**竟然跳到现实世界⋯⋯光之美少女救下妮可后，被她带入充满瑰丽色彩和想象力的绘本世界，那里生活著桃太郎、拇指姑娘、一寸法师等绘本人物。幸她们也根据各自的喜好变成心仪的角色。
-    然而，这个有着神奇体验的童话世界，却不知为何開始失去了控制，发生错乱⋯⋯
+    令人期待已久的“世界绘本大博览”隆重開幕，幸等五人相约前往参观。正当她们正在看电影时，繪本里被追杀的少女-**妮可**和反派**金角**、**银角**竟然跳到现实世界⋯⋯光之美少女救下妮可后，被她带入充满瑰丽色彩和想象力的绘本世界，那里生活著桃太郎、拇指姑娘、一寸法师等绘本人物。幸她们也根据各自的喜好变成心仪的角色。 然而，这个有着神奇体验的童话世界，却不知为何開始失去了控制，发生错乱⋯⋯
 
 #### 登場人物
 
   -
 
-    來自兒童圖畫書世界（World of the Picture
-    Books）中的神秘少女，經常抱著一本兒童圖畫書，在世界兒童圖畫書博覽會上被金角大王、银角大王追捕時，被幸等人所救並帶領她們來到兒童圖畫書世界。
+    來自兒童圖畫書世界（World of the Picture Books）中的神秘少女，經常抱著一本兒童圖畫書，在世界兒童圖畫書博覽會上被金角大王、银角大王追捕時，被幸等人所救並帶領她們來到兒童圖畫書世界。
 
 <!-- end list -->
 
   -
 
-    本作頭號反派，為兒童圖畫書世界中一個兇狠殘暴的大惡魔，其真身是一只全身漆黑的巨大惡龍，試圖將兒童圖畫書世界變成「永不完結的結局」。最終被「超級快樂天使」（Ultra
-    Cure Happy）淨化掉身上邪惡的憎恨之力後恢復正常，并與妮可等人和解。
+    本作頭號反派，為兒童圖畫書世界中一個兇狠殘暴的大惡魔，其真身是一只全身漆黑的巨大惡龍，試圖將兒童圖畫書世界變成「永不完結的結局」。最終被「超級快樂天使」（Ultra Cure Happy）淨化掉身上邪惡的憎恨之力後恢復正常，并與妮可等人和解。
 
 <!-- end list -->
 
@@ -1443,29 +1415,21 @@ Decor），好讓女王恢復並對抗敵人。
 ### All Stars 系列電影
 
   -
-    主條目：[All Stars
-    系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
+    主條目：[All Stars 系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
 
 <!-- end list -->
 
-  - [All Stars New
-    Stage上映於本作播出時](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")，因此以本作故事初期設定為準。
+  - [All Stars New Stage上映於本作播出時](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")，因此以本作故事初期設定為準。
 
 <!-- end list -->
 
   -
-    [光之美少女 All Stars New Stage
-    未來的朋友](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")
-    [光之美少女 All Stars New Stage2
-    心之朋友](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")
-    [光之美少女 All Stars New Stage3
-    永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
-    [光之美少女 All Stars
-    春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
-    [光之美少女 All Stars
-    大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
-    [HUG！光之美少女♡光之美少女 All Stars
-    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
+    [光之美少女 All Stars New Stage 未來的朋友](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")
+    [光之美少女 All Stars New Stage2 心之朋友](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")
+    [光之美少女 All Stars New Stage3 永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
+    [光之美少女 All Stars 春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
+    [光之美少女 All Stars 大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
+    [HUG！光之美少女♡光之美少女 All Stars Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ## 相關資料、補充
 
@@ -1477,8 +1441,7 @@ Decor），好讓女王恢復並對抗敵人。
 
   - [Smile 光之美少女！（ABC）](http://asahi.co.jp/smile_precure/)
 
-  - [電影 Smile
-    光之美少女！兒童圖畫書裡的世界都不協調！（東映動畫）](http://www.toei-anim.co.jp/movie/2012_smile_precure/)
+  - [電影 Smile 光之美少女！兒童圖畫書裡的世界都不協調！（東映動畫）](http://www.toei-anim.co.jp/movie/2012_smile_precure/)
 
   - [《Smile光之美少女\!》台灣官方網站](http://bandai.tw/smile_precure/index.html)
 
@@ -1567,10 +1530,7 @@ Decor），好讓女王恢復並對抗敵人。
 </tbody>
 </table>
 
-[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
-[Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.  原文：
 

@@ -1,5 +1,4 @@
-**SINA
-Music樂壇民意指數頒獎禮2010**，於2011年1月19日假[九龍灣國際展貿中心HALL](../Page/九龍灣國際展貿中心.md "wikilink")2舉行，主題為「樂力轉．發好音樂」，主持為[周子駒](../Page/周子駒.md "wikilink")、[楊愛瑾](../Page/楊愛瑾.md "wikilink")，當晚共頒發28個項目，其中14項「我最喜愛」獎項為由網民選舉得出，總共37個獎項，以下為當晚的得獎名單：
+**SINA Music樂壇民意指數頒獎禮2010**，於2011年1月19日假[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")HALL2舉行，主題為「樂力轉．發好音樂」，主持為[周子駒](../Page/周子駒.md "wikilink")、[楊愛瑾](../Page/楊愛瑾.md "wikilink")，當晚共頒發28個項目，其中14項「我最喜愛」獎項為由網民選舉得出，總共37個獎項，以下為當晚的得獎名單：
 
 ## 得獎名單
 
@@ -24,8 +23,7 @@ Music樂壇民意指數頒獎禮2010**，於2011年1月19日假[九龍灣國際�
   - 《一絲不掛》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")
   - 《K歌之后》 ——[鄭融](../Page/鄭融.md "wikilink")
   - 《中學生應該談戀愛》 ——[野仔](https://zh.wikipedia.org/wiki/野仔 "wikilink")
-  - 《Summer of Love》
-    ——[盧凱彤](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink")
+  - 《Summer of Love》 ——[盧凱彤](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink")
 
 ### SINA Music 民意指數大獎
 
@@ -36,12 +34,9 @@ Music樂壇民意指數頒獎禮2010**，於2011年1月19日假[九龍灣國際�
   - 我最喜愛新組合
       - [糖兄妹](../Page/糖兄妹.md "wikilink")
   - 我最喜愛演唱會
-      - 《農夫Down to Earth Concert 2010》
-        ——[農夫](../Page/農夫_\(組合\).md "wikilink")
+      - 《農夫Down to Earth Concert 2010》 ——[農夫](../Page/農夫_\(組合\).md "wikilink")
   - 我最喜愛至尊大碟
-      - 《[Time
-        Flies](https://zh.wikipedia.org/wiki/Time_Flies_\(EP\) "wikilink")》
-        ——[陳奕迅](../Page/陳奕迅.md "wikilink")
+      - 《[Time Flies](https://zh.wikipedia.org/wiki/Time_Flies_\(EP\) "wikilink")》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")
   - 我最喜愛唱作人
       - [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
   - 我最喜愛男歌手(香港)
@@ -70,8 +65,7 @@ Music樂壇民意指數頒獎禮2010**，於2011年1月19日假[九龍灣國際�
   - SINA MUSIC 電視劇主題曲大獎
       - 《直到你不找我》 ——[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
   - SINA MUSIC 合唱歌曲大獎
-      - 《Happiness》 ——[陳奐仁](../Page/陳奐仁.md "wikilink")、[MC
-        Jin](https://zh.wikipedia.org/wiki/MC_Jin "wikilink")
+      - 《Happiness》 ——[陳奐仁](../Page/陳奐仁.md "wikilink")、[MC Jin](https://zh.wikipedia.org/wiki/MC_Jin "wikilink")
   - SINA MUSIC 原創歌曲大獎
       - 《有時》 ——[周國賢](../Page/周國賢.md "wikilink")
   - SINA MUSIC 最高收視 MV 大獎
@@ -83,36 +77,27 @@ Music樂壇民意指數頒獎禮2010**，於2011年1月19日假[九龍灣國際�
   - SINA MUSIC 傑出音樂人大獎
       - [陳奐仁](../Page/陳奐仁.md "wikilink")
   - SINA MUSIC 創作概念大碟
-      - 《[Man in the
-        Mirror](../Page/Man_in_the_Mirror_\(孫耀威專輯\).md "wikilink")》
-        ——[孫耀威](../Page/孫耀威.md "wikilink")
+      - 《[Man in the Mirror](../Page/Man_in_the_Mirror_\(孫耀威專輯\).md "wikilink")》 ——[孫耀威](../Page/孫耀威.md "wikilink")
   - SINA MUSIC 全碟試聽 –最高收聽率大碟
-      - 《[No. Eleven](../Page/No._Eleven.md "wikilink")》
-        ——[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
+      - 《[No. Eleven](../Page/No._Eleven.md "wikilink")》 ——[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
 
 ### 微博發聲大獎
 
-  - [新浪微博發聲男歌手](../Page/新浪微博.md "wikilink")
+  - [新浪微博](../Page/新浪微博.md "wikilink")發聲男歌手
       - [周柏豪](../Page/周柏豪.md "wikilink")
-  - [新浪微博發聲女歌手](../Page/新浪微博.md "wikilink")
+  - [新浪微博](../Page/新浪微博.md "wikilink")發聲女歌手
       - [梁詠琪](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")
 
 ## 媒體播放
 
-於[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新浪網上直播及重溫](../Page/新浪.md "wikilink")。另外，本年度之賽果並不計算入[四台聯頒音樂大獎內](../Page/四台聯頒音樂大獎.md "wikilink")。
+於[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新浪](../Page/新浪.md "wikilink")網上直播及重溫。另外，本年度之賽果並不計算入[四台聯頒音樂大獎](../Page/四台聯頒音樂大獎.md "wikilink")內。
 
 ## 外部連結
 
-  - [SINA
-    Music樂壇民意指數頒獎禮2010](https://web.archive.org/web/20110120210628/http://campaign.sina.com.hk/musicawards10/live.php)
+  - [SINA Music樂壇民意指數頒獎禮2010](https://web.archive.org/web/20110120210628/http://campaign.sina.com.hk/musicawards10/live.php)
 
 ## 參看
 
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
 
-[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink")
-[Category:2010年香港](https://zh.wikipedia.org/wiki/Category:2010年香港 "wikilink")
-[Category:2010年音樂](https://zh.wikipedia.org/wiki/Category:2010年音樂 "wikilink")
-[Category:2011年奖项](https://zh.wikipedia.org/wiki/Category:2011年奖项 "wikilink")
-[Category:2011年1月](https://zh.wikipedia.org/wiki/Category:2011年1月 "wikilink")
+[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink") [Category:2010年香港](https://zh.wikipedia.org/wiki/Category:2010年香港 "wikilink") [Category:2010年音樂](https://zh.wikipedia.org/wiki/Category:2010年音樂 "wikilink") [Category:2011年奖项](https://zh.wikipedia.org/wiki/Category:2011年奖项 "wikilink") [Category:2011年1月](https://zh.wikipedia.org/wiki/Category:2011年1月 "wikilink")

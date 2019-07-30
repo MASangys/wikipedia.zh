@@ -1,41 +1,26 @@
-**Microsoft Windows SDK**（简称Windows
-SDK或者SDK）是由[微软](../Page/微软.md "wikilink")公司出品的一个[软件开发包](https://zh.wikipedia.org/wiki/软件开发包 "wikilink")，向在微软的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")和[.NET框架](../Page/.NET框架.md "wikilink")上开发软件和网站的程序员提供[头文件](../Page/头文件.md "wikilink")、[库文件](https://zh.wikipedia.org/wiki/库文件 "wikilink")、示例代码、开发文档和开发工具\[1\]。
+**Microsoft Windows SDK**（简称Windows SDK或者SDK）是由[微软](../Page/微软.md "wikilink")公司出品的一个[软件开发包](https://zh.wikipedia.org/wiki/软件开发包 "wikilink")，向在微软的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")和[.NET框架](../Page/.NET框架.md "wikilink")上开发软件和网站的程序员提供[头文件](../Page/头文件.md "wikilink")、[库文件](https://zh.wikipedia.org/wiki/库文件 "wikilink")、示例代码、开发文档和开发工具\[1\]。
 
 ## 历史
 
-微软每次发布一个主要版本的Windows，都会发布对应的开发工具以使得开发人员能够调用新的操作系统的[应用程序开发接口](../Page/Windows_API.md "wikilink")(API)。在[Windows
-98之后](../Page/Windows_98.md "wikilink")，这个开发工具包被命名为为**Platform
-SDK**。在[Windows
-Vista的SDK推出时](../Page/Windows_Vista.md "wikilink")，这个产品改名为**Windows
-SDK**\[2\]。
+微软每次发布一个主要版本的Windows，都会发布对应的开发工具以使得开发人员能够调用新的操作系统的[应用程序开发接口](../Page/Windows_API.md "wikilink")(API)。在[Windows 98之后](../Page/Windows_98.md "wikilink")，这个开发工具包被命名为为**Platform SDK**。在[Windows Vista的SDK推出时](../Page/Windows_Vista.md "wikilink")，这个产品改名为**Windows SDK**\[2\]。
 
-和Windows一样，微软每次更新.NET框架，也会发布一个对应的.NET框架 SDK。在Windows 2008版本的Windows
-SDK推出之后，.NET框架SDK被整合到Windows SDK。
+和Windows一样，微软每次更新.NET框架，也会发布一个对应的.NET框架 SDK。在Windows 2008版本的Windows SDK推出之后，.NET框架SDK被整合到Windows SDK。
 
-截至2013年，最新版本的Windows SDK是Windows 8.1 SDK，支持面向Windows Vista/Server
-2008或更高版本的Windows的程序的开发\[3\]，以及兼容[Visual
-Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
-2010或者以上的版本，包括速成版本。
+截至2013年，最新版本的Windows SDK是Windows 8.1 SDK，支持面向Windows Vista/Server 2008或更高版本的Windows的程序的开发\[3\]，以及兼容[Visual Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink") 2010或者以上的版本，包括速成版本。
 
 ## 版本
 
 [MSDN技术资源库](../Page/MSDN技术资源库.md "wikilink")的在线版网站包含Windows SDK的在线版本。
 
-Microsoft SDK for Windows 3.0是最后一个收费版本的Windows SDK\[4\]。之后的Windows
-SDK电子版均为免费，但是购买[CD](../Page/CD.md "wikilink")、[DVD等基于物理介质的版本时仍需运费和处理费用](https://zh.wikipedia.org/wiki/DVD "wikilink")\[5\]。
+Microsoft SDK for Windows 3.0是最后一个收费版本的Windows SDK\[4\]。之后的Windows SDK电子版均为免费，但是购买[CD](../Page/CD.md "wikilink")、[DVD等基于物理介质的版本时仍需运费和处理费用](https://zh.wikipedia.org/wiki/DVD "wikilink")\[5\]。
 
-单独发布的电子版Windows SDK可以在微软下载中心免费下载，有在线安装和本地安装两种版本。在安装Visual
-Studio时也可以选择同时安装电子版Windows SDK。Visual
-Studio的速成版本包含一个精简版本的离线版Windows SDK。
+单独发布的电子版Windows SDK可以在微软下载中心免费下载，有在线安装和本地安装两种版本。在安装Visual Studio时也可以选择同时安装电子版Windows SDK。Visual Studio的速成版本包含一个精简版本的离线版Windows SDK。
 
 对于非PC版本的Windows，微软也发布对应版本的SDK，例如Windows Mobile SDK和Tablet PC SDK。
 
-2003年2月的Platform SDK是第一个支持64位开发的Platform SDK。Platform SDK for Windows
-Server 2003 SP1则是第一个支持AMD64的Platform SDK\[6\]。
+2003年2月的Platform SDK是第一个支持64位开发的Platform SDK。Platform SDK for Windows Server 2003 SP1则是第一个支持AMD64的Platform SDK\[6\]。
 
-Microsoft Windows SDK for Windows 7 and .NET Framework 4
-(ver7.1)在安装前应该卸载版本大于10.0.30319的VC++ x86/x64
-runtime/redistributable。否则在Microsoft Windows SDK安装过程中将会报错。
+Microsoft Windows SDK for Windows 7 and .NET Framework 4 (ver7.1)在安装前应该卸载版本大于10.0.30319的VC++ x86/x64 runtime/redistributable。否则在Microsoft Windows SDK安装过程中将会报错。
 
 <table>
 <caption>Microsoft SDK版本历史[7]</caption>
@@ -452,10 +437,7 @@ Windows SDK文档包含如下内容\[22\]：
 
 ## 影响
 
-[Windows API也被称为Windows](../Page/Windows_API.md "wikilink")
-SDK函数或者简称SDK函数\[27\]。相对于.Net框架这样的类库来说，SDK函数被认为是底层的API\[28\]。直接调用Windows
-SDK而不是用别的类库的开发被称为SDK编程\[29\]。在SDK这一层开发工作枯燥、耗时较长，难度也较高\[30\]，[Visual
-Studio这样的开发环境以及](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")[MFC和](https://zh.wikipedia.org/wiki/MFC "wikilink").Net框架这样的类库可以被用来加速面向Windows的软件的开发\[31\]。
+[Windows API也被称为Windows](../Page/Windows_API.md "wikilink") SDK函数或者简称SDK函数\[27\]。相对于.Net框架这样的类库来说，SDK函数被认为是底层的API\[28\]。直接调用Windows SDK而不是用别的类库的开发被称为SDK编程\[29\]。在SDK这一层开发工作枯燥、耗时较长，难度也较高\[30\]，[Visual Studio这样的开发环境以及](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")[MFC和](https://zh.wikipedia.org/wiki/MFC "wikilink").Net框架这样的类库可以被用来加速面向Windows的软件的开发\[31\]。
 
 ## 参考和引用
 
@@ -463,77 +445,45 @@ Studio这样的开发环境以及](https://zh.wikipedia.org/wiki/Visual_Studio "
 
   - [驱动程序开发工具包](https://zh.wikipedia.org/wiki/驱动程序开发工具包 "wikilink")
   - [DirectX SDK](https://zh.wikipedia.org/wiki/DirectX_SDK "wikilink")
-  - [Windows Media Center
-    SDK](https://zh.wikipedia.org/wiki/Windows_Media_Center_SDK "wikilink")
-  - [Silverlight
-    SDK](https://zh.wikipedia.org/wiki/Silverlight_SDK "wikilink")
+  - [Windows Media Center SDK](https://zh.wikipedia.org/wiki/Windows_Media_Center_SDK "wikilink")
+  - [Silverlight SDK](https://zh.wikipedia.org/wiki/Silverlight_SDK "wikilink")
 
 ## 外部链接
 
-  - [Windows
-    SDK主页](http://msdn.microsoft.com/en-us/windows/bb980924.aspx)
+  - [Windows SDK主页](http://msdn.microsoft.com/en-us/windows/bb980924.aspx)
   - [Windows SDK项目组博客](http://blogs.msdn.com/windowssdk/)
-  - [Windows
-    SDK论坛（英文）](http://social.msdn.microsoft.com/forums/en-US/windowssdk/threads/)
+  - [Windows SDK论坛（英文）](http://social.msdn.microsoft.com/forums/en-US/windowssdk/threads/)
 
 [分类:微軟開發工具](https://zh.wikipedia.org/wiki/分类:微軟開發工具 "wikilink")
 
-1.  [Windows SDK Frequently Asked
-    Questions](http://msdn.microsoft.com/en-us/windows/dd187216.aspx)
-2.  [Which SDK is Right for
-    Me?](http://msdn.microsoft.com/en-us/windows/dd146047.aspx)
-3.  [Windows 8.1 SDK
-    下载](http://msdn.microsoft.com/en-us/windows/desktop/bg162891)
+1.  [Windows SDK Frequently Asked Questions](http://msdn.microsoft.com/en-us/windows/dd187216.aspx)
+2.  [Which SDK is Right for Me?](http://msdn.microsoft.com/en-us/windows/dd146047.aspx)
+3.  [Windows 8.1 SDK 下载](http://msdn.microsoft.com/en-us/windows/desktop/bg162891)
 4.  《InfoWorld》，InfoWorld Media Group, Inc. 1991年2月25日出版
-5.  [Order Windows SDK/PSDK on
-    Disk](http://blogs.msdn.com/windowssdk/archive/2009/02/17/order-windows-sdk-psdk-on-disk.aspx)
-6.  [How to obtain the 64-bit version of the Visual C++ 7.1 libraries
-    and build tools](http://support.microsoft.com/kb/875446)
-7.  [Windows and Windows Phone SDK
-    archive](https://dev.windows.com/en-us/downloads/sdk-archive)
-8.  [Windows® Server 2003 SP1 Platform SDK Web
-    Install](https://www.microsoft.com/en-us/download/details.aspx?id=6510),
-    Microsoft Download Center "The last SDK that will work with VC 6.0
-    is the February 2003 Edition, you can order a CD on the fulfillment
-    site."
-9.  [12](http://social.msdn.microsoft.com/Forums/en-US/windowssdk/thread/bf785787-8821-4a46-849d-420cf25ed9ad/).
-    Social.msdn.microsoft.com. Retrieved on 2014-02-16.
-10. [Microsoft Windows SDK Blog: New samples in Win 7 SDK: Direct2D and
-    DirectWrite](http://blogs.msdn.com/windowssdk/archive/2009/10/20/new-samples-in-win-7-sdk-direct2d-and-directwrite.aspx)
+5.  [Order Windows SDK/PSDK on Disk](http://blogs.msdn.com/windowssdk/archive/2009/02/17/order-windows-sdk-psdk-on-disk.aspx)
+6.  [How to obtain the 64-bit version of the Visual C++ 7.1 libraries and build tools](http://support.microsoft.com/kb/875446)
+7.  [Windows and Windows Phone SDK archive](https://dev.windows.com/en-us/downloads/sdk-archive)
+8.  [Windows® Server 2003 SP1 Platform SDK Web Install](https://www.microsoft.com/en-us/download/details.aspx?id=6510), Microsoft Download Center "The last SDK that will work with VC 6.0 is the February 2003 Edition, you can order a CD on the fulfillment site."
+9.  [12](http://social.msdn.microsoft.com/Forums/en-US/windowssdk/thread/bf785787-8821-4a46-849d-420cf25ed9ad/). Social.msdn.microsoft.com. Retrieved on 2014-02-16.
+10. [Microsoft Windows SDK Blog: New samples in Win 7 SDK: Direct2D and DirectWrite](http://blogs.msdn.com/windowssdk/archive/2009/10/20/new-samples-in-win-7-sdk-direct2d-and-directwrite.aspx)
 11.
-12. [Released: Windows SDK for Windows 7 and .NET
-    Framework 4](http://blogs.msdn.com/windowssdk/archive/2010/05/21/Released_3A00_-Windows-SDK-for-Windows-7-and-.NET-Framework-4.aspx)
-13. [Windows SDK for Windows 8 – Windows Dev
-    Center](http://msdn.microsoft.com/en-US/windows/desktop/hh852363.aspx#rn).
-    Msdn.microsoft.com. Retrieved on 2014-02-16.
-14. [Building Apps for Windows 10 with Visual
-    Studio 2015](https://blogs.msdn.microsoft.com/somasegar/2015/07/29/building-apps-for-windows-10-with-visual-studio-2015/)
-15. [Windows 10 SDK Release
-    Notes](https://dev.windows.com/en-us/downloads/windows-10-sdk)
-16. [Visual Studio 2015 Update 1 Release
-    Notes](https://www.visualstudio.com/en-us/news/vs2015-update1-vs.aspx)
-17. [Release Notes, Windows SDK for Windows 7 and .NET Framework 3.5
-    SP1](http://download.microsoft.com/download/8/8/0/8808A472-6450-4723-9C87-977069714B27/ReleaseNotes_Win7RTMSDK.Htm)
-18. [Release Notes, Microsoft Windows SDK for Windows 7 and .NET
-    Framework 4](http://go.microsoft.com/fwlink/?LinkID=186826)
+12. [Released: Windows SDK for Windows 7 and .NET Framework 4](http://blogs.msdn.com/windowssdk/archive/2010/05/21/Released_3A00_-Windows-SDK-for-Windows-7-and-.NET-Framework-4.aspx)
+13. [Windows SDK for Windows 8 – Windows Dev Center](http://msdn.microsoft.com/en-US/windows/desktop/hh852363.aspx#rn). Msdn.microsoft.com. Retrieved on 2014-02-16.
+14. [Building Apps for Windows 10 with Visual Studio 2015](https://blogs.msdn.microsoft.com/somasegar/2015/07/29/building-apps-for-windows-10-with-visual-studio-2015/)
+15. [Windows 10 SDK Release Notes](https://dev.windows.com/en-us/downloads/windows-10-sdk)
+16. [Visual Studio 2015 Update 1 Release Notes](https://www.visualstudio.com/en-us/news/vs2015-update1-vs.aspx)
+17. [Release Notes, Windows SDK for Windows 7 and .NET Framework 3.5 SP1](http://download.microsoft.com/download/8/8/0/8808A472-6450-4723-9C87-977069714B27/ReleaseNotes_Win7RTMSDK.Htm)
+18. [Release Notes, Microsoft Windows SDK for Windows 7 and .NET Framework 4](http://go.microsoft.com/fwlink/?LinkID=186826)
 19.
 20.
 21.
-22. 《Super SQL Server Systems: Turbocharge Database Performance》，Joseph
-    Gama、Patrick Naughter著，Rampant技术出版社2006年出版，第98页
-23. [Microsoft Speech API
-    SDK](http://blogs.msdn.com/chuckop/archive/2006/11/24/microsoft-speech-api-sdk.aspx)
-24. \[<http://msdn.microsoft.com/en-us/library/dd375454(VS.85>).aspx
-    DirectShow\]
+22. 《Super SQL Server Systems: Turbocharge Database Performance》，Joseph Gama、Patrick Naughter著，Rampant技术出版社2006年出版，第98页
+23. [Microsoft Speech API SDK](http://blogs.msdn.com/chuckop/archive/2006/11/24/microsoft-speech-api-sdk.aspx)
+24. \[<http://msdn.microsoft.com/en-us/library/dd375454(VS.85>).aspx DirectShow\]
 25. 《Windows API编程/程序员书库》冉林仓著，清华大学2005年出版，第2页
-26. 《Windows graphics programming: Win32 GDI and
-    DirectDraw》，袁峰著，Prentice Hall PTR 2000年出版，第50页
-27. 《Microsoft Foundation Class 4 bible》Fred Pandolfi、Mike
-    Oliver、Michael Wolski著，Waite出版社集团1996年出版,693页
-28. 《Journal of object oriented programming, Volume 4, Issues 8-9》 SIGS
-    1992年出版，第59页
+26. 《Windows graphics programming: Win32 GDI and DirectDraw》，袁峰著，Prentice Hall PTR 2000年出版，第50页
+27. 《Microsoft Foundation Class 4 bible》Fred Pandolfi、Mike Oliver、Michael Wolski著，Waite出版社集团1996年出版,693页
+28. 《Journal of object oriented programming, Volume 4, Issues 8-9》 SIGS 1992年出版，第59页
 29. 《Digital Audio Processing》Doug Coulter著，CMP 2000年出版，第169页
-30. 《Writing secure code》Michael Howard、David
-    LeBlanc著，微软出版社2001年出版，第xxi页
-31. 《Object-oriented programming for Windows 95 and NT》Stephen Morris著，
-    Digital Press 1999年出版，第26页
+30. 《Writing secure code》Michael Howard、David LeBlanc著，微软出版社2001年出版，第xxi页
+31. 《Object-oriented programming for Windows 95 and NT》Stephen Morris著， Digital Press 1999年出版，第26页

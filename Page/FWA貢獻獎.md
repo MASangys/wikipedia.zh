@@ -1,5 +1,4 @@
-**英格蘭FWA足球貢獻獎**(**The Football Writers' Association Tribute
-Award**)，创立于1983年，是由评选的獎項以表揚“在球場內外對英格蘭足球有傑出貢獻的人”。
+**英格蘭FWA足球貢獻獎**(**The Football Writers' Association Tribute Award**)，创立于1983年，是由评选的獎項以表揚“在球場內外對英格蘭足球有傑出貢獻的人”。
 
 ## 歷屆獲獎人
 
@@ -33,7 +32,7 @@ Award**)，创立于1983年，是由评选的獎項以表揚“在球場內外�
 </tr>
 <tr class="even">
 <td><p>1988</p></td>
-<td><p><a href="../Page/湯·芬尼.md" title="wikilink">湯·芬尼爵士</a></p></td>
+<td><p><a href="../Page/湯·芬尼.md" title="wikilink">湯·芬尼</a>爵士</p></td>
 </tr>
 <tr class="odd">
 <td><p>1989</p></td>
@@ -163,6 +162,4 @@ Award**)，创立于1983年，是由评选的獎項以表揚“在球場內外�
 </tbody>
 </table>
 
-[Category:英国足球奖项](https://zh.wikipedia.org/wiki/Category:英国足球奖项 "wikilink")
-[Category:英格蘭足球](https://zh.wikipedia.org/wiki/Category:英格蘭足球 "wikilink")
-[Category:1983年建立的獎項](https://zh.wikipedia.org/wiki/Category:1983年建立的獎項 "wikilink")
+[Category:英国足球奖项](https://zh.wikipedia.org/wiki/Category:英国足球奖项 "wikilink") [Category:英格蘭足球](https://zh.wikipedia.org/wiki/Category:英格蘭足球 "wikilink") [Category:1983年建立的獎項](https://zh.wikipedia.org/wiki/Category:1983年建立的獎項 "wikilink")

@@ -4,17 +4,13 @@ NbFz坦克的多砲塔，又重又慢的特性，使得這輛坦克非常不適�
 
 ## 發展
 
-[Bundesarchiv_Bild_183-L04352,_Deutschland,_Rüstungsproduktion,_Panzer.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-L04352,_Deutschland,_Rüstungsproduktion,_Panzer.jpg "fig:Bundesarchiv_Bild_183-L04352,_Deutschland,_Rüstungsproduktion,_Panzer.jpg")
-1920至1930年代期間，有數個國家對於多砲塔戰車感到興趣，並且開始實驗自家的戰車。英國維克斯在1926年首先建造了一輛[維克斯A1E1獨立號坦克](https://zh.wikipedia.org/wiki/維克斯A1E1獨立號坦克 "wikilink")，這個讓蘇聯有了靈感，因而創造出[T-35重型戰車](https://zh.wikipedia.org/wiki/T-35重型戰車 "wikilink")，1933年生產了61輛。
+[Bundesarchiv_Bild_183-L04352,_Deutschland,_Rüstungsproduktion,_Panzer.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-L04352,_Deutschland,_Rüstungsproduktion,_Panzer.jpg "fig:Bundesarchiv_Bild_183-L04352,_Deutschland,_Rüstungsproduktion,_Panzer.jpg") 1920至1930年代期間，有數個國家對於多砲塔戰車感到興趣，並且開始實驗自家的戰車。英國維克斯在1926年首先建造了一輛[維克斯A1E1獨立號坦克](https://zh.wikipedia.org/wiki/維克斯A1E1獨立號坦克 "wikilink")，這個讓蘇聯有了靈感，因而創造出[T-35重型戰車](https://zh.wikipedia.org/wiki/T-35重型戰車 "wikilink")，1933年生產了61輛。
 
-Neubaufahrzeug
-的計畫始於1933年，德國國防軍要求萊茵金屬公司和克虜伯開始發展大拖拉機（Großtraktor），「大拖拉機」只是一個重型戰車的代號，因為當時德國仍然處於[凡爾賽條約的限制](https://zh.wikipedia.org/wiki/凡爾賽條約 "wikilink")。
+Neubaufahrzeug 的計畫始於1933年，德國國防軍要求萊茵金屬公司和克虜伯開始發展大拖拉機（Großtraktor），「大拖拉機」只是一個重型戰車的代號，因為當時德國仍然處於[凡爾賽條約的限制](https://zh.wikipedia.org/wiki/凡爾賽條約 "wikilink")。
 
-兩間公司所設計的戰車有很大的相似度，主要的不同在於武器的配置，兩間公司的設計都有一門75毫米KwK L/24主砲以及一門37毫米KwK
-L/45副砲，萊茵金屬的設計是將37毫米砲放置於75毫米砲的上方；而克虜伯則是放在75毫米砲的旁邊。兩種設計都有在前方及後方放置一個副砲塔，這些砲塔是有經過調整的[一號戰車砲塔](https://zh.wikipedia.org/wiki/一號戰車 "wikilink")，砲塔上有一挺機槍。
+兩間公司所設計的戰車有很大的相似度，主要的不同在於武器的配置，兩間公司的設計都有一門75毫米KwK L/24主砲以及一門37毫米KwK L/45副砲，萊茵金屬的設計是將37毫米砲放置於75毫米砲的上方；而克虜伯則是放在75毫米砲的旁邊。兩種設計都有在前方及後方放置一個副砲塔，這些砲塔是有經過調整的[一號戰車砲塔](https://zh.wikipedia.org/wiki/一號戰車 "wikilink")，砲塔上有一挺機槍。
 
-萊茵金屬的設計被指定名為PzKpfw NbFz V，克虜伯則是PzKpfw NbFz
-VI，這些設計意圖實現在裝甲部隊擔任重型戰車的角色，但此設計也顯現出過於複雜且不適合接下重型戰車的職位。
+萊茵金屬的設計被指定名為PzKpfw NbFz V，克虜伯則是PzKpfw NbFz VI，這些設計意圖實現在裝甲部隊擔任重型戰車的角色，但此設計也顯現出過於複雜且不適合接下重型戰車的職位。
 
 雖然缺點眾多，但計畫仍然繼續實行，藉由設計、生產、測試這些戰車所獲得的經驗，以了解真正的需求，為的就是建立新的德國軍隊。
 
@@ -22,27 +18,21 @@ VI，這些設計意圖實現在裝甲部隊擔任重型戰車的角色，但此
 
 ## 戰鬥紀錄
 
-[Bundesarchiv_Bild_183-L03744,_Norwegen,_Oslo,_Deutsche_Panzer_im_Hafen.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-L03744,_Norwegen,_Oslo,_Deutsche_Panzer_im_Hafen.jpg "fig:Bundesarchiv_Bild_183-L03744,_Norwegen,_Oslo,_Deutsche_Panzer_im_Hafen.jpg")
-雖然這些坦克並沒有進入生產，但它們成為納粹德國在1939年柏林舉辦的國際汽車博覽會之宣傳工具。
+[Bundesarchiv_Bild_183-L03744,_Norwegen,_Oslo,_Deutsche_Panzer_im_Hafen.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-L03744,_Norwegen,_Oslo,_Deutsche_Panzer_im_Hafen.jpg "fig:Bundesarchiv_Bild_183-L03744,_Norwegen,_Oslo,_Deutsche_Panzer_im_Hafen.jpg") 雖然這些坦克並沒有進入生產，但它們成為納粹德國在1939年柏林舉辦的國際汽車博覽會之宣傳工具。
 
 在此之後，為了入侵挪威而成立了一個裝甲師並編入了那三輛原型車。在入侵行動中有兩輛遇到機械問題而無法繼續前進，僅有一輛成功抵達前線，繼續跟著其他德軍推進。
 
-4月22號，戰車遭遇到由英國和挪威人所組成的防線，英軍配備的[博斯反坦克步槍可以輕鬆打穿戰車的裝甲](../Page/博斯反坦克步槍.md "wikilink")。在數次被擊之後，一名組員陣亡，戰車撤退。其他的德軍仍然繼續推進並且攻擊英軍的側翼，迫使他們撤退。
+4月22號，戰車遭遇到由英國和挪威人所組成的防線，英軍配備的[博斯反坦克步槍](../Page/博斯反坦克步槍.md "wikilink")可以輕鬆打穿戰車的裝甲。在數次被擊之後，一名組員陣亡，戰車撤退。其他的德軍仍然繼續推進並且攻擊英軍的側翼，迫使他們撤退。
 
-沒人知道這些戰車在挪威戰役後發生什麼事情，但可以確定的是，沒有一台NbFz存活下來。根據英國在1945年所找到的文件，剩下的NbFz坦克在1941年申請報廢，1942年開始執行，該坦克的報廢日期一樣也不清楚，但一直被認為和Sturer
-Emil原型車開始建造的日期是一樣的。
+沒人知道這些戰車在挪威戰役後發生什麼事情，但可以確定的是，沒有一台NbFz存活下來。根據英國在1945年所找到的文件，剩下的NbFz坦克在1941年申請報廢，1942年開始執行，該坦克的報廢日期一樣也不清楚，但一直被認為和Sturer Emil原型車開始建造的日期是一樣的。
 
-根據現代的德國文件，1941年6月，三輛NbFz戰車曾被編入第一裝甲師群，於今日的烏克蘭與[BT-7發生戰鬥並被擊毀](../Page/BT-7.md "wikilink")。
+根據現代的德國文件，1941年6月，三輛NbFz戰車曾被編入第一裝甲師群，於今日的烏克蘭與[BT-7](../Page/BT-7.md "wikilink")發生戰鬥並被擊毀。
 
-雖然說沒有任何NbFz存活，但有從它身上遺留下來的零件，目前存放於挪威，柯凡（Kvam）的古布朗斯多戰爭紀念收藏館（Gudbrandsdal
-War Memorial collection）
+雖然說沒有任何NbFz存活，但有從它身上遺留下來的零件，目前存放於挪威，柯凡（Kvam）的古布朗斯多戰爭紀念收藏館（Gudbrandsdal War Memorial collection）
 
 ## 參考文獻
 
-  - Chamberlain, Peter & Doyle, Hillary: *Encyclopedia of German Tanks
-    of World War Two: The Complete Illustrated Directory of German
-    Battle Tanks, Armoured Cars, Self-propelled guns and Semi-tracked
-    Vehicles 1939-1945*, Silverdale Books, 2004 ISBN 1-84509-012-8
+  - Chamberlain, Peter & Doyle, Hillary: *Encyclopedia of German Tanks of World War Two: The Complete Illustrated Directory of German Battle Tanks, Armoured Cars, Self-propelled guns and Semi-tracked Vehicles 1939-1945*, Silverdale Books, 2004 ISBN 1-84509-012-8
 
 ## 外部連結
 
@@ -50,5 +40,4 @@ War Memorial collection）
   -
   - 第二頁第二張圖即為戰車的零件
 
-[Category:多砲塔戰車](https://zh.wikipedia.org/wiki/Category:多砲塔戰車 "wikilink")
-[Category:二戰德國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:二戰德國裝甲戰鬥車輛 "wikilink")
+[Category:多砲塔戰車](https://zh.wikipedia.org/wiki/Category:多砲塔戰車 "wikilink") [Category:二戰德國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:二戰德國裝甲戰鬥車輛 "wikilink")

@@ -4,8 +4,7 @@
 
 mw.log.deprecate( window, 'JSConfig', {} );
 
-mw.loader.using(\['mediawiki.util', 'ext.gadget.site-lib'\], function ()
-{
+mw.loader.using(\['mediawiki.util', 'ext.gadget.site-lib'\], function () {
 
 ` (function ($, mw) {`
 
@@ -294,9 +293,7 @@ if ( extraJS ) {
 
 });
 
-/\* Check for any client-side simplified/traditional Chinese conversion
-\*/ /\* This routine must be placed here to make sure the field is
-inserted in time \*/ $('\#antispam-container').append(
+/\* Check for any client-side simplified/traditional Chinese conversion \*/ /\* This routine must be placed here to make sure the field is inserted in time \*/ $('\#antispam-container').append(
 
 `   $('`<input type="text" />`').attr({`
 `       id: 'wpAntiConv',`
@@ -305,6 +302,4 @@ inserted in time \*/ $('\#antispam-container').append(
 
 );
 
-//临时修复！侧边栏的“打印页面”移动到“打印/导出”章节
-$('div\#p-electronPdfService-sidebar-portlet-heading div.body
-ul').append($('li\#t-print'));
+//临时修复！侧边栏的“打印页面”移动到“打印/导出”章节 $('div\#p-electronPdfService-sidebar-portlet-heading div.body ul').append($('li\#t-print'));

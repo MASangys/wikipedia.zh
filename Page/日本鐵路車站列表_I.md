@@ -1,5 +1,5 @@
 
-**日本鐵路車站列表 I**收錄了日本鐵路車站中，站名羅馬拼音為字母「**I**」或日文假名為「****」起頭的車站。
+ **日本鐵路車站列表 I**收錄了日本鐵路車站中，站名羅馬拼音為字母「**I**」或日文假名為「****」起頭的車站。
 
 ## IE
 
@@ -1299,5 +1299,4 @@ Izumo-Kagakukan-Paaku-Tan-Mae-Eki</p></td>
 </tbody>
 </table>
 
-[Category:日本鐵路車站列表](https://zh.wikipedia.org/wiki/Category:日本鐵路車站列表 "wikilink")
-[Category:日本鐵路車站_I](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_I "wikilink")
+[Category:日本鐵路車站列表](https://zh.wikipedia.org/wiki/Category:日本鐵路車站列表 "wikilink") [Category:日本鐵路車站_I](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_I "wikilink")

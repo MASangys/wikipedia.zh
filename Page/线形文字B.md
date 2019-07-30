@@ -1,7 +1,6 @@
-**线形文字B**是[希腊](../Page/希腊.md "wikilink")[迈锡尼文明时期的一种](../Page/迈锡尼文明.md "wikilink")[音节文字](https://zh.wikipedia.org/wiki/音节文字 "wikilink")。线形文字B出现于[青铜时代晚期](../Page/青铜时代.md "wikilink")，早于[希腊字母](../Page/希腊字母.md "wikilink")（约公元前15世纪）数个世纪，随着迈锡尼文明的衰落而消逝。写有线形文字B的泥板大部分发现于[克诺索斯](../Page/克诺索斯.md "wikilink")、[科多尼亚](https://zh.wikipedia.org/wiki/科多尼亚 "wikilink")、[皮洛斯](../Page/皮洛斯.md "wikilink")、[底比斯](https://zh.wikipedia.org/wiki/底比斯 "wikilink")、[迈锡尼等地](../Page/迈锡尼.md "wikilink")。后继的希腊黑暗时代，目前尚未发现线形文字B的实物。
+**线形文字B**是[希腊](../Page/希腊.md "wikilink")[迈锡尼文明](../Page/迈锡尼文明.md "wikilink")时期的一种[音节文字](https://zh.wikipedia.org/wiki/音节文字 "wikilink")。线形文字B出现于[青铜时代](../Page/青铜时代.md "wikilink")晚期，早于[希腊字母](../Page/希腊字母.md "wikilink")（约公元前15世纪）数个世纪，随着迈锡尼文明的衰落而消逝。写有线形文字B的泥板大部分发现于[克诺索斯](../Page/克诺索斯.md "wikilink")、[科多尼亚](https://zh.wikipedia.org/wiki/科多尼亚 "wikilink")、[皮洛斯](../Page/皮洛斯.md "wikilink")、[底比斯](https://zh.wikipedia.org/wiki/底比斯 "wikilink")、[迈锡尼](../Page/迈锡尼.md "wikilink")等地。后继的希腊黑暗时代，目前尚未发现线形文字B的实物。
 
-1952年，[迈克尔·文特里斯成功释读线形文字B](../Page/迈克尔·文特里斯.md "wikilink")。线形文字B主要在[克里特岛和希腊本土南部地区使用](https://zh.wikipedia.org/wiki/克里特岛 "wikilink")，时间大约为西元前1500年-西元前1200年。
-线形文字B似乎与更早的[线形文字A有某种联系](../Page/线形文字A.md "wikilink")。
+1952年，[迈克尔·文特里斯](../Page/迈克尔·文特里斯.md "wikilink")成功释读线形文字B。线形文字B主要在[克里特岛和希腊本土南部地区使用](https://zh.wikipedia.org/wiki/克里特岛 "wikilink")，时间大约为西元前1500年-西元前1200年。 线形文字B似乎与更早的[线形文字A](../Page/线形文字A.md "wikilink")有某种联系。
 
 ## 文字
 
@@ -734,43 +733,26 @@ Unicode4.0之后的为线形文字B提供了编码码位，其中音节符号码
 
 ## 參考文獻
 
-  - Carpenter, Rhys, (1957) ["Linear
-    B"](http://www.jstor.org/stable/1086259), *Phoenix*, Vol. 11, No. 2
-    (Summer, 1957), pp. 47–62
+  - Carpenter, Rhys, (1957) ["Linear B"](http://www.jstor.org/stable/1086259), *Phoenix*, Vol. 11, No. 2 (Summer, 1957), pp. 47–62
 
   -
   -
-  - has the  clay tablet, circa 1500 BCE., examples of Linear B tablets,
-    and translated, the basic Linear B *syllabary*, the Cypriot
-    *syllabary* and discussions thereof, and short sections on [Linear
-    A](../Page/线形文字A.md "wikilink"), and the [Phaistos
-    Disk](../Page/斐斯托斯圓盤.md "wikilink").
+  - has the  clay tablet, circa 1500 BCE., examples of Linear B tablets, and translated, the basic Linear B *syllabary*, the Cypriot *syllabary* and discussions thereof, and short sections on [Linear A](../Page/线形文字A.md "wikilink"), and the [Phaistos Disk](../Page/斐斯托斯圓盤.md "wikilink").
 
   -
   -
   -
-  - , ["Unlocking the Secrets of Ancient Writing: The Parallel Lives of
-    Michael Ventris and Linda Schele and the Decipherment of Mycenaean
-    and Mayan
-    Writing"](http://www.utexas.edu/research/pasp/publications/pdf/unlocking.pdf),
-    [University of Texas at Austin](../Page/德克薩斯州大學奧斯汀分校.md "wikilink"),
-    Eleventh International Mycenological Colloquium, 2000.
+  - , ["Unlocking the Secrets of Ancient Writing: The Parallel Lives of Michael Ventris and Linda Schele and the Decipherment of Mycenaean and Mayan Writing"](http://www.utexas.edu/research/pasp/publications/pdf/unlocking.pdf), [University of Texas at Austin](../Page/德克薩斯州大學奧斯汀分校.md "wikilink"), Eleventh International Mycenological Colloquium, 2000.
 
-  - Chapter 6, Linear B, pp 108–119: discusses Arthur Evans, his work,
-    the Cypriot clues, the *syllabary*, Alice Kober, the "Grid", and a
-    sample tablet *transliterated, and translated into English.*
+  - Chapter 6, Linear B, pp 108–119: discusses Arthur Evans, his work, the Cypriot clues, the *syllabary*, Alice Kober, the "Grid", and a sample tablet *transliterated, and translated into English.*
 
-  - Robinson, Andrew *The Man Who Deciphered Linear B: the story of
-    Michael Ventris* (2002) Thames & Hudson ISBN 0500510776
+  - Robinson, Andrew *The Man Who Deciphered Linear B: the story of Michael Ventris* (2002) Thames & Hudson ISBN 0500510776
 
-  - for a general outline of the Linear B deciphering story, from
-    Schliemann to Chadwick.
+  - for a general outline of the Linear B deciphering story, from Schliemann to Chadwick.
 
   -
   -
-  - Ventris, Michael; Chadwick, John (1953) ["Evidence for Greek Dialect
-    in the Mycenaean Archives"](http://www.jstor.org/stable/628239),
-    *The Journal of Hellenic Studies*, Vol. 73, (1953), pp. 84–103.
+  - Ventris, Michael; Chadwick, John (1953) ["Evidence for Greek Dialect in the Mycenaean Archives"](http://www.jstor.org/stable/628239), *The Journal of Hellenic Studies*, Vol. 73, (1953), pp. 84–103.
 
 ## 外部連結
 
@@ -779,16 +761,10 @@ Unicode4.0之后的为线形文字B提供了编码码位，其中音节符号码
   -
   -
   -
-[Category:青銅時代文字](https://zh.wikipedia.org/wiki/Category:青銅時代文字 "wikilink")
-[Category:古希臘](https://zh.wikipedia.org/wiki/Category:古希臘 "wikilink")
-[Category:音節文字](https://zh.wikipedia.org/wiki/Category:音節文字 "wikilink")
-[Category:已廢棄的書寫系統](https://zh.wikipedia.org/wiki/Category:已廢棄的書寫系統 "wikilink")
+[Category:青銅時代文字](https://zh.wikipedia.org/wiki/Category:青銅時代文字 "wikilink") [Category:古希臘](https://zh.wikipedia.org/wiki/Category:古希臘 "wikilink") [Category:音節文字](https://zh.wikipedia.org/wiki/Category:音節文字 "wikilink") [Category:已廢棄的書寫系統](https://zh.wikipedia.org/wiki/Category:已廢棄的書寫系統 "wikilink")
 
-1.  Ventris and Chadwick (1973) page 391: "100 MAN is now used for all
-    forms of the ideogram, so that 101 and 103 are now suppressed."
-2.  Ventris & Chadwick either edition do not follow the Wingspread
-    Convention here but have 105<sup>a</sup> as a HE-ASS and
-    105<sup>c</sup> as a FOAL.
+1.  Ventris and Chadwick (1973) page 391: "100 MAN is now used for all forms of the ideogram, so that 101 and 103 are now suppressed."
+2.  Ventris & Chadwick either edition do not follow the Wingspread Convention here but have 105<sup>a</sup> as a HE-ASS and 105<sup>c</sup> as a FOAL.
 3.  The 1956 edition has "Kind of sheep"
 4.  Chadwick (1976) page 105.
 5.  "Double mina", Chadwick (1976) page 102.

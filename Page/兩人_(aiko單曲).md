@@ -1,4 +1,4 @@
-《**兩人**》（），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")23張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年3月12日發行。
+《**兩人**》（），[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")23張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年3月12日發行。
 
 ## 簡介
 
@@ -25,8 +25,7 @@ c/w曲《變成向日葵》是對aiko極具意義的歌曲，當年aiko就是憑
 
   - [唱片介紹](https://web.archive.org/web/20110908013900/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200800000047&DSP_SKHKETSEQ=001)
 
-[Category:Aiko歌曲](https://zh.wikipedia.org/wiki/Category:Aiko歌曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
+[Category:Aiko歌曲](https://zh.wikipedia.org/wiki/Category:Aiko歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
 
 1.  [](http://fmvs.jp/news/music/log/eid831.html)
 2.  [](http://www.barks.jp/news/?id=1000037398)

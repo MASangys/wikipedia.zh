@@ -1,6 +1,4 @@
-**HIS空戰英豪online**（[英語譯名](https://zh.wikipedia.org/wiki/英語 "wikilink")：**heroes
-in the
-sky**）是個[線上飛行射擊遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")，遊戲以[第二次世界大戰作為遊戲背景](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，讓玩家扮演著遊戲中第二次世界大戰的飛行員。
+**HIS空戰英豪online**（[英語譯名](https://zh.wikipedia.org/wiki/英語 "wikilink")：**heroes in the sky**）是個[線上飛行射擊遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")，遊戲以[第二次世界大戰作為遊戲背景](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，讓玩家扮演著遊戲中第二次世界大戰的飛行員。
 
 ## 戰機機種
 
@@ -12,8 +10,7 @@ sky**）是個[線上飛行射擊遊戲](https://zh.wikipedia.org/wiki/線上遊
 英國：鬥牛犬、格鬥士、[颶風式](../Page/颶風戰鬥機.md "wikilink")、[噴火式](../Page/噴火戰鬥機.md "wikilink")、[颱風式](../Page/颶風戰鬥機.md "wikilink")
 美國：P-12、[P-36](../Page/P-36戰鬥機.md "wikilink")、[F2A水牛式](../Page/F2A戰鬥機.md "wikilink")、[P-39空中眼鏡蛇](../Page/P-39戰鬥機.md "wikilink")、[F4F野貓](../Page/F4F戰鬥機.md "wikilink")、[P-38閃電式](../Page/P-38閃電式戰鬥機.md "wikilink")、[P-40戰鷹](../Page/P-40戰鷹戰鬥機.md "wikilink")、[P-47雷霆](../Page/P-47戰鬥機.md "wikilink")、[F6F地獄貓](../Page/F6F地獄貓戰鬥機.md "wikilink")、[P-51野馬](../Page/P-51戰鬥機.md "wikilink")
 蘇聯：[I-15](../Page/伊-15戰鬥機.md "wikilink")、[I-16](../Page/伊-16戰鬥機.md "wikilink")、[Yak-1](https://zh.wikipedia.org/wiki/Yak-1戰鬥機 "wikilink")、Yak-7、[Yak-9](../Page/Yak-9戰鬥機.md "wikilink")、[LaGG-3](https://zh.wikipedia.org/wiki/拉格-3戰鬥機 "wikilink")、[La-5](../Page/La-5戰鬥機.md "wikilink")、[IL-2對地攻擊機](https://zh.wikipedia.org/wiki/Il-2攻擊機 "wikilink")
-轟炸機：惠特利式、[哈利法克斯式](https://zh.wikipedia.org/wiki/哈利法克斯轟炸機 "wikilink")、[史特林式](https://zh.wikipedia.org/wiki/斯特林轟炸機 "wikilink")、[B-17空中堡壘](../Page/B-17轟炸機.md "wikilink")、[SBD無畏式](../Page/SBD無畏式俯衝轟炸機.md "wikilink")、圖波列夫SB-2、[伊留申
-DB-3](https://zh.wikipedia.org/wiki/Il-4轟炸機 "wikilink")
+轟炸機：惠特利式、[哈利法克斯式](https://zh.wikipedia.org/wiki/哈利法克斯轟炸機 "wikilink")、[史特林式](https://zh.wikipedia.org/wiki/斯特林轟炸機 "wikilink")、[B-17空中堡壘](../Page/B-17轟炸機.md "wikilink")、[SBD無畏式](../Page/SBD無畏式俯衝轟炸機.md "wikilink")、圖波列夫SB-2、[伊留申 DB-3](https://zh.wikipedia.org/wiki/Il-4轟炸機 "wikilink")
 管制機：布倫漢式、標緻鬥士式、[蚊式](../Page/蚊式轟炸機.md "wikilink")
 
 ### 軸心國
@@ -34,5 +31,4 @@ DB-3](https://zh.wikipedia.org/wiki/Il-4轟炸機 "wikilink")
 
   - [HIS空戰英豪日本官方網站](https://web.archive.org/web/20130723050448/http://hs.joycity.jp/)
 
-[Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")

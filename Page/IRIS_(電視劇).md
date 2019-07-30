@@ -1,4 +1,4 @@
-《**IRIS**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2009年10月14日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由韓國名導演[姜帝圭企劃](../Page/姜帝圭.md "wikilink")，[李炳憲](../Page/李炳憲.md "wikilink")、[金泰希等人演出](../Page/金泰希.md "wikilink")。既是韩国首部諜報動作劇，又为首部由[電影製作公司所製作的韓劇](https://zh.wikipedia.org/wiki/電影 "wikilink")，斥資200億韓圓製作，先後前往[匈牙利](../Page/匈牙利.md "wikilink")、[日本](../Page/日本.md "wikilink")、[中國等地大規模取景拍攝](../Page/中國.md "wikilink")，2009年11月29日在[首爾](../Page/首爾.md "wikilink")[光化門获准封街](../Page/光化門.md "wikilink")12小時拍攝，这也是史上首遭。在韓國開播前已高價外銷，每集以約2.7億韓圓售往日本。2010年獲[第46屆百想藝術大賞最佳電視劇作品獎](https://zh.wikipedia.org/wiki/第46屆百想藝術大賞 "wikilink")。
+《**IRIS**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2009年10月14日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由韓國名導演[姜帝圭](../Page/姜帝圭.md "wikilink")企劃，[李炳憲](../Page/李炳憲.md "wikilink")、[金泰希](../Page/金泰希.md "wikilink")等人演出。既是韩国首部諜報動作劇，又为首部由[電影製作公司所製作的韓劇](https://zh.wikipedia.org/wiki/電影 "wikilink")，斥資200億韓圓製作，先後前往[匈牙利](../Page/匈牙利.md "wikilink")、[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")等地大規模取景拍攝，2009年11月29日在[首爾](../Page/首爾.md "wikilink")[光化門](../Page/光化門.md "wikilink")获准封街12小時拍攝，这也是史上首遭。在韓國開播前已高價外銷，每集以約2.7億韓圓售往日本。2010年獲[第46屆百想藝術大賞最佳電視劇作品獎](https://zh.wikipedia.org/wiki/第46屆百想藝術大賞 "wikilink")。
 
 ## 登場人物
 
@@ -312,7 +312,7 @@
 <td><center>
 <p><a href="../Page/笛木優子.md" title="wikilink">笛木優子</a></p></td>
 <td><center></td>
-<td><p>日本人，<a href="../Page/内阁情报调查室.md" title="wikilink">内阁情报调查室國際部成員</a>。</p></td>
+<td><p>日本人，<a href="../Page/内阁情报调查室.md" title="wikilink">内阁情报调查室</a>國際部成員。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -351,12 +351,11 @@
 
 ## 劇後發展
 
-  - 《IRIS》的支線故事《[雅典娜：戰爭女神](../Page/雅典娜：戰爭女神.md "wikilink")》，2010年12月13日於[SBS播出](../Page/SBS_\(韓國\).md "wikilink")，整體故事與《IRIS》沒有太多關聯，由[鄭雨盛](../Page/鄭雨盛.md "wikilink")、[秀愛](../Page/秀愛.md "wikilink")、[車勝元](../Page/車勝元.md "wikilink")、[李智雅等人主演](../Page/李智雅.md "wikilink")。
+  - 《IRIS》的支線故事《[雅典娜：戰爭女神](../Page/雅典娜：戰爭女神.md "wikilink")》，2010年12月13日於[SBS播出](../Page/SBS_\(韓國\).md "wikilink")，整體故事與《IRIS》沒有太多關聯，由[鄭雨盛](../Page/鄭雨盛.md "wikilink")、[秀愛](../Page/秀愛.md "wikilink")、[車勝元](../Page/車勝元.md "wikilink")、[李智雅](../Page/李智雅.md "wikilink")等人主演。
 
 <!-- end list -->
 
-  - 《IRIS》的續集《[IRIS
-    2](../Page/IRIS_2.md "wikilink")》，2013年2月13日於[KBS播出](../Page/韓國放送公社.md "wikilink")，承接第一部講述為解開圍繞在白山背後的黑色謎團，而展開的一系列故事，由[張赫](https://zh.wikipedia.org/wiki/張赫 "wikilink")、[李多海](../Page/李多海.md "wikilink")、[李凡秀](../Page/李凡秀.md "wikilink")、[吳妍受等人主演](https://zh.wikipedia.org/wiki/吳妍受 "wikilink")，並有曾出演《IRIS》的[金永哲](../Page/金永哲.md "wikilink")、[金勝友等部分原班人馬加盟](../Page/金勝友.md "wikilink")。
+  - 《IRIS》的續集《[IRIS 2](../Page/IRIS_2.md "wikilink")》，2013年2月13日於[KBS播出](../Page/韓國放送公社.md "wikilink")，承接第一部講述為解開圍繞在白山背後的黑色謎團，而展開的一系列故事，由[張赫](https://zh.wikipedia.org/wiki/張赫 "wikilink")、[李多海](../Page/李多海.md "wikilink")、[李凡秀](../Page/李凡秀.md "wikilink")、[吳妍受等人主演](https://zh.wikipedia.org/wiki/吳妍受 "wikilink")，並有曾出演《IRIS》的[金永哲](../Page/金永哲.md "wikilink")、[金勝友](../Page/金勝友.md "wikilink")等部分原班人馬加盟。
 
 ## 收視率
 
@@ -401,14 +400,4 @@
 
 {{-}}
 
-[Category:KBS水木連續劇](https://zh.wikipedia.org/wiki/Category:KBS水木連續劇 "wikilink")
-[Category:2009年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2009年韓國電視劇集 "wikilink")
-[Category:虛構犯罪組織](https://zh.wikipedia.org/wiki/Category:虛構犯罪組織 "wikilink")
-[Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink")
-[Category:首爾特別市背景電視劇](https://zh.wikipedia.org/wiki/Category:首爾特別市背景電視劇 "wikilink")
-[Category:秋田縣背景作品](https://zh.wikipedia.org/wiki/Category:秋田縣背景作品 "wikilink")
-[Category:上海市背景电视剧](https://zh.wikipedia.org/wiki/Category:上海市背景电视剧 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:孤兒題材電視劇](https://zh.wikipedia.org/wiki/Category:孤兒題材電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:匈牙利背景作品](https://zh.wikipedia.org/wiki/Category:匈牙利背景作品 "wikilink")
+[Category:KBS水木連續劇](https://zh.wikipedia.org/wiki/Category:KBS水木連續劇 "wikilink") [Category:2009年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2009年韓國電視劇集 "wikilink") [Category:虛構犯罪組織](https://zh.wikipedia.org/wiki/Category:虛構犯罪組織 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:首爾特別市背景電視劇](https://zh.wikipedia.org/wiki/Category:首爾特別市背景電視劇 "wikilink") [Category:秋田縣背景作品](https://zh.wikipedia.org/wiki/Category:秋田縣背景作品 "wikilink") [Category:上海市背景电视剧](https://zh.wikipedia.org/wiki/Category:上海市背景电视剧 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:孤兒題材電視劇](https://zh.wikipedia.org/wiki/Category:孤兒題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:匈牙利背景作品](https://zh.wikipedia.org/wiki/Category:匈牙利背景作品 "wikilink")

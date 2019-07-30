@@ -1,10 +1,8 @@
-**SAXPY**（**Scalar Alpha X Plus Y**）是一个在 [Basic Linear Algebra
-Subprograms（BLAS）数据包中的](../Page/BLAS.md "wikilink")[函数](../Page/函数.md "wikilink")，并且是一个[并行向量处理机（vector
-processor）中常用的计算](../Page/并行向量处理机.md "wikilink")[操作指令](https://zh.wikipedia.org/wiki/指令 "wikilink")。SAXPY是[标量乘法和](../Page/标量乘法.md "wikilink")[矢量加法的组合](https://zh.wikipedia.org/wiki/矢量加法 "wikilink")：
+**SAXPY**（**Scalar Alpha X Plus Y**）是一个在 [Basic Linear Algebra Subprograms（BLAS）数据包中的](../Page/BLAS.md "wikilink")[函数](../Page/函数.md "wikilink")，并且是一个[并行向量处理机 processor）中常用的计算](../Page/并行向量处理机.md "wikilink")（vector[操作指令](https://zh.wikipedia.org/wiki/指令 "wikilink")。SAXPY是[标量乘法](../Page/标量乘法.md "wikilink")和[矢量加法的组合](https://zh.wikipedia.org/wiki/矢量加法 "wikilink")：
 
 \[\mathbf{y} = \alpha \mathbf{x} + \mathbf{y}, \,\]
 
-其中\(\alpha\)是[标量](../Page/标量.md "wikilink")，\(\mathbf{x}\)和\(\mathbf{y}\)是[矢量](https://zh.wikipedia.org/wiki/矢量 "wikilink")。对於大多数函数，[BLAS数据包中都存在四种的SAXPY的变体](../Page/BLAS.md "wikilink")，分别是**SAXPY**、**DAXPY**、**CAXPY**和**ZAXPY**，这些变体的区别仅在於标量\(\alpha\)的[数据类型不同](https://zh.wikipedia.org/wiki/数据类型 "wikilink")。例程的说明在外部链接中可以找到。
+其中\(\alpha\)是[标量](../Page/标量.md "wikilink")，\(\mathbf{x}\)和\(\mathbf{y}\)是[矢量](https://zh.wikipedia.org/wiki/矢量 "wikilink")。对於大多数函数，[BLAS](../Page/BLAS.md "wikilink")数据包中都存在四种的SAXPY的变体，分别是**SAXPY**、**DAXPY**、**CAXPY**和**ZAXPY**，这些变体的区别仅在於标量\(\alpha\)的[数据类型不同](https://zh.wikipedia.org/wiki/数据类型 "wikilink")。例程的说明在外部链接中可以找到。
 
 ## 不同数据类型
 

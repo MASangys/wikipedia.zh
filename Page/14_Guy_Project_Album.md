@@ -2,12 +2,8 @@
 
 ## 概述
 
-  - the BROS是由[YG
-    Entertainment與A](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")\&B
-    Entertainment旗下主14名歌手與舞者共62名所組成之跨時代性演唱組合。\[1\]
-  - the
-    BROS裡有拉丁音樂的Roo\`Ra(李尚民，高英旭，金靜賢，蔡麗娜)，嘻哈的[Diva](https://zh.wikipedia.org/wiki/Diva_\(韓國女團\) "wikilink")(Vicky，李敏景，Genie)，Trans的[Chakra](../Page/Chakra_\(組合\).md "wikilink")(皇甫惠貞，賢珠，寶拉，任善紅)，黑人藍調節奏的Esther，Rap的Genie，X-Large，Bobby
-    Kim，皇甫惠貞在此次專輯擔任女Rap。\[2\]
+  - the BROS是由[YG Entertainment與A](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")\&B Entertainment旗下主14名歌手與舞者共62名所組成之跨時代性演唱組合。\[1\]
+  - the BROS裡有拉丁音樂的Roo\`Ra(李尚民，高英旭，金靜賢，蔡麗娜)，嘻哈的[Diva](https://zh.wikipedia.org/wiki/Diva_\(韓國女團\) "wikilink")(Vicky，李敏景，Genie)，Trans的[Chakra](../Page/Chakra_\(組合\).md "wikilink")(皇甫惠貞，賢珠，寶拉，任善紅)，黑人藍調節奏的Esther，Rap的Genie，X-Large，Bobby Kim，皇甫惠貞在此次專輯擔任女Rap。\[2\]
 
 ## 曲目
 
@@ -30,8 +26,7 @@
 
 ## 參考資料
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")
 
 1.
 

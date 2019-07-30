@@ -1,4 +1,4 @@
-《**愛歸零**》是[香港](../Page/香港.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[邰正宵的第五張](../Page/邰正宵.md "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在1996年推出，這是只限於台灣電台播放的試聽碟，僅收錄了《[愛歸零](../Page/愛歸零.md "wikilink")》專輯的主打歌以作派台用，因此發行量不多。
+《**愛歸零**》是[香港](../Page/香港.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[邰正宵](../Page/邰正宵.md "wikilink")的第五張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在1996年推出，這是只限於台灣電台播放的試聽碟，僅收錄了《[愛歸零](../Page/愛歸零.md "wikilink")》專輯的主打歌以作派台用，因此發行量不多。
 
 ## 曲目
 
@@ -15,7 +15,4 @@
 
   - CD版
 
-[Category:邰正宵音樂專輯](https://zh.wikipedia.org/wiki/Category:邰正宵音樂專輯 "wikilink")
-[Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:福茂唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:福茂唱片音乐专辑 "wikilink")
+[Category:邰正宵音樂專輯](https://zh.wikipedia.org/wiki/Category:邰正宵音樂專輯 "wikilink") [Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:福茂唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:福茂唱片音乐专辑 "wikilink")

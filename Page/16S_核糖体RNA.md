@@ -1,30 +1,17 @@
-[10_small_subunit.gif](https://zh.wikipedia.org/wiki/File:10_small_subunit.gif "fig:10_small_subunit.gif")（*[Thermus
-thermophilus](https://zh.wikipedia.org/wiki/Thermus_thermophilus "wikilink")*）的30S亚基的三维分子结构图。分子中的淡蓝色部分为蛋白质，淡橙色部分为RNA单链。\[1\]\]\]
+[010_small_subunit-1FKA.gif](https://zh.wikipedia.org/wiki/File:010_small_subunit-1FKA.gif "fig:010_small_subunit-1FKA.gif")（*[Thermus thermophilus](https://zh.wikipedia.org/wiki/Thermus_thermophilus "wikilink")*）的30S亚基的三维分子结构图。分子中的淡蓝色部分为蛋白质，淡橙色部分为RNA单链。\[1\]\]\]
 
-**16[S核糖体RNA](https://zh.wikipedia.org/wiki/斯維德伯格 "wikilink")**（16S
-ribosomal RNA），简称**16S
-rRNA**，是[原核生物的](../Page/原核生物.md "wikilink")[核糖体中](../Page/核糖体.md "wikilink")[30S亚基的组成部分](https://zh.wikipedia.org/wiki/30S亚基 "wikilink")。16S
-rRNA的长度约为1,542
-[nt](../Page/核苷酸.md "wikilink")。[卡尔·乌斯和](../Page/卡尔·乌斯.md "wikilink")[乔治·福克斯是率先在](../Page/乔治·福克斯_\(生物学家\).md "wikilink")[系统发育中使用的](../Page/系统发生学.md "wikilink")16S
-rRNA基因的两个先驱者\[2\]。
+**16[S核糖体RNA](https://zh.wikipedia.org/wiki/斯維德伯格 "wikilink")**（16S ribosomal RNA），简称**16S rRNA**，是[原核生物](../Page/原核生物.md "wikilink")的[核糖体](../Page/核糖体.md "wikilink")中[30S亚基的组成部分](https://zh.wikipedia.org/wiki/30S亚基 "wikilink")。16S rRNA的长度约为1,542 [nt](../Page/核苷酸.md "wikilink")。[卡尔·乌斯](../Page/卡尔·乌斯.md "wikilink")和[乔治·福克斯是率先在](../Page/乔治·福克斯_\(生物学家\).md "wikilink")[系统发育中使用的](../Page/系统发生学.md "wikilink")16S rRNA基因的两个先驱者\[2\]。
 
-一个[细菌的](../Page/细菌.md "wikilink")[细胞中可包含多个具有不同序列的](../Page/细胞.md "wikilink")16S
-rRNA\[3\]。
+一个[细菌](../Page/细菌.md "wikilink")的[细胞](../Page/细胞.md "wikilink")中可包含多个具有不同序列的16S rRNA\[3\]。
 
 ## 功能
 
 已知16S rRNA具有如下几项功能：
 
-  - 16S rRNA具有与原核生物核糖体大亚基中的[23S
-    rRNA相似的结构决定功能](https://zh.wikipedia.org/wiki/23S核糖体RNA "wikilink")，可作为[核糖体蛋白质结合的架构](../Page/核糖体蛋白质.md "wikilink")。在足量[Mg<sup>2+</sup>存在下分离到的](https://zh.wikipedia.org/wiki/镁离子 "wikilink")16S
-    rRNA处于紧密状态，其空间结构与30S亚基的大小和形状十分相似。\[4\]
-  - 16S
-    rRNA的3'端含有能与[mRNA上游AUG](https://zh.wikipedia.org/wiki/mRNA "wikilink")[起始密码子通过](../Page/起始密码子.md "wikilink")[氢键结合的](../Page/氢键.md "wikilink")[反夏因-达尔加诺序列](../Page/夏因-达尔加诺序列.md "wikilink")。另有发现表明，16S
-    rRNA中1,505－1,539的CCUCC序列与mRNA的相应序列有互补关系。\[5\]
-  - 16S rRNA能通过氢键与23S
-    rRNA结合，增强原核生物[70S核糖体一大一小两个亚基](https://zh.wikipedia.org/wiki/70S核糖体 "wikilink")（[50S亚基与](https://zh.wikipedia.org/wiki/50S亚基 "wikilink")30S亚基）结合时的稳定性。
-  - 16S
-    rRNA能通过其1,492及1,493的[腺嘌呤](../Page/腺嘌呤.md "wikilink")[残基](https://zh.wikipedia.org/wiki/残基 "wikilink")（*参见[嘌呤分子结构图解](../Page/嘌呤.md "wikilink")*）的N1原子与mRNA骨架上的2'[OH](../Page/羟基.md "wikilink")[基团之间产生氢键](https://zh.wikipedia.org/wiki/基团 "wikilink")，使[核糖体A位](https://zh.wikipedia.org/wiki/核糖体A位 "wikilink")[密码子](https://zh.wikipedia.org/wiki/密码子 "wikilink")－[反密码子的](https://zh.wikipedia.org/wiki/反密码子 "wikilink")[碱基互补配对稳定化](https://zh.wikipedia.org/wiki/碱基互补配对 "wikilink")。
+  - 16S rRNA具有与原核生物核糖体大亚基中的[23S rRNA相似的结构决定功能](https://zh.wikipedia.org/wiki/23S核糖体RNA "wikilink")，可作为[核糖体蛋白质](../Page/核糖体蛋白质.md "wikilink")结合的架构。在足量[Mg<sup>2+</sup>存在下分离到的](https://zh.wikipedia.org/wiki/镁离子 "wikilink")16S rRNA处于紧密状态，其空间结构与30S亚基的大小和形状十分相似。\[4\]
+  - 16S rRNA的3'端含有能与[mRNA上游AUG](https://zh.wikipedia.org/wiki/mRNA "wikilink")[起始密码子](../Page/起始密码子.md "wikilink")通过[氢键](../Page/氢键.md "wikilink")结合的[反夏因-达尔加诺序列](../Page/夏因-达尔加诺序列.md "wikilink")。另有发现表明，16S rRNA中1,505－1,539的CCUCC序列与mRNA的相应序列有互补关系。\[5\]
+  - 16S rRNA能通过氢键与23S rRNA结合，增强原核生物[70S核糖体一大一小两个亚基](https://zh.wikipedia.org/wiki/70S核糖体 "wikilink")（[50S亚基与](https://zh.wikipedia.org/wiki/50S亚基 "wikilink")30S亚基）结合时的稳定性。
+  - 16S rRNA能通过其1,492及1,493的[腺嘌呤](../Page/腺嘌呤.md "wikilink")[残基](https://zh.wikipedia.org/wiki/残基 "wikilink")（*参见[嘌呤](../Page/嘌呤.md "wikilink")分子结构图解*）的N1原子与mRNA骨架上的2'[OH](../Page/羟基.md "wikilink")[基团之间产生氢键](https://zh.wikipedia.org/wiki/基团 "wikilink")，使[核糖体A位](https://zh.wikipedia.org/wiki/核糖体A位 "wikilink")[密码子](https://zh.wikipedia.org/wiki/密码子 "wikilink")－[反密码子的](https://zh.wikipedia.org/wiki/反密码子 "wikilink")[碱基互补配对稳定化](https://zh.wikipedia.org/wiki/碱基互补配对 "wikilink")。
 
 ## 结构
 
@@ -32,15 +19,7 @@ rRNA\[3\]。
 
 ## 通用引物
 
-由于不同种的[真细菌与](https://zh.wikipedia.org/wiki/真细菌 "wikilink")[古细菌间的](https://zh.wikipedia.org/wiki/古细菌 "wikilink")16S
-rRNA[基因](../Page/基因.md "wikilink")（[16S
-rDNA](https://zh.wikipedia.org/wiki/16S_rDNA "wikilink")）是高度保守的\[6\]，16S
-rDNA常被用于对各种[生物进行的](../Page/生物.md "wikilink")[系统发生学方面的研究](../Page/系统发生学.md "wikilink")\[7\]这种运用16S
-rRNA对生物进行系统发生学研究的方法由[卡尔·沃斯](https://zh.wikipedia.org/wiki/卡尔·沃斯 "wikilink")（Carl
-Woese）开创\[8\]。另外，[线粒体和](https://zh.wikipedia.org/wiki/线粒体 "wikilink")[叶绿体中的rRNA也都被扩增了](../Page/叶绿体.md "wikilink")。在获得能提供系统发育学信息的16S
-rRNA[分子时需要利用通用](../Page/分子.md "wikilink")[PCR](../Page/PCR.md "wikilink")[引物对](https://zh.wikipedia.org/wiki/引物_\(分子生物学\) "wikilink")16S
-rRNA分子进行扩增。16S
-rRNA序列的对比分析需要在这类“通用引物”的[脱氧核糖核酸分子的辅助下完成](../Page/脱氧核糖核酸.md "wikilink")，这类分子具有如下序列：
+由于不同种的[真细菌与](https://zh.wikipedia.org/wiki/真细菌 "wikilink")[古细菌间的](https://zh.wikipedia.org/wiki/古细菌 "wikilink")16S rRNA[基因](../Page/基因.md "wikilink")（[16S rDNA](https://zh.wikipedia.org/wiki/16S_rDNA "wikilink")）是高度保守的\[6\]，16S rDNA常被用于对各种[生物](../Page/生物.md "wikilink")进行的[系统发生学](../Page/系统发生学.md "wikilink")方面的研究\[7\]这种运用16S rRNA对生物进行系统发生学研究的方法由[卡尔·沃斯](https://zh.wikipedia.org/wiki/卡尔·沃斯 "wikilink")（Carl Woese）开创\[8\]。另外，[线粒体和](https://zh.wikipedia.org/wiki/线粒体 "wikilink")[叶绿体](../Page/叶绿体.md "wikilink")中的rRNA也都被扩增了。在获得能提供系统发育学信息的16S rRNA[分子](../Page/分子.md "wikilink")时需要利用通用[PCR](../Page/PCR.md "wikilink")[引物对](https://zh.wikipedia.org/wiki/引物_\(分子生物学\) "wikilink")16S rRNA分子进行扩增。16S rRNA序列的对比分析需要在这类“通用引物”的[脱氧核糖核酸](../Page/脱氧核糖核酸.md "wikilink")分子的辅助下完成，这类分子具有如下序列：
 
   - 8UA正向：5'-AGA GTT TGA TCM TGG CTC AG-3'
   - 519B反向：5'-GTA TTA CCG CGG CKG CTG-3'
@@ -71,29 +50,21 @@ rRNA序列的对比分析需要在这类“通用引物”的[脱氧核糖核酸
 
 ## 16S核糖体数据库
 
-因为它存在于大多数微生物并显示适当的变化，16S rRNA基因被用作分类鉴定微生物的标准。大多数细菌和古细菌的16S
-rRNA基因序列型菌株可在公共数据库得到，例如NCBI数据库。然而，在这些数据库中发现的序列的质量往往没有验证。因此，只收集16S
-rRNA序列辅助数据库被广泛使用。最经常使用的数据库如下：
+因为它存在于大多数微生物并显示适当的变化，16S rRNA基因被用作分类鉴定微生物的标准。大多数细菌和古细菌的16S rRNA基因序列型菌株可在公共数据库得到，例如NCBI数据库。然而，在这些数据库中发现的序列的质量往往没有验证。因此，只收集16S rRNA序列辅助数据库被广泛使用。最经常使用的数据库如下：
 
-1\) -e.
-<https://web.archive.org/web/20130928154318/http://eztaxon-e.ezbiocloud.net/>
-\[21\]
+1\) -e. <https://web.archive.org/web/20130928154318/http://eztaxon-e.ezbiocloud.net/> \[21\]
 
 2)核糖体数据库项目。http://rdp.cme.msu.edu/ 核糖体数据库项目(RDP)。
 
 3\) SILVA. \[22\]
 
-4\) Greengenes.
-Greengenes是基于新生系统发生，提供了标准的操作分类单元集的质量控制，全面的16S参考数据库和分类。该网站的官方主页是http://greengenes.secondgenome.com，并在Creative
-Commons许可BY-SA3.0许可\[23\]\[24\]。
+4\) Greengenes. Greengenes是基于新生系统发生，提供了标准的操作分类单元集的质量控制，全面的16S参考数据库和分类。该网站的官方主页是http://greengenes.secondgenome.com，并在Creative Commons许可BY-SA3.0许可\[23\]\[24\]。
 
 ## 参考文献
 
 ## 外部链接
 
-  - [University of Washington Laboratory Medicine: Molecular Diagnosis |
-    Bacterial
-    Sequencing](http://depts.washington.edu/molmicdx/mdx/tests/bctseq.shtml)
+  - [University of Washington Laboratory Medicine: Molecular Diagnosis | Bacterial Sequencing](http://depts.washington.edu/molmicdx/mdx/tests/bctseq.shtml)
 
   - [核糖体数据库计划](http://rdp.cme.msu.edu/)
 
@@ -120,10 +91,7 @@ Commons许可BY-SA3.0许可\[23\]\[24\]。
 5.
 6.
 
-7.  [系统发育学研究中对16S
-    rDNA扩增的运用](http://jb.asm.org/cgi/content/abstract/173/2/697)W
-    G Weisburg, S M Barns, D A Pelletier and D J Lane; J Bacteriol. 1991
-    January; 173(2): 697-703
+7.  [系统发育学研究中对16S rDNA扩增的运用](http://jb.asm.org/cgi/content/abstract/173/2/697)W G Weisburg, S M Barns, D A Pelletier and D J Lane; J Bacteriol. 1991 January; 173(2): 697-703
 
 8.
 
@@ -131,9 +99,7 @@ Commons许可BY-SA3.0许可\[23\]\[24\]。
 
 10.
 
-11. [Universal Bacterial Identification by PCR and DNA Sequencing of 16S
-    rRNA Gene. PCR for Clinical Microbiology, 2010,
-    Part 3, 209-214](http://www.springerlink.com/content/t15411u7p632m7wl)
+11. [Universal Bacterial Identification by PCR and DNA Sequencing of 16S rRNA Gene. PCR for Clinical Microbiology, 2010, Part 3, 209-214](http://www.springerlink.com/content/t15411u7p632m7wl)
 
 12.
 
@@ -155,11 +121,7 @@ Commons许可BY-SA3.0许可\[23\]\[24\]。
 
 21.
 
-22. Elmar Pruesse, Christian Quast, Katrin Knittel, Bernhard M. Fuchs,
-    Wolfgang Ludwig, Jörg Peplies, Frank Oliver Glöckner (2007) Nucleic
-    Acids Res. SILVA: a comprehensive online resource for quality
-    checked and aligned ribosomal RNA sequence data compatible with ARB.
-    December; 35(21): 7188–7196.
+22. Elmar Pruesse, Christian Quast, Katrin Knittel, Bernhard M. Fuchs, Wolfgang Ludwig, Jörg Peplies, Frank Oliver Glöckner (2007) Nucleic Acids Res. SILVA: a comprehensive online resource for quality checked and aligned ribosomal RNA sequence data compatible with ARB. December; 35(21): 7188–7196.
 
 23.
 

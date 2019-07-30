@@ -6,7 +6,7 @@ PNotes官网提供了近百种各式各样的便签[皮肤的下载](https://zh.
 
 官方网站现提供了几十种软件语言包的下载，包括[英语](../Page/英语.md "wikilink")、[简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")、[繁体中文等](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")。\[3\]
 
-PNotes还提供了[闹钟提醒](https://zh.wikipedia.org/wiki/闹钟 "wikilink")、便签搜索、便签[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")、自定便签皮肤和[字体](../Page/字体.md "wikilink")、自定[快捷键等众多实用功能](../Page/快捷键.md "wikilink")。\[4\]
+PNotes还提供了[闹钟提醒](https://zh.wikipedia.org/wiki/闹钟 "wikilink")、便签搜索、便签[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")、自定便签皮肤和[字体](../Page/字体.md "wikilink")、自定[快捷键](../Page/快捷键.md "wikilink")等众多实用功能。\[4\]
 
 ## 外部链接
 
@@ -23,9 +23,7 @@ PNotes还提供了[闹钟提醒](https://zh.wikipedia.org/wiki/闹钟 "wikilink"
 
 </div>
 
-[Category:绿色软件](https://zh.wikipedia.org/wiki/Category:绿色软件 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink")
+[Category:绿色软件](https://zh.wikipedia.org/wiki/Category:绿色软件 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink")
 
 1.
 2.  [PNotes - Skins](http://pnotes.sourceforge.net/index.php?page=2)

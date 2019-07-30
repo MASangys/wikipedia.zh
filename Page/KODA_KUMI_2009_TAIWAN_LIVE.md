@@ -1,10 +1,8 @@
-《**KODA KUMI 2009 TAIWAN LIVE**》（倖田來未 2009
-台灣演唱會）為日本歌手[倖田來未於](../Page/倖田來未.md "wikilink")2010年3月10日發行之演唱會DVD。
+《**KODA KUMI 2009 TAIWAN LIVE**》（倖田來未 2009 台灣演唱會）為日本歌手[倖田來未](../Page/倖田來未.md "wikilink")於2010年3月10日發行之演唱會DVD。
 
 ## 解說
 
-  - 本演唱會DVD收錄[倖田來未於](../Page/倖田來未.md "wikilink")2009年10月3、4日舉辦的首場海外演唱會「倖田來未
-    2009 台灣演唱會」影像。\[1\]
+  - 本演唱會DVD收錄[倖田來未](../Page/倖田來未.md "wikilink")於2009年10月3、4日舉辦的首場海外演唱會「倖田來未 2009 台灣演唱會」影像。\[1\]
   - 另外本次於日本僅在「粉絲俱樂部（FC）」限定發售，海外也僅台灣授權發行，並附贈台灣歌迷的專屬小卡片。\[2\]
 
 ## 曲目
@@ -28,9 +26,7 @@
 17. Physical thing 本能欲望
 18. Long Dance Part
 19. Lick me♥ 舔我♥
-20. Long Medley \<BUT～D.D.D.～TABOO 禁忌～Shake It Up～Crazy 4 U～It's all
-    Love\!～人魚公主～奔跑\!～FREAKY 精彩蛻變～LAST ANGEL～With your
-    smile～戀愛花蕾～愛之歌～WIND～girls\>
+20. Long Medley \<BUT～D.D.D.～TABOO 禁忌～Shake It Up～Crazy 4 U～It's all Love\!～人魚公主～奔跑\!～FREAKY 精彩蛻變～LAST ANGEL～With your smile～戀愛花蕾～愛之歌～WIND～girls\>
 21. Butterfly～甜心戰士
 22. Walk
 

@@ -1,4 +1,4 @@
-本列表罗列的是[Google公司所](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[收购的企业](https://zh.wikipedia.org/wiki/收购 "wikilink")。表中所列的收购日期采用Google公司与收购对象签订协议的日期。由于Google公司的总部设于[美国](../Page/美国.md "wikilink")，故而收购对象的市值均以[美元计](../Page/美元.md "wikilink")，未公开市值者则表格留白。
+本列表罗列的是[Google公司所](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[收购的企业](https://zh.wikipedia.org/wiki/收购 "wikilink")。表中所列的收购日期采用Google公司与收购对象签订协议的日期。由于Google公司的总部设于[美国](../Page/美国.md "wikilink")，故而收购对象的市值均以[美元](../Page/美元.md "wikilink")计，未公开市值者则表格留白。
 
 截至2011年，Google已收购了超过100家企业，最大的一桩收购案的对象为移动设备制造商[摩托罗拉移动](../Page/摩托罗拉移动.md "wikilink")，收购价为125亿美元。被Google收购的大多数企业位于美国，而其中的大部分都来自于[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[旧金山湾区](https://zh.wikipedia.org/wiki/旧金山湾区 "wikilink")。
 
@@ -742,7 +742,7 @@
 <td><p>73</p></td>
 <td></td>
 <td><p>Instantiations</p></td>
-<td><p><a href="../Page/Java.md" title="wikilink">Java</a>/<a href="../Page/Eclipse.md" title="wikilink">Eclipse</a>/<a href="../Page/AJAX.md" title="wikilink">AJAX开发工具</a></p></td>
+<td><p><a href="../Page/Java.md" title="wikilink">Java</a>/<a href="../Page/Eclipse.md" title="wikilink">Eclipse</a>/<a href="../Page/AJAX.md" title="wikilink">AJAX</a>开发工具</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Google_Web_Toolkit" title="wikilink">Google Web Toolkit</a></p></td>
@@ -1863,8 +1863,7 @@
 
 ## 參考資料
 
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:公司列表](https://zh.wikipedia.org/wiki/Category:公司列表 "wikilink")
+[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:公司列表](https://zh.wikipedia.org/wiki/Category:公司列表 "wikilink")
 
 1.
 
@@ -2186,11 +2185,7 @@
 
 164.
 
-165. [Google Buys Nest Labs for
-     B](http://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/google-buys-nest-labs-for-32b),
-     [IEEE
-     Spectrum](https://zh.wikipedia.org/wiki/IEEE_Spectrum "wikilink"),
-     2014.01.14
+165. [Google Buys Nest Labs for B](http://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/google-buys-nest-labs-for-32b), [IEEE Spectrum](https://zh.wikipedia.org/wiki/IEEE_Spectrum "wikilink"), 2014.01.14
 
 166.
 
@@ -2202,26 +2197,15 @@
 
 170.
 
-171. "Google buys Green Throttle Games, fuelling 'Nexus TV'
-     speculation", Samuel Gibbs (The Guardian). 12/03/2014
-     <http://www.theguardian.com/technology/2014/mar/12/google-buys-green-throttle-games-fuelling-nexus-tv-speculation>
+171. "Google buys Green Throttle Games, fuelling 'Nexus TV' speculation", Samuel Gibbs (The Guardian). 12/03/2014 <http://www.theguardian.com/technology/2014/mar/12/google-buys-green-throttle-games-fuelling-nexus-tv-speculation>
 
-172. "Google’s Acquisition Of Green Throttle Games Could Signal Better
-     Native Android Gaming", Darrell Etherington (TechCrunch).
-     12/03/2014
-     <http://techcrunch.com/2014/03/12/googles-acquisition-of-green-throttle-games-could-signal-better-native-android-gaming/>
+172. "Google’s Acquisition Of Green Throttle Games Could Signal Better Native Android Gaming", Darrell Etherington (TechCrunch). 12/03/2014 <http://techcrunch.com/2014/03/12/googles-acquisition-of-green-throttle-games-could-signal-better-native-android-gaming/>
 
-173. "Google Acquires Titan Aerospace, The Drone Company Pursued By
-     Facebook",  Darrell Etherington (TechCrunch). 14/04/2014
-     <http://techcrunch.com/2014/04/14/google-acquires-titan-aerospace-the-drone-company-pursued-by-facebook/>
+173. "Google Acquires Titan Aerospace, The Drone Company Pursued By Facebook",  Darrell Etherington (TechCrunch). 14/04/2014 <http://techcrunch.com/2014/04/14/google-acquires-titan-aerospace-the-drone-company-pursued-by-facebook/>
 
-174. Google Confirms Purchase Of Titan Aerospace For Data Drone Effort,
-     Eric Mack (Forbes). 2:40 PM 4/14/2014.
-     <http://www.forbes.com/sites/ericmack/2014/04/14/google-reportedly-buying-solar-drone-maker-not-facebook/>
+174. Google Confirms Purchase Of Titan Aerospace For Data Drone Effort, Eric Mack (Forbes). 2:40 PM 4/14/2014. <http://www.forbes.com/sites/ericmack/2014/04/14/google-reportedly-buying-solar-drone-maker-not-facebook/>
 
-175. "Google to buy drone-maker Titan Aerospace", ALEXEI ORESKOVIC
-     (Reuters). 14/04/2014
-     <http://www.reuters.com/article/2014/04/14/us-google-titan-aerospace-idUSBREA3D1H620140414>
+175. "Google to buy drone-maker Titan Aerospace", ALEXEI ORESKOVIC (Reuters). 14/04/2014 <http://www.reuters.com/article/2014/04/14/us-google-titan-aerospace-idUSBREA3D1H620140414>
 
 176.
 

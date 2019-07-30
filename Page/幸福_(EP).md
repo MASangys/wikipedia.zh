@@ -1,4 +1,4 @@
-**幸福**是[香港歌手](../Page/香港.md "wikilink")[陳奕迅於](../Page/陳奕迅.md "wikilink")1999年11月發行的[粵語EP](https://zh.wikipedia.org/wiki/粵語 "wikilink")，專輯分為兩部分，第一部分為新曲，另一部分為舊曲番唱，全碟合共有11首歌曲。
+**幸福**是[香港](../Page/香港.md "wikilink")歌手[陳奕迅](../Page/陳奕迅.md "wikilink")於1999年11月發行的[粵語EP](https://zh.wikipedia.org/wiki/粵語 "wikilink")，專輯分為兩部分，第一部分為新曲，另一部分為舊曲番唱，全碟合共有11首歌曲。
 
 ## 曲目
 
@@ -20,21 +20,14 @@
 ### 歌曲《幸福摩天輪》
 
   - [1999年度勁歌金曲季選](../Page/勁歌金曲優秀選.md "wikilink") - 第四季金曲
-  - [1999年度新城勁爆頒獎禮](https://zh.wikipedia.org/wiki/1999年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 新城勁爆歌曲
-  - [1999年度叱咤樂壇流行榜頒獎典禮](../Page/1999年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    專業推介 叱咤十大（第八位）
-  - [1999年度叱咤樂壇流行榜頒獎典禮](../Page/1999年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇我最喜愛的歌曲大獎
+  - [1999年度新城勁爆頒獎禮](https://zh.wikipedia.org/wiki/1999年度新城勁爆頒獎禮得獎名單 "wikilink") - 新城勁爆歌曲
+  - [1999年度叱咤樂壇流行榜頒獎典禮](../Page/1999年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 專業推介 叱咤十大（第八位）
+  - [1999年度叱咤樂壇流行榜頒獎典禮](../Page/1999年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 叱咤樂壇我最喜愛的歌曲大獎
   - [1999年度十大勁歌金曲頒獎典禮](../Page/1999年度十大勁歌金曲得獎名單.md "wikilink") - 十大勁歌金曲獎
-  - [1999年度四台聯頒音樂大獎](https://zh.wikipedia.org/wiki/1999年度四台聯頒音樂大獎得獎名單 "wikilink")
-    - 歌曲獎
+  - [1999年度四台聯頒音樂大獎](https://zh.wikipedia.org/wiki/1999年度四台聯頒音樂大獎得獎名單 "wikilink") - 歌曲獎
 
 ### 歌曲《時光倒流二十年》
 
   - [2000年度勁歌金曲季選](../Page/勁歌金曲優秀選.md "wikilink") - 第一季金曲
 
-[Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink")
-[Category:陳奕迅粵語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅粵語專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")
+[Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink") [Category:陳奕迅粵語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅粵語專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")

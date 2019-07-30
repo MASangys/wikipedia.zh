@@ -1,13 +1,10 @@
-**株式會社AXL
-ONE**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")[西新宿的](../Page/西新宿.md "wikilink")[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。
+**株式會社AXL ONE**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")[西新宿](../Page/西新宿.md "wikilink")的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 概要
 
-2011年4月11日，由長年從屬[ARTSVISION的](../Page/ARTSVISION.md "wikilink")[聲優](../Page/聲優.md "wikilink")[森川智之代表](../Page/森川智之.md "wikilink")，與[福山潤共同創立](../Page/福山潤.md "wikilink")。另外，所屬的聲優大部分來自[Production
-baobab](../Page/Production_baobab.md "wikilink")（包含福山在內）。
+2011年4月11日，由長年從屬[ARTSVISION](../Page/ARTSVISION.md "wikilink")的[聲優](../Page/聲優.md "wikilink")[森川智之](../Page/森川智之.md "wikilink")代表，與[福山潤](../Page/福山潤.md "wikilink")共同創立。另外，所屬的聲優大部分來自[Production baobab](../Page/Production_baobab.md "wikilink")（包含福山在內）。
 
-該事務所的名稱來自森川他以前養過的狗狗的名字（2009年去世）。除了聲優經紀業務外，也有聲優養成所[AXL
-ZERO](https://zh.wikipedia.org/wiki/#AXL_ZERO "wikilink")（）（下述）。
+該事務所的名稱來自森川他以前養過的狗狗的名字（2009年去世）。除了聲優經紀業務外，也有聲優養成所[AXL ZERO](https://zh.wikipedia.org/wiki/#AXL_ZERO "wikilink")（）（下述）。
 
 ## 所屬聲優
 
@@ -130,8 +127,7 @@ ZERO](https://zh.wikipedia.org/wiki/#AXL_ZERO "wikilink")（）（下述）。
 ### 男性
 
   - 杉浦文彌
-  - [杉山紀彰](../Page/杉山紀彰.md "wikilink")（現所屬：[Stay
-    Luck](../Page/Stay_Luck.md "wikilink")）
+  - [杉山紀彰](../Page/杉山紀彰.md "wikilink")（現所屬：[Stay Luck](../Page/Stay_Luck.md "wikilink")）
   - [立花慎之介](../Page/立花慎之介.md "wikilink")（現所屬：BLACKSHIP代表董事）\[1\]
   - [福山潤](../Page/福山潤.md "wikilink")（現所屬：BLACKSHIP代表董事）\[2\]
 
@@ -144,9 +140,7 @@ ZERO](https://zh.wikipedia.org/wiki/#AXL_ZERO "wikilink")（）（下述）。
 
 ## AXL ZERO
 
-2011年4月開班，是一間2學年制的聲優養成所。第1年為基礎課程，第2年為研究課程，但是要升上2年級的話必須通過進級審查。然後到畢業前如果要成為母公司AXL
-ONE和其它事務所的Jr.所屬的話得需參加選拔課程，及經過事務所的審查委員評審才能被獲選。另外，AXL
-ZERO實質開班的時間是從2012年度開始，2011年度進入的為第0期的學生。
+2011年4月開班，是一間2學年制的聲優養成所。第1年為基礎課程，第2年為研究課程，但是要升上2年級的話必須通過進級審查。然後到畢業前如果要成為母公司AXL ONE和其它事務所的Jr.所屬的話得需參加選拔課程，及經過事務所的審查委員評審才能被獲選。另外，AXL ZERO實質開班的時間是從2012年度開始，2011年度進入的為第0期的學生。
 
 ## 廣播節目
 
@@ -162,23 +156,17 @@ ZERO實質開班的時間是從2012年度開始，2011年度進入的為第0期�
 
 ## 外部連結
 
-  - [AXL ONE Offical WEB Side](http://www.axl-one.com/) －株式會社AXL
-    ONE官方網站。
+  - [AXL ONE Offical WEB Side](http://www.axl-one.com/) －株式會社AXL ONE官方網站。
 
-  - [AXL ZERO ONE Offical WEB Side](http://www.axl-zero.com/) －聲優養成所AXL
-    ZERO官方網站。
+  - [AXL ZERO ONE Offical WEB Side](http://www.axl-zero.com/) －聲優養成所AXL ZERO官方網站。
 
   - －株式會社AXL ONE專開的廣播節目官網。
 
-  - [](http://www.fwinc.co.jp/axl-1/radio/?cat=1) －株式會社AXL
-    ONE專開的廣播節目官網日誌。
+  - [](http://www.fwinc.co.jp/axl-1/radio/?cat=1) －株式會社AXL ONE專開的廣播節目官網日誌。
 
   -
 
-[Category:AXL_ONE](https://zh.wikipedia.org/wiki/Category:AXL_ONE "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
-[Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink")
+[Category:AXL_ONE](https://zh.wikipedia.org/wiki/Category:AXL_ONE "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink")
 
 1.
 2.

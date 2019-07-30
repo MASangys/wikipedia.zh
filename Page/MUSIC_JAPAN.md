@@ -1,10 +1,8 @@
-**MUSIC
-JAPAN**是[NHK綜合頻道播放的一個音樂節目](../Page/NHK綜合頻道.md "wikilink")。簡稱為**MJ**。
+**MUSIC JAPAN**是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")播放的一個音樂節目。簡稱為**MJ**。
 
 ## 概要
 
-自2007年3月16日-2016年4月4日延續9年播出「[POP
-JAM](https://zh.wikipedia.org/wiki/POP_JAM "wikilink")」而誕生的電視節目。
+自2007年3月16日-2016年4月4日延續9年播出「[POP JAM](https://zh.wikipedia.org/wiki/POP_JAM "wikilink")」而誕生的電視節目。
 
 ## 編成
 
@@ -80,8 +78,7 @@ JAM](https://zh.wikipedia.org/wiki/POP_JAM "wikilink")」而誕生的電視節�
 
   - [MUSIC JAPAN](http://www.nhk.or.jp/mj/)
 
-[Category:NHK電視音樂節目](https://zh.wikipedia.org/wiki/Category:NHK電視音樂節目 "wikilink")
-[Category:2007年日本電視節目](https://zh.wikipedia.org/wiki/Category:2007年日本電視節目 "wikilink")
+[Category:NHK電視音樂節目](https://zh.wikipedia.org/wiki/Category:NHK電視音樂節目 "wikilink") [Category:2007年日本電視節目](https://zh.wikipedia.org/wiki/Category:2007年日本電視節目 "wikilink")
 
 1.  [2013年度主な番組の新キャスター（抜粋）](http://www.nhk.or.jp/pr/keiei/otherpress/pdf/20130205.pdf)（2013年2月22日閲覧）
 

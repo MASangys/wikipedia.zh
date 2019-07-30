@@ -1,13 +1,8 @@
 [Gufw_10.04.4.png](https://zh.wikipedia.org/wiki/File:Gufw_10.04.4.png "fig:Gufw_10.04.4.png")\]\]
 
-UFW 全称为 **Uncomplicated Firewall**\[1\]，是
-[Ubuntu](../Page/Ubuntu.md "wikilink")
-系统上默认的[防火墙](../Page/防火墙.md "wikilink")组件,
-为了轻量化配置 iptables 而开发的一款工具。UFW
-提供一个非常友好的界面用于创建基于[IPV4](https://zh.wikipedia.org/wiki/IPV4 "wikilink")，[IPV6的防火墙规则](https://zh.wikipedia.org/wiki/IPV6 "wikilink")。
+UFW 全称为 **Uncomplicated Firewall**\[1\]，是 [Ubuntu](../Page/Ubuntu.md "wikilink") 系统上默认的[防火墙](../Page/防火墙.md "wikilink")组件, 为了轻量化配置 iptables 而开发的一款工具。UFW 提供一个非常友好的界面用于创建基于[IPV4](https://zh.wikipedia.org/wiki/IPV4 "wikilink")，[IPV6的防火墙规则](https://zh.wikipedia.org/wiki/IPV6 "wikilink")。
 
-但是，UFW
-是沒有圖形化使用者界面的，它使用指令列操作，所以，操作起來就不是那麼的方便，有人幫它寫了個圖形化使用者界面，名字就叫做「Gufw」。
+但是，UFW 是沒有圖形化使用者界面的，它使用指令列操作，所以，操作起來就不是那麼的方便，有人幫它寫了個圖形化使用者界面，名字就叫做「Gufw」。
 
 ## 基本语法和例子 (Ubuntu Server 14.04)
 
@@ -49,8 +44,7 @@ ufw reject / 增加一條表示拒絕的規則
 
 ### 為規則編號
 
-ufw status numbered                 show firewall status as numbered
-list of RULES 
+ufw status numbered                 show firewall status as numbered list of RULES 
 
 ### 其他指令參數
 
@@ -86,7 +80,6 @@ app default ARG                 set default application policy
 
 deny 與 reject 的區別在於：使用 deny 時，對方不會得到任何通知，而使用 reject 時則明確告訴對方被靜止了。
 
-[Category:防火墙软件](https://zh.wikipedia.org/wiki/Category:防火墙软件 "wikilink")
-[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
+[Category:防火墙软件](https://zh.wikipedia.org/wiki/Category:防火墙软件 "wikilink") [Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
 
 1.

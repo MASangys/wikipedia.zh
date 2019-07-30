@@ -1,10 +1,8 @@
-《**魔法门VI：天堂之令**》（，或称**魔法门VI**、**魔法门6**，英文缩写****）是由[New World
-Computing制作组开发](../Page/New_World_Computing.md "wikilink")，由[3DO公司于](../Page/3DO公司.md "wikilink")1998年4月30日发行的一款[RPG角色扮演类游戏](../Page/電子角色扮演遊戲.md "wikilink")。它是[魔法门系列游戏的第六代](../Page/魔法门系列.md "wikilink")，也是与[魔法门之英雄无敌系列](../Page/魔法门之英雄无敌系列.md "wikilink")（I-III）相同的新世界观设定下的第一款RPG魔法门系列游戏。它的故事发生在《[魔法门之英雄无敌II](https://zh.wikipedia.org/wiki/魔法门之英雄无敌II "wikilink")》之后，紧随着《魔法门VI》故事的则是《[魔法门之英雄无敌III](https://zh.wikipedia.org/wiki/魔法门之英雄无敌III "wikilink")》。
+《**魔法门VI：天堂之令**》（，或称**魔法门VI**、**魔法门6**，英文缩写****）是由[New World Computing制作组开发](../Page/New_World_Computing.md "wikilink")，由[3DO公司](../Page/3DO公司.md "wikilink")于1998年4月30日发行的一款[RPG角色扮演类游戏](../Page/電子角色扮演遊戲.md "wikilink")。它是[魔法门系列](../Page/魔法门系列.md "wikilink")游戏的第六代，也是与[魔法门之英雄无敌系列](../Page/魔法门之英雄无敌系列.md "wikilink")（I-III）相同的新世界观设定下的第一款RPG魔法门系列游戏。它的故事发生在《[魔法门之英雄无敌II](https://zh.wikipedia.org/wiki/魔法门之英雄无敌II "wikilink")》之后，紧随着《魔法门VI》故事的则是《[魔法门之英雄无敌III](https://zh.wikipedia.org/wiki/魔法门之英雄无敌III "wikilink")》。
 
 对比同时期同样著名的[RPG游戏](../Page/電子角色扮演遊戲.md "wikilink")，比如《[上古卷轴II：匕首雨](../Page/上古卷轴II：匕首雨.md "wikilink")》和《[創世紀](https://zh.wikipedia.org/wiki/創世紀_\(遊戲\) "wikilink")》，《魔法门VI》拥有开放而非线性的任务流程，对玩家友好的互动性界面、详细的游戏世界等。一些评论以类似于“见证了一个传奇的再生”的评语来评价《魔法门VI》，并将其作为欧美RPG复兴的一个里程碑。\[1\]
 
-后来发布的《魔法门VI》限量发行版中，附带了游戏世界所在大陆——恩洛斯大陆的一张布制地图和一份攻略指南，CD中也包含了[魔法门系列I至V的游戏在里面](../Page/魔法门系列.md "wikilink")。New
-World Computing/3DO的魔法门系列后来又发布了VII至IX，均为《魔法门VI》的游戏设定、故事与世界观的不同程度上的延续。
+后来发布的《魔法门VI》限量发行版中，附带了游戏世界所在大陆——恩洛斯大陆的一张布制地图和一份攻略指南，CD中也包含了[魔法门系列](../Page/魔法门系列.md "wikilink")I至V的游戏在里面。New World Computing/3DO的魔法门系列后来又发布了VII至IX，均为《魔法门VI》的游戏设定、故事与世界观的不同程度上的延续。
 
 ## 游戏方式
 
@@ -38,7 +36,7 @@ World Computing/3DO的魔法门系列后来又发布了VII至IX，均为《魔�
 
 ### 背景
 
-随着堕落的监护人Sheltem在《[魔法门V：黑暗魔君大反扑](../Page/魔法门V：黑暗魔君大反扑.md "wikilink")》的最后被消灭，“古代人”和类似[魔鬼的外星种族克里根之间的长期战争波及到了其他星球的其他地方](../Page/魔鬼.md "wikilink")，殖民星球（）的恩洛斯大陆就是其中之一。
+随着堕落的监护人Sheltem在《[魔法门V：黑暗魔君大反扑](../Page/魔法门V：黑暗魔君大反扑.md "wikilink")》的最后被消灭，“古代人”和类似[魔鬼](../Page/魔鬼.md "wikilink")的外星种族克里根之间的长期战争波及到了其他星球的其他地方，殖民星球（）的恩洛斯大陆就是其中之一。
 
 在《[魔法门之英雄无敌II：延续的战争](https://zh.wikipedia.org/wiki/魔法门之英雄无敌II "wikilink")》故事结束后7年。在一个后来被称作“流星雨之夜”的夜晚，流星状的[飞船从](https://zh.wikipedia.org/wiki/飞船 "wikilink")“虚空”中，载着克里根人来到恩洛斯大陆的甜水镇。后来，恩洛斯王国的国王——罗兰德·艾恩法斯特，率军向西北远征，寻找并攻击恶魔，但却被叛徒御用空气[魔法师舒尔曼出卖](https://zh.wikipedia.org/wiki/魔法师 "wikilink")。部队被伏击而全军覆没，他和御用魔法师坦尼尔和爵士雷格纳被俘虏，下落不明。同时，一个新兴的教派——羊鸣教与克里根国王赞诺菲克斯勾结，建立了许多羊鸣庙，与艾恩法斯特王朝抗衡。由于罗兰德国王失踪，[摄政王威尔伯](https://zh.wikipedia.org/wiki/摄政王 "wikilink")·汉弗里辅佐罗兰德的儿子——王子尼古拉·艾恩法斯特统领王国。恩洛斯王国的人民开始担心艾恩法斯特家族已经失去了“-{zh-cn:天堂之令;zh-tw:天命;}-”（，取自中国传统哲学理念“[天命](../Page/天命.md "wikilink")”，可认为是统治的神权）。
 
@@ -52,23 +50,17 @@ World Computing/3DO的魔法门系列后来又发布了VII至IX，均为《魔�
 
 神使梅里安是“古代人”创造的[人工智能](../Page/人工智能.md "wikilink")[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")。当年想夺取王权的罗兰德的弟弟阿基巴德·艾恩法斯特，于王位争夺战争期间，拿走了神使的四块记忆水晶（[内存](https://zh.wikipedia.org/wiki/内存 "wikilink")），使其停止工作。角色又在大陆的四个地下城中找到了四块记忆水晶，从而唤醒了神使。其中，在克里格斯城堡可找到罗兰德被俘时写的信，隐士岛的顶级羊鸣庙可以找到并杀死逃跑的席尔瓦托恩。
 
-神使被唤醒后，说明了一些背景故事。角色必须从维兰坟墓（一座[沙漠中的](../Page/沙漠.md "wikilink")[金字塔](../Page/金字塔.md "wikilink")）找到控制方块，进入行星控制中心，学习并获得榴弹枪（又称古老兵器），才可以用枪来摧毁克里根的最后机器——反应器（[核反应堆](../Page/核反应堆.md "wikilink")）。另外，角色还要防止反应器在毁灭时的大爆炸，这有可能使星球毁灭。只有阿基巴德知道避免灾难的方法。阿基巴德在王位争夺战争失败后被御用魔法师坦尼尔石化，石像放在铁拳城堡王宫上方的国家图书馆内。在王宫附近的井里找到第三只眼（一颗宝石）后，尼古拉给出了坦尼尔之铃来释放阿基巴德，阿基巴德给了角色虚空仪式书。最后，角色返回家乡甜水镇，进入蜂房状的飞船，用枪摧毁反应器，杀死魔鬼女王，将爆炸传送到了虚空中，避免了灾难。游戏通关。通关动画中，尼古拉给了角色以奖励。
+神使被唤醒后，说明了一些背景故事。角色必须从维兰坟墓（一座[沙漠](../Page/沙漠.md "wikilink")中的[金字塔](../Page/金字塔.md "wikilink")）找到控制方块，进入行星控制中心，学习并获得榴弹枪（又称古老兵器），才可以用枪来摧毁克里根的最后机器——反应器（[核反应堆](../Page/核反应堆.md "wikilink")）。另外，角色还要防止反应器在毁灭时的大爆炸，这有可能使星球毁灭。只有阿基巴德知道避免灾难的方法。阿基巴德在王位争夺战争失败后被御用魔法师坦尼尔石化，石像放在铁拳城堡王宫上方的国家图书馆内。在王宫附近的井里找到第三只眼（一颗宝石）后，尼古拉给出了坦尼尔之铃来释放阿基巴德，阿基巴德给了角色虚空仪式书。最后，角色返回家乡甜水镇，进入蜂房状的飞船，用枪摧毁反应器，杀死魔鬼女王，将爆炸传送到了虚空中，避免了灾难。游戏通关。通关动画中，尼古拉给了角色以奖励。
 
 ## 开发
 
-《魔法门6》的设计工作开始于1996年，也就是在《[魔法门V：黑暗魔君大反扑](../Page/魔法门V：黑暗魔君大反扑.md "wikilink")》和[魔法门之英雄无敌系列的前两部作品获得成功之后](../Page/魔法门之英雄无敌系列.md "wikilink")。尽管上一部作品《魔法门5》已发布了五年，但[New
-World
-Computing仍然打算不脱离前作的世界观](../Page/New_World_Computing.md "wikilink")。\[2\]在《[魔法门之英雄无敌II](https://zh.wikipedia.org/wiki/魔法门之英雄无敌II "wikilink")》中包含有《魔法门6》的隐藏预告片。在《魔法门6》设计的早期，NWC与[科幻小说](../Page/科幻小说.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")合作，格拉沃将在原有的游戏时间线和世界观的基础上撰写一个三部曲小说。\[3\]格拉沃从NWC获得的信息不多，之后格拉沃又得知《魔法门6》的情节将基于他的小说，而非他的小说一定要在前作基础上撰写。他在《魔法门6》发布之前写好了三部曲中的两部，《The
-Dreamwright》和《The Shadowsmith》，并由公司发行。但最终，在第三部《The
-Worldcrafters》撰写之前，NWC还是独立设计了《魔法门6》的故事线，即设计在恩洛斯，《英雄无敌2》故事发生的大陆。NWC请Gravel结束三部曲，为恩洛斯写一部新的小说，但他拒绝了。\[4\]
+《魔法门6》的设计工作开始于1996年，也就是在《[魔法门V：黑暗魔君大反扑](../Page/魔法门V：黑暗魔君大反扑.md "wikilink")》和[魔法门之英雄无敌系列](../Page/魔法门之英雄无敌系列.md "wikilink")的前两部作品获得成功之后。尽管上一部作品《魔法门5》已发布了五年，但[New World Computing仍然打算不脱离前作的世界观](../Page/New_World_Computing.md "wikilink")。\[2\]在《[魔法门之英雄无敌II](https://zh.wikipedia.org/wiki/魔法门之英雄无敌II "wikilink")》中包含有《魔法门6》的隐藏预告片。在《魔法门6》设计的早期，NWC与[科幻小说](../Page/科幻小说.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")合作，格拉沃将在原有的游戏时间线和世界观的基础上撰写一个三部曲小说。\[3\]格拉沃从NWC获得的信息不多，之后格拉沃又得知《魔法门6》的情节将基于他的小说，而非他的小说一定要在前作基础上撰写。他在《魔法门6》发布之前写好了三部曲中的两部，《The Dreamwright》和《The Shadowsmith》，并由公司发行。但最终，在第三部《The Worldcrafters》撰写之前，NWC还是独立设计了《魔法门6》的故事线，即设计在恩洛斯，《英雄无敌2》故事发生的大陆。NWC请Gravel结束三部曲，为恩洛斯写一部新的小说，但他拒绝了。\[4\]
 
-《魔法门6》的情节最终建立在了两个系列游戏之间。继承魔法门系列的设置，继续英雄无敌系列的情节。它对魔法门系列前作有所提及或引用，比如新索匹格（New
-Sorpigal）的名称即来源于《[魔法门1](https://zh.wikipedia.org/wiki/魔法门1 "wikilink")》的初始城镇Sorpigal。《魔法门6》的情节和游戏系统被后作《[魔法门7](https://zh.wikipedia.org/wiki/魔法门7 "wikilink")》和《[魔法门8](https://zh.wikipedia.org/wiki/魔法门8 "wikilink")》所使用，部分角色也与魔法门1-5中的某些角色相似。《魔法门6》故事发生在《英雄无敌2》10年之后，《[英雄无敌3](https://zh.wikipedia.org/wiki/英雄无敌3 "wikilink")》则紧随《魔法门6》其后。\[5\]
+《魔法门6》的情节最终建立在了两个系列游戏之间。继承魔法门系列的设置，继续英雄无敌系列的情节。它对魔法门系列前作有所提及或引用，比如新索匹格（New Sorpigal）的名称即来源于《[魔法门1](https://zh.wikipedia.org/wiki/魔法门1 "wikilink")》的初始城镇Sorpigal。《魔法门6》的情节和游戏系统被后作《[魔法门7](https://zh.wikipedia.org/wiki/魔法门7 "wikilink")》和《[魔法门8](https://zh.wikipedia.org/wiki/魔法门8 "wikilink")》所使用，部分角色也与魔法门1-5中的某些角色相似。《魔法门6》故事发生在《英雄无敌2》10年之后，《[英雄无敌3](https://zh.wikipedia.org/wiki/英雄无敌3 "wikilink")》则紧随《魔法门6》其后。\[5\]
 
 游戏最先在1998年4月的[E3游戏展上被展出](https://zh.wikipedia.org/wiki/E3 "wikilink")，系列创始人和开发领导者[乔·万·坎赫姆称呼游戏为](https://zh.wikipedia.org/wiki/乔·万·坎赫姆 "wikilink")“我所开发的最好的魔法门游戏”和“至今为止在[RPG历史上最大和最有抱负的游戏](../Page/電子角色扮演遊戲.md "wikilink")”。\[6\]
 
-据报道，一位建筑师参与了游戏世界和地下城的结构设计，游戏使用了Horizon和Labyrinth两款图像引擎。\[7\]\[8\]虽然游戏中树木、怪物等都是[2.5D（伪3D）](../Page/偽三維.md "wikilink")，使用了二维图像的材质，但多数图像都是[3DS
-Max和](https://zh.wikipedia.org/wiki/3DS_Max "wikilink")中的3D图像。\[9\]\[10\]\[11\]这也是魔法门系列中第一款使用[全动态视频电影艺术效果的游戏](https://zh.wikipedia.org/wiki/全动态视频 "wikilink")。
+据报道，一位建筑师参与了游戏世界和地下城的结构设计，游戏使用了Horizon和Labyrinth两款图像引擎。\[7\]\[8\]虽然游戏中树木、怪物等都是[2.5D（伪3D）](../Page/偽三維.md "wikilink")，使用了二维图像的材质，但多数图像都是[3DS Max和](https://zh.wikipedia.org/wiki/3DS_Max "wikilink")中的3D图像。\[9\]\[10\]\[11\]这也是魔法门系列中第一款使用[全动态视频电影艺术效果的游戏](https://zh.wikipedia.org/wiki/全动态视频 "wikilink")。
 
 游戏的配乐是由、、和珍妮弗·王（）创作，巴卡、金和罗梅罗也是此前英雄无敌音乐的创作者。\[12\]
 
@@ -76,8 +68,7 @@ Max和](https://zh.wikipedia.org/wiki/3DS_Max "wikilink")中的3D图像。\[9\]\
 
 ## 评价
 
-《魔法门VI》是一个极为成功、里程碑式的RPG游戏。[GameSpot给了](../Page/GameSpot.md "wikilink")9.1分（满分10分）和“编辑推荐”的评价，并称其为“在对于RPG游戏爱好者十分伟大的一年\[15\]中的一款杰出的游戏”、“《魔法门VI》的图像在至今（注：1998年）的3D第一人称RPG中是最好的”。\[16\]截止2013年8月，该作为GameSpot上PC
-RPG（不包含[大型网络RPG](../Page/大型多人在线角色扮演游戏.md "wikilink")）的第9高分，也是仅次于《[上古卷轴IV：湮没](../Page/上古卷轴IV：湮没.md "wikilink")》的第一人称单机RPG，与《[巫术8](https://zh.wikipedia.org/wiki/巫术8 "wikilink")》并列。\[17\][IGN给了](../Page/IGN.md "wikilink")9.0分（满分10分），评价：“任何RPG爱好者都应该拥有这款游戏”、“几年内找不到一款RPG能给玩家如此的满足感，高度推荐给几乎所有人”。\[18\]RPGFan同样给了9.0分（满分10分）认为其游戏性很强：“就算把所有都说过做过之后，游戏世界中的探索和角色的发展依然能带给你纯粹的乐趣，使你继续玩《魔法门VI》。或许它会有乏味的时候，游戏性和图形也可能有一些限制。但这不足以使你抛弃游戏。通关是不够的，应深入恩洛斯土地”\[19\]。《[電腦遊戲世界](../Page/電腦遊戲世界.md "wikilink")》（英文版）评选该作为当年的年度RPG第二位。\[20\]
+《魔法门VI》是一个极为成功、里程碑式的RPG游戏。[GameSpot](../Page/GameSpot.md "wikilink")给了9.1分（满分10分）和“编辑推荐”的评价，并称其为“在对于RPG游戏爱好者十分伟大的一年\[15\]中的一款杰出的游戏”、“《魔法门VI》的图像在至今（注：1998年）的3D第一人称RPG中是最好的”。\[16\]截止2013年8月，该作为GameSpot上PC RPG（不包含[大型网络RPG](../Page/大型多人在线角色扮演游戏.md "wikilink")）的第9高分，也是仅次于《[上古卷轴IV：湮没](../Page/上古卷轴IV：湮没.md "wikilink")》的第一人称单机RPG，与《[巫术8](https://zh.wikipedia.org/wiki/巫术8 "wikilink")》并列。\[17\][IGN](../Page/IGN.md "wikilink")给了9.0分（满分10分），评价：“任何RPG爱好者都应该拥有这款游戏”、“几年内找不到一款RPG能给玩家如此的满足感，高度推荐给几乎所有人”。\[18\]RPGFan同样给了9.0分（满分10分）认为其游戏性很强：“就算把所有都说过做过之后，游戏世界中的探索和角色的发展依然能带给你纯粹的乐趣，使你继续玩《魔法门VI》。或许它会有乏味的时候，游戏性和图形也可能有一些限制。但这不足以使你抛弃游戏。通关是不够的，应深入恩洛斯土地”\[19\]。《[電腦遊戲世界](../Page/電腦遊戲世界.md "wikilink")》（英文版）评选该作为当年的年度RPG第二位。\[20\]
 
 ## 参见
 
@@ -89,16 +80,9 @@ RPG（不包含[大型网络RPG](../Page/大型多人在线角色扮演游戏.md
 
 ## 外部链接
 
-  - [魔法门6
-    Wiki（恩洛斯时报）](https://zh.wikipedia.org/wiki/:wikia:zh.mm6 "wikilink")（[Wikia上的中文](../Page/Wikia.md "wikilink")《魔法门6》[Wiki](../Page/Wiki.md "wikilink")）
+  - [魔法门6 Wiki（恩洛斯时报）](https://zh.wikipedia.org/wiki/:wikia:zh.mm6 "wikilink")（[Wikia](../Page/Wikia.md "wikilink")上的中文《魔法门6》[Wiki](../Page/Wiki.md "wikilink")）
 
-[Category:New_World_Computing游戏](https://zh.wikipedia.org/wiki/Category:New_World_Computing游戏 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:第一人称游戏](https://zh.wikipedia.org/wiki/Category:第一人称游戏 "wikilink")
-[Category:3DO公司游戏](https://zh.wikipedia.org/wiki/Category:3DO公司游戏 "wikilink")
-[Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:魔法门系列](https://zh.wikipedia.org/wiki/Category:魔法门系列 "wikilink")
+[Category:New_World_Computing游戏](https://zh.wikipedia.org/wiki/Category:New_World_Computing游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:第一人称游戏](https://zh.wikipedia.org/wiki/Category:第一人称游戏 "wikilink") [Category:3DO公司游戏](https://zh.wikipedia.org/wiki/Category:3DO公司游戏 "wikilink") [Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:魔法门系列](https://zh.wikipedia.org/wiki/Category:魔法门系列 "wikilink")
 
 1.
 
@@ -124,7 +108,7 @@ RPG（不包含[大型网络RPG](../Page/大型多人在线角色扮演游戏.md
 
 13.
 14.
-15. 多款极为著名的RPG发布于1998年，其他还有[博德之门和](../Page/博德之门.md "wikilink")[辐射2等](../Page/辐射2.md "wikilink")。
+15. 多款极为著名的RPG发布于1998年，其他还有[博德之门](../Page/博德之门.md "wikilink")和[辐射2](../Page/辐射2.md "wikilink")等。
 
 16.
 17.

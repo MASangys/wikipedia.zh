@@ -1,30 +1,16 @@
-《**VOLUME
-UP**》是5人[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[4minute的第三張迷你專輯](../Page/4minute.md "wikilink")，將於2012年4月9日公開發售，是次主打為《VOLUME
-UP》。
+《**VOLUME UP**》是5人[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[4minute](../Page/4minute.md "wikilink")的第三張迷你專輯，將於2012年4月9日公開發售，是次主打為《VOLUME UP》。
 
 ## 發行過程
 
-在年初，[Cube
-Entertainment曾向媒體發佈](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[4MINUTE將於](../Page/4minute.md "wikilink")2月發行第三張迷你專輯。不過,最終不斷延期至4月9日。这与上年4月发表的正规专辑足足隔了一年。
-[Cube
-Entertainment表示这次](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")4MINUTE的迷你三辑會以新尝试的实验性风格作為其突破，專輯收录7首歌曲，包括Hit曲制作人新沙洞老虎在内有名的作曲家打造属于4MINUTE的色彩。\[1\]
+在年初，[Cube Entertainment曾向媒體發佈](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[4MINUTE將於](../Page/4minute.md "wikilink")2月發行第三張迷你專輯。不過,最終不斷延期至4月9日。这与上年4月发表的正规专辑足足隔了一年。
+[Cube Entertainment表示这次](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")4MINUTE的迷你三辑會以新尝试的实验性风格作為其突破，專輯收录7首歌曲，包括Hit曲制作人新沙洞老虎在内有名的作曲家打造属于4MINUTE的色彩。\[1\]
 首張概念圖片於2012年4月3日韓國時間下午1時正公開，她們以小女子清純的形象示人。第二張概念圖片於2012年4月4日韓國時間下午4時44分公開，圖片與她們首張概念圖片風格截然不同，以吸血鬼的形象示人。
-第一個MV teaser於4月6日韓國時間上午10時公開發佈，而第二個MV
-teaser於4月8日韓國時間上午10時公開發佈。MV將於4月9日0時，連同音源公開發佈。而專輯在4月10日起在韓國時間發售。
-在4月12日，在Mnet M\!Countdown進行第一場表演，唱出《DREAM RACER》和《VOLUME
-UP》，開始進行一連串的宣傳活動。
+第一個MV teaser於4月6日韓國時間上午10時公開發佈，而第二個MV teaser於4月8日韓國時間上午10時公開發佈。MV將於4月9日0時，連同音源公開發佈。而專輯在4月10日起在韓國時間發售。
+在4月12日，在Mnet M\!Countdown進行第一場表演，唱出《DREAM RACER》和《VOLUME UP》，開始進行一連串的宣傳活動。
 
 ## 專輯風格
 
-Cube
-Entertainment表示這次4MINUTE的迷你三輯會以新嘗試的實驗性風格作為其突破，專輯收錄7首歌曲，包括Hit曲製作人[新沙洞老虎在內有名的作曲家打造屬於](../Page/新沙洞老虎.md "wikilink")4MINUTE的色彩。
-主打歌“[VOLUME UP](../Page/Volume_Up.md "wikilink")”
-是由出道以来就一直与4MINUTE合作的[新沙洞老虎和Rado](../Page/新沙洞老虎.md "wikilink")
-Combi创作的歌曲再加以萨克斯的伴奏，让人百听不厌。歌詞是講述大众對女团的狂热和反面的影子，以用4MINUTE式坦率又破格的歌词表现。《SAY
-MY NAME》是拉丁和[hip
-hop](https://zh.wikipedia.org/wiki/hip_hop "wikilink")，《I'M
-OK》是慢歌，《BLACK CAT》是电音，《GET ON THE FLOOR》是[hip
-hop](https://zh.wikipedia.org/wiki/hip_hop "wikilink")。
+Cube Entertainment表示這次4MINUTE的迷你三輯會以新嘗試的實驗性風格作為其突破，專輯收錄7首歌曲，包括Hit曲製作人[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")在內有名的作曲家打造屬於4MINUTE的色彩。 主打歌“[VOLUME UP](../Page/Volume_Up.md "wikilink")” 是由出道以来就一直与4MINUTE合作的[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")和Rado Combi创作的歌曲再加以萨克斯的伴奏，让人百听不厌。歌詞是講述大众對女团的狂热和反面的影子，以用4MINUTE式坦率又破格的歌词表现。《SAY MY NAME》是拉丁和[hip hop](https://zh.wikipedia.org/wiki/hip_hop "wikilink")，《I'M OK》是慢歌，《BLACK CAT》是电音，《GET ON THE FLOOR》是[hip hop](https://zh.wikipedia.org/wiki/hip_hop "wikilink")。
 
 ## 曲目名單
 
@@ -161,14 +147,9 @@ hop](https://zh.wikipedia.org/wiki/hip_hop "wikilink")。
 
 ## 外部連結
 
-[Category:4minute_EP](https://zh.wikipedia.org/wiki/Category:4minute_EP "wikilink")
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2012年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2012年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:4minute_EP](https://zh.wikipedia.org/wiki/Category:4minute_EP "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2012年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon專輯週榜冠軍作品 "wikilink") [Category:2012年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon數位下載週榜冠軍作品 "wikilink")
 
-1.  [4minute to make group comeback this
-    February](http://www.allkpop.com/2012/01/4minute-to-make-group-comeback-this-february)
+1.  [4minute to make group comeback this February](http://www.allkpop.com/2012/01/4minute-to-make-group-comeback-this-february)
 
 2.
 

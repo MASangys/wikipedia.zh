@@ -1,11 +1,10 @@
-[MIPS_Architecture_(Pipelined).svg](https://zh.wikipedia.org/wiki/File:MIPS_Architecture_\(Pipelined\).svg "fig:MIPS_Architecture_(Pipelined).svg")
-**MIPS架構**（，為的縮寫，亦為的頭字語），是一種採取[精簡指令集](https://zh.wikipedia.org/wiki/精簡指令集 "wikilink")（RISC）的[處理器架構](https://zh.wikipedia.org/wiki/處理器 "wikilink")，1981年出現，由[MIPS科技公司開發並授權](https://zh.wikipedia.org/wiki/MIPS科技公司 "wikilink")，廣泛被使用在許多電子產品、網路設備、個人娛樂裝置與商業裝置上。最早的MIPS架構是32位元，最新的版本已經變成64位元。
+[MIPS_Architecture_(Pipelined).svg](https://zh.wikipedia.org/wiki/File:MIPS_Architecture_\(Pipelined\).svg "fig:MIPS_Architecture_(Pipelined).svg") **MIPS架構**（，為的縮寫，亦為的頭字語），是一種採取[精簡指令集](https://zh.wikipedia.org/wiki/精簡指令集 "wikilink")（RISC）的[處理器架構](https://zh.wikipedia.org/wiki/處理器 "wikilink")，1981年出現，由[MIPS科技公司開發並授權](https://zh.wikipedia.org/wiki/MIPS科技公司 "wikilink")，廣泛被使用在許多電子產品、網路設備、個人娛樂裝置與商業裝置上。最早的MIPS架構是32位元，最新的版本已經變成64位元。
 
 ## 發展歷史
 
-在1981年，[斯坦福大学教授](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")[約翰·軒尼詩領導他的團隊](../Page/約翰·軒尼詩.md "wikilink")，實作出第一個MIPS架構的[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")。他們原始的概令是透過[指令管線化來增加CPU運算的速度](../Page/指令管線化.md "wikilink")。
+在1981年，[斯坦福大学教授](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")[約翰·軒尼詩](../Page/約翰·軒尼詩.md "wikilink")領導他的團隊，實作出第一個MIPS架構的[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")。他們原始的概令是透過[指令管線化](../Page/指令管線化.md "wikilink")來增加CPU運算的速度。
 
-1984年，[約翰·軒尼詩教授離開斯坦福大学](../Page/約翰·軒尼詩.md "wikilink")，創立[MIPS科技公司](https://zh.wikipedia.org/wiki/MIPS科技公司 "wikilink")。於1985年，設計出R2000晶片，1988年，將其改進為R3000晶片。
+1984年，[約翰·軒尼詩](../Page/約翰·軒尼詩.md "wikilink")教授離開斯坦福大学，創立[MIPS科技公司](https://zh.wikipedia.org/wiki/MIPS科技公司 "wikilink")。於1985年，設計出R2000晶片，1988年，將其改進為R3000晶片。
 
 ## MIPS操作数
 
@@ -50,7 +49,5 @@ MIPS操作数
 [Category:指令集架構](https://zh.wikipedia.org/wiki/Category:指令集架構 "wikilink")
 
 1.
-2.  [MIPS R3000 Instruction Set
-    Summary](http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html)
-3.  [MIPS Instruction
-    Reference](http://www.xs4all.nl/~vhouten/mipsel/r3000-isa.html)
+2.  [MIPS R3000 Instruction Set Summary](http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html)
+3.  [MIPS Instruction Reference](http://www.xs4all.nl/~vhouten/mipsel/r3000-isa.html)

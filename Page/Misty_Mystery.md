@@ -1,23 +1,14 @@
-《**Misty Mystery**》为[GARNET
-CROW第三十三张单曲](../Page/GARNET_CROW.md "wikilink")。2011年8月31日由[GIZA
-studio发售](../Page/GIZA_studio.md "wikilink")。
+《**Misty Mystery**》为[GARNET CROW第三十三张单曲](../Page/GARNET_CROW.md "wikilink")。2011年8月31日由[GIZA studio发售](../Page/GIZA_studio.md "wikilink")。
 
 ## 概要
 
 作词为[AZUKI七](../Page/AZUKI七.md "wikilink")，作曲为[中村由利](../Page/中村由利.md "wikilink")，編曲为[古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink")。
 
-此曲在《[Smiley
-Nation](https://zh.wikipedia.org/wiki/Smiley_Nation "wikilink")》之后仅仅两个月发售，和前作一样，以初回限定盘（CD＋DVD）、通常盘（CD）两种形态发售，封面和收录曲各不相同（在通常盘中收录了1首附加曲）。
+此曲在《[Smiley Nation](https://zh.wikipedia.org/wiki/Smiley_Nation "wikilink")》之后仅仅两个月发售，和前作一样，以初回限定盘（CD＋DVD）、通常盘（CD）两种形态发售，封面和收录曲各不相同（在通常盘中收录了1首附加曲）。
 
-初回限定盤只有《live》一首附属曲，DVD收录了《Misty Mystery》的PV。通常盤收录了2首附加曲，追加了1首《I can't
-take...》。
+初回限定盤只有《live》一首附属曲，DVD收录了《Misty Mystery》的PV。通常盤收录了2首附加曲，追加了1首《I can't take...》。
 
-《Misty
-Mystery》为动画《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南_\(动画\) "wikilink")》（魔术快斗
-动画）该年从8月6日开始播放的片头曲。此曲为《[As the
-Dew](../Page/THE_BEST_History_of_GARNET_CROW_at_the_crest....md "wikilink")》以后相隔1年半再次演唱，且是在《[Over
-Drive](https://zh.wikipedia.org/wiki/Over_Drive_\(GARNET_CROWの曲\) "wikilink")》之后相隔1年零4个月第11次演唱。此曲也是GARNET
-CROW最後一次的柯南主題曲。
+《Misty Mystery》为动画《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南_\(动画\) "wikilink")》（魔术快斗 动画）该年从8月6日开始播放的片头曲。此曲为《[As the Dew](../Page/THE_BEST_History_of_GARNET_CROW_at_the_crest....md "wikilink")》以后相隔1年半再次演唱，且是在《[Over Drive](https://zh.wikipedia.org/wiki/Over_Drive_\(GARNET_CROWの曲\) "wikilink")》之后相隔1年零4个月第11次演唱。此曲也是GARNET CROW最後一次的柯南主題曲。
 
 ## 收录曲
 
@@ -51,8 +42,7 @@ CROW最後一次的柯南主題曲。
 
 ## 相关项目
 
-  - [C'mon](../Page/C'mon.md "wikilink") -
-    [B'z专辑](../Page/B'z.md "wikilink")。收录曲《朝拜者》（ピルグリム）同时作为片尾曲播放。
+  - [C'mon](../Page/C'mon.md "wikilink") - [B'z](../Page/B'z.md "wikilink")专辑。收录曲《朝拜者》（ピルグリム）同时作为片尾曲播放。
 
 <table>
 <tbody>
@@ -68,8 +58,4 @@ CROW最後一次的柯南主題曲。
 </tbody>
 </table>
 
-[Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink")
-[Category:2011年单曲](https://zh.wikipedia.org/wiki/Category:2011年单曲 "wikilink")
-[Category:Garnet_Crow歌曲](https://zh.wikipedia.org/wiki/Category:Garnet_Crow歌曲 "wikilink")
-[Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
+[Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink") [Category:2011年单曲](https://zh.wikipedia.org/wiki/Category:2011年单曲 "wikilink") [Category:Garnet_Crow歌曲](https://zh.wikipedia.org/wiki/Category:Garnet_Crow歌曲 "wikilink") [Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")

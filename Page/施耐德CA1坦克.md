@@ -6,13 +6,11 @@
 
 當法國軍方決定要發展鐵絲網破壞車後，軍備局於1915年1月購買了兩輛不同型號的交予施耐德公司研發，施耐德公司是當時法國一家大型軍火生產商，接到法國軍方要求開發一種重型火炮的牽引車的指示後，就派出公司的總設計師為這一個項目進行研發。
 
-兩種牽引車分別為霍爾特15噸牽引車（Track-laying Holt Tractor）與嬰孩式霍爾特牽引車（Baby
-Holt）。前者比較大型，履帶在車後部推進，前方則以小車輪來控制車輛方向；後者較新型但也較為短小，且為全履帶，操控上比較簡便與靈活。\[1\]經評估決定以嬰孩式霍爾特牽引車作為車輛底盤。1916年6月16日公開展示給法國總統觀閱示範後，施耐德公司就再得到多10輛嬰孩式霍爾特牽引車的訂單。其後就根據最初的設計規範，於在霍爾特牽引車的底盤上裝置裝甲板車身以及一挺自衛機槍，最後在1915年12月9日製造出首批的10輛試驗車，並進行穿越鐵絲網的測試。\[2\]\[3\]
+兩種牽引車分別為霍爾特15噸牽引車（Track-laying Holt Tractor）與嬰孩式霍爾特牽引車（Baby Holt）。前者比較大型，履帶在車後部推進，前方則以小車輪來控制車輛方向；後者較新型但也較為短小，且為全履帶，操控上比較簡便與靈活。\[1\]經評估決定以嬰孩式霍爾特牽引車作為車輛底盤。1916年6月16日公開展示給法國總統觀閱示範後，施耐德公司就再得到多10輛嬰孩式霍爾特牽引車的訂單。其後就根據最初的設計規範，於在霍爾特牽引車的底盤上裝置裝甲板車身以及一挺自衛機槍，最後在1915年12月9日製造出首批的10輛試驗車，並進行穿越鐵絲網的測試。\[2\]\[3\]
 
 ### 埃斯蒂安的參與
 
-在1915年12月9日進行測試時，[貝當將軍及他的下屬](https://zh.wikipedia.org/wiki/貝當 "wikilink")上校亦在場。埃斯蒂安上校是當時法軍中非常優秀的砲兵專家及工程師，是法軍中少數有遠見有現代戰爭概念的職業軍人。埃斯蒂安上校對測試結果感到非常好，認為這一輛戰車的在惡劣地形下的運動性依然良好，只是因車身長度不足，並不能越過德軍的戰壕，所以他就想到要求施耐德公司在開發時加入他的想法。
-埃斯蒂安在1915年12月12日至參謀本部提出建立以裝備了這一款新型的戰車的裝甲部隊。在1916年1月31日，陸軍統帥霞飛將軍提出訂購400輛埃斯蒂安上校參與設計的新型坦克\[4\]，而正式的生產命令則於同年2月25日發出。\[5\]受到埃斯蒂安上校的影響，當時的設計已經大幅改變，其中車的底盤不再是用嬰孩式而改用75hp式，而且整體的外型亦與試驗車大大不同。最後，這一種每輛價值56,000[法郎的CA](../Page/法郎.md "wikilink")1，在1916年9月5日正式出廠。
+在1915年12月9日進行測試時，[貝當將軍及他的下屬](https://zh.wikipedia.org/wiki/貝當 "wikilink")上校亦在場。埃斯蒂安上校是當時法軍中非常優秀的砲兵專家及工程師，是法軍中少數有遠見有現代戰爭概念的職業軍人。埃斯蒂安上校對測試結果感到非常好，認為這一輛戰車的在惡劣地形下的運動性依然良好，只是因車身長度不足，並不能越過德軍的戰壕，所以他就想到要求施耐德公司在開發時加入他的想法。 埃斯蒂安在1915年12月12日至參謀本部提出建立以裝備了這一款新型的戰車的裝甲部隊。在1916年1月31日，陸軍統帥霞飛將軍提出訂購400輛埃斯蒂安上校參與設計的新型坦克\[4\]，而正式的生產命令則於同年2月25日發出。\[5\]受到埃斯蒂安上校的影響，當時的設計已經大幅改變，其中車的底盤不再是用嬰孩式而改用75hp式，而且整體的外型亦與試驗車大大不同。最後，這一種每輛價值56,000[法郎](../Page/法郎.md "wikilink")的CA1，在1916年9月5日正式出廠。
 
 ## 特徵
 
@@ -34,19 +32,15 @@ Holt）。前者比較大型，履帶在車後部推進，前方則以小車輪�
 
 ## 現存的戰車
 
-[Schneider-CA-1.Saumur.0004es9x.jpg](https://zh.wikipedia.org/wiki/File:Schneider-CA-1.Saumur.0004es9x.jpg "fig:Schneider-CA-1.Saumur.0004es9x.jpg")的\]\]
-現存唯一的CA1正存放在法國[索米尔的](../Page/索米尔.md "wikilink")，它亦是現存最古老而又可以運作的戰車。
+[Schneider-CA-1.Saumur.0004es9x.jpg](https://zh.wikipedia.org/wiki/File:Schneider-CA-1.Saumur.0004es9x.jpg "fig:Schneider-CA-1.Saumur.0004es9x.jpg")的\]\] 現存唯一的CA1正存放在法國[索米尔](../Page/索米尔.md "wikilink")的，它亦是現存最古老而又可以運作的戰車。
 
 ## 注釋
 
 ## 參考資料
 
-  - Pierre Touzin, *Les véhicules blindés français, 1900–1944*. EPA,
-    1979.
+  - Pierre Touzin, *Les véhicules blindés français, 1900–1944*. EPA, 1979.
   - Jean-Gabriel Jeudy, *Chars de France*, E.T.A.I., 1997.
-  - Alain Gougaud *L'Aube de la Gloire, Les Autos-Mitrailleuses et les
-    Chars Français pendant la Grande Guerre*, 1987, Musée des Blindés,
-    ISBN 2904255028
+  - Alain Gougaud *L'Aube de la Gloire, Les Autos-Mitrailleuses et les Chars Français pendant la Grande Guerre*, 1987, Musée des Blindés, ISBN 2904255028
 
 ## 相關條目
 
@@ -58,14 +52,10 @@ Holt）。前者比較大型，履帶在車後部推進，前方則以小車輪�
 
   - [索米爾裝甲博物館](http://www.museedesblindes.fr)
 
-[Category:法国一战坦克](https://zh.wikipedia.org/wiki/Category:法国一战坦克 "wikilink")
-[Category:一戰坦克](https://zh.wikipedia.org/wiki/Category:一戰坦克 "wikilink")
+[Category:法国一战坦克](https://zh.wikipedia.org/wiki/Category:法国一战坦克 "wikilink") [Category:一戰坦克](https://zh.wikipedia.org/wiki/Category:一戰坦克 "wikilink")
 
 1.  Gougaud, p.102-111
 2.  Gougaud, p.111
-3.  *Armoured fighting vehicles of the world* Duncan Crow 1970 p.68 "On
-    December 9, 1915, the Baby Holt, modified with a mock-up armoured
-    driving position ... was demonstrated on a crosscountry course at
-    Souain"
+3.  *Armoured fighting vehicles of the world* Duncan Crow 1970 p.68 "On December 9, 1915, the Baby Holt, modified with a mock-up armoured driving position ... was demonstrated on a crosscountry course at Souain"
 4.  Gougaud, p.119
 5.  Gougaud, p.124

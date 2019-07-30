@@ -3,9 +3,9 @@
 ## 簡介
 
   - 精選輯B'z The Best "Pleasure"發行後2個月所發行的單曲
-  - [Oricon連續](../Page/Oricon.md "wikilink")21張[單曲首週獲得第一](https://zh.wikipedia.org/wiki/單曲 "wikilink")，既單曲[Calling以來再次達成初動](../Page/Calling_\(B'z單曲\).md "wikilink")50萬張以上的紀錄
-  - 1998年7月20日於[Oricon初登場時](../Page/Oricon.md "wikilink")，與第二名的[彩虹樂團發行的單曲](https://zh.wikipedia.org/wiki/彩虹樂團 "wikilink")[HONEY相差僅](../Page/HONEY.md "wikilink")15000張
-  - MV於[香港拍攝](../Page/香港.md "wikilink")。
+  - [Oricon](../Page/Oricon.md "wikilink")連續21張[單曲首週獲得第一](https://zh.wikipedia.org/wiki/單曲 "wikilink")，既單曲[Calling以來再次達成初動](../Page/Calling_\(B'z單曲\).md "wikilink")50萬張以上的紀錄
+  - 1998年7月20日於[Oricon](../Page/Oricon.md "wikilink")初登場時，與第二名的[彩虹樂團發行的單曲](https://zh.wikipedia.org/wiki/彩虹樂團 "wikilink")[HONEY](../Page/HONEY.md "wikilink")相差僅15000張
+  - MV於[香港](../Page/香港.md "wikilink")拍攝。
   - 最終銷量約96.1萬張。
 
 ## 製作人員
@@ -42,9 +42,4 @@
 
   - [1998年的音樂](http://ja.wikipedia.org/wiki/1998%E5%B9%B4%E3%81%AE%E9%9F%B3%E6%A5%BD)
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink")
-[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
-[Category:1998年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:1998年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon單曲週榜冠軍作品 "wikilink")

@@ -1,31 +1,23 @@
-**NYC**，[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下的三人男性](../Page/傑尼斯事務所.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/偶像團體 "wikilink")。
+**NYC**，[日本](../Page/日本.md "wikilink")[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下的三人男性[偶像團體](https://zh.wikipedia.org/wiki/偶像團體 "wikilink")。
 
 ## 簡介
 
-2010年3月2日，以2009年夏天活動的團體「[NYC
-boys](../Page/NYC_boys.md "wikilink")」為中心，除去「[B.I.Shadow](https://zh.wikipedia.org/wiki/B.I.Shadow "wikilink")」之後，[山田涼介](../Page/山田涼介.md "wikilink")、[知念侑李和](../Page/知念侑李.md "wikilink")[中山優馬組成](../Page/中山優馬.md "wikilink")「**NYC**」正式出道。三人的「NYC」組成之後，NYC
-boys不會隨之消失，今後七人活動也會繼續，但NYC作為活動的中心。
+2010年3月2日，以2009年夏天活動的團體「[NYC boys](../Page/NYC_boys.md "wikilink")」為中心，除去「[B.I.Shadow](https://zh.wikipedia.org/wiki/B.I.Shadow "wikilink")」之後，[山田涼介](../Page/山田涼介.md "wikilink")、[知念侑李](../Page/知念侑李.md "wikilink")和[中山優馬](../Page/中山優馬.md "wikilink")組成「**NYC**」正式出道。三人的「NYC」組成之後，NYC boys不會隨之消失，今後七人活動也會繼續，但NYC作為活動的中心。
 
-團體成員的兩人——山田和知念原本已是[Hey\! Say\!
-JUMP的成員](../Page/Hey!_Say!_JUMP.md "wikilink")，因此兩人同時要進行兩個團體的活動，是[錦戶亮](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")（曾同時進行[NEWS和](../Page/NEWS.md "wikilink")[關西傑尼斯8的活動](../Page/關西傑尼斯8.md "wikilink")，現時已退出了[NEWS](../Page/NEWS.md "wikilink")）、[內博貴](../Page/內博貴.md "wikilink")（曾同時進行[NEWS和](../Page/NEWS.md "wikilink")[關西傑尼斯8的活動](../Page/關西傑尼斯8.md "wikilink")，現時皆已退出）及[手越祐也和](../Page/手越祐也.md "wikilink")[增田貴久](../Page/增田貴久.md "wikilink")（同時進行[NEWS和](../Page/NEWS.md "wikilink")[手越增田活動](../Page/手越增田.md "wikilink")）以來，再次有傑尼斯的藝人同時進行兩個正式團體的活動。
+團體成員的兩人——山田和知念原本已是[Hey\! Say\! JUMP的成員](../Page/Hey!_Say!_JUMP.md "wikilink")，因此兩人同時要進行兩個團體的活動，是[錦戶亮](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")（曾同時進行[NEWS](../Page/NEWS.md "wikilink")和[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的活動，現時已退出了[NEWS](../Page/NEWS.md "wikilink")）、[內博貴](../Page/內博貴.md "wikilink")（曾同時進行[NEWS](../Page/NEWS.md "wikilink")和[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的活動，現時皆已退出）及[手越祐也](../Page/手越祐也.md "wikilink")和[增田貴久](../Page/增田貴久.md "wikilink")（同時進行[NEWS](../Page/NEWS.md "wikilink")和[手越增田](../Page/手越增田.md "wikilink")活動）以來，再次有傑尼斯的藝人同時進行兩個正式團體的活動。
 
-2010年12月31日首次以「NYC」名義出場[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，但NHK官方將NYC標記為第2次出場，將「NYC
-boys」2009年出場的歷史包括在內。
+2010年12月31日首次以「NYC」名義出場[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，但NHK官方將NYC標記為第2次出場，將「NYC boys」2009年出場的歷史包括在內。
 
 ## 成員
 
-  - **N** [中山優馬](../Page/中山優馬.md "wikilink")（，1994年1月13日（23岁） 血型:A型
-    【代表色：藍】
-  - **Y** [山田涼介](../Page/山田涼介.md "wikilink")（，1993年5月9日（24岁） 血型:B型
-    【代表色：紅】　
-  - **C** [知念侑李](../Page/知念侑李.md "wikilink")（，1993年11月30日（24岁） 血型:AB型
-    【代表色：黃】
+  - **N** [中山優馬](../Page/中山優馬.md "wikilink")（，1994年1月13日（23岁） 血型:A型 【代表色：藍】
+  - **Y** [山田涼介](../Page/山田涼介.md "wikilink")（，1993年5月9日（24岁） 血型:B型 【代表色：紅】　
+  - **C** [知念侑李](../Page/知念侑李.md "wikilink")（，1993年11月30日（24岁） 血型:AB型 【代表色：黃】
 
 ## 名稱
 
-  - 團體名稱「NYC」由[傑尼斯事務所社長](../Page/傑尼斯事務所.md "wikilink")[Johnny喜多川親自命名](https://zh.wikipedia.org/wiki/Johnny喜多川 "wikilink")。
-  - 以山田涼介、知念侑李、中山優馬的姓氏首字母各取一字，也可指[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")（**N**ew
-    **Y**ork **C**ity）的簡稱。
+  - 團體名稱「NYC」由[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")社長[Johnny喜多川親自命名](https://zh.wikipedia.org/wiki/Johnny喜多川 "wikilink")。
+  - 以山田涼介、知念侑李、中山優馬的姓氏首字母各取一字，也可指[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")（**N**ew **Y**ork **C**ity）的簡稱。
 
 ## 作品
 
@@ -160,13 +152,10 @@ boys」2009年出場的歷史包括在內。
 ## 參見
 
   - [Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")
-  - [中山優馬
-    w/B.I.Shadow](https://zh.wikipedia.org/wiki/中山優馬_w/B.I.Shadow "wikilink")
+  - [中山優馬 w/B.I.Shadow](https://zh.wikipedia.org/wiki/中山優馬_w/B.I.Shadow "wikilink")
   - [NYC boys](../Page/NYC_boys.md "wikilink")
 
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:傑尼斯事務所限定團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所限定團體 "wikilink")
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:傑尼斯事務所限定團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所限定團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
 
 1.
 

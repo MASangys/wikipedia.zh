@@ -1,55 +1,34 @@
-**NaNa**（[諺文](../Page/諺文.md "wikilink")：，），本名**林珍兒**\[1\]（[諺文](../Page/諺文.md "wikilink")：），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[After
-School的第三期成員](../Page/After_School.md "wikilink")\[2\]，同時也是After
-School的子團[Orange
-Caramel和](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink")[After
-School
-Red的成員](https://zh.wikipedia.org/wiki/After_School_Red "wikilink")。
+**NaNa**（[諺文](../Page/諺文.md "wikilink")：，），本名**林珍兒**\[1\]（[諺文](../Page/諺文.md "wikilink")：），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[After School的第三期成員](../Page/After_School.md "wikilink")\[2\]，同時也是After School的子團[Orange Caramel和](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink")[After School Red的成員](https://zh.wikipedia.org/wiki/After_School_Red "wikilink")。
 
 ## 經歷
 
-Nana出道前曾去參加2009年亞洲超級模特兒大賽（參賽編號為26），後來加入以強勢風格的女子團體[After
-school成為藝人](https://zh.wikipedia.org/wiki/After_school "wikilink")，而Nana當時的造型是金色齊瀏海、煙燻妝與中性打扮，給人的初印象較為冷艷、神祕。此外Nana也是一位持有專業證照的化妝師，曾在MBC電視台《花束》節目上秀過證書，證明她是化妝師。\[3\]
+Nana出道前曾去參加2009年亞洲超級模特兒大賽（參賽編號為26），後來加入以強勢風格的女子團體[After school成為藝人](https://zh.wikipedia.org/wiki/After_school "wikilink")，而Nana當時的造型是金色齊瀏海、煙燻妝與中性打扮，給人的初印象較為冷艷、神祕。此外Nana也是一位持有專業證照的化妝師，曾在MBC電視台《花束》節目上秀過證書，證明她是化妝師。\[3\]
 
-2010年6月18日Nana與Raina、Lizzy組成子團橙子焦糖出道，憑借可愛風格的歌曲和舞台服裝，以及撒嬌的舞蹈，一公開演出便受到廣大喜愛。橙子焦糖與After
-School之間風格截然不同，對同時具備兩種身分的Nana必須作角色轉換，剛開始Nana無法適應，甚至在第一次舞台表演前，不敢穿著橙子焦糖的服裝出去，不過後來已習慣了，也感覺到橙子焦糖比預期受到歡迎。
-\[4\]
+2010年6月18日，Nana與Raina、Lizzy組成子團橙子焦糖出道，憑借可愛風格的歌曲和舞台服裝，以及撒嬌的舞蹈，一公開演出便受到廣大喜愛。橙子焦糖與After School之間風格截然不同，初始本人無法適應，甚至在第一次舞台表演前，不敢穿著橙子焦糖的服裝出去，後來漸漸習慣，也感覺到橙子焦糖比預期受到歡迎。\[4\]
 
-2011年進軍日本，有模特兒經驗的Nana經常獨自受邀參與日本大型時尚服裝秀走秀，\[5\]
-2012年[東京電視台更邀請Nana擔任日本時尚趨勢和走秀節目](../Page/東京電視台.md "wikilink")《Tokyo
-Brandnew Girls》的固定主持人之一。\[6\]
+2011年，進軍日本，有模特兒經驗的Nana經常獨自受邀參與日本大型時尚服裝秀走秀，\[5\]
 
-2013年Nana為了After School的第六張韓語單曲回歸勤練鋼管舞，練到雙腿留下多處瘀青，\[7\]又在宣傳期錄影完音樂節目《Show
-Champion》後，
-離開時不小心摔落舞台，導致骨盆受傷，最後經紀公司決定讓她暫停所有工作專心養傷。\[8\]2013年12月23日美國電影評論網站「TC
-Candler」公布每年評選世界百大美人排名，Nana奪下第二名。「TC
-Candler」評比更指出，從1999年以來就沒有人像她一樣首度入榜就登上如此高排名。\[9\]
+2012年，[東京電視台](../Page/東京電視台.md "wikilink")更邀請Nana擔任日本時尚趨勢和走秀節目《Tokyo Brandnew Girls》的固定主持人之一。\[6\]
 
-2014年Nana加盟SBS實境綜藝節目《[Roommate](../Page/Roommate.md "wikilink")》，讓她的人氣一路飆高。\[10\]Nana不僅在韓國國內參與《[Roommate](../Page/Roommate.md "wikilink")》的錄製，在上海東方衛視綜藝節目《女神的新衣》中也擔當重任。Nana因《女神的新衣》節目而被中國廣大觀眾熟悉並喜歡，她多變的可塑性，獲得湖南衛視的青睞力邀加盟電視劇《[相愛穿梭千年](https://zh.wikipedia.org/wiki/相愛穿梭千年 "wikilink")》，這也是Nana首次去中國拍戲。\[11\]2014年12月美國電影評論網站「TC
-Candler」公布每年評選世界百大美人排名，Nana拿下第一名。\[12\]
+2013年，Nana為了After School的第六張韓語單曲回歸勤練鋼管舞，練到雙腿留下多處瘀青，\[7\]又在宣傳期錄影完音樂節目《Show Champion》後， 離開時不小心摔落舞台，導致骨盆受傷，最後經紀公司決定讓她暫停所有工作專心養傷。\[8\]12月23日美國電影評論網站「TC Candler」公布每年評選世界百大美人排名，Nana奪下第二名。「TC Candler」評比更指出，從1999年以來就沒有人像她一樣首度入榜就登上如此高排名。\[9\]
 
-2015年Nana在中國市場從小螢幕躍上大銀幕，出演首部中國電影《[杜拉拉追婚記](../Page/杜拉拉追婚記.md "wikilink")》。\[13\]12月美國電影評論網站
-「TC Candler」發佈2015全球百大美女評選結果，Nana再度蟬聯第一，連續兩年奪得第一名。\[14\]
+2014年，Nana加盟SBS實境綜藝節目《[Roommate](../Page/Roommate.md "wikilink")》，讓她的人氣一路飆高。\[10\]Nana不僅在韓國國內參與《[Roommate](../Page/Roommate.md "wikilink")》的錄製，在上海東方衛視綜藝節目《女神的新衣》中也擔當重任。因《女神的新衣》節目而被中國廣大觀眾熟悉並喜歡，她多變的可塑性，獲得湖南衛視的青睞力邀加盟電視劇《[相愛穿梭千年](https://zh.wikipedia.org/wiki/相愛穿梭千年 "wikilink")》，這也是Nana首次去中國拍戲。\[11\]12月美國電影評論網站「TC Candler」公布每年評選世界百大美人排名，Nana拿下第一名。\[12\]
 
-2016年Nana參演韓國國內電視劇《[The Good
-Wife](../Page/法妻當自強.md "wikilink")》，劇裡飾演一位律師事務所的調查員金檀一角，播出後演技表現獲得好評。而展露演技的Nana，在2016年9月底便成功加盟韓國電影《[騙子](../Page/騙子_\(電影\).md "wikilink")》演出。\[15\]
-2016年11月Nana憑藉電視劇《[The Good
-Wife](../Page/法妻當自強.md "wikilink")》獲得第1屆[Asia Artist
-Awards女子新人演員賞](https://zh.wikipedia.org/wiki/Asia_Artist_Awards "wikilink")。\[16\]。此外，Nana更獲得外國媒體TC
-Candler選出2016年全球最美的100張面孔的第三位\[17\]。
+2015年，Nana在中國市場從小螢幕躍上大銀幕，出演首部中國電影《[杜拉拉追婚記](../Page/杜拉拉追婚記.md "wikilink")》。\[13\]12月美國電影評論網站 「TC Candler」發佈2015全球百大美女評選結果，Nana再度蟬聯第一，連續兩年奪得第一名。\[14\]
+
+2016年，Nana參演韓國國內電視劇《[The Good Wife](../Page/法妻當自強.md "wikilink")》，劇裡飾演一位律師事務所的調查員金丹一角，播出後演技表現獲得好評。而展露演技的Nana，在9月底成功加盟韓國電影《[騙子](../Page/騙子_\(電影\).md "wikilink")》演出。\[15\] 11月Nana憑藉電視劇《[The Good Wife](../Page/法妻當自強.md "wikilink")》獲得第1屆[Asia Artist Awards女子新人演員賞](https://zh.wikipedia.org/wiki/Asia_Artist_Awards "wikilink")。\[16\]。此外，Nana更獲得外國媒體TC Candler選出2016年全球最美的100張面孔的第三位\[17\]。
 
 2017年11月20日，Pledis娛樂宣佈已經和Nana續約，令她成為第一個和Pledis續約的藝人，聲明表示以後將全力支援Nana成為萬能藝人。\[18\]
 
-2018年8月Pledis娛樂宣佈已透過合法途徑跟《[四子](../Page/四子.md "wikilink")》的製作公司Victory
-Contents解除合約，並辭演 。\[19\]
+2018年8月，Pledis娛樂宣佈已透過合法途徑跟《[四子](../Page/四子.md "wikilink")》的製作公司Victory Contents解除合約，並辭演 。\[19\]
 
-2019年3月Nana出演OCN動作驚悚劇《[Kill
-It](../Page/Kill_It.md "wikilink")》的女主角。同年4月，確認出演KBS2的新水木劇《[Justice](https://zh.wikipedia.org/wiki/Justice "wikilink")》，這也是Nana第二部擔任女主角的劇。
+2019年3月，Nana出演OCN動作驚悚劇《[Kill It](../Page/Kill_It.md "wikilink")》的女主角。同年4月，確認出演KBS2的新水木劇《[Justice](https://zh.wikipedia.org/wiki/Justice "wikilink")》，這也是Nana第二部擔任女主角的劇。
 
 ## 影視作品
 
 ### 電影
 
-| 年份    | 電影名稱                                     | 角色        | 性質 |
+| 年份    | 片名                                       | 角色        | 備註 |
 | ----- | ---------------------------------------- | --------- | -- |
 | 2011年 | 《白色：詛咒的旋律》                               | Pure女團成員  | 客串 |
 | 2014年 | 《時尚王》                                    | 金海娜       |    |
@@ -58,15 +37,21 @@ It](../Page/Kill_It.md "wikilink")》的女主角。同年4月，確認出演KBS
 
 ### 電視劇
 
-| 年份    | 電視臺                                                   | 劇集名稱                                                          | 角色       | 備注  |
-| ----- | ----------------------------------------------------- | ------------------------------------------------------------- | -------- | --- |
-| 2015年 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | 《[相爱穿梭千年](../Page/相爱穿梭千年.md "wikilink")》                      | 趙娜娜      | 配角  |
-|       | 《訓練所的女人》                                              | 教官                                                            | 網絡劇      |     |
-| 2016年 | [tvN](../Page/TVN.md "wikilink")                      | 《[The Good Wife](../Page/法妻當自強.md "wikilink")》                | 金丹\[21\] | 配角  |
-| 2019年 | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")   | 《[Kill It](../Page/Kill_It.md "wikilink")》                    | 都賢真      | 女主角 |
-| 2019年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 《[Justice](https://zh.wikipedia.org/wiki/Justice "wikilink")》 | 徐妍兒      | 女主角 |
+| 年份                                                    | 電視台                                                                   | 劇名                                                                      | 角色       | 備註  |
+| ----------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------- | --- |
+| 2015年                                                 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")                 | [相爱穿梭千年](../Page/相爱穿梭千年.md "wikilink")                                  | 趙娜娜      | 配角  |
+| 2016年                                                 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                   | [The Good Wife](https://zh.wikipedia.org/wiki/The_Good_Wife "wikilink") | 金丹\[21\] | 配角  |
+| 2019年                                                 | [OCN](../Page/OCN_\(頻道\).md "wikilink")                               | [Kill It](../Page/Kill_It.md "wikilink")                                | 都賢真      | 女主角 |
+| [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [JUSTICE](https://zh.wikipedia.org/wiki/Justice_\(韓國電視劇\) "wikilink") | 徐妍雅                                                                     | 女主角      |     |
 
-### 音樂錄影帶
+### 網絡劇
+
+| 年份    | 頻台 | 劇名     | 角色 | 備註 |
+| ----- | -- | ------ | -- | -- |
+| 2015年 |    | 訓練所的女人 | 教官 |    |
+|       |    |        |    |    |
+
+### MV
 
   - 2010年：Honey Dew〈Like A Fool〉
   - 2010年：Eru〈白色眼淚〉
@@ -79,7 +64,7 @@ It](../Page/Kill_It.md "wikilink")》的女主角。同年4月，確認出演KBS
 | ----------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------- |
 | 2014年                                                 | SBS                                                   | 《[Roommate](../Page/Roommate.md "wikilink")》 |
 | [東方衛視](https://zh.wikipedia.org/wiki/東方衛視 "wikilink") | 《女神的新衣》                                               |                                              |
-| 2015年                                                 | [江蘇衛視](https://zh.wikipedia.org/wiki/江蘇衛視 "wikilink") | 《[星廚駕到第二季](../Page/星廚駕到.md "wikilink")》      |
+| 2015年                                                 | [江蘇衛視](https://zh.wikipedia.org/wiki/江蘇衛視 "wikilink") | 《[星廚駕到](../Page/星廚駕到.md "wikilink")第二季》      |
 | 2016年                                                 | MBC                                                   | 《[真正的男人](../Page/真正的男人.md "wikilink")》女軍特輯4  |
 
 ### 節目主持
@@ -170,9 +155,7 @@ It](../Page/Kill_It.md "wikilink")》的女主角。同年4月，確認出演KBS
 
     <div style="font-size:small">
 
-    所屬團體之共同作品，請參閱[After
-    School](../Page/After_School.md "wikilink")、[Orange
-    Caramel](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink")
+    所屬團體之共同作品，請參閱[After School](../Page/After_School.md "wikilink")、[Orange Caramel](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink")
 
     </div>
 
@@ -188,7 +171,7 @@ It](../Page/Kill_It.md "wikilink")》的女主角。同年4月，確認出演KBS
 
 | 發行日         | 歌手                                               | 歌曲名           | 備註                                                                                                                                                                     |
 | ----------- | ------------------------------------------------ | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2012年12月27日 | Dazzling Red                                     | 這個人           | 與[鄭龍珠](../Page/鄭龍珠.md "wikilink")、[全烋星](../Page/全烋星.md "wikilink")、[金孝靜](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")、[金泫雅組Dazzling](../Page/金泫雅.md "wikilink") Red合唱 |
+| 2012年12月27日 | Dazzling Red                                     | 這個人           | 與[鄭龍珠](../Page/鄭龍珠.md "wikilink")、[全烋星](../Page/全烋星.md "wikilink")、[金孝靜](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")、[金泫雅](../Page/金泫雅.md "wikilink")組Dazzling Red合唱 |
 | 2013年4月2日   | Electroboyz                                      | Ma Boy 3      |                                                                                                                                                                        |
 | 2013年5月2日   | [Hello Venus](../Page/Hello_Venus.md "wikilink") | Just A Moment | 旁白                                                                                                                                                                     |
 
@@ -312,17 +295,7 @@ It](../Page/Kill_It.md "wikilink")》的女主角。同年4月，確認出演KBS
   -
   -
 
-[Category:After_School](https://zh.wikipedia.org/wiki/Category:After_School "wikilink")
-[Category:Pledis娛樂](https://zh.wikipedia.org/wiki/Category:Pledis娛樂 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓國女性模特兒](https://zh.wikipedia.org/wiki/Category:韓國女性模特兒 "wikilink")
-[Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink")
-[Category:韓國電影演員](https://zh.wikipedia.org/wiki/Category:韓國電影演員 "wikilink")
-[Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink")
-[Category:忠清北道出身人物](https://zh.wikipedia.org/wiki/Category:忠清北道出身人物 "wikilink")
-[Category:清州市出身人物](https://zh.wikipedia.org/wiki/Category:清州市出身人物 "wikilink")
-[Category:林姓](https://zh.wikipedia.org/wiki/Category:林姓 "wikilink")
+[Category:After_School](https://zh.wikipedia.org/wiki/Category:After_School "wikilink") [Category:Pledis娛樂](https://zh.wikipedia.org/wiki/Category:Pledis娛樂 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓國女性模特兒](https://zh.wikipedia.org/wiki/Category:韓國女性模特兒 "wikilink") [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink") [Category:韓國電影演員](https://zh.wikipedia.org/wiki/Category:韓國電影演員 "wikilink") [Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink") [Category:忠清北道出身人物](https://zh.wikipedia.org/wiki/Category:忠清北道出身人物 "wikilink") [Category:清州市出身人物](https://zh.wikipedia.org/wiki/Category:清州市出身人物 "wikilink") [Category:林姓](https://zh.wikipedia.org/wiki/Category:林姓 "wikilink")
 
 1.
 2.
@@ -336,26 +309,15 @@ It](../Page/Kill_It.md "wikilink")》的女主角。同年4月，確認出演KBS
 10.
 11.
 12.
-13. [超有禮貌！韓國「世界第一美」拍新片獲好評](http://www.epochtimes.com/b5/15/11/28/n4583768.htm)大紀元
-    2015年11月28日
-14. [《時報周刊》Nana
-    Top顏值美人](http://www.chinatimes.com/newspapers/20160115004294-260603)中時電子報
-    2016年1月15日
-15. [Nana接拍電影《
-    [騙子](../Page/騙子_\(電影\).md "wikilink")》與玄彬劉智泰合作](http://www.allthatstar.com/tw/view.php?action=5205&postID=276916)
-    全星網 2016年9月23日
-16. [Nana
-    感謝所有人祝福](http://star.mt.co.kr/view/stview.php?no=2016111619594778357&outlink=2&SVEC)
-    StarNews 2016年11月16日
-17. [2016全球百大美女公開！NANA繼續三甲，子瑜晉身十強！](http://www.vlovekpop.com/20161228-2016/)
-    vlovekpop 2016年12月28日
+13. [超有禮貌！韓國「世界第一美」拍新片獲好評](http://www.epochtimes.com/b5/15/11/28/n4583768.htm)大紀元 2015年11月28日
+14. [《時報周刊》Nana Top顏值美人](http://www.chinatimes.com/newspapers/20160115004294-260603)中時電子報 2016年1月15日
+15. [Nana接拍電影《 [騙子](../Page/騙子_\(電影\).md "wikilink")》與玄彬劉智泰合作](http://www.allthatstar.com/tw/view.php?action=5205&postID=276916) 全星網 2016年9月23日
+16. [Nana 感謝所有人祝福](http://star.mt.co.kr/view/stview.php?no=2016111619594778357&outlink=2&SVEC) StarNews 2016年11月16日
+17. [2016全球百大美女公開！NANA繼續三甲，子瑜晉身十強！](http://www.vlovekpop.com/20161228-2016/) vlovekpop 2016年12月28日
 18.
-19. [1](http://www.koreastardaily.com/tc/news/108656) NANA辭演《四子》！
-    這部劇還會經歷幾波幾折？
+19. [1](http://www.koreastardaily.com/tc/news/108656) NANA辭演《四子》！ 這部劇還會經歷幾波幾折？
 20.
-21. [Nana加盟tvN新剧
-    饰演全度妍秘书](http://www.allthatstar.com/tw/view.php?action=1790&postID=230725)
-    全星網 2016年4月8日
+21. [Nana加盟tvN新剧 饰演全度妍秘书](http://www.allthatstar.com/tw/view.php?action=1790&postID=230725) 全星網 2016年4月8日
 22.
 23.
 24.

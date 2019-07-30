@@ -1,10 +1,8 @@
-《**Taste of
-Love**》為香港歌手[洪卓立發行的第四張唱片](../Page/洪卓立.md "wikilink")，亦為其所發行的第一張新曲+精選專輯。
+《**Taste of Love**》為香港歌手[洪卓立](../Page/洪卓立.md "wikilink")發行的第四張唱片，亦為其所發行的第一張新曲+精選專輯。
 
 ## 簡介
 
-《Taste of
-Love》為[洪卓立在肺積水病癒康復後發行的第一張唱片](../Page/洪卓立.md "wikilink")，亦為他入行後發行的第一張新曲+精選。本專輯收錄由洪卓立、詩雅等人主演電影的同名主題曲《很想和你在一起》，另外亦收錄了兩首新作品《你好嗎》及《好友》。
+《Taste of Love》為[洪卓立](../Page/洪卓立.md "wikilink")在肺積水病癒康復後發行的第一張唱片，亦為他入行後發行的第一張新曲+精選。本專輯收錄由洪卓立、詩雅等人主演電影的同名主題曲《很想和你在一起》，另外亦收錄了兩首新作品《你好嗎》及《好友》。
 
 ## 收錄歌曲
 
@@ -44,14 +42,8 @@ Love》為[洪卓立在肺積水病癒康復後發行的第一張唱片](../Page
 
 ## 參考資料
 
-  - [財經日報 洪卓立 Taste Of Love
-    新曲+精選](https://web.archive.org/web/20100429003559/http://www.businesstimes.com.hk/a-20100406-64691/Taste-Of-Love)
-  - [HMV 洪卓立 KEN HUNG - TASTE OF LOVE 新曲 + 精選
-    (+DVD)](http://www.hmv.com.hk/ch/product/canto.asp?sku=796360)
-  - [Taste Of Love
-    新曲+精選](http://www.i-tick.com/index.php?option=com_itickalbums&task=view_album_details&id=2255)
+  - [財經日報 洪卓立 Taste Of Love 新曲+精選](https://web.archive.org/web/20100429003559/http://www.businesstimes.com.hk/a-20100406-64691/Taste-Of-Love)
+  - [HMV 洪卓立 KEN HUNG - TASTE OF LOVE 新曲 + 精選 (+DVD)](http://www.hmv.com.hk/ch/product/canto.asp?sku=796360)
+  - [Taste Of Love 新曲+精選](http://www.i-tick.com/index.php?option=com_itickalbums&task=view_album_details&id=2255)
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:洪卓立音樂專輯](https://zh.wikipedia.org/wiki/Category:洪卓立音樂專輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:洪卓立音樂專輯](https://zh.wikipedia.org/wiki/Category:洪卓立音樂專輯 "wikilink")

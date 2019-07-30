@@ -1,5 +1,4 @@
-**Jslinux**是由程序员[法布里斯·贝拉于](../Page/法布里斯·贝拉.md "wikilink")2011年5月开始开发的一款能够在浏览器中运行的[x86模拟器](https://zh.wikipedia.org/wiki/x86 "wikilink")。该模拟器使用[JavaScript语言编写](../Page/JavaScript.md "wikilink")，用到了[W3C](https://zh.wikipedia.org/wiki/W3C "wikilink")
-Typed Arrays，提供了一个剪贴板位于/dev/clipboard处用于与宿主机交换数据。
+**Jslinux**是由程序员[法布里斯·贝拉](../Page/法布里斯·贝拉.md "wikilink")于2011年5月开始开发的一款能够在浏览器中运行的[x86模拟器](https://zh.wikipedia.org/wiki/x86 "wikilink")。该模拟器使用[JavaScript](../Page/JavaScript.md "wikilink")语言编写，用到了[W3C](https://zh.wikipedia.org/wiki/W3C "wikilink") Typed Arrays，提供了一个剪贴板位于/dev/clipboard处用于与宿主机交换数据。
 
 最新版本已于2011年8月20日发布，MIT授权。
 
@@ -13,11 +12,9 @@ Typed Arrays，提供了一个剪贴板位于/dev/clipboard处用于与宿主机
 
 ## 软件方面
 
-  - [Linux](../Page/Linux.md "wikilink")
-    [操作系统](../Page/操作系统.md "wikilink")[内核](../Page/内核.md "wikilink")2.6.20
-  - linuxstart
-    BIOS（[源码](https://web.archive.org/web/20111016104719/http://bellard.org/jslinux/linuxstart-20110820.tar.gz)）
-  - 一个使用[Buildroot生成的文件系统](../Page/Buildroot.md "wikilink")
+  - [Linux](../Page/Linux.md "wikilink") [操作系统](../Page/操作系统.md "wikilink")[内核](../Page/内核.md "wikilink")2.6.20
+  - linuxstart BIOS（[源码](https://web.archive.org/web/20111016104719/http://bellard.org/jslinux/linuxstart-20110820.tar.gz)）
+  - 一个使用[Buildroot](../Page/Buildroot.md "wikilink")生成的文件系统
   - 作者自己的C语言编译器[TinyCC](https://zh.wikipedia.org/wiki/TinyCC "wikilink")（[TCC](http://bellard.org/tcc)）
   - 作者自己的[QEmacs编辑器](http://bellard.org/qemacs)
 

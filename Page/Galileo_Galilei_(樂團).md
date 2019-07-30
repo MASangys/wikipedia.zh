@@ -1,31 +1,24 @@
-**Galileo
-Galilei**（）是[日本](../Page/日本.md "wikilink")[北海道出身的](../Page/北海道.md "wikilink")3人[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，成立於2007年。樂隊宣佈在2016年4月終止活動。樂團以"Bird
-Bear Hare and Fish"為名於2018年1月繼續活動。
+**Galileo Galilei**（）是[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")出身的3人[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，成立於2007年。樂隊宣佈在2016年4月終止活動。樂團以"Bird Bear Hare and Fish"為名於2018年1月繼續活動。
 
 ## 樂隊由來
 
-在中學3年級時，尾崎雄貴在家中大掃除時在衣櫃中發現一支[電吉他](https://zh.wikipedia.org/wiki/電吉他 "wikilink")，其弟尾崎和樹也以空氣吉他一同扮演成樂隊。雄貴認真學習吉他並開始打算組成樂隊，把童年玩伴佐孝仁司叫來參與。見到雄貴從未試過地開心，佐孝也爽快地加入，以壓歲錢買下約4萬日元的新手用初心者用的吉他套裝。在當時還未得知貝斯這樂器，只是模仿ASIAN
-KUNG-FU GENERATION的雙吉他。
+在中學3年級時，尾崎雄貴在家中大掃除時在衣櫃中發現一支[電吉他](https://zh.wikipedia.org/wiki/電吉他 "wikilink")，其弟尾崎和樹也以空氣吉他一同扮演成樂隊。雄貴認真學習吉他並開始打算組成樂隊，把童年玩伴佐孝仁司叫來參與。見到雄貴從未試過地開心，佐孝也爽快地加入，以壓歲錢買下約4萬日元的新手用初心者用的吉他套裝。在當時還未得知貝斯這樂器，只是模仿ASIAN KUNG-FU GENERATION的雙吉他。
 
 其後在閱讀音樂雜志後，得知貝斯的存在，雄貴就跟拜托佐孝「買一支貝斯」。佐孝連貝斯是甚麼也沒考慮就接受提案買下貝斯。其後，和樹在學校老師的兒子手上接收了一組鼓，雄貴就稍稍地以對著教科書來練習鼓。
 
-Galileo
-Galilei以另類搖滾的樂風為樂團特徵，從第二張專輯「PORTAL」開始初試日本國外的獨立搖滾樂風，開始多方嘗試、轉變和以往不同的樂路。
+Galileo Galilei以另類搖滾的樂風為樂團特徵，從第二張專輯「PORTAL」開始初試日本國外的獨立搖滾樂風，開始多方嘗試、轉變和以往不同的樂路。
 
 ## 經歷
 
 2010年，Galileo Galilei以迷你專輯「玫瑰的花朵」（）在樂壇主流出道。\[1\]
 
-2011年，由[日本索尼音樂娛樂製作](../Page/日本索尼音樂娛樂.md "wikilink")，[三木孝浩執導的短篇電影](https://zh.wikipedia.org/wiki/三木孝浩 "wikilink")[管制塔以Galileo](https://zh.wikipedia.org/wiki/管制塔_\(電影\) "wikilink")
-Galilei於2009年發行的專輯《》中「管制塔」一曲為主題，並邀請Galileo Galilei再次錄製該歌曲的版本作為主題曲\[2\]。
+2011年，由[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")製作，[三木孝浩執導的短篇電影](https://zh.wikipedia.org/wiki/三木孝浩 "wikilink")[管制塔以Galileo](https://zh.wikipedia.org/wiki/管制塔_\(電影\) "wikilink") Galilei於2009年發行的專輯《》中「管制塔」一曲為主題，並邀請Galileo Galilei再次錄製該歌曲的版本作為主題曲\[2\]。
 
-2011年2月發行第一張專輯「Parade」（パレード）。2012年1月發行受電子樂濃厚影響的第二張專輯「PORTAL」，同年10月發行的第二張迷你專輯「Baby,
-It's Cold Outside」，使用了吉他合成效果器，帶來比以往更加洗練的吉他音。
+2011年2月發行第一張專輯「Parade」（パレード）。2012年1月發行受電子樂濃厚影響的第二張專輯「PORTAL」，同年10月發行的第二張迷你專輯「Baby, It's Cold Outside」，使用了吉他合成效果器，帶來比以往更加洗練的吉他音。
 
 2013年10月發行的第三張專輯「ALARMS」，請到POP ETC的Christopher Chu擔任專輯製作。\[3\]
 
-2016年1月，樂隊宣布在3月和4月舉行的全國巡迴演唱會「Galileo Galilei "Sea and The Darkness" Tour
-2016」終止活動。同年1月27日發表的《Sea and The Darkness》成為其最後一張音樂作品\[4\]。
+2016年1月，樂隊宣布在3月和4月舉行的全國巡迴演唱會「Galileo Galilei "Sea and The Darkness" Tour 2016」終止活動。同年1月27日發表的《Sea and The Darkness》成為其最後一張音樂作品\[4\]。
 
 ## 成員
 
@@ -255,11 +248,7 @@ SECL-1032（期間限定）</p></td>
   -
   -
   -
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
-[Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
-[Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink")
-[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
-[Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
+[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink") [Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink") [Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
 
 1.
 2.

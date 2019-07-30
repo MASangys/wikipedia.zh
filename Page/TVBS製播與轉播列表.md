@@ -1,4 +1,4 @@
-本條目只列出，台灣[TVBS內部](https://zh.wikipedia.org/wiki/TVBS "wikilink")「**製播**」活動，與[TVBS](../Page/TVBS_\(頻道\).md "wikilink")、[TVBS新聞台](../Page/TVBS新聞台.md "wikilink")、[TVBS歡樂台單純](../Page/TVBS歡樂台.md "wikilink")「**轉播**」活動。
+本條目只列出，台灣[TVBS內部](https://zh.wikipedia.org/wiki/TVBS "wikilink")「**製播**」活動，與[TVBS](../Page/TVBS_\(頻道\).md "wikilink")、[TVBS新聞台](../Page/TVBS新聞台.md "wikilink")、[TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")單純「**轉播**」活動。
 
 ## 台慶晚會
 
@@ -228,19 +228,16 @@ TVBS台慶演唱會</p></td>
 
   - 2001年9月：[國父紀念館大會堂](https://zh.wikipedia.org/wiki/國父紀念館 "wikilink")，製播《[聯合報五十週年社慶](https://zh.wikipedia.org/wiki/聯合報 "wikilink")》。
   - 2004年10月3日：與[台北市政府](https://zh.wikipedia.org/wiki/台北市政府 "wikilink")，在[松山菸廠舉辦](https://zh.wikipedia.org/wiki/松山菸廠 "wikilink")《[月光.音樂.河](https://zh.wikipedia.org/wiki/月光.音樂.河 "wikilink")》活動。
-  - 2005年8月16日：TVBS主辦、[g-music及](https://zh.wikipedia.org/wiki/g-music "wikilink")[Wave
-    Radio協辦](../Page/中廣音樂網.md "wikilink")《2005華語金曲榜》夏日限定PARTY，[Mos
-    Taipei舉行](https://zh.wikipedia.org/wiki/Mos_Taipei "wikilink")，[TVBS-G於](../Page/TVBS歡樂台.md "wikilink")8月20日晚間10點至12點完整播出。
-  - 2006年2月26日：TVBS主辦、[g-music及Wave](https://zh.wikipedia.org/wiki/g-music "wikilink")
-    Radio協辦《華眾曲寵－2006TVBS華語金曲榜》頒獎典禮，[台大體育館舉行](https://zh.wikipedia.org/wiki/台大體育館 "wikilink")，[TVBS-G於](https://zh.wikipedia.org/wiki/TVBS-G "wikilink")3月4日、3月5日，下午兩點到四點播出上下兩集。
-  - 2008年10月10日：[TVBS歡樂台製播](../Page/TVBS歡樂台.md "wikilink")[花蓮](../Page/花蓮縣.md "wikilink")《[雙十國慶晚會](https://zh.wikipedia.org/wiki/雙十國慶晚會 "wikilink")》。
-  - 2013年5月25日：[TVBS歡樂台製播](../Page/TVBS歡樂台.md "wikilink")2013中壢搖滾音樂祭演唱會（和[TVBS-Asia聯播](../Page/TVBS-Asia.md "wikilink")）。
+  - 2005年8月16日：TVBS主辦、[g-music及](https://zh.wikipedia.org/wiki/g-music "wikilink")[Wave Radio協辦](../Page/中廣音樂網.md "wikilink")《2005華語金曲榜》夏日限定PARTY，[Mos Taipei舉行](https://zh.wikipedia.org/wiki/Mos_Taipei "wikilink")，[TVBS-G於](../Page/TVBS歡樂台.md "wikilink")8月20日晚間10點至12點完整播出。
+  - 2006年2月26日：TVBS主辦、[g-music及Wave](https://zh.wikipedia.org/wiki/g-music "wikilink") Radio協辦《華眾曲寵－2006TVBS華語金曲榜》頒獎典禮，[台大體育館舉行](https://zh.wikipedia.org/wiki/台大體育館 "wikilink")，[TVBS-G於](https://zh.wikipedia.org/wiki/TVBS-G "wikilink")3月4日、3月5日，下午兩點到四點播出上下兩集。
+  - 2008年10月10日：[TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")製播[花蓮](../Page/花蓮縣.md "wikilink")《[雙十國慶晚會](https://zh.wikipedia.org/wiki/雙十國慶晚會 "wikilink")》。
+  - 2013年5月25日：[TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")製播2013中壢搖滾音樂祭演唱會（和[TVBS-Asia](../Page/TVBS-Asia.md "wikilink")聯播）。
 
 ## 同TVB轉播
 
   - 2005年1月7日：[TVBS-G晚上](https://zh.wikipedia.org/wiki/TVBS-G "wikilink")7點到11點45分，轉播[TVB製作](https://zh.wikipedia.org/wiki/TVB "wikilink")《[愛心無國界演藝界大匯演](../Page/愛心無國界演藝界大匯演.md "wikilink")》。
   - 2009年4月19日：[TVBS-G獨家轉播](https://zh.wikipedia.org/wiki/TVBS-G "wikilink")《[2009年香港電影金像獎](https://zh.wikipedia.org/wiki/2009年香港電影金像獎 "wikilink")》。
-  - 2009年8月17日：[TVBS歡樂台同步直播](../Page/TVBS歡樂台.md "wikilink")，[香港](../Page/香港.md "wikilink")「[8.8水災關愛行動](../Page/8.8水災關愛行動.md "wikilink")」。
+  - 2009年8月17日：[TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")同步直播，[香港](../Page/香港.md "wikilink")「[8.8水災關愛行動](../Page/8.8水災關愛行動.md "wikilink")」。
 
 ## 體育活動
 
@@ -254,22 +251,20 @@ TVBS台慶演唱會</p></td>
   - 2006年3月3日：轉播《[2006年世界棒球經典賽](../Page/2006年世界棒球經典賽.md "wikilink")》。
   - 2006年11月29日：轉播《[杜哈亞運](https://zh.wikipedia.org/wiki/杜哈亞運 "wikilink")》以[中華台北代表團賽程為主](https://zh.wikipedia.org/wiki/中華台北 "wikilink")。
   - 2007年11月6日：轉播《[2007年世界盃棒球賽](https://zh.wikipedia.org/wiki/2007年世界盃棒球賽 "wikilink")》。
-  - 2009年7月16日：[TVBS與](../Page/TVBS_\(頻道\).md "wikilink")[TVBS歡樂台轉播](../Page/TVBS歡樂台.md "wikilink")[高雄世運開幕式](https://zh.wikipedia.org/wiki/高雄世運 "wikilink")。
-  - 2009年7月26日：[TVBS歡樂台轉播](../Page/TVBS歡樂台.md "wikilink")[高雄世運閉幕式](https://zh.wikipedia.org/wiki/高雄世運 "wikilink")。
+  - 2009年7月16日：[TVBS與](../Page/TVBS_\(頻道\).md "wikilink")[TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")轉播[高雄世運開幕式](https://zh.wikipedia.org/wiki/高雄世運 "wikilink")。
+  - 2009年7月26日：[TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")轉播[高雄世運閉幕式](https://zh.wikipedia.org/wiki/高雄世運 "wikilink")。
   - 2014年6月27日：[TVBS臨時轉播](../Page/TVBS_\(頻道\).md "wikilink")[2014年世界盃足球賽](https://zh.wikipedia.org/wiki/2014年世界盃足球賽 "wikilink")。
   - 2014年6月29日：[TVBS轉播](../Page/TVBS_\(頻道\).md "wikilink")[2014年世界盃足球賽後](https://zh.wikipedia.org/wiki/2014年世界盃足球賽 "wikilink")16強淘汰賽。
   - 2014年12月4日\~2015年3月8日：[TVBS轉播](../Page/TVBS_\(頻道\).md "wikilink")103學年度[大專校院籃球運動聯賽](../Page/大專校院籃球運動聯賽.md "wikilink")。
 
 ## 政治活動
 
-  - 2006年11月11日：TVBS獨家製播《[TVBS北市長大辯論](https://zh.wikipedia.org/wiki/TVBS北市長大辯論 "wikilink")》，邀請第四屆[臺北市市長參選人](../Page/臺北市市長.md "wikilink")﹝[柯賜海除外](../Page/柯賜海.md "wikilink")﹞。
-  - 2014年11月28日：TVBS獨家轉播《台北勝 台灣贏 [連勝文選前之夜](../Page/連勝文.md "wikilink")》。
-  - 2016年1月15日：TVBS轉播《ONE TAIWAN 團結之夜 [朱立倫](../Page/朱立倫.md "wikilink")
-    [王如玄](https://zh.wikipedia.org/wiki/王如玄 "wikilink") 選前之夜》。
+  - 2006年11月11日：TVBS獨家製播《[TVBS北市長大辯論](https://zh.wikipedia.org/wiki/TVBS北市長大辯論 "wikilink")》，邀請第四屆[臺北市市長](../Page/臺北市市長.md "wikilink")參選人﹝[柯賜海](../Page/柯賜海.md "wikilink")除外﹞。
+  - 2014年11月28日：TVBS獨家轉播《台北勝 台灣贏 [連勝文](../Page/連勝文.md "wikilink")選前之夜》。
+  - 2016年1月15日：TVBS轉播《ONE TAIWAN 團結之夜 [朱立倫](../Page/朱立倫.md "wikilink") [王如玄](https://zh.wikipedia.org/wiki/王如玄 "wikilink") 選前之夜》。
 
 ## 委託辦理
 
-  - 2007年5月19日：[國立政治大學校友會出資](../Page/國立政治大學.md "wikilink")，製播《[風起雲揚八十年](https://zh.wikipedia.org/wiki/風起雲揚八十年 "wikilink")》為政大80週年校慶慶生。
+  - 2007年5月19日：[國立政治大學](../Page/國立政治大學.md "wikilink")校友會出資，製播《[風起雲揚八十年](https://zh.wikipedia.org/wiki/風起雲揚八十年 "wikilink")》為政大80週年校慶慶生。
 
-[Category:TVBS](https://zh.wikipedia.org/wiki/Category:TVBS "wikilink")
-[Category:台灣電視節目列表](https://zh.wikipedia.org/wiki/Category:台灣電視節目列表 "wikilink")
+[Category:TVBS](https://zh.wikipedia.org/wiki/Category:TVBS "wikilink") [Category:台灣電視節目列表](https://zh.wikipedia.org/wiki/Category:台灣電視節目列表 "wikilink")

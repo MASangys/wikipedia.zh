@@ -1,5 +1,4 @@
-《**THAT
-MOMENT小巨蛋現場全紀實**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[蘇打綠的第二张现场专辑](../Page/蘇打綠.md "wikilink")，2008年8月7日發行。
+《**THAT MOMENT小巨蛋現場全紀實**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[蘇打綠](../Page/蘇打綠.md "wikilink")的第二张现场专辑，2008年8月7日發行。
 
 本張專輯收錄了2007年11月3日蘇打綠在[台北小巨蛋舉辦的大型演唱會的現場錄影及演唱會前的彩排花絮](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")，共四片DVD；另附一本彩色現場攝影書，為蘇打誌4。
 
@@ -19,18 +18,11 @@ MOMENT小巨蛋現場全紀實**》是[台灣](https://zh.wikipedia.org/wiki/台
 
 ## 外部連結
 
-  - [【DVDs are coming】
-    官方完整版](https://www.youtube.com/watch?v=tySDK3921FI)（Youtube）
-  - [【這天】Green A Week
-    官方完整版](https://www.youtube.com/watch?v=uS1lidajNr0)（Youtube）
-  - [【頻率】小巨蛋演唱會
-    官方完整版](https://www.youtube.com/watch?v=OCdbpCKBx70)（Youtube）
-  - [【遊樂】小巨蛋DVD
-    官方搶看版](https://www.youtube.com/watch?v=mond5SNMAbE)（Youtube）
+  - [【DVDs are coming】 官方完整版](https://www.youtube.com/watch?v=tySDK3921FI)（Youtube）
+  - [【這天】Green A Week 官方完整版](https://www.youtube.com/watch?v=uS1lidajNr0)（Youtube）
+  - [【頻率】小巨蛋演唱會 官方完整版](https://www.youtube.com/watch?v=OCdbpCKBx70)（Youtube）
+  - [【遊樂】小巨蛋DVD 官方搶看版](https://www.youtube.com/watch?v=mond5SNMAbE)（Youtube）
 
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:蘇打綠音樂專輯](https://zh.wikipedia.org/wiki/Category:蘇打綠音樂專輯 "wikilink")
+[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:蘇打綠音樂專輯](https://zh.wikipedia.org/wiki/Category:蘇打綠音樂專輯 "wikilink")
 
 1.

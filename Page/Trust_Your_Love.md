@@ -1,5 +1,4 @@
-「**Trust Your
-Love**」為2001年5月3日發行之[日本歌手](../Page/日本.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")2nd[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+「**Trust Your Love**」為2001年5月3日發行之[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")2nd[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
@@ -39,5 +38,4 @@ Love**」為2001年5月3日發行之[日本歌手](../Page/日本.md "wikilink")
 5.  **Trust Your Love ThunderDUB**
 6.  **Trust Your Love Blackwatch Remix**
 
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
-[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")
+[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink") [Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")

@@ -1,6 +1,4 @@
-『**CHU music×BRA drama**』（チュー ミュージック ブラ
-ドラマ）是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[青春CUP](../Page/青春CUP.md "wikilink")』裡[BGM和廣播劇CD的](https://zh.wikipedia.org/wiki/BGM "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")。於2010年4月21日由[King
-Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
+『**CHU music×BRA drama**』（チュー ミュージック ブラ ドラマ）是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[青春CUP](../Page/青春CUP.md "wikilink")』裡[BGM和廣播劇CD的](https://zh.wikipedia.org/wiki/BGM "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")。於2010年4月21日由[King Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 概要
 
@@ -14,12 +12,10 @@ Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 <!-- end list -->
 
-1.  **[Choose
-    Bright\!\!](../Page/Choose_Bright!!.md "wikilink")**（TV-Size）
+1.  **[Choose Bright\!\!](../Page/Choose_Bright!!.md "wikilink")**（TV-Size）
       -
         歌：葉山奈由（[茅原實里](../Page/茅原實里.md "wikilink")）・神宮寺彌子（[寿美菜子](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")）・白石遙（[矢作紗友里](../Page/矢作紗友里.md "wikilink")）・天原清乃（[日笠陽子](../Page/日笠陽子.md "wikilink")）
-        作詞：[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink") /
-        作曲・編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")
+        作詞：[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink") / 作曲・編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")
 2.  CHU-BRA\!\!
 3.  活動開始！
 4.  飽くなき探求心
@@ -47,8 +43,7 @@ Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 26. **[Shy Girls](../Page/Shy_Girls.md "wikilink")**（TV-Size）
       -
         歌：葉山奈由（茅原實里）・神宮寺彌子（寿美菜子）・白石遙（矢作紗友里）・天原清乃（日笠陽子）
-        作詞：[蒼井琉々](https://zh.wikipedia.org/wiki/蒼井琉々 "wikilink") /
-        作曲・編曲：[宮崎誠](https://zh.wikipedia.org/wiki/宮崎誠 "wikilink")
+        作詞：[蒼井琉々](https://zh.wikipedia.org/wiki/蒼井琉々 "wikilink") / 作曲・編曲：[宮崎誠](https://zh.wikipedia.org/wiki/宮崎誠 "wikilink")
 
 <!-- end list -->
 
@@ -61,10 +56,6 @@ Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 外部連結
 
-  - [電視動畫公式HP /
-    RELEASE](http://www.starchild.co.jp/special/chuubra/release.html)
+  - [電視動畫公式HP / RELEASE](http://www.starchild.co.jp/special/chuubra/release.html)
 
-[Category:2010年原聲帶](https://zh.wikipedia.org/wiki/Category:2010年原聲帶 "wikilink")
-[Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:King_Records原聲帶](https://zh.wikipedia.org/wiki/Category:King_Records原聲帶 "wikilink")
+[Category:2010年原聲帶](https://zh.wikipedia.org/wiki/Category:2010年原聲帶 "wikilink") [Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:King_Records原聲帶](https://zh.wikipedia.org/wiki/Category:King_Records原聲帶 "wikilink")

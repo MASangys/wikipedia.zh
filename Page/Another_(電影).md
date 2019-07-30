@@ -1,8 +1,8 @@
-《**Another**》，為改編自[綾辻行人原作](../Page/綾辻行人.md "wikilink")[同名推理小説的](../Page/Another.md "wikilink")[日本電影](https://zh.wikipedia.org/wiki/日本電影 "wikilink")，由[角川電影製作](https://zh.wikipedia.org/wiki/角川電影 "wikilink")，[古澤健執導](https://zh.wikipedia.org/wiki/古澤健 "wikilink")，[山崎賢人和](../Page/山崎賢人.md "wikilink")[橋本愛主演](../Page/橋本愛.md "wikilink")。2012年8月4日於日本上映。
+《**Another**》，為改編自[綾辻行人](../Page/綾辻行人.md "wikilink")原作[同名推理小説的](../Page/Another.md "wikilink")[日本電影](https://zh.wikipedia.org/wiki/日本電影 "wikilink")，由[角川電影製作](https://zh.wikipedia.org/wiki/角川電影 "wikilink")，[古澤健執導](https://zh.wikipedia.org/wiki/古澤健 "wikilink")，[山崎賢人](../Page/山崎賢人.md "wikilink")和[橋本愛](../Page/橋本愛.md "wikilink")主演。2012年8月4日於日本上映。
 
 ## 概要
 
-本作當初預定於[茨城縣展開拍攝](../Page/茨城縣.md "wikilink")，惟受到[東日本大震災影響而決定改於](../Page/東日本大震災.md "wikilink")[三重縣的](https://zh.wikipedia.org/wiki/三重縣 "wikilink")[伊賀地區開始](../Page/伊賀市.md "wikilink")。在當地的地方定向人員協助下，本作於2011年4月16日至5月12日順利在以下地方拍攝：\[1\]
+本作當初預定於[茨城縣](../Page/茨城縣.md "wikilink")展開拍攝，惟受到[東日本大震災](../Page/東日本大震災.md "wikilink")影響而決定改於[三重縣的](https://zh.wikipedia.org/wiki/三重縣 "wikilink")[伊賀地區開始](../Page/伊賀市.md "wikilink")。在當地的地方定向人員協助下，本作於2011年4月16日至5月12日順利在以下地方拍攝：\[1\]
 
   - 舊三重縣立上野農業高級中學
   - 舊三重縣立上野商業高級中學
@@ -44,12 +44,11 @@
 <!-- end list -->
 
   -
-    主唱：加藤Miliyah（[Sony Music
-    Records](../Page/Sony_Music_Records.md "wikilink")）
+    主唱：加藤Miliyah（[Sony Music Records](../Page/Sony_Music_Records.md "wikilink")）
 
 ## 製作人員
 
-  - 原作：[綾辻行人](../Page/綾辻行人.md "wikilink")「[Another](../Page/Another.md "wikilink")」（[角川書店刊載](../Page/角川書店.md "wikilink")）
+  - 原作：[綾辻行人](../Page/綾辻行人.md "wikilink")「[Another](../Page/Another.md "wikilink")」（[角川書店](../Page/角川書店.md "wikilink")刊載）
   - 企劃：椎名保、角川電影
   - 導演：古澤健
   - 副導演：菊池健雄
@@ -76,11 +75,6 @@
 
 [ja:Another\#映画](https://zh.wikipedia.org/wiki/ja:Another#映画 "wikilink")
 
-[Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink")
-[Category:學校背景電影](https://zh.wikipedia.org/wiki/Category:學校背景電影 "wikilink")
-[Category:懸疑片](https://zh.wikipedia.org/wiki/Category:懸疑片 "wikilink")
-[Category:懸疑小說改編電影](https://zh.wikipedia.org/wiki/Category:懸疑小說改編電影 "wikilink")
-[Category:學校怪談題材作品](https://zh.wikipedia.org/wiki/Category:學校怪談題材作品 "wikilink")
-[Category:中學背景作品](https://zh.wikipedia.org/wiki/Category:中學背景作品 "wikilink")
+[Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink") [Category:學校背景電影](https://zh.wikipedia.org/wiki/Category:學校背景電影 "wikilink") [Category:懸疑片](https://zh.wikipedia.org/wiki/Category:懸疑片 "wikilink") [Category:懸疑小說改編電影](https://zh.wikipedia.org/wiki/Category:懸疑小說改編電影 "wikilink") [Category:學校怪談題材作品](https://zh.wikipedia.org/wiki/Category:學校怪談題材作品 "wikilink") [Category:中學背景作品](https://zh.wikipedia.org/wiki/Category:中學背景作品 "wikilink")
 
 1.  日本電影刊物《河北》（2011），第21頁

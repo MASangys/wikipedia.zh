@@ -103,7 +103,7 @@
 <tr class="odd">
 <td style="text-align: left;"><p><strong>2011</strong></p></td>
 <td style="text-align: left;"><ul>
-<li>第44屆<a href="https://zh.wikipedia.org/wiki/日本有線大賞" title="wikilink">日本有線大賞</a> - 新人獎[2]（與<a href="../Page/Fairies.md" title="wikilink">Fairies共同獲獎</a>）</li>
+<li>第44屆<a href="https://zh.wikipedia.org/wiki/日本有線大賞" title="wikilink">日本有線大賞</a> - 新人獎[2]（與<a href="../Page/Fairies.md" title="wikilink">Fairies</a>共同獲獎）</li>
 </ul></td>
 </tr>
 </tbody>
@@ -113,11 +113,9 @@
 
   - [天才子役・芦田愛菜が歌手デビュー\!](https://web.archive.org/web/20110407084658/http://www.sanspo.com/geino/news/110404/gnj1104040504018-n1.htm)
   - [芦田愛菜＆鈴木福＆ムック（犬）のユニット「薫と友樹、たまにムック。」の歌う「マル・マル・モリ・モリ\!」に主題歌決定\!](https://web.archive.org/web/20110522061640/http://www.fujitv.co.jp/fujitv/news/pub_2011/110405-061.html)
-  - [2011年7月度有料音楽配信認定
-    着うた(R)](http://www.riaj.or.jp/data/others/chart/w110820.html)
+  - [2011年7月度有料音楽配信認定 着うた(R)](http://www.riaj.or.jp/data/others/chart/w110820.html)
 
 [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
 
 1.
-2.  [第44回日本有線大賞 HISTORY
-    日本有線大賞](http://ranking.cansystem.info/grandprix/?md=h&ts=44)
+2.  [第44回日本有線大賞 HISTORY 日本有線大賞](http://ranking.cansystem.info/grandprix/?md=h&ts=44)

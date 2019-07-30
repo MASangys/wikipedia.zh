@@ -1,7 +1,4 @@
-《**MAKE
-UP**》是[日本的女歌手](../Page/日本.md "wikilink")[西野加奈的第](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")4張單曲，在2009年1月28日由[SME
-Records
-Inc.發售](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
+《**MAKE UP**》是[日本](../Page/日本.md "wikilink")的女歌手[西野加奈的第](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")4張單曲，在2009年1月28日由[SME Records Inc.發售](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
 
 ## 概要
 
@@ -22,5 +19,4 @@ Inc.發售](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
 4.  **MAKE**
     （作詞：Kana Nishino / 作曲・編曲：Kazuhiko.M）
 
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:西野加奈歌曲](https://zh.wikipedia.org/wiki/Category:西野加奈歌曲 "wikilink")
+[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:西野加奈歌曲](https://zh.wikipedia.org/wiki/Category:西野加奈歌曲 "wikilink")

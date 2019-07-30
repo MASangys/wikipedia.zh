@@ -61,9 +61,7 @@
 <!-- end list -->
 
   -
-    演唱者：[青葉林檎](../Page/青葉林檎.md "wikilink")
-    作詞：[Takt-W](https://zh.wikipedia.org/wiki/Takt-W "wikilink")
-    作曲・編曲：[上原一之龍](https://zh.wikipedia.org/wiki/上原一之龍 "wikilink")
+    演唱者：[青葉林檎](../Page/青葉林檎.md "wikilink") 作詞：[Takt-W](https://zh.wikipedia.org/wiki/Takt-W "wikilink") 作曲・編曲：[上原一之龍](https://zh.wikipedia.org/wiki/上原一之龍 "wikilink")
 
 ## 製作人員
 
@@ -128,26 +126,17 @@
 
 ### 小說
 
-  - 「euphoria　～another room～」：發售於2011年10月28日\[8\]，ISBN
-    978-4-89490-697-6。
+  - 「euphoria　～another room～」：發售於2011年10月28日\[8\]，ISBN 978-4-89490-697-6。
 
 ## 參考資料
 
 ## 外部連結
 
-  - [CLOCKUP Official Website - Euphoria
-    -](http://entacom.org/clockup/product/euphoria/index.html)（未滿十八歲請勿進入）
+  - [CLOCKUP Official Website - Euphoria -](http://entacom.org/clockup/product/euphoria/index.html)（未滿十八歲請勿進入）
   - [CLOCKUP OfficialWebSite](http://entacom.org/clockup/)
   - [euphoria OVA](http://entacom.org/clockup/product/dvd/euphoria.htm)
 
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2011年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2011年日本成人動畫 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:BDPG](https://zh.wikipedia.org/wiki/Category:BDPG "wikilink")
-[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:獵奇作品](https://zh.wikipedia.org/wiki/Category:獵奇作品 "wikilink")
+[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2011年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2011年日本成人動畫 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:BDPG](https://zh.wikipedia.org/wiki/Category:BDPG "wikilink") [Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:獵奇作品](https://zh.wikipedia.org/wiki/Category:獵奇作品 "wikilink")
 
 1.
 2.

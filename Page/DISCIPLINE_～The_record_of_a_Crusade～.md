@@ -1,13 +1,10 @@
-《**DISCIPLINE～The record of a
-Crusade～**》（）為2002年8月30日，由[Active發售的](https://zh.wikipedia.org/wiki/Active "wikilink")[日本成人遊戲並且還有以原作加改編的](../Page/日本成人遊戲.md "wikilink")[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")。
+《**DISCIPLINE～The record of a Crusade～**》（）為2002年8月30日，由[Active發售的](https://zh.wikipedia.org/wiki/Active "wikilink")[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")並且還有以原作加改編的[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")。
 
 ## 概要
 
-為繼《[HEARTWORK](https://zh.wikipedia.org/wiki/HEARTWORK "wikilink")》、《[Bible
-Black](https://zh.wikipedia.org/wiki/Bible_Black "wikilink")》後，[聖少女三部作的最終作](../Page/聖少女.md "wikilink")；和前2作相比，本作的[鬼畜風格沒這麼重](../Page/鬼畜.md "wikilink")，是一大的不同點。
+為繼《[HEARTWORK](https://zh.wikipedia.org/wiki/HEARTWORK "wikilink")》、《[Bible Black](https://zh.wikipedia.org/wiki/Bible_Black "wikilink")》後，[聖少女](../Page/聖少女.md "wikilink")三部作的最終作；和前2作相比，本作的[鬼畜](../Page/鬼畜.md "wikilink")風格沒這麼重，是一大的不同點。
 
-2009年5月29日發售本作前傳的《**[DISCIPLINE
-零](https://zh.wikipedia.org/wiki/DISCIPLINE_零 "wikilink")**》。
+2009年5月29日發售本作前傳的《**[DISCIPLINE 零](https://zh.wikipedia.org/wiki/DISCIPLINE_零 "wikilink")**》。
 
 ## 故事大綱
 
@@ -82,7 +79,7 @@ Black](https://zh.wikipedia.org/wiki/Bible_Black "wikilink")》後，[聖少女�
   - 姬木 可憐（ひめき かれん）
     声：[如月美琴](https://zh.wikipedia.org/wiki/如月美琴 "wikilink")
     森本蕾歐娜的跟班之一，社交俱樂部的副部長。言行舉止看似平穩，但其實相當淫亂而且喜歡[精液的味道](https://zh.wikipedia.org/wiki/精液 "wikilink")。
-    有著要以公尺來計算的胸圍，還曾以她的[巨乳來壓迫早見](../Page/巨乳.md "wikilink")。
+    有著要以公尺來計算的胸圍，還曾以她的[巨乳](../Page/巨乳.md "wikilink")來壓迫早見。
 
 <!-- end list -->
 
@@ -195,8 +192,7 @@ Black](https://zh.wikipedia.org/wiki/Bible_Black "wikilink")》後，[聖少女�
   - **音樂（選曲）**：稲船義之（てんこもりスタジオ） (序章〜最終章（第四章〜最終章）)
   - **動畫製作**：HG愛好会 (序章〜第三章)、STUDIO9MAiami (第四章〜最終章)
   - **動畫製作協力**：ビッグバン (第四章)、HG愛好会 (第五章〜最終章)
-  - **製作**：デジタルドリームデベロップメント (序章)、スタジオ九魔 (序章〜第三章)、ディースリー
-    (第二章〜最終章)、マイアミソフト (第四章〜最終章)
+  - **製作**：デジタルドリームデベロップメント (序章)、スタジオ九魔 (序章〜第三章)、ディースリー (第二章〜最終章)、マイアミソフト (第四章〜最終章)
 
 ## 相關作品
 
@@ -228,12 +224,7 @@ Black](https://zh.wikipedia.org/wiki/Bible_Black "wikilink")》後，[聖少女�
 
 ## 外部連結
 
-  - [Active Web
-    page](https://web.archive.org/web/20090925122057/http://www.active-soft.jp/)
+  - [Active Web page](https://web.archive.org/web/20090925122057/http://www.active-soft.jp/)
   - [mediabank官方網站](http://www.mediabank.co.jp/)
 
-[Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:2003年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2003年日本成人動畫 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
+[Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:2003年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2003年日本成人動畫 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")

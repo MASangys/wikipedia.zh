@@ -1,10 +1,8 @@
-**Be your
-girl**（[日语](../Page/日语.md "wikilink"):ビーユアガール）是[日本女歌手](../Page/日本.md "wikilink")[越智千惠子的第一首](../Page/越智千惠子.md "wikilink")[单曲](../Page/单曲.md "wikilink")。2004年4月28日由[バップ发行](https://zh.wikipedia.org/wiki/バップ "wikilink")。
+**Be your girl**（[日语](../Page/日语.md "wikilink"):ビーユアガール）是[日本](../Page/日本.md "wikilink")女歌手[越智千惠子](../Page/越智千惠子.md "wikilink")的第一首[单曲](../Page/单曲.md "wikilink")。2004年4月28日由[バップ发行](https://zh.wikipedia.org/wiki/バップ "wikilink")。
 
 ## 概要
 
-Be your
-girl是[日本電視動畫](../Page/日本電視動畫.md "wikilink")[妖精的旋律的片尾主题曲](../Page/妖精的旋律.md "wikilink")。
+Be your girl是[日本電視動畫](../Page/日本電視動畫.md "wikilink")[妖精的旋律](../Page/妖精的旋律.md "wikilink")的片尾主题曲。
 
 ## 收錄曲目
 
@@ -24,5 +22,4 @@ girl是[日本電視動畫](../Page/日本電視動畫.md "wikilink")[妖精的�
 1.  be your girl（Music Video）
 2.  be your girl（Making Video）
 
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
+[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")

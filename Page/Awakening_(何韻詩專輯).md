@@ -21,15 +21,11 @@
 
 ## 外部連結
 
-  - [何韻詩 (Denise)
-    【Awakening】專輯介紹](https://web.archive.org/web/20111214005947/http://hk.kkbox.com/album/fEaW0kGuju2AhQ0F190p0091-index.html#album-description)
+  - [何韻詩 (Denise) 【Awakening】專輯介紹](https://web.archive.org/web/20111214005947/http://hk.kkbox.com/album/fEaW0kGuju2AhQ0F190p0091-index.html#album-description)
 
 ## 參考文獻
 
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:何韻詩音樂專輯](https://zh.wikipedia.org/wiki/Category:何韻詩音樂專輯 "wikilink")
-[Category:何韻詩粵語專輯](https://zh.wikipedia.org/wiki/Category:何韻詩粵語專輯 "wikilink")
+[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:何韻詩音樂專輯](https://zh.wikipedia.org/wiki/Category:何韻詩音樂專輯 "wikilink") [Category:何韻詩粵語專輯](https://zh.wikipedia.org/wiki/Category:何韻詩粵語專輯 "wikilink")
 
 1.
 2.

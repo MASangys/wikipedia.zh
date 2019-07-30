@@ -3,8 +3,7 @@
 ## 附註
 
   - 與前作「[MOON](../Page/MOON_\(倖田來未單曲\).md "wikilink")」相隔約4個月的新單曲。B面曲、Remix收錄共全2曲5版本。
-  - 「**TABOO（禁忌）**」為music.jp
-    電視廣告曲、[日本電視台](../Page/日本電視台.md "wikilink")「女子レスリング世界選手権2008」形象歌曲、「[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")」遊戲『采配のゆくえ』電視廣告曲。
+  - 「**TABOO（禁忌）**」為music.jp 電視廣告曲、[日本電視台](../Page/日本電視台.md "wikilink")「女子レスリング世界選手権2008」形象歌曲、「[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")」遊戲『采配のゆくえ』電視廣告曲。
   - [音樂錄影帶](../Page/音樂錄影帶.md "wikilink")為兩種版本。
   - Oricon週間排名為「[FREAKY](../Page/FREAKY.md "wikilink")」以來第5張獲得第1名的單曲。
 
@@ -39,7 +38,4 @@
 1.  **TABOO（禁忌）**
 2.  **TABOO（禁忌） -Instrumental-**
 
-[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink")

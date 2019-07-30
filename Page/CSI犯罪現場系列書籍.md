@@ -268,5 +268,4 @@ Stuart M. Kaminsky</p></td>
 </tbody>
 </table>
 
-[Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink")
-[Category:改編小說](https://zh.wikipedia.org/wiki/Category:改編小說 "wikilink")
+[Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink") [Category:改編小說](https://zh.wikipedia.org/wiki/Category:改編小說 "wikilink")

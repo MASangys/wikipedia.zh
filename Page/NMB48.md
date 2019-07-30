@@ -1,8 +1,4 @@
-（2016年12月－迄今） | 音樂類型 = [日本流行音樂](../Page/日本流行音樂.md "wikilink") | 官方網站 =
-<http://www.nmb48.com/> | 現任成員 =
-請參照[成員](https://zh.wikipedia.org/wiki/#成員 "wikilink") | 過往成員
-= 請參照[前成員](https://zh.wikipedia.org/wiki/#前成員 "wikilink") | 相關團體 =
-[AKB48](../Page/AKB48.md "wikilink")
+（2016年12月－迄今） | 音樂類型 = [日本流行音樂](../Page/日本流行音樂.md "wikilink") | 官方網站 = <http://www.nmb48.com/> | 現任成員 = 請參照[成員](https://zh.wikipedia.org/wiki/#成員 "wikilink") | 過往成員 = 請參照[前成員](https://zh.wikipedia.org/wiki/#前成員 "wikilink") | 相關團體 = [AKB48](../Page/AKB48.md "wikilink")
 [SKE48](../Page/SKE48.md "wikilink")
 [SDN48](../Page/SDN48.md "wikilink")
 [HKT48](../Page/HKT48.md "wikilink")
@@ -17,26 +13,23 @@
 [DEL48](../Page/DEL48.md "wikilink")
 [MUB48](../Page/MUB48.md "wikilink") }}
 
-**NMB48**是[日本大型](../Page/日本.md "wikilink")[女子偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，以其專屬劇場所在的[大阪及](../Page/大阪市.md "wikilink")[關西地方為中心活動](../Page/近畿地方.md "wikilink")，總製作人為作詞家[秋元康](../Page/秋元康.md "wikilink")。於2010年10月正式披露的NMB48是繼[SKE48之後](../Page/SKE48.md "wikilink")，第二個根據[AKB48的概念而創立的](../Page/AKB48.md "wikilink")[地方性姊妹團體](../Page/在地偶像.md "wikilink")，名稱源自專屬劇場所在的大阪市內[商圈](../Page/商圈.md "wikilink")[難波](../Page/難波.md "wikilink")（羅馬拼音為「**N**A**MB**A」）。團體營運者與成員所屬[經紀公司為](../Page/經紀公司.md "wikilink")[吉本興業旗下子公司](../Page/吉本興業.md "wikilink")。
+**NMB48**是[日本](../Page/日本.md "wikilink")大型[女子偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，以其專屬劇場所在的[大阪及](../Page/大阪市.md "wikilink")[關西地方為中心活動](../Page/近畿地方.md "wikilink")，總製作人為作詞家[秋元康](../Page/秋元康.md "wikilink")。於2010年10月正式披露的NMB48是繼[SKE48](../Page/SKE48.md "wikilink")之後，第二個根據[AKB48](../Page/AKB48.md "wikilink")的概念而創立的[地方性姊妹團體](../Page/在地偶像.md "wikilink")，名稱源自專屬劇場所在的大阪市內[商圈](../Page/商圈.md "wikilink")[難波](../Page/難波.md "wikilink")（羅馬拼音為「**N**A**MB**A」）。團體營運者與成員所屬[經紀公司](../Page/經紀公司.md "wikilink")為[吉本興業](../Page/吉本興業.md "wikilink")旗下子公司。
 
 ## 简介
 
-NMB48是繼[SKE48之后第二個AKB](../Page/SKE48.md "wikilink")48姊妹團體。2010年7月10日，和[吉本興業的](../Page/吉本興業.md "wikilink")[合資公司](../Page/合資公司.md "wikilink")「KYORAKU吉本控股运营事务局」\[1\]宣布將2010年12月3日閉館的[base吉本改裝為](https://zh.wikipedia.org/wiki/base吉本 "wikilink")[NMB48劇場](../Page/NMB48劇場.md "wikilink")，並於2011年1月1日開始首次公演「[TeamA
-3rd
-Stage「为了谁」](https://zh.wikipedia.org/wiki/TeamA_3rd_Stage「为了谁」 "wikilink")」\[2\]。自此，[日本三大都市圈都存在了以秋元康為製作人的](https://zh.wikipedia.org/wiki/三大都市圈 "wikilink")[48集團偶像組合](https://zh.wikipedia.org/wiki/48集團 "wikilink")。
+NMB48是繼[SKE48](../Page/SKE48.md "wikilink")之后第二個AKB48姊妹團體。2010年7月10日，和[吉本興業](../Page/吉本興業.md "wikilink")的[合資公司](../Page/合資公司.md "wikilink")「KYORAKU吉本控股运营事务局」\[1\]宣布將2010年12月3日閉館的[base吉本改裝為](https://zh.wikipedia.org/wiki/base吉本 "wikilink")[NMB48劇場](../Page/NMB48劇場.md "wikilink")，並於2011年1月1日開始首次公演「[TeamA 3rd Stage「为了谁」](https://zh.wikipedia.org/wiki/TeamA_3rd_Stage「为了谁」 "wikilink")」\[2\]。自此，[日本三大都市圈都存在了以秋元康為製作人的](https://zh.wikipedia.org/wiki/三大都市圈 "wikilink")[48集團偶像組合](https://zh.wikipedia.org/wiki/48集團 "wikilink")。
 
-2010年10月9日，開演的「Visit Zoo宣傳活動應援計劃 AKB48 東京秋祭 supported by NTT
-Plala」中第1期26名研究生披露，隨後同日放送的節目《[明星尋找太郎](../Page/明星尋找太郎.md "wikilink")》對各新成員進行了介紹。NMB48組成時的成員平均年齢是14.7歳，是姊妹組合之中最年輕的（此記錄後來被HKT48更新）。
+2010年10月9日，開演的「Visit Zoo宣傳活動應援計劃 AKB48 東京秋祭 supported by NTT Plala」中第1期26名研究生披露，隨後同日放送的節目《[明星尋找太郎](../Page/明星尋找太郎.md "wikilink")》對各新成員進行了介紹。NMB48組成時的成員平均年齢是14.7歳，是姊妹組合之中最年輕的（此記錄後來被HKT48更新）。
 
-NMB48的[商標並非由](https://zh.wikipedia.org/wiki/商標 "wikilink")[AKB48集團的營運公司](../Page/AKB48集團.md "wikilink")[AKS持有](../Page/AKS.md "wikilink")，而是由NMB48的[特許經營公司持有](https://zh.wikipedia.org/wiki/特許經營 "wikilink")（京樂吉本{{→}}）。
+NMB48的[商標並非由](https://zh.wikipedia.org/wiki/商標 "wikilink")[AKB48集團](../Page/AKB48集團.md "wikilink")的營運公司[AKS](../Page/AKS.md "wikilink")持有，而是由NMB48的[特許經營公司持有](https://zh.wikipedia.org/wiki/特許經營 "wikilink")（京樂吉本{{→}}）。
 
 ### 團體名的由来
 
-團體名稱中的「**NMB**」源自劇場所在地，橫跨[中央区及](../Page/中央區_\(大阪市\).md "wikilink")[浪速區的](../Page/浪速區.md "wikilink")[難波地區簡寫](../Page/難波.md "wikilink")（**N**A**MB**A）所命名，因此亦稱為「**難波48**」。
+團體名稱中的「**NMB**」源自劇場所在地，橫跨[中央区及](../Page/中央區_\(大阪市\).md "wikilink")[浪速區](../Page/浪速區.md "wikilink")的[難波](../Page/難波.md "wikilink")地區簡寫（**N**A**MB**A）所命名，因此亦稱為「**難波48**」。
 
 ### 團體標誌
 
-與AKB48的粉紅色，SKE48的橙色和[HKT48的黑色等單色作為標誌背景顏色不同](../Page/HKT48.md "wikilink")，NMB48以[豹紋作為背景](../Page/豹.md "wikilink")\[3\]\[4\]，成員穿着的衣服亦有象徵著團體的豹紋設計。
+與AKB48的粉紅色，SKE48的橙色和[HKT48](../Page/HKT48.md "wikilink")的黑色等單色作為標誌背景顏色不同，NMB48以[豹](../Page/豹.md "wikilink")紋作為背景\[3\]\[4\]，成員穿着的衣服亦有象徵著團體的豹紋設計。
 
 ### NMB48劇場
 
@@ -67,71 +60,42 @@ NMB48劇場前身曾是[难波豪华花月的專用劇場](https://zh.wikipedia.
   - 3月10日，1期研究生中的16名成員被選出組成Team N\[8\]。
   - 4月4日，Team N劇場初公演。
   - 5月25日，AKB48的第21張單曲《Everyday、髮箍》發售，山本彩和渡邊美優紀是初次進入選拔的NMB48成員。
-  - 6月，山本彩在第3回選拔總選舉「[AKB48第22張單曲選拔總選舉『今年也要全力以赴』](../Page/AKB48第22張單曲選拔總選舉.md "wikilink")」中成為Under
-    Girls。
-  - 7月16日，舉行選拔猜拳大会的預備戰，成員[山口夕輝](../Page/山口夕輝.md "wikilink")、肥川彩愛、[島田玲奈](../Page/島田玲奈.md "wikilink")、藤田留奈和[與儀凱拉獲得本戰出場權](../Page/與儀凱拉.md "wikilink")。
+  - 6月，山本彩在第3回選拔總選舉「[AKB48第22張單曲選拔總選舉](../Page/AKB48第22張單曲選拔總選舉.md "wikilink")『今年也要全力以赴』」中成為Under Girls。
+  - 7月16日，舉行選拔猜拳大会的預備戰，成員[山口夕輝](../Page/山口夕輝.md "wikilink")、肥川彩愛、[島田玲奈](../Page/島田玲奈.md "wikilink")、藤田留奈和[與儀凱拉](../Page/與儀凱拉.md "wikilink")獲得本戰出場權。
   - 7月20日，出道單曲《[絕滅黑髮少女](../Page/絕滅黑髮少女.md "wikilink")》發售，獲得Oricon週間排名第1位的記錄。
   - 8月13日，2期研究生劇場初公演。
   - 9月20日，日本武道館舉行的「[AKB48第24張單曲選拔猜拳大會](../Page/AKB48第24張單曲選拔猜拳大會.md "wikilink")」，山口夕輝和肥川彩愛進入選抜。
-  - 10月26日，第2張單曲《Oh My
-    God\!》發售，繼出道單曲後連續2作獲得Oricon週間排名第1位的記錄，成為史上首個出道連續2作首週初動發售均突破20万張的女性團體。
+  - 10月26日，第2張單曲《Oh My God\!》發售，繼出道單曲後連續2作獲得Oricon週間排名第1位的記錄，成為史上首個出道連續2作首週初動發售均突破20万張的女性團體。
 
 ### 2012年
 
   - 1月26日，1期研究生5名和2期研究生11名共16名組成Team M\[9\]。
   - 2月8日，發行第3張單曲《[純情U-19](../Page/純情U-19.md "wikilink")》，繼出道單曲後連續3作獲得Oricon週間排名第1位和初週發售超過20万枚的記錄。
   - 3月2日，首個官方指南《NMB48 COMPLETE BOOK》發售。
-  - 3月24日，在演唱會「[業務連絡。拜託了，片山部長！
-    in埼玉超級競技場](../Page/業務連絡。拜託了，片山部長！_in埼玉超級競技場.md "wikilink")」中發表Team
-    N[渡邊美優紀有限期兼任](../Page/渡邊美優紀.md "wikilink")[AKB48](../Page/AKB48.md "wikilink")
-    Team B。
-  - 6月，山本彩和渡邊美優紀在「[AKB48第27張單曲選拔總選舉](../Page/AKB48第27張單曲選拔總選舉.md "wikilink")」（第4回選拔總選舉）
-    中成為Under Girls，福本愛菜、山田菜菜進入Next Girls，小笠原茉由進入Future
-    Girls。福本和小笠原是首次以AKB48名義進入選拔單曲。
-  - 8月24日，在演唱會「[AKB48 in TOKYO DOME
-    ～1830m的夢想～](../Page/AKB48_in_TOKYO_DOME_～1830m的夢想～.md "wikilink")」中，發表Team
-    N[小谷里步預定兼任AKB](https://zh.wikipedia.org/wiki/小谷里步 "wikilink")48的新Team
-    A成員，AKB48 Team
-    K[横山由依移籍到新生Team](https://zh.wikipedia.org/wiki/横山由依 "wikilink")
-    A外同時預定兼任NMB48\[10\]。小谷是渡邊美優紀後第2個兼任AKB48的NMB48成員，AKB48的成員兼任NMB48的也是史上初次。
+  - 3月24日，在演唱會「[業務連絡。拜託了，片山部長！ in埼玉超級競技場](../Page/業務連絡。拜託了，片山部長！_in埼玉超級競技場.md "wikilink")」中發表Team N[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")有限期兼任[AKB48](../Page/AKB48.md "wikilink") Team B。
+  - 6月，山本彩和渡邊美優紀在「[AKB48第27張單曲選拔總選舉](../Page/AKB48第27張單曲選拔總選舉.md "wikilink")」（第4回選拔總選舉） 中成為Under Girls，福本愛菜、山田菜菜進入Next Girls，小笠原茉由進入Future Girls。福本和小笠原是首次以AKB48名義進入選拔單曲。
+  - 8月24日，在演唱會「[AKB48 in TOKYO DOME ～1830m的夢想～](../Page/AKB48_in_TOKYO_DOME_～1830m的夢想～.md "wikilink")」中，發表Team N[小谷里步預定兼任AKB](https://zh.wikipedia.org/wiki/小谷里步 "wikilink")48的新Team A成員，AKB48 Team K[横山由依移籍到新生Team](https://zh.wikipedia.org/wiki/横山由依 "wikilink") A外同時預定兼任NMB48\[10\]。小谷是渡邊美優紀後第2個兼任AKB48的NMB48成員，AKB48的成員兼任NMB48的也是史上初次。
   - 10月9日，新Team M成立，同日實行披露公演\[11\]。
   - 10月10日，從3期研究生進行選抜16名成員Team BII結成，同日進行初次公演\[12\]。
 
 ### 2013年
 
-  - 1月25日，「[AKB48 重溫時間 最佳曲目100
-    2013](../Page/AKB48_重溫時間_最佳曲目100_2013.md "wikilink")」第2日公演，發表48團體支配人人事異動，現NMB48劇場支配人的金子剛支配人留任，同月27日舉行最終日公演發表信任・不信任的信任決議結果，最終得到信任支配人決定留任。
-  - 1月26日，「AKB48 重溫時間 最佳曲目100
-    2013」第3日公演，發表4月25日-28日在[日本武道館舉行](../Page/日本武道館.md "wikilink")「AKB48節」，NMB48在26日單独演出，28日在48團體總出演一部份\[13\]。
+  - 1月25日，「[AKB48 重溫時間 最佳曲目100 2013](../Page/AKB48_重溫時間_最佳曲目100_2013.md "wikilink")」第2日公演，發表48團體支配人人事異動，現NMB48劇場支配人的金子剛支配人留任，同月27日舉行最終日公演發表信任・不信任的信任決議結果，最終得到信任支配人決定留任。
+  - 1月26日，「AKB48 重溫時間 最佳曲目100 2013」第3日公演，發表4月25日-28日在[日本武道館](../Page/日本武道館.md "wikilink")舉行「AKB48節」，NMB48在26日單独演出，28日在48團體總出演一部份\[13\]。
   - 2月27日，第1張專輯《[尖端頂點之上\!](https://zh.wikipedia.org/wiki/尖端頂點之上! "wikilink")》發售。
-  - 4月18日，在[ORIX劇場举办了](https://zh.wikipedia.org/wiki/ORIX劇場 "wikilink")[NMB48
-    重溫時間 最佳曲目30
-    2013](../Page/NMB48_重溫時間_最佳曲目30_2013.md "wikilink")\[14\]。
+  - 4月18日，在[ORIX劇場举办了](https://zh.wikipedia.org/wiki/ORIX劇場 "wikilink")[NMB48 重溫時間 最佳曲目30 2013](../Page/NMB48_重溫時間_最佳曲目30_2013.md "wikilink")\[14\]。
   - 4月26日，在日本武道館舉行了「[AKB48团临时总会～黑白分明！～](https://zh.wikipedia.org/wiki/AKB48团临时总会～黑白分明！～ "wikilink")」的NMB48單独公演，並發表第7張單曲的發售日期。
-  - 4月28日，参加在日本武道館舉行的「[AKB48团临时总会～黑白分明！～](https://zh.wikipedia.org/wiki/AKB48团临时总会～黑白分明！～ "wikilink")」團體總出演的夜晚公演，發表横山在NMB48
-    Team N的兼任以及小谷在AKB48 Team A的兼任解除，新體制AKB48 Team
-    B的[市川美織兼任NMB](../Page/市川美織.md "wikilink")48 Team
-    N以及[矢倉楓子兼任AKB](../Page/矢倉楓子.md "wikilink")48 Team A。
+  - 4月28日，参加在日本武道館舉行的「[AKB48团临时总会～黑白分明！～](https://zh.wikipedia.org/wiki/AKB48团临时总会～黑白分明！～ "wikilink")」團體總出演的夜晚公演，發表横山在NMB48 Team N的兼任以及小谷在AKB48 Team A的兼任解除，新體制AKB48 Team B的[市川美織](../Page/市川美織.md "wikilink")兼任NMB48 Team N以及[矢倉楓子](../Page/矢倉楓子.md "wikilink")兼任AKB48 Team A。
   - 6月5日，「[AKB48團研究生演唱會『早推得勝』](https://zh.wikipedia.org/wiki/AKB48團研究生演唱會「早推得勝」 "wikilink")」在日本武道館舉行\[15\]。
   - 6月19日，第7張單曲《[我們的發現](../Page/我們的發現.md "wikilink")》發售，首週發售約48,2万張，再次刷新组合单曲首周最高销量，獲得Oricon单曲周榜单第一名。
-  - 8月1日，《[NMB48
-    藝人\!THE](https://zh.wikipedia.org/wiki/NMB48_藝人! "wikilink")
-    MOVIE 搞笑青春女孩\!\!》上映。
-  - 8月7日，在“[AKB48 2013盛夏的巨蛋巡回〜还有许多
-    不得不做的事情〜](https://zh.wikipedia.org/wiki/AKB48_2013盛夏的巨蛋巡回〜还有许多_不得不做的事情〜 "wikilink")
-    in
-    京瓷巨蛋大阪”第1日公演中，發表了将于10月12日，13日在[大阪城Hall舉行](https://zh.wikipedia.org/wiki/大阪城Hall "wikilink")『NMB48
-    3rd Anniversary Special Live』\[16\]的消息。
+  - 8月1日，《[NMB48 藝人\!THE](https://zh.wikipedia.org/wiki/NMB48_藝人! "wikilink") MOVIE 搞笑青春女孩\!\!》上映。
+  - 8月7日，在“[AKB48 2013盛夏的巨蛋巡回〜还有许多 不得不做的事情〜](https://zh.wikipedia.org/wiki/AKB48_2013盛夏的巨蛋巡回〜还有许多_不得不做的事情〜 "wikilink") in 京瓷巨蛋大阪”第1日公演中，發表了将于10月12日，13日在[大阪城Hall舉行](https://zh.wikipedia.org/wiki/大阪城Hall "wikilink")『NMB48 3rd Anniversary Special Live』\[16\]的消息。
   - 10月2日，第8張單曲《[大蔥鴨們](../Page/大蔥鴨們.md "wikilink")》發售，達成Oricon周榜第一。
-  - 10月12日至13日，舉行『NMB48 3rd Anniversary Special
-    Live』\[17\]。同公演第1日，發表10月18日播放的[朝日雹視台系列](https://zh.wikipedia.org/wiki/朝日雹視台 "wikilink")『[Music
-    Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")』中為NMB48初次出演\[18\]。
-  - 10月18日，朝日電視台系列「Music
-    Station」中首次以NMB48名義出演，是繼[SKE48後第](../Page/SKE48.md "wikilink")2個在此節目單独出場的AKB48姊妹團體\[19\]。
-  - 11月1日，Team BII
-    2nd公演「[正在戀愛中](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」#NMB48_Team_BII_2nd_Stage「正在戀愛中」公演 "wikilink")」開始。
+  - 10月12日至13日，舉行『NMB48 3rd Anniversary Special Live』\[17\]。同公演第1日，發表10月18日播放的[朝日雹視台系列](https://zh.wikipedia.org/wiki/朝日雹視台 "wikilink")『[Music Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")』中為NMB48初次出演\[18\]。
+  - 10月18日，朝日電視台系列「Music Station」中首次以NMB48名義出演，是繼[SKE48](../Page/SKE48.md "wikilink")後第2個在此節目單独出場的AKB48姊妹團體\[19\]。
+  - 11月1日，Team BII 2nd公演「[正在戀愛中](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」#NMB48_Team_BII_2nd_Stage「正在戀愛中」公演 "wikilink")」開始。
   - 11月19日，Team N 3rd公演「天使在這裡」公演開始，是NMB48首個原創公演。
-  - 12月31日，在[第64回NHK紅白歌合戰中首次獨自以NMB](../Page/第64回NHK紅白歌合戰.md "wikilink")48名義出場，是繼[SKE48後第](../Page/SKE48.md "wikilink")2個在紅白單独出場的AKB48姊妹團體\[20\]。
+  - 12月31日，在[第64回NHK紅白歌合戰](../Page/第64回NHK紅白歌合戰.md "wikilink")中首次獨自以NMB48名義出場，是繼[SKE48](../Page/SKE48.md "wikilink")後第2個在紅白單独出場的AKB48姊妹團體\[20\]。
 
 ### 2014年
 
@@ -143,25 +107,20 @@ NMB48劇場前身曾是[难波豪华花月的專用劇場](https://zh.wikipedia.
 
 <!-- end list -->
 
-  - 4月5日，於「[AKB48集團 春Con in
-    埼玉超級競技場〜丟掉回憶向前沖！〜](https://zh.wikipedia.org/wiki/AKB48集團_春Con_in_埼玉超級競技場〜丟掉回憶向前沖！〜#NMB48 "wikilink")」的NMB48單獨演唱會中宣布各隊千秋樂與初日的時間表\[23\]。
+  - 4月5日，於「[AKB48集團 春Con in 埼玉超級競技場〜丟掉回憶向前沖！〜](https://zh.wikipedia.org/wiki/AKB48集團_春Con_in_埼玉超級競技場〜丟掉回憶向前沖！〜#NMB48 "wikilink")」的NMB48單獨演唱會中宣布各隊千秋樂與初日的時間表\[23\]。
 
 <!-- end list -->
 
   - 4月22日，開始進行新Team体制。
   - 5月21日－22日，舉行NMB48リクエストアワーセットリスト ベスト50 2014（オリックス劇場）\[24\]。
-  - 7月25日，「[NMB48
-    藝人\!THE](https://zh.wikipedia.org/wiki/NMB48_藝人! "wikilink")
-    MOVIE Returns 畢業\!搞笑青春女孩\!\!向全新啟程」上映。
-  - 8月13日，第2張專輯『[世界的中心是大阪
-    ～難波自治區～](../Page/世界的中心是大阪_～難波自治區～.md "wikilink")』發售。
+  - 7月25日，「[NMB48 藝人\!THE](https://zh.wikipedia.org/wiki/NMB48_藝人! "wikilink") MOVIE Returns 畢業\!搞笑青春女孩\!\!向全新啟程」上映。
+  - 8月13日，第2張專輯『[世界的中心是大阪 ～難波自治區～](../Page/世界的中心是大阪_～難波自治區～.md "wikilink")』發售。
   - 11月5日，第十張單曲發售預定\[25\]。
 
 ### 2015年
 
   - 3月26日，於「AKB48春季單獨演唱會～次期總現正修行中！～」演唱會中，宣布柏木由紀、村重杏奈、高柳明音兼任解除。此外，也宣佈渡邊美優紀解除SKE48兼任和再次在AKB48兼任的消息。\[26\]
-  - 3月31日，第十一張單曲《[Don't look
-    back\!](../Page/Don't_look_back!.md "wikilink")》發售。
+  - 3月31日，第十一張單曲《[Don't look back\!](../Page/Don't_look_back!.md "wikilink")》發售。
   - 4月3日，山田菜菜畢業。
   - 7月15日，第十二張單曲《[榴槤少年](../Page/榴槤少年.md "wikilink")》發售。
   - 10月7日，第十三張單曲《[Must be now](../Page/Must_be_now.md "wikilink")》發售。
@@ -170,30 +129,22 @@ NMB48劇場前身曾是[难波豪华花月的專用劇場](https://zh.wikipedia.
 ### 2016年
 
   - 2月9日，開始招募5期生。\[28\]
-  - 2月11日，宣佈在大阪的Zepp NAMBA加開三場『NMB48 Live House Tour 2016
-    FINAL』。分別在3月30日（晚上場）和3月31日（下午場和晚上場）舉行\[29\]
-  - 2月12日，在本鄉柚巴生誕祭中，宣佈5月7日至8日舉辦應援棒球隊伍[阪神虎的活動](../Page/阪神虎.md "wikilink")－Toraco
-    Day。而[山本彩](../Page/山本彩.md "wikilink")、[藪下柊](https://zh.wikipedia.org/wiki/藪下柊 "wikilink")、[木下春奈和](../Page/木下春奈.md "wikilink")[川上千尋則成為Toraco的應援隊長](../Page/川上千尋.md "wikilink")。\[30\]
+  - 2月11日，宣佈在大阪的Zepp NAMBA加開三場『NMB48 Live House Tour 2016 FINAL』。分別在3月30日（晚上場）和3月31日（下午場和晚上場）舉行\[29\]
+  - 2月12日，在本鄉柚巴生誕祭中，宣佈5月7日至8日舉辦應援棒球隊伍[阪神虎](../Page/阪神虎.md "wikilink")的活動－Toraco Day。而[山本彩](../Page/山本彩.md "wikilink")、[藪下柊](https://zh.wikipedia.org/wiki/藪下柊 "wikilink")、[木下春奈](../Page/木下春奈.md "wikilink")和[川上千尋](../Page/川上千尋.md "wikilink")則成為Toraco的應援隊長。\[30\]
     Toraco的意思為支持阪神虎的女子。\[31\]
   - 8月9日，渡邊美優紀畢業。
-  - 10月18日，NMB48的6周年Live中發表大組閣，並於2017年1月1日實施；同時[上西惠宣佈畢業](../Page/上西惠.md "wikilink")。
+  - 10月18日，NMB48的6周年Live中發表大組閣，並於2017年1月1日實施；同時[上西惠](../Page/上西惠.md "wikilink")宣佈畢業。
   - 12月28日，NMB48的第16張單曲《[除我之外的人](../Page/除我之外的人.md "wikilink")》正式發行。
 
 ### 2017年
 
   - 1月1日，實施新體制。
-  - 3月11日，東日本大震災振興支援活動《NMB48[“为了谁”计划](https://zh.wikipedia.org/wiki/“为了谁”计划 "wikilink")
-    What can I do for someone? in
-    大阪巨蛋》於[大阪巨蛋舉行](../Page/大阪巨蛋.md "wikilink")。
+  - 3月11日，東日本大震災振興支援活動《NMB48[“为了谁”计划](https://zh.wikipedia.org/wiki/“为了谁”计划 "wikilink") What can I do for someone? in 大阪巨蛋》於[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")舉行。
   - 4月19日，薮下柊毕业。
   - 8月2日，第3張專輯《[難波愛～現在、想到的事情～](../Page/難波愛～現在、想到的事情～.md "wikilink")》正式發行。
-  - 8月5日及6日於兵庫縣神戶市世界紀念館舉辦「NMB48 LIVE 2017 in Summer
-    還要繼續依賴山本彩嗎？Revenge」「NMB48 LIVE 2017 in
-    Summer 最最最最棒了」演唱会，兩場演唱会門票銷售一空，正式達成去年所訂下的目標。
-  - 8月14日，NMB48的首次亞洲巡迴演唱會「NMB48 ASIA TOUR
-    2017」正式開始，首場於泰國舉行\[32\]。另兩場演唱會分別於9月29日及10月1日於香港及台灣舉行。
-  - 9月20日，「NMB48 ARENA TOUR
-    2017」首場演唱會於橫濱體育館舉行\[33\]。次場演唱會9月23日於日本礙子會館舉行\[34\]。第三場演唱會10月11日、12日於大阪城表演廳舉行。
+  - 8月5日及6日於兵庫縣神戶市世界紀念館舉辦「NMB48 LIVE 2017 in Summer 還要繼續依賴山本彩嗎？Revenge」「NMB48 LIVE 2017 in Summer 最最最最棒了」演唱会，兩場演唱会門票銷售一空，正式達成去年所訂下的目標。
+  - 8月14日，NMB48的首次亞洲巡迴演唱會「NMB48 ASIA TOUR 2017」正式開始，首場於泰國舉行\[32\]。另兩場演唱會分別於9月29日及10月1日於香港及台灣舉行。
+  - 9月20日，「NMB48 ARENA TOUR 2017」首場演唱會於橫濱體育館舉行\[33\]。次場演唱會9月23日於日本礙子會館舉行\[34\]。第三場演唱會10月11日、12日於大阪城表演廳舉行。
   - 12月27日，發行第17張單曲《[呵呵人类](https://zh.wikipedia.org/wiki/呵呵人类 "wikilink")》\[35\]。
 
 ### 2018年
@@ -202,23 +153,20 @@ NMB48劇場前身曾是[难波豪华花月的專用劇場](https://zh.wikipedia.
   - 4月29日，开始招募6期生。
   - 7月30日，在东京中野サンプラザ舉行的「NMB48 LIVE TOUR 2018 in Summer」第一站中。總隊長山本彩宣布毕业。
   - 10月17日，發行第19張單曲《[即使是我也會哭泣的啊](../Page/即使是我也會哭泣的啊.md "wikilink")》。
-  - 10月27日，于万博記念公園举行[山本彩的毕业演唱会](../Page/山本彩.md "wikilink")。
+  - 10月27日，于万博記念公園举行[山本彩](../Page/山本彩.md "wikilink")的毕业演唱会。
   - 11月4日，山本彩毕业。同日，山本彩于毕业公演指名小嶋花梨出任次任总队长。\[37\]\[38\]
 
 ### 2019年
 
-  - 1月1日，於「2019年新春特別公演」公布將實施的新體制，Team
-    N由川上千尋擔任隊長、石田優美擔任副隊長，成員包括自研究生升格的河野奈奈帆在內，合計14人；Team
-    M由澀谷凪咲擔任隊長、井尻晏菜擔任副隊長，成員共14人；Team
-    BII由总队长小嶋花梨擔任隊長、山田壽壽擔任副隊長，成員包括自研究生升格的鹽月希依音與山本望叶在內，合計14人\[39\]。
+  - 1月1日，於「2019年新春特別公演」公布將實施的新體制，Team N由川上千尋擔任隊長、石田優美擔任副隊長，成員包括自研究生升格的河野奈奈帆在內，合計14人；Team M由澀谷凪咲擔任隊長、井尻晏菜擔任副隊長，成員共14人；Team BII由总队长小嶋花梨擔任隊長、山田壽壽擔任副隊長，成員包括自研究生升格的鹽月希依音與山本望叶在內，合計14人\[39\]。
   - 2月20日，預定發行第20張單曲《[在壁龕上端坐的女生](../Page/在壁龕上端坐的女生.md "wikilink")》\[40\]。
   - 3月1日，預定實施新體制\[41\]。
   - 6月1日，AKS與京樂吉本簽訂NMB48事業轉讓合約，營運權正式移交給京樂吉本\[42\]。
+  - 8月14日，預定發行第21張單曲《》\[43\]\[44\]。
 
 ## 成員
 
-與[SKE48及](../Page/SKE48.md "wikilink")[AKB48無異](../Page/AKB48.md "wikilink")，目前有**Team
-N**、**Team M**、**Team BII**。此外，正式成員以外的成员称为**研究生**。
+與[SKE48](../Page/SKE48.md "wikilink")及[AKB48](../Page/AKB48.md "wikilink")無異，目前有**Team N**、**Team M**、**Team BII**。此外，正式成員以外的成员称为**研究生**。
 
 ### 正式成員
 
@@ -270,7 +218,7 @@ Team N副隊長</p></td>
 原上枝Team BII<br />
 NMB48最年長<br />
 原川上Team M<br />
-預定畢業[43]</p></td>
+預定畢業[45]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -690,7 +638,8 @@ Team M副隊長</p></td>
 <td><p>Showtitle</p></td>
 <td><p>经由第一屆AKB48選秀會議加入<br />
 原上枝Team BII<br />
-原山本Team N</p></td>
+原山本Team N<br />
+預定畢業[46]</p></td>
 <td><p>54</p></td>
 </tr>
 <tr class="even">
@@ -722,7 +671,7 @@ Team M副隊長</p></td>
 <td><p>5期</p></td>
 <td><p>2017年10月12日</p></td>
 <td><p>Showtitle</p></td>
-<td><p>前成員山田菜菜及<a href="../Page/傑尼斯事務所.md" title="wikilink">傑尼斯事務所的</a><a href="../Page/中山優馬.md" title="wikilink">中山優馬的妹妹</a><br />
+<td><p>前成員山田菜菜及<a href="../Page/傑尼斯事務所.md" title="wikilink">傑尼斯事務所</a>的<a href="../Page/中山優馬.md" title="wikilink">中山優馬</a>的妹妹<br />
 原川上Team M<br />
 Team BII副隊長</p></td>
 <td><p>-</p></td>
@@ -909,7 +858,7 @@ Team BII副隊長</p></td>
 <td><p>選秀<br />
 3期</p></td>
 <td><p>第三屆選秀會議Team M第四輪指名<br />
-2019年5月8日起暫停活動[44]</p></td>
+2019年5月8日起暫停活動[47]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1194,7 +1143,7 @@ Team BII副隊長</p></td>
 <td></td>
 <td></td>
 <td><p>2期</p></td>
-<td><p>2014年4月7日[45]</p></td>
+<td><p>2014年4月7日[48]</p></td>
 <td><p>M</p></td>
 <td><p>-</p></td>
 <td><p>曾任Team M隊長<br />
@@ -1210,7 +1159,7 @@ Team BII副隊長</p></td>
 <td><p>BII</p></td>
 <td><p>-</p></td>
 <td><p>原定將移籍Team M<br />
-體調不良而中止活動[46]</p></td>
+體調不良而中止活動[49]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1218,11 +1167,11 @@ Team BII副隊長</p></td>
 <td></td>
 <td></td>
 <td><p>3期</p></td>
-<td><p>2014年4月20日[47]</p></td>
+<td><p>2014年4月20日[50]</p></td>
 <td><p>BII</p></td>
 <td><p>-</p></td>
-<td><p>2013年9月14日－12月8日停止活動[48][49][50]<br />
-4月10日畢業公演[51]</p></td>
+<td><p>2013年9月14日－12月8日停止活動[51][52][53]<br />
+4月10日畢業公演[54]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1233,7 +1182,7 @@ Team BII副隊長</p></td>
 <td><p>2014年4月22日</p></td>
 <td><p>N</p></td>
 <td><p>京乐吉本</p></td>
-<td><p>移籍AKB48 Team B[52]<br />
+<td><p>移籍AKB48 Team B[55]<br />
 2016年12月24日自AKB48 Team B畢業</p></td>
 <td><p>54</p></td>
 </tr>
@@ -1247,7 +1196,7 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td><p>-</p></td>
 <td><p>原Team M<br />
-同日畢業公演[53]</p></td>
+同日畢業公演[56]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1260,8 +1209,8 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td><p>-</p></td>
 <td><p>原Team BII<br />
-2014年1月20日－4月4日停止活動[54]<br />
-1月26日畢業公演[55]</p></td>
+2014年1月20日－4月4日停止活動[57]<br />
+1月26日畢業公演[58]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1273,7 +1222,7 @@ Team BII副隊長</p></td>
 <td><p>M</p></td>
 <td><p>-</p></td>
 <td><p>原成员<br />
-3月13日畢業公演[56]</p></td>
+3月13日畢業公演[59]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1286,7 +1235,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Miss_Seventeen" title="wikilink">Miss Seventeen</a>2009最終候補者<br />
 原Team M<br />
-2015年3月12日畢業公演[57]</p></td>
+2015年3月12日畢業公演[60]</p></td>
 <td><p>|-</p></td>
 </tr>
 <tr class="odd">
@@ -1296,7 +1245,7 @@ Team BII副隊長</p></td>
 <td><p>3期</p></td>
 <td><p>M</p></td>
 <td><p>-</p></td>
-<td><p>3月16日畢業公演[58]</p></td>
+<td><p>3月16日畢業公演[61]</p></td>
 <td><p>|-</p></td>
 <td></td>
 </tr>
@@ -1325,7 +1274,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td><p>前Make palette成員<br />
 原Team BII<br />
-同日畢業公演[59]</p></td>
+同日畢業公演[62]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1375,7 +1324,7 @@ Team BII副隊長</p></td>
 <td><p>2015年6月21日</p></td>
 <td><p>N</p></td>
 <td><p>-</p></td>
-<td><p>6月16日畢業公演[60]<br />
+<td><p>6月16日畢業公演[63]<br />
 原Team BII</p></td>
 <td><p>-</p></td>
 </tr>
@@ -1387,7 +1336,7 @@ Team BII副隊長</p></td>
 <td><p>2015年6月30日</p></td>
 <td><p>BII</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[61]</p></td>
+<td><p>當日畢業公演[64]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1410,7 +1359,7 @@ Team BII副隊長</p></td>
 <td><p>2016年1月27日</p></td>
 <td><p>M</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[62]<br />
+<td><p>當日畢業公演[65]<br />
 原Team N</p></td>
 <td><p>-</p></td>
 </tr>
@@ -1422,7 +1371,7 @@ Team BII副隊長</p></td>
 <td><p>2016年2月4日</p></td>
 <td><p>N</p></td>
 <td><p>Showtitle</p></td>
-<td><p>當日畢業公演[63]<br />
+<td><p>當日畢業公演[66]<br />
 现艺名：三秋里步<br />
 現為吉本坂46成員</p></td>
 <td><p>54</p></td>
@@ -1542,7 +1491,7 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td></td>
 <td><p>成员上西怜的姐姐<br />
-当日畢業公演[64][65]</p></td>
+当日畢業公演[67][68]</p></td>
 <td><p>36</p></td>
 </tr>
 <tr class="even">
@@ -1554,8 +1503,8 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td><p>-</p></td>
 <td><p>原初代・上枝Team BII<br />
-當日畢業公演[66]<br />
-妹妹為<a href="../Page/STU48.md" title="wikilink">STU48成員</a><a href="https://zh.wikipedia.org/wiki/藪下楓" title="wikilink">藪下楓</a>[67]</p></td>
+當日畢業公演[69]<br />
+妹妹為<a href="../Page/STU48.md" title="wikilink">STU48</a>成員<a href="https://zh.wikipedia.org/wiki/藪下楓" title="wikilink">藪下楓</a>[70]</p></td>
 <td><p>39</p></td>
 </tr>
 <tr class="odd">
@@ -1567,7 +1516,7 @@ Team BII副隊長</p></td>
 <td><p>BII</p></td>
 <td><p>Showtitle</p></td>
 <td><p>原初代・山本Team N<br />
-當日畢業公演[68]</p></td>
+當日畢業公演[71]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1584,7 +1533,7 @@ Team BII副隊長</p></td>
 秋元Team K<br />
 梅田Team B<br />
 原藤江Team M<br />
-當日畢業公演[69]</p></td>
+當日畢業公演[72]</p></td>
 <td><p>32</p></td>
 </tr>
 <tr class="odd">
@@ -1597,7 +1546,7 @@ Team BII副隊長</p></td>
 <td><p>BII</p></td>
 <td><p>Showtitle</p></td>
 <td><p>第二屆選秀會議Team BII第一輪指名<br />
-當日畢業公演[70]</p></td>
+當日畢業公演[73]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1610,7 +1559,7 @@ Team BII副隊長</p></td>
 <td><p>Showtitle</p></td>
 <td><p>原初代・上枝Team BII<br />
 原上枝Team BII隊長<br />
-當日畢業公演[71]</p></td>
+當日畢業公演[74]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1623,7 +1572,7 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td><p>Showtitle</p></td>
 <td><p>经由第一屆AKB48選秀會議加入<br />
-當日畢業公演[72]</p></td>
+當日畢業公演[75]</p></td>
 <td><p>20</p></td>
 </tr>
 <tr class="even">
@@ -1634,7 +1583,7 @@ Team BII副隊長</p></td>
 <td><p>2017年9月27日</p></td>
 <td><p>M</p></td>
 <td><p>Showtitle</p></td>
-<td><p>當日畢業公演[73]</p></td>
+<td><p>當日畢業公演[76]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1646,7 +1595,7 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td><p>-</p></td>
 <td><p>原藤江Team M<br />
-12月19日畢業公演[74][75]</p></td>
+12月19日畢業公演[77][78]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1657,7 +1606,7 @@ Team BII副隊長</p></td>
 <td><p>2018年3月27日</p></td>
 <td><p>N</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[76]</p></td>
+<td><p>當日畢業公演[79]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1670,7 +1619,7 @@ Team BII副隊長</p></td>
 <td></td>
 <td><p>曾兼任AKB48 Team A<br />
 原初代・藤江Team M<br />
-當日畢業公演[77]</p></td>
+當日畢業公演[80]</p></td>
 <td><p>33</p></td>
 </tr>
 <tr class="even">
@@ -1686,7 +1635,7 @@ Team BII副隊長</p></td>
 原AKB48 初代Team 4<br />
 原兼任梅田Team B<br />
 原上枝Team BII<br />
-當日畢業公演[78][79]</p></td>
+當日畢業公演[81][82]</p></td>
 <td><p>39</p></td>
 </tr>
 <tr class="odd">
@@ -1697,8 +1646,8 @@ Team BII副隊長</p></td>
 <td><p>2018年5月2日</p></td>
 <td><p>M</p></td>
 <td><p>Showtitle</p></td>
-<td><p>當日畢業公演[80]<br />
-妹妹是中野美來[81]</p></td>
+<td><p>當日畢業公演[83]<br />
+妹妹是中野美來[84]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1724,7 +1673,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td><p>原Team BII副隊長<br />
 原初代・藤江Team M<br />
-當日畢業公演[82]</p></td>
+當日畢業公演[85]</p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="even">
@@ -1739,7 +1688,7 @@ Team BII副隊長</p></td>
 原NMB48總隊長<br />
 曾兼任AKB48 Team K<br />
 原為女子搖滾樂團<a href="../Page/MAD_CATZ.md" title="wikilink">MAD CATZ主唱兼</a><a href="https://zh.wikipedia.org/wiki/吉他手" title="wikilink">吉他手</a><br />
-當日畢業公演[83]</p></td>
+當日畢業公演[86]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
@@ -1752,7 +1701,7 @@ Team BII副隊長</p></td>
 <td><p>BII</p></td>
 <td><p>-</p></td>
 <td><p>原藤江Team M<br />
-請辭[84]</p></td>
+請辭[87]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1765,7 +1714,7 @@ Team BII副隊長</p></td>
 <td><p>2019年1月28日</p></td>
 <td><p>-</p></td>
 <td><p>原初代・上枝Team BII<br />
-當日畢業公演[85]</p></td>
+當日畢業公演[88]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1777,7 +1726,7 @@ Team BII副隊長</p></td>
 <td><p>2019年2月24日</p></td>
 <td><p>-</p></td>
 <td><p>原上枝Team BII<br />
-2月12日畢業公演[86]</p></td>
+2月12日畢業公演[89]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1788,7 +1737,7 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td><p>Showtitle</p></td>
 <td><p>原初代・藤江Team M<br />
-2月18日畢業公演[87]</p></td>
+2月18日畢業公演[90]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1800,20 +1749,20 @@ Team BII副隊長</p></td>
 <td><p>M</p></td>
 <td><p>2019年4月14日</p></td>
 <td><p>-</p></td>
-<td><p>4月12日畢業公演[88][89]</p></td>
+<td><p>4月12日畢業公演[91][92]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/城惠理子.md" title="wikilink">城惠理子</a></p></td>
 <td></td>
 <td></td>
-<td><p>4.5期[90]</p></td>
+<td><p>4.5期[93]</p></td>
 <td><p>BII</p></td>
 <td><p>2019年5月11日</p></td>
 <td><p>-</p></td>
 <td><p>原初代Team M<br />
 原山本Team N<br />
-5月4日畢業公演[91][92]</p></td>
+5月4日畢業公演[94][95]</p></td>
 <td><p>79</p></td>
 </tr>
 <tr class="odd">
@@ -1929,7 +1878,7 @@ Team BII副隊長</p></td>
 <td><p>2012年10月11日</p></td>
 <td><p>-</p></td>
 <td><p>因专注学業辞退<br />
-当日官方部落格發表[93]</p></td>
+当日官方部落格發表[96]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2009,7 +1958,7 @@ Team BII副隊長</p></td>
 <td><p>2期</p></td>
 <td><p>2014年3月15日</p></td>
 <td><p>-</p></td>
-<td><p>3月13日畢業公演[94]</p></td>
+<td><p>3月13日畢業公演[97]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2018,7 +1967,7 @@ Team BII副隊長</p></td>
 <td></td>
 <td><p>4期</p></td>
 <td><p>-</p></td>
-<td><p>3月14日畢業公演[95]</p></td>
+<td><p>3月14日畢業公演[98]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -2030,7 +1979,7 @@ Team BII副隊長</p></td>
 <td><p>2014年7月19日</p></td>
 <td><p>-</p></td>
 <td><p>是<a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46成员</a><a href="https://zh.wikipedia.org/wiki/西野七濑" title="wikilink">西野七濑的表妹</a><br />
-當日畢業公演[96]</p></td>
+當日畢業公演[99]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2056,7 +2005,7 @@ Team BII副隊長</p></td>
 <td><p>Showtitle</p></td>
 <td><p>第二屆選秀會議Team N第二輪指名<br />
 Team M研究生<br />
-當日畢業公演[97]</p></td>
+當日畢業公演[100]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2068,7 +2017,7 @@ Team M研究生<br />
 <td><p>2019年6月30日</p></td>
 <td><p>-</p></td>
 <td><p>第三屆選秀會議Team M第五輪指名<br />
-當日畢業公演[98]</p></td>
+當日畢業公演[101]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -3714,6 +3663,35 @@ Team BII研究生清水里香、上西怜、中川美音、水田詩織升格</p
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1月1日</p></td>
+<td><p>河野奈奈帆</p></td>
+<td><p>選秀3期</p></td>
+<td><p>N</p></td>
+<td><p>NMB48選秀3期生首位昇格者<br />
+2019年3月1日正式編入所屬隊伍</p></td>
+</tr>
+<tr class="odd">
+<td><p>鹽月希依音</p></td>
+<td><p>BII</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>山本望叶</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -3749,7 +3727,7 @@ Team BII研究生清水里香、上西怜、中川美音、水田詩織升格</p
 </tr>
 <tr class="even">
 <td><p>上枝惠美加</p></td>
-<td><p>Team BII成立，上枝惠美加就任隊長[99]</p></td>
+<td><p>Team BII成立，上枝惠美加就任隊長[102]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3767,13 +3745,13 @@ Team BII研究生清水里香、上西怜、中川美音、水田詩織升格</p
 </tr>
 <tr class="odd">
 <td><p>藤江麗奈</p></td>
-<td><p>山田菜菜畢業並指名藤江麗奈接任[100]</p></td>
+<td><p>山田菜菜畢業並指名藤江麗奈接任[103]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>井尻晏菜</p></td>
-<td><p>梅田彩佳畢業並指名井尻晏菜接任[101]</p></td>
+<td><p>梅田彩佳畢業並指名井尻晏菜接任[104]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3882,7 +3860,7 @@ CD</p></td>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2012年5月9日</p></td>
-<td><p><strong><a href="../Page/海岸邊最可愛的女孩！.md" title="wikilink">海岸邊最可愛的女孩！</a></strong>[102]<br />
+<td><p><strong><a href="../Page/海岸邊最可愛的女孩！.md" title="wikilink">海岸邊最可愛的女孩！</a></strong>[105]<br />
 （）</p></td>
 <td><p>2</p></td>
 <td><center>
@@ -3898,7 +3876,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>2012年8月8日</p></td>
-<td><p><strong><a href="../Page/Virginity.md" title="wikilink">Virginity</a></strong>[103]<br />
+<td><p><strong><a href="../Page/Virginity.md" title="wikilink">Virginity</a></strong>[106]<br />
 （）</p></td>
 <td><p>1</p></td>
 <td><center>
@@ -4153,7 +4131,7 @@ CD</p></td>
 <td><p>2014年6月21日</p></td>
 <td><p><strong><a href="../Page/伊維薩女孩.md" title="wikilink">伊維薩女孩</a></strong><br />
 （）</p></td>
-<td><p>原定做为第十张单曲发行[104]<br />
+<td><p>原定做为第十张单曲发行[107]<br />
 收錄於NMB48第二張專輯《世界的中心是大阪～難波自治區～》</p></td>
 </tr>
 </tbody>
@@ -4219,7 +4197,7 @@ JAPAN<br />
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2014年8月13日</p></td>
-<td><p><strong><a href="../Page/世界的中心是大阪_～難波自治區～.md" title="wikilink">世界的中心是大阪 ～難波自治區～</a></strong>[105]<br />
+<td><p><strong><a href="../Page/世界的中心是大阪_～難波自治區～.md" title="wikilink">世界的中心是大阪 ～難波自治區～</a></strong>[108]<br />
 （）</p></td>
 <td><center>
 <p>1</p>
@@ -4247,7 +4225,7 @@ CD</p></td>
 </center></td>
 <td><p>159,387張</p></td>
 <td><p>203,303張</p></td>
-<td><p>214,316張[106]</p></td>
+<td><p>214,316張[109]</p></td>
 </tr>
 </tbody>
 </table>
@@ -5334,38 +5312,27 @@ CM：ジャンボカラオケ広場<br />
 
 #### 現在定期節目
 
-  - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")（2011年2月2日
-    - 不定期出演、[日本電視台](../Page/日本電視台.md "wikilink")）
+  - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")（2011年2月2日 - 不定期出演、[日本電視台](../Page/日本電視台.md "wikilink")）
 
-  - [AKB和××\!](../Page/AKB和××!.md "wikilink")（2011年3月24日 -
-    、[讀賣電視台](../Page/讀賣電視台.md "wikilink")）※4月21日是山本彩・渡邊・與儀・木下春\[107\]
+  - [AKB和××\!](../Page/AKB和××!.md "wikilink")（2011年3月24日 - 、[讀賣電視台](../Page/讀賣電視台.md "wikilink")）※4月21日是山本彩・渡邊・與儀・木下春\[110\]
 
   - [週六不行喲！](../Page/週六不行喲！.md "wikilink")（，2011年4月16日 - ，讀賣電視台）※隔週定期
 
-  - [NMB和學習君](../Page/NMB和學習君.md "wikilink")（，2013年4月11日
-    -，[關西電視台](../Page/關西電視台.md "wikilink")）
+  - [NMB和學習君](../Page/NMB和學習君.md "wikilink")（，2013年4月11日 -，[關西電視台](../Page/關西電視台.md "wikilink")）
 
-  - [湯婆](https://zh.wikipedia.org/wiki/湯婆_\(電視節目\) "wikilink")（，2013年4月12日
-    -
-    ，[山陽放送](https://zh.wikipedia.org/wiki/山陽放送 "wikilink")）：由高野祐衣與村瀬紗英共同主持「Yuipon與Saepi的不得了諮詢室」（）單元。
+  - [湯婆](https://zh.wikipedia.org/wiki/湯婆_\(電視節目\) "wikilink")（，2013年4月12日 - ，[山陽放送](https://zh.wikipedia.org/wiki/山陽放送 "wikilink")）：由高野祐衣與村瀬紗英共同主持「Yuipon與Saepi的不得了諮詢室」（）單元。
 
   - （2013年7月1日 - 、）※半月更新
 
-  - （2013年7月2日 -
-    、[岡山放送](https://zh.wikipedia.org/wiki/岡山放送 "wikilink")）※高野、村瀬交代出演。週二～週四的環節出演
+  - （2013年7月2日 - 、[岡山放送](https://zh.wikipedia.org/wiki/岡山放送 "wikilink")）※高野、村瀬交代出演。週二～週四的環節出演
 
-  - （2013年10月4日 -
-    、[讀賣電視台](../Page/讀賣電視台.md "wikilink")）※[日本電視台在](../Page/日本電視台.md "wikilink")10月3日
-    - 、山田、山本彩交換出演。
+  - （2013年10月4日 - 、[讀賣電視台](../Page/讀賣電視台.md "wikilink")）※[日本電視台](../Page/日本電視台.md "wikilink")在10月3日 - 、山田、山本彩交換出演。
 
-  - [AKB48 SHOW\!](../Page/AKB48_SHOW!.md "wikilink")（2013年10月5日 -
-    不定期出演、[NHK BS
-    Premium](../Page/NHK_BS_Premium.md "wikilink")）
+  - [AKB48 SHOW\!](../Page/AKB48_SHOW!.md "wikilink")（2013年10月5日 - 不定期出演、[NHK BS Premium](../Page/NHK_BS_Premium.md "wikilink")）
 
   - （2013年11月30日 - 、Space shower TV+）※山本彩+每月2 - 3人
 
-  - ミラクルマジカル宣伝部（2014年4月18日 -
-    、[中国放送](https://zh.wikipedia.org/wiki/中国放送 "wikilink")）※沖田+其他成員1人
+  - ミラクルマジカル宣伝部（2014年4月18日 - 、[中国放送](https://zh.wikipedia.org/wiki/中国放送 "wikilink")）※沖田+其他成員1人
 
   - IDOL REVUE『』（2014年4月23日 - 、）
 
@@ -5373,73 +5340,49 @@ CM：ジャンボカラオケ広場<br />
 
 #### 過去定期節目
 
-  - [明星尋找太郎](../Page/明星尋找太郎.md "wikilink")（2010年9月11日 -
-    2011年9月24日、[東京電視台](../Page/東京電視台.md "wikilink")）\[108\]
+  - [明星尋找太郎](../Page/明星尋找太郎.md "wikilink")（2010年9月11日 - 2011年9月24日、[東京電視台](../Page/東京電視台.md "wikilink")）\[111\]
 
-  - [真夜中爆料](../Page/真夜中爆料.md "wikilink")（2011年4月12日 -
-    5月26日、[MBS電視台](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")）※定期（每日替換1名）
+  - [真夜中爆料](../Page/真夜中爆料.md "wikilink")（2011年4月12日 - 5月26日、[MBS電視台](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")）※定期（每日替換1名）
 
-  - [原來如此！高校](../Page/原來如此！高校.md "wikilink")（2011年4月21日 -
-    2012年3月8日、日本電視台） - 山本彩・渡邊
+  - [原來如此！高校](../Page/原來如此！高校.md "wikilink")（2011年4月21日 - 2012年3月8日、日本電視台） - 山本彩・渡邊
 
-  - （2011年5月31日 -
-    9月30日、[MBS電視台](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")）※定期（每日替換1名）
+  - （2011年5月31日 - 9月30日、[MBS電視台](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")）※定期（每日替換1名）
 
-  - [The獵人](../Page/The獵人.md "wikilink")（2011年7月15日 -
-    10月28日、讀賣電視台）※定期（每週替換1名）
+  - [The獵人](../Page/The獵人.md "wikilink")（2011年7月15日 - 10月28日、讀賣電視台）※定期（每週替換1名）
 
-  - [難波撫子](../Page/難波撫子.md "wikilink")（2011年7月12日 - 12月28日、日本電視台） -
-    出席成員在Team N中的六至七名
+  - [難波撫子](../Page/難波撫子.md "wikilink")（2011年7月12日 - 12月28日、日本電視台） - 出席成員在Team N中的六至七名
 
-  - [腦力運動員](../Page/腦力運動員.md "wikilink")（2012年4月1日 -
-    6月3日全9回、日本電視台）※福本・山田・山本彩・渡辺
+  - [腦力運動員](../Page/腦力運動員.md "wikilink")（2012年4月1日 - 6月3日全9回、日本電視台）※福本・山田・山本彩・渡辺
 
-  - （2012年4月23日 -
-    9月17日、[關西電視台](../Page/關西電視台.md "wikilink")）※小笠原・岸野・木下春交替2名出演
+  - （2012年4月23日 - 9月17日、[關西電視台](../Page/關西電視台.md "wikilink")）※小笠原・岸野・木下春交替2名出演
 
-  - [NMB48
-    藝人\!](https://zh.wikipedia.org/wiki/NMB48_藝人! "wikilink")（2012年7月3日
-    -
-    9月25日，日本電視台）：小笠原茉由、城惠理子、福本愛菜、山本彩、山田奈奈、渡邊美優紀為固定演出成員，每集中另有1至3名其他NMB48成員不固定參與。
+  - [NMB48 藝人\!](https://zh.wikipedia.org/wiki/NMB48_藝人! "wikilink")（2012年7月3日 - 9月25日，日本電視台）：小笠原茉由、城惠理子、福本愛菜、山本彩、山田奈奈、渡邊美優紀為固定演出成員，每集中另有1至3名其他NMB48成員不固定參與。
 
   - （2012年10月4日 - 12月27日、讀賣電視台）※上西（飾菅原 美佐）
 
-  - [docking48](https://zh.wikipedia.org/wiki/docking48 "wikilink")（2011年4月19日
-    - 2013年3月26日、關西電視台） - 最新的選抜16人
+  - [docking48](https://zh.wikipedia.org/wiki/docking48 "wikilink")（2011年4月19日 - 2013年3月26日、關西電視台） - 最新的選抜16人
 
-  - [Aruaru YY電視](../Page/Aruaru_YY電視.md "wikilink")（2012年4月24日 -
-    2013年3月26日、[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")）※星期二定期、每回交替2名出演
+  - [Aruaru YY電視](../Page/Aruaru_YY電視.md "wikilink")（2012年4月24日 - 2013年3月26日、[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")）※星期二定期、每回交替2名出演
 
-  - [熱血\!人情派喜劇Shakariki駐在先生](../Page/熱血!人情派喜劇Shakariki駐在先生.md "wikilink")（2012年4月8日
-    - 2013年3月31日、ABC電視台）※福本・高野
+  - [熱血\!人情派喜劇Shakariki駐在先生](../Page/熱血!人情派喜劇Shakariki駐在先生.md "wikilink")（2012年4月8日 - 2013年3月31日、ABC電視台）※福本・高野
 
-  - [NMB48
-    藝人\!\!2](https://zh.wikipedia.org/wiki/NMB48_藝人! "wikilink")（，2013年4月3日
-    - 6月19日，日本電視台）：小笠原・小谷・山本彩・山田・横山・渡辺定期演出，除此之外每集都有其他NMB48的成員不定期參與。
+  - [NMB48 藝人\!\!2](https://zh.wikipedia.org/wiki/NMB48_藝人! "wikilink")（，2013年4月3日 - 6月19日，日本電視台）：小笠原・小谷・山本彩・山田・横山・渡辺定期演出，除此之外每集都有其他NMB48的成員不定期參與。
 
-  - （，2012年12月9日 -
-    2013年9月8日，[富士電視台](../Page/富士電視台.md "wikilink")）：AKB48刑警不在時，會由NMB48刑警不定期出演
+  - （，2012年12月9日 - 2013年9月8日，[富士電視台](../Page/富士電視台.md "wikilink")）：AKB48刑警不在時，會由NMB48刑警不定期出演
 
-  - [Shibuya Deep A](../Page/Shibuya_Deep_A.md "wikilink")（2011年2月3日 -
-    不定期出演、[NHK･G](../Page/NHK綜合頻道.md "wikilink")）福本・山田・山本彩・渡辺。※深夜直播，18歳以上的成員出演。
+  - [Shibuya Deep A](../Page/Shibuya_Deep_A.md "wikilink")（2011年2月3日 - 不定期出演、[NHK･G](../Page/NHK綜合頻道.md "wikilink")）福本・山田・山本彩・渡辺。※深夜直播，18歳以上的成員出演。
 
   - [AKB映像中心](../Page/AKB映像中心.md "wikilink")（2013年9月1日 - 不定期出演、富士電視台）
 
-  - （2013年5月10日 -
-    2014年3月14日、[中国放送](https://zh.wikipedia.org/wiki/中国放送 "wikilink")）
+  - （2013年5月10日 - 2014年3月14日、[中国放送](https://zh.wikipedia.org/wiki/中国放送 "wikilink")）
 
-  - （2013年6月6日 -
-    2014年3月18日、[讀賣電視台](../Page/讀賣電視台.md "wikilink")）※月1放送。近藤・木下百定期出演。
+  - （2013年6月6日 - 2014年3月18日、[讀賣電視台](../Page/讀賣電視台.md "wikilink")）※月1放送。近藤・木下百定期出演。
 
-  - [早安是朝日](https://zh.wikipedia.org/wiki/早安是朝日 "wikilink")（2011年3月22日 -
-    2014年3月25日、[ABC電視台](https://zh.wikipedia.org/wiki/ABC電視台 "wikilink")）※2013年3月26日開始星期二定期（山田+每週交替2人）、2013年4月開始每月1回出演（山田）。
+  - [早安是朝日](https://zh.wikipedia.org/wiki/早安是朝日 "wikilink")（2011年3月22日 - 2014年3月25日、[ABC電視台](https://zh.wikipedia.org/wiki/ABC電視台 "wikilink")）※2013年3月26日開始星期二定期（山田+每週交替2人）、2013年4月開始每月1回出演（山田）。
 
-  - [Black Million](../Page/Black_Million.md "wikilink")（2013年4月6日 -
-    2014年3月29日、[東京電視台](../Page/東京電視台.md "wikilink")）
+  - [Black Million](../Page/Black_Million.md "wikilink")（2013年4月6日 - 2014年3月29日、[東京電視台](../Page/東京電視台.md "wikilink")）
 
-  - [NMB48
-    藝人\!\!\!3](https://zh.wikipedia.org/wiki/NMB48_藝人! "wikilink")（2014年7月4日
-    - 9月19日、日本電視台）
+  - [NMB48 藝人\!\!\!3](https://zh.wikipedia.org/wiki/NMB48_藝人! "wikilink")（2014年7月4日 - 9月19日、日本電視台）
 
 ### 其他、特別節目
 
@@ -5447,48 +5390,39 @@ CM：ジャンボカラオケ広場<br />
 
   - （2011年7月8日、ABC電視台）
 
-  - 名人帶路
-    NMB48-山田菜菜、福本愛菜、渡邊美優紀、小笠原茉由（2011年12月24日-12月25日、[東風衛視](../Page/東風衛視.md "wikilink")）
+  - 名人帶路 NMB48-山田菜菜、福本愛菜、渡邊美優紀、小笠原茉由（2011年12月24日-12月25日、[東風衛視](../Page/東風衛視.md "wikilink")）
 
   - （2012年1月8日、2013年1月6日、讀賣電視台）
 
-  - 河野早紀（2013年6月11日、ABC電視台\[109\]）
+  - 河野早紀（2013年6月11日、ABC電視台\[112\]）
 
-  - 河野早紀（2013年10月、ABC電視台制作、[朝日電視台系列各電視台播放](https://zh.wikipedia.org/wiki/All-nippon_News_Network "wikilink")\[110\]\[111\]）
+  - 河野早紀（2013年10月、ABC電視台制作、[朝日電視台系列各電視台播放](https://zh.wikipedia.org/wiki/All-nippon_News_Network "wikilink")\[113\]\[114\]）
 
-  - 旅行心台灣
-    NMB48-山田菜菜、三田麻央、矢倉楓子（2013年12月10日、[東風衛視](../Page/東風衛視.md "wikilink")）
+  - 旅行心台灣 NMB48-山田菜菜、三田麻央、矢倉楓子（2013年12月10日、[東風衛視](../Page/東風衛視.md "wikilink")）
 
-  - [第64回NHK紅白歌合戰](../Page/第64回NHK紅白歌合戰.md "wikilink")（2013年12月31日、NHK綜合）
-    - 單独出場
+  - [第64回NHK紅白歌合戰](../Page/第64回NHK紅白歌合戰.md "wikilink")（2013年12月31日、NHK綜合） - 單独出場
 
 ### 電影
 
-  - [NMB48 藝人\!THE MOVIE
-    搞笑青春女孩！](https://zh.wikipedia.org/wiki/NMB48_藝人!#劇場版 "wikilink")（2013年8月1日）監督：内田秀実　主要成員：小笠原、小谷、山田、山本彩、横山、渡辺\[112\]\[113\]
+  - [NMB48 藝人\!THE MOVIE 搞笑青春女孩！](https://zh.wikipedia.org/wiki/NMB48_藝人!#劇場版 "wikilink")（2013年8月1日）監督：内田秀実　主要成員：小笠原、小谷、山田、山本彩、横山、渡辺\[115\]\[116\]
 
-  - （2013年3月24日）監督：谷口仁則　※川上禮奈參與演出\[114\]
+  - （2013年3月24日）監督：谷口仁則　※川上禮奈參與演出\[117\]
 
-  - NMB48 藝人\!THE MOVIE Returns～畢業！搞笑青春女孩！！向全新啟程～（2014年7月25日預定上映\[115\]）
+  - NMB48 藝人\!THE MOVIE Returns～畢業！搞笑青春女孩！！向全新啟程～（2014年7月25日預定上映\[118\]）
 
 ### 電台
 
 #### 現在定期節目
 
-  - [集合\!MUSIC
-    COASTER](https://zh.wikipedia.org/wiki/集合!MUSIC_COASTER "wikilink")（2011年4月4日
-    -
-    、[FM大阪](https://zh.wikipedia.org/wiki/FM大阪 "wikilink")）※番組内環節「NMB48のりっすんぷりーず\!」担当（成員每週替換3名）
+  - [集合\!MUSIC COASTER](https://zh.wikipedia.org/wiki/集合!MUSIC_COASTER "wikilink")（2011年4月4日 - 、[FM大阪](https://zh.wikipedia.org/wiki/FM大阪 "wikilink")）※番組内環節「NMB48のりっすんぷりーず\!」担当（成員每週替換3名）
 
-  - （2011年4月6日 -
-    、[MBS廣播](https://zh.wikipedia.org/wiki/MBS廣播 "wikilink")）※下記的環節担当
+  - （2011年4月6日 - 、[MBS廣播](https://zh.wikipedia.org/wiki/MBS廣播 "wikilink")）※下記的環節担当
 
       - （2011年4月6日 - 10月19日的星期三、成員3人出演、每週取代1人）
 
       - （2011年10月24日 -） - 渡辺・福本。特別版的嘉賓以及福本・渡辺不在時由其他的成員出演。
 
-  - [NMB48学園](https://zh.wikipedia.org/wiki/NMB48学園 "wikilink")（2011年4月9日
-    - 、[ABC廣播](https://zh.wikipedia.org/wiki/ABC廣播 "wikilink")）- 山田・山本彩
+  - [NMB48学園](https://zh.wikipedia.org/wiki/NMB48学園 "wikilink")（2011年4月9日 - 、[ABC廣播](https://zh.wikipedia.org/wiki/ABC廣播 "wikilink")）- 山田・山本彩
 
       - 〜教我吧千鳥先生〜（2011年4月9日 - 2012年3月31日）
       - 〜這裡是怪物引擎組〜（2012年4月7日 - ）
@@ -5499,9 +5433,7 @@ CM：ジャンボカラオケ広場<br />
 
       - （2011年10月3日 - 、節目内環節）- MC（小谷・近藤・上西）1人+其他的成員每週取代嘉賓2人
 
-  - （2012年8月6日 -
-    、[YES-FM](https://zh.wikipedia.org/wiki/YES-FM "wikilink")） -
-    星期一-星期三担当。各日嘉賓成員1名
+  - （2012年8月6日 - 、[YES-FM](https://zh.wikipedia.org/wiki/YES-FM "wikilink")） - 星期一-星期三担当。各日嘉賓成員1名
 
       - 星期一 - 梅原・黒川
       - 星期二 - 日下・小林莉
@@ -5509,17 +5441,13 @@ CM：ジャンボカラオケ広場<br />
 
   - （2013年4月6日 - 、[關西廣播](https://zh.wikipedia.org/wiki/關西廣播 "wikilink")）
 
-  - （2013年4月7日 -
-    、[岡山FM放送](https://zh.wikipedia.org/wiki/岡山FM放送 "wikilink")）高野・村瀬
+  - （2013年4月7日 - 、[岡山FM放送](https://zh.wikipedia.org/wiki/岡山FM放送 "wikilink")）高野・村瀬
 
-  - （2013年4月9日 -
-    、[FM滋賀](https://zh.wikipedia.org/wiki/FM滋賀 "wikilink")）※第二、四星期二
+  - （2013年4月9日 - 、[FM滋賀](https://zh.wikipedia.org/wiki/FM滋賀 "wikilink")）※第二、四星期二
 
-  - （2013年4月28日 -
-    、[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM放送 "wikilink")）※成員3人出演
+  - （2013年4月28日 - 、[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM放送 "wikilink")）※成員3人出演
 
-  - （2013年2月28日 - 不定期出演
-    、[廣島FM](https://zh.wikipedia.org/wiki/廣島FM "wikilink")）※沖田+其他成員1人
+  - （2013年2月28日 - 不定期出演 、[廣島FM](https://zh.wikipedia.org/wiki/廣島FM "wikilink")）※沖田+其他成員1人
 
 #### 單發節目
 
@@ -5536,94 +5464,52 @@ CM：ジャンボカラオケ広場<br />
 
   - NMB48之（2012年8月2日、日本放送） - 小笠原・福本・山田・山本彩・渡辺
   - 第32回(MBS廣播) - 赤澤、太田、小林莉、久代
-  - [Listen? 〜Live 4
-    Life〜](https://zh.wikipedia.org/wiki/Listen?_〜Live_4_Life〜 "wikilink")（2014年3月26日、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")）
-    - 上西・岸野
+  - [Listen? 〜Live 4 Life〜](https://zh.wikipedia.org/wiki/Listen?_〜Live_4_Life〜 "wikilink")（2014年3月26日、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")） - 上西・岸野
 
 ### 演唱會
 
 **單独**
 
   - NMB48演唱會巡回 〜大阪十番勝負〜（2012年4月19日 - 5月31日、大阪府內8市9所在10日間11公演） - Team N
-      - NMB48演唱會巡回『大阪十番勝負〜番外編』（2012年5月14日、TOKYO DOME CITY HALL） - Team
-        N\[116\]
-  - NMB48近畿演唱會巡回 （2012年7月18日 - 8月21日、近畿2府4縣6所6日間7公演）\[117\]
-  - [NMB48西日本演唱會巡回2013
-    12月31日〜還有◯◯◯日〜](https://zh.wikipedia.org/wiki/NMB48西日本演唱會巡回2013_12月31日〜還有◯◯◯日〜 "wikilink")（2013年3月4日
-    -
-    4月5日、[西日本](https://zh.wikipedia.org/wiki/西日本 "wikilink")1府7縣8所8日間公演）\[118\]
-  - [NMB48 重温时间 最佳曲目30
-    2013](https://zh.wikipedia.org/wiki/NMB48_重温时间_最佳曲目30_2013 "wikilink")（2013年4月18日、ORIX剧场）\[119\]。
-  - NMB48東日本演唱會巡回2013 12月31日〜還有◯◯◯日〜（2013年6月11日 -
-    7月3日、[東日本](https://zh.wikipedia.org/wiki/東日本 "wikilink")1都7縣8所8日間公演）\[120\]\[121\]
-  - NMB48 3rd Anniversary Special Live（2013年10月12日 -
-    13日、[大阪城Hall](https://zh.wikipedia.org/wiki/大阪城Hall "wikilink")）\[122\]
-  - NMB48 TeamM大阪巡回2014〜ベンチ温めてました〜（2014年2月25日 -
-    2014年3月20日、大阪府下6市6所7日間公演） - Team
-    M\[123\]
-  - [NMB48 重温时间 最佳曲目50
-    2014](https://zh.wikipedia.org/wiki/NMB48_重温时间_最佳曲目50_2014 "wikilink")（2013年4月18日、ORIX剧场）
-  - NMB48 Tour 2014 In Summer 世界的中心是大阪〜難波自治區〜（2014年7月9日 -
-    9月29日、1都9縣10所12日間公演）\[124\]\[125\]
-  - NMB48 4th Anniversary Live（2014年10月14日 -
-    16日、[グランキューブ大阪メインホール](https://zh.wikipedia.org/wiki/大阪府立国際会議場 "wikilink")）
+      - NMB48演唱會巡回『大阪十番勝負〜番外編』（2012年5月14日、TOKYO DOME CITY HALL） - Team N\[119\]
+  - NMB48近畿演唱會巡回 （2012年7月18日 - 8月21日、近畿2府4縣6所6日間7公演）\[120\]
+  - [NMB48西日本演唱會巡回2013 12月31日〜還有◯◯◯日〜](https://zh.wikipedia.org/wiki/NMB48西日本演唱會巡回2013_12月31日〜還有◯◯◯日〜 "wikilink")（2013年3月4日 - 4月5日、[西日本](https://zh.wikipedia.org/wiki/西日本 "wikilink")1府7縣8所8日間公演）\[121\]
+  - [NMB48 重温时间 最佳曲目30 2013](https://zh.wikipedia.org/wiki/NMB48_重温时间_最佳曲目30_2013 "wikilink")（2013年4月18日、ORIX剧场）\[122\]。
+  - NMB48東日本演唱會巡回2013 12月31日〜還有◯◯◯日〜（2013年6月11日 - 7月3日、[東日本](https://zh.wikipedia.org/wiki/東日本 "wikilink")1都7縣8所8日間公演）\[123\]\[124\]
+  - NMB48 3rd Anniversary Special Live（2013年10月12日 - 13日、[大阪城Hall](https://zh.wikipedia.org/wiki/大阪城Hall "wikilink")）\[125\]
+  - NMB48 TeamM大阪巡回2014〜ベンチ温めてました〜（2014年2月25日 - 2014年3月20日、大阪府下6市6所7日間公演） - Team M\[126\]
+  - [NMB48 重温时间 最佳曲目50 2014](https://zh.wikipedia.org/wiki/NMB48_重温时间_最佳曲目50_2014 "wikilink")（2013年4月18日、ORIX剧场）
+  - NMB48 Tour 2014 In Summer 世界的中心是大阪〜難波自治區〜（2014年7月9日 - 9月29日、1都9縣10所12日間公演）\[127\]\[128\]
+  - NMB48 4th Anniversary Live（2014年10月14日 - 16日、[グランキューブ大阪メインホール](https://zh.wikipedia.org/wiki/大阪府立国際会議場 "wikilink")）
 
 #### NMB48重温时间 最佳曲目
 
 2013年開始舉行。2013年在4月舉行全30曲、2014年在5月舉行全50曲。以NMB48名義的歌曲和NMB48的劇場公演使用的公演曲為對象投票人氣最高的50首歌曲，與AKB48同様每日25首歌曲，分2日來發表的演唱活動。歴代的最佳3首歌曲・舉行概要為以下。
 
-  - 2013年 [NMB48 重溫時間 最佳曲目30
-    2013](../Page/NMB48_重溫時間_最佳曲目30_2013.md "wikilink")
-    - 1.「[結晶](../Page/Oh_My_God!.md "wikilink")」,
-    2.「[青春的單圈時間](../Page/絕滅黑髮少女.md "wikilink")」,
-    3.「[攀爬架](../Page/純情U-19.md "wikilink")」（
-    2013年4月18日、[オリックス劇場](https://zh.wikipedia.org/wiki/オリックス劇場 "wikilink")）\[126\]
-  - 2014年 [NMB48 重溫時間 最佳曲目50
-    2014](../Page/NMB48_重溫時間_最佳曲目50_2014.md "wikilink")
-    - 1.「[杏仁羊角麵包計劃](https://zh.wikipedia.org/wiki/尖端頂點之上! "wikilink")」,
-    2.「[拉鏈](../Page/Team_N_3rd_Stage「天使在這裡」.md "wikilink")」,
-    3.「[去爬山吧](../Page/高山上的蘋果.md "wikilink")」 （2014年5月21日 -
-    22日、[オリックス劇場](https://zh.wikipedia.org/wiki/オリックス劇場 "wikilink")）\[127\]
+  - 2013年 [NMB48 重溫時間 最佳曲目30 2013](../Page/NMB48_重溫時間_最佳曲目30_2013.md "wikilink") - 1.「[結晶](../Page/Oh_My_God!.md "wikilink")」, 2.「[青春的單圈時間](../Page/絕滅黑髮少女.md "wikilink")」, 3.「[攀爬架](../Page/純情U-19.md "wikilink")」（ 2013年4月18日、[オリックス劇場](https://zh.wikipedia.org/wiki/オリックス劇場 "wikilink")）\[129\]
+  - 2014年 [NMB48 重溫時間 最佳曲目50 2014](../Page/NMB48_重溫時間_最佳曲目50_2014.md "wikilink") - 1.「[杏仁羊角麵包計劃](https://zh.wikipedia.org/wiki/尖端頂點之上! "wikilink")」, 2.「[拉鏈](../Page/Team_N_3rd_Stage「天使在這裡」.md "wikilink")」, 3.「[去爬山吧](../Page/高山上的蘋果.md "wikilink")」 （2014年5月21日 - 22日、[オリックス劇場](https://zh.wikipedia.org/wiki/オリックス劇場 "wikilink")）\[130\]
 
 #### AKB48名義
 
-  - （2010年10月17日、[神戶国際会館大廳](https://zh.wikipedia.org/wiki/神戶国際会館 "wikilink")\]）
-    - 25人
+  - （2010年10月17日、[神戶国際会館大廳](https://zh.wikipedia.org/wiki/神戶国際会館 "wikilink")\]） - 25人
 
-  - [AKB48 重温时间 最佳曲目100
-    2011](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100_2011 "wikilink")
-    （2011年1月22日、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")） -
-    公演出演成員16人
+  - [AKB48 重温时间 最佳曲目100 2011](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100_2011 "wikilink") （2011年1月22日、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")） - 公演出演成員16人
 
-  - [AKB48 好嘞～出發嘍～！in
-    西武巨蛋](https://zh.wikipedia.org/wiki/AKB48_好嘞～出發嘍～！in_西武巨蛋 "wikilink")（2011年7月22日
-    - 24日、[西武巨蛋](../Page/西武巨蛋.md "wikilink")）
+  - [AKB48 好嘞～出發嘍～！in 西武巨蛋](https://zh.wikipedia.org/wiki/AKB48_好嘞～出發嘍～！in_西武巨蛋 "wikilink")（2011年7月22日 - 24日、[西武巨蛋](../Page/西武巨蛋.md "wikilink")）
 
-  - [AKB48 重温时间 最佳曲目100
-    2012](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100_2012 "wikilink")
-    （2012年1月22日、[TOKYO DOME CITY
-    HALL](https://zh.wikipedia.org/wiki/MEETS_PORT#TOKYO_DOME_CITY_HALL "wikilink")）
-    - 「絶滅黒髪少女」及「Oh my god！」選抜成员20人
+  - [AKB48 重温时间 最佳曲目100 2012](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100_2012 "wikilink") （2012年1月22日、[TOKYO DOME CITY HALL](https://zh.wikipedia.org/wiki/MEETS_PORT#TOKYO_DOME_CITY_HALL "wikilink")） - 「絶滅黒髪少女」及「Oh my god！」選抜成员20人
 
-  - [业务连络。拜托了，片山部长！
-    in埼玉超级竞技场](https://zh.wikipedia.org/wiki/业务连络。拜托了，片山部长！_in埼玉超级竞技场 "wikilink")（2012年3月23日
-    - 25日、[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")）
+  - [业务连络。拜托了，片山部长！ in埼玉超级竞技场](https://zh.wikipedia.org/wiki/业务连络。拜托了，片山部长！_in埼玉超级竞技场 "wikilink")（2012年3月23日 - 25日、[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")）
 
-  - [AKB48 in TOKYO DOME
-    ～1830m的梦想～](https://zh.wikipedia.org/wiki/AKB48_in_TOKYO_DOME_～1830m的梦想～ "wikilink")（2012年8月24日
-    - 26日、[東京巨蛋](../Page/東京巨蛋.md "wikilink")）
+  - [AKB48 in TOKYO DOME ～1830m的梦想～](https://zh.wikipedia.org/wiki/AKB48_in_TOKYO_DOME_～1830m的梦想～ "wikilink")（2012年8月24日 - 26日、[東京巨蛋](../Page/東京巨蛋.md "wikilink")）
 
-  - [AKB48 重温时间 最佳曲目100
-    2013](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100_2013 "wikilink")
-    （2013年1月24日 - 27日、TOKYO DOME CITY HALL）
+  - [AKB48 重温时间 最佳曲目100 2013](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100_2013 "wikilink") （2013年1月24日 - 27日、TOKYO DOME CITY HALL）
 
   - [AKB48团临时总会～黑白分明！～](https://zh.wikipedia.org/wiki/AKB48团临时总会～黑白分明！～ "wikilink")（2013年4月26日（NMB48單独公演）・4月28日（2回公演）、日本武道館）
 
-  - [AKB48團研究生演唱會「早推得勝」](https://zh.wikipedia.org/wiki/AKB48團研究生演唱會「早推得勝」 "wikilink")（2013年6月5日、日本武道館）
-    - 研究生
+  - [AKB48團研究生演唱會「早推得勝」](https://zh.wikipedia.org/wiki/AKB48團研究生演唱會「早推得勝」 "wikilink")（2013年6月5日、日本武道館） - 研究生
 
-  - [AKB48 2013盛夏的巨蛋巡迴〜還有許多
-    不得不做的事情〜](https://zh.wikipedia.org/wiki/AKB48_2013盛夏的巨蛋巡迴〜還有許多_不得不做的事情〜 "wikilink")
+  - [AKB48 2013盛夏的巨蛋巡迴〜還有許多 不得不做的事情〜](https://zh.wikipedia.org/wiki/AKB48_2013盛夏的巨蛋巡迴〜還有許多_不得不做的事情〜 "wikilink")
 
       - 2013年7月20日・21日、[福岡Yafuoku\!巨蛋](../Page/福岡巨蛋.md "wikilink")
       - 2013年7月31日、[札幌巨蛋](../Page/札幌巨蛋.md "wikilink")
@@ -5631,17 +5517,11 @@ CM：ジャンボカラオケ広場<br />
       - 2013年8月16日・17日、[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")
       - 2013年8月22日 - 25日、東京巨蛋 - 正規成員+研究生全員
 
-  - [AKB48 重溫時間 最佳曲目200
-    2014](../Page/AKB48_重溫時間_最佳曲目200_2014.md "wikilink")
-    （2014年1月23日 - 26日、TOKYO DOME CITY HALL・4月6日、埼玉超級競技場）
+  - [AKB48 重溫時間 最佳曲目200 2014](../Page/AKB48_重溫時間_最佳曲目200_2014.md "wikilink") （2014年1月23日 - 26日、TOKYO DOME CITY HALL・4月6日、埼玉超級競技場）
 
-  - [AKB48單獨\&Group 春Con in
-    國立競技場〜丟掉回憶向前沖！〜](https://zh.wikipedia.org/wiki/AKB48單獨&Group_春Con_in_國立競技場〜丟掉回憶向前沖！〜 "wikilink")（2014年3月29日、[国立競技場](../Page/國立霞丘陸上競技場.md "wikilink")）
-    - 市川・渋谷・矢倉・薮下・山本彩・渡辺\[128\]
+  - [AKB48單獨\&Group 春Con in 國立競技場〜丟掉回憶向前沖！〜](https://zh.wikipedia.org/wiki/AKB48單獨&Group_春Con_in_國立競技場〜丟掉回憶向前沖！〜 "wikilink")（2014年3月29日、[国立競技場](../Page/國立霞丘陸上競技場.md "wikilink")） - 市川・渋谷・矢倉・薮下・山本彩・渡辺\[131\]
 
-  - [AKB48集團 春Con in
-    埼玉超級競技場〜丟掉回憶向前沖！〜](https://zh.wikipedia.org/wiki/AKB48集團_春Con_in_埼玉超級競技場〜丟掉回憶向前沖！〜 "wikilink")（2014年4月5日夜公演、埼玉超級競技場）
-    - NMB48單独公演
+  - [AKB48集團 春Con in 埼玉超級競技場〜丟掉回憶向前沖！〜](https://zh.wikipedia.org/wiki/AKB48集團_春Con_in_埼玉超級競技場〜丟掉回憶向前沖！〜 "wikilink")（2014年4月5日夜公演、埼玉超級競技場） - NMB48單独公演
 
   - [大島優子味之素球場畢業演唱會～6月8日的降水確率56%（5月16日預測）、晴天娃娃是不是真的有效？～](https://zh.wikipedia.org/wiki/大島優子味之素球場畢業演唱會～6月8日的降水確率56%（5月16日預測）、晴天娃娃是不是真的有效？～ "wikilink")（6月8日、[味之素球場](../Page/東京體育場.md "wikilink")）
 
@@ -5649,70 +5529,48 @@ CM：ジャンボカラオケ広場<br />
 
 ### 現場活動
 
-  - Visit Zoo宣傳活動應援企劃 AKB48 東京秋祭 supported by
-    （2010年10月9日、[葛西臨海公園](../Page/葛西臨海公園.md "wikilink")）
+  - Visit Zoo宣傳活動應援企劃 AKB48 東京秋祭 supported by （2010年10月9日、[葛西臨海公園](../Page/葛西臨海公園.md "wikilink")）
 
-  - （2011年4月11日、[ワールド記念ホール](https://zh.wikipedia.org/wiki/ワールド記念ホール "wikilink")）
-    - Team N（除了山本彩・渡邊之外）・太田・山口
+  - （2011年4月11日、[ワールド記念ホール](https://zh.wikipedia.org/wiki/ワールド記念ホール "wikilink")） - Team N（除了山本彩・渡邊之外）・太田・山口
 
-  - NMB48 in ニコファーレ（2011年11月25日、nicofarre） -
-    チームN・太田里・沖田・川上・木下・小柳・城・原・肥川・村上・矢倉・山岸・與儀
+  - NMB48 in ニコファーレ（2011年11月25日、nicofarre） - チームN・太田里・沖田・川上・木下・小柳・城・原・肥川・村上・矢倉・山岸・與儀
 
-  - [](https://web.archive.org/web/20120919200633/http://tkf-daimatsuri.com/)（2012年10月20日、[淡路島国営明石海峡公園特設舞台](https://zh.wikipedia.org/wiki/国営明石海峡公園 "wikilink")）
-    -
-    **小笠原**・加藤・門脇・**岸野**・木下・**小谷**・**上西**・**白間**・谷川・福本・矢倉・薮下・**山田**・**山本彩**・與儀・横山・吉田・渡辺\[129\]（**粗字**是参加同日傍晚的卡拉ok大会\[130\]）
+  - [](https://web.archive.org/web/20120919200633/http://tkf-daimatsuri.com/)（2012年10月20日、[淡路島国営明石海峡公園特設舞台](https://zh.wikipedia.org/wiki/国営明石海峡公園 "wikilink")） - **小笠原**・加藤・門脇・**岸野**・木下・**小谷**・**上西**・**白間**・谷川・福本・矢倉・薮下・**山田**・**山本彩**・與儀・横山・吉田・渡辺\[132\]（**粗字**是参加同日傍晚的卡拉ok大会\[133\]）
 
   - [](http://www.ntv.co.jp/happy-music/live2012/artist/index.html)（2012年11月11日、[横浜アリーナ](https://zh.wikipedia.org/wiki/横浜アリーナ "wikilink")）
 
-  - [御台場合眾國2013](../Page/御台場合眾國.md "wikilink")
-    NMB48特別LIVE（2013年8月19日、御台場合眾國・合眾國 Open Summer
-    スタジアム） - Team N・渋谷
+  - [御台場合眾國](../Page/御台場合眾國.md "wikilink")2013 NMB48特別LIVE（2013年8月19日、御台場合眾國・合眾國 Open Summer スタジアム） - Team N・渋谷
 
-  - RSK感謝祭だよ\!全員集合\!\!「NMB48スペシャルステージ」（2013年11月10日、[コンベックス岡山
-    大展示場](https://zh.wikipedia.org/wiki/岡山県総合展示場コンベックス岡山 "wikilink")）
-    - 東・沖田・川上礼・木下百・小柳・高野・三田・村上・村瀬・山岸・赤澤・石塚・大田・日下・久代・黒川
+  - RSK感謝祭だよ\!全員集合\!\!「NMB48スペシャルステージ」（2013年11月10日、[コンベックス岡山 大展示場](https://zh.wikipedia.org/wiki/岡山県総合展示場コンベックス岡山 "wikilink")） - 東・沖田・川上礼・木下百・小柳・高野・三田・村上・村瀬・山岸・赤澤・石塚・大田・日下・久代・黒川
 
-  - [コヤブソニック2014ファイナル](https://zh.wikipedia.org/wiki/コヤブソニック#コヤブソニック2014ファイナル "wikilink")（2014年9月13日、[インテックス大阪
-    5号館](https://zh.wikipedia.org/wiki/大阪国際見本市会場 "wikilink")） -
-    加藤・小谷・上西・山本彩・吉田・白間・藤江・村瀬・矢倉・山田・市川・梅田・門脇・渋谷・薮下・渡辺
+  - [コヤブソニック2014ファイナル](https://zh.wikipedia.org/wiki/コヤブソニック#コヤブソニック2014ファイナル "wikilink")（2014年9月13日、[インテックス大阪 5号館](https://zh.wikipedia.org/wiki/大阪国際見本市会場 "wikilink")） - 加藤・小谷・上西・山本彩・吉田・白間・藤江・村瀬・矢倉・山田・市川・梅田・門脇・渋谷・薮下・渡辺
 
-  - AOMORI SHOKU ON
-    2014（2014年9月27日、[青森港新中央埠頭](../Page/青森港.md "wikilink")
-    特設ステージ） - 加藤・小谷・上西・山本彩・吉田・白間・藤江・村瀬・矢倉・山田・市川・梅田・門脇・渋谷・薮下・渡辺
+  - AOMORI SHOKU ON 2014（2014年9月27日、[青森港](../Page/青森港.md "wikilink")新中央埠頭 特設ステージ） - 加藤・小谷・上西・山本彩・吉田・白間・藤江・村瀬・矢倉・山田・市川・梅田・門脇・渋谷・薮下・渡辺
 
   - RSK秋フェス2014 お祭りキングダム「LIVE KINGDOM」（2014年11月8日（予定）、コンベックス岡山 大展示場）
 
 ### 活動
 
-  - [LIVE STAND](https://zh.wikipedia.org/wiki/LIVE_STAND "wikilink")
-    2010 OSAKA「[LIVE
-    STAND新喜劇](https://zh.wikipedia.org/wiki/吉本新喜劇 "wikilink")」（2010年10月16日、[インテックス大阪](https://zh.wikipedia.org/wiki/インテックス大阪 "wikilink")）-
-    小笠原・山本彩・渡邊
-  - [シダックスよしもとannex　NMB48スペシャルトークショー](http://shidax-y-annex.com/)（2012年12月24日
-    -、シダックスよしもとannex）
-  - 第5回[沖繩國際電影節](https://zh.wikipedia.org/wiki/沖繩國際電影節 "wikilink")（2013年3月23日
-    - 30日、沖繩縣中頭郡北谷町美濱アメリカンビレッジ以及周邊）
+  - [LIVE STAND](https://zh.wikipedia.org/wiki/LIVE_STAND "wikilink") 2010 OSAKA「[LIVE STAND新喜劇](https://zh.wikipedia.org/wiki/吉本新喜劇 "wikilink")」（2010年10月16日、[インテックス大阪](https://zh.wikipedia.org/wiki/インテックス大阪 "wikilink")）- 小笠原・山本彩・渡邊
+  - [シダックスよしもとannex　NMB48スペシャルトークショー](http://shidax-y-annex.com/)（2012年12月24日 -、シダックスよしもとannex）
+  - 第5回[沖繩國際電影節](https://zh.wikipedia.org/wiki/沖繩國際電影節 "wikilink")（2013年3月23日 - 30日、沖繩縣中頭郡北谷町美濱アメリカンビレッジ以及周邊）
 
 ### Web
 
   - NMB48訪問 [モッテコ書店](http://motteco.com/)（2011年1月25日、2011年5月25日）
-  - Ex-Dream×NMB48 夢を叶える特別企画
-    [Ex-Dream（エックスドリーム）](https://web.archive.org/web/20131210234900/http://www.mbga.jp/_sg_exdream)（2013年9月10日
-    - 2013年9月26日）
+  - Ex-Dream×NMB48 夢を叶える特別企画 [Ex-Dream（エックスドリーム）](https://web.archive.org/web/20131210234900/http://www.mbga.jp/_sg_exdream)（2013年9月10日 - 2013年9月26日）
 
 ### 商品代言人
 
-  - 近畿地方的「[地數位推動偶像](https://zh.wikipedia.org/wiki/地上數位廣播推動大使 "wikilink")」就任\[131\]。（2011年2月14日）
+  - 近畿地方的「[地數位推動偶像](https://zh.wikipedia.org/wiki/地上數位廣播推動大使 "wikilink")」就任\[134\]。（2011年2月14日）
 
   - [みさき公園](https://zh.wikipedia.org/wiki/みさき公園 "wikilink")
 
-      - \[132\]（2011年7月16日 - 8月31日）
+      - \[135\]（2011年7月16日 - 8月31日）
 
-      - \[133\]（2012年6月28日 - 9月2日）
+      - \[136\]（2012年6月28日 - 9月2日）
 
-  - [東映太秦電影村](https://zh.wikipedia.org/wiki/東映太秦電影村 "wikilink")
-    特別贊助\[134\]（2012年7月13日 - ） -
-    [難波鉄砲隊其之壱](https://zh.wikipedia.org/wiki/Virginity#沙灘上的手槍 "wikilink")
+  - [東映太秦電影村](https://zh.wikipedia.org/wiki/東映太秦電影村 "wikilink") 特別贊助\[137\]（2012年7月13日 - ） - [難波鉄砲隊其之壱](https://zh.wikipedia.org/wiki/Virginity#沙灘上的手槍 "wikilink")
 
   - Aeon
 
@@ -5722,37 +5580,31 @@ CM：ジャンボカラオケ広場<br />
 
   - [江崎固力果](../Page/江崎固力果.md "wikilink") ｢」（2011年3月 - ） - 太田・岸野・小谷・吉田・渡邊
 
-  - [AC日本](https://zh.wikipedia.org/wiki/AC日本 "wikilink")「2011年度關西地域宣傳活動『關西能力48』」（2011年7月
-    - ） - 只限關西地区、德島縣的一部分
+  - [AC日本](https://zh.wikipedia.org/wiki/AC日本 "wikilink")「2011年度關西地域宣傳活動『關西能力48』」（2011年7月 - ） - 只限關西地区、德島縣的一部分
 
-  - [地上數碼放送推進大使](https://zh.wikipedia.org/wiki/地上數碼放送推進大使 "wikilink")
-    『』（關西）
+  - [地上數碼放送推進大使](https://zh.wikipedia.org/wiki/地上數碼放送推進大使 "wikilink") 『』（關西）
 
   - （2011年10月 - 2013年3月）
 
-  - [大阪地下街](https://zh.wikipedia.org/wiki/大阪地下街 "wikilink")「[Namba
-    Walk](https://zh.wikipedia.org/wiki/Namba_Walk "wikilink") BARGAIN
-    NMB1」\[135\]（2012年1月2日 - 4日、關西地区限定） - 小笠原・城・上西・福本・山田・山本・渡邊
+  - [大阪地下街](https://zh.wikipedia.org/wiki/大阪地下街 "wikilink")「[Namba Walk](https://zh.wikipedia.org/wiki/Namba_Walk "wikilink") BARGAIN NMB1」\[138\]（2012年1月2日 - 4日、關西地区限定） - 小笠原・城・上西・福本・山田・山本・渡邊
 
   - （2012年5月9日 - 6月4日）
 
-  - 「眠眠打破」\[136\]（2012年7月3日 - ）
+  - 「眠眠打破」\[139\]（2012年7月3日 - ）
 
-  - [COCO壹番屋咖哩](https://zh.wikipedia.org/wiki/COCO壹番屋咖哩 "wikilink")「カレーハウス
-    CoCo壱番屋 ネギマヨビフカツ（NMB）カレー」（2012年8月3日 - 9月） - 關西地區限定
+  - [COCO壹番屋咖哩](https://zh.wikipedia.org/wiki/COCO壹番屋咖哩 "wikilink")「カレーハウス CoCo壱番屋 ネギマヨビフカツ（NMB）カレー」（2012年8月3日 - 9月） - 關西地區限定
 
       - 「」（2013年5月5日 - ） - 關西地區限定
 
   - 『[東映太秦電影村](https://zh.wikipedia.org/wiki/東映太秦電影村 "wikilink")』
 
-  - （2012年10月24日 - ）\[137\] - 關西地区限定
+  - （2012年10月24日 - ）\[140\] - 關西地区限定
 
   - 「FEATHER SamraiEdge」（2012年11月1日 - ）
 
   - 常盤藥品工業『』（全国）※[渡辺美優紀單獨CM](https://zh.wikipedia.org/wiki/渡辺美優紀 "wikilink")
 
-  - 第92回[全国高校欖球大会](https://zh.wikipedia.org/wiki/全国高等学校橄欖球大会 "wikilink")　-
-    小笠原・上西・矢倉・山本彩・吉田・渡辺
+  - 第92回[全国高校欖球大会](https://zh.wikipedia.org/wiki/全国高等学校橄欖球大会 "wikilink")　- 小笠原・上西・矢倉・山本彩・吉田・渡辺
 
   - 大阪府消費生活中心（2013年12月24日 - 12月31日、大阪府） - 小笠原・矢倉・山田・山本彩・渡辺
 
@@ -5764,30 +5616,22 @@ CM：ジャンボカラオケ広場<br />
 
   - \- 村瀬・矢倉・上枝・薮下・渋谷
 
-  - [Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink")
-    エコソリューション社（2014年3月21日 - ）
+  - [Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink") エコソリューション社（2014年3月21日 - ）
 
-      - 「Panasonic LED」篇・「Panasonic LED 美ルック」篇・「Panasonic リフォーム
-        キッチン」篇・「全自動おそうじトイレ 新型アラウーノ」篇 - 山本彩
-      - 「Panasonic VERITIS」篇・「Panasonic リフォーム バスルーム」篇・「Panasonic リフォーム
-        あかり」篇 - 渡辺
+      - 「Panasonic LED」篇・「Panasonic LED 美ルック」篇・「Panasonic リフォーム キッチン」篇・「全自動おそうじトイレ 新型アラウーノ」篇 - 山本彩
+      - 「Panasonic VERITIS」篇・「Panasonic リフォーム バスルーム」篇・「Panasonic リフォーム あかり」篇 - 渡辺
 
-  - [なか卯](https://zh.wikipedia.org/wiki/なか卯 "wikilink")（2014年6月6日 - ） -
-    川上礼・白間・村瀬・吉田・矢倉・渡辺
+  - [なか卯](https://zh.wikipedia.org/wiki/なか卯 "wikilink")（2014年6月6日 - ） - 川上礼・白間・村瀬・吉田・矢倉・渡辺
 
-  - [スパワールド](https://zh.wikipedia.org/wiki/スパワールド "wikilink")（2014年6月28日
-    - ）「プール」篇・「スライダー」篇・「スパプーキッズ」篇 - 渋谷・白間・村瀬・矢倉・山本彩
+  - [スパワールド](https://zh.wikipedia.org/wiki/スパワールド "wikilink")（2014年6月28日 - ）「プール」篇・「スライダー」篇・「スパプーキッズ」篇 - 渋谷・白間・村瀬・矢倉・山本彩
 
 ## 書籍
 
-  - NMB48 COMPLETE BOOK
-    2012（2012年3月2日、[光文社](https://zh.wikipedia.org/wiki/光文社 "wikilink")）ISBN
-    978-4334901844
+  - NMB48 COMPLETE BOOK 2012（2012年3月2日、[光文社](https://zh.wikipedia.org/wiki/光文社 "wikilink")）ISBN 978-4334901844
 
 ### 写真集
 
-  - きゅんとどきっ（2012年9月16日、[ワニブックス](https://zh.wikipedia.org/wiki/ワニブックス "wikilink")、撮影：HIROKAZU）ISBN
-    978-4847044816
+  - きゅんとどきっ（2012年9月16日、[ワニブックス](https://zh.wikipedia.org/wiki/ワニブックス "wikilink")、撮影：HIROKAZU）ISBN 978-4847044816
 
 ### 杂誌・新聞連載
 
@@ -5816,12 +5660,10 @@ CM：ジャンボカラオケ広場<br />
 
   - NMB48 Official Shop（大阪市中央区難波千日前、難波花月東隣 吉本本館）
 
-現今獨立於吉本本館 舊址現為AKB48G SHOP
-<http://www.nmb48.com/images/goods/img_shop_map.gif>
+現今獨立於吉本本館 舊址現為AKB48G SHOP <http://www.nmb48.com/images/goods/img_shop_map.gif>
 
   - NMB48在线官方商城
-  - NMB48 LIVE\!\! ON DEMAND（[DMM.com](../Page/DMM.com.md "wikilink")） -
-    NMB48劇場的公演直播及網絡配信
+  - NMB48 LIVE\!\! ON DEMAND（[DMM.com](../Page/DMM.com.md "wikilink")） - NMB48劇場的公演直播及網絡配信
 
 ## 公演
 
@@ -5831,26 +5673,22 @@ CM：ジャンボカラオケ広場<br />
 
 #### Team N
 
-1.  [为了谁](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」#NMB48_Team_N_1st_Stage「為了誰」公演 "wikilink")（）：2011年4月4日
-    - 5月16日（116公演）\[138\]
-      - [复活公演](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」#NMB48_Team_N_1st_Stage「為了誰」复活公演 "wikilink")（）：2012年10月12日
-        - 2013年10月15日（54公演）
-2.  [青春女孩](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage「青春女孩」#NMB48_Team_N_2nd_Stage「青春女孩」公演 "wikilink")（）：2011年5月19日
-    - 2012年9月20日
-3.  [天使在这里](https://zh.wikipedia.org/wiki/Team_N_3rd_Stage“天使在这里” "wikilink")（）：2013年11月19日\[139\]
-    - 2014年4月16日（18公演）
+1.  [为了谁](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」#NMB48_Team_N_1st_Stage「為了誰」公演 "wikilink")（）：2011年4月4日 - 5月16日（116公演）\[141\]
+      - [复活公演](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」#NMB48_Team_N_1st_Stage「為了誰」复活公演 "wikilink")（）：2012年10月12日 - 2013年10月15日（54公演）
+2.  [青春女孩](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage「青春女孩」#NMB48_Team_N_2nd_Stage「青春女孩」公演 "wikilink")（）：2011年5月19日 - 2012年9月20日
+3.  [天使在这里](https://zh.wikipedia.org/wiki/Team_N_3rd_Stage“天使在这里” "wikilink")（）：2013年11月19日\[142\] - 2014年4月16日（18公演）
       -
         3rd公演是NMB48首個原創公演。原本為2012年開始，之後卻5度延期。
           -
-            2012年3月1日　發表5月12日公演開始\[140\]。
-            2012年5月3日　發表公演開始延期\[141\]。
-            2012年6月30日　發表8月19日公演開始\[142\]。
-            2012年8月9日　發表再延期\[143\]。
-            2012年9月20日「青春女孩」千秋樂，發表10月8日公演開始\[144\]。
-            2012年10月1日　發表第3次延期\[145\]。
+            2012年3月1日　發表5月12日公演開始\[143\]。
+            2012年5月3日　發表公演開始延期\[144\]。
+            2012年6月30日　發表8月19日公演開始\[145\]。
+            2012年8月9日　發表再延期\[146\]。
+            2012年9月20日「青春女孩」千秋樂，發表10月8日公演開始\[147\]。
+            2012年10月1日　發表第3次延期\[148\]。
             2013年8月24日　AKB48的東京巨蛋公演中，發表10月26日新公演「天使在这里」開始。
-            2013年10月20日　發表第4度延期\[146\]。
-            2013年11月3日　發表第5度延期\[147\]
+            2013年10月20日　發表第4度延期\[149\]。
+            2013年11月3日　發表第5度延期\[150\]
 
 <!-- end list -->
 
@@ -5858,13 +5696,11 @@ CM：ジャンボカラオケ広場<br />
 
 <!-- end list -->
 
-4.  [天使在这里](https://zh.wikipedia.org/wiki/Team_N_3rd_Stage“天使在这里”#NMB48_Team_N_4th_Stage「天使在这里」公演 "wikilink")：2014年4月30日
-    -
+4.  [天使在这里](https://zh.wikipedia.org/wiki/Team_N_3rd_Stage“天使在这里”#NMB48_Team_N_4th_Stage「天使在这里」公演 "wikilink")：2014年4月30日 -
 
 #### Team M
 
-1.  [偶像的黎明](https://zh.wikipedia.org/wiki/Team_B_4th_Stage「偶像的黎明」#NMB48_Team_M_1st_Stage「偶像的黎明」公演 "wikilink")（）：2012年5月5日
-    - 2014年4月17日
+1.  [偶像的黎明](https://zh.wikipedia.org/wiki/Team_B_4th_Stage「偶像的黎明」#NMB48_Team_M_1st_Stage「偶像的黎明」公演 "wikilink")（）：2012年5月5日 - 2014年4月17日
 
 <!-- end list -->
 
@@ -5872,15 +5708,12 @@ CM：ジャンボカラオケ広場<br />
 
 <!-- end list -->
 
-2.  [RESET](https://zh.wikipedia.org/wiki/Team_K_6th_Stage「RESET」#NMB48_Team_M_2nd_Stage「RESET」公演 "wikilink")：2014年5月2日
-    -
+2.  [RESET](https://zh.wikipedia.org/wiki/Team_K_6th_Stage「RESET」#NMB48_Team_M_2nd_Stage「RESET」公演 "wikilink")：2014年5月2日 -
 
 #### Team BII
 
-1.  [想見你](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想见你」#NMB48_Team_BII_1st_Stage「想見你」公演 "wikilink")（）：2012年10月10日
-    - 2013年10月17日（81公演）\[148\]
-2.  [正在戀愛中](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」#NMB48_Team_BII_2nd_Stage「正在戀愛中」公演 "wikilink")（）：2013年11月1日\[149\]
-    - 2014年4月15日（45公演）
+1.  [想見你](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想见你」#NMB48_Team_BII_1st_Stage「想見你」公演 "wikilink")（）：2012年10月10日 - 2013年10月17日（81公演）\[151\]
+2.  [正在戀愛中](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」#NMB48_Team_BII_2nd_Stage「正在戀愛中」公演 "wikilink")（）：2013年11月1日\[152\] - 2014年4月15日（45公演）
 
 <!-- end list -->
 
@@ -5888,8 +5721,7 @@ CM：ジャンボカラオケ広場<br />
 
 <!-- end list -->
 
-3.  [引体后翻](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引体后翻」#NMB48_Team_BII_3rd_Stage「引体后翻」公演 "wikilink")（）：2014年4月22日
-    -
+3.  [引体后翻](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引体后翻」#NMB48_Team_BII_3rd_Stage「引体后翻」公演 "wikilink")（）：2014年4月22日 -
 
 <!-- end list -->
 
@@ -5897,22 +5729,19 @@ CM：ジャンボカラオケ広場<br />
 
 <!-- end list -->
 
-1.  [PARTY开始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#NMB48_Team_BII“PARTY开始了”公演 "wikilink")（）：2013年9月13日\[150\]
+1.  [PARTY开始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#NMB48_Team_BII“PARTY开始了”公演 "wikilink")（）：2013年9月13日\[153\]
 
 #### 研究生
 
 1.  为了谁（1期生公演）：2011年1月1日 - 4月3日
-2.  [PARTY开始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#NMB48_2期生公演“PARTY开始了” "wikilink")（2期生公演）：2011年8月13日
-    - 2012年5月2日（111公演）
-3.  [想见你](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想见你」#NMB48_3期生公演「想見你」公演 "wikilink")（3期生公演）：2012年4月29日
-    - 10月6日（Team BII 1st stage移行）（57公演）
-4.  [青春女孩](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage「青春女孩」#NMB48_研究生公演“青春女孩” "wikilink")：2013年2月1日
-    - 2014年10月5日（89公演）
+2.  [PARTY开始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#NMB48_2期生公演“PARTY开始了” "wikilink")（2期生公演）：2011年8月13日 - 2012年5月2日（111公演）
+3.  [想见你](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想见你」#NMB48_3期生公演「想見你」公演 "wikilink")（3期生公演）：2012年4月29日 - 10月6日（Team BII 1st stage移行）（57公演）
+4.  [青春女孩](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage「青春女孩」#NMB48_研究生公演“青春女孩” "wikilink")：2013年2月1日 - 2014年10月5日（89公演）
 5.  未定
 
 ### 其他地方的公演
 
-  - [東京都](../Page/東京都.md "wikilink")[千代田区](https://zh.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")・[秋葉原所在的](../Page/秋葉原.md "wikilink")[AKB48劇場公演](../Page/AKB48劇場.md "wikilink")。
+  - [東京都](../Page/東京都.md "wikilink")[千代田区](https://zh.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")・[秋葉原](../Page/秋葉原.md "wikilink")所在的[AKB48劇場](../Page/AKB48劇場.md "wikilink")公演。
 
 <!-- end list -->
 
@@ -5936,9 +5765,7 @@ CM：ジャンボカラオケ広場<br />
 
   - [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")[中央区](https://zh.wikipedia.org/wiki/中央区_\(福岡市\) "wikilink")[地行浜所在HKT](https://zh.wikipedia.org/wiki/シーサイドももち "wikilink")48劇場公演。
       - 想见你：2012年12月22日
-  - 東京都[文京区](https://zh.wikipedia.org/wiki/文京区 "wikilink")[後樂所在](../Page/後樂.md "wikilink")[TOKYO
-    DOME CITY
-    HALL](https://zh.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "wikilink")
+  - 東京都[文京区](https://zh.wikipedia.org/wiki/文京区 "wikilink")[後樂](../Page/後樂.md "wikilink")所在[TOKYO DOME CITY HALL](https://zh.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "wikilink")
   - 「獻給錯過的你們」～AKB48全體總動員公演～
     \*\# A3rd「为了谁」公演：2011年6月4日 - Team N（森除外）、山口
     \*\# K2nd「青春女孩」公演：2011年6月5日 - Team N（森除外）、山口
@@ -5946,14 +5773,12 @@ CM：ジャンボカラオケ広場<br />
     \*\# B3rd「偶像的黎明」公演：2012年5月18日 - Team M（太田裡除外）、東、沖田
     \*\# K2nd「青春女孩」公演：2012年5月19日 - Team N
     \*\# A3rd「为了谁」公演：2012年5月20日 - Team N（福本除外）、沖田
-  - [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")[中央区](https://zh.wikipedia.org/wiki/中央区_\(福岡市\) "wikilink")[地行浜所在](https://zh.wikipedia.org/wiki/シーサイドももち "wikilink")[Zepp
-    Fukuoka公演](https://zh.wikipedia.org/wiki/Zepp "wikilink")。
-      - 为了谁：2011年5月14日\[151\]
+  - [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")[中央区](https://zh.wikipedia.org/wiki/中央区_\(福岡市\) "wikilink")[地行浜所在](https://zh.wikipedia.org/wiki/シーサイドももち "wikilink")[Zepp Fukuoka公演](https://zh.wikipedia.org/wiki/Zepp "wikilink")。
+      - 为了谁：2011年5月14日\[154\]
 
 :\* 青春女孩：2011年8月7日
 
-  - 東京都[港区](https://zh.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[高輪所在](../Page/高輪.md "wikilink")[よしもとプリンスシアターYOSHIMOTO](https://zh.wikipedia.org/wiki/よしもとプリンスシアター "wikilink")
-    WONDER CAMP TOKYO之一環中公演。
+  - 東京都[港区](https://zh.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[高輪](../Page/高輪.md "wikilink")所在[よしもとプリンスシアターYOSHIMOTO](https://zh.wikipedia.org/wiki/よしもとプリンスシアター "wikilink") WONDER CAMP TOKYO之一環中公演。
 
 :\* 青春女孩：2011年8月10日 - 8月12日
 
@@ -5976,7 +5801,7 @@ CM：ジャンボカラオケ広場<br />
 
 ### 2012年
 
-  - [第26回日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink") 最佳5新人・藝人獎\[152\]
+  - [第26回日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink") 最佳5新人・藝人獎\[155\]
 
 ## 註釋
 
@@ -6001,101 +5826,67 @@ CM：ジャンボカラオケ広場<br />
 
   - [NMB48官方网站](http://www.nmb48.com/)
 
-  - [NMB48官方部落格](http://ameblo.jp/nmb48/)（[Ameba](../Page/Ameba.md "wikilink")）（2010年12月18日
-    - ）
+  - [NMB48官方部落格](http://ameblo.jp/nmb48/)（[Ameba](../Page/Ameba.md "wikilink")）（2010年12月18日 - ）
 
-  - [NMB48
-    官方部落格](https://web.archive.org/web/20110827023737/http://nmb48.laff.jp/blog/)（ラフブロ）
+  - [NMB48 官方部落格](https://web.archive.org/web/20110827023737/http://nmb48.laff.jp/blog/)（ラフブロ）
 
   -
   - [AKB48 Now on Google+](http://www.google.com/intl/ja/+/project48/)
 
-      - [NMB48 -
-        Google+](https://plus.google.com/104432502432473755826/)
+      - [NMB48 - Google+](https://plus.google.com/104432502432473755826/)
 
-[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink")
-[Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink")
-[Category:吉本興業所屬藝人](https://zh.wikipedia.org/wiki/Category:吉本興業所屬藝人 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
-[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink")
+[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink") [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:吉本興業所屬藝人](https://zh.wikipedia.org/wiki/Category:吉本興業所屬藝人 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink")
 
 1.  京樂產業.出資80%，吉本興業20%。
 
-2.  [继AKB、SKE之后，以大阪为基地的NMB（難波）48诞生了\!\!](https://web.archive.org/web/20100713182725/http://headlines.yahoo.co.jp/hl?a=20100710-00000001-oric-ent)
-    Yahoo\! Japan 2010年10月3日查阅
+2.  [继AKB、SKE之后，以大阪为基地的NMB（難波）48诞生了\!\!](https://web.archive.org/web/20100713182725/http://headlines.yahoo.co.jp/hl?a=20100710-00000001-oric-ent) Yahoo\! Japan 2010年10月3日查阅
 
 3.  在甄選募集開始至正式結成期間曾經在官方網站使用黑色的單色背景為標誌
 
 4.  AKB和××\!使用[青色](../Page/青色.md "wikilink")
 
-5.  『AKB48総選挙
-    公式ガイドブック2012』（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）p.150上段
-    NMB48劇場支配人・金子のコメントより。
+5.  『AKB48総選挙 公式ガイドブック2012』（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）p.150上段 NMB48劇場支配人・金子のコメントより。
 
 6.  AKB48当初成員全員是屬於[office48](https://zh.wikipedia.org/wiki/office48 "wikilink")。而且2012年11月研究生全員和一部的正規成員是由運營会社兼團體的所屬事務所AKS所屬。
 
-7.  NMB48成員在AKB48團體活動的情況由AKS的支配下進行。與曾經在[PYTHAGORAS
-    PROMOTION所屬時代的SKE](https://zh.wikipedia.org/wiki/PYTHAGORAS_PROMOTION "wikilink")48（現在除了一部份之外是AKS所屬）同様。
+7.  NMB48成員在AKB48團體活動的情況由AKS的支配下進行。與曾經在[PYTHAGORAS PROMOTION所屬時代的SKE](https://zh.wikipedia.org/wiki/PYTHAGORAS_PROMOTION "wikilink")48（現在除了一部份之外是AKS所屬）同様。
 
-8.  [NMB48に「team
-    N」誕生\!\!](http://www.nmb48.com/news_old/etc/etc_2011_03_10_01.html)
-    - NMB48公式サイト（2011年3月10日）
+8.  [NMB48に「team N」誕生\!\!](http://www.nmb48.com/news_old/etc/etc_2011_03_10_01.html) - NMB48公式サイト（2011年3月10日）
 
-9.  [NMB48「チームM」のメンバーを発表します](http://nmb48-staff.laff.jp/blog/2012/01/nmb48m-8330.html)
-     - NMB48公式サイト（2012年1月26日）
+9.  [NMB48「チームM」のメンバーを発表します](http://nmb48-staff.laff.jp/blog/2012/01/nmb48m-8330.html)  - NMB48公式サイト（2012年1月26日）
 
-10. [組閣後新体制](http://ameblo.jp/akihabara48/entry-11336894458.html) -
-    AKB48オフィシャルブログ （2012年8月24日）2012年8月26日閲覧。
+10. [組閣後新体制](http://ameblo.jp/akihabara48/entry-11336894458.html) - AKB48オフィシャルブログ （2012年8月24日）2012年8月26日閲覧。
 
 11.
 
 12.
-13. 「[戸賀崎智信 -
-    Google+](https://plus.google.com/u/0/103388469578205010447/posts/LaJZbGfxx8v)」
+13. 「[戸賀崎智信 - Google+](https://plus.google.com/u/0/103388469578205010447/posts/LaJZbGfxx8v)」
 
-14. [開催日のお知らせ：リクエストアワー
-    セットリストベスト30 2013](http://nmb48-staff.laff.jp/blog/2013/02/30-2013-894a.html)
-     NMB48公式 ニュース 2013年2月27日付
+14. [開催日のお知らせ：リクエストアワー セットリストベスト30 2013](http://nmb48-staff.laff.jp/blog/2013/02/30-2013-894a.html)  NMB48公式 ニュース 2013年2月27日付
 
-15. 『AKB48グループ臨時総会
-    〜白黒つけようじゃないか\!〜』最終日公演・昼の部において発表。[AKBグループ研究生が6月に単独武道館](http://www.oricon.co.jp/news/music/2024144/full/)
-    - ORICON STYLE（2013年4月28日）
+15. 『AKB48グループ臨時総会 〜白黒つけようじゃないか\!〜』最終日公演・昼の部において発表。[AKBグループ研究生が6月に単独武道館](http://www.oricon.co.jp/news/music/2024144/full/) - ORICON STYLE（2013年4月28日）
 
-16. [AKB48ドームツアー、大阪でNMB48大活躍\!
-    結成3周年記念ライブ開催決定](http://news.mynavi.jp/news/2013/08/08/137/index.html)
-    マイナビニュース（2013年8月8日付）
+16. [AKB48ドームツアー、大阪でNMB48大活躍\! 結成3周年記念ライブ開催決定](http://news.mynavi.jp/news/2013/08/08/137/index.html) マイナビニュース（2013年8月8日付）
 
-17. [NMB48公式サイトNEWS](http://nmb48-staff.laff.jp/blog/2013/08/101213nmb48-3rd-484f.html)
-     （2013年8月7日）
+17. [NMB48公式サイトNEWS](http://nmb48-staff.laff.jp/blog/2013/08/101213nmb48-3rd-484f.html)  （2013年8月7日）
 
-18. [NBM48、3周年記念公演で笑顔の"倍返し\!"
-    Mステ単独初出演のサプライズも](https://archive.is/20131018121533/headlines.yahoo.co.jp/hl?a=20131013-00000015-mycomj-ent)
-    - マイナビニュース（2013年10月13日）
+18. [NBM48、3周年記念公演で笑顔の"倍返し\!" Mステ単独初出演のサプライズも](https://archive.is/20131018121533/headlines.yahoo.co.jp/hl?a=20131013-00000015-mycomj-ent) - マイナビニュース（2013年10月13日）
 
 19. 8th單曲「大蔥鴨們」和1st專輯「[尖端頂點之上\!](https://zh.wikipedia.org/wiki/尖端頂點之上! "wikilink")」收錄曲的「尖端頂點之上\!」的2首曲以混合形式披露。
 
-20. [NMB48、セクシーな花魁で念願の紅白初出場＜紅白本番＞](http://mdpr.jp/news/detail/1314072) -
-    モデルプレス（2013年12月31日）2014年1月3日閲覧
+20. [NMB48、セクシーな花魁で念願の紅白初出場＜紅白本番＞](http://mdpr.jp/news/detail/1314072) - モデルプレス（2013年12月31日）2014年1月3日閲覧
 
 21.
 
-22. [NMB48　9thシングル3月26日（水）発売決定！](http://nmb48-staff.laff.jp/blog/2014/01/nmb489th326-1057.html)
-     NMB48公式 ニュース 2014年1月29日
+22. [NMB48　9thシングル3月26日（水）発売決定！](http://nmb48-staff.laff.jp/blog/2014/01/nmb489th326-1057.html)  NMB48公式 ニュース 2014年1月29日
 
 23.
 
-24. [5月21日、22日「NMB48リクエストアワー
-    セットリストベスト50 2014」実施とチケット発売のお知らせ](http://news.nmb48.com/event/20140402/180035.html)
-    NMB48公式 ニュース 2014年4月2日付
+24. [5月21日、22日「NMB48リクエストアワー セットリストベスト50 2014」実施とチケット発売のお知らせ](http://news.nmb48.com/event/20140402/180035.html) NMB48公式 ニュース 2014年4月2日付
 
-25. [NMB48 10thシングル 11月5日（水）発売決定！](http://news.nmb48.com/release/20141001/230526.html)
-    NMB48公式 ニュース 2014年10月1日付
+25. [NMB48 10thシングル 11月5日（水）発売決定！](http://news.nmb48.com/release/20141001/230526.html) NMB48公式 ニュース 2014年10月1日付
 
-26. [北原里英がＮＧＴへ移籍／ＡＫＢ人事リスト](http://www.nikkansports.com/entertainment/akb48/news/1452306.html)
-    日刊スポーツ2014年3月26日
+26. [北原里英がＮＧＴへ移籍／ＡＫＢ人事リスト](http://www.nikkansports.com/entertainment/akb48/news/1452306.html) 日刊スポーツ2014年3月26日
 
 27.
 
@@ -6138,21 +5929,21 @@ CM：ジャンボカラオケ広場<br />
 
 47.
 
-48. [金子支配人のGoogle+](https://plus.google.com/u/0/103350333579457321452/posts/FwVkrQkbubS)
+48.
 
 49.
 
 50.
 
-51.
+51. [金子支配人のGoogle+](https://plus.google.com/u/0/103350333579457321452/posts/FwVkrQkbubS)
 
 52.
+
 53.
 
 54.
 
 55.
-
 56.
 
 57.
@@ -6174,12 +5965,12 @@ CM：ジャンボカラオケ広場<br />
 65.
 
 66.
+
 67.
 
 68.
 
 69.
-
 70.
 
 71.
@@ -6215,24 +6006,23 @@ CM：ジャンボカラオケ広場<br />
 86.
 
 87.
+
 88.
 
 89.
 
 90.
-
 91.
 
 92.
 
-93. [「研究生　東郷青空に関しまして」](http://ameblo.jp/nmb48/entry-11377084187.html) -
-    NMB48オフィシャルブログ（2012年10月11日）
+93.
 
 94.
 
 95.
 
-96.
+96. [「研究生　東郷青空に関しまして」](http://ameblo.jp/nmb48/entry-11377084187.html) - NMB48オフィシャルブログ（2012年10月11日）
 
 97.
 
@@ -6242,103 +6032,83 @@ CM：ジャンボカラオケ広場<br />
 
 100.
 
-101. 《NMB48 Team BII「引體後翻」公演 井尻晏菜生誕祭慶生MC》出演日期：2016年1月26日
+101.
 
 102.
 
 103.
 
-104.
+104. 《NMB48 Team BII「引體後翻」公演 井尻晏菜生誕祭慶生MC》出演日期：2016年1月26日
 
 105.
 
 106.
 
-107. 與儀在2012年4月19日開始出演。2011年4月21日 -
-     2012年3月15日是[木下春奈出演](../Page/木下春奈.md "wikilink")。
+107.
 
-108. 結成前面試的模様、結成後的活動的密着文件VTR播放。
+108.
 
-109. [ABC朝日放送「キャスト」、特集「夢はアイドル」母娘の葛藤](http://webnews.asahi.co.jp/cast/feature/130611.html)
+109.
 
+110. 與儀在2012年4月19日開始出演。2011年4月21日 - 2012年3月15日是[木下春奈](../Page/木下春奈.md "wikilink")出演。
 
-110. [テレメンタリー2013「熟れないアイドル
-     〜19歳の夢と現実〜」](http://www.tv-asahi.co.jp/telementary/contents/backnumber/0530/)
+111. 結成前面試的模様、結成後的活動的密着文件VTR播放。
 
-111. テレビ朝日系列24局で放送されるが、放送日は局により異なる。詳細は基幹局・テレビ朝日の\[<http://www.tv-asahi.co.jp/telementary/contents/broadcast/index.html>　公式サイト\]
-     を参照。
+112. [ABC朝日放送「キャスト」、特集「夢はアイドル」母娘の葛藤](http://webnews.asahi.co.jp/cast/feature/130611.html)
 
-112. 「[NMB初映画「げいにん\!」と同じ設定で](http://www.nikkansports.com/entertainment/akb48/news/p-et-tp0-20130217-1086271.html)」nikkansports.com
-     2013年2月17日掲載
+113. [テレメンタリー2013「熟れないアイドル 〜19歳の夢と現実〜」](http://www.tv-asahi.co.jp/telementary/contents/backnumber/0530/)
 
-113. [NMB映画初主演\!
-     山本彩&横山由依コンビで漫才も披露](http://www.sponichi.co.jp/entertainment/news/2013/02/17/kiji/K20130217005211530.html)
-     スポニチアネックス2013年2月17日掲載
+114. テレビ朝日系列24局で放送されるが、放送日は局により異なる。詳細は基幹局・テレビ朝日の\[<http://www.tv-asahi.co.jp/telementary/contents/broadcast/index.html>　公式サイト\] を参照。
 
-114. 「[物で魅力発信へ／吉本興業、丸亀市舞台に映画](http://www.shikoku-np.co.jp/kagawa_news/locality/20130128000143)」四国新聞
-     2013年1月28日掲載
+115. 「[NMB初映画「げいにん\!」と同じ設定で](http://www.nikkansports.com/entertainment/akb48/news/p-et-tp0-20130217-1086271.html)」nikkansports.com 2013年2月17日掲載
 
-115.
+116. [NMB映画初主演\! 山本彩&横山由依コンビで漫才も披露](http://www.sponichi.co.jp/entertainment/news/2013/02/17/kiji/K20130217005211530.html) スポニチアネックス2013年2月17日掲載
 
-116. 作为「[“献给错过的你们2”～AKB48全体总动员公演～](https://zh.wikipedia.org/wiki/“献给错过的你们2”～AKB48全体总动员公演～ "wikilink")」的一環舉行。
-
-117. [近畿2府4県ツアー正式タイトル決定「NMB48近畿コンサートツアー　〜みなさん、ちゃぷちゃぷしましょ〜」](http://nmb48-staff.laff.jp/blog/2012/06/24nmb48-d5ce.html)
-      - NMB48公式サイト（2012年6月30日）
+117. 「[物で魅力発信へ／吉本興業、丸亀市舞台に映画](http://www.shikoku-np.co.jp/kagawa_news/locality/20130128000143)」四国新聞 2013年1月28日掲載
 
 118.
 
-119.
-120.
+119. 作为「[“献给错过的你们2”～AKB48全体总动员公演～](https://zh.wikipedia.org/wiki/“献给错过的你们2”～AKB48全体总动员公演～ "wikilink")」的一環舉行。
 
-121. 「あと◯◯◯日」の◯◯◯は、2013年12月31日までの公演日時点での残り日数。
+120. [近畿2府4県ツアー正式タイトル決定「NMB48近畿コンサートツアー　〜みなさん、ちゃぷちゃぷしましょ〜」](http://nmb48-staff.laff.jp/blog/2012/06/24nmb48-d5ce.html)  - NMB48公式サイト（2012年6月30日）
+
+121.
 
 122.
-123. [NMB48
-     TeamM『NMB48大阪府内ツアー(仮)』mobile会員様向け先行のお知らせ](http://nmb48-staff.laff.jp/blog/2013/12/nmb48-teammnmb4-ea9e.html)
-      - NMB48公式サイト（2013年12月19日）
+123.
 
-124.
+124. 「あと◯◯◯日」の◯◯◯は、2013年12月31日までの公演日時点での残り日数。
 
 125.
+126. [NMB48 TeamM『NMB48大阪府内ツアー(仮)』mobile会員様向け先行のお知らせ](http://nmb48-staff.laff.jp/blog/2013/12/nmb48-teammnmb4-ea9e.html)  - NMB48公式サイト（2013年12月19日）
 
-126.
 127.
-128. 3月30日AKB48團體總出演公演舉行預定、因天氣惡劣延期至6月8日。
+
+128.
 
 129.
+130.
+131. 3月30日AKB48團體總出演公演舉行預定、因天氣惡劣延期至6月8日。
 
-130. \[<http://ameblo.jp/nmb48/theme4-10030700886.html>　山本彩 写真集\] -
-     NMB48オフィシャルブログ（2012年10月20日）
+132.
 
-131.  -
-     [總務省](../Page/總務省.md "wikilink")[近畿總合通信局](https://zh.wikipedia.org/wiki/近畿總合通信局 "wikilink")
-     （2011年3月29日閲覧）
+133. \[<http://ameblo.jp/nmb48/theme4-10030700886.html>　山本彩 写真集\] - NMB48オフィシャルブログ（2012年10月20日）
 
-132.  -
-     [南海電気鉄道ニュースリリース](https://zh.wikipedia.org/wiki/南海電気鉄道 "wikilink")
-     2011年6月16日 （2011年6月17日閲覧）
+134.  - [總務省](../Page/總務省.md "wikilink")[近畿總合通信局](https://zh.wikipedia.org/wiki/近畿總合通信局 "wikilink") （2011年3月29日閲覧）
 
-133.  - 南海電気鉄道ニュースリリース 2012年7月9日 （2012年7月19日閲覧）
+135.  - [南海電気鉄道ニュースリリース](https://zh.wikipedia.org/wiki/南海電気鉄道 "wikilink") 2011年6月16日 （2011年6月17日閲覧）
 
-134. [NMB48新ユニット・難波鉄砲隊其之壱が映画村スペシャルサポーターに就任\!](http://www.toei-eigamura.com/news/news_20120713_081654.html)
-     - 東映太秦映画村 2012年7月13日 （2012年7月19日閲覧）
+136.  - 南海電気鉄道ニュースリリース 2012年7月9日 （2012年7月19日閲覧）
 
-135. [あっつ〜いバーゲン\! NMB1
-     正月2日から☆](http://walk.osaka-chikagai.jp/blog_detail/&blog_id=1&id=63)
-     - Namba Walk通信（大阪地下街株式会社） 2011年12月27日
+137. [NMB48新ユニット・難波鉄砲隊其之壱が映画村スペシャルサポーターに就任\!](http://www.toei-eigamura.com/news/news_20120713_081654.html) - 東映太秦映画村 2012年7月13日 （2012年7月19日閲覧）
 
-136. [「日本全国ニャンニャン化現象」?\! 『眠眠打破』×『NMB48』コラボレーション発表
-     常盤薬品工業株式会社](http://www.asahi.com/business/pressrelease/PRT201207020075.html)朝日新聞デジタル　2012年7月2日（2012年7月6日閲覧）
+138. [あっつ〜いバーゲン\! NMB1 正月2日から☆](http://walk.osaka-chikagai.jp/blog_detail/&blog_id=1&id=63) - Namba Walk通信（大阪地下街株式会社） 2011年12月27日
 
-137.
-
-138. 1期生公演与Team N 1st公演合計。
-
-139.
+139. [「日本全国ニャンニャン化現象」?\! 『眠眠打破』×『NMB48』コラボレーション発表 常盤薬品工業株式会社](http://www.asahi.com/business/pressrelease/PRT201207020075.html)朝日新聞デジタル　2012年7月2日（2012年7月6日閲覧）
 
 140.
 
-141.
+141. 1期生公演与Team N 1st公演合計。
 
 142.
 
@@ -6355,9 +6125,14 @@ CM：ジャンボカラオケ広場<br />
 148.
 
 149.
-150. 這個公演是Team BII在2013年9月7日-13日進行的企劃“尽情享受我们的欺骗之周”（）的最終日的驚喜公演。
 
-151. [「盛り上がれ男子デー」にちなんで、男子に人気の漫画「クローズ\&WORST」と、「NMB48」とのスペシャルコラボ企画！](http://www.softbankhawks.co.jp/news/detail/7427.html)福岡ソフトバンクホークスオフィシャルサイト
-     チケットニュース2011年4月21日配信
+150.
 
-152. [第26回日本金唱片大獎](http://www.golddisc.jp/award/26/index.html)
+151.
+
+152.
+153. 這個公演是Team BII在2013年9月7日-13日進行的企劃“尽情享受我们的欺骗之周”（）的最終日的驚喜公演。
+
+154. [「盛り上がれ男子デー」にちなんで、男子に人気の漫画「クローズ\&WORST」と、「NMB48」とのスペシャルコラボ企画！](http://www.softbankhawks.co.jp/news/detail/7427.html)福岡ソフトバンクホークスオフィシャルサイト チケットニュース2011年4月21日配信
+
+155. [第26回日本金唱片大獎](http://www.golddisc.jp/award/26/index.html)

@@ -1,8 +1,6 @@
-**风色幻想Online**是由台湾[弘煜科技所制作的](../Page/弘煜科技.md "wikilink")[大型多人线上角色扮演遊戲](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，由[游戏新干线于](https://zh.wikipedia.org/wiki/游戏新干线 "wikilink")2009年8月18日开始正式运营。通称为“风色Online”或“AGO”（其全称风色幻想
-Adventure Generation
-Online英文部分的缩写）。收费制度为免费（有商城系统，参见[网络游戏免费模式](../Page/网络游戏免费模式.md "wikilink")）。
+**风色幻想Online**是由台湾[弘煜科技](../Page/弘煜科技.md "wikilink")所制作的[大型多人线上角色扮演遊戲](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，由[游戏新干线于](https://zh.wikipedia.org/wiki/游戏新干线 "wikilink")2009年8月18日开始正式运营。通称为“风色Online”或“AGO”（其全称风色幻想 Adventure Generation Online英文部分的缩写）。收费制度为免费（有商城系统，参见[网络游戏免费模式](../Page/网络游戏免费模式.md "wikilink")）。
 
-日版标题更改为“”（[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")「青空」之意），于2010年1月12日开始正式运营。此版以下称日版。日版的角色名字、名词、地名等都与台版有较大出入，另外日版中为重要角色添加了语音（人物說話時的日語配音）。日本版和臺灣原版最大的不同，在於常與日本當地作品結合，如2010年8月11日與[我的妹妹哪有這麼可愛推出角色衣裝](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛 "wikilink")，以及2012年1月11日起和遊戲公司[TYPE-MOON作品](../Page/TYPE-MOON.md "wikilink")[命運停駐之夜之前傳](https://zh.wikipedia.org/wiki/命運停駐之夜 "wikilink")[Fate/Zero合作推出Servant系統](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")，和2012年4月25日的[超級索尼子等](../Page/超級索尼子.md "wikilink")。中国大陆版由[悠游网代理](https://zh.wikipedia.org/wiki/悠游网 "wikilink")，于2010年3月18日开始运营，以下称陆版。
+日版标题更改为“”（[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")「青空」之意），于2010年1月12日开始正式运营。此版以下称日版。日版的角色名字、名词、地名等都与台版有较大出入，另外日版中为重要角色添加了语音（人物說話時的日語配音）。日本版和臺灣原版最大的不同，在於常與日本當地作品結合，如2010年8月11日與[我的妹妹哪有這麼可愛推出角色衣裝](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛 "wikilink")，以及2012年1月11日起和遊戲公司[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")作品[命運停駐之夜之前傳](https://zh.wikipedia.org/wiki/命運停駐之夜 "wikilink")[Fate/Zero合作推出Servant系統](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")，和2012年4月25日的[超級索尼子](../Page/超級索尼子.md "wikilink")等。中国大陆版由[悠游网代理](https://zh.wikipedia.org/wiki/悠游网 "wikilink")，于2010年3月18日开始运营，以下称陆版。
 
 台灣版於2014年10月31日結束运营。
 
@@ -12,21 +10,17 @@ Online英文部分的缩写）。收费制度为免费（有商城系统，参�
 
 ## 概要
 
-继承[弘煜科技出品的著名](../Page/弘煜科技.md "wikilink")[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")，[魔導聖戰～風色幻想～世界观的网络游戏](https://zh.wikipedia.org/wiki/魔導聖戰～風色幻想～ "wikilink")。
-[魔導聖戰～風色幻想～主要描绘南方大陆的故事](https://zh.wikipedia.org/wiki/魔導聖戰～風色幻想～ "wikilink")，而本作则是加入了北方大陆的设定。
+继承[弘煜科技](../Page/弘煜科技.md "wikilink")出品的著名[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")，[魔導聖戰～風色幻想～世界观的网络游戏](https://zh.wikipedia.org/wiki/魔導聖戰～風色幻想～ "wikilink")。 [魔導聖戰～風色幻想～主要描绘南方大陆的故事](https://zh.wikipedia.org/wiki/魔導聖戰～風色幻想～ "wikilink")，而本作则是加入了北方大陆的设定。
 
 ### 代言人
 
-台版[代言人为](https://zh.wikipedia.org/wiki/代言人 "wikilink")[李毓芬](../Page/李毓芬.md "wikilink")。中版代言人为[豆花妹](https://zh.wikipedia.org/wiki/豆花妹 "wikilink")。目前尚未有日版有代言人的消息。
-台版、中版分别在游戏中以代言人形象设计了NPC\[1\]，并命名为“小芬”“小汝”， 一般在举行活动时能够到该NPC处承接特殊任务。
+台版[代言人为](https://zh.wikipedia.org/wiki/代言人 "wikilink")[李毓芬](../Page/李毓芬.md "wikilink")。中版代言人为[豆花妹](https://zh.wikipedia.org/wiki/豆花妹 "wikilink")。目前尚未有日版有代言人的消息。 台版、中版分别在游戏中以代言人形象设计了NPC\[1\]，并命名为“小芬”“小汝”， 一般在举行活动时能够到该NPC处承接特殊任务。
 
 ### 主题歌
 
 台版代言人李毓芬是该版本之同名主题歌的演唱者\[2\]。
 
-该主题歌在游戏登录画面中，自“封嶽之塔”资料片沿用至今。
-台版还曾于[蒟蒻閣举办过主题歌](https://zh.wikipedia.org/wiki/蒟蒻閣 "wikilink")[翻唱比赛活动](https://zh.wikipedia.org/wiki/翻唱 "wikilink")\[3\]。
-中版、日版、英文版是否有主题歌尚不详。
+该主题歌在游戏登录画面中，自“封嶽之塔”资料片沿用至今。 台版还曾于[蒟蒻閣举办过主题歌](https://zh.wikipedia.org/wiki/蒟蒻閣 "wikilink")[翻唱比赛活动](https://zh.wikipedia.org/wiki/翻唱 "wikilink")\[3\]。 中版、日版、英文版是否有主题歌尚不详。
 
 ## 剧情
 
@@ -172,13 +166,11 @@ Online英文部分的缩写）。收费制度为免费（有商城系统，参�
 
 本游戏中的装备皆有设定最低装备等级。基本是要求等级越高的装备其基本素质越高。另外，一部分的装备也有限制角色性别。（参见[“外观问题”](https://zh.wikipedia.org/wiki/风色幻想Online#特殊生态 "wikilink")）
 
-可装备的位置分为：（上起）头部、脸部、主手、副手、身体、脚部、饰品（两件）、套装、背部。其中主手和副手的武器可能会受到职业的限制；另外也有一些类别是无法同时装备：如主手装备“枪”时，副手无法装备“盾”。
-头部、脸部、武器、副手（一部分）、套装及背部的装备会影响角色外观。
+可装备的位置分为：（上起）头部、脸部、主手、副手、身体、脚部、饰品（两件）、套装、背部。其中主手和副手的武器可能会受到职业的限制；另外也有一些类别是无法同时装备：如主手装备“枪”时，副手无法装备“盾”。 头部、脸部、武器、副手（一部分）、套装及背部的装备会影响角色外观。
 
 #### 装备精炼
 
-根据装备的当前品阶，可以使用对应品阶的精炼原石进行精炼，精炼后装备的属性将会得到提升。
-可以使用较高品阶的精炼原石精炼较低品阶的装备，但不可使用较低品阶的精炼原石精炼较高品阶的装备。
+根据装备的当前品阶，可以使用对应品阶的精炼原石进行精炼，精炼后装备的属性将会得到提升。 可以使用较高品阶的精炼原石精炼较低品阶的装备，但不可使用较低品阶的精炼原石精炼较高品阶的装备。
 
 #### 晶体镶嵌
 
@@ -190,41 +182,31 @@ Online英文部分的缩写）。收费制度为免费（有商城系统，参�
 
 #### 游戏攻略
 
-（本游戏所出版的相关攻略皆没有ISBN号码。）本游戏的相关攻略《风色幻想Online攻略本》、《风色幻想Online封岳之塔资料片攻略本》由于后来的更新、修改，充满了[黑历史和误导](../Page/黑历史.md "wikilink")。因此，能够参考的部分极为有限。自**封岳之塔**资料片以来，再无出版攻略本的消息，故目前共出版了2册。
+（本游戏所出版的相关攻略皆没有ISBN号码。）本游戏的相关攻略《风色幻想Online攻略本》、《风色幻想Online封岳之塔资料片攻略本》由于后来的更新、修改，充满了[黑历史](../Page/黑历史.md "wikilink")和误导。因此，能够参考的部分极为有限。自**封岳之塔**资料片以来，再无出版攻略本的消息，故目前共出版了2册。
 
 #### 游戏小说
 
-以下的小说版，内容基于AGO封岳之塔为止的情节编写， 性质较类似官方同人——即只是作者久本治基于游戏中设定的个人创作。
-自下册出版后，再无出版本游戏相关游戏小说的消息，故目前共出版了2册。
+以下的小说版，内容基于AGO封岳之塔为止的情节编写， 性质较类似官方同人——即只是作者久本治基于游戏中设定的个人创作。 自下册出版后，再无出版本游戏相关游戏小说的消息，故目前共出版了2册。
 
 ## 注释
 
 ## 参见
 
-[弘煜科技](../Page/弘煜科技.md "wikilink") - 開發公司 [松音](../Page/松音.md "wikilink")
-- 本游戏小说版作者
+[弘煜科技](../Page/弘煜科技.md "wikilink") - 開發公司 [松音](../Page/松音.md "wikilink") - 本游戏小说版作者
 
 ## 外部連結
 
   - [弘煜科技事業股份有限公司](http://www.fy.com.tw/)
   - [風色幻想Online日版相關消息](http://www.4gamer.net/games/098/G009858/20090916015/)
 
-[Category:风色幻想系列](https://zh.wikipedia.org/wiki/Category:风色幻想系列 "wikilink")
-[Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink")
-[Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink")
+[Category:风色幻想系列](https://zh.wikipedia.org/wiki/Category:风色幻想系列 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink") [Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink")
 
 1.  两个版本的该NPC都不会出现在对方的版本。基本上，因为连图像都是分别绘制的卡通形象，把这些NPC理解成和代言人似是而非的存在较为妥当。因此，即使代言人可能已经解约，这些NPC也没有撤除的必要。
 2.  <http://www.gamebase.com.tw/news/news_content.php?sno=87016768&news_category>
 3.  <http://www.soft-world.com/news_gf/gf/news_ago981014.htm>
 4.  [改版专区：風色幻想Online改版專區神秘探險，前進百層塔！](http://ago.gameflier.com/ep/20091007/index.asp?PID=174)
-
 5.  [改版专区：女王密令武裝聖戰](http://ago.gameflier.com/ep/20100113/index02.asp)
 6.  [改版专区：炼金强袭](http://ago.gameflier.com/ep/20100421/index.asp?PID=401)
 7.  [改版专区：魔王覺醒震撼冥界](http://ago.gameflier.com/ep/20100811/index.html?PID=451)
-
 8.  [改版专区：禁忌革命](http://ago.gameflier.com/ep/20110110/index.html)
 9.  需要在没有官方说明的情况下，变更存储游戏设定的文件中某一参数的数值。此参数在某次更新中原因不明地自此档案中被移除，但可手动加回以达到相同效果。对游戏的执行是否有不良影响至今不明。

@@ -1,4 +1,4 @@
-**任天堂3DS系统软件**是[任天堂3DS的一套可升级版本](../Page/任天堂3DS.md "wikilink")[固件以及前端软件](https://zh.wikipedia.org/wiki/固件 "wikilink")。经由主机的网络连接下载更新可以令[任天堂对其添加或者删除软件以及功能](../Page/任天堂.md "wikilink")，所有的更新均包含之前更新的所有变更点。
+**任天堂3DS系统软件**是[任天堂3DS](../Page/任天堂3DS.md "wikilink")的一套可升级版本[固件以及前端软件](https://zh.wikipedia.org/wiki/固件 "wikilink")。经由主机的网络连接下载更新可以令[任天堂](../Page/任天堂.md "wikilink")对其添加或者删除软件以及功能，所有的更新均包含之前更新的所有变更点。
 
 ## 系统菜单
 
@@ -6,8 +6,7 @@
 
 ## 任天堂3DS系统固件升级发布
 
-3DS可透過主機設定內的系統更新，來新增更多功能、服務或修正錯誤。日本版首發3DS出廠時的版本編號是「1.1.0 -
-0J型」。更新時請勿關閉主機電源或切斷無線網路，另外更新後也將無法復原。
+3DS可透過主機設定內的系統更新，來新增更多功能、服務或修正錯誤。日本版首發3DS出廠時的版本編號是「1.1.0 - 0J型」。更新時請勿關閉主機電源或切斷無線網路，另外更新後也將無法復原。
 
   - 2011年3月2日初次系統更新，版本編號是 “1.1.0 - 1J型”，主要更新如下：
 
@@ -17,8 +16,7 @@
 
 :\* 修正「Nintendo Zone」軟體的通信錯誤。
 
-:\* 新增3D影片，是在「Nintendo World
-2011」上樂團表演的「超級[瑪利歐兄弟](https://zh.wikipedia.org/wiki/马力欧 "wikilink")」主題曲的錄影。
+:\* 新增3D影片，是在「Nintendo World 2011」上樂團表演的「超級[瑪利歐兄弟](https://zh.wikipedia.org/wiki/马力欧 "wikilink")」主題曲的錄影。
 
   - 2011年6月7日重大系統更新，版本編號是 “2.0.0 - 2J型”，主要更新如下：\[1\]\[2\]
 
@@ -32,8 +30,7 @@
 
 :\* 加強整體系統的穩定性。
 
-:\* 刪除先前“1.1.0 - 1J型”更新的3D影片（「Nintendo World
-2011」上樂團表演的「超級瑪利歐兄弟」主題曲的錄影）。
+:\* 刪除先前“1.1.0 - 1J型”更新的3D影片（「Nintendo World 2011」上樂團表演的「超級瑪利歐兄弟」主題曲的錄影）。
 
   - 2011年6月16日系統更新，版本編號是 “2.1.0 - 3J型”，主要更新如下\[3\]\[4\]：
 
@@ -47,23 +44,19 @@
 
 :\* 加強整體內建軟體的穩定性和便利性。
 
-  - 2011年11月3日《[超級瑪利歐3D樂園](../Page/超級瑪利歐3D樂園.md "wikilink")》內所包含的系統更新，版本編號是
-    “2.2.0 - ○J型”，主要更新如下：\[6\]
+  - 2011年11月3日《[超級瑪利歐3D樂園](../Page/超級瑪利歐3D樂園.md "wikilink")》內所包含的系統更新，版本編號是 “2.2.0 - ○J型”，主要更新如下：\[6\]
 
 :\* 好友列表功能調整，上線的好友將會優先顯示，使用按鍵或類比可快速翻頁，並且有「加入他正在玩的遊戲」按鈕\[7\]。
 
 :\* 加強整體系統的穩定性。
 
-  - 2011年12月7日重大系統更新，版本編號是 “3.0.0 -
-    5J型”，主要更新如下：\[8\]\[9\]\[10\]\[11\]\[12\]
+  - 2011年12月7日重大系統更新，版本編號是 “3.0.0 - 5J型”，主要更新如下：\[8\]\[9\]\[10\]\[11\]\[12\]
 
-:\*
-「任天堂3DS相機」新增3D攝影功能，影片格式為[AVI](https://zh.wikipedia.org/wiki/AVI "wikilink")。
+:\* 「任天堂3DS相機」新增3D攝影功能，影片格式為[AVI](https://zh.wikipedia.org/wiki/AVI "wikilink")。
 
 :\* 「擦身通信Mii廣場」整體功能的強化，例如：新增《擦身傳說 2》、新的擦身拼圖等\[13\] 。
 
-:\*
-「任天堂電子商店」相關功能和介面的改善，新增功能包含提供附加內容（[DLC](https://zh.wikipedia.org/wiki/追加下載內容 "wikilink")）、遊戲試玩、多線程和休眠下載等等。
+:\* 「任天堂電子商店」相關功能和介面的改善，新增功能包含提供附加內容（[DLC](https://zh.wikipedia.org/wiki/追加下載內容 "wikilink")）、遊戲試玩、多線程和休眠下載等等。
 
 :\*「軟體搬家功能」開放3DS主機之間資料的轉移功能。
 
@@ -153,8 +146,7 @@
 
 :\* 更新「軟體搬家功能」，3DS LL/3DS主机之间的搬家次数上限解除。
 
-:\*
-关于游戏「更新数据」的通知机能，当新的更新数据配信的场合，启动这个游戏之际会有关于更新数据的通知发来（需要主机在可以接收随时通信的情况下）。
+:\* 关于游戏「更新数据」的通知机能，当新的更新数据配信的场合，启动这个游戏之际会有关于更新数据的通知发来（需要主机在可以接收随时通信的情况下）。
 
 :\* 变更HOME菜单相机的启动方法，从HOME菜单启动相机的方法变为同时按下L键+R键。
 
@@ -198,8 +190,7 @@
 
 :\* 增加HOME菜单截屏功能
 
-:\*
-增加向[新任天堂3DS/新任天堂3DSLL转移数据及软件功能](../Page/新任天堂3DS.md "wikilink")（同期欧美版本没有提供）
+:\* 增加向[新任天堂3DS](../Page/新任天堂3DS.md "wikilink")/新任天堂3DSLL转移数据及软件功能（同期欧美版本没有提供）
 
 :\* 加強任天堂eShop之便利性
 
@@ -211,11 +202,11 @@
 
 :\* 加強整體系統之穩定性與便利性
 
-:\* 针对[新任天堂3DS/LL](../Page/新任天堂3DS.md "wikilink")
+:\* 针对[新任天堂3DS](../Page/新任天堂3DS.md "wikilink")/LL
 
 ::\* 增加HOME菜单主题及更换主题功能、提供主题商店服务
 
-::\* 增加[任天堂eShop服务](../Page/任天堂eShop.md "wikilink")
+::\* 增加[任天堂eShop](../Page/任天堂eShop.md "wikilink")服务
 
 ::\* 增加互联网浏览器
 
@@ -233,7 +224,7 @@
 
 :\* 加強整體系統之穩定性與便利性
 
-:\* 针对[新任天堂3DS/LL](../Page/新任天堂3DS.md "wikilink")
+:\* 针对[新任天堂3DS](../Page/新任天堂3DS.md "wikilink")/LL
 
 ::\* 增加[amiibo设定](https://zh.wikipedia.org/wiki/amiibo "wikilink")
 
@@ -259,7 +250,7 @@
 
 :\* 加強整體系統之穩定性與便利性
 
-:\* 针对[任天堂3DS/LL](../Page/任天堂3DS.md "wikilink")
+:\* 针对[任天堂3DS](../Page/任天堂3DS.md "wikilink")/LL
 
 ::\* 增加[amiibo设定](https://zh.wikipedia.org/wiki/amiibo "wikilink")
 
@@ -487,7 +478,7 @@
 
 :\* 加強整體系統之穩定性與便利性
 
-:\* 针对[任天堂3DS/LL](../Page/任天堂3DS.md "wikilink")
+:\* 针对[任天堂3DS](../Page/任天堂3DS.md "wikilink")/LL
 
 ::\* 增加[amiibo设定](https://zh.wikipedia.org/wiki/amiibo "wikilink")
 
@@ -992,42 +983,25 @@
   - [繁体中文区3DS系统更新历史](http://www.nintendo.tw/3ds/support.htm)
   - [神游3DS系统更新页面](https://www.ique.com/3ds/support/update/3dsxlupdate.html)
 
-[Category:Nintendo_Network](https://zh.wikipedia.org/wiki/Category:Nintendo_Network "wikilink")
-[Category:任天堂3DS家族](https://zh.wikipedia.org/wiki/Category:任天堂3DS家族 "wikilink")
-[Category:電子遊戲機的操作系統](https://zh.wikipedia.org/wiki/Category:電子遊戲機的操作系統 "wikilink")
+[Category:Nintendo_Network](https://zh.wikipedia.org/wiki/Category:Nintendo_Network "wikilink") [Category:任天堂3DS家族](https://zh.wikipedia.org/wiki/Category:任天堂3DS家族 "wikilink") [Category:電子遊戲機的操作系統](https://zh.wikipedia.org/wiki/Category:電子遊戲機的操作系統 "wikilink")
 
-1.  [ニンテンドー3DSの本体機能更新について](http://www.nintendo.co.jp/netinfo/3ds/JPN/ja.html)
-    Nintendo
-2.  [ニンテンドー3DSの本体の更新についてのお知らせ](http://www.nintendo.co.jp/3ds/support/update/index.html)
-    Nintendo
-3.  [3DS - General
-    Information](http://www.nintendo.com/consumer/systems/3ds/en_na/gi_index.jsp?menu=games&submenu=ctr-gi-games-ridge-racer-3d-notice%7CNintendo)
-    (retrieved on June 10, 2011)
+1.  [ニンテンドー3DSの本体機能更新について](http://www.nintendo.co.jp/netinfo/3ds/JPN/ja.html) Nintendo
+2.  [ニンテンドー3DSの本体の更新についてのお知らせ](http://www.nintendo.co.jp/3ds/support/update/index.html) Nintendo
+3.  [3DS - General Information](http://www.nintendo.com/consumer/systems/3ds/en_na/gi_index.jsp?menu=games&submenu=ctr-gi-games-ridge-racer-3d-notice%7CNintendo) (retrieved on June 10, 2011)
 4.  [1](http://www.nintendo.com/consumer/systems/3ds/en_na/update.jsp)
 5.
-6.  [ニンテンドー3DS｜ニンテンドー3DSの本体機能更新について｜Nintendo](http://www.nintendo.co.jp/netinfo/3ds/JPN/ja.html)
-    Nintendo
+6.  [ニンテンドー3DS｜ニンテンドー3DSの本体機能更新について｜Nintendo](http://www.nintendo.co.jp/netinfo/3ds/JPN/ja.html) Nintendo
 7.  <http://kotaku.com/5856587/new-3ds-firmware-makes-joining-friends-easier>
 8.  [ニンテンドー3DSカンファレンス 2011](http://blog.livedoor.jp/od3/archives/51894395.html)Nintendo
-9.  [N.O.M 2011年10月号 No.159
-    ニンテンドー3DSカメラでキレイな3DS写真を撮ろう](http://www.nintendo.co.jp/nom/1110/page3/index.html)Nintendo
-10. [Nintendo Direct 2011.10.21
-    ニンテンドーダイレクト](http://www.nintendo.co.jp/n10/nintendo_direct/index.html)
-    Nintendo
-11. [2011年10月28日（金）第2四半期（中間）決算説明会 任天堂株式会社 社長 岩田聡
-    講演内容全文](http://www.nintendo.co.jp/ir/library/events/111028/05.html)Nintendo
-12. [ニンテンドー3DSの「本体の更新」について](http://www.nintendo.co.jp/3ds/info111129/index.html)
-    Nintendo
+9.  [N.O.M 2011年10月号 No.159 ニンテンドー3DSカメラでキレイな3DS写真を撮ろう](http://www.nintendo.co.jp/nom/1110/page3/index.html)Nintendo
+10. [Nintendo Direct 2011.10.21 ニンテンドーダイレクト](http://www.nintendo.co.jp/n10/nintendo_direct/index.html) Nintendo
+11. [2011年10月28日（金）第2四半期（中間）決算説明会 任天堂株式会社 社長 岩田聡 講演内容全文](http://www.nintendo.co.jp/ir/library/events/111028/05.html)Nintendo
+12. [ニンテンドー3DSの「本体の更新」について](http://www.nintendo.co.jp/3ds/info111129/index.html) Nintendo
 13.
 14.
-15. [台灣/香港用關於主機功能更新之通知](http://www.nintendo.tw/3ds/support.htm)任天堂溥天
-    Nintendo 3DS 客户服务
-16. [关于iQue 3DS
-    XL的主机功能更新](http://www.ique.com/3ds/support/update/3dsxlupdate.html)神游科技
+15. [台灣/香港用關於主機功能更新之通知](http://www.nintendo.tw/3ds/support.htm)任天堂溥天 Nintendo 3DS 客户服务
+16. [关于iQue 3DS XL的主机功能更新](http://www.ique.com/3ds/support/update/3dsxlupdate.html)神游科技
 17. [神游3DSXL内置软件介绍：暂时无任天堂e商店](http://3ds.tgbus.com/news/201211/20121130080134.shtml)电玩巴士
-18. [Nintendo video application launches in europe this
-    week.](http://3ds.nintendolife.com/news/2011/07/nintendo_video_application_live_in_europe_right_now)
-19. [Netflix for 3DS released in North
-    America](http://3ds.nintendolife.com/news/2011/07/netflix_arrives_on_3ds_in_north_america_tomorrow)
-20. [Eurosport Video App Coming to 3DS For
-    Free](http://3ds.nintendolife.com/news/2011/12/eurosport_video_app_coming_to_3ds_for_free)
+18. [Nintendo video application launches in europe this week.](http://3ds.nintendolife.com/news/2011/07/nintendo_video_application_live_in_europe_right_now)
+19. [Netflix for 3DS released in North America](http://3ds.nintendolife.com/news/2011/07/netflix_arrives_on_3ds_in_north_america_tomorrow)
+20. [Eurosport Video App Coming to 3DS For Free](http://3ds.nintendolife.com/news/2011/12/eurosport_video_app_coming_to_3ds_for_free)

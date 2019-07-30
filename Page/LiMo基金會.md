@@ -1,5 +1,4 @@
-**LiMo基金會**（，名稱來自的縮寫），又稱Linux手機發展基金會，是一個以開發[Linux](../Page/Linux.md "wikilink")作業系統[智慧型手機為目標的組織](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。它們所發布的[Linux](../Page/Linux.md "wikilink")作業系統平台，也被稱為[LiMo](https://zh.wikipedia.org/wiki/LiMo "wikilink")，可以用在手機和其他手持設備之上。創始會員包括[Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")、[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")、[NTT
-DoCoMo](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")、[Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink")、[三星和](../Page/三星電子.md "wikilink")[Vodafone](https://zh.wikipedia.org/wiki/Vodafone "wikilink")。
+**LiMo基金會**（，名稱來自的縮寫），又稱Linux手機發展基金會，是一個以開發[Linux](../Page/Linux.md "wikilink")作業系統[智慧型手機為目標的組織](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。它們所發布的[Linux](../Page/Linux.md "wikilink")作業系統平台，也被稱為[LiMo](https://zh.wikipedia.org/wiki/LiMo "wikilink")，可以用在手機和其他手持設備之上。創始會員包括[Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")、[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")、[NTT DoCoMo](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")、[Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink")、[三星和](../Page/三星電子.md "wikilink")[Vodafone](https://zh.wikipedia.org/wiki/Vodafone "wikilink")。
 
 2012年1月1日，LiMo基金會更名為Tizen協會\[1\]。
 
@@ -147,19 +146,12 @@ LiMo基金會的會員有：
 
 [Category:Linux小作品](https://zh.wikipedia.org/wiki/Category:Linux小作品 "wikilink")
 
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:Mobile_Linux](https://zh.wikipedia.org/wiki/Category:Mobile_Linux "wikilink")
-[Category:2007年建立的組織](https://zh.wikipedia.org/wiki/Category:2007年建立的組織 "wikilink")
+[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:Mobile_Linux](https://zh.wikipedia.org/wiki/Category:Mobile_Linux "wikilink") [Category:2007年建立的組織](https://zh.wikipedia.org/wiki/Category:2007年建立的組織 "wikilink")
 
 1.  <http://embedded-m2m-solutions.tmcnet.com/topics/sprint-news/articles/289278-sprint-joins-tizen-association-adds-its-board-directors.htm>
-2.  <http://www.engadget.com/2011/09/28/meego-to-be-folded-into-linux-based-tizen-os-slated-to-arrive-i/>
-    MeeGo to be folded into Linux-based Tizen OS, slated to arrive in
-    2012
-3.   MeeGo is dead: Meet Tizen, another new open source OS based on
-    Linux
-4.  <https://meego.com/community/blogs/imad/2011/whats-next-meego>
-    What's Next for MeeGo
-5.  <http://www.phoronix.com/scan.php?page=news_item&px=OTk1Mg> Tizen Is
-    Announced; MeeGo Will Transition To It
+2.  <http://www.engadget.com/2011/09/28/meego-to-be-folded-into-linux-based-tizen-os-slated-to-arrive-i/> MeeGo to be folded into Linux-based Tizen OS, slated to arrive in 2012
+3.   MeeGo is dead: Meet Tizen, another new open source OS based on Linux
+4.  <https://meego.com/community/blogs/imad/2011/whats-next-meego> What's Next for MeeGo
+5.  <http://www.phoronix.com/scan.php?page=news_item&px=OTk1Mg> Tizen Is Announced; MeeGo Will Transition To It
 6.  <http://www.tizen.org> Tizen Official Website
 7.

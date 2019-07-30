@@ -1,4 +1,4 @@
-《**初戀**》（），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年2月21日發行。
+《**初戀**》（），[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年2月21日發行。
 
 ## 簡介
 
@@ -23,7 +23,6 @@
 
   - [唱片介紹](https://web.archive.org/web/20110908013559/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200000002134&DSP_SKHKETSEQ=001)
 
-[Category:Aiko歌曲](https://zh.wikipedia.org/wiki/Category:Aiko歌曲 "wikilink")
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
+[Category:Aiko歌曲](https://zh.wikipedia.org/wiki/Category:Aiko歌曲 "wikilink") [Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
 
 1.  [](http://www.musictvprogram.com/corner-ranking-2001-3-5.html)

@@ -12,6 +12,4 @@
   - [Q Magazine lists](http://www.rocklistmusic.co.uk/qlists.html)
   - [《Q娱乐世界》官方网站](https://web.archive.org/web/20130122031210/http://www.qmagazine.cn/)
 
-[Category:英國雜誌](https://zh.wikipedia.org/wiki/Category:英國雜誌 "wikilink")
-[Category:音樂雜誌](https://zh.wikipedia.org/wiki/Category:音樂雜誌 "wikilink")
-[Category:1986年建立的出版物](https://zh.wikipedia.org/wiki/Category:1986年建立的出版物 "wikilink")
+[Category:英國雜誌](https://zh.wikipedia.org/wiki/Category:英國雜誌 "wikilink") [Category:音樂雜誌](https://zh.wikipedia.org/wiki/Category:音樂雜誌 "wikilink") [Category:1986年建立的出版物](https://zh.wikipedia.org/wiki/Category:1986年建立的出版物 "wikilink")

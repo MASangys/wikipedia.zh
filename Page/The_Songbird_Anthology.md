@@ -56,25 +56,19 @@
 ### 歌曲《水百合》
 
   - [2011年度十大勁歌金曲頒獎典禮](../Page/2011年度十大勁歌金曲得獎名單.md "wikilink")－十大勁歌金曲
-  - [2012
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2012_CASH金帆音樂獎 "wikilink")\[3\]－CASH最佳歌曲大獎（提名）
-  - [2012
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2012_CASH金帆音樂獎 "wikilink")－最佳旋律（提名）
-  - [2012
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2012_CASH金帆音樂獎 "wikilink")－最佳女歌手演繹（提名）
+  - [2012 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2012_CASH金帆音樂獎 "wikilink")\[3\]－CASH最佳歌曲大獎（提名）
+  - [2012 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2012_CASH金帆音樂獎 "wikilink")－最佳旋律（提名）
+  - [2012 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2012_CASH金帆音樂獎 "wikilink")－最佳女歌手演繹（提名）
 
 ### 歌曲《下次愛你》
 
   - [2012年度勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink") - 第一回得獎金曲
-  - [2012
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2012_CASH金帆音樂獎 "wikilink")－最佳旋律（提名）
+  - [2012 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2012_CASH金帆音樂獎 "wikilink")－最佳旋律（提名）
 
 ## 參考文獻
 
-[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
+[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
 
 1.
 2.  [2011年度《香港唱片銷量大獎》](http://www.ifpihk.org/zh/hong-kong-top-sales-music-award-presented-01-11/hong-kong-top-sales-music-award-presented/2011)
-3.  [《2012
-    CASH金帆音樂獎》入圍名單](http://www.cash.org.hk/UserFiles/File/en/news/2012%20Golden%20Sail%20/Finalists%202012.pdf)
+3.  [《2012 CASH金帆音樂獎》入圍名單](http://www.cash.org.hk/UserFiles/File/en/news/2012%20Golden%20Sail%20/Finalists%202012.pdf)

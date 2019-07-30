@@ -1,21 +1,8 @@
-"**Fuck You**" (中譯：去你的) 是英國歌手[莉莉·艾倫](../Page/莉莉·艾倫.md "wikilink")
-發行的第二張個人專輯*[It's Not Me, It's
-You](https://zh.wikipedia.org/wiki/It's_Not_Me,_It's_You "wikilink")*所收錄之單曲；亦為其全球發行之第三首單曲。\[1\]
+"**Fuck You**" (中譯：去你的) 是英國歌手[莉莉·艾倫](../Page/莉莉·艾倫.md "wikilink") 發行的第二張個人專輯*[It's Not Me, It's You](https://zh.wikipedia.org/wiki/It's_Not_Me,_It's_You "wikilink")*所收錄之單曲；亦為其全球發行之第三首單曲。\[1\]
 
 ## 歌曲資訊
 
-這首歌最早和其餘二首歌（當時名稱為"I Could Say" 及 "I Don't Know"，後者即為"[The
-Fear](../Page/The_Fear_\(單曲\).md "wikilink")"的前身）一同出現在艾倫的Myspace個人頁面上以供試聽。當時的歌名為"Guess
-Who
-Batman"。雖然此名稱顧名思義似乎以[蝙蝠俠作為影射對象](../Page/蝙蝠俠.md "wikilink")，但根據《[新音樂快遞](https://zh.wikipedia.org/wiki/新音樂快遞 "wikilink")》及
-《[滾石音樂雜誌](../Page/滾石_\(雜誌\).md "wikilink")》敘述，這首歌是以反[小布希作為號召](https://zh.wikipedia.org/wiki/喬治·沃克·布希 "wikilink")。\[2\]\[3\]
-在巴西圣保罗的一场巡演中，艾伦声称：“这首歌曲最初是写给那个他妈的混蛋——前美国总统[喬治·沃克·布希](https://zh.wikipedia.org/wiki/喬治·沃克·布希 "wikilink")！”\[4\]不過根據*Urban
-Review*所言，當初艾倫是因受到[英国国民党](https://zh.wikipedia.org/wiki/英国国民党 "wikilink")（British
-National
-Party，BNP）的影響寫成，並加註「後來發現歌曲內容範圍涵蓋不僅止於單一事件，因而\[她\]就取消了原先針對的特定對象。」\[5\]
-在2009年的[格拉斯頓伯里當代表演藝術節當中](https://zh.wikipedia.org/wiki/格拉斯頓伯里當代表演藝術節 "wikilink")，在表演該曲之前艾倫特別提到演唱該歌曲的原因是受到了[2009年歐洲議會選舉中](../Page/2009年歐洲議會選舉.md "wikilink")，英國國家黨首度取得代表席所致。\[6\]
-這首歌由艾倫本人和[Greg
-Kurstin寫成](https://zh.wikipedia.org/wiki/Greg_Kurstin "wikilink")。
+這首歌最早和其餘二首歌（當時名稱為"I Could Say" 及 "I Don't Know"，後者即為"[The Fear](../Page/The_Fear_\(單曲\).md "wikilink")"的前身）一同出現在艾倫的Myspace個人頁面上以供試聽。當時的歌名為"Guess Who Batman"。雖然此名稱顧名思義似乎以[蝙蝠俠](../Page/蝙蝠俠.md "wikilink")作為影射對象，但根據《[新音樂快遞](https://zh.wikipedia.org/wiki/新音樂快遞 "wikilink")》及 《[滾石音樂雜誌](../Page/滾石_\(雜誌\).md "wikilink")》敘述，這首歌是以反[小布希作為號召](https://zh.wikipedia.org/wiki/喬治·沃克·布希 "wikilink")。\[2\]\[3\] 在巴西圣保罗的一场巡演中，艾伦声称：“这首歌曲最初是写给那个他妈的混蛋——前美国总统[喬治·沃克·布希](https://zh.wikipedia.org/wiki/喬治·沃克·布希 "wikilink")！”\[4\]不過根據*Urban Review*所言，當初艾倫是因受到[英国国民党](https://zh.wikipedia.org/wiki/英国国民党 "wikilink")（British National Party，BNP）的影響寫成，並加註「後來發現歌曲內容範圍涵蓋不僅止於單一事件，因而\[她\]就取消了原先針對的特定對象。」\[5\] 在2009年的[格拉斯頓伯里當代表演藝術節當中](https://zh.wikipedia.org/wiki/格拉斯頓伯里當代表演藝術節 "wikilink")，在表演該曲之前艾倫特別提到演唱該歌曲的原因是受到了[2009年歐洲議會選舉](../Page/2009年歐洲議會選舉.md "wikilink")中，英國國家黨首度取得代表席所致。\[6\] 這首歌由艾倫本人和[Greg Kurstin寫成](https://zh.wikipedia.org/wiki/Greg_Kurstin "wikilink")。
 
 ## 成績
 
@@ -25,8 +12,7 @@ Kurstin寫成](https://zh.wikipedia.org/wiki/Greg_Kurstin "wikilink")。
 
 ## 音樂錄影帶
 
-該音樂錄影帶正式於2009年6月15日於網路視頻網站YouTube的[Parlophone官方頻道上發布](https://zh.wikipedia.org/wiki/Parlophone "wikilink")。EMI唱片委託法國製片商*Frenzy
-Paris*負責執行製作，後者之後起用*AB/CD/CD*作為藝術指導。影片採以艾倫為主的第一視角，拍攝她從飯店房間至電視台的經過。在片中，艾倫用手不斷地歪解她身旁物體的大小，例如將艾菲爾鐵塔伸長，以及使一個片中男子的爆炸頭膨脹。\[9\]
+該音樂錄影帶正式於2009年6月15日於網路視頻網站YouTube的[Parlophone官方頻道上發布](https://zh.wikipedia.org/wiki/Parlophone "wikilink")。EMI唱片委託法國製片商*Frenzy Paris*負責執行製作，後者之後起用*AB/CD/CD*作為藝術指導。影片採以艾倫為主的第一視角，拍攝她從飯店房間至電視台的經過。在片中，艾倫用手不斷地歪解她身旁物體的大小，例如將艾菲爾鐵塔伸長，以及使一個片中男子的爆炸頭膨脹。\[9\]
 
 ## 曲目資訊
 
@@ -127,26 +113,17 @@ Paris*負責執行製作，後者之後起用*AB/CD/CD*作為藝術指導。影�
 
 ## 參考資料
 
-[de:It’s Not Me, It’s You\#Zum
-Album](https://zh.wikipedia.org/wiki/de:It’s_Not_Me,_It’s_You#Zum_Album "wikilink")
+[de:It’s Not Me, It’s You\#Zum Album](https://zh.wikipedia.org/wiki/de:It’s_Not_Me,_It’s_You#Zum_Album "wikilink")
 
-[Category:英國歌曲](https://zh.wikipedia.org/wiki/Category:英國歌曲 "wikilink")
-[Category:英語歌曲](https://zh.wikipedia.org/wiki/Category:英語歌曲 "wikilink")
-[Category:_2008_年單曲](https://zh.wikipedia.org/wiki/Category:_2008_年單曲 "wikilink")
+[Category:英國歌曲](https://zh.wikipedia.org/wiki/Category:英國歌曲 "wikilink") [Category:英語歌曲](https://zh.wikipedia.org/wiki/Category:英語歌曲 "wikilink") [Category:_2008_年單曲](https://zh.wikipedia.org/wiki/Category:_2008_年單曲 "wikilink")
 
 1.
 
-2.  ["Lily Allen gets political in LA: Singer speaks out against
-    President George W Bush"](http://www.nme.com/news/lily-allen/43881).
-    *[NME](https://zh.wikipedia.org/wiki/NME "wikilink")*. April 3,
-    2009.
+2.  ["Lily Allen gets political in LA: Singer speaks out against President George W Bush"](http://www.nme.com/news/lily-allen/43881). *[NME](https://zh.wikipedia.org/wiki/NME "wikilink")*. April 3, 2009.
 
-3.  [Rolling Stone Album
-    Review](http://www.rollingstone.com/reviews/album/25574875/review/25885625?utm_source=Rhapsody&utm_medium=CDreview).
-    Jody Rosen. Feb 4, 2009.
+3.  [Rolling Stone Album Review](http://www.rollingstone.com/reviews/album/25574875/review/25885625?utm_source=Rhapsody&utm_medium=CDreview). Jody Rosen. Feb 4, 2009.
 
-4.  [Lily Allen - Fuck You (Live At Brazil - São Paulo) -
-    YouTube](http://www.youtube.com/watch?v=4kD6CkULxMs)
+4.  [Lily Allen - Fuck You (Live At Brazil - São Paulo) - YouTube](http://www.youtube.com/watch?v=4kD6CkULxMs)
 
 5.
 
@@ -155,9 +132,7 @@ Album](https://zh.wikipedia.org/wiki/de:It’s_Not_Me,_It’s_You#Zum_Album "wik
 
 8.
 
-9.  [Pop Payback:The British star’s caustic clip, made by French
-    filmmakers, goes viral Wall Street Journal 2
-    July, 2009](http://online.wsj.com/article/SB10001424052970204556804574262371895054780.html?mod=googlenews_wsj)
+9.  [Pop Payback:The British star’s caustic clip, made by French filmmakers, goes viral Wall Street Journal 2 July, 2009](http://online.wsj.com/article/SB10001424052970204556804574262371895054780.html?mod=googlenews_wsj)
 
 10.
 11.

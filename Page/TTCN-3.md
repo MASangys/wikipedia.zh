@@ -1,16 +1,10 @@
-**TTCN-3**, 简称 **测试及测试控制表达法(Testing and Test Control Notation)**,
-是国际标准化的测试准用开发[编程语言](../Page/编程语言.md "wikilink")。主要用于基于通讯的系统测试自动化，例如通讯协议测试，以及嵌入式系统测试。此外，TTCN-3也常用于测试规范及文档开发。
+**TTCN-3**, 简称 **测试及测试控制表达法(Testing and Test Control Notation)**, 是国际标准化的测试准用开发[编程语言](../Page/编程语言.md "wikilink")。主要用于基于通讯的系统测试自动化，例如通讯协议测试，以及嵌入式系统测试。此外，TTCN-3也常用于测试规范及文档开发。
 
-**TTCN-3**
-的前身称为[TTCN及TTCN](https://zh.wikipedia.org/wiki/TTCN "wikilink")-2，为树形和表格表达法（Tree
-and Tabular Combined Notation）的简称。
+**TTCN-3** 的前身称为[TTCN及TTCN](https://zh.wikipedia.org/wiki/TTCN "wikilink")-2，为树形和表格表达法（Tree and Tabular Combined Notation）的简称。
 
 ## 创建及版本
 
-TTCN-3由欧洲电信标准研究所（European Telecommunications Standards Institute / ETSI）
-及
-[国际电信联盟远程通信标准化组](https://zh.wikipedia.org/wiki/国际电信联盟远程通信标准化组 "wikilink")（ITU-T）创建，2000年发布第一版（Edition
-1）。当前最新版本为2012年发布的Edition 4.4.1。
+TTCN-3由欧洲电信标准研究所（European Telecommunications Standards Institute / ETSI） 及 [国际电信联盟远程通信标准化组](https://zh.wikipedia.org/wiki/国际电信联盟远程通信标准化组 "wikilink")（ITU-T）创建，2000年发布第一版（Edition 1）。当前最新版本为2012年发布的Edition 4.4.1。
 
 ## 典型应用领域
 
@@ -43,8 +37,7 @@ TTCN-3是一种抽象的测试语言，支持三种表现方式：
 
 ### 界面标准化：控制界面（TCI）和运行时界面（TRI）
 
-有别于TTCN和TTCN-2，TTCN-3标准 还定义了标准控制界面TCI (TTCN-3 Control Interface)，
-和运行时界面TRI (TTCN-3 Runtime Interface)。
+有别于TTCN和TTCN-2，TTCN-3标准 还定义了标准控制界面TCI (TTCN-3 Control Interface)， 和运行时界面TRI (TTCN-3 Runtime Interface)。
 
   - TRI – 连接测试执行单元与待测系统
   - TCI – 连接测试执行单元与测试管理系统（图形用户界面或命令行界面），并且定义编解码及测试日志信息传递。
@@ -59,7 +52,7 @@ TTCN-3是一种抽象的测试语言，支持三种表现方式：
 
 ### TTCN-3编译器：TTthree
 
-TTthree是由[柏林工业大学和](../Page/柏林工业大学.md "wikilink")[弗劳恩霍夫协会通讯研究所于](../Page/弗劳恩霍夫协会.md "wikilink")2000年联合开发的TTCN-3编译器。2001年被欧洲电信标准研究所（ETSI）认定为首个TTCN-3[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")。其后位于柏林的测试科技公司开发接手其后续开发并将其整合为TTCN-3一体开发环境，即TTCN-3工具TTworkbench。
+TTthree是由[柏林工业大学](../Page/柏林工业大学.md "wikilink")和[弗劳恩霍夫协会](../Page/弗劳恩霍夫协会.md "wikilink")通讯研究所于2000年联合开发的TTCN-3编译器。2001年被欧洲电信标准研究所（ETSI）认定为首个TTCN-3[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")。其后位于柏林的测试科技公司开发接手其后续开发并将其整合为TTCN-3一体开发环境，即TTCN-3工具TTworkbench。
 
 ### TTCN-3 核心语言编辑器
 
@@ -83,11 +76,9 @@ TTworkbench是由德国TestingTech公司开发的TTCN-3工具，是集成的测�
 
 ## TTCN-3 培训认证
 
-TTCN-3工具厂商大多同时提供TTCN-3
-培训课程。部分可提供经ISQI认证的TTCN-3理论培训。学员完成培训，可参加认证考试，通过后可获得资格证书。
+TTCN-3工具厂商大多同时提供TTCN-3 培训课程。部分可提供经ISQI认证的TTCN-3理论培训。学员完成培训，可参加认证考试，通过后可获得资格证书。
 
-[ISQI](http://www.isqi.org/zertifizierung/ttcn-3R-certificate/)
-监督执行认证考试并颁发证书。
+[ISQI](http://www.isqi.org/zertifizierung/ttcn-3R-certificate/) 监督执行认证考试并颁发证书。
 
 ## 外部链接
 
@@ -96,5 +87,4 @@ TTCN-3工具厂商大多同时提供TTCN-3
   - [ttcn-3\\TTworkbench中文网址](http://www.testingtech.com.cn)
   - [快速参考卡](http://www.blukaktus.com/TTCN3QRC_viewme.pdf)
 
-[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")
-[Category:软件测试](https://zh.wikipedia.org/wiki/Category:软件测试 "wikilink")
+[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink") [Category:软件测试](https://zh.wikipedia.org/wiki/Category:软件测试 "wikilink")

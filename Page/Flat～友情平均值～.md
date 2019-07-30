@@ -1,13 +1,10 @@
-《**flat～友情平均值～**》是一部由[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[青桐夏](https://zh.wikipedia.org/wiki/青桐夏 "wikilink")（，暫譯）於《[月刊Comic
-Blade
-Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Blade_Avarus "wikilink")》連載的漫畫作品。此漫畫同時是該作者第一部的商業作品\[1\]。
+《**flat～友情平均值～**》是一部由[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[青桐夏](https://zh.wikipedia.org/wiki/青桐夏 "wikilink")（，暫譯）於《[月刊Comic Blade Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Blade_Avarus "wikilink")》連載的漫畫作品。此漫畫同時是該作者第一部的商業作品\[1\]。
 
 ## 概要及故事簡介
 
 故事內容基本上是圍繞主角平介和他闊別數年的表弟小秋重遇後所發生的點點滴滴。
 
-作品首先以短篇《flat》及《flat；andante》刊登於《[月刊Comic
-Avarus](../Page/月刊Comic_Avarus.md "wikilink")》\[2\]，之後決定在2008年3月出版的4月號開始正式連載\[3\]。
+作品首先以短篇《flat》及《flat；andante》刊登於《[月刊Comic Avarus](../Page/月刊Comic_Avarus.md "wikilink")》\[2\]，之後決定在2008年3月出版的4月號開始正式連載\[3\]。
 
 另外，漫畫和[育江綾](../Page/育江綾.md "wikilink")的《》於《[這本漫畫真厲害！](../Page/這本漫畫真厲害！.md "wikilink")（）》2010年版同列女性篇的第九位\[4\]。
 
@@ -43,12 +40,9 @@ Avarus](../Page/月刊Comic_Avarus.md "wikilink")》\[2\]，之後決定在2008�
 
 ## 外部連結
 
-  - [月刊Comic Blade
-    Avarus官方網站](http://www.mag-garden.co.jp/comic-blade/avarus/top.html)
+  - [月刊Comic Blade Avarus官方網站](http://www.mag-garden.co.jp/comic-blade/avarus/top.html)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Mag_Garden](https://zh.wikipedia.org/wiki/Category:Mag_Garden "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Mag_Garden](https://zh.wikipedia.org/wiki/Category:Mag_Garden "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
 
 1.  漫畫單行本第一冊 作者的話
 

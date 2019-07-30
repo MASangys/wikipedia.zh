@@ -1,5 +1,4 @@
-《**模型戰士鋼彈模型製作家
-起始G**》（）2010年為GUNDAM模型30周年記念的[日本](../Page/日本.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，共3集。
+《**模型戰士鋼彈模型製作家 起始G**》（）2010年為GUNDAM模型30周年記念的[日本](../Page/日本.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，共3集。
 
 ## 概要
 
@@ -9,10 +8,7 @@
 
 ## 故事簡介
 
-2009年的夏天，前往[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[御台場](../Page/御台場.md "wikilink")「潮風公園」觀賞實物大GUNDAM立像的小晴，與一款神秘的GUNDAM模型套件「起始鋼彈」經歷了命運性的邂逅。
-近來，社會上流行著使用「GUNDAM模型掃描機」掃描自己製作的GUNDAM模型，並藉由自己操作來與同好相互對戰的「GUNDAM模型大戰」。
-小晴就在好友健太的邀請之下，以自己組裝完成的起始鋼彈參加了GUNDAM模型大戰。
-就這樣，小晴走上了鋼彈模型製作家之路，並朝著究極的稱號「高達模型王」邁進。
+2009年的夏天，前往[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[御台場](../Page/御台場.md "wikilink")「潮風公園」觀賞實物大GUNDAM立像的小晴，與一款神秘的GUNDAM模型套件「起始鋼彈」經歷了命運性的邂逅。 近來，社會上流行著使用「GUNDAM模型掃描機」掃描自己製作的GUNDAM模型，並藉由自己操作來與同好相互對戰的「GUNDAM模型大戰」。 小晴就在好友健太的邀請之下，以自己組裝完成的起始鋼彈參加了GUNDAM模型大戰。 就這樣，小晴走上了鋼彈模型製作家之路，並朝著究極的稱號「高達模型王」邁進。
 
 ## 製作人員
 
@@ -70,9 +66,7 @@
   - GPB-06F 超特裝型薩克F2000
     GPB-04B 熊亞凱
     GPB-X78 永遠鋼彈
-    RX-93-ν2
-    [Hi-νGUNDAM](https://zh.wikipedia.org/wiki/RX-93系列機動戰士 "wikilink")
-    GPB配色
+    RX-93-ν2 [Hi-νGUNDAM](https://zh.wikipedia.org/wiki/RX-93系列機動戰士 "wikilink") GPB配色
     MS-05L 薩克I·狙擊型
     AMX-107 龍飛
     MS-09 德姆
@@ -125,17 +119,11 @@
 
   - [GUNDAM模型30周年公式網站](http://bandai-hobby.net/site/gunpla_list_builders.html)
 
-  - [模型战士敢达模型大师 BEGINNING G
-    爱奇艺独播专区](https://web.archive.org/web/20140223125542/http://www.iqiyi.com/dongman/gunplag.html)
+  - [模型战士敢达模型大师 BEGINNING G 爱奇艺独播专区](https://web.archive.org/web/20140223125542/http://www.iqiyi.com/dongman/gunplag.html)
 
-  - [模型战士GUNPLA BUILDERS BEGINNING G
-    优酷独播专区](http://www.youku.com/show_page/id_z538273b2287111e1b16f.html)
+  - [模型战士GUNPLA BUILDERS BEGINNING G 优酷独播专区](http://www.youku.com/show_page/id_z538273b2287111e1b16f.html)
 
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
-[Category:2009年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2009年日本OVA動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:靜岡市背景作品](https://zh.wikipedia.org/wiki/Category:靜岡市背景作品 "wikilink")
+[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink") [Category:2009年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2009年日本OVA動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:靜岡市背景作品](https://zh.wikipedia.org/wiki/Category:靜岡市背景作品 "wikilink")
 
 1.  電擊嗜好流行月刊 台灣中文版 2010年7月號
 2.  [](http://www.gundam.info/topic/4475)

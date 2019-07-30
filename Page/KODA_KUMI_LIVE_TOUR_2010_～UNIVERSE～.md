@@ -1,21 +1,16 @@
-《KODA KUMI LIVE TOUR 2010 ～UNIVERSE～》（倖田來未 2010巡迴演唱會
-～無限宇宙～）為日本歌手[倖田來未於](../Page/倖田來未.md "wikilink")2010年10月6日發行之7th個人巡迴演唱會DVD。
+《KODA KUMI LIVE TOUR 2010 ～UNIVERSE～》（倖田來未 2010巡迴演唱會 ～無限宇宙～）為日本歌手[倖田來未](../Page/倖田來未.md "wikilink")於2010年10月6日發行之7th個人巡迴演唱會DVD。
 
 ## 解說
 
-  - 本DVD為從2010年4月11日於大阪城ホール開始的巡迴演唱會，於全國9地區，共18場公演「KODA KUMI LIVE TOUR
-    2010 ～UNIVERSE～」。
+  - 本DVD為從2010年4月11日於大阪城ホール開始的巡迴演唱會，於全國9地區，共18場公演「KODA KUMI LIVE TOUR 2010 ～UNIVERSE～」。
 
 <!-- end list -->
 
-  - 本次動員人數（包含[橫濱球場舉行的](../Page/橫濱球場.md "wikilink")「DREAM MUSIC
-    PARK」）20萬人，為過去的巡迴演唱會人次以來最多人的紀錄（Black
-    Cherry：18萬人，Kingdom：14萬人，TRICK：18萬人）。\[1\]
+  - 本次動員人數（包含[橫濱球場](../Page/橫濱球場.md "wikilink")舉行的「DREAM MUSIC PARK」）20萬人，為過去的巡迴演唱會人次以來最多人的紀錄（Black Cherry：18萬人，Kingdom：14萬人，TRICK：18萬人）。\[1\]
 
 <!-- end list -->
 
-  - 收錄睽違4年的爆笑解說副聲道（上次為[KODA KUMI LIVE TOUR 2006-2007 ～second
-    session～](../Page/KODA_KUMI_LIVE_TOUR_2006-2007_～second_session～.md "wikilink")）。
+  - 收錄睽違4年的爆笑解說副聲道（上次為[KODA KUMI LIVE TOUR 2006-2007 ～second session～](../Page/KODA_KUMI_LIVE_TOUR_2006-2007_～second_session～.md "wikilink")）。
 
 <!-- end list -->
 
@@ -23,7 +18,7 @@
 
 <!-- end list -->
 
-  - 本作為第7張連續奪冠的巡迴演唱會DVD，且與[瀧澤秀明並列個人歌手DVD作品](../Page/瀧澤秀明.md "wikilink")「奪冠數」、「連續奪冠數」第一，和「連續奪冠年數」單獨第一的三冠王佳績。
+  - 本作為第7張連續奪冠的巡迴演唱會DVD，且與[瀧澤秀明](../Page/瀧澤秀明.md "wikilink")並列個人歌手DVD作品「奪冠數」、「連續奪冠數」第一，和「連續奪冠年數」單獨第一的三冠王佳績。
   - 藍光DVD於 2011年5月18日發售
 
 ## 曲目
@@ -56,8 +51,7 @@
 20. With your smile
       -
         【ENCORE】
-21. Single Medley：Lady Go\!～stay with me～Butterfly～LAST
-    ANGEL～TABOO～girls～Good☆day
+21. Single Medley：Lady Go\!～stay with me～Butterfly～LAST ANGEL～TABOO～girls～Good☆day
 22. Comes Up
 23. walk
 
@@ -104,8 +98,7 @@
 20. With your smile
       -
         【ENCORE】
-21. Single Medley：Lady Go\!～stay with me～Butterfly～LAST
-    ANGEL～TABOO～girls～Good☆day
+21. Single Medley：Lady Go\!～stay with me～Butterfly～LAST ANGEL～TABOO～girls～Good☆day
 22. Comes Up
 23. walk
 
@@ -113,7 +106,6 @@
 
 <references/>
 
-[Category:倖田來未影音作品](https://zh.wikipedia.org/wiki/Category:倖田來未影音作品 "wikilink")
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
+[Category:倖田來未影音作品](https://zh.wikipedia.org/wiki/Category:倖田來未影音作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
 
 1.

@@ -1,5 +1,4 @@
-**「RADI-ON\!」特別版\!**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是2010年2月24日由[PONY
-CANYON發行的](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")《[K-ON\!網路廣播](https://zh.wikipedia.org/wiki/K-ON!#網路廣播 "wikilink")》的廣播CD。
+**「RADI-ON\!」特別版\!**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是2010年2月24日由[PONY CANYON發行的](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")《[K-ON\!網路廣播](https://zh.wikipedia.org/wiki/K-ON!#網路廣播 "wikilink")》的廣播CD。
 
 ## 概要
 
@@ -48,8 +47,7 @@ CANYON發行的](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")《[K-ON\!
       -
         ★「ふわふわ時間」
           -
-            作詞：秋山澪
-            作曲／編曲：[前澤寛之](https://zh.wikipedia.org/wiki/前澤寛之 "wikilink")
+            作詞：秋山澪 作曲／編曲：[前澤寛之](https://zh.wikipedia.org/wiki/前澤寛之 "wikilink")
             歌：平澤唯 コーラス：秋山澪
         ★「わたしの恋はホッチキス」
           -
@@ -69,6 +67,4 @@ CANYON發行的](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")《[K-ON\!
   -
   -
   -
-[Category:K-ON\!](https://zh.wikipedia.org/wiki/Category:K-ON! "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:動畫廣播](https://zh.wikipedia.org/wiki/Category:動畫廣播 "wikilink")
+[Category:K-ON\!](https://zh.wikipedia.org/wiki/Category:K-ON! "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:動畫廣播](https://zh.wikipedia.org/wiki/Category:動畫廣播 "wikilink")

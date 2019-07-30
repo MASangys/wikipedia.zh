@@ -1,5 +1,4 @@
-《**星际争霸II：虫群之心**》（*StarCraft II: Heart of the
-Swarm*）是暴雪娱乐出品的科幻[即时战略游戏](https://zh.wikipedia.org/wiki/即时战略 "wikilink")《[星际争霸II：自由之翼](https://zh.wikipedia.org/wiki/星际争霸II：自由之翼 "wikilink")》的续篇，同时也是《[星际争霸II三部曲](https://zh.wikipedia.org/wiki/星际争霸系列 "wikilink")》中的第二部，其第三部为《[星际争霸II：虚空之遗](../Page/星际争霸II：虚空之遗.md "wikilink")》。
+《**星际争霸II：虫群之心**》（*StarCraft II: Heart of the Swarm*）是暴雪娱乐出品的科幻[即时战略游戏](https://zh.wikipedia.org/wiki/即时战略 "wikilink")《[星际争霸II：自由之翼](https://zh.wikipedia.org/wiki/星际争霸II：自由之翼 "wikilink")》的续篇，同时也是《[星际争霸II三部曲](https://zh.wikipedia.org/wiki/星际争霸系列 "wikilink")》中的第二部，其第三部为《[星际争霸II：虚空之遗](../Page/星际争霸II：虚空之遗.md "wikilink")》。
 
 本资料片主以[异虫](https://zh.wikipedia.org/wiki/虫族_\(星海争霸\) "wikilink")（Zerg）为主题，包含了约20个新战役任务，以及若干新兵种单位、科技和地图。
 
@@ -64,9 +63,7 @@ Swarm*）是暴雪娱乐出品的科幻[即时战略游戏](https://zh.wikipedia
 <!-- end list -->
 
   -
-    寡婦詭雷是全新的埋伏單位，可在軍工廠中建造，人類能藉此單位掌控戰局。寡婦詭雷移動到定點後即切換到「駐守模式」（stationary
-    mode），進入此模式後便會啟動且遁入地底，一旦敵方空中單位和地面單位進入攻擊範圍時，會發射一顆飛彈，鎖定一名單位，對該單位造成 125
-    點傷害（對神族有額外35點護盾傷害）並對其周圍的小範圍區域造成40點濺射傷害，飛彈填充時間是40秒。需要注意的是，其飛彈對己方單位亦有可能造成誤傷。
+    寡婦詭雷是全新的埋伏單位，可在軍工廠中建造，人類能藉此單位掌控戰局。寡婦詭雷移動到定點後即切換到「駐守模式」（stationary mode），進入此模式後便會啟動且遁入地底，一旦敵方空中單位和地面單位進入攻擊範圍時，會發射一顆飛彈，鎖定一名單位，對該單位造成 125 點傷害（對神族有額外35點護盾傷害）並對其周圍的小範圍區域造成40點濺射傷害，飛彈填充時間是40秒。需要注意的是，其飛彈對己方單位亦有可能造成誤傷。
 
 <!-- end list -->
 
@@ -99,8 +96,7 @@ Swarm*）是暴雪娱乐出品的科幻[即时战略游戏](https://zh.wikipedia
 <!-- end list -->
 
   -
-    飛蟒是全新的空中魔法單位，具有三種獨特技能。「失能毒霧」（Blinding
-    Cloud）能在14秒內將煙霧中的敵方地面單位或建築射程縮短至近戰範圍。「劫持」（Abduct）則能將一個單位強拉至飛蟒所在位置。「吞噬」20秒內吞噬己方建築的生命值200點並將傷害轉換成50點飛蟒的能量。
+    飛蟒是全新的空中魔法單位，具有三種獨特技能。「失能毒霧」（Blinding Cloud）能在14秒內將煙霧中的敵方地面單位或建築射程縮短至近戰範圍。「劫持」（Abduct）則能將一個單位強拉至飛蟒所在位置。「吞噬」20秒內吞噬己方建築的生命值200點並將傷害轉換成50點飛蟒的能量。
 
 <!-- end list -->
 
@@ -120,8 +116,7 @@ Swarm*）是暴雪娱乐出品的科幻[即时战略游戏](https://zh.wikipedia
   -
     雷獸的傷害修正為35，自由之翼時是15(對重甲+20)。
     監察王蟲除了保持其「自由之翼」原有的技能不變之外，現在還能夠在攻城範圍孵化變形蟲。
-    刺蛇的新升級-肌力增強(Muscular
-    Augments)能使其在非蟲苔覆蓋區域的移動速度變快(2.81)，但蟲苔上的速度不變(3.38)。
+    刺蛇的新升級-肌力增強(Muscular Augments)能使其在非蟲苔覆蓋區域的移動速度變快(2.81)，但蟲苔上的速度不變(3.38)。
     飛鏜（Mutalisk）的移動速度變快(3.75-\>4)，回血速度提高（非戰鬥狀態1秒回1HP）。
     **遁地**以及**蟲殼導流**（提升王蟲和監察王蟲的飛行速度）成為可以在孵化所研究的科技，不再需要升級成蟲穴。
 
@@ -143,8 +138,7 @@ Swarm*）是暴雪娱乐出品的科幻[即时战略游戏](https://zh.wikipedia
 <!-- end list -->
 
   -
-    先知艦是在星際之門建造出來的幽能戰艦，並具備了數種擾敵的獨特技能。首先是「預見」(Revelation)技能，讓先知艦可以變成偵隱單位偵測遁地或匿縱的敵人（60秒）；接下來是「天啟」（Envision），指定一個範圍，在一段時間內可以具備偵察和取得目標建築周圍視野的能力。此外，先知艦還具備攻擊技能-啟動脈衝光束(Activate
-    Pulsar Beam)，透過充能來對地面單位造成傷害，對輕甲單位威脅極大。
+    先知艦是在星際之門建造出來的幽能戰艦，並具備了數種擾敵的獨特技能。首先是「預見」(Revelation)技能，讓先知艦可以變成偵隱單位偵測遁地或匿縱的敵人（60秒）；接下來是「天啟」（Envision），指定一個範圍，在一段時間內可以具備偵察和取得目標建築周圍視野的能力。此外，先知艦還具備攻擊技能-啟動脈衝光束(Activate Pulsar Beam)，透過充能來對地面單位造成傷害，對輕甲單位威脅極大。
 
 <!-- end list -->
 
@@ -153,10 +147,7 @@ Swarm*）是暴雪娱乐出品的科幻[即时战略游戏](https://zh.wikipedia
 <!-- end list -->
 
   -
-    因為許多原因，母艦核心非常獨特。一次只能有一個母艦核心，核心能轉變成聖母艦。該單位具備了以下3種技能：「時空扭曲」(Time
-    Warp)，這個技能可以降低指定區域的敵軍陸軍單位一半的移動速度，持續30秒。「群體召喚」(Mass
-    Recall)技能，使玩家可迅速將母艦核心和週遭友方單位傳送至目標星核；「光子彈」(Photon
-    Overcharge)技能，此防禦性技能可使星核短暫的成為可攻擊的防禦建築（60秒，射程13）。
+    因為許多原因，母艦核心非常獨特。一次只能有一個母艦核心，核心能轉變成聖母艦。該單位具備了以下3種技能：「時空扭曲」(Time Warp)，這個技能可以降低指定區域的敵軍陸軍單位一半的移動速度，持續30秒。「群體召喚」(Mass Recall)技能，使玩家可迅速將母艦核心和週遭友方單位傳送至目標星核；「光子彈」(Photon Overcharge)技能，此防禦性技能可使星核短暫的成為可攻擊的防禦建築（60秒，射程13）。
 
 <!-- end list -->
 
@@ -168,44 +159,26 @@ Swarm*）是暴雪娱乐出品的科幻[即时战略游戏](https://zh.wikipedia
     鳳凰戰機起始射程由4增加至5(射程升級仍然+2)。
     哨衛的幻象技能不需要研發。
     暮光議會中的瞬移技能研發時間從140秒延長至170秒。
-    虛空艦的攻擊延遲由0.6秒改為0.5秒，其傷害不再隨時間而增加，也取消對巨型單位的加成傷害，但新增一個主動技能「稜鏡校準」(Prismatic
-    Alignment)可使虛空艦在20秒內對重甲單位的傷害增加6點，冷卻時間60秒，此技能不會受升級影響。
+    虛空艦的攻擊延遲由0.6秒改為0.5秒，其傷害不再隨時間而增加，也取消對巨型單位的加成傷害，但新增一個主動技能「稜鏡校準」(Prismatic Alignment)可使虛空艦在20秒內對重甲單位的傷害增加6點，冷卻時間60秒，此技能不會受升級影響。
     聖母艦現在由聖母艦核心轉化而成(100秒，需要300晶礦，300瓦斯)，移除「黑洞」技能，聖母艦擁有原先母艦核心的「時空扭曲」以及「群體召喚」技能與自由之翼時的匿縱力場，聖母艦核心轉化成聖母艦時，能量將回復成50點，一支星灵部隊最多只能同時擁有一艘母艦核心或聖母艦。
 
 ## 发行
 
 ### 中国大陆
 
-2013年5月27日，《星际争霸II：虫群之心》通过了[中华人民共和国文化部的审批](../Page/中华人民共和国文化部.md "wikilink")\[13\]。
-6月28日，[暴雪娱乐与](https://zh.wikipedia.org/wiki/暴雪娱乐 "wikilink")[网易宣布](../Page/网易.md "wikilink")《星际争霸II：虫群之心》定于7月17日在中国大陆正式发行。\[14\]
+2013年5月27日，《星际争霸II：虫群之心》通过了[中华人民共和国文化部](../Page/中华人民共和国文化部.md "wikilink")的审批\[13\]。 6月28日，[暴雪娱乐与](https://zh.wikipedia.org/wiki/暴雪娱乐 "wikilink")[网易](../Page/网易.md "wikilink")宣布《星际争霸II：虫群之心》定于7月17日在中国大陆正式发行。\[14\]
 
 ## 外部链接
 
   - [星际争霸II：虫群之心官方报道](http://us.battle.net/sc2/en/game/heart-of-the-swarm-preview/)
-
   - [星际争霸II：虫群之心官方报道](http://www.battlenet.com.cn/sc2/zh/game/heart-of-the-swarm-preview/)
-
   - [星际争霸II：虫群之心官方报道](http://tw.battle.net/sc2/zh/game/heart-of-the-swarm-preview/)
-
   - [星海爭霸II：异蟲之心開場動畫](http://www.youtube.com/watch?v=MVbeoSPqRs4)
   - [1](http://sc2.163.com/home/)
 
 ## 参考文献
 
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:暴雪娱乐游戏](https://zh.wikipedia.org/wiki/Category:暴雪娱乐游戏 "wikilink")
-[Category:科幻电子游戏](https://zh.wikipedia.org/wiki/Category:科幻电子游戏 "wikilink")
-[Category:军事科幻电子游戏](https://zh.wikipedia.org/wiki/Category:军事科幻电子游戏 "wikilink")
-[Category:电子竞技游戏](https://zh.wikipedia.org/wiki/Category:电子竞技游戏 "wikilink")
-[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink")
-[Category:星際爭霸系列](https://zh.wikipedia.org/wiki/Category:星際爭霸系列 "wikilink")
-[Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:暴雪娱乐游戏](https://zh.wikipedia.org/wiki/Category:暴雪娱乐游戏 "wikilink") [Category:科幻电子游戏](https://zh.wikipedia.org/wiki/Category:科幻电子游戏 "wikilink") [Category:军事科幻电子游戏](https://zh.wikipedia.org/wiki/Category:军事科幻电子游戏 "wikilink") [Category:电子竞技游戏](https://zh.wikipedia.org/wiki/Category:电子竞技游戏 "wikilink") [Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:星際爭霸系列](https://zh.wikipedia.org/wiki/Category:星際爭霸系列 "wikilink") [Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 
 1.
 

@@ -1,9 +1,6 @@
-**SISTAR**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[STARSHIP娛樂的四人女子組合](../Page/STARSHIP娛樂.md "wikilink")，成員包括[寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")、[孝琳](../Page/孝琳.md "wikilink")、[韶宥及](https://zh.wikipedia.org/wiki/韶宥 "wikilink")[多順](../Page/多順.md "wikilink")。2010年6月3日，推出首張單曲《Push
-Push》，翌日於[KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》正式出道。
+**SISTAR**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")的四人女子組合，成員包括[寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")、[孝琳](../Page/孝琳.md "wikilink")、[韶宥及](https://zh.wikipedia.org/wiki/韶宥 "wikilink")[多順](../Page/多順.md "wikilink")。2010年6月3日，推出首張單曲《Push Push》，翌日於[KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》正式出道。
 
-「SISTAR」（）意思是想與大明星們（Star）成為好姐妹（Sister）；歌迷名稱為「**STAR1**」（**스타일**，英語發音：/s'tɑɪl/），意為「SISTAR
-NO.1」，另一層含義則是SISTAR和歌迷是一體的。應援色為紫红色（Fuchsia），官方應援物為印有SISTAR及隊員英文名字的紫红色氣球。
+「SISTAR」（）意思是想與大明星們（Star）成為好姐妹（Sister）；歌迷名稱為「**STAR1**」（**스타일**，英語發音：/s'tɑɪl/），意為「SISTAR NO.1」，另一層含義則是SISTAR和歌迷是一體的。應援色為紫红色（Fuchsia），官方應援物為印有SISTAR及隊員英文名字的紫红色氣球。
 
 2011年4月29日，官方宣布SISTAR推出子團體[SISTAR19](../Page/SISTAR19.md "wikilink")（****），由孝琳和寶拉組成。
 
@@ -22,18 +19,9 @@ NO.1」，另一層含義則是SISTAR和歌迷是一體的。應援色為紫红�
 
 ## 子團體
 
-2011年4月29日，[STARSHIP娛樂宣布SISTAR推出子團體](../Page/STARSHIP娛樂.md "wikilink")[SISTAR19](../Page/SISTAR19.md "wikilink")，由富有力量嗓音的[孝琳和強悍饒舌技巧的](../Page/孝琳.md "wikilink")[寳拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")2人組成。\[3\]團名的19，意思是擁有將少女和淑女界線之19歲的愛情、感情融入到音樂中。4月29日，公開數碼單曲《Ma
-Boy》MV預告，並在5月3日，公開數碼單曲《Ma
-Boy》完整版MV。5月5日，SISTAR19在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行SISTAR19的出道舞台，表演《Ma
-Boy》。
+2011年4月29日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")宣布SISTAR推出子團體[SISTAR19](../Page/SISTAR19.md "wikilink")，由富有力量嗓音的[孝琳](../Page/孝琳.md "wikilink")和強悍饒舌技巧的[寳拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")2人組成。\[3\]團名的19，意思是擁有將少女和淑女界線之19歲的愛情、感情融入到音樂中。4月29日，公開數碼單曲《Ma Boy》MV預告，並在5月3日，公開數碼單曲《Ma Boy》完整版MV。5月5日，SISTAR19在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行SISTAR19的出道舞台，表演《Ma Boy》。
 
-2013年1月24日，[STARSHIP娛樂公開子團體再次回歸概念照](../Page/STARSHIP娛樂.md "wikilink")，圖中孝琳和寶拉在床上展現她們性感的S線條，1月25日透過[Naver音樂公開SISTAR](https://zh.wikipedia.org/wiki/Naver "wikilink")19第二波回歸概念照。1月29日，公開子團體SISTAR19《Gone
-Not Around Any
-Longer》MV預告，為SISTAR19出道以來第二次回歸。1月31日，SISTAR19發行首張迷你專輯《Gone
-Not Around Any Longer》，並在Mnet《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》進行回歸舞台，表演《SISTAR19
-(Intro)》和《Gone Not Around Any Longer》。本次的回歸共贏得11個一位。
+2013年1月24日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")公開子團體再次回歸概念照，圖中孝琳和寶拉在床上展現她們性感的S線條，1月25日透過[Naver音樂公開SISTAR](https://zh.wikipedia.org/wiki/Naver "wikilink")19第二波回歸概念照。1月29日，公開子團體SISTAR19《Gone Not Around Any Longer》MV預告，為SISTAR19出道以來第二次回歸。1月31日，SISTAR19發行首張迷你專輯《Gone Not Around Any Longer》，並在Mnet《[M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》進行回歸舞台，表演《SISTAR19 (Intro)》和《Gone Not Around Any Longer》。本次的回歸共贏得11個一位。
 
 ## 經歷
 
@@ -41,217 +29,115 @@ Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》進行回歸�
 
 ### 2010年：出道、《Push Push》、《Shady Girl》、《How Dare You》
 
-早於2010年3月，SISTAR開始拍攝廣告及雜誌\[4\]，並於6月1日，公司正式公布推出全新女子團體SISTAR，公開出道曲《Push
-Push》MV預告，4位成員包括[孝琳](../Page/孝琳.md "wikilink")、[寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")、[韶宥及](https://zh.wikipedia.org/wiki/韶宥 "wikilink")[多順](../Page/多順.md "wikilink")。6月3日，SISTAR推出首張單曲《Push
-Push》\[5\]，翌日於[KBS2](../Page/KBS第2频道.md "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》正式出道\[6\]。
+早於2010年3月，SISTAR開始拍攝廣告及雜誌\[4\]，並於6月1日，公司正式公布推出全新女子團體SISTAR，公開出道曲《Push Push》MV預告，4位成員包括[孝琳](../Page/孝琳.md "wikilink")、[寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")、[韶宥及](https://zh.wikipedia.org/wiki/韶宥 "wikilink")[多順](../Page/多順.md "wikilink")。6月3日，SISTAR推出首張單曲《Push Push》\[5\]，翌日於[KBS2](../Page/KBS第2频道.md "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》正式出道\[6\]。
 
-8月25日，SISTAR發行第二張單曲《Shady Girl》，[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[金希澈亦參與歌曲MV拍攝](https://zh.wikipedia.org/wiki/金希澈 "wikilink")\[7\]\[8\]。同日，舉行第二張單曲出售紀念“1'st
-Super Showcase”。在8月28日舉行的《Y-STAR LIVE
-POWER音樂會》中，成員寶拉摔倒在舞台，左手拇指骨折，其他成員暫停表演，讓寶拉短暫退場檢查傷勢。於數分鐘後，寶拉仍重返舞台完成表演\[9\]\[10\]。
+8月25日，SISTAR發行第二張單曲《Shady Girl》，[Super Junior成員](../Page/Super_Junior.md "wikilink")[金希澈亦參與歌曲MV拍攝](https://zh.wikipedia.org/wiki/金希澈 "wikilink")\[7\]\[8\]。同日，舉行第二張單曲出售紀念“1'st Super Showcase”。在8月28日舉行的《Y-STAR LIVE POWER音樂會》中，成員寶拉摔倒在舞台，左手拇指骨折，其他成員暫停表演，讓寶拉短暫退場檢查傷勢。於數分鐘後，寶拉仍重返舞台完成表演\[9\]\[10\]。
 
-11月23日，SISTAR發行第三張單曲《How Dare You》\[11\]，更在12月17日《[Music
-Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》中獲得出道以來首個歌曲冠軍\[12\]。SISTAR出席了2010年[金唱片獎頒獎典禮](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，獲得了新人賞\[13\]。
+11月23日，SISTAR發行第三張單曲《How Dare You》\[11\]，更在12月17日《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》中獲得出道以來首個歌曲冠軍\[12\]。SISTAR出席了2010年[金唱片獎頒獎典禮](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，獲得了新人賞\[13\]。
 
 ### 2011年：《SO COOL》
 
-8月9日，SISTAR正式推出專輯《SO COOL》，同時公開同名歌曲《SO
-COOL》完整版MV。專輯共收錄了12首歌曲，分別有8首新歌，以及4首過去的歌曲\[14\]。歌曲《SO
-COOL》於8月25日登上了「Korea K-Pop Hot 100」第一位\[15\]。但《So
-Cool》的舞蹈受到強烈的爭議，MV中的“尾巴舞”被評價為不雅，需修正後才能在舞台進行回歸表演。《Girls
-Do It》是《SO COOL》是第二主打，也是《SO
-COOL》的後續曲，但被[MBC評價為不適合播出](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")，原因是其中一句歌詞具有攻擊意味，歌詞中「像臭蟲一樣黏著」被認為具有攻擊性，所以最後並未作為後續曲。SISTAR在[Mnet](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、KBS2《[Music
-Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》、MBC《[Show\!
-音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》、[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[SBS人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》中，曾以主打歌《So
-Cool》和《Girls Do It》兩首歌進行了回歸舞台，但當時《Girls Do It》一曲只唱了第一部份，沒有受到指責。
+8月9日，SISTAR正式推出專輯《SO COOL》，同時公開同名歌曲《SO COOL》完整版MV。專輯共收錄了12首歌曲，分別有8首新歌，以及4首過去的歌曲\[14\]。歌曲《SO COOL》於8月25日登上了「Korea K-Pop Hot 100」第一位\[15\]。但《So Cool》的舞蹈受到強烈的爭議，MV中的“尾巴舞”被評價為不雅，需修正後才能在舞台進行回歸表演。《Girls Do It》是《SO COOL》是第二主打，也是《SO COOL》的後續曲，但被[MBC評價為不適合播出](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")，原因是其中一句歌詞具有攻擊意味，歌詞中「像臭蟲一樣黏著」被認為具有攻擊性，所以最後並未作為後續曲。SISTAR在[Mnet](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、KBS2《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》、MBC《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》、[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[SBS人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》中，曾以主打歌《So Cool》和《Girls Do It》兩首歌進行了回歸舞台，但當時《Girls Do It》一曲只唱了第一部份，沒有受到指責。
 
 ### 2012年：《ALONE》、《Loving U》
 
-4月12日，SISTAR發行首張迷你專輯《ALONE》。《ALONE》MV取景於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[拉斯維加斯](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")，在4月6－9日，相繼公開寶拉、孝琳、韶宥及多順版預告。26日，Sistar首次憑《ALONE》於Mnet《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》獲得歌曲冠軍。而《ALONE》亦在4月27日和5月4中的KBS2《[Music
-Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》，5月1日的MBC《Show
-Champion》，4月29日和5月6中的SBS《人氣歌謠》獲得歌曲冠軍。SISTAR憑《ALONE》一曲總共贏得6個獎項。
+4月12日，SISTAR發行首張迷你專輯《ALONE》。《ALONE》MV取景於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[拉斯維加斯](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")，在4月6－9日，相繼公開寶拉、孝琳、韶宥及多順版預告。26日，Sistar首次憑《ALONE》於Mnet《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》獲得歌曲冠軍。而《ALONE》亦在4月27日和5月4中的KBS2《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》，5月1日的MBC《Show Champion》，4月29日和5月6中的SBS《人氣歌謠》獲得歌曲冠軍。SISTAR憑《ALONE》一曲總共贏得6個獎項。
 
-6月28日，SISTAR發行首張夏日特別專輯《[Loving U](../Page/Loving_U.md "wikilink")》。
-6月22－25日相繼公開孝琳、多順、韶宥、寶拉的預告概念照，26日公開MV預告。而新歌MV取景於[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")，公司透露歌曲MV共花約兩億[韓圜製作](../Page/韓圜.md "wikilink")。這張夏季專輯共收錄了兩首新歌「LOVING
-U」、「Holiday」以及五首過去歌曲的Remix版本。而《Loving U》一曲在7月13日和8月3日中的《[Music
-Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》獲得了歌曲冠軍。
+6月28日，SISTAR發行首張夏日特別專輯《[Loving U](../Page/Loving_U.md "wikilink")》。 6月22－25日相繼公開孝琳、多順、韶宥、寶拉的預告概念照，26日公開MV預告。而新歌MV取景於[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")，公司透露歌曲MV共花約兩億[韓圜](../Page/韓圜.md "wikilink")製作。這張夏季專輯共收錄了兩首新歌「LOVING U」、「Holiday」以及五首過去歌曲的Remix版本。而《Loving U》一曲在7月13日和8月3日中的《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》獲得了歌曲冠軍。
 
 ### 2013年：《GIVE IT TO ME》
 
-2月23日，福布斯公布2013韓[国福布斯名人榜](../Page/韩国福布斯名人榜.md "wikilink")(即2012年度)，SISTAR出道2年半首次打入福布斯名人榜，
-排名第26位。
+2月23日，福布斯公布2013韓[国福布斯名人榜](../Page/韩国福布斯名人榜.md "wikilink")(即2012年度)，SISTAR出道2年半首次打入福布斯名人榜， 排名第26位。
 
-6月11日，SISTAR發行第二張正規專輯《GIVE IT TO
-ME》。6月4日公開專輯歌單，共收錄11首新歌。6月5日公布第二張正規專輯宣傳照，6月6日，公開《GIVE
-IT TO ME》MV預告。6月10日，公開《GIVE IT TO ME》MV第二版本預告。6月11日，SISTAR發行第二張正規專輯《GIVE
-IT TO ME》，更舉行回歸公演，並公開《GIVE IT TO ME》完整版 MV。而《GIVE IT TO
-ME》一曲獲得了11個歌曲冠軍，是她們目前單曲贏得最多的單曲獎項數量。《GIVE IT TO
-ME》一共在melon破表13次。
+6月11日，SISTAR發行第二張正規專輯《GIVE IT TO ME》。6月4日公開專輯歌單，共收錄11首新歌。6月5日公布第二張正規專輯宣傳照，6月6日，公開《GIVE IT TO ME》MV預告。6月10日，公開《GIVE IT TO ME》MV第二版本預告。6月11日，SISTAR發行第二張正規專輯《GIVE IT TO ME》，更舉行回歸公演，並公開《GIVE IT TO ME》完整版 MV。而《GIVE IT TO ME》一曲獲得了11個歌曲冠軍，是她們目前單曲贏得最多的單曲獎項數量。《GIVE IT TO ME》一共在melon破表13次。
 
-7月29日，有報導指出，正當SISTAR結束《Give It To
-Me》的宣傳，大家都在休息中，但孝琳仍然回到公司的練習室與舞蹈老師一起排練新的舞蹈。根據公司表示，孝琳的個人出道已經計劃了一陣子，畢竟在眾多韓流歌手中，她擁有一口獨特的好聲音。對於孝琳的個人出道計劃，她用時間去挑選自己的個人形象比專輯的推出時間重要很多，所以要等孝琳準備好才能推出新專輯進行出道。
+7月29日，有報導指出，正當SISTAR結束《Give It To Me》的宣傳，大家都在休息中，但孝琳仍然回到公司的練習室與舞蹈老師一起排練新的舞蹈。根據公司表示，孝琳的個人出道已經計劃了一陣子，畢竟在眾多韓流歌手中，她擁有一口獨特的好聲音。對於孝琳的個人出道計劃，她用時間去挑選自己的個人形象比專輯的推出時間重要很多，所以要等孝琳準備好才能推出新專輯進行出道。
 
-9月，韶宥與[STARSHIP娛樂新設獨立唱片品牌STARSHIP](../Page/STARSHIP娛樂.md "wikilink")
-X簽約藝人[Mad Clown發表合作數碼單曲](../Page/Mad_Clown.md "wikilink")《Stupid
-In Love》，Melon破表一次，並實現九榜實時All-kill，展開正式的打歌活動。這首歌更在MBC《Show\! 音樂中心》贏得1位。
+9月，韶宥與[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")新設獨立唱片品牌STARSHIP X簽約藝人[Mad Clown發表合作數碼單曲](../Page/Mad_Clown.md "wikilink")《Stupid In Love》，Melon破表一次，並實現九榜實時All-kill，展開正式的打歌活動。這首歌更在MBC《Show\! 音樂中心》贏得1位。
 
-11月26日，孝琳發行個人首張正規專輯《Love &
-Hate》，同日舉行專輯發行紀念公演，宣告正式個人出道。專輯收錄十首全新的歌曲，赴英國倫敦取景拍攝。雙主打《One
-Way
-Love》和《Lonely》分佔十大音源榜單的首位，Melon破表一次，專輯其他收錄曲也在音源榜單的上位圈。28日Mnet製作並播出了60分鐘的孝琳個人出道特輯，共表演9首歌曲。
+11月26日，孝琳發行個人首張正規專輯《Love & Hate》，同日舉行專輯發行紀念公演，宣告正式個人出道。專輯收錄十首全新的歌曲，赴英國倫敦取景拍攝。雙主打《One Way Love》和《Lonely》分佔十大音源榜單的首位，Melon破表一次，專輯其他收錄曲也在音源榜單的上位圈。28日Mnet製作並播出了60分鐘的孝琳個人出道特輯，共表演9首歌曲。
 
 ### 2014年：《TOUCH & MOVE》、《Sweet & Sour》
 
-[KOCIS_Korea_Mnet_Soyou_Junggigo_02_(12986805445).jpg](https://zh.wikipedia.org/wiki/File:KOCIS_Korea_Mnet_Soyou_Junggigo_02_\(12986805445\).jpg "fig:KOCIS_Korea_Mnet_Soyou_Junggigo_02_(12986805445).jpg")2014年2月，[STARSHIP娛樂推出了第二個特別企劃](../Page/STARSHIP娛樂.md "wikilink")，由韶宥和[STARSHIP娛樂子公司STARSHIP](../Page/STARSHIP娛樂.md "wikilink")
-X的嘻哈歌手[郑基高組成](../Page/鄭基高.md "wikilink")，合作發行單曲《Some》，歌曲中還加入Geeks成員Lil
-Boi的饒舌。2月4日，於網上公開了出道單曲《Some》的音樂影像預告，音樂影像由[多順和](../Page/多順.md "wikilink")[B1A4的Baro共同出演](../Page/B1A4.md "wikilink")。其後於2月6日在Mnet《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》公開《Some》的首個回歸舞台，並開始進行宣傳活動，翌日於網上公開單曲《Some》的音源和音樂影像。音源推出後成功橫掃多個音源榜的冠軍，達成多次All-kill\[16\]。這首歌更在各大音樂節目贏得11個1位，其中在KBS2《Music
-Bank》中奪下5週冠軍，在Gaon排行榜連續兩周排冠軍，也是Gaon排行榜的二月音源部冠軍\[17\]，在告示牌「K-pop Hot
-100」連續5週冠軍\[18\]。
+[KOCIS_Korea_Mnet_Soyou_Junggigo_02_(12986805445).jpg](https://zh.wikipedia.org/wiki/File:KOCIS_Korea_Mnet_Soyou_Junggigo_02_\(12986805445\).jpg "fig:KOCIS_Korea_Mnet_Soyou_Junggigo_02_(12986805445).jpg")2014年2月，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")推出了第二個特別企劃，由韶宥和[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")子公司STARSHIP X的嘻哈歌手[郑基高組成](../Page/鄭基高.md "wikilink")，合作發行單曲《Some》，歌曲中還加入Geeks成員Lil Boi的饒舌。2月4日，於網上公開了出道單曲《Some》的音樂影像預告，音樂影像由[多順](../Page/多順.md "wikilink")和[B1A4](../Page/B1A4.md "wikilink")的Baro共同出演。其後於2月6日在Mnet《[M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》公開《Some》的首個回歸舞台，並開始進行宣傳活動，翌日於網上公開單曲《Some》的音源和音樂影像。音源推出後成功橫掃多個音源榜的冠軍，達成多次All-kill\[16\]。這首歌更在各大音樂節目贏得11個1位，其中在KBS2《Music Bank》中奪下5週冠軍，在Gaon排行榜連續兩周排冠軍，也是Gaon排行榜的二月音源部冠軍\[17\]，在告示牌「K-pop Hot 100」連續5週冠軍\[18\]。
 
-2014年3月3日，SBS宣佈寶拉加入《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》劇組，正式挑戰戲劇演出。據TVReport報導：「寶拉已經通過SBS月火新劇《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》
-的試鏡。」\[19\]寶拉所屬的公司[STARSHIP娛樂說到](../Page/STARSHIP娛樂.md "wikilink")：“因為是第一次正式演戲，寶拉從確定出演那刻開始就認真研究角色和請教其他人，為當好演員非常用心地準備著。”劇中她與飾演朴勛的[李鍾碩像兄弟一樣](../Page/李鍾碩.md "wikilink")，但實際上卻偷偷暗戀他，[脫北後一直在朴勛身邊生活](../Page/脫北者.md "wikilink")。
+2014年3月3日，SBS宣佈寶拉加入《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》劇組，正式挑戰戲劇演出。據TVReport報導：「寶拉已經通過SBS月火新劇《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》 的試鏡。」\[19\]寶拉所屬的公司[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")說到：“因為是第一次正式演戲，寶拉從確定出演那刻開始就認真研究角色和請教其他人，為當好演員非常用心地準備著。”劇中她與飾演朴勛的[李鍾碩](../Page/李鍾碩.md "wikilink")像兄弟一樣，但實際上卻偷偷暗戀他，[脫北後一直在朴勛身邊生活](../Page/脫北者.md "wikilink")。
 
-2014年7月10日，[STARSHIP娛樂宣佈SISTAR會在](../Page/STARSHIP娛樂.md "wikilink")7月21日回歸，這次回歸是相隔一年零二個月。这次的主打歌不是再和[勇敢兄弟或者](https://zh.wikipedia.org/wiki/Brave_Brothers "wikilink")[二段横踢合作](../Page/二段横踢.md "wikilink")，而是和制作人Rado和崔奎成合作。\[20\]7月14日，於STARSHIP官方[Youtube頻道公開了回歸的音樂影像預告](https://zh.wikipedia.org/wiki/Youtube "wikilink")，金寶成在預告中化身「義氣」大叔，釋出一小段在房子裡有趣小故事。7月16、17日，SISTAR官方[Twitter分別釋出孝琳](../Page/Twitter.md "wikilink")、寶拉和韶宥、多順的回歸概念照。
-7月18日，[LOEN官方Youtube頻道公開了主打歌](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")《Touch
-My
-Body》的音樂影像預告，[盧弘喆與](../Page/盧弘喆.md "wikilink")[全炫茂客串演出](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")。同日，Naver音樂公開了更多概念照片及拍攝概念照的花絮。\[21\]7月21日，Starship及LOEN官方Youtube頻道公開了SISTAR新專輯《[TOUCH
-& MOVE](../Page/TOUCH_&_MOVE.md "wikilink")》主打歌《Touch My
-Body》的音樂影像及音源，及舉行回歸公演。7月22日，[STARSHIP娱乐官方Youtube頻道公開了主打歌](../Page/STARSHIP娛樂.md "wikilink")《Touch
-My
-Body》舞蹈練習片段。7月23日，SISTAR第二版概念照公開。7月29日，[STARSHIP娱乐官方Youtube頻道公開了](../Page/STARSHIP娛樂.md "wikilink")《Touch
-My Body》的Acoustic版本，在吉他旋律的伴奏下也展示SISTAR歌唱實力。
+2014年7月10日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")宣佈SISTAR會在7月21日回歸，這次回歸是相隔一年零二個月。这次的主打歌不是再和[勇敢兄弟或者](https://zh.wikipedia.org/wiki/Brave_Brothers "wikilink")[二段横踢](../Page/二段横踢.md "wikilink")合作，而是和制作人Rado和崔奎成合作。\[20\]7月14日，於STARSHIP官方[Youtube頻道公開了回歸的音樂影像預告](https://zh.wikipedia.org/wiki/Youtube "wikilink")，金寶成在預告中化身「義氣」大叔，釋出一小段在房子裡有趣小故事。7月16、17日，SISTAR官方[Twitter](../Page/Twitter.md "wikilink")分別釋出孝琳、寶拉和韶宥、多順的回歸概念照。 7月18日，[LOEN官方Youtube頻道公開了主打歌](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")《Touch My Body》的音樂影像預告，[盧弘喆](../Page/盧弘喆.md "wikilink")與[全炫茂客串演出](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")。同日，Naver音樂公開了更多概念照片及拍攝概念照的花絮。\[21\]7月21日，Starship及LOEN官方Youtube頻道公開了SISTAR新專輯《[TOUCH & MOVE](../Page/TOUCH_&_MOVE.md "wikilink")》主打歌《Touch My Body》的音樂影像及音源，及舉行回歸公演。7月22日，[STARSHIP娱乐官方Youtube頻道公開了主打歌](../Page/STARSHIP娛樂.md "wikilink")《Touch My Body》舞蹈練習片段。7月23日，SISTAR第二版概念照公開。7月29日，[STARSHIP娱乐官方Youtube頻道公開了](../Page/STARSHIP娛樂.md "wikilink")《Touch My Body》的Acoustic版本，在吉他旋律的伴奏下也展示SISTAR歌唱實力。
 
-《Touch My
-Body》推出後成功橫掃多個音源榜的冠軍，如[MelOn](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")、[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[Naver的日榜和實時榜等](https://zh.wikipedia.org/wiki/Naver "wikilink")，並在音樂節目中獲得多個一位，在SBS《人氣歌謠》和KBS2《Music
-Bank》更取得三連冠，再次展現SISTAR強大音源實力。
+《Touch My Body》推出後成功橫掃多個音源榜的冠軍，如[MelOn](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")、[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[Naver的日榜和實時榜等](https://zh.wikipedia.org/wiki/Naver "wikilink")，並在音樂節目中獲得多個一位，在SBS《人氣歌謠》和KBS2《Music Bank》更取得三連冠，再次展現SISTAR強大音源實力。
 
-8月18日，[STARSHIP娛樂在官方](../Page/STARSHIP娛樂.md "wikilink")[Twitter表示](../Page/Twitter.md "wikilink")「8月26日！SISTAR
-為了報答大家給予《Touch My Body》的熱烈支持，懷著感恩的心準備了這項驚喜禮物！請多多期待喔～XD \#SISTAR
-\#ISWEAR」並宣佈SISTAR將於26日推出特別專輯，主打歌為《I
-Swear》。該曲是二段橫踢和SISTAR很早之前就準備好的。\[22\]8月19、20日，SISTAR官方Twitter分別釋出韶宥、多順和寶拉、孝琳的回歸概念照，多順在Twitter表示照片是在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[塞班島拍攝的](https://zh.wikipedia.org/wiki/塞班島 "wikilink")。\[23\]8月21日，[STARSHIP娛樂官方Youtube頻道公開了主打歌](../Page/STARSHIP娛樂.md "wikilink")《I
-Swear》的音樂影像預告，在SISTAR官方[Facebook也公開了專輯名稱](../Page/Facebook.md "wikilink")《[Sweet
-&
-Sour](https://zh.wikipedia.org/wiki/Sweet_&_Sour "wikilink")》。8月26日，[STARSHIP娛樂及](../Page/STARSHIP娛樂.md "wikilink")[LOEN娛樂官方](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")[Youtube頻道公開了SISTAR新專輯](https://zh.wikipedia.org/wiki/Youtube "wikilink")《[Sweet
-& Sour](https://zh.wikipedia.org/wiki/Sweet_&_Sour "wikilink")》主打歌《I
-Swear》的音樂影像及音源，MV由曾與趙容弼、Tiger
-JK合作的形象派音樂人Lumpens執導。8月27日，[STARSHIP娛樂官方Youtube頻道公開了主打歌](../Page/STARSHIP娛樂.md "wikilink")《I
-Swear》舞蹈練習片段。
+8月18日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")在官方[Twitter](../Page/Twitter.md "wikilink")表示「8月26日！SISTAR 為了報答大家給予《Touch My Body》的熱烈支持，懷著感恩的心準備了這項驚喜禮物！請多多期待喔～XD \#SISTAR \#ISWEAR」並宣佈SISTAR將於26日推出特別專輯，主打歌為《I Swear》。該曲是二段橫踢和SISTAR很早之前就準備好的。\[22\]8月19、20日，SISTAR官方Twitter分別釋出韶宥、多順和寶拉、孝琳的回歸概念照，多順在Twitter表示照片是在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[塞班島拍攝的](https://zh.wikipedia.org/wiki/塞班島 "wikilink")。\[23\]8月21日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")官方Youtube頻道公開了主打歌《I Swear》的音樂影像預告，在SISTAR官方[Facebook](../Page/Facebook.md "wikilink")也公開了專輯名稱《[Sweet & Sour](https://zh.wikipedia.org/wiki/Sweet_&_Sour "wikilink")》。8月26日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")及[LOEN娛樂官方](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")[Youtube頻道公開了SISTAR新專輯](https://zh.wikipedia.org/wiki/Youtube "wikilink")《[Sweet & Sour](https://zh.wikipedia.org/wiki/Sweet_&_Sour "wikilink")》主打歌《I Swear》的音樂影像及音源，MV由曾與趙容弼、Tiger JK合作的形象派音樂人Lumpens執導。8月27日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")官方Youtube頻道公開了主打歌《I Swear》舞蹈練習片段。
 
-8月22日，[STARSHIP娛樂與](../Page/STARSHIP娛樂.md "wikilink")[北馬里亞納群島旅遊廳方面](../Page/北马里亚纳群岛.md "wikilink")22日稱：“SISTAR被任命為馬利亞納旅遊廳宣傳大使，今後將展開多種宣傳活動。”作為宣傳的一部分，7月SISTAR趕赴[塞班拍攝了特別專輯](../Page/塞班岛.md "wikilink")《Sweet
-& Sour》的主題曲《I
-Swear》MV，介紹美麗怡人的塞班主要旅遊景點，以及餐廳和超市等充滿異國風情的場所。馬利亞納旅遊廳課長申東勳表示：“馬利亞納地區具有的熱情和魅力與SISTAR健康的形象十分吻合。”塞班美麗的海邊和溫和的天氣很適合做何種運動。希望通過這次SISTAR的MV，有更多的南韓遊客感受塞班、享受塞班。
+8月22日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")與[北馬里亞納群島旅遊廳方面](../Page/北马里亚纳群岛.md "wikilink")22日稱：“SISTAR被任命為馬利亞納旅遊廳宣傳大使，今後將展開多種宣傳活動。”作為宣傳的一部分，7月SISTAR趕赴[塞班拍攝了特別專輯](../Page/塞班岛.md "wikilink")《Sweet & Sour》的主題曲《I Swear》MV，介紹美麗怡人的塞班主要旅遊景點，以及餐廳和超市等充滿異國風情的場所。馬利亞納旅遊廳課長申東勳表示：“馬利亞納地區具有的熱情和魅力與SISTAR健康的形象十分吻合。”塞班美麗的海邊和溫和的天氣很適合做何種運動。希望通過這次SISTAR的MV，有更多的南韓遊客感受塞班、享受塞班。
 
-8月18日，[STARSHIP娛樂宣佈孝琳將參加MBC中秋特輯](../Page/STARSHIP娛樂.md "wikilink")《我是歌手2014》，成為首個出演《我是歌手》節目的現役偶像歌手。節目將於9月3日開始錄影。最終獲得全場第二名。
+8月18日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")宣佈孝琳將參加MBC中秋特輯《我是歌手2014》，成為首個出演《我是歌手》節目的現役偶像歌手。節目將於9月3日開始錄影。最終獲得全場第二名。
 
-9月16日，SISTAR在官方[Twitter上發佈了成員韶宥的宣傳照](../Page/Twitter.md "wikilink")，並留言道：「Some
-2～～？？？？適合金風抽豐的悸動歌曲9月26日行將暴光！！請期待哦」。此前，韶宥和鄭基高推出單曲《Some》收到了巨大的反響，無論是清新的曲風，還是兩人配合的演唱都受到了大家的喜愛，排名也非常靠前，這次韶宥再推合作新曲，大家也紛紛表示非常期待。18日，[STARSHIP娛樂在官方Twitter寫道](../Page/STARSHIP娛樂.md "wikilink")“今天上半年與鄭基高以最棒的合作曲席捲歌謠界的韶宥和Urban
-Zakapa中的權順日和朴容仁的全新合作曲要公開了”並上傳了三人的合照。三人正在為26日將發表的新曲做最後的準備工作。23日，公開了與組合Urban
-Zakapa的合唱曲《間隙（The Space
-Between）》MV預告片，預告片由[安宰賢搭檔](../Page/安宰賢.md "wikilink")[南寶拉出演](../Page/南寶拉.md "wikilink")。9月26日，MV在[STARSHIP娛樂及](../Page/STARSHIP娛樂.md "wikilink")[LOEN娛樂官方](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")[Youtube頻道公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")。
+9月16日，SISTAR在官方[Twitter](../Page/Twitter.md "wikilink")上發佈了成員韶宥的宣傳照，並留言道：「Some 2～～？？？？適合金風抽豐的悸動歌曲9月26日行將暴光！！請期待哦」。此前，韶宥和鄭基高推出單曲《Some》收到了巨大的反響，無論是清新的曲風，還是兩人配合的演唱都受到了大家的喜愛，排名也非常靠前，這次韶宥再推合作新曲，大家也紛紛表示非常期待。18日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")在官方Twitter寫道“今天上半年與鄭基高以最棒的合作曲席捲歌謠界的韶宥和Urban Zakapa中的權順日和朴容仁的全新合作曲要公開了”並上傳了三人的合照。三人正在為26日將發表的新曲做最後的準備工作。23日，公開了與組合Urban Zakapa的合唱曲《間隙（The Space Between）》MV預告片，預告片由[安宰賢](../Page/安宰賢.md "wikilink")搭檔[南寶拉](../Page/南寶拉.md "wikilink")出演。9月26日，MV在[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")及[LOEN娛樂官方](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")[Youtube頻道公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")。
 
 ### 2015年：《SHAKE IT》
 
 [Sistar_at_The_70th_Independence_Day_of_Republic_of_Korea_03.jpg](https://zh.wikipedia.org/wiki/File:Sistar_at_The_70th_Independence_Day_of_Republic_of_Korea_03.jpg "fig:Sistar_at_The_70th_Independence_Day_of_Republic_of_Korea_03.jpg")2月23日，福布斯公布2015[韩国福布斯名人榜](../Page/韩国福布斯名人榜.md "wikilink")(即2014年度)，SISTAR排名第10位,女团中排名第2，仅次第9位的少女时代。
 
-6月4日，SISTAR在官方[Twitter宣佈於](../Page/Twitter.md "wikilink")6月第四週回歸，參與本年度夏日回歸的大混戰，這次回歸是相隔十個月。這次的主打歌《SHAKE
-IT》是繼《Loving U》、《GIVE IT TO ME》及《I
-Swear》後，再次和二段横踢合作，是一首節奏感強烈的復古舞曲，加上SISTAR清爽的演唱，確立SISTAR「夏日女團」的名號。
+6月4日，SISTAR在官方[Twitter](../Page/Twitter.md "wikilink")宣佈於6月第四週回歸，參與本年度夏日回歸的大混戰，這次回歸是相隔十個月。這次的主打歌《SHAKE IT》是繼《Loving U》、《GIVE IT TO ME》及《I Swear》後，再次和二段横踢合作，是一首節奏感強烈的復古舞曲，加上SISTAR清爽的演唱，確立SISTAR「夏日女團」的名號。
 
-6月11日及14日，SISTAR官方[Twitter分別釋出第一張和第二張團體回歸概念照](../Page/Twitter.md "wikilink")，由可愛惡女風化身為性感惡女。6月15日，公開音樂影像預告相片。6月16日，公開SISTAR與明星廚師[崔賢錫合作的](https://zh.wikipedia.org/wiki/崔賢錫 "wikilink")《SHAKE
-IT》音樂影像預告。6月17日，[LOEN官方Youtube頻道公開了主打歌](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")《SHAKE
-IT》的音樂影像預告，[MONSTA
-X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[Shownu與](https://zh.wikipedia.org/wiki/孫軒宇 "wikilink")[元虎及](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")的[姜均成客串演出](../Page/姜均成.md "wikilink")。同日，Naver音樂公開了更多概念照片及拍攝概念照的花絮。6月20日，官方[Twitter公佈迷你](../Page/Twitter.md "wikilink")3輯《SHAKE
-IT》的曲目列表。
+6月11日及14日，SISTAR官方[Twitter](../Page/Twitter.md "wikilink")分別釋出第一張和第二張團體回歸概念照，由可愛惡女風化身為性感惡女。6月15日，公開音樂影像預告相片。6月16日，公開SISTAR與明星廚師[崔賢錫合作的](https://zh.wikipedia.org/wiki/崔賢錫 "wikilink")《SHAKE IT》音樂影像預告。6月17日，[LOEN官方Youtube頻道公開了主打歌](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")《SHAKE IT》的音樂影像預告，[MONSTA X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[Shownu與](https://zh.wikipedia.org/wiki/孫軒宇 "wikilink")[元虎及](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")的[姜均成](../Page/姜均成.md "wikilink")客串演出。同日，Naver音樂公開了更多概念照片及拍攝概念照的花絮。6月20日，官方[Twitter](../Page/Twitter.md "wikilink")公佈迷你3輯《SHAKE IT》的曲目列表。
 
-6月22日，[STARSHIP娱乐及](../Page/STARSHIP娛樂.md "wikilink")[LOEN娱乐官方Youtube頻道公開了SISTAR新專輯](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")《[SHAKE
-IT](../Page/SHAKE_IT.md "wikilink")》主打歌《SHAKE
-IT》的音樂錄影帶及音源，並舉行回歸公演。6月23日，SISTAR的《SHAKE
-IT》在12小時內橫掃十個音源榜的冠軍，如[MelOn](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")、[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[Naver的日榜和實時榜等](https://zh.wikipedia.org/wiki/Naver "wikilink")，並在[MelOn榜](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")5次封頂，再次展示強大音源實力。《shake
-it》一共在melon破表13次。
+6月22日，[STARSHIP娱乐及](../Page/STARSHIP娛樂.md "wikilink")[LOEN娱乐官方Youtube頻道公開了SISTAR新專輯](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")《[SHAKE IT](../Page/SHAKE_IT.md "wikilink")》主打歌《SHAKE IT》的音樂錄影帶及音源，並舉行回歸公演。6月23日，SISTAR的《SHAKE IT》在12小時內橫掃十個音源榜的冠軍，如[MelOn](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")、[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[Naver的日榜和實時榜等](https://zh.wikipedia.org/wiki/Naver "wikilink")，並在[MelOn榜](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")5次封頂，再次展示強大音源實力。《shake it》一共在melon破表13次。
 
-孝琳於9月參加「[Unpretty Rap
-Star2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")」。
+孝琳於9月參加「[Unpretty Rap Star2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")」。
 
-9月22日，韶宥與10cm成員權正烈合作的新歌《肩膀Lean on me》發佈，破表多次，並在10月1日播出的 Mnet 音樂節目《[M
-Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》中，獲得一位。
+9月22日，韶宥與10cm成員權正烈合作的新歌《肩膀Lean on me》發佈，破表多次，並在10月1日播出的 Mnet 音樂節目《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》中，獲得一位。
 
 ### 2016年：《沒我愛》
 
-6月1日，經紀公司 [STARSHIP娛樂向韓國媒體](../Page/STARSHIP娛樂.md "wikilink") NEWSEN
-表示：「SISTAR 正在準備回歸，將於六月發行新專輯，新歌會是知名作曲家團隊黑眼必勝 (블랙아이드필승)
-的作品。」，而成員寶拉也在稍早透過個人 Instagram
-預告即將在六月發行第四張迷你專輯的預告照。
+6月1日，經紀公司 [STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")向韓國媒體 NEWSEN 表示：「SISTAR 正在準備回歸，將於六月發行新專輯，新歌會是知名作曲家團隊黑眼必勝 (블랙아이드필승) 的作品。」，而成員寶拉也在稍早透過個人 Instagram 預告即將在六月發行第四張迷你專輯的預告照。
 
-本張專輯的主打歌為《I LIKE THAT》，是知名作曲家團隊黑眼必勝 (블랙아이드필승) 繼2014年為 SISTAR 打造《Touch My
-Body》後，時隔兩年再次與她們合作的作品，令粉絲們都相當期待，除此之外，SISTAR 將於韓國時間21日零時發行迷你四輯《沒我愛》，並在前一天
-(20日) 晚間11點透過 V app 進行直播節目，讓粉絲們更加了解這張專輯。\[24\]
+本張專輯的主打歌為《I LIKE THAT》，是知名作曲家團隊黑眼必勝 (블랙아이드필승) 繼2014年為 SISTAR 打造《Touch My Body》後，時隔兩年再次與她們合作的作品，令粉絲們都相當期待，除此之外，SISTAR 將於韓國時間21日零時發行迷你四輯《沒我愛》，並在前一天 (20日) 晚間11點透過 V app 進行直播節目，讓粉絲們更加了解這張專輯。\[24\]
 
-而在途中，官方也於7、8日公開首兩波的謎語概念照，9日公開成員孝琳、寶拉的個人概念照，10日公開成員韶宥、多順的個人概念照，14日公開團體概念照，17日公開《I
-LIKE THAT》預告。
+而在途中，官方也於7、8日公開首兩波的謎語概念照，9日公開成員孝琳、寶拉的個人概念照，10日公開成員韶宥、多順的個人概念照，14日公開團體概念照，17日公開《I LIKE THAT》預告。
 
-6月21日，官方公開第四張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《沒我愛》全輯音源以及主打歌《I
-LIKE THAT》MV，主打歌音源一公開，即空降Melon、Genie等音源榜一位。
+6月21日，官方公開第四張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《沒我愛》全輯音源以及主打歌《I LIKE THAT》MV，主打歌音源一公開，即空降Melon、Genie等音源榜一位。
 
-6月24日，KBS MUSIC BANK \<2016上半年結算特輯\> 為SISTAR特輯，演繹出許多SISTAR名曲，包括《TOUCH MY
-BODY》、《LOVING U》、《SHAKE IT》、《I SWEAR》等。除了寶拉作為特別MC登場外，昭宥也有合作曲。
+6月24日，KBS MUSIC BANK \<2016上半年結算特輯\> 為SISTAR特輯，演繹出許多SISTAR名曲，包括《TOUCH MY BODY》、《LOVING U》、《SHAKE IT》、《I SWEAR》等。除了寶拉作為特別MC登場外，昭宥也有合作曲。
 
-截至7月2日為止，SISTAR的《I Like That》MV在YouTube和NAVER TV
-CAST兩個頻道上，累積突破了1千萬點擊，受到了高度的矚目。\[25\]
+截至7月2日為止，SISTAR的《I Like That》MV在YouTube和NAVER TV CAST兩個頻道上，累積突破了1千萬點擊，受到了高度的矚目。\[25\]
 
-由歌手與素人合作的SBS《Fantastic
-Duo》，在最近因表演者的驚人實力而屢掀話題；先前登台的藝人不是個人歌手便是男團，如今SISTAR獲邀登上節目，將成為節目中的第一組偶像女團！
+由歌手與素人合作的SBS《Fantastic Duo》，在最近因表演者的驚人實力而屢掀話題；先前登台的藝人不是個人歌手便是男團，如今SISTAR獲邀登上節目，將成為節目中的第一組偶像女團！
 
 ### 2017年：綻放最光輝的一次、最後一次回歸、解散
 
-2月14日韶宥與EXO[伯賢合唱비가](../Page/伯賢.md "wikilink")
-와（[RAIN](https://zh.wikipedia.org/wiki/Rain_\(韶宥與伯賢單曲\) "wikilink")），即刻在韓國兩大音網站MelOn和genie空破一位，成為韶宥第一首空破一位的單曲，並於當日韓國上午九點登上8個音源榜的第1位\[26\]。在2月26日SBS人氣歌謠中，音源分滿分，最終排名第二。
+2月14日韶宥與EXO[伯賢](../Page/伯賢.md "wikilink")合唱비가 와（[RAIN](https://zh.wikipedia.org/wiki/Rain_\(韶宥與伯賢單曲\) "wikilink")），即刻在韓國兩大音網站MelOn和genie空破一位，成為韶宥第一首空破一位的單曲，並於當日韓國上午九點登上8個音源榜的第1位\[26\]。在2月26日SBS人氣歌謠中，音源分滿分，最終排名第二。
 
-孝琳與全球電音巨頭Spinnin'Records簽訂了唱片合約，成為亞洲首位，也是K
-POP首位與全球電音巨頭Spinnin'Records簽訂了合約的藝人，並將於3月中旬發行與Justin
-Oh的合作曲。另外，孝琳將於3月出席在美國德克薩斯州奧斯汀舉辦的北美最大音樂慶典“South By Southwest”。
+孝琳與全球電音巨頭Spinnin'Records簽訂了唱片合約，成為亞洲首位，也是K POP首位與全球電音巨頭Spinnin'Records簽訂了合約的藝人，並將於3月中旬發行與Justin Oh的合作曲。另外，孝琳將於3月出席在美國德克薩斯州奧斯汀舉辦的北美最大音樂慶典“South By Southwest”。
 
-4月19日，經紀公司[STARSHIP娛樂方面公開旗下女團SISTAR成員寶拉出演的Naver](../Page/STARSHIP娛樂.md "wikilink")
-TV telecine網路電影《Irish
-Uppercut》的海報。公開的海報中，寶拉半盤起頭髮，面露機靈的神情，引起粉絲關注。片中，寶拉飾演地獄底層的陰間使者杜海娜（音）；演員金知碩飾演在人間一事無成，具有五年年資的基層廚師吳士亨（音）。該片敘述兩人相遇後在陰間的PUB「Irish
-Uppercut」中發生的各種故事。另外，《Irish
-Uppercut》是韓國首部Telecine（網路電影），以新的電視劇形式開啟韓國電視劇的另一幕。先前，寶拉曾出演SBS電視劇《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》、網路劇《馬屁精》和《高品格單戀》，本次在片中飾演可愛陰間使者的寶拉將展現何種面貌，深受大眾期待。
+4月19日，經紀公司[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")方面公開旗下女團SISTAR成員寶拉出演的Naver TV telecine網路電影《Irish Uppercut》的海報。公開的海報中，寶拉半盤起頭髮，面露機靈的神情，引起粉絲關注。片中，寶拉飾演地獄底層的陰間使者杜海娜（音）；演員金知碩飾演在人間一事無成，具有五年年資的基層廚師吳士亨（音）。該片敘述兩人相遇後在陰間的PUB「Irish Uppercut」中發生的各種故事。另外，《Irish Uppercut》是韓國首部Telecine（網路電影），以新的電視劇形式開啟韓國電視劇的另一幕。先前，寶拉曾出演SBS電視劇《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》、網路劇《馬屁精》和《高品格單戀》，本次在片中飾演可愛陰間使者的寶拉將展現何種面貌，深受大眾期待。
 
-5月10日，SISTAR所屬經紀公司通過官方SNS表示“SISTAR 2017.05.31 COMING
-SOON”，並公開了一張預告照。在公開的照片中，刺激感性的粉色美術字吸引視線。據悉，SISTAR此次將與曾合作過《TOUCH
-MY BODY》《I LIKE THAT》的黑眼必勝再次聯手，並計劃展現出更加成熟的樣子，令人期待。這次MV將於澳門拍攝。
+5月10日，SISTAR所屬經紀公司通過官方SNS表示“SISTAR 2017.05.31 COMING SOON”，並公開了一張預告照。在公開的照片中，刺激感性的粉色美術字吸引視線。據悉，SISTAR此次將與曾合作過《TOUCH MY BODY》《I LIKE THAT》的黑眼必勝再次聯手，並計劃展現出更加成熟的樣子，令人期待。這次MV將於澳門拍攝。
 
-5月23日，經紀公司[STARSHIP娛樂發聲明感謝粉絲](../Page/STARSHIP娛樂.md "wikilink")7年來的支持，證實她們在新歌活動結束後，正式結束團體活動，據了解，SISTAR合約將在6月初到期，她們經過考量和討論後，最終決定解散，成員孝琳和韶宥將持續歌手之路，而多絮和寶拉則轉往綜藝和戲劇，開啟演員之路，而四人是否續留公司，目前仍在討論中。2010年出道後，SISTAR推出《Give
-It To Me》、《ALONE》、《Touch My Body》等多首輕快、性感舞曲，2015年更以一首《SHAKE
-IT》奠定「夏日女團」封號，面對此次解散，讓許多粉絲難過喊：「沒有SISTAR的夏天要怎麼過？」，成員們也表示不捨，今下午[孝琳](../Page/孝琳.md "wikilink")、[寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")、[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")、[多順公開親筆信](../Page/多順.md "wikilink")，向粉絲喊話以及感謝，她們為各自的夢想和未來努力，也希望能有更好的表現，期許粉絲能夠繼續支持她們。
+5月23日，經紀公司[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")發聲明感謝粉絲7年來的支持，證實她們在新歌活動結束後，正式結束團體活動，據了解，SISTAR合約將在6月初到期，她們經過考量和討論後，最終決定解散，成員孝琳和韶宥將持續歌手之路，而多絮和寶拉則轉往綜藝和戲劇，開啟演員之路，而四人是否續留公司，目前仍在討論中。2010年出道後，SISTAR推出《Give It To Me》、《ALONE》、《Touch My Body》等多首輕快、性感舞曲，2015年更以一首《SHAKE IT》奠定「夏日女團」封號，面對此次解散，讓許多粉絲難過喊：「沒有SISTAR的夏天要怎麼過？」，成員們也表示不捨，今下午[孝琳](../Page/孝琳.md "wikilink")、[寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")、[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")、[多順](../Page/多順.md "wikilink")公開親筆信，向粉絲喊話以及感謝，她們為各自的夢想和未來努力，也希望能有更好的表現，期許粉絲能夠繼續支持她們。
 
-同日，經紀公司[STARSHIP娛樂也公開了預告](../Page/STARSHIP娛樂.md "wikilink")。
+同日，經紀公司[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")也公開了預告。
 
-5月25日，經紀公司[STARSHIP娛樂公開了](../Page/STARSHIP娛樂.md "wikilink")2張4人的合照預告。
+5月25日，經紀公司[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")公開了2張4人的合照預告。
 
-5月29日，經紀公司[STARSHIP娛樂公開MV預告](../Page/STARSHIP娛樂.md "wikilink")。
+5月29日，經紀公司[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")公開MV預告。
 
 6月1日，SISTAR以6月1日的《M\!Countdown》作回歸舞台，相繼出演《音樂銀行》、《音樂中心》和《人氣歌謠》，進行為期一週的打歌活動，然而回歸同時即終結，這也將是SISTAR解散前最後的打歌活動。
 
-SISTAR的《LONELY》在韓國時間上午12時開始橫掃6個音源實時榜的冠軍，並在12小時內MV（1thek 與Starship
-頻道）YouTube點擊破兩百萬。
+SISTAR的《LONELY》在韓國時間上午12時開始橫掃6個音源實時榜的冠軍，並在12小時內MV（1thek 與Starship 頻道）YouTube點擊破兩百萬。
 
 發歌24小時後，[Youtube點擊率破三百萬](../Page/YouTube.md "wikilink")，MELON收聽83萬多。
 
-《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》於6月2日下午兩點開放
-6月第二週冠軍得主的事前投票，不過網友立刻發現 SISTAR 的告別歌曲 “Lonely” 與 TWICE 的 “Signal”
-都不在名單之中。對此[Mnet](../Page/Mnet媒體.md "wikilink")
-解釋「只要結束音樂節目活動，就不會出現在事前投票的候選名單中」，然而近來「未登台仍奪冠」甚至「宣傳結束後繼續奪冠」的例子數見不鮮，而
-[Mnet](../Page/Mnet媒體.md "wikilink") 也並未事前宣布要更改投票規定，因此回應一出反而使網友的抗議更加激烈。
+《[M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》於6月2日下午兩點開放 6月第二週冠軍得主的事前投票，不過網友立刻發現 SISTAR 的告別歌曲 “Lonely” 與 TWICE 的 “Signal” 都不在名單之中。對此[Mnet](../Page/Mnet媒體.md "wikilink") 解釋「只要結束音樂節目活動，就不會出現在事前投票的候選名單中」，然而近來「未登台仍奪冠」甚至「宣傳結束後繼續奪冠」的例子數見不鮮，而 [Mnet](../Page/Mnet媒體.md "wikilink") 也並未事前宣布要更改投票規定，因此回應一出反而使網友的抗議更加激烈。
 
 6月4日，成員出席人氣歌謠的錄製，雖然組合于6月3日已解散，但她們為了粉絲仍義氣出演。隨著人氣歌謠錄製結束後，成員們舉行了迷你見面會，並贈送紀念水壺給在場粉絲。在大家不捨的氣氛中，SISTAR落下帷幕，成員們各自開啟自己新的道路。
 
-2017年，Gaon Chart公開了2017上半年的結算榜單。其中韶宥為韓劇《鬼怪》演唱的ost《I Miss
-You》下載量達將近100萬（968949）排在第十位。
+2017年，Gaon Chart公開了2017上半年的結算榜單。其中韶宥為韓劇《鬼怪》演唱的ost《I Miss You》下載量達將近100萬（968949）排在第十位。
+
+### 2019年：《ALONE》破億
+
+2012年發行的《ALONE》於2019年7月20日在youtube點閱破億！
 
 ## 單曲成就
 
@@ -652,8 +538,7 @@ You》下載量達將近100萬（968949）排在第十位。
 | 日期        | 演唱會站次 | 舉行地點         |
 | 2014年4月2日 | 香港站   | 九龍灣國際展貿中心－匯星 |
 
-  - Sistar新加坡粉絲見面會兼Skechers品牌新店開幕《SKECHERS X SISTAR Meet & Greet Session
-    in Singapore》
+  - Sistar新加坡粉絲見面會兼Skechers品牌新店開幕《SKECHERS X SISTAR Meet & Greet Session in Singapore》
 
 |           |       |             |
 | --------- | ----- | ----------- |
@@ -844,7 +729,8 @@ You》下載量達將近100萬（968949）排在第十位。
 </tr>
 <tr class="odd">
 <td><p>冠軍歌曲總數：43<br />
-四台冠軍歌曲總數：4<br />
+三台冠軍歌曲總數：2<br />
+四台冠軍歌曲總數：2<br />
 五台冠軍歌曲總數：2</p></td>
 </tr>
 </tbody>
@@ -1050,17 +936,7 @@ You》下載量達將近100萬（968949）排在第十位。
       -
       -
       -
-[Category:STARSHIP娛樂](https://zh.wikipedia.org/wiki/Category:STARSHIP娛樂 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
-[Category:福布斯韩国年度前十名人](https://zh.wikipedia.org/wiki/Category:福布斯韩国年度前十名人 "wikilink")
-[Category:2010年韓國建立](https://zh.wikipedia.org/wiki/Category:2010年韓國建立 "wikilink")
-[Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink")
+[Category:STARSHIP娛樂](https://zh.wikipedia.org/wiki/Category:STARSHIP娛樂 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:福布斯韩国年度前十名人](https://zh.wikipedia.org/wiki/Category:福布斯韩国年度前十名人 "wikilink") [Category:2010年韓國建立](https://zh.wikipedia.org/wiki/Category:2010年韓國建立 "wikilink") [Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink")
 
 1.  [스타, 7년만에 해체한다…"팀 활동 종료 '이변'"](http://www.instiz.net/pt/4557433)
 2.
@@ -1085,10 +961,6 @@ You》下載量達將近100萬（968949）排在第十位。
 21.
 22.
 23.
-24. [只屬於SISTAR的魅力！《I LIKE
-    THAT》預告視頻公開！](http://www.vlovekpop.com/20160620-sistar/)
-    vlovekpop
-25. [夏日女王的威嚴！SISTAR《I Like
-    That》MV突破1000萬點擊！](http://www.vlovekpop.com/20160705-sistar/)
-    vlovekpop
+24. [只屬於SISTAR的魅力！《I LIKE THAT》預告視頻公開！](http://www.vlovekpop.com/20160620-sistar/) vlovekpop
+25. [夏日女王的威嚴！SISTAR《I Like That》MV突破1000萬點擊！](http://www.vlovekpop.com/20160705-sistar/) vlovekpop
 26.

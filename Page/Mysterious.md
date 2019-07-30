@@ -1,4 +1,4 @@
-《**Mysterious**》为[Naifu的第二张单曲](../Page/Naifu.md "wikilink")。
+《**Mysterious**》为[Naifu](../Page/Naifu.md "wikilink")的第二张单曲。
 
 ## 收录歌曲
 
@@ -16,8 +16,7 @@
 ## 收录专辑
 
   - [ONE](https://zh.wikipedia.org/wiki/ONE_\(Naifu专辑\) "wikilink")（\#1,2）
-  - [THE BEST OF DETECTIVE CONAN 4 〜名探偵コナン
-    テーマ曲集4〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_4_〜名探偵コナン_テーマ曲集4〜 "wikilink")（\#1）
+  - [THE BEST OF DETECTIVE CONAN 4 〜名探偵コナン テーマ曲集4〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_4_〜名探偵コナン_テーマ曲集4〜 "wikilink")（\#1）
 
 <table>
 <tbody>
@@ -33,6 +32,4 @@
 </tbody>
 </table>
 
-[Category:2008年单曲](https://zh.wikipedia.org/wiki/Category:2008年单曲 "wikilink")
-[Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
+[Category:2008年单曲](https://zh.wikipedia.org/wiki/Category:2008年单曲 "wikilink") [Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")

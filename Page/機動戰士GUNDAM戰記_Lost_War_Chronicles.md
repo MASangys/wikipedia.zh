@@ -1,9 +1,4 @@
-《**機動戰士鋼彈戰記 Lost War
-Chronicles**》（，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：*Mobile
-Suit Gundam: Lost War Chronicles*）是在[PlayStation
-2上發售的第三人稱動作及射擊遊戲](../Page/PlayStation_2.md "wikilink")。在遊戲中，玩家扮演一名「[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")(Mobile
-Suit，簡稱MS)」小隊隊長，帶領屬下的一個小隊執行各種任務。和遊戲相關的作品，有和遊戲同名、由夏元雅人所畫的漫畫故事，漫畫曾在《[Gundam
-Ace](https://zh.wikipedia.org/wiki/Gundam_Ace "wikilink")》上連載。另外，亦有和遊戲同名、由林譲治所寫的小說故事。
+《**機動戰士鋼彈戰記 Lost War Chronicles**》（，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：*Mobile Suit Gundam: Lost War Chronicles*）是在[PlayStation 2上發售的第三人稱動作及射擊遊戲](../Page/PlayStation_2.md "wikilink")。在遊戲中，玩家扮演一名「[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")(Mobile Suit，簡稱MS)」小隊隊長，帶領屬下的一個小隊執行各種任務。和遊戲相關的作品，有和遊戲同名、由夏元雅人所畫的漫畫故事，漫畫曾在《[Gundam Ace](https://zh.wikipedia.org/wiki/Gundam_Ace "wikilink")》上連載。另外，亦有和遊戲同名、由林譲治所寫的小說故事。
 
 ## 故事背景
 
@@ -11,23 +6,17 @@ Ace](https://zh.wikipedia.org/wiki/Gundam_Ace "wikilink")》上連載。另外�
 
 U.C.0079年，宇宙殖民衛星群「[吉翁公國](../Page/吉翁公國.md "wikilink")」向統治地球圈的地球聯邦政府發動獨立戰爭，史稱「[一年戰爭](https://zh.wikipedia.org/wiki/一年戰爭 "wikilink")」。開戰初期，吉翁公國軍以新開發的巨大化人型武器「[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")」，成功重創使用傳統武器的地球聯邦軍，並展開大規模降落作戰，佔領地球上大部份地區。為了對抗吉翁軍的「[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")」，聯邦軍亦自行研製「[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")」，並配置到部隊中進行對抗。
 
-遊戲故事主要圍繞兩支小隊：聯邦軍的「MS特殊部隊第三小隊(日文：MS特殊部隊第3小隊，英文：Special Forces, 3rd
-Platoon)」和吉翁軍的「MS特務遊擊隊(日文：MS特務遊撃隊)」的各項作戰任務。
+遊戲故事主要圍繞兩支小隊：聯邦軍的「MS特殊部隊第三小隊(日文：MS特殊部隊第3小隊，英文：Special Forces, 3rd Platoon)」和吉翁軍的「MS特務遊擊隊(日文：MS特務遊撃隊)」的各項作戰任務。
 
 ## 遊戲特色
 
-在遊戲中，玩家可以選擇成為聯邦軍或吉翁軍陣營的軍人，並作為一支MS小隊的隊長帶領隊員參與各種任務，例如破壞軍事目標、對敵軍基地進行壓制等等，部份任務改編自鋼彈系列故事中的劇情，部份在鋼彈故事中出現的人物亦會在遊戲中客串登場。
-在行動時，玩家除了控制自己的機體外，亦要指揮手下的兩部僚機行動。玩家在任務中的表現會影響其他角色對任務的評價，表現良好的會得到遊戲中其他角色的讚賞，並有機會提升軍階及使用更多種類的機動戰士，並能進入隱藏的任務，而表現太差的會看到其他角色對玩家表達不滿的神色。遊戲設有少量收集元素，玩家可以收集在遊戲中出現過的動畫及音樂。遊戲中可以使用的機體，主要出自《[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")》、《[機動戰士GUNDAM第08MS小隊](../Page/機動戰士GUNDAM第08MS小隊.md "wikilink")》、《[機動戰士GUNDAM
-0080：口袋裡的戰爭](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")》、《機動戰士鋼彈外傳
-藍色命運》和《[機動戰士GUNDAM 0083：Stardust
-Memory](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")》。
+在遊戲中，玩家可以選擇成為聯邦軍或吉翁軍陣營的軍人，並作為一支MS小隊的隊長帶領隊員參與各種任務，例如破壞軍事目標、對敵軍基地進行壓制等等，部份任務改編自鋼彈系列故事中的劇情，部份在鋼彈故事中出現的人物亦會在遊戲中客串登場。 在行動時，玩家除了控制自己的機體外，亦要指揮手下的兩部僚機行動。玩家在任務中的表現會影響其他角色對任務的評價，表現良好的會得到遊戲中其他角色的讚賞，並有機會提升軍階及使用更多種類的機動戰士，並能進入隱藏的任務，而表現太差的會看到其他角色對玩家表達不滿的神色。遊戲設有少量收集元素，玩家可以收集在遊戲中出現過的動畫及音樂。遊戲中可以使用的機體，主要出自《[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")》、《[機動戰士GUNDAM第08MS小隊](../Page/機動戰士GUNDAM第08MS小隊.md "wikilink")》、《[機動戰士GUNDAM 0080：口袋裡的戰爭](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")》、《機動戰士鋼彈外傳 藍色命運》和《[機動戰士GUNDAM 0083：Stardust Memory](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")》。
 
 ## 登場人物
 
 ### 地球聯邦軍
 
-MS特殊部隊第三小隊，是在「一年戰爭」中期，聯邦軍成功開發MS後，由於沒有相應的MS運用知識及戰術，因此而成立的「實驗部隊」之一。把MS以三機為一小隊的編制，投入各種危險及不可預測的環境以收集運用數據。部隊直屬約翰·高文(日文：ジョン・コーウェン，英文：John
-Kowen)准將指揮。
+MS特殊部隊第三小隊，是在「一年戰爭」中期，聯邦軍成功開發MS後，由於沒有相應的MS運用知識及戰術，因此而成立的「實驗部隊」之一。把MS以三機為一小隊的編制，投入各種危險及不可預測的環境以收集運用數據。部隊直屬約翰·高文(日文：ジョン・コーウェン，英文：John Kowen)准將指揮。
 
   -
     軍階為中尉，MS特殊部隊第三小隊的隊長。
@@ -61,8 +50,7 @@ Kowen)准將指揮。
 
 ### 吉翁公國軍
 
-MS特務遊擊隊，是在「一年戰爭」中，道格拉斯．羅德(日文：ダグラス・ローデン，英文：Douglas
-Rodin)上校建立的「特別義勇軍部隊」中的核心部隊，吉翁軍內部稱之為「外人部隊」。部隊成員大多不是吉翁公國的居民，而是來自其他宇宙殖民衛星群的宇宙居民，當中部份不是軍人而是一般的平民，亦有部份是遭受吉翁公國當權派系薩比家打壓的反對派系成員。由於部隊成員在政見和身份方面和正規軍有分歧，因此常受到正規軍排擠和厭惡。部隊主要負責支援正規軍作戰或是負責正規軍不願意做的工作，例如在主軍撤退中負責殿後之類。
+MS特務遊擊隊，是在「一年戰爭」中，道格拉斯．羅德(日文：ダグラス・ローデン，英文：Douglas Rodin)上校建立的「特別義勇軍部隊」中的核心部隊，吉翁軍內部稱之為「外人部隊」。部隊成員大多不是吉翁公國的居民，而是來自其他宇宙殖民衛星群的宇宙居民，當中部份不是軍人而是一般的平民，亦有部份是遭受吉翁公國當權派系薩比家打壓的反對派系成員。由於部隊成員在政見和身份方面和正規軍有分歧，因此常受到正規軍排擠和厭惡。部隊主要負責支援正規軍作戰或是負責正規軍不願意做的工作，例如在主軍撤退中負責殿後之類。
 
   -
     軍階為少尉，MS特務遊擊隊的隊長。
@@ -83,9 +71,7 @@ Rodin)上校建立的「特別義勇軍部隊」中的核心部隊，吉翁軍�
   -
     軍階為伍長，MS特務遊擊隊的通訊及分析員。
     在遊戲中，作為通訊及分析員會出現在過場動畫中，負責作戰前的簡報，及在戰鬥中提供最新情報，並在戰鬥後作出總結。
-    據小說版所述，原本是宇宙殖民地群Side 2的居民，但在Side 3(吉翁公國)旅行時，Side
-    2因吉翁公國對地球聯邦政府宣戰，及吉翁軍突襲當地的聯邦軍駐軍，而在戰鬥中完全被毀滅，因而流落Side
-    3，為了逃避孤獨而加入了「外人部隊」。平常在由整備班的氣墊車改造而成的移動管制室協助小隊作戰。
+    據小說版所述，原本是宇宙殖民地群Side 2的居民，但在Side 3(吉翁公國)旅行時，Side 2因吉翁公國對地球聯邦政府宣戰，及吉翁軍突襲當地的聯邦軍駐軍，而在戰鬥中完全被毀滅，因而流落Side 3，為了逃避孤獨而加入了「外人部隊」。平常在由整備班的氣墊車改造而成的移動管制室協助小隊作戰。
     隊中代號是「紅色0號」。
   -
     民間人仕，MS特務遊擊隊的整備人員。出身於吉翁公國內的名門卡溫家族，由於家族的政見和當權的薩比家不合，因此被當成異見者而被監視，但得羅德上校收留並作出保護。
@@ -141,20 +127,11 @@ Rodin)上校建立的「特別義勇軍部隊」中的核心部隊，吉翁軍�
 
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")
   - [機動戰士GUNDAM第08MS小隊](../Page/機動戰士GUNDAM第08MS小隊.md "wikilink")
-  - [機動戰士GUNDAM
-    0080：口袋裡的戰爭](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")
-  - [機動戰士GUNDAM 0083：Stardust
-    Memory](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")
+  - [機動戰士GUNDAM 0080：口袋裡的戰爭](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")
+  - [機動戰士GUNDAM 0083：Stardust Memory](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")
 
 ## 外部連結
 
-  - [PS2機動戰士GUNDAM戰記
-    官方網站](http://www.gundam.channel.or.jp/videogame/gsenki/)
+  - [PS2機動戰士GUNDAM戰記 官方網站](http://www.gundam.channel.or.jp/videogame/gsenki/)
 
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
-[Category:GUNDAM系列電子遊戲](https://zh.wikipedia.org/wiki/Category:GUNDAM系列電子遊戲 "wikilink")
-[Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink")
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink")
-[Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
+[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:GUNDAM系列電子遊戲](https://zh.wikipedia.org/wiki/Category:GUNDAM系列電子遊戲 "wikilink") [Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink") [Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")

@@ -3,7 +3,7 @@
 ## 概要
 
   - 與前作的《[Lie](../Page/Lie.md "wikilink")》相隔約4個月後發售的單曲。
-  - [PV是](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[汐留撮影的](../Page/汐留.md "wikilink")。
+  - [PV是](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[汐留](../Page/汐留.md "wikilink")撮影的。
 
 ## 收錄曲
 
@@ -17,11 +17,9 @@
       -
         （作詞：[秋元康](../Page/秋元康.md "wikilink")　作曲：[前山田健一](../Page/前山田健一.md "wikilink")　編曲：[宅見将典](https://zh.wikipedia.org/wiki/宅見将典 "wikilink")）
     <!-- end list -->
-      - [KDDI](../Page/KDDI.md "wikilink")
-        [au](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")
-        [LISMO原創戲劇](https://zh.wikipedia.org/wiki/au_LISTEN_MOBILE_SERVICE "wikilink")『[言霊の女たち。](https://zh.wikipedia.org/wiki/言霊の女たち。 "wikilink")』主題曲
+      - [KDDI](../Page/KDDI.md "wikilink") [au](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink") [LISMO原創戲劇](https://zh.wikipedia.org/wiki/au_LISTEN_MOBILE_SERVICE "wikilink")『[言霊の女たち。](https://zh.wikipedia.org/wiki/言霊の女たち。 "wikilink")』主題曲
       - 『[汐留博覧会2010](https://zh.wikipedia.org/wiki/汐博 "wikilink")』主題曲
-      - [日本電視台系](../Page/日本電視台.md "wikilink")『[ジャック10](https://zh.wikipedia.org/wiki/ジャック10 "wikilink")』8月度片尾曲
+      - [日本電視台](../Page/日本電視台.md "wikilink")系『[ジャック10](https://zh.wikipedia.org/wiki/ジャック10 "wikilink")』8月度片尾曲
 2.  **青春就像樹梢撒落的夏日陽光**
       -
         （作詞：秋元康　作曲：白戸佑輔　編曲：宇佐美宏）
@@ -74,8 +72,4 @@
 
   - [no3b官方網站](http://www.no3b.net/)
 
-[Category:No3b歌曲](https://zh.wikipedia.org/wiki/Category:No3b歌曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:日本史詩唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本史詩唱片歌曲 "wikilink")
-[Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:No3b歌曲](https://zh.wikipedia.org/wiki/Category:No3b歌曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:日本史詩唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本史詩唱片歌曲 "wikilink") [Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")

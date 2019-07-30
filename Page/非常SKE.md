@@ -2,13 +2,12 @@
 
 ## 概要
 
-TBS從星期一起星期三深夜在[關東廣域圏播放](https://zh.wikipedia.org/wiki/關東廣域圏 "wikilink")2分間鐘的迷你節目。播放時間不定。由[SKE48出演](../Page/SKE48.md "wikilink")。
+TBS從星期一起星期三深夜在[關東廣域圏播放](https://zh.wikipedia.org/wiki/關東廣域圏 "wikilink")2分間鐘的迷你節目。播放時間不定。由[SKE48](../Page/SKE48.md "wikilink")出演。
 
 ## 出演者
 
   - SKE48
-      - 節目開始時是只有Team S成員出演，2010年11月22日開始Team
-        KII成員都有出演。還有，各回在開頭上面的成員影像從開始播放時沒改變。
+      - 節目開始時是只有Team S成員出演，2010年11月22日開始Team KII成員都有出演。還有，各回在開頭上面的成員影像從開始播放時沒改變。
 
 | 姓名                                                      | 軍    | 家徽    | 喜歡的武將          | 我是○○        |
 | ------------------------------------------------------- | ---- | ----- | -------------- | ----------- |
@@ -1409,7 +1408,4 @@ Wankosoba對決<br />
 
   - [非常SKE](http://www.tbs.co.jp/dera-ske/)
 
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
-[Category:TBS電視台節目](https://zh.wikipedia.org/wiki/Category:TBS電視台節目 "wikilink")
+[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink") [Category:TBS電視台節目](https://zh.wikipedia.org/wiki/Category:TBS電視台節目 "wikilink")

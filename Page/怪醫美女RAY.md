@@ -1,6 +1,4 @@
-《**怪醫美女RAY**》是日本漫畫家[吉富昭仁所作之漫畫作品](../Page/吉富昭仁.md "wikilink")。第1部《**怪醫美女RAY**》7冊，第1部「RAY
--THE OTHER
-SIDE-」收錄於單行本《**怪醫美女RAY+**》。此漫畫中的角色B.J.，就是[手塚治虫所著漫畫](../Page/手塚治虫.md "wikilink")《[怪醫黑傑克](../Page/怪醫黑傑克.md "wikilink")》中的[黑傑克](../Page/黑傑克.md "wikilink")。
+《**怪醫美女RAY**》是日本漫畫家[吉富昭仁](../Page/吉富昭仁.md "wikilink")所作之漫畫作品。第1部《**怪醫美女RAY**》7冊，第1部「RAY -THE OTHER SIDE-」收錄於單行本《**怪醫美女RAY+**》。此漫畫中的角色B.J.，就是[手塚治虫](../Page/手塚治虫.md "wikilink")所著漫畫《[怪醫黑傑克](../Page/怪醫黑傑克.md "wikilink")》中的[黑傑克](../Page/黑傑克.md "wikilink")。
 
 ## 主要登場人物
 
@@ -85,13 +83,8 @@ SIDE-」收錄於單行本《**怪醫美女RAY+**》。此漫畫中的角色B.J.
 
 ## 外部連結
 
-  - [アニメ公式サイト](http://web.archive.org/web/*/http://ray.tv/) -
-    [網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
+  - [アニメ公式サイト](http://web.archive.org/web/*/http://ray.tv/) - [網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
 
   - [hicbc.com：RAY THE ANIMATION](http://hicbc.com/tv/ray/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:醫療漫画](https://zh.wikipedia.org/wiki/Category:醫療漫画 "wikilink")
-[Category:2006年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年TBS電視網動畫 "wikilink")
-[Category:Champion_RED](https://zh.wikipedia.org/wiki/Category:Champion_RED "wikilink")
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:醫療漫画](https://zh.wikipedia.org/wiki/Category:醫療漫画 "wikilink") [Category:2006年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年TBS電視網動畫 "wikilink") [Category:Champion_RED](https://zh.wikipedia.org/wiki/Category:Champion_RED "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")

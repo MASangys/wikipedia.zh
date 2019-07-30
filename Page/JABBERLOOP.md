@@ -1,25 +1,9 @@
 **JABBERLOOP**是一个演奏俱乐部爵士乐的五人乐队，于2005年成立，共推出过3个单曲集、3张专辑和一张黑胶唱片集。
-\== 成员 == **MAKOTO**（長友誠 ナガトモマコト、1978年5月13日出生）
-[宫崎县](https://zh.wikipedia.org/wiki/宫崎县 "wikilink")
-[千穗町](https://zh.wikipedia.org/wiki/千穗町 "wikilink") 人，
-B型血,大阪艺术大学毕业,从事大阪艺术大学爵士乐研究。负责演奏[小号](https://zh.wikipedia.org/wiki/小号 "wikilink")。
-**DAISUKE**（後藤大輔 ゴトウダイスケ、1980年10月29日出生）
-[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")
-[京都市](../Page/京都市.md "wikilink") 人， A型血
-。[大阪音乐学院](https://zh.wikipedia.org/wiki/大阪音乐学院 "wikilink")
-毕业,负责演奏[萨克斯风](https://zh.wikipedia.org/wiki/萨克斯风 "wikilink")。
-狗的名字：肯尼（但暗地里，他似乎对狗[过敏](../Page/过敏.md "wikilink")。)
-**MELTEN**（岸本亮 キシモトリョウ、1983年2月13日出生）
-[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")
-[京都市](../Page/京都市.md "wikilink") 人，
-AB型血。键盘手.[大阪音乐学院](https://zh.wikipedia.org/wiki/大阪音乐学院 "wikilink")
-毕业
-**YOHEI**（斉藤陽平 サイトウヨウヘイ、1981年7月15日出生）， [滋贺县](../Page/滋贺县.md "wikilink")
-[大津市](../Page/大津市.md "wikilink")
-人,[江阳音乐学院研究生](https://zh.wikipedia.org/wiki/江阳音乐学院 "wikilink")，
-B型血 。鼓手。喜爱甜食。 爱好：骑自行车
-**YUKI**（永田雄樹 ナガタユウキ、1979年6月23日出生），[滋贺县](../Page/滋贺县.md "wikilink")
-[彦根](https://zh.wikipedia.org/wiki/彦根 "wikilink") 人， B型血 。负责BASS.
+\== 成员 == **MAKOTO**（長友誠 ナガトモマコト、1978年5月13日出生） [宫崎县](https://zh.wikipedia.org/wiki/宫崎县 "wikilink") [千穗町](https://zh.wikipedia.org/wiki/千穗町 "wikilink") 人， B型血,大阪艺术大学毕业,从事大阪艺术大学爵士乐研究。负责演奏[小号](https://zh.wikipedia.org/wiki/小号 "wikilink")。
+**DAISUKE**（後藤大輔 ゴトウダイスケ、1980年10月29日出生） [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") [京都市](../Page/京都市.md "wikilink") 人， A型血 。[大阪音乐学院](https://zh.wikipedia.org/wiki/大阪音乐学院 "wikilink") 毕业,负责演奏[萨克斯风](https://zh.wikipedia.org/wiki/萨克斯风 "wikilink")。 狗的名字：肯尼（但暗地里，他似乎对狗[过敏](../Page/过敏.md "wikilink")。)
+**MELTEN**（岸本亮 キシモトリョウ、1983年2月13日出生） [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") [京都市](../Page/京都市.md "wikilink") 人， AB型血。键盘手.[大阪音乐学院](https://zh.wikipedia.org/wiki/大阪音乐学院 "wikilink") 毕业
+**YOHEI**（斉藤陽平 サイトウヨウヘイ、1981年7月15日出生）， [滋贺县](../Page/滋贺县.md "wikilink") [大津市](../Page/大津市.md "wikilink") 人,[江阳音乐学院研究生](https://zh.wikipedia.org/wiki/江阳音乐学院 "wikilink")， B型血 。鼓手。喜爱甜食。 爱好：骑自行车
+**YUKI**（永田雄樹 ナガタユウキ、1979年6月23日出生），[滋贺县](../Page/滋贺县.md "wikilink") [彦根](https://zh.wikipedia.org/wiki/彦根 "wikilink") 人， B型血 。负责BASS.
 
 ## 作品
 
@@ -82,9 +66,7 @@ B型血 。鼓手。喜爱甜食。 爱好：骑自行车
     11. WHITE OUT
     12. 軌跡の果て
     13. 荘厳伝説
-4.  **攻め燃える**(
-    [Vithmic](https://zh.wikipedia.org/wiki/Vithmic "wikilink")
-    2010年10月）
+4.  **攻め燃える**( [Vithmic](https://zh.wikipedia.org/wiki/Vithmic "wikilink") 2010年10月）
     1.  Round Mirror Moon feat. Yoshika \[SOULHEAD\]
     2.  Red
     3.  ソレソレ
@@ -132,5 +114,4 @@ B型血 。鼓手。喜爱甜食。 爱好：骑自行车
   - [古伦美亚音乐娱乐网站的介绍](http://columbia.jp/artist-info/jabberloop/COCB-53658.html)
   - [JABBERLOOP的MySpace网站](http://profile.myspace.com/jabberloop)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")

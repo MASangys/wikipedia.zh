@@ -1,4 +1,4 @@
-**2010年Oricon單曲週榜冠軍作品列表**列出2010年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2010年Oricon單曲週榜冠軍作品列表**列出2010年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 全年度共有51張冠軍單曲誕生，但沒有一首單曲獲得兩週或以上冠軍，且所有冠軍單曲都是在發行首週取得冠軍。
 
@@ -386,6 +386,4 @@
 
   - [2010年每週公信榜統計數據](https://web.archive.org/web/20100929221934/http://musictvprogram.com/oricon2010.html)
 
-[Category:2010年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
-[Category:2010年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2010年音樂排行榜 "wikilink")
+[Category:2010年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink") [Category:2010年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2010年音樂排行榜 "wikilink")

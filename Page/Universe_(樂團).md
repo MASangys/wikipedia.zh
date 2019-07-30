@@ -1,6 +1,4 @@
-**universe**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：ユニバース），2002年組成的日本搖滾樂團。曾所屬[日本索尼音樂娛樂及事務所](../Page/日本索尼音樂娛樂.md "wikilink")[Stardust
-Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。
-成員全體參與作詞作曲。以[埼玉縣](../Page/埼玉縣.md "wikilink")[大宮為中心進行活動](https://zh.wikipedia.org/wiki/大宮 "wikilink")。
+**universe**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：ユニバース），2002年組成的日本搖滾樂團。曾所屬[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")及事務所[Stardust Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。 成員全體參與作詞作曲。以[埼玉縣](../Page/埼玉縣.md "wikilink")[大宮為中心進行活動](https://zh.wikipedia.org/wiki/大宮 "wikilink")。
 
 ## 簡介
 
@@ -16,10 +14,8 @@ Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。
 
 <!-- end list -->
 
-  - \* 3月20日 -
-    在大宮HEARTS(現[西川口Hearts](http://hearts-web.net/hearts/))舉辦第一次單獨演唱會。
-    \* 4月 -
-    在[大宮開始](https://zh.wikipedia.org/wiki/大宮 "wikilink")[街頭演唱](https://zh.wikipedia.org/wiki/街頭表演 "wikilink")。
+  - \* 3月20日 - 在大宮HEARTS(現[西川口Hearts](http://hearts-web.net/hearts/))舉辦第一次單獨演唱會。
+    \* 4月 - 在[大宮開始](https://zh.wikipedia.org/wiki/大宮 "wikilink")[街頭演唱](https://zh.wikipedia.org/wiki/街頭表演 "wikilink")。
 
 <!-- end list -->
 
@@ -55,8 +51,7 @@ Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。
 <!-- end list -->
 
   - \* 4月29日 - 主辦聯合演唱會「unirock Fes.Vol.5」。
-    \* 10月10日 - LOTTE × Sony
-    Music「歌のあるガムプロジェクト」的比賽中獲得大獎。並以[LOTTE的廣告曲出道](https://zh.wikipedia.org/wiki/LOTTE "wikilink")。
+    \* 10月10日 - LOTTE × Sony Music「歌のあるガムプロジェクト」的比賽中獲得大獎。並以[LOTTE的廣告曲出道](https://zh.wikipedia.org/wiki/LOTTE "wikilink")。
     \* 12月4日 - 主辦聯合演唱會「unirock Fes.Vol.6」。
 
 <!-- end list -->
@@ -66,9 +61,7 @@ Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。
 <!-- end list -->
 
   - \* 05月5日 - 第一張單曲「ハルイロ」正式出道。
-    \* 08月4日 -
-    第二張單曲「echoes」發行。這首歌成為動畫「[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")」的片尾曲。（撥出集數為第279話
-    - 第291話）
+    \* 08月4日 - 第二張單曲「echoes」發行。這首歌成為動畫「[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")」的片尾曲。（撥出集數為第279話 - 第291話）
 
 <!-- end list -->
 
@@ -80,8 +73,7 @@ Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。
     \* 5月21日 - 主辦連續兩天聯合演唱會「uni-rock fes.Vol.7」。門票全數完售。
     \* 5月22日 - 主辦連續兩天聯合演唱會「uni-rock fes.Vol.8」。門票全數完售。
     \* 9月24日 - 主辦聯合演唱會「uni-rock fes.Vol.9」。
-    \* 10月26日 -
-    第一張迷你專輯「Reload」發行。隔天27日從渋谷O-WEST單獨演唱會開始進行全國巡迴公演「Re:road」。
+    \* 10月26日 - 第一張迷你專輯「Reload」發行。隔天27日從渋谷O-WEST單獨演唱會開始進行全國巡迴公演「Re:road」。
     \* 12月31日 - 在西川口HEARTS主辦聯合跨年演唱會「uni-rock fes vol.10～CDSP～」。門票全數完售。
 
 <!-- end list -->
@@ -91,8 +83,7 @@ Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。
 <!-- end list -->
 
   - \* 離開事務所及唱片公司。
-    \* 12月19日 - 第二張迷你專輯「Garage days」發行。獲得當地(埼玉縣)唱片行TOWER
-    RECORDS及NACK5town第一名。第一首收錄曲「季節越しの手紙」成為日本[テレビ埼玉](http://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%93%E5%9F%BC%E7%8E%89)「NEWS930」(毎週一～四)「WEEKEND930」(毎週五)10～12月的片尾曲。
+    \* 12月19日 - 第二張迷你專輯「Garage days」發行。獲得當地(埼玉縣)唱片行TOWER RECORDS及NACK5town第一名。第一首收錄曲「季節越しの手紙」成為日本[テレビ埼玉](http://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%93%E5%9F%BC%E7%8E%89)「NEWS930」(毎週一～四)「WEEKEND930」(毎週五)10～12月的片尾曲。
 
 <!-- end list -->
 
@@ -133,8 +124,7 @@ Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。
 
     \* 9月26日 - [Anime Weekend Atlanta](http://awa-con.com/) 2015
 
-    \* 12月13日 - hide Birthday Party 2015　～MIX LEMONed JELLY pre
-    collection～
+    \* 12月13日 - hide Birthday Party 2015　～MIX LEMONed JELLY pre collection～
 
 <!-- end list -->
 
@@ -144,8 +134,7 @@ Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。
 
   - \* 7月18日 - 「hide presents MIX LEMONeD JELLY 2016」
     \* 9月11日 - 宣布11月5日單獨演唱會及活動休止的消息。
-    \* 11月5日 - 西川口Hearts舉行『universe ONEMAN LIVE「uni音 2016 〜Eternal
-    Flame〜」』
+    \* 11月5日 - 西川口Hearts舉行『universe ONEMAN LIVE「uni音 2016 〜Eternal Flame〜」』
 
 ## 成員
 
@@ -234,8 +223,7 @@ YUSUKE（ユウスケ）/guitar
 
 <big><big><big>**<sub>地下時期(專輯)</sub>**</big></big></big>
 
-  - <big>**five pieces**（2009年12月2日發售）</big> ※大宮アルシェ内NACK5TOWN /
-    LIVE現場限定
+  - <big>**five pieces**（2009年12月2日發售）</big> ※大宮アルシェ内NACK5TOWN / LIVE現場限定
 
 <!-- end list -->
 

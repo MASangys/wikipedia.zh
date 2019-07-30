@@ -1,23 +1,18 @@
-**ETPFest**
-或称ETP音乐节是由摇滚歌手[徐太志创办的韩国规模最大的摇滚音乐节之一](../Page/徐太志.md "wikilink")。ETP为Eerie
-Taiji People的缩写，意为“古怪太志党”。
+**ETPFest** 或称ETP音乐节是由摇滚歌手[徐太志](../Page/徐太志.md "wikilink")创办的韩国规模最大的摇滚音乐节之一。ETP为Eerie Taiji People的缩写，意为“古怪太志党”。
 
 ## 演出
 
 ### 2001
 
-[徐太志乐队参与了首届ETP音乐节的演出](../Page/徐太志.md "wikilink")。
+[徐太志](../Page/徐太志.md "wikilink")乐队参与了首届ETP音乐节的演出。
 
 ### 2002
 
-演出团体及个人包括：[徐太志乐队](../Page/徐太志.md "wikilink")、[Mötley
-Crüe乐队的](https://zh.wikipedia.org/wiki/Mötley_Crüe "wikilink")[Tommy
-Lee及](https://zh.wikipedia.org/wiki/Tommy_Lee "wikilink")[hide](https://zh.wikipedia.org/wiki/hide "wikilink")。
+演出团体及个人包括：[徐太志](../Page/徐太志.md "wikilink")乐队、[Mötley Crüe乐队的](https://zh.wikipedia.org/wiki/Mötley_Crüe "wikilink")[Tommy Lee及](https://zh.wikipedia.org/wiki/Tommy_Lee "wikilink")[hide](https://zh.wikipedia.org/wiki/hide "wikilink")。
 
 ### 2004
 
-演出团体及个人包括：[徐太志乐队](../Page/徐太志.md "wikilink")、[Hoobastank](https://zh.wikipedia.org/wiki/Hoobastank "wikilink")、[Zebrahead](https://zh.wikipedia.org/wiki/Zebrahead "wikilink")、[PE'Z及](https://zh.wikipedia.org/wiki/PE'Z "wikilink")
-[Pia](https://zh.wikipedia.org/wiki/Pia_\(band\) "wikilink").
+演出团体及个人包括：[徐太志](../Page/徐太志.md "wikilink")乐队、[Hoobastank](https://zh.wikipedia.org/wiki/Hoobastank "wikilink")、[Zebrahead](https://zh.wikipedia.org/wiki/Zebrahead "wikilink")、[PE'Z及](https://zh.wikipedia.org/wiki/PE'Z "wikilink") [Pia](https://zh.wikipedia.org/wiki/Pia_\(band\) "wikilink").
 
 ### 2008
 
@@ -62,12 +57,7 @@ Lee及](https://zh.wikipedia.org/wiki/Tommy_Lee "wikilink")[hide](https://zh.wik
 
 ### 2009
 
-演出团体及个人包括：[九寸钉](https://zh.wikipedia.org/wiki/Nine_Inch_Nails "wikilink"),
-[Limp Bizkit](https://zh.wikipedia.org/wiki/Limp_Bizkit "wikilink"),
-[Keane](https://zh.wikipedia.org/wiki/Keane_\(band\) "wikilink"),
-[徐太志](../Page/徐太志.md "wikilink") (网上直播), GUMX,
-[Pia](https://zh.wikipedia.org/wiki/Pia_\(band\) "wikilink"), [Boom Boom
-Satellites及Fade](https://zh.wikipedia.org/wiki/Boom_Boom_Satellites "wikilink").
+演出团体及个人包括：[九寸钉](https://zh.wikipedia.org/wiki/Nine_Inch_Nails "wikilink"), [Limp Bizkit](https://zh.wikipedia.org/wiki/Limp_Bizkit "wikilink"), [Keane](https://zh.wikipedia.org/wiki/Keane_\(band\) "wikilink"), [徐太志](../Page/徐太志.md "wikilink") (网上直播), GUMX, [Pia](https://zh.wikipedia.org/wiki/Pia_\(band\) "wikilink"), [Boom Boom Satellites及Fade](https://zh.wikipedia.org/wiki/Boom_Boom_Satellites "wikilink").
 
 ## 參見
 

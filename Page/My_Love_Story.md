@@ -1,10 +1,8 @@
-**《My Love
-Story》**是[無綫電視藝人](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[鍾嘉欣的第](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")2張大碟，主打歌包括《日夜想你》、《明爭暗鬥》等。是次[鍾嘉欣繼承上一張專輯](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，繼續親自創作歌曲。此專輯後來也獲「金唱片」的銷量。\[1\]\[2\]
+**《My Love Story》**是[無綫電視藝人](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[鍾嘉欣的第](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")2張大碟，主打歌包括《日夜想你》、《明爭暗鬥》等。是次[鍾嘉欣繼承上一張專輯](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，繼續親自創作歌曲。此專輯後來也獲「金唱片」的銷量。\[1\]\[2\]
 
   - 限量預購版：
 
-限量預購版在2009年11月12日推出，共收錄12首歌曲及4個[MV](../Page/音樂錄影帶.md "wikilink")，而歌曲繼續由[鍾嘉欣一直合作的](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[杜自持和](../Page/杜自持.md "wikilink")[嚴勵行](../Page/嚴勵行.md "wikilink")（Johnny
-Yim）負責監製。
+限量預購版在2009年11月12日推出，共收錄12首歌曲及4個[MV](../Page/音樂錄影帶.md "wikilink")，而歌曲繼續由[鍾嘉欣一直合作的](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[杜自持](../Page/杜自持.md "wikilink")和[嚴勵行](../Page/嚴勵行.md "wikilink")（Johnny Yim）負責監製。
 
 限量預購版隨碟附送全彩色貼相紙簿及珍藏海報，還有7款全新Postcard及貼紙。
 
@@ -78,7 +76,7 @@ Yim）負責監製。
 </tr>
 <tr class="odd">
 <td><p>4.</p></td>
-<td><p>戀愛令人心痛<small>（與<a href="../Page/韋雄.md" title="wikilink">韋雄合唱</a>）</small></p></td>
+<td><p>戀愛令人心痛<small>（與<a href="../Page/韋雄.md" title="wikilink">韋雄</a>合唱）</small></p></td>
 <td><p><a href="../Page/周杰倫.md" title="wikilink">周杰倫</a></p></td>
 <td><p>張美賢</p></td>
 <td><p>杜自持</p></td>
@@ -166,7 +164,7 @@ Yim）負責監製。
 | --- | -------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------- | -- |
 | 1\. | 日夜想你                                                     | [鍾嘉欣](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")     | [張美賢](../Page/張美賢.md "wikilink")                  |    |
 | 2\. | 明爭暗鬥                                                     | [Alex Lung](../Page/龍世樑.md "wikilink")                  | [王仲傑](../Page/王仲傑.md "wikilink")                  |    |
-| 3\. | 戀愛令人心痛<small>（與[韋雄合唱](../Page/韋雄.md "wikilink")）</small> | [周杰倫](../Page/周杰倫.md "wikilink")                        | 張美賢                                               |    |
+| 3\. | 戀愛令人心痛<small>（與[韋雄](../Page/韋雄.md "wikilink")合唱）</small> | [周杰倫](../Page/周杰倫.md "wikilink")                        | 張美賢                                               |    |
 | 4\. | 暗示                                                       | [張家誠](../Page/張家誠.md "wikilink")                        | 張美賢                                               |    |
 | 5\. | 讓我繼續愛你（國）                                                | 鍾嘉欣                                                     | [姚謙](https://zh.wikipedia.org/wiki/姚謙 "wikilink") |    |
 | 6\. | 有一天（國）                                                   | [鍾偉權](https://zh.wikipedia.org/wiki/鍾偉權 "wikilink")、鍾嘉欣 | [王祖藍](../Page/王祖藍.md "wikilink")                  |    |
@@ -208,7 +206,7 @@ Yim）負責監製。
 </tr>
 <tr class="even">
 <td><p>1.</p></td>
-<td><p>愛得起<small>（與<a href="../Page/鄭融.md" title="wikilink">鄭融合唱Featuring</a><a href="../Page/韋雄.md" title="wikilink">韋雄</a>）</small></p></td>
+<td><p>愛得起<small>（與<a href="../Page/鄭融.md" title="wikilink">鄭融</a>合唱Featuring<a href="../Page/韋雄.md" title="wikilink">韋雄</a>）</small></p></td>
 <td><p><a href="../Page/袁詠琳.md" title="wikilink">袁詠琳</a></p></td>
 <td><p><a href="../Page/王仲傑.md" title="wikilink">王仲傑</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Johnny_Yim" title="wikilink">Johnny Yim</a></p></td>
@@ -244,7 +242,7 @@ Yim）負責監製。
 </tr>
 <tr class="even">
 <td><p>5.</p></td>
-<td><p>戀愛令人心痛<small>（與<a href="../Page/韋雄.md" title="wikilink">韋雄合唱</a>）</small></p></td>
+<td><p>戀愛令人心痛<small>（與<a href="../Page/韋雄.md" title="wikilink">韋雄</a>合唱）</small></p></td>
 <td><p><a href="../Page/周杰倫.md" title="wikilink">周杰倫</a></p></td>
 <td><p>張美賢</p></td>
 <td><p>杜自持</p></td>
@@ -378,7 +376,7 @@ Yim）負責監製。
 </tr>
 <tr class="even">
 <td><p>6.</p></td>
-<td><p>戀愛令人心痛<small>（與<a href="../Page/韋雄.md" title="wikilink">韋雄合唱</a>）</small></p></td>
+<td><p>戀愛令人心痛<small>（與<a href="../Page/韋雄.md" title="wikilink">韋雄</a>合唱）</small></p></td>
 <td><p><a href="../Page/周杰倫.md" title="wikilink">周杰倫</a></p></td>
 <td><p>張美賢</p></td>
 <td></td>
@@ -496,37 +494,28 @@ Yim）負責監製。
 
   - 《日夜想你》是第二首派台作品，為主唱者親自作曲的作品。
   - 《明爭暗鬥》是第三首派台作品。
-  - 《戀愛令人心痛》是改編自[劉畊宏與](../Page/劉畊宏.md "wikilink")[許慧欣的](../Page/許慧欣.md "wikilink")《心動‧心痛》，並與[韋雄合唱](../Page/韋雄.md "wikilink")，是第一首派台作品。
-  - 《Cha Cha Cha》是改編自[Roxanne
-    Seeman](https://zh.wikipedia.org/wiki/Roxanne_Seeman "wikilink")、[Kine
-    Ludvigsen](https://zh.wikipedia.org/wiki/Kine_Ludvigsen "wikilink")、[Olav
-    Fossheim的作品](https://zh.wikipedia.org/wiki/Olav_Fossheim "wikilink")。
-  - 《有一天》的歌曲由[鍾嘉欣與其哥哥](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[鍾偉權一起創作](https://zh.wikipedia.org/wiki/鍾偉權 "wikilink")，並找來[王祖藍填詞](../Page/王祖藍.md "wikilink")。
-  - 《Fly Me To The Moon》是翻唱[Bart
-    Howard的作品](https://zh.wikipedia.org/wiki/Bart_Howard "wikilink")。
+  - 《戀愛令人心痛》是改編自[劉畊宏](../Page/劉畊宏.md "wikilink")與[許慧欣](../Page/許慧欣.md "wikilink")的《心動‧心痛》，並與[韋雄](../Page/韋雄.md "wikilink")合唱，是第一首派台作品。
+  - 《Cha Cha Cha》是改編自[Roxanne Seeman](https://zh.wikipedia.org/wiki/Roxanne_Seeman "wikilink")、[Kine Ludvigsen](https://zh.wikipedia.org/wiki/Kine_Ludvigsen "wikilink")、[Olav Fossheim的作品](https://zh.wikipedia.org/wiki/Olav_Fossheim "wikilink")。
+  - 《有一天》的歌曲由[鍾嘉欣與其哥哥](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[鍾偉權一起創作](https://zh.wikipedia.org/wiki/鍾偉權 "wikilink")，並找來[王祖藍](../Page/王祖藍.md "wikilink")填詞。
+  - 《Fly Me To The Moon》是翻唱[Bart Howard的作品](https://zh.wikipedia.org/wiki/Bart_Howard "wikilink")。
   - 《有一天》為《有一天》的國語版。
   - 《讓我繼續愛你》為《日夜想你》的國語版。
-  - 《聽說你愛我》是改編自[林憶蓮的](../Page/林憶蓮.md "wikilink")《聽說愛情回來過》。
-  - 《愛得起》改編自[袁詠琳與](../Page/袁詠琳.md "wikilink")[周杰倫的](../Page/周杰倫.md "wikilink")《畫沙》，與[鄭融合唱版本則是第四首派台作品](../Page/鄭融.md "wikilink")。
+  - 《聽說你愛我》是改編自[林憶蓮](../Page/林憶蓮.md "wikilink")的《聽說愛情回來過》。
+  - 《愛得起》改編自[袁詠琳](../Page/袁詠琳.md "wikilink")與[周杰倫](../Page/周杰倫.md "wikilink")的《畫沙》，與[鄭融](../Page/鄭融.md "wikilink")合唱版本則是第四首派台作品。
 
 ## 獎項
 
   - [勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")2009 - 第三回得獎歌曲（《日夜想你》）
   - [勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")2010 - 第一回得獎歌曲（《明爭暗鬥》）
-  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")2009
-    - 傑出表現獎-銅獎
+  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")2009 - 傑出表現獎-銅獎
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")2009 - 新城勁爆卡拉OK歌曲（《日夜想你》）
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2009
-    - 最高收聽率二十大歌曲獎（《日夜想你》）
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2009 - 最高收聽率二十大歌曲獎（《日夜想你》）
 
 ## 參考資料
 
 <references/>
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:鍾嘉欣音樂專輯](https://zh.wikipedia.org/wiki/Category:鍾嘉欣音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:鍾嘉欣音樂專輯](https://zh.wikipedia.org/wiki/Category:鍾嘉欣音樂專輯 "wikilink")
 
 1.
 2.

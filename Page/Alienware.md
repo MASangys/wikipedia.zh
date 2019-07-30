@@ -1,4 +1,4 @@
-**Alienware**（中国大陆民间称呼和戴尔中国官方宣传名称为**外星人**）是[戴尔旗下的电子科技子公司](https://zh.wikipedia.org/wiki/戴尔 "wikilink")，主要销售游戏用笔记本、台式机及相关配件\[1\]，市場定位是高階的[遊戲電腦](https://zh.wikipedia.org/wiki/遊戲電腦 "wikilink")，服務對象是高端消費者\[2\]。該公司也發售其他的[电子遊戲配件](https://zh.wikipedia.org/wiki/电子遊戲 "wikilink")，例如[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")、[鼠标等](../Page/鼠标.md "wikilink")。
+**Alienware**（中国大陆民间称呼和戴尔中国官方宣传名称为**外星人**）是[戴尔旗下的电子科技子公司](https://zh.wikipedia.org/wiki/戴尔 "wikilink")，主要销售游戏用笔记本、台式机及相关配件\[1\]，市場定位是高階的[遊戲電腦](https://zh.wikipedia.org/wiki/遊戲電腦 "wikilink")，服務對象是高端消費者\[2\]。該公司也發售其他的[电子遊戲配件](https://zh.wikipedia.org/wiki/电子遊戲 "wikilink")，例如[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")、[鼠标](../Page/鼠标.md "wikilink")等。
 
 ## 生产方式
 
@@ -12,8 +12,7 @@ Alienware支持用戶對產品進行升級，包括硬盤、記憶體、處理�
 
 ### 圖形放大器
 
-Alienware Graphics Amplifier能插入桌上型電腦顯示卡，強化Alienware
-13、15和17筆記型電腦，發揮桌上型電腦等級的高效能遊戲圖形顯示效能。
+Alienware Graphics Amplifier能插入桌上型電腦顯示卡，強化Alienware 13、15和17筆記型電腦，發揮桌上型電腦等級的高效能遊戲圖形顯示效能。
 
 ### 筆記型電腦
 
@@ -78,7 +77,7 @@ Area 51是Alienware中的頂級產品，外型上與大部分的四方型機箱�
 
 #### Alpha
 
-Alpha是Alienware中最小的机型，在2015年与世界最大的网络游戏商店[steam合作推出了](https://zh.wikipedia.org/wiki/steam "wikilink")[Steam系統的版本](../Page/Steam.md "wikilink")。
+Alpha是Alienware中最小的机型，在2015年与世界最大的网络游戏商店[steam合作推出了](https://zh.wikipedia.org/wiki/steam "wikilink")[Steam](../Page/Steam.md "wikilink")系統的版本。
 
 ## 参考文献
 
@@ -89,10 +88,7 @@ Alpha是Alienware中最小的机型，在2015年与世界最大的网络游戏�
       - [Alienware香港](http://www.alienware.com.hk)
       - [Alienware台灣](http://www.alienware.com.tw)
 
-[Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
-[Category:美國電腦公司](https://zh.wikipedia.org/wiki/Category:美國電腦公司 "wikilink")
-[Category:電腦硬件公司](https://zh.wikipedia.org/wiki/Category:電腦硬件公司 "wikilink")
-[Category:戴爾](https://zh.wikipedia.org/wiki/Category:戴爾 "wikilink")
+[Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink") [Category:美國電腦公司](https://zh.wikipedia.org/wiki/Category:美國電腦公司 "wikilink") [Category:電腦硬件公司](https://zh.wikipedia.org/wiki/Category:電腦硬件公司 "wikilink") [Category:戴爾](https://zh.wikipedia.org/wiki/Category:戴爾 "wikilink")
 
 1.
 2.

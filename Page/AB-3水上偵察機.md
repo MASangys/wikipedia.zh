@@ -1,5 +1,4 @@
-**愛知AB-3單座水上偵察機**（The Aichi Experimental AB-3 Single-Seat Reconnaissance
-Seaplane），是日本愛知時計電機為配合[中華民國海軍](../Page/中華民國海軍.md "wikilink")[寧海號輕巡洋艦運用而製作的複翼單座雙浮舟式水上偵察機](../Page/寧海級輕巡洋艦.md "wikilink")。製作機數1架。
+**愛知AB-3單座水上偵察機**（The Aichi Experimental AB-3 Single-Seat Reconnaissance Seaplane），是日本愛知時計電機為配合[中華民國海軍](../Page/中華民國海軍.md "wikilink")[寧海號輕巡洋艦運用而製作的複翼單座雙浮舟式水上偵察機](../Page/寧海級輕巡洋艦.md "wikilink")。製作機數1架。
 
 ## 概要
 
@@ -13,7 +12,7 @@ Seaplane），是日本愛知時計電機為配合[中華民國海軍](../Page/�
   - 搭載量：乘員一名、燃料及潤滑油全速3小時份、其他兵器30kg。
   - 性能：最大時速100kt、上升力3000m20分以內、實用上升限度400m、著水速度43kt。
 
-愛知以三木鐵夫技師為設計主任，構造承襲[亨克爾水上偵察機的木金混合骨架貼布](../Page/亨克爾.md "wikilink")，並參考該公司同時試作的AB-2彈射用複座水上偵察機設計，於1932年（昭和7年）1月完成。1932年2月在[名古屋港試飛](../Page/名古屋市.md "wikilink")，一般性能、操縱性表現比預期為佳，本機為愛知開發小型艦船、[潛艦搭載用水上偵察機的起點](https://zh.wikipedia.org/wiki/潛艦 "wikilink")。
+愛知以三木鐵夫技師為設計主任，構造承襲[亨克爾](../Page/亨克爾.md "wikilink")水上偵察機的木金混合骨架貼布，並參考該公司同時試作的AB-2彈射用複座水上偵察機設計，於1932年（昭和7年）1月完成。1932年2月在[名古屋港試飛](../Page/名古屋市.md "wikilink")，一般性能、操縱性表現比預期為佳，本機為愛知開發小型艦船、[潛艦搭載用水上偵察機的起點](https://zh.wikipedia.org/wiki/潛艦 "wikilink")。
 
 本機完成後隨竣工的巡洋艦寧海號出口至中國，[中華民國海軍製造飛機處馬德樹中尉參考本機設計](https://zh.wikipedia.org/wiki/中華民國海軍製造飛機處 "wikilink")，使用與寧海號一同買回來的備用神風引擎，於1934年（民國23年）仿製一架同型機，命名為**[辛式一型水上偵察機寧海號](https://zh.wikipedia.org/wiki/辛式一型水上偵察機寧海號 "wikilink")**，作為寧海艦之備用機\[1\]\[2\]。
 
@@ -54,14 +53,8 @@ Seaplane），是日本愛知時計電機為配合[中華民國海軍](../Page/�
 
 {{-}}
 
-[Category:水上飛機](https://zh.wikipedia.org/wiki/Category:水上飛機 "wikilink")
-[Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink")
-[Category:中華民國海軍](https://zh.wikipedia.org/wiki/Category:中華民國海軍 "wikilink")
-[Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink")
-[Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink")
+[Category:水上飛機](https://zh.wikipedia.org/wiki/Category:水上飛機 "wikilink") [Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:中華民國海軍](https://zh.wikipedia.org/wiki/Category:中華民國海軍 "wikilink") [Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink") [Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink")
 
-1.  姜長英 原著、文良彥·劉文孝 補校《中國航空史》（中國之翼出版社、1993年） ISBN 957-8628-07-2　第三章
-    航空工業　53\~54頁
-2.  發動機製造廠文獻編輯委員會《航空救國 發動機製造廠之興衰》（河中文化、2008年） ISBN
-    978-957-29033-8-4　林致平「中國近代（1912-1949）航空工業之發展」　465\~466頁
+1.  姜長英 原著、文良彥·劉文孝 補校《中國航空史》（中國之翼出版社、1993年） ISBN 957-8628-07-2　第三章 航空工業　53\~54頁
+2.  發動機製造廠文獻編輯委員會《航空救國 發動機製造廠之興衰》（河中文化、2008年） ISBN 978-957-29033-8-4　林致平「中國近代（1912-1949）航空工業之發展」　465\~466頁
 3.  野沢正 編著『日本航空機総集』第二巻 愛知・空技廠篇 54頁

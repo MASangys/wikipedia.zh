@@ -8,7 +8,7 @@
 
 ## 应用
 
-****本身并无特别应用，但因其整合了多种[社交网络等网站的账户](https://zh.wikipedia.org/wiki/社交网络 "wikilink")，有人便用其来监控[Twitter上的消息](../Page/Twitter.md "wikilink")。\[4\]\[5\]
+****本身并无特别应用，但因其整合了多种[社交网络等网站的账户](https://zh.wikipedia.org/wiki/社交网络 "wikilink")，有人便用其来监控[Twitter](../Page/Twitter.md "wikilink")上的消息。\[4\]\[5\]
 
 ## 用户管理
 
@@ -20,9 +20,7 @@
 
 ## 参考资料
 
-[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
-[Category:互联网](https://zh.wikipedia.org/wiki/Category:互联网 "wikilink")
-[Category:2011年建立的网站](https://zh.wikipedia.org/wiki/Category:2011年建立的网站 "wikilink")
+[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:互联网](https://zh.wikipedia.org/wiki/Category:互联网 "wikilink") [Category:2011年建立的网站](https://zh.wikipedia.org/wiki/Category:2011年建立的网站 "wikilink")
 
 1.
 
@@ -35,5 +33,4 @@
 
 6.  [ifttt：让互联网为你工作](http://www.nooidea.com/2011/06/use-ifttt-to-make-the-internet-work-for-you.html)
 
-7.  [给力ifttt！if this then
-    that！](http://www.sfzkx.info/technology/net/529.html)
+7.  [给力ifttt！if this then that！](http://www.sfzkx.info/technology/net/529.html)

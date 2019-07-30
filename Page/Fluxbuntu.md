@@ -10,7 +10,6 @@
   - [Fluxbuntu在Launchpad](https://launchpad.net/fluxbuntu)
   - [Fluxbuntu計劃在Launchpad](https://launchpad.net/fluxbuntu-project/)
 
-[Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
-[Category:Ubuntu衍生版](https://zh.wikipedia.org/wiki/Category:Ubuntu衍生版 "wikilink")
+[Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:Ubuntu衍生版](https://zh.wikipedia.org/wiki/Category:Ubuntu衍生版 "wikilink")
 
 1.

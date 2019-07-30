@@ -1,6 +1,4 @@
-**微博AIR**是[新浪微博官方推出的基於](../Page/新浪微博.md "wikilink")[Adobe
-AIR開發的桌面客戶端](../Page/Adobe_AIR.md "wikilink")，這亦是新浪推出的第三款即時通訊軟件。\[1\]軟件由老虎威開發\[2\]，最早於2010年3月12日推出，原名為**SinaTair**，自1.21版更名為**微博AIR**。\[3\]\[4\]目前，新浪官方已将另一款基於[Adobe
-AIR平台的軟件AIR微博作為官方微博客戶端](../Page/Adobe_AIR.md "wikilink")。\[5\]微博AIR則被列在其他桌面客戶端頁面。\[6\]
+**微博AIR**是[新浪微博](../Page/新浪微博.md "wikilink")官方推出的基於[Adobe AIR開發的桌面客戶端](../Page/Adobe_AIR.md "wikilink")，這亦是新浪推出的第三款即時通訊軟件。\[1\]軟件由老虎威開發\[2\]，最早於2010年3月12日推出，原名為**SinaTair**，自1.21版更名為**微博AIR**。\[3\]\[4\]目前，新浪官方已将另一款基於[Adobe AIR平台的軟件AIR微博作為官方微博客戶端](../Page/Adobe_AIR.md "wikilink")。\[5\]微博AIR則被列在其他桌面客戶端頁面。\[6\]
 
 ## 功能及特點
 
@@ -13,18 +11,15 @@ AIR平台的軟件AIR微博作為官方微博客戶端](../Page/Adobe_AIR.md "wi
 ## 同類軟件
 
   - Wing微博：新浪微博的非官方軟件，基於Adobe AIR開發。\[14\]
-  - [Twhirl](https://zh.wikipedia.org/wiki/Twhirl "wikilink")：[Twitter的非官方軟件](../Page/Twitter.md "wikilink")，微博AIR的界面與其相當類似，基於Adobe
-    AIR開發。
-  - [TwitEase](https://zh.wikipedia.org/wiki/TwitEase "wikilink")：[網易微博官方桌面客戶端](https://zh.wikipedia.org/wiki/網易微博 "wikilink")，基於Adobe
-    AIR開發。\[15\]
+  - [Twhirl](https://zh.wikipedia.org/wiki/Twhirl "wikilink")：[Twitter](../Page/Twitter.md "wikilink")的非官方軟件，微博AIR的界面與其相當類似，基於Adobe AIR開發。
+  - [TwitEase](https://zh.wikipedia.org/wiki/TwitEase "wikilink")：[網易微博官方桌面客戶端](https://zh.wikipedia.org/wiki/網易微博 "wikilink")，基於Adobe AIR開發。\[15\]
   - Weico Air：新浪微博的非官方軟件，基於Adobe AIR開發。\[16\]
 
 ## 相關條目
 
   - 新浪尋呼\[17\]（SinaPager）：新浪1999年推出的即時通訊軟件\[18\]
   - [新浪UC](../Page/新浪UC.md "wikilink")：新浪2004年推出的即時通訊軟件\[19\]
-  - [Sina App
-    Engine](https://zh.wikipedia.org/wiki/Sina_App_Engine "wikilink")（SAE）
+  - [Sina App Engine](https://zh.wikipedia.org/wiki/Sina_App_Engine "wikilink")（SAE）
 
 ## 參考資料
 
@@ -33,8 +28,7 @@ AIR平台的軟件AIR微博作為官方微博客戶端](../Page/Adobe_AIR.md "wi
   - [微博AIR官方網站](https://web.archive.org/web/20110319180247/http://sinatair.sinaapp.com/)
   - 軟件開發者老虎威的[新浪微博](http://t.sina.com.cn/dakular)及其[博客](https://web.archive.org/web/20110507064741/http://dakular.com/blog/)
 
-[Category:新浪微博](https://zh.wikipedia.org/wiki/Category:新浪微博 "wikilink")
-[Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink")
+[Category:新浪微博](https://zh.wikipedia.org/wiki/Category:新浪微博 "wikilink") [Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink")
 
 1.
 

@@ -1,6 +1,4 @@
-『**Pico×CoCo×Chico**』是2008年10月9日由[Soft On
-Demand發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")。『[Pico系列](../Page/Pico系列.md "wikilink")』第三作、正式名則為『**Pico系列
-Pico×CoCo×Chico**』。\[1\]
+『**Pico×CoCo×Chico**』是2008年10月9日由[Soft On Demand發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")。『[Pico系列](../Page/Pico系列.md "wikilink")』第三作、正式名則為『**Pico系列 Pico×CoCo×Chico**』。\[1\]
 
 ## 故事大綱
 
@@ -10,12 +8,11 @@ Pico和Chico兩人某天在都市中遇到一名外表宛如少女的神秘人�
 
 ## 登場人物
 
-請參考[Pico系列登場人物](../Page/Pico系列.md "wikilink")。
+請參考[Pico系列](../Page/Pico系列.md "wikilink")登場人物。
 
 ## 工作人員
 
-  - 原作：[Natural
-    High](https://zh.wikipedia.org/wiki/Natural_High "wikilink")
+  - 原作：[Natural High](https://zh.wikipedia.org/wiki/Natural_High "wikilink")
   - 製作總指揮：とっちん
   - 劇本：高山カツヒコ
   - 角色設定・作画監督：[よし天](https://zh.wikipedia.org/wiki/よし天 "wikilink")
@@ -24,8 +21,7 @@ Pico和Chico兩人某天在都市中遇到一名外表宛如少女的神秘人�
   - 音樂：忍、K2 project
   - 音效設計：Dr.T
   - 導演：[谷田部勝義](https://zh.wikipedia.org/wiki/谷田部勝義 "wikilink")
-  - 製作・著作・受審・發售：[Natural
-    High](https://zh.wikipedia.org/wiki/Natural_High "wikilink")
+  - 製作・著作・受審・發售：[Natural High](https://zh.wikipedia.org/wiki/Natural_High "wikilink")
   - 製作：シュガーボーイ、スタジオブルーキャッツ、[SUNRISE](../Page/日昇動畫.md "wikilink")
   - 販售商：Soft On Demand
 
@@ -54,13 +50,6 @@ Pico和Chico兩人某天在都市中遇到一名外表宛如少女的神秘人�
 
   - [PicoWEB](https://web.archive.org/web/20061115025610/http://www.pico.bz/)官方網站
 
-[Category:BL動畫](https://zh.wikipedia.org/wiki/Category:BL動畫 "wikilink")
-[Category:女裝作品](https://zh.wikipedia.org/wiki/Category:女裝作品 "wikilink")
-[Category:Pico系列](https://zh.wikipedia.org/wiki/Category:Pico系列 "wikilink")
-[Category:2008年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2008年日本成人動畫 "wikilink")
-[Category:內容涉及兒童性行為的動漫作品](https://zh.wikipedia.org/wiki/Category:內容涉及兒童性行為的動漫作品 "wikilink")
+[Category:BL動畫](https://zh.wikipedia.org/wiki/Category:BL動畫 "wikilink") [Category:女裝作品](https://zh.wikipedia.org/wiki/Category:女裝作品 "wikilink") [Category:Pico系列](https://zh.wikipedia.org/wiki/Category:Pico系列 "wikilink") [Category:2008年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2008年日本成人動畫 "wikilink") [Category:內容涉及兒童性行為的動漫作品](https://zh.wikipedia.org/wiki/Category:內容涉及兒童性行為的動漫作品 "wikilink")
 
-1.  [Pico×CoCo×Chico
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11326)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+1.  [Pico×CoCo×Chico (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11326)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")

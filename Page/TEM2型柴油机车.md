@@ -1,15 +1,14 @@
-**TEM2型柴油机车**（）是[苏联铁路的调车](../Page/苏联铁路运输.md "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，也是苏联国内产量最大的铁路机车车型之一，[布良斯克机械制造厂设计制造](../Page/布良斯克机械制造厂.md "wikilink")，于1960年至1984年间累计生产了超过6200台，至今仍然是[俄罗斯铁路的主力](../Page/俄罗斯铁路.md "wikilink")[调车机车](../Page/调车机车.md "wikilink")，与[ChME3型柴油机车共同占了俄罗斯调车柴油机车车队的九成以上](../Page/ChME3型柴油机车.md "wikilink")。
+**TEM2型柴油机车**（）是[苏联铁路的调车](../Page/苏联铁路运输.md "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，也是苏联国内产量最大的铁路机车车型之一，[布良斯克机械制造厂](../Page/布良斯克机械制造厂.md "wikilink")设计制造，于1960年至1984年间累计生产了超过6200台，至今仍然是[俄罗斯铁路](../Page/俄罗斯铁路.md "wikilink")的主力[调车机车](../Page/调车机车.md "wikilink")，与[ChME3型柴油机车](../Page/ChME3型柴油机车.md "wikilink")共同占了俄罗斯调车柴油机车车队的九成以上。
 
-TEM2型机车是在[TEM1型机车基础上改进而成的调车机车](../Page/TEM1型柴油机车.md "wikilink")，换装了更大功率的柴油机，功率为1200马力（883千瓦）。1976年至1988年间，[波兰国家铁路也向布良斯克机械制造厂订购了共](../Page/波兰国家铁路.md "wikilink")150台TEM2型机车，波兰国铁型号为SM48型。
+TEM2型机车是在[TEM1型机车基础上改进而成的调车机车](../Page/TEM1型柴油机车.md "wikilink")，换装了更大功率的柴油机，功率为1200马力（883千瓦）。1976年至1988年间，[波兰国家铁路](../Page/波兰国家铁路.md "wikilink")也向布良斯克机械制造厂订购了共150台TEM2型机车，波兰国铁型号为SM48型。
 
 ## 发展历史
 
-[缩略图](https://zh.wikipedia.org/wiki/File:13.11.94_Bełżec_SM48-001_\(6483874953\).jpg "fig:缩略图")
-1959年，根据[苏联交通部的要求](https://zh.wikipedia.org/wiki/苏联交通部 "wikilink")，布良斯克机械制造厂开始在[TEM1型柴油机车的基础上](../Page/TEM1型柴油机车.md "wikilink")，开发新一代功率更大的调车柴油机车。为此，[奔萨柴油机制造厂在](https://zh.wikipedia.org/wiki/奔萨柴油机制造厂 "wikilink")2Д50型柴油机的基础上研制了ПД1型[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，而[哈尔科夫电机制造厂亦研制了配套的ГП](https://zh.wikipedia.org/wiki/哈尔科夫电机制造厂 "wikilink")-300型直流牵引发电机。1960年，布良斯克机械制造厂试制了首两台TEM2型柴油机车，并在[莫斯科铁路局利霍博雷机务段投入运用考核](https://zh.wikipedia.org/wiki/莫斯科铁路局 "wikilink")。1961年，TEM2-0002号机车在[全苏铁道运输科学研究院的环形铁道试验线上进行了热工及牵引性能试验](https://zh.wikipedia.org/wiki/全苏铁道运输科学研究院 "wikilink")。由于TEM2型柴油机车仍属于苏联铁路第一代直流电传动柴油机车，并没有柴油机—发电机组恒功率励磁调节装置，因而试验结果显示机车的恒功调速范围较狭窄，无法充分利用柴油机的输出功率，若不采用[磁场削弱则机车最高恒功速度只能达到](https://zh.wikipedia.org/wiki/磁场削弱 "wikilink")37公里/小时。
+[缩略图](https://zh.wikipedia.org/wiki/File:13.11.94_Bełżec_SM48-001_\(6483874953\).jpg "fig:缩略图") 1959年，根据[苏联交通部的要求](https://zh.wikipedia.org/wiki/苏联交通部 "wikilink")，布良斯克机械制造厂开始在[TEM1型柴油机车](../Page/TEM1型柴油机车.md "wikilink")的基础上，开发新一代功率更大的调车柴油机车。为此，[奔萨柴油机制造厂在](https://zh.wikipedia.org/wiki/奔萨柴油机制造厂 "wikilink")2Д50型柴油机的基础上研制了ПД1型[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，而[哈尔科夫电机制造厂亦研制了配套的ГП](https://zh.wikipedia.org/wiki/哈尔科夫电机制造厂 "wikilink")-300型直流牵引发电机。1960年，布良斯克机械制造厂试制了首两台TEM2型柴油机车，并在[莫斯科铁路局利霍博雷机务段投入运用考核](https://zh.wikipedia.org/wiki/莫斯科铁路局 "wikilink")。1961年，TEM2-0002号机车在[全苏铁道运输科学研究院的环形铁道试验线上进行了热工及牵引性能试验](https://zh.wikipedia.org/wiki/全苏铁道运输科学研究院 "wikilink")。由于TEM2型柴油机车仍属于苏联铁路第一代直流电传动柴油机车，并没有柴油机—发电机组恒功率励磁调节装置，因而试验结果显示机车的恒功调速范围较狭窄，无法充分利用柴油机的输出功率，若不采用[磁场削弱则机车最高恒功速度只能达到](https://zh.wikipedia.org/wiki/磁场削弱 "wikilink")37公里/小时。
 
 经过长时间的试验和改进后，布良斯克机械制造厂于1967年开始批量生产TEM2型柴油机车，并在1968年停产TEM1型柴油机车。1969年至1979年间，位于乌克兰的[伏罗希洛夫格勒内燃机车制造厂亦按照相同的图纸批量生产TEM](../Page/卢甘斯克机车制造厂.md "wikilink")2型机车。由于该型机车的运用可靠性理想，从1970年起被列为苏联国家优质产品。从1960年至1975年，布良斯克机械制造厂共生产了2160台TEM2型机车，全部交付苏联交通部；伏罗希洛夫格勒工厂共生产了1000台，其中578台交付交通部，其余均交付路外厂矿企业使用。此后，又出现了TEM2A、TEM2M、TEM2U、TEM2UM、TEM2AM等众多改进型。至2000年，布良斯克机械制造厂才正式停产TEM2系列柴油机车，在整整四十年的生产里程中共制造了近9000台各种型号的TEM2系列柴油机车。
 
-TEM2型柴油机车亦被出口到[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")、[蒙古国及](../Page/蒙古国.md "wikilink")[古巴](../Page/古巴.md "wikilink")。1976年，波兰订购了130台采用[标准轨距的TEM](https://zh.wikipedia.org/wiki/标准轨距 "wikilink")2型机车，该型机车在波兰铁路系统内被定型为SM48型柴油机车。
+TEM2型柴油机车亦被出口到[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")、[蒙古国](../Page/蒙古国.md "wikilink")及[古巴](../Page/古巴.md "wikilink")。1976年，波兰订购了130台采用[标准轨距的TEM](https://zh.wikipedia.org/wiki/标准轨距 "wikilink")2型机车，该型机车在波兰铁路系统内被定型为SM48型柴油机车。
 
 ## 改进型
 
@@ -35,7 +34,7 @@ TEM2型柴油机车亦被出口到[波兰](https://zh.wikipedia.org/wiki/波兰 
 
 ### TEM2<sup>T</sup>
 
-1985年，布良斯克机械制造厂试制了两台加装了[电阻制动装置的TEM](../Page/电阻制动.md "wikilink")2<sup>T</sup>型柴油机车，并在布良斯克机务段投入运用考核。
+1985年，布良斯克机械制造厂试制了两台加装了[电阻制动](../Page/电阻制动.md "wikilink")装置的TEM2<sup>T</sup>型柴油机车，并在布良斯克机务段投入运用考核。
 
 ### TEM2UM
 
@@ -45,7 +44,7 @@ TEM2型柴油机车亦被出口到[波兰](https://zh.wikipedia.org/wiki/波兰 
 
 ### 总体结构
 
-在车体结构上，TEM2型机车和TEM1型机车并没有较大的改变，较明显的差异在于[司机室采用了垂直的侧墙](https://zh.wikipedia.org/wiki/司机室 "wikilink")，不再采用TEM1型机车司机室侧墙上部向上倾斜的设计，以方便司机瞭望。机车采用底架承载结构罩式车体，车体各项载荷全部由底架承担，底架和车体重量通过旁承由两台三轴[转向架支承](https://zh.wikipedia.org/wiki/转向架 "wikilink")，[牵引力和制动力通过心盘传递](../Page/牵引力.md "wikilink")。车体采用外走廊式罩式结构，司机室位于车体中部。
+在车体结构上，TEM2型机车和TEM1型机车并没有较大的改变，较明显的差异在于[司机室采用了垂直的侧墙](https://zh.wikipedia.org/wiki/司机室 "wikilink")，不再采用TEM1型机车司机室侧墙上部向上倾斜的设计，以方便司机瞭望。机车采用底架承载结构罩式车体，车体各项载荷全部由底架承担，底架和车体重量通过旁承由两台三轴[转向架支承](https://zh.wikipedia.org/wiki/转向架 "wikilink")，[牵引力](../Page/牵引力.md "wikilink")和制动力通过心盘传递。车体采用外走廊式罩式结构，司机室位于车体中部。
 
 ### 柴油机
 
@@ -53,9 +52,9 @@ TEM2型机车装用一台ПД1型柴油机，是在2Д50型柴油机的基础上
 
 ### 传动系统
 
-TEM2型柴油机车采用直—直流电传动，传动系统主要由[牵引发电机和](../Page/发电机.md "wikilink")[牵引电动机组成](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")。柴油机输出轴直接传递[功率给直流牵引发电机](../Page/功率.md "wikilink")，然后供给两台转向架上的六台直流牵引电动机。机车采用一台ГП-300型牵引发电机，设有八个主极和八个换向极，当发电机以额定转速每分钟750转工作时，额定功率达到780千瓦，发电机总重5100公斤。首三台机车（0001～0003）采用ЭДТ-340В型四极串励脉流牵引电动机，持续功率为108千瓦，额定电压为220伏，额定电流为590安培，额定转速为每分钟260转，牵引齿轮传动比为15：68。0004～0015号机车采用ЭД-104Б型牵引电动机，持续功率为113千瓦，额定电压为208伏，额定电流为625安培，牵引齿轮传动比为17:75；同时，改为采用具有八个运行级位的司机控制器。从1967年生产的0016号机车起，改为采用ЭД-107型牵引电动机，持续功率为112千瓦，额定电压为215伏，额定电流为605安培。
+TEM2型柴油机车采用直—直流电传动，传动系统主要由[牵引发电机和](../Page/发电机.md "wikilink")[牵引电动机组成](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")。柴油机输出轴直接传递[功率](../Page/功率.md "wikilink")给直流牵引发电机，然后供给两台转向架上的六台直流牵引电动机。机车采用一台ГП-300型牵引发电机，设有八个主极和八个换向极，当发电机以额定转速每分钟750转工作时，额定功率达到780千瓦，发电机总重5100公斤。首三台机车（0001～0003）采用ЭДТ-340В型四极串励脉流牵引电动机，持续功率为108千瓦，额定电压为220伏，额定电流为590安培，额定转速为每分钟260转，牵引齿轮传动比为15：68。0004～0015号机车采用ЭД-104Б型牵引电动机，持续功率为113千瓦，额定电压为208伏，额定电流为625安培，牵引齿轮传动比为17:75；同时，改为采用具有八个运行级位的司机控制器。从1967年生产的0016号机车起，改为采用ЭД-107型牵引电动机，持续功率为112千瓦，额定电压为215伏，额定电流为605安培。
 
-不同于TEM1型机车对牵引电动机采用[串](../Page/串聯電路.md "wikilink")—[并联换接进行调压](../Page/並聯電路.md "wikilink")，TEM2型柴油机车采用了与[TE3型柴油机车相同的调压方式](../Page/TE3型柴油机车.md "wikilink")，每两台牵引电机串联连接，三组牵引电机并联连接。为了扩大机车的恒功率调速范围，TEM2型机车能够对牵引电机实施二级磁场削弱，削弱率分别为48%及25%。而机车的励磁机、辅助发电机、空气压缩机、燃油箱等设备均与TEM1型机车相同。
+不同于TEM1型机车对牵引电动机采用[串](../Page/串聯電路.md "wikilink")—[并联换接进行调压](../Page/並聯電路.md "wikilink")，TEM2型柴油机车采用了与[TE3型柴油机车](../Page/TE3型柴油机车.md "wikilink")相同的调压方式，每两台牵引电机串联连接，三组牵引电机并联连接。为了扩大机车的恒功率调速范围，TEM2型机车能够对牵引电机实施二级磁场削弱，削弱率分别为48%及25%。而机车的励磁机、辅助发电机、空气压缩机、燃油箱等设备均与TEM1型机车相同。
 
 ### 技术改进
 
@@ -82,15 +81,8 @@ TEM2型柴油机车采用直—直流电传动，传动系统主要由[牵引发
 
 ## 外部链接
 
-  - [Описание тепловозов серии
-    ТЭМ2](http://parovoz.com/newgallery/index.php?SHOW_ALL=1&LNG=RU&DESCR=%D0%A2%D0%AD%D0%9C2)
+  - [Описание тепловозов серии ТЭМ2](http://parovoz.com/newgallery/index.php?SHOW_ALL=1&LNG=RU&DESCR=%D0%A2%D0%AD%D0%9C2)
 
   - [SM48 / TEM2](http://www.locomotives.com.pl/Diesels/SM48.htm)
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:俄罗斯柴油机车](https://zh.wikipedia.org/wiki/Category:俄罗斯柴油机车 "wikilink")
-[Category:哈萨克斯坦柴油机车](https://zh.wikipedia.org/wiki/Category:哈萨克斯坦柴油机车 "wikilink")
-[Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
-[Category:布良斯克制铁路机车](https://zh.wikipedia.org/wiki/Category:布良斯克制铁路机车 "wikilink")
-[Category:卢甘斯克制铁路机车](https://zh.wikipedia.org/wiki/Category:卢甘斯克制铁路机车 "wikilink")
-[Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:俄罗斯柴油机车](https://zh.wikipedia.org/wiki/Category:俄罗斯柴油机车 "wikilink") [Category:哈萨克斯坦柴油机车](https://zh.wikipedia.org/wiki/Category:哈萨克斯坦柴油机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:布良斯克制铁路机车](https://zh.wikipedia.org/wiki/Category:布良斯克制铁路机车 "wikilink") [Category:卢甘斯克制铁路机车](https://zh.wikipedia.org/wiki/Category:卢甘斯克制铁路机车 "wikilink") [Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")

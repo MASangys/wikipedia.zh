@@ -1,12 +1,10 @@
-《**NO MORE RULES.**》（絕美驚艷
-新歌加精選）是[中島美嘉於](../Page/中島美嘉.md "wikilink")2009年3月4日發行的企劃精選。
+《**NO MORE RULES.**》（絕美驚艷 新歌加精選）是[中島美嘉](../Page/中島美嘉.md "wikilink")於2009年3月4日發行的企劃精選。
 
 ## 概述
 
   - 收錄自出道以來起用於Kanebo化妝品廣告歌的企劃精選，只生產5萬張。
   - 新曲《GAME》初音源化，DVD同時收錄本作[音樂錄像帶](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")。
-  - 以CD+DVD形式發售。CD為以[藍光光碟技術製作的](../Page/藍光光碟.md "wikilink")「Blu-spec
-    CD」，比普通CD的音質非常高。DVD則收錄各歌曲的[音樂錄像帶及自今的電視廣告](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")。
+  - 以CD+DVD形式發售。CD為以[藍光光碟](../Page/藍光光碟.md "wikilink")技術製作的「Blu-spec CD」，比普通CD的音質非常高。DVD則收錄各歌曲的[音樂錄像帶及自今的電視廣告](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")。
   - 發售當天限定的5萬張CD便完全售罄。
 
 ## 收錄曲目
@@ -53,5 +51,4 @@
 9.  **I DON'T KNOW**
 10. **GAME**
 
-[Category:中島美嘉音樂專輯](https://zh.wikipedia.org/wiki/Category:中島美嘉音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
+[Category:中島美嘉音樂專輯](https://zh.wikipedia.org/wiki/Category:中島美嘉音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")

@@ -1,25 +1,15 @@
-**Housepets\!**
-是所創作[擬人化主題的](https://zh.wikipedia.org/wiki/擬人化 "wikilink")[網路漫畫](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")。這部作品大致建立在作者兒時所繪、名為Bino的狗兒的一系列插圖上，而
-Bino
-現今亦在此部漫畫中擔任配角。格里芬於2006年將漫畫構想統整之後開始創作，2007年完成部分\[1\]，2008年6月2日公開。這部作品於2009及2010年，皆榮獲[大熊星座獎的](https://zh.wikipedia.org/wiki/大熊星座獎 "wikilink")**最佳擬人連載漫畫**殊榮。\[2\]\[3\]2008年聖誕節過後自黑白變為彩色版，並於2009年三月改變畫風，作者亦表示這更貼近他平時的畫法。
+**Housepets\!** 是所創作[擬人化主題的](https://zh.wikipedia.org/wiki/擬人化 "wikilink")[網路漫畫](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")。這部作品大致建立在作者兒時所繪、名為Bino的狗兒的一系列插圖上，而 Bino 現今亦在此部漫畫中擔任配角。格里芬於2006年將漫畫構想統整之後開始創作，2007年完成部分\[1\]，2008年6月2日公開。這部作品於2009及2010年，皆榮獲[大熊星座獎的](https://zh.wikipedia.org/wiki/大熊星座獎 "wikilink")**最佳擬人連載漫畫**殊榮。\[2\]\[3\]2008年聖誕節過後自黑白變為彩色版，並於2009年三月改變畫風，作者亦表示這更貼近他平時的畫法。
 
 ## 故事簡介
 
-Housepets\!
-主要背景設定在美國境內某郊區，名為[巴比倫花園](https://zh.wikipedia.org/wiki/巴比倫花園 "wikilink")（Babylon
-Gardens）的地方（故事沒有明確指出位置，但作者表示主角家的設定是建立在他過去[北卡羅來納州的居所](https://zh.wikipedia.org/wiki/北卡羅來納州 "wikilink")）。這部作品的時空當中，大部分動物都具有理智情感，且大多高度[擬人化](https://zh.wikipedia.org/wiki/擬人化 "wikilink")，能夠行走、談話、與現實動物相比來得長壽。動物也享有部分的人類權利（例如警犬有資格逮捕人類），不過[野生动物若沒有被收養為寵物則不具法定地位](../Page/野生动物.md "wikilink")（有個特例，收養人允許是寵物本身）。寵物相當於孩童，稱其收養者為「爸爸」或「媽媽」，而且會冠上收養者姓氏，因此有些選擇不生育的人們會領養寵物當小孩照顧。
+Housepets\! 主要背景設定在美國境內某郊區，名為[巴比倫花園](https://zh.wikipedia.org/wiki/巴比倫花園 "wikilink")（Babylon Gardens）的地方（故事沒有明確指出位置，但作者表示主角家的設定是建立在他過去[北卡羅來納州的居所](https://zh.wikipedia.org/wiki/北卡羅來納州 "wikilink")）。這部作品的時空當中，大部分動物都具有理智情感，且大多高度[擬人化](https://zh.wikipedia.org/wiki/擬人化 "wikilink")，能夠行走、談話、與現實動物相比來得長壽。動物也享有部分的人類權利（例如警犬有資格逮捕人類），不過[野生动物](../Page/野生动物.md "wikilink")若沒有被收養為寵物則不具法定地位（有個特例，收養人允許是寵物本身）。寵物相當於孩童，稱其收養者為「爸爸」或「媽媽」，而且會冠上收養者姓氏，因此有些選擇不生育的人們會領養寵物當小孩照顧。
 
-漫畫主焦點放在兩個角色身上：Sandwich（三明治）家族的 Peanut Butter（花生奶油）與 Grape
-Jelly（葡萄果醬）。主題大多為日常生活瑣事，像是打發時間、與鄰居寵物互動、被帶去獸醫檢查等；也有部分創作是作者向其他知名作品，例如Bill
-Watterson的*Calvin and
-Hobbes*致敬。漫畫中幾乎所有成年人的表情都沒有畫出來，此特殊風格如同查爾斯·舒茲的*花生漫畫*。作品中的幽默包括使用英文音近字開玩笑、套用某些[網路迷因](https://zh.wikipedia.org/wiki/網路爆紅 "wikilink")。
+漫畫主焦點放在兩個角色身上：Sandwich（三明治）家族的 Peanut Butter（花生奶油）與 Grape Jelly（葡萄果醬）。主題大多為日常生活瑣事，像是打發時間、與鄰居寵物互動、被帶去獸醫檢查等；也有部分創作是作者向其他知名作品，例如Bill Watterson的*Calvin and Hobbes*致敬。漫畫中幾乎所有成年人的表情都沒有畫出來，此特殊風格如同查爾斯·舒茲的*花生漫畫*。作品中的幽默包括使用英文音近字開玩笑、套用某些[網路迷因](https://zh.wikipedia.org/wiki/網路爆紅 "wikilink")。
 
 ## 角色介紹
 
   - Peanut Butter Sandwich
-    犬，掛牌為一根骨頭。年輕、愛玩，對各種遊戲都有無比的熱情。個性溫和，忠誠，但他那用不完的精力使他在作品中顯得不成熟。不擅社交。有藝術天分，甚至自創漫畫，名為「Adventures
-    of Spot
-    （superdog）」。其中，主角是個如超人般具有異能的狗。故事劇情往往不固定，有時候Peanut日常遭逢的事情也會成為漫畫題材，Grape也偶而會對他的作品提出修改建議。此外，Peanut熱愛閱讀，亦有超群的閱讀速度。
+    犬，掛牌為一根骨頭。年輕、愛玩，對各種遊戲都有無比的熱情。個性溫和，忠誠，但他那用不完的精力使他在作品中顯得不成熟。不擅社交。有藝術天分，甚至自創漫畫，名為「Adventures of Spot （superdog）」。其中，主角是個如超人般具有異能的狗。故事劇情往往不固定，有時候Peanut日常遭逢的事情也會成為漫畫題材，Grape也偶而會對他的作品提出修改建議。此外，Peanut熱愛閱讀，亦有超群的閱讀速度。
     與Grape同居，也對她有份超越朋友的情感，即便她是貓。跨種族感情在漫畫中是一種忌諱，也因此Peanut偶而遭逢社交上的麻煩。已對Grape坦白（雖然Grape早已猜到），即便兩者間在互動上不似情侶般浪漫，但仍表現比一般朋友更親密的牽絆。不過在一個奇怪的情節中，Peanut認識了Tarot，並與她成為正式情侶。
 
 <!-- end list -->
@@ -32,8 +22,7 @@ Hobbes*致敬。漫畫中幾乎所有成年人的表情都沒有畫出來，此�
 <!-- end list -->
 
   - Bino
-    犬，刻有「B」字樣的菱形掛牌。俱樂部「Good Ol'
-    Dogs'」的領導者──只有在他哥哥Fido不在的時候。善妒、貪心、小氣、討人厭、鬼主意多，作者甚至以「從頭到尾無不刻薄」來形容他。因為各方面都不如Fido傑出及受歡迎，Bino時常將他的不滿施加在其他狗身上，好讓自己從中獲得優越感。不過通常在他耍完小聰明後都沒什麼好下場。
+    犬，刻有「B」字樣的菱形掛牌。俱樂部「Good Ol' Dogs'」的領導者──只有在他哥哥Fido不在的時候。善妒、貪心、小氣、討人厭、鬼主意多，作者甚至以「從頭到尾無不刻薄」來形容他。因為各方面都不如Fido傑出及受歡迎，Bino時常將他的不滿施加在其他狗身上，好讓自己從中獲得優越感。不過通常在他耍完小聰明後都沒什麼好下場。
 
 <!-- end list -->
 
@@ -68,8 +57,7 @@ Hobbes*致敬。漫畫中幾乎所有成年人的表情都沒有畫出來，此�
 <!-- end list -->
 
   - Fido Byron
-    犬，刻有「F」字樣的菱形掛牌。Bino的哥哥，警方K-9小隊成員，負責協助警方追補嫌犯。俱樂部「Good Ol'
-    Dogs'」的正式領導者，也是社區中所有犬隻崇拜及心儀的偶像。謙虛、健談、穩重、有責任心，閒暇時候還會教導幼犬閱讀。一言以蔽之──完美到極點。也許不是那麼完美。Fido有個女朋友叫Sabrina，卻是一隻貓，而為了不要讓他長久以來的優良名聲受損，這件事也只有他們兩人──還有偷窺獲曉的Peanut及Grape──知道。拜不好殺生的Sabrina之託，Fido在無可奈何的情形下負起照顧一隻名叫Spo的老鼠的責任，平時讓Spo在他頭頂上活動。
+    犬，刻有「F」字樣的菱形掛牌。Bino的哥哥，警方K-9小隊成員，負責協助警方追補嫌犯。俱樂部「Good Ol' Dogs'」的正式領導者，也是社區中所有犬隻崇拜及心儀的偶像。謙虛、健談、穩重、有責任心，閒暇時候還會教導幼犬閱讀。一言以蔽之──完美到極點。也許不是那麼完美。Fido有個女朋友叫Sabrina，卻是一隻貓，而為了不要讓他長久以來的優良名聲受損，這件事也只有他們兩人──還有偷窺獲曉的Peanut及Grape──知道。拜不好殺生的Sabrina之託，Fido在無可奈何的情形下負起照顧一隻名叫Spo的老鼠的責任，平時讓Spo在他頭頂上活動。
 
 <!-- end list -->
 
@@ -109,14 +97,9 @@ Hobbes*致敬。漫畫中幾乎所有成年人的表情都沒有畫出來，此�
   - [瑞克·格里芬的deviantART](http://rickgriffin.deviantart.com/)
   - [瑞克·格里芬的FurAffinity](http://www.furaffinity.net/user/rickgriffin/)
 
-*As of 1 June 2010, this article is derived in whole or in part from
-WikiFur. The copyright holder has licensed the content utilized under
-CC-By-SA and GFDL. All relevant terms must be followed. The original
-text was at "Housepets\!".*
+*As of 1 June 2010, this article is derived in whole or in part from WikiFur. The copyright holder has licensed the content utilized under CC-By-SA and GFDL. All relevant terms must be followed. The original text was at "Housepets\!".*
 
-[Category:美國網絡漫畫](https://zh.wikipedia.org/wiki/Category:美國網絡漫畫 "wikilink")
-[Category:美國漫畫作品](https://zh.wikipedia.org/wiki/Category:美國漫畫作品 "wikilink")
-[Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
+[Category:美國網絡漫畫](https://zh.wikipedia.org/wiki/Category:美國網絡漫畫 "wikilink") [Category:美國漫畫作品](https://zh.wikipedia.org/wiki/Category:美國漫畫作品 "wikilink") [Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
 
 1.
 2.

@@ -7,8 +7,7 @@ HMPP用于异构多核并行编程。
 ## 简介
 
 OpenHMPP基于指令的编程模型提供了一种语法，有效地减轻硬件加速器上的计算，优化数据向/从硬件存储器移动。
-模型基于 [CAPS (编译器和超标量体系结构以及嵌入式处理器)](http://www.irisa.fr/caps/) 的初始化工作,
-以及来自INRIA, CNRS, 雷恩第一大学和雷恩INSA的共同项目。
+模型基于 [CAPS (编译器和超标量体系结构以及嵌入式处理器)](http://www.irisa.fr/caps/) 的初始化工作, 以及来自INRIA, CNRS, 雷恩第一大学和雷恩INSA的共同项目。
 
 ## OpenHMPP标准概念
 
@@ -32,18 +31,15 @@ codelet具有以下属性:
 
 ### Codelet RPCs
 
-HMPP提供同步和异步的RPC。异步操作的执行依赖于硬件。
-[HMPP_RPC.png](https://zh.wikipedia.org/wiki/File:HMPP_RPC.png "fig:HMPP_RPC.png")
+HMPP提供同步和异步的RPC。异步操作的执行依赖于硬件。 [HMPP_RPC.png](https://zh.wikipedia.org/wiki/File:HMPP_RPC.png "fig:HMPP_RPC.png")
 
 ### HMPP 存储器模型
 
-HMPP考虑到两个地址空间: 一个主机处理器和硬件存储器。
-[HMPP_Memory_Model.png](https://zh.wikipedia.org/wiki/File:HMPP_Memory_Model.png "fig:HMPP_Memory_Model.png")
+HMPP考虑到两个地址空间: 一个主机处理器和硬件存储器。 [HMPP_Memory_Model.png](https://zh.wikipedia.org/wiki/File:HMPP_Memory_Model.png "fig:HMPP_Memory_Model.png")
 
 ### 指令概念
 
-OpenHMPP指令可能被视为“元信息”
-添加到应用程序源代码。它们是安全的元信息，即不会改变原始代码的行为。它们处理函数的远程执行(RPC)，以及数据向/从硬件存储器传输。
+OpenHMPP指令可能被视为“元信息” 添加到应用程序源代码。它们是安全的元信息，即不会改变原始代码的行为。它们处理函数的远程执行(RPC)，以及数据向/从硬件存储器传输。
 下表介绍了OpenHMPP指令。OpenHMPP指令满足不同需求: 其中一些专门用于声明，其他用于执行的管理。
 
 <table>
@@ -80,11 +76,8 @@ HMPP方法的基本点之一是指令的概念及其关联的标签，使它能�
 
 有两种类型的标签:
 
-  - 一类关联到codelet。携带这种标签的指令一般仅限于管理一个(在文档
-    的其余部分称为stand-alone，以便从一组codelet中区分开)。
-  - 一类关联到一组codelets。这些标签说明如下: “<LabelOfGroup>“, 其中“LabelOfGroup”
-    是由用户指定一个名称。
-    具有这种标签的指令一般涉及到整个组。组的概念是保留给这样一类问题，即要求对整个应用程序的数据做具体管理以获取性能。
+  - 一类关联到codelet。携带这种标签的指令一般仅限于管理一个(在文档 的其余部分称为stand-alone，以便从一组codelet中区分开)。
+  - 一类关联到一组codelets。这些标签说明如下: “<LabelOfGroup>“, 其中“LabelOfGroup” 是由用户指定一个名称。 具有这种标签的指令一般涉及到整个组。组的概念是保留给这样一类问题，即要求对整个应用程序的数据做具体管理以获取性能。
 
 ### OpenHMPP指令语法
 
@@ -108,14 +101,10 @@ OpenHMPP指令的一般语法如下:
 
 其中:
 
-  - <grp_label>: 是命名一组 codelets 的唯一标识符。在应用程序中没有组被定义的情况下,
-    这个标签可以简单地略过。Legal标签必须遵循此语法:
-    \[a-z,A-Z,_\]\[a-z,A-Z,0-9,_\]\*。请注意 “\< \>” 字符属于语法，且对这类标签是强制性的。
-  - `codelet_label`: 是命名一个codelet的唯一标识符。Legal 标签必须遵循此语法:
-    \[a-z,A-Z,_\]\[a-z,A-Z,0-9,_\]\*
+  - <grp_label>: 是命名一组 codelets 的唯一标识符。在应用程序中没有组被定义的情况下, 这个标签可以简单地略过。Legal标签必须遵循此语法: \[a-z,A-Z,_\]\[a-z,A-Z,0-9,_\]\*。请注意 “\< \>” 字符属于语法，且对这类标签是强制性的。
+  - `codelet_label`: 是命名一个codelet的唯一标识符。Legal 标签必须遵循此语法: \[a-z,A-Z,_\]\[a-z,A-Z,0-9,_\]\*
   - `directive`: 是指令的名称;
-  - `directive_parameters`: 指定一些指令相关联的参数。这些参数可能是不同类型并指定
-    给指令的某些参数或执行的一种模式(例如同步与异步);
+  - `directive_parameters`: 指定一些指令相关联的参数。这些参数可能是不同类型并指定 给指令的某些参数或执行的一种模式(例如同步与异步);
   - `[&]`: 是用于在下一行继续该指令的字符 (C和FORTRAN都是相同的)。
 
 #### 指令参数
@@ -124,16 +113,12 @@ OpenHMPP指令的一般语法如下:
 
   - `version = major.minor[.micro]`: 由预处理器指定HMPP指令的版本。
   - `args[arg_items].size={dimsize[,dimsize]*}`: 指定一个非标量参数 (数组)的大小。
-  - `args[arg_items].io=[in|out|inout]`: 表示指定函数参数是输入, 输出或两者兼而有之。默认情况下,
-    非限定参数为输入。
-  - `cond = "expr"`: 指定组或codelets开始执行的一个条件C或Fortran布尔表达式的值为是
-    C或Fortran布尔表达式的值为true。
+  - `args[arg_items].io=[in|out|inout]`: 表示指定函数参数是输入, 输出或两者兼而有之。默认情况下, 非限定参数为输入。
+  - `cond = "expr"`: 指定组或codelets开始执行的一个条件C或Fortran布尔表达式的值为是 C或Fortran布尔表达式的值为true。
   - `target=target_name[:target_name]*`: 指定是哪个target以尝试使用给定的顺序。
   - `asynchronous`: 指定不阻止codelet的 执行 (默认是同步的)。
-  - `args[`<arg_items>`].advancedload=true`:
-    表明指定的参数是预加载的。只有in或inout参数可以被预加载。
-  - `args[arg_items].noupdate=true`: 此属性指定 硬件上的数据已经可用，因此不需要转换。 当设置了此属性时,
-    所考虑的参数没有任何传递。
+  - `args[`<arg_items>`].advancedload=true`: 表明指定的参数是预加载的。只有in或inout参数可以被预加载。
+  - `args[arg_items].noupdate=true`: 此属性指定 硬件上的数据已经可用，因此不需要转换。 当设置了此属性时, 所考虑的参数没有任何传递。
   - `args[`<arg_items>`].addr="`<expr>`"`: <expr>是一个表达式，给出了数据上载的地址。
   - `args[`<arg_items>`].const=true`: 表示参数只要上载一次。
 
@@ -158,8 +143,7 @@ codelet 指令:
 `                            [`<font color="#0070C0">`, cond =`</font>` "expr"]`
 `                            [`<font color="#0070C0">`, target=`</font><font color="#990000">`target_name`</font>`[:`<font color="#990000">`target_name`</font>`]*]`
 
-可以在一个函数中加入多个codelet指令，以便指定不同用途或不同执行文本。但是, 一个给定调用站点标签只能有一个codelet指令。
-Callsite指令指定程序内的给定点如何使用一个codelet。
+可以在一个函数中加入多个codelet指令，以便指定不同用途或不同执行文本。但是, 一个给定调用站点标签只能有一个codelet指令。 Callsite指令指定程序内的给定点如何使用一个codelet。
 该指令的语法是:
 
 <font color="#0070C0">`#pragma hmpp <`</font>`grp_label`<font color="#0070C0">`>`</font>` codelet_label `<font color="#0070C0">`callsite`</font>
@@ -211,9 +195,7 @@ group指令允许声明一组codelets。 指令中定义的参数应用于所有
 
   - allocate指令
 
-allocate指令锁定硬件，并分配所需的内存量。 <font color="#0070C0">\#pragma hmpp
-\<</font>grp_label<font color="#0070C0">\> allocate</font>
-\[<font color="#0070C0">,args\[</font>arg_items<font color="#0070C0">\].size={</font>dimsize\[,dimsize\]\*<font color="#0070C0">}</font>\]\*
+allocate指令锁定硬件，并分配所需的内存量。 <font color="#0070C0">\#pragma hmpp \<</font>grp_label<font color="#0070C0">\> allocate</font> \[<font color="#0070C0">,args\[</font>arg_items<font color="#0070C0">\].size={</font>dimsize\[,dimsize\]\*<font color="#0070C0">}</font>\]\*
 
   - release指令
 
@@ -223,9 +205,7 @@ release指令指定何时为一组或一个独立codelet释放硬件。
 
   - advancedload 指令
 
-advancedload指令在codelet远程执行之前预取数据。 <font color="#0070C0">\#pragma hmpp
-\<</font>grp_label<font color="#0070C0">\></font> \[codelet_label\]?
-<font color="#0070C0">advancedload</font>
+advancedload指令在codelet远程执行之前预取数据。 <font color="#0070C0">\#pragma hmpp \<</font>grp_label<font color="#0070C0">\></font> \[codelet_label\]? <font color="#0070C0">advancedload</font>
 
 `                  `<font color="#0070C0">`,args[`</font>`arg_items`<font color="#0070C0">`]`</font>
 `                  [`<font color="#0070C0">`,args[`</font>`arg_items`<font color="#0070C0">`].size={`</font>`dimsize[,dimsize]*`<font color="#0070C0">`}`</font>`]*`
@@ -235,10 +215,7 @@ advancedload指令在codelet远程执行之前预取数据。 <font color="#0070
 
   - delegatedstore 指令
 
-delegatedstore指令是一个同步障，以等待一个异步codelet执行完成，然后下载结果。
-<font color="#0070C0">\#pragma hmpp
-\<</font>grp_label<font color="#0070C0">\></font> \[codelet_label\]?
-<font color="#0070C0">delegatedstore</font>
+delegatedstore指令是一个同步障，以等待一个异步codelet执行完成，然后下载结果。 <font color="#0070C0">\#pragma hmpp \<</font>grp_label<font color="#0070C0">\></font> \[codelet_label\]? <font color="#0070C0">delegatedstore</font>
 
 `                `<font color="#0070C0">`,args[`</font>`arg_items`<font color="#0070C0">`]`</font>
 `                [`<font color="#0070C0">`,args[`</font>`arg_items`<font color="#0070C0">`].addr="`</font>`expr`<font color="#0070C0">`"`</font>`]*`
@@ -246,11 +223,7 @@ delegatedstore指令是一个同步障，以等待一个异步codelet执行完�
 
   - 异步计算
 
-同步指令指定等待，直到一个异步callsite执行完成。对于同步指令, codelet
-标签始终是强制性的，并且若是codelet属于一个组，需要有组标签。
-<font color="#0070C0">\#pragma hmpp
-\<</font>grp_label<font color="#0070C0">\></font> codelet_label
-<font color="#0070C0">synchronize</font>
+同步指令指定等待，直到一个异步callsite执行完成。对于同步指令, codelet 标签始终是强制性的，并且若是codelet属于一个组，需要有组标签。 <font color="#0070C0">\#pragma hmpp \<</font>grp_label<font color="#0070C0">\></font> codelet_label <font color="#0070C0">synchronize</font>
 
   - 示例
 
@@ -274,9 +247,7 @@ int main(int argc, char \*\*argv) {
 ### Codelets之间共享数据
 
 这些指令共同映射所有参数共享所有组的给定名称。
-所有映射参数的类型和尺寸必须是相同的。 map指令映射设备上的几个参数。 <font color="#0070C0">\#pragma hmpp
-\<</font>grp_label<font color="#0070C0">\> map,
-args\[</font>arg_items<font color="#0070C0">\]</font>
+所有映射参数的类型和尺寸必须是相同的。 map指令映射设备上的几个参数。 <font color="#0070C0">\#pragma hmpp \<</font>grp_label<font color="#0070C0">\> map, args\[</font>arg_items<font color="#0070C0">\]</font>
 
 此指令除了参数按其名称直接指定映射之外，与map指令很类似。 mapbyname 指令相当于多映射指令。
 
@@ -284,8 +255,7 @@ args\[</font>arg_items<font color="#0070C0">\]</font>
 
 ### 全局变量
 
-Resident指令声明某些变量在一个组内为全局变量。
-然后可以从任何属于组的codelet中直接访问这些变量。此指令应用于源代码中在其之后的声明语句。
+Resident指令声明某些变量在一个组内为全局变量。 然后可以从任何属于组的codelet中直接访问这些变量。此指令应用于源代码中在其之后的声明语句。
 
 此指令的语法是:
 
@@ -299,8 +269,7 @@ Resident指令声明某些变量在一个组内为全局变量。
 
 ### 加速区
 
-codelet/callsite指令合并为一个区域。目的是避免代码重构中构建codelet。
-因此，所有codelet或callsite指令可用属性都可以用于regions指令。 在C语言中:
+codelet/callsite指令合并为一个区域。目的是避免代码重构中构建codelet。 因此，所有codelet或callsite指令可用属性都可以用于regions指令。 在C语言中:
 
 <font color="#0070C0">`#pragma hmpp [<`</font>`MyGroup`<font color="#0070C0">`>] [`</font>`label`<font color="#0070C0">`] region`</font>`         `
 `                           [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].io=`</font>[<font color="#0070C0">`out`</font>](https://zh.wikipedia.org/wiki/\<font_color="#0070C0"\>in\</font\> "wikilink")`*`
@@ -336,34 +305,13 @@ HMPP基于指令的编程模型已经实现如下:
 
 ## 参考
 
-  - [OpenHMPP
-    Website](https://web.archive.org/web/20130616205308/http://openhmpp.org/)
-  - [HMPP: A Hybrid Multi-core Parallel Programming
-    Environment](https://web.archive.org/web/20110708115212/http://www.caps-entreprise.com/upload/ckfinder/userfiles/files/caps-hmpp-gpgpu-Boston-Workshop-Oct-2007.pdf)
-  - [CAPS Entreprise SAS and PathScale, LLC to Jointly Collaborate on
-    Making HMPP a New Open
-    Standard](http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=2839086)
-  - [How Hardware Will Shape
-    Languages](http://www.informit.com/articles/article.aspx?p=1638075)
-    By David Chisnall
-  - [Code acceleration with
-    HMPP](https://web.archive.org/web/20110721124847/http://www.ichec.ie/research/hmpp_intro.pdf)
-    By ICHEC (Irish Center for High-End Computing)
-  - [Expérience de programmation avec
-    HMPP](https://archive.is/20130107142446/http://www-irma.u-strasbg.fr/irmawiki/index.php?title=Expérience_de_programmation_avec_HMPP&redirect=no)
-    By IRMA (Institut de Recherche Mathématique Avancée) - FORTRAN
-    examples
-  - [Directive-based Heterogeneous Programming - A GPU-Accelerated RTM
-    Use
-    Case](https://web.archive.org/web/20110717134426/http://www.iiis.org/CDs2008/CD2009SCI/CCCT2009/PapersPdf/T030UF.pdf)
-    By TOTAL Technical and Scientific Center and CAPS Entreprise
-  - [HMPP
-    Port](http://www.prace-project.eu/documents/04_teslahmpp_gcdv.pdf)
-    By CEA (Commissariat à l'Energie Atomique et aux Energies
-    Alternatives) for PRACE (Partnership for Advanced Computing in
-    Europe)
+  - [OpenHMPP Website](https://web.archive.org/web/20130616205308/http://openhmpp.org/)
+  - [HMPP: A Hybrid Multi-core Parallel Programming Environment](https://web.archive.org/web/20110708115212/http://www.caps-entreprise.com/upload/ckfinder/userfiles/files/caps-hmpp-gpgpu-Boston-Workshop-Oct-2007.pdf)
+  - [CAPS Entreprise SAS and PathScale, LLC to Jointly Collaborate on Making HMPP a New Open Standard](http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=2839086)
+  - [How Hardware Will Shape Languages](http://www.informit.com/articles/article.aspx?p=1638075) By David Chisnall
+  - [Code acceleration with HMPP](https://web.archive.org/web/20110721124847/http://www.ichec.ie/research/hmpp_intro.pdf) By ICHEC (Irish Center for High-End Computing)
+  - [Expérience de programmation avec HMPP](https://archive.is/20130107142446/http://www-irma.u-strasbg.fr/irmawiki/index.php?title=Expérience_de_programmation_avec_HMPP&redirect=no) By IRMA (Institut de Recherche Mathématique Avancée) - FORTRAN examples
+  - [Directive-based Heterogeneous Programming - A GPU-Accelerated RTM Use Case](https://web.archive.org/web/20110717134426/http://www.iiis.org/CDs2008/CD2009SCI/CCCT2009/PapersPdf/T030UF.pdf) By TOTAL Technical and Scientific Center and CAPS Entreprise
+  - [HMPP Port](http://www.prace-project.eu/documents/04_teslahmpp_gcdv.pdf) By CEA (Commissariat à l'Energie Atomique et aux Energies Alternatives) for PRACE (Partnership for Advanced Computing in Europe)
 
-[Category:C語言家族](https://zh.wikipedia.org/wiki/Category:C語言家族 "wikilink")
-[Category:并发计算](https://zh.wikipedia.org/wiki/Category:并发计算 "wikilink")
-[Category:并行计算](https://zh.wikipedia.org/wiki/Category:并行计算 "wikilink")
-[Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")
+[Category:C語言家族](https://zh.wikipedia.org/wiki/Category:C語言家族 "wikilink") [Category:并发计算](https://zh.wikipedia.org/wiki/Category:并发计算 "wikilink") [Category:并行计算](https://zh.wikipedia.org/wiki/Category:并行计算 "wikilink") [Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")

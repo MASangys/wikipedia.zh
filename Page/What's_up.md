@@ -1,28 +1,14 @@
-[姜大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink"){{、w}}[林珠銀](../Page/林珠銀.md "wikilink"){{、w}}[金智媛](../Page/金智媛.md "wikilink")
-| slogan = | judges = | voices = | narrated = | theme_music_composer =
-| opentheme = | endtheme = | composer = | country =  | language =
-[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = |
-num_episodes = 20 | list_episodes = | executive_producer = | producer
-= | supervising_producer = | editor = | location = | cinematography = |
-camera = | runtime = 約60分 | company = | distributor = | channel =
-[MBN](https://zh.wikipedia.org/wiki/MBN "wikilink") | picture_format =
-| audio_format = | first_run =  | first_aired =  | last_aired =  |
-status = | preceded_by = | followed_by = | related = | website =
-<http://mbn.mk.co.kr/pages/vod/programMain.php?progCode=520> |
-production_website = }}
+[姜大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink"){{、w}}[林珠銀](../Page/林珠銀.md "wikilink"){{、w}}[金智媛](../Page/金智媛.md "wikilink") | slogan = | judges = | voices = | narrated = | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 20 | list_episodes = | executive_producer = | producer = | supervising_producer = | editor = | location = | cinematography = | camera = | runtime = 約60分 | company = | distributor = | channel = [MBN](https://zh.wikipedia.org/wiki/MBN "wikilink") | picture_format = | audio_format = | first_run =  | first_aired =  | last_aired =  | status = | preceded_by = | followed_by = | related = | website = <http://mbn.mk.co.kr/pages/vod/programMain.php?progCode=520> | production_website = }}
 
-《**What's
-up**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBN自](https://zh.wikipedia.org/wiki/MBN "wikilink")2011年12月3日起播出的[周末特別企劃劇](../Page/MBN周末特別企劃劇.md "wikilink")，根據韓國暢銷小說改編，描寫就學音樂劇學科的學生們的夢想和愛情的校園故事。
+《**What's up**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBN自](https://zh.wikipedia.org/wiki/MBN "wikilink")2011年12月3日起播出的[周末特別企劃劇](../Page/MBN周末特別企劃劇.md "wikilink")，根據韓國暢銷小說改編，描寫就學音樂劇學科的學生們的夢想和愛情的校園故事。
 
 ## 演員陣容
 
 ### 主要人物
 
   - [林周煥](../Page/林周煥.md "wikilink") 飾演 **張在憲**
-  - [姜大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink") 飾演
-    **河道成／HADES**（兒時：[盧俊赫](https://zh.wikipedia.org/wiki/盧俊赫 "wikilink")）
-  - [林珠銀](../Page/林珠銀.md "wikilink") 飾演
-    **吳杜莉**（兒時：[安瑞賢](../Page/安瑞賢.md "wikilink")）
+  - [姜大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink") 飾演 **河道成／HADES**（兒時：[盧俊赫](https://zh.wikipedia.org/wiki/盧俊赫 "wikilink")）
+  - [林珠銀](../Page/林珠銀.md "wikilink") 飾演 **吳杜莉**（兒時：[安瑞賢](../Page/安瑞賢.md "wikilink")）
   - [金智媛](../Page/金智媛.md "wikilink") 飾演 **朴泰熙**
   - [吳萬石](../Page/吳萬石.md "wikilink") 飾演 **鮮-{于}-榮**
   - [張熙軫](../Page/張熙軫.md "wikilink") 飾演 **殷彩英**
@@ -83,13 +69,7 @@ up**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBN自
 
   - [韓國MBN官方網站](http://mbn.mk.co.kr/pages/vod/programMain.php?progCode=520)
 
-[Category:MBN周末特別企劃劇](https://zh.wikipedia.org/wiki/Category:MBN周末特別企劃劇 "wikilink")
-[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink")
-[Category:歌舞電視劇](https://zh.wikipedia.org/wiki/Category:歌舞電視劇 "wikilink")
-[Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink")
-[Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink")
-[Category:韓國小說改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國小說改編韓國電視劇 "wikilink")
+[Category:MBN周末特別企劃劇](https://zh.wikipedia.org/wiki/Category:MBN周末特別企劃劇 "wikilink") [Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink") [Category:歌舞電視劇](https://zh.wikipedia.org/wiki/Category:歌舞電視劇 "wikilink") [Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink") [Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink") [Category:韓國小說改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國小說改編韓國電視劇 "wikilink")
 
-1.  [케이블
-    일일시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+1.  [케이블 일일시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
 2.  [林周煥專訪](http://metroseoul.co.kr/news/newsview?newscd=2015010600113)

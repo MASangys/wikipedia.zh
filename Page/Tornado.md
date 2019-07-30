@@ -1,11 +1,9 @@
-**Tornado**全称**Tornado Web
-Server**，是一个用[Python语言写成的](../Page/Python.md "wikilink")[Web服务器兼](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")[Web应用框架](../Page/Web应用框架.md "wikilink")，由FriendFeed公司在自己的网站[FriendFeed中使用](../Page/FriendFeed.md "wikilink")，被[Facebook收购以后框架以](../Page/Facebook.md "wikilink")[开源软件形式开放给大众](../Page/开源软件.md "wikilink")。
+**Tornado**全称**Tornado Web Server**，是一个用[Python](../Page/Python.md "wikilink")语言写成的[Web服务器兼](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")[Web应用框架](../Page/Web应用框架.md "wikilink")，由FriendFeed公司在自己的网站[FriendFeed](../Page/FriendFeed.md "wikilink")中使用，被[Facebook](../Page/Facebook.md "wikilink")收购以后框架以[开源软件](../Page/开源软件.md "wikilink")形式开放给大众。
 
 ## 特点
 
   - 作为Web框架，是一个轻量级的Web框架，类似于另一个Python web 框架Web.py，其拥有异步非阻塞IO的处理方式。
-  - 作为Web服务器，Tornado有较为出色的抗负载能力，官方用[nginx反向代理的方式部署Tornado和其它Python](https://zh.wikipedia.org/wiki/nginx "wikilink")
-    web应用框架进行对比，结果最大浏览量超过第二名近40%。\[1\]
+  - 作为Web服务器，Tornado有较为出色的抗负载能力，官方用[nginx反向代理的方式部署Tornado和其它Python](https://zh.wikipedia.org/wiki/nginx "wikilink") web应用框架进行对比，结果最大浏览量超过第二名近40%。\[1\]
 
 ## 性能
 
@@ -31,18 +29,12 @@ Tornado有着优异的性能。它试图解决[C10k问题](https://zh.wikipedia.
 
   - [Tornado 主页](http://www.tornadoweb.org/)
   - [Tornado 中国镜像站点](http://www.tornadoweb.cn/)
-  - [GitHub Project
-    Page](https://www.webcitation.org/66mePajXS?url=https://github.com/facebook/tornado/wiki)
-  - [Tornado Google
-    Group](http://groups.google.com/group/python-tornado)
+  - [GitHub Project Page](https://www.webcitation.org/66mePajXS?url=https://github.com/facebook/tornado/wiki)
+  - [Tornado Google Group](http://groups.google.com/group/python-tornado)
 
 ## 参考资料
 
-[Category:Web应用框架](https://zh.wikipedia.org/wiki/Category:Web应用框架 "wikilink")
-[Category:網頁伺服器](https://zh.wikipedia.org/wiki/Category:網頁伺服器 "wikilink")
-[Category:网站开发](https://zh.wikipedia.org/wiki/Category:网站开发 "wikilink")
-[Category:Python](https://zh.wikipedia.org/wiki/Category:Python "wikilink")
-[Category:Python库](https://zh.wikipedia.org/wiki/Category:Python库 "wikilink")
+[Category:Web应用框架](https://zh.wikipedia.org/wiki/Category:Web应用框架 "wikilink") [Category:網頁伺服器](https://zh.wikipedia.org/wiki/Category:網頁伺服器 "wikilink") [Category:网站开发](https://zh.wikipedia.org/wiki/Category:网站开发 "wikilink") [Category:Python](https://zh.wikipedia.org/wiki/Category:Python "wikilink") [Category:Python库](https://zh.wikipedia.org/wiki/Category:Python库 "wikilink")
 
 1.
 2.

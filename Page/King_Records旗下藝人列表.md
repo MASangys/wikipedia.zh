@@ -1,6 +1,4 @@
-**King Records旗下藝人列表**是[King
-Records株式会社](https://zh.wikipedia.org/wiki/King_Records "wikilink")，及同社販售委託旗下King
-Records公司、過去旗下藝人的一覽記錄。
+**King Records旗下藝人列表**是[King Records株式会社](https://zh.wikipedia.org/wiki/King_Records "wikilink")，及同社販售委託旗下King Records公司、過去旗下藝人的一覽記錄。
 
 ## King Records（包括子会社）
 
@@ -19,8 +17,7 @@ Records公司、過去旗下藝人的一覽記錄。
   - [植村花菜](../Page/植村花菜.md "wikilink")
   - [SHY](https://zh.wikipedia.org/wiki/SHY "wikilink")
   - [新興宗教樂團NoGoD](../Page/新興宗教樂團NoGoD.md "wikilink")
-  - [Dezille
-    Brothers](https://zh.wikipedia.org/wiki/Dezille_Brothers "wikilink")
+  - [Dezille Brothers](https://zh.wikipedia.org/wiki/Dezille_Brothers "wikilink")
   - [寺内タケシ](https://zh.wikipedia.org/wiki/寺内タケシ "wikilink")
   - [中山美穗](../Page/中山美穗.md "wikilink")
   - [森口博子](../Page/森口博子.md "wikilink")
@@ -29,23 +26,20 @@ Records公司、過去旗下藝人的一覽記錄。
 
 #### [You, Be Cool\!](../Page/You,_Be_Cool!.md "wikilink")
 
-  - [AKB48](../Page/AKB48.md "wikilink")（2008年10月22日發售的「大聲鑽石」後所屬。自社唱片公司的[AKS所屬](../Page/AKS.md "wikilink")）
+  - [AKB48](../Page/AKB48.md "wikilink")（2008年10月22日發售的「大聲鑽石」後所屬。自社唱片公司的[AKS](../Page/AKS.md "wikilink")所屬）
   - [板野友美](../Page/板野友美.md "wikilink")
   - [前田敦子](../Page/前田敦子.md "wikilink")
 
 #### 演歌･歌謡曲部門
 
-  - [市川由紀乃](../Page/市川由紀乃.md "wikilink")（2000年由[Teichiku
-    Entertainment移籍](https://zh.wikipedia.org/wiki/Teichiku_Entertainment "wikilink")、2002年～2006年一時活動休止）
+  - [市川由紀乃](../Page/市川由紀乃.md "wikilink")（2000年由[Teichiku Entertainment移籍](https://zh.wikipedia.org/wiki/Teichiku_Entertainment "wikilink")、2002年～2006年一時活動休止）
   - [岩本公水](https://zh.wikipedia.org/wiki/岩本公水 "wikilink")（1995年首次登台、2005年～2008年一時活動休止）
   - [大月みやこ](https://zh.wikipedia.org/wiki/大月みやこ "wikilink")
   - [鏡五郎](https://zh.wikipedia.org/wiki/鏡五郎 "wikilink")
-  - [神野美伽](../Page/神野美伽.md "wikilink")（作曲家・[荒木豐久的妻子](https://zh.wikipedia.org/wiki/荒木豐久 "wikilink")、1999年從[BMG
-    JAPAN移籍](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")）
+  - [神野美伽](../Page/神野美伽.md "wikilink")（作曲家・[荒木豐久的妻子](https://zh.wikipedia.org/wiki/荒木豐久 "wikilink")、1999年從[BMG JAPAN移籍](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")）
   - [角川博](../Page/角川博.md "wikilink")（1999年從BMG JAPAN移籍）
   - [香田晋](../Page/香田晋.md "wikilink")（2002年從[東芝EMI移籍](https://zh.wikipedia.org/wiki/EMI_Music_Japan "wikilink")）
-  - [小金澤昇司](https://zh.wikipedia.org/wiki/小金澤昇司 "wikilink")（[演歌歌手](https://zh.wikipedia.org/wiki/演歌歌手 "wikilink")・[北島三郎の門下生](https://zh.wikipedia.org/wiki/北島三郎 "wikilink")、1997年從[Victor
-    Entertainment移籍](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")）
+  - [小金澤昇司](https://zh.wikipedia.org/wiki/小金澤昇司 "wikilink")（[演歌歌手](https://zh.wikipedia.org/wiki/演歌歌手 "wikilink")・[北島三郎の門下生](https://zh.wikipedia.org/wiki/北島三郎 "wikilink")、1997年從[Victor Entertainment移籍](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")）
   - [島津悦子](https://zh.wikipedia.org/wiki/島津悦子 "wikilink")
   - 千葉一夫（前・[日本国有鉄道](https://zh.wikipedia.org/wiki/日本国有鉄道 "wikilink")(国鉄)職員）
   - [西方裕之](https://zh.wikipedia.org/wiki/西方裕之 "wikilink")
@@ -118,8 +112,7 @@ Records公司、過去旗下藝人的一覽記錄。
 
   - [CLIFF EDGE](https://zh.wikipedia.org/wiki/CLIFF_EDGE "wikilink")
   - [クレンチ&ブリスタ](https://zh.wikipedia.org/wiki/クレンチ&ブリスタ "wikilink")
-  - [Sweet
-    Licious](https://zh.wikipedia.org/wiki/Sweet_Licious "wikilink")
+  - [Sweet Licious](https://zh.wikipedia.org/wiki/Sweet_Licious "wikilink")
   - [中村舞子](https://zh.wikipedia.org/wiki/中村舞子 "wikilink")
   - [MAY'S](https://zh.wikipedia.org/wiki/MAY'S "wikilink")
   - [Lily.](https://zh.wikipedia.org/wiki/Lily. "wikilink")
@@ -132,13 +125,10 @@ Records公司、過去旗下藝人的一覽記錄。
 <!-- end list -->
 
   - [angela](https://zh.wikipedia.org/wiki/angela "wikilink")
-  - [喜多村英梨](../Page/喜多村英梨.md "wikilink")（2011年從[Lantis移籍](../Page/Lantis.md "wikilink")）
-  - [榊原由依](../Page/榊原由依.md "wikilink")（[b-fairy
-    records](https://zh.wikipedia.org/wiki/b-fairy_records "wikilink")・[5pb.也發行](../Page/5pb..md "wikilink")）
+  - [喜多村英梨](../Page/喜多村英梨.md "wikilink")（2011年從[Lantis](../Page/Lantis.md "wikilink")移籍）
+  - [榊原由依](../Page/榊原由依.md "wikilink")（[b-fairy records](https://zh.wikipedia.org/wiki/b-fairy_records "wikilink")・[5pb.](../Page/5pb..md "wikilink")也發行）
   - [白石涼子](../Page/白石涼子.md "wikilink")
-  - [スネオヘアー](https://zh.wikipedia.org/wiki/スネオヘアー "wikilink")（2010年從[Epic
-    Records Japan
-    Inc.移籍](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")）
+  - [スネオヘアー](https://zh.wikipedia.org/wiki/スネオヘアー "wikilink")（2010年從[Epic Records Japan Inc.移籍](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")）
   - [Team.ねこかん\[猫](https://zh.wikipedia.org/wiki/Team.ねこかん【猫】 "wikilink")\]
   - [Neko Jump](../Page/Neko_Jump.md "wikilink")
   - [野中藍](../Page/野中藍.md "wikilink")
@@ -181,8 +171,7 @@ Records公司、過去旗下藝人的一覽記錄。
 
 ### EVIL LINE RECORDS
 
-  - [Aice<sup>5</sup>](../Page/Aice5.md "wikilink")（2005年 -
-    2007年於Starchild所屬至第一次解散，2015年復出後移籍至此）
+  - [Aice<sup>5</sup>](../Page/Aice5.md "wikilink")（2005年 - 2007年於Starchild所屬至第一次解散，2015年復出後移籍至此）
 
   - [後藤まりこ](https://zh.wikipedia.org/wiki/後藤まりこ "wikilink")
 
@@ -190,8 +179,7 @@ Records公司、過去旗下藝人的一覽記錄。
 
   - [特攝](https://zh.wikipedia.org/wiki/特攝_\(樂團\) "wikilink")（2014年4月自Starchild移入。）
 
-  - [the
-    dresscodes](https://zh.wikipedia.org/wiki/the_dresscodes "wikilink")
+  - [the dresscodes](https://zh.wikipedia.org/wiki/the_dresscodes "wikilink")
 
   - [MEG](../Page/MEG.md "wikilink")
 
@@ -212,8 +200,7 @@ Records公司、過去旗下藝人的一覽記錄。
   - [新井正人](https://zh.wikipedia.org/wiki/新井正人 "wikilink")
   - [ANTHEM](https://zh.wikipedia.org/wiki/ANTHEM "wikilink")
   - 秋月ひかり（2001年引退）
-  - [eastern
-    youth](https://zh.wikipedia.org/wiki/eastern_youth "wikilink")
+  - [eastern youth](https://zh.wikipedia.org/wiki/eastern_youth "wikilink")
   - [池田貴族](https://zh.wikipedia.org/wiki/池田貴族 "wikilink")
   - [池田鴻](https://zh.wikipedia.org/wiki/池田鴻 "wikilink")
   - [伊勢功一](https://zh.wikipedia.org/wiki/伊勢功一 "wikilink")
@@ -242,8 +229,7 @@ Records公司、過去旗下藝人的一覽記錄。
   - [KIX-S](https://zh.wikipedia.org/wiki/KIX-S "wikilink")
   - [熊木杏里](../Page/熊木杏里.md "wikilink")
   - [クールス](https://zh.wikipedia.org/wiki/クールス "wikilink")
-  - [舘ひろし](https://zh.wikipedia.org/wiki/舘ひろし "wikilink")（→[BMG
-    JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")）
+  - [舘ひろし](https://zh.wikipedia.org/wiki/舘ひろし "wikilink")（→[BMG JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")）
   - [倉田まり子](https://zh.wikipedia.org/wiki/坪田まり子 "wikilink")
   - [黒木真由美](https://zh.wikipedia.org/wiki/黒木真由美 "wikilink")
   - [小出広美](https://zh.wikipedia.org/wiki/小出広美 "wikilink")
@@ -274,8 +260,7 @@ Records公司、過去旗下藝人的一覽記錄。
   - [Dual Dream](https://zh.wikipedia.org/wiki/Dual_Dream "wikilink")
   - [TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")
   - [つボイノリオ](https://zh.wikipedia.org/wiki/つボイノリオ "wikilink")
-  - [寺内タケシとバニーズ](https://zh.wikipedia.org/wiki/寺内タケシとバニーズ "wikilink")（SEVEN
-    SEES唱片公司）
+  - [寺内タケシとバニーズ](https://zh.wikipedia.org/wiki/寺内タケシとバニーズ "wikilink")（SEVEN SEES唱片公司）
   - [テラ・ローザ](https://zh.wikipedia.org/wiki/テラ・ローザ_\(バンド\) "wikilink")（1992年解散）
   - [徳永愛](https://zh.wikipedia.org/wiki/徳永愛 "wikilink")（2007年歌手活動休止）
   - [徳永英明](https://zh.wikipedia.org/wiki/徳永英明 "wikilink")
@@ -299,8 +284,7 @@ Records公司、過去旗下藝人的一覽記錄。
   - [ザ・ピーナッツ](https://zh.wikipedia.org/wiki/ザ・ピーナッツ "wikilink")（引退）
   - [樋浦一帆](https://zh.wikipedia.org/wiki/樋浦一帆 "wikilink")
   - [美狂乱](https://zh.wikipedia.org/wiki/美狂乱 "wikilink")
-  - [日之内エミ](https://zh.wikipedia.org/wiki/日之内エミ "wikilink")（→移籍到EXIT
-    LINE）
+  - [日之内エミ](https://zh.wikipedia.org/wiki/日之内エミ "wikilink")（→移籍到EXIT LINE）
   - [the pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")
   - [ピンキーとキラーズ](https://zh.wikipedia.org/wiki/ピンキーとキラーズ "wikilink")
   - [ビリー・バンバン](https://zh.wikipedia.org/wiki/ビリー・バンバン "wikilink")
@@ -322,9 +306,7 @@ Records公司、過去旗下藝人的一覽記錄。
   - 山本真介
   - [横浜銀蝿](https://zh.wikipedia.org/wiki/横浜銀蝿 "wikilink")
   - [六文銭](https://zh.wikipedia.org/wiki/六文銭_\(音楽ユニット\) "wikilink")（1972年解散）
-  - <span style="font-variant: small-caps;">[ROmantic
-    Mode](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink")</span>
-    （→ 東芝EMI）
+  - <span style="font-variant: small-caps;">[ROmantic Mode](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink")</span> （→ 東芝EMI）
       - [麻倉晶（現: 麻倉あきら）](https://zh.wikipedia.org/wiki/麻倉あきら "wikilink")
       - [鈴川真樹（現:MASAKI）](https://zh.wikipedia.org/wiki/MASAKI "wikilink")
       - [ジョー・リノイエ](https://zh.wikipedia.org/wiki/ジョー・リノイエ "wikilink")
@@ -333,8 +315,7 @@ Records公司、過去旗下藝人的一覽記錄。
 
 <references/>
 
-[Category:King_Records](https://zh.wikipedia.org/wiki/Category:King_Records "wikilink")
-[Category:音樂家列表](https://zh.wikipedia.org/wiki/Category:音樂家列表 "wikilink")
+[Category:King_Records](https://zh.wikipedia.org/wiki/Category:King_Records "wikilink") [Category:音樂家列表](https://zh.wikipedia.org/wiki/Category:音樂家列表 "wikilink")
 
 1.  所屬是FIX唱片公司
 2.  スターチャイルドから移籍

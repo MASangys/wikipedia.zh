@@ -1,7 +1,6 @@
-《**無責任Hero**》（），為[日本男偶像團體](../Page/日本.md "wikilink")[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。非常有關8風格--船到橋頭自然直--的加油歌曲。同時也是2008年10月4日～2008年12月21日日本富士電視台『江川×堀尾のSUPERうるぐす』的節目主題曲。
+《**無責任Hero**》（），為[日本](../Page/日本.md "wikilink")男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。非常有關8風格--船到橋頭自然直--的加油歌曲。同時也是2008年10月4日～2008年12月21日日本富士電視台『江川×堀尾のSUPERうるぐす』的節目主題曲。
 
-初回限定A・B的特典為夏季巡迴演上會的最後一站・長野的現場片段（2008年8月30日
-長野ビッグハット）。是繼嵐的「truth/風の向こうへ」之後，創下Oricon單日榜即超過10萬張銷售量的紀錄。此紀錄為嵐、KAT-TUN之外，日本唱片史上第3組、單曲榜部分則是第4張的紀錄。獲得Oricon首周第1名。同時也是首次首周突破30萬張的銷售量（更新了本身的首周銷售量紀錄）。
+初回限定A・B的特典為夏季巡迴演上會的最後一站・長野的現場片段（2008年8月30日 長野ビッグハット）。是繼嵐的「truth/風の向こうへ」之後，創下Oricon單日榜即超過10萬張銷售量的紀錄。此紀錄為嵐、KAT-TUN之外，日本唱片史上第3組、單曲榜部分則是第4張的紀錄。獲得Oricon首周第1名。同時也是首次首周突破30萬張的銷售量（更新了本身的首周銷售量紀錄）。
 
 ## 收錄歌曲
 
@@ -72,8 +71,4 @@
 
 3.無責任ヒーロー（Original Karaoke）
 
-[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2008年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2008年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
+[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink") [Category:2008年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2008年Japan_Hot_100冠軍歌曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")

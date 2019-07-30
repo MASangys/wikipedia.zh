@@ -1,4 +1,4 @@
-**2011年Oricon單曲週榜冠軍作品列表**列出2011年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2011年Oricon單曲週榜冠軍作品列表**列出2011年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 全年度共有50張冠軍單曲誕生，有兩張單曲獲得兩週冠軍。
 
@@ -392,6 +392,4 @@
 
   - [2011年每週公信榜統計數據](https://web.archive.org/web/20160722215716/http://www.musictvprogram.com/oricon2011.html)
 
-[Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
-[Category:2011年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2011年音樂排行榜 "wikilink")
+[Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink") [Category:2011年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2011年音樂排行榜 "wikilink")

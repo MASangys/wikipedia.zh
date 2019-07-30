@@ -1,14 +1,12 @@
-**ChargeMan研！**是由（現为公司）製作并在[1970年代前半放送的](../Page/1970年代.md "wikilink")[日本電視動畫](../Page/日本電視動畫.md "wikilink")。簡稱为「Char研」。
+**ChargeMan研！**是由（現为公司）製作并在[1970年代](../Page/1970年代.md "wikilink")前半放送的[日本電視動畫](../Page/日本電視動畫.md "wikilink")。簡稱为「Char研」。
 
 ## 概要
 
-[TBS電視台在每週的星期一到星期五下午](../Page/TBS電視台.md "wikilink")5點30分到40分的10分鐘之間放送，共有65話。採用1話完結型式\[1\]\[2\]。
+[TBS電視台](../Page/TBS電視台.md "wikilink")在每週的星期一到星期五下午5點30分到40分的10分鐘之間放送，共有65話。採用1話完結型式\[1\]\[2\]。
 
-并在[秋田書店的](../Page/秋田書店.md "wikilink")《[冒險王](https://zh.wikipedia.org/wiki/冒險王 "wikilink")》和[德間書店的](../Page/德間書店.md "wikilink")《》兩本雜誌上各自連載漫畫版。
+并在[秋田書店](../Page/秋田書店.md "wikilink")的《[冒險王](https://zh.wikipedia.org/wiki/冒險王 "wikilink")》和[德間書店](../Page/德間書店.md "wikilink")的《》兩本雜誌上各自連載漫畫版。
 
-在本放送結束之後，有很長一段時間都沒有再被提起，不過在[2000年代後半時](../Page/2000年代.md "wikilink")，由於其奇妙的作畫、演出和故事劇情，被認為是有[吐槽價值的珍貴作品而再次受到注目](../Page/吐槽.md "wikilink")，在[2ch和](https://zh.wikipedia.org/wiki/2ch "wikilink")[NICONICO等等](https://zh.wikipedia.org/wiki/NICONICO "wikilink")[網路社區掀起了热潮](https://zh.wikipedia.org/wiki/網路社區 "wikilink")。2008年9月5日放送的[NHK衛星第2頻道](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")「The☆NetStar\!」節目中播出了網路上的「ChargeMan研！」熱潮。根據製作人[茂垣弘道](../Page/茂垣弘道.md "wikilink")（現STUDIO
-COMET
-Co.,Ltd.的[執行董事](https://zh.wikipedia.org/wiki/執行董事 "wikilink")）表示，由於本作1話的預算只有50萬日元，在隨便草率的製作下，才產生了這樣的作品。且據說由於本作開始製作時正值[夏天](https://zh.wikipedia.org/wiki/夏天 "wikilink")，工作人員隨意地到海邊等地去玩樂，製作情況相當嚴刻。\[3\]。
+在本放送結束之後，有很長一段時間都沒有再被提起，不過在[2000年代](../Page/2000年代.md "wikilink")後半時，由於其奇妙的作畫、演出和故事劇情，被認為是有[吐槽](../Page/吐槽.md "wikilink")價值的珍貴作品而再次受到注目，在[2ch和](https://zh.wikipedia.org/wiki/2ch "wikilink")[NICONICO等等](https://zh.wikipedia.org/wiki/NICONICO "wikilink")[網路社區掀起了热潮](https://zh.wikipedia.org/wiki/網路社區 "wikilink")。2008年9月5日放送的[NHK衛星第2頻道](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")「The☆NetStar\!」節目中播出了網路上的「ChargeMan研！」熱潮。根據製作人[茂垣弘道](../Page/茂垣弘道.md "wikilink")（現STUDIO COMET Co.,Ltd.的[執行董事](https://zh.wikipedia.org/wiki/執行董事 "wikilink")）表示，由於本作1話的預算只有50萬日元，在隨便草率的製作下，才產生了這樣的作品。且據說由於本作開始製作時正值[夏天](https://zh.wikipedia.org/wiki/夏天 "wikilink")，工作人員隨意地到海邊等地去玩樂，製作情況相當嚴刻。\[3\]。
 
 在2010年8月21日，從最初的放送至今過了近40年，終於開放了官方網站。同年10月27日發行了官方原聲帶紀念專輯。
 
@@ -18,11 +16,9 @@ Co.,Ltd.的[執行董事](https://zh.wikipedia.org/wiki/執行董事 "wikilink")
 
 2011年現在、ICHI(舊・Knack)官方網站上的「股份有限公司ICHI電視作品」上記載放送時期為1973年7月2日到12月28日。
 
-目錄製作委員會（リスト制作委員会）在2000年編纂的『Animage 動畫小資料2000（アニメージュ
-アニメポケットデータ2000）』上記載的則同樣從是從1973年7月2日開始，不過到了9月28日就放送結束\[4\]。
+目錄製作委員會（リスト制作委員会）在2000年編纂的『Animage 動畫小資料2000（アニメージュ アニメポケットデータ2000）』上記載的則同樣從是從1973年7月2日開始，不過到了9月28日就放送結束\[4\]。
 
-但是，在1973年7月報紙上的電視欄中本作放送的時間帶上寫著的是『漫畫大作戰（マンガ大作戦）』這個節目名稱，其餘皆無遭到確認，而『ChargeMan研！』的節目名稱則是在1974年4月開始才有登載，而且1974年4月發售的『TV
-LAND（テレビランド）』1974年5月號中『ChargeMan研！』被當作是新節目，同樣地『冒險王』也在1974年5月號中新連載本作的漫畫化版本，也存在像Animage編輯部篇『TV動畫25年史（TVアニメ25年史）』等等將初放送記載為1974年4月1日到6月28日的資料\[5\]。
+但是，在1973年7月報紙上的電視欄中本作放送的時間帶上寫著的是『漫畫大作戰（マンガ大作戦）』這個節目名稱，其餘皆無遭到確認，而『ChargeMan研！』的節目名稱則是在1974年4月開始才有登載，而且1974年4月發售的『TV LAND（テレビランド）』1974年5月號中『ChargeMan研！』被當作是新節目，同樣地『冒險王』也在1974年5月號中新連載本作的漫畫化版本，也存在像Animage編輯部篇『TV動畫25年史（TVアニメ25年史）』等等將初放送記載為1974年4月1日到6月28日的資料\[5\]。
 
 另外在2009年，記者針對以上1973年和1974年兩種說法的混亂向製作人茂垣弘道進行了確認，正確說法是本放送為1973年，不過對於1974年的雜誌相關事情發展的整合性則並不清楚細節\[6\]。
 
@@ -34,7 +30,7 @@ LAND（テレビランド）』1974年5月號中『ChargeMan研！』被當作�
 
 ## 登場人物
 
-[配音的部份只知道是由](../Page/配音.md "wikilink")的演員擔任，並不清楚誰是由誰配音\[7\]。（另外人物順序並非登場順序）
+[配音](../Page/配音.md "wikilink")的部份只知道是由的演員擔任，並不清楚誰是由誰配音\[7\]。（另外人物順序並非登場順序）
 
 ### 主角和其夥伴
 
@@ -97,11 +93,11 @@ LAND（テレビランド）』1974年5月號中『ChargeMan研！』被當作�
 
   -
     在第4話「謎之美少年」登場。
-    樣貌端正，在[美式足球比賽時發揮了過人的運動能力](../Page/美式足球.md "wikilink")，讓研和觀賽的人感到驚訝。
+    樣貌端正，在[美式足球](../Page/美式足球.md "wikilink")比賽時發揮了過人的運動能力，讓研和觀賽的人感到驚訝。
     真面目是杰拉魯星人，把研引誘到沒有人的建築施工現場想將其暗殺，在ChargeMan的對手中算是善戰的，但還是被擊破。
     在作中第一個把研的變身形容成「變裝」的也是他\[14\]。
   -
-    接受了破壞城鎮的任物，以[劍道場的師範代的身份潛入](../Page/劍道.md "wikilink")。
+    接受了破壞城鎮的任物，以[劍道](../Page/劍道.md "wikilink")場的師範代的身份潛入。
     在和人類相處的途中喚醒了杰拉魯星人所沒有的心及感情，忠告說要停止侵略地球並取回杰拉魯星人也已丟去的東西，但被視為叛變遭到處刑。
     對研來說是有如哥哥般的存在。
   -
@@ -130,7 +126,7 @@ LAND（テレビランド）』1974年5月號中『ChargeMan研！』被當作�
     被泉一家在開車中撞飛的少女。
     由於其衝擊而喪失記憶，在和家族取得連絡之前暫時居住在泉一家。
     劇中使用的名稱奈緒子是可隆所取的臨時的名字，並非本名。
-    在和研一起前往的遊樂場中現出其杰拉魯星人的原形，長著紫色的皮膚和獠牙，想將研從[摩天輪上推落將其殺害](../Page/摩天輪.md "wikilink")。
+    在和研一起前往的遊樂場中現出其杰拉魯星人的原形，長著紫色的皮膚和獠牙，想將研從[摩天輪](../Page/摩天輪.md "wikilink")上推落將其殺害。
     但腳一滑從摩天輪上摔落至地面，爆炸而死。
   -
     在第33話「我的爸爸過時了？」登場。
@@ -159,7 +155,7 @@ LAND（テレビランド）』1974年5月號中『ChargeMan研！』被當作�
     在自家中開舞會並邀請研和友人參加。
   -
     在第35話「在腦中有炸藥」登場。
-    正在[東京灣上建設的海上工業都市的設計者](../Page/東京灣.md "wikilink")，[西德出身的科學家](../Page/西德.md "wikilink")。
+    正在[東京灣](../Page/東京灣.md "wikilink")上建設的海上工業都市的設計者，[西德](../Page/西德.md "wikilink")出身的科學家。
     企劃了邀請代表日本的數十名學者的招待會。
     在招待會開始之前順便經過的電影院遭到綁票，腦中被裝置了炸彈，當時的記億也被消去。
     全部都是杰拉魯星人想要把招待會會場的科學家們一口氣全炸死的計劃，不過被趕來的研以自身能力發現了炸彈（[代納邁](https://zh.wikipedia.org/wiki/代納邁 "wikilink")），會場因此逃過一劫。
@@ -169,8 +165,7 @@ LAND（テレビランド）』1974年5月號中『ChargeMan研！』被當作�
     在第23話「恐怖！精神病院」登場。
     雖然是地球人不過妄想著要成為世界的帝王，接受杰拉魯星人的支緣，想要從經營的病院發射用來攻擊歐洲的大型飛彈。
     但是被假裝成入院病患的研給阻止，最後以手槍自殺。
-    雖然是70年代的動畫但不知道為什麼持有和[SIG SAUER
-    P226相似的近代式自動手槍](../Page/SIG_P226手槍.md "wikilink")。
+    雖然是70年代的動畫但不知道為什麼持有和[SIG SAUER P226相似的近代式自動手槍](../Page/SIG_P226手槍.md "wikilink")。
   -
     和研的交流很深，代表日本的科學家
     奇特的髮型和鬍鬚形狀為其特徵，不知為什麼**穿著和皮膚一樣顏色的褲子**。
@@ -195,8 +190,7 @@ LAND（テレビランド）』1974年5月號中『ChargeMan研！』被當作�
 
   -
 
-ChargeMan研的強化衣。可以吸收光的能量並轉換為力量\[15\]。著裝暗號為「Charging
-Go\!\!」\[16\]。在設定上為沒有光的話無法變身，不過只要有[火花程度的光線](../Page/火.md "wikilink")，就算雙手雙腳都被綁起來了也可以變身(變裝)\[17\]。在故事的進行上，研不管是處於何種狀態，只要一變裝，就可將當時的狀況化為無（例：變裝前為負傷狀態，變身(裝)後就治療好了）。
+ChargeMan研的強化衣。可以吸收光的能量並轉換為力量\[15\]。著裝暗號為「Charging Go\!\!」\[16\]。在設定上為沒有光的話無法變身，不過只要有[火](../Page/火.md "wikilink")花程度的光線，就算雙手雙腳都被綁起來了也可以變身(變裝)\[17\]。在故事的進行上，研不管是處於何種狀態，只要一變裝，就可將當時的狀況化為無（例：變裝前為負傷狀態，變身(裝)後就治療好了）。
 
   -
 
@@ -220,33 +214,28 @@ ChargeMan研專用的乘坐飛行器。不論是在陸海空、甚至在宇宙�
   - 企劃 - 西野清市
   - 製作人 - [茂垣弘道](../Page/茂垣弘道.md "wikilink")
   - 演出 - 三浦昇
-  - 構成・脚本 -
-    和久田正明、[安藤豊弘](https://zh.wikipedia.org/wiki/安藤豊弘 "wikilink")、玉戸義雄
+  - 構成・脚本 - 和久田正明、[安藤豊弘](https://zh.wikipedia.org/wiki/安藤豊弘 "wikilink")、玉戸義雄
   - 作畫監督 - 田中英二、水村十司
   - 美術監督 - 加藤清
   - 音樂 - [宮内國郎](https://zh.wikipedia.org/wiki/宮内國郎 "wikilink")
   - 配音演出 - [劇團近代座](https://zh.wikipedia.org/wiki/劇團近代座 "wikilink")
-  - 動畫製作協助 - [TAMA PRODUCTION
-    CO.](https://zh.wikipedia.org/wiki/TAMA_PRODUCTION_CO. "wikilink")
-  - 製作 -
-    [Knack](https://zh.wikipedia.org/wiki/Knack\(動畫製作公司\) "wikilink")
+  - 動畫製作協助 - [TAMA PRODUCTION CO.](https://zh.wikipedia.org/wiki/TAMA_PRODUCTION_CO. "wikilink")
+  - 製作 - [Knack](https://zh.wikipedia.org/wiki/Knack\(動畫製作公司\) "wikilink")
 
 ## 主題曲
 
   - 片頭曲「ChargeMan研！」（チャージマン研！）
     作詞 - Knack企劃部 / 作曲・編曲 - 宮内國郎 / 歌 - 雲雀兒童合唱團（ひばり児童合唱団）
   - 插入曲「研與可隆之歌」（研とキャロンの歌）
-    作詞 - Knack企劃部 / 作曲・編曲 - 宮内國郎 / 歌 -
-    [皆川理](https://zh.wikipedia.org/wiki/皆川理 "wikilink")（皆川おさむ）、雲雀兒童合唱團
+    作詞 - Knack企劃部 / 作曲・編曲 - 宮内國郎 / 歌 - [皆川理](https://zh.wikipedia.org/wiki/皆川理 "wikilink")（皆川おさむ）、雲雀兒童合唱團
 
 ## 音MAD影片
 
-許多以此動畫為素材的[音MAD影片被發佈在](../Page/音MAD.md "wikilink")[YouTube或](../Page/YouTube.md "wikilink")[NICONICO動畫上](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。此外，在2010年6月左右發生了ChargeMan研！的MAD影片被大量刪除的「Char研MAD大量削除事件」。不過又有大量的Char研MAD在當天之內復活過來。\[22\]\[23\]\[24\]
+許多以此動畫為素材的[音MAD](../Page/音MAD.md "wikilink")影片被發佈在[YouTube](../Page/YouTube.md "wikilink")或[NICONICO動畫上](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。此外，在2010年6月左右發生了ChargeMan研！的MAD影片被大量刪除的「Char研MAD大量削除事件」。不過又有大量的Char研MAD在當天之內復活過來。\[22\]\[23\]\[24\]
 
 ## 各話標題
 
-引用自：[小學館](../Page/小學館.md "wikilink")「THIS IS ANIMATION(1)
-SF・ロボット・アクションアニメ編」
+引用自：[小學館](../Page/小學館.md "wikilink")「THIS IS ANIMATION(1) SF・ロボット・アクションアニメ編」
 
 <table>
 <thead>
@@ -597,18 +586,7 @@ SF・ロボット・アクションアニメ編」
 
   -
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
-[Category:1973年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1973年日本電視動畫 "wikilink")
-[Category:1974年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1974年日本電視動畫 "wikilink")
-[Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink")
-[Category:2070年代背景作品](https://zh.wikipedia.org/wiki/Category:2070年代背景作品 "wikilink")
-[Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink")
-[Category:ICHI](https://zh.wikipedia.org/wiki/Category:ICHI "wikilink")
-[Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:TBS電視台節目](https://zh.wikipedia.org/wiki/Category:TBS電視台節目 "wikilink")
-[Category:鬼畜全明星](https://zh.wikipedia.org/wiki/Category:鬼畜全明星 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:1973年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1973年日本電視動畫 "wikilink") [Category:1974年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1974年日本電視動畫 "wikilink") [Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink") [Category:2070年代背景作品](https://zh.wikipedia.org/wiki/Category:2070年代背景作品 "wikilink") [Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink") [Category:ICHI](https://zh.wikipedia.org/wiki/Category:ICHI "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:TBS電視台節目](https://zh.wikipedia.org/wiki/Category:TBS電視台節目 "wikilink") [Category:鬼畜全明星](https://zh.wikipedia.org/wiki/Category:鬼畜全明星 "wikilink")
 
 1.  リスト制作委員会編『アニメージュ アニメポケットデータ2000』徳間書店、2000年、p.37。
 
@@ -635,8 +613,7 @@ SF・ロボット・アクションアニメ編」
 13.
 14. 動畫第4話「謎之美少年」
 
-15. [「チャージマン研&スカイロッド 武装解説」『チャージマン研\! Tribute to Soundtracks
-    vol.1』pp.28-29](https://zh.wikipedia.org/wiki/#西野ほか2010 "wikilink")
+15. [「チャージマン研&スカイロッド 武装解説」『チャージマン研\! Tribute to Soundtracks vol.1』pp.28-29](https://zh.wikipedia.org/wiki/#西野ほか2010 "wikilink")
 
 16.
 17.
@@ -644,11 +621,8 @@ SF・ロボット・アクションアニメ編」
 19.
 20.
 21.
-22. \[<http://www.nicovideo.jp/search/%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%9E%E3%83%B3%E7%A0%94>\!?track=nicouni_search_keyword
-    キーワードで動画検索 チャージマン研\! - ニコニコ動画\]
+22. \[<http://www.nicovideo.jp/search/%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%9E%E3%83%B3%E7%A0%94>\!?track=nicouni_search_keyword キーワードで動画検索 チャージマン研\! - ニコニコ動画\]
 
-23. [チャージマン研 mad -
-    YouTube](https://www.youtube.com/results?search_query=%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%9E%E3%83%B3%E7%A0%94+mad)
+23. [チャージマン研 mad - YouTube](https://www.youtube.com/results?search_query=%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%9E%E3%83%B3%E7%A0%94+mad)
 
-24. [チャー研MAD一斉削除事件とは (チャーケンマッドイッセイサクジョジケンとは) \[単語記事\] -
-    ニコニコ大百科](http://dic.nicovideo.jp/a/%E3%83%81%E3%83%A3%E3%83%BC%E7%A0%94mad%E4%B8%80%E6%96%89%E5%89%8A%E9%99%A4%E4%BA%8B%E4%BB%B6)
+24. [チャー研MAD一斉削除事件とは (チャーケンマッドイッセイサクジョジケンとは) \[単語記事\] - ニコニコ大百科](http://dic.nicovideo.jp/a/%E3%83%81%E3%83%A3%E3%83%BC%E7%A0%94mad%E4%B8%80%E6%96%89%E5%89%8A%E9%99%A4%E4%BA%8B%E4%BB%B6)

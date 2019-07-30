@@ -1,6 +1,4 @@
-**Nook**是由Barnes &
-Noble（[巴諾書店](../Page/巴諾書店.md "wikilink")）推出的電子書，與[Amazon
-Kindle是直接對手](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink")，於2011年首個季度的銷售額首次超越Kindle\[1\]。
+**Nook**是由Barnes & Noble（[巴諾書店](../Page/巴諾書店.md "wikilink")）推出的電子書，與[Amazon Kindle是直接對手](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink")，於2011年首個季度的銷售額首次超越Kindle\[1\]。
 
 ## 特點
 
@@ -129,11 +127,8 @@ Nook其中一個最大的特點就是它下方的3.5吋彩色LCD顯示屏。
 
 {{-}}
 
-[de:Barnes & Noble\#NOOK
-E-Book-Reader](https://zh.wikipedia.org/wiki/de:Barnes_&_Noble#NOOK_E-Book-Reader "wikilink")
+[de:Barnes & Noble\#NOOK E-Book-Reader](https://zh.wikipedia.org/wiki/de:Barnes_&_Noble#NOOK_E-Book-Reader "wikilink")
 
-[Category:電子書](https://zh.wikipedia.org/wiki/Category:電子書 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2009年面世的產品](https://zh.wikipedia.org/wiki/Category:2009年面世的產品 "wikilink")
+[Category:電子書](https://zh.wikipedia.org/wiki/Category:電子書 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2009年面世的產品](https://zh.wikipedia.org/wiki/Category:2009年面世的產品 "wikilink")
 
 1.

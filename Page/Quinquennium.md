@@ -1,5 +1,4 @@
-《**Quinquennium**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳柏宇的第六張大碟](../Page/陳柏宇.md "wikilink")，首張新歌加精選專輯，於2011年6月23日推出\[1\]。專輯的新歌曲包括與[林奕匡合唱的第一主打歌](../Page/林奕匡.md "wikilink")《無限》，這也是[索尼愛立信手機W](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")8的宣傳歌。除《無限》以外，《Quinquennium
-新曲+精選》還有三首新歌與十四首精選歌，以及一片DVD，收錄了關於新專輯的訪問和四首新歌的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")；精選專輯取名為「Quinquennium」是因陳柏宇出道五週年。
+《**Quinquennium**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳柏宇](../Page/陳柏宇.md "wikilink")的第六張大碟，首張新歌加精選專輯，於2011年6月23日推出\[1\]。專輯的新歌曲包括與[林奕匡](../Page/林奕匡.md "wikilink")合唱的第一主打歌《無限》，這也是[索尼愛立信手機W](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")8的宣傳歌。除《無限》以外，《Quinquennium 新曲+精選》還有三首新歌與十四首精選歌，以及一片DVD，收錄了關於新專輯的訪問和四首新歌的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")；精選專輯取名為「Quinquennium」是因陳柏宇出道五週年。
 
 ## 派台歌曲成績
 
@@ -29,8 +28,7 @@
 ## 唱片版本
 
   - CD+DVD版
-  - 首日封特別版，附近特別於[香港郵政定製的](../Page/香港郵政.md "wikilink")《Quinquennium
-    新曲+精選》紀念首日封​連郵票，共三款，限量二百套\[2\]
+  - 首日封特別版，附近特別於[香港郵政](../Page/香港郵政.md "wikilink")定製的《Quinquennium 新曲+精選》紀念首日封​連郵票，共三款，限量二百套\[2\]
 
 ## 音樂錄影帶
 
@@ -51,10 +49,7 @@
 
 </div>
 
-[Category:陳柏宇音樂專輯](https://zh.wikipedia.org/wiki/Category:陳柏宇音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:陳柏宇音樂專輯](https://zh.wikipedia.org/wiki/Category:陳柏宇音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.
-2.  [陳柏宇官方Facebook](http://www.facebook.com/JasonChanPakYuOfficial)，2011年7月22日
-    (五) 16:00 (UTC+8)查閱
+2.  [陳柏宇官方Facebook](http://www.facebook.com/JasonChanPakYuOfficial)，2011年7月22日 (五) 16:00 (UTC+8)查閱

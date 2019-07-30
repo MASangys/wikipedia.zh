@@ -1,8 +1,8 @@
-**《霹靂神州III之天罪》**為[霹靂布袋戲的第](../Page/霹靂布袋戲.md "wikilink")34部劇集，發行時間為2008年9月26日至2009年3月6日，總計48集。
+**《霹靂神州III之天罪》**為[霹靂布袋戲](../Page/霹靂布袋戲.md "wikilink")的第34部劇集，發行時間為2008年9月26日至2009年3月6日，總計48集。
 
-故事延續[霹靂神州II之蒼玄泣](https://zh.wikipedia.org/wiki/霹靂神州II之蒼玄泣 "wikilink")，主要是[異度魔界之創始者](https://zh.wikipedia.org/wiki/異度魔界 "wikilink")[棄天帝下凡毀滅中原](https://zh.wikipedia.org/wiki/棄天帝 "wikilink")，以及來自[滅境的](https://zh.wikipedia.org/wiki/滅境 "wikilink")[未來之宰](https://zh.wikipedia.org/wiki/未來之宰 "wikilink")、[死國的](https://zh.wikipedia.org/wiki/死國 "wikilink")[天狼星與](../Page/天狼星.md "wikilink")[閻王鎖在苦境中原發生的鬥爭](https://zh.wikipedia.org/wiki/閻王鎖 "wikilink")。
+故事延續[霹靂神州II之蒼玄泣](https://zh.wikipedia.org/wiki/霹靂神州II之蒼玄泣 "wikilink")，主要是[異度魔界之創始者](https://zh.wikipedia.org/wiki/異度魔界 "wikilink")[棄天帝下凡毀滅中原](https://zh.wikipedia.org/wiki/棄天帝 "wikilink")，以及來自[滅境的](https://zh.wikipedia.org/wiki/滅境 "wikilink")[未來之宰](https://zh.wikipedia.org/wiki/未來之宰 "wikilink")、[死國的](https://zh.wikipedia.org/wiki/死國 "wikilink")[天狼星](../Page/天狼星.md "wikilink")與[閻王鎖在苦境中原發生的鬥爭](https://zh.wikipedia.org/wiki/閻王鎖 "wikilink")。
 
-本劇片頭由前任[天宇布袋戲的動畫師](../Page/天宇布袋戲.md "wikilink")[鄭保品製作](https://zh.wikipedia.org/wiki/鄭保品 "wikilink")，被戲迷喻為最棒的片頭，而[鄭保品目前仍在](https://zh.wikipedia.org/wiki/鄭保品 "wikilink")[霹靂國際多媒體中負責製作片頭及動畫特效](../Page/霹靂國際多媒體.md "wikilink")。
+本劇片頭由前任[天宇布袋戲](../Page/天宇布袋戲.md "wikilink")的動畫師[鄭保品製作](https://zh.wikipedia.org/wiki/鄭保品 "wikilink")，被戲迷喻為最棒的片頭，而[鄭保品目前仍在](https://zh.wikipedia.org/wiki/鄭保品 "wikilink")[霹靂國際多媒體](../Page/霹靂國際多媒體.md "wikilink")中負責製作片頭及動畫特效。
 
 ## 登場要角
 
@@ -131,5 +131,4 @@
 
   - [官方部落格](https://web.archive.org/web/20110427205522/http://blog.pili.com.tw/shenzhou3/)
 
-[Category:霹靂布袋戲](https://zh.wikipedia.org/wiki/Category:霹靂布袋戲 "wikilink")
-[Category:霹靂劇集](https://zh.wikipedia.org/wiki/Category:霹靂劇集 "wikilink")
+[Category:霹靂布袋戲](https://zh.wikipedia.org/wiki/Category:霹靂布袋戲 "wikilink") [Category:霹靂劇集](https://zh.wikipedia.org/wiki/Category:霹靂劇集 "wikilink")

@@ -1,13 +1,10 @@
-《**NO MORE
-PAIИ**》是[日本男性偶像團體KAT](../Page/日本.md "wikilink")-TUN的第5張[專輯作品](../Page/音樂專輯.md "wikilink")。
+《**NO MORE PAIИ**》是[日本](../Page/日本.md "wikilink")男性偶像團體KAT-TUN的第5張[專輯作品](../Page/音樂專輯.md "wikilink")。
 
 ## 概要
 
   - 與前作時隔1年零2個月。
-  - 成員[赤西仁沒有參與新歌錄音](../Page/赤西仁.md "wikilink")。
-  - 收錄《[Love
-    yourself～喜欢你所讨厌的你～](https://zh.wikipedia.org/wiki/Love_yourself～喜欢你所讨厌的你～ "wikilink")》、《[THE
-    D-MOTION](https://zh.wikipedia.org/wiki/Love_yourself～喜欢你所讨厌的你～ "wikilink")》、《[Going\!](../Page/Going!.md "wikilink")》等單曲作品、5首成員獨唱作品及其余5首新歌，共13曲。
+  - 成員[赤西仁](../Page/赤西仁.md "wikilink")沒有參與新歌錄音。
+  - 收錄《[Love yourself～喜欢你所讨厌的你～](https://zh.wikipedia.org/wiki/Love_yourself～喜欢你所讨厌的你～ "wikilink")》、《[THE D-MOTION](https://zh.wikipedia.org/wiki/Love_yourself～喜欢你所讨厌的你～ "wikilink")》、《[Going\!](../Page/Going!.md "wikilink")》等單曲作品、5首成員獨唱作品及其余5首新歌，共13曲。
   - 初回限定盤還收錄特刊（32頁）和一張DVD，通常盤另追加1曲。
   - 購入第12張單曲《Going\!》及這張專輯的通常盤可以參與**KAT-TUN 2010 Summer Premium**活動的抽選。
 
@@ -35,11 +32,9 @@ PAIИ**》是[日本男性偶像團體KAT](../Page/日本.md "wikilink")-TUN的�
       - 編曲：KING OF SLICK
 4.  **THE D-MOTION**
       - 作詞：ECO
-      - English Lyrics Coordinated by [Jin
-        Akanishi](../Page/赤西仁.md "wikilink")
+      - English Lyrics Coordinated by [Jin Akanishi](../Page/赤西仁.md "wikilink")
       - RAP詞：JOKER
-      - 作曲:OSCAR HOLTER / JAKKE ERIXSON / THOMAS HARALDSSON / JUNIOR H
-        JOHANSSON
+      - 作曲:OSCAR HOLTER / JAKKE ERIXSON / THOMAS HARALDSSON / JUNIOR H JOHANSSON
       - 編曲：OSCAR HOLTER / JAKKE ERIXSON
 5.  **RIGHT NOW**
       - 作詞：ECO
@@ -105,6 +100,4 @@ PAIИ**》是[日本男性偶像團體KAT](../Page/日本.md "wikilink")-TUN的�
 
 ※封面设计初回限定盘、通常盘是不一样的。
 
-[Category:KAT-TUN音樂專輯](https://zh.wikipedia.org/wiki/Category:KAT-TUN音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:KAT-TUN音樂專輯](https://zh.wikipedia.org/wiki/Category:KAT-TUN音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")

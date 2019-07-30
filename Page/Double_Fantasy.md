@@ -1,5 +1,4 @@
-《**Double
-Fantasy**》是英國歌手[約翰·藍儂發行第七张专辑](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")，日裔美籍音乐家[小野洋子發行第十张专辑](../Page/小野洋子.md "wikilink")。
+《**Double Fantasy**》是英國歌手[約翰·藍儂發行第七张专辑](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")，日裔美籍音乐家[小野洋子](../Page/小野洋子.md "wikilink")發行第十张专辑。
 
 ## 曲目
 
@@ -166,29 +165,19 @@ Fantasy**》是英國歌手[約翰·藍儂發行第七张专辑](https://zh.wiki
 
 ## 音樂
 
-  - [(Just Like) Starting
-    Over](http://www.youtube.com/watch?v=FNnrlVWMTvc)
+  - [(Just Like) Starting Over](http://www.youtube.com/watch?v=FNnrlVWMTvc)
   - [Kiss Kiss Kiss](http://www.youtube.com/watch?v=N8n7I8SJsLs)
   - [Cleanup Time](http://www.youtube.com/watch?v=USjA9Rm2ZcA)
   - [Give Me Something](http://www.youtube.com/watch?v=FJQ29BoZtfM)
   - [I'm Losing You](http://www.youtube.com/watch?v=E8KKH1Ce4Rw)
   - [I'm Moving On](http://www.youtube.com/watch?v=-t_8wHn-cq4)
-  - [Beautiful Boy (Darling
-    Boy)](https://archive.is/20130428075035/http://www.tudou.com/programs/view/-QYSoBfx1dA/)
+  - [Beautiful Boy (Darling Boy)](https://archive.is/20130428075035/http://www.tudou.com/programs/view/-QYSoBfx1dA/)
   - [Watching the Wheels](http://www.youtube.com/watch?v=OJ9wuLorn5M)
   - [Yes, I'm Your Angel](http://www.youtube.com/watch?v=dVsj7Ncpgr8)
   - [Woman](http://www.youtube.com/watch?v=WPLXrxG6RRc)
   - [Beautiful Boys](http://www.youtube.com/watch?v=r4AKpBTgSBY)
   - [Dear Yoko](http://www.youtube.com/watch?v=kSVcd3ohDY0)
-  - [Every Man Has a Woman Who Loves
-    Him](http://www.youtube.com/watch?v=PykGoJBgaYs)
+  - [Every Man Has a Woman Who Loves Him](http://www.youtube.com/watch?v=PykGoJBgaYs)
   - [Hard Times are Over](http://www.youtube.com/watch?v=aBSU4Yx4L1k)
 
-[Category:1980年音樂專輯](https://zh.wikipedia.org/wiki/Category:1980年音樂專輯 "wikilink")
-[Category:英國音樂專輯](https://zh.wikipedia.org/wiki/Category:英國音樂專輯 "wikilink")
-[Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink")
-[Category:約翰·藍儂音樂專輯](https://zh.wikipedia.org/wiki/Category:約翰·藍儂音樂專輯 "wikilink")
-[Category:小野洋子音樂專輯](https://zh.wikipedia.org/wiki/Category:小野洋子音樂專輯 "wikilink")
-[Category:国会唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:国会唱片音乐专辑 "wikilink")
-[Category:葛萊美獎年度專輯](https://zh.wikipedia.org/wiki/Category:葛萊美獎年度專輯 "wikilink")
-[Category:告示牌二百強專輯榜冠軍專輯](https://zh.wikipedia.org/wiki/Category:告示牌二百強專輯榜冠軍專輯 "wikilink")
+[Category:1980年音樂專輯](https://zh.wikipedia.org/wiki/Category:1980年音樂專輯 "wikilink") [Category:英國音樂專輯](https://zh.wikipedia.org/wiki/Category:英國音樂專輯 "wikilink") [Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink") [Category:約翰·藍儂音樂專輯](https://zh.wikipedia.org/wiki/Category:約翰·藍儂音樂專輯 "wikilink") [Category:小野洋子音樂專輯](https://zh.wikipedia.org/wiki/Category:小野洋子音樂專輯 "wikilink") [Category:国会唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:国会唱片音乐专辑 "wikilink") [Category:葛萊美獎年度專輯](https://zh.wikipedia.org/wiki/Category:葛萊美獎年度專輯 "wikilink") [Category:告示牌二百強專輯榜冠軍專輯](https://zh.wikipedia.org/wiki/Category:告示牌二百強專輯榜冠軍專輯 "wikilink")

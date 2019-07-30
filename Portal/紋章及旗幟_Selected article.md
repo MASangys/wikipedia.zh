@@ -1,5 +1,4 @@
-{{\#switch: |new={{\#ifexpr: ({{\#time: Y}} \<= 2012 and {{\#time: d}}
-\< 29 and {{\#time: m}} \<= 1)
+{{\#switch: |new={{\#ifexpr: ({{\#time: Y}} \<= 2012 and {{\#time: d}} \< 29 and {{\#time: m}} \<= 1)
 
 ` |{{#switch: {{#time: m}}`
 `   |1=`

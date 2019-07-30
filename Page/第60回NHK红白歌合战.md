@@ -20,20 +20,15 @@
   - 11月23日 - 出場歌手發表
       - 紅白各選出25組、合計50組。
   - 11月27日 - 發表綜合主持人
-  - 12月1日 -
-    官方網站提供[播客](../Page/播客.md "wikilink")迷你節目『水樹奈奈的紅白「歌曲的力量∞無限大」\!\!\!』
+  - 12月1日 - 官方網站提供[播客](../Page/播客.md "wikilink")迷你節目『水樹奈奈的紅白「歌曲的力量∞無限大」\!\!\!』
       - 於官方網站提供訂閱迷你節目，播出最新的紅白歌合戰相關消息。每星期二更新，預計一共5集。宣傳大使為紅白數碼應援團的水樹奈奈。
   - 12月20日 - 發表曲目
   - 12月24日 - 放送總局長的循例記者會
-      - 公佈取得所有出場歌手所屬[經紀公司](../Page/經紀公司.md "wikilink")的允許，於2010年[元旦](../Page/元旦.md "wikilink")起自1月11日，在「NHK
-        on
-        Demand」（NHK的[自選影像服務](https://zh.wikipedia.org/wiki/自選影像 "wikilink")）提供付費收看的「漏看節目服務」。此為[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下歌手出席的節目首次獲准於網上被收看。
-      - 公佈[英國歌手](https://zh.wikipedia.org/wiki/英國 "wikilink")[蘇珊·波伊爾](../Page/蘇珊·波伊爾.md "wikilink")（蘇珊大媽）將作為嘉賓演唱，另選出[阿部寬](../Page/阿部寬.md "wikilink")、[勝間和代](https://zh.wikipedia.org/wiki/勝間和代 "wikilink")、[草刈民代](../Page/草刈民代.md "wikilink")、[城田優](../Page/城田優.md "wikilink")、[杉山愛](../Page/杉山愛.md "wikilink")、[西田敏行](../Page/西田敏行.md "wikilink")、[白鵬翔](../Page/白鵬翔.md "wikilink")、[原辰德](https://zh.wikipedia.org/wiki/原辰德 "wikilink")、[深田恭子](../Page/深田恭子.md "wikilink")、[森光子](../Page/森光子.md "wikilink")10人為審查員。同時，過去的主持人中亦選出[堺正章](https://zh.wikipedia.org/wiki/堺正章 "wikilink")、[武田鐵矢](../Page/武田鐵矢.md "wikilink")等以Special
-        Presentor身分出場。
+      - 公佈取得所有出場歌手所屬[經紀公司](../Page/經紀公司.md "wikilink")的允許，於2010年[元旦](../Page/元旦.md "wikilink")起自1月11日，在「NHK on Demand」（NHK的[自選影像服務](https://zh.wikipedia.org/wiki/自選影像 "wikilink")）提供付費收看的「漏看節目服務」。此為[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下歌手出席的節目首次獲准於網上被收看。
+      - 公佈[英國歌手](https://zh.wikipedia.org/wiki/英國 "wikilink")[蘇珊·波伊爾](../Page/蘇珊·波伊爾.md "wikilink")（蘇珊大媽）將作為嘉賓演唱，另選出[阿部寬](../Page/阿部寬.md "wikilink")、[勝間和代](https://zh.wikipedia.org/wiki/勝間和代 "wikilink")、[草刈民代](../Page/草刈民代.md "wikilink")、[城田優](../Page/城田優.md "wikilink")、[杉山愛](../Page/杉山愛.md "wikilink")、[西田敏行](../Page/西田敏行.md "wikilink")、[白鵬翔](../Page/白鵬翔.md "wikilink")、[原辰德](https://zh.wikipedia.org/wiki/原辰德 "wikilink")、[深田恭子](../Page/深田恭子.md "wikilink")、[森光子](../Page/森光子.md "wikilink")10人為審查員。同時，過去的主持人中亦選出[堺正章](https://zh.wikipedia.org/wiki/堺正章 "wikilink")、[武田鐵矢](../Page/武田鐵矢.md "wikilink")等以Special Presentor身分出場。
   - 12月27日 - 發表曲目順序
   - 12月28日 - 開始排練
-  - 12月30日 -
-    節目製作人公佈神秘嘉賓。眾多媒體報導[矢澤永吉將出場](https://zh.wikipedia.org/wiki/矢澤永吉 "wikilink")。
+  - 12月30日 - 節目製作人公佈神秘嘉賓。眾多媒體報導[矢澤永吉將出場](https://zh.wikipedia.org/wiki/矢澤永吉 "wikilink")。
   - 12月31日 - 紅白歌會正式開始，最終白組獲得優勝。
 
 ## 工作人員
@@ -43,8 +38,7 @@
   - 總主持人：[阿部涉](../Page/阿部涉.md "wikilink")（[NHK主播](../Page/NHK新聞.md "wikilink")）
   - 電台直播主持人：山田康弘（NHK主播）、神田愛花（NHK主播）
   - 外景主持人：久保田祐佳（NHK主播）
-  - 樂隊：[三原綱木與New](https://zh.wikipedia.org/wiki/三原綱木 "wikilink")
-    Breed、[東京放送管弦樂團](https://zh.wikipedia.org/wiki/東京放送管弦樂團 "wikilink")
+  - 樂隊：[三原綱木與New](https://zh.wikipedia.org/wiki/三原綱木 "wikilink") Breed、[東京放送管弦樂團](https://zh.wikipedia.org/wiki/東京放送管弦樂團 "wikilink")
   - 審查員：[阿部寬](../Page/阿部寬.md "wikilink")、[勝間和代](https://zh.wikipedia.org/wiki/勝間和代 "wikilink")、[草刈民代](../Page/草刈民代.md "wikilink")、[城田優](../Page/城田優.md "wikilink")、[杉山愛](../Page/杉山愛.md "wikilink")、[西田敏行](../Page/西田敏行.md "wikilink")、[白鵬翔](../Page/白鵬翔.md "wikilink")、[原辰德](https://zh.wikipedia.org/wiki/原辰德 "wikilink")、[深田恭子](../Page/深田恭子.md "wikilink")、[森光子](../Page/森光子.md "wikilink")
 
 ## 出场歌手
@@ -216,9 +210,4 @@
 
   - [緯來日本台-第60屆紅白歌唱大賽](http://japan.videoland.com.tw/channel/r_w60/default.asp)
 
-
-[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink")
-[Category:2009年音樂](https://zh.wikipedia.org/wiki/Category:2009年音樂 "wikilink")
-[Category:2009年日本電視節目](https://zh.wikipedia.org/wiki/Category:2009年日本電視節目 "wikilink")
-[Category:仲間由紀惠](https://zh.wikipedia.org/wiki/Category:仲間由紀惠 "wikilink")
-[Category:中居正广所主持电视节目](https://zh.wikipedia.org/wiki/Category:中居正广所主持电视节目 "wikilink")
+[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink") [Category:2009年音樂](https://zh.wikipedia.org/wiki/Category:2009年音樂 "wikilink") [Category:2009年日本電視節目](https://zh.wikipedia.org/wiki/Category:2009年日本電視節目 "wikilink") [Category:仲間由紀惠](https://zh.wikipedia.org/wiki/Category:仲間由紀惠 "wikilink") [Category:中居正广所主持电视节目](https://zh.wikipedia.org/wiki/Category:中居正广所主持电视节目 "wikilink")

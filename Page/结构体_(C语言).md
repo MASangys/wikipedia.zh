@@ -1,6 +1,4 @@
-在[C语言中](https://zh.wikipedia.org/wiki/C语言 "wikilink")，**结构体**（struct）指的是一种[数据结构](../Page/数据结构.md "wikilink")，是C语言中[复合数据类型](../Page/複合型別.md "wikilink")（aggregate
-data
-type）的一类。结构体可以被声明为[变量](https://zh.wikipedia.org/wiki/变量 "wikilink")、[指针或](../Page/指標_\(電腦科學\).md "wikilink")[数组等](../Page/数组.md "wikilink")，用以实现较复杂的数据结构。结构体同时也是一些元素的集合，这些元素称为结构体的成员（member），且这些成员可以为不同的类型，成员一般用名字访问。
+在[C语言中](https://zh.wikipedia.org/wiki/C语言 "wikilink")，**结构体**（struct）指的是一种[数据结构](../Page/数据结构.md "wikilink")，是C语言中[复合数据类型](../Page/複合型別.md "wikilink")（aggregate data type）的一类。结构体可以被声明为[变量](https://zh.wikipedia.org/wiki/变量 "wikilink")、[指针或](../Page/指標_\(電腦科學\).md "wikilink")[数组](../Page/数组.md "wikilink")等，用以实现较复杂的数据结构。结构体同时也是一些元素的集合，这些元素称为结构体的成员（member），且这些成员可以为不同的类型，成员一般用名字访问。
 
 ## 定义与声明
 
@@ -151,5 +149,4 @@ int offset_b = offsetof( struct SIMPLE, b );
 
   -
   -
-[Category:数据结构](https://zh.wikipedia.org/wiki/Category:数据结构 "wikilink")
-[Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink")
+[Category:数据结构](https://zh.wikipedia.org/wiki/Category:数据结构 "wikilink") [Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink")

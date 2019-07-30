@@ -1,7 +1,4 @@
-**Secret**（）是韓國[TS娛樂公司在](../Page/TS娛樂.md "wikilink")2009年所推出的四人女子團體，成員包括[全烋星](../Page/全烋星.md "wikilink")、[宋枝恩](../Page/宋枝恩.md "wikilink")、[鄭河娜](../Page/鄭河娜.md "wikilink")、[韓善伙](../Page/韓善伙.md "wikilink")。
-2009年10月13日推出首張數位單曲《I Want You Back》，10月15日於[M\!
-Countdown正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。團體名稱**Secret**名字寓意為秘密之意，意味著這個團體希望將不能公開的秘密帶給大家。**Secret**的官方應援顏色為黃色，歌迷的官方名稱為「Secret
-Time」。2016年10月13日，[韓善伙與TS娛樂的合約到期後不續約](../Page/韓善伙.md "wikilink")，2018年，[宋枝恩在社群網站宣布已與公司解約並退出](../Page/宋枝恩.md "wikilink")[Secret](../Page/Secret_\(組合\).md "wikilink")，[全烋星也向首爾西部地方法院對TS娛樂提出合約無效訴訟](../Page/全烋星.md "wikilink")。\[1\]
+**Secret**（）是韓國[TS娛樂](../Page/TS娛樂.md "wikilink")公司在2009年所推出的四人女子團體，成員包括[全烋星](../Page/全烋星.md "wikilink")、[宋枝恩](../Page/宋枝恩.md "wikilink")、[鄭河娜](../Page/鄭河娜.md "wikilink")、[韓善伙](../Page/韓善伙.md "wikilink")。 2009年10月13日推出首張數位單曲《I Want You Back》，10月15日於[M\! Countdown正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。團體名稱**Secret**名字寓意為秘密之意，意味著這個團體希望將不能公開的秘密帶給大家。**Secret**的官方應援顏色為黃色，歌迷的官方名稱為「Secret Time」。2016年10月13日，[韓善伙](../Page/韓善伙.md "wikilink")與TS娛樂的合約到期後不續約，2018年，[宋枝恩](../Page/宋枝恩.md "wikilink")在社群網站宣布已與公司解約並退出[Secret](../Page/Secret_\(組合\).md "wikilink")，[全烋星](../Page/全烋星.md "wikilink")也向首爾西部地方法院對TS娛樂提出合約無效訴訟。\[1\]
 
 ## 成員資料
 
@@ -17,10 +14,7 @@ Time」。2016年10月13日，[韓善伙與TS娛樂的合約到期後不續約](
 
 ### 成員變遷史
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2009 till:2018 TimeAxis =
-orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2009 till:2018 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -58,12 +52,11 @@ PlotData =
 
 ### 2009年
 
-  - 10月13日發行首張韓語數位單曲《I Want You Back》。10月15日在音樂節目[M\!
-    Countdown進行首場出道演出](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
+  - 10月13日發行首張韓語數位單曲《I Want You Back》。10月15日在音樂節目[M\! Countdown進行首場出道演出](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
 
 ### 2010年
 
-  - 1月4日參與電視劇[學習之神OST](../Page/學習之神.md "wikilink")《Friends》的錄製。
+  - 1月4日參與電視劇[學習之神](../Page/學習之神.md "wikilink")OST《Friends》的錄製。
   - 4月1日推出首張韓語迷你專輯《Secret Time》主打曲為《Magic》。
   - 8月12日推出第二張韓語迷你專輯《Madonna》。
 
@@ -97,16 +90,15 @@ PlotData =
 ### 2014年
 
   - 2月5日發行日文第四張單曲《I Do I Do》 。
-  - 8月11日推出第五張韓語迷你專輯《Secret Summer》\[7\]，並以《I'm In
-    Love》為主打曲進行宣傳活動，主打曲為Secret首次跟作曲家[二段横踢合作打造的作品](../Page/二段横踢.md "wikilink")。
+  - 8月11日推出第五張韓語迷你專輯《Secret Summer》\[7\]，並以《I'm In Love》為主打曲進行宣傳活動，主打曲為Secret首次跟作曲家[二段横踢](../Page/二段横踢.md "wikilink")合作打造的作品。
 
 ### 2016年
 
-  - 10月13日，[韓善伙與](../Page/韓善伙.md "wikilink")[TS娛樂結束合約關係並退出Secret](../Page/TS娛樂.md "wikilink")，而已完成續約的Secret成員[全烋星](../Page/全烋星.md "wikilink")、[宋枝恩和](../Page/宋枝恩.md "wikilink")[鄭河娜以三人女團的形式繼續活動](../Page/鄭河娜.md "wikilink")。\[8\]
+  - 10月13日，[韓善伙](../Page/韓善伙.md "wikilink")與[TS娛樂](../Page/TS娛樂.md "wikilink")結束合約關係並退出Secret，而已完成續約的Secret成員[全烋星](../Page/全烋星.md "wikilink")、[宋枝恩](../Page/宋枝恩.md "wikilink")和[鄭河娜](../Page/鄭河娜.md "wikilink")以三人女團的形式繼續活動。\[8\]
 
 ### 2018年
 
-  - 2月28日，[宋枝恩在個人](../Page/宋枝恩.md "wikilink")[Instagram宣布已與TS娛樂解約並退出Secret](../Page/Instagram.md "wikilink")，往後開始以個人身分活動。\[9\]
+  - 2月28日，[宋枝恩](../Page/宋枝恩.md "wikilink")在個人[Instagram](../Page/Instagram.md "wikilink")宣布已與TS娛樂解約並退出Secret，往後開始以個人身分活動。\[9\]
 
 ## 音樂作品
 
@@ -451,7 +443,7 @@ PlotData =
 | KBS                                                     | [貓來了](../Page/貓來了.md "wikilink")                              | 烋星                                                                | 韓秀梨   |        |       |
 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")     | [不要戀愛要結婚](../Page/不要戀愛要結婚.md "wikilink")                      | 善伙                                                                | 姜世雅   |        |       |
 | MBC                                                     | [薔薇色戀人們](../Page/薔薇色戀人們.md "wikilink")                        | 白薔薇                                                               |       |        |       |
-| 2015年                                                   | OCN                                                           | [能看見鬼的警察處容2](../Page/能看見鬼的警察處容.md "wikilink")                     | 烋星    | 韓娜英    | 全集    |
+| 2015年                                                   | OCN                                                           | [能看見鬼的警察處容](../Page/能看見鬼的警察處容.md "wikilink")2                     | 烋星    | 韓娜英    | 全集    |
 | tvN                                                     | [超人時代](../Page/超人時代.md "wikilink")                            | 枝恩                                                                | 枝恩    |        |       |
 | Naver tvcast                                            | 初戀不變的法則                                                       | 枝恩                                                                | 李如莉   | 全集     |       |
 | 2015-2016年                                              | KBS1                                                          | [我們家蜜醰子](../Page/我們家蜜罈子.md "wikilink")                            | 枝恩    | 崔波蘭／吳春 | 全集    |
@@ -718,30 +710,19 @@ PlotData =
   - [Secret日本官方網站](http://www.universal-music.co.jp/secret/)
   - [韓國官方粉絲團網站](http://cafe.daum.net/SECRETTIME/)
 
-[\*](https://zh.wikipedia.org/wiki/分類:Secret "wikilink")
-[分類:TS娛樂](https://zh.wikipedia.org/wiki/分類:TS娛樂 "wikilink")
+[\*](https://zh.wikipedia.org/wiki/分類:Secret "wikilink") [分類:TS娛樂](https://zh.wikipedia.org/wiki/分類:TS娛樂 "wikilink")
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
-[Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
 
 1.  [SECRET官方發布韓善伙退團](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSECRET2009%2Fposts%2F1241014239296300)
 2.  原藝名為「Zinger」，鄭하나本名是一個純韓字名字，未有漢字表記，由韓語音譯為「鄭河娜」
-3.  [韓國女團頻傳意外
-    Secret隊長全烋星失足雙腳打石膏](http://tw.twent.chinayes.com/content/20111124/ke0fvbsf46k30.shtml)
-
+3.  [韓國女團頻傳意外 Secret隊長全烋星失足雙腳打石膏](http://tw.twent.chinayes.com/content/20111124/ke0fvbsf46k30.shtml)
 4.  [驚！Secret返家出車禍　Zinger骨折重傷送醫](http://star.ettoday.net/news/138298)
-5.  [Secret公開新輯《Letter from
-    Secret》主打曲《YooHoo》MV](http://www.koreastardaily.com/tc/video/27709)
-6.  [「音樂銀行」Secret「I DO I
-    DO」回歸，「可愛至極」](http://starn.hankyung.com/global/tw/news/index.html?no=259093)
+5.  [Secret公開新輯《Letter from Secret》主打曲《YooHoo》MV](http://www.koreastardaily.com/tc/video/27709)
+6.  [「音樂銀行」Secret「I DO I DO」回歸，「可愛至極」](http://starn.hankyung.com/global/tw/news/index.html?no=259093)
 7.  [Secret性感黑裝現身新專發行記者會](http://www.wownews.tw/article.php?sn=17558)
 8.
 9.  [Secret宋枝恩退團！　深夜證實成功申訴公司「重新開始」](https://star.ettoday.net/news/1121337)
-10. [Secret 的 Zinger 持續休養健康中
-    延遲回歸不出席本屆金唱片](http://tw.twent.chinayes.com/Content/20130114/kh5i347l3m0us.shtml)
-
+10. [Secret 的 Zinger 持續休養健康中 延遲回歸不出席本屆金唱片](http://tw.twent.chinayes.com/Content/20130114/kh5i347l3m0us.shtml)
 11.
 12.

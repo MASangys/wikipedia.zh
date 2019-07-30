@@ -1,5 +1,4 @@
-『**SDN48 1st
-Stage「誘惑的吊襪帶」**』是[SDN48的第](../Page/SDN48.md "wikilink")1台劇場公演。本項亦有2期生公演的記述。
+『**SDN48 1st Stage「誘惑的吊襪帶」**』是[SDN48](../Page/SDN48.md "wikilink")的第1台劇場公演。本項亦有2期生公演的記述。
 
 ## 概要
 
@@ -38,9 +37,7 @@ Stage「誘惑的吊襪帶」**』是[SDN48的第](../Page/SDN48.md "wikilink")1
 1.  《孤獨的跑者》（）
     （作詞：秋元康　作曲：宮島律子　編曲：野中"まさ"雄一）
       -
-        2012年1月舉辦的「AKB48 重溫時間 最佳曲目100
-        2012」是公演曲中得到最高位，亦是SDN48的公演曲中歴代最高位的第3位（公演曲歴代最高位是2009年，AKB48・Team
-        B的『[初日](https://zh.wikipedia.org/wiki/TeamB_3rd_Stage「睡衣兜风」 "wikilink")』第1位）\[1\]
+        2012年1月舉辦的「AKB48 重溫時間 最佳曲目100 2012」是公演曲中得到最高位，亦是SDN48的公演曲中歴代最高位的第3位（公演曲歴代最高位是2009年，AKB48・Team B的『[初日](https://zh.wikipedia.org/wiki/TeamB_3rd_Stage「睡衣兜风」 "wikilink")』第1位）\[1\]
 2.  《逃避行》（）
     （作詞：秋元康、作曲：斉門、編曲：[Funta7](https://zh.wikipedia.org/wiki/Funta "wikilink")）
 3.  《吸血鬼計劃》（）
@@ -48,8 +45,7 @@ Stage「誘惑的吊襪帶」**』是[SDN48的第](../Page/SDN48.md "wikilink")1
 
 ### 演出
 
-  - 最初的3首曲「Saturday night party」參加的成員是白色的服裝，「Never\!」的成員是紅色的服裝，「Black
-    boy」的成員穿藍色的服裝。
+  - 最初的3首曲「Saturday night party」參加的成員是白色的服裝，「Never\!」的成員是紅色的服裝，「Black boy」的成員穿藍色的服裝。
   - 「Best by…」和「為了被愛」每天有三分鐘的視頻。
 
 ## SDN48 1st Stage「誘惑的吊襪帶」公演
@@ -140,14 +136,9 @@ Stage「誘惑的吊襪帶」**』是[SDN48的第](../Page/SDN48.md "wikilink")1
 
 ## 外部連結
 
-  - [SDN48
-    Setlist](https://web.archive.org/web/20111017112036/http://www.sdn48.co.jp/songlist.html)
-  - [「誘惑的吊襪帶」CD、DVD](https://web.archive.org/web/20120603092511/http://www.universal-music.co.jp/sdn48/disco/index7.html)
-    - Universal Music LLC
+  - [SDN48 Setlist](https://web.archive.org/web/20111017112036/http://www.sdn48.co.jp/songlist.html)
+  - [「誘惑的吊襪帶」CD、DVD](https://web.archive.org/web/20120603092511/http://www.universal-music.co.jp/sdn48/disco/index7.html) - Universal Music LLC
 
-[Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink")
-[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
+[Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink") [Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
 
-1.  [SDN48涙「孤独なランナー」が有終3位](http://www.sanspo.com/akb48/news/120122/akc1201222023007-n1.htm)
-     -
-    [サンケイスポーツ](https://zh.wikipedia.org/wiki/サンケイスポーツ "wikilink")（2012年1月22日）
+1.  [SDN48涙「孤独なランナー」が有終3位](http://www.sanspo.com/akb48/news/120122/akc1201222023007-n1.htm)  - [サンケイスポーツ](https://zh.wikipedia.org/wiki/サンケイスポーツ "wikilink")（2012年1月22日）

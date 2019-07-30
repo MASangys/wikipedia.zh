@@ -16,5 +16,4 @@
 10. **給你的敘事聲樂曲**(君へのバラード)
 11. **那樣的東西**(そんなもんさ)
 
-[Category:TUBE音樂專輯](https://zh.wikipedia.org/wiki/Category:TUBE音樂專輯 "wikilink")
-[Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink")
+[Category:TUBE音樂專輯](https://zh.wikipedia.org/wiki/Category:TUBE音樂專輯 "wikilink") [Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink")

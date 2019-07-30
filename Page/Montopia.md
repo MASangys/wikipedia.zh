@@ -1,5 +1,4 @@
-《**Montopia**》是由社交遊戲公司[Zynga於](../Page/Zynga.md "wikilink")2012年2月21日在[智能手機平台上推出的一款怪物養成遊戲](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。遊戲採用了《[寵物小精靈](https://zh.wikipedia.org/wiki/寵物小精靈 "wikilink")》「育成、合成、超進化」的傳統概念，在正式推出以前就引起廣大神奇寶貝迷的注意，其後陸續登陸[Android平台](../Page/Android.md "wikilink")、日本[App
-Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")，更瞬間風靡日本、台灣、香港等地。
+《**Montopia**》是由社交遊戲公司[Zynga](../Page/Zynga.md "wikilink")於2012年2月21日在[智能手機平台上推出的一款怪物養成遊戲](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。遊戲採用了《[寵物小精靈](https://zh.wikipedia.org/wiki/寵物小精靈 "wikilink")》「育成、合成、超進化」的傳統概念，在正式推出以前就引起廣大神奇寶貝迷的注意，其後陸續登陸[Android](../Page/Android.md "wikilink")平台、日本[App Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")，更瞬間風靡日本、台灣、香港等地。
 
 ## 故事背景
 
@@ -22,7 +21,4 @@ Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")，更瞬間風靡日�
 
   - [Montopia官方網站](http://www.zynga.co.jp/service/montopia.html)
 
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:虛擬寵物](https://zh.wikipedia.org/wiki/Category:虛擬寵物 "wikilink")
+[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:虛擬寵物](https://zh.wikipedia.org/wiki/Category:虛擬寵物 "wikilink")

@@ -1,4 +1,4 @@
-**SPACE CRAFT**（）是日本的[模特兒事務所以及以此為中心的藝能事務所團體](../Page/模特兒.md "wikilink")。
+**SPACE CRAFT**（）是日本的[模特兒](../Page/模特兒.md "wikilink")事務所以及以此為中心的藝能事務所團體。
 
 ## 所在地
 
@@ -49,12 +49,10 @@
   - [かとうあすか](https://zh.wikipedia.org/wiki/かとうあすか "wikilink")
   - [キャナァーリ倶楽部](https://zh.wikipedia.org/wiki/キャナァーリ倶楽部 "wikilink")
   - [齊藤恒芳](https://zh.wikipedia.org/wiki/齊藤恒芳 "wikilink")
-  - [BON-BON
-    BLANCO](https://zh.wikipedia.org/wiki/BON-BON_BLANCO "wikilink")
+  - [BON-BON BLANCO](https://zh.wikipedia.org/wiki/BON-BON_BLANCO "wikilink")
       - [MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")
       - [サントス・アンナ](https://zh.wikipedia.org/wiki/サントス・アンナ "wikilink")
-  - [FictionJunction
-    YUUKA](../Page/FictionJunction.md "wikilink")（[南里侑香](../Page/南里侑香.md "wikilink")）
+  - [FictionJunction YUUKA](../Page/FictionJunction.md "wikilink")（[南里侑香](../Page/南里侑香.md "wikilink")）
   - [織田かおり](https://zh.wikipedia.org/wiki/織田かおり "wikilink")
   - [結城愛良](../Page/結城愛良.md "wikilink")
   - [尾澤拓實](https://zh.wikipedia.org/wiki/尾澤拓實 "wikilink")
@@ -211,8 +209,7 @@
 
   - [青木裕子](https://zh.wikipedia.org/wiki/青木裕子 "wikilink")
   - [高畑岬](https://zh.wikipedia.org/wiki/高畑岬 "wikilink")
-  - [緒方惠美](../Page/緒方惠美.md "wikilink")（現所属：[JTB
-    ENTERTAINMENT](https://zh.wikipedia.org/wiki/JTB_ENTERTAINMENT "wikilink")）
+  - [緒方惠美](../Page/緒方惠美.md "wikilink")（現所属：[JTB ENTERTAINMENT](https://zh.wikipedia.org/wiki/JTB_ENTERTAINMENT "wikilink")）
 
 ## 外部連結
 
@@ -224,7 +221,4 @@
 
   - [（株）スペースクラフト・プロデュース](http://www.spacecraft.co.jp/produce/)
 
-[Category:SPACE_CRAFT](https://zh.wikipedia.org/wiki/Category:SPACE_CRAFT "wikilink")
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
+[Category:SPACE_CRAFT](https://zh.wikipedia.org/wiki/Category:SPACE_CRAFT "wikilink") [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")

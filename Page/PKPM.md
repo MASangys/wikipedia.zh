@@ -1,5 +1,4 @@
-**PKPM系列软件系统**是[中国建筑科学研究院建研科技股份有限公司设计软件事业部研制的建筑工程设计](https://zh.wikipedia.org/wiki/中国建筑科学研究院 "wikilink")[CAD软件](https://zh.wikipedia.org/wiki/CAD "wikilink")。
-在中国大陆地区有着极为广泛的使用率，甚至成为“电算”“机算”的代名词。与其他类似的软件相比，其优点在于与CAD相近的建模输入方式，上手容易，和中国设计规范紧密结合，所出结果和规范主要指标直接对应。后处理能够画施工图，虽然图面不够成熟，但为设计人员绘制正式施工图提高了不少效率。
+**PKPM系列软件系统**是[中国建筑科学研究院建研科技股份有限公司设计软件事业部研制的建筑工程设计](https://zh.wikipedia.org/wiki/中国建筑科学研究院 "wikilink")[CAD软件](https://zh.wikipedia.org/wiki/CAD "wikilink")。 在中国大陆地区有着极为广泛的使用率，甚至成为“电算”“机算”的代名词。与其他类似的软件相比，其优点在于与CAD相近的建模输入方式，上手容易，和中国设计规范紧密结合，所出结果和规范主要指标直接对应。后处理能够画施工图，虽然图面不够成熟，但为设计人员绘制正式施工图提高了不少效率。
 
 ## 软件系统
 
@@ -12,19 +11,19 @@
       - 弹塑性、动力分析PUSH\&EPDA
       - 高层建筑[动力时程分析TAT](https://zh.wikipedia.org/wiki/动力时程分析 "wikilink")-D
       - 框支[剪力墙FEQ](https://zh.wikipedia.org/wiki/剪力墙 "wikilink")
-      - [楼梯LTCAD](../Page/楼梯.md "wikilink")
+      - [楼梯](../Page/楼梯.md "wikilink")LTCAD
       - 剪力墙结构JLQ
       - 钢筋砼构件GJ
       - [基础设计JCCAD](https://zh.wikipedia.org/wiki/基础 "wikilink")
       - 箱形基础BOX
       - 复杂[楼板SLABCAD](https://zh.wikipedia.org/wiki/楼板 "wikilink")
-      - [钢结构STS](../Page/钢结构.md "wikilink")
+      - [钢结构](../Page/钢结构.md "wikilink")STS
       - 钢结构重型[厂房STPJ](https://zh.wikipedia.org/wiki/厂房 "wikilink")
       - 钢结构详图STXT
       - [预应力砼结构PREC](https://zh.wikipedia.org/wiki/预应力 "wikilink")
-      - [砌体结构QITI](../Page/砌体结构.md "wikilink")
+      - [砌体结构](../Page/砌体结构.md "wikilink")QITI
       - [烟囱CHIMNEY](https://zh.wikipedia.org/wiki/烟囱 "wikilink")
-      - [筒仓SILO](../Page/筒仓.md "wikilink")
+      - [筒仓](../Page/筒仓.md "wikilink")SILO
   - [建筑设计](../Page/建筑设计.md "wikilink")
       - 三维建筑设计APM
       - 建筑设计ABD

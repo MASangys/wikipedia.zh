@@ -1,7 +1,4 @@
-**NBA最佳新秀阵容**（[英语](../Page/英语.md "wikilink")：NBA All-Rookie
-Team）是全美篮球协会（[NBA](../Page/NBA.md "wikilink")）自1962-63赛季开始，每年授予在常规赛中有杰出表现的新秀球员的一种荣誉，由NBA各队的主教练投票（不能投给自队球员）产生。NBA最佳新秀阵容一般由两个五人阵容，第一队和第二队组成。目前，在所有入选NBA最佳新秀阵容的球员中，已有9人在其职业生涯中获得[年度最佳新秀奖](https://zh.wikipedia.org/wiki/NBA最佳新秀 "wikilink")（Rookie
-of the Year
-Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球员 "wikilink")（MVP）两项荣誉，29人入选篮球名人堂。
+**NBA最佳新秀阵容**（[英语](../Page/英语.md "wikilink")：NBA All-Rookie Team）是全美篮球协会（[NBA](../Page/NBA.md "wikilink")）自1962-63赛季开始，每年授予在常规赛中有杰出表现的新秀球员的一种荣誉，由NBA各队的主教练投票（不能投给自队球员）产生。NBA最佳新秀阵容一般由两个五人阵容，第一队和第二队组成。目前，在所有入选NBA最佳新秀阵容的球员中，已有9人在其职业生涯中获得[年度最佳新秀奖](https://zh.wikipedia.org/wiki/NBA最佳新秀 "wikilink")（Rookie of the Year Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球员 "wikilink")（MVP）两项荣誉，29人入选篮球名人堂。
 
 <table>
 <tbody>
@@ -1347,7 +1344,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 <td><p><a href="../Page/特里斯坦·汤普森.md" title="wikilink">特里斯坦·汤普森</a>^</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/科怀·伦纳德" title="wikilink">科怀·伦纳德</a>^ (并列)</p></td>
+<td><p><a href="../Page/科怀·伦纳德.md" title="wikilink">科怀·伦纳德</a>^ (并列)</p></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a> (10)</p></td>
 <td></td>
 </tr>

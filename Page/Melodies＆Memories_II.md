@@ -1,11 +1,9 @@
-『**Melodies & Memories
-II**』（メロディーズ＆メモリーズ・ツー），是[夏之管](../Page/夏之管.md "wikilink")([TUBE](https://zh.wikipedia.org/wiki/TUBE "wikilink"))的第2張的超級情歌名曲精選輯。
+『**Melodies & Memories II**』（メロディーズ＆メモリーズ・ツー），是[夏之管](../Page/夏之管.md "wikilink")([TUBE](https://zh.wikipedia.org/wiki/TUBE "wikilink"))的第2張的超級情歌名曲精選輯。
 
 ## 解説
 
   - 冬天的**夏之管** 給您今年冬天最溫暖的動人情歌『**夏之管超級情歌名曲精選輯II**』。
-  - 「十年後的愛情故事」、「[想變成彩虹](https://zh.wikipedia.org/wiki/想變成彩虹 "wikilink")」、「何處不相逢」、「湘南My
-    Love」等由夏之管歌迷情熱票選，共15首溫暖您心靈深處的超級動人情歌精選專輯『夏之管超級情歌名曲精選輯II』！
+  - 「十年後的愛情故事」、「[想變成彩虹](https://zh.wikipedia.org/wiki/想變成彩虹 "wikilink")」、「何處不相逢」、「湘南My Love」等由夏之管歌迷情熱票選，共15首溫暖您心靈深處的超級動人情歌精選專輯『夏之管超級情歌名曲精選輯II』！
   - 繼7年前首張百萬銷售超級情歌精選輯創下驚人銷售佳績後，讓喜愛夏之管的歌迷們，等待許久的情歌精選輯終於感動登場。
   - 推出後立即登上日本Oricon專輯榜Top 2，並且持續發燒狂賣中。
   - 整張專輯的收錄曲從01.「十年後的愛情故事」開始，變徐徐道出整張專輯如故事般的情歌物語。
@@ -36,10 +34,6 @@ II**』（メロディーズ＆メモリーズ・ツー），是[夏之管](../P
 
 ### DISC2 DVD
 
-1.  **十年後的愛情故事**（十年先のラブ・ストーリー）TUBE Live Around 2001 「Soul Surfin'
-    Crew」的収録。
+1.  **十年後的愛情故事**（十年先のラブ・ストーリー）TUBE Live Around 2001 「Soul Surfin' Crew」的収録。
 
-[Category:TUBE音樂專輯](https://zh.wikipedia.org/wiki/Category:TUBE音樂專輯 "wikilink")
-[Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
-[Category:2001年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:TUBE音樂專輯](https://zh.wikipedia.org/wiki/Category:TUBE音樂專輯 "wikilink") [Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:2001年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon專輯週榜冠軍作品 "wikilink")

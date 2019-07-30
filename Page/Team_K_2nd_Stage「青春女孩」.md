@@ -1,5 +1,4 @@
-**Team K 2nd Stage「青春女孩」**是[AKB48](../Page/AKB48.md "wikilink") Team
-K的第2台剧场公演。本页也记述了AKB48 Team B 1st 以及NMB48 Team N 2nd公演的相关事项。
+**Team K 2nd Stage「青春女孩」**是[AKB48](../Page/AKB48.md "wikilink") Team K的第2台剧场公演。本页也记述了AKB48 Team B 1st 以及NMB48 Team N 2nd公演的相关事项。
 
 ## 概要
 
@@ -173,11 +172,7 @@ AKB48 Team K初次的专属公演。本公演也被用作了AKB48 Team B 1st公�
   - 公演期間：2014年3月8日\[1\] -
   - 出演成员
       -
-        Alicia Chanzia、Cindy Yuvia、Della Delila、Dwi Putri
-        Bonita、Jennifer Hanna、Lidya Maulida Djuhandar、Nadila Cindi
-        Wantari、Natalia、Noella Sisterina、Ratu Vienny Fitrilya、Riskha
-        Fairunissa、Rona Anggreani、Shinta Naomi、Sinka
-        Juliani、Thalia、Viviyona Apriani
+        Alicia Chanzia、Cindy Yuvia、Della Delila、Dwi Putri Bonita、Jennifer Hanna、Lidya Maulida Djuhandar、Nadila Cindi Wantari、Natalia、Noella Sisterina、Ratu Vienny Fitrilya、Riskha Fairunissa、Rona Anggreani、Shinta Naomi、Sinka Juliani、Thalia、Viviyona Apriani
   - 分组曲担当
       - Blue rose（Lidya、Rona、Shinta、Noella）
       - 禁忌的2人（Ratu、Viviyona）
@@ -347,12 +342,9 @@ AKB48 Team K初次的专属公演。本公演也被用作了AKB48 Team B 1st公�
 
   - [专辑](http://www.sonymusic.co.jp/Music/Arch/DF/Akb48/DFCL-1355/)
   - [公演DVD](http://www.sonymusic.co.jp/Music/Arch/DF/Akb48/DFBL-7100/)
-  - [2nd StageTeam
-    K「青春女孩」公演乐曲（AKB48官网）](https://web.archive.org/web/20100521032529/http://www.akb48.co.jp/song/02k.html)
+  - [2nd StageTeam K「青春女孩」公演乐曲（AKB48官网）](https://web.archive.org/web/20100521032529/http://www.akb48.co.jp/song/02k.html)
 
-[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
-[Category:AKB48音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
+[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink") [Category:AKB48音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
 
 1.
 2.

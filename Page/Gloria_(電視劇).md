@@ -1,17 +1,4 @@
-[李天熙](../Page/李天熙.md "wikilink"){{、w}}[徐智碩](https://zh.wikipedia.org/wiki/徐智碩 "wikilink"){{、w}}[蘇怡賢](../Page/蘇怡賢.md "wikilink")
-| slogan = | judges = | voices = | narrated = | theme_music_composer =
-| opentheme = | endtheme = | composer = | country =  | language =
-[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = |
-num_episodes = 50 | list_episodes = | executive_producer = | producer
-= [李台英](../Page/李台英.md "wikilink") | editor = | location = |
-cinematography = | camera = | runtime = 約70分鐘 | company = Sy E\&C |
-distributor = | channel =
-[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-| picture_format = | audio_format = | first_run =  | first_aired =
-| last_aired =  | status = | preceded_by = | followed_by = | related
-= | website = <http://www.imbc.com/broad/tv/drama/gloria/index.html> |
-production_website = }}
-《**Gloria**》（，又譯**榮耀之歌**），為[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2010年7月31日起製播的[韓國電視劇](../Page/韓國電視劇.md "wikilink")。由[裴斗娜](../Page/裴斗娜.md "wikilink")、[李天熙](../Page/李天熙.md "wikilink")、[徐智碩與](https://zh.wikipedia.org/wiki/徐智碩 "wikilink")[蘇怡賢等人主演](../Page/蘇怡賢.md "wikilink")。
+[李天熙](../Page/李天熙.md "wikilink"){{、w}}[徐智碩](https://zh.wikipedia.org/wiki/徐智碩 "wikilink"){{、w}}[蘇怡賢](../Page/蘇怡賢.md "wikilink") | slogan = | judges = | voices = | narrated = | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 50 | list_episodes = | executive_producer = | producer = [李台英](../Page/李台英.md "wikilink") | editor = | location = | cinematography = | camera = | runtime = 約70分鐘 | company = Sy E\&C | distributor = | channel = [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | picture_format = | audio_format = | first_run =  | first_aired =  | last_aired =  | status = | preceded_by = | followed_by = | related = | website = <http://www.imbc.com/broad/tv/drama/gloria/index.html> | production_website = }} 《**Gloria**》（，又譯**榮耀之歌**），為[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2010年7月31日起製播的[韓國電視劇](../Page/韓國電視劇.md "wikilink")。由[裴斗娜](../Page/裴斗娜.md "wikilink")、[李天熙](../Page/李天熙.md "wikilink")、[徐智碩與](https://zh.wikipedia.org/wiki/徐智碩 "wikilink")[蘇怡賢](../Page/蘇怡賢.md "wikilink")等人主演。
 
 ## 演員陣容
 

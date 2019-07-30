@@ -1,14 +1,12 @@
-《**BE WITH
-YOU**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[GLAY的第](../Page/GLAY.md "wikilink")15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1998年11月25日發行。
+《**BE WITH YOU**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[GLAY](../Page/GLAY.md "wikilink")的第15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1998年11月25日發行。
 
 ## 簡介
 
-在前作《[誘惑](../Page/誘惑_\(GLAY單曲\).md "wikilink")》和《[SOUL
-LOVE](../Page/SOUL_LOVE.md "wikilink")》同時發售之後7個月發行這張單曲。
+在前作《[誘惑](../Page/誘惑_\(GLAY單曲\).md "wikilink")》和《[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")》同時發售之後7個月發行這張單曲。
 
 由於編曲方面十分困難，[TAKURO一度打算放棄這首歌](https://zh.wikipedia.org/wiki/TAKURO "wikilink")。但歌曲完成之後，TAKURO多次自信表示這首歌是「自己最高的傑作」。
 
-被用作[常盤貴子](../Page/常盤貴子.md "wikilink")、[佐藤浩市主演的](../Page/佐藤浩市.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[小報急先鋒](https://zh.wikipedia.org/wiki/小報急先鋒 "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。
+被用作[常盤貴子](../Page/常盤貴子.md "wikilink")、[佐藤浩市](../Page/佐藤浩市.md "wikilink")主演的[富士電視台](../Page/富士電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[小報急先鋒](https://zh.wikipedia.org/wiki/小報急先鋒 "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。
 
 據《[UTABAN](https://zh.wikipedia.org/wiki/UTABAN "wikilink")》（1999年2月9日播放）報導，這首歌在[西日本非常受歡迎](https://zh.wikipedia.org/wiki/西日本 "wikilink")。
 
@@ -35,13 +33,7 @@ LOVE](../Page/SOUL_LOVE.md "wikilink")》同時發售之後7個月發行這張�
 
 ## 參考資料
 
-[Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink")
-[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink")
-[Category:富士水九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士水九劇主題曲 "wikilink")
-[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
-[Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink")
-[Category:1998年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:1998年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink") [Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:富士水九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士水九劇主題曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:1998年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon單曲月榜冠軍作品 "wikilink") [Category:1998年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon單曲週榜冠軍作品 "wikilink")
 
 1.
 2.

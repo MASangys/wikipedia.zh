@@ -1,7 +1,6 @@
-**2006年Oricon單曲週榜冠軍作品列表**列出2006年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2006年Oricon單曲週榜冠軍作品列表**列出2006年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
-全年度共有47首冠軍單曲誕生，其中[KAT-TUN的](../Page/KAT-TUN.md "wikilink")《[Real
-Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
+全年度共有47首冠軍單曲誕生，其中[KAT-TUN](../Page/KAT-TUN.md "wikilink")的《[Real Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 
 ## 冠軍單曲列表
 
@@ -387,5 +386,4 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 
   - [2006年每週公信榜統計數據](https://web.archive.org/web/20160722215737/http://www.musictvprogram.com/oricon2006.html)
 
-[Category:2006年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:2006年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")

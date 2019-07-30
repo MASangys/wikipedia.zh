@@ -1,5 +1,4 @@
-[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**INFP**（内倾/直觉/情感/理解）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")**[治疗者](https://zh.wikipedia.org/wiki/治疗者_\(角色变异\) "wikilink")**，属于[理想者的四种类型之一](https://zh.wikipedia.org/wiki/理想者_\(气质类型\) "wikilink")。\[1\]
+[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg") **INFP**（内倾/直觉/情感/理解）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")**[治疗者](https://zh.wikipedia.org/wiki/治疗者_\(角色变异\) "wikilink")**，属于[理想者的四种类型之一](https://zh.wikipedia.org/wiki/理想者_\(气质类型\) "wikilink")。\[1\]
 
 INFP大概占人口的1%-5%。\[2\]\[3\]
 
@@ -15,8 +14,7 @@ INFP大概占人口的1%-5%。\[2\]\[3\]
 
 ## 特征
 
-[Shakespeare.jpg](https://zh.wikipedia.org/wiki/File:Shakespeare.jpg "fig:Shakespeare.jpg")是个INFP.\[8\]
-但是，根据MBTI伦理应用的指导方针，只有那些参加了类型评估的人能决定他们最适合于哪一型。\[9\]\]\]
+[Shakespeare.jpg](https://zh.wikipedia.org/wiki/File:Shakespeare.jpg "fig:Shakespeare.jpg")是个INFP.\[8\] 但是，根据MBTI伦理应用的指导方针，只有那些参加了类型评估的人能决定他们最适合于哪一型。\[9\]\]\]
 
 ### 类型描述
 
@@ -56,8 +54,7 @@ Te组织、安排环境和想法，好成功达成目标。Te寻求行动、事�
 
 ### 隐藏功能
 
-后来的人格类型研究者（特别是琳达·V·贝伦斯）\[17\]
-在这个降序排列中添加了四个附加功能。这些功能被称为隐藏功能，因为一个人并不自然地倾向于它们，但在压力之下它们也会浮现。对INFP来说，这些隐藏功能是（按次序）：
+后来的人格类型研究者（特别是琳达·V·贝伦斯）\[17\] 在这个降序排列中添加了四个附加功能。这些功能被称为隐藏功能，因为一个人并不自然地倾向于它们，但在压力之下它们也会浮现。对INFP来说，这些隐藏功能是（按次序）：
 
   - **外倾情感（Fe）**：Fe寻找社会上的联系，并用礼貌、体贴、得体的举止营造和谐的沟通。Fe对他人明确（或暗示）的需求作出回应，甚至可能会制造内在自我需求和欲望的冲突来满足别人。.\[18\]
 
@@ -82,11 +79,9 @@ Te组织、安排环境和想法，好成功达成目标。Te寻求行动、事�
 
 ## 外部链接
 
-  - [The Myers & Briggs Foundation: The 16 MBTI
-    Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
+  - [The Myers & Briggs Foundation: The 16 MBTI Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
   - [豆瓣INFP小组](http://www.douban.com/group/INFP/)
-  - [PersonalityDesk: INFP
-    Profile](https://web.archive.org/web/20100316151949/http://www.personalitydesk.com/infp-type-description.php)
+  - [PersonalityDesk: INFP Profile](https://web.archive.org/web/20100316151949/http://www.personalitydesk.com/infp-type-description.php)
 
 [Category:性格分類](https://zh.wikipedia.org/wiki/Category:性格分類 "wikilink")
 

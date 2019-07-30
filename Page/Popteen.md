@@ -1,4 +1,4 @@
-《**Popteen**》是[日本](../Page/日本.md "wikilink")[角川春樹事務所公司於每月](https://zh.wikipedia.org/wiki/角川春樹事務所 "wikilink")1日發行的女性青年時尚雜誌，1980年10月1日創刊，創刊時最初由[角川書店發行](../Page/角川書店.md "wikilink")，曾被[飛鳥新社收購](https://zh.wikipedia.org/wiki/飛鳥新社 "wikilink")、後由角川春樹事務所購得。該雜誌的主要內容是針對於十代女性模特兒。另外，在[香港和](../Page/香港.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，除專賣日語書籍的書店外，在一些書報攤均可找得到。
+《**Popteen**》是[日本](../Page/日本.md "wikilink")[角川春樹事務所公司於每月](https://zh.wikipedia.org/wiki/角川春樹事務所 "wikilink")1日發行的女性青年時尚雜誌，1980年10月1日創刊，創刊時最初由[角川書店](../Page/角川書店.md "wikilink")發行，曾被[飛鳥新社收購](https://zh.wikipedia.org/wiki/飛鳥新社 "wikilink")、後由角川春樹事務所購得。該雜誌的主要內容是針對於十代女性模特兒。另外，在[香港](../Page/香港.md "wikilink")和[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，除專賣日語書籍的書店外，在一些書報攤均可找得到。
 
 ## Popteen模特兒
 
@@ -52,11 +52,4 @@
   - [GAL's POP（Popteen日本官方網站）](http://www.galspop.jp)
   - [Popteen台灣官方網站](https://web.archive.org/web/20080405120857/http://www.spp.com.tw/htm/mag/PTN/index.htm)
 
-
-[Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink")
-[Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink")
-[Category:女性雜誌](https://zh.wikipedia.org/wiki/Category:女性雜誌 "wikilink")
-[Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
-[Category:青年雜誌](https://zh.wikipedia.org/wiki/Category:青年雜誌 "wikilink")
-[Category:1980年建立的出版物](https://zh.wikipedia.org/wiki/Category:1980年建立的出版物 "wikilink")
-[Category:1980年日本建立](https://zh.wikipedia.org/wiki/Category:1980年日本建立 "wikilink")
+[Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink") [Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink") [Category:女性雜誌](https://zh.wikipedia.org/wiki/Category:女性雜誌 "wikilink") [Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink") [Category:青年雜誌](https://zh.wikipedia.org/wiki/Category:青年雜誌 "wikilink") [Category:1980年建立的出版物](https://zh.wikipedia.org/wiki/Category:1980年建立的出版物 "wikilink") [Category:1980年日本建立](https://zh.wikipedia.org/wiki/Category:1980年日本建立 "wikilink")

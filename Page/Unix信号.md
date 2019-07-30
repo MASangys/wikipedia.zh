@@ -21,29 +21,22 @@
 
 ## 与硬件异常的关系
 
-[进程的运行也可能导致硬件异常](https://zh.wikipedia.org/wiki/进程 "wikilink")，例如，将一个数[除以零](../Page/除以零.md "wikilink")，或者出现[TLB不命中](https://zh.wikipedia.org/wiki/TLB "wikilink")。在[类Unix系统中](https://zh.wikipedia.org/wiki/类Unix "wikilink")，这会自动运行[内核](../Page/内核.md "wikilink")的异常处理程序。对于某些异常如[页缺失](https://zh.wikipedia.org/wiki/页缺失_（计算机科学） "wikilink")，内核有足够的信息来处理完并恢复进程的运行。但是对于另外一些异常，内核不能处理而只能通过发送信号把异常交给进程自己处理。例如在[x86架构的](https://zh.wikipedia.org/wiki/x86 "wikilink")[CPU上](https://zh.wikipedia.org/wiki/CPU "wikilink")，如果一个进程尝试将一个数除以零，将会产生*divide
-error*异常，并使内核向出错的进程发送[SIGFPE](../Page/SIGFPE.md "wikilink")信号。相似地，如果一个进程尝试访问[虚拟地址空间以外的内存](https://zh.wikipedia.org/wiki/虚拟地址空间 "wikilink")，内核将向进程发送[SIGSEGV](../Page/SIGSEGV.md "wikilink")信号。异常与信号的具体对应关系在不同的CPU架构上是不同的。
+[进程的运行也可能导致硬件异常](https://zh.wikipedia.org/wiki/进程 "wikilink")，例如，将一个数[除以零](../Page/除以零.md "wikilink")，或者出现[TLB不命中](https://zh.wikipedia.org/wiki/TLB "wikilink")。在[类Unix系统中](https://zh.wikipedia.org/wiki/类Unix "wikilink")，这会自动运行[内核](../Page/内核.md "wikilink")的异常处理程序。对于某些异常如[页缺失](https://zh.wikipedia.org/wiki/页缺失_（计算机科学） "wikilink")，内核有足够的信息来处理完并恢复进程的运行。但是对于另外一些异常，内核不能处理而只能通过发送信号把异常交给进程自己处理。例如在[x86架构的](https://zh.wikipedia.org/wiki/x86 "wikilink")[CPU上](https://zh.wikipedia.org/wiki/CPU "wikilink")，如果一个进程尝试将一个数除以零，将会产生*divide error*异常，并使内核向出错的进程发送[SIGFPE](../Page/SIGFPE.md "wikilink")信号。相似地，如果一个进程尝试访问[虚拟地址空间以外的内存](https://zh.wikipedia.org/wiki/虚拟地址空间 "wikilink")，内核将向进程发送[SIGSEGV](../Page/SIGSEGV.md "wikilink")信号。异常与信号的具体对应关系在不同的CPU架构上是不同的。
 
 ## 信号列表
 
 [单一UNIX规范规定了在](https://zh.wikipedia.org/wiki/单一UNIX规范 "wikilink")`<`[`signal.h`](https://zh.wikipedia.org/wiki/signal.h "wikilink")`>`中定义的信号有：
 
-备注：打星号的部分表示这是X/Open System Interfaces
-(XSI)扩充的部分。使用引号的文字是引用自SUS[1](http://www.opengroup.org/onlinepubs/007904975)。
+备注：打星号的部分表示这是X/Open System Interfaces (XSI)扩充的部分。使用引号的文字是引用自SUS[1](http://www.opengroup.org/onlinepubs/007904975)。
 
 ## 参考文献
 
 ## 外部链接
 
-  - [Introduction to Unix Signals
-    Programming](https://web.archive.org/web/20071101082659/http://users.actcom.co.il/~choo/lupg/tutorials/signals/signals-programming.html#the_what)
-  - [Another Introduction to Unix Signals
-    Programming](http://www.linuxprogrammingblog.com/all-about-linux-signals)
-  - [UNIX and Reliable POSIX
-    Signals](http://www.enderunix.org/docs/signals.pdf) by Baris Simsek
-  - [Signal
-    Handlers](http://www.openbsd.org/papers/opencon04/index.html) by
-    Henning Brauer
+  - [Introduction to Unix Signals Programming](https://web.archive.org/web/20071101082659/http://users.actcom.co.il/~choo/lupg/tutorials/signals/signals-programming.html#the_what)
+  - [Another Introduction to Unix Signals Programming](http://www.linuxprogrammingblog.com/all-about-linux-signals)
+  - [UNIX and Reliable POSIX Signals](http://www.enderunix.org/docs/signals.pdf) by Baris Simsek
+  - [Signal Handlers](http://www.openbsd.org/papers/opencon04/index.html) by Henning Brauer
 
 ## 参见
 
@@ -51,5 +44,4 @@ error*异常，并使内核向出错的进程发送[SIGFPE](../Page/SIGFPE.md "w
 
 {{-}}
 
-[Category:控制流程](https://zh.wikipedia.org/wiki/Category:控制流程 "wikilink")
-[Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
+[Category:控制流程](https://zh.wikipedia.org/wiki/Category:控制流程 "wikilink") [Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")

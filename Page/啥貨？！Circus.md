@@ -40,6 +40,4 @@
 
 </div>
 
-[Category:CIRCUS音樂專輯](https://zh.wikipedia.org/wiki/Category:CIRCUS音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:CIRCUS音樂專輯](https://zh.wikipedia.org/wiki/Category:CIRCUS音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")

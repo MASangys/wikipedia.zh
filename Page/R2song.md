@@ -1,5 +1,4 @@
-《**R2SONG**》是[皇甫惠貞](../Page/皇甫惠貞.md "wikilink")2009年8月18日由LOEN
-Entertainment所發行的首張個人迷你專輯。\[1\]\[2\]
+《**R2SONG**》是[皇甫惠貞](../Page/皇甫惠貞.md "wikilink")2009年8月18日由LOEN Entertainment所發行的首張個人迷你專輯。\[1\]\[2\]
 
 ## 概述
 
@@ -14,8 +13,7 @@ Entertainment所發行的首張個人迷你專輯。\[1\]\[2\]
 
 <!-- end list -->
 
-  - 此次專輯為皇甫加入shimty
-    company後最新力作，製作人為經紀公司社長[沈泰允](../Page/沈泰允.md "wikilink")。
+  - 此次專輯為皇甫加入shimty company後最新力作，製作人為經紀公司社長[沈泰允](../Page/沈泰允.md "wikilink")。
 
 ## 曲目
 
@@ -29,9 +27,7 @@ Entertainment所發行的首張個人迷你專輯。\[1\]\[2\]
 
 ## 參考資料
 
-[Category:皇甫惠貞音樂專輯](https://zh.wikipedia.org/wiki/Category:皇甫惠貞音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
+[Category:皇甫惠貞音樂專輯](https://zh.wikipedia.org/wiki/Category:皇甫惠貞音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
 
 1.
 

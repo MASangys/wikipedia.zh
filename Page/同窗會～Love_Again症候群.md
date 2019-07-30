@@ -2,14 +2,10 @@
 
 ## 登場人物
 
-  - 宮澤朋美 - [黑木瞳](../Page/黑木瞳.md "wikilink")（15歳 -
-    [篠原愛實](../Page/篠原愛實.md "wikilink")）
-  - 杉山浩介 - [高橋克典](https://zh.wikipedia.org/wiki/高橋克典 "wikilink")（15歳 -
-    [出町勇人](https://zh.wikipedia.org/wiki/出町勇人 "wikilink")）
-  - 西川陽子 - [齊藤由貴](../Page/齊藤由貴.md "wikilink")（15歳 -
-    [三浦透子](https://zh.wikipedia.org/wiki/三浦透子 "wikilink")）
-  - 大久保真一 - [三上博史](../Page/三上博史.md "wikilink")（15歳 -
-    [栗田將輝](https://zh.wikipedia.org/wiki/栗田將輝 "wikilink")）
+  - 宮澤朋美 - [黑木瞳](../Page/黑木瞳.md "wikilink")（15歳 - [篠原愛實](../Page/篠原愛實.md "wikilink")）
+  - 杉山浩介 - [高橋克典](https://zh.wikipedia.org/wiki/高橋克典 "wikilink")（15歳 - [出町勇人](https://zh.wikipedia.org/wiki/出町勇人 "wikilink")）
+  - 西川陽子 - [齊藤由貴](../Page/齊藤由貴.md "wikilink")（15歳 - [三浦透子](https://zh.wikipedia.org/wiki/三浦透子 "wikilink")）
+  - 大久保真一 - [三上博史](../Page/三上博史.md "wikilink")（15歳 - [栗田將輝](https://zh.wikipedia.org/wiki/栗田將輝 "wikilink")）
   - 宮澤誠一郎 - [吹越滿](../Page/吹越滿.md "wikilink")
   - 龜村太一 - [六角精兒](https://zh.wikipedia.org/wiki/六角精兒 "wikilink")
   - 福島和彦 - [尾美利徳](https://zh.wikipedia.org/wiki/尾美利徳 "wikilink")
@@ -128,8 +124,7 @@
 
 ## 主題歌
 
-  - 『[ex-lover](https://zh.wikipedia.org/wiki/w:ja:ex-lover "wikilink")』
-    - [阪井步美](https://zh.wikipedia.org/wiki/w:ja:阪井あゆみ "wikilink")
+  - 『[ex-lover](https://zh.wikipedia.org/wiki/w:ja:ex-lover "wikilink")』 - [阪井步美](https://zh.wikipedia.org/wiki/w:ja:阪井あゆみ "wikilink")
 
 ## 關連項目
 
@@ -138,18 +133,9 @@
 
 ## 外部連結
 
-  - [同窗會～Love
-    Again症候群——朝日電視台](https://web.archive.org/web/20100828025246/http://www.tv-asahi.co.jp/dousoukai/)
+  - [同窗會～Love Again症候群——朝日電視台](https://web.archive.org/web/20100828025246/http://www.tv-asahi.co.jp/dousoukai/)
   - [同窗會——緯來日本台](http://japan.videoland.com.tw/channel/dousoukai/)
 
 ## 作品的變遷
 
-[Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink")
-[Category:MMJ電視劇](https://zh.wikipedia.org/wiki/Category:MMJ電視劇 "wikilink")
-[Category:外遇題材電視劇](https://zh.wikipedia.org/wiki/Category:外遇題材電視劇 "wikilink")
-[Category:美亞電視外購劇集](https://zh.wikipedia.org/wiki/Category:美亞電視外購劇集 "wikilink")
-[Category:井上由美子劇本電視劇](https://zh.wikipedia.org/wiki/Category:井上由美子劇本電視劇 "wikilink")
-[Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink")
-[Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink")
+[Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink") [Category:MMJ電視劇](https://zh.wikipedia.org/wiki/Category:MMJ電視劇 "wikilink") [Category:外遇題材電視劇](https://zh.wikipedia.org/wiki/Category:外遇題材電視劇 "wikilink") [Category:美亞電視外購劇集](https://zh.wikipedia.org/wiki/Category:美亞電視外購劇集 "wikilink") [Category:井上由美子劇本電視劇](https://zh.wikipedia.org/wiki/Category:井上由美子劇本電視劇 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink")

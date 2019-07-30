@@ -1,29 +1,8 @@
-**34街-賓州車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IND第八大道線的一個快車](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[曼哈頓](../Page/曼哈頓.md "wikilink")[中城](../Page/曼哈頓中城.md "wikilink")[34街及](https://zh.wikipedia.org/wiki/34街_\(曼哈頓\) "wikilink")[第八大道交界](https://zh.wikipedia.org/wiki/第八大道 "wikilink")，設有[A線](../Page/紐約地鐵A線.md "wikilink")、[E線](../Page/紐約地鐵E線.md "wikilink")（任何時候停站）與[C線](../Page/紐約地鐵C線.md "wikilink")（任何時候停站（深夜除外））列車服務。此站與[賓夕法尼亞車站相鄰](https://zh.wikipedia.org/wiki/賓夕法尼亞車站_\(紐約市\) "wikilink")，是美國很繁忙的鐵路車站，同時也是轉乘[美鐵](../Page/美鐵.md "wikilink")、[新澤西通勤鐵路以及](https://zh.wikipedia.org/wiki/新澤西通勤鐵路 "wikilink")[長島鐵路的車站](../Page/長島鐵路.md "wikilink")。
+**34街-賓州車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IND第八大道線的一個快車](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[曼哈頓](../Page/曼哈頓.md "wikilink")[中城](../Page/曼哈頓中城.md "wikilink")[34街及](https://zh.wikipedia.org/wiki/34街_\(曼哈頓\) "wikilink")[第八大道交界](https://zh.wikipedia.org/wiki/第八大道 "wikilink")，設有[A線](../Page/紐約地鐵A線.md "wikilink")、[E線](../Page/紐約地鐵E線.md "wikilink")（任何時候停站）與[C線](../Page/紐約地鐵C線.md "wikilink")（任何時候停站（深夜除外））列車服務。此站與[賓夕法尼亞車站相鄰](https://zh.wikipedia.org/wiki/賓夕法尼亞車站_\(紐約市\) "wikilink")，是美國很繁忙的鐵路車站，同時也是轉乘[美鐵](../Page/美鐵.md "wikilink")、[新澤西通勤鐵路以及](https://zh.wikipedia.org/wiki/新澤西通勤鐵路 "wikilink")[長島鐵路](../Page/長島鐵路.md "wikilink")的車站。
 
 ## 車站結構
 
-utSTRf\\uextSTR\\utSTRf\\utSTRg\\utSTRg\\
-utSTR2\\uextABZg2\!\~utSTRc3\\utSTR\!\~uextSTRc3\\utSTR\\utSTR\\
-utSTRc1\\uxtABZg+4\!\~uextSTRc1\\uetABZg+4\\utSTR\\utSTR\\
-utSTR+BSr\\utSTR+BSl\\utSTR+BSr\\utSTR+BSl
-utSTR+BSr\\utSTR+BSl\\utSTR+BSr\\utSTR+BSl
-utSTR+BSr\\utSTR+BSl\\utSTR+BSr\\utSTR+BSl
-utSTR+BSr\\utSTR+BSl\\utSTR+BSr\\utSTR+BSl
-utABZg2\\utSTR\!\~utSTRc3\\utSTR\\utSTR
-\\utSTR\!\~utSTRc1\\utABZg+4\\utSTR2\\utABZg2\!\~utSTRc3\\utSTRc3
-\\utSTR\\utABZg2\\utENDEa\!\~utSTRc1\!\~utSTRc3\\utABZg+4\!\~utSTRc1\\utSTR+4
-\\utSTR\\utSTR\!\~utSTRc1\\utABZg+4\!\~utSTRc2\\utABZg3\\utSTR
-\\utSTR\\utSTR\\utABZg+1\\utSTR\!\~utSTRc4\\utSTR
-\\utSTR\\utSTR\\utSTR\\utSTR\\utSTR \\utSTR\\utSTR\\utSTR\\utSTR\\utSTR
-\\utSTR\\utSTR\\utSTR\\utSTR\\utSTR
-\\utSTR\\utSTR\!\~utSTRc2\\utABZg3\!\~utSTRc2\\utSTR3\!\~utSTRc2\\utSTR3
-\\utSTR\\utABZg+1\\utABZg+1\!\~utSTRc4\\utSTR+1\!\~utSTRc4\\utSTRc4
-utSTRf\\utSTRf\\utSTRg\\utSTRg
-utSTR\!\~MFADEf\\utSTR\\utSTR\\utSTR\!\~MFADEf \~\~ \~\~
-\~\~往[23街](https://zh.wikipedia.org/wiki/23街車站_\(IND第八大道線\) "wikilink")
-utSTR\!\~MFADEf\\utSTR\!\~MFADEf \~\~ \~\~
-\~\~往[14街](https://zh.wikipedia.org/wiki/14街車站_\(IND第八大道線\) "wikilink")
-}} }}
+utSTRf\\uextSTR\\utSTRf\\utSTRg\\utSTRg\\ utSTR2\\uextABZg2\!\~utSTRc3\\utSTR\!\~uextSTRc3\\utSTR\\utSTR\\ utSTRc1\\uxtABZg+4\!\~uextSTRc1\\uetABZg+4\\utSTR\\utSTR\\ utSTR+BSr\\utSTR+BSl\\utSTR+BSr\\utSTR+BSl utSTR+BSr\\utSTR+BSl\\utSTR+BSr\\utSTR+BSl utSTR+BSr\\utSTR+BSl\\utSTR+BSr\\utSTR+BSl utSTR+BSr\\utSTR+BSl\\utSTR+BSr\\utSTR+BSl utABZg2\\utSTR\!\~utSTRc3\\utSTR\\utSTR \\utSTR\!\~utSTRc1\\utABZg+4\\utSTR2\\utABZg2\!\~utSTRc3\\utSTRc3 \\utSTR\\utABZg2\\utENDEa\!\~utSTRc1\!\~utSTRc3\\utABZg+4\!\~utSTRc1\\utSTR+4 \\utSTR\\utSTR\!\~utSTRc1\\utABZg+4\!\~utSTRc2\\utABZg3\\utSTR \\utSTR\\utSTR\\utABZg+1\\utSTR\!\~utSTRc4\\utSTR \\utSTR\\utSTR\\utSTR\\utSTR\\utSTR \\utSTR\\utSTR\\utSTR\\utSTR\\utSTR \\utSTR\\utSTR\\utSTR\\utSTR\\utSTR \\utSTR\\utSTR\!\~utSTRc2\\utABZg3\!\~utSTRc2\\utSTR3\!\~utSTRc2\\utSTR3 \\utSTR\\utABZg+1\\utABZg+1\!\~utSTRc4\\utSTR+1\!\~utSTRc4\\utSTRc4 utSTRf\\utSTRf\\utSTRg\\utSTRg utSTR\!\~MFADEf\\utSTR\\utSTR\\utSTR\!\~MFADEf \~\~ \~\~ \~\~往[23街](https://zh.wikipedia.org/wiki/23街車站_\(IND第八大道線\) "wikilink") utSTR\!\~MFADEf\\utSTR\!\~MFADEf \~\~ \~\~ \~\~往[14街](https://zh.wikipedia.org/wiki/14街車站_\(IND第八大道線\) "wikilink") }} }}
 
 <table>
 <tbody>
@@ -86,9 +65,9 @@ utSTR\!\~MFADEf\\utSTR\!\~MFADEf \~\~ \~\~
 
 此地下車站是28個於1932年9月10日啟用的車站之一，是獨立地鐵系統原初路段的一部分，當時擁有現時IND第八大道線由[錢伯斯街至](https://zh.wikipedia.org/wiki/錢伯斯街車站_\(IND第八大道線\) "wikilink")[207街](https://zh.wikipedia.org/wiki/英伍德-207街車站_\(IND第八大道線\) "wikilink")\[1\]\[2\]。
 
-此站設有兩個[側式月台](../Page/側式月台.md "wikilink")、一個[島式月台和四條軌道](../Page/島式月台.md "wikilink")。[IRT東公園道線的](https://zh.wikipedia.org/wiki/IRT東公園道線 "wikilink")[大西洋大道-巴克萊中心和](https://zh.wikipedia.org/wiki/大西洋大道-巴克萊中心車站_\(IRT東公園道線\) "wikilink")[IRT百老匯-第七大道線的](../Page/IRT百老匯-第七大道線.md "wikilink")[34街-賓州車站是紐約地鐵其餘兩個設有這種月台配置的車站](../Page/34街-賓州車站_\(IRT百老匯-第七大道線\).md "wikilink")。
+此站設有兩個[側式月台](../Page/側式月台.md "wikilink")、一個[島式月台](../Page/島式月台.md "wikilink")和四條軌道。[IRT東公園道線的](https://zh.wikipedia.org/wiki/IRT東公園道線 "wikilink")[大西洋大道-巴克萊中心和](https://zh.wikipedia.org/wiki/大西洋大道-巴克萊中心車站_\(IRT東公園道線\) "wikilink")[IRT百老匯-第七大道線](../Page/IRT百老匯-第七大道線.md "wikilink")的[34街-賓州車站是紐約地鐵其餘兩個設有這種月台配置的車站](../Page/34街-賓州車站_\(IRT百老匯-第七大道線\).md "wikilink")。
 
-此站以南有一條額外的軌道，由兩條快車軌道之間的[止衝擋開始](../Page/止衝擋.md "wikilink")，與兩端都設有聯絡線（南端大約位於25街，北端大約位於33街）。此容許更多列車在路線上行走，包括儲車或移走有機械問題的列車以另一方向送回。同時34街亦可作為總站使用\[3\]。
+此站以南有一條額外的軌道，由兩條快車軌道之間的[止衝擋](../Page/止衝擋.md "wikilink")開始，與兩端都設有聯絡線（南端大約位於25街，北端大約位於33街）。此容許更多列車在路線上行走，包括儲車或移走有機械問題的列車以另一方向送回。同時34街亦可作為總站使用\[3\]。
 
 ### 出口
 
@@ -96,7 +75,7 @@ utSTR\!\~MFADEf\\utSTR\!\~MFADEf \~\~ \~\~
 
   - **35街**：這是一個部分時間票務處的入口。每個慢車月台都設有自己的閘機。在慢車月台上設有為月台層出口而設的[全高式閘機](../Page/驗票閘門.md "wikilink")。閘機內設有狹窄的地下道連接月台。北行月台設有兩條街梯連往35街及第八大道的東北角，一條連往東南角。南行月台亦設有兩條街梯連往該路口的西北角，一條連往西南角\[5\]。
 
-  - **34街**：這是一個部分時間票務處入口。每個慢車月台都設有自己的閘機。閘機內設有地下道連接月台，並與閘機外的長島鐵路西城大廳連接。同時亦有一條行人通道提供出站轉乘前往[IRT百老匯-第七大道線的](../Page/IRT百老匯-第七大道線.md "wikilink")[同名車站](../Page/34街-賓州車站_\(IRT百老匯-第七大道線\).md "wikilink")。北行月台各設有一條街梯前往34街及第八大道的東北角和東南角。南行月台亦各設有一條街梯前往該路口的西北角和西南角。此外東南角還設有往北行月台的升降機，與該月台的閘機連接。閘機內設有三部升降機，分別由該月台下降至地下道\[6\]。
+  - **34街**：這是一個部分時間票務處入口。每個慢車月台都設有自己的閘機。閘機內設有地下道連接月台，並與閘機外的長島鐵路西城大廳連接。同時亦有一條行人通道提供出站轉乘前往[IRT百老匯-第七大道線](../Page/IRT百老匯-第七大道線.md "wikilink")的[同名車站](../Page/34街-賓州車站_\(IRT百老匯-第七大道線\).md "wikilink")。北行月台各設有一條街梯前往34街及第八大道的東北角和東南角。南行月台亦各設有一條街梯前往該路口的西北角和西南角。此外東南角還設有往北行月台的升降機，與該月台的閘機連接。閘機內設有三部升降機，分別由該月台下降至地下道\[6\]。
 
   - **33街**：這是24小時入口，兩側都設有票務處，24小時票務處位於北行月台。所有三個月台都設有自己的閘機。連接月台的下通道位於閘機的**外面**。北行慢車月台的閘機連往街梯，與33街及第八大道的東北角連接，同時亦是一條直接行人通道前往賓州車站/麥迪遜廣場花園的地庫。南行慢車月台的閘機連往該路口的西北角，以及一條雙寬花崗岩樓梯前往西南角（位於[詹姆斯·A·法利郵政局大樓外面的一個廣場](https://zh.wikipedia.org/wiki/詹姆斯·A·法利郵政局大樓 "wikilink")）\[7\]。
 
@@ -108,23 +87,17 @@ utSTR\!\~MFADEf\\utSTR\!\~MFADEf \~\~ \~\~
 
   -
   -
-  - nycsubway.org — [由Eric Fischl製作的Garden of Circus
-    Delights藝術品（2001年）](http://www.nycsubway.org/perl/artwork_show?90)
+  - nycsubway.org — [由Eric Fischl製作的Garden of Circus Delights藝術品（2001年）](http://www.nycsubway.org/perl/artwork_show?90)
 
-  - Station Reporter —
-    [A線勒弗茲列車](https://web.archive.org/web/20131030103057/http://www.stationreporter.net/aleff.htm)
+  - Station Reporter — [A線勒弗茲列車](https://web.archive.org/web/20131030103057/http://www.stationreporter.net/aleff.htm)
 
-  - Station Reporter —
-    [A線洛克威列車](https://web.archive.org/web/20150113023917/http://www.stationreporter.net/arock.htm)
+  - Station Reporter — [A線洛克威列車](https://web.archive.org/web/20150113023917/http://www.stationreporter.net/arock.htm)
 
-  - Station Reporter —
-    [C線列車](https://web.archive.org/web/20130313005345/http://www.stationreporter.net/ctrain.htm)
+  - Station Reporter — [C線列車](https://web.archive.org/web/20130313005345/http://www.stationreporter.net/ctrain.htm)
 
-  - Station Reporter —
-    [E線列車](https://web.archive.org/web/20120204051350/http://www.stationreporter.net/etrain.htm)
+  - Station Reporter — [E線列車](https://web.archive.org/web/20120204051350/http://www.stationreporter.net/etrain.htm)
 
-  - MTA交通藝術 — [34街-賓州車站
-    (IND第八大道線)](https://web.archive.org/web/20110606072055/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&station=6&xdev=495)
+  - MTA交通藝術 — [34街-賓州車站 (IND第八大道線)](https://web.archive.org/web/20110606072055/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&station=6&xdev=495)
 
   - [Google地圖街景34街入口](https://maps.google.com/maps?f=q&source=s_q&hl=en&q=W+59th+St,+New+York,+10116&sll=37.0625,-95.677068&sspn=34.450489,76.552734&ie=UTF8&cd=1&geocode=FUsLbgIdvDCX-w&split=0&hq=&hnear=W+59th+St,+New+York&ll=40.752061,-73.993564&spn=0.003852,0.013433&z=17&lci=transit&layer=c&cbll=40.75219,-73.993464&panoid=0HMq6qPA6BA2WQG3t9u2Gw&cbp=12,160.77,,1,3.2)
 
@@ -134,9 +107,7 @@ utSTR\!\~MFADEf\\utSTR\!\~MFADEf \~\~ \~\~
 
   - [Google地圖街景月台](http://www.google.com/maps/@40.75201,-73.9934155,3a,75y,37.93h,82.77t/data=!3m8!1e1!3m6!1s-Z-OmuMp9SrA%2FV6AuJsOFAUI%2FAAAAAAAAOSk%2FfeVDaND3DXMvQpBb_bN_fZPcr6WZBE5twCLIB!2e4!3e11!6s%2F%2Flh3.googleusercontent.com%2F-Z-OmuMp9SrA%2FV6AuJsOFAUI%2FAAAAAAAAOSk%2FfeVDaND3DXMvQpBb_bN_fZPcr6WZBE5twCLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
 
-[Category:IND第八大道線車站](https://zh.wikipedia.org/wiki/Category:IND第八大道線車站 "wikilink")
-[Category:曼哈頓紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:曼哈頓紐約地鐵車站 "wikilink")
-[Category:1932年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1932年啟用的鐵路車站 "wikilink")
+[Category:IND第八大道線車站](https://zh.wikipedia.org/wiki/Category:IND第八大道線車站 "wikilink") [Category:曼哈頓紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:曼哈頓紐約地鐵車站 "wikilink") [Category:1932年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1932年啟用的鐵路車站 "wikilink")
 
 1.
 2.

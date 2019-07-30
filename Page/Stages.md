@@ -1,4 +1,4 @@
-**《Stages》**是香港女歌手[官恩娜第](../Page/官恩娜.md "wikilink")4張個人唱片，於2008年10月24日正式推出發售，全碟共5首歌曲；隨碟附送DVD一片，收錄3個MV。
+**《Stages》**是香港女歌手[官恩娜](../Page/官恩娜.md "wikilink")第4張個人唱片，於2008年10月24日正式推出發售，全碟共5首歌曲；隨碟附送DVD一片，收錄3個MV。
 
 《Stages 特別版》是CD、DVD及USB套裝發售。
 
@@ -37,6 +37,4 @@
   - [千帆](http://www.youtube.com/watch?v=bZyVl3JSgkA/)
   - [慈悲為懷](http://www.youtube.com/watch?v=wKH5aGyw4ow/)
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:官恩娜音樂專輯](https://zh.wikipedia.org/wiki/Category:官恩娜音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:官恩娜音樂專輯](https://zh.wikipedia.org/wiki/Category:官恩娜音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")

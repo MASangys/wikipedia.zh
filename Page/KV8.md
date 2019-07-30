@@ -33,18 +33,17 @@
 </tbody>
 </table>
 
-**KV8**是位在[帝王谷東谷的一座大型陵墓](../Page/帝王谷.md "wikilink")，也就是位在[尼羅河西岸](https://zh.wikipedia.org/wiki/尼羅河 "wikilink")。這座陵墓的埋葬者是[第十九王朝的第四位](https://zh.wikipedia.org/wiki/第十九王朝 "wikilink")[法老](../Page/法老.md "wikilink")「[梅倫普塔](https://zh.wikipedia.org/wiki/梅倫普塔 "wikilink")」（[Merneptah](../Page/麦伦普塔.md "wikilink")）。梅倫普塔是[拉美西斯二世的第十三位兒子](../Page/拉美西斯二世.md "wikilink")。
+**KV8**是位在[帝王谷](../Page/帝王谷.md "wikilink")東谷的一座大型陵墓，也就是位在[尼羅河西岸](https://zh.wikipedia.org/wiki/尼羅河 "wikilink")。這座陵墓的埋葬者是[第十九王朝的第四位](https://zh.wikipedia.org/wiki/第十九王朝 "wikilink")[法老](../Page/法老.md "wikilink")「[梅倫普塔](https://zh.wikipedia.org/wiki/梅倫普塔 "wikilink")」（[Merneptah](../Page/麦伦普塔.md "wikilink")）。梅倫普塔是[拉美西斯二世](../Page/拉美西斯二世.md "wikilink")的第十三位兒子。
 
-KV8恰巧位在[帝王谷東谷的中心地區](../Page/帝王谷.md "wikilink")，南面[拉美西斯二世之墓](../Page/拉美西斯二世.md "wikilink")（[KV7](https://zh.wikipedia.org/wiki/KV7 "wikilink")）和[KV55](https://zh.wikipedia.org/wiki/KV55 "wikilink")，且與[KV9及](https://zh.wikipedia.org/wiki/KV9 "wikilink")[圖坦卡門之墓](https://zh.wikipedia.org/wiki/圖坦卡門 "wikilink")（[KV62](../Page/KV62.md "wikilink")）接近平行。
+KV8恰巧位在[帝王谷](../Page/帝王谷.md "wikilink")東谷的中心地區，南面[拉美西斯二世](../Page/拉美西斯二世.md "wikilink")之墓（[KV7](https://zh.wikipedia.org/wiki/KV7 "wikilink")）和[KV55](https://zh.wikipedia.org/wiki/KV55 "wikilink")，且與[KV9及](https://zh.wikipedia.org/wiki/KV9 "wikilink")[圖坦卡門之墓](https://zh.wikipedia.org/wiki/圖坦卡門 "wikilink")（[KV62](../Page/KV62.md "wikilink")）接近平行。
 
 ## 陵墓內部
 
-**KV8**與其他[拉美西斯二世之子葬在帝王谷的墓穴均位處低窪](../Page/拉美西斯二世.md "wikilink")，因此常受到[水災](https://zh.wikipedia.org/wiki/水災 "wikilink")[山洪的蹂躝](../Page/山崩.md "wikilink")。這種情況導致KV8內有一部份的文物嚴重毀損或不見，無法復原，不過也有一些壁畫和文物仍保存著完整無缺，壁畫顏色也無變更過大，但畫中[藍色和](../Page/藍色.md "wikilink")[綠色區塊已經開始褪色](../Page/綠色.md "wikilink")。
+**KV8**與其他[拉美西斯二世](../Page/拉美西斯二世.md "wikilink")之子葬在帝王谷的墓穴均位處低窪，因此常受到[水災](https://zh.wikipedia.org/wiki/水災 "wikilink")[山洪的蹂躝](../Page/山崩.md "wikilink")。這種情況導致KV8內有一部份的文物嚴重毀損或不見，無法復原，不過也有一些壁畫和文物仍保存著完整無缺，壁畫顏色也無變更過大，但畫中[藍色](../Page/藍色.md "wikilink")和[綠色](../Page/綠色.md "wikilink")區塊已經開始褪色。
 
 ### 結構組成
 
-[Egypt_King's_valley2.jpg](https://zh.wikipedia.org/wiki/File:Egypt_King's_valley2.jpg "fig:Egypt_King's_valley2.jpg")
-[KV8_-_placa_informativa.JPG](https://zh.wikipedia.org/wiki/File:KV8_-_placa_informativa.JPG "fig:KV8_-_placa_informativa.JPG")
+[Egypt_King's_valley2.jpg](https://zh.wikipedia.org/wiki/File:Egypt_King's_valley2.jpg "fig:Egypt_King's_valley2.jpg") [KV8_-_placa_informativa.JPG](https://zh.wikipedia.org/wiki/File:KV8_-_placa_informativa.JPG "fig:KV8_-_placa_informativa.JPG")
 
   - 第一走廊：
 
@@ -106,20 +105,15 @@ KV8恰巧位在[帝王谷東谷的中心地區](../Page/帝王谷.md "wikilink")
 ## 參考文獻
 
   - AAVV - La Valle dei Re - White Star
-  - Busi, Graziella - Nefertiti: l'ultima dimora; il giallo della tomba
-    KV55 - Ananke
-  - Leblanc, Christiane + Siliotti, Alberto - Nefertari e la Valle delle
-    Regine - Giunti
+  - Busi, Graziella - Nefertiti: l'ultima dimora; il giallo della tomba KV55 - Ananke
+  - Leblanc, Christiane + Siliotti, Alberto - Nefertari e la Valle delle Regine - Giunti
   - Jacq, Christian - La Valle dei Re - Mondadori
   - Bongioanni, Alessandro - Luxor e la Valle dei Re - White Star
-  - Siloitti, Alberto - Guida alla Valle dei Re, ai templi e alle
-    necropoli tebane - White Star
-  - Reeves, Nicholas - The complete Valley of the Kings (in inglese) -
-    Thames & Hudson
+  - Siloitti, Alberto - Guida alla Valle dei Re, ai templi e alle necropoli tebane - White Star
+  - Reeves, Nicholas - The complete Valley of the Kings (in inglese) - Thames & Hudson
 
 ## 外部連結
 
   - [KV8的相關簡介](https://web.archive.org/web/20160124015332/http://www.thebanmappingproject.com/sites/browse_tomb_822.html)
 
-[Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink")
-[Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")
+[Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink") [Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")

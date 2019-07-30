@@ -1,16 +1,12 @@
 **JS**是由哥哥[陳忠義](../Page/陳忠義.md "wikilink")（Justin）和妹妹[陳綺萱](../Page/陳綺萱.md "wikilink")（Sophia）組成的音樂組合。
 
-**JS**因參加「MTV新聲卡位戰創作組」獲得第一名而被發掘。Justin負責詞曲創作及和聲合唱，而Sophia則負責主唱和少數歌詞創作。1999年以GOGO
-& MEME名義發行第一張專輯《Say
-Forever》，2004年改以“JS”重新出發，曾在《[薔薇之戀](../Page/薔薇之戀.md "wikilink")》和《[仙劍奇俠傳](https://zh.wikipedia.org/wiki/仙劍奇俠傳 "wikilink")》等電視原聲帶中發表演唱作品。
+**JS**因參加「MTV新聲卡位戰創作組」獲得第一名而被發掘。Justin負責詞曲創作及和聲合唱，而Sophia則負責主唱和少數歌詞創作。1999年以GOGO & MEME名義發行第一張專輯《Say Forever》，2004年改以“JS”重新出發，曾在《[薔薇之戀](../Page/薔薇之戀.md "wikilink")》和《[仙劍奇俠傳](https://zh.wikipedia.org/wiki/仙劍奇俠傳 "wikilink")》等電視原聲帶中發表演唱作品。
 
-2006年3月JS展開其獨立創作之路，成立了音思拜耳音樂工作室（Inspire
-Music）。至今共發行了6張專輯和5張EP，目前會不定期地在[音樂展演空間](https://zh.wikipedia.org/wiki/音樂展演空間 "wikilink")[河岸留言舉辦小型演唱會](https://zh.wikipedia.org/wiki/河岸留言 "wikilink")。
+2006年3月JS展開其獨立創作之路，成立了音思拜耳音樂工作室（Inspire Music）。至今共發行了6張專輯和5張EP，目前會不定期地在[音樂展演空間](https://zh.wikipedia.org/wiki/音樂展演空間 "wikilink")[河岸留言舉辦小型演唱會](https://zh.wikipedia.org/wiki/河岸留言 "wikilink")。
 
 ## 特色
 
-JS的音樂專輯有如當初GOGO &
-MEME時的初衷--向[木匠兄妹看齊一般](https://zh.wikipedia.org/wiki/木匠兄妹 "wikilink")，有別於主流音樂市場的「物語式清流」(**遇見未來**專輯廣告文案)，以哥哥陳忠義的豐富詞曲創作，搭配妹妹陳綺萱的中音域嗓音與歌唱技巧。
+JS的音樂專輯有如當初GOGO & MEME時的初衷--向[木匠兄妹看齊一般](https://zh.wikipedia.org/wiki/木匠兄妹 "wikilink")，有別於主流音樂市場的「物語式清流」(**遇見未來**專輯廣告文案)，以哥哥陳忠義的豐富詞曲創作，搭配妹妹陳綺萱的中音域嗓音與歌唱技巧。
 
 ## 音樂作品
 
@@ -208,8 +204,7 @@ MEME時的初衷--向[木匠兄妹看齊一般](https://zh.wikipedia.org/wiki/�
 
 2012年 6月29日 【Take a chance 傳思演唱會】 @Legacy Taipei
 
-2012年 7月28日 日本獨立歌手AWA「愛の行方-Love Unlimited」Release Party Guest
-Live（渋谷amate raxi）
+2012年 7月28日 日本獨立歌手AWA「愛の行方-Love Unlimited」Release Party Guest Live（渋谷amate raxi）
 
 2012年 8月18日 【夏天的歌】 @河岸留言 Music Cafe
 
@@ -254,9 +249,4 @@ Live（渋谷amate raxi）
   - [陳綺萱新浪微博](http://www.weibo.com/jssophia)
   - [JS寫給別人的歌](https://www.youtube.com/playlist?list=PL43E274BC34FC5E9A)
 
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:屏東人](https://zh.wikipedia.org/wiki/Category:屏東人 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:創作歌手](https://zh.wikipedia.org/wiki/Category:創作歌手 "wikilink")
-[Category:台灣作詞家](https://zh.wikipedia.org/wiki/Category:台灣作詞家 "wikilink")
-[Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink")
+[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:屏東人](https://zh.wikipedia.org/wiki/Category:屏東人 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:創作歌手](https://zh.wikipedia.org/wiki/Category:創作歌手 "wikilink") [Category:台灣作詞家](https://zh.wikipedia.org/wiki/Category:台灣作詞家 "wikilink") [Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink")

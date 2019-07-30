@@ -1,14 +1,8 @@
-《**机动战士GUNDAM 闪光的哈萨威**》（，*Mobile Suit Gundam: Hathaway's
-Flash*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[小说之一](../Page/小说.md "wikilink")，由[富野由悠季主笔创作](../Page/富野由悠季.md "wikilink")，1989年至1990年间由[角川Sneaker文库发表](https://zh.wikipedia.org/wiki/角川Sneaker文库 "wikilink")，全3册。
+《**机动战士GUNDAM 闪光的哈萨威**》（，*Mobile Suit Gundam: Hathaway's Flash*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[小说](../Page/小说.md "wikilink")之一，由[富野由悠季](../Page/富野由悠季.md "wikilink")主笔创作，1989年至1990年间由[角川Sneaker文库发表](https://zh.wikipedia.org/wiki/角川Sneaker文库 "wikilink")，全3册。
 
 ## 概要
 
-本作为1988年动画电影《[機動戰士GUNDAM
-逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")》的平行小说《機動戰士GUNDAM
-逆襲的夏亞 贝托蒂加的子嗣》之续作，而非动画作品的直接延续，所以部分描写与《機動戰士GUNDAM
-逆襲的夏亞》相矛盾。例如《逆襲的夏亞》中被哈萨威殺害的倩在此作歷史中並不存在，同時奎絲的死也變成由哈薩威誤殺所致。在遊戲《[SD
-Gundam GGENERATION
-GENESIS](https://zh.wikipedia.org/wiki/SD_Gundam_GGENERATION_GENESIS "wikilink")》中，為了連貫所有作品，部分劇情會跟小說有所不同。2018年，[萬代宣佈於](../Page/萬代.md "wikilink")2019上映三部曲劇場版。
+本作为1988年动画电影《[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")》的平行小说《機動戰士GUNDAM 逆襲的夏亞 贝托蒂加的子嗣》之续作，而非动画作品的直接延续，所以部分描写与《機動戰士GUNDAM 逆襲的夏亞》相矛盾。例如《逆襲的夏亞》中被哈萨威殺害的倩在此作歷史中並不存在，同時奎絲的死也變成由哈薩威誤殺所致。在遊戲《[SD Gundam GGENERATION GENESIS](https://zh.wikipedia.org/wiki/SD_Gundam_GGENERATION_GENESIS "wikilink")》中，為了連貫所有作品，部分劇情會跟小說有所不同。2018年，[萬代](../Page/萬代.md "wikilink")宣佈於2019上映三部曲劇場版。
 
 ## 故事简介
 
@@ -27,15 +21,14 @@ GENESIS](https://zh.wikipedia.org/wiki/SD_Gundam_GGENERATION_GENESIS "wikilink")
 <!-- end list -->
 
   -
-    在這种局面下，一位聯邦軍的老將軍匿名為庫瓦克·薩爾瓦，建立起秘密反政府組織“馬法狄·納比尤·艾林”（由[蘇丹](https://zh.wikipedia.org/wiki/苏丹语 "wikilink")、[阿拉伯及](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")[古愛爾蘭語合成的名字](../Page/古愛爾蘭語.md "wikilink")），針對聯邦高官展開了暗殺等一系列恐怖活動。聯邦軍內素有聲望的布拉度准將之子哈薩維·諾亞也秘密加入了這一組織，并擔任其實際領袖。
+    在這种局面下，一位聯邦軍的老將軍匿名為庫瓦克·薩爾瓦，建立起秘密反政府組織“馬法狄·納比尤·艾林”（由[蘇丹](https://zh.wikipedia.org/wiki/苏丹语 "wikilink")、[阿拉伯及](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")[古愛爾蘭語](../Page/古愛爾蘭語.md "wikilink")合成的名字），針對聯邦高官展開了暗殺等一系列恐怖活動。聯邦軍內素有聲望的布拉度准將之子哈薩維·諾亞也秘密加入了這一組織，并擔任其實際領袖。
 
 ### 馬法提动乱
 
 U.C.0105年\[2\]
 
   -
-    馬法提策划在地球聯邦政府首腦會議時，暗殺所有的高官閣僚，以阻止聯邦軍制訂不平等的移民法案。哈薩威藉由自己是植物觀察官研究生的身份与諸多閣僚搭乘特權階級的航天飛机回地球，并讓組織的伙伴佯攻航天飛机，然后与金伯利部隊新任司令肯尼斯上校聯手擊退馬法狄，獲取聯邦軍的信任並與肯尼斯結為好友。參觀了金伯利部隊的基地及潘尼洛普后，哈薩威躲過聯邦的監視，与伙伴們會合並取得預先藏好的ΞGUNDAM，駕駛它擊敗了來犯的潘尼洛普。
-    　
+    馬法提策划在地球聯邦政府首腦會議時，暗殺所有的高官閣僚，以阻止聯邦軍制訂不平等的移民法案。哈薩威藉由自己是植物觀察官研究生的身份与諸多閣僚搭乘特權階級的航天飛机回地球，并讓組織的伙伴佯攻航天飛机，然后与金伯利部隊新任司令肯尼斯上校聯手擊退馬法狄，獲取聯邦軍的信任並與肯尼斯結為好友。參觀了金伯利部隊的基地及潘尼洛普后，哈薩威躲過聯邦的監視，与伙伴們會合並取得預先藏好的ΞGUNDAM，駕駛它擊敗了來犯的潘尼洛普。 　
 
 <!-- end list -->
 
@@ -53,8 +46,7 @@ U.C.0105年\[2\]
 ### 主要人物
 
   -
-    本作的主人公，反地球聯邦組織馬法提·納比尤·艾林（マフティー・ナビーユ・エリン，Mafty Navue
-    Erin）的領袖。真實身份是聯邦軍上校布莱德·诺亚的儿子，哈萨威·诺亚(ハサウェイ・ノア)。曾在"逆襲的夏亞"登場過，有著擊破大型MA的戰績。對外宣稱為做植物研究而降落地球，實則作為馬法提進行叛亂活動。認為腐敗至極的聯邦是人類的毒瘤，決定親自拔除而對地球聯邦進行肅清。最後落入肯尼斯所設下的陷阱以致被捕獲並全身重度燒傷，不久後在燒傷稍有復元的情況向下被匆匆槍決。死前遺言是相信未來地球會由身心健全的人來守護，將大義託付給好友肯尼斯後槍決死亡，終年25歲。
+    本作的主人公，反地球聯邦組織馬法提·納比尤·艾林（マフティー・ナビーユ・エリン，Mafty Navue Erin）的領袖。真實身份是聯邦軍上校布莱德·诺亚的儿子，哈萨威·诺亚(ハサウェイ・ノア)。曾在"逆襲的夏亞"登場過，有著擊破大型MA的戰績。對外宣稱為做植物研究而降落地球，實則作為馬法提進行叛亂活動。認為腐敗至極的聯邦是人類的毒瘤，決定親自拔除而對地球聯邦進行肅清。最後落入肯尼斯所設下的陷阱以致被捕獲並全身重度燒傷，不久後在燒傷稍有復元的情況向下被匆匆槍決。死前遺言是相信未來地球會由身心健全的人來守護，將大義託付給好友肯尼斯後槍決死亡，終年25歲。
     在本作中哈薩威捨棄了本名而使用了組織的名字：瑪法提‧納比尤‧艾林。
   -
     本作的女主角，大富翁、大型保险公司的创始人**卡迪亚斯·鲍丁伍登**的情妇。是个有着金色长髮和细腻白皙肌肤的美少女。为了比卡迪亚斯先一步到达位于香港的寓所而搭乘*豪泽恩号*，并在此遇到哈萨威与肯尼斯。预感和直觉敏锐，有着预测未来的不可思议的能力。戰後跟隨退役的肯尼斯一起離開，在飛機上聽完肯尼斯的話後暗嘆戰爭根本還沒結束。
@@ -75,15 +67,12 @@ U.C.0105年\[2\]
 #### 机师
 
   -
-    梅萨1号机
-    的驾驶员。是个性格豪爽的女性。在成员之间与雷蒙德是公认的恋人关系。极力撮合在[艾尔斯岩附近汇合的琪琪和哈萨威](https://zh.wikipedia.org/wiki/艾尔斯岩 "wikilink")，但两人彼此之间的差距无法弥合。在阿德莱德的联邦議会襲撃作战中被雷恩以潘尼洛普击中战死。
+    梅萨1号机 的驾驶员。是个性格豪爽的女性。在成员之间与雷蒙德是公认的恋人关系。极力撮合在[艾尔斯岩附近汇合的琪琪和哈萨威](https://zh.wikipedia.org/wiki/艾尔斯岩 "wikilink")，但两人彼此之间的差距无法弥合。在阿德莱德的联邦議会襲撃作战中被雷恩以潘尼洛普击中战死。
 
 <!-- end list -->
 
   -
-    梅萨2号機的機師。30歳左右男子
-    。為幫助在达沃的塔薩代酒店處於軟禁状態下的哈薩維逃脫而發動的牽製作戰中負責襲擊達沃街道，遭潘尼洛普擊墜，并被俘虜成為人質。之後被初次出撃的Ξ
-    GUNDAM救出，在之後的作戰中依然以機師的身份參加。于阿德萊德聯邦議会襲撃作戰失敗後下落不明。
+    梅萨2号機的機師。30歳左右男子 。為幫助在达沃的塔薩代酒店處於軟禁状態下的哈薩維逃脫而發動的牽製作戰中負責襲擊達沃街道，遭潘尼洛普擊墜，并被俘虜成為人質。之後被初次出撃的Ξ GUNDAM救出，在之後的作戰中依然以機師的身份參加。于阿德萊德聯邦議会襲撃作戰失敗後下落不明。
   -
     梅萨3号機的機師。
   -
@@ -145,8 +134,7 @@ U.C.0105年\[2\]
 <!-- end list -->
 
   -
-    本機整體設計比潘尼洛普更完整，最大差別就是不必穿戴額外的外掛裝備就能飛行與突破大氣圈，由於跟**潘尼洛普**過於相似而被其駕駛員雷恩·艾姆所鄙夷，其認為本機不過是剽竊之作，對於親手擊敗**Ξ
-    GUNDAM**有強烈的執著，可惜雷恩一對一始終打不贏哈薩威。
+    本機整體設計比潘尼洛普更完整，最大差別就是不必穿戴額外的外掛裝備就能飛行與突破大氣圈，由於跟**潘尼洛普**過於相似而被其駕駛員雷恩·艾姆所鄙夷，其認為本機不過是剽竊之作，對於親手擊敗**Ξ GUNDAM**有強烈的執著，可惜雷恩一對一始終打不贏哈薩威。
 
 <!-- end list -->
 
@@ -157,18 +145,14 @@ U.C.0105年\[2\]
 
   - RX-104FF 潘尼洛普/PENELOPE（ペーネロペー）
     聯邦軍的最新銳MS，由[阿納海姆電子社設計](https://zh.wikipedia.org/wiki/阿納海姆電子社 "wikilink")，雖為Ξ高達的原型機但武裝與戰鬥能力幾乎相同，同樣配備強力兵裝精神感應型導彈。機身必須穿戴鵝型外掛裝備並變形才能音速飛行，龐大笨重的設計並不適合在地球作戰，直到裝載米諾夫斯基反重力裝置才解決這個問題，但所消耗的電量與能源比Ξ鋼彈多。雖有高達式的外觀設計但卻無冠高達之名，機體外號「恐龍」。
-    在「ANAHEIM ELECTRONICS GUNDAM HISTORY 2002
-    CALENDAR」中追加卸除鵝型外掛裝備後的輕裝型態，命名為「奧德賽鋼彈」。
-    潘尼洛普原本為第一架搭載精神感應型導彈的機體，然而2014年的OVA（[GUNDAM UC
-    vol.7](../Page/機動戰士GUNDAM_UC.md "wikilink")）中聯邦軍技術人員把剎帝利改修型的浮游炮改修為精神感應型導彈，使剎帝利改修型在時序上取代潘尼洛普成為首部搭載精神感應型導彈的機體，也間接補完本武器的開發基礎。
+    在「ANAHEIM ELECTRONICS GUNDAM HISTORY 2002 CALENDAR」中追加卸除鵝型外掛裝備後的輕裝型態，命名為「奧德賽鋼彈」。
+    潘尼洛普原本為第一架搭載精神感應型導彈的機體，然而2014年的OVA（[GUNDAM UC vol.7](../Page/機動戰士GUNDAM_UC.md "wikilink")）中聯邦軍技術人員把剎帝利改修型的浮游炮改修為精神感應型導彈，使剎帝利改修型在時序上取代潘尼洛普成為首部搭載精神感應型導彈的機體，也間接補完本武器的開發基礎。
 
 <!-- end list -->
 
   - FD-03 古斯塔夫·卡爾/GUSTAV KARL(グスタフ・カール)
     [阿納海姆電子社開發的量產型MS](https://zh.wikipedia.org/wiki/阿納海姆電子社 "wikilink")，雖然是新開發機體，實際上沿用多數傑鋼的武裝，開發時間被設定為0096年。
-    2014年，本機在OVA（[GUNDAM UC
-    vol.7](../Page/機動戰士GUNDAM_UC.md "wikilink")）首次出場，從小說版中為水色系，變成UC7中灰色系。同時以此契機追加設定本機為傑鋼的後繼機體，與z
-    plus系列同為爭奪次期主力量產機，於宇宙世紀0096年早已率先試驗並在北美夏延基地準備參加對付新吉翁軍「袖章軍團」之戰。
+    2014年，本機在OVA（[GUNDAM UC vol.7](../Page/機動戰士GUNDAM_UC.md "wikilink")）首次出場，從小說版中為水色系，變成UC7中灰色系。同時以此契機追加設定本機為傑鋼的後繼機體，與z plus系列同為爭奪次期主力量產機，於宇宙世紀0096年早已率先試驗並在北美夏延基地準備參加對付新吉翁軍「袖章軍團」之戰。
 
 ## 书籍
 
@@ -195,47 +179,28 @@ U.C.0105年\[2\]
 
 ## 登场的游戏作品
 
-  - [SDGUNDAM
-    GGENERATION-F](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION#SD_Gundam_GGENERATION-F "wikilink")
-  - [SDGUNDAM GGENERATION
-    PORTABLE](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION#SD_Gundam_GGENERATION_PORTABLE "wikilink")
-  - [SDGUNDAM GGENERATION
-    SPIRITS](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION#SD_Gundam_GGENERATION_SPIRITS "wikilink")
-  - [SDGUNDAM GGENERATION
-    WARS](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION#SD_Gundam_GGENERATION_WARS "wikilink")
-  - [SDGUNDAM GGENERATION
-    WORLD](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION#SD_Gundam_GGENERATION_WORLD "wikilink")
-  - [SDGUNDAM GGENERATION
-    Genesis](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION#SD_Gundam_GGENERATION_Genesis "wikilink")
-  - [GUNDAM BATTLE
-    UNIVERSE](https://zh.wikipedia.org/wiki/GUNDAM_BATTLE_UNIVERSE "wikilink")
-  - [GUNDAM ASSAULT
-    SURVIVE](https://zh.wikipedia.org/wiki/GUNDAM_ASSAULT_SURVIVE "wikilink")
-  - [機動戰士GUNDAM 基連之野望
-    亞古捷斯的脅威V](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_基連之野望_亞古捷斯的脅威 "wikilink")
-  - [機動戰士GUNDAM
-    新基連之野望](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_新基連之野望 "wikilink")
-  - [SUNRISE WORLD WAR From
-    サンライズ英雄譚](https://zh.wikipedia.org/wiki/サンライズ英雄譚 "wikilink")
-  - [GUNDAM EXTREME
-    VS](https://zh.wikipedia.org/wiki/GUNDAM_EXTREME_VS "wikilink")
-  - [GUNDAM AREA
-    WARS](https://zh.wikipedia.org/wiki/GUNDAM_AREA_WARS "wikilink") (
-    IOS,ANDROID)
-  - [機動戰士GUNDAM Extreme
-    Verses](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Extreme_Verses "wikilink")
-  - [機動戰士GUNDAM Extreme Verses Full
-    Boost](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Extreme_Verses_Full_Boost "wikilink")
-  - [機動戰士GUNDAM Extreme Verses MAXI
-    Boost](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Extreme_Verses_MAXI_Boost "wikilink")
-  - [機動戰士GUNDAM Extreme Verses MAXI Boost
-    ON](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Extreme_Verses_MAXI_Boost_ON "wikilink")
+  - [SDGUNDAM GGENERATION-F](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION#SD_Gundam_GGENERATION-F "wikilink")
+  - [SDGUNDAM GGENERATION PORTABLE](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION#SD_Gundam_GGENERATION_PORTABLE "wikilink")
+  - [SDGUNDAM GGENERATION SPIRITS](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION#SD_Gundam_GGENERATION_SPIRITS "wikilink")
+  - [SDGUNDAM GGENERATION WARS](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION#SD_Gundam_GGENERATION_WARS "wikilink")
+  - [SDGUNDAM GGENERATION WORLD](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION#SD_Gundam_GGENERATION_WORLD "wikilink")
+  - [SDGUNDAM GGENERATION Genesis](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION#SD_Gundam_GGENERATION_Genesis "wikilink")
+  - [GUNDAM BATTLE UNIVERSE](https://zh.wikipedia.org/wiki/GUNDAM_BATTLE_UNIVERSE "wikilink")
+  - [GUNDAM ASSAULT SURVIVE](https://zh.wikipedia.org/wiki/GUNDAM_ASSAULT_SURVIVE "wikilink")
+  - [機動戰士GUNDAM 基連之野望 亞古捷斯的脅威V](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_基連之野望_亞古捷斯的脅威 "wikilink")
+  - [機動戰士GUNDAM 新基連之野望](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_新基連之野望 "wikilink")
+  - [SUNRISE WORLD WAR From サンライズ英雄譚](https://zh.wikipedia.org/wiki/サンライズ英雄譚 "wikilink")
+  - [GUNDAM EXTREME VS](https://zh.wikipedia.org/wiki/GUNDAM_EXTREME_VS "wikilink")
+  - [GUNDAM AREA WARS](https://zh.wikipedia.org/wiki/GUNDAM_AREA_WARS "wikilink") ( IOS,ANDROID)
+  - [機動戰士GUNDAM Extreme Verses](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Extreme_Verses "wikilink")
+  - [機動戰士GUNDAM Extreme Verses Full Boost](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Extreme_Verses_Full_Boost "wikilink")
+  - [機動戰士GUNDAM Extreme Verses MAXI Boost](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Extreme_Verses_MAXI_Boost "wikilink")
+  - [機動戰士GUNDAM Extreme Verses MAXI Boost ON](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Extreme_Verses_MAXI_Boost_ON "wikilink")
   - [超級機器人大戰V](../Page/超級機器人大戰V.md "wikilink")
 
 ## 外部链接
 
-  - [Amazon.jp 機動戦士ガンダム
-    閃光のハサウェイ](http://www.amazon.co.jp/s/ref=nb_ss_b/503-6538187-8184721?__mk_ja_JP=%83J%83%5E%83J%83i&initialSearch=1&url=search-alias%3Dstripbooks&field-keywords=%8B@%93%AE%90%ED%8Em%83K%83%93%83_%83%80+%91M%8C%F5%82%CC%83n%83T%83E%83F%83C&Go.x=10&Go.y=11)
+  - [Amazon.jp 機動戦士ガンダム 閃光のハサウェイ](http://www.amazon.co.jp/s/ref=nb_ss_b/503-6538187-8184721?__mk_ja_JP=%83J%83%5E%83J%83i&initialSearch=1&url=search-alias%3Dstripbooks&field-keywords=%8B@%93%AE%90%ED%8Em%83K%83%93%83_%83%80+%91M%8C%F5%82%CC%83n%83T%83E%83F%83C&Go.x=10&Go.y=11)
 
 ## 另见
 
@@ -253,10 +218,7 @@ U.C.0105年\[2\]
 
 </div>
 
-[Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink")
-[Category:1989年小說](https://zh.wikipedia.org/wiki/Category:1989年小說 "wikilink")
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink")
+[Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink") [Category:1989年小說](https://zh.wikipedia.org/wiki/Category:1989年小說 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink")
 
 1.
 

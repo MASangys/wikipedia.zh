@@ -1,7 +1,6 @@
-**M-V運載火箭**又稱**M-5**或**Mu-5**運載火箭，為[日本研製的](../Page/日本.md "wikilink")[固態燃料火箭](https://zh.wikipedia.org/wiki/固態火箭發動機 "wikilink")，以發射[科學酬載為主](https://zh.wikipedia.org/wiki/科學 "wikilink")，屬於[Mu系列運載火箭](https://zh.wikipedia.org/wiki/Mu系列運載火箭 "wikilink")，[宇宙科學研究所於](https://zh.wikipedia.org/wiki/宇宙科學研究所 "wikilink")1990年代投入165億[日圓研製M](../Page/日圓.md "wikilink")-V運載火箭\[1\]。火箭長30.7公尺，直徑2.5公尺，總重約140公噸，為三節式火箭，可酬載1800公斤的[衛星至](../Page/人造衛星.md "wikilink")250公里的[低地球軌道](https://zh.wikipedia.org/wiki/低地球軌道 "wikilink")。
+**M-V運載火箭**又稱**M-5**或**Mu-5**運載火箭，為[日本](../Page/日本.md "wikilink")研製的[固態燃料火箭](https://zh.wikipedia.org/wiki/固態火箭發動機 "wikilink")，以發射[科學酬載為主](https://zh.wikipedia.org/wiki/科學 "wikilink")，屬於[Mu系列運載火箭](https://zh.wikipedia.org/wiki/Mu系列運載火箭 "wikilink")，[宇宙科學研究所於](https://zh.wikipedia.org/wiki/宇宙科學研究所 "wikilink")1990年代投入165億[日圓](../Page/日圓.md "wikilink")研製M-V運載火箭\[1\]。火箭長30.7公尺，直徑2.5公尺，總重約140公噸，為三節式火箭，可酬載1800公斤的[衛星至](../Page/人造衛星.md "wikilink")250公里的[低地球軌道](https://zh.wikipedia.org/wiki/低地球軌道 "wikilink")。
 
-M-V運載火箭屬於較大型的三節式固態燃料的導彈或火箭中，總重約139公噸，較[美國空軍的](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")[LGM-118A和平守護者飛彈](../Page/LGM-118A和平守護者飛彈.md "wikilink")[洲際彈道飛彈](../Page/洲際彈道飛彈.md "wikilink")(88.5公噸)、[洛克希德·馬丁公司的](https://zh.wikipedia.org/wiki/洛克希德·馬丁 "wikilink")[雅典娜II型運載火箭](https://zh.wikipedia.org/wiki/雅典娜運載火箭 "wikilink")(120.7公噸)及[俄羅斯的R](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")-39
-Rif[潜艇发射弹道导弹](https://zh.wikipedia.org/wiki/潜艇发射弹道导弹 "wikilink")(90公噸)大。而M-V火箭採用了較少見的斜向發射。
+M-V運載火箭屬於較大型的三節式固態燃料的導彈或火箭中，總重約139公噸，較[美國空軍的](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")[LGM-118A和平守護者飛彈](../Page/LGM-118A和平守護者飛彈.md "wikilink")[洲際彈道飛彈](../Page/洲際彈道飛彈.md "wikilink")(88.5公噸)、[洛克希德·馬丁公司的](https://zh.wikipedia.org/wiki/洛克希德·馬丁 "wikilink")[雅典娜II型運載火箭](https://zh.wikipedia.org/wiki/雅典娜運載火箭 "wikilink")(120.7公噸)及[俄羅斯的R](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")-39 Rif[潜艇发射弹道导弹](https://zh.wikipedia.org/wiki/潜艇发射弹道导弹 "wikilink")(90公噸)大。而M-V火箭採用了較少見的斜向發射。
 
 ## 國家安全考量
 
@@ -89,10 +88,7 @@ M-V火箭運載的2號機及9號機原先預定發射[LUNAR-A及](https://zh.wik
 
 ## 相關圖片
 
-<File:M-V> with Astro-E satellite.jpg|M-V四號機搭載Astro-E <File:M-V> with
-ASTRO-E2 on launch pad.jpeg|M-V六號機搭載Astro-E2(進行發射前測試) <File:M-V> with
-ASTRO-E veering off
-course.jpeg|M-V四號機因第一節發生故障，姿態控制系統穩定箭體而繞行螺旋狀軌跡，第二節火箭啟動後，軌跡較為平直
+<File:M-V> with Astro-E satellite.jpg|M-V四號機搭載Astro-E <File:M-V> with ASTRO-E2 on launch pad.jpeg|M-V六號機搭載Astro-E2(進行發射前測試) <File:M-V> with ASTRO-E veering off course.jpeg|M-V四號機因第一節發生故障，姿態控制系統穩定箭體而繞行螺旋狀軌跡，第二節火箭啟動後，軌跡較為平直
 
 ## 參見
 
@@ -110,14 +106,11 @@ course.jpeg|M-V四號機因第一節發生故障，姿態控制系統穩定箭�
 
   - [M-V火箭](https://web.archive.org/web/20050709085839/http://www.isas.jaxa.jp/e/enterp/rockets/vehicles/m-v/index.shtml)(宇宙科學研究院)
   - [先進固態火箭](https://web.archive.org/web/20100104024255/http://www.jaxa.jp/projects/rockets/solid/index_e.html)(宇宙航空研究開發機構)
-  - [M-V](https://web.archive.org/web/20051122111020/http://www.astronautix.com/lvs/mv.htm)(Encyclopedia
-    Astronautica)
+  - [M-V](https://web.archive.org/web/20051122111020/http://www.astronautix.com/lvs/mv.htm)(Encyclopedia Astronautica)
 
 [Category:日本運載火箭](https://zh.wikipedia.org/wiki/Category:日本運載火箭 "wikilink")
 
-1.  総合科学技術会議 第20回宇宙開発利用専門調査会資料
-    [世界におけるロケットの現状](http://www8.cao.go.jp/cstp/tyousakai/cosmo/haihu20/siryo20-1.pdf)
-    - 宇宙航空研究開発機構 / 2004年3月25日
+1.  総合科学技術会議 第20回宇宙開発利用専門調査会資料 [世界におけるロケットの現状](http://www8.cao.go.jp/cstp/tyousakai/cosmo/haihu20/siryo20-1.pdf) - 宇宙航空研究開発機構 / 2004年3月25日
 2.
 3.
 4.

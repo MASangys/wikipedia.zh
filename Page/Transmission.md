@@ -29,10 +29,7 @@
 
 ## 利用
 
-Transmission被众多[Linux发行版](../Page/Linux发行版.md "wikilink")，包括[Ubuntu](../Page/Ubuntu.md "wikilink")、[Mandriva](../Page/Mandriva.md "wikilink")、[Linux
-Mint](../Page/Linux_Mint.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[Puppy
-Linux](../Page/Puppy_Linux.md "wikilink")、[openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")
-选作默认BT下载工具；[Imageshack的服务使用其技术](https://zh.wikipedia.org/wiki/Imageshack "wikilink")。
+Transmission被众多[Linux发行版](../Page/Linux发行版.md "wikilink")，包括[Ubuntu](../Page/Ubuntu.md "wikilink")、[Mandriva](../Page/Mandriva.md "wikilink")、[Linux Mint](../Page/Linux_Mint.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[Puppy Linux](../Page/Puppy_Linux.md "wikilink")、[openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink") 选作默认BT下载工具；[Imageshack的服务使用其技术](https://zh.wikipedia.org/wiki/Imageshack "wikilink")。
 
 ## 参见
 
@@ -44,13 +41,8 @@ Linux](../Page/Puppy_Linux.md "wikilink")、[openSUSE](https://zh.wikipedia.org/
 ## 外部链接
 
   -
-[分类:BitTorrent客戶端](https://zh.wikipedia.org/wiki/分类:BitTorrent客戶端 "wikilink")
-[分类:自由软件](https://zh.wikipedia.org/wiki/分类:自由软件 "wikilink")
-[分类:使用Qt的軟體](https://zh.wikipedia.org/wiki/分类:使用Qt的軟體 "wikilink")
-[分类:Unix软件](https://zh.wikipedia.org/wiki/分类:Unix软件 "wikilink")
+[分类:BitTorrent客戶端](https://zh.wikipedia.org/wiki/分类:BitTorrent客戶端 "wikilink") [分类:自由软件](https://zh.wikipedia.org/wiki/分类:自由软件 "wikilink") [分类:使用Qt的軟體](https://zh.wikipedia.org/wiki/分类:使用Qt的軟體 "wikilink") [分类:Unix软件](https://zh.wikipedia.org/wiki/分类:Unix软件 "wikilink")
 
-[Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink")
-[Category:自由檔案分享軟體](https://zh.wikipedia.org/wiki/Category:自由檔案分享軟體 "wikilink")
-[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
+[Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink") [Category:自由檔案分享軟體](https://zh.wikipedia.org/wiki/Category:自由檔案分享軟體 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
 
 1.

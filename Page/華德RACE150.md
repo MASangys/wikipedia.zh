@@ -1,5 +1,4 @@
-**華德RACE700**，外銷型號為「華德RACE150」（RAC
-RACE150）\[1\]\[2\]，[中華民國車商](../Page/中華民國.md "wikilink")[華德動能科技所生產的一款](../Page/華德動能科技.md "wikilink")[電動](../Page/电动汽车.md "wikilink")[低底盤公車](../Page/特低地台巴士.md "wikilink")，於2018年進行改款。\[3\]
+**華德RACE700**，外銷型號為「華德RACE150」（RAC RACE150）\[1\]\[2\]，[中華民國](../Page/中華民國.md "wikilink")車商[華德動能科技](../Page/華德動能科技.md "wikilink")所生產的一款[電動](../Page/电动汽车.md "wikilink")[低底盤公車](../Page/特低地台巴士.md "wikilink")，於2018年進行改款。\[3\]
 
 ## 規格
 
@@ -44,24 +43,23 @@ RACE150）\[1\]\[2\]，[中華民國車商](../Page/中華民國.md "wikilink")[
 
 ## 概要
 
-該車款在2008年底由[華德動能科技股份有限公司開始進行研發](../Page/華德動能科技.md "wikilink")，並在2009年於臺北縣（今[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")）低碳博覽會中首度亮相，當時也開放民眾免費試乘，2011年時該車款通過[交通部認證](../Page/交通部.md "wikilink")，成為國內首輛獲得國家認證的純電動公車。
+該車款在2008年底由[華德動能科技](../Page/華德動能科技.md "wikilink")股份有限公司開始進行研發，並在2009年於臺北縣（今[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")）低碳博覽會中首度亮相，當時也開放民眾免費試乘，2011年時該車款通過[交通部](../Page/交通部.md "wikilink")認證，成為國內首輛獲得國家認證的純電動公車。
 
-此車款最初為[臺北客運引進](../Page/臺北客運.md "wikilink")2輛，原本規劃行駛於捷運先導公車的**<font color="red">９８１三鶯線先導公車</font>**路線，不過因為當時該路線準備作業尚未完成，所以先暫時行駛於新闢、繞行「[臺北大學特定區](https://zh.wikipedia.org/wiki/臺北大學 "wikilink")」內的**新北市區<font color="red">850</font>**路線，直到2011年12月**<font color="red">９８１三鶯線先導公車</font>**路線正式開通後，才又回到本線行駛，但後來因車況不佳而宣告停用。
+此車款最初為[臺北客運](../Page/臺北客運.md "wikilink")引進2輛，原本規劃行駛於捷運先導公車的**<font color="red">９８１三鶯線先導公車</font>**路線，不過因為當時該路線準備作業尚未完成，所以先暫時行駛於新闢、繞行「[臺北大學特定區](https://zh.wikipedia.org/wiki/臺北大學 "wikilink")」內的**新北市區<font color="red">850</font>**路線，直到2011年12月**<font color="red">９８１三鶯線先導公車</font>**路線正式開通後，才又回到本線行駛，但後來因車況不佳而宣告停用，目前已淘汰。
 
-2012年1月[新竹客運也引進此車款](../Page/新竹客運.md "wikilink")6輛，行駛於[新竹地區](../Page/新竹都會區.md "wikilink")**<font color="red">55</font>**、**<font color="red">56(已停駛)</font>**及**<font color="red">57</font>**兩條免費公車路線。同年3月，該車款出口至[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")\[5\]，也成為世界首輛全車出口的案例。
+2012年1月[新竹客運](../Page/新竹客運.md "wikilink")也引進此車款6輛，行駛於[新竹地區](../Page/新竹都會區.md "wikilink")**<font color="red">55</font>**、**<font color="red">56(已停駛)</font>**及**<font color="red">57</font>**兩條免費公車路線。同年3月，該車款出口至[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")\[5\]，也成為世界首輛全車出口的案例。
 
-2014年，[全航客運亦購入相同車型之電動車](../Page/全航客運.md "wikilink")2輛EAA-602、605，配至於[11路綠能街車做為台中環線街車](../Page/台中市公車11路.md "wikilink")；[南投客運亦購入三輛同型之手排電動車EAA](../Page/南投客運.md "wikilink")-608、609、610行駛日月潭環湖巴士。國慶通運購入華德中型巴士，主要用於私人企業內部接駁路線使用，掛的是遊覽車車牌。
+2014年，[全航客運](../Page/全航客運.md "wikilink")亦購入相同車型之電動車2輛EAA-602、605，配至於[11路綠能街車做為台中環線街車](../Page/台中市公車11路.md "wikilink")；[南投客運](../Page/南投客運.md "wikilink")亦購入三輛同型之手排電動車EAA-608、609、610行駛日月潭環湖巴士。國慶通運購入華德中型巴士，主要用於私人企業內部接駁路線使用，掛的是遊覽車車牌。
 
 2014年分別交貨予[桃園客運](../Page/桃園客運.md "wikilink")18輛中巴、[南台灣客運](https://zh.wikipedia.org/wiki/南台灣客運 "wikilink")9輛大巴、[屏東客運](../Page/屏東客運.md "wikilink")2輛中巴、台中全航客運2輛大巴，及台積電環廠9輛中巴。
 
-2016年[國光客運亦購入三輛同型之手排電動車EAA](../Page/國光客運.md "wikilink")-101\~103。
+2016年[國光客運](../Page/國光客運.md "wikilink")亦購入三輛同型之手排電動車EAA-101\~103。
 
 2018年改款，[欣欣客運](https://zh.wikipedia.org/wiki/欣欣客運 "wikilink")12輛大巴行駛臺北聯營66路線。
 
 ## 圖片集
 
-[File:臺中市公車EAA-602.JPG|全航客運臺中市公車11路](File:臺中市公車EAA-602.JPG%7C全航客運臺中市公車11路)
-[File:高雄客運電動低地板公車122-FV.jpg|高雄客運旗美國道快捷EAA-602](File:高雄客運電動低地板公車122-FV.jpg%7C高雄客運旗美國道快捷EAA-602)
+[File:臺中市公車EAA-602.JPG|全航客運臺中市公車11路](File:臺中市公車EAA-602.JPG%7C全航客運臺中市公車11路) [File:高雄客運電動低地板公車122-FV.jpg|高雄客運旗美國道快捷EAA-602](File:高雄客運電動低地板公車122-FV.jpg%7C高雄客運旗美國道快捷EAA-602)
 
 ## 參考來源
 

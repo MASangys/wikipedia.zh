@@ -1,5 +1,4 @@
-《**ETERNITY ～Love & Songs～**》（曠世情歌 ～Love ＆
-Songs～）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2010年10月13日發行的首張翻唱專輯。
+《**ETERNITY ～Love & Songs～**》（曠世情歌 ～Love ＆ Songs～）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2010年10月13日發行的首張翻唱專輯。
 
 ## 解說
 
@@ -22,8 +21,7 @@ Songs～）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../P
         作詞: 伊藤薫　作曲: 伊藤薫　編曲: COLDFEET
           - 由作為中島美嘉與化學超男子等歌手的製作人而為人熟知的COLDFEET，他所帶來的絕妙JAZZY樂曲。是一首能窺見歌手倖田來未成熟一面的歌曲。
 
-3.  [SWEET
-    MEMORIES](https://zh.wikipedia.org/wiki/玻璃蘋果/SWEET_MEMORIES "wikilink")【[松田聖子](../Page/松田聖子.md "wikilink")／1983年】
+3.  [SWEET MEMORIES](https://zh.wikipedia.org/wiki/玻璃蘋果/SWEET_MEMORIES "wikilink")【[松田聖子](../Page/松田聖子.md "wikilink")／1983年】
 
       -
         作詞：松本隆　作曲：大村雅朗　編曲：Hiroshi Nakamura
@@ -53,13 +51,11 @@ Songs～）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../P
         作詞：吉川晃司　作曲：布袋寅泰　編曲：TAZZ
           - 節奏感十足，且氣勢撼人的，最前衛的電音HIP-HOP編曲，是唯有倖田來未才能呈現的樂音。將男性的歌曲，毫不畏懼地演唱出屬於自己的風格，這點讓人敬佩不已。
 
-8.  [小情歌](https://zh.wikipedia.org/wiki/小情歌 "wikilink")（）
-    【[MONGOL800](../Page/MONGOL800.md "wikilink")／2001年】
+8.  [小情歌](https://zh.wikipedia.org/wiki/小情歌 "wikilink")（） 【[MONGOL800](../Page/MONGOL800.md "wikilink")／2001年】
 
       -
         作詞：キヨサク　作曲：MONGOL800　編曲：渡邊善太郎
-          - 由做為Chara
-            恰拉及KIRINJI的製作人而為人熟知的，渡邊善太郎所帶來的搖滾編曲。與有活力且速度感強的MONGOL800原曲相異，歌曲中傳達出倖田來未特有的溫柔韻味。
+          - 由做為Chara 恰拉及KIRINJI的製作人而為人熟知的，渡邊善太郎所帶來的搖滾編曲。與有活力且速度感強的MONGOL800原曲相異，歌曲中傳達出倖田來未特有的溫柔韻味。
 
 9.  （）【[安全地帶](../Page/安全地帶.md "wikilink")／1983年】
 
@@ -71,13 +67,9 @@ Songs～）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../P
 
       -
         作詞：藤井フミヤ　作曲：大土井裕二　編曲：TANAKA JUN
-          - 改編為溫柔氛圍的Lover
-            Rock風格。正因為編曲單純使得倖田來未的歌聲能打動人心。從歌曲中感受到的溫暖之情，同時讓人感受到倖田來未的人品。
+          - 改編為溫柔氛圍的Lover Rock風格。正因為編曲單純使得倖田來未的歌聲能打動人心。從歌曲中感受到的溫暖之情，同時讓人感受到倖田來未的人品。
 
-11. [Swallowtail Butterfly
-    ～愛之歌～](../Page/Swallowtail_Butterfly_～愛之歌～.md "wikilink")（）【[YEN
-    TOWN
-    BAND](https://zh.wikipedia.org/wiki/YEN_TOWN_BAND "wikilink")／1996年】
+11. [Swallowtail Butterfly ～愛之歌～](../Page/Swallowtail_Butterfly_～愛之歌～.md "wikilink")（）【[YEN TOWN BAND](https://zh.wikipedia.org/wiki/YEN_TOWN_BAND "wikilink")／1996年】
 
       -
         作詞：岩井俊二、CHARA、小林武史　作曲：小林武史　編曲：末光篤、弦一徹
@@ -86,14 +78,11 @@ Songs～）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../P
 12. （）【[山口百恵](https://zh.wikipedia.org/wiki/山口百恵 "wikilink")／1980年】
 
       -
-        作詞：[阿木燿子](../Page/阿木燿子.md "wikilink")　作曲：[宇崎龍童](../Page/宇崎龍童.md "wikilink")　編曲：h-wonder
-        、弦一徹
+        作詞：[阿木燿子](../Page/阿木燿子.md "wikilink")　作曲：[宇崎龍童](../Page/宇崎龍童.md "wikilink")　編曲：h-wonder 、弦一徹
           - 名曲才有的韻味、深度以倖田來未獨特的歌唱力量來表現。飄散著沉穩的成熟氛圍。原曲的作曲者，宇崎龍童也送來了「聽說要翻唱百惠的歌曲，聽過完成的歌曲後，覺得完美唱好了這首歌。萬分感謝。」這樣的評語。
 
 ## 資料來源
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink")
-[Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink") [Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
 
 1.

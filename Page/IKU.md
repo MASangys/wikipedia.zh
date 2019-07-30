@@ -22,11 +22,7 @@
 
 ## 外部連結
 
-  - [GENEON UNIVERSAL OFFICIAL WEB
-    SITE](https://web.archive.org/web/20090306081912/http://www.geneon-ent.co.jp/)
-  - [IKU OFFICIAL WEB
-    SITE](https://web.archive.org/web/20080716011826/http://www.iku.vc/)
+  - [GENEON UNIVERSAL OFFICIAL WEB SITE](https://web.archive.org/web/20090306081912/http://www.geneon-ent.co.jp/)
+  - [IKU OFFICIAL WEB SITE](https://web.archive.org/web/20080716011826/http://www.iku.vc/)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink")

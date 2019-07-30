@@ -90,9 +90,9 @@ C语言中的所有输入和输出都由抽象的字节流来完成，对文件�
 
 ## 相关库
 
-[C++引入了](../Page/C++.md "wikilink")[`iostream`](https://zh.wikipedia.org/wiki/iostream "wikilink")进行输入输出，但仍保留了`stdio.h`的功能。
+[C++](../Page/C++.md "wikilink")引入了[`iostream`](https://zh.wikipedia.org/wiki/iostream "wikilink")进行输入输出，但仍保留了`stdio.h`的功能。
 
-[贝尔实验室开发了Sfio库](../Page/贝尔实验室.md "wikilink")，旨在弥补`stdio.h`在功能、速度和安全性上的不足。\[2\]
+[贝尔实验室](../Page/贝尔实验室.md "wikilink")开发了Sfio库，旨在弥补`stdio.h`在功能、速度和安全性上的不足。\[2\]
 
 ## 参见
 
@@ -106,8 +106,7 @@ C语言中的所有输入和输出都由抽象的字节流来完成，对文件�
 
   - [C语言输入/输出参考手册](http://zh.cppreference.com/w/c/io)
 
-[Category:C标准库头文件](https://zh.wikipedia.org/wiki/Category:C标准库头文件 "wikilink")
-[Category:输入/输出](https://zh.wikipedia.org/wiki/Category:输入/输出 "wikilink")
+[Category:C标准库头文件](https://zh.wikipedia.org/wiki/Category:C标准库头文件 "wikilink") [Category:输入/输出](https://zh.wikipedia.org/wiki/Category:输入/输出 "wikilink")
 
 1.
 2.

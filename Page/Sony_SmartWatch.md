@@ -1,5 +1,4 @@
-**Sony
-SmartWatch**，是[索尼](../Page/索尼.md "wikilink")（Sony）所推出的[穿戴式设备](../Page/可穿戴式電腦.md "wikilink")，可以与绝大部分兼容的[Android手机连接](../Page/Android.md "wikilink")，并显示[Twitter及](../Page/Twitter.md "wikilink")[Facebook消息流](../Page/Facebook.md "wikilink")、[短信](https://zh.wikipedia.org/wiki/短信 "wikilink")、以及其他许多信息。
+**Sony SmartWatch**，是[索尼](../Page/索尼.md "wikilink")（Sony）所推出的[穿戴式设备](../Page/可穿戴式電腦.md "wikilink")，可以与绝大部分兼容的[Android](../Page/Android.md "wikilink")手机连接，并显示[Twitter](../Page/Twitter.md "wikilink")及[Facebook](../Page/Facebook.md "wikilink")消息流、[短信](https://zh.wikipedia.org/wiki/短信 "wikilink")、以及其他许多信息。
 
 ## 規格
 
@@ -20,14 +19,10 @@ SmartWatch**，是[索尼](../Page/索尼.md "wikilink")（Sony）所推出的[�
 ## 相關產品
 
   - Sony SmartWatch 2
-  - [Sony SmartWatch
-    3](https://zh.wikipedia.org/wiki/Sony_SmartWatch_3 "wikilink")
-  - [Sony
-    SmartBand](https://zh.wikipedia.org/wiki/Sony_SmartBand "wikilink")
-  - [Sony SmartBand
-    Talk](https://zh.wikipedia.org/wiki/Sony_SmartBand_Talk "wikilink")
-  - [Sony SmartBand
-    2](https://zh.wikipedia.org/wiki/Sony_SmartBand_2 "wikilink")
+  - [Sony SmartWatch 3](https://zh.wikipedia.org/wiki/Sony_SmartWatch_3 "wikilink")
+  - [Sony SmartBand](https://zh.wikipedia.org/wiki/Sony_SmartBand "wikilink")
+  - [Sony SmartBand Talk](https://zh.wikipedia.org/wiki/Sony_SmartBand_Talk "wikilink")
+  - [Sony SmartBand 2](https://zh.wikipedia.org/wiki/Sony_SmartBand_2 "wikilink")
 
 ## 参考资料
 
@@ -35,6 +30,4 @@ SmartWatch**，是[索尼](../Page/索尼.md "wikilink")（Sony）所推出的[�
 
   - [官方网站](http://www.sonyericsson.com/smartwatch)
 
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:索尼移动通信](https://zh.wikipedia.org/wiki/Category:索尼移动通信 "wikilink")
-[Category:智能手表](https://zh.wikipedia.org/wiki/Category:智能手表 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:索尼移动通信](https://zh.wikipedia.org/wiki/Category:索尼移动通信 "wikilink") [Category:智能手表](https://zh.wikipedia.org/wiki/Category:智能手表 "wikilink")

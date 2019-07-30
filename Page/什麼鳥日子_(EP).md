@@ -1,4 +1,4 @@
-《**什麼鳥日子**》是[韋禮安第二張](../Page/韋禮安.md "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，同時也是電影《[什麼鳥日子](../Page/什麼鳥日子.md "wikilink")》的原聲帶，在2012年1月15日發行。
+《**什麼鳥日子**》是[韋禮安](../Page/韋禮安.md "wikilink")第二張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，同時也是電影《[什麼鳥日子](../Page/什麼鳥日子.md "wikilink")》的原聲帶，在2012年1月15日發行。
 
 ## 曲目
 
@@ -85,6 +85,4 @@
 </tbody>
 </table>
 
-[Category:韋禮安音樂專輯](https://zh.wikipedia.org/wiki/Category:韋禮安音樂專輯 "wikilink")
-[Category:台灣音樂迷你專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂迷你專輯 "wikilink")
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
+[Category:韋禮安音樂專輯](https://zh.wikipedia.org/wiki/Category:韋禮安音樂專輯 "wikilink") [Category:台灣音樂迷你專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂迷你專輯 "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")

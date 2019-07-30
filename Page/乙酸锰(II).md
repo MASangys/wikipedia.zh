@@ -24,8 +24,7 @@
 
 ## 参考资料
 
-[Category:二价锰化合物](https://zh.wikipedia.org/wiki/Category:二价锰化合物 "wikilink")
-[Category:乙酸盐](https://zh.wikipedia.org/wiki/Category:乙酸盐 "wikilink")
+[Category:二价锰化合物](https://zh.wikipedia.org/wiki/Category:二价锰化合物 "wikilink") [Category:乙酸盐](https://zh.wikipedia.org/wiki/Category:乙酸盐 "wikilink")
 
 1.
 2.

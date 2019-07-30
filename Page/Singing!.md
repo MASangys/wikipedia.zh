@@ -1,5 +1,4 @@
-「**Singing\!**」是[放學後TEA
-TIME的第](https://zh.wikipedia.org/wiki/K-ON！輕音部#登場人物 "wikilink")11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年12月7日由[波麗佳音發售](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")\[1\]。
+「**Singing\!**」是[放學後TEA TIME的第](https://zh.wikipedia.org/wiki/K-ON！輕音部#登場人物 "wikilink")11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年12月7日由[波麗佳音發售](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")\[1\]。
 
 ## 概要
 
@@ -7,7 +6,7 @@ TIME的第](https://zh.wikipedia.org/wiki/K-ON！輕音部#登場人物 "wikilin
 
 ### 主要記錄
 
-2011年11月6日的[Oricon公信榜初登場獲得第](../Page/Oricon公信榜.md "wikilink")4位。
+2011年11月6日的[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")初登場獲得第4位。
 
 ## 收錄曲
 
@@ -34,7 +33,6 @@ TIME的第](https://zh.wikipedia.org/wiki/K-ON！輕音部#登場人物 "wikilin
       - [初回限定版](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100001514&DSP_SKHKETSEQ=003)
       - [通常版](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100001514&DSP_SKHKETSEQ=004)
 
-[Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
+[Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
 
 1.

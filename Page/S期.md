@@ -1,9 +1,8 @@
-**S期**是[细胞周期中进行](https://zh.wikipedia.org/wiki/细胞周期 "wikilink")[DNA复制的时期](../Page/DNA复制.md "wikilink")，发生于[G<sub>1</sub>期后](../Page/G1期.md "wikilink")，[G<sub>2</sub>期前](../Page/G2期.md "wikilink")。细致而准确的[DNA复制对于避免可能导致细胞死亡或疾病的遗传变异是必要的](../Page/DNA复制.md "wikilink")，因此[真核生物中调控DNA复制的过程高度保守](../Page/真核生物.md "wikilink")。这使得对模式生物[非洲爪蟾的胚胎和](../Page/非洲爪蟾.md "wikilink")[芽殖酵母S期的研究可以联系到更高等的生物中](https://zh.wikipedia.org/wiki/芽殖酵母 "wikilink")。
+**S期**是[细胞周期中进行](https://zh.wikipedia.org/wiki/细胞周期 "wikilink")[DNA复制](../Page/DNA复制.md "wikilink")的时期，发生于[G<sub>1</sub>期后](../Page/G1期.md "wikilink")，[G<sub>2</sub>期前](../Page/G2期.md "wikilink")。细致而准确的[DNA复制](../Page/DNA复制.md "wikilink")对于避免可能导致细胞死亡或疾病的遗传变异是必要的，因此[真核生物](../Page/真核生物.md "wikilink")中调控DNA复制的过程高度保守。这使得对模式生物[非洲爪蟾](../Page/非洲爪蟾.md "wikilink")的胚胎和[芽殖酵母S期的研究可以联系到更高等的生物中](https://zh.wikipedia.org/wiki/芽殖酵母 "wikilink")。
 
 ## S期调节
 
-是调节[细胞周期的主要检查点之一](https://zh.wikipedia.org/wiki/细胞周期 "wikilink")，根据营养、能量和其它因素的影响，细胞必须决定或完成细胞周期或进入不分裂的[G<sub>0</sub>期](https://zh.wikipedia.org/wiki/G0期 "wikilink")\[1\]。该转换过程由[週期素和](../Page/週期素.md "wikilink")[周期蛋白依赖性激酶调控](../Page/周期蛋白依赖性激酶.md "wikilink")。G1/S周期蛋白会使-活化Cln
-1/2或酵母的Clb5/6以开始S期。该过程包含两个正反馈循环途径以使细胞快速单向进入S期。这种冗余途径并不常见，这会调整循环的输出并导致更快的基因水平进化\[2\]。
+是调节[细胞周期的主要检查点之一](https://zh.wikipedia.org/wiki/细胞周期 "wikilink")，根据营养、能量和其它因素的影响，细胞必须决定或完成细胞周期或进入不分裂的[G<sub>0</sub>期](https://zh.wikipedia.org/wiki/G0期 "wikilink")\[1\]。该转换过程由[週期素](../Page/週期素.md "wikilink")和[周期蛋白依赖性激酶](../Page/周期蛋白依赖性激酶.md "wikilink")调控。G1/S周期蛋白会使-活化Cln 1/2或酵母的Clb5/6以开始S期。该过程包含两个正反馈循环途径以使细胞快速单向进入S期。这种冗余途径并不常见，这会调整循环的输出并导致更快的基因水平进化\[2\]。
 
 ## DNA复制
 

@@ -1,5 +1,4 @@
-**AKINO**（，），本名**川滿·辛迪·愛希信**（，），出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[猶他州](https://zh.wikipedia.org/wiki/猶他州 "wikilink")，[日本女](../Page/日本.md "wikilink")[歌手及樂隊](../Page/歌手.md "wikilink")[bless4成員之一](https://zh.wikipedia.org/wiki/bless4 "wikilink")。事務所為[飛犬及](https://zh.wikipedia.org/wiki/飛犬 "wikilink")[Victor
-Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。她所演唱的是《[創聖的亞庫艾里翁](../Page/創聖的亞庫艾里翁.md "wikilink")》系列主題曲及插曲等等。
+**AKINO**（，），本名**川滿·辛迪·愛希信**（，），出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[猶他州](https://zh.wikipedia.org/wiki/猶他州 "wikilink")，[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")及樂隊[bless4成員之一](https://zh.wikipedia.org/wiki/bless4 "wikilink")。事務所為[飛犬及](https://zh.wikipedia.org/wiki/飛犬 "wikilink")[Victor Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。她所演唱的是《[創聖的亞庫艾里翁](../Page/創聖的亞庫艾里翁.md "wikilink")》系列主題曲及插曲等等。
 
 ## 唱片
 
@@ -141,13 +140,6 @@ Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
   - [bless4官方网站](http://bless4.jp/)
       - [bless4网站内的AKINO个人档案](http://bless4.jp/AKINO_from_bless4.html)
   - [《创圣的亚库艾里翁》唱片专辑](http://www.aquarion.info/goods/cd.html)
-  - [Victor
-    Entertainment网站内的艺人网页](http://www.jvcmusic.co.jp/-/Artist/A019681.html)
+  - [Victor Entertainment网站内的艺人网页](http://www.jvcmusic.co.jp/-/Artist/A019681.html)
 
-
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:动画歌手](https://zh.wikipedia.org/wiki/Category:动画歌手 "wikilink")
-[Category:琉球族歌手](https://zh.wikipedia.org/wiki/Category:琉球族歌手 "wikilink")
-[Category:琉球裔美國人](https://zh.wikipedia.org/wiki/Category:琉球裔美國人 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
-[Category:Flying_DOG旗下藝人](https://zh.wikipedia.org/wiki/Category:Flying_DOG旗下藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:动画歌手](https://zh.wikipedia.org/wiki/Category:动画歌手 "wikilink") [Category:琉球族歌手](https://zh.wikipedia.org/wiki/Category:琉球族歌手 "wikilink") [Category:琉球裔美國人](https://zh.wikipedia.org/wiki/Category:琉球裔美國人 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink") [Category:Flying_DOG旗下藝人](https://zh.wikipedia.org/wiki/Category:Flying_DOG旗下藝人 "wikilink")

@@ -1,8 +1,6 @@
-**JPM**，是[台灣三人](https://zh.wikipedia.org/wiki/台灣 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，成員包括[小-{杰}-](https://zh.wikipedia.org/wiki/廖允杰 "wikilink")、[王子和](../Page/邱勝翊.md "wikilink")[毛弟](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")，過去為[傳奇星娛樂旗下的藝人](../Page/傳奇星娛樂.md "wikilink")。於2011年1月11日在[香港的酒店](../Page/香港.md "wikilink")[The
-Mira Hong
-Kong簽約](../Page/The_Mira_Hong_Kong.md "wikilink")，寓意一枝獨秀、在未來各個領域上都得到第一的成績。組合名稱以三位成員之英文名的第一個字母取名：Lil**J**ay（小-{杰}-）、**P**rince（王子）、**M**odi（毛弟）。
+**JPM**，是[台灣三人](https://zh.wikipedia.org/wiki/台灣 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，成員包括[小-{杰}-](https://zh.wikipedia.org/wiki/廖允杰 "wikilink")、[王子和](../Page/邱勝翊.md "wikilink")[毛弟](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")，過去為[傳奇星娛樂](../Page/傳奇星娛樂.md "wikilink")旗下的藝人。於2011年1月11日在[香港](../Page/香港.md "wikilink")的酒店[The Mira Hong Kong簽約](../Page/The_Mira_Hong_Kong.md "wikilink")，寓意一枝獨秀、在未來各個領域上都得到第一的成績。組合名稱以三位成員之英文名的第一個字母取名：Lil**J**ay（小-{杰}-）、**P**rince（王子）、**M**odi（毛弟）。
 
-2014年九月，JPM與[台灣索尼音樂娛樂三年的合作結束](../Page/台灣索尼音樂娛樂.md "wikilink")。2015年2月12日，成員王子不跟傳奇星娛樂續約，JPM宣布王子單飛團體不解散。目前成員小-{杰}-續約傳奇星、成員王子單飛簽給[華研國際音樂](../Page/華研國際音樂.md "wikilink")，成員毛弟新落腳處也是在華研國際音樂。JPM只是單飛，3個人也表示JPM會再合體，在舞台一起唱歌。
+2014年九月，JPM與[台灣索尼音樂娛樂](../Page/台灣索尼音樂娛樂.md "wikilink")三年的合作結束。2015年2月12日，成員王子不跟傳奇星娛樂續約，JPM宣布王子單飛團體不解散。目前成員小-{杰}-續約傳奇星、成員王子單飛簽給[華研國際音樂](../Page/華研國際音樂.md "wikilink")，成員毛弟新落腳處也是在華研國際音樂。JPM只是單飛，3個人也表示JPM會再合體，在舞台一起唱歌。
 
 2016年8月21日，JPM在MTV演唱會上做單飛後第一次公開合體表演，王子述說也可能是最後一次合體。
 
@@ -31,8 +29,8 @@ JPM三位成員皆因參加選秀節目《[模范棒棒堂](../Page/模范棒棒
 <td></td>
 <td><p>團中主唱、合音、Rap、領舞，團名中的「J」（Lil<strong>J</strong>ay）<br />
 現為<strong>JPM</strong>及其他歌手部分歌曲填詞、譜曲或编曲制作<br />
-<a href="../Page/模范棒棒堂.md" title="wikilink">模范棒棒堂節目中</a>，第一名宣佈出道的成員<br />
-前<a href="../Page/模范棒棒堂.md" title="wikilink">模范棒棒堂底迪</a><a href="https://zh.wikipedia.org/wiki/廖鈺杭" title="wikilink">柚子的哥哥</a><br />
+<a href="../Page/模范棒棒堂.md" title="wikilink">模范棒棒堂</a>節目中，第一名宣佈出道的成員<br />
+前<a href="../Page/模范棒棒堂.md" title="wikilink">模范棒棒堂</a>底迪<a href="https://zh.wikipedia.org/wiki/廖鈺杭" title="wikilink">柚子的哥哥</a><br />
 黑角舞團出身<br />
 前<a href="https://zh.wikipedia.org/wiki/Lollipop棒棒堂" title="wikilink">Lollipop棒棒堂成員</a><br />
 2013年6月7日在個人專頁宣布正式改名為<strong>廖允-{杰}-</strong>，舊名廖俊傑</p></td>
@@ -46,7 +44,7 @@ JPM三位成員皆因參加選秀節目《[模范棒棒堂](../Page/模范棒棒
 <td><p>團中隊長、主唱、宣傳，團名中的「P」（Prince）<br />
 現為<strong>JPM</strong>部分歌曲填詞或譜曲<br />
 <strong>JPM</strong>成員<a href="https://zh.wikipedia.org/wiki/邱翊橙" title="wikilink">毛弟的親哥哥</a><br />
-在<a href="../Page/模范棒棒堂.md" title="wikilink">模范棒棒堂節目中</a>，初期藝名為PRINCE，亦是第二名宣布出道的成員<br />
+在<a href="../Page/模范棒棒堂.md" title="wikilink">模范棒棒堂</a>節目中，初期藝名為PRINCE，亦是第二名宣布出道的成員<br />
 是節目和<a href="https://zh.wikipedia.org/wiki/Lollipop棒棒堂" title="wikilink">Lollipop棒棒堂的人氣王</a><br />
 從節目至今，因為粉絲眾多，有“十萬大軍”之稱<br />
 前<a href="https://zh.wikipedia.org/wiki/Lollipop棒棒堂" title="wikilink">Lollipop棒棒堂成員</a></p></td>
@@ -122,7 +120,7 @@ Chris</p></td>
 | ----- | ------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | 曲別    | 日期                                                      | 收錄唱片     | 歌名                                                                                        | 備註                                                      |
 | 主題曲   | 2010年7月8日                                               | 溜得快代言廣告曲 | 舞可取代                                                                                      | 毛弟只參與《[月球漫步](../Page/月球漫步_\(JPM專輯\).md "wikilink")》收錄版本 |
-| 2010年 | 《[精舞門2](https://zh.wikipedia.org/wiki/精舞門2 "wikilink")》 | 如果可以早一點  | 與[陳柏霖](../Page/陳柏霖.md "wikilink")、[周奇奇合唱](../Page/周奇奇.md "wikilink")                      |                                                         |
+| 2010年 | 《[精舞門2](https://zh.wikipedia.org/wiki/精舞門2 "wikilink")》 | 如果可以早一點  | 與[陳柏霖](../Page/陳柏霖.md "wikilink")、[周奇奇](../Page/周奇奇.md "wikilink")合唱                      |                                                         |
 |       |                                                         |          |                                                                                           |                                                         |
 | 2014年 | 客委會2014潮客樂主題曲                                           | 幸福的氣味    | 與[謝宇威](../Page/謝宇威.md "wikilink")、[官靈芝等人合唱](https://zh.wikipedia.org/wiki/官靈芝 "wikilink") |                                                         |
 |       |                                                         |          |                                                                                           |                                                         |
@@ -343,7 +341,7 @@ Chris</p></td>
 | ---------------------- | ----------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---- |
 | 2010年10月30日至2011年8月31日 | [壹電視](../Page/壹電視.md "wikilink")                      | 娛樂週爆                                                    | [小-{杰}-](https://zh.wikipedia.org/wiki/廖允傑 "wikilink")                                 |      |
 | 2011年9月1日起             | [壹電視](../Page/壹電視.md "wikilink")                      | 蘋果娛樂一週                                                  | [小-{杰}-](https://zh.wikipedia.org/wiki/廖允傑 "wikilink")                                 |      |
-| 2012年1月6日至2012年4月7日    | [超視](https://zh.wikipedia.org/wiki/超視 "wikilink")     | [我愛男子漢](../Page/我愛男子漢.md "wikilink")                    | **JPM**、[歐漢聲和嘉賓主持](../Page/歐漢聲.md "wikilink")                                          |      |
+| 2012年1月6日至2012年4月7日    | [超視](https://zh.wikipedia.org/wiki/超視 "wikilink")     | [我愛男子漢](../Page/我愛男子漢.md "wikilink")                    | **JPM**、[歐漢聲](../Page/歐漢聲.md "wikilink")和嘉賓主持                                          |      |
 | 2012年6月6日至2012年10月27日  | [爱尚TV](https://zh.wikipedia.org/wiki/爱尚TV "wikilink") | [超完美小姐](https://zh.wikipedia.org/wiki/超完美小姐 "wikilink") | [小-{杰}-](https://zh.wikipedia.org/wiki/廖允傑 "wikilink")                                 |      |
 | 2012年9月22日至2012年12月22日 | [四川衛視](https://zh.wikipedia.org/wiki/四川衛視 "wikilink") | [给力男子漢](https://zh.wikipedia.org/wiki/给力男子漢 "wikilink") | [王子](../Page/邱勝翊.md "wikilink")、[馬松和嘉賓主持](https://zh.wikipedia.org/wiki/馬松 "wikilink") |      |
 | 2014年11月27日、2014年12月2日 | [三立都會台](../Page/三立都會台.md "wikilink")                  | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")   | [MC40](../Page/薛仕凌.md "wikilink")、[毛弟](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")   | 代班主持 |
@@ -372,7 +370,7 @@ Chris</p></td>
 | 2011年10月26日 | [TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")                           | [上班這黨事](../Page/上班這黨事.md "wikilink")                              |                     | **JPM**                                                                                                                                                                                                                                                                                         |
 | 2011年11月2日  | [中天綜合台](../Page/中天綜合台.md "wikilink")                               | [康熙來了](../Page/康熙來了.md "wikilink")                                | 蕭敬騰的不可思議球友          | **JPM**、[陳建州](../Page/陳建州.md "wikilink")、[蕭敬騰](../Page/蕭敬騰.md "wikilink")、[唐志中](../Page/唐志中.md "wikilink")                                                                                                                                                                                      |
 | 2011年11月8日  | [三立都會台](../Page/三立都會台.md "wikilink")                               | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")             | JPM 犀利記者會           | **JPM**                                                                                                                                                                                                                                                                                         |
-| 2011年11月26日 | [亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink") | [亞洲星光大道4跳舞吧](../Page/亞洲星光大道4.md "wikilink")                       | 兩個只能活一個(上)          | **JPM**                                                                                                                                                                                                                                                                                         |
+| 2011年11月26日 | [亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink") | [亞洲星光大道4](../Page/亞洲星光大道4.md "wikilink")跳舞吧                       | 兩個只能活一個(上)          | **JPM**                                                                                                                                                                                                                                                                                         |
 | 2011年12月12日 | [中天綜合台](../Page/中天綜合台.md "wikilink")                               | [康熙來了](../Page/康熙來了.md "wikilink")                                | 他們是情義相挺的好朋友         | **JPM**&[歐弟](../Page/歐漢聲.md "wikilink")、[天天](https://zh.wikipedia.org/wiki/錢天韻 "wikilink")&[趙正平](../Page/趙正平.md "wikilink")、[王心恬](../Page/王心恬.md "wikilink")&[花花](../Page/張嘉雲.md "wikilink")                                                                                                    |
 |             |                                                                    |                                                                   |                     |                                                                                                                                                                                                                                                                                                 |
 
@@ -382,7 +380,7 @@ Chris</p></td>
 | ----------- | ----------------------------------------------------- | ----------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2012年1月22日  | [中視](https://zh.wikipedia.org/wiki/中視 "wikilink")     | 龍騰虎躍101                                                           | 中視除夕特別節目超強舞團爭霸戰       | **JPM**、[男子漢](https://zh.wikipedia.org/wiki/男子漢 "wikilink")、[關詩敏](../Page/關詩敏.md "wikilink")、[顏慧萍](https://zh.wikipedia.org/wiki/顏慧萍 "wikilink")、[趙潔瑩](../Page/趙潔瑩.md "wikilink")、[葉瑋庭](https://zh.wikipedia.org/wiki/葉瑋庭 "wikilink")、[賴聖恩](../Page/賴聖恩.md "wikilink")                                                                                                                            |
 | 2012年1月23日  | [三立都會台](../Page/三立都會台.md "wikilink")                  | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")             | 新年特別節目明星運動會           | [王子](../Page/邱勝翊.md "wikilink")、[小傑](https://zh.wikipedia.org/wiki/廖俊傑 "wikilink")、[小甜甜](https://zh.wikipedia.org/wiki/張芳奕 "wikilink")、[小Call](https://zh.wikipedia.org/wiki/小Call "wikilink")、[瑤瑤](../Page/黃喬歆.md "wikilink")、[GiGi](https://zh.wikipedia.org/wiki/GiGi "wikilink")、[CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")、[小婕](https://zh.wikipedia.org/wiki/張筱婕 "wikilink") |
-| 2012年4月10日  | [三立綜合台](../Page/三立綜合台.md "wikilink")                  | [型男大主廚](../Page/型男大主廚.md "wikilink")                              | 愛上巧克力                 | [愛上巧克力劇組](../Page/愛上巧克力.md "wikilink")（[王子](../Page/邱勝翊.md "wikilink")、[吳建豪](../Page/吳建豪.md "wikilink")、[曾之喬](../Page/曾之喬.md "wikilink")、[張勛傑](../Page/張勛傑.md "wikilink")）                                                                                                                                                                                                                        |
+| 2012年4月10日  | [三立綜合台](../Page/三立綜合台.md "wikilink")                  | [型男大主廚](../Page/型男大主廚.md "wikilink")                              | 愛上巧克力                 | [愛上巧克力](../Page/愛上巧克力.md "wikilink")劇組（[王子](../Page/邱勝翊.md "wikilink")、[吳建豪](../Page/吳建豪.md "wikilink")、[曾之喬](../Page/曾之喬.md "wikilink")、[張勛傑](../Page/張勛傑.md "wikilink")）                                                                                                                                                                                                                        |
 | 2012年5月25日  | [八大綜合台](../Page/八大綜合台.md "wikilink")                  | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")           | 好友音樂會                 | [周湯豪](../Page/周湯豪.md "wikilink")、[小-{杰}-](https://zh.wikipedia.org/wiki/廖允傑 "wikilink")                                                                                                                                                                                                                                                                                                           |
 | 2012年6月8日   | [八大綜合台](../Page/八大綜合台.md "wikilink")                  | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")           | 百分百KTV                | [小-{杰}-](https://zh.wikipedia.org/wiki/廖允傑 "wikilink")、[毛弟](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")、[大牙](../Page/周宜霈.md "wikilink")、[范瑋琪](../Page/范瑋琪.md "wikilink")                                                                                                                                                                                                                        |
 | 2012年7月10日  | [愛尚TV](https://zh.wikipedia.org/wiki/愛尚TV "wikilink") | [CIRCUS 星探社](https://zh.wikipedia.org/wiki/CIRCUS_星探社 "wikilink") |                       | **JPM**                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -587,7 +585,7 @@ Chris</p></td>
 <tr class="even">
 <td><p>2013年12月31日</p></td>
 <td><p>2014新竹縣跨年晚會 迎向光明新竹動起來</p></td>
-<td><p><a href="../Page/新竹縣.md" title="wikilink">新竹縣政府廣場</a></p></td>
+<td><p><a href="../Page/新竹縣.md" title="wikilink">新竹縣</a>政府廣場</p></td>
 <td><p><a href="../Page/Dream_Girls.md" title="wikilink">Dream Girls</a>、<a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a>、<a href="../Page/伍佰.md" title="wikilink">伍佰</a>&amp;China Blue、<strong>JPM</strong>、<a href="../Page/楊丞琳.md" title="wikilink">楊丞琳</a></p></td>
 </tr>
 <tr class="odd">
@@ -655,15 +653,14 @@ Chris</p></td>
   - 2010年
       - [廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")[亞運會誌願者](https://zh.wikipedia.org/wiki/亞運會 "wikilink")（[王子](../Page/邱勝翊.md "wikilink")、[毛弟](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")）
   - 2011年
-      - [台北庇護工場中秋公益活動](https://zh.wikipedia.org/wiki/台北 "wikilink")
-        一日店長（JPM）
+      - [台北庇護工場中秋公益活動](https://zh.wikipedia.org/wiki/台北 "wikilink") 一日店長（JPM）
       - [MICKEY愛心聖誕大使義賣](https://zh.wikipedia.org/wiki/米奇老鼠 "wikilink")（JPM）
       - 台北購物節活動大使（JPM）
   - 2012年
       - [中華民國](../Page/中華民國.md "wikilink")[紅十字會公益大使](https://zh.wikipedia.org/wiki/紅十字會 "wikilink")（JPM）
   - 2013年
       - [中華民國](../Page/中華民國.md "wikilink")[紅十字會公益大使](https://zh.wikipedia.org/wiki/紅十字會 "wikilink")（JPM）
-      - [台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[捷運突破](../Page/捷運.md "wikilink")60億活動大使（JPM）
+      - [台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[捷運](../Page/捷運.md "wikilink")突破60億活動大使（JPM）
   - 2014年
       - 2014潮客樂活動代言人（JPM）
 
@@ -748,8 +745,4 @@ Chris</p></td>
   -
   -
   -
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:JPM](https://zh.wikipedia.org/wiki/Category:JPM "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
+[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:JPM](https://zh.wikipedia.org/wiki/Category:JPM "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")

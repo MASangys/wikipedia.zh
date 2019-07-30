@@ -1,18 +1,12 @@
-《**FORTUNE
-ARTERIAL**》是[日本成人遊戲公司](../Page/日本成人遊戲.md "wikilink")[AUGUST製作的](../Page/AUGUST.md "wikilink")[成人遊戲及其改編的](../Page/日本成人遊戲.md "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[電視動畫等](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。簡稱**FA**。
+《**FORTUNE ARTERIAL**》是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司[AUGUST](../Page/AUGUST.md "wikilink")製作的[成人遊戲及其改編的](../Page/日本成人遊戲.md "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[電視動畫等](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。簡稱**FA**。
 
 ## 概要
 
-[August繼](https://zh.wikipedia.org/wiki/August "wikilink")《[夜明前的琉璃色](../Page/夜明前的琉璃色.md "wikilink")》之後的第六作，以[吸血鬼題材的校園戀愛故事](../Page/吸血鬼.md "wikilink")。中文版小說的標題是《FORTUNE
-ARTERIAL -命運脈動-》，在2008年1月開始販售，[PlayStation
-3移植版遊戲和電視動畫版的標題是](../Page/PlayStation_3.md "wikilink")《FORTUNE
-ARTERIAL -紅色約定-》（--）。
+[August繼](https://zh.wikipedia.org/wiki/August "wikilink")《[夜明前的琉璃色](../Page/夜明前的琉璃色.md "wikilink")》之後的第六作，以[吸血鬼](../Page/吸血鬼.md "wikilink")題材的校園戀愛故事。中文版小說的標題是《FORTUNE ARTERIAL -命運脈動-》，在2008年1月開始販售，[PlayStation 3移植版遊戲和電視動畫版的標題是](../Page/PlayStation_3.md "wikilink")《FORTUNE ARTERIAL -紅色約定-》（--）。
 
 2011年7月29日，Windows7的相容版開始發售。
 
-2010年夏[角川書店公開PS](../Page/角川書店.md "wikilink")3遊戲《FORTUNE ARTERIAL
--紅色約定-》（--）與PSP遊戲《FORTUNE ARTERIAL
--伊織之野望-》（--）的相關訊息，PS3遊戲預定2010年冬發售，PSP遊戲未定。之後宣佈延期至2011年。2011年8月3日角川書店宣佈終止開發。
+2010年夏[角川書店](../Page/角川書店.md "wikilink")公開PS3遊戲《FORTUNE ARTERIAL -紅色約定-》（--）與PSP遊戲《FORTUNE ARTERIAL -伊織之野望-》（--）的相關訊息，PS3遊戲預定2010年冬發售，PSP遊戲未定。之後宣佈延期至2011年。2011年8月3日角川書店宣佈終止開發。
 
 ## 登場人物
 
@@ -26,24 +20,19 @@ ARTERIAL -紅色約定-》（--）。
     男主角，修智館學院五年級生，由於父母工作的原因而有多次轉學的經驗，最後因為父母必須到國外工作的關係而決定轉學到全體寄宿制的修智館學院。小時候曾經在珠津島住過一段時間，七年後的現在又回到島上。長相不差，待人有禮的好青年，具有優秀的構思力和行動力。喜歡炒麵，討厭生薑。
     疑似因為小時候在珠津島上的某個意外事件而使體質改變，連帶造成七年後與千堂瑛里華初次見面時讓對方感受到異樣的感覺，進而引發千堂伊織的興趣，最後在千堂伊織的計畫下，半強迫半自願地加入學生會。
   -
-    生日：6月7日　血型：B型　星座：[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")　身高：159.8cm　[三圍](https://zh.wikipedia.org/wiki/三圍 "wikilink")：82（C）/55/83
-    房間號碼：4A-01
+    生日：6月7日　血型：B型　星座：[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")　身高：159.8cm　[三圍](https://zh.wikipedia.org/wiki/三圍 "wikilink")：82（C）/55/83 房間號碼：4A-01
     女主角，修智館學院五年級生，學生會副會長，實際年齡十六歲，貓舌頭。學業和運動都很出色，只有數學往往敗給紅瀨桐葉，成績第一名的優等生、容姿端麗。一邊擔任學生會副會長一職、一邊還是學院中最有人氣的女生。事實上她不是人類，是[吸血鬼](../Page/吸血鬼.md "wikilink")，但本身討厭吸人血，希望和人類做朋友，並能像人類一樣生活。哥哥是學生會會長千堂伊織。
   -
-    生日：2月19日　血型：A型　星座：[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")　身高：145.0cm　三圍：70（A）/51/72
-    房間號碼：4D-17
+    生日：2月19日　血型：A型　星座：[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")　身高：145.0cm　三圍：70（A）/51/72 房間號碼：4D-17
     修智館學院四年級生，暱稱小白。孝平的學妹。學生會成員，個子嬌小，個性純真。很喜歡日式點心金鍔。又被稱為「紅瀨殺手」，桐葉對她沒輒。
   -
-    生日：11月21日　血型：AB型　星座：[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")　身高：164.4cm　三圍：88（D）/57/86
-    房間號碼：4H-09
+    生日：11月21日　血型：AB型　星座：[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")　身高：164.4cm　三圍：88（D）/57/86 房間號碼：4H-09
     修智館學院五年級生。外號：冷卻劑，是個知性充滿謎題的女生，容姿端正。孝平的同班同學。不太愛說話，不怎麼和人來住，擅長數學，其成績經常保持年級第1名。不過卻令人意外的對動物很好的打成一片，是個機械白痴，字跡工整，處理文件效率高，拿小白沒輒。為吸血鬼的「眷屬」，主人是伽耶。與伽耶是小時候的玩伴。大約250歲以上。
   -
-    生日：4月2日　血型：O型　星座：[牡羊座](https://zh.wikipedia.org/wiki/牡羊座 "wikilink")　身高：151.8cm　三圍：75（B）/54/77
-    房間號碼：3A-18
+    生日：4月2日　血型：O型　星座：[牡羊座](https://zh.wikipedia.org/wiki/牡羊座 "wikilink")　身高：151.8cm　三圍：75（B）/54/77 房間號碼：3A-18
     修智館學院六年級生。孝平的青梅竹馬及學姐。風紀委員會會長兼學生宿舎「白鳳寮」寮長，別名：白鳳寮的良心（自稱），蘿莉體態，個性活潑，言語十分天馬行空。
   -
-    生日：10月4日　血型：A型　星座：[天秤座](../Page/天秤座.md "wikilink")　身高：155.9cm　三圍：84（C）/56/85
-    房間號碼：3B-16
+    生日：10月4日　血型：A型　星座：[天秤座](../Page/天秤座.md "wikilink")　身高：155.9cm　三圍：84（C）/56/85 房間號碼：3B-16
     修智館學院五年級生，孝平的青梅竹馬及同班同學。奏的妹妹，但光看外表和性格比較像姐姐。美化委員會成員。喜歡味噌拉麵。
     角色人氣投票第一名。\[1\]
   -
@@ -58,12 +47,10 @@ ARTERIAL -紅色約定-》（--）。
     生日：4月9日　血型：B型　星座：[牡羊座](https://zh.wikipedia.org/wiki/牡羊座 "wikilink")　身高：178.8cm　
     修智館學院六年級生。學生會財務負責人。白的哥哥。妹控。為最靠近伽耶的人。
   -
-    生日：9月20日
-    血型：O型　星座：[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")　身高：176.3cm　房間號碼：2A-15
+    生日：9月20日 血型：O型　星座：[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")　身高：176.3cm　房間號碼：2A-15
     修智館學院五年級生。孝平的同班同學及好友，平時在校外偷偷打工。語氣冷淡，但個性直爽，處事果決，樂於助人。
   -
-    生日：5月3日　血型：O型　星座：[金牛座](../Page/金牛座.md "wikilink")　身高：165.2cm
-    三圍：93（F）/61/90
+    生日：5月3日　血型：O型　星座：[金牛座](../Page/金牛座.md "wikilink")　身高：165.2cm 三圍：93（F）/61/90
     修智館學院的修女兼學生宿舎管理員。洗禮名是。是伊織的愛人所生的女兒，伊織稱呼她為小志津子。對伊織有好感。
   -
     生日：1月15日　血型：O型　星座：[魔羯座](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")　身高：171.5cm
@@ -115,8 +102,7 @@ ARTERIAL -紅色約定-》（--）。
 
 ## 廣播劇CD
 
-MARINE ENTERTAINMENT發行，標題為《FORTUNE ARTERIAL ～through the
-season～》。全5集。遊戲版的日後談。
+MARINE ENTERTAINMENT發行，標題為《FORTUNE ARTERIAL ～through the season～》。全5集。遊戲版的日後談。
 
 1.  feat.（2008年8月15日發售）
 2.  feat.（2008年9月25日發售）　
@@ -140,20 +126,17 @@ season～》。全5集。遊戲版的日後談。
 ## 解說書
 
   -
-    [Enterbrain發行](../Page/Enterbrain.md "wikilink")，2007年11月21日發售，ISBN
-    978-4-7577-3945-1。
+    [Enterbrain](../Page/Enterbrain.md "wikilink")發行，2007年11月21日發售，ISBN 978-4-7577-3945-1。
     刊載角色介紹文章與設定資料。
   -
-    [ASCII Media
-    Works發行](../Page/ASCII_Media_Works.md "wikilink")，2008年6月20日發售，ISBN
-    978-4-04-867158-3。
+    [ASCII Media Works發行](../Page/ASCII_Media_Works.md "wikilink")，2008年6月20日發售，ISBN 978-4-04-867158-3。
     登場角色介紹、舞台解說、各種插圖和製作人員與聲優留言收錄在A4縱向翻頁雜誌書。
 
 ## 漫畫
 
   - FORTUNE ARTERIAL
 
-漫畫化作品在[角川書店出版發行的雜誌](../Page/角川書店.md "wikilink")《[CompTiq](https://zh.wikipedia.org/wiki/CompTiq "wikilink")》上連載。作畫。中文版由[台灣角川書店代理出版](https://zh.wikipedia.org/wiki/台灣角川書店 "wikilink")。
+漫畫化作品在[角川書店](../Page/角川書店.md "wikilink")出版發行的雜誌《[CompTiq](https://zh.wikipedia.org/wiki/CompTiq "wikilink")》上連載。作畫。中文版由[台灣角川書店代理出版](https://zh.wikipedia.org/wiki/台灣角川書店 "wikilink")。
 
   - 日文版單行本
     1.  2008年7月26日發售 ISBN 978-4-04-715081-2
@@ -169,14 +152,9 @@ season～》。全5集。遊戲版的日後談。
 <!-- end list -->
 
   - FORTUNE ARTERIAL Character's Prelude
-    [ASCII Media
-    Works出版發行的雜誌](../Page/ASCII_Media_Works.md "wikilink")《[電擊G's
-    magazine](../Page/電擊G's_magazine.md "wikilink")》（2007年9月號～2008年4月號）及《[電擊G's
-    Festival\!
-    COMIC](https://zh.wikipedia.org/wiki/電擊G's_Festival!_COMIC "wikilink")》（Vol.2）上連載。作畫。單行本第一集（ISBN
-    978-4-04-867155-2）於2008年6月25日發售。
+    [ASCII Media Works出版發行的雜誌](../Page/ASCII_Media_Works.md "wikilink")《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》（2007年9月號～2008年4月號）及《[電擊G's Festival\! COMIC](https://zh.wikipedia.org/wiki/電擊G's_Festival!_COMIC "wikilink")》（Vol.2）上連載。作畫。單行本第一集（ISBN 978-4-04-867155-2）於2008年6月25日發售。
   -
-    [Enterbrain出版發行的](../Page/Enterbrain.md "wikilink")[四格漫畫系列](../Page/四格漫畫.md "wikilink")。
+    [Enterbrain](../Page/Enterbrain.md "wikilink")出版發行的[四格漫畫](../Page/四格漫畫.md "wikilink")系列。
     1.  2008年4月25日發售 ISBN 978-4-7577-4165-2
     2.  2008年7月25日發售 ISBN 978-4-7577-4341-0
     3.  2008年9月25日發售 ISBN 978-4-7577-4429-5
@@ -188,16 +166,14 @@ season～》。全5集。遊戲版的日後談。
     9.  2009年12月25日發售 ISBN 978-4-0472-6215-7
     10. 2010年2月25日發售 ISBN 978-4-0472-6326-0
   -
-    [一迅社出版發行的](../Page/一迅社.md "wikilink")[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")。
+    [一迅社](../Page/一迅社.md "wikilink")出版發行的[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")。
     1.  2008年6月25日發售 ISBN 978-4-7580-0447-3
     2.  2008年7月25日發售 ISBN 978-4-7580-0456-5
     3.  2008年10月25日發售 ISBN 978-4-7580-0466-4
 
 ## 小說
 
-[HARVEST出版發行](../Page/HARVEST出版.md "wikilink")，[岡田留奈撰寫](https://zh.wikipedia.org/wiki/岡田留奈 "wikilink")，全6集，有性交場面。繁體中文版《FORTUNE
-ARTERIAL
--命運脈動-》由[青文出版社代理出版](../Page/青文出版社.md "wikilink")。譯者為[黃瀚篁](https://zh.wikipedia.org/wiki/黃瀚篁 "wikilink")。
+[HARVEST出版](../Page/HARVEST出版.md "wikilink")發行，[岡田留奈撰寫](https://zh.wikipedia.org/wiki/岡田留奈 "wikilink")，全6集，有性交場面。繁體中文版《FORTUNE ARTERIAL -命運脈動-》由[青文出版社](../Page/青文出版社.md "wikilink")代理出版。譯者為[黃瀚篁](https://zh.wikipedia.org/wiki/黃瀚篁 "wikilink")。
 
   - 日文版單行本
     1.  （2008年6月10日發售 ISBN 978-4-434-11965-1）
@@ -221,8 +197,7 @@ ARTERIAL
 
 ## 電視動畫
 
-標題為《FORTUNE ARTERIAL
--紅色約定-》（）。從2010年10月於[東京電視台播放](../Page/東京電視台.md "wikilink")。
+標題為《FORTUNE ARTERIAL -紅色約定-》（）。從2010年10月於[東京電視台](../Page/東京電視台.md "wikilink")播放。
 
 ### 製作人員
 
@@ -242,8 +217,7 @@ ARTERIAL
   - 音響效果 - 小山恭正
   - 音響製作 - Glovision
   - 製作人- 今本尚志、紅谷佳和
-  - 動畫製作 -
-    [ZEXCS](../Page/ZEXCS.md "wikilink")、[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")
+  - 動畫製作 - [ZEXCS](../Page/ZEXCS.md "wikilink")、[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")
   - 製作 - 修智館学院學生会
 
 ### 動畫主題曲
@@ -253,17 +227,14 @@ ARTERIAL
 :; 「[絆-kizunairo-色](../Page/絆-kizunairo-色.md "wikilink")」
 
   -
-    作詞 - RUCCA / 作曲 - 流歌 / 編曲 -
-    [牧野信博](https://zh.wikipedia.org/wiki/牧野信博 "wikilink")
-    / 歌 - [Lia](../Page/Lia.md "wikilink")
+    作詞 - RUCCA / 作曲 - 流歌 / 編曲 - [牧野信博](https://zh.wikipedia.org/wiki/牧野信博 "wikilink") / 歌 - [Lia](../Page/Lia.md "wikilink")
 
   - 片尾曲
 
 :; 「I miss you」
 
   -
-    作詞、作曲、編曲 - 八木雄一 / 歌 -
-    [Veil](https://zh.wikipedia.org/wiki/Veil "wikilink")（[Aoi](../Page/多田葵.md "wikilink")、[Misuzu](https://zh.wikipedia.org/wiki/Misuzu "wikilink")）
+    作詞、作曲、編曲 - 八木雄一 / 歌 - [Veil](https://zh.wikipedia.org/wiki/Veil "wikilink")（[Aoi](../Page/多田葵.md "wikilink")、[Misuzu](https://zh.wikipedia.org/wiki/Misuzu "wikilink")）
 
       -
         第1話 - 第3話、第11話 -the origin-
@@ -544,8 +515,7 @@ ARTERIAL
 
 ## 網路廣播
 
-標題為《》（AUGUST廣播局 修智館學院出差學生會）。從2009年9月10日播放中。由千堂伊織（[Kevin
-Spicy](https://zh.wikipedia.org/wiki/Kevin_Spicy "wikilink")）、千堂瑛-{里}-華（[觀村咲子](https://zh.wikipedia.org/wiki/觀村咲子 "wikilink")）主持。
+標題為《》（AUGUST廣播局 修智館學院出差學生會）。從2009年9月10日播放中。由千堂伊織（[Kevin Spicy](https://zh.wikipedia.org/wiki/Kevin_Spicy "wikilink")）、千堂瑛-{里}-華（[觀村咲子](https://zh.wikipedia.org/wiki/觀村咲子 "wikilink")）主持。
 
   - 廣播CD「DJCD 」
       - Vol.1（2009年12月29日發售）
@@ -557,27 +527,11 @@ Spicy](https://zh.wikipedia.org/wiki/Kevin_Spicy "wikilink")）、千堂瑛-{里
 ## 外部連結
 
   - [PC遊戲《FORTUNE ARTERIAL》](http://august-soft.com/fa/)
-  - [PS3遊戲及電視動畫《FORTUNE ARTERIAL
-    --》](https://web.archive.org/web/20100917080059/http://newtype.kadocomic.jp/fortune/)
-  - [東京電視台「」《FORTUNE ARTERIAL
-    --》](http://www.tv-tokyo.co.jp/anime/fortune/)
+  - [PS3遊戲及電視動畫《FORTUNE ARTERIAL --》](https://web.archive.org/web/20100917080059/http://newtype.kadocomic.jp/fortune/)
+  - [東京電視台「」《FORTUNE ARTERIAL --》](http://www.tv-tokyo.co.jp/anime/fortune/)
   - [網路廣播《》](http://www.marine-e.co.jp/sakuhin/fortune_arterial/radio/)
   - [Getchu.com:](http://www.getchu.com/soft.phtml?id=385325)
 
-[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:制作中止的PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:制作中止的PlayStation_Portable遊戲 "wikilink")
-[Category:制作中止的PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:制作中止的PlayStation_3遊戲 "wikilink")
-[Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink")
-[Category:角川書店](https://zh.wikipedia.org/wiki/Category:角川書店 "wikilink")
-[Category:2010年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年東京電視網動畫 "wikilink")
-[Category:學校背景作品](https://zh.wikipedia.org/wiki/Category:學校背景作品 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
-[Category:學生會題材作品](https://zh.wikipedia.org/wiki/Category:學生會題材作品 "wikilink")
-[Category:吸血鬼題材作品](https://zh.wikipedia.org/wiki/Category:吸血鬼題材作品 "wikilink")
-[Category:Feel.](https://zh.wikipedia.org/wiki/Category:Feel. "wikilink")
+[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:制作中止的PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:制作中止的PlayStation_Portable遊戲 "wikilink") [Category:制作中止的PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:制作中止的PlayStation_3遊戲 "wikilink") [Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink") [Category:角川書店](https://zh.wikipedia.org/wiki/Category:角川書店 "wikilink") [Category:2010年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年東京電視網動畫 "wikilink") [Category:學校背景作品](https://zh.wikipedia.org/wiki/Category:學校背景作品 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:學生會題材作品](https://zh.wikipedia.org/wiki/Category:學生會題材作品 "wikilink") [Category:吸血鬼題材作品](https://zh.wikipedia.org/wiki/Category:吸血鬼題材作品 "wikilink") [Category:Feel.](https://zh.wikipedia.org/wiki/Category:Feel. "wikilink")
 
 1.

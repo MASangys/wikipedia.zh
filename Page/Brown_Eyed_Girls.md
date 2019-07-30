@@ -1,13 +1,6 @@
-**Brown Eyed
-Girls**（，，簡稱B.E.G.），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")4人女子團體。成員包括[JeA](../Page/金孝珍_\(歌手\).md "wikilink")、[Miryo](../Page/趙美慧.md "wikilink")、[Narsha及](../Page/朴效真.md "wikilink")[GaIn](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")。由韓國作詞曲家組成的[NEGANETWORK公司打造](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")，其後花了3年籌備，最終於2006年3月2日組成「Brown
-Eyed Girls」。出道作品為專輯《Your
-Story》，2008年以歌曲「[L.O.V.E.](../Page/L.O.V.E..md "wikilink")」開始為人熟識，2009年，Brown
-Eyed
-Girls所推出的主打歌「[Abracadabra](https://zh.wikipedia.org/wiki/Abracadabra "wikilink")」大受歡迎。
+**Brown Eyed Girls**（，，簡稱B.E.G.），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")4人女子團體。成員包括[JeA](../Page/金孝珍_\(歌手\).md "wikilink")、[Miryo](../Page/趙美慧.md "wikilink")、[Narsha及](../Page/朴效真.md "wikilink")[GaIn](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")。由韓國作詞曲家組成的[NEGANETWORK公司打造](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")，其後花了3年籌備，最終於2006年3月2日組成「Brown Eyed Girls」。出道作品為專輯《Your Story》，2008年以歌曲「[L.O.V.E.](../Page/L.O.V.E..md "wikilink")」開始為人熟識，2009年，Brown Eyed Girls所推出的主打歌「[Abracadabra](https://zh.wikipedia.org/wiki/Abracadabra "wikilink")」大受歡迎。
 
-Brown Eyed
-Girls已於2013年推出由[Miryo](../Page/趙美慧.md "wikilink")、[Narsha組成的子團](../Page/朴效真.md "wikilink")[M\&N](https://zh.wikipedia.org/wiki/M&N "wikilink")（**M**iryo
-& **N**arsha）。
+Brown Eyed Girls已於2013年推出由[Miryo](../Page/趙美慧.md "wikilink")、[Narsha組成的子團](../Page/朴效真.md "wikilink")[M\&N](https://zh.wikipedia.org/wiki/M&N "wikilink")（**M**iryo & **N**arsha）。
 
 Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的」；應援物為黑底銀字毛巾。
 
@@ -28,15 +21,10 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 ## 唱片\[4\]
 
   -
-    <small>有關Narsha個人迷你專輯《NARSHA》，請參閱
-    [Narsha](../Page/朴效真.md "wikilink")</small>
-    <small>有關孫佳人個人迷你專輯《step 2/4》，《Talk about S.》，《TRUTH OR
-    DARE》《ḥawwāh》個人正規專輯《End Again》與《Begin Again》請參閱
-    [孫佳人](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")</small>
-    <small>有關Miryo個人迷你專輯《MIRYO aka JOHONEY》，請參閱
-    [Miryo](../Page/趙美慧.md "wikilink")</small>
-    <small>有關Jea個人迷你專輯《Just JeA》，請參閱
-    [JeA](../Page/金孝珍_\(歌手\).md "wikilink")</small>
+    <small>有關Narsha個人迷你專輯《NARSHA》，請參閱 [Narsha](../Page/朴效真.md "wikilink")</small>
+    <small>有關孫佳人個人迷你專輯《step 2/4》，《Talk about S.》，《TRUTH OR DARE》《ḥawwāh》個人正規專輯《End Again》與《Begin Again》請參閱 [孫佳人](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")</small>
+    <small>有關Miryo個人迷你專輯《MIRYO aka JOHONEY》，請參閱 [Miryo](../Page/趙美慧.md "wikilink")</small>
+    <small>有關Jea個人迷你專輯《Just JeA》，請參閱 [JeA](../Page/金孝珍_\(歌手\).md "wikilink")</small>
 
 ### 單曲
 
@@ -601,8 +589,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 
   - SOUND-G 香港特別版
       - 2010.09.29 於香港發行,香港特別限定版加送DVD 獨家收錄4首完整版MV及7段從未曝光特攝音樂錄像
-      - 內附DVD包括「Abracadabra」,「Abracadabra(Stage Version)」,「Sign」,「How
-        Come」MV及MV預告
+      - 內附DVD包括「Abracadabra」,「Abracadabra(Stage Version)」,「Sign」,「How Come」MV及MV預告
 
 ## 獎項
 
@@ -814,21 +801,16 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
       - 日期:2010年8月6日
       - 地點:原宿アストロホールAstro-hall
       - 名稱:BROWN EYED GIRLS JAPAN DEBUT CD發售紀念 MINI LIVE SOUND-G
-      - 附註:原本只演出一場，後因銷售一空，而追加下午場，共吸引約600人，共演唱「Sign」、「L.O.V.E」、「不准走」、「Hold
-        The Line 」、「Abracadabra」 （Japanese
-        version）等五首歌曲。\[18\]\[19\]\[20\]
+      - 附註:原本只演出一場，後因銷售一空，而追加下午場，共吸引約600人，共演唱「Sign」、「L.O.V.E」、「不准走」、「Hold The Line 」、「Abracadabra」 （Japanese version）等五首歌曲。\[18\]\[19\]\[20\]
   - 活動
       - 日期:2010年9月13日
       - 地點:東京ミッドタウン アトリウム
-      - 名稱:ブアガル(BROWN EYED GIRLS) &
-        [IKKO](https://zh.wikipedia.org/wiki/IKKO "wikilink") CD Release
-        Event 「Let's 小生意気ダンス」。\[21\]\[22\] \[23\]
+      - 名稱:ブアガル(BROWN EYED GIRLS) & [IKKO](https://zh.wikipedia.org/wiki/IKKO "wikilink") CD Release Event 「Let's 小生意気ダンス」。\[21\]\[22\] \[23\]
   - 活動
       - 日期:2010年10月2日
       - 地點:六本木ヒルズアリーナ　
       - 名稱:한일축제日韓交流おまつり한마당 2010 in Tokyo\[24\]\[25\]
-      - 同場演出藝人:[大國男兒](../Page/大國男兒.md "wikilink")、[M to
-        M](https://zh.wikipedia.org/wiki/M_to_M "wikilink")、[申彗星](../Page/申彗星.md "wikilink")
+      - 同場演出藝人:[大國男兒](../Page/大國男兒.md "wikilink")、[M to M](https://zh.wikipedia.org/wiki/M_to_M "wikilink")、[申彗星](../Page/申彗星.md "wikilink")
 
 <!-- end list -->
 
@@ -836,8 +818,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
       - 日期:2010年11月3日
       - 地點:[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")
       - 名稱:「SBS創立20周年 SEOUL TOKYO MUSIC FESTIVAL 2010」\[26\]\[27\]
-      - 同場演出藝人:[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")、[4minute](../Page/4minute.md "wikilink")、[2NE1](../Page/2NE1.md "wikilink")、[FTIsland](../Page/FTIsland.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")、[U-KISS](../Page/U-KISS.md "wikilink")、[RAINBOW](../Page/Rainbow_\(音樂團體\).md "wikilink")、[TEEN
-        TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")、MC[朴政珉](../Page/朴政珉.md "wikilink")([SS501](../Page/SS501.md "wikilink"))
+      - 同場演出藝人:[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")、[4minute](../Page/4minute.md "wikilink")、[2NE1](../Page/2NE1.md "wikilink")、[FTIsland](../Page/FTIsland.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")、[U-KISS](../Page/U-KISS.md "wikilink")、[RAINBOW](../Page/Rainbow_\(音樂團體\).md "wikilink")、[TEEN TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")、MC[朴政珉](../Page/朴政珉.md "wikilink")([SS501](../Page/SS501.md "wikilink"))
 
 <!-- end list -->
 
@@ -845,8 +826,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
       - 日期:2010年12月4日
       - 地點:ALTA 新宿店
       - 名稱:「ALTA 30th PREMIUM LIVE 」\[28\]\[29\]
-      - 同場演出藝人:[May
-        J.](../Page/May_J..md "wikilink")、[石川マリー](https://zh.wikipedia.org/wiki/石川マリー "wikilink")、[TATSUYA](https://zh.wikipedia.org/wiki/TATSUYA "wikilink")
+      - 同場演出藝人:[May J.](../Page/May_J..md "wikilink")、[石川マリー](https://zh.wikipedia.org/wiki/石川マリー "wikilink")、[TATSUYA](https://zh.wikipedia.org/wiki/TATSUYA "wikilink")
 
 <!-- end list -->
 
@@ -878,9 +858,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
       - 日期:2009年12月13日
       - 地點:Fort Canning Park
       - 名稱:Sundown Festival Seoul'd Out 2009”\[34\]
-      - 同場演出藝人:[T-Max](../Page/T-Max.md "wikilink")、[FT
-        Island](https://zh.wikipedia.org/wiki/FT_Island "wikilink")、[Mario](https://zh.wikipedia.org/wiki/Mario "wikilink")、[Park
-        Si Nae](https://zh.wikipedia.org/wiki/Park_Si_Nae "wikilink")
+      - 同場演出藝人:[T-Max](../Page/T-Max.md "wikilink")、[FT Island](https://zh.wikipedia.org/wiki/FT_Island "wikilink")、[Mario](https://zh.wikipedia.org/wiki/Mario "wikilink")、[Park Si Nae](https://zh.wikipedia.org/wiki/Park_Si_Nae "wikilink")
 
 <!-- end list -->
 
@@ -895,8 +873,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
       - 日期:2010年4月6日
       - 地點:曼谷
       - 名稱:Mnet Showking M Bangkok \[35\]
-      - 同場演出藝人:[2AM](../Page/2AM.md "wikilink")、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")、[U-KISS](../Page/U-KISS.md "wikilink")、[Secret](../Page/Secret_\(組合\).md "wikilink")、[Seeya](https://zh.wikipedia.org/wiki/Seeya "wikilink")、[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")、[大國男兒](../Page/大國男兒.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")、[ZE:A](../Page/ZE:A.md "wikilink")、、[8eight](https://zh.wikipedia.org/wiki/8eight "wikilink")、[金泰宇](../Page/金泰宇.md "wikilink")、[青林](https://zh.wikipedia.org/wiki/青林 "wikilink")、[SG
-        Wannabe](../Page/SG_Wannabe.md "wikilink")、[孫浩英等](../Page/孫昊永.md "wikilink")
+      - 同場演出藝人:[2AM](../Page/2AM.md "wikilink")、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")、[U-KISS](../Page/U-KISS.md "wikilink")、[Secret](../Page/Secret_\(組合\).md "wikilink")、[Seeya](https://zh.wikipedia.org/wiki/Seeya "wikilink")、[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")、[大國男兒](../Page/大國男兒.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")、[ZE:A](../Page/ZE:A.md "wikilink")、、[8eight](https://zh.wikipedia.org/wiki/8eight "wikilink")、[金泰宇](../Page/金泰宇.md "wikilink")、[青林](https://zh.wikipedia.org/wiki/青林 "wikilink")、[SG Wannabe](../Page/SG_Wannabe.md "wikilink")、[孫浩英等](../Page/孫昊永.md "wikilink")
 
 <!-- end list -->
 
@@ -912,11 +889,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
       - 日期:2011年3月12日
       - 地點:Bangkok
       - 名稱: 'MBC 50th Anniversary Korean Music Wave Concert In Bangkok'
-      - 同場演出藝人:MC[Yuri](../Page/俞利.md "wikilink")、MC[Tiffany](https://zh.wikipedia.org/wiki/蒂芬妮_\(韓國藝人\) "wikilink")、MC[Nichkhun](../Page/Nichkhun.md "wikilink")、[2AM](../Page/2AM.md "wikilink")、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[4minute](../Page/4minute.md "wikilink")、[After
-        School](../Page/After_School.md "wikilink")、[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")、[FTIsland](../Page/FTIsland.md "wikilink")、[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")、[miss
-        A](https://zh.wikipedia.org/wiki/miss_A "wikilink")、[Norazo](https://zh.wikipedia.org/wiki/Norazo "wikilink")、[Sistar](https://zh.wikipedia.org/wiki/Sistar "wikilink")、[Secret](../Page/Secret_\(組合\).md "wikilink")、[SG
-        Wannabe](../Page/SG_Wannabe.md "wikilink")、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")、[Wonder
-        Girls](../Page/Wonder_Girls.md "wikilink")、[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[東方神起](../Page/東方神起.md "wikilink")、[孫淡妃](../Page/孫淡妃.md "wikilink")
+      - 同場演出藝人:MC[Yuri](../Page/俞利.md "wikilink")、MC[Tiffany](https://zh.wikipedia.org/wiki/蒂芬妮_\(韓國藝人\) "wikilink")、MC[Nichkhun](../Page/Nichkhun.md "wikilink")、[2AM](../Page/2AM.md "wikilink")、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[4minute](../Page/4minute.md "wikilink")、[After School](../Page/After_School.md "wikilink")、[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")、[FTIsland](../Page/FTIsland.md "wikilink")、[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")、[miss A](https://zh.wikipedia.org/wiki/miss_A "wikilink")、[Norazo](https://zh.wikipedia.org/wiki/Norazo "wikilink")、[Sistar](https://zh.wikipedia.org/wiki/Sistar "wikilink")、[Secret](../Page/Secret_\(組合\).md "wikilink")、[SG Wannabe](../Page/SG_Wannabe.md "wikilink")、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")、[Wonder Girls](../Page/Wonder_Girls.md "wikilink")、[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[東方神起](../Page/東方神起.md "wikilink")、[孫淡妃](../Page/孫淡妃.md "wikilink")
 
 ### 越南
 
@@ -945,8 +918,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
       - 日期:2010年5月22日
       - 地點:BILL GRAHAM CIVIC AUDITORIUM,San Francisco
       - 名稱:MXY MASH 2010 SF BAY AREA CONCERT \[41\]
-      - 同場演出藝人:[T-Pain](https://zh.wikipedia.org/wiki/T-Pain "wikilink")、[Bruno
-        Mars](https://zh.wikipedia.org/wiki/Bruno_Mars "wikilink")
+      - 同場演出藝人:[T-Pain](https://zh.wikipedia.org/wiki/T-Pain "wikilink")、[Bruno Mars](https://zh.wikipedia.org/wiki/Bruno_Mars "wikilink")
 
 <!-- end list -->
 
@@ -962,8 +934,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
       - 日期:2012年3月23日
       - 地點:香港會議展覽中心
       - 名稱:香港亞洲流行音樂節 2012 \[43\]
-      - 同場演出藝人:[東方神起](../Page/東方神起.md "wikilink")
-        [Ali](https://zh.wikipedia.org/wiki/Ali "wikilink")
+      - 同場演出藝人:[東方神起](../Page/東方神起.md "wikilink") [Ali](https://zh.wikipedia.org/wiki/Ali "wikilink")
 
 ### 马来西亚
 
@@ -1012,12 +983,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
   -
   - [韓國官方CAFE](http://cafe.daum.net/Browneyedgirls/)
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
-[Category:Mystic娛樂](https://zh.wikipedia.org/wiki/Category:Mystic娛樂 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:Mystic娛樂](https://zh.wikipedia.org/wiki/Category:Mystic娛樂 "wikilink")
 
 1.
 2.
@@ -1034,8 +1000,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 13.
 14.
 15.
-16. [브라운아이드걸스 "팬들 있어
-    발전한다"](http://star.mt.co.kr/view/stview.php?no=2007122808193613247&type=1&outlink=1)
+16. [브라운아이드걸스 "팬들 있어 발전한다"](http://star.mt.co.kr/view/stview.php?no=2007122808193613247&type=1&outlink=1)
 17.
 18.
 19.
@@ -1044,14 +1009,9 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 22.
 23.
 24.
-25. [EYED
-    GIRLS、シン・ヘソンらが出演](http://www.chosunonline.com/entame/20101003000024「日韓交流おまつり」盛況、BROWN)
-
-26. [SEOUL TOKYO MUSIC
-    FESTIVAL 2010](http://freegear.jp/information/seoul-tokyo-music-festival-2010SBS創立20周年)
-
-27. [아이돌 '별들의 집합' 1만 5천팬
-    들썩\!](http://jpnews.kr/sub_read.html?uid=7439&section=sc1한류)
+25. [EYED GIRLS、シン・ヘソンらが出演](http://www.chosunonline.com/entame/20101003000024「日韓交流おまつり」盛況、BROWN)
+26. [SEOUL TOKYO MUSIC FESTIVAL 2010](http://freegear.jp/information/seoul-tokyo-music-festival-2010SBS創立20周年)
+27. [아이돌 '별들의 집합' 1만 5천팬 들썩\!](http://jpnews.kr/sub_read.html?uid=7439&section=sc1한류)
 28.
 29.
 30.
@@ -1061,12 +1021,9 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 34.
 35.
 36.
-37. [브라운아이드걸스, 태국 현지 열풍
-    '눈길'](http://www.asiae.co.kr/news/view.htm?idxno=2010091114360418422新한류)
+37. [브라운아이드걸스, 태국 현지 열풍 '눈길'](http://www.asiae.co.kr/news/view.htm?idxno=2010091114360418422新한류)
 38.
-39. [브아걸 "샘밴오\! 울란바토르" 좌충우돌 몽골 셀카
-    방문기](http://news.hankooki.com/lpage/culture/201003/h20100330063213111780.htm)
-
+39. [브아걸 "샘밴오\! 울란바토르" 좌충우돌 몽골 셀카 방문기](http://news.hankooki.com/lpage/culture/201003/h20100330063213111780.htm)
 40.
 41.
 42.

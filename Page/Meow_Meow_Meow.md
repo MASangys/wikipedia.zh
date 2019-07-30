@@ -1,6 +1,4 @@
-《**Meow Meow
-Meow**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[at17的首張音樂專輯](https://zh.wikipedia.org/wiki/at17 "wikilink")，專輯內共有10首歌曲和2首Bonus
-Tracks。其中收錄由[珍妮斯·艾恩原唱](../Page/珍妮斯·艾恩.md "wikilink")，[林一峰改編成粵語版本的](https://zh.wikipedia.org/wiki/林一峰 "wikilink")《》，也收錄了at17現場演唱[凱莉·米洛的](https://zh.wikipedia.org/wiki/凱莉·米洛 "wikilink")《》。
+《**Meow Meow Meow**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[at17的首張音樂專輯](https://zh.wikipedia.org/wiki/at17 "wikilink")，專輯內共有10首歌曲和2首Bonus Tracks。其中收錄由[珍妮斯·艾恩](../Page/珍妮斯·艾恩.md "wikilink")原唱，[林一峰改編成粵語版本的](https://zh.wikipedia.org/wiki/林一峰 "wikilink")《》，也收錄了at17現場演唱[凱莉·米洛的](https://zh.wikipedia.org/wiki/凱莉·米洛 "wikilink")《》。
 
 ## 曲目
 
@@ -20,10 +18,6 @@ Tracks。其中收錄由[珍妮斯·艾恩原唱](../Page/珍妮斯·艾恩.md "
 ## 外部連結
 
 [at17官方網頁](http://www.peoplemountainpeoplesea.com/at17/2008version/ThePrototype/index.html)
-[at17 【Meow Meow
-Meow】專輯介紹](http://tw.kkbox.com/album/yqgrdA66d9Agj1D0FDYC008l-index.html)
+[at17 【Meow Meow Meow】專輯介紹](http://tw.kkbox.com/album/yqgrdA66d9Agj1D0FDYC008l-index.html)
 
-[Category:at17音樂專輯](https://zh.wikipedia.org/wiki/Category:at17音樂專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:at17音樂專輯](https://zh.wikipedia.org/wiki/Category:at17音樂專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

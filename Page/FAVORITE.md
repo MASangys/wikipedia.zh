@@ -1,4 +1,4 @@
-**FAVORITE**（フェイバリット）最初是[CROSSNET有限公司旗下的](../Page/CROSSNET.md "wikilink")[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，母公司結束營運後獨自成立FAVORITE公司繼續製作發售遊戲。
+**FAVORITE**（フェイバリット）最初是[CROSSNET](../Page/CROSSNET.md "wikilink")有限公司旗下的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，母公司結束營運後獨自成立FAVORITE公司繼續製作發售遊戲。
 
 ## 概要
 
@@ -8,13 +8,9 @@
 
   - 2004年5月28日FAVORITE社推出處女作「AngelWish 〜放課後の召使いにチュッ\!〜」。\[8\]
   - 2009年7月CROSSNET FAVORITE獨立，之後的作品以FAVORITE的名義開始活動。
-  - 2010年1月29日推出第4作的[Fan
-    disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")「星空のメモリア
-    Eternal Heart」\[9\]，並獲得《2010年萌系遊戲大賞》Fan disc金獎。\[10\]
+  - 2010年1月29日推出第4作的[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")「星空のメモリア Eternal Heart」\[9\]，並獲得《2010年萌系遊戲大賞》Fan disc金獎。\[10\]
   - 2011年7月29日推出第5作「いろとりどりのセカイ」\[11\]，並獲得「2011年萌系遊戲大賞」的繪圖銀獎。\[12\]
-  - 2012年8月31日推出第5作的Fan
-    disc「いろとりどりのヒカリ」\[13\]，並獲得「2012年萌系遊戲大賞」純愛系作品獎、Fan
-    Disk獎共兩項金獎。\[14\]\[15\]
+  - 2012年8月31日推出第5作的Fan disc「いろとりどりのヒカリ」\[13\]，並獲得「2012年萌系遊戲大賞」純愛系作品獎、Fan Disk獎共兩項金獎。\[14\]\[15\]
   - 2014年7月25日推出第6作「アストラエアの白き永遠」\[16\]，並獲得「2014年萌系遊戲大賞」的BGM金獎。\[17\]
 
 ## 作品一覧
@@ -95,12 +91,8 @@
 
 ### 遊戲機移植版
 
-  - 2015年3月19日 - [いろとりどりのセカイ WORLD'S END
-    -RE:BIRTH](https://zh.wikipedia.org/wiki/いろとりどりのセカイ "wikilink")（發行單位：dramatic
-    create、機種：[PSV](https://zh.wikipedia.org/wiki/PSV "wikilink")）
-  - 2016年9月22日 - [アストラエアの白き永遠-White
-    Eternity-](https://zh.wikipedia.org/wiki/アストラエアの白き永遠 "wikilink")（發行單位：dramatic
-    create、機種：[PSV](https://zh.wikipedia.org/wiki/PSV "wikilink")）
+  - 2015年3月19日 - [いろとりどりのセカイ WORLD'S END -RE:BIRTH](https://zh.wikipedia.org/wiki/いろとりどりのセカイ "wikilink")（發行單位：dramatic create、機種：[PSV](https://zh.wikipedia.org/wiki/PSV "wikilink")）
+  - 2016年9月22日 - [アストラエアの白き永遠-White Eternity-](https://zh.wikipedia.org/wiki/アストラエアの白き永遠 "wikilink")（發行單位：dramatic create、機種：[PSV](https://zh.wikipedia.org/wiki/PSV "wikilink")）
 
 ## 主要成員
 
@@ -142,8 +134,7 @@
 
 <!-- end list -->
 
-  - 忍 - 『星空のメモリア -Wish upon a shooting star-』至『アストラエアの白き永遠-White
-    Eternity-』的所有樂曲。
+  - 忍 - 『星空のメモリア -Wish upon a shooting star-』至『アストラエアの白き永遠-White Eternity-』的所有樂曲。
 
 <!-- end list -->
 
@@ -151,10 +142,8 @@
 
 <!-- end list -->
 
-  - [橋本美雪](../Page/橋本美雪.md "wikilink") - 歌手。演唱『星空のメモリア -Wish upon a
-    shooting star-』的主題曲。
-  - [eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink") -
-    歌手。演唱『いろとりどりのセカイ』『いろとりどりのヒカリ』的主題曲。
+  - [橋本美雪](../Page/橋本美雪.md "wikilink") - 歌手。演唱『星空のメモリア -Wish upon a shooting star-』的主題曲。
+  - [eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink") - 歌手。演唱『いろとりどりのセカイ』『いろとりどりのヒカリ』的主題曲。
   - [新田惠海](../Page/新田惠海.md "wikilink") - 歌手。演唱『アストラエアの白き永遠』的主題曲。
 
 ## 參考資料
@@ -166,11 +155,9 @@
   - [Favorite Official HomePage](http://www.favo.co.jp/soft/)
 
   -
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
 
-1.  [氷山 あずきBlog](http://blog.livedoor.jp/ko_azuki/archives/713526.html)
-    ，Favorite原畫家的部落格。
+1.  [氷山 あずきBlog](http://blog.livedoor.jp/ko_azuki/archives/713526.html) ，Favorite原畫家的部落格。
 2.
 3.
 4.

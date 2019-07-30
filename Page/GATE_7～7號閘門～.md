@@ -1,10 +1,8 @@
-《**GATE
-7～7號閘門～**》（）是[CLAMP的](../Page/CLAMP.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。該作品首先以[短篇形式於](https://zh.wikipedia.org/wiki/短篇 "wikilink")[2010年11月刊登於月刊](../Page/2010年11月.md "wikilink")《[Jump
-Square](../Page/Jump_Square.md "wikilink")》\[1\]，而在短篇亮相的同時該雜誌則宣佈於[2011年2月開始正式連載此作](../Page/2011年2月.md "wikilink")\[2\]。
+《**GATE 7～7號閘門～**》（）是[CLAMP](../Page/CLAMP.md "wikilink")的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。該作品首先以[短篇形式於](https://zh.wikipedia.org/wiki/短篇 "wikilink")[2010年11月](../Page/2010年11月.md "wikilink")刊登於月刊《[Jump Square](../Page/Jump_Square.md "wikilink")》\[1\]，而在短篇亮相的同時該雜誌則宣佈於[2011年2月](../Page/2011年2月.md "wikilink")開始正式連載此作\[2\]。
 
 ## 故事簡介
 
-故事序幕由主角高本致佳人初次到[京都的](../Page/京都.md "wikilink")[神社觀光途中看見三位擁有異能的人在神秘空間和不明生物戰鬥的一刻開始揭開](../Page/神社.md "wikilink")。事件後三個月當致佳人再次踏足京都的土地物色住處時，竟然在一家麵店遇上原以為不會再見到的異能三人組……？
+故事序幕由主角高本致佳人初次到[京都](../Page/京都.md "wikilink")的[神社](../Page/神社.md "wikilink")觀光途中看見三位擁有異能的人在神秘空間和不明生物戰鬥的一刻開始揭開。事件後三個月當致佳人再次踏足京都的土地物色住處時，竟然在一家麵店遇上原以為不會再見到的異能三人組……？
 
 ## 登場人物
 
@@ -12,20 +10,17 @@ Square](../Page/Jump_Square.md "wikilink")》\[1\]，而在短篇亮相的同時
 
   - 高本致佳人（）
     喜歡歷史和其他古老事物的高中生\[3\]，因為曾經在咖啡店的廚房打工\[4\] 而學會做菜\[5\]。
-    高二升高三時由東京轉學到京都並開始獨自生活\[6\]，在找房子途中被裏七軒房客之一的HANA邀請住在同一屋簷下\[7\]
-    被神言判定為\[無\]。
+    高二升高三時由東京轉學到京都並開始獨自生活\[6\]，在找房子途中被裏七軒房客之一的HANA邀請住在同一屋簷下\[7\] 被神言判定為\[無\]。
 
 <!-- end list -->
 
   - HANA（）
-    裏七軒住客之一，喜歡吃[麵](https://zh.wikipedia.org/wiki/麵 "wikilink")\[8\]
-    使用妙法作戰,並可將對戰過的對手的技能吸收並加以使用。
+    裏七軒住客之一，喜歡吃[麵](https://zh.wikipedia.org/wiki/麵 "wikilink")\[8\] 使用妙法作戰,並可將對戰過的對手的技能吸收並加以使用。
 
 <!-- end list -->
 
   - 橘（）
-    裏七軒住客之一，討厭早起\[9\]，目前是一位大學生\[10\]
-    其姐被德川拘禁利用為了找出其姐下落而加入,主要為製造屬性武器給HANA或櫻使用。
+    裏七軒住客之一，討厭早起\[9\]，目前是一位大學生\[10\] 其姐被德川拘禁利用為了找出其姐下落而加入,主要為製造屬性武器給HANA或櫻使用。
 
 <!-- end list -->
 
@@ -80,7 +75,7 @@ Square](../Page/Jump_Square.md "wikilink")》\[1\]，而在短篇亮相的同時
 <!-- end list -->
 
   - [細川加西亞](https://zh.wikipedia.org/wiki/明智玉 "wikilink")（）
-    哥德蘿莉風少女，家光的部下。本名「珠（）」。[細川忠興的妻子](../Page/細川忠興.md "wikilink")。隱威為「逃水」。
+    哥德蘿莉風少女，家光的部下。本名「珠（）」。[細川忠興](../Page/細川忠興.md "wikilink")的妻子。隱威為「逃水」。
 
 <!-- end list -->
 
@@ -110,13 +105,12 @@ Square](../Page/Jump_Square.md "wikilink")》\[1\]，而在短篇亮相的同時
 <!-- end list -->
 
   - 第六天魔王
-    被稱為最強的隱威，自被[織田信長封印到其體內後至今不見蹤影](../Page/織田信長.md "wikilink")\[19\]。
+    被稱為最強的隱威，自被[織田信長](../Page/織田信長.md "wikilink")封印到其體內後至今不見蹤影\[19\]。
 
 ## 名詞解釋
 
   - 裏七軒
-    與上七軒同時興建\[20\] 並相連\[21\]
-    的建築物，居住著一個以[战国時代](../Page/战国时代_\(日本\).md "wikilink")[豊臣家為首的異能集團](https://zh.wikipedia.org/wiki/豊臣秀吉 "wikilink")\[22\]。
+    與上七軒同時興建\[20\] 並相連\[21\] 的建築物，居住著一個以[战国時代](../Page/战国时代_\(日本\).md "wikilink")[豊臣家為首的異能集團](https://zh.wikipedia.org/wiki/豊臣秀吉 "wikilink")\[22\]。
   - 隱威（）
     其日語發音和鬼（）相同\[23\]，一般只有異能人才可以看到他們\[24\]。
     有不少日本戰國武將都有和這種非人生物訂立血的約定（簡稱血約），其約定效力會隨繼承者血統淡薄而減少\[25\]。
@@ -170,16 +164,11 @@ Square](../Page/Jump_Square.md "wikilink")》\[1\]，而在短篇亮相的同時
 
 ## 外部連結
 
-  - [《Jump
-    Square》官方介紹頁](https://web.archive.org/web/20110926011754/http://jumpsq.shueisha.co.jp/contents/gate7/)
+  - [《Jump Square》官方介紹頁](https://web.archive.org/web/20110926011754/http://jumpsq.shueisha.co.jp/contents/gate7/)
 
-  - [《GATE 7～7號閘門～》](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=12578)
-    在[Anime News
-    Network百科全書中的資料](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")。
+  - [《GATE 7～7號閘門～》](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=12578) 在[Anime News Network百科全書中的資料](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")。
 
-[Category:Jump_Square](https://zh.wikipedia.org/wiki/Category:Jump_Square "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
-[Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink")
+[Category:Jump_Square](https://zh.wikipedia.org/wiki/Category:Jump_Square "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink")
 
 1.
 

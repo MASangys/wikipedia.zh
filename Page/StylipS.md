@@ -1,5 +1,4 @@
-**StylipS**（\[1\]）是[Style
-Cube所屬的](../Page/Style_Cube.md "wikilink")[女性](../Page/女性.md "wikilink")[声优](https://zh.wikipedia.org/wiki/日本配音員 "wikilink")3人組成的[声優组合](https://zh.wikipedia.org/wiki/声優组合 "wikilink")。所屬唱片公司是[Lantis](../Page/Lantis.md "wikilink")。
+**StylipS**（\[1\]）是[Style Cube所屬的](../Page/Style_Cube.md "wikilink")[女性](../Page/女性.md "wikilink")[声优](https://zh.wikipedia.org/wiki/日本配音員 "wikilink")3人組成的[声優组合](https://zh.wikipedia.org/wiki/声優组合 "wikilink")。所屬唱片公司是[Lantis](../Page/Lantis.md "wikilink")。
 
 组合的概念是「**一起實現夢想**（）」。
 
@@ -8,14 +7,13 @@ Cube所屬的](../Page/Style_Cube.md "wikilink")[女性](../Page/女性.md "wiki
 ### 現任成員
 
   -
-    1988年12月26日生，[千葉縣出身](../Page/千葉縣.md "wikilink")。自我介紹是「****」\[2\]。
+    1988年12月26日生，[千葉縣](../Page/千葉縣.md "wikilink")出身。自我介紹是「****」\[2\]。
     歌曲的編舞皆由其擔任。
 
 <!-- end list -->
 
   -
-    1995年3月15日生，[茨城縣出身](../Page/茨城縣.md "wikilink")。2012年第1回Style
-    Cube聲優選拔合格。
+    1995年3月15日生，[茨城縣](../Page/茨城縣.md "wikilink")出身。2012年第1回Style Cube聲優選拔合格。
 
 <!-- end list -->
 
@@ -25,17 +23,17 @@ Cube所屬的](../Page/Style_Cube.md "wikilink")[女性](../Page/女性.md "wiki
 ### 過往成員
 
   -
-    1993年8月6日生，[千葉縣出身](../Page/千葉縣.md "wikilink")。自我介紹是「****」\[3\]。於2013年4月24日畢業。
+    1993年8月6日生，[千葉縣](../Page/千葉縣.md "wikilink")出身。自我介紹是「****」\[3\]。於2013年4月24日畢業。
 
 <!-- end list -->
 
   -
-    1995年8月15日生，[群馬縣出身](../Page/群馬縣.md "wikilink")。自我介紹是「****」\[4\]。於2013年4月24日畢業。
+    1995年8月15日生，[群馬縣](../Page/群馬縣.md "wikilink")出身。自我介紹是「****」\[4\]。於2013年4月24日畢業。
 
 <!-- end list -->
 
   -
-    1993年1月23日生，[東京都出身](../Page/東京都.md "wikilink")。自我介紹是「****」\[5\]。於2016年5月20日畢業\[6\]。
+    1993年1月23日生，[東京都](../Page/東京都.md "wikilink")出身。自我介紹是「****」\[5\]。於2016年5月20日畢業\[6\]。
 
 ## 略歴
 
@@ -44,8 +42,7 @@ Cube所屬的](../Page/Style_Cube.md "wikilink")[女性](../Page/女性.md "wiki
 <!-- end list -->
 
   - 12月、官方網站和特設網站開放，活動開始\[7\]。
-  - 12月28日、首個活動『Brand-new Style volume
-    zero〜はじめまして\!StylipSです\!\!〜』在池袋的[サンシャインシティ噴水廣場舉行](https://zh.wikipedia.org/wiki/サンシャインシティ "wikilink")\[8\]\[9\]。
+  - 12月28日、首個活動『Brand-new Style volume zero〜はじめまして\!StylipSです\!\!〜』在池袋的[サンシャインシティ噴水廣場舉行](https://zh.wikipedia.org/wiki/サンシャインシティ "wikilink")\[8\]\[9\]。
 
 <!-- end list -->
 
@@ -55,8 +52,7 @@ Cube所屬的](../Page/Style_Cube.md "wikilink")[女性](../Page/女性.md "wiki
 
   - 2月8日、出道單曲「[STUDY×STUDY](../Page/STUDY×STUDY.md "wikilink")」發售\[10\]。
   - 5月16日、2nd單曲「[MIRACLE RUSH](../Page/MIRACLE_RUSH.md "wikilink")」發售。
-  - 8月22日、3rd單曲「[Choose
-    me♡ダーリン](https://zh.wikipedia.org/wiki/Choose_me♡ダーリン "wikilink")」發售。
+  - 8月22日、3rd單曲「[Choose me♡ダーリン](https://zh.wikipedia.org/wiki/Choose_me♡ダーリン "wikilink")」發售。
 
 <!-- end list -->
 
@@ -64,11 +60,9 @@ Cube所屬的](../Page/Style_Cube.md "wikilink")[女性](../Page/女性.md "wiki
 
 <!-- end list -->
 
-  - 4月24日、出道首張精選專輯「[THE LIGHTNING
-    CELEBRATION](https://zh.wikipedia.org/wiki/THE_LIGHTNING_CELEBRATION "wikilink")」發售。
-  - 4月24日、成員[小倉唯](../Page/小倉唯.md "wikilink")、[石原夏織宣布將從StylipS畢業](../Page/石原夏織.md "wikilink")。
-  - 4月27日、Style
-    Cube研修生[豐田萌繪](../Page/豐田萌繪.md "wikilink")、[伊藤美來正式加入](../Page/伊藤美來.md "wikilink")。
+  - 4月24日、出道首張精選專輯「[THE LIGHTNING CELEBRATION](https://zh.wikipedia.org/wiki/THE_LIGHTNING_CELEBRATION "wikilink")」發售。
+  - 4月24日、成員[小倉唯](../Page/小倉唯.md "wikilink")、[石原夏織](../Page/石原夏織.md "wikilink")宣布將從StylipS畢業。
+  - 4月27日、Style Cube研修生[豐田萌繪](../Page/豐田萌繪.md "wikilink")、[伊藤美來](../Page/伊藤美來.md "wikilink")正式加入。
   - 7月24日、新生StylipS的4th單曲「Prism Sympathy」發售。
 
 ## 唱片
@@ -187,7 +181,7 @@ LACM-34196（DVD附）</p></td>
 </tr>
 <tr class="odd">
 <td><p>MIRACLE RUSH</p></td>
-<td><p>電視動畫『<a href="../Page/咲-Saki-.md" title="wikilink">咲-Saki-阿知賀編 episode of side-A</a>』片頭曲</p></td>
+<td><p>電視動畫『<a href="../Page/咲-Saki-.md" title="wikilink">咲-Saki- episode of side-A</a>阿知賀編』片頭曲</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -203,7 +197,7 @@ LACM-34196（DVD附）</p></td>
 </tr>
 <tr class="odd">
 <td><p>TSU・BA・SA</p></td>
-<td><p>電視動畫『<a href="../Page/咲-Saki-.md" title="wikilink">咲-Saki-阿知賀編 episode of side-A</a>』特別插曲</p></td>
+<td><p>電視動畫『<a href="../Page/咲-Saki-.md" title="wikilink">咲-Saki- episode of side-A</a>阿知賀編』特別插曲</p></td>
 </tr>
 <tr class="even">
 <td><p>Prism Sympathy</p></td>
@@ -248,11 +242,9 @@ LACM-34196（DVD附）</p></td>
 
 ### 電視
 
-  - [惡魔高校D×D](https://zh.wikipedia.org/wiki/惡魔高校D×D#電視動畫 "wikilink")（2012年1月
-    - 3月）\[13\]
+  - [惡魔高校D×D](https://zh.wikipedia.org/wiki/惡魔高校D×D#電視動畫 "wikilink")（2012年1月 - 3月）\[13\]
   - [アニソンぷらす](https://zh.wikipedia.org/wiki/アニソンぷらす "wikilink")（2012年1月30日、[東京電視台](../Page/東京電視台.md "wikilink")）\[14\]
-  - [咲-Saki- 阿知賀編 episode of
-    side-A](../Page/咲-Saki-.md "wikilink")（2012年4月 - 6月）
+  - [咲-Saki- 阿知賀編 episode of side-A](../Page/咲-Saki-.md "wikilink")（2012年4月 - 6月）
   - [其中1個是妹妹！](../Page/其中1個是妹妹！.md "wikilink")（2012年7月 - 9月）
 
 ### WEB
@@ -261,15 +253,11 @@ LACM-34196（DVD附）</p></td>
 
 ### WEB廣播
 
-  - [惡魔高校D×D 駒王学園
-    裏オカルト研究部](https://zh.wikipedia.org/wiki/惡魔高校D×D#WEBラジオ "wikilink")（2011年12月12日
-    - 2012年3月19日、[HiBiKi Radio
-    Station](https://zh.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")）\[17\]
+  - [惡魔高校D×D 駒王学園 裏オカルト研究部](https://zh.wikipedia.org/wiki/惡魔高校D×D#WEBラジオ "wikilink")（2011年12月12日 - 2012年3月19日、[HiBiKi Radio Station](https://zh.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")）\[17\]
 
 ### Live・活動
 
-  - Brand-new Style volume
-    zero〜はじめまして\!StylipSです\!\!〜（2011年12月28日、[サンシャインシティ噴水廣場](../Page/太陽城_\(東京\).md "wikilink")）\[18\]\[19\]
+  - Brand-new Style volume zero〜はじめまして\!StylipSです\!\!〜（2011年12月28日、[サンシャインシティ噴水廣場](../Page/太陽城_\(東京\).md "wikilink")）\[18\]\[19\]
 
 ## 備註
 
@@ -282,10 +270,7 @@ LACM-34196（DVD附）</p></td>
   - [官方網站](http://stylips.jp/)
   - [StylipS（Lantis web site）](http://www.lantis.jp/special/stylips/)
 
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
+[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
 
 1.
 

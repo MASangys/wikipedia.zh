@@ -1,10 +1,8 @@
-《**A頻道**》（），是一套日本[四格漫畫](../Page/四格漫畫.md "wikilink")，為[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[黑田bb的作品](../Page/黑田bb.md "wikilink")。於2008年10月28日起首次在[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")[雜誌](../Page/漫畫雜誌.md "wikilink")《[Manga
-Time Kirara
-Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上連載\[1\]。已出版9冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。電視動畫由[Studio五組製作並於](../Page/Studio五組.md "wikilink")2011年4月7日開始播放。
+《**A頻道**》（），是一套日本[四格漫畫](../Page/四格漫畫.md "wikilink")，為[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[黑田bb](../Page/黑田bb.md "wikilink")的作品。於2008年10月28日起首次在[芳文社](../Page/芳文社.md "wikilink")發行的[四格漫畫](../Page/四格漫畫.md "wikilink")[雜誌](../Page/漫畫雜誌.md "wikilink")《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上連載\[1\]。已出版9冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。電視動畫由[Studio五組](../Page/Studio五組.md "wikilink")製作並於2011年4月7日開始播放。
 
 ## 故事簡介
 
-講述**小倫**、**由宇子**、**小透**、**渚**4個高中女生日常生活，主要以[天然呆的小倫耍笨讓周遭的人吐槽作為劇情主軸](../Page/天然呆.md "wikilink")。
+講述**小倫**、**由宇子**、**小透**、**渚**4個高中女生日常生活，主要以[天然呆](../Page/天然呆.md "wikilink")的小倫耍笨讓周遭的人吐槽作為劇情主軸。
 
 ## 角色
 
@@ -194,9 +192,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上連載\[1\]。已出�
   -
     {| class="wikitable" style="font-size:small"
 
-|- \!rowspan="2"| 卷數 \!colspan="2"|  [芳文社](../Page/芳文社.md "wikilink") |-
-\!初版發售日期\!\![ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |- \!
-1 | 2011年6月27日 || ISBN 978-4-8322-4043-8 |}
+|- \!rowspan="2"| 卷數 \!colspan="2"|  [芳文社](../Page/芳文社.md "wikilink") |- \!初版發售日期\!\![ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |- \! 1 | 2011年6月27日 || ISBN 978-4-8322-4043-8 |}
 
   -
 <!-- end list -->
@@ -204,9 +200,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上連載\[1\]。已出�
   -
     {| class="wikitable" style="font-size:small"
 
-|- \!colspan="2"|  [芳文社](../Page/芳文社.md "wikilink") |-
-\!初版發售日期\!\![ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink")
-|- | 2011年7月27日 || ISBN 978-4-8322-4050-6 |}
+|- \!colspan="2"|  [芳文社](../Page/芳文社.md "wikilink") |- \!初版發售日期\!\![ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |- | 2011年7月27日 || ISBN 978-4-8322-4050-6 |}
 
   -
 <!-- end list -->
@@ -214,14 +208,11 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上連載\[1\]。已出�
   -
     {| class="wikitable" style="font-size:small"
 
-|- \!colspan="2"|  [芳文社](../Page/芳文社.md "wikilink") |-
-\!初版發售日期\!\![ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink")
-|- | 2011年8月27日 || ISBN 978-4-8322-4060-5 |}
+|- \!colspan="2"|  [芳文社](../Page/芳文社.md "wikilink") |- \!初版發售日期\!\![ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |- | 2011年8月27日 || ISBN 978-4-8322-4060-5 |}
 
 ## 電視動畫
 
-  - 以『Aチャンネル A-CHANNEL THE ANIMATION』為標題播出（數位電視節目表則標示為A
-    Channel），插入歌播出時在畫面下方有提供歌詞，下集預告數位電視亦有提供字幕。\[3\]
+  - 以『Aチャンネル A-CHANNEL THE ANIMATION』為標題播出（數位電視節目表則標示為A Channel），插入歌播出時在畫面下方有提供歌詞，下集預告數位電視亦有提供字幕。\[3\]
   - TBS在播出第一集開頭時，出現「由以下的贊助商提供」的語音，由於與節目內的對話同一時間播出，在第二集起取消該語音。
 
 ### 製作人員
@@ -240,13 +231,10 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上連載\[1\]。已出�
 
   - 主題曲
     片頭曲「Morning Arch」
-    作詞 - [こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink") /
-    作曲・編曲：[神前曉](https://zh.wikipedia.org/wiki/神前曉 "wikilink") /
-    歌：[河野万里奈](https://zh.wikipedia.org/wiki/河野万里奈 "wikilink")
+    作詞 - [こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink") / 作曲・編曲：[神前曉](https://zh.wikipedia.org/wiki/神前曉 "wikilink") / 歌：[河野万里奈](https://zh.wikipedia.org/wiki/河野万里奈 "wikilink")
   - 片尾曲「」\[4\]收錄於Blu-ray/DVD第一卷完全生產限定版的特典CD中。</ref> （第1話 - 第11話）
     作詞 - こだまさおり / 作曲・編曲 - 神前曉
-    歌 -
-    倫（[福原香織](../Page/福原香織.md "wikilink")）、透（[悠木碧](../Page/悠木碧.md "wikilink")）、渚（[内山夕實](https://zh.wikipedia.org/wiki/内山夕實 "wikilink")）、由宇子（[壽美菜子](../Page/壽美菜子.md "wikilink")）
+    歌 - 倫（[福原香織](../Page/福原香織.md "wikilink")）、透（[悠木碧](../Page/悠木碧.md "wikilink")）、渚（[内山夕實](https://zh.wikipedia.org/wiki/内山夕實 "wikilink")）、由宇子（[壽美菜子](../Page/壽美菜子.md "wikilink")）
 
 ### 劇中歌
 
@@ -288,8 +276,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上連載\[1\]。已出�
   -
 
       -
-        作詞 - 古屋真 / 作曲・編曲 -
-        [オオヤギヒロオ](https://zh.wikipedia.org/wiki/オオヤギヒロオ "wikilink")
+        作詞 - 古屋真 / 作曲・編曲 - [オオヤギヒロオ](https://zh.wikipedia.org/wiki/オオヤギヒロオ "wikilink")
         歌 - 由宇子（壽美菜子）
 
 :; 「」（第6話）
@@ -305,8 +292,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上連載\[1\]。已出�
   -
 
       -
-        作詞・作曲・編曲 -
-        [TSUKASA](https://zh.wikipedia.org/wiki/TSUKASA_\(作曲家\) "wikilink")
+        作詞・作曲・編曲 - [TSUKASA](https://zh.wikipedia.org/wiki/TSUKASA_\(作曲家\) "wikilink")
         歌 - 由宇子（壽美菜子）
 
 :;「」（第7話）\[8\]收錄於Blu-ray/DVD第四卷完全生產限定版的特典CD中。</ref>
@@ -314,8 +300,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上連載\[1\]。已出�
   -
 
       -
-        作詞 - 古屋真 / 作曲 - TSUKASA / 編曲 -
-        [ACOMPANAR](https://zh.wikipedia.org/wiki/ACOMPANAR "wikilink")
+        作詞 - 古屋真 / 作曲 - TSUKASA / 編曲 - [ACOMPANAR](https://zh.wikipedia.org/wiki/ACOMPANAR "wikilink")
         歌 - 倫（福原香織）
 
 :;「」（第7話）\[9\]收錄於Blu-ray/DVD第四卷完全生產限定版的特典CD中。</ref>
@@ -347,8 +332,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上連載\[1\]。已出�
   -
 
       -
-        作詞・作曲 - [arata](https://zh.wikipedia.org/wiki/arata "wikilink")
-        / 編曲 - yamazo
+        作詞・作曲 - [arata](https://zh.wikipedia.org/wiki/arata "wikilink") / 編曲 - yamazo
         歌 - 小倫（福原香織）、透（悠木碧）
 
 :;「」（第9話）
@@ -655,23 +639,18 @@ Channel 12「宇宙人」</p></td>
 #### 主題曲（OVA）
 
   - 主題曲「バルーンシアター」
-    作詞 - [こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink") /
-    作・編曲 - [神前晓](../Page/神前晓.md "wikilink") / 歌 -
-    [河野萬里奈](../Page/河野萬里奈.md "wikilink")
+    作詞 - [こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink") / 作・編曲 - [神前晓](../Page/神前晓.md "wikilink") / 歌 - [河野萬里奈](../Page/河野萬里奈.md "wikilink")
   - 片尾曲「スマイル方程式」
     作詞 - こだまさおり / 作・編曲 - 石濱翔（MONOCA）
-    歌 -
-    るん（[福原香織](../Page/福原香織.md "wikilink")）、トオル（[悠木碧](../Page/悠木碧.md "wikilink")）、ナギ（[内山夕實](https://zh.wikipedia.org/wiki/内山夕實 "wikilink")）、ユー子（[寿美菜子](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")）
+    歌 - るん（[福原香織](../Page/福原香織.md "wikilink")）、トオル（[悠木碧](../Page/悠木碧.md "wikilink")）、ナギ（[内山夕實](https://zh.wikipedia.org/wiki/内山夕實 "wikilink")）、ユー子（[寿美菜子](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")）
 
 #### 劇中歌（OVA）
 
   - 「」（第1話）
     作詞・作曲 - hanawaya / 編曲 - 流歌
-    歌 -
-    トオル（悠木碧）、ユタカ（[又吉愛](../Page/又吉愛.md "wikilink")）、ミホ（[齋藤桃子](../Page/齋藤桃子.md "wikilink")）
+    歌 - トオル（悠木碧）、ユタカ（[又吉愛](../Page/又吉愛.md "wikilink")）、ミホ（[齋藤桃子](../Page/齋藤桃子.md "wikilink")）
   - 「」（第2話）
-    作詞 - 古屋真 / 作曲 - クマロボ / 編曲 -
-    クマロボ、[ACOMPANAR](https://zh.wikipedia.org/wiki/ACOMPANAR "wikilink")
+    作詞 - 古屋真 / 作曲 - クマロボ / 編曲 - クマロボ、[ACOMPANAR](https://zh.wikipedia.org/wiki/ACOMPANAR "wikilink")
     歌 - るん（福原香織）、トオル（悠木碧）、ナギ（内山夕實）、ユー子（寿美菜子）
   - 「」（第3話）
     作詞 - 古屋真 / 作曲 - yamazo / 編曲 - yamazo
@@ -726,23 +705,16 @@ Channel 12「宇宙人」</p></td>
 
 ### Blu-ray Disc BOX
 
-动画的Blu-ray Disc
-BOX于2017年9月27日发售，收录电视动画、单独发售版OVA、BD/DVD动画短片，以及1话新制作的OVA，标题为\[12\]。
+动画的Blu-ray Disc BOX于2017年9月27日发售，收录电视动画、单独发售版OVA、BD/DVD动画短片，以及1话新制作的OVA，标题为\[12\]。
 
 ## 參考資料與注釋
 
 ## 外部連結
 
   - [A-Channel 動畫官網](http://www.a-ch.jp/onair/index.html)
-  - [A-Channel
-    日本animax官網](https://web.archive.org/web/20110511085457/http://www.animax.co.jp/feature/index.php?code=NN10001161)
+  - [A-Channel 日本animax官網](https://web.archive.org/web/20110511085457/http://www.animax.co.jp/feature/index.php?code=NN10001161)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-[Category:2011年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年TBS電視網動畫 "wikilink")
-[Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink")
-[Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:2011年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年TBS電視網動畫 "wikilink") [Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
 
 1.
 

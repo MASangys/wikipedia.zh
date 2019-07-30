@@ -2,8 +2,7 @@
 
 ## 成員
 
-  - 今井永（Imai Nori）与今井久（Imai
-    Hisa），二人均为1972年2月11日出生于[群馬縣](../Page/群馬縣.md "wikilink")。
+  - 今井永（Imai Nori）与今井久（Imai Hisa），二人均为1972年2月11日出生于[群馬縣](../Page/群馬縣.md "wikilink")。
 
 ## 概要
 
@@ -14,8 +13,7 @@
 
 ## 作品
 
-發售全部由[Victor
-Entertainment進行](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
+發售全部由[Victor Entertainment進行](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
 
 ### 單曲
 
@@ -45,6 +43,4 @@ Entertainment進行](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilin
   - 超魔神英雄伝ワタル 音楽篇III （1998.11.21）
       - M-2 Dream Balloon
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:雙胞胎人物](https://zh.wikipedia.org/wiki/Category:雙胞胎人物 "wikilink")
-[Category:群馬縣出身人物](https://zh.wikipedia.org/wiki/Category:群馬縣出身人物 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:雙胞胎人物](https://zh.wikipedia.org/wiki/Category:雙胞胎人物 "wikilink") [Category:群馬縣出身人物](https://zh.wikipedia.org/wiki/Category:群馬縣出身人物 "wikilink")

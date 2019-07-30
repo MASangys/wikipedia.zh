@@ -1,16 +1,8 @@
-**PlayStation Vita系统软件**是指官方发布的[PlayStation
-Vita和](../Page/PlayStation_Vita.md "wikilink")[PlayStation Vita
-TV可升级](../Page/PlayStation_Vita_TV.md "wikilink")[固件](https://zh.wikipedia.org/wiki/固件 "wikilink")。
+**PlayStation Vita系统软件**是指官方发布的[PlayStation Vita和](../Page/PlayStation_Vita.md "wikilink")[PlayStation Vita TV可升级](../Page/PlayStation_Vita_TV.md "wikilink")[固件](https://zh.wikipedia.org/wiki/固件 "wikilink")。
 
-该系统软件的升级方式与[PSP](../Page/PlayStation_Portable.md "wikilink")、[PS3以及](../Page/PlayStation_3.md "wikilink")[PS4等几乎一样](../Page/PlayStation_4.md "wikilink")。该系统软件可以通过在PS
-Vita连接[Wi-Fi的情况下下载升级文件](../Page/Wi-Fi.md "wikilink")\[1\]、通过PS3下载升级文件\[2\]、通过PC下载升级文件\[3\]、或者通过附有升级文件的PS
-Vita游戏卡来安装升级\[4\]。PlayStation
-TV系统也可以通过连接[因特网升级](https://zh.wikipedia.org/wiki/因特网 "wikilink")。PlayStation
-Vita使用[LiveArea作为默认](https://zh.wikipedia.org/wiki/LiveArea "wikilink")[可视界面](../Page/殼層.md "wikilink")。PlayStation
-Vita系统软件有一个可选附加组件——[PlayStation Mobile Runtime
-Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系统软件是一个脱胎于[FreeBSD和](../Page/FreeBSD.md "wikilink")[NetBSD的类Unix系统](../Page/NetBSD.md "wikilink")。\[5\]
+该系统软件的升级方式与[PSP](../Page/PlayStation_Portable.md "wikilink")、[PS3以及](../Page/PlayStation_3.md "wikilink")[PS4等几乎一样](../Page/PlayStation_4.md "wikilink")。该系统软件可以通过在PS Vita连接[Wi-Fi](../Page/Wi-Fi.md "wikilink")的情况下下载升级文件\[1\]、通过PS3下载升级文件\[2\]、通过PC下载升级文件\[3\]、或者通过附有升级文件的PS Vita游戏卡来安装升级\[4\]。PlayStation TV系统也可以通过连接[因特网升级](https://zh.wikipedia.org/wiki/因特网 "wikilink")。PlayStation Vita使用[LiveArea作为默认](https://zh.wikipedia.org/wiki/LiveArea "wikilink")[可视界面](../Page/殼層.md "wikilink")。PlayStation Vita系统软件有一个可选附加组件——[PlayStation Mobile Runtime Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系统软件是一个脱胎于[FreeBSD](../Page/FreeBSD.md "wikilink")和[NetBSD](../Page/NetBSD.md "wikilink")的类Unix系统。\[5\]
 
-目前最新的系统软件版本是2019年1月14日所發行的**3.70**版\[6\]。
+目前最新的系统软件版本是2019年7月23日所發行的**3.71**版\[6\]。
 
 ## 软件升级信息
 
@@ -33,8 +25,19 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><strong>3.71</strong><br />
+2019年7月23日[7]</p></td>
+<td><dl>
+<dt>系统</dt>
+
+</dl>
+<ul>
+<li>此系统软件升级将提升系统性能。</li>
+</ul></td>
+</tr>
+<tr class="even">
 <td><p><strong>3.70</strong><br />
-2019年1月14日[7]</p></td>
+2019年1月14日[8]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -43,9 +46,9 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 <li>此系统软件升级将提升系统性能。</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>3.69</strong><br />
-2018年9月11日[8]</p></td>
+2018年9月11日[9]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -54,9 +57,9 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 <li>此系统软件升级将提升系统性能。</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>3.68</strong><br />
-2018年4月10日[9]</p></td>
+2018年4月10日[10]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -65,9 +68,9 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 <li>针对系统的稳定性进行改进。</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>3.67</strong><br />
-2017年11月28日[10]</p></td>
+2017年11月28日[11]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -76,20 +79,9 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 <li>针对系统的稳定性进行改进。</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>3.65</strong><br />
-2017年4月18日[11]</p></td>
-<td><dl>
-<dt>系统</dt>
-
-</dl>
-<ul>
-<li>针对系统的稳定性进行改进。</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>3.63</strong><br />
-2016年11月1日[12]</p></td>
+2017年4月18日[12]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -99,8 +91,8 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>3.61</strong><br />
-2016年8月8日[13]</p></td>
+<td><p><strong>3.63</strong><br />
+2016年11月1日[13]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -110,8 +102,19 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 </ul></td>
 </tr>
 <tr class="even">
+<td><p><strong>3.61</strong><br />
+2016年8月8日[14]</p></td>
+<td><dl>
+<dt>系统</dt>
+
+</dl>
+<ul>
+<li>针对系统的稳定性进行改进。</li>
+</ul></td>
+</tr>
+<tr class="odd">
 <td><p><strong>3.60</strong><br />
-2016年4月6日[14]</p></td>
+2016年4月6日[15]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -120,20 +123,20 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 <li>提升系统的效能。</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>3.57</strong><br />
-2016年1月20日[15]</p></td>
+2016年1月20日[16]</p></td>
 <td><dl>
 <dt>PS4连动</dt>
 
 </dl>
 <ul>
-<li>終止支援與<a href="../Page/Facebook.md" title="wikilink">Facebook連動的功能</a></li>
+<li>終止支援與<a href="../Page/Facebook.md" title="wikilink">Facebook</a>連動的功能</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>3.55</strong><br />
-2015年9月30日[16]</p></td>
+2015年9月30日[17]</p></td>
 <td><dl>
 <dt>PS4连动</dt>
 
@@ -149,9 +152,20 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 <li>允许对电子邮件进行限制访问。</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>3.52</strong><br />
-2015年6月24日[17]</p></td>
+2015年6月24日[18]</p></td>
+<td><dl>
+<dt>系统</dt>
+
+</dl>
+<ul>
+<li>针对系统的稳定性进行改进。</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>3.51</strong><br />
+2015年5月14日[19]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -161,19 +175,8 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>3.51</strong><br />
-2015年5月14日[18]</p></td>
-<td><dl>
-<dt>系统</dt>
-
-</dl>
-<ul>
-<li>针对系统的稳定性进行改进。</li>
-</ul></td>
-</tr>
-<tr class="odd">
 <td><p><strong>3.50</strong><br />
-2015年3月26日[19]</p></td>
+2015年3月26日[20]</p></td>
 <td><dl>
 <dt>PlayStation Network</dt>
 
@@ -221,8 +224,8 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 <li>在［PlayStation™Network］＞［子账号管理］＞［聊天/用户生成的媒体内容］内，已可限制通过信息来收发玩家信息的功能。若要限制子账号使用该功能，请选择［不允许］。</li>
 </ul></td>
 </tr>
-<tr class="even">
-<td><p><strong>3.36</strong>[20]<br />
+<tr class="odd">
+<td><p><strong>3.36</strong>[21]<br />
 2015年1月14日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -232,8 +235,8 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 <li>提升系统以及部分應用程式的稳定性。</li>
 </ul></td>
 </tr>
-<tr class="odd">
-<td><p><strong>3.35</strong>[21]<br />
+<tr class="even">
+<td><p><strong>3.35</strong>[22]<br />
 2014年10月28日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -252,12 +255,12 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 <li>用户可以根据自己的网络环境来调整PS TV下遙控遊玩機能的视频质量。</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><strong>3.30</strong>[22]<br />
+<tr class="even">
+<td><p><strong>3.30</strong>[23]<br />
 2014年10月2日</p></td>
 <td><dl>
 <dt>設定</dt>
@@ -293,7 +296,7 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 <ul>
 <li>已可ㄧ次關閉所有視窗。請選擇［視窗］＞［選項］＞［關閉所有視窗］＞［OK］。</li>
 <li>已改善網頁的顯示速度。</li>
-<li>已強化支援<a href="../Page/HTML5.md" title="wikilink">HTML5及</a><a href="../Page/JavaScript.md" title="wikilink">JavaScript</a>。</li>
+<li>已強化支援<a href="../Page/HTML5.md" title="wikilink">HTML5</a>及<a href="../Page/JavaScript.md" title="wikilink">JavaScript</a>。</li>
 </ul>
 <dl>
 <dt>內容管理</dt>
@@ -316,23 +319,11 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 </ul></li>
 </ul></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p><strong>3.20</strong>[23]<br />
-</p></td>
-<td><dl>
-<dt>系统</dt>
-
-</dl></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><strong>3.18</strong>[24]<br />
 2014年8月7日</p></td>
 <td><dl>
@@ -343,11 +334,11 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 <li>提升系统稳定性</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>3.15</strong>[25]<br />
 2014年4月30日</p></td>
 <td><dl>
@@ -380,11 +371,11 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 </ul>
 <p>使用系统软件3.15版本的<a href="https://zh.wikipedia.org/wiki/PS_Vita" title="wikilink">PS Vita</a>/<a href="https://zh.wikipedia.org/wiki/PS_Vita_TV" title="wikilink">PS Vita TV来遥控操作</a><a href="https://zh.wikipedia.org/wiki/PS4" title="wikilink">PS4时</a>，<a href="https://zh.wikipedia.org/wiki/PS4" title="wikilink">PS4的系统软件需升级为</a>1.70以上版本。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>3.01</strong>[26]<br />
 2013年12月11日</p></td>
 <td><dl>
@@ -395,7 +386,7 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 <li>提升系统稳定性</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>3.00</strong>[27]<br />
 2013年11月5日</p></td>
 <td><dl>
@@ -527,7 +518,7 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 </dl>
 <ul>
 <li>提升系统稳定性</li>
-<li>修正<a href="../Page/UNO.md" title="wikilink">UNO游戏中的</a><a href="https://zh.wikipedia.org/wiki/Exploit" title="wikilink">漏洞</a></li>
+<li>修正<a href="../Page/UNO.md" title="wikilink">UNO</a>游戏中的<a href="https://zh.wikipedia.org/wiki/Exploit" title="wikilink">漏洞</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -782,14 +773,11 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 
 可通过三种方式更新系统软件：
 
-  - 通过[Wi-Fi下载至PS](../Page/Wi-Fi.md "wikilink")
-    Vita。执行\[设置\]-\[系统升级\]-\[通过Wi-Fi升级\]。\[50\]
+  - 通过[Wi-Fi](../Page/Wi-Fi.md "wikilink")下载至PS Vita。执行\[设置\]-\[系统升级\]-\[通过Wi-Fi升级\]。\[50\]
 
 <!-- end list -->
 
-  - [PS3下载至PS](../Page/PlayStation_3.md "wikilink") Vita。将PS3和PS
-    Vita通过[USB线连接](../Page/USB.md "wikilink")，执行\[设置\]-\[系统升级\]-\[连接
-    PS3进行升级\]。\[51\]
+  - [PS3下载至PS](../Page/PlayStation_3.md "wikilink") Vita。将PS3和PS Vita通过[USB](../Page/USB.md "wikilink")线连接，执行\[设置\]-\[系统升级\]-\[连接 PS3进行升级\]。\[51\]
 
 <!-- end list -->
 
@@ -825,10 +813,8 @@ PlayStation Vita能播放多种格式的图片、音频和视频。下表列出�
   - [WMA 9](../Page/Windows_Media_Audio.md "wikilink")
   - [ATRAC](https://zh.wikipedia.org/wiki/Adaptive_Transform_Acoustic_Coding "wikilink")
   - [MP4](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink") Audio
-  - [MPEG-4 Part
-    3](https://zh.wikipedia.org/wiki/MPEG-4_Part_3 "wikilink")
-  - [AAC](https://zh.wikipedia.org/wiki/Advanced_Audio_Coding "wikilink")
-    / AAC Low Complexity (unprotected)
+  - [MPEG-4 Part 3](https://zh.wikipedia.org/wiki/MPEG-4_Part_3 "wikilink")
+  - [AAC](https://zh.wikipedia.org/wiki/Advanced_Audio_Coding "wikilink") / AAC Low Complexity (unprotected)
 
 <!-- end list -->
 
@@ -837,12 +823,10 @@ PlayStation Vita能播放多种格式的图片、音频和视频。下表列出�
 <!-- end list -->
 
   - [MPEG-1](../Page/MPEG-1.md "wikilink") (MPEG Audio Layer 2)
-  - [MPEG-2](../Page/MPEG-2.md "wikilink") PS (MPEG2 Audio Layer 2, AAC
-    LC, AC3(Dolby Digital), LPCM)
+  - [MPEG-2](../Page/MPEG-2.md "wikilink") PS (MPEG2 Audio Layer 2, AAC LC, AC3(Dolby Digital), LPCM)
   - [MPEG-2](../Page/MPEG-2.md "wikilink") TS (MPEG2 Audio Layer 2)
   - [MP4 SP](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")
-  - [MP4 AVC / MP4
-    H.264](https://zh.wikipedia.org/wiki/MPEG-4_Part_10 "wikilink")
+  - [MP4 AVC / MP4 H.264](https://zh.wikipedia.org/wiki/MPEG-4_Part_10 "wikilink")
 
 ## 另见
 
@@ -850,13 +834,11 @@ PlayStation Vita能播放多种格式的图片、音频和视频。下表列出�
 
   - [PlayStation Network](../Page/PlayStation_Network.md "wikilink")
   - [PlayStation 3系统软件](../Page/PlayStation_3系统软件.md "wikilink")
-  - [PlayStation
-    Portable系统软件](https://zh.wikipedia.org/wiki/PlayStation_Portable系统软件 "wikilink")
+  - [PlayStation Portable系统软件](https://zh.wikipedia.org/wiki/PlayStation_Portable系统软件 "wikilink")
   - [PlayStation 3](../Page/PlayStation_3.md "wikilink")
   - [PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")
   - [PlayStation Store](../Page/PlayStation_Store.md "wikilink")
-  - [Sony Entertainment
-    Network](https://zh.wikipedia.org/wiki/Sony_Entertainment_Network "wikilink")
+  - [Sony Entertainment Network](https://zh.wikipedia.org/wiki/Sony_Entertainment_Network "wikilink")
   - [LiveArea](https://zh.wikipedia.org/wiki/LiveArea "wikilink")
 
 **本[世代其他游戏平台](https://zh.wikipedia.org/wiki/视频游戏历史（第八世代） "wikilink")：**
@@ -882,10 +864,7 @@ PlayStation Vita能播放多种格式的图片、音频和视频。下表列出�
 
   - [日版系统软件更新网页](http://www.jp.playstation.com/psvita/update/)
 
-[Category:索尼互動娛樂](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂 "wikilink")
-[Category:電子遊戲機的操作系統](https://zh.wikipedia.org/wiki/Category:電子遊戲機的操作系統 "wikilink")
-[Category:嵌入式系统](https://zh.wikipedia.org/wiki/Category:嵌入式系统 "wikilink")
-[Category:PlayStation_Vita](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita "wikilink")
+[Category:索尼互動娛樂](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂 "wikilink") [Category:電子遊戲機的操作系統](https://zh.wikipedia.org/wiki/Category:電子遊戲機的操作系統 "wikilink") [Category:嵌入式系统](https://zh.wikipedia.org/wiki/Category:嵌入式系统 "wikilink") [Category:PlayStation_Vita](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita "wikilink")
 
 1.
 
@@ -924,9 +903,9 @@ PlayStation Vita能播放多种格式的图片、音频和视频。下表列出�
 
 19.
 
-20. <http://www.phileweb.com/news/d-av/201501/14/36234.html>
+20.
 
-21. <http://asia.playstation.com/tw/cht/support/sysupdate?id=370&platformId=5#sysUpdateHistory>
+21. <http://www.phileweb.com/news/d-av/201501/14/36234.html>
 
 22. <http://asia.playstation.com/tw/cht/support/sysupdate?id=370&platformId=5#sysUpdateHistory>
 
@@ -962,15 +941,11 @@ PlayStation Vita能播放多种格式的图片、音频和视频。下表列出�
 
 38. <http://blog.us.playstation.com/2012/11/13/playstation-plus-for-ps-vita-available-next-week-take-the-tour/>
 
-39. [Shuhei
-    Yoshida](https://zh.wikipedia.org/wiki/Shuhei_Yoshida "wikilink") on
-    Twitter. <https://twitter.com/yosp/status/270429820712783872>
+39. [Shuhei Yoshida](https://zh.wikipedia.org/wiki/Shuhei_Yoshida "wikilink") on Twitter. <https://twitter.com/yosp/status/270429820712783872>
 
 40. <https://twitter.com/PlayStation/status/247851681428164609>
 
-41. 18 September 2012, [Vita Firmware 1.81 is out, patches
-    VHBL](http://wololo.net/2012/09/18/vita-firmware-1-81-is-out-patches-vhbl/),
-    Wololo.net
+41. 18 September 2012, [Vita Firmware 1.81 is out, patches VHBL](http://wololo.net/2012/09/18/vita-firmware-1-81-is-out-patches-vhbl/), Wololo.net
 
 42. <http://blog.us.playstation.com/2012/08/14/psone-classics-coming-to-ps-vita-via-the-latest-system-software-update-v1-80/>
 

@@ -1,10 +1,8 @@
-[Autozam-logo.gif](https://zh.wikipedia.org/wiki/File:Autozam-logo.gif "fig:Autozam-logo.gif")
-**Autozam**（）為1980年代後半[日本泡沫經濟最盛時期](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")[馬自達汽車公司推行](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[多品牌策略](https://zh.wikipedia.org/wiki/多品牌策略 "wikilink")，而在[日本國內市場創立的三個子](../Page/日本.md "wikilink")[品牌之一](../Page/品牌.md "wikilink")；其餘兩個子品牌是[Eunos和](../Page/Eunos.md "wikilink")[Ẽfini](../Page/Ẽfini.md "wikilink")；同時這三個副品牌也是旗下三個銷售通路體系。隨著[日本泡沫經濟的崩解](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")，這種[多品牌策略失利](https://zh.wikipedia.org/wiki/多品牌策略 "wikilink")，使得該公司陷入經營危機，故在1996年宣告終止。
+[Autozam-logo.gif](https://zh.wikipedia.org/wiki/File:Autozam-logo.gif "fig:Autozam-logo.gif") **Autozam**（）為1980年代後半[日本泡沫經濟最盛時期](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")[馬自達汽車公司推行](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[多品牌策略](https://zh.wikipedia.org/wiki/多品牌策略 "wikilink")，而在[日本](../Page/日本.md "wikilink")國內市場創立的三個子[品牌](../Page/品牌.md "wikilink")之一；其餘兩個子品牌是[Eunos](../Page/Eunos.md "wikilink")和[Ẽfini](../Page/Ẽfini.md "wikilink")；同時這三個副品牌也是旗下三個銷售通路體系。隨著[日本泡沫經濟的崩解](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")，這種[多品牌策略失利](https://zh.wikipedia.org/wiki/多品牌策略 "wikilink")，使得該公司陷入經營危機，故在1996年宣告終止。
 
 ## 概要
 
-馬自達設立Autozam的中心概念為「離消費者居住的街上最近的汽車展示中心」，專門販售微型車（subcompact）與輕型車（K-car），其中有許多輕型車由[鈴木代工製造](https://zh.wikipedia.org/wiki/鈴木株式會社 "wikilink")。目前馬自達繼續使用Mazda
-Autozam來運作經銷商體系，並在輕型車車款名稱冠以「AZ」稱之。
+馬自達設立Autozam的中心概念為「離消費者居住的街上最近的汽車展示中心」，專門販售微型車（subcompact）與輕型車（K-car），其中有許多輕型車由[鈴木代工製造](https://zh.wikipedia.org/wiki/鈴木株式會社 "wikilink")。目前馬自達繼續使用Mazda Autozam來運作經銷商體系，並在輕型車車款名稱冠以「AZ」稱之。
 
 此外為了補足高級車陣容，Autozam也取得[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[蘭吉雅的授權代理資格](../Page/蓝旗亚.md "wikilink")\[1\]，引進、、等車款，直到1998年為止。
 
@@ -12,22 +10,14 @@ Autozam來運作經銷商體系，並在輕型車車款名稱冠以「AZ」稱�
 
 下列只是Autozam的部分著名車種：
 
-  - 1990年 - [Autozam
-    Carol](../Page/馬自達Carol.md "wikilink")（兄弟車為[鈴木Alto](../Page/鈴木Alto.md "wikilink")）
-  - 1990年 - [Autozam
-    Revue](../Page/Autozam_Revue.md "wikilink")（兄弟車為[馬自達121](../Page/馬自達121.md "wikilink")）
-  - 1990年 - [Autozam
-    Scrum](../Page/馬自達Scrum.md "wikilink")（兄弟車為[鈴木Carry](../Page/鈴木Carry.md "wikilink")）
+  - 1990年 - [Autozam Carol](../Page/馬自達Carol.md "wikilink")（兄弟車為[鈴木Alto](../Page/鈴木Alto.md "wikilink")）
+  - 1990年 - [Autozam Revue](../Page/Autozam_Revue.md "wikilink")（兄弟車為[馬自達121](../Page/馬自達121.md "wikilink")）
+  - 1990年 - [Autozam Scrum](../Page/馬自達Scrum.md "wikilink")（兄弟車為[鈴木Carry](../Page/鈴木Carry.md "wikilink")）
   - 1991年 - [Autozam AZ-3](../Page/馬自達MX-3.md "wikilink")（兄弟車為馬自達MX-3）
-  - 1992年 - [Autozam
-    Clef](../Page/Autozam_Clef.md "wikilink")（兄弟車為[馬自達626](../Page/馬自達626.md "wikilink")）
-  - 1992年 - [Autozam
-    AZ-1](../Page/Autozam_AZ-1.md "wikilink")（兄弟車為[鈴木Cara](../Page/鈴木Cara.md "wikilink")）
-  - 1994年 - [Autozam
-    AZ-Wagon](../Page/馬自達AZ-Wagon.md "wikilink")（兄弟車為鈴木Wagon
-    R）
-  - 1998年 - [Autozam
-    AZ-Offroad](../Page/馬自達AZ-Offroad.md "wikilink")（兄弟車為[鈴木Jimny](../Page/鈴木Jimny.md "wikilink")）
+  - 1992年 - [Autozam Clef](../Page/Autozam_Clef.md "wikilink")（兄弟車為[馬自達626](../Page/馬自達626.md "wikilink")）
+  - 1992年 - [Autozam AZ-1](../Page/Autozam_AZ-1.md "wikilink")（兄弟車為[鈴木Cara](../Page/鈴木Cara.md "wikilink")）
+  - 1994年 - [Autozam AZ-Wagon](../Page/馬自達AZ-Wagon.md "wikilink")（兄弟車為鈴木Wagon R）
+  - 1998年 - [Autozam AZ-Offroad](../Page/馬自達AZ-Offroad.md "wikilink")（兄弟車為[鈴木Jimny](../Page/鈴木Jimny.md "wikilink")）
 
 ## 內部連結
 
@@ -37,8 +27,7 @@ Autozam來運作經銷商體系，並在輕型車車款名稱冠以「AZ」稱�
 
 ## 參考資料
 
-  - 〈第二章：一九九〇年代の日本自動車メーカー〉《図解入門業界研究最新自動車業界の動向としくみがよーくわかる本》，黑川文子著，秀和システム，2011年2月1日，ISBN
-    9784798028613。
+  - 〈第二章：一九九〇年代の日本自動車メーカー〉《図解入門業界研究最新自動車業界の動向としくみがよーくわかる本》，黑川文子著，秀和システム，2011年2月1日，ISBN 9784798028613。
 
 ## 外部連結
 

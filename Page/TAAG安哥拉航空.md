@@ -1,41 +1,34 @@
-**TAAG安哥拉航空**（[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")：****，IATA：DT，ICAO：DTA）是[非洲](../Page/非洲.md "wikilink")[安哥拉的國營航空公司](../Page/安哥拉.md "wikilink")，總部設於首都[罗安达](../Page/罗安达.md "wikilink")，由政府全資擁有。公司擁有強大的國內航線網絡規模，也有飛往非洲其他國家和[南美洲](../Page/南美洲.md "wikilink")。TAAG安哥拉航空是繼[南非航空](../Page/南非航空.md "wikilink")、[肯尼亚航空及](../Page/肯尼亚航空.md "wikilink")[埃塞俄比亞航空外](../Page/埃塞俄比亞航空.md "wikilink")，少數盈利的非洲航空公司，也是少數有能力購買新機而非二手舊機營運的非洲航空公司。
+**TAAG安哥拉航空**（[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")：****，IATA：DT，ICAO：DTA）是[非洲](../Page/非洲.md "wikilink")[安哥拉](../Page/安哥拉.md "wikilink")的國營航空公司，總部設於首都[罗安达](../Page/罗安达.md "wikilink")，由政府全資擁有。公司擁有強大的國內航線網絡規模，也有飛往非洲其他國家和[南美洲](../Page/南美洲.md "wikilink")。TAAG安哥拉航空是繼[南非航空](../Page/南非航空.md "wikilink")、[肯尼亚航空](../Page/肯尼亚航空.md "wikilink")及[埃塞俄比亞航空](../Page/埃塞俄比亞航空.md "wikilink")外，少數盈利的非洲航空公司，也是少數有能力購買新機而非二手舊機營運的非洲航空公司。
 
 ## 歷史
 
 ### 初期
 
-TAAG安哥拉航空於1938年9月由[葡萄牙殖民地政府成立](../Page/葡萄牙帝國.md "wikilink")，初期名稱為Divisão
-dos Transportes Aéreos（簡稱DTA），為鐵路、海運及空運行政部的附屬公司。1940年改名為安哥拉航空（DTA–
-Linhas Aéreas de Angola），同年7月17日以一架Dragon Rapide水陸兩用機開始營運。
+TAAG安哥拉航空於1938年9月由[葡萄牙殖民地政府成立](../Page/葡萄牙帝國.md "wikilink")，初期名稱為Divisão dos Transportes Aéreos（簡稱DTA），為鐵路、海運及空運行政部的附屬公司。1940年改名為安哥拉航空（DTA– Linhas Aéreas de Angola），同年7月17日以一架Dragon Rapide水陸兩用機開始營運。
 
 ### 獨立後
 
-[TAAG_Angola_Airlines_Boeing_707-320C_D2-TOJ_LIS_1991.png](https://zh.wikipedia.org/wiki/File:TAAG_Angola_Airlines_Boeing_707-320C_D2-TOJ_LIS_1991.png "fig:TAAG_Angola_Airlines_Boeing_707-320C_D2-TOJ_LIS_1991.png")在[里斯本机场](https://zh.wikipedia.org/wiki/里斯本机场 "wikilink")
-\]\] 1974年2月，安哥拉航空再改名為現時的名稱—**TAAG – Linhas Aéreas de
-Angola**，TAAG全寫是**T**ransportadora **A**érea
-**A**n**G**olana（安哥拉空中運輸部）。
+[TAAG_Angola_Airlines_Boeing_707-320C_D2-TOJ_LIS_1991.png](https://zh.wikipedia.org/wiki/File:TAAG_Angola_Airlines_Boeing_707-320C_D2-TOJ_LIS_1991.png "fig:TAAG_Angola_Airlines_Boeing_707-320C_D2-TOJ_LIS_1991.png")在[里斯本机场](https://zh.wikipedia.org/wiki/里斯本机场 "wikilink") \]\] 1974年2月，安哥拉航空再改名為現時的名稱—**TAAG – Linhas Aéreas de Angola**，TAAG全寫是**T**ransportadora **A**érea **A**n**G**olana（安哥拉空中運輸部）。
 
-安哥拉航空是在1975年獨立後成為國營航空公司，並進入噴射客機年代，包括[伊留申-62](https://zh.wikipedia.org/wiki/伊留申-62 "wikilink")、[波音707](../Page/波音707.md "wikilink")、[波音737等](../Page/波音737.md "wikilink")，[福克F27則負責國內航線](../Page/福克F27.md "wikilink")。
+安哥拉航空是在1975年獨立後成為國營航空公司，並進入噴射客機年代，包括[伊留申-62](https://zh.wikipedia.org/wiki/伊留申-62 "wikilink")、[波音707](../Page/波音707.md "wikilink")、[波音737](../Page/波音737.md "wikilink")等，[福克F27](../Page/福克F27.md "wikilink")則負責國內航線。
 
-不久後，安哥拉政府成立TAAG Air
-Angola經營國內航線，以[波音727和波音](../Page/波音727.md "wikilink")737等小型飛機為主力，也有較大型的波音707，1990年代更從[TAP葡萄牙航空租賃兩架](../Page/TAP葡萄牙航空.md "wikilink")[洛歇L-1011執飛國內航線](../Page/洛歇L-1011.md "wikilink")。除國內航線外，TAAG也有開辦不少歐洲航線，如[里斯本](../Page/里斯本.md "wikilink")、[马德里](../Page/马德里.md "wikilink")、[巴黎](../Page/巴黎.md "wikilink")、[羅馬和](https://zh.wikipedia.org/wiki/罗马市 "wikilink")[莫斯科](../Page/莫斯科.md "wikilink")。
+不久後，安哥拉政府成立TAAG Air Angola經營國內航線，以[波音727](../Page/波音727.md "wikilink")和波音737等小型飛機為主力，也有較大型的波音707，1990年代更從[TAP葡萄牙航空](../Page/TAP葡萄牙航空.md "wikilink")租賃兩架[洛歇L-1011](../Page/洛歇L-1011.md "wikilink")執飛國內航線。除國內航線外，TAAG也有開辦不少歐洲航線，如[里斯本](../Page/里斯本.md "wikilink")、[马德里](../Page/马德里.md "wikilink")、[巴黎](../Page/巴黎.md "wikilink")、[羅馬和](https://zh.wikipedia.org/wiki/罗马市 "wikilink")[莫斯科](../Page/莫斯科.md "wikilink")。
 
-為開辦長途航線，TAAG更引入了一架[波音747](../Page/波音747.md "wikilink")，服務往[古巴](../Page/古巴.md "wikilink")[哈瓦那](../Page/哈瓦那.md "wikilink")（經[薩爾島](../Page/薩爾島.md "wikilink")）的航線，一度是唯一一間獲准在[何塞·马蒂国际机场起降的非洲航空公司](../Page/何塞·马蒂国际机场.md "wikilink")。
+為開辦長途航線，TAAG更引入了一架[波音747](../Page/波音747.md "wikilink")，服務往[古巴](../Page/古巴.md "wikilink")[哈瓦那](../Page/哈瓦那.md "wikilink")（經[薩爾島](../Page/薩爾島.md "wikilink")）的航線，一度是唯一一間獲准在[何塞·马蒂国际机场](../Page/何塞·马蒂国际机场.md "wikilink")起降的非洲航空公司。
 
-2005年，TAAG宣佈訂購3架[波音777-200ER和](https://zh.wikipedia.org/wiki/波音777 "wikilink")4架波音737-700客機，以取代老化的747-300和737-200客機。當該批新飛機於2006年11月11日前交付後，隨即把777安排於羅安達至[約翰尼斯堡](../Page/约翰内斯堡.md "wikilink")、里斯本及巴黎航線。由於往返[巴西的航線受](../Page/巴西.md "wikilink")[ETOPS的限制](../Page/双发延程飞行.md "wikilink")，因此不能以777營運，被迫繼續以747-300執飛巴西航線。
+2005年，TAAG宣佈訂購3架[波音777-200ER和](https://zh.wikipedia.org/wiki/波音777 "wikilink")4架波音737-700客機，以取代老化的747-300和737-200客機。當該批新飛機於2006年11月11日前交付後，隨即把777安排於羅安達至[約翰尼斯堡](../Page/约翰内斯堡.md "wikilink")、里斯本及巴黎航線。由於往返[巴西](../Page/巴西.md "wikilink")的航線受[ETOPS的限制](../Page/双发延程飞行.md "wikilink")，因此不能以777營運，被迫繼續以747-300執飛巴西航線。
 
 ### 被歐盟列入黑名單
 
-[TAAG_777-200ER.JPG](https://zh.wikipedia.org/wiki/File:TAAG_777-200ER.JPG "fig:TAAG_777-200ER.JPG")
-2007年6月28日，歐盟基於安全理由，把TAAG列入[黑名單](../Page/被禁止進入歐盟成員國之航空公司列表.md "wikilink")，同年7月4日起生效\[1\]。此措施令TAAG的波音777客機無法執飛長途航線。
+[TAAG_777-200ER.JPG](https://zh.wikipedia.org/wiki/File:TAAG_777-200ER.JPG "fig:TAAG_777-200ER.JPG") 2007年6月28日，歐盟基於安全理由，把TAAG列入[黑名單](../Page/被禁止進入歐盟成員國之航空公司列表.md "wikilink")，同年7月4日起生效\[1\]。此措施令TAAG的波音777客機無法執飛長途航線。
 
-為提升新飛機使用量及減少損失，TAAG決定開辦[杜拜和](../Page/杜拜.md "wikilink")[北京航線](../Page/北京市.md "wikilink")。另為能繼續飛往歐洲，便向南非航空[濕租一架波音](https://zh.wikipedia.org/wiki/濕租 "wikilink")747-400客機，飛行員由南非航空提供，而空服員則由南非航空和TAAG一同提供。2008年8月，接收第3架波音777（編號D2-TEF）。
+為提升新飛機使用量及減少損失，TAAG決定開辦[杜拜](../Page/杜拜.md "wikilink")和[北京航線](../Page/北京市.md "wikilink")。另為能繼續飛往歐洲，便向南非航空[濕租一架波音](https://zh.wikipedia.org/wiki/濕租 "wikilink")747-400客機，飛行員由南非航空提供，而空服員則由南非航空和TAAG一同提供。2008年8月，接收第3架波音777（編號D2-TEF）。
 
 2009年7月3日，TAAG獲准復飛歐洲，但只准以旗下的3架波音777客機飛往[里斯本](../Page/里斯本.md "wikilink")，而每周的班次上限為10班，里斯本航線於同年8月1日復航；旗下的4架波音737-700客機也於同年11月獲准飛往歐洲。而該濕租的波音747-400，也因此退還予南非航空。2010年3月30日，歐盟獲准TAAG的波音777和737-300於歐洲所有機場起降\[2\]。
 
 ### 重組
 
-2008年11月，TAAG舊管理層解散，成立新的管理局，為解除歐盟禁制令而鋪路。2009年5月29日，TAAG宣佈通過[國際航空運輸協會](../Page/國際航空運輸協會.md "wikilink")（IATA）的核證\[3\]。同年10月，TAAG替旗下的波音777取得ETOPS證明後，開始以777執飛羅安達至[里约热内卢航線](../Page/里约热内卢.md "wikilink")。
+2008年11月，TAAG舊管理層解散，成立新的管理局，為解除歐盟禁制令而鋪路。2009年5月29日，TAAG宣佈通過[國際航空運輸協會](../Page/國際航空運輸協會.md "wikilink")（IATA）的核證\[3\]。同年10月，TAAG替旗下的波音777取得ETOPS證明後，開始以777執飛羅安達至[里约热内卢](../Page/里约热内卢.md "wikilink")航線。
 
 2010年4月29日，TAAG訂購了2架波音777-300ER客機，另擁有2架選購權。
 
@@ -80,7 +73,7 @@ TAAG安哥拉航空與下列航空公司實施代碼共享：
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/波音737.md" title="wikilink">波音737-7M2</a></p></td>
+<td><p><a href="../Page/波音737.md" title="wikilink">波音737</a>-7M2</p></td>
 <td><p>4</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -129,24 +122,24 @@ TAAG安哥拉航空與下列航空公司實施代碼共享：
 
 安哥拉航空曾运营以下机型：\[9\]
 
-  - [空中客车A340-300](../Page/空中客车A340.md "wikilink")
+  - [空中客车A340](../Page/空中客车A340.md "wikilink")-300
   - [安托诺夫An-26](https://zh.wikipedia.org/wiki/安托诺夫An-26 "wikilink")
-  - [波音707-320B](../Page/波音707.md "wikilink")
-  - [波音707-320C](../Page/波音707.md "wikilink")
-  - [波音727-100C](../Page/波音727.md "wikilink")
-  - [波音737-200C](../Page/波音737.md "wikilink")
-  - [波音747-300](../Page/波音747.md "wikilink")
+  - [波音707](../Page/波音707.md "wikilink")-320B
+  - [波音707](../Page/波音707.md "wikilink")-320C
+  - [波音727](../Page/波音727.md "wikilink")-100C
+  - [波音737](../Page/波音737.md "wikilink")-200C
+  - [波音747](../Page/波音747.md "wikilink")-300
   - 波音747-300M Combi
-  - [波音747-400](../Page/波音747.md "wikilink")
+  - [波音747](../Page/波音747.md "wikilink")-400
   - [道格拉斯C-47A](../Page/C-47運輸機.md "wikilink")
-  - [道格拉斯DC-8-30](../Page/道格拉斯DC-8.md "wikilink")
-  - [道格拉斯DC-8-50](../Page/道格拉斯DC-8.md "wikilink")
+  - [道格拉斯DC-8](../Page/道格拉斯DC-8.md "wikilink")-30
+  - [道格拉斯DC-8](../Page/道格拉斯DC-8.md "wikilink")-50
   - [福克50](../Page/福克50.md "wikilink")
-  - [福克F27-100](../Page/福克F27.md "wikilink")
-  - [福克F27-200](../Page/福克F27.md "wikilink")
-  - [福克F27-400](../Page/福克F27.md "wikilink")
-  - [福克F27-500](../Page/福克F27.md "wikilink")
-  - [福克F27-600](../Page/福克F27.md "wikilink")
+  - [福克F27](../Page/福克F27.md "wikilink")-100
+  - [福克F27](../Page/福克F27.md "wikilink")-200
+  - [福克F27](../Page/福克F27.md "wikilink")-400
+  - [福克F27](../Page/福克F27.md "wikilink")-500
+  - [福克F27](../Page/福克F27.md "wikilink")-600
   - [伊留申Il-62M](https://zh.wikipedia.org/wiki/伊尔-62 "wikilink")
   - [洛克希德L-100-20](../Page/C-130運輸機.md "wikilink")
   - [洛克希德L-100-30](../Page/C-130運輸機.md "wikilink")
@@ -163,7 +156,7 @@ TAAG安哥拉航空與下列航空公司實施代碼共享：
 
 <!-- end list -->
 
-  - 2010年12月6日，一架波音777-2M2（注册編號D2-TEF）因機械故障，在[里斯本緊急降落](../Page/里斯本.md "wikilink")，部分零件散落在里斯本以南鄰近地區\[13\]。
+  - 2010年12月6日，一架波音777-2M2（注册編號D2-TEF）因機械故障，在[里斯本](../Page/里斯本.md "wikilink")緊急降落，部分零件散落在里斯本以南鄰近地區\[13\]。
 
 <!-- end list -->
 
@@ -179,33 +172,19 @@ TAAG安哥拉航空與下列航空公司實施代碼共享：
   - [TAAG英國網站](http://pages.zdnet.com/taagangola/)
   - [TAAG機隊](https://web.archive.org/web/20101213142551/http://ch-aviation.ch/aircraft.php?search=set&airline=DT&al_op=1)
 
-[Category:安哥拉航空公司](https://zh.wikipedia.org/wiki/Category:安哥拉航空公司 "wikilink")
-[Category:1938年成立的航空公司](https://zh.wikipedia.org/wiki/Category:1938年成立的航空公司 "wikilink")
+[Category:安哥拉航空公司](https://zh.wikipedia.org/wiki/Category:安哥拉航空公司 "wikilink") [Category:1938年成立的航空公司](https://zh.wikipedia.org/wiki/Category:1938年成立的航空公司 "wikilink")
 
-1.  [EU bans TAAG Angola's
-    fleet](http://news.bbc.co.uk/2/hi/europe/6248490.stm)
-2.  [EUROPA – Press Releases – Commission updates the list of airlines
-    banned from the European
-    airspace](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/388&format=HTML&aged=0&language=EN&guiLanguage=en).
-    Europa.eu (2010-03-30). Retrieved on 2010-12-16.
-3.  [TAAG Angola Airlines passes IATA
-    inspection](http://www.portalangop.co.ao/motix/en_us/noticias/transporte/TAAG-passes-IATA-test,0b2303c4-c4b5-411a-a51c-bfb7c5139548.html)
-4.  [TAAG Angola Airlines
-    Fleet](http://ch-aviation.ch/aircraft.php?search=set&airline=DT&al_op=1)
-
+1.  [EU bans TAAG Angola's fleet](http://news.bbc.co.uk/2/hi/europe/6248490.stm)
+2.  [EUROPA – Press Releases – Commission updates the list of airlines banned from the European airspace](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/388&format=HTML&aged=0&language=EN&guiLanguage=en). Europa.eu (2010-03-30). Retrieved on 2010-12-16.
+3.  [TAAG Angola Airlines passes IATA inspection](http://www.portalangop.co.ao/motix/en_us/noticias/transporte/TAAG-passes-IATA-test,0b2303c4-c4b5-411a-a51c-bfb7c5139548.html)
+4.  [TAAG Angola Airlines Fleet](http://ch-aviation.ch/aircraft.php?search=set&airline=DT&al_op=1)
 5.  [TAAG Fleet – Official Website](http://www.taag.com/en/fleet.aspx)
 6.
 7.
 8.
 9.
-10. [1983 TAAG crash at Aviation Safety
-    Network](http://aviation-safety.net/database/record.php?id=19831108-0)
-11. [TAAG crash at
-    news.com.au](http://www.news.com.au/story/0,10117,21987911-401,00.html)
-
-12. [2007 TAAG crash at Aviation Safety
-    Network](http://aviation-safety.net/database/record.php?id=20070628-0)
-13. [Angolan Boeing 777 plane loses metal parts over Lisbon
-    suburb](http://www.asdnews.com/news/32277/)
-14. [Air Crash Observer:
-    News](http://www.aircrashobserver.com/e107/news.php?item.2696)
+10. [1983 TAAG crash at Aviation Safety Network](http://aviation-safety.net/database/record.php?id=19831108-0)
+11. [TAAG crash at news.com.au](http://www.news.com.au/story/0,10117,21987911-401,00.html)
+12. [2007 TAAG crash at Aviation Safety Network](http://aviation-safety.net/database/record.php?id=20070628-0)
+13. [Angolan Boeing 777 plane loses metal parts over Lisbon suburb](http://www.asdnews.com/news/32277/)
+14. [Air Crash Observer: News](http://www.aircrashobserver.com/e107/news.php?item.2696)

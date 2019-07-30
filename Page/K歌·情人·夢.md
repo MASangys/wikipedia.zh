@@ -1,32 +1,9 @@
 [許慧欣](../Page/許慧欣.md "wikilink"){{、w}}[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink"){{、w}}
 [藍鈞天](../Page/藍鈞天.md "wikilink"){{、w}}[馬念先](../Page/馬念先.md "wikilink"){{、w}}[豆花妹](../Page/蔡黃汝.md "wikilink"){{、w}}
 [陳思函](../Page/陳思函.md "wikilink"){{、w}}[師鈺婷](https://zh.wikipedia.org/wiki/師鈺婷 "wikilink"){{、w}}[布孟璇](https://zh.wikipedia.org/wiki/布孟璇 "wikilink"){{、w}}
-[江莛鈞](https://zh.wikipedia.org/wiki/江莛鈞 "wikilink"){{、w}}[郭耀仁](../Page/郭耀仁.md "wikilink"){{、w}}[黃柏語](../Page/黃柏語.md "wikilink")
-| judges = | voices = | narrated = | theme_music_composer = |
-opentheme = [超有種](https://zh.wikipedia.org/wiki/超有種 "wikilink")《一路發威》 |
-endtheme = [范逸臣](../Page/范逸臣.md "wikilink")《我是誰》 | country =  | language
-= [國語](../Page/臺灣國語.md "wikilink") | num_seasons = | num_episodes =
-13集 | list_episodes = | slogan = **只要音樂不停...我們的夢就會一直繼續** |
-executive_producer = 陳劭愷、吳展聿 | supervising_producer =
-[王偉忠](../Page/王偉忠.md "wikilink")、車慶餘、謝育秀 | producer =
-劉紀綱{{、w}}[陳建寧](../Page/陳建寧.md "wikilink") | editor = 陳博文、翁玉鴻 |
-location =  | cinematography = 陳國隆{{、w}}陳惠生 | story_editor = 王千賀 |
-camera = | runtime = 90分鐘（含廣告）
+[江莛鈞](https://zh.wikipedia.org/wiki/江莛鈞 "wikilink"){{、w}}[郭耀仁](../Page/郭耀仁.md "wikilink"){{、w}}[黃柏語](../Page/黃柏語.md "wikilink") | judges = | voices = | narrated = | theme_music_composer = | opentheme = [超有種](https://zh.wikipedia.org/wiki/超有種 "wikilink")《一路發威》 | endtheme = [范逸臣](../Page/范逸臣.md "wikilink")《我是誰》 | country =  | language = [國語](../Page/臺灣國語.md "wikilink") | num_seasons = | num_episodes = 13集 | list_episodes = | slogan = **只要音樂不停...我們的夢就會一直繼續** | executive_producer = 陳劭愷、吳展聿 | supervising_producer = [王偉忠](../Page/王偉忠.md "wikilink")、車慶餘、謝育秀 | producer = 劉紀綱{{、w}}[陳建寧](../Page/陳建寧.md "wikilink") | editor = 陳博文、翁玉鴻 | location =  | cinematography = 陳國隆{{、w}}陳惠生 | story_editor = 王千賀 | camera = | runtime = 90分鐘（含廣告）
 60分鐘（第13集） | company = 無限延伸音樂事業有限公司
-風賦國際娛樂股份有限公司 | distributor = | channel =
-[華視](../Page/華視主頻.md "wikilink")、[華視HD頻道](https://zh.wikipedia.org/wiki/華視HD頻道 "wikilink")
-| picture_format =
-[標準畫質電視](../Page/標準畫質電視.md "wikilink")、[-{zh-tw:高畫質電視;zh-hant:高清電視;zh-hans:高清电视}-](../Page/高清电视.md "wikilink")
-| audio_format = [立體聲](../Page/立體聲.md "wikilink") | first_run =  |
-first_aired =  | last_aired =  | channel_1 =
-[衛視中文台](../Page/衛視中文台.md "wikilink") |
-picture_format_1 = [標準畫質電視](../Page/標準畫質電視.md "wikilink") |
-audio_format_1 = [立體聲](../Page/立體聲.md "wikilink") | first_run_1 =  |
-first_aired_1 =  | last_aired_1 =  | status = | preceded_by = |
-followed_by = | related = | website =
-<http://event.cts.com.tw/ksonglover/index.html> | production_website =
-}}
-《**K歌·情人·夢**》（），2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")，由[王偉忠擔任總監製](../Page/王偉忠.md "wikilink")、[陳建寧擔任監製暨音樂總監](../Page/陳建寧.md "wikilink")、[鄭建國擔任藝術總監](../Page/鄭建國.md "wikilink")、[張勝豐舞蹈總監](https://zh.wikipedia.org/wiki/張勝豐 "wikilink")、[謝育秀戲劇總監等人攜手合作](https://zh.wikipedia.org/wiki/謝育秀 "wikilink")。打造台灣首部電視音樂偶像劇，將透過網路徵選能歌善舞的新秀演員，2012年7月23日開鏡，2012年10月13日殺青。由[許慧欣](../Page/許慧欣.md "wikilink")、[范逸臣](../Page/范逸臣.md "wikilink")、[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")、[蔡黃汝](../Page/蔡黃汝.md "wikilink")(豆花妹)、[陳思函及](../Page/陳思函.md "wikilink")[藍鈞天等領銜主演](../Page/藍鈞天.md "wikilink")。[華視於](../Page/華視主頻.md "wikilink")2013年2月24日上檔，[衛視中文台](../Page/衛視中文台.md "wikilink")2013年3月1日播出。
+風賦國際娛樂股份有限公司 | distributor = | channel = [華視](../Page/華視主頻.md "wikilink")、[華視HD頻道](https://zh.wikipedia.org/wiki/華視HD頻道 "wikilink") | picture_format = [標準畫質電視](../Page/標準畫質電視.md "wikilink")、[-{zh-tw:高畫質電視;zh-hant:高清電視;zh-hans:高清电视}-](../Page/高清电视.md "wikilink") | audio_format = [立體聲](../Page/立體聲.md "wikilink") | first_run =  | first_aired =  | last_aired =  | channel_1 = [衛視中文台](../Page/衛視中文台.md "wikilink") | picture_format_1 = [標準畫質電視](../Page/標準畫質電視.md "wikilink") | audio_format_1 = [立體聲](../Page/立體聲.md "wikilink") | first_run_1 =  | first_aired_1 =  | last_aired_1 =  | status = | preceded_by = | followed_by = | related = | website = <http://event.cts.com.tw/ksonglover/index.html> | production_website = }} 《**K歌·情人·夢**》（），2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")，由[王偉忠](../Page/王偉忠.md "wikilink")擔任總監製、[陳建寧](../Page/陳建寧.md "wikilink")擔任監製暨音樂總監、[鄭建國](../Page/鄭建國.md "wikilink")擔任藝術總監、[張勝豐舞蹈總監](https://zh.wikipedia.org/wiki/張勝豐 "wikilink")、[謝育秀戲劇總監等人攜手合作](https://zh.wikipedia.org/wiki/謝育秀 "wikilink")。打造台灣首部電視音樂偶像劇，將透過網路徵選能歌善舞的新秀演員，2012年7月23日開鏡，2012年10月13日殺青。由[許慧欣](../Page/許慧欣.md "wikilink")、[范逸臣](../Page/范逸臣.md "wikilink")、[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")、[蔡黃汝](../Page/蔡黃汝.md "wikilink")(豆花妹)、[陳思函](../Page/陳思函.md "wikilink")及[藍鈞天](../Page/藍鈞天.md "wikilink")等領銜主演。[華視於](../Page/華視主頻.md "wikilink")2013年2月24日上檔，[衛視中文台](../Page/衛視中文台.md "wikilink")2013年3月1日播出。
 
 ## 播出時間
 
@@ -702,7 +679,7 @@ followed_by = | related = | website =
 <td><p><a href="../Page/陳思函.md" title="wikilink">陳思函</a>(第1、2、4集)</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/基督教.md" title="wikilink">基督教的詩歌</a><br />
+<td><p><a href="../Page/基督教.md" title="wikilink">基督教</a>的詩歌<br />
 第1、2、4、11、13集</p></td>
 </tr>
 <tr class="odd">
@@ -788,7 +765,7 @@ followed_by = | related = | website =
 <tr class="even">
 <td><p>插曲</p></td>
 <td><p>AYO</p></td>
-<td><p><a href="../Page/溫嵐.md" title="wikilink">溫嵐與超有種</a></p></td>
+<td><p><a href="../Page/溫嵐.md" title="wikilink">溫嵐</a>與超有種</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/周啟民" title="wikilink">周啟民</a></p></td>
 <td><p><a href="../Page/朱敬然.md" title="wikilink">朱敬然</a>、<a href="https://zh.wikipedia.org/wiki/溫小嵐" title="wikilink">溫小嵐</a></p></td>
 <td><p>原唱：<a href="../Page/溫嵐.md" title="wikilink">溫嵐</a><br />
@@ -815,7 +792,7 @@ followed_by = | related = | website =
 <td><p>插曲</p></td>
 <td><p>野玫瑰（改編曲）</p></td>
 <td><p><a href="../Page/陳思函.md" title="wikilink">陳思函</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/歌德" title="wikilink">歌德</a>(<a href="../Page/周學普.md" title="wikilink">周學普譯</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/歌德" title="wikilink">歌德</a>(<a href="../Page/周學普.md" title="wikilink">周學普</a>譯)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/舒伯特" title="wikilink">舒伯特</a></p></td>
 <td><p>原唱：<a href="../Page/范逸臣.md" title="wikilink">范逸臣</a><br />
 第6集</p></td>
@@ -835,7 +812,7 @@ followed_by = | related = | website =
 <td><p><a href="../Page/陳思函.md" title="wikilink">陳思函</a>、<a href="../Page/馬念先.md" title="wikilink">馬念先</a></p></td>
 <td><p><a href="../Page/黃舒駿.md" title="wikilink">黃舒駿</a></p></td>
 <td><p><a href="../Page/黃舒駿.md" title="wikilink">黃舒駿</a></p></td>
-<td><p><a href="../Page/雅芳.md" title="wikilink">雅芳廣告歌曲</a><br />
+<td><p><a href="../Page/雅芳.md" title="wikilink">雅芳</a>廣告歌曲<br />
 第6集</p></td>
 </tr>
 <tr class="even">
@@ -904,7 +881,7 @@ Pete Barringer、Douglas Shawe</p></td>
 <tr class="odd">
 <td><p>插曲</p></td>
 <td><p>保庇</p></td>
-<td><p><a href="../Page/王彩樺.md" title="wikilink">王彩樺與超有種</a>，<br />
+<td><p><a href="../Page/王彩樺.md" title="wikilink">王彩樺</a>與超有種，<br />
 除了<a href="../Page/黃柏語.md" title="wikilink">黃柏語</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Choi_Kyu_Sung" title="wikilink">Choi Kyu Sung</a>、<a href="https://zh.wikipedia.org/wiki/博修" title="wikilink">博修</a>(改編詞)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/S._Tiger" title="wikilink">S. Tiger</a></p></td>
@@ -923,7 +900,7 @@ Pete Barringer、Douglas Shawe</p></td>
 <td><p>插曲</p></td>
 <td><p>謝天謝地</p></td>
 <td><p><a href="../Page/郭耀仁.md" title="wikilink">郭耀仁</a>(分段)<br />
-<a href="../Page/陳建寧.md" title="wikilink">陳建寧與超有種</a>(分段)</p></td>
+<a href="../Page/陳建寧.md" title="wikilink">陳建寧</a>與超有種(分段)</p></td>
 <td><p><a href="../Page/陳建寧.md" title="wikilink">陳建寧</a></p></td>
 <td><p><a href="../Page/陳建寧.md" title="wikilink">陳建寧</a></p></td>
 <td><p>第9,10、13集<br />
@@ -1055,11 +1032,7 @@ Pete Barringer、Douglas Shawe</p></td>
 | 2013年5月19日 | 13   | 0.31                               | 4    |
 | 平均收視率      | 0.24 | \-                                 |      |
 
-  - <small>同時段節目：[中視](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")《[白色之戀](https://zh.wikipedia.org/wiki/白色之戀_\(台灣電視劇\) "wikilink")》
-    /
-    《[借用一下你的愛](../Page/借用一下你的愛.md "wikilink")》、[民視](../Page/民視無線台.md "wikilink")《[美人龍湯](../Page/美人龍湯.md "wikilink")》
-    /
-    《[原來是美男](../Page/原來是美男_\(台灣電視劇\).md "wikilink")》、[台視](https://zh.wikipedia.org/wiki/台視主頻 "wikilink")《[金大花的華麗冒險](../Page/金大花的華麗冒險.md "wikilink")》
+  - <small>同時段節目：[中視](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")《[白色之戀](https://zh.wikipedia.org/wiki/白色之戀_\(台灣電視劇\) "wikilink")》 / 《[借用一下你的愛](../Page/借用一下你的愛.md "wikilink")》、[民視](../Page/民視無線台.md "wikilink")《[美人龍湯](../Page/美人龍湯.md "wikilink")》 / 《[原來是美男](../Page/原來是美男_\(台灣電視劇\).md "wikilink")》、[台視](https://zh.wikipedia.org/wiki/台視主頻 "wikilink")《[金大花的華麗冒險](../Page/金大花的華麗冒險.md "wikilink")》
   - 由[AGB尼爾森調查](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink")，調查範圍是四歲以上收看電視之觀眾。
   - 資料來源：[中時娛樂](https://web.archive.org/web/20130126141713/http://showbiz.chinatimes.com/2009Cti/Channel/Showbiz/showbiz-rank/0%2C5137%2Ctv%2C00.html)</small>
 
@@ -1118,16 +1091,11 @@ K歌·情人·夢電視原聲帶由[無限延伸音樂製作](https://zh.wikiped
 ## 新聞
 
   - [Wretch活動-【一路K到底】無差別演藝格鬥賽](https://web.archive.org/web/20120224072224/http://service.wretch.cc/Activity/templates/case_472/info.html)
-  - [《一路K到底》
-    海選演藝圈「林書豪」](http://showbiz.chinatimes.com/2009Cti/Channel/Showbiz/showbiz-news-cnt/0,5020,130511+132012022101212,00.html)
-  - [台灣首部跨界流行音樂與戲劇【K歌 情人
-    夢】開鏡前培訓過程](http://www.youtube.com/watch?v=zsaoR3sZK4U)
-  - [斥資打造台版歌舞青春，【K歌 情人
-    夢】魔鬼集訓挑戰歌手極限！](http://www.iwant-radio.com/showinformation.php?sisn=28453)
-  - [梁詠琪力挺製作人陳建寧，客串華人首部電視音樂歌舞劇《K歌 情人
-    夢》](http://n.yam.com/yam/entertain/20120814/20120814717811.html)
-  - [范逸臣勾勾纏
-    舊情人怒打4巴掌](https://web.archive.org/web/20130127193410/http://tw.news.yahoo.com/%E8%8C%83%E9%80%B8%E8%87%A3%E5%8B%BE%E5%8B%BE%E7%BA%8F-%E8%88%8A%E6%83%85%E4%BA%BA%E6%80%92%E6%89%934%E5%B7%B4%E6%8E%8C-202810280.html)
+  - [《一路K到底》 海選演藝圈「林書豪」](http://showbiz.chinatimes.com/2009Cti/Channel/Showbiz/showbiz-news-cnt/0,5020,130511+132012022101212,00.html)
+  - [台灣首部跨界流行音樂與戲劇【K歌 情人 夢】開鏡前培訓過程](http://www.youtube.com/watch?v=zsaoR3sZK4U)
+  - [斥資打造台版歌舞青春，【K歌 情人 夢】魔鬼集訓挑戰歌手極限！](http://www.iwant-radio.com/showinformation.php?sisn=28453)
+  - [梁詠琪力挺製作人陳建寧，客串華人首部電視音樂歌舞劇《K歌 情人 夢》](http://n.yam.com/yam/entertain/20120814/20120814717811.html)
+  - [范逸臣勾勾纏 舊情人怒打4巴掌](https://web.archive.org/web/20130127193410/http://tw.news.yahoo.com/%E8%8C%83%E9%80%B8%E8%87%A3%E5%8B%BE%E5%8B%BE%E7%BA%8F-%E8%88%8A%E6%83%85%E4%BA%BA%E6%80%92%E6%89%934%E5%B7%B4%E6%8E%8C-202810280.html)
   - [王彩樺奶撞SBL呂政儒　鹹濕出招救《K歌》收視](http://www.ettoday.net/news/20130317/176329.htm)
   - [豆花妹嘴對嘴吻王彩樺　盛讚：好軟Q喔！](http://www.ettoday.net/news/20130227/168179.htm)
   - [陳建寧開拍音樂偶像劇　豆花妹被操死、張棟樑想辭演](http://www.ettoday.net/news/20120724/78062.htm)
@@ -1140,10 +1108,4 @@ K歌·情人·夢電視原聲帶由[無限延伸音樂製作](https://zh.wikiped
   -
 ## 作品的變遷
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:2013年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2013年台灣電視劇集 "wikilink")
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:歌舞電視劇](https://zh.wikipedia.org/wiki/Category:歌舞電視劇 "wikilink")
-[Category:華視電視劇](https://zh.wikipedia.org/wiki/Category:華視電視劇 "wikilink")
-[Category:衛視電視劇](https://zh.wikipedia.org/wiki/Category:衛視電視劇 "wikilink")
-[Category:吳洛纓劇本作品](https://zh.wikipedia.org/wiki/Category:吳洛纓劇本作品 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2013年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2013年台灣電視劇集 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:歌舞電視劇](https://zh.wikipedia.org/wiki/Category:歌舞電視劇 "wikilink") [Category:華視電視劇](https://zh.wikipedia.org/wiki/Category:華視電視劇 "wikilink") [Category:衛視電視劇](https://zh.wikipedia.org/wiki/Category:衛視電視劇 "wikilink") [Category:吳洛纓劇本作品](https://zh.wikipedia.org/wiki/Category:吳洛纓劇本作品 "wikilink")

@@ -1,14 +1,14 @@
-[LGBT权益雖然在](../Page/LGBT.md "wikilink")[日本不被民事法律保护](../Page/日本.md "wikilink")，不過[同性性行為在日本是合法的](https://zh.wikipedia.org/wiki/同性性行為 "wikilink")。目前没有日本法律反对或认可同性戀关系。同性戀在[日本國憲法](https://zh.wikipedia.org/wiki/日本國憲法 "wikilink")、民事或刑事法律文件中均未提及。
+[LGBT](../Page/LGBT.md "wikilink")权益雖然在[日本](../Page/日本.md "wikilink")不被民事法律保护，不過[同性性行為在日本是合法的](https://zh.wikipedia.org/wiki/同性性行為 "wikilink")。目前没有日本法律反对或认可同性戀关系。同性戀在[日本國憲法](https://zh.wikipedia.org/wiki/日本國憲法 "wikilink")、民事或刑事法律文件中均未提及。
 
 ## 承诺年龄
 
-和欧美国家不同，日本的传统宗教，不论[神道教](https://zh.wikipedia.org/wiki/神道教 "wikilink")、[佛教还是](../Page/佛教.md "wikilink")[儒教均没有对](https://zh.wikipedia.org/wiki/儒教 "wikilink")[LGBT的明显反对](../Page/LGBT.md "wikilink")，事實上在古代日本還流行過所謂的男風文化，許多知名的日本歷史人物也均有關係密切的男性伴侶。
+和欧美国家不同，日本的传统宗教，不论[神道教](https://zh.wikipedia.org/wiki/神道教 "wikilink")、[佛教](../Page/佛教.md "wikilink")还是[儒教均没有对](https://zh.wikipedia.org/wiki/儒教 "wikilink")[LGBT](../Page/LGBT.md "wikilink")的明显反对，事實上在古代日本還流行過所謂的男風文化，許多知名的日本歷史人物也均有關係密切的男性伴侶。
 
-在[明治时代](https://zh.wikipedia.org/wiki/明治时代 "wikilink")，西方文化引进日本後。1873年[肛交第一次被认定有罪](../Page/肛交.md "wikilink")。但仅仅7年后，相关条款被[法国民法典取代](../Page/法国民法典.md "wikilink")。自此，日本没有任何法律反对同性恋，但相較於古代，現今的日本社會對同性恋看法仍保守許多。
+在[明治时代](https://zh.wikipedia.org/wiki/明治时代 "wikilink")，西方文化引进日本後。1873年[肛交](../Page/肛交.md "wikilink")第一次被认定有罪。但仅仅7年后，相关条款被[法国民法典](../Page/法国民法典.md "wikilink")取代。自此，日本没有任何法律反对同性恋，但相較於古代，現今的日本社會對同性恋看法仍保守許多。
 
 ## 民事权利
 
-[性取向不被日本民事法律保护](../Page/性取向.md "wikilink")，也就意味着在日本的LGBT族群在很多情况下，面临歧视的时候无法引用法律依据，比如[就业](https://zh.wikipedia.org/wiki/就业 "wikilink")、[教育](../Page/教育.md "wikilink")、[住房](https://zh.wikipedia.org/wiki/住房 "wikilink")、[医疗保险](https://zh.wikipedia.org/wiki/医疗保险 "wikilink")、[银行及](https://zh.wikipedia.org/wiki/银行 "wikilink")[公共住房](https://zh.wikipedia.org/wiki/公共住房 "wikilink")。
+[性取向](../Page/性取向.md "wikilink")不被日本民事法律保护，也就意味着在日本的LGBT族群在很多情况下，面临歧视的时候无法引用法律依据，比如[就业](https://zh.wikipedia.org/wiki/就业 "wikilink")、[教育](../Page/教育.md "wikilink")、[住房](https://zh.wikipedia.org/wiki/住房 "wikilink")、[医疗保险](https://zh.wikipedia.org/wiki/医疗保险 "wikilink")、[银行及](https://zh.wikipedia.org/wiki/银行 "wikilink")[公共住房](https://zh.wikipedia.org/wiki/公共住房 "wikilink")。
 
 尽管同等权利法(日本)在过去十年里被修订了很多次，在这些修订中重点关注了[性别歧视和工作场所中的](https://zh.wikipedia.org/wiki/性别歧视 "wikilink")[性骚扰](../Page/性骚扰.md "wikilink")。同时日本政府拒绝扩大保障范围至却对性别认定上的歧视。
 
@@ -42,9 +42,9 @@
 
 ### 領養
 
-日本[厚生勞動省於](../Page/厚生勞動省.md "wikilink")2011年制定小孩領養手冊，各地方政府得以依據該手冊自行認可小孩領養申請。而在這手冊上，在欲申請為養父母的條件上並沒有直接將同性伴侶排除在外，厚生勞動省家庭福祉課表示：「依據手冊，同性伴侶欲申請成為養父母是有機會的」，但實際上並不確定是否能申請通過。
+日本[厚生勞動省](../Page/厚生勞動省.md "wikilink")於2011年制定小孩領養手冊，各地方政府得以依據該手冊自行認可小孩領養申請。而在這手冊上，在欲申請為養父母的條件上並沒有直接將同性伴侶排除在外，厚生勞動省家庭福祉課表示：「依據手冊，同性伴侶欲申請成為養父母是有機會的」，但實際上並不確定是否能申請通過。
 
-[大阪市針對欲領養小孩的大人設置了](../Page/大阪市.md "wikilink")「兒童相談所」（こども相談センター），透過面試、理解制度上的計畫與意願等，領養意願者接受約一星期的課程後就可以申請領養小孩，交由專家組成的社會福祉審議會諮詢，最後再交由市長認可。成為受認可的「里親」之後，才得以配對適合的小孩。
+[大阪市](../Page/大阪市.md "wikilink")針對欲領養小孩的大人設置了「兒童相談所」（こども相談センター），透過面試、理解制度上的計畫與意願等，領養意願者接受約一星期的課程後就可以申請領養小孩，交由專家組成的社會福祉審議會諮詢，最後再交由市長認可。成為受認可的「里親」之後，才得以配對適合的小孩。
 
 「里親」（寄養）制度不同於日本既有的養父母「收養」制度。「收養」僅限於「已婚夫婦」共同收養小孩，但「里親」制在設計上則是強調「具有照顧、扶養小孩」能力的「大人」皆可申請。
 
@@ -73,7 +73,6 @@ LGBT权益在日本很少被公开讨论，多数政党也没有发表任何正�
 
 ## 參考資料
 
-[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
-[Category:日本LGBT權益](https://zh.wikipedia.org/wiki/Category:日本LGBT權益 "wikilink")
+[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink") [Category:日本LGBT權益](https://zh.wikipedia.org/wiki/Category:日本LGBT權益 "wikilink")
 
 1.

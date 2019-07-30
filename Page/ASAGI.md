@@ -2,9 +2,7 @@
 
 ## 経歴
 
-從秋田縣的高中畢業後、曾在横浜市内的餐廳打工過一陣子、從20歲左右開始正式的樂團活動。1998年到2000年間以[JE\*REVIENS身分活動](https://zh.wikipedia.org/wiki/JE*REVIENS "wikilink")、2001年加入[Syndrome成為第二代主唱](https://zh.wikipedia.org/wiki/Syndrome "wikilink")。在這期間、又以胡蝶（[紫音](https://zh.wikipedia.org/wiki/紫音 "wikilink")）之名發行CD。Syndrome活動停止後，[D正式結成](../Page/D_\(乐队\).md "wikilink")。2006年成立自己的公司[GOD
-CHILD
-RECORDS](https://zh.wikipedia.org/wiki/GOD_CHILD_RECORDS "wikilink")。
+從秋田縣的高中畢業後、曾在横浜市内的餐廳打工過一陣子、從20歲左右開始正式的樂團活動。1998年到2000年間以[JE\*REVIENS身分活動](https://zh.wikipedia.org/wiki/JE*REVIENS "wikilink")、2001年加入[Syndrome成為第二代主唱](https://zh.wikipedia.org/wiki/Syndrome "wikilink")。在這期間、又以胡蝶（[紫音](https://zh.wikipedia.org/wiki/紫音 "wikilink")）之名發行CD。Syndrome活動停止後，[D正式結成](../Page/D_\(乐队\).md "wikilink")。2006年成立自己的公司[GOD CHILD RECORDS](https://zh.wikipedia.org/wiki/GOD_CHILD_RECORDS "wikilink")。
 
 ## 特徴
 
@@ -17,8 +15,7 @@ RECORDS](https://zh.wikipedia.org/wiki/GOD_CHILD_RECORDS "wikilink")。
 ## 人物
 
   - 因為出生地是秋田，加上本人的樣貌、所以有時被認為是秋田的吸血鬼。
-  - 按照樂團形象打造的LIVE用小道具（旗）及發行小型COMI誌Mad tea party
-    MAGAZINE、企劃香水等商品的販售計畫・非常積極於企業戦略而且十分活躍。
+  - 按照樂團形象打造的LIVE用小道具（旗）及發行小型COMI誌Mad tea party MAGAZINE、企劃香水等商品的販售計畫・非常積極於企業戦略而且十分活躍。
   - 歌詞中對於世界觀的概念很強烈、在09年11月13日的網誌中，對同是和風路線樂團[Kagrra,](../Page/Kagrra,.md "wikilink")的一志作的歌詞給予高度評価。
   - 對於白血球之類的話題似乎比常人了解（除了醫生及護士之外）。
   - 超級愛貓者，家中飼養三隻貓，其中最愛的「チミ」（chimi，ASAGI在日記中稱她為「ちょみ」或「ちょみ公主」）於2009年12月6日病死。
@@ -27,17 +24,13 @@ RECORDS](https://zh.wikipedia.org/wiki/GOD_CHILD_RECORDS "wikilink")。
 
   - Balsamic活動開始
   - Balsamic解散
-  - 1998年 -
-    [JE\*REVIENS活動開始](https://zh.wikipedia.org/wiki/JE*REVIENS "wikilink")。
+  - 1998年 - [JE\*REVIENS活動開始](https://zh.wikipedia.org/wiki/JE*REVIENS "wikilink")。
   - 2000年 - JE\*REVIENS解散。
-  - 2001年 -
-    6月、[Syndrome加入](https://zh.wikipedia.org/wiki/Syndrome "wikilink")。
+  - 2001年 - 6月、[Syndrome加入](https://zh.wikipedia.org/wiki/Syndrome "wikilink")。
   - 2002年 - 1月、以胡蝶名義發行『化蝶夢-チョウトナルユメ-』。
   - 2002年 - 11月、Syndrome活動停止。
   - 2003年 - [D結成](../Page/D_\(乐队\).md "wikilink")。
   - 2006年 - 在自己的辦公室中成立、GOD CHILD RECORDS株式會社、並擔任社長。
   - 9月23日、單飛活動的CD『Corvinus』發售。
 
-[Category:視覺系音樂家](https://zh.wikipedia.org/wiki/Category:視覺系音樂家 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:秋田縣出身人物](https://zh.wikipedia.org/wiki/Category:秋田縣出身人物 "wikilink")
+[Category:視覺系音樂家](https://zh.wikipedia.org/wiki/Category:視覺系音樂家 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:秋田縣出身人物](https://zh.wikipedia.org/wiki/Category:秋田縣出身人物 "wikilink")

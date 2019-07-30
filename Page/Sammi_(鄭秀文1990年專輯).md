@@ -1,4 +1,4 @@
-《**Sammi**》是[鄭秀文的第一張粵語專輯](../Page/鄭秀文.md "wikilink")，也是同名专辑。1990年10月正式推出\[1\]\[2\]。
+《**Sammi**》是[鄭秀文](../Page/鄭秀文.md "wikilink")的第一張粵語專輯，也是同名专辑。1990年10月正式推出\[1\]\[2\]。
 
 ## 專輯介紹
 
@@ -27,10 +27,7 @@
 
 ## 參考資料
 
-[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink")
-[Category:1990年音樂專輯](https://zh.wikipedia.org/wiki/Category:1990年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink") [Category:1990年音樂專輯](https://zh.wikipedia.org/wiki/Category:1990年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.
 2.

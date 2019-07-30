@@ -1,5 +1,4 @@
-**《Kiss Kiss
-Kiss》**是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[at17的音樂專輯](https://zh.wikipedia.org/wiki/at17 "wikilink")，於2003年12月24日推出。
+**《Kiss Kiss Kiss》**是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[at17的音樂專輯](https://zh.wikipedia.org/wiki/at17 "wikilink")，於2003年12月24日推出。
 
 ## 曲目
 
@@ -18,10 +17,6 @@ Kiss》**是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wi
 ## 外部連結
 
 [at17官方網頁](http://www.peoplemountainpeoplesea.com/at17/2008version/ThePrototype/index.html)
-[at17 【Kiss Kiss
-Kiss】專輯介紹](http://tw.kkbox.com/album/CKDK1vQTgl5J7RX0FDYB008l-index.html)
+[at17 【Kiss Kiss Kiss】專輯介紹](http://tw.kkbox.com/album/CKDK1vQTgl5J7RX0FDYB008l-index.html)
 
-[Category:at17音樂專輯](https://zh.wikipedia.org/wiki/Category:at17音樂專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:at17音樂專輯](https://zh.wikipedia.org/wiki/Category:at17音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

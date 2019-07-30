@@ -1,17 +1,6 @@
-**Microsoft Office 2011 for Mac** 是微軟发布的 [Microsoft
-Office](../Page/Microsoft_Office.md "wikilink") [Mac OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 版本，用以取代 [Microsoft
-Office 2008 for
-Mac](../Page/Microsoft_Office_2008_for_Mac.md "wikilink")，与
-[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 平台上的
-[Microsoft Office
-2010](https://zh.wikipedia.org/wiki/Microsoft_Office_2010 "wikilink")
-等效。它是由Microsoft's Macintosh Business Unit開發，並於2010年10月26日發佈。
+**Microsoft Office 2011 for Mac** 是微軟发布的 [Microsoft Office](../Page/Microsoft_Office.md "wikilink") [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 版本，用以取代 [Microsoft Office 2008 for Mac](../Page/Microsoft_Office_2008_for_Mac.md "wikilink")，与 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 平台上的 [Microsoft Office 2010](https://zh.wikipedia.org/wiki/Microsoft_Office_2010 "wikilink") 等效。它是由Microsoft's Macintosh Business Unit開發，並於2010年10月26日發佈。
 
-相比Windows版本的[Office
-2010](https://zh.wikipedia.org/wiki/Office_2010 "wikilink")，Office
-2011有相對的限制，例如不支援[ActiveX控制項](../Page/ActiveX.md "wikilink")\[1\]。此外，它亦不支援[OpenDocument
-Format](https://zh.wikipedia.org/wiki/OpenDocument_Format "wikilink")\[2\]。
+相比Windows版本的[Office 2010](https://zh.wikipedia.org/wiki/Office_2010 "wikilink")，Office 2011有相對的限制，例如不支援[ActiveX](../Page/ActiveX.md "wikilink")控制項\[1\]。此外，它亦不支援[OpenDocument Format](https://zh.wikipedia.org/wiki/OpenDocument_Format "wikilink")\[2\]。
 
 ## 版本
 
@@ -41,9 +30,7 @@ Format](https://zh.wikipedia.org/wiki/OpenDocument_Format "wikilink")\[2\]。
 
 ## 参考资料
 
-[Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink")
-[Category:办公室自动化软件](https://zh.wikipedia.org/wiki/Category:办公室自动化软件 "wikilink")
-[Category:Microsoft_Office](https://zh.wikipedia.org/wiki/Category:Microsoft_Office "wikilink")
+[Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink") [Category:办公室自动化软件](https://zh.wikipedia.org/wiki/Category:办公室自动化软件 "wikilink") [Category:Microsoft_Office](https://zh.wikipedia.org/wiki/Category:Microsoft_Office "wikilink")
 
 1.  <http://mac2.microsoft.com/help/office/14/en-us/excel/item/4ba243ae-1afa-4283-ba6a-d2a020dcc07a?category=29b6bd0c-76a8-4209-97a1-837d57b59c0b>
 2.

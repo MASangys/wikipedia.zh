@@ -3,11 +3,7 @@
 ## 外部链接
 
   -
-  - [PDB](https://zh.wikipedia.org/wiki/PDB "wikilink")
-    [1](http://www.rcsb.org/pdb/explore.do?structureId=1JQD) Horton,
-    J.R., Sawada, K., Nishibori, M., Zhang, X., Cheng, X. (August 2002)
-    "Crystal Structure Analysis of Human Histamine Methyltransferase
-    (Thr105 Polymorphic Variant) Complexed with AdoHcy and Histamine"
+  - [PDB](https://zh.wikipedia.org/wiki/PDB "wikilink") [1](http://www.rcsb.org/pdb/explore.do?structureId=1JQD) Horton, J.R., Sawada, K., Nishibori, M., Zhang, X., Cheng, X. (August 2002) "Crystal Structure Analysis of Human Histamine Methyltransferase (Thr105 Polymorphic Variant) Complexed with AdoHcy and Histamine"
 
 ## 参考文献
 

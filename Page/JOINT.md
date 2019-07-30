@@ -1,5 +1,4 @@
-「**JOINT**」（）是[川田真美的第](../Page/川田真美.md "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
-2007年10月31日由Geneon Universal Entertainment Japan, LLC.發售。
+「**JOINT**」（）是[川田真美](../Page/川田真美.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。 2007年10月31日由Geneon Universal Entertainment Japan, LLC.發售。
 
 ## 概要
 
@@ -39,11 +38,9 @@
   - 顧問：前田千佳子（MORIS）
   - Editor：MAKOTO AMEMIYA
   - MAV：YOSUKE HAGA
-  - 生產：[Dance Not
-    Act](https://zh.wikipedia.org/wiki/Dance_Not_Act "wikilink")
+  - 生產：[Dance Not Act](https://zh.wikipedia.org/wiki/Dance_Not_Act "wikilink")
   - Special Thanks：BOSSA NOVA
-  - 演出總數：[I've](../Page/I've.md "wikilink")\&Geneon Universal
-    Entertainment Japan, LLC.
+  - 演出總數：[I've](../Page/I've.md "wikilink")\&Geneon Universal Entertainment Japan, LLC.
 
 ## 註解
 
@@ -55,18 +52,11 @@
 
 ## 外部連結
 
-  - [GENEON UNIVERSAL
-    ENTERTAINMENT](https://www.webcitation.org/6H77jHbJm?url=http://www.geneonuniversal.jp/)
-  - [川田まみ Official
-    Website](https://web.archive.org/web/20110511203250/http://www.mami-kawada.jp/)
-  - [川田真美 GENEON OFFICIAL WEB
-    SITE](https://web.archive.org/web/20081216004418/http://www.geneon-ent.co.jp/rondorobe/music/mami_kawada/)
+  - [GENEON UNIVERSAL ENTERTAINMENT](https://www.webcitation.org/6H77jHbJm?url=http://www.geneonuniversal.jp/)
+  - [川田まみ Official Website](https://web.archive.org/web/20110511203250/http://www.mami-kawada.jp/)
+  - [川田真美 GENEON OFFICIAL WEB SITE](https://web.archive.org/web/20081216004418/http://www.geneon-ent.co.jp/rondorobe/music/mami_kawada/)
   - [電視動畫「灼眼的夏娜」官方網站](http://www.shakugan.com/)
 
-[Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink")
-[Category:灼眼的夏娜](https://zh.wikipedia.org/wiki/Category:灼眼的夏娜 "wikilink")
-[Category:每日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:每日放送動畫主題曲 "wikilink")
+[Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink") [Category:灼眼的夏娜](https://zh.wikipedia.org/wiki/Category:灼眼的夏娜 "wikilink") [Category:每日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:每日放送動畫主題曲 "wikilink")
 
-1.  2007年12月8放送的[A\&Gメディアステーション
-    こむちゃっとカウントダウン第](https://zh.wikipedia.org/wiki/A&Gメディアステーション_こむちゃっとカウントダウン "wikilink")270回，打破了[水樹奈奈連續](../Page/水樹奈奈.md "wikilink")13週第一名的『[MASSIVE
-    WONDERS](../Page/MASSIVE_WONDERS.md "wikilink")』，得到了第一名。
+1.  2007年12月8放送的[A\&Gメディアステーション こむちゃっとカウントダウン第](https://zh.wikipedia.org/wiki/A&Gメディアステーション_こむちゃっとカウントダウン "wikilink")270回，打破了[水樹奈奈](../Page/水樹奈奈.md "wikilink")連續13週第一名的『[MASSIVE WONDERS](../Page/MASSIVE_WONDERS.md "wikilink")』，得到了第一名。

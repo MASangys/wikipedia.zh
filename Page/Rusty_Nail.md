@@ -1,9 +1,6 @@
-"**Rusty Nail**"發行於1994年6月10日。是"[X
-Japan](../Page/X_Japan.md "wikilink")"1994年唯一一張的單曲，之後也收錄在1996年發行的專輯"[DAHLIA](https://zh.wikipedia.org/wiki/DAHLIA "wikilink")"中。在Oricon榜上也獲得當周的第一名\[1\]。
+"**Rusty Nail**"發行於1994年6月10日。是"[X Japan](../Page/X_Japan.md "wikilink")"1994年唯一一張的單曲，之後也收錄在1996年發行的專輯"[DAHLIA](https://zh.wikipedia.org/wiki/DAHLIA "wikilink")"中。在Oricon榜上也獲得當周的第一名\[1\]。
 
-"Rusty
-Nail"作為1994年日劇[君が見えない的主題曲](https://zh.wikipedia.org/wiki/:jp:君が見えない "wikilink")。2008年也被用來作為[SUZUKI汽車](https://zh.wikipedia.org/wiki/鈴木株式會社 "wikilink")[鈴木Swift廣告的代言曲](../Page/鈴木Swift.md "wikilink")。。瑞典樂團[Dragonland在日版專輯](https://zh.wikipedia.org/wiki/:en:Dragonland "wikilink")[Starfall也收錄了翻唱版本的](https://zh.wikipedia.org/wiki/:en:Starfall_\(album\) "wikilink")"Rusty
-Nail"\[2\]。
+"Rusty Nail"作為1994年日劇[君が見えない的主題曲](https://zh.wikipedia.org/wiki/:jp:君が見えない "wikilink")。2008年也被用來作為[SUZUKI汽車](https://zh.wikipedia.org/wiki/鈴木株式會社 "wikilink")[鈴木Swift](../Page/鈴木Swift.md "wikilink")廣告的代言曲。。瑞典樂團[Dragonland在日版專輯](https://zh.wikipedia.org/wiki/:en:Dragonland "wikilink")[Starfall也收錄了翻唱版本的](https://zh.wikipedia.org/wiki/:en:Starfall_\(album\) "wikilink")"Rusty Nail"\[2\]。
 
 MV部分有1994年以卡通形式的版本，以及2010年在[洛杉磯拍攝的新板MV](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。
 
@@ -25,9 +22,7 @@ MV部分有1994年以卡通形式的版本，以及2010年在[洛杉磯拍攝的
 
 ## 參考資料
 
-[Category:1994年單曲](https://zh.wikipedia.org/wiki/Category:1994年單曲 "wikilink")
-[Category:X_Japan歌曲](https://zh.wikipedia.org/wiki/Category:X_Japan歌曲 "wikilink")
-[Category:1994年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1994年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:1994年單曲](https://zh.wikipedia.org/wiki/Category:1994年單曲 "wikilink") [Category:X_Japan歌曲](https://zh.wikipedia.org/wiki/Category:X_Japan歌曲 "wikilink") [Category:1994年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1994年Oricon單曲週榜冠軍作品 "wikilink")
 
 1.
 2.

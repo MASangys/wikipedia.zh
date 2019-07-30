@@ -1,5 +1,4 @@
-《**C³ -魔幻三次方-**》（又译《C<sup>3</sup>
--魔方少女-》；）為[水瀨葉月著](../Page/水瀨葉月.md "wikilink")、繪、[電擊文庫的](../Page/電擊文庫.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")，改編電視動畫於2011年10月播出\[1\]。本作標題的由來，包括英文**Cube**（[立方體](../Page/立方體.md "wikilink")）、**Cursed**（詛咒）以及**Curious**（好奇）這3個以C字為首的英文詞語的三重意義。
+《**C³ -魔幻三次方-**》（）為[水瀨葉月](../Page/水瀨葉月.md "wikilink")著、繪、[電擊文庫](../Page/電擊文庫.md "wikilink")的[輕小說](../Page/輕小說.md "wikilink")，改編電視動畫於2011年10月播出\[1\]。本作標題的由來，包括英文**Cube**（[立方體](../Page/立方體.md "wikilink")）、**Cursed**（詛咒）以及**Curious**（好奇）這3個以C字為首的英文詞語的三重意義。
 
 ## 故事簡介
 
@@ -20,13 +19,12 @@
     第15冊表明和此葉不再是姐弟關係，接受菲雅的告白，並且邀請錐霞住進家裡。
   -
     女主角，人化的禍具，擁有人的姿態，且為身材矮小水藍色長髮的少女。愛好仙貝，但很討厭蜘蛛。可能因為長時間沒接觸過世面，所以到夜知家報到時，顯出一種缺乏常識的愚昧無知感，通過春亮的教導下學會一般生活常識。「白癡」、「無恥」、「詛咒你喔」都是她的慣常口頭禪。似乎不太能抵受到酒精。喜歡春亮。
-    實際被稱作『箱形的恐懼』（Fear in
-    Cube、）的邊長一米的黑色立方體，其中由無數的鐵片組合著的拷問處刑器具，有演變成32種不同組合的可能。被夜知崩夏從沉睡之處所挖掘出來而發現，接著寄往夜知家中。
+    實際被稱作『箱形的恐懼』（Fear in Cube、）的邊長一米的黑色立方體，其中由無數的鐵片組合著的拷問處刑器具，有演變成32種不同組合的可能。被夜知崩夏從沉睡之處所挖掘出來而發現，接著寄往夜知家中。
     從第2冊開始，以『菲雅·庫柏立克』的名字進入私立大秋高中就讀。
     第15冊向春亮表示告白。
     第17冊與春亮接吻並在插入最後的免罪符機關之下變回立方體，故事最後因長期灌入「正面能量」再次變回人形與春亮重逢
   -
-    與菲雅一樣同為人化的禍具，原本姿態為[日本刀](../Page/日本刀.md "wikilink")[妖刀村正](../Page/村正.md "wikilink")。人化後變成外表為戴圓框[眼鏡的](../Page/眼鏡.md "wikilink")[巨乳少女](../Page/巨乳.md "wikilink")。
+    與菲雅一樣同為人化的禍具，原本姿態為[日本刀](../Page/日本刀.md "wikilink")[妖刀村正](../Page/村正.md "wikilink")。人化後變成外表為戴圓框[眼鏡](../Page/眼鏡.md "wikilink")的[巨乳](../Page/巨乳.md "wikilink")少女。
     以前是嗜血的妖刀。現在由於為了解除詛咒的反作用下，見血即昏過去。但是現在有時也用以前的人格露面，這些時候，她的用語中第一人稱都會以「妾身」稱呼。能變出像帶有利刃的手刀般劈砍，具作戰能力，而且在刀的姿態下能掌握對手的活動，繼而精準制衡對手。化為刀的型態時，通常並不會將刀出鞘，而是使用透過觀察力分析對手武器的弱點，並加以摧毀的「劍殺交叉」，不得已時才拔刀使用必殺技「顯殺交叉」。不太喜歡別人以她的姓氏稱呼，且對[德川家關連的事物不太關心](https://zh.wikipedia.org/wiki/德川家 "wikilink")。跟菲雅一樣不太能容忍酒精。
     由於自身的姿態影響，特別喜歡吃肉，加上人化後的姿態，第一次和菲雅見面就被叫作「肉女」或是「乳牛女」。
     跟春亮上同樣上私立大秋高中，但只是同級。對外聲稱是表姐弟的關係，但卻不喜歡被這樣稱呼。在近夜知家的別館居住，現在和春亮與菲雅同住。對春亮有好感，每當春亮和別的女孩子有看似親密動作都會吃醋，更進一步時則會大喊「不檢點」，然後出手並說教(對象是春亮)。
@@ -67,8 +65,7 @@
     春亮等人就讀的私立大秋高中的理事長，除了擔任理事長外，也兼任許多工作，行動範圍遍佈世界各地。人脈很廣，和崩夏也很熟。
     每次春亮看到他時，都戴著防毒面具，菲雅第一次看到他還把他當成變態。戴防毒面具的理由千奇百怪，給每個人的理由都不一樣。
     興趣是搜集詛咒道具，在世界各地出差時，只要看到看起來很詭異的道具，都會開心的買下，但幾乎都買到假貨。在蒐集詛咒道具時認識崩夏。
-    原本是龍島/龍頭師團「龍階」排名第2的團員，臉頰上有著龍之「眼」的印記（為了將其遮蔽才戴防毒面具）。所持有的禍具是被稱之為「莉絲」的騎士槍，同時也是愛人，正式名稱為「通往騎士道的大逆者（Treason
-    Piercer）」，別稱「懦夫之槍」。為了發揮她射程越長、威力越強的特性，而鍛練出精準的投擲技巧，其詛咒是在擊中目標後必定會返回持有者手上，並有一定的機率會貫穿持有者的身體。後來在胸膛被貫穿後，其愛人因為挑戰師團長失敗被毀，因此在夜知崩夏的協助下逃離組織。由於曾數次被騎士槍貫穿，因此身體狀況並不是很好。漸音和銃音為其在龍島/龍頭師團時的部下。
+    原本是龍島/龍頭師團「龍階」排名第2的團員，臉頰上有著龍之「眼」的印記（為了將其遮蔽才戴防毒面具）。所持有的禍具是被稱之為「莉絲」的騎士槍，同時也是愛人，正式名稱為「通往騎士道的大逆者（Treason Piercer）」，別稱「懦夫之槍」。為了發揮她射程越長、威力越強的特性，而鍛練出精準的投擲技巧，其詛咒是在擊中目標後必定會返回持有者手上，並有一定的機率會貫穿持有者的身體。後來在胸膛被貫穿後，其愛人因為挑戰師團長失敗被毀，因此在夜知崩夏的協助下逃離組織。由於曾數次被騎士槍貫穿，因此身體狀況並不是很好。漸音和銃音為其在龍島/龍頭師團時的部下。
   -
     於第2卷登場。
     短髮冰山美人，理事長的秘書，對別人很冷淡。私底下很喜歡可愛的東西，但知道這些東西和自己不搭配，於是就把目標轉到可愛的女孩身上，每次看到可愛女孩就會想讓她變的更可愛。薩弗蘭緹的女僕服也是她準備的。曾經待過龍島/龍頭師團，武器是投擲用的小刀，技巧則是世界橋加百列教的。
@@ -86,14 +83,12 @@
   -
     穿著貴族般的禮服，雙臂有巨大的手部裝甲包裹著，是搜集戰線騎士領的成員之一。光是手碰到禍具也會覺得嫌惡的嘔吐大作。有如彌次郎兵衛人偶一樣的身姿，因此也被稱為「平衡玩偶」。
     好像對[薩德侯爵](../Page/薩德侯爵.md "wikilink")（十八世紀的法國貴族，以寫哲學、性愛書籍而聞名，性虐待（SM）S代表的Sadism正是他的代名詞）非常尊敬，多次引用他的名言，愛說「混賬」的口頭禪。
-    因為忌諱禍具的性格，即使些微受傷，也不會嫌棄以包裹手臂的手部裝甲作為打擊防禦武器。所以在與菲雅首次的戰爭中受傷，失去了一隻手臂。不得已使用「舞會用戰斧（Dance
-    Time）」——一把無論主人受傷也不會停止攻擊的斧頭，再度敗於菲雅，而受到瀕死的重傷，此後就由研究室長國接收。
+    因為忌諱禍具的性格，即使些微受傷，也不會嫌棄以包裹手臂的手部裝甲作為打擊防禦武器。所以在與菲雅首次的戰爭中受傷，失去了一隻手臂。不得已使用「舞會用戰斧（Dance Time）」——一把無論主人受傷也不會停止攻擊的斧頭，再度敗於菲雅，而受到瀕死的重傷，此後就由研究室長國接收。
 
 <!-- end list -->
 
   -
-    搜集戰線騎士領的後方支援隊的少女成員。全身以及其中一隻眼睛都以繃帶包裹著，持有禍具「怪物繃帶」。習慣以單字簿記事，本名為阿曼妲卡羅特（Amanda
-    Carlot），但本人卻非常討厭。因母親想要索取保險金而險被母親燒死。結果卻死不成，全身也受嚴重燒傷，而且失掉一隻眼睛。在醫院裏被包扎得像木乃伊般，被母親埋怨後就遭到拋棄，在佩薇身上找到自己理想中的母親投影，卻因後援行為被當作背叛遭佩薇殺害。
+    搜集戰線騎士領的後方支援隊的少女成員。全身以及其中一隻眼睛都以繃帶包裹著，持有禍具「怪物繃帶」。習慣以單字簿記事，本名為阿曼妲卡羅特（Amanda Carlot），但本人卻非常討厭。因母親想要索取保險金而險被母親燒死。結果卻死不成，全身也受嚴重燒傷，而且失掉一隻眼睛。在醫院裏被包扎得像木乃伊般，被母親埋怨後就遭到拋棄，在佩薇身上找到自己理想中的母親投影，卻因後援行為被當作背叛遭佩薇殺害。
     於第10冊再度登場為神智不清狀態受春亮等人照顧。第12冊恢復健康想告訴春亮等人卻發生小插曲。第14冊正式和春亮等人相見。
   -
     第4卷登場。
@@ -117,8 +112,7 @@
   -
     第3卷登場。
     面帶溫柔微笑的女性，穿修女服出場的比例很高。
-    全名為艾莉絲·比布利歐·巴斯庫利赫（Alice Bivorio
-    Basskreigh），比布利歐家族會創始者。小時候在孤兒院受到虐待，最後被詛咒道具所救，因而成立比布利歐家族會。
+    全名為艾莉絲·比布利歐·巴斯庫利赫（Alice Bivorio Basskreigh），比布利歐家族會創始者。小時候在孤兒院受到虐待，最後被詛咒道具所救，因而成立比布利歐家族會。
     用阿比斯戰鬥才能發揮實力，平常使用代替品應戰，包含了融合菜刀與鐵槌的詛咒道具「食人調理法」與能製造出反轉分身的「美麗的自害鏡」。
     因為在第3卷戰鬥時受傷，在第4卷坐輪椅登場，與菲雅戰鬥後戰敗，阿比斯被破壞，自己也受了重傷，後來被闇曲拍明帶走。第5卷再次登場時，因為自己過去行為產生的罪惡感，讓她的言行充滿自責感。
     第12冊再度登場，變成很慈祥的一位母親。
@@ -127,8 +121,7 @@
 
   -
     第3卷登場。
-    艾莉絲的丈夫，比布利歐家族會的父君，真實身分為被詛咒的十字架。身材高大，留著鬍子，穿西裝，戴軟帽與皮革手套，裝扮給人黑道成員的感覺。對自己的詛咒很自豪，認為自己的詛咒是為了拯救人類而生。正式名稱為教會區《奈落》（Narrow
-    Narrow Abyss）。
+    艾莉絲的丈夫，比布利歐家族會的父君，真實身分為被詛咒的十字架。身材高大，留著鬍子，穿西裝，戴軟帽與皮革手套，裝扮給人黑道成員的感覺。對自己的詛咒很自豪，認為自己的詛咒是為了拯救人類而生。正式名稱為教會區《奈落》（Narrow Narrow Abyss）。
     原本是廢教會中的十字架，因為邪教集團在廢教會中用小孩當祭品進行邪教儀式，這些小孩的怨念讓阿比斯開始受詛咒，經過長時間的累積，最後因為艾莉絲的怨念讓他化為人形。可以趁對方告解時奪取記憶，並能把黑暗變成觸手操縱。持有者會受到詛咒影響而失去罪惡感。
     第4卷敗給菲雅後變成石頭破片。
 
@@ -252,28 +245,23 @@
 據菲亞所述，共有三十二種拷問、處刑機關，但有一部份在故事開始前就已被“免罪符機關”封印，一共只出現二十二種。
 
   - 三番機構・斷式落下態《ギロチン（"Guillotine"）》（[斷頭台](../Page/斷頭台.md "wikilink")）
-    四番機構・揺式振子態《永訣刻する処刑鎌（"The
-    pendulum"）》（[刻劃訣別的處刑鐮](https://zh.wikipedia.org/wiki/刻劃訣別的處刑鐮 "wikilink")）
+    四番機構・揺式振子態《永訣刻する処刑鎌（"The pendulum"）》（[刻劃訣別的處刑鐮](https://zh.wikipedia.org/wiki/刻劃訣別的處刑鐮 "wikilink")）
 
 <!-- end list -->
 
-  - 五番機構・刺式佇立態《ヴラド・ツェペシュの杭（"A skewer loved by Vlad
-    Tepes"）》（[穿刺王弗拉德的木樁](https://zh.wikipedia.org/wiki/穿刺王弗拉德的木樁 "wikilink")）
+  - 五番機構・刺式佇立態《ヴラド・ツェペシュの杭（"A skewer loved by Vlad Tepes"）》（[穿刺王弗拉德的木樁](https://zh.wikipedia.org/wiki/穿刺王弗拉德的木樁 "wikilink")）
 
 <!-- end list -->
 
-  - 七番機構・棘式座位態《ドイツ式審問椅子（"An Interrogation
-    Chair"）》（[德式審問椅](https://zh.wikipedia.org/wiki/德式審問椅 "wikilink")）
+  - 七番機構・棘式座位態《ドイツ式審問椅子（"An Interrogation Chair"）》（[德式審問椅](https://zh.wikipedia.org/wiki/德式審問椅 "wikilink")）
 
 <!-- end list -->
 
-  - 八番機構・碎式圓環態《フランク王国の車輪刑（"Breaking by wheel at
-    Francs"）》（[法蘭克王國的車輪刑](https://zh.wikipedia.org/wiki/法蘭克王國的車輪刑 "wikilink")）
+  - 八番機構・碎式圓環態《フランク王国の車輪刑（"Breaking by wheel at Francs"）》（[法蘭克王國的車輪刑](https://zh.wikipedia.org/wiki/法蘭克王國的車輪刑 "wikilink")）
 
 <!-- end list -->
 
-  - 九番機構・捕式回轉態《異端審問車輪（"An inquisitional
-    wheel"）》（[異端審問車輪](https://zh.wikipedia.org/wiki/異端審問 "wikilink")）
+  - 九番機構・捕式回轉態《異端審問車輪（"An inquisitional wheel"）》（[異端審問車輪](https://zh.wikipedia.org/wiki/異端審問 "wikilink")）
 
 <!-- end list -->
 
@@ -281,23 +269,19 @@
 
 <!-- end list -->
 
-  - 十一番機構・裂式波山態《鮫の歯（"The
-    teeth"）》（[鯊魚之牙](https://zh.wikipedia.org/wiki/鯊魚之牙 "wikilink")）
+  - 十一番機構・裂式波山態《鮫の歯（"The teeth"）》（[鯊魚之牙](https://zh.wikipedia.org/wiki/鯊魚之牙 "wikilink")）
 
 <!-- end list -->
 
-  - 十二番機構・絶式旋刃態《颶風殺人柱（"Tornado of
-    souls"）》（[颶風殺人柱](https://zh.wikipedia.org/wiki/颶風殺人柱 "wikilink")）
+  - 十二番機構・絶式旋刃態《颶風殺人柱（"Tornado of souls"）》（[颶風殺人柱](https://zh.wikipedia.org/wiki/颶風殺人柱 "wikilink")）
 
 <!-- end list -->
 
-  - 十四番機構・掻式獣掌態《猫の手（"cat's
-    paw"）》（[貓掌](https://zh.wikipedia.org/wiki/貓掌 "wikilink")）
+  - 十四番機構・掻式獣掌態《猫の手（"cat's paw"）》（[貓掌](https://zh.wikipedia.org/wiki/貓掌 "wikilink")）
 
 <!-- end list -->
 
-  - 十六番機構・吊式尖台態《ユダの揺籃（"Juda's
-    Cradle"）》（[猶大的搖籃](https://zh.wikipedia.org/wiki/猶大的搖籃 "wikilink")）
+  - 十六番機構・吊式尖台態《ユダの揺籃（"Juda's Cradle"）》（[猶大的搖籃](https://zh.wikipedia.org/wiki/猶大的搖籃 "wikilink")）
 
 <!-- end list -->
 
@@ -305,8 +289,7 @@
 
 <!-- end list -->
 
-  - 十八番機構・伸式外框態《エクセター公の娘（"The rack-Duke's
-    daughter"）》（[艾克希特公爵之女](https://zh.wikipedia.org/wiki/艾克希特公爵之女 "wikilink")）
+  - 十八番機構・伸式外框態《エクセター公の娘（"The rack-Duke's daughter"）》（[艾克希特公爵之女](https://zh.wikipedia.org/wiki/艾克希特公爵之女 "wikilink")）
 
 <!-- end list -->
 
@@ -314,13 +297,11 @@
 
 <!-- end list -->
 
-  - 二十番機構・斬式大刀態《凌遅の鉈（"A hatchet of
-    lingchi"）》（[凌遲之斧](../Page/凌遲.md "wikilink")）
+  - 二十番機構・斬式大刀態《凌遅の鉈（"A hatchet of lingchi"）》（[凌遲](../Page/凌遲.md "wikilink")之斧）
 
 <!-- end list -->
 
-  - 二十一番機構・掛式鉤爪態《スペインの蜘蛛（"Spanish
-    Spiders"）》（[西班牙蜘蛛](https://zh.wikipedia.org/wiki/西班牙蜘蛛 "wikilink")）
+  - 二十一番機構・掛式鉤爪態《スペインの蜘蛛（"Spanish Spiders"）》（[西班牙蜘蛛](https://zh.wikipedia.org/wiki/西班牙蜘蛛 "wikilink")）
 
 <!-- end list -->
 
@@ -332,8 +313,7 @@
 
 <!-- end list -->
 
-  - 二十四番機構・焼式彫像態《良く啼く鋼鉄の牡牛（"The red-hot bull
-    voices"）》（[啼叫的鋼鐵牡牛](https://zh.wikipedia.org/wiki/啼叫的鋼鐵牡牛 "wikilink")）
+  - 二十四番機構・焼式彫像態《良く啼く鋼鉄の牡牛（"The red-hot bull voices"）》（[啼叫的鋼鐵牡牛](https://zh.wikipedia.org/wiki/啼叫的鋼鐵牡牛 "wikilink")）
 
 <!-- end list -->
 
@@ -341,13 +321,11 @@
 
 <!-- end list -->
 
-  - 二十九番機構・抱式聖像態《鋼鉄の聖母マリア（"The Blessed Virgin Mary embraces
-    you"）》（[鋼鐵的聖母瑪莉亞](https://zh.wikipedia.org/wiki/鋼鐵的聖母瑪莉亞 "wikilink")）
+  - 二十九番機構・抱式聖像態《鋼鉄の聖母マリア（"The Blessed Virgin Mary embraces you"）》（[鋼鐵的聖母瑪莉亞](https://zh.wikipedia.org/wiki/鋼鐵的聖母瑪莉亞 "wikilink")）
 
 <!-- end list -->
 
-  - 三十番機構・開式銳形態《花弁剣ベラゼッラ（"The flower sword
-    Verazella"）》（[花瓣劍貝瑞傑拉](https://zh.wikipedia.org/wiki/花瓣劍貝瑞傑拉 "wikilink")）
+  - 三十番機構・開式銳形態《花弁剣ベラゼッラ（"The flower sword Verazella"）》（[花瓣劍貝瑞傑拉](https://zh.wikipedia.org/wiki/花瓣劍貝瑞傑拉 "wikilink")）
 
 ## 輕小說
 
@@ -464,8 +442,7 @@
 
 ### 工作人員
 
-  - 原作：[水瀨葉月](../Page/水瀨葉月.md "wikilink")（[電擊文庫](../Page/電擊文庫.md "wikilink")/[ASCII
-    Media Works刊](../Page/ASCII_Media_Works.md "wikilink")）
+  - 原作：[水瀨葉月](../Page/水瀨葉月.md "wikilink")（[電擊文庫](../Page/電擊文庫.md "wikilink")/[ASCII Media Works刊](../Page/ASCII_Media_Works.md "wikilink")）
   - 角色原案：
   - 監督：[大沼心](../Page/大沼心.md "wikilink")
   - 系列構成：[橫手美智子](https://zh.wikipedia.org/wiki/橫手美智子 "wikilink")
@@ -485,9 +462,7 @@
 <!-- end list -->
 
   -
-    作詞 - [松井五郎](https://zh.wikipedia.org/wiki/松井五郎 "wikilink")，作曲、編曲 -
-    [太田雅友](../Page/太田雅友.md "wikilink")，歌 -
-    [田村由香里](../Page/田村由香里.md "wikilink")
+    作詞 - [松井五郎](https://zh.wikipedia.org/wiki/松井五郎 "wikilink")，作曲、編曲 - [太田雅友](../Page/太田雅友.md "wikilink")，歌 - [田村由香里](../Page/田村由香里.md "wikilink")
 
 <!-- end list -->
 
@@ -496,10 +471,7 @@
 <!-- end list -->
 
   -
-    作詞 - 山崎寬子，作曲 -
-    [市川淳](https://zh.wikipedia.org/wiki/市川淳 "wikilink")，編曲
-    - [齋藤真也](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink")，歌 -
-    [喜多村英梨](../Page/喜多村英梨.md "wikilink")
+    作詞 - 山崎寬子，作曲 - [市川淳](https://zh.wikipedia.org/wiki/市川淳 "wikilink")，編曲 - [齋藤真也](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink")，歌 - [喜多村英梨](../Page/喜多村英梨.md "wikilink")
 
   - 片尾曲
 
@@ -510,10 +482,7 @@
 <!-- end list -->
 
   -
-    作詞 - 山崎寬子，作曲 -
-    [市川淳](https://zh.wikipedia.org/wiki/市川淳 "wikilink")，編曲
-    - [中西亮輔](https://zh.wikipedia.org/wiki/中西亮輔 "wikilink")，歌 -
-    [喜多村英梨](../Page/喜多村英梨.md "wikilink")
+    作詞 - 山崎寬子，作曲 - [市川淳](https://zh.wikipedia.org/wiki/市川淳 "wikilink")，編曲 - [中西亮輔](https://zh.wikipedia.org/wiki/中西亮輔 "wikilink")，歌 - [喜多村英梨](../Page/喜多村英梨.md "wikilink")
 
 <!-- end list -->
 
@@ -813,11 +782,6 @@
 
   - [Starchild:C3](http://www.starchild.co.jp/special/c3/)
 
-[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink")
+[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink")
 
 1.

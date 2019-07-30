@@ -1,10 +1,8 @@
-《**聖境傳說**》（英文名稱：**Finding Neverland
-Online**）為一款由台灣人自製研發之西方奇幻風格3D線上角色扮演遊戲（3D
-MMORPG）。
+《**聖境傳說**》（英文名稱：**Finding Neverland Online**）為一款由台灣人自製研發之西方奇幻風格3D線上角色扮演遊戲（3D MMORPG）。
 
 ## 概要
 
-《**聖境傳說**》由[傳奇網路製作研發與發行](../Page/傳奇網路.md "wikilink")，於2010年10月28日展開CB封閉測試，在2010年12月1日進入OB，正式上市。
+《**聖境傳說**》由[傳奇網路](../Page/傳奇網路.md "wikilink")製作研發與發行，於2010年10月28日展開CB封閉測試，在2010年12月1日進入OB，正式上市。
 
 ## 遊戲簡介
 
@@ -98,27 +96,19 @@ MMORPG）。
 
   - [聖境傳說Online](http://www.fnonline.com.tw/) - 官方網站
 
-  - [エターナル・アトラス -The Refined
-    FNO-](http://game.vector.co.jp/support/thx/fno.html) - 日版官方網站
-    (2015年7月16日關閉)
+  - [エターナル・アトラス -The Refined FNO-](http://game.vector.co.jp/support/thx/fno.html) - 日版官方網站 (2015年7月16日關閉)
 
   - [파인딩 네버랜드 온라인](http://fno.gnjoy.com/) - 韓版官方網站 (2013年7月31日關閉)
 
-  - [圣境传说](https://web.archive.org/web/20120404211358/http://fn.kunlun.com/)
-    - 简体中文官方网站
+  - [圣境传说](https://web.archive.org/web/20120404211358/http://fn.kunlun.com/) - 简体中文官方网站
 
   - [Eden Eternal](http://edeneternal.aeriagames.com/) - 美版官方網站
 
-  - [聖境傳說Online |
-    Facebook](http://www.facebook.com/pages/sheng-jing-chuan-shuoOnline/147628428592276?created)
-    - 官方Facebook粉絲團
+  - [聖境傳說Online | Facebook](http://www.facebook.com/pages/sheng-jing-chuan-shuoOnline/147628428592276?created) - 官方Facebook粉絲團
 
   -
   - [傳奇網路YouTube頻道](http://www.youtube.com/user/xlegendtw) - 官方YouTube頻道
 
   - [聖境傳說Online哈拉版](http://forum.gamer.com.tw/A.php?bsn=18967/) - 巴哈姆特網站
 
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink")
-[Category:傳奇網路遊戲](https://zh.wikipedia.org/wiki/Category:傳奇網路遊戲 "wikilink")
+[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:傳奇網路遊戲](https://zh.wikipedia.org/wiki/Category:傳奇網路遊戲 "wikilink")

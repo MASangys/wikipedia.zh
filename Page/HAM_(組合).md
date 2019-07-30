@@ -1,16 +1,8 @@
-HAM（Heart And
-Mind）是韓國一個由三位女生組成的[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。
+HAM（Heart And Mind）是韓國一個由三位女生組成的[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。
 
 ## 摘要
 
-LeeYeon
-Entertainment為了讓音樂市場出現新的感覺而推出HAM，2009年9月17日通過[音樂節目M](https://zh.wikipedia.org/wiki/音樂 "wikilink")\!
-Countdown演出[單曲T](https://zh.wikipedia.org/wiki/單曲 "wikilink").T
-Dnce出道。組合最初的成員為Hyo Ni、Su Jin、 Ga Yeon、Mi U ，Ga
-Yeon來自[中國](../Page/中國.md "wikilink")，後來Mi
-U志向是演技而退出組合。團名HAM是縮寫其真正的含義是「Heart
-And
-Mind」，2009年9月23日發信首張單曲，組合風格為以[搖滾為基本輕快的舞蹈音樂](https://zh.wikipedia.org/wiki/搖滾 "wikilink")。
+LeeYeon Entertainment為了讓音樂市場出現新的感覺而推出HAM，2009年9月17日通過[音樂節目M](https://zh.wikipedia.org/wiki/音樂 "wikilink")\! Countdown演出[單曲T](https://zh.wikipedia.org/wiki/單曲 "wikilink").T Dnce出道。組合最初的成員為Hyo Ni、Su Jin、 Ga Yeon、Mi U ，Ga Yeon來自[中國](../Page/中國.md "wikilink")，後來Mi U志向是演技而退出組合。團名HAM是縮寫其真正的含義是「Heart And Mind」，2009年9月23日發信首張單曲，組合風格為以[搖滾為基本輕快的舞蹈音樂](https://zh.wikipedia.org/wiki/搖滾 "wikilink")。
 
 ## 成員資料
 
@@ -143,7 +135,7 @@ Mind」，2009年9月23日發信首張單曲，組合風格為以[搖滾為基�
 <li>發行日期：2010年5月3日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>音樂類型：Dance</li>
-<li>註：<a href="../Page/世界盃.md" title="wikilink">世界盃應援歌</a></li>
+<li>註：<a href="../Page/世界盃.md" title="wikilink">世界盃</a>應援歌</li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -216,8 +208,7 @@ Mind」，2009年9月23日發信首張單曲，組合風格為以[搖滾為基�
   - 2009年12月、FM COCORO「Farth Colors Korean edition」出演。
   - 2010年2月、YUMI KATSURA「日本一かわいい花嫁コンテスト」で入賞受賞。
   - 2010年3月、TOKYO MX TV「ソウル トレイン」出演。
-  - 2010年8月、THE SUPER MODEL Asian Beauty Contest
-    2010の広報大使。ファイナリスト発表コンテストにゲスト出演。
+  - 2010年8月、THE SUPER MODEL Asian Beauty Contest 2010の広報大使。ファイナリスト発表コンテストにゲスト出演。
   - 2010年8月、ザ・テレビジョン「人気上昇中のK-POPアイドル！」インタビュー記事。
   - 2010年11月、TBSオンデマンド「韓国発！ガールズグループコレクション“HAM”」11月1日から配信。
   - 2011年2月、渋谷でのライブ予定\[1\]。
@@ -232,11 +223,6 @@ Mind」，2009年9月23日發信首張單曲，組合風格為以[搖滾為基�
 
   - [所屬經紀公司網站](http://en.wordpress.com/tag/leeyeon-entertainment/)
 
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
 
-1.  [HAM
-    (韓国の音楽グループ)](http://ja.wikipedia.org/wiki/HAM_\(%E9%9F%93%E5%9B%BD%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97\))
-    日文維基
+1.  [HAM (韓国の音楽グループ)](http://ja.wikipedia.org/wiki/HAM_\(%E9%9F%93%E5%9B%BD%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97\)) 日文維基

@@ -625,17 +625,8 @@ Beautiful Than Farewell</p></td>
 
 ## 外部連結
 
-  - [f(x) Official Channel](http://www.youtube.com/user/fxsmtown) on
-    [YouTube](../Page/YouTube.md "wikilink")
-  - [f(x) Official PlayList Under
-    SMTown](http://www.youtube.com/playlist?list=PL534826A00371F9E2) on
-    [YouTube](../Page/YouTube.md "wikilink") - new username created by
-    [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
-  - [f(x) Official PlayList Under
-    sment](http://www.youtube.com/playlist?list=PL0A74B3E7384FB69B) on
-    [YouTube](../Page/YouTube.md "wikilink") - old username created by
-    [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
+  - [f(x) Official Channel](http://www.youtube.com/user/fxsmtown) on [YouTube](../Page/YouTube.md "wikilink")
+  - [f(x) Official PlayList Under SMTown](http://www.youtube.com/playlist?list=PL534826A00371F9E2) on [YouTube](../Page/YouTube.md "wikilink") - new username created by [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
+  - [f(x) Official PlayList Under sment](http://www.youtube.com/playlist?list=PL0A74B3E7384FB69B) on [YouTube](../Page/YouTube.md "wikilink") - old username created by [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
 
 [Category:F(x)](https://zh.wikipedia.org/wiki/Category:F\(x\) "wikilink")

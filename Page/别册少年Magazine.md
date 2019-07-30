@@ -264,8 +264,7 @@
 
   - スズナリ〜あやなし甚吉奇聞録〜（大峰ショウコ）2009年11月號～2010年3月號
 
-  - [×××HOLiC](../Page/×××HOLiC.md "wikilink")·笼 增刊6號～2011年3月號 ※从
-    [週刊Young Magazine移籍](../Page/週刊Young_Magazine.md "wikilink")
+  - [×××HOLiC](../Page/×××HOLiC.md "wikilink")·笼 增刊6號～2011年3月號 ※从 [週刊Young Magazine移籍](../Page/週刊Young_Magazine.md "wikilink")
 
   - [殼中少女](https://zh.wikipedia.org/wiki/殼中少女 "wikilink")（原作：[冲方丁](../Page/冲方丁.md "wikilink")、漫画：[大今良時](../Page/大今良時.md "wikilink")）2009年11月號～2012年6月號
 
@@ -273,11 +272,9 @@
 
   - [殭屍哪有那麼萌？](../Page/殭屍哪有那麼萌？.md "wikilink")（[服部充](../Page/服部充.md "wikilink")）2010年1月號～2014年10月號
 
-  - [壬生義士傳](../Page/壬生義士傳.md "wikilink")（原作：[淺田次郎](https://zh.wikipedia.org/wiki/淺田次郎 "wikilink")、漫畫：[永安巧](../Page/永安巧.md "wikilink")）2010年2月號～2012年3月號
-    ※從 移籍
+  - [壬生義士傳](../Page/壬生義士傳.md "wikilink")（原作：[淺田次郎](https://zh.wikipedia.org/wiki/淺田次郎 "wikilink")、漫畫：[永安巧](../Page/永安巧.md "wikilink")）2010年2月號～2012年3月號 ※從 移籍
 
-  - [LOVEPLUS Rinko
-    Days](https://zh.wikipedia.org/wiki/LOVEPLUS "wikilink")（原作：[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")、漫画：[瀨尾公治](../Page/瀨尾公治.md "wikilink")）2010年5月號～2012年1月號
+  - [LOVEPLUS Rinko Days](https://zh.wikipedia.org/wiki/LOVEPLUS "wikilink")（原作：[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")、漫画：[瀨尾公治](../Page/瀨尾公治.md "wikilink")）2010年5月號～2012年1月號
 
   - [魔法老師幼幼班](../Page/魔法老師幼幼班.md "wikilink")（原作：[赤松健](../Page/赤松健.md "wikilink")、漫画：[YUI](https://zh.wikipedia.org/wiki/YUI_\(漫畫家\) "wikilink")）2010年10月號～2011年11月號
 
@@ -287,25 +284,19 @@
 
   - [自新世界](https://zh.wikipedia.org/wiki/自新世界 "wikilink")（原作：[貴志祐介](../Page/貴志祐介.md "wikilink")、漫画：及川徹）2012年6月號～2014年7月號
 
-  - [Real
-    Account](../Page/Real_Account.md "wikilink")（原作：億章、漫畫：[渡邊靜](../Page/渡邊靜.md "wikilink")）2014年2月號～2014年10月號
-    ※移籍至 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
+  - [Real Account](../Page/Real_Account.md "wikilink")（原作：億章、漫畫：[渡邊靜](../Page/渡邊靜.md "wikilink")）2014年2月號～2014年10月號 ※移籍至 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
 
-  - [即使如此我還是喜歡妳](../Page/馬子們！寫給曾經被我愛過傷害過的你們.md "wikilink")（原作：[徐譽庭](../Page/徐譽庭.md "wikilink")、漫畫：繪本奈央）2014年8月號～2016年4月號
-    ※從 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")移籍
+  - [即使如此我還是喜歡妳](../Page/馬子們！寫給曾經被我愛過傷害過的你們.md "wikilink")（原作：[徐譽庭](../Page/徐譽庭.md "wikilink")、漫畫：繪本奈央）2014年8月號～2016年4月號 ※從 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")移籍
 
-  - [徒然喜歡你](../Page/徒然喜歡你.md "wikilink")（若林稔弥）2014年9月號～2015年4月號 ※移籍至
-    [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
+  - [徒然喜歡你](../Page/徒然喜歡你.md "wikilink")（若林稔弥）2014年9月號～2015年4月號 ※移籍至 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
 
   - [學戰都市Asterisk](../Page/學戰都市Asterisk.md "wikilink")（原作：三屋咲悠、人物設定：okiura、漫畫：茜錆）2014年9月號～2016年10月號
 
   - [迷え！七つの大罪学園！](../Page/七大罪_\(漫畫\).md "wikilink")（原作：鈴木央、漫畫：球木拾壹）2014年9月號～2016年11月號
 
-  - [單蠢女孩](../Page/單蠢女孩.md "wikilink")（[ヒロユキ](https://zh.wikipedia.org/wiki/自稱清純派 "wikilink")）2015年7月號～2018年1月號
-    ※從 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")移籍
+  - [單蠢女孩](../Page/單蠢女孩.md "wikilink")（[ヒロユキ](https://zh.wikipedia.org/wiki/自稱清純派 "wikilink")）2015年7月號～2018年1月號 ※從 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")移籍
 
-  - [寄宿學校的茱麗葉](../Page/寄宿學校的茱麗葉.md "wikilink") 2015年8月號～2017年7月號 ※移籍至
-    [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
+  - [寄宿學校的茱麗葉](../Page/寄宿學校的茱麗葉.md "wikilink") 2015年8月號～2017年7月號 ※移籍至 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
 
 ## 注釋
 
@@ -320,10 +311,6 @@
   - [《別冊少年Magazine》官方網站](http://betsumaga.jp/)
   - [《別冊少年Magazine》官方部落格](https://web.archive.org/web/20111216162407/http://betsumaga.weblogs.jp/)
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:週刊少年Magazine](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine "wikilink")
-[Category:別冊少年Magazine](https://zh.wikipedia.org/wiki/Category:別冊少年Magazine "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:週刊少年Magazine](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine "wikilink") [Category:別冊少年Magazine](https://zh.wikipedia.org/wiki/Category:別冊少年Magazine "wikilink")
 
 1.  『週刊少年Magazine』2009年41號「漫画家への花道」

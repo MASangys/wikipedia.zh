@@ -1,15 +1,10 @@
-《**創聖大天使EVOL**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")，是2005年作品《[-{zh-hans:创圣的亚库艾里翁;
-zh-hant:創聖的亞庫艾里翁; zh-tw:創聖機械天使; zh-hk:創聖大天使;
-zh-mo:創聖大天使;}-](../Page/創聖的亞庫艾里翁.md "wikilink")》的續篇作品，於2012年1月8日開始播映。續作[創聖機械天使LOGOS預定於](../Page/Aquarion_Logos.md "wikilink")2015年7月播映。
+《**創聖大天使EVOL**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")，是2005年作品《[-{zh-hans:创圣的亚库艾里翁; zh-hant:創聖的亞庫艾里翁; zh-tw:創聖機械天使; zh-hk:創聖大天使; zh-mo:創聖大天使;}-](../Page/創聖的亞庫艾里翁.md "wikilink")》的續篇作品，於2012年1月8日開始播映。續作[創聖機械天使LOGOS預定於](../Page/Aquarion_Logos.md "wikilink")2015年7月播映。
 
 ## 故事
 
-作為普通市民的阿瑪塔‧空，在播放《Aquaria舞動於空》的戲院中遇到看一次就迷上電影的御子乃‧鈴白，二人後來亦因為這個話題而開始到城中閒逛。這時候，Altair界向他們生活的城鎮進行兩年來幾乎沒有停過的攻擊，不同的是今次出現了新型Abductor，令人類一方——由Neo
-DEAVA管轄，並由聖天使學園學生操控的機械天使Aquaria沒法招架。戰火很快波及到剛剛認識的二人，阿瑪塔在危急關頭使用身體潛在的Element能力飛走，卻又突然被Aquaria系統選中為Vector
-Z駕駛員……
+作為普通市民的阿瑪塔‧空，在播放《Aquaria舞動於空》的戲院中遇到看一次就迷上電影的御子乃‧鈴白，二人後來亦因為這個話題而開始到城中閒逛。這時候，Altair界向他們生活的城鎮進行兩年來幾乎沒有停過的攻擊，不同的是今次出現了新型Abductor，令人類一方——由Neo DEAVA管轄，並由聖天使學園學生操控的機械天使Aquaria沒法招架。戰火很快波及到剛剛認識的二人，阿瑪塔在危急關頭使用身體潛在的Element能力飛走，卻又突然被Aquaria系統選中為Vector Z駕駛員……
 
-隨後，阿瑪塔和御子乃都在機緣巧合下加入Neo
-DEAVA，遇上了不少早被發掘的同學，亦親身見證和經歷不少曖昧關係的高潮起跌。這一切的發展都被Altair界某位神官未影‧神呂木看在眼內，隨之利用其神力和一手撫養的少年神樂‧戴姆里，不停向他們的星球Vega發動攻勢。然而，這些攻勢並不是依循著Altair界戰鬥的大方向，而是跟一部經歷多個一万二千年的神話有關。在真相和幻象遊走的眾人，既渴望打破命運的束縛，又對前世感覺難以抗拒，使這個機械天使的神話添上可歌可泣的新篇章。
+隨後，阿瑪塔和御子乃都在機緣巧合下加入Neo DEAVA，遇上了不少早被發掘的同學，亦親身見證和經歷不少曖昧關係的高潮起跌。這一切的發展都被Altair界某位神官未影‧神呂木看在眼內，隨之利用其神力和一手撫養的少年神樂‧戴姆里，不停向他們的星球Vega發動攻勢。然而，這些攻勢並不是依循著Altair界戰鬥的大方向，而是跟一部經歷多個一万二千年的神話有關。在真相和幻象遊走的眾人，既渴望打破命運的束縛，又對前世感覺難以抗拒，使這個機械天使的神話添上可歌可泣的新篇章。
 
 ## 登場角色
 
@@ -33,8 +28,7 @@ DEAVA，遇上了不少早被發掘的同學，亦親身見證和經歷不少曖
 <!-- end list -->
 
   - Aquaria／Aquarion
-    人類一方所擁有的戰鬥機械人，由Vector X、Y和Z三台戰機組成。不同的Vector
-    Machine合體模式會產生不同的型態。Altair界將其稱為機械天使。
+    人類一方所擁有的戰鬥機械人，由Vector X、Y和Z三台戰機組成。不同的Vector Machine合體模式會產生不同的型態。Altair界將其稱為機械天使。
     合體方法是先要各戰機駕駛員的多次元情感同步，排出三角陣式，然後組成頭部人員念出「××合體、GO！Aquarion！」，從而開始合體。{{\#tag:ref|台詞可被分散成每個人各說一個部份。\[1\]|group="注"}}機體真實之名為Aquarion，但因九年前的Aquarion悲劇而封鎖並改為Aquaria，只有較上層的人清楚一切。傳統的男女合體機可以加強Element能力，亦可配合駕駛者心境，使出獨特必殺技。
     名字源自希臘神話的水神。
     合體宣告中，填入××的字包括︰
@@ -128,8 +122,7 @@ DEAVA，遇上了不少早被發掘的同學，亦親身見證和經歷不少曖
 
 :: X為中下身，Y為頭部，Z為上肢。外貌仿似纖巧的劍士，主色為黑色。
 
-::
-主要武器為能源劍，劍刃部分可變成光鞭。為彌補不足的外殼防禦力，亦同時配備了大型盾牌，在必要的時候能將盾牌變化為弓箭。擅長高速機動戰鬥。\[3\]
+:: 主要武器為能源劍，劍刃部分可變成光鞭。為彌補不足的外殼防禦力，亦同時配備了大型盾牌，在必要的時候能將盾牌變化為弓箭。擅長高速機動戰鬥。\[3\]
 
 :: 在活用Element的特異攻擊能力方面僅次於EVOL，故對駕駛員的Element能力有很高的要求。\[4\]
 
@@ -165,15 +158,11 @@ DEAVA，遇上了不少早被發掘的同學，亦親身見證和經歷不少曖
 
 :;
 
-::
-第2話登場，因阿瑪塔感受到御子乃溫柔的愛而發動。駕駛機體的眾人將一同推進，拼上全身力量把敵人推出去。並且利用空中飛翔Element能力的增幅來急速上升沖向衛星軌道之上，把Mithra
-Gunis叩入小行星之中。缺點是阿瑪塔會使用自身最高頻率的精神力量，在爆發後會因為用盡了力量而暈倒。\[6\]
+:: 第2話登場，因阿瑪塔感受到御子乃溫柔的愛而發動。駕駛機體的眾人將一同推進，拼上全身力量把敵人推出去。並且利用空中飛翔Element能力的增幅來急速上升沖向衛星軌道之上，把Mithra Gunis叩入小行星之中。缺點是阿瑪塔會使用自身最高頻率的精神力量，在爆發後會因為用盡了力量而暈倒。\[6\]
 
 :;
 
-::
-第4話登場，因當時仍未能夠確認其Element能力而被視作無能的御子乃想把握凱炎和阿瑪塔對她的關心而發動。機體會伸出射程幾近相當無限長的拳頭，一直追趕著對手攻擊。\[7\]
-巧妙利用的話，更可使機體以手部抓緊物件移動。\[8\]
+:: 第4話登場，因當時仍未能夠確認其Element能力而被視作無能的御子乃想把握凱炎和阿瑪塔對她的關心而發動。機體會伸出射程幾近相當無限長的拳頭，一直追趕著對手攻擊。\[7\] 巧妙利用的話，更可使機體以手部抓緊物件移動。\[8\]
 
 :: 為《創聖大天使》全系列的經典必殺技之一。在此作為基本慣用技使用。
 
@@ -183,18 +172,15 @@ Gunis叩入小行星之中。缺點是阿瑪塔會使用自身最高頻率的精
 
 :;
 
-::
-第9話登場，因MIX想為安迪在戰鬥中拼盡能力而發動。機體會把雙手收向心口，配合Element的封印能力，遙距阻截敵方機體發出攻擊，讓其不勝負荷而[自爆](../Page/自爆.md "wikilink")。\[10\]
+:: 第9話登場，因MIX想為安迪在戰鬥中拼盡能力而發動。機體會把雙手收向心口，配合Element的封印能力，遙距阻截敵方機體發出攻擊，讓其不勝負荷而[自爆](../Page/自爆.md "wikilink")。\[10\]
 
 :;
 
-::
-第16話登場，在「實戰演習」期間，因潔希卡回想到MIX對自己的道歉建議以後，無視「戀愛禁止」以下突然向阿瑪塔表白、御子乃嫉妒，機體感受到他們激烈的感情而覺醒（亦有可能是暴走）並且自行發動。跟無限拳一樣，機體會伸出射程幾近相當無限長的拳頭，但拳頭會通過傳送門穿越空間，然後於另一個傳送門中突然出現，攻擊敵機並且在空中爆炸，其威力足以將一個島炸個消失。而其駕駛員會通過無限拳看見[12,000多年之前發生的事件的幻象](../Page/創聖的亞庫艾里翁.md "wikilink")。{{\#tag:ref|必殺技名字來自導演[河森正治另一著名作品](../Page/河森正治.md "wikilink")[超时空要塞](../Page/超时空要塞.md "wikilink")（）。|group="注"}}\[11\]
+:: 第16話登場，在「實戰演習」期間，因潔希卡回想到MIX對自己的道歉建議以後，無視「戀愛禁止」以下突然向阿瑪塔表白、御子乃嫉妒，機體感受到他們激烈的感情而覺醒（亦有可能是暴走）並且自行發動。跟無限拳一樣，機體會伸出射程幾近相當無限長的拳頭，但拳頭會通過傳送門穿越空間，然後於另一個傳送門中突然出現，攻擊敵機並且在空中爆炸，其威力足以將一個島炸個消失。而其駕駛員會通過無限拳看見[12,000多年之前發生的事件的幻象](../Page/創聖的亞庫艾里翁.md "wikilink")。{{\#tag:ref|必殺技名字來自導演[河森正治](../Page/河森正治.md "wikilink")另一著名作品[超时空要塞](../Page/超时空要塞.md "wikilink")（）。|group="注"}}\[11\]
 
 :;
 
-::
-第17話登場，需要所有在內的Element能力者一起才能發動。在寒冷中被凍僵的Element能力者們所在的駕駛艙中突然湧上了溫泉和[香蕉](../Page/香蕉.md "wikilink")。由香蕉中分泌出來的“催熟植物的成份”中褪去一皮的EVOL使得Element能力者的能力得到進一步的提升，拳頭會分裂為九個，而每一個拳頭的能力和射程亦跟無限拳一樣。當全部拳頭命中敵機時，將敵機壓碎。\[12\]
+:: 第17話登場，需要所有在內的Element能力者一起才能發動。在寒冷中被凍僵的Element能力者們所在的駕駛艙中突然湧上了溫泉和[香蕉](../Page/香蕉.md "wikilink")。由香蕉中分泌出來的“催熟植物的成份”中褪去一皮的EVOL使得Element能力者的能力得到進一步的提升，拳頭會分裂為九個，而每一個拳頭的能力和射程亦跟無限拳一樣。當全部拳頭命中敵機時，將敵機壓碎。\[12\]
 
 :;
 
@@ -213,11 +199,7 @@ Gunis叩入小行星之中。缺點是阿瑪塔會使用自身最高頻率的精
 
 :;
 
-::
-第8話登場，因阿瑪塔、潔希卡和御子乃[暴露皮膚每一處去感應戰鬥氣息而發動](../Page/野球拳.md "wikilink")。機體的手會先後以[-{zh:石头;
-zh-cn:石头; zh-hk:揼; zh-tw:石頭; zh-sg:石頭}-（ATTACK）、-{zh:布; zh-cn:布;
-zh-hk:包; zh-tw:布; zh-sg:布}-（NO）和-{zh:剪子; zh-cn:剪子; zh-hk:剪; zh-tw:剪刀;
-zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布.md "wikilink")，三段攻擊之威力足以破壞敵方機體。缺點是Element能力者自身將毫無防備。\[15\]
+:: 第8話登場，因阿瑪塔、潔希卡和御子乃[暴露皮膚每一處去感應戰鬥氣息而發動](../Page/野球拳.md "wikilink")。機體的手會先後以[-{zh:石头; zh-cn:石头; zh-hk:揼; zh-tw:石頭; zh-sg:石頭}-（ATTACK）、-{zh:布; zh-cn:布; zh-hk:包; zh-tw:布; zh-sg:布}-（NO）和-{zh:剪子; zh-cn:剪子; zh-hk:剪; zh-tw:剪刀; zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布.md "wikilink")，三段攻擊之威力足以破壞敵方機體。缺點是Element能力者自身將毫無防備。\[15\]
 
 :;
 
@@ -225,8 +207,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
 
 :;
 
-::
-第20話登場，在安迪親眼看見MIX（當時已自稱MIXY）受到Altair界的「夏娃的詛咒」的影響而變成男性並在敵機駕駛倉內，導致他的Element能力出現暴走，並在空間直接開洞下，造成一個小型黑洞。這時修雷特控制著小型黑洞在箭頭上，並將其大型盾牌變成一把[長弓](https://zh.wikipedia.org/wiki/長弓 "wikilink")，並對準次元之門產生裝置的中央部狙擊。讓次元之門得以直接打開，眾人得以成功逃出Altair界。\[17\]
+:: 第20話登場，在安迪親眼看見MIX（當時已自稱MIXY）受到Altair界的「夏娃的詛咒」的影響而變成男性並在敵機駕駛倉內，導致他的Element能力出現暴走，並在空間直接開洞下，造成一個小型黑洞。這時修雷特控制著小型黑洞在箭頭上，並將其大型盾牌變成一把[長弓](https://zh.wikipedia.org/wiki/長弓 "wikilink")，並對準次元之門產生裝置的中央部狙擊。讓次元之門得以直接打開，眾人得以成功逃出Altair界。\[17\]
 
 :;
 
@@ -245,33 +226,27 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
 
 :;
 
-::
-第3話登場，在模擬戰期間，因阿瑪塔想向御子乃傳遞道歉的心意而發動。機體會由高處衝下去，然後以四肢著地深深一跪。使模擬敵人感到相當困惑，更導致工作人員要在[系統崩潰以前將模擬系統關機](../Page/逻辑.md "wikilink")。
+:: 第3話登場，在模擬戰期間，因阿瑪塔想向御子乃傳遞道歉的心意而發動。機體會由高處衝下去，然後以四肢著地深深一跪。使模擬敵人感到相當困惑，更導致工作人員要在[系統崩潰以前將模擬系統關機](../Page/逻辑.md "wikilink")。
 
-::
-雖然在戰術上是高度防禦形態，實際上只是普通的[叩頭](https://zh.wikipedia.org/wiki/叩頭 "wikilink")，並無任何效果。\[20\]
+:: 雖然在戰術上是高度防禦形態，實際上只是普通的[叩頭](https://zh.wikipedia.org/wiki/叩頭 "wikilink")，並無任何效果。\[20\]
 
 :: DOGEZA为日文“土下座”的读音，即下跪。orz是表示下跪磕头的表情符号。
 
 :;
 
-::
-第13話登場，因基恩．姆梭文想把次元之門封閉而發動。機體會由人型分離並且重新合體變成四腳機器人，而人型機器人的手部上展開的光束炮則變為砲台的主要武器。{{\#tag:ref|外觀類似[前作的強攻型機械天使](../Page/創聖的亞庫艾里翁.md "wikilink")・ARMAGEDDON形態，只是其為六腳並以其上部裝備的衝擊加農砲為砲台的主要武器。|group="注"}}發炮後會放出光束並於次元之門形成一斷絕力場，駕駛者需要以雙手作出合十動作來強行封閉次元之門。\[21\]
+:: 第13話登場，因基恩．姆梭文想把次元之門封閉而發動。機體會由人型分離並且重新合體變成四腳機器人，而人型機器人的手部上展開的光束炮則變為砲台的主要武器。{{\#tag:ref|外觀類似[前作的強攻型機械天使](../Page/創聖的亞庫艾里翁.md "wikilink")・ARMAGEDDON形態，只是其為六腳並以其上部裝備的衝擊加農砲為砲台的主要武器。|group="注"}}發炮後會放出光束並於次元之門形成一斷絕力場，駕駛者需要以雙手作出合十動作來強行封閉次元之門。\[21\]
 
 :;
 
-::
-第16話登場，「實戰演習」期間，在對付企圖以建築物為掩護接近對方的阿瑪塔隊時由諸井發動，原為其Element能力。從機體眼部發出紫色光線，或是直接令攻擊附加其Element能力。使[建築物脆弱化](https://zh.wikipedia.org/wiki/建築物 "wikilink")，然後可由手持機槍直接破壞建築物，甚至洞穿大地，使對手等同失去所有可被使用作為[掩體的結構](https://zh.wikipedia.org/wiki/防御工事 "wikilink")。\[22\]
+:: 第16話登場，「實戰演習」期間，在對付企圖以建築物為掩護接近對方的阿瑪塔隊時由諸井發動，原為其Element能力。從機體眼部發出紫色光線，或是直接令攻擊附加其Element能力。使[建築物脆弱化](https://zh.wikipedia.org/wiki/建築物 "wikilink")，然後可由手持機槍直接破壞建築物，甚至洞穿大地，使對手等同失去所有可被使用作為[掩體的結構](https://zh.wikipedia.org/wiki/防御工事 "wikilink")。\[22\]
 
 :;
 
-::
-第16話登場，「實戰演習」期間，在對付企圖使用無限拳的阿瑪塔隊時由山茶花發動，原為其Element能力。使敵機從腿部和摺疊機翼開始往上[生鏽](../Page/铁锈.md "wikilink")，導致敵機陷入不能自由活動的狀態中。\[23\]
+:: 第16話登場，「實戰演習」期間，在對付企圖使用無限拳的阿瑪塔隊時由山茶花發動，原為其Element能力。使敵機從腿部和摺疊機翼開始往上[生鏽](../Page/铁锈.md "wikilink")，導致敵機陷入不能自由活動的狀態中。\[23\]
 
 :;
 
-::
-第16話登場，「實戰演習」期間，在對付正在潔希卡試圖向阿瑪塔的表白而分神的阿瑪塔隊時由凱炎、諸井和山茶花發動。在由三人到達最高潮的巔峰的心靈等級中Gepard所釋放出的導彈劇烈的增加，機體會在肩部附近召喚出九台相連接的導彈發射器（共十八台），同時向敵人發射大量導彈，作出大範圍破壞。{{\#tag:ref|必殺技英文名字之中的“BYE”的聲音在日文上的另一個含義是“倍增”（），兩個“BYE”意味著倍增多次，與一次過召喚出共十八台導彈發射器相符。|group="注"}}\[24\]
+:: 第16話登場，「實戰演習」期間，在對付正在潔希卡試圖向阿瑪塔的表白而分神的阿瑪塔隊時由凱炎、諸井和山茶花發動。在由三人到達最高潮的巔峰的心靈等級中Gepard所釋放出的導彈劇烈的增加，機體會在肩部附近召喚出九台相連接的導彈發射器（共十八台），同時向敵人發射大量導彈，作出大範圍破壞。{{\#tag:ref|必殺技英文名字之中的“BYE”的聲音在日文上的另一個含義是“倍增”（），兩個“BYE”意味著倍增多次，與一次過召喚出共十八台導彈發射器相符。|group="注"}}\[24\]
 
 :;
 
@@ -304,8 +279,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
   -
 
       -
-        第24話登場，《創聖大天使》全系列的經典必殺技之一，機體會伸出射程幾近相當無限長的拳頭，一直追趕著對手攻擊。其威力足以貫穿Afra
-        Gnis的裝甲。\[28\]
+        第24話登場，《創聖大天使》全系列的經典必殺技之一，機體會伸出射程幾近相當無限長的拳頭，一直追趕著對手攻擊。其威力足以貫穿Afra Gnis的裝甲。\[28\]
 
 <!-- end list -->
 
@@ -350,8 +324,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
   - Afra Gnis
     出雲．神呂木的專用機。機體背後的六塊特殊裝甲能夠吸收敵人的攻擊（例如光線武器的攻擊或導彈的爆炸力，甚至是必殺技「超捻轉」），然後擺出[太極陰陽圖並以雙倍反彈出去](https://zh.wikipedia.org/wiki/太極 "wikilink")。\[33\]
       - 必殺技：
-        第24話登場，由於出雲不想艾莉西亞的犠牲白白浪費而發動。把Iron C系統的全部能源都引導至Afra
-        Gnis，然後透過機體背後的六塊特殊裝甲所組成的大砲發射，威力極強。缺點是需要消耗Altair界所擁有的力量本身。\[34\]
+        第24話登場，由於出雲不想艾莉西亞的犠牲白白浪費而發動。把Iron C系統的全部能源都引導至Afra Gnis，然後透過機體背後的六塊特殊裝甲所組成的大砲發射，威力極強。缺點是需要消耗Altair界所擁有的力量本身。\[34\]
 
 <!-- end list -->
 
@@ -374,12 +347,10 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
     主要以香港（和澳門）的實景作參照，構造城市中各種生活景象。
     使用的貨幣為九龍幣。\[36\]
   -
-    DEAVA為「地球再生機構（Division of EArth Vitalization
-    Advancement）」。為了與異世界的Abductor對抗而成立的特殊機關。
+    DEAVA為「地球再生機構（Division of EArth Vitalization Advancement）」。為了與異世界的Abductor對抗而成立的特殊機關。
     跟前作《創聖大天使》「DEAVA」有著很多相似之處。
   - 聖天使學園
-    Neo
-    Deava為了訓練Element能力者而成立的寄宿學校，分為男子部和女子部。學校初期嚴格實行男女分離政策，男子部和女子部之間就有著一道「柏林牆」。學園中的大聖堂裡，有著一萬兩千年前「太陽之翼」拯救地球故事的雕塑。
+    Neo Deava為了訓練Element能力者而成立的寄宿學校，分為男子部和女子部。學校初期嚴格實行男女分離政策，男子部和女子部之間就有著一道「柏林牆」。學園中的大聖堂裡，有著一萬兩千年前「太陽之翼」拯救地球故事的雕塑。
     「柏林牆」於第4話被無限拳擊毀，從此實施男女共學。\[37\]
   -
     指各種不同的特殊能力，能力者年紀較小時較容易顯現。是成為操縱Aquarion/Aquaria的駕駛員所要求的能力。
@@ -455,15 +426,11 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
   - 音響監督：三間雅文
   - 音響效果：倉橋靜男
   - 音樂製作人：佐佐木史朗
-  - 音樂製作：[flying
-    DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")
+  - 音樂製作：[flying DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")
   - 音樂導演：井上裕香子
   - 動畫製作人：葛西勵、高橋
   - 動畫製作：[SATELIGHT](../Page/SATELIGHT.md "wikilink")×8bit
-  - 製作：Project AQUARION EVOL（[Media
-    Factory](../Page/Media_Factory.md "wikilink")、博報堂DY Media
-    Partners、[東北新社](https://zh.wikipedia.org/wiki/東北新社 "wikilink")、[萬代](../Page/萬代.md "wikilink")、BANDAI
-    NAMCO Games、SATELIGHT）
+  - 製作：Project AQUARION EVOL（[Media Factory](../Page/Media_Factory.md "wikilink")、博報堂DY Media Partners、[東北新社](https://zh.wikipedia.org/wiki/東北新社 "wikilink")、[萬代](../Page/萬代.md "wikilink")、BANDAI NAMCO Games、SATELIGHT）
 
 ## 主題曲
 
@@ -476,8 +443,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
       -
         作詞：Gabriela Robin
         作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
-        歌：[AKINO](../Page/AKINO.md "wikilink") with
-        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
+        歌：[AKINO](../Page/AKINO.md "wikilink") with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 「ZOO」（第16話－第26話）
 
@@ -486,8 +452,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
       -
         作詞：Gabriela Robin、岩里祐穂
         作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
-        歌：[AKINO](../Page/AKINO.md "wikilink") with
-        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
+        歌：[AKINO](../Page/AKINO.md "wikilink") with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 <!-- end list -->
 
@@ -500,8 +465,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
       -
         作詞：Gabriela Robin
         作曲、編曲：菅野洋子
-        歌：[AKINO](../Page/AKINO.md "wikilink")＆AIKI from
-        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
+        歌：[AKINO](../Page/AKINO.md "wikilink")＆AIKI from [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 「」（第15話－第22話、第25話）
 
@@ -523,8 +487,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
       -
         作詞：Gabriela Robin
         作曲、編曲：菅野洋子
-        歌：[AKINO](../Page/AKINO.md "wikilink") with
-        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
+        歌：[AKINO](../Page/AKINO.md "wikilink") with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 「Go Tight\!」（第8話）
 
@@ -533,8 +496,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
       -
         作詞：岩里祐穂
         作曲、編曲：菅野洋子
-        歌：[AKINO](../Page/AKINO.md "wikilink") with
-        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
+        歌：[AKINO](../Page/AKINO.md "wikilink") with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 「」（驕傲～嘆息的旅途）（第10話、第18話、第24話）
 
@@ -543,8 +505,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
       -
         作詞：岩里祐穂
         作曲、編曲：菅野洋子
-        歌：[AKINO](../Page/AKINO.md "wikilink") with
-        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
+        歌：[AKINO](../Page/AKINO.md "wikilink") with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 「」（Aquaria舞動於空）（第12話、第15話、第19話、第24話）
 
@@ -562,8 +523,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
       -
         作詞：岩里祐穂
         作曲、編曲：菅野洋子
-        歌：[AKINO](../Page/AKINO.md "wikilink") with
-        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
+        歌：[AKINO](../Page/AKINO.md "wikilink") with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 「Genesis of Aquarion」（第14話、第26話）
 
@@ -927,7 +887,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
 | [北海道](../Page/北海道.md "wikilink")                                                     | [北海道電視台](../Page/北海道電視台.md "wikilink")   | 2012年1月12日 － 6月28日 | 星期四 26:30 － 27:00                                     |                                                       |        |
 | [愛知縣](../Page/愛知縣.md "wikilink")                                                     | [愛知電視台](../Page/愛知電視台.md "wikilink")     | 2012年1月13日 － 6月29日 | 星期五 26:30 － 27:00                                     |                                                       |        |
 | [岡山縣](../Page/岡山縣.md "wikilink")、[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink") | [瀨戶內電視台](../Page/瀨戶內電視台.md "wikilink")   | 2012年1月14日 － 6月30日 | 星期六 26:35 － 27:05                                     |                                                       |        |
-| [日本全域](../Page/日本.md "wikilink")                                                     | ファミリー劇場                                  | |2012年1月15日 － 7月1日 | 星期日 18:30 － 19:00                                     | [CS放送](https://zh.wikipedia.org/wiki/CS放送 "wikilink") | 另有重播時段 |
+| [日本](../Page/日本.md "wikilink")全域                                                     | ファミリー劇場                                  | |2012年1月15日 － 7月1日 | 星期日 18:30 － 19:00                                     | [CS放送](https://zh.wikipedia.org/wiki/CS放送 "wikilink") | 另有重播時段 |
 | [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")                    | 2012年1月16日 － 7月2日                        | 星期一 24:00 更新       | [網絡配信](https://zh.wikipedia.org/wiki/網絡配信 "wikilink") |                                                       |        |
 | [萬代頻道](../Page/萬代頻道.md "wikilink")                                                   | 2012年1月30日 － 7月16日                       | 星期一 12:00 更新       |                                                       |                                                       |        |
 
@@ -945,14 +905,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
 
   - —[創聖大天使EVOL官方網站](http://aqevol.com/)
 
-[Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:架空專校背景作品](https://zh.wikipedia.org/wiki/Category:架空專校背景作品 "wikilink")
-[Category:創聖系列](https://zh.wikipedia.org/wiki/Category:創聖系列 "wikilink")
-[Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:架空專校背景作品](https://zh.wikipedia.org/wiki/Category:架空專校背景作品 "wikilink") [Category:創聖系列](https://zh.wikipedia.org/wiki/Category:創聖系列 "wikilink") [Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.  詳見 <http://aqevol.com/mechanics/index.php>

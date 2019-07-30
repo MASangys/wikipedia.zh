@@ -1,6 +1,4 @@
-**Kenyu Office**是[日本](../Page/日本.md "wikilink")一家聲優事務所，由原屬[Production
-baobab的](../Page/Production_baobab.md "wikilink")[聲優](../Page/聲優.md "wikilink")[堀內賢雄](../Page/堀內賢雄.md "wikilink")於2002年4月4日創辦。旗下設有培訓學校[talk
-back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
+**Kenyu Office**是[日本](../Page/日本.md "wikilink")一家聲優事務所，由原屬[Production baobab的](../Page/Production_baobab.md "wikilink")[聲優](../Page/聲優.md "wikilink")[堀內賢雄](../Page/堀內賢雄.md "wikilink")於2002年4月4日創辦。旗下設有培訓學校[talk back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
 
 ## 所屬聲優
 
@@ -345,13 +343,11 @@ back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
 
 ### 男性
 
-  - [古宮吾一](https://zh.wikipedia.org/wiki/古宮吾一 "wikilink")（現所屬：[Media
-    Force](https://zh.wikipedia.org/wiki/Media_Force "wikilink")）
+  - [古宮吾一](https://zh.wikipedia.org/wiki/古宮吾一 "wikilink")（現所屬：[Media Force](https://zh.wikipedia.org/wiki/Media_Force "wikilink")）
   - [酒井相一郎](https://zh.wikipedia.org/wiki/酒井相一郎 "wikilink")（free）
   - [田邊篤志](https://zh.wikipedia.org/wiki/田邊篤志 "wikilink")（現所屬：[AS企畫](https://zh.wikipedia.org/wiki/AS企畫 "wikilink")）
   - [長門三照](https://zh.wikipedia.org/wiki/長門三照 "wikilink")
-  - [根津貴行](https://zh.wikipedia.org/wiki/根津貴行 "wikilink")（現所屬：[Yellow
-    Tail](https://zh.wikipedia.org/wiki/Yellow_Tail "wikilink")）
+  - [根津貴行](https://zh.wikipedia.org/wiki/根津貴行 "wikilink")（現所屬：[Yellow Tail](https://zh.wikipedia.org/wiki/Yellow_Tail "wikilink")）
   - [濱野雅嗣](https://zh.wikipedia.org/wiki/濱野雅嗣 "wikilink")
   - [古澤徹](../Page/古澤徹.md "wikilink")（free）
   - [宮下弘充](https://zh.wikipedia.org/wiki/宮下弘充 "wikilink")（現所屬：AS企畫）
@@ -363,11 +359,9 @@ back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
   - [川本知枝](https://zh.wikipedia.org/wiki/川本知枝 "wikilink")（現所屬：[Jewel☆Voice](https://zh.wikipedia.org/wiki/Jewel☆Voice "wikilink")）
   - [坂下純美](https://zh.wikipedia.org/wiki/坂下純美 "wikilink")（現所屬：[MaxMix](https://zh.wikipedia.org/wiki/MaxMix "wikilink")）
   - [紗川じゅん](https://zh.wikipedia.org/wiki/紗川じゅん "wikilink")
-  - [佐籐泉美](https://zh.wikipedia.org/wiki/佐籐泉美 "wikilink")（現所屬：[Phase
-    Planning](https://zh.wikipedia.org/wiki/Phase_Planning "wikilink")）
+  - [佐籐泉美](https://zh.wikipedia.org/wiki/佐籐泉美 "wikilink")（現所屬：[Phase Planning](https://zh.wikipedia.org/wiki/Phase_Planning "wikilink")）
   - [澤谷有梨](https://zh.wikipedia.org/wiki/澤谷有梨 "wikilink")
-  - [鹽原美鈴](https://zh.wikipedia.org/wiki/鹽原美鈴 "wikilink")（現所屬：[Art
-    Group](https://zh.wikipedia.org/wiki/Art_Group "wikilink")）
+  - [鹽原美鈴](https://zh.wikipedia.org/wiki/鹽原美鈴 "wikilink")（現所屬：[Art Group](https://zh.wikipedia.org/wiki/Art_Group "wikilink")）
   - [澀谷朋子](https://zh.wikipedia.org/wiki/澀谷朋子 "wikilink")
   - [竹田小春](https://zh.wikipedia.org/wiki/竹田小春 "wikilink")
   - [富田裕美子](https://zh.wikipedia.org/wiki/富田裕美子 "wikilink")
@@ -378,5 +372,4 @@ back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
 
   - [官方網站](http://www.kenyu-office.com)
 
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:Kenyu_Office](https://zh.wikipedia.org/wiki/Category:Kenyu_Office "wikilink")
+[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:Kenyu_Office](https://zh.wikipedia.org/wiki/Category:Kenyu_Office "wikilink")

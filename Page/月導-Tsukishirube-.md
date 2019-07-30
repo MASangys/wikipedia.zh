@@ -1,5 +1,4 @@
-《**月導-Tsukishirube-**》是[南里侑香](../Page/南里侑香.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年2月24日由[flying
-DOG發行](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")。\[1\]
+《**月導-Tsukishirube-**》是[南里侑香](../Page/南里侑香.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年2月24日由[flying DOG發行](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")。\[1\]
 
 ## 收錄曲
 
@@ -23,8 +22,6 @@ DOG發行](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")。\[1\]
 
   - [所屬唱片公司官方網頁](http://www.jvcmusic.co.jp/nanri-yuuka/)
 
-[Category:TBS動畫主題曲](https://zh.wikipedia.org/wiki/Category:TBS動畫主題曲 "wikilink")
-[Category:南里侑香單曲](https://zh.wikipedia.org/wiki/Category:南里侑香單曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
+[Category:TBS動畫主題曲](https://zh.wikipedia.org/wiki/Category:TBS動畫主題曲 "wikilink") [Category:南里侑香單曲](https://zh.wikipedia.org/wiki/Category:南里侑香單曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
 
 1.  <http://www.jvcmusic.co.jp/-/Artist/A019350.html>

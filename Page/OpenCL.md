@@ -1,17 +1,12 @@
-**OpenCL**（**Open** **C**omputing
-**L**anguage，开放计算语言）是一个为异构平台编写程序的框架，此异构平台可由[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")、[DSP](https://zh.wikipedia.org/wiki/DSP "wikilink")、[FPGA或其他类型的处理器與硬體加速器所组成](https://zh.wikipedia.org/wiki/FPGA "wikilink")。OpenCL由一门用于编写kernels（在OpenCL设备上运行的函数）的语言（基于[C99](https://zh.wikipedia.org/wiki/C99 "wikilink")）和一组用于定义并控制平台的API组成。OpenCL提供了基于任务分割和数据分割的[并行计算](../Page/并行计算.md "wikilink")机制。
+**OpenCL**（**Open** **C**omputing **L**anguage，开放计算语言）是一个为异构平台编写程序的框架，此异构平台可由[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")、[DSP](https://zh.wikipedia.org/wiki/DSP "wikilink")、[FPGA或其他类型的处理器與硬體加速器所组成](https://zh.wikipedia.org/wiki/FPGA "wikilink")。OpenCL由一门用于编写kernels（在OpenCL设备上运行的函数）的语言（基于[C99](https://zh.wikipedia.org/wiki/C99 "wikilink")）和一组用于定义并控制平台的API组成。OpenCL提供了基于任务分割和数据分割的[并行计算](../Page/并行计算.md "wikilink")机制。
 
-OpenCL类似于另外两个开放的工业标准[OpenGL](../Page/OpenGL.md "wikilink")和[OpenAL](../Page/OpenAL.md "wikilink")，这两个标准分别用于三维图形和计算机音频方面。OpenCL擴充了GPU圖形生成之外的能力。OpenCL由非盈利性技术组织[Khronos
-Group掌管](https://zh.wikipedia.org/wiki/Khronos_Group "wikilink")。
+OpenCL类似于另外两个开放的工业标准[OpenGL](../Page/OpenGL.md "wikilink")和[OpenAL](../Page/OpenAL.md "wikilink")，这两个标准分别用于三维图形和计算机音频方面。OpenCL擴充了GPU圖形生成之外的能力。OpenCL由非盈利性技术组织[Khronos Group掌管](https://zh.wikipedia.org/wiki/Khronos_Group "wikilink")。
 
 ## 历史
 
-OpenCL最初由[苹果公司开发](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，拥有其商标权，并在与[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")，[IBM](../Page/IBM.md "wikilink")，[Intel和](https://zh.wikipedia.org/wiki/Intel "wikilink")[NVIDIA技术团队的合作之下初步完善](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")。随后，苹果将这一草案提交至[Khronos
-Group](https://zh.wikipedia.org/wiki/Khronos_Group "wikilink")。
+OpenCL最初由[苹果公司开发](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，拥有其商标权，并在与[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")，[IBM](../Page/IBM.md "wikilink")，[Intel和](https://zh.wikipedia.org/wiki/Intel "wikilink")[NVIDIA技术团队的合作之下初步完善](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")。随后，苹果将这一草案提交至[Khronos Group](https://zh.wikipedia.org/wiki/Khronos_Group "wikilink")。
 
-2008年6月16日，Khronos的通用计算工作小组成立\[1\]。5个月后的2008年11月18日，该工作组完成了OpenCL
-1.0规范的技术细节\[2\]。该技术规范在由Khronos成员进行审查之后，于2008年12月8日公开发表\[3\]。2010年6月14日，OpenCL
-1.1发布\[4\]。
+2008年6月16日，Khronos的通用计算工作小组成立\[1\]。5个月后的2008年11月18日，该工作组完成了OpenCL 1.0规范的技术细节\[2\]。该技术规范在由Khronos成员进行审查之后，于2008年12月8日公开发表\[3\]。2010年6月14日，OpenCL 1.1发布\[4\]。
 
 ## 範例
 
@@ -51,8 +46,7 @@ Group](https://zh.wikipedia.org/wiki/Khronos_Group "wikilink")。
   clEnqueueNDRangeKernel(queue, kernel, 1, NULL, global_work_size, local_work_size, 0, NULL, NULL);
 ```
 
-真正的運算：（基於[Fitting FFT onto the G80
-Architecture](http://www.cs.berkeley.edu/~kubitron/courses/cs258-S08/projects/reports/project6_report.pdf)）\[6\]
+真正的運算：（基於[Fitting FFT onto the G80 Architecture](http://www.cs.berkeley.edu/~kubitron/courses/cs258-S08/projects/reports/project6_report.pdf)）\[6\]
 
 ``` c
   // This kernel computes FFT of length 1024. The 1024 length FFT is decomposed into
@@ -250,8 +244,7 @@ if __name__ == '__main__':
 
 {{-}}
 
-[Category:计算机语言](https://zh.wikipedia.org/wiki/Category:计算机语言 "wikilink")
-[Category:GPGPU](https://zh.wikipedia.org/wiki/Category:GPGPU "wikilink")
+[Category:计算机语言](https://zh.wikipedia.org/wiki/Category:计算机语言 "wikilink") [Category:GPGPU](https://zh.wikipedia.org/wiki/Category:GPGPU "wikilink")
 
 1.
 2.

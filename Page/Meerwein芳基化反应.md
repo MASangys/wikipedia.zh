@@ -31,37 +31,12 @@
 
 ## 参考资料
 
-[Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink")
-[Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink") [Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
-1.  [Meerwein,
-    H](https://zh.wikipedia.org/wiki/Hans_Meerwein "wikilink");,
-    Buchner, E.; van Emsterk, K. *[J. Prakt.
-    Chem.](https://zh.wikipedia.org/wiki/J._Prakt._Chem. "wikilink")*
-    **1939**, 152, 237.
-2.  *Minireview Intermolecular Olefin Functionalisation Involving Aryl
-    Radicals Generated from Arenediazonium Salts* Markus R. Heinrich
-    Chemistry - A European Journal 2008 Volume 15 Issue 4, Pages 820 -
-    833
-3.  *Strategic Applications of Named Reactions in Organic Synthesis*
-    Laszlo Kurti, Barbara Czako Academic Press (March 4, **2005**) ISBN
-    0-12-429785-4
-4.  *Benzenepropanoic acid, 4-acetyl-α-bromo-* [Organic
-    Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"),
-    Coll. Vol. 6, p.21 (1988); Vol. 51, p.1 (**1971**).
-    [Link](http://www.orgsynth.org/orgsyn/pdfs/CV6P0021.pdf)
-5.  *1,3-Butadiene, 1-(p-nitrophenyl)-* [Organic
-    Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"),
-    Coll. Vol. 4, p.727 (**1963**); Vol. 31, p.80 (**1951**).
-    [Link](http://www.orgsynth.org/orgsyn/pdfs/CV4P0727.pdf)
-6.  *2-Butanone, 4-(4-chlorophenyl)-* [Organic
-    Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"),
-    Coll. Vol. 7, p.105 (1990); Vol. 62, p.67 (**1984**)
-    [Link](http://www.orgsynth.org/orgsyn/pdfs/CV7P0105.pdf).
-7.  *A Practical Synthesis of -Aryl Methyl Ketones via a
-    Transition-Metal-Free Meerwein Arylation* Carmela Molinaro, Jeffrey
-    Mowat, Francis Gosselin, Paul D. O'Shea, Jean-François Marcoux, Rémy
-    Angelaud, and Ian W. Davies [J. Org.
-    Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink");
-    **2007**; 72(5) pp 1856 - 1858; (Note)
+1.  [Meerwein, H](https://zh.wikipedia.org/wiki/Hans_Meerwein "wikilink");, Buchner, E.; van Emsterk, K. *[J. Prakt. Chem.](https://zh.wikipedia.org/wiki/J._Prakt._Chem. "wikilink")* **1939**, 152, 237.
+2.  *Minireview Intermolecular Olefin Functionalisation Involving Aryl Radicals Generated from Arenediazonium Salts* Markus R. Heinrich  Chemistry - A European Journal 2008 Volume 15 Issue 4, Pages 820 - 833
+3.  *Strategic Applications of Named Reactions in Organic Synthesis* Laszlo Kurti, Barbara Czako Academic Press (March 4, **2005**) ISBN 0-12-429785-4
+4.  *Benzenepropanoic acid, 4-acetyl-α-bromo-* [Organic Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"), Coll. Vol. 6, p.21 (1988); Vol. 51, p.1 (**1971**). [Link](http://www.orgsynth.org/orgsyn/pdfs/CV6P0021.pdf)
+5.  *1,3-Butadiene, 1-(p-nitrophenyl)-* [Organic Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"), Coll. Vol. 4, p.727 (**1963**); Vol. 31, p.80 (**1951**). [Link](http://www.orgsynth.org/orgsyn/pdfs/CV4P0727.pdf)
+6.  *2-Butanone, 4-(4-chlorophenyl)-* [Organic Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"), Coll. Vol. 7, p.105 (1990); Vol. 62, p.67 (**1984**) [Link](http://www.orgsynth.org/orgsyn/pdfs/CV7P0105.pdf).
+7.  *A Practical Synthesis of -Aryl Methyl Ketones via a Transition-Metal-Free Meerwein Arylation* Carmela Molinaro, Jeffrey Mowat, Francis Gosselin, Paul D. O'Shea, Jean-François Marcoux, Rémy Angelaud, and Ian W. Davies [J. Org. Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink"); **2007**; 72(5) pp 1856 - 1858; (Note)

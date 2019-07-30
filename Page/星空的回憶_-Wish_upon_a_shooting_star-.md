@@ -1,7 +1,4 @@
-是2009年3月27日由[CROSSNET](../Page/CROSSNET.md "wikilink")(現[FAVORITE](../Page/FAVORITE.md "wikilink"))發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2010年1月29日發售收錄各角色續集故事的[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《星空的回憶 Eternal
-Heart》（ Eternal Heart）。\[2\]同年11月26日亦發售了結合了Wish upon a shooting
-star及Eternal Heart版本的《星空的回憶 COMPLETE》（ COMPLETE）。\[3\]
+是2009年3月27日由[CROSSNET](../Page/CROSSNET.md "wikilink")(現[FAVORITE](../Page/FAVORITE.md "wikilink"))發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2010年1月29日發售收錄各角色續集故事的[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《星空的回憶 Eternal Heart》（ Eternal Heart）。\[2\]同年11月26日亦發售了結合了Wish upon a shooting star及Eternal Heart版本的《星空的回憶 COMPLETE》（ COMPLETE）。\[3\]
 
 ## 故事
 
@@ -71,12 +68,12 @@ star及Eternal Heart版本的《星空的回憶 COMPLETE》（ COMPLETE）。\[3
   -
     身高：161公分、三圍：87/57/86、喜歡的東西：小雨、討厭的東西：有關星星的任何事情
     雲雀崎學園二年級。小雨的雙胞胎姊姊。
-    學生會委員。性格[傲嬌并且](../Page/傲嬌.md "wikilink")[抖M的暴力女](https://zh.wikipedia.org/wiki/抖M "wikilink")。家裡是神社。
+    學生會委員。性格[傲嬌](../Page/傲嬌.md "wikilink")并且[抖M的暴力女](https://zh.wikipedia.org/wiki/抖M "wikilink")。家裡是神社。
     不喜欢自己的名字，也讨厌别人用名字叫她。感觉“小桃”这个名字过於可爱与自己的性格不相衬。甚至不叫小河坂洋的名字，以防止小河坂洋用名字称呼她。
     因为小雨七年前在展望台观测流星下落的时候不慎摔死而討厭星星，計劃廢除掉天協。
     灵能力很强，七年前借助自家供奉的的陨石（五十六年前降落在雲雀崎的陨石，来自月球）的力量对小雨降灵，成功使小雨借助星灵的力量复生。在恢复记忆之后，小雨的死去已经不再是噩梦，小雨的身体进一步得到巩固，从星灵变为星神一样的存在。
     之后不断梦到小雨死亡过程的噩梦，直到某天在展望台哭泣时遇到梅娅，梅娅出于试刀的原因将她的噩梦除去，从此小桃失去妹妹已经死亡的记忆。后来小桃再次接近展望台的时候渐渐回忆起了一切。
-    在FD《永恒之心》中的个人路线有和妹妹的3P情节，这个惯例被保留到了[五彩斑斕的世界的FD](../Page/五彩斑斕的世界.md "wikilink")[五彩斑斓的曙光中](https://zh.wikipedia.org/wiki/五彩斑斓的曙光 "wikilink")（観波加奈&如月澪）。
+    在FD《永恒之心》中的个人路线有和妹妹的3P情节，这个惯例被保留到了[五彩斑斕的世界](../Page/五彩斑斕的世界.md "wikilink")的FD[五彩斑斓的曙光中](https://zh.wikipedia.org/wiki/五彩斑斓的曙光 "wikilink")（観波加奈&如月澪）。
 
 <!-- end list -->
 
@@ -96,8 +93,7 @@ star及Eternal Heart版本的《星空的回憶 COMPLETE》（ COMPLETE）。\[3
     身高：149公分、三圍：77/53/78、喜歡的東西：塔羅牌、討厭的東西：跟別人做朋友
     雲雀崎學園一年級。常常帶著塔羅牌到學校，使负责檢查物品的小桃感到困擾。
     父母都是原本在澳大利亚工作的日本天文学家。出生在澳大利亚，所以对南半球的星空有着乡愁一样的执念，因为妹妹的身体愿意搬回日本，跟朋友及家乡分离而受到心灵创伤。害怕再一次和朋友分离，因此對其他人總是抱著冷淡和拒绝的態度，不愿意交朋友。
-    科学馆闭馆之前，常常去科学馆观测南半球的星空，与主角的生身父亲三嶋大河是朋友，把他当作恩人的存在。从三嶋大河处得到了一台望远镜和一把学园天台的钥匙。
-    在FD《永恒之心》中，三年级时接任天文部部长，毕业后离开云雀崎到某科学馆从事天文研究。
+    科学馆闭馆之前，常常去科学馆观测南半球的星空，与主角的生身父亲三嶋大河是朋友，把他当作恩人的存在。从三嶋大河处得到了一台望远镜和一把学园天台的钥匙。 在FD《永恒之心》中，三年级时接任天文部部长，毕业后离开云雀崎到某科学馆从事天文研究。
 
 <!-- end list -->
 
@@ -232,10 +228,7 @@ star及Eternal Heart版本的《星空的回憶 COMPLETE》（ COMPLETE）。\[3
       - 夢線ED『』（宙之光）
           - 歌：[茶太](../Page/茶太.md "wikilink")　作詞：日山尚 作編曲：福田真一郎
       - 梅娅線ED『冬のダイヤモンド』（冬之钻石）
-          - 歌：[山本美禰子](https://zh.wikipedia.org/wiki/山本美禰子 "wikilink")
-            作詞：[山本美禰子](https://zh.wikipedia.org/wiki/山本美禰子 "wikilink")
-            作曲：[山本美禰子](https://zh.wikipedia.org/wiki/山本美禰子 "wikilink")
-            編曲：wACHA
+          - 歌：[山本美禰子](https://zh.wikipedia.org/wiki/山本美禰子 "wikilink") 作詞：[山本美禰子](https://zh.wikipedia.org/wiki/山本美禰子 "wikilink") 作曲：[山本美禰子](https://zh.wikipedia.org/wiki/山本美禰子 "wikilink") 編曲：wACHA
 
 ## 評價
 
@@ -247,25 +240,10 @@ star及Eternal Heart版本的《星空的回憶 COMPLETE》（ COMPLETE）。\[3
 
   - [Favorite](http://www.favo.co.jp/soft/)
   - [星空回憶官網](https://web.archive.org/web/20150804044554/http://www.favo.co.jp/soft/product/hoshizora/index.html)
+  - [星空的回憶 Eternal Heart官網](http://www.favo-soft.jp/soft/product/EternalHeart/index.htm)
+  - [星空のメモリア COMPLETE官網](http://www.favo-soft.jp/soft/product/COMPLETE/index.htm)
 
-  - [星空的回憶 Eternal
-    Heart官網](http://www.favo-soft.jp/soft/product/EternalHeart/index.htm)
-
-  - [星空のメモリア
-    COMPLETE官網](http://www.favo-soft.jp/soft/product/COMPLETE/index.htm)
-
-
-[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink")
-[Category:天文題材作品](https://zh.wikipedia.org/wiki/Category:天文題材作品 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:神道題材作品](https://zh.wikipedia.org/wiki/Category:神道題材作品 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:小樽市背景作品](https://zh.wikipedia.org/wiki/Category:小樽市背景作品 "wikilink")
-[Category:2012年背景游戏](https://zh.wikipedia.org/wiki/Category:2012年背景游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink") [Category:天文題材作品](https://zh.wikipedia.org/wiki/Category:天文題材作品 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:神道題材作品](https://zh.wikipedia.org/wiki/Category:神道題材作品 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:小樽市背景作品](https://zh.wikipedia.org/wiki/Category:小樽市背景作品 "wikilink") [Category:2012年背景游戏](https://zh.wikipedia.org/wiki/Category:2012年背景游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 
 1.
 2.

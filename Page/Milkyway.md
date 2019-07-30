@@ -1,6 +1,4 @@
-《**Milkyway**》是日本[Witch在](../Page/Witch.md "wikilink")2000年7月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，2002年3月8日發售新增語音版《**Milkyway
-うぃず
-Voice**》。\[3\]Milkyway系列的第一部作品。同品牌的遊戲《Alive》的角色或其子孫在本系列中登場，雖然並非正式續篇作品，設定上仍有部分關聯。故事時間發生在《Alive》的十多年後。
+《**Milkyway**》是日本[Witch](../Page/Witch.md "wikilink")在2000年7月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，2002年3月8日發售新增語音版《**Milkyway うぃず Voice**》。\[3\]Milkyway系列的第一部作品。同品牌的遊戲《Alive》的角色或其子孫在本系列中登場，雖然並非正式續篇作品，設定上仍有部分關聯。故事時間發生在《Alive》的十多年後。
 
 ## 故事
 
@@ -79,18 +77,10 @@ OVA是在2003年發售的[成人動畫](../Page/成人動畫.md "wikilink")，�
 
   - [れもんは～と](https://web.archive.org/web/20100722083620/http://www.l-heart.ne.jp/)
 
-[Category:2000年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2000年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2003年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2003年日本成人動畫 "wikilink")
+[Category:2000年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2000年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2003年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2003年日本成人動畫 "wikilink")
 
 1.  [Milkyway 初回限定版](http://www.getchu.com/soft.phtml?id=1557)Getchu.com
 2.  [Milkyway](https://vndb.org/v5716)The Visual Novel Database
-3.  [Milkyway うぃず
-    Voice](http://www.getchu.com/soft.phtml?id=10209)Getchu.com
-4.  [Milkyway
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6945)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-5.  [Milkyway
-    コンプリート版](http://www.getchu.com/soft.phtml?id=296945)Getchu.com
+3.  [Milkyway うぃず Voice](http://www.getchu.com/soft.phtml?id=10209)Getchu.com
+4.  [Milkyway (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6945)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+5.  [Milkyway コンプリート版](http://www.getchu.com/soft.phtml?id=296945)Getchu.com

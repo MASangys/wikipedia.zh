@@ -27,5 +27,4 @@
 
   - [生涯打擊率排行榜](http://www.baseball-reference.com/leaders/batting_avg_career.shtml)
 
-[Category:棒球紀錄](https://zh.wikipedia.org/wiki/Category:棒球紀錄 "wikilink")
-[Category:MLB打擊率排行榜](https://zh.wikipedia.org/wiki/Category:MLB打擊率排行榜 "wikilink")
+[Category:棒球紀錄](https://zh.wikipedia.org/wiki/Category:棒球紀錄 "wikilink") [Category:MLB打擊率排行榜](https://zh.wikipedia.org/wiki/Category:MLB打擊率排行榜 "wikilink")

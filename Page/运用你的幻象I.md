@@ -1,13 +1,10 @@
-《**运用你的幻想 I**》（英文《**Use Your Illusion I**》）是美国硬摇滚乐队Guns N'
-Roses的第三张摇滚专辑，在1991年9月17日发行，与《**[Use Your Illusion
-II](https://zh.wikipedia.org/wiki/Use_Your_Illusion_II "wikilink")》**同时发行。
+《**运用你的幻想 I**》（英文《**Use Your Illusion I**》）是美国硬摇滚乐队Guns N' Roses的第三张摇滚专辑，在1991年9月17日发行，与《**[Use Your Illusion II](https://zh.wikipedia.org/wiki/Use_Your_Illusion_II "wikilink")》**同时发行。
 
 ## 曲目
 
 ##  艺术制作
 
-[链接=<https://zh.wikipedia.org/wiki/File:Raphael_School_of_Athens_GNR.jpg>](https://zh.wikipedia.org/wiki/File:Raphael_School_of_Athens_GNR.jpg "fig:链接=https://zh.wikipedia.org/wiki/File:Raphael_School_of_Athens_GNR.jpg")
-封面是由拉斐尔《雅典学院》中所部分摘取并作加工的，1991年的两个封面都是爱沙尼亚裔美国艺术家Mark Kostabi的作品。
+[链接=<https://zh.wikipedia.org/wiki/File:Raphael_School_of_Athens_GNR.jpg>](https://zh.wikipedia.org/wiki/File:Raphael_School_of_Athens_GNR.jpg "fig:链接=https://zh.wikipedia.org/wiki/File:Raphael_School_of_Athens_GNR.jpg") 封面是由拉斐尔《雅典学院》中所部分摘取并作加工的，1991年的两个封面都是爱沙尼亚裔美国艺术家Mark Kostabi的作品。
 
 ## 销量
 
@@ -109,5 +106,4 @@ II](https://zh.wikipedia.org/wiki/Use_Your_Illusion_II "wikilink")》**同时发
 
 <references />
 
-[Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink")
-[Category:枪与玫瑰音乐专辑](https://zh.wikipedia.org/wiki/Category:枪与玫瑰音乐专辑 "wikilink")
+[Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink") [Category:枪与玫瑰音乐专辑](https://zh.wikipedia.org/wiki/Category:枪与玫瑰音乐专辑 "wikilink")

@@ -1,91 +1,46 @@
-**GENERATIONS from EXILE TRIBE**（放浪新世代 from
-放浪一族）是日本7人男子組合，所屬的演藝公司為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")，唱片公司為rhythm
-zone，於2011年結成。
+**GENERATIONS from EXILE TRIBE**（放浪新世代 from 放浪一族）是日本7人男子組合，所屬的演藝公司為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")，唱片公司為rhythm zone，於2011年結成。
 
 ## 组合简历
 
 ### 2011年 - 2012年: 結成、夢者修行、出道
 
-  - 2011年，[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")[HIRO正式宣佈新組合結成](../Page/五十嵐廣行.md "wikilink")，取名GENERATIONS（放浪新世代）。GENERATIONS為「EXILE
-    Pyramid」([EXILE於](https://zh.wikipedia.org/wiki/EXILE "wikilink")2011年的重大提案)的其中一個所屬部份。而成員均是「有夢想的年輕的挑戰者」，同時亦被認同為「承繼EXILE之信念的人」，而有能力者將成為「EXILE
-    TRIBE(EXILE一族)」之一。\[1\]
-  - GENERATIONS的成員包括來自[EXPG的學生](../Page/EXPG.md "wikilink") -
-    [小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")、[佐野玲於](../Page/佐野玲於.md "wikilink")、[關口Mandy](../Page/關口Mandy.md "wikilink")；[劇團EXILE成員](../Page/劇團EXILE.md "wikilink")[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")、[町田啟太](../Page/町田啟太.md "wikilink")；和「」的三次審查通過者
-    -
-    [數原龍友和](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")[片寄涼太](../Page/片寄涼太.md "wikilink")\[2\]。在正式出道前，成員以「GENERATIONS候補生」身份進行「夢者修行」，取得正式出道的資格。
-  - 2011年下旬，五位伴舞成員 -
-    [中務裕太](https://zh.wikipedia.org/wiki/中務裕太 "wikilink")、[岩谷翔吾](https://zh.wikipedia.org/wiki/岩谷翔吾 "wikilink")、[藤原樹](https://zh.wikipedia.org/wiki/藤原樹 "wikilink")、[浦川翔平](https://zh.wikipedia.org/wiki/浦川翔平 "wikilink")、[佐藤大樹陸續加入GENERATIONS](../Page/佐藤大樹.md "wikilink")。[HIRO表示](../Page/五十嵐廣行.md "wikilink")、今後可能會加入更多的伴舞成員；而有才華的新人將有機會成為GENERATIONS的新候選者。\[3\]
-  - 2012年2月14日，[町田啟太宣佈退團](../Page/町田啟太.md "wikilink")，並專注[劇團EXILE的演出](../Page/劇團EXILE.md "wikilink")\[4\]。
-  - 2012年4月17日，[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")、[數原龍友](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")、[片寄涼太](../Page/片寄涼太.md "wikilink")、[小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")、[佐野玲於和](../Page/佐野玲於.md "wikilink")[關口Mandy六位候選者成為GENERATIONS正式成員](../Page/關口Mandy.md "wikilink")。而且[長谷川慎和](https://zh.wikipedia.org/wiki/長谷川慎 "wikilink")[森田力斗加入為GENERATIONS伴舞成員](https://zh.wikipedia.org/wiki/森田力斗 "wikilink")。以主要出道作品為目標的前題下，GENERATIONS六位成員及其七位伴舞成員進行「夢者修行〜第二章〜」之活動\[5\]。
+  - 2011年，[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")[HIRO正式宣佈新組合結成](../Page/五十嵐廣行.md "wikilink")，取名GENERATIONS（放浪新世代）。GENERATIONS為「EXILE Pyramid」([EXILE於](https://zh.wikipedia.org/wiki/EXILE "wikilink")2011年的重大提案)的其中一個所屬部份。而成員均是「有夢想的年輕的挑戰者」，同時亦被認同為「承繼EXILE之信念的人」，而有能力者將成為「EXILE TRIBE(EXILE一族)」之一。\[1\]
+  - GENERATIONS的成員包括來自[EXPG](../Page/EXPG.md "wikilink")的學生 - [小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")、[佐野玲於](../Page/佐野玲於.md "wikilink")、[關口Mandy](../Page/關口Mandy.md "wikilink")；[劇團EXILE](../Page/劇團EXILE.md "wikilink")成員[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")、[町田啟太](../Page/町田啟太.md "wikilink")；和「」的三次審查通過者 - [數原龍友和](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")[片寄涼太](../Page/片寄涼太.md "wikilink")\[2\]。在正式出道前，成員以「GENERATIONS候補生」身份進行「夢者修行」，取得正式出道的資格。
+  - 2011年下旬，五位伴舞成員 - [中務裕太](https://zh.wikipedia.org/wiki/中務裕太 "wikilink")、[岩谷翔吾](https://zh.wikipedia.org/wiki/岩谷翔吾 "wikilink")、[藤原樹](https://zh.wikipedia.org/wiki/藤原樹 "wikilink")、[浦川翔平](https://zh.wikipedia.org/wiki/浦川翔平 "wikilink")、[佐藤大樹](../Page/佐藤大樹.md "wikilink")陸續加入GENERATIONS。[HIRO表示](../Page/五十嵐廣行.md "wikilink")、今後可能會加入更多的伴舞成員；而有才華的新人將有機會成為GENERATIONS的新候選者。\[3\]
+  - 2012年2月14日，[町田啟太](../Page/町田啟太.md "wikilink")宣佈退團，並專注[劇團EXILE](../Page/劇團EXILE.md "wikilink")的演出\[4\]。
+  - 2012年4月17日，[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")、[數原龍友](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")、[片寄涼太](../Page/片寄涼太.md "wikilink")、[小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")、[佐野玲於](../Page/佐野玲於.md "wikilink")和[關口Mandy](../Page/關口Mandy.md "wikilink")六位候選者成為GENERATIONS正式成員。而且[長谷川慎和](https://zh.wikipedia.org/wiki/長谷川慎 "wikilink")[森田力斗加入為GENERATIONS伴舞成員](https://zh.wikipedia.org/wiki/森田力斗 "wikilink")。以主要出道作品為目標的前題下，GENERATIONS六位成員及其七位伴舞成員進行「夢者修行〜第二章〜」之活動\[5\]。
   - 2012年9月11日，伴舞成員[中務裕太昇格為GENERATIONS正式成員](https://zh.wikipedia.org/wiki/中務裕太 "wikilink")。
-  - 2012年11月21日，出道單曲《[BRAVE IT
-    OUT](../Page/BRAVE_IT_OUT.md "wikilink")》發行，《[BRAVE IT
-    OUT](../Page/BRAVE_IT_OUT.md "wikilink")》是成員白濱亞嵐和佐野玲於主演，日本電視台電視劇《Sugarless》的主題曲。
+  - 2012年11月21日，出道單曲《[BRAVE IT OUT](../Page/BRAVE_IT_OUT.md "wikilink")》發行，《[BRAVE IT OUT](../Page/BRAVE_IT_OUT.md "wikilink")》是成員白濱亞嵐和佐野玲於主演，日本電視台電視劇《Sugarless》的主題曲。
 
 ### 2013年: GENERATIONS
 
-  - 2013年1月，組合名字改為「GENERATIONS from EXILE
-    TRIBE」，並於1月30日發行第2張單曲《[ANIMAL](../Page/ANIMAL.md "wikilink")》。
+  - 2013年1月，組合名字改為「GENERATIONS from EXILE TRIBE」，並於1月30日發行第2張單曲《[ANIMAL](../Page/ANIMAL.md "wikilink")》。
   - 5月15日，第3張單曲《[Love You More](../Page/Love_You_More.md "wikilink")》發行。
-  - 7月，GENERATIONS與[第三代J Soul
-    Brothers以](../Page/J_Soul_Brothers.md "wikilink")「[EXILE
-    TRIBE](../Page/EXILE_TRIBE.md "wikilink")」名義發行的單曲《[BURNING
-    UP](../Page/BURNING_UP.md "wikilink")》，並獲得[Oricon公信榜每周銷量排名第](../Page/Oricon公信榜.md "wikilink")1名。
-  - 10月9日，第4張單曲《[HOT
-    SHOT](../Page/HOT_SHOT.md "wikilink")》發行，亦是首張專輯的先行單曲。
+  - 7月，GENERATIONS與[第三代J Soul Brothers以](../Page/J_Soul_Brothers.md "wikilink")「[EXILE TRIBE](../Page/EXILE_TRIBE.md "wikilink")」名義發行的單曲《[BURNING UP](../Page/BURNING_UP.md "wikilink")》，並獲得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")每周銷量排名第1名。
+  - 10月9日，第4張單曲《[HOT SHOT](../Page/HOT_SHOT.md "wikilink")》發行，亦是首張專輯的先行單曲。
   - 11月13日，首張原創專輯『[GENERATIONS](../Page/GENERATIONS_\(GENERATIONS專輯\).md "wikilink")』發行，這張專輯成為他們首張獲得Oricon公信榜每周銷量排名第1的專輯。
 
 ### 2014年: EXILE TRIBE Perfect Year
 
-  - 2014年年初，GENERATIONS的制作人、[EXILE成員](https://zh.wikipedia.org/wiki/EXILE "wikilink")[HIRO任命成員](../Page/五十嵐廣行.md "wikilink")[白濱亞嵐作為GENERATIONS的隊長](../Page/白濱亞嵐.md "wikilink")。
-  - 2014年上旬，GENERATIONS五位表演者獲邀參加『EXILE PERFORMER BATTLE
-    AUDITION』，並全員進級最終決戰。
-  - 4月23日，第5張單曲《[NEVER LET YOU
-    GO](../Page/NEVER_LET_YOU_GO.md "wikilink")》發行，亦是EXILE TRIBE Perfect
-    Year 2014其中一環《EXILE Presents VOCAL BATTLE AUDITON 4
-    〜給懷抱夢想的年輕人們〜》第二審查的課題曲。
-  - 4月27日在[日本武道館舉辦的](../Page/日本武道館.md "wikilink")『EXILE PERFORMER BATTLE
-    AUDITION』最終決戰，最終成員[白濱亞嵐和](../Page/白濱亞嵐.md "wikilink")[關口Mandy](../Page/關口Mandy.md "wikilink")，以及[山本世界](https://zh.wikipedia.org/wiki/山本世界 "wikilink")、[第三代J
-    Soul
-    Brothers的](../Page/J_Soul_Brothers.md "wikilink")[岩田剛典和曾擔任GENERATIONS的](../Page/岩田剛典.md "wikilink")[佐藤大樹成為](../Page/佐藤大樹.md "wikilink")[EXILE成員](https://zh.wikipedia.org/wiki/EXILE "wikilink")。
-  - 6月，GENERATIONS連同[EXILE
-    TAKAHIRO](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")、[THE
-    SECOND from
-    EXILE和](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")[第三代J
-    Soul
-    Brothers於](../Page/J_Soul_Brothers.md "wikilink")[埼玉超級競技場舉行](../Page/埼玉超級競技場.md "wikilink")《EXILE
-    TRIBE PERFECT YEAR 2014 SPECIAL STAGE “THE SURVIVAL” IN SAITAMA
-    SUPER ARENA 10DAYS》，亦是EXILE TRIBE Perfect Year 2014其中一環。
-  - 7月至8月，GENERATIONS以[EXILE
-    TRIBE其中一員身份發行及宣傳單曲](../Page/EXILE_TRIBE.md "wikilink")《[THE
-    REVOLUTION](https://zh.wikipedia.org/wiki/THE_REVOLUTION "wikilink")》及專輯《[EXILE
-    TRIBE
-    REVOLUTION](https://zh.wikipedia.org/wiki/EXILE_TRIBE_REVOLUTION "wikilink")》
-  - 9月3日，第6張單曲《[Always with
-    you](../Page/Always_with_you.md "wikilink")》發行。
-  - 9月起以[EXILE
-    TRIBE其中一員身份參與巡迴演唱會](../Page/EXILE_TRIBE.md "wikilink")『[TOWER
-    OF WISH 2014 ～THE
-    REVOLUTION～](https://zh.wikipedia.org/wiki/EXILE_TRIBE_PERFECT_YEAR_LIVE_TOUR_TOWER_OF_WISH_2014_～THE_REVOLUTION～ "wikilink")』
-  - 11月29日，於[東京巨蛋](../Page/東京巨蛋.md "wikilink")『TOWER OF WISH 2014 ～THE
-    REVOLUTION～』公演上宣佈於2015年1月發行新單曲，待望的第2張原創專輯《[GENERATIONS
-    EX](../Page/GENERATIONS_EX.md "wikilink")》於2015年2月發行；並於2015年春天舉行組合首次的全國HALL巡迴演唱會及世界巡迴演唱會。
+  - 2014年年初，GENERATIONS的制作人、[EXILE成員](https://zh.wikipedia.org/wiki/EXILE "wikilink")[HIRO任命成員](../Page/五十嵐廣行.md "wikilink")[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")作為GENERATIONS的隊長。
+  - 2014年上旬，GENERATIONS五位表演者獲邀參加『EXILE PERFORMER BATTLE AUDITION』，並全員進級最終決戰。
+  - 4月23日，第5張單曲《[NEVER LET YOU GO](../Page/NEVER_LET_YOU_GO.md "wikilink")》發行，亦是EXILE TRIBE Perfect Year 2014其中一環《EXILE Presents VOCAL BATTLE AUDITON 4 〜給懷抱夢想的年輕人們〜》第二審查的課題曲。
+  - 4月27日在[日本武道館](../Page/日本武道館.md "wikilink")舉辦的『EXILE PERFORMER BATTLE AUDITION』最終決戰，最終成員[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")和[關口Mandy](../Page/關口Mandy.md "wikilink")，以及[山本世界](https://zh.wikipedia.org/wiki/山本世界 "wikilink")、[第三代J Soul Brothers的](../Page/J_Soul_Brothers.md "wikilink")[岩田剛典](../Page/岩田剛典.md "wikilink")和曾擔任GENERATIONS的[佐藤大樹](../Page/佐藤大樹.md "wikilink")成為[EXILE成員](https://zh.wikipedia.org/wiki/EXILE "wikilink")。
+  - 6月，GENERATIONS連同[EXILE TAKAHIRO](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")、[THE SECOND from EXILE和](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")[第三代J Soul Brothers於](../Page/J_Soul_Brothers.md "wikilink")[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")舉行《EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE “THE SURVIVAL” IN SAITAMA SUPER ARENA 10DAYS》，亦是EXILE TRIBE Perfect Year 2014其中一環。
+  - 7月至8月，GENERATIONS以[EXILE TRIBE其中一員身份發行及宣傳單曲](../Page/EXILE_TRIBE.md "wikilink")《[THE REVOLUTION](https://zh.wikipedia.org/wiki/THE_REVOLUTION "wikilink")》及專輯《[EXILE TRIBE REVOLUTION](https://zh.wikipedia.org/wiki/EXILE_TRIBE_REVOLUTION "wikilink")》
+  - 9月3日，第6張單曲《[Always with you](../Page/Always_with_you.md "wikilink")》發行。
+  - 9月起以[EXILE TRIBE其中一員身份參與巡迴演唱會](../Page/EXILE_TRIBE.md "wikilink")『[TOWER OF WISH 2014 ～THE REVOLUTION～](https://zh.wikipedia.org/wiki/EXILE_TRIBE_PERFECT_YEAR_LIVE_TOUR_TOWER_OF_WISH_2014_～THE_REVOLUTION～ "wikilink")』
+  - 11月29日，於[東京巨蛋](../Page/東京巨蛋.md "wikilink")『TOWER OF WISH 2014 ～THE REVOLUTION～』公演上宣佈於2015年1月發行新單曲，待望的第2張原創專輯《[GENERATIONS EX](../Page/GENERATIONS_EX.md "wikilink")》於2015年2月發行；並於2015年春天舉行組合首次的全國HALL巡迴演唱會及世界巡迴演唱會。
 
 ### 2015年: GENERATIONS EX、世巡
 
   - 1月26日，被香港旅遊發展局任命為「2015年香港觀光親善大使」\[6\]。
   - 1月28日，第7張單曲《[Sing it Loud](../Page/Sing_it_Loud.md "wikilink")》發行。
-  - 4月展開出道以來首次全國HALL巡迴及世界巡迴演唱會「GENERATIONS WORLD TOUR 2015 "GENERATION
-    EX"」，一共30場公演。
-  - 3月30日，GENERATIONS被[富士電視台委任演唱動畫](../Page/富士電視台.md "wikilink")「[ONE
-    PIECE](../Page/ONE_PIECE.md "wikilink")」的新主題曲「[Hard Knock
-    Days](../Page/Hard_Knock_Days.md "wikilink")」。「[Hard Knock
-    Days](../Page/Hard_Knock_Days.md "wikilink")」往後更成為GENERATIONS的第9張單曲，於8月12日發行。
+  - 4月展開出道以來首次全國HALL巡迴及世界巡迴演唱會「GENERATIONS WORLD TOUR 2015 "GENERATION EX"」，一共30場公演。
+  - 3月30日，GENERATIONS被[富士電視台](../Page/富士電視台.md "wikilink")委任演唱動畫「[ONE PIECE](../Page/ONE_PIECE.md "wikilink")」的新主題曲「[Hard Knock Days](../Page/Hard_Knock_Days.md "wikilink")」。「[Hard Knock Days](../Page/Hard_Knock_Days.md "wikilink")」往後更成為GENERATIONS的第9張單曲，於8月12日發行。
   - 5月13日，第8張單曲《[Evergreen](../Page/Evergreen_\(GENERATIONS單曲\).md "wikilink")》發行。
-  - 9月16日，第10張單曲《[ALL FOR
-    YOU](../Page/ALL_FOR_YOU_\(GENERATIONS單曲\).md "wikilink")》發行，並獲得Oricon公信榜每周銷量排名第1名。
-  - 12月4日，於[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")『[AMAZING
-    WORLD](https://zh.wikipedia.org/wiki/EXILE_LIVE_TOUR_2015_"AMAZING_WORLD" "wikilink")』公演上宣佈於2016年春天舉行組合首次的全國ARENA巡迴演唱會。
+  - 9月16日，第10張單曲《[ALL FOR YOU](../Page/ALL_FOR_YOU_\(GENERATIONS單曲\).md "wikilink")》發行，並獲得Oricon公信榜每周銷量排名第1名。
+  - 12月4日，於[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")『[AMAZING WORLD](https://zh.wikipedia.org/wiki/EXILE_LIVE_TOUR_2015_"AMAZING_WORLD" "wikilink")』公演上宣佈於2016年春天舉行組合首次的全國ARENA巡迴演唱會。
 
 ### 2016年: SPEEDSTER
 
@@ -97,19 +52,15 @@ zone，於2011年結成。
 ### 2017年: 世巡、MAD CYCLONE
 
   - 4月12日，第14張單曲《[日月皆同](../Page/日月皆同.md "wikilink")》發行。
-  - 5月展開世界巡迴演唱會「GENERATIONS from EXILE TRIBE WORLD TOUR 2017
-    〜SPEEDSTER〜」，一共6場公演。同年7月展開全國巡迴及世界巡迴演唱會「GENERATIONS LIVE TOUR
-    2017 "MAD CYCLONE"」，一共27場公演。
+  - 5月展開世界巡迴演唱會「GENERATIONS from EXILE TRIBE WORLD TOUR 2017 〜SPEEDSTER〜」，一共6場公演。同年7月展開全國巡迴及世界巡迴演唱會「GENERATIONS LIVE TOUR 2017 "MAD CYCLONE"」，一共27場公演。
   - 7月5日，第4張原創專輯『[沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空](../Page/沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空.md "wikilink")』發行。
-  - 10月25日，第15張單曲《[BIG CITY
-    RODEO](../Page/BIG_CITY_RODEO.md "wikilink")》發行。
+  - 10月25日，第15張單曲《[BIG CITY RODEO](../Page/BIG_CITY_RODEO.md "wikilink")》發行。
 
 ### 2018年: 中巡、UNITED JOURNEY
 
   - 3月展開中國巡迴演唱會「GENERATIONS CHINA TOUR 2018 "MAD CYCLONE"」，一共9場公演。
   - 5月展開巨蛋巡迴演唱會「GENERATIONS LIVE TOUR 2018 "UNITED JOURNEY"」。
-  - 6月13日，第16張單曲《[F.L.Y. BOYS F.L.Y.
-    GIRLS](https://zh.wikipedia.org/wiki/F.L.Y._BOYS_F.L.Y._GIRLS "wikilink")》發行。
+  - 6月13日，第16張單曲《[F.L.Y. BOYS F.L.Y. GIRLS](https://zh.wikipedia.org/wiki/F.L.Y._BOYS_F.L.Y._GIRLS "wikilink")》發行。
   - 10月31日，第17張單曲《[少年](https://zh.wikipedia.org/wiki/少年 "wikilink")》發行。
   - 12月19日，數字單曲《G-ENERGY》發行。
 
@@ -260,15 +211,7 @@ zone，於2011年結成。
 
 2011年7月23日，「夢者修行」正式開始\[7\]\[8\]\[9\]。團隊於日本不同的地方進行全國式巡迴表演，以作為對於一眾成員的「實力、精神力、人間力」之鍛鍊\[10\]。
 
-至於截至[2011年10月為止](../Page/2011年10月.md "wikilink")，GENERATIONS的現場演唱和舞蹈內容，包括[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")(及其前身[J
-Soul Brothers](../Page/J_Soul_Brothers.md "wikilink"))的歌曲「Follow
-Me」及「Fly
-Away」；[EXILE歌曲](https://zh.wikipedia.org/wiki/EXILE "wikilink")「Someday」；[二代目J
-Soul Brothers的](../Page/J_Soul_Brothers.md "wikilink")「GENERATION」；[三代目J
-Soul
-Brothers](../Page/J_Soul_Brothers.md "wikilink")、同時亦為「」3次審查的課題曲「[Best
-Friend's
-Girl](../Page/Best_Friend's_Girl.md "wikilink")」；另包括一首新歌「片想い」。\[11\]\[12\]\[13\]
+至於截至[2011年10月](../Page/2011年10月.md "wikilink")為止，GENERATIONS的現場演唱和舞蹈內容，包括[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")(及其前身[J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink"))的歌曲「Follow Me」及「Fly Away」；[EXILE歌曲](https://zh.wikipedia.org/wiki/EXILE "wikilink")「Someday」；[二代目J Soul Brothers的](../Page/J_Soul_Brothers.md "wikilink")「GENERATION」；[三代目J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")、同時亦為「」3次審查的課題曲「[Best Friend's Girl](../Page/Best_Friend's_Girl.md "wikilink")」；另包括一首新歌「片想い」。\[11\]\[12\]\[13\]
 
 在表演場地範圍裡，成員同時會在表演時間外親自派發組合宣傳單張，還有在表演後與觀眾進行拍手會、發售組合紀念品的工作。\[14\]\[15\]
 
@@ -1000,33 +943,26 @@ Girl](../Page/Best_Friend's_Girl.md "wikilink")」；另包括一首新歌「片
 
 ### 電視節目
 
-  - [週刊EXILE](../Page/週刊EXILE.md "wikilink")（[TBS](../Page/TBS.md "wikilink")、2011年
-    - ）
+  - [週刊EXILE](../Page/週刊EXILE.md "wikilink")（[TBS](../Page/TBS.md "wikilink")、2011年 - ）
   - GENERATIONS高校TV（2017年 - ）
 
 ### 廣播
 
-  - GENERATIONSのGENETALK（[JFN](https://zh.wikipedia.org/wiki/JFN "wikilink")、2013年4月
-    - ）
+  - GENERATIONSのGENETALK（[JFN](https://zh.wikipedia.org/wiki/JFN "wikilink")、2013年4月 - ）
 
 ### 現場演唱會
 
   - EXILE TRIBE LIVE TOUR 2012 〜TOWER OF WISH〜（2012年4月 - 7月）
   - 三代目J Soul Brothers LIVE TOUR 2012「0〜ZERO〜」（2012年9月 - 12月）
   - EXILE LIVE TOUR 2013「EXILE PRIDE」（2013年4月-9月）
-  - EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE “THE SURVIVAL”IN SAITAMA
-    SUPER ARENA 10DAYS（2014年6月）
-  - EXILE TRIBE PERFECT YEAR LIVE TOUR TOWER OF WISH 2014 〜THE
-    REVOLUTION〜（2014年9月-12月）
+  - EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE “THE SURVIVAL”IN SAITAMA SUPER ARENA 10DAYS（2014年6月）
+  - EXILE TRIBE PERFECT YEAR LIVE TOUR TOWER OF WISH 2014 〜THE REVOLUTION〜（2014年9月-12月）
 
 ### PV
 
-  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink") 「[Rising
-    Sun](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")」（2011年）
-  - EXILE
-    「[Bloom](https://zh.wikipedia.org/wiki/:ja:EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE- "wikilink")」（2012年）
-  - EXILE 「[放浪榮耀
-    ～因為如此深愛這世界～](../Page/放浪榮耀_～因為如此深愛這世界～.md "wikilink")」（2013年）
+  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink") 「[Rising Sun](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")」（2011年）
+  - EXILE 「[Bloom](https://zh.wikipedia.org/wiki/:ja:EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE- "wikilink")」（2012年）
+  - EXILE 「[放浪榮耀 ～因為如此深愛這世界～](../Page/放浪榮耀_～因為如此深愛這世界～.md "wikilink")」（2013年）
 
 ## 關聯項目
 
@@ -1045,8 +981,7 @@ Girl](../Page/Best_Friend's_Girl.md "wikilink")」；另包括一首新歌「片
 
   - [GENERATIONS 官方網站](http://generations-ldh.jp/)
 
-  - [GENERATIONS 所屬公司
-    LDH官方中文網站](http://www.ldh.co.jp/chh/artist/musician/generations/)
+  - [GENERATIONS 所屬公司 LDH官方中文網站](http://www.ldh.co.jp/chh/artist/musician/generations/)
 
   - [GENERATIONS 成員畢業的藝能訓練學校 EXPG](http://expg.jp/?ref=logo)
 
@@ -1068,10 +1003,7 @@ Girl](../Page/Best_Friend's_Girl.md "wikilink")」；另包括一首新歌「片
   -
 ## 註解
 
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:Rhythm_zone](https://zh.wikipedia.org/wiki/Category:Rhythm_zone "wikilink")
-[Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink")
-[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:Rhythm_zone](https://zh.wikipedia.org/wiki/Category:Rhythm_zone "wikilink") [Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 2.

@@ -1,6 +1,4 @@
-《**Morning
-Wide**》（），是[日本放送協會自](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")1988年4月4日開始到1993年4月2日期間，所播出的[新聞節目](../Page/新聞節目.md "wikilink")。為《**News
-Wide**》（）與《**第一日本早晨**》（）的節目整合後繼。
+《**Morning Wide**》（），是[日本放送協會自](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")1988年4月4日開始到1993年4月2日期間，所播出的[新聞節目](../Page/新聞節目.md "wikilink")。為《**News Wide**》（）與《**第一日本早晨**》（）的節目整合後繼。
 
 1993年4月5日，《[早安日本](../Page/早安日本.md "wikilink")》開播，取代《Morning Wide》。
 
@@ -69,6 +67,4 @@ Wide**》（）與《**第一日本早晨**》（）的節目整合後繼。
   - [NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")
   - [NHK新聞](../Page/NHK新聞.md "wikilink")
 
-[Category:NHK電視新聞節目](https://zh.wikipedia.org/wiki/Category:NHK電視新聞節目 "wikilink")
-[Category:早间电视节目](https://zh.wikipedia.org/wiki/Category:早间电视节目 "wikilink")
-[Category:1988年日本電視節目](https://zh.wikipedia.org/wiki/Category:1988年日本電視節目 "wikilink")
+[Category:NHK電視新聞節目](https://zh.wikipedia.org/wiki/Category:NHK電視新聞節目 "wikilink") [Category:早间电视节目](https://zh.wikipedia.org/wiki/Category:早间电视节目 "wikilink") [Category:1988年日本電視節目](https://zh.wikipedia.org/wiki/Category:1988年日本電視節目 "wikilink")

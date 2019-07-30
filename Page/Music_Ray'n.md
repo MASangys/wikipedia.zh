@@ -1,5 +1,4 @@
-**Music Ray'n**是[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")（SME
-Japan）旗下一家音樂出版社、藝能事務所，主要從事[聲優和](../Page/聲優.md "wikilink")[藝人中介人業務](https://zh.wikipedia.org/wiki/藝人 "wikilink")。
+**Music Ray'n**是[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")（SME Japan）旗下一家音樂出版社、藝能事務所，主要從事[聲優](../Page/聲優.md "wikilink")和[藝人中介人業務](https://zh.wikipedia.org/wiki/藝人 "wikilink")。
 
 ## 概要
 
@@ -28,12 +27,10 @@ Japan）旗下一家音樂出版社、藝能事務所，主要從事[聲優和](
 ### 藝人
 
   - [sana](https://zh.wikipedia.org/wiki/sana "wikilink") ☆
-  - [Sphere](../Page/Sphere_\(聲優團體\).md "wikilink")（唱片公司為[Lantis的GloryHeaven](../Page/Lantis.md "wikilink")）
+  - [Sphere](../Page/Sphere_\(聲優團體\).md "wikilink")（唱片公司為[Lantis](../Page/Lantis.md "wikilink")的GloryHeaven）
   - [CHiCO](../Page/CHiCO.md "wikilink") ☆
-  - [TrySail](../Page/TrySail.md "wikilink")（唱片公司為[Aniplex](../Page/Aniplex.md "wikilink")→[SACRA
-    MUSIC](../Page/SACRA_MUSIC.md "wikilink")）
-  - [HoneyWorks](../Page/HoneyWorks.md "wikilink")（事務所為[INCS
-    toenter](../Page/INCS_toenter.md "wikilink")） ☆
+  - [TrySail](../Page/TrySail.md "wikilink")（唱片公司為[Aniplex](../Page/Aniplex.md "wikilink")→[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")）
+  - [HoneyWorks](../Page/HoneyWorks.md "wikilink")（事務所為[INCS toenter](../Page/INCS_toenter.md "wikilink")） ☆
 
 ### 前屬藝人
 
@@ -45,15 +42,11 @@ Japan）旗下一家音樂出版社、藝能事務所，主要從事[聲優和](
 
   - ☆
 
-  - [ON/OFF](https://zh.wikipedia.org/wiki/ON/OFF "wikilink")（後轉到[DefSTAR
-    Records](../Page/DefSTAR_Records.md "wikilink")） ☆
+  - [ON/OFF](https://zh.wikipedia.org/wiki/ON/OFF "wikilink")（後轉到[DefSTAR Records](../Page/DefSTAR_Records.md "wikilink")） ☆
 
-  - [An Cafe](../Page/An_Cafe.md "wikilink")（後轉到[Sony Music
-    Artists](../Page/Sony_Music_Artists.md "wikilink")） ☆
+  - [An Cafe](../Page/An_Cafe.md "wikilink")（後轉到[Sony Music Artists](../Page/Sony_Music_Artists.md "wikilink")） ☆
 
-  - （唱片合約已轉移到同集團的[SME
-    Records](../Page/SME_Records.md "wikilink")，但仍維持管理業務。2011年2月暫時活動停止）
-    ☆
+  - （唱片合約已轉移到同集團的[SME Records](../Page/SME_Records.md "wikilink")，但仍維持管理業務。2011年2月暫時活動停止） ☆
 
   -
 ## 註腳
@@ -65,7 +58,6 @@ Japan）旗下一家音樂出版社、藝能事務所，主要從事[聲優和](
   - [Music Ray'n official web site](http://www.musicrayn.com/)
   - [母公司－SME網站中有關此公司的介紹](http://www.sme.co.jp/sme/corporate/mra.html)
 
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink")
+[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink")
 
 1.

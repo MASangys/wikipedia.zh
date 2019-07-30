@@ -1,16 +1,7 @@
 [朱雨辰](../Page/朱雨辰.md "wikilink"){{、w}}[王子文](https://zh.wikipedia.org/wiki/王子文 "wikilink"){{、w}}
 [高露](../Page/高露.md "wikilink"){{、w}}[趙寶剛](https://zh.wikipedia.org/wiki/趙寶剛 "wikilink"){{、w}}[賀剛](../Page/賀剛.md "wikilink"){{、w}}
-[白百何](../Page/白百何.md "wikilink"){{、w}}[任重](https://zh.wikipedia.org/wiki/任重_\(演員\) "wikilink"){{、w}}[吉米](https://zh.wikipedia.org/wiki/吉米_\(造型師\) "wikilink")
-| 配音 = | 旁白 = | 主題曲
-=《喜歡》[丁薇](https://zh.wikipedia.org/wiki/丁薇 "wikilink") |
-插曲 =《迷途》应豪 | 國家 =  | 語言 = [普通话](../Page/普通话.md "wikilink") | 季數 = | 集數 =
-共30集 | 每集列表 = | company = [完美世界影视](../Page/完美世界影视.md "wikilink")
-[金英马影视](../Page/金英马影视.md "wikilink") | 製片人 =
-[劉建立](https://zh.wikipedia.org/wiki/劉建立 "wikilink")、[彭曉林](https://zh.wikipedia.org/wiki/彭曉林 "wikilink")
-| 執行製片 = [井崗](https://zh.wikipedia.org/wiki/井崗 "wikilink") | 拍攝地 =  | 攝像
-= | 每集長 = 約45分鐘 | 頻道 = | 電視網 = 上海艺术人文频道 | 視頻制式 = | 音頻制式 = | 播出國家 =  | 開始
-= 2011年3月11日 | 結束 = | 先於 = | 後於 = | 相關劇集 = | 官方網站 = | imdb_id = |
-tv_com_id = }}
+[白百何](../Page/白百何.md "wikilink"){{、w}}[任重](https://zh.wikipedia.org/wiki/任重_\(演員\) "wikilink"){{、w}}[吉米](https://zh.wikipedia.org/wiki/吉米_\(造型師\) "wikilink") | 配音 = | 旁白 = | 主題曲 =《喜歡》[丁薇](https://zh.wikipedia.org/wiki/丁薇 "wikilink") | 插曲 =《迷途》应豪 | 國家 =  | 語言 = [普通话](../Page/普通话.md "wikilink") | 季數 = | 集數 = 共30集 | 每集列表 = | company = [完美世界影视](../Page/完美世界影视.md "wikilink")
+[金英马影视](../Page/金英马影视.md "wikilink") | 製片人 = [劉建立](https://zh.wikipedia.org/wiki/劉建立 "wikilink")、[彭曉林](https://zh.wikipedia.org/wiki/彭曉林 "wikilink") | 執行製片 = [井崗](https://zh.wikipedia.org/wiki/井崗 "wikilink") | 拍攝地 =  | 攝像 = | 每集長 = 約45分鐘 | 頻道 = | 電視網 = 上海艺术人文频道 | 視頻制式 = | 音頻制式 = | 播出國家 =  | 開始 = 2011年3月11日 | 結束 = | 先於 = | 後於 = | 相關劇集 = | 官方網站 = | imdb_id = | tv_com_id = }}
 
 《**家，N次方**》，又名《**家的N次方**》，是2011年中国電視劇。該劇講述了一個經過數次重組的家庭裡發生的矛盾與故事。2011年3月11日上海艺术人文频道首播，5月27日江苏卫视上星。
 
@@ -449,6 +440,4 @@ tv_com_id = }}
 
 ## 作品的變遷
 
-[Category:2011年中国电视剧集](https://zh.wikipedia.org/wiki/Category:2011年中国电视剧集 "wikilink")
-[Category:中視外購電視劇](https://zh.wikipedia.org/wiki/Category:中視外購電視劇 "wikilink")
-[Category:香港電視網絡外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視網絡外購劇集 "wikilink")
+[Category:2011年中国电视剧集](https://zh.wikipedia.org/wiki/Category:2011年中国电视剧集 "wikilink") [Category:中視外購電視劇](https://zh.wikipedia.org/wiki/Category:中視外購電視劇 "wikilink") [Category:香港電視網絡外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視網絡外購劇集 "wikilink")

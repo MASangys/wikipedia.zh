@@ -1,23 +1,17 @@
-**Gimme
-5**是一個[香港電台第二台的青少年節目](../Page/香港電台第二台.md "wikilink")，播放時間在星期一至五黄昏5時至7時。**Gimme
-5**於2007年11月12日首播，首播前並沒有任何宣傳，節目主持人[梁德輝只於節目推出前數天才收到公司指示](../Page/梁德輝.md "wikilink")，以臨時性質接替[梁奕倫及](https://zh.wikipedia.org/wiki/梁奕倫 "wikilink")[曾淑儀的](https://zh.wikipedia.org/wiki/曾淑儀 "wikilink")《[萬王之王](https://zh.wikipedia.org/wiki/萬王之王 "wikilink")》，但最後成為長期節目。\[1\]
+**Gimme 5**是一個[香港電台第二台](../Page/香港電台第二台.md "wikilink")的青少年節目，播放時間在星期一至五黄昏5時至7時。**Gimme 5**於2007年11月12日首播，首播前並沒有任何宣傳，節目主持人[梁德輝](../Page/梁德輝.md "wikilink")只於節目推出前數天才收到公司指示，以臨時性質接替[梁奕倫及](https://zh.wikipedia.org/wiki/梁奕倫 "wikilink")[曾淑儀的](https://zh.wikipedia.org/wiki/曾淑儀 "wikilink")《[萬王之王](https://zh.wikipedia.org/wiki/萬王之王 "wikilink")》，但最後成為長期節目。\[1\]
 
 ## 主持
 
-**Gimme
-5**現由[黃天頤](https://zh.wikipedia.org/wiki/黃天頤 "wikilink")（天頤）、[波盛和](https://zh.wikipedia.org/wiki/波盛 "wikilink")[方梓豪主持](https://zh.wikipedia.org/wiki/方梓豪 "wikilink")，而首播時只有[Eric](../Page/梁德輝.md "wikilink")、
-天頤和[的神](https://zh.wikipedia.org/wiki/的神 "wikilink")。
+**Gimme 5**現由[黃天頤](https://zh.wikipedia.org/wiki/黃天頤 "wikilink")（天頤）、[波盛和](https://zh.wikipedia.org/wiki/波盛 "wikilink")[方梓豪主持](https://zh.wikipedia.org/wiki/方梓豪 "wikilink")，而首播時只有[Eric](../Page/梁德輝.md "wikilink")、 天頤和[的神](https://zh.wikipedia.org/wiki/的神 "wikilink")。
 
 ## 流程
 
 這是現時節目的大致流程：
 節目開始時或每節新聞報道後以其中一位主持人的五個特質作開首︰(已取消播放本開首)
 
-\* 5個Eric擁有嘅特質(天頤宣讀, Eric
-回應)︰眼細(性感)、眉粗(有殺氣)、多疑(即係細心)、黑得黎唔實(住家Feel)、無野搵嘢嚟搞(勁富創意)。
+\* 5個Eric擁有嘅特質(天頤宣讀, Eric 回應)︰眼細(性感)、眉粗(有殺氣)、多疑(即係細心)、黑得黎唔實(住家Feel)、無野搵嘢嚟搞(勁富創意)。
 \* 黃天頤嘅五個特質(Eric 宣讀,天頤回應)︰平(唔係呀)、瘦(吓)、矮(算咩)、扁(真係喎)、懵(懵咩)。
-\* Tiksan嘅五個特質(Tiksan 宣讀, Eric
-回應)︰厚-做人忠厚(唔係，你厚面皮啫)、短-短小精悍(唔係，你手短腳短啫)、慢-慢工出細貨(做嘢慢就有你份)、爛-笑容燦爛(Gag你就夠爛)、Kai-真心Kai(我都覺得你真心Kai，我認同\!)。(因Tiksan離職已取消播放本開首)
+\* Tiksan嘅五個特質(Tiksan 宣讀, Eric 回應)︰厚-做人忠厚(唔係，你厚面皮啫)、短-短小精悍(唔係，你手短腳短啫)、慢-慢工出細貨(做嘢慢就有你份)、爛-笑容燦爛(Gag你就夠爛)、Kai-真心Kai(我都覺得你真心Kai，我認同\!)。(因Tiksan離職已取消播放本開首)
 \* 天頤:五樣黃昏想做嘅嘢︰收工、食飯、行街、睇戲、返屋企，我係黃天頤。(已取消播放本開首)
 
 黄昏5時至5時半：主持人閒談
@@ -53,10 +47,8 @@
 
 ## 外部連結
 
-  - [香港電台 Gimme 5
-    節目網頁](http://programme.rthk.hk/channel/radio/programme.php?p=3973)
+  - [香港電台 Gimme 5 節目網頁](http://programme.rthk.hk/channel/radio/programme.php?p=3973)
 
 [Category:香港電台廣播節目](https://zh.wikipedia.org/wiki/Category:香港電台廣播節目 "wikilink")
 
-1.  [DJ犯法判做義工　拍檔爆負面內幕
-    港台腰斬梁奕倫皇牌節目](http://news.hkheadline.com/dailynews/headline_news_detail_columnist.asp?id=37967&section_name=wtt&kw=8)
+1.  [DJ犯法判做義工　拍檔爆負面內幕 港台腰斬梁奕倫皇牌節目](http://news.hkheadline.com/dailynews/headline_news_detail_columnist.asp?id=37967&section_name=wtt&kw=8)

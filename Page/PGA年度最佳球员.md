@@ -1,9 +1,4 @@
-**PGA年度最佳球员（PGA Player of the
-Year）**创始于1948年，由美国职业高尔夫球协会颁发。从1982年起，组织者通过统计比赛成绩、积分等数据选出最佳球员。另一个为**[PGA巡回赛年度最佳球员](https://zh.wikipedia.org/wiki/PGA巡回赛年度最佳球员 "wikilink")（PGA
-Tour Player of the
-Year）**，又被称为**[杰克·尼克劳斯奖杯](https://zh.wikipedia.org/wiki/杰克·尼克劳斯 "wikilink")**，是由PGA巡回赛组织于1990年设立的奖项。该奖项的得主由全体参赛球员投票选举产生，但最后组织者仅公布得票最高者的名字。正如下表所示，1992年至2008年期间，每年的两项大奖都被同一个选手获得。1990年，**年度最佳新人奖（Rookie
-of the
-Year）**也同时被设立，用于奖励首次参加PGA巡回赛的球员。事实上，许多选手在获得新人奖之前，已经在其他巡回赛或国际赛事上取得了辉煌的成绩，其中一些也已年过三十。
+**PGA年度最佳球员（PGA Player of the Year）**创始于1948年，由美国职业高尔夫球协会颁发。从1982年起，组织者通过统计比赛成绩、积分等数据选出最佳球员。另一个为**[PGA巡回赛年度最佳球员](https://zh.wikipedia.org/wiki/PGA巡回赛年度最佳球员 "wikilink")（PGA Tour Player of the Year）**，又被称为**[杰克·尼克劳斯奖杯](https://zh.wikipedia.org/wiki/杰克·尼克劳斯 "wikilink")**，是由PGA巡回赛组织于1990年设立的奖项。该奖项的得主由全体参赛球员投票选举产生，但最后组织者仅公布得票最高者的名字。正如下表所示，1992年至2008年期间，每年的两项大奖都被同一个选手获得。1990年，**年度最佳新人奖（Rookie of the Year）**也同时被设立，用于奖励首次参加PGA巡回赛的球员。事实上，许多选手在获得新人奖之前，已经在其他巡回赛或国际赛事上取得了辉煌的成绩，其中一些也已年过三十。
 
 <table>
 <thead>
@@ -280,5 +275,4 @@ Year）**也同时被设立，用于奖励首次参加PGA巡回赛的球员。�
 </tbody>
 </table>
 
-[Category:体育奖项](https://zh.wikipedia.org/wiki/Category:体育奖项 "wikilink")
-[Category:高尔夫球](https://zh.wikipedia.org/wiki/Category:高尔夫球 "wikilink")
+[Category:体育奖项](https://zh.wikipedia.org/wiki/Category:体育奖项 "wikilink") [Category:高尔夫球](https://zh.wikipedia.org/wiki/Category:高尔夫球 "wikilink")

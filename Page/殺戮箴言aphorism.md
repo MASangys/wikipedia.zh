@@ -1,10 +1,8 @@
-是[日本漫画家](../Page/日本.md "wikilink")[宮條可留奈的漫画作品](../Page/宮條可留奈.md "wikilink")。
+是[日本](../Page/日本.md "wikilink")漫画家[宮條可留奈](../Page/宮條可留奈.md "wikilink")的漫画作品。
 
 ## 简介
 
-于[史克威尔艾尼克斯出版的](../Page/史克威尔艾尼克斯.md "wikilink")《[月刊GANGAN
-WING](../Page/月刊GANGAN_WING.md "wikilink")》2008年8月号开始连载，该杂志休刊后，于2009年4月开始在网络漫画发布网站《[GANGAN
-ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上继续连载。
+于[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")出版的《[月刊GANGAN WING](../Page/月刊GANGAN_WING.md "wikilink")》2008年8月号开始连载，该杂志休刊后，于2009年4月开始在网络漫画发布网站《[GANGAN ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上继续连载。
 
 一心想过快乐的高中生活的主角**六道黄叶**所入读的楢鹿高级中学，会让学生使用自身持有的**文字**接受名为「**神蚀**」的考验。战斗中充满着过激的描写，殘酷中帶有一絲幽默。书名中的「aphorism」意为「[格言](https://zh.wikipedia.org/wiki/格言 "wikilink")」，每话的标题皆以「始」「黑」等单一汉字表示。
 
@@ -29,8 +27,7 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上继续连载。
 
   - 　「刀」
     本作的女主角。跟黄叶在开学那天认识。老家是「比良坂一刀流」的剑术世家，从5岁开始就进行刀剑的修行。完全没有察觉到黄叶对自己的好感，不过反倒被另一个黄叶所吸引。
-    文字是右手手腕（手背方向）的「刀」。能力是出现刀子。出现的刀的刀柄部分异常地长，形状跟[薙刀相近](https://zh.wikipedia.org/wiki/薙刀 "wikilink")。自小就修炼剑术，在出现武器的能力者当中技术上是优胜了，然而比良坂一刀流是重视「心·技·体」中「心」的流派，精神上弱得多的她，经常都无法发挥出实力来。
-    反之，若是状态良好的话，甚至能战胜比她厉害的对手。
+    文字是右手手腕（手背方向）的「刀」。能力是出现刀子。出现的刀的刀柄部分异常地长，形状跟[薙刀相近](https://zh.wikipedia.org/wiki/薙刀 "wikilink")。自小就修炼剑术，在出现武器的能力者当中技术上是优胜了，然而比良坂一刀流是重视「心·技·体」中「心」的流派，精神上弱得多的她，经常都无法发挥出实力来。 反之，若是状态良好的话，甚至能战胜比她厉害的对手。
 
 <!-- end list -->
 
@@ -250,7 +247,7 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上继续连载。
     蚀有着各自的「文字」，该文字所产生的现象各不相同。当中有无害而古怪的，不过大多会出现杀死学生的凶恶敌人。
   - 「文字」
     为了在楢鹿生存下来，跟神蚀战斗时所用的武器。
-    在楢鹿的开学典礼过后的班会时间，导师会发给每个学生一张纸，让他们在上面写上一个[汉字并读出来](../Page/汉字.md "wikilink")，纸就会裂开，学生身上会出现该字的刺青。
+    在楢鹿的开学典礼过后的班会时间，导师会发给每个学生一张纸，让他们在上面写上一个[汉字](../Page/汉字.md "wikilink")并读出来，纸就会裂开，学生身上会出现该字的刺青。
     对文字作出想象，就会出现其对应的现象（例如「刀」会出现刀，「炎」就会用火炎作出攻击）。
     原则上是一人一文字。文字有着相应的体系，也有其界限和对策。
 
@@ -261,7 +258,7 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上继续连载。
   - 龍
     隔离型的蚀，当学生数为3的倍数时，就会让他们以三人一组的形式传送到别的空间。本体的龙在空间中与作为出口的门融为一体，对前来的人予考验。考验是用「技」或「力」来夺取龙体内的钥匙。有时间限制，当浮空的计时器上出现四个零时，考验即以失败告终。另外龙会告诉其中一人虚假的情报来迷惑他。考验中龙还会腐败成黑色。这条龙并不会给予考验，而是会惩罚舍弃人道的罪人。出口的门在考验完结时会出现「合」的印记，而进行考验时时白色的。变成黑色的话，表示里面的人输给了龙，或者其他原因而无法出来。从来没人能从这些「封闭之门」中出来，不过黄叶是第一个人。
   - 宴
-    今年首次出现的蚀。会出现類似[醉八仙和](https://zh.wikipedia.org/wiki/醉八仙 "wikilink")[七福神中神仙樣貌的巨人](../Page/七福神.md "wikilink")，一直在喝酒談笑。不時还会叫学生来倒酒，对听话的学生用友善的态度来对待，而对妨碍宴会的人，就会全體脸色一变，用念力一般的力量破坏其头部。
+    今年首次出现的蚀。会出现類似[醉八仙和](https://zh.wikipedia.org/wiki/醉八仙 "wikilink")[七福神](../Page/七福神.md "wikilink")中神仙樣貌的巨人，一直在喝酒談笑。不時还会叫学生来倒酒，对听话的学生用友善的态度来对待，而对妨碍宴会的人，就会全體脸色一变，用念力一般的力量破坏其头部。
   - 水
     「特殊文字」之一。当天没有受到致命伤被打败的话，隔天還会再次出现，并且隨著天數增加而增強力量。除非是用水的相克元素，比如「火」、「烧」、「燃」之类来攻击，否则是无法造成致命伤的。
   - 夢
@@ -401,11 +398,6 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上继续连载。
 
 ## 外部链接
 
-  - [アホリズム - 漫画 - ガンガンONLINE -SQUARE
-    ENIX-](http://www.square-enix.com/jp/magazine/ganganonline/comic/aphorism/index.html)
+  - [アホリズム - 漫画 - ガンガンONLINE -SQUARE ENIX-](http://www.square-enix.com/jp/magazine/ganganonline/comic/aphorism/index.html)
 
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:GANGAN_ONLINE](https://zh.wikipedia.org/wiki/Category:GANGAN_ONLINE "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:月刊GANGAN_WING](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_WING "wikilink")
+[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:GANGAN_ONLINE](https://zh.wikipedia.org/wiki/Category:GANGAN_ONLINE "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:月刊GANGAN_WING](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_WING "wikilink")

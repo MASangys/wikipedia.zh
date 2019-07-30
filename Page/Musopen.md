@@ -1,5 +1,4 @@
-****是设在美国加州塔扎纳的[501(c)(3)非盈利机构](https://zh.wikipedia.org/wiki/501\(c\)\(3\) "wikilink")，由Aaron
-Dunn于2005年发起，目标是以无版权的形式向公众免费提供音乐。
+****是设在美国加州塔扎纳的[501(c)(3)非盈利机构](https://zh.wikipedia.org/wiki/501\(c\)\(3\) "wikilink")，由Aaron Dunn于2005年发起，目标是以无版权的形式向公众免费提供音乐。
 
 ## 目标和行动
 
@@ -7,9 +6,9 @@ Musopen是一個以[公有領域提供音樂作品的網上資料庫](https://zh
 
 2008年，Musopen重新錄製32首[貝多芬的鋼琴奏鳴曲](https://zh.wikipedia.org/wiki/貝多芬 "wikilink")，並放到公有領域上。\[3\]
 
-2010年，Musopen從[Kickstarter募集到](../Page/Kickstarter.md "wikilink")68,360美元雇用一支管弦樂隊來演奏古典音樂，\[4\]\[5\]，這項工作在2012年7月完成\[6\]\[7\]，隨後錄製的音樂還被上傳到[互联网档案馆](../Page/互联网档案馆.md "wikilink")。這些音樂的列表在2012年8月完成。\[8\]
+2010年，Musopen從[Kickstarter](../Page/Kickstarter.md "wikilink")募集到68,360美元雇用一支管弦樂隊來演奏古典音樂，\[4\]\[5\]，這項工作在2012年7月完成\[6\]\[7\]，隨後錄製的音樂還被上傳到[互联网档案馆](../Page/互联网档案馆.md "wikilink")。這些音樂的列表在2012年8月完成。\[8\]
 
-2013年9月，Musopen在Kickstarter发起新的募捐活动来录制[弗雷德里克·肖邦完成的作品](../Page/弗雷德里克·肖邦.md "wikilink")。募捐活动取得了成功，所获的资金比目标的75,000美元多出了15,000美元。\[9\]
+2013年9月，Musopen在Kickstarter发起新的募捐活动来录制[弗雷德里克·肖邦](../Page/弗雷德里克·肖邦.md "wikilink")完成的作品。募捐活动取得了成功，所获的资金比目标的75,000美元多出了15,000美元。\[9\]
 
 ## 在线音乐库
 
@@ -24,25 +23,16 @@ Musopen网站采用类似于商业内容提供者的经营模式，即一部分�
 ## 外部連結
 
   - \[//www.musopen.org Musopen\]
-  - Musopen託管在互联网档案馆的音樂檔案：\[//archive.org/details/musopen-dvd
-    MP3格式\]和\[//archive.org/details/musopen
-    多音轨高保真WAV格式\]（不適用於最終用戶）
+  - Musopen託管在互联网档案馆的音樂檔案：\[//archive.org/details/musopen-dvd MP3格式\]和\[//archive.org/details/musopen 多音轨高保真WAV格式\]（不適用於最終用戶）
 
-[Category:音樂網站](https://zh.wikipedia.org/wiki/Category:音樂網站 "wikilink")
-[Category:公有领域音乐数据库](https://zh.wikipedia.org/wiki/Category:公有领域音乐数据库 "wikilink")
-[Category:Kickstarter計劃](https://zh.wikipedia.org/wiki/Category:Kickstarter計劃 "wikilink")
+[Category:音樂網站](https://zh.wikipedia.org/wiki/Category:音樂網站 "wikilink") [Category:公有领域音乐数据库](https://zh.wikipedia.org/wiki/Category:公有领域音乐数据库 "wikilink") [Category:Kickstarter計劃](https://zh.wikipedia.org/wiki/Category:Kickstarter計劃 "wikilink")
 
-1.  [Raising Money To Put Famous Classical Music Recordings Into The
-    Public
-    Domain](http://www.techdirt.com/articles/20100826/00301310779.shtml)
-2.  [Musopen raises cash to open-source classical
-    recordings](http://www.wired.co.uk/news/archive/2010-08/26/musopen-public-domain)
-
+1.  [Raising Money To Put Famous Classical Music Recordings Into The Public Domain](http://www.techdirt.com/articles/20100826/00301310779.shtml)
+2.  [Musopen raises cash to open-source classical recordings](http://www.wired.co.uk/news/archive/2010-08/26/musopen-public-domain)
 3.
 4.  [Musopen在Kickstarter募集的頁面](http://www.kickstarter.com/projects/Musopen/record-and-release-free-music-without-copyrights)
 5.  [Solidot的介紹](http://internet.solidot.org/article.pl?sid=12/08/17/1057207)
-6.  [Aaron
-    Dunn在Twitter上的留言](https://twitter.com/Musopen/status/235757751790366721)
+6.  [Aaron Dunn在Twitter上的留言](https://twitter.com/Musopen/status/235757751790366721)
 7.
 8.
 9.

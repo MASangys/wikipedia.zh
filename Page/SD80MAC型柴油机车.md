@@ -6,6 +6,4 @@ SD80MAC型机车装用一台5000马力的20气缸二冲程柴油机，采用了�
 
   - [Conrail Cadillacs: The SD80MAC](http://sd80mac.com/)
 
-[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink")
-[Category:Co-Co轴式机车](https://zh.wikipedia.org/wiki/Category:Co-Co轴式机车 "wikilink")
-[Category:EMD制铁路机车](https://zh.wikipedia.org/wiki/Category:EMD制铁路机车 "wikilink")
+[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink") [Category:Co-Co轴式机车](https://zh.wikipedia.org/wiki/Category:Co-Co轴式机车 "wikilink") [Category:EMD制铁路机车](https://zh.wikipedia.org/wiki/Category:EMD制铁路机车 "wikilink")

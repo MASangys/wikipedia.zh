@@ -1,5 +1,4 @@
-[HK_Sai_Ying_Pun_Dr_Sun_Yat-sen_Memorial_Park_night_Band_RedNoon_on_stage_Dec-2012.JPG](https://zh.wikipedia.org/wiki/File:HK_Sai_Ying_Pun_Dr_Sun_Yat-sen_Memorial_Park_night_Band_RedNoon_on_stage_Dec-2012.JPG "fig:HK_Sai_Ying_Pun_Dr_Sun_Yat-sen_Memorial_Park_night_Band_RedNoon_on_stage_Dec-2012.JPG")
-**RedNoon**是[香港一支四人樂團](../Page/香港.md "wikilink")，成立於2000年，由主音兼結他手馬仔、主音結他手阿康、低音結他手阿豐及鼓手阿偉組成。
+[HK_Sai_Ying_Pun_Dr_Sun_Yat-sen_Memorial_Park_night_Band_RedNoon_on_stage_Dec-2012.JPG](https://zh.wikipedia.org/wiki/File:HK_Sai_Ying_Pun_Dr_Sun_Yat-sen_Memorial_Park_night_Band_RedNoon_on_stage_Dec-2012.JPG "fig:HK_Sai_Ying_Pun_Dr_Sun_Yat-sen_Memorial_Park_night_Band_RedNoon_on_stage_Dec-2012.JPG") **RedNoon**是[香港](../Page/香港.md "wikilink")一支四人樂團，成立於2000年，由主音兼結他手馬仔、主音結他手阿康、低音結他手阿豐及鼓手阿偉組成。
 
 2013年3月25日，紅星娛樂宣布陳永康、姚榮豐及陳仲偉違約退團，另組樂團[After10](../Page/After10.md "wikilink")，樂團亦終告解散。
 
@@ -9,8 +8,7 @@
 
 ## 簡介
 
-2002年於台灣參與由港、台、中、日、法、美等國家之樂隊合作推出Summer
-High合輯。2007年歌曲《死蠢》派台。同年榮任日本明治雪糕品牌香港區代言人。
+2002年於台灣參與由港、台、中、日、法、美等國家之樂隊合作推出Summer High合輯。2007年歌曲《死蠢》派台。同年榮任日本明治雪糕品牌香港區代言人。
 
 ## 專輯
 
@@ -106,8 +104,7 @@ High合輯。2007年歌曲《死蠢》派台。同年榮任日本明治雪糕品
 
   - [Rednoon官方網頁](https://web.archive.org/web/20110608010052/http://www.rednoon.hk/)
 
-  - [Rednoon official Facebook Fan
-    Page](http://www.facebook.com/#!/group.php?gid=17599629891)
+  - [Rednoon official Facebook Fan Page](http://www.facebook.com/#!/group.php?gid=17599629891)
 
   - [Youtube Channel](http://youtube.com/rednoonhk)
 
@@ -116,15 +113,12 @@ High合輯。2007年歌曲《死蠢》派台。同年榮任日本明治雪糕品
   - [Yahoo Blog](http://hk.myblog.yahoo.com/rednoonhk)
 
   -
-  - [港台頒「十優」星光暗淡
-    樂隊Rednoon「劈炮」拒唱](http://paper.wenweipo.com/2011/01/02/EN1101020003.htm)
+  - [港台頒「十優」星光暗淡 樂隊Rednoon「劈炮」拒唱](http://paper.wenweipo.com/2011/01/02/EN1101020003.htm)
 
-  - [Kawaii買車捧新組合
-    Rednoon](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20050610&sec_id=462&art_id=4957537)
+  - [Kawaii買車捧新組合 Rednoon](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20050610&sec_id=462&art_id=4957537)
 
   - [《組BAND起義》-EP003-RedNoon](http://www.sourcewadio.com/program_detail.php?cid=31&rid=625)
 
-  - [After10重新出發拾回音樂初衷](http://www.881903.com/Page/ZH-TW/newsdetail.aspx?ItemId=785847&csid=801_3401)881903.com.
-    2015-03-17
+  - [After10重新出發拾回音樂初衷](http://www.881903.com/Page/ZH-TW/newsdetail.aspx?ItemId=785847&csid=801_3401)881903.com. 2015-03-17
 
 [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")

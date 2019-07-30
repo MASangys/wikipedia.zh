@@ -1,6 +1,4 @@
-《**Something
-Special**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[甄楚倩的第十一張大碟](../Page/甄楚倩.md "wikilink")，第八張粵語專輯，在1992年10月推出。專輯除了《不羈的男人》由她創作曲詞以外，所有歌曲都是改編自西洋或日本歌曲，而大碟的第一主打歌是《你真的可以忘記我嗎？》，第二主打歌則是《Love
-Me Tonight》，第三主打《唯有在晚上才能La La La La Li》。
+《**Something Special**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[甄楚倩](../Page/甄楚倩.md "wikilink")的第十一張大碟，第八張粵語專輯，在1992年10月推出。專輯除了《不羈的男人》由她創作曲詞以外，所有歌曲都是改編自西洋或日本歌曲，而大碟的第一主打歌是《你真的可以忘記我嗎？》，第二主打歌則是《Love Me Tonight》，第三主打《唯有在晚上才能La La La La Li》。
 
 ## 曲目
 
@@ -120,7 +118,4 @@ Patrick Delay</p></td>
   - CD版
   - 錄音帶版
 
-[Category:甄楚倩音樂專輯](https://zh.wikipedia.org/wiki/Category:甄楚倩音樂專輯 "wikilink")
-[Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink")
+[Category:甄楚倩音樂專輯](https://zh.wikipedia.org/wiki/Category:甄楚倩音樂專輯 "wikilink") [Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink")

@@ -1,5 +1,4 @@
-以下是[日本人氣](../Page/日本.md "wikilink")[動漫](../Page/動漫.md "wikilink")《[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")》的集数介紹及各季列表，由東京電視台負責播放
-; 此外，所有與原作劇情相符的內容，將以●為記號。
+以下是[日本](../Page/日本.md "wikilink")人氣[動漫](../Page/動漫.md "wikilink")《[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")》的集数介紹及各季列表，由東京電視台負責播放 ; 此外，所有與原作劇情相符的內容，將以●為記號。
 
 ## 第一季
 
@@ -3635,7 +3634,7 @@
 <tr class="odd">
 <td><p><strong>157</strong></p></td>
 <td><p><strong>Pururu 交給看護長照料吧！ 是也</strong></p></td>
-<td><p><a href="../Page/TBS.md" title="wikilink">TBS長壽節目</a><br />
+<td><p><a href="../Page/TBS.md" title="wikilink">TBS</a>長壽節目<br />
 《アッコにおまかせ!》</p></td>
 <td><p>北嶋博明</p></td>
 <td><p>誌村宏明</p></td>
@@ -5451,7 +5450,7 @@ STMATS</p></td>
 <tr class="odd">
 <td><p><strong>205</strong></p></td>
 <td><p><strong>Keroro和冬樹 另一個世界 是也</strong></p></td>
-<td><p><a href="../Page/森口博子.md" title="wikilink">森口博子的樂曲</a><br />
+<td><p><a href="../Page/森口博子.md" title="wikilink">森口博子</a>的樂曲<br />
 『もうひとつの未来～starry spirits～』</p></td>
 <td></td>
 <td></td>
@@ -9952,5 +9951,4 @@ I Feel Space</p></td>
 
   - [Keroro軍曹りいたします。](http://www.sunrise-inc.co.jp/keroro/)
 
-[Category:keroro軍曹](https://zh.wikipedia.org/wiki/Category:keroro軍曹 "wikilink")
-[Category:日本動畫集數列表](https://zh.wikipedia.org/wiki/Category:日本動畫集數列表 "wikilink")
+[Category:keroro軍曹](https://zh.wikipedia.org/wiki/Category:keroro軍曹 "wikilink") [Category:日本動畫集數列表](https://zh.wikipedia.org/wiki/Category:日本動畫集數列表 "wikilink")

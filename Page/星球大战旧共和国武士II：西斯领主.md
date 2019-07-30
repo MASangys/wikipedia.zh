@@ -6,8 +6,7 @@
 
 《星球大战旧共和国武士II：西斯领主》（以下简称《西斯领主》）同[Bioware於](https://zh.wikipedia.org/wiki/Bioware "wikilink")2003年开发并被[GameSpy](../Page/GameSpy.md "wikilink")等评为年度最佳游戏的《星球大战：旧共和国武士》属于同一系列。更换开发小组的原因来自Bioware，他们由于忙于开发《[翡翠帝国](../Page/翡翠帝国.md "wikilink")》并集中精力在[知识产权](../Page/知识产权.md "wikilink")问题上而无暇顾及其他\[1\]，并出于对黑曜石小组人员过去工作的熟悉而推荐他们来完成这项工作\[2\]。《西斯领主》的开发起始日和《星球大战：旧共和国武士》的Xbox版发售日为同一天\[3\]。
 
-黑曜石从Bioware那里取得了前作采用并作出了一定升级的[奥德赛引擎](https://zh.wikipedia.org/wiki/奥德赛引擎 "wikilink")\[4\]，因而《西斯领主》沿用了相同的游戏引擎。而Bioware的技术人员也向黑曜石的开发者提供了一定技术支持\[5\]，本作新开发的技术包括一些新的战斗动作以及界面缩放\[6\]
-。
+黑曜石从Bioware那里取得了前作采用并作出了一定升级的[奥德赛引擎](https://zh.wikipedia.org/wiki/奥德赛引擎 "wikilink")\[4\]，因而《西斯领主》沿用了相同的游戏引擎。而Bioware的技术人员也向黑曜石的开发者提供了一定技术支持\[5\]，本作新开发的技术包括一些新的战斗动作以及界面缩放\[6\] 。
 
 游戏的主设计师[克里斯·阿瓦隆在游戏发行后接受采访时表示](https://zh.wikipedia.org/wiki/克里斯·阿瓦隆 "wikilink")，他希望“能有更多的时间”来制作这一游戏，制作时间的不充足导致了游戏大量剧情被删节，这包括一个机器人工厂、一颗行星的全部剧情，以及草草收场的结局等\[7\]。
 
@@ -15,8 +14,7 @@
 
 ## 剧情
 
-《西斯领主》的剧情设定在[雅汶战役近四千年前的](../Page/雅汶四号卫星.md "wikilink")[旧共和国时代](https://zh.wikipedia.org/wiki/银河共和国 "wikilink")，前作《星球大战：旧共和国武士》发生的五年后\[8\]。此时的旧共和国风雨飘摇，[绝地武士几乎已被](https://zh.wikipedia.org/wiki/绝地武士 "wikilink")[西斯残杀殆尽](https://zh.wikipedia.org/wiki/西斯 "wikilink")。玩家操作的角色是一名被绝地组织驱逐流放的前绝地武士，在游戏中经常被称作“流亡者”，但正典中姓名為[咪拉·蘇瑞克](../Page/咪拉·蘇瑞克.md "wikilink")（Meetra
-Surik）\[9\]。在游戏中，蘇瑞克逐渐找回了与[原力](../Page/原力.md "wikilink")的联系，并在其他[非玩家角色](../Page/非玩家角色.md "wikilink")的帮助下与西斯进行战斗。玩家可以在游戏过程中作出选择，使蘇瑞克的立场趋向原力的光明面或堕入原力的黑暗面，通过在六个不同的星球间的航行，帮助或阻挠共和国为实现和平和秩序所进行的努力。
+《西斯领主》的剧情设定在[雅汶战役近四千年前的](../Page/雅汶四号卫星.md "wikilink")[旧共和国时代](https://zh.wikipedia.org/wiki/银河共和国 "wikilink")，前作《星球大战：旧共和国武士》发生的五年后\[8\]。此时的旧共和国风雨飘摇，[绝地武士几乎已被](https://zh.wikipedia.org/wiki/绝地武士 "wikilink")[西斯残杀殆尽](https://zh.wikipedia.org/wiki/西斯 "wikilink")。玩家操作的角色是一名被绝地组织驱逐流放的前绝地武士，在游戏中经常被称作“流亡者”，但正典中姓名為[咪拉·蘇瑞克](../Page/咪拉·蘇瑞克.md "wikilink")（Meetra Surik）\[9\]。在游戏中，蘇瑞克逐渐找回了与[原力](../Page/原力.md "wikilink")的联系，并在其他[非玩家角色](../Page/非玩家角色.md "wikilink")的帮助下与西斯进行战斗。玩家可以在游戏过程中作出选择，使蘇瑞克的立场趋向原力的光明面或堕入原力的黑暗面，通过在六个不同的星球间的航行，帮助或阻挠共和国为实现和平和秩序所进行的努力。
 
 ### 游戏角色
 
@@ -25,8 +23,7 @@ Surik）\[9\]。在游戏中，蘇瑞克逐渐找回了与[原力](../Page/原�
 <!-- end list -->
 
   -
-    玩家角色，姓名可自定，但正典姓名為咪拉·蘇瑞克（Meetra
-    Surik）\[10\]。根据[星球大战世界观的官方设定](https://zh.wikipedia.org/wiki/星球大战 "wikilink")\[11\]\[12\]，蘇瑞克是一名女性，不过在游戏开端玩家可以自由选择蘇瑞克的姓名、性别以及绝地职业属性。蘇瑞克曾追随绝地武士瑞文参加了共和国对抗曼德罗林人侵略的曼德罗林战争，并在玛拉卓五号星的最终决战中下令启动了一台极具摧毁性的武器，使得全部曼德罗林舰队以及大部分共和国舰队遭到摧毁。大批生灵的涂炭使原力遭到了严重的创伤，也使蘇瑞克与原力的联系彻底被切断。战争结束后绝地组织决定将其驱逐。随着游戏的进行，蘇瑞克逐渐找回了与原力的联系，并与其他角色建立了原力的纽带。
+    玩家角色，姓名可自定，但正典姓名為咪拉·蘇瑞克（Meetra Surik）\[10\]。根据[星球大战世界观的官方设定](https://zh.wikipedia.org/wiki/星球大战 "wikilink")\[11\]\[12\]，蘇瑞克是一名女性，不过在游戏开端玩家可以自由选择蘇瑞克的姓名、性别以及绝地职业属性。蘇瑞克曾追随绝地武士瑞文参加了共和国对抗曼德罗林人侵略的曼德罗林战争，并在玛拉卓五号星的最终决战中下令启动了一台极具摧毁性的武器，使得全部曼德罗林舰队以及大部分共和国舰队遭到摧毁。大批生灵的涂炭使原力遭到了严重的创伤，也使蘇瑞克与原力的联系彻底被切断。战争结束后绝地组织决定将其驱逐。随着游戏的进行，蘇瑞克逐渐找回了与原力的联系，并与其他角色建立了原力的纽带。
 
 <!-- end list -->
 
@@ -92,10 +89,7 @@ Surik）\[9\]。在游戏中，蘇瑞克逐渐找回了与[原力](../Page/原�
 
 ## 评价
 
-《西斯领主》在玩家和评论界那里都获得了相当高的评价，几家游戏网站的评分分别为：[GameSpot](../Page/GameSpot.md "wikilink")
-8.5/10，[GameSpy](../Page/GameSpy.md "wikilink")
-4.5/5，[IGN](../Page/IGN.md "wikilink")
-9.3/10。[Metacritic](../Page/Metacritic.md "wikilink")根据30个专家评论给出的得分为85/100\[13\]，这要略低于前作《星球大战：旧共和国武士》得到的93/100\[14\]。GameSpy还将本作中的柯瑞亚评为“2005年度最佳游戏角色”\[15\]。
+《西斯领主》在玩家和评论界那里都获得了相当高的评价，几家游戏网站的评分分别为：[GameSpot](../Page/GameSpot.md "wikilink") 8.5/10，[GameSpy](../Page/GameSpy.md "wikilink") 4.5/5，[IGN](../Page/IGN.md "wikilink") 9.3/10。[Metacritic](../Page/Metacritic.md "wikilink")根据30个专家评论给出的得分为85/100\[13\]，这要略低于前作《星球大战：旧共和国武士》得到的93/100\[14\]。GameSpy还将本作中的柯瑞亚评为“2005年度最佳游戏角色”\[15\]。
 
 尽管如此，游戏本身的不完整性及诸多bug仍然被诸多玩家所诟病，一般认为这些问题都归咎于LucasArts给黑曜石带来的工作压力：LucasArts催促黑曜石的工作人员在2004年圣诞假期来临之前完成制作，为的是赶上假期的销售\[16\]。
 
@@ -104,12 +98,7 @@ Surik）\[9\]。在游戏中，蘇瑞克逐渐找回了与[原力](../Page/原�
 ## 外部链接
 
   -
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:星球大戰系列電子遊戲](https://zh.wikipedia.org/wiki/Category:星球大戰系列電子遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
+[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:星球大戰系列電子遊戲](https://zh.wikipedia.org/wiki/Category:星球大戰系列電子遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
 
 1.
 

@@ -1,4 +1,4 @@
-為[Eushully社於](../Page/Eushully.md "wikilink")2010年4月23日發售之[角色扮演類型](../Page/電子角色扮演遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]其背景設定為[Eushully社旗下兩大系列作品](../Page/Eushully.md "wikilink")「[戰女神](../Page/戰女神.md "wikilink")」與「[幻燐的姫将軍](https://zh.wikipedia.org/wiki/幻燐的姬將軍 "wikilink")」的延伸，填補了兩個在同塊大陸交會交織的空白歷史。2010年獲得「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2010」的銀賞\[2\]。
+為[Eushully](../Page/Eushully.md "wikilink")社於2010年4月23日發售之[角色扮演類型](../Page/電子角色扮演遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]其背景設定為[Eushully](../Page/Eushully.md "wikilink")社旗下兩大系列作品「[戰女神](../Page/戰女神.md "wikilink")」與「[幻燐的姫将軍](https://zh.wikipedia.org/wiki/幻燐的姬將軍 "wikilink")」的延伸，填補了兩個在同塊大陸交會交織的空白歷史。2010年獲得「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2010」的銀賞\[2\]。
 
 ## 故事
 
@@ -44,17 +44,13 @@
 
 ## 外部連結
 
-  - [Eushully Official Website - 戦女神VERITA
-    -](http://www.eukleia.co.jp/eushully/eu011.html)
+  - [Eushully Official Website - 戦女神VERITA -](http://www.eukleia.co.jp/eushully/eu011.html)
 
 ## 相關作品
 
   - [姬狩 Dungeon Master](../Page/姬狩_Dungeon_Master.md "wikilink")
 
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:2010年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2010年日本成人遊戲 "wikilink")
-[Category:Eushully](https://zh.wikipedia.org/wiki/Category:Eushully "wikilink")
+[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:2010年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2010年日本成人遊戲 "wikilink") [Category:Eushully](https://zh.wikipedia.org/wiki/Category:Eushully "wikilink")
 
 1.
 2.

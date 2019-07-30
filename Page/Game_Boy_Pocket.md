@@ -1,8 +1,4 @@
-**Game Boy Pocket**（简称为**GBP**）是[任天堂](../Page/任天堂.md "wikilink")**[Game
-Boy](../Page/Game_Boy.md "wikilink")**的改版机型，兼容GB软件。Game Boy
-Pocket相比于Game
-Boy，显得更小巧，缩小了近30%的体积，而且改良了[LCD屏幕](https://zh.wikipedia.org/wiki/LCD "wikilink")\[1\]。在机能方面，与GB主机相比，并没有太大的变化，所以可以说是Game
-Boy的轻薄版。
+**Game Boy Pocket**（简称为**GBP**）是[任天堂](../Page/任天堂.md "wikilink")**[Game Boy](../Page/Game_Boy.md "wikilink")**的改版机型，兼容GB软件。Game Boy Pocket相比于Game Boy，显得更小巧，缩小了近30%的体积，而且改良了[LCD屏幕](https://zh.wikipedia.org/wiki/LCD "wikilink")\[1\]。在机能方面，与GB主机相比，并没有太大的变化，所以可以说是Game Boy的轻薄版。
 
 ## 主机参数
 
@@ -21,10 +17,7 @@ Boy的轻薄版。
 
 ## 参考资料
 
-[Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink")
-[Category:Game_Boy遊戲機](https://zh.wikipedia.org/wiki/Category:Game_Boy遊戲機 "wikilink")
-[Category:第四世代遊戲機](https://zh.wikipedia.org/wiki/Category:第四世代遊戲機 "wikilink")
-[Category:任天堂遊戲機](https://zh.wikipedia.org/wiki/Category:任天堂遊戲機 "wikilink")
+[Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink") [Category:Game_Boy遊戲機](https://zh.wikipedia.org/wiki/Category:Game_Boy遊戲機 "wikilink") [Category:第四世代遊戲機](https://zh.wikipedia.org/wiki/Category:第四世代遊戲機 "wikilink") [Category:任天堂遊戲機](https://zh.wikipedia.org/wiki/Category:任天堂遊戲機 "wikilink")
 
 1.  www.nintendo.co.uk/NOE/en_GB/support/game_boy__pocket__color_559_562.html
 2.

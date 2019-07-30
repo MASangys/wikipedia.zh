@@ -1,7 +1,4 @@
-《**Seventh
-Heaven**》是[Kalafina](../Page/Kalafina.md "wikilink")的第1張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2009年3月4日由[SME
-Records發行](../Page/SME_Records.md "wikilink")。\[1\]
-收錄了劇場版動畫《[空之境界](../Page/空之境界.md "wikilink")》全七章的片尾主題歌。同時發行附有特典的初回生産限定盤。她們的第4張單曲《[Lacrimosa](../Page/Lacrimosa_\(單曲\).md "wikilink")》也是於同日發行\[2\]。
+《**Seventh Heaven**》是[Kalafina](../Page/Kalafina.md "wikilink")的第1張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2009年3月4日由[SME Records發行](../Page/SME_Records.md "wikilink")。\[1\] 收錄了劇場版動畫《[空之境界](../Page/空之境界.md "wikilink")》全七章的片尾主題歌。同時發行附有特典的初回生産限定盤。她們的第4張單曲《[Lacrimosa](../Page/Lacrimosa_\(單曲\).md "wikilink")》也是於同日發行\[2\]。
 
 ## 收錄曲目
 
@@ -79,9 +76,7 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
   - [Kalafina 官方網站](http://www.sonymusic.co.jp/Music/Info/kalafina/)
 
-[Category:Kalafina音樂專輯](https://zh.wikipedia.org/wiki/Category:Kalafina音樂專輯 "wikilink")
-[Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
+[Category:Kalafina音樂專輯](https://zh.wikipedia.org/wiki/Category:Kalafina音樂專輯 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
 
 1.  <http://www.sonymusic.co.jp/Music/Info/kalafina/disco/index.html>
 2.  不過此專輯並沒有收錄該單曲。

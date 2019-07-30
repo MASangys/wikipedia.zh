@@ -1,5 +1,4 @@
-**Redis**是一个使用[ANSI
-C编写的](../Page/ANSI_C.md "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")、支持[网络](https://zh.wikipedia.org/wiki/电脑网络 "wikilink")、基于[内存](https://zh.wikipedia.org/wiki/内存 "wikilink")、可选的[键值对存储数据库](https://zh.wikipedia.org/wiki/键值-值数据库 "wikilink")。从2015年6月开始，Redis的开发由赞助，而2013年5月至2015年6月期间，其开发由[Pivotal赞助](../Page/Pivotal.md "wikilink")。\[1\]在2013年5月之前，其开发由[VMware赞助](../Page/VMware.md "wikilink")。\[2\]\[3\]根据月度排行网站DB-Engines.com的数据，Redis是最流行的键值对存储数据库。\[4\]
+**Redis**是一个使用[ANSI C编写的](../Page/ANSI_C.md "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")、支持[网络](https://zh.wikipedia.org/wiki/电脑网络 "wikilink")、基于[内存](https://zh.wikipedia.org/wiki/内存 "wikilink")、可选的[键值对存储数据库](https://zh.wikipedia.org/wiki/键值-值数据库 "wikilink")。从2015年6月开始，Redis的开发由赞助，而2013年5月至2015年6月期间，其开发由[Pivotal](../Page/Pivotal.md "wikilink")赞助。\[1\]在2013年5月之前，其开发由[VMware](../Page/VMware.md "wikilink")赞助。\[2\]\[3\]根据月度排行网站DB-Engines.com的数据，Redis是最流行的键值对存储数据库。\[4\]
 
 ## 支持语言
 
@@ -9,7 +8,7 @@ C编写的](../Page/ANSI_C.md "wikilink")[开源](https://zh.wikipedia.org/wiki/
   - [C](https://zh.wikipedia.org/wiki/C语言 "wikilink")
   - [C++](../Page/C++.md "wikilink")
   - [C\#](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")
-  - [Clojure](https://zh.wikipedia.org/wiki/Clojure "wikilink")
+  - [Clojure](../Page/Clojure.md "wikilink")
 
 <!-- end list -->
 
@@ -89,7 +88,7 @@ Redis的外围由一个键、值映射的[字典构成](../Page/关联数组.md 
   - [字符串](../Page/字符串.md "wikilink")[列表](../Page/串列_\(抽象資料型別\).md "wikilink")
   - 无序不重复的[字符串](../Page/字符串.md "wikilink")[集合](https://zh.wikipedia.org/wiki/集合_\(抽象資料型別\) "wikilink")
   - 有序不重复的[字符串](../Page/字符串.md "wikilink")[集合](https://zh.wikipedia.org/wiki/集合_\(抽象資料型別\) "wikilink")
-  - 键、值都为[字符串的](../Page/字符串.md "wikilink")[哈希表](../Page/哈希表.md "wikilink")
+  - 键、值都为[字符串](../Page/字符串.md "wikilink")的[哈希表](../Page/哈希表.md "wikilink")
 
 值的类型决定了值本身支持的操作。Redis支持不同无序、有序的[列表](../Page/串列_\(抽象資料型別\).md "wikilink")，无序、有序的[集合间的交集](https://zh.wikipedia.org/wiki/集合_\(抽象資料型別\) "wikilink")、并集等高级服务器端原子操作。
 
@@ -122,58 +121,31 @@ Redis支持主从同步。数据可以从主服务器向任意数量的从服务
 
 ## 参考资料
 
-  - Jeremy Zawodny, *[Redis: Lightweight key/value Store That Goes the
-    Extra Mile](http://www.linux-mag.com/cache/7496/1.html)*, [Linux
-    Magazine](https://zh.wikipedia.org/wiki/Linux_Magazine "wikilink"),
-    August 31, 2009
-  - Isabel Drost and Jan Lehnard（29 October 2009）,[Happenings: NoSQL
-    Conference,
-    Berlin](http://www.h-online.com/open/features/Happenings-NoSQL-Conference-Berlin-843597.html),
-    [The H](https://zh.wikipedia.org/wiki/The_H "wikilink").
-    [Slides](http://nosqlberlin.de/slides/NoSQLBerlin-Redis.pdf) for the
-    Redis presentation.
-    [Summary](http://www.paperplanes.de/2009/10/27/theres_something_about_redis.html).
-  - Billy Newport（IBM）:"[Evolving the Key/Value Programming Model to a
-    Higher
-    Level](http://www.infoq.com/presentations/newport-evolving-key-value-programming-model)"
-    Qcon Conference 2009 San Francisco.
+  - Jeremy Zawodny, *[Redis: Lightweight key/value Store That Goes the Extra Mile](http://www.linux-mag.com/cache/7496/1.html)*, [Linux Magazine](https://zh.wikipedia.org/wiki/Linux_Magazine "wikilink"), August 31, 2009
+  - Isabel Drost and Jan Lehnard（29 October 2009）,[Happenings: NoSQL Conference, Berlin](http://www.h-online.com/open/features/Happenings-NoSQL-Conference-Berlin-843597.html), [The H](https://zh.wikipedia.org/wiki/The_H "wikilink"). [Slides](http://nosqlberlin.de/slides/NoSQLBerlin-Redis.pdf) for the Redis presentation. [Summary](http://www.paperplanes.de/2009/10/27/theres_something_about_redis.html).
+  - Billy Newport（IBM）:"[Evolving the Key/Value Programming Model to a Higher Level](http://www.infoq.com/presentations/newport-evolving-key-value-programming-model)" Qcon Conference 2009 San Francisco.
 
 <references/>
 
 ## 外部链接
 
   -
-  - [对Salvatore
-    Sanfillipo的播客采访](https://web.archive.org/web/20110221132131/http://thechangelog.com/post/2801342864/episode-0-4-5-redis-with-salvatore-sanfilippo)
+  - [对Salvatore Sanfillipo的播客采访](https://web.archive.org/web/20110221132131/http://thechangelog.com/post/2801342864/episode-0-4-5-redis-with-salvatore-sanfilippo)
 
-  - [由Simon
-    Willison讲解的Redis真实应用场景教程](https://web.archive.org/web/20121225104309/http://simonwillison.net/static/2010/redis-tutorial/)
+  - [由Simon Willison讲解的Redis真实应用场景教程](https://web.archive.org/web/20121225104309/http://simonwillison.net/static/2010/redis-tutorial/)
 
   - [使用PHP进行Redis开发的实例](http://redis4you.com/code.php)
 
   - [使用Ruby进行Redis开发的实例](http://www.pagedegeek.com/2012/05/30/Ruby-Redis-scalabilite.html)
 
-[Category:开源数据库管理系统](https://zh.wikipedia.org/wiki/Category:开源数据库管理系统 "wikilink")
-[Category:非关系型数据库](https://zh.wikipedia.org/wiki/Category:非关系型数据库 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink")
-[Category:键-值数据库](https://zh.wikipedia.org/wiki/Category:键-值数据库 "wikilink")
+[Category:开源数据库管理系统](https://zh.wikipedia.org/wiki/Category:开源数据库管理系统 "wikilink") [Category:非关系型数据库](https://zh.wikipedia.org/wiki/Category:非关系型数据库 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink") [Category:键-值数据库](https://zh.wikipedia.org/wiki/Category:键-值数据库 "wikilink")
 
 1.  [Redis Sponsors – Redis](http://redis.io/topics/sponsors)
-2.  [VMware: the new Redis
-    home](http://antirez.com/post/vmware-the-new-redis-home.html)
-3.  [VMWare: The Console: VMware hires key developer for
-    Redis](http://blogs.vmware.com/console/2010/03/vmware-hires-key-developer-for-redis.html)
-4.  [DB-Engines Ranking of Key-value
-    Stores](http://db-engines.com/en/ranking/key-value+store)
+2.  [VMware: the new Redis home](http://antirez.com/post/vmware-the-new-redis-home.html)
+3.  [VMWare: The Console: VMware hires key developer for Redis](http://blogs.vmware.com/console/2010/03/vmware-hires-key-developer-for-redis.html)
+4.  [DB-Engines Ranking of Key-value Stores](http://db-engines.com/en/ranking/key-value+store)
 5.  [Redis language bindings](http://redis.io/clients)
-6.  [CRAN - Package
-    rredis](http://cran.r-project.org/web/packages/rredis/index.html)
-7.  Redis documentation ["Virtual
-    Memory"](http://redis.io/topics/virtual-memory), *redis.io*,
-    accessed January 18, 2011.
-8.  [ReplicationHowto - redis - A persistent key-value database with
-    built-in net interface written in ANSI-C for Posix systems - Google
-    Project
-    Hosting](http://code.google.com/p/redis/wiki/ReplicationHowto)
+6.  [CRAN - Package rredis](http://cran.r-project.org/web/packages/rredis/index.html)
+7.  Redis documentation ["Virtual Memory"](http://redis.io/topics/virtual-memory), *redis.io*, accessed January 18, 2011.
+8.  [ReplicationHowto - redis - A persistent key-value database with built-in net interface written in ANSI-C for Posix systems - Google Project Hosting](http://code.google.com/p/redis/wiki/ReplicationHowto)
 9.

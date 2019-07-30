@@ -1,18 +1,12 @@
-《**no3b**》是日本女子偶像團體[AKB48的衍生組合](../Page/AKB48.md "wikilink")、[no3b的第一張](https://zh.wikipedia.org/wiki/no3b "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2011年1月1日由[日本Epic唱片](https://zh.wikipedia.org/wiki/日本Epic唱片 "wikilink")（）代理發售。
+《**no3b**》是日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink")的衍生組合、[no3b的第一張](https://zh.wikipedia.org/wiki/no3b "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2011年1月1日由[日本Epic唱片](https://zh.wikipedia.org/wiki/日本Epic唱片 "wikilink")（）代理發售。
 
 ## 解説
 
-  - no3b的首張專輯。收錄曲目爲首張單曲《Relax\!》至第4張單曲《[Lie](../Page/Lie.md "wikilink")》4首主題曲外加劇場公演單曲3首等，但因唱片版本不同收錄曲目略有差異。其他，除了「3seconds
-    Remix」（第4張單曲《Lie》的混音版）以外的各張單曲混音版及2010年8月4日發售的第5張單曲《[只有你](../Page/只有你_\(no3b單曲\).md "wikilink")》均未收錄。
-  - 是繼[AKB48內的派生組合](../Page/AKB48.md "wikilink")[Chocolove from
-    AKB48的](../Page/Chocolove_from_AKB48.md "wikilink")《Dessert》和[走廊奔跑隊的](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")《[不要在走廊奔跑！](../Page/不要在走廊奔跑！.md "wikilink")》之後的第三張專輯。
+  - no3b的首張專輯。收錄曲目爲首張單曲《Relax\!》至第4張單曲《[Lie](../Page/Lie.md "wikilink")》4首主題曲外加劇場公演單曲3首等，但因唱片版本不同收錄曲目略有差異。其他，除了「3seconds Remix」（第4張單曲《Lie》的混音版）以外的各張單曲混音版及2010年8月4日發售的第5張單曲《[只有你](../Page/只有你_\(no3b單曲\).md "wikilink")》均未收錄。
+  - 是繼[AKB48](../Page/AKB48.md "wikilink")內的派生組合[Chocolove from AKB48的](../Page/Chocolove_from_AKB48.md "wikilink")《Dessert》和[走廊奔跑隊的](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")《[不要在走廊奔跑！](../Page/不要在走廊奔跑！.md "wikilink")》之後的第三張專輯。
   - 有完全限定生産盤A、完全限定生産盤B、完全限定生産盤C、初回生産限定盤、通常盤5種發售形態。
-  - 獨唱曲目分別爲：「Cloudy sky」 - [小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、「奇跡は夜生まれる」
-    - [高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")、「私は私」 -
-    [峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")。
-  - 2010年7月23日 - 27日召開的Team
-    Pigg對戰中由no3b的3人參與的「ガールズ・ING」、「EYES」、「恋愛運上昇団」演唱的三首歌\[1\]
-    也收錄在本張專輯中。
+  - 獨唱曲目分別爲：「Cloudy sky」 - [小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、「奇跡は夜生まれる」 - [高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")、「私は私」 - [峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")。
+  - 2010年7月23日 - 27日召開的Team Pigg對戰中由no3b的3人參與的「ガールズ・ING」、「EYES」、「恋愛運上昇団」演唱的三首歌\[1\] 也收錄在本張專輯中。
 
 ## 收錄曲
 
@@ -33,18 +27,15 @@
 4.  **心型病毒（no3b ver.）**（）
       -
         （作詞：秋元康、作曲・編曲：[井上ヨシマサ](https://zh.wikipedia.org/wiki/井上ヨシマサ "wikilink")）
-        『[TeamA 5th
-        Stage「恋愛禁止条例」](https://zh.wikipedia.org/wiki/TeamA_5th_Stage「恋愛禁止条例」 "wikilink")』公演小嶋陽菜参加的小組曲的no3b版本。
+        『[TeamA 5th Stage「恋愛禁止条例」](https://zh.wikipedia.org/wiki/TeamA_5th_Stage「恋愛禁止条例」 "wikilink")』公演小嶋陽菜参加的小組曲的no3b版本。
 5.  **Bye Bye Bye**
       -
         （作詞：秋元康、作曲：[近藤薫](https://zh.wikipedia.org/wiki/近藤薫 "wikilink")、編曲：原田卓也）
-        『[向日葵组 2nd
-        Stage「不要让梦想死去」](https://zh.wikipedia.org/wiki/向日葵组_2nd_Stage「不要让梦想死去」 "wikilink")』公演中3人参加的小組曲。
+        『[向日葵组 2nd Stage「不要让梦想死去」](https://zh.wikipedia.org/wiki/向日葵组_2nd_Stage「不要让梦想死去」 "wikilink")』公演中3人参加的小組曲。
 6.  **纯爱的渐强音**（）
       -
         （作詞：秋元康　作曲：宮島律子　編曲：[田口智則](https://zh.wikipedia.org/wiki/田口智則 "wikilink")、稲留春雄）
-        『[TeamA 4th
-        Stage「正在恋爱中」](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在恋爱中」 "wikilink")』公演中3人参加的小組曲。
+        『[TeamA 4th Stage「正在恋爱中」](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在恋爱中」 "wikilink")』公演中3人参加的小組曲。
 7.  **聖誕禮物 Remix**（）
       -
         （作詞：秋元康、作曲：[酒井ミキオ](https://zh.wikipedia.org/wiki/酒井ミキオ "wikilink")、編曲：江上浩太郎）
@@ -60,18 +51,16 @@
 10. **Next heaven（動畫「アイドル合体ロボ〜ミナミナハルの戦い〜」主題歌）** - EYES
       -
         （作詞：秋元康、作曲：小網準、編曲：[宅見将典](https://zh.wikipedia.org/wiki/宅見将典 "wikilink")）
-        Team
-        Pigg指名戰[高橋みなみ参加小組的樂曲](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")。
+        Team Pigg指名戰[高橋みなみ参加小組的樂曲](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")。
         「アイドル合体ロボ〜ミナミナハルの戦い〜」是架空的動畫
 11. **想要鏡頭**（） - 恋愛運上昇団
       -
         （作詞：秋元康、作曲：田辺恵二、編曲：[CHOKKAKU](https://zh.wikipedia.org/wiki/CHOKKAKU "wikilink")）
-        Team
-        Pigg指名戰[峯岸みなみ参加小組的樂曲](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")。
+        Team Pigg指名戰[峯岸みなみ参加小組的樂曲](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")。
 12. **騙人吧?〜七里濱之七種不思議〜**（） - ガールズ・ING
       -
         （作詞：秋元康、作曲：[重永亮介](https://zh.wikipedia.org/wiki/重永亮介 "wikilink")、編曲：宇佐美宏）
-        Team Pigg指名戰[小嶋陽菜参加小組的樂曲](../Page/小嶋陽菜.md "wikilink")。
+        Team Pigg指名戰[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")参加小組的樂曲。
 
 <!-- end list -->
 
@@ -231,9 +220,6 @@
 
   - [no3b官方網站](http://www.no3b.net/)
 
-[Category:AKB48家族關連音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48家族關連音樂專輯 "wikilink")
-[Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:AKB48家族關連音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48家族關連音樂專輯 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.  其中歌曲“”名稱變更爲“”

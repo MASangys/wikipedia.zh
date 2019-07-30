@@ -1,4 +1,4 @@
-《**月球漫步**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[JPM的首張專輯](../Page/JPM.md "wikilink")，在2011年8月8日開始預購\[1\]，並在2011年8月26日正式發行。專輯的第一主打歌是大碟同名歌曲《月球漫步》，而第二主打歌是《那不是雪中紅》，另特別收錄一首粵語歌曲《因為有你（粵語版）》。
+《**月球漫步**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[JPM](../Page/JPM.md "wikilink")的首張專輯，在2011年8月8日開始預購\[1\]，並在2011年8月26日正式發行。專輯的第一主打歌是大碟同名歌曲《月球漫步》，而第二主打歌是《那不是雪中紅》，另特別收錄一首粵語歌曲《因為有你（粵語版）》。
 
 ## 曲目
 
@@ -132,10 +132,6 @@
 
 </div>
 
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:JPM音樂專輯](https://zh.wikipedia.org/wiki/Category:JPM音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:JPM](https://zh.wikipedia.org/wiki/Category:JPM "wikilink")
+[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:JPM音樂專輯](https://zh.wikipedia.org/wiki/Category:JPM音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:JPM](https://zh.wikipedia.org/wiki/Category:JPM "wikilink")
 
-1.  [JPM［月球漫步］ - Sky Music](http://skymusic.com.hk/?p=23003)，2012年11月16日
-    (五) 21:20 (UTC+8)查閱
+1.  [JPM［月球漫步］ - Sky Music](http://skymusic.com.hk/?p=23003)，2012年11月16日 (五) 21:20 (UTC+8)查閱

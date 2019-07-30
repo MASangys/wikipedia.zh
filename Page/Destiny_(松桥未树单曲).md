@@ -18,10 +18,8 @@
 ## 收录专辑
 
   - [Destiny](https://zh.wikipedia.org/wiki/Destiny_\(松桥未树专辑\) "wikilink")
-  - [THE BEST OF DETECTIVE CONAN 2 〜名探偵コナン
-    テーマ曲集2〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_2_〜名探偵コナン_テーマ曲集2〜 "wikilink")
-  - [GIZA studio presents
-    -Girls-](https://zh.wikipedia.org/wiki/GIZA_studio_presents_-Girls- "wikilink")
+  - [THE BEST OF DETECTIVE CONAN 2 〜名探偵コナン テーマ曲集2〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_2_〜名探偵コナン_テーマ曲集2〜 "wikilink")
+  - [GIZA studio presents -Girls-](https://zh.wikipedia.org/wiki/GIZA_studio_presents_-Girls- "wikilink")
 
 <table>
 <tbody>
@@ -37,6 +35,4 @@
 </tbody>
 </table>
 
-[Category:2001年单曲](https://zh.wikipedia.org/wiki/Category:2001年单曲 "wikilink")
-[Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
+[Category:2001年单曲](https://zh.wikipedia.org/wiki/Category:2001年单曲 "wikilink") [Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")

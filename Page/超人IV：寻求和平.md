@@ -1,5 +1,4 @@
-《**超人IV：太空對決**》（）是於1987年由導演Sidney J.
-Furie執導的[超級英雄電影](../Page/超級英雄電影.md "wikilink")。這部電影是《[超人系列電影](https://zh.wikipedia.org/wiki/超人系列電影 "wikilink")》的第4部，亦是[克里斯多夫·李維最後一次飾演](https://zh.wikipedia.org/wiki/克里斯多夫·李維 "wikilink")[超人的電影](../Page/超人.md "wikilink")。
+《**超人IV：太空對決**》（）是於1987年由導演Sidney J. Furie執導的[超級英雄電影](../Page/超級英雄電影.md "wikilink")。這部電影是《[超人系列電影](https://zh.wikipedia.org/wiki/超人系列電影 "wikilink")》的第4部，亦是[克里斯多夫·李維最後一次飾演](https://zh.wikipedia.org/wiki/克里斯多夫·李維 "wikilink")[超人](../Page/超人.md "wikilink")的電影。
 
 ## 劇情
 
@@ -17,11 +16,9 @@ Furie執導的[超級英雄電影](../Page/超級英雄電影.md "wikilink")。�
 
 ## 演員
 
-  - [克里斯多夫·李維飾](https://zh.wikipedia.org/wiki/克里斯多夫·李維 "wikilink")[超人（卡-艾爾/
-    克拉克.肯特）](../Page/超人.md "wikilink")
+  - [克里斯多夫·李維飾](https://zh.wikipedia.org/wiki/克里斯多夫·李維 "wikilink")[超人 克拉克.肯特）](../Page/超人.md "wikilink")（卡-艾爾/
 
-  - [金·哈克曼飾](../Page/金·哈克曼.md "wikilink")[雷克斯·路瑟](../Page/雷克斯·路瑟.md "wikilink")
-    / 核能超人的配音
+  - [金·哈克曼](../Page/金·哈克曼.md "wikilink")飾[雷克斯·路瑟](../Page/雷克斯·路瑟.md "wikilink") / 核能超人的配音
 
   - 飾核能超人
 
@@ -31,20 +28,17 @@ Furie執導的[超級英雄電影](../Page/超級英雄電影.md "wikilink")。�
 
   - 飾[吉米·奧爾森](https://zh.wikipedia.org/wiki/吉米·奧爾森 "wikilink")
 
-  - [喬恩·克萊爾飾Lenny](https://zh.wikipedia.org/wiki/喬恩·克萊爾 "wikilink")
-    Luthor
+  - [喬恩·克萊爾飾Lenny](https://zh.wikipedia.org/wiki/喬恩·克萊爾 "wikilink") Luthor
 
   - 飾David Warfield
 
-  - [瑪麗埃爾·海明威飾Lacy](https://zh.wikipedia.org/wiki/瑪麗埃爾·海明威 "wikilink")
-    Warfield
+  - [瑪麗埃爾·海明威飾Lacy](https://zh.wikipedia.org/wiki/瑪麗埃爾·海明威 "wikilink") Warfield
 
   - [達米恩·麥克拉沃恩飾Jeremy](https://zh.wikipedia.org/wiki/達米恩·麥克拉沃恩 "wikilink")
 
   - 飾Harry Howler
 
-  - [吉姆·布洛班特飾Jean](https://zh.wikipedia.org/wiki/吉姆·布洛班特 "wikilink")
-    Pierre Dubois
+  - [吉姆·布洛班特飾Jean](https://zh.wikipedia.org/wiki/吉姆·布洛班特 "wikilink") Pierre Dubois
 
   - 飾General Romoff
 
@@ -52,12 +46,11 @@ Furie執導的[超級英雄電影](../Page/超級英雄電影.md "wikilink")。�
 
   - 飾[美國總統](https://zh.wikipedia.org/wiki/美國總統 "wikilink")
 
-  - [蘇珊娜·約克飾the](https://zh.wikipedia.org/wiki/蘇珊娜·約克 "wikilink") voice
-    of Lara
+  - [蘇珊娜·約克飾the](https://zh.wikipedia.org/wiki/蘇珊娜·約克 "wikilink") voice of Lara
 
 ## 評價
 
-[爛番茄基於](../Page/爛番茄.md "wikilink")44條評論，本片的新鮮度僅11%，平均分為2.84/10\[1\]。而在[Metacritic上也只得到](../Page/Metacritic.md "wikilink")24分\[2\]。[IMDB上僅得](https://zh.wikipedia.org/wiki/IMDB "wikilink")3.6分，大獲差評。
+[爛番茄](../Page/爛番茄.md "wikilink")基於44條評論，本片的新鮮度僅11%，平均分為2.84/10\[1\]。而在[Metacritic](../Page/Metacritic.md "wikilink")上也只得到24分\[2\]。[IMDB上僅得](https://zh.wikipedia.org/wiki/IMDB "wikilink")3.6分，大獲差評。
 
 ## 票房
 
@@ -67,8 +60,7 @@ Furie執導的[超級英雄電影](../Page/超級英雄電影.md "wikilink")。�
 
 該集超人電影的票房成續極差，加上有眾多負面評價，以下是獲得的差劣奖項:
 
-  - 1988年[金酸莓奖](https://zh.wikipedia.org/wiki/金酸莓奖 "wikilink")(Razzie
-    Award) 最差视觉效果(提名) John Evans
+  - 1988年[金酸莓奖](https://zh.wikipedia.org/wiki/金酸莓奖 "wikilink")(Razzie Award) 最差视觉效果(提名) John Evans
 
 <!-- end list -->
 
@@ -91,20 +83,7 @@ Furie執導的[超級英雄電影](../Page/超級英雄電影.md "wikilink")。�
 
   -
   -
-[Category:1987年电影](https://zh.wikipedia.org/wiki/Category:1987年电影 "wikilink")
-[Category:英語电影](https://zh.wikipedia.org/wiki/Category:英語电影 "wikilink")
-[Category:華納兄弟電影](https://zh.wikipedia.org/wiki/Category:華納兄弟電影 "wikilink")
-[Category:1980年代科幻片](https://zh.wikipedia.org/wiki/Category:1980年代科幻片 "wikilink")
-[Category:美国科幻片](https://zh.wikipedia.org/wiki/Category:美国科幻片 "wikilink")
-[Category:1980年代犯罪片](https://zh.wikipedia.org/wiki/Category:1980年代犯罪片 "wikilink")
-[Category:美国犯罪片](https://zh.wikipedia.org/wiki/Category:美国犯罪片 "wikilink")
-[Category:DC漫畫改編電影](https://zh.wikipedia.org/wiki/Category:DC漫畫改編電影 "wikilink")
-[Category:漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:漫畫改編真人電影 "wikilink")
-[Category:1980年代特攝作品](https://zh.wikipedia.org/wiki/Category:1980年代特攝作品 "wikilink")
-[Category:記者題材電影](https://zh.wikipedia.org/wiki/Category:記者題材電影 "wikilink")
-[Category:超人电影](https://zh.wikipedia.org/wiki/Category:超人电影 "wikilink")
-[Category:美国特摄电影](https://zh.wikipedia.org/wiki/Category:美国特摄电影 "wikilink")
-[Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink")
+[Category:1987年电影](https://zh.wikipedia.org/wiki/Category:1987年电影 "wikilink") [Category:英語电影](https://zh.wikipedia.org/wiki/Category:英語电影 "wikilink") [Category:華納兄弟電影](https://zh.wikipedia.org/wiki/Category:華納兄弟電影 "wikilink") [Category:1980年代科幻片](https://zh.wikipedia.org/wiki/Category:1980年代科幻片 "wikilink") [Category:美国科幻片](https://zh.wikipedia.org/wiki/Category:美国科幻片 "wikilink") [Category:1980年代犯罪片](https://zh.wikipedia.org/wiki/Category:1980年代犯罪片 "wikilink") [Category:美国犯罪片](https://zh.wikipedia.org/wiki/Category:美国犯罪片 "wikilink") [Category:DC漫畫改編電影](https://zh.wikipedia.org/wiki/Category:DC漫畫改編電影 "wikilink") [Category:漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:漫畫改編真人電影 "wikilink") [Category:1980年代特攝作品](https://zh.wikipedia.org/wiki/Category:1980年代特攝作品 "wikilink") [Category:記者題材電影](https://zh.wikipedia.org/wiki/Category:記者題材電影 "wikilink") [Category:超人电影](https://zh.wikipedia.org/wiki/Category:超人电影 "wikilink") [Category:美国特摄电影](https://zh.wikipedia.org/wiki/Category:美国特摄电影 "wikilink") [Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink")
 
 1.
 2.

@@ -1,6 +1,4 @@
-[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**ESFJ**(外倾/感觉/情感/判断)是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")。.\[1\]
-在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")[供给者](https://zh.wikipedia.org/wiki/供给者_\(角色变异\) "wikilink")，属于[监护人的四种类型之一](https://zh.wikipedia.org/wiki/监护人_\(气质类型\) "wikilink")，约占人口的9%-13%。.\[2\]\[3\]
+[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg") **ESFJ**(外倾/感觉/情感/判断)是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")。.\[1\] 在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")[供给者](https://zh.wikipedia.org/wiki/供给者_\(角色变异\) "wikilink")，属于[监护人的四种类型之一](https://zh.wikipedia.org/wiki/监护人_\(气质类型\) "wikilink")，约占人口的9%-13%。.\[2\]\[3\]
 
 ## MBTI偏好
 
@@ -11,8 +9,7 @@
 
 ## 特征
 
-[Terry_Bradshaw.jpg](https://zh.wikipedia.org/wiki/File:Terry_Bradshaw.jpg "fig:Terry_Bradshaw.jpg")是个ESFJ.\[8\].但是，根据MBTI伦理应用的指导方针，只有那些参加了类型评估的人能决定他们最适合于哪一型。\[9\]\]\]
-ESFJ们将注意力放在外部的世界上，对自己的经历通常主观评判。他们的决定大多基于价值观，以及其可能对人造成的影响。ESFJ们具体、实事求是，信赖详尽而实际的资料，这些资料通常是基于他们生理感官所收集的。
+[Terry_Bradshaw.jpg](https://zh.wikipedia.org/wiki/File:Terry_Bradshaw.jpg "fig:Terry_Bradshaw.jpg")是个ESFJ.\[8\].但是，根据MBTI伦理应用的指导方针，只有那些参加了类型评估的人能决定他们最适合于哪一型。\[9\]\]\] ESFJ们将注意力放在外部的世界上，对自己的经历通常主观评判。他们的决定大多基于价值观，以及其可能对人造成的影响。ESFJ们具体、实事求是，信赖详尽而实际的资料，这些资料通常是基于他们生理感官所收集的。
 
 通过真挚地关心他人，ESFJ们表达热情。他们善于发现别人的长处，也希望理解他人的主张。他们认真对待自己应尽的责任，发现有什么事情需要做，然后完成它。他们通常能熟练地完成复杂的任务，也热衷于做一些小事来让他人更加舒适。他们重视传统以及它带来的安全感。
 
@@ -69,12 +66,10 @@ Te组织、安排环境和想法，好成功达成目标。Te寻求行动、事�
 
 ## 外部链接
 
-  - [Keirsey: Provider Guardian
-    (ESFJ)](http://keirsey.com/handler.aspx?s=keirsey&f=fourtemps&tab=2&c=provider)
+  - [Keirsey: Provider Guardian (ESFJ)](http://keirsey.com/handler.aspx?s=keirsey&f=fourtemps&tab=2&c=provider)
   - [TypeLogic ESFJ](http://typelogic.com/esfj.html)
   - [Personality Page ESFJ](http://www.personalitypage.com/ESFJ.html)
-  - [The Myers & Briggs Foundation: The 16 MBTI
-    Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
+  - [The Myers & Briggs Foundation: The 16 MBTI Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
 
 [Category:性格分类](https://zh.wikipedia.org/wiki/Category:性格分类 "wikilink")
 

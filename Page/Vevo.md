@@ -1,29 +1,20 @@
-[VEVO_logo_(2009-2013).svg](https://zh.wikipedia.org/wiki/File:VEVO_logo_\(2009-2013\).svg "fig:VEVO_logo_(2009-2013).svg")
-[Vevo_logo.svg](https://zh.wikipedia.org/wiki/File:Vevo_logo.svg "fig:Vevo_logo.svg")
-**Vevo**（程式显示作**VEVO**）是一個[音樂影片網站](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，亦是由[環球音樂集團](../Page/环球唱片.md "wikilink")、[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")、[華納音樂集團和](../Page/華納音樂集團.md "wikilink")[阿布扎比传媒聯合提供免股權分紅的授權內容的](https://zh.wikipedia.org/wiki/阿布扎比传媒 "wikilink")[合資營運企業](../Page/合資公司.md "wikilink")。\[1\]VEVO的網站服務正式推出於2009年12月8日。\[2\]VEVO的影片會在網路上同步播出，\[3\]而廣告收入則與Google公司共享。\[4\]
+[VEVO_logo_(2009-2013).svg](https://zh.wikipedia.org/wiki/File:VEVO_logo_\(2009-2013\).svg "fig:VEVO_logo_(2009-2013).svg") [Vevo_logo.svg](https://zh.wikipedia.org/wiki/File:Vevo_logo.svg "fig:Vevo_logo.svg") **Vevo**（程式显示作**VEVO**）是一個[音樂影片網站](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，亦是由[環球音樂集團](../Page/环球唱片.md "wikilink")、[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")、[華納音樂集團](../Page/華納音樂集團.md "wikilink")和[阿布扎比传媒聯合提供免股權分紅的授權內容的](https://zh.wikipedia.org/wiki/阿布扎比传媒 "wikilink")[合資營運企業](../Page/合資公司.md "wikilink")。\[1\]VEVO的網站服務正式推出於2009年12月8日。\[2\]VEVO的影片會在網路上同步播出，\[3\]而廣告收入則與Google公司共享。\[4\]
 
 Vevo提供三家唱片大廠商的音樂影片。\[5\]\[6\]
 
 ## 發展
 
-VEVO的核心理念被稱為音樂錄像界的[Hulu](../Page/Hulu.md "wikilink")，\[7\]而VEVO把網站設計成這樣，目的是由吸引更多高端廣告客戶投資以增加收益。\[8\]
-為此，VEVO會因為錄像語言的關係而對錄像內容進行審查。使它能被和[麥當勞規模相等的合作者接受](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")。\[9\]網站的另一個收入來源包括量販店\[10\]，以及讓訪客到[亞馬遜和](https://zh.wikipedia.org/wiki/亞馬遜 "wikilink")[iTunes上購買歌曲的推薦連結](https://zh.wikipedia.org/wiki/iTunes "wikilink")。\[11\]環球唱片公司在2008年11月20日收購了域名vevo.com，而[索尼音樂娛樂則於](../Page/索尼音樂娛樂.md "wikilink")2009年6月決定把自己的內容添進VEVO網站中。\[12\]此網站於2009年11月8日正式運營，並於同一月份中超越[Myspace](../Page/Myspace.md "wikilink")\[13\]成為美國瀏覽量最大的音乐服务类網站。\[14\]
+VEVO的核心理念被稱為音樂錄像界的[Hulu](../Page/Hulu.md "wikilink")，\[7\]而VEVO把網站設計成這樣，目的是由吸引更多高端廣告客戶投資以增加收益。\[8\] 為此，VEVO會因為錄像語言的關係而對錄像內容進行審查。使它能被和[麥當勞規模相等的合作者接受](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")。\[9\]網站的另一個收入來源包括量販店\[10\]，以及讓訪客到[亞馬遜和](https://zh.wikipedia.org/wiki/亞馬遜 "wikilink")[iTunes上購買歌曲的推薦連結](https://zh.wikipedia.org/wiki/iTunes "wikilink")。\[11\]環球唱片公司在2008年11月20日收購了域名vevo.com，而[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")則於2009年6月決定把自己的內容添進VEVO網站中。\[12\]此網站於2009年11月8日正式運營，並於同一月份中超越[Myspace](../Page/Myspace.md "wikilink")\[13\]成為美國瀏覽量最大的音乐服务类網站。\[14\]
 
-成立之初VEVO提供音樂廠牌“四大巨頭”中三家的音樂錄像，它們是[環球音樂集團](../Page/环球音乐集团.md "wikilink")、[索尼音樂娛樂及](../Page/索尼音樂娛樂.md "wikilink")[EMI](../Page/EMI.md "wikilink")。\[15\][華納音樂集團曾在先前被報導可能是內容提供商之一](../Page/華納音樂集團.md "wikilink")，\[16\]但隨後卻是與它的對手[音樂電視網結盟](../Page/音樂電視網.md "wikilink")。\[17\]而[EMI則在沒有擁有股份的情況下授權VEVO使用其內容](../Page/EMI.md "wikilink")。\[18\]後來EMI公司被環球、索尼收購而消滅。
+成立之初VEVO提供音樂廠牌“四大巨頭”中三家的音樂錄像，它們是[環球音樂集團](../Page/环球音乐集团.md "wikilink")、[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")及[EMI](../Page/EMI.md "wikilink")。\[15\][華納音樂集團](../Page/華納音樂集團.md "wikilink")曾在先前被報導可能是內容提供商之一，\[16\]但隨後卻是與它的對手[音樂電視網](../Page/音樂電視網.md "wikilink")結盟。\[17\]而[EMI](../Page/EMI.md "wikilink")則在沒有擁有股份的情況下授權VEVO使用其內容。\[18\]後來EMI公司被環球、索尼收購而消滅。
 
 到了2016年，前述四大廠牌之一的華納音樂集團也開始與VEVO合作。\[19\]也就是說，音樂廠牌三大巨頭全都與VEVO合作。
 
 ## 服務範圍
 
-vevo.com的服務現階段僅限於美國、加拿大、英国、波蘭、爱尔蘭、西班牙、意大利、法國、澳大利亞、新西蘭、南非以及巴西地區。\[20\]此網站原定於2010年推出全球性服務，\[21\]但截至2013年1月1日，vevo.com的服務仍然沒有覆蓋以上國家以外的地區。\[22\]而VEVO的官方博客則解釋說因為授權原因導致延遲推出全球性服務。\[23\]
-大部份VEVO的影片均可以在[YouTube上觀看](../Page/YouTube.md "wikilink")，而剩下的一小部份則會被封鎖，並會顯示出“該錄像包含VEVO的內容，上傳者已禁止在您的國家/地區播放此錄像”的信息。\[24\]于2011年4月26日，Vevo.com開始向英国和爱尔兰提供服務。\[25\]於2012年4月16日，MCM娛樂把vevo.com的服務帶到澳大利亞和新西蘭。於2012年8月14日，巴西成為了[拉丁美洲首個能夠使用vevo](../Page/拉丁美洲.md "wikilink").com服務的國家。而VEVO亦預計在2012年於6個歐洲或拉丁美洲國家中推出服務。\[26\]
-於2012年10月，VEVO在南非推出服務，使之成為非洲首個能夠使用vevo.com服務的國家。\[27\]於2012年11月15日起，西班牙、意大利和法國亦能使用vevo.com服務。\[28\]
+vevo.com的服務現階段僅限於美國、加拿大、英国、波蘭、爱尔蘭、西班牙、意大利、法國、澳大利亞、新西蘭、南非以及巴西地區。\[20\]此網站原定於2010年推出全球性服務，\[21\]但截至2013年1月1日，vevo.com的服務仍然沒有覆蓋以上國家以外的地區。\[22\]而VEVO的官方博客則解釋說因為授權原因導致延遲推出全球性服務。\[23\] 大部份VEVO的影片均可以在[YouTube](../Page/YouTube.md "wikilink")上觀看，而剩下的一小部份則會被封鎖，並會顯示出“該錄像包含VEVO的內容，上傳者已禁止在您的國家/地區播放此錄像”的信息。\[24\]于2011年4月26日，Vevo.com開始向英国和爱尔兰提供服務。\[25\]於2012年4月16日，MCM娛樂把vevo.com的服務帶到澳大利亞和新西蘭。於2012年8月14日，巴西成為了[拉丁美洲](../Page/拉丁美洲.md "wikilink")首個能夠使用vevo.com服務的國家。而VEVO亦預計在2012年於6個歐洲或拉丁美洲國家中推出服務。\[26\] 於2012年10月，VEVO在南非推出服務，使之成為非洲首個能夠使用vevo.com服務的國家。\[27\]於2012年11月15日起，西班牙、意大利和法國亦能使用vevo.com服務。\[28\]
 
-VEVO亦可在一系列的平台上瀏覽，其中包括[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows
-Phone](../Page/Windows_Phone.md "wikilink")、[Google
-TV](../Page/Google_TV.md "wikilink")、[Boxee](https://zh.wikipedia.org/wiki/Boxee "wikilink")、[Roku和](https://zh.wikipedia.org/wiki/Roku "wikilink")[Xbox
-360](../Page/Xbox_360.md "wikilink")。\[29\]2010年8月，VEVO推出了平台為[iPhone的應用程式](https://zh.wikipedia.org/wiki/iPhone "wikilink")，允許用戶在iPhone上的VEVO目錄中下載媒體播放錄像並且創建播放列表。在擴展連接設備方面，VEVO在[Google
-TV以及](../Page/Google_TV.md "wikilink")[Boxee上亦開設了自己的頻道](https://zh.wikipedia.org/wiki/Boxee "wikilink")。2011年1月，VEVO釋出了其[Android版本應用程式](../Page/Android.md "wikilink")。VEVO指出其他行動平台上的VEVO應用程用將會陸續推出。\[30\]
+VEVO亦可在一系列的平台上瀏覽，其中包括[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")、[Google TV](../Page/Google_TV.md "wikilink")、[Boxee](https://zh.wikipedia.org/wiki/Boxee "wikilink")、[Roku和](https://zh.wikipedia.org/wiki/Roku "wikilink")[Xbox 360](../Page/Xbox_360.md "wikilink")。\[29\]2010年8月，VEVO推出了平台為[iPhone的應用程式](https://zh.wikipedia.org/wiki/iPhone "wikilink")，允許用戶在iPhone上的VEVO目錄中下載媒體播放錄像並且創建播放列表。在擴展連接設備方面，VEVO在[Google TV以及](../Page/Google_TV.md "wikilink")[Boxee上亦開設了自己的頻道](https://zh.wikipedia.org/wiki/Boxee "wikilink")。2011年1月，VEVO釋出了其[Android](../Page/Android.md "wikilink")版本應用程式。VEVO指出其他行動平台上的VEVO應用程用將會陸續推出。\[30\]
 
 ## 對於含限制內容影片的政策
 
@@ -33,16 +24,15 @@ TV以及](../Page/Google_TV.md "wikilink")[Boxee上亦開設了自己的頻道](
 
 VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次的影片。\[32\]
 
-  - 首個獲得認證的音樂錄像帶為加拿大歌手[艾薇兒·拉維尼的歌曲](../Page/艾薇兒·拉維尼.md "wikilink")《[女朋友](../Page/女朋友_\(艾薇兒·拉維尼歌曲\).md "wikilink")》（*Girlfriend*）。
+  - 首個獲得認證的音樂錄像帶為加拿大歌手[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")的歌曲《[女朋友](../Page/女朋友_\(艾薇兒·拉維尼歌曲\).md "wikilink")》（*Girlfriend*）。
 
 <!-- end list -->
 
-  - 首個獲得認證的歌詞版音樂錄像帶為美国樂團[魔力紅和美國饒舌歌手](../Page/魔力紅.md "wikilink")[维兹·卡利法的歌曲](../Page/维兹·卡利法.md "wikilink")《[公共電話](https://zh.wikipedia.org/wiki/公共電話_\(歌曲\) "wikilink")》（*Payphone*）。
+  - 首個獲得認證的歌詞版音樂錄像帶為美国樂團[魔力紅](../Page/魔力紅.md "wikilink")和美國饒舌歌手[维兹·卡利法](../Page/维兹·卡利法.md "wikilink")的歌曲《[公共電話](https://zh.wikipedia.org/wiki/公共電話_\(歌曲\) "wikilink")》（*Payphone*）。
 
 <!-- end list -->
 
-  - 首個獲得認證的音頻音樂錄像帶為法国樂團[傻瓜龐克和美国歌手](https://zh.wikipedia.org/wiki/傻瓜龐克 "wikilink")[法瑞尔·威廉姆斯的歌曲](../Page/法瑞尔·威廉姆斯.md "wikilink")《*[Get
-    Lucky](https://zh.wikipedia.org/wiki/Get_Lucky "wikilink")*》。
+  - 首個獲得認證的音頻音樂錄像帶為法国樂團[傻瓜龐克和美国歌手](https://zh.wikipedia.org/wiki/傻瓜龐克 "wikilink")[法瑞尔·威廉姆斯](../Page/法瑞尔·威廉姆斯.md "wikilink")的歌曲《*[Get Lucky](https://zh.wikipedia.org/wiki/Get_Lucky "wikilink")*》。
 
 ### 认证歌手/團體
 
@@ -828,7 +818,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 </tr>
 <tr class="odd">
 <td><p>《喜歡你說謊的樣子》</p></td>
-<td><p><a href="../Page/阿姆.md" title="wikilink">阿姆</a> <small>（ <a href="../Page/蕾哈娜.md" title="wikilink">蕾哈娜伴唱</a>）</small></p></td>
+<td><p><a href="../Page/阿姆.md" title="wikilink">阿姆</a> <small>（ <a href="../Page/蕾哈娜.md" title="wikilink">蕾哈娜</a>伴唱）</small></p></td>
 <td><p>2010年8月5日– 9月13日</p></td>
 <td><p>39天</p></td>
 <td></td>
@@ -914,7 +904,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <tr class="even">
 <td><p>不喜歡</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/宝贝_(贾斯汀·比伯歌曲)" title="wikilink">宝贝</a>》</p></td>
-<td><p><a href="../Page/贾斯汀·比伯.md" title="wikilink">贾斯汀·比伯</a> <small>（ <a href="../Page/卢达克里斯.md" title="wikilink">卢达克里斯伴唱</a>）</small></p></td>
+<td><p><a href="../Page/贾斯汀·比伯.md" title="wikilink">贾斯汀·比伯</a> <small>（ <a href="../Page/卢达克里斯.md" title="wikilink">卢达克里斯</a>伴唱）</small></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=kffacxfA7G4">5,660,840(-70.44%)</a></p></td>
 </tr>
 </tbody>
@@ -926,21 +916,13 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 
   -
   -
-[Category:2009年建立的网站](https://zh.wikipedia.org/wiki/Category:2009年建立的网站 "wikilink")
-[Category:Google服務](https://zh.wikipedia.org/wiki/Category:Google服務 "wikilink")
-[Category:YouTube](https://zh.wikipedia.org/wiki/Category:YouTube "wikilink")
-[Category:環球唱片](https://zh.wikipedia.org/wiki/Category:環球唱片 "wikilink")
-[Category:美国公司](https://zh.wikipedia.org/wiki/Category:美国公司 "wikilink")
-[Category:音樂網站](https://zh.wikipedia.org/wiki/Category:音樂網站 "wikilink")
+[Category:2009年建立的网站](https://zh.wikipedia.org/wiki/Category:2009年建立的网站 "wikilink") [Category:Google服務](https://zh.wikipedia.org/wiki/Category:Google服務 "wikilink") [Category:YouTube](https://zh.wikipedia.org/wiki/Category:YouTube "wikilink") [Category:環球唱片](https://zh.wikipedia.org/wiki/Category:環球唱片 "wikilink") [Category:美国公司](https://zh.wikipedia.org/wiki/Category:美国公司 "wikilink") [Category:音樂網站](https://zh.wikipedia.org/wiki/Category:音樂網站 "wikilink")
 
-1.  [Music Industry Companies Opening Video
-    Site](http://www.nytimes.com/2009/12/08/business/media/08vevo.html)
-    - New York Times, 2009-12-07
+1.  [Music Industry Companies Opening Video Site](http://www.nytimes.com/2009/12/08/business/media/08vevo.html) - New York Times, 2009-12-07
 
 2.
 
-3.  Carr, Austin. *Vevo CEO on MTV, Jersey Shore, Google TV, Music
-    Videos*. Fast Company.com, 2010-10-27.
+3.  Carr, Austin. *Vevo CEO on MTV, Jersey Shore, Google TV, Music Videos*. Fast Company.com, 2010-10-27.
 
 4.
 
@@ -951,48 +933,32 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 7.
 8.
 
-9.  [Vevo Censors Music Videos for
-    Brands](http://adage.com/digital/article?article_id=141638) -
-    Advertising Age, 2010-01-22
+9.  [Vevo Censors Music Videos for Brands](http://adage.com/digital/article?article_id=141638) - Advertising Age, 2010-01-22
 
-10. [Release Notes: Facebook Like Button, Vevo Store and
-    more](http://blog.vevo.com/release-notes-facebook-like-button-vevo-store-and-more/)
-     - Vevo.com, 8.4.10
+10. [Release Notes: Facebook Like Button, Vevo Store and more](http://blog.vevo.com/release-notes-facebook-like-button-vevo-store-and-more/)  - Vevo.com, 8.4.10
 
-11. [Notes from the Factory
-    Floor](http://blog.vevo.com/notes-from-the-factory-floor/)  -
-    Vevo.com, 2010-05-20
+11. [Notes from the Factory Floor](http://blog.vevo.com/notes-from-the-factory-floor/)  - Vevo.com, 2010-05-20
 
 12.
 
-13. [YouTube Helps Vevo Overtake MySpace Music In The
-    U.S.](http://techcrunch.com/2010/01/13/youtube-vevo-overtake-myspace-music/)
-    - Techcrunch, 2010-01-13
+13. [YouTube Helps Vevo Overtake MySpace Music In The U.S.](http://techcrunch.com/2010/01/13/youtube-vevo-overtake-myspace-music/) - Techcrunch, 2010-01-13
 
-14. [Vevo Launches as \#1 Music Network in the
-    US](http://blog.vevo.com/vevo-launches-as-1-music-network-in-the-us/)
-     Vevo.com, 2010-01-13
+14. [Vevo Launches as \#1 Music Network in the US](http://blog.vevo.com/vevo-launches-as-1-music-network-in-the-us/)  Vevo.com, 2010-01-13
 
 15.
 
 16.
 
-17. [MTV Overtakes Vevo as Top Online Music
-    Destination](http://blogs.wsj.com/speakeasy/2010/09/08/mtv-overtakes-vevo-as-top-online-music-destination/)
-    - Wall Street Journal, 8 September 2010
+17. [MTV Overtakes Vevo as Top Online Music Destination](http://blogs.wsj.com/speakeasy/2010/09/08/mtv-overtakes-vevo-as-top-online-music-destination/) - Wall Street Journal, 8 September 2010
 
-18. [EMI Licenses Content to Vevo in 11th-Hour
-    Deal](http://www.wired.com/epicenter/2009/12/emi-licenses-content-to-vevo-in-eleventh-hour-deal/)
-    - Wired, 2009-12-07
+18. [EMI Licenses Content to Vevo in 11th-Hour Deal](http://www.wired.com/epicenter/2009/12/emi-licenses-content-to-vevo-in-eleventh-hour-deal/) - Wired, 2009-12-07
 
 19.
 20.
 
 21.
 
-22. [YouTube Globalization Continues with Four New Languages
-    (Exclusive)](http://www.wired.com/epicenter/2010/08/youtube-globalization-continues-with-five-new-languages-exclusive/)
-    - Wired, 2010-08-25.
+22. [YouTube Globalization Continues with Four New Languages (Exclusive)](http://www.wired.com/epicenter/2010/08/youtube-globalization-continues-with-five-new-languages-exclusive/) - Wired, 2010-08-25.
 
 23.
 
@@ -1048,8 +1014,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 
 49. [17](http://www.vevo.com/artist/selena-gomez) - 赛琳娜·戈梅兹VEVO上的视频列表
 
-50. [18](http://www.vevo.com/artist/enrique-iglesias) -
-    安立奎·伊格萊西亞斯VEVO上的视频列表
+50. [18](http://www.vevo.com/artist/enrique-iglesias) - 安立奎·伊格萊西亞斯VEVO上的视频列表
 
 51. [19](http://www.vevo.com/artist/maroon-5) - 魔力红VEVO上的视频列表
 
@@ -1069,8 +1034,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 
 59. [27](http://www.vevo.com/artist/will.i.am) - will.i.amVEVO上的视频列表
 
-60. [28](http://www.vevo.com/artist/wisin-&-yandel) -
-    Wisin\&YandelVEVO上的视频列表
+60. [28](http://www.vevo.com/artist/wisin-&-yandel) - Wisin\&YandelVEVO上的视频列表
 
 61. [29](http://www.vevo.com/artist/guns-n'-roses) - 槍與玫瑰VEVO上的视频列表
 
@@ -1100,8 +1064,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 
 74. [42](http://www.vevo.com/artist/drake) - 德雷克VEVO上的视频列表
 
-75. [43](http://www.vevo.com/artist/justin-timberlake) -
-    賈斯汀·提姆布萊克VEVO上的视频列表
+75. [43](http://www.vevo.com/artist/justin-timberlake) - 賈斯汀·提姆布萊克VEVO上的视频列表
 
 76. [44](http://www.vevo.com/artist/50cent) - 50美分VEVO上的视频列表
 
@@ -1117,13 +1080,11 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 
 82. [50](http://www.vevo.com/artist/ellie-goulding) - 艾麗·高登VEVO上的视频列表
 
-83. [51](http://www.vevo.com/artist/carly-rae-jepsen) -
-    卡莉·蕾·傑普森VEVO上的视频列表
+83. [51](http://www.vevo.com/artist/carly-rae-jepsen) - 卡莉·蕾·傑普森VEVO上的视频列表
 
 84. [52](http://www.vevo.com/artist/taio-cruz) - 泰歐·克魯斯VEVO上的视频列表
 
-85. [53](http://www.vevo.com/artist/foster-the-people) -
-    擁抱人群樂團VEVO上的视频列表
+85. [53](http://www.vevo.com/artist/foster-the-people) - 擁抱人群樂團VEVO上的视频列表
 
 86. [54](http://www.vevo.com/artist/dirty-money) - DirtyMoneyVEVO上的视频列表
 
@@ -1149,11 +1110,9 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 
 97. [65](http://www.vevo.com/artist/nirvana) - 超脫樂團VEVO上的视频列表
 
-98. [66](http://www.vevo.com/artist/daddy-yankee) -
-    DaddyYankeeVEVO上的视频列表
+98. [66](http://www.vevo.com/artist/daddy-yankee) - DaddyYankeeVEVO上的视频列表
 
-99. [67](http://www.vevo.com/artist/swedish-house-mafia) -
-    瑞典浩室黑手黨VEVO上的视频列表
+99. [67](http://www.vevo.com/artist/swedish-house-mafia) - 瑞典浩室黑手黨VEVO上的视频列表
 
 100. [68](http://www.vevo.com/artist/young-money) - YoungMoneyVEVO上的视频列表
 
@@ -1163,8 +1122,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 
 103. [71](http://www.vevo.com/artist/daft-punk) - 傻朋克VEVO上的视频列表
 
-104. [72](http://www.vevo.com/artist/nelly-kim-furtadog) -
-     妮莉·費塔朵VEVO上的视频列表
+104. [72](http://www.vevo.com/artist/nelly-kim-furtadog) - 妮莉·費塔朵VEVO上的视频列表
 
 105. [73](http://www.vevo.com/artist/robin-thicke) - 羅賓·西克VEVO上的视频列表
 
@@ -1174,21 +1132,17 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 
 108. [76](http://www.vevo.com/artist/aqua) - 水叮噹VEVO上的视频列表
 
-109. [77](http://www.vevo.com/artist/mike-will-made-it) -
-     MikeWillMadeItVEVO上的视频列表
+109. [77](http://www.vevo.com/artist/mike-will-made-it) - MikeWillMadeItVEVO上的视频列表
 
-110. [78](http://www.vevo.com/artist/prince-royceke) -
-     PrinceRoyce克VEVO上的视频列表
+110. [78](http://www.vevo.com/artist/prince-royceke) - PrinceRoyce克VEVO上的视频列表
 
-111. [79](http://www.vevo.com/artist/maitre-gims) - Maître
-     GimsVEVO上的视频列表
+111. [79](http://www.vevo.com/artist/maitre-gims) - Maître GimsVEVO上的视频列表
 
 112. [80](http://www.vevo.com/artist/lorde) - 蘿兒VEVO上的视频列表
 
 113. [81](http://www.vevo.com/artist/the-crenberries) - 小紅莓樂團VEVO上的视频列表
 
-114. [82](http://www.vevo.com/artist/3-doors-down) -
-     3DoorsDownVEVO上的视频列表
+114. [82](http://www.vevo.com/artist/3-doors-down) - 3DoorsDownVEVO上的视频列表
 
 115. [83](http://www.vevo.com/artist/usher) - 亞瑟小子VEVO上的视频列表
 
@@ -1198,8 +1152,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 
 118. [86](http://www.vevo.com/artist/snopp-dogg) - 史努比狗狗VEVO上的视频列表
 
-119. [87](http://www.vevo.com/artist/romeo-snatos) -
-     RomeoSnatosVEVO上的视频列表
+119. [87](http://www.vevo.com/artist/romeo-snatos) - RomeoSnatosVEVO上的视频列表
 
 120. [88](http://www.vevo.com/artist/anna-kendrick) - 安娜·坎卓克VEVO上的视频列表
 
@@ -1215,37 +1168,31 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 
 126. [94](http://www.vevo.com/artist/iggy-azalea) - 說唱骨姬VEVO上的视频列表
 
-127. [95](http://www.vevo.com/artist/christina-aguilera) -
-     克莉絲汀·阿奎萊拉VEVO上的视频列表
+127. [95](http://www.vevo.com/artist/christina-aguilera) - 克莉絲汀·阿奎萊拉VEVO上的视频列表
 
 128. [96](http://www.vevo.com/artist/john-legend) - 約翰傳奇VEVO上的视频列表
 
-129. [97](http://www.vevo.com/artist/bloodhound-gang) -
-     BloodhoundGangVEVO上的视频列表
+129. [97](http://www.vevo.com/artist/bloodhound-gang) - BloodhoundGangVEVO上的视频列表
 
 130. [98](http://www.vevo.com/artist/kelly-clarkson) - 凱莉·克萊森VEVO上的视频列表
 
 131. [99](http://www.vevo.com/artist/marc-anthony) - 馬克·安東尼VEVO上的视频列表
 
-132. [100](http://www.vevo.com/artist/of-monsters-and-men) -
-     OfMonstersAndMenVEVO上的视频列表
+132. [100](http://www.vevo.com/artist/of-monsters-and-men) - OfMonstersAndMenVEVO上的视频列表
 
-133. [101](http://www.vevo.com/artist/willow-smith) -
-     WillowSmithVEVO上的视频列表
+133. [101](http://www.vevo.com/artist/willow-smith) - WillowSmithVEVO上的视频列表
 
 134. [102](http://www.vevo.com/artist/bastille) - 巴士底樂團VEVO上的视频列表
 
 135. [103](http://www.vevo.com/artist/capital-cities) - 約翰傳奇VEVO上的视频列表
 
-136. [104](http://www.vevo.com/artist/cali-&-ei-dandee) -
-     CaliElDandeeVEVO上的视频列表
+136. [104](http://www.vevo.com/artist/cali-&-ei-dandee) - CaliElDandeeVEVO上的视频列表
 
 137. [105](http://www.vevo.com/artist/belinda) - belindaVEVO上的视频列表
 
 138.
 
-139. [106](http://en.wikipedia.org/wiki/List_of_most_viewed_YouTube_videos)
-     - 觀看次數最多的YouTube影片列表
+139. [106](http://en.wikipedia.org/wiki/List_of_most_viewed_YouTube_videos) - 觀看次數最多的YouTube影片列表
 
 140.
 

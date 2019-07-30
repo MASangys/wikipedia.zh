@@ -1,5 +1,4 @@
-Taiwan
-Open台灣電子競技公開賽是由[台灣電競聯盟所舉辦的大型的競技公開賽](https://zh.wikipedia.org/wiki/台灣電競聯盟 "wikilink")，包含甲組電競聯賽季冠軍賽、職業電競聯賽季冠軍賽(年度總冠軍賽)、SF校際盃年度冠軍賽。
+Taiwan Open台灣電子競技公開賽是由[台灣電競聯盟所舉辦的大型的競技公開賽](https://zh.wikipedia.org/wiki/台灣電競聯盟 "wikilink")，包含甲組電競聯賽季冠軍賽、職業電競聯賽季冠軍賽(年度總冠軍賽)、SF校際盃年度冠軍賽。
 
 台灣電競董事長黃博弘表示希望透過公開賽的型式，並且開放觀眾入場和現場直播，讓粉絲可以感受賽事魅力以外，也能讓民眾能夠更了解電競，成為最夯的休閒產業。\[1\]
 
@@ -533,12 +532,9 @@ DiviNe主將I[12]<br />
 
 ## 外部連結
 
-  - [Taiwan
-    Open台灣電子競技公開賽](https://web.archive.org/web/20101203153745/http://www.esports.com.tw/TaiwanOpen/index.html)
-  - [2010-2011 TAIWAN OPEN 台灣電子競技公開賽
-    冬季總決賽](https://web.archive.org/web/20110205081510/http://www.esports.com.tw/2011TaiwanOpen/)
-  - [2012 TAIWAN OPEN 台灣電子競技公開賽
-    冬季總決賽](https://web.archive.org/web/20120116215410/http://www.esports.com.tw/event/20120106/index.html)
+  - [Taiwan Open台灣電子競技公開賽](https://web.archive.org/web/20101203153745/http://www.esports.com.tw/TaiwanOpen/index.html)
+  - [2010-2011 TAIWAN OPEN 台灣電子競技公開賽 冬季總決賽](https://web.archive.org/web/20110205081510/http://www.esports.com.tw/2011TaiwanOpen/)
+  - [2012 TAIWAN OPEN 台灣電子競技公開賽 冬季總決賽](https://web.archive.org/web/20120116215410/http://www.esports.com.tw/event/20120106/index.html)
   - [2013TWOP台灣電子競技公開賽](https://web.archive.org/web/20130730071152/http://www.esports.com.tw/2013twop/index.html)
 
 ## 參考文獻
@@ -549,30 +545,21 @@ DiviNe主將I[12]<br />
 
 </div>
 
-[Category:台灣電子競技聯盟舉辦的賽事](https://zh.wikipedia.org/wiki/Category:台灣電子競技聯盟舉辦的賽事 "wikilink")
-[Category:台灣體育競賽](https://zh.wikipedia.org/wiki/Category:台灣體育競賽 "wikilink")
+[Category:台灣電子競技聯盟舉辦的賽事](https://zh.wikipedia.org/wiki/Category:台灣電子競技聯盟舉辦的賽事 "wikilink") [Category:台灣體育競賽](https://zh.wikipedia.org/wiki/Category:台灣體育競賽 "wikilink")
 
-1.  參照[直擊靈魂最深處，體驗千人吶喊的感動！「Taiwan
-    Open台灣電子競技公開賽」7月24日、25日登場](http://www.esports.com.tw/doc.php?id=1640)
+1.  參照[直擊靈魂最深處，體驗千人吶喊的感動！「Taiwan Open台灣電子競技公開賽」7月24日、25日登場](http://www.esports.com.tw/doc.php?id=1640)
 
-2.  參照[AVA戰地之王「2011
-    春季錦標賽」，總獎金高達50萬，即日開放報名！](http://www.esports.com.tw/2011/subpage/page/4/0/0/2722)
+2.  參照[AVA戰地之王「2011 春季錦標賽」，總獎金高達50萬，即日開放報名！](http://www.esports.com.tw/2011/subpage/page/4/0/0/2722)
 
 3.  參照[甲組沒有CSO嗎](http://www.esports.com.tw/bbs/index.php?showtopic=10210)
 
-
 4.  參照[全新甲組項目！體驗「國球」的虛擬世界，全民一起打棒球！](http://www.esports.com.tw/2011/subpage/doc/3771)
-
 
 5.  參照[暑假最大電競盛事！首次三合一國際級賽事震撼降臨，暑假high翻高雄義大](http://www.esports.com.tw/news_detail.php?id=3108)
 
-
-6.  詳情可見[《聯盟》上半季冠軍將於棚內開打，敬請期待Taiwan eSports
-    Open年度盛會](http://www.esports.com.tw/news_detail.php?id=4301)
-
+6.  詳情可見[《聯盟》上半季冠軍將於棚內開打，敬請期待Taiwan eSports Open年度盛會](http://www.esports.com.tw/news_detail.php?id=4301)
 
 7.  詳情可見[《2013TWOP》燃燒你的電競魂，暑假最大電競盛事即將登陸中台灣！](http://www.esports.com.tw/news_detail.php?id=5370)
-
 
 8.  參照
 
@@ -591,31 +578,23 @@ DiviNe主將I[12]<br />
 
 16. 現為華義spider的Rain
 
-17. 在[「桶神」再臨，oPTTo馬桶小一分險勝，重回甲組王座](http://www.esports.com.tw/2011/subpage/doc/4066)
-    這篇官方新聞
-    華義spider的Rain(當時叫HiLN蒼雨)及oRFTo冰樂兩人分別打成W.SpiderRain和XPEC_IM.Wei
-    但兩人是否加入職業隊以官方新聞稿為主
+17. 在[「桶神」再臨，oPTTo馬桶小一分險勝，重回甲組王座](http://www.esports.com.tw/2011/subpage/doc/4066) 這篇官方新聞 華義spider的Rain(當時叫HiLN蒼雨)及oRFTo冰樂兩人分別打成W.SpiderRain和XPEC_IM.Wei 但兩人是否加入職業隊以官方新聞稿為主
 
 18. 緯來育樂台轉播時把SpiderRazer和Rikytan打為華義二隊及Rky
 
 19.
-20. 在[華義二軍擊潰強敵，SpiderRazer甲組聯賽封王](http://www.esports.com.tw/2011/subpage/doc/4074)
-    裡橘子熊隊職業二隊打成Gama熊職業二隊
+20. 在[華義二軍擊潰強敵，SpiderRazer甲組聯賽封王](http://www.esports.com.tw/2011/subpage/doc/4074) 裡橘子熊隊職業二隊打成Gama熊職業二隊
 
 21. 緯來育樂台轉播時打為虛擬城市
 
 22. 緯來育樂台轉播時把華義電競二隊和完全靠槍法打為華義二隊及靠槍法
 
 23.
-24. 原訂1/14進行總冠軍，但因為當天的比賽尚未結束初賽的部分，因此原定六點開打的總冠軍賽無法如期展開。總冠軍賽改成1/15進行
-    詳情請看[1](http://forum.gamer.com.tw/C.php?bsn=10964&snA=149018&tnum=4)[2](http://bb.wasabii.com.tw/bb2_notice/NoticeContent.aspx?K=16489)
+24. 原訂1/14進行總冠軍，但因為當天的比賽尚未結束初賽的部分，因此原定六點開打的總冠軍賽無法如期展開。總冠軍賽改成1/15進行 詳情請看[1](http://forum.gamer.com.tw/C.php?bsn=10964&snA=149018&tnum=4)[2](http://bb.wasabii.com.tw/bb2_notice/NoticeContent.aspx?K=16489)
 
-25. 分組的詳細方式請閱[2011
-    SF校際盃夏季大賽獎金及參賽資格的說明](http://sf.wayi.com.tw/event/110530/content_a01.htm)
-
+25. 分組的詳細方式請閱[2011 SF校際盃夏季大賽獎金及參賽資格的說明](http://sf.wayi.com.tw/event/110530/content_a01.htm)
 
 26.
 27. 2012/6/29已經先進行了季軍戰，最終季軍戰的比賽結果請參考:[MacSed關鍵兩勝，大陸5：2擊敗澳洲拿下季軍](http://www.esports.com.tw/news_detail.php?id=3171)
-
 
 28.

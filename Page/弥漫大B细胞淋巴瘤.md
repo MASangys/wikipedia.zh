@@ -1,5 +1,4 @@
-**弥漫大B细胞淋巴瘤**（**Diffuse large B-cell lymphoma** DLBL or
-DLBCL）是一种常见的恶性[淋巴瘤](../Page/淋巴瘤.md "wikilink")。占成人淋巴瘤患者近40%。\[1\]
+**弥漫大B细胞淋巴瘤**（**Diffuse large B-cell lymphoma** DLBL or DLBCL）是一种常见的恶性[淋巴瘤](../Page/淋巴瘤.md "wikilink")。占成人淋巴瘤患者近40%。\[1\]
 
 ## 分型
 
@@ -21,11 +20,9 @@ DLBCL）是一种常见的恶性[淋巴瘤](../Page/淋巴瘤.md "wikilink")。�
 
 {{-}}
 
-[Category:淋巴瘤](https://zh.wikipedia.org/wiki/Category:淋巴瘤 "wikilink")
-[Category:癌症](https://zh.wikipedia.org/wiki/Category:癌症 "wikilink")
+[Category:淋巴瘤](https://zh.wikipedia.org/wiki/Category:淋巴瘤 "wikilink") [Category:癌症](https://zh.wikipedia.org/wiki/Category:癌症 "wikilink")
 
-1.  [Pathobiology of the aggressive and highly aggressive non-Hodgkin's
-    lymphomas](http://www.utdol.com/utd/content/topic.do?topicKey=lymphoma/20525)
+1.  [Pathobiology of the aggressive and highly aggressive non-Hodgkin's lymphomas](http://www.utdol.com/utd/content/topic.do?topicKey=lymphoma/20525)
 
 2.
 

@@ -1,6 +1,4 @@
-《**GUNDAM無雙3**》是根據[機動戰士的戰略](../Page/GUNDAM系列作品.md "wikilink")[動作](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，是2008年[GUNDAM無雙2的續集](../Page/GUNDAM無雙2.md "wikilink")。它是由[光榮和](https://zh.wikipedia.org/wiki/光榮 "wikilink")[Omega
-Force開發的](https://zh.wikipedia.org/wiki/Omega_Force "wikilink")，然後由[南夢宮萬代發表](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")。
-GUNDAM無雙3是在2010年9月的電玩雜誌[Fami通公開對外發表](../Page/Fami通.md "wikilink")。\[1\]北美的GUNDAM無雙3在2011年2月4號公開對外發表。\[2\]
+《**GUNDAM無雙3**》是根據[機動戰士的戰略](../Page/GUNDAM系列作品.md "wikilink")[動作](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，是2008年[GUNDAM無雙2](../Page/GUNDAM無雙2.md "wikilink")的續集。它是由[光榮和](https://zh.wikipedia.org/wiki/光榮 "wikilink")[Omega Force開發的](https://zh.wikipedia.org/wiki/Omega_Force "wikilink")，然後由[南夢宮萬代發表](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")。 GUNDAM無雙3是在2010年9月的電玩雜誌[Fami通](../Page/Fami通.md "wikilink")公開對外發表。\[1\]北美的GUNDAM無雙3在2011年2月4號公開對外發表。\[2\]
 
 ## 與GUNDAM無雙2的不同
 
@@ -31,8 +29,7 @@ GUNDAM無雙3的遊戲進行再也不會因為玩家被擊敗而結束。這一�
   - [新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")
   - [∀GUNDAM](../Page/∀GUNDAM.md "wikilink")
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
-  - [GUNDAM SEED
-    DESTINY](https://zh.wikipedia.org/wiki/GUNDAM_SEED_DESTINY "wikilink")
+  - [GUNDAM SEED DESTINY](https://zh.wikipedia.org/wiki/GUNDAM_SEED_DESTINY "wikilink")
   - [機動戰士V GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")
 
@@ -40,8 +37,7 @@ GUNDAM無雙3的遊戲進行再也不會因為玩家被擊敗而結束。這一�
 
   - [機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")
   - [機動戰士GUNDAM UC](../Page/機動戰士GUNDAM_UC.md "wikilink")
-  - [機動戰士GUNDAM
-    0083：星塵回憶](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")
+  - [機動戰士GUNDAM 0083：星塵回憶](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")
   - [機動新世紀GUNDAM X](../Page/機動新世紀GUNDAM_X.md "wikilink")\[9\]
 
 ## 外部連結
@@ -51,12 +47,7 @@ GUNDAM無雙3的遊戲進行再也不會因為玩家被擊敗而結束。這一�
 
 ## 參考文獻
 
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:GUNDAM無雙系列](https://zh.wikipedia.org/wiki/Category:GUNDAM無雙系列 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:萬代遊戲](https://zh.wikipedia.org/wiki/Category:萬代遊戲 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
+[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:GUNDAM無雙系列](https://zh.wikipedia.org/wiki/Category:GUNDAM無雙系列 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:萬代遊戲](https://zh.wikipedia.org/wiki/Category:萬代遊戲 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
 
 1.  <http://www.siliconera.com/2010/09/07/gundam-musou-3-beam-sabers-ps3-and-xbox-360-this-winter/>
 2.  <http://ps3.ign.com/articles/114/1147892p1.html> GUNDAM無雙3美國新聞稿

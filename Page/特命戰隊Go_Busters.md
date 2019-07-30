@@ -1,15 +1,10 @@
-《**特命戰隊Go
-Busters**》（原題：）是日本[東映公司在](../Page/東映.md "wikilink")2012年製作的「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」第36部[特攝作品](https://zh.wikipedia.org/wiki/特攝 "wikilink")。2012年（平成24年）2月26日至2013年（平成25年）2月10日每週日早上7點30分到8點在[朝日電視台播出](../Page/朝日電視台.md "wikilink")\[1\]\[2\]\[3\]
-，全50集，以高畫質數位電視播映。本作為東映首次採用《[機械](https://zh.wikipedia.org/wiki/機械 "wikilink")》作為主題的戰隊，最初編組主要成員為二男一女組合，顏色配對分別依序為紅、藍、黃，並各搭配一个搭档「Buddyloid」。
+《**特命戰隊Go Busters**》（原題：）是日本[東映](../Page/東映.md "wikilink")公司在2012年製作的「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」第36部[特攝作品](https://zh.wikipedia.org/wiki/特攝 "wikilink")。2012年（平成24年）2月26日至2013年（平成25年）2月10日每週日早上7點30分到8點在[朝日電視台](../Page/朝日電視台.md "wikilink")播出\[1\]\[2\]\[3\] ，全50集，以高畫質數位電視播映。本作為東映首次採用《[機械](https://zh.wikipedia.org/wiki/機械 "wikilink")》作為主題的戰隊，最初編組主要成員為二男一女組合，顏色配對分別依序為紅、藍、黃，並各搭配一个搭档「Buddyloid」。
 
-台灣地區由[東森幼幼台從](../Page/東森幼幼台.md "wikilink")2013年9月15日到2014年8月24日逢週日下午17:00播出中文配音版，香港地區則由[無綫電視翡翠台於](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")2014年4月6日至2015年4月5日週日早上9:30雙語廣播（粵語配音及日語）。
+台灣地區由[東森幼幼台](../Page/東森幼幼台.md "wikilink")從2013年9月15日到2014年8月24日逢週日下午17:00播出中文配音版，香港地區則由[無綫電視翡翠台於](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")2014年4月6日至2015年4月5日週日早上9:30雙語廣播（粵語配音及日語）。
 
 ## 故事概要
 
-新西曆1999年，一個超級電腦主程式感染了病毒，此電腦病毒具有自我，轉眼間佔據了傳輸研究中心的主控電腦並開始狂飆；人類只好選擇把整棟研究中心都轉移到異空間。在這同時，人類也因此得到了新的能源「Enetron」。
-另一方面，這事件也讓3名在轉移異空間前逃離研究中心的少年少女，以及3台工作機器人的命運產生很大的變化。
-13年後的新西曆2012年，Enetron已經成為人類日常生活中的必備能源。可是，當年那個被轉移到異空間的電腦病毒卻又再次回到了這個世界。任命前往克服這個危機的，便是13年前的事件後得到了特殊力量的3名「Busters」，和得到了自我的3台原本用於輔助工作的機器人「Buddyroid」。
-他們就是接受了「守護人們」的這個「特命」而戰的戰士——「特命戰隊Go Busters」！
+新西曆1999年，一個超級電腦主程式感染了病毒，此電腦病毒具有自我，轉眼間佔據了傳輸研究中心的主控電腦並開始狂飆；人類只好選擇把整棟研究中心都轉移到異空間。在這同時，人類也因此得到了新的能源「Enetron」。 另一方面，這事件也讓3名在轉移異空間前逃離研究中心的少年少女，以及3台工作機器人的命運產生很大的變化。 13年後的新西曆2012年，Enetron已經成為人類日常生活中的必備能源。可是，當年那個被轉移到異空間的電腦病毒卻又再次回到了這個世界。任命前往克服這個危機的，便是13年前的事件後得到了特殊力量的3名「Busters」，和得到了自我的3台原本用於輔助工作的機器人「Buddyroid」。 他們就是接受了「守護人們」的這個「特命」而戰的戰士——「特命戰隊Go Busters」！
 
 ## 特色
 
@@ -18,12 +13,11 @@ Busters**》（原題：）是日本[東映公司在](../Page/東映.md "wikilin
   - 本作最大的特色是取消了使用每集同樣固定鏡頭的**變身特寫**和**依序唱名**這兩種近代戰隊特有的必備畫面，改用每回不固定模式，且不强求全員到齊\[4\]。本作與前作《[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")》做出了區分，也就是與過去的戰隊系列風格完全不同，同時取消了“怪人被打爆並巨大化”的設定（第32話除外），在新世紀以來相當少見\[5\]，使等身戰與巨大戰同時進行\[6\]。
   - 本作繼《[爆龍戰隊暴連者](../Page/爆龍戰隊暴連者.md "wikilink")》後，睽違9年後出現非實際獲得力量的戰士。
   - 以往過去為追加戰士的「金」和「銀」兩種配色，在本作中為中期成員的配色，與《[炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")》一樣中期成員的配色。
-  - 本作繼《[特搜戰隊刑事連者](../Page/特搜戰隊刑事連者.md "wikilink")》後，第二次出現[摩托車座騎的戰隊](../Page/摩托車.md "wikilink")，前後相隔8年。
+  - 本作繼《[特搜戰隊刑事連者](../Page/特搜戰隊刑事連者.md "wikilink")》後，第二次出現[摩托車](../Page/摩托車.md "wikilink")座騎的戰隊，前後相隔8年。
   - 本作戰鬥結束時就脫下頭盔(Beet Buster,Stag Buster除外)\[7\]
   - 本作自《[轟轟戰隊冒險者](../Page/轟轟戰隊冒險者.md "wikilink")》以來連續七次出現女性黃色戰士成員，同時這也是2010年代之中出現的第三位女性黃色戰士。
   - 命名方面，本作是繼1999年的《[救急戰隊GOGOV](../Page/救急戰隊GOGOV.md "wikilink")》後，再一次不以「XX連者」或「XX者」為戰隊名稱，首次使用英文單字**Buster(s)**來命名，且戰隊名稱是用名詞複數型態命名，因此多了一個s（ズ）的音。隊員也不以「XX+顏色」為名。
-  - 在主題曲方面，片頭部分取消了1982年《[大戰隊風鏡V](https://zh.wikipedia.org/wiki/大戰隊風鏡V "wikilink")》30年來每個戰隊都有的片頭隊呼（title
-    call）\[8\]，並且標題亦改成在歌曲結束前才出現。
+  - 在主題曲方面，片頭部分取消了1982年《[大戰隊風鏡V](https://zh.wikipedia.org/wiki/大戰隊風鏡V "wikilink")》30年來每個戰隊都有的片頭隊呼（title call）\[8\]，並且標題亦改成在歌曲結束前才出現。
   - 在巨型機器人戰鬥場面，採取許多真實自然光外景拍攝；而本作巨大战并非通常“结尾过场”一用，而是作为剧情存在，剧中亦有很多写实化的描写，如能量供给、更换装备、替换设备等，更有单集巨大战占有三分之二的时长的局面。
   - 本作繼前作《[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")》在變身前後成員彼此間都是以名字稱呼的做法。
   - 服裝風格偏向[金屬英雄系列](https://zh.wikipedia.org/wiki/金屬英雄系列 "wikilink")，歷年來戰隊變身服裝主要以緊身衣為主，但是這一代戰隊變身後的服裝質料是以皮衣為主，與往年戰隊相較衣服質感比較厚實。
@@ -51,12 +45,9 @@ Busters**》（原題：）是日本[東映公司在](../Page/東映.md "wikilin
 
 新西曆1999年，於日本境內大南地區，一處名為**傳輸研究中心**的機構——擁有專屬Enetron能量儲存槽的新型研究所——在[聖誕節的晚上](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")，研究所主系統無預警地被來歷不明的程式病毒入侵和感染。此程式病毒在獲取龐大的數據資料後，衍生出了自我意識，並且演變成最糟糕的情況——**生命體Messiah**的出現。
 
-情況緊迫之下，研究所所長（弘的父親）作出了重大的抉擇。為了避免Messiah現象（感染病毒後電腦程式的成長、擴散）藉由網際網路擴散，蔓延到全世界，決定使用物質傳輸裝置將整棟建築物轉移到亞空間，並囑託部下黑木猛（後為特命部的司令官）要將病毒程式shut
-down。然而，雖然能暫時的渡過危機，但Messiah現象總有一天會從亞空間穿梭回來。同時，困在研究室裡的人員（弘、陽子的父母親也在其中）也因此生死未卜。
+情況緊迫之下，研究所所長（弘的父親）作出了重大的抉擇。為了避免Messiah現象（感染病毒後電腦程式的成長、擴散）藉由網際網路擴散，蔓延到全世界，決定使用物質傳輸裝置將整棟建築物轉移到亞空間，並囑託部下黑木猛（後為特命部的司令官）要將病毒程式shut down。然而，雖然能暫時的渡過危機，但Messiah現象總有一天會從亞空間穿梭回來。同時，困在研究室裡的人員（弘、陽子的父母親也在其中）也因此生死未卜。
 
-所長想解救身在研究所裡的弘（7歲）、龍次（15歲）和陽子（4歲）。他為避免他們遭受波及，在這三個孩子以及三台工程機器人體內植入能抵抗病毒（meta-virus）的疫苗程式，在研究所將被轉移到亞空間前的千鈞一髮之際將其送出研究所外。由於疫苗程式的關係，三個孩子熬過普通人無法負荷的物質傳送過程，同時得到了特殊的**超力量**，背負著長大後必須成為Go
-Busters的特殊任務，卻也同時背負著如同電腦般麻煩的副作用與弱點。三台工程機器人也有了屬於自身的意識，成為「Buddyroid」，也成為三位Go
-Busters的得力夥伴。
+所長想解救身在研究所裡的弘（7歲）、龍次（15歲）和陽子（4歲）。他為避免他們遭受波及，在這三個孩子以及三台工程機器人體內植入能抵抗病毒（meta-virus）的疫苗程式，在研究所將被轉移到亞空間前的千鈞一髮之際將其送出研究所外。由於疫苗程式的關係，三個孩子熬過普通人無法負荷的物質傳送過程，同時得到了特殊的**超力量**，背負著長大後必須成為Go Busters的特殊任務，卻也同時背負著如同電腦般麻煩的副作用與弱點。三台工程機器人也有了屬於自身的意識，成為「Buddyroid」，也成為三位Go Busters的得力夥伴。
 
 ## 登場角色
 
@@ -258,7 +249,7 @@ Busters的得力夥伴。
 <p>變身而成的Beet Buster配色偏向金黃色而不是純金色，部分Buster Suit零件來自於彼得·J·阿角，所以，當彼得·J·阿角不在身邊就無法變身[15]。</p>
 <p>在劇場版《<a href="../Page/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊.md" title="wikilink">獸電戰隊強龍者 VS Go Busters 恐龍大決戰！ 再見永遠的朋友啊</a>》，在彼得的體內殘留的程序再度以數據製成的分身（Avatar）短時間復活一次，在擊退敵人和傳送Go Busters獸電池後消失。</p>
 <p>其他登場作品：動物戰隊獸王者 超級動物大戰。</p>
-<p>松本寬也曾飾演2005年第29支<a href="../Page/魔法戰隊魔法連者.md" title="wikilink">魔法戰隊魔法連者的</a><strong>魔法黃-小津翼</strong>[16]及於2017年第41支<a href="https://zh.wikipedia.org/wiki/宇宙戰隊九連者" title="wikilink">宇宙戰隊九連者以友情客串的方式飾演</a><strong>Hoshi★Minato</strong>。</p></td>
+<p>松本寬也曾飾演2005年第29支<a href="../Page/魔法戰隊魔法連者.md" title="wikilink">魔法戰隊魔法連者</a>的<strong>魔法黃-小津翼</strong>[16]及於2017年第41支<a href="https://zh.wikipedia.org/wiki/宇宙戰隊九連者" title="wikilink">宇宙戰隊九連者以友情客串的方式飾演</a><strong>Hoshi★Minato</strong>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -369,8 +360,7 @@ Busters的得力夥伴。
 
 #### 特命部其他成員
 
-  - **黑木猛／**（[榊英雄](https://zh.wikipedia.org/wiki/榊英雄 "wikilink")
-    飾／台：[夏治世](../Page/夏治世.md "wikilink")（本篇）；[梁興昌](../Page/梁興昌.md "wikilink")（VS豪快者）；[孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")（VS強龍者）／港：[陳廷軒](../Page/陳廷軒.md "wikilink")）
+  - **黑木猛／**（[榊英雄](https://zh.wikipedia.org/wiki/榊英雄 "wikilink") 飾／台：[夏治世](../Page/夏治世.md "wikilink")（本篇）；[梁興昌](../Page/梁興昌.md "wikilink")（VS豪快者）；[孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")（VS強龍者）／港：[陳廷軒](../Page/陳廷軒.md "wikilink")）
 
 <!-- end list -->
 
@@ -381,8 +371,7 @@ Busters的得力夥伴。
 
 <!-- end list -->
 
-  - **仲村美穗／**（[西平風香](https://zh.wikipedia.org/wiki/西平風香 "wikilink")
-    飾／台：[連宓均](https://zh.wikipedia.org/wiki/連宓均 "wikilink")（本篇）；[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")（所有電影版）／港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
+  - **仲村美穗／**（[西平風香](https://zh.wikipedia.org/wiki/西平風香 "wikilink") 飾／台：[連宓均](https://zh.wikipedia.org/wiki/連宓均 "wikilink")（本篇）；[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")（所有電影版）／港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
 
 <!-- end list -->
 
@@ -392,8 +381,7 @@ Busters的得力夥伴。
 
 <!-- end list -->
 
-  - **森下徹／**（[高橋直人](../Page/高橋直人.md "wikilink")
-    飾／台：[鈕凱暘](../Page/鈕凱暘.md "wikilink")（本篇）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（VS豪快者）／港：[黃積權](../Page/黃積權.md "wikilink")）
+  - **森下徹／**（[高橋直人](../Page/高橋直人.md "wikilink") 飾／台：[鈕凱暘](../Page/鈕凱暘.md "wikilink")（本篇）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（VS豪快者）／港：[黃積權](../Page/黃積權.md "wikilink")）
 
 <!-- end list -->
 
@@ -403,8 +391,7 @@ Busters的得力夥伴。
 
 #### 相關人物
 
-  - **櫻田梨香／**（[吉木莉莎](https://zh.wikipedia.org/wiki/吉木莉莎 "wikilink")
-    飾／台：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")／港：[劉惠雲](../Page/劉惠雲.md "wikilink")）
+  - **櫻田梨香／**（[吉木莉莎](https://zh.wikipedia.org/wiki/吉木莉莎 "wikilink") 飾／台：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")／港：[劉惠雲](../Page/劉惠雲.md "wikilink")）
 
 <!-- end list -->
 
@@ -415,13 +402,11 @@ Busters的得力夥伴。
     對於奪去自己父母的「科學」的象徵——機械可是顯得相當棘手，而Nick在最初時也是很勉強的去接受。
     在Mission 1中，亦曾指責Nick「教唆了」弘，最後雖然心有不滿但是讓他戰鬥。
     出院後以「不希望家族分離」為由邀請弘前往畫展，但實際上希望令他回心轉意。
-    在Mission
-    10中，Nick的說服以及在目睹其戰鬥後，終於明白他是為了「不希望再讓其他人有分離」這決心而戰，和接受Nick為一家人。
+    在Mission 10中，Nick的說服以及在目睹其戰鬥後，終於明白他是為了「不希望再讓其他人有分離」這決心而戰，和接受Nick為一家人。
 
 <!-- end list -->
 
-  - **櫻田洋介、櫻田美智子／**（[山中聰](https://zh.wikipedia.org/wiki/山中聰 "wikilink")、[細越みちこ](https://zh.wikipedia.org/wiki/細越みちこ "wikilink")
-    飾）
+  - **櫻田洋介、櫻田美智子／**（[山中聰](https://zh.wikipedia.org/wiki/山中聰 "wikilink")、[細越みちこ](https://zh.wikipedia.org/wiki/細越みちこ "wikilink") 飾）
 
 <!-- end list -->
 
@@ -451,8 +436,7 @@ Busters的得力夥伴。
 為了創造**由機器統治的世界**，瞄準**Enetron**能源，打算喚回Messiah並征服地球。
 而所謂的「**Vaglass**」，是人類擅自取的名字。
 
-  - **Messiah／／彌賽亞（台、港譯）**（[佐佐木誠二](https://zh.wikipedia.org/wiki/佐佐木誠二 "wikilink")
-    聲／台：[鈕凱暘](../Page/鈕凱暘.md "wikilink")／港：[張炳強](../Page/張炳強.md "wikilink")）
+  - **Messiah／／彌賽亞（台、港譯）**（[佐佐木誠二](https://zh.wikipedia.org/wiki/佐佐木誠二 "wikilink") 聲／台：[鈕凱暘](../Page/鈕凱暘.md "wikilink")／港：[張炳強](../Page/張炳強.md "wikilink")）
 
 <!-- end list -->
 
@@ -463,11 +447,8 @@ Busters的得力夥伴。
     除了侵略和支配的野心之外，又有著想在人類困苦的身姿上找到快樂，所以有時候會作出殘虐人類比奪取Enetron優先的命令。
     在Mission 27吸收了生物項目實驗室的數據後進化。
     在Mission 30時被洋介揭露早已和傳輸研究中心的終端機合為一體，企圖連同研究中心一起返回現實世界。
-    在Mission
-    33時得知，其數據被Enter[備份](https://zh.wikipedia.org/wiki/備份 "wikilink")，並製成13枚Messiah
-    Card，並在當集被Enter丟到各地，而且除非卡片已經啟動用否則無法探測。
-    在Mission 44因為Megazord ζ吸收了Megazord α、β、δ各一台與數種無機物而復活，最後被Go
-    Busters駕駛的Go Buster Lion的Ignition Tornado擊殺，確定以後不會再復活。
+    在Mission 33時得知，其數據被Enter[備份](https://zh.wikipedia.org/wiki/備份 "wikilink")，並製成13枚Messiah Card，並在當集被Enter丟到各地，而且除非卡片已經啟動用否則無法探測。
+    在Mission 44因為Megazord ζ吸收了Megazord α、β、δ各一台與數種無機物而復活，最後被Go Busters駕駛的Go Buster Lion的Ignition Tornado擊殺，確定以後不會再復活。
 
 <!-- end list -->
 
@@ -495,8 +476,7 @@ Busters的得力夥伴。
 
 <!-- end list -->
 
-  - **Enter／／闇特（台譯）**（[陳内将](https://zh.wikipedia.org/wiki/陳内将 "wikilink")
-    飾／台：[夏治世](../Page/夏治世.md "wikilink")／港：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
+  - **Enter／／闇特（台譯）**（[陳内将](https://zh.wikipedia.org/wiki/陳内将 "wikilink") 飾／台：[夏治世](../Page/夏治世.md "wikilink")／港：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
 
 <!-- end list -->
 
@@ -508,20 +488,16 @@ Busters的得力夥伴。
     說話夾雜著一口流利的[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")。
     智力很強，有幾次都比Go Busters搶先到達現場。加上進行好幾次交手後已經對他們持有歪曲的愛戀，並熱衷著排除他們。
     當Escape出現後，開始被懷疑自己在Messiah的裡存在價值。
-    在Mission
-    30時被揭露是由肉體被數據化的研究中心職員的數據構成（這也是Enter能夠說流利法文的主因，研究中心有法籍職員），並駕駛素體εMegazords與弘的Ace戰鬥，最後消失在素體ε的爆炸中。
+    在Mission 30時被揭露是由肉體被數據化的研究中心職員的數據構成（這也是Enter能夠說流利法文的主因，研究中心有法籍職員），並駕駛素體εMegazords與弘的Ace戰鬥，最後消失在素體ε的爆炸中。
     但在Mission 31時卻安然無恙的出現在Go Busters面前。
-    在Mission
-    33中透露自己早已[備份了Messiah的部份數據並製成](https://zh.wikipedia.org/wiki/備份 "wikilink")13枚Messiah
-    Card。
+    在Mission 33中透露自己早已[備份了Messiah的部份數據並製成](https://zh.wikipedia.org/wiki/備份 "wikilink")13枚Messiah Card。
     在Mission 40中向Escape宣稱自己保留了Messiah Card 04，並將Messiah Card 07回收。
     在Mission 43中被駕駛著ζ的Escape壓至消失。
     在Mission 44中再度安然無恙的出現，並且吸收了Messiah Card 07。
     在Mission 46中以花朵複製Escape，展示出將生物和無機物融合的新能力。
     在Mission 49中利用Red Buster的複製資料變身成邪惡的Dark Buster。
     在Final Mission中被Go Busters使用**Volcanic All Busters Attack**合力徹底刪除。
-    在劇場版《[獸電戰隊強龍者 VS Go Busters 恐龍大決戰！
-    再見永遠的朋友啊](../Page/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊.md "wikilink")》，在地球內殘留的程序再度以數據製成的分身（Avatar）復活一次，要將恐龍超級戰隊殲滅，但最後被**[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")**打倒消失。
+    在劇場版《[獸電戰隊強龍者 VS Go Busters 恐龍大決戰！ 再見永遠的朋友啊](../Page/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊.md "wikilink")》，在地球內殘留的程序再度以數據製成的分身（Avatar）復活一次，要將恐龍超級戰隊殲滅，但最後被**[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")**打倒消失。
 
 <!-- end list -->
 
@@ -547,8 +523,7 @@ Busters的得力夥伴。
 
 <!-- end list -->
 
-  - **Escape／／艾司凱貝（台譯）**（[水崎綾女](../Page/水崎綾女.md "wikilink")
-    飾／台：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")／港：[張頌欣](../Page/張頌欣.md "wikilink")）
+  - **Escape／／艾司凱貝（台譯）**（[水崎綾女](../Page/水崎綾女.md "wikilink") 飾／台：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")／港：[張頌欣](../Page/張頌欣.md "wikilink")）
 
 <!-- end list -->
 
@@ -556,18 +531,15 @@ Busters的得力夥伴。
     Mission 22登場，Messiah製造的第二個**分身（Avatar）**，為女性的姿態。
     稱呼Messiah為爸爸。並對「強者」和「好東西」有著欣賞的概念。
     與Enter不同的是，比起侵略的進度她更著眼於能給予Messiah快樂的（指折磨人類）事為行動要點。而自己的性格也是比Enter好戰的。
-    使用[平板電腦作為製造Metaloids的終端機](../Page/平板電腦.md "wikilink")，每次要安裝一個Meta-Virus時只要滑動觸摸屏上的卡片便可。
+    使用[平板電腦](../Page/平板電腦.md "wikilink")作為製造Metaloids的終端機，每次要安裝一個Meta-Virus時只要滑動觸摸屏上的卡片便可。
     戰鬥以兩把[手槍為武器](https://zh.wikipedia.org/wiki/手槍 "wikilink")，黑色那把名為Gog，而白色那把則名為Magog(28話結尾透露，Gog和Mogog是弘的媽媽很寶貝的兩隻小狗裝飾品的名字)。
     在Mission 30時被揭露是由肉體被數據化的研究中心職員的數據構成，目前和Enter是Vaglass的唯二存活者。
     在Mission 36後便一直單獨行動，為使自己變強不惜挑戰使用了強化武裝Blue Buster，但卻對方一擊下被完全撃倒。
     在Mission 44中被Messiah融合，其後被Go Busters擊敗。
-    在Mission 46中出現其強化過的複製體，但是卻沒有上一位Escape的記憶，稱呼Enter為爸爸。之後被Go
-    Busters使用Lion Blaster擊殺，但之後Enter又製造出了另一位Escape複製體。
+    在Mission 46中出現其強化過的複製體，但是卻沒有上一位Escape的記憶，稱呼Enter為爸爸。之後被Go Busters使用Lion Blaster擊殺，但之後Enter又製造出了另一位Escape複製體。
     在Mission 47中被生气的Enter击杀但随后又被制造，最后还是被Go Busters击杀。
-    在Mission 48中再次被Enter製造，并拥有与动物融合的能力，但不能融合人类。被Go
-    Busters击中后巨大化再被击中，最后消失。
-    在劇場版《[獸電戰隊強龍者 VS Go Busters 恐龍大決戰！
-    再見永遠的朋友啊](../Page/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊.md "wikilink")》，在地球內殘留的程序再度以數據製成的分身（Avatar）復活一次，要將恐龍超級戰隊殲滅，但最後被**[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")**打倒消失。
+    在Mission 48中再次被Enter製造，并拥有与动物融合的能力，但不能融合人类。被Go Busters击中后巨大化再被击中，最后消失。
+    在劇場版《[獸電戰隊強龍者 VS Go Busters 恐龍大決戰！ 再見永遠的朋友啊](../Page/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊.md "wikilink")》，在地球內殘留的程序再度以數據製成的分身（Avatar）復活一次，要將恐龍超級戰隊殲滅，但最後被**[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")**打倒消失。
 
 <!-- end list -->
 
@@ -890,8 +862,7 @@ Busters的得力夥伴。
 <!-- end list -->
 
   -
-    在Mission 33時出現了由Messiah
-    Card製成的新型Metaloids，則會以素體的本身機能來構成其能力，身上紅色的部份具有Messiah的能力。
+    在Mission 33時出現了由Messiah Card製成的新型Metaloids，則會以素體的本身機能來構成其能力，身上紅色的部份具有Messiah的能力。
     因為用很少的Enetron來自動生成身體，所以令管理局難以探測它們的出現。
     最終目的為透過不斷吸收人類化成的數據來成長以構成Messiah新身體。
     每當被擊破時，體內的Messiah Card也會消滅。
@@ -1034,9 +1005,7 @@ Busters的得力夥伴。
         每次都會從其他三種素體上像脫殼般產生出來。
         也許是因為以BC-04作為設計原形，所以外表跟Go Buster Beet相似。
         內置武裝具有右手臂斧頭、閃電和光線。
-        戰鬥能力強悍，不但Go Buster OH的Dimension
-        Crash對素體δ無效，第一次作戰更在沒有經過改造的情況下擊倒Go
-        Buster OH。
+        戰鬥能力強悍，不但Go Buster OH的Dimension Crash對素體δ無效，第一次作戰更在沒有經過改造的情況下擊倒Go Buster OH。
         在Mission 36開始出現經過改造的版本。
 
 <!-- end list -->
@@ -1046,9 +1015,7 @@ Busters的得力夥伴。
       -
         **素體ε(Epsilon)**
         飛行戰鬥型Megazords。
-        於電影[特命戰隊Go Busters THE MOVIE
-        保護東京Enetower\!中出現的Megazords](../Page/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!.md "wikilink")，在本篇則在Mission
-        30開始出現。
+        於電影[特命戰隊Go Busters THE MOVIE 保護東京Enetower\!中出現的Megazords](../Page/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!.md "wikilink")，在本篇則在Mission 30開始出現。
         駕駛員為Enter，某程度上已是其專用機。
         銀紅兩色的身軀具單體高速飛行能力，內置武裝為右手臂軌道炮。
 
@@ -1072,12 +1039,9 @@ Busters的得力夥伴。
       -
         **素體ω(Omega)**
         最終毀滅型Megazords。
-        於電影[特命戰隊Go Busters VS 海賊戰隊豪快者 THE
-        MOVIE中出現的Megazords](../Page/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE.md "wikilink")，在本篇則在Mission
-        49出現。
+        於電影[特命戰隊Go Busters VS 海賊戰隊豪快者 THE MOVIE中出現的Megazords](../Page/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE.md "wikilink")，在本篇則在Mission 49出現。
         駕駛員為Enter。
-        內置武裝為大量的火神砲、大量的光束砲、雙手臂4連自動3000毫米發射器、肩部三連光束砲與胸口的主砲「Vaglar
-        Striker」。
+        內置武裝為大量的火神砲、大量的光束砲、雙手臂4連自動3000毫米發射器、肩部三連光束砲與胸口的主砲「Vaglar Striker」。
 
 <!-- end list -->
 
@@ -1105,12 +1069,8 @@ Busters的得力夥伴。
 <!-- end list -->
 
   -
-    [手錶型變身器](https://zh.wikipedia.org/wiki/手錶 "wikilink")。變身時，成員會轉動顯示器部分的刻度盤，並按下按鈕，發出「**It's
-    Morphin' Time\!**」音效並展開內置的[眼鏡](../Page/眼鏡.md "wikilink")。並穿上Buster
-    Suit，然後成員再喊出「**Let's Morphin**」（），裝上頭盔，最後讓手錶的眼鏡裝在頭盔上，就完成變身為Go
-    Busters。
-    另外，手環還有通訊、分析、召喚並連結Buster
-    Machine以及發動其必殺技和顯示敵方Megazords轉送完成時間等各種各樣的功能。
+    [手錶型變身器](https://zh.wikipedia.org/wiki/手錶 "wikilink")。變身時，成員會轉動顯示器部分的刻度盤，並按下按鈕，發出「**It's Morphin' Time\!**」音效並展開內置的[眼鏡](../Page/眼鏡.md "wikilink")。並穿上Buster Suit，然後成員再喊出「**Let's Morphin**」（），裝上頭盔，最後讓手錶的眼鏡裝在頭盔上，就完成變身為Go Busters。
+    另外，手環還有通訊、分析、召喚並連結Buster Machine以及發動其必殺技和顯示敵方Megazords轉送完成時間等各種各樣的功能。
 
 <!-- end list -->
 
@@ -1130,12 +1090,8 @@ Busters的得力夥伴。
 
   -
     自Mission 33起被投入使用的強化用裝備。
-    使用時需裝到Morphin手環的側面的「**Set**」動作，同時武裝面罩會發出「**Are You
-    Ready?**」音效並把數據化後的Buddyroid吸收，同時按下手環和武裝面罩的按鈕發出「**Powered
-    Custom，It's Morphin' Time\!**」音效並生成裝甲，然後成員再喊出「**Powered
-    Morphin**」（）穿上裝甲完成強化。
-    實際上是Mission
-    23中雅人和陽子穿著的原型強化武裝的完成品，為了解決力量不足的問題由Banana建議由Buddyroid的力量補足，當然這對他們的負擔亦相當重。
+    使用時需裝到Morphin手環的側面的「**Set**」動作，同時武裝面罩會發出「**Are You Ready?**」音效並把數據化後的Buddyroid吸收，同時按下手環和武裝面罩的按鈕發出「**Powered Custom，It's Morphin' Time\!**」音效並生成裝甲，然後成員再喊出「**Powered Morphin**」（）穿上裝甲完成強化。
+    實際上是Mission 23中雅人和陽子穿著的原型強化武裝的完成品，為了解決力量不足的問題由Banana建議由Buddyroid的力量補足，當然這對他們的負擔亦相當重。
 
 <!-- end list -->
 
@@ -1145,15 +1101,9 @@ Busters的得力夥伴。
 
   -
     三位Go Busters使用武裝面罩後變成的強化型態，身上的強化武裝是數據化後的Buddyroid形成，眼罩部份追加了銀框。
-    Red Buster的強化武裝使其加速能力強化到能生成分身。同時也能按下武裝面罩上的按鈕發動必殺技「**It's Time For
-    Busters！**」，幻化成Cheetah樣子並衝擊對方的「**Volcanic Attack／**」。Final
-    Mission中Red Buster與其他四位Go Busters合力一起發動必殺技「**Volcanic All Busters
-    Attack**」徹底將Enter刪除。
-    Blue
-    Buster的強化武裝增加了其瞬間爆發力和腕力，更追加了透過接觸物質並改變，並再構造其數據以變成其他物質進行攻擊。必殺技為於空中集中Enetron到右臂令其變得巨大後打出的「**Gorillarge
-    Punch／**」。
-    Yellow Buster的強化武裝能在空中以數據構成立足點。必殺技為於空中集中Enetron到右腿並踢出的「**Rabbit
-    Kick／**」。
+    Red Buster的強化武裝使其加速能力強化到能生成分身。同時也能按下武裝面罩上的按鈕發動必殺技「**It's Time For Busters！**」，幻化成Cheetah樣子並衝擊對方的「**Volcanic Attack／**」。Final Mission中Red Buster與其他四位Go Busters合力一起發動必殺技「**Volcanic All Busters Attack**」徹底將Enter刪除。
+    Blue Buster的強化武裝增加了其瞬間爆發力和腕力，更追加了透過接觸物質並改變，並再構造其數據以變成其他物質進行攻擊。必殺技為於空中集中Enetron到右臂令其變得巨大後打出的「**Gorillarge Punch／**」。
+    Yellow Buster的強化武裝能在空中以數據構成立足點。必殺技為於空中集中Enetron到右腿並踢出的「**Rabbit Kick／**」。
 
 <!-- end list -->
 
@@ -1174,8 +1124,7 @@ Busters的得力夥伴。
   -
     由[單眼相機變形而成的光線槍](https://zh.wikipedia.org/wiki/單眼相機 "wikilink")。按下傳送閥上的按鈕後會出現在左胸前。
     作為照相機使用的話能以鏡頭來辨別目標是否是Vaglass。
-    槍型態時扭動[鏡頭便可以發動必殺技](../Page/鏡頭.md "wikilink")「**It's Time For
-    Busters！**」，發出具破壞Metaloids威力的強力光線。
+    槍型態時扭動[鏡頭](../Page/鏡頭.md "wikilink")便可以發動必殺技「**It's Time For Busters！**」，發出具破壞Metaloids威力的強力光線。
     為以防萬一在特命部內具有大量預備用單眼砲，在Mission 29黑木等人亦使用它們進行戰鬥。
 
 <!-- end list -->
@@ -1187,8 +1136,7 @@ Busters的得力夥伴。
   -
     由[望遠鏡變形而成的短劍](https://zh.wikipedia.org/wiki/望遠鏡 "wikilink")。按下傳送閥上的按鈕後會出現在右腿側。
     作為望遠鏡使用的話確定能Enetron的流動。
-    劍型態時按下主體上的按鈕便可以發動必殺技「**It's Time For
-    Busters！**」打出具破壞Metaloids威力的強力斬擊。
+    劍型態時按下主體上的按鈕便可以發動必殺技「**It's Time For Busters！**」打出具破壞Metaloids威力的強力斬擊。
     跟單眼砲一樣，為以防萬一在特命部內具有大量預備品。
 
 <!-- end list -->
@@ -1219,10 +1167,8 @@ Busters的得力夥伴。
   -
     弘從Tategami Lion駕駛倉上取得的新Buster Gear，也是Tategami Lion的操縱桿。
     平時以手提箱狀態的隨員形態（劇中稱為**Lio Attache／**）被攜帶著。
-    在變形成破壞炮形態後按下扳機便可以發動必殺技「**It's Time For
-    Busters！**」，集中大量Enetron後向對方發出超強力光線攻擊。
-    與望遠劍組合後可以發動必殺技「**It's Time For Final
-    Busters！**」，集中大量Enetron後向對方發出超強力獅子形光彈。
+    在變形成破壞炮形態後按下扳機便可以發動必殺技「**It's Time For Busters！**」，集中大量Enetron後向對方發出超強力光線攻擊。
+    與望遠劍組合後可以發動必殺技「**It's Time For Final Busters！**」，集中大量Enetron後向對方發出超強力獅子形光彈。
     本身亦具備透過探測Enetron消耗量來確定Metaloids、Messiahroids和Megazords出現與否，以及監測龍次體溫上昇和陽子能量消耗狀態的機能，还有弘有没有当机。
 
 #### Beet Buster和Stag Buster專用
@@ -1232,17 +1178,10 @@ Busters的得力夥伴。
 <!-- end list -->
 
   -
-    [手槍型變身器兼武器](https://zh.wikipedia.org/wiki/手槍 "wikilink")。還具有通信和召喚Buster
-    Machine功能。
-    變身時，兩人先把手柄拉下並拉出內置的[眼鏡](../Page/眼鏡.md "wikilink")，扣下扳機，發出「**It's
-    Morphin' Time\!**」音效並令眼鏡變大的同時兩人會穿上Buster Suit，然後兩人再喊出「**Let's
-    Morphin**」（），裝上頭盔，最後讓手錶的眼鏡裝在頭盔上，就完成變身為Beet Buster和Stag Buster。
+    [手槍型變身器兼武器](https://zh.wikipedia.org/wiki/手槍 "wikilink")。還具有通信和召喚Buster Machine功能。
+    變身時，兩人先把手柄拉下並拉出內置的[眼鏡](../Page/眼鏡.md "wikilink")，扣下扳機，發出「**It's Morphin' Time\!**」音效並令眼鏡變大的同時兩人會穿上Buster Suit，然後兩人再喊出「**Let's Morphin**」（），裝上頭盔，最後讓手錶的眼鏡裝在頭盔上，就完成變身為Beet Buster和Stag Buster。
     變身後若按下傳送閥上的按鈕後，它也會出現在左胸前。
-    處於攻擊用的「**破壞槍模式／Blaster
-    Mode／ブラスターモード**」時，除了本身內置的高性能發電機能產生破壞力出眾的光彈外，按下扳機便可以發動必殺技「**Boost
-    Up For Busters！**」，然後再對其大叫「**Come
-    On！**」確定並發出具破壞Metaloids威力的強力光彈（Beet
-    Buster為金色，Stag Buster為水藍色）。
+    處於攻擊用的「**破壞槍模式／Blaster Mode／ブラスターモード**」時，除了本身內置的高性能發電機能產生破壞力出眾的光彈外，按下扳機便可以發動必殺技「**Boost Up For Busters！**」，然後再對其大叫「**Come On！**」確定並發出具破壞Metaloids威力的強力光彈（Beet Buster為金色，Stag Buster為水藍色）。
 
 <!-- end list -->
 
@@ -1271,15 +1210,10 @@ Busters的得力夥伴。
 
   -
     由[方向盤變形而成的長劍](https://zh.wikipedia.org/wiki/方向盤 "wikilink")。按下傳送閥上的按鈕後會出現在左胸前。
-    可分別變形為長劍的「**利刃模式／Blade Mode／ブレードモード**」和方向盤的「**駕駛模式／Drive
-    Mode／ドライブモード**」。
-    其中駕駛模式用作操縱Buster
-    Machine。而利刃模式內置的強力Enetron增幅機能令其鋒利度強化得連鋼鐵都能像紙一樣切開的程度。
-    而在利刃模式時按下主體上的喇叭按鈕便可以發動必殺技「**Boost Up For
-    Busters！**」打出具破壞Metaloids威力的強力光刃（Beet
-    Buster為直線斬擊，Stag Buster為交叉斬擊）。
-    另外，若在利刃模式時按下主體上的喇叭按鈕兩側的按鈕時，便可以發動另一必殺技「**It's Time For Beet/Stag
-    Attack！**」打出具破壞Metaloids威力的強力斬擊。
+    可分別變形為長劍的「**利刃模式／Blade Mode／ブレードモード**」和方向盤的「**駕駛模式／Drive Mode／ドライブモード**」。
+    其中駕駛模式用作操縱Buster Machine。而利刃模式內置的強力Enetron增幅機能令其鋒利度強化得連鋼鐵都能像紙一樣切開的程度。
+    而在利刃模式時按下主體上的喇叭按鈕便可以發動必殺技「**Boost Up For Busters！**」打出具破壞Metaloids威力的強力光刃（Beet Buster為直線斬擊，Stag Buster為交叉斬擊）。
+    另外，若在利刃模式時按下主體上的喇叭按鈕兩側的按鈕時，便可以發動另一必殺技「**It's Time For Beet/Stag Attack！**」打出具破壞Metaloids威力的強力斬擊。
 
 ## 夥伴機器人
 
@@ -1412,8 +1346,7 @@ Busters的得力夥伴。
 | Ene-Tan／／小創蛙 | [<font color="white">辻希美</font>](../Page/辻希美.md "wikilink") | [<font color="white">陳琴雲</font>](../Page/陳琴雲.md "wikilink") |
 
   -
-    於電影[特命戰隊Go Busters THE MOVIE
-    保護東京Enetower\!中出場的](../Page/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!.md "wikilink")**青蛙**型小型Buddyroid。
+    於電影[特命戰隊Go Busters THE MOVIE 保護東京Enetower\!中出場的](../Page/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!.md "wikilink")**青蛙**型小型Buddyroid。
     FS-0O的駕駛導航，雖然是Go Busters的支援，但是很討厭對方在自己毫無準備時接觸它。並於本篇第44集再次出場
 
 ## Buster Machine
@@ -1461,8 +1394,7 @@ Busters的得力夥伴。
 
   -
     Red Buster的專用Buster Machine。
-    Buster Vehicle時為一台[超級跑車](../Page/超級跑車.md "wikilink")，Buster
-    Animal時則是一頭[獵豹](https://zh.wikipedia.org/wiki/獵豹 "wikilink")，輸入「**GB1**」以進行變形。
+    Buster Vehicle時為一台[超級跑車](../Page/超級跑車.md "wikilink")，Buster Animal時則是一頭[獵豹](https://zh.wikipedia.org/wiki/獵豹 "wikilink")，輸入「**GB1**」以進行變形。
     另外，它是兩台擁有人型的「**Megazord**」型態的Buster Machine的其中之一。
     武裝是由車身兩旁伸出（Buster Vehicle）的機槍，和肩膀上（Buster Animal）的光線槍。
     當Nick和Red Buster進入Cheetah時，車頭會出現一個獵豹頭。
@@ -1481,11 +1413,8 @@ Busters的得力夥伴。
 
   -
     Cheetah的Megazord型態，輸入「**GB4**」以進行變形，一般簡稱為「Ace」。
-    武裝是由定風翼（也是Buster Animal時的尾巴）變形而成的長劍「**Buster
-    Sword／**」和肩部的導彈發射器，而本部內具有大量預備用長劍，必要時傳送到Ace的手中。
-    當Red Buster按下Morphin手環的顯示幕便能發動必殺技「**It's Time For
-    Busters！**」，打出能把Megazords一刀兩斷的強力斬擊「**Resolution
-    Slash／**」\[17\]。
+    武裝是由定風翼（也是Buster Animal時的尾巴）變形而成的長劍「**Buster Sword／**」和肩部的導彈發射器，而本部內具有大量預備用長劍，必要時傳送到Ace的手中。
+    當Red Buster按下Morphin手環的顯示幕便能發動必殺技「**It's Time For Busters！**」，打出能把Megazords一刀兩斷的強力斬擊「**Resolution Slash／**」\[17\]。
 
 <!-- end list -->
 
@@ -1528,11 +1457,8 @@ Busters的得力夥伴。
 
   -
     Blue Buster的專用Buster Machine。
-    Buster
-    Vehicle時為一台[貨車](https://zh.wikipedia.org/wiki/貨車 "wikilink")，Buster
-    Animal時則是一頭[大猩猩](../Page/大猩猩.md "wikilink")，輸入「**GB2**」以進行變形。
-    Buster Vehicle的武裝是停機坪上的光線槍，Buster
-    Animal時的武裝是由肩部上的車輪發出的光線槍和[香蕉型導彈](../Page/香蕉.md "wikilink")，發射後彈頭會跟香蕉皮分離，香蕉皮落到地上時能令敵方滑倒。
+    Buster Vehicle時為一台[貨車](https://zh.wikipedia.org/wiki/貨車 "wikilink")，Buster Animal時則是一頭[大猩猩](../Page/大猩猩.md "wikilink")，輸入「**GB2**」以進行變形。
+    Buster Vehicle的武裝是停機坪上的光線槍，Buster Animal時的武裝是由肩部上的車輪發出的光線槍和[香蕉](../Page/香蕉.md "wikilink")型導彈，發射後彈頭會跟香蕉皮分離，香蕉皮落到地上時能令敵方滑倒。
     當Banana和Blue Buster進入Gorilla時，車頭會出現一個猩猩頭。
     GT是代表「猩猩(Gorilla)」和「貨車(Truck)」。
 
@@ -1574,9 +1500,7 @@ Busters的得力夥伴。
 
   -
     Yellow Buster的專用Buster Machine。
-    Buster
-    Vehicle時為一台[直昇機](https://zh.wikipedia.org/wiki/直昇機 "wikilink")，Buster
-    Animal時則是一頭[兔子](https://zh.wikipedia.org/wiki/兔子 "wikilink")，輸入「**GB3**」以進行變形。
+    Buster Vehicle時為一台[直昇機](https://zh.wikipedia.org/wiki/直昇機 "wikilink")，Buster Animal時則是一頭[兔子](https://zh.wikipedia.org/wiki/兔子 "wikilink")，輸入「**GB3**」以進行變形。
     武裝分別是機槍和導彈，Buster Animal時更能以由水平旋翼變成的耳朵來挖洞。
     當Usata和Yellow Buster進入Rabbit時，機頭會變成一個兔子頭。
     RH是代表「兔子(Rabbit)」和「直昇機(Helicopter)」。
@@ -1616,16 +1540,12 @@ Busters的得力夥伴。
 
   -
     Beet Buster的專用Buster Machine。在亞空間製造而成。平時於亞空間內的機庫待機。
-    Buster
-    Vehicle時為一台[起重機](https://zh.wikipedia.org/wiki/起重機 "wikilink")，Buster
-    Animal時則是一隻[獨角仙](../Page/獨角仙.md "wikilink")。
+    Buster Vehicle時為一台[起重機](https://zh.wikipedia.org/wiki/起重機 "wikilink")，Buster Animal時則是一隻[獨角仙](../Page/獨角仙.md "wikilink")。
     它也是另外一台擁有人型的「**Megazord**」型態的Buster Machine。
-    Buster Vehicle時裝備著比20層大樓還要高的巨型吊臂。Buster
-    Animal則可以纏著對方以吸收其Enetron，而由吊臂變成的角也可以進行攻擊。
+    Buster Vehicle時裝備著比20層大樓還要高的巨型吊臂。Buster Animal則可以纏著對方以吸收其Enetron，而由吊臂變成的角也可以進行攻擊。
     Buster Vehicle的武裝是由車身兩旁伸出的機槍。
     設計構思來自雅人在13年前設計的Megazord，但設計圖卻被Enter奪去。至於雅人如何取回設計圖並製造出來的原因不明。
-    當Beet Buster進入Beetle並裝上駕駛模式的操縱劍，再按下喇叭按鈕右側的按鈕時，會發出「**BC-04 Shift
-    Up！**」音效以進行確定。
+    當Beet Buster進入Beetle並裝上駕駛模式的操縱劍，再按下喇叭按鈕右側的按鈕時，會發出「**BC-04 Shift Up！**」音效以進行確定。
     BC是代表「甲蟲(Beetle)」和「起重機(Crane)」。
 
 <!-- end list -->
@@ -1642,9 +1562,7 @@ Busters的得力夥伴。
     Beetle的Megazord型態，按下操縱劍的喇叭按鈕以進行變形。
     武裝是兩腕的「**Beet Cannon／**」和由Buster Animal時的後腳變成的兩把「**Beet Sword／**」。
     另外由角(Buster Vehicle時的吊臂)變形的右臂還保留了伸縮的機能，可用此作連續攻擊，更追加電流放射攻擊。
-    必殺技分別是Beet Cannon的「**Beet Cannon Burst／**」、Beet Sword的「**Beetle
-    Sword Cross／**」以及伸長右臂並刺入對方身體，再由Stag Beetle將其右臂當成跑道衝向對方的「**Beet
-    Catapult Attack／**」。
+    必殺技分別是Beet Cannon的「**Beet Cannon Burst／**」、Beet Sword的「**Beetle Sword Cross／**」以及伸長右臂並刺入對方身體，再由Stag Beetle將其右臂當成跑道衝向對方的「**Beet Catapult Attack／**」。
 
 <!-- end list -->
 
@@ -1681,14 +1599,10 @@ Busters的得力夥伴。
 
   -
     Stag Buster的專用Buster Machine。在亞空間製造而成。平時於亞空間內的機庫待機。
-    Buster
-    Vehicle時為一台噴射[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，Buster
-    Animal時則是一隻[鍬形蟲](../Page/鍬形蟲.md "wikilink")。
-    Buster Vehicle時的武裝分別是機槍、光線槍和導彈。Buster
-    Animal則可以纏著對方以吸收其Enetron，而前方的大顎也可以進行攻擊。
+    Buster Vehicle時為一台噴射[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，Buster Animal時則是一隻[鍬形蟲](../Page/鍬形蟲.md "wikilink")。
+    Buster Vehicle時的武裝分別是機槍、光線槍和導彈。Buster Animal則可以纏著對方以吸收其Enetron，而前方的大顎也可以進行攻擊。
     其設計圖當時被Enter奪去。至於雅人如何取回設計圖並製造出來的原因不明。
-    當Stag Buster進入Stag Beetle並裝上駕駛模式的操縱劍，再按下喇叭按鈕左側的按鈕時，會發出「**SJ-05 Take
-    Off！**」音效以進行確定。
+    當Stag Buster進入Stag Beetle並裝上駕駛模式的操縱劍，再按下喇叭按鈕左側的按鈕時，會發出「**SJ-05 Take Off！**」音效以進行確定。
     SJ是代表「鍬角(Stag)」和「噴射(Jet)」。
 
 <!-- end list -->
@@ -1723,15 +1637,10 @@ Busters的得力夥伴。
 </table>
 
   -
-    於電影[特命戰隊Go Busters THE MOVIE
-    保護東京Enetower\!中出場的Buster](../Page/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!.md "wikilink")
-    Machine。
+    於電影[特命戰隊Go Busters THE MOVIE 保護東京Enetower\!中出場的Buster](../Page/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!.md "wikilink") Machine。
     是以前由雅人所開發的初期型Buster Machine。
-    Buster
-    Vehicle時為一台[潛水艇](https://zh.wikipedia.org/wiki/潛水艇 "wikilink")，Buster
-    Animal時則是一隻[青蛙](https://zh.wikipedia.org/wiki/青蛙 "wikilink")。
-    武裝是背上的三枚[蝌蚪型導彈](../Page/蝌蚪.md "wikilink")「**Ladle
-    Missile／**」和從口中伸出的彈簧拳。
+    Buster Vehicle時為一台[潛水艇](https://zh.wikipedia.org/wiki/潛水艇 "wikilink")，Buster Animal時則是一隻[青蛙](https://zh.wikipedia.org/wiki/青蛙 "wikilink")。
+    武裝是背上的三枚[蝌蚪](../Page/蝌蚪.md "wikilink")型導彈「**Ladle Missile／**」和從口中伸出的彈簧拳。
     FS是代表「青蛙(Frog)」和「潛水艇(Submarine)」。
 
 <!-- end list -->
@@ -1781,22 +1690,13 @@ Busters的得力夥伴。
 
   -
     由能源管理局所屬的**葉月一郎**博士獨自開發的Buster Machine。啟動代碼為「**Tategami Lion見參！／**」
-    跟之前的Buster
-    Machine不同，其開發理念是「令Buddyroid和Megazords一體化」，所以各型態名稱格式也改成「Buddy
-    \*\*」。
+    跟之前的Buster Machine不同，其開發理念是「令Buddyroid和Megazords一體化」，所以各型態名稱格式也改成「Buddy \*\*」。
     有著基本的人工智能，能在沒有駕駛員的情況下戰鬥。
     最初為測試Ace的實力而出現在眾人面前，並在最後認同了弘的實力而讓其成為自己的駕駛員\[18\]。
-    Buddy Vehicle時為一台三輪[摩托車](../Page/摩托車.md "wikilink")，Buddy
-    Animal時則是一頭[獅子](https://zh.wikipedia.org/wiki/獅子 "wikilink")，亦擁有人型的「**Buddy
-    Zord**」型態。
-    Buddy Vehicle時的武裝是車頭上的光線槍「**Lion Sagan／**」。而Buddy
-    Animal除了以鋒利的牙和爪進行攻擊外，其鬃毛迴轉時口部還能發出光線炮。而這兩個型態都能讓Ace或Go
-    Buster Beet\[19\]乘坐在上面。
-    至於Buddy Zord時的武裝除了變成雙頭槍的Lion Sagan外，亦配備了由Buddy Animal的頭部變成的盾牌「**Lion
-    Shield／**」。必殺技「**It's Time For Busters！**」是充填能量到Lion
-    Sagan後使出的強力斬擊「**Lion Impact／**」。
-    在Buddy Vehicle時亦有和Ace（或Go Buster Beet）的合體技，連同由Ace（或Go Buster
-    Beet）手持的Lion Sagan同時進行射擊的「**Lio Burst／**」。
+    Buddy Vehicle時為一台三輪[摩托車](../Page/摩托車.md "wikilink")，Buddy Animal時則是一頭[獅子](https://zh.wikipedia.org/wiki/獅子 "wikilink")，亦擁有人型的「**Buddy Zord**」型態。
+    Buddy Vehicle時的武裝是車頭上的光線槍「**Lion Sagan／**」。而Buddy Animal除了以鋒利的牙和爪進行攻擊外，其鬃毛迴轉時口部還能發出光線炮。而這兩個型態都能讓Ace或Go Buster Beet\[19\]乘坐在上面。
+    至於Buddy Zord時的武裝除了變成雙頭槍的Lion Sagan外，亦配備了由Buddy Animal的頭部變成的盾牌「**Lion Shield／**」。必殺技「**It's Time For Busters！**」是充填能量到Lion Sagan後使出的強力斬擊「**Lion Impact／**」。
+    在Buddy Vehicle時亦有和Ace（或Go Buster Beet）的合體技，連同由Ace（或Go Buster Beet）手持的Lion Sagan同時進行射擊的「**Lio Burst／**」。
     LT是代表「獅子(Lion)」和「三輪車(Trike)」。
 
 ## Buster Machine合體Megazord （特命合體 武裝）
@@ -1805,8 +1705,7 @@ Busters的得力夥伴。
 
 ****
 
-  - 參與合體的 Buster Machine : **CB-01 Cheetah + GT-02 Gorilla + RH-03
-    Rabbit**
+  - 參與合體的 Buster Machine : **CB-01 Cheetah + GT-02 Gorilla + RH-03 Rabbit**
 
 | 機體高度  | 機體寬度  | 機體厚度  | 機體重量  | 機體航速    | 機組力量輸出    | 演出   |
 | ----- | ----- | ----- | ----- | ------- | --------- | ---- |
@@ -1814,21 +1713,15 @@ Busters的得力夥伴。
 |       |       |       |       |         |           |      |
 
   -
-    在輸入「**GB5**」以發動**Combine Operation．特命合體**，由Go Buster
-    Ace擔當主體，Gorilla為胸部和雙腳，Rabbit為雙臂、背部推進器和頭盔合體而成的巨大Megazord。
+    在輸入「**GB5**」以發動**Combine Operation．特命合體**，由Go Buster Ace擔當主體，Gorilla為胸部和雙腳，Rabbit為雙臂、背部推進器和頭盔合體而成的巨大Megazord。
     在合體進行時，分開成多台部件的Gorilla和Rabbit會環繞著Ace，並產生防護光牆防禦敵人攻擊。
     分別在左右兩肩的Cheetah和Rabbit的頭部為特徵。
-    武器是由Go Buster Ace的劍裝上Rabbit的推進器部分組成的「**Boost Buster
-    Sword／**」，以及裝在左臂，Rabbit的水平旋翼發動的電磁屏障式護盾。
+    武器是由Go Buster Ace的劍裝上Rabbit的推進器部分組成的「**Boost Buster Sword／**」，以及裝在左臂，Rabbit的水平旋翼發動的電磁屏障式護盾。
     以壓倒性的力量自豪，不過卻需要消費大量的Enetron，因此合體只能維持一段短時間。
     合體後全部駕駛艙會向頭部移動，不過繼續會維持獨立。
-    必殺技是以Gorilla的車輪發出光線並製成擬似亞空間力場拘束敵人，然後Red
-    Buster按下Morphin手環的顯示幕便能發動「**It's Time For
-    Busters！**」，再以Boost Buster Sword將其一刀兩斷的強力斬擊「**Dimension Crash／**」。
+    必殺技是以Gorilla的車輪發出光線並製成擬似亞空間力場拘束敵人，然後Red Buster按下Morphin手環的顯示幕便能發動「**It's Time For Busters！**」，再以Boost Buster Sword將其一刀兩斷的強力斬擊「**Dimension Crash／**」。
     但在Dimension Crash發動之前那聚集Enetron的那段時間內，Go Busters OH將無法移動。
-    後來為了對付Dimension
-    Crash無法擊破的素體δ，由Nick想出，把Enetron集中於腳部並使出飛踢的新必殺技「**Explosion
-    Kick／**」。
+    後來為了對付Dimension Crash無法擊破的素體δ，由Nick想出，把Enetron集中於腳部並使出飛踢的新必殺技「**Explosion Kick／**」。
 
 ### Buster Hercules／特命戰神（港譯）
 
@@ -1842,13 +1735,9 @@ Busters的得力夥伴。
 |       |       |       |       |         |          |      |
 
   -
-    在輸入「**GB7**」以發動**Combine Operation．特命合體**，由Stag
-    Beetle分拆成胸甲、盾牌和手槍裝到Go Buster
-    Beet身上而成的巨大Megazord。
+    在輸入「**GB7**」以發動**Combine Operation．特命合體**，由Stag Beetle分拆成胸甲、盾牌和手槍裝到Go Buster Beet身上而成的巨大Megazord。
     而Go Buster Beet打開了的臉部裝甲是特徵。
-    裝備除了既有的Beet Cannon外，胸口還追加了「**Gatling Bazooka／**」，右腕則裝備了由Stag
-    Beetle在Buster Vehicle時的機首變形而成的「**Stag Launcher／**」，以及裝備在右腕的由Stag
-    Beetle在Buster Animal的頭部變形而成的「**Stag Shield／**」。
+    裝備除了既有的Beet Cannon外，胸口還追加了「**Gatling Bazooka／**」，右腕則裝備了由Stag Beetle在Buster Vehicle時的機首變形而成的「**Stag Launcher／**」，以及裝備在右腕的由Stag Beetle在Buster Animal的頭部變形而成的「**Stag Shield／**」。
     對比Go Buster OH來說，Buster Hercules在火力上較為擅長。
     必殺技是把身上炮門全開並向敵人一口氣發射的「**Hercules Crisis／**」。
 
@@ -1856,8 +1745,7 @@ Busters的得力夥伴。
 
 ****
 
-  - 參與合體的 Buster Machine : **CB-01 Cheetah + GT-02 Gorilla + RH-03
-    Rabbit + BC-04 Beetle + SJ-05 Stag Beetle**
+  - 參與合體的 Buster Machine : **CB-01 Cheetah + GT-02 Gorilla + RH-03 Rabbit + BC-04 Beetle + SJ-05 Stag Beetle**
 
 | 機體高度  | 機體寬度  | 機體厚度  | 機體重量  | 機體航速    | 機組力量輸出    | 演出   |
 | ----- | ----- | ----- | ----- | ------- | --------- | ---- |
@@ -1865,21 +1753,15 @@ Busters的得力夥伴。
 |       |       |       |       |         |           |      |
 
   -
-    在發動**Combine Operation．特命合體**後，以Go Buster
-    Ace作為主體，Gorilla為胸部和小腿，Rabbit為背包和胸甲，Beet為背包和腳部，Stag為雙臂、胸甲和頭盔合體而成的巨大Megazord。
+    在發動**Combine Operation．特命合體**後，以Go Buster Ace作為主體，Gorilla為胸部和小腿，Rabbit為背包和胸甲，Beet為背包和腳部，Stag為雙臂、胸甲和頭盔合體而成的巨大Megazord。
     雖然由五人共同駕駛，但駕駛艙還是維持獨立。
     開發此陣式的最主要目的是為了在亞空間內也能進行戰鬥。而調整用程序則由雅人開發。
-    每次出擊都要由特命部一眾工作人員以人手的方式進行合體。在戰隊系列中可是首創的（除了Mission 44、Final
-    Mission直接合體外）。
+    每次出擊都要由特命部一眾工作人員以人手的方式進行合體。在戰隊系列中可是首創的（除了Mission 44、Final Mission直接合體外）。
     但此合體的最大缺點是會對主駕駛員——Red Buster的身體有極大的負擔，所以只適合短時間戰鬥用。
     但假若戰鬥期間亞空間突然消失的話，會同時對五人身體有極大的負擔，但是雅人本身設計了相應程序來應對。
-    武器除了Gatling Bazooka和Stag Launcher外，還配備由Boost Buster Sword、Go Busters
-    OH的頭盔和Beetle的吊臂組成，能斬開與亞空間之間的牆壁的長槍「**Buster Lance／**」。
+    武器除了Gatling Bazooka和Stag Launcher外，還配備由Boost Buster Sword、Go Busters OH的頭盔和Beetle的吊臂組成，能斬開與亞空間之間的牆壁的長槍「**Buster Lance／**」。
     此外，透過Beet形成的腳部裡的推進器更能令機體升上空中。於Mission 22亦而此作出空中急墜攻擊。
-    必殺技是由Red Buster按下Morphin手環的顯示幕發動「**It's Time For
-    Busters！**」，將Enetron聚集於Buster
-    Lance的槍尖形成鑽頭狀後刺穿敵人的「**Demolition
-    Thrust／**」。初登場集數：Mission 20
+    必殺技是由Red Buster按下Morphin手環的顯示幕發動「**It's Time For Busters！**」，將Enetron聚集於Buster Lance的槍尖形成鑽頭狀後刺穿敵人的「**Demolition Thrust／**」。初登場集數：Mission 20
 
 ### Go Buster Ace・Stag Custom／特命皇牌・鍬形甲蟲武裝（港譯）
 
@@ -1893,21 +1775,16 @@ Busters的得力夥伴。
 |      |      |      |       |         |          |      |
 
   -
-    在Mission 26因Go Buster OH和Buster
-    Hercules的合體程序被刪去之際用作爭取時間而出現，被雅人稱為「秘藏的合體」。
+    在Mission 26因Go Buster OH和Buster Hercules的合體程序被刪去之際用作爭取時間而出現，被雅人稱為「秘藏的合體」。
     由Stag Beetle分拆成背包、左手和手槍裝到Go Buster Ace身上而成的Megazord。
-    武裝分別是Stag Launcher和直接取代Ace左手的Stag Shield。而且背包以及Stag
-    Launcher上的推進器更能令機體升上空中。
-    當Red Buster按下Morphin手環的顯示幕便能發動必殺技「**It's Time For
-    Busters！**」，在空中急墜的同時並以Stag
-    Shield把Megazords一刀兩斷「**Ace Tag Rush／**」。
+    武裝分別是Stag Launcher和直接取代Ace左手的Stag Shield。而且背包以及Stag Launcher上的推進器更能令機體升上空中。
+    當Red Buster按下Morphin手環的顯示幕便能發動必殺技「**It's Time For Busters！**」，在空中急墜的同時並以Stag Shield把Megazords一刀兩斷「**Ace Tag Rush／**」。
 
 ### Go Buster Kero OH
 
 ****
 
-  - 參與合體的 Buster Machine : **CB-01 Cheetah + GT-02 Gorilla + FS-0O
-    Frog**
+  - 參與合體的 Buster Machine : **CB-01 Cheetah + GT-02 Gorilla + FS-0O Frog**
 
 | 機體高度 | 機體寬度  | 機體厚度 | 機體重量  | 機體航速  | 機組力量輸出 | 演出   |
 | ---- | ----- | ---- | ----- | ----- | ------ | ---- |
@@ -1915,19 +1792,16 @@ Busters的得力夥伴。
 |      |       |      |       |       |        |      |
 
   -
-    於電影[特命戰隊Go Busters THE MOVIE
-    保護東京Enetower\!中出場的巨大Megazord](../Page/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!.md "wikilink")。
+    於電影[特命戰隊Go Busters THE MOVIE 保護東京Enetower\!中出場的巨大Megazord](../Page/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!.md "wikilink")。
     以Go Buster OH為基本，由FS-0O Frog作為雙臂、背部推進器和頭盔，同時胸部的Gorilla頭部亦被Frog的頭部取代。
-    擅長水中和水上戰，亦能透過被Stag Beetle牽引以在水面進行[滑水式移動](../Page/滑水.md "wikilink")。
-    武裝分別是**渦輪**雙臂的「**Ene-Tan Screw／**」和左臂上的**「Ladle
-    Missile／」**，發出的導彈則幻化成Frog的樣子。
+    擅長水中和水上戰，亦能透過被Stag Beetle牽引以在水面進行[滑水](../Page/滑水.md "wikilink")式移動。
+    武裝分別是**渦輪**雙臂的「**Ene-Tan Screw／**」和左臂上的**「Ladle Missile／」**，發出的導彈則幻化成Frog的樣子。
 
 ### Go Buster Lion ／特命雄獅（港譯）
 
 ****
 
-  - 參與合體的 Buster Machine : **LT-06 Tategami Lion + GT-02 Gorilla + RH-03
-    Rabbit**
+  - 參與合體的 Buster Machine : **LT-06 Tategami Lion + GT-02 Gorilla + RH-03 Rabbit**
 
 | 機體高度  | 機體寬度  | 機體厚度  | 機體重量  | 機體航速    | 機組力量輸出    | 演出   |
 | ----- | ----- | ----- | ----- | ------- | --------- | ---- |
@@ -1935,22 +1809,17 @@ Busters的得力夥伴。
 |       |       |       |       |         |           |      |
 
   -
-    在輸入「**GB5**」並發出「**Go Buster Lion GaGaGain！／**」音效後發動**Combine
-    Operation．特命合體**，由Tategami Lion代替Ace擔當主體，跟Go Buster OH類似的巨大Megazord。
-    不過胸口和頭盔都改由Tategami Lion部份構成，而原本由Gorilla變成的胸甲和Rabbit的頭部都裝到背部，而Go
-    Buster OH的頭盔則裝到左臂的水平旋翼上。
+    在輸入「**GB5**」並發出「**Go Buster Lion GaGaGain！／**」音效後發動**Combine Operation．特命合體**，由Tategami Lion代替Ace擔當主體，跟Go Buster OH類似的巨大Megazord。
+    不過胸口和頭盔都改由Tategami Lion部份構成，而原本由Gorilla變成的胸甲和Rabbit的頭部都裝到背部，而Go Buster OH的頭盔則裝到左臂的水平旋翼上。
     武器沿用了Go Buster OH的Boost Buster Sword，以及Rabbit的水平旋翼發動的電磁屏障式護盾。
     有著能輕鬆打倒改造後的素體δ的力量。
-    必殺技是由Red Buster按下Morphin手環的顯示幕發動「**It's Time For
-    Busters！**」，將Enetron聚集於Tategami Lion口部並發射的「**Ignition
-    Tornado／**」。
+    必殺技是由Red Buster按下Morphin手環的顯示幕發動「**It's Time For Busters！**」，將Enetron聚集於Tategami Lion口部並發射的「**Ignition Tornado／**」。
 
 ### Go Buster King ／特命帝王（港譯）
 
 ''' ****
 
-  - 參與合體的 Buster Machine : **LT-06 Tategami Lion + GT-02 Gorilla + RH-03
-    Rabbit + BC-04 Beetle + SJ-05 Stag Beetle**
+  - 參與合體的 Buster Machine : **LT-06 Tategami Lion + GT-02 Gorilla + RH-03 Rabbit + BC-04 Beetle + SJ-05 Stag Beetle**
 
 | 機體高度  | 機體寬度  | 機體厚度  | 機體重量  | 機體航速    | 機組力量輸出    | 演出   |
 | ----- | ----- | ----- | ----- | ------- | --------- | ---- |
@@ -1958,19 +1827,13 @@ Busters的得力夥伴。
 |       |       |       |       |         |           |      |
 
   -
-    在發出「**Go Buster King GaGaGain！／**」音效後發動**Combine
-    Operation．特命合體**，由Tategami Lion代替Ace擔當主體，跟Great Go
-    Buster類似的巨大Megazord。
+    在發出「**Go Buster King GaGaGain！／**」音效後發動**Combine Operation．特命合體**，由Tategami Lion代替Ace擔當主體，跟Great Go Buster類似的巨大Megazord。
     跟Great Go Buster最大分別是不用以人手進行合體。
     同樣的，由於胸口和頭盔都改由Tategami Lion部份構成，所以該部份本身的零件都都裝到背部。
-    武器除了沿用了Great Go Buster的Buster Lance外，還加入了由Stag
-    Beetle構成的雙臂上伸出的兩把鍬角型長劍，其專用攻擊技是向敵人使出X字斬的「**Twin
-    Blade Slash／**」。
+    武器除了沿用了Great Go Buster的Buster Lance外，還加入了由Stag Beetle構成的雙臂上伸出的兩把鍬角型長劍，其專用攻擊技是向敵人使出X字斬的「**Twin Blade Slash／**」。
     在力量和防御上被大幅特化，不過速度相對亦變低了。
     有著能輕鬆打倒改造後的素體γ、改造後的素體δ的力量。
-    必殺技是將Enetron聚集於Buster Lance，向敵人使出連續三段斬的「**Emission
-    Break／**」和將Enetron聚集於Tategami Lion口部並發射的「**Lio
-    Hurricane／**」。
+    必殺技是將Enetron聚集於Buster Lance，向敵人使出連續三段斬的「**Emission Break／**」和將Enetron聚集於Tategami Lion口部並發射的「**Lio Hurricane／**」。
 
 ## 設定・用語
 
@@ -1982,8 +1845,7 @@ Busters的得力夥伴。
 **Enetron／創能源（港譯）**
 
   -
-    在新西曆被發現的超能源。即使產生微量的能源爆發，也無危害人體安全之虞，是為一純淨的能源。一般用的電氣、瓦斯、石油等等，在新西曆都以**Enetron**作為替代，同時也為人類的生命之源。某些地區的街道上設有高層且大尺寸的「能源儲存罐Enetron
-    Tank」，Vaglass的Messiah復活後需要大量的Enetron，故常以此為目標進行侵略。數量單位計為「Tron／創（港譯）」。
+    在新西曆被發現的超能源。即使產生微量的能源爆發，也無危害人體安全之虞，是為一純淨的能源。一般用的電氣、瓦斯、石油等等，在新西曆都以**Enetron**作為替代，同時也為人類的生命之源。某些地區的街道上設有高層且大尺寸的「能源儲存罐Enetron Tank」，Vaglass的Messiah復活後需要大量的Enetron，故常以此為目標進行侵略。數量單位計為「Tron／創（港譯）」。
 
 **能源管理局**
 
@@ -2018,7 +1880,7 @@ Busters的得力夥伴。
 **Meta Virus／米達病毒（港譯）**
 
   -
-    儲存在Enter手持的卡片裡的電腦病毒，與Escape比較不同是直接儲存類似[IPad裝置裡面](../Page/IPad.md "wikilink")。
+    儲存在Enter手持的卡片裡的電腦病毒，與Escape比較不同是直接儲存類似[IPad](../Page/IPad.md "wikilink")裝置裡面。
     基於其行為而命名為“燃燒”，“噬咬”等名稱。
     只要把這注入到無機物上，便能令其變成Metaloids。
 
@@ -2979,8 +2841,7 @@ Busters的得力夥伴。
 
   -
     《****》（Mission 1－27、Final）
-      - <small>演唱：高橋秀幸 ／ 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") ／
-        作曲・編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")</small>
+      - <small>演唱：高橋秀幸 ／ 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") ／ 作曲・編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")</small>
 
 <!-- end list -->
 
@@ -2992,10 +2853,7 @@ Busters的得力夥伴。
 
   -
     《**特命戰隊**》（Mission 1－49）\[22\]
-      - <small>演唱：[羅鈞滿](../Page/羅鈞滿.md "wikilink") ／
-        作詞：[天旋](../Page/天旋.md "wikilink") ／
-        作曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")
-        ／ 編曲：[黃浩智](https://zh.wikipedia.org/wiki/黃浩智 "wikilink")</small>
+      - <small>演唱：[羅鈞滿](../Page/羅鈞滿.md "wikilink") ／ 作詞：[天旋](../Page/天旋.md "wikilink") ／ 作曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink") ／ 編曲：[黃浩智](https://zh.wikipedia.org/wiki/黃浩智 "wikilink")</small>
       - <small>第28集起因換片頭重製，但不換主題曲</small>
 
 ### 片尾曲
@@ -3014,118 +2872,89 @@ Busters的得力夥伴。
 
   -
     《**One wish,One day**》（Mission 9、10、24）
-      - <small>演唱：（CV：[鈴木勝大](../Page/鈴木勝大.md "wikilink") &
-        [藤原啟治](../Page/藤原啟治.md "wikilink")） ／ 作詞：藤林聖子 ／
-        作曲、編曲：鈴木盛廣</small>
+      - <small>演唱：（CV：[鈴木勝大](../Page/鈴木勝大.md "wikilink") & [藤原啟治](../Page/藤原啟治.md "wikilink")） ／ 作詞：藤林聖子 ／ 作曲、編曲：鈴木盛廣</small>
 
 <!-- end list -->
 
   -
     《****》（Mission 23）
-      - <small>演唱：（CV:[小宮有紗](../Page/小宮有紗.md "wikilink") &
-        [鈴木達央](../Page/鈴木達央.md "wikilink")）／作詞：藤林聖子 ／
-        作曲・編曲：淺田將明</small>
+      - <small>演唱：（CV:[小宮有紗](../Page/小宮有紗.md "wikilink") & [鈴木達央](../Page/鈴木達央.md "wikilink")）／作詞：藤林聖子 ／ 作曲・編曲：淺田將明</small>
 
 <!-- end list -->
 
   -
     《**Blue Banana Moon**》（Mission 25）
-      - <small>演唱：（CV:[馬場良馬](../Page/馬場良馬.md "wikilink")&[玄田哲章](../Page/玄田哲章.md "wikilink")）／作詞：藤林聖子
-        ／ 作曲・編曲：高木洋</small>
+      - <small>演唱：（CV:[馬場良馬](../Page/馬場良馬.md "wikilink")&[玄田哲章](../Page/玄田哲章.md "wikilink")）／作詞：藤林聖子 ／ 作曲・編曲：高木洋</small>
 
 <!-- end list -->
 
   -
     《****》（Mission 26、27）
-      - <small>演唱：（CV:鈴木勝大 & 藤原啟治 & 馬場良馬 & 玄田哲章 & 小宮有紗 & 鈴木達央）／作詞：藤林聖子 ／
-        作曲・編曲：高木洋</small>
+      - <small>演唱：（CV:鈴木勝大 & 藤原啟治 & 馬場良馬 & 玄田哲章 & 小宮有紗 & 鈴木達央）／作詞：藤林聖子 ／ 作曲・編曲：高木洋</small>
 
 <!-- end list -->
 
   -
     《****》（Final Mission）
-      - <small>演唱：高橋秀幸 ／ 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") ／
-        作曲・編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")</small>
+      - <small>演唱：高橋秀幸 ／ 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") ／ 作曲・編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")</small>
 
 ### 插曲
 
   -
     《****》（Mission 9、23、26、44）
-      - <small>演唱：山形ユキオ ／
-        作詞：[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
-        ／
-        作曲・編曲：[大橋恵](https://zh.wikipedia.org/wiki/大橋恵 "wikilink")</small>
+      - <small>演唱：山形ユキオ ／ 作詞：[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink") ／ 作曲・編曲：[大橋恵](https://zh.wikipedia.org/wiki/大橋恵 "wikilink")</small>
 
 <!-- end list -->
 
   -
     《****》（Mission 15）
-      - <small>作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") /
-        作曲：[高取秀明](../Page/高取秀明.md "wikilink") / 編曲：川瀬智 /
-        演唱：[高取秀明](../Page/高取秀明.md "wikilink")([Project.R](../Page/Project.R.md "wikilink"))
-        / 演奏：Z旗</small>
+      - <small>作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲：[高取秀明](../Page/高取秀明.md "wikilink") / 編曲：川瀬智 / 演唱：[高取秀明](../Page/高取秀明.md "wikilink")([Project.R](../Page/Project.R.md "wikilink")) / 演奏：Z旗</small>
 
 <!-- end list -->
 
   -
     《**Brand New Spark\!**》（Mission 17）
-      - <small>作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲：黒田晃太郎 /
-        編曲：黒田晃太郎、平木LAGGY宏隆 /
-        演唱：[高取秀明](../Page/高取秀明.md "wikilink")（[Project.R](../Page/Project.R.md "wikilink")）</small>
+      - <small>作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲：黒田晃太郎 / 編曲：黒田晃太郎、平木LAGGY宏隆 / 演唱：[高取秀明](../Page/高取秀明.md "wikilink")（[Project.R](../Page/Project.R.md "wikilink")）</small>
 
 <!-- end list -->
 
   -
     《**Perfect Mission**》（Mission 18、24）
-      - <small>作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") /
-        作曲：[NoB](https://zh.wikipedia.org/wiki/NoB "wikilink") /
-        編曲：河野陽吾 /
-        演唱：NoB([Project.R](../Page/Project.R.md "wikilink"))</small>
+      - <small>作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲：[NoB](https://zh.wikipedia.org/wiki/NoB "wikilink") / 編曲：河野陽吾 / 演唱：NoB([Project.R](../Page/Project.R.md "wikilink"))</small>
 
 <!-- end list -->
 
   -
     《****》（Mission 35、36）
-      - <small>作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲：大橋恵 / 編曲：大橋恵 /
-        演唱：[水木一郎](../Page/水木一郎.md "wikilink")</small>
+      - <small>作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲：大橋恵 / 編曲：大橋恵 / 演唱：[水木一郎](../Page/水木一郎.md "wikilink")</small>
 
 ### 角色曲
 
   -
     《****》
-      - <small>作詞：八手三郎 /
-        作曲：[Raizo.W](https://zh.wikipedia.org/wiki/Raizo.W "wikilink")
-        / 編曲：中畑丈治 /
-        歌：エンター（CV:[陳内将](https://zh.wikipedia.org/wiki/陳内将 "wikilink")）</small>
+      - <small>作詞：八手三郎 / 作曲：[Raizo.W](https://zh.wikipedia.org/wiki/Raizo.W "wikilink") / 編曲：中畑丈治 / 歌：エンター（CV:[陳内将](https://zh.wikipedia.org/wiki/陳内将 "wikilink")）</small>
 
 <!-- end list -->
 
   -
     《****》
-      - <small>作詞：[マイクスギヤマ](https://zh.wikipedia.org/wiki/マイクスギヤマ "wikilink")
-        / 作曲・編曲：[池毅](https://zh.wikipedia.org/wiki/池毅 "wikilink") /
-        歌：桜田リカ（CV:[吉木りさ](https://zh.wikipedia.org/wiki/吉木りさ "wikilink")）</small>
+      - <small>作詞：[マイクスギヤマ](https://zh.wikipedia.org/wiki/マイクスギヤマ "wikilink") / 作曲・編曲：[池毅](https://zh.wikipedia.org/wiki/池毅 "wikilink") / 歌：桜田リカ（CV:[吉木りさ](https://zh.wikipedia.org/wiki/吉木りさ "wikilink")）</small>
 
 <!-- end list -->
 
   -
     《****》
-      - <small>作詞：藤林聖子 / 作曲：高取ヒデアキ /
-        編曲：[籠島裕昌](https://zh.wikipedia.org/wiki/籠島裕昌 "wikilink")
-        /
-        歌：陣マサト&ビート・J・スタッグ（CV:[松本寛也](https://zh.wikipedia.org/wiki/松本寛也 "wikilink")&[中村悠一](../Page/中村悠一.md "wikilink")）</small>
+      - <small>作詞：藤林聖子 / 作曲：高取ヒデアキ / 編曲：[籠島裕昌](https://zh.wikipedia.org/wiki/籠島裕昌 "wikilink") / 歌：陣マサト&ビート・J・スタッグ（CV:[松本寛也](https://zh.wikipedia.org/wiki/松本寛也 "wikilink")&[中村悠一](../Page/中村悠一.md "wikilink")）</small>
 
 <!-- end list -->
 
   -
     《****》
-      - <small>作詞・作曲：Raizo.W / 編曲：中畑丈治 /
-        歌：エンター&エスケイプ（CV:陳内将&[水崎綾女](../Page/水崎綾女.md "wikilink")）</small>
+      - <small>作詞・作曲：Raizo.W / 編曲：中畑丈治 / 歌：エンター&エスケイプ（CV:陳内将&[水崎綾女](../Page/水崎綾女.md "wikilink")）</small>
 
 ## 剧场版
 
-  - **《[海贼战队豪快者 VS 宇宙刑事卡邦 The
-    Movie](https://zh.wikipedia.org/wiki/海贼战队豪快者_VS_宇宙刑事卡邦_The_Movie "wikilink")》**
+  - **《[海贼战队豪快者 VS 宇宙刑事卡邦 The Movie](https://zh.wikipedia.org/wiki/海贼战队豪快者_VS_宇宙刑事卡邦_The_Movie "wikilink")》**
 
 <!-- end list -->
 
@@ -3134,18 +2963,16 @@ Busters的得力夥伴。
 
 <!-- end list -->
 
-  - **《[假面騎士x超級戰隊
-    超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》**（[官網](http://www.toei.co.jp/movie/details/1197508_951.html)）
+  - **《[假面騎士x超級戰隊 超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》**（[官網](http://www.toei.co.jp/movie/details/1197508_951.html)）
 
 <!-- end list -->
 
   -
-    2012年4月21日上映。[超級戰隊系列與](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列兩大特攝英雄約](../Page/假面騎士系列.md "wikilink")240人夢幻共演。
+    2012年4月21日上映。[超級戰隊系列與](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列](../Page/假面騎士系列.md "wikilink")兩大特攝英雄約240人夢幻共演。
 
 <!-- end list -->
 
-  - **《[特命戰隊Go Busters THE MOVIE
-    保護東京Enetower\!](../Page/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!.md "wikilink")》**
+  - **《[特命戰隊Go Busters THE MOVIE 保護東京Enetower\!](../Page/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!.md "wikilink")》**
 
 <!-- end list -->
 
@@ -3154,8 +2981,7 @@ Busters的得力夥伴。
 
 <!-- end list -->
 
-  - **《[特命戰隊Go Busters VS 海賊戰隊豪快者 THE
-    MOVIE](../Page/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE.md "wikilink")》**
+  - **《[特命戰隊Go Busters VS 海賊戰隊豪快者 THE MOVIE](../Page/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE.md "wikilink")》**
 
 <!-- end list -->
 
@@ -3164,25 +2990,23 @@ Busters的得力夥伴。
 
 <!-- end list -->
 
-  - **《[假面骑士×超级战队×宇宙刑事
-    超级英雄大战Z](https://zh.wikipedia.org/wiki/假面骑士×超级战队×宇宙刑事_超级英雄大战Z "wikilink")》**
+  - **《[假面骑士×超级战队×宇宙刑事 超级英雄大战Z](https://zh.wikipedia.org/wiki/假面骑士×超级战队×宇宙刑事_超级英雄大战Z "wikilink")》**
 
 <!-- end list -->
 
   -
-    2013年4月27日上映。[超級戰隊系列联合](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列與](../Page/假面騎士系列.md "wikilink")[宇宙刑事系列三大特攝英雄約](../Page/宇宙刑事.md "wikilink")250人夢幻共演。
+    2013年4月27日上映。[超級戰隊系列联合](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列](../Page/假面騎士系列.md "wikilink")與[宇宙刑事](../Page/宇宙刑事.md "wikilink")系列三大特攝英雄約250人夢幻共演。
 
 <!-- end list -->
 
-  - **《[獸電戰隊強龍者 VS Go Busters 恐龍大決戰！
-    再見永遠的朋友啊](../Page/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊.md "wikilink")》**
+  - **《[獸電戰隊強龍者 VS Go Busters 恐龍大決戰！ 再見永遠的朋友啊](../Page/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊.md "wikilink")》**
 
 <!-- end list -->
 
   -
     2014年1月18日上映。
 
-## [超級英雄時間關連項目](../Page/超級英雄時間.md "wikilink")
+## [超級英雄時間](../Page/超級英雄時間.md "wikilink")關連項目
 
   - [假面骑士Fourze](https://zh.wikipedia.org/wiki/假面骑士Fourze "wikilink")
   - [假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")
@@ -3196,16 +3020,7 @@ Busters的得力夥伴。
   - [《特命戰隊Go Busters》朝日官方網站](http://www.tv-asahi.co.jp/go-bus/)
   - [《特命戰隊Go Busters》東映官方網站](http://www.toei.co.jp/tv/go-bus/)
 
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink")
-[Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink")
-[Category:平行世界題材電視劇](https://zh.wikipedia.org/wiki/Category:平行世界題材電視劇 "wikilink")
-[Category:間諜題材電視劇](https://zh.wikipedia.org/wiki/Category:間諜題材電視劇 "wikilink")
-[Category:自主機器人題材電視劇](https://zh.wikipedia.org/wiki/Category:自主機器人題材電視劇 "wikilink")
-[Category:東森電視外購電視劇](https://zh.wikipedia.org/wiki/Category:東森電視外購電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink")
-[Category:賽博朋克電視劇](https://zh.wikipedia.org/wiki/Category:賽博朋克電視劇 "wikilink")
+[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink") [Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink") [Category:平行世界題材電視劇](https://zh.wikipedia.org/wiki/Category:平行世界題材電視劇 "wikilink") [Category:間諜題材電視劇](https://zh.wikipedia.org/wiki/Category:間諜題材電視劇 "wikilink") [Category:自主機器人題材電視劇](https://zh.wikipedia.org/wiki/Category:自主機器人題材電視劇 "wikilink") [Category:東森電視外購電視劇](https://zh.wikipedia.org/wiki/Category:東森電視外購電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink") [Category:賽博朋克電視劇](https://zh.wikipedia.org/wiki/Category:賽博朋克電視劇 "wikilink")
 
 1.
 2.
@@ -3222,11 +3037,9 @@ Busters的得力夥伴。
 13. 但這ID應該是能源管理局時期的。
 14. 性格輕率這一點跟同樣是由小林靖子擔任劇本的[假面騎士電王的櫻井侑斗相似](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")。
 15. 因此Mission 16在他獨自變身的那段，彼得·J·阿角應該在其附近。
-16. 該角色在超級戰隊系列30週年紀念劇場版「[轟轟戰隊冒險者VS超級戰隊](../Page/轟轟戰隊冒險者VS超級戰隊.md "wikilink")」、2015年第39支[手裏劍戰隊忍忍者的第](../Page/手裏劍戰隊忍忍者.md "wikilink")38集出場，及於2018年客串「[英雄媽媽★聯盟](../Page/英雄媽媽★聯盟.md "wikilink")」。
+16. 該角色在超級戰隊系列30週年紀念劇場版「[轟轟戰隊冒險者VS超級戰隊](../Page/轟轟戰隊冒險者VS超級戰隊.md "wikilink")」、2015年第39支[手裏劍戰隊忍忍者](../Page/手裏劍戰隊忍忍者.md "wikilink")的第38集出場，及於2018年客串「[英雄媽媽★聯盟](../Page/英雄媽媽★聯盟.md "wikilink")」。
 17. 該名稱於Mission 30出現。
-18. 駕駛員有Red Buster、Beet Buster（Mission 38、43）、Blue Buster（Mission
-    48）和豪快紅（[特命戰隊Go Busters VS 海賊戰隊豪快者 THE
-    MOVIE](../Page/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE.md "wikilink")）
+18. 駕駛員有Red Buster、Beet Buster（Mission 38、43）、Blue Buster（Mission 48）和豪快紅（[特命戰隊Go Busters VS 海賊戰隊豪快者 THE MOVIE](../Page/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE.md "wikilink")）
 19. 在Mission 45時
 20. 任務
 21. 12月30日停播一次。

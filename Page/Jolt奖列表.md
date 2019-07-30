@@ -1,4 +1,4 @@
-[Jolt奖是一个](../Page/Jolt奖.md "wikilink")[计算机领域的奖项](https://zh.wikipedia.org/wiki/计算机 "wikilink")，这里列出的是该奖的历史获奖记录。
+[Jolt奖](../Page/Jolt奖.md "wikilink")是一个[计算机领域的奖项](https://zh.wikipedia.org/wiki/计算机 "wikilink")，这里列出的是该奖的历史获奖记录。
 
 尽管该奖在业内较有知名度，并且受到一定程度的推崇，但由于官方网站缺乏历史记录，正式媒体中这类信息也非常的零散，因此只能从个人收集的各类信息中进行汇集。相对于书籍类而言，其它类型的奖项更加缺乏记录。因此，没有在此列出的非书籍类的奖项记录，并不代表当年没有评选该奖项，而是因历史记录零散而较难整理出来。具体的参考记录，请参见外部链接一节。
 
@@ -375,13 +375,12 @@
 | 2001 | *（公司）*                                                                               | [Borland](../Page/Borland.md "wikilink")                                |
 | 2000 | Visual SlickEdit                                                                     | [MicroEdge](https://zh.wikipedia.org/wiki/MicroEdge "wikilink")         |
 | 1999 | *（公司）*                                                                               | [O’Reilly and Associates](https://zh.wikipedia.org/wiki/奥莱理 "wikilink") |
-| 1998 | [Visio](https://zh.wikipedia.org/wiki/Visio "wikilink")                              | Visio Corperation（已被[微软收购](../Page/微软.md "wikilink")）                   |
+| 1998 | [Visio](https://zh.wikipedia.org/wiki/Visio "wikilink")                              | Visio Corperation（已被[微软](../Page/微软.md "wikilink")收购）                   |
 | 1997 | [Visual Basic](../Page/Visual_Basic.md "wikilink")                                   | [微软](../Page/微软.md "wikilink")                                          |
 | 1996 | BoundsChecker                                                                        | [NuMega](https://zh.wikipedia.org/wiki/NuMega "wikilink")               |
 
 ## 参见
 
-[Category:計算機科學獎項](https://zh.wikipedia.org/wiki/Category:計算機科學獎項 "wikilink")
-[Category:奖项列表](https://zh.wikipedia.org/wiki/Category:奖项列表 "wikilink")
+[Category:計算機科學獎項](https://zh.wikipedia.org/wiki/Category:計算機科學獎項 "wikilink") [Category:奖项列表](https://zh.wikipedia.org/wiki/Category:奖项列表 "wikilink")
 
 1.

@@ -1,59 +1,34 @@
-**HK
-P30**是一系列由[黑克勒-科赫在](../Page/黑克勒&科赫.md "wikilink")2006年研製和生產的緊湊型、全尺寸及䄂珍型[半自動手槍](../Page/半自動手槍.md "wikilink")，是[HK
-P2000的改進型](../Page/HK_P2000手槍.md "wikilink")，在2005年公開的早期型P30原型又被稱為P3000。先後推出[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40
-S\&W](../Page/.40_S&W.md "wikilink")[子弹這兩種](https://zh.wikipedia.org/wiki/子弹 "wikilink")[口徑的P](https://zh.wikipedia.org/wiki/口徑 "wikilink")30，9毫米口徑的可拆卸式雙排[彈匣](../Page/彈匣.md "wikilink")的容量為15發，而.40
-S\&W口徑則為13發。P30亦具有使用獨特的改進設計，更符合[人體工程學的特點](../Page/人因工程学.md "wikilink")；它所具有的特點是，減少了操作時所造成的壓力，並同時增加使用者操作和射擊的時侯的舒適度。
+**HK P30**是一系列由[黑克勒-科赫在](../Page/黑克勒&科赫.md "wikilink")2006年研製和生產的緊湊型、全尺寸及䄂珍型[半自動手槍](../Page/半自動手槍.md "wikilink")，是[HK P2000的改進型](../Page/HK_P2000手槍.md "wikilink")，在2005年公開的早期型P30原型又被稱為P3000。先後推出[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40 S\&W](../Page/.40_S&W.md "wikilink")[子弹這兩種](https://zh.wikipedia.org/wiki/子弹 "wikilink")[口徑的P](https://zh.wikipedia.org/wiki/口徑 "wikilink")30，9毫米口徑的可拆卸式雙排[彈匣](../Page/彈匣.md "wikilink")的容量為15發，而.40 S\&W口徑則為13發。P30亦具有使用獨特的改進設計，更符合[人體工程學的特點](../Page/人因工程学.md "wikilink")；它所具有的特點是，減少了操作時所造成的壓力，並同時增加使用者操作和射擊的時侯的舒適度。
 
 ## 歷史
 
-HK P30的設計概念就是一把理想的執法機關用手槍，而且多個執法機構並已經選擇了HK
-P30作為他們的[制式](https://zh.wikipedia.org/wiki/制式手槍 "wikilink")。
+HK P30的設計概念就是一把理想的執法機關用手槍，而且多個執法機構並已經選擇了HK P30作為他們的[制式](https://zh.wikipedia.org/wiki/制式手槍 "wikilink")。
 
-截至2006年底，[德國聯邦海關總署](https://zh.wikipedia.org/wiki/聯邦海關總署 "wikilink")（，簡稱：ZKA）已購入13,500把P30
-V6，亦分配到各個成員以取代以前使用的[P6](https://zh.wikipedia.org/wiki/SIG_P225 "wikilink")，使他們成為P30的[第一個客戶](../Page/啟始客戶.md "wikilink")。
+截至2006年底，[德國聯邦海關總署](https://zh.wikipedia.org/wiki/聯邦海關總署 "wikilink")（，簡稱：ZKA）已購入13,500把P30 V6，亦分配到各個成員以取代以前使用的[P6](https://zh.wikipedia.org/wiki/SIG_P225 "wikilink")，使他們成為P30的[第一個客戶](../Page/啟始客戶.md "wikilink")。
 
-此外，[挪威警察已決定購入P](https://zh.wikipedia.org/wiki/挪威警察 "wikilink")30L
-V1手槍，亦且購入約7,000把。\[1\]
+此外，[挪威警察已決定購入P](https://zh.wikipedia.org/wiki/挪威警察 "wikilink")30L V1手槍，亦且購入約7,000把。\[1\]
 
-在2008年10月，[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[苏黎世州](../Page/苏黎世州.md "wikilink")的[州警察以價值](https://zh.wikipedia.org/wiki/州警察 "wikilink")160萬[瑞士法郎](../Page/瑞士法郎.md "wikilink")（約[$](../Page/美元.md "wikilink")13.5萬）購買數目和型號不詳的P30，以取代以前使用的[SIG
-P225和](https://zh.wikipedia.org/wiki/SIG_P225 "wikilink")[SIG
-P228](../Page/SIG_P228手槍.md "wikilink")。\[2\]
+在2008年10月，[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[苏黎世州](../Page/苏黎世州.md "wikilink")的[州警察以價值](https://zh.wikipedia.org/wiki/州警察 "wikilink")160萬[瑞士法郎](../Page/瑞士法郎.md "wikilink")（約[$](../Page/美元.md "wikilink")13.5萬）購買數目和型號不詳的P30，以取代以前使用的[SIG P225和](https://zh.wikipedia.org/wiki/SIG_P225 "wikilink")[SIG P228](../Page/SIG_P228手槍.md "wikilink")。\[2\]
 
-2008年11月下旬，德國[聯邦警察訂購](https://zh.wikipedia.org/wiki/聯邦警察 "wikilink")30,000把P30
-V2，另外擁有5,000把選擇購買權，並且定於2009年夏季至2011年交付。\[3\]
+2008年11月下旬，德國[聯邦警察訂購](https://zh.wikipedia.org/wiki/聯邦警察 "wikilink")30,000把P30 V2，另外擁有5,000把選擇購買權，並且定於2009年夏季至2011年交付。\[3\]
 
-2010年4月，德國[黑森](../Page/黑森.md "wikilink")（）國家警察訂購大約16,000把P30
-V2。同時黑森的州級監獄的獄警亦將裝備這種手槍型號。\[4\]
+2010年4月，德國[黑森](../Page/黑森.md "wikilink")（）國家警察訂購大約16,000把P30 V2。同時黑森的州級監獄的獄警亦將裝備這種手槍型號。\[4\]
 
-P30
-NL（H3）型號目前正在考慮給[荷蘭警察服役](https://zh.wikipedia.org/wiki/荷蘭警察 "wikilink")。這把手槍完成第二個在歐洲的招標，擊敗在2011年11月以後被駁回的[SIG
-P250](../Page/SIG_P250手槍.md "wikilink")，和之前的[-{zh:瓦爾特; zh-hans:瓦尔特;
-zh-hant:華瑟;}-P99 Q NL](../Page/瓦爾特P99手槍.md "wikilink")（H3）和[貝瑞塔Px4
-Storm](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")。當荷蘭警察部長[伊沃·奧沙弗斯](https://zh.wikipedia.org/wiki/伊沃·奧沙弗斯 "wikilink")（）得出的結論是SIG
-Sauer在[大量生產的環境以下根本無法實現所要求的品質](https://zh.wikipedia.org/wiki/生產線 "wikilink")，他決定選擇了P30
-NL（H3）。\[5\]\[6\]\[7\]然而，瓦爾特和貝瑞塔向法院提出上訴，堅持應該開始一個新的招標程序。2012年1月24日，法院決定應該組織一個新的招標程序。奧沙弗斯選擇啟動一個快速和嚴格的新招標程序，如果中標者應予以拒絕，可以選擇其他產品。這將會導致[荷蘭公共安全與司法部](../Page/荷蘭公共安全與司法部.md "wikilink")延遲引進一把新型警用手槍一至一年半。\[8\]\[9\]\[10\]在2012年10月，瓦爾特P99
-Q
-NL（H3）變得明顯地會在2013年至2014年取代[瓦爾特P5和](../Page/瓦爾特P5手槍.md "wikilink")[格洛克17](../Page/格洛克17.md "wikilink")這兩把手槍。\[11\]\[12\]
+P30 NL（H3）型號目前正在考慮給[荷蘭警察服役](https://zh.wikipedia.org/wiki/荷蘭警察 "wikilink")。這把手槍完成第二個在歐洲的招標，擊敗在2011年11月以後被駁回的[SIG P250](../Page/SIG_P250手槍.md "wikilink")，和之前的[-{zh:瓦爾特; zh-hans:瓦尔特; zh-hant:華瑟;}-P99 Q NL](../Page/瓦爾特P99手槍.md "wikilink")（H3）和[貝瑞塔Px4 Storm](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")。當荷蘭警察部長[伊沃·奧沙弗斯](https://zh.wikipedia.org/wiki/伊沃·奧沙弗斯 "wikilink")（）得出的結論是SIG Sauer在[大量生產的環境以下根本無法實現所要求的品質](https://zh.wikipedia.org/wiki/生產線 "wikilink")，他決定選擇了P30 NL（H3）。\[5\]\[6\]\[7\]然而，瓦爾特和貝瑞塔向法院提出上訴，堅持應該開始一個新的招標程序。2012年1月24日，法院決定應該組織一個新的招標程序。奧沙弗斯選擇啟動一個快速和嚴格的新招標程序，如果中標者應予以拒絕，可以選擇其他產品。這將會導致[荷蘭公共安全與司法部](../Page/荷蘭公共安全與司法部.md "wikilink")延遲引進一把新型警用手槍一至一年半。\[8\]\[9\]\[10\]在2012年10月，瓦爾特P99 Q NL（H3）變得明顯地會在2013年至2014年取代[瓦爾特P5和](../Page/瓦爾特P5手槍.md "wikilink")[格洛克17](../Page/格洛克17.md "wikilink")這兩把手槍。\[11\]\[12\]
 
 ## 設計細節
 
-和P2000一樣，P30是一把[短後座行程作用操作](../Page/後座作用.md "wikilink")、[閉膛待擊](https://zh.wikipedia.org/wiki/閉膛待擊 "wikilink")[半自動](../Page/半自動手槍.md "wikilink")[手枪](../Page/手枪.md "wikilink")，它使用了改良[白朗寧式無閉鎖凸耳的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[槍機](https://zh.wikipedia.org/wiki/槍機 "wikilink")，而垂直傾斜[槍管](../Page/槍管.md "wikilink")的設計亦是來自[HK
-USP系列自動裝填手槍](../Page/HK_USP手槍.md "wikilink")，以及最現代化的無閉鎖凸耳半自動射擊系統。
+和P2000一樣，P30是一把[短後座行程作用操作](../Page/後座作用.md "wikilink")、[閉膛待擊](https://zh.wikipedia.org/wiki/閉膛待擊 "wikilink")[半自動](../Page/半自動手槍.md "wikilink")[手枪](../Page/手枪.md "wikilink")，它使用了改良[白朗寧式無閉鎖凸耳的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[槍機](https://zh.wikipedia.org/wiki/槍機 "wikilink")，而垂直傾斜[槍管](../Page/槍管.md "wikilink")的設計亦是來自[HK USP系列自動裝填手槍](../Page/HK_USP手槍.md "wikilink")，以及最現代化的無閉鎖凸耳半自動射擊系統。
 
 技術上，P30類似於P2000，而差異就在其外觀和人體工程學上的改進。
 
-P30亦是一把使用射擊的手槍；亦有一種可選的縮短型擊錘。它裝有非常靈巧的[套筒鎖](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（[空槍掛機桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")）和[彈匣卡筍安裝在扳機護圈附近的兩側](https://zh.wikipedia.org/wiki/彈匣卡筍 "wikilink")，兩手皆可讓[拇指舒服地操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")，進而快速識別彈盡和更換彈匣。各個衍生型的[扳機和扳機系統提供了轉換扳機射擊模式可能性](https://zh.wikipedia.org/wiki/扳機 "wikilink")，即是由第一種操作模式轉換到另一種操作模式。有幾種的衍生型是可以使用“執法機關修改型”（，簡稱：LEM
-trigger，又稱為“戰鬥防衛型”，，簡稱：CDA）的扳機結構（黑克勒-科赫研製的純雙動操作型號），其設計足以抗衡使用單／雙動操作的扳機結構。
+P30亦是一把使用射擊的手槍；亦有一種可選的縮短型擊錘。它裝有非常靈巧的[套筒鎖](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（[空槍掛機桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")）和[彈匣卡筍安裝在扳機護圈附近的兩側](https://zh.wikipedia.org/wiki/彈匣卡筍 "wikilink")，兩手皆可讓[拇指舒服地操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")，進而快速識別彈盡和更換彈匣。各個衍生型的[扳機和扳機系統提供了轉換扳機射擊模式可能性](https://zh.wikipedia.org/wiki/扳機 "wikilink")，即是由第一種操作模式轉換到另一種操作模式。有幾種的衍生型是可以使用“執法機關修改型”（，簡稱：LEM trigger，又稱為“戰鬥防衛型”，，簡稱：CDA）的扳機結構（黑克勒-科赫研製的純雙動操作型號），其設計足以抗衡使用單／雙動操作的扳機結構。
 
 所有的P30手槍都具有自動擊錘保險和擊針保險。某些扳機配置也提供了[待擊解脫桿](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")。
 
 以[钢](../Page/钢.md "wikilink")材、[冷鍛法和鍍](https://zh.wikipedia.org/wiki/膛線#錘鍛（Hammer_forge） "wikilink")[铬](../Page/铬.md "wikilink")工藝製造出來的槍管具有多邊形的輪廓，而[套筒是由硝酸滲碳所製成的鋼材所製成](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，十分堅硬。P30亦跟隨著最近的現代手槍設計趨勢，大量地採用耐高溫、耐磨損的[聚合物](../Page/聚合物.md "wikilink")及鋼材混合材料以減輕全槍重量和生產成本。
 
-主要金屬成分，比如鋼製[套筒都經過](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。黑克勒-科赫指出這種表面的“HE”（Hostile
-Environment，惡劣環境）處理，[硝基氣體滲碳](https://zh.wikipedia.org/wiki/鐵素體氮碳共滲 "wikilink")，產生的黑色氧化膜，是極其堅硬的。它能夠使這手槍抗磨損和[腐蚀](../Page/腐蚀.md "wikilink")，包括避免接觸[海水](../Page/海水.md "wikilink")，這種處理使得它特別適合作為個人的手槍（尤其是其袖珍型），而高聚氯乙烯耐處理並可以減少手槍受到[汗水的影響](../Page/汗液.md "wikilink")。
-[Heckler_&_Koch_P30_pistol.JPG](https://zh.wikipedia.org/wiki/File:Heckler_&_Koch_P30_pistol.JPG "fig:Heckler_&_Koch_P30_pistol.JPG")採用的HK
-P30戰術型。\]\]
-P30亦跟隨著最近的現代手槍設計趨勢，大量地採用耐高溫、耐磨損的[聚合物](../Page/聚合物.md "wikilink")及[钢](../Page/钢.md "wikilink")材混合材料以減輕全槍重量和生產成本。與其他黑克勒-科赫手槍設計不同的是，P30的握把使用了模塊化設計，以適應個別需要。握把可以換裝3種可更換式後方握把片和3種側面握把片，兩者皆有小型、中型和大型這3種尺寸。
+主要金屬成分，比如鋼製[套筒都經過](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。黑克勒-科赫指出這種表面的“HE”（Hostile Environment，惡劣環境）處理，[硝基氣體滲碳](https://zh.wikipedia.org/wiki/鐵素體氮碳共滲 "wikilink")，產生的黑色氧化膜，是極其堅硬的。它能夠使這手槍抗磨損和[腐蚀](../Page/腐蚀.md "wikilink")，包括避免接觸[海水](../Page/海水.md "wikilink")，這種處理使得它特別適合作為個人的手槍（尤其是其袖珍型），而高聚氯乙烯耐處理並可以減少手槍受到[汗水的影響](../Page/汗液.md "wikilink")。 [Heckler_&_Koch_P30_pistol.JPG](https://zh.wikipedia.org/wiki/File:Heckler_&_Koch_P30_pistol.JPG "fig:Heckler_&_Koch_P30_pistol.JPG")採用的HK P30戰術型。\]\] P30亦跟隨著最近的現代手槍設計趨勢，大量地採用耐高溫、耐磨損的[聚合物](../Page/聚合物.md "wikilink")及[钢](../Page/钢.md "wikilink")材混合材料以減輕全槍重量和生產成本。與其他黑克勒-科赫手槍設計不同的是，P30的握把使用了模塊化設計，以適應個別需要。握把可以換裝3種可更換式後方握把片和3種側面握把片，兩者皆有小型、中型和大型這3種尺寸。
 
 不論是後方握把片和側面握把片的組裝都可以完全地隨機選擇換裝的，包括對稱和不對稱，總共有27種不同握把片配置。這樣就令使用者可以因應其手掌大小而調節握把的[形狀](../Page/形狀.md "wikilink")和尺寸，更適合不同的手形。加上握把上亦有手指凹槽的設計，因此射擊時比較穩定和準確的。即使是女性也可以舒適地握緊和射擊。
 
@@ -65,11 +40,7 @@ P30的[彈匣](../Page/彈匣.md "wikilink")在沒有上子彈時的重量為93�
 
 清潔P30的時候，可以在不需要任何工具以下就將P30分解成各個組件。分解手槍的時候，握槍手不需要離開握把就可以分解[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。
 
-後來，在2010年的之中，HK USA推出了[.40](../Page/.40_S&W.md "wikilink")
-[口徑的P](https://zh.wikipedia.org/wiki/口徑 "wikilink")30；\[13\]在2011年的SHOT
-Show之中，再推出了[.40](../Page/.40_S&W.md "wikilink")
-[口徑的P](https://zh.wikipedia.org/wiki/口徑 "wikilink")30S。\[14\]2015年，推出了HK
-P30的袖珍型：P30SK。
+後來，在2010年的之中，HK USA推出了[.40](../Page/.40_S&W.md "wikilink") [口徑的P](https://zh.wikipedia.org/wiki/口徑 "wikilink")30；\[13\]在2011年的SHOT Show之中，再推出了[.40](../Page/.40_S&W.md "wikilink") [口徑的P](https://zh.wikipedia.org/wiki/口徑 "wikilink")30S。\[14\]2015年，推出了HK P30的袖珍型：P30SK。
 
 ### 選項
 
@@ -240,32 +211,16 @@ P30的另一個選擇是可以明顯地看見的[空彈匣指示器](https://zh.
 
 ### 電影
 
-  - 2012年—《[-{zh-cn:敢死队2; zh-tw:浴血任務2;
-    zh-hk:轟天猛將2;}-](https://zh.wikipedia.org/wiki/敢死队2 "wikilink")》（The
-    Expendables 2）：被浴血幫炸彈專家陳美琪／瑪姬·陳（Maggie
-    Chan，[余男](../Page/余男.md "wikilink")飾演）所使用。
+  - 2012年—《[-{zh-cn:敢死队2; zh-tw:浴血任務2; zh-hk:轟天猛將2;}-](https://zh.wikipedia.org/wiki/敢死队2 "wikilink")》（The Expendables 2）：被浴血幫炸彈專家陳美琪／瑪姬·陳（Maggie Chan，[余男](../Page/余男.md "wikilink")飾演）所使用。
   - 2013年—《[家園防線](https://zh.wikipedia.org/wiki/家園防線 "wikilink")》（Homefront）：被一名殺手（[羅恩·敘勒飾演](https://zh.wikipedia.org/wiki/羅恩·敘勒 "wikilink")）所使用。
-  - 2014年—《[-{zh-cn:疾速追杀; zh-tw:捍衛任務; zh-hk:殺神John
-    Wick;}-](../Page/捍衛任務.md "wikilink")》（John
-    Wick）：型號為P30L，为享有“巴巴亚加”（又称夜魔）之名的该片主角约翰·威克（[基努·里维斯](../Page/基努·里维斯.md "wikilink")饰演）主用手枪。
-  - 2014年—《[痞子英雄2：黎明再起](https://zh.wikipedia.org/wiki/痞子英雄2：黎明再起 "wikilink")》（Black
-    & White: The Dawn of
-    Justice）：被主角吳英雄（[趙又廷](../Page/趙又廷.md "wikilink")飾演）所使用。
-  - 2015年—《[-{zh-cn:王牌特工：特工学院; zh-hk:皇家特工：間諜密令;
-    zh-tw:金牌特務;}-](../Page/皇家特工：間諜密令.md "wikilink")》（Kingsman:
-    The Secret Service）：被億萬富豪慈善家烈文·華倫天（Richmond
-    Valentine，[森姆·積遜](../Page/森姆·積遜.md "wikilink")飾演）所使用。
-  - 2017年—《[-{zh-cn:疾速特攻; zh-tw:捍衛任務2：殺神回歸; zh-hk:殺神John Wick
-    2;}-](https://zh.wikipedia.org/wiki/捍衛任務2：殺神回歸 "wikilink")》（John
-    Wick: Chapter
-    2）：型號為P30L，被主角约翰·威克（[基努·里维斯](../Page/基努·里维斯.md "wikilink")饰演）於故事開頭所使用。
+  - 2014年—《[-{zh-cn:疾速追杀; zh-tw:捍衛任務; zh-hk:殺神John Wick;}-](../Page/捍衛任務.md "wikilink")》（John Wick）：型號為P30L，为享有“巴巴亚加”（又称夜魔）之名的该片主角约翰·威克（[基努·里维斯](../Page/基努·里维斯.md "wikilink")饰演）主用手枪。
+  - 2014年—《[痞子英雄2：黎明再起](https://zh.wikipedia.org/wiki/痞子英雄2：黎明再起 "wikilink")》（Black & White: The Dawn of Justice）：被主角吳英雄（[趙又廷](../Page/趙又廷.md "wikilink")飾演）所使用。
+  - 2015年—《[-{zh-cn:王牌特工：特工学院; zh-hk:皇家特工：間諜密令; zh-tw:金牌特務;}-](../Page/皇家特工：間諜密令.md "wikilink")》（Kingsman: The Secret Service）：被億萬富豪慈善家烈文·華倫天（Richmond Valentine，[森姆·積遜](../Page/森姆·積遜.md "wikilink")飾演）所使用。
+  - 2017年—《[-{zh-cn:疾速特攻; zh-tw:捍衛任務2：殺神回歸; zh-hk:殺神John Wick 2;}-](https://zh.wikipedia.org/wiki/捍衛任務2：殺神回歸 "wikilink")》（John Wick: Chapter 2）：型號為P30L，被主角约翰·威克（[基努·里维斯](../Page/基努·里维斯.md "wikilink")饰演）於故事開頭所使用。
 
 ### 電視劇
 
-  - 2014年—《24：再活一天》（24: Live Another Day）：型號為9毫米口徑型，被主角[-{zh-hans:杰克·鲍尔;
-    zh-hk:包智傑; zh-tw:傑克·鮑爾;}-](../Page/傑克·鮑爾.md "wikilink")（Jack
-    Bauer，[-{zh-cn:基弗·萨瑟兰; zh-tw:基佛·蘇德蘭;
-    zh-hk:基夫·修打蘭;}-飾演](../Page/基夫·修打蘭.md "wikilink")）所使用，奇怪地被他稱為“HK30”。
+  - 2014年—《24：再活一天》（24: Live Another Day）：型號為9毫米口徑型，被主角[-{zh-hans:杰克·鲍尔; zh-hk:包智傑; zh-tw:傑克·鮑爾;}-](../Page/傑克·鮑爾.md "wikilink")（Jack Bauer，[-{zh-cn:基弗·萨瑟兰; zh-tw:基佛·蘇德蘭; zh-hk:基夫·修打蘭;}-飾演](../Page/基夫·修打蘭.md "wikilink")）所使用，奇怪地被他稱為“HK30”。
 
 ### 電子遊戲
 
@@ -282,9 +237,7 @@ P30的另一個選擇是可以明顯地看見的[空彈匣指示器](https://zh.
   - [HK Mk 23 Mod 0手槍](../Page/HK_Mk_23_Mod_0手槍.md "wikilink")
   - [HK P2000手槍](../Page/HK_P2000手槍.md "wikilink")
   - [HK P2000 SK手槍](../Page/HK_P2000_SK手槍.md "wikilink")
-  - [HK45手槍](../Page/HK45手槍.md "wikilink")—[.45
-    ACP](../Page/.45_ACP.md "wikilink")[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")，它使用了和HK
-    P30相同的設計風格。
+  - [HK45手槍](../Page/HK45手槍.md "wikilink")—[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")，它使用了和HK P30相同的設計風格。
   - [HK VP9手槍](../Page/HK_VP9手槍.md "wikilink")
 
 ## 資料來源
@@ -300,8 +253,7 @@ P30的另一個選擇是可以明顯地看見的[空彈匣指示器](https://zh.
 
   - —《輕兵器》雜誌—
 
-      - 2007年4月上號：[HK
-        P30手枪：细微之处见真章](http://doc.qkzz.net/article/fe3efa08-99cc-4a6e-8a22-51eeee63745b.htm)
+      - 2007年4月上號：[HK P30手枪：细微之处见真章](http://doc.qkzz.net/article/fe3efa08-99cc-4a6e-8a22-51eeee63745b.htm)
       - 2015年8月上號：[世界著名轻武器公司新品汇](http://www.xzbu.com/8/view-6898367.htm)
       - 2016年1月下號：[德国HK公司最新款P30SK微型手枪](http://mall.cnki.net/magazine/Article/QBQI201602020.htm)
 
@@ -319,114 +271,70 @@ P30的另一個選擇是可以明顯地看見的[空彈匣指示器](https://zh.
       - [P30L/P30LS](http://www.heckler-koch.com/en/products/pistols/p30/p30lp30ls/overview.html)
       - [P30CM](http://www.heckler-koch.com/en/products/pistols/p30/p30cm/overview.html)
 
-  - —[HKPRO—P30 (Originally
-    P3000)](http://hkpro.eaglesfm.com/index.php?option=com_content&view=article&id=43:the-p30-originally-p3000&catid=6:the-pistols&Itemid=5)
+  - —[HKPRO—P30 (Originally P3000)](http://hkpro.eaglesfm.com/index.php?option=com_content&view=article&id=43:the-p30-originally-p3000&catid=6:the-pistols&Itemid=5)
 
-  - —[Modern Firearms—Heckler & Koch HK P30
-    pistol](http://world.guns.ru/handguns/hg/de/hk-p30-e.html)
+  - —[Modern Firearms—Heckler & Koch HK P30 pistol](http://world.guns.ru/handguns/hg/de/hk-p30-e.html)
 
   - —Weapon.ge—
 
-      - [Heckler & Koch
-        P30](http://georgians.weapon.ge/index.php?sel=1&id=127&man=&coun=&cat=1&l=en)
-      - [Heckler & Koch
-        P30L](http://georgians.weapon.ge/index.php?sel=1&id=128&man=&coun=&cat=1&l=en)
+      - [Heckler & Koch P30](http://georgians.weapon.ge/index.php?sel=1&id=127&man=&coun=&cat=1&l=en)
+      - [Heckler & Koch P30L](http://georgians.weapon.ge/index.php?sel=1&id=128&man=&coun=&cat=1&l=en)
 
   - 或—[Heckler & Koch Jagd- und Sportwaffen](http://www.hkjs.de/)
 
-  - —['P Series' user manual, includes the
-    P30](https://web.archive.org/web/20110711171946/http://hk-usa.com/-images/shared/PSeries_Ops_Manual_060809.pdf)
+  - —['P Series' user manual, includes the P30](https://web.archive.org/web/20110711171946/http://hk-usa.com/-images/shared/PSeries_Ops_Manual_060809.pdf)
 
-  - —[2008 Heckler & Koch Military and LE
-    brochure](http://photos.imageevent.com/smglee/cltactical/HK%20Military%20LE%20Catalog.pdf)
+  - —[2008 Heckler & Koch Military and LE brochure](http://photos.imageevent.com/smglee/cltactical/HK%20Military%20LE%20Catalog.pdf)
 
-  - —[Reports on a Heckler & Koch P30 9x19mm Parabellum endurance test
-    over 91,322 rounds conducted by
-    pistol-training.com](http://pistol-training.com/archives/2668)
+  - —[Reports on a Heckler & Koch P30 9x19mm Parabellum endurance test over 91,322 rounds conducted by pistol-training.com](http://pistol-training.com/archives/2668)
 
   - —The Firearm Blog.com—
 
-      - [Heckler & Koch P30 CM (Non-Lethal Paintball
-        Marker)](http://www.thefirearmblog.com/blog/2013/03/20/heckler-koch-p30-cm-non-lethal-paintball-marker/)
-      - [Gun Review: Heckler & Koch
-        P30](http://www.thefirearmblog.com/blog/2013/12/08/heckler-koch-p30/)
-      - [H\&K Announces P30SK Compact 9mm
-        Pistol](http://www.thefirearmblog.com/blog/2015/04/09/hk-announces-p30sk-compact-9mm-pistol/)
-      - [Heckler & Koch P30SK Shooting
-        Review](http://www.thefirearmblog.com/blog/2015/08/28/heckler-koch-p30sk-shooting-review/)
+      - [Heckler & Koch P30 CM (Non-Lethal Paintball Marker)](http://www.thefirearmblog.com/blog/2013/03/20/heckler-koch-p30-cm-non-lethal-paintball-marker/)
+      - [Gun Review: Heckler & Koch P30](http://www.thefirearmblog.com/blog/2013/12/08/heckler-koch-p30/)
+      - [H\&K Announces P30SK Compact 9mm Pistol](http://www.thefirearmblog.com/blog/2015/04/09/hk-announces-p30sk-compact-9mm-pistol/)
+      - [Heckler & Koch P30SK Shooting Review](http://www.thefirearmblog.com/blog/2015/08/28/heckler-koch-p30sk-shooting-review/)
 
   - —The Truth About Guns.com—
 
-      - [Gun Review: H\&K
-        P30](http://www.thetruthaboutguns.com/2011/12/david-jensen/gun-review-hk-p30/)
-      - [Gun Review: HK P30LS in .40
-        S\&W](http://www.thetruthaboutguns.com/2012/07/brett-solomon/gun-review-hk-p30ls-in-40-sw/)
-      - [Which Gun Would You Grab: HK P30 V3 9mm or SIG P228
-        M11-A1](http://www.thetruthaboutguns.com/2013/11/robert-farago/gun-grab-hk-p30-v3-9mm-sig-p228-m11-a1/)
-      - [HKParts.net Magazine Extension
-        Kits](http://www.thefirearmblog.com/blog/2016/02/18/hkparts-net-magazine-extension-kits/)
-      - [Gun Review: Heckler & Koch P30L
-        V1](http://www.thetruthaboutguns.com/2016/07/daniel-zimmerman/gun-review-heckler-koch-p30l-v1/)
+      - [Gun Review: H\&K P30](http://www.thetruthaboutguns.com/2011/12/david-jensen/gun-review-hk-p30/)
+      - [Gun Review: HK P30LS in .40 S\&W](http://www.thetruthaboutguns.com/2012/07/brett-solomon/gun-review-hk-p30ls-in-40-sw/)
+      - [Which Gun Would You Grab: HK P30 V3 9mm or SIG P228 M11-A1](http://www.thetruthaboutguns.com/2013/11/robert-farago/gun-grab-hk-p30-v3-9mm-sig-p228-m11-a1/)
+      - [HKParts.net Magazine Extension Kits](http://www.thefirearmblog.com/blog/2016/02/18/hkparts-net-magazine-extension-kits/)
+      - [Gun Review: Heckler & Koch P30L V1](http://www.thetruthaboutguns.com/2016/07/daniel-zimmerman/gun-review-heckler-koch-p30l-v1/)
 
   - —Tactical-Life.com—
 
-      - [Heckler & Koch
-        P30 9mm](http://www.tactical-life.com/online/combat-handguns/heckler-koch-p30-9mm/)
-      - [Heckler & Koch
-        P30 9mm](http://www.tactical-life.com/online/combat-handguns/heckler-koch-p30-9mm-2/)
-      - [Heckler & Koch P30s .40
-        S\&W](http://www.tactical-life.com/online/combat-handguns/heckler-koch-p30s-40-sw/)
-      - [Heckler & Koch
-        P30L 9mm](http://www.tactical-life.com/online/guns-and-weapons/heckler-koch-p30l-9mm/)
-      - [HECKLER & KOCH P30L .40
-        S\&W](http://www.tactical-life.com/online/combat-handguns/heckler-koch-p30l-40-sw/)
-      - [Preview: Heckler & Koch
-        P30 9mm](http://www.tactical-life.com/firearms/sneak-peek-heckler-koch-p30-9mm/)
-      - [Heckler & Koch P30L: Border Patrol’s Adopted
-        Beauty](http://www.tactical-life.com/magazines/tactical-weapons/bortac-heckler-koch-p30l/)
-      - [7 Reasons Why Cops Choose the 9mm Over the
-        .40](http://www.tactical-life.com/firearms/7-reasons-cops-choose-9mm-40/)
-      - [Heckler & Koch Adds Concealable P30SK Handgun to P30
-        Series](http://www.tactical-life.com/firearms/heckler-koch-p30sk-handgun/)
-      - [P30SK: Heckler & Koch’s New ‘SubKompact’
-        Pistol](http://www.tactical-life.com/firearms/heckler-koch-p30sk-subkompact-pistol/)
-      - [26 New Mid- To Full-Sized Handguns On the
-        Market](http://www.tactical-life.com/firearms/mid-to-full-sized-handguns-2016/#ss16-mdfshg-hk-p30sk)
+      - [Heckler & Koch P30 9mm](http://www.tactical-life.com/online/combat-handguns/heckler-koch-p30-9mm/)
+      - [Heckler & Koch P30 9mm](http://www.tactical-life.com/online/combat-handguns/heckler-koch-p30-9mm-2/)
+      - [Heckler & Koch P30s .40 S\&W](http://www.tactical-life.com/online/combat-handguns/heckler-koch-p30s-40-sw/)
+      - [Heckler & Koch P30L 9mm](http://www.tactical-life.com/online/guns-and-weapons/heckler-koch-p30l-9mm/)
+      - [HECKLER & KOCH P30L .40 S\&W](http://www.tactical-life.com/online/combat-handguns/heckler-koch-p30l-40-sw/)
+      - [Preview: Heckler & Koch P30 9mm](http://www.tactical-life.com/firearms/sneak-peek-heckler-koch-p30-9mm/)
+      - [Heckler & Koch P30L: Border Patrol’s Adopted Beauty](http://www.tactical-life.com/magazines/tactical-weapons/bortac-heckler-koch-p30l/)
+      - [7 Reasons Why Cops Choose the 9mm Over the .40](http://www.tactical-life.com/firearms/7-reasons-cops-choose-9mm-40/)
+      - [Heckler & Koch Adds Concealable P30SK Handgun to P30 Series](http://www.tactical-life.com/firearms/heckler-koch-p30sk-handgun/)
+      - [P30SK: Heckler & Koch’s New ‘SubKompact’ Pistol](http://www.tactical-life.com/firearms/heckler-koch-p30sk-subkompact-pistol/)
+      - [26 New Mid- To Full-Sized Handguns On the Market](http://www.tactical-life.com/firearms/mid-to-full-sized-handguns-2016/#ss16-mdfshg-hk-p30sk)
 
   - —Personal Defense World.com—
 
-      - [40 Autopistols From CONCEALED CARRY
-        HANDGUNS 2016](http://www.personaldefenseworld.com/2015/10/40-autopistols-from-concealed-carry-handguns-2016/#heckler-koch-p30sks)
-      - [Heckler & Koch’s Stylish, Street-Ready
-        P30SK 9mm](http://www.personaldefenseworld.com/2015/10/heckler-kochs-stylish-street-ready-p30sk-9mm/#heckler-koch-p30sk-2-2)
-      - [Personal Defense World.com—10 Fast & Furious .40 S\&W
-        Handguns](http://www.personaldefenseworld.com/2015/11/10-fast-furious-handguns-chambered-in-40-sw/#p30-right-side)
-      - [30 Concealed Carry Handguns To Jumpstart Your Personal
-        Defense](http://www.personaldefenseworld.com/2015/11/30-concealed-carry-handguns-to-jumpstart-your-personal-defense/#hk-p30sk-2)
-      - [21 of the Best Pocket Pistols Currently
-        Available](http://www.personaldefenseworld.com/2015/12/21-of-the-best-pocket-pistols-currently-available/#heckler-koch-p30sk)
-      - [27 Full-Sized Pistols From COMBAT HANDGUNS
-        In 2015](http://www.personaldefenseworld.com/2015/12/27-full-sized-pistols-from-combat-handguns-in-2015/#heckler-koch-p30sk-17)
+      - [40 Autopistols From CONCEALED CARRY HANDGUNS 2016](http://www.personaldefenseworld.com/2015/10/40-autopistols-from-concealed-carry-handguns-2016/#heckler-koch-p30sks)
+      - [Heckler & Koch’s Stylish, Street-Ready P30SK 9mm](http://www.personaldefenseworld.com/2015/10/heckler-kochs-stylish-street-ready-p30sk-9mm/#heckler-koch-p30sk-2-2)
+      - [Personal Defense World.com—10 Fast & Furious .40 S\&W Handguns](http://www.personaldefenseworld.com/2015/11/10-fast-furious-handguns-chambered-in-40-sw/#p30-right-side)
+      - [30 Concealed Carry Handguns To Jumpstart Your Personal Defense](http://www.personaldefenseworld.com/2015/11/30-concealed-carry-handguns-to-jumpstart-your-personal-defense/#hk-p30sk-2)
+      - [21 of the Best Pocket Pistols Currently Available](http://www.personaldefenseworld.com/2015/12/21-of-the-best-pocket-pistols-currently-available/#heckler-koch-p30sk)
+      - [27 Full-Sized Pistols From COMBAT HANDGUNS In 2015](http://www.personaldefenseworld.com/2015/12/27-full-sized-pistols-from-combat-handguns-in-2015/#heckler-koch-p30sk-17)
 
-  - —[D Boy Gun
-    World（槍炮世界）—P30手枪](http://firearmsworld.net/german/hk/p30/p30.htm)
+  - —[D Boy Gun World（槍炮世界）—P30手枪](http://firearmsworld.net/german/hk/p30/p30.htm)
 
-[Category:半自动手枪](https://zh.wikipedia.org/wiki/Category:半自动手枪 "wikilink")
-[Category:黑克勒-科赫](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫 "wikilink")
-[Category:德国半自动手枪](https://zh.wikipedia.org/wiki/Category:德国半自动手枪 "wikilink")
-[Category:黑克勒-科赫半自动手枪](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫半自动手枪 "wikilink")
-[Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink")
-[Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink")
+[Category:半自动手枪](https://zh.wikipedia.org/wiki/Category:半自动手枪 "wikilink") [Category:黑克勒-科赫](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫 "wikilink") [Category:德国半自动手枪](https://zh.wikipedia.org/wiki/Category:德国半自动手枪 "wikilink") [Category:黑克勒-科赫半自动手枪](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫半自动手枪 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink")
 
-1.  [P30-The new Service Pistol of the German Federal Customs
-    Administration](https://web.archive.org/web/20070315151247/http://www.heckler-koch.de/media/News/P30_PVT_SeptOkt06_engl.pdf).
-    Originally from www.heckler-koch.de, restored by web.archive.org
+1.  [P30-The new Service Pistol of the German Federal Customs Administration](https://web.archive.org/web/20070315151247/http://www.heckler-koch.de/media/News/P30_PVT_SeptOkt06_engl.pdf). Originally from www.heckler-koch.de, restored by web.archive.org
 
 2.  <http://www.ds.zh.ch/internet/ds/de/informationsstelle/news/news2008/230_NB.html>
 
-3.  [Federal Police to receive new service
-    pistol](http://heckler-koch.de/HKWebNews/byItemID///29//3/15).
-    Heckler & Koch, Nov 26, 2008
+3.  [Federal Police to receive new service pistol](http://heckler-koch.de/HKWebNews/byItemID///29//3/15). Heckler & Koch, Nov 26, 2008
 
 4.  <http://www.bild.de/BILD/regional/frankfurt/aktuell/2010/04/26/super-pistole/hessens-polizisten-bekommen-hk-p30.html>
 
@@ -446,28 +354,22 @@ P30的另一個選擇是可以明顯地看見的[空彈匣指示器](https://zh.
 
 12.
 
-13. [Ken Lunde's 2010 SHOT Show Photos & Report—HK
-    USA](http://lundestudio.com/2010SHOTShow/hkusa.html)
+13. [Ken Lunde's 2010 SHOT Show Photos & Report—HK USA](http://lundestudio.com/2010SHOTShow/hkusa.html)
 
-14. [Ken Lunde's 2011 SHOT Show Photos & Report—HK
-    USA](http://lundestudio.com/2011SHOTShow/hk.html)
+14. [Ken Lunde's 2011 SHOT Show Photos & Report—HK USA](http://lundestudio.com/2011SHOTShow/hk.html)
 
-15. [P30/S
-    Produktdetails](http://www.heckler-koch.de/HKWebText/detailProd/1925/138/4/21)
+15. [P30/S Produktdetails](http://www.heckler-koch.de/HKWebText/detailProd/1925/138/4/21)
 
-16. [P30L/LS
-    Produktdetails](http://www.heckler-koch.de/HKWebText/detailProd/1925/449/4/21)
+16. [P30L/LS Produktdetails](http://www.heckler-koch.de/HKWebText/detailProd/1925/449/4/21)
 
 17. [P30 SK at HK USA](http://hk-usa.com/hk-models/p30sk/)
 
-18. ['P30 Series' user manual, includes the
-    P30](http://hk-usa.com/wp-content/uploads/P30-Operators-Manual.pdf)
+18. ['P30 Series' user manual, includes the P30](http://hk-usa.com/wp-content/uploads/P30-Operators-Manual.pdf)
 
 19. <https://sites.google.com/site/worldinventory/wiw_eu_belgium>
 
 20.
-21. [P30 - The new Service Pistol of the German Federal Customs
-    Administration](http://heckler-koch.de/HKWebNews/byItemID///4//3/14)
+21. [P30 - The new Service Pistol of the German Federal Customs Administration](http://heckler-koch.de/HKWebNews/byItemID///4//3/14)
 
 22.
 23.

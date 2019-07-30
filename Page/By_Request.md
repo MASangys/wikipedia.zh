@@ -1,5 +1,4 @@
-***By
-Request***是[Boyzone于](https://zh.wikipedia.org/wiki/Boyzone "wikilink")1999年5月31日推出的一张精选集，收录曲目涵盖1994年至1999年间作品。
+***By Request***是[Boyzone于](https://zh.wikipedia.org/wiki/Boyzone "wikilink")1999年5月31日推出的一张精选集，收录曲目涵盖1994年至1999年间作品。
 
 ## 曲目
 

@@ -1,10 +1,10 @@
-《**AKB600sec.**》是[日本電視台於](../Page/日本電視台.md "wikilink")2010年7月5日至29日的深夜播放[綜藝節目](../Page/綜藝節目.md "wikilink")。
+《**AKB600sec.**》是[日本電視台](../Page/日本電視台.md "wikilink")於2010年7月5日至29日的深夜播放[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 而且，完全收錄版《**AKB5400sec.**》亦有記述。
 
 ## 概要
 
-  - 對[AKB48成員的一日跟拍](../Page/AKB48.md "wikilink")，為全長600秒的VTR總結[紀錄片節目](../Page/紀錄片.md "wikilink")。紀錄當日成員的行動和與人對話的過程。
+  - 對[AKB48](../Page/AKB48.md "wikilink")成員的一日跟拍，為全長600秒的VTR總結[紀錄片](../Page/紀錄片.md "wikilink")節目。紀錄當日成員的行動和與人對話的過程。
 
 ## 出演者
 
@@ -263,8 +263,7 @@ microSD收錄部分全篇播放</p></td>
   - 企劃協力：[秋元康](../Page/秋元康.md "wikilink")
   - 構成：三田卓人
   - TK：櫻井えみこ
-  - 音効：高取謙（[Thee
-    BLUEBEAT](https://zh.wikipedia.org/wiki/Thee_BLUEBEAT "wikilink")）
+  - 音効：高取謙（[Thee BLUEBEAT](https://zh.wikipedia.org/wiki/Thee_BLUEBEAT "wikilink")）
   - 編集・MA：[読売映像](https://zh.wikipedia.org/wiki/読売映像 "wikilink")
   - 講述人：波多野貴仁
   - 協力：[AKS](../Page/AKS.md "wikilink")
@@ -276,8 +275,7 @@ microSD收錄部分全篇播放</p></td>
   - 辦公桌：寺田あゆみ
   - 企業製作人：原園明彦
   - 內容製作人：大野哲哉
-  - 董事：八島崇行（1・7）、吉岡大介（1・2・12・16）、森榮一郎（2・9、[オンリー・ワン](https://zh.wikipedia.org/wiki/オンリー・ワン "wikilink")）、森下剛（3・13）、小岩井佑樹（4・10・15）、山下朋洋（5・8）、野上貢（6・14）、佐野浩巳（7、[OFFICE
-    KR](https://zh.wikipedia.org/wiki/OFFICE_KR "wikilink")）、宇野慎也（8）、川口信祥（11）、藤原耕治（12）
+  - 董事：八島崇行（1・7）、吉岡大介（1・2・12・16）、森榮一郎（2・9、[オンリー・ワン](https://zh.wikipedia.org/wiki/オンリー・ワン "wikilink")）、森下剛（3・13）、小岩井佑樹（4・10・15）、山下朋洋（5・8）、野上貢（6・14）、佐野浩巳（7、[OFFICE KR](https://zh.wikipedia.org/wiki/OFFICE_KR "wikilink")）、宇野慎也（8）、川口信祥（11）、藤原耕治（12）
   - 製作人：遠藤正累、前田直敬、佐佐木俊勝（Ecompany）
   - 企劃演出兼製作人：毛利忍
   - 首席製作人：[藤井淳](https://zh.wikipedia.org/wiki/藤井淳 "wikilink")
@@ -324,8 +322,7 @@ microSD收錄部分全篇播放</p></td>
 
 ## 相關節目
 
-  - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink") -
-    同局的AKB48的冠名節目。
+  - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink") - 同局的AKB48的冠名節目。
 
 ## 外部連結
 
@@ -333,6 +330,4 @@ microSD收錄部分全篇播放</p></td>
 
   - （節目的公式帳戶）
 
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
-[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink")
-[Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")
+[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")

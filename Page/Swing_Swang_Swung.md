@@ -1,5 +1,4 @@
-**《Swing Swang
-Swung》**是[香港男子組合](../Page/香港.md "wikilink")[Swing的第五張專輯](https://zh.wikipedia.org/wiki/Swing "wikilink")，為新曲加精選，是[Swing首次解散前的最後一張專輯](https://zh.wikipedia.org/wiki/Swing "wikilink")。本專輯於2002年3月8日發行，共收錄十七首歌，包括兩首與[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[小儀](../Page/阮小儀.md "wikilink")[合唱的新歌](../Page/合唱.md "wikilink")《耀榮娛樂》及《小流星》，以及過去[Swing三張專輯](https://zh.wikipedia.org/wiki/Swing "wikilink")（不包括[千禧年代時期的](https://zh.wikipedia.org/wiki/千禧年代_\(唱片公司\) "wikilink")[Snowman](https://zh.wikipedia.org/wiki/Snowman "wikilink")）之中十五首經典之作。此精選碟發行後，[Swing亦隨即解散](https://zh.wikipedia.org/wiki/Swing "wikilink")。
+**《Swing Swang Swung》**是[香港](../Page/香港.md "wikilink")男子組合[Swing的第五張專輯](https://zh.wikipedia.org/wiki/Swing "wikilink")，為新曲加精選，是[Swing首次解散前的最後一張專輯](https://zh.wikipedia.org/wiki/Swing "wikilink")。本專輯於2002年3月8日發行，共收錄十七首歌，包括兩首與[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[小儀](../Page/阮小儀.md "wikilink")[合唱](../Page/合唱.md "wikilink")的新歌《耀榮娛樂》及《小流星》，以及過去[Swing三張專輯](https://zh.wikipedia.org/wiki/Swing "wikilink")（不包括[千禧年代時期的](https://zh.wikipedia.org/wiki/千禧年代_\(唱片公司\) "wikilink")[Snowman](https://zh.wikipedia.org/wiki/Snowman "wikilink")）之中十五首經典之作。此精選碟發行後，[Swing亦隨即解散](https://zh.wikipedia.org/wiki/Swing "wikilink")。
 
 ## 曲目
 
@@ -27,9 +26,6 @@ Swung》**是[香港男子組合](../Page/香港.md "wikilink")[Swing的第五�
 
 ## 外部連結
 
-  - [頭條日報 : Swing Swang Swung
-    Swinging 2009-07-14](http://www.hkheadline.com/ent/ent_content.asp?contid=58441)
+  - [頭條日報 : Swing Swang Swung Swinging 2009-07-14](http://www.hkheadline.com/ent/ent_content.asp?contid=58441)
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:Swing音樂專輯](https://zh.wikipedia.org/wiki/Category:Swing音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:Swing音樂專輯](https://zh.wikipedia.org/wiki/Category:Swing音樂專輯 "wikilink")

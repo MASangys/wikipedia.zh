@@ -1,6 +1,4 @@
-《**Ghiblies
-episode2**》（）為日本[吉卜力工作室製作的動畫短片](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")《[Ghiblies](../Page/Ghiblies.md "wikilink")》的續作，
-在日本於2002年和吉卜力電影動畫《[貓的報恩](https://zh.wikipedia.org/wiki/貓的報恩 "wikilink")》一同在劇院上映。
+《**Ghiblies episode2**》（）為日本[吉卜力工作室製作的動畫短片](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")《[Ghiblies](../Page/Ghiblies.md "wikilink")》的續作， 在日本於2002年和吉卜力電影動畫《[貓的報恩](https://zh.wikipedia.org/wiki/貓的報恩 "wikilink")》一同在劇院上映。
 
 ## 劇情簡介
 
@@ -52,17 +50,12 @@ episode2**》（）為日本[吉卜力工作室製作的動畫短片](https://zh
 
 ## 外部連結
 
-  - [Nausicaa.Net：《Ghiblies
-    episode2》](http://www.nausicaa.net/wiki/Ghiblies_Episode_II)
+  - [Nausicaa.Net：《Ghiblies episode2》](http://www.nausicaa.net/wiki/Ghiblies_Episode_II)
 
-  - [Ghibli Freak：《Ghiblies
-    episode2》](https://web.archive.org/web/20091220042119/http://www.ghibli-freak.net/ghiblies2/index.html)
+  - [Ghibli Freak：《Ghiblies episode2》](https://web.archive.org/web/20091220042119/http://www.ghibli-freak.net/ghiblies2/index.html)
 
   - [TAITO電子遊戲《塗鴉王國》製作的Ghiblies角色群](http://www.garakuta-studio.com/ghiblies/index.html)
 
-[en:Studio Ghibli short films\#Ghiblies Episode
-2](https://zh.wikipedia.org/wiki/en:Studio_Ghibli_short_films#Ghiblies_Episode_2 "wikilink")
+[en:Studio Ghibli short films\#Ghiblies Episode 2](https://zh.wikipedia.org/wiki/en:Studio_Ghibli_short_films#Ghiblies_Episode_2 "wikilink")
 
-[Category:吉卜力工作室短篇動畫](https://zh.wikipedia.org/wiki/Category:吉卜力工作室短篇動畫 "wikilink")
-[Category:2002年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2002年日本劇場動畫 "wikilink")
-[Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink")
+[Category:吉卜力工作室短篇動畫](https://zh.wikipedia.org/wiki/Category:吉卜力工作室短篇動畫 "wikilink") [Category:2002年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2002年日本劇場動畫 "wikilink") [Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink")

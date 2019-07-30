@@ -12,28 +12,9 @@
 
 ## 参考资料
 
-[Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
-1.  *Aldehydes from dihydro-1,3-oxazines. I. Synthesis of aliphatic
-    aldehydes and their C-1 deuterated derivatives* [Albert I.
-    Meyers](https://zh.wikipedia.org/wiki/Albert_I._Meyers "wikilink"),
-    Aiko Nabeya, H. Wayne Adickes, Ieva R. Politzer [J. Am. Chem.
-    Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink")
-    **1969**; 91(3); 763-764.
-2.  *Aldehydes from dihydro-1,3-oxazines. II. Synthesis of
-    .alpha.,.beta.-unsaturated aldehydes and their C-1 deuterated
-    derivatives* Albert I. Meyers, Aiko Nabeya, H. Wayne Adickes, J.
-    Michael Fitzpatrick, G. Ray Malone, and Ieva R. Politzer pp 764 -
-    765; [J. Am. Chem.
-    Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink")
-    **1969**
-3.  *Aldehydes from dihydro-1,3-oxazines. III. Synthesis of
-    cycloalkanecarboxaldehydes* Albert I. Meyers, H. Wayne Adickes, Ieva
-    R. Politzer, and Warren N. Beverung pp 765 - 767; [J. Am. Chem.
-    Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink")
-    **1969**
-4.  [Organic
-    Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"),
-    Coll. Vol. 6, p.905 (1988); Vol. 51, p.24 (1971).
-    <http://www.orgsynth.org/orgsyn/pdfs/CV6P0905.pdf>
+1.  *Aldehydes from dihydro-1,3-oxazines. I. Synthesis of aliphatic aldehydes and their C-1 deuterated derivatives* [Albert I. Meyers](https://zh.wikipedia.org/wiki/Albert_I._Meyers "wikilink"), Aiko Nabeya, H. Wayne Adickes, Ieva R. Politzer [J. Am. Chem. Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink") **1969**; 91(3); 763-764.
+2.  *Aldehydes from dihydro-1,3-oxazines. II. Synthesis of .alpha.,.beta.-unsaturated aldehydes and their C-1 deuterated derivatives* Albert I. Meyers, Aiko Nabeya, H. Wayne Adickes, J. Michael Fitzpatrick, G. Ray Malone, and Ieva R. Politzer pp 764 - 765; [J. Am. Chem. Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink") **1969**
+3.  *Aldehydes from dihydro-1,3-oxazines. III. Synthesis of cycloalkanecarboxaldehydes* Albert I. Meyers, H. Wayne Adickes, Ieva R. Politzer, and Warren N. Beverung pp 765 - 767; [J. Am. Chem. Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink") **1969**
+4.  [Organic Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"), Coll. Vol. 6, p.905 (1988); Vol. 51, p.24 (1971). <http://www.orgsynth.org/orgsyn/pdfs/CV6P0905.pdf>

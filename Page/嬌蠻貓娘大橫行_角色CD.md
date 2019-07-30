@@ -1,11 +1,9 @@
-「**「嬌蠻貓娘大橫行」角色CD**」在2010年6月9日開始由Geneon Universal
-Entertainment一連發售該系列的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+「**「嬌蠻貓娘大橫行」角色CD**」在2010年6月9日開始由Geneon Universal Entertainment一連發售該系列的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 
   - [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[嬌蠻貓娘大橫行](https://zh.wikipedia.org/wiki/嬌蠻貓娘大橫行 "wikilink")』的[角色歌曲系列](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")。全4片。2010年6月9日至同年6月25日發售。每次同時發售2片。
-  - 每片有兩首歌曲和一首[Ver.Inst](https://zh.wikipedia.org/wiki/樂器 "wikilink")，其中一首歌曲是主題曲「はっぴぃ
-    にゅう にゃあ」的獨唱版本，沒有參與主題曲歌唱的乙女也有獨唱版本。另一首則是角色歌曲。
+  - 每片有兩首歌曲和一首[Ver.Inst](https://zh.wikipedia.org/wiki/樂器 "wikilink")，其中一首歌曲是主題曲「はっぴぃ にゅう にゃあ」的獨唱版本，沒有參與主題曲歌唱的乙女也有獨唱版本。另一首則是角色歌曲。
 
 ## 系列一覧
 
@@ -59,9 +57,6 @@ Entertainment一連發售該系列的[單曲](https://zh.wikipedia.org/wiki/單�
 
 ## 外部連結
 
-  - [テレビアニメ『迷い猫オーバーラン\!』オフィシャルサイト
-    リリースページ](http://www.patisserie-straycats.com/goods_cd.html)
+  - [テレビアニメ『迷い猫オーバーラン\!』オフィシャルサイト リリースページ](http://www.patisserie-straycats.com/goods_cd.html)
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")
-[Category:NBC環球娛樂歌曲](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:NBC環球娛樂歌曲](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂歌曲 "wikilink")

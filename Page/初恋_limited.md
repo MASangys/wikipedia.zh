@@ -1,5 +1,4 @@
-《**初恋
-limited**》（はつこいリミテッド）是[marble的第](https://zh.wikipedia.org/wiki/marble "wikilink")5張單曲。
+《**初恋 limited**》（はつこいリミテッド）是[marble的第](https://zh.wikipedia.org/wiki/marble "wikilink")5張單曲。
 
 ## 概要
 
@@ -20,10 +19,8 @@ limited**》（はつこいリミテッド）是[marble的第](https://zh.wikipe
 
 ## 相關項目
 
-  - [Future
-    Stream](../Page/Future_Stream.md "wikilink")（[sphere](https://zh.wikipedia.org/wiki/sphere "wikilink")）
+  - [Future Stream](../Page/Future_Stream.md "wikilink")（[sphere](https://zh.wikipedia.org/wiki/sphere "wikilink")）
 
 a
 
-[Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink")
-[Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink")
+[Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink") [Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink")

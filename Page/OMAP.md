@@ -1,18 +1,10 @@
-[BeagleBoard_described.jpg](https://zh.wikipedia.org/wiki/File:BeagleBoard_described.jpg "fig:BeagleBoard_described.jpg")
-描述\]\]
-[PandaBoard_described.png](https://zh.wikipedia.org/wiki/File:PandaBoard_described.png "fig:PandaBoard_described.png")
-**OMAP**
-是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德州儀器所推出的開放式](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")[多媒體應用平台架構](https://zh.wikipedia.org/wiki/多媒體 "wikilink")（Open
-Multimedia Application
-Platform），使用[低功耗的](../Page/低功耗设计.md "wikilink")[ARM架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，可適用於移動式平台。OMAP设备一般包括一个通用的ARM架构处理器核心以及一个或多个专门的协处理器。早期的OMAP变种通常的特点是德州仪器TMS320系列数字信号处理器的变种。德州儀器最新一代多核架構是OMAP
-5。
+[BeagleBoard_described.jpg](https://zh.wikipedia.org/wiki/File:BeagleBoard_described.jpg "fig:BeagleBoard_described.jpg") 描述\]\] [PandaBoard_described.png](https://zh.wikipedia.org/wiki/File:PandaBoard_described.png "fig:PandaBoard_described.png") **OMAP** 是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德州儀器所推出的開放式](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")[多媒體應用平台架構](https://zh.wikipedia.org/wiki/多媒體 "wikilink")（Open Multimedia Application Platform），使用[低功耗的](../Page/低功耗设计.md "wikilink")[ARM架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，可適用於移動式平台。OMAP设备一般包括一个通用的ARM架构处理器核心以及一个或多个专门的协处理器。早期的OMAP变种通常的特点是德州仪器TMS320系列数字信号处理器的变种。德州儀器最新一代多核架構是OMAP 5。
 
-2012年9月26日，德州仪器宣布，他们将结束其在[智能手机和](../Page/智能手机.md "wikilink")[平板电脑为导向的OMAP芯片业务](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，转向专注于嵌入式平台。因此，OMAP5的命运仍然不明朗。\[1\]2012年11月14日，德州仪器宣布，由于其从移动到嵌入式平台的转变，他们将削减1700个工作职位。\[2\]
+2012年9月26日，德州仪器宣布，他们将结束其在[智能手机](../Page/智能手机.md "wikilink")和[平板电脑为导向的OMAP芯片业务](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，转向专注于嵌入式平台。因此，OMAP5的命运仍然不明朗。\[1\]2012年11月14日，德州仪器宣布，由于其从移动到嵌入式平台的转变，他们将削减1700个工作职位。\[2\]
 
 ## OMAP家族
 
-[Galaxy_Nexus_smartphone.jpg](https://zh.wikipedia.org/wiki/File:Galaxy_Nexus_smartphone.jpg "fig:Galaxy_Nexus_smartphone.jpg")是一个用OMAP
-4460 SoC的智能手机例子\]\] OMAP的產品依其功能界定可分成三種取向:
+[Galaxy_Nexus_smartphone.jpg](https://zh.wikipedia.org/wiki/File:Galaxy_Nexus_smartphone.jpg "fig:Galaxy_Nexus_smartphone.jpg")是一个用OMAP 4460 SoC的智能手机例子\]\] OMAP的產品依其功能界定可分成三種取向:
 
   - 高效能應用處理器
   - 基本多媒體應用處理器
@@ -24,28 +16,11 @@ Platform），使用[低功耗的](../Page/低功耗设计.md "wikilink")[ARM架
 
 OMAP 1 最早使用 TI-enhanced ARM core, 後來換成標準 ARM926 core.
 
-  - OMAP171x - 220 MHz
-    [ARM926EJ-S](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink")
-    +
-    [C55x](https://zh.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink")
-    DSP, Low-voltage 90 nm technology
-  - OMAP162x - 204 MHz
-    [ARM926EJ-S](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink")
-    +
-    [C55x](https://zh.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink")
-    DSP + 2MB Internal SRAM, 130 nm technology
-  - OMAP5912 - catalog availability version of OMAP1621 (or OMAP1611b in
-    older versions)
-  - OMAP161x - 204 MHz
-    [ARM926EJ-S](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink")
-    +
-    [C55x](https://zh.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink")
-    DSP, 130 nm technology
-  - OMAP1510 - 168 MHz [ARM925T
-    (TI-enhanced)](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink")
-    +
-    [C55x](https://zh.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink")
-    DSP
+  - OMAP171x - 220 MHz [ARM926EJ-S](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink") + [C55x](https://zh.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink") DSP, Low-voltage 90 nm technology
+  - OMAP162x - 204 MHz [ARM926EJ-S](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink") + [C55x](https://zh.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink") DSP + 2MB Internal SRAM, 130 nm technology
+  - OMAP5912 - catalog availability version of OMAP1621 (or OMAP1611b in older versions)
+  - OMAP161x - 204 MHz [ARM926EJ-S](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink") + [C55x](https://zh.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink") DSP, 130 nm technology
+  - OMAP1510 - 168 MHz [ARM925T (TI-enhanced)](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink") + [C55x](https://zh.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink") DSP
   - OMAP5910 - catalog availability version of OMAP 1510
 
 #### OMAP2
@@ -188,8 +163,7 @@ OMAP3可分成三種等級：OMAP34x, OMAP35x, 以及 OMAP36x.
 
 #### OMAP4
 
-[Texas_Instruments_Ducati.svg](https://zh.wikipedia.org/wiki/File:Texas_Instruments_Ducati.svg "fig:Texas_Instruments_Ducati.svg")
-OMAP4430 和 OMAP4440 都是使用雙核 ARM Cortex-A9.\[5\]\[6\]
+[Texas_Instruments_Ducati.svg](https://zh.wikipedia.org/wiki/File:Texas_Instruments_Ducati.svg "fig:Texas_Instruments_Ducati.svg") OMAP4430 和 OMAP4440 都是使用雙核 ARM Cortex-A9.\[5\]\[6\]
 
 | 模組編號     | 最大時脈速度  | 精簡指令集 | CPU                                                                                                        | GPU                                                                                    | 記憶體技術                                 | 半導體製程 | 產品世代 | 可用性     | 應用裝置                                                                                                                                                                                                                                                                                                                                                             |
 | -------- | ------- | ----- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------- | ----- | ---- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -222,20 +196,15 @@ OMAP 5 處理器是一雙核 Cortex-A15 SoC 外加上 Cortex-M4 cores.\[9\]
 
   - OMAPV1035 - single-chip EDGE (在2009年被停止生产)
   - OMAPV1030 - EDGE digital baseband
-  - OMAP850 - 200 MHz ARM926EJ-S + GSM/GPRS digital baseband + stacked
-    EDGE co-processor
-  - OMAP750 - 200 MHz ARM926EJ-S + GSM/GPRS digital baseband + DDR
-    Memory support
-  - OMAP733 - 200 MHz ARM926EJ-S + GSM/GPRS digital baseband + stacked
-    SDRAM
-  - OMAP730 - 200 MHz ARM926EJ-S + GSM/GPRS digital baseband + SDRAM
-    Memory support
+  - OMAP850 - 200 MHz ARM926EJ-S + GSM/GPRS digital baseband + stacked EDGE co-processor
+  - OMAP750 - 200 MHz ARM926EJ-S + GSM/GPRS digital baseband + DDR Memory support
+  - OMAP733 - 200 MHz ARM926EJ-S + GSM/GPRS digital baseband + stacked SDRAM
+  - OMAP730 - 200 MHz ARM926EJ-S + GSM/GPRS digital baseband + SDRAM Memory support
   - OMAP710 - 133 MHz ARM925 + GSM/GPRS digital baseband
 
 ### OMAP L-1x
 
-OMAP
-L-1×部件仅通过目录渠道被销售，并有比其它OMAP部件不同的技术传承。不是直接来自手机的产品线，他们成长是从面向视频的达芬奇()产品线通过去除视频特定功能而使用升级的达芬奇的外围设备。一个显着的特点是使用的*浮点*DSP，而不是更多定制的定点DSP。
+OMAP L-1×部件仅通过目录渠道被销售，并有比其它OMAP部件不同的技术传承。不是直接来自手机的产品线，他们成长是从面向视频的达芬奇()产品线通过去除视频特定功能而使用升级的达芬奇的外围设备。一个显着的特点是使用的*浮点*DSP，而不是更多定制的定点DSP。
 
 [Hawkboard使用了OMAP](https://zh.wikipedia.org/wiki/Hawkboard "wikilink")-L138
 
@@ -246,15 +215,11 @@ L-1×部件仅通过目录渠道被销售，并有比其它OMAP部件不同的�
 
   - [高通公司的](https://zh.wikipedia.org/wiki/高通公司 "wikilink")[Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
   - [MediaTek的](https://zh.wikipedia.org/wiki/MediaTek "wikilink")[Helio](https://zh.wikipedia.org/wiki/Helio "wikilink")
-  - [英伟达的](../Page/英伟达.md "wikilink")[Tegra](https://zh.wikipedia.org/wiki/Tegra "wikilink")
-  - [Exynos](https://zh.wikipedia.org/wiki/Exynos "wikilink") by
-    [Samsung](https://zh.wikipedia.org/wiki/Samsung "wikilink")
-  - [Ax](https://zh.wikipedia.org/wiki/Apple_Ax "wikilink") by
-    [Apple](https://zh.wikipedia.org/wiki/Apple_Inc. "wikilink")
-  - [NovaThor](../Page/NovaThor.md "wikilink") by
-    [ST-Ericsson](https://zh.wikipedia.org/wiki/ST-Ericsson "wikilink")
-  - [Atom](https://zh.wikipedia.org/wiki/Atom_\(system_on_chip\) "wikilink")
-    by [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
+  - [英伟达](../Page/英伟达.md "wikilink")的[Tegra](https://zh.wikipedia.org/wiki/Tegra "wikilink")
+  - [Exynos](https://zh.wikipedia.org/wiki/Exynos "wikilink") by [Samsung](https://zh.wikipedia.org/wiki/Samsung "wikilink")
+  - [Ax](https://zh.wikipedia.org/wiki/Apple_Ax "wikilink") by [Apple](https://zh.wikipedia.org/wiki/Apple_Inc. "wikilink")
+  - [NovaThor](../Page/NovaThor.md "wikilink") by [ST-Ericsson](https://zh.wikipedia.org/wiki/ST-Ericsson "wikilink")
+  - [Atom](https://zh.wikipedia.org/wiki/Atom_\(system_on_chip\) "wikilink") by [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
 
 ## 注釋
 
@@ -263,11 +228,9 @@ L-1×部件仅通过目录渠道被销售，并有比其它OMAP部件不同的�
   - [OMAP Application Processors](http://www.ti.com/omap)
   - [OMAPWorld](https://web.archive.org/web/20100908234614/http://www.omapworld.org/)
   - [OMAPpedia](http://www.omappedia.org/wiki/Main_Page)
-  - [Linux OMAP Mailing List
-    Archive](http://www.spinics.net/lists/linux-omap/)
+  - [Linux OMAP Mailing List Archive](http://www.spinics.net/lists/linux-omap/)
   - [OMAP3 Boards](http://wiki.omap.com/index.php/OMAP3_Boards)
-  - [OMAP 4 vs.
-    OMAP 5](http://devicegadget.com/hardware/omap-4-vs-omap-5/2573/)
+  - [OMAP 4 vs. OMAP 5](http://devicegadget.com/hardware/omap-4-vs-omap-5/2573/)
 
 [Category:ARM架構](https://zh.wikipedia.org/wiki/Category:ARM架構 "wikilink")
 

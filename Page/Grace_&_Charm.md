@@ -1,18 +1,11 @@
-2005年1月5日{{·w}} 2005年3月18日 (第二版) | Recorded = 2004年 | Genre = 粵語、國語 |
-Length = | Label =  [正東唱片](../Page/正東唱片.md "wikilink")
-[環球唱片 (台灣)](https://zh.wikipedia.org/wiki/環球唱片_\(台灣\) "wikilink")
-[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink") | Producer =
-[雷頌德](../Page/雷頌德.md "wikilink")、[張佳添](https://zh.wikipedia.org/wiki/張佳添 "wikilink")、[伍樂城](../Page/伍樂城.md "wikilink")、[陳光榮](../Page/陳光榮.md "wikilink")、[吳國敬](../Page/吳國敬.md "wikilink")、[金培達](../Page/金培達.md "wikilink")
-| Number = 10 | Reviews = | Last album = [Stylish
-Index](../Page/Stylish_Index.md "wikilink")
+2005年1月5日{{·w}} 2005年3月18日 (第二版) | Recorded = 2004年 | Genre = 粵語、國語 | Length = | Label =  [正東唱片](../Page/正東唱片.md "wikilink")
+ [環球唱片 (台灣)](https://zh.wikipedia.org/wiki/環球唱片_\(台灣\) "wikilink")
+ [環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink") | Producer = [雷頌德](../Page/雷頌德.md "wikilink")、[張佳添](https://zh.wikipedia.org/wiki/張佳添 "wikilink")、[伍樂城](../Page/伍樂城.md "wikilink")、[陳光榮](../Page/陳光榮.md "wikilink")、[吳國敬](../Page/吳國敬.md "wikilink")、[金培達](../Page/金培達.md "wikilink") | Number = 10 | Reviews = | Last album = [Stylish Index](../Page/Stylish_Index.md "wikilink")
 (2004年) | This album = **Grace & Charm**
 (2004年) | Next album = [我是陽光的](../Page/我是陽光的.md "wikilink")
 (2005年) | Misc =  }}
 
-**《Grace &
-Charm》**是香港歌手[陳慧琳的第十六張個人粵語大碟](../Page/陳慧琳.md "wikilink")，於2004年12月24日推出。2005年3月18日推出第二版**Grace
-& Charm 2nd Editon**（CD + Bonus AVCD +
-[大長今Original](../Page/大長今.md "wikilink") Sound Track）。
+**《Grace & Charm》**是香港歌手[陳慧琳](../Page/陳慧琳.md "wikilink")的第十六張個人粵語大碟，於2004年12月24日推出。2005年3月18日推出第二版**Grace & Charm 2nd Editon**（CD + Bonus AVCD + [大長今](../Page/大長今.md "wikilink")Original Sound Track）。
 
 ## 曲目列表
 
@@ -142,29 +135,29 @@ Charm》**是香港歌手[陳慧琳的第十六張個人粵語大碟](../Page/�
 <td><p><a href="https://zh.wikipedia.org/wiki/任世現" title="wikilink">任世現</a></p></td>
 <td><p><a href="../Page/鄭櫻綸.md" title="wikilink">鄭櫻綸</a></p></td>
 <td><p>第二版第一主打<br />
-<a href="../Page/大長今.md" title="wikilink">大長今主題曲</a></p></td>
+<a href="../Page/大長今.md" title="wikilink">大長今</a>主題曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>02</p></td>
 <td><p>思念</p></td>
 <td><p>任世現</p></td>
 <td><p>鄭櫻綸</p></td>
-<td><p><a href="../Page/大長今.md" title="wikilink">大長今插曲</a></p></td>
+<td><p><a href="../Page/大長今.md" title="wikilink">大長今</a>插曲</p></td>
 </tr>
 <tr class="even">
 <td><p>03</p></td>
 <td><p>不配相擁</p></td>
 <td><p>任世現</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a></p></td>
-<td><p><a href="../Page/大長今.md" title="wikilink">大長今插曲</a><br />
-<a href="../Page/林保怡.md" title="wikilink">林保怡合唱</a></p></td>
+<td><p><a href="../Page/大長今.md" title="wikilink">大長今</a>插曲<br />
+<a href="../Page/林保怡.md" title="wikilink">林保怡</a>合唱</p></td>
 </tr>
 <tr class="odd">
 <td><p>04</p></td>
-<td><p>思念(<a href="../Page/林保怡.md" title="wikilink">林保怡版</a>)</p></td>
+<td><p>思念(<a href="../Page/林保怡.md" title="wikilink">林保怡</a>版)</p></td>
 <td><p>任世現</p></td>
 <td><p>鄭櫻綸</p></td>
-<td><p><a href="../Page/大長今.md" title="wikilink">大長今插曲</a></p></td>
+<td><p><a href="../Page/大長今.md" title="wikilink">大長今</a>插曲</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -178,8 +171,7 @@ Charm》**是香港歌手[陳慧琳的第十六張個人粵語大碟](../Page/�
 
 ## 所獲獎項
 
-  - 香港唱片商會[IFPI](https://zh.wikipedia.org/wiki/IFPI "wikilink") -
-    **全年最高銷量 十大廣東唱片《Grace And Charm》**
+  - 香港唱片商會[IFPI](https://zh.wikipedia.org/wiki/IFPI "wikilink") - **全年最高銷量 十大廣東唱片《Grace And Charm》**
   - 2005勁歌金曲優秀選第一回 - 得獎歌曲 《希望》
   - 新城勁爆頒獎禮2005 — 新城勁爆歌曲 《希望》
   - 2005年度十大勁歌金曲頒獎典禮 — 十大勁歌金曲 《希望》
@@ -188,9 +180,4 @@ Charm》**是香港歌手[陳慧琳的第十六張個人粵語大碟](../Page/�
   - 新Monday十大手電娛樂頒獎禮 — 音樂頻道 十大手電鈴聲 《希望》
   - 中國原創歌曲總評榜 - 港台地區最佳歌曲《希望》
 
-[Category:陳慧琳音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧琳音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
+[Category:陳慧琳音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧琳音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")

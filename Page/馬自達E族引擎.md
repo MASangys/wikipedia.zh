@@ -6,18 +6,14 @@
 
 ## E1型
 
-排氣量1,136c.c.的**E1型**引擎，缸徑77mm、衝程61mm，最大[馬力](../Page/馬力.md "wikilink")56ps
-/ 5,750rpm，最大扭力8.0kg·m /
-3,500rpm。此顆引擎未曾出現在[日本與](../Page/日本.md "wikilink")[澳洲市場](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，由於稅金級距的關係出現在某些國家地區。車型：
+排氣量1,136c.c.的**E1型**引擎，缸徑77mm、衝程61mm，最大[馬力](../Page/馬力.md "wikilink")56ps / 5,750rpm，最大扭力8.0kg·m / 3,500rpm。此顆引擎未曾出現在[日本](../Page/日本.md "wikilink")與[澳洲市場](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，由於稅金級距的關係出現在某些國家地區。車型：
 
 1.  1980年-1982年：[第五代323](https://zh.wikipedia.org/wiki/馬自達323#第五代（1980年-1985年） "wikilink")
 2.  1980年-1982年：第一代[福特Laser](../Page/福特Laser.md "wikilink")
 
 ## E3型
 
-排氣量1,296c.c.的**E3型**引擎雖然缸徑同樣為77mm，衝程卻延長至69.6mm。海外版可榨出最大馬力67ps /
-5,750rpm、最大扭力9.6kg·m / 3,500rpm；日規版則是最大馬力74ps / 5,500rpm、最大扭力10.5kg·m
-/ 3,500rpm。車型：
+排氣量1,296c.c.的**E3型**引擎雖然缸徑同樣為77mm，衝程卻延長至69.6mm。海外版可榨出最大馬力67ps / 5,750rpm、最大扭力9.6kg·m / 3,500rpm；日規版則是最大馬力74ps / 5,500rpm、最大扭力10.5kg·m / 3,500rpm。車型：
 
 1.  1980年-1985年：[第五代323](https://zh.wikipedia.org/wiki/馬自達323#第五代（1980年-1985年） "wikilink")
 2.  1980年-1985年：第一代[福特Laser](../Page/福特Laser.md "wikilink")
@@ -25,9 +21,7 @@
 
 ## E5型
 
-**E5型**的排氣量1,490c.c.，77mm的缸徑不變，衝程為80mm。海外版馬力可輸出72ps /
-5,500rpm，扭力為11.2kg·m / 3,500rpm；日規版則是最大馬力85ps /
-5,500rpm、最大扭力12.3kg·m / 3,500rpm。車型：
+**E5型**的排氣量1,490c.c.，77mm的缸徑不變，衝程為80mm。海外版馬力可輸出72ps / 5,500rpm，扭力為11.2kg·m / 3,500rpm；日規版則是最大馬力85ps / 5,500rpm、最大扭力12.3kg·m / 3,500rpm。車型：
 
 1.  1980年-1985年：[第五代323](https://zh.wikipedia.org/wiki/馬自達323#第五代（1980年-1985年） "wikilink")
 2.  1980年-1985年：第一代[福特Laser](../Page/福特Laser.md "wikilink")
@@ -40,28 +34,20 @@
 
 ### E5S型
 
-**E5S型**搭配了兩個[化油器](../Page/化油器.md "wikilink")，故可獲得更高的壓縮比，最大馬力79ps /
-5,500rpm，扭力為11.9kg·m / 3,500rpm，僅限於某些特定市場使用。
+**E5S型**搭配了兩個[化油器](../Page/化油器.md "wikilink")，故可獲得更高的壓縮比，最大馬力79ps / 5,500rpm，扭力為11.9kg·m / 3,500rpm，僅限於某些特定市場使用。
 
 ### E5T型
 
-[Mazda_E5T_engine_of_a_1986_Mazda_Familia_(BF5P)_XG_turbo_sedan_01.jpg](https://zh.wikipedia.org/wiki/File:Mazda_E5T_engine_of_a_1986_Mazda_Familia_\(BF5P\)_XG_turbo_sedan_01.jpg "fig:Mazda_E5T_engine_of_a_1986_Mazda_Familia_(BF5P)_XG_turbo_sedan_01.jpg")
-在E5型的基礎加上EGI燃油噴射系統及[渦輪增壓系統](../Page/渦輪增壓器.md "wikilink")（未含中冷器）就成了**E5T型**引擎，這具引擎於1983年起正式供應日本當地市場。它採用了日本[石川島播磨重工業製造的VJ](../Page/IHI.md "wikilink")1型渦輪，可榨出115ps
-/ 5,800rpm的最大馬力、16.5kg·m /
-3,500rpm的最大扭力。其他值得注意的地方包括安裝由[三菱汽車供應的綜合](https://zh.wikipedia.org/wiki/三菱汽車 "wikilink")[爆震感知器](../Page/爆震.md "wikilink")，以及[多點燃油噴射系統](../Page/燃料噴射裝置.md "wikilink")。
+[Mazda_E5T_engine_of_a_1986_Mazda_Familia_(BF5P)_XG_turbo_sedan_01.jpg](https://zh.wikipedia.org/wiki/File:Mazda_E5T_engine_of_a_1986_Mazda_Familia_\(BF5P\)_XG_turbo_sedan_01.jpg "fig:Mazda_E5T_engine_of_a_1986_Mazda_Familia_(BF5P)_XG_turbo_sedan_01.jpg") 在E5型的基礎加上EGI燃油噴射系統及[渦輪增壓系統](../Page/渦輪增壓器.md "wikilink")（未含中冷器）就成了**E5T型**引擎，這具引擎於1983年起正式供應日本當地市場。它採用了日本[石川島播磨重工業製造的VJ](../Page/IHI.md "wikilink")1型渦輪，可榨出115ps / 5,800rpm的最大馬力、16.5kg·m / 3,500rpm的最大扭力。其他值得注意的地方包括安裝由[三菱汽車供應的綜合](https://zh.wikipedia.org/wiki/三菱汽車 "wikilink")[爆震](../Page/爆震.md "wikilink")感知器，以及[多點燃油噴射系統](../Page/燃料噴射裝置.md "wikilink")。
 
 這具引擎是馬自達汽車發展的第一具直列四缸渦輪增壓引擎，許多新式科技後來促成了[B6T型渦輪引擎的發展](https://zh.wikipedia.org/wiki/馬自達B族引擎#B6T型 "wikilink")。車型：
 
-1.  1982年-1985年：[第五代323](https://zh.wikipedia.org/wiki/馬自達323#第五代（1980年-1985年） "wikilink")，XGi-R
-    Turbo款
+1.  1982年-1985年：[第五代323](https://zh.wikipedia.org/wiki/馬自達323#第五代（1980年-1985年） "wikilink")，XGi-R Turbo款
 2.  1982年-1985年：第一代[福特Laser](../Page/福特Laser.md "wikilink")，S Turbo款
 
 ### E5T Carb型
 
-這具**E5T
-Carb型**引擎是E5型的渦輪增壓化油器版本，搭載於1985年6月在澳洲和[紐西蘭上市](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")、限量300部的福特Laser特別仕樣車上。起初以E5S型引擎搭配石川島播磨重工業株式會社的RHB52型渦輪增壓器，後來改成Solex
-32
-DIS型渦輪。後來為了防止使用者加入低[辛烷值的](../Page/辛烷值.md "wikilink")[汽油而造成引擎損壞](../Page/汽油.md "wikilink")，而加入電子點火系統和爆震感知器。由於化油器難以保養，有些車主後來會動手改裝，移除化油器裝置。
+這具**E5T Carb型**引擎是E5型的渦輪增壓化油器版本，搭載於1985年6月在澳洲和[紐西蘭上市](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")、限量300部的福特Laser特別仕樣車上。起初以E5S型引擎搭配石川島播磨重工業株式會社的RHB52型渦輪增壓器，後來改成Solex 32 DIS型渦輪。後來為了防止使用者加入低[辛烷值](../Page/辛烷值.md "wikilink")的[汽油](../Page/汽油.md "wikilink")而造成引擎損壞，而加入電子點火系統和爆震感知器。由於化油器難以保養，有些車主後來會動手改裝，移除化油器裝置。
 
 ## 內部連結
 
@@ -70,13 +56,10 @@ DIS型渦輪。後來為了防止使用者加入低[辛烷值的](../Page/辛烷
 
 ## 外部連結
 
-  - [TX3NZ.com: Ford Laser Engine Guide (NZ and
-    Japan)](http://www.tx3nz.com/articles/engine-guide.htm)
+  - [TX3NZ.com: Ford Laser Engine Guide (NZ and Japan)](http://www.tx3nz.com/articles/engine-guide.htm)
 
 ## 參考資料
 
-  - [TX3NZ.com: Ford Laser Engine Guide (NZ and
-    Japan)](http://www.tx3nz.com/articles/engine-guide.htm)
+  - [TX3NZ.com: Ford Laser Engine Guide (NZ and Japan)](http://www.tx3nz.com/articles/engine-guide.htm)
 
-[Category:直列四缸引擎](https://zh.wikipedia.org/wiki/Category:直列四缸引擎 "wikilink")
-[Category:馬自達引擎與技術](https://zh.wikipedia.org/wiki/Category:馬自達引擎與技術 "wikilink")
+[Category:直列四缸引擎](https://zh.wikipedia.org/wiki/Category:直列四缸引擎 "wikilink") [Category:馬自達引擎與技術](https://zh.wikipedia.org/wiki/Category:馬自達引擎與技術 "wikilink")

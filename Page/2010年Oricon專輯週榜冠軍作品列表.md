@@ -1,6 +1,6 @@
-**2010年Oricon專輯週榜冠軍作品列表**列出2010年度曾經登上[Oricon公信榜專輯週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
+**2010年Oricon專輯週榜冠軍作品列表**列出2010年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜冠軍的[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
 
-全年度共有42張冠軍專輯誕生，其中取得冠軍週數最多的專輯是[德永英明的翻唱專輯](../Page/德永英明.md "wikilink")《》（4週）。
+全年度共有42張冠軍專輯誕生，其中取得冠軍週數最多的專輯是[德永英明](../Page/德永英明.md "wikilink")的翻唱專輯《》（4週）。
 
 ## 冠軍專輯列表
 
@@ -440,6 +440,4 @@
 
   - [2010年每週公信榜統計數據](https://web.archive.org/web/20100929221934/http://musictvprogram.com/oricon2010.html)
 
-[Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink")
-[Category:2010年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2010年音樂排行榜 "wikilink")
+[Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink") [Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink") [Category:2010年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2010年音樂排行榜 "wikilink")

@@ -12,11 +12,9 @@ RIAJ自2006年8月起開始統計日本國內的付費合法音樂下載，當�
 
 ## 統計
 
-最初的統計數據來自於5個提供商——[RecoChoku](../Page/RecoChoku.md "wikilink")、[music.jp](https://zh.wikipedia.org/wiki/music.jp "wikilink")、dwango、[mu-mo](https://zh.wikipedia.org/wiki/mu-mo "wikilink")、[mora](https://zh.wikipedia.org/wiki/mora "wikilink")。\[5\]2010年2月，9間新的提供商加入，包括oricon
-ME和MUSICO等。\[6\]
+最初的統計數據來自於5個提供商——[RecoChoku](../Page/RecoChoku.md "wikilink")、[music.jp](https://zh.wikipedia.org/wiki/music.jp "wikilink")、dwango、[mu-mo](https://zh.wikipedia.org/wiki/mu-mo "wikilink")、[mora](https://zh.wikipedia.org/wiki/mora "wikilink")。\[5\]2010年2月，9間新的提供商加入，包括oricon ME和MUSICO等。\[6\]
 
-上述的提供商中，最大的[RecoChoku](../Page/RecoChoku.md "wikilink")，一年的手機鈴聲全曲下載數已達1億至1.2億\[7\]\[8\]，並且每年持續快速增長。而進入2000年代之後，日本唱片業蕭條，2009年日本全年[單曲總銷量才只有](https://zh.wikipedia.org/wiki/單曲 "wikilink")4,500萬張。\[9\]
-付費下載數是實體唱片數的至少2.5倍，付費下載已成為多數日本人接觸音樂的首選途徑。因此，RIAJ下載榜在日本音樂界的重要性也不斷提高。對比起[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")，RIAJ下載榜更能表現出日本當今的音樂潮流。
+上述的提供商中，最大的[RecoChoku](../Page/RecoChoku.md "wikilink")，一年的手機鈴聲全曲下載數已達1億至1.2億\[7\]\[8\]，並且每年持續快速增長。而進入2000年代之後，日本唱片業蕭條，2009年日本全年[單曲總銷量才只有](https://zh.wikipedia.org/wiki/單曲 "wikilink")4,500萬張。\[9\] 付費下載數是實體唱片數的至少2.5倍，付費下載已成為多數日本人接觸音樂的首選途徑。因此，RIAJ下載榜在日本音樂界的重要性也不斷提高。對比起[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")，RIAJ下載榜更能表現出日本當今的音樂潮流。
 
 ## 參見
 
@@ -27,13 +25,9 @@ ME和MUSICO等。\[6\]
 
 ## 外部連結
 
-  - [RIAJ付費音樂下載榜](http://www.riaj.or.jp/data/others/weekly_chart/index.html)
-    - [日本唱片協會](../Page/日本唱片協會.md "wikilink")
+  - [RIAJ付費音樂下載榜](http://www.riaj.or.jp/data/others/weekly_chart/index.html) - [日本唱片協會](../Page/日本唱片協會.md "wikilink")
 
-[Category:RIAJ付費音樂下載榜](https://zh.wikipedia.org/wiki/Category:RIAJ付費音樂下載榜 "wikilink")
-[Category:日本音樂排行榜](https://zh.wikipedia.org/wiki/Category:日本音樂排行榜 "wikilink")
-[Category:日本唱片協會](https://zh.wikipedia.org/wiki/Category:日本唱片協會 "wikilink")
-[Category:音樂下載](https://zh.wikipedia.org/wiki/Category:音樂下載 "wikilink")
+[Category:RIAJ付費音樂下載榜](https://zh.wikipedia.org/wiki/Category:RIAJ付費音樂下載榜 "wikilink") [Category:日本音樂排行榜](https://zh.wikipedia.org/wiki/Category:日本音樂排行榜 "wikilink") [Category:日本唱片協會](https://zh.wikipedia.org/wiki/Category:日本唱片協會 "wikilink") [Category:音樂下載](https://zh.wikipedia.org/wiki/Category:音樂下載 "wikilink")
 
 1.
 

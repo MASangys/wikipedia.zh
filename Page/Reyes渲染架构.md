@@ -1,21 +1,18 @@
-Reyes
-渲染架构，是[三维计算机图形学的一个软件架构](https://zh.wikipedia.org/wiki/三维计算机图形学 "wikilink")，用于[渲染照片一样真实的图像](../Page/渲染.md "wikilink")。该架构是80年代中期由[卢卡斯影业的计算机图形研究小组成员](../Page/卢卡斯影业.md "wikilink")[艾德文·卡特姆](../Page/艾德文·卡特姆.md "wikilink")、[洛伦·卡彭特和](../Page/洛伦·卡彭特.md "wikilink")[罗伯特·库克所开发的](../Page/罗伯特·库克.md "wikilink")，那个研究小组最后发展成了今天的[皮克斯](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")。\[1\]
-该架构最早使用于1982年的科幻片《[星际迷航2：可汗之怒](../Page/星际旅行II：可汗怒吼.md "wikilink")》中的创世片段。皮克斯的[PRMan是Reyes算法的一个实现](https://zh.wikipedia.org/wiki/PRMan "wikilink")。
+Reyes 渲染架构，是[三维计算机图形学的一个软件架构](https://zh.wikipedia.org/wiki/三维计算机图形学 "wikilink")，用于[渲染](../Page/渲染.md "wikilink")照片一样真实的图像。该架构是80年代中期由[卢卡斯影业](../Page/卢卡斯影业.md "wikilink")的计算机图形研究小组成员[艾德文·卡特姆](../Page/艾德文·卡特姆.md "wikilink")、[洛伦·卡彭特](../Page/洛伦·卡彭特.md "wikilink")和[罗伯特·库克](../Page/罗伯特·库克.md "wikilink")所开发的，那个研究小组最后发展成了今天的[皮克斯](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")。\[1\] 该架构最早使用于1982年的科幻片《[星际迷航2：可汗之怒](../Page/星际旅行II：可汗怒吼.md "wikilink")》中的创世片段。皮克斯的[PRMan是Reyes算法的一个实现](https://zh.wikipedia.org/wiki/PRMan "wikilink")。
 
 根据最初描述该算法的论文，Reyes渲染系统是一个用于复杂图像的快速高质量渲染的“架构”，论文中指出Reyes包括一系列算法和数据处理系统，不过本词条中的“算法”和“架构”是同义的。
 
-*Reyes*是*Renders Everything You Ever
-Saw*（渲染你曾见到的任何物体）的首字母缩写，这个名字也是卢卡斯影业以前所在地——加州的名字，因此Reyes是双关语，它还暗指和光学影像系统有关的过程。根据罗伯特·库克的说法，Reyes的正确写法是首字母大写，其余小写，和1987年库克/卡彭特/卡特姆的[SIGGRAPH论文中一样](../Page/SIGGRAPH.md "wikilink")。
+*Reyes*是*Renders Everything You Ever Saw*（渲染你曾见到的任何物体）的首字母缩写，这个名字也是卢卡斯影业以前所在地——加州的名字，因此Reyes是双关语，它还暗指和光学影像系统有关的过程。根据罗伯特·库克的说法，Reyes的正确写法是首字母大写，其余小写，和1987年库克/卡彭特/卡特姆的[SIGGRAPH](../Page/SIGGRAPH.md "wikilink")论文中一样。
 
 ## Reyes架构的设计目标
 
 Reyes架构的设计遵从以下目标：
 
-  - **模型复杂性和多样性**：为了产生复杂和样式丰富的图像，渲染系统的用户必须能通过[分形或](../Page/分形.md "wikilink")[粒子系统等](../Page/粒子系统.md "wikilink")，经由编写程序生成大量复杂的几何结构。
+  - **模型复杂性和多样性**：为了产生复杂和样式丰富的图像，渲染系统的用户必须能通过[分形](../Page/分形.md "wikilink")或[粒子系统](../Page/粒子系统.md "wikilink")等，经由编写程序生成大量复杂的几何结构。
 
 <!-- end list -->
 
-  - **复杂着色**：场景的复杂度通常由光线和物体表面的相互作用产生。通常，在计算机图形学里，这是通过使用纹理来表现的，纹理可以是一组像素，用于描述表面位移（置换）、透明度或反射率等。Reyes允许用户用计算机程序来描述表面结构和光学互作用，而不是简单的[数据查询表](../Page/查找表.md "wikilink")，并和可编程[着色器结合](../Page/着色器.md "wikilink")。算法的一个重要目标是减少处理器从存储器中读取纹理的时间。
+  - **复杂着色**：场景的复杂度通常由光线和物体表面的相互作用产生。通常，在计算机图形学里，这是通过使用纹理来表现的，纹理可以是一组像素，用于描述表面位移（置换）、透明度或反射率等。Reyes允许用户用计算机程序来描述表面结构和光学互作用，而不是简单的[数据查询表](../Page/查找表.md "wikilink")，并和可编程[着色器](../Page/着色器.md "wikilink")结合。算法的一个重要目标是减少处理器从存储器中读取纹理的时间。
 
 <!-- end list -->
 
@@ -60,41 +57,22 @@ Reyes算法通过把参数曲面分割成[微多边形](https://zh.wikipedia.org
 
 以下渲染器使用了Reyes算法，或者用户可以根据需要选择使用Reyes算法：
 
-  - [3Delight](../Page/3Delight.md "wikilink")
-    ([链接](http://www.3delight.com/))
+  - [3Delight](../Page/3Delight.md "wikilink") ([链接](http://www.3delight.com/))
   - [Aqsis](../Page/Aqsis.md "wikilink") ([链接](http://www.aqsis.org/))
-  - [jrMan](https://zh.wikipedia.org/wiki/jrMan "wikilink")
-    ([链接](http://www.jrman.org/))
-  - 皮克斯的 [PhotoRealistic RenderMan
-    渲染器](https://zh.wikipedia.org/wiki/PRMan "wikilink")
-    ([链接](https://renderman.pixar.com/))
-  - [Pixels 3d渲染器](https://zh.wikipedia.org/wiki/Pixels_3d "wikilink")
-    ([链接](http://www.pixels.net/))
-  - [Pixie](../Page/Pixie_\(渲染器\).md "wikilink")
-    ([链接](http://www.renderpixie.com/))
-  - DotC Software 的
-    [RenderDotC](https://zh.wikipedia.org/wiki/RenderDotC "wikilink")
-    ([链接](http://www.dotcsw.com/))
-  - Side Effects Software 的 [Mantra](../Page/Houdini.md "wikilink")
-    ([链接](http://www.sidefx.com/))
-  - Poser 的 [FireFly](https://zh.wikipedia.org/wiki/Poser "wikilink")
-    ([链接](https://web.archive.org/web/20090113081806/http://my.smithmicro.com/win/poser/index.html))
-  - [Guerilla
-    Render](https://zh.wikipedia.org/wiki/Guerilla_Render "wikilink")
-    ([链接](http://www.guerillarender.com))
-  - [Bakery
-    Relight](https://zh.wikipedia.org/wiki/Bakery_Relight "wikilink")
-    ([链接](http://www.bakery3d.com))
+  - [jrMan](https://zh.wikipedia.org/wiki/jrMan "wikilink") ([链接](http://www.jrman.org/))
+  - 皮克斯的 [PhotoRealistic RenderMan 渲染器](https://zh.wikipedia.org/wiki/PRMan "wikilink") ([链接](https://renderman.pixar.com/))
+  - [Pixels 3d渲染器](https://zh.wikipedia.org/wiki/Pixels_3d "wikilink") ([链接](http://www.pixels.net/))
+  - [Pixie](../Page/Pixie_\(渲染器\).md "wikilink") ([链接](http://www.renderpixie.com/))
+  - DotC Software 的 [RenderDotC](https://zh.wikipedia.org/wiki/RenderDotC "wikilink") ([链接](http://www.dotcsw.com/))
+  - Side Effects Software 的 [Mantra](../Page/Houdini.md "wikilink") ([链接](http://www.sidefx.com/))
+  - Poser 的 [FireFly](https://zh.wikipedia.org/wiki/Poser "wikilink") ([链接](https://web.archive.org/web/20090113081806/http://my.smithmicro.com/win/poser/index.html))
+  - [Guerilla Render](https://zh.wikipedia.org/wiki/Guerilla_Render "wikilink") ([链接](http://www.guerillarender.com))
+  - [Bakery Relight](https://zh.wikipedia.org/wiki/Bakery_Relight "wikilink") ([链接](http://www.bakery3d.com))
 
 ## 参考资料
 
-  - 罗伯特·库克，洛伦·卡彭特，艾德文·卡特姆，《[Reyes
-    图像渲染架构](http://graphics.pixar.com/library/Reyes/)》，*计算机图形学
-    （1987 年 SIGGRAPH 论文）*，95-102页。
-  - Anthony A.
-    Apodaca和[拉里·格里兹](https://zh.wikipedia.org/wiki/拉里·格里兹 "wikilink")，*Advanced
-    RenderMan: Creating CGI for Motion Pictures*，Morgan Kaufmann，ISBN
-    1-55860-618-1
+  - 罗伯特·库克，洛伦·卡彭特，艾德文·卡特姆，《[Reyes 图像渲染架构](http://graphics.pixar.com/library/Reyes/)》，*计算机图形学 （1987 年 SIGGRAPH 论文）*，95-102页。
+  - Anthony A. Apodaca和[拉里·格里兹](https://zh.wikipedia.org/wiki/拉里·格里兹 "wikilink")，*Advanced RenderMan: Creating CGI for Motion Pictures*，Morgan Kaufmann，ISBN 1-55860-618-1
 
 [Category:三维计算机图形学](https://zh.wikipedia.org/wiki/Category:三维计算机图形学 "wikilink")
 

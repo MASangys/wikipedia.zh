@@ -1,14 +1,8 @@
-**OmegaT**是一个使用[Java编程语言编写的](../Page/Java.md "wikilink")[计算机辅助翻译工具](https://zh.wikipedia.org/wiki/计算机辅助翻译 "wikilink")。它是[自由软件](../Page/自由软件.md "wikilink")，最初的开发由Keith
-Godfrey在2000年进行，目前的开发工作由Didier Briel带领的团队进行。**OmegaT**名称在德国是注册商标。
+**OmegaT**是一个使用[Java](../Page/Java.md "wikilink")编程语言编写的[计算机辅助翻译工具](https://zh.wikipedia.org/wiki/计算机辅助翻译 "wikilink")。它是[自由软件](../Page/自由软件.md "wikilink")，最初的开发由Keith Godfrey在2000年进行，目前的开发工作由Didier Briel带领的团队进行。**OmegaT**名称在德国是注册商标。
 
-OmegaT适用于专业译员。它的功能包括使用[正则表达式的可自定义分段](../Page/正则表达式.md "wikilink")，带有模糊匹配和匹配传播的[翻譯記憶](../Page/翻譯記憶.md "wikilink")，术语库匹配，词典匹配和参考资料搜索以及使用[Hunspell拼写词典的内联拼写检查功能](../Page/Hunspell.md "wikilink")。
+OmegaT适用于专业译员。它的功能包括使用[正则表达式](../Page/正则表达式.md "wikilink")的可自定义分段，带有模糊匹配和匹配传播的[翻譯記憶](../Page/翻譯記憶.md "wikilink")，术语库匹配，词典匹配和参考资料搜索以及使用[Hunspell](../Page/Hunspell.md "wikilink")拼写词典的内联拼写检查功能。
 
-OmegaT可运行于[Linux](../Page/Linux.md "wikilink")、[Mac OS
-X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 98
-SE或更高版本，\[1\]并且需要Java
-1.5。它的界面和文档被翻译成27种语言。在2010年对458名专业译员的调查\[2\]表明，OmegaT的用户数达到[Wordfast](../Page/Wordfast.md "wikilink")、DejaVu和[MemoQ的](../Page/MemoQ.md "wikilink")1/3，且达到了市场领导者[塔多思的](../Page/塔多思.md "wikilink")1/8。在[Bing翻译的合作伙伴中](https://zh.wikipedia.org/wiki/Bing翻译 "wikilink")，OmegaT是其中唯一一个免费的专业级辅助翻译工具\[3\]
-。
+OmegaT可运行于[Linux](../Page/Linux.md "wikilink")、[Mac OS X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 98 SE或更高版本，\[1\]并且需要Java 1.5。它的界面和文档被翻译成27种语言。在2010年对458名专业译员的调查\[2\]表明，OmegaT的用户数达到[Wordfast](../Page/Wordfast.md "wikilink")、DejaVu和[MemoQ](../Page/MemoQ.md "wikilink")的1/3，且达到了市场领导者[塔多思](../Page/塔多思.md "wikilink")的1/8。在[Bing翻译的合作伙伴中](https://zh.wikipedia.org/wiki/Bing翻译 "wikilink")，OmegaT是其中唯一一个免费的专业级辅助翻译工具\[3\] 。
 
 ## 历史
 
@@ -18,8 +12,7 @@ OmegaT最初由Keith Godfrey开发于2000年。当时使用C++进行编写。
 
 ## 开发和软件的发布
 
-OmegaT的开发托管在SourceForge。开发团队由Didier
-Briel领导。和许多开源项目一样，新版本的OmegaT会频繁发布，通常每个新版本含有2-3个错误修改和功能升级。这个指的是“标准”版本，其中总是含有完整的用户手册和包含一些还未写入用户手册的功能的“最新”版本。\[5\]可以从Sourceforge的代码版本库的更新源进行更新。\[6\]
+OmegaT的开发托管在SourceForge。开发团队由Didier Briel领导。和许多开源项目一样，新版本的OmegaT会频繁发布，通常每个新版本含有2-3个错误修改和功能升级。这个指的是“标准”版本，其中总是含有完整的用户手册和包含一些还未写入用户手册的功能的“最新”版本。\[5\]可以从Sourceforge的代码版本库的更新源进行更新。\[6\]
 
 ## OmegaT的工作原理
 
@@ -38,15 +31,13 @@ OmegaT拥有主流CAT工具具有的许多功能。包括创建，导入和导�
 OmegaT还拥有其他CAT工具不具有的功能，包括：
 
   - OmegaT可以同时翻译不同文件格式的多个文件，且查阅多个翻译记忆、术语表和词典（只受计算机可用内存的限制）。
-  - 通过支持的文件类型，OmegaT允许用户自定义文件扩展名和文件编码。对于一些文档类型，用户还可以有选择地翻译哪些元素（例如对于OpenOffice.org
-    Writer文件，可选择是否翻译书签；对于Microsoft Office 2007/2010
-    文件，可选择是否翻译脚注；而对于HTML，可选择是否翻译图像的ALT文本）。用户还可以选择如何处理第三方翻译记忆中的非标准元素。
+  - 通过支持的文件类型，OmegaT允许用户自定义文件扩展名和文件编码。对于一些文档类型，用户还可以有选择地翻译哪些元素（例如对于OpenOffice.org Writer文件，可选择是否翻译书签；对于Microsoft Office 2007/2010 文件，可选择是否翻译脚注；而对于HTML，可选择是否翻译图像的ALT文本）。用户还可以选择如何处理第三方翻译记忆中的非标准元素。
   - OmegaT的片段分割规则基于正则表达式。可以配置片段分割规则基于语言或文件格式，而连续的片段分割规则继承彼此的值。
   - 在编辑窗口，用户可以直接跳到下一个未翻译片段或在历史中前进以及后退。用户可以撤销和重做，复制和粘贴，以及用与高级文本编辑器相同的方式切换大小写状态。用户可以选择查看已翻译片段的源文本。编辑窗格还含有使用Hunspell词典的内联拼写检查功能以及使用鼠标进行交互地拼写检查。
   - 用户可以使用键盘快捷键或鼠标插入模糊匹配。OmegaT使用彩色显示模糊匹配的相似度。OmegaT还可以显示翻译了任意指定片段的日期、时间和用户名。匹配的术语可以用鼠标插入。用户可以选择把源文本复制到目标文本区域或自动插入最接近的模糊匹配。
   - 在搜索窗口，用户可以选择搜索当前文件的源文本，目标文本，其他翻译记忆和参考文件。搜索可以是区分大小写的，还可以使用正则表达式。双击搜索结果可以直接跳转到编辑窗口中的相应片段。
   - 翻译完成后，OmegaT可以执行标签检验以确保没有意外的标签错误。OmegaT可以在项目开始前统计项目文件和翻译记忆的状态，以及在翻译期间显示翻译任务的进度。
-  - OmegaT可以从[Apertium](../Page/Apertium.md "wikilink")、[Belazar以及](https://zh.wikipedia.org/wiki/Belazar "wikilink")[Google翻译获取机器翻译并显示在单独的窗口中](../Page/Google翻译.md "wikilink")。
+  - OmegaT可以从[Apertium](../Page/Apertium.md "wikilink")、[Belazar以及](https://zh.wikipedia.org/wiki/Belazar "wikilink")[Google翻译](../Page/Google翻译.md "wikilink")获取机器翻译并显示在单独的窗口中。
   - 在OmegaT用户界面中可以对各个窗口向周围移动、最大化、平铺、标签化和最小化。当OmegaT启动时会显示“快速入门指南”的简短向导。
 
 ## 支持的文档格式
@@ -187,34 +178,25 @@ OmegaT可以直接翻译下列格式:
 
 #### 对于XLIFF的支持
 
-[Okapi
-Framework中的Rainbow程序可以把某些文件格式转换成OmegaT支持的XLIFF格式](../Page/Okapi_Framework.md "wikilink")。Rainbow还可以从这类文档中创建完整的OmegaT项目文件夹，便于OmegaT的处理。\[8\]
+[Okapi Framework中的Rainbow程序可以把某些文件格式转换成OmegaT支持的XLIFF格式](../Page/Okapi_Framework.md "wikilink")。Rainbow还可以从这类文档中创建完整的OmegaT项目文件夹，便于OmegaT的处理。\[8\]
 
 #### 对于Gettext PO的支持
 
-一些文件格式可以转换为能在OmegaT中翻译的Gettext Portable Object (PO) 文件。Debian Linux
-中的po4a程序可以把类似[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")、[TeX以及](../Page/TeX.md "wikilink")[POD的格式转换为Gettext](https://zh.wikipedia.org/wiki/Plain_Old_Documentation "wikilink")
-PO。\[9\][Translate
-Toolkit可以把Mozilla](../Page/Translate_Toolkit.md "wikilink")
-.properties 和dtd文件、CSV 文件、某些Qt .ts文件以及某些XLIFF文件转换为Gettext PO。
+一些文件格式可以转换为能在OmegaT中翻译的Gettext Portable Object (PO) 文件。Debian Linux 中的po4a程序可以把类似[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")、[TeX](../Page/TeX.md "wikilink")以及[POD的格式转换为Gettext](https://zh.wikipedia.org/wiki/Plain_Old_Documentation "wikilink") PO。\[9\][Translate Toolkit可以把Mozilla](../Page/Translate_Toolkit.md "wikilink") .properties 和dtd文件、CSV 文件、某些Qt .ts文件以及某些XLIFF文件转换为Gettext PO。
 
 #### 对于Office Open XML和ODF的支持
 
-从版本97到2003的Microsoft Word、Excel以及PowerPoint文档可以转换为Office Open XML
-(Microsoft Office 2007/2010)或ODF
-(OpenOffice.org)格式。这种转换过程并不是无损的，可能导致某些格式的丢失。
+从版本97到2003的Microsoft Word、Excel以及PowerPoint文档可以转换为Office Open XML (Microsoft Office 2007/2010)或ODF (OpenOffice.org)格式。这种转换过程并不是无损的，可能导致某些格式的丢失。
 
 #### 对于Trados® .ttx文件的支持
 
-Trados® .ttx可以使用[Okapi TTX
-Filter](http://www.opentag.com/okapi/wiki/index.php?title=TTX_Filter)进行处理。
+Trados® .ttx可以使用[Okapi TTX Filter](http://www.opentag.com/okapi/wiki/index.php?title=TTX_Filter)进行处理。
 
 ## 支持的翻译记忆和术语库格式
 
 ### TMX格式的翻译记忆
 
-OmegaT的内部翻译记忆格式对用户不可见，但每次它自动保存翻译项目时，会自动把所有新增和更新的翻译单元都导出并添加到三个外部的TMX翻译记忆：一个原生的OmegaT
-TMX、一个级别1的TMX以及一个级别2的TMX。
+OmegaT的内部翻译记忆格式对用户不可见，但每次它自动保存翻译项目时，会自动把所有新增和更新的翻译单元都导出并添加到三个外部的TMX翻译记忆：一个原生的OmegaT TMX、一个级别1的TMX以及一个级别2的TMX。
 
   - 原生的TMX是为了用于OmegaT中的项目。
   - 级别1的TMX文件保留了文本信息，可以用在支持TMX级别1和2的CAT工具中。
@@ -234,10 +216,7 @@ OmegaT支持导入最高1.4b版本级别1和级别2的TMX文件。在OmegaT中�
 
 ### OmegaT项目
 
-The OmegaT Project is a sort of “computer literacy” group that focus on
-translators' needs. Users are encouraged to contribute tools written by
-themselves in response to translators' needs which are not yet addressed
-by the main OmegaT program itself.\[10\]
+The OmegaT Project is a sort of “computer literacy” group that focus on translators' needs. Users are encouraged to contribute tools written by themselves in response to translators' needs which are not yet addressed by the main OmegaT program itself.\[10\]
 
 ### OmegaT的本地化
 
@@ -247,8 +226,7 @@ OmegaT的用户界面和文档已经被翻译为大约30种语言。志愿翻译
 
 OmegaT用户社区的特色是对于OmegaT的不足之处经常提示用户创建实现那些功能的宏、脚本和程序，尽管有时某些功能后来会成为OmegaT自身的一部分。当OmegaT只能进行段落分割时，有用户创建了OpenOffice.org宏进行根据句子进行分割。当在OmegaT中自动平衡多个TM仍需合并TM时，有用户创建了TMX合并脚本。当OmegaT没有提供拼写检查支持时，有多个用户创建脚本或找到解决方案作为OmegaT的一部分用来在翻译过程中提供拼写检查功能。\[11\]
 
-当前提供了某些功能且尚未内置于OmegaT的工具包括一个用于Trados
-TagEditor文件的转换程序，两个简单的对齐器，一个不工作的术语添加工具以及一个把标签视为占位符的工具。\[12\]
+当前提供了某些功能且尚未内置于OmegaT的工具包括一个用于Trados TagEditor文件的转换程序，两个简单的对齐器，一个不工作的术语添加工具以及一个把标签视为占位符的工具。\[12\]
 
 ## 基于OmegaT构建的其他软件
 
@@ -266,11 +244,7 @@ Boltran是模仿OmegaT项目工作流程的基于网络的独立CAT工具。它�
 
 ### OmegaT+
 
-OmegaT+ 是在 2005 年从 OmegaT 的 1.4.5 版本派生而来的 CAT 工具。其工作方式类似于
-OmegaT，同时开发了一些自己的功能，且使用了与 OmegaT
-不兼容的项目格式\[16\]。在许多时候，这个名称容易让不了解的人误以为是
-OmegaT 的增强版本，而**实际上 OmegaT+ 只是 OmegaT 1.4.5 的增强版本**，且从 2005 年至今 OmegaT
-中已增加了大量功能增强和新特性。
+OmegaT+ 是在 2005 年从 OmegaT 的 1.4.5 版本派生而来的 CAT 工具。其工作方式类似于 OmegaT，同时开发了一些自己的功能，且使用了与 OmegaT 不兼容的项目格式\[16\]。在许多时候，这个名称容易让不了解的人误以为是 OmegaT 的增强版本，而**实际上 OmegaT+ 只是 OmegaT 1.4.5 的增强版本**，且从 2005 年至今 OmegaT 中已增加了大量功能增强和新特性。
 
 ## 用户评价
 
@@ -281,8 +255,7 @@ OmegaT 的增强版本，而**实际上 OmegaT+ 只是 OmegaT 1.4.5 的增强版
 
   - [翻譯記憶](../Page/翻譯記憶.md "wikilink")
   - [计算机辅助翻译](../Page/電腦輔助翻譯.md "wikilink")
-  - [Office Open XML
-    software](https://zh.wikipedia.org/wiki/Office_Open_XML_software "wikilink")
+  - [Office Open XML software](https://zh.wikipedia.org/wiki/Office_Open_XML_software "wikilink")
   - [可支援開放文件軟體列表](../Page/可支援開放文件軟體列表.md "wikilink")
 
 ## 参考
@@ -295,42 +268,26 @@ OmegaT 的增强版本，而**实际上 OmegaT+ 只是 OmegaT 1.4.5 的增强版
 
   - [OmegaT 使用简介](http://www.iplaysoft.com/omegat.html)
 
-  - [OmegaT
-    使用简介](http://www.openfoundry.org/index.php?option=com_content&task=view&id=1559&Itemid=144)
+  - [OmegaT 使用简介](http://www.openfoundry.org/index.php?option=com_content&task=view&id=1559&Itemid=144)
 
-  - [Velior's blog about
-    OmegaT](http://www.velior.ru/blog/en/tag/omegat/)——包含了众多 OmegaT
-    技巧、教程和辅助脚本等
+  - [Velior's blog about OmegaT](http://www.velior.ru/blog/en/tag/omegat/)——包含了众多 OmegaT 技巧、教程和辅助脚本等
 
 ### 用户组
 
   - [omegat@yahoogroups.com](http://groups.yahoo.com/group/omegat)——多语言用户邮件列表（无需订阅即可搜索存档）
 
-[Category:电脑辅助翻译](https://zh.wikipedia.org/wiki/Category:电脑辅助翻译 "wikilink")
-[Category:翻譯軟體](https://zh.wikipedia.org/wiki/Category:翻譯軟體 "wikilink")
-[Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
-[Category:軟體在地化工具](https://zh.wikipedia.org/wiki/Category:軟體在地化工具 "wikilink")
+[Category:电脑辅助翻译](https://zh.wikipedia.org/wiki/Category:电脑辅助翻译 "wikilink") [Category:翻譯軟體](https://zh.wikipedia.org/wiki/Category:翻譯軟體 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink") [Category:軟體在地化工具](https://zh.wikipedia.org/wiki/Category:軟體在地化工具 "wikilink")
 
 1.
 2.  <http://www.translationtribulations.com/2010/07/results-of-june-translation-tools.html>
 3.   Microsoft Translator Partners
 4.
-5.  [1](https://sourceforge.net/projects/omegat/files/) OmegaT's
-    "standard" and "latest" versions
-6.  [2](http://omegat.svn.sourceforge.net/viewvc/omegat/trunk/) The
-    latest source files are always available from the Sourceforge code
-    repository
-7.  [Open Document Format for Office
-    Applications](http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=43485&scopelist=PROGRAMME)
-    – ISO/IEC 26300:2006 format
-8.  [Okapi
-    Framework](http://okapi.sourceforge.net/Release/Shared/Help/tutorial_02.htm)
-    – Text Extraction utility can create an OmegaT project folder tree
-9.  [po4a](http://po4a.alioth.debian.org/)  – A conversion utility to
-    and from the [Portable Object](../Page/Gettext.md "wikilink")
-    format, perl application packaged under Debian
-10. [OmegaT Getting Involved](http://www.omegat.org/en/involved.html)  –
-    Translators are encouraged to write their own supplementary tools
+5.  [1](https://sourceforge.net/projects/omegat/files/) OmegaT's "standard" and "latest" versions
+6.  [2](http://omegat.svn.sourceforge.net/viewvc/omegat/trunk/) The latest source files are always available from the Sourceforge code repository
+7.  [Open Document Format for Office Applications](http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=43485&scopelist=PROGRAMME) – ISO/IEC 26300:2006 format
+8.  [Okapi Framework](http://okapi.sourceforge.net/Release/Shared/Help/tutorial_02.htm) – Text Extraction utility can create an OmegaT project folder tree
+9.  [po4a](http://po4a.alioth.debian.org/)  – A conversion utility to and from the [Portable Object](../Page/Gettext.md "wikilink") format, perl application packaged under Debian
+10. [OmegaT Getting Involved](http://www.omegat.org/en/involved.html)  – Translators are encouraged to write their own supplementary tools
 11. <http://tech.groups.yahoo.com/group/OmegaT/files/>
 12. <http://www.omegat.org/en/resources.html>
 13. [Autshumato](http://autshumato.sourceforge.net/)

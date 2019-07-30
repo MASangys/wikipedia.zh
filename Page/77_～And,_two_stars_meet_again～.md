@@ -1,12 +1,8 @@
-《**77 ～And, two stars meet
-again～**》為[Whirlpool製作並於](../Page/Whirlpool.md "wikilink")2009年7月31日發行的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，為該公司的第六款作品。
+《**77 ～And, two stars meet again～**》為[Whirlpool](../Page/Whirlpool.md "wikilink")製作並於2009年7月31日發行的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，為該公司的第六款作品。
 
 遊戲標題的77意思是7月7日也就是所謂的[七夕](../Page/七夕.md "wikilink")，依據七夕傳說這是牛郎星與織女星相會的日子。\[1\]
 
-2010年12月22日，由[GN
-Software發行](../Page/GN_Software.md "wikilink")[PlayStation
-Portable版](../Page/PlayStation_Portable.md "wikilink")《**77 ～beyond
-the Milky Way～**》。\[2\]
+2010年12月22日，由[GN Software發行](../Page/GN_Software.md "wikilink")[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")《**77 ～beyond the Milky Way～**》。\[2\]
 
 ## 世界觀
 
@@ -16,8 +12,7 @@ the Milky Way～**》。\[2\]
 
 ## 故事
 
-主人公**月城
-翔**因為突發的事故，被「アルタイルの指輪」選定為當年「待星祭」中的牛郎星，而陷入了被各懷心思的女主角追逐的命運，然而隨著「待星祭」的進行，主人公一點一點的揭露出學園的秘密，其中包含了「待星祭」的真正目的...
+主人公**月城 翔**因為突發的事故，被「アルタイルの指輪」選定為當年「待星祭」中的牛郎星，而陷入了被各懷心思的女主角追逐的命運，然而隨著「待星祭」的進行，主人公一點一點的揭露出學園的秘密，其中包含了「待星祭」的真正目的...
 
 ## 登場角色\[3\]
 
@@ -99,18 +94,13 @@ the Milky Way～**》。\[2\]
 
 ## 外部連結
 
-  - [Whirlpool Official Website - 77 ～And, two stars meet again～
-    -](http://whirlpool.co.jp/sevens/)
+  - [Whirlpool Official Website - 77 ～And, two stars meet again～ -](http://whirlpool.co.jp/sevens/)
   - [77 ～beyond the Milky Way～](http://www.piacci.co.jp/sevens/)
 
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
+[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
 
 1.  （セブンズ）～And，two stars meet again～ プレガイド 彩文館出版 ISBN 9784775604083"
 2.
-3.  DENGEKI HIME (電撃姫) 2009年 08月号 出版社:アスキー・メディアワークス; 月刊版 (2009/6/30)
-    ASIN: B002DVBGIO
+3.  DENGEKI HIME (電撃姫) 2009年 08月号 出版社:アスキー・メディアワークス; 月刊版 (2009/6/30) ASIN: B002DVBGIO
 4.
 5.

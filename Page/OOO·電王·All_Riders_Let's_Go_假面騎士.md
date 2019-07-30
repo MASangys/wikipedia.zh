@@ -1,12 +1,4 @@
-**OOO・電王・All Riders Let's
-Go假面騎士**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：オーズ・デンオウ・オールライダー
-レッツゴー仮面ライダー，[平假名](../Page/平假名.md "wikilink")：オーズ・電王・オールライダー
-レッツゴー仮面ライダー，[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：OOO,
-Den-O, All Riders: Let's Go Kamen
-Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・덴오・올라이더:
-렛츠 고
-가면라이더）是[日本](../Page/日本.md "wikilink")2011年4月1日上映的[幪面超人剧场版](../Page/幪面超人.md "wikilink")，由[东映制作](https://zh.wikipedia.org/wiki/东映 "wikilink")。[宣传语是](https://zh.wikipedia.org/wiki/广告标语 "wikilink")：**世界啊，这是日本的英雄！！**（日文：世界よ、これが日本のヒーローだ\!\!）
-香港的名字是（ooo 電王 全體超人 let's,go 幪面超人） 香港於2014年6月26日 出碟
+**OOO・電王・All Riders Let's Go假面騎士**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：オーズ・デンオウ・オールライダー レッツゴー仮面ライダー，[平假名](../Page/平假名.md "wikilink")：オーズ・電王・オールライダー レッツゴー仮面ライダー，[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：OOO, Den-O, All Riders: Let's Go Kamen Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・덴오・올라이더: 렛츠 고 가면라이더）是[日本](../Page/日本.md "wikilink")2011年4月1日上映的[幪面超人](../Page/幪面超人.md "wikilink")剧场版，由[东映制作](https://zh.wikipedia.org/wiki/东映 "wikilink")。[宣传语是](https://zh.wikipedia.org/wiki/广告标语 "wikilink")：**世界啊，这是日本的英雄！！**（日文：世界よ、これが日本のヒーローだ\!\!） 香港的名字是（ooo 電王 全體超人 let's,go 幪面超人） 香港於2014年6月26日 出碟
 
 ## 概要
 
@@ -14,7 +6,7 @@ Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・�
 
 ## 本次主线事件
 
-故事开端，映司与ankh同异魔神作战，却不慎让异魔神进入一名名为“直树”的小孩的身体，而这个小孩竟拥有40年前的记忆(1971年)，幸太郎赶到时，与映司见面，并透露自己有能够穿越时间的能力，Ankh为了趁40年前GREEED还没觉醒的时候获得硬币而提出与幸太郎一同前往40年前，却不慎在打斗中掉了一枚普通币，而40年前的[修卡拥有修卡核心币却没有普通币因此无法创造修卡GREEED](../Page/修卡.md "wikilink")，因为修卡战斗员捡到了Ankh掉下的硬币，修卡GREEED诞生，实力增强的修卡组织打败了假面骑士1号和2号并将其洗脑，使得Ankh和映司回到四十年后时变成了修卡统治时代，于是幸太郎决定要Ankh和一起去修正历史，映司留在自己的时空，但由于Ankh的关系，使得硬币依然有一枚丢失，并被修卡战斗员找到再转交给黑将军，此时40年前还没被洗脑的1号与2号前来帮助，事后与却因为黑将军的计谋导致修卡GREEED依然诞生，修正历史失败，电列车也因此毁坏……
+故事开端，映司与ankh同异魔神作战，却不慎让异魔神进入一名名为“直树”的小孩的身体，而这个小孩竟拥有40年前的记忆(1971年)，幸太郎赶到时，与映司见面，并透露自己有能够穿越时间的能力，Ankh为了趁40年前GREEED还没觉醒的时候获得硬币而提出与幸太郎一同前往40年前，却不慎在打斗中掉了一枚普通币，而40年前的[修卡](../Page/修卡.md "wikilink")拥有修卡核心币却没有普通币因此无法创造修卡GREEED，因为修卡战斗员捡到了Ankh掉下的硬币，修卡GREEED诞生，实力增强的修卡组织打败了假面骑士1号和2号并将其洗脑，使得Ankh和映司回到四十年后时变成了修卡统治时代，于是幸太郎决定要Ankh和一起去修正历史，映司留在自己的时空，但由于Ankh的关系，使得硬币依然有一枚丢失，并被修卡战斗员找到再转交给黑将军，此时40年前还没被洗脑的1号与2号前来帮助，事后与却因为黑将军的计谋导致修卡GREEED依然诞生，修正历史失败，电列车也因此毁坏……
 
 ## 登场人物
 
@@ -27,8 +19,7 @@ Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・�
 <!-- end list -->
 
   -
-    幪面超人OOO
-    的變身者,與意像人戰鬥中和NEW電王碰上,因此一起去到40年前。回到2011年時發覺世界被Shocker征服了。遇到了光和直樹，與被SHOCKER腦部改造的假面騎士1號、2號，影子將軍等怪人戰鬥,但敗北,之後幸得幸太郎所救。
+    幪面超人OOO 的變身者,與意像人戰鬥中和NEW電王碰上,因此一起去到40年前。回到2011年時發覺世界被Shocker征服了。遇到了光和直樹，與被SHOCKER腦部改造的假面騎士1號、2號，影子將軍等怪人戰鬥,但敗北,之後幸得幸太郎所救。
     在幸太郎去40年前修復時空時,仍留在2011年和其他人類抵抗Shocker的攻擊。
 
 <!-- end list -->
@@ -75,9 +66,7 @@ Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・�
 
   -
     假面騎士NEW Den-O的變身者,因這次事件而必需再回40年前修復時空。
-    在1971年與幪面超人1號、2號、桃太洛斯、Ankh、假面騎士少年隊阻止黑將軍把Cell
-    Medals獻上給修卡首領。可惜因黑將軍巧妙的謀略作戰,Shocker
-    Greeed還是誕生了,修復時空失敗再加上Den-Liner被砲龜怪人砲擊,不得不回去2011年。
+    在1971年與幪面超人1號、2號、桃太洛斯、Ankh、假面騎士少年隊阻止黑將軍把Cell Medals獻上給修卡首領。可惜因黑將軍巧妙的謀略作戰,Shocker Greeed還是誕生了,修復時空失敗再加上Den-Liner被砲龜怪人砲擊,不得不回去2011年。
 
 <!-- end list -->
 
@@ -191,7 +180,7 @@ Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・�
 <!-- end list -->
 
   -
-    [修卡的大幹部](../Page/修卡.md "wikilink")，原作是蓋爾修卡的大幹部,擅長於謀略作戰。本身也會卓越剣術,和NEW電王互相角力。
+    [修卡](../Page/修卡.md "wikilink")的大幹部，原作是蓋爾修卡的大幹部,擅長於謀略作戰。本身也會卓越剣術,和NEW電王互相角力。
     是他把Ankh留在1971年的Cell Medals献上給修卡首領。
     黑將軍的本體為吸血蛭變色龍怪人。擁有擬態隱形能力令NEW電王和桃太洛斯在1971年苦戰。但在2011年行刑場的戦闘中被OOO用TAKA的視力掃瞄其真身,以虎爪猛力一擊撃破。
 
@@ -245,8 +234,7 @@ Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・�
 
   -
     修卡的首領,修卡為自1971年開始一個以世界征服為目的之國際秘密組織。
-    首領的真身是無數毒蛇的頭部下的獨眼怪人,擁有擊退假面騎士1號、2號的實力。在2011年時力壓28位假面騎士。最後被假面騎士OOO用Ta
-    Ma Shi Combo打敗。接著化身成岩石大首領。
+    首領的真身是無數毒蛇的頭部下的獨眼怪人,擁有擊退假面騎士1號、2號的實力。在2011年時力壓28位假面騎士。最後被假面騎士OOO用Ta Ma Shi Combo打敗。接著化身成岩石大首領。
     主張把智慧及體力很高的人進行改造成為怪人。
 
 <!-- end list -->
@@ -301,17 +289,13 @@ Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・�
 
   - [幪面超人OOO](https://zh.wikipedia.org/wiki/幪面超人OOO "wikilink")
   - 幪面超人NEW電王
-  - [幪面超人1號](../Page/幪面超人.md "wikilink")
-  - [幪面超人2號](../Page/幪面超人.md "wikilink")
+  - [幪面超人](../Page/幪面超人.md "wikilink")1號
+  - [幪面超人](../Page/幪面超人.md "wikilink")2號
 
 <!-- end list -->
 
   -
-    在1971年過去的世界一直與SHOCKER周旋的改造人。本作中被Shocker
-    Greeed壓倒性打敗。被腦部改造成SHOCKER最強怪人,成為令人類恐怖的象徴。在40年前修復時空時,和幸太郎一起戰鬥,希望可以打敗Shocker首領。但因黑將軍巧妙的謀略作戰Cell
-    Medals還是獻上給修卡首領,令Shocker
-    Greeed成功誕生,1號、2號還是戰敗,因此修復時空失敗。40年间洗腦被解除,一直等待機會反擊。在2011年再戰Shocker
-    Greeed以Rider Double kick將其打敗,再得到勝利。
+    在1971年過去的世界一直與SHOCKER周旋的改造人。本作中被Shocker Greeed壓倒性打敗。被腦部改造成SHOCKER最強怪人,成為令人類恐怖的象徴。在40年前修復時空時,和幸太郎一起戰鬥,希望可以打敗Shocker首領。但因黑將軍巧妙的謀略作戰Cell Medals還是獻上給修卡首領,令Shocker Greeed成功誕生,1號、2號還是戰敗,因此修復時空失敗。40年间洗腦被解除,一直等待機會反擊。在2011年再戰Shocker Greeed以Rider Double kick將其打敗,再得到勝利。
 
 #### 昭和假面騎士
 
@@ -324,8 +308,7 @@ Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・�
   - [假面騎士Super 1](../Page/假面騎士Super_1.md "wikilink")
   - [假面騎士ZX](https://zh.wikipedia.org/wiki/假面騎士ZX "wikilink")
   - [假面騎士Black](https://zh.wikipedia.org/wiki/假面騎士Black "wikilink")
-  - [假面騎士Black
-    RX](https://zh.wikipedia.org/wiki/假面騎士Black_RX "wikilink")
+  - [假面騎士Black RX](https://zh.wikipedia.org/wiki/假面騎士Black_RX "wikilink")
   - [真假面骑士](../Page/真假面騎士_序章.md "wikilink")
   - [假面騎士ZO](../Page/假面騎士ZO.md "wikilink")
   - [假面騎士J](../Page/假面騎士J.md "wikilink")
@@ -426,8 +409,7 @@ Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・�
 
 **电脑奇侠01**
 
-原文：キカイダー01 原作变身者：一郎（原文：イチロー）（[池田駿介](http://ja.wikipedia.org/wiki/池田駿介)
-饰）
+原文：キカイダー01 原作变身者：一郎（原文：イチロー）（[池田駿介](http://ja.wikipedia.org/wiki/池田駿介) 饰）
 
 东映经典特摄《[电脑奇侠01](../Page/电脑奇侠01.md "wikilink")》(日原文《[キカイダー01](http://ja.wikipedia.org/wiki/キカイダー01)》)中的主角。是《[人造人间电脑奇侠](../Page/人造人间电脑奇侠.md "wikilink")》的续集中出现的剧中博士制造的电脑奇侠的试作型，有完整的良心回路，在《[电脑奇侠01](../Page/电脑奇侠01.md "wikilink")》中为击退新生的电脑黑魔军团而从仁王像中苏醒，成为新的英雄。
 
@@ -465,18 +447,12 @@ Shocker Greeed
   -
     潮蟹怪人
 
-。基因生命体 。十面鬼 。影子将军 。影月 。阿波罗盖斯特 。戈尓戈姆 。杰克将军 。德拉斯 。眼镜蛇男格雷 。水蛭变色龙怪人 。白狮异魔神
-。老虎改造人 。铁甲犀牛 。水之EL 。风之EL 。古朗基之王 。大蜂怪人 。螃蟹型奥非以诺 。豹子EL 。红鱼EL 。神将EL
-。唐猴怪人 。太阳怪人 。古朗基沙系 。古朗基毒系 。古朗基火系 。黑暗之王 。橙蟹复体 。红太阳复体 。黄龙异虫 。蓝鱼异虫
-。白蟹异虫 。青毒异虫 。惨杂体之王 。紫鱼惨杂体 。金银惨杂体 。神将复体 。大蓝蜂怪人 。橙蟹怪人 。龙虾型奥非以诺 。马型奥非以诺
-。青银惨杂体 。神将兽之王 。机械大帝国之主 。马型十面鬼 。花型基因生命体 。千眼怪 。牙血鬼之毒 。牙血鬼之冰 。修卡守护之王
-。岩石大首领
+。基因生命体 。十面鬼 。影子将军 。影月 。阿波罗盖斯特 。戈尓戈姆 。杰克将军 。德拉斯 。眼镜蛇男格雷 。水蛭变色龙怪人 。白狮异魔神 。老虎改造人 。铁甲犀牛 。水之EL 。风之EL 。古朗基之王 。大蜂怪人 。螃蟹型奥非以诺 。豹子EL 。红鱼EL 。神将EL 。唐猴怪人 。太阳怪人 。古朗基沙系 。古朗基毒系 。古朗基火系 。黑暗之王 。橙蟹复体 。红太阳复体 。黄龙异虫 。蓝鱼异虫 。白蟹异虫 。青毒异虫 。惨杂体之王 。紫鱼惨杂体 。金银惨杂体 。神将复体 。大蓝蜂怪人 。橙蟹怪人 。龙虾型奥非以诺 。马型奥非以诺 。青银惨杂体 。神将兽之王 。机械大帝国之主 。马型十面鬼 。花型基因生命体 。千眼怪 。牙血鬼之毒 。牙血鬼之冰 。修卡守护之王 。岩石大首领
 
 ## 演员
 
   - 火野映司 / 幪面超人OOO （声） - [渡部秀](../Page/渡部秀.md "wikilink")
-  - 野上幸太郎 / M幸太郎 / 幪面超人NEW Den-O ストライクフォーム（声） -
-    [桜田通](https://zh.wikipedia.org/wiki/桜田通 "wikilink")
+  - 野上幸太郎 / M幸太郎 / 幪面超人NEW Den-O ストライクフォーム（声） - [桜田通](https://zh.wikipedia.org/wiki/桜田通 "wikilink")
   - Ankh / M Ankh / 泉信吾 - [三浦涼介](../Page/三浦涼介.md "wikilink")
   - 泉比奈 - [高田里穂](https://zh.wikipedia.org/wiki/高田里穂 "wikilink")
   - 尚美 - [秋山莉奈](../Page/秋山莉奈.md "wikilink")
@@ -485,32 +461,26 @@ Shocker Greeed
   - 阿茂 - [林遼威](https://zh.wikipedia.org/wiki/林遼威 "wikilink")
   - ノッコ - [恒松祐里](../Page/恒松祐里.md "wikilink")
   - 左翔太郎 / 幪面超人W（声） - [桐山漣](../Page/桐山漣.md "wikilink")（友情出演）
-  - 菲利普 / 幪面超人W（声） -
-    [菅田将暉](https://zh.wikipedia.org/wiki/菅田将暉 "wikilink")（友情出演）
+  - 菲利普 / 幪面超人W（声） - [菅田将暉](https://zh.wikipedia.org/wiki/菅田将暉 "wikilink")（友情出演）
   - 黑將軍 / 吸血蛭變色龍怪人（声） - [福本清三](../Page/福本清三.md "wikilink")
   - 老闆 - [石丸謙二郎](../Page/石丸謙二郎.md "wikilink")
   - 白衣男 - [佐佐木功](../Page/佐佐木功.md "wikilink")
 
 ## 配音
 
-  - 桃塔羅斯 / M幸太郎、M Ankh/ 幪面超人電王聖劍型態、クライマックスフォーム / モモタケン -
-    [関俊彦](https://zh.wikipedia.org/wiki/関俊彦 "wikilink")
+  - 桃塔羅斯 / M幸太郎、M Ankh/ 幪面超人電王聖劍型態、クライマックスフォーム / モモタケン - [関俊彦](https://zh.wikipedia.org/wiki/関俊彦 "wikilink")
   - 浦塔羅斯 - [遊佐浩二](../Page/遊佐浩二.md "wikilink")
-  - 金塔羅斯、シャドームーン -
-    [てらそままさき](https://zh.wikipedia.org/wiki/てらそままさき "wikilink")
+  - 金塔羅斯、シャドームーン - [てらそままさき](https://zh.wikipedia.org/wiki/てらそままさき "wikilink")
   - 龍塔羅斯、ガラガランダ - [鈴村健一](../Page/鈴村健一.md "wikilink")
   - 泰迪 / 馬池而泰迪 - [小野大輔](../Page/小野大輔.md "wikilink")
   - Shocker Greeed、十面鬼ユム・キミル、イナズマン - [石川英郎](../Page/石川英郎.md "wikilink")
   - 幪面超人Birth（伊達明） - [岩永洋昭](../Page/岩永洋昭.md "wikilink")
-  - イカデビル、幪面超人AMAZON\[1\]、幪面超人Stronger \[2\]、キカイダー\[3\] -
-    [関智一](https://zh.wikipedia.org/wiki/関智一 "wikilink")
+  - イカデビル、幪面超人AMAZON\[1\]、幪面超人Stronger \[2\]、キカイダー\[3\] - [関智一](https://zh.wikipedia.org/wiki/関智一 "wikilink")
   - ライダーマン<ref name="ibuki">
 
-</ref>、幪面超人Black\[4\]、ジャガーマン\[5\]、Shocker戰鬥員\[6\] -
-[勇吹輝](https://zh.wikipedia.org/wiki/勇吹輝 "wikilink")
+</ref>、幪面超人Black\[4\]、ジャガーマン\[5\]、Shocker戰鬥員\[6\] - [勇吹輝](https://zh.wikipedia.org/wiki/勇吹輝 "wikilink")
 
-  - Apollo Geist -
-    [川原和久](https://zh.wikipedia.org/wiki/川原和久 "wikilink")（友情出演）
+  - Apollo Geist - [川原和久](https://zh.wikipedia.org/wiki/川原和久 "wikilink")（友情出演）
   - モールイマジン1 - [笹沼尭羅](https://zh.wikipedia.org/wiki/笹沼尭羅 "wikilink")
   - モールイマジン2 - [高梨謙吾](../Page/高梨謙吾.md "wikilink")
   - モールイマジン3、シオマネキング - [小田久史](../Page/小田久史.md "wikilink")
@@ -529,8 +499,7 @@ Shocker Greeed
 ## 职员
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")（石森章太郎）
-  - 制作 -
-    本井健吾（[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")）、白倉伸一郎・武部直美・高橋一浩（東映）
+  - 制作 - 本井健吾（[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")）、白倉伸一郎・武部直美・高橋一浩（東映）
   - 导演 - 金田治
   - 脚本 - 米村正二
   - 脚本監修 - [小林靖子](../Page/小林靖子.md "wikilink")
@@ -545,10 +514,8 @@ Shocker Greeed
 
 ## 主题曲
 
-  - 「[Let's Go Rider Kick
-    2011](https://zh.wikipedia.org/wiki/Let's_Go_Rider_Kick_2011 "wikilink")」
-    作詞 - 石之森章太郎 / 作曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink") / 編曲 - 鳴瀬シュウヘイ
-    / 歌 - 仮面ライダーGIRLS
+  - 「[Let's Go Rider Kick 2011](https://zh.wikipedia.org/wiki/Let's_Go_Rider_Kick_2011 "wikilink")」
+    作詞 - 石之森章太郎 / 作曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink") / 編曲 - 鳴瀬シュウヘイ / 歌 - 仮面ライダーGIRLS
     初代《[幪面超人](../Page/幪面超人.md "wikilink")》主题曲。
 
 ## 网络连载版
@@ -566,8 +533,7 @@ Shocker Greeed
 
   - モモタロス / 仮面ライダー電王 ソードフォーム - 関俊彦
   - ウラタロス / 仮面ライダー電王 ロッドフォーム - 游佐浩二
-  - ジーク / 仮面ライダー電王 ウイングフォーム -
-    [三木眞一郎](https://zh.wikipedia.org/wiki/三木眞一郎 "wikilink")
+  - ジーク / 仮面ライダー電王 ウイングフォーム - [三木眞一郎](https://zh.wikipedia.org/wiki/三木眞一郎 "wikilink")
   - キバット - [杉田智和](../Page/杉田智和.md "wikilink")
   - ジェネラルシャドウ - 柴田秀勝
   - ディケイドライバー音声 - マーク・大喜多
@@ -605,19 +571,12 @@ Shocker Greeed
   - [东映网站中关于这部电影的介绍](https://web.archive.org/web/20101221215605/http://www.toei.co.jp/movie/details/1194117_951.html)
   - [DVD版公式](https://web.archive.org/web/20110227112148/http://www.all-rider.jp/netmovie/)
 
-[Category:金田治電影](https://zh.wikipedia.org/wiki/Category:金田治電影 "wikilink")
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:2011年日本電影](https://zh.wikipedia.org/wiki/Category:2011年日本電影 "wikilink")
-[Category:时间旅行电影](https://zh.wikipedia.org/wiki/Category:时间旅行电影 "wikilink")
-[Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink")
-[Category:电脑奇侠](https://zh.wikipedia.org/wiki/Category:电脑奇侠 "wikilink")
-[Category:闪电人](https://zh.wikipedia.org/wiki/Category:闪电人 "wikilink")
+[Category:金田治電影](https://zh.wikipedia.org/wiki/Category:金田治電影 "wikilink") [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:2011年日本電影](https://zh.wikipedia.org/wiki/Category:2011年日本電影 "wikilink") [Category:时间旅行电影](https://zh.wikipedia.org/wiki/Category:时间旅行电影 "wikilink") [Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink") [Category:电脑奇侠](https://zh.wikipedia.org/wiki/Category:电脑奇侠 "wikilink") [Category:闪电人](https://zh.wikipedia.org/wiki/Category:闪电人 "wikilink")
 
 1.
 
 2.
-3.  関智一は『[人造人間キカイダー THE
-    ANIMATION](https://zh.wikipedia.org/wiki/人造人間キカイダー_THE_ANIMATION "wikilink")』でもキカイダー役を演じている。
+3.  関智一は『[人造人間キカイダー THE ANIMATION](https://zh.wikipedia.org/wiki/人造人間キカイダー_THE_ANIMATION "wikilink")』でもキカイダー役を演じている。
 
 4.
 5.

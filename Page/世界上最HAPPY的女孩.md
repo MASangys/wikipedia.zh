@@ -1,4 +1,4 @@
-「**世界上最HAPPY的女孩**」（世界一HAPPYな女の子）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")17張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年9月7日由[zetima發售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+「**世界上最HAPPY的女孩**」（世界一HAPPYな女の子）是[日本](../Page/日本.md "wikilink")的女子偶像組合[℃-ute](../Page/℃-ute.md "wikilink")的第17張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年9月7日由[zetima發售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -10,11 +10,9 @@
 ### CD（初回生産限定盤A - B，CD ONLY）
 
 1.  **世界上最HAPPY的女孩**
-    （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[宅見将典](https://zh.wikipedia.org/wiki/宅見将典 "wikilink")）
+    （作詞・作曲：[淳君](../Page/淳君.md "wikilink") 編曲：[宅見将典](https://zh.wikipedia.org/wiki/宅見将典 "wikilink")）
 2.  **偉大的力量\!**（偉大な力を\!）
-    （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[藤沢慶昌](https://zh.wikipedia.org/wiki/藤沢慶昌 "wikilink")）
+    （作詞・作曲：[淳君](../Page/淳君.md "wikilink") 編曲：[藤沢慶昌](https://zh.wikipedia.org/wiki/藤沢慶昌 "wikilink")）
 3.  世界上最HAPPY的女孩(Instrumental)
 
 ### DVD（初回生産限定盤B）
@@ -27,5 +25,4 @@
 
 {{℃-ute}}
 
-[Category:℃-ute歌曲](https://zh.wikipedia.org/wiki/Category:℃-ute歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
+[Category:℃-ute歌曲](https://zh.wikipedia.org/wiki/Category:℃-ute歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")

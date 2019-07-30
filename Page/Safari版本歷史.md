@@ -1,4 +1,4 @@
-以下依系统平台和时序排列[Safari浏览器的历史版本](../Page/Safari.md "wikilink")。
+以下依系统平台和时序排列[Safari](../Page/Safari.md "wikilink")浏览器的历史版本。
 
 ## 版本歷史
 
@@ -32,7 +32,7 @@
 <td><p>0.9</p></td>
 <td><p>73</p></td>
 <td></td>
-<td><p>公開測試第二版，包含了標籖頁瀏覽、自動填寫表單與密碼、瀏覽器重置（移除cookies、快取等），匯入Netscape與<a href="../Page/Mozilla.md" title="wikilink">Mozilla書籖</a>、增強網頁標準與<a href="../Page/AppleScript.md" title="wikilink">AppleScript支援</a>，更多多語翻譯。</p></td>
+<td><p>公開測試第二版，包含了標籖頁瀏覽、自動填寫表單與密碼、瀏覽器重置（移除cookies、快取等），匯入Netscape與<a href="../Page/Mozilla.md" title="wikilink">Mozilla</a>書籖、增強網頁標準與<a href="../Page/AppleScript.md" title="wikilink">AppleScript</a>支援，更多多語翻譯。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -104,7 +104,7 @@
 <td><p>2.0.2</p></td>
 <td><p>416.11</p></td>
 <td></td>
-<td><p>Safari通過<a href="../Page/Acid2.md" title="wikilink">Acid2測試</a>。</p></td>
+<td><p>Safari通過<a href="../Page/Acid2.md" title="wikilink">Acid2</a>測試。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -121,7 +121,7 @@
 <td><p>3.0</p></td>
 <td><p>522.11</p></td>
 <td><p>2007年6月11日</p></td>
-<td><p>公開測試版，於WWDC發行，適用於Mac OS X v10.4.9及之後版本。改進頁內搜尋，拖放標籖，並可以把一組標籖儲存為單一書籖、可更改輸入框大小、支援<a href="../Page/Bonjour.md" title="wikilink">Bonjour書籖</a>、原始的<a href="https://zh.wikipedia.org/wiki/SVG" title="wikilink">SVG</a>。</p></td>
+<td><p>公開測試版，於WWDC發行，適用於Mac OS X v10.4.9及之後版本。改進頁內搜尋，拖放標籖，並可以把一組標籖儲存為單一書籖、可更改輸入框大小、支援<a href="../Page/Bonjour.md" title="wikilink">Bonjour</a>書籖、原始的<a href="https://zh.wikipedia.org/wiki/SVG" title="wikilink">SVG</a>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -145,7 +145,7 @@
 <td><p>523.10.</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4" title="wikilink">Mac OS X 10.4</a>-<a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5" title="wikilink">10.5</a></p></td>
 <td><p>2007年10月26日</p></td>
-<td><p>隨Mac OS X v10.5正式發佈，支援拖動標籖，改進網頁標準支援、顯示<a href="https://zh.wikipedia.org/wiki/SVG" title="wikilink">SVG圖像</a>，與<a href="../Page/Dashboard.md" title="wikilink">Dashboard整合</a>，可讓用戶從普通網頁創建<a href="https://zh.wikipedia.org/wiki/widgets" title="wikilink">widgets</a>。對於網頁開發者，Safari 3包含「網頁檢閱器」。（類似於<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox" title="wikilink">Mozilla Firefox的插件</a><a href="../Page/Firebug.md" title="wikilink">Firebug</a>）</p></td>
+<td><p>隨Mac OS X v10.5正式發佈，支援拖動標籖，改進網頁標準支援、顯示<a href="https://zh.wikipedia.org/wiki/SVG" title="wikilink">SVG圖像</a>，與<a href="../Page/Dashboard.md" title="wikilink">Dashboard</a>整合，可讓用戶從普通網頁創建<a href="https://zh.wikipedia.org/wiki/widgets" title="wikilink">widgets</a>。對於網頁開發者，Safari 3包含「網頁檢閱器」。（類似於<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox" title="wikilink">Mozilla Firefox的插件</a><a href="../Page/Firebug.md" title="wikilink">Firebug</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -600,32 +600,17 @@
 <td><p>528.16</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_OS" title="wikilink">iPhone OS</a> 3.0</p></td>
 <td><p>2009年6月17日</p></td>
-<td><p>新增<a href="https://zh.wikipedia.org/wiki/剪切、复制、粘贴" title="wikilink">剪切、复制、粘贴</a>、自动填充（包括密码）、防止<a href="../Page/钓鱼式攻击.md" title="wikilink">钓鱼式攻击功能</a>，JavaScript的渲染速度视情况提升了3至16倍。</p></td>
+<td><p>新增<a href="https://zh.wikipedia.org/wiki/剪切、复制、粘贴" title="wikilink">剪切、复制、粘贴</a>、自动填充（包括密码）、防止<a href="../Page/钓鱼式攻击.md" title="wikilink">钓鱼式攻击</a>功能，JavaScript的渲染速度视情况提升了3至16倍。</p></td>
 </tr>
 </tbody>
 </table>
 
 ## 来源
 
-[Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink")
-[Category:軟體版本列表](https://zh.wikipedia.org/wiki/Category:軟體版本列表 "wikilink")
+[Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink") [Category:軟體版本列表](https://zh.wikipedia.org/wiki/Category:軟體版本列表 "wikilink")
 
-1.  [programming: I just posted this using Safari 3 on Windows 2000,
-    when will Microsoft support IE 7 on Windows 2000? The IE devs claim
-    technical problems make it overly difficult.
-    Bullshit](http://programming.reddit.com/info/1xmnj/comments)
-2.  [PC Pro: Interactive: Forums: Comments: UPDATED: Apple unveils
-    Safari 3 - for Mac and
-    Windows](http://www.pcpro.co.uk/phpbb/viewtopic.php?t=227021&start=0#807289)
-3.  [About the security content of Safari 3 Beta Update 3.0.4 Security
-    Update](http://docs.info.apple.com/article.html?artnum=307178).
-    Apple.com. Retrieved on
-    2007-[12-21](https://zh.wikipedia.org/wiki/12-21 "wikilink").
-4.  [Safari 3 Beta 3.0.4 Security Update
-    v1.1](http://lists.apple.com/archives/security-announce/2007/Dec/msg00005.html).
-    Apple Mailing Lists at Apple.com. Retrieved on
-    2007-[12-22](https://zh.wikipedia.org/wiki/12-22 "wikilink").
-5.  [About Safari 3 Beta 3.0.4 Security Update
-    v1.1](http://docs.info.apple.com/article.html?artnum=307225).
-    Apple.com. Retrieved on
-    2007-[12-23](https://zh.wikipedia.org/wiki/12-23 "wikilink").
+1.  [programming: I just posted this using Safari 3 on Windows 2000, when will Microsoft support IE 7 on Windows 2000? The IE devs claim technical problems make it overly difficult. Bullshit](http://programming.reddit.com/info/1xmnj/comments)
+2.  [PC Pro: Interactive: Forums: Comments: UPDATED: Apple unveils Safari 3 - for Mac and Windows](http://www.pcpro.co.uk/phpbb/viewtopic.php?t=227021&start=0#807289)
+3.  [About the security content of Safari 3 Beta Update 3.0.4 Security Update](http://docs.info.apple.com/article.html?artnum=307178). Apple.com. Retrieved on 2007-[12-21](https://zh.wikipedia.org/wiki/12-21 "wikilink").
+4.  [Safari 3 Beta 3.0.4 Security Update v1.1](http://lists.apple.com/archives/security-announce/2007/Dec/msg00005.html). Apple Mailing Lists at Apple.com. Retrieved on 2007-[12-22](https://zh.wikipedia.org/wiki/12-22 "wikilink").
+5.  [About Safari 3 Beta 3.0.4 Security Update v1.1](http://docs.info.apple.com/article.html?artnum=307225). Apple.com. Retrieved on 2007-[12-23](https://zh.wikipedia.org/wiki/12-23 "wikilink").

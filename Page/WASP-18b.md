@@ -1,7 +1,6 @@
 \[1\] }}
 
-**WASP-18b**是一颗以公转周期很短，小于1个地球日而聞名的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，其質量大約為10倍[木星質量](https://zh.wikipedia.org/wiki/木星質量 "wikilink")\[2\]，刚好低于[行星](../Page/行星.md "wikilink")和[棕矮星](../Page/棕矮星.md "wikilink")的13倍木星質量分界线。因為[潮汐減速](https://zh.wikipedia.org/wiki/潮汐加速#潮汐減速 "wikilink")，一般認為該恆星在之後一百萬年內會以螺線軌跡逐漸接近母恆星，最終被母恆星[WASP-18](../Page/WASP-18.md "wikilink")吞噬\[3\]。WASP-18b距離母恆星約310萬公里，距離地球約410光年。該行星由英格蘭[基爾大學的天文學家科埃](../Page/基爾大學_\(英國\).md "wikilink")·赫利尔（Coel
-Hellier）為首的團隊發現\[4\]。
+**WASP-18b**是一颗以公转周期很短，小于1个地球日而聞名的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，其質量大約為10倍[木星質量](https://zh.wikipedia.org/wiki/木星質量 "wikilink")\[2\]，刚好低于[行星](../Page/行星.md "wikilink")和[棕矮星](../Page/棕矮星.md "wikilink")的13倍木星質量分界线。因為[潮汐減速](https://zh.wikipedia.org/wiki/潮汐加速#潮汐減速 "wikilink")，一般認為該恆星在之後一百萬年內會以螺線軌跡逐漸接近母恆星，最終被母恆星[WASP-18](../Page/WASP-18.md "wikilink")吞噬\[3\]。WASP-18b距離母恆星約310萬公里，距離地球約410光年。該行星由英格蘭[基爾大學的天文學家科埃](../Page/基爾大學_\(英國\).md "wikilink")·赫利尔（Coel Hellier）為首的團隊發現\[4\]。
 
 ## 概要
 
@@ -24,10 +23,7 @@ Hellier）為首的團隊發現\[4\]。
 
 ## 外部連結
 
-[Category:2009年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2009年发现的系外行星 "wikilink")
-[Category:热木星](https://zh.wikipedia.org/wiki/Category:热木星 "wikilink")
-[Category:凤凰座](https://zh.wikipedia.org/wiki/Category:凤凰座 "wikilink")
-[Category:凌星现象](https://zh.wikipedia.org/wiki/Category:凌星现象 "wikilink")
+[Category:2009年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2009年发现的系外行星 "wikilink") [Category:热木星](https://zh.wikipedia.org/wiki/Category:热木星 "wikilink") [Category:凤凰座](https://zh.wikipedia.org/wiki/Category:凤凰座 "wikilink") [Category:凌星现象](https://zh.wikipedia.org/wiki/Category:凌星现象 "wikilink")
 
 1.
 2.
@@ -38,10 +34,7 @@ Hellier）為首的團隊發現\[4\]。
 
 7.
 
-8.  Johnson, John Jr.; [Astrophysicists puzzle over planet that's too
-    close to its
-    sun](http://www.latimes.com/news/nationworld/nation/la-sci-planet27-2009aug27,0,5882308.story),
-    *Los Angeles Times* (August 27, 2009).
+8.  Johnson, John Jr.; [Astrophysicists puzzle over planet that's too close to its sun](http://www.latimes.com/news/nationworld/nation/la-sci-planet27-2009aug27,0,5882308.story), *Los Angeles Times* (August 27, 2009).
 
 9.
 

@@ -1,5 +1,4 @@
-《**Final
-Encounter**》是香港歌手[張國榮的第十八張錄音室專輯](../Page/張國榮.md "wikilink")、第十三張粵語錄音室專輯，於1989年12月21日由[新藝寶唱片發行](../Page/新藝寶唱片.md "wikilink")。\[1\]這是他宣佈告別樂壇的最後一張個人大碟。
+《**Final Encounter**》是香港歌手[張國榮](../Page/張國榮.md "wikilink")的第十八張錄音室專輯、第十三張粵語錄音室專輯，於1989年12月21日由[新藝寶唱片](../Page/新藝寶唱片.md "wikilink")發行。\[1\]這是他宣佈告別樂壇的最後一張個人大碟。
 
 ## 專輯介紹
 
@@ -15,10 +14,6 @@ Encounter**》是香港歌手[張國榮的第十八張錄音室專輯](../Page/�
 
 </div>
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:1989年音樂專輯](https://zh.wikipedia.org/wiki/Category:1989年音樂專輯 "wikilink")
-[Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink")
-[Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:1989年音樂專輯](https://zh.wikipedia.org/wiki/Category:1989年音樂專輯 "wikilink") [Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink") [Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink")
 
 1.  [1](https://itunes.apple.com/hk/album/final-encounter/216680141)

@@ -1,4 +1,4 @@
-《**PK愛情**》（》）是[新加坡雙語網站xinmsn為慶祝一週年開拍的首部網上劇集](../Page/新加坡.md "wikilink")，由[新傳媒拍攝](https://zh.wikipedia.org/wiki/新传媒U頻道 "wikilink")，2011年4月4日在xinmsn播出，稍後在[U頻道播出](https://zh.wikipedia.org/wiki/新传媒U頻道 "wikilink")。
+《**PK愛情**》（》）是[新加坡](../Page/新加坡.md "wikilink")雙語網站xinmsn為慶祝一週年開拍的首部網上劇集，由[新傳媒拍攝](https://zh.wikipedia.org/wiki/新传媒U頻道 "wikilink")，2011年4月4日在xinmsn播出，稍後在[U頻道播出](https://zh.wikipedia.org/wiki/新传媒U頻道 "wikilink")。
 
 ## 故事概要
 
@@ -29,11 +29,6 @@
 
   - [《PK愛情》Facebook粉絲專頁](http://www.facebook.com/Letsplaylove?ref=ts)
 
-[Category:2011年電視劇集](https://zh.wikipedia.org/wiki/Category:2011年電視劇集 "wikilink")
-[Category:新加坡愛情劇](https://zh.wikipedia.org/wiki/Category:新加坡愛情劇 "wikilink")
-[Category:虛構電視節目](https://zh.wikipedia.org/wiki/Category:虛構電視節目 "wikilink")
-[Category:電視題材電視劇](https://zh.wikipedia.org/wiki/Category:電視題材電視劇 "wikilink")
-[Category:剧情类网络剧](https://zh.wikipedia.org/wiki/Category:剧情类网络剧 "wikilink")
+[Category:2011年電視劇集](https://zh.wikipedia.org/wiki/Category:2011年電視劇集 "wikilink") [Category:新加坡愛情劇](https://zh.wikipedia.org/wiki/Category:新加坡愛情劇 "wikilink") [Category:虛構電視節目](https://zh.wikipedia.org/wiki/Category:虛構電視節目 "wikilink") [Category:電視題材電視劇](https://zh.wikipedia.org/wiki/Category:電視題材電視劇 "wikilink") [Category:剧情类网络剧](https://zh.wikipedia.org/wiki/Category:剧情类网络剧 "wikilink")
 
-1.  “[Singapore blogger Xiaxue to cameo on *Let’s Play Love*
-    \[新加坡博客作者下雪將在《PK愛情》客串演出](http://entertainment.xin.msn.com/en/celebrity/buzz/asia/article.aspx?cp-documentid=4743500)\]”，xin.msn.com，2011年3月29日，最後訪問於2014年8月5日。
+1.  “[Singapore blogger Xiaxue to cameo on *Let’s Play Love* \[新加坡博客作者下雪將在《PK愛情》客串演出](http://entertainment.xin.msn.com/en/celebrity/buzz/asia/article.aspx?cp-documentid=4743500)\]”，xin.msn.com，2011年3月29日，最後訪問於2014年8月5日。

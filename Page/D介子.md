@@ -1,11 +1,10 @@
-**D介子**是含有[魅夸克的粒子中最輕的一組](https://zh.wikipedia.org/wiki/魅夸克 "wikilink")。研究它們可以獲得更多關於[弱相互作用的資訊](../Page/弱相互作用.md "wikilink")\[1\]。[奇D介子](../Page/奇夸克.md "wikilink")（D<sub>s</sub>）在1986年前被稱為“F介子”。
+**D介子**是含有[魅夸克的粒子中最輕的一組](https://zh.wikipedia.org/wiki/魅夸克 "wikilink")。研究它們可以獲得更多關於[弱相互作用](../Page/弱相互作用.md "wikilink")的資訊\[1\]。[奇D介子](../Page/奇夸克.md "wikilink")（D<sub>s</sub>）在1986年前被稱為“F介子”。
 
 ## 概述
 
-D介子於1976年在[SLAC
-國家加速器實驗室的](https://zh.wikipedia.org/wiki/SLAC_國家加速器實驗室 "wikilink")[馬克一號實驗中被發現](../Page/馬克一號.md "wikilink")\[2\]。
+D介子於1976年在[SLAC 國家加速器實驗室的](https://zh.wikipedia.org/wiki/SLAC_國家加速器實驗室 "wikilink")[馬克一號](../Page/馬克一號.md "wikilink")實驗中被發現\[2\]。
 
-由於D介子是所有含有魅夸克的粒子中最輕的，在衰變時魅夸克必須轉變成其他夸克。夸克遷變需要通過弱相互作用。在D介子中，魅夸克衰變成一奇夸克及一W玻色子，W玻色子接着衰變成[K介子與](../Page/K介子.md "wikilink")[π介子](https://zh.wikipedia.org/wiki/π介子 "wikilink")\[3\]。
+由於D介子是所有含有魅夸克的粒子中最輕的，在衰變時魅夸克必須轉變成其他夸克。夸克遷變需要通過弱相互作用。在D介子中，魅夸克衰變成一奇夸克及一W玻色子，W玻色子接着衰變成[K介子](../Page/K介子.md "wikilink")與[π介子](https://zh.wikipedia.org/wiki/π介子 "wikilink")\[3\]。
 
 ## D介子列表
 
@@ -118,8 +117,7 @@ D介子於1976年在[SLAC
 </tbody>
 </table>
 
-<sup>\[a\]</sup>
-粒子數據小組的報告中寫的是共振寬度（Γ）。轉換式為τ = ，可得上述壽命τ，其中ħ為[約化普朗克常數](https://zh.wikipedia.org/wiki/約化普朗克常數 "wikilink")。
+<sup>\[a\]</sup> 粒子數據小組的報告中寫的是共振寬度（Γ）。轉換式為τ = ，可得上述壽命τ，其中ħ為[約化普朗克常數](https://zh.wikipedia.org/wiki/約化普朗克常數 "wikilink")。
 
 ## 另見
 
@@ -137,20 +135,14 @@ D介子於1976年在[SLAC
 2.  <http://www.kudryavtsev.staff.shef.ac.uk/phy466/charmed-mesons_files/charmed-mesons.ppt>
 
 3.
-4.  C. Amsler *et al.*. (2008): [Quark
-    Model](http://pdg.lbl.gov/2008/reviews/quarkmodrpp.pdf)
+4.  C. Amsler *et al.*. (2008): [Quark Model](http://pdg.lbl.gov/2008/reviews/quarkmodrpp.pdf)
 
-5.  C. Amsler *et al.*. (2008): [Particle listings –
-    ](http://pdg.lbl.gov/2008/listings/s031.pdf)
+5.  C. Amsler *et al.*. (2008): [Particle listings – ](http://pdg.lbl.gov/2008/listings/s031.pdf)
 
-6.  C. Amsler *et al.*. (2008): [Particle listings –
-    ](http://pdg.lbl.gov/2008/listings/s032.pdf)
+6.  C. Amsler *et al.*. (2008): [Particle listings – ](http://pdg.lbl.gov/2008/listings/s032.pdf)
 
-7.  N. Nakamura *et al*. (2010): [Particle listings –
-    ](http://pdg.lbl.gov/2010/listings/rpp2010-list-Ds-plus-minus.pdf)
+7.  N. Nakamura *et al*. (2010): [Particle listings – ](http://pdg.lbl.gov/2010/listings/rpp2010-list-Ds-plus-minus.pdf)
 
-8.  C. Amsler *et al.*. (2008): [Particle listings –
-    (2010)](http://pdg.lbl.gov/2008/listings/m062.pdf)
+8.  C. Amsler *et al.*. (2008): [Particle listings – (2010)](http://pdg.lbl.gov/2008/listings/m062.pdf)
 
-9.  C. Amsler *et al.*. (2008): [Particle listings –
-    (2007)](http://pdg.lbl.gov/2008/listings/m061.pdf)
+9.  C. Amsler *et al.*. (2008): [Particle listings – (2007)](http://pdg.lbl.gov/2008/listings/m061.pdf)

@@ -1,34 +1,24 @@
-**Giffgaff**是一家总部位于[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[移动电话公司](../Page/移动电话.md "wikilink")。作为一家移动[虚拟网络运营商](https://zh.wikipedia.org/wiki/虚拟网络 "wikilink")，Giffgaff使用[O2的网络](../Page/O2.md "wikilink")，是O2的全资公司，成立于2009年11月25日。
+**Giffgaff**是一家总部位于[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[移动电话](../Page/移动电话.md "wikilink")公司。作为一家移动[虚拟网络运营商](https://zh.wikipedia.org/wiki/虚拟网络 "wikilink")，Giffgaff使用[O2](../Page/O2.md "wikilink")的网络，是O2的全资公司，成立于2009年11月25日。
 
 Giffgaff与传统的移动电话运营商不同，区别在于其用户也可以参与公司的部份运营，如销售、客服、营销环节等。作为参与运营的回报，用户从公司的“回赠”（Payback）系统中获得补偿。
 
 ## 历史
 
-Giffgaff的创始人名叫[盖文·汤普森](https://zh.wikipedia.org/wiki/盖文·汤普森 "wikilink")（Gav
-Thompson），他是O2的品牌战略总监。据报道，他于2008年在旧金山进修[Web
-2.0商务后](../Page/Web_2.0.md "wikilink")，产生了这个灵感。Giffgaff宣言阐明了公司形成的原则。
+Giffgaff的创始人名叫[盖文·汤普森](https://zh.wikipedia.org/wiki/盖文·汤普森 "wikilink")（Gav Thompson），他是O2的品牌战略总监。据报道，他于2008年在旧金山进修[Web 2.0商务后](../Page/Web_2.0.md "wikilink")，产生了这个灵感。Giffgaff宣言阐明了公司形成的原则。
 
-Giffgaff一词在苏格兰英语中的意思是“互赠”，公司选用该词以体现宣言所概括的原则。Giffgaff的广告语为“您的移动网络您做主”，反映了用户通过各种活动帮助公司运营的事实。2010年，Giffgaff运营第一年就获得两项行业奖，11月获得福雷斯特风潮奖（Forrester
-Groundswell Award），在社会客户关系管理客户卓越奖（Social CRM Customer Excellence
-Awards）中获得最具创新社区奖（Most Innovative Community
-Award）。当年11月，Giffgaff还被营销协会（Marketing
-Society）提名为年度品牌（Brand of the
-Year）五大入围品牌之一，仅输给了百货商[約翰·路易斯](https://zh.wikipedia.org/wiki/約翰·路易斯_\(百貨商店\) "wikilink")。
+Giffgaff一词在苏格兰英语中的意思是“互赠”，公司选用该词以体现宣言所概括的原则。Giffgaff的广告语为“您的移动网络您做主”，反映了用户通过各种活动帮助公司运营的事实。2010年，Giffgaff运营第一年就获得两项行业奖，11月获得福雷斯特风潮奖（Forrester Groundswell Award），在社会客户关系管理客户卓越奖（Social CRM Customer Excellence Awards）中获得最具创新社区奖（Most Innovative Community Award）。当年11月，Giffgaff还被营销协会（Marketing Society）提名为年度品牌（Brand of the Year）五大入围品牌之一，仅输给了百货商[約翰·路易斯](https://zh.wikipedia.org/wiki/約翰·路易斯_\(百貨商店\) "wikilink")。
 
 ## 产品及服务
 
 ### SIM卡
 
-公司核心产品为SIM卡，支持所有2G及3G标准服务。有两种方式可以获得SIM卡，一种是从官网直接预订，另一种是靠现有会员赠送（所谓“会员吸纳会员”计划）。收卡人收到从另一名会员那里预订的SIM卡时，激活并最低充值10镑，即可享受额外5镑话费奖励。以后充值可以使用英国信用卡、借记卡在官网支付，也可在支付网点如payzone
-epay或PayPoint购买电子代金券（eVoucher）在官网兑换。不像其它运营商，在商店里直接刷卡无法购买Giffgaff的充值卡。2010年6月启用电子代金券的支付方式。
+公司核心产品为SIM卡，支持所有2G及3G标准服务。有两种方式可以获得SIM卡，一种是从官网直接预订，另一种是靠现有会员赠送（所谓“会员吸纳会员”计划）。收卡人收到从另一名会员那里预订的SIM卡时，激活并最低充值10镑，即可享受额外5镑话费奖励。以后充值可以使用英国信用卡、借记卡在官网支付，也可在支付网点如payzone epay或PayPoint购买电子代金券（eVoucher）在官网兑换。不像其它运营商，在商店里直接刷卡无法购买Giffgaff的充值卡。2010年6月启用电子代金券的支付方式。
 
-会员需要已解锁的手机才能使用该SIM卡，
-O2网络的未解锁手机不受此限。除非SIM卡已购买千兆套餐（gigabags）（详见下文），公司条款禁止使用手机作为个人热点。
+会员需要已解锁的手机才能使用该SIM卡， O2网络的未解锁手机不受此限。除非SIM卡已购买千兆套餐（gigabags）（详见下文），公司条款禁止使用手机作为个人热点。
 
 2010年4月15日，公司首推全新主打资费产品，名曰精品套餐（goodybags）。此类套餐包括短信、手机上网、通话时长礼包，价格不等，有效期以一个月为周期。精品套餐可以使用账户预存余额购买，也可以随时使用信用卡或借记卡购买。
 
-2011年6月，冰淇林套餐（Hokey
-Cokey）面世，在价值5镑的精品套餐的基础上，每接听一分钟，均赠送额外免费呼出电话时长。同年10月17日，推出称为千兆套餐（Gigabags）的数据礼包，该套餐允许Giffgaff的SIM卡用于USB调制解制器及其它仅使用数据的设备，如iPad等。
+2011年6月，冰淇林套餐（Hokey Cokey）面世，在价值5镑的精品套餐的基础上，每接听一分钟，均赠送额外免费呼出电话时长。同年10月17日，推出称为千兆套餐（Gigabags）的数据礼包，该套餐允许Giffgaff的SIM卡用于USB调制解制器及其它仅使用数据的设备，如iPad等。
 
 2012年2月1日推出黑莓服务，和指定精品套餐配套使用，月均服务费为3镑。
 
@@ -59,6 +49,4 @@ Giffgaff的会员能够获得积分，积分亦可换钱，兑换方式有三种
 ## 外部連結
 
   -
-[Category:英國移動電話公司](https://zh.wikipedia.org/wiki/Category:英國移動電話公司 "wikilink")
-[Category:2009年英國建立](https://zh.wikipedia.org/wiki/Category:2009年英國建立 "wikilink")
-[Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
+[Category:英國移動電話公司](https://zh.wikipedia.org/wiki/Category:英國移動電話公司 "wikilink") [Category:2009年英國建立](https://zh.wikipedia.org/wiki/Category:2009年英國建立 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")

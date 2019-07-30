@@ -10,8 +10,7 @@
 | **球衣**                               |
 | {{Football kit                       |
 
-**Gatas Brilhantes H.P.(ガッタス ブリリャンチス
-H.P.)**是由[日本](../Page/日本.md "wikilink")[早安家族](../Page/早安家族.md "wikilink")成员组成的女子[室内足球队](https://zh.wikipedia.org/wiki/室内足球 "wikilink")。现在参加日本女艺人室内足球赛。
+**Gatas Brilhantes H.P.(ガッタス ブリリャンチス H.P.)**是由[日本](../Page/日本.md "wikilink")[早安家族](../Page/早安家族.md "wikilink")成员组成的女子[室内足球队](https://zh.wikipedia.org/wiki/室内足球 "wikilink")。现在参加日本女艺人室内足球赛。
 
 ## 历史
 
@@ -23,12 +22,9 @@ H.P.)**是由[日本](../Page/日本.md "wikilink")[早安家族](../Page/早安
 
 ### 2004年
 
-  - 1月20日，球队正式定名为Gatas Brilhantes
-    H.P.，同时确定球队教练为前[日本国家队中场](https://zh.wikipedia.org/wiki/日本国家足球队 "wikilink")[北泽豪](../Page/北澤豪.md "wikilink")，队长是吉泽瞳。
-  - 2月，
-    [藤本美贵](https://zh.wikipedia.org/wiki/藤本美贵 "wikilink")、[大谷雅恵加入球队](https://zh.wikipedia.org/wiki/大谷雅恵 "wikilink")。
-  - 3月27日，Gatas Brilhantes
-    H.P.第一次参加正式比赛——第四届东京女子五人制足球赛。Gatas在H组的比赛中分别以0比10和0比9惨败于筑波大学附属高中和小金井SC遭到淘汰。同日小川麻琴、松浦亚弥、大谷雅恵退出球队。
+  - 1月20日，球队正式定名为Gatas Brilhantes H.P.，同时确定球队教练为前[日本国家队中场](https://zh.wikipedia.org/wiki/日本国家足球队 "wikilink")[北泽豪](../Page/北澤豪.md "wikilink")，队长是吉泽瞳。
+  - 2月， [藤本美贵](https://zh.wikipedia.org/wiki/藤本美贵 "wikilink")、[大谷雅恵加入球队](https://zh.wikipedia.org/wiki/大谷雅恵 "wikilink")。
+  - 3月27日，Gatas Brilhantes H.P.第一次参加正式比赛——第四届东京女子五人制足球赛。Gatas在H组的比赛中分别以0比10和0比9惨败于筑波大学附属高中和小金井SC遭到淘汰。同日小川麻琴、松浦亚弥、大谷雅恵退出球队。
   - 8月，[是永美记](https://zh.wikipedia.org/wiki/是永美记 "wikilink")、[川岛幸](https://zh.wikipedia.org/wiki/川岛幸 "wikilink")、[武藤水华](https://zh.wikipedia.org/wiki/武藤水华 "wikilink")、[田中杏里加盟](https://zh.wikipedia.org/wiki/田中杏里 "wikilink")。
   - 8月14日－8月15日，参加由[御台场杯比赛](https://zh.wikipedia.org/wiki/御台场 "wikilink")，首战击败REALLY?madrid，获得建队以来的首场胜利，并在第二天的总决赛中以2胜1平的成绩获得冠军。此次比赛也被认为是日本女艺人室内足球赛的创始比赛。此次参加的球队中太阳娱乐旗下的Carezza自此成为Gatas的死敌，两队之间的比赛在之后被称为女子艺能足球赛中的“因缘对决”或者“传统的一战”。
   - 10月18日，参加世博会杯再次获得冠军。
@@ -41,15 +37,13 @@ H.P.)**是由[日本](../Page/日本.md "wikilink")[早安家族](../Page/早安
   - 8月，[御台场杯](https://zh.wikipedia.org/wiki/御台场 "wikilink")2005比赛，虽然在半决赛1比0淘汰死敌Carezza，但在决赛中却意外0比2输给CHOOP，屈居亚军。
   - 9月14日，后藤真希和川岛幸退出球队。
   - 10月20日，参加第二届すかいらーくグループCUP，由于Carezza意外被淘汰，Gatas很轻松地获得冠军。
-  - 12月15日，第一次日本女艺人室内足球赛Sphere League开幕。在第一阶段比赛中Gatas半决赛点球不敌ASAI RED
-    ROSE，无缘冠军。
+  - 12月15日，第一次日本女艺人室内足球赛Sphere League开幕。在第一阶段比赛中Gatas半决赛点球不敌ASAI RED ROSE，无缘冠军。
 
 ### 2006年
 
   - 2月23日，Sphere League第二阶段，在决赛中点球击败TEAM dream，获得冠军。
   - 3月19日，齐藤瞳离队。
-  - 4月6日，Sphere League第三阶段，第一次在Sphere
-    League遇到死敌carezza，结果在点球决胜不敌对手，无缘决赛。
+  - 4月6日，Sphere League第三阶段，第一次在Sphere League遇到死敌carezza，结果在点球决胜不敌对手，无缘决赛。
   - 5月11日，参加Sphere League第四阶段并顺利闯入决赛，但在决赛中不敌第三阶段冠军TEAM dream。
   - 7月20日，绀野朝美退队。
 

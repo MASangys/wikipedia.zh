@@ -1,6 +1,4 @@
-**儒格马克3型**（**Ruger Mark III**）是一种[.22
-LR](../Page/.22_LR.md "wikilink")[半自动手枪](https://zh.wikipedia.org/wiki/半自动手枪 "wikilink")，由儒格-斯特姆公司生产。它是马克2型（[Ruger
-Mark II](../Page/儒格MK_II手槍.md "wikilink")）的后续型，并有少量改进。
+**儒格马克3型**（**Ruger Mark III**）是一种[.22 LR](../Page/.22_LR.md "wikilink")[半自动手枪](https://zh.wikipedia.org/wiki/半自动手枪 "wikilink")，由儒格-斯特姆公司生产。它是马克2型（[Ruger Mark II](../Page/儒格MK_II手槍.md "wikilink")）的后续型，并有少量改进。
 
 ## 自马克2型的改进
 
@@ -21,22 +19,14 @@ Mark II](../Page/儒格MK_II手槍.md "wikilink")）的后续型，并有少量�
 
 ## 见于
 
-  - [List of
-    firearms](https://zh.wikipedia.org/wiki/List_of_firearms "wikilink")
+  - [List of firearms](https://zh.wikipedia.org/wiki/List_of_firearms "wikilink")
 
 ## 参考
 
-  - [Ruger Instruction
-    Manual](https://web.archive.org/web/20120302081952/http://ruger.com/products/_manuals/markIII.pdf)
-    - Ruger web site
+  - [Ruger Instruction Manual](https://web.archive.org/web/20120302081952/http://ruger.com/products/_manuals/markIII.pdf) - Ruger web site
 
 ## 外部链接
 
-  - [Mark III
-    website](https://web.archive.org/web/20120218150749/http://ruger.com/products/markIII/index.html)
+  - [Mark III website](https://web.archive.org/web/20120218150749/http://ruger.com/products/markIII/index.html)
 
-[Category:美国半自动手枪](https://zh.wikipedia.org/wiki/Category:美国半自动手枪 "wikilink")
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink")
-[Category:儒格](https://zh.wikipedia.org/wiki/Category:儒格 "wikilink")
-[Category:儒格半自动手枪](https://zh.wikipedia.org/wiki/Category:儒格半自动手枪 "wikilink")
-[Category:.22_LR口徑槍械](https://zh.wikipedia.org/wiki/Category:.22_LR口徑槍械 "wikilink")
+[Category:美国半自动手枪](https://zh.wikipedia.org/wiki/Category:美国半自动手枪 "wikilink") [Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:儒格](https://zh.wikipedia.org/wiki/Category:儒格 "wikilink") [Category:儒格半自动手枪](https://zh.wikipedia.org/wiki/Category:儒格半自动手枪 "wikilink") [Category:.22_LR口徑槍械](https://zh.wikipedia.org/wiki/Category:.22_LR口徑槍械 "wikilink")

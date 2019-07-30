@@ -6,7 +6,7 @@
 
 車站為2面4線之[島式月台](../Page/島式月台.md "wikilink")，車站是位於地下。車站之上是[OCAT](https://zh.wikipedia.org/wiki/OCAT "wikilink")。
 
-車站可接受[ICOCA卡](../Page/ICOCA.md "wikilink")。
+車站可接受[ICOCA](../Page/ICOCA.md "wikilink")卡。
 
 ### 月台配置
 
@@ -31,9 +31,9 @@
 
 ## 巴士路線
 
-位于OCAT第2層，有前往[關西國際機場](https://zh.wikipedia.org/wiki/關西國際機場 "wikilink")、[大阪國際機場之巴士](../Page/大阪國際機場.md "wikilink")、以及日本各所[高速巴士出發處](https://zh.wikipedia.org/wiki/高速巴士 "wikilink")。
+位于OCAT第2層，有前往[關西國際機場](https://zh.wikipedia.org/wiki/關西國際機場 "wikilink")、[大阪國際機場](../Page/大阪國際機場.md "wikilink")之巴士、以及日本各所[高速巴士出發處](https://zh.wikipedia.org/wiki/高速巴士 "wikilink")。
 
-以下為[大阪都市巴士路線](../Page/大阪都市巴士.md "wikilink")。
+以下為[大阪都市巴士](../Page/大阪都市巴士.md "wikilink")路線。
 
   - **JR難波站前停留所（[千日前通](https://zh.wikipedia.org/wiki/千日前通 "wikilink")）**
       - 西行
@@ -44,7 +44,7 @@
           - [108號系統](https://zh.wikipedia.org/wiki/大阪都市巴士鶴町營業所#108號系統 "wikilink")　往大正橋・千歳橋經鶴町四丁目
       - 東行
           - 29・52・71・108號系統前往難波
-          - 60號系統往難波（[高島屋前](../Page/高島屋.md "wikilink")）
+          - 60號系統往難波（[高島屋](../Page/高島屋.md "wikilink")前）
           - [浪速西循環線](https://zh.wikipedia.org/wiki/大阪都市巴士住之江營業所#浪速循環線 "wikilink")（紅巴士）　
 
 <!-- end list -->
@@ -80,7 +80,4 @@
   - [JR難波站（JR西日本）](http://www.jr-odekake.net/eki/top.php?id=0620833)
   - [OCAT](http://www.ocat.co.jp/)
 
-[Category:日本鐵路車站_Je](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Je "wikilink")
-[Category:關西本線車站_(西日本旅客鐵道)](https://zh.wikipedia.org/wiki/Category:關西本線車站_\(西日本旅客鐵道\) "wikilink")
-[Category:浪速區鐵路車站](https://zh.wikipedia.org/wiki/Category:浪速區鐵路車站 "wikilink")
-[Category:1889年启用的铁路车站](https://zh.wikipedia.org/wiki/Category:1889年启用的铁路车站 "wikilink")
+[Category:日本鐵路車站_Je](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Je "wikilink") [Category:關西本線車站_(西日本旅客鐵道)](https://zh.wikipedia.org/wiki/Category:關西本線車站_\(西日本旅客鐵道\) "wikilink") [Category:浪速區鐵路車站](https://zh.wikipedia.org/wiki/Category:浪速區鐵路車站 "wikilink") [Category:1889年启用的铁路车站](https://zh.wikipedia.org/wiki/Category:1889年启用的铁路车站 "wikilink")

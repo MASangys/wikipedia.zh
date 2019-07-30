@@ -1,11 +1,8 @@
-『**SMAP
-002**』是[SMAP](../Page/SMAP.md "wikilink")第二張專輯，於1992年8月26日由[Victor
-Entertainment發行](../Page/勝利娛樂.md "wikilink")。
+『**SMAP 002**』是[SMAP](../Page/SMAP.md "wikilink")第二張專輯，於1992年8月26日由[Victor Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 簡介
 
-  - 近年的演唱會時常演唱「心之鏡」和「真夜中的MERRY-GO-ROUND」，例如2006年的[Pop Up\! SMAP
-    LIVE\!](https://zh.wikipedia.org/wiki/Pop_Up!_SMAP_LIVE! "wikilink")，都有演唱兩首歌曲。
+  - 近年的演唱會時常演唱「心之鏡」和「真夜中的MERRY-GO-ROUND」，例如2006年的[Pop Up\! SMAP LIVE\!](https://zh.wikipedia.org/wiki/Pop_Up!_SMAP_LIVE! "wikilink")，都有演唱兩首歌曲。
   - 「再見的夏雨」是成員喜歡的歌，但自森且行離隊後就只有在1996年的演唱會上演唱。
 
 ## 収録曲
@@ -28,8 +25,7 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
       - 作詞・作曲：山森正之 / 編曲：THE SHAMROCK
       - 木村的獨唱歌曲。
 8.  Waiting Waiting Waiting
-      - 作詞：小倉めぐみ / [TAKUYA](../Page/木村拓哉.md "wikilink") / 作曲：谷本新 /
-        編曲：FENCE OF DEFENSE
+      - 作詞：小倉めぐみ / [TAKUYA](../Page/木村拓哉.md "wikilink") / 作曲：谷本新 / 編曲：FENCE OF DEFENSE
 9.  Part Time Kiss
       - 作詞：久和カノン / 作曲：川上明彥 / 編曲：CHOKKAKU
       - 木村和稻垣合唱。
@@ -44,8 +40,6 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 外部連結
 
-  - [SMAP 002](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-333.html)
-    （Victor Entertainment）
+  - [SMAP 002](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-333.html) （Victor Entertainment）
 
-[Category:SMAP音樂專輯](https://zh.wikipedia.org/wiki/Category:SMAP音樂專輯 "wikilink")
-[Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink")
+[Category:SMAP音樂專輯](https://zh.wikipedia.org/wiki/Category:SMAP音樂專輯 "wikilink") [Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink")

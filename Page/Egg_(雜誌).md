@@ -26,18 +26,11 @@
   - [押切萌](https://zh.wikipedia.org/wiki/押切萌 "wikilink")
   - [森まや](https://zh.wikipedia.org/wiki/森まや "wikilink")
   - [まいち](https://zh.wikipedia.org/wiki/まいち "wikilink")
-  - [坂本禮美](https://zh.wikipedia.org/wiki/坂本禮美 "wikilink")（2008年 -
-    2010年11月）
+  - [坂本禮美](https://zh.wikipedia.org/wiki/坂本禮美 "wikilink")（2008年 - 2010年11月）
 
 ## 外部連結
 
   - [egg雜誌官方網站](https://web.archive.org/web/20070903225757/http://eggmgg.jp/)
   - [EggMggTV](https://web.archive.org/web/20110722103500/http://www.eggmgg.jp/eggmgg-tv/index.php)
 
-[Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink")
-[Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink")
-[Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
-[Category:1995年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1995年創辦的雜誌 "wikilink")
-[Category:2014年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2014年停刊的雜誌 "wikilink")
-[Category:1995年日本建立](https://zh.wikipedia.org/wiki/Category:1995年日本建立 "wikilink")
-[Category:2014年日本廢除](https://zh.wikipedia.org/wiki/Category:2014年日本廢除 "wikilink")
+[Category:女性时尚杂志](https://zh.wikipedia.org/wiki/Category:女性时尚杂志 "wikilink") [Category:日本时尚杂志](https://zh.wikipedia.org/wiki/Category:日本时尚杂志 "wikilink") [Category:日本月刊](https://zh.wikipedia.org/wiki/Category:日本月刊 "wikilink") [Category:1995年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1995年創辦的雜誌 "wikilink") [Category:2014年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2014年停刊的雜誌 "wikilink") [Category:1995年日本建立](https://zh.wikipedia.org/wiki/Category:1995年日本建立 "wikilink") [Category:2014年日本廢除](https://zh.wikipedia.org/wiki/Category:2014年日本廢除 "wikilink")

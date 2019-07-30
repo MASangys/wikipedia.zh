@@ -1,19 +1,15 @@
-《**A 50 SINGLES ～LIVE SELECTION～**》（A
-50單曲～演唱會精選～）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步發行的影像作品](../Page/濱崎步.md "wikilink")。本作在2011年4月20日於日本發行，也是DVD版本的影像作品。
+《**A 50 SINGLES ～LIVE SELECTION～**》（A 50單曲～演唱會精選～）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步](../Page/濱崎步.md "wikilink")發行的影像作品。本作在2011年4月20日於日本發行，也是DVD版本的影像作品。
 
 ## 說明
 
-  - 濱崎步為了50單曲紀念，從2000年的《ayumi hamasaki concert tour 2000 A
-    第1幕》到2011年的《ayumi hamasaki Rock'n'Roll Circus Tour
-    FINAL 〜7days Special〜》為止的LIVE表演，特別收錄單曲50首。
+  - 濱崎步為了50單曲紀念，從2000年的《ayumi hamasaki concert tour 2000 A 第1幕》到2011年的《ayumi hamasaki Rock'n'Roll Circus Tour FINAL 〜7days Special〜》為止的LIVE表演，特別收錄單曲50首。
   - 只有第12張單曲《[kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink")》沒有LIVE片段，但有收錄音樂錄影帶。原預定3月30日發行，3月11日發生日本東北地方太平洋近海地震之後延期。
 
 ## 收錄內容
 
 ### DISC1・2
 
-1.  [poker
-    face](https://zh.wikipedia.org/wiki/poker_face_\(濱崎步單曲\) "wikilink")
+1.  [poker face](https://zh.wikipedia.org/wiki/poker_face_\(濱崎步單曲\) "wikilink")
       - 收錄自A museum 〜30th single collection live〜
 2.  [YOU](../Page/YOU_\(濱崎步單曲\).md "wikilink")
       - 收錄自A museum 〜30th single collection live〜
@@ -81,15 +77,13 @@
       - 收錄自ayumi hamasaki ARENA TOUR 2005 A 〜MY STORY〜
 34. [CAROLS](../Page/CAROLS.md "wikilink")
       - 收錄自ayumi hamasaki ARENA TOUR 2005 A 〜MY STORY〜
-35. [STEP
-    you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
+35. [STEP you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
       - 收錄自ayumi hamasaki ARENA TOUR 2006 A 〜(miss)understood〜
 36. [fairyland](https://zh.wikipedia.org/wiki/fairyland "wikilink")
       - 收錄自ayumi hamasaki COUNTDOWN LIVE 2005-2006 A
 37. [HEAVEN](https://zh.wikipedia.org/wiki/HEAVEN "wikilink")
       - 收錄自ayumi hamasaki COUNTDOWN LIVE 2005-2006 A
-38. [Bold &
-    Delicious](https://zh.wikipedia.org/wiki/Bold&Delicious/Pride "wikilink")
+38. [Bold & Delicious](https://zh.wikipedia.org/wiki/Bold&Delicious/Pride "wikilink")
       - 收錄自ayumi hamasaki ARENA TOUR 2006 A 〜(miss)understood〜
 39. [Startin'](https://zh.wikipedia.org/wiki/Startin'/Born_To_Be... "wikilink")
       - 收錄自ayumi hamasaki COUNTDOWN LIVE 2009-2010 A 〜Future Classics〜
@@ -97,8 +91,7 @@
       - 收錄自ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007 A
 41. [glitter](https://zh.wikipedia.org/wiki/glitter/fated "wikilink")
       - 收錄自ayumi hamasaki COUNTDOWN LIVE 2007-2008 Anniversary
-42. [talkin' 2
-    myself](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
+42. [talkin' 2 myself](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
       - 收錄自ayumi hamasaki ASIA TOUR 2008 〜10th Anniversary〜
 43. [Mirrorcle World](../Page/Mirrorcle_World.md "wikilink")
       - 收錄自ayumi hamasaki ASIA TOUR 2008 〜10th Anniversary〜
@@ -106,11 +99,9 @@
       - 收錄自ayumi hamasaki ARENA TOUR 2009 A 〜NEXT LEVEL〜
 45. [Rule](https://zh.wikipedia.org/wiki/Rule/Sparkle "wikilink")
       - 收錄自ayumi hamasaki ARENA TOUR 2009 A 〜NEXT LEVEL〜
-46. [Sunrise ～LOVE is
-    ALL～](https://zh.wikipedia.org/wiki/Sunrise/Sunset_～LOVE_is_ALL～ "wikilink")
+46. [Sunrise ～LOVE is ALL～](https://zh.wikipedia.org/wiki/Sunrise/Sunset_～LOVE_is_ALL～ "wikilink")
       - 收錄自ayumi hamasaki ARENA TOUR 2009 A 〜NEXT LEVEL〜
-47. [You
-    were...](https://zh.wikipedia.org/wiki/You_were.../BALLAD "wikilink")
+47. [You were...](https://zh.wikipedia.org/wiki/You_were.../BALLAD "wikilink")
       - 收錄自ayumi hamasaki COUNTDOWN LIVE 2009-2010 A 〜Future Classics〜
 48. [MOON](https://zh.wikipedia.org/wiki/MOON/blossom "wikilink")
       - 收錄自ayumi hamasaki Rock'n'Roll Circus Tour FINAL 〜7days Special〜

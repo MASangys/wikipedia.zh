@@ -1,6 +1,6 @@
-**2000年Oricon單曲週榜冠軍作品列表**列出2000年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2000年Oricon單曲週榜冠軍作品列表**列出2000年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
-全年度共有37首冠軍單曲誕生，其中[南方之星的](../Page/南方之星.md "wikilink")《[TSUNAMI](../Page/海嘯_\(單曲\).md "wikilink")》取得冠軍的週書最多（5週）。
+全年度共有37首冠軍單曲誕生，其中[南方之星](../Page/南方之星.md "wikilink")的《[TSUNAMI](../Page/海嘯_\(單曲\).md "wikilink")》取得冠軍的週書最多（5週）。
 
 ## 冠軍單曲列表
 
@@ -385,5 +385,4 @@
 
   - [2000年每週公信榜統計數據](https://web.archive.org/web/20101102225339/http://musictvprogram.com/oricon2000.html)
 
-[Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")

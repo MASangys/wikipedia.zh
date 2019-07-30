@@ -1,5 +1,4 @@
-**人馬座A**（Sagittarius A或簡寫**Sgr
-A**）是位於[銀河系](https://zh.wikipedia.org/wiki/銀河系 "wikilink")[銀心](../Page/銀心.md "wikilink")的強烈[無線電波源](../Page/無線電波源.md "wikilink")。它位於[人馬座](https://zh.wikipedia.org/wiki/人馬座 "wikilink")，在[可見光觀測下被銀河系旋臂的大幅](https://zh.wikipedia.org/wiki/可見光 "wikilink")[宇宙塵所遮蔽](https://zh.wikipedia.org/wiki/宇宙塵 "wikilink")。
+**人馬座A**（Sagittarius A或簡寫**Sgr A**）是位於[銀河系](https://zh.wikipedia.org/wiki/銀河系 "wikilink")[銀心](../Page/銀心.md "wikilink")的強烈[無線電波源](../Page/無線電波源.md "wikilink")。它位於[人馬座](https://zh.wikipedia.org/wiki/人馬座 "wikilink")，在[可見光觀測下被銀河系旋臂的大幅](https://zh.wikipedia.org/wiki/可見光 "wikilink")[宇宙塵所遮蔽](https://zh.wikipedia.org/wiki/宇宙塵 "wikilink")。
 
 人馬座A由3個部份組成：[超新星遺迹的人馬座A東星](https://zh.wikipedia.org/wiki/超新星遺迹 "wikilink")、螺旋結構的人馬座A西星、及非常光亮的致密無線電波源[人馬座A\*](../Page/人馬座A*.md "wikilink")。這三個部份是重疊的，當中人馬座A東星最大，西星位於東星內偏離中心的位置，而A\*則位於西星中心。
 
@@ -9,10 +8,7 @@ A**）是位於[銀河系](https://zh.wikipedia.org/wiki/銀河系 "wikilink")[�
 
 ## 人馬座A西星
 
-[SgrAWest_BEAR.jpg](https://zh.wikipedia.org/wiki/File:SgrAWest_BEAR.jpg "fig:SgrAWest_BEAR.jpg")
-人馬座A西星的外觀像一個三臂的螺旋結構，故又名「微形螺旋結構」。不過這個名稱及外觀都是誤導的，因為人馬座A西星的三臂並非真正的螺旋結構。它是由幾個[宇宙塵及氣體雲所組成](https://zh.wikipedia.org/wiki/宇宙塵 "wikilink")，圍繞及以秒速1000公里衝向[人馬座A\*](../Page/人馬座A*.md "wikilink")。這些雲氣的表面層都被[電離](https://zh.wikipedia.org/wiki/電離 "wikilink")。電離的來源是廣布的大質量恆星
-(目前已經確認出超過100顆的[OB星](../Page/OB星.md "wikilink"))
-，它們分布在中心數[秒差距](../Page/秒差距.md "wikilink")的範圍內。
+[SgrAWest_BEAR.jpg](https://zh.wikipedia.org/wiki/File:SgrAWest_BEAR.jpg "fig:SgrAWest_BEAR.jpg") 人馬座A西星的外觀像一個三臂的螺旋結構，故又名「微形螺旋結構」。不過這個名稱及外觀都是誤導的，因為人馬座A西星的三臂並非真正的螺旋結構。它是由幾個[宇宙塵及氣體雲所組成](https://zh.wikipedia.org/wiki/宇宙塵 "wikilink")，圍繞及以秒速1000公里衝向[人馬座A\*](../Page/人馬座A*.md "wikilink")。這些雲氣的表面層都被[電離](https://zh.wikipedia.org/wiki/電離 "wikilink")。電離的來源是廣布的大質量恆星 (目前已經確認出超過100顆的[OB星](../Page/OB星.md "wikilink")) ，它們分布在中心數[秒差距](../Page/秒差距.md "wikilink")的範圍內。
 
 人馬座A西星是由一個巨大的[拱星盤所包圍](https://zh.wikipedia.org/wiki/拱星盤 "wikilink")。拱星盤是由厚[環面的](https://zh.wikipedia.org/wiki/環面 "wikilink")[分子](../Page/分子.md "wikilink")[氣體組成](https://zh.wikipedia.org/wiki/氣體 "wikilink")。人馬座A西星的北臂原身是在此拱星盤內，但可能因一些變化而墮下。這些變化可能是因人馬座A東星的[超新星](../Page/超新星.md "wikilink")爆炸所造成。北臂非常光亮，由南方伸向北方，甚至延向東方。北臂可以觀測為微弱的展源。
 
@@ -28,25 +24,15 @@ A**）是位於[銀河系](https://zh.wikipedia.org/wiki/銀河系 "wikilink")[�
 
 ## 參考
 
-  - Melia, Fulvio. *The Black Hole in the Center of Our Galaxy*,
-    Princeton University Press, 2003.
+  - Melia, Fulvio. *The Black Hole in the Center of Our Galaxy*, Princeton University Press, 2003.
 
 ## 外部連結
 
-  - [Recent Results of the MPE Infrared/Submillimeter
-    Group](https://web.archive.org/web/20021107121511/http://www.mpe.mpg.de/www_ir/ir_recent.php)
-  - [Galactic Center
-    Research](https://web.archive.org/web/20040627001435/http://www.mpe.mpg.de/www_ir/GC/index.html)
-  - [Milky Way: Central
-    casting](http://www.nature.com/nature/links/021017/021017-5.html)
-  - [Chandra: Sagittarius A
-    East](http://chandra.harvard.edu/photo/2001/sgr_a/index.html)
-  - [Kinematic and structural analysis of the Minispiral in the Galactic
-    Center from BEAR
-    spectro-imagery](http://uk.arxiv.org/abs/astro-ph/0405197)
-  - [Chandra: Sagittarius
-    A](http://chandra.harvard.edu/photo/2003/0203long/index.html)
+  - [Recent Results of the MPE Infrared/Submillimeter Group](https://web.archive.org/web/20021107121511/http://www.mpe.mpg.de/www_ir/ir_recent.php)
+  - [Galactic Center Research](https://web.archive.org/web/20040627001435/http://www.mpe.mpg.de/www_ir/GC/index.html)
+  - [Milky Way: Central casting](http://www.nature.com/nature/links/021017/021017-5.html)
+  - [Chandra: Sagittarius A East](http://chandra.harvard.edu/photo/2001/sgr_a/index.html)
+  - [Kinematic and structural analysis of the Minispiral in the Galactic Center from BEAR spectro-imagery](http://uk.arxiv.org/abs/astro-ph/0405197)
+  - [Chandra: Sagittarius A](http://chandra.harvard.edu/photo/2003/0203long/index.html)
 
-[Category:人馬座](https://zh.wikipedia.org/wiki/Category:人馬座 "wikilink")
-[Category:黑洞](https://zh.wikipedia.org/wiki/Category:黑洞 "wikilink")
-[Category:銀河系](https://zh.wikipedia.org/wiki/Category:銀河系 "wikilink")
+[Category:人馬座](https://zh.wikipedia.org/wiki/Category:人馬座 "wikilink") [Category:黑洞](https://zh.wikipedia.org/wiki/Category:黑洞 "wikilink") [Category:銀河系](https://zh.wikipedia.org/wiki/Category:銀河系 "wikilink")

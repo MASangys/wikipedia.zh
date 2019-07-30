@@ -1,5 +1,4 @@
-《****》（参考译名《圣诞快乐（战争结束了）》）是[约翰·列侬与](../Page/约翰·列侬.md "wikilink")[小野洋子于](../Page/小野洋子.md "wikilink")1971年所推出的单曲，由[塑胶小野乐队及哈林社区合唱团演唱](../Page/塑胶小野乐队.md "wikilink")。
-此曲在美国并未上榜但是却在英国单曲榜上夺得了第四名的好成绩（由于发行推迟，此曲与1972年才开始发行）。此曲也往往作为一首[越南战争的抗议歌曲](../Page/越南战争.md "wikilink")，而由于这首歌同样也是首[圣诞歌曲](https://zh.wikipedia.org/wiki/圣诞歌曲 "wikilink")，它往往能在其他一些圣诞音乐专辑中出现。
+《****》（参考译名《圣诞快乐（战争结束了）》）是[约翰·列侬](../Page/约翰·列侬.md "wikilink")与[小野洋子](../Page/小野洋子.md "wikilink")于1971年所推出的单曲，由[塑胶小野乐队](../Page/塑胶小野乐队.md "wikilink")及哈林社区合唱团演唱。 此曲在美国并未上榜但是却在英国单曲榜上夺得了第四名的好成绩（由于发行推迟，此曲与1972年才开始发行）。此曲也往往作为一首[越南战争](../Page/越南战争.md "wikilink")的抗议歌曲，而由于这首歌同样也是首[圣诞歌曲](https://zh.wikipedia.org/wiki/圣诞歌曲 "wikilink")，它往往能在其他一些圣诞音乐专辑中出现。
 
 ## 背景
 
@@ -28,7 +27,7 @@
 
 ## 翻唱
 
-该曲曾多次被其他歌手翻唱\[3\]，包括[席琳·迪翁](https://zh.wikipedia.org/wiki/席琳·迪翁 "wikilink")，[衝突樂團及](../Page/衝突樂團.md "wikilink")[魔力红等人皆翻唱过这首歌](https://zh.wikipedia.org/wiki/魔力红 "wikilink")。
+该曲曾多次被其他歌手翻唱\[3\]，包括[席琳·迪翁](https://zh.wikipedia.org/wiki/席琳·迪翁 "wikilink")，[衝突樂團](../Page/衝突樂團.md "wikilink")及[魔力红等人皆翻唱过这首歌](https://zh.wikipedia.org/wiki/魔力红 "wikilink")。
 
 ## 相似歌曲
 
@@ -36,19 +35,10 @@
 
 ## 参考资料
 
-[Category:1971年单曲](https://zh.wikipedia.org/wiki/Category:1971年单曲 "wikilink")
-[Category:1972年单曲](https://zh.wikipedia.org/wiki/Category:1972年单曲 "wikilink")
-[Category:抗议歌曲](https://zh.wikipedia.org/wiki/Category:抗议歌曲 "wikilink")
-[Category:反战歌曲](https://zh.wikipedia.org/wiki/Category:反战歌曲 "wikilink")
-[Category:約翰·藍儂歌曲](https://zh.wikipedia.org/wiki/Category:約翰·藍儂歌曲 "wikilink")
-[Category:圣诞歌曲](https://zh.wikipedia.org/wiki/Category:圣诞歌曲 "wikilink")
+[Category:1971年单曲](https://zh.wikipedia.org/wiki/Category:1971年单曲 "wikilink") [Category:1972年单曲](https://zh.wikipedia.org/wiki/Category:1972年单曲 "wikilink") [Category:抗议歌曲](https://zh.wikipedia.org/wiki/Category:抗议歌曲 "wikilink") [Category:反战歌曲](https://zh.wikipedia.org/wiki/Category:反战歌曲 "wikilink") [Category:約翰·藍儂歌曲](https://zh.wikipedia.org/wiki/Category:約翰·藍儂歌曲 "wikilink") [Category:圣诞歌曲](https://zh.wikipedia.org/wiki/Category:圣诞歌曲 "wikilink")
 
-1.  ["Ger Tillekens, Baroque and folk and ... John
-    Lennon"](http://www.icce.rug.nl/~soundscapes/VOLUME01/Baroque_Folk_Lennon.shtml),
-    Soundscapes
-2.  Chip Madinger and Mark Easter, Eight Arms To Hold You: The Beatles
-    Solo Compendium (Chesterfield, MO: 44.1 Productions, 2000), 65-66.
-3.  [Song: Happy Xmas (War Is
-    Over)](http://www.secondhandsongs.com/work/5577), Second Hand Songs
+1.  ["Ger Tillekens, Baroque and folk and ... John Lennon"](http://www.icce.rug.nl/~soundscapes/VOLUME01/Baroque_Folk_Lennon.shtml), Soundscapes
+2.  Chip Madinger and Mark Easter, Eight Arms To Hold You: The Beatles Solo Compendium (Chesterfield, MO: 44.1 Productions, 2000), 65-66.
+3.  [Song: Happy Xmas (War Is Over)](http://www.secondhandsongs.com/work/5577), Second Hand Songs
 4.
 5.

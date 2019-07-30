@@ -1,4 +1,4 @@
-《**SEVEN**》，[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[中島美嘉的第](../Page/中島美嘉.md "wikilink")11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2004年4月7日發行。
+《**SEVEN**》，[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[中島美嘉](../Page/中島美嘉.md "wikilink")的第11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2004年4月7日發行。
 
 ## 概述
 
@@ -37,6 +37,4 @@
 
 ## 外部連結
 
-[Category:中島美嘉歌曲](https://zh.wikipedia.org/wiki/Category:中島美嘉歌曲 "wikilink")
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
+[Category:中島美嘉歌曲](https://zh.wikipedia.org/wiki/Category:中島美嘉歌曲 "wikilink") [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")

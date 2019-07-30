@@ -1,8 +1,6 @@
-《**EME**》系列，[日本](../Page/日本.md "wikilink")[輕小說作家](../Page/輕小說.md "wikilink")[瀧川武司的作品](https://zh.wikipedia.org/wiki/瀧川武司 "wikilink")，在[富士見Fantasia文庫發表](../Page/富士見Fantasia文庫.md "wikilink")，插畫為尾崎弘宜，台灣中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")。
+《**EME**》系列，[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作家[瀧川武司的作品](https://zh.wikipedia.org/wiki/瀧川武司 "wikilink")，在[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")發表，插畫為尾崎弘宜，台灣中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理。
 
-共分為『BLACK』、『BLUE』、『RED』。『BLACK』是過去的故事，而『BLUE』、『RED』現在的故事。
-雖然出版順序是『BLACK』、『BLUE』、『RED』，但作者建議觀看的順序是是『RED』、『BLUE』、『BLACK』\[1\]
-。
+共分為『BLACK』、『BLUE』、『RED』。『BLACK』是過去的故事，而『BLUE』、『RED』現在的故事。 雖然出版順序是『BLACK』、『BLUE』、『RED』，但作者建議觀看的順序是是『RED』、『BLUE』、『BLACK』\[1\] 。
 
 ## 概要
 
@@ -15,13 +13,12 @@
 ## 關於八百萬機關
 
   - EME （Eight Million Engine）
-    暗中處理所有怪異現象的[架空機關](https://zh.wikipedia.org/wiki/架空 "wikilink")。舊稱八百萬機關，在首都依然在[京都的時代存在至今](../Page/京都.md "wikilink")，在[世界大戰後更名為EME](../Page/世界大戰.md "wikilink")。
+    暗中處理所有怪異現象的[架空機關](https://zh.wikipedia.org/wiki/架空 "wikilink")。舊稱八百萬機關，在首都依然在[京都](../Page/京都.md "wikilink")的時代存在至今，在[世界大戰](../Page/世界大戰.md "wikilink")後更名為EME。
     其中分為PC課、DH課、OP課、UL課、PP課等不同的部門處理不同的事件。
       - PC課 （Phenomenon Creature／現象生物）
         現象生物即是一般所稱的妖怪、怪獸或者怪物之類的生物。主要是處理與PC有關的事件。
         一般PC有分為P(保護種)和T(殲滅種)。
-      - DH課 （Demi
-        Human／[亞人](https://zh.wikipedia.org/wiki/亞人 "wikilink")）
+      - DH課 （Demi Human／[亞人](https://zh.wikipedia.org/wiki/亞人 "wikilink")）
         負責管理[狼人](../Page/狼人.md "wikilink")、[妖精之類的亞人類生態的部門](https://zh.wikipedia.org/wiki/妖精 "wikilink")。
         由於處理的事件間中會與PC課相沖，所以兩個部門的關係不是太好。
         會把適合在人類社會生活的亞人的行動把握和管理。
@@ -41,8 +38,7 @@
   - GA (Guardian Agent／保衛特務)
     從屬EME的特務。擁有某種特殊能力的人居多。出任務時有一條原則，除非特殊情況，否則不會單獨一人，一般以主力和助手兩人一組行動。
   - AA (Agent Ability)
-    GA持有的[特殊能力](../Page/超能力.md "wikilink")。GA以外的人類持有的特殊能力稱為**SS(Superior
-    Skill)**。
+    GA持有的[特殊能力](../Page/超能力.md "wikilink")。GA以外的人類持有的特殊能力稱為**SS(Superior Skill)**。
 
 ## 人物介紹
 
@@ -52,9 +48,7 @@
 
 #### PC課
 
-  - 乾 紅太郎 （いぬい こうたろう）
-    （[原田正夫](https://zh.wikipedia.org/wiki/原田正夫 "wikilink")）
-    主要登場：『BLACK』『BLUE』『RED』
+  - 乾 紅太郎 （いぬい こうたろう） （[原田正夫](https://zh.wikipedia.org/wiki/原田正夫 "wikilink")） 主要登場：『BLACK』『BLUE』『RED』
     通稱『紅』，17歲(BLACK時15歲)，AA是『[力場干涉能力](https://zh.wikipedia.org/wiki/力場 "wikilink")』。
 
     『BLACK』時是黑部其下的見習GA。現在是PC課的王牌GA。
@@ -74,8 +68,7 @@
       -
         [風](../Page/風.md "wikilink")[貉](../Page/貉.md "wikilink")。全名檜繪馬‧[毫巴](https://zh.wikipedia.org/wiki/毫巴 "wikilink")‧[百](https://zh.wikipedia.org/wiki/百 "wikilink")‧[帕斯卡](../Page/帕斯卡.md "wikilink")
 
-  - 巽 蒼乃丞 （たつみ あおのじょう） （[井上喜久子](../Page/井上喜久子.md "wikilink")）
-    『BLUE』『RED』
+  - 巽 蒼乃丞 （たつみ あおのじょう） （[井上喜久子](../Page/井上喜久子.md "wikilink")） 『BLUE』『RED』
     通稱『蒼』，22歲，AA是『運動停止能力』。
 
     從[美國留學完畢的歸國的GA](https://zh.wikipedia.org/wiki/美國 "wikilink")。但實際上現任EME總長，因某些原因而隱藏總長的身份。
@@ -104,9 +97,9 @@
     三木也其下的見習GA。
 
   - 鳩羽 圭一 （はとばね　けいいち） 『BLACK』
-    PC課的GA。圭二的[雙胞胎兄弟](../Page/雙胞胎.md "wikilink")。長有一副娃娃臉。
+    PC課的GA。圭二的[雙胞胎](../Page/雙胞胎.md "wikilink")兄弟。長有一副娃娃臉。
 
-    AA是『[引力操作能力](../Page/引力.md "wikilink")』。能自由加強於自身的引力。
+    AA是『[引力](../Page/引力.md "wikilink")操作能力』。能自由加強於自身的引力。
 
   - 鳩羽 圭二 （はとばね　けいじ） 『BLACK』
     PC課的GA。圭一的雙胞胎兄弟。
@@ -125,7 +118,7 @@
   - 小豆屋　大福 (あずきや　だいふく) 『BLACK２』
     PC課的GA。
 
-    AA是『[重量減輕能力](../Page/重量.md "wikilink")』。
+    AA是『[重量](../Page/重量.md "wikilink")減輕能力』。
 
     露草(つゆくさ)『BLACK２』
 
@@ -134,7 +127,7 @@
 #### DH課
 
   - 道成寺 （どうじょうじ） 『BLUE』
-    AA是『[自殺幫助能力](../Page/自殺.md "wikilink")』
+    AA是『[自殺](../Page/自殺.md "wikilink")幫助能力』
   - 虹橋 亂 （にじばし らん） 『RED』
     AA是『自己[暗示能力](../Page/催眠.md "wikilink")』
   - 瑠璃姫　清音 (るりひめ　きよね) 『BLUE』
@@ -151,7 +144,7 @@
     火野(ひの) 『BLUE２』
     OP課的特務隊長。人稱「鐵拳火野」、「破壞學者」。
   - 丁子(ちょうこ) 『BLUE２』
-    綽號「[針女](../Page/針.md "wikilink")」。
+    綽號「[針](../Page/針.md "wikilink")女」。
     AA名稱不明。能自由操作針子，甚至能以針駕駛車輛，雖然本人表示會開車的不是自己而是針。
   - 輪子(りんこ) 『BLACK２』
     AA名稱不明。在任何環境也能安全為船掌舵。
@@ -191,7 +184,7 @@
 ### 『張開血盆大口的魔王迷宮』
 
   -
-    在兩年前發生於東京[地下街的案件](../Page/地下街.md "wikilink")，稱「地下迷宮事件」。
+    在兩年前發生於東京[地下街](../Page/地下街.md "wikilink")的案件，稱「地下迷宮事件」。
 
   - 棋手[梅林](https://zh.wikipedia.org/wiki/梅林 "wikilink")
     棋手[晴明](../Page/安倍晴明.md "wikilink")
@@ -247,8 +240,7 @@
 
   - 風間　幽溪 (かざま　ゆうけい) 『BLUE』
     [血滴子](../Page/血滴子.md "wikilink") (シュエティツ) 『RED』
-    綾小路 [α](https://zh.wikipedia.org/wiki/α "wikilink") (あやのこうじ　あるふぁ)
-    『RED』
+    綾小路 [α](https://zh.wikipedia.org/wiki/α "wikilink") (あやのこうじ　あるふぁ) 『RED』
 
 ## 組織
 
@@ -357,8 +349,6 @@ AOFC</p></td>
 
 ## 註解
 
-[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink")
-[Category:虛構超常現象管理調查局](https://zh.wikipedia.org/wiki/Category:虛構超常現象管理調查局 "wikilink")
-[Category:超常現象題材作品](https://zh.wikipedia.org/wiki/Category:超常現象題材作品 "wikilink")
+[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink") [Category:虛構超常現象管理調查局](https://zh.wikipedia.org/wiki/Category:虛構超常現象管理調查局 "wikilink") [Category:超常現象題材作品](https://zh.wikipedia.org/wiki/Category:超常現象題材作品 "wikilink")
 
 1.  『RED』第一卷後記

@@ -1,37 +1,22 @@
-**Mozilla Firefox 4**是[Mozilla
-Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[網頁瀏覽器在可見將來的一個版本](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。這軟件的第一個[測試版於](https://zh.wikipedia.org/wiki/軟體版本週期#Beta "wikilink")2010年7月6日推出，第六個測試版於2010年9月14日推出，預期最終版本可於2011年3月正式推出市面。
+**Mozilla Firefox 4**是[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[網頁瀏覽器在可見將來的一個版本](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。這軟件的第一個[測試版於](https://zh.wikipedia.org/wiki/軟體版本週期#Beta "wikilink")2010年7月6日推出，第六個測試版於2010年9月14日推出，預期最終版本可於2011年3月正式推出市面。
 
-在這個版本的主要目標包括：性能方面的重大改進，對標準的支援，以及用戶界面的改動。更新的重點在於：讓用戶對他們的瀏覽器完全掌控（原文："putting
-users in full control of their browser"）\[1\]。
+在這個版本的主要目標包括：性能方面的重大改進，對標準的支援，以及用戶界面的改動。更新的重點在於：讓用戶對他們的瀏覽器完全掌控（原文："putting users in full control of their browser"）\[1\]。
 
 ## 歷史
 
-2006年10月13日，Mozilla的[首席技術長](https://zh.wikipedia.org/wiki/首席技術長 "wikilink")[布蘭登·艾克提出了](../Page/布蘭登·艾克.md "wikilink")「Mozilla
-2」計劃，所指的是對現時Firefox及其他Mozilla產品運行於其上的整體平台（自推出以來）的一次最全面的更替\[2\]。這個計劃大多數的目標都已從Firefox的3.0、3.5及3.6等多個版本開始，逐步逐步的被納入。不過當中最大的轉變，都延遲到Firefox
-4.0才發表。
+2006年10月13日，Mozilla的[首席技術長](https://zh.wikipedia.org/wiki/首席技術長 "wikilink")[布蘭登·艾克](../Page/布蘭登·艾克.md "wikilink")提出了「Mozilla 2」計劃，所指的是對現時Firefox及其他Mozilla產品運行於其上的整體平台（自推出以來）的一次最全面的更替\[2\]。這個計劃大多數的目標都已從Firefox的3.0、3.5及3.6等多個版本開始，逐步逐步的被納入。不過當中最大的轉變，都延遲到Firefox 4.0才發表。
 
-早在2010年5月，Mozilla的Firefox 4.0計劃的詳細內容正式通過Firefox的總裁Mike
-Beltzner在其部落格的一篇文章裡展現。Firefox
-4.0的主要目標是要令Firefox變得「快速，強大，有實力」（原文："fast,
-powerful, and empowering"）\[3\]。
+早在2010年5月，Mozilla的Firefox 4.0計劃的詳細內容正式通過Firefox的總裁Mike Beltzner在其部落格的一篇文章裡展現。Firefox 4.0的主要目標是要令Firefox變得「快速，強大，有實力」（原文："fast, powerful, and empowering"）\[3\]。
 
 ## 特色
 
-[Firefox_4_beta_screenshot.png](https://zh.wikipedia.org/wiki/File:Firefox_4_beta_screenshot.png "fig:Firefox_4_beta_screenshot.png")
-Mozilla Firefox 4包括了不少從3.6版就已經有的特色\[4\]。事實上，Mozilla Firefox
-4是由原來的3.7版演變而來。2009年7月17日，Mozilla基金會宣佈Firefox
-4.0將帶來全新的使用者介面\[5\]，和使用Windows Vista和Windows
-7的Aero透明效果。Firefox
-4.0也將用上Windows7平台上的[Direct2D向量圖形API和](../Page/Direct2D.md "wikilink")[DirectWrite文字渲染](../Page/DirectWrite.md "wikilink")\[6\]GPU加速技術。其中，另一項功能，是比較不干擾使用者的更新機制，這是相當實用的技術，因為Mozilla的更新發布次數較為頻繁。
+[Firefox_4_beta_screenshot.png](https://zh.wikipedia.org/wiki/File:Firefox_4_beta_screenshot.png "fig:Firefox_4_beta_screenshot.png") Mozilla Firefox 4包括了不少從3.6版就已經有的特色\[4\]。事實上，Mozilla Firefox 4是由原來的3.7版演變而來。2009年7月17日，Mozilla基金會宣佈Firefox 4.0將帶來全新的使用者介面\[5\]，和使用Windows Vista和Windows 7的Aero透明效果。Firefox 4.0也將用上Windows7平台上的[Direct2D](../Page/Direct2D.md "wikilink")向量圖形API和[DirectWrite](../Page/DirectWrite.md "wikilink")文字渲染\[6\]GPU加速技術。其中，另一項功能，是比較不干擾使用者的更新機制，這是相當實用的技術，因為Mozilla的更新發布次數較為頻繁。
 
-Firefox工程副總裁Mike Beltzner在網路會議中強調「速度」是Firefox
-4開發重點\[7\]。此外，4.0還將支援[WebM視訊檔案格式](../Page/WebM.md "wikilink")、64位元版本、[多點觸控](../Page/多點觸控.md "wikilink")、全新的[JagerMonkey引擎](https://zh.wikipedia.org/wiki/SpiderMonkey#JägerMonkey "wikilink")\[8\]。Firefox根據一個稱為Gecko的瀏覽器排版引擎計畫打造而成。Firefox
-3.6根據的是Gecko 1.9.2，而Firefox 4.0準備採用Gecko 2.0。
+Firefox工程副總裁Mike Beltzner在網路會議中強調「速度」是Firefox 4開發重點\[7\]。此外，4.0還將支援[WebM](../Page/WebM.md "wikilink")視訊檔案格式、64位元版本、[多點觸控](../Page/多點觸控.md "wikilink")、全新的[JagerMonkey引擎](https://zh.wikipedia.org/wiki/SpiderMonkey#JägerMonkey "wikilink")\[8\]。Firefox根據一個稱為Gecko的瀏覽器排版引擎計畫打造而成。Firefox 3.6根據的是Gecko 1.9.2，而Firefox 4.0準備採用Gecko 2.0。
 
 ## 開發
 
-第一個以4.0命名的開發版本於2008年的2月到6月間建立，稱為4.0a1pre\[9\]\[10\]，但這個版本很快就被改名為3.1a1pre
-。
+第一個以4.0命名的開發版本於2008年的2月到6月間建立，稱為4.0a1pre\[9\]\[10\]，但這個版本很快就被改名為3.1a1pre 。
 
 ### 時間線
 
@@ -65,10 +50,7 @@ Firefox工程副總裁Mike Beltzner在網路會議中強調「速度」是Firefo
 
   - [Mozilla Firefox官方網站](http://www.mozilla.com/firefox/)
 
-[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink")
-[Category:2011年軟體](https://zh.wikipedia.org/wiki/Category:2011年軟體 "wikilink")
-[Category:Unix網際網路軟體](https://zh.wikipedia.org/wiki/Category:Unix網際網路軟體 "wikilink")
-[Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink")
+[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink") [Category:2011年軟體](https://zh.wikipedia.org/wiki/Category:2011年軟體 "wikilink") [Category:Unix網際網路軟體](https://zh.wikipedia.org/wiki/Category:Unix網際網路軟體 "wikilink") [Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink")
 
 1.
 
@@ -89,9 +71,7 @@ Firefox工程副總裁Mike Beltzner在網路會議中強調「速度」是Firefo
 
 10.
 
-11. [Release Notes: Mozilla Developer
-    Preview](http://www.mozilla.org/projects/firefox/3.7a1/releasenotes/)
-    . Mozilla.org. Retrieved on 2010-11-08.
+11. [Release Notes: Mozilla Developer Preview](http://www.mozilla.org/projects/firefox/3.7a1/releasenotes/) . Mozilla.org. Retrieved on 2010-11-08.
 
 12.
 

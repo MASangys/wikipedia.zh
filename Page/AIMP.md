@@ -1,4 +1,4 @@
-****（）是[俄羅斯軟體設計師](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")（）開發的音樂播放軟體，功能與介面設計上有許多類似知名的同類軟體[Winamp之處](../Page/Winamp.md "wikilink")，。AIMP完全支援[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")，因此可以很好地顯示各種語言的文字，而不會有[亂碼發生](../Page/亂碼.md "wikilink")。目前介面已有47種以上的語言套件，其中包含[簡體中文與](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[繁體中文](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")。
+****（）是[俄羅斯軟體設計師](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")（）開發的音樂播放軟體，功能與介面設計上有許多類似知名的同類軟體[Winamp](../Page/Winamp.md "wikilink")之處，。AIMP完全支援[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")，因此可以很好地顯示各種語言的文字，而不會有[亂碼](../Page/亂碼.md "wikilink")發生。目前介面已有47種以上的語言套件，其中包含[簡體中文與](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[繁體中文](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")。
 
 ## 內建可播放的媒體格式
 

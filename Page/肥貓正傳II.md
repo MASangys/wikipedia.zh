@@ -348,6 +348,4 @@
 </tbody>
 </table>
 
-[Category:1999年亞視電視劇集](https://zh.wikipedia.org/wiki/Category:1999年亞視電視劇集 "wikilink")
-[Category:發展障礙題材作品](https://zh.wikipedia.org/wiki/Category:發展障礙題材作品 "wikilink")
-[Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink")
+[Category:1999年亞視電視劇集](https://zh.wikipedia.org/wiki/Category:1999年亞視電視劇集 "wikilink") [Category:發展障礙題材作品](https://zh.wikipedia.org/wiki/Category:發展障礙題材作品 "wikilink") [Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink")

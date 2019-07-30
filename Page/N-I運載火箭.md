@@ -1,4 +1,4 @@
-**N-I運載火箭**又稱**N-1運載火箭**，技術源於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[三角洲運載火箭](https://zh.wikipedia.org/wiki/三角洲運載火箭 "wikilink")，並授權於[日本進行生產](../Page/日本.md "wikilink")，第一節與[雷神運載火箭相同](https://zh.wikipedia.org/wiki/雷神運載火箭 "wikilink")，第二節則使用[三菱重工設計的](https://zh.wikipedia.org/wiki/三菱重工 "wikilink")引擎\[1\]\[2\]\[3\]，搭載三枚Castor輔助火箭\[4\]\[5\]。於1975年至1982年間共進行7次發射，6次成功，但第五次發射因衛星與火箭第三節在接觸導致失敗。N-I運載火箭後由[N-II運載火箭取代](../Page/N-II運載火箭.md "wikilink")。
+**N-I運載火箭**又稱**N-1運載火箭**，技術源於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[三角洲運載火箭](https://zh.wikipedia.org/wiki/三角洲運載火箭 "wikilink")，並授權於[日本](../Page/日本.md "wikilink")進行生產，第一節與[雷神運載火箭相同](https://zh.wikipedia.org/wiki/雷神運載火箭 "wikilink")，第二節則使用[三菱重工設計的](https://zh.wikipedia.org/wiki/三菱重工 "wikilink")引擎\[1\]\[2\]\[3\]，搭載三枚Castor輔助火箭\[4\]\[5\]。於1975年至1982年間共進行7次發射，6次成功，但第五次發射因衛星與火箭第三節在接觸導致失敗。N-I運載火箭後由[N-II運載火箭](../Page/N-II運載火箭.md "wikilink")取代。
 
 其中第二次發射為歷史上唯一一次於2月29日發射(至2008年)。
 
@@ -85,8 +85,7 @@
 
 ## 參考文獻
 
-[Category:日本運載火箭](https://zh.wikipedia.org/wiki/Category:日本運載火箭 "wikilink")
-[Category:1975年面世的交通工具](https://zh.wikipedia.org/wiki/Category:1975年面世的交通工具 "wikilink")
+[Category:日本運載火箭](https://zh.wikipedia.org/wiki/Category:日本運載火箭 "wikilink") [Category:1975年面世的交通工具](https://zh.wikipedia.org/wiki/Category:1975年面世的交通工具 "wikilink")
 
 1.
 

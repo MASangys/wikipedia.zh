@@ -28,10 +28,6 @@ Linux网络管理员指南是其中的一本书。
 
 {{-}}
 
-[Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")
-[Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink")
+[Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink")
 
-1.  Library Trends – March 22, 2005 - Strategies and technologies of
-    sharing in contributor-run archives.- Jones, Paul
-    [1](http://goliath.ecnext.com/coms2/gi_0199-4454575/Strategies-and-technologies-of-sharing.html),
-    part 1, retrieved 2008-09-29
+1.  Library Trends – March 22, 2005 - Strategies and technologies of sharing in contributor-run archives.- Jones, Paul [1](http://goliath.ecnext.com/coms2/gi_0199-4454575/Strategies-and-technologies-of-sharing.html), part 1, retrieved 2008-09-29

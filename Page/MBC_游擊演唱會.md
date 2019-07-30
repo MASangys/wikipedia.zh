@@ -76,5 +76,4 @@
 | 2003年 1月 5日   | [Rain](https://zh.wikipedia.org/wiki/Rain_\(韓國藝人\) "wikilink")                       | 安養科學大 大運動場          | 6000名         | 5387名           | 失敗   |               |
 | 2003年 1月 12日  | 成始璄                                                                                  | 安東 洛東江 江畔           | 5000名         | 5107名           | 成功   | 最後一集          |
 
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")

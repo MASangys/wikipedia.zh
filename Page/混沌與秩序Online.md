@@ -1,7 +1,4 @@
-**混沌与秩序Online**（[英语](../Page/英语.md "wikilink")：Order and Chaos
-Online）是法国知名手机游戏开发商[Gameloft为](../Page/Gameloft.md "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows
-Phone](../Page/Windows_Phone.md "wikilink")、[Windows设备开发的一款](https://zh.wikipedia.org/wiki/Windows "wikilink")[MMORPG游戏](https://zh.wikipedia.org/wiki/MMORPG "wikilink")\[1\]，iOS平台发行于2011年4月27日2012年6月27日，Android和Windows
-Phone则发行於2013年7月10日。目前支援英文、韩文、日文、简体中文、繁体中文\[2\]、法文、德文、意大利文、西班牙文、葡萄牙语（巴西）、俄文、土耳其语、阿拉伯语与印尼语等14种语言。而这游戏被不少玩家认为是手机版的[魔兽世界](../Page/魔兽世界.md "wikilink")\[3\]。2011年5月，Gameloft宣布这游戏发行20日已经带来一百万美元的收入\[4\]。
+**混沌与秩序Online**（[英语](../Page/英语.md "wikilink")：Order and Chaos Online）是法国知名手机游戏开发商[Gameloft](../Page/Gameloft.md "wikilink")为[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")、[Windows设备开发的一款](https://zh.wikipedia.org/wiki/Windows "wikilink")[MMORPG游戏](https://zh.wikipedia.org/wiki/MMORPG "wikilink")\[1\]，iOS平台发行于2011年4月27日2012年6月27日，Android和Windows Phone则发行於2013年7月10日。目前支援英文、韩文、日文、简体中文、繁体中文\[2\]、法文、德文、意大利文、西班牙文、葡萄牙语（巴西）、俄文、土耳其语、阿拉伯语与印尼语等14种语言。而这游戏被不少玩家认为是手机版的[魔兽世界](../Page/魔兽世界.md "wikilink")\[3\]。2011年5月，Gameloft宣布这游戏发行20日已经带来一百万美元的收入\[4\]。
 
 ## 游戏
 
@@ -31,8 +28,7 @@ Phone则发行於2013年7月10日。目前支援英文、韩文、日文、简�
 
 **僧侣** 可帮助他人或自己回复生命。 精通页面中分为 「圣灵」（治疗）和「武术」。角色性质能选择治疗或输出。
 
-**烈焰骑士** 高防高攻的近战物理职业。精通页面中分为「戌卫」（盾）
-和「炎王」（战士）。角色性质能选择输出或坦克。只有账号下有一满级角色方可创建且骑士初始等级为65级。
+**烈焰骑士** 高防高攻的近战物理职业。精通页面中分为「戌卫」（盾） 和「炎王」（战士）。角色性质能选择输出或坦克。只有账号下有一满级角色方可创建且骑士初始等级为65级。
 
 ### 秩序种族
 
@@ -135,19 +131,9 @@ Phone则发行於2013年7月10日。目前支援英文、韩文、日文、简�
 
 ## 参考资料
 
-[Category:IOS游戏](https://zh.wikipedia.org/wiki/Category:IOS游戏 "wikilink")
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:Android游戏](https://zh.wikipedia.org/wiki/Category:Android游戏 "wikilink")
-[Category:Gameloft游戏](https://zh.wikipedia.org/wiki/Category:Gameloft游戏 "wikilink")
-[Category:Ouya游戏](https://zh.wikipedia.org/wiki/Category:Ouya游戏 "wikilink")
+[Category:IOS游戏](https://zh.wikipedia.org/wiki/Category:IOS游戏 "wikilink") [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:Android游戏](https://zh.wikipedia.org/wiki/Category:Android游戏 "wikilink") [Category:Gameloft游戏](https://zh.wikipedia.org/wiki/Category:Gameloft游戏 "wikilink") [Category:Ouya游戏](https://zh.wikipedia.org/wiki/Category:Ouya游戏 "wikilink")
 
-1.  [《Order & Chaos
-    Online》登陆iOS](http://game.sina.com.hk/cgi-bin/nw/show.cgi/3/2/1/93784/1.html)
-
+1.  [《Order & Chaos Online》登陆iOS](http://game.sina.com.hk/cgi-bin/nw/show.cgi/3/2/1/93784/1.html)
 2.  在版本2.10中，增加对繁体中文的支持
-3.  [【试玩】《秩序与混沌
-    Online》族冒险](http://news.chinatimes.com/tech/171710/172011042900572.html)
-
-4.  [Order & Chaos Online Has Generated $1 Million in Revenue 20 Days
-    After its Release on the App
-    Store](http://finance.yahoo.com/news/Order-Chaos-Online-Has-prnews-143579555.html?x=0)
+3.  [【试玩】《秩序与混沌 Online》族冒险](http://news.chinatimes.com/tech/171710/172011042900572.html)
+4.  [Order & Chaos Online Has Generated $1 Million in Revenue 20 Days After its Release on the App Store](http://finance.yahoo.com/news/Order-Chaos-Online-Has-prnews-143579555.html?x=0)

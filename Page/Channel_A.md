@@ -1,5 +1,4 @@
-**Channel
-A**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****），為韓國[東亞日報擁有的电视台](../Page/東亞日報.md "wikilink")，自2011年12月1日起開播，為[綜合編成頻道四台之一](../Page/綜合編成頻道.md "wikilink")。通過[有線電視和](https://zh.wikipedia.org/wiki/有線電視 "wikilink")[IPTV平台播出](../Page/IPTV.md "wikilink")。前身為於1980年遭[全斗煥政府以](../Page/全斗煥.md "wikilink")「[言論統廢合](https://zh.wikipedia.org/wiki/言論統廢合 "wikilink")」為由而強行停播廣播電視公司之一的[東亞廣播公司](https://zh.wikipedia.org/wiki/東亞廣播公司 "wikilink")，因2008年南韓廣播相關法令增修而予以「復播」。
+**Channel A**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****），為韓國[東亞日報](../Page/東亞日報.md "wikilink")擁有的电视台，自2011年12月1日起開播，為[綜合編成頻道](../Page/綜合編成頻道.md "wikilink")四台之一。通過[有線電視和](https://zh.wikipedia.org/wiki/有線電視 "wikilink")[IPTV](../Page/IPTV.md "wikilink")平台播出。前身為於1980年遭[全斗煥](../Page/全斗煥.md "wikilink")政府以「[言論統廢合](https://zh.wikipedia.org/wiki/言論統廢合 "wikilink")」為由而強行停播廣播電視公司之一的[東亞廣播公司](https://zh.wikipedia.org/wiki/東亞廣播公司 "wikilink")，因2008年南韓廣播相關法令增修而予以「復播」。
 
 ## 節目
 
@@ -37,8 +36,7 @@ A**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****），為�
 #### 韓國（自製）
 
   - [Heart Signal](../Page/Heart_Signal.md "wikilink")
-  - [Heart Signal
-    (第二季)](https://zh.wikipedia.org/wiki/Heart_Signal_\(第二季\) "wikilink")
+  - [Heart Signal (第二季)](https://zh.wikipedia.org/wiki/Heart_Signal_\(第二季\) "wikilink")
   - [搭飛機去](../Page/搭飛機去.md "wikilink")
   - [給狗糧的男人](https://zh.wikipedia.org/wiki/給狗糧的男人 "wikilink")
   - [我們也是國家代表](../Page/我們也是國家代表.md "wikilink")
@@ -70,5 +68,4 @@ A**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****），為�
 
 </noinclude>
 
-[Category:韓國綜合編成頻道](https://zh.wikipedia.org/wiki/Category:韓國綜合編成頻道 "wikilink")
-[Category:Channel_A](https://zh.wikipedia.org/wiki/Category:Channel_A "wikilink")
+[Category:韓國綜合編成頻道](https://zh.wikipedia.org/wiki/Category:韓國綜合編成頻道 "wikilink") [Category:Channel_A](https://zh.wikipedia.org/wiki/Category:Channel_A "wikilink")

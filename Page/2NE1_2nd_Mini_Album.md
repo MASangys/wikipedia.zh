@@ -1,7 +1,4 @@
-***2NE1 2nd Mini Album***是
-[南韓四人女子組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[2NE1後第二張迷你專輯](../Page/2NE1.md "wikilink")，韓版於2011年7月28日發行，收錄了六首新作品。
-其後於2011年9月21日發行了此迷你專輯的日版，專輯名稱改以***NOLZA***，但沒有收錄韓版中Bom的「Don't
-Cry」。韓版總銷量達10萬張，日版則約售出4萬張。
+***2NE1 2nd Mini Album***是 [南韓四人女子組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[2NE1](../Page/2NE1.md "wikilink")後第二張迷你專輯，韓版於2011年7月28日發行，收錄了六首新作品。 其後於2011年9月21日發行了此迷你專輯的日版，專輯名稱改以***NOLZA***，但沒有收錄韓版中Bom的「Don't Cry」。韓版總銷量達10萬張，日版則約售出4萬張。
 
 ## 曲目
 
@@ -74,12 +71,4 @@ Cry」。韓版總銷量達10萬張，日版則約售出4萬張。
 | [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")                   | 2011年8月26日                     | [CD](../Page/CD.md "wikilink")、 [下載](https://zh.wikipedia.org/wiki/下載 "wikilink") | [華納唱片](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")                                                                                      | 最新冠軍迷你2輯台灣獨佔豪華限定盤   |
 | [日本](../Page/日本.md "wikilink")                                      | 2011年9月21日 <small>(日版)</small> | [CD](../Page/CD.md "wikilink")、[下載](https://zh.wikipedia.org/wiki/下載 "wikilink")  | [Avex Group](https://zh.wikipedia.org/wiki/Avex "wikilink")、 [YG Entertainment](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink") | NOLZA               |
 
-[Category:2NE1](https://zh.wikipedia.org/wiki/Category:2NE1 "wikilink")
-[Category:2011年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2011年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯月榜冠軍作品 "wikilink")
-[Category:2011年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2011年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon單曲月榜冠軍作品 "wikilink")
-[Category:2011年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2011年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載月榜冠軍作品 "wikilink")
+[Category:2NE1](https://zh.wikipedia.org/wiki/Category:2NE1 "wikilink") [Category:2011年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯週榜冠軍作品 "wikilink") [Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2011年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯月榜冠軍作品 "wikilink") [Category:2011年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon單曲週榜冠軍作品 "wikilink") [Category:2011年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon單曲月榜冠軍作品 "wikilink") [Category:2011年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2011年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載月榜冠軍作品 "wikilink")

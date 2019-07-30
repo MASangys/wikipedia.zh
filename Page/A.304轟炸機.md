@@ -1,4 +1,4 @@
-**A.304**是一款1930年代的捷克[轟炸機](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")，於1937年首飛。此飛機是源於民用的[A.204飛機](../Page/A.204.md "wikilink")，因找不到買家才轉為軍用，並成功取得捷克空軍的訂單。此飛機亦有出口至[保加利亞](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")。
+**A.304**是一款1930年代的捷克[轟炸機](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")，於1937年首飛。此飛機是源於民用的[A.204](../Page/A.204.md "wikilink")飛機，因找不到買家才轉為軍用，並成功取得捷克空軍的訂單。此飛機亦有出口至[保加利亞](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")。
 
 ## 使用者
 
@@ -7,5 +7,4 @@
 
 ## 性能
 
-[Category:沃多喬迪航空飛機](https://zh.wikipedia.org/wiki/Category:沃多喬迪航空飛機 "wikilink")
-[Category:轟炸機](https://zh.wikipedia.org/wiki/Category:轟炸機 "wikilink")
+[Category:沃多喬迪航空飛機](https://zh.wikipedia.org/wiki/Category:沃多喬迪航空飛機 "wikilink") [Category:轟炸機](https://zh.wikipedia.org/wiki/Category:轟炸機 "wikilink")

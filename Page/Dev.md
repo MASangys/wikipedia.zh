@@ -1,8 +1,5 @@
-**戴文·史達·泰勒絲**（**Devin Star
-Tailes**，），以其艺名**Dev**出名，[美國歌手](https://zh.wikipedia.org/wiki/美國 "wikilink")，出生於美國[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")。她拥有[墨西哥与](../Page/墨西哥.md "wikilink")[葡萄牙的血统](../Page/葡萄牙.md "wikilink")。
-2010年，她發表個人第一張單曲《Booty Bounce》，是《Like a G6》的樣本。《Like a
-G6》曾於告示牌百強單曲榜中排名首位，及此Dev開始受人注目。其後發行第二首單曲《Bass
-Down Low》，其舞曲風格獲得不俗的評語。
+**戴文·史達·泰勒絲**（**Devin Star Tailes**，），以其艺名**Dev**出名，[美國歌手](https://zh.wikipedia.org/wiki/美國 "wikilink")，出生於美國[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")。她拥有[墨西哥](../Page/墨西哥.md "wikilink")与[葡萄牙](../Page/葡萄牙.md "wikilink")的血统。
+2010年，她發表個人第一張單曲《Booty Bounce》，是《Like a G6》的樣本。《Like a G6》曾於告示牌百強單曲榜中排名首位，及此Dev開始受人注目。其後發行第二首單曲《Bass Down Low》，其舞曲風格獲得不俗的評語。
 2011年8月31日，發行個人首張專輯，名為《The Night the Sun Came Up》。
 
 ## 傳記
@@ -12,25 +9,19 @@ Dev於四歲時接觸[游泳](../Page/游泳.md "wikilink")，並不斷練習，
 
 ### 2008年－2010年：意外收穫、尋覓自我
 
-2008年，Dev把自己創作的小作品上載到[MySpace網站](https://zh.wikipedia.org/wiki/MySpace "wikilink")，不久便被美國組合The
-Cataracs賞識而邀請她簽約。Dev決定以歌手為自己的事業，於2010年簽約[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
-同年8月，The Cataracs讓她錄製《Booty Bounce》，因她的獨特聲線而令The
-Cataracs想起念頭，就是將歌曲的其中一段與[遠東韻律的](../Page/遠東韻律.md "wikilink")《Like
-a G6》結合，結果大受歡迎，此曲成為世界的流行歌曲，及此令Dev的知名度大增。同年12月，發表單曲《Bass Down
-Low》，其電音風格亦吸引大眾。
+2008年，Dev把自己創作的小作品上載到[MySpace網站](https://zh.wikipedia.org/wiki/MySpace "wikilink")，不久便被美國組合The Cataracs賞識而邀請她簽約。Dev決定以歌手為自己的事業，於2010年簽約[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
+同年8月，The Cataracs讓她錄製《Booty Bounce》，因她的獨特聲線而令The Cataracs想起念頭，就是將歌曲的其中一段與[遠東韻律](../Page/遠東韻律.md "wikilink")的《Like a G6》結合，結果大受歡迎，此曲成為世界的流行歌曲，及此令Dev的知名度大增。同年12月，發表單曲《Bass Down Low》，其電音風格亦吸引大眾。
 
 ### 2011年至今：驚人成績、邁向成功
 
-兩首單曲均能引起熱潮，Dev便開始籌備個人首張專輯《The Night the Sun Came
-Up》，而專輯內另外三首單曲《Getaway》、《In The
-Dark》和《Shadows》都被她以清新及鄉村風味重新演繹\[2\]。
+兩首單曲均能引起熱潮，Dev便開始籌備個人首張專輯《The Night the Sun Came Up》，而專輯內另外三首單曲《Getaway》、《In The Dark》和《Shadows》都被她以清新及鄉村風味重新演繹\[2\]。
 影片上載到[Youtube網站後獲得好評](https://zh.wikipedia.org/wiki/Youtube "wikilink")，清脆悅耳的聲線亦獲得大眾支持和喜愛。專輯於2011年9月2日推出。
 
 ## 專輯
 
 ### 2011年8月31日：太陽升起的夜晚（The Night the Sun Came Up）
 
-專輯內的歌曲風格多元化，如[電子樂](https://zh.wikipedia.org/wiki/電子樂 "wikilink")、[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[嘻哈等等](../Page/嘻哈.md "wikilink")。
+專輯內的歌曲風格多元化，如[電子樂](https://zh.wikipedia.org/wiki/電子樂 "wikilink")、[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[嘻哈](../Page/嘻哈.md "wikilink")等等。
 當中收錄了她的第二首單曲《Bass Down Low》。
 
   - 專輯曲目：

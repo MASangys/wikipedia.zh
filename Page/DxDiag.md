@@ -1,12 +1,8 @@
-DxDiag（"[DirectX](../Page/DirectX.md "wikilink")
-Diagnostics"）是一個用作測試聲效卡和顯示卡的分析工具
+DxDiag（"[DirectX](../Page/DirectX.md "wikilink") Diagnostics"）是一個用作測試聲效卡和顯示卡的分析工具
 
 DxDiag可以把測試結果儲存為文字檔案。當使用者遇上硬件毛病或是硬件不相容等的問題時，使用者可以把這些文件張貼到討論區或電郵給相關維修人員以尋求幫忙
 
-DxDiag默認安裝在%SystemRoot%\\System32\[1\]。在[Windows
-Vista和](../Page/Windows_Vista.md "wikilink")[Windows
-7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink"),
-DxDiag只可顯示資訊，不可用於測試硬件和部份DirectX元件。\[2\]
+DxDiag默認安裝在%SystemRoot%\\System32\[1\]。在[Windows Vista和](../Page/Windows_Vista.md "wikilink")[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink"), DxDiag只可顯示資訊，不可用於測試硬件和部份DirectX元件。\[2\]
 
 ## 功能
 
@@ -15,5 +11,4 @@ DxDiag只可顯示資訊，不可用於測試硬件和部份DirectX元件。\[2\
 ## 外部連結
 
 1.
-2.  [XNA Framework
-    Goals](http://blogs.msdn.com/al_msft/archive/2006/03/20/555065.aspx)
+2.  [XNA Framework Goals](http://blogs.msdn.com/al_msft/archive/2006/03/20/555065.aspx)

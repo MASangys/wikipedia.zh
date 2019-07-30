@@ -1,11 +1,8 @@
-**DiVA**（）是由[FLAVE
-ENTERTAINMENT所屬的](https://zh.wikipedia.org/wiki/office48 "wikilink")[AKB48成員選拔組成的一個日本女子組合](../Page/AKB48.md "wikilink")。
+**DiVA**（）是由[FLAVE ENTERTAINMENT所屬的](https://zh.wikipedia.org/wiki/office48 "wikilink")[AKB48](../Page/AKB48.md "wikilink")成員選拔組成的一個日本女子組合。
 
 ## 概要
 
-DiVA是繼「[Chocolove from
-AKB48](../Page/Chocolove_from_AKB48.md "wikilink")」之後第二隊由經紀公司office48所屬的AKB48衍生團體，組合定義爲「AKB48首個Dance
-& Vocal的組合。」
+DiVA是繼「[Chocolove from AKB48](../Page/Chocolove_from_AKB48.md "wikilink")」之後第二隊由經紀公司office48所屬的AKB48衍生團體，組合定義爲「AKB48首個Dance & Vocal的組合。」
 
 ## 經歷
 
@@ -15,10 +12,8 @@ AKB48](../Page/Chocolove_from_AKB48.md "wikilink")」之後第二隊由經紀公
 
   - 1月10日，宣布將會組成有秋元才加、宮澤佐江加入的組合\[1\]。
   - 2月27日，於AKB48 Team 研究生公演中，宣布了組成新組合的消息\[2\]。
-  - 原訂於3月28日出演的《[MUSIC
-    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》由於[日本東北地方地震而取消](https://zh.wikipedia.org/wiki/2011年日本东北地方太平洋近海地震 "wikilink")。
-  - 4月16日，出席在[中國](../Page/中國.md "wikilink")[上海舉行的KOBE](https://zh.wikipedia.org/wiki/上海 "wikilink")
-    COLLECTION神戶時尚展\[3\]。
+  - 原訂於3月28日出演的《[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》由於[日本東北地方地震而取消](https://zh.wikipedia.org/wiki/2011年日本东北地方太平洋近海地震 "wikilink")。
+  - 4月16日，出席在[中國](../Page/中國.md "wikilink")[上海舉行的KOBE](https://zh.wikipedia.org/wiki/上海 "wikilink") COLLECTION神戶時尚展\[3\]。
   - 4月20日，在初單發表會宣布了組合追加6人（變爲10人組）的消息\[4\]。
   - 5月18日，發行首張單曲出道，原定4月27日，由於地震原因變更\[5\]。
   - 8月10日，第2張單曲《[Cry](../Page/Cry.md "wikilink")》發售。
@@ -31,8 +26,7 @@ AKB48](../Page/Chocolove_from_AKB48.md "wikilink")」之後第二隊由經紀公
 <!-- end list -->
 
   - 1月25日，「NANTA」日本公演應援團官方應援歌曲決定\[6\]。
-  - 3月21日，第3張單曲《[Lost the
-    way](../Page/Lost_the_way.md "wikilink")》發售。而且，DiVA的追加成員的官方部落格開始啟用\[7\]。
+  - 3月21日，第3張單曲《[Lost the way](../Page/Lost_the_way.md "wikilink")》發售。而且，DiVA的追加成員的官方部落格開始啟用\[7\]。
 
 <!-- end list -->
 
@@ -48,11 +42,11 @@ AKB48](../Page/Chocolove_from_AKB48.md "wikilink")」之後第二隊由經紀公
 
 <!-- end list -->
 
-  - 8月14日，在廣播節目「」上宣布將於10月8日發行由[小室哲哉製作的全新單曲](../Page/小室哲哉.md "wikilink")，而増田有華也將回歸，此外並將於年底前發行首張專輯並舉辦最後的LIVE演唱會後正式解散\[10\]\[11\]。
+  - 8月14日，在廣播節目「」上宣布將於10月8日發行由[小室哲哉](../Page/小室哲哉.md "wikilink")製作的全新單曲，而増田有華也將回歸，此外並將於年底前發行首張專輯並舉辦最後的LIVE演唱會後正式解散\[10\]\[11\]。
 
 <!-- end list -->
 
-  - 11月30日，於[幕張展覽館舉辦解散演唱會](../Page/幕張展覽館.md "wikilink")，組合活動正式畫下句點\[12\]。
+  - 11月30日，於[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉辦解散演唱會，組合活動正式畫下句點\[12\]。
 
 ## 成員
 
@@ -108,10 +102,7 @@ AKB48](../Page/Chocolove_from_AKB48.md "wikilink")」之後第二隊由經紀公
 </tbody>
 </table>
 
-  - 團體結成之時四人皆屬於AKB48，之後増田有華於2012年12月17日畢業並退出DiVA\[13\]，之後在2014年8月14日宣布回歸團體參與最後的作品\[14\]，秋元才加則於2013年8月28日AKB48中畢業\[15\]，梅田彩佳現已移籍至NMB48
-    Team
-    BII，而宮澤佐江則移籍至[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")
-    Team SII並兼任[SKE48](../Page/SKE48.md "wikilink") Team S隊長\[16\]。
+  - 團體結成之時四人皆屬於AKB48，之後増田有華於2012年12月17日畢業並退出DiVA\[13\]，之後在2014年8月14日宣布回歸團體參與最後的作品\[14\]，秋元才加則於2013年8月28日AKB48中畢業\[15\]，梅田彩佳現已移籍至NMB48 Team BII，而宮澤佐江則移籍至[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Team SII並兼任[SKE48](../Page/SKE48.md "wikilink") Team S隊長\[16\]。
 
 **追加成員**
 
@@ -386,7 +377,7 @@ CM：專門学校山形V.學院</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>《Lost the way》</strong></p></td>
-<td><p><a href="../Page/松竹.md" title="wikilink">松竹配給電影</a>：《<a href="https://zh.wikipedia.org/wiki/奧特曼傳奇" title="wikilink">奧特曼傳奇</a>》主題曲</p></td>
+<td><p><a href="../Page/松竹.md" title="wikilink">松竹</a>配給電影：《<a href="https://zh.wikipedia.org/wiki/奧特曼傳奇" title="wikilink">奧特曼傳奇</a>》主題曲</p></td>
 <td><p>第3張單曲《<a href="../Page/Lost_the_way.md" title="wikilink">Lost the way</a>》</p></td>
 </tr>
 <tr class="odd">
@@ -403,11 +394,9 @@ CM：專門学校山形V.學院</p></td>
 
   - （2011年4月29日、5月6日，[MBS電視台](../Page/MBS电视台.md "wikilink")）
 
-  - [MUSIC
-    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2011年5月8日，[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")）
+  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2011年5月8日，[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")）
 
-  - [Coming
-    Soon\!\!](../Page/Coming_Soon!!.md "wikilink")（2011年5月16日，[TBS](../Page/TBS.md "wikilink")）
+  - [Coming Soon\!\!](../Page/Coming_Soon!!.md "wikilink")（2011年5月16日，[TBS](../Page/TBS.md "wikilink")）
 
 ### 廣播
 
@@ -421,8 +410,7 @@ CM：專門学校山形V.學院</p></td>
 
   - （神戶時尚展）2011上海（2011年4月16日、上海浦東展覧館）
 
-  - [a-nation 10th Anniversary for Life Charge ▶ Go\!
-    ウイダーinゼリー](https://zh.wikipedia.org/wiki/a-nation "wikilink")（2011年8月6日、[福岡市](../Page/福岡市.md "wikilink")・[海之中道海濱公園野外劇場](../Page/海之中道海濱公園.md "wikilink")）
+  - [a-nation 10th Anniversary for Life Charge ▶ Go\! ウイダーinゼリー](https://zh.wikipedia.org/wiki/a-nation "wikilink")（2011年8月6日、[福岡市](../Page/福岡市.md "wikilink")・[海之中道海濱公園](../Page/海之中道海濱公園.md "wikilink")野外劇場）
 
 ## 注釋
 
@@ -435,12 +423,7 @@ CM：專門学校山形V.學院</p></td>
 
   - [DiVA官方網站](http://avex.jp/diva/)
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
 
 1.  節目《》播出日期：2011年3月10日
 

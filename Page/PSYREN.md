@@ -4,13 +4,9 @@
 
 ## 概要及故事
 
-有天回家途中，揚羽發現一個正在鳴響的公用電話。 他拿起聽筒，沒有人回應，但他看見了一張電話卡，卡上寫著「PSYREN」。
-雨宮櫻子，揚羽的同班同學，有天突然失蹤了。由於她失蹤前曾經提及PSYREN，於是揚羽便希望用那張電話卡尋找她。
-回答完一個祥盡的問卷調查後，揚羽被問及想去PSYREN世界與否。 第二天，揚羽接聽了一個電話後便到達了PSYREN世界。
-那裡居住了很多稱為禁忌人種的怪物。 要在那裡生存，人們必須利用PSI力量進行戰鬥。
+有天回家途中，揚羽發現一個正在鳴響的公用電話。 他拿起聽筒，沒有人回應，但他看見了一張電話卡，卡上寫著「PSYREN」。 雨宮櫻子，揚羽的同班同學，有天突然失蹤了。由於她失蹤前曾經提及PSYREN，於是揚羽便希望用那張電話卡尋找她。 回答完一個祥盡的問卷調查後，揚羽被問及想去PSYREN世界與否。 第二天，揚羽接聽了一個電話後便到達了PSYREN世界。 那裡居住了很多稱為禁忌人種的怪物。 要在那裡生存，人們必須利用PSI力量進行戰鬥。
 
-經過多次到PSYREN世界的旅行，揚羽一行知道了PSYREN世界事實上是十年後的世界。
-並知道了世界被毀滅的原因是W.I.S.E組織與一顆流星(烏諾伯諾斯)。
+經過多次到PSYREN世界的旅行，揚羽一行知道了PSYREN世界事實上是十年後的世界。 並知道了世界被毀滅的原因是W.I.S.E組織與一顆流星(烏諾伯諾斯)。
 
 ## 世界觀
 
@@ -354,11 +350,4 @@ PSI能力的覺醒者，其五感、體能，都可以突飛猛進。肌肉力�
 
   - [《PSYREN》集英社VOMIC内介紹頁](https://web.archive.org/web/20100210231723/http://vomic.shueisha.co.jp/psyren/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:集英社](https://zh.wikipedia.org/wiki/Category:集英社 "wikilink")
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:時間旅行題材作品](https://zh.wikipedia.org/wiki/Category:時間旅行題材作品 "wikilink")
-[Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink")
-[Category:祕密結社題材作品](https://zh.wikipedia.org/wiki/Category:祕密結社題材作品 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:集英社](https://zh.wikipedia.org/wiki/Category:集英社 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:時間旅行題材作品](https://zh.wikipedia.org/wiki/Category:時間旅行題材作品 "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:祕密結社題材作品](https://zh.wikipedia.org/wiki/Category:祕密結社題材作品 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink")

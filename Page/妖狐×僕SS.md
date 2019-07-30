@@ -1,6 +1,4 @@
-是[藤原可可亞的漫畫作品](../Page/藤原可可亞.md "wikilink")。\[1\]於[史克威爾艾尼克斯的漫畫雜誌](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")《[月刊GANGAN
-JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》2009年5月號（創刊號）起連載至2014年3月號。\[2\]\[3\]截至2011年7月，[單行本發行量累計](https://zh.wikipedia.org/wiki/單行本 "wikilink")100萬冊\[4\]。《月刊GANGAN
-JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播放。\[6\]
+是[藤原可可亞](../Page/藤原可可亞.md "wikilink")的漫畫作品。\[1\]於[史克威爾艾尼克斯的漫畫雜誌](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")《[月刊GANGAN JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》2009年5月號（創刊號）起連載至2014年3月號。\[2\]\[3\]截至2011年7月，[單行本發行量累計](https://zh.wikipedia.org/wiki/單行本 "wikilink")100萬冊\[4\]。《月刊GANGAN JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播放。\[6\]
 
 ## 故事簡介
 
@@ -47,7 +45,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 <!-- end list -->
 
   -
-    有[九尾狐的血統](../Page/九尾狐.md "wikilink")。
+    有[九尾狐](../Page/九尾狐.md "wikilink")的血統。
     4號室的專屬SS。生日12月19日。故事開始時為21歲。血型為AB型。身高為186公分。日語版中第一人稱為「」。有潔癖。
     銀髮異瞳，右眼為藍綠色；左眼則是琥珀色。私下時都會帶著眼鏡。家裡產業為製藥公司，進行醫療器械的研究、開發和製造。
     房間內貼滿了大量的凜凜蝶的照片，據雙熾本人言，與凜凜蝶通信後便開始收集凜凜蝶的相片（實際上是偷拍）。
@@ -78,7 +76,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 <!-- end list -->
 
   -
-    有[豆狸的血統](../Page/豆狸.md "wikilink")。和歌留多是青梅竹馬。喜歡歌留多。
+    有[豆狸](../Page/豆狸.md "wikilink")的血統。和歌留多是青梅竹馬。喜歡歌留多。
     1號室的入住者。生日10月10日。故事開始時為15歲。血型為O型。身高為165公分。時常說自己是不良少年。
     在小時候就認識了雙熾，在過去經常被蜻蛉玩弄著。被蜻蛉當作狗溜過，還被取做「拉斯卡爾」。十分害怕蜻蛉。
     返祖現象的模樣，是一隻十分嬌小可愛的狸貓。戰鬥力十分低下。
@@ -91,7 +89,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 <!-- end list -->
 
   -
-    有[一反木綿的血統](../Page/一反木綿.md "wikilink")。
+    有[一反木綿](../Page/一反木綿.md "wikilink")的血統。
     3號室的入住者。生日6月14日。故事開始時為17歲。血型為O型。身高為180公分。
     茶色頭髮，左邊臉部有刺青。家裡經營金融系相關的產業，常有很多外貌可怕的人出入。
     和凜凜蝶是鄰居兼青梅竹馬的關係，知道不少凜凜蝶小時候的事情。
@@ -103,7 +101,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 <!-- end list -->
 
   -
-    有[雪女的血統](../Page/雪女.md "wikilink")。
+    有[雪女](../Page/雪女.md "wikilink")的血統。
     3號室的專屬SS。生日1月6日。故事開始時為21歲。血型為AB型。身高為168公分（穿[高跟鞋](../Page/高跟鞋.md "wikilink")）。
     雙熾評其為「真是個坦率到無比清爽的人。」。
     非常喜歡美少女，但討厭男生。口頭禪為“maniac！”。
@@ -140,7 +138,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 <!-- end list -->
 
   -
-    有[克魯波克魯的血統](../Page/克魯波克魯.md "wikilink")，第一章是館裡的女僕。巨乳。不知為何能看出貓月先生的心情。
+    有[克魯波克魯](../Page/克魯波克魯.md "wikilink")的血統，第一章是館裡的女僕。巨乳。不知為何能看出貓月先生的心情。
     23年後（第二章）成了妖館的住戶，並成了凜凜蝶的好友。
     天然呆到令人傻眼的地步，講話經常說到當事人的痛處但本身沒有惡意。
 
@@ -153,7 +151,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 ### 妖館相關人員
 
   -
-    有[座敷童子的血統](../Page/座敷童子.md "wikilink")，男扮女裝。是館裡的女僕。是個富有豐富學識的人。時常被小人村稱讚為「不愧是博學的人妖」。
+    有[座敷童子](../Page/座敷童子.md "wikilink")的血統，男扮女裝。是館裡的女僕。是個富有豐富學識的人。時常被小人村稱讚為「不愧是博學的人妖」。
 
 <!-- end list -->
 
@@ -163,7 +161,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 <!-- end list -->
 
   -
-    有[河童的血統](../Page/河童.md "wikilink")。是館裡的廚師。
+    有[河童](../Page/河童.md "wikilink")的血統。是館裡的廚師。
     似乎非常嚮往古早電影中某些酒保的孤傲與浪漫因而常常被兒子吐槽。
 
 <!-- end list -->
@@ -179,7 +177,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 <!-- end list -->
 
   -
-    有[八岐大蛇的血統](../Page/八岐大蛇.md "wikilink")。館裡的女僕（其實是個男的），是個非常不幸的人但個性開朗。
+    有[八岐大蛇](../Page/八岐大蛇.md "wikilink")的血統。館裡的女僕（其實是個男的），是個非常不幸的人但個性開朗。
 
 ### 其他
 
@@ -192,8 +190,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
     妖館的創立人，返祖人的代表人物，返祖為能夠看人心的妖怪「覺」，擁有強大的能力能夠看透人的所有事情，因為在外面容易讀取別人心思造成資訊爆炸，因此通常都足不出戶。
     23年後（第二章）以少女的姿態轉世，能力仍然一樣強大。
     實際上為23年前百鬼夜行的幕後主使者。根據御狐神夫人以及蜻蛉所言，有不少死去的返祖妖怪們被送到思紋家中後，思紋除了會記錄此返祖妖怪的資料以外，還會「窺視」此返祖妖怪的一生當成故事來品味。
-    這是由於思紋因為無法外出的關係，變得相當渴望自由以及想要知道外界的生活，而思紋也在記錄的過程中喜歡上了「看」其他返祖妖怪的一生
-    。因為思紋的變態欲望，而導致有不少返祖妖怪以奇怪的原因死去，好讓思紋能欣賞此返祖妖怪的「故事」。
+    這是由於思紋因為無法外出的關係，變得相當渴望自由以及想要知道外界的生活，而思紋也在記錄的過程中喜歡上了「看」其他返祖妖怪的一生 。因為思紋的變態欲望，而導致有不少返祖妖怪以奇怪的原因死去，好讓思紋能欣賞此返祖妖怪的「故事」。
     與命有著特殊的關係，指使其發起百鬼夜行。
     第二章尾聲時從跟命的談話可以得知她已經不願命再次為她進行百鬼夜行。
     48話時透過讀取已經死亡的命的記憶，知曉了命對她的感情與兩人最初的相遇。
@@ -321,9 +318,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 
 ### 製作人員
 
-  - 原作：[藤原可可亞](../Page/藤原可可亞.md "wikilink")（月刊『GANGAN
-    JOKER』[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")
-    刊）\[10\]
+  - 原作：[藤原可可亞](../Page/藤原可可亞.md "wikilink")（月刊『GANGAN JOKER』[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink") 刊）\[10\]
   - 監督：津田尚克
   - 系列構成、劇本：根元歲三
   - 劇情、設定監修：[佐藤卓哉](../Page/佐藤卓哉.md "wikilink")
@@ -338,10 +333,8 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
   - 音響監督：飯田-{里}-樹
   - 音樂：[中川幸太郎](../Page/中川幸太郎.md "wikilink")
   - 製作人：齋藤俊輔、古川慎、梶田浩司、木村康貴、、前田俊博
-  - 動畫製作：[david
-    production](https://zh.wikipedia.org/wiki/david_production "wikilink")
-  - 製作：[「妖狐×僕SS」製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[Aniplex](../Page/Aniplex.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、david
-    production、史克威爾艾尼克斯、[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")）、[MBS](https://zh.wikipedia.org/wiki/MBS "wikilink")
+  - 動畫製作：[david production](https://zh.wikipedia.org/wiki/david_production "wikilink")
+  - 製作：[「妖狐×僕SS」製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[Aniplex](../Page/Aniplex.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、david production、史克威爾艾尼克斯、[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")）、[MBS](https://zh.wikipedia.org/wiki/MBS "wikilink")
 
 ### 主題曲
 
@@ -360,28 +353,23 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 
 :; 「Photograph」（第2話、第9話）
 
-::
-作詞：[藤原可可亞](../Page/藤原可可亞.md "wikilink")，作曲：CHI-MEY，編曲：大久保友裕、CHI-MEY，歌：御狐神雙熾（[中村悠一](../Page/中村悠一.md "wikilink")）
+:: 作詞：[藤原可可亞](../Page/藤原可可亞.md "wikilink")，作曲：CHI-MEY，編曲：大久保友裕、CHI-MEY，歌：御狐神雙熾（[中村悠一](../Page/中村悠一.md "wikilink")）
 
 :; 「」（第3話、第8話）　
 
-::
-作詞：藤原可可亞，作曲：CHI-MEY，編曲：大久保友裕、CHI-MEY，歌：白鬼院凜凜蝶（[日高里菜](../Page/日高里菜.md "wikilink")）
+:: 作詞：藤原可可亞，作曲：CHI-MEY，編曲：大久保友裕、CHI-MEY，歌：白鬼院凜凜蝶（[日高里菜](../Page/日高里菜.md "wikilink")）
 
 :; 「one way」（第4話）　
 
-::
-作詞：藤原可可亞，作曲：CHI-MEY，編曲：大久保友裕、CHI-MEY，歌：渡狸卍里（[江口拓也](../Page/江口拓也.md "wikilink")）、夏目殘夏（[宮野真守](../Page/宮野真守.md "wikilink")）
+:: 作詞：藤原可可亞，作曲：CHI-MEY，編曲：大久保友裕、CHI-MEY，歌：渡狸卍里（[江口拓也](../Page/江口拓也.md "wikilink")）、夏目殘夏（[宮野真守](../Page/宮野真守.md "wikilink")）
 
 :; 「SM」（第5話、第10話）
 
-::
-作詞：takumi，作曲：CHI-MEY，編曲：大久保友裕、CHI-MEY，歌：青鬼院蜻蛉（[杉田智和](../Page/杉田智和.md "wikilink")）
+:: 作詞：takumi，作曲：CHI-MEY，編曲：大久保友裕、CHI-MEY，歌：青鬼院蜻蛉（[杉田智和](../Page/杉田智和.md "wikilink")）
 
 :; 「sweets parade」（第6話）
 
-::
-作詞：uRy，作曲：CHI-MEY，編曲：大久保友裕、CHI-MEY，歌：髏髏宮加留多（[花澤香菜](../Page/花澤香菜.md "wikilink")）
+:: 作詞：uRy，作曲：CHI-MEY，編曲：大久保友裕、CHI-MEY，歌：髏髏宮加留多（[花澤香菜](../Page/花澤香菜.md "wikilink")）
 
 :; 「」（第7話）
 
@@ -631,7 +619,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 <td><p>2013年4月4日</p></td>
 <td><p>星期四 25時35分－26時05分</p></td>
 <td><p><strong>制作局</strong><br />
-<a href="../Page/Animeism.md" title="wikilink">Animeism第</a>1部</p></td>
+<a href="../Page/Animeism.md" title="wikilink">Animeism</a>第1部</p></td>
 </tr>
 <tr class="odd">
 <td><p>關東廣域圈</p></td>
@@ -669,8 +657,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
   - 主題 - 『**電台・Do・章樫**』
   - 配信網站 - アニメイトTV
   - 配信日期 - 2012年2月24日 - 2012年5月31日（月2回、不定期更新）
-  - 角色 -
-    [日高里菜](../Page/日高里菜.md "wikilink")&[中村悠一](../Page/中村悠一.md "wikilink")、[細谷佳正](../Page/細谷佳正.md "wikilink")&[日笠陽子](../Page/日笠陽子.md "wikilink")、[杉田智和](../Page/杉田智和.md "wikilink")&[花澤香菜](../Page/花澤香菜.md "wikilink")、[江口拓也](../Page/江口拓也.md "wikilink")&[宮野真守](../Page/宮野真守.md "wikilink")（4組的轉換）
+  - 角色 - [日高里菜](../Page/日高里菜.md "wikilink")&[中村悠一](../Page/中村悠一.md "wikilink")、[細谷佳正](../Page/細谷佳正.md "wikilink")&[日笠陽子](../Page/日笠陽子.md "wikilink")、[杉田智和](../Page/杉田智和.md "wikilink")&[花澤香菜](../Page/花澤香菜.md "wikilink")、[江口拓也](../Page/江口拓也.md "wikilink")&[宮野真守](../Page/宮野真守.md "wikilink")（4組的轉換）
       - 第0回 - 日高里菜（白鬼院凜凜蝶 役）（2012年1月11日於『**いぬぼく電台（暫）**』的主題配信）
       - 第1回 - 日高里菜（白鬼院凜凜蝶 役） & 中村悠一（御狐神双熾 役）
       - 第2回 - 細谷佳正（反之塚連勝 役） & 日笠陽子（雪小路野薔薇 役）
@@ -682,24 +669,13 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 
 ## 外部連結
 
-  - [妖狐×僕SS - 連載作品 - GANGAN JOKER -SQUARE
-    ENIX-](http://www.square-enix.com/jp/magazine/joker/series/inuboku/index.html)
-
+  - [妖狐×僕SS - 連載作品 - GANGAN JOKER -SQUARE ENIX-](http://www.square-enix.com/jp/magazine/joker/series/inuboku/index.html)
 
   - [電視動畫官方網站](http://www.inuboku.tv/)
 
   -
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:2012年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年TBS電視網動畫 "wikilink")
-[Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink")
-[Category:妖怪題材作品](https://zh.wikipedia.org/wiki/Category:妖怪題材作品 "wikilink")
-[Category:妖狐題材作品](https://zh.wikipedia.org/wiki/Category:妖狐題材作品 "wikilink")
-[Category:公寓背景作品](https://zh.wikipedia.org/wiki/Category:公寓背景作品 "wikilink")
-[Category:变身女主角](https://zh.wikipedia.org/wiki/Category:变身女主角 "wikilink")
-[Category:David_Production](https://zh.wikipedia.org/wiki/Category:David_Production "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:2012年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年TBS電視網動畫 "wikilink") [Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink") [Category:妖怪題材作品](https://zh.wikipedia.org/wiki/Category:妖怪題材作品 "wikilink") [Category:妖狐題材作品](https://zh.wikipedia.org/wiki/Category:妖狐題材作品 "wikilink") [Category:公寓背景作品](https://zh.wikipedia.org/wiki/Category:公寓背景作品 "wikilink") [Category:变身女主角](https://zh.wikipedia.org/wiki/Category:变身女主角 "wikilink") [Category:David_Production](https://zh.wikipedia.org/wiki/Category:David_Production "wikilink")
 
 1.
 

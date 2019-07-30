@@ -1,5 +1,4 @@
-**Sky High
-Entertainment**是一家在美國註冊的日本[成人影片制造商](https://zh.wikipedia.org/wiki/成人影片制造商 "wikilink")，该公司作品均为[无码影片](https://zh.wikipedia.org/wiki/无码影片 "wikilink")。
+**Sky High Entertainment**是一家在美國註冊的日本[成人影片制造商](https://zh.wikipedia.org/wiki/成人影片制造商 "wikilink")，该公司作品均为[无码影片](https://zh.wikipedia.org/wiki/无码影片 "wikilink")。
 
 ## 作[品列表](../Page/品质.md "wikilink")
 
@@ -1471,8 +1470,7 @@ SKY-013 Cool Mint 葵みんと
 
 ### 好色妻降臨
 
-作品日文：好色妻降臨，和製英語：Obsence Wife Advent（第十一集以前原名Dirty-Minded Wife Advent）。
-是以[痴女與](https://zh.wikipedia.org/wiki/痴女 "wikilink")[人妻為主題的系列作品](../Page/人妻.md "wikilink")。
+作品日文：好色妻降臨，和製英語：Obsence Wife Advent（第十一集以前原名Dirty-Minded Wife Advent）。  是以[痴女與](https://zh.wikipedia.org/wiki/痴女 "wikilink")[人妻](../Page/人妻.md "wikilink")為主題的系列作品。
 
 | 光碟编号    | 标题      | 女优名                                                     |                    | 发行日期       |
 | ------- | ------- | ------------------------------------------------------- | ------------------ | ---------- |
@@ -1573,8 +1571,7 @@ SKY-013 Cool Mint 葵みんと
 
 ### Sky Angel Blue
 
-作品日文：（和製英語：Sky Angel Blue）是將Sky
-Angel系列中人氣較高之作品挑出，發行超高畫質[藍光光碟版本](../Page/藍光光碟.md "wikilink")（並無多出新片段）。
+作品日文：（和製英語：Sky Angel Blue）是將Sky Angel系列中人氣較高之作品挑出，發行超高畫質[藍光光碟](../Page/藍光光碟.md "wikilink")版本（並無多出新片段）。
 
 | 光碟编号      | 标题                     | 女优名                                                                                      |                                                                                 | 发行日期       |
 | --------- | ---------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------- |
@@ -1727,8 +1724,7 @@ Angel系列中人氣較高之作品挑出，發行超高畫質[藍光光碟版�
   - [REDHOT Collection作品列表](../Page/REDHOT_Collection作品列表.md "wikilink")
   - [CATWALK Entertainment](../Page/CATWALK_Entertainment.md "wikilink")
   - [MUGEN Entertainment](../Page/MUGEN_Entertainment.md "wikilink")
-  - [Super Model
-    Medial作品列表](../Page/Super_Model_Medial作品列表.md "wikilink")
+  - [Super Model Medial作品列表](../Page/Super_Model_Medial作品列表.md "wikilink")
   - [Japorn](../Page/Japorn.md "wikilink")
   - [AV女優列表](https://zh.wikipedia.org/wiki/AV女優列表 "wikilink")
   - 资料党整理不易，还请编辑时手下留情！
@@ -1742,9 +1738,6 @@ Angel系列中人氣較高之作品挑出，發行超高畫質[藍光光碟版�
 
 ## 外部連結
 
-  - [Sky High
-    Ent.官方網站](https://web.archive.org/web/20150327061008/http://skyhighpremium.com/)
+  - [Sky High Ent.官方網站](https://web.archive.org/web/20150327061008/http://skyhighpremium.com/)
 
-[Category:日本色情片](https://zh.wikipedia.org/wiki/Category:日本色情片 "wikilink")
-[Category:日本色情片公司](https://zh.wikipedia.org/wiki/Category:日本色情片公司 "wikilink")
-[Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")
+[Category:日本色情片](https://zh.wikipedia.org/wiki/Category:日本色情片 "wikilink") [Category:日本色情片公司](https://zh.wikipedia.org/wiki/Category:日本色情片公司 "wikilink") [Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")

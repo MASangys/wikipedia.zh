@@ -1,5 +1,4 @@
-《**Midas**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS自](https://zh.wikipedia.org/wiki/SBS_\(韩国\) "wikilink")2011年2月22日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")。由《[All
-In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\(電視劇\).md "wikilink")》[崔完圭作家執筆](../Page/崔完圭.md "wikilink")，《[老千](../Page/老千_\(電視劇\).md "wikilink")》[姜信孝導演和](https://zh.wikipedia.org/wiki/姜信孝 "wikilink")《[Giant](../Page/巨人_\(韓國電視劇\).md "wikilink")》[李昌民導演共同執導](../Page/李昌民.md "wikilink")。故事講述人們因為各自的理由陷入了錢、成功、野心的追逐中，通過對這些人的故事呈現出了冷酷的現實。
+《**Midas**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS自](https://zh.wikipedia.org/wiki/SBS_\(韩国\) "wikilink")2011年2月22日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")。由《[All In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\(電視劇\).md "wikilink")》[崔完圭](../Page/崔完圭.md "wikilink")作家執筆，《[老千](../Page/老千_\(電視劇\).md "wikilink")》[姜信孝導演和](https://zh.wikipedia.org/wiki/姜信孝 "wikilink")《[Giant](../Page/巨人_\(韓國電視劇\).md "wikilink")》[李昌民](../Page/李昌民.md "wikilink")導演共同執導。故事講述人們因為各自的理由陷入了錢、成功、野心的追逐中，通過對這些人的故事呈現出了冷酷的現實。
 
 ## 劇名由來
 
@@ -9,8 +8,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 ### 主要角色
 
-  - [張赫](https://zh.wikipedia.org/wiki/张赫_\(韩国\) "wikilink") 飾
-    金道現（幼年：[蔡相宇](../Page/蔡相宇.md "wikilink")）<SMALL>（出生日期：1981.4.13\[1\]）</SMALL>
+  - [張赫](https://zh.wikipedia.org/wiki/张赫_\(韩国\) "wikilink") 飾 金道現（幼年：[蔡相宇](../Page/蔡相宇.md "wikilink")）<SMALL>（出生日期：1981.4.13\[1\]）</SMALL>
 
 <!-- end list -->
 
@@ -19,14 +17,12 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [金喜爱](https://zh.wikipedia.org/wiki/金喜爱 "wikilink") 飾
-    劉仁惠<small>（出生日期：1970.7.30）</small>
+  - [金喜爱](https://zh.wikipedia.org/wiki/金喜爱 "wikilink") 飾 劉仁惠<small>（出生日期：1970.7.30）</small>
 
 <!-- end list -->
 
   -
-    仁真集團長女，Lone
-    Asia代表。透過辦公室的數十台電腦，可以掌控全球經濟動向，手下有被稱作「圓桌騎士」（營運龐大[對沖基金的成員](https://zh.wikipedia.org/wiki/對沖基金 "wikilink")）的五名秘書。沒有結婚，也沒有特別的戀愛經歷，有著特別的人生是深受父親影響，從小她對父親是既恨又敬仰。
+    仁真集團長女，Lone Asia代表。透過辦公室的數十台電腦，可以掌控全球經濟動向，手下有被稱作「圓桌騎士」（營運龐大[對沖基金的成員](https://zh.wikipedia.org/wiki/對沖基金 "wikilink")）的五名秘書。沒有結婚，也沒有特別的戀愛經歷，有著特別的人生是深受父親影響，從小她對父親是既恨又敬仰。
 
 <!-- end list -->
 
@@ -92,8 +88,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [崔政宇](../Page/崔政宇.md "wikilink") 飾
-    劉基峻<small>（出生日期：1962.11.3）</small>
+  - [崔政宇](../Page/崔政宇.md "wikilink") 飾 劉基峻<small>（出生日期：1962.11.3）</small>
 
 <!-- end list -->
 
@@ -102,8 +97,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [尹帝文](../Page/尹帝文.md "wikilink") 飾
-    劉成峻<small>（出生日期：1965.5.21）</small>
+  - [尹帝文](../Page/尹帝文.md "wikilink") 飾 劉成峻<small>（出生日期：1965.5.21）</small>
 
 <!-- end list -->
 
@@ -121,8 +115,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [魯敏宇](https://zh.wikipedia.org/wiki/魯敏宇 "wikilink") 飾
-    劉明峻<small>（出生日期：1980）</small>
+  - [魯敏宇](https://zh.wikipedia.org/wiki/魯敏宇 "wikilink") 飾 劉明峻<small>（出生日期：1980）</small>
 
 <!-- end list -->
 
@@ -438,8 +431,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 ## 同期競爭作品
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")：《[Dream
-    High](https://zh.wikipedia.org/wiki/Dream_High "wikilink")》、《[強力班](../Page/重案組_\(韓國電視劇\).md "wikilink")》、《[童顏美女](../Page/童顏美女.md "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink")：《[Dream High](https://zh.wikipedia.org/wiki/Dream_High "wikilink")》、《[強力班](../Page/重案組_\(韓國電視劇\).md "wikilink")》、《[童顏美女](../Page/童顏美女.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[夥伴](../Page/夥伴_\(韓國電視劇\).md "wikilink")》
 
 ## 脚注
@@ -450,11 +442,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
   - [香港有線電視](http://epg.i-cable.com/new/ent/midas.php)
   - [臺灣東森](http://blog.ebc.net.tw/apps/midas/Index.aspx)
 
-[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink")
-[Category:經濟電視劇](https://zh.wikipedia.org/wiki/Category:經濟電視劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
-[Category:律師主角題材作品](https://zh.wikipedia.org/wiki/Category:律師主角題材作品 "wikilink")
+[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink") [Category:經濟電視劇](https://zh.wikipedia.org/wiki/Category:經濟電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink") [Category:律師主角題材作品](https://zh.wikipedia.org/wiki/Category:律師主角題材作品 "wikilink")
 
 1.  劇中履歷表上所寫
 2.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)

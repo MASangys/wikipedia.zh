@@ -3,11 +3,9 @@
 ## 簡介
 
   - 與AKB48、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")等姐妹團體相同，所有歌曲填詞皆由[AKB48集團](../Page/AKB48集團.md "wikilink")總製作人秋元康一手包辦。團體的經營與AKB48同樣由[AKS](../Page/AKS.md "wikilink")負責。
-  - 固定於[星期六](../Page/星期六.md "wikilink")晚上進行公演，因此取其中的三個英文字
-    **S**atur**D**ay **N**ight 而成為團體名字。
+  - 固定於[星期六](../Page/星期六.md "wikilink")晚上進行公演，因此取其中的三個英文字 **S**atur**D**ay **N**ight 而成為團體名字。
   - 由於當初公演為下午8時30分開演（最初規劃為下午10時），公演結束時間將會超過下午10時，與青少年保護育成條例牴觸，加上公演內容不適合青少年觀賞，因此未滿18歲及所有高中生，不得觀賞公演。不過自2009年12月起，19時開演的公演，滿18歲的高中生將准許觀賞。出道之後也會在星期六日間、假日等其他時間舉行公演。
-  - 2012年3月31日在[NHK音樂廳舉行](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")
-    「」後，現行成員全部畢業\[2\]。
+  - 2012年3月31日在[NHK音樂廳舉行](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink") 「」後，現行成員全部畢業\[2\]。
 
 ## 成員
 
@@ -1028,8 +1026,7 @@ PROD-1001</p></td>
 
 ## 出道歌曲選拔成員結果
 
-SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music LLC發行。
-而本單曲將選出12名選拔成員，而選拔方式則在[朝日電視台](../Page/朝日電視台.md "wikilink")節目すっぽんの女たち內進行。而選拔準則則有3點。
+SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music LLC發行。 而本單曲將選出12名選拔成員，而選拔方式則在[朝日電視台](../Page/朝日電視台.md "wikilink")節目すっぽんの女たち內進行。而選拔準則則有3點。
 
   - 各成員**Blog的瀏覽數**
   - 節目中官方網站的**投票數**
@@ -1171,47 +1168,31 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 
 ### 劇集
 
-  - [馬路須加學園](../Page/馬路須加學園.md "wikilink")（2010年1月8日 -
-    3月26日、[東京電視台](../Page/東京電視台.md "wikilink")） -
-    浦野・大堀・小原・佐藤・なちゅ・野呂
-  - [馬路須加學園2](https://zh.wikipedia.org/wiki/馬路須加學園#.E9.A6.AC.E8.B7.AF.E9.A0.88.E5.8A.A0.E5.AD.B8.E5.9C.922 "wikilink")（2011年4月15日
-    - 7月1日、東京電視台） - 佐藤・なちゅ
+  - [馬路須加學園](../Page/馬路須加學園.md "wikilink")（2010年1月8日 - 3月26日、[東京電視台](../Page/東京電視台.md "wikilink")） - 浦野・大堀・小原・佐藤・なちゅ・野呂
+  - [馬路須加學園2](https://zh.wikipedia.org/wiki/馬路須加學園#.E9.A6.AC.E8.B7.AF.E9.A0.88.E5.8A.A0.E5.AD.B8.E5.9C.922 "wikilink")（2011年4月15日 - 7月1日、東京電視台） - 佐藤・なちゅ
 
 ### 綜藝節目
 
-  - Sky PerfecTV\!HD×娛樂\!371 presents 「GIRLS POP NEXT」（2010年2月25日、[Sky
-    PerfecTV\!HD娛樂](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")\!371）
-  - [すっぽんの女たち](https://zh.wikipedia.org/wiki/すっぽんの女たち "wikilink")（2010年6月2日
-    - 2011年3月30日、朝日電視台）
-  - SDNイジリー（2011年4月9日 -
-    10月9日、[全國獨立UHF放送協議會加盟局](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink")）
-  - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")（2011年4月19日・AKB48研究生
-    vs SDN48 タリナイ48對決）
+  - Sky PerfecTV\!HD×娛樂\!371 presents 「GIRLS POP NEXT」（2010年2月25日、[Sky PerfecTV\!HD娛樂](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")\!371）
+  - [すっぽんの女たち](https://zh.wikipedia.org/wiki/すっぽんの女たち "wikilink")（2010年6月2日 - 2011年3月30日、朝日電視台）
+  - SDNイジリー（2011年4月9日 - 10月9日、[全國獨立UHF放送協議會加盟局](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink")）
+  - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")（2011年4月19日・AKB48研究生 vs SDN48 タリナイ48對決）
   - [さんまのSUPERからくりTV](https://zh.wikipedia.org/wiki/さんまのSUPERからくりTV "wikilink")（[替え歌選手権](https://zh.wikipedia.org/wiki/替え歌 "wikilink")）
-  - SDN48+10\!（2010年8月1日 -
-    2012年3月17日\[4\]、[エンタ\!371](https://zh.wikipedia.org/wiki/エンタ!371 "wikilink")）
-  - [すっぽんの女たち2](https://zh.wikipedia.org/wiki/すっぽんの女たち "wikilink")（2011年4月6日
-    - 2012年3月28日、[朝日電視台](../Page/朝日電視台.md "wikilink")）
+  - SDN48+10\!（2010年8月1日 - 2012年3月17日\[4\]、[エンタ\!371](https://zh.wikipedia.org/wiki/エンタ!371 "wikilink")）
+  - [すっぽんの女たち2](https://zh.wikipedia.org/wiki/すっぽんの女たち "wikilink")（2011年4月6日 - 2012年3月28日、[朝日電視台](../Page/朝日電視台.md "wikilink")）
 
 ### 廣播
 
-  - [AKB48のオールナイトニッポン](https://zh.wikipedia.org/wiki/AKB48のオールナイトニッポン "wikilink")
-    SDN48スペシャル（2010年6月18日、[日本放送](../Page/日本放送.md "wikilink")） -
-    浦野・大堀・佐藤・野呂
-  - [篠田麻里子與愉快的夥伴們](https://zh.wikipedia.org/wiki/篠田麻里子與愉快的夥伴們 "wikilink")\[5\]（2010年12月4日
-    - 、[KBC廣播](https://zh.wikipedia.org/wiki/KBC廣播 "wikilink")） - 佐藤・野呂
-  - SDN48の[オールナイトニッポンR](https://zh.wikipedia.org/wiki/オールナイトニッポンR "wikilink")
-    [ラジオ・チャリティ・ミュージックソンスペシャル](https://zh.wikipedia.org/wiki/ラジオ・チャリティー・ミュージックソン "wikilink")（2010年12月24日、日本放送）
-    - 浦野・小原・佐藤
-  - SDN48の全力で聴かなきゃダメじゃん\!\!（2011年5月18日 - 2012年3月28日 -
-    、[スターデジオ](https://zh.wikipedia.org/wiki/スターデジオ "wikilink")）
+  - [AKB48のオールナイトニッポン](https://zh.wikipedia.org/wiki/AKB48のオールナイトニッポン "wikilink") SDN48スペシャル（2010年6月18日、[日本放送](../Page/日本放送.md "wikilink")） - 浦野・大堀・佐藤・野呂
+  - [篠田麻里子與愉快的夥伴們](https://zh.wikipedia.org/wiki/篠田麻里子與愉快的夥伴們 "wikilink")\[5\]（2010年12月4日 - 、[KBC廣播](https://zh.wikipedia.org/wiki/KBC廣播 "wikilink")） - 佐藤・野呂
+  - SDN48の[オールナイトニッポンR](https://zh.wikipedia.org/wiki/オールナイトニッポンR "wikilink") [ラジオ・チャリティ・ミュージックソンスペシャル](https://zh.wikipedia.org/wiki/ラジオ・チャリティー・ミュージックソン "wikilink")（2010年12月24日、日本放送） - 浦野・小原・佐藤
+  - SDN48の全力で聴かなきゃダメじゃん\!\!（2011年5月18日 - 2012年3月28日 - 、[スターデジオ](https://zh.wikipedia.org/wiki/スターデジオ "wikilink")）
   - SDN48のオールナイトニッポンR（2011年3月30日、日本放送）- KONAN・小原・近藤・佐藤・野呂・藤社
 
 ### CM
 
   - [ダービーWeek](https://zh.wikipedia.org/wiki/ダービーWeek "wikilink")（2011年）
-  - [常盤藥品工業](https://zh.wikipedia.org/wiki/常盤藥品工業 "wikilink")「SDN48×眠眠打破」（2011年7月5日
-    - 2012年3月31日）
+  - [常盤藥品工業](https://zh.wikipedia.org/wiki/常盤藥品工業 "wikilink")「SDN48×眠眠打破」（2011年7月5日 - 2012年3月31日）
 
 ## 公演
 
@@ -1221,8 +1202,7 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 
 <!-- end list -->
 
-1.  [誘惑的吊襪帶](../Page/SDN48_1st_Stage「誘惑的吊襪帶」.md "wikilink")：2009年8月1日 -
-    2012年3月28日
+1.  [誘惑的吊襪帶](../Page/SDN48_1st_Stage「誘惑的吊襪帶」.md "wikilink")：2009年8月1日 - 2012年3月28日
 
 <!-- end list -->
 
@@ -1230,8 +1210,7 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 
 <!-- end list -->
 
-1.  [誘惑的吊襪帶](https://zh.wikipedia.org/wiki/SDN48_1st_Stage「誘惑的吊襪帶」#SDN48_1st_Stage_2期生「誘惑的吊襪帶」公演 "wikilink")：2010年5月15日
-    - 2012年3月27日
+1.  [誘惑的吊襪帶](https://zh.wikipedia.org/wiki/SDN48_1st_Stage「誘惑的吊襪帶」#SDN48_1st_Stage_2期生「誘惑的吊襪帶」公演 "wikilink")：2010年5月15日 - 2012年3月27日
 
 <!-- end list -->
 
@@ -1254,8 +1233,7 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 
 <!-- end list -->
 
-  - AKB48 重溫時間 最佳曲目100 2010 with
-    アメーバピグ（2010年1月21日・24日、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")）
+  - AKB48 重溫時間 最佳曲目100 2010 with アメーバピグ（2010年1月21日・24日、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")）
 
 <!-- end list -->
 
@@ -1265,8 +1243,7 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 
 <!-- end list -->
 
-  - AKB48 満席祭り希望
-    賛否両論（2010年3月24日・25日、[横濱體育館](https://zh.wikipedia.org/wiki/横濱體育館 "wikilink")）
+  - AKB48 満席祭り希望 賛否両論（2010年3月24日・25日、[横濱體育館](https://zh.wikipedia.org/wiki/横濱體育館 "wikilink")）
 
 <!-- end list -->
 
@@ -1276,8 +1253,7 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 
 <!-- end list -->
 
-  - AKB48
-    演唱會「沒有驚喜」第3公演（2010年7月11日、[代代木第一体育館](https://zh.wikipedia.org/wiki/国立代代木競技場#第一体育館 "wikilink")）
+  - AKB48 演唱會「沒有驚喜」第3公演（2010年7月11日、[代代木第一体育館](https://zh.wikipedia.org/wiki/国立代代木競技場#第一体育館 "wikilink")）
 
 <!-- end list -->
 
@@ -1287,8 +1263,7 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 
 <!-- end list -->
 
-  - Visit Zoo AKB48  supported by
-    （2010年10月9日・10日、[葛西臨海公園](../Page/葛西臨海公園.md "wikilink")）
+  - Visit Zoo AKB48  supported by （2010年10月9日・10日、[葛西臨海公園](../Page/葛西臨海公園.md "wikilink")）
 
 <!-- end list -->
 
@@ -1320,13 +1295,9 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 
 <!-- end list -->
 
-  - AKB48 演唱會 よっしゃぁ〜行くぞぉ〜！in西武巨蛋（2011年7月22日 -
-    24日、[西武巨蛋](../Page/西武巨蛋.md "wikilink")） -
-    只有22日、23日
+  - AKB48 演唱會 よっしゃぁ〜行くぞぉ〜！in西武巨蛋（2011年7月22日 - 24日、[西武巨蛋](../Page/西武巨蛋.md "wikilink")） - 只有22日、23日
   - AKB48 重溫時間 最佳曲目100 2012（2012年1月22日 東京ドームシティホール）- 3位『孤独なランナー』、出演成員：全員
-  - SDN48 演唱會「NEXT ENCORE」 in [NHK
-    Hall](../Page/NHK大厅.md "wikilink")（2012年3月31日、NHK Hall）-
-    SDN首個最後的單独演唱會
+  - SDN48 演唱會「NEXT ENCORE」 in [NHK Hall](../Page/NHK大厅.md "wikilink")（2012年3月31日、NHK Hall）- SDN首個最後的單独演唱會
 
 ## 衍生組合
 
@@ -1356,8 +1327,7 @@ SKE48（<a href="../Page/平松可奈子.md" title="wikilink">平松</a>、<a hr
 
 ### Under Girls A・B
 
-**Under Girls
-A・B**是單曲中c/w曲的組合。單曲的選拔成員外的正式成員和一部分的研究生再編成的組合，因為每一次的單曲都是重新編組的，所以每次組合的成員都是相異，以下就是他們所唱的歌曲列表。
+**Under Girls A・B**是單曲中c/w曲的組合。單曲的選拔成員外的正式成員和一部分的研究生再編成的組合，因為每一次的單曲都是重新編組的，所以每次組合的成員都是相異，以下就是他們所唱的歌曲列表。
 
 <table>
 <thead>
@@ -1480,20 +1450,11 @@ A・B**是單曲中c/w曲的組合。單曲的選拔成員外的正式成員和�
   - [SDN48官方部落格：說起目標這回事，還沒有餘暇來考慮～](http://ameblo.jp/sdn48official/)
   - [AKB48官方網站內的SDN48專頁](https://web.archive.org/web/20120502135003/http://www.akb48.co.jp/sdn48/)
 
-[Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink")
-[Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink")
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
-[Category:2012年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年解散的音樂團體 "wikilink")
+[Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink") [Category:2012年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年解散的音樂團體 "wikilink")
 
 1.  平日則為晩上7時，週末及國定假日亦為晩上8時30分開演。
-2.  [【お知らせ】](http://ameblo.jp/sdn48official/entry-11048955915.html) -
-    SDN48公式ブログ 2011年10月15日
-3.  [SDN48
-    第二單「請給我愛」發售日延期、未定的信息](http://www.universal-music.co.jp/sdn48/news/index.html)
-
+2.  [【お知らせ】](http://ameblo.jp/sdn48official/entry-11048955915.html) - SDN48公式ブログ 2011年10月15日
+3.  [SDN48 第二單「請給我愛」發售日延期、未定的信息](http://www.universal-music.co.jp/sdn48/news/index.html)
 4.  重播在2012年4月9日
 5.  播放翌日[レコチョクでも](https://zh.wikipedia.org/wiki/レコチョク "wikilink")「番組ダイジェスト+番組で話せなかった篠田麻里子の内緒話」が配信される
 6.

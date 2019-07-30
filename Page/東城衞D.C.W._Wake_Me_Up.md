@@ -1,5 +1,4 @@
-[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")『[東城衛](https://zh.wikipedia.org/wiki/東城衛 "wikilink")』上一張《東城衞D.C.W.同名迷你專輯》發行後時隔一年後，正式發行首張正規專輯《Wake
-Me Up》，此張專輯為東城衞樂團第二張團體專輯，亦是加盟華納後發行之第二張音樂專輯，共有十首全創作歌曲。
+[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")『[東城衛](https://zh.wikipedia.org/wiki/東城衛 "wikilink")』上一張《東城衞D.C.W.同名迷你專輯》發行後時隔一年後，正式發行首張正規專輯《Wake Me Up》，此張專輯為東城衞樂團第二張團體專輯，亦是加盟華納後發行之第二張音樂專輯，共有十首全創作歌曲。
 
 ## 專輯佳績
 
@@ -209,7 +208,4 @@ Me Up》，此張專輯為東城衞樂團第二張團體專輯，亦是加盟華
   - 　《[秘密花園 (韓國電視劇)](../Page/秘密花園_\(韓國電視劇\).md "wikilink")》宣傳曲『伊利亞特』
   - 　[萌學園3魔法號令片尾曲](https://zh.wikipedia.org/wiki/萌學園3魔法號令 "wikilink")『最後的光景』
 
-[Category:東城衞音樂專輯](https://zh.wikipedia.org/wiki/Category:東城衞音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:東城衞音樂專輯](https://zh.wikipedia.org/wiki/Category:東城衞音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

@@ -25,12 +25,10 @@
 11. [時の華](https://zh.wikipedia.org/wiki/violet "wikilink")
 12. それだけ
 13. 新しい世界
-      - [任天堂DS](../Page/任天堂DS.md "wikilink")遊戲『[向陽素描](../Page/向陽素描.md "wikilink")
-        どこでもすごろく×365』片尾曲
+      - [任天堂DS](../Page/任天堂DS.md "wikilink")遊戲『[向陽素描](../Page/向陽素描.md "wikilink") どこでもすごろく×365』片尾曲
       - 作詞・作曲：micco / 編曲：菊池達也
 14. [流星レコード](https://zh.wikipedia.org/wiki/流星レコード "wikilink")
 15. きらら
       - 作詞：micco / 作曲・編曲：菊池達也
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:Lantis發行的音樂專輯](https://zh.wikipedia.org/wiki/Category:Lantis發行的音樂專輯 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:Lantis發行的音樂專輯](https://zh.wikipedia.org/wiki/Category:Lantis發行的音樂專輯 "wikilink")

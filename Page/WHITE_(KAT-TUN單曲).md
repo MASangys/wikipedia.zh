@@ -1,10 +1,8 @@
-「**WHITE**」是[日本男子偶像團體](../Page/日本.md "wikilink")[KAT-TUN第](../Page/KAT-TUN.md "wikilink")15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年5月18日發售。出版商是[J-One
-Records](../Page/J_Storm.md "wikilink")。
+「**WHITE**」是[日本](../Page/日本.md "wikilink")男子偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")第15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年5月18日發售。出版商是[J-One Records](../Page/J_Storm.md "wikilink")。
 
 ## 解説
 
-  - 前作「[ULTIMATE
-    WHEELS](../Page/ULTIMATE_WHEELS.md "wikilink")」以來久違約三個月的作品。2011年的第二張單曲。
+  - 前作「[ULTIMATE WHEELS](../Page/ULTIMATE_WHEELS.md "wikilink")」以來久違約三個月的作品。2011年的第二張單曲。
   - 主打歌「WHITE」是KAT-TUN所代言的[花王](../Page/花王.md "wikilink")「大人之美白」電視廣告的主題歌。而B面歌是龜梨和也主演「AOKI新3Dスリム」電視廣告的主題歌。
   - 關於歌曲
 
@@ -38,8 +36,7 @@ Records](../Page/J_Storm.md "wikilink")。
 2.  **PERFECT**
 3.  **勇氣之花** \[3:46\]
       -
-        作詞：Sean-D、作曲：Anthony KRUNCHIE Bamgboye・Harry Wilkins・Ricky
-        Hanley、編曲：Anthony KRUNCHIE Bamgboye
+        作詞：Sean-D、作曲：Anthony KRUNCHIE Bamgboye・Harry Wilkins・Ricky Hanley、編曲：Anthony KRUNCHIE Bamgboye
 4.  WHITE (伴唱版本)　
 5.  PERFECT (伴唱版本)　
 6.  勇氣之花 (伴唱版本)　
@@ -55,8 +52,4 @@ Records](../Page/J_Storm.md "wikilink")。
 5.  PERFECT (伴唱版本)　
 6.  SILENCE (伴唱版本)　
 
-[Category:KAT-TUN歌曲](https://zh.wikipedia.org/wiki/Category:KAT-TUN歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink")
+[Category:KAT-TUN歌曲](https://zh.wikipedia.org/wiki/Category:KAT-TUN歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink") [Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink")

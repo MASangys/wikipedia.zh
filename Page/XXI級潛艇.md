@@ -1,11 +1,10 @@
-**XXI級潛艇**（****、或稱**Typ
-XXI**）是[納粹德國海軍在](../Page/納粹德國海軍.md "wikilink")[第二次世界大戰後期使用的一級](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[潛艇](../Page/潛艇.md "wikilink")，也是世上第一種完全為水下作戰設計、而非以往為攻擊和躲避水面艦攻擊才下潛的潛艇，為近代潛艇的雛型。
+**XXI級潛艇**（****、或稱**Typ XXI**）是[納粹德國海軍](../Page/納粹德國海軍.md "wikilink")在[第二次世界大戰後期使用的一級](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[潛艇](../Page/潛艇.md "wikilink")，也是世上第一種完全為水下作戰設計、而非以往為攻擊和躲避水面艦攻擊才下潛的潛艇，為近代潛艇的雛型。
 
 ## 性能概述
 
-二次大戰中，於1939年開始的[大西洋海戰](https://zh.wikipedia.org/wiki/大西洋海戰 "wikilink")，德國使用的主力潛艇—[VII級潛艇在戰場上已逐漸顯得過時](../Page/VII級潛艇.md "wikilink")，因此海軍潛艇總司令[卡爾·鄧尼茲將VIIC型和](https://zh.wikipedia.org/wiki/卡爾·鄧尼茲 "wikilink")[IX級潛艇的建造計畫變更](../Page/IX級潛艇.md "wikilink")，全力將資源投入於高速新式潛艇的建造。XXI級潛艇改進了德軍舊有的電池容量，約有VIIC型的3倍，大大增加了它的水下航程，並縮短所需要浮出水面的時間。XXI級能用了不到5小時的通氣管充電，就能擁有水下以5節速度連續潛航2到3天而不用重新充電的能力。XXI級也比VIIC型還要安靜，使其在潛航時較不被發現。XXI級的艦體也設計的簡單化、流線型，提高潛航速度和減少潛航阻力使它較難被加以追蹤後摧毀。
+二次大戰中，於1939年開始的[大西洋海戰](https://zh.wikipedia.org/wiki/大西洋海戰 "wikilink")，德國使用的主力潛艇—[VII級潛艇](../Page/VII級潛艇.md "wikilink")在戰場上已逐漸顯得過時，因此海軍潛艇總司令[卡爾·鄧尼茲將VIIC型和](https://zh.wikipedia.org/wiki/卡爾·鄧尼茲 "wikilink")[IX級潛艇](../Page/IX級潛艇.md "wikilink")的建造計畫變更，全力將資源投入於高速新式潛艇的建造。XXI級潛艇改進了德軍舊有的電池容量，約有VIIC型的3倍，大大增加了它的水下航程，並縮短所需要浮出水面的時間。XXI級能用了不到5小時的通氣管充電，就能擁有水下以5節速度連續潛航2到3天而不用重新充電的能力。XXI級也比VIIC型還要安靜，使其在潛航時較不被發現。XXI級的艦體也設計的簡單化、流線型，提高潛航速度和減少潛航阻力使它較難被加以追蹤後摧毀。
 
-XXI級的艦內空間與設備也比以往來的更大更好，大型的艦體搭載了多組蓄電池後仍有空間，同時艦上的冷凍設備和其他艦上沒有的淋浴間。另外XXI級也有特別的液壓魚雷自動裝填系統，能讓裝配魚雷時間變得很短（能在20分鐘裡發射18枚魚雷），魚雷射速也更快。XXI級同時還有更先進的[聲納系統](../Page/聲納.md "wikilink")，可用來瞄準發射魚雷，而不需藉由[潛望鏡瞄準](../Page/潛望鏡.md "wikilink")，增加其隱蔽性。XXI級潛艇內共存有23枚魚雷，或17枚魚雷和12枚[水雷](../Page/水雷.md "wikilink")，艇首有6座魚雷發射管；以往潛艇配置的甲板砲和高射砲也在重視流線造型下被簡化，只設計2座雙連裝20公厘高射砲塔。
+XXI級的艦內空間與設備也比以往來的更大更好，大型的艦體搭載了多組蓄電池後仍有空間，同時艦上的冷凍設備和其他艦上沒有的淋浴間。另外XXI級也有特別的液壓魚雷自動裝填系統，能讓裝配魚雷時間變得很短（能在20分鐘裡發射18枚魚雷），魚雷射速也更快。XXI級同時還有更先進的[聲納](../Page/聲納.md "wikilink")系統，可用來瞄準發射魚雷，而不需藉由[潛望鏡](../Page/潛望鏡.md "wikilink")瞄準，增加其隱蔽性。XXI級潛艇內共存有23枚魚雷，或17枚魚雷和12枚[水雷](../Page/水雷.md "wikilink")，艇首有6座魚雷發射管；以往潛艇配置的甲板砲和高射砲也在重視流線造型下被簡化，只設計2座雙連裝20公厘高射砲塔。
 
 ## 生產
 
@@ -27,22 +26,17 @@ XXI級的生產採用了與以往不同的方法，以[模組化生產](https://
 
 ## 服役與戰後
 
-只有[U-2511和](https://zh.wikipedia.org/wiki/U-2511 "wikilink")[U-3008這](https://zh.wikipedia.org/wiki/U-3008 "wikilink")2艘是進行過戰鬥巡弋的XXI級潛艇，且它們都没有进行任何战斗。由[艾伯特·施尼](https://zh.wikipedia.org/wiki/艾伯特·施尼 "wikilink")（Adalbert
-Schnee）上校所指揮的[U-2511在](https://zh.wikipedia.org/wiki/U-2511 "wikilink")4月17-18日夜间用声纳定位了一艘潜艇，但怕對方是己方的德国潜艇，所以放棄開火，但實際上那是英國的TAPIR号。\[2\]然后在5月4日3点钟收到了停战命令，之后它发现了[諾福克號重巡洋艦并对它进行了开火演练](https://zh.wikipedia.org/wiki/諾福克號重巡洋艦 "wikilink")，但也沒有真的開火，之後就返回德國港口。\[3\]
-大部分的XXI級潛艇都直接報廢或鑿沉處理，但有8艘被盟國瓜分研究，美國得到了[U-2513和](https://zh.wikipedia.org/wiki/U-2513 "wikilink")[U-3008](https://zh.wikipedia.org/wiki/U-3008 "wikilink")，並服役於[美國海軍](../Page/美國海軍.md "wikilink")；U-3017則交給了[英國皇家海軍](../Page/英國皇家海軍.md "wikilink")，並改名為「HMS
-N41」；[U-2518給了](https://zh.wikipedia.org/wiki/U-2518 "wikilink")[法國海軍](../Page/法國海軍.md "wikilink")，改名為「羅蘭德·末里羅特號」（Roland
-Morillot），参与了苏伊士运河战争並持續服役到1967年。
+只有[U-2511和](https://zh.wikipedia.org/wiki/U-2511 "wikilink")[U-3008這](https://zh.wikipedia.org/wiki/U-3008 "wikilink")2艘是進行過戰鬥巡弋的XXI級潛艇，且它們都没有进行任何战斗。由[艾伯特·施尼](https://zh.wikipedia.org/wiki/艾伯特·施尼 "wikilink")（Adalbert Schnee）上校所指揮的[U-2511在](https://zh.wikipedia.org/wiki/U-2511 "wikilink")4月17-18日夜间用声纳定位了一艘潜艇，但怕對方是己方的德国潜艇，所以放棄開火，但實際上那是英國的TAPIR号。\[2\]然后在5月4日3点钟收到了停战命令，之后它发现了[諾福克號重巡洋艦并对它进行了开火演练](https://zh.wikipedia.org/wiki/諾福克號重巡洋艦 "wikilink")，但也沒有真的開火，之後就返回德國港口。\[3\] 大部分的XXI級潛艇都直接報廢或鑿沉處理，但有8艘被盟國瓜分研究，美國得到了[U-2513和](https://zh.wikipedia.org/wiki/U-2513 "wikilink")[U-3008](https://zh.wikipedia.org/wiki/U-3008 "wikilink")，並服役於[美國海軍](../Page/美國海軍.md "wikilink")；U-3017則交給了[英國皇家海軍](../Page/英國皇家海軍.md "wikilink")，並改名為「HMS N41」；[U-2518給了](https://zh.wikipedia.org/wiki/U-2518 "wikilink")[法國海軍](../Page/法國海軍.md "wikilink")，改名為「羅蘭德·末里羅特號」（Roland Morillot），参与了苏伊士运河战争並持續服役到1967年。
 
 ### 蘇聯海軍
 
-因為[波茨坦协定](../Page/波茨坦协定.md "wikilink")，蘇聯得到了4艘XXI級潛艇，[U-3515](https://zh.wikipedia.org/wiki/U-3515 "wikilink")、[U-2529](https://zh.wikipedia.org/wiki/U-2529 "wikilink")、[U-3035和](https://zh.wikipedia.org/wiki/U-3035 "wikilink")[U-3041](https://zh.wikipedia.org/wiki/U-3041 "wikilink")，並服役於[蘇聯海軍](../Page/蘇聯海軍.md "wikilink")，分別改為B-27、B-28、B-29和B-30（後改稱為B-100）。然而西方盟國認為蘇聯已獲得更多的XXI潛艇，美國聯合情報委員會估計1948年1月時蘇聯擁有15艘XXI級潛艇，並能在2個月裡建造6艘，一年半裡建造39艘，並使用但澤的潛艇製造廠，進行與德國相同作法的分段建造。[U-3538到](https://zh.wikipedia.org/wiki/U-3538 "wikilink")[U-3557裡的XXI級潛艇](https://zh.wikipedia.org/wiki/U-3557 "wikilink")（分別為蘇聯編號TS-5、TS-19、TS-32和TS-38）由於沒有完成而報廢，並在1947年於但澤港裡鑿沉。這4艘獲得的XXI級潛艇被派往[波茨坦進行試驗](../Page/波茨坦.md "wikilink")，直到1955年鑿沉或用於1958年至1973年之間的核武試驗。蘇聯也以XXI級潛艇為基礎，研製了[W级潜艇](https://zh.wikipedia.org/wiki/W级潜艇 "wikilink")\[4\]。
+因為[波茨坦协定](../Page/波茨坦协定.md "wikilink")，蘇聯得到了4艘XXI級潛艇，[U-3515](https://zh.wikipedia.org/wiki/U-3515 "wikilink")、[U-2529](https://zh.wikipedia.org/wiki/U-2529 "wikilink")、[U-3035和](https://zh.wikipedia.org/wiki/U-3035 "wikilink")[U-3041](https://zh.wikipedia.org/wiki/U-3041 "wikilink")，並服役於[蘇聯海軍](../Page/蘇聯海軍.md "wikilink")，分別改為B-27、B-28、B-29和B-30（後改稱為B-100）。然而西方盟國認為蘇聯已獲得更多的XXI潛艇，美國聯合情報委員會估計1948年1月時蘇聯擁有15艘XXI級潛艇，並能在2個月裡建造6艘，一年半裡建造39艘，並使用但澤的潛艇製造廠，進行與德國相同作法的分段建造。[U-3538到](https://zh.wikipedia.org/wiki/U-3538 "wikilink")[U-3557裡的XXI級潛艇](https://zh.wikipedia.org/wiki/U-3557 "wikilink")（分別為蘇聯編號TS-5、TS-19、TS-32和TS-38）由於沒有完成而報廢，並在1947年於但澤港裡鑿沉。這4艘獲得的XXI級潛艇被派往[波茨坦](../Page/波茨坦.md "wikilink")進行試驗，直到1955年鑿沉或用於1958年至1973年之間的核武試驗。蘇聯也以XXI級潛艇為基礎，研製了[W级潜艇](https://zh.wikipedia.org/wiki/W级潜艇 "wikilink")\[4\]。
 
 ### 西德
 
-原本在戰後被鑿沉的[U-2540](https://zh.wikipedia.org/wiki/U-2540 "wikilink")，又在1957年被[打撈上岸](../Page/打撈.md "wikilink")，作為[西德海軍的](https://zh.wikipedia.org/wiki/西德海軍 "wikilink")[威廉·鮑爾號調查船](https://zh.wikipedia.org/wiki/威廉·鮑爾號 "wikilink")，後來成為了德國[不來梅港海事博物館](https://zh.wikipedia.org/wiki/不來梅港海事博物館 "wikilink")。1985年，有人於德國[漢堡發現了部份報廢的](https://zh.wikipedia.org/wiki/漢堡 "wikilink")「易北河II」[潛艇洞庫裡的](https://zh.wikipedia.org/wiki/潛艇洞庫 "wikilink")[U-2505](https://zh.wikipedia.org/wiki/U-2505 "wikilink")、[U-3004和](https://zh.wikipedia.org/wiki/U-3004 "wikilink")[U-3506](https://zh.wikipedia.org/wiki/U-3506 "wikilink")，後將它填補。
+原本在戰後被鑿沉的[U-2540](https://zh.wikipedia.org/wiki/U-2540 "wikilink")，又在1957年被[打撈](../Page/打撈.md "wikilink")上岸，作為[西德海軍的](https://zh.wikipedia.org/wiki/西德海軍 "wikilink")[威廉·鮑爾號調查船](https://zh.wikipedia.org/wiki/威廉·鮑爾號 "wikilink")，後來成為了德國[不來梅港海事博物館](https://zh.wikipedia.org/wiki/不來梅港海事博物館 "wikilink")。1985年，有人於德國[漢堡發現了部份報廢的](https://zh.wikipedia.org/wiki/漢堡 "wikilink")「易北河II」[潛艇洞庫裡的](https://zh.wikipedia.org/wiki/潛艇洞庫 "wikilink")[U-2505](https://zh.wikipedia.org/wiki/U-2505 "wikilink")、[U-3004和](https://zh.wikipedia.org/wiki/U-3004 "wikilink")[U-3506](https://zh.wikipedia.org/wiki/U-3506 "wikilink")，後將它填補。
 
-Image:SRH025-p40.jpg|XXI級潛艇示圖 Image:2004-Bremerhaven
-U-Boot-Museum-Sicherlich retouched.jpg|被作為博物館的U-2540
+Image:SRH025-p40.jpg|XXI級潛艇示圖 Image:2004-Bremerhaven U-Boot-Museum-Sicherlich retouched.jpg|被作為博物館的U-2540
 
 ## 同型艦列表
 
@@ -192,20 +186,13 @@ U-Boot-Museum-Sicherlich retouched.jpg|被作為博物館的U-2540
   -
 ## 外部連結
 
-  - [U-Boot Type XXI in
-    Detail](https://web.archive.org/web/20070927034240/http://ipmsstockholm.org/magazine/2003/11/detail_uboot_xxi.htm)
-    with lots of pics.
+  - [U-Boot Type XXI in Detail](https://web.archive.org/web/20070927034240/http://ipmsstockholm.org/magazine/2003/11/detail_uboot_xxi.htm) with lots of pics.
   - [Type XXI](http://www.uboat.net/types/xxi.htm) on www.uboat.net
-  - [Type XXI](http://www.uboataces.com/uboat-type-xxi.shtml) on
-    www.uboataces.com
+  - [Type XXI](http://www.uboataces.com/uboat-type-xxi.shtml) on www.uboataces.com
 
-[Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink")
-[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")
-[Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
+[Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink") [Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink") [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
 
 1.
-2.  <http://uboat.net/allies/warships/ship/3531.html> Internetquelle zur
-    HMS Tapir (P 335), Abgerufen am 22. Mai 2011
-3.  Van der Vat, Dan (1994). Stealth at Sea. London: Orion. p. 353. ISBN
-    1-85797-864-1.
+2.  <http://uboat.net/allies/warships/ship/3531.html> Internetquelle zur HMS Tapir (P 335), Abgerufen am 22. Mai 2011
+3.  Van der Vat, Dan (1994). Stealth at Sea. London: Orion. p. 353. ISBN 1-85797-864-1.
 4.

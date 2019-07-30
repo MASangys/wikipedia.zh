@@ -1,11 +1,10 @@
-是[日本](../Page/日本.md "wikilink")[TBS於](../Page/TBS.md "wikilink")2012年1月20日起每週五22:00～22:54（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。首集加長15分鐘，主演是[仲間由紀惠](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")。台灣於緯來日本台播出，劇名為《戀愛排後面》。
+是[日本](../Page/日本.md "wikilink")[TBS](../Page/TBS.md "wikilink")於2012年1月20日起每週五22:00～22:54（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。首集加長15分鐘，主演是[仲間由紀惠](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")。台灣於緯來日本台播出，劇名為《戀愛排後面》。
 
 ## 演員陣容
 
 ### 主要人物
 
-  - **木下凜**（32歳） -
-    **[仲間由紀惠](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")、幼少時期：[谷花音](../Page/谷花音.md "wikilink")**
+  - **木下凜**（32歳） - **[仲間由紀惠](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")、幼少時期：[谷花音](../Page/谷花音.md "wikilink")**
 
 <!-- end list -->
 
@@ -41,8 +40,7 @@
 
 <!-- end list -->
 
-  - **多田耕太**（43歳） -
-    **[田中裕二](https://zh.wikipedia.org/wiki/田中裕二_\(爆笑問題\) "wikilink")**
+  - **多田耕太**（43歳） - **[田中裕二](https://zh.wikipedia.org/wiki/田中裕二_\(爆笑問題\) "wikilink")**
 
 <!-- end list -->
 
@@ -51,8 +49,7 @@
 
 <!-- end list -->
 
-  - **相澤菜菜子**（42歳） -
-    **[涼](https://zh.wikipedia.org/wiki/涼_\(演員\) "wikilink")**
+  - **相澤菜菜子**（42歳） - **[涼](https://zh.wikipedia.org/wiki/涼_\(演員\) "wikilink")**
 
 <!-- end list -->
 
@@ -88,11 +85,9 @@
 
 <!-- end list -->
 
-  - **中村大** -
-    **[佐佐木卓馬](https://zh.wikipedia.org/wiki/佐佐木卓馬 "wikilink")**
+  - **中村大** - **[佐佐木卓馬](https://zh.wikipedia.org/wiki/佐佐木卓馬 "wikilink")**
   - **小泉徹** - **[南周平](https://zh.wikipedia.org/wiki/南周平 "wikilink")**
-  - **田邊一** -
-    **[大西](https://zh.wikipedia.org/wiki/雙城_\(搞笑藝人\) "wikilink")**
+  - **田邊一** - **[大西](https://zh.wikipedia.org/wiki/雙城_\(搞笑藝人\) "wikilink")**
 
 ### 木下家
 
@@ -105,8 +100,7 @@
 
 <!-- end list -->
 
-  - **木下樹**（14歳） -
-    **[西山潤](https://zh.wikipedia.org/wiki/西山潤 "wikilink")、少年時期：[青木淳耶](https://zh.wikipedia.org/wiki/青木淳耶 "wikilink")**
+  - **木下樹**（14歳） - **[西山潤](https://zh.wikipedia.org/wiki/西山潤 "wikilink")、少年時期：[青木淳耶](https://zh.wikipedia.org/wiki/青木淳耶 "wikilink")**
 
 <!-- end list -->
 
@@ -115,8 +109,7 @@
 
 ### 其他
 
-  - **小早川隆志**（34歳） -
-    **[森山榮治](https://zh.wikipedia.org/wiki/森山榮治 "wikilink")**
+  - **小早川隆志**（34歳） - **[森山榮治](https://zh.wikipedia.org/wiki/森山榮治 "wikilink")**
 
 <!-- end list -->
 
@@ -143,8 +136,7 @@
 
 <!-- end list -->
 
-  - **松本聰子** -
-    **[加賀真理子](https://zh.wikipedia.org/wiki/加賀真理子 "wikilink")**
+  - **松本聰子** - **[加賀真理子](https://zh.wikipedia.org/wiki/加賀真理子 "wikilink")**
 
 <!-- end list -->
 
@@ -153,8 +145,7 @@
 
 ### 客串演出
 
-  - **伊藤雅人** -
-    **[岡田浩暉](https://zh.wikipedia.org/wiki/岡田浩暉 "wikilink")**（第1集、第7～8集）
+  - **伊藤雅人** - **[岡田浩暉](https://zh.wikipedia.org/wiki/岡田浩暉 "wikilink")**（第1集、第7～8集）
 
 <!-- end list -->
 
@@ -172,8 +163,7 @@
 
 <!-- end list -->
 
-  - **小池** -
-    **[伊藤正之](https://zh.wikipedia.org/wiki/伊藤正之 "wikilink")**（第1集）
+  - **小池** - **[伊藤正之](https://zh.wikipedia.org/wiki/伊藤正之 "wikilink")**（第1集）
 
 <!-- end list -->
 
@@ -209,8 +199,7 @@
 
 <!-- end list -->
 
-  - 中里圭吾 -
-    [草刈正雄](https://zh.wikipedia.org/wiki/草刈正雄 "wikilink")（第9集～完結篇）
+  - 中里圭吾 - [草刈正雄](https://zh.wikipedia.org/wiki/草刈正雄 "wikilink")（第9集～完結篇）
 
 <!-- end list -->
 
@@ -249,8 +238,7 @@
 
 ## 参考文獻
 
-  - [仲間由紀恵『恋愛ニート～忘れた恋のはじめ方』主演\!](http://www.tbs.co.jp/hot-jyouhou/201111241355.html)
-    TBSホット情報 2011年11月24日閲覧
+  - [仲間由紀恵『恋愛ニート～忘れた恋のはじめ方』主演\!](http://www.tbs.co.jp/hot-jyouhou/201111241355.html) TBSホット情報 2011年11月24日閲覧
 
 ## 外部連結
 
@@ -258,8 +246,4 @@
 
 ## 節目的變遷
 
-[Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink")
-[Category:日本浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:日本浪漫喜劇電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
+[Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink") [Category:日本浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:日本浪漫喜劇電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")

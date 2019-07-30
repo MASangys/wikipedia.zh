@@ -2,39 +2,25 @@
 
 ## 曲目
 
-全碟作曲：[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")　全碟作詞：[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")　<small>（下面註明例外曲目）</small>
-   **備註：**
+全碟作曲：[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")　全碟作詞：[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")　<small>（下面註明例外曲目）</small>    **備註：**
 
-  - 「柯迪夫夢幻曲」從《Blessing》選段，由張敬軒、[常石磊和Covington](../Page/常石磊.md "wikilink")
-    Rayvaughn作曲，[黃霑作詞](../Page/黃霑.md "wikilink")。
+  - 「柯迪夫夢幻曲」從《Blessing》選段，由張敬軒、[常石磊](../Page/常石磊.md "wikilink")和Covington Rayvaughn作曲，[黃霑](../Page/黃霑.md "wikilink")作詞。
 
 ## 製作人員名單
 
 出自《Octave》第二版專輯內頁。\[1\]
 **音樂**
 
-  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音
-    <small>(2、5、9、11、15-16、18-19)</small>、作曲
-    <small>(2、5、9、11、15-16、18-19)</small>、作詞
-    <small>(11)</small>
-  - [馮翰銘](../Page/馮翰銘.md "wikilink") – 主音 <small>(14、19)</small>、編曲
-    <small>(2-3、5、9、11、15-19)</small>、所有樂器
-    <small>(2、5、9、11、16、18-19)</small>、電腦程式
-    <small>(11)</small>
-  - [何秉舜](../Page/何秉舜.md "wikilink") – 編曲
-    <small>(1、4、6-8、10-15、20)</small>、鋼琴
-    <small>(1、4、6、10-13、15、20)</small>、所有樂器
-    <small>(7-8、14)</small>、電腦程式 <small>(7-8、14)</small>、長笛
-    <small>(17)</small>
+  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音 <small>(2、5、9、11、15-16、18-19)</small>、作曲 <small>(2、5、9、11、15-16、18-19)</small>、作詞 <small>(11)</small>
+  - [馮翰銘](../Page/馮翰銘.md "wikilink") – 主音 <small>(14、19)</small>、編曲 <small>(2-3、5、9、11、15-19)</small>、所有樂器 <small>(2、5、9、11、16、18-19)</small>、電腦程式 <small>(11)</small>
+  - [何秉舜](../Page/何秉舜.md "wikilink") – 編曲 <small>(1、4、6-8、10-15、20)</small>、鋼琴 <small>(1、4、6、10-13、15、20)</small>、所有樂器 <small>(7-8、14)</small>、電腦程式 <small>(7-8、14)</small>、長笛 <small>(17)</small>
   - [梁祖堯](../Page/梁祖堯.md "wikilink") – 主音 <small>(2、3、5、14、19)</small>
   - [湯駿業](../Page/湯駿業.md "wikilink") – 主音 <small>(2、5、14、19)</small>
   - [邵美君](../Page/邵美君.md "wikilink") – 主音 <small>(2、5、14、19)</small>
-  - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") – 主音
-    <small>(18、19)</small>
+  - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") – 主音 <small>(18、19)</small>
   - 林小寶 – 主音 <small>(19)</small>
   - AP阿P – 作曲 <small>(3)</small>、作詞 <small>(3)</small>
-  - [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") – 作詞
-    <small>(2、5、9、15-16、18-19)</small>
+  - [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") – 作詞 <small>(2、5、9、15-16、18-19)</small>
   - [林寶](../Page/林寶_\(作詞家\).md "wikilink") – 作詞 <small>(18)</small>
 
 <!-- end list -->
@@ -56,12 +42,8 @@
 
 **製作**
 
-  - 馮翰銘 – 監製 <small>(2-3、5、9、11、15-19)</small>、錄音
-    <small>(2-3、5、11、14-16、18-19)</small>、混音
-    <small>(2-3、11、14-15)</small>、專輯製作
-  - 何秉舜 – 監製 <small>(1、4、6-8、10-15、20)</small>、錄音
-    <small>(1、4、6-8、10-13、15、20)</small>、混音
-    <small>(1、4、6-8、10、12-13、20)</small>
+  - 馮翰銘 – 監製 <small>(2-3、5、9、11、15-19)</small>、錄音 <small>(2-3、5、11、14-16、18-19)</small>、混音 <small>(2-3、11、14-15)</small>、專輯製作
+  - 何秉舜 – 監製 <small>(1、4、6-8、10-15、20)</small>、錄音 <small>(1、4、6-8、10-13、15、20)</small>、混音 <small>(1、4、6-8、10、12-13、20)</small>
   - 宋嘉恆 – 後期混音製作 <small>(1-4、6-8、10-15、17、20)</small>、音頻排序 、PMCD
   - 舒文 – 音頻排序、PMCD
   - Chris Athens – 後期混音製作 <small>(5、9、16、18-19)</small>
@@ -124,7 +106,6 @@
 | HMV亞洲音樂排行榜  |      |
 | HMV國粵語音樂排行榜 |      |
 
-[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
+[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
 
 1.

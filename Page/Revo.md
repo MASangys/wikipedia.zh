@@ -1,48 +1,32 @@
-**Revo**（），[日本男性](../Page/日本.md "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")，幻想樂團「[Sound
-Horizon](../Page/Sound_Horizon.md "wikilink")」、「[Linked
-Horizon](../Page/Linked_Horizon.md "wikilink")」的核心人物。
+**Revo**（），[日本](../Page/日本.md "wikilink")男性[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")，幻想樂團「[Sound Horizon](../Page/Sound_Horizon.md "wikilink")」、「[Linked Horizon](../Page/Linked_Horizon.md "wikilink")」的核心人物。
 
 ## 來歷
 
-中學時期與朋友組過[metallica的翻唱樂團](https://zh.wikipedia.org/wiki/metallica "wikilink")，之後往DTM（DeskTop
-Music）作曲發展。
+中學時期與朋友組過[metallica的翻唱樂團](https://zh.wikipedia.org/wiki/metallica "wikilink")，之後往DTM（DeskTop Music）作曲發展。
 
-1990年代後期，在個人網站「[Sound
-Horizon](../Page/Sound_Horizon.md "wikilink")」開始在網路上活動。一開始只是作為興趣的將遊戲音樂重新編曲並發表，接著自行作曲並且附上曲子的情境等故事，之後便以「Sound
-Horizon」的名義開始音樂活動。當時在網路上使用的名稱為「G.Revo」
+1990年代後期，在個人網站「[Sound Horizon](../Page/Sound_Horizon.md "wikilink")」開始在網路上活動。一開始只是作為興趣的將遊戲音樂重新編曲並發表，接著自行作曲並且附上曲子的情境等故事，之後便以「Sound Horizon」的名義開始音樂活動。當時在網路上使用的名稱為「G.Revo」
 
-2001年以「Sound Horizon」名義抽選[同人誌販售會](../Page/同人誌即賣會.md "wikilink")[Comic
-Market](../Page/Comic_Market.md "wikilink") 61的社團落選，便將作品『1st Story CD
-Chronicle』寄賣在該場次有抽到攤位的封面繪師yokoyan的所屬社團攤位上。之後的作品也都在同人誌販售會上發售。
+2001年以「Sound Horizon」名義抽選[同人誌販售會](../Page/同人誌即賣會.md "wikilink")[Comic Market](../Page/Comic_Market.md "wikilink") 61的社團落選，便將作品『1st Story CD Chronicle』寄賣在該場次有抽到攤位的封面繪師yokoyan的所屬社團攤位上。之後的作品也都在同人誌販售會上發售。
 
 2004年10月27日，以『Elysion 〜楽園への前奏曲〜』正式出道。
 
-2005年3月2日，製作『閃靈怪醫』的印象專輯『リヴァイアサン終末を告げし獣』，同年12月21日，製作『[神槍少女](../Page/神槍少女.md "wikilink")』的印象專輯『poca
-felicità』
+2005年3月2日，製作『閃靈怪醫』的印象專輯『リヴァイアサン終末を告げし獣』，同年12月21日，製作『[神槍少女](../Page/神槍少女.md "wikilink")』的印象專輯『poca felicità』
 
 2006年6月14日，以「[霜月はるか](../Page/霜月遙.md "wikilink")†Revo」名義合作單曲『霧の向こうに繋がる世界』
 
-2008年，與作曲家[梶浦由記合作](../Page/梶浦由記.md "wikilink")，以「Revo＆梶浦由記」名義舉辦演唱會「Revo＆梶浦由記Presents
-Dream Port
-2008」。4月29日在，5月6日在[パシフィコ横浜国立大ホール](https://zh.wikipedia.org/wiki/東京國際論壇大樓 "wikilink")，並且於6月18日發行單曲『Dream
-Port』。
+2008年，與作曲家[梶浦由記](../Page/梶浦由記.md "wikilink")合作，以「Revo＆梶浦由記」名義舉辦演唱會「Revo＆梶浦由記Presents Dream Port 2008」。4月29日在，5月6日在[パシフィコ横浜国立大ホール](https://zh.wikipedia.org/wiki/東京國際論壇大樓 "wikilink")，並且於6月18日發行單曲『Dream Port』。
 
-2012年6月，發表設立「[Linked
-Horizon](../Page/Linked_Horizon.md "wikilink")」。並在10月11日發售的[3DS遊戲](https://zh.wikipedia.org/wiki/3DS "wikilink")「[勇氣默示錄](../Page/勇氣默示錄.md "wikilink")」（BDFF）擔任遊戲BGM及主題歌製作。
+2012年6月，發表設立「[Linked Horizon](../Page/Linked_Horizon.md "wikilink")」。並在10月11日發售的[3DS遊戲](https://zh.wikipedia.org/wiki/3DS "wikilink")「[勇氣默示錄](../Page/勇氣默示錄.md "wikilink")」（BDFF）擔任遊戲BGM及主題歌製作。
 
-2013年7月，以Linked
-Horizon名義為[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")「[進擊的巨人](../Page/進擊的巨人.md "wikilink")」製作第一期及第二期片頭曲，並在同年12月31日以「Linked
-Horizon」名義參加[第64回NHK紅白歌唱大賽](../Page/第64回NHK紅白歌合戰.md "wikilink")。這也是Revo初次在電視節目中現場演出。
+2013年7月，以Linked Horizon名義為[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")「[進擊的巨人](../Page/進擊的巨人.md "wikilink")」製作第一期及第二期片頭曲，並在同年12月31日以「Linked Horizon」名義參加[第64回NHK紅白歌唱大賽](../Page/第64回NHK紅白歌合戰.md "wikilink")。這也是Revo初次在電視節目中現場演出。
 
 ## 人物
 
-Sound Horizon一開始是REVO的個人活動（1st Story CD
-Chronicle），之後雖然加入主唱成員Aramary，但隨著第一期活動結束退團之後，目前唯一的正式成員只有REVO一人。
+Sound Horizon一開始是REVO的個人活動（1st Story CD Chronicle），之後雖然加入主唱成員Aramary，但隨著第一期活動結束退團之後，目前唯一的正式成員只有REVO一人。
 
-[墨鏡是Revo的標誌](../Page/太陽眼鏡.md "wikilink")。在正式出道之前，「Pico Magic」發售時就開始戴墨鏡了。
-REVO這個名字的由來是「Revolution」的「Revo」。
+[墨鏡是Revo的標誌](../Page/太陽眼鏡.md "wikilink")。在正式出道之前，「Pico Magic」發售時就開始戴墨鏡了。 REVO這個名字的由來是「Revolution」的「Revo」。
 
-喜歡酒類，特別是[紅酒](https://zh.wikipedia.org/wiki/紅葡萄酒 "wikilink")，也喜歡辣的食物。喜歡的國家是[西班牙](../Page/西班牙.md "wikilink")，喜歡的樂團是[Spitz](https://zh.wikipedia.org/wiki/Spitz "wikilink")、[B'z等等](../Page/B'z.md "wikilink")。\[1\]遊戲喜歡RPG類型的遊戲，非常尊敬遊戲作曲家「[伊藤賢治](../Page/伊藤賢治.md "wikilink")」，甚至以前在自己的網站中尊稱為「師匠」。也曾經多次將遊戲音樂重新編曲並且發表。
+喜歡酒類，特別是[紅酒](https://zh.wikipedia.org/wiki/紅葡萄酒 "wikilink")，也喜歡辣的食物。喜歡的國家是[西班牙](../Page/西班牙.md "wikilink")，喜歡的樂團是[Spitz](https://zh.wikipedia.org/wiki/Spitz "wikilink")、[B'z](../Page/B'z.md "wikilink")等等。\[1\]遊戲喜歡RPG類型的遊戲，非常尊敬遊戲作曲家「[伊藤賢治](../Page/伊藤賢治.md "wikilink")」，甚至以前在自己的網站中尊稱為「師匠」。也曾經多次將遊戲音樂重新編曲並且發表。
 
 曾說過「由於學生時代是在大阪度過，對大阪很有感觸」。另外，學生時期的社團是器械體操部。
 
@@ -56,21 +40,17 @@ REVO的作品由於故事性及世界觀都是開放式的，因此對於樂曲�
 
 結果Revo說有地主的話，那他更上一級，當「領主」好了，就是這一帶的領主。
 
-接著，在2006年到2007年的演唱會『Roman
-〜僕達が繋がる物語〜』上，因為希望能有些「有趣的演出」，所以企劃人員提案在演唱會上舉行「[國王就任儀式](https://zh.wikipedia.org/wiki/國王 "wikilink")」。之後，稱呼Revo為「國王」及「[陛下](../Page/陛下.md "wikilink")」的歌迷變多，Revo對此曾經在廣播節目中表示「希望大家依自己的喜好來稱呼（即是沒必要把稱呼方式強制統一）」。
+接著，在2006年到2007年的演唱會『Roman 〜僕達が繋がる物語〜』上，因為希望能有些「有趣的演出」，所以企劃人員提案在演唱會上舉行「[國王就任儀式](https://zh.wikipedia.org/wiki/國王 "wikilink")」。之後，稱呼Revo為「國王」及「[陛下](../Page/陛下.md "wikilink")」的歌迷變多，Revo對此曾經在廣播節目中表示「希望大家依自己的喜好來稱呼（即是沒必要把稱呼方式強制統一）」。
 
 關於國王的設定及就任儀式，亦曾經表示「雖然有些猶豫，但是如果大家都能夠樂在其中的話，那就照這樣進行吧...」\[3\]
 
-另外，Linked Horizon是為了要區別Sound
-Horizon的活動而設立，所以並沒有國王之類的設定。但在進擊的巨人發表時有自稱為「鎖地平團」的發言，所以在Linked
-Horizon活動時其他成員多稱呼Revo為「團長」。
+另外，Linked Horizon是為了要區別Sound Horizon的活動而設立，所以並沒有國王之類的設定。但在進擊的巨人發表時有自稱為「鎖地平團」的發言，所以在Linked Horizon活動時其他成員多稱呼Revo為「團長」。
 
 ### 逸聞
 
 喜歡驚喜，曾經為了讓歌迷高興而自掏腰包買小道具。\[4\]另外，也會將自己的曲子改編為8-BIT音樂放在自己的個人網站上讓歌迷免費下載。
 
-私生活及無關音樂的傳聞很少，在Sound
-Horizon後援會的會報中寫到在踏入音樂業界之前曾經當過小學老師。（但這是在會報vol.31中評論照片時的發言，在其他照片評論中也有很明顯的玩笑話，所以無法確認此消息是否為真。）
+私生活及無關音樂的傳聞很少，在Sound Horizon後援會的會報中寫到在踏入音樂業界之前曾經當過小學老師。（但這是在會報vol.31中評論照片時的發言，在其他照片評論中也有很明顯的玩笑話，所以無法確認此消息是否為真。）
 
 在Jimang的演唱會中擔任嘉賓時，被問到「如果轉世的話想成為什麼？」時，回答「就算轉世後也希望繼續從事音樂」。
 
@@ -201,21 +181,13 @@ Jimang曾說過，Revo有工作中毒的傾向，作曲的時候彷彿是另一�
 
 <div class="NavContent" style="text-align: left;">
 
-  - 1999/10/02 「機械仕掛けの 夕陽の下で」-原曲：[Final Fantasy
-    V](https://zh.wikipedia.org/wiki/Final_Fantasy_V "wikilink")
-    「ビッグブリッヂの死闘」
-  - 1999/10/05 「奇怪ヶ森の 歌チョコボ\[featuring Chobol\]」-原曲：[Final
-    Fantasy中](../Page/最终幻想_\(游戏\).md "wikilink")[陸行鳥的主題曲](https://zh.wikipedia.org/wiki/陸行鳥 "wikilink")
+  - 1999/10/02 「機械仕掛けの 夕陽の下で」-原曲：[Final Fantasy V](https://zh.wikipedia.org/wiki/Final_Fantasy_V "wikilink") 「ビッグブリッヂの死闘」
+  - 1999/10/05 「奇怪ヶ森の 歌チョコボ\[featuring Chobol\]」-原曲：[Final Fantasy中](../Page/最终幻想_\(游戏\).md "wikilink")[陸行鳥的主題曲](https://zh.wikipedia.org/wiki/陸行鳥 "wikilink")
   - 1999/10/08 「ＳｔａｒｔＬｉｎｅ」-原曲：MOTHER「最初のフィ－ルド？」
-  - 1999/10/11 「新世紀
-    サライネンデスヤンＯＰ主題歌」-原曲：[新世紀福音戰士片頭曲](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")「残酷な天使のテ－ゼ」
-  - 1999/10/16 「月下の咆哮」-原曲：[魔法公主片尾曲](../Page/魔法公主.md "wikilink") 「魔法公主」
-  - 1999/11/10
-    「お出かけ「唯」ちゃん♪」-原曲：[同級生２](https://zh.wikipedia.org/wiki/同級生_\(遊戲\) "wikilink")
-    「唯」
-  - 1999/12/03
-    「ドナドナ・ファンタジ－」-原曲：[多娜多娜](../Page/多娜多娜.md "wikilink")＋[Final
-    Fantasy](../Page/最终幻想_\(游戏\).md "wikilink")
+  - 1999/10/11 「新世紀 サライネンデスヤンＯＰ主題歌」-原曲：[新世紀福音戰士片頭曲](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")「残酷な天使のテ－ゼ」
+  - 1999/10/16 「月下の咆哮」-原曲：[魔法公主](../Page/魔法公主.md "wikilink")片尾曲 「魔法公主」
+  - 1999/11/10 「お出かけ「唯」ちゃん♪」-原曲：[同級生２](https://zh.wikipedia.org/wiki/同級生_\(遊戲\) "wikilink") 「唯」
+  - 1999/12/03 「ドナドナ・ファンタジ－」-原曲：[多娜多娜](../Page/多娜多娜.md "wikilink")＋[Final Fantasy](../Page/最终幻想_\(游戏\).md "wikilink")
 
 </div>
 
@@ -316,8 +288,7 @@ Jimang曾說過，Revo有工作中毒的傾向，作曲的時候彷彿是另一�
   - 1999/08/05 バカラ-來源：サガ・フロンティア１
   - 1999/09/23 しりとりサガ・メドレ－１-來源：サガ・メドレ－
   - 1999/09/29 Ａｉｓｈａ Ｄｒｉｖｅ-來源：サガ・メドレ－
-  - 1999/08/05
-    唯のテ－マ-來源：[同級生２](https://zh.wikipedia.org/wiki/同級生 "wikilink")
+  - 1999/08/05 唯のテ－マ-來源：[同級生２](https://zh.wikipedia.org/wiki/同級生 "wikilink")
   - 1999/08/05 桜子のテ－マ-來源：同級生２
   - 1999/08/05 Ａｒｄｅｎｔ Ｌｏｖｅ-來源：同級生２
   - 1999/08/05 Ｃａｌｍ Ｔｉｍｅ-來源：アトラク・ナクア
@@ -325,8 +296,7 @@ Jimang曾說過，Revo有工作中毒的傾向，作曲的時候彷彿是另一�
   - 1999/09/28 スペランカ－-來源：スペランカ－
   - 1999/09/25 ドラクエ：一発ネタ集-來源：ドラクエ
   - 1999/09/25 Energy Flow-來源：[坂本龍一](../Page/坂本龍一.md "wikilink")
-  - 1999/11/20 セリスのテ－マ-來源：[Final Fantasy
-    VI](https://zh.wikipedia.org/wiki/Final_Fantasy_VI "wikilink")
+  - 1999/11/20 セリスのテ－マ-來源：[Final Fantasy VI](https://zh.wikipedia.org/wiki/Final_Fantasy_VI "wikilink")
 
 </div>
 
@@ -362,12 +332,9 @@ Jimang曾說過，Revo有工作中毒的傾向，作曲的時候彷彿是另一�
 <!-- end list -->
 
   -
-    以「霜月はるか†Revo」的名義發行。Sound
-    Horizon和[霜月はるか的合作單曲](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")。
-    1.  Weiß
-        〜幻想への誘い〜（作詞：[霜月はるか](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")／作曲：Revo／編曲：Revo）
-    2.  Schwarz
-        ～そして少女は森の中～（作詞：Revo／作曲：[霜月はるか](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")／編曲：Revo）
+    以「霜月はるか†Revo」的名義發行。Sound Horizon和[霜月はるか的合作單曲](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")。
+    1.  Weiß 〜幻想への誘い〜（作詞：[霜月はるか](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")／作曲：Revo／編曲：Revo）
+    2.  Schwarz ～そして少女は森の中～（作詞：Revo／作曲：[霜月はるか](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")／編曲：Revo）
     3.  schwarzweiß ～霧の向こうに繋がる世界～（作詞、作曲、編曲：Revo）
 
 <!-- end list -->
@@ -377,7 +344,7 @@ Jimang曾說過，Revo有工作中毒的傾向，作曲的時候彷彿是另一�
 <!-- end list -->
 
   -
-    以「Revo&梶浦由記」的名義發行。Revo和[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[梶浦由記的合作單曲](../Page/梶浦由記.md "wikilink")。
+    以「Revo&梶浦由記」的名義發行。Revo和[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[梶浦由記](../Page/梶浦由記.md "wikilink")的合作單曲。
     1.  砂塵の彼方へ…
     2.  sand dream
     DVD
@@ -422,7 +389,7 @@ Jimang曾說過，Revo有工作中毒的傾向，作曲的時候彷彿是另一�
 
   - **ブレイブリーデフォルト フライング・フェアリー オリジナル・サウンドトラック**（2012年10月10日）
 
-[勇氣默示錄Bravely](../Page/勇氣默示錄.md "wikilink") Default: Flying Fairy的OST製作。
+[勇氣默示錄](../Page/勇氣默示錄.md "wikilink")Bravely Default: Flying Fairy的OST製作。
 
 CD：1
 
@@ -490,8 +457,7 @@ CD：2
 
   - **「Winter Mix 2003」**（2003年12月28日）
 
-由[Comic虎之穴所發售的CD](../Page/Comic虎之穴.md "wikilink")，REVO提供音樂CD中的樂曲《White
-Bell Fantasia》
+由[Comic虎之穴](../Page/Comic虎之穴.md "wikilink")所發售的CD，REVO提供音樂CD中的樂曲《White Bell Fantasia》
 
   - **「・・・for rest」**（藝人的單曲CD+DVD。）（2006年5月17日）
 
@@ -518,11 +484,9 @@ Revo擔任所有曲目的作詞、作曲、編曲，並在DVD的結尾畫面中�
 
 擔任主題曲及劇中部分插曲。
 
-  - *' [桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")『[MOON
-    PRIDE](../Page/MOON_PRIDE.md "wikilink")』*'（2014年7月30日）
+  - *' [桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")『[MOON PRIDE](../Page/MOON_PRIDE.md "wikilink")』*'（2014年7月30日）
 
-動畫[美少女戰士Crystal片頭曲](../Page/美少女戰士Crystal.md "wikilink")「MOON
-PRIDE」。Revo擔任作詞、作曲、編曲。
+動畫[美少女戰士Crystal](../Page/美少女戰士Crystal.md "wikilink")片頭曲「MOON PRIDE」。Revo擔任作詞、作曲、編曲。
 
 **歌詞提供**
 
@@ -534,8 +498,7 @@ PRIDE」。Revo擔任作詞、作曲、編曲。
 ### 其他
 
   - [網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")（[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")）「BelleIsle」遊戲內以[非玩家角色](../Page/非玩家角色.md "wikilink")（NPC）身份客串登場。
-  - 在「Revo Linked BRAVELY DEFAULT
-    Concert」的演唱會時發佈Revo本人的[3DS好友檔案](https://zh.wikipedia.org/wiki/3DS "wikilink")。可用於在任天堂3DS遊戲「[勇氣默示錄](../Page/勇氣默示錄.md "wikilink")」（BDFF）中，使用好友召喚功能召喚Revo本人的技能。
+  - 在「Revo Linked BRAVELY DEFAULT Concert」的演唱會時發佈Revo本人的[3DS好友檔案](https://zh.wikipedia.org/wiki/3DS "wikilink")。可用於在任天堂3DS遊戲「[勇氣默示錄](../Page/勇氣默示錄.md "wikilink")」（BDFF）中，使用好友召喚功能召喚Revo本人的技能。
 
 ## 註釋
 
@@ -543,22 +506,17 @@ PRIDE」。Revo擔任作詞、作曲、編曲。
 
 ## 外部連結
 
-  - [Sound
-    Horizon](https://archive.is/20121204183429/http://sound-horizon.net/)，Revo的個人站台。
+  - [Sound Horizon](https://archive.is/20121204183429/http://sound-horizon.net/)，Revo的個人站台。
 
-  - [Sound Horizon official website](http://soundhorizon.com/)，[Sound
-    Horizon的官方網站](../Page/Sound_Horizon.md "wikilink")。
+  - [Sound Horizon official website](http://soundhorizon.com/)，[Sound Horizon的官方網站](../Page/Sound_Horizon.md "wikilink")。
 
-[Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink")
-[Category:日本音樂製作人](https://zh.wikipedia.org/wiki/Category:日本音樂製作人 "wikilink")
+[Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:日本音樂製作人](https://zh.wikipedia.org/wiki/Category:日本音樂製作人 "wikilink")
 
 1.  2006年11月24日於電視節目「音流〜On Ryu〜」的訪談。
 2.  2014年9月16日於廣播節目「」的訪談。
 3.  2007年1月12日於廣播節目「かんさいeスクエア」的留言。
-4.  2007年4月16日Jimang於線上廣播節目「IIL-INTERNET INDIES LABEL- Internet
-    Stream」發言。
+4.  2007年4月16日Jimang於線上廣播節目「IIL-INTERNET INDIES LABEL- Internet Stream」發言。
 5.  2007年6月19日Sound Horizon會員限定活動『移動王国建国記念国王陛下超聖誕祭』時發言。
 6.  [2012年3月11日東日本大震災義援金寄付につきまして](http://soundhorizon.com/information/index.html#120311)
-
 7.  [2014年1月1日オリコンスタイル，【紅白】リンホラ、初テレビで緊張？　歌唱後の“珍騒動”でスタッフ大慌て](http://www.oricon.co.jp/news/2032653/full/)
 8.  [2014年1月7日シネマトゥデイ，リンホラRevo、紅白マイクはちゃんと返却！NHKスタッフに謝罪](http://www.cinematoday.jp/page/N0059425)

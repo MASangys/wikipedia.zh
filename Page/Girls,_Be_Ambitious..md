@@ -1,7 +1,4 @@
-《**Girls, Be
-Ambitious.**》是[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年1月27日由[Music
-Ray'n
-Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。\[1\]
+《**Girls, Be Ambitious.**》是[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年1月27日由[Music Ray'n Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。\[1\]
 
 ## 收錄曲
 
@@ -33,8 +30,6 @@ Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。\[1\]
 
   - [戶松遥 Special website](http://www.tomatsuharuka.com/)
 
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
-[Category:戶松遙單曲](https://zh.wikipedia.org/wiki/Category:戶松遙單曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
+[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink") [Category:戶松遙單曲](https://zh.wikipedia.org/wiki/Category:戶松遙單曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
 
 1.  <http://www.tomatsuharuka.com/disco/index.html>

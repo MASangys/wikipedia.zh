@@ -1,10 +1,10 @@
-**JKT48**是以[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[雅加達為中心活動的](https://zh.wikipedia.org/wiki/雅加達 "wikilink")，於2011年成軍，由[秋元康擔任](../Page/秋元康.md "wikilink")[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")，為[AKB48系列首支活動據點在日本以外的姊妹團體](../Page/AKB48.md "wikilink")。
+**JKT48**是以[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[雅加達為中心活動的](https://zh.wikipedia.org/wiki/雅加達 "wikilink")，於2011年成軍，由[秋元康](../Page/秋元康.md "wikilink")擔任[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")，為[AKB48](../Page/AKB48.md "wikilink")系列首支活動據點在日本以外的姊妹團體。
 
 ## 概要
 
-JKT48和將[東京都內](../Page/東京都.md "wikilink")[秋葉原作為根據地的母團體AKB](../Page/秋葉原.md "wikilink")48相像，雖然是以AKB48的概念為主，但亦融入了印尼本身的在地文化。而「[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")」子公司在印尼設立的經營事務局「印尼電通媒體集團」，是全體成員的所屬事務所\[1\]（僅不包含AKB48轉來的留学生－高城・仲川）。
+JKT48和將[東京都](../Page/東京都.md "wikilink")內[秋葉原](../Page/秋葉原.md "wikilink")作為根據地的母團體AKB48相像，雖然是以AKB48的概念為主，但亦融入了印尼本身的在地文化。而「[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")」子公司在印尼設立的經營事務局「印尼電通媒體集團」，是全體成員的所屬事務所\[1\]（僅不包含AKB48轉來的留学生－高城・仲川）。
 
-在[日本国内除AKB](../Page/日本.md "wikilink")48以外，尚有以20岁以上成員構成的「[SDN48](../Page/SDN48.md "wikilink")」\[2\]、以位於[名古屋市內](../Page/名古屋市.md "wikilink")[榮為據点的](../Page/榮_\(名古屋市\).md "wikilink")「[SKE48](../Page/SKE48.md "wikilink")」、以[大阪市內](../Page/大阪市.md "wikilink")[難波為據点的](../Page/難波.md "wikilink")「[NMB48](../Page/NMB48.md "wikilink")」、以[福岡市內的](../Page/福岡市.md "wikilink")[博多為據点的](https://zh.wikipedia.org/wiki/博多 "wikilink")「[HKT48](../Page/HKT48.md "wikilink")」，合計共5組的48系團體，而JKT48是首個在日本海外推出的姊妹團。
+在[日本](../Page/日本.md "wikilink")国内除AKB48以外，尚有以20岁以上成員構成的「[SDN48](../Page/SDN48.md "wikilink")」\[2\]、以位於[名古屋市](../Page/名古屋市.md "wikilink")內[榮為據点的](../Page/榮_\(名古屋市\).md "wikilink")「[SKE48](../Page/SKE48.md "wikilink")」、以[大阪市](../Page/大阪市.md "wikilink")內[難波](../Page/難波.md "wikilink")為據点的「[NMB48](../Page/NMB48.md "wikilink")」、以[福岡市](../Page/福岡市.md "wikilink")內的[博多為據点的](https://zh.wikipedia.org/wiki/博多 "wikilink")「[HKT48](../Page/HKT48.md "wikilink")」，合計共5組的48系團體，而JKT48是首個在日本海外推出的姊妹團。
 
 ### 與 AKB48 及其他姊妹團體的不同之處
 
@@ -15,33 +15,24 @@ JKT48和將[東京都內](../Page/東京都.md "wikilink")[秋葉原作為根據
 
 ### 2011年
 
-  - 9月11日，[AKB48的第](../Page/AKB48.md "wikilink")22張單曲《[飛翔入手](../Page/飛翔入手.md "wikilink")》劇場版握手会發表了组合将成立的消息\[3\]。
+  - 9月11日，[AKB48](../Page/AKB48.md "wikilink")的第22張單曲《[飛翔入手](../Page/飛翔入手.md "wikilink")》劇場版握手会發表了组合将成立的消息\[3\]。
   - 9月中旬，開始招募第1期生。
   - 11月3日，披露1期生28名。
   - 12月12日，出演「AKB48紅白対抗歌合戦」（初次在日本披露）。
 
 ### 2012年
 
-  - 1月14日，歌曲《[Heavy
-    Rotation](https://zh.wikipedia.org/wiki/Heavy_Rotation_（JKT48专辑） "wikilink")》（翻唱自《[無限重播](../Page/無限重播.md "wikilink")》）的MV公布。
+  - 1月14日，歌曲《[Heavy Rotation](https://zh.wikipedia.org/wiki/Heavy_Rotation_（JKT48专辑） "wikilink")》（翻唱自《[無限重播](../Page/無限重播.md "wikilink")》）的MV公布。
   - 2月11日，首次在频道演唱《[好想見你](../Page/飞翔入手_\(JKT48单曲\).md "wikilink")》。
-  - 2月15日，AKB48的第25張單曲《[GIVE ME
-    FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》發售，Melody Nurramdhani
-    Laksani与SKE48的[松井珠理奈在B面曲](../Page/松井珠理奈.md "wikilink")《NEW
-    SHIP》共同擔任Special Girls
-    A的双中心，也使她成为首位参加AKB48歌曲录制的JKT48成員。而且，AKB48的樂曲是首個由日本国籍以外的成員参加。
-  - 3月10日，首次在Global
-    TV频道中演唱《[因為喜歡你](../Page/Heavy_Rotation_\(JKT48专辑\).md "wikilink")》。
+  - 2月15日，AKB48的第25張單曲《[GIVE ME FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》發售，Melody Nurramdhani Laksani与SKE48的[松井珠理奈](../Page/松井珠理奈.md "wikilink")在B面曲《NEW SHIP》共同擔任Special Girls A的双中心，也使她成为首位参加AKB48歌曲录制的JKT48成員。而且，AKB48的樂曲是首個由日本国籍以外的成員参加。
+  - 3月10日，首次在Global TV频道中演唱《[因為喜歡你](../Page/Heavy_Rotation_\(JKT48专辑\).md "wikilink")》。
   - 4月15日，Global TV中首個冠名節目《》開始放映。每週30分鐘，共播放8次。
   - 5月17日，在雅加達市内的暂用劇場中开始表演[睡衣兜風公演](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#1期生 "wikilink")。
   - 7月9日，首次在[RCTI频道演唱](https://zh.wikipedia.org/wiki/RCTI "wikilink")《[馬尾與髮圈](https://zh.wikipedia.org/wiki/Heavy_Rotation_（JKT48专辑） "wikilink")》。
   - 7月11日，官方粉絲俱樂部設立發表。
   - 7月17日，RCTI的廣播節目《Mega Konser JKT48》中出演。披露了10曲。
   - 8月13日，第2期生的募集開始。
-  - 8月24日，参加演唱会[AKB48 in TOKYO DOME
-    ～1830m的梦想～](https://zh.wikipedia.org/wiki/AKB48_in_TOKYO_DOME_～1830m的梦想～ "wikilink")。同时發表AKB48
-    Team
-    A的[高城亞樹](../Page/高城亞樹.md "wikilink")，[仲川遥香将移籍至JKT](../Page/仲川遥香.md "wikilink")48\[4\]。
+  - 8月24日，参加演唱会[AKB48 in TOKYO DOME ～1830m的梦想～](https://zh.wikipedia.org/wiki/AKB48_in_TOKYO_DOME_～1830m的梦想～ "wikilink")。同时發表AKB48 Team A的[高城亞樹](../Page/高城亞樹.md "wikilink")，[仲川遥香](../Page/仲川遥香.md "wikilink")将移籍至JKT48\[4\]。
   - 9月8日，雅加達市内的[商場](../Page/商場.md "wikilink")内的專用劇場启用\[5\]\[6\]。
   - 11月1日，AKB48的高城亜樹，仲川遥香移籍。
   - 11月3日，發表了2期生31名加入的消息。
@@ -50,70 +41,50 @@ JKT48和將[東京都內](../Page/東京都.md "wikilink")[秋葉原作為根據
 
 ### 2013年
 
-  - 2月16日，第一张专辑《[Heavy
-    Rotation](https://zh.wikipedia.org/wiki/Heavy_Rotation_（JKT48专辑） "wikilink")》发售。
+  - 2月16日，第一张专辑《[Heavy Rotation](https://zh.wikipedia.org/wiki/Heavy_Rotation_（JKT48专辑） "wikilink")》发售。
   - 4月21日，在「Selebrita Awards」中获得最佳新秀奖。
   - 5月11日，第一张单曲《[RIVER](../Page/RIVER_\(JKT48單曲\).md "wikilink")》发售
   - 6月18日，在JKT48專屬劇場舉辦的公演中，發表了野澤玲奈兼任AKB48的消息\[7\]。
   - 6月23日，初次巡回演唱会“初次见面。我们是JKT48”（）开始。7月4日结束，共计全5地7公演。
   - 6月25日，Team KIII成立，有18名2期生组成。
-  - 7月3日，在演唱会“初次见面。我们是JKT48”雅加达第一日场上发表了Shinta Naomi担任Team
-    KIII队长的消息。同日，单曲《[Yuuhi wo
-    Miteiruka?](../Page/你正在看着夕阳吗？_\(JKT48单曲\).md "wikilink")》发行。
-  - 8月21日，第三张单曲《[Fortune Cookie in
-    Love](https://zh.wikipedia.org/wiki/戀愛幸運餅_\(JKT48单曲\) "wikilink")》发行。
-  - 8月26日，Melody Nurramdhani
-    Laksani受邀担任日本[岡山县](https://zh.wikipedia.org/wiki/岡山县 "wikilink")“水果推广大使”（）一职\[8\]。
+  - 7月3日，在演唱会“初次见面。我们是JKT48”雅加达第一日场上发表了Shinta Naomi担任Team KIII队长的消息。同日，单曲《[Yuuhi wo Miteiruka?](../Page/你正在看着夕阳吗？_\(JKT48单曲\).md "wikilink")》发行。
+  - 8月21日，第三张单曲《[Fortune Cookie in Love](https://zh.wikipedia.org/wiki/戀愛幸運餅_\(JKT48单曲\) "wikilink")》发行。
+  - 8月26日，Melody Nurramdhani Laksani受邀担任日本[岡山县](https://zh.wikipedia.org/wiki/岡山县 "wikilink")“水果推广大使”（）一职\[8\]。
   - 11月3日，3期生招募开始。
-  - 11月26日，第四张单曲《[Manatsu no Sounds
-    Good\!](../Page/仲夏的Sounds_good!_\(JKT48单曲\).md "wikilink")》发行。
-  - 12月21日，演唱会“JKT48 2nd Anniversary Live in Concert "Performing All
-    Out\! Terima kasih telah menjadi
-    temanku"”举办。在早场演出上，日本搞笑组合[COWCOW作为嘉宾出演](https://zh.wikipedia.org/wiki/COWCOW "wikilink")。在夜场演出中，属于Team
-    J的Melody Nurramdhani Laksani被授予了JKT48队长一职\[9\]。
+  - 11月26日，第四张单曲《[Manatsu no Sounds Good\!](../Page/仲夏的Sounds_good!_\(JKT48单曲\).md "wikilink")》发行。
+  - 12月21日，演唱会“JKT48 2nd Anniversary Live in Concert "Performing All Out\! Terima kasih telah menjadi temanku"”举办。在早场演出上，日本搞笑组合[COWCOW作为嘉宾出演](https://zh.wikipedia.org/wiki/COWCOW "wikilink")。在夜场演出中，属于Team J的Melody Nurramdhani Laksani被授予了JKT48队长一职\[9\]。
 
 ### 2014年
 
-  - 2月24日，於舉辦的「AKB48集團大組閣祭」中宣布[近野莉菜将自AKB](../Page/近野莉菜.md "wikilink")48移籍至JKT48\[10\]。
+  - 2月24日，於舉辦的「AKB48集團大組閣祭」中宣布[近野莉菜](../Page/近野莉菜.md "wikilink")将自AKB48移籍至JKT48\[10\]。
   - 3月5日，第五张单曲《[Flying Get](../Page/飞翔入手_\(JKT48单曲\).md "wikilink")》发行。
   - 3月15日，发表了3期生32名加入的消息\[11\]。
-  - 3月 - 4月，举办了“JKT48
-    6th单曲選抜总选举〜由大家决定的、16名选拔成员〜　重要的事要由大家决定\!”（）（第一屆單曲選拔總選舉）。总队长Melody
-    Nurramdhani Laksani获得第一名，同时取得了第六张单曲的中心位置。\[12\]
-  - 6月11日，第六张单曲《[Gingham
-    Check](https://zh.wikipedia.org/wiki/格子花紋\(JKT48单曲\) "wikilink")》发行。
+  - 3月 - 4月，举办了“JKT48 6th单曲選抜总选举〜由大家决定的、16名选拔成员〜　重要的事要由大家决定\!”（）（第一屆單曲選拔總選舉）。总队长Melody Nurramdhani Laksani获得第一名，同时取得了第六张单曲的中心位置。\[12\]
+  - 6月11日，第六张单曲《[Gingham Check](https://zh.wikipedia.org/wiki/格子花紋\(JKT48单曲\) "wikilink")》发行。
   - 8月27日，第七张单曲《Kokoro no Placard》发行。
   - 12月24日，第八张单曲《Kaze wa Fuiteiru》发行。
-  - 12月27日，於演唱会「JKT48 3rd Anniversary Live in Concert "Saya Masih Anak
-    Kecil"」宣佈明年將與AKB48一起举办演唱会並成立子團體4 Gulali。
+  - 12月27日，於演唱会「JKT48 3rd Anniversary Live in Concert "Saya Masih Anak Kecil"」宣佈明年將與AKB48一起举办演唱会並成立子團體4 Gulali。
 
 ### 2015年
 
   - 1月10日，4期生招募开始。
   - 1月24日，於JKT48劇場宣佈，16名3期生组成Team T，25日组成。
   - 3月27日，第九张单曲《Pareo wa Emerald》发行。
-  - 4月 - 5月，举办「JKT48 10th单曲選抜总选举」（第二屆單曲選拔總選舉）。去年第2名Jessica
-    Veranda获得第一名，去年第1名Melody Nurramdhani
-    Laksani則跌至第3名。Jessica Veranda取得了第十张单曲的中心位置。
+  - 4月 - 5月，举办「JKT48 10th单曲選抜总选举」（第二屆單曲選拔總選舉）。去年第2名Jessica Veranda获得第一名，去年第1名Melody Nurramdhani Laksani則跌至第3名。Jessica Veranda取得了第十张单曲的中心位置。
   - 5月17日，於JKT48活動"Pareo wa Emerald Handshake festival"，发表了4期生12名加入的消息。
   - 5月27日，第十张单曲《Kibouteki Refrain》发行。
-  - 6月13日，演唱会「JKT48 Ada banyak rasa, Pilih suka rasa apa? JKT48 LIVE in
-    CONCERT」發表JKT48人事異動。Melody Nurramdhani Laksani擔任JKT48劇場經理，Team
-    J成員Shania Junianatha擔任Team J隊長，Team J成員Devi Kinal Putri擔任Team
-    KIII隊長，Team J成員[仲川遥香擔任Team](../Page/仲川遥香.md "wikilink") T隊長。原Team
-    KIII隊長Shinta Naomi轉調至Team J。
+  - 6月13日，演唱会「JKT48 Ada banyak rasa, Pilih suka rasa apa? JKT48 LIVE in CONCERT」發表JKT48人事異動。Melody Nurramdhani Laksani擔任JKT48劇場經理，Team J成員Shania Junianatha擔任Team J隊長，Team J成員Devi Kinal Putri擔任Team KIII隊長，Team J成員[仲川遥香](../Page/仲川遥香.md "wikilink")擔任Team T隊長。原Team KIII隊長Shinta Naomi轉調至Team J。
   - 8月26日，第11张单曲《Halloween Night》发行。
 
 ### 2016年
 
   - 1月1日，第12张单曲《Beginner》发行。
-  - 3月23日，第2张专辑《Mahagita–Kamikyokutachi》发行。同日JKT48第13张单曲總選舉開始，由Jessica
-    Veranda獲得第1名。
+  - 3月23日，第2张专辑《Mahagita–Kamikyokutachi》发行。同日JKT48第13张单曲總選舉開始，由Jessica Veranda獲得第1名。
   - 6月1日，第13张单曲《Mae Shika Mukanee -Hanya Lihat Ke Depan-》发行。
   - 9月21日，第14张单曲《LOVE TRIP》发行。
   - 12月1日，實行新體制。
   - 12月21日，第15张单曲《Saikou ka yo -Luar Biasa-》发行。
-  - 12月31日，[仲川遥香畢業](../Page/仲川遥香.md "wikilink")。
+  - 12月31日，[仲川遥香](../Page/仲川遥香.md "wikilink")畢業。
 
 ### 2017年
 
@@ -126,23 +97,22 @@ JKT48和將[東京都內](../Page/東京都.md "wikilink")[秋葉原作為根據
 ### 2018年
 
   - 2月24日，研究生Ratu Vienny Fitrilya再次昇格至Team KIII。
-  - 3月24日，舉辦Melody Nurramdhani Laksani畢業紀念演唱會。營運單位於當日宣布4月1日起Melody
-    Nurramdhani Laksani專任劇場經理，Team J第2任隊長Shania
-    Junianatha接任JKT48總隊長，Team J第3任隊長由Priscillia Sari Dewi擔任。
+  - 3月24日，舉辦Melody Nurramdhani Laksani畢業紀念演唱會。營運單位於當日宣布4月1日起Melody Nurramdhani Laksani專任劇場經理，Team J第2任隊長Shania Junianatha接任JKT48總隊長，Team J第3任隊長由Priscillia Sari Dewi擔任。
   - 3月27日，由於「[AKB48第53張單曲世界選拔總選舉](https://zh.wikipedia.org/wiki/AKB48第53張單曲世界選拔總選舉 "wikilink")」開票活動當天正值伊斯蘭教的[開齋節](../Page/開齋節.md "wikilink")，為印尼主要傳統節日之一，JKT48於官網並透過AKB48營運方宣布全體成員不參加本屆總選舉\[15\]。
-  - 4月8日，劇場經理Melody Nurramdhani
-    Laksani於劇場公演後正式介紹新加入的6期生，並以「RE:BOOST」為主題發表未來的改革方針（下述）\[16\]。
+  - 4月8日，劇場經理Melody Nurramdhani Laksani於劇場公演後正式介紹新加入的6期生，並以「RE:BOOST」為主題發表未來的改革方針（下述）\[16\]。
       - 各分隊成員定额恢復為16名
       - 取消現有研究生制度，成立「JKT48學院」\[17\]
-          - 學制分成相當於研究生的「Class A」與新生（等同於先前的暫定研究生）的「Class B」兩種等級，「Class
-            B」成員在基礎培訓中達到一定程度，合乎升等標準時，可升格為「Class A」成員
+          - 學制分成相當於研究生的「Class A」與新生（等同於先前的暫定研究生）的「Class B」兩種等級，「Class B」成員在基礎培訓中達到一定程度，合乎升等標準時，可升格為「Class A」成員
           - 1年內若未升格為正規成員者，將強制退團
           - 升格及降格成員於每年固定舉辦4次的握手會中公布
       - 未來將以近似AKB48 Team 8「可面對面見面的偶像」的理念進行印尼國内的巡演活動
       - 斋月期間將進行劇場改裝，並引進最新技術
       - 新體制將於開齋節後的6月底實施，舊制研究生與6期生將先行編入學院生體制
-  - 9月起，作为「日本與印尼建交60週年親善應援活動」的一部分，Team J成員Stephanie Pricilla Indarto
-    Putri至AKB48進行1個月的短期交換留學，AKB48成員[川本紗矢亦於同時期至JKT](../Page/川本紗矢.md "wikilink")48進行1個月的短期交換留學\[18\]。
+  - 9月起，作为「日本與印尼建交60週年親善應援活動」的一部分，Team J成員Stephanie Pricilla Indarto Putri至AKB48進行1個月的短期交換留學，AKB48成員[川本紗矢](../Page/川本紗矢.md "wikilink")亦於同時期至JKT48進行1個月的短期交換留學\[18\]。
+
+### 2019年
+
+  - 7月5日，SKE48的营运公司宣布了与JKT48的合作计划，时任SKE48劇場經理湯淺洋轉任JKT48特別顧問。
 
 ## 成員
 
@@ -194,8 +164,8 @@ Team J在2012年12月23日成立。
 <td><p>2期</p></td>
 <td><p>2013年6月25日</p></td>
 <td><p>前Team KIII（初代→Viviyona）<br />
-預定畢業[19]</p></td>
-<td><p>4</p></td>
+預定於2019年7月27日畢業[19]</p></td>
+<td><p>1</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -229,6 +199,16 @@ Team J在2012年12月23日成立。
 </tr>
 <tr class="odd">
 <td></td>
+<td><p>Sisca</p></td>
+<td></td>
+<td><p>3期</p></td>
+<td><p>2015年1月25日</p></td>
+<td><p>前Team T<br />
+前Team KIII（Ratu、Viviyona）</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td></td>
 <td><p>Frieska</p></td>
 <td></td>
 <td><p>1期</p></td>
@@ -238,7 +218,7 @@ Team J在2012年12月23日成立。
 前Team KIII（Ratu、Viviyona）</p></td>
 <td><p>12</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong></strong></p></td>
 <td><p><strong>Gaby</strong></p></td>
 <td></td>
@@ -247,7 +227,7 @@ Team J在2012年12月23日成立。
 <td><p><strong>Team J隊長（第4任）</strong></p></td>
 <td><p>13</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Michelle</p></td>
 <td></td>
@@ -256,15 +236,24 @@ Team J在2012年12月23日成立。
 <td><p>前Team T</p></td>
 <td><p>12</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>Nadila</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td><p>2013年6月25日</p></td>
+<td><p>前Team KIII（初代→Viviyona）</p></td>
+<td><p>20</p></td>
+</tr>
 <tr class="even">
 <td></td>
-<td><p>Aya</p></td>
+<td><p>Aurel</p></td>
 <td></td>
-<td><p>5期</p></td>
-<td><p>2016年12月1日</p></td>
-<td><p>前Team T（Melody）<br />
-預定於2019年7月21日轉隊至Team KIII</p></td>
-<td><p>26</p></td>
+<td><p>3期</p></td>
+<td><p>2015年1月25日</p></td>
+<td><p>前Team T（初代）<br />
+前Team KIII（Ratu、Viviyona）</p></td>
+<td><p>27</p></td>
 </tr>
 <tr class="odd">
 <td><p>Riska Amelia Putri</p></td>
@@ -277,6 +266,15 @@ Team J在2012年12月23日成立。
 </tr>
 <tr class="even">
 <td></td>
+<td><p>Ayen</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td><p>2013年6月25日</p></td>
+<td><p>前Team KIII（初代→Viviyona）</p></td>
+<td><p>11</p></td>
+</tr>
+<tr class="odd">
+<td></td>
 <td><p>Julie</p></td>
 <td></td>
 <td><p>5期</p></td>
@@ -284,17 +282,18 @@ Team J在2012年12月23日成立。
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Sinka</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td><p>2013年6月25日</p></td>
 <td><p>姊姊是Shinta Naomi<br />
-前Team KIII</p></td>
+前Team KIII<br />
+預定畢業</p></td>
 <td><p>17</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -337,13 +336,31 @@ Team KIII在2013年6月25日成立。
 <td><p>29</p></td>
 </tr>
 <tr class="even">
+<td><p>Anastasya Narwastu Tety Handuran</p></td>
+<td><p>Tasya</p></td>
+<td></td>
+<td><p>6期</p></td>
+<td><p>2019年7月21日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Angelina Christy</p></td>
+<td><p>Christy</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2019年7月21日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td><p>Anin</p></td>
 <td></td>
 <td><p>3期</p></td>
 <td><p>2015年1月25日</p></td>
 <td><p>前Team T<br />
-預定於2019年7月21日起兼任Team T</p></td>
+<strong>兼任Team T</strong></p></td>
 <td><p>10</p></td>
 </tr>
 <tr class="odd">
@@ -357,13 +374,12 @@ Team KIII在2013年6月25日成立。
 <td><p>5</p></td>
 </tr>
 <tr class="even">
+<td><p>Gita Sekar Andarini</p></td>
+<td><p>Gita</p></td>
 <td></td>
-<td><p>Sisca</p></td>
-<td></td>
-<td><p>3期</p></td>
-<td><p>2015年1月25日</p></td>
-<td><p>前Team T<br />
-預定於2019年7月21日轉隊至Team J</p></td>
+<td><p>6期</p></td>
+<td><p>2019年7月21日</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -395,31 +411,13 @@ Team KIII在2013年6月25日成立。
 </tr>
 <tr class="even">
 <td></td>
-<td><p>Nadila</p></td>
+<td><p>Aya</p></td>
 <td></td>
-<td><p>2期</p></td>
-<td><p>2013年6月25日</p></td>
-<td><p>預定於2019年7月21日轉隊至Team J</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>Nat</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td><p>2013年6月25日</p></td>
-<td><p>預定於2019年7月20日畢業</p></td>
-<td><p>24</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Aurel</p></td>
-<td></td>
-<td><p>3期</p></td>
-<td><p>2015年1月25日</p></td>
-<td><p>前Team T<br />
-預定於2019年7月21日轉隊至Team J</p></td>
-<td><p>27</p></td>
+<td><p>5期</p></td>
+<td><p>2016年12月1日</p></td>
+<td><p>前Team T（Melody）<br />
+前Team J（Shania→Gabriela）</p></td>
+<td><p>26</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -430,19 +428,11 @@ Team KIII在2013年6月25日成立。
 （再次昇格）</p></td>
 <td><p>2017年10月12日降格<br />
 前Team KIII<br />
-前Team KIII 隊長（第3任）</p></td>
+前Team KIII 隊長（第3任）<br />
+預定畢業</p></td>
 <td><p>7</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><p>Ayen</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td><p>2013年6月25日</p></td>
-<td><p>預定於2019年7月21日轉隊至Team J</p></td>
-<td><p>11</p></td>
-</tr>
-<tr class="odd">
 <td></td>
 <td><p>Shani</p></td>
 <td></td>
@@ -451,7 +441,7 @@ Team KIII在2013年6月25日成立。
 <td><p>前Team T</p></td>
 <td><p>1</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Gracia</p></td>
 <td></td>
@@ -460,17 +450,25 @@ Team KIII在2013年6月25日成立。
 <td><p>前Team T</p></td>
 <td><p>4</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong></strong></p></td>
 <td><p><strong>Yona</strong></p></td>
 <td></td>
 <td><p>2期</p></td>
 <td><p>2013年6月25日</p></td>
 <td><p><strong>Team KIII第4任隊長</strong><br />
-前Team KIII（初代→Kinal）<br />
 前Team J（Shania）<br />
 JKT48最年長</p></td>
 <td><p>10</p></td>
+</tr>
+<tr class="odd">
+<td><p>Yessica Tamara</p></td>
+<td><p>Chika</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2019年7月21日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -522,6 +520,15 @@ Team T在2015年1月25日成立。
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>Anin</p></td>
+<td></td>
+<td><p>3期</p></td>
+<td><p>2015年1月25日</p></td>
+<td><p><strong>兼任Team KIII</strong></p></td>
+<td><p>10</p></td>
+</tr>
+<tr class="even">
 <td><p><strong></strong></p></td>
 <td><p><strong>A-chan</strong></p></td>
 <td></td>
@@ -537,12 +544,21 @@ Team T在2015年1月25日成立。
 預定畢業</p></td>
 <td><p>2</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Fia</p></td>
 <td></td>
 <td><p>4期</p></td>
 <td><p>2016年12月1日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Gabriel Angelina</p></td>
+<td><p>Brielle</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2019年7月21日</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -586,6 +602,15 @@ Kyla</p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="odd">
+<td><p>Nabila Fitriana</p></td>
+<td><p>Lala</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2019年7月21日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td><p>Pucchi</p></td>
 <td></td>
@@ -594,7 +619,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Rinanda Syahputri</p></td>
 <td><p>Nanda</p></td>
 <td></td>
@@ -603,7 +628,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Sonia</p></td>
 <td></td>
@@ -614,7 +639,7 @@ Kyla</p></td>
 前Team KIII（Ratu、Viviyona）</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Angel</p></td>
 <td></td>
@@ -623,7 +648,7 @@ Kyla</p></td>
 <td><p>前Team T（Shania、Priscillia）</p></td>
 <td><p>32</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><br />
 （Tan Zhi Hui Celine）</p></td>
 <td><p>Celine</p></td>
@@ -633,7 +658,7 @@ Kyla</p></td>
 <td><p>来自<a href="../Page/马来西亚.md" title="wikilink">马来西亚</a></p></td>
 <td><p>18</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Vanka</p></td>
 <td></td>
@@ -642,7 +667,7 @@ Kyla</p></td>
 <td><p>前Team J（初代→Priscillia）</p></td>
 <td><p>16</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -703,24 +728,6 @@ Kyla</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>Anastasya Narwastu Tety Handuran</p></td>
-<td><p>Tasya</p></td>
-<td></td>
-<td><p>6期</p></td>
-<td><p>2018年6月10日</p></td>
-<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>Angelina Christy</p></td>
-<td><p>Christy</p></td>
-<td></td>
-<td><p>7期</p></td>
-<td><p>2018年10月28日</p></td>
-<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
 <td><p>Aurel Mayori</p></td>
 <td><p>Yori</p></td>
 <td></td>
@@ -753,7 +760,7 @@ Kyla</p></td>
 <td></td>
 <td><p>8期</p></td>
 <td><p>2019年6月30日</p></td>
-<td></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -820,30 +827,12 @@ Kyla</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>Gabriel Angelina</p></td>
-<td><p>Brielle</p></td>
-<td></td>
-<td><p>7期</p></td>
-<td><p>2018年10月28日</p></td>
-<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
 <td><p>Gabriella Stevany</p></td>
 <td><p>Vany</p></td>
 <td></td>
 <td><p>8期</p></td>
 <td><p>2019年6月</p></td>
 <td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gita Sekar Andarini</p></td>
-<td><p>Gita</p></td>
-<td></td>
-<td><p>6期</p></td>
-<td><p>2018年8月13日</p></td>
-<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -870,7 +859,7 @@ Kyla</p></td>
 <td></td>
 <td><p>7期</p></td>
 <td><p>2018年12月18日</p></td>
-<td></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -901,15 +890,6 @@ Kyla</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>Nabila Fitriana</p></td>
-<td><p>Lala</p></td>
-<td></td>
-<td><p>7期</p></td>
-<td><p>2018年10月28日</p></td>
-<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
 <td><p>Pamela Krysanthe</p></td>
 <td><p>Pamela</p></td>
 <td></td>
@@ -918,7 +898,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Reva Adriana</p></td>
 <td><p>Reva</p></td>
 <td></td>
@@ -927,7 +907,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Reva Fidela</p></td>
 <td><p>Adel</p></td>
 <td></td>
@@ -936,7 +916,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Rifa Fatmasari</p></td>
 <td><p>Rifa</p></td>
 <td></td>
@@ -945,7 +925,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Salma Annisa</p></td>
 <td><p>Alma</p></td>
 <td></td>
@@ -954,7 +934,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Shalza Grasita</p></td>
 <td><p>Shalza</p></td>
 <td></td>
@@ -963,7 +943,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Stefi</p></td>
 <td></td>
@@ -976,22 +956,13 @@ Kyla</p></td>
 2019年4月12日降格[23]</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Viona Fadrin</p></td>
 <td><p>Vivi</p></td>
 <td></td>
 <td><p>7期</p></td>
 <td><p>2018年10月28日</p></td>
 <td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>Yessica Tamara</p></td>
-<td><p>Chika</p></td>
-<td></td>
-<td><p>7期</p></td>
-<td><p>2018年10月28日</p></td>
-<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1413,7 +1384,7 @@ Kyla</p></td>
 5期</p></td>
 <td><p>KIII</p></td>
 <td><p>2018年3月25日[40][41]</p></td>
-<td><p><a href="../Page/伊藤公司.md" title="wikilink">伊藤公司所屬</a><br />
+<td><p><a href="../Page/伊藤公司.md" title="wikilink">伊藤公司</a>所屬<br />
 前AKB48 Team K（初代）<br />
 前AKB48 Team B（柏木）<br />
 前AKB48 Team K（大島）</p></td>
@@ -1624,6 +1595,15 @@ Kyla</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td><p>2期</p></td>
+<td><p>KIII</p></td>
+<td><p>2019年7月20日</p></td>
+<td><p>畢業</p></td>
+<td><p>24</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -2009,7 +1989,7 @@ Kyla</p></td>
 
 ### 成員構成推移年表
 
-到目前為止共實施五次的成員甄选，自AKB48移籍至JKT48的[高城亚樹](https://zh.wikipedia.org/wiki/高城亚樹 "wikilink")、[仲川遥香和](../Page/仲川遥香.md "wikilink")[近野莉菜除外的所有的成員皆經過甄选加入](../Page/近野莉菜.md "wikilink")。
+到目前為止共實施五次的成員甄选，自AKB48移籍至JKT48的[高城亚樹](https://zh.wikipedia.org/wiki/高城亚樹 "wikilink")、[仲川遥香](../Page/仲川遥香.md "wikilink")和[近野莉菜](../Page/近野莉菜.md "wikilink")除外的所有的成員皆經過甄选加入。
 
 <table>
 <caption><strong>成員構成推移年表</strong></caption>
@@ -3011,6 +2991,26 @@ Team T Made Devi Ranita Ningtara畢業</p></td>
 <td><p>42</p></td>
 <td><p>13</p></td>
 </tr>
+<tr class="odd">
+<td><p>7月20日</p></td>
+<td><p>Team KIII Natalia畢業</p></td>
+<td><p>-1</p></td>
+<td><p>81</p></td>
+<td><p>41</p></td>
+<td><p>13</p></td>
+</tr>
+<tr class="even">
+<td><p>7月21日</p></td>
+<td><p>Team J Nurhayati轉隊至Team KIII<br />
+Team KIII Fransisca Saraswati Puspa Dewi、Nadila Cindi Wantari、Ni Made Ayu Vania Aurellia、Rona Anggreani轉隊至Team J<br />
+Team KIII Aninditha Rahma Cahyadi兼任Team T<br />
+Class A Anastasya Narwastu Tety Handuran、Angelina Christy、Gita Sekar Andarini、Yessica Tamara昇格至Team KIII<br />
+Class A Gabriel Angelina、Nabila Fitriana昇格至Team T</p></td>
+<td></td>
+<td><p>81</p></td>
+<td><p>47</p></td>
+<td><p>16</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -3603,26 +3603,22 @@ Music Card</p></td>
 **印尼**
 
   - 日本流行文化節「J-POP 演唱會」（2012年2月25日、）
-  - Konser Cinta
-    Jakarta（2012年6月22日、[RCTI](https://zh.wikipedia.org/wiki/RCTI "wikilink")）
+  - Konser Cinta Jakarta（2012年6月22日、[RCTI](https://zh.wikipedia.org/wiki/RCTI "wikilink")）
   - Konser Terbaik-Terbaik AMI 15th（2012年7月9日、RCTI）
   - Mega Konser JKT48（2012年7月17日、RCTI）
   - Mahakarya RCTI 23 Tahun（2012年8月8日、RCTI）
   - Konser Super Dahsyat（2012年9月1日、RCTI）
   - Pesta Lamp10n（2012年10月8日、）
   - Ama21ng MNCTV（2012年10月20日、）
-  - 11th Anniversary Concert Kota Wisata Batu（2012年11月10日、Kawasan Alun
-    Alun Kota Batu, Provinsi Jawa Timur）
-  - HUT Emas Seskoal 50 Aniversary（2012年11月17日、Pantai Carnaval Ancol,
-    Jakarta）
+  - 11th Anniversary Concert Kota Wisata Batu（2012年11月10日、Kawasan Alun Alun Kota Batu, Provinsi Jawa Timur）
+  - HUT Emas Seskoal 50 Aniversary（2012年11月17日、Pantai Carnaval Ancol, Jakarta）
   - Konser Super Dahsyat "Hello Goodbye"（2012年11月26日、RCTI）
   - Salut Indonesia 2012（2012年12月2日、Global TV）
   - Konser Natal Kemegahan Kasihmu（2012年12月24日、RCTI）
   - Konser JKT48 Warnai Harimu（2013年2月17日、RCTI）
   - Konser INFINITY 8th Star Media Nusantara（2013年4月16日、RCTI）
   - Konser JKT48 di Gor UNY（2013年4月20日、Universitas Negeri Yogyakarta）
-  - Konser Kota Terang Hemat Energi（2013年4月27日、Lapangan Tembak Kodikmar,
-    Surabaya）
+  - Konser Kota Terang Hemat Energi（2013年4月27日、Lapangan Tembak Kodikmar, Surabaya）
   - Konser 『初次见面，我们是JKT48』（）"Perkenalkan Nama Kami JKT48"
       - 2013年6月23日、D’Liquid Cafe, Makassar
       - 2013年6月27日、GOR Sritex Arena, Solo
@@ -3632,23 +3628,12 @@ Music Card</p></td>
 
 **日本**
 
-  - [AKB48紅白對抗歌合戰](../Page/第1屆AKB48紅白對抗歌合戰.md "wikilink")（2011年12月20日、[TOKYO
-    DOME CITY
-    HALL](https://zh.wikipedia.org/wiki/MEETS_PORT#TOKYO_DOME_CITY_HALL "wikilink")）
-    - 16名
-  - [AKB48 重温时间 最佳曲目100
-    2012](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100_2012 "wikilink")（2012年1月20日、TOKYO
-    DOME CITY HALL） - 12名
-  - [业务连络。拜托了，片山部长！
-    in埼玉超级竞技场](https://zh.wikipedia.org/wiki/业务连络。拜托了，片山部长！_in埼玉超级竞技场 "wikilink")（2012年3月23日
-    - 25日、[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")） - 16名
-  - [AKB48 in TOKYO DOME
-    ～1830m的梦想～](https://zh.wikipedia.org/wiki/AKB48_in_TOKYO_DOME_～1830m的梦想～ "wikilink")（2012年8月24日
-    - 26日、[東京巨蛋](../Page/東京巨蛋.md "wikilink")） - 16名
-  - [第2屆AKB48红白对抗歌合战](../Page/第2屆AKB48红白对抗歌合战.md "wikilink")（2012年12月17日、TOKYO
-    DOME CITY HAL） - 16名
-  - [AKB48集团临时总会～黑白分明！～](https://zh.wikipedia.org/wiki/AKB48集团临时总会～黑白分明！～ "wikilink")（2013年4月28日、日本武道館）
-    - 16名
+  - [AKB48紅白對抗歌合戰](../Page/第1屆AKB48紅白對抗歌合戰.md "wikilink")（2011年12月20日、[TOKYO DOME CITY HALL](https://zh.wikipedia.org/wiki/MEETS_PORT#TOKYO_DOME_CITY_HALL "wikilink")） - 16名
+  - [AKB48 重温时间 最佳曲目100 2012](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100_2012 "wikilink")（2012年1月20日、TOKYO DOME CITY HALL） - 12名
+  - [业务连络。拜托了，片山部长！ in埼玉超级竞技场](https://zh.wikipedia.org/wiki/业务连络。拜托了，片山部长！_in埼玉超级竞技场 "wikilink")（2012年3月23日 - 25日、[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")） - 16名
+  - [AKB48 in TOKYO DOME ～1830m的梦想～](https://zh.wikipedia.org/wiki/AKB48_in_TOKYO_DOME_～1830m的梦想～ "wikilink")（2012年8月24日 - 26日、[東京巨蛋](../Page/東京巨蛋.md "wikilink")） - 16名
+  - [第2屆AKB48红白对抗歌合战](../Page/第2屆AKB48红白对抗歌合战.md "wikilink")（2012年12月17日、TOKYO DOME CITY HAL） - 16名
+  - [AKB48集团临时总会～黑白分明！～](https://zh.wikipedia.org/wiki/AKB48集团临时总会～黑白分明！～ "wikilink")（2013年4月28日、日本武道館） - 16名
 
 ### 電視
 
@@ -3670,8 +3655,7 @@ Music Card</p></td>
 
   - Konser JKT48 Warnai Harimu（2013年2月17日、RCTI）
 
-  - （2013年6月23日 -
-    、[Trans7](https://zh.wikipedia.org/wiki/Trans7 "wikilink")）
+  - （2013年6月23日 - 、[Trans7](https://zh.wikipedia.org/wiki/Trans7 "wikilink")）
 
   - Konser "Perkenalkan, nama kami JKT48"（2013年7月7日、Trans7）
 
@@ -3685,16 +3669,11 @@ Music Card</p></td>
 
 <!-- end list -->
 
-  - AKB48的Google+使用者（）（2012年3月27日 -
-    3月29日、[東京電視台](../Page/東京電視台.md "wikilink")）
-    - Melody、Ghaida、Nabilah
+  - AKB48的Google+使用者（）（2012年3月27日 - 3月29日、[東京電視台](../Page/東京電視台.md "wikilink")） - Melody、Ghaida、Nabilah
   - [AKB和××\!](../Page/AKB和××!.md "wikilink")（2012年9月13日・9月27日、[讀賣電視台](../Page/讀賣電視台.md "wikilink")）
-  - [週刊AKB](https://zh.wikipedia.org/wiki/週刊AKB "wikilink")（2012年9月14日 -
-    9月28日、東京電視台）
-  - [AKB48的你、是誰？](https://zh.wikipedia.org/wiki/AKB48的你、是誰？ "wikilink")（2013年4月29日、[NOTTV](../Page/NOTTV.md "wikilink")）
-    - 高城亜樹、仲川遥香、Kinal、Jessica V、Melody、Nabilah
-  - [AKB子兔道场](https://zh.wikipedia.org/wiki/AKB子兔道场 "wikilink")（2013年5月17日、東京電視台）
-    - 高城亜樹、仲川遥香、Kinal、Nabilah
+  - [週刊AKB](https://zh.wikipedia.org/wiki/週刊AKB "wikilink")（2012年9月14日 - 9月28日、東京電視台）
+  - [AKB48的你、是誰？](https://zh.wikipedia.org/wiki/AKB48的你、是誰？ "wikilink")（2013年4月29日、[NOTTV](../Page/NOTTV.md "wikilink")） - 高城亜樹、仲川遥香、Kinal、Jessica V、Melody、Nabilah
+  - [AKB子兔道场](https://zh.wikipedia.org/wiki/AKB子兔道场 "wikilink")（2013年5月17日、東京電視台） - 高城亜樹、仲川遥香、Kinal、Nabilah
 
 ### 电视剧
 
@@ -3704,26 +3683,20 @@ Music Card</p></td>
 
 **日本**
 
-  - 《[警部补
-    矢部谦三2](https://zh.wikipedia.org/wiki/警部补_矢部谦三#第二季（2013年） "wikilink")》（2013年7月5日
-    - 8月30日、[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")） -
-    Nabilah\[79\]
+  - 《[警部补 矢部谦三2](https://zh.wikipedia.org/wiki/警部补_矢部谦三#第二季（2013年） "wikilink")》（2013年7月5日 - 8月30日、[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")） - Nabilah\[79\]
 
 ### CM
 
 **印尼**
 
-  - [大塚製藥](../Page/大塚製藥.md "wikilink")「[寶礦力水得](https://zh.wikipedia.org/wiki/寶礦力水得 "wikilink")」（2011年12月
-    - ）
+  - [大塚製藥](../Page/大塚製藥.md "wikilink")「[寶礦力水得](https://zh.wikipedia.org/wiki/寶礦力水得 "wikilink")」（2011年12月 - ）
       -
         使用曲：《[無限重播](../Page/無限重播.md "wikilink")》（印尼語・日語）《[抱歉、SUMMER](../Page/抱歉、SUMMER.md "wikilink")》（日語）
   - [樂天](https://zh.wikipedia.org/wiki/樂天 "wikilink")
   - [花王](../Page/花王.md "wikilink")「[ロリエ](https://zh.wikipedia.org/wiki/ロリエ "wikilink")」
       -
         使用曲：《[因為喜歡你](../Page/RIVER_\(AKB48單曲\).md "wikilink")》（印尼語）
-  - [Yamaha Motor
-    Indonesia](https://zh.wikipedia.org/wiki/ヤマハ発動機 "wikilink")《Mio
-    J》
+  - [Yamaha Motor Indonesia](https://zh.wikipedia.org/wiki/ヤマハ発動機 "wikilink")《Mio J》
       -
         使用曲：《[好想見你](https://zh.wikipedia.org/wiki/好想見你_\(AKB48單曲\) "wikilink")》
   - 花王「[Biore](https://zh.wikipedia.org/wiki/Biore "wikilink")」
@@ -3731,8 +3704,7 @@ Music Card</p></td>
         使用曲：《[馬尾與髮圈](../Page/馬尾與髮圈.md "wikilink")》（日語）
   - [SHARP](https://zh.wikipedia.org/wiki/夏普公司 "wikilink")「[AQUOS](../Page/AQUOS.md "wikilink")」
       -
-        使用曲：《[Baby\! Baby\!
-        Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")》（印尼語）
+        使用曲：《[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")》（印尼語）
   - [固力果](../Page/江崎固力果.md "wikilink")「[百奇](../Page/百奇.md "wikilink")」
       -
         使用曲：《Baby\! Baby\! Baby\!》（印尼語）
@@ -3752,8 +3724,7 @@ Music Card</p></td>
 
 <!-- end list -->
 
-  - Iro Iro（2012年2月12日、Trax） - 6名（Diasta 、Ghaida 、Jessica・V、Devi、Shania
-    、Alissa・G）
+  - Iro Iro（2012年2月12日、Trax） - 6名（Diasta 、Ghaida 、Jessica・V、Devi、Shania 、Alissa・G）
 
 ### 活動
 
@@ -3761,46 +3732,30 @@ Music Card</p></td>
 
   - Meet and Greet JKT48（2011年12月18日、FX Center, Jakarta）
   - 無限重播MV發表会（2012年1月14日、FX Center, Jakarta）
-  - Meet and Greet JKT48（2012年3月4日、Senayan City, JL. Asia Afrika Lot 19
-    - Central Jakarta）
-  - Scavenger Hunt 48 with JKT48（2012年4月8日、Senayan City, JL. Asia Afrika
-    Lot 19 - Central Jakarta）
+  - Meet and Greet JKT48（2012年3月4日、Senayan City, JL. Asia Afrika Lot 19 - Central Jakarta）
+  - Scavenger Hunt 48 with JKT48（2012年4月8日、Senayan City, JL. Asia Afrika Lot 19 - Central Jakarta）
   - Meet and Greet JKT48（2012年4月29日、Log In Store, Bandung, Jawa Barat）
-  - Buka Puasa dan Beramal Bersama JKT48（2012年8月4日、Marley Signature Bar
-    and Food, Energy Building, Jakarta）
-  - Indonesia 67th Independence Day Singing "Hari
-    Merdeka"（2012年8月15日、Universitas ESA Unggul, Jakarta）
-  - Meet and Greet
-    JKT48（2012年9月20日・10月4日・10月10日・10月15日・10月23日・10月30日、JKT48
-    Theater, FX Center, Jakarta）
-  - Official Guidebook "LOVE JKT48" Sign Event（2012年10月13日・10月15日、JKT48
-    Theater, FX Center, Jakarta）
-  - OFC Event Bowling Tournament 2012（2012年10月21日、 Jakarta Bowling
-    Center, Pasar Festival Kuningan）
-  - OFC Event Fun Billiard with JKT48（2012年11月29日、 Pasar Festival
-    Kuningan）
-  - JKT48 First anniversary event（2012年12月23日、Gedung Basket Indoor Area
-    Hall B Senayan, Jakarta）
+  - Buka Puasa dan Beramal Bersama JKT48（2012年8月4日、Marley Signature Bar and Food, Energy Building, Jakarta）
+  - Indonesia 67th Independence Day Singing "Hari Merdeka"（2012年8月15日、Universitas ESA Unggul, Jakarta）
+  - Meet and Greet JKT48（2012年9月20日・10月4日・10月10日・10月15日・10月23日・10月30日、JKT48 Theater, FX Center, Jakarta）
+  - Official Guidebook "LOVE JKT48" Sign Event（2012年10月13日・10月15日、JKT48 Theater, FX Center, Jakarta）
+  - OFC Event Bowling Tournament 2012（2012年10月21日、 Jakarta Bowling Center, Pasar Festival Kuningan）
+  - OFC Event Fun Billiard with JKT48（2012年11月29日、 Pasar Festival Kuningan）
+  - JKT48 First anniversary event（2012年12月23日、Gedung Basket Indoor Area Hall B Senayan, Jakarta）
   - OFC Promo CD Event（2012年12月27日、JKT48 Theater, FX Center, Jakarta）
   - OFC New Year Event（2013年1月1日、JKT48 Theater, FX Center, Jakarta）
   - JKT48 Charity Event（2013年1月29日、JKT48 Theater, FX Center, Jakarta）
-  - OFC Futsal Event（2013年2月2日、Hanggar Futsal Pancoran, Jakarta Selatan,
-    DKI Jakarta）
-  - Event Jogja（2013年2月10日、Liquid Cafe, Jalan Magelang KM. 5,5, Sleman,
-    DI Yogyakarta）
+  - OFC Futsal Event（2013年2月2日、Hanggar Futsal Pancoran, Jakarta Selatan, DKI Jakarta）
+  - Event Jogja（2013年2月10日、Liquid Cafe, Jalan Magelang KM. 5,5, Sleman, DI Yogyakarta）
   - JKT48 Valentine Event（2013年2月14日、JKT48 Theater, FX Center, Jakarta）
-  - OFC Basketball Fun with JKT48（2013年2月25日、Hoops Arena, La codefin
-    Kemang South Jakarta）
-  - Renai Kinshi Jourei Charity Show \~What can I do for
-    Someone?\~（2013年3月11日、JKT48 Theater, FX Center, Jakarta）
-  - OFC Dodge Ball Event（2013年3月29日、Hanggar IBM Futsal, Pancoran Jakarta
-    Selatan DKI Jakarta）
+  - OFC Basketball Fun with JKT48（2013年2月25日、Hoops Arena, La codefin Kemang South Jakarta）
+  - Renai Kinshi Jourei Charity Show \~What can I do for Someone?\~（2013年3月11日、JKT48 Theater, FX Center, Jakarta）
+  - OFC Dodge Ball Event（2013年3月29日、Hanggar IBM Futsal, Pancoran Jakarta Selatan DKI Jakarta）
   - Individual Handshake Event（2013年4月14日、JKT48 Theater, FX Center, Jaka
 
 **新加坡**
 
-  - JKT48 in AKB48 Official Cafe Singapore（2012年3月3日、AKB48 Official Cafe
-    Singapore）
+  - JKT48 in AKB48 Official Cafe Singapore（2012年3月3日、AKB48 Official Cafe Singapore）
 
 **日本**
 
@@ -3813,45 +3768,30 @@ Music Card</p></td>
   - HelloFest8 ANIMA EXPO（2012年2月4日、Balai Kartini, Jakarta）
   - 桜祭り2012（2012年4月28日、Citywal, Lippo Cikarang Cikarang, Jawa Barat）
   - iFEST 2012（2012年5月5日、PRJ Kemayoran, Jakarta）
-  - Pocari Sweat Futsal Championship 2012（2012年5月13日、Hall A Basket
-    Senayan, Jakarta）
-  - Inter Milan Summer Tour 2012オープニング（2012年5月23日、Lapangan Bola Blok S,
-    Jakarta）
+  - Pocari Sweat Futsal Championship 2012（2012年5月13日、Hall A Basket Senayan, Jakarta）
+  - Inter Milan Summer Tour 2012オープニング（2012年5月23日、Lapangan Bola Blok S, Jakarta）
   - Fesbukan 2012（2012年6月3日、Universitas Padjadjaran, Bandung）
   - Euro RCTI 2012（2012年6月8日・7月1日、Lap.Seskoal Cipulir, Jakarta）
   - Youtube Indonesia Launch Event（2012年6月14日、Jakarta）
-  - Jakarta Fair Harajuku Cosplay JMusic 2012（2012年6月24日、Panggung
-    Budaya-Gambir Expo, Jakarta）
-  - POPCON Asia 2012（2012年6月29日、Jakarta Convention Center, Senayan,
-    Jakarta）
+  - Jakarta Fair Harajuku Cosplay JMusic 2012（2012年6月24日、Panggung Budaya-Gambir Expo, Jakarta）
+  - POPCON Asia 2012（2012年6月29日、Jakarta Convention Center, Senayan, Jakarta）
   - リトル東京ブロックM縁日祭（2012年6月30日、Little Tokyo Block M, Jakarta）
   - AMI AWARDS 15th（2012年7月4日、RCTI）
   - AEON Environmental Foundation Event（2012年7月15日、Bekasi, West Java）
   - 100TH ANNIVERSARRY SHARP（2012年9月15日、FX Center, Jakarta）
   - ジャカルタ日本祭2012（2012年9月23日・9月26日・9月30日、Jakarta）
   - Hai Day Honda Brio 2012（2012年10月27日、Parkir Timur Senayan, Jakarta）
-  - Rakuten Expo Jakarta 2012（2012年11月12日、Grand Indonesia, Central
-    Jakarta）
-  - HUT Emas Seskoal @ Pantai Carnaval Ancol（2012年11月17日、Pantai
-    Karnaval, Taman Impian Jaya Ancol, Jakarta）
-  - Pekan Produk Kreatif Indonesia 2012（2012年11月21日、Rasuna Epicentrum
-    Superblock, South Jakarta）
-  - Yahoo\! OMG Awards 2012（2012年11月24日、Kartika Expo, Balai Kartini,
-    Jakarta）
-  - Kaskus 13th Anniversary "Jelajah TKP\!"（2012年11月25日、Plaza Barat dan
-    Tennis Indoor, Senayan, Jakarta）
-  - IAH Games National Championship（2012年12月1日、Emporium Pluit Mall,
-    Jakarta）
-  - Nobar Barclay Premier League "MANCHESTER UNITED vs
-    LIVERPOOL"（2013年1月13日、Summarecon Mall Serpong, Jl. Boulevard
-    Gading Serpong, Jakarta）
-  - 2013年ジャカルタ ジャパン クラブ新年会（2013年1月15日、Ballroom 3, Mulia Hotel, Senayan,
-    Jakarta）
+  - Rakuten Expo Jakarta 2012（2012年11月12日、Grand Indonesia, Central Jakarta）
+  - HUT Emas Seskoal @ Pantai Carnaval Ancol（2012年11月17日、Pantai Karnaval, Taman Impian Jaya Ancol, Jakarta）
+  - Pekan Produk Kreatif Indonesia 2012（2012年11月21日、Rasuna Epicentrum Superblock, South Jakarta）
+  - Yahoo\! OMG Awards 2012（2012年11月24日、Kartika Expo, Balai Kartini, Jakarta）
+  - Kaskus 13th Anniversary "Jelajah TKP\!"（2012年11月25日、Plaza Barat dan Tennis Indoor, Senayan, Jakarta）
+  - IAH Games National Championship（2012年12月1日、Emporium Pluit Mall, Jakarta）
+  - Nobar Barclay Premier League "MANCHESTER UNITED vs LIVERPOOL"（2013年1月13日、Summarecon Mall Serpong, Jl. Boulevard Gading Serpong, Jakarta）
+  - 2013年ジャカルタ ジャパン クラブ新年会（2013年1月15日、Ballroom 3, Mulia Hotel, Senayan, Jakarta）
   - Dahsyatnya Awards 2013（2013年1月21日、RCTI）
-  - ALSEACE 2013 - SMA Al-Azhar BSD（2013年2月24日、BSD City, Tangerang
-    Selatan）
-  - CLAS:H（2013年3月3日、Gandaria City, Jl. Sultan Iskandar Muda Kebayoran
-    Lama, Jakarta）
+  - ALSEACE 2013 - SMA Al-Azhar BSD（2013年2月24日、BSD City, Tangerang Selatan）
+  - CLAS:H（2013年3月3日、Gandaria City, Jl. Sultan Iskandar Muda Kebayoran Lama, Jakarta）
   - EARTH DAY FESTIVAL（2013年4月20日、Universitas Negeri Yogyakarta）
   - PGN Anniversary at Monas（2013年5月19日、Monas, Jakarta）
 
@@ -3867,10 +3807,8 @@ Music Card</p></td>
 
 ### 暫定劇場的公演
 
-1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#1期生 "wikilink")（Pajama
-    Drive）
-      - 2012年5月17日 - 20日（8公演、Nyi Ageng Serang, Pasar Festival, Kuningan
-        Jakarta Selatan）
+1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#1期生 "wikilink")（Pajama Drive）
+      - 2012年5月17日 - 20日（8公演、Nyi Ageng Serang, Pasar Festival, Kuningan Jakarta Selatan）
       - 2012年6月14日 - 17日（7公演、Studio 7 Pasaraya Grande Blok M Jakarta）
       - 2012年7月13日 - 15日（6公演、Studio 7 Pasaraya Grande Blok M Jakarta）
 
@@ -3878,15 +3816,11 @@ Music Card</p></td>
 
 #### Team J
 
-1.  [恋愛禁止条例](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「恋愛禁止条例」#JKT48_Team_J_1st_Stage“恋爱禁止条例”公演 "wikilink")（Aturan
-    Anti Cinta）：2012年12月26日 - 2013年12月28日（132公演）
-2.  [为了谁](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」#JKT48_Team_J_2nd_Stage“为了谁”公演 "wikilink")（Demi
-    Seseorang）：2014年1月18日\[80\] - 2015年4月26日\[81\]（117公演）
-3.  [剧场的女神](https://zh.wikipedia.org/wiki/Team_B_5th_Stage「剧场的女神」#JKT48_Team_J_3rd_Stage「剧场的女神」公演 "wikilink")（Dewi
-    Theater）：2015年5月17日\[82\] - 2016年11月27日
+1.  [恋愛禁止条例](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「恋愛禁止条例」#JKT48_Team_J_1st_Stage“恋爱禁止条例”公演 "wikilink")（Aturan Anti Cinta）：2012年12月26日 - 2013年12月28日（132公演）
+2.  [为了谁](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」#JKT48_Team_J_2nd_Stage“为了谁”公演 "wikilink")（Demi Seseorang）：2014年1月18日\[80\] - 2015年4月26日\[81\]（117公演）
+3.  [剧场的女神](https://zh.wikipedia.org/wiki/Team_B_5th_Stage「剧场的女神」#JKT48_Team_J_3rd_Stage「剧场的女神」公演 "wikilink")（Dewi Theater）：2015年5月17日\[82\] - 2016年11月27日
 4.  B•E•L•I•E•V•E：2016年12月9日 - 2017年5月14日
-5.  [正在恋爱中](../Page/Team_A_4th_Stage“正在恋爱中”.md "wikilink")（Sekarang
-    Sedang Jatuh Cinta）：2017年5月19日 -
+5.  [正在恋爱中](../Page/Team_A_4th_Stage“正在恋爱中”.md "wikilink")（Sekarang Sedang Jatuh Cinta）：2017年5月19日 -
 
 <!-- end list -->
 
@@ -3894,22 +3828,16 @@ Music Card</p></td>
 
 <!-- end list -->
 
-1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」 "wikilink")（Pajama
-    Drive）：2014年9月3日、5日（2公演）
-2.  [我的太阳](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")（Matahari
-    Milikku）：2015年2月13日 - 3月13日（11公演）
+1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」 "wikilink")（Pajama Drive）：2014年9月3日、5日（2公演）
+2.  [我的太阳](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")（Matahari Milikku）：2015年2月13日 - 3月13日（11公演）
 
 #### Team KIII
 
-1.  [我的太阳](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#JKT48_Team_KIII_1st_Stage“我的太阳”公演 "wikilink")（Matahari
-    Milikku）：2013年6月28日 - 2014年2月22日\[83\]（107公演）
-2.  [青春女孩](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage「青春女孩」#JKT48_Team_KIII_2nd_Stage「青春女孩」 "wikilink")（Gadis-Gadis
-    Remaja）：2014年3月8日\[84\] - 2015年3月14日\[85\]（113公演）
-3.  [最终钟声鸣响](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最终钟声鸣响」#JKT48_Team_KIII_3rd_Stage「最终钟声鸣响」公演 "wikilink")（Bel
-    Terakhir Berbunyi）：2015年8月1日 - 2016年11月27日
+1.  [我的太阳](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#JKT48_Team_KIII_1st_Stage“我的太阳”公演 "wikilink")（Matahari Milikku）：2013年6月28日 - 2014年2月22日\[83\]（107公演）
+2.  [青春女孩](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage「青春女孩」#JKT48_Team_KIII_2nd_Stage「青春女孩」 "wikilink")（Gadis-Gadis Remaja）：2014年3月8日\[84\] - 2015年3月14日\[85\]（113公演）
+3.  [最终钟声鸣响](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最终钟声鸣响」#JKT48_Team_KIII_3rd_Stage「最终钟声鸣响」公演 "wikilink")（Bel Terakhir Berbunyi）：2015年8月1日 - 2016年11月27日
 4.  B•E•L•I•E•V•E：2016年12月8日 - 2018年2月27日（130公演）
-5.  [引体后翻](../Page/Team_K_5th_Stage“引体后翻”.md "wikilink")（Saka
-    Agari）：2018年3月4日 -
+5.  [引体后翻](../Page/Team_K_5th_Stage“引体后翻”.md "wikilink")（Saka Agari）：2018年3月4日 -
 
 <!-- end list -->
 
@@ -3917,45 +3845,31 @@ Music Card</p></td>
 
 <!-- end list -->
 
-1.  [恋愛禁止条例](https://zh.wikipedia.org/wiki/TeamA_5th_Stage「恋愛禁止条例」#JKT48_TeamKIII「恋愛禁止条例」公演 "wikilink")（Aturan
-    Anti Cinta）\[86\]：2013年12月26日 - 28日（3公演）
-2.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」 "wikilink")（Pajama
-    Drive）
+1.  [恋愛禁止条例](https://zh.wikipedia.org/wiki/TeamA_5th_Stage「恋愛禁止条例」#JKT48_TeamKIII「恋愛禁止条例」公演 "wikilink")（Aturan Anti Cinta）\[86\]：2013年12月26日 - 28日（3公演）
+2.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」 "wikilink")（Pajama Drive）
       - 2014年9月2日、4日（2公演）
       - 2015年3月31日 - 4月29日（10公演）
 
 #### Team T
 
-1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#Team_T "wikilink")（Pajama
-    Drive）：2015年1月31日 - 2015年3月6日\[87\]（9公演）
-2.  [手牵手](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage「手牵手」#JKT48_Team_T_2nd_Stage「手牵手」 "wikilink")（Sambil
-    Menggenggam Erat Tanganku）：2015年3月15日\[88\] - 2016年11月26日
-3.  [恋愛禁止条例](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「恋愛禁止条例」 "wikilink")（Aturan
-    Anti Cinta）：2016年12月7日 - 2017年5月22日
-4.  [我的太阳](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")（Matahari
-    Milikku）：2017年7月8日 - 12月9日
-5.  [为了谁](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」 "wikilink")（Demi
-    Seseorang）：2017年12月10日 - 2018年4月18日
-6.  [青春女孩](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")（Gadis-Gadis
-    Remaja）：2018年4月20日 -
+1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#Team_T "wikilink")（Pajama Drive）：2015年1月31日 - 2015年3月6日\[87\]（9公演）
+2.  [手牵手](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage「手牵手」#JKT48_Team_T_2nd_Stage「手牵手」 "wikilink")（Sambil Menggenggam Erat Tanganku）：2015年3月15日\[88\] - 2016年11月26日
+3.  [恋愛禁止条例](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「恋愛禁止条例」 "wikilink")（Aturan Anti Cinta）：2016年12月7日 - 2017年5月22日
+4.  [我的太阳](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")（Matahari Milikku）：2017年7月8日 - 12月9日
+5.  [为了谁](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」 "wikilink")（Demi Seseorang）：2017年12月10日 - 2018年4月18日
+6.  [青春女孩](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")（Gadis-Gadis Remaja）：2018年4月20日 -
 
 #### 研究生
 
-1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#1期生 "wikilink")（Pajama
-    Drive、1期生）：2012年9月8日 - 12月13日（67公演）
-2.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#2期生 "wikilink")（Pajama
-    Drive、2期生）：2013年1月11日 - 5月12日（69公演）
-3.  [我的太阳](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#JKT48_研究生公演“我的太阳” "wikilink")（Matahari
-    Milikku）：2013年5月17日 - 6月25日（27公演）
-4.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#3期生 "wikilink")（Pajama
-    Drive、3期生）：2014年5月24日\[89\] - 2015年1月17日（延续为Team T继续表演）（88公演）
-5.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」 "wikilink")（Pajama
-    Drive、4期生+5期生）：2016年8月7日 - 10月19日
+1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#1期生 "wikilink")（Pajama Drive、1期生）：2012年9月8日 - 12月13日（67公演）
+2.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#2期生 "wikilink")（Pajama Drive、2期生）：2013年1月11日 - 5月12日（69公演）
+3.  [我的太阳](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#JKT48_研究生公演“我的太阳” "wikilink")（Matahari Milikku）：2013年5月17日 - 6月25日（27公演）
+4.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#3期生 "wikilink")（Pajama Drive、3期生）：2014年5月24日\[89\] - 2015年1月17日（延续为Team T继续表演）（88公演）
+5.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」 "wikilink")（Pajama Drive、4期生+5期生）：2016年8月7日 - 10月19日
 
 #### 特別公演
 
-1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」 "wikilink")（Pajama
-    Drive）（復活公演）
+1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」 "wikilink")（Pajama Drive）（復活公演）
       - 2013年9月7日 - 8日（4公演）
       - 2014年9月6日 - 7日（4公演）
 
@@ -3984,14 +3898,7 @@ Music Card</p></td>
 **最終合格者**
 
   -
-    Allisa Astri、Allisa Galliamova、Ayana Shahab、Beby Chaesara
-    Anadila、Cindy Gulla、 Cleopatra、Delima Rizky、Devi Kinal Putri、
-    Diasta Priswarini、Fahira、Frieska Anastasia Laksani、Gabriela
-    Margareth Warouw、Ghaida Farisya、Intania Pratama Ilham、Jessica
-    Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu
-    Azalia、Neneng Rosediana、Nozawa Rena、Rezky Wiranti Dhike、Rica
-    Leyona、Sendy Ariani、Shania Junianatha、Siti Gayatri、Sonia
-    Natalia、Sonya Pandarmawan、Stella Cornelia
+    Allisa Astri、Allisa Galliamova、Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、 Cleopatra、Delima Rizky、Devi Kinal Putri、 Diasta Priswarini、Fahira、Frieska Anastasia Laksani、Gabriela Margareth Warouw、Ghaida Farisya、Intania Pratama Ilham、Jessica Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Neneng Rosediana、Nozawa Rena、Rezky Wiranti Dhike、Rica Leyona、Sendy Ariani、Shania Junianatha、Siti Gayatri、Sonia Natalia、Sonya Pandarmawan、Stella Cornelia
 
 ### 二期生
 
@@ -4009,15 +3916,7 @@ Music Card</p></td>
 **最終合格者**
 
   -
-    Alicia Chanzia、Althea Callista、Annisa Athia、Cindy Yuvia、Della
-    Delila、Dellia Erdita、Dena Siti Rohyati、Dwi Putri Bonita、Fakhriyani
-    Shafariyanti、Intar Putri Kariina、Jennifer Hanna、Jennifer Rachel
-    Natasya、Lidya Maulida Djuhandar、Nadhifa Karimah、Nadila Cindi
-    Wantari、Natalia、Noella Sisterina、Novinta Dhini、Nurhalima
-    Oktavianti、Octi Sevpin、Olivia Robberecht、Priscillia Sari Dewi、Ratu
-    Vienny Fitrilya、Riskha Fairunissa、Rona Anggreani、Saktia
-    Oktapyani、Shinta Naomi、Sinka Juliani、Thalia、Thalia Ivanka
-    Elizabeth、Viviyona Apriani
+    Alicia Chanzia、Althea Callista、Annisa Athia、Cindy Yuvia、Della Delila、Dellia Erdita、Dena Siti Rohyati、Dwi Putri Bonita、Fakhriyani Shafariyanti、Intar Putri Kariina、Jennifer Hanna、Jennifer Rachel Natasya、Lidya Maulida Djuhandar、Nadhifa Karimah、Nadila Cindi Wantari、Natalia、Noella Sisterina、Novinta Dhini、Nurhalima Oktavianti、Octi Sevpin、Olivia Robberecht、Priscillia Sari Dewi、Ratu Vienny Fitrilya、Riskha Fairunissa、Rona Anggreani、Saktia Oktapyani、Shinta Naomi、Sinka Juliani、Thalia、Thalia Ivanka Elizabeth、Viviyona Apriani
 
 ### 三期生
 
@@ -4033,17 +3932,7 @@ Music Card</p></td>
 **最終合格者**
 
   -
-    Alycia Ferryana、Amanda Dwi Arista、Andela Yuwono、Anggie Putri
-    Kurniasari、Aninditha Rahma Cahyadi、Ayu Safira Oktaviani、 Chikita
-    Ravenska Mamesah、 Elaine Hartanto、 Farina Yogi Devani、Feni
-    Fitriyanti、Fransisca Saraswati Puspa Dewi、 Indah Permata Sari、 Kezia
-    Putri Andinta、Maria Genoveva Natalia Desy Purnamasari Gunawan、
-    Martha Graciela、Michelle Christo Kusnadi、Milenia Christien Glory
-    Goenawan、Nadhifa Salsabila、Ni Made Ayu Vania Aurellia、 Nina
-    Hamidah、Pipit Ananda、 Putri Farin Kartika、Rizka Khalila, Shaffa
-    Nabila、Shani Indira Natio、Shania Gracia、Sofia Meifaliani、Stephanie
-    Pricilla Indarto Putri、Syahfira Angela Nurhaliza、Triarona
-    Kusuma、Yansen Indiani、Zebi Magnolia Fawwaz
+    Alycia Ferryana、Amanda Dwi Arista、Andela Yuwono、Anggie Putri Kurniasari、Aninditha Rahma Cahyadi、Ayu Safira Oktaviani、 Chikita Ravenska Mamesah、 Elaine Hartanto、 Farina Yogi Devani、Feni Fitriyanti、Fransisca Saraswati Puspa Dewi、 Indah Permata Sari、 Kezia Putri Andinta、Maria Genoveva Natalia Desy Purnamasari Gunawan、 Martha Graciela、Michelle Christo Kusnadi、Milenia Christien Glory Goenawan、Nadhifa Salsabila、Ni Made Ayu Vania Aurellia、 Nina Hamidah、Pipit Ananda、 Putri Farin Kartika、Rizka Khalila, Shaffa Nabila、Shani Indira Natio、Shania Gracia、Sofia Meifaliani、Stephanie Pricilla Indarto Putri、Syahfira Angela Nurhaliza、Triarona Kusuma、Yansen Indiani、Zebi Magnolia Fawwaz
 
 ### 四期生
 
@@ -4053,10 +3942,7 @@ Music Card</p></td>
 **最終合格者**
 
   -
-    Adriani Elisabeth, Christi,Cindy Hapsari Maharani Pujiantoro Putri,
-    Fidly Immanda Azzahra, Jessica Berliana Ekawardani, Jinan Safa
-    Safira, Made Devi Ranita Ningtara, Mega Suryani, Melati Putri Rahel
-    Sesilia, Sri Lintang, Tan Zhi Hui Celine, Zahra Yuriva Dermawan
+    Adriani Elisabeth, Christi,Cindy Hapsari Maharani Pujiantoro Putri, Fidly Immanda Azzahra, Jessica Berliana Ekawardani, Jinan Safa Safira, Made Devi Ranita Ningtara, Mega Suryani, Melati Putri Rahel Sesilia, Sri Lintang, Tan Zhi Hui Celine, Zahra Yuriva Dermawan
 
 ### 五期生
 
@@ -4066,12 +3952,7 @@ Music Card</p></td>
 **最終合格者**
 
   -
-    Adhisty Zara, Anggita Destiana Dewi, Chintya Hanindhitakirana
-    Wirawan,Citra Ayu Pranajaya Wibrado, Diani Amalia Ramadhani,
-    Elizabeth Gloria Setiawan,Eve Antoinette Ichwan, Gabryela Marcelina,
-    Hasyakyla Utami Kusumawardhani, Helma Sonya, Nurhayati, Puti Nadhira
-    Azalia, Regina Angelina, Rissanda Putri Tuarissa, Ruth Damayanti
-    Sitanggang, Sania Julia Montolalu, Violeta Burhan
+    Adhisty Zara, Anggita Destiana Dewi, Chintya Hanindhitakirana Wirawan,Citra Ayu Pranajaya Wibrado, Diani Amalia Ramadhani, Elizabeth Gloria Setiawan,Eve Antoinette Ichwan, Gabryela Marcelina, Hasyakyla Utami Kusumawardhani, Helma Sonya, Nurhayati, Puti Nadhira Azalia, Regina Angelina, Rissanda Putri Tuarissa, Ruth Damayanti Sitanggang, Sania Julia Montolalu, Violeta Burhan
 
 ### 六期生
 
@@ -4081,11 +3962,7 @@ Music Card</p></td>
 **最終合格者**
 
   -
-    Amanda Priscella, Anastasya Narwastu Tety Handuran, Ariella Calista
-    Ichwan, Denise Caroline, Erika Ebisawa Kuswan, Erika Sintia, Gita
-    Sekar Andarini, Graciella Ruth Wiranto, Jihan Miftahul Jannah,
-    Kandiya Rafa Maulidita, Putri Cahyaning Anggraini, Rinanda
-    Syahputri, Riska Amelia Putri, Shalza Grasita
+    Amanda Priscella, Anastasya Narwastu Tety Handuran, Ariella Calista Ichwan, Denise Caroline, Erika Ebisawa Kuswan, Erika Sintia, Gita Sekar Andarini, Graciella Ruth Wiranto, Jihan Miftahul Jannah, Kandiya Rafa Maulidita, Putri Cahyaning Anggraini, Rinanda Syahputri, Riska Amelia Putri, Shalza Grasita
 
 ## 註釋
 
@@ -4121,14 +3998,9 @@ Music Card</p></td>
   -
   - [AKB48 Now on Google+](http://www.google.com/intl/ja/+/project48/)
 
-[Category:JKT48](https://zh.wikipedia.org/wiki/Category:JKT48 "wikilink")
-[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink")
-[Category:雅加達](https://zh.wikipedia.org/wiki/Category:雅加達 "wikilink")
-[Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink")
-[Category:印尼女歌手](https://zh.wikipedia.org/wiki/Category:印尼女歌手 "wikilink")
-[Category:2011年印尼建立](https://zh.wikipedia.org/wiki/Category:2011年印尼建立 "wikilink")
+[Category:JKT48](https://zh.wikipedia.org/wiki/Category:JKT48 "wikilink") [Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:雅加達](https://zh.wikipedia.org/wiki/Category:雅加達 "wikilink") [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:印尼女歌手](https://zh.wikipedia.org/wiki/Category:印尼女歌手 "wikilink") [Category:2011年印尼建立](https://zh.wikipedia.org/wiki/Category:2011年印尼建立 "wikilink")
 
-1.  JKT48成員在48團體活動的場合時，經紀事務則由[AKS負責](../Page/AKS.md "wikilink")。
+1.  JKT48成員在48團體活動的場合時，經紀事務則由[AKS](../Page/AKS.md "wikilink")負責。
 
 2.  全部成員已於2012年3月31日畢業。
 
@@ -4181,8 +4053,7 @@ Music Card</p></td>
 
 28.
 
-29. [海外初ＡＫＢ姉妹グループ1期生28人合格](http://www.sanspo.com/geino/news/111103/gnj1111030501003-n1.htm)
-    （サンケイスポーツ、2011年11月3日）2011年11月3日閲覧。
+29. [海外初ＡＫＢ姉妹グループ1期生28人合格](http://www.sanspo.com/geino/news/111103/gnj1111030501003-n1.htm) （サンケイスポーツ、2011年11月3日）2011年11月3日閲覧。
 
 30.
 
@@ -4268,8 +4139,7 @@ Music Card</p></td>
 
 77.
 78.
-79. 作为剧中人物[秋葉
-    原人所推成员以照片形式登场](../Page/圈套_\(電視劇\).md "wikilink")。剧中也使用了其他JKT48相关物品。
+79. 作为剧中人物[秋葉 原人所推成员以照片形式登场](../Page/圈套_\(電視劇\).md "wikilink")。剧中也使用了其他JKT48相关物品。
 
 80.
 

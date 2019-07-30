@@ -1,5 +1,4 @@
-《**Eric
-Clapton**》是英國歌手[艾瑞克·克萊普頓發行第一張專輯](https://zh.wikipedia.org/wiki/艾瑞克·克萊普頓 "wikilink")。
+《**Eric Clapton**》是英國歌手[艾瑞克·克萊普頓發行第一張專輯](https://zh.wikipedia.org/wiki/艾瑞克·克萊普頓 "wikilink")。
 
 ## 曲目
 
@@ -130,7 +129,4 @@ Eric Clapton</p></td>
   - Jerry Allison：歌唱
   - Stephen Stills：歌唱
 
-[Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink")
-[Category:英國音樂專輯](https://zh.wikipedia.org/wiki/Category:英國音樂專輯 "wikilink")
-[Category:1970年音樂專輯](https://zh.wikipedia.org/wiki/Category:1970年音樂專輯 "wikilink")
-[Category:艾瑞·克萊普頓音樂專輯](https://zh.wikipedia.org/wiki/Category:艾瑞·克萊普頓音樂專輯 "wikilink")
+[Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink") [Category:英國音樂專輯](https://zh.wikipedia.org/wiki/Category:英國音樂專輯 "wikilink") [Category:1970年音樂專輯](https://zh.wikipedia.org/wiki/Category:1970年音樂專輯 "wikilink") [Category:艾瑞·克萊普頓音樂專輯](https://zh.wikipedia.org/wiki/Category:艾瑞·克萊普頓音樂專輯 "wikilink")

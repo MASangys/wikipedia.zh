@@ -1,6 +1,4 @@
-**战姬绝唱SYMPHOGEAR音乐作品**（）記載日本电视动画《[战姬绝唱SYMPHOGEAR](https://zh.wikipedia.org/wiki/战姬绝唱SYMPHOGEAR "wikilink")》、第二季《戰姬絕唱SYMPHOGEAR
-G》及第三季《戰姬絕唱SYMPHOGEAR
-GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱片.md "wikilink")。
+**战姬绝唱SYMPHOGEAR音乐作品**（）記載日本电视动画《[战姬绝唱SYMPHOGEAR](https://zh.wikipedia.org/wiki/战姬绝唱SYMPHOGEAR "wikilink")》、第二季《戰姬絕唱SYMPHOGEAR G》及第三季《戰姬絕唱SYMPHOGEAR GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱片.md "wikilink")。
 
 ## 角色歌
 
@@ -8,8 +6,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 雙翼
 
-《**戰姬絕唱SYMPHOGEAR角色歌1
-雙翼**》收錄了由[水树奈奈及](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")[高山南所配音的風鳴翼及天羽奏於作中組成的組合](../Page/高山南.md "wikilink")「雙翼」的角色歌。於2012年1月25日發售。
+《**戰姬絕唱SYMPHOGEAR角色歌1 雙翼**》收錄了由[水树奈奈及](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")[高山南](../Page/高山南.md "wikilink")所配音的風鳴翼及天羽奏於作中組成的組合「雙翼」的角色歌。於2012年1月25日發售。
 
   - 收錄內容
 
@@ -28,8 +25,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 立花響
 
-《**戰姬絕唱SYMPHOGEAR角色歌2
-立花響**》收錄了由[悠木碧所配音的立花響的角色歌](../Page/悠木碧.md "wikilink")。於2012年2月29日發售。
+《**戰姬絕唱SYMPHOGEAR角色歌2 立花響**》收錄了由[悠木碧](../Page/悠木碧.md "wikilink")所配音的立花響的角色歌。於2012年2月29日發售。
 
   - 收錄內容
 
@@ -53,8 +49,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 風鳴翼
 
-《**戰姬絕唱SYMPHOGEAR角色歌3
-風鳴翼**》收錄了由[水树奈奈所配音的風鳴翼的角色歌](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")。於2012年3月14日發售。
+《**戰姬絕唱SYMPHOGEAR角色歌3 風鳴翼**》收錄了由[水树奈奈所配音的風鳴翼的角色歌](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")。於2012年3月14日發售。
 
   - 收錄內容
 
@@ -73,8 +68,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 雪音克莉絲
 
-《**戰姬絕唱SYMPHOGEAR角色歌4
-雪音克莉絲**》收錄了由[高垣彩陽所配音的雪音克莉絲的角色歌](../Page/高垣彩陽.md "wikilink")。於2012年3月28日發售。
+《**戰姬絕唱SYMPHOGEAR角色歌4 雪音克莉絲**》收錄了由[高垣彩陽](../Page/高垣彩陽.md "wikilink")所配音的雪音克莉絲的角色歌。於2012年3月28日發售。
 
   - 收錄內容
 
@@ -95,8 +89,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 瑪麗亞×風鳴翼
 
-《**戰姬絕唱SYMPHOGEAR G角色歌1
-瑪麗亞×風鳴翼**》收錄了由[日笠陽子及](../Page/日笠陽子.md "wikilink")[水树奈奈所配音的瑪麗亞及風鳴翼的角色歌](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")。於2013年7月17日發售。
+《**戰姬絕唱SYMPHOGEAR G角色歌1 瑪麗亞×風鳴翼**》收錄了由[日笠陽子](../Page/日笠陽子.md "wikilink")及[水树奈奈所配音的瑪麗亞及風鳴翼的角色歌](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")。於2013年7月17日發售。
 
   - 收錄內容
 
@@ -115,8 +108,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 立花響（G）
 
-《**戰姬絕唱SYMPHOGEAR G角色歌2
-立花響**》收錄了由[悠木碧所配音的立花響的角色歌](../Page/悠木碧.md "wikilink")。於2013年7月24日發售。
+《**戰姬絕唱SYMPHOGEAR G角色歌2 立花響**》收錄了由[悠木碧](../Page/悠木碧.md "wikilink")所配音的立花響的角色歌。於2013年7月24日發售。
 
   - 收錄內容
 
@@ -140,8 +132,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 瑪麗亞·卡登查瓦納·伊娃
 
-《**戰姬絕唱SYMPHOGEAR G角色歌3
-瑪麗亞·卡登查瓦納·伊娃**》收錄了由[日笠陽子所配音的瑪麗亞](../Page/日笠陽子.md "wikilink")·卡登查瓦納·伊娃的角色歌。於2013年8月7日發售。
+《**戰姬絕唱SYMPHOGEAR G角色歌3 瑪麗亞·卡登查瓦納·伊娃**》收錄了由[日笠陽子](../Page/日笠陽子.md "wikilink")所配音的瑪麗亞·卡登查瓦納·伊娃的角色歌。於2013年8月7日發售。
 
   - 收錄內容
 
@@ -165,8 +156,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 風鳴翼（G）
 
-《**戰姬絕唱SYMPHOGEAR G角色歌4
-風鳴翼**》收錄了由[水树奈奈所配音的風鳴翼的角色歌](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")。於2013年8月21日發售。
+《**戰姬絕唱SYMPHOGEAR G角色歌4 風鳴翼**》收錄了由[水树奈奈所配音的風鳴翼的角色歌](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")。於2013年8月21日發售。
 
   - 收錄內容
 
@@ -186,8 +176,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 月讀調
 
-《**戰姬絕唱SYMPHOGEAR G角色歌5
-月讀調**》收錄了由[南條愛乃所配音的月讀調的角色歌](../Page/南條愛乃.md "wikilink")。於2013年8月28日發售。
+《**戰姬絕唱SYMPHOGEAR G角色歌5 月讀調**》收錄了由[南條愛乃](../Page/南條愛乃.md "wikilink")所配音的月讀調的角色歌。於2013年8月28日發售。
 
   - 收錄內容
 
@@ -207,8 +196,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 雪音克莉絲（G）
 
-《**戰姬絕唱SYMPHOGEAR G角色歌6
-雪音克莉絲**》收錄了由[高垣彩陽所配音的雪音克莉絲的角色歌](../Page/高垣彩陽.md "wikilink")。於2013年9月4日發售。
+《**戰姬絕唱SYMPHOGEAR G角色歌6 雪音克莉絲**》收錄了由[高垣彩陽](../Page/高垣彩陽.md "wikilink")所配音的雪音克莉絲的角色歌。於2013年9月4日發售。
 
   - 收錄內容
 
@@ -227,8 +215,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 曉切歌
 
-《**戰姬絕唱SYMPHOGEAR G角色歌7
-曉切歌**》收錄了由[茅野愛衣所配音的曉切歌的角色歌](../Page/茅野愛衣.md "wikilink")。於2013年9月11日發售。
+《**戰姬絕唱SYMPHOGEAR G角色歌7 曉切歌**》收錄了由[茅野愛衣](../Page/茅野愛衣.md "wikilink")所配音的曉切歌的角色歌。於2013年9月11日發售。
 
   - 收錄內容
 
@@ -251,8 +238,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 小日向未来
 
-《**戰姬絕唱SYMPHOGEAR G角色歌8
-小日向未来**》收錄了由[井口裕香所配音的小日向未来的角色歌](../Page/井口裕香.md "wikilink")。於2013年9月18日發售。
+《**戰姬絕唱SYMPHOGEAR G角色歌8 小日向未来**》收錄了由[井口裕香](../Page/井口裕香.md "wikilink")所配音的小日向未来的角色歌。於2013年9月18日發售。
 
   - 收錄內容
 
@@ -274,8 +260,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 瑪麗亞×風鳴翼（GX）
 
-《**戰姬絕唱SYMPHOGEAR GX角色歌1
-瑪麗亞×風鳴翼**》收錄了由[日笠陽子及](../Page/日笠陽子.md "wikilink")[水树奈奈所配音的瑪麗亞及風鳴翼的角色歌](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")。於2015年7月8日發售。
+《**戰姬絕唱SYMPHOGEAR GX角色歌1 瑪麗亞×風鳴翼**》收錄了由[日笠陽子](../Page/日笠陽子.md "wikilink")及[水树奈奈所配音的瑪麗亞及風鳴翼的角色歌](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")。於2015年7月8日發售。
 
   - 收錄內容
 
@@ -292,8 +277,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 立花響（GX）
 
-《**戰姬絕唱SYMPHOGEAR GX角色歌2
-立花響**》收錄了由[悠木碧所配音的立花響的角色歌](../Page/悠木碧.md "wikilink")。於2015年7月15日發售。
+《**戰姬絕唱SYMPHOGEAR GX角色歌2 立花響**》收錄了由[悠木碧](../Page/悠木碧.md "wikilink")所配音的立花響的角色歌。於2015年7月15日發售。
 
   - 收錄內容
 
@@ -316,8 +300,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 風鳴翼（GX）
 
-《**戰姬絕唱SYMPHOGEAR GX角色歌3
-風鳴翼**》收錄了由[水树奈奈所配音的風鳴翼的角色歌](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")。於2015年8月12日發售。
+《**戰姬絕唱SYMPHOGEAR GX角色歌3 風鳴翼**》收錄了由[水树奈奈所配音的風鳴翼的角色歌](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")。於2015年8月12日發售。
 
   - 收錄內容
 
@@ -335,8 +318,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 雪音克莉絲（GX）
 
-《**戰姬絕唱SYMPHOGEAR GX角色歌4
-雪音克莉絲**》收錄了由[高垣彩陽所配音的雪音克莉絲的角色歌](../Page/高垣彩陽.md "wikilink")。於2015年8月19日發售。
+《**戰姬絕唱SYMPHOGEAR GX角色歌4 雪音克莉絲**》收錄了由[高垣彩陽](../Page/高垣彩陽.md "wikilink")所配音的雪音克莉絲的角色歌。於2015年8月19日發售。
 
   - 收錄內容
 
@@ -413,8 +395,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 #### 立花響
 
-《**戰姬絕唱SYMPHOGEAR AXZ角色歌1
-立花響**》收錄了由[悠木碧所配音的立花響的角色歌](../Page/悠木碧.md "wikilink")。於2017年7月5日發售。
+《**戰姬絕唱SYMPHOGEAR AXZ角色歌1 立花響**》收錄了由[悠木碧](../Page/悠木碧.md "wikilink")所配音的立花響的角色歌。於2017年7月5日發售。
 
   - 收錄內容
 
@@ -590,8 +571,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 :\# **Apple**
 
-:\#\*
-作詞、作曲、編曲：上松範康，主唱：瑪麗亞·卡登扎夫娜·伊芙（日笠陽子）、莎麗娜·卡登扎夫娜·伊芙（[堀江由衣](../Page/堀江由衣.md "wikilink")）
+:\#\* 作詞、作曲、編曲：上松範康，主唱：瑪麗亞·卡登扎夫娜·伊芙（日笠陽子）、莎麗娜·卡登扎夫娜·伊芙（[堀江由衣](../Page/堀江由衣.md "wikilink")）
 
 :\#\* 第1、13話劇中歌。
 
@@ -649,8 +629,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 :\# ****
 
-:\#\*
-主唱：板場弓美（[赤崎千夏](../Page/赤崎千夏.md "wikilink")）、寺島詩織（[東山奈央](../Page/東山奈央.md "wikilink")）、安藤創世（[小松未可子](../Page/小松未可子.md "wikilink")）
+:\#\* 主唱：板場弓美（[赤崎千夏](../Page/赤崎千夏.md "wikilink")）、寺島詩織（[東山奈央](../Page/東山奈央.md "wikilink")）、安藤創世（[小松未可子](../Page/小松未可子.md "wikilink")）
 
 :\#\* 第4話劇中歌。
 
@@ -760,8 +739,7 @@ GX》的相關音樂CD。唱片出版公司為[國王唱片](../Page/國王唱�
 
 :\# **Edge Works of Goddess ZABABA**
 
-:\#\* 作詞：上松範康，作曲：中山真斗、菊田大介（Elements Garden），編曲：菊田大介（Elements
-Garden），主唱：月讀調（南條愛乃）、曉切歌（茅野愛衣）
+:\#\* 作詞：上松範康，作曲：中山真斗、菊田大介（Elements Garden），編曲：菊田大介（Elements Garden），主唱：月讀調（南條愛乃）、曉切歌（茅野愛衣）
 
 :\#\* 第11、12話劇中歌。
 
@@ -779,8 +757,7 @@ Garden），主唱：月讀調（南條愛乃）、曉切歌（茅野愛衣）
 
 :\#\* 作詞、作曲：上松範康，編曲：喜多智弘
 
-:\#\*
-主唱：立花響（悠木碧）、風鳴翼（水樹奈奈）、雪音克莉絲（高垣彩陽）、瑪麗亞·卡登扎夫娜·伊芙（日笠陽子）、月讀調（南條愛乃）、曉切歌（茅野愛衣）
+:\#\* 主唱：立花響（悠木碧）、風鳴翼（水樹奈奈）、雪音克莉絲（高垣彩陽）、瑪麗亞·卡登扎夫娜·伊芙（日笠陽子）、月讀調（南條愛乃）、曉切歌（茅野愛衣）
 
 :\#\* 第13話劇中歌。
 
@@ -788,20 +765,12 @@ Garden），主唱：月讀調（南條愛乃）、曉切歌（茅野愛衣）
 
 :\#\* 作詞、作曲：上松範康，編曲：菊田大介
 
-:\#\*
-主唱：立花響（悠木碧）、風鳴翼（水樹奈奈）、雪音克莉絲（高垣彩陽）、瑪麗亞·卡登扎夫娜·伊芙（日笠陽子）、月讀調（南條愛乃）、曉切歌（茅野愛衣）、天羽奏（高山南）
+:\#\* 主唱：立花響（悠木碧）、風鳴翼（水樹奈奈）、雪音克莉絲（高垣彩陽）、瑪麗亞·卡登扎夫娜·伊芙（日笠陽子）、月讀調（南條愛乃）、曉切歌（茅野愛衣）、天羽奏（高山南）
 
 :\#\* 第13話片尾曲。
 
 ## 参考资料
 
-  - [高山みなみと水樹奈々が「戦姫絶唱シンフォギア」でボーカルユニット\!
-    第1話プレミア上映会の情報も\!](https://web.archive.org/web/20131002173446/http://listen.jp/store/musicnews_36178_all.htm)
-    リッスンジャパン (2011年11月24日). 2012年1月11日 17:15
+  - [高山みなみと水樹奈々が「戦姫絶唱シンフォギア」でボーカルユニット\! 第1話プレミア上映会の情報も\!](https://web.archive.org/web/20131002173446/http://listen.jp/store/musicnews_36178_all.htm) リッスンジャパン (2011年11月24日). 2012年1月11日 17:15
 
-[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")
-[Category:水樹奈奈單曲](https://zh.wikipedia.org/wiki/Category:水樹奈奈單曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:動畫歌曲](https://zh.wikipedia.org/wiki/Category:動畫歌曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
-[Category:動畫音樂作品](https://zh.wikipedia.org/wiki/Category:動畫音樂作品 "wikilink")
+[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:水樹奈奈單曲](https://zh.wikipedia.org/wiki/Category:水樹奈奈單曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:動畫歌曲](https://zh.wikipedia.org/wiki/Category:動畫歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:動畫音樂作品](https://zh.wikipedia.org/wiki/Category:動畫音樂作品 "wikilink")

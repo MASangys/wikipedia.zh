@@ -1,4 +1,4 @@
-《**ABC**》，[日本男性偶像團體](../Page/日本.md "wikilink")[少年隊的第](../Page/少年隊.md "wikilink")7張單曲和代表作之一。1987年11月11日發行。
+《**ABC**》，[日本](../Page/日本.md "wikilink")男性偶像團體[少年隊](../Page/少年隊.md "wikilink")的第7張單曲和代表作之一。1987年11月11日發行。
 
 ## 簡介
 
@@ -6,8 +6,7 @@
 
 其中一首最常在有線電視中播放的少年隊歌曲。
 
-連續三週成為《[The Best
-Ten](../Page/The_Best_Ten.md "wikilink")》的冠軍歌曲\[1\]，實體銷售方面，單曲發行首週在[Oricon公信榜即取得冠軍](../Page/Oricon公信榜.md "wikilink")，Oricon統計總銷量超過25萬張。
+連續三週成為《[The Best Ten](../Page/The_Best_Ten.md "wikilink")》的冠軍歌曲\[1\]，實體銷售方面，單曲發行首週在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")即取得冠軍，Oricon統計總銷量超過25萬張。
 
 ## 收錄曲目
 
@@ -20,14 +19,10 @@ Ten](../Page/The_Best_Ten.md "wikilink")》的冠軍歌曲\[1\]，實體銷售�
 
 ## 翻唱
 
-  - [草蜢](../Page/草蜢_\(組合\).md "wikilink") -
-    《[ABC](../Page/ABC.md "wikilink")》[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")、《[限時專送ABC](https://zh.wikipedia.org/wiki/限時專送ABC "wikilink")》[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")
+  - [草蜢](../Page/草蜢_\(組合\).md "wikilink") - 《[ABC](../Page/ABC.md "wikilink")》[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")、《[限時專送ABC](https://zh.wikipedia.org/wiki/限時專送ABC "wikilink")》[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")
 
 ## 參考資料
 
-[Category:少年隊歌曲](https://zh.wikipedia.org/wiki/Category:少年隊歌曲 "wikilink")
-[Category:1987年單曲](https://zh.wikipedia.org/wiki/Category:1987年單曲 "wikilink")
-[Category:1987年The_Best_Ten冠軍歌曲](https://zh.wikipedia.org/wiki/Category:1987年The_Best_Ten冠軍歌曲 "wikilink")
-[Category:1987年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1987年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:少年隊歌曲](https://zh.wikipedia.org/wiki/Category:少年隊歌曲 "wikilink") [Category:1987年單曲](https://zh.wikipedia.org/wiki/Category:1987年單曲 "wikilink") [Category:1987年The_Best_Ten冠軍歌曲](https://zh.wikipedia.org/wiki/Category:1987年The_Best_Ten冠軍歌曲 "wikilink") [Category:1987年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1987年Oricon單曲週榜冠軍作品 "wikilink")
 
 1.  [](http://www2.tokai.or.jp/BGB/best10/1987.htm)

@@ -3,10 +3,8 @@
 ## 概要
 
   - 與前作的《[流星之吻](../Page/流星之吻.md "wikilink")》相隔約5個月後發售的單曲。
-  - 標題曲的「Lie」是3人所屬[AKB48的單曲](../Page/AKB48.md "wikilink")[井上ヨシマサ親自擔任作曲](https://zh.wikipedia.org/wiki/井上ヨシマサ "wikilink")。2010年4月30日播放的「[Music
-    Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")」是no3b初次出演。
-  - 單曲內的《3seconds（Remix）》是3人主演[東京電視台系](../Page/東京電視台.md "wikilink")[電視劇24](../Page/電視劇24.md "wikilink")『[Men☆dol
-    〜帥男偶像〜](https://zh.wikipedia.org/wiki/Men☆dol_〜帥男偶像〜 "wikilink")』的劇中歌「3seconds」的Remix版。
+  - 標題曲的「Lie」是3人所屬[AKB48](../Page/AKB48.md "wikilink")的單曲[井上ヨシマサ親自擔任作曲](https://zh.wikipedia.org/wiki/井上ヨシマサ "wikilink")。2010年4月30日播放的「[Music Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")」是no3b初次出演。
+  - 單曲內的《3seconds（Remix）》是3人主演[東京電視台](../Page/東京電視台.md "wikilink")系[電視劇24](../Page/電視劇24.md "wikilink")『[Men☆dol 〜帥男偶像〜](https://zh.wikipedia.org/wiki/Men☆dol_〜帥男偶像〜 "wikilink")』的劇中歌「3seconds」的Remix版。
 
 ## 收錄曲
 
@@ -102,7 +100,4 @@
 
   - [no3b官方網站](http://www.no3b.net/)
 
-[Category:No3b歌曲](https://zh.wikipedia.org/wiki/Category:No3b歌曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:日本史詩唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本史詩唱片歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:No3b歌曲](https://zh.wikipedia.org/wiki/Category:No3b歌曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:日本史詩唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本史詩唱片歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")

@@ -4,8 +4,7 @@
 
 1.  **想見你**
       -
-        作詞：[K](../Page/K_\(歌手\).md "wikilink")、シライシ紗トリ
-        作曲：[K](../Page/K_\(歌手\).md "wikilink")、シライシ紗トリ
+        作詞：[K](../Page/K_\(歌手\).md "wikilink")、シライシ紗トリ 作曲：[K](../Page/K_\(歌手\).md "wikilink")、シライシ紗トリ
     <!-- end list -->
       - 電影「[一眼瞬間，再見愛](../Page/一眼瞬間，再見愛.md "wikilink")」主題曲
 2.  '''想見你(Piano instrumental ver.) '''
@@ -25,9 +24,6 @@
 
 ## 參考來源
 
-  - [台灣索尼音樂娛樂
-    音樂專輯「想見你」](https://sonymusic.com.tw/album/%E6%83%B3%E8%A6%8B%E4%BD%A0-k-88697755332/)
+  - [台灣索尼音樂娛樂 音樂專輯「想見你」](https://sonymusic.com.tw/album/%E6%83%B3%E8%A6%8B%E4%BD%A0-k-88697755332/)
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")

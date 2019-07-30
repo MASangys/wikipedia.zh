@@ -1,13 +1,10 @@
-《**假面骑士BLACK
-RX**》（原題：）为1988年（[昭和](../Page/昭和.md "wikilink")63年）～1989年（平成元年）期间，由[每日放送製作](../Page/每日放送.md "wikilink")，於[TBS電視網在每週日上午](../Page/TBS.md "wikilink")10:00～10:30播出的特攝電視劇，全47集。
+《**假面骑士BLACK RX**》（原題：）为1988年（[昭和](../Page/昭和.md "wikilink")63年）～1989年（平成元年）期间，由[每日放送](../Page/每日放送.md "wikilink")製作，於[TBS](../Page/TBS.md "wikilink")電視網在每週日上午10:00～10:30播出的特攝電視劇，全47集。
 
-本作為[假面騎士系列的第九部作品](../Page/假面騎士系列.md "wikilink")。由於本片播映時期適逢[昭和天皇](../Page/昭和天皇.md "wikilink")[去世](../Page/昭和天皇之死.md "wikilink")，因此也成為[日本邁入](../Page/日本.md "wikilink")[平成年代後](../Page/平成.md "wikilink")，第一部播出的《假面騎士》系列作品。
+本作為[假面騎士系列](../Page/假面騎士系列.md "wikilink")的第九部作品。由於本片播映時期適逢[昭和天皇](../Page/昭和天皇.md "wikilink")[去世](../Page/昭和天皇之死.md "wikilink")，因此也成為[日本](../Page/日本.md "wikilink")邁入[平成](../Page/平成.md "wikilink")年代後，第一部播出的《假面騎士》系列作品。
 
 ## 故事大纲
 
-黑暗結社哥魯干（）被[幪面超人BLACK打败至今已有半年了](https://zh.wikipedia.org/wiki/幪面超人BLACK "wikilink")。而南光太郎则在佐原家所属的公司担任[直升机工作员](https://zh.wikipedia.org/wiki/直升机 "wikilink")。光太郎后来被-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-（Crisis
-Empire）抓走，并强迫为他们服务。光太郎拒绝了他们，因此破壞他原來的變身機能，被抛到[太阳裡](../Page/太阳.md "wikilink")。千钧一发之际，帝王石吸收太阳光线的能量，而使光太郎的被破壞的變身機能馬上復原，並成为新一代的假面骑士，太阳之子**假面骑士BLACK
-RX**。自此光太郎便与-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-战斗，保卫[地球](../Page/地球.md "wikilink")。
+黑暗結社哥魯干（）被[幪面超人BLACK打败至今已有半年了](https://zh.wikipedia.org/wiki/幪面超人BLACK "wikilink")。而南光太郎则在佐原家所属的公司担任[直升机工作员](https://zh.wikipedia.org/wiki/直升机 "wikilink")。光太郎后来被-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-（Crisis Empire）抓走，并强迫为他们服务。光太郎拒绝了他们，因此破壞他原來的變身機能，被抛到[太阳](../Page/太阳.md "wikilink")裡。千钧一发之际，帝王石吸收太阳光线的能量，而使光太郎的被破壞的變身機能馬上復原，並成为新一代的假面骑士，太阳之子**假面骑士BLACK RX**。自此光太郎便与-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-战斗，保卫[地球](../Page/地球.md "wikilink")。
 
 ## 登场人物／演员
 
@@ -18,9 +15,8 @@ RX**。自此光太郎便与-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;z
 <!-- end list -->
 
   -
-    前作[假面騎士BLACK中登場的主人公](../Page/假面騎士BLACK.md "wikilink")。和戈魯戈姆的戰鬥完結後，光太郎就回歸平靜的生活，住在叔父佐原家過著幸福的生活並擔任佐原航空的直升機駕駛員。
-    在1話隨著-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-的入侵，他在變身的時候被帝國捕捉，BLACK的變身機能也被破壞，但在神秘太陽光線的照耀下，南光太郎獲得了新的力量和姿態——假面騎士BLACK
-    RX。
+    前作[假面騎士BLACK](../Page/假面騎士BLACK.md "wikilink")中登場的主人公。和戈魯戈姆的戰鬥完結後，光太郎就回歸平靜的生活，住在叔父佐原家過著幸福的生活並擔任佐原航空的直升機駕駛員。
+    在1話隨著-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-的入侵，他在變身的時候被帝國捕捉，BLACK的變身機能也被破壞，但在神秘太陽光線的照耀下，南光太郎獲得了新的力量和姿態——假面騎士BLACK RX。
 
 <!-- end list -->
 
@@ -29,7 +25,7 @@ RX**。自此光太郎便与-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;z
 <!-- end list -->
 
   -
-    前作[假面騎士BLACK中登場的重要角色](../Page/假面騎士BLACK.md "wikilink")。和[幪面超人BLACK在哥魯干基地決戰後](https://zh.wikipedia.org/wiki/幪面超人BLACK "wikilink")，基地倒塌之際，black來不及救出影月，而深埋於倒塌的基地中。
+    前作[假面騎士BLACK](../Page/假面騎士BLACK.md "wikilink")中登場的重要角色。和[幪面超人BLACK在哥魯干基地決戰後](https://zh.wikipedia.org/wiki/幪面超人BLACK "wikilink")，基地倒塌之際，black來不及救出影月，而深埋於倒塌的基地中。
 
 <!-- end list -->
 
@@ -40,19 +36,15 @@ RX**。自此光太郎便与-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;z
   - [假面騎士X](../Page/假面騎士X.md "wikilink")
   - [假面騎士Amazon](https://zh.wikipedia.org/wiki/假面騎士Amazon "wikilink")
   - [假面騎士Stronger](../Page/假面騎士Stronger.md "wikilink")
-  - [假面騎士Sky
-    Rider](https://zh.wikipedia.org/wiki/假面騎士Sky_Rider "wikilink")
-  - [假面騎士Super
-    One](https://zh.wikipedia.org/wiki/假面騎士Super_One "wikilink")
+  - [假面騎士Sky Rider](https://zh.wikipedia.org/wiki/假面騎士Sky_Rider "wikilink")
+  - [假面騎士Super One](https://zh.wikipedia.org/wiki/假面騎士Super_One "wikilink")
   - [假面騎士ZX](https://zh.wikipedia.org/wiki/假面騎士ZX "wikilink")
 
 ### 佐原家
 
   - 佐原俊吉（台譯：凱凱）（[赤塚真人饰](https://zh.wikipedia.org/wiki/赤塚真人 "wikilink")）（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
-  - 唄子（[鶴間エリ饰](https://zh.wikipedia.org/wiki/鶴間エリ "wikilink")）
-    （香港配音：[龍寶鈿](../Page/龍寶鈿.md "wikilink")）
-  - 佐原茂（[井上豪饰](https://zh.wikipedia.org/wiki/井上豪 "wikilink")）
-    （香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）
+  - 唄子（[鶴間エリ饰](https://zh.wikipedia.org/wiki/鶴間エリ "wikilink")） （香港配音：[龍寶鈿](../Page/龍寶鈿.md "wikilink")）
+  - 佐原茂（[井上豪饰](https://zh.wikipedia.org/wiki/井上豪 "wikilink")） （香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）
   - 佐原ひとみ（港譯：佐原小美）（[井村翔子饰](https://zh.wikipedia.org/wiki/井村翔子 "wikilink")）（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
 
 ### 其他
@@ -67,7 +59,7 @@ RX**。自此光太郎便与-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;z
 
 <!-- end list -->
 
-  - 霞之乔（台譯：莊俠／港譯：隋俠）（[小山力也饰](../Page/小山力也.md "wikilink")）（香港配音：[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")）
+  - 霞之乔（台譯：莊俠／港譯：隋俠）（[小山力也](../Page/小山力也.md "wikilink")饰）（香港配音：[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")）
 
 <!-- end list -->
 
@@ -78,8 +70,7 @@ RX**。自此光太郎便与-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;z
 
 <!-- end list -->
 
-  - 的場
-    響子（台譯：娟娟）（[上野めぐみ饰](https://zh.wikipedia.org/wiki/上野めぐみ "wikilink")）（香港配音：[吳小藝](../Page/吳小藝.md "wikilink")）
+  - 的場 響子（台譯：娟娟）（[上野めぐみ饰](https://zh.wikipedia.org/wiki/上野めぐみ "wikilink")）（香港配音：[吳小藝](../Page/吳小藝.md "wikilink")）
 
 <!-- end list -->
 
@@ -105,36 +96,20 @@ RX**。自此光太郎便与-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;z
 
 **自稱「太陽之子」﹔力量來源是「光」(太陽)。**
 
-\-{zh-hans:戈爾哥姆;zh-hk:哥魯干;zh-tw:戈爾哥姆;}- 被假面騎士BLACK消滅後不久，宇宙中出現另一邪惡勢力
--{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-
-準備攻擊地球，並打算招降地球上最強的BLACK，但南光太郎不從，因而被破壞變身機能且流放於宇宙之中。因緣際會之下，藏於假面騎士
-Black 變身腰帶內的帝石吸收了太陽光線的神秘力量，使光太郎復活再生成為假面騎士 Black RX。Black RX
-擁有黑色及深綠色的身軀，左胸上的紋章由「RX」二字組成，自稱「太陽之子」。
+\-{zh-hans:戈爾哥姆;zh-hk:哥魯干;zh-tw:戈爾哥姆;}- 被假面騎士BLACK消滅後不久，宇宙中出現另一邪惡勢力 -{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}- 準備攻擊地球，並打算招降地球上最強的BLACK，但南光太郎不從，因而被破壞變身機能且流放於宇宙之中。因緣際會之下，藏於假面騎士 Black 變身腰帶內的帝石吸收了太陽光線的神秘力量，使光太郎復活再生成為假面騎士 Black RX。Black RX 擁有黑色及深綠色的身軀，左胸上的紋章由「RX」二字組成，自稱「太陽之子」。
 
-Black RX 的力量來自變身腰帶 Sun Riser ，Sun Riser 會將從 RX 腹部太陽能板所收集的太陽能以及 Sun Riser
-內帝王石的能量轉化為 RX 的力量，這讓他比單單依靠帝王石能量的 Black 擁有更強的力量，還可以太陽的能量回復受傷的身體。但也因為
-Black RX 對太陽能及帝王石的依賴，Black RX 需要在陽光充足時才能變身；在太陽能板被破壞時，或帝王石失去能量時，都會讓 Black
-RX 失去力量。
+Black RX 的力量來自變身腰帶 Sun Riser ，Sun Riser 會將從 RX 腹部太陽能板所收集的太陽能以及 Sun Riser 內帝王石的能量轉化為 RX 的力量，這讓他比單單依靠帝王石能量的 Black 擁有更強的力量，還可以太陽的能量回復受傷的身體。但也因為 Black RX 對太陽能及帝王石的依賴，Black RX 需要在陽光充足時才能變身；在太陽能板被破壞時，或帝王石失去能量時，都會讓 Black RX 失去力量。
 
 Black RX 擁有與 Black 相似的各種特殊能力，部份能力更有所提升：
 
-  - \-{zh-hans: RX 踢;zh-hk:雷霆飛腿（或譯 RX 風雷電）;zh-tw: RX 踢;}- - Black
-    以單腿作出攻擊，而Black RX 則以雙腿作出攻擊，但RX 踢一般都不能對敵人做成致命傷害。
-  - 帝王石閃光 - 與假面騎士 Black 的能力相同：令帝王石在迅間發放大量的能量，以破除敵人的幻術及擾亂敵人的行動。Black RX
-    甚少使用這技能，而在 42 集中，他更因為使用帝王石閃光而被怪魔盖德鲁多利鲁吸去帝王石的所有能量。除了帝王石閃光外，Black
-    RX 亦可使 Sun Riser 發出大量光能量來擾亂敵人。
+  - \-{zh-hans: RX 踢;zh-hk:雷霆飛腿（或譯 RX 風雷電）;zh-tw: RX 踢;}- - Black 以單腿作出攻擊，而Black RX 則以雙腿作出攻擊，但RX 踢一般都不能對敵人做成致命傷害。
+  - 帝王石閃光 - 與假面騎士 Black 的能力相同：令帝王石在迅間發放大量的能量，以破除敵人的幻術及擾亂敵人的行動。Black RX 甚少使用這技能，而在 42 集中，他更因為使用帝王石閃光而被怪魔盖德鲁多利鲁吸去帝王石的所有能量。除了帝王石閃光外，Black RX 亦可使 Sun Riser 發出大量光能量來擾亂敵人。
   - 超複眼 - 讓 Black RX 看到敵人的弱點，或敵人身體內、牆壁、岩石後的事物
   - 高達60米的跳躍力
 
-Black RX 更擁有-{zh-hans:光剑;zh-hk:幻影激光劍（或譯風車劍）;zh-tw:光劍;}-作為致命武器，它由光能量組成，當
-RX 需要使用光劍時，會將手放在 Sun Riser 前方，此時 Sun Riser 就會將從太陽吸收的光能量實體化成劍柄出現在 RX
-手中，然後 RX 就可將整把劍從 Sun Riser 中拔出來。光劍刺中怪魔後一般都會令怪魔爆炸然後死亡，是 RX
-打敗敵人的必殺武器；它的唯一弱點是，當 RX 拔出光劍時會讓 Sun Riser
-的防禦力減弱，從而讓敵人有機會對帝王石作出攻擊。
+Black RX 更擁有-{zh-hans:光剑;zh-hk:幻影激光劍（或譯風車劍）;zh-tw:光劍;}-作為致命武器，它由光能量組成，當 RX 需要使用光劍時，會將手放在 Sun Riser 前方，此時 Sun Riser 就會將從太陽吸收的光能量實體化成劍柄出現在 RX 手中，然後 RX 就可將整把劍從 Sun Riser 中拔出來。光劍刺中怪魔後一般都會令怪魔爆炸然後死亡，是 RX 打敗敵人的必殺武器；它的唯一弱點是，當 RX 拔出光劍時會讓 Sun Riser 的防禦力減弱，從而讓敵人有機會對帝王石作出攻擊。
 
-Black RX 在前往-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-
-拯救小瞳的旅程中，被激發出多段變身能力，讓 Black RX
-能變身成擁有不同能力與武器的形態，以面對不同的環境與敵人。這也是假面騎士系列史上首次加入型態轉換的概念，此舉也影響了由《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》起的作品。
+Black RX 在前往-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}- 拯救小瞳的旅程中，被激發出多段變身能力，讓 Black RX 能變身成擁有不同能力與武器的形態，以面對不同的環境與敵人。這也是假面騎士系列史上首次加入型態轉換的概念，此舉也影響了由《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》起的作品。
 
 ### Robo Rider (机械骑士)
 
@@ -150,8 +125,7 @@ Black RX 在前往-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克�
 
 **自稱「憤怒王子」﹔力量來源是「水」。**
 
-第17話中，親友即將被處死刑，被困於地底1000公尺深的RX，因無法脫出牢獄解救親友而憤怒不已，當時唯一逃出深處的空間只中非常狹窄的石縫，只有水可以通過，當時受石縫流出的水觸發後擁有再變身能力，變成了生化騎士。擁有藍色、銀色及紅色的身軀，自稱「憤怒王子」，後來第45話中要求
-的場響子 運用控制水的超能力，給RX身體水，令RX成功変身為生化骑士，「水」是其力量來源。左胸上的紋章由「Rb」及「R3」二字混合而成。
+第17話中，親友即將被處死刑，被困於地底1000公尺深的RX，因無法脫出牢獄解救親友而憤怒不已，當時唯一逃出深處的空間只中非常狹窄的石縫，只有水可以通過，當時受石縫流出的水觸發後擁有再變身能力，變成了生化騎士。擁有藍色、銀色及紅色的身軀，自稱「憤怒王子」，後來第45話中要求 的場響子 運用控制水的超能力，給RX身體水，令RX成功変身為生化骑士，「水」是其力量來源。左胸上的紋章由「Rb」及「R3」二字混合而成。
 
 身體可化為「液態」使敵人之物理攻擊無力化，且可迅速遊走四面八方。
 
@@ -159,15 +133,9 @@ Black RX 在前往-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克�
 
 ### Shadow Moon (影月)
 
-前一系列被BLACK打敗後，原以為葬身在哥魯干基地內的影月，在本系列第21話的片尾出現，並於第22話、第27話登場。
-復活後的影月，已喪失過去的記憶，心中只有一個念頭，就是找BLACK
-RX報仇，因而與-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-
-合作，企圖共同對付現在的BLACK RX。最後回復信彦的理智，把兩名小孩救出後，體力不支而身亡。
+前一系列被BLACK打敗後，原以為葬身在哥魯干基地內的影月，在本系列第21話的片尾出現，並於第22話、第27話登場。 復活後的影月，已喪失過去的記憶，心中只有一個念頭，就是找BLACK RX報仇，因而與-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}- 合作，企圖共同對付現在的BLACK RX。最後回復信彦的理智，把兩名小孩救出後，體力不支而身亡。
 
-復活後影月的力量明顯地提升，即使他這次面對的是能力得到大幅提升的Black RX，影月亦未有因而處於劣勢。在影月與BLACK
-RX的第一次對決中，因影月已預先分析了RX與怪魔戰士安多隆多的作戰方式，而且BLACK
-RX在初時不願戰鬥，再加上-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-設下陷阱對付BLACK
-RX，即使BLACK RX變身成各種形態，亦完全處於下風，無法還擊。
+復活後影月的力量明顯地提升，即使他這次面對的是能力得到大幅提升的Black RX，影月亦未有因而處於劣勢。在影月與BLACK RX的第一次對決中，因影月已預先分析了RX與怪魔戰士安多隆多的作戰方式，而且BLACK RX在初時不願戰鬥，再加上-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-設下陷阱對付BLACK RX，即使BLACK RX變身成各種形態，亦完全處於下風，無法還擊。
 
 ## 專用機車
 
@@ -208,23 +176,16 @@ RX，即使BLACK RX變身成各種形態，亦完全處於下風，無法還擊�
 附登场集数和死亡集数及方式，死亡方式除注明过的之外都是被RX用风车剑消灭
 
   - 克莱西斯皇帝 （香港配音：[周永坤](../Page/周永坤.md "wikilink")）
-      - 检查官　ダスマダー（达斯玛达）大佐
-        （香港配音：[葉少榮](../Page/葉少榮.md "wikilink")-\>[陳永信](../Page/陳永信.md "wikilink")）
-        （第28集初登场，真正身份是克莱西斯皇帝，第47集被RX逼得露出原型，之后被消灭）
+      - 检查官　ダスマダー（达斯玛达）大佐 （香港配音：[葉少榮](../Page/葉少榮.md "wikilink")-\>[陳永信](../Page/陳永信.md "wikilink")） （第28集初登场，真正身份是克莱西斯皇帝，第47集被RX逼得露出原型，之后被消灭）
   - ガロニア（加罗丽亚）公主（第16集小瞳被玛莉巴罗带到奇迹之谷后变为加罗丽亚公主，第17集回复为小瞳）
   - ジャーク（杰克）将军/柴將軍（第1集初登场）/最強怪人ジャークミドラ（杰克米多拉，第46集杰克被克莱西斯帝国皇帝吸进去后变成，当集被RX打败）（香港配音：[程輝](https://zh.wikipedia.org/wiki/程輝 "wikilink")）
 
 ### 四大队长
 
-  - 怪魔妖族 情报参谋　マリバロン/玛莉巴罗（[高畑淳子饰](../Page/高畑淳子.md "wikilink")） （香港譯名:瑪莉
-    ；配音:[林錦燕](../Page/林錦燕.md "wikilink")）（第1集初登场，第47集被处刑）
-  - 怪魔獸人 海兵队长　ボスガン/波斯坎 （香港譯名:波漢 ；配音:[黃子敬](../Page/黃子敬.md "wikilink")
-    ）（第1集初登场，第44集被消灭）
-  - 怪魔機器人 机甲队长　ガテゾーン/加迪森 （香港譯名:卡遜
-    ；配音:[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")（第1-4集）[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")（第5-43集））
-    （第1集初登场，第43集身体部分自爆，头部被RX用风车剑砍断发出激光之后最终被消灭）
-  - 怪魔異生獸 牙队长　ゲドリアン/京多利安 （香港譯名:杜安 ；配音:[陸頌愚](../Page/陸頌愚.md "wikilink")）
-    （第1集初登场，第42集将自己的能源赋予盖德鲁多利鲁时在盖德鲁多利鲁被RX打败之后爆炸身亡）
+  - 怪魔妖族 情报参谋　マリバロン/玛莉巴罗（[高畑淳子](../Page/高畑淳子.md "wikilink")饰） （香港譯名:瑪莉 ；配音:[林錦燕](../Page/林錦燕.md "wikilink")）（第1集初登场，第47集被处刑）
+  - 怪魔獸人 海兵队长　ボスガン/波斯坎 （香港譯名:波漢 ；配音:[黃子敬](../Page/黃子敬.md "wikilink") ）（第1集初登场，第44集被消灭）
+  - 怪魔機器人 机甲队长　ガテゾーン/加迪森 （香港譯名:卡遜 ；配音:[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")（第1-4集）[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")（第5-43集）） （第1集初登场，第43集身体部分自爆，头部被RX用风车剑砍断发出激光之后最终被消灭）
+  - 怪魔異生獸 牙队长　ゲドリアン/京多利安 （香港譯名:杜安 ；配音:[陸頌愚](../Page/陸頌愚.md "wikilink")） （第1集初登场，第42集将自己的能源赋予盖德鲁多利鲁时在盖德鲁多利鲁被RX打败之后爆炸身亡）
 
 ### 其他
 
@@ -456,12 +417,11 @@ RX，即使BLACK RX變身成各種形態，亦完全處於下風，無法還擊�
 
 ### 台灣
 
-[衛視中文台於](../Page/衛視中文台.md "wikilink")1997年12月至1998年11月播出本劇，並與先前播出的《[假面騎士BLACK](../Page/假面騎士BLACK.md "wikilink")》合稱《假面超人RX》。
+[衛視中文台](../Page/衛視中文台.md "wikilink")於1997年12月至1998年11月播出本劇，並與先前播出的《[假面騎士BLACK](../Page/假面騎士BLACK.md "wikilink")》合稱《假面超人RX》。
 
 ### 香港
 
-在[香港](../Page/香港.md "wikilink")，本劇集在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台播放](../Page/本港台.md "wikilink")。首播日期為1991年7月1日至8月1日，亞視隨後在1991年8月2日至9月6日重播《假面騎士BLACK》，並將兩劇合稱《-{幪面超人1991}-》。\[1\]\[2\]1992年6月14日至1993年1月10日第一次重播，名稱改為《-{幪面超人RX}-》，播放時間為逢[星期六晚或逢](../Page/星期六.md "wikilink")[星期日晚](../Page/星期日.md "wikilink")。在1993年1月10日（星期日）晚播放大結局，改稱為《-{幪面超人RX終極之戰}-》。由於當時收視甚高，之後安排多次重播直至2002年3月31日為止，節目名稱仍然為《-{幪面超人RX}-》，播放時間為逢[星期日早上](../Page/星期日.md "wikilink")7:00，因此本節目輾轉地共播放5次，重播4次，前後共11年。相反，由於前作《假面騎士BLACK》在香港的收視比本作遜色，因此[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台並無再次安排重播](../Page/本港台.md "wikilink")《假面騎士BLACK》。但在香港[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台首播](../Page/翡翠台.md "wikilink")《[幪面超人帝騎](https://zh.wikipedia.org/wiki/幪面超人帝騎 "wikilink")》時則按日本原譯為**幪面超人BLACK
-RX**。
+在[香港](../Page/香港.md "wikilink")，本劇集在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")播放。首播日期為1991年7月1日至8月1日，亞視隨後在1991年8月2日至9月6日重播《假面騎士BLACK》，並將兩劇合稱《-{幪面超人1991}-》。\[1\]\[2\]1992年6月14日至1993年1月10日第一次重播，名稱改為《-{幪面超人RX}-》，播放時間為逢[星期六](../Page/星期六.md "wikilink")晚或逢[星期日](../Page/星期日.md "wikilink")晚。在1993年1月10日（星期日）晚播放大結局，改稱為《-{幪面超人RX終極之戰}-》。由於當時收視甚高，之後安排多次重播直至2002年3月31日為止，節目名稱仍然為《-{幪面超人RX}-》，播放時間為逢[星期日](../Page/星期日.md "wikilink")早上7:00，因此本節目輾轉地共播放5次，重播4次，前後共11年。相反，由於前作《假面騎士BLACK》在香港的收視比本作遜色，因此[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")並無再次安排重播《假面騎士BLACK》。但在香港[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")首播《[幪面超人帝騎](https://zh.wikipedia.org/wiki/幪面超人帝騎 "wikilink")》時則按日本原譯為**幪面超人BLACK RX**。
 
 ## 註解
 
@@ -469,13 +429,7 @@ RX**。
 
 ## 外部链接
 
-[Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink")
-[Category:1988年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1988年日本電視劇集 "wikilink")
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
-[Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
+[Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink") [Category:1988年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1988年日本電視劇集 "wikilink") [Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
 
-1.  <http://www.oldcake.net/viewthread.php?tid=18231&extra=page%3D1>
-    1991年香港亞視出版的Black RX特刊照片集，足以證明亞視當年最初也將Black RX節目名稱譯為《-{幪面超人}-1991》
-2.  <https://www.youtube.com/watch?v=wvprnfWVN9o>
-    1991年香港亞視重播Black片段，證明亞視當年重Black時節目名稱改為《-{幪面超人}-1991》
+1.  <http://www.oldcake.net/viewthread.php?tid=18231&extra=page%3D1> 1991年香港亞視出版的Black RX特刊照片集，足以證明亞視當年最初也將Black RX節目名稱譯為《-{幪面超人}-1991》
+2.  <https://www.youtube.com/watch?v=wvprnfWVN9o> 1991年香港亞視重播Black片段，證明亞視當年重Black時節目名稱改為《-{幪面超人}-1991》

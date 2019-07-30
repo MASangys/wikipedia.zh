@@ -1,12 +1,8 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:Orwell_Dev-Cpp_zh_cn.jpg "fig:缩略图")
-**Orwell
-Dev-C++**是[Dev-C++的一个衍生版本](../Page/Dev-C++.md "wikilink")。Orwell鉴于Dev-C++的长时间（从2005年2月22日起）不再更新，对Dev-C++源代码进行错误修正，並更新[编译器后发布的版本](https://zh.wikipedia.org/wiki/编译器 "wikilink")。
+[缩略图](https://zh.wikipedia.org/wiki/File:Orwell_Dev-Cpp_zh_cn.jpg "fig:缩略图") **Orwell Dev-C++**是[Dev-C++](../Page/Dev-C++.md "wikilink")的一个衍生版本。Orwell鉴于Dev-C++的长时间（从2005年2月22日起）不再更新，对Dev-C++源代码进行错误修正，並更新[编译器后发布的版本](https://zh.wikipedia.org/wiki/编译器 "wikilink")。
 
 ## 历史
 
-2011年6月30日，释放出Dev-C++
-4.9.9.3版\[1\]，加入了更新的[GCC](../Page/GCC.md "wikilink")
-4.5.2編譯器、Windows的[軟體開發套件](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")（支援Win32以及D3D），修正了許多錯誤，改善了穩定度。
+2011年6月30日，释放出Dev-C++ 4.9.9.3版\[1\]，加入了更新的[GCC](../Page/GCC.md "wikilink") 4.5.2編譯器、Windows的[軟體開發套件](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")（支援Win32以及D3D），修正了許多錯誤，改善了穩定度。
 
 同年8月27日，释放出Dev-C++ 5.0.0.0版\[2\]。
 
@@ -24,9 +20,7 @@ Dev-C++**是[Dev-C++的一个衍生版本](../Page/Dev-C++.md "wikilink")。Orwe
 
 其主要开发目标是：
 
-  - 提供[MinGW](../Page/MinGW.md "wikilink")
-    GCC最新版本，当前是4.8.1，另外提供64位版本的TDM GCC
-    4.9.2。
+  - 提供[MinGW](../Page/MinGW.md "wikilink") GCC最新版本，当前是4.8.1，另外提供64位版本的TDM GCC 4.9.2。
   - 支持[GNU GDB的调试](https://zh.wikipedia.org/wiki/GDB "wikilink")。
   - 为代码、头文件和资源文件提供句法高亮度
   - 支持代码[自动完成](../Page/自动完成.md "wikilink")。
@@ -46,8 +40,7 @@ Dev-C++**是[Dev-C++的一个衍生版本](../Page/Dev-C++.md "wikilink")。Orwe
 
   - [Orwell Dev-C++ Blog](http://orwelldevcpp.blogspot.com/)
 
-[Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")
-[Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink")
+[Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink") [Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink")
 
 1.  <http://orwelldevcpp.blogspot.com/2011/06/dev-c-4993-released.html>
 2.  <http://orwelldevcpp.blogspot.com/2011/08/dev-c-5000-released.html>

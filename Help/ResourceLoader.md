@@ -8,9 +8,7 @@
 2.  重新测试是否仍遇到故障。
     1.  若故障不再出现，通常是缓存问题。请[清除浏览器缓存后再试试](https://zh.wikipedia.org/wiki/Help:绕过浏览器缓存 "wikilink")。
     2.  若故障仍然出现，请报告此时有故障的部件。如果可能，请提供错误信息。
-          - [Mozilla
-            Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")、[Iceweasel](../Page/Iceweasel.md "wikilink")、[Google
-            Chrome](../Page/Google_Chrome.md "wikilink")、[Chromium](../Page/Chromium.md "wikilink")：按下后重新载入页面，复制其中的错误信息。
+          - [Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")、[Iceweasel](../Page/Iceweasel.md "wikilink")、[Google Chrome](../Page/Google_Chrome.md "wikilink")、[Chromium](../Page/Chromium.md "wikilink")：按下后重新载入页面，复制其中的错误信息。
           - 其他浏览器：*（请补充）*。
 
 若故障在已登录时出现，请尝试退出登录以及清空缓存和Cookies后再试（或使用浏览器的隐私浏览模式），并检查是否仍有故障。若故障仍然存在，请重复上面的步骤，并将相关信息同样报告。

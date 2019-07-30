@@ -1,20 +1,14 @@
-**Gary**（，），本名為**姜熙建**（，），是[韓國男子二人饒舌組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Leessang](../Page/Leessang.md "wikilink")。[SBS綜藝節目](../Page/SBS_\(韓國\).md "wikilink")《[Running
-Man](../Page/Running_Man.md "wikilink")》前成員，與節目成員[宋智孝的](../Page/宋智孝.md "wikilink")「週一情侶」感情線備受歡迎。於2017年4月5日宣布已與圈外人登記結婚，妻子為小10歲、當時為LeeSSang
-Company公司的5年年資職員。
+**Gary**（，），本名為**姜熙建**（，），是[韓國男子二人饒舌組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Leessang](../Page/Leessang.md "wikilink")。[SBS綜藝節目](../Page/SBS_\(韓國\).md "wikilink")《[Running Man](../Page/Running_Man.md "wikilink")》前成員，與節目成員[宋智孝](../Page/宋智孝.md "wikilink")的「週一情侶」感情線備受歡迎。於2017年4月5日宣布已與圈外人登記結婚，妻子為小10歲、當時為LeeSSang Company公司的5年年資職員。
 
 ## 個人生活
 
 小時候練習[合氣道](../Page/合氣道.md "wikilink")、跆拳道、和拳擊，大學時進入警校，但因為追求音樂夢想而退學。
 
-曾在《[Running
-Man](../Page/Running_Man.md "wikilink")》及[Leessang歌曲](../Page/Leessang.md "wikilink")《我們現在見面吧（）》中多次提及喜歡喝[焦糖瑪奇朵](https://zh.wikipedia.org/wiki/焦糖瑪奇朵 "wikilink")。Gary本人習慣裸睡，於《[Running
-Man](../Page/Running_Man.md "wikilink")》多次裸睡，因此又稱為「野生Gary」，並在節目第189集被成員[Haha及](../Page/Haha.md "wikilink")[李光洙發現並拍下裸睡的畫面](../Page/李光洙_\(演員\).md "wikilink")。
+曾在《[Running Man](../Page/Running_Man.md "wikilink")》及[Leessang](../Page/Leessang.md "wikilink")歌曲《我們現在見面吧（）》中多次提及喜歡喝[焦糖瑪奇朵](https://zh.wikipedia.org/wiki/焦糖瑪奇朵 "wikilink")。Gary本人習慣裸睡，於《[Running Man](../Page/Running_Man.md "wikilink")》多次裸睡，因此又稱為「野生Gary」，並在節目第189集被成員[Haha](../Page/Haha.md "wikilink")及[李光洙發現並拍下裸睡的畫面](../Page/李光洙_\(演員\).md "wikilink")。
 
 2015年創立潮牌帽子「HALYANG」（閒良），在韓文中意為「不用工作也不愁吃穿的人」，喜歡命理，曾有算命師對Gary說他有這樣的命格\[1\]，Gary以此為名創立品牌。總店位於韓國首爾，中國上海、成都設有分店。
 
-身上有六處刺青，分別是右上臂的長生柱、胸口的漢字「姜」、左肩的太陽圖騰及左小臂的歐美風的骷顱；2015年加了左後臂上的Lucky馬蹄鐵，2016年5月新增了愛心圖騰、轟炸機圖騰並寫著「MOM
-IS NEVER
-WRONG」（媽媽永遠不會錯，寓意“聽媽媽的話”）。因韓國電視節目規範，刺青須遮起來或用馬賽克處理，故Gary在節目上常用毛巾包著手臂，或穿長袖衣服以遮住刺青。\[2\]
+身上有六處刺青，分別是右上臂的長生柱、胸口的漢字「姜」、左肩的太陽圖騰及左小臂的歐美風的骷顱；2015年加了左後臂上的Lucky馬蹄鐵，2016年5月新增了愛心圖騰、轟炸機圖騰並寫著「MOM IS NEVER WRONG」（媽媽永遠不會錯，寓意“聽媽媽的話”）。因韓國電視節目規範，刺青須遮起來或用馬賽克處理，故Gary在節目上常用毛巾包著手臂，或穿長袖衣服以遮住刺青。\[2\]
 
 2017年4月宣布與圈外女友結婚。 2017年11月17日宣布得一儿
 
@@ -23,64 +17,36 @@ WRONG」（媽媽永遠不會錯，寓意“聽媽媽的話”）。因韓國電
 Gary的綽號多由其出演的節目《[Running Man](../Page/Running_Man.md "wikilink")》而來。
 
   - 平和Gary：早期節目有拍照遊戲環節，節目組準備相機，遊戲參與者必須在快門按下的那刻，對準相機鏡頭成功入鏡。無論遊戲進行地多麼激烈，Gary總是能成功入鏡，且臉上的表情總是很平和，故稱「平和Gary」，如Ep5。另外，他很能忍痛和吃辣，但不能吃咸。
-  - 大眾臉：因有許多人長相與Gary神似。在《[Running
-    Man](../Page/Running_Man.md "wikilink")》中，劉在錫曾在泰國特輯與Gary擦身而過，但沒有認出Gary
-    (Ep51)。值得一提的是Gary與《[奔跑吧兄弟](../Page/奔跑吧兄弟.md "wikilink")》（中國版《Running
-    Man》）常駐隊員之一的[鄭愷不但長相非常相似](https://zh.wikipedia.org/wiki/鄭愷 "wikilink")，而且兩人的角色設定亦非常相近。
+  - 大眾臉：因有許多人長相與Gary神似。在《[Running Man](../Page/Running_Man.md "wikilink")》中，劉在錫曾在泰國特輯與Gary擦身而過，但沒有認出Gary (Ep51)。值得一提的是Gary與《[奔跑吧兄弟](../Page/奔跑吧兄弟.md "wikilink")》（中國版《Running Man》）常駐隊員之一的[鄭愷不但長相非常相似](https://zh.wikipedia.org/wiki/鄭愷 "wikilink")，而且兩人的角色設定亦非常相近。
   - 直行Gary：節目環節需要找RM旗子或是關卡所在地時，Gary常常沒看到旗子或關卡所在地而一直線地奔跑，故稱「直行Gary」，如Ep66、121。他還一時興起創作了《直行頌》(Ep148)。
-  - 最想擁有的男人：其組合[Leessang每次演出](../Page/Leessang.md "wikilink") Leessang
-    3輯的 Garie & Giri時，總會引導觀眾一起喊口號「想要擁有，姜Gary！」（）週一女友宋智孝也曾於節目《[Running
-    Man](../Page/Running_Man.md "wikilink")》大喊此口號，如Ep168。
+  - 最想擁有的男人：其組合[Leessang](../Page/Leessang.md "wikilink")每次演出 Leessang 3輯的 Garie & Giri時，總會引導觀眾一起喊口號「想要擁有，姜Gary！」（）週一女友宋智孝也曾於節目《[Running Man](../Page/Running_Man.md "wikilink")》大喊此口號，如Ep168。
   - 狗哥：中國粉絲時常稱他「狗哥」，Gary十分喜歡這個綽號，還特別訂製寫有「gouge」的帽子，並於2016年5月發表的中文新歌《沒關係》中加入「来中国认识我的很多，还有都叫我狗哥」的歌詞。
-  - 魷魚：同一節目成員[Haha於Ep](../Page/Haha.md "wikilink")278起時常調侃Gary長得不好看，稱之為魷魚。另外2016年RM
-    台灣粉絲見面會Gary在自我介紹時說：「大家好我是狗哥」，竟然真的有粉絲把魷魚帶進會場，最後觀眾還把魷魚遞到台上讓他與魷魚合照。
-  - 游牧人：Gary
-    提及，為了更新創作靈感，工作室和租住房子不能住超過兩年，但一定要看到[漢江](../Page/漢江_\(韓國\).md "wikilink")。\[3\]
+  - 魷魚：同一節目成員[Haha](../Page/Haha.md "wikilink")於Ep278起時常調侃Gary長得不好看，稱之為魷魚。另外2016年RM 台灣粉絲見面會Gary在自我介紹時說：「大家好我是狗哥」，竟然真的有粉絲把魷魚帶進會場，最後觀眾還把魷魚遞到台上讓他與魷魚合照。
+  - 游牧人：Gary 提及，為了更新創作靈感，工作室和租住房子不能住超過兩年，但一定要看到[漢江](../Page/漢江_\(韓國\).md "wikilink")。\[3\]
 
 ## 演藝經歷
 
 ### 音樂生涯
 
-以嘻哈團體X-Teen的成員出道，與[吉相遇](../Page/吉成俊.md "wikilink")，後來兩人一起加入另一嘻哈團體Honey
-Family，2000年Honey
-Family解散，Gary頓時失去工作，但因不想放棄音樂的夢想，決定用一年時間全力製作一張專輯。一一分析當時走紅的Rap歌詞之後，發現沒有描寫生活瑣事的歌詞，而這樣的歌詞是Gary所擅長的，之後他寫了《Rush》、《Leessang
-Blues》和《美麗人生（）》 ，深受歡迎。他說：「人會背叛人，可是努力是不會背叛自己的。」
+以嘻哈團體X-Teen的成員出道，與[吉相遇](../Page/吉成俊.md "wikilink")，後來兩人一起加入另一嘻哈團體Honey Family，2000年Honey Family解散，Gary頓時失去工作，但因不想放棄音樂的夢想，決定用一年時間全力製作一張專輯。一一分析當時走紅的Rap歌詞之後，發現沒有描寫生活瑣事的歌詞，而這樣的歌詞是Gary所擅長的，之後他寫了《Rush》、《Leessang Blues》和《美麗人生（）》 ，深受歡迎。他說：「人會背叛人，可是努力是不會背叛自己的。」
 
-2012年5月Gary與[吉成俊註冊成立演唱會策劃公司LEESSANG](../Page/吉成俊.md "wikilink")
-COMPANY，而後兩人各自成立分公司，[吉成俊負責Magic](../Page/吉成俊.md "wikilink")
-Mansion，專心致力於音樂製作，培養rapper與製作人；Gary的分公司則是著重於SOLO專輯製作。
+2012年5月Gary與[吉成俊](../Page/吉成俊.md "wikilink")註冊成立演唱會策劃公司LEESSANG COMPANY，而後兩人各自成立分公司，[吉成俊](../Page/吉成俊.md "wikilink")負責Magic Mansion，專心致力於音樂製作，培養rapper與製作人；Gary的分公司則是著重於SOLO專輯製作。
 
-於2014年1月15日正式推出第一張個人專輯《MR.GAE》。2015年9月21日，发行首张个人正规专辑《2002》。该专辑共收录了10首歌曲，并包含了双主打歌《Get
-Some Air》和《JOA》。专辑加入了Skull、John Park、Double
-K、Deepflow等多位个人特色鲜明的实力派歌手参与。主打曲《GET
-SOME AIR》在中秋成为音源大势，夺得了Melon音源排行榜1位，在其他音源榜上均有不俗表现。
+於2014年1月15日正式推出第一張個人專輯《MR.GAE》。2015年9月21日，发行首张个人正规专辑《2002》。该专辑共收录了10首歌曲，并包含了双主打歌《Get Some Air》和《JOA》。专辑加入了Skull、John Park、Double K、Deepflow等多位个人特色鲜明的实力派歌手参与。主打曲《GET SOME AIR》在中秋成为音源大势，夺得了Melon音源排行榜1位，在其他音源榜上均有不俗表现。
 
-Gary所寫的歌詞常常是19禁，因歌詞有許多對於「性」的淺白描寫，例如：《Turned off the TV》、《Shower
-Later》、《JOA》。除了因為Gary認為這樣的歌詞很浪漫之外，他也說過希望這樣能幫後輩開一條更寬廣的路，讓他們能夠沒有限制，自由創作。
+Gary所寫的歌詞常常是19禁，因歌詞有許多對於「性」的淺白描寫，例如：《Turned off the TV》、《Shower Later》、《JOA》。除了因為Gary認為這樣的歌詞很浪漫之外，他也說過希望這樣能幫後輩開一條更寬廣的路，讓他們能夠沒有限制，自由創作。
 
-受到一段深刻戀情的影響，寫出許多膾炙人口的好歌，包含：《I'm Not Laughing (웃는게
-아니야)》、《Ballerino》、《不能分手的女人 不能離開的男人 (헤어지지 못하는
-여자, 떠나가지 못하는 남자)》。
+受到一段深刻戀情的影響，寫出許多膾炙人口的好歌，包含：《I'm Not Laughing (웃는게 아니야)》、《Ballerino》、《不能分手的女人 不能離開的男人 (헤어지지 못하는 여자, 떠나가지 못하는 남자)》。
 
 ### Running Man
 
-2010年7月11日起，加入[SBS](../Page/SBS_\(韓國\).md "wikilink")《[Running
-Man](../Page/Running_Man.md "wikilink")》固定主持\[4\]。2016年，Gary為了能夠將主力放在音樂方面發展而決定離開主持達七年的《[Running
-Man](../Page/Running_Man.md "wikilink")》，並於2016年10月31日進行最後節目錄製。\[5\]但亦以客串身份參與兩期的錄製。\[6\]\[7\]
+2010年7月11日起，加入[SBS](../Page/SBS_\(韓國\).md "wikilink")《[Running Man](../Page/Running_Man.md "wikilink")》固定主持\[4\]。2016年，Gary為了能夠將主力放在音樂方面發展而決定離開主持達七年的《[Running Man](../Page/Running_Man.md "wikilink")》，並於2016年10月31日進行最後節目錄製。\[5\]但亦以客串身份參與兩期的錄製。\[6\]\[7\]
 
-於2016年11月3日在台灣接受訪時表示退出後會將主力集中在音樂方面的發展，又表示自己作出了艱難的決定。同時，也感謝粉絲們在多年來的支持，並表示音樂工作進度發展良好後便會考慮將來有機會重返《[Running
-Man](../Page/Running_Man.md "wikilink")》再度擔任主持一職。\[8\]
+於2016年11月3日在台灣接受訪時表示退出後會將主力集中在音樂方面的發展，又表示自己作出了艱難的決定。同時，也感謝粉絲們在多年來的支持，並表示音樂工作進度發展良好後便會考慮將來有機會重返《[Running Man](../Page/Running_Man.md "wikilink")》再度擔任主持一職。\[8\]
 
 #### Super 7退出事件
 
-2010年開始為綜藝節目《[Running
-Man](../Page/Running_Man.md "wikilink")》固定成員，但2012年發生短暫退出事件。當時因針對[MBC的長期罷工](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")，《[無限挑戰](../Page/無限挑戰.md "wikilink")》因而停播，節目成員（[Leessang的成員](../Page/Leessang.md "wikilink")——[吉當時為節目成員之一](../Page/吉成俊.md "wikilink")）在私人聚會中決定以舉辦《Super
-7演唱會》的方式跟節目粉絲進行互動，並交由LEESSANG
-COMPANY（Leessang成員吉及Gary創立之娛樂公司）主辦。後來因為演唱會時間與《無限挑戰》的播出時間相撞，引起網友不滿，加上以往「無限挑戰歌謠祭」皆由MBC出資並免費入場，此次Super
-7演唱會則由LEESSANG
-COMPANY負責費用支出，因此需要收取門票來抵銷成本，導致民眾認為票價過高，因而引發爭議並越演越烈，許多網友圍攻Gary與吉的Twitter，使得Super
-7演唱會被迫取消\[9\]。9月21日，Gary在Twitter上宣告將停止一切綜藝活動，吉爾後也在Twitter上發道歉文，並表示將從無限挑戰退出\[10\]。其後其他成員與製作組極力挽留，《Running
-Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況下照常錄製。
+2010年開始為綜藝節目《[Running Man](../Page/Running_Man.md "wikilink")》固定成員，但2012年發生短暫退出事件。當時因針對[MBC的長期罷工](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")，《[無限挑戰](../Page/無限挑戰.md "wikilink")》因而停播，節目成員（[Leessang](../Page/Leessang.md "wikilink")的成員——[吉當時為節目成員之一](../Page/吉成俊.md "wikilink")）在私人聚會中決定以舉辦《Super 7演唱會》的方式跟節目粉絲進行互動，並交由LEESSANG COMPANY（Leessang成員吉及Gary創立之娛樂公司）主辦。後來因為演唱會時間與《無限挑戰》的播出時間相撞，引起網友不滿，加上以往「無限挑戰歌謠祭」皆由MBC出資並免費入場，此次Super 7演唱會則由LEESSANG COMPANY負責費用支出，因此需要收取門票來抵銷成本，導致民眾認為票價過高，因而引發爭議並越演越烈，許多網友圍攻Gary與吉的Twitter，使得Super 7演唱會被迫取消\[9\]。9月21日，Gary在Twitter上宣告將停止一切綜藝活動，吉爾後也在Twitter上發道歉文，並表示將從無限挑戰退出\[10\]。其後其他成員與製作組極力挽留，《Running Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況下照常錄製。
 
 9月28日，Leessang宣布回歸綜藝節目。Gary錄製《Running Man》第114期時，帶著蘋果汁（韓語音同「道歉」）來道歉。
 
@@ -211,9 +177,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 
 <!-- end list -->
 
-  - 「0영역의 배틀」- 디기리（feat. Gary, [Dynamic
-    Duo](../Page/Dynamic_Duo.md "wikilink"), [Drunken
-    Tiger](https://zh.wikipedia.org/wiki/Drunken_Tiger "wikilink")）
+  - 「0영역의 배틀」- 디기리（feat. Gary, [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink"), [Drunken Tiger](https://zh.wikipedia.org/wiki/Drunken_Tiger "wikilink")）
 
 <!-- end list -->
 
@@ -221,11 +185,8 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 
 <!-- end list -->
 
-  - 「Rainbow」- BMK（feat. Gary of
-    [Leessang](../Page/Leessang.md "wikilink")）
-  - 「It's Alright」- [Dynamic
-    Duo](../Page/Dynamic_Duo.md "wikilink")（Feat.[Brown Eyed Soul
-    (band)](https://zh.wikipedia.org/wiki/Brown_Eyed_Soul_\(band\) "wikilink"),Gary,전제덕）
+  - 「Rainbow」- BMK（feat. Gary of [Leessang](../Page/Leessang.md "wikilink")）
+  - 「It's Alright」- [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")（Feat.[Brown Eyed Soul (band)](https://zh.wikipedia.org/wiki/Brown_Eyed_Soul_\(band\) "wikilink"),Gary,전제덕）
 
 <!-- end list -->
 
@@ -234,8 +195,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <!-- end list -->
 
   - 「불꽃」- 장혜진（Feat. Gary of Leessang）
-  - 「애주가」- [Psy](https://zh.wikipedia.org/wiki/Psy "wikilink")（feat.
-    [Leessang](../Page/Leessang.md "wikilink"))
+  - 「애주가」- [Psy](https://zh.wikipedia.org/wiki/Psy "wikilink")（feat. [Leessang](../Page/Leessang.md "wikilink"))
 
 <!-- end list -->
 
@@ -253,8 +213,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 
 <!-- end list -->
 
-  - 「그런 얘기...」- Mystic Puzzle （Feat. Gary of
-    [Leessang](../Page/Leessang.md "wikilink")）
+  - 「그런 얘기...」- Mystic Puzzle （Feat. Gary of [Leessang](../Page/Leessang.md "wikilink")）
   - 「I do」- 문지은（feat. Gary）
   - 「집시여행」- Loptimist（feat. [Leessang](../Page/Leessang.md "wikilink")）
 
@@ -264,15 +223,10 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 
 <!-- end list -->
 
-  - 「Hiding Game (즐겨 찾기)」－ [Fly to the
-    Sky](../Page/Fly_to_the_Sky.md "wikilink")（Feat. Gary）
-  - 「서로가 서로가 아니면 안될 때」 - 이수영（Feat.
-    [Leessang](../Page/Leessang.md "wikilink")）
-  - 「Keep the Change (잔돈은 됐어요)」- [Dynamic
-    Duo](../Page/Dynamic_Duo.md "wikilink")（Feat. Gary,
-    [Bumkey](https://zh.wikipedia.org/wiki/Bumkey "wikilink")
-  - 「혼자가 아닌 걸」- [任昌丁](../Page/任昌丁.md "wikilink")（Feat.
-    [Leessang](../Page/Leessang.md "wikilink")）
+  - 「Hiding Game (즐겨 찾기)」－ [Fly to the Sky](../Page/Fly_to_the_Sky.md "wikilink")（Feat. Gary）
+  - 「서로가 서로가 아니면 안될 때」 - 이수영（Feat. [Leessang](../Page/Leessang.md "wikilink")）
+  - 「Keep the Change (잔돈은 됐어요)」- [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")（Feat. Gary, [Bumkey](https://zh.wikipedia.org/wiki/Bumkey "wikilink")
+  - 「혼자가 아닌 걸」- [任昌丁](../Page/任昌丁.md "wikilink")（Feat. [Leessang](../Page/Leessang.md "wikilink")）
 
 <!-- end list -->
 
@@ -283,9 +237,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
   - 「대한민국 No.1」 - [Leessang](../Page/Leessang.md "wikilink")
   - 「헤어지는 일」- 이정（Feat. [Leessang](../Page/Leessang.md "wikilink")）
   - 「秋千」－[李孝利](../Page/李孝利.md "wikilink")（Feat. Gary）
-  - 「回到我身邊(다시 내게로 돌아와)」-
-    [金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")（Feat.
-    Gary）
+  - 「回到我身邊(다시 내게로 돌아와)」- [金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")（Feat. Gary）
 
 <!-- end list -->
 
@@ -293,11 +245,9 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 
 <!-- end list -->
 
-  - 「Happy Ending」- Primary（Feat. Gary of
-    [Leessang](../Page/Leessang.md "wikilink") & Jinsil of Mad Soul
-    Child）
+  - 「Happy Ending」- Primary（Feat. Gary of [Leessang](../Page/Leessang.md "wikilink") & Jinsil of Mad Soul Child）
   - 「只屬於我的歌」（作詞，《[無限挑戰](../Page/無限挑戰.md "wikilink")》－[西海岸高速公路歌謠祭](../Page/無限挑戰_西海岸高速公路歌謠祭.md "wikilink")，演唱：[吉](../Page/吉成俊.md "wikilink")、[Bada](../Page/Bada_\(歌手\).md "wikilink")）
-  - [尹未來專輯MV](../Page/尹未來.md "wikilink")（演出）
+  - [尹未來](../Page/尹未來.md "wikilink")專輯MV（演出）
 
 <!-- end list -->
 
@@ -305,18 +255,12 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 
 <!-- end list -->
 
-  - 「森巴的魅力 (삼바의 매력)」- [吉成俊](../Page/吉成俊.md "wikilink")（Feat. Gary,
-    [鄭仁](../Page/鄭仁.md "wikilink")）
-  - 「Party Rock」- [Miryo](../Page/趙美慧.md "wikilink")（[Brown Eyed
-    Girls](../Page/Brown_Eyed_Girls.md "wikilink")）（Feat.Gary & THE
-    KOXX）
+  - 「森巴的魅力 (삼바의 매력)」- [吉成俊](../Page/吉成俊.md "wikilink")（Feat. Gary, [鄭仁](../Page/鄭仁.md "wikilink")）
+  - 「Party Rock」- [Miryo](../Page/趙美慧.md "wikilink")（[Brown Eyed Girls](../Page/Brown_Eyed_Girls.md "wikilink")）（Feat.Gary & THE KOXX）
   - 「愛情」（與[Haha](../Page/Haha.md "wikilink")）
   - 「Voice (목소리)」- [白智榮](../Page/白智榮.md "wikilink")）（Feat. Gary）
-  - 「想對你說的話(너에게 하고 싶은 말)」-
-    [金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")（Feat.
-    [Haha](../Page/Haha.md "wikilink")、Gary）
-  - 「Mad Man」- [Leessang](../Page/Leessang.md "wikilink") &
-    [YB](https://zh.wikipedia.org/wiki/YB_\(尹度玹樂隊\) "wikilink")
+  - 「想對你說的話(너에게 하고 싶은 말)」- [金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")（Feat. [Haha](../Page/Haha.md "wikilink")、Gary）
+  - 「Mad Man」- [Leessang](../Page/Leessang.md "wikilink") & [YB](https://zh.wikipedia.org/wiki/YB_\(尹度玹樂隊\) "wikilink")
 
 <!-- end list -->
 
@@ -324,11 +268,8 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 
 <!-- end list -->
 
-  - 「眼淚 (눈물) 」- [Leessang](../Page/Leessang.md "wikilink")（Feat.
-    [成幼真](https://zh.wikipedia.org/wiki/成幼真 "wikilink"), Eugene of
-    THE SEEYA）
-  - 「어디 갈래(Where Do You Wanna Go)」- 태완, Gary, [Crush
-    (歌手)](../Page/Crush_\(歌手\).md "wikilink")
+  - 「眼淚 (눈물) 」- [Leessang](../Page/Leessang.md "wikilink")（Feat. [成幼真](https://zh.wikipedia.org/wiki/成幼真 "wikilink"), Eugene of THE SEEYA）
+  - 「어디 갈래(Where Do You Wanna Go)」- 태완, Gary, [Crush (歌手)](../Page/Crush_\(歌手\).md "wikilink")
 
 <!-- end list -->
 
@@ -338,8 +279,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 
   - 「人情味」（與[鄭仁](../Page/鄭仁.md "wikilink")）
   - 「自行车」（與[鄭仁](../Page/鄭仁.md "wikilink")）
-  - 「고장난 선풍기」-[MC
-    MONG](https://zh.wikipedia.org/wiki/MC_MONG "wikilink")（Feat.[孝琳](../Page/孝琳.md "wikilink"),Gary）
+  - 「고장난 선풍기」-[MC MONG](https://zh.wikipedia.org/wiki/MC_MONG "wikilink")（Feat.[孝琳](../Page/孝琳.md "wikilink"),Gary）
 
 <!-- end list -->
 
@@ -355,15 +295,10 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 
 <!-- end list -->
 
-  - 「또 하루 又一天 Lonely Night」 (feat.
-    [GAEKO(개코)](https://zh.wikipedia.org/wiki/GAEKO\(개코\) "wikilink"))
-  - 「딴따라 戲子 Tantara」（feat.
-    [MIWOO(우혜미)](https://zh.wikipedia.org/wiki/MIWOO\(우혜미\) "wikilink")）（[戲子](../Page/戲子_\(電視劇\).md "wikilink")
-    OST Part.1）
-  - 「침대구석 BED ROOM」- 박명호（Park Myung Ho）（Feat. 개리, 디기리, 성태 GARY, DIGIRI,
-    Sung-tae of Postmen）
-  - 「Like An Airplane(마치 비행기)」- [San
-    E](../Page/San_E.md "wikilink")（Feat. Gary）
+  - 「또 하루 又一天 Lonely Night」 (feat. [GAEKO(개코)](https://zh.wikipedia.org/wiki/GAEKO\(개코\) "wikilink"))
+  - 「딴따라 戲子 Tantara」（feat. [MIWOO(우혜미)](https://zh.wikipedia.org/wiki/MIWOO\(우혜미\) "wikilink")）（[戲子](../Page/戲子_\(電視劇\).md "wikilink") OST Part.1）
+  - 「침대구석 BED ROOM」- 박명호（Park Myung Ho）（Feat. 개리, 디기리, 성태 GARY, DIGIRI, Sung-tae of Postmen）
+  - 「Like An Airplane(마치 비행기)」- [San E](../Page/San_E.md "wikilink")（Feat. Gary）
 
 <!-- end list -->
 
@@ -377,8 +312,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 
 ### 節目主持
 
-  - 2010年7月11日至2016年10月31日：[SBS](../Page/SBS_\(韓國\).md "wikilink")《[Running
-    Man](../Page/Running_Man.md "wikilink")》
+  - 2010年7月11日至2016年10月31日：[SBS](../Page/SBS_\(韓國\).md "wikilink")《[Running Man](../Page/Running_Man.md "wikilink")》
 
 ### 綜藝節目
 
@@ -405,7 +339,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/金諪恩的巧克力.md" title="wikilink">金諪恩的巧克力</a></p></td>
 <td><p>77</p></td>
-<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang成員</a><a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
+<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang</a>成員<a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -414,7 +348,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a></p></td>
 <td><p>85</p></td>
-<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang成員</a><a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
+<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang</a>成員<a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>10月10日</p></td>
@@ -430,7 +364,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>金諪恩的巧克力</p></td>
 <td></td>
-<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang成員</a><a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
+<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang</a>成員<a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7月16日</p></td>
@@ -477,7 +411,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
 <td><p>柳熙烈的寫生簿</p></td>
 <td></td>
-<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang成員</a><a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
+<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang</a>成員<a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -485,7 +419,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 <td><p>Mnet MIC</p></td>
 <td></td>
-<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang成員</a><a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
+<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang</a>成員<a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -550,7 +484,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
 <td><p>明星人生劇場 －「Haha篇」</p></td>
 <td></td>
-<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang成員</a><a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
+<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang</a>成員<a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -558,14 +492,14 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 <td><p>尹道贤的MUST</p></td>
 <td></td>
-<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang成員</a><a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
+<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang</a>成員<a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
 <td><p>演艺家中介</p></td>
 <td></td>
-<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang成員</a><a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
+<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang</a>成員<a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -574,7 +508,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
 <td><p>柳熙烈的寫生簿</p></td>
 <td></td>
-<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang成員</a><a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
+<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang</a>成員<a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -582,7 +516,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/無限挑戰.md" title="wikilink">無限挑戰</a></p></td>
 <td><p>288</p></td>
-<td><p>(<a href="../Page/李奈映.md" title="wikilink">李奈映搞笑學概論</a>)</p></td>
+<td><p>(<a href="../Page/李奈映.md" title="wikilink">李奈映</a>搞笑學概論)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -598,7 +532,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>You &amp; I</p></td>
 <td><p>24</p></td>
-<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang成員</a><a href="../Page/吉成俊.md" title="wikilink">吉</a>、鄭宰勝</p></td>
+<td><p><a href="../Page/Leessang.md" title="wikilink">Leessang</a>成員<a href="../Page/吉成俊.md" title="wikilink">吉</a>、鄭宰勝</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -716,7 +650,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <tr class="even">
 <td><p>5月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
-<td><p><a href="../Page/奔跑吧兄弟.md" title="wikilink">奔跑吧兄弟4</a></p></td>
+<td><p><a href="../Page/奔跑吧兄弟.md" title="wikilink">奔跑吧兄弟</a>4</p></td>
 <td><p>5</p></td>
 <td><p>(與《<a href="../Page/Running_Man.md" title="wikilink">Running Man</a>》全體成員共同出演)</p></td>
 <td></td>
@@ -742,20 +676,15 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 
 ### 電視劇
 
-  - 2014年2月8日
-    [tvN](../Page/TVN.md "wikilink")《[急診男女](../Page/急診男女.md "wikilink")》飾演
-    代理駕駛（客串第六集）
-  - 2015年4月1日：SBS《[看見味道的少女](../Page/看見味道的少女.md "wikilink")》飾演 [Running
-    Man](../Page/Running_Man.md "wikilink") 主持人（客串第一集）
+  - 2014年2月8日 [tvN](../Page/TVN.md "wikilink")《[急診男女](../Page/急診男女.md "wikilink")》飾演 代理駕駛（客串第六集）
+  - 2015年4月1日：SBS《[看見味道的少女](../Page/看見味道的少女.md "wikilink")》飾演 [Running Man](../Page/Running_Man.md "wikilink") 主持人（客串第一集）
 
 ### 電影
 
   - 1995年：《爸爸是保鏢》(客串)
-  - 2005年：《[外出](../Page/四月的雪.md "wikilink")》（客串，與[Leessang成員](../Page/Leessang.md "wikilink")[吉](../Page/吉成俊.md "wikilink")）
-  - 2008年：《》（飾演
-    假裝日本間諜的韓國獨立軍，與[Leessang成員](../Page/Leessang.md "wikilink")[吉](../Page/吉成俊.md "wikilink")）
-  - 2012年：《》（飾演
-    醉酒計程車乘客，與[金鐘國客串](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")）
+  - 2005年：《[外出](../Page/四月的雪.md "wikilink")》（客串，與[Leessang](../Page/Leessang.md "wikilink")成員[吉](../Page/吉成俊.md "wikilink")）
+  - 2008年：《》（飾演 假裝日本間諜的韓國獨立軍，與[Leessang](../Page/Leessang.md "wikilink")成員[吉](../Page/吉成俊.md "wikilink")）
+  - 2012年：《》（飾演 醉酒計程車乘客，與[金鐘國客串](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")）
 
 ## 演唱會、粉絲見面會及簽名會
 
@@ -941,11 +870,9 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 
 ## 慈善活動
 
-Gary曾低調地進行慈善活動，如捐贈衣服予[非洲的人民](../Page/非洲.md "wikilink")。這項善舉在他本人主持的綜藝節目《[Running
-Man](../Page/Running_Man.md "wikilink")》第144期被車仁表透露。除此之外，Gary与[南韓實力派唱將鄭仁](https://zh.wikipedia.org/wiki/南韓 "wikilink")2014年8月16日應[新加坡](../Page/新加坡.md "wikilink")[南洋理工大學邀請](https://zh.wikipedia.org/wiki/南洋理工大學 "wikilink")，出席該校在政府大廈大草場舉辦的慈善筹款活動“NTU
-FEST”。這是一場免費演唱會，Gary与鄭仁無酬演出。
+Gary曾低調地進行慈善活動，如捐贈衣服予[非洲](../Page/非洲.md "wikilink")的人民。這項善舉在他本人主持的綜藝節目《[Running Man](../Page/Running_Man.md "wikilink")》第144期被車仁表透露。除此之外，Gary与[南韓實力派唱將鄭仁](https://zh.wikipedia.org/wiki/南韓 "wikilink")2014年8月16日應[新加坡](../Page/新加坡.md "wikilink")[南洋理工大學邀請](https://zh.wikipedia.org/wiki/南洋理工大學 "wikilink")，出席該校在政府大廈大草場舉辦的慈善筹款活動“NTU FEST”。這是一場免費演唱會，Gary与鄭仁無酬演出。
 
-參與《[無限挑戰](../Page/無限挑戰.md "wikilink")》的賽艇特輯後，以[Leessang名義捐出兩艘賽艇](../Page/Leessang.md "wikilink")。
+參與《[無限挑戰](../Page/無限挑戰.md "wikilink")》的賽艇特輯後，以[Leessang](../Page/Leessang.md "wikilink")名義捐出兩艘賽艇。
 
 ## 獎項
 
@@ -1080,10 +1007,9 @@ FEST”。這是一場免費演唱會，Gary与鄭仁無酬演出。
 
   - 2013年：samsung note.
   - 2014年：[美津濃](../Page/美津濃.md "wikilink")
-  - 2015年：韓國藥廠京東製藥（與[宋智孝共同代言](../Page/宋智孝.md "wikilink")）
-  - 2015年：韓國手機遊戲Game 주사위의신 骰子之神
-    조이시티（韓國區代言-與[池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")、[金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[李光洙共同代言](../Page/李光洙.md "wikilink")）
-  - 2016年：韓國藥廠京東製藥（與[宋智孝共同代言](../Page/宋智孝.md "wikilink")）
+  - 2015年：韓國藥廠京東製藥（與[宋智孝](../Page/宋智孝.md "wikilink")共同代言）
+  - 2015年：韓國手機遊戲Game 주사위의신 骰子之神 조이시티（韓國區代言-與[池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")、[金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[李光洙](../Page/李光洙.md "wikilink")共同代言）
+  - 2016年：韓國藥廠京東製藥（與[宋智孝](../Page/宋智孝.md "wikilink")共同代言）
   - 2017年：韓國[Wonder Tree](http://wondertree.co.kr/)面膜
 
 ## 備註
@@ -1097,17 +1023,7 @@ FEST”。這是一場免費演唱會，Gary与鄭仁無酬演出。
   -
   -
   -
-[Category:Leessang](https://zh.wikipedia.org/wiki/Category:Leessang "wikilink")
-[Category:Jungle_Entertainment](https://zh.wikipedia.org/wiki/Category:Jungle_Entertainment "wikilink")
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink")
-[Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink")
-[Category:龍仁大學校友](https://zh.wikipedia.org/wiki/Category:龍仁大學校友 "wikilink")
-[Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
-[Category:姜姓](https://zh.wikipedia.org/wiki/Category:姜姓 "wikilink")
-[Category:韩国首席执行官](https://zh.wikipedia.org/wiki/Category:韩国首席执行官 "wikilink")
+[Category:Leessang](https://zh.wikipedia.org/wiki/Category:Leessang "wikilink") [Category:Jungle_Entertainment](https://zh.wikipedia.org/wiki/Category:Jungle_Entertainment "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink") [Category:龍仁大學校友](https://zh.wikipedia.org/wiki/Category:龍仁大學校友 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:姜姓](https://zh.wikipedia.org/wiki/Category:姜姓 "wikilink") [Category:韩国首席执行官](https://zh.wikipedia.org/wiki/Category:韩国首席执行官 "wikilink")
 
 1.
 

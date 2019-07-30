@@ -1,6 +1,4 @@
-**AFI百年百大英雄與反派**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**AFI's
-100 Years…50 Heroes and
-Villains**），是[美國電影學會從](https://zh.wikipedia.org/wiki/美國電影學會 "wikilink")100部美國電影當中選出的50名英雄和50名反派角色名單，作為美國電影學會的[AFI百年百大系列的重要資料之一](https://zh.wikipedia.org/wiki/AFI百年百大系列 "wikilink")，发布於2003年六月。
+**AFI百年百大英雄與反派**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**AFI's 100 Years…50 Heroes and Villains**），是[美國電影學會從](https://zh.wikipedia.org/wiki/美國電影學會 "wikilink")100部美國電影當中選出的50名英雄和50名反派角色名單，作為美國電影學會的[AFI百年百大系列的重要資料之一](https://zh.wikipedia.org/wiki/AFI百年百大系列 "wikilink")，发布於2003年六月。
 
 此系列首次公開於[CBS電視台由](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")[阿諾·史瓦辛格所主持的特別節目當中](https://zh.wikipedia.org/wiki/阿諾·史瓦辛格 "wikilink")，其節目並入圍[艾美獎](https://zh.wikipedia.org/wiki/艾美獎 "wikilink")。\[1\]
 
@@ -496,20 +494,11 @@ Villains**），是[美國電影學會從](https://zh.wikipedia.org/wiki/美國�
 
 ## 外部連結
 
-  - [AFI's 100 Years...100 Heroes &
-    Villains](http://www.afi.com/100Years/handv.aspx)
-  - [List of the 400 nominated screen
-    characters](https://web.archive.org/web/20070811102145/http://connect.afi.com/site/DocServer/handv400.pdf?docID=245)
-  - [List of the 50 winning heroes and 50 winning
-    villains](https://www.webcitation.org/67oI7bsRP?url=http://connect.afi.com/site/DocServer/handv100.pdf?docID=246)
-  - [IMDb](https://zh.wikipedia.org/wiki/IMDb "wikilink") - [AFI's 100
-    Years... 100 Heroes and
-    Villains](http://www.imdb.com/title/tt0369200/)
+  - [AFI's 100 Years...100 Heroes & Villains](http://www.afi.com/100Years/handv.aspx)
+  - [List of the 400 nominated screen characters](https://web.archive.org/web/20070811102145/http://connect.afi.com/site/DocServer/handv400.pdf?docID=245)
+  - [List of the 50 winning heroes and 50 winning villains](https://www.webcitation.org/67oI7bsRP?url=http://connect.afi.com/site/DocServer/handv100.pdf?docID=246)
+  - [IMDb](https://zh.wikipedia.org/wiki/IMDb "wikilink") - [AFI's 100 Years... 100 Heroes and Villains](http://www.imdb.com/title/tt0369200/)
 
-[Category:美國電影學院百年百大系列](https://zh.wikipedia.org/wiki/Category:美國電影學院百年百大系列 "wikilink")
-[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink")
-[Category:電影角色列表](https://zh.wikipedia.org/wiki/Category:電影角色列表 "wikilink")
-[Category:反派角色](https://zh.wikipedia.org/wiki/Category:反派角色 "wikilink")
+[Category:美國電影學院百年百大系列](https://zh.wikipedia.org/wiki/Category:美國電影學院百年百大系列 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:電影角色列表](https://zh.wikipedia.org/wiki/Category:電影角色列表 "wikilink") [Category:反派角色](https://zh.wikipedia.org/wiki/Category:反派角色 "wikilink")
 
-1.  [The 56th Annual Primetime Emmy
-    Awards](http://www.emmys.org/primetime/2004/awards/nonfiction.php)
+1.  [The 56th Annual Primetime Emmy Awards](http://www.emmys.org/primetime/2004/awards/nonfiction.php)

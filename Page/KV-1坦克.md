@@ -1,11 +1,8 @@
-**KV-1坦克**
-（），是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰中的主力](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[重型坦克KV系列第一型](https://zh.wikipedia.org/wiki/重型坦克 "wikilink")，以[蘇聯國防人民委員會委員](https://zh.wikipedia.org/wiki/蘇聯國防人民委員會 "wikilink")——[克里门特·伏罗希洛夫](https://zh.wikipedia.org/wiki/克里门特·伏罗希洛夫 "wikilink")[元帥命名](https://zh.wikipedia.org/wiki/元帥 "wikilink")。KV坦克系列以它們的厚重裝甲為名；德國进攻蘇聯時，KV坦克是少數同時能抵擋37和50毫米口徑[反坦克砲的坦克](../Page/反坦克炮.md "wikilink")。在德國的[巴巴羅薩行動](../Page/巴巴羅薩行動.md "wikilink")以前，蘇聯的22000輛坦克中約有500輛KV-1坦克服役。隨著KV-1坦克的成功，蘇聯相繼研發了它的改良版：[KV-2](../Page/KV-2坦克.md "wikilink")、[KV-85和諸多衍生型](../Page/KV-85坦克.md "wikilink")。
+**KV-1坦克** （），是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰中的主力](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[重型坦克KV系列第一型](https://zh.wikipedia.org/wiki/重型坦克 "wikilink")，以[蘇聯國防人民委員會委員](https://zh.wikipedia.org/wiki/蘇聯國防人民委員會 "wikilink")——[克里门特·伏罗希洛夫](https://zh.wikipedia.org/wiki/克里门特·伏罗希洛夫 "wikilink")[元帥命名](https://zh.wikipedia.org/wiki/元帥 "wikilink")。KV坦克系列以它們的厚重裝甲為名；德國进攻蘇聯時，KV坦克是少數同時能抵擋37和50毫米口徑[反坦克砲的坦克](../Page/反坦克炮.md "wikilink")。在德國的[巴巴羅薩行動](../Page/巴巴羅薩行動.md "wikilink")以前，蘇聯的22000輛坦克中約有500輛KV-1坦克服役。隨著KV-1坦克的成功，蘇聯相繼研發了它的改良版：[KV-2](../Page/KV-2坦克.md "wikilink")、[KV-85和諸多衍生型](../Page/KV-85坦克.md "wikilink")。
 
 ## 發展
 
-[Char-Sergei-Mironovitch-Kirov.jpg](https://zh.wikipedia.org/wiki/File:Char-Sergei-Mironovitch-Kirov.jpg "fig:Char-Sergei-Mironovitch-Kirov.jpg")
-KV-1是由伏罗希洛夫的女婿—科廷（Zhozef Kotin）和耶莫雷耶夫（Vladimir
-Yermolaev）於[基洛夫工廠所研製](https://zh.wikipedia.org/wiki/基洛夫工廠 "wikilink")，將之前的多砲塔坦克——改採用單砲塔和寬履帶進行改良。
+[Char-Sergei-Mironovitch-Kirov.jpg](https://zh.wikipedia.org/wiki/File:Char-Sergei-Mironovitch-Kirov.jpg "fig:Char-Sergei-Mironovitch-Kirov.jpg") KV-1是由伏罗希洛夫的女婿—科廷（Zhozef Kotin）和耶莫雷耶夫（Vladimir Yermolaev）於[基洛夫工廠所研製](https://zh.wikipedia.org/wiki/基洛夫工廠 "wikilink")，將之前的多砲塔坦克——改採用單砲塔和寬履帶進行改良。
 
 1939年2月，設計工作展開；
 
@@ -17,10 +14,7 @@ Yermolaev）於[基洛夫工廠所研製](https://zh.wikipedia.org/wiki/基洛�
 
 1940年2月，量產開始，當年便生產了243輛。之後有一戰車排的KV-1原型車與[T-100坦克和SMK坦克被派往](https://zh.wikipedia.org/wiki/T-100重型坦克 "wikilink")[冬季戰爭對抗芬蘭軍隊](https://zh.wikipedia.org/wiki/冬季戰爭 "wikilink")。
 
-在冬季戰爭中，芬軍對KV-1原型車的厚重裝甲難以擊破，且機動性佳；而SMK和T-100則是常發生履帶被炸斷、砲塔故障等問題。KV-1使用許多SMK坦克的設計，如傳動、懸掛裝置等，原先預計採用
-76.2 毫米和 45 毫米主砲，最後卻只用 76.2 毫米一座、配有12個獨立負重輪和扭桿連結的懸掛裝置，和砲塔前 90 毫米、側面 75
-毫米、車身 90
-毫米的厚重裝甲，重要的是，採用寬履帶的KV-1分散了重量，能夠過得了許多原本會被壓壞的木橋。但KV-1的缺點是早期的離合器和傳動器協調性差，換檔時需要先停車，乘員艙又視野狹小、缺乏無線電，影響其作戰能力。
+在冬季戰爭中，芬軍對KV-1原型車的厚重裝甲難以擊破，且機動性佳；而SMK和T-100則是常發生履帶被炸斷、砲塔故障等問題。KV-1使用許多SMK坦克的設計，如傳動、懸掛裝置等，原先預計採用 76.2 毫米和 45 毫米主砲，最後卻只用 76.2 毫米一座、配有12個獨立負重輪和扭桿連結的懸掛裝置，和砲塔前 90 毫米、側面 75 毫米、車身 90 毫米的厚重裝甲，重要的是，採用寬履帶的KV-1分散了重量，能夠過得了許多原本會被壓壞的木橋。但KV-1的缺點是早期的離合器和傳動器協調性差，換檔時需要先停車，乘員艙又視野狹小、缺乏無線電，影響其作戰能力。
 
 當[蘇德戰爭開始後](https://zh.wikipedia.org/wiki/蘇德戰爭 "wikilink")，KV-1坦克開始與德軍交鋒，到1941年6月時基洛夫工廠已生產了636輛。當時德軍主要使用的[反坦克砲](https://zh.wikipedia.org/wiki/反坦克砲 "wikilink")、[坦克砲都無法擊毀其](https://zh.wikipedia.org/wiki/坦克砲 "wikilink")90毫米厚的炮塔前部裝甲（後期前方裝甲還增加25mm裝甲板至100毫米），對德軍震懾力強，因而開發其他如KV-1S、[SU-152](../Page/SU-152.md "wikilink")等衍生車；相較之下，SMK、T-35等重型多砲塔坦克常因故障而停駛，被視為阻礙道路交通的一大問題，甚至故障數量比被德軍擊毀者還多。
 
@@ -43,14 +37,12 @@ Yermolaev）於[基洛夫工廠所研製](https://zh.wikipedia.org/wiki/基洛�
 ### KV-1 1939年型
 
   -
-    [Kv1_m39.jpg](https://zh.wikipedia.org/wiki/File:Kv1_m39.jpg "fig:Kv1_m39.jpg")從1939年12月開始生產，主炮為
-    76 毫米的L-11坦克砲，裝甲厚達 75 毫米。原先車身前面沒有架設機槍，僅有手槍口，但在後期裝備L-11坦克砲的生產車也裝設了機槍。
+    [Kv1_m39.jpg](https://zh.wikipedia.org/wiki/File:Kv1_m39.jpg "fig:Kv1_m39.jpg")從1939年12月開始生產，主炮為 76 毫米的L-11坦克砲，裝甲厚達 75 毫米。原先車身前面沒有架設機槍，僅有手槍口，但在後期裝備L-11坦克砲的生產車也裝設了機槍。
 
 ### KV-1 1940年型
 
   -
-    自1940年後半開始生產。主炮為 76 毫米的F-32坦克砲，裝甲初期 75 毫米，後期提昇至 90
-    毫米，砲塔更換為新型砲塔，砲塔前頭還設計使敵軍跳彈的造型；主要用來對抗德軍的入侵。
+    自1940年後半開始生產。主炮為 76 毫米的F-32坦克砲，裝甲初期 75 毫米，後期提昇至 90 毫米，砲塔更換為新型砲塔，砲塔前頭還設計使敵軍跳彈的造型；主要用來對抗德軍的入侵。
 
 ### KV-1E
 
@@ -408,46 +400,22 @@ V-2-IS</p></td>
 
   -
   -
-  - Zaloga, Steven J. and James Grandsen (1984). *Soviet Tanks and
-    Combat Vehicles of World War Two*. London: Arms and Armour Press.
-    ISBN 0-85368-606-8.
+  - Zaloga, Steven J. and James Grandsen (1984). *Soviet Tanks and Combat Vehicles of World War Two*. London: Arms and Armour Press. ISBN 0-85368-606-8.
 
-  - Zaloga, Steven J., Jim Kinnear, and Peter Sarson (1995). *KV-1 & 2
-    Heavy Tanks 1939–1945*. Oxford: Osprey Publishing. ISBN
-    1-85532-496-2.
+  - Zaloga, Steven J., Jim Kinnear, and Peter Sarson (1995). *KV-1 & 2 Heavy Tanks 1939–1945*. Oxford: Osprey Publishing. ISBN 1-85532-496-2.
 
   - 鐵甲雄師-二戰中的蘇軍戰車,著：Tim Bean、Will Fowler,Portico出版
 
 ## 外部連結
 
   - [LemaireSoft](https://web.archive.org/web/20070701070505/http://www.lemaire.happyhost.org/char/complet/589.html)
-  - OnWar specifications: [KV-1
-    M39](http://www.onwar.com/tanks/ussr/fkv1m39.htm), [KV-1e
-    M40](http://www.onwar.com/tanks/ussr/fkv1em40.htm), [KV-1
-    M41](http://www.onwar.com/tanks/ussr/fkv1m41.htm),
-    [KV-1S](http://www.onwar.com/tanks/ussr/fkv1s.htm),
-    [KV-85](http://www.onwar.com/tanks/ussr/fkv85.htm),
-    [KV-2](http://www.onwar.com/tanks/ussr/fkv2m40.htm)
-  - Russian Battlefield:
-    [KV-1](http://www.battlefield.ru/index.php?option=com_content&task=view&id=46&Itemid=50&lang=en),
-    [KV-1S](http://www.battlefield.ru/index.php?option=com_content&task=view&id=47&Itemid=50&lang=en),
-    [KV-2](http://www.battlefield.ru/index.php?option=com_content&task=view&id=48&Itemid=50&lang=en),
-    [KV-8](http://www.battlefield.ru/index.php?option=com_content&task=view&id=50&Itemid=50&lang=en),
-    [KV-85](http://www.battlefield.ru/index.php?option=com_content&task=view&id=49&Itemid=50&lang=en),
-    [KV-3](http://www.battlefield.ru/index.php?option=com_content&task=view&id=51&Itemid=48&lang=en)
-  - [World War II
-    Vehicles](http://www.wwiivehicles.com/ussr/tanks-heavy/kv-1.asp)
-  - [Walkaround KV-85 from Avtovo, Saint-Petersburg
-    (Russia)](http://scalemodels.ru/modules/photo/viewcat_cid_219.html)
-  - [KV tanks](http://legion-afv.narod.ru/KV.html), KV tanks in museum
-    and monuments
+  - OnWar specifications: [KV-1 M39](http://www.onwar.com/tanks/ussr/fkv1m39.htm), [KV-1e M40](http://www.onwar.com/tanks/ussr/fkv1em40.htm), [KV-1 M41](http://www.onwar.com/tanks/ussr/fkv1m41.htm), [KV-1S](http://www.onwar.com/tanks/ussr/fkv1s.htm), [KV-85](http://www.onwar.com/tanks/ussr/fkv85.htm), [KV-2](http://www.onwar.com/tanks/ussr/fkv2m40.htm)
+  - Russian Battlefield: [KV-1](http://www.battlefield.ru/index.php?option=com_content&task=view&id=46&Itemid=50&lang=en), [KV-1S](http://www.battlefield.ru/index.php?option=com_content&task=view&id=47&Itemid=50&lang=en), [KV-2](http://www.battlefield.ru/index.php?option=com_content&task=view&id=48&Itemid=50&lang=en), [KV-8](http://www.battlefield.ru/index.php?option=com_content&task=view&id=50&Itemid=50&lang=en), [KV-85](http://www.battlefield.ru/index.php?option=com_content&task=view&id=49&Itemid=50&lang=en), [KV-3](http://www.battlefield.ru/index.php?option=com_content&task=view&id=51&Itemid=48&lang=en)
+  - [World War II Vehicles](http://www.wwiivehicles.com/ussr/tanks-heavy/kv-1.asp)
+  - [Walkaround KV-85 from Avtovo, Saint-Petersburg (Russia)](http://scalemodels.ru/modules/photo/viewcat_cid_219.html)
+  - [KV tanks](http://legion-afv.narod.ru/KV.html), KV tanks in museum and monuments
 
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
-[Category:蘇聯二戰坦克](https://zh.wikipedia.org/wiki/Category:蘇聯二戰坦克 "wikilink")
-[Category:重型坦克](https://zh.wikipedia.org/wiki/Category:重型坦克 "wikilink")
+[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:蘇聯二戰坦克](https://zh.wikipedia.org/wiki/Category:蘇聯二戰坦克 "wikilink") [Category:重型坦克](https://zh.wikipedia.org/wiki/Category:重型坦克 "wikilink")
 
-1.  [IS-3 Model 1945](http://www.onwar.com/tanks/ussr/data/is3.htm)
-    onwar.com
-2.  Выводы из испытаний Д-5Т и С-31 в КВ-85 и ИС-85. (1943, August 23).
-    Retrieved April 20, 2017, from
-    <http://yuripasholok.livejournal.com/3477915.html>
+1.  [IS-3 Model 1945](http://www.onwar.com/tanks/ussr/data/is3.htm) onwar.com
+2.  Выводы из испытаний Д-5Т и С-31 в КВ-85 и ИС-85. (1943, August 23). Retrieved April 20, 2017, from <http://yuripasholok.livejournal.com/3477915.html>

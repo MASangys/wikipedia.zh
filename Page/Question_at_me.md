@@ -1,17 +1,13 @@
-《**question at
-me**》為[林原惠](../Page/林原惠.md "wikilink")於1999年5月28日發行的第22張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+《**question at me**》為[林原惠](../Page/林原惠.md "wikilink")於1999年5月28日發行的第22張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
-由[King
-Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")、販售（KIDA-180）。
+由[King Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")、販售（KIDA-180）。
 
 ## 概要
 
   - 與前作相隔了半年的空白期，為林原惠於1999年發行的第1張單曲。
   - [朝日電視台](../Page/朝日電視台.md "wikilink")深夜播放的特撮劇《千年王國三劍客》（[千年王国三枪手](../Page/千年王国三枪手.md "wikilink")）的主題曲。
-  - 這是繼林原在動畫作品以外的商業搭配「[Until Strawberry
-    Sherbet](https://zh.wikipedia.org/wiki/Until_Strawberry_Sherbet "wikilink")」以來與非動畫節目的合作，且作為真人節目的商業搭配作品這是第一次（不過林原本人未參加演出）。
-  - 在Oricon排行榜初登場為第14名，從《[Successful
-    Mission](../Page/Successful_Mission.md "wikilink")》開始的連續單曲榜前10名的紀錄也到此中斷。
+  - 這是繼林原在動畫作品以外的商業搭配「[Until Strawberry Sherbet](https://zh.wikipedia.org/wiki/Until_Strawberry_Sherbet "wikilink")」以來與非動畫節目的合作，且作為真人節目的商業搭配作品這是第一次（不過林原本人未參加演出）。
+  - 在Oricon排行榜初登場為第14名，從《[Successful Mission](../Page/Successful_Mission.md "wikilink")》開始的連續單曲榜前10名的紀錄也到此中斷。
 
 ## 收錄曲
 
@@ -27,13 +23,10 @@ Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")、販售�
 
   - **question at me**
       -
-        原創專輯《[輕飄飄](https://zh.wikipedia.org/wiki/輕飄飄 "wikilink")》（收錄Album
-        Version）
+        原創專輯《[輕飄飄](https://zh.wikipedia.org/wiki/輕飄飄 "wikilink")》（收錄Album Version）
   - **〜從那之後〜**
       -
         原創專輯《輕飄飄》
-        精選輯《[VINTAGE
-        S](https://zh.wikipedia.org/wiki/VINTAGE_S "wikilink")》
+        精選輯《[VINTAGE S](https://zh.wikipedia.org/wiki/VINTAGE_S "wikilink")》
 
-[Category:1999年單曲](https://zh.wikipedia.org/wiki/Category:1999年單曲 "wikilink")
-[Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink")
+[Category:1999年單曲](https://zh.wikipedia.org/wiki/Category:1999年單曲 "wikilink") [Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink")

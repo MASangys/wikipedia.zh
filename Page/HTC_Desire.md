@@ -1,11 +1,6 @@
-**HTC
-Desire**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電推出的以](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[Android為](../Page/Android.md "wikilink")[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。
+**HTC Desire**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電推出的以](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[Android](../Page/Android.md "wikilink")為[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。
 
-此型號於2010年5月4日正式發佈，搭載新版[HTC
-Sense服務與](../Page/HTC_Sense.md "wikilink")[Android
-2.1作業系統及高效能](https://zh.wikipedia.org/wiki/Android_2.1 "wikilink")1GHz
-[Snapdragon處理器](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")，擁有3.7英吋[AMOLED屏幕](../Page/AMOLED.md "wikilink")、[WVGA畫面](https://zh.wikipedia.org/wiki/WVGA "wikilink")。此外，此型號最引人矚目的進階功能是支持[Adobe
-Flash](../Page/Adobe_Flash.md "wikilink")。
+此型號於2010年5月4日正式發佈，搭載新版[HTC Sense服務與](../Page/HTC_Sense.md "wikilink")[Android 2.1作業系統及高效能](https://zh.wikipedia.org/wiki/Android_2.1 "wikilink")1GHz [Snapdragon處理器](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")，擁有3.7英吋[AMOLED](../Page/AMOLED.md "wikilink")屏幕、[WVGA畫面](https://zh.wikipedia.org/wiki/WVGA "wikilink")。此外，此型號最引人矚目的進階功能是支持[Adobe Flash](../Page/Adobe_Flash.md "wikilink")。
 
 ## 技術規格
 
@@ -18,29 +13,24 @@ Flash](../Page/Adobe_Flash.md "wikilink")。
 
 **屏幕**：
 
-  - 類型：[AMOLED](../Page/AMOLED.md "wikilink")
-    電容式觸控屏幕（2010年7月后采用SLCD屏幕），支持多點觸控功能。
+  - 類型：[AMOLED](../Page/AMOLED.md "wikilink") 電容式觸控屏幕（2010年7月后采用SLCD屏幕），支持多點觸控功能。
   - 尺寸：3.7英吋
   - 分辨率：480 X 800 WVGA
 
 **處理器**：
 
-  - CPU型號：[高通](../Page/高通.md "wikilink")
-    [snapdragon](https://zh.wikipedia.org/wiki/snapdragon "wikilink")
-    QSD8250
+  - CPU型號：[高通](../Page/高通.md "wikilink") [snapdragon](https://zh.wikipedia.org/wiki/snapdragon "wikilink") QSD8250
   - CPU頻率：1GHz（实际运行频率998.4MHz）
 
 **操作平台**：
 
-  - [Android](../Page/Android.md "wikilink")™ 2.2 （Froyo）with HTC
-    Sense™（官方提供升級版本可至Android 2.3）
+  - [Android](../Page/Android.md "wikilink")™ 2.2 （Froyo）with HTC Sense™（官方提供升級版本可至Android 2.3）
 
 **儲存空間**：
 
   - ROM: 512 MB
   - RAM: 576 MB
-  - 擴展槽: [microSD](https://zh.wikipedia.org/wiki/microSD "wikilink")™
-    儲存卡最高支持 32 GB
+  - 擴展槽: [microSD](https://zh.wikipedia.org/wiki/microSD "wikilink")™ 儲存卡最高支持 32 GB
 
 **電池及電力**(数据全部为官方Android 2.2测试结果)：
 
@@ -76,8 +66,7 @@ Flash](../Page/Adobe_Flash.md "wikilink")。
       - 下載速度最高 7.2 Mbps
       - 上傳速度最高 2 Mbps
   - [GPRS](../Page/GPRS.md "wikilink"): 下載速度最高 114 kbps
-  - [EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink"): 下載速度最高 560
-    kbps
+  - [EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink"): 下載速度最高 560 kbps
   - [Wi-Fi](../Page/Wi-Fi.md "wikilink")®: IEEE 802.11 b/g
 
 **接口**：
@@ -94,13 +83,10 @@ Flash](../Page/Adobe_Flash.md "wikilink")。
 
 **藍牙**
 
-  - [Bluetooth](https://zh.wikipedia.org/wiki/Bluetooth "wikilink")®
-    2.1，含 EDR (Enhanced Data Rate)
+  - [Bluetooth](https://zh.wikipedia.org/wiki/Bluetooth "wikilink")® 2.1，含 EDR (Enhanced Data Rate)
   - 無線立體聲耳機 A2DP
-  - 文檔傳輸 [FTP](https://zh.wikipedia.org/wiki/FTP "wikilink") 和
-    [OPP](https://zh.wikipedia.org/wiki/OPP "wikilink") (Object Push)
-  - 其他支持的設置：AVRCP、GAP、GOEP、HFP、HSP、PBAP、SPP、Service Discovery
-    Application Profile
+  - 文檔傳輸 [FTP](https://zh.wikipedia.org/wiki/FTP "wikilink") 和 [OPP](https://zh.wikipedia.org/wiki/OPP "wikilink") (Object Push)
+  - 其他支持的設置：AVRCP、GAP、GOEP、HFP、HSP、PBAP、SPP、Service Discovery Application Profile
 
 **多媒體**
 
@@ -122,9 +108,7 @@ Flash](../Page/Adobe_Flash.md "wikilink")。
 
 **建議的Windows 系統需求**
 
-  - [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")® 7,
-    [Windows Vista](../Page/Windows_Vista.md "wikilink")®, or [Windows
-    XP](../Page/Windows_XP.md "wikilink")
+  - [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")® 7, [Windows Vista](../Page/Windows_Vista.md "wikilink")®, or [Windows XP](../Page/Windows_XP.md "wikilink")
   - [HTC](https://zh.wikipedia.org/wiki/HTC "wikilink") Sync
 
 [HTC Sense 支持](https://zh.wikipedia.org/wiki/HTC_Sense_支持 "wikilink")
@@ -144,11 +128,7 @@ Flash](../Page/Adobe_Flash.md "wikilink")。
 
 ## 外部連結
 
-  - [HTC Product
-    Page](http://www.htc.com/www/product/hero/overview.html)
+  - [HTC Product Page](http://www.htc.com/www/product/hero/overview.html)
   - [1](http://www.htc.com/tw/press.aspx?id=129310&lang=1028)
 
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
+[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")

@@ -1,14 +1,8 @@
-《**大戰隊風鏡Ｖ**》（原題：﹑Goggle
-V）是日本[東映公司在](../Page/東映.md "wikilink")1982年製作的「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」第6部[特攝作品](https://zh.wikipedia.org/wiki/特攝 "wikilink")。在日本[朝日電視台播放期間為](../Page/朝日電視台.md "wikilink")1982年（[昭和57年](https://zh.wikipedia.org/wiki/昭和57年 "wikilink")）2月6日-1983年（[昭和58年](https://zh.wikipedia.org/wiki/昭和58年 "wikilink")）1月29日，全50話。
+《**大戰隊風鏡Ｖ**》（原題：﹑Goggle V）是日本[東映](../Page/東映.md "wikilink")公司在1982年製作的「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」第6部[特攝作品](https://zh.wikipedia.org/wiki/特攝 "wikilink")。在日本[朝日電視台](../Page/朝日電視台.md "wikilink")播放期間為1982年（[昭和57年](https://zh.wikipedia.org/wiki/昭和57年 "wikilink")）2月6日-1983年（[昭和58年](https://zh.wikipedia.org/wiki/昭和58年 "wikilink")）1月29日，全50話。
 
 ## 劇情介紹
 
-著名的日本探險家，赤間健一，在往德國山區的探險山洞中，卻一直通往一座神祕城堡附近，之後看到一位科學家被一群神祕組織的士兵攻擊，便出手相救，
-那位科學家居然就是未來科學研究所的所長～本鄉博士，他來這裡是為了調查神祕的科學帝國Death
-Dark，近幾年他們開始要發動攻擊，準備侵略地球，於
-是，本鄉博士就聯絡在巨蛋球場底下的地底指揮中心，負責大戰隊防衛系統的Comptuer
-Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級戰
-隊**～大戰隊風鏡V～**來對抗邪惡的黑暗科學帝國，用光明的科學力量擊潰黑暗的死亡科學，將展開一連串的英雄故事。
+著名的日本探險家，赤間健一，在往德國山區的探險山洞中，卻一直通往一座神祕城堡附近，之後看到一位科學家被一群神祕組織的士兵攻擊，便出手相救， 那位科學家居然就是未來科學研究所的所長～本鄉博士，他來這裡是為了調查神祕的科學帝國Death Dark，近幾年他們開始要發動攻擊，準備侵略地球，於 是，本鄉博士就聯絡在巨蛋球場底下的地底指揮中心，負責大戰隊防衛系統的Comptuer Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級戰 隊**～大戰隊風鏡V～**來對抗邪惡的黑暗科學帝國，用光明的科學力量擊潰黑暗的死亡科學，將展開一連串的英雄故事。
 
 ## 特色
 
@@ -250,15 +244,14 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 
 ### 未來科學研究所
 
-片中支援大戰隊的組織，總部位於[後樂園球場](../Page/後樂園.md "wikilink")（現[東京巨蛋](../Page/東京巨蛋.md "wikilink")）地底。
+片中支援大戰隊的組織，總部位於[後樂園](../Page/後樂園.md "wikilink")球場（現[東京巨蛋](../Page/東京巨蛋.md "wikilink")）地底。
 
 **本鄉秀樹**（[仲谷昇](https://zh.wikipedia.org/wiki/仲谷昇 "wikilink") 飾）
 
 為未來科研所最高負責人，負責大戰隊之事務。人稱「本鄉博士」。
 劇中第2集最後博士便到世界各地進行研究，直到49集才回來。
 
-**山本小百合**（[細矢智惠子](https://zh.wikipedia.org/wiki/細矢智惠子 "wikilink") 飾）&
-**若木綠**（[小林伊津子](https://zh.wikipedia.org/wiki/小林伊津子 "wikilink") 飾）
+**山本小百合**（[細矢智惠子](https://zh.wikipedia.org/wiki/細矢智惠子 "wikilink") 飾）& **若木綠**（[小林伊津子](https://zh.wikipedia.org/wiki/小林伊津子 "wikilink") 飾）
 
 二人皆為博士助手，劇中22集提到若木到國外與博士會合，之後再無出現。
 
@@ -268,11 +261,9 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 而每位小孩負責支援一位隊員。
 
   - 上田達也（[井浦秀智](https://zh.wikipedia.org/wiki/井浦秀智 "wikilink") 飾）支援 Red
-  - 竹中　誠（[竹內　實](https://zh.wikipedia.org/wiki/竹內_實 "wikilink") 飾）支援
-    Black
+  - 竹中　誠（[竹內　實](https://zh.wikipedia.org/wiki/竹內_實 "wikilink") 飾）支援 Black
   - 島田春男（[大原和彥](https://zh.wikipedia.org/wiki/大原和彥 "wikilink") 飾）支援 Blue
-  - 大山大助（[水野智則](https://zh.wikipedia.org/wiki/水野智則 "wikilink") 飾）支援
-    Yellow
+  - 大山大助（[水野智則](https://zh.wikipedia.org/wiki/水野智則 "wikilink") 飾）支援 Yellow
   - 相澤　茜（[杉本華惠](https://zh.wikipedia.org/wiki/杉本華惠 "wikilink") 飾）支援 Pink
 
 ## 暗黑科學帝國 Death Dark
@@ -281,8 +272,7 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 
 製造出**浮游要塞 暗黑巨大城**『死亡托邦（デストピア）』為其根據地，並派出合成怪獸﹑巨大機器人以及死亡戰機進行破壞。
 
-**總統 塔布**（そうとうタブー，[依田英助](https://zh.wikipedia.org/wiki/依田英助 "wikilink")
-聲）
+**總統 塔布**（そうとうタブー，[依田英助](https://zh.wikipedia.org/wiki/依田英助 "wikilink") 聲）
 
   -
     帝國最高權力支配者。
@@ -290,8 +280,7 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
     平時於城內的大殿內發佈施令，皆以黑影代替，並無實際形體出現。
     結局是巨大化卻被電子銀河飛彈炸碎。
 
-**迪斯馬克大元帥**（デスマルク大元帥，DESMARK，[中庸助](https://zh.wikipedia.org/wiki/中庸助 "wikilink")
-飾）
+**迪斯馬克大元帥**（デスマルク大元帥，DESMARK，[中庸助](https://zh.wikipedia.org/wiki/中庸助 "wikilink") 飾）
 
   -
     於15集初登場。
@@ -310,23 +299,20 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
     負責服侍大元帥，有時也會替大元帥傳遞訊息。
     戰鬥時會化身成女劍士，最後被Blue及Pink擊敗。
 
-**迪斯基拉將軍**（デスギラーしょうぐん，[高橋利道](https://zh.wikipedia.org/wiki/高橋利道 "wikilink")
-飾）
+**迪斯基拉將軍**（デスギラーしょうぐん，[高橋利道](https://zh.wikipedia.org/wiki/高橋利道 "wikilink") 飾）
 
   -
     死亡黑暗首席戰鬥指揮官，經常上前線作戰，是為劍術高手。
     對帝國極為忠誠，個性殘暴，視Red為死對頭。
     最後死於電子銀河斬下。
 
-**薩卓莉亞博士**（ザゾリアはかせ，[西口久美子](https://zh.wikipedia.org/wiki/西口久美子 "wikilink")
-飾）
+**薩卓莉亞博士**（ザゾリアはかせ，[西口久美子](https://zh.wikipedia.org/wiki/西口久美子 "wikilink") 飾）
 
   -
     冷酷的女科學家，常指揮部下製造大型機械人。
     於15話，被冠上「無能力之人」之名而被大元帥殺掉。
 
-**伊迦納博士**（イガアナはかせ，[きくち英一](https://zh.wikipedia.org/wiki/きくち英一 "wikilink")
-飾）
+**伊迦納博士**（イガアナはかせ，[きくち英一](https://zh.wikipedia.org/wiki/きくち英一 "wikilink") 飾）
 
   -
     性格豪爽，擅於製造動物類型的巨大機械人。
@@ -448,54 +434,46 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 **Goggle Fire**
 
   -
-    齊力使用Goggle Sabel放出火焰之招式(vs [河童モズー](../Page/河童.md "wikilink"))。
+    齊力使用Goggle Sabel放出火焰之招式(vs [河童](../Page/河童.md "wikilink")モズー)。
 
 **Fire Storm**
 
   -
-    齊力使用Goggle Sabel射出水柱之招式(vs
-    [翼龍モズー](https://zh.wikipedia.org/wiki/翼龍 "wikilink"))。
+    齊力使用Goggle Sabel射出水柱之招式(vs [翼龍モズー](https://zh.wikipedia.org/wiki/翼龍 "wikilink"))。
 
 **Goggle Shower**
 
   -
     使用額頭上的寶石射出光線，片中有許多效果。
-    如趕跑亡靈軍團(vs
-    [鯊魚モズー](https://zh.wikipedia.org/wiki/鯊魚 "wikilink"))﹑擊破敵人防護罩(vs
-    [象龜モズー](../Page/象龜.md "wikilink"))或幻影(vs
-    [臭鼬モズー](../Page/臭鼬.md "wikilink"))及黃金魔劍的攻擊。
+    如趕跑亡靈軍團(vs [鯊魚モズー](https://zh.wikipedia.org/wiki/鯊魚 "wikilink"))﹑擊破敵人防護罩(vs [象龜](../Page/象龜.md "wikilink")モズー)或幻影(vs [臭鼬](../Page/臭鼬.md "wikilink")モズー)及黃金魔劍的攻擊。
 
 **Goggle Sabel 殺蟲劑**
 
   -
-    使用Goggle Sabel一同向敵人噴出殺蟲劑之招式(vs
-    [蒼蠅モズー](https://zh.wikipedia.org/wiki/蒼蠅 "wikilink"))。
+    使用Goggle Sabel一同向敵人噴出殺蟲劑之招式(vs [蒼蠅モズー](https://zh.wikipedia.org/wiki/蒼蠅 "wikilink"))。
 
 **Goggle Golden Spear**
 
   -
     使用強化型Goggle Sabel所組合而成的長矛
-    五人於空中組合長矛並旋轉，再由Red手持長矛，其餘四人手呈輔助跳台，跳躍後將矛射向敵人(vs
-    [鱷魚モズー](https://zh.wikipedia.org/wiki/鱷魚 "wikilink"))。
+    五人於空中組合長矛並旋轉，再由Red手持長矛，其餘四人手呈輔助跳台，跳躍後將矛射向敵人(vs [鱷魚モズー](https://zh.wikipedia.org/wiki/鱷魚 "wikilink"))。
     此為後期之常用必殺技。
     變化技為五人各手持長矛，於空中一同旋轉攻擊的「長矛風車」。
 
 **Goggle Hurricane Typhoon**
 
   -
-    空中組合成圓環隊型並高速旋轉引起暴風，額上寶石同時也放射光線攻擊(vs
-    [飛鼠モズー](https://zh.wikipedia.org/wiki/飛鼠 "wikilink"))。
+    空中組合成圓環隊型並高速旋轉引起暴風，額上寶石同時也放射光線攻擊(vs [飛鼠モズー](https://zh.wikipedia.org/wiki/飛鼠 "wikilink"))。
 
 **Goggle 大車輪旋風**
 
   -
-    空中呈圓環隊型，再藉由高速旋轉產生的暴風阻擋冷凍氣體(vs [海象モズー](../Page/海象.md "wikilink"))。
+    空中呈圓環隊型，再藉由高速旋轉產生的暴風阻擋冷凍氣體(vs [海象](../Page/海象.md "wikilink")モズー)。
 
 **Goggle Bomb**
 
   -
-    五人手持各顏色紙炮攻擊敵人，以膠紙封鎖敵人攻勢(vs
-    [蠶モズー](https://zh.wikipedia.org/wiki/蠶 "wikilink"))。
+    五人手持各顏色紙炮攻擊敵人，以膠紙封鎖敵人攻勢(vs [蠶モズー](https://zh.wikipedia.org/wiki/蠶 "wikilink"))。
 
 ## Goggle機體
 
@@ -1225,15 +1203,11 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 
 ## 外部連結
 
-[Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink")
-[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink")
-[Category:1982年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1982年日本電視劇集 "wikilink")
-[Category:亞特蘭提斯題材作品](https://zh.wikipedia.org/wiki/Category:亞特蘭提斯題材作品 "wikilink")
-[Category:姆大陸題材作品](https://zh.wikipedia.org/wiki/Category:姆大陸題材作品 "wikilink")
+[Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink") [Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink") [Category:1982年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1982年日本電視劇集 "wikilink") [Category:亞特蘭提斯題材作品](https://zh.wikipedia.org/wiki/Category:亞特蘭提斯題材作品 "wikilink") [Category:姆大陸題材作品](https://zh.wikipedia.org/wiki/Category:姆大陸題材作品 "wikilink")
 
 1.  他是唯一連續2年出任同色戰士的戰隊演員。
 2.  據說是為了讓孩童收視群更有親切感而設定的。
-3.  並非[超新星閃光人的演員](../Page/超新星閃光人.md "wikilink")[吉田真弓](https://zh.wikipedia.org/wiki/吉田真弓 "wikilink")，兩人僅同名同姓。
+3.  並非[超新星閃光人](../Page/超新星閃光人.md "wikilink")的演員[吉田真弓](https://zh.wikipedia.org/wiki/吉田真弓 "wikilink")，兩人僅同名同姓。
 4.  7月24日，停播一次。
 5.  為日本古貨幣，招財貓額上的金幣就是小判。
 6.  1983年1月1日，停播一次。

@@ -1,5 +1,4 @@
-**AV-Comparatives**是一个被[奥地利政府承认的](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[非營利组织](https://zh.wikipedia.org/wiki/非營利组织 "wikilink")，也是一个国际性的独立测试机构，因提供针对電腦安全軟體（如：[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")）的综合性与客观性评测结果而闻名。AV-Comparatives每年皆會發佈固定的年度評測報告，評測報告中會以客觀角度指出各家廠牌防毒軟體的優缺點及建議。AV-Comparatives
-无论是在对[计算机病毒查杀能力的测试上](../Page/计算机病毒.md "wikilink")，还是对其他各类有害程序的检测上，AVC始终被杀毒软件行业公认为信得过的独立测试机构。AVC也是行业公认的新测试技术开发方面的先驱和领袖。
+**AV-Comparatives**是一个被[奥地利政府承认的](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[非營利组织](https://zh.wikipedia.org/wiki/非營利组织 "wikilink")，也是一个国际性的独立测试机构，因提供针对電腦安全軟體（如：[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")）的综合性与客观性评测结果而闻名。AV-Comparatives每年皆會發佈固定的年度評測報告，評測報告中會以客觀角度指出各家廠牌防毒軟體的優缺點及建議。AV-Comparatives 无论是在对[计算机病毒](../Page/计算机病毒.md "wikilink")查杀能力的测试上，还是对其他各类有害程序的检测上，AVC始终被杀毒软件行业公认为信得过的独立测试机构。AVC也是行业公认的新测试技术开发方面的先驱和领袖。
 
 ## 介绍
 
@@ -47,42 +46,16 @@ AV-Comparatives所評定的「年度最佳產品」，被要求有較高的惡�
 
 [Category:杀毒软件](https://zh.wikipedia.org/wiki/Category:杀毒软件 "wikilink")
 
-1.  [Summary-Report
-    December 2010——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_201012_en.pdf)
-    ：「詳見第4頁」
-2.  [Summary-Report
-    December 2010——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_201012_en.pdf)
-    ：「詳見第4頁」
-3.  [Summary-Report
-    December 2006——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_200612_en.pdf)
-    ：「詳見第3頁」
-4.  [Summary-Report
-    December 2007——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_200712_en.pdf)
-    ：「詳見第3頁」
-5.  [Summary-Report
-    December 2008——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_200812_en.pdf)
-    ：「詳見第3頁」
-6.  [Summary-Report
-    December 2009——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_200912_en.pdf)
-    ：「詳見第4頁」
-7.  [Summary-Report
-    December 2010——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_201012_en.pdf)
-    ：「詳見第4頁」
-8.  [Summary-Report
-    December 2011——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_201112_en.pdf)
-    ：「詳見第4頁」
-9.  [Summary-Report
-    December 2012——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2013/01/avc_sum_201212_en.pdf)
-    ：「詳見第4頁」
-10. [Summary-Report
-    December 2013——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2014/01/avc_sum_201312_en.pdf)
-    ：「詳見第8頁」
-11. [Summary-Report
-    December 2014——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2015/01/avc_sum_201412_en.pdf)
-    ：「詳見第9頁」
-12. [Summary-Report
-    December 2015——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2016/01/avc_sum_201512_en.pdf)
-    ：「詳見第11頁」
-13. [Summary-Report
-    December 2016——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2017/02/avc_sum_201612_en.pdf)
-    ：「詳見第11頁」
+1.  [Summary-Report December 2010——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_201012_en.pdf) ：「詳見第4頁」
+2.  [Summary-Report December 2010——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_201012_en.pdf) ：「詳見第4頁」
+3.  [Summary-Report December 2006——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_200612_en.pdf) ：「詳見第3頁」
+4.  [Summary-Report December 2007——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_200712_en.pdf) ：「詳見第3頁」
+5.  [Summary-Report December 2008——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_200812_en.pdf) ：「詳見第3頁」
+6.  [Summary-Report December 2009——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_200912_en.pdf) ：「詳見第4頁」
+7.  [Summary-Report December 2010——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_201012_en.pdf) ：「詳見第4頁」
+8.  [Summary-Report December 2011——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_201112_en.pdf) ：「詳見第4頁」
+9.  [Summary-Report December 2012——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2013/01/avc_sum_201212_en.pdf) ：「詳見第4頁」
+10. [Summary-Report December 2013——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2014/01/avc_sum_201312_en.pdf) ：「詳見第8頁」
+11. [Summary-Report December 2014——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2015/01/avc_sum_201412_en.pdf) ：「詳見第9頁」
+12. [Summary-Report December 2015——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2016/01/avc_sum_201512_en.pdf) ：「詳見第11頁」
+13. [Summary-Report December 2016——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2017/02/avc_sum_201612_en.pdf) ：「詳見第11頁」

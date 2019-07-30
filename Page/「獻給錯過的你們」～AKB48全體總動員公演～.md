@@ -1,26 +1,12 @@
-**「獻給錯過的你們」～AKB48全體總動員公演～**（）是日本組合[AKB48在](../Page/AKB48.md "wikilink")2011年5月24日至2011年6月12日於[TOKYO
-DOME CITY
-HALL舉行的](https://zh.wikipedia.org/wiki/MEETS_PORT#TOKYO_DOME_CITY_HALL "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")。
+**「獻給錯過的你們」～AKB48全體總動員公演～**（）是日本組合[AKB48](../Page/AKB48.md "wikilink")在2011年5月24日至2011年6月12日於[TOKYO DOME CITY HALL舉行的](https://zh.wikipedia.org/wiki/MEETS_PORT#TOKYO_DOME_CITY_HALL "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")。
 
 ## 概要
 
-2011年4月23日，AKB48在[名古屋巨蛋舉行的](../Page/名古屋巨蛋.md "wikilink")《[變成櫻花樹](../Page/變成櫻花樹.md "wikilink")》全國發賣紀念[握手會中宣佈在](../Page/握手會.md "wikilink")5月24日至6月12日期間於TOKYO
-DOME CITY
-HALL舉行演唱會，演唱歷代的[AKB48劇場公演曲目](../Page/AKB48劇場公演.md "wikilink")\[1\]。原本預定演出[TeamK
-6th
-Stage「RESET」的](https://zh.wikipedia.org/wiki/TeamK_6th_Stage「RESET」 "wikilink")[米澤瑠美由於身體不適缺席](../Page/米澤瑠美.md "wikilink")，由阿部マリア補上\[2\]。在[TeamK
-2nd
-Stage「青春女孩」中](https://zh.wikipedia.org/wiki/TeamK_2nd_Stage「青春女孩」 "wikilink")，NMB48披露了23名第2期研究生\[3\]。在[向日葵組
-1st
-Stage「我的太陽」中](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")，[戶賀崎智信發表成立Team](../Page/戶賀崎智信.md "wikilink")
-4的消息\[4\]，成員分別是市川美織、大場美奈、島崎遙香、島田晴香、竹內美宥、永尾まりや、仲俁汐里、中村麻里子、山內鈴蘭和[森杏奈](../Page/森杏奈.md "wikilink")\[5\]。演唱會在[北海道](../Page/北海道.md "wikilink")、[宮城縣](../Page/宮城縣.md "wikilink")、[東京都](../Page/東京都.md "wikilink")、[神奈川縣](../Page/神奈川縣.md "wikilink")、[千葉縣](../Page/千葉縣.md "wikilink")、[埼玉縣](../Page/埼玉縣.md "wikilink")、[茨城縣](../Page/茨城縣.md "wikilink")、[靜岡縣](../Page/靜岡縣.md "wikilink")、[愛知縣](../Page/愛知縣.md "wikilink")、[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")、[石川縣](../Page/石川縣.md "wikilink")、[山梨縣](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")、[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")、[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")、[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")、[奈良縣](https://zh.wikipedia.org/wiki/奈良縣 "wikilink")、[岡山縣](../Page/岡山縣.md "wikilink")、[廣島縣](../Page/廣島縣.md "wikilink")、[香川縣和](https://zh.wikipedia.org/wiki/香川縣 "wikilink")[福岡縣的電影院同步直播](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")\[6\]。
+2011年4月23日，AKB48在[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")舉行的《[變成櫻花樹](../Page/變成櫻花樹.md "wikilink")》全國發賣紀念[握手會](../Page/握手會.md "wikilink")中宣佈在5月24日至6月12日期間於TOKYO DOME CITY HALL舉行演唱會，演唱歷代的[AKB48劇場公演](../Page/AKB48劇場公演.md "wikilink")曲目\[1\]。原本預定演出[TeamK 6th Stage「RESET」的](https://zh.wikipedia.org/wiki/TeamK_6th_Stage「RESET」 "wikilink")[米澤瑠美](../Page/米澤瑠美.md "wikilink")由於身體不適缺席，由阿部マリア補上\[2\]。在[TeamK 2nd Stage「青春女孩」中](https://zh.wikipedia.org/wiki/TeamK_2nd_Stage「青春女孩」 "wikilink")，NMB48披露了23名第2期研究生\[3\]。在[向日葵組 1st Stage「我的太陽」中](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")，[戶賀崎智信](../Page/戶賀崎智信.md "wikilink")發表成立Team 4的消息\[4\]，成員分別是市川美織、大場美奈、島崎遙香、島田晴香、竹內美宥、永尾まりや、仲俁汐里、中村麻里子、山內鈴蘭和[森杏奈](../Page/森杏奈.md "wikilink")\[5\]。演唱會在[北海道](../Page/北海道.md "wikilink")、[宮城縣](../Page/宮城縣.md "wikilink")、[東京都](../Page/東京都.md "wikilink")、[神奈川縣](../Page/神奈川縣.md "wikilink")、[千葉縣](../Page/千葉縣.md "wikilink")、[埼玉縣](../Page/埼玉縣.md "wikilink")、[茨城縣](../Page/茨城縣.md "wikilink")、[靜岡縣](../Page/靜岡縣.md "wikilink")、[愛知縣](../Page/愛知縣.md "wikilink")、[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")、[石川縣](../Page/石川縣.md "wikilink")、[山梨縣](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")、[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")、[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")、[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")、[奈良縣](https://zh.wikipedia.org/wiki/奈良縣 "wikilink")、[岡山縣](../Page/岡山縣.md "wikilink")、[廣島縣](../Page/廣島縣.md "wikilink")、[香川縣和](https://zh.wikipedia.org/wiki/香川縣 "wikilink")[福岡縣的電影院同步直播](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")\[6\]。
 
 ## DVD
 
-演唱會的[DVD在](https://zh.wikipedia.org/wiki/DVD "wikilink")2011年10月15日由[AKS發行](../Page/AKS.md "wikilink")，分為特別BOX、通常盤
-獻給錯過的你們 0524-0528、通常盤 獻給錯過的你們 05294-0602、通常盤 獻給錯過的你們 0603-0607和通常盤
-獻給錯過的你們
-0608-0612，總共五個版本。其中，特別BOX包含全部19場公演和其製作特輯，總共23張DVD，並且附贈19張不同公演造型的[生寫真和](https://zh.wikipedia.org/wiki/生寫真 "wikilink")42頁寫真集。其餘則各包含五場公演和其製作特輯，總共6張DVD和五張不同公演造型的生寫真\[7\]。
+演唱會的[DVD在](https://zh.wikipedia.org/wiki/DVD "wikilink")2011年10月15日由[AKS](../Page/AKS.md "wikilink")發行，分為特別BOX、通常盤 獻給錯過的你們 0524-0528、通常盤 獻給錯過的你們 05294-0602、通常盤 獻給錯過的你們 0603-0607和通常盤 獻給錯過的你們 0608-0612，總共五個版本。其中，特別BOX包含全部19場公演和其製作特輯，總共23張DVD，並且附贈19張不同公演造型的[生寫真和](https://zh.wikipedia.org/wiki/生寫真 "wikilink")42頁寫真集。其餘則各包含五場公演和其製作特輯，總共6張DVD和五張不同公演造型的生寫真\[7\]。
 
 ## 曲目
 
@@ -194,8 +180,7 @@ Stage「我的太陽」中](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage
 
 ## 參考資料
 
-[Category:2011年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2011年巡回演唱会 "wikilink")
-[Category:AKB48的演唱会](https://zh.wikipedia.org/wiki/Category:AKB48的演唱会 "wikilink")
+[Category:2011年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2011年巡回演唱会 "wikilink") [Category:AKB48的演唱会](https://zh.wikipedia.org/wiki/Category:AKB48的演唱会 "wikilink")
 
 1.
 2.

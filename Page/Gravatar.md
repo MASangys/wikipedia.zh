@@ -2,9 +2,7 @@
 
 ## 设计
 
-在Gravatar上，用户可以用他们的[电子邮件](../Page/电子邮件.md "wikilink")注册一个帐号，并且上传一个与之绑定的头像。许多流行的博客程序都支持Gravatar,包括[Wordpress](https://zh.wikipedia.org/wiki/Wordpress "wikilink")[Typecho](../Page/Typecho.md "wikilink")等著名博客程序，当用户发布一个评论并填写了他的电子邮件地址时，[博客程序会自动查找在Gravatar上是否有与之绑定的头像](https://zh.wikipedia.org/wiki/博客 "wikilink")。如果有，则这个头像将会与评论一起显示出来。[WordPress](../Page/WordPress.md "wikilink")
-v2.5
-\[1\]开始原生地提供对Gravatar的支持。此外还有许多程序通过插件来支持Gravatar，例如[论坛程序](https://zh.wikipedia.org/wiki/论坛 "wikilink")[Discuz\!](../Page/Discuz!.md "wikilink")\[2\]。
+在Gravatar上，用户可以用他们的[电子邮件](../Page/电子邮件.md "wikilink")注册一个帐号，并且上传一个与之绑定的头像。许多流行的博客程序都支持Gravatar,包括[Wordpress](https://zh.wikipedia.org/wiki/Wordpress "wikilink")[Typecho](../Page/Typecho.md "wikilink")等著名博客程序，当用户发布一个评论并填写了他的电子邮件地址时，[博客程序会自动查找在Gravatar上是否有与之绑定的头像](https://zh.wikipedia.org/wiki/博客 "wikilink")。如果有，则这个头像将会与评论一起显示出来。[WordPress](../Page/WordPress.md "wikilink") v2.5 \[1\]开始原生地提供对Gravatar的支持。此外还有许多程序通过插件来支持Gravatar，例如[论坛程序](https://zh.wikipedia.org/wiki/论坛 "wikilink")[Discuz\!](../Page/Discuz!.md "wikilink")\[2\]。
 
 一个Gravatar头像可以使用高达512像素的图片，并且默认地以80\*80的尺寸显示出来。\[3\]如果上传的头像不是这个尺寸，Gravatar会对头像进行缩放。使用者可以按照[MPAA分级制度确定自己的头像级别](https://zh.wikipedia.org/wiki/MPAA "wikilink")，这样网站管理员可以在他们的站点上显示合适的头像。
 
@@ -12,16 +10,13 @@ v2.5
 
 ## 中国大陆屏蔽
 
-从2011年8月起，gravatar.com
-被中国大陆部分地区屏蔽，部分中国大陆用户访问博客时头像可能无法正确显示。\[4\]2014年，网站被解封，页面访问正常。约2014年11月左右，网站再次被中国大陆屏蔽，部分中国大陆用户访问博客时头像无法正确显示。
+从2011年8月起，gravatar.com 被中国大陆部分地区屏蔽，部分中国大陆用户访问博客时头像可能无法正确显示。\[4\]2014年，网站被解封，页面访问正常。约2014年11月左右，网站再次被中国大陆屏蔽，部分中国大陆用户访问博客时头像无法正确显示。
 
 ## 註解
 
-[de:Avatar
-(Internet)\#Gravatar](https://zh.wikipedia.org/wiki/de:Avatar_\(Internet\)#Gravatar "wikilink")
+[de:Avatar (Internet)\#Gravatar](https://zh.wikipedia.org/wiki/de:Avatar_\(Internet\)#Gravatar "wikilink")
 
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
-[Category:网站](https://zh.wikipedia.org/wiki/Category:网站 "wikilink")
+[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:网站](https://zh.wikipedia.org/wiki/Category:网站 "wikilink")
 
 1.
 2.

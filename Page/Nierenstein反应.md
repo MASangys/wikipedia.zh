@@ -32,14 +32,10 @@
 
 ## 参考资料
 
-[Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.  （综述）
-3.  McPhee, W. D; Klingsberg, E. *[Organic
-    Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink")*,
-    Coll. Vol. 3, p.119 (1955); Vol. 26, p.13 (1946).
-    ([Article](http://www.orgsynth.org/orgsyn/pdfs/CV3P0119.pdf))
+3.  McPhee, W. D; Klingsberg, E. *[Organic Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink")*, Coll. Vol. 3, p.119 (1955); Vol. 26, p.13 (1946). ([Article](http://www.orgsynth.org/orgsyn/pdfs/CV3P0119.pdf))
 4.
 5.

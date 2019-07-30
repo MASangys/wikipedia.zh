@@ -1,9 +1,4 @@
-**FUZZY CONTROL**(ファジー コントロール)目前與DCT
-Records簽約的一個日本三人樂團。他們開始受矚目的原因是因為與[DREAMS
-COME TRUE共同演出單曲](../Page/DREAMS_COME_TRUE.md "wikilink")「Good Bye My
-School」 Days與「その先へ」。2005年參加[SUMMER
-SONIC](../Page/SUMMER_SONIC.md "wikilink")。單曲「think
-twice」被用於[甲蟲王者的片尾曲](../Page/甲蟲王者.md "wikilink")。亦出現於第60回NHK[紅白歌合戰](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。
+**FUZZY CONTROL**(ファジー コントロール)目前與DCT Records簽約的一個日本三人樂團。他們開始受矚目的原因是因為與[DREAMS COME TRUE共同演出單曲](../Page/DREAMS_COME_TRUE.md "wikilink")「Good Bye My School」 Days與「その先へ」。2005年參加[SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink")。單曲「think twice」被用於[甲蟲王者](../Page/甲蟲王者.md "wikilink")的片尾曲。亦出現於第60回NHK[紅白歌合戰](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。
 
 ## 成員
 
@@ -15,8 +10,7 @@ twice」被用於[甲蟲王者的片尾曲](../Page/甲蟲王者.md "wikilink")�
 
 ### 前成員
 
-  - **KENKEN**金子賢輔(Kaneko
-    Kensuke)：現在屬於[RIZE](../Page/RIZE.md "wikilink")
+  - **KENKEN**金子賢輔(Kaneko Kensuke)：現在屬於[RIZE](../Page/RIZE.md "wikilink")
 
 ## 作品
 
@@ -60,8 +54,7 @@ twice」被用於[甲蟲王者的片尾曲](../Page/甲蟲王者.md "wikilink")�
 ## 外部連結
 
   - [Fuzzy Control OFFICIAL](http://www.fuzzycontrol.jp/)
-  - [FUZZY CONTROL (DCT
-    entertainment)](http://www.jvcmusic.co.jp/-/Artist/A017973.html)
+  - [FUZZY CONTROL (DCT entertainment)](http://www.jvcmusic.co.jp/-/Artist/A017973.html)
   - [DCT garden.com](http://www.dctgarden.com/index.html/)
 
 [Category:另類搖滾](https://zh.wikipedia.org/wiki/Category:另類搖滾 "wikilink")

@@ -27,8 +27,7 @@
   - **DAOI**-[謝利夫國際機場](https://zh.wikipedia.org/wiki/謝利夫國際機場 "wikilink")-[謝利夫](https://zh.wikipedia.org/wiki/謝利夫 "wikilink")
   - **DAOL**-[瓦赫蘭Tafraoui機場](https://zh.wikipedia.org/wiki/瓦赫蘭Tafraoui機場 "wikilink")-[瓦赫蘭](../Page/瓦赫蘭.md "wikilink")
   - **DAON**-[特萊姆森機場](https://zh.wikipedia.org/wiki/特萊姆森機場 "wikilink")-[特萊姆森](https://zh.wikipedia.org/wiki/特萊姆森 "wikilink")
-  - **DAOO**-[瓦赫蘭Es
-    Sénia機場](https://zh.wikipedia.org/wiki/瓦赫蘭Es_Sénia機場 "wikilink")-[瓦赫蘭](../Page/瓦赫蘭.md "wikilink")
+  - **DAOO**-[瓦赫蘭Es Sénia機場](https://zh.wikipedia.org/wiki/瓦赫蘭Es_Sénia機場 "wikilink")-[瓦赫蘭](../Page/瓦赫蘭.md "wikilink")
   - **DAOR**-[貝沙爾機場](https://zh.wikipedia.org/wiki/貝沙爾機場 "wikilink")-[貝沙爾](https://zh.wikipedia.org/wiki/貝沙爾 "wikilink")
   - **DAOV**-[格里斯機場](https://zh.wikipedia.org/wiki/格里斯機場 "wikilink")-[格里斯](https://zh.wikipedia.org/wiki/格里斯 "wikilink")
   - **DATG**-[因蓋扎姆機場](https://zh.wikipedia.org/wiki/因蓋扎姆機場 "wikilink")-[因蓋扎姆](https://zh.wikipedia.org/wiki/因蓋扎姆 "wikilink")
@@ -114,9 +113,7 @@
   - **DIKO**-[科霍戈機場](https://zh.wikipedia.org/wiki/科霍戈機場 "wikilink")-[科霍戈](../Page/科霍戈.md "wikilink")
   - **DIMN**-[嫚機場](https://zh.wikipedia.org/wiki/嫚機場 "wikilink")-[嫚](https://zh.wikipedia.org/wiki/嫚 "wikilink")
   - **DIOD**-[奧迭機場](https://zh.wikipedia.org/wiki/奧迭機場 "wikilink")-[奧迭](https://zh.wikipedia.org/wiki/奧迭 "wikilink")
-  - **DIOF**-[Ouango
-    Fitini機場](https://zh.wikipedia.org/wiki/Ouango_Fitini機場 "wikilink")-[Ouango
-    Fitini](https://zh.wikipedia.org/wiki/Ouango_Fitini "wikilink")
+  - **DIOF**-[Ouango Fitini機場](https://zh.wikipedia.org/wiki/Ouango_Fitini機場 "wikilink")-[Ouango Fitini](https://zh.wikipedia.org/wiki/Ouango_Fitini "wikilink")
   - **DISG**-[塞蓋拉機場](https://zh.wikipedia.org/wiki/塞蓋拉機場 "wikilink")-[塞蓋拉](https://zh.wikipedia.org/wiki/塞蓋拉 "wikilink")
   - **DISP**-[聖佩德羅機場](https://zh.wikipedia.org/wiki/聖佩德羅機場 "wikilink")-[聖佩德羅](https://zh.wikipedia.org/wiki/聖佩德羅 "wikilink")
   - **DISS**-[薩桑德拉機場](https://zh.wikipedia.org/wiki/薩桑德拉機場 "wikilink")-[薩桑德拉](../Page/薩桑德拉.md "wikilink")
@@ -162,7 +159,7 @@
   - **DRRP**-[拉塔波阿機場](https://zh.wikipedia.org/wiki/拉塔波阿機場 "wikilink")-[拉塔波阿](https://zh.wikipedia.org/wiki/拉塔波阿 "wikilink")
   - **DRRT**-[塔瓦機場](https://zh.wikipedia.org/wiki/塔瓦機場 "wikilink")-[塔瓦](../Page/塔瓦.md "wikilink")
   - **DRRU**-[瓦拉姆機場](https://zh.wikipedia.org/wiki/瓦拉姆機場 "wikilink")-[瓦拉姆](https://zh.wikipedia.org/wiki/瓦拉姆 "wikilink")
-  - **DRZA**-[馬諾達雅克國際機場](https://zh.wikipedia.org/wiki/馬諾達雅克國際機場 "wikilink")-[阿加德茲南部](../Page/阿加德茲.md "wikilink")
+  - **DRZA**-[馬諾達雅克國際機場](https://zh.wikipedia.org/wiki/馬諾達雅克國際機場 "wikilink")-[阿加德茲](../Page/阿加德茲.md "wikilink")南部
   - **DRZD**-[迪爾庫機場](https://zh.wikipedia.org/wiki/迪爾庫機場 "wikilink")-[迪爾庫](https://zh.wikipedia.org/wiki/迪爾庫 "wikilink")
   - **DRZF**-[迪法機場](https://zh.wikipedia.org/wiki/迪法機場 "wikilink")-[迪法](https://zh.wikipedia.org/wiki/迪法 "wikilink")
   - **DRZG**-[古雷機場](https://zh.wikipedia.org/wiki/古雷機場 "wikilink")-[古雷](https://zh.wikipedia.org/wiki/古雷 "wikilink")

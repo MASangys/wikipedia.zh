@@ -1,8 +1,6 @@
-//from <http://meta.wikimedia.org/wiki/MediaWiki:Gadget-markblocked.js>
-//
+//from <http://meta.wikimedia.org/wiki/MediaWiki:Gadget-markblocked.js> //
 
-document.cookie = 'mbNamespaces=; expires=Thu, 01 Jan 1970 00:00:01
-GMT';
+document.cookie = 'mbNamespaces=; expires=Thu, 01 Jan 1970 00:00:01 GMT';
 
 function markBlocked() {
 

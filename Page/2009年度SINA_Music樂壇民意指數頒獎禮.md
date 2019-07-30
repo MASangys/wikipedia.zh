@@ -1,5 +1,4 @@
-**SINA
-Music樂壇民意指數頒獎禮2009**，於2010年1月26日假[香港國際展貿中心舉行](https://zh.wikipedia.org/wiki/香港國際展貿中心 "wikilink")，主題為「爆出樂壇開心花\!」，主持為[周子駒](../Page/周子駒.md "wikilink")、[楊愛瑾](../Page/楊愛瑾.md "wikilink")，當晚共頒發24個項目，其中14項「我最喜愛」獎項為由網民選舉得出，別具意義，總共45個獎項，以下為當晚的得獎名單：
+**SINA Music樂壇民意指數頒獎禮2009**，於2010年1月26日假[香港國際展貿中心舉行](https://zh.wikipedia.org/wiki/香港國際展貿中心 "wikilink")，主題為「爆出樂壇開心花\!」，主持為[周子駒](../Page/周子駒.md "wikilink")、[楊愛瑾](../Page/楊愛瑾.md "wikilink")，當晚共頒發24個項目，其中14項「我最喜愛」獎項為由網民選舉得出，別具意義，總共45個獎項，以下為當晚的得獎名單：
 
 ## 得獎名單
 
@@ -22,8 +21,7 @@ Music樂壇民意指數頒獎禮2009**，於2010年1月26日假[香港國際展�
       - 《月亮說》 ——[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")
       - 《B.O.K》 ——[側田](../Page/側田.md "wikilink")
   - SINA Music 合唱歌曲大獎
-      - 《我的回憶不是我的》
-        ——[泳兒](../Page/泳兒.md "wikilink")、[海鳴威](https://zh.wikipedia.org/wiki/海鳴威 "wikilink")
+      - 《我的回憶不是我的》 ——[泳兒](../Page/泳兒.md "wikilink")、[海鳴威](https://zh.wikipedia.org/wiki/海鳴威 "wikilink")
   - SINA Music 新浪直播室 - 最高收視大獎
       - 《給自己的信》新碟專訪 ——[鍾舒漫](../Page/鍾舒漫.md "wikilink")
   - SINA Music 最高收視MV大獎
@@ -33,11 +31,9 @@ Music樂壇民意指數頒獎禮2009**，於2010年1月26日假[香港國際展�
   - SINA Music 最高點擊率歌手
       - [蔡卓妍](../Page/蔡卓妍.md "wikilink")
   - SINA MUSIC 創作概念大碟
-      - 《On Wings of Time》
-        ——[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")
+      - 《On Wings of Time》 ——[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")
   - SINA MUSIC LIVE 現場演繹大獎
-      - 自彈自唱Music Live
-        ——[at17](https://zh.wikipedia.org/wiki/at17 "wikilink")
+      - 自彈自唱Music Live ——[at17](https://zh.wikipedia.org/wiki/at17 "wikilink")
   - SINA MUSIC 傑出音樂人大獎
       - [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
   - SINA MUSIC 傑出表現大獎
@@ -51,8 +47,7 @@ Music樂壇民意指數頒獎禮2009**，於2010年1月26日假[香港國際展�
       - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")
       - [側田](../Page/側田.md "wikilink")
   - 我最喜愛演唱會
-      - 《峯．情無限演唱會Let's Get Wet》
-        ——[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
+      - 《峯．情無限演唱會Let's Get Wet》 ——[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
   - 我最喜愛男新人
       - 金獎：[李治廷](../Page/李治廷.md "wikilink")
       - 銀獎：[周子揚](../Page/周子揚.md "wikilink")
@@ -86,13 +81,10 @@ Music樂壇民意指數頒獎禮2009**，於2010年1月26日假[香港國際展�
 
 ## 外部連結
 
-  - [SINA
-    Music樂壇民意指數頒獎禮2009](https://web.archive.org/web/20100130233920/http://music.sina.com.hk/event09/musicawards/)
+  - [SINA Music樂壇民意指數頒獎禮2009](https://web.archive.org/web/20100130233920/http://music.sina.com.hk/event09/musicawards/)
 
 ## 參看
 
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
 
-[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink")
-[Category:2009年](https://zh.wikipedia.org/wiki/Category:2009年 "wikilink")
+[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink") [Category:2009年](https://zh.wikipedia.org/wiki/Category:2009年 "wikilink")

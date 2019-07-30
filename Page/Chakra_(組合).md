@@ -5,36 +5,26 @@
 | **Zam**      |
 | ''' Kiss ''' |
 
-**Chakra**（），是韓國演員[李惠英](../Page/李惠英_\(1971年\).md "wikilink")、音樂製作人[李尚敏共同打造而成的女子團體](../Page/李尚敏.md "wikilink")，2000年成軍，由[皇甫](../Page/皇甫惠貞.md "wikilink")、李妮、[麗媛](../Page/鄭麗媛.md "wikilink")、李恩組成。Charka指得是印度的詞語，擁有人們用眼睛看不到的“創造”“魅力”“平靜”“成就”這四種能量的意思。即是作為歌手也是Charka走的風格路線，是李惠英的構想。甫出道即囊括當年[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")、[KMTV](../Page/Mnet亞洲音樂大獎.md "wikilink")、[MNET](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")、[金唱片獎項之新人獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，組合專輯走多變的異國風並隨即發行5張專輯（1輯-한，2輯-CHAKRA'
-CA，聖誕專輯-Ringing Gingle Bells，3輯-Chakra
-3，4輯-Tomato），官方粉絲俱樂部名稱為「女神」，官方應援色為[水晶紫](../Page/紫色.md "wikilink")\[1\]。
+**Chakra**（），是韓國演員[李惠英](../Page/李惠英_\(1971年\).md "wikilink")、音樂製作人[李尚敏](../Page/李尚敏.md "wikilink")共同打造而成的女子團體，2000年成軍，由[皇甫](../Page/皇甫惠貞.md "wikilink")、李妮、[麗媛](../Page/鄭麗媛.md "wikilink")、李恩組成。Charka指得是印度的詞語，擁有人們用眼睛看不到的“創造”“魅力”“平靜”“成就”這四種能量的意思。即是作為歌手也是Charka走的風格路線，是李惠英的構想。甫出道即囊括當年[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")、[KMTV](../Page/Mnet亞洲音樂大獎.md "wikilink")、[MNET](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")、[金唱片獎項之新人獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，組合專輯走多變的異國風並隨即發行5張專輯（1輯-한，2輯-CHAKRA' CA，聖誕專輯-Ringing Gingle Bells，3輯-Chakra 3，4輯-Tomato），官方粉絲俱樂部名稱為「女神」，官方應援色為[水晶紫](../Page/紫色.md "wikilink")\[1\]。
 
 ## 團體簡歷
 
 ### 出道前
 
-1998年組合企畫成立。1999年10月5日，由主[YG娛樂與A](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")\&B娛樂領軍的大型舞蹈團體**BROS**（主14名歌手，包含舞者總共62名）的首張專輯《14
-Guy Project
-Album》中以尚未正式出道女子團體之姿亮相。原成員為隊長李妮、皇甫、賢珠、寶拉，[皇甫與李妮在此團體中個別擔任女RAP及輔唱](../Page/皇甫惠貞.md "wikilink")。
+1998年組合企畫成立。1999年10月5日，由主[YG娛樂與A](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")\&B娛樂領軍的大型舞蹈團體**BROS**（主14名歌手，包含舞者總共62名）的首張專輯《14 Guy Project Album》中以尚未正式出道女子團體之姿亮相。原成員為隊長李妮、皇甫、賢珠、寶拉，[皇甫與李妮在此團體中個別擔任女RAP及輔唱](../Page/皇甫惠貞.md "wikilink")。
 
 ### 發展（2000年－2006年）
 
-2000年組合正式出道，經紀公司為A\&B娛樂，由前韓國小姐李妮擔任隊長；皇甫做為主唱，通過發掘加入；麗媛及李恩則是經由選拔成為組合一員，3月2日發行首張專輯《한（恨）》，因特殊的印度曲風、舞蹈、服裝及4位成員亮眼的外貌獲得大眾高度關注，其中主打歌曲「한（恨）」因音樂影像（MV）遠赴泰國取景且
-「Hey U」豐富的色調令人驚艷，同年12月發行聖誕專輯《Ringing Gingle
-Bells》仍舊獲得亮眼成績。2001年Chakra迎來全盛時期，3月7日趁勝追擊推出第二張專輯《CHAKRA'CA》，經紀公司為Jam娛樂。主打歌曲「끝（結束）」加入非洲節奏，成為當年度年輕學子極為推崇之歌曲，直至今日仍為人所津津樂道。第二張專輯結束宣傳隊長李妮因個人因素退出。2002年10月11日發行第三張專輯加入新成員寶娜，皇甫成為第二任隊長，經紀公司為Zam娛樂。團體主打歌曲「돌아와（回來吧）」首次擺脫Indian
-Techno曲風以悲傷的抒情曲獲得共鳴。2003年更動經紀公司為Kiss娛樂，8月21日以全新的形象、音樂發行第四張專輯《Tomato》，新歌曲「Me
-to You」揉合了hip-hop、 jazz及
-dance的音樂元素，將Chakra的音樂路向引領到一個全新境界。2004年成員[麗媛因個人發展理念不同宣布退出](../Page/鄭麗媛.md "wikilink")，Chakra正式宣告3人時期來臨。2005年因公司薪資調度困難及第5張專輯難產等諸多的問題，成員李恩經多方考慮宣布退出。2006年僅剩2名成員的Chakra黯然解散。
+2000年組合正式出道，經紀公司為A\&B娛樂，由前韓國小姐李妮擔任隊長；皇甫做為主唱，通過發掘加入；麗媛及李恩則是經由選拔成為組合一員，3月2日發行首張專輯《한（恨）》，因特殊的印度曲風、舞蹈、服裝及4位成員亮眼的外貌獲得大眾高度關注，其中主打歌曲「한（恨）」因音樂影像（MV）遠赴泰國取景且 「Hey U」豐富的色調令人驚艷，同年12月發行聖誕專輯《Ringing Gingle Bells》仍舊獲得亮眼成績。2001年Chakra迎來全盛時期，3月7日趁勝追擊推出第二張專輯《CHAKRA'CA》，經紀公司為Jam娛樂。主打歌曲「끝（結束）」加入非洲節奏，成為當年度年輕學子極為推崇之歌曲，直至今日仍為人所津津樂道。第二張專輯結束宣傳隊長李妮因個人因素退出。2002年10月11日發行第三張專輯加入新成員寶娜，皇甫成為第二任隊長，經紀公司為Zam娛樂。團體主打歌曲「돌아와（回來吧）」首次擺脫Indian Techno曲風以悲傷的抒情曲獲得共鳴。2003年更動經紀公司為Kiss娛樂，8月21日以全新的形象、音樂發行第四張專輯《Tomato》，新歌曲「Me to You」揉合了hip-hop、 jazz及 dance的音樂元素，將Chakra的音樂路向引領到一個全新境界。2004年成員[麗媛因個人發展理念不同宣布退出](../Page/鄭麗媛.md "wikilink")，Chakra正式宣告3人時期來臨。2005年因公司薪資調度困難及第5張專輯難產等諸多的問題，成員李恩經多方考慮宣布退出。2006年僅剩2名成員的Chakra黯然解散。
 ;**註:**
 
   -
     <small>⒈Zam（Jam） Entertainment 旗下藝人有Chakra、Diva、거리의 시인等，現公司已解散。
-    ⒉Kiss Entertainment
-    旗下藝人有[Tei](../Page/Tei.md "wikilink")、Can、[JNC](../Page/JNC.md "wikilink")、Chakra、Click-B等，現公司已解散。</small>
+    ⒉Kiss Entertainment 旗下藝人有[Tei](../Page/Tei.md "wikilink")、Can、[JNC](../Page/JNC.md "wikilink")、Chakra、Click-B等，現公司已解散。</small>
 
 ## 軼聞
 
-2011年因韓國熱播的電視劇「[最佳愛情](../Page/最佳愛情.md "wikilink")」使其組合成員[皇甫惠貞與](../Page/皇甫惠貞.md "wikilink")[鄭麗媛遭到韓媒影射劇中人物是以兩人為藍本構想](../Page/鄭麗媛.md "wikilink")\[2\]，並在該劇第八集中出現組合第四張正規專輯的簽名封面，間接證實其真實性。
+2011年因韓國熱播的電視劇「[最佳愛情](../Page/最佳愛情.md "wikilink")」使其組合成員[皇甫惠貞](../Page/皇甫惠貞.md "wikilink")與[鄭麗媛](../Page/鄭麗媛.md "wikilink")遭到韓媒影射劇中人物是以兩人為藍本構想\[2\]，並在該劇第八集中出現組合第四張正規專輯的簽名封面，間接證實其真實性。
 
 ## 成員資料
 
@@ -62,9 +52,8 @@ dance的音樂元素，將Chakra的音樂路向引領到一個全新境界。200
   - 身高/體重/血型：170cm 48kg A型
   - 隊中職務：第一任隊長
   - 家庭關係：1男2女中次女
-  - 特異事項: 1997年 題41會 [韓國小姐大會](../Page/韓國小姐.md "wikilink") 美(3等)
-  - 退出後動態：2017年1月9日，皇甫在MBC
-    FM4U電台節目《池錫辰的兩點約會》中提及與李妮雖已經斷了聯繫，但據說已結婚了，正在紐約生活。
+  - 特異事項: 1997年 題41會 [韓國小姐](../Page/韓國小姐.md "wikilink")大會 美(3等)
+  - 退出後動態：2017年1月9日，皇甫在MBC FM4U電台節目《池錫辰的兩點約會》中提及與李妮雖已經斷了聯繫，但據說已結婚了，正在紐約生活。
 
 |          |          |          |          |          |          |          |          |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
@@ -272,9 +261,7 @@ dance的音樂元素，將Chakra的音樂路向引領到一個全新境界。200
 
 ### 音樂典禮獎項
 
-  - 2000年12月30日
-    [MBC十大歌手歌謠季](https://zh.wikipedia.org/wiki/MBC "wikilink")
-    新人獎
+  - 2000年12月30日 [MBC十大歌手歌謠季](https://zh.wikipedia.org/wiki/MBC "wikilink") 新人獎
   - 2000年12月29日 SBS歌謠大戰 新人獎
   - 2000年12月13日 KM-TV 新人獎
   - 2000年12月27日 Mnet KM音樂節 新人獎
@@ -294,21 +281,10 @@ dance的音樂元素，將Chakra的音樂路向引領到一個全新境界。200
 
 ## 外部連結
 
-  - [MBC MUSIC
-    CAMP官方頻道Chakra視頻](http://www.youtube.com/user/MBCkpop/videos?query=%EC%83%A4%ED%81%AC%EB%9D%BC)
+  - [MBC MUSIC CAMP官方頻道Chakra視頻](http://www.youtube.com/user/MBCkpop/videos?query=%EC%83%A4%ED%81%AC%EB%9D%BC)
 
-[Category:Chakra](https://zh.wikipedia.org/wiki/Category:Chakra "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:2000年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年成立的音樂團體 "wikilink")
-[Category:2006年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年解散的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
+[Category:Chakra](https://zh.wikipedia.org/wiki/Category:Chakra "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2000年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年成立的音樂團體 "wikilink") [Category:2006年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年解散的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 
 1.  [샤크라팬이름뭔가요?](http://www.jisiklog.com/qa/4695212.htm)2008-08-11
 2.
-3.  [샤크라 이니, '10월 11일 미국에서 재미교포와
-    결혼'](http://www.todaykorea.co.kr/news/articleView.html?idxno=81973)
-    2009-9-24
+3.  [샤크라 이니, '10월 11일 미국에서 재미교포와 결혼'](http://www.todaykorea.co.kr/news/articleView.html?idxno=81973) 2009-9-24

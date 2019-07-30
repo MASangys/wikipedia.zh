@@ -1,6 +1,4 @@
-**MIGHTY
-MOUTH**（），是[韓國一個二人音樂組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，2006年出道，成員有**生菜**及**SHORRY
-J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Page/饒舌.md "wikilink")[R\&B為主](https://zh.wikipedia.org/wiki/R&B "wikilink")。
+**MIGHTY MOUTH**（），是[韓國一個二人音樂組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，2006年出道，成員有**生菜**及**SHORRY J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌](../Page/饒舌.md "wikilink")和[R\&B為主](https://zh.wikipedia.org/wiki/R&B "wikilink")。
 
 ## 成員資料
 
@@ -186,7 +184,4 @@ J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Pag
   - [官方網站](https://web.archive.org/web/20110724055758/http://www.mightymouth.co.kr/)
   - [所屬唱片公司網站](http://www.ymcent.com/YMC/artist_mightymouth.php)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")

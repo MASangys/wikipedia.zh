@@ -1,13 +1,9 @@
-《**BEST～first things～**》（初體驗
-～第一次精選～）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")於2005年9月21日發行的第一張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
+《**BEST～first things～**》（初體驗 ～第一次精選～）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")於2005年9月21日發行的第一張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 解說
 
-  - 出道五週年紀念精選輯，收錄自2000年出道至2005年以來的所有發行單曲，並於同日發行演唱會DVD《[secret ～FIRST
-    CLASS LIMITED
-    LIVE～](https://zh.wikipedia.org/wiki/secret_～FIRST_CLASS_LIMITED_LIVE～ "wikilink")》。
-  - 初回限定盤中收錄先前與[BoA特別合作的話題單曲](https://zh.wikipedia.org/wiki/BoA "wikilink")「the
-    meaning of peace」之獨唱版收錄其中。
+  - 出道五週年紀念精選輯，收錄自2000年出道至2005年以來的所有發行單曲，並於同日發行演唱會DVD《[secret ～FIRST CLASS LIMITED LIVE～](https://zh.wikipedia.org/wiki/secret_～FIRST_CLASS_LIMITED_LIVE～ "wikilink")》。
+  - 初回限定盤中收錄先前與[BoA特別合作的話題單曲](https://zh.wikipedia.org/wiki/BoA "wikilink")「the meaning of peace」之獨唱版收錄其中。
 
 ## 發行版本
 
@@ -26,13 +22,10 @@
 
 ## 商業成績
 
-  - 發行首週以超過55萬張的銷量登上[公信榜第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")2位\[6\]\[7\]，僅次於[Mr.Children](../Page/Mr.Children.md "wikilink")同日發行的專輯《[I
-    ♥
-    U](../Page/I_♥_U.md "wikilink")》\[8\]\[9\]成為全年女歌手單週最高銷量\[10\]，並刷新了的個人最高銷量跟最高排名。
+  - 發行首週以超過55萬張的銷量登上[公信榜第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")2位\[6\]\[7\]，僅次於[Mr.Children](../Page/Mr.Children.md "wikilink")同日發行的專輯《[I ♥ U](../Page/I_♥_U.md "wikilink")》\[8\]\[9\]成為全年女歌手單週最高銷量\[10\]，並刷新了的個人最高銷量跟最高排名。
   - 次週繼續以超過19萬張的銷量逆轉登上[公信榜第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")1位，成為其個人首張冠軍作品\[11\]。
   - 發行第四週突破百萬銷量，成為其個人首張百萬作品，並擊敗Mr.Children的《I ♥ U》登上10月度月榜冠軍位置。
-  - 2005年度年榜以120萬張的銷量排行第6位\[12\]，成為其個人首張打進年榜十大的作品，擊敗[濱崎步](../Page/濱崎步.md "wikilink")的《[MY
-    STORY](../Page/MY_STORY.md "wikilink")》成為全年銷量最高的女歌手專輯，並於次年繼續以超過64萬張的銷量排行第17位\[13\]。
+  - 2005年度年榜以120萬張的銷量排行第6位\[12\]，成為其個人首張打進年榜十大的作品，擊敗[濱崎步](../Page/濱崎步.md "wikilink")的《[MY STORY](../Page/MY_STORY.md "wikilink")》成為全年銷量最高的女歌手專輯，並於次年繼續以超過64萬張的銷量排行第17位\[13\]。
   - 累積銷量約191萬張，在榜週數高達124週，成為其銷量最高及最長賣的作品\[14\]，並獲[日本唱片協會](../Page/日本唱片協會.md "wikilink")認證為二百萬唱片。
 
 ## 收錄曲
@@ -41,13 +34,7 @@
 
 ## 相關條目
 
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:2005年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
+[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:2005年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯月榜冠軍作品 "wikilink") [Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 
 1.
 

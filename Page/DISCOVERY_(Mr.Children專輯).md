@@ -1,8 +1,8 @@
-《**DISCOVERY**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")7張[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。1999年2月3日發行。
+《**DISCOVERY**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children](../Page/Mr.Children.md "wikilink")的第7張[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。1999年2月3日發行。
 
 ## 簡介
 
-[Mr.Children經過一年的活動停止之後發行的原創專輯](../Page/Mr.Children.md "wikilink")，距離前作《[BOLERO](../Page/BOLERO_\(專輯\).md "wikilink")》約1年11個月。\[1\]收錄了《[向西向東](../Page/向西向東.md "wikilink")》、《[無盡的旅程](../Page/無盡的旅程.md "wikilink")》和《[向光映射的地方](../Page/向光映射的地方.md "wikilink")》三張單曲，其中《向光映射的地方》是專輯先行單曲。
+[Mr.Children](../Page/Mr.Children.md "wikilink")經過一年的活動停止之後發行的原創專輯，距離前作《[BOLERO](../Page/BOLERO_\(專輯\).md "wikilink")》約1年11個月。\[1\]收錄了《[向西向東](../Page/向西向東.md "wikilink")》、《[無盡的旅程](../Page/無盡的旅程.md "wikilink")》和《[向光映射的地方](../Page/向光映射的地方.md "wikilink")》三張單曲，其中《向光映射的地方》是專輯先行單曲。
 
 收錄曲目中長度超過6分鐘的就有三首，是首張總時長超過一小時的專輯。
 
@@ -30,15 +30,9 @@
 
 ## 外部連結
 
-  - [唱片介紹](http://www.mrchildren.jp/disco/album/album07.html)
-    Mr.Children官方網站
+  - [唱片介紹](http://www.mrchildren.jp/disco/album/album07.html) Mr.Children官方網站
 
-[Category:Mr.Children音樂專輯](https://zh.wikipedia.org/wiki/Category:Mr.Children音樂專輯 "wikilink")
-[Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:1999年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:1999年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:Mr.Children音樂專輯](https://zh.wikipedia.org/wiki/Category:Mr.Children音樂專輯 "wikilink") [Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:1999年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon專輯月榜冠軍作品 "wikilink") [Category:1999年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.  [](http://www.nikkeibp.co.jp/archives/050/50057.html)
 2.  [](http://www.oricon.co.jp/news/music/41005/)

@@ -1,6 +1,4 @@
-此列表是《**[BLACK★ROCK
-SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")**》內的**動畫版登場人物**的介紹，關於本系列其他作品請見條目[BLACK★ROCK
-SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")。
+此列表是《**[BLACK★ROCK SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")**》內的**動畫版登場人物**的介紹，關於本系列其他作品請見條目[BLACK★ROCK SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")。
 
 ## OVA
 
@@ -36,18 +34,9 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")。
     髮型有些許差異，綁法也較整齊。
     注重生活顏色，以至各種生活小節的少女。一直以來都相當熱心於替他人解決問題，很容易為對方感到悲傷。在開學後加入籃球部。容易暈車。
     於開學典禮受優美幫助後，對其有很大興趣，又因對彩色小鳥畫冊的共同興趣而前去優美家，但卻被加賀里處處刁難，並看到了優美被單方面欺凌的狀況。事件解決後成為朋友。在由宇的影響下也會到「朝霞輔導室」談天。
-    時常夢見BLACK★ROCK
-    SHOOTER，不過並不知道其真正的暗示意思。但在由宇(即真正的Strength)解釋下明白了表裡世界間的關連，但無法接受只能藉由抹去裡世界的思念體才能消除痛苦的這種方法。由宇因此決定要協助麻陶前往裡世界，但麻陶卻又因目睹BLACK★ROCK
-    SHOOTER斬殺形似優美的Dead Master而崩潰，後來就一直被困在Insane.BLACK★ROCK
-    SHOOTER體內，這時麻陶會同步感應Insane.BLACK★ROCK SHOOTER所受到的傷害。
-    一度聽見Black Gold
-    Saw體內沙耶的呼喚而出現反應，卻沒有甦醒，後來受到Strength不斷對其內心呼喚的影響下才總算甦醒，並試圖以意志壓制Insane.BLACK★ROCK
-    SHOOTER的行動，令Insane.BLACK★ROCK
-    SHOOTER感到不耐煩。在Strength欲犧牲自己解救由宇的情況下發出吶喊，同時瞬間自己化身為BLACK★ROCK
-    SHOOTER回到屬於BLACK★ROCK SHOOTER的世界與Insane.BLACK★ROCK
-    SHOOTER進行對決，並體悟自己不應該只是逃避痛苦的事。
-    最終戰勝Insane.BLACK★ROCK
-    SHOOTER，並且回歸現實，體認到自己應該更多關心朋友、不論開心或難過都應該和朋友們互相分享。
+    時常夢見BLACK★ROCK SHOOTER，不過並不知道其真正的暗示意思。但在由宇(即真正的Strength)解釋下明白了表裡世界間的關連，但無法接受只能藉由抹去裡世界的思念體才能消除痛苦的這種方法。由宇因此決定要協助麻陶前往裡世界，但麻陶卻又因目睹BLACK★ROCK SHOOTER斬殺形似優美的Dead Master而崩潰，後來就一直被困在Insane.BLACK★ROCK SHOOTER體內，這時麻陶會同步感應Insane.BLACK★ROCK SHOOTER所受到的傷害。
+    一度聽見Black Gold Saw體內沙耶的呼喚而出現反應，卻沒有甦醒，後來受到Strength不斷對其內心呼喚的影響下才總算甦醒，並試圖以意志壓制Insane.BLACK★ROCK SHOOTER的行動，令Insane.BLACK★ROCK SHOOTER感到不耐煩。在Strength欲犧牲自己解救由宇的情況下發出吶喊，同時瞬間自己化身為BLACK★ROCK SHOOTER回到屬於BLACK★ROCK SHOOTER的世界與Insane.BLACK★ROCK SHOOTER進行對決，並體悟自己不應該只是逃避痛苦的事。
+    最終戰勝Insane.BLACK★ROCK SHOOTER，並且回歸現實，體認到自己應該更多關心朋友、不論開心或難過都應該和朋友們互相分享。
 
 <!-- end list -->
 
@@ -62,20 +51,14 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")。
   -
     瀏海與OVA版有些微不同，且有夾髮夾。身材略矮小，與麻陶是自幼就相識的同年好友，自小到大都一直在一起，彼此之間無話不談，還會一起上下學。在麻陶加入籃球部時也同時成為籃球部經理人。經常翹課到「朝霞輔導室」待著，似乎也和沙耶很熟。
     後來麻陶才發覺自己長年來對於由宇的記憶一直都是虛假的，其實周遭所有人竟無人認識由宇，因而震驚不已。其實一直跟麻陶一起的是原本應該在裡世界的Strength。真正的由宇為沙耶中學時的朋友，於學校和家中忍受著被欺凌的痛苦。在意識到裡世界有另外一人存在後對痛苦變得麻目，認為反正會有人幫忙承擔，但其實對沙耶的友情有感覺。因為所受到的巨大痛苦令原本無情感的Strength也獲得了情感。認為現實太過痛苦，裡世界也比不上，因此和Strength強制互換，並曾要求沙耶前往裡世界協助。平日會回收裡世界人物屍體並拋進深淵。
-    後來由於Strength認同麻陶不以殺人解放痛苦的想法，希望幫助麻陶，也認為事情不能再如此長久以往下去，因此協助麻陶的穿越，卻使麻陶目睹BLACK★ROCK
-    SHOOTER斬殺Dead Master，進而使BLACK★ROCK SHOOTER失控暴走而成為Insane.BLACK★ROCK
-    SHOOTER，連趕來阻止的Black Gold Saw也被打倒，在Black Gold
-    Saw受到重傷時，化身為裡世界Strength的真正「由宇」出現並跟Insane.BLACK★ROCK
-    SHOOTER戰鬥，一度將Insane.BLACK★ROCK
-    SHOOTER壓制。在Strength決定犧牲自己的同時被迫退去所有武裝，並且對於回歸現實感到極度畏懼。最終在Strength消失前的安慰下解開心結，於結尾成功回歸學校，並和麻陶、優美、加賀里等人成為好友。
+    後來由於Strength認同麻陶不以殺人解放痛苦的想法，希望幫助麻陶，也認為事情不能再如此長久以往下去，因此協助麻陶的穿越，卻使麻陶目睹BLACK★ROCK SHOOTER斬殺Dead Master，進而使BLACK★ROCK SHOOTER失控暴走而成為Insane.BLACK★ROCK SHOOTER，連趕來阻止的Black Gold Saw也被打倒，在Black Gold Saw受到重傷時，化身為裡世界Strength的真正「由宇」出現並跟Insane.BLACK★ROCK SHOOTER戰鬥，一度將Insane.BLACK★ROCK SHOOTER壓制。在Strength決定犧牲自己的同時被迫退去所有武裝，並且對於回歸現實感到極度畏懼。最終在Strength消失前的安慰下解開心結，於結尾成功回歸學校，並和麻陶、優美、加賀里等人成為好友。
 
 <!-- end list -->
 
   -
     在「朝霞對話室」為學生提供日常輔導的老師，負責為學生進行心理指導。
     輔導時都會替學生泡上一杯咖啡。是個看起來非常有耐心的人，但會突然說出打擊學生的話以刺激裡世界的發展。熟稔表裡世界的相對關係，標記著有關學生，甚至主動迷惑對方。
-    實為當年「由宇」的朋友，因為與「由宇」的約定而被「由宇」帶往裡世界，成為Black Gold
-    Saw。可以做到表裡世界同步直接操作裡世界的思念體，其造就的新痛苦可以令裡世界得以持續，使「由宇」安定可以生活下去。
+    實為當年「由宇」的朋友，因為與「由宇」的約定而被「由宇」帶往裡世界，成為Black Gold Saw。可以做到表裡世界同步直接操作裡世界的思念體，其造就的新痛苦可以令裡世界得以持續，使「由宇」安定可以生活下去。
 
 <!-- end list -->
 
@@ -98,43 +81,31 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")。
   -
     映射麻陶。主色為藍色，裡世界稱為黑岩射手。穿著風衣搭配短褲、長靴，左右綁著長短不一的雙馬尾，平日頭髮被斗篷蓋著。左眼能燃起藍色火焰。配備可按戰鬥需要，變換不同形態的日本刀、三管式重型機槍以及加農砲，加農砲可射出燃燒著藍火的黑岩。
     遊走於各地，為了不同的目的而與他人戰鬥，以刀斬掉對手協助對方的表人格能從此遺忘痛苦之事。
-    一度失控化身為Insane.BLACK★ROCK SHOOTER，但在麻陶尋回自己真正的心意之後和BLACK★ROCK
-    SHOOTER分開，最終Insane人格被消滅。
+    一度失控化身為Insane.BLACK★ROCK SHOOTER，但在麻陶尋回自己真正的心意之後和BLACK★ROCK SHOOTER分開，最終Insane人格被消滅。
 
 :;
 
   -
 
       -
-        主色為紫色，裡世界稱為狂化黑岩射手。主要武器為長約2.5公尺的大劍，也能射出子彈輔助攻擊。在和Black Gold
-        Saw對戰開場之時即被斬中右手，並自行將右手扯斷，身上的鎧甲與武器繫著一條鎖鍊並協助其右手接回，並且輔助使大劍能作為投擲武器使用。左眼的藍色火焰取而代之的是紫色火焰，身上多個部位也出現了類似鎧甲的裝飾。
-        斬殺Dead Master後，伴隨麻陶的心情走火入魔，而成為狂化的BLACK★ROCK
-        SHOOTER。不過麻陶也能夠部分影響Insane.BLACK★ROCK
-        SHOOTER的行動。
-        在麻陶吶喊之下被強制轉送回屬於自己的世界與BLACK★ROCK SHOOTER對談，最後被BLACK★ROCK
-        SHOOTER以集結眾人力量的七彩巨大加農砲消滅。
+        主色為紫色，裡世界稱為狂化黑岩射手。主要武器為長約2.5公尺的大劍，也能射出子彈輔助攻擊。在和Black Gold Saw對戰開場之時即被斬中右手，並自行將右手扯斷，身上的鎧甲與武器繫著一條鎖鍊並協助其右手接回，並且輔助使大劍能作為投擲武器使用。左眼的藍色火焰取而代之的是紫色火焰，身上多個部位也出現了類似鎧甲的裝飾。
+        斬殺Dead Master後，伴隨麻陶的心情走火入魔，而成為狂化的BLACK★ROCK SHOOTER。不過麻陶也能夠部分影響Insane.BLACK★ROCK SHOOTER的行動。
+        在麻陶吶喊之下被強制轉送回屬於自己的世界與BLACK★ROCK SHOOTER對談，最後被BLACK★ROCK SHOOTER以集結眾人力量的七彩巨大加農砲消滅。
 
 <!-- end list -->
 
   -
     映射優美。主色為綠色，裡世界稱為死亡主宰。穿著緊身衣及裙子，頭戴白紗配以狗的脊尾(頭飾)和惡魔翅膀。主要武器為鐮刃，可轉換型態成伸縮自如的鐵鞭。身旁有兩個眼睛發出綠光的大型骷髏作為使魔。
     在受到表世界優美的失控影響前，其主要武器只有以多條鎖鏈組成的鎖鍊塔，並可操控鎖鍊進行攻擊，失控暴走之後武器改為鐮刃，並擁有一支數量龐大的骷髏軍團。
-    初時被Chariot控制身體襲擊BLACK★ROCK
-    SHOOTER，但被對方打倒後不斷重複着「救救我」這句話。後來因表世界優美的內心解放，而粉碎被自己的鎖鏈所封閉的心。
-    後來又因為優美覺得沒有人需要自己，而裡世界的Dead
-    Master也漸漸失控，在眾多的鐵鍊包圍之下真正的能力覺醒，並與BLACK★ROCK
-    SHOOTER戰鬥，在一連串的激戰後被BLACK★ROCK SHOOTER刺穿身體而死去。
-    在得知麻陶失蹤的消息之後優美逐漸回想起思念麻陶的心情，記憶也慢慢甦醒令死亡的Dead
-    Master復活，穿越被打破的界限協助BLACK★ROCK
-    SHOOTER的決戰。
+    初時被Chariot控制身體襲擊BLACK★ROCK SHOOTER，但被對方打倒後不斷重複着「救救我」這句話。後來因表世界優美的內心解放，而粉碎被自己的鎖鏈所封閉的心。
+    後來又因為優美覺得沒有人需要自己，而裡世界的Dead Master也漸漸失控，在眾多的鐵鍊包圍之下真正的能力覺醒，並與BLACK★ROCK SHOOTER戰鬥，在一連串的激戰後被BLACK★ROCK SHOOTER刺穿身體而死去。
+    在得知麻陶失蹤的消息之後優美逐漸回想起思念麻陶的心情，記憶也慢慢甦醒令死亡的Dead Master復活，穿越被打破的界限協助BLACK★ROCK SHOOTER的決戰。
 
 <!-- end list -->
 
   -
     映射沙耶。主色為紅色，裡世界稱為黑金王鋸。黑髮下端泛紅，腿部裝備著類似腿甲的裝飾。可以看穿裡世界的一切，主要武器是一把巨型鋸刀，平時會澆水培養象徵表世界陰暗人格的黑色連帽斗篷的裡世界人物。用特殊的撒水壺來種出迷失的人，小幡的裡世界化身也是其中之一。看似非常愛惜種出來的人。
-    在Insane.BLACK★ROCK SHOOTER暴走時本要阻止，卻在戰鬥中遭Insane.BLACK★ROCK
-    SHOOTER的子彈射斷右手而失去戰鬥力，武器也被Insane.BLACK★ROCK
-    SHOOTER奪走。在生命垂危之際被「由宇」現身拯救。
+    在Insane.BLACK★ROCK SHOOTER暴走時本要阻止，卻在戰鬥中遭Insane.BLACK★ROCK SHOOTER的子彈射斷右手而失去戰鬥力，武器也被Insane.BLACK★ROCK SHOOTER奪走。在生命垂危之際被「由宇」現身拯救。
     實際上是為了協助減輕「由宇」的痛苦。當初藉由「由宇」的能力使得裏世界人格覺醒，使得沙耶可以自由穿梭在現實與裏世界之間。
     最後穿越被打破的界限協助BLACK★ROCK SHOOTER的決戰。
 
@@ -142,25 +113,18 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")。
 
   -
     映射由宇。主色為灰色，裡世界稱為力量。將連帽領口拉到足以蓋住嘴巴，給人感覺冷漠的氣息。其凝視住遠方的橘紅雙眼是最大特徵。擁有極度加厚的鋼鐵臂手和化骨龍形的尾巴。
-    為由宇承受了許多的痛苦。於被BLACK★ROCK
-    SHOOTER打敗一次後，被由宇過多的痛苦和憎惡召喚出感情。清楚一切後，不希望自己的消失令由宇失去一切，在由宇提議下強制互換。
+    為由宇承受了許多的痛苦。於被BLACK★ROCK SHOOTER打敗一次後，被由宇過多的痛苦和憎惡召喚出感情。清楚一切後，不希望自己的消失令由宇失去一切，在由宇提議下強制互換。
     互換後保留了異世界的本質，多年來沒有成長，似乎還可以有限度改變周遭他人記憶。
-    其手可做到機槍甚至是輪式機槍的攻擊方式，而亦可從臂上額外伸出新的鋼鐵臂手，由宇甚至將鋼鐵臂手進一步變形為大型[衝樁機](https://zh.wikipedia.org/wiki/衝樁機 "wikilink")，壓住Insane.BLACK★ROCK
-    SHOOTER對其頭部直接攻擊。
+    其手可做到機槍甚至是輪式機槍的攻擊方式，而亦可從臂上額外伸出新的鋼鐵臂手，由宇甚至將鋼鐵臂手進一步變形為大型[衝樁機](https://zh.wikipedia.org/wiki/衝樁機 "wikilink")，壓住Insane.BLACK★ROCK SHOOTER對其頭部直接攻擊。
     原本為了拯救麻陶而決定犧牲自我，千鈞一髮之際回到屬於Strength的世界，並帶著「由宇」一同穿越界線協助麻陶，但因損傷太過嚴重而導致自體消失，最後則在裏世界再度甦醒。
 
 <!-- end list -->
 
   -
-    映射加賀里。主色為黃色，裡世界稱為戰輪妖精。雙腿為車輪，頭上穿戴著類似皇冠的飾品，武器為長劍及刺盾，眼神非常冷漠，不停叫BLACK★ROCK
-    SHOOTER「快回去」。有一部蜘蛛型八腳座駕，可以發射各種色彩的[馬卡龍炮彈](../Page/馬卡龍.md "wikilink")。亦有不少小蜘蛛作為手下。
-    因為不想面對BLACK★ROCK SHOOTER跟Dead
-    Master之間的關係，象徵著加賀里不斷阻止麻陶和優美成為朋友，不斷對BLACK★ROCK
-    SHOOTER進行猛攻，最後在偷襲時反被BLACK★ROCK SHOOTER斬斷頭部。
+    映射加賀里。主色為黃色，裡世界稱為戰輪妖精。雙腿為車輪，頭上穿戴著類似皇冠的飾品，武器為長劍及刺盾，眼神非常冷漠，不停叫BLACK★ROCK SHOOTER「快回去」。有一部蜘蛛型八腳座駕，可以發射各種色彩的[馬卡龍](../Page/馬卡龍.md "wikilink")炮彈。亦有不少小蜘蛛作為手下。
+    因為不想面對BLACK★ROCK SHOOTER跟Dead Master之間的關係，象徵著加賀里不斷阻止麻陶和優美成為朋友，不斷對BLACK★ROCK SHOOTER進行猛攻，最後在偷襲時反被BLACK★ROCK SHOOTER斬斷頭部。
     隨著屍體被拋進深淵，與表世界的聯繫斷絕。
-    最後似乎在BLACK★ROCK
-    SHOOTER的影響之下使得加賀里逐漸想起與優美的往事，Chariot復活。最後穿越被打破的界限協助BLACK★ROCK
-    SHOOTER的決戰。
+    最後似乎在BLACK★ROCK SHOOTER的影響之下使得加賀里逐漸想起與優美的往事，Chariot復活。最後穿越被打破的界限協助BLACK★ROCK SHOOTER的決戰。
 
 ## 外段連結
 

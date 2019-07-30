@@ -1,8 +1,8 @@
-**女同性戀、男同性戀、雙性戀與跨性別者在尼泊爾的權益**逐漸受到[尼泊爾大眾重視](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")。2007年，隨著[尼泊爾王室被推翻](https://zh.wikipedia.org/wiki/尼泊爾王室 "wikilink")，尼泊爾成為[共和制國家](../Page/共和制.md "wikilink")，新的尼泊爾法律也隨之誕生。這些參考西方國家法典所制定的條文，將[同性性行為非刑事化](https://zh.wikipedia.org/wiki/同性性行為 "wikilink")，保障了[同性戀者和](../Page/同性戀.md "wikilink")[雙性戀者的權利](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")。
+**女同性戀、男同性戀、雙性戀與跨性別者在尼泊爾的權益**逐漸受到[尼泊爾大眾重視](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")。2007年，隨著[尼泊爾王室被推翻](https://zh.wikipedia.org/wiki/尼泊爾王室 "wikilink")，尼泊爾成為[共和制](../Page/共和制.md "wikilink")國家，新的尼泊爾法律也隨之誕生。這些參考西方國家法典所制定的條文，將[同性性行為非刑事化](https://zh.wikipedia.org/wiki/同性性行為 "wikilink")，保障了[同性戀](../Page/同性戀.md "wikilink")者和[雙性戀者的權利](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")。
 
 ## 同性性行為相關法律歷程
 
-2007年以前，非商業、成年、合意一致的同性性行為在尼泊爾為非法，最高可被判處兩年[有期徒刑](../Page/有期徒刑.md "wikilink")。此外，[異裝也被當成](../Page/異裝.md "wikilink")「不道德」的行為，同樣違法。
+2007年以前，非商業、成年、合意一致的同性性行為在尼泊爾為非法，最高可被判處兩年[有期徒刑](../Page/有期徒刑.md "wikilink")。此外，[異裝](../Page/異裝.md "wikilink")也被當成「不道德」的行為，同樣違法。
 
 2007年12月23日，[尼泊爾國會兩大黨](https://zh.wikipedia.org/wiki/尼泊爾國會 "wikilink")[尼泊爾大會黨和](https://zh.wikipedia.org/wiki/尼泊爾大會黨 "wikilink")[尼泊爾聯合共產黨（毛派）達成協議](https://zh.wikipedia.org/wiki/尼泊爾聯合共產黨（毛澤東主義） "wikilink")，廢除君主制，使尼泊爾成為一個共和國。同年12月21日，尼泊爾最高法院裁定，新成立的民主政府應修訂保障[女同性戀](../Page/女同性戀.md "wikilink")、[男同性戀](../Page/男同性戀.md "wikilink")、雙性戀和[跨性別者權益的法律](https://zh.wikipedia.org/wiki/跨性別者 "wikilink")，否則就是歧視\[1\]。同性性行為也在此時被非刑事化，因為新政府參考外國法律重修了刑法典，將同性性行為法律自刑法中消除。
 
@@ -14,8 +14,7 @@
 
 ## 跨性別者權益
 
-尼泊爾中央統計局（Central Bureau of
-Statistics）在2011年度的人口普查中正式承認第三性別，在男與女以外增添一個選項\[6\]。並在2013年決定在公民證（身分證）中加註第三性，以保障跨性別者的權益。\[7\]
+尼泊爾中央統計局（Central Bureau of Statistics）在2011年度的人口普查中正式承認第三性別，在男與女以外增添一個選項\[6\]。並在2013年決定在公民證（身分證）中加註第三性，以保障跨性別者的權益。\[7\]
 
 ## 參見
 
@@ -23,9 +22,7 @@ Statistics）在2011年度的人口普查中正式承認第三性別，在男與
 
 ## 參考文獻
 
-[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
-[Category:尼泊尔LGBT](https://zh.wikipedia.org/wiki/Category:尼泊尔LGBT "wikilink")
-[Category:尼泊尔人权](https://zh.wikipedia.org/wiki/Category:尼泊尔人权 "wikilink")
+[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink") [Category:尼泊尔LGBT](https://zh.wikipedia.org/wiki/Category:尼泊尔LGBT "wikilink") [Category:尼泊尔人权](https://zh.wikipedia.org/wiki/Category:尼泊尔人权 "wikilink")
 
 1.
 2.

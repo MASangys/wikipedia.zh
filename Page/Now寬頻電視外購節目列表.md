@@ -180,8 +180,7 @@
   - 《[旅行應援團](../Page/旅行應援團.md "wikilink")》
   - 《[神話放送](../Page/神話放送.md "wikilink")》
   - 《[金頭腦](../Page/金頭腦.md "wikilink")》
-  - 《[Sicily with Aldo and
-    Enzo](https://zh.wikipedia.org/wiki/Sicily_with_Aldo_and_Enzo "wikilink")》
+  - 《[Sicily with Aldo and Enzo](https://zh.wikipedia.org/wiki/Sicily_with_Aldo_and_Enzo "wikilink")》
   - 《[瀛媽日記](https://zh.wikipedia.org/wiki/瀛媽日記 "wikilink")》
   - 《[韓星競技賽](https://zh.wikipedia.org/wiki/第四屆偶像明星田徑游泳錦標賽 "wikilink")》
   - 《[瀛知有密](https://zh.wikipedia.org/wiki/瀛知有密 "wikilink")》

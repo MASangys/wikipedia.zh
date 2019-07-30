@@ -1,18 +1,14 @@
-**株式會社SATELIGHT**（，），主要業務內容為[動畫企劃制作及數碼商品製作](https://zh.wikipedia.org/wiki/動畫 "wikilink")，為的日本附屬企業，也為[日本動畫協會的正式會員](../Page/日本動畫協會.md "wikilink")。
+**株式會社SATELIGHT**（，），主要業務內容為[動畫企劃制作及數碼商品製作](https://zh.wikipedia.org/wiki/動畫 "wikilink")，為的日本附屬企業，也為[日本動畫協會](../Page/日本動畫協會.md "wikilink")的正式會員。
 
 ## 簡介、沿革
 
-1995年12月，因要應付世界首套全[CG的](../Page/计算机图形学.md "wikilink")[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")[Bit
-the
-Cupid的](https://zh.wikipedia.org/wiki/Bit_the_Cupid "wikilink")[數碼製作](https://zh.wikipedia.org/wiki/數碼 "wikilink")，[北海道](../Page/北海道.md "wikilink")[札幌市的軟件開發商](../Page/札幌市.md "wikilink")[B·U·G讓旗下子公司](https://zh.wikipedia.org/wiki/B·U·G "wikilink")的SATELIGHT事業部門獨立出來。公司名稱中**SATELIGHT**的**S**為札幌（Sapporo）、**A**為動畫（Animate）、**T**為科技（Technology）、**E**為娛樂（Entertainment）的英文字首組合而成。代表董事為在[B·U·G出身的經理](https://zh.wikipedia.org/wiki/B·U·G "wikilink")[佐藤道明](https://zh.wikipedia.org/wiki/佐藤道明 "wikilink")，跟另一插畫家同名同姓\[1\]。
+1995年12月，因要應付世界首套全[CG的](../Page/计算机图形学.md "wikilink")[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")[Bit the Cupid的](https://zh.wikipedia.org/wiki/Bit_the_Cupid "wikilink")[數碼製作](https://zh.wikipedia.org/wiki/數碼 "wikilink")，[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")的軟件開發商[B·U·G讓旗下子公司](https://zh.wikipedia.org/wiki/B·U·G "wikilink")的SATELIGHT事業部門獨立出來。公司名稱中**SATELIGHT**的**S**為札幌（Sapporo）、**A**為動畫（Animate）、**T**為科技（Technology）、**E**為娛樂（Entertainment）的英文字首組合而成。代表董事為在[B·U·G出身的經理](https://zh.wikipedia.org/wiki/B·U·G "wikilink")[佐藤道明](https://zh.wikipedia.org/wiki/佐藤道明 "wikilink")，跟另一插畫家同名同姓\[1\]。
 
-成立初期，主要為專門進行數碼動畫製作的製作公司\[2\]近年拉攏到多位具豐富經驗的監督參與製作，包括科幻系的[河森正治和](../Page/河森正治.md "wikilink")[佐藤龍雄](../Page/佐藤龍雄.md "wikilink")、以及治癒系的[佐藤順一等](../Page/佐藤順一.md "wikilink")，在參與製作同時協助培育有潛質的新人。公司的製作經費和時間方面都在業界前列，畫面有一定程度的美感和細緻度。
+成立初期，主要為專門進行數碼動畫製作的製作公司\[2\]近年拉攏到多位具豐富經驗的監督參與製作，包括科幻系的[河森正治](../Page/河森正治.md "wikilink")和[佐藤龍雄](../Page/佐藤龍雄.md "wikilink")、以及治癒系的[佐藤順一](../Page/佐藤順一.md "wikilink")等，在參與製作同時協助培育有潛質的新人。公司的製作經費和時間方面都在業界前列，畫面有一定程度的美感和細緻度。
 
-1996年，公司首次接受統包業務，作品為[Group
-TAC的](https://zh.wikipedia.org/wiki/Group_TAC "wikilink")《》，1998年更於[東京都](../Page/東京都.md "wikilink")[杉並區成立新工作室](../Page/杉並區.md "wikilink")\[3\]。
+1996年，公司首次接受統包業務，作品為[Group TAC的](https://zh.wikipedia.org/wiki/Group_TAC "wikilink")《》，1998年更於[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")成立新工作室\[3\]。
 
-2001年，公司正式從[B·U·G獨立](https://zh.wikipedia.org/wiki/B·U·G "wikilink")，後由Link
-Cube公司購入股。該公司行政總裁內田善之兼任公司社長。同年首次嘗試自主製作，請來《Ihatov幻想～KENjI之春》的監督[河森正治制作](../Page/河森正治.md "wikilink")[地球少女Arjuna](../Page/地球少女Arjuna.md "wikilink")。河森亦於2003年成為了公司的董事，負責統籌原創科幻作品的製作\[4\]。
+2001年，公司正式從[B·U·G獨立](https://zh.wikipedia.org/wiki/B·U·G "wikilink")，後由Link Cube公司購入股。該公司行政總裁內田善之兼任公司社長。同年首次嘗試自主製作，請來《Ihatov幻想～KENjI之春》的監督[河森正治](../Page/河森正治.md "wikilink")制作[地球少女Arjuna](../Page/地球少女Arjuna.md "wikilink")。河森亦於2003年成為了公司的董事，負責統籌原創科幻作品的製作\[4\]。
 
 2006年，總部從創業地札幌遷往東京都杉並區，被收購為子公司\[5\]。
 
@@ -27,8 +23,7 @@ Cube公司購入股。該公司行政總裁內田善之兼任公司社長。同�
 
 憑《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》系列奪得以下奬項：
 
-  - [Macross
-    Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")：[東京國際動畫博覽會](../Page/東京國際動畫博覽會.md "wikilink")2004年度原創影像部門優秀作品奬\[6\]。
+  - [Macross Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")：[東京國際動畫博覽會](../Page/東京國際動畫博覽會.md "wikilink")2004年度原創影像部門優秀作品奬\[6\]。
   - [超時空要塞Frontier](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")：\[7\]
 
 <!-- end list -->
@@ -50,12 +45,11 @@ Cube公司購入股。該公司行政總裁內田善之兼任公司社長。同�
 
 :\* [創聖機械天使](https://zh.wikipedia.org/wiki/創聖機械天使 "wikilink")（，2005年）
 
-:\*
-[創聖機械天使EVOL](../Page/創聖機械天使EVOL.md "wikilink")（，2012年，與[8bit共同制作](../Page/8bit.md "wikilink")）
+:\* [創聖機械天使EVOL](../Page/創聖機械天使EVOL.md "wikilink")（，2012年，與[8bit](../Page/8bit.md "wikilink")共同制作）
 
   - [到另一個你的身邊去](../Page/到另一個你的身邊去.md "wikilink")（，2005年）
 
-  - [玻璃艦隊](../Page/玻璃艦隊.md "wikilink")（，2006年，與[GONZO共同制作](../Page/GONZO.md "wikilink")）
+  - [玻璃艦隊](../Page/玻璃艦隊.md "wikilink")（，2006年，與[GONZO](../Page/GONZO.md "wikilink")共同制作）
 
   - 系列
 
@@ -69,7 +63,7 @@ Cube公司購入股。該公司行政總裁內田善之兼任公司社長。同�
 
   - [星界死者之書](https://zh.wikipedia.org/wiki/星界死者之書 "wikilink")（，2007年）
 
-  - [守護甜心！系列](../Page/守護甜心！.md "wikilink")
+  - [守護甜心！](../Page/守護甜心！.md "wikilink")系列
 
 :\* 守護甜心！（，2007年）
 
@@ -85,25 +79,19 @@ Cube公司購入股。該公司行政總裁內田善之兼任公司社長。同�
 
   - [BASQUASH\!](../Page/BASQUASH!.md "wikilink")（，2009年）
 
-  - [FAIRY
-    TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")（，2009年，與[A-1
-    Pictures共同制作](../Page/A-1_Pictures.md "wikilink")）
+  - [FAIRY TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")（，2009年，與[A-1 Pictures共同制作](../Page/A-1_Pictures.md "wikilink")）
 
   - [KIDDY GiRL-AND](../Page/KIDDY_GiRL-AND.md "wikilink")（，2009年）
 
-  - [動物偵探奇魯米](../Page/動物偵探奇魯米.md "wikilink")（，2009年）（1－11話製作統籌，12話－50話製作，實質製作為[HAL
-    FILM
-    MAKER及JM](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")
-    ANIMATION）
+  - [動物偵探奇魯米](../Page/動物偵探奇魯米.md "wikilink")（，2009年）（1－11話製作統籌，12話－50話製作，實質製作為[HAL FILM MAKER及JM](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink") ANIMATION）
 
   - [異國迷宮的十字路口](../Page/異國迷宮的十字路口.md "wikilink")（，2011年）
 
   - [猛烈宇宙海賊](../Page/迷你裙宇宙海賊.md "wikilink")（，2012年）
 
-  - [戰姬絕唱SYMPHOGEAR系列](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")
+  - [戰姬絕唱SYMPHOGEAR](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")系列
 
-:\* 戰姬絕唱SYMPHOGEAR（，2012年）（1－3話製作協力，4話起製作，製作企劃為[ENCOURAGE
-FILMS](../Page/ENCOURAGE_FILMS.md "wikilink")）
+:\* 戰姬絕唱SYMPHOGEAR（，2012年）（1－3話製作協力，4話起製作，製作企劃為[ENCOURAGE FILMS](../Page/ENCOURAGE_FILMS.md "wikilink")）
 
 :\* 戰姬絕唱SYMPHOGEAR G（，2013年）
 
@@ -114,10 +102,8 @@ FILMS](../Page/ENCOURAGE_FILMS.md "wikilink")）
 :\* 戰姬絕唱SYMPHOGEAR XV（，2019年）
 
   - [AKB0048](../Page/AKB0048.md "wikilink")（2012年）
-  - [Muv-Luv Alternative Total
-    Eclipse](../Page/Muv-Luv_Alternative_Total_Eclipse.md "wikilink")（2012年，與[ixtl共同制作](https://zh.wikipedia.org/wiki/ixtl "wikilink")）
-  - [AKB0048 Next
-    Stage](https://zh.wikipedia.org/wiki/AKB0048_Next_Stage "wikilink")（2013年）
+  - [Muv-Luv Alternative Total Eclipse](../Page/Muv-Luv_Alternative_Total_Eclipse.md "wikilink")（2012年，與[ixtl共同制作](https://zh.wikipedia.org/wiki/ixtl "wikilink")）
+  - [AKB0048 Next Stage](https://zh.wikipedia.org/wiki/AKB0048_Next_Stage "wikilink")（2013年）
   - [革神語](../Page/革神語.md "wikilink")（2013年）（與JM ANIMATION共同制作）
   - [記錄的地平線](../Page/記錄的地平線.md "wikilink")（，2013年）
   - [白色相簿2](../Page/白色相簿2.md "wikilink")（，2013年）
@@ -125,13 +111,11 @@ FILMS](../Page/ENCOURAGE_FILMS.md "wikilink")）
   - [M3〜其為黑鋼〜](https://zh.wikipedia.org/wiki/M3〜其為黑鋼〜 "wikilink")（，2014年，與C2C共同制作）
   - [魔彈之王與戰姬](../Page/魔彈之王與戰姬.md "wikilink")（，2014年）
   - [小長門有希的消失](../Page/小長門有希的消失.md "wikilink")（，2015年）
-  - [-{zh-cn:创圣的大天使LOGOS; zh-tw:創聖機械天使LOGOS;
-    zh-hk:創聖大天使LOGOS;}-](../Page/Aquarion_Logos.md "wikilink")（，2015年，與C2C共同制作）
+  - [-{zh-cn:创圣的大天使LOGOS; zh-tw:創聖機械天使LOGOS; zh-hk:創聖大天使LOGOS;}-](../Page/Aquarion_Logos.md "wikilink")（，2015年，與C2C共同制作）
   - [小桃小栗 Love Love物語](../Page/小桃小栗_Love_Love物語.md "wikilink")（，2015年）
   - [超時空要塞Δ](../Page/超時空要塞Δ.md "wikilink")（，2016年）
   - [拉格納強襲天使](https://zh.wikipedia.org/wiki/拉格納強襲天使 "wikilink")（1話30秒的超短篇動畫，2016年）
-  - [Scared Rider
-    Xechs](../Page/Scared_Rider_Xechs.md "wikilink")（，2016年）
+  - [Scared Rider Xechs](../Page/Scared_Rider_Xechs.md "wikilink")（，2016年）
   - [黑白來看守所](../Page/黑白來看守所.md "wikilink")（，2016年－2017年）
   - [末日時在做什麼？有沒有空？可以來拯救嗎？](../Page/末日時在做什麼？有沒有空？可以來拯救嗎？.md "wikilink")（，2017年）
 
@@ -208,38 +192,28 @@ FILMS](../Page/ENCOURAGE_FILMS.md "wikilink")）
 
 ### OVA
 
-  - [Macross
-    Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")（，2002年）
+  - [Macross Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")（，2002年）
 
-  - [HELLSING](https://zh.wikipedia.org/wiki/HELLSING "wikilink")
-    第1－4巻（2006年）
+  - [HELLSING](https://zh.wikipedia.org/wiki/HELLSING "wikilink") 第1－4巻（2006年）
 
-  - [BALDR FORCE EXE
-    RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")（2006年）
+  - [BALDR FORCE EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")（2006年）
 
   - [創星機械天使](https://zh.wikipedia.org/wiki/創星機械天使 "wikilink")（，2007年）
 
-  - [飛輪少年 黑之羽與沉睡森林 -Break on the
-    sky-](https://zh.wikipedia.org/wiki/飛輪少年 "wikilink")（，2010年）
+  - [飛輪少年 黑之羽與沉睡森林 -Break on the sky-](https://zh.wikipedia.org/wiki/飛輪少年 "wikilink")（，2010年）
 
   - Nyan×2 Music Clip（2010年）
 
-  - [FAIRY TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")
-    漫畫特裝版DVD（2011年）（與[A-1
-    Pictures共同制作](../Page/A-1_Pictures.md "wikilink")）
+  - [FAIRY TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink") 漫畫特裝版DVD（2011年）（與[A-1 Pictures共同制作](../Page/A-1_Pictures.md "wikilink")）
 
   - （2015年）
 
 ### 劇場版
 
-  - [劇場版 Macross F
-    虛空歌姬](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")（，2009年）（與[8bit共同制作](../Page/8bit.md "wikilink")）
-  - [劇場版 Macross F
-    戀離飛翼](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")（，2011年）
-  - [超時空要塞FB7 銀河流魂
-    聽我唱歌吧！](../Page/超時空要塞FB7_銀河流魂_聽我唱歌吧！.md "wikilink")（，2012年）
-  - [暴力宇宙海賊 ABYSS OF
-    HYPERSPACE－亞空的深淵－](../Page/迷你裙宇宙海賊.md "wikilink")（，2014年）
+  - [劇場版 Macross F 虛空歌姬](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")（，2009年）（與[8bit](../Page/8bit.md "wikilink")共同制作）
+  - [劇場版 Macross F 戀離飛翼](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")（，2011年）
+  - [超時空要塞FB7 銀河流魂 聽我唱歌吧！](../Page/超時空要塞FB7_銀河流魂_聽我唱歌吧！.md "wikilink")（，2012年）
+  - [暴力宇宙海賊 ABYSS OF HYPERSPACE－亞空的深淵－](../Page/迷你裙宇宙海賊.md "wikilink")（，2014年）
 
 ## 出處
 
@@ -262,10 +236,7 @@ FILMS](../Page/ENCOURAGE_FILMS.md "wikilink")）
   -
   - [SHIROBACO](http://shirobaco.com/)
 
-[Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
-[Category:1995年成立的公司](https://zh.wikipedia.org/wiki/Category:1995年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
+[Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink") [Category:1995年成立的公司](https://zh.wikipedia.org/wiki/Category:1995年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
 
 1.
 
@@ -274,7 +245,6 @@ FILMS](../Page/ENCOURAGE_FILMS.md "wikilink")）
 4.
 5.
 6.  [株式會社SATLIGHT的公式官網－公司沿革](http://www.satelight.co.jp/company/enkaku.html)
-
 
 7.
 8.

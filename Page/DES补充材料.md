@@ -1,4 +1,4 @@
-作为参考，本文提供了**[数据加密标准](https://zh.wikipedia.org/wiki/数据加密标准 "wikilink")**（**DES**）块密码中提到的各种[查找表的细节](../Page/查找表.md "wikilink")。
+作为参考，本文提供了**[数据加密标准](https://zh.wikipedia.org/wiki/数据加密标准 "wikilink")**（**DES**）块密码中提到的各种[查找表](../Page/查找表.md "wikilink")的细节。
 
 本文档中的数据都是以[大端序排列的](../Page/字节序.md "wikilink")，也即首位为MSB。
 
@@ -101,7 +101,7 @@ P置换将32位的半块数据重新排列。
 
 align="top"|PC-1
 
-上表的“左”和“右”两部分表现了输入[密钥组成密钥调度状态中左右两部分的过程](../Page/密钥.md "wikilink")。主要输入的64位数据中只用到了56位，剩余的8位可以用于[奇偶校验](https://zh.wikipedia.org/wiki/奇偶校验 "wikilink")。
+上表的“左”和“右”两部分表现了输入[密钥](../Page/密钥.md "wikilink")组成密钥调度状态中左右两部分的过程。主要输入的64位数据中只用到了56位，剩余的8位可以用于[奇偶校验](https://zh.wikipedia.org/wiki/奇偶校验 "wikilink")。
 
 ## 选择置换2(PC-2)
 
@@ -176,7 +176,7 @@ align="top"|PC-2
 
 align="top"|S盒
 
-上表列出了DES中使用的8个S盒。每个S盒将6位输入变为4位输出。给定输入后，输出行由外侧两位确定，列由内侧的4位确定，例如“**0**1101**1**”的输入的外侧位为“**01**”，内侧位为“1101”，而每张表的第一行为“00”，第一列为“0000”因此在S<sub>5</sub>中的对应输出为“1001”（[十进制的](../Page/十进制.md "wikilink")9），即第2行，第14列（参见[S盒](../Page/S盒.md "wikilink")）。
+上表列出了DES中使用的8个S盒。每个S盒将6位输入变为4位输出。给定输入后，输出行由外侧两位确定，列由内侧的4位确定，例如“**0**1101**1**”的输入的外侧位为“**01**”，内侧位为“1101”，而每张表的第一行为“00”，第一列为“0000”因此在S<sub>5</sub>中的对应输出为“1001”（[十进制](../Page/十进制.md "wikilink")的9），即第2行，第14列（参见[S盒](../Page/S盒.md "wikilink")）。
 
 ## 密钥调度过程中的移位
 
@@ -208,5 +208,4 @@ align="top"|移位
   -
 {{-}}
 
-[Category:数据加密标准](https://zh.wikipedia.org/wiki/Category:数据加密标准 "wikilink")
-[Category:S盒](https://zh.wikipedia.org/wiki/Category:S盒 "wikilink")
+[Category:数据加密标准](https://zh.wikipedia.org/wiki/Category:数据加密标准 "wikilink") [Category:S盒](https://zh.wikipedia.org/wiki/Category:S盒 "wikilink")

@@ -1,8 +1,4 @@
-**Name mangling**或者**Decorated
-Name**是指程序设计语言中具有存储性质的对象的名字被编译器改写，以适合编译器、链接器(linker)、汇编器(assembler)使用\[1\]。所谓的具有存储性质的对象，即lvalue对象，是指要实际占用内存空间、有内存地址的那些实体对象，例如：变量(variables)、函数、函数指针等。C++中的纯虚函数作为特例也属于这一范畴。而数据类型(data
-type)就不属于具有存储性质的对象。Name
-mangling如何翻译成中文，尚无广泛接受的译法。可翻译作**改名**或**名字修饰**(name
-decorating)。
+**Name mangling**或者**Decorated Name**是指程序设计语言中具有存储性质的对象的名字被编译器改写，以适合编译器、链接器(linker)、汇编器(assembler)使用\[1\]。所谓的具有存储性质的对象，即lvalue对象，是指要实际占用内存空间、有内存地址的那些实体对象，例如：变量(variables)、函数、函数指针等。C++中的纯虚函数作为特例也属于这一范畴。而数据类型(data type)就不属于具有存储性质的对象。Name mangling如何翻译成中文，尚无广泛接受的译法。可翻译作**改名**或**名字修饰**(name decorating)。
 
 对于支持重载(overload)的程序设计语言，name mangling是必需的因而具有特别重要意义\[2\]。C++允许函数重载
 
@@ -20,27 +16,15 @@ std::cout;
 
 因此C++的编译器必须给这些函数及变量不同的名字以供程序编译链接、载入时的内部辨别使用。
 
-C++的编译器可大略分为Windows平台上的Microsoft Visual
-C++与[类Unix平台上的](https://zh.wikipedia.org/wiki/类Unix "wikilink")[GNU
-CC](../Page/GCC.md "wikilink")/g++两大类，分别成了各自操作系统环境下的业界工业标准。例如，Windows平台上的Intel
-C++ Compiler（ICC）与Digital Mars C++，都与Visual C++保持了二进制兼容(Application
-Binary Interface, ABI)。而Linux平台上的Intel C++ Compiler（ICC）与HP aC++，都与GCC
-3.x/4.x做到二进制兼容。GCC是开源产品，它的内部实现机制是公开的；而Visual C++不公开它内部实现细节，因此在name
-mangling上并无详尽的正式文档，Visual C++ name mangling的细节属于hacker行为\[3\]。
+C++的编译器可大略分为Windows平台上的Microsoft Visual C++与[类Unix平台上的](https://zh.wikipedia.org/wiki/类Unix "wikilink")[GNU CC](../Page/GCC.md "wikilink")/g++两大类，分别成了各自操作系统环境下的业界工业标准。例如，Windows平台上的Intel C++ Compiler（ICC）与Digital Mars C++，都与Visual C++保持了二进制兼容(Application Binary Interface, ABI)。而Linux平台上的Intel C++ Compiler（ICC）与HP aC++，都与GCC 3.x/4.x做到二进制兼容。GCC是开源产品，它的内部实现机制是公开的；而Visual C++不公开它内部实现细节，因此在name mangling上并无详尽的正式文档，Visual C++ name mangling的细节属于hacker行为\[3\]。
 
-一般情况下，编程者不需要知道C/C++函数的修饰名字。但是，如果在[汇编源程序或者](../Page/汇编语言.md "wikilink")[内联汇编中引用了C](../Page/内联汇编.md "wikilink")/C++函数，就必须使用其正确的修饰名字\[4\]。
+一般情况下，编程者不需要知道C/C++函数的修饰名字。但是，如果在[汇编源程序或者](../Page/汇编语言.md "wikilink")[内联汇编](../Page/内联汇编.md "wikilink")中引用了C/C++函数，就必须使用其正确的修饰名字\[4\]。
 
 ## C语言的name mangling
 
-[C语言并不支持重载](https://zh.wikipedia.org/wiki/C语言 "wikilink")，因此C程序中禁止函数与函数同名，也就没有必要做name
-mangling。但C语言的函数调用协议(calling
-conventions)五花八门，用某一种调用协议编译的静态库或动态库的函数，如果用另外的调用协议去调用将会导致错误甚至系统崩溃。因此C语言编译器对函数的名字做少量的修饰，用于区别该函数支持哪种调用协议，这可以给编译、链接、特别是库函数的载入提供额外的检查信息。Microsoft
-C编译器在八十年代最先引入这种mangling模式，随后各家编译器如Digital Mars, Borland, GNU gcc等纷纷效仿。
+[C语言并不支持重载](https://zh.wikipedia.org/wiki/C语言 "wikilink")，因此C程序中禁止函数与函数同名，也就没有必要做name mangling。但C语言的函数调用协议(calling conventions)五花八门，用某一种调用协议编译的静态库或动态库的函数，如果用另外的调用协议去调用将会导致错误甚至系统崩溃。因此C语言编译器对函数的名字做少量的修饰，用于区别该函数支持哪种调用协议，这可以给编译、链接、特别是库函数的载入提供额外的检查信息。Microsoft C编译器在八十年代最先引入这种mangling模式，随后各家编译器如Digital Mars, Borland, GNU gcc等纷纷效仿。
 
-目前，C语言常用的调用协议有三种：`cdecl`, `stdcall`与`fastcall`，其它众多调用协议如`__pascal,
-__fortran, __syscall,
-__far`等基本上算是过时了(obsolote)，因此无需考虑。`cdecl`的函数被改名为`_`**`name`**；`stdcall`的函数被改名为`_`**`name`**`@`**`X`**；`fastcall`的函数被改名为`@`**`name`**`@`**`X`**。其中**X**是函数形参所占用的字节长度(包括那些用寄存器传递的参数,
-如fastcall协议)\[5\]. 例如：
+目前，C语言常用的调用协议有三种：`cdecl`, `stdcall`与`fastcall`，其它众多调用协议如`__pascal, __fortran, __syscall, __far`等基本上算是过时了(obsolote)，因此无需考虑。`cdecl`的函数被改名为`_`**`name`**；`stdcall`的函数被改名为`_`**`name`**`@`**`X`**；`fastcall`的函数被改名为`@`**`name`**`@`**`X`**。其中**X**是函数形参所占用的字节长度(包括那些用寄存器传递的参数, 如fastcall协议)\[5\]. 例如：
 
 ``` cpp
 int __cdecl foo(int i)； // mangled name is _foo;
@@ -48,21 +32,15 @@ int __stdcall bar(int j); // mangled name is _bar@4
 int __fastcall qux(int i) ; // mangled name is @qux@4
 ```
 
-注意在64位Windows平台上，由于ABI有正式标准可依，只存在一种子程序调用协议，所以该平台上的C语言的函数不在名字前加上下划线(leading
-underscore). 这会导致一些老的程序(legacy program),
-例如使用'alias'去链接C语言的函数的Fortran程序不能正常工作。
+注意在64位Windows平台上，由于ABI有正式标准可依，只存在一种子程序调用协议，所以该平台上的C语言的函数不在名字前加上下划线(leading underscore). 这会导致一些老的程序(legacy program), 例如使用'alias'去链接C语言的函数的Fortran程序不能正常工作。
 
 ## C++语言name mangling概述
 
-C++语言由于含有大量复杂的语言特性，如classes, templates, namespaces, operator
-overloading等，这使得对象的名字在不同使用上下文中具有不同的意义。所以C++的name mangling非常复杂。
+C++语言由于含有大量复杂的语言特性，如classes, templates, namespaces, operator overloading等，这使得对象的名字在不同使用上下文中具有不同的意义。所以C++的name mangling非常复杂。
 
-这些名字被mangled的对象，实际上都是具有全局属性的存储对象(storage
-object)，其名字将绑定到所占用内存空间的地址，都有lvalue。存储对象具体可分为数据变量(data
-variable)与函数(function)。为什么不考虑函数的非静态局部变量、类的非静态数据成员呢？因为编译器把函数的非静态局部变量翻译为`[sp]+固定的偏移量`；把类的非静态数据成员翻译为`this+固定的偏移量`。
+这些名字被mangled的对象，实际上都是具有全局属性的存储对象(storage object)，其名字将绑定到所占用内存空间的地址，都有lvalue。存储对象具体可分为数据变量(data variable)与函数(function)。为什么不考虑函数的非静态局部变量、类的非静态数据成员呢？因为编译器把函数的非静态局部变量翻译为`[sp]+固定的偏移量`；把类的非静态数据成员翻译为`this+固定的偏移量`。
 
-下文使用了[巴科斯-瑙尔范式(BNF)来表述一些name](../Page/巴科斯范式.md "wikilink")
-mangling的语法定义。方括号\[\]表示该项出现0次或1次，除非在方括号后用上下角标给出该项出现的上下限。下文使用*类*，一般包含了class、struct、union等复合数据类型。
+下文使用了[巴科斯-瑙尔范式(BNF)来表述一些name](../Page/巴科斯范式.md "wikilink") mangling的语法定义。方括号\[\]表示该项出现0次或1次，除非在方括号后用上下角标给出该项出现的上下限。下文使用*类*，一般包含了class、struct、union等复合数据类型。
 
 ### 基本结构
 
@@ -71,23 +49,17 @@ mangling的语法定义。方括号\[\]表示该项出现0次或1次，除非在
 ` <C++的name mangling> ::= ?`<Qualified Name>` `<Type Information>
 ` `<Qualified Name>` ::= `<name>`@ [`<namespace>`@]`<sup>`∞`</sup><sub>`0`</sub>` @`
 
-</code>
-C++中被mangled的名字都使用问号(?)开始，因为这与用字母数字(alphanumeric)、下划线(_)或`@`开头的C语言程序中的被mangled的名字能完全区分开。
+</code> C++中被mangled的名字都使用问号(?)开始，因为这与用字母数字(alphanumeric)、下划线(_)或`@`开头的C语言程序中的被mangled的名字能完全区分开。
 
-C++中的变量与函数，可定义于名字空间或类中。所以变量与函数受到名字空间或类的限定(qualification)。而名字空间、类又可以嵌套(nest)。
-<Qualified Name>表示变量与函数的名字及所定义的名字空间（或类）的嵌套情况。并采用与C++程序中作用域嵌套相反的顺序编码。例如，`namespace1::nestedClass::something`编码为`something@nestedClass@namespace1@@`。
+C++中的变量与函数，可定义于名字空间或类中。所以变量与函数受到名字空间或类的限定(qualification)。而名字空间、类又可以嵌套(nest)。 <Qualified Name>表示变量与函数的名字及所定义的名字空间（或类）的嵌套情况。并采用与C++程序中作用域嵌套相反的顺序编码。例如，`namespace1::nestedClass::something`编码为`something@nestedClass@namespace1@@`。
 
-Name
-mangling时，名字的字符串用`@`符号作为结束标志。例如<name>`@`，表示<name>这个字符串以`@`符号作为结束标志。因为名字的长度不是事先确定的。如果一个词法单元的长度是确定的，这些词法单元就不用`@`作为结尾标志，例如下文中<CV Modifier>只需用单个字母表示，则无需额外的结束标志。
+Name mangling时，名字的字符串用`@`符号作为结束标志。例如<name>`@`，表示<name>这个字符串以`@`符号作为结束标志。因为名字的长度不是事先确定的。如果一个词法单元的长度是确定的，这些词法单元就不用`@`作为结尾标志，例如下文中<CV Modifier>只需用单个字母表示，则无需额外的结束标志。
 
-<Type Information>是变量与函数的类型信息的编码表示。对于数据对象，就是它的数据类型，见[数据对象的name
-mangling](https://zh.wikipedia.org/wiki/#数据对象的name_mangling "wikilink")；对于函数，类型信息就是它的返回值类型、参数类型列表、调用协议等情况，见[函数的name
-mangling](https://zh.wikipedia.org/wiki/#函数的name_mangling "wikilink")。
+<Type Information>是变量与函数的类型信息的编码表示。对于数据对象，就是它的数据类型，见[数据对象的name mangling](https://zh.wikipedia.org/wiki/#数据对象的name_mangling "wikilink")；对于函数，类型信息就是它的返回值类型、参数类型列表、调用协议等情况，见[函数的name mangling](https://zh.wikipedia.org/wiki/#函数的name_mangling "wikilink")。
 
 ### 数据对象的name mangling
 
-这里所说的数据对象，包括全局变量(global variables)、类的静态数据成员变量(static member variables of
-classes)。 <code>
+这里所说的数据对象，包括全局变量(global variables)、类的静态数据成员变量(static member variables of classes)。 <code>
 
 ` `<数据对象的name mangling>` ::= ?`<name>`@[`<namespace>`@]`<sup>`∞`</sup><sub>`0`</sub>`@`<data access modifier>
 `         `<data type><CV Modifier>` `
@@ -103,8 +75,7 @@ classes)。 <code>
 | 4  | static local variable   |
 |    |                         |
 
-<CV Modifier>是数据对象的访问属性的编码表示，一般常用的值有：A表示default对象、B表示const对象、C表示volatile对象、D表示const
-volatile对象。详见[小节:<CV Modifier>](https://zh.wikipedia.org/wiki/#\<CV_Modifier\> "wikilink")。需要注意的是对于指针、数组、引用类型的对象，<CV Modifier>是对所指向的基类型的内存空间的访问属性。
+<CV Modifier>是数据对象的访问属性的编码表示，一般常用的值有：A表示default对象、B表示const对象、C表示volatile对象、D表示const volatile对象。详见[小节:<CV Modifier>](https://zh.wikipedia.org/wiki/#\<CV_Modifier\> "wikilink")。需要注意的是对于指针、数组、引用类型的对象，<CV Modifier>是对所指向的基类型的内存空间的访问属性。
 
 例如：
 
@@ -120,10 +91,7 @@ class myC{
 
 ### 函数的name mangling
 
-函数需要分配内存空间以容纳函数的代码，函数的名字实际上都是lvalue，即指向一块可执行内存空间的起始地址。而函数模板的实例化(function
-template instantiation)，也是lvalue，需要分配内存空间存储实例化后的代码，其name
-mangling在[模板实例化的名字编码中详述](https://zh.wikipedia.org/wiki/#模板实例化的名字编码 "wikilink")。
-<code>
+函数需要分配内存空间以容纳函数的代码，函数的名字实际上都是lvalue，即指向一块可执行内存空间的起始地址。而函数模板的实例化(function template instantiation)，也是lvalue，需要分配内存空间存储实例化后的代码，其name mangling在[模板实例化的名字编码中详述](https://zh.wikipedia.org/wiki/#模板实例化的名字编码 "wikilink")。 <code>
 
 ` `<全局函数的name mangling>` ::= ?`<function name>`@ [`<namespace>`@]`<sup>`∞`</sup><sub>`0`</sub>` @ `<func modifier>` `
 `         `<calling conv>` [`<storage ret>`] `<return type>` `<parameter type><sup>`∞`</sup><sub>`1`</sub>` `<throw type>` `
@@ -131,16 +99,11 @@ mangling在[模板实例化的名字编码中详述](https://zh.wikipedia.org/wi
 `         [`<const modifier>`]`<calling conv>` [`<storage ret>`] `<return type>` `
 `         `<parameter type><sup>`∞`</sup><sub>`1`</sub>` `<throw type>` `
 
-</code>
-其中，<func modifier>给出了函数是near或far、是否为静态函数、是类成员函数还是全局函数、是否为虚函数、类成员函数的访问级别等基本信息。需要注意，far属性仅适用于Windows
-16位环境，32位或64位环境下使用扁平(flat)内存地址模型，函数只能具有near属性。
+</code> 其中，<func modifier>给出了函数是near或far、是否为静态函数、是类成员函数还是全局函数、是否为虚函数、类成员函数的访问级别等基本信息。需要注意，far属性仅适用于Windows 16位环境，32位或64位环境下使用扁平(flat)内存地址模型，函数只能具有near属性。
 
-类成员函数的<const modifier>是指是否为只读成员函数(constant member function).
-如果不是const，则编码为A；如果是const，则编码为B；如果是类的静态成员函数，则省略该项，因为静态成员函数没有this指针，无法修改类对象的数据。
+类成员函数的<const modifier>是指是否为只读成员函数(constant member function). 如果不是const，则编码为A；如果是const，则编码为B；如果是类的静态成员函数，则省略该项，因为静态成员函数没有this指针，无法修改类对象的数据。
 
-<calling conv>是指函数的调用协议。详见[调用协议的编码](https://zh.wikipedia.org/wiki/#调用协议的编码 "wikilink")。常见的调用协议的编码为：__cdecl是A,
-__pascal是C, __thiscall是E, __stdcall是G, __fastcall是I。在Windows
-64位编译环境中唯一允许的调用协议的编码是A（详见64位程序的调用约定）。
+<calling conv>是指函数的调用协议。详见[调用协议的编码](https://zh.wikipedia.org/wiki/#调用协议的编码 "wikilink")。常见的调用协议的编码为：__cdecl是A, __pascal是C, __thiscall是E, __stdcall是G, __fastcall是I。在Windows 64位编译环境中唯一允许的调用协议的编码是A（详见64位程序的调用约定）。
 
 `[`<storage ret>`]`是指函数的返回值的是否有const或volatile属性：
 
@@ -150,15 +113,13 @@ __pascal是C, __thiscall是E, __stdcall是G, __fastcall是I。在Windows
 
 <return type>是函数的返回值的数据类型，详见[类型的编码表示](https://zh.wikipedia.org/wiki/#类型的编码表示 "wikilink")。
 
-<parameter type>是函数的形参列表(parameter
-list)的数据类型的编码。按照形参从左到右顺序给每个参数的数据类型编码，详见[类型的编码表示](https://zh.wikipedia.org/wiki/#类型的编码表示 "wikilink")。参数类型列表的编码为：
+<parameter type>是函数的形参列表(parameter list)的数据类型的编码。按照形参从左到右顺序给每个参数的数据类型编码，详见[类型的编码表示](https://zh.wikipedia.org/wiki/#类型的编码表示 "wikilink")。参数类型列表的编码为：
 
   - `X` (即函数没有参数，或者说参数为`void`，该编码也是列表的结束标志)
   - type1 type2 ... typeN `@` (正常N个形参. 以`@`作为列表的结束标志)
   - type1 type2 ... `Z` (形参表最后一项为...，即ellipsis，其编码`Z`也标志着列表的结束)
 
-<throw type>是函数抛出异常的说明，即异常规范(exception specification)。截至Visual C++
-2010，仍是接受但没有实现异常规范\[6\]。因此这一项编码仍然保持为字符`Z`。
+<throw type>是函数抛出异常的说明，即异常规范(exception specification)。截至Visual C++ 2010，仍是接受但没有实现异常规范\[6\]。因此这一项编码仍然保持为字符`Z`。
 
 举例：
 
@@ -192,13 +153,9 @@ C++程序中，需要考虑的具有全局存储属性的变量名字及函数�
 ` `<Qualifier>` ::= `<namespace>` | `<class name>` | `<Template Instantiation>` `
 `                | `<Numbered Namespace>` | `<Back Reference>` | `<Nested Name>` `</code>
 
-其中，<Name Fragment>是组成名字标识符的ASCII码串，规定必须以`@`作为结尾后缀。<Special Name>是指构造函数、析构函数、运算符函数(operator
-function)、虚表(vtable)等内部数据结构等，详见[特殊名字的编码](https://zh.wikipedia.org/wiki/#特殊名字 "wikilink")。
+其中，<Name Fragment>是组成名字标识符的ASCII码串，规定必须以`@`作为结尾后缀。<Special Name>是指构造函数、析构函数、运算符函数(operator function)、虚表(vtable)等内部数据结构等，详见[特殊名字的编码](https://zh.wikipedia.org/wiki/#特殊名字 "wikilink")。
 
-<namespace>`与`<class name>就是指C++程序中的名字空间与类。<Template Instantiation>是指实例化后的函数模板或类模板，详见[模板实例化的名字编码](https://zh.wikipedia.org/wiki/#模板实例化的名字编码 "wikilink")。<Numbered Namespace>是对一个函数内部用花括号`{
-...
-}`给出的不同的作用域(scope)的编号表示，详见[编号名字空间](https://zh.wikipedia.org/wiki/#编号名字空间 "wikilink")。<Back Reference>是对一个mangled
-name的ASCII码串中重复出现的类型或名字的简写表示方法，详见[重复出现的名字与类型的简写表示](https://zh.wikipedia.org/wiki/#重复出现的名字与类型的简写表示 "wikilink")。<Nested Name>是对静态局部变量所在的函数名的表示方法，详见[嵌套的名字](https://zh.wikipedia.org/wiki/#嵌套的名字 "wikilink")。
+<namespace>`与`<class name>就是指C++程序中的名字空间与类。<Template Instantiation>是指实例化后的函数模板或类模板，详见[模板实例化的名字编码](https://zh.wikipedia.org/wiki/#模板实例化的名字编码 "wikilink")。<Numbered Namespace>是对一个函数内部用花括号`{ ... }`给出的不同的作用域(scope)的编号表示，详见[编号名字空间](https://zh.wikipedia.org/wiki/#编号名字空间 "wikilink")。<Back Reference>是对一个mangled name的ASCII码串中重复出现的类型或名字的简写表示方法，详见[重复出现的名字与类型的简写表示](https://zh.wikipedia.org/wiki/#重复出现的名字与类型的简写表示 "wikilink")。<Nested Name>是对静态局部变量所在的函数名的表示方法，详见[嵌套的名字](https://zh.wikipedia.org/wiki/#嵌套的名字 "wikilink")。
 
 #### 数的编码
 
@@ -254,13 +211,11 @@ Visual C++的name mangling，有时会用到数(number)，例如多维数组的�
 | `Y`  | <var>operator +=</var>         | 'placement delete\[\] closure'         |                                             |
 | `Z`  | <var>operator -=</var>         |                                        |                                             |
 
-虚表的mangled name是` ::= ??_7[  `<class name>`
-] `<sup>`∞`</sup><sub>`0`</sub>`  @6B@ `,
+虚表的mangled name是` ::= ??_7[  `<class name>`  ] `<sup>`∞`</sup><sub>`0`</sub>`  @6B@ `,
 
 前缀`_P`用在`?_PX`之中. 其含义未知。
 
-下表是[RTTI相关的编码](https://zh.wikipedia.org/wiki/RTTI "wikilink")，都是在`_R`后跟一个数字.
-有些编码还后跟参数.
+下表是[RTTI相关的编码](https://zh.wikipedia.org/wiki/RTTI "wikilink")，都是在`_R`后跟一个数字. 有些编码还后跟参数.
 
 | 编码    | 含义                                                                            | 尾部参数                                                                     |
 | ----- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -280,12 +235,9 @@ Visual C++的name mangling，有时会用到数(number)，例如多维数组的�
 <函数模板实例化的名字>` ::= ?$ `<函数模板的名字>` `<模板实参的编码>` `
 <函数模板实例化的名字manging>` ::= ?$ `<函数模板的名字>` `<模板实参的编码>` `<函数的类型信息>
 
-</code> 模板的名字以前缀`?$`开始。` ?$  `<函数模板的名字>`
- `<函数模板实参的编码>可以代替<function name>，` ?$
- `<类模板的名字>`   `<类模板实参的编码>可以代替<class name>。
+</code> 模板的名字以前缀`?$`开始。` ?$  `<函数模板的名字>`   `<函数模板实参的编码>可以代替<function name>，` ?$  `<类模板的名字>`   `<类模板实参的编码>可以代替<class name>。
 
-模板实参(template
-argument)，可以分为类型名字(typename)与非类型(non-type)的常量两类。如果是类型名字或类作为模板实参，那么其编码格式详见[类型的编码表示](https://zh.wikipedia.org/wiki/#类型的编码表示 "wikilink")。如果模板实参是常量(constant)，则已知的编码格式列为下表：
+模板实参(template argument)，可以分为类型名字(typename)与非类型(non-type)的常量两类。如果是类型名字或类作为模板实参，那么其编码格式详见[类型的编码表示](https://zh.wikipedia.org/wiki/#类型的编码表示 "wikilink")。如果模板实参是常量(constant)，则已知的编码格式列为下表：
 
 | 编码                                       | 含义                                                                                                    |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -300,8 +252,7 @@ argument)，可以分为类型名字(typename)与非类型(non-type)的常量两
 | `$J`<em>`x`</em><em>`y`</em><em>`z`</em> | <em>(unknown)</em>                                                                                    |
 | `$Q`<em>`a`</em>                         | anonymous non-type template parameter <em>a</em> (<var>'non-type-template-parameter<em>a</em>'</var>) |
 
-上表中，用*a*, *b*, *c*表示有符号整数，而*x*, *y*, *z*表示无符号整数.
-这些有符号整数或无符号整数的编码格式，详见[数的编码](https://zh.wikipedia.org/wiki/#数的编码 "wikilink")。上表中，实数值的编码表示`$2ab`，a、b都是有符号整数，但计算实数的值时，实际上规范到以10为基数的[科学计数法的表示形式](https://zh.wikipedia.org/wiki/科学计数法 "wikilink")。
+上表中，用*a*, *b*, *c*表示有符号整数，而*x*, *y*, *z*表示无符号整数. 这些有符号整数或无符号整数的编码格式，详见[数的编码](https://zh.wikipedia.org/wiki/#数的编码 "wikilink")。上表中，实数值的编码表示`$2ab`，a、b都是有符号整数，但计算实数的值时，实际上规范到以10为基数的[科学计数法的表示形式](https://zh.wikipedia.org/wiki/科学计数法 "wikilink")。
 
 例如：
 
@@ -326,8 +277,7 @@ one<Ce> another; /* mangled as ?another@@3V?$one@VCe@@@@A */
 
 #### 编号名字空间
 
-编号名字空间(numbered
-namespace)用于指出函数静态局部变量包含在函数的哪个内部作用域中。之所以需要引入编号名字空间，是为了区分函数内部的不同作用域，从而可以区分包含在不同作用域中但同名的变量，详见下例。其编码格式为前缀?后跟一个无符号数，无符号数的编码参见[数的编码小节](https://zh.wikipedia.org/wiki/#数的编码 "wikilink")。
+编号名字空间(numbered namespace)用于指出函数静态局部变量包含在函数的哪个内部作用域中。之所以需要引入编号名字空间，是为了区分函数内部的不同作用域，从而可以区分包含在不同作用域中但同名的变量，详见下例。其编码格式为前缀?后跟一个无符号数，无符号数的编码参见[数的编码小节](https://zh.wikipedia.org/wiki/#数的编码 "wikilink")。
 
 特例情况是, 以?A开始的编号名字空间, 是`('anonymous namespace')`.
 
@@ -358,9 +308,7 @@ int func()
 
 这适用于函数与函数指针的形参列表。只有编码超过一个字符的类型参与简写，包括指针、函数指针、引用、数组、bool、__int64、class、实例化的模板类、union、struct、enum等数据类型。形参表中前10种多字符编码的类型按照出现次序依次编号为0,1,...,9。用单个字符编码的类型不参加编号。对不是该数据类型首次出现的形参，用该类型的单个数字的编号代替该数据类型的多个字符的编码来简写表示。排在前十名之后的多字符编码的数据类型，不再简写。函数的返回值类型不参与此编号及简写。
 
-如果函数的返回类型或者形参是函数指针型，那么函数指针型的形参也参与类型排序编号与简写，但函数指针型的返回值类型**不参与**类型排序编号与简写。在对类型排序编号时，先编号函数指针型内部的形参的数据类型，再编号函数指针型本身。例如，假如函数的第一个形参是`void
-(__cdecl*)(class alpha, class beta)`，那么`class alpha`编号为0, `class
-beta`编号为1, 最后整个函数指针编号为2.
+如果函数的返回类型或者形参是函数指针型，那么函数指针型的形参也参与类型排序编号与简写，但函数指针型的返回值类型**不参与**类型排序编号与简写。在对类型排序编号时，先编号函数指针型内部的形参的数据类型，再编号函数指针型本身。例如，假如函数的第一个形参是`void (__cdecl*)(class alpha, class beta)`，那么`class alpha`编号为0, `class beta`编号为1, 最后整个函数指针编号为2.
 
 例如：
 
@@ -392,11 +340,7 @@ FP  funcfp (int *, FP) /* mangled as ?funcfp@@YAP6APAHPAH@Z0P6APAH0@Z@Z */
 
 ##### 重复出现的名字的简写
 
-在对码串完成[重复出现的类型的简写后](https://zh.wikipedia.org/wiki/#重复出现的类型的简写 "wikilink")，再对结果中所有不同的名字排序编号，从0编号到9。排在前10个之后的名字不再编号、简写。这里的名字是指函数、class、struct、union、enum、实例化的带实参的模板等等的以`@`作为结尾后缀的名字。例如，在`alpha@?1beta@@(即beta::'2'::alpha)`中,
-0指代`alpha@`,
-1指代`beta@`，?1是[编号名字空间](https://zh.wikipedia.org/wiki/#编号名字空间 "wikilink")‘2’的编码.
-[特殊名字](https://zh.wikipedia.org/wiki/#特殊名字的编码 "wikilink")、[编号名字空间的名字都不参加此轮名字的排序编号与简写](https://zh.wikipedia.org/wiki/#编号名字空间 "wikilink")。
-例如：
+在对码串完成[重复出现的类型的简写后](https://zh.wikipedia.org/wiki/#重复出现的类型的简写 "wikilink")，再对结果中所有不同的名字排序编号，从0编号到9。排在前10个之后的名字不再编号、简写。这里的名字是指函数、class、struct、union、enum、实例化的带实参的模板等等的以`@`作为结尾后缀的名字。例如，在`alpha@?1beta@@(即beta::'2'::alpha)`中, 0指代`alpha@`, 1指代`beta@`，?1是[编号名字空间](https://zh.wikipedia.org/wiki/#编号名字空间 "wikilink")‘2’的编码. [特殊名字](https://zh.wikipedia.org/wiki/#特殊名字的编码 "wikilink")、[编号名字空间的名字都不参加此轮名字的排序编号与简写](https://zh.wikipedia.org/wiki/#编号名字空间 "wikilink")。 例如：
 
 ``` cpp
 class C1{
@@ -553,8 +497,7 @@ int main(int argc, char *argv[])
 
 对于简单的数据类型，其编码往往就是一个字母。如int类型编码为X。对各种衍生的数据类型（如指针）、复合的数据类型（如类）、函数指针、模板等，在下文中分述。
 
-`X`表示`void` 仅当用于表示函数的返回类型、形参表的终止或指针的基类型, 否则该编码表示cointerface. 代码 `Z`
-(表示ellipsis)仅用于表示不定长度的形参列表(varargs).
+`X`表示`void` 仅当用于表示函数的返回类型、形参表的终止或指针的基类型, 否则该编码表示cointerface. 代码 `Z` (表示ellipsis)仅用于表示不定长度的形参列表(varargs).
 
 #### 指针、引用、数组的类型编码
 
@@ -566,8 +509,7 @@ int main(int argc, char *argv[])
 ` `<一维数组类型的编码>` ::= `<指针类型的编码>
 ` `<多维数组类型的编码>` ::= `<type modifier>` `<CV Modifier>` `<Array property><base type>
 
-</code>
-其中<type modifier>作为前缀，用于区分各种情况的指针、引用、数组。指针自身是const还是volatile等访问属性，由<type modifier>确定。共有八种情况：
+</code> 其中<type modifier>作为前缀，用于区分各种情况的指针、引用、数组。指针自身是const还是volatile等访问属性，由<type modifier>确定。共有八种情况：
 
 |               | *none*     | const | volatile | const volatile |
 | ------------- | ---------- | ----- | -------- | -------------- |
@@ -575,25 +517,17 @@ int main(int argc, char *argv[])
 | **Reference** | `A`        |       | `B`      |                |
 | ***none***    | `?`, `$$C` |       |          |                |
 
-<CV Modifier>表示所指向的基类型(Referred
-type)是否具有const或volatile等访问属性，详见[小节：<CV Modifier>](https://zh.wikipedia.org/wiki/#\<CV_Modifier\> "wikilink")。
+<CV Modifier>表示所指向的基类型(Referred type)是否具有const或volatile等访问属性，详见[小节：<CV Modifier>](https://zh.wikipedia.org/wiki/#\<CV_Modifier\> "wikilink")。
 
-<base type>表示指针或引用的基类型(Referred type)，或数组的成员类型(element
-type)。其编码详见[数据类型的编码表示](https://zh.wikipedia.org/wiki/#数据类型的编码表示 "wikilink")。
+<base type>表示指针或引用的基类型(Referred type)，或数组的成员类型(element type)。其编码详见[数据类型的编码表示](https://zh.wikipedia.org/wiki/#数据类型的编码表示 "wikilink")。
 
-<Array property>表示多维数组的基础维度信息，其格式为：`Y`<数组总的维数-1><第2维的长度>`...`<最后的第N维的长度>。注意，这里使用的数字，要用Visual
-C++ name
-mangling特有的数字编码方法，详见[数的编码](https://zh.wikipedia.org/wiki/#数的编码 "wikilink")。可见，C++语言的数组是对连续存储数据的内存的直接随机访问(random
-access)的手段；因此一维数组视作指针，数组访问是否越界，完全由编程者负责；而对多维数组，必须知道除了第一维之外其它各维的长度，才能做到直接随机访问，所以多维数组作为函数形参时，必须已知其除了第一维之外其它各维的长度（以及总的维数），这些信息都被编入了数组的mangled
-name中。
+<Array property>表示多维数组的基础维度信息，其格式为：`Y`<数组总的维数-1><第2维的长度>`...`<最后的第N维的长度>。注意，这里使用的数字，要用Visual C++ name mangling特有的数字编码方法，详见[数的编码](https://zh.wikipedia.org/wiki/#数的编码 "wikilink")。可见，C++语言的数组是对连续存储数据的内存的直接随机访问(random access)的手段；因此一维数组视作指针，数组访问是否越界，完全由编程者负责；而对多维数组，必须知道除了第一维之外其它各维的长度，才能做到直接随机访问，所以多维数组作为函数形参时，必须已知其除了第一维之外其它各维的长度（以及总的维数），这些信息都被编入了数组的mangled name中。
 
 对于函数指针类型的编码，其<base type>为函数调用接口信息，包括使用的调用协议、返回值类型、形参类型、允许抛出的异常等，详见[函数指针类型的编码](https://zh.wikipedia.org/wiki/#函数指针类型的编码 "wikilink")。类成员指针的类型编码，详见[类成员指针的类型编码](https://zh.wikipedia.org/wiki/#类成员指针的类型编码 "wikilink")。类成员函数指针的类型编码，详见[类成员函数指针的类型编码](https://zh.wikipedia.org/wiki/#类成员函数指针的类型编码 "wikilink")。
 
-2003年x86-64位处理器问世后，第一批64位Windows平台的C++编译器曾经使用`_O`作为数组类型的前缀修饰符(type
-modifier). 但不久就改回了32位Windows平台C++编译器使用的`P`前缀.
+2003年x86-64位处理器问世后，第一批64位Windows平台的C++编译器曾经使用`_O`作为数组类型的前缀修饰符(type modifier). 但不久就改回了32位Windows平台C++编译器使用的`P`前缀.
 
-需注意的是，全局数组类型被编码为P(指针型)，同时作为函数形参的数组类型被编码为Q(常量指针).
-这与其本来含义恰恰相反——全局数组型的变量名字表示某块内存地址，该名字不能再改为指向其它内存地址；而作为函数形参的数组型变量的名字所表示的内存地址是可以修改的。但数组类型这种编码方法已经被各种C++编译器广泛接受。显然，这是为了与老的代码保持向后兼容。例如：
+需注意的是，全局数组类型被编码为P(指针型)，同时作为函数形参的数组类型被编码为Q(常量指针). 这与其本来含义恰恰相反——全局数组型的变量名字表示某块内存地址，该名字不能再改为指向其它内存地址；而作为函数形参的数组型变量的名字所表示的内存地址是可以修改的。但数组类型这种编码方法已经被各种C++编译器广泛接受。显然，这是为了与老的代码保持向后兼容。例如：
 
 ``` cpp
 int ia[10];                                 //ia是数组类型的非函数形参的变量
@@ -631,14 +565,12 @@ int[7][6] // 作为函数形参时，该数据类型编码为 QAY05H
 
 #### 函数指针类型的编码
 
-函数指针的类型信息，包括函数返回类型，函数形参类型，调用协议等。以前缀`P6`开始。各项具体定义可参见[函数的类型信息编码](https://zh.wikipedia.org/wiki/#函数的类型信息编码 "wikilink")：
-<code>
+函数指针的类型信息，包括函数返回类型，函数形参类型，调用协议等。以前缀`P6`开始。各项具体定义可参见[函数的类型信息编码](https://zh.wikipedia.org/wiki/#函数的类型信息编码 "wikilink")： <code>
 
 <global function pointer type info>` ::= `<type modifier>` `<CV Modifier>` `<calling conv>` `
 `    [`<storage ret>`]`<return type>`[`<parameter type>`]`<sup>`∞`</sup><sub>`1`</sub><throw type>
 
-</code>
-一般地，<type modifier>取值为`P`，意为指针；<CV Modifier>取值为6，意为指针的基类型为near属性的非成员函数。
+</code> 一般地，<type modifier>取值为`P`，意为指针；<CV Modifier>取值为6，意为指针的基类型为near属性的非成员函数。
 
 例如：
 
@@ -654,9 +586,7 @@ int[7][6] // 作为函数形参时，该数据类型编码为 QAY05H
 ` `<pointer-to-Member Type>` = `<type modifier>` `<CV Modifier>
 `                            `<base-class Qualified Name>` `<base type>
 
-</code>
-其中各项的定义详见[指针、引用、数组的类型编码](https://zh.wikipedia.org/wiki/#指针、引用、数组的类型编码 "wikilink")。注意，<CV Modifier>是指基类型的属性，常用的值为：Q
-for default， R for const; S for volatile; T for const volatile。
+</code> 其中各项的定义详见[指针、引用、数组的类型编码](https://zh.wikipedia.org/wiki/#指针、引用、数组的类型编码 "wikilink")。注意，<CV Modifier>是指基类型的属性，常用的值为：Q for default， R for const; S for volatile; T for const volatile。
 
 例如：
 
@@ -670,17 +600,14 @@ typedef int C1::*p; // coded as PQC1@@H
 
 #### 类成员指针变量的mangled name
 
-类成员指针(pointer to
-member)的名字mangling的最末尾处对基类型访问属性的编码不同于普通的指针，要在最后加上所指向类的带完整限定信息的名字：
-<code>
+类成员指针(pointer to member)的名字mangling的最末尾处对基类型访问属性的编码不同于普通的指针，要在最后加上所指向类的带完整限定信息的名字： <code>
 
 ` `<pointer-to-member name mangling>` ::= ?`<Qualified Name>` `<data access modifier>
 `             `<pointer-to-Member Type>` `<CV Modifier>` `<base-class Qualified Name>
 
 </code>
 
-有的文献称\[7\]，类成员指针、类成员函数指针的name
-mangling都必须以Q1@作为结尾，以替代<CV Modifier>。从下述几例可以看出，这种说法是错误的。Q是对所指向的成员类型使用default访问属性，这是最常见的情况。1是该指针所指向类的名字简写，因为在此位置之前该类的名字必然已经出现在该数据类型的编码中，所以此处名字的简写是必然的。但不一定总是简写作1
+有的文献称\[7\]，类成员指针、类成员函数指针的name mangling都必须以Q1@作为结尾，以替代<CV Modifier>。从下述几例可以看出，这种说法是错误的。Q是对所指向的成员类型使用default访问属性，这是最常见的情况。1是该指针所指向类的名字简写，因为在此位置之前该类的名字必然已经出现在该数据类型的编码中，所以此处名字的简写是必然的。但不一定总是简写作1
 
 下例中，成员指针变量的mangled name以S12@结尾：
 
@@ -720,18 +647,14 @@ void func(TP){
 
 #### 类成员函数指针的类型编码
 
-类成员函数的指针(pointer to member
-function)，遵从[指针类型编码的一般规则](https://zh.wikipedia.org/wiki/#指针、引用、数组的类型编码 "wikilink")。但与[函数指针类型的编码相比](https://zh.wikipedia.org/wiki/#函数指针类型的编码 "wikilink")，多了一项<const Modifier>，表示所指的函数是否为只读成员函数(constant
-member function)。 <code>
+类成员函数的指针(pointer to member function)，遵从[指针类型编码的一般规则](https://zh.wikipedia.org/wiki/#指针、引用、数组的类型编码 "wikilink")。但与[函数指针类型的编码相比](https://zh.wikipedia.org/wiki/#函数指针类型的编码 "wikilink")，多了一项<const Modifier>，表示所指的函数是否为只读成员函数(constant member function)。 <code>
 
 <pointer-to-member-function type info>` ::= `
 `              `<type modifier>` `<CV Modifier>` `<base-class Qualified Name>
 `              [`<const Modifier>`] `<calling conv>` [`<storage ret>`] `<return type>` `
 `              [`<parameter type>`]`<sup>`∞`</sup><sub>`1`</sub>`  `<throw type>
 
-</code>
-一般地，<type modifier>取值为`P`，意为指针；<CV Modifier>取值为8，意为指针的基类型为near属性的类成员函数。其它各项取值参见[函数的name
-mangling](https://zh.wikipedia.org/wiki/#函数的name_mangling "wikilink")。
+</code> 一般地，<type modifier>取值为`P`，意为指针；<CV Modifier>取值为8，意为指针的基类型为near属性的类成员函数。其它各项取值参见[函数的name mangling](https://zh.wikipedia.org/wiki/#函数的name_mangling "wikilink")。
 
 例如：
 
@@ -747,9 +670,7 @@ typedef  void (C1::*TP)(int) const; /* coded as P8C1@@BEXH@Z
 
 #### 类成员函数的指针变量的mangled name
 
-类成员函数指针(pointer to member
-function)的名字mangling，对基类型访问属性的编码<CV Modifier>不同于普通的指针，要在最后加上所指向类的带完整限定信息的名字。
-<code>
+类成员函数指针(pointer to member function)的名字mangling，对基类型访问属性的编码<CV Modifier>不同于普通的指针，要在最后加上所指向类的带完整限定信息的名字。 <code>
 
 ` `<pointer-to-member name mangling>` ::= ?`<Qualified Name>` `<data access modifier>
 `            `<pointer-to-Member-Function Type>` `<CV Modifier>` `<base-class Qualified Name>
@@ -774,8 +695,7 @@ void (xyz::*pfunc)(int) ; /* mangled as ?pfunc@@3P8xyz@@AEXH@ZQ1@ */
 
 <复合类型的编码>` ::= `<复合类型的种类><复合类型的带限定的名字></code>
 
-其中复合类型的种类作为前缀，union编码为T, struct编码为U, class编码为V, coclass编码为X,
-cointerface编码为Y。复合类型的带限定的名字<Qualified Name>，是指按照名字所在的名字空间、所属的类，逐级列出限定情况(qualifier)，详见[名字的编码](https://zh.wikipedia.org/wiki/#名字的编码 "wikilink")。
+其中复合类型的种类作为前缀，union编码为T, struct编码为U, class编码为V, coclass编码为X, cointerface编码为Y。复合类型的带限定的名字<Qualified Name>，是指按照名字所在的名字空间、所属的类，逐级列出限定情况(qualifier)，详见[名字的编码](https://zh.wikipedia.org/wiki/#名字的编码 "wikilink")。
 
 经常可以看到复合类型的编码以@@两个字符结尾，这是因为第一个@表示复合类型名字的字串结束，第二个@表示限定情况的结束(即作用域为全局，限定情况为空)。
 
@@ -793,9 +713,7 @@ class myClassName::embedClassName; //mangled type name is VembedClassName@VmyCla
 <枚举类型的编码>` ::= W `<枚举实际使用的数据类型>` `<enum-type Qualified Name>
 <枚举成员的编码>` ::= W `<枚举实际使用的数据类型>` `<enumerator name>`@ `<enum-type Qualified Name>
 
-</code>
-其中，W为枚举类型前缀词。<enum-type Qualified Name>为枚举类型的带限定的名字，是指按照名字所在的名字空间、所属的类，逐级列出限定情况(qualifier)，详见[名字的编码](https://zh.wikipedia.org/wiki/#名字的编码 "wikilink")。枚举实际使用的数据类型，
-编码如下：
+</code> 其中，W为枚举类型前缀词。<enum-type Qualified Name>为枚举类型的带限定的名字，是指按照名字所在的名字空间、所属的类，逐级列出限定情况(qualifier)，详见[名字的编码](https://zh.wikipedia.org/wiki/#名字的编码 "wikilink")。枚举实际使用的数据类型， 编码如下：
 
 | 编码  | 对应的实际数据类型                       |
 | --- | ------------------------------- |
@@ -814,8 +732,7 @@ class myClassName::embedClassName; //mangled type name is VembedClassName@VmyCla
 enum namex:unsigned char {Sunday, Monday}; // enum-type coded as W4namex@@
 ```
 
-看起来Visual C++已经把所有枚举类型用int型实现，因此枚举的基类型(The underlying type of the
-enumeration identifiers)的编码总是为4
+看起来Visual C++已经把所有枚举类型用int型实现，因此枚举的基类型(The underlying type of the enumeration identifiers)的编码总是为4
 
 #### <CV Modifier>
 
@@ -865,15 +782,11 @@ int __based(void) *pbc; // mangled name: ?pbc@@3PM0HM0 其中的0表示这是__b
 
 ### 函数的类型信息编码
 
-函数的类型信息，是指调用函数时必须考虑的ABI(Application Binary
-Interface)，包括调用协议、返回类型、函数形参表、函数抛出异常的说明(exception
-specification)等，参见[函数的name
-mangling](https://zh.wikipedia.org/wiki/#函数的name_mangling "wikilink")。
+函数的类型信息，是指调用函数时必须考虑的ABI(Application Binary Interface)，包括调用协议、返回类型、函数形参表、函数抛出异常的说明(exception specification)等，参见[函数的name mangling](https://zh.wikipedia.org/wiki/#函数的name_mangling "wikilink")。
 
 #### <func modifier>
 
-<func modifier>给出了函数是near或far（但far属性仅适用于Windows
-16位环境，32位或64位环境下只能函数具有near属性）、是否为静态函数、是否为虚函数、类成员函数的访问级别等信息：
+<func modifier>给出了函数是near或far（但far属性仅适用于Windows 16位环境，32位或64位环境下只能函数具有near属性）、是否为静态函数、是否为虚函数、类成员函数的访问级别等信息：
 
 |                     | <em>near</em> | far | static near | static far | virtual near | virtual far | thunk near | thunk far |
 | ------------------- | ------------- | --- | ----------- | ---------- | ------------ | ----------- | ---------- | --------- |
@@ -882,8 +795,7 @@ mangling](https://zh.wikipedia.org/wiki/#函数的name_mangling "wikilink")。
 | public:             | `Q`           | `R` | `S`         | `T`        | `U`          | `V`         | `W`        | `X`       |
 | <em>not member</em> | `Y`           | `Z` |             |            |              |             |            |           |
 
-上表中的[thunk函数](https://zh.wikipedia.org/wiki/thunk函数 "wikilink")\[8\]，是指在[多继承时](https://zh.wikipedia.org/wiki/多继承 "wikilink")，由编译器生成的包装函数(warpper
-function)，用于多态调用实际已被子类对应函数覆盖(overrided)的父类虚函数，并把指向父类的this指针调整到指向子类的起始地址。
+上表中的[thunk函数](https://zh.wikipedia.org/wiki/thunk函数 "wikilink")\[8\]，是指在[多继承时](https://zh.wikipedia.org/wiki/多继承 "wikilink")，由编译器生成的包装函数(warpper function)，用于多态调用实际已被子类对应函数覆盖(overrided)的父类虚函数，并把指向父类的this指针调整到指向子类的起始地址。
 
 #### 调用协议的编码
 
@@ -911,8 +823,7 @@ function)，用于多态调用实际已被子类对应函数覆盖(overrided)的
 
 1.  直接用工具软件(如微软开发环境提供的dumpbin)查看obj、exe等二进制文件。使用dumplib查看.obj或.lib文件时，使用"/SYMBOLS"命令行选项。\[10\]
 2.  编译时使用"/FA\[c|s|u\]"编译选项，生成带有丰富注释信息的汇编源程序，其文件扩展名是.cod或者.asm，可以查看每个C/C++函数的修饰名字\[11\]。
-3.  在源程序中使用微软提供的预定义宏(Microsoft-Specific Predefined Macros)——*'
-    __FUNCDNAME__*'，例如：
+3.  在源程序中使用微软提供的预定义宏(Microsoft-Specific Predefined Macros)——*' __FUNCDNAME__*'，例如：
 
 <!-- end list -->
 
@@ -947,8 +858,7 @@ Undecoration of :- "??$name9@V0class1@@@@YAXVname9@class1@@@Z"
 is :- "void __cdecl name9<class class1::name9>(class class1::name9)"
 ```
 
-  - 使用Windows提供的系统调用UnDecorateSymbolName()\[12\]把修饰名字翻译为未修饰名字。UnDecorateSymbolName在DbgHelp.h或imagehlp.h中声明，在DbgHelp.dll中实现，需要使用导入库DbgHelp.lib。Windows
-    SDK中包含了DbgHelp.h与DbgHelp.lib。示例程序：
+  - 使用Windows提供的系统调用UnDecorateSymbolName()\[12\]把修饰名字翻译为未修饰名字。UnDecorateSymbolName在DbgHelp.h或imagehlp.h中声明，在DbgHelp.dll中实现，需要使用导入库DbgHelp.lib。Windows SDK中包含了DbgHelp.h与DbgHelp.lib。示例程序：
 
 <!-- end list -->
 
@@ -985,9 +895,7 @@ bool __cdecl apiname(unsigned char,unsigned char,char *)
 
 ### DLL输出的C++函数
 
-在Windows平台上，使用dllexport关键字直接输出C++函数时，DLL的用户看到的是修饰后的函数名字\[13\].
-如果不希望使用复杂的C++修饰后的函数名，替代办法是在DLL的.def文件中定义输出函数的别名，或者把函数声明为extern
-"C".
+在Windows平台上，使用dllexport关键字直接输出C++函数时，DLL的用户看到的是修饰后的函数名字\[13\]. 如果不希望使用复杂的C++修饰后的函数名，替代办法是在DLL的.def文件中定义输出函数的别名，或者把函数声明为extern "C".
 
 ### 在汇编源程序或者内联汇编中引用C/C++函数
 
@@ -999,34 +907,16 @@ bool __cdecl apiname(unsigned char,unsigned char,char *)
 
 [Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")
 
-1.  [微软MSDN的定义是:“A decorated name is a string created by the compiler
-    during compilation of the function definition or
-    prototype.”](http://msdn.microsoft.com/en-us/library/56h2zst2%28v=vs.100%29.aspx)
-2.  [微软MSDN的《Using Decorated Names》："You must specify the decorated name
-    of C++ functions that are overloaded ... ..., in order for LINK and
-    other tools to be able to match the name.
-    "](http://msdn.microsoft.com/en-us/library/t2k2877b)
-3.  [微软MSDN的《Format of a C++ Decorated
-    Name》](http://msdn.microsoft.com/en-us/library/2ax8kbk1)
-4.  [微软MSDN的《Using Decorated Names》："You must also use decorated names
-    in assembly source files that reference a C or C++ function
-    name."](http://msdn.microsoft.com/en-us/library/t2k2877b)
-5.  [微软MSDN的《Format of a C Decorated
-    Name》](http://msdn.microsoft.com/en-us/library/x7kb4e2f)
+1.  [微软MSDN的定义是:“A decorated name is a string created by the compiler during compilation of the function definition or prototype.”](http://msdn.microsoft.com/en-us/library/56h2zst2%28v=vs.100%29.aspx)
+2.  [微软MSDN的《Using Decorated Names》："You must specify the decorated name of C++ functions that are overloaded ... ..., in order for LINK and other tools to be able to match the name. "](http://msdn.microsoft.com/en-us/library/t2k2877b)
+3.  [微软MSDN的《Format of a C++ Decorated Name》](http://msdn.microsoft.com/en-us/library/2ax8kbk1)
+4.  [微软MSDN的《Using Decorated Names》："You must also use decorated names in assembly source files that reference a C or C++ function name."](http://msdn.microsoft.com/en-us/library/t2k2877b)
+5.  [微软MSDN的《Format of a C Decorated Name》](http://msdn.microsoft.com/en-us/library/x7kb4e2f)
 6.  参见VC++ Compiler Warning C4290
-7.  [Calling conventions for different C++
-    compilers](http://www.agner.org/optimize/calling_conventions.pdf)
-    pp29："This code is replaced by Q1@ for member pointers and member
-    function pointers, regardless of storage class."
-8.  参见[:en:Thunk (object-oriented
-    programming)](https://zh.wikipedia.org/wiki/:en:Thunk_\(object-oriented_programming\) "wikilink")
-9.  [微软MSDN的《Viewing Decorated
-    Names》](http://msdn.microsoft.com/en-us/library/5x49w699)
-10. [微软MSDN的《Using DUMPBIN to View Decorated
-    Names》](http://msdn.microsoft.com/en-us/library/b06ww5dd)
-11. [微软MSDN的《Using a Listing to View Decorated
-    Names》](http://msdn.microsoft.com/en-us/library/bw3h504y)
-12. [MSDN的帮助文章《UnDecorateSymbolName
-    function》](https://msdn.microsoft.com/zh-cn/subscriptions/securedownloads/ms681400.aspx)
-13. [微软的MSDN关于"dllexport,
-    dllimport"的帮助文章](http://msdn.microsoft.com/zh-cn/library/3y1sfaz2%28v=vs.100%29.aspx)
+7.  [Calling conventions for different C++ compilers](http://www.agner.org/optimize/calling_conventions.pdf) pp29："This code is replaced by Q1@ for member pointers and member function pointers, regardless of storage class."
+8.  参见[:en:Thunk (object-oriented programming)](https://zh.wikipedia.org/wiki/:en:Thunk_\(object-oriented_programming\) "wikilink")
+9.  [微软MSDN的《Viewing Decorated Names》](http://msdn.microsoft.com/en-us/library/5x49w699)
+10. [微软MSDN的《Using DUMPBIN to View Decorated Names》](http://msdn.microsoft.com/en-us/library/b06ww5dd)
+11. [微软MSDN的《Using a Listing to View Decorated Names》](http://msdn.microsoft.com/en-us/library/bw3h504y)
+12. [MSDN的帮助文章《UnDecorateSymbolName function》](https://msdn.microsoft.com/zh-cn/subscriptions/securedownloads/ms681400.aspx)
+13. [微软的MSDN关于"dllexport, dllimport"的帮助文章](http://msdn.microsoft.com/zh-cn/library/3y1sfaz2%28v=vs.100%29.aspx)

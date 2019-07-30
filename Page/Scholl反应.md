@@ -7,8 +7,7 @@
 
 常用的反应试剂有[氯化铁](../Page/氯化铁.md "wikilink")-[二氯甲烷](../Page/二氯甲烷.md "wikilink")；[氯化铜](../Page/氯化铜.md "wikilink")、[(双(三氟乙酰氧基)碘)苯和](https://zh.wikipedia.org/wiki/\(双\(三氟乙酰氧基\)碘\)苯 "wikilink")[三氟化硼](../Page/三氟化硼.md "wikilink")醚络合物在[二氯甲烷](../Page/二氯甲烷.md "wikilink")中的溶液，以及[五氯化钼](../Page/五氯化钼.md "wikilink")和[四乙酸铅](../Page/四乙酸铅.md "wikilink")与三氟化硼在[乙腈](../Page/乙腈.md "wikilink")中的溶液。\[3\]
 
-反应所需温度较高，亦需要强酸性催化剂，因此反应产率一般较低，应用很少。分子内的 Scholl
-反应效果较分子间反应效果为好，例如下图中9-苯基[芴](../Page/芴.md "wikilink")的制取：
+反应所需温度较高，亦需要强酸性催化剂，因此反应产率一般较低，应用很少。分子内的 Scholl 反应效果较分子间反应效果为好，例如下图中9-苯基[芴](../Page/芴.md "wikilink")的制取：
 
 
 [Schollvb.png](https://zh.wikipedia.org/wiki/File:Schollvb.png "fig:Schollvb.png")
@@ -41,30 +40,17 @@
 
 ## 参考资料
 
-[Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 
-2.  M B Smith, J March. *March's Advanced Organic Chemistry* (Wiley,
-    2001) (ISBN 0-471-58589-0)
+2.  M B Smith, J March. *March's Advanced Organic Chemistry* (Wiley, 2001) (ISBN 0-471-58589-0)
 
-3.  *Controlling the Scholl Reaction* Benjamin T. King, Jií Kroulík,
-    Charles R. Robertson, Pawel Rempala, Cameron L. Hilton, Justin D.
-    Korinek, and Lisa M. Gortari [J. Org.
-    Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink");
-    **2007**; 72(7) pp 2279 - 2288; (Article)
+3.  *Controlling the Scholl Reaction* Benjamin T. King, Jií Kroulík, Charles R. Robertson, Pawel Rempala, Cameron L. Hilton, Justin D. Korinek, and Lisa M. Gortari [J. Org. Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink"); **2007**; 72(7) pp 2279 - 2288; (Article)
 
-4.  Vingiello, F. A.; Yanez, J.; Campbell, J. A. *[J. Org.
-    Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink")*
-    **1971**, *36*, 2053-2056. ()
+4.  Vingiello, F. A.; Yanez, J.; Campbell, J. A. *[J. Org. Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink")* **1971**, *36*, 2053-2056. ()
 
-5.  *Nanosized Molecular Propellers by Cyclodehydrogenation of
-    Polyphenylene Dendrimers* Christopher D. Simpson, Gunter
-    Mattersteig, Kai Martin, Lileta Gherghel, Roland E. Bauer, Hans
-    Joachim Räder, and Klaus Müllen [J. Am. Chem.
-    Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink");
-    **2004**; 126(10) pp 3139 - 3147; (Article)
+5.  *Nanosized Molecular Propellers by Cyclodehydrogenation of Polyphenylene Dendrimers* Christopher D. Simpson, Gunter Mattersteig, Kai Martin, Lileta Gherghel, Roland E. Bauer, Hans Joachim Räder, and Klaus Müllen [J. Am. Chem. Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink"); **2004**; 126(10) pp 3139 - 3147; (Article)
 
 6.
 7.

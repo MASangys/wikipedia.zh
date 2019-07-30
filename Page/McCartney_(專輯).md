@@ -22,8 +22,7 @@
 ## 音樂
 
   - [The Lovely Linda](http://www.youtube.com/watch?v=Jj2wU88VUOo)
-  - [That Would Be
-    Something](http://www.youtube.com/watch?v=Y1yaIQP279k)
+  - [That Would Be Something](http://www.youtube.com/watch?v=Y1yaIQP279k)
   - [Valentine Day](http://www.youtube.com/watch?v=FtFXdGyekoU)
   - [Every Night](http://www.youtube.com/watch?v=dfS0X4rfX6k)
   - [Hot as Sun/Glasses](http://www.youtube.com/watch?v=ThAZ_98BE_A)
@@ -43,10 +42,4 @@
 | [Maybe I'm Amazed](http://www.youtube.com/watch?v=cm2YyVZBL8U) | Charlie Jenkins | 1970年 | [BBC](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink") |
 |                                                                |                 |       |                                                        |
 
-[Category:1970年音樂專輯](https://zh.wikipedia.org/wiki/Category:1970年音樂專輯 "wikilink")
-[Category:保羅·麥卡尼音樂專輯](https://zh.wikipedia.org/wiki/Category:保羅·麥卡尼音樂專輯 "wikilink")
-[Category:英國音樂專輯](https://zh.wikipedia.org/wiki/Category:英國音樂專輯 "wikilink")
-[Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink")
-[Category:Apple_Records音乐专辑](https://zh.wikipedia.org/wiki/Category:Apple_Records音乐专辑 "wikilink")
-[Category:EMI_Records音乐专辑](https://zh.wikipedia.org/wiki/Category:EMI_Records音乐专辑 "wikilink")
-[Category:告示牌二百強專輯榜冠軍專輯](https://zh.wikipedia.org/wiki/Category:告示牌二百強專輯榜冠軍專輯 "wikilink")
+[Category:1970年音樂專輯](https://zh.wikipedia.org/wiki/Category:1970年音樂專輯 "wikilink") [Category:保羅·麥卡尼音樂專輯](https://zh.wikipedia.org/wiki/Category:保羅·麥卡尼音樂專輯 "wikilink") [Category:英國音樂專輯](https://zh.wikipedia.org/wiki/Category:英國音樂專輯 "wikilink") [Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink") [Category:Apple_Records音乐专辑](https://zh.wikipedia.org/wiki/Category:Apple_Records音乐专辑 "wikilink") [Category:EMI_Records音乐专辑](https://zh.wikipedia.org/wiki/Category:EMI_Records音乐专辑 "wikilink") [Category:告示牌二百強專輯榜冠軍專輯](https://zh.wikipedia.org/wiki/Category:告示牌二百強專輯榜冠軍專輯 "wikilink")

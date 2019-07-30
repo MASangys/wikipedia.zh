@@ -1,5 +1,4 @@
-《**爆TECH\!爆丸**》（），是一套於2012年2月，開始在[日本登載的](../Page/日本.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。於2012年4月改編成3DCG動畫影集，附屬於教育節目[早安競技場](../Page/早安競技場.md "wikilink")（）之下。動畫於第51集以後，更名為《**爆TECH\!爆丸
-激撞**》，集數重新由第1集計算，但故事實際上只是《爆TECH\!爆丸》的直接延續。
+《**爆TECH\!爆丸**》（），是一套於2012年2月，開始在[日本](../Page/日本.md "wikilink")登載的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。於2012年4月改編成3DCG動畫影集，附屬於教育節目[早安競技場](../Page/早安競技場.md "wikilink")（）之下。動畫於第51集以後，更名為《**爆TECH\!爆丸 激撞**》，集數重新由第1集計算，但故事實際上只是《爆TECH\!爆丸》的直接延續。
 
 ## 故事概要
 
@@ -107,7 +106,7 @@
 <!-- end list -->
 
   -
-    襲擊春晴等人的謎之人物，闇屬性爆丸戰士。擁有着壓倒性的實力，僅憑一人之力已可輕易打敗來智及獅鷲兄弟三人(於動畫為獅鷲兄弟二人)。雖常以右手射擊，但[利手實際上是左手](../Page/利手.md "wikilink")。
+    襲擊春晴等人的謎之人物，闇屬性爆丸戰士。擁有着壓倒性的實力，僅憑一人之力已可輕易打敗來智及獅鷲兄弟三人(於動畫為獅鷲兄弟二人)。雖常以右手射擊，但[利手](../Page/利手.md "wikilink")實際上是左手。
     **配音**：高橋英則（日本）
     **常用爆丸**：帝魔羽蛇、骸骨死神、三頭滅龍、霸道鋼麟 (被其附身時)
     **必殺技**：爆TECH邪惡暴風、爆TECH邪惡衝擊、爆TECH邪惡挾擊、爆TECH邪惡回投
@@ -1264,16 +1263,8 @@
   - [爆丸 BAKUGAN](http://www.bakugan.jp/)
   - [「爆TECH！爆丸」アニメ公式サイト](https://web.archive.org/web/20170505215718/http://www.shopro.co.jp/tv/baku-tech/)
   - [テレビ東京・あにてれ　爆TECH！爆丸](http://www.tv-tokyo.co.jp/anime/baku-tech/)
-  - [Bakugan Wiki: BakuTech\!
-    Bakugan](http://bakugan.wikia.com/wiki/BakuTech!_Bakugan)
+  - [Bakugan Wiki: BakuTech\! Bakugan](http://bakugan.wikia.com/wiki/BakuTech!_Bakugan)
 
-[en:List of BakuTech\! Bakugan
-episodes](https://zh.wikipedia.org/wiki/en:List_of_BakuTech!_Bakugan_episodes "wikilink")
+[en:List of BakuTech\! Bakugan episodes](https://zh.wikipedia.org/wiki/en:List_of_BakuTech!_Bakugan_episodes "wikilink")
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")
-[Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink")
-[Category:爆丸](https://zh.wikipedia.org/wiki/Category:爆丸 "wikilink")
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
-[Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink")
-[Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink") [Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink") [Category:爆丸](https://zh.wikipedia.org/wiki/Category:爆丸 "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink") [Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")

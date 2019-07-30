@@ -18,10 +18,8 @@
 ## 语言
 
   - 英语中的一个[连词](https://zh.wikipedia.org/wiki/连词 "wikilink")，意为**“或”**。
-  - **[Or
-    (字母)](https://zh.wikipedia.org/wiki/Or_\(字母\) "wikilink")**，在[台语等语言中使用的](https://zh.wikipedia.org/wiki/台语 "wikilink")[二合字母](../Page/二合字母.md "wikilink")。
-  - **[奥里亚语](../Page/奥里亚语.md "wikilink")**在[ISO
-    639-1中的语言代码](../Page/ISO_639-1.md "wikilink")。
+  - **[Or (字母)](https://zh.wikipedia.org/wiki/Or_\(字母\) "wikilink")**，在[台语等语言中使用的](https://zh.wikipedia.org/wiki/台语 "wikilink")[二合字母](../Page/二合字母.md "wikilink")。
+  - **[奥里亚语](../Page/奥里亚语.md "wikilink")**在[ISO 639-1中的语言代码](../Page/ISO_639-1.md "wikilink")。
 
 ## 音乐
 
@@ -41,7 +39,7 @@
   - **[奥运会纪录](https://zh.wikipedia.org/wiki/奥运会纪录 "wikilink")**（），即出现在[奥运会上的最好成绩](https://zh.wikipedia.org/wiki/奥运会 "wikilink")。
   - **[手术室](https://zh.wikipedia.org/wiki/手术室 "wikilink")**（），医院中提供无菌环境以实施手术的处所。
   - ****，统计学中的一种影响大小的量度。
-  - ****（），[英格兰及](../Page/英格兰.md "wikilink")[威尔士的一种职位](https://zh.wikipedia.org/wiki/威尔士 "wikilink")。
+  - ****（），[英格兰](../Page/英格兰.md "wikilink")及[威尔士的一种职位](https://zh.wikipedia.org/wiki/威尔士 "wikilink")。
   - ****，指使用金色或黄色的。
   - ****，2008年成立的以色列政党。
 

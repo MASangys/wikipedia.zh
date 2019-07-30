@@ -20,8 +20,7 @@
   - [喜欢所以喜欢](https://zh.wikipedia.org/wiki/喜欢所以喜欢 "wikilink")（2005年）
   - [Canvas2](../Page/Canvas2.md "wikilink")～彩虹色的图画～（2005年）
   - [魔法人力派遣公司](../Page/魔法人力派遣公司.md "wikilink")（2007年）
-  - [H<sub>2</sub>O -FOOTPRINTS IN THE
-    SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")（2008年）
+  - [H<sub>2</sub>O -FOOTPRINTS IN THE SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")（2008年）
   - [我家有个狐仙大人](https://zh.wikipedia.org/wiki/我家有个狐仙大人 "wikilink")（2008年）
   - [钢壳都市雷吉欧斯](https://zh.wikipedia.org/wiki/钢壳都市雷吉欧斯 "wikilink")（2009年）
   - [海物语](https://zh.wikipedia.org/wiki/海物语 "wikilink")（2009年）
@@ -35,8 +34,7 @@
   - [守护猫娘绯鞠](https://zh.wikipedia.org/wiki/守护猫娘绯鞠 "wikilink")（2010年）
   - [青春CUP](../Page/青春CUP.md "wikilink")（2010年）
   - [傳說的勇者的傳說](../Page/傳說的勇者的傳說.md "wikilink")（2010年）
-  - [FORTUNE ARTERIAL
-    -紅色約定-](../Page/FORTUNE_ARTERIAL.md "wikilink")（2010年）
+  - [FORTUNE ARTERIAL -紅色約定-](../Page/FORTUNE_ARTERIAL.md "wikilink")（2010年）
   - [人家一點都不喜歡啦！](../Page/人家一點都不喜歡啦！.md "wikilink")（2011年）
   - [天魔黑兔](../Page/天魔黑兔.md "wikilink")（2011年）
   - [只要你說你愛我](https://zh.wikipedia.org/wiki/只要你說你愛我 "wikilink")（2012年）
@@ -44,16 +42,14 @@
   - [惡之華](../Page/惡之華_\(2009年漫畫\).md "wikilink")（2013年）
   - [魔鬼戀人](../Page/魔鬼戀人.md "wikilink")（2013年）
   - [漫畫家和助手](https://zh.wikipedia.org/wiki/漫畫家和助手 "wikilink")（2014年）
-  - [少年好萊塢 -HOLLY STAGE FOR
-    49-](https://zh.wikipedia.org/wiki/少年好萊塢 "wikilink")（2014年）
+  - [少年好萊塢 -HOLLY STAGE FOR 49-](https://zh.wikipedia.org/wiki/少年好萊塢 "wikilink")（2014年）
   - [Lady 寶石寵物](../Page/Lady_寶石寵物.md "wikilink")（2014年－2015年）
   - 少年好萊塢 -HOLLY STAGE FOR 50-（2015年）
   - 魔鬼戀人MORE, BLOOD（2015年）
   - [血型小將ABO 3](../Page/血型小將ABO.md "wikilink")（2015年）
   - 血型小將ABO 4（2016年）
   - [啟航吧！編舟計畫](https://zh.wikipedia.org/wiki/啟航吧！編舟計畫 "wikilink")（2016年）
-  - [Frame Arms Girl
-    骨裝機娘](https://zh.wikipedia.org/wiki/Frame_Arms_Girl_骨裝機娘 "wikilink")（2017年）
+  - [Frame Arms Girl 骨裝機娘](https://zh.wikipedia.org/wiki/Frame_Arms_Girl_骨裝機娘 "wikilink")（2017年）
   - [和風喫茶鹿楓堂](../Page/和風喫茶鹿楓堂.md "wikilink")（2018年）
 
 ### OVA
@@ -76,8 +72,4 @@
   - [ZECXS公式官方網站](http://www.zexcs.co.jp/)
 
   -
-[Category:1998年成立的公司](https://zh.wikipedia.org/wiki/Category:1998年成立的公司 "wikilink")
-[Category:ZEXCS](https://zh.wikipedia.org/wiki/Category:ZEXCS "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink")
-[Category:三鷹市](https://zh.wikipedia.org/wiki/Category:三鷹市 "wikilink")
+[Category:1998年成立的公司](https://zh.wikipedia.org/wiki/Category:1998年成立的公司 "wikilink") [Category:ZEXCS](https://zh.wikipedia.org/wiki/Category:ZEXCS "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:三鷹市](https://zh.wikipedia.org/wiki/Category:三鷹市 "wikilink")

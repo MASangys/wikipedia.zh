@@ -1,20 +1,11 @@
-《**你好 安妮 ～Before Green
-Gables**》（又稱作《**清秀佳人前傳**》）為[日本動畫公司](../Page/日本動畫公司.md "wikilink")製作的[<font color=orange>〈世界名作劇場〉</font>系列第](../Page/世界名作劇場.md "wikilink")26部也是最後一部的動畫作品，改編自[加拿大](../Page/加拿大.md "wikilink")作家[白琪·威爾遜](../Page/白琪·威爾遜.md "wikilink")的作品《[你好
-安妮](https://zh.wikipedia.org/wiki/你好_安妮 "wikilink")》（*Before Green
-Gables*）。自2009年4月5日播至同年2009年12月27日，全39話。
+《**你好 安妮 ～Before Green Gables**》（又稱作《**清秀佳人前傳**》）為[日本動畫公司](../Page/日本動畫公司.md "wikilink")製作的[<font color=orange>〈世界名作劇場〉</font>系列第](../Page/世界名作劇場.md "wikilink")26部也是最後一部的動畫作品，改編自[加拿大](../Page/加拿大.md "wikilink")作家[白琪·威爾遜](../Page/白琪·威爾遜.md "wikilink")的作品《[你好 安妮](https://zh.wikipedia.org/wiki/你好_安妮 "wikilink")》（*Before Green Gables*）。自2009年4月5日播至同年2009年12月27日，全39話。
 
 ## 概要
 
-  - 原作是[加拿大](../Page/加拿大.md "wikilink")的女性[兒童文學作家](https://zh.wikipedia.org/wiki/兒童文學 "wikilink")[白琪·威爾遜](../Page/白琪·威爾遜.md "wikilink")的『[Before
-    Green
-    Gables](https://zh.wikipedia.org/wiki/:en:Before_Green_Gables "wikilink")』。日語「こんにちは
-    アン」『你好 安妮』（宇佐川晶子翻譯）。主角是沒有爸爸和媽媽的安妮・雪利，在被馬修與瑪麗拉兄妹收養前11年間的總總故事。
+  - 原作是[加拿大](../Page/加拿大.md "wikilink")的女性[兒童文學作家](https://zh.wikipedia.org/wiki/兒童文學 "wikilink")[白琪·威爾遜](../Page/白琪·威爾遜.md "wikilink")的『[Before Green Gables](https://zh.wikipedia.org/wiki/:en:Before_Green_Gables "wikilink")』。日語「こんにちは アン」『你好 安妮』（宇佐川晶子翻譯）。主角是沒有爸爸和媽媽的安妮・雪利，在被馬修與瑪麗拉兄妹收養前11年間的總總故事。
   - 本作品是，小說「紅髮安妮」（[清秀佳人](../Page/清秀佳人.md "wikilink")）誕生100周年與動畫「[紅髮安妮](https://zh.wikipedia.org/wiki/紅髮安妮_\(動畫\) "wikilink")」播映30周年的紀念而播映的。「[波菲的漫長旅程](../Page/波菲的漫長旅程.md "wikilink")」最終回播映的預告，是之前擔任安妮的配音員[山田榮子](../Page/山田榮子.md "wikilink")來擔任旁白。
-  - 標題中的「Before Green
-    Gables」的意思為「綠色莊園之前」、「綠色屋頂之家之前」或「綠色山牆之前」，有如此眾多的譯法，而動畫標題常用的為「Before
-    Green Gables」，正式標題為「你好 安妮 ～Before Green Gables」。
-  - 由於此作是「紅髮安妮」『赤毛のアン』，也就是「清秀佳人」，在這小說誕生後100周年時，由同是加拿大作家的白琪･威爾遜女士接手，描述安妮・雪利在11歲前所發生的過去，可說是安妮到綠色莊園之前的前傳式的敘述故事，因此也有人稱為**清秀佳人前傳**，可算是其系列的一部份，但這部動畫常用的簡稱譯名為**你好
-    安妮**「こんにちは アン」『Hello！Anne』。
+  - 標題中的「Before Green Gables」的意思為「綠色莊園之前」、「綠色屋頂之家之前」或「綠色山牆之前」，有如此眾多的譯法，而動畫標題常用的為「Before Green Gables」，正式標題為「你好 安妮 ～Before Green Gables」。
+  - 由於此作是「紅髮安妮」『赤毛のアン』，也就是「清秀佳人」，在這小說誕生後100周年時，由同是加拿大作家的白琪･威爾遜女士接手，描述安妮・雪利在11歲前所發生的過去，可說是安妮到綠色莊園之前的前傳式的敘述故事，因此也有人稱為**清秀佳人前傳**，可算是其系列的一部份，但這部動畫常用的簡稱譯名為**你好 安妮**「こんにちは アン」『Hello！Anne』。
 
 ## 故事
 
@@ -461,8 +452,7 @@ Gables*）。自2009年4月5日播至同年2009年12月27日，全39話。
   -
     愛德娜的母親美雅麗做給愛德娜的洋娃娃。愛德娜一個人的時候，她都會到倉庫裡，拿出藏在裡面的它，和它說說話。
   -
-    本故事的解說員。擔任解說故事與下集預告的部分。
-    此外還有在第1話至第26話的[過場畫面的時候](https://zh.wikipedia.org/wiki/過場_\(動畫\) "wikilink")，呼叫安妮的全名。
+    本故事的解說員。擔任解說故事與下集預告的部分。 此外還有在第1話至第26話的[過場畫面的時候](https://zh.wikipedia.org/wiki/過場_\(動畫\) "wikilink")，呼叫安妮的全名。
 
 ## 著名作家與其動畫中的故事
 
@@ -959,15 +949,12 @@ Gables*）。自2009年4月5日播至同年2009年12月27日，全39話。
 
   - 公司所提供的[好侍食品](../Page/好侍食品.md "wikilink")如今再次複數打廣告(好侍食品與[SECOM](../Page/SECOM.md "wikilink"))兩所公司、從第27話追加第3個公司[萬代](../Page/萬代.md "wikilink")。為此，在標題的「世界名作劇場」上，沒有提名上好侍食品的字樣。
   - 從復活作到前作為止，除了CM外，其副標題是不被唸的，這是名作劇場系列復活後第一次由擔任旁白的[池田昌子](../Page/池田昌子.md "wikilink")來宣讀。還有現在為止的BGM的[過場上](https://zh.wikipedia.org/wiki/過場_\(動畫\) "wikilink")，旁白呼叫安妮的名字，而安妮使用「是」來回答的形式。
-      - 自10月4日後播映時(第27話)開始是以[SHINZI
-        KATOH所設計的過場畫面而變更](https://zh.wikipedia.org/wiki/SHINZI_KATOH "wikilink")。
+      - 自10月4日後播映時(第27話)開始是以[SHINZI KATOH所設計的過場畫面而變更](https://zh.wikipedia.org/wiki/SHINZI_KATOH "wikilink")。
   - 從OP還有次回預告後打的廣告畫面，每週都表現的不一樣，不過(每話結束後的期待畫面都是固定的)。
 
 ## 外部連結
 
-  - [世界名作劇場 你好 安妮 ～Before Green
-    Gables(日本官網)](http://www.nippon-animation.co.jp/before_GG/)
+  - [世界名作劇場 你好 安妮 ～Before Green Gables(日本官網)](http://www.nippon-animation.co.jp/before_GG/)
 
   -
-[Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink")
-[Category:世界名作劇場](https://zh.wikipedia.org/wiki/Category:世界名作劇場 "wikilink")
+[Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink") [Category:世界名作劇場](https://zh.wikipedia.org/wiki/Category:世界名作劇場 "wikilink")

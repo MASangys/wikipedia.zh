@@ -1,16 +1,11 @@
-《**4
-TIMES**》（肆情時刻）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2011年8月17日發行的紀念性50th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。為2011第2張單曲。
+《**4 TIMES**》（肆情時刻）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2011年8月17日發行的紀念性50th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。為2011第2張單曲。
 
 ## 解說
 
   - 與上張單曲《[POP DIVA](../Page/POP_DIVA.md "wikilink")》相隔約6個月的單曲。
-  - 單曲的概念來自於一日間的四個時段，在單曲收錄的歌曲中一一展現，有代表正午熱情的〈Poppin' love cocktail
-    feat.TEEDA（烈愛雞尾酒）〉、黃昏抒情的〈IN THE
-    AIR〉、午夜禁忌的〈V.I.P.〉、深夜4點情熱的的〈KO-SO-KO-SO（魅惑心機）
-    〉，且分別以間奏銜接，是張概念明確的單曲。
+  - 單曲的概念來自於一日間的四個時段，在單曲收錄的歌曲中一一展現，有代表正午熱情的〈Poppin' love cocktail feat.TEEDA（烈愛雞尾酒）〉、黃昏抒情的〈IN THE AIR〉、午夜禁忌的〈V.I.P.〉、深夜4點情熱的的〈KO-SO-KO-SO（魅惑心機） 〉，且分別以間奏銜接，是張概念明確的單曲。
   - 為了紀念第50張單曲推出了4種發行型態，且4曲皆附有音樂錄影帶。
-  - 初回盤封入特典為《[KODA KUMI LIVE TOUR
-    2011～Dejavu～](https://zh.wikipedia.org/wiki/KODA_KUMI_LIVE_TOUR_2011～Dejavu～ "wikilink")》追加公演的先行預約紙、最前排位子應募券。
+  - 初回盤封入特典為《[KODA KUMI LIVE TOUR 2011～Dejavu～](https://zh.wikipedia.org/wiki/KODA_KUMI_LIVE_TOUR_2011～Dejavu～ "wikilink")》追加公演的先行預約紙、最前排位子應募券。
   - CD+倖田來未×Qlix 合作數位相機版本為「Qlix」品牌首次與藝人合作推出，需在7月20日前在mu-mo網路商店預約。
   - 凡下載或是持購買的單曲到日本知名居酒屋連鎖店「わん」，可以享受甜點半價以及飲料暢飲（日本限定）。
 
@@ -54,7 +49,7 @@ TIMES**》（肆情時刻）為[日本歌手](../Page/日本.md "wikilink")[倖�
         作詞/曲：Kumi Koda、Alan P Grigg、Kenichi Takemoto
         描寫AM4:00的床上風情、喘息交雜，遊走危險邊緣的衝擊性禁忌歌曲。帶著水乳交融、耳鬢廝磨般，如此魅惑氣息的歌曲。將有些微睡意的清晨，意亂情迷的偷偷摸摸情景呈現出來。
     <!-- end list -->
-      - [日本電視台連續劇](../Page/日本電視台.md "wikilink")〈ピースボート -Piece Vote-〉主題歌
+      - [日本電視台](../Page/日本電視台.md "wikilink")連續劇〈ピースボート -Piece Vote-〉主題歌
 
 ### DVD
 
@@ -75,7 +70,4 @@ TIMES**》（肆情時刻）為[日本歌手](../Page/日本.md "wikilink")[倖�
 
   - （日本官網）
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")
-[Category:日本電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇主題曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink") [Category:日本電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇主題曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")

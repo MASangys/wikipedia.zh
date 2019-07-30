@@ -1,25 +1,10 @@
 [OOoCalc22.png](https://zh.wikipedia.org/wiki/File:OOoCalc22.png "fig:OOoCalc22.png")
 
-**OpenOffice.org Calc**（又稱**OpenOffice
-Calc**，**OpenOffice試算表**或**OO.o試算表**）是[OpenOffice.org生產力軟體的項目之一](../Page/OpenOffice.org.md "wikilink")。是與[Microsoft
-Excel功能相當的試算表軟體](../Page/Microsoft_Excel.md "wikilink")，並可以開啟或儲存為[Microsoft
-Excel的檔案格式](../Page/Microsoft_Excel.md "wikilink")，也可存為[.pdf格式](https://zh.wikipedia.org/wiki/PDF "wikilink")，因為**OpenOffice.org試算表**是以[GNU發布](../Page/GNU.md "wikilink")，為[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，使用者可以免費下載，或自由散布。
+**OpenOffice.org Calc**（又稱**OpenOffice Calc**，**OpenOffice試算表**或**OO.o試算表**）是[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")生產力軟體的項目之一。是與[Microsoft Excel功能相當的試算表軟體](../Page/Microsoft_Excel.md "wikilink")，並可以開啟或儲存為[Microsoft Excel的檔案格式](../Page/Microsoft_Excel.md "wikilink")，也可存為[.pdf格式](https://zh.wikipedia.org/wiki/PDF "wikilink")，因為**OpenOffice.org試算表**是以[GNU](../Page/GNU.md "wikilink")發布，為[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，使用者可以免費下載，或自由散布。
 
-**OpenOffice.org試算表**通常會預設以[OpenDocument
-Format](https://zh.wikipedia.org/wiki/OpenDocument "wikilink")（ODF）的格式儲存。但也支援[CSV](https://zh.wikipedia.org/wiki/CSV "wikilink"),
-[HTML](../Page/HTML.md "wikilink"),
-[SXC](https://zh.wikipedia.org/wiki/OpenOffice.org_XML "wikilink"),
-[DBF](https://zh.wikipedia.org/wiki/dBase "wikilink"),
-[DIF](https://zh.wikipedia.org/wiki/Data_Interchange_Format "wikilink"),
-[UOF](https://zh.wikipedia.org/wiki/Uniform_Office_Format "wikilink"),
-[SLK](https://zh.wikipedia.org/wiki/SYmbolic_LinK_\(SYLK\) "wikilink"),
-[SDC等格式](../Page/StarOffice.md "wikilink")。\[1\]
+**OpenOffice.org試算表**通常會預設以[OpenDocument Format](https://zh.wikipedia.org/wiki/OpenDocument "wikilink")（ODF）的格式儲存。但也支援[CSV](https://zh.wikipedia.org/wiki/CSV "wikilink"), [HTML](../Page/HTML.md "wikilink"), [SXC](https://zh.wikipedia.org/wiki/OpenOffice.org_XML "wikilink"), [DBF](https://zh.wikipedia.org/wiki/dBase "wikilink"), [DIF](https://zh.wikipedia.org/wiki/Data_Interchange_Format "wikilink"), [UOF](https://zh.wikipedia.org/wiki/Uniform_Office_Format "wikilink"), [SLK](https://zh.wikipedia.org/wiki/SYmbolic_LinK_\(SYLK\) "wikilink"), [SDC等格式](../Page/StarOffice.md "wikilink")。\[1\]
 
-與其他Openoffice.org檔案一樣，「OpenOffice.org試算表」可跨平台運行。包含[Mac OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink"), [Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
-[Linux](../Page/Linux.md "wikilink"),
-[FreeBSD和](../Page/FreeBSD.md "wikilink")[Solaris等](../Page/Solaris.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
+與其他Openoffice.org檔案一樣，「OpenOffice.org試算表」可跨平台運行。包含[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink"), [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"), [Linux](../Page/Linux.md "wikilink"), [FreeBSD](../Page/FreeBSD.md "wikilink")和[Solaris](../Page/Solaris.md "wikilink")等[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
 ## 特色
 
@@ -44,20 +29,11 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
 
   - [Calc資訊網](http://www.openoffice.org/product/calc.html)
   - [OpenOffice.org試算表專案](http://sc.openoffice.org/)
-  - [Spreadsheet
-    FAQ](http://documentation.openoffice.org/faqs/spreadsheet/index.html)
-  - [Official OpenOffice Documentation Wiki. Select any of the Calc
-    sections](http://wiki.services.openoffice.org/wiki/Documentation/How_Tos)
-  - [Free lessons for OpenOffice.org
-    Calc](https://web.archive.org/web/20101123143138/http://www.openofficeschool.org/calc/)
-  - [CalcLink (a bi-directional link between Calc and
-    Mathematica)](https://web.archive.org/web/20110713191227/http://www.lauschkeconsulting.com/calclink.html)
+  - [Spreadsheet FAQ](http://documentation.openoffice.org/faqs/spreadsheet/index.html)
+  - [Official OpenOffice Documentation Wiki. Select any of the Calc sections](http://wiki.services.openoffice.org/wiki/Documentation/How_Tos)
+  - [Free lessons for OpenOffice.org Calc](https://web.archive.org/web/20101123143138/http://www.openofficeschool.org/calc/)
+  - [CalcLink (a bi-directional link between Calc and Mathematica)](https://web.archive.org/web/20110713191227/http://www.lauschkeconsulting.com/calclink.html)
 
-[Category:OpenOffice.org](https://zh.wikipedia.org/wiki/Category:OpenOffice.org "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:試算表軟體](https://zh.wikipedia.org/wiki/Category:試算表軟體 "wikilink")
-[Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink")
-[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
+[Category:OpenOffice.org](https://zh.wikipedia.org/wiki/Category:OpenOffice.org "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:試算表軟體](https://zh.wikipedia.org/wiki/Category:試算表軟體 "wikilink") [Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
 
-1.  [File formats OOo can open,
-    December 1, 2008](http://wiki.services.openoffice.org/wiki/Documentation/OOo3_User_Guides/Getting_Started/File_formats)
+1.  [File formats OOo can open, December 1, 2008](http://wiki.services.openoffice.org/wiki/Documentation/OOo3_User_Guides/Getting_Started/File_formats)

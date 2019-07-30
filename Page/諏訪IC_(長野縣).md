@@ -1,5 +1,4 @@
-[suwa_IC.JPG](https://zh.wikipedia.org/wiki/File:suwa_IC.JPG "fig:suwa_IC.JPG")
-**諏訪IC**（平假名：すわインターチェンジ）是位於[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[諏訪市的](../Page/諏訪市.md "wikilink")[中央自動車道之](https://zh.wikipedia.org/wiki/中央自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+[suwa_IC.JPG](https://zh.wikipedia.org/wiki/File:suwa_IC.JPG "fig:suwa_IC.JPG") **諏訪IC**（平假名：すわインターチェンジ）是位於[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[諏訪市](../Page/諏訪市.md "wikilink")的[中央自動車道之](https://zh.wikipedia.org/wiki/中央自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -15,8 +14,7 @@
 
 ## 歷史
 
-  - 1981年3月30日 -
-    [中央自動車道](https://zh.wikipedia.org/wiki/中央自動車道 "wikilink")[小淵澤IC至伊北](https://zh.wikipedia.org/wiki/小淵澤IC "wikilink")（辰野）臨時出入口開通，此交流道也同時啟用。
+  - 1981年3月30日 - [中央自動車道](https://zh.wikipedia.org/wiki/中央自動車道 "wikilink")[小淵澤IC至伊北](https://zh.wikipedia.org/wiki/小淵澤IC "wikilink")（辰野）臨時出入口開通，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -42,16 +40,7 @@
 ## 鄰近設施
 
   - [中央自動車道](https://zh.wikipedia.org/wiki/中央自動車道 "wikilink")
-    (19)[諏訪南IC](../Page/諏訪南IC.md "wikilink") -
-    [中央道原PA](https://zh.wikipedia.org/wiki/中央道原PA "wikilink") -
-    [茅野BS](https://zh.wikipedia.org/wiki/茅野巴士站 "wikilink") -
-    (20)**諏訪IC** -
-    [有賀BS](https://zh.wikipedia.org/wiki/有賀巴士站 "wikilink")
-    - [諏訪湖SA](https://zh.wikipedia.org/wiki/諏訪湖SA "wikilink") -
-    (21)[岡谷JCT](https://zh.wikipedia.org/wiki/岡谷JCT "wikilink") -
-    [川岸BS](https://zh.wikipedia.org/wiki/川岸巴士站 "wikilink") -
-    [辰野PA](https://zh.wikipedia.org/wiki/辰野PA "wikilink") -
-    (22)[伊北IC](https://zh.wikipedia.org/wiki/伊北IC "wikilink")
+    (19)[諏訪南IC](../Page/諏訪南IC.md "wikilink") - [中央道原PA](https://zh.wikipedia.org/wiki/中央道原PA "wikilink") - [茅野BS](https://zh.wikipedia.org/wiki/茅野巴士站 "wikilink") - (20)**諏訪IC** - [有賀BS](https://zh.wikipedia.org/wiki/有賀巴士站 "wikilink") - [諏訪湖SA](https://zh.wikipedia.org/wiki/諏訪湖SA "wikilink") - (21)[岡谷JCT](https://zh.wikipedia.org/wiki/岡谷JCT "wikilink") - [川岸BS](https://zh.wikipedia.org/wiki/川岸巴士站 "wikilink") - [辰野PA](https://zh.wikipedia.org/wiki/辰野PA "wikilink") - (22)[伊北IC](https://zh.wikipedia.org/wiki/伊北IC "wikilink")
 
 ## 相關條目
 
@@ -61,5 +50,4 @@
 
   - [中日本高速道路](http://www.c-nexco.co.jp/)
 
-[Category:日本交流道_Su](https://zh.wikipedia.org/wiki/Category:日本交流道_Su "wikilink")
-[Category:長野縣交流道](https://zh.wikipedia.org/wiki/Category:長野縣交流道 "wikilink")
+[Category:日本交流道_Su](https://zh.wikipedia.org/wiki/Category:日本交流道_Su "wikilink") [Category:長野縣交流道](https://zh.wikipedia.org/wiki/Category:長野縣交流道 "wikilink")

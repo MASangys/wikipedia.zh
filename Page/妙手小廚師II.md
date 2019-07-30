@@ -1,4 +1,4 @@
-《**妙手小廚師II**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[寺澤大介創作的](../Page/寺澤大介.md "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，是《[妙手小廚師](../Page/妙手小廚師.md "wikilink")》的續篇。於[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")《[EVENING](https://zh.wikipedia.org/wiki/EVENING "wikilink")》2003年12號開始連載，於2012年4號結束連載。單行本全13卷。
+《**妙手小廚師II**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[寺澤大介](../Page/寺澤大介.md "wikilink")創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，是《[妙手小廚師](../Page/妙手小廚師.md "wikilink")》的續篇。於[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")《[EVENING](https://zh.wikipedia.org/wiki/EVENING "wikilink")》2003年12號開始連載，於2012年4號結束連載。單行本全13卷。
 
 ## 故事簡介
 
@@ -122,10 +122,4 @@
 
 ## 參考資料
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:Evening](https://zh.wikipedia.org/wiki/Category:Evening "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:料理漫画](https://zh.wikipedia.org/wiki/Category:料理漫画 "wikilink")
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:Evening](https://zh.wikipedia.org/wiki/Category:Evening "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:料理漫画](https://zh.wikipedia.org/wiki/Category:料理漫画 "wikilink") [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")

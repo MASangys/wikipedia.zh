@@ -1,7 +1,4 @@
-**4shred Desktop**\[1\]\[2\]\[3\]
-是由[4shared针对](../Page/4shared.md "wikilink")[Microsoft
-Windows操作系统开发的一款免费软件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")([freeware](https://zh.wikipedia.org/wiki/freeware "wikilink"))下载/上载管理器。该软件的主要用于迅速访问
-4shared 帐户和管理服务用户的文件。
+**4shred Desktop**\[1\]\[2\]\[3\] 是由[4shared](../Page/4shared.md "wikilink")针对[Microsoft Windows操作系统开发的一款免费软件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")([freeware](https://zh.wikipedia.org/wiki/freeware "wikilink"))下载/上载管理器。该软件的主要用于迅速访问 4shared 帐户和管理服务用户的文件。
 
 ## 功能
 
@@ -10,7 +7,7 @@ Windows操作系统开发的一款免费软件](https://zh.wikipedia.org/wiki/Mi
   - 免费添加。
   - 恢复中断的下载/上载。
   - 支持拖放([Drag\&drop](https://zh.wikipedia.org/wiki/Drag&drop "wikilink"))。
-  - [PC与](../Page/PC.md "wikilink")[4shared帐户间](../Page/4shared.md "wikilink")[同步](https://zh.wikipedia.org/wiki/同步 "wikilink")\[4\]（目前在测试模式下工作）。
+  - [PC](../Page/PC.md "wikilink")与[4shared](../Page/4shared.md "wikilink")帐户间[同步](https://zh.wikipedia.org/wiki/同步 "wikilink")\[4\]（目前在测试模式下工作）。
   - 有空间指示器。
   - 有内部搜索功能。
   - 文件可以用密码保护。
@@ -35,31 +32,18 @@ Windows操作系统开发的一款免费软件](https://zh.wikipedia.org/wiki/Mi
 
   - [下载管理器列表](https://zh.wikipedia.org/wiki/下载管理器列表 "wikilink")
   - [下载管理器比较](https://zh.wikipedia.org/wiki/下载管理器比较 "wikilink")
-  - [Internet Download
-    Accelerator](https://zh.wikipedia.org/wiki/Internet_Download_Accelerator "wikilink")
-  - [Download
-    Master](https://zh.wikipedia.org/wiki/Download_Master "wikilink")
+  - [Internet Download Accelerator](https://zh.wikipedia.org/wiki/Internet_Download_Accelerator "wikilink")
+  - [Download Master](https://zh.wikipedia.org/wiki/Download_Master "wikilink")
 
 ## 参考资料
 
-[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
-[Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink")
+[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink")
 
-1.  [4shared Desktop Life in the Digital
-    Cloud](http://lifeinthedigitalcloud.blogspot.com/2010/03/4sharedcoms-desktop-application.html)上的评论
-2.  [4shared Desktop Tips And Tricks For
-    PC上的评论](http://tipsandtricksforpc.com/2010/06/4shared-desktop/)
-
-3.  [4shared Desktop
-    YouTube](http://www.youtube.com/watch?v=VxrUB_oQ8Ck)上的评论
-4.  [Life In the Digital
-    Cloud](http://lifeinthedigitalcloud.blogspot.com/2010/03/4shared-desktop-sync.html)上同步功能评论
-5.  [4shared Desktop 在 Software
-    Informer](http://4shared-desktop.software.informer.com/)上的评论
-6.  \[<http://www.softpedia.com/progViewOpinions/4shared-Desktop-164755>,.html
-    4shared Desktop 在 Softpedia\]上的用户评论
-7.  [4shared
-    Desktop在Duncsweb.com上的评论](http://duncsweb.com/2010/04/26/4shared-desktop-manage-your-4shared-account-on-your-windows-desktop/)
-
-8.  [4shared Desktop 在 Software
-    Informer上获奖](http://4shared-desktop.software.informer.com/awards/)
+1.  [4shared Desktop Life in the Digital Cloud](http://lifeinthedigitalcloud.blogspot.com/2010/03/4sharedcoms-desktop-application.html)上的评论
+2.  [4shared Desktop Tips And Tricks For PC上的评论](http://tipsandtricksforpc.com/2010/06/4shared-desktop/)
+3.  [4shared Desktop YouTube](http://www.youtube.com/watch?v=VxrUB_oQ8Ck)上的评论
+4.  [Life In the Digital Cloud](http://lifeinthedigitalcloud.blogspot.com/2010/03/4shared-desktop-sync.html)上同步功能评论
+5.  [4shared Desktop 在 Software Informer](http://4shared-desktop.software.informer.com/)上的评论
+6.  \[<http://www.softpedia.com/progViewOpinions/4shared-Desktop-164755>,.html 4shared Desktop 在 Softpedia\]上的用户评论
+7.  [4shared Desktop在Duncsweb.com上的评论](http://duncsweb.com/2010/04/26/4shared-desktop-manage-your-4shared-account-on-your-windows-desktop/)
+8.  [4shared Desktop 在 Software Informer上获奖](http://4shared-desktop.software.informer.com/awards/)

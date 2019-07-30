@@ -2,14 +2,11 @@
 
 ## 專輯簡介
 
-[伍佰\&China
-Blue的](../Page/伍佰.md "wikilink")[貝斯手朱劍輝成立唱片公司](../Page/電貝斯.md "wikilink")[有凰音樂](https://zh.wikipedia.org/wiki/有凰音樂 "wikilink")，簽下[胡德夫](../Page/胡德夫.md "wikilink")、[MATZKA樂團等歌手](https://zh.wikipedia.org/wiki/MATZKA樂團 "wikilink")\[1\]。本專輯是有凰音樂發行的首張唱片，由朱劍輝與同屬伍佰\&China
-Blue的[鍵盤手余紀墉擔任製作人](https://zh.wikipedia.org/wiki/鍵盤_\(樂器\) "wikilink")。
+[伍佰 Blue的](../Page/伍佰.md "wikilink")\&China[貝斯手朱劍輝成立唱片公司](../Page/電貝斯.md "wikilink")[有凰音樂](https://zh.wikipedia.org/wiki/有凰音樂 "wikilink")，簽下[胡德夫](../Page/胡德夫.md "wikilink")、[MATZKA樂團等歌手](https://zh.wikipedia.org/wiki/MATZKA樂團 "wikilink")\[1\]。本專輯是有凰音樂發行的首張唱片，由朱劍輝與同屬伍佰\&China Blue的[鍵盤手余紀墉擔任製作人](https://zh.wikipedia.org/wiki/鍵盤_\(樂器\) "wikilink")。
 
-本專輯的詞曲、編曲大多由主唱Matzka（宋唯農）包辦，融合原住民歌謠、[雷鬼](https://zh.wikipedia.org/wiki/雷鬼 "wikilink")、[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、[嘻哈等](../Page/嘻哈.md "wikilink")，或稱之為「台式雷鬼」。詼諧戲謔的歌詞背後，反映Matzka所見所聞的社會現象，例如《No
-K》點出原住民文化流失的問題，《台東帥哥》暗喻原住民北上在都市遭到的歧視，《兔崽子》則述說外省老兵與原住民女子通婚、定居部落的一段歷史。\[2\]
+本專輯的詞曲、編曲大多由主唱Matzka（宋唯農）包辦，融合原住民歌謠、[雷鬼](https://zh.wikipedia.org/wiki/雷鬼 "wikilink")、[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、[嘻哈](../Page/嘻哈.md "wikilink")等，或稱之為「台式雷鬼」。詼諧戲謔的歌詞背後，反映Matzka所見所聞的社會現象，例如《No K》點出原住民文化流失的問題，《台東帥哥》暗喻原住民北上在都市遭到的歧視，《兔崽子》則述說外省老兵與原住民女子通婚、定居部落的一段歷史。\[2\]
 
-專輯包裝由[蕭青陽工作室設計](../Page/蕭青陽.md "wikilink")，採三層紙盒組合而成，盒面以紙雕鏤空，呈現MATZKA團名六個字母，字體設計參考[排灣族文化中的](../Page/排灣族.md "wikilink")[百步蛇](https://zh.wikipedia.org/wiki/百步蛇 "wikilink")、獵刀等元素。
+專輯包裝由[蕭青陽](../Page/蕭青陽.md "wikilink")工作室設計，採三層紙盒組合而成，盒面以紙雕鏤空，呈現MATZKA團名六個字母，字體設計參考[排灣族](../Page/排灣族.md "wikilink")文化中的[百步蛇](https://zh.wikipedia.org/wiki/百步蛇 "wikilink")、獵刀等元素。
 
 ## 曲目
 
@@ -167,9 +164,7 @@ K》點出原住民文化流失的問題，《台東帥哥》暗喻原住民北�
 
 </references>
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.
 2.
@@ -181,36 +176,23 @@ K》點出原住民文化流失的問題，《台東帥哥》暗喻原住民北�
 8.
 9.
     〈東海岸的雷鬼 MATZKA〉，[壹週刊](../Page/壹週刊_\(台灣\).md "wikilink")530期
-    劉美妤，[〈原音的雷鬼樂新衣──專訪MATZKA樂團〉](http://pots.tw/node/8985)
-    ，[破報復刊](../Page/破報.md "wikilink")671期
-    [李昂](../Page/李昂_\(作家\).md "wikilink")，[〈未被馴服的力量──從賽德克.巴萊到Matzka〉](http://news.chinatimes.com/Chinatimes/Philology/Philology-Coffee/0,3406,112011092700517+11051301+20110927+news,00.html)
-    ，中時藝文，2011年9月27日
+    劉美妤，[〈原音的雷鬼樂新衣──專訪MATZKA樂團〉](http://pots.tw/node/8985) ，[破報](../Page/破報.md "wikilink")復刊671期
+    [李昂](../Page/李昂_\(作家\).md "wikilink")，[〈未被馴服的力量──從賽德克.巴萊到Matzka〉](http://news.chinatimes.com/Chinatimes/Philology/Philology-Coffee/0,3406,112011092700517+11051301+20110927+news,00.html) ，中時藝文，2011年9月27日
 
-10. 〈回聲4人 全職玩音樂 伍佰貝斯手
-    簽下胡德夫〉，[聯合報](https://zh.wikipedia.org/wiki/聯合報 "wikilink")，2011年3月10日
+10. 〈回聲4人 全職玩音樂 伍佰貝斯手 簽下胡德夫〉，[聯合報](https://zh.wikipedia.org/wiki/聯合報 "wikilink")，2011年3月10日
 
-11. [〈2008年臺灣原創流行音樂大獎得獎名單〉](http://info.gio.gov.tw/ct.asp?xItem=71797&ctNode=5051&mp=3)
-    ，[行政院新聞局](../Page/行政院新聞局.md "wikilink")
+11. [〈2008年臺灣原創流行音樂大獎得獎名單〉](http://info.gio.gov.tw/ct.asp?xItem=71797&ctNode=5051&mp=3) ，[行政院新聞局](../Page/行政院新聞局.md "wikilink")
 
-12. [〈2010
-    年度《十大專輯暨單曲》得獎名單〉](http://www.musicman.org.tw/musicman/enews_detail.php?type=event&news_no=160)，中華音樂人交流協會
+12. [〈2010 年度《十大專輯暨單曲》得獎名單〉](http://www.musicman.org.tw/musicman/enews_detail.php?type=event&news_no=160)，中華音樂人交流協會
 
 13.
     [〈第22屆金曲獎入圍得獎名單〉](http://www.ttv.com.tw/drama11/GoldenMelody_pop/finalist.asp)，[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")
-    [〈MATZKA幹掉董事長
-    奪樂團獎想回家〉](http://showbiz.chinatimes.com/showbiz/110511/112011061900029.html)
-    ，[中國時報](../Page/中國時報.md "wikilink")，2011年6月19日
-    [〈MATZKA回台東
-    家族團聚慶功〉](http://www.libertytimes.com.tw/2011/new/jun/20/today-show10.htm)
-    ，[自由時報](../Page/自由時報.md "wikilink")，2011年6月20日
-    〈愛火車慢飛
-    MATZKA回鄉團聚〉，[聯合報](https://zh.wikipedia.org/wiki/聯合報 "wikilink")，2011年6月20日
+    [〈MATZKA幹掉董事長 奪樂團獎想回家〉](http://showbiz.chinatimes.com/showbiz/110511/112011061900029.html) ，[中國時報](../Page/中國時報.md "wikilink")，2011年6月19日
+    [〈MATZKA回台東 家族團聚慶功〉](http://www.libertytimes.com.tw/2011/new/jun/20/today-show10.htm) ，[自由時報](../Page/自由時報.md "wikilink")，2011年6月20日
+    〈愛火車慢飛 MATZKA回鄉團聚〉，[聯合報](https://zh.wikipedia.org/wiki/聯合報 "wikilink")，2011年6月20日
 
-14. [〈第二屆金音創作獎入圍名單〉](http://info.gio.gov.tw/ct.asp?xItem=98970&ctNode=3802)
-    ，[行政院新聞局](../Page/行政院新聞局.md "wikilink")
+14. [〈第二屆金音創作獎入圍名單〉](http://info.gio.gov.tw/ct.asp?xItem=98970&ctNode=3802) ，[行政院新聞局](../Page/行政院新聞局.md "wikilink")
 
-15. [〈2011MVT封神榜得獎名單〉](http://www.mtv.com.tw/event/2011MMA/vote.php)
-    ，[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink")
+15. [〈2011MVT封神榜得獎名單〉](http://www.mtv.com.tw/event/2011MMA/vote.php) ，[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink")
 
-16. [〈2011Hit
-    FM年度十大專輯〉](http://www.hitoradio.com/activities_new/20120109album/)，[HitFM聯播網](https://zh.wikipedia.org/wiki/HitFM聯播網 "wikilink")
+16. [〈2011Hit FM年度十大專輯〉](http://www.hitoradio.com/activities_new/20120109album/)，[HitFM聯播網](https://zh.wikipedia.org/wiki/HitFM聯播網 "wikilink")

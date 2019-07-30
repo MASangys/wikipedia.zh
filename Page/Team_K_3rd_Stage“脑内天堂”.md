@@ -1,10 +1,8 @@
-**Team K 3rd Stage「脑内天堂」（）**是[AKB48](../Page/AKB48.md "wikilink") Team
-K的第3台剧场公演。
+**Team K 3rd Stage「脑内天堂」（）**是[AKB48](../Page/AKB48.md "wikilink") Team K的第3台剧场公演。
 
 ## 概要
 
-本台公演为AKB48 Team
-K的第3台剧场公演，是第一次有加入复数成员乐器演奏的公演，也包含有第一次的独唱曲「泪中带笑」，而本场公演的曲目也在结束6年5个月之后由[HKT48的研究生使用作为她们的新公演](../Page/HKT48.md "wikilink")。
+本台公演为AKB48 Team K的第3台剧场公演，是第一次有加入复数成员乐器演奏的公演，也包含有第一次的独唱曲「泪中带笑」，而本场公演的曲目也在结束6年5个月之后由[HKT48](../Page/HKT48.md "wikilink")的研究生使用作为她们的新公演。
 
 ## 公演内容
 
@@ -16,8 +14,7 @@ K的第3台剧场公演，是第一次有加入复数成员乐器演奏的公演
 1.  《朋友啊》（）
     （作词：[秋元康](../Page/秋元康.md "wikilink")　作曲、编曲：）
 2.  《脑内天堂》（）
-    （作词：秋元康　作曲：[近藤薫](https://zh.wikipedia.org/wiki/近藤薫 "wikilink")
-    编曲：近藤薫、Ko-suke）
+    （作词：秋元康　作曲：[近藤薫](https://zh.wikipedia.org/wiki/近藤薫 "wikilink") 编曲：近藤薫、Ko-suke）
 3.  《令人在意的转校生》（）
     （作词：秋元康　作曲：[前澤寛之](https://zh.wikipedia.org/wiki/前澤寛之 "wikilink")　编曲：近田潔人）
 4.  《泪中带笑》（）
@@ -209,11 +206,8 @@ K的第3台剧场公演，是第一次有加入复数成员乐器演奏的公演
 
   - [专辑](http://www.sonymusic.co.jp/Music/Arch/DF/Akb48/DFCL-1356/)
   - [公演DVD](http://www.sonymusic.co.jp/Music/Arch/DF/Akb48/DFBL-7101/)
-  - [3rd
-    Stage「脑内天堂」公演乐曲（AKB48官网）](https://web.archive.org/web/20100526053504/http://www.akb48.co.jp/song/03k.html)
+  - [3rd Stage「脑内天堂」公演乐曲（AKB48官网）](https://web.archive.org/web/20100526053504/http://www.akb48.co.jp/song/03k.html)
 
-[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
-[Category:AKB48音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
+[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink") [Category:AKB48音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
 
 1.

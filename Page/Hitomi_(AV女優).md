@@ -1,7 +1,4 @@
-[Hitomi_Tanaka_&_Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_(25545790542).jpg](https://zh.wikipedia.org/wiki/File:Hitomi_Tanaka_&_Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_\(25545790542\).jpg "fig:Hitomi_Tanaka_&_Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_(25545790542).jpg")\]\]
-[Hitomi_Tanaka_&_Master_Gio_at_AVN_Adult_Entertainment_Expo_2016_(25571815161).jpg](https://zh.wikipedia.org/wiki/File:Hitomi_Tanaka_&_Master_Gio_at_AVN_Adult_Entertainment_Expo_2016_\(25571815161\).jpg "fig:Hitomi_Tanaka_&_Master_Gio_at_AVN_Adult_Entertainment_Expo_2016_(25571815161).jpg")
-
-**Hitomi**（，）是[日本的](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")，出生於[日本](../Page/日本.md "wikilink")。於2008年出道於[日本成人影片界](https://zh.wikipedia.org/wiki/日本成人影片 "wikilink")。
+[Hitomi_Tanaka_&_Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_(25545790542).jpg](https://zh.wikipedia.org/wiki/File:Hitomi_Tanaka_&_Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_\(25545790542\).jpg "fig:Hitomi_Tanaka_&_Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_(25545790542).jpg")\]\] [Hitomi_Tanaka_&_Master_Gio_at_AVN_Adult_Entertainment_Expo_2016_(25571815161).jpg](https://zh.wikipedia.org/wiki/File:Hitomi_Tanaka_&_Master_Gio_at_AVN_Adult_Entertainment_Expo_2016_\(25571815161\).jpg "fig:Hitomi_Tanaka_&_Master_Gio_at_AVN_Adult_Entertainment_Expo_2016_(25571815161).jpg")  **Hitomi**（，）是[日本](../Page/日本.md "wikilink")的[AV女優](../Page/AV女優.md "wikilink")，出生於[日本](../Page/日本.md "wikilink")。於2008年出道於[日本成人影片界](https://zh.wikipedia.org/wiki/日本成人影片 "wikilink")。
 
 2009年4月18日拍攝"體內射精"的題材成人影片，現在是ALLURE所屬。
 
@@ -30,10 +27,8 @@
 
 <!-- end list -->
 
-  - 芸能人
-    衝撃のAVデビュー（11月6日、[SODクリエイト](https://zh.wikipedia.org/wiki/SODクリエイト "wikilink")）監督：Keita★No.1
-  - 芸能人 最初で最後の大乱交
-    4時間SP（12月4日、SODクリエイト）他出演：[琴乃](../Page/琴乃.md "wikilink")、[範田紗々](https://zh.wikipedia.org/wiki/範田紗々 "wikilink")、[板垣あずさ](https://zh.wikipedia.org/wiki/板垣あずさ "wikilink")、[矢沢のん](https://zh.wikipedia.org/wiki/矢沢のん "wikilink")
+  - 芸能人 衝撃のAVデビュー（11月6日、[SODクリエイト](https://zh.wikipedia.org/wiki/SODクリエイト "wikilink")）監督：Keita★No.1
+  - 芸能人 最初で最後の大乱交 4時間SP（12月4日、SODクリエイト）他出演：[琴乃](../Page/琴乃.md "wikilink")、[範田紗々](https://zh.wikipedia.org/wiki/範田紗々 "wikilink")、[板垣あずさ](https://zh.wikipedia.org/wiki/板垣あずさ "wikilink")、[矢沢のん](https://zh.wikipedia.org/wiki/矢沢のん "wikilink")
   - 芸能人 青空の下でセックス初露出（12月18日、SODクリエイト）
 
 <!-- end list -->
@@ -62,8 +57,7 @@
 
 <!-- end list -->
 
-  - Hitomi×OPPAI×4時間 —Jの衝撃とOPPAIのスペシャルコラボレーション—
-    （1月19日、[OPPAI](https://zh.wikipedia.org/wiki/OPPAI "wikilink"))
+  - Hitomi×OPPAI×4時間 —Jの衝撃とOPPAIのスペシャルコラボレーション— （1月19日、[OPPAI](https://zh.wikipedia.org/wiki/OPPAI "wikilink"))
   - Jカップ超爆乳ボディー 激激激パイズリ SP（3月1日、[MOODYZ](../Page/MOODYZ.md "wikilink")）
   - ノーブラ爆乳先生の胸チラ授業（4月1日、MOODYZ）
   - SUPER BEST8時間（4月1日、嵐を呼ぶスーパーガール）
@@ -95,8 +89,7 @@
   - 妻の妹 ～盗撮カメラが見た危険な爆乳遊戯～（9月25日、マドンナ）
   - ぬるぬる濡れ透け超爆乳なお隣のお姉さんに犯される（10月19日、OPPAI）
   - 誘惑してしまう谷間 ノーブラ爆乳人妻（11月19日、OPPAI）
-  - 触手に溺れて―
-    人妻強制受胎（12月7日、[アタッカーズ](https://zh.wikipedia.org/wiki/アタッカーズ "wikilink")）
+  - 触手に溺れて― 人妻強制受胎（12月7日、[アタッカーズ](https://zh.wikipedia.org/wiki/アタッカーズ "wikilink")）
 
 <!-- end list -->
 
@@ -112,8 +105,7 @@
   - M女専科（5月13日、MOODYZ）
   - Jcup 超爆乳インストラクター（6月13日、MOODYZ）
   - Hitomiの宅配ソープ（7月13日、MOODYZ）
-  - LとJ
-    業界最大の超乳共演（8月13日、MOODYZ）共演:[桜木莉愛](https://zh.wikipedia.org/wiki/桜木莉愛 "wikilink")
+  - LとJ 業界最大の超乳共演（8月13日、MOODYZ）共演:[桜木莉愛](https://zh.wikipedia.org/wiki/桜木莉愛 "wikilink")
   - 爆乳逆痴漢（9月13日、MOODYZ）
   - 1日10回射精しても止まらないオーガズムSEX（10月13日、MOODYZ）
   - Hitomiのこだわりオッパイベスト（11月1日、MOODYZ）個人総集編
@@ -135,8 +127,7 @@
   - 24時間デカパイ同棲生活（6月13日、MOODYZ）
   - 爆乳ペット秘書（7月13日、MOODYZ）
   - 超爆乳人妻の勝手に誘惑ノーブラ生活Special（8月13日、MOODYZ）
-  - SSS-BODY
-    世界最大クラスの超乳ディープインパクト（9月13日、[E-BODY](https://zh.wikipedia.org/wiki/E-BODY "wikilink")）
+  - SSS-BODY 世界最大クラスの超乳ディープインパクト（9月13日、[E-BODY](https://zh.wikipedia.org/wiki/E-BODY "wikilink")）
   - Hitomiの50本番8時間SPECIAL\!（9月13日、MOODYZ）個人総集編
   - 谷間で誘惑爆乳女将（10月13日、MOODYZ）
 
@@ -247,8 +238,7 @@
 
 ### 成人電影
 
-  - 極楽銭湯 巨乳湯もみ
-    （2011年8月12日、[オーピー映画](https://zh.wikipedia.org/wiki/オーピー映画 "wikilink")）
+  - 極楽銭湯 巨乳湯もみ （2011年8月12日、[オーピー映画](https://zh.wikipedia.org/wiki/オーピー映画 "wikilink")）
   - どスケベ検査　ナース爆乳責め（2012年2月10日、[オーピー映画](https://zh.wikipedia.org/wiki/オーピー映画 "wikilink")）
 
 ## 參見
@@ -265,16 +255,13 @@
 
   - [Hitomi's Playroom](https://www.twitch.tv/hitomi_official)
 
-[Category:熊本縣出身人物](https://zh.wikipedia.org/wiki/Category:熊本縣出身人物 "wikilink")
-[Category:日本寫真偶像](https://zh.wikipedia.org/wiki/Category:日本寫真偶像 "wikilink")
-[Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink")
+[Category:熊本縣出身人物](https://zh.wikipedia.org/wiki/Category:熊本縣出身人物 "wikilink") [Category:日本寫真偶像](https://zh.wikipedia.org/wiki/Category:日本寫真偶像 "wikilink") [Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink")
 
 1.  [巨乳AV女優IG洩情　男友竟是知名樂團主唱](https://www.nownews.com/news/20180517/2755890)，[今日新聞網](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")，2018年5月17日
 
 2.
 
 3.
-4.  [一劍浣春秋／J罩杯奇蹟 -
-    Hitomi(田中瞳)](http://www.nownews.com/n/2009/07/21/902877)，[今日新聞網](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")，2009年7月21日
+4.  [一劍浣春秋／J罩杯奇蹟 - Hitomi(田中瞳)](http://www.nownews.com/n/2009/07/21/902877)，[今日新聞網](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")，2009年7月21日
 
 5.

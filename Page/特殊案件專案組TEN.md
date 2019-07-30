@@ -1,5 +1,4 @@
-《**特殊案件專案組TEN**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN製播的](https://zh.wikipedia.org/wiki/OCN "wikilink")[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
-Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikilink")[李再坤](https://zh.wikipedia.org/wiki/李再坤 "wikilink")、[南相旭作家攜手合作](https://zh.wikipedia.org/wiki/南相旭 "wikilink")，[朱相昱](../Page/朱相昱.md "wikilink")、[趙安](../Page/趙安_\(韓國藝人\).md "wikilink")、[金相浩](../Page/金相浩.md "wikilink")、[崔宇植參與演出](../Page/崔宇植.md "wikilink")。描繪負責破案率不足10%的重大犯罪案件的特殊案件專案組的正宗刑偵劇，以「消滅有的未結案件」為出發點想要逼真地描摹出與那些妄圖進行完美犯罪的殺人凶手鬥智鬥勇的特別案件組。
+《**特殊案件專案組TEN**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN製播的](https://zh.wikipedia.org/wiki/OCN "wikilink")[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikilink")[李再坤](https://zh.wikipedia.org/wiki/李再坤 "wikilink")、[南相旭作家攜手合作](https://zh.wikipedia.org/wiki/南相旭 "wikilink")，[朱相昱](../Page/朱相昱.md "wikilink")、[趙安](../Page/趙安_\(韓國藝人\).md "wikilink")、[金相浩](../Page/金相浩.md "wikilink")、[崔宇植](../Page/崔宇植.md "wikilink")參與演出。描繪負責破案率不足10%的重大犯罪案件的特殊案件專案組的正宗刑偵劇，以「消滅有的未結案件」為出發點想要逼真地描摹出與那些妄圖進行完美犯罪的殺人凶手鬥智鬥勇的特別案件組。
 
 ## 系列概況
 
@@ -15,51 +14,22 @@ Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikili
 
 #### 主要角色
 
-  - [朱相昱](../Page/朱相昱.md "wikilink") 饰演
-    呂智勳（粤语配音：[陈旭恒](https://zh.wikipedia.org/wiki/陈旭恒 "wikilink")
-    ([channel
-    M](https://zh.wikipedia.org/wiki/channel_M "wikilink"))、[苏强文](https://zh.wikipedia.org/wiki/苏强文 "wikilink")
-    ([TVB](https://zh.wikipedia.org/wiki/TVB "wikilink"))）
-  - [趙　安](../Page/趙安_\(韓國藝人\).md "wikilink") 飾演
-    南睿莉（粵語配音：[賴芸芬](../Page/賴芸芬.md "wikilink")
-    (channel M)、[黃瑩瑩](../Page/黃瑩瑩.md "wikilink") (TVB)）
-  - [金相浩](../Page/金相浩.md "wikilink") 飾演
-    白道式（粵語配音：[李建良](https://zh.wikipedia.org/wiki/李建良 "wikilink")
-    (channel M)、[朱子聰](../Page/朱子聰.md "wikilink") (TVB)）
-  - [崔宇植](../Page/崔宇植.md "wikilink") 飾演
-    朴民浩（粵語配音：[陳振聲](https://zh.wikipedia.org/wiki/陳振聲_\(香港\) "wikilink")
-    (channel M)、[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")
-    (TVB)）
+  - [朱相昱](../Page/朱相昱.md "wikilink") 饰演 呂智勳（粤语配音：[陈旭恒](https://zh.wikipedia.org/wiki/陈旭恒 "wikilink") ([channel M](https://zh.wikipedia.org/wiki/channel_M "wikilink"))、[苏强文](https://zh.wikipedia.org/wiki/苏强文 "wikilink") ([TVB](https://zh.wikipedia.org/wiki/TVB "wikilink"))）
+  - [趙　安](../Page/趙安_\(韓國藝人\).md "wikilink") 飾演 南睿莉（粵語配音：[賴芸芬](../Page/賴芸芬.md "wikilink") (channel M)、[黃瑩瑩](../Page/黃瑩瑩.md "wikilink") (TVB)）
+  - [金相浩](../Page/金相浩.md "wikilink") 飾演 白道式（粵語配音：[李建良](https://zh.wikipedia.org/wiki/李建良 "wikilink") (channel M)、[朱子聰](../Page/朱子聰.md "wikilink") (TVB)）
+  - [崔宇植](../Page/崔宇植.md "wikilink") 飾演 朴民浩（粵語配音：[陳振聲](https://zh.wikipedia.org/wiki/陳振聲_\(香港\) "wikilink") (channel M)、[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink") (TVB)）
 
 #### 其他角色
 
-  - [尹智慧](../Page/尹智慧.md "wikilink") 飾演
-    徐友蘭（粵語配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")
-    (TVB)）
-  - [崔凡浩](https://zh.wikipedia.org/wiki/崔凡浩 "wikilink") 飾演
-    鄭宇植（粵語配音：[招世亮](../Page/招世亮.md "wikilink")
-    (TVB)）
-  - [崔　珉](../Page/崔珉.md "wikilink") 飾演
-    鄺秀代（粵語配音：[張方正](../Page/張方正.md "wikilink")
-    (TVB)）
-  - [金海仁](https://zh.wikipedia.org/wiki/金海仁 "wikilink") 飾演
-    金恩英（第1集）（粵語配音：[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")
-    (TVB)）／徐恩菲（粵語配音：[魏惠娥](../Page/魏惠娥.md "wikilink") (TVB)）
-  - [吳珉錫](../Page/吳珉錫.md "wikilink") 飾演
-    金善宇（第4集）（粵語配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")
-    (TVB)）
-  - [鄭昊彬](../Page/鄭昊彬.md "wikilink") 飾演
-    鄭義石（第4集）（粵語配音：[陳欣](../Page/陳欣_\(配音員\).md "wikilink")
-    (TVB)）
-  - [高仁範](../Page/高仁範.md "wikilink") 飾演
-    朴中碩（第5集）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")
-    (TVB)）
-  - \-{[金智怜](../Page/金智怜.md "wikilink")}- 飾演
-    閔彩媛（第6-7集）（粵語配音：[何寶珊](../Page/何寶珊.md "wikilink")
-    (TVB)）
-  - [李素胤](https://zh.wikipedia.org/wiki/李素胤 "wikilink") 飾演
-    鄭熙珠（第9集）（粵語配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")
-    (TVB)）
+  - [尹智慧](../Page/尹智慧.md "wikilink") 飾演 徐友蘭（粵語配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink") (TVB)）
+  - [崔凡浩](https://zh.wikipedia.org/wiki/崔凡浩 "wikilink") 飾演 鄭宇植（粵語配音：[招世亮](../Page/招世亮.md "wikilink") (TVB)）
+  - [崔　珉](../Page/崔珉.md "wikilink") 飾演 鄺秀代（粵語配音：[張方正](../Page/張方正.md "wikilink") (TVB)）
+  - [金海仁](https://zh.wikipedia.org/wiki/金海仁 "wikilink") 飾演 金恩英（第1集）（粵語配音：[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink") (TVB)）／徐恩菲（粵語配音：[魏惠娥](../Page/魏惠娥.md "wikilink") (TVB)）
+  - [吳珉錫](../Page/吳珉錫.md "wikilink") 飾演 金善宇（第4集）（粵語配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink") (TVB)）
+  - [鄭昊彬](../Page/鄭昊彬.md "wikilink") 飾演 鄭義石（第4集）（粵語配音：[陳欣](../Page/陳欣_\(配音員\).md "wikilink") (TVB)）
+  - [高仁範](../Page/高仁範.md "wikilink") 飾演 朴中碩（第5集）（粵語配音：[陳永信](../Page/陳永信.md "wikilink") (TVB)）
+  - \-{[金智怜](../Page/金智怜.md "wikilink")}- 飾演 閔彩媛（第6-7集）（粵語配音：[何寶珊](../Page/何寶珊.md "wikilink") (TVB)）
+  - [李素胤](https://zh.wikipedia.org/wiki/李素胤 "wikilink") 飾演 鄭熙珠（第9集）（粵語配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink") (TVB)）
 
 ### 收視率
 
@@ -82,84 +52,58 @@ Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikili
 
 #### 主要角色
 
-  - [朱相昱](../Page/朱相昱.md "wikilink") 饰演
-    呂智勳（粤语配音：[苏强文](https://zh.wikipedia.org/wiki/苏强文 "wikilink")）
-  - [趙　安](../Page/趙安_\(韓國藝人\).md "wikilink") 飾演
-    南睿莉（粵語配音：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")）
-  - [金相浩](../Page/金相浩.md "wikilink") 飾演
-    白道式（粵語配音：[朱子聰](../Page/朱子聰.md "wikilink")）
-  - [崔宇植](../Page/崔宇植.md "wikilink") 飾演
-    朴民浩（粵語配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
+  - [朱相昱](../Page/朱相昱.md "wikilink") 饰演 呂智勳（粤语配音：[苏强文](https://zh.wikipedia.org/wiki/苏强文 "wikilink")）
+  - [趙　安](../Page/趙安_\(韓國藝人\).md "wikilink") 飾演 南睿莉（粵語配音：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")）
+  - [金相浩](../Page/金相浩.md "wikilink") 飾演 白道式（粵語配音：[朱子聰](../Page/朱子聰.md "wikilink")）
+  - [崔宇植](../Page/崔宇植.md "wikilink") 飾演 朴民浩（粵語配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
 
 #### 其他角色
 
-  - [崔凡浩](https://zh.wikipedia.org/wiki/崔凡浩 "wikilink") 飾演
-    鄭宇植（粵語配音：[招世亮](../Page/招世亮.md "wikilink")）
+  - [崔凡浩](https://zh.wikipedia.org/wiki/崔凡浩 "wikilink") 飾演 鄭宇植（粵語配音：[招世亮](../Page/招世亮.md "wikilink")）
 
-  - [尹智慧](../Page/尹智慧.md "wikilink") 飾演
-    徐友蘭（粵語配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")）
+  - [尹智慧](../Page/尹智慧.md "wikilink") 飾演 徐友蘭（粵語配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")）
 
-  - [崔　珉](../Page/崔珉.md "wikilink") 飾演
-    鄺秀代（粵語配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
+  - [崔　珉](../Page/崔珉.md "wikilink") 飾演 鄺秀代（粵語配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
 
-  - [李素胤](https://zh.wikipedia.org/wiki/李素胤 "wikilink") 飾演
-    鄭熙珠（第1-2集）（粵語配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
+  - [李素胤](https://zh.wikipedia.org/wiki/李素胤 "wikilink") 飾演 鄭熙珠（第1-2集）（粵語配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
 
-  - [金鎬英](https://zh.wikipedia.org/wiki/金鎬英 "wikilink") 飾演
-    鄭由秀（第2集）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - [金鎬英](https://zh.wikipedia.org/wiki/金鎬英 "wikilink") 飾演 鄭由秀（第2集）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
 
-  - [朴秉恩](../Page/朴秉恩.md "wikilink") 飾演
-    宋慶泰（第2集）（粵語配音：[陳卓智](../Page/陳卓智.md "wikilink")）
+  - [朴秉恩](../Page/朴秉恩.md "wikilink") 飾演 宋慶泰（第2集）（粵語配音：[陳卓智](../Page/陳卓智.md "wikilink")）
 
-  - [吳承允](../Page/吳承允.md "wikilink") 飾演
-    沈以浩（第3集）（粵語配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")）
+  - [吳承允](../Page/吳承允.md "wikilink") 飾演 沈以浩（第3集）（粵語配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")）
 
-  - [尹藝熙](https://zh.wikipedia.org/wiki/尹藝熙 "wikilink") 飾演
-    金順愛（第3集）（粵語配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
+  - [尹藝熙](https://zh.wikipedia.org/wiki/尹藝熙 "wikilink") 飾演 金順愛（第3集）（粵語配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
 
-  - [金賢成](https://zh.wikipedia.org/wiki/金賢成 "wikilink") 飾演
-    姜忠雲（第4-5集）（粵語配音：[劉奕希](../Page/劉奕希.md "wikilink")）
+  - [金賢成](https://zh.wikipedia.org/wiki/金賢成 "wikilink") 飾演 姜忠雲（第4-5集）（粵語配音：[劉奕希](../Page/劉奕希.md "wikilink")）
 
-  - [尹貞恩](https://zh.wikipedia.org/wiki/尹貞恩 "wikilink") 飾演
-    姜敏芝（第4-5集）（粵語配音：[羅杏芝](../Page/羅杏芝.md "wikilink")）
+  - [尹貞恩](https://zh.wikipedia.org/wiki/尹貞恩 "wikilink") 飾演 姜敏芝（第4-5集）（粵語配音：[羅杏芝](../Page/羅杏芝.md "wikilink")）
 
-  - [李賢京](https://zh.wikipedia.org/wiki/李賢京 "wikilink") 飾演
-    崔尚熙（第6集）（粵語配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
+  - [李賢京](https://zh.wikipedia.org/wiki/李賢京 "wikilink") 飾演 崔尚熙（第6集）（粵語配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
 
-  - [鄭少英](../Page/鄭少英.md "wikilink") 飾演
-    楊善華（第6集）（粵語配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
+  - [鄭少英](../Page/鄭少英.md "wikilink") 飾演 楊善華（第6集）（粵語配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
 
-  - [康太成](../Page/康太成.md "wikilink") 飾演
-    陶成規（第6集）（粵語配音：[關令翹](../Page/關令翹.md "wikilink")）
+  - [康太成](../Page/康太成.md "wikilink") 飾演 陶成規（第6集）（粵語配音：[關令翹](../Page/關令翹.md "wikilink")）
 
   - 飾演 申英槿（第7集）（粵語配音：[陳廷軒](../Page/陳廷軒.md "wikilink")）
 
-  - [鄭惠成](../Page/鄭惠成.md "wikilink") 飾演
-    裴書妍（第7集）（粵語配音：[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")）
+  - [鄭惠成](../Page/鄭惠成.md "wikilink") 飾演 裴書妍（第7集）（粵語配音：[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")）
 
-  - [李姬珍](../Page/李姬珍.md "wikilink") 飾演
-    宋華英（第8集）（粵語配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
+  - [李姬珍](../Page/李姬珍.md "wikilink") 飾演 宋華英（第8集）（粵語配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
 
-  - [張元英](https://zh.wikipedia.org/wiki/張元英_\(演員\) "wikilink") 飾演
-    朴恩秀（第8集）（粵語配音：[葉振聲](../Page/葉振聲.md "wikilink")）
+  - [張元英](https://zh.wikipedia.org/wiki/張元英_\(演員\) "wikilink") 飾演 朴恩秀（第8集）（粵語配音：[葉振聲](../Page/葉振聲.md "wikilink")）
 
-  - [崔松賢](../Page/崔松賢.md "wikilink") 飾演
-    尹書賢（第9集）（粵語配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
+  - [崔松賢](../Page/崔松賢.md "wikilink") 飾演 尹書賢（第9集）（粵語配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
 
-  - [閔成旭](https://zh.wikipedia.org/wiki/閔成旭 "wikilink") 飾演
-    張錫凡（第9集）（粵語配音：[關令翹](../Page/關令翹.md "wikilink")）
+  - [閔成旭](https://zh.wikipedia.org/wiki/閔成旭 "wikilink") 飾演 張錫凡（第9集）（粵語配音：[關令翹](../Page/關令翹.md "wikilink")）
 
-  - [姜奇華](https://zh.wikipedia.org/wiki/姜奇華 "wikilink") 飾演
-    李智秀（第9集）（粵語配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
+  - [姜奇華](https://zh.wikipedia.org/wiki/姜奇華 "wikilink") 飾演 李智秀（第9集）（粵語配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
 
-  - [林丞大](../Page/林丞大.md "wikilink") 飾演
-    金朱哲（第9集）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - [林丞大](../Page/林丞大.md "wikilink") 飾演 金朱哲（第9集）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
 
-  - [成智婁](../Page/成智婁.md "wikilink") 飾演
-    馬石基（第11-12集）（粵語配音：[葉振聲](../Page/葉振聲.md "wikilink")）
+  - [成智婁](../Page/成智婁.md "wikilink") 飾演 馬石基（第11-12集）（粵語配音：[葉振聲](../Page/葉振聲.md "wikilink")）
 
-  - [李茂生](https://zh.wikipedia.org/wiki/李茂生_\(韓國\) "wikilink") 飾演
-    秦鎮賀（第11-12集）（粵語配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")）
+  - [李茂生](https://zh.wikipedia.org/wiki/李茂生_\(韓國\) "wikilink") 飾演 秦鎮賀（第11-12集）（粵語配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")）
 
 #### 每集主題
 
@@ -201,17 +145,9 @@ Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikili
 <!-- end list -->
 
   -
-  - [KIX
-    官方網站](https://web.archive.org/web/20131203011026/http://www.kix-tv.com/kixhd/kix-high.asp?id=396)
+  - [KIX 官方網站](https://web.archive.org/web/20131203011026/http://www.kix-tv.com/kixhd/kix-high.asp?id=396)
 
   -
 ## 節目變遷
 
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:2011年開播的韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年開播的韓國電視劇集 "wikilink")
-[Category:2013年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2013年韓國電視劇集 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:2011年開播的韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年開播的韓國電視劇集 "wikilink") [Category:2013年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2013年韓國電視劇集 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")

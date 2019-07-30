@@ -2,9 +2,8 @@
 
 ## 簡介
 
-  - 自第21張單曲[FIREBALL以來](../Page/FIREBALL.md "wikilink")，相隔11年再度成為化妝品廣告的主題曲
-  - 最終銷量約19.4萬張，是B'z自1990年第7張單曲[愛人啊Good
-    Night...以來](../Page/愛人啊Good_Night....md "wikilink")，單曲銷量跌破20萬張。
+  - 自第21張單曲[FIREBALL](../Page/FIREBALL.md "wikilink")以來，相隔11年再度成為化妝品廣告的主題曲
+  - 最終銷量約19.4萬張，是B'z自1990年第7張單曲[愛人啊Good Night...以來](../Page/愛人啊Good_Night....md "wikilink")，單曲銷量跌破20萬張。
 
 ## 製作人員
 
@@ -33,9 +32,4 @@ B'z The Best "ULTRA Treasure"（\#1）
 
   - [2008年的音樂](http://ja.wikipedia.org/wiki/2008%E5%B9%B4%E3%81%AE%E9%9F%B3%E6%A5%BD)
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:化妝品廣告歌曲](https://zh.wikipedia.org/wiki/Category:化妝品廣告歌曲 "wikilink")
-[Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2008年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2008年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:化妝品廣告歌曲](https://zh.wikipedia.org/wiki/Category:化妝品廣告歌曲 "wikilink") [Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink") [Category:2008年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2008年Japan_Hot_100冠軍歌曲 "wikilink") [Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")

@@ -19,18 +19,8 @@
 
 ## 参考资料
 
-[Category:有机氧化还原反应](https://zh.wikipedia.org/wiki/Category:有机氧化还原反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:有机氧化还原反应](https://zh.wikipedia.org/wiki/Category:有机氧化还原反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
-1.  Strategic Applications of Named Reactions in Organic Synthesis
-    (Paperback) by Laszlo Kurti, Barbara Czako ISBN 0-12-429785-4
-2.  *Lanthanides in organic chemistry. 1. Selective 1,2 reductions of
-    conjugated ketones* Jean Louis Luche [J. Am. Chem.
-    Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink");
-    **1978**; 100(7); 2226-2227.
-3.  *Lanthanoids in organic synthesis. 6. Reduction of .alpha.-enones by
-    sodium borohydride in the presence of lanthanoid chlorides:
-    synthetic and mechanistic aspects* Andre L. Gemal, Jean Louis Luche
-    [J. Am. Chem.
-    Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink");
-    **1981**; 103(18); 5454-5459
+1.  Strategic Applications of Named Reactions in Organic Synthesis (Paperback) by Laszlo Kurti, Barbara Czako ISBN 0-12-429785-4
+2.  *Lanthanides in organic chemistry. 1. Selective 1,2 reductions of conjugated ketones* Jean Louis Luche [J. Am. Chem. Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink"); **1978**; 100(7); 2226-2227.
+3.  *Lanthanoids in organic synthesis. 6. Reduction of .alpha.-enones by sodium borohydride in the presence of lanthanoid chlorides: synthetic and mechanistic aspects* Andre L. Gemal, Jean Louis Luche [J. Am. Chem. Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink"); **1981**; 103(18); 5454-5459

@@ -1,4 +1,4 @@
-**2008年Oricon單曲週榜冠軍作品列表**列出2008年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2008年Oricon單曲週榜冠軍作品列表**列出2008年度曾經登上[Oricon](../Page/Oricon.md "wikilink")公信榜單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 2008年共有49首冠軍單曲誕生。
 
@@ -386,5 +386,4 @@
 
   - [2008年每週公信榜統計數據](https://web.archive.org/web/20170924142314/http://www.musictvprogram.com/oricon2008.html)
 
-[Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")

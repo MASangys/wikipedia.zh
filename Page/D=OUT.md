@@ -8,8 +8,7 @@
 
 2010年3月14日 首次來台參加高雄的「大港開唱」。
 
-2010年6月19日 在台北The Wall舉辦「ダウト長期自作自演ツアー 下巻『御礼参りWORLD EXPO'10〜侍ジャポン〜』in
-TAIWAN」。
+2010年6月19日 在台北The Wall舉辦「ダウト長期自作自演ツアー 下巻『御礼参りWORLD EXPO'10〜侍ジャポン〜』in TAIWAN」。
 
 2010年7月轉移合約到Indie PSC。
 
@@ -27,11 +26,9 @@ TAIWAN」。
 
 2016年10月，來台進行自作自演、我愛你台灣公演 2016「音樂要爆發了in台灣」演出\[1\]。
 
-2017年9月9日，於台北三創生活園區舉辦ダウト10週年台灣公演 D=OUT THE 10th ANNIVERSARY SPECIAL
-LIVE\!\! 「 We are the ONE in TAIWAN」\[2\]。
+2017年9月9日，於台北三創生活園區舉辦ダウト10週年台灣公演 D=OUT THE 10th ANNIVERSARY SPECIAL LIVE\!\! 「 We are the ONE in TAIWAN」\[2\]。
 
-2018年10月28日，於台北三創生活園區舉辦ダウト11週年台灣公演 D=OUT CHARITY ONE MAN LIVE「
-加油！台灣！」\[3\]。
+2018年10月28日，於台北三創生活園區舉辦ダウト11週年台灣公演 D=OUT CHARITY ONE MAN LIVE「 加油！台灣！」\[3\]。
 
 ## 成員
 
@@ -41,10 +38,8 @@ LIVE\!\! 「 We are the ONE in TAIWAN」\[2\]。
 
   -   - 10月21日出生、[兵庫県](https://zh.wikipedia.org/wiki/兵庫県 "wikilink")[神戸市出身](https://zh.wikipedia.org/wiki/神戸市 "wikilink")、天秤座、AB型、身高183cm、體重63kg。
       - 愛讀刊物是[週刊少年JUMP](https://zh.wikipedia.org/wiki/週刊少年JUMP "wikilink")。
-      - [12012的塩谷朋之是高中時代的同學](../Page/12012.md "wikilink")、也是Mist of
-        Rouge時期的成員。
-      - 喜歡的品牌：Louis Vuitton、Justin Davis 、L.H.P.、B'2nd、adidas
-        Originals、And A、GADGET GROW、ZARA。
+      - [12012](../Page/12012.md "wikilink")的塩谷朋之是高中時代的同學、也是Mist of Rouge時期的成員。
+      - 喜歡的品牌：Louis Vuitton、Justin Davis 、L.H.P.、B'2nd、adidas Originals、And A、GADGET GROW、ZARA。
       - 不抽菸。
       - 使用的香水：Bvlgari Pour Homme。
       - 尊敬的人：家人、[櫻井和壽](../Page/櫻井和壽.md "wikilink")、[椎名林檎](../Page/椎名林檎.md "wikilink")。
@@ -541,15 +536,10 @@ Oricon週間排行榜初登場15位<br />
   - [Gt. 威吹的部落格「集まれ\!\! イブキッズ」](http://ameblo.jp/d-out-ibuki/)
   - [Gt. Hikaru的部落格「ヒヵチューの森」](http://ameblo.jp/d-out-hikaru/)
   - [Ba. 玲夏的部落格「The☆People」](http://ameblo.jp/d-out-reika/)
-  - [Dr. Minase的部落格「brand new
-    wave」](https://web.archive.org/web/20111204213619/http://ameblo.jp/d-out-minase)
+  - [Dr. Minase的部落格「brand new wave」](https://web.archive.org/web/20111204213619/http://ameblo.jp/d-out-minase)
 
-[Category:視覺系樂團](https://zh.wikipedia.org/wiki/Category:視覺系樂團 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
-[Category:日本前衛搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本前衛搖滾樂團 "wikilink")
+[Category:視覺系樂團](https://zh.wikipedia.org/wiki/Category:視覺系樂團 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:日本前衛搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本前衛搖滾樂團 "wikilink")
 
 1.
-2.  [ダウト(D=OUT)第十次台灣公演
-    台灣國旗驚喜飄現](https://memeon-music.com/2017/09/15/d-out-livereport-2/)
+2.  [ダウト(D=OUT)第十次台灣公演 台灣國旗驚喜飄現](https://memeon-music.com/2017/09/15/d-out-livereport-2/)
 3.  [加油！台湾！](https://memeon-music.com/2018/12/12/dout-3/)

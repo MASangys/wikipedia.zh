@@ -1,31 +1,28 @@
-**Comic虎之穴**是由株式會社虎之穴所經營，以[同人誌為中心並售賣](../Page/同人誌.md "wikilink")[漫畫及其關連商品的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[同人商店](https://zh.wikipedia.org/wiki/同人商店 "wikilink")。其銷售方式以旗下的店舖作零售及提供[郵購服務](https://zh.wikipedia.org/wiki/郵購 "wikilink")。除漫畫同人誌以外，亦有售賣商業漫畫本（[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")、單行本）、[動畫關連的映像及音樂產品](https://zh.wikipedia.org/wiki/動畫 "wikilink")（如[CD](../Page/CD.md "wikilink")、[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")、[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")）等的[御宅族向的關連商品及書籍等商品](../Page/御宅族.md "wikilink")。通稱**虎之穴**、**虎穴**或**虎**。
+**Comic虎之穴**是由株式會社虎之穴所經營，以[同人誌](../Page/同人誌.md "wikilink")為中心並售賣[漫畫及其關連商品的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[同人商店](https://zh.wikipedia.org/wiki/同人商店 "wikilink")。其銷售方式以旗下的店舖作零售及提供[郵購服務](https://zh.wikipedia.org/wiki/郵購 "wikilink")。除漫畫同人誌以外，亦有售賣商業漫畫本（[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")、單行本）、[動畫關連的映像及音樂產品](https://zh.wikipedia.org/wiki/動畫 "wikilink")（如[CD](../Page/CD.md "wikilink")、[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")、[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")）等的[御宅族](../Page/御宅族.md "wikilink")向的關連商品及書籍等商品。通稱**虎之穴**、**虎穴**或**虎**。
 
 ## 沿革
 
-虎之穴在1994年6月創業，其代表人物[吉田博高在此之前是](https://zh.wikipedia.org/wiki/吉田博高 "wikilink")[Sofmap職員](https://zh.wikipedia.org/wiki/Sofmap "wikilink")。店名及其營運社名的來源為[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")《[老虎面具](https://zh.wikipedia.org/wiki/老虎面具 "wikilink")》（）中所登場的[職業摔角秘密社團](../Page/職業摔角.md "wikilink")「虎之穴」。
+虎之穴在1994年6月創業，其代表人物[吉田博高在此之前是](https://zh.wikipedia.org/wiki/吉田博高 "wikilink")[Sofmap職員](https://zh.wikipedia.org/wiki/Sofmap "wikilink")。店名及其營運社名的來源為[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")《[老虎面具](https://zh.wikipedia.org/wiki/老虎面具 "wikilink")》（）中所登場的[職業摔角](../Page/職業摔角.md "wikilink")秘密社團「虎之穴」。
 
-創業時的虎之穴，是位於[秋葉原小巷內的混合式大樓](../Page/秋葉原.md "wikilink")「神林大樓」（）3樓一房間的[二手書店](https://zh.wikipedia.org/wiki/二手書店 "wikilink")。這時虎之穴已收集到為數不少的中古同人誌，因而令喜歡同人誌及處理品的愛好者經常在虎之穴及同大樓2樓的「湘南通商」（售賣二手電腦零件）這兩層中走上走落，以搜羅及搶購心頭好。
+創業時的虎之穴，是位於[秋葉原](../Page/秋葉原.md "wikilink")小巷內的混合式大樓「神林大樓」（）3樓一房間的[二手書店](https://zh.wikipedia.org/wiki/二手書店 "wikilink")。這時虎之穴已收集到為數不少的中古同人誌，因而令喜歡同人誌及處理品的愛好者經常在虎之穴及同大樓2樓的「湘南通商」（售賣二手電腦零件）這兩層中走上走落，以搜羅及搶購心頭好。
 
-1996年7月虎之穴將[有限公司法人化](../Page/有限公司.md "wikilink")，同時新設了通信販售（郵購）部門。此後，開始接受[新刊同人誌的委託販售](https://zh.wikipedia.org/wiki/新刊 "wikilink")，並擴大其規模。在秋葉原及東京都內，如池袋、新宿等新設的店鋪站穩陣腳後，於2000年3月進駐大阪，並開始在其它主要都市內廣設店鋪網。
+1996年7月虎之穴將[有限公司](../Page/有限公司.md "wikilink")法人化，同時新設了通信販售（郵購）部門。此後，開始接受[新刊同人誌的委託販售](https://zh.wikipedia.org/wiki/新刊 "wikilink")，並擴大其規模。在秋葉原及東京都內，如池袋、新宿等新設的店鋪站穩陣腳後，於2000年3月進駐大阪，並開始在其它主要都市內廣設店鋪網。
 
-2003年4月[股份有限公司化](../Page/股份有限公司.md "wikilink")。2006年遷入了於秋葉原新建造的自社大樓（秋葉原本店、現店名:
-秋葉原店B）其到現在。
+2003年4月[股份有限公司](../Page/股份有限公司.md "wikilink")化。2006年遷入了於秋葉原新建造的自社大樓（秋葉原本店、現店名: 秋葉原店B）其到現在。
 
 2008年，將物流中心及其實務上總公司的機能陸續搬遷到[千葉縣](../Page/千葉縣.md "wikilink")[市川市](../Page/市川市.md "wikilink")[田尻的出租倉庫](https://zh.wikipedia.org/wiki/田尻_\(市川市\) "wikilink")（[日本Logistech株式會社京葉市川中心](https://zh.wikipedia.org/wiki/日本Logistech "wikilink")）。虎之穴屬下關連會社的總部也轉移到同一建築物之中。
 
-2013年10月，創立「ユメノソラホールディングス株式会社」，同時子公司[FOX出版改名為](https://zh.wikipedia.org/wiki/FOX出版 "wikilink")「ツクルノモリ株式会社」，並收購[AQUAPLUS成為子公司之一](../Page/AQUAPLUS.md "wikilink")。
+2013年10月，創立「ユメノソラホールディングス株式会社」，同時子公司[FOX出版改名為](https://zh.wikipedia.org/wiki/FOX出版 "wikilink")「ツクルノモリ株式会社」，並收購[AQUAPLUS](../Page/AQUAPLUS.md "wikilink")成為子公司之一。
 
-[Toranoana_Taipei_Store_20180520.jpg](https://zh.wikipedia.org/wiki/File:Toranoana_Taipei_Store_20180520.jpg "fig:Toranoana_Taipei_Store_20180520.jpg")
-2018年3月23日，臺灣臺北市開設「虎之穴台北店」，是虎之穴首次於海外開店。\[1\]
+[Toranoana_Taipei_Store_20180520.jpg](https://zh.wikipedia.org/wiki/File:Toranoana_Taipei_Store_20180520.jpg "fig:Toranoana_Taipei_Store_20180520.jpg") 2018年3月23日，臺灣臺北市開設「虎之穴台北店」，是虎之穴首次於海外開店。\[1\]
 
 ## 店鋪
 
-[Comic_Toranoana_Akihabara_20070811.jpg](https://zh.wikipedia.org/wiki/File:Comic_Toranoana_Akihabara_20070811.jpg "fig:Comic_Toranoana_Akihabara_20070811.jpg")並且相鄰。\]\]
-[Toranoana_Ikebukuro_20101126.jpg](https://zh.wikipedia.org/wiki/File:Toranoana_Ikebukuro_20101126.jpg "fig:Toranoana_Ikebukuro_20101126.jpg")
+[Comic_Toranoana_Akihabara_20070811.jpg](https://zh.wikipedia.org/wiki/File:Comic_Toranoana_Akihabara_20070811.jpg "fig:Comic_Toranoana_Akihabara_20070811.jpg")並且相鄰。\]\] [Toranoana_Ikebukuro_20101126.jpg](https://zh.wikipedia.org/wiki/File:Toranoana_Ikebukuro_20101126.jpg "fig:Toranoana_Ikebukuro_20101126.jpg")
 
 ### 現行店鋪
 
-東京都內發日本全國的[政令指定都市均有其店鋪](../Page/政令指定都市.md "wikilink")。而它們特別集中在[關東地方](../Page/關東地方.md "wikilink")，在全部20間店鋪中佔近一半。
+東京都內發日本全國的[政令指定都市](../Page/政令指定都市.md "wikilink")均有其店鋪。而它們特別集中在[關東地方](../Page/關東地方.md "wikilink")，在全部20間店鋪中佔近一半。
 
 | 都道府縣 / 縣市                                           | 店名                                                                                                                                                         | 開店・異動時期\[2\]                                                                                                                                                        |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,10 +30,10 @@
 | [宮城縣](../Page/宮城縣.md "wikilink")                    | [仙台店](https://zh.wikipedia.org/wiki/青葉区_\(仙台市\) "wikilink")                                                                                                | 2007年7月14日開店\[3\]、2009年8月8日搬遷\[4\]                                                                                                                                  |
 | [埼玉縣](../Page/埼玉縣.md "wikilink")                    | [大宮店](../Page/大宮區.md "wikilink")                                                                                                                           | 2009年11月14日開店\[5\]                                                                                                                                                  |
 | [千葉縣](../Page/千葉縣.md "wikilink")                    | [千葉店](../Page/中央區_\(千葉市\).md "wikilink")                                                                                                                   | 2010年2月20日開店<ref>{{lang|ja|\[<http://www.toranoana.jp/info/shop/100220_chiba/> コミックとらのあな 千葉店 2010年2月20日（土）遂にオープンしました                                                |
-| [東京都](../Page/東京都.md "wikilink")                    | [秋葉原店A](../Page/秋葉原.md "wikilink")                                                                                                                         | 2002年12月搬遷到現在地、2009年7月25日由「秋葉原1號店」更改為現時名稱\[6\]\[7\]                                                                                                                 |
+| [東京都](../Page/東京都.md "wikilink")                    | [秋葉原](../Page/秋葉原.md "wikilink")店A                                                                                                                         | 2002年12月搬遷到現在地、2009年7月25日由「秋葉原1號店」更改為現時名稱\[6\]\[7\]                                                                                                                 |
 | 秋葉原店B                                               | 2006年8月5日開店\[8\]、2009年7月25日由「秋葉原本店」更改為現時名稱\[9\]\[10\]                                                                                                      |                                                                                                                                                                     |
-| [新宿店](../Page/新宿.md "wikilink")                     | 2000年6月開店、2001年6月搬遷、2001年10月由「新宿2號店」更改為現時名稱                                                                                                                |                                                                                                                                                                     |
-| [池袋店](../Page/池袋.md "wikilink")                     | 1998年2月開店、1999年8月擴充、2012年10月4日搬遷，但大幅縮小                                                                                                                     |                                                                                                                                                                     |
+| [新宿](../Page/新宿.md "wikilink")店                     | 2000年6月開店、2001年6月搬遷、2001年10月由「新宿2號店」更改為現時名稱                                                                                                                |                                                                                                                                                                     |
+| [池袋](../Page/池袋.md "wikilink")店                     | 1998年2月開店、1999年8月擴充、2012年10月4日搬遷，但大幅縮小                                                                                                                     |                                                                                                                                                                     |
 | [八王子店](../Page/八王子市.md "wikilink")                  | 2009年11月28日開店<ref>{{lang|ja|\[<http://www.toranoana.jp/info/shop/091128_hachioji_open/> 11月14日（土）のコミックとらのあな大宮店のオープンに引き続き、11月28日（土）、コミックとらのあな八王子店が堂々のオープンです | \]}}</ref>                                                                                                                                                          |
 | [町田店](../Page/町田市.md "wikilink")                    | 2007年4月14日開店<ref>{{lang|ja|\[<http://www.toranoana.jp/shop/070414machida/070414machida.html> コミックとらのあな、新店デビュー                                              | \]}}<small>網頁已移除</small>\<\!---\>2010年11月\<---\></ref>、2009年11月21日搬遷<ref>{{lang|ja|\[<http://www.toranoana.jp/info/shop/091121_machida_renewal/> コミックとらのあな 町田店 新装開店 |
 | [神奈川縣](../Page/神奈川縣.md "wikilink")                  | [横濱店](https://zh.wikipedia.org/wiki/西區_\(横濱市\) "wikilink")                                                                                                 | 2003年9月開店、2009年8月8日搬遷\[11\]                                                                                                                                         |
@@ -45,7 +42,7 @@
 | [愛知縣](../Page/愛知縣.md "wikilink")                    | [名古屋店](../Page/中區_\(名古屋市\).md "wikilink")                                                                                                                  | 2002年2月開店                                                                                                                                                           |
 | [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") | [京都店](https://zh.wikipedia.org/wiki/寺町通 "wikilink")                                                                                                        | 2010年12月3日開店\[12\]                                                                                                                                                  |
 | [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink") | [難波店](https://zh.wikipedia.org/wiki/DenDen_Town "wikilink")                                                                                                | 2000年3月開店、2001年4月擴充                                                                                                                                                 |
-| [梅田店](../Page/梅田.md "wikilink")                     | 2004年5月開店                                                                                                                                                  |                                                                                                                                                                     |
+| [梅田](../Page/梅田.md "wikilink")店                     | 2004年5月開店                                                                                                                                                  |                                                                                                                                                                     |
 | [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [三宮店](https://zh.wikipedia.org/wiki/三宮町_\(神戶市\) "wikilink")                                                                                                | 2001年8月開店、2008年2月23日擴充、2010年2月27日縮減\[13\]                                                                                                                           |
 | [廣島縣](../Page/廣島縣.md "wikilink")                    | [廣島店](https://zh.wikipedia.org/wiki/廣島本通商店街 "wikilink")                                                                                                    | 2001年9月開店                                                                                                                                                           |
 | [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink") | [福岡店](https://zh.wikipedia.org/wiki/天神_\(福岡市\) "wikilink")                                                                                                 | 2003年2月開店、2006年10月21日搬遷\[14\]                                                                                                                                       |
@@ -57,14 +54,12 @@
   - （秋葉原）2號店、3號店、4號店、5號店 → 集中到秋葉原1號店、秋葉原本店（現: 秋葉原店A・秋葉原店B）
   - 新宿1號店（2000年5月開店，2001年10月閉店） → 集中到新宿2號店，並且將該店改名為新宿店
   - （大阪）日本橋店（2001年6月開店，2003年10月閉店） → 集中到難波（）店
-  - 難波（）2號店（2005年7月30日開店，2007年12月8日搬遷\[15\]，2009年3月15日閉店\[16\]） →
-    集中到難波（）店
+  - 難波（）2號店（2005年7月30日開店，2007年12月8日搬遷\[15\]，2009年3月15日閉店\[16\]） → 集中到難波（）店
   - [吉祥寺店](https://zh.wikipedia.org/wiki/吉祥寺 "wikilink")（2008年4月26日開店\[17\]，2009年3月15日閉店\[18\]）
 
 ### 其他
 
-  - 於2006年8月5日秋葉原本店（現：秋葉原店B）開張時，在它的2樓營運過一間[Cosplay咖啡廳](https://zh.wikipedia.org/wiki/Cosplay餐廳 "wikilink")「Cafe
-    with Cat」\[19\]，但已於2009年5月17日關閉\[20\]。在閉店後，店內設備沒有太大改動，只是更改為原創商品的售賣場。
+  - 於2006年8月5日秋葉原本店（現：秋葉原店B）開張時，在它的2樓營運過一間[Cosplay咖啡廳](https://zh.wikipedia.org/wiki/Cosplay餐廳 "wikilink")「Cafe with Cat」\[19\]，但已於2009年5月17日關閉\[20\]。在閉店後，店內設備沒有太大改動，只是更改為原創商品的售賣場。
 
 ## 積分卡
 
@@ -84,8 +79,7 @@
 
   - 《》（作詞、作曲：[桃井晴子](../Page/桃井晴子.md "wikilink")，編曲：[小池雅也](https://zh.wikipedia.org/wiki/小池雅也 "wikilink")，歌：[UNDER17](https://zh.wikipedia.org/wiki/UNDER17 "wikilink")）
       - 於2004年12月限定在虎之穴發售的CD（收錄了UNDER17版本、虎虎（[松來未祐](../Page/松來未祐.md "wikilink")）版本、虎美\<\!---\>\<---\>（桃井晴子）版本及純音樂版本）。
-      - UNDER17版本也收錄在UNDER17的大碟《そして伝説へ…》中（2004年12月22日發售）。而松來未祐的版本則收錄在松來的大碟《MEMORIES
-        ～Miyu Matsuki Best Songs～》（2008年9月26日發售）。
+      - UNDER17版本也收錄在UNDER17的大碟《そして伝説へ…》中（2004年12月22日發售）。而松來未祐的版本則收錄在松來的大碟《MEMORIES ～Miyu Matsuki Best Songs～》（2008年9月26日發售）。
     <!-- end list -->
       -
         據說原UNDER17的主音桃井晴子在虎之穴創業時，曾在對面的處理商品店（）打工，並多次於休息時間順度拜訪。在後來也沒想過可為虎之穴主唱主題曲，在她收到邀請時十分吃驚。
@@ -96,8 +90,7 @@
   - 。
 
       -
-        2001年2月創刊\[22\]。除了漫畫、動畫情報外，還載有[松来未祐與](https://zh.wikipedia.org/wiki/松来未祐 "wikilink")[門脇舞（現:
-        門脇舞以）](../Page/門脇舞以.md "wikilink")、[生天目仁美](../Page/生天目仁美.md "wikilink")、[伊藤静等的聲優專欄及漫畫家的專訪](https://zh.wikipedia.org/wiki/伊藤静 "wikilink")。其內容非常充實且引以為傲，經常在發佈完結前就已經清貨。
+        2001年2月創刊\[22\]。除了漫畫、動畫情報外，還載有[松来未祐與](https://zh.wikipedia.org/wiki/松来未祐 "wikilink")[門脇舞](../Page/門脇舞以.md "wikilink")（現爲門脇舞以）、[生天目仁美](../Page/生天目仁美.md "wikilink")、[伊藤静等的聲優專欄及漫畫家的專訪](https://zh.wikipedia.org/wiki/伊藤静 "wikilink")。其內容非常充實且引以為傲，經常在發佈完結前就已經清貨。
 
   - 虎通
 
@@ -124,7 +117,7 @@
 
 ### 開運☆野望神社系列
 
-[生天目仁美與](../Page/生天目仁美.md "wikilink")[伊藤静的網上電台節目](https://zh.wikipedia.org/wiki/伊藤静 "wikilink")。在虎之穴的官方網頁上，全部3個系列共96回於2003年至2008年隔週免費發佈。2010年時發佈了一次特別編。
+[生天目仁美](../Page/生天目仁美.md "wikilink")與[伊藤静的網上電台節目](https://zh.wikipedia.org/wiki/伊藤静 "wikilink")。在虎之穴的官方網頁上，全部3個系列共96回於2003年至2008年隔週免費發佈。2010年時發佈了一次特別編。
 
 ### Web Comic發佈
 
@@ -136,8 +129,7 @@
   - [ComiHoriA](https://zh.wikipedia.org/wiki/Comic_HOLIC#ComiHoriA "wikilink")
       -
         刊登[成人向漫畫](https://zh.wikipedia.org/wiki/成人漫畫 "wikilink")。隔週的星期三更新。
-  - [東方繪空事 〜 Moderate Feeling of
-    Satisfaction.](https://zh.wikipedia.org/wiki/Comic_HOLIC#東方繪空事_〜_Moderate_Feeling_of_Satisfaction. "wikilink")
+  - [東方繪空事 〜 Moderate Feeling of Satisfaction.](https://zh.wikipedia.org/wiki/Comic_HOLIC#東方繪空事_〜_Moderate_Feeling_of_Satisfaction. "wikilink")
       -
         刊登以[東方Project為題材的漫畫](https://zh.wikipedia.org/wiki/東方Project "wikilink")，亦有發佈有關東方商品的情報。隔週的星期四更新。
 
@@ -183,13 +175,7 @@
 
 \<\!---\> \<---\> \<\!---\>\<---\>
 
-[Category:同人ショップ](https://zh.wikipedia.org/wiki/Category:同人ショップ "wikilink")
-[Category:アニメショップ](https://zh.wikipedia.org/wiki/Category:アニメショップ "wikilink")
-[Category:日本书店](https://zh.wikipedia.org/wiki/Category:日本书店 "wikilink")
-[Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink")
-[Category:秋葉原](https://zh.wikipedia.org/wiki/Category:秋葉原 "wikilink")
-[Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")
-[Category:千代田区の企業](https://zh.wikipedia.org/wiki/Category:千代田区の企業 "wikilink")
+[Category:同人ショップ](https://zh.wikipedia.org/wiki/Category:同人ショップ "wikilink") [Category:アニメショップ](https://zh.wikipedia.org/wiki/Category:アニメショップ "wikilink") [Category:日本书店](https://zh.wikipedia.org/wiki/Category:日本书店 "wikilink") [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:秋葉原](https://zh.wikipedia.org/wiki/Category:秋葉原 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink") [Category:千代田区の企業](https://zh.wikipedia.org/wiki/Category:千代田区の企業 "wikilink")
 
 1.
 

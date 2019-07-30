@@ -1,21 +1,17 @@
-《**超級機器人大戰R**》（）是[萬普於](../Page/萬普.md "wikilink")2002年8月2日在[Game Boy
-Advance上發售的](../Page/Game_Boy_Advance.md "wikilink")[超級機器人大戰系列遊戲](../Page/超級機器人大戰系列.md "wikilink")，是GBA被推出的超級機器人大戰系列的第2作品。簡稱「機戰R」「SRWR」。
+《**超級機器人大戰R**》（）是[萬普](../Page/萬普.md "wikilink")於2002年8月2日在[Game Boy Advance上發售的](../Page/Game_Boy_Advance.md "wikilink")[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲，是GBA被推出的超級機器人大戰系列的第2作品。簡稱「機戰R」「SRWR」。
 2007年，此作品被移植到日本品牌手機[FOMA上](https://zh.wikipedia.org/wiki/FOMA "wikilink")\[1\]。
 
 宣傳詞為「**新世代，覺醒吧。**」
 
 ## 概要
 
-本作是本作超級機器人大戰系列在Game Boy
-Advance發售的第2作。**全37話**／51關。標題的「R」是指「**Reversal**」。
+本作是本作超級機器人大戰系列在Game Boy Advance發售的第2作。**全37話**／51關。標題的「R」是指「**Reversal**」。
 
-本作特徵，是不少1990年代製作的[機器人動畫參戰](../Page/機器人動畫.md "wikilink")。特別是與GUNDAM、魔神Z並列常時參戰的蓋特系列，本作首次交換作[OVA版參戰](https://zh.wikipedia.org/wiki/OVA "wikilink")。
+本作特徵，是不少1990年代製作的[機器人動畫](../Page/機器人動畫.md "wikilink")參戰。特別是與GUNDAM、魔神Z並列常時參戰的蓋特系列，本作首次交換作[OVA版參戰](https://zh.wikipedia.org/wiki/OVA "wikilink")。
 
 ## 簡介
 
-正在月面基地替新型機「艾克薩蘭斯（）」進行實戰測試的主角、拉吉（）、瑞穗（）3人，突然受到不明的敵人「杜米納斯（）」的介入，及後被連邦軍的戰艦「[-{zh-cn:拉·凯拉姆;
-zh-tw:拉·凱拉姆;
-zh-hk:拉·格林}-](https://zh.wikipedia.org/wiki/拉·凯拉姆 "wikilink")」和「撫子B」所救。主角們因而與他們共同作戰，卻再次受到杜米納斯的襲撃，導致艾克薩蘭斯的「時流引擎」（）暴走。主角3人與機体回到「5年前的世界」……。
+正在月面基地替新型機「艾克薩蘭斯（）」進行實戰測試的主角、拉吉（）、瑞穗（）3人，突然受到不明的敵人「杜米納斯（）」的介入，及後被連邦軍的戰艦「[-{zh-cn:拉·凯拉姆; zh-tw:拉·凱拉姆; zh-hk:拉·格林}-](https://zh.wikipedia.org/wiki/拉·凯拉姆 "wikilink")」和「撫子B」所救。主角們因而與他們共同作戰，卻再次受到杜米納斯的襲撃，導致艾克薩蘭斯的「時流引擎」（）暴走。主角3人與機体回到「5年前的世界」……。
 
 ## 登場作品
 
@@ -30,9 +26,8 @@ zh-hk:拉·格林}-](https://zh.wikipedia.org/wiki/拉·凯拉姆 "wikilink")」
   - [V型電磁俠](https://zh.wikipedia.org/wiki/V型電磁俠 "wikilink")（）
   - [無敵鐵金剛](../Page/無敵鐵金剛.md "wikilink")（）
   - [金剛大魔神](../Page/金剛大魔神.md "wikilink")（）
-  - [機動戰艦撫子](../Page/機動戰艦.md "wikilink")（）
-  - ★[劇場版 機動戰艦撫子 -The prince of
-    darkness-](../Page/機動戰艦_The_prince_of_darkness.md "wikilink")（）
+  - [機動戰艦](../Page/機動戰艦.md "wikilink")撫子（）
+  - ★[劇場版 機動戰艦撫子 -The prince of darkness-](../Page/機動戰艦_The_prince_of_darkness.md "wikilink")（）
   - ★[真蓋特機器人對NEO蓋特機器人](../Page/真蓋特機器人對NEO蓋特機器人.md "wikilink")（）
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")（）
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")（）
@@ -44,8 +39,7 @@ zh-hk:拉·格林}-](https://zh.wikipedia.org/wiki/拉·凯拉姆 "wikilink")」
 
 ### 解說
 
-初參戰作品有《**劇場版 機動戰艦撫子 -The prince of
-darkness-**》、《**真蓋特機器人對NEO蓋特機器人**》、《**GEAR戰士電童**》3作。另外《機動新世紀GUNDAMX》是攜帶機中初參戰。
+初參戰作品有《**劇場版 機動戰艦撫子 -The prince of darkness-**》、《**真蓋特機器人對NEO蓋特機器人**》、《**GEAR戰士電童**》3作。另外《機動新世紀GUNDAMX》是攜帶機中初參戰。
 
 本作的原創機体，《劇場版 機動戰艦撫子 -The prince of darkness-》有大豪寺·凱専用的超級艾斯特巴利斯登場\[2\]。
 
@@ -95,10 +89,7 @@ darkness-**》、《**真蓋特機器人對NEO蓋特機器人**》、《**GEAR�
   - [超級機械人大戰i（超級機械人大戰官方網站）](http://www.suparobo.jp/topics/srw_i/index.html)
   - [超級機械人大戰R（超級機械人大戰官方網站）](http://www.suparobo.jp/srw_lineup/srw_r/index.html)
 
-[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink")
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
-[Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink")
-[Category:時間旅行題材作品](https://zh.wikipedia.org/wiki/Category:時間旅行題材作品 "wikilink")
+[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink") [Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink") [Category:時間旅行題材作品](https://zh.wikipedia.org/wiki/Category:時間旅行題材作品 "wikilink")
 
 1.  [](http://dol.dengeki.com/data/news/2007/12/11/c744f6b72f6f68dcd0f16f213973a7c2.html)
 2.  《機動戰艦撫子》登場凱用的アサルトピット有SUPER FRAME裝着。會繼承序章登場サブロウタ的超級艾斯特巴利斯的改造段數。

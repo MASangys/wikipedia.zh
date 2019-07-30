@@ -2,17 +2,13 @@
 
 ## 历史
 
-VST由Steinberg创立，它最初的的标准和SDK首发于1996年，与其同时推出的还有VST宿主机[Cubase](../Page/Cubase.md "wikilink")
-3.02。当时的VST主要用于音频信号的处理，为音频添加效果。第一批VST插件是Steinberg推出的Espacial（混响插件）、Choirus（合唱效果插件）、Stereo
-Echo（回声效果插件）和Auto-Panner（声相插件）。
+VST由Steinberg创立，它最初的的标准和SDK首发于1996年，与其同时推出的还有VST宿主机[Cubase](../Page/Cubase.md "wikilink") 3.02。当时的VST主要用于音频信号的处理，为音频添加效果。第一批VST插件是Steinberg推出的Espacial（混响插件）、Choirus（合唱效果插件）、Stereo Echo（回声效果插件）和Auto-Panner（声相插件）。
 
 1999年，Steinberg将VST接口规范更新到2.0版本，其中的一个新增能力是插件能够接收并处理MIDI数据。由此，VST乐器技术诞生，开发者可以基于此开发软件合成器和采样器。第一个VSTi插件是Steinberg推出的Neon。\[1\]
 
 2006年，VST接口规范更新到2.4版本，其改动包括增加采用64位精度处理音频的能力。\[2\]
 
-2008年，Steinberg推出VST
-3.0接口规范。它采用了与先前版本差别较大的格式（由先前的**[动态链接库](../Page/动态链接库.md "wikilink")**（DLL）格式改为专有的**VST3**格式），使得诸如[REAPER](https://zh.wikipedia.org/wiki/REAPER "wikilink")、[FL
-Studio等宿主通常将其与先前版本分开进行管理](../Page/FL_Studio.md "wikilink")。
+2008年，Steinberg推出VST 3.0接口规范。它采用了与先前版本差别较大的格式（由先前的**[动态链接库](../Page/动态链接库.md "wikilink")**（DLL）格式改为专有的**VST3**格式），使得诸如[REAPER](https://zh.wikipedia.org/wiki/REAPER "wikilink")、[FL Studio等宿主通常将其与先前版本分开进行管理](../Page/FL_Studio.md "wikilink")。
 
 2011年2月，VST 3.5接口规范发布。
 
@@ -20,12 +16,11 @@ Studio等宿主通常将其与先前版本分开进行管理](../Page/FL_Studio.
 
 ## 分类
 
-根据处理对象的不同，VST插件一共有三种类型。在宿主软件中，“VST”一词单用，通常指的就是VST效果或VST
-MIDI处理器；只有在明确指出“VSTi”的情况下才能表示VST乐器。
+根据处理对象的不同，VST插件一共有三种类型。在宿主软件中，“VST”一词单用，通常指的就是VST效果或VST MIDI处理器；只有在明确指出“VSTi”的情况下才能表示VST乐器。
 
 ### VSTi
 
-**VSTi**（），即**VST乐器**，是VST家族中用于生成音频的一类VST插件。它们作为[音源来使用](https://zh.wikipedia.org/wiki/音源 "wikilink")，一般都是虚拟的[合成器或](../Page/合成器.md "wikilink")[采样器](https://zh.wikipedia.org/wiki/采样器 "wikilink")。其中合成器通过软件[算法和](../Page/算法.md "wikilink")[DSP](https://zh.wikipedia.org/wiki/DSP "wikilink")，模拟真实乐器、硬件合成器或独创性地生成乐音；而采样器则是采样真实乐器的声音，并通过VST插件播放出来。值得一提的是，一些VSTi插件能够通过软件合成媲美真实乐器的声音，效果堪比真实乐器，却拥有比采样音源小的多的体积。
+**VSTi**（），即**VST乐器**，是VST家族中用于生成音频的一类VST插件。它们作为[音源来使用](https://zh.wikipedia.org/wiki/音源 "wikilink")，一般都是虚拟的[合成器](../Page/合成器.md "wikilink")或[采样器](https://zh.wikipedia.org/wiki/采样器 "wikilink")。其中合成器通过软件[算法](../Page/算法.md "wikilink")和[DSP](https://zh.wikipedia.org/wiki/DSP "wikilink")，模拟真实乐器、硬件合成器或独创性地生成乐音；而采样器则是采样真实乐器的声音，并通过VST插件播放出来。值得一提的是，一些VSTi插件能够通过软件合成媲美真实乐器的声音，效果堪比真实乐器，却拥有比采样音源小的多的体积。
 
 ### VST效果
 
@@ -33,8 +28,7 @@ VST效果是VST最基本也是最核心的用途。它们执行和硬件音频�
 
 ### VST MIDI处理器
 
-顾名思义，VST
-MIDI处理器主要用于处理[MIDI消息](../Page/MIDI.md "wikilink")，它是为使用MIDI进行音乐创作的音乐工作者而设计的。比如，有的VST插件可以给MIDI消息加上诸如[转置](https://zh.wikipedia.org/wiki/转置 "wikilink")、[琶音等效果](https://zh.wikipedia.org/wiki/琶音 "wikilink")，也有的可以操作[MIDI控制器以改变宿主处理MIDI的行为](https://zh.wikipedia.org/wiki/MIDI控制器 "wikilink")。
+顾名思义，VST MIDI处理器主要用于处理[MIDI](../Page/MIDI.md "wikilink")消息，它是为使用MIDI进行音乐创作的音乐工作者而设计的。比如，有的VST插件可以给MIDI消息加上诸如[转置](https://zh.wikipedia.org/wiki/转置 "wikilink")、[琶音等效果](https://zh.wikipedia.org/wiki/琶音 "wikilink")，也有的可以操作[MIDI控制器以改变宿主处理MIDI的行为](https://zh.wikipedia.org/wiki/MIDI控制器 "wikilink")。
 
 ## 宿主
 
@@ -44,10 +38,7 @@ MIDI处理器主要用于处理[MIDI消息](../Page/MIDI.md "wikilink")，它是
 
 ### 将VST插件作为插件运行
 
-这样的宿主软件通常会利用VST插件来扩展自己的功能。最典型、最为重要的就是[数字音频工作站](https://zh.wikipedia.org/wiki/数字音频工作站 "wikilink")（），如[Cubase](../Page/Cubase.md "wikilink")、[FL
-Studio](../Page/FL_Studio.md "wikilink")、[REAPER](https://zh.wikipedia.org/wiki/REAPER "wikilink")、[Ableton
-Live等](../Page/Ableton_Live.md "wikilink")。同时，一些处理音频的软件也支持VST效果插件，如[Adobe
-Audition](../Page/Adobe_Audition.md "wikilink")、[Audacity](../Page/Audacity.md "wikilink")。
+这样的宿主软件通常会利用VST插件来扩展自己的功能。最典型、最为重要的就是[数字音频工作站](https://zh.wikipedia.org/wiki/数字音频工作站 "wikilink")（），如[Cubase](../Page/Cubase.md "wikilink")、[FL Studio](../Page/FL_Studio.md "wikilink")、[REAPER](https://zh.wikipedia.org/wiki/REAPER "wikilink")、[Ableton Live等](../Page/Ableton_Live.md "wikilink")。同时，一些处理音频的软件也支持VST效果插件，如[Adobe Audition](../Page/Adobe_Audition.md "wikilink")、[Audacity](../Page/Audacity.md "wikilink")。
 
 ### 独立专用主机
 
@@ -61,22 +52,17 @@ Audition](../Page/Adobe_Audition.md "wikilink")、[Audacity](../Page/Audacity.md
 
 ## 开发
 
-开发VST插件，需要使用Steinberg的VST
-SDK。它使用[C++开发](../Page/C++.md "wikilink")，是一套基于C
-API的C++类。可以从官方网站上下载。
+开发VST插件，需要使用Steinberg的VST SDK。它使用[C++](../Page/C++.md "wikilink")开发，是一套基于C API的C++类。可以从官方网站上下载。
 
-Steinberg也开发了VST GUI，这是VST
-SDK的一部分，也是另外一套C++类，可用于构建图形界面，但相对来说都比较低级。一般地，插件的外观仍然必须由插件的开发者创建。
+Steinberg也开发了VST GUI，这是VST SDK的一部分，也是另外一套C++类，可用于构建图形界面，但相对来说都比较低级。一般地，插件的外观仍然必须由插件的开发者创建。
 
-大量的商业和开源的VST插件是使用[Juce框架编写的](https://zh.wikipedia.org/wiki/Juce "wikilink")，而不是直接调用VST
-SDK，因为它允许从单个代码库构建多格式（VST，AudioUnit和Real Time AudioSuite）的二进制文件。
+大量的商业和开源的VST插件是使用[Juce框架编写的](https://zh.wikipedia.org/wiki/Juce "wikilink")，而不是直接调用VST SDK，因为它允许从单个代码库构建多格式（VST，AudioUnit和Real Time AudioSuite）的二进制文件。
 
 ## 外部链接
 
   - [Steinberg的VST产品页面](https://www.steinberg.net/en/products/vst.html)
   - [Steinberg的GitHub组织页面](https://github.com/steinbergmedia/)
-  - [Steinberg在GitHub上公布的VST 3
-    SDK](https://github.com/steinbergmedia/vst3sdk)
+  - [Steinberg在GitHub上公布的VST 3 SDK](https://github.com/steinbergmedia/vst3sdk)
 
 ## 注释
 
@@ -86,7 +72,5 @@ SDK，因为它允许从单个代码库构建多格式（VST，AudioUnit和Real 
 
 <references />
 
-1.  [Neon By Steinberg. KVR
-    Audio.](http://www.kvraudio.com/product/neon-by-steinberg/details)
-2.  [Steinberg releases VST 2.4 standard with new features.
-    Steinberg.](https://www.steinberg.net/index.php?id=334&L=1)
+1.  [Neon By Steinberg. KVR Audio.](http://www.kvraudio.com/product/neon-by-steinberg/details)
+2.  [Steinberg releases VST 2.4 standard with new features. Steinberg.](https://www.steinberg.net/index.php?id=334&L=1)

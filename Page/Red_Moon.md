@@ -1,6 +1,4 @@
-《**Red
-Moon**》是[Kalafina](../Page/Kalafina.md "wikilink")的第2張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2010年3月17日由[SME
-Records發行](../Page/SME_Records.md "wikilink")。\[1\]
+《**Red Moon**》是[Kalafina](../Page/Kalafina.md "wikilink")的第2張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2010年3月17日由[SME Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
 ## 收錄曲
 
@@ -9,8 +7,7 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 <!-- end list -->
 
 1.  **red moon** (6:37)
-2.  **[光の旋律](https://zh.wikipedia.org/wiki/光の旋律 "wikilink")（光之旋律）**
-    (6:11)
+2.  **[光の旋律](https://zh.wikipedia.org/wiki/光の旋律 "wikilink")（光之旋律）** (6:11)
       -
         [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[空·之·音](../Page/空·之·音.md "wikilink")》主題歌
 3.  **テトテトメトメ（手牽手相望 ）** (4:50)
@@ -25,8 +22,7 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
       -
         NHK歷史特輯「歴史秘話ヒストリア（歷史祕話HISTORY）」主題歌
 10. **intermezzo** (2:00)
-11. **[progressive](https://zh.wikipedia.org/wiki/progressive "wikilink")**
-    (5:42)
+11. **[progressive](https://zh.wikipedia.org/wiki/progressive "wikilink")** (5:42)
 12. **[Lacrimosa](../Page/Lacrimosa_\(單曲\).md "wikilink")** (4:14)
       -
         電視動畫《[黑執事](../Page/黑執事.md "wikilink")》第2期片尾曲
@@ -57,8 +53,6 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
   - [Kalafina 官方網站](http://www.sonymusic.co.jp/Music/Info/kalafina/)
 
-[Category:Kalafina音樂專輯](https://zh.wikipedia.org/wiki/Category:Kalafina音樂專輯 "wikilink")
-[Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
+[Category:Kalafina音樂專輯](https://zh.wikipedia.org/wiki/Category:Kalafina音樂專輯 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
 
 1.  <http://www.sonymusic.co.jp/Music/Info/kalafina/disco/index.html>

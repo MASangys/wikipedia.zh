@@ -11,8 +11,7 @@
 
 ## 考试特点
 
-  - 同[托福](../Page/托福.md "wikilink")[雅思](../Page/雅思.md "wikilink")相似，培生学术英语考试从说写、阅读、听力三个部分来测验考生英语能力。每部分均包括不同的考察范围，考察考生全面的综合能力（integrated
-    skills），从这个角度来说它和新托福（TOEFL iBT）更像。
+  - 同[托福](../Page/托福.md "wikilink")[雅思](../Page/雅思.md "wikilink")相似，培生学术英语考试从说写、阅读、听力三个部分来测验考生英语能力。每部分均包括不同的考察范围，考察考生全面的综合能力（integrated skills），从这个角度来说它和新托福（TOEFL iBT）更像。
   - 考试长度为单一的3个小时。
   - 考试在计算机平台上进行（computer-based)，相对于[雅思](../Page/雅思.md "wikilink")的传统卷面答题，[培生学术英语和新](https://zh.wikipedia.org/wiki/培生学术英语 "wikilink")[托福](../Page/托福.md "wikilink")的网络答题（internet-based）平台更为接近。
   - 同传统的人工阅卷不同，培生学术英语采用全自动的机械评分，考生可在五日内获得成绩。
@@ -59,6 +58,4 @@
   -
   -
   -
-[Category:英语考试](https://zh.wikipedia.org/wiki/Category:英语考试 "wikilink")
-[Category:美国考试](https://zh.wikipedia.org/wiki/Category:美国考试 "wikilink")
-[Category:英国教育](https://zh.wikipedia.org/wiki/Category:英国教育 "wikilink")
+[Category:英语考试](https://zh.wikipedia.org/wiki/Category:英语考试 "wikilink") [Category:美国考试](https://zh.wikipedia.org/wiki/Category:美国考试 "wikilink") [Category:英国教育](https://zh.wikipedia.org/wiki/Category:英国教育 "wikilink")

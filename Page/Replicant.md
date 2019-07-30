@@ -1,8 +1,8 @@
-**Replicant**是一個旨在為不同裝置提供一個完全[自由的](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[Android分發版的項目](../Page/Android.md "wikilink")。\[1\]所以Replicant是一個為了把很多電話要發揮其所有功能所必需的[專有](https://zh.wikipedia.org/wiki/專有軟件 "wikilink")[驅動程式或者其他軟件用](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")[自由軟件取而代之的自由軟件項目](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")。\[2\]\[3\]名稱來自電影《[銀翼殺手](https://zh.wikipedia.org/wiki/銀翼殺手 "wikilink")》中的replicant仿生機械人。
+**Replicant**是一個旨在為不同裝置提供一個完全[自由的](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[Android](../Page/Android.md "wikilink")分發版的項目。\[1\]所以Replicant是一個為了把很多電話要發揮其所有功能所必需的[專有](https://zh.wikipedia.org/wiki/專有軟件 "wikilink")[驅動程式或者其他軟件用](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")[自由軟件取而代之的自由軟件項目](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")。\[2\]\[3\]名稱來自電影《[銀翼殺手](https://zh.wikipedia.org/wiki/銀翼殺手 "wikilink")》中的replicant仿生機械人。
 
 ## 歷史
 
-Replicant計劃在2010年中啟動，以集結各方建立一個完全自由的[Android分支的努力](../Page/Android.md "wikilink")。
+Replicant計劃在2010年中啟動，以集結各方建立一個完全自由的[Android](../Page/Android.md "wikilink")分支的努力。
 
 ## 支援裝置
 
@@ -28,8 +28,7 @@ Replicant計劃在2010年中啟動，以集結各方建立一個完全自由的[
 
   - [官方網站](http://replicant.us/)
   - [支援裝置列表](http://redmine.replicant.us/projects/replicant/wiki#Replicant-Status)
-  - [Richard
-    Stallman用replicant談Android的文章](http://www.guardian.co.uk/technology/2011/sep/19/android-free-software-stallman)
+  - [Richard Stallman用replicant談Android的文章](http://www.guardian.co.uk/technology/2011/sep/19/android-free-software-stallman)
 
 [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink")
 

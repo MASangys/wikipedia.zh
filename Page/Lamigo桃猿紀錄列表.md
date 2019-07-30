@@ -1,5 +1,4 @@
-以下資料為[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[La
-new熊於職棒十五年](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")2004年至職棒二十一年2010年及[Lamigo桃猿職棒二十二年](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")2011年到職棒二十七年2016年，於例行賽所創造個人或團隊紀錄，該數據統計至2016年10月14日。
+以下資料為[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[La new熊於職棒十五年](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")2004年至職棒二十一年2010年及[Lamigo桃猿職棒二十二年](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")2011年到職棒二十七年2016年，於例行賽所創造個人或團隊紀錄，該數據統計至2016年10月14日。
 
 ## 團隊紀錄
 
@@ -21,8 +20,7 @@ new熊於職棒十五年](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")200
 
 ### 生涯打擊紀錄
 
-以下為效力[La
-new熊及](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")[Lamigo桃猿期間](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")，球員於例行賽所為球隊貢獻最高打擊數據或最佳打擊紀錄。
+以下為效力[La new熊及](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")[Lamigo桃猿期間](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")，球員於例行賽所為球隊貢獻最高打擊數據或最佳打擊紀錄。
 
 |                                                        |                                                     |        |            |
 | ------------------------------------------------------ | --------------------------------------------------- | ------ | ---------- |
@@ -49,8 +47,7 @@ new熊及](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")[Lamigo桃猿期�
 
 ### 生涯投球紀錄
 
-以下為效力[La
-new熊及](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")[Lamigo桃猿期間](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")，球員於例行賽所為球隊貢獻最高投球數據或最佳投球紀錄。
+以下為效力[La new熊及](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")[Lamigo桃猿期間](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")，球員於例行賽所為球隊貢獻最高投球數據或最佳投球紀錄。
 
 |                                                       |                                                       |        |                   |
 | ----------------------------------------------------- | ----------------------------------------------------- | ------ | ----------------- |
@@ -365,7 +362,4 @@ new熊及](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")[Lamigo桃猿期�
 
   - [中華職棒全球資訊網](http://www.cpbl.com.tw/)
 
-[Category:棒球紀錄](https://zh.wikipedia.org/wiki/Category:棒球紀錄 "wikilink")
-[Category:中華職棒](https://zh.wikipedia.org/wiki/Category:中華職棒 "wikilink")
-[Category:La_new熊](https://zh.wikipedia.org/wiki/Category:La_new熊 "wikilink")
-[Category:Lamigo桃猿](https://zh.wikipedia.org/wiki/Category:Lamigo桃猿 "wikilink")
+[Category:棒球紀錄](https://zh.wikipedia.org/wiki/Category:棒球紀錄 "wikilink") [Category:中華職棒](https://zh.wikipedia.org/wiki/Category:中華職棒 "wikilink") [Category:La_new熊](https://zh.wikipedia.org/wiki/Category:La_new熊 "wikilink") [Category:Lamigo桃猿](https://zh.wikipedia.org/wiki/Category:Lamigo桃猿 "wikilink")

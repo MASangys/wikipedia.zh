@@ -1,13 +1,8 @@
-《**Going
-History**》是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[林原惠](../Page/林原惠.md "wikilink")的第10張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1995年12月6日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King
-Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
+《**Going History**》是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[林原惠](../Page/林原惠.md "wikilink")的第10張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1995年12月6日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
 
 ## 解說
 
-  - 同名標題曲「Going
-    History」是聲優林原惠於[TBS廣播](../Page/TBS廣播.md "wikilink")主持的電台節目《MEGU
-    OMO
-    上街去吧（<small></small>）》中，在單元[廣播劇](../Page/廣播劇.md "wikilink")《[秀逗魔導士EX.](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#CD有聲書 "wikilink")》選用的片頭主題曲。
+  - 同名標題曲「Going History」是聲優林原惠於[TBS廣播](../Page/TBS廣播.md "wikilink")主持的電台節目《MEGU OMO 上街去吧（<small></small>）》中，在單元[廣播劇](../Page/廣播劇.md "wikilink")《[秀逗魔導士EX.](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#CD有聲書 "wikilink")》選用的片頭主題曲。
   - 於發行林原惠的專輯《》發行之際，為宣傳而製作此曲的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。順帶一提此影像作為珍藏影片（），收錄於林原惠精選輯《》的初回限定版。
 
 ## 收錄曲
@@ -30,6 +25,4 @@ Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
       -
         《Bertemu》、《秀逗魔導士MEGUMIX》
 
-[Category:1995年單曲](https://zh.wikipedia.org/wiki/Category:1995年單曲 "wikilink")
-[Category:秀逗魔導士歌曲](https://zh.wikipedia.org/wiki/Category:秀逗魔導士歌曲 "wikilink")
-[Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink")
+[Category:1995年單曲](https://zh.wikipedia.org/wiki/Category:1995年單曲 "wikilink") [Category:秀逗魔導士歌曲](https://zh.wikipedia.org/wiki/Category:秀逗魔導士歌曲 "wikilink") [Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink")

@@ -1,12 +1,9 @@
-『**Are You Ready To Lock On?\! 〜livescope at the JCB Hall〜**』为[GARNET
-CROW的第六张LIVE](../Page/GARNET_CROW.md "wikilink") DVD。2009年5月20日由[GIZA
-studio发售](../Page/GIZA_studio.md "wikilink")。
+『**Are You Ready To Lock On?\! 〜livescope at the JCB Hall〜**』为[GARNET CROW的第六张LIVE](../Page/GARNET_CROW.md "wikilink") DVD。2009年5月20日由[GIZA studio发售](../Page/GIZA_studio.md "wikilink")。
 
 ## 解説
 
   - 完全收录2008年8月16日・8月17日在JCB HALL举行的LIVE。
-  - 有同一天发售的单曲「[Doing all
-    right](https://zh.wikipedia.org/wiki/Doing_all_right "wikilink")」的联动应招特典。
+  - 有同一天发售的单曲「[Doing all right](https://zh.wikipedia.org/wiki/Doing_all_right "wikilink")」的联动应招特典。
   - 在当初预定时，规格设定为只有DVD一张、价格为3990日元。发售前2个月的3月28日，在官方网站上发表了对收录内容进行重新排版的消息，根据这个变成了收录2张DVD，发售价格变为了4500日元。
   - 发售之后的当天公信榜排位为3位。最高位为3位。周间排位为4位（音乐类）、周间排位为10位（综合类）。
 

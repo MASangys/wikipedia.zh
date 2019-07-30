@@ -1,11 +1,8 @@
-**KiXtart**是用于Windows的自由格式的[脚本语言](../Page/脚本语言.md "wikilink")。在它的官方网站上把它描述为登录脚本处理程序和增强的批处理脚本语言。\[1\]它的名称是"kick
-start"的[混成詞](../Page/混成詞.md "wikilink")。
+**KiXtart**是用于Windows的自由格式的[脚本语言](../Page/脚本语言.md "wikilink")。在它的官方网站上把它描述为登录脚本处理程序和增强的批处理脚本语言。\[1\]它的名称是"kick start"的[混成詞](../Page/混成詞.md "wikilink")。
 
 ## 概述
 
-KiXtart的开发者是[微软公司的荷兰职员Ruud](../Page/微软.md "wikilink") van
-Velsen。它以[careware的方式提供给用户](https://zh.wikipedia.org/wiki/careware "wikilink")。最初开发于1991，旨在提供用于微软局域网管理器(Microsoft
-LAN Manager)环境的登录脚本。
+KiXtart的开发者是[微软](../Page/微软.md "wikilink")公司的荷兰职员Ruud van Velsen。它以[careware的方式提供给用户](https://zh.wikipedia.org/wiki/careware "wikilink")。最初开发于1991，旨在提供用于微软局域网管理器(Microsoft LAN Manager)环境的登录脚本。
 
 它含有丰富的内置功能，可简化脚本编写和访问[ADSI](../Page/Active_Directory.md "wikilink")，[ADO](../Page/ADO.md "wikilink")，[WMI等](https://zh.wikipedia.org/wiki/WMI "wikilink")。使用此语言可以显示信息，设置环境变量，启动程序，连接网络驱动器，读取和编辑注册表，改变当前驱动器和目录以及更多的功能。
 
@@ -66,17 +63,12 @@ KiXtart 2010
 
 ## 相关软件
 
-其他基于KiXtart技术的图形软件包括流行的开源解决方案[Script Start
-Community](https://archive.is/20130201230704/http://www.scriptstart.com/content.php?s=download)
+其他基于KiXtart技术的图形软件包括流行的开源解决方案[Script Start Community](https://archive.is/20130201230704/http://www.scriptstart.com/content.php?s=download)
 
 ## 书籍
 
-  - Kelly, Bob. *Start to Finish Guide to Scripting with KiXtart* / [Bob
-    Kelly](https://zh.wikipedia.org/wiki/Bob_Kelly_\(author\) "wikilink").
-    Greenland, NH : Agility Press, 2004. ISBN 1-932577-09-2
-  - Jesse M. Torres. *Windows Admin Scripting Little Black Book, 3rd
-    Edition* / Jesse M. Torres. Paraglyph Press, 2006. ISBN
-    1-933097-10-8
+  - Kelly, Bob. *Start to Finish Guide to Scripting with KiXtart* / [Bob Kelly](https://zh.wikipedia.org/wiki/Bob_Kelly_\(author\) "wikilink"). Greenland, NH : Agility Press, 2004. ISBN 1-932577-09-2
+  - Jesse M. Torres. *Windows Admin Scripting Little Black Book, 3rd Edition* / Jesse M. Torres. Paraglyph Press, 2006. ISBN 1-933097-10-8
 
 ## 参考
 

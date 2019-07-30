@@ -6,8 +6,7 @@
   - 本單曲為倖田首次獲得[Oricon](../Page/Oricon.md "wikilink")初登場第1名的作品。
   - 本作非5萬張限定生産作品，為本次3非限定生產中的單曲第1張。
   - B面曲「Sweet Kiss」僅收錄於此單曲。
-  - 12週單曲連發中的故事性系列5首音樂錄影帶中（「Candy feat.
-    Mr.Blistah」「you」「feel」「Lies」「Someday」）關連曲第1首。
+  - 12週單曲連發中的故事性系列5首音樂錄影帶中（「Candy feat. Mr.Blistah」「you」「feel」「Lies」「Someday」）關連曲第1首。
   - [音樂錄影帶](../Page/音樂錄影帶.md "wikilink")請到了[塚本高史](../Page/塚本高史.md "wikilink")擔任演出。
 
 ## 發行版本
@@ -25,6 +24,4 @@
 3.  '''you （Instrumental） '''
 4.  **Sweet Kiss （Instrumental）**
 
-[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink")
-[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")
-[Category:2005年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink") [Category:2005年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon單曲週榜冠軍作品 "wikilink")

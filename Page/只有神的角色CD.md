@@ -2,8 +2,7 @@
 
 ## 概要
 
-動畫第一季歌曲包括四位攻略對象，高原步美（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）、青山美生（[悠木碧](../Page/悠木碧.md "wikilink")）、中川加儂（[東山奈央](../Page/東山奈央.md "wikilink")）和汐宮栞（[花澤香菜](../Page/花澤香菜.md "wikilink")），再加入女主角艾魯西（[伊藤加奈惠](../Page/伊藤加奈惠.md "wikilink")，「只有神的角色CD.0」），以及作品中的遊戲《彩色蠟筆
-空之藝術》的女主角飛鳥空（[櫻井智](../Page/櫻井智.md "wikilink")，外號的「只有神的角色CD.蠟筆」，2和3之間）共6人的角色單曲。
+動畫第一季歌曲包括四位攻略對象，高原步美（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）、青山美生（[悠木碧](../Page/悠木碧.md "wikilink")）、中川加儂（[東山奈央](../Page/東山奈央.md "wikilink")）和汐宮栞（[花澤香菜](../Page/花澤香菜.md "wikilink")），再加入女主角艾魯西（[伊藤加奈惠](../Page/伊藤加奈惠.md "wikilink")，「只有神的角色CD.0」），以及作品中的遊戲《彩色蠟筆 空之藝術》的女主角飛鳥空（[櫻井智](../Page/櫻井智.md "wikilink")，外號的「只有神的角色CD.蠟筆」，2和3之間）共6人的角色單曲。
 
 動畫第二季追加三位攻略對象，春日楠（[小清水亞美](../Page/小清水亞美.md "wikilink")）、小阪千尋（[阿澄佳奈](../Page/阿澄佳奈.md "wikilink")）和長瀬純（[豐崎愛生](../Page/豐崎愛生.md "wikilink")），第二女主角哈克雅（[早見沙織](../Page/早見沙織.md "wikilink")，「只有神的角色CD.00」），以及男主角桂木桂馬（[下野紘](../Page/下野紘.md "wikilink")，「只有神的角色CD.神」）共5人的角色單曲。
 
@@ -194,10 +193,6 @@
 
 ## 外部連結
 
-  - [神のみぞ知るセカイ
-    リリース情報](https://web.archive.org/web/20130605213528/http://kaminomi.jp/cd/index.html)
+  - [神のみぞ知るセカイ リリース情報](https://web.archive.org/web/20130605213528/http://kaminomi.jp/cd/index.html)
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")
-[Category:NBC環球娛樂歌曲](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:NBC環球娛樂歌曲](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂歌曲 "wikilink")

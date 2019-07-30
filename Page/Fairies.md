@@ -1,17 +1,12 @@
-**Fairies**（）是日本 女子偶像團體，2011年7月27日成立。所屬藝能事務所[VISION
-FACTORY](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")，唱片廠牌是日本[Avex唱片公司的](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[SONIC
-GROOVE](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")\[1\]。取團名「Fairies」是因為「有如妖精曼舞般的舞姿」，英語中「Fairy」為[小仙子或妖精的意思](https://zh.wikipedia.org/wiki/小仙子 "wikilink")。
+**Fairies**（）是日本 女子歌舞團體，2011年7月27日成立。所屬經紀公司為[RISINGPRO](../Page/RISINGPRO.md "wikilink")，所屬唱片品牌是則是[愛貝克思娛樂](../Page/愛貝克思娛樂.md "wikilink")旗下的[SONIC GROOVE](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。取團名「Fairies」是因為「有如妖精曼舞般的舞姿」，英語中「Fairy」為[小仙子或妖精的意思](https://zh.wikipedia.org/wiki/小仙子 "wikilink")。
 
-2011年12月30日，Fairies擊敗同門組合[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")、[伊藤美裕與南韓組合](https://zh.wikipedia.org/wiki/伊藤美裕 "wikilink")[2NE1](../Page/2NE1.md "wikilink")，奪得第53屆[日本唱片大獎最優秀新人獎](../Page/日本唱片大獎.md "wikilink")\[2\]。日本傳媒亦指出Fairies以13.6歲的平均年齡打平了由[℃-ute保持了](../Page/℃-ute.md "wikilink")4年的史上最年少領獎紀錄。\[3\]
+2011年12月30日，Fairies擊敗同門組合[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")、與南韓組合[2NE1](../Page/2NE1.md "wikilink")，奪得第53屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")最優秀新人獎\[1\]。日本傳媒亦指出Fairies以13.6歲的平均年齡打平了由[℃-ute](../Page/℃-ute.md "wikilink")保持了4年的史上最年少領獎紀錄。\[2\]
 
 ## 概要
 
-Fairies為藝能事務所[VISION
-FACTORY所培育的表演型偶像團體](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")，與至今以來的偶像團體不同，她們的目標是成為能代表日本的能歌善舞偶像團體，進而朝世界邁進。\[4\]成員挑選自日本各地13所舞蹈學校，100多名候選人中選出7位團員，出道前每天要接受最少10小時的舞蹈訓練。團名是於[日本電視台節目](../Page/日本電視台.md "wikilink")《[爽快情報variety
-SUKKIRI\!\!](https://zh.wikipedia.org/wiki/爽快情報variety_SUKKIRI!! "wikilink")》的特別企畫單元中向大眾募集的結果，以「有如妖精曼舞般的舞姿」這個理由而選用了「Fairies」做為團名\[5\]。
+Fairies為藝能事務所[VISION FACTORY所培育的表演型偶像團體](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")，與至今以來的偶像團體不同，她們的目標是成為能代表日本的能歌善舞偶像團體，進而朝世界邁進。\[3\]成員挑選自日本各地13所舞蹈學校，100多名候選人中選出7位團員，出道前每天要接受最少10小時的舞蹈訓練。團名是於[日本電視台](../Page/日本電視台.md "wikilink")節目《[爽快情報variety SUKKIRI\!\!](https://zh.wikipedia.org/wiki/爽快情報variety_SUKKIRI!! "wikilink")》的特別企畫單元中向大眾募集的結果，以「有如妖精曼舞般的舞姿」這個理由而選用了「Fairies」做為團名\[4\]。
 
-[牧野安娜是Fairies的舞蹈老師](../Page/牧野安娜.md "wikilink")。在Fairies結成之前，伊藤萌萌香與下村實生是其學生\[6\]。在節目《SUKKIRI\!\!》內，林田真尋被牧野安娜罵至落淚。之前牧野安娜亦曾培養出[安室奈美恵](https://zh.wikipedia.org/wiki/安室奈美恵 "wikilink")、[MAX](https://zh.wikipedia.org/wiki/MAX_\(日本音樂團體\) "wikilink")、[SPEED](../Page/SPEED_\(日本音樂團體\).md "wikilink")、[DA
-PUMP等衆多明星](../Page/DA_PUMP.md "wikilink")。
+[牧野安娜](../Page/牧野安娜.md "wikilink")是Fairies的舞蹈老師。在Fairies結成之前，伊藤萌萌香與下村實生是其學生\[5\]。在節目《SUKKIRI\!\!》內，林田真尋被牧野安娜罵至落淚。之前牧野安娜亦曾培養出[安室奈美恵](https://zh.wikipedia.org/wiki/安室奈美恵 "wikilink")、[MAX](https://zh.wikipedia.org/wiki/MAX_\(日本音樂團體\) "wikilink")、[SPEED](../Page/SPEED_\(日本音樂團體\).md "wikilink")、[DA PUMP等衆多明星](../Page/DA_PUMP.md "wikilink")。
 
 ## 成員
 
@@ -149,34 +144,26 @@ PUMP等衆多明星](../Page/DA_PUMP.md "wikilink")。
 </table>
 
   - 全員平均跳舞年資大約等於2006年至今，即平均高達6年的豐富舞蹈經驗。
-  - 全員被安排就讀[東京同一所中學](https://zh.wikipedia.org/wiki/東京 "wikilink")，並在同一間宿舍共同生活，關係密切。[土田晃之曾問她們所就讀的學校名稱是否叫](../Page/土田晃之.md "wikilink")「Fairies中學」。\[7\]
+  - 全員被安排就讀[東京同一所中學](https://zh.wikipedia.org/wiki/東京 "wikilink")，並在同一間宿舍共同生活，關係密切。[土田晃之](../Page/土田晃之.md "wikilink")曾問她們所就讀的學校名稱是否叫「Fairies中學」。\[6\]
 
 ## 簡歷
 
   - **2011年**
-      - 7月27日， [VISION
-        FACTORY宣布一個新組合由七位女國中生組成](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")，同時在[日本電視台](../Page/日本電視台.md "wikilink")《[SUKKIRI\!\!](https://zh.wikipedia.org/wiki/SUKKIRI!! "wikilink")》中發表。
+      - 7月27日， [VISION FACTORY宣布一個新組合由七位女國中生組成](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")，同時在[日本電視台](../Page/日本電視台.md "wikilink")《[SUKKIRI\!\!](https://zh.wikipedia.org/wiki/SUKKIRI!! "wikilink")》中發表。
       - 8月3日，團體的名稱在《SUKKIRI\!\!》展示會上宣布。
-      - 8月16日至28日，
-        從[AEON太田購物中心](https://zh.wikipedia.org/wiki/AEON太田購物中心 "wikilink")\[8\]開始，相繼在[Lazona川崎廣場](https://zh.wikipedia.org/wiki/Lazona川崎廣場 "wikilink")\[9\]，[AEON鶴見購物中心](https://zh.wikipedia.org/wiki/AEON鶴見購物中心 "wikilink")\[10\]，[AEON武蔵村山購物中心](https://zh.wikipedia.org/wiki/AEON武蔵村山購物中心 "wikilink")\[11\]四個地點亮相，舉行的一次活動。
+      - 8月16日至28日， 從[AEON太田購物中心](https://zh.wikipedia.org/wiki/AEON太田購物中心 "wikilink")\[7\]開始，相繼在[Lazona川崎廣場](https://zh.wikipedia.org/wiki/Lazona川崎廣場 "wikilink")\[8\]，[AEON鶴見購物中心](https://zh.wikipedia.org/wiki/AEON鶴見購物中心 "wikilink")\[9\]，[AEON武蔵村山購物中心](https://zh.wikipedia.org/wiki/AEON武蔵村山購物中心 "wikilink")\[10\]四個地點亮相，舉行的一次活動。
       - 9月21日，發行第一張單曲「More Kiss/Song for You」。
-      - 11月18日，第53回[日本唱片大獎新人獎獲獎確認](../Page/日本唱片大獎.md "wikilink")。
-      - 11月26日，第44回[日本有線大獎新人奬獲獎確認](../Page/日本有線大獎.md "wikilink")。
+      - 11月18日，第53回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")新人獎獲獎確認。
+      - 11月26日，第44回[日本有線大獎](../Page/日本有線大獎.md "wikilink")新人奬獲獎確認。
       - 12月21日，發行第二張單曲「HERO/Sweet Jewel」。
       - 12月30日，獲得第53屆日本唱片大賞最優秀新人賞。
   - **2012年**
-      - 4月始，成為[亞瑟士廣告代言人](../Page/亞瑟士.md "wikilink")。Fairies全員被安排在廣告內穿上TIGON「[LazerBeam](https://zh.wikipedia.org/wiki/LazerBeam "wikilink")」系列運動鞋跳出她們的新單曲《[Beat
-        Generation](https://zh.wikipedia.org/wiki/Beat_Generation "wikilink")》指定的舞步\[12\]。亞瑟士更特為Fairies設立專屬網頁，除順理成章以Fairies為封面人物外，更附LazerBeam、Fairies廣告making等多項資訊。\[13\]
-      - 4月1日，首個定期電視節目《》開始於[東京電視台播放](../Page/東京電視台.md "wikilink")\[14\]，由[岡田圭右主持](https://zh.wikipedia.org/wiki/岡田圭右 "wikilink")，當中包括「Fairies
-        Show Time」等環節。
-      - 4月4日，第三張單曲「Beat Generation/No More Distance」發行預訂日\[15\]
-      - 4月29日，開始每週與師姐[NANA](https://zh.wikipedia.org/wiki/NANA_\(歌手\) "wikilink")（隸屬[MAX](https://zh.wikipedia.org/wiki/MAX_\(日本音樂團體\) "wikilink")）、[中澤裕子](../Page/中澤裕子.md "wikilink")、[早安少女組共同出演電視節目](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")《[中井正廣之nigra
-        varieteo](https://zh.wikipedia.org/wiki/中井正廣之nigra_varieteo "wikilink")》，Fairies演出完新單曲《[Beat
-        Generation](https://zh.wikipedia.org/wiki/Beat_Generation "wikilink")》後，受到[中居正廣的高度評價](../Page/中居正廣.md "wikilink")。其後中居正廣更安排野元空、下村實生二人與早安比拼舞步。\[16\]
-      - 7月24日，於LAZONA川崎Plaza二樓舉辦Mini
-        Live音樂會及握手會，獻唱歌曲包括[麥當娜的](../Page/麥當娜.md "wikilink")《Material
-        Girl》等。此項目一直舉辦至8月18日。
-      - 8月10日，出席[神宮外苑煙花大會](../Page/明治神宮外苑.md "wikilink")。\[17\]
+      - 4月始，成為[亞瑟士](../Page/亞瑟士.md "wikilink")廣告代言人。Fairies全員被安排在廣告內穿上TIGON「[LazerBeam](https://zh.wikipedia.org/wiki/LazerBeam "wikilink")」系列運動鞋跳出她們的新單曲《[Beat Generation](https://zh.wikipedia.org/wiki/Beat_Generation "wikilink")》指定的舞步\[11\]。亞瑟士更特為Fairies設立專屬網頁，除順理成章以Fairies為封面人物外，更附LazerBeam、Fairies廣告making等多項資訊。\[12\]
+      - 4月1日，首個定期電視節目《》開始於[東京電視台](../Page/東京電視台.md "wikilink")播放\[13\]，由[岡田圭右主持](https://zh.wikipedia.org/wiki/岡田圭右 "wikilink")，當中包括「Fairies Show Time」等環節。
+      - 4月4日，第三張單曲「Beat Generation/No More Distance」發行預訂日\[14\]
+      - 4月29日，開始每週與師姐[NANA](https://zh.wikipedia.org/wiki/NANA_\(歌手\) "wikilink")（隸屬[MAX](https://zh.wikipedia.org/wiki/MAX_\(日本音樂團體\) "wikilink")）、[中澤裕子](../Page/中澤裕子.md "wikilink")、[早安少女組共同出演電視節目](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")《[中井正廣之nigra varieteo](https://zh.wikipedia.org/wiki/中井正廣之nigra_varieteo "wikilink")》，Fairies演出完新單曲《[Beat Generation](https://zh.wikipedia.org/wiki/Beat_Generation "wikilink")》後，受到[中居正廣](../Page/中居正廣.md "wikilink")的高度評價。其後中居正廣更安排野元空、下村實生二人與早安比拼舞步。\[15\]
+      - 7月24日，於LAZONA川崎Plaza二樓舉辦Mini Live音樂會及握手會，獻唱歌曲包括[麥當娜](../Page/麥當娜.md "wikilink")的《Material Girl》等。此項目一直舉辦至8月18日。
+      - 8月10日，出席[神宮外苑煙花大會](../Page/明治神宮外苑.md "wikilink")。\[16\]
 
 ## 唱片
 
@@ -198,27 +185,27 @@ PUMP等衆多明星](../Page/DA_PUMP.md "wikilink")。
 <td><p>2011年9月21日</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/More_Kiss/Song_for_You" title="wikilink">More Kiss/Song for You</a></strong></p></td>
 <td><p>11位</p></td>
-<td><p><strong>More Kiss</strong>是<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>「プロマーシャル」音樂合作歌曲[18]<br />
-<a href="../Page/哈根達斯.md" title="wikilink">哈根達斯編</a>・<a href="https://zh.wikipedia.org/wiki/レコチョク" title="wikilink">レコチョク編</a>・<a href="https://zh.wikipedia.org/wiki/LOTTE" title="wikilink">LOTTE</a>「<a href="https://zh.wikipedia.org/wiki/Fit&#39;s" title="wikilink">Fit's</a>」編・<a href="../Page/三星電子.md" title="wikilink">三星電子</a>「<a href="https://zh.wikipedia.org/wiki/Galaxy_S_II" title="wikilink">Galaxy S II</a>」編</p></td>
+<td><p><strong>More Kiss</strong>是<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>「プロマーシャル」音樂合作歌曲[17]<br />
+<a href="../Page/哈根達斯.md" title="wikilink">哈根達斯</a>編・<a href="https://zh.wikipedia.org/wiki/レコチョク" title="wikilink">レコチョク編</a>・<a href="https://zh.wikipedia.org/wiki/LOTTE" title="wikilink">LOTTE</a>「<a href="https://zh.wikipedia.org/wiki/Fit&#39;s" title="wikilink">Fit's</a>」編・<a href="../Page/三星電子.md" title="wikilink">三星電子</a>「<a href="https://zh.wikipedia.org/wiki/Galaxy_S_II" title="wikilink">Galaxy S II</a>」編</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2011年12月21日</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/HERO/Sweet_Jewel" title="wikilink">HERO/Sweet Jewel</a></strong></p></td>
 <td><p>9位</p></td>
-<td><p><strong>HERO</strong>是Fairies表參道印象歌曲2011官方歌曲[19][20]</p></td>
+<td><p><strong>HERO</strong>是Fairies表參道印象歌曲2011官方歌曲[18][19]</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2012年4月4日</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Beat_Generation/No_More_Distance" title="wikilink">Beat Generation/No More Distance</a></strong></p></td>
 <td><p>5位</p></td>
-<td><p><strong>Beat Generation</strong>是<a href="../Page/亞瑟士.md" title="wikilink">亞瑟士TIGON</a>「LazerBeam」印象歌曲[21]</p></td>
+<td><p><strong>Beat Generation</strong>是<a href="../Page/亞瑟士.md" title="wikilink">亞瑟士</a>TIGON「LazerBeam」印象歌曲[20]</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2012年7月25日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Tweet_Dream/Sparkle" title="wikilink">Tweet Dream/Sparkle</a></strong>[22]</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Tweet_Dream/Sparkle" title="wikilink">Tweet Dream/Sparkle</a></strong>[21]</p></td>
 <td><p>9位</p></td>
 <td><p><strong>Tweet Dream</strong>是<a href="https://zh.wikipedia.org/wiki/早稻田ACADEMY" title="wikilink">早稻田ACADEMY</a>「足球2012」篇CM歌曲</p></td>
 </tr>
@@ -691,40 +678,28 @@ CD盤</p>
 
 ### 定期節目
 
-  - [爽快情報バラエティー
-    スッキリ\!\!](https://zh.wikipedia.org/wiki/爽快情報バラエティー_スッキリ!! "wikilink")（2011年7月27日
-    - 8月31日、日本電視台） - 每週三節目內出道的2個月密着「アイドルの作り方教えます\!」連續企劃。
-  - [うたなび\!](https://zh.wikipedia.org/wiki/うたなび! "wikilink")「Fairiesパーク」（2011年10月
-    - 2012年3月、全国12局電視台） - 定期環節
-  - [原宿キラキラ学院](https://zh.wikipedia.org/wiki/原宿キラキラ学院 "wikilink")（2012年4月1日
-    -2012年9月30日 、東京電視台）
-  - [爆笑学園ナセバナ〜ル\!](https://zh.wikipedia.org/wiki/爆笑学園ナセバナ〜ル! "wikilink")（2012年10月9日
-    - 、每週二）
+  - [爽快情報バラエティー スッキリ\!\!](https://zh.wikipedia.org/wiki/爽快情報バラエティー_スッキリ!! "wikilink")（2011年7月27日 - 8月31日、日本電視台） - 每週三節目內出道的2個月密着「アイドルの作り方教えます\!」連續企劃。
+  - [うたなび\!](https://zh.wikipedia.org/wiki/うたなび! "wikilink")「Fairiesパーク」（2011年10月 - 2012年3月、全国12局電視台） - 定期環節
+  - [原宿キラキラ学院](https://zh.wikipedia.org/wiki/原宿キラキラ学院 "wikilink")（2012年4月1日 -2012年9月30日 、東京電視台）
+  - [爆笑学園ナセバナ〜ル\!](https://zh.wikipedia.org/wiki/爆笑学園ナセバナ〜ル! "wikilink")（2012年10月9日 - 、每週二）
 
 ### 音樂性節目
 
   - [魁！音樂排行榜](../Page/魁！音樂排行榜.md "wikilink")（2011年9月21日，[富士電視台](../Page/富士電視台.md "wikilink")）
   - [ハッピーMusic](https://zh.wikipedia.org/wiki/ハッピーMusic "wikilink")（2011年9月23日，[日本電視台](../Page/日本電視台.md "wikilink")）
   - [月刊MelodiX\!](https://zh.wikipedia.org/wiki/月刊MelodiX! "wikilink")（2011年9月24日，[東京電視台](../Page/東京電視台.md "wikilink")）
-  - [MUSIC
-    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2011年9月25日、12月11日、18日，[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")）
-  - [HEY\!HEY\!HEY\!MUSIC
-    CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")（2011年9月26日，富士電視台）
-  - [Coming
-    Soon\!\!](../Page/Coming_Soon!!.md "wikilink")（2011年9月26日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
+  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2011年9月25日、12月11日、18日，[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")）
+  - [HEY\!HEY\!HEY\!MUSIC CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")（2011年9月26日，富士電視台）
+  - [Coming Soon\!\!](../Page/Coming_Soon!!.md "wikilink")（2011年9月26日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
   - [Mu-Jack](../Page/Mu-Jack.md "wikilink")（2011年9月30日，[關西電視台](../Page/關西電視台.md "wikilink")）
-  - [ミュージックフェア](https://zh.wikipedia.org/wiki/ミュージックフェア "wikilink")（SHIONOGI
-    MUSIC FAIR）（2011年10月1日、8日，富士電視台）
-  - [MUSIC
-    STATION](../Page/MUSIC_STATION.md "wikilink")（2011年10月21日，[朝日電視台](../Page/朝日電視台.md "wikilink")）
-  - [BEST
-    HIT歌謠祭2011](https://zh.wikipedia.org/wiki/BEST_HIT歌謠祭 "wikilink")（2011年11月24日，[讀賣電視台](../Page/讀賣電視台.md "wikilink")）
+  - [ミュージックフェア](https://zh.wikipedia.org/wiki/ミュージックフェア "wikilink")（SHIONOGI MUSIC FAIR）（2011年10月1日、8日，富士電視台）
+  - [MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")（2011年10月21日，[朝日電視台](../Page/朝日電視台.md "wikilink")）
+  - [BEST HIT歌謠祭2011](https://zh.wikipedia.org/wiki/BEST_HIT歌謠祭 "wikilink")（2011年11月24日，[讀賣電視台](../Page/讀賣電視台.md "wikilink")）
   - [ベストアーティスト2011](https://zh.wikipedia.org/wiki/日テレ系音楽の祭典_ベストアーティスト "wikilink")（2011年11月30日，日本電視台）
   - [2011 FNS歌謡祭](../Page/FNS歌謠祭.md "wikilink")（2011年12月7日，富士電視台）
   - [第44回日本有線大賞](../Page/日本有線大獎.md "wikilink")（2011年12月10日，TBS電視台）
   - [レコ☆Hits\!](https://zh.wikipedia.org/wiki/レコ☆Hits! "wikilink")（2011年12月20日，日本電視台）
-  - [COUNT DOWN
-    TV](../Page/COUNT_DOWN_TV.md "wikilink")（2011年12月24日，TBS電視台）
+  - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（2011年12月24日，TBS電視台）
   - 第53回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")（2011年12月30日，TBS電視台）
   - [オンタマ](https://zh.wikipedia.org/wiki/オンタマ "wikilink")（2012年1月4日－6日，朝日電視台）
   - 第54回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")（2012年12月30日，TBS電視台）
@@ -734,32 +709,26 @@ CD盤</p>
   - 亮相表演
     2011年8月16日AEON太田，20、21日Lazona川崎廣場，27日AEON鶴見，28日AEON武蔵村山
   - 首演MiniCountdown
-    2011年9月17日[橫濱皇后廣場](https://zh.wikipedia.org/wiki/橫濱皇后廣場 "wikilink")\[23\]，18日[東京巨蛋後樂園遊樂園](../Page/東京巨蛋.md "wikilink")，19日[AEON河城](https://zh.wikipedia.org/wiki/AEON河城 "wikilink")\[24\]
+    2011年9月17日[橫濱皇后廣場](https://zh.wikipedia.org/wiki/橫濱皇后廣場 "wikilink")\[22\]，18日[東京巨蛋](../Page/東京巨蛋.md "wikilink")後樂園遊樂園，19日[AEON河城](https://zh.wikipedia.org/wiki/AEON河城 "wikilink")\[23\]
   - 首演特別紀念活動
     2011年9月23日Lazona川崎廣場，25日橫濱皇后廣場
   - 迷你現場表演
-    2011年10月15日東京巨蛋後樂園遊樂園，22日AEON河城，23日AEON水戸内原，29日YourELM八千代台店，30日AEON羽生，11月3日AEON土浦，12日池袋Sunshine
-    City，19日LaLaport柏の葉，20日AEON富士南，23日Ario橋本，26日COCOON新都心COCOON廣場，12月11日YourELM成田店中央廣場
+    2011年10月15日東京巨蛋後樂園遊樂園，22日AEON河城，23日AEON水戸内原，29日YourELM八千代台店，30日AEON羽生，11月3日AEON土浦，12日池袋Sunshine City，19日LaLaport柏の葉，20日AEON富士南，23日Ario橋本，26日COCOON新都心COCOON廣場，12月11日YourELM成田店中央廣場
   - 「More Kiss/Song for You」購買者獨家活動
     2011年11月6日原宿天文館
 
 ### 新聞訊息節目
 
-  - [SUKKIRI\!\!](https://zh.wikipedia.org/wiki/SUKKIRI!! "wikilink")（2011年7月27日
-    - 8月31日、毎週三、日本電視台）
-  - [MEZAMASHI
-    TV](https://zh.wikipedia.org/wiki/MEZAMASHI_TV "wikilink")（2011年9月22日、富士電視台）
-  - [情報7days
-    ニュースキャスター](https://zh.wikipedia.org/wiki/情報7days_ニュースキャスター "wikilink")（2011年9月24日、TBS）
-  - [SUNDAY
-    JAPON](https://zh.wikipedia.org/wiki/SUNDAY_JAPON "wikilink")（2011年9月25日、TBS）
+  - [SUKKIRI\!\!](https://zh.wikipedia.org/wiki/SUKKIRI!! "wikilink")（2011年7月27日 - 8月31日、毎週三、日本電視台）
+  - [MEZAMASHI TV](https://zh.wikipedia.org/wiki/MEZAMASHI_TV "wikilink")（2011年9月22日、富士電視台）
+  - [情報7days ニュースキャスター](https://zh.wikipedia.org/wiki/情報7days_ニュースキャスター "wikilink")（2011年9月24日、TBS）
+  - [SUNDAY JAPON](https://zh.wikipedia.org/wiki/SUNDAY_JAPON "wikilink")（2011年9月25日、TBS）
 
 ### 電視廣告
 
   - 朝日電視台商業合作計畫「」（2011年）
-      - [哈根達斯](../Page/哈根達斯.md "wikilink")・・[LOTTE](https://zh.wikipedia.org/wiki/LOTTE "wikilink")「[Fit's](https://zh.wikipedia.org/wiki/Fit's "wikilink")」・[三星電子](../Page/三星電子.md "wikilink")「[Galaxy
-        S II](https://zh.wikipedia.org/wiki/Galaxy_S_II "wikilink")」
-  - [亞瑟士TIGON](../Page/亞瑟士.md "wikilink")「LazerBeam」運動鞋\[25\]（2012年）
+      - [哈根達斯](../Page/哈根達斯.md "wikilink")・・[LOTTE](https://zh.wikipedia.org/wiki/LOTTE "wikilink")「[Fit's](https://zh.wikipedia.org/wiki/Fit's "wikilink")」・[三星電子](../Page/三星電子.md "wikilink")「[Galaxy S II](https://zh.wikipedia.org/wiki/Galaxy_S_II "wikilink")」
+  - [亞瑟士](../Page/亞瑟士.md "wikilink")TIGON「LazerBeam」運動鞋\[24\]（2012年）
 
 ### 動画配信節目
 
@@ -769,14 +738,11 @@ CD盤</p>
 
 ### 雜誌連載
 
-  - [CD\&DLでーた](https://zh.wikipedia.org/wiki/CD&DLでーた "wikilink")「FairiesのDear☆You\!」（2011年9・10月号
-    - 、[Enterbrain](../Page/Enterbrain.md "wikilink")）
+  - [CD\&DLでーた](https://zh.wikipedia.org/wiki/CD&DLでーた "wikilink")「FairiesのDear☆You\!」（2011年9・10月号 - 、[Enterbrain](../Page/Enterbrain.md "wikilink")）
 
 ### 漫画作品
 
-  - [Margaret](https://zh.wikipedia.org/wiki/Margaret "wikilink")「ユメノトビラ-Dance
-    with Fairies-」（2012年8月4日号 -
-    、[集英社](../Page/集英社.md "wikilink")）\[26\]\[27\]
+  - [Margaret](https://zh.wikipedia.org/wiki/Margaret "wikilink")「ユメノトビラ-Dance with Fairies-」（2012年8月4日号 - 、[集英社](../Page/集英社.md "wikilink")）\[25\]\[26\]
 
 ## 獎項
 
@@ -798,7 +764,7 @@ CD盤</p>
 <td><ul>
 <li>第44屆<a href="https://zh.wikipedia.org/wiki/日本有線大賞" title="wikilink">日本有線大賞</a></li>
 </ul></td>
-<td><p>新人獎[28]</p></td>
+<td><p>新人獎[27]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2012</strong></p></td>
@@ -819,109 +785,91 @@ CD盤</p>
 
 ## 相關連結
 
-  - [VISION
-    FACTORY](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")
+  - [VISION FACTORY](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")
   - [Avex](https://zh.wikipedia.org/wiki/Avex "wikilink")
-  - [SONIC
-    GROOVE](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")
+  - [SONIC GROOVE](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")
 
 ## 外部連結
 
-  - 官方網站
-      - [Fairies Avex](http://avexnet.or.jp/fairies/index.html)
-      - [Fairies VISION
-        FACTORY](http://www.visionfactory.jp/artist/fairies/index.html)
-      - [Avex
-        Taiwaw介紹](http://www.avex.com.tw/artist/artist_profile.asp?ArtistCode=FAIRIJ)
-  - 官方博客
-      - [Gree](http://gree.jp/fairies)
-      - [Ameba](http://ameblo.jp/fairies-official/)
-  - 視頻
-      - [Fairies You Tube頻道](http://www.youtube.com/FairiesCH)
-      - [Ustream](http://www.ustream.tv/channel/fairies-official)
-      - [VISION FACTORY You
-        Tube頻道](http://www.youtube.com/VISIONFACTORYch)
-  - 社群
-      - [Facebook](http://www.facebook.com/pages/Fairies%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%BA/189426927786614)
-      - [Yahoo\! mobage](http://yahoo-mbga.jp/53663751)
-      - [Fairies' international forums](http://youseikiss.prophpbb.com/)
-  - Twitter（次序以關注者數量排列）
+  - [Fairies OFFICIAL WEBSITE](https://fairies-web.jp/)
 
+  -
+  -
+  -
+  -
 <!-- end list -->
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+  - （成員野元空與林田真尋的YouTube特別頻道）
 
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink")
-[Category:VISION_FACTORY](https://zh.wikipedia.org/wiki/Category:VISION_FACTORY "wikilink")
+  - 成員個人Twitter
 
-1.  SONIC GROOVE，是avex的音樂廠牌之一。為日本藝能事務所VISION
-    FACTORY旗下所屬藝人專用，同時事務所內超過半數以上藝人都是屬於此廠牌。
+      -
+        （原做為第4張單曲發行紀念的期間限定企劃，後來繼續使用）
 
-2.  [](http://yuumeijininfo.blog52.fc2.com/blog-entry-18.html)
+    <!-- end list -->
 
-3.  [](http://www.sponichi.co.jp/entertainment/news/2011/12/31/kiji/K20111231002341630.html)，日本傳媒是以整數年齡計算出13.6歲。但若以小數計算，Fairies得獎時平均年齡是13.9599歲，而℃-ute已達14.2951歲，因此事實上Fairies已經打破了℃-ute當年所創的紀錄。
+      -
+      -
+      -
+      -
+      -
+  - 停止更新
 
-4.  [中学生軍団「Fairies」がK-Popに挑戦状](https://archive.is/20120715214556/hochi.yomiuri.co.jp/entertainment/news/20110822-OHT1T00002.htm)
+      - [Fairies](http://www.ustream.tv/channel/fairies-official) - [Ustream](https://zh.wikipedia.org/wiki/Ustream "wikilink")
 
-5.  [艾絲貝克中文官方網簡介](http://www.avex.com.tw/artist/artist_profile.asp?ArtistCode=FAIRIJ)
+      - [Fairies 官方部落格](http://gree.jp/fairies) - [GREE](https://zh.wikipedia.org/wiki/GREE "wikilink")（2011年8月3日 - 2013年8月18日）
 
-6.  LOVEJUNX代表 牧野安娜的「ｆrom
-    Anna」“[FAIRIES（2011-08-05）](http://ameblo.jp/lovejunx321/entry-10975805433.html)”.
-    2011年8月17日。
+      -
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:RISINGPRO](https://zh.wikipedia.org/wiki/Category:RISINGPRO "wikilink") [Category:VISION_FACTORY](https://zh.wikipedia.org/wiki/Category:VISION_FACTORY "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink")
 
-7.  2012年5月13日《中井正廣之nigra varieteo》5分8秒
+1.  [](http://yuumeijininfo.blog52.fc2.com/blog-entry-18.html)
 
-8.  [AEON-OTA Shopping Center](http://ja.wikipedia.org/wiki/イオンモール太田)
+2.  [](http://www.sponichi.co.jp/entertainment/news/2011/12/31/kiji/K20111231002341630.html)，日本傳媒是以整數年齡計算出13.6歲。但若以小數計算，Fairies得獎時平均年齡是13.9599歲，而℃-ute已達14.2951歲，因此事實上Fairies已經打破了℃-ute當年所創的紀錄。
 
-9.  [Lazona Kawasaki Plaza](http://ja.wikipedia.org/wiki/ラゾーナ川崎プラザ)
+3.  [中学生軍団「Fairies」がK-Popに挑戦状](https://archive.is/20120715214556/hochi.yomiuri.co.jp/entertainment/news/20110822-OHT1T00002.htm)
 
-10. [AEON Mall Tsurumi
-    Ryokuchi](http://ja.wikipedia.org/wiki/イオンモール鶴見リーファ)
+4.  [艾絲貝克中文官方網簡介](http://www.avex.com.tw/artist/artist_profile.asp?ArtistCode=FAIRIJ)
 
-11. [AEON Mall Musasi
-    Murayama](http://ja.wikipedia.org/wiki/イオンモールむさし村山ミュー)
+5.  LOVEJUNX代表 牧野安娜的「ｆrom Anna」“[FAIRIES（2011-08-05）](http://ameblo.jp/lovejunx321/entry-10975805433.html)”. 2011年8月17日。
 
-12. [](http://www.youtube.com/watch?v=PxiOdPeFMVM)
+6.  2012年5月13日《中井正廣之nigra varieteo》5分8秒
 
-13. [](http://www.asics-trading-tigon.com/fairies/)
+7.  [AEON-OTA Shopping Center](http://ja.wikipedia.org/wiki/イオンモール太田)
 
-14. [](http://www.visionfactory.jp/kirakira/)
+8.  [Lazona Kawasaki Plaza](http://ja.wikipedia.org/wiki/ラゾーナ川崎プラザ)
 
-15. [報知新聞社2012年2月12日](https://web.archive.org/web/20120213195653/http://hochi.yomiuri.co.jp/entertainment/news/20120212-OHT1T00011.htm)
+9.  [AEON Mall Tsurumi Ryokuchi](http://ja.wikipedia.org/wiki/イオンモール鶴見リーファ)
 
-16. [](http://www.ntv.co.jp/black/)
+10. [AEON Mall Musasi Murayama](http://ja.wikipedia.org/wiki/イオンモールむさし村山ミュー)
 
-17. [](http://www.jinguhanabi.com/)
+11. [](http://www.youtube.com/watch?v=PxiOdPeFMVM)
+
+12. [](http://www.asics-trading-tigon.com/fairies/)
+
+13. [](http://www.visionfactory.jp/kirakira/)
+
+14. [報知新聞社2012年2月12日](https://web.archive.org/web/20120213195653/http://hochi.yomiuri.co.jp/entertainment/news/20120212-OHT1T00011.htm)
+
+15. [](http://www.ntv.co.jp/black/)
+
+16. [](http://www.jinguhanabi.com/)
+
+17.
 
 18.
 
 19.
 
 20.
+21. [Fairies：「Tweet Dream/Sparkle」](http://www.visionfactory.jp/news/news_archives/1206161605_fairies.html)、[](http://news.mu-mo.net/view/22798)
 
-21.
-22. [Fairies：「Tweet
-    Dream/Sparkle」](http://www.visionfactory.jp/news/news_archives/1206161605_fairies.html)、[](http://news.mu-mo.net/view/22798)
+22. [Queen's Square YOKOHAMA](http://ja.wikipedia.org/wiki/クイーンズスクエア横浜)
 
+23. [AEON LakeTown](http://ja.wikipedia.org/wiki/イオンレイクタウン)
 
-23. [Queen's Square YOKOHAMA](http://ja.wikipedia.org/wiki/クイーンズスクエア横浜)
-
-24. [AEON LakeTown](http://ja.wikipedia.org/wiki/イオンレイクタウン)
-
+24.
 25.
+
 26.
 
-27.
-
-28. [第44回日本有線大賞 HISTORY
-    日本有線大賞](http://ranking.cansystem.info/grandprix/?md=h&ts=44)，與「[薰和友樹，偶爾還有MUKKU。](../Page/薰和友樹，偶爾還有MUKKU。.md "wikilink")」共同獲獎。
+27. [第44回日本有線大賞 HISTORY 日本有線大賞](http://ranking.cansystem.info/grandprix/?md=h&ts=44)，與「[薰和友樹，偶爾還有MUKKU。](../Page/薰和友樹，偶爾還有MUKKU。.md "wikilink")」共同獲獎。

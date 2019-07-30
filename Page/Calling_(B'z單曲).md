@@ -1,10 +1,8 @@
-《**Calling**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z的第](../Page/B'z.md "wikilink")22張[單曲和代表作之一](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1997年7月9日發行。
+《**Calling**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")的第22張[單曲和代表作之一](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1997年7月9日發行。
 
 ## 簡介
 
-  - 電視台於1997年7月11日放送的[MUSIC
-    STATION第一次披露](../Page/MUSIC_STATION.md "wikilink")，同年12月的[MUSIC
-    STATION與](../Page/MUSIC_STATION.md "wikilink")[SURVIVE一起披露](../Page/SURVIVE.md "wikilink")。
+  - 電視台於1997年7月11日放送的[MUSIC STATION第一次披露](../Page/MUSIC_STATION.md "wikilink")，同年12月的[MUSIC STATION與](../Page/MUSIC_STATION.md "wikilink")[SURVIVE](../Page/SURVIVE.md "wikilink")一起披露。
 
 <!-- end list -->
 
@@ -49,18 +47,11 @@
 
 ## 主題曲
 
-[朝日電視台連續劇](../Page/朝日電視台.md "wikilink")《[玻璃假面](../Page/千面女郎_\(電視劇\).md "wikilink")》主題曲
+[朝日電視台](../Page/朝日電視台.md "wikilink")連續劇《[玻璃假面](../Page/千面女郎_\(電視劇\).md "wikilink")》主題曲
 
 ## 參考資料
 
-  - [1997年7月21日付 シングルチャート
-    TOP10](http://www.musictvprogram.com/corner-ranking-1997-7-21.html)
-  - [1997年間シングルランキング
-    TOP100](https://web.archive.org/web/20141225051351/http://www.musictvprogram.com/corner-ranking-1997.html)
+  - [1997年7月21日付 シングルチャート TOP10](http://www.musictvprogram.com/corner-ranking-1997-7-21.html)
+  - [1997年間シングルランキング TOP100](https://web.archive.org/web/20141225051351/http://www.musictvprogram.com/corner-ranking-1997.html)
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:1997年單曲](https://zh.wikipedia.org/wiki/Category:1997年單曲 "wikilink")
-[Category:朝日電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇主題曲 "wikilink")
-[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
-[Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink")
-[Category:1997年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1997年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:1997年單曲](https://zh.wikipedia.org/wiki/Category:1997年單曲 "wikilink") [Category:朝日電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇主題曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:1997年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1997年Oricon單曲週榜冠軍作品 "wikilink")

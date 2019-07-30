@@ -8,7 +8,7 @@
 
 ## 跨性別者權益
 
-2004年，敘利亞婦女海芭（Hiba）成為第一位獲得[變性手術許可的敘利亞人](../Page/變性.md "wikilink")\[3\]。
+2004年，敘利亞婦女海芭（Hiba）成為第一位獲得[變性](../Page/變性.md "wikilink")手術許可的敘利亞人\[3\]。
 
 ## 愛滋病
 
@@ -23,9 +23,7 @@
 
 ## 參考文獻
 
-[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
-[Category:叙利亚LGBT](https://zh.wikipedia.org/wiki/Category:叙利亚LGBT "wikilink")
-[Category:敘利亞人權](https://zh.wikipedia.org/wiki/Category:敘利亞人權 "wikilink")
+[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink") [Category:叙利亚LGBT](https://zh.wikipedia.org/wiki/Category:叙利亚LGBT "wikilink") [Category:敘利亞人權](https://zh.wikipedia.org/wiki/Category:敘利亞人權 "wikilink")
 
 1.
 2.

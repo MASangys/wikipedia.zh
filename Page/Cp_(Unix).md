@@ -1,8 +1,6 @@
-**cp**是一个用于复制[文件的](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")[UNIX](https://zh.wikipedia.org/wiki/Unix "wikilink")[命令](../Page/命令_\(计算机\).md "wikilink")。文件可以被复制到相同目录下，也可以复制到其他完全不同的目录中（甚至复制到不同的[文件系统或是](../Page/文件系统.md "wikilink")[硬盘中](../Page/硬盘.md "wikilink")）。如果文件将被复制到相同的目录中，那么目标文件文件必须使用不同于原文件的文件名；在其他情况下，目标文件的名称允许使用与原文件相同或不同的名称。原始的文件不会被改变。
+**cp**是一个用于复制[文件的](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")[UNIX](https://zh.wikipedia.org/wiki/Unix "wikilink")[命令](../Page/命令_\(计算机\).md "wikilink")。文件可以被复制到相同目录下，也可以复制到其他完全不同的目录中（甚至复制到不同的[文件系统](../Page/文件系统.md "wikilink")或是[硬盘](../Page/硬盘.md "wikilink")中）。如果文件将被复制到相同的目录中，那么目标文件文件必须使用不同于原文件的文件名；在其他情况下，目标文件的名称允许使用与原文件相同或不同的名称。原始的文件不会被改变。
 
-*cp*
-命令现在拥有多种实现版本，两个主要的版本是[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink")
-*cp* 与 [GNU](../Page/GNU.md "wikilink") *cp*。 GNU *cp* 有许多额外的选项。\[1\]
+*cp* 命令现在拥有多种实现版本，两个主要的版本是[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink") *cp* 与 [GNU](../Page/GNU.md "wikilink") *cp*。 GNU *cp* 有许多额外的选项。\[1\]
 
 ## 用法
 
@@ -30,9 +28,7 @@
 
 **-L** (间接引用) – 使cp命令跟随符号链接，这样cp命令将复制符号链接指向的文件而不是符号链接到目的位置。
 
-**-i** (交互) –
-提示您将要被覆盖之文件的文件名。当目标目录或是目标文件中包含一个与原文件（或目录）名字相同的文件（或目录）时，交互就会发生，如果你输入
-'y' 或者区域语言中等价于 'y'的字符，cp操作将覆盖目标文件，其余的任意回答都会避免目标文件被原文件覆盖。
+**-i** (交互) – 提示您将要被覆盖之文件的文件名。当目标目录或是目标文件中包含一个与原文件（或目录）名字相同的文件（或目录）时，交互就会发生，如果你输入 'y' 或者区域语言中等价于 'y'的字符，cp操作将覆盖目标文件，其余的任意回答都会避免目标文件被原文件覆盖。
 
 **-p** (保持) – 对于每个原文件（或目录），在复制时也复制下述特性：
 
@@ -82,10 +78,7 @@
      cp -R /home/nick/clients /home/nick/customers
 ```
 
-这一复制将clients目录以及其中包含的所有文件、子目录与子目录中的文件复制到customers/clients目录下。
-注意在原目录的结尾无斜杠符：如果你在GNU基础的系统上执行`cp -R
-/home/nick/clients/ /home/nick/customers`，这与原目录没有加结尾斜杠符的效果相同。
-但如果你在BSD基础系统上执行相同的命令，这将复制所有client目录中的*内容*，而不是client目录本身。
+这一复制将clients目录以及其中包含的所有文件、子目录与子目录中的文件复制到customers/clients目录下。 注意在原目录的结尾无斜杠符：如果你在GNU基础的系统上执行`cp -R /home/nick/clients/ /home/nick/customers`，这与原目录没有加结尾斜杠符的效果相同。 但如果你在BSD基础系统上执行相同的命令，这将复制所有client目录中的*内容*，而不是client目录本身。
 
 欲将复制指定的一些文件到另一目录中，执行：
 
@@ -101,34 +94,24 @@
      cp programs/*.c .
 ```
 
-这一操作将programs目录下所有以 .c 结尾的文件都复制到当前目录下，当前目录用单个点符号 *.* 表示。在 *.c* 和最后的 *.*
-之间必须用空格隔开。
+这一操作将programs目录下所有以 .c 结尾的文件都复制到当前目录下，当前目录用单个点符号 *.* 表示。在 *.c* 和最后的 *.* 之间必须用空格隔开。
 
 将文件复制到另一已存在文件的过程是：将已存在文件以更新模式打开（使用这一模式需要拥有目标文件的写入权限）。操作的结果是目标文件保留了其原来拥有的权限位。
 
 ## 相关 Unix 命令
 
-  - [cpio](https://zh.wikipedia.org/wiki/cpio "wikilink") –
-    复制完整的目录结构到其他文件系统位置
-  - [tar](https://zh.wikipedia.org/wiki/tar_\(计算机科学\) "wikilink") –
-    建立文件归档
-  - [link](https://zh.wikipedia.org/wiki/link_\(Unix\) "wikilink") –
-    建立文件或目录的链接的系统调用
-  - [ln](https://zh.wikipedia.org/wiki/ln_\(Unix\) "wikilink") –
-    建立文件或目录的链接文件
+  - [cpio](https://zh.wikipedia.org/wiki/cpio "wikilink") – 复制完整的目录结构到其他文件系统位置
+  - [tar](https://zh.wikipedia.org/wiki/tar_\(计算机科学\) "wikilink") – 建立文件归档
+  - [link](https://zh.wikipedia.org/wiki/link_\(Unix\) "wikilink") – 建立文件或目录的链接的系统调用
+  - [ln](https://zh.wikipedia.org/wiki/ln_\(Unix\) "wikilink") – 建立文件或目录的链接文件
   - [mv](https://zh.wikipedia.org/wiki/mv_\(Unix\) "wikilink") – 移动文件或目录
   - [rm](../Page/Rm_\(Unix\).md "wikilink") – 移除文件或目录
-  - [unlink](https://zh.wikipedia.org/wiki/unlink_\(Unix\) "wikilink") –
-    删除文件或目录的系统调用
-  - [chmod](https://zh.wikipedia.org/wiki/chmod "wikilink") –
-    修改文件或目录的权限位
-  - [chown](https://zh.wikipedia.org/wiki/chown "wikilink") –
-    修改文件或目录的隶属关系
-  - [chgrp](https://zh.wikipedia.org/wiki/chgrp "wikilink") –
-    修改文件或目录的所属组
+  - [unlink](https://zh.wikipedia.org/wiki/unlink_\(Unix\) "wikilink") – 删除文件或目录的系统调用
+  - [chmod](https://zh.wikipedia.org/wiki/chmod "wikilink") – 修改文件或目录的权限位
+  - [chown](https://zh.wikipedia.org/wiki/chown "wikilink") – 修改文件或目录的隶属关系
+  - [chgrp](https://zh.wikipedia.org/wiki/chgrp "wikilink") – 修改文件或目录的所属组
   - [uucp](https://zh.wikipedia.org/wiki/uUCP "wikilink") – UNIX间复制协议
-  - [scp](https://zh.wikipedia.org/wiki/Secure_copy "wikilink") –
-    通过SSH隧道安全复制
+  - [scp](https://zh.wikipedia.org/wiki/Secure_copy "wikilink") – 通过SSH隧道安全复制
 
 ## 参见
 

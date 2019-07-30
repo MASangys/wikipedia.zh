@@ -1,60 +1,24 @@
-**Kazaky**是一組結合舞蹈、音樂、時尚的烏克蘭男子舞蹈樂團，成員有：**Oleg Zhezhel**、**Artur
-Gaspar**、**Kyryll Fedorenko**及**Artemy Lazarev**。整體舞蹈風格以《acro
-dance》、《waacking》和《Jazz Funk》為主。2012年10月22日首張專輯"THE HILLS
-CHRONICLES"正式發行。2019年新增兩位生力軍**Zhenja Goncharenko**及**Vlad Koval**。
+**Kazaky**是一組結合舞蹈、音樂、時尚的烏克蘭男子舞蹈樂團，成員有：**Oleg Zhezhel**、**Artur Gaspar**、**Kyryll Fedorenko**及**Artemy Lazarev**。整體舞蹈風格以《acro dance》、《waacking》和《Jazz Funk》為主。2012年10月22日首張專輯"THE HILLS CHRONICLES"正式發行。2019年新增兩位生力軍**Zhenja Goncharenko**及**Vlad Koval**。
 
 ## 簡介
 
-2010年9月30日在[YouTube上公佈第一支MV](../Page/YouTube.md "wikilink")-**『In The
-Middle』**即正式出道。他們穿著5吋高跟鞋以卓越的舞蹈技巧、獨創音樂及前衛時尚造型，並且毫不掩飾的展現精實身材，迅速在網路世界走紅。2011年2月發表第二支MV-**『LOVE』**後更是引起時尚圈高度注意。年初參加烏克蘭設計師
-**《ANOUKI BICHOLLA Fall/Winter 2011/12》**開場秀，年中在**《2011-[Life
-Ball](http://en.wikipedia.org/wiki/Life_Ball)》**可見其身影，同時在世界知名設計師**《[Dsquared<sup>2</sup>](http://en.wikipedia.org/wiki/Dsquared)Spring/Summer
-2012 men's fashion show》**中演出。各界媒體如*[New York
-Post](https://zh.wikipedia.org/wiki/New_York_Post "wikilink"),
-[GQ](../Page/GQ.md "wikilink"),
-[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink"),
-[L'Officiel](https://zh.wikipedia.org/wiki/L'Officiel "wikilink"), [Los
-Angeles
-Times](https://zh.wikipedia.org/wiki/Los_Angeles_Times "wikilink"), [The
-New York
-Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink"),
-[GOSSIPS
-Japan](http://24.media.tumblr.com/tumblr_lozvanIlzn1qb866so1_r1_1280.png),
-DNA magazine, Attitude, Dorian Magazine, Instinct, HONK* 都可看到相關報導。
+2010年9月30日在[YouTube](../Page/YouTube.md "wikilink")上公佈第一支MV-**『In The Middle』**即正式出道。他們穿著5吋高跟鞋以卓越的舞蹈技巧、獨創音樂及前衛時尚造型，並且毫不掩飾的展現精實身材，迅速在網路世界走紅。2011年2月發表第二支MV-**『LOVE』**後更是引起時尚圈高度注意。年初參加烏克蘭設計師 **《ANOUKI BICHOLLA Fall/Winter 2011/12》**開場秀，年中在**《2011-[Life Ball](http://en.wikipedia.org/wiki/Life_Ball)》**可見其身影，同時在世界知名設計師**《[Dsquared<sup>2</sup>](http://en.wikipedia.org/wiki/Dsquared)Spring/Summer 2012 men's fashion show》**中演出。各界媒體如*[New York Post](https://zh.wikipedia.org/wiki/New_York_Post "wikilink"), [GQ](../Page/GQ.md "wikilink"), [Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink"), [L'Officiel](https://zh.wikipedia.org/wiki/L'Officiel "wikilink"), [Los Angeles Times](https://zh.wikipedia.org/wiki/Los_Angeles_Times "wikilink"), [The New York Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink"), [GOSSIPS Japan](http://24.media.tumblr.com/tumblr_lozvanIlzn1qb866so1_r1_1280.png), DNA magazine, Attitude, Dorian Magazine, Instinct, HONK* 都可看到相關報導。
 
-2011年8月初，其創始成員**Stas Pavlov**因自身意願關係，宣佈正式退出該團，義大利籍的專業舞者**Francesco
-Borgato**隨即成為**Kazaky**新成員。同年9月開始進行首次世界巡迴演出**A'Men Tour**，足跡遍佈歐洲、美洲及亞洲。
+2011年8月初，其創始成員**Stas Pavlov**因自身意願關係，宣佈正式退出該團，義大利籍的專業舞者**Francesco Borgato**隨即成為**Kazaky**新成員。同年9月開始進行首次世界巡迴演出**A'Men Tour**，足跡遍佈歐洲、美洲及亞洲。
 
-2012年1月中第三支MV-**『Dance And
-Change』**在[YouTube正式推出](../Page/YouTube.md "wikilink")。3月參與全球知名歌手[瑪丹娜單曲MV](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")**"[Girl
-Gone
-Wild](http://en.wikipedia.org/wiki/Girl_Gone_Wild)"**的拍攝。緊接著跟知名設計師[NICOLA
-FORMICHETTI](http://en.wikipedia.org/wiki/Nicola_Formichetti)與雜誌V合作拍攝寫真短片**HORROR
-PICTURE SHOW**，10月份更乘勝推出第4支MV**『Last Night』**。
+2012年1月中第三支MV-**『Dance And Change』**在[YouTube](../Page/YouTube.md "wikilink")正式推出。3月參與全球知名歌手[瑪丹娜單曲MV](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")**"[Girl Gone Wild](http://en.wikipedia.org/wiki/Girl_Gone_Wild)"**的拍攝。緊接著跟知名設計師[NICOLA FORMICHETTI](http://en.wikipedia.org/wiki/Nicola_Formichetti)與雜誌V合作拍攝寫真短片**HORROR PICTURE SHOW**，10月份更乘勝推出第4支MV**『Last Night』**。
 
-2013年2月25日在第5支MV預告**『Crazy Law』**公佈之際，義大利籍團員**Francesco
-Borgato**宣布退出團隊，而原創始團員**Stas
-Pavlov**出現在預告中，即表示經過一年半的離開，現在正式回歸團隊。並於3月1日接受時尚雜誌Harper's
-Bazaar邀請至[哈薩克參與時尚活動演出](https://zh.wikipedia.org/wiki/哈薩克 "wikilink")，此為**Stas
-Pavlov**回歸後第一場公開演出。3月15日於土耳其伊斯坦堡開始全新巡迴演出**SECRET MISSION
-TOUR**。從5月24日在烏克蘭敖德薩的現場演出起，成員之一 Oleg Zhezhel
-因年初的腳傷產生影響，暫時停止所有現場演出。期間不少謠言八卦指出他將退出團隊，但在本人親自發表聲明以及參與其它活動後，該謠言及不攻自破。
+2013年2月25日在第5支MV預告**『Crazy Law』**公佈之際，義大利籍團員**Francesco Borgato**宣布退出團隊，而原創始團員**Stas Pavlov**出現在預告中，即表示經過一年半的離開，現在正式回歸團隊。並於3月1日接受時尚雜誌Harper's Bazaar邀請至[哈薩克參與時尚活動演出](https://zh.wikipedia.org/wiki/哈薩克 "wikilink")，此為**Stas Pavlov**回歸後第一場公開演出。3月15日於土耳其伊斯坦堡開始全新巡迴演出**SECRET MISSION TOUR**。從5月24日在烏克蘭敖德薩的現場演出起，成員之一 Oleg Zhezhel 因年初的腳傷產生影響，暫時停止所有現場演出。期間不少謠言八卦指出他將退出團隊，但在本人親自發表聲明以及參與其它活動後，該謠言及不攻自破。
 
   -
-    "Всем Привет\!))) Первым делом, извините, что не выхожу так долго на
-    связь. Вы получите ответы на ваши вопросы очень скоро. А касательно
-    слухов о том, что я ушел или что-то в этом роде - это все не более
-    чем слухи. Люблю Вас Всех\!:\*
+    "Всем Привет\!))) Первым делом, извините, что не выхожу так долго на связь. Вы получите ответы на ваши вопросы очень скоро. А касательно слухов о том, что я ушел или что-то в этом роде - это все не более чем слухи. Люблю Вас Всех\!:\*
     大家好，很抱歉這麼久沒跟大家聯絡，你們的疑問將會儘快獲得解答。至於先前有關退團的謠言，那就只是謠言,僅此而已。我愛你們\!\!:\*"
 
-2013年12月12日，第三張專輯I Like It Part2發表的隔日，成員之一Oleg Zhezhel
-發表重大聲明"本人仍舊為KAZAKY團員之一，但退居幕後持續共同創造KAZAKY所有的音樂，創作及現場演出編排，KAZAKY正式成為3人團體。"
+2013年12月12日，第三張專輯I Like It Part2發表的隔日，成員之一Oleg Zhezhel 發表重大聲明"本人仍舊為KAZAKY團員之一，但退居幕後持續共同創造KAZAKY所有的音樂，創作及現場演出編排，KAZAKY正式成為3人團體。"
 
-2014年10月30日，Stas Pavlov 再次退出團隊。來自烏克蘭知名舞蹈教室"Dance Centre
-Myway"編舞老師--"Artemy Lazarev"成為新團員。並一同參與新巡迴"The Pulse Tour"的演出。
+2014年10月30日，Stas Pavlov 再次退出團隊。來自烏克蘭知名舞蹈教室"Dance Centre Myway"編舞老師--"Artemy Lazarev"成為新團員。並一同參與新巡迴"The Pulse Tour"的演出。
 
-2015年3月6日\~07日，KAZAKY前往瑞典參加Melodifestivalen2015，與瑞典知名女歌手[Loreen](../Page/羅琳_\(歌手\).md "wikilink")
-合作共同演出。
+2015年3月6日\~07日，KAZAKY前往瑞典參加Melodifestivalen2015，與瑞典知名女歌手[Loreen](../Page/羅琳_\(歌手\).md "wikilink") 合作共同演出。
 
 2016年烏克蘭時間06月4日晚間，KAZAKY於官方臉書宣布團員間因個人事業追求與發展，將無期限暫停KAZAKY的活動。但不排除將來仍有機會以團體之姿再次上台，故6月18日以及7月8日將會是最後的公開演出。
 
@@ -333,8 +297,4 @@ Myway"編舞老師--"Artemy Lazarev"成為新團員。並一同參與新巡迴"T
   -
   - [KazakyTaiwan](https://www.facebook.com/kazakyTaiwan)
 
-[Category:浩室音樂團體](https://zh.wikipedia.org/wiki/Category:浩室音樂團體 "wikilink")
-[Category:流行電音團體](https://zh.wikipedia.org/wiki/Category:流行電音團體 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
-[Category:烏克蘭樂團](https://zh.wikipedia.org/wiki/Category:烏克蘭樂團 "wikilink")
-[Category:2010年烏克蘭建立](https://zh.wikipedia.org/wiki/Category:2010年烏克蘭建立 "wikilink")
+[Category:浩室音樂團體](https://zh.wikipedia.org/wiki/Category:浩室音樂團體 "wikilink") [Category:流行電音團體](https://zh.wikipedia.org/wiki/Category:流行電音團體 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:烏克蘭樂團](https://zh.wikipedia.org/wiki/Category:烏克蘭樂團 "wikilink") [Category:2010年烏克蘭建立](https://zh.wikipedia.org/wiki/Category:2010年烏克蘭建立 "wikilink")

@@ -1,18 +1,18 @@
-是[日本](../Page/日本.md "wikilink")[光荣公司發行的遊戲軟件](https://zh.wikipedia.org/wiki/光荣公司 "wikilink")，是以[蒙古民族英雄](https://zh.wikipedia.org/wiki/蒙古 "wikilink")[成吉思汗為中心的回合制](../Page/成吉思汗.md "wikilink")[戰略遊戲](https://zh.wikipedia.org/wiki/戰略遊戲 "wikilink")。同系列遊戲自1985年推出第一作起，共推出四作。本作為此系列的第四代，於1998年發售。1999年，推出該作的威力加強版（PK版）。
+是[日本](../Page/日本.md "wikilink")[光荣公司發行的遊戲軟件](https://zh.wikipedia.org/wiki/光荣公司 "wikilink")，是以[蒙古民族英雄](https://zh.wikipedia.org/wiki/蒙古 "wikilink")[成吉思汗](../Page/成吉思汗.md "wikilink")為中心的回合制[戰略遊戲](https://zh.wikipedia.org/wiki/戰略遊戲 "wikilink")。同系列遊戲自1985年推出第一作起，共推出四作。本作為此系列的第四代，於1998年發售。1999年，推出該作的威力加強版（PK版）。
 
 ## 概略
 
-遊戲目的：玩家選取大地圖上的任何一個[國家](https://zh.wikipedia.org/wiki/國家 "wikilink")，透過發展內政、[外交及征服](../Page/外交.md "wikilink")，消滅其餘所有的勢力，統一[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[非洲及](../Page/非洲.md "wikilink")[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。
+遊戲目的：玩家選取大地圖上的任何一個[國家](https://zh.wikipedia.org/wiki/國家 "wikilink")，透過發展內政、[外交](../Page/外交.md "wikilink")及征服，消滅其餘所有的勢力，統一[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[非洲](../Page/非洲.md "wikilink")及[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。
 
 本作在遊戲內容、可使用國家，以及登場的史實人物，均比前作大幅增加。角色能力值，分為「政治、戰鬥、智謀」三項，以100為上限。兵種屬性分為「[步兵](../Page/步兵.md "wikilink")、[騎兵](https://zh.wikipedia.org/wiki/騎兵 "wikilink")、[弓兵](https://zh.wikipedia.org/wiki/弓兵 "wikilink")、[水軍](https://zh.wikipedia.org/wiki/水軍 "wikilink")」，以S級為上限。另有[內政及](https://zh.wikipedia.org/wiki/內政 "wikilink")[戰鬥特技](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")，兩者都有6種技能。
 
-遊戲亦使用大地圖進行，以首都為首，玩家可以因應需要，派遣[將軍建設各種設施](https://zh.wikipedia.org/wiki/將軍 "wikilink")（首都本身只能設置，不能廢除，直到威力加強版推出後，才追加「廢都」功能，將選址不佳的[首都廢棄](../Page/首都.md "wikilink")。此外，在威力加強版裡，玩家可在遊戲開始前，創立最多三個新勢力，並可自由在大地圖上建設首都）。
+遊戲亦使用大地圖進行，以首都為首，玩家可以因應需要，派遣[將軍建設各種設施](https://zh.wikipedia.org/wiki/將軍 "wikilink")（首都本身只能設置，不能廢除，直到威力加強版推出後，才追加「廢都」功能，將選址不佳的[首都](../Page/首都.md "wikilink")廢棄。此外，在威力加強版裡，玩家可在遊戲開始前，創立最多三個新勢力，並可自由在大地圖上建設首都）。
 
 按照首都在大地圖的不同地域，全部勢力共分為[蒙古](https://zh.wikipedia.org/wiki/蒙古 "wikilink")、[中國](../Page/中國.md "wikilink")、[日本](../Page/日本.md "wikilink")、[印度](../Page/印度.md "wikilink")、[伊斯蘭](https://zh.wikipedia.org/wiki/伊斯蘭 "wikilink")、[東歐及](https://zh.wikipedia.org/wiki/東歐 "wikilink")[西歐等七種不同的](https://zh.wikipedia.org/wiki/西歐 "wikilink")[文化圈](https://zh.wikipedia.org/wiki/文化圈 "wikilink")，不同的文化圈有著各自的背景音樂，亦有各自的[建築風格](https://zh.wikipedia.org/wiki/建築風格 "wikilink")。
 
-本作的特色之一，是「[寶物](../Page/寶物.md "wikilink")」系統的設定。寶物對文化（包括：[農耕](https://zh.wikipedia.org/wiki/農耕 "wikilink")、[畜牧](https://zh.wikipedia.org/wiki/畜牧 "wikilink")、[武器](../Page/武器.md "wikilink")、[戰術](https://zh.wikipedia.org/wiki/戰術 "wikilink")、[航海](https://zh.wikipedia.org/wiki/航海 "wikilink")、[建築](https://zh.wikipedia.org/wiki/建築 "wikilink")、[學術](https://zh.wikipedia.org/wiki/學術 "wikilink")、[藝術](https://zh.wikipedia.org/wiki/藝術 "wikilink")、[醫術及](https://zh.wikipedia.org/wiki/醫術 "wikilink")[工藝等](https://zh.wikipedia.org/wiki/工藝 "wikilink")10個範疇）有不同程度的加成影響，部分寶物亦會影響國王的子女出生率（朝鲜人参）、獲取特別兵種等。在遊戲開始時，部分城市已擁有若-{干}-寶物。玩家可以透過攻佔[城市](../Page/城市.md "wikilink")、[外交贈送等方法](../Page/外交.md "wikilink")，獲取別國的寶物。
+本作的特色之一，是「[寶物](../Page/寶物.md "wikilink")」系統的設定。寶物對文化（包括：[農耕](https://zh.wikipedia.org/wiki/農耕 "wikilink")、[畜牧](https://zh.wikipedia.org/wiki/畜牧 "wikilink")、[武器](../Page/武器.md "wikilink")、[戰術](https://zh.wikipedia.org/wiki/戰術 "wikilink")、[航海](https://zh.wikipedia.org/wiki/航海 "wikilink")、[建築](https://zh.wikipedia.org/wiki/建築 "wikilink")、[學術](https://zh.wikipedia.org/wiki/學術 "wikilink")、[藝術](https://zh.wikipedia.org/wiki/藝術 "wikilink")、[醫術及](https://zh.wikipedia.org/wiki/醫術 "wikilink")[工藝等](https://zh.wikipedia.org/wiki/工藝 "wikilink")10個範疇）有不同程度的加成影響，部分寶物亦會影響國王的子女出生率（朝鲜人参）、獲取特別兵種等。在遊戲開始時，部分城市已擁有若-{干}-寶物。玩家可以透過攻佔[城市](../Page/城市.md "wikilink")、[外交](../Page/外交.md "wikilink")贈送等方法，獲取別國的寶物。
 
-本作承接上代的生子系統，玩家可透過舉辦[宴會](https://zh.wikipedia.org/wiki/宴會 "wikilink")，邀請[王妃參與](../Page/王妃.md "wikilink")（邀請武將參加宴會，能提升其忠誠度），並有機會與王妃共渡良宵。及後，有一定機率產下[兒子](https://zh.wikipedia.org/wiki/兒子 "wikilink")（能成為[武將](https://zh.wikipedia.org/wiki/武將 "wikilink")）或女兒（能成為[公主](../Page/公主.md "wikilink")），玩家能夠將之改名，亦能將武將委托-{付}-與於王族進行[教育](../Page/教育.md "wikilink")。
+本作承接上代的生子系統，玩家可透過舉辦[宴會](https://zh.wikipedia.org/wiki/宴會 "wikilink")，邀請[王妃](../Page/王妃.md "wikilink")參與（邀請武將參加宴會，能提升其忠誠度），並有機會與王妃共渡良宵。及後，有一定機率產下[兒子](https://zh.wikipedia.org/wiki/兒子 "wikilink")（能成為[武將](https://zh.wikipedia.org/wiki/武將 "wikilink")）或女兒（能成為[公主](../Page/公主.md "wikilink")），玩家能夠將之改名，亦能將武將委托-{付}-與於王族進行[教育](../Page/教育.md "wikilink")。
 
 ## 各篇章
 
@@ -20,19 +20,19 @@
 
   - 第一章﹕奔馳於草原上的狼（通常、PK共通）
 
-以[成吉思汗建立蒙古的歷史為主軸](../Page/成吉思汗.md "wikilink")，時間設定始於1189年。
+以[成吉思汗](../Page/成吉思汗.md "wikilink")建立蒙古的歷史為主軸，時間設定始於1189年。
 
   - 第二章﹕蒼狼的末裔（通常、PK共通）
 
-由成吉思汗的子孫[忽必烈為主角](../Page/忽必烈.md "wikilink")，時間設定始於1271年。
+由成吉思汗的子孫[忽必烈](../Page/忽必烈.md "wikilink")為主角，時間設定始於1271年。
 
   - PK版第一章﹕群狼的咆哮（PK版）
 
-故事以[窩闊臺繼位開始](https://zh.wikipedia.org/wiki/窩闊臺 "wikilink")，通常版未有出場的[拖雷首次出現](../Page/拖雷.md "wikilink")，時間設定始於1229年。
+故事以[窩闊臺繼位開始](https://zh.wikipedia.org/wiki/窩闊臺 "wikilink")，通常版未有出場的[拖雷](../Page/拖雷.md "wikilink")首次出現，時間設定始於1229年。
 
   - PK版第二章﹕來自西域的狼（PK版）
 
-以[明朝建立](../Page/明朝.md "wikilink")，與[北元對抗](https://zh.wikipedia.org/wiki/北元 "wikilink")、以及[帖木兒帝國崛起為背景](https://zh.wikipedia.org/wiki/帖木兒帝國 "wikilink")，時間設定始於1370年。
+以[明朝](../Page/明朝.md "wikilink")建立，與[北元對抗](https://zh.wikipedia.org/wiki/北元 "wikilink")、以及[帖木兒帝國崛起為背景](https://zh.wikipedia.org/wiki/帖木兒帝國 "wikilink")，時間設定始於1370年。
 
 ## 登場人物
 
@@ -70,25 +70,33 @@
 <!-- end list -->
 
   - [塞邑得](https://zh.wikipedia.org/wiki/賽典赤·贍思丁 "wikilink")
+
   - [鄔力易哈壹](https://zh.wikipedia.org/wiki/兀良哈台 "wikilink")
+
   - [張柔](https://zh.wikipedia.org/wiki/張柔 "wikilink")
+
   - [阿黎珂布卡](https://zh.wikipedia.org/wiki/阿里不哥 "wikilink")
-  - [拉扶芒](https://zh.wikipedia.org/wiki/拉扶芒 "wikilink")（奧都剌合蠻）
+
+  -
   - [巴顏](../Page/伯顏_\(八鄰部\).md "wikilink")
+
   - [阿利卡亞](https://zh.wikipedia.org/wiki/阿里海牙 "wikilink")
+
   - [阿朱](../Page/阿朮.md "wikilink")
+
   - [阿夫瑪都](https://zh.wikipedia.org/wiki/阿合马 "wikilink")
+
   - [洪茶丘](https://zh.wikipedia.org/wiki/洪茶丘 "wikilink")
+
   - [獨魯吉](https://zh.wikipedia.org/wiki/朵儿只 "wikilink")
+
   - [夫凱齊](https://zh.wikipedia.org/wiki/忽哥赤 "wikilink")
 
 <!-- end list -->
 
   - [秦吉姆](../Page/真金.md "wikilink")<ref>(遊戲人物列傳1262-1285)(真金太子)(史實1243-1286)(生卒年比較後，秦吉姆最多可能是忽必烈十一子鐵蔑赤)(遊戲內秦吉姆的人物列傳：
 
-"忽必烈汗之子。其名字源自成吉思汗。對中國文化有很深的造詣，是帝位繼承者的期待人選，但不幸早逝",蒙古文對比,真金 Чингим ,成吉思汗
-Чингис хаан,鐵蔑赤
-Тэмүчи.另外真金太子對中國文化有很深的造詣記載和遊戲內秦吉姆的傳記相符,而鐵蔑赤無記載,人物列傳生卒可能為制作時出錯可能性較高,另外遊戲日文原版秦吉姆為チンギム,真金太子日版wiki為チンキム,可以作參考</ref>
+"忽必烈汗之子。其名字源自成吉思汗。對中國文化有很深的造詣，是帝位繼承者的期待人選，但不幸早逝",蒙古文對比,真金 Чингим ,成吉思汗 Чингис хаан,鐵蔑赤 Тэмүчи.另外真金太子對中國文化有很深的造詣記載和遊戲內秦吉姆的傳記相符,而鐵蔑赤無記載,人物列傳生卒可能為制作時出錯可能性較高,另外遊戲日文原版秦吉姆為チンギム,真金太子日版wiki為チンキム,可以作參考</ref>
 
   - [闊闊出](https://zh.wikipedia.org/wiki/闊闊出 "wikilink")
   - [杜根](../Page/脫歡_\(鎮南王\).md "wikilink")
@@ -958,9 +966,4 @@
 
   - [ソースネクスト版製品情報](https://web.archive.org/web/20110828132405/http://www.sourcenext.com/titles/ent/55830/)
 
-[Category:光榮遊戲](https://zh.wikipedia.org/wiki/Category:光榮遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:苍狼与白鹿系列](https://zh.wikipedia.org/wiki/Category:苍狼与白鹿系列 "wikilink")
+[Category:光榮遊戲](https://zh.wikipedia.org/wiki/Category:光榮遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:苍狼与白鹿系列](https://zh.wikipedia.org/wiki/Category:苍狼与白鹿系列 "wikilink")

@@ -1,4 +1,4 @@
-**no3b相關作品**（）是日本女子組合[AKB48的派生組合](../Page/AKB48.md "wikilink")[no3b的作品列表](https://zh.wikipedia.org/wiki/no3b "wikilink")。
+**no3b相關作品**（）是日本女子組合[AKB48](../Page/AKB48.md "wikilink")的派生組合[no3b的作品列表](https://zh.wikipedia.org/wiki/no3b "wikilink")。
 
 ### 專輯
 
@@ -293,9 +293,7 @@ ESCL-3968</p></td>
 
 [ja:ノースリーブス\#ラジオ](https://zh.wikipedia.org/wiki/ja:ノースリーブス#ラジオ "wikilink")
 
-[Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink")
-[Category:No3b歌曲](https://zh.wikipedia.org/wiki/Category:No3b歌曲 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink") [Category:No3b歌曲](https://zh.wikipedia.org/wiki/Category:No3b歌曲 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.  no3b在其主演的電視劇「帥男偶像」中扮演的偶像組合。
 2.

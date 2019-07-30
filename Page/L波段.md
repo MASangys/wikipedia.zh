@@ -1,7 +1,4 @@
-根据IEEE 521-2002标准，**L波段**是指频率在1-2
-[GHz的](https://zh.wikipedia.org/wiki/GHz "wikilink")[无线电波波段](https://zh.wikipedia.org/wiki/无线电波 "wikilink")；而[北约的L波段则指](https://zh.wikipedia.org/wiki/北约 "wikilink")40-60
-[GHz](https://zh.wikipedia.org/wiki/GHz "wikilink")（波长7.50-5.00
-mm）\[1\]，均屬於[毫米波](https://zh.wikipedia.org/wiki/毫米波 "wikilink")。L波段可被用于[DAB](../Page/數碼聲音廣播.md "wikilink")、[卫星导航系统等](../Page/卫星导航系统.md "wikilink")。
+根据IEEE 521-2002标准，**L波段**是指频率在1-2 [GHz的](https://zh.wikipedia.org/wiki/GHz "wikilink")[无线电波波段](https://zh.wikipedia.org/wiki/无线电波 "wikilink")；而[北约的L波段则指](https://zh.wikipedia.org/wiki/北约 "wikilink")40-60 [GHz](https://zh.wikipedia.org/wiki/GHz "wikilink")（波长7.50-5.00 mm）\[1\]，均屬於[毫米波](https://zh.wikipedia.org/wiki/毫米波 "wikilink")。L波段可被用于[DAB](../Page/數碼聲音廣播.md "wikilink")、[卫星导航系统](../Page/卫星导航系统.md "wikilink")等。
 
 ## IEEE标准下的L波段
 
@@ -44,19 +41,11 @@ mm）\[1\]，均屬於[毫米波](https://zh.wikipedia.org/wiki/毫米波 "wikil
 
 ## 红外天文学
 
-在[红外天文学领域里](../Page/红外天文学.md "wikilink")，L波段是[红外窗口的一种](https://zh.wikipedia.org/wiki/红外窗口 "wikilink")，波长在3.5μm左右，属于中红外窗口。
+在[红外天文学](../Page/红外天文学.md "wikilink")领域里，L波段是[红外窗口的一种](https://zh.wikipedia.org/wiki/红外窗口 "wikilink")，波长在3.5μm左右，属于中红外窗口。
 
 ## 参考文献
 
-[Category:電磁波譜](https://zh.wikipedia.org/wiki/Category:電磁波譜 "wikilink")
-[Category:微波波段](https://zh.wikipedia.org/wiki/Category:微波波段 "wikilink")
+[Category:電磁波譜](https://zh.wikipedia.org/wiki/Category:電磁波譜 "wikilink") [Category:微波波段](https://zh.wikipedia.org/wiki/Category:微波波段 "wikilink")
 
-1.  The Electromagnetic Spectrum and the Color Light Spectrum\[Z/OL\].
-    <http://emandpplabs.nscee.edu/cool/temporary/doors/electrospectrum/spectrum.htm>,
-    2010-10-22.
-2.  W. Hoeg, T. Lauterbach. [Appendix 3: Frequencies for Terrestrial and
-    Satellite DAB
-    Transmission](http://onlinelibrary.wiley.com/doi/10.1002/0470871431.app3/pdf#.pdf)\[A\].
-    In: W. Hoeg, T. Lauterbach. Digital Audio Broadcasting: Principles
-    and Applications of Digital Radio\[M\]. 2nd Edition. John Wiley &
-    Sons, Ltd, 2005.
+1.  The Electromagnetic Spectrum and the Color Light Spectrum\[Z/OL\]. <http://emandpplabs.nscee.edu/cool/temporary/doors/electrospectrum/spectrum.htm>, 2010-10-22.
+2.  W. Hoeg, T. Lauterbach. [Appendix 3: Frequencies for Terrestrial and Satellite DAB Transmission](http://onlinelibrary.wiley.com/doi/10.1002/0470871431.app3/pdf#.pdf)\[A\]. In: W. Hoeg, T. Lauterbach. Digital Audio Broadcasting: Principles and Applications of Digital Radio\[M\]. 2nd Edition. John Wiley & Sons, Ltd, 2005.

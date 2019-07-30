@@ -1,4 +1,4 @@
-**《Implode》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周國賢的第五張個人專輯](../Page/周國賢.md "wikilink")，同時亦是第二張細碟專輯，於2010年10月28日發行。
+**《Implode》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周國賢](../Page/周國賢.md "wikilink")的第五張個人專輯，同時亦是第二張細碟專輯，於2010年10月28日發行。
 
 ## 專輯介紹
 
@@ -33,10 +33,6 @@
 ## 外部連結
 
   - [樂評︰周國賢【Implode】未必英雄，但一定是勇](http://3cmusic.com/home/?p=7023)，
-  - [Implode
-    (EP)](http://www.yesasia.com/global/implode-ep/1023635648-0-0-0-zh_TW/info.html)，2010年10月30日
-    (六) 17:45 (UTC+8)查閱，
+  - [Implode (EP)](http://www.yesasia.com/global/implode-ep/1023635648-0-0-0-zh_TW/info.html)，2010年10月30日 (六) 17:45 (UTC+8)查閱，
 
-[Category:周國賢音樂專輯](https://zh.wikipedia.org/wiki/Category:周國賢音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:周國賢音樂專輯](https://zh.wikipedia.org/wiki/Category:周國賢音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

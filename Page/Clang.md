@@ -1,19 +1,14 @@
-**Clang**（類似英文單字*[clang](https://zh.wikipedia.org/wiki/wikt:clang "wikilink")*\[1\]）
-是一個[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Objective-C和](../Page/Objective-C.md "wikilink")[Objective-C++程式語言的](https://zh.wikipedia.org/wiki/Objective-C++ "wikilink")[編譯器前端](../Page/編譯器.md "wikilink")。它採用了[LLVM作為其後端](../Page/LLVM.md "wikilink")，而且由LLVM2.6開始，一起釋出新版本。它的目標是提供一個[GNU編譯器套裝](../Page/GCC.md "wikilink")（GCC）的替代品，支援了GNU編譯器大多數的編譯設定以及非官方語言的擴充功能。作者是[克里斯·拉特納](../Page/克里斯·拉特納.md "wikilink")（Chris
-Lattner），在[蘋果公司的贊助支持下進行開發](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，而原始碼授權是使用類BSD的[伊利诺伊大学厄巴纳-香槟分校開源碼許可](../Page/伊利诺伊大学厄巴纳-香槟分校.md "wikilink")。
+**Clang**（類似英文單字*[clang](https://zh.wikipedia.org/wiki/wikt:clang "wikilink")*\[1\]） 是一個[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")和[Objective-C++程式語言的](https://zh.wikipedia.org/wiki/Objective-C++ "wikilink")[編譯器](../Page/編譯器.md "wikilink")前端。它採用了[LLVM](../Page/LLVM.md "wikilink")作為其後端，而且由LLVM2.6開始，一起釋出新版本。它的目標是提供一個[GNU編譯器套裝](../Page/GCC.md "wikilink")（GCC）的替代品，支援了GNU編譯器大多數的編譯設定以及非官方語言的擴充功能。作者是[克里斯·拉特納](../Page/克里斯·拉特納.md "wikilink")（Chris Lattner），在[蘋果公司的贊助支持下進行開發](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，而原始碼授權是使用類BSD的[伊利诺伊大学厄巴纳-香槟分校](../Page/伊利诺伊大学厄巴纳-香槟分校.md "wikilink")開源碼許可。
 
 Clang專案包括Clang前端和Clang靜態分析器等。\[2\]
 
 ## 概述
 
-這個軟體專案在2005年由[蘋果電腦發起](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")，是[LLVM编译器工具集的前端](../Page/LLVM.md "wikilink")（front-end），目的是输出代码对应的抽象语法树（Abstract
-Syntax Tree, AST），並將程式碼編譯成LLVM
-Bitcode。接著在後端（back-end）使用LLVM編譯成平台相关的[機器語言](https://zh.wikipedia.org/wiki/機器語言 "wikilink")
-。Clang支持C、C++、Objective C。
+這個軟體專案在2005年由[蘋果電腦發起](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")，是[LLVM](../Page/LLVM.md "wikilink")编译器工具集的前端（front-end），目的是输出代码对应的抽象语法树（Abstract Syntax Tree, AST），並將程式碼編譯成LLVM Bitcode。接著在後端（back-end）使用LLVM編譯成平台相关的[機器語言](https://zh.wikipedia.org/wiki/機器語言 "wikilink") 。Clang支持C、C++、Objective C。
 
 在Clang語言中，使用Stmt来代表statement。Clang程式碼的单元（unit）皆為语句（statement），语法树的节点（node）类型就是Stmt。另外Clang的表达式（Expression）也是語句的一種，Clang使用Expr來代表Expression，Expr本身繼承自Stmt。节点之下有子节点列表（sub-node-list）。
 
-Clang本身性能優異，其生成的AST所耗用掉的内存僅僅是GCC的20%左右。[FreeBSD](../Page/FreeBSD.md "wikilink")[操作系统自](../Page/操作系统.md "wikilink")2014年1月發行的10.0版本开始将Clang/LLVM作为默认编译器\[3\]。
+Clang本身性能優異，其生成的AST所耗用掉的内存僅僅是GCC的20%左右。[FreeBSD](../Page/FreeBSD.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")自2014年1月發行的10.0版本开始将Clang/LLVM作为默认编译器\[3\]。
 
 ## 效能
 
@@ -37,7 +32,7 @@ Clang本身性能優異，其生成的AST所耗用掉的内存僅僅是GCC的20%
 </tr>
 <tr class="even">
 <td></td>
-<td><p>Clang/LLVM能夠編譯出可運作的<a href="../Page/FreeBSD.md" title="wikilink">FreeBSD核心</a>。<ref>{{cite web</p></td>
+<td><p>Clang/LLVM能夠編譯出可運作的<a href="../Page/FreeBSD.md" title="wikilink">FreeBSD</a>核心。<ref>{{cite web</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -65,7 +60,7 @@ Clang本身性能優異，其生成的AST所耗用掉的内存僅僅是GCC的20%
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>Clang/LLVM被整合在<a href="../Page/FreeBSD.md" title="wikilink">FreeBSD之中</a>（但預設編譯器仍是GCC）<ref>{{cite web</p></td>
+<td><p>Clang/LLVM被整合在<a href="../Page/FreeBSD.md" title="wikilink">FreeBSD</a>之中（但預設編譯器仍是GCC）<ref>{{cite web</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -81,7 +76,7 @@ Clang本身性能優異，其生成的AST所耗用掉的内存僅僅是GCC的20%
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>Clang 3.0能夠重建超過91%<a href="../Page/Debian.md" title="wikilink">Debian成品</a>。<ref>{{cite web</p></td>
+<td><p>Clang 3.0能夠重建超過91%<a href="../Page/Debian.md" title="wikilink">Debian</a>成品。<ref>{{cite web</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -89,11 +84,11 @@ Clang本身性能優異，其生成的AST所耗用掉的内存僅僅是GCC的20%
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/FreeBSD.md" title="wikilink">FreeBSD宣布Clang</a>/LLVM將成為預設編譯器，取代沿用多年的GCC。<ref>{{cite mailing list</p></td>
+<td><p><a href="../Page/FreeBSD.md" title="wikilink">FreeBSD</a>宣布Clang/LLVM將成為預設編譯器，取代沿用多年的GCC。<ref>{{cite mailing list</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>Clang成為<a href="../Page/FreeBSD.md" title="wikilink">FreeBSD預設編譯器</a>。<ref>{{cite mailing list</p></td>
+<td><p>Clang成為<a href="../Page/FreeBSD.md" title="wikilink">FreeBSD</a>預設編譯器。<ref>{{cite mailing list</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -101,11 +96,11 @@ Clang本身性能優異，其生成的AST所耗用掉的内存僅僅是GCC的20%
 </tr>
 <tr class="even">
 <td></td>
-<td><p>Clang完成所有<a href="../Page/C++11.md" title="wikilink">C++11特性</a>。<ref>{{cite web</p></td>
+<td><p>Clang完成所有<a href="../Page/C++11.md" title="wikilink">C++11</a>特性。<ref>{{cite web</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>Clang完成所有<a href="../Page/C++14.md" title="wikilink">C++14特性</a>。<ref>{{cite web</p></td>
+<td><p>Clang完成所有<a href="../Page/C++14.md" title="wikilink">C++14</a>特性。<ref>{{cite web</p></td>
 </tr>
 </tbody>
 </table>
@@ -115,29 +110,19 @@ Clang本身性能優異，其生成的AST所耗用掉的内存僅僅是GCC的20%
 ## 外部連結
 
   -
-  - [LLVMdev: New LLVM C front-end:
-    "clang"](https://web.archive.org/web/20070817044507/http://lists.cs.uiuc.edu/pipermail/llvmdev/2007-July/009817.html),
-    announcement（11 July 2007）
+  - [LLVMdev: New LLVM C front-end: "clang"](https://web.archive.org/web/20070817044507/http://lists.cs.uiuc.edu/pipermail/llvmdev/2007-July/009817.html), announcement（11 July 2007）
 
-  - [Presentation: Ted Kremenek - Finding Bugs with the Clang Static
-    Analyzer](https://web.archive.org/web/20100613070529/http://llvm.org/devmtg/2008-08/Kremenek_StaticAnalyzer_Hi.m4v),
-    [Slides](http://llvm.org/devmtg/2008-08/Kremenek_StaticAnalyzer.pdf)
+  - [Presentation: Ted Kremenek - Finding Bugs with the Clang Static Analyzer](https://web.archive.org/web/20100613070529/http://llvm.org/devmtg/2008-08/Kremenek_StaticAnalyzer_Hi.m4v), [Slides](http://llvm.org/devmtg/2008-08/Kremenek_StaticAnalyzer.pdf)
 
-  - [Presentation: Steve Naroff - Clang
-    Internals](https://web.archive.org/web/20100613063447/http://llvm.org/devmtg/2008-08/Naroff_Clang_Hi.m4v),
-    [Slides](http://llvm.org/devmtg/2008-08/Naroff_Clang.pdf)
+  - [Presentation: Steve Naroff - Clang Internals](https://web.archive.org/web/20100613063447/http://llvm.org/devmtg/2008-08/Naroff_Clang_Hi.m4v), [Slides](http://llvm.org/devmtg/2008-08/Naroff_Clang.pdf)
 
-  - [2009 DevMtg Clang
-    presentation](http://llvm.org/devmtg/2009-10/StateOfClang.pdf)
+  - [2009 DevMtg Clang presentation](http://llvm.org/devmtg/2009-10/StateOfClang.pdf)
 
-[Category:C編譯器](https://zh.wikipedia.org/wiki/Category:C編譯器 "wikilink")
-[Category:C++編譯器](https://zh.wikipedia.org/wiki/Category:C++編譯器 "wikilink")
-[Category:静态代码分析工具](https://zh.wikipedia.org/wiki/Category:静态代码分析工具 "wikilink")
+[Category:C編譯器](https://zh.wikipedia.org/wiki/Category:C編譯器 "wikilink") [Category:C++編譯器](https://zh.wikipedia.org/wiki/Category:C++編譯器 "wikilink") [Category:静态代码分析工具](https://zh.wikipedia.org/wiki/Category:静态代码分析工具 "wikilink")
 
 1.
 2.
-3.  [FreeBSD 10.0-RELEASE
-    Announcement](https://www.freebsd.org/releases/10.0R/announce.html)
+3.  [FreeBSD 10.0-RELEASE Announcement](https://www.freebsd.org/releases/10.0R/announce.html)
 4.  <http://llvm.org/pubs/2007-07-25-LLVM-2.0-and-Beyond.pdf>
 5.  <http://blog.llvm.org/2010/04/amazing-feats-of-clang-error-recovery.html>
 6.

@@ -1,6 +1,6 @@
 **《空港》**是香港女歌手[容祖兒第](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")28張個人唱片，於2010年8月20日發售。第二版於11月5日推出。
 
-首支派台歌《綠野仙-{踪}-》為[百老滙廣告歌](https://zh.wikipedia.org/wiki/百老滙 "wikilink")；接力主打《破相》為[陳輝陽與](../Page/陳輝陽.md "wikilink")[黃偉文合作的](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")「垃圾系列」作品，兩首派台歌同時為三台冠軍歌。
+首支派台歌《綠野仙-{踪}-》為[百老滙廣告歌](https://zh.wikipedia.org/wiki/百老滙 "wikilink")；接力主打《破相》為[陳輝陽](../Page/陳輝陽.md "wikilink")與[黃偉文合作的](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")「垃圾系列」作品，兩首派台歌同時為三台冠軍歌。
 
 ## 專輯介紹
 
@@ -152,7 +152,4 @@
 
 ## 外部連結
 
-[Category:容祖兒音樂專輯](https://zh.wikipedia.org/wiki/Category:容祖兒音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:容祖兒音樂專輯](https://zh.wikipedia.org/wiki/Category:容祖兒音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

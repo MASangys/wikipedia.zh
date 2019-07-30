@@ -2,7 +2,4 @@
 
 ## 参考
 
-[Category:香港公司](https://zh.wikipedia.org/wiki/Category:香港公司 "wikilink")
-[Category:显示设备硬件公司](https://zh.wikipedia.org/wiki/Category:显示设备硬件公司 "wikilink")
-[Category:主板制造商](https://zh.wikipedia.org/wiki/Category:主板制造商 "wikilink")
-[Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink")
+[Category:香港公司](https://zh.wikipedia.org/wiki/Category:香港公司 "wikilink") [Category:显示设备硬件公司](https://zh.wikipedia.org/wiki/Category:显示设备硬件公司 "wikilink") [Category:主板制造商](https://zh.wikipedia.org/wiki/Category:主板制造商 "wikilink") [Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink")

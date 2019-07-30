@@ -1,10 +1,8 @@
-**遠TONE音**是由演奏[尺八的](../Page/尺八.md "wikilink")[三塚幸彦](https://zh.wikipedia.org/wiki/三塚幸彦 "wikilink")、演奏[日本筝的](https://zh.wikipedia.org/wiki/日本筝 "wikilink")[小野美穗子以及演奏](https://zh.wikipedia.org/wiki/小野美穗子 "wikilink")[吉他的](../Page/吉他.md "wikilink")[曽山良一三人组成的组合](https://zh.wikipedia.org/wiki/曽山良一 "wikilink")。Northern
-Lights Records是他们自助创立的一个厂牌，以便自费出版专辑。
+**遠TONE音**是由演奏[尺八](../Page/尺八.md "wikilink")的[三塚幸彦](https://zh.wikipedia.org/wiki/三塚幸彦 "wikilink")、演奏[日本筝的](https://zh.wikipedia.org/wiki/日本筝 "wikilink")[小野美穗子以及演奏](https://zh.wikipedia.org/wiki/小野美穗子 "wikilink")[吉他](../Page/吉他.md "wikilink")的[曽山良一三人组成的组合](https://zh.wikipedia.org/wiki/曽山良一 "wikilink")。Northern Lights Records是他们自助创立的一个厂牌，以便自费出版专辑。
 
 ## 团体名称由来
 
-三塚和曽山是[卡洛斯·山塔那的歌迷](../Page/卡洛斯·山塔那.md "wikilink")，曽山曾购买《Guitar
-magazine》的山塔那特辑，其中重复的一句话是“僕のトーンは”。三塚称：“トーン是tone的罗马字发音，尺八世界也有著名的乐曲《[鹿の遠音](https://zh.wikipedia.org/wiki/鹿の遠音 "wikilink")》，乐曲的远音扣动心弦，遠音就来自与此”，组合名称遠音漢字間插入TONE作配合。另外，遠TONE音的标识的漢字部分实际上是由曽山用毛笔書写的。
+三塚和曽山是[卡洛斯·山塔那](../Page/卡洛斯·山塔那.md "wikilink")的歌迷，曽山曾购买《Guitar magazine》的山塔那特辑，其中重复的一句话是“僕のトーンは”。三塚称：“トーン是tone的罗马字发音，尺八世界也有著名的乐曲《[鹿の遠音](https://zh.wikipedia.org/wiki/鹿の遠音 "wikilink")》，乐曲的远音扣动心弦，遠音就来自与此”，组合名称遠音漢字間插入TONE作配合。另外，遠TONE音的标识的漢字部分实际上是由曽山用毛笔書写的。
 
 ## 专辑作品
 
@@ -34,12 +32,9 @@ magazine》的山塔那特辑，其中重复的一句话是“僕のトーンは
 
 :\#Toypira(トイピラ )
 
-:\#The music of EARTH
-电影《[ただひとたびの人](https://zh.wikipedia.org/wiki/ただひとたびの人 "wikilink")》主题曲，作曲。
+:\#The music of EARTH 电影《[ただひとたびの人](https://zh.wikipedia.org/wiki/ただひとたびの人 "wikilink")》主题曲，作曲。
 
-:\#[砂山](https://zh.wikipedia.org/wiki/砂山 "wikilink")
-作曲[中山晋平](https://zh.wikipedia.org/wiki/中山晋平 "wikilink")、
-电影《[ただひとたびの人](https://zh.wikipedia.org/wiki/ただひとたびの人 "wikilink")》插曲。
+:\#[砂山](https://zh.wikipedia.org/wiki/砂山 "wikilink") 作曲[中山晋平](https://zh.wikipedia.org/wiki/中山晋平 "wikilink")、 电影《[ただひとたびの人](https://zh.wikipedia.org/wiki/ただひとたびの人 "wikilink")》插曲。
 
 :\#はまなす
 
@@ -67,8 +62,7 @@ magazine》的山塔那特辑，其中重复的一句话是“僕のトーンは
 
 :\#旅 (Journey )
 
-:\#道 (Our Own Way )
-此曲被歌手[簔谷雅彦作詩演唱](https://zh.wikipedia.org/wiki/簔谷雅彦 "wikilink")，收录到单曲CD中，常与歌手[CIRCUS共演](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")。
+:\#道 (Our Own Way ) 此曲被歌手[簔谷雅彦作詩演唱](https://zh.wikipedia.org/wiki/簔谷雅彦 "wikilink")，收录到单曲CD中，常与歌手[CIRCUS共演](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")。
 
   - 四季 \[NLRCD-5101\] (1999年)
 
@@ -147,9 +141,6 @@ magazine》的山塔那特辑，其中重复的一句话是“僕のトーンは
 ## 外部链接
 
   - [遠TONE音官方网站](https://web.archive.org/web/20090906011503/http://www.tone-take1.com/tone/index.html)
-  - [Northern Lights
-    Records主页](http://tone-take1.shop-pro.jp/?mode=cate&cbid=81520&csid=0/)
+  - [Northern Lights Records主页](http://tone-take1.shop-pro.jp/?mode=cate&cbid=81520&csid=0/)
 
-[Category:新世纪音乐家](https://zh.wikipedia.org/wiki/Category:新世纪音乐家 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:和平之月](https://zh.wikipedia.org/wiki/Category:和平之月 "wikilink")
+[Category:新世纪音乐家](https://zh.wikipedia.org/wiki/Category:新世纪音乐家 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:和平之月](https://zh.wikipedia.org/wiki/Category:和平之月 "wikilink")

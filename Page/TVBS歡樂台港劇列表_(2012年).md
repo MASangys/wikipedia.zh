@@ -1,4 +1,4 @@
-本條目內之「播放日期」，是指[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[TVBS歡樂台的播放日期](../Page/TVBS歡樂台.md "wikilink")。
+本條目內之「播放日期」，是指[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")的播放日期。
 
 ## 19:00港劇時段
 

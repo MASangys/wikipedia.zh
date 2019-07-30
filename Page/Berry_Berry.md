@@ -1,9 +1,8 @@
-《**Berry
-Berry**》（）是[日本](../Page/日本.md "wikilink")[少女](../Page/少女漫画.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[日高万里所創作的](../Page/日高万里.md "wikilink")[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")。
+《**Berry Berry**》（）是[日本](../Page/日本.md "wikilink")[少女](../Page/少女漫画.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[日高万里](../Page/日高万里.md "wikilink")所創作的[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")。
 
 ## 概要
 
-在[白泉社的漫畫雜誌](../Page/白泉社.md "wikilink")《[花與夢](../Page/花與夢.md "wikilink")》連載途中，長期休載。
+在[白泉社](../Page/白泉社.md "wikilink")的漫畫雜誌《[花與夢](../Page/花與夢.md "wikilink")》連載途中，長期休載。
 
 最初在《花與夢》2008年10號到13號短期集中連載。此後在該雜誌2009年11號續編（讀完）發表後，於2009年18號開始正式連載。2008年的短期集中連載，當初預定是從10號到12號，不過實際上在最終回的第3話以分割前篇和後編（12號和13號）的形式發表。
 
@@ -27,7 +26,7 @@ Berry**》（）是[日本](../Page/日本.md "wikilink")[少女](../Page/少女
         小時候曾遭綁架，經過那件事，便決定幫助有困難的少女。
         眼睛是藍色\[1\]。
       -
-        使用[滑板移動](../Page/滑板.md "wikilink")。
+        使用[滑板](../Page/滑板.md "wikilink")移動。
         被近江業平評為「個性比較迷糊」，被玖留實評為「有點迷糊」。
         玖留實遭綁架時，紗紗姬透過心靈感應找出玖留實所在位置救出她。經過那件事後，決定幫助有困難的少女。
         眼睛是綠色\[2\]。
@@ -60,8 +59,7 @@ Berry**》（）是[日本](../Page/日本.md "wikilink")[少女](../Page/少女
 
 ## 書誌情報
 
-日高萬里 《Berry
-Berry》白泉社〈[花與夢漫畫](https://zh.wikipedia.org/wiki/花與夢漫畫 "wikilink")〉\[3\]。
+日高萬里 《Berry Berry》白泉社〈[花與夢漫畫](https://zh.wikipedia.org/wiki/花與夢漫畫 "wikilink")〉\[3\]。
 
 1.  2009年8月19日第1刷發行 ISBN 978-4-592-19001-1
 2.  2010年3月19日第1刷發行 ISBN 978-4-592-19002-8
@@ -94,11 +92,7 @@ Berry》白泉社〈[花與夢漫畫](https://zh.wikipedia.org/wiki/花與夢漫
 
 ## 註釋
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:雙胞胎題材漫畫](https://zh.wikipedia.org/wiki/Category:雙胞胎題材漫畫 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:雙胞胎題材漫畫](https://zh.wikipedia.org/wiki/Category:雙胞胎題材漫畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
 
 1.  《花與夢》2010年4號連載 廣播劇CD（該號附錄）解說頁。
 

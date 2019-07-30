@@ -1,4 +1,4 @@
-**索尼Xperia**是[索尼旗下](../Page/索尼.md "wikilink")[索尼行動通訊消費電子產品系列的品牌](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")。
+**索尼Xperia**是[索尼](../Page/索尼.md "wikilink")旗下[索尼行動通訊消費電子產品系列的品牌](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")。
 
 ## 功能型手機
 
@@ -227,445 +227,139 @@
 
 ## 參考文獻
 
-  - <small> Wilson, Mark (2 October 2008). "XPERIA X1 Hiptop Killer:
-    Sony Ericsson's First Video Plus Gallery"
-    (https://gizmodo.com/354742/xperia-x1-hiptop-killer-sony-ericssons-first-video-plus-gallery).
-    Gizmodo. Retrieved 21 October 2015.
-  - "First Click: The clear appeal of transparent gadgets"
-    (https://www.theverge.com/2015/5/12/8590501/the-clear-appeal-of-transparent-gadgets).
-    The Verge. 12 May 2015. Retrieved 21 October 2015.
-  - Sony Ericsson XPERIA X12 Completely Detailed By Mobile Review
-    (http://www.sonyinsider.com/2010/11/30/the-xperia-x12-completely-detailed-by-mobile-review/).
-    Sony Insider (30 November 2010). Retrieved on 18 Oct 2011.
-  - Chan, Casey (3 Nov 2009). "Sony Ericsson XPERIA X10 Officially
-    Announced"
-    (http://www.androidcentral.com/sony-ericsson-xperia-x10-officially-announced).
-    Androidcentral. Retrieved 21 October 2015.
-  - "Xperia X1 – White Paper"
-    (https://web.archive.org/web/20160410172007/http://dl-developer.sonymobile.com/documentation/whitepapers/100340-wp_x1_r5a.pdf)
-    (PDF). Sony Mobile Developer World. Sony. Retrieved 8 Mar 2013.
-  - "Sony Ericsson Xperia X1 / X1i / X1c (SE Venus) Specs"
-    (http://pdadb.net/index.php?m=specs\&id=1117\&c=sony_ericsson_xperia_x1__x1i__x1c_se_venus).
-    PDAdb.net. Retrieved 8 Mar 2013.
-  - "Xperia X2 – White Paper"
-    (https://web.archive.org/web/20160410182347/http://dl-developer.sonymobile.com/documentation/whitepapers/DW-101288-WP_X2_2.pdf)
-    (PDF). Sony Mobile Developer World. Sony. Retrieved 8 Mar 2013.
-  - "Sony Ericsson Xperia X2 / X2i (SE Vulcan) Specs"
-    (http://pdadb.net/index.php?m=specs\&id=1932\&c=sony_ericsson_xperia_x2__x2i_se_vulcan).
-    PDAdb.net. Retrieved 8 Mar 2013.
-  - "Xperia X10"
-    (http://www.sonymobile.com/global-en/products/phones/xperia-x10/).
-    Sony Mobile. Sony. Retrieved 8 Mar 2013.
-  - Savov, Vlad (22 March 2010). "Sony Ericsson Xperia X10 finally
-    arrives in UK, T-Mobile will deliver it within 10 days"
-    (https://www.engadget.com/2010/03/22/sony-ericsson-xperia-x10-finally-arrives-in-uk-t-mobile-will-de/).
-    Engadget. AOL. Retrieved 8 Mar 2013.
-  - "Sony Ericsson Xperia X10 – Full phone specifications"
-    (http://www.gsmarena.com/sony_ericsson_xperia_x10-2964.php).
-    GSMArena. Retrieved 8 Mar 2013.
-  - "Xperia X10 mini pro – White Paper"
-    (https://web.archive.org/web/20160410182317/http://dl-developer.sonymobile.com/documentation/whitepapers/X10_minipro_WP_8.pdf)
-    (PDF). Sony Mobile Developer World. Sony. Retrieved 8 Mar 2013.
-  - "Sony Ericsson Xperia X10 mini pro U20a (SE Mimmi) Detailed Specs"
-    (http://pdadb.net/index.php?m=specs\&id=2239\&view=1\&c=sony_ericsson_xperia_x10_mini_pro_u20a_se_mimmi).
-    PDAdb.net. Retrieved 8 Mar 2013.
-  - Lai, Richard (8 July 2010). "Sony Ericsson Xperia X10 Mini / Mini
-    Pro review"
-    (https://www.engadget.com/2010/07/08/sony-ericsson-xperia-x10-mini-mini-pro-review/).
-    Engadget. AOL. Retrieved 8 Mar 2013.
-  - "Xperia X10 mini – White Paper"
-    (https://web.archive.org/web/20160410180859/http://dl-developer.sonymobile.com/documentation/whitepapers/X10_mini_WP_8.pdf)
-    (PDF). Sony Mobile Developer World. Sony. Retrieved 8 Mar 2013.
-  - "Sony Ericsson Xperia X10 mini E10a (SE Robyn) Detailed Specs"
-    (http://pdadb.net/index.php?m=specs\&id=2240\&view=1\&c=sony_ericsson_xperia_x10_mini_e10a_se_robyn).
-    PDAdb.net. Retrieved 8 Mar 2013.
-  - "Xperia X8 – White Paper"
-    (https://web.archive.org/web/20160410182435/http://dl-developer.sonymobile.com/documentation/whitepapers/X8_WP_6.pdf)
-    (PDF). Sony Mobile Developer World. Sony. Retrieved 25 Mar 2013.
-  - "Sony Ericsson Xperia X8 – Full phone specifications"
-    (http://www.gsmarena.com/sony_ericsson_xperia_x8-3403.php).
-    GSMArena. Retrieved 25 Mar 2013.
-  - "Xperia arc – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiaarc/).
-    Sony Mobile Developer World. Sony. Retrieved 25 Mar 2013.
-  - "Xperia neo – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperianeo/).
-    Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
-  - "Xperia PLAY – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiaplay/).
-    Sony Mobile Developer World. Sony. Retrieved 25 Mar 2013.
-  - "Sony Ericsson Xperia PLAY – Full phone specifications"
-    (http://www.gsmarena.com/sony_ericsson_xperia_play-3608.php).
-    GSMArena. Retrieved 25 Mar 2013.
-  - "Sony Ericsson Xperia Play CDMA – Full phone specifications"
-    (http://www.gsmarena.com/sony_ericsson_xperia_play_cdma-3780.php).
-    GSMArena. Retrieved 25 Mar 2013.
-  - "Xperia acro IS11S – White Paper"
-    (https://web.archive.org/web/20160410190044/http://dl-developer.sonymobile.com/documentation/whitepapers/IS11S_WP_1.pdf)
-    (PDF). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
-  - "〈お知らせ〉 「INFOBAR A01」「Xperia™ acro IS11S」「AQUOS PHONE IS11SH」「AQUOS
-    PHONE IS12SH」「CA007」の販売開始について"
-    (http://www.kddi.com/corporate/news_release/2011/0622a/). KDDI
-    Mobile (in Japanese). KDDI. 22 June 2011. Retrieved 29 Mar 2013.
-  - "Xperia acro SO-02C – White Paper"
-    (https://web.archive.org/web/20160410180548/http://dl-developer.sonymobile.com/documentation/whitepapers/SO-02C_WP_1.pdf)
-    (PDF). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
-  - "Xperia mini pro – White Paper"
-    (https://web.archive.org/web/20160410182342/http://dl-developer.sonymobile.com/documentation/whitepapers/minipro_WP_2.pdf)
-    (PDF). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
-  - "Sony Ericsson Xperia mini pro – Full phone specifications"
-    (http://www.gsmarena.com/sony_ericsson_xperia_mini_pro-3713.php).
-    GSMArena. Retrieved 29 Mar 2013.
-  - "Live with Walkman"
-    (http://developer.sonymobile.com/products/phones/specification/livewithwalkman/).
-    Sony Mobile Developer World. Sony. Retrieved 20 May 2014.
-  - "Live with Walkman"
-    (http://www.gsmarena.com/sony_ericsson_live_with_walkman-4111.php).
-    Retrieved 20 May 2014.
-  - "Xperia mini – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiamini/).
-    Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
-  - "Xperia ray – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiaray/).
-    Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
-  - "Sony Ericsson Xperia ray ST18 / ST18i (SE Urushi) Detailed Specs"
-    (http://pdadb.net/index.php?m=specs\&id=2963\&view=1\&c=sony_ericsson_xperia_ray_st18__st18i_se_urushi).
-    PDAdb.net. Retrieved 29 Mar 2013.
-  - "Xperia arc S – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiaarcs/).
-    Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
-  - "Xperia neo V – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperianeov/).
-    Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
-  - "Xperia active – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiaactive/).
-    Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
-  - "Xperia pro – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiapro/).
-    Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
-  - "Sony Ericsson Xperia pro – Full phone specifications"
-    (http://www.gsmarena.com/sony_ericsson_xperia_pro-3779.php).
-    GSMArena. Retrieved 29 Mar 2013.
-  - "Xperia X5 Pureness – White Paper"
-    (https://web.archive.org/web/20170315193053/http://dl-developer.sonymobile.com/documentation/whitepapers/X5_WP_1.pdf)
-    (PDF). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
-  - "Sony Ericsson Xperia Pureness – Full phone specifications"
-    (http://www.gsmarena.com/sony_ericsson_xperia_pureness-3015.php).
-    GSMArena. Retrieved 29 Mar 2013.
-  - "Xperia S – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperias/).
-    Sony Mobile Developer World. Sony. Retrieved 23 Feb 2013.
-  - "The Sony smartphone Xperia S arrives in stores"
-    (http://blogs.sonymobile.com/press_release/the-sony-smartphone-xperia-s-arrives-in-stores/).
-    Sony Mobile. Sony. 29 February 2012. Retrieved 27 Mar 2013.
-  - Whitwam, Ryan (26 August 2013). "Bug-Squashing Android 4.1 Update
-    Rolling Out To Xperia S, Xperia SL, And Xperia Acro S"
-    (http://www.androidpolice.com/2013/08/26/bug-squashing-android-4-1-update-rolling-out-to-xperia-s-xperia-sl-and-xperia-acro-s/).
-    Android Police. Illogical Robot LLC. Retrieved 28 Aug 2013.
-  - "Xperia ion LTE – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiaionlt28i/).
-    Sony Mobile Developer World. Sony. Retrieved 23 Feb 2013.
-  - "Xperia ion HSPA – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiaionlt28h/).
-    Sony Mobile Developer World. Sony. Retrieved 26 Mar 2013.
-  - "Sony Xperia acro HD SOI12 white paper"
-    (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-acro-hd-soi12-white-paper/).
-    Sony Mobile Developer World. Sony. 22 May 2012. Retrieved 27 Mar
-    2013.
-  - Smith, Mat (13 March 2013). "Sony Xperia Acro HD launches March 15
-    in Japan"
-    (https://www.engadget.com/2012/03/13/sony-launches-xperia-acro-in-japan-march-15/).
-    Engadget. AOL. Retrieved 27 Mar 2013.
-  - "Sony Xperia acro HD SO-03D white paper"
-    (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-acro-hd-so-03d-white-paper/).
-    Sony Mobile Developer World. Sony. 22 May 2012. Retrieved 27 Mar
-    2013.
-  - "Xperia arco S – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiaacros/).
-    Sony Mobile Developer World. Sony. Retrieved 23 Feb 2013.
-  - "Sony Ericsson Xperia acro S – Full phone specifications"
-    (http://www.gsmarena.com/sony_xperia_acro_s-4781.php). GSMArena.
-    Retrieved 18 Mar 2013.
-  - "Xperia sola – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiasola/).
-    Sony Mobile Developer World. Sony. Retrieved 24 Feb 2013.
-  - "Xperia™ neo L"
-    (https://web.archive.org/web/20150924104223/http://www.sonymobile.com/global-en/products/phones/xperia-neo-l/).
-    Sony Mobile. Sony Mobile. Retrieved 21 Oct 2015.
-  - "Xperia P – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiap/).
-    Sony Mobile Developer World. Sony. Retrieved 24 Feb 2013.
-  - "Xperia U – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiau/).
-    Sony Mobile Developer World. Sony. Retrieved 24 Feb 2013.
-  - "Sony Xperia U – Full phone specifications"
-    (http://www.gsmarena.com/sony_xperia_u-4437.php). GSMArena.
-    Retrieved 24 Feb 2013.
-  - "Sony Xperia Go"
-    (http://www.sonymobile.com/global-en/products/phones/xperia-go/).
-    Sony Mobile. Sony Mobile. Retrieved 21 Oct 2015.
-  - "Sony Ericsson Xperia go – Full phone specifications"
-    (http://www.gsmarena.com/sony_xperia_go-4782.php). GSMArena.
-    Retrieved 18 Mar 2013.
-  - "Sony Xperia SX white paper"
-    (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-sx-white-paper/).
-    Sony Mobile Developer World. Sony. 23 November 2012. Retrieved 6 Mar
-    2013.
-  - "Sony Xperia tipo"
-    (http://www.sonymobile.com/global-en/products/phones/xperia-tipo/).
-    Sony Mobile. Sony Mobile. Retrieved 21 Oct 2015.
-  - "Sony Xperia tipo dual"
-    (https://web.archive.org/web/20131026220851/http://www.sonymobile.com/global-en/products/phones/xperia-tipo-dual/).
-    Sony Mobile. Sony Mobile. Retrieved 21 Oct 2013.
-  - "Xperia TX – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiatx/).
-    Sony Mobile Developer World. Sony. Retrieved 27 Feb 2013.
-  - "Xperia miro – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiamiro/).
-    Sony Mobile Developer World. Sony. Retrieved 24 Feb 2013.
-  - "Xperia T – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiat/).
-    Sony Mobile Developer World. Sony. Retrieved 27 Feb 2013.
-  - "Xperia T LTE – White Paper"
-    (https://web.archive.org/web/20160410182044/http://dl-developer.sonymobile.com/documentation/whitepapers/Xperia_T_LTE_WP_3.pdf)
-    (PDF). Sony Mobile Developer World. Sony. Retrieved 26 Mar 2013.
-  - "Sony Xperia TL white paper"
-    (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-tl-white-paper/).
-    Sony Mobile Developer World. Sony. 14 March 2012. Retrieved 26 Mar
-    2013.
-  - "Xperia SL – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiasl/).
-    Sony Mobile Developer World. Sony. Retrieved 23 Feb 2013.
-  - "Sony Xperia SL specs"
-    (http://www.phonearena.com/phones/Sony-Xperia-SL_id7426).
-    PhoneArena. Retrieved 27 Mar 2013.
-  - "Xperia J – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiaj/).
-    Sony Mobile Developer World. Sony. Retrieved 24 Feb 2013.
-  - "Xperia V – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiav/).
-    Sony Mobile Developer World. Sony. Retrieved 27 Feb 2013.
-  - "Sony Xperia AX white paper"
-    (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-ax-white-paper/).
-    Sony Mobile Developer World. Sony. 27 November 2012. Retrieved 27
-    Mar 2013.
-  - "Sony Xperia VL white paper"
-    (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-vl-white-paper/).
-    Sony Mobile Developer World. Sony. 27 November 2012. Retrieved 27
-    Mar 2013.
-  - "Xperia Z – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiaz/).
-    Sony Mobile Developer World. Sony. Retrieved 27 Feb 2013.
-  - Hughes, Conan (28 January 2013). "Sony Xperia Z slated for February
-    9 release in Japan"
-    (http://www.androidauthority.com/sony-xperia-z-slated-february-9-release-japan-151446/).
-    Android Authority. Retrieved 18 Mar 2013.
-  - Martonik, Andrew (24 June 2013). "Sony Xperia Z Android 4.2.2 update
-    rolling out now"
-    (http://www.androidcentral.com/sony-xperia-z-android-422-update-rolling-out-now).
-    Android Central. Mobile Nations. Retrieved 5 July 2013.
-  - Wagner, Alex (23 December 2013). "Sony rolling Android 4.3 updates
-    out to Xperia Z, ZL, ZR and Tablet Z"
-    (http://androidandme.com/2013/12/news/sony-rolling-android-4-3-updates-out-to-xperia-z-zl-zr-and-tablet-z/).
-    Android and Me. PhoneDog Media, LLC. Retrieved 15 Jan 2014.
-  - "Xperia E – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiae/).
-    Sony Mobile Developer World. Sony. Retrieved 27 Feb 2013.
-  - "Xperia E dual – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiaedual/).
-    Sony Mobile Developer World. Sony. Retrieved 26 Mar 2013.
-  - Chawla, Surbhi (13 March 2013). "Sony Xperia E and Xperia E dual up
-    for pre-order"
-    (http://gadgets.ndtv.com/mobiles/news/sony-xperia-e-and-xperia-e-dual-up-for-pre-order342050).
-    NDTV Gadgets. NDTV. Retrieved 23 Mar 2013.
-  - Souppouris, Aaron (18 March 2013). "Sony unveils mid-range Xperia SP
-    and L, due in Europe and Asia this spring"
-    (https://www.theverge.com/2013/3/18/4118242/sony-xperia-sp-xperia-l-android-smartphone-video-pictures).
-    The Verge. Vox Media. Retrieved 18 Mar 2013.
-  - "Sony Mobile Adds Two New Xperia Smartphones to its Spring Line up,
-    Bringing Best of Sony Experiences to a Broader Device Range"
-    (http://www.prnewswire.com/news-releases/sony-mobile-adds-two-new-xperia-smartphones-to-its-spring-line-up-bringing-best-of-sony-experiences-to-a-broader-device-range-198747141.html).
-    PR Newswire. 18 March 2013. Retrieved 18 Mar 2013.
-  - "Xperia SP – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiasp/).
-    Sony Mobile Developer World. Sony. Retrieved 21 Mar 2013.
-  - "Sony Xperia SP and Xperia L go on pre-order across Europe"
-    (http://www.gsmarena.com/sony_xperia_sp_and_xperia_l_go_on_preorder_across_europe-news-5868.php).
-    GSMArena. 17 April 2013. Retrieved 13 May 2013.
-  - K, Peter (11 Feb 2014). "Android 4.3 Jelly Bean update starts
-    rolling out for the Sony Xperia SP"
-    (http://www.phonearena.com/news/Android-4.3-Jelly-Bean-update-starts-rolling-out-for-the-Sony-Xperia-SP_id52494).
-    PhoneArena. Meet Gadget. Retrieved 28 June 2014.
-  - "Xperia ZL – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiazl/).
-    Sony Mobile Developer World. Sony. Retrieved 27 Feb 2013.
-  - Chawla, Surbhi (14 February 2013). "Sony Xperia ZL to start
-    retailing in Germany from April for 600 Euros: Report"
-    (http://gadgets.ndtv.com/mobiles/news/sony-xperia-zl-to-start-retailing-in-germany-from-april-for-600-euros-report-330734).
-    NDTV Gadgets. NDTV. Retrieved 23 Mar 2013.
-  - Hardy, Ian (20 March 2013). "Confirmed: Sony Xperia ZL launching in
-    Canada on April 2nd"
-    (http://mobilesyrup.com/2013/03/20/confirmed-sony-xperia-zl-launching-in-canada-on-april-2nd).
-    MobileSyrup. Retrieved 23 Mar 2013.
-  - Martonik, Andrew (20 June 2013). "Sony Xperia ZL (C6506) Android
-    4.2.2 update now available"
-    (http://www.androidcentral.com/sony-xperia-zl-c6506-android-422-update-now-available).
-    Android Central. Mobile Nations. Retrieved 5 July 2013.
-  - "Sony Xperia™ support (English)"
-    (https://support.sonymobile.com/global-en/xperiazl/software/).
-  - "Xperia ZR – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiazr/).
-    Sony Mobile Developer World. Sony. Retrieved 13 May 2013.
-  - Brian, Matt (13 May 2013). "Sony shrinks the Xperia Z to 4.6 inches
-    with new Xperia ZR"
-    (https://www.theverge.com/2013/5/13/4325886/sony-xperia-zr-waterproof-android-phone).
-    The Verge. Vox Media. Retrieved 13 May 2013.
-  - "Sony Xperia ZR LTE white paper"
-    (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-zr-lte-white-paper/).
-    Sony Mobile Developer World. Sony. 26 May 2013. Retrieved 28 Aug
-    2013.
-  - Dobie, Alex (15 May 2013). "NTT Docomo announces the Sony Xperia A"
-    (http://www.androidcentral.com/ntt-docomo-announces-sony-xperia).
-    Android Central. Mobile Nations. Retrieved 17 May 2013.
-  - Smith, Mat (20 May 2013). "Sony Xperia UL announced for Japan:
-    5-inch 1080p display and 15-frame burst photography skills (video)"
-    (https://www.engadget.com/2013/05/20/sony-xperia-ul-announced-may-release-date/).
-    Engadget. AOL. Retrieved 27 May 2013.
-  - Devine, Richard (20 May 2013). "Sony Xperia UL announced for Japan,
-    5-inches and 1080p display"
-    (http://www.androidcentral.com/sony-xperia-ul-announced-japan-5-inches-and-1080p-display).
-    Android Central. Mobile Nations. Retrieved 27 May 2013.
-  - "Xperia™ UL SOL22 | 主な仕様 | ソニーモバイルコミュニケーションズ"
-    (http://www.sonymobile.co.jp/xperia/au/sol22/spec/spec.html). Sony
-    Mobile Japan (in Japanese). Sony. Retrieved 6 June 2013.
-  - "Xperia L – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperial/).
-    Sony Mobile Developer World. Sony. Retrieved 21 Mar 2013.
-  - "Xperia C – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiac/).
-    Sony Mobile Developer World. Sony. Retrieved 28 June 2013.
-  - "Sony Xperia C S39h (Sony CN3) Specs"
-    (http://pdadb.net/index.php?m=specs\&id=4696\&c=sony_xperia_c_s39h_sony_cn3).
-    PDAdb.net. Retrieved 4 Sep 2013.
-  - "Xperia M – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiam/).
-    Sony Mobile Developer World. Sony. Retrieved 4 June 2013.
-  - "Xperia M dual – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiamdual/).
-    Sony Mobile Developer World. Sony. Retrieved 4 June 2013.
-  - F., Alan (13 August 2013). "Sony Xperia M to launch in Europe this
-    month"
-    (http://www.phonearena.com/news/Sony-Xperia-M-to-launch-in-Europe-this-month_id46372).
-    Phone Arena. MeetGadget. Retrieved 4 Sep 2013.
-  - "Xperia Z Ultra – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiazultra/).
-    Sony Mobile Developer World. Sony. Retrieved 26 June 2013.
-  - Sarafolean, Nick (25 June 2013). "Sony outs gargantuan Xperia Z
-    Ultra"
-    (http://androidandme.com/2013/06/smartphones-2/sony-outs-gargantuan-xperia-z-ultra/).
-    Android and Me. PhoneDog Media, LLC. Retrieved 26 June 2013.
-  - "Sony Xperia Z Ultra HSPA+ XL39h white paper"
-    (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-z-ultra-hspa-xl39h-white-paper/).
-    Sony Mobile Developer World. Sony. 1 August 2013. Retrieved 4 Sep
-    2013.
-  - Briden, Paul (29 August 2013). "Sony Xperia Z Ultra hands-on, specs,
-    release date and price"
-    (http://www.knowyourmobile.com/sony/sony-xperia-z-ultra/20540/sony-xperia-zultra-hands-specs-release-date-and-price).
-    Know Your Mobile. Dennis Publishing. Retrieved 4 Sep 2013.
-  - Wagner, Alex (16 December 2013). "Sony Xperia Z1, Z Ultra receiving
-    Android 4.3 updates"
-    (http://androidandme.com/2013/12/news/sony-xperia-z1-z-ultra-receiving-android4-3-updates/).
-    Android and Me. PhoneDog Media, LLC. Retrieved 15 Jan 2013.
-  - Wagner, Alex (17 December 2013). "Sony Z Ultra Google Play edition
-    Android 4.4.2 update begins its rollout"
-    (http://androidandme.com/2013/12/news/sony-z-ultra-google-play-edition-android-4-4-2-update-begins-its-rollout).
-    Android and Me. PhoneDog Media, LLC. Retrieved 15 Jan 2013.
-  - Padre, Joe (25 June 2013). "Sony Xperia Z Ultra unleashed – 6.4"
-    Full HD TRILUMINOS display, quad-core, waterproof smartphone
-    \[video\]"
-    (http://developer.sonymobile.com/2013/06/25/sony-xperia-z-ultra-unleashed-6-4-full-hd-triluminos-display-quad-core-waterproof-smartphone/).
-    Sony Mobile Developer World. Sony. Retrieved 26 June 2013.
-  - Savov, Vlad (4 September 2013). "Sony's Xperia Z1 aims to be the
-    biggest and best Android cameraphone yet"
-    (https://www.theverge.com/2013/9/4/4682518/sonys-xperia-z1-specs-features-release-date).
-    The Verge. Vox Media. Retrieved 4 Sep 2013.
-  - "Xperia Z1 – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiaz1/).
-    Sony Mobile Developer World. Sony. Retrieved 4 Sep 2013.
-  - "Sony Xperia Z1 HSPA+ white paper"
-    (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-z1-hspa-white-paper/).
-    Sony Mobile Developer World. Sony. 4 September 2013. Retrieved 4 Sep
-    2013.
-  - Padre, Joe (4 September 2013). "Introducing Sony Xperia Z1 – a 5"
-    waterproof smartphone with a large 1/2.3-type 20.7 MP camera \[tech
-    specs\]"
-    (http://developer.sonymobile.com/2013/09/04/introducing-sony-xperia-z1-a-5-waterproof-smartphone-with-a-large-12-3-type-20-7mp-camera-tech-specs/).
-    Sony Mobile Developer World. Sony. Retrieved 4 Sep 2013.
-  - "Xperia Z1 Compact – Developer World"
-    (http://developer.sonymobile.com/products/phones/specification/xperiaz1compact/).
-    Sony Mobile Developer World. Sony. Retrieved 15 Jan 2014.
-  - Savov, Vlad (6 January 2014). "Sony heeds the call for a small
-    superphone with Xperia Z1 Compact"
-    (https://www.theverge.com/2014/1/6/5267578/sony-xperia-z1-compact-launch-ces-2014).
-    The Verge. Vox Media. Retrieved 15 Jan 2014.
-  - "Sony Xperia E1 - Full phone specifications"
-    (http://www.gsmarena.com/sony_xperia_e1-5966.php). Retrieved 20
-    June 2014.
-  - "Xperia E1 - Xperia Blog"
-    (http://www.xperiablog.net/specifications/2014-xperias/xperia-e1/).
-    Retrieved 20 June 2014.
-  - "Introducing Xperia™ T2 Ultra and Xperia™ T2 Ultra dual"
-    (http://blogs.sonymobile.com/press_release/xperia-t2-ultra-the-large-screen-smartphone-for-entertainment-on-the-go/).
-    Sony Mobile. 14 January 2014. Retrieved 21 October 2015.
-  - "Sony 'Sirius' to go official as Xperia Z2 at MWC, Quad HD 5.2-inch
-    screen in tow"
-    (http://vr-zone.com/articles/sony-sirius-go-official-xperia-z2-mwc-quad-hd-5-2-inch-screen-tow/69334.html).
-    A. Diaconescu. Vr-Zone. 14 January 2014. Retrieved 11 February 2014.
-  - "Something extraordinary is coming from Sony..."
-    (https://www.youtube.com/watch?v=PoUzAbvbAB4) Sony Xperia. YouTube.
-    21 February 2014. Retrieved 22 February 2014.
-  - "Sony D230X 'Eagle' passes through the FCC; single-SIM and dual-SIM
-    versions planned"
-    (http://www.xperiablog.net/2014/02/19/sony-d230x-eagle-passes-through-the-fcc-single-sim-and-dual-sim-versions-planned/).
-    Xperia Blog. Retrieved 24 April 2014.
-  - "Xperia C3 – Introducing the PROselfie smartphone"
-    (http://www.sonymobile.com/global-en/products/phones/xperia-c3/specifications/).
-    Sony Corporation. Retrieved 8 July 2014.
-  - "FxP Blog - Sony Xperia M4 aqua"
-    (https://web.archive.org/web/20161018001605/http://fxpblog.co/qualcomm-cortex-a53-family/sony-xperia-m4-aqua/).
-  - "Sony sets the new mid-range standard with Xperia™ M4 Aqua"
-    (http://blogs.sonymobile.com/press_release/new-mid-range-standard-xperia-m4-aqua/).
-    Retrieved 7 April 2015.
-  - "Xperia™ Z3+ Specification"
-    (http://www.sonymobile.com/global-en/products/phones/xperia-z3-plus/specifications/\#tabs).
-    Sony Mobile.
-  - "Xperia™ Z5"
-    (http://www.sonymobile.com/gb/products/phones/xperia-z5/specifications/).
-    Sony Xperia (UK). Retrieved 2015-10-03.
-  - "Xperia™ Z5 Compact"
-    (http://www.sonymobile.com/gb/products/phones/xperia-z5-compact/specifications/).
-    Sony Xperia (UK). Retrieved 2015-10-03.
-  - "Xperia™ Z5 Premium"
-    (http://www.sonymobile.com/gb/products/phones/xperia-z5-premium/specifications/).
-    Sony Xperia (UK). Retrieved 2016-01-30.
-  - "Xperia™ X Official Site - Sony Mobile (UK)"
-    (https://web.archive.org/web/20170707003914/https://www.sonymobile.com/gb/products/phones/xperia-x/\#specifications).
-    Retrieved 2016-02-22.
-  - "Xperia™ XA - Official site - Sony Mobile (UK)"
-    (http://www.sonymobile.com/gb/products/phones/xperia-xa/\#specifications).
-    Retrieved 2016-02-22.
-  - "Xperia™ X Performance Specifications - Sony Mobile (UK)"
-    (https://web.archive.org/web/20160305050909/http://www.sonymobile.com/gb/products/phones/xperia-x-performance/specifications/).
-    Retrieved 2016-02-22.
-  - "Xperia XZ and XZs received Android Oreo update (41.3.A.0.401)"
-    (http://www.xperiablog.net/2017/11/24/xperia-xz-and-xzs-received-android-oreo-update-41-3-a-0-401/).
-    XperiaBlog.net. 2017-11-24. Retrieved 2017-11-26.
-  - "Xperia XZ and XZs received Android Oreo update (41.3.A.0.401)"
-    (http://www.xperiablog.net/2017/11/24/xperia-xz-and-xzs-received-android-oreo-update-41-3-a-0-401/).
-    XperiaBlog.net. 2017-11-24. Retrieved 2017-11-26.
-  - "Sony Xperia XA1 Plus Specifications"
-    (https://www.gsmarena.com/sony_xperia_xa1_plus-8840.php).
-    GSMArena. Retrieved 2017-11-26.</small>
+  - <small> Wilson, Mark (2 October 2008). "XPERIA X1 Hiptop Killer: Sony Ericsson's First Video Plus Gallery" (https://gizmodo.com/354742/xperia-x1-hiptop-killer-sony-ericssons-first-video-plus-gallery). Gizmodo. Retrieved 21 October 2015.
+  - "First Click: The clear appeal of transparent gadgets" (https://www.theverge.com/2015/5/12/8590501/the-clear-appeal-of-transparent-gadgets). The Verge. 12 May 2015. Retrieved 21 October 2015.
+  - Sony Ericsson XPERIA X12 Completely Detailed By Mobile Review (http://www.sonyinsider.com/2010/11/30/the-xperia-x12-completely-detailed-by-mobile-review/). Sony Insider (30 November 2010). Retrieved on 18 Oct 2011.
+  - Chan, Casey (3 Nov 2009). "Sony Ericsson XPERIA X10 Officially Announced" (http://www.androidcentral.com/sony-ericsson-xperia-x10-officially-announced). Androidcentral. Retrieved 21 October 2015.
+  - "Xperia X1 – White Paper" (https://web.archive.org/web/20160410172007/http://dl-developer.sonymobile.com/documentation/whitepapers/100340-wp_x1_r5a.pdf) (PDF). Sony Mobile Developer World. Sony. Retrieved 8 Mar 2013.
+  - "Sony Ericsson Xperia X1 / X1i / X1c (SE Venus) Specs" (http://pdadb.net/index.php?m=specs\&id=1117\&c=sony_ericsson_xperia_x1__x1i__x1c_se_venus). PDAdb.net. Retrieved 8 Mar 2013.
+  - "Xperia X2 – White Paper" (https://web.archive.org/web/20160410182347/http://dl-developer.sonymobile.com/documentation/whitepapers/DW-101288-WP_X2_2.pdf) (PDF). Sony Mobile Developer World. Sony. Retrieved 8 Mar 2013.
+  - "Sony Ericsson Xperia X2 / X2i (SE Vulcan) Specs" (http://pdadb.net/index.php?m=specs\&id=1932\&c=sony_ericsson_xperia_x2__x2i_se_vulcan). PDAdb.net. Retrieved 8 Mar 2013.
+  - "Xperia X10" (http://www.sonymobile.com/global-en/products/phones/xperia-x10/). Sony Mobile. Sony. Retrieved 8 Mar 2013.
+  - Savov, Vlad (22 March 2010). "Sony Ericsson Xperia X10 finally arrives in UK, T-Mobile will deliver it within 10 days" (https://www.engadget.com/2010/03/22/sony-ericsson-xperia-x10-finally-arrives-in-uk-t-mobile-will-de/). Engadget. AOL. Retrieved 8 Mar 2013.
+  - "Sony Ericsson Xperia X10 – Full phone specifications" (http://www.gsmarena.com/sony_ericsson_xperia_x10-2964.php). GSMArena. Retrieved 8 Mar 2013.
+  - "Xperia X10 mini pro – White Paper" (https://web.archive.org/web/20160410182317/http://dl-developer.sonymobile.com/documentation/whitepapers/X10_minipro_WP_8.pdf) (PDF). Sony Mobile Developer World. Sony. Retrieved 8 Mar 2013.
+  - "Sony Ericsson Xperia X10 mini pro U20a (SE Mimmi) Detailed Specs" (http://pdadb.net/index.php?m=specs\&id=2239\&view=1\&c=sony_ericsson_xperia_x10_mini_pro_u20a_se_mimmi). PDAdb.net. Retrieved 8 Mar 2013.
+  - Lai, Richard (8 July 2010). "Sony Ericsson Xperia X10 Mini / Mini Pro review" (https://www.engadget.com/2010/07/08/sony-ericsson-xperia-x10-mini-mini-pro-review/). Engadget. AOL. Retrieved 8 Mar 2013.
+  - "Xperia X10 mini – White Paper" (https://web.archive.org/web/20160410180859/http://dl-developer.sonymobile.com/documentation/whitepapers/X10_mini_WP_8.pdf) (PDF). Sony Mobile Developer World. Sony. Retrieved 8 Mar 2013.
+  - "Sony Ericsson Xperia X10 mini E10a (SE Robyn) Detailed Specs" (http://pdadb.net/index.php?m=specs\&id=2240\&view=1\&c=sony_ericsson_xperia_x10_mini_e10a_se_robyn). PDAdb.net. Retrieved 8 Mar 2013.
+  - "Xperia X8 – White Paper" (https://web.archive.org/web/20160410182435/http://dl-developer.sonymobile.com/documentation/whitepapers/X8_WP_6.pdf) (PDF). Sony Mobile Developer World. Sony. Retrieved 25 Mar 2013.
+  - "Sony Ericsson Xperia X8 – Full phone specifications" (http://www.gsmarena.com/sony_ericsson_xperia_x8-3403.php). GSMArena. Retrieved 25 Mar 2013.
+  - "Xperia arc – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiaarc/). Sony Mobile Developer World. Sony. Retrieved 25 Mar 2013.
+  - "Xperia neo – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperianeo/). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
+  - "Xperia PLAY – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiaplay/). Sony Mobile Developer World. Sony. Retrieved 25 Mar 2013.
+  - "Sony Ericsson Xperia PLAY – Full phone specifications" (http://www.gsmarena.com/sony_ericsson_xperia_play-3608.php). GSMArena. Retrieved 25 Mar 2013.
+  - "Sony Ericsson Xperia Play CDMA – Full phone specifications" (http://www.gsmarena.com/sony_ericsson_xperia_play_cdma-3780.php). GSMArena. Retrieved 25 Mar 2013.
+  - "Xperia acro IS11S – White Paper" (https://web.archive.org/web/20160410190044/http://dl-developer.sonymobile.com/documentation/whitepapers/IS11S_WP_1.pdf) (PDF). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
+  - "〈お知らせ〉 「INFOBAR A01」「Xperia™ acro IS11S」「AQUOS PHONE IS11SH」「AQUOS PHONE IS12SH」「CA007」の販売開始について" (http://www.kddi.com/corporate/news_release/2011/0622a/). KDDI Mobile (in Japanese). KDDI. 22 June 2011. Retrieved 29 Mar 2013.
+  - "Xperia acro SO-02C – White Paper" (https://web.archive.org/web/20160410180548/http://dl-developer.sonymobile.com/documentation/whitepapers/SO-02C_WP_1.pdf) (PDF). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
+  - "Xperia mini pro – White Paper" (https://web.archive.org/web/20160410182342/http://dl-developer.sonymobile.com/documentation/whitepapers/minipro_WP_2.pdf) (PDF). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
+  - "Sony Ericsson Xperia mini pro – Full phone specifications" (http://www.gsmarena.com/sony_ericsson_xperia_mini_pro-3713.php). GSMArena. Retrieved 29 Mar 2013.
+  - "Live with Walkman" (http://developer.sonymobile.com/products/phones/specification/livewithwalkman/). Sony Mobile Developer World. Sony. Retrieved 20 May 2014.
+  - "Live with Walkman" (http://www.gsmarena.com/sony_ericsson_live_with_walkman-4111.php). Retrieved 20 May 2014.
+  - "Xperia mini – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiamini/). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
+  - "Xperia ray – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiaray/). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
+  - "Sony Ericsson Xperia ray ST18 / ST18i (SE Urushi) Detailed Specs" (http://pdadb.net/index.php?m=specs\&id=2963\&view=1\&c=sony_ericsson_xperia_ray_st18__st18i_se_urushi). PDAdb.net. Retrieved 29 Mar 2013.
+  - "Xperia arc S – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiaarcs/). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
+  - "Xperia neo V – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperianeov/). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
+  - "Xperia active – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiaactive/). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
+  - "Xperia pro – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiapro/). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
+  - "Sony Ericsson Xperia pro – Full phone specifications" (http://www.gsmarena.com/sony_ericsson_xperia_pro-3779.php). GSMArena. Retrieved 29 Mar 2013.
+  - "Xperia X5 Pureness – White Paper" (https://web.archive.org/web/20170315193053/http://dl-developer.sonymobile.com/documentation/whitepapers/X5_WP_1.pdf) (PDF). Sony Mobile Developer World. Sony. Retrieved 29 Mar 2013.
+  - "Sony Ericsson Xperia Pureness – Full phone specifications" (http://www.gsmarena.com/sony_ericsson_xperia_pureness-3015.php). GSMArena. Retrieved 29 Mar 2013.
+  - "Xperia S – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperias/). Sony Mobile Developer World. Sony. Retrieved 23 Feb 2013.
+  - "The Sony smartphone Xperia S arrives in stores" (http://blogs.sonymobile.com/press_release/the-sony-smartphone-xperia-s-arrives-in-stores/). Sony Mobile. Sony. 29 February 2012. Retrieved 27 Mar 2013.
+  - Whitwam, Ryan (26 August 2013). "Bug-Squashing Android 4.1 Update Rolling Out To Xperia S, Xperia SL, And Xperia Acro S" (http://www.androidpolice.com/2013/08/26/bug-squashing-android-4-1-update-rolling-out-to-xperia-s-xperia-sl-and-xperia-acro-s/). Android Police. Illogical Robot LLC. Retrieved 28 Aug 2013.
+  - "Xperia ion LTE – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiaionlt28i/). Sony Mobile Developer World. Sony. Retrieved 23 Feb 2013.
+  - "Xperia ion HSPA – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiaionlt28h/). Sony Mobile Developer World. Sony. Retrieved 26 Mar 2013.
+  - "Sony Xperia acro HD SOI12 white paper" (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-acro-hd-soi12-white-paper/). Sony Mobile Developer World. Sony. 22 May 2012. Retrieved 27 Mar 2013.
+  - Smith, Mat (13 March 2013). "Sony Xperia Acro HD launches March 15 in Japan" (https://www.engadget.com/2012/03/13/sony-launches-xperia-acro-in-japan-march-15/). Engadget. AOL. Retrieved 27 Mar 2013.
+  - "Sony Xperia acro HD SO-03D white paper" (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-acro-hd-so-03d-white-paper/). Sony Mobile Developer World. Sony. 22 May 2012. Retrieved 27 Mar 2013.
+  - "Xperia arco S – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiaacros/). Sony Mobile Developer World. Sony. Retrieved 23 Feb 2013.
+  - "Sony Ericsson Xperia acro S – Full phone specifications" (http://www.gsmarena.com/sony_xperia_acro_s-4781.php). GSMArena. Retrieved 18 Mar 2013.
+  - "Xperia sola – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiasola/). Sony Mobile Developer World. Sony. Retrieved 24 Feb 2013.
+  - "Xperia™ neo L" (https://web.archive.org/web/20150924104223/http://www.sonymobile.com/global-en/products/phones/xperia-neo-l/). Sony Mobile. Sony Mobile. Retrieved 21 Oct 2015.
+  - "Xperia P – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiap/). Sony Mobile Developer World. Sony. Retrieved 24 Feb 2013.
+  - "Xperia U – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiau/). Sony Mobile Developer World. Sony. Retrieved 24 Feb 2013.
+  - "Sony Xperia U – Full phone specifications" (http://www.gsmarena.com/sony_xperia_u-4437.php). GSMArena. Retrieved 24 Feb 2013.
+  - "Sony Xperia Go" (http://www.sonymobile.com/global-en/products/phones/xperia-go/). Sony Mobile. Sony Mobile. Retrieved 21 Oct 2015.
+  - "Sony Ericsson Xperia go – Full phone specifications" (http://www.gsmarena.com/sony_xperia_go-4782.php). GSMArena. Retrieved 18 Mar 2013.
+  - "Sony Xperia SX white paper" (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-sx-white-paper/). Sony Mobile Developer World. Sony. 23 November 2012. Retrieved 6 Mar 2013.
+  - "Sony Xperia tipo" (http://www.sonymobile.com/global-en/products/phones/xperia-tipo/). Sony Mobile. Sony Mobile. Retrieved 21 Oct 2015.
+  - "Sony Xperia tipo dual" (https://web.archive.org/web/20131026220851/http://www.sonymobile.com/global-en/products/phones/xperia-tipo-dual/). Sony Mobile. Sony Mobile. Retrieved 21 Oct 2013.
+  - "Xperia TX – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiatx/). Sony Mobile Developer World. Sony. Retrieved 27 Feb 2013.
+  - "Xperia miro – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiamiro/). Sony Mobile Developer World. Sony. Retrieved 24 Feb 2013.
+  - "Xperia T – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiat/). Sony Mobile Developer World. Sony. Retrieved 27 Feb 2013.
+  - "Xperia T LTE – White Paper" (https://web.archive.org/web/20160410182044/http://dl-developer.sonymobile.com/documentation/whitepapers/Xperia_T_LTE_WP_3.pdf) (PDF). Sony Mobile Developer World. Sony. Retrieved 26 Mar 2013.
+  - "Sony Xperia TL white paper" (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-tl-white-paper/). Sony Mobile Developer World. Sony. 14 March 2012. Retrieved 26 Mar 2013.
+  - "Xperia SL – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiasl/). Sony Mobile Developer World. Sony. Retrieved 23 Feb 2013.
+  - "Sony Xperia SL specs" (http://www.phonearena.com/phones/Sony-Xperia-SL_id7426). PhoneArena. Retrieved 27 Mar 2013.
+  - "Xperia J – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiaj/). Sony Mobile Developer World. Sony. Retrieved 24 Feb 2013.
+  - "Xperia V – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiav/). Sony Mobile Developer World. Sony. Retrieved 27 Feb 2013.
+  - "Sony Xperia AX white paper" (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-ax-white-paper/). Sony Mobile Developer World. Sony. 27 November 2012. Retrieved 27 Mar 2013.
+  - "Sony Xperia VL white paper" (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-vl-white-paper/). Sony Mobile Developer World. Sony. 27 November 2012. Retrieved 27 Mar 2013.
+  - "Xperia Z – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiaz/). Sony Mobile Developer World. Sony. Retrieved 27 Feb 2013.
+  - Hughes, Conan (28 January 2013). "Sony Xperia Z slated for February 9 release in Japan" (http://www.androidauthority.com/sony-xperia-z-slated-february-9-release-japan-151446/). Android Authority. Retrieved 18 Mar 2013.
+  - Martonik, Andrew (24 June 2013). "Sony Xperia Z Android 4.2.2 update rolling out now" (http://www.androidcentral.com/sony-xperia-z-android-422-update-rolling-out-now). Android Central. Mobile Nations. Retrieved 5 July 2013.
+  - Wagner, Alex (23 December 2013). "Sony rolling Android 4.3 updates out to Xperia Z, ZL, ZR and Tablet Z" (http://androidandme.com/2013/12/news/sony-rolling-android-4-3-updates-out-to-xperia-z-zl-zr-and-tablet-z/). Android and Me. PhoneDog Media, LLC. Retrieved 15 Jan 2014.
+  - "Xperia E – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiae/). Sony Mobile Developer World. Sony. Retrieved 27 Feb 2013.
+  - "Xperia E dual – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiaedual/). Sony Mobile Developer World. Sony. Retrieved 26 Mar 2013.
+  - Chawla, Surbhi (13 March 2013). "Sony Xperia E and Xperia E dual up for pre-order" (http://gadgets.ndtv.com/mobiles/news/sony-xperia-e-and-xperia-e-dual-up-for-pre-order342050). NDTV Gadgets. NDTV. Retrieved 23 Mar 2013.
+  - Souppouris, Aaron (18 March 2013). "Sony unveils mid-range Xperia SP and L, due in Europe and Asia this spring" (https://www.theverge.com/2013/3/18/4118242/sony-xperia-sp-xperia-l-android-smartphone-video-pictures). The Verge. Vox Media. Retrieved 18 Mar 2013.
+  - "Sony Mobile Adds Two New Xperia Smartphones to its Spring Line up, Bringing Best of Sony Experiences to a Broader Device Range" (http://www.prnewswire.com/news-releases/sony-mobile-adds-two-new-xperia-smartphones-to-its-spring-line-up-bringing-best-of-sony-experiences-to-a-broader-device-range-198747141.html). PR Newswire. 18 March 2013. Retrieved 18 Mar 2013.
+  - "Xperia SP – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiasp/). Sony Mobile Developer World. Sony. Retrieved 21 Mar 2013.
+  - "Sony Xperia SP and Xperia L go on pre-order across Europe" (http://www.gsmarena.com/sony_xperia_sp_and_xperia_l_go_on_preorder_across_europe-news-5868.php). GSMArena. 17 April 2013. Retrieved 13 May 2013.
+  - K, Peter (11 Feb 2014). "Android 4.3 Jelly Bean update starts rolling out for the Sony Xperia SP" (http://www.phonearena.com/news/Android-4.3-Jelly-Bean-update-starts-rolling-out-for-the-Sony-Xperia-SP_id52494). PhoneArena. Meet Gadget. Retrieved 28 June 2014.
+  - "Xperia ZL – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiazl/). Sony Mobile Developer World. Sony. Retrieved 27 Feb 2013.
+  - Chawla, Surbhi (14 February 2013). "Sony Xperia ZL to start retailing in Germany from April for 600 Euros: Report" (http://gadgets.ndtv.com/mobiles/news/sony-xperia-zl-to-start-retailing-in-germany-from-april-for-600-euros-report-330734). NDTV Gadgets. NDTV. Retrieved 23 Mar 2013.
+  - Hardy, Ian (20 March 2013). "Confirmed: Sony Xperia ZL launching in Canada on April 2nd" (http://mobilesyrup.com/2013/03/20/confirmed-sony-xperia-zl-launching-in-canada-on-april-2nd). MobileSyrup. Retrieved 23 Mar 2013.
+  - Martonik, Andrew (20 June 2013). "Sony Xperia ZL (C6506) Android 4.2.2 update now available" (http://www.androidcentral.com/sony-xperia-zl-c6506-android-422-update-now-available). Android Central. Mobile Nations. Retrieved 5 July 2013.
+  - "Sony Xperia™ support (English)" (https://support.sonymobile.com/global-en/xperiazl/software/).
+  - "Xperia ZR – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiazr/). Sony Mobile Developer World. Sony. Retrieved 13 May 2013.
+  - Brian, Matt (13 May 2013). "Sony shrinks the Xperia Z to 4.6 inches with new Xperia ZR" (https://www.theverge.com/2013/5/13/4325886/sony-xperia-zr-waterproof-android-phone). The Verge. Vox Media. Retrieved 13 May 2013.
+  - "Sony Xperia ZR LTE white paper" (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-zr-lte-white-paper/). Sony Mobile Developer World. Sony. 26 May 2013. Retrieved 28 Aug 2013.
+  - Dobie, Alex (15 May 2013). "NTT Docomo announces the Sony Xperia A" (http://www.androidcentral.com/ntt-docomo-announces-sony-xperia). Android Central. Mobile Nations. Retrieved 17 May 2013.
+  - Smith, Mat (20 May 2013). "Sony Xperia UL announced for Japan: 5-inch 1080p display and 15-frame burst photography skills (video)" (https://www.engadget.com/2013/05/20/sony-xperia-ul-announced-may-release-date/). Engadget. AOL. Retrieved 27 May 2013.
+  - Devine, Richard (20 May 2013). "Sony Xperia UL announced for Japan, 5-inches and 1080p display" (http://www.androidcentral.com/sony-xperia-ul-announced-japan-5-inches-and-1080p-display). Android Central. Mobile Nations. Retrieved 27 May 2013.
+  - "Xperia™ UL SOL22 | 主な仕様 | ソニーモバイルコミュニケーションズ" (http://www.sonymobile.co.jp/xperia/au/sol22/spec/spec.html). Sony Mobile Japan (in Japanese). Sony. Retrieved 6 June 2013.
+  - "Xperia L – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperial/). Sony Mobile Developer World. Sony. Retrieved 21 Mar 2013.
+  - "Xperia C – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiac/). Sony Mobile Developer World. Sony. Retrieved 28 June 2013.
+  - "Sony Xperia C S39h (Sony CN3) Specs" (http://pdadb.net/index.php?m=specs\&id=4696\&c=sony_xperia_c_s39h_sony_cn3). PDAdb.net. Retrieved 4 Sep 2013.
+  - "Xperia M – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiam/). Sony Mobile Developer World. Sony. Retrieved 4 June 2013.
+  - "Xperia M dual – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiamdual/). Sony Mobile Developer World. Sony. Retrieved 4 June 2013.
+  - F., Alan (13 August 2013). "Sony Xperia M to launch in Europe this month" (http://www.phonearena.com/news/Sony-Xperia-M-to-launch-in-Europe-this-month_id46372). Phone Arena. MeetGadget. Retrieved 4 Sep 2013.
+  - "Xperia Z Ultra – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiazultra/). Sony Mobile Developer World. Sony. Retrieved 26 June 2013.
+  - Sarafolean, Nick (25 June 2013). "Sony outs gargantuan Xperia Z Ultra" (http://androidandme.com/2013/06/smartphones-2/sony-outs-gargantuan-xperia-z-ultra/). Android and Me. PhoneDog Media, LLC. Retrieved 26 June 2013.
+  - "Sony Xperia Z Ultra HSPA+ XL39h white paper" (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-z-ultra-hspa-xl39h-white-paper/). Sony Mobile Developer World. Sony. 1 August 2013. Retrieved 4 Sep 2013.
+  - Briden, Paul (29 August 2013). "Sony Xperia Z Ultra hands-on, specs, release date and price" (http://www.knowyourmobile.com/sony/sony-xperia-z-ultra/20540/sony-xperia-zultra-hands-specs-release-date-and-price). Know Your Mobile. Dennis Publishing. Retrieved 4 Sep 2013.
+  - Wagner, Alex (16 December 2013). "Sony Xperia Z1, Z Ultra receiving Android 4.3 updates" (http://androidandme.com/2013/12/news/sony-xperia-z1-z-ultra-receiving-android4-3-updates/). Android and Me. PhoneDog Media, LLC. Retrieved 15 Jan 2013.
+  - Wagner, Alex (17 December 2013). "Sony Z Ultra Google Play edition Android 4.4.2 update begins its rollout" (http://androidandme.com/2013/12/news/sony-z-ultra-google-play-edition-android-4-4-2-update-begins-its-rollout). Android and Me. PhoneDog Media, LLC. Retrieved 15 Jan 2013.
+  - Padre, Joe (25 June 2013). "Sony Xperia Z Ultra unleashed – 6.4" Full HD TRILUMINOS display, quad-core, waterproof smartphone \[video\]" (http://developer.sonymobile.com/2013/06/25/sony-xperia-z-ultra-unleashed-6-4-full-hd-triluminos-display-quad-core-waterproof-smartphone/). Sony Mobile Developer World. Sony. Retrieved 26 June 2013.
+  - Savov, Vlad (4 September 2013). "Sony's Xperia Z1 aims to be the biggest and best Android cameraphone yet" (https://www.theverge.com/2013/9/4/4682518/sonys-xperia-z1-specs-features-release-date). The Verge. Vox Media. Retrieved 4 Sep 2013.
+  - "Xperia Z1 – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiaz1/). Sony Mobile Developer World. Sony. Retrieved 4 Sep 2013.
+  - "Sony Xperia Z1 HSPA+ white paper" (http://developer.sonymobile.com/downloads/whitepapers/sony-xperia-z1-hspa-white-paper/). Sony Mobile Developer World. Sony. 4 September 2013. Retrieved 4 Sep 2013.
+  - Padre, Joe (4 September 2013). "Introducing Sony Xperia Z1 – a 5" waterproof smartphone with a large 1/2.3-type 20.7 MP camera \[tech specs\]" (http://developer.sonymobile.com/2013/09/04/introducing-sony-xperia-z1-a-5-waterproof-smartphone-with-a-large-12-3-type-20-7mp-camera-tech-specs/). Sony Mobile Developer World. Sony. Retrieved 4 Sep 2013.
+  - "Xperia Z1 Compact – Developer World" (http://developer.sonymobile.com/products/phones/specification/xperiaz1compact/). Sony Mobile Developer World. Sony. Retrieved 15 Jan 2014.
+  - Savov, Vlad (6 January 2014). "Sony heeds the call for a small superphone with Xperia Z1 Compact" (https://www.theverge.com/2014/1/6/5267578/sony-xperia-z1-compact-launch-ces-2014). The Verge. Vox Media. Retrieved 15 Jan 2014.
+  - "Sony Xperia E1 - Full phone specifications" (http://www.gsmarena.com/sony_xperia_e1-5966.php). Retrieved 20 June 2014.
+  - "Xperia E1 - Xperia Blog" (http://www.xperiablog.net/specifications/2014-xperias/xperia-e1/). Retrieved 20 June 2014.
+  - "Introducing Xperia™ T2 Ultra and Xperia™ T2 Ultra dual" (http://blogs.sonymobile.com/press_release/xperia-t2-ultra-the-large-screen-smartphone-for-entertainment-on-the-go/). Sony Mobile. 14 January 2014. Retrieved 21 October 2015.
+  - "Sony 'Sirius' to go official as Xperia Z2 at MWC, Quad HD 5.2-inch screen in tow" (http://vr-zone.com/articles/sony-sirius-go-official-xperia-z2-mwc-quad-hd-5-2-inch-screen-tow/69334.html). A. Diaconescu. Vr-Zone. 14 January 2014. Retrieved 11 February 2014.
+  - "Something extraordinary is coming from Sony..." (https://www.youtube.com/watch?v=PoUzAbvbAB4) Sony Xperia. YouTube. 21 February 2014. Retrieved 22 February 2014.
+  - "Sony D230X 'Eagle' passes through the FCC; single-SIM and dual-SIM versions planned" (http://www.xperiablog.net/2014/02/19/sony-d230x-eagle-passes-through-the-fcc-single-sim-and-dual-sim-versions-planned/). Xperia Blog. Retrieved 24 April 2014.
+  - "Xperia C3 – Introducing the PROselfie smartphone" (http://www.sonymobile.com/global-en/products/phones/xperia-c3/specifications/). Sony Corporation. Retrieved 8 July 2014.
+  - "FxP Blog - Sony Xperia M4 aqua" (https://web.archive.org/web/20161018001605/http://fxpblog.co/qualcomm-cortex-a53-family/sony-xperia-m4-aqua/).
+  - "Sony sets the new mid-range standard with Xperia™ M4 Aqua" (http://blogs.sonymobile.com/press_release/new-mid-range-standard-xperia-m4-aqua/). Retrieved 7 April 2015.
+  - "Xperia™ Z3+ Specification" (http://www.sonymobile.com/global-en/products/phones/xperia-z3-plus/specifications/\#tabs). Sony Mobile.
+  - "Xperia™ Z5" (http://www.sonymobile.com/gb/products/phones/xperia-z5/specifications/). Sony Xperia (UK). Retrieved 2015-10-03.
+  - "Xperia™ Z5 Compact" (http://www.sonymobile.com/gb/products/phones/xperia-z5-compact/specifications/). Sony Xperia (UK). Retrieved 2015-10-03.
+  - "Xperia™ Z5 Premium" (http://www.sonymobile.com/gb/products/phones/xperia-z5-premium/specifications/). Sony Xperia (UK). Retrieved 2016-01-30.
+  - "Xperia™ X Official Site - Sony Mobile (UK)" (https://web.archive.org/web/20170707003914/https://www.sonymobile.com/gb/products/phones/xperia-x/\#specifications). Retrieved 2016-02-22.
+  - "Xperia™ XA - Official site - Sony Mobile (UK)" (http://www.sonymobile.com/gb/products/phones/xperia-xa/\#specifications). Retrieved 2016-02-22.
+  - "Xperia™ X Performance Specifications - Sony Mobile (UK)" (https://web.archive.org/web/20160305050909/http://www.sonymobile.com/gb/products/phones/xperia-x-performance/specifications/). Retrieved 2016-02-22.
+  - "Xperia XZ and XZs received Android Oreo update (41.3.A.0.401)" (http://www.xperiablog.net/2017/11/24/xperia-xz-and-xzs-received-android-oreo-update-41-3-a-0-401/). XperiaBlog.net. 2017-11-24. Retrieved 2017-11-26.
+  - "Xperia XZ and XZs received Android Oreo update (41.3.A.0.401)" (http://www.xperiablog.net/2017/11/24/xperia-xz-and-xzs-received-android-oreo-update-41-3-a-0-401/). XperiaBlog.net. 2017-11-24. Retrieved 2017-11-26.
+  - "Sony Xperia XA1 Plus Specifications" (https://www.gsmarena.com/sony_xperia_xa1_plus-8840.php). GSMArena. Retrieved 2017-11-26.</small>
 
 ## 外部連結
 
@@ -677,7 +371,4 @@
 
   - [索尼Xperia香港](https://www.sonymobile.com/hk/)
 
-[Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:索尼移动通信](https://zh.wikipedia.org/wiki/Category:索尼移动通信 "wikilink")
-[Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
+[Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:索尼移动通信](https://zh.wikipedia.org/wiki/Category:索尼移动通信 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")

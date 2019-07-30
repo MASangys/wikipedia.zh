@@ -1,11 +1,8 @@
-**SBS CNBC**
-為[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")24小時[新聞頻道](../Page/新聞頻道.md "wikilink")，属于[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")。
+**SBS CNBC** 為[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")24小時[新聞頻道](../Page/新聞頻道.md "wikilink")，属于[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")。
 
 ## 頻道歷史
 
-2009年8月13日，[SBS接管了CJ](../Page/SBS_\(韓國\).md "wikilink")
-Media（70％）及IB體育（30％）所持有的體育電視頻道 Xports。
-經過與CNBC的合作協議，Xports被停播，取而代之的是SBS-CNBC，並於2009年12月28日開播。頻道目前大部分節目正在以[高清晰度製播](https://zh.wikipedia.org/wiki/高清晰度 "wikilink")。
+2009年8月13日，[SBS接管了CJ](../Page/SBS_\(韓國\).md "wikilink") Media（70％）及IB體育（30％）所持有的體育電視頻道 Xports。 經過與CNBC的合作協議，Xports被停播，取而代之的是SBS-CNBC，並於2009年12月28日開播。頻道目前大部分節目正在以[高清晰度製播](https://zh.wikipedia.org/wiki/高清晰度 "wikilink")。
 
 ## 節目
 
@@ -13,13 +10,9 @@ Media（70％）及IB體育（30％）所持有的體育電視頻道 Xports。
 
   - *Good Morning Economy Wide*<굿모닝 경제와이드>*' 0500-0800*'
   - *Opening Bell*<오프닝 벨> (韓國版) **0800-1000**
-  - *[Mad
-    money](https://zh.wikipedia.org/wiki/Mad_money "wikilink")*\<\>
-    (韓國版) **0950-1000,1550-1600**
+  - *[Mad money](https://zh.wikipedia.org/wiki/Mad_money "wikilink")*\<\> (韓國版) **0950-1000,1550-1600**
   - *Market Express* **1000-1400**
-  - *[Closing
-    Bell](https://zh.wikipedia.org/wiki/Closing_Bell "wikilink")*\<\>
-    (韓國版) **1400-1600**
+  - *[Closing Bell](https://zh.wikipedia.org/wiki/Closing_Bell "wikilink")*\<\> (韓國版) **1400-1600**
   - *Money Q*<머니Q> **1600-1700**
   - *Market Movers*<김영익의 MARKET MOVERS> **(星期一1700-1800播出)**
   - *Real Estate Pocus*<부동산 포커스>*' (星期二1700-1800播出)*'
@@ -37,9 +30,7 @@ Media（70％）及IB體育（30％）所持有的體育電視頻道 Xports。
 
 ## 參考文獻
 
-[CNBC and SBS (Seoul Broadcasting System) Announce Plans to
-Launch 24-hour Korean Business News Channel, CNBC, Retrieved on
-December 28, 2009](http://www.cnbc.com/id/33424895)
+[CNBC and SBS (Seoul Broadcasting System) Announce Plans to Launch 24-hour Korean Business News Channel, CNBC, Retrieved on December 28, 2009](http://www.cnbc.com/id/33424895)
 
 <references/>
 
@@ -47,5 +38,4 @@ December 28, 2009](http://www.cnbc.com/id/33424895)
 
   -
 
-[Category:CNBC全球頻道列表](https://zh.wikipedia.org/wiki/Category:CNBC全球頻道列表 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:CNBC全球頻道列表](https://zh.wikipedia.org/wiki/Category:CNBC全球頻道列表 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")

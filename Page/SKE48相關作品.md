@@ -1,4 +1,4 @@
-本條目收錄**[SKE48](../Page/SKE48.md "wikilink")**的**關聯作品**，包括[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")、[音樂專輯以及](../Page/音樂專輯.md "wikilink")[影音作品](https://zh.wikipedia.org/wiki/影音 "wikilink")。
+本條目收錄**[SKE48](../Page/SKE48.md "wikilink")**的**關聯作品**，包括[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")、[音樂專輯](../Page/音樂專輯.md "wikilink")以及[影音作品](https://zh.wikipedia.org/wiki/影音 "wikilink")。
 
 ## 單曲
 
@@ -405,6 +405,16 @@ CD</p></td>
 <td><p>417,614張</p></td>
 <td><p>532,150張</p></td>
 </tr>
+<tr class="odd">
+<td><p>25</p></td>
+<td><p>2019年7月24日</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/FRUSTRATION" title="wikilink">FRUSTRATION</a></strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -701,8 +711,7 @@ JAPAN<br />
 
 ### 演唱會
 
-*关于以AKB48及AKB48 with
-SKE48名義参加的演唱會，請参照[AKB48關聯作品](https://zh.wikipedia.org/wiki/AKB48關聯作品 "wikilink")。*
+*关于以AKB48及AKB48 with SKE48名義参加的演唱會，請参照[AKB48關聯作品](https://zh.wikipedia.org/wiki/AKB48關聯作品 "wikilink")。*
 
 <table>
 <thead>
@@ -1457,20 +1466,12 @@ Blu-ray BOX</p></td>
 
 ## 外部連結
 
-  - [SKE48
-    Discography](http://www.ske48.co.jp/discography/list.php)（SKE48官方网站
-    Discography页面）
-  - [SKE48 Discography](http://avexnet.or.jp/ske48/discography/)（[avex
-    trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")）
-  - [SKE48
-    Discography](http://www.crownrecord.co.jp/artist/ske48/discography.html)（日本皇冠）
-  - [SKE48
-    Discography](http://lantis.jp/new-release/data.php?id=7de144a50b02d4b6448f96c5b0fe909b)（[Lantis](../Page/Lantis.md "wikilink")）
+  - [SKE48 Discography](http://www.ske48.co.jp/discography/list.php)（SKE48官方网站 Discography页面）
+  - [SKE48 Discography](http://avexnet.or.jp/ske48/discography/)（[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")）
+  - [SKE48 Discography](http://www.crownrecord.co.jp/artist/ske48/discography.html)（日本皇冠）
+  - [SKE48 Discography](http://lantis.jp/new-release/data.php?id=7de144a50b02d4b6448f96c5b0fe909b)（[Lantis](../Page/Lantis.md "wikilink")）
 
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:SKE48歌曲](https://zh.wikipedia.org/wiki/Category:SKE48歌曲 "wikilink")
-[Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:SKE48歌曲](https://zh.wikipedia.org/wiki/Category:SKE48歌曲 "wikilink") [Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-Facebook遊戲泛指必須透過[Facebook平台的登入](../Page/Facebook.md "wikilink")，才能進行的網頁遊戲。這些遊戲屬於免費遊戲，或是付費購買虛擬貨幣〈Facebook幣〉在遊戲中取得優勢。在Facebook中，常透過「應用程式集」或「遊戲中心」進入遊戲。這些遊戲，不論是在畫面還是玩法上，有些是極度相似的。極少數的Facebook遊戲會使用品牌搭附的惡質手段，在Facebook頁面的廣告區塊，使用他人的圖像或廣告暗示，使人誤以為是該動漫授權所出的新遊戲，但實則為毫不相干的劣質遊戲，此種以騙取使用者同意授權使用個資的行銷手段，有所爭議。
+Facebook遊戲泛指必須透過[Facebook](../Page/Facebook.md "wikilink")平台的登入，才能進行的網頁遊戲。這些遊戲屬於免費遊戲，或是付費購買虛擬貨幣〈Facebook幣〉在遊戲中取得優勢。在Facebook中，常透過「應用程式集」或「遊戲中心」進入遊戲。這些遊戲，不論是在畫面還是玩法上，有些是極度相似的。極少數的Facebook遊戲會使用品牌搭附的惡質手段，在Facebook頁面的廣告區塊，使用他人的圖像或廣告暗示，使人誤以為是該動漫授權所出的新遊戲，但實則為毫不相干的劣質遊戲，此種以騙取使用者同意授權使用個資的行銷手段，有所爭議。
 
 關於已終止營運的Facebook遊戲，請參考[Facebook已終止營運遊戲列表](../Page/Facebook已終止營運遊戲列表.md "wikilink")。
 
@@ -131,5 +131,4 @@ Facebook遊戲泛指必須透過[Facebook平台的登入](../Page/Facebook.md "w
 
 </div>
 
-[Category:Facebook遊戲](https://zh.wikipedia.org/wiki/Category:Facebook遊戲 "wikilink")
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
+[Category:Facebook遊戲](https://zh.wikipedia.org/wiki/Category:Facebook遊戲 "wikilink") [Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")

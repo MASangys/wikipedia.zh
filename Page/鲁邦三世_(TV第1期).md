@@ -332,16 +332,9 @@ DJ的女性（DJの女性，配音演员：松岛实）<br />
 
 ## 參考來源
 
-[en:List of Lupin III
-episodes](https://zh.wikipedia.org/wiki/en:List_of_Lupin_III_episodes "wikilink")
-[es:Anexo:Episodios de Lupin III\#Serie 1
-(1971)](https://zh.wikipedia.org/wiki/es:Anexo:Episodios_de_Lupin_III#Serie_1_\(1971\) "wikilink")
+[en:List of Lupin III episodes](https://zh.wikipedia.org/wiki/en:List_of_Lupin_III_episodes "wikilink") [es:Anexo:Episodios de Lupin III\#Serie 1 (1971)](https://zh.wikipedia.org/wiki/es:Anexo:Episodios_de_Lupin_III#Serie_1_\(1971\) "wikilink")
 
-[Category:鲁邦三世](https://zh.wikipedia.org/wiki/Category:鲁邦三世 "wikilink")
-[Category:讀賣電視台動畫](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫 "wikilink")
-[Category:1971年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1971年日本電視動畫 "wikilink")
-[Category:高畑勳](https://zh.wikipedia.org/wiki/Category:高畑勳 "wikilink")
-[Category:宫崎骏](https://zh.wikipedia.org/wiki/Category:宫崎骏 "wikilink")
+[Category:鲁邦三世](https://zh.wikipedia.org/wiki/Category:鲁邦三世 "wikilink") [Category:讀賣電視台動畫](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫 "wikilink") [Category:1971年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1971年日本電視動畫 "wikilink") [Category:高畑勳](https://zh.wikipedia.org/wiki/Category:高畑勳 "wikilink") [Category:宫崎骏](https://zh.wikipedia.org/wiki/Category:宫崎骏 "wikilink")
 
 1.
 2.

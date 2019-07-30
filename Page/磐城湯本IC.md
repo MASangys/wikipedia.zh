@@ -1,4 +1,4 @@
-**磐城湯本IC**（平假名：いわきゆもとインターチェンジ）是位於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[磐城市的](../Page/磐城市.md "wikilink")[常磐自動車道之](../Page/常磐自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。此IC同時設有**磐城湯本巴士站**。
+**磐城湯本IC**（平假名：いわきゆもとインターチェンジ）是位於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[磐城市](../Page/磐城市.md "wikilink")的[常磐自動車道](../Page/常磐自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。此IC同時設有**磐城湯本巴士站**。
 
 ## 連接道路
 
@@ -8,10 +8,8 @@
 
 ## 历史
 
-  - 1988年3月24日 -
-    [常磐自動車道](../Page/常磐自動車道.md "wikilink")[磐城中央IC至](../Page/磐城中央IC.md "wikilink")[日立北IC開通](https://zh.wikipedia.org/wiki/日立北IC "wikilink")，此IC也同時啟用。
-  - 2011年3月11日 -
-    發生[2011年日本東北地方太平洋近海地震](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，常磐自動車道全線封閉。
+  - 1988年3月24日 - [常磐自動車道](../Page/常磐自動車道.md "wikilink")[磐城中央IC](../Page/磐城中央IC.md "wikilink")至[日立北IC開通](https://zh.wikipedia.org/wiki/日立北IC "wikilink")，此IC也同時啟用。
+  - 2011年3月11日 - 發生[2011年日本東北地方太平洋近海地震](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，常磐自動車道全線封閉。
   - 2011年3月21日 - 水戶IC至磐城中央IC路段重開。
 
 ## 收費站設施
@@ -44,15 +42,12 @@
       - 磐城號（由[新常磐交通](https://zh.wikipedia.org/wiki/新常磐交通 "wikilink")、[JR巴士關東和](https://zh.wikipedia.org/wiki/JR巴士關東 "wikilink")[東武巴士聯營](https://zh.wikipedia.org/wiki/東武巴士 "wikilink")）
       - 海鷗號（由新常磐交通和[近鐵巴士聯營](https://zh.wikipedia.org/wiki/近鐵巴士 "wikilink")）
       - 東京迪士尼樂園至日立/磐城線（由新常磐交通、[日立電鐵交通服務和](https://zh.wikipedia.org/wiki/日立電鐵交通服務 "wikilink")[東京灣市交通聯營](https://zh.wikipedia.org/wiki/東京灣市交通 "wikilink")）
-      - 仙台至磐城線（由新常磐交通和[JR巴士東北聯營](../Page/JR巴士東北.md "wikilink")）
+      - 仙台至磐城線（由新常磐交通和[JR巴士東北](../Page/JR巴士東北.md "wikilink")聯營）
 
 ## 鄰近設施
 
   - [常磐自動車道](../Page/常磐自動車道.md "wikilink")
-    (15)[磐城勿來IC](../Page/磐城勿來IC.md "wikilink") - (16)**磐城湯本IC** -
-    [湯之岳PA](https://zh.wikipedia.org/wiki/湯之岳PA "wikilink") -
-    (16-1)[磐城JCT](https://zh.wikipedia.org/wiki/磐城JCT "wikilink") -
-    (17)[磐城中央IC](../Page/磐城中央IC.md "wikilink")
+    (15)[磐城勿來IC](../Page/磐城勿來IC.md "wikilink") - (16)**磐城湯本IC** - [湯之岳PA](https://zh.wikipedia.org/wiki/湯之岳PA "wikilink") - (16-1)[磐城JCT](https://zh.wikipedia.org/wiki/磐城JCT "wikilink") - (17)[磐城中央IC](../Page/磐城中央IC.md "wikilink")
 
 ## 相關項目
 
@@ -62,5 +57,4 @@
 
   - [東日本高速道路](http://www.e-nexco.co.jp/)
 
-[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink")
-[Category:福島縣交流道](https://zh.wikipedia.org/wiki/Category:福島縣交流道 "wikilink")
+[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink") [Category:福島縣交流道](https://zh.wikipedia.org/wiki/Category:福島縣交流道 "wikilink")

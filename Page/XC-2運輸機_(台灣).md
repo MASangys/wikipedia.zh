@@ -1,5 +1,4 @@
-**AIDC
-XC-2運輸機**是1978年時由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[航空工業發展中心研發生產的一個](https://zh.wikipedia.org/wiki/航空工業發展中心 "wikilink")[原型](https://zh.wikipedia.org/wiki/原型機 "wikilink")[運輸機](../Page/運輸機.md "wikilink")，在1978年出廠。XC-2採用的是架高機翼（[肩扛式機翼](https://zh.wikipedia.org/wiki/肩扛式機翼 "wikilink")）設計，動力來源為2具[渦輪螺旋槳引擎](https://zh.wikipedia.org/wiki/渦輪螺旋槳引擎 "wikilink")。主要機身為近似方盒狀的設計，以求內部空間最大化。
+**AIDC XC-2運輸機**是1978年時由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[航空工業發展中心研發生產的一個](https://zh.wikipedia.org/wiki/航空工業發展中心 "wikilink")[原型](https://zh.wikipedia.org/wiki/原型機 "wikilink")[運輸機](../Page/運輸機.md "wikilink")，在1978年出廠。XC-2採用的是架高機翼（[肩扛式機翼](https://zh.wikipedia.org/wiki/肩扛式機翼 "wikilink")）設計，動力來源為2具[渦輪螺旋槳引擎](https://zh.wikipedia.org/wiki/渦輪螺旋槳引擎 "wikilink")。主要機身為近似方盒狀的設計，以求內部空間最大化。
 
 ## 設計概述
 
@@ -35,26 +34,19 @@ XC-2運輸機**是1978年時由[台灣](https://zh.wikipedia.org/wiki/台灣 "wi
 
 ## 參考文件
 
-  - Jane's All The World's Aircraft 1980-81 Taylor John W.R. (ed.) 1980
-    Jane's Publishing London ISBN 0-7106-0705-9
-  - Taylor Michael J. H. Jane's Encyclopedia of Aviation 1989 Studio
-    Editions London P.44
+  - Jane's All The World's Aircraft 1980-81 Taylor John W.R. (ed.) 1980 Jane's Publishing London ISBN 0-7106-0705-9
+  - Taylor Michael J. H. Jane's Encyclopedia of Aviation 1989 Studio Editions London P.44
 
 ## 相關條目
 
-  - [XC-2運輸機
-    (日本)](https://zh.wikipedia.org/wiki/XC-2運輸機_\(日本\) "wikilink")：一款由[川崎重工開發的同名](https://zh.wikipedia.org/wiki/川崎重工 "wikilink")[日本製運輸機](../Page/日本.md "wikilink")。
+  - [XC-2運輸機 (日本)](https://zh.wikipedia.org/wiki/XC-2運輸機_\(日本\) "wikilink")：一款由[川崎重工開發的同名](https://zh.wikipedia.org/wiki/川崎重工 "wikilink")[日本](../Page/日本.md "wikilink")製運輸機。
 
 ## 外部連結
 
-  - [國產XC-2運輸機
-    台海冷戰活歷史](http://www.howone.com.tw/aviation/news.php?uid=26&id=10100)
+  - [國產XC-2運輸機 台海冷戰活歷史](http://www.howone.com.tw/aviation/news.php?uid=26&id=10100)
   - [閒話XC-2運輸機](https://archive.is/20130105105759/http://tw.myblog.yahoo.com/vosswang-ha900401/article?mid=5901&next=5871&l=f&fid=8)
-  - [746 \[軍事旅遊](http://blog.xuite.net/maomi/Food01/39422204) 漢翔公司參訪
-    ---- IDF 秘密基地\]
+  - [746 \[軍事旅遊](http://blog.xuite.net/maomi/Food01/39422204) 漢翔公司參訪 ---- IDF 秘密基地\]
   - [luftfahrt-archiv.de](https://web.archive.org/web/20070927203545/http://www.luftfahrt-archiv.de/Flugzeugtypen.asp?Type=Link&ID=T1333&Name=XC-2&SID=384204425)
   - [讨论主题：最后仅造了一架的台湾自研XC-2中型运输机实物！(图)](http://group.tiexue.net/z8c8g8/post_3702408.html)
 
-[Category:军用运输机](https://zh.wikipedia.org/wiki/Category:军用运输机 "wikilink")
-[Category:中華民國空軍航空器](https://zh.wikipedia.org/wiki/Category:中華民國空軍航空器 "wikilink")
-[Category:已取消研發飛機](https://zh.wikipedia.org/wiki/Category:已取消研發飛機 "wikilink")
+[Category:军用运输机](https://zh.wikipedia.org/wiki/Category:军用运输机 "wikilink") [Category:中華民國空軍航空器](https://zh.wikipedia.org/wiki/Category:中華民國空軍航空器 "wikilink") [Category:已取消研發飛機](https://zh.wikipedia.org/wiki/Category:已取消研發飛機 "wikilink")

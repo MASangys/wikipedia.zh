@@ -1,12 +1,10 @@
-**ONE PIECE漫画单行本列表**记载《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》在日本以及[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[港澳](https://zh.wikipedia.org/wiki/港澳 "wikilink")、[中國大陆的](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")[单行本出版情况](https://zh.wikipedia.org/wiki/单行本 "wikilink")。
+**ONE PIECE漫画单行本列表**记载《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》在日本以及[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[港澳](https://zh.wikipedia.org/wiki/港澳 "wikilink")、[中國大陆的](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")[单行本出版情况](https://zh.wikipedia.org/wiki/单行本 "wikilink")。
 
 ## 单行本出版资讯
 
 ### [日本](../Page/日本.md "wikilink")
 
-由[集英社出版](../Page/集英社.md "wikilink")，出版名为《ONE
-PIECE》。以下仅记录13位[ISBN序号](https://zh.wikipedia.org/wiki/ISBN "wikilink")。
+由[集英社](../Page/集英社.md "wikilink")出版，出版名为《ONE PIECE》。以下仅记录13位[ISBN序号](https://zh.wikipedia.org/wiki/ISBN "wikilink")。
 
 <table>
 <thead>
@@ -683,7 +681,7 @@ PIECE》。以下仅记录13位[ISBN序号](https://zh.wikipedia.org/wiki/ISBN "
 
 ### [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")
 
-在台灣，漫画單行本原先由[大然文化代理](../Page/大然文化.md "wikilink")，譯名為《海賊王》。2003年，大然文化倒閉（其時出版至第27卷），單行本出版權移籍[東立出版社](../Page/東立出版社.md "wikilink")，因版權原因改譯名為《航海王》，而後各台灣媒體、動畫發行商亦隨之更改譯名，但「海賊王」仍會繼續使用。
+在台灣，漫画單行本原先由[大然文化](../Page/大然文化.md "wikilink")代理，譯名為《海賊王》。2003年，大然文化倒閉（其時出版至第27卷），單行本出版權移籍[東立出版社](../Page/東立出版社.md "wikilink")，因版權原因改譯名為《航海王》，而後各台灣媒體、動畫發行商亦隨之更改譯名，但「海賊王」仍會繼續使用。
 
 以下列表記載東立出版社出版的單行本信息。
 
@@ -775,17 +773,17 @@ PIECE》。以下仅记录13位[ISBN序号](https://zh.wikipedia.org/wiki/ISBN "
 | 84 | \-{魯夫vs香吉士}-                                      | 2017年2月24日             | ISBN 978-986-482-805-0 |
 | 85 | \-{大騙子}-                                          | 2017年5月24日             | ISBN 978-986-486-287-0 |
 | 86 | \-{暗殺四皇作戰}-                                       | 2017年9月1日              | ISBN 978-986-486-732-5 |
-| 87 | \-{不甜}-                                           | 2017年11月24日            | ISBN 978-957-260-161-7 |
-| 88 | \-{獅子}-                                           | 2018年3月23日             | ISBN 978-957-260-781-7 |
-| 89 | \-{BADEND MUSICAL}-                               | 2018年6月25日             | ISBN 978-957-261-269-9 |
-| 90 | \-{聖地馬力喬亞}-                                       | 2018年9月26日             | ISBN 978-957-261-822-6 |
-| 91 | \-{武士國度的冒險}-                                      | 2018年12月24日            | ISBN 978-957-262-297-1 |
-| 92 | \-{花魁小紫登場}-                                       | 2019年3月25日             | ISBN 978-957-262-898-0 |
+| 87 | \-{不甜}-                                           | 2017年11月24日            | ISBN 978-957-26-0161-7 |
+| 88 | \-{獅子}-                                           | 2018年3月23日             | ISBN 978-957-26-0781-7 |
+| 89 | \-{BADEND MUSICAL}-                               | 2018年6月25日             | ISBN 978-957-26-1269-9 |
+| 90 | \-{聖地馬力喬亞}-                                       | 2018年9月26日             | ISBN 978-957-26-1822-6 |
+| 91 | \-{武士國度的冒險}-                                      | 2018年12月24日            | ISBN 978-957-26-2297-1 |
+| 92 | \-{花魁小紫登場}-                                       | 2019年3月25日             | ISBN 978-957-26-2898-0 |
+| 93 | \-{惠比壽鎮的人氣王}-                                     | 2019年7月25日             | ISBN 978-957-26-3745-6 |
 
 ### [香港](../Page/香港.md "wikilink")、[澳门](https://zh.wikipedia.org/wiki/澳门 "wikilink")
 
-单行本在港澳地区由[天下出版有限公司出版](../Page/天下出版.md "wikilink")，直接使用原著名《ONE
-PIECE》作为著作名。采用[现代标准汉语进行翻译](https://zh.wikipedia.org/wiki/现代标准汉语 "wikilink")。
+单行本在港澳地区由[天下出版](../Page/天下出版.md "wikilink")有限公司出版，直接使用原著名《ONE PIECE》作为著作名。采用[现代标准汉语进行翻译](https://zh.wikipedia.org/wiki/现代标准汉语 "wikilink")。
 
 | 卷數 | 标题                                  | 出版日期        | ISBN                   |
 | -- | ----------------------------------- | ----------- | ---------------------- |
@@ -885,7 +883,7 @@ PIECE》作为著作名。采用[现代标准汉语进行翻译](https://zh.wiki
 
 ### [中国大陆](../Page/中国大陆.md "wikilink")
 
-中国大陆[简体中文版单行本由](https://zh.wikipedia.org/wiki/简体中文 "wikilink")[浙江人民美术出版社出版](../Page/浙江人民美术出版社.md "wikilink")，标题译名参照台湾东立出版社，定为《航海王》\[1\]。
+中国大陆[简体中文版单行本由](https://zh.wikipedia.org/wiki/简体中文 "wikilink")[浙江人民美术出版社](../Page/浙江人民美术出版社.md "wikilink")出版，标题译名参照台湾东立出版社，定为《航海王》\[1\]。
 
 大陆漫迷此前已深受台湾大然文化的《海贼王》译名影响，对《航海王》这一译名表现出了极大的不适应；又因为大陆译者在翻译本作时几乎所有人物译名均为自行拟定，与大陆网络上的动画字幕组、漫画汉化组及港台授权版等的翻译有较大区别，直接导致一大部分大陆漫迷因不能接受译名的改动而放弃购买，单行本在大陆的销量无法切合本作在大陆的高人气；不仅如此，大量坊间言论指责《航海王》这一译名或是北京政府的“[和谐](../Page/和谐社会.md "wikilink")”产物。
 
@@ -1409,8 +1407,7 @@ PIECE》作为著作名。采用[现代标准汉语进行翻译](https://zh.wiki
 
 <references/>
 
-[Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
-[Category:漫畫單行本及標題列表](https://zh.wikipedia.org/wiki/Category:漫畫單行本及標題列表 "wikilink")
+[Category:ONE_PIECE作品](https://zh.wikipedia.org/wiki/Category:ONE_PIECE作品 "wikilink") [Category:漫畫單行本及標題列表](https://zh.wikipedia.org/wiki/Category:漫畫單行本及標題列表 "wikilink")
 
 1.  亦有消息《航海王》为日方所要求的统一译名，参见：
 2.  本卷提前至6月末与卷61同时发行。

@@ -1,24 +1,14 @@
-[Norther_Live.jpg](https://zh.wikipedia.org/wiki/File:Norther_Live.jpg "fig:Norther_Live.jpg")
-**Norther**，是[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[赫爾辛基的一個](https://zh.wikipedia.org/wiki/赫爾辛基 "wikilink")[旋律死亡金屬樂團](https://zh.wikipedia.org/wiki/旋律死亡金屬 "wikilink")，他們的風格具有[力量金屬音樂的特質](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")。
+[Norther_Live.jpg](https://zh.wikipedia.org/wiki/File:Norther_Live.jpg "fig:Norther_Live.jpg") **Norther**，是[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[赫爾辛基的一個](https://zh.wikipedia.org/wiki/赫爾辛基 "wikilink")[旋律死亡金屬樂團](https://zh.wikipedia.org/wiki/旋律死亡金屬 "wikilink")，他們的風格具有[力量金屬音樂的特質](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")。
 
 ## 歷史
 
-Nother的歷史要追溯到1996年當Toni Hallio 與Petri Lindroos
-一起在以Requiem為名的樂團共事。在散團之後，他們沒有排練的空間，但這些小伙子仍然堅持信念，三個人儘可能的的練團：不論是在家、在Hallio
-祖母的閣樓（真的\!）、在地窖、在青年中心……
+Nother的歷史要追溯到1996年當Toni Hallio 與Petri Lindroos 一起在以Requiem為名的樂團共事。在散團之後，他們沒有排練的空間，但這些小伙子仍然堅持信念，三個人儘可能的的練團：不論是在家、在Hallio 祖母的閣樓（真的\!）、在地窖、在青年中心……
 
-最後，在1997年末，樂團透過了朋友Alexander Kuoppala (Children of
-Bodom)在傳奇的Lepakko找到了一個練團的地方。顯然的，這些小夥子對此十分激動，並積極展開尋找團員的工作，但並不很成功。於此同時，Requiem被通知Lepakko將被拆除，樂團成員又再度成為Hallio與
-Lindroos兩人。在受到這個打擊之後，他們想辦法在Nosturi訂了一個練團室並開始尋找新團員來湊足團員組合成為Norther的雛型。
+最後，在1997年末，樂團透過了朋友Alexander Kuoppala (Children of Bodom)在傳奇的Lepakko找到了一個練團的地方。顯然的，這些小夥子對此十分激動，並積極展開尋找團員的工作，但並不很成功。於此同時，Requiem被通知Lepakko將被拆除，樂團成員又再度成為Hallio與 Lindroos兩人。在受到這個打擊之後，他們想辦法在Nosturi訂了一個練團室並開始尋找新團員來湊足團員組合成為Norther的雛型。
 
-許多野心勃勃的樂手來樂團應徵，但都不適合樂團。在2000年初，Kristian
-Ranta加入樂團。他們三個人展開夜以繼日的練團，事情終於開始自此好轉。Kristian認識的Sebastian
-Knight、 Joakim Ekroos兩兄弟加入了樂團並錄製了樣本唱片。此時，樂團更名為Norther。
+許多野心勃勃的樂手來樂團應徵，但都不適合樂團。在2000年初，Kristian Ranta加入樂團。他們三個人展開夜以繼日的練團，事情終於開始自此好轉。Kristian認識的Sebastian Knight、 Joakim Ekroos兩兄弟加入了樂團並錄製了樣本唱片。此時，樂團更名為Norther。
 
-靠著這張樣本唱片也順利的獲得Spinefarm
-Records的一紙合約，至此好事似乎接連而來。不過，這卻也導致Ekroos離團。因而樂團成員又再度變成三人，但並未花很多時間就讓他們找到
-Jukka Koskinen 與 Tuomas Planman入替。終於樂團成員固定下來，於是「Dreams of Endless
-War」得以錄製，Norther這個戰爭機器終於啟動。
+靠著這張樣本唱片也順利的獲得Spinefarm Records的一紙合約，至此好事似乎接連而來。不過，這卻也導致Ekroos離團。因而樂團成員又再度變成三人，但並未花很多時間就讓他們找到 Jukka Koskinen 與 Tuomas Planman入替。終於樂團成員固定下來，於是「Dreams of Endless War」得以錄製，Norther這個戰爭機器終於啟動。
 
 ## 作品
 
@@ -93,5 +83,4 @@ War」得以錄製，Norther這個戰爭機器終於啟動。
 ## 外部链接
 
   -
-[Category:芬蘭樂團](https://zh.wikipedia.org/wiki/Category:芬蘭樂團 "wikilink")
-[Category:重金屬樂團](https://zh.wikipedia.org/wiki/Category:重金屬樂團 "wikilink")
+[Category:芬蘭樂團](https://zh.wikipedia.org/wiki/Category:芬蘭樂團 "wikilink") [Category:重金屬樂團](https://zh.wikipedia.org/wiki/Category:重金屬樂團 "wikilink")

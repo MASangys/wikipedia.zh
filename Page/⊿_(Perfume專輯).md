@@ -1,19 +1,14 @@
-《**⊿**》（Triangle）是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第三張](https://zh.wikipedia.org/wiki/Perfume "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2009年7月8日發行。唱片公司為[Tokuma
-Japan
-Communications](https://zh.wikipedia.org/wiki/Tokuma_Japan_Communications "wikilink")。
+《**⊿**》（Triangle）是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第三張](https://zh.wikipedia.org/wiki/Perfume "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2009年7月8日發行。唱片公司為[Tokuma Japan Communications](https://zh.wikipedia.org/wiki/Tokuma_Japan_Communications "wikilink")。
 
 ## 概要
 
   - 距離前作專輯「[GAME](../Page/GAME_\(Perfume專輯\).md "wikilink")」發行1年3個月的專輯。
   - 專輯標題名為「⊿」，官方讀法為「Triangle」，意思為[三角形](../Page/三角形.md "wikilink")。此標題的由來是源於[拉丁語中的](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「**Tri**」一字，即是「3」的意思，表示了這是Perfume**第三張**專輯，以及**三位**成員的意念\[1\]。
   - 選擇使用三角形圖案作為專輯標題，是為了能對聽眾方面增加衝擊性。Perfume三位成員對於圖案擺放的方法也考慮了很久，由於他們不喜歡三角形的頂點朝向正上方，同時希望表達「Perfume三人都是平等的，三位一體，並不會偏向任何一邊」這樣的想法，最後決定以倒著擺放的三角形作為最終的標題\[2\]。
-  - 專輯取得了[Oricon公信榜專輯榜週榜冠軍](../Page/Oricon公信榜.md "wikilink")，打破了前作自身初動銷售張數的記錄。
-  - 「願い（心願）」此曲當初並沒有決定收錄在本專輯，但是製作人[中田康貴在觀看Perfume在](../Page/中田康貴.md "wikilink")2009年5月舉行的演唱會「エスキモー
-    pino presents
-    ディスコ！ディスコ！ディスコ！」時，重新認識到這首歌中良好的地方，因此在製作截止的前一天，急忙決定收錄這首歌。他在其後一晚製作了此曲的混音版本，作為專輯收錄的一部份\[3\]。
+  - 專輯取得了[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯榜週榜冠軍，打破了前作自身初動銷售張數的記錄。
+  - 「願い（心願）」此曲當初並沒有決定收錄在本專輯，但是製作人[中田康貴](../Page/中田康貴.md "wikilink")在觀看Perfume在2009年5月舉行的演唱會「エスキモー pino presents ディスコ！ディスコ！ディスコ！」時，重新認識到這首歌中良好的地方，因此在製作截止的前一天，急忙決定收錄這首歌。他在其後一晚製作了此曲的混音版本，作為專輯收錄的一部份\[3\]。
   - 收錄「edge」的重新混音版本「⊿-mix」，歌曲長達8分43秒。包含本身單曲收錄的原本及另一混音版本在內，此曲合共有3個版本。
-  - DVD收錄了「I still love
-    U」的PV。PV中有三人露出微妙表情的場景，實際上是他們是在接受腳底按摩，攝影機特地沒有拍攝到這個部份\[4\]。作為此專輯的宣傳，Perfume曾在電視上表演這首歌。
+  - DVD收錄了「I still love U」的PV。PV中有三人露出微妙表情的場景，實際上是他們是在接受腳底按摩，攝影機特地沒有拍攝到這個部份\[4\]。作為此專輯的宣傳，Perfume曾在電視上表演這首歌。
 
 ## 收錄曲
 
@@ -51,15 +46,11 @@ Communications](https://zh.wikipedia.org/wiki/Tokuma_Japan_Communications "wikil
 
 ## 關連項目
 
-  - [Perfume Second Tour
-    2009『直角二等邊三角形TOUR』](../Page/Perfume_Second_Tour_2009『直角二等邊三角形TOUR』.md "wikilink")
+  - [Perfume Second Tour 2009『直角二等邊三角形TOUR』](../Page/Perfume_Second_Tour_2009『直角二等邊三角形TOUR』.md "wikilink")
 
 ## 參考文獻
 
-[Category:Perfume音樂專輯](https://zh.wikipedia.org/wiki/Category:Perfume音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:德間日本傳播音樂專輯](https://zh.wikipedia.org/wiki/Category:德間日本傳播音樂專輯 "wikilink")
-[Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:Perfume音樂專輯](https://zh.wikipedia.org/wiki/Category:Perfume音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:德間日本傳播音樂專輯](https://zh.wikipedia.org/wiki/Category:德間日本傳播音樂專輯 "wikilink") [Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.  Tokuma Japan Communications官方頻道上Perfume成員的意見
 2.  School Of Lock\!公式ホームページ‐Perfume Locks・研究日誌2009年6月11日放送分

@@ -1,10 +1,8 @@
-**EX☆CUTE**（）是[日本](../Page/日本.md "wikilink")[AZONE
-INTERNATIONAL所販售的](../Page/AZONE.md "wikilink")[人偶](https://zh.wikipedia.org/wiki/玩偶 "wikilink")。
+**EX☆CUTE**（）是[日本](../Page/日本.md "wikilink")[AZONE INTERNATIONAL所販售的](../Page/AZONE.md "wikilink")[人偶](https://zh.wikipedia.org/wiki/玩偶 "wikilink")。
 
 ## 概要
 
-**EX☆CUTE**使用AZONE自行研發的Pureneemo素體以及頭部，原創角色人偶系列，除了姬乃以外的五人的人偶型於2005年1月的日本人偶展13.5\[1\]
-公開，並於同年12月開始販售。在身體部分採用Pureneemo（25 cm/Normal Advance ）素體\[2\]。
+**EX☆CUTE**使用AZONE自行研發的Pureneemo素體以及頭部，原創角色人偶系列，除了姬乃以外的五人的人偶型於2005年1月的日本人偶展13.5\[1\] 公開，並於同年12月開始販售。在身體部分採用Pureneemo（25 cm/Normal Advance ）素體\[2\]。
 
 頭部的設計從心音到美海皆是由原型師Chibisuke Machine（）所擔任設計的工作，而人物臉部的設定的設計是由所擔任。
 
@@ -320,8 +318,7 @@ INTERNATIONAL所販售的](../Page/AZONE.md "wikilink")[人偶](https://zh.wikip
 <!-- end list -->
 
   -
-    一般版於2008年12月下旬發售，人偶展24限定版（白金色）於2009年1月18日發售，Azone Level
-    Shop秋葉原店開店一周年紀念版（金髮、銀髮）於:於2009年7月發售。
+    一般版於2008年12月下旬發售，人偶展24限定版（白金色）於2009年1月18日發售，Azone Level Shop秋葉原店開店一周年紀念版（金髮、銀髮）於:於2009年7月發售。
 
 <!-- end list -->
 
@@ -673,8 +670,7 @@ INTERNATIONAL所販售的](../Page/AZONE.md "wikilink")[人偶](https://zh.wikip
 <!-- end list -->
 
   -
-    採用Pureneemo 25公分素體，一般版於2009年11月下旬發售，而Azone Level
-    Shop大阪店一周年限定版於2010年2月5日發售。
+    採用Pureneemo 25公分素體，一般版於2009年11月下旬發售，而Azone Level Shop大阪店一周年限定版於2010年2月5日發售。
 
   - 第二主題
 
@@ -865,8 +861,7 @@ INTERNATIONAL所販售的](../Page/AZONE.md "wikilink")[人偶](https://zh.wikip
 
 [Category:玩偶](https://zh.wikipedia.org/wiki/Category:玩偶 "wikilink")
 
-1.  日本人偶展（）是日本主要以人偶展示、發售為主的展覽。可以參考下列網站：[日本人偶展官方網站](http://dollshow.hp.infoseek.co.jp/)
-    。
+1.  日本人偶展（）是日本主要以人偶展示、發售為主的展覽。可以參考下列網站：[日本人偶展官方網站](http://dollshow.hp.infoseek.co.jp/) 。
 2.  小櫻、妮娜使用OBITSU製作所21cm女孩子素體，而藍斗使用同樣來自OBITSU製作所21cm男孩子素體。
 3.
 4.

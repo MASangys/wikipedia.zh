@@ -1,6 +1,4 @@
-《**海貓悲鳴時散 episode5 - End of the golden witch**》是日本同人社團[07th
-Expansion所製作的](../Page/07th_Expansion.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》的第五部。遊戲於2009年夏季的[Comic
-Market](../Page/Comic_Market.md "wikilink")76發表。
+《**海貓悲鳴時散 episode5 - End of the golden witch**》是日本同人社團[07th Expansion所製作的](../Page/07th_Expansion.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》的第五部。遊戲於2009年夏季的[Comic Market](../Page/Comic_Market.md "wikilink")76發表。
 
 ## 概要
 
@@ -41,7 +39,4 @@ Market](../Page/Comic_Market.md "wikilink")76發表。
 
   - [海貓悲鳴時官方網站](http://07th-expansion.net/umi/Main.htm)
 
-[Category:海貓悲鳴時](https://zh.wikipedia.org/wiki/Category:海貓悲鳴時 "wikilink")
-[Category:恐怖漫畫](https://zh.wikipedia.org/wiki/Category:恐怖漫畫 "wikilink")
-[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
-[Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink")
+[Category:海貓悲鳴時](https://zh.wikipedia.org/wiki/Category:海貓悲鳴時 "wikilink") [Category:恐怖漫畫](https://zh.wikipedia.org/wiki/Category:恐怖漫畫 "wikilink") [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink")

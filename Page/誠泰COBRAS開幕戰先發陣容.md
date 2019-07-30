@@ -18,6 +18,4 @@
 
 ## 外部連結
 
-[Category:棒球紀錄](https://zh.wikipedia.org/wiki/Category:棒球紀錄 "wikilink")
-[Category:中華職棒](https://zh.wikipedia.org/wiki/Category:中華職棒 "wikilink")
-[Category:誠泰COBRAS](https://zh.wikipedia.org/wiki/Category:誠泰COBRAS "wikilink")
+[Category:棒球紀錄](https://zh.wikipedia.org/wiki/Category:棒球紀錄 "wikilink") [Category:中華職棒](https://zh.wikipedia.org/wiki/Category:中華職棒 "wikilink") [Category:誠泰COBRAS](https://zh.wikipedia.org/wiki/Category:誠泰COBRAS "wikilink")

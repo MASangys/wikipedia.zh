@@ -1,5 +1,4 @@
-**索尼爱立信S312手机**是[Sony
-Ericsson旗下一部低階入門款手機](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")，與[W205同時推出](https://zh.wikipedia.org/wiki/Sony_Ericsson_W205 "wikilink")，但早W205於2009年6月9日發售。
+**索尼爱立信S312手机**是[Sony Ericsson旗下一部低階入門款手機](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")，與[W205同時推出](https://zh.wikipedia.org/wiki/Sony_Ericsson_W205 "wikilink")，但早W205於2009年6月9日發售。
 
 ## 主要規格
 
@@ -25,8 +24,7 @@ S312擁有200萬像素CMOS感光元件，並內建LED閃光燈，且有連拍模
 
 ### 音樂功能
 
-採用[Walkman](../Page/Walkman.md "wikilink")播放器，但沒有使用XMB媒體介面，支援MP3、AAC等音樂檔案，以及AD2P技術，但是隨機並不附耳機。
-且不支援MegaBass，但內建BASS++和TREBLE++等化器。
+採用[Walkman](../Page/Walkman.md "wikilink")播放器，但沒有使用XMB媒體介面，支援MP3、AAC等音樂檔案，以及AD2P技術，但是隨機並不附耳機。 且不支援MegaBass，但內建BASS++和TREBLE++等化器。
 
 內建FM收音機，且支援TrackID。
 

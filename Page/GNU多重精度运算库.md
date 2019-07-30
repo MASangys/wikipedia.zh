@@ -1,6 +1,4 @@
-**GNU多重精度运算库**（，简称**GMP**或gmpal）是一个[开源的任意精度运算库](https://zh.wikipedia.org/wiki/开源 "wikilink")，支持正负数的[整数](../Page/整数.md "wikilink")、[有理数](../Page/有理数.md "wikilink")、[浮点数](../Page/浮点数.md "wikilink")。它没有任何精度限制，只受限于可用内存。GMP有很多函数，它们都有一个规则的接口。它是C语言写成的，但用为其他很多语言做包装，包括[Ada](../Page/Ada.md "wikilink")，[C++](../Page/C++.md "wikilink")，[C\#](../Page/C♯.md "wikilink")，[OCaml](../Page/OCaml.md "wikilink")，[Perl](../Page/Perl.md "wikilink")，[PHP](../Page/PHP.md "wikilink")，[python](https://zh.wikipedia.org/wiki/python "wikilink")
-和
-[R](../Page/R.md "wikilink")。GMP主要运用于加密应用和研究、互联网安全应用、[计算机代数系统和计算代数研究](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")。GMP的目标是成为最快的大数运算库，GMP是[GNU项目的一部分](../Page/GNU.md "wikilink")，它在[GNU宽通用公共许可证下发表](../Page/GNU宽通用公共许可证.md "wikilink")。GMP在许多计算机辅助代数系统中用于整数运算，如[Mathematica和](https://zh.wikipedia.org/wiki/Mathematica "wikilink")[Maple](../Page/Maple.md "wikilink")。GMP需要使用[GCC](../Page/GCC.md "wikilink")（[GNU编译器套装](../Page/GNU.md "wikilink")）编译。
+**GNU多重精度运算库**（，简称**GMP**或gmpal）是一个[开源的任意精度运算库](https://zh.wikipedia.org/wiki/开源 "wikilink")，支持正负数的[整数](../Page/整数.md "wikilink")、[有理数](../Page/有理数.md "wikilink")、[浮点数](../Page/浮点数.md "wikilink")。它没有任何精度限制，只受限于可用内存。GMP有很多函数，它们都有一个规则的接口。它是C语言写成的，但用为其他很多语言做包装，包括[Ada](../Page/Ada.md "wikilink")，[C++](../Page/C++.md "wikilink")，[C\#](../Page/C♯.md "wikilink")，[OCaml](../Page/OCaml.md "wikilink")，[Perl](../Page/Perl.md "wikilink")，[PHP](../Page/PHP.md "wikilink")，[python](https://zh.wikipedia.org/wiki/python "wikilink") 和 [R](../Page/R.md "wikilink")。GMP主要运用于加密应用和研究、互联网安全应用、[计算机代数系统和计算代数研究](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")。GMP的目标是成为最快的大数运算库，GMP是[GNU](../Page/GNU.md "wikilink")项目的一部分，它在[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")下发表。GMP在许多计算机辅助代数系统中用于整数运算，如[Mathematica和](https://zh.wikipedia.org/wiki/Mathematica "wikilink")[Maple](../Page/Maple.md "wikilink")。GMP需要使用[GCC](../Page/GCC.md "wikilink")（[GNU](../Page/GNU.md "wikilink")编译器套装）编译。
 
 ## 示例
 
@@ -131,7 +129,4 @@ is basically a binding to GMP)</small></p></td>
 
   - [gmplib官方主页](http://gmplib.org/)
 
-[Category:数学软件](https://zh.wikipedia.org/wiki/Category:数学软件 "wikilink")
-[Category:GNU计划软件](https://zh.wikipedia.org/wiki/Category:GNU计划软件 "wikilink")
-[Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink")
-[Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
+[Category:数学软件](https://zh.wikipedia.org/wiki/Category:数学软件 "wikilink") [Category:GNU计划软件](https://zh.wikipedia.org/wiki/Category:GNU计划软件 "wikilink") [Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")

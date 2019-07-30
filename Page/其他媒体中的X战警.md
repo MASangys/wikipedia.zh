@@ -1,11 +1,10 @@
-[X战警是一支由](../Page/X战警.md "wikilink")[漫威漫画创作的](https://zh.wikipedia.org/wiki/漫威漫画 "wikilink")[超级英雄团队](../Page/超级英雄.md "wikilink")，他们出现在漫画书与其他媒体之中\[1\]。
+[X战警](../Page/X战警.md "wikilink")是一支由[漫威漫画创作的](https://zh.wikipedia.org/wiki/漫威漫画 "wikilink")[超级英雄](../Page/超级英雄.md "wikilink")团队，他们出现在漫画书与其他媒体之中\[1\]。
 
 ## 动画
 
 ### 《漫威超级英雄》
 
-X战警在1960年代的电视连续剧《[漫威超级英雄](https://zh.wikipedia.org/wiki/漫威超级英雄 "wikilink")》中出现，并保持着原始的阵容（[天使](https://zh.wikipedia.org/wiki/沃伦·沃兴顿三世 "wikilink")、[野兽](https://zh.wikipedia.org/wiki/野兽_\(漫画\) "wikilink")、[独眼龙](https://zh.wikipedia.org/wiki/独眼龙_\(漫画\) "wikilink")、[珍·格雷与](https://zh.wikipedia.org/wiki/珍·格雷 "wikilink")[冰人](https://zh.wikipedia.org/wiki/冰人_\(漫画\) "wikilink")），这是X战警首次亮相于动画中。由于[格兰特雷-劳伦斯动画公司没有神奇四侠的版权](https://zh.wikipedia.org/wiki/格兰特雷-劳伦斯动画 "wikilink")（神奇四侠的系列由汉纳巴芭拉公司进行制作），于是他们使用X战警作为替代。在[海底侠系列的](https://zh.wikipedia.org/wiki/海底侠 "wikilink")《杜姆博士日/注定效忠/死亡斗争》（改编自《神奇四侠年刊
-\#3》（1965年））一集中，X战警也出现过。有趣的是，在那些动画中X战警从未被被称为是“X战警”。他们取而代之被称为是“**和平盟友**”。不过，这些角色们保持着漫画中的外表和其本身的姓名。
+X战警在1960年代的电视连续剧《[漫威超级英雄](https://zh.wikipedia.org/wiki/漫威超级英雄 "wikilink")》中出现，并保持着原始的阵容（[天使](https://zh.wikipedia.org/wiki/沃伦·沃兴顿三世 "wikilink")、[野兽](https://zh.wikipedia.org/wiki/野兽_\(漫画\) "wikilink")、[独眼龙](https://zh.wikipedia.org/wiki/独眼龙_\(漫画\) "wikilink")、[珍·格雷与](https://zh.wikipedia.org/wiki/珍·格雷 "wikilink")[冰人](https://zh.wikipedia.org/wiki/冰人_\(漫画\) "wikilink")），这是X战警首次亮相于动画中。由于[格兰特雷-劳伦斯动画公司没有神奇四侠的版权](https://zh.wikipedia.org/wiki/格兰特雷-劳伦斯动画 "wikilink")（神奇四侠的系列由汉纳巴芭拉公司进行制作），于是他们使用X战警作为替代。在[海底侠系列的](https://zh.wikipedia.org/wiki/海底侠 "wikilink")《杜姆博士日/注定效忠/死亡斗争》（改编自《神奇四侠年刊 \#3》（1965年））一集中，X战警也出现过。有趣的是，在那些动画中X战警从未被被称为是“X战警”。他们取而代之被称为是“**和平盟友**”。不过，这些角色们保持着漫画中的外表和其本身的姓名。
 
 ### 《蜘蛛侠和他的神奇朋友们》
 
@@ -29,24 +28,15 @@ X战警在1960年代的电视连续剧《[漫威超级英雄](https://zh.wikiped
 
 ## 外部链接
 
-  - [The History of Wolverine and the X-Men on
-    TV](http://tv.ign.com/articles/709/709943p1.html)
-  - [The X-Men In Animation - A
-    Retrospective](http://marvel.toonzone.net/retrospective/x-men/)
-      - [Wolverine In Animation - A
-        Retrospective](http://marvel.toonzone.net/retrospective/wolverine/)
-      - [Magneto In Animation - A
-        Retrospective](http://marvel.toonzone.net/retrospective/magneto/)
-      - [Cyclops - A
-        Retrospective](http://marvel.toonzone.net/retrospective/cyclops/)
-      - [Iceman In Animation - A
-        Retrospective](http://marvel.toonzone.net/retrospective/iceman/)
-      - [Nightcrawler In Animation - A
-        Retrospective](http://marvel.toonzone.net/retrospective/nightcrawler/)
-      - [The Brotherhood Of (Evil) Mutants In Animation - A
-        Retrospective](http://marvel.toonzone.net/retrospective/brotherhood/)
-      - [The Juggernaut In Animation - A
-        Retrospective](http://marvel.toonzone.net/retrospective/juggernaut/)
+  - [The History of Wolverine and the X-Men on TV](http://tv.ign.com/articles/709/709943p1.html)
+  - [The X-Men In Animation - A Retrospective](http://marvel.toonzone.net/retrospective/x-men/)
+      - [Wolverine In Animation - A Retrospective](http://marvel.toonzone.net/retrospective/wolverine/)
+      - [Magneto In Animation - A Retrospective](http://marvel.toonzone.net/retrospective/magneto/)
+      - [Cyclops - A Retrospective](http://marvel.toonzone.net/retrospective/cyclops/)
+      - [Iceman In Animation - A Retrospective](http://marvel.toonzone.net/retrospective/iceman/)
+      - [Nightcrawler In Animation - A Retrospective](http://marvel.toonzone.net/retrospective/nightcrawler/)
+      - [The Brotherhood Of (Evil) Mutants In Animation - A Retrospective](http://marvel.toonzone.net/retrospective/brotherhood/)
+      - [The Juggernaut In Animation - A Retrospective](http://marvel.toonzone.net/retrospective/juggernaut/)
 
 <!-- end list -->
 

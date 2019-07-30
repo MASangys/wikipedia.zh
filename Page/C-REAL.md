@@ -1,5 +1,4 @@
-**C-REAL**（）是[韓國LOEN](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Entertainment推出的5人女子組合，也是N.A.P.娛樂打造的第一個女子團體。\[1\]\[2\]
+**C-REAL**（）是[韓國LOEN](https://zh.wikipedia.org/wiki/韓國 "wikilink") Entertainment推出的5人女子組合，也是N.A.P.娛樂打造的第一個女子團體。\[1\]\[2\]
 
 2014年宣布解散。
 
@@ -134,20 +133,9 @@ Entertainment推出的5人女子組合，也是N.A.P.娛樂打造的第一個女
   - [C-REAL官咖](http://cafe.naver.com/crealing)
   - [C-Real香港首站](https://web.archive.org/web/20140820041112/http://crealhk.com/forum/)
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
-[Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink")
-[Category:2014年韓國廢除](https://zh.wikipedia.org/wiki/Category:2014年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink") [Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink") [Category:2014年韓國廢除](https://zh.wikipedia.org/wiki/Category:2014年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
-1.  [‘아이유가 5명?’ 최강 보컬돌 씨리얼 “가창력이
-    무기”(인터뷰)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=081&aid=0002240931)
-2.  [씨리얼(C-REAL), ″′육성돌′의 성장모습
-    기대하세요\!″(인터뷰)](http://www.asiatoday.co.kr/news/view.asp?seq=578862)
-3.  [씨리얼 “5명의 아이유? 영광이고
-    죄송스럽고”](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=382&aid=0000015071)
-4.  [148 걸그룹 씨리얼의 특별한
-    선물](http://e-menshealth.design.co.kr/talk_news/notice.html?&b_no=4628&at_b=view)
+1.  [‘아이유가 5명?’ 최강 보컬돌 씨리얼 “가창력이 무기”(인터뷰)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=081&aid=0002240931)
+2.  [씨리얼(C-REAL), ″′육성돌′의 성장모습 기대하세요\!″(인터뷰)](http://www.asiatoday.co.kr/news/view.asp?seq=578862)
+3.  [씨리얼 “5명의 아이유? 영광이고 죄송스럽고”](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=382&aid=0000015071)
+4.  [148 걸그룹 씨리얼의 특별한 선물](http://e-menshealth.design.co.kr/talk_news/notice.html?&b_no=4628&at_b=view)

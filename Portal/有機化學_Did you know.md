@@ -1,8 +1,6 @@
 <div align="right">
 
-**[存档](https://zh.wikipedia.org/wiki/Portal:有機化學/Did_you_know/存檔 "wikilink")
-| [创建新条目](https://zh.wikipedia.org/wiki/Help:如何创建新页面 "wikilink") |
-[更多新条目...](https://zh.wikipedia.org/wiki/Special:Newpages "wikilink")**
+**[存档](https://zh.wikipedia.org/wiki/Portal:有機化學/Did_you_know/存檔 "wikilink") | [创建新条目](https://zh.wikipedia.org/wiki/Help:如何创建新页面 "wikilink") | [更多新条目...](https://zh.wikipedia.org/wiki/Special:Newpages "wikilink")**
 
 </div>
 
@@ -42,5 +40,4 @@
 
 這個板塊是透過嵌入[Template:Dyk/auto模板而產生的](https://zh.wikipedia.org/wiki/Template:Dyk/auto "wikilink")，如需修改[Template:Dyk/auto的程式碼](https://zh.wikipedia.org/wiki/Template:Dyk/auto "wikilink")，請聯繫管理員。
 
-点此返回[主题首页](https://zh.wikipedia.org/wiki/Portal:有机化学 "wikilink")。
-</noinclude>
+点此返回[主题首页](https://zh.wikipedia.org/wiki/Portal:有机化学 "wikilink")。 </noinclude>

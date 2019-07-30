@@ -738,8 +738,7 @@
 ## 參考
 
   - [偶像劇場：CONTROL ～犯罪心理搜查～](http://dorama.info/drama-4964.html)
-  - [ジョーカー
-    許されざる捜査官](http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%AB%E3%83%BC_%E8%A8%B1%E3%81%95%E3%82%8C%E3%81%96%E3%82%8B%E6%8D%9C%E6%9F%BB%E5%AE%98)の錦戸亮、フリーター、家を買う。の丸山隆平に続き、3クール連続で関ジャニ∞のメンバーが本枠にレギュラー出演を果たした。
+  - [ジョーカー 許されざる捜査官](http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%AB%E3%83%BC_%E8%A8%B1%E3%81%95%E3%82%8C%E3%81%96%E3%82%8B%E6%8D%9C%E6%9F%BB%E5%AE%98)の錦戸亮、フリーター、家を買う。の丸山隆平に続き、3クール連続で関ジャニ∞のメンバーが本枠にレギュラー出演を果たした。
   - [岩手めんこいテレビ](http://ja.wikipedia.org/wiki/%E5%B2%A9%E6%89%8B%E3%82%81%E3%82%93%E3%81%93%E3%81%84%E3%83%86%E3%83%AC%E3%83%93)では[東北地方太平洋沖地震](http://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E5%9C%B0%E6%96%B9%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B2%96%E5%9C%B0%E9%9C%87)の関連報道のため、3月20日15:00から振替放送された。
 
 ## 外部連結
@@ -748,10 +747,4 @@
 
 ## 節目的變遷
 
-[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
-[Category:富士電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週二晚間九點連續劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:犯罪心理學](https://zh.wikipedia.org/wiki/Category:犯罪心理學 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
-[Category:富士電視台警匪電視劇](https://zh.wikipedia.org/wiki/Category:富士電視台警匪電視劇 "wikilink")
+[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink") [Category:富士電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週二晚間九點連續劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:犯罪心理學](https://zh.wikipedia.org/wiki/Category:犯罪心理學 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:富士電視台警匪電視劇](https://zh.wikipedia.org/wiki/Category:富士電視台警匪電視劇 "wikilink")

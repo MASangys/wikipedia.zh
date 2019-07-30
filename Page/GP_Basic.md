@@ -1,13 +1,8 @@
 **GP Basic**（），是韓國最年少女子組合，出道時平均年齡只有14歲。官方粉絲名稱為**「Shade」**。
 
-GP Basic 6名成員中有一人出道時只有小學六年級（所以GP
-Basic獲得了“韓國最年輕女子組合”的稱號），由於六名成員年齡都非常小，平均年齡16.6歲，吸引了人們的關注。
-經紀公司負責人表示，雖然GP
-Basic成員們年齡都很小，但是都經過了至少2年的音樂和舞蹈訓練，實力一點也不比其他女子組合差，正式出道後一定會帶給歌迷驚喜。
+GP Basic 6名成員中有一人出道時只有小學六年級（所以GP Basic獲得了“韓國最年輕女子組合”的稱號），由於六名成員年齡都非常小，平均年齡16.6歲，吸引了人們的關注。 經紀公司負責人表示，雖然GP Basic成員們年齡都很小，但是都經過了至少2年的音樂和舞蹈訓練，實力一點也不比其他女子組合差，正式出道後一定會帶給歌迷驚喜。
 
-成員Janey受[Block
-B隊長](../Page/Block_B.md "wikilink")[ZICO大力舉薦進入](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")[D-Unit](../Page/D-Unit.md "wikilink")，以Jney為藝名參與D-Unit的第二張正規專輯《Affirmative
-Chapter 1》，並於2013年3月結束活動。
+成員Janey受[Block B隊長](../Page/Block_B.md "wikilink")[ZICO大力舉薦進入](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")[D-Unit](../Page/D-Unit.md "wikilink")，以Jney為藝名參與D-Unit的第二張正規專輯《Affirmative Chapter 1》，並於2013年3月結束活動。
 
 ## 成員資料
 
@@ -172,18 +167,9 @@ Chapter 1》，並於2013年3月結束活動。
 
 {1}[成員漢字正名](https://archive.is/20160725151942/http://legendbrother.cn/4g.php?m=show&cid=16&id=119)
 
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
-[Category:2010年韓國建立](https://zh.wikipedia.org/wiki/Category:2010年韓國建立 "wikilink")
-[Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:2010年韓國建立](https://zh.wikipedia.org/wiki/Category:2010年韓國建立 "wikilink") [Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
-1.  [GP
-    Basic正名](https://archive.is/20160725151942/http://legendbrother.cn/4g.php?m=show&cid=16&id=119)
+1.  [GP Basic正名](https://archive.is/20160725151942/http://legendbrother.cn/4g.php?m=show&cid=16&id=119)
 
 2.  已退出
 

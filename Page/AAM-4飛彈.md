@@ -1,4 +1,4 @@
-**AAM-4中程空對空飛彈**（也稱99式空對空飛彈），通常被暱稱為**99式**，是[日本](../Page/日本.md "wikilink")[航空自衛隊現役的](../Page/航空自衛隊.md "wikilink")[主動雷達導引](../Page/主動雷達導引.md "wikilink")[空對空飛彈](https://zh.wikipedia.org/wiki/空對空飛彈 "wikilink")（AAM），由[三菱重工業製造](https://zh.wikipedia.org/wiki/三菱重工業 "wikilink")，設計構想來自[AIM-7麻雀飛彈](https://zh.wikipedia.org/wiki/AIM-7 "wikilink")。
+**AAM-4中程空對空飛彈**（也稱99式空對空飛彈），通常被暱稱為**99式**，是[日本](../Page/日本.md "wikilink")[航空自衛隊](../Page/航空自衛隊.md "wikilink")現役的[主動雷達導引](../Page/主動雷達導引.md "wikilink")[空對空飛彈](https://zh.wikipedia.org/wiki/空對空飛彈 "wikilink")（AAM），由[三菱重工業製造](https://zh.wikipedia.org/wiki/三菱重工業 "wikilink")，設計構想來自[AIM-7麻雀飛彈](https://zh.wikipedia.org/wiki/AIM-7 "wikilink")。
 
 ## 簡史
 
@@ -12,8 +12,6 @@
 
   - [F-2戰鬥機](../Page/F-2戰鬥機.md "wikilink")
   - [FAS AAM4](http://www.fas.org/man/dod-101/sys/missile/row/aam-4.htm)
-  - [Global Security
-    AAM4](http://www.globalsecurity.org/military/world/japan/aam-4.htm)
+  - [Global Security AAM4](http://www.globalsecurity.org/military/world/japan/aam-4.htm)
 
-[Category:空對空飛彈](https://zh.wikipedia.org/wiki/Category:空對空飛彈 "wikilink")
-[Category:日本导弹](https://zh.wikipedia.org/wiki/Category:日本导弹 "wikilink")
+[Category:空對空飛彈](https://zh.wikipedia.org/wiki/Category:空對空飛彈 "wikilink") [Category:日本导弹](https://zh.wikipedia.org/wiki/Category:日本导弹 "wikilink")

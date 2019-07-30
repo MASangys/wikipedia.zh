@@ -1,6 +1,4 @@
-**HIT-5**是一組[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，團名含意为「5
-Handsome Idol
-Teenagers」，代表五位引领时尚的魅力男孩。于2008年10月20日出道。歌迷總稱為「鑽石」，應援色為銀色。2013年舉行＜你們還好嗎＞重新再出唱片，隊長[郭子渝亦宣布退出HIT](https://zh.wikipedia.org/wiki/郭子渝 "wikilink")-5，將作影視發展。2015年合約到期，宣布解散。
+**HIT-5**是一組[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，團名含意为「5 Handsome Idol Teenagers」，代表五位引领时尚的魅力男孩。于2008年10月20日出道。歌迷總稱為「鑽石」，應援色為銀色。2013年舉行＜你們還好嗎＞重新再出唱片，隊長[郭子渝亦宣布退出HIT](https://zh.wikipedia.org/wiki/郭子渝 "wikilink")-5，將作影視發展。2015年合約到期，宣布解散。
 
 ## 成員資料
 

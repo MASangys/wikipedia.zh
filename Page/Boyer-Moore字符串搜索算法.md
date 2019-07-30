@@ -1,6 +1,4 @@
-在[计算机科学里](../Page/计算机科学.md "wikilink")，**Boyer-Moore字符串搜索算法**是一种非常高效的[字符串搜索算法](https://zh.wikipedia.org/wiki/字符串搜索算法 "wikilink")。它由[Bob
-Boyer和](https://zh.wikipedia.org/wiki/Bob_Boyer "wikilink")[J Strother
-Moore设计于](https://zh.wikipedia.org/wiki/J_Strother_Moore "wikilink")1977年。此[算法仅对搜索目标](../Page/算法.md "wikilink")[字符串](https://zh.wikipedia.org/wiki/字符串\(计算机科学\) "wikilink")（关键字）进行[预处理](https://zh.wikipedia.org/wiki/预处理 "wikilink")，而非被搜索的字符串。虽然Boyer-Moore算法的执行时间同样线性依赖于被搜索字符串的大小，但是通常仅为其它算法的一小部分：它不需要对被搜索的字符串中的字符进行逐一比较，而会跳过其中某些部分。通常搜索关键字越长，算法速度越快。它的效率来自于这样的事实：对于每一次失败的匹配尝试，算法都能够使用这些信息来排除尽可能多的无法匹配的位置。
+在[计算机科学](../Page/计算机科学.md "wikilink")里，**Boyer-Moore字符串搜索算法**是一种非常高效的[字符串搜索算法](https://zh.wikipedia.org/wiki/字符串搜索算法 "wikilink")。它由[Bob Boyer和](https://zh.wikipedia.org/wiki/Bob_Boyer "wikilink")[J Strother Moore设计于](https://zh.wikipedia.org/wiki/J_Strother_Moore "wikilink")1977年。此[算法](../Page/算法.md "wikilink")仅对搜索目标[字符串](https://zh.wikipedia.org/wiki/字符串\(计算机科学\) "wikilink")（关键字）进行[预处理](https://zh.wikipedia.org/wiki/预处理 "wikilink")，而非被搜索的字符串。虽然Boyer-Moore算法的执行时间同样线性依赖于被搜索字符串的大小，但是通常仅为其它算法的一小部分：它不需要对被搜索的字符串中的字符进行逐一比较，而会跳过其中某些部分。通常搜索关键字越长，算法速度越快。它的效率来自于这样的事实：对于每一次失败的匹配尝试，算法都能够使用这些信息来排除尽可能多的无法匹配的位置。
 
 ## 定义
 
@@ -17,8 +15,7 @@ Moore设计于](https://zh.wikipedia.org/wiki/J_Strother_Moore "wikilink")1977�
 
 ## 原理
 
-不同于朴素模式（brute-force
-search）的逐个字符对比，Boyer-Moore充分使用预处理**P**的信息来尽可能跳过更多的字符。通常，我们比较一个字符串都是从首字母开始，逐个比较下去。一旦发现有不同的字符，就需要从头开始进行下一次比较。这样，就需要将字串中的所有字符一一比较。Boyer-Moore算法的关键在于，当**P**的最后一个字符被比较完成后，我们可以决定跳过一个或更多个字符。如果最后一个字符不匹配，那么就没必要继续比较前一个字符。如果最后一个字符未在**P**中出现，那么我们可以直接跳过**T**的n个字符，比较接下来的n个字符，n为**P**的长度（见定义）。如果最后一个字符出现在**P**中，那么跳过的字符数需要进行计算（也就是将**P**整体往后移），然后继续前面的步骤来比较。通过这种字符的移动方式来代替逐个比较是这个算法如此高效的关键所在。
+不同于朴素模式（brute-force search）的逐个字符对比，Boyer-Moore充分使用预处理**P**的信息来尽可能跳过更多的字符。通常，我们比较一个字符串都是从首字母开始，逐个比较下去。一旦发现有不同的字符，就需要从头开始进行下一次比较。这样，就需要将字串中的所有字符一一比较。Boyer-Moore算法的关键在于，当**P**的最后一个字符被比较完成后，我们可以决定跳过一个或更多个字符。如果最后一个字符不匹配，那么就没必要继续比较前一个字符。如果最后一个字符未在**P**中出现，那么我们可以直接跳过**T**的n个字符，比较接下来的n个字符，n为**P**的长度（见定义）。如果最后一个字符出现在**P**中，那么跳过的字符数需要进行计算（也就是将**P**整体往后移），然后继续前面的步骤来比较。通过这种字符的移动方式来代替逐个比较是这个算法如此高效的关键所在。
 
 形式化的表述方式为，从k=n开始，也就是**P**从**T**的最开始进行比较。紧接着，**P**的第n个字符和**T**的第k个字符开始：字符串依次从**P**的最后一个字符到最开始的字符。结束条件是当比较到达P的最开始（此时匹配完成），或按照规则移动后的字符部匹配发生时。然后，在新的对齐位置重新开始比较，如此反复，直到到达**T**的结尾。
 
@@ -57,9 +54,7 @@ Demonstration of bad character rule with pattern **NNAAMAN**.
 
 #### 处理
 
-当我们发现不匹配字符时，假设这个字符在**T**中为**c**，位置在**T**的i。字符**c**在**P**中出现的最靠近i位置，假设为j，j\<i或j=-1（如果**P**不存在字符c）。那么移动位数为i
-- j，复杂度是O(1)。i，j的起点为P在T中位置的开始***T\[(k-n+1)..k\]***的***(k-n+1)。***
-大多网站都只建立一个一维坏字符数组来保存，但事实这只能保存最靠左或最靠右的字符c，明显与英文的wikipedia里面要求一个二维数组来保存信息的不一样。
+当我们发现不匹配字符时，假设这个字符在**T**中为**c**，位置在**T**的i。字符**c**在**P**中出现的最靠近i位置，假设为j，j\<i或j=-1（如果**P**不存在字符c）。那么移动位数为i - j，复杂度是O(1)。i，j的起点为P在T中位置的开始***T\[(k-n+1)..k\]***的***(k-n+1)。*** 大多网站都只建立一个一维坏字符数组来保存，但事实这只能保存最靠左或最靠右的字符c，明显与英文的wikipedia里面要求一个二维数组来保存信息的不一样。
 
 ### 好后缀规则
 
@@ -67,8 +62,7 @@ Demonstration of bad character rule with pattern **NNAAMAN**.
 
 好后缀规则要更复杂一点。
 
-假设有**P**和**T**，**T**中字串t匹配到了**P**的一个后缀，但在比较位置i时发生不匹配。设匹配到的好后缀在**T**中为t，在**P**中为t'（t
-= t'）。
+假设有**P**和**T**，**T**中字串t匹配到了**P**的一个后缀，但在比较位置i时发生不匹配。设匹配到的好后缀在**T**中为t，在**P**中为t'（t = t'）。
 
 分两种情况来讨论：
 
@@ -125,24 +119,13 @@ BM算法只需要2次比较。
 
 ## 外部链接
 
-  - [String Searching Applet
-    animation](http://www.cs.pitt.edu/~kirk/cs1501/animations/String.html)
-  - [Original
-    article](http://www.cs.utexas.edu/~moore/publications/fstrpos.pdf)
-  - [An example of the Boyer-Moore
-    algorithm](http://www.cs.utexas.edu/users/moore/best-ideas/string-searching/fstrpos-example.html)
-    from the homepage of [J Strother
-    Moore](https://zh.wikipedia.org/wiki/J_Strother_Moore "wikilink"),
-    co-inventor of the algorithm
-  - [An explanation of the algorithm (with sample C
-    code)](http://www-igm.univ-mlv.fr/%7Elecroq/string/node14.html)
-  - [Cole et al., Tighter lower bounds on the exact complexity of string
-    matching](http://www.cs.nyu.edu/cs/faculty/cole/papers/CHPZ95.ps)
-  - [An implementation of the algorithm in
-    Ruby](http://github.com/jashmenn/boyermoore)
-  - [Scala functional
-    implementation](http://blog.aunndroid.com/2011/11/learning-scala-boyermoore-search-1.html)
-    with [source code](https://gist.github.com/1376820)
+  - [String Searching Applet animation](http://www.cs.pitt.edu/~kirk/cs1501/animations/String.html)
+  - [Original article](http://www.cs.utexas.edu/~moore/publications/fstrpos.pdf)
+  - [An example of the Boyer-Moore algorithm](http://www.cs.utexas.edu/users/moore/best-ideas/string-searching/fstrpos-example.html) from the homepage of [J Strother Moore](https://zh.wikipedia.org/wiki/J_Strother_Moore "wikilink"), co-inventor of the algorithm
+  - [An explanation of the algorithm (with sample C code)](http://www-igm.univ-mlv.fr/%7Elecroq/string/node14.html)
+  - [Cole et al., Tighter lower bounds on the exact complexity of string matching](http://www.cs.nyu.edu/cs/faculty/cole/papers/CHPZ95.ps)
+  - [An implementation of the algorithm in Ruby](http://github.com/jashmenn/boyermoore)
+  - [Scala functional implementation](http://blog.aunndroid.com/2011/11/learning-scala-boyermoore-search-1.html) with [source code](https://gist.github.com/1376820)
   - [字符串匹配的Boyer-Moore算法](http://www.ruanyifeng.com/blog/2013/05/boyer-moore_string_search_algorithm.html)
 
 [Category:字符串匹配算法](https://zh.wikipedia.org/wiki/Category:字符串匹配算法 "wikilink")

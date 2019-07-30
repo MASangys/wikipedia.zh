@@ -1,7 +1,6 @@
 **FTPS**是一种对常用的[文件传输协议](../Page/文件传输协议.md "wikilink")（FTP）添加[传输层安全](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")（TLS）和安全套接层（SSL）加密协议支持的扩展协议。
 
-FTPS不應與基於[SSH的](../Page/Secure_Shell.md "wikilink")[SSH文件传输协议](../Page/SSH文件传输协议.md "wikilink")或是[Secure
-FTP协议相混淆](https://zh.wikipedia.org/wiki/Secure_FTP "wikilink")。
+FTPS不應與基於[SSH的](../Page/Secure_Shell.md "wikilink")[SSH文件传输协议](../Page/SSH文件传输协议.md "wikilink")或是[Secure FTP协议相混淆](https://zh.wikipedia.org/wiki/Secure_FTP "wikilink")。
 
 ## 背景
 
@@ -27,15 +26,9 @@ SSL最終被應用到FTP，[RFC](../Page/RFC.md "wikilink")草案發表在1996�
 
 ## 參考資料
 
-[Category:文件传输协议](https://zh.wikipedia.org/wiki/Category:文件传输协议 "wikilink")
-[Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink")
-[Category:应用层协议](https://zh.wikipedia.org/wiki/Category:应用层协议 "wikilink")
+[Category:文件传输协议](https://zh.wikipedia.org/wiki/Category:文件传输协议 "wikilink") [Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink") [Category:应用层协议](https://zh.wikipedia.org/wiki/Category:应用层协议 "wikilink")
 
-1.  [RFC-265: File Transfer Protocol
-    (FTP)](http://tools.ietf.org/html/rfc265)
-2.  [The SSL Protocol,
-    Feb. 9th, 1995](http://www.mozilla.org/projects/security/pki/nss/ssl/draft02.html)
-3.  [RFC draft, Secure FTP Over SSL,
-    revision 1996-11-26](http://tools.ietf.org/id/draft-murray-auth-ftp-ssl-00.txt)
-4.  [RFC-4217: Securing FTP with
-    TLS](http://tools.ietf.org/html/rfc4217)
+1.  [RFC-265: File Transfer Protocol (FTP)](http://tools.ietf.org/html/rfc265)
+2.  [The SSL Protocol, Feb. 9th, 1995](http://www.mozilla.org/projects/security/pki/nss/ssl/draft02.html)
+3.  [RFC draft, Secure FTP Over SSL, revision 1996-11-26](http://tools.ietf.org/id/draft-murray-auth-ftp-ssl-00.txt)
+4.  [RFC-4217: Securing FTP with TLS](http://tools.ietf.org/html/rfc4217)

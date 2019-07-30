@@ -1,4 +1,4 @@
-《》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝愛情](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[佘詩曼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")、[陳豪及](../Page/陳豪.md "wikilink")[黃德斌領銜主演](../Page/黃德斌.md "wikilink")，並由[金剛](../Page/金剛_\(藝人\).md "wikilink")、[郭少芸](../Page/郭少芸.md "wikilink")、[江欣燕](https://zh.wikipedia.org/wiki/江欣燕 "wikilink")、[葉翠翠](../Page/葉翠翠.md "wikilink")、[韋家雄及](../Page/韋家雄.md "wikilink")[簡慕華聯合主演](../Page/簡慕華.md "wikilink")，監製[戚其義](../Page/戚其義.md "wikilink")。本劇是[2012無綫節目巡禮劇集之一](../Page/2012無綫節目巡禮.md "wikilink")。在無綫電視官方宣傳片中，此劇稱為「**愛的季節**」呈獻劇集。
+《》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝愛情[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[佘詩曼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")、[陳豪](../Page/陳豪.md "wikilink")及[黃德斌](../Page/黃德斌.md "wikilink")領銜主演，並由[金剛](../Page/金剛_\(藝人\).md "wikilink")、[郭少芸](../Page/郭少芸.md "wikilink")、[江欣燕](https://zh.wikipedia.org/wiki/江欣燕 "wikilink")、[葉翠翠](../Page/葉翠翠.md "wikilink")、[韋家雄](../Page/韋家雄.md "wikilink")及[簡慕華](../Page/簡慕華.md "wikilink")聯合主演，監製[戚其義](../Page/戚其義.md "wikilink")。本劇是[2012無綫節目巡禮](../Page/2012無綫節目巡禮.md "wikilink")劇集之一。在無綫電視官方宣傳片中，此劇稱為「**愛的季節**」呈獻劇集。
 
 ## 演員表
 
@@ -892,14 +892,14 @@ Andy之妻<br />
 
 ## 記事
 
-  - 2011年6月3日：一眾演員於12:30到[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城出席造型會](../Page/電視廣播城.md "wikilink")。
+  - 2011年6月3日：一眾演員於12:30到[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")出席造型會。
   - 2012年1月21日：此剧于11:00在觀塘和樂邨鐘聲慈善社举行《4 In Love》「濃情賀新歲」宣传活动。
   - 2012年1月29日：此剧于14:30在東港城一樓展覽場举行《4 In Love》「戀愛夢成真」宣传活动。
   - 2012年2月6日：此剧于15:00在尖沙咀廣東道皇家太平洋酒店举行《4 In Love》 「元宵甜蜜蜜」宣传活动。
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |        |                  |          |          |
 | ------ | ------ | ---------------- | -------- | -------- |
@@ -922,11 +922,8 @@ Andy之妻<br />
 ## 提名獎項
 
   - [MY AOD我的最愛頒獎典禮2012](../Page/MY_AOD我的最愛頒獎典禮2012.md "wikilink")：
-      - 我的最愛電視男配角：[劉丹](https://zh.wikipedia.org/wiki/劉丹 "wikilink") 飾
-        馮志明
-      - 我的最愛電視螢幕情侶：《[4 In
-        Love](https://zh.wikipedia.org/wiki/4_In_Love_\(電視劇\) "wikilink")》－[陳豪](../Page/陳豪.md "wikilink")、[佘詩曼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")－余鎮東、童靄瑤
-        （最後五強）
+      - 我的最愛電視男配角：[劉丹](https://zh.wikipedia.org/wiki/劉丹 "wikilink") 飾 馮志明
+      - 我的最愛電視螢幕情侶：《[4 In Love](https://zh.wikipedia.org/wiki/4_In_Love_\(電視劇\) "wikilink")》－[陳豪](../Page/陳豪.md "wikilink")、[佘詩曼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")－余鎮東、童靄瑤 （最後五強）
 
 <!-- end list -->
 
@@ -944,16 +941,9 @@ Andy之妻<br />
 
 ## 外部連結
 
-  - [《4 In Love》 GOTV
-    第1集重溫](https://web.archive.org/web/20160304073529/http://gotv.tvb.com/programme/102411/150658/)
+  - [《4 In Love》 GOTV 第1集重溫](https://web.archive.org/web/20160304073529/http://gotv.tvb.com/programme/102411/150658/)
 
   -
 ## 電視節目的變遷
 
-[Category:2012年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2012年無綫電視劇集 "wikilink")
-[Category:2012無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2012無綫節目巡禮劇集 "wikilink")
-[Category:2012年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2012年AOD電視劇集 "wikilink")
-[Category:身分差異戀情題材電視劇](https://zh.wikipedia.org/wiki/Category:身分差異戀情題材電視劇 "wikilink")
-[Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink")
-[Category:明星主角題材電視劇](https://zh.wikipedia.org/wiki/Category:明星主角題材電視劇 "wikilink")
-[Category:無綫電視愛的季節劇集](https://zh.wikipedia.org/wiki/Category:無綫電視愛的季節劇集 "wikilink")
+[Category:2012年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2012年無綫電視劇集 "wikilink") [Category:2012無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2012無綫節目巡禮劇集 "wikilink") [Category:2012年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2012年AOD電視劇集 "wikilink") [Category:身分差異戀情題材電視劇](https://zh.wikipedia.org/wiki/Category:身分差異戀情題材電視劇 "wikilink") [Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink") [Category:明星主角題材電視劇](https://zh.wikipedia.org/wiki/Category:明星主角題材電視劇 "wikilink") [Category:無綫電視愛的季節劇集](https://zh.wikipedia.org/wiki/Category:無綫電視愛的季節劇集 "wikilink")

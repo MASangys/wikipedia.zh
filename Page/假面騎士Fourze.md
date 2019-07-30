@@ -1,24 +1,20 @@
-《**假面騎士Fourze**》（，），從2011年9月4日～2012年8月26日期間於[朝日電視台放映](../Page/朝日電視台.md "wikilink")，每週日早上8:00-8:30播出的[日本](../Page/日本.md "wikilink")[特攝劇集](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士Fourze
-也是該劇主角變身的英雄的名字。原作為[石之森章太郎](../Page/石之森章太郎.md "wikilink")，此為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第13部[平成系列作品](../Page/平成.md "wikilink")，也是假面騎士系列誕生40週年紀念作。
+《**假面騎士Fourze**》（，），從2011年9月4日～2012年8月26日期間於[朝日電視台](../Page/朝日電視台.md "wikilink")放映，每週日早上8:00-8:30播出的[日本](../Page/日本.md "wikilink")[特攝劇集](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士Fourze 也是該劇主角變身的英雄的名字。原作為[石之森章太郎](../Page/石之森章太郎.md "wikilink")，此為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第13部[平成](../Page/平成.md "wikilink")系列作品，也是假面騎士系列誕生40週年紀念作。
 
-香港[無綫電視定本作譯名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**-{幪面超人Fourze}-**》，從2014年6月28日起於[翡翠台每週六早上](../Page/翡翠台.md "wikilink")11:15～11:50播出，台灣則由東森幼幼台於同年9月7日起，每週日下午16:30\~17:00播放中文配音版。本作是東森幼幼台播放的最後一部《假面騎士系列》作品台灣於播映完畢後一年直接跳過《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》由東森綜合台播出《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》。
+香港[無綫電視定本作譯名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**-{幪面超人Fourze}-**》，從2014年6月28日起於[翡翠台](../Page/翡翠台.md "wikilink")每週六早上11:15～11:50播出，台灣則由東森幼幼台於同年9月7日起，每週日下午16:30\~17:00播放中文配音版。本作是東森幼幼台播放的最後一部《假面騎士系列》作品台灣於播映完畢後一年直接跳過《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》由東森綜合台播出《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》。
 
 ## 本作特色
 
   -
     Fourze的命名來源是取自「4」的英文Four、以及「0」的英文Zero中的前兩個字母ze，也就是意味著「40」周年紀念之意。
     劇中主要角色的名字多是取自於歷作的假面騎士的主角們名字做變化而命名（包含昭和世代的假面騎士作品）。
-    本作的標題命名是全[假面騎士系列首次以完全漢字並且以中式語法的方式命題](../Page/假面騎士系列.md "wikilink")。
+    本作的標題命名是全[假面騎士系列](../Page/假面騎士系列.md "wikilink")首次以完全漢字並且以中式語法的方式命題。
     本作干部变身者的名字和其代表星座有关联
     故事場景是史上首次以校園為主，怪人也是首次以星座为蓝本
     同時也是紀念人類太空飛行50週年的紀念作，因此加入了**「太空」**和**「校園生活」**兩種新元素。
-    騎士最大的特點是主角的飛機頭和Fourze的火箭頭，還有濃濃的[宇宙和](../Page/宇宙.md "wikilink")[青春元素](https://zh.wikipedia.org/wiki/青春 "wikilink")。所以本作是屬於校園輕喜劇。
+    騎士最大的特點是主角的飛機頭和Fourze的火箭頭，還有濃濃的[宇宙](../Page/宇宙.md "wikilink")和[青春元素](https://zh.wikipedia.org/wiki/青春 "wikilink")。所以本作是屬於校園輕喜劇。
     本作的主要背景地點「天之川學園高中」，天之川的日文之意為「天上的星河」，即「銀河」之意，十分切合宇宙這個主題。
-    值得一提的是，本作的世界觀設定和前作《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》\[1\]及後作《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》\[2\]有所關聯，之後於2017年上映的《[假面騎士平成Generations
-    FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀。
-    自《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《假面騎士Fourze》,
-    一連3部的片頭曲都是女性歌手主唱,是假面騎士系列首次。
+    值得一提的是，本作的世界觀設定和前作《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》\[1\]及後作《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》\[2\]有所關聯，之後於2017年上映的《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀。
+    自《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《假面騎士Fourze》, 一連3部的片頭曲都是女性歌手主唱,是假面騎士系列首次。
 
 ## 故事概要
 
@@ -47,8 +43,7 @@
 **學園祭**
 
   -
-    舉辦時間：劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》。
+    舉辦時間：劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》。
     校園多數團體隨自己的意願創辨活動。
     包括展覽、咖啡店、銷售攤位、演出、占卜等等的活動。
     假面騎士部舉行的活動為假面騎士都市傳說的研究發佈會。
@@ -79,8 +74,7 @@
 ### 假面騎士部
 
   -
-    由如月弦太朗（擅自）創立的部門。以月面基地「兔子窩（Rabbit
-    Hutch）」作為該部的房間。創立目的是為了守護天之川學園高中避免受Zodiarts的威脅，和為了調查在過去的40年各個城市有關假面騎士出現的[都市傳說](https://zh.wikipedia.org/wiki/現代傳說 "wikilink")。
+    由如月弦太朗（擅自）創立的部門。以月面基地「兔子窩（Rabbit Hutch）」作為該部的房間。創立目的是為了守護天之川學園高中避免受Zodiarts的威脅，和為了調查在過去的40年各個城市有關假面騎士出現的[都市傳說](https://zh.wikipedia.org/wiki/現代傳說 "wikilink")。
     第2話，成立假面騎士部，成員為如月弦太朗、歌星賢吾（一開始不願承認，直到12話正式加入）、城島悠木。
     第4話，風城美羽加入，自封為假面騎士部部長
     第6話，JK加入
@@ -94,18 +88,14 @@
     第40话，野座間友子被[處女座Zodiarts處決而失蹤](https://zh.wikipedia.org/wiki/處女座 "wikilink")。
     第41话，城島悠木、風城美羽、JK、大文字隼、大杉忠太因生命受到[處女座Zodiarts正面的威脅而選擇脫離](https://zh.wikipedia.org/wiki/處女座 "wikilink")，朔田流星與其對戰不幸被送往[暗黑星雲](https://zh.wikipedia.org/wiki/暗黑星雲 "wikilink")；第42话再次全部歸隊，朔田流星與野座間友子被[處女座Zodiarts釋放](https://zh.wikipedia.org/wiki/處女座 "wikilink")。
     第47話，歌星賢吾正準備回歸「Presenter」一方時，因核心開關受到[射手座Zodiarts的攻擊而肉體化為虛無般消失](https://zh.wikipedia.org/wiki/射手座 "wikilink")。
-    最終话，月面基地「Rabbit
-    Hutch」因受到嚴重破壞，連同擺放儲藏櫃的廢棄室一同爆炸。事件後歌星賢吾復活，朔田流星回歸昴星高中，風城美羽與大文字隼正式告別假面骑士部，黑木蘭和草尾春正式成為部員。最後改名為**宇宙假面騎士部**。
+    最終话，月面基地「Rabbit Hutch」因受到嚴重破壞，連同擺放儲藏櫃的廢棄室一同爆炸。事件後歌星賢吾復活，朔田流星回歸昴星高中，風城美羽與大文字隼正式告別假面骑士部，黑木蘭和草尾春正式成為部員。最後改名為**宇宙假面騎士部**。
     至最終话为止，宇宙假面骑士部部員共7人（如月弦太朗、歌星賢吾、城島悠木、JK/神宫海藏、野座間友子、黑木蘭、草尾春）。顧問教師為大杉忠太。
     《小說 假面騎士Fourze ～天・高・畢・業～》，如月弦太朗、歌星賢吾、城島悠木畢業後野座間友子接任成為第三任部長。
-    劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》五年後的時空，部中只有大木美代子一名成員兼任部長。顧問教師為如月弦太朗。
+    劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》五年後的時空，部中只有大木美代子一名成員兼任部長。顧問教師為如月弦太朗。
 
 ### 昴星高中
 
-本作中另一虛擬出來的學校，和故事有所關連的背景地點。朔田流星的母校。劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰
-Mega
-Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》的美咲撫子身穿的都是該校制服。
+本作中另一虛擬出來的學校，和故事有所關連的背景地點。朔田流星的母校。劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》的美咲撫子身穿的都是該校制服。
 
 ### 財團X
 
@@ -118,12 +108,9 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
   -
     原文：
     本作中串連一切的關鍵。由非常複雜的迴路所構成的物品，也是假面騎士Fourze變身時必須使用的東西，本作的怪人Zodiarts也是以此變身。
-    根據歌星賢吾第47話中描述的回憶得知，Fourze
-    Driver和天文裝置為歌星綠郎以核心裝置為原型而設計，但是當時僅有初步構造並未完成，最後在月面基地爆炸時遺留於其內。直至賢吾因為江本州輝送贈的「Gate」天文裝置而讓其踏入月面基地中發現，並把Fourze
-    Driver和天文裝置實際完成。
+    根據歌星賢吾第47話中描述的回憶得知，Fourze Driver和天文裝置為歌星綠郎以核心裝置為原型而設計，但是當時僅有初步構造並未完成，最後在月面基地爆炸時遺留於其內。直至賢吾因為江本州輝送贈的「Gate」天文裝置而讓其踏入月面基地中發現，並把Fourze Driver和天文裝置實際完成。
     天文裝置共有40個，由於剛開始完成的並不多，所以常須投入心力去逐一完成各類型的調整。
-    裝置需插入Fourze Driver才能使用，在變身狀態下使用可召喚出對應部位的裝備，會有由電子合成的「XX
-    on」（XX為開關的英文名稱）的指令音效，供Fourze使用。關上開關後即可收回召喚的裝備。
+    裝置需插入Fourze Driver才能使用，在變身狀態下使用可召喚出對應部位的裝備，會有由電子合成的「XX on」（XX為開關的英文名稱）的指令音效，供Fourze使用。關上開關後即可收回召喚的裝備。
     發動必殺技時需要將手柄轉動，然後會發出所召喚的裝置音效，然後再發出必殺技的音效，另外插入時也會讀出裝置本身的名稱。
     所有天文裝置的本體為● × ▲ ■ 的形狀。轉化後會自動變成其啟動機構，但代表的形狀會跟從本體裝置和力量而定。
     ● × ▲ ■ 各有10個裝置。其中No.10、20、30+31和40較其他的強大，也能改變Fourze的形態。
@@ -170,14 +157,10 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
     本作登場的怪人。
     為「Zodiac（黃道星座）」與「Astronaut（宇航員）」合併字，利用天文裝置誘發出邪惡意識的人類變身的怪人，其名稱都是用天文學的星座來命名。
     我望光明以核心裝置為原型而設計出來，藉由使用者的負面情緒和黑洞能量彼此產生反應，讓身體達到進化的效果。
-    Zodiarts使用的天文裝置外型類似燈泡狀，其上端的按鈕即為變身用的按鈕，其裝置會反應使用者的情緒而產生能量多寡的不同，當使用者的負面情緒達到一定程度時，其裝置會變化為充血狀態，並發出「Last
-    One」的音效（讀出「Last
-    One」的音效隨着給予天文裝置的Horoscope而會有所不同），此時其變身後力量會大幅增加，但本體會纏成繭狀再與精神意識完全剝離。
-    因為位於天之川學園高中上空，宇宙能量的來源「The
-    Hole」影響，只有該校的師生才可成功啟動裝置變身。如非該校的師生强行使用開關則會遭到開關的力量反噬並會令使用者長眠，需要使用者親手按下開關才能蘇醒。
+    Zodiarts使用的天文裝置外型類似燈泡狀，其上端的按鈕即為變身用的按鈕，其裝置會反應使用者的情緒而產生能量多寡的不同，當使用者的負面情緒達到一定程度時，其裝置會變化為充血狀態，並發出「Last One」的音效（讀出「Last One」的音效隨着給予天文裝置的Horoscope而會有所不同），此時其變身後力量會大幅增加，但本體會纏成繭狀再與精神意識完全剝離。
+    因為位於天之川學園高中上空，宇宙能量的來源「The Hole」影響，只有該校的師生才可成功啟動裝置變身。如非該校的師生强行使用開關則會遭到開關的力量反噬並會令使用者長眠，需要使用者親手按下開關才能蘇醒。
     此外，Zodiarts除了擁有星座本身的力量外，有機會隨着變身者自己而延伸出額外的能力，第5話中登場的麒麟座Zodiarts為首個例子。
-    Zodiarts使用的天文裝置只認定單一使用者，被使用者或幹部級以外的人碰到則會「Switch
-    Off」，立刻損毀消失。不過立神吼因爲其特殊體質，所以可以使用多於一個天文裝置。
+    Zodiarts使用的天文裝置只認定單一使用者，被使用者或幹部級以外的人碰到則會「Switch Off」，立刻損毀消失。不過立神吼因爲其特殊體質，所以可以使用多於一個天文裝置。
     Zodiarts身上及手腳有數個圓形能量點，其排列形狀為其代表星座之形狀。其中1個能量點代表「主要星」，也是變身後天文裝置所在處。
     當「主要星」的能量點超越Last One且異常發亮時，為正覺醒進化之狀態，「主要星」會額外產生自我修復的能量，最後使其進化。
     少數Zodiarts可被選上進化成其中Horoscope的一員。
@@ -189,19 +172,16 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
     意為[天宮圖](https://zh.wikipedia.org/wiki/天宮圖 "wikilink")，港譯星團。
     不同於普通的怪人Zodiarts，為組織的幹部，經常出沒於天之川學園高中，並給予學生可變身為Zodiarts的天文裝置。
     非戰鬥狀態時會披上特殊圖案的大型披風，而且其能量點排列分佈具有變化性為其特徵。
-    定義為由[黃道十二宮的Zodiarts組成](../Page/黃道十二宮.md "wikilink")，統稱十二使徒。
-    一般的Zodiarts意志超越Last
-    One後「主要星」會亮起，再融合纏繭的本體則能覺醒為Horoscope。第34話後位於天之川學園高中上空，宇宙能量傳送點「The
-    Hole」增幅的緣故，覺醒的機率變得更大，加上[天秤座Zodiarts](../Page/天秤座.md "wikilink")「[拉普拉斯之眼](https://zh.wikipedia.org/wiki/拉普拉斯 "wikilink")」的能力更不費功夫一下子找出能夠覺醒之人。
+    定義為由[黃道十二宮](../Page/黃道十二宮.md "wikilink")的Zodiarts組成，統稱十二使徒。
+    一般的Zodiarts意志超越Last One後「主要星」會亮起，再融合纏繭的本體則能覺醒為Horoscope。第34話後位於天之川學園高中上空，宇宙能量傳送點「The Hole」增幅的緣故，覺醒的機率變得更大，加上[天秤座](../Page/天秤座.md "wikilink")Zodiarts「[拉普拉斯之眼](https://zh.wikipedia.org/wiki/拉普拉斯 "wikilink")」的能力更不費功夫一下子找出能夠覺醒之人。
     只有Horoscope才可運用特殊強化力量「超新星」。
     第16話，速水說已有四人覺醒，要找出更多成員。
-    第22話，鬼島夏兒的[飛馬座Zodiarts超越Last](https://zh.wikipedia.org/wiki/飛馬座 "wikilink")
-    One，覺醒至[巨蟹座Zodiarts](../Page/巨蟹座.md "wikilink")，成為Horoscope第五人。
-    第30話[白羊座Zodiarts為Horoscope第六人登場](../Page/白羊座.md "wikilink")。
+    第22話，鬼島夏兒的[飛馬座Zodiarts超越Last](https://zh.wikipedia.org/wiki/飛馬座 "wikilink") One，覺醒至[巨蟹座](../Page/巨蟹座.md "wikilink")Zodiarts，成為Horoscope第五人。
+    第30話[白羊座](../Page/白羊座.md "wikilink")Zodiarts為Horoscope第六人登場。
     第34話我望光明被「[拉普拉斯之眼](https://zh.wikipedia.org/wiki/拉普拉斯 "wikilink")」看出其[射手座Zodiarts身份](https://zh.wikipedia.org/wiki/射手座 "wikilink")，他為Horoscope之首。
-    第35話[摩羯座Zodiarts為Horoscope第七人登場](../Page/摩羯座.md "wikilink")。
+    第35話[摩羯座](../Page/摩羯座.md "wikilink")Zodiarts為Horoscope第七人登場。
     第37話[水瓶座Zodiarts為Horoscope第八人登場](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")。
-    第39話[金牛座Zodiarts為Horoscope第九人登場](../Page/金牛座.md "wikilink")。
+    第39話[金牛座](../Page/金牛座.md "wikilink")Zodiarts為Horoscope第九人登場。
     第41話[射手座Zodiarts為Horoscope第十人登場](https://zh.wikipedia.org/wiki/射手座 "wikilink")。
     第43話[雙子座Zodiarts為Horoscope第十一人登場](https://zh.wikipedia.org/wiki/雙子座 "wikilink")。
     第45話[雙鱼座Zodiarts為Horoscope第十二人登場](https://zh.wikipedia.org/wiki/雙鱼座 "wikilink")。
@@ -219,8 +199,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
   -
     由右至左一共4個天文裝置插槽（● × ▲ ■），分別是右手●、右腳×、左腳▲、左手■。
     正中間為小型顯示螢幕，會隨著各部位裝置使用改變顯示，若使用右手的裝置，則螢幕會立即隨之改變。
-    腰帶右側有一個手把，變身時將四個天文裝置插入後，並且按下四個紅色開關，會有「Three Two
-    One」的倒數指令音效出現，此時拉下手把即可變身。變身中再次拉下手把則會發動Fourze的必殺技，必殺技依照使用的裝置而各有不同。
+    腰帶右側有一個手把，變身時將四個天文裝置插入後，並且按下四個紅色開關，會有「Three Two One」的倒數指令音效出現，此時拉下手把即可變身。變身中再次拉下手把則會發動Fourze的必殺技，必殺技依照使用的裝置而各有不同。
     有關各天文裝置的功能，詳見下文。
 
 #### 變身模式
@@ -370,9 +349,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     必殺技發動時有指令音效，以使用中的裝置名稱依序讀出，再加上Limit Break即為必殺技的音效。必殺技名是由如月弦太朗所命名的。
-    在Limit Break發動期間再次拉下手把使用Limit Break，則會發動Double Limit
-    Break（二階段必殺技）。Double Limit
-    Break的發動狀態下，會將天文裝置的能力發揮到極致，甚至會產生額外性的附加能力。代價是會因此造成天文裝置的能源完全消耗，必須經過一定時間回復才能再度使用。
+    在Limit Break發動期間再次拉下手把使用Limit Break，則會發動Double Limit Break（二階段必殺技）。Double Limit Break的發動狀態下，會將天文裝置的能力發揮到極致，甚至會產生額外性的附加能力。代價是會因此造成天文裝置的能源完全消耗，必須經過一定時間回復才能再度使用。
 
 **必殺技**
 
@@ -392,9 +369,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Rocket Drill Uchuu Kick*
-    \-{zh-hk:火箭電鑽飛腿;zh-tw:火箭鑽踢;zh-cn:火箭钻踢;zh-sg:火箭钻踢}-的升級版，需使用「Rocket」、「Drill」和「Radar」的天文裝置，以及Machine
-    Massigler和Powerdizer才可發動。以Powerdizer令Machine
-    Massigler升至宇宙，鎖定目標再以噴射加速的威力踢出貫穿敵人的一擊，擁有約45[T的破壞力](../Page/公噸.md "wikilink")。
+    \-{zh-hk:火箭電鑽飛腿;zh-tw:火箭鑽踢;zh-cn:火箭钻踢;zh-sg:火箭钻踢}-的升級版，需使用「Rocket」、「Drill」和「Radar」的天文裝置，以及Machine Massigler和Powerdizer才可發動。以Powerdizer令Machine Massigler升至宇宙，鎖定目標再以噴射加速的威力踢出貫穿敵人的一擊，擁有約45[T的破壞力](../Page/公噸.md "wikilink")。
 
 <!-- end list -->
 
@@ -404,9 +379,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Rocket Drill Dai Uchuu Kick*
-    為-{zh-hk:火箭電鑽飛腿;zh-tw:火箭鑽踢;zh-cn:火箭钻踢;zh-sg:火箭钻踢}-的二階段必殺技，在Double
-    Limit
-    Break的狀態下，使得火箭和鑽頭巨大化數倍，火箭的噴射產生的能量化為熱能，足以使敵人受到灼傷，鑽頭踢出的破壞力更可達到無堅不摧。
+    為-{zh-hk:火箭電鑽飛腿;zh-tw:火箭鑽踢;zh-cn:火箭钻踢;zh-sg:火箭钻踢}-的二階段必殺技，在Double Limit Break的狀態下，使得火箭和鑽頭巨大化數倍，火箭的噴射產生的能量化為熱能，足以使敵人受到灼傷，鑽頭踢出的破壞力更可達到無堅不摧。
 
 <!-- end list -->
 
@@ -416,8 +389,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Hyaoku Volt Break*
-    需使用「Elek」天文裝置才可發動，把BILLY THE ROD的插頭插到其左方的插口發出Limit
-    break，以電擊棒收集空氣中的電力，在衝向敵人的同時發出具有強大電擊力的斬擊。
+    需使用「Elek」天文裝置才可發動，把BILLY THE ROD的插頭插到其左方的插口發出Limit break，以電擊棒收集空氣中的電力，在衝向敵人的同時發出具有強大電擊力的斬擊。
 
 <!-- end list -->
 
@@ -427,8 +399,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Hyaoku Bolt Shoot*
-    需使用「Elek」天文裝置才可發動，把BILLY THE ROD的插頭插到其上方的插口發出Limit
-    break，以電擊棒收集空氣中的電力。與上招不同的是，此招是劍氣式的能量斬擊。
+    需使用「Elek」天文裝置才可發動，把BILLY THE ROD的插頭插到其上方的插口發出Limit break，以電擊棒收集空氣中的電力。與上招不同的是，此招是劍氣式的能量斬擊。
 
 <!-- end list -->
 
@@ -438,8 +409,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Hyaoku Bolt Burst*
-    需使用「Elek」天文裝置才可發動，把BILLY THE ROD的插頭插到其右方的插口發出Limit
-    break，以電擊棒收集空氣中的電力。與上招不同的，此招是把電擊棒插進地面的能量波攻擊。
+    需使用「Elek」天文裝置才可發動，把BILLY THE ROD的插頭插到其右方的插口發出Limit break，以電擊棒收集空氣中的電力。與上招不同的，此招是把電擊棒插進地面的能量波攻擊。
 
 <!-- end list -->
 
@@ -459,8 +429,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Bakunetsu Shoot*
-    需使用「Fire」天文裝置才可發動，HEE-HACK
-    GUN釋放最大輸出率的火焰砲射擊。若「Fire」天文裝置吸收了外來環境的火焰，將其釋放的力量亦會隨之增强。
+    需使用「Fire」天文裝置才可發動，HEE-HACK GUN釋放最大輸出率的火焰砲射擊。若「Fire」天文裝置吸收了外來環境的火焰，將其釋放的力量亦會隨之增强。
 
 <!-- end list -->
 
@@ -470,8 +439,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Kirimomi Crusher*
-    此必殺技只出現在劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》及最終話。
+    此必殺技只出現在劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》及最終話。
     需使用「Rocket-Super」天文裝置才可發動，運用雙手的火箭噴射推動進行螺旋式突擊。
 
 <!-- end list -->
@@ -482,10 +450,8 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Double Rocket Drill Kick*
-    此必殺技只出現在劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》
-    需使用「Rocket-Super」和「Drill」天文裝置配合假面騎士OOO才可發動，二人使出**-{zh-hk:幪面超人火箭電鑽飛腿;zh-tw:騎士火箭鑽踢;zh-cn:骑士火箭钻踢;zh-sg:骑士火箭钻踢}-**和**Super
-    TATOBA Scanning Charge**同時攻擊。
+    此必殺技只出現在劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》
+    需使用「Rocket-Super」和「Drill」天文裝置配合假面騎士OOO才可發動，二人使出**-{zh-hk:幪面超人火箭電鑽飛腿;zh-tw:騎士火箭鑽踢;zh-cn:骑士火箭钻踢;zh-sg:骑士火箭钻踢}-**和**Super TATOBA Scanning Charge**同時攻擊。
 
 <!-- end list -->
 
@@ -495,13 +461,8 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Sentai Rider Uchuu Kick*
-    此必殺技只出現在劇場版《[假面騎士x超級戰隊
-    超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》
-    需使用「Rocket-Super」和「Drill-Super」天文裝置配合-{zh-hk:特命合體王;zh-tw:Go
-    Busters王;zh-cn:Go Busters王;zh-sg:Go
-    Busters王}-才可發動。-{zh-hk:特命合體王;zh-tw:Go
-    Busters王;zh-cn:Go Busters王;zh-sg:Go
-    Busters王}-藉著天文裝置的力量，裝備上巨大的火箭和鑽頭部件，再以雙重火箭噴射加速的威力，雙腳踢出貫穿敵人的一擊。
+    此必殺技只出現在劇場版《[假面騎士x超級戰隊 超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》
+    需使用「Rocket-Super」和「Drill-Super」天文裝置配合-{zh-hk:特命合體王;zh-tw:Go Busters王;zh-cn:Go Busters王;zh-sg:Go Busters王}-才可發動。-{zh-hk:特命合體王;zh-tw:Go Busters王;zh-cn:Go Busters王;zh-sg:Go Busters王}-藉著天文裝置的力量，裝備上巨大的火箭和鑽頭部件，再以雙重火箭噴射加速的威力，雙腳踢出貫穿敵人的一擊。
 
 <!-- end list -->
 
@@ -521,8 +482,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Choudenji Tackle*
-    需使用「Magnet N」和「Magnet
-    S」天文裝置才可發動。利用驅動電磁砲產生的後座力產生高速衝撞力，再接近敵人發動零距離最大威力的砲擊。
+    需使用「Magnet N」和「Magnet S」天文裝置才可發動。利用驅動電磁砲產生的後座力產生高速衝撞力，再接近敵人發動零距離最大威力的砲擊。
 
 <!-- end list -->
 
@@ -532,8 +492,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Choudenji Bomber‧Itsusei Sousha*
-    需使用「Magnet N」、「Magnet
-    S」「Launcher」和「Gatling」天文裝置才可發動。配合槍砲類裝置同時發出致命性的砲擊。
+    需使用「Magnet N」、「Magnet S」「Launcher」和「Gatling」天文裝置才可發動。配合槍砲類裝置同時發出致命性的砲擊。
 
 <!-- end list -->
 
@@ -553,8 +512,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Fusion Drill Kick*
-    此必殺技只出現在劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》
+    此必殺技只出現在劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》
     需使用「Fusion」和「Drill」天文裝置發動。集合Meteor Fusion States原有力量踢出貫穿敵人的一擊。
 
 <!-- end list -->
@@ -565,8 +523,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Seshun Ginga Dai Dai Dai Drill Kick*
-    為**-{zh-hk:幪面超人火箭電鑽飛腿;zh-tw:騎士火箭鑽踢;zh-cn:骑士火箭钻踢;zh-sg:骑士火箭钻踢}-**的三階段必殺技，在Triple
-    Limit Break強行催谷的狀態下，使得火箭和鑽頭力量巨大化數倍。
+    為**-{zh-hk:幪面超人火箭電鑽飛腿;zh-tw:騎士火箭鑽踢;zh-cn:骑士火箭钻踢;zh-sg:骑士火箭钻踢}-**的三階段必殺技，在Triple Limit Break強行催谷的狀態下，使得火箭和鑽頭力量巨大化數倍。
 
 <!-- end list -->
 
@@ -576,8 +533,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Double Fire Drill Kick*
-    此必殺技只出現在劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》
+    此必殺技只出現在劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》
     需使用「Fire」 和「Drill」天文裝置配合假面騎士Wizard才可發動。共同使出火焰的踢擊。
 
 <!-- end list -->
@@ -588,10 +544,8 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Ultimate Crusher*
-    此必殺技只出現在劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》
-    需使用「Fusion」和「Nadeshiko」天文裝置才可發動，攻擊模式與Rocket
-    States使出的**-{zh-hk:幪面超人迴旋爆碎;zh-tw:騎士迴旋爆碎;zh-cn:骑士回旋爆碎;zh-sg:骑士回旋爆碎}-**相同，分別在於威力強化數倍。
+    此必殺技只出現在劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》
+    需使用「Fusion」和「Nadeshiko」天文裝置才可發動，攻擊模式與Rocket States使出的**-{zh-hk:幪面超人迴旋爆碎;zh-tw:騎士迴旋爆碎;zh-cn:骑士回旋爆碎;zh-sg:骑士回旋爆碎}-**相同，分別在於威力強化數倍。
 
 #### 未命名必殺技
 
@@ -632,8 +586,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <!-- end list -->
 
   -
-    需使用「Cosmic」天文裝置才可發動，BARIZUN SWORD合上表面裝甲的「噴射模式」之下使出的Limit
-    break，製造出空間扭曲令雙方極速轉移至宇宙之間。
+    需使用「Cosmic」天文裝置才可發動，BARIZUN SWORD合上表面裝甲的「噴射模式」之下使出的Limit break，製造出空間扭曲令雙方極速轉移至宇宙之間。
 
 <!-- end list -->
 
@@ -667,8 +620,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Swing-by*
-    此特殊技只出現在OOO劇場版《[假面騎士OOO WONDERFUL
-    將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")》。
+    此特殊技只出現在OOO劇場版《[假面騎士OOO WONDERFUL 將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")》。
     需使用「Magic Hand」 天文裝置和配合假面骑士OOO才可發動，抓住OOO後並把他甩出去，配合被拋出的衝力突進再利用爪子攻擊敵人。
 
 <!-- end list -->
@@ -699,8 +651,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Double Rocket Punch*
-    此特殊技只出現在劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》
+    此特殊技只出現在劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》
     需要配合假面騎士Nadeshiko使用「Rocket」天文裝置才可發動，二人同時使出**-{zh-hk:幪面超人火箭飛拳;zh-tw:騎士火箭拳;zh-cn:骑士火箭拳;zh-sg:骑士火箭拳}-**。
 
 <!-- end list -->
@@ -741,8 +692,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider Stamper Kick*
-    此特殊技在劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》命名
+    此特殊技在劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》命名
     需使用「Stamper」天文裝置才可發動，踢中目標後戳上圖形，數秒後會引爆出衝擊波。
 
 <!-- end list -->
@@ -763,8 +713,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Rider (Double) Rocket Missile*
-    此必殺技只出現在劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》
+    此必殺技只出現在劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》
     需使用「Fusion」和「Nadeshiko」天文裝置才可發動，射出雙手的火箭進行遠程一擊。
 
 #### 非官方命名特殊技
@@ -781,16 +730,13 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 #### Cosmic States混合技
 
   -
-    Cosmic States獨有的攻擊模式，先以插入在Fourze Driver開啟中的裝置為主導裝備(右手● 以BARIZUN
-    SWORD為主導裝備，劍柄插槽為Driver)，再按胸前的同一部位裝置的圖案追加能力使其攻擊屬性混合，舉例如果正在開啟右腳 ×
-    的No.2 Launcher，再按胸前同是右腳× No.32 Freeze圖案，導彈攻擊會帶有凍結效果。
+    Cosmic States獨有的攻擊模式，先以插入在Fourze Driver開啟中的裝置為主導裝備(右手● 以BARIZUN SWORD為主導裝備，劍柄插槽為Driver)，再按胸前的同一部位裝置的圖案追加能力使其攻擊屬性混合，舉例如果正在開啟右腳 × 的No.2 Launcher，再按胸前同是右腳× No.32 Freeze圖案，導彈攻擊會帶有凍結效果。
 
 **Cosmic States混合技**
 
   -
     **BARIZUN SWORD + Rocket + Elek (右手●)**
-    主裝備為斬擊模式的BARIZUN SWORD，插上Rocket Switch再附加Elek
-    Switch的力量。劍上帶有火箭的推進力加上電力的斬擊。
+    主裝備為斬擊模式的BARIZUN SWORD，插上Rocket Switch再附加Elek Switch的力量。劍上帶有火箭的推進力加上電力的斬擊。
 
 <!-- end list -->
 
@@ -853,9 +799,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
     在腰帶的中間有立體的星座盤。左方有天文裝置插槽，右方有球型的把手，頂端有著推動式開關。
     立體的星座盤在變身時能發出七彩的光芒。
     把頂端開關推動後會發出「Meteor！Ready！」的音效，然後按動球型的把手後，星座盤會馬上轉動並啟動變身程序。
-    插槽也可以使用任何的●型天文裝置。把接上的天文裝置開啟後會發出「XX
-    On！Ready！」的音效（「XX」是插入的天文裝置名稱），再用手轉動星座盤並發出「XX
-    Limit Break！」的音效後可以發動必殺技。
+    插槽也可以使用任何的●型天文裝置。把接上的天文裝置開啟後會發出「XX On！Ready！」的音效（「XX」是插入的天文裝置名稱），再用手轉動星座盤並發出「XX Limit Break！」的音效後可以發動必殺技。
 
 #### 變身模式
 
@@ -909,8 +853,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
   -
     原文：
     成板狀形，變身後會在右手手腕上。
-    左方有指紋認証系統。只能確認Meteor
-    左手[食指的符號](https://zh.wikipedia.org/wiki/食指 "wikilink")。
+    左方有指紋認証系統。只能確認Meteor 左手[食指的符號](https://zh.wikipedia.org/wiki/食指 "wikilink")。
     右下方有三個推動式按鈕，推動後發動特殊技。
     指紋認証系統和三個推動式按鈕之間有一個紅色按鈕，用作退出發動了的特殊技。
     使用右上方的裝置插槽，並插入「Meteor」天文裝置後可以使用必殺技。
@@ -929,8 +872,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 #### 特殊技
 
   -
-    當推動按鈕，Meteor Galaxy會發出
-    「XX！Ready！」的音效（「XX」代表發動了的按鈕），然後認証指紋後會發出「OK！XX！」的音效。
+    當推動按鈕，Meteor Galaxy會發出 「XX！Ready！」的音效（「XX」代表發動了的按鈕），然後認証指紋後會發出「OK！XX！」的音效。
 
 **特殊技**
 
@@ -965,9 +907,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 #### 必殺技
 
   -
-    還可以使用Fourze的天文裝置來發動必殺技，已知的有「Elek」、「Fire」和 「N
-    Magnet」（「Elek」天文裝置電氣的必殺技详見第20话﹔「Fire」天文裝置火焰的必殺技详見第37话；「N
-    Magnet」天文裝置磁力的必殺技详見第46话）
+    還可以使用Fourze的天文裝置來發動必殺技，已知的有「Elek」、「Fire」和 「N Magnet」（「Elek」天文裝置電氣的必殺技详見第20话﹔「Fire」天文裝置火焰的必殺技详見第37话；「N Magnet」天文裝置磁力的必殺技详見第46话）
 
 **必殺技**
 
@@ -997,13 +937,11 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Meteor Storm Punisher*
-    Meteor Storm Shaft插入「Meteor Storm」天文裝置後發動，把「Meteor
-    Storm」天文裝置頂端的[陀螺形制動器拉環射出後](https://zh.wikipedia.org/wiki/陀螺 "wikilink")，以極高速旋轉自動向單體或複數目標施以致命一撃，破壞力可達20T。轉動時亦具備吸收能量的功效令回饋攻擊力增強。
+    Meteor Storm Shaft插入「Meteor Storm」天文裝置後發動，把「Meteor Storm」天文裝置頂端的[陀螺形制動器拉環射出後](https://zh.wikipedia.org/wiki/陀螺 "wikilink")，以極高速旋轉自動向單體或複數目標施以致命一撃，破壞力可達20T。轉動時亦具備吸收能量的功效令回饋攻擊力增強。
 
 ### 假面騎士Nadeshiko （撫子）
 
-變身者：美咲撫子（替身演員 :
-、[真野恵里菜](https://zh.wikipedia.org/wiki/真野恵里菜 "wikilink")）
+變身者：美咲撫子（替身演員 : 、[真野恵里菜](https://zh.wikipedia.org/wiki/真野恵里菜 "wikilink")）
 
 ### 假面騎士Icarus
 
@@ -1058,15 +996,12 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原為OSTO（外宇宙技術開發機構）所研發之月面作業用途，大型作業可變形的[動力服](../Page/動力服.md "wikilink")\[4\]，現為用作支援Fourze戰鬥使用。
-    戰鬥模式時以雙腳移動，載具模式時可以高速行駛，而發射台模式會變成[質量投射器令Machine](../Page/質量投射器.md "wikilink")
-    Massigler升空。
+    戰鬥模式時以雙腳移動，載具模式時可以高速行駛，而發射台模式會變成[質量投射器](../Page/質量投射器.md "wikilink")令Machine Massigler升空。
     除了由一人在裡面控制駕駛外，並可由天文裝置呼叫出動。駕駛者也需要具備良好的體力和運動能力才能順利操作。
     Powerdizer具有大型機械鉗和飛彈發射器作為武裝。
     弦太朗稱它為大猩猩。
     風城美羽在第8話駕駛過。以後就由大文字隼駕駛。
-    於劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為配合Queen
-    Dizer及JK Dizer而刻意命名為King Dizer。
+    於劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為配合Queen Dizer及JK Dizer而刻意命名為King Dizer。
 
 <!-- end list -->
 
@@ -1075,8 +1010,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <!-- end list -->
 
   -
-    於劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》登場。作軍事用途的另類型號Powerdizer，分別由美羽及JK駕駛。
+    於劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》登場。作軍事用途的另類型號Powerdizer，分別由美羽及JK駕駛。
 
 <!-- end list -->
 
@@ -1109,7 +1043,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 ### Foodroid
 
   -
-    由城島設計造型，並由賢吾製作的小型支援機器，靈感則來自各種美式[快餐店的餐點](../Page/快餐.md "wikilink")。通常用於蒐集情報和分析。
+    由城島設計造型，並由賢吾製作的小型支援機器，靈感則來自各種美式[快餐](../Page/快餐.md "wikilink")店的餐點。通常用於蒐集情報和分析。
 
 <!-- end list -->
 
@@ -1118,8 +1052,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <!-- end list -->
 
   -
-    造型來源為[漢堡](https://zh.wikipedia.org/wiki/漢堡 "wikilink")，插入Camera
-    Switch可變成小型機器人，並且能放出立體影像。
+    造型來源為[漢堡](https://zh.wikipedia.org/wiki/漢堡 "wikilink")，插入Camera Switch可變成小型機器人，並且能放出立體影像。
     Switch 的插口在背面。
 
 <!-- end list -->
@@ -1129,8 +1062,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <!-- end list -->
 
   -
-    造型來源為[薯條跟](https://zh.wikipedia.org/wiki/薯條 "wikilink")[螃蟹](../Page/螃蟹.md "wikilink")，插入Scissors
-    Switch可變成小型機器人，並且能攻擊敵人。
+    造型來源為[薯條跟](https://zh.wikipedia.org/wiki/薯條 "wikilink")[螃蟹](../Page/螃蟹.md "wikilink")，插入Scissors Switch可變成小型機器人，並且能攻擊敵人。
     Switch 的插口在背面。
 
 <!-- end list -->
@@ -1140,8 +1072,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <!-- end list -->
 
   -
-    造型來源為快餐杯裝[奶昔跟](https://zh.wikipedia.org/wiki/奶昔 "wikilink")[企鵝](../Page/企鵝.md "wikilink")，插入Flash
-    Switch可變成小型機器人，並且能以兩眼發出強光。
+    造型來源為快餐杯裝[奶昔跟](https://zh.wikipedia.org/wiki/奶昔 "wikilink")[企鵝](../Page/企鵝.md "wikilink")，插入Flash Switch可變成小型機器人，並且能以兩眼發出強光。
     Switch 的插口在杯內。
 
 <!-- end list -->
@@ -1151,8 +1082,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <!-- end list -->
 
   -
-    造型來源為[熱狗跟](../Page/熱狗.md "wikilink")[狗](https://zh.wikipedia.org/wiki/狗 "wikilink")，插入Scoop
-    Switch可變成小型機器人，並且能像[推土機般推走物件](../Page/推土機.md "wikilink")。
+    造型來源為[熱狗](../Page/熱狗.md "wikilink")跟[狗](https://zh.wikipedia.org/wiki/狗 "wikilink")，插入Scoop Switch可變成小型機器人，並且能像[推土機](../Page/推土機.md "wikilink")般推走物件。
     Switch 的插口在背面。
 
 <!-- end list -->
@@ -1162,8 +1092,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <!-- end list -->
 
   -
-    造型來源為[霜淇淋跟](https://zh.wikipedia.org/wiki/霜淇淋 "wikilink")[電扇](https://zh.wikipedia.org/wiki/電扇 "wikilink")，插入Freeze
-    Switch可變成小型機器人，並且能從三個方位吹出冷氣，凍結敵人。
+    造型來源為[霜淇淋跟](https://zh.wikipedia.org/wiki/霜淇淋 "wikilink")[電扇](https://zh.wikipedia.org/wiki/電扇 "wikilink")，插入Freeze Switch可變成小型機器人，並且能從三個方位吹出冷氣，凍結敵人。
     Switch 的插口在筒下。
 
 <!-- end list -->
@@ -1173,8 +1102,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <!-- end list -->
 
   -
-    造型來源為[雞塊](../Page/雞塊.md "wikilink")，插入Gyro
-    Switch能夠放出四個能飛行的小機器人[ナゲイオ](https://zh.wikipedia.org/wiki/木衛一 "wikilink")、[ナゲロパ](https://zh.wikipedia.org/wiki/木衛二 "wikilink")、[ナゲメデ](https://zh.wikipedia.org/wiki/木衛三 "wikilink")、[ナゲスト](https://zh.wikipedia.org/wiki/木衛四 "wikilink")。
+    造型來源為[雞塊](../Page/雞塊.md "wikilink")，插入Gyro Switch能夠放出四個能飛行的小機器人[ナゲイオ](https://zh.wikipedia.org/wiki/木衛一 "wikilink")、[ナゲロパ](https://zh.wikipedia.org/wiki/木衛二 "wikilink")、[ナゲメデ](https://zh.wikipedia.org/wiki/木衛三 "wikilink")、[ナゲスト](https://zh.wikipedia.org/wiki/木衛四 "wikilink")。
     Switch 的插口在盒内。
 
 ## 天文裝置（Astro Switch）
@@ -1764,7 +1692,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/蝘蜓座.md" title="wikilink">蝘蜓座Zodiarts</a></p></td>
+<td><p><a href="../Page/蝘蜓座.md" title="wikilink">蝘蜓座</a>Zodiarts</p></td>
 <td><p>佐久間珠惠</p></td>
 <td><p>能夠隱形和用舌頭攻擊，擅長偷襲作戰</p></td>
 <td><p>3—4</p></td>
@@ -1799,14 +1727,14 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/英仙座.md" title="wikilink">英仙座Zodiarts</a></p></td>
+<td><p><a href="../Page/英仙座.md" title="wikilink">英仙座</a>Zodiarts</p></td>
 <td><p>元山惣帥</p></td>
 <td><p>力量極大，左手擁有將敵人石化的能力，右手持有大劍「<a href="https://zh.wikipedia.org/wiki/神諭" title="wikilink">Oracle</a>」</p></td>
 <td><p>15—16</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/小犬座.md" title="wikilink">小犬座Zodiarts</a></p></td>
+<td><p><a href="../Page/小犬座.md" title="wikilink">小犬座</a>Zodiarts</p></td>
 <td><p>園田紗理奈</p></td>
 <td><p>能力不明，Last One後因為強大的意志進化成<a href="https://zh.wikipedia.org/wiki/天蠍座" title="wikilink">天蠍座Zodiarts</a></p></td>
 <td><p>15</p></td>
@@ -1829,7 +1757,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/飛馬座" title="wikilink">飛馬座Zodiarts</a></p></td>
 <td><p>鬼島夏兒</p></td>
-<td><p>模仿<a href="../Page/踢拳.md" title="wikilink">踢拳的搏擊能力</a>。Last One後起腿能發出馬蹄形狀的光束作遠距離攻擊。最後因為強大的意志進化為<a href="../Page/巨蟹座.md" title="wikilink">巨蟹座Zodiarts</a></p></td>
+<td><p>模仿<a href="../Page/踢拳.md" title="wikilink">踢拳</a>的搏擊能力。Last One後起腿能發出馬蹄形狀的光束作遠距離攻擊。最後因為強大的意志進化為<a href="../Page/巨蟹座.md" title="wikilink">巨蟹座</a>Zodiarts</p></td>
 <td><p>21—22</p></td>
 </tr>
 <tr class="even">
@@ -1855,16 +1783,16 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/天兔座.md" title="wikilink">天兔座Zodiarts</a></p></td>
+<td><p><a href="../Page/天兔座.md" title="wikilink">天兔座</a>Zodiarts</p></td>
 <td><p>山田龍守</p></td>
-<td><p>能力不明，Last One後因為強大的意志進化成<a href="../Page/白羊座.md" title="wikilink">白羊座Zodiarts</a></p></td>
+<td><p>能力不明，Last One後因為強大的意志進化成<a href="../Page/白羊座.md" title="wikilink">白羊座</a>Zodiarts</p></td>
 <td><p>31</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/天琴座.md" title="wikilink">天琴座Zodiarts</a></p></td>
+<td><p><a href="../Page/天琴座.md" title="wikilink">天琴座</a>Zodiarts</p></td>
 <td><p>五藤東次郎</p></td>
-<td><p>能力不明，Last One後因為強大的意志進化成<a href="../Page/摩羯座.md" title="wikilink">摩羯座Zodiarts</a></p></td>
+<td><p>能力不明，Last One後因為強大的意志進化成<a href="../Page/摩羯座.md" title="wikilink">摩羯座</a>Zodiarts</p></td>
 <td><p>35</p></td>
 </tr>
 <tr class="odd">
@@ -1876,44 +1804,44 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/仙女座.md" title="wikilink">仙女座Zodiarts</a></p></td>
+<td><p><a href="../Page/仙女座.md" title="wikilink">仙女座</a>Zodiarts</p></td>
 <td><p>黑木蘭</p></td>
 <td><p>能力不明，Last One後直接進化成<a href="https://zh.wikipedia.org/wiki/雙魚座" title="wikilink">雙魚座Zodiarts</a></p></td>
 <td><p>45</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/武仙座.md" title="wikilink">武仙座Zodiarts</a></p></td>
+<td><p><a href="../Page/武仙座.md" title="wikilink">武仙座</a>Zodiarts</p></td>
 <td><p>番場影人</p></td>
 <td></td>
 <td><p>MOVIE大戰Ultimatum</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/船底座.md" title="wikilink">船底座Zodiarts</a></p></td>
+<td><p><a href="../Page/船底座.md" title="wikilink">船底座</a>Zodiarts</p></td>
 <td><p>平良澄江</p></td>
 <td></td>
 <td><p>小說版</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/船尾座.md" title="wikilink">船尾座Zodiarts</a></p></td>
+<td><p><a href="../Page/船尾座.md" title="wikilink">船尾座</a>Zodiarts</p></td>
 <td><p>坂本遼子</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/船帆座.md" title="wikilink">船帆座Zodiarts</a></p></td>
+<td><p><a href="../Page/船帆座.md" title="wikilink">船帆座</a>Zodiarts</p></td>
 <td><p>穗積聖瑠</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/南船座.md" title="wikilink">南船座Zodiarts</a></p></td>
+<td><p><a href="../Page/南船座.md" title="wikilink">南船座</a>Zodiarts</p></td>
 <td><p>平良澄江、坂本遼子、穗積聖瑠、牧瀨弘樹</p></td>
-<td><p>由<a href="../Page/船底座.md" title="wikilink">船底座Zodiarts</a>、<a href="../Page/船尾座.md" title="wikilink">船尾座Zodiarts</a>、<a href="../Page/船帆座.md" title="wikilink">船帆座Zodiarts和</a><a href="https://zh.wikipedia.org/wiki/羅盤座" title="wikilink">羅盤座Zodiarts合體而成</a>。</p></td>
+<td><p>由<a href="../Page/船底座.md" title="wikilink">船底座</a>Zodiarts、<a href="../Page/船尾座.md" title="wikilink">船尾座</a>Zodiarts、<a href="../Page/船帆座.md" title="wikilink">船帆座</a>Zodiarts和<a href="https://zh.wikipedia.org/wiki/羅盤座" title="wikilink">羅盤座Zodiarts合體而成</a>。</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1933,13 +1861,13 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     本體身份：[園田紗理奈](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")、[立神吼](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")
-    【將園田紗理奈這五個字全部變成[平假名後](../Page/平假名.md "wikilink")，再重新排列組合就會變成さそりなのだ（她是蠍子）】
-    由[小犬座Zodiarts進化而成](../Page/小犬座.md "wikilink")。
+    【將園田紗理奈這五個字全部變成[平假名](../Page/平假名.md "wikilink")後，再重新排列組合就會變成さそりなのだ（她是蠍子）】
+    由[小犬座](../Page/小犬座.md "wikilink")Zodiarts進化而成。
     以踢技作為主要攻擊模式。
     蠍尾含有集合宇宙能量的劇毒，能腐食生物體內組織。
     「超新星」後能力為下半身出現蠍子身體並巨大化，力量跟速度都因此獲得大幅提升。
 
-**[天秤座Zodiarts](../Page/天秤座.md "wikilink")（）**（CV：[天野浩成](../Page/天野浩成.md "wikilink")／香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")、替身演員：）
+**[天秤座](../Page/天秤座.md "wikilink")Zodiarts（）**（CV：[天野浩成](../Page/天野浩成.md "wikilink")／香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")、替身演員：）
 
   -
     本體身份：[速水公平](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")
@@ -1955,7 +1883,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
     【将江本羅馬拼音EMOTO全部倒过来即是OTOME（乙女），在日语中乙女座即是处女座】
     Horoscope中的裁判官與處刑人。
     主要武器為斧杖「Rhodia」，能製造空間扭曲令自身或他人作瞬間轉移，處刑時利用此能力把目標送往[暗星雲](../Page/暗星雲.md "wikilink")。
-    可發出如[黑洞的重力能量球作攻擊](../Page/黑洞.md "wikilink")，任何物質觸及後會被侵蝕。
+    可發出如[黑洞](../Page/黑洞.md "wikilink")的重力能量球作攻擊，任何物質觸及後會被侵蝕。
     背上羽翼除飛行外，還可作防禦之用。
 
 **[獅子座Zodiarts](https://zh.wikipedia.org/wiki/獅子座 "wikilink")（）**（CV：／香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")、替身演員：）
@@ -1967,11 +1895,11 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
     能咆哮出極具威力的音波攻擊。極速的移動能力。
     由於擁有特殊的體質，能夠運用別的天文裝置變身成其他Horoscope，甚至比本尊更能發揮原本的能力。
 
-**[巨蟹座Zodiarts](../Page/巨蟹座.md "wikilink")（）**（CV：／香港配音：[張方正](../Page/張方正.md "wikilink")、替身演員：）
+**[巨蟹座](../Page/巨蟹座.md "wikilink")Zodiarts（）**（CV：／香港配音：[張方正](../Page/張方正.md "wikilink")、替身演員：）
 
   -
     本體身份：[鬼島夏兒](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")、[立神吼](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")
-    【夏兒在名字中的發音為NATSUJI，將夏（KA）和兒（NI）單獨讀出來的[訓讀音同](../Page/訓讀.md "wikilink")「蟹」】
+    【夏兒在名字中的發音為NATSUJI，將夏（KA）和兒（NI）單獨讀出來的[訓讀](../Page/訓讀.md "wikilink")音同「蟹」】
     由[飛馬座Zodiarts進化而成](https://zh.wikipedia.org/wiki/飛馬座 "wikilink")。
     全身覆蓋極為堅硬的外殼，任何重擊都無法作出傷害 。但耐熱程度低，火焰攻擊卻得到明顯的效果。
     左手為鋒利的巨型蟹鉗，任何物體也可輕易切割，但當蟹鉗被封鎖時則大幅減低戰鬥力。
@@ -1979,25 +1907,24 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
     可抽出人體的生理機能並將其實體化為環形，剪斷後被抽出者便陷入昏迷，並可吸入體內作為自己的能量。
     「超新星」後能力為化成巨大化螃蟹身軀，力量跟防禦力都因此獲得大幅提升。
 
-**[白羊座Zodiarts](../Page/白羊座.md "wikilink")（）**（CV：／香港配音：[劉奕希](../Page/劉奕希.md "wikilink")、替身演員：）
+**[白羊座](../Page/白羊座.md "wikilink")Zodiarts（）**（CV：／香港配音：[劉奕希](../Page/劉奕希.md "wikilink")、替身演員：）
 
   -
     本體身份：[山田龍守](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Switcher "wikilink")、[立神吼](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")
-    【龍守這名字取自[金羊毛](https://zh.wikipedia.org/wiki/金羊毛 "wikilink") -
-    [克律索馬羅斯的星座神話裏面](https://zh.wikipedia.org/wiki/克律索馬羅斯 "wikilink")，一頭不眠的凶龍守護金羊毛之意】
-    由[天兔座Zodiarts進化而成](../Page/天兔座.md "wikilink")。
+    【龍守這名字取自[金羊毛](https://zh.wikipedia.org/wiki/金羊毛 "wikilink") - [克律索馬羅斯的星座神話裏面](https://zh.wikipedia.org/wiki/克律索馬羅斯 "wikilink")，一頭不眠的凶龍守護金羊毛之意】
+    由[天兔座](../Page/天兔座.md "wikilink")Zodiarts進化而成。
     別稱「睡眠之使徒」（原文為「」）。
     持有名為「Coppelius」的手杖，用作以催眠來控制別人的心理狀態（精神狀態）使其影響生理，導致行動遲緩甚至長眠不起；相對地也可用來激發人體的精神或腦波，令長眠的人重新甦醒。
     「超新星」後羊角延長且可無限發出電能，肩膀的外型亦有所變化。
 
-**[摩羯座Zodiarts](../Page/摩羯座.md "wikilink")（）**（CV：／香港配音：[關令翹](../Page/關令翹.md "wikilink")、替身演員：）
+**[摩羯座](../Page/摩羯座.md "wikilink")Zodiarts（）**（CV：／香港配音：[關令翹](../Page/關令翹.md "wikilink")、替身演員：）
 
   -
     本體身份：[五藤東次郎](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Switcher "wikilink")、[立神吼](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")
-    【山羊的英文Goat，日文[片假名為ゴート](../Page/片假名.md "wikilink")（音GOTO），與五（GO）藤（TOU）發音相近】
-    由[天琴座Zodiarts進化而成](../Page/天琴座.md "wikilink")。
+    【山羊的英文Goat，日文[片假名](../Page/片假名.md "wikilink")為ゴート（音GOTO），與五（GO）藤（TOU）發音相近】
+    由[天琴座](../Page/天琴座.md "wikilink")Zodiarts進化而成。
     武器是名為「[Uruk](../Page/烏魯克.md "wikilink")」的多弦琴，彈奏出的音頻有高度破壞力。
-    音樂帶出實體化的[五線譜可用作纏擾](../Page/五線譜.md "wikilink")，音符如炸彈般爆破。
+    音樂帶出實體化的[五線譜](../Page/五線譜.md "wikilink")可用作纏擾，音符如炸彈般爆破。
     聽過奏樂的人心智會持續處於亢奮狀態而不能自拔。
     琴音能夠和天文裝置產生共鳴，「超新星」後令共鳴的訊號增幅。
 
@@ -2005,15 +1932,15 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     本體身份：[艾妮露須田](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Switcher "wikilink")、[立神吼](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")、[我望光明](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")
-    【艾妮露須田變成[片假名後](../Page/片假名.md "wikilink")，再重新排列組合就會變成エリダヌス（Eridanus），即是[波江座](../Page/波江座.md "wikilink")，星座神話裏[水瓶座盛載的水是源自此處](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")】
+    【艾妮露須田變成[片假名](../Page/片假名.md "wikilink")後，再重新排列組合就會變成エリダヌス（Eridanus），即是[波江座](../Page/波江座.md "wikilink")，星座神話裏[水瓶座盛載的水是源自此處](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")】
     兩肩上瓶子噴出的水能夠療癒各種傷勢，對Zodiarts或人類同樣有效。但兩肩瓶子同時被破壞後就會失去此能力。
     手執名為「[Nectar](https://zh.wikipedia.org/wiki/Nectar "wikilink")」的鞭子來進行攻擊，濺出的碎片可用作偵測出被附著目標的位置。
 
-**[金牛座Zodiarts](../Page/金牛座.md "wikilink")（）**（CV：／香港配音：[黃積權](../Page/黃積權.md "wikilink")、替身演員：）
+**[金牛座](../Page/金牛座.md "wikilink")Zodiarts（）**（CV：／香港配音：[黃積權](../Page/黃積權.md "wikilink")、替身演員：）
 
   -
     本體身份：[杉浦雄太](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Switcher "wikilink")
-    【杉浦雄太變成[片假名後](../Page/片假名.md "wikilink")，重新排列之後能夠分成タウラス（[金牛座](../Page/金牛座.md "wikilink")）和ギュウ（牛）】
+    【杉浦雄太變成[片假名](../Page/片假名.md "wikilink")後，重新排列之後能夠分成タウラス（[金牛座](../Page/金牛座.md "wikilink")）和ギュウ（牛）】
     手持名為「[Gudanna](https://zh.wikipedia.org/wiki/Gudanna "wikilink")」的手杖，可抽離對方靈魂將其變成沒有自我意識的傀儡並加以控制，亦能通過誓約書的簽署隨意操控簽字人的行為。
     堅韌的軀體加上驚人的爆發力，對近戰非常有利。
 
@@ -2021,8 +1948,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     本體身份：[闇悠木](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Switcher "wikilink")、[城島悠木](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")、[立神吼](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")
-    【城島ユウキ變成羅馬拼音JOUSIMA YUUKI（「島」發音用SIMA代替原本JIMA）後，再重新排列組合就會變成I am
-    SOUJIKYUU（我是雙子宮）】
+    【城島ユウキ變成羅馬拼音JOUSIMA YUUKI（「島」發音用SIMA代替原本JIMA）後，再重新排列組合就會變成I am SOUJIKYUU（我是雙子宮）】
     由[小獅座Zodiarts進化而成](https://zh.wikipedia.org/wiki/小獅座 "wikilink")。
     唯一由天文裝置自行衍生出個體的特殊存在，以城島悠木為原型的另一分身。
     原型和分身均代表兩個極端的人格，一段時間後會互相淘汰再重新合而為一。
@@ -2034,10 +1960,9 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
   -
     本體身份：[黑木蘭](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#假面騎士部 "wikilink")
     【黑木的英文Unbarked Lumber與蘭的英文Orchid首字合在一起為日文讀音UO = 「魚」】
-    由[仙女座Zodiarts進化而成](../Page/仙女座.md "wikilink")。
+    由[仙女座](../Page/仙女座.md "wikilink")Zodiarts進化而成。
     能造出如游泳般的潛行方式接近目標攻擊，可噴出高壓的水流。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中的複製體以[金剛杵狀雙頭叉作為主要武器](https://zh.wikipedia.org/wiki/金剛杵 "wikilink")。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中的複製體以[金剛杵狀雙頭叉作為主要武器](https://zh.wikipedia.org/wiki/金剛杵 "wikilink")。
 
 #### 星塵忍者 ()
 
@@ -2045,7 +1970,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
     本作的雜兵級怪人。由幹部怪人所召喚，以群體的方式出現而略佔優勢。
     以名為「Duswords」的[小太刀為主要武器](../Page/日本刀.md "wikilink")，有時會丟出[煙霧彈](https://zh.wikipedia.org/wiki/煙霧彈 "wikilink")，身手十分敏捷。
     由於被擊破後會散出亮光性塵粒，而得名星塵忍者。
-    [獅子座Zodiarts可特別召喚出兩名戰鬥力比一般更強的星塵忍者](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，外表比平常的多添[歌舞伎鏡獅子的髮型](../Page/歌舞伎.md "wikilink")。
+    [獅子座Zodiarts可特別召喚出兩名戰鬥力比一般更強的星塵忍者](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，外表比平常的多添[歌舞伎](../Page/歌舞伎.md "wikilink")鏡獅子的髮型。
 
 ## 播放列表
 
@@ -2101,7 +2026,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>女・王・選・舉</p></td>
 <td></td>
 <td><ul>
-<li><a href="../Page/蝘蜓座.md" title="wikilink">蝘蜓座Zodiarts</a>（CV：／香港配音：<a href="../Page/吳羨婷.md" title="wikilink">吳羨婷</a>）</li>
+<li><a href="../Page/蝘蜓座.md" title="wikilink">蝘蜓座</a>Zodiarts（CV：／香港配音：<a href="../Page/吳羨婷.md" title="wikilink">吳羨婷</a>）</li>
 </ul></td>
 <td><p>5.5%</p></td>
 <td></td>
@@ -2127,7 +2052,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>-{zh-hk:友・情・內・外;zh-tw:所・謂・友・情;zh-cn:友・情・表・里;zh-sg:友・情・表・里}-</p></td>
 <td></td>
 <td><ul>
-<li><a href="../Page/麒麟座.md" title="wikilink">麒麟座Zodiarts</a>（CV：／香港配音：<a href="../Page/李安邦.md" title="wikilink">李安邦</a>）</li>
+<li><a href="../Page/麒麟座.md" title="wikilink">麒麟座</a>Zodiarts（CV：／香港配音：<a href="../Page/李安邦.md" title="wikilink">李安邦</a>）</li>
 </ul></td>
 <td><p>7.7%</p></td>
 <td></td>
@@ -2257,7 +2182,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>聖・夜・合・唱</p></td>
 <td></td>
 <td><ul>
-<li><a href="../Page/英仙座.md" title="wikilink">英仙座Zodiarts</a>（CV：／香港配音：<a href="../Page/張方正.md" title="wikilink">張方正</a>）</li>
+<li><a href="../Page/英仙座.md" title="wikilink">英仙座</a>Zodiarts（CV：／香港配音：<a href="../Page/張方正.md" title="wikilink">張方正</a>）</li>
 </ul></td>
 <td><p>6.1%</p></td>
 <td></td>
@@ -2413,7 +2338,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>-{zh-hk:變・身・剔・除;zh-tw:變・身・卻・下;zh-cn:变・身・却・下;zh-sg:变・身・却・下}-</p></td>
 <td></td>
 <td><ul>
-<li><a href="../Page/巨蟹座.md" title="wikilink">巨蟹座Zodiarts</a>（CV：／香港配音：<a href="../Page/張方正.md" title="wikilink">張方正</a>）</li>
+<li><a href="../Page/巨蟹座.md" title="wikilink">巨蟹座</a>Zodiarts（CV：／香港配音：<a href="../Page/張方正.md" title="wikilink">張方正</a>）</li>
 </ul></td>
 <td><p>7.1%</p></td>
 <td></td>
@@ -2465,7 +2390,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>昴・星・王・國</p></td>
 <td></td>
 <td><ul>
-<li><a href="../Page/白羊座.md" title="wikilink">白羊座Zodiarts</a>（CV：／香港配音：<a href="../Page/劉奕希.md" title="wikilink">劉奕希</a>）</li>
+<li><a href="../Page/白羊座.md" title="wikilink">白羊座</a>Zodiarts（CV：／香港配音：<a href="../Page/劉奕希.md" title="wikilink">劉奕希</a>）</li>
 </ul></td>
 <td><p>7.4%</p></td>
 <td><p><a href="../Page/三條陸.md" title="wikilink">三條陸</a></p></td>
@@ -2491,7 +2416,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>古・都・騷・亂</p></td>
 <td></td>
 <td><ul>
-<li><a href="../Page/天秤座.md" title="wikilink">天秤座Zodiarts</a>（CV：<a href="../Page/天野浩成.md" title="wikilink">天野浩成</a>／香港配音：<a href="https://zh.wikipedia.org/wiki/張裕東" title="wikilink">張裕東</a>）</li>
+<li><a href="../Page/天秤座.md" title="wikilink">天秤座</a>Zodiarts（CV：<a href="../Page/天野浩成.md" title="wikilink">天野浩成</a>／香港配音：<a href="https://zh.wikipedia.org/wiki/張裕東" title="wikilink">張裕東</a>）</li>
 </ul></td>
 <td><p>5.4%</p></td>
 <td></td>
@@ -2517,7 +2442,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>-{zh-hk:怪・人・廣・播;zh-tw:怪・人・放・送;zh-cn:怪・人・放・送;zh-sg:怪・人・放・送}-</p></td>
 <td></td>
 <td><ul>
-<li><a href="../Page/摩羯座.md" title="wikilink">摩羯座Zodiarts</a>（CV：／香港配音：<a href="../Page/關令翹.md" title="wikilink">關令翹</a>)</li>
+<li><a href="../Page/摩羯座.md" title="wikilink">摩羯座</a>Zodiarts（CV：／香港配音：<a href="../Page/關令翹.md" title="wikilink">關令翹</a>)</li>
 </ul></td>
 <td><p>6.5%</p></td>
 <td></td>
@@ -2569,7 +2494,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>學・園・法・度</p></td>
 <td></td>
 <td><ul>
-<li><a href="../Page/金牛座.md" title="wikilink">金牛座Zodiarts</a>（CV：／香港配音：<a href="../Page/黃積權.md" title="wikilink">黃積權</a>）</li>
+<li><a href="../Page/金牛座.md" title="wikilink">金牛座</a>Zodiarts（CV：／香港配音：<a href="../Page/黃積權.md" title="wikilink">黃積權</a>）</li>
 </ul></td>
 <td><p>5.9%</p></td>
 <td></td>
@@ -2699,9 +2624,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
 ### 《蠟筆小新》合作企畫
 
-  - 為宣傳**《[假面騎士x超級戰隊
-    超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》**和同樣以宇宙為主題的**《[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")》**20周年紀念作品**《[蠟筆小新
-    風起雲湧！我的宇宙公主！](https://zh.wikipedia.org/wiki/蠟筆小新_風起雲湧！我的宇宙公主！ "wikilink")》**兩部電影，繼**《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》**後，相隔五年再度與假面騎士系列合作。2012年4月13日至29日兩部作品分別播放兩集特別篇劇場，合共4集。
+  - 為宣傳**《[假面騎士x超級戰隊 超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》**和同樣以宇宙為主題的**《[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")》**20周年紀念作品**《[蠟筆小新 風起雲湧！我的宇宙公主！](https://zh.wikipedia.org/wiki/蠟筆小新_風起雲湧！我的宇宙公主！ "wikilink")》**兩部電影，繼**《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》**後，相隔五年再度與假面騎士系列合作。2012年4月13日至29日兩部作品分別播放兩集特別篇劇場，合共4集。
 
 | 話數  | 標題          | 播放節目                                                         | 播放日期       |
 | --- | ----------- | ------------------------------------------------------------ | ---------- |
@@ -2712,27 +2635,19 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
 ### 劇場版
 
-  - **《[假面騎士OOO WONDERFUL
-    將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")》**
-  - **《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》**
-  - **《[假面騎士x超級戰隊
-    超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》**
-  - **《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》**
-  - **《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》**
-  - **《[假面騎士x超級戰隊x宇宙刑事
-    超級英雄大戰Z](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊x宇宙刑事_超級英雄大戰Z "wikilink")》**
-  - 《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
+  - **《[假面騎士OOO WONDERFUL 將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")》**
+  - **《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》**
+  - **《[假面騎士x超級戰隊 超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》**
+  - **《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》**
+  - **《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》**
+  - **《[假面騎士x超級戰隊x宇宙刑事 超級英雄大戰Z](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊x宇宙刑事_超級英雄大戰Z "wikilink")》**
+  - 《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
 
 ### 映像商品化
 
   - TV劇集從2012年2月21日起，全12卷（每卷4話）[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD以每月順序發行](https://zh.wikipedia.org/wiki/DVD "wikilink")。
       - **《演員座談會》**：（原題：）收錄在內的特輯，劇中主要演員以座談會形式作對話。
-      - **《假面騎士部．部會
-        Quiz．假面騎士都市傳說！！》**：（原題：）收錄在內的特輯，以歷代假面騎士的知識為題，考驗劇中7名主要演員的問答環節。
+      - **《假面騎士部．部會 Quiz．假面騎士都市傳說！！》**：（原題：）收錄在內的特輯，以歷代假面騎士的知識為題，考驗劇中7名主要演員的問答環節。
 
 | 發售日期        | 收錄卷集   | 司儀               | 主題      |
 | ----------- | ------ | ---------------- | ------- |
@@ -2749,8 +2664,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 | 2012年12月21日 | Vol.11 | 大文字隼（冨森Justin 飾） | 最終考試    |
 | 2013年1月21日  | Vol.12 |                  |         |
 
-  - **《Climax Episode 31話32話 導演剪輯版 －
-    天星之絆》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2012年10月21日發行）
+  - **《Climax Episode 31話32話 導演剪輯版 － 天星之絆》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2012年10月21日發行）
 
 <!-- end list -->
 
@@ -2761,8 +2675,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
 <!-- end list -->
 
-  - **《Final Episode
-    導演剪輯版》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2013年2月21日發行）
+  - **《Final Episode 導演剪輯版》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2013年2月21日發行）
 
 <!-- end list -->
 
@@ -2792,8 +2705,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
 ### 電視遊戲
 
-  - **《[假面騎士 Climax Heroes
-    Fourze](../Page/假面騎士_Climax_Heroes.md "wikilink")》**（2011年12月1日發行）
+  - **《[假面騎士 Climax Heroes Fourze](../Page/假面騎士_Climax_Heroes.md "wikilink")》**（2011年12月1日發行）
   - **《》**（2011年8月4日發行）
   - **《All Rider － Rider Generation2》**（2012年8月2日發行）
   - **《假面騎士 超（Super）Climax Heroes》**（2012年11月29日發行）
@@ -2824,25 +2736,21 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
 ### 網路電影
 
-  - **《[網路版 - 假面騎士x超級戰隊 超級英雄大變
-    〜犯人到底是誰〜](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰#其他相關放映 "wikilink")》**
+  - **《[網路版 - 假面騎士x超級戰隊 超級英雄大變 〜犯人到底是誰〜](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰#其他相關放映 "wikilink")》**
 
 <!-- end list -->
 
   -
-    2012年4月1日東映特撮BB的的付費配信，也可以說是電影**《[假面騎士x超級戰隊
-    超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》**本篇外所附帶的特別番外篇。
+    2012年4月1日東映特撮BB的的付費配信，也可以說是電影**《[假面騎士x超級戰隊 超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》**本篇外所附帶的特別番外篇。
 
 <!-- end list -->
 
-  - **《[網路版 - 假面騎士Fourze
-    大家的授業來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了!#其他相關放映 "wikilink")》**
+  - **《[網路版 - 假面騎士Fourze 大家的授業來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了!#其他相關放映 "wikilink")》**
 
 <!-- end list -->
 
   -
-    2012年7月13日東映特撮BB的的付費配信，也可以說是電影**《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》**本篇外所附帶的特別番外篇。
+    2012年7月13日東映特撮BB的的付費配信，也可以說是電影**《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》**本篇外所附帶的特別番外篇。
 
 ### 小說
 
@@ -2853,8 +2761,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
   -
     （原題：）
     [講談社出版](https://zh.wikipedia.org/wiki/講談社 "wikilink")，2014年2月28日發行，作者塚田英明。
-    背景發生於正篇最終話過後至劇場版《假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum》五年後時空之間的一段故事。
+    背景發生於正篇最終話過後至劇場版《假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum》五年後時空之間的一段故事。
     故事描述舉行畢業典禮前受到多名Zodiarts襲擊；謎一般的敵人**假面騎士Icarus**登場；從人造衞星M-BUS上回歸的園田紗理奈、鬼島夏兒和杉浦雄太三人的去向；及如月弦太朗日後成為教師的主因。
 
 ## 樂曲
@@ -2863,20 +2770,15 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   - 『**Switch On！**』
 
-作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作／編曲： /
-歌：[土屋安娜](../Page/土屋安娜.md "wikilink")
+作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作／編曲： / 歌：[土屋安娜](../Page/土屋安娜.md "wikilink")
 
   - \-{『**假面騎士Switch On！**』}-（台灣版）\[14\]
 
-作詞：[香蕉哥哥](../Page/香蕉哥哥.md "wikilink") / 作曲： /
-編曲：[西瓜哥哥](../Page/西瓜哥哥.md "wikilink") /
-歌：[草莓姐姐](../Page/草莓姐姐.md "wikilink")
+作詞：[香蕉哥哥](../Page/香蕉哥哥.md "wikilink") / 作曲： / 編曲：[西瓜哥哥](../Page/西瓜哥哥.md "wikilink") / 歌：[草莓姐姐](../Page/草莓姐姐.md "wikilink")
 
   - 『**幪面超人Switch On！**』（香港版）\[15\]
 
-作詞：[天　旋](../Page/天旋.md "wikilink") / 作曲： /
-編曲：[徐洛鏘](../Page/徐洛鏘.md "wikilink") /
-歌：[王君馨](../Page/王君馨.md "wikilink")
+作詞：[天　旋](../Page/天旋.md "wikilink") / 作曲： / 編曲：[徐洛鏘](../Page/徐洛鏘.md "wikilink") / 歌：[王君馨](../Page/王君馨.md "wikilink")
 
 ### 插曲
 
@@ -2910,8 +2812,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
 「**咲いて**」 （第26話、最終話）
 
-  - 演唱：[KAMEN RIDER
-    GIRLS](https://zh.wikipedia.org/wiki/KAMEN_RIDER_GIRLS "wikilink")
+  - 演唱：[KAMEN RIDER GIRLS](https://zh.wikipedia.org/wiki/KAMEN_RIDER_GIRLS "wikilink")
   - 作詞：緋村剛、長野典二
   - 作曲：長野典二
   - 編曲：
@@ -2954,8 +2855,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
 ### 獎項
 
-  - 2015年4月19日：由王君馨演唱之香港區粵語版片頭曲《Switch
-    On！》於[新城電台舉辦的](../Page/新城電台.md "wikilink")「[新城勁爆勵志兒歌頒獎禮](../Page/新城勁爆勵志兒歌頒獎禮.md "wikilink")2014」內奪得「新城勁爆勵志兒歌」獎。
+  - 2015年4月19日：由王君馨演唱之香港區粵語版片頭曲《Switch On！》於[新城電台](../Page/新城電台.md "wikilink")舉辦的「[新城勁爆勵志兒歌頒獎禮](../Page/新城勁爆勵志兒歌頒獎禮.md "wikilink")2014」內奪得「新城勁爆勵志兒歌」獎。
 
 ## 超級英雄時間關連項目
 
@@ -2970,20 +2870,11 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   - [朝日電視台官网](http://www.tv-asahi.co.jp/fourze/)（因朝日電視台清除網站下失連）
   - [東映官网](http://www.toei.co.jp/tv/fourze/)
-  - [-{zh-cn:假面骑士; zh-tw:假面騎士; zh-hk:幪面超人;}-Fourze 介紹（Ban Dai Hong
-    Kong）](http://www.youtube.com/watch?v=NQIO7Hk8lSA/)
+  - [-{zh-cn:假面骑士; zh-tw:假面騎士; zh-hk:幪面超人;}-Fourze 介紹（Ban Dai Hong Kong）](http://www.youtube.com/watch?v=NQIO7Hk8lSA/)
 
 ## 參考資料
 
-[Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink")
-[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
-[Category:東森電視外購電視劇](https://zh.wikipedia.org/wiki/Category:東森電視外購電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:不良少年及少女主角題材電視劇](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材電視劇 "wikilink")
-[Category:太空背景電視劇](https://zh.wikipedia.org/wiki/Category:太空背景電視劇 "wikilink")
-[Category:星座題材電視劇](https://zh.wikipedia.org/wiki/Category:星座題材電視劇 "wikilink")
+[Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink") [Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink") [Category:東森電視外購電視劇](https://zh.wikipedia.org/wiki/Category:東森電視外購電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:不良少年及少女主角題材電視劇](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材電視劇 "wikilink") [Category:太空背景電視劇](https://zh.wikipedia.org/wiki/Category:太空背景電視劇 "wikilink") [Category:星座題材電視劇](https://zh.wikipedia.org/wiki/Category:星座題材電視劇 "wikilink")
 
 1.  在OOO最終話ED時曾出現手握天文裝置的歌星和城島二人，顯見兩部作品之關聯性。
 2.  《假面騎士Fourze》最終話時操真晴人出現在大文字隼對風城美羽求婚。
@@ -2995,7 +2886,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 8.  日本關東地區平均收視率。
 9.  11月6日停播一次。
 10. 1月1日停播一次。
-11. 2月21日翡翠台因當日播映綜藝節目「[譚詠麟笑唱人生四十年足本放送](../Page/譚詠麟.md "wikilink")」而暫停播映一次。
+11. 2月21日翡翠台因當日播映綜藝節目「[譚詠麟](../Page/譚詠麟.md "wikilink")笑唱人生四十年足本放送」而暫停播映一次。
 12. 6月17日停播一次。
 13. 7月29日停播一次。
 14. 歌名及歌星資料來自東森幼幼台節目

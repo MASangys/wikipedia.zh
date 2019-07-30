@@ -1,4 +1,4 @@
-《**LaLa徐佳瑩首張創作專輯**》是[徐佳瑩的首張全創作音樂專輯](../Page/徐佳瑩.md "wikilink")，於2009年5月29日發行，此專輯收錄了新歌和之前[第三屆《超級星光大道》演唱過的歌](../Page/超級星光大道_\(第三屆\).md "wikilink")，最早出現的歌曲為《一樣的月光》。
+《**LaLa徐佳瑩首張創作專輯**》是[徐佳瑩](../Page/徐佳瑩.md "wikilink")的首張全創作音樂專輯，於2009年5月29日發行，此專輯收錄了新歌和之前[第三屆《超級星光大道》演唱過的歌](../Page/超級星光大道_\(第三屆\).md "wikilink")，最早出現的歌曲為《一樣的月光》。
 
 ## [超級星光大道 (第三屆)](../Page/超級星光大道_\(第三屆\).md "wikilink")
 
@@ -178,9 +178,7 @@
 
 </div>
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:徐佳瑩音樂專輯](https://zh.wikipedia.org/wiki/Category:徐佳瑩音樂專輯 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:徐佳瑩音樂專輯](https://zh.wikipedia.org/wiki/Category:徐佳瑩音樂專輯 "wikilink")
 
 1.  [2010金曲獎入圍公佈](http://stars.udn.com/star/StarsContent/Content25434/)
 2.  [2010第21屆金曲獎入圍名單](http://stars.udn.com/star/StarsContent/Content25433/#27)

@@ -1,5 +1,4 @@
-《**gravity**》（地心引力）是一首日本樂團[月之海的歌曲](../Page/月之海.md "wikilink")，其[單曲在](https://zh.wikipedia.org/wiki/單曲 "wikilink")2000年3月29日發行，一共收錄三首曲子。這首歌同時也作為日本電影『另一個天堂』（Another
-Heaven）的主題曲。
+《**gravity**》（地心引力）是一首日本樂團[月之海](../Page/月之海.md "wikilink")的歌曲，其[單曲在](https://zh.wikipedia.org/wiki/單曲 "wikilink")2000年3月29日發行，一共收錄三首曲子。這首歌同時也作為日本電影『另一個天堂』（Another Heaven）的主題曲。
 
 ## 曲目
 
@@ -8,7 +7,7 @@ Heaven）的主題曲。
 <!-- end list -->
 
 1.  *gravity*
-    原曲和歌詞由[INORAN所編寫](../Page/INORAN.md "wikilink")，而歌詞經過[RYUICHI修改而完成](../Page/河村隆一.md "wikilink")；全曲以十六拍構成主要節奏。INORAN本人在談及這首歌時，曾描述它是一首雖然在春季發行，曲調卻充滿秋季氛圍的歌曲。
+    原曲和歌詞由[INORAN](../Page/INORAN.md "wikilink")所編寫，而歌詞經過[RYUICHI修改而完成](../Page/河村隆一.md "wikilink")；全曲以十六拍構成主要節奏。INORAN本人在談及這首歌時，曾描述它是一首雖然在春季發行，曲調卻充滿秋季氛圍的歌曲。
     在2000年月之海解散後，INORAN也曾經以個人身分在其他現場表演中重新翻唱過這首歌曲。
 2.  *inside you*
     為月之海錄製的歌曲中唯一由[真矢創作詞曲的作品](https://zh.wikipedia.org/wiki/真矢 "wikilink")，之後由所有成員共同譜寫而成。
@@ -23,6 +22,4 @@ Heaven）的主題曲。
 
 ## 參考資料
 
-[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
-[Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink")

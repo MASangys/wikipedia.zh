@@ -1,4 +1,4 @@
-**nano.RIPE**是[日本的](../Page/日本.md "wikilink")4人[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。nano.RIPE成立於2008年，發布了一張單曲，三張專輯，在2010年與[Lantis簽約](../Page/Lantis.md "wikilink")。於2010年9月發布了自己的出道單曲。
+**nano.RIPE**是[日本](../Page/日本.md "wikilink")的4人[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。nano.RIPE成立於2008年，發布了一張單曲，三張專輯，在2010年與[Lantis](../Page/Lantis.md "wikilink")簽約。於2010年9月發布了自己的出道單曲。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 <!-- end list -->
 
   - 主音，吉他。
-  - 生日3月12日，A型，[千葉縣出生](../Page/千葉縣.md "wikilink")。
+  - 生日3月12日，A型，[千葉縣](../Page/千葉縣.md "wikilink")出生。
   - 作曲，作詞。
 
 <!-- end list -->
@@ -19,7 +19,7 @@
 <!-- end list -->
 
   - 吉他。
-  - 生日6月5日，O型，[秋田縣](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")[湯澤市出生](../Page/湯澤市.md "wikilink")。
+  - 生日6月5日，O型，[秋田縣](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")[湯澤市](../Page/湯澤市.md "wikilink")出生。
   - 隊長，作曲。
 
 <!-- end list -->
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   - 貝斯。
-  - 生日7月18日，A型，[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")[新發田市出生](../Page/新發田市.md "wikilink")。
+  - 生日7月18日，A型，[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")[新發田市](../Page/新發田市.md "wikilink")出生。
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 <!-- end list -->
 
   - 鼓手。
-  - 生日10月12日，A型，[東京都出生](../Page/東京都.md "wikilink")。
+  - 生日10月12日，A型，[東京都](../Page/東京都.md "wikilink")出生。
   - 2013年3月22日正式加入。[青山純的兒子](https://zh.wikipedia.org/wiki/青山純 "wikilink")。
   - 2018年8月21日因急性心臟衰竭離世，得年29歲。
 
@@ -66,8 +66,7 @@
 
   - 88（自主制作，2008年3月7日）
 
-  - （BEe
-    Project/（[Being](https://zh.wikipedia.org/wiki/Being "wikilink")），2008年9月10日）
+  - （BEe Project/（[Being](https://zh.wikipedia.org/wiki/Being "wikilink")），2008年9月10日）
 
   - （BEe Project/White Dream（Being），2009年5月13日）
 
@@ -330,7 +329,4 @@ LACA-15514（通常盤）</p></td>
 
   -
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")

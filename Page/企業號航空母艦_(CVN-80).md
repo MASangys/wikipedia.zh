@@ -1,8 +1,6 @@
-**企業號航空母艦**（，[舷號](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")**CVN-80**），是[福特級核動力航空母艦的三號艦](https://zh.wikipedia.org/wiki/福特級核動力航空母艦 "wikilink")。原本尚未決定艦名的CVN-80是在2012年12月1日[舊企業號退役儀式中](../Page/企業號航空母艦_\(CVN-65\).md "wikilink")，由正在外訪的[美國海軍部長](https://zh.wikipedia.org/wiki/美國海軍部長 "wikilink")（Ray
-Mabus）以先行錄製的影片宣佈CVN-80將襲用此一傳奇艦名，成為美國海軍史上第三艘企業號航空母艦，與第九艘使用該名的軍艦。
+**企業號航空母艦**（，[舷號](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")**CVN-80**），是[福特級核動力航空母艦的三號艦](https://zh.wikipedia.org/wiki/福特級核動力航空母艦 "wikilink")。原本尚未決定艦名的CVN-80是在2012年12月1日[舊企業號退役儀式中](../Page/企業號航空母艦_\(CVN-65\).md "wikilink")，由正在外訪的[美國海軍部長](https://zh.wikipedia.org/wiki/美國海軍部長 "wikilink")（Ray Mabus）以先行錄製的影片宣佈CVN-80將襲用此一傳奇艦名，成為美國海軍史上第三艘企業號航空母艦，與第九艘使用該名的軍艦。
 
-預計於2018年下水進行儀裝測試、2025年時正式服役的企業號，預定用於取代屆時已服役超過50年的[尼米茲級核動力航空母艦二號艦](https://zh.wikipedia.org/wiki/尼米茲級核動力航空母艦 "wikilink")——[艾森豪號](https://zh.wikipedia.org/wiki/德懷特.D.艾森豪號航空母艦 "wikilink")（USS
-Dwight D. Eisenhower CVN-69）。\[1\]
+預計於2018年下水進行儀裝測試、2025年時正式服役的企業號，預定用於取代屆時已服役超過50年的[尼米茲級核動力航空母艦二號艦](https://zh.wikipedia.org/wiki/尼米茲級核動力航空母艦 "wikilink")——[艾森豪號](https://zh.wikipedia.org/wiki/德懷特.D.艾森豪號航空母艦 "wikilink")（USS Dwight D. Eisenhower CVN-69）。\[1\]
 
 ## 艦名由來
 
@@ -16,5 +14,4 @@ Dwight D. Eisenhower CVN-69）。\[1\]
 
 [Category:福特級核動力航空母艦](https://zh.wikipedia.org/wiki/Category:福特級核動力航空母艦 "wikilink")
 
-1.  [Navy’s Next Ford-Class Aircraft Carrier to be Named
-    Enterprise](http://www.defense.gov//releases/release.aspx?releaseid=15708)
+1.  [Navy’s Next Ford-Class Aircraft Carrier to be Named Enterprise](http://www.defense.gov//releases/release.aspx?releaseid=15708)

@@ -1,6 +1,4 @@
-[Schematic_diagram_showing_Polyclonal_Response_by_B_cells_against_Linear_Epitopes.PNG](https://zh.wikipedia.org/wiki/File:Schematic_diagram_showing_Polyclonal_Response_by_B_cells_against_Linear_Epitopes.PNG "fig:Schematic_diagram_showing_Polyclonal_Response_by_B_cells_against_Linear_Epitopes.PNG")
-[Markers_of_non-self.jpg](https://zh.wikipedia.org/wiki/File:Markers_of_non-self.jpg "fig:Markers_of_non-self.jpg")
-**多株B細胞反應**（）是一種[哺乳類](https://zh.wikipedia.org/wiki/哺乳類 "wikilink")[後天免疫系統所表現的自然免疫反應](https://zh.wikipedia.org/wiki/後天免疫系統 "wikilink")。它確保多[株](https://zh.wikipedia.org/wiki/細胞株_\(B細胞\) "wikilink")[B細胞能辨識單獨](https://zh.wikipedia.org/wiki/B細胞 "wikilink")[抗原](../Page/抗原.md "wikilink")，進而攻擊抗原被抗體辨識或結合的部分，即[抗原決定位](https://zh.wikipedia.org/wiki/抗原決定位 "wikilink")（）\[1\]\[2\]。
+[Schematic_diagram_showing_Polyclonal_Response_by_B_cells_against_Linear_Epitopes.PNG](https://zh.wikipedia.org/wiki/File:Schematic_diagram_showing_Polyclonal_Response_by_B_cells_against_Linear_Epitopes.PNG "fig:Schematic_diagram_showing_Polyclonal_Response_by_B_cells_against_Linear_Epitopes.PNG") [Markers_of_non-self.jpg](https://zh.wikipedia.org/wiki/File:Markers_of_non-self.jpg "fig:Markers_of_non-self.jpg") **多株B細胞反應**（）是一種[哺乳類](https://zh.wikipedia.org/wiki/哺乳類 "wikilink")[後天免疫系統所表現的自然免疫反應](https://zh.wikipedia.org/wiki/後天免疫系統 "wikilink")。它確保多[株](https://zh.wikipedia.org/wiki/細胞株_\(B細胞\) "wikilink")[B細胞能辨識單獨](https://zh.wikipedia.org/wiki/B細胞 "wikilink")[抗原](../Page/抗原.md "wikilink")，進而攻擊抗原被抗體辨識或結合的部分，即[抗原決定位](https://zh.wikipedia.org/wiki/抗原決定位 "wikilink")（）\[1\]\[2\]。
 
 在正常的免疫反應中，免疫系統能辨識[病原體](https://zh.wikipedia.org/wiki/病原體 "wikilink")（如：[細菌](https://zh.wikipedia.org/wiki/細菌 "wikilink")）的特定部位為外來物（非自我），進而消滅或有效中和病原體，以降低其潛在的破壞性。這種能被辨識的物質稱為[抗原](../Page/抗原.md "wikilink")。免疫系統有多種對付抗原的途徑；其中一種免疫機制稱為[體液免疫](https://zh.wikipedia.org/wiki/體液免疫 "wikilink")，即由B細胞製造[抗體對抗抗原](https://zh.wikipedia.org/wiki/抗體 "wikilink")。抗體具可溶性，能免去抗原和B細胞之間的直接接觸。
 
@@ -13,9 +11,7 @@
 ## 外部連結
 
   -
-[Category:免疫系統](https://zh.wikipedia.org/wiki/Category:免疫系統 "wikilink")
-[Category:免疫學](https://zh.wikipedia.org/wiki/Category:免疫學 "wikilink")
-[Category:細胞生物學](https://zh.wikipedia.org/wiki/Category:細胞生物學 "wikilink")
+[Category:免疫系統](https://zh.wikipedia.org/wiki/Category:免疫系統 "wikilink") [Category:免疫學](https://zh.wikipedia.org/wiki/Category:免疫學 "wikilink") [Category:細胞生物學](https://zh.wikipedia.org/wiki/Category:細胞生物學 "wikilink")
 
 1.
 2.

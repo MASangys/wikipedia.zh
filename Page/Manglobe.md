@@ -1,10 +1,10 @@
-，是[日本曾經存在的](../Page/日本.md "wikilink")[動畫製作公司](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，2002年成立，2015年10月1日宣告[破產](../Page/破產.md "wikilink")。
+，是[日本](../Page/日本.md "wikilink")曾經存在的[動畫製作公司](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，2002年成立，2015年10月1日宣告[破產](../Page/破產.md "wikilink")。
 
 ## 概要、沿革
 
 2002年2月由[SUNRISE製作人小林真一郎與河内山隆創立](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")，首部製作動畫為2004年的《[混沌武士](../Page/混沌武士.md "wikilink")》。
 
-2009年之前，主營如《混沌武士》和《[死亡代理人](../Page/死亡代理人.md "wikilink")》的原創動畫製作，也經營《[戰國BASARA](https://zh.wikipedia.org/wiki/戰國BASARA "wikilink")》等遊戲的影片部分製作和其他公司的[統包業務](../Page/統包.md "wikilink")。
+2009年之前，主營如《混沌武士》和《[死亡代理人](../Page/死亡代理人.md "wikilink")》的原創動畫製作，也經營《[戰國BASARA](https://zh.wikipedia.org/wiki/戰國BASARA "wikilink")》等遊戲的影片部分製作和其他公司的[統包](../Page/統包.md "wikilink")業務。
 
 2010年後，業務以《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》作品的動畫化，及原作改編作品的動畫製作為主。
 
@@ -37,60 +37,40 @@
 
 ### 劇場版
 
-  - [劇場版 旋風管家 HEAVEN IS A PLACE ON
-    EARTH](../Page/劇場版_旋風管家_HEAVEN_IS_A_PLACE_ON_EARTH.md "wikilink")
-    （2011年）
+  - [劇場版 旋風管家 HEAVEN IS A PLACE ON EARTH](../Page/劇場版_旋風管家_HEAVEN_IS_A_PLACE_ON_EARTH.md "wikilink") （2011年）
   - [虐殺器官](../Page/虐殺器官.md "wikilink")（製作終止，由  接替）
 
 ### OVA
 
-  - [只有神知道的世界系列](../Page/只有神知道的世界.md "wikilink")
+  - [只有神知道的世界](../Page/只有神知道的世界.md "wikilink")系列
       - 只有神知道的世界 4人與偶像 （2011年）
       - 只有神知道的世界 天理篇 （2012年）
       - 魔法少女☆偶像之星 花音100% （2013年）
-  - [旋風管家 vol.A](https://zh.wikipedia.org/wiki/旋風管家_\(動畫\) "wikilink")
-    （2014年）
+  - [旋風管家 vol.A](https://zh.wikipedia.org/wiki/旋風管家_\(動畫\) "wikilink") （2014年）
 
 ### 遊戲
 
-  - [戦国BASARA](https://zh.wikipedia.org/wiki/戦国BASARA "wikilink") （影片部份
-    2005年）
+  - [戦国BASARA](https://zh.wikipedia.org/wiki/戦国BASARA "wikilink") （影片部份 2005年）
 
 ### Web Comic
 
-  - [TRIP TREK](https://zh.wikipedia.org/wiki/TRIP_TREK "wikilink")
-    （2009年）
+  - [TRIP TREK](https://zh.wikipedia.org/wiki/TRIP_TREK "wikilink") （2009年）
 
 ### 參與制作
 
-  - [蔷薇少女
-    彷如梦境](../Page/薔薇少女.md "wikilink")（動畫製作：[NOMAD](../Page/Nomad_\(公司\).md "wikilink")，[OP製作](https://zh.wikipedia.org/wiki/OP "wikilink")，2005年）
-  - [天保異聞 妖奇士](../Page/天保異聞_妖奇士.md "wikilink")
-    （動畫製作：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")，全片制作協力，2006年-2007年）
-  - [鬼面騎士 THE SKULL MAN](../Page/鬼面騎士.md "wikilink")
-    （動畫製作：BONES，全片制作協力，2007年）
-  - [天元突破 紅蓮螺巖](../Page/天元突破_紅蓮螺巖.md "wikilink")
-    （動畫製作：[GAINAX](../Page/GAINAX.md "wikilink")，全片制作協力，2007年）
-  - [英雄時代](../Page/英雄時代_\(動畫\).md "wikilink")
-    （動畫製作：[XEBEC](../Page/XEBEC.md "wikilink")，全片制作協力，2007年）
-  - [BLUE DROP
-    〜天使們的戲曲〜](https://zh.wikipedia.org/wiki/BLUE_DROP "wikilink")
-    （動畫製作：BeSTACK・[旭Production](../Page/旭Production.md "wikilink")，全片制作協力，2007年）
-  - [Pandora Hearts](../Page/潘朵拉之心.md "wikilink")
-    （動畫製作：XEBEC，全片制作協力，2009年）
-  - [BREAK BLADE 破刃之劍 第二章 訣別之路](../Page/破刃之劍.md "wikilink")
-    （動畫製作：[Production
-    I.G](../Page/Production_I.G.md "wikilink")・XEBEC，制作協力，2010年）
-  - [美食獵人TORIKO](../Page/美食獵人TORIKO.md "wikilink")
-    （動畫製作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，全片製作協力，2012年）
-  - [Smile 光之美少女！](../Page/Smile_光之美少女！.md "wikilink")
-    （動畫製作：東映動畫，全片製作協力，2012年）
-  - [夏雪之約](../Page/夏雪之約.md "wikilink")
-    （動畫製作：[動畫工房](../Page/動畫工房.md "wikilink")，全片製作協力，2012年）
-  - [心跳！光之美少女](https://zh.wikipedia.org/wiki/心跳！光之美少女 "wikilink")
-    （動畫製作：東映動畫，全片製作協力，2013年）
-  - [黑執事 Book of Circus](../Page/黑執事.md "wikilink") （動畫製作：[A-1
-    Pictures](../Page/A-1_Pictures.md "wikilink")，全片製作協力，2014年）
+  - [蔷薇少女 彷如梦境](../Page/薔薇少女.md "wikilink")（動畫製作：[NOMAD](../Page/Nomad_\(公司\).md "wikilink")，[OP製作](https://zh.wikipedia.org/wiki/OP "wikilink")，2005年）
+  - [天保異聞 妖奇士](../Page/天保異聞_妖奇士.md "wikilink") （動畫製作：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")，全片制作協力，2006年-2007年）
+  - [鬼面騎士 THE SKULL MAN](../Page/鬼面騎士.md "wikilink") （動畫製作：BONES，全片制作協力，2007年）
+  - [天元突破 紅蓮螺巖](../Page/天元突破_紅蓮螺巖.md "wikilink") （動畫製作：[GAINAX](../Page/GAINAX.md "wikilink")，全片制作協力，2007年）
+  - [英雄時代](../Page/英雄時代_\(動畫\).md "wikilink") （動畫製作：[XEBEC](../Page/XEBEC.md "wikilink")，全片制作協力，2007年）
+  - [BLUE DROP 〜天使們的戲曲〜](https://zh.wikipedia.org/wiki/BLUE_DROP "wikilink") （動畫製作：BeSTACK・[旭Production](../Page/旭Production.md "wikilink")，全片制作協力，2007年）
+  - [Pandora Hearts](../Page/潘朵拉之心.md "wikilink") （動畫製作：XEBEC，全片制作協力，2009年）
+  - [BREAK BLADE 破刃之劍 第二章 訣別之路](../Page/破刃之劍.md "wikilink") （動畫製作：[Production I.G](../Page/Production_I.G.md "wikilink")・XEBEC，制作協力，2010年）
+  - [美食獵人TORIKO](../Page/美食獵人TORIKO.md "wikilink") （動畫製作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，全片製作協力，2012年）
+  - [Smile 光之美少女！](../Page/Smile_光之美少女！.md "wikilink") （動畫製作：東映動畫，全片製作協力，2012年）
+  - [夏雪之約](../Page/夏雪之約.md "wikilink") （動畫製作：[動畫工房](../Page/動畫工房.md "wikilink")，全片製作協力，2012年）
+  - [心跳！光之美少女](https://zh.wikipedia.org/wiki/心跳！光之美少女 "wikilink") （動畫製作：東映動畫，全片製作協力，2013年）
+  - [黑執事 Book of Circus](../Page/黑執事.md "wikilink") （動畫製作：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")，全片製作協力，2014年）
 
 ## 参见
 
@@ -102,13 +82,7 @@
 
   - [官方網站](http://manglobe.net/) 已封闭
 
-[Category:Manglobe](https://zh.wikipedia.org/wiki/Category:Manglobe "wikilink")
-[Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink")
-[Category:2016年結業公司](https://zh.wikipedia.org/wiki/Category:2016年結業公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
-[Category:2002年日本建立](https://zh.wikipedia.org/wiki/Category:2002年日本建立 "wikilink")
-[Category:2015年日本廢除](https://zh.wikipedia.org/wiki/Category:2015年日本廢除 "wikilink")
+[Category:Manglobe](https://zh.wikipedia.org/wiki/Category:Manglobe "wikilink") [Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink") [Category:2016年結業公司](https://zh.wikipedia.org/wiki/Category:2016年結業公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:2002年日本建立](https://zh.wikipedia.org/wiki/Category:2002年日本建立 "wikilink") [Category:2015年日本廢除](https://zh.wikipedia.org/wiki/Category:2015年日本廢除 "wikilink")
 
 1.
 2.

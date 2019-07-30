@@ -1,4 +1,4 @@
-**Kiss**是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第十六張單曲](../Page/倉木麻衣.md "wikilink")，於2003年4月30日發行。初動7萬，累積銷量11萬。本作是倉木麻衣本人最後一支取得十萬以上銷量的單曲。
+**Kiss**是[日本](../Page/日本.md "wikilink")歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第十六張單曲，於2003年4月30日發行。初動7萬，累積銷量11萬。本作是倉木麻衣本人最後一支取得十萬以上銷量的單曲。
 
 ## 曲目
 
@@ -16,7 +16,4 @@
 | Oricon Yearly Singles Chart  | \#92                       |         |         |      |
 |                              |                            |         |         |      |
 
-[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink")
-[Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:親吻題材歌曲](https://zh.wikipedia.org/wiki/Category:親吻題材歌曲 "wikilink")
+[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink") [Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:親吻題材歌曲](https://zh.wikipedia.org/wiki/Category:親吻題材歌曲 "wikilink")

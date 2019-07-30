@@ -1,7 +1,6 @@
 **Bullet**是一个[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")，支持三维[碰撞检测](../Page/碰撞偵測.md "wikilink")、[柔体动力学和](https://zh.wikipedia.org/wiki/柔体动力学 "wikilink")[刚体动力学](https://zh.wikipedia.org/wiki/刚体动力学 "wikilink")，多用于游戏开发和电影制作中。Bullet物理库在[zlib协议下发布](https://zh.wikipedia.org/wiki/zlib "wikilink")。
 
-Bullet的主要作者为Erwin
-Coumans，曾經就職於[索尼電腦娛樂美國研發職務](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")2003到2010年，就职于[AMD公司到](https://zh.wikipedia.org/wiki/AMD "wikilink")2014年，現就职于[Google公司](../Page/Google.md "wikilink")。
+Bullet的主要作者为Erwin Coumans，曾經就職於[索尼電腦娛樂美國研發職務](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")2003到2010年，就职于[AMD公司到](https://zh.wikipedia.org/wiki/AMD "wikilink")2014年，現就职于[Google](../Page/Google.md "wikilink")公司。
 
 ## 特性
 
@@ -34,15 +33,10 @@ Coumans，曾經就職於[索尼電腦娛樂美國研發職務](https://zh.wikip
 
 ### 三维制作工具
 
-  - [Blender](../Page/Blender.md "wikilink") --
-    一套免费的三维绘图及渲染软件，其内置的游戏引擎[Game
-    Blender使用了Bullet物理](../Page/Game_Blender.md "wikilink")。
-  - [Carrara Pro](https://zh.wikipedia.org/wiki/Carrara_Pro "wikilink")
-    从版本8开始添加了Bullet Physics（仅包含在专业版中）。\[1\]
-  - [Cinema 4D](../Page/Cinema_4D.md "wikilink")
-    版本11.5使用了Bullet，作为MoDynamics的一部分。\[2\]
-  - [MikuMikuDance](../Page/MikuMikuDance.md "wikilink")
-    一个免费的3D动画软件，从版本5开始内置Bullet物理引擎。
+  - [Blender](../Page/Blender.md "wikilink") -- 一套免费的三维绘图及渲染软件，其内置的游戏引擎[Game Blender使用了Bullet物理](../Page/Game_Blender.md "wikilink")。
+  - [Carrara Pro](https://zh.wikipedia.org/wiki/Carrara_Pro "wikilink") 从版本8开始添加了Bullet Physics（仅包含在专业版中）。\[1\]
+  - [Cinema 4D](../Page/Cinema_4D.md "wikilink") 版本11.5使用了Bullet，作为MoDynamics的一部分。\[2\]
+  - [MikuMikuDance](../Page/MikuMikuDance.md "wikilink") 一个免费的3D动画软件，从版本5开始内置Bullet物理引擎。
 
 ## 参见
 
@@ -62,8 +56,7 @@ Coumans，曾經就職於[索尼電腦娛樂美國研發職務](https://zh.wikip
 ## 外部链接
 
   - [Bullet Physics Homepage](http://bulletphysics.org/)
-  - [Google Code project page for
-    Bullet](http://code.google.com/p/bullet/)
+  - [Google Code project page for Bullet](http://code.google.com/p/bullet/)
   - [Bullet Physics Forums](http://www.bulletphysics.org/Bullet/phpBB3/)
 
 [Category:物理引擎](https://zh.wikipedia.org/wiki/Category:物理引擎 "wikilink")

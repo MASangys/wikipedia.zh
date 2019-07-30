@@ -1,4 +1,4 @@
-《**SKE48的魔法廣播**》（）為[日本電視台於](../Page/日本電視台.md "wikilink")2011年至2013年深夜时段播出的[日本電視劇及](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
+《**SKE48的魔法廣播**》（）為[日本電視台](../Page/日本電視台.md "wikilink")於2011年至2013年深夜时段播出的[日本電視劇及](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 概要
 
@@ -7,13 +7,10 @@
 ## 演員
 
   - [高柳明音](../Page/高柳明音.md "wikilink")（[SKE48](../Page/SKE48.md "wikilink")）
-  - [松井玲奈](../Page/松井玲奈.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")（SKE48）-
-    從第二季第一集開始不再固定出場。
-  - [矢神久美](../Page/矢神久美.md "wikilink")、[木崎由里亞](../Page/木崎由里亞.md "wikilink")（SKE48）-
-    從第二季第一集開始固定出場。
+  - [松井玲奈](../Page/松井玲奈.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")（SKE48）- 從第二季第一集開始不再固定出場。
+  - [矢神久美](../Page/矢神久美.md "wikilink")、[木崎由里亞](../Page/木崎由里亞.md "wikilink")（SKE48）- 從第二季第一集開始固定出場。
   - [秦佐和子](../Page/秦佐和子.md "wikilink")（SKE48）- 從第二季第三集開始固定出場。
-  - [小木曾汐莉](../Page/小木曾汐莉.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")（SKE48）-
-    從第二季第四集開始固定出場。
+  - [小木曾汐莉](../Page/小木曾汐莉.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")（SKE48）- 從第二季第四集開始固定出場。
   - [北原里英](../Page/北原里英.md "wikilink")（AKB48 & SKE48）- 從第三季第一集開始固定出場。
   - [若林正恭](../Page/若林正恭.md "wikilink")（[奧黛麗](../Page/奧黛麗_\(搞笑組合\).md "wikilink")）
   - [佐藤二朗](../Page/佐藤二朗.md "wikilink")：鬼丸二朗
@@ -79,7 +76,4 @@
 
   - [《SKE48的魔法廣播3》官方網站](http://www.ntv.co.jp/magical/)
 
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink")
-[Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
+[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")

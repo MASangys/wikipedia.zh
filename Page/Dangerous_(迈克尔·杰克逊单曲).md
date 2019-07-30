@@ -4,11 +4,9 @@
 
 该歌曲没有拍摄[音乐录像带](https://zh.wikipedia.org/wiki/音乐录像带 "wikilink")，现在的版本大多是在[演唱会上现场演唱的](https://zh.wikipedia.org/wiki/演唱会 "wikilink")。
 
-由於舞蹈極為複雜，並有許多高難度動作，故在大部分現場演出時對口型，但在[HIStory世界巡迴演唱會奥斯坦德站和American](https://zh.wikipedia.org/wiki/HIStory世界巡迴演唱會 "wikilink")
-Bandstand 50周年纪念演出上部分唱段为现场真唱。
+由於舞蹈極為複雜，並有許多高難度動作，故在大部分現場演出時對口型，但在[HIStory世界巡迴演唱會奥斯坦德站和American](https://zh.wikipedia.org/wiki/HIStory世界巡迴演唱會 "wikilink") Bandstand 50周年纪念演出上部分唱段为现场真唱。
 
-在1995年以后的表演中，加入了Smooth
-Criminal與[珍妮·傑克森的歌曲片段](https://zh.wikipedia.org/wiki/珍妮特·傑克遜 "wikilink")。
+在1995年以后的表演中，加入了Smooth Criminal與[珍妮·傑克森的歌曲片段](https://zh.wikipedia.org/wiki/珍妮特·傑克遜 "wikilink")。
 
 ## 参见
 

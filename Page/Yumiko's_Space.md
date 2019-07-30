@@ -1,6 +1,4 @@
-**《Yumiko's
-Space》**是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[鄭希怡](../Page/鄭希怡.md "wikilink")的第5張個人音樂專輯，於2005年6月21日推出；專輯以電子音樂為主，並由兩大音樂人[Eric
-Kwok及](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")[王雙駿](../Page/王雙駿.md "wikilink")負責監製該唱片歌曲。
+**《Yumiko's Space》**是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[鄭希怡](../Page/鄭希怡.md "wikilink")的第5張個人音樂專輯，於2005年6月21日推出；專輯以電子音樂為主，並由兩大音樂人[Eric Kwok及](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")[王雙駿](../Page/王雙駿.md "wikilink")負責監製該唱片歌曲。
 
 ## 曲目列表
 
@@ -13,8 +11,4 @@ Kwok及](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")[王雙駿](../Page/
 |         **想**          |           8            |          6           |
 |                        |                        |                      |
 
-[Category:鄭希怡音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭希怡音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")
+[Category:鄭希怡音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭希怡音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")

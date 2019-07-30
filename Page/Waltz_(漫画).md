@@ -1,9 +1,6 @@
-是在2009年11月號開始連載於《月刊少年Sunday》上的漫畫作品，原作是[伊坂幸太郎](../Page/伊坂幸太郎.md "wikilink")，由[大須賀惠作畫](../Page/大須賀惠.md "wikilink")。
+是在2009年11月號開始連載於《月刊少年Sunday》上的漫畫作品，原作是[伊坂幸太郎](../Page/伊坂幸太郎.md "wikilink")，由[大須賀惠](../Page/大須賀惠.md "wikilink")作畫。
 
-本作以《[魔王 JUVENILE
-REMIX](../Page/魔王_JUVENILE_REMIX.md "wikilink")》中登場的角色「蟬」為主角，描述蟬與岩西的相遇及其成長。時間發生在《魔王
-JUVENILE
-REMIX》故事開始的四年前，以接近[原創的](https://zh.wikipedia.org/wiki/原創 "wikilink")[前傳形式進行](https://zh.wikipedia.org/wiki/前傳 "wikilink")。
+本作以《[魔王 JUVENILE REMIX](../Page/魔王_JUVENILE_REMIX.md "wikilink")》中登場的角色「蟬」為主角，描述蟬與岩西的相遇及其成長。時間發生在《魔王 JUVENILE REMIX》故事開始的四年前，以接近[原創的](https://zh.wikipedia.org/wiki/原創 "wikilink")[前傳形式進行](https://zh.wikipedia.org/wiki/前傳 "wikilink")。
 
 漫畫草稿每次都會先經伊坂幸太郎檢查，值得一提的是，岩西每次在故事中說出的「傑克·克里斯平」的名言（歌詞）皆由伊坂創作。
 
@@ -11,19 +8,16 @@ REMIX》故事開始的四年前，以接近[原創的](https://zh.wikipedia.org
 
 ## 劇情提要
 
-初中[畢業後離家出走的少年](../Page/畢業.md "wikilink")，用光身上的錢後展開殺手生涯，過著行屍走肉的生活。之後因殺掉委託人而被中介人捨棄，並被黑道追殺。後來岩西成為他的經理人，並被命名為「蟬」。
+初中[畢業](../Page/畢業.md "wikilink")後離家出走的少年，用光身上的錢後展開殺手生涯，過著行屍走肉的生活。之後因殺掉委託人而被中介人捨棄，並被黑道追殺。後來岩西成為他的經理人，並被命名為「蟬」。
 
 ## 登場人物
 
   -
     本作主角，使用短刀的殺手，每次委託收費三十萬日元。
     小學時說出「弱肉強食是天經地義的」、「世界充滿[屍體](../Page/屍體.md "wikilink")」等而被疏遠。母親很早就離開家裡，父親亦長年不歸家。初中曾因與人打架而被[停學三個月](https://zh.wikipedia.org/wiki/停學 "wikilink")，畢業後便馬上離家出走。後來成為殺手，卻因為性格及行為問題而被殺手業界排斥。
-    囂張[彆扭](https://zh.wikipedia.org/wiki/彆扭 "wikilink")、[毒舌](https://zh.wikipedia.org/wiki/毒舌 "wikilink")、好逞強。身高166cm（《魔王
-    JUVENILE
-    REMIX》時171cm）。因為非常吵鬧，像[蟬一樣](https://zh.wikipedia.org/wiki/蟬 "wikilink")「滋滋」不停地叫而被岩西命名為「蟬」。通過測試後被岩西聘用與「折首男」對決。
+    囂張[彆扭](https://zh.wikipedia.org/wiki/彆扭 "wikilink")、[毒舌](https://zh.wikipedia.org/wiki/毒舌 "wikilink")、好逞強。身高166cm（《魔王 JUVENILE REMIX》時171cm）。因為非常吵鬧，像[蟬一樣](https://zh.wikipedia.org/wiki/蟬 "wikilink")「滋滋」不停地叫而被岩西命名為「蟬」。通過測試後被岩西聘用與「折首男」對決。
     因與Tick-Tack對決時犯錯，一度被岩西放棄，後來下定決心要完成[暗殺](https://zh.wikipedia.org/wiki/暗殺 "wikilink")「折首男」的委託。
-    来自原作者伊坂幸太郎的小说《蚱蜢》的登场人物。在《魔王 JUVENILE
-    REMIX》里是个很专业的杀手，而本作里只是个空有身手的半吊子。然而，在岩西那里工作后，慢慢地培育出专业意识。
+    来自原作者伊坂幸太郎的小说《蚱蜢》的登场人物。在《魔王 JUVENILE REMIX》里是个很专业的杀手，而本作里只是个空有身手的半吊子。然而，在岩西那里工作后，慢慢地培育出专业意识。
 
 <!-- end list -->
 
@@ -32,8 +26,7 @@ REMIX》故事開始的四年前，以接近[原創的](https://zh.wikipedia.org
     身高184cm，36歲，經常[吸煙](https://zh.wikipedia.org/wiki/吸煙 "wikilink")。為[歌手](../Page/歌手.md "wikilink")「傑克·克里斯平」的狂熱[歌迷](https://zh.wikipedia.org/wiki/歌迷 "wikilink")，總是引用他的歌詞去教訓人。
     帽子卿以便利店店長之義落下暗殺「折首男」的委託，而岩西則因為高[利潤而接下](https://zh.wikipedia.org/wiki/利潤 "wikilink")，並透過桃的介紹找上業界聲名最差的蟬。被蟬批評為「噁心、跟蹤狂、扒手加上偷窺的中年大叔」。
     本來打算放棄蟬以免被Tick-Tack追殺，後來以五億元作為條件得到十天的寬限，並再次與蟬合作。
-    来自原作者伊坂幸太郎的小说《蚱蜢》的登场人物。在《魔王 JUVENILE
-    REMIX》里跟蝉是拍档关系，而本作里只是单纯定下契约，并没有建立起什么特别的信赖关系。
+    来自原作者伊坂幸太郎的小说《蚱蜢》的登场人物。在《魔王 JUVENILE REMIX》里跟蝉是拍档关系，而本作里只是单纯定下契约，并没有建立起什么特别的信赖关系。
 
 <!-- end list -->
 
@@ -49,7 +42,7 @@ REMIX》故事開始的四年前，以接近[原創的](https://zh.wikipedia.org
     額頭組是岩西命名的。
     因為前組長田淵的命令，所有組員的額頭均刻有[刺青](../Page/刺青.md "wikilink")。
     全員不滿前組長田淵，並以結城為首委託專業殺手將其暗殺，該殺手便是蟬。由於結城反覆要求蟬將田淵的頭割下，而被蟬所殺。額頭組殘黨便開始追殺蟬，後因岩西的委託而全員於自營的[酒吧內被殺](https://zh.wikipedia.org/wiki/酒吧 "wikilink")。
-    根據組員與岩西的對話，[酒吧內有公然的](https://zh.wikipedia.org/wiki/酒吧 "wikilink")[毒品交易](../Page/毒品.md "wikilink")。
+    根據組員與岩西的對話，[酒吧內有公然的](https://zh.wikipedia.org/wiki/酒吧 "wikilink")[毒品](../Page/毒品.md "wikilink")交易。
 
 <!-- end list -->
 
@@ -94,7 +87,7 @@ REMIX》故事開始的四年前，以接近[原創的](https://zh.wikipedia.org
 <!-- end list -->
 
   -
-    家裡收藏著大量的[帽子](../Page/帽子.md "wikilink")，有著異常的[戀物廦](../Page/戀物.md "wikilink")，將帽子如愛人一樣對待，使用麻醉針犯案。
+    家裡收藏著大量的[帽子](../Page/帽子.md "wikilink")，有著異常的[戀物](../Page/戀物.md "wikilink")廦，將帽子如愛人一樣對待，使用麻醉針犯案。
     想為帽子尋找合適的底座而四处捕捉女性，對合適對象注射令她們昏迷，再割下其[頭顱作為帽子底座](https://zh.wikipedia.org/wiki/頭顱 "wikilink")。
     因為犯罪行為被「折首男」發現，認為他會妨礙自己，因此同時委託Tick-Tack及岩西暗殺「折首男」，並一直觀察多方的行動。
     本人亦同時追殺大藪，最後將他從高層停車場撞落，卻誤將化身「折首男」的莓原當成本應死去的大藪。
@@ -190,18 +183,8 @@ REMIX》故事開始的四年前，以接近[原創的](https://zh.wikipedia.org
 
 ## 外部連結
 
-  - [-ゲッサンWEB-：作品紹介
-    Waltz](http://gekkansunday.net/rensai/waltz/091010.html)
+  - [-ゲッサンWEB-：作品紹介 Waltz](http://gekkansunday.net/rensai/waltz/091010.html)
 
-  - [漫畫家 BACKSTAGE
-    大須賀惠](https://archive.is/20100430102444/http://websunday.net/backstage/oosuga/)
+  - [漫畫家 BACKSTAGE 大須賀惠](https://archive.is/20100430102444/http://websunday.net/backstage/oosuga/)
 
-[Category:推理漫畫](https://zh.wikipedia.org/wiki/Category:推理漫畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:小學館](https://zh.wikipedia.org/wiki/Category:小學館 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:漫畫衍生作品](https://zh.wikipedia.org/wiki/Category:漫畫衍生作品 "wikilink")
-[Category:交換身分題材漫畫](https://zh.wikipedia.org/wiki/Category:交換身分題材漫畫 "wikilink")
-[Category:殺手主角題材漫畫](https://zh.wikipedia.org/wiki/Category:殺手主角題材漫畫 "wikilink")
+[Category:推理漫畫](https://zh.wikipedia.org/wiki/Category:推理漫畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:小學館](https://zh.wikipedia.org/wiki/Category:小學館 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:漫畫衍生作品](https://zh.wikipedia.org/wiki/Category:漫畫衍生作品 "wikilink") [Category:交換身分題材漫畫](https://zh.wikipedia.org/wiki/Category:交換身分題材漫畫 "wikilink") [Category:殺手主角題材漫畫](https://zh.wikipedia.org/wiki/Category:殺手主角題材漫畫 "wikilink")

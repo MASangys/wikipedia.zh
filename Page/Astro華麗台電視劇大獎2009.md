@@ -1,6 +1,4 @@
-**《[Astro華麗台電視劇大獎](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎 "wikilink")2009》**（Astro
-Wah Lai Toi Drama Awards
-2009）乃是由Astro華麗台主辦的年度壓軸盛事，投選活動將於2010年2月后旬正式啓動至3月中旬。2010年3月后旬晚在[馬來西亞雲頂雲星劇場隆重舉行](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。
+**《[Astro華麗台電視劇大獎](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎 "wikilink")2009》**（Astro Wah Lai Toi Drama Awards 2009）乃是由Astro華麗台主辦的年度壓軸盛事，投選活動將於2010年2月后旬正式啓動至3月中旬。2010年3月后旬晚在[馬來西亞雲頂雲星劇場隆重舉行](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。
 
 ## 參與劇集
 

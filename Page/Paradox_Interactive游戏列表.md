@@ -1,5 +1,4 @@
-本列表为與**[Paradox
-Interactive](../Page/Paradox_Interactive.md "wikilink")**相關游戏列表。
+本列表为與**[Paradox Interactive](../Page/Paradox_Interactive.md "wikilink")**相關游戏列表。
 
 ## 游戏产品
 
@@ -961,17 +960,11 @@ Interactive](../Page/Paradox_Interactive.md "wikilink")**相關游戏列表。
 
 1.
 2.
-3.  [Crusader Kings II](https://www.paradoxplaza.com/crusader-kings-2),
-    Paradox Plaza
+3.  [Crusader Kings II](https://www.paradoxplaza.com/crusader-kings-2), Paradox Plaza
 4.
-5.  [Magicka Listing](http://www.paradoxplaza.com/games/magicka) ,
-    Paradox Plaza
+5.  [Magicka Listing](http://www.paradoxplaza.com/games/magicka) , Paradox Plaza
 6.
-7.  [Ship Simulator Extremes
-    Listing](http://www.paradoxplaza.com/games/ship-simulator-extremes)
-    , Paradox Plaza
-8.  [The King's
-    Crusade](https://www.paradoxplaza.com/the-kings-crusade), Paradox
-    Plaza
+7.  [Ship Simulator Extremes Listing](http://www.paradoxplaza.com/games/ship-simulator-extremes) , Paradox Plaza
+8.  [The King's Crusade](https://www.paradoxplaza.com/the-kings-crusade), Paradox Plaza
 9.
 10.

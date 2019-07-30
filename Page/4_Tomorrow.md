@@ -1,13 +1,8 @@
-**4
-Tomorrow**，是一個暫時性的南韓4人女子團體，成員分別來自四個韓國當紅偶像女子團體：[Kara](../Page/Kara.md "wikilink")的[昇延](../Page/韓昇延.md "wikilink")、[Brown
-Eyed
-Girls的](../Page/Brown_Eyed_Girls.md "wikilink")[佳人](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")、[After
-School的](../Page/After_School.md "wikilink")[U-IE以及來自](https://zh.wikipedia.org/wiki/金幽珍 "wikilink")[4minute](../Page/4minute.md "wikilink")的[泫雅](../Page/金泫雅.md "wikilink")。
+**4 Tomorrow**，是一個暫時性的南韓4人女子團體，成員分別來自四個韓國當紅偶像女子團體：[Kara](../Page/Kara.md "wikilink")的[昇延](../Page/韓昇延.md "wikilink")、[Brown Eyed Girls的](../Page/Brown_Eyed_Girls.md "wikilink")[佳人](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")、[After School的](../Page/After_School.md "wikilink")[U-IE以及來自](https://zh.wikipedia.org/wiki/金幽珍 "wikilink")[4minute](../Page/4minute.md "wikilink")的[泫雅](../Page/金泫雅.md "wikilink")。
 
 ## 背景資料
 
-帶著「女聲組合夢之隊」之稱，組合的創立是為了推廣韓國[三星電子](../Page/三星電子.md "wikilink")期下品牌的[Anycall流動電話](https://zh.wikipedia.org/wiki/Anycall "wikilink")。她們的首張出數位單曲《扑通扑通Tomorrow》（두근두근
-Tomorrow）於2009年10月6日推出。
+帶著「女聲組合夢之隊」之稱，組合的創立是為了推廣韓國[三星電子](../Page/三星電子.md "wikilink")期下品牌的[Anycall流動電話](https://zh.wikipedia.org/wiki/Anycall "wikilink")。她們的首張出數位單曲《扑通扑通Tomorrow》（두근두근 Tomorrow）於2009年10月6日推出。
 
 ## 成員資料
 
@@ -44,10 +39,8 @@ Tomorrow）於2009年10月6日推出。
   - 藝名：泫雅（현아）HyunA
   - 本名：金泫雅（김현아）Kim Hyun Ah
   - 出生日期：
-  - 前所屬組合：[Wonder
-    Girls](../Page/Wonder_Girls.md "wikilink")，[4minute](../Page/4minute.md "wikilink")（已解散）
-  - 退團原因：[Wonder
-    Girls](../Page/Wonder_Girls.md "wikilink")：因慢性腸胃炎和頭暈等病痛問題經常暈倒，父母親對她身體狀況相當擔憂而在2007年7月退出。
+  - 前所屬組合：[Wonder Girls](../Page/Wonder_Girls.md "wikilink")，[4minute](../Page/4minute.md "wikilink")（已解散）
+  - 退團原因：[Wonder Girls](../Page/Wonder_Girls.md "wikilink")：因慢性腸胃炎和頭暈等病痛問題經常暈倒，父母親對她身體狀況相當擔憂而在2007年7月退出。
     [4minute](../Page/4minute.md "wikilink")：因成员[南智賢](https://zh.wikipedia.org/wiki/南智賢 "wikilink")、[許嘉允](../Page/許嘉允.md "wikilink")、[田祉潤](../Page/田祉潤.md "wikilink")和[權昭賢](../Page/權昭賢.md "wikilink")不与[Cube娱乐续约](https://zh.wikipedia.org/wiki/Cube娱乐 "wikilink")，只有[泫雅续约](../Page/金泫雅.md "wikilink")，因此4minute解散
 
 ## MV
@@ -67,5 +60,4 @@ Tomorrow）於2009年10月6日推出。
 5.  《東健的希望》
 6.  《JAM Concert 最終篇》
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")

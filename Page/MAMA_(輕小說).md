@@ -1,6 +1,6 @@
 {{ Otheruses|MAMA }}
 
-《**MAMA**》（**MAMA**）是電擊文庫出版的[輕小說](../Page/輕小說.md "wikilink")。[紅玉伊月撰寫](../Page/紅玉伊月.md "wikilink")，[KARASU](https://zh.wikipedia.org/wiki/KARASU "wikilink")（）繪製插畫。
+《**MAMA**》（**MAMA**）是電擊文庫出版的[輕小說](../Page/輕小說.md "wikilink")。[紅玉伊月](../Page/紅玉伊月.md "wikilink")撰寫，[KARASU](https://zh.wikipedia.org/wiki/KARASU "wikilink")（）繪製插畫。
 
 ## 簡介
 

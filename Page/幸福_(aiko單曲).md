@@ -1,4 +1,4 @@
-《**幸福**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")21張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2007年5月30日發行。
+《**幸福**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")21張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2007年5月30日發行。
 
 ## 簡介
 
@@ -14,8 +14,7 @@
 
 1.  **幸福**（）
 2.  **Lip**（）
-      - [NTT
-        DoCoMo關西的電視廣告歌曲](https://zh.wikipedia.org/wiki/NTT_DoCoMo關西 "wikilink")
+      - [NTT DoCoMo關西的電視廣告歌曲](https://zh.wikipedia.org/wiki/NTT_DoCoMo關西 "wikilink")
 3.  **早晨的鳥兒**（）
 4.  幸福（instrumental）
 
@@ -29,9 +28,7 @@
 
 [分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 
-[Category:aiko歌曲](https://zh.wikipedia.org/wiki/Category:aiko歌曲 "wikilink")
-[Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
+[Category:aiko歌曲](https://zh.wikipedia.org/wiki/Category:aiko歌曲 "wikilink") [Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
 
 1.  [](http://natalie.mu/music/news/1364)
 2.  [](http://www.barks.jp/news/?m=all&id=1000031749&ref=rss)

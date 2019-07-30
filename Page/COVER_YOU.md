@@ -1,10 +1,8 @@
-「**COVER
-YOU**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")1枚翻唱專輯。於2008年11月26日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+「**COVER YOU**」是[日本](../Page/日本.md "wikilink")的女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第1枚翻唱專輯。於2008年11月26日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
-  - 「COVER YOU」是早安少女組。出道以來的第1張翻唱專輯。與上一張精選專輯「[ALL SINGLES COMPLETE 〜10th
-    ANNIVERSARY〜](https://zh.wikipedia.org/wiki/ALL_SINGLES_COMPLETE_〜10th_ANNIVERSARY〜 "wikilink")」相距約1年1個月。
+  - 「COVER YOU」是早安少女組。出道以來的第1張翻唱專輯。與上一張精選專輯「[ALL SINGLES COMPLETE 〜10th ANNIVERSARY〜](https://zh.wikipedia.org/wiki/ALL_SINGLES_COMPLETE_〜10th_ANNIVERSARY〜 "wikilink")」相距約1年1個月。
   - 收錄了第37張單曲「[胡椒警長](../Page/胡椒警長.md "wikilink")」和其B面曲「Romance」。
   - 本作只有「CD ONLY」1種版本。
   - 在12月8日於公信榜專輯週排行榜取得第27位。
@@ -52,7 +50,7 @@ YOU**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少
 <td><p><a href="https://zh.wikipedia.org/wiki/木之實奈奈" title="wikilink">木之實奈奈</a>・<a href="../Page/五木宏.md" title="wikilink">五木宏</a></p></td>
 <td><p><a href="../Page/大野克夫.md" title="wikilink">大野克夫</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/周訪泰臣" title="wikilink">周訪泰臣</a></p></td>
-<td><p><a href="../Page/高橋愛.md" title="wikilink">高橋愛</a>・<a href="../Page/五木宏.md" title="wikilink">五木宏主唱</a></p></td>
+<td><p><a href="../Page/高橋愛.md" title="wikilink">高橋愛</a>・<a href="../Page/五木宏.md" title="wikilink">五木宏</a>主唱</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -175,5 +173,4 @@ YOU**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少
 </tbody>
 </table>
 
-[Category:早安少女組。音樂專輯](https://zh.wikipedia.org/wiki/Category:早安少女組。音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
+[Category:早安少女組。音樂專輯](https://zh.wikipedia.org/wiki/Category:早安少女組。音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")

@@ -1,13 +1,8 @@
-**《Amazing
-World》**是香港歌手[古巨基於](../Page/古巨基.md "wikilink")2011年10月推出的個人專輯。
+**《Amazing World》**是香港歌手[古巨基](../Page/古巨基.md "wikilink")於2011年10月推出的個人專輯。
 
 ## 簡介
 
-为配合10月举行《Amazing
-World演唱会2011》梦幻世界的个唱主题,古巨基特别在全新EP中再次炮制他的劲歌金曲第三回,演绎劲歌金曲「Party
-King」,并加入天王天后的经典舞步。至於加盟英皇後首個紅館演唱會的主題曲「爆了」,是基仔唱出都市人面对压力和生活迫人的苦况,黄仲凯填词,雷颂德作曲、监制,MV更请来名模
-Juliana S.担任女主角。碟内深情主打有「Once Upon A
-Time」和Rubberband、DJ细so联手打造的广播剧主题曲「恋後感」。
+为配合10月举行《Amazing World演唱会2011》梦幻世界的个唱主题,古巨基特别在全新EP中再次炮制他的劲歌金曲第三回,演绎劲歌金曲「Party King」,并加入天王天后的经典舞步。至於加盟英皇後首個紅館演唱會的主題曲「爆了」,是基仔唱出都市人面对压力和生活迫人的苦况,黄仲凯填词,雷颂德作曲、监制,MV更请来名模 Juliana S.担任女主角。碟内深情主打有「Once Upon A Time」和Rubberband、DJ细so联手打造的广播剧主题曲「恋後感」。
 
 ## 曲目
 
@@ -39,7 +34,7 @@ Time」和Rubberband、DJ细so联手打造的广播剧主题曲「恋後感」�
 
 ### 獎項
 
-  - 2011[勁歌金曲優秀選第二回](../Page/勁歌金曲優秀選.md "wikilink") - 得獎歌曲《爆了》
+  - 2011[勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")第二回 - 得獎歌曲《爆了》
   - 第八屆勁歌王金曲金榜頒獎禮 - 粵語金曲獎《爆了》
   - 2011年度《十大勁歌金曲頒獎典禮》-十大勁歌金曲《爆了》
   - 2011年度YAHOO\!搜尋人氣大獎 - 網上熱爆歌曲《爆了》
@@ -47,7 +42,4 @@ Time」和Rubberband、DJ细so联手打造的广播剧主题曲「恋後感」�
   - 2011勁歌金曲優秀選第三回 - 得獎歌曲《Once Upon A Time》
   - 2011年度YAHOO\!搜尋人氣大獎- 搜尋十大人氣歌曲《勁歌金曲3 Party King》
 
-[Category:古巨基音樂專輯](https://zh.wikipedia.org/wiki/Category:古巨基音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:古巨基音樂專輯](https://zh.wikipedia.org/wiki/Category:古巨基音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

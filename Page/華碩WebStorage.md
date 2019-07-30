@@ -1,7 +1,6 @@
-是[華碩雲端股份有限公司開發的](https://zh.wikipedia.org/wiki/華碩雲端股份有限公司 "wikilink")[線上儲存服務](https://zh.wikipedia.org/wiki/線上儲存服務 "wikilink")，透過[雲端運算實現](../Page/雲端運算.md "wikilink")[網際網路上的](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[文件同步](https://zh.wikipedia.org/wiki/文件同步 "wikilink")，用户可以儲存與分享檔案和檔案夾\[1\]。
+是[華碩雲端股份有限公司開發的](https://zh.wikipedia.org/wiki/華碩雲端股份有限公司 "wikilink")[線上儲存服務](https://zh.wikipedia.org/wiki/線上儲存服務 "wikilink")，透過[雲端運算](../Page/雲端運算.md "wikilink")實現[網際網路上的](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[文件同步](https://zh.wikipedia.org/wiki/文件同步 "wikilink")，用户可以儲存與分享檔案和檔案夾\[1\]。
 
-ASUS
-WebStorage提供免費和收費服務，在不同[操作系统下有](../Page/操作系统.md "wikilink")[客户端軟體](https://zh.wikipedia.org/wiki/客户端 "wikilink")，並且有[網頁與](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[手機客户端](https://zh.wikipedia.org/wiki/手機 "wikilink")。
+ASUS WebStorage提供免費和收費服務，在不同[操作系统](../Page/操作系统.md "wikilink")下有[客户端軟體](https://zh.wikipedia.org/wiki/客户端 "wikilink")，並且有[網頁與](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[手機客户端](https://zh.wikipedia.org/wiki/手機 "wikilink")。
 
 ## 功能
 
@@ -40,8 +39,7 @@ WebStorage提供免費和收費服務，在不同[操作系统下有](../Page/�
   - [Copy](https://zh.wikipedia.org/wiki/Copy "wikilink")
   - [Dropbox](../Page/Dropbox.md "wikilink")
   - [Jungle Disk](https://zh.wikipedia.org/wiki/Jungle_Disk "wikilink")
-  - [Windows Live
-    Mesh](https://zh.wikipedia.org/wiki/Live_mesh "wikilink")
+  - [Windows Live Mesh](https://zh.wikipedia.org/wiki/Live_mesh "wikilink")
   - [Mozy](https://zh.wikipedia.org/wiki/Mozy "wikilink")
   - [SpiderOak](https://zh.wikipedia.org/wiki/SpiderOak "wikilink")
   - [SugarSync](https://zh.wikipedia.org/wiki/SugarSync "wikilink")
@@ -64,13 +62,6 @@ WebStorage提供免費和收費服務，在不同[操作系统下有](../Page/�
 
   - [ASUS WebStorage Forum](http://forum.asuswebstorage.com/)
 
-[Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink")
-[Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink")
-[Category:Linux軟體](https://zh.wikipedia.org/wiki/Category:Linux軟體 "wikilink")
-[Category:文件共享服务](https://zh.wikipedia.org/wiki/Category:文件共享服务 "wikilink")
-[Category:云存储](https://zh.wikipedia.org/wiki/Category:云存储 "wikilink")
-[Category:Email附件替代品](https://zh.wikipedia.org/wiki/Category:Email附件替代品 "wikilink")
-[Category:在线备份服务](https://zh.wikipedia.org/wiki/Category:在线备份服务 "wikilink")
-[Category:華碩產品](https://zh.wikipedia.org/wiki/Category:華碩產品 "wikilink")
+[Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink") [Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink") [Category:Linux軟體](https://zh.wikipedia.org/wiki/Category:Linux軟體 "wikilink") [Category:文件共享服务](https://zh.wikipedia.org/wiki/Category:文件共享服务 "wikilink") [Category:云存储](https://zh.wikipedia.org/wiki/Category:云存储 "wikilink") [Category:Email附件替代品](https://zh.wikipedia.org/wiki/Category:Email附件替代品 "wikilink") [Category:在线备份服务](https://zh.wikipedia.org/wiki/Category:在线备份服务 "wikilink") [Category:華碩產品](https://zh.wikipedia.org/wiki/Category:華碩產品 "wikilink")
 
 1.

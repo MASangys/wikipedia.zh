@@ -1,6 +1,4 @@
-《**對決！Star 聽證會 －
-每天每夜**》(簡稱：）（[韓文](https://zh.wikipedia.org/wiki/韓语 "wikilink")：）是韓國電視台，逢星期一晚上11時15分播放的
-Talk Show，每集約80分鐘。
+《**對決！Star 聽證會 － 每天每夜**》(簡稱：）（[韓文](https://zh.wikipedia.org/wiki/韓语 "wikilink")：）是韓國電視台，逢星期一晚上11時15分播放的 Talk Show，每集約80分鐘。
 
 從第16集開始改變形式。
 
@@ -24,8 +22,7 @@ Talk Show，每集約80分鐘。
 
   - [姜大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink")
 
-1989年 4月 26日
-所屬：[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")
+1989年 4月 26日 所屬：[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")
 
   - [鄭容和](../Page/鄭容和.md "wikilink")
 
@@ -59,12 +56,10 @@ Talk Show，每集約80分鐘。
 | 16 | 2011年2月28日 | [文熙俊](../Page/文熙俊.md "wikilink") ([H.O.T](https://zh.wikipedia.org/wiki/H.O.T "wikilink"))、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、[金泰宇](../Page/金泰宇.md "wikilink") ([G.O.D](https://zh.wikipedia.org/wiki/G.O.D "wikilink"))、[勝利](../Page/勝利_\(歌手\).md "wikilink") ([BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink"))                                                              |                          |
 | 17 | 2011年3月7日  | [劉仁娜](https://zh.wikipedia.org/wiki/劉仁娜 "wikilink")、[朴嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink") ([After School](../Page/After_School.md "wikilink"))、[鄭佳恩](../Page/鄭佳恩.md "wikilink")、[洪京民](https://zh.wikipedia.org/wiki/洪京民 "wikilink")、[朴光賢](https://zh.wikipedia.org/wiki/朴光賢 "wikilink")、[徐智石](https://zh.wikipedia.org/wiki/徐智石 "wikilink")                                                  |                          |
 | 18 | 2011年3月14日 | [李范秀](https://zh.wikipedia.org/wiki/李范秀 "wikilink")                                                                                                                                                                                                                                                                                                                                                        | 一日特別委員：利特 & 神童。大聲因事未能參與。 |
-| 19 | 2011年3月21日 | [張恆俊導演](../Page/張恆俊.md "wikilink")、[張鎮導演](https://zh.wikipedia.org/wiki/張鎮 "wikilink")                                                                                                                                                                                                                                                                                                                     |                          |
+| 19 | 2011年3月21日 | [張恆俊](../Page/張恆俊.md "wikilink")導演、[張鎮導演](https://zh.wikipedia.org/wiki/張鎮 "wikilink")                                                                                                                                                                                                                                                                                                                     |                          |
 | 20 | 2011年3月28日 | [尹度玹](../Page/尹度玹.md "wikilink")、[宋昌義](https://zh.wikipedia.org/wiki/宋昌義 "wikilink")                                                                                                                                                                                                                                                                                                                       |                          |
 | 21 | 2011年4月4日  | [IU](https://zh.wikipedia.org/wiki/IU "wikilink")、[閔孝琳](https://zh.wikipedia.org/wiki/閔孝琳 "wikilink")、[簡美妍](../Page/簡美妍.md "wikilink")、[玄英](https://zh.wikipedia.org/wiki/玄英 "wikilink")、[姜秀智](https://zh.wikipedia.org/wiki/姜秀智 "wikilink")                                                                                                                                                               |                          |
 | 22 | 2011年4月11日 | [金烔完](../Page/金烔完.md "wikilink")([神話](https://zh.wikipedia.org/wiki/神話 "wikilink"))、Alex (Clazziquai)、[澤演](https://zh.wikipedia.org/wiki/澤演 "wikilink") ([2PM](https://zh.wikipedia.org/wiki/2PM "wikilink"))、[佑榮](https://zh.wikipedia.org/wiki/佑榮 "wikilink") ([2PM](https://zh.wikipedia.org/wiki/2PM "wikilink"))、[瑟雍](https://zh.wikipedia.org/wiki/瑟雍 "wikilink") ([2AM](../Page/2AM.md "wikilink")) |                          |
 |    |            |                                                                                                                                                                                                                                                                                                                                                                                                            |                          |
 
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:清談節目](https://zh.wikipedia.org/wiki/Category:清談節目 "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:清談節目](https://zh.wikipedia.org/wiki/Category:清談節目 "wikilink")

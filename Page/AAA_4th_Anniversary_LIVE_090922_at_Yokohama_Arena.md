@@ -1,14 +1,9 @@
-「**AAA 4th Anniversary LIVE 090922 at Yokohama
-Arena**」是[日本的](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](../Page/AAA_\(團體\).md "wikilink")2010年3月3日推出的DVD，由[avex
-trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
+「**AAA 4th Anniversary LIVE 090922 at Yokohama Arena**」是[日本](../Page/日本.md "wikilink")的[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](../Page/AAA_\(團體\).md "wikilink")2010年3月3日推出的DVD，由[avex trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - 與上一張DVD「[AAA TOUR 2009 -A depArture
-    pArty-](https://zh.wikipedia.org/wiki/AAA_TOUR_2009_-A_depArture_pArty- "wikilink")」相距約7個月。
-  - 「AAA 4th Anniversary LIVE 090922 at Yokohama
-    Arena」收錄了AAA於2009年9月22日在[橫濱體育館舉行的四週年紀念Live](../Page/橫濱體育館.md "wikilink")「AAA
-    4th Anniversary LIVE」，以及AAA慶祝四週年的特別片段。
+  - 與上一張DVD「[AAA TOUR 2009 -A depArture pArty-](https://zh.wikipedia.org/wiki/AAA_TOUR_2009_-A_depArture_pArty- "wikilink")」相距約7個月。
+  - 「AAA 4th Anniversary LIVE 090922 at Yokohama Arena」收錄了AAA於2009年9月22日在[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉行的四週年紀念Live「AAA 4th Anniversary LIVE」，以及AAA慶祝四週年的特別片段。
   - 在3月15日於公信榜錄影帶週排行榜取得第1位
 
 ## 收錄曲
@@ -52,5 +47,4 @@ trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 6.  Wonderful Life
 7.  Jamboree\!\!
 
-[Category:AAA的影像作品](https://zh.wikipedia.org/wiki/Category:AAA的影像作品 "wikilink")
-[Category:2010年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2010年音樂相關影像作品 "wikilink")
+[Category:AAA的影像作品](https://zh.wikipedia.org/wiki/Category:AAA的影像作品 "wikilink") [Category:2010年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2010年音樂相關影像作品 "wikilink")

@@ -1,28 +1,14 @@
-**Girl's
-Day**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2010年7月9日推出的女子流行音樂團體，現任成員為隊長[素珍](../Page/素珍_\(韓國歌手\).md "wikilink")、[Yura](../Page/Yura.md "wikilink")、[珉雅及](https://zh.wikipedia.org/wiki/方珉雅 "wikilink")[惠利](../Page/惠利.md "wikilink")。最初粉絲名稱為「Diamonds」，其後改為「Daisy」或「Dai5y」。團呼為「Every
-day, Girl's
-Day」。2013年以《期待》的招牌吊帶舞打響名氣，引發模仿熱潮，2014年初再以《Something》拿下不少音樂獎項。經紀公司[Wellmade
-Yedang在](https://zh.wikipedia.org/wiki/Wellmade_STAR_M "wikilink")2013年12月2日公佈併購DreamT娛樂所有股份，Girl's
-Day現在共同隸屬於兩間經紀公司\[1\]。全體成員已和經紀公司續約，將不受「七年魔咒」的影響\[2\]。
-2019年續約兩年合約到期，全員不續約，離開公司，但團體不解散。
+**Girl's Day**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2010年7月9日推出的女子流行音樂團體，現任成員為隊長[素珍](../Page/素珍_\(韓國歌手\).md "wikilink")、[Yura](../Page/Yura.md "wikilink")、[珉雅及](https://zh.wikipedia.org/wiki/方珉雅 "wikilink")[惠利](../Page/惠利.md "wikilink")。最初粉絲名稱為「Diamonds」，其後改為「Daisy」或「Dai5y」。團呼為「Every day, Girl's Day」。2013年以《期待》的招牌吊帶舞打響名氣，引發模仿熱潮，2014年初再以《Something》拿下不少音樂獎項。經紀公司[Wellmade Yedang在](https://zh.wikipedia.org/wiki/Wellmade_STAR_M "wikilink")2013年12月2日公佈併購DreamT娛樂所有股份，Girl's Day現在共同隸屬於兩間經紀公司\[1\]。全體成員已和經紀公司續約，將不受「七年魔咒」的影響\[2\]。 2019年續約兩年合約到期，全員不續約，離開公司，但團體不解散。
 
 ## 簡介
 
-Girl's
-Day在剛出道時不但沒有受到大眾的關注，甚至還有成員退團的事件。2011年的她們以可愛形象所主打的《閃亮閃亮》和《擁抱我一次》這兩首歌曲讓她們的名字漸漸被大眾認識，不過反應仍然不夠熱烈，不久後團員智海又因課業關係退團，讓Girl's
-Day再受打擊。
+Girl's Day在剛出道時不但沒有受到大眾的關注，甚至還有成員退團的事件。2011年的她們以可愛形象所主打的《閃亮閃亮》和《擁抱我一次》這兩首歌曲讓她們的名字漸漸被大眾認識，不過反應仍然不夠熱烈，不久後團員智海又因課業關係退團，讓Girl's Day再受打擊。
 
-很多的女團每次在出專輯時都能帶給一次又一次的大反差，不過Girl's
-Day卻沒有什麼變化，直到2012年推出的《不要忘記我》以成熟小女人的形象才開始有了改變，及後在2013年推出的歌曲《期待》和《Female
-President》、2014年的《Something》之後，現在的她們已經是名符其實的性感女團之一，她們從低潮到事業的頂端足足花了4年的時間。
+很多的女團每次在出專輯時都能帶給一次又一次的大反差，不過Girl's Day卻沒有什麼變化，直到2012年推出的《不要忘記我》以成熟小女人的形象才開始有了改變，及後在2013年推出的歌曲《期待》和《Female President》、2014年的《Something》之後，現在的她們已經是名符其實的性感女團之一，她們從低潮到事業的頂端足足花了4年的時間。
 
-微妙的轉化從《期待》這首歌曲開始向外萌芽，讓她們反轉以往清純可愛的形象而一舉成名。《Female
-President》則融合了帥氣、可愛卻又不失性感，更讓她們拿到了出道1095天以來首個一位。
+微妙的轉化從《期待》這首歌曲開始向外萌芽，讓她們反轉以往清純可愛的形象而一舉成名。《Female President》則融合了帥氣、可愛卻又不失性感，更讓她們拿到了出道1095天以來首個一位。
 
-2014年初Girl's
-Day以《Something》一曲成為一線女團\[3\]，性感的小貓舞和露玉腿等動作令人印象深刻，甚至連許多韓國男女團體都紛紛模仿。為了不讓大家有定型的概念，2014年7月再以可愛曲風《Darling》回歸歌壇，成功的反轉Girl's
-Day不單只有性感的一面。2015年7月以《Ring My Bell》一曲回歸。經過1年8個月，Girl's Day以《I'll Be
-Yours》回歸。
+2014年初Girl's Day以《Something》一曲成為一線女團\[3\]，性感的小貓舞和露玉腿等動作令人印象深刻，甚至連許多韓國男女團體都紛紛模仿。為了不讓大家有定型的概念，2014年7月再以可愛曲風《Darling》回歸歌壇，成功的反轉Girl's Day不單只有性感的一面。2015年7月以《Ring My Bell》一曲回歸。經過1年8個月，Girl's Day以《I'll Be Yours》回歸。
 
 ## 歷程
 
@@ -30,24 +16,20 @@ Yours》回歸。
 
   - 7月9日，Girl's Day正式出道，公開出道曲MV《Tilt My Head（갸우뚱）》。
   - 9月12日，公司公告其中兩位成員黄智善和李智仁正式的退團，主要的原因是智仁要專注於演戲，而智善要繼續攻讀音樂並找尋屬於她的音樂。
-  - 9月16日，公司公開兩位新成員[Yura和](../Page/Yura.md "wikilink")[惠利](../Page/惠利.md "wikilink")。
+  - 9月16日，公司公開兩位新成員[Yura](../Page/Yura.md "wikilink")和[惠利](../Page/惠利.md "wikilink")。
   - 10月17日，Yura在參加MBC節目《花束》時，公開了為腿部投保多達5億韓元一事。
-  - 10月24、25日，分別各公開一支第二張單曲《Girl's Day Party \#2》主打歌《잘해줘봐야（Nothing Lasts
-    Forever）》MV預告。10月27日，公開完整版MV。
+  - 10月24、25日，分別各公開一支第二張單曲《Girl's Day Party \#2》主打歌《잘해줘봐야（Nothing Lasts Forever）》MV預告。10月27日，公開完整版MV。
 
 ### 2011
 
   - 1月25日，公開官方粉絲名「Daisy」，代替原粉絲名「Diamonds」。
-  - 3月13日，公開第三張單曲《Girl's Day Party \#3》主打歌《TWINKLE
-    TWINKLE（반짝반짝）》MV預告，並大受網友好評，獲「翻身偶像」的封號。3月14日，公開概念照。
+  - 3月13日，公開第三張單曲《Girl's Day Party \#3》主打歌《TWINKLE TWINKLE（반짝반짝）》MV預告，並大受網友好評，獲「翻身偶像」的封號。3月14日，公開概念照。
   - 3月16日，公開主打歌《TWINKLE TWINKLE》MV。3月17日，公開完整歌曲音源。
   - 3月21日，公開《TWINKLE TWINKLE》的練習視頻和舞蹈版MV。
   - 6月29日，公開首張迷你專輯《Everyday》第一波概念照。7月6日，公開第二波概念照。
   - 7月4日，公開主打歌《HUG ME ONCE（한번만 안아줘） 》MV預告。
-  - 7月7日，公開主打歌《HUG ME ONCE》MV。7月8日，在[Music
-    Bank進行回歸舞台](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。
-  - 8月31日，公開第四張單曲《Girl's Day Party \#4》概念照。9月2日，公開主打歌《너, 한눈 팔지마\!（Don't
-    Let Your Eyes Wander）》音源。且並不會參加任何音樂節目。9月6日，公開完整版MV。
+  - 7月7日，公開主打歌《HUG ME ONCE》MV。7月8日，在[Music Bank進行回歸舞台](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。
+  - 8月31日，公開第四張單曲《Girl's Day Party \#4》概念照。9月2日，公開主打歌《너, 한눈 팔지마\!（Don't Let Your Eyes Wander）》音源。且並不會參加任何音樂節目。9月6日，公開完整版MV。
 
 ### 2012
 
@@ -62,100 +44,62 @@ Yours》回歸。
 
   - 3月7日，公開首張正規專輯《Expectation》專輯封面及曲目。且在韓國的電視台已經播出了MV部份片段。
   - 3月12日，公開首張正規專輯《Expectation》主打歌《Expect》MV預告。
-  - 3月14日，發行首張正規專輯《Expectation》，並公開主打歌《Expect》完整版MV及專輯完整音源。Girl's Day
-    也允諾：「如果這次的回歸我們獲得1位，我們會素顏出現在明洞給與粉絲們愛的抱抱。所以希望大家可以多多喜愛、支持我們的新歌喔！」
+  - 3月14日，發行首張正規專輯《Expectation》，並公開主打歌《Expect》完整版MV及專輯完整音源。Girl's Day 也允諾：「如果這次的回歸我們獲得1位，我們會素顏出現在明洞給與粉絲們愛的抱抱。所以希望大家可以多多喜愛、支持我們的新歌喔！」
   - 3月18日，公開主打歌《Expect》舞蹈版MV。
-  - 4月3日，在首爾明洞街上舉行了「Free Hug」活動。因為約定如果拿下一位就在明洞舉行「Free
-    Hug」活動，雖然還沒有拿下第一，但已經兩次進入第一名後補，讓
-    Girl's Day 團員們大受感動，決定還是舉行活動，回報歌迷。
-  - 4月16日，韓國媒體Sports
-    Seoul報導，前天記者拍下[H.O.T.出身的](../Page/H.O.T..md "wikilink")[安勝浩](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")（Tony
-    An）和惠利在約會結束後，Tony An送惠利回到宿舍的照片。Tony
-    An與惠利從3月開始交往，雙方經紀公司也都已證實了兩人交往的消息。11月，二人結束為期8個月的交往，回到前後輩關係。
-  - 4月22日，出演[Mnet綜藝節目](../Page/Mnet媒體.md "wikilink")《Beatles Code
-    2》，主持人先提到珉雅過去在《偶像運動會》向公司要求解除戀愛禁止令的話題，接著向成員們提出了理想型的問題。惠利說：「我喜歡能夠好好聽我講話的人...
-    而我的理想型是[玄彬](../Page/炫彬.md "wikilink")。」
+  - 4月3日，在首爾明洞街上舉行了「Free Hug」活動。因為約定如果拿下一位就在明洞舉行「Free Hug」活動，雖然還沒有拿下第一，但已經兩次進入第一名後補，讓 Girl's Day 團員們大受感動，決定還是舉行活動，回報歌迷。
+  - 4月16日，韓國媒體Sports Seoul報導，前天記者拍下[H.O.T.](../Page/H.O.T..md "wikilink")出身的[安勝浩](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")（Tony An）和惠利在約會結束後，Tony An送惠利回到宿舍的照片。Tony An與惠利從3月開始交往，雙方經紀公司也都已證實了兩人交往的消息。11月，二人結束為期8個月的交往，回到前後輩關係。
+  - 4月22日，出演[Mnet綜藝節目](../Page/Mnet媒體.md "wikilink")《Beatles Code 2》，主持人先提到珉雅過去在《偶像運動會》向公司要求解除戀愛禁止令的話題，接著向成員們提出了理想型的問題。惠利說：「我喜歡能夠好好聽我講話的人... 而我的理想型是[玄彬](../Page/炫彬.md "wikilink")。」
   - 6月17日，公開正規一輯改版《女總統（여자 대통령）》專輯封面及曲目。
   - 6月21日，公開主打歌《Female President》MV預告。
-  - 6月24日，公開主打歌《Female President》完整版MV。同日於首爾Banyan
-    Tree酒店的戶外游泳池舉行回歸Showcase。6月29日，公開主打歌《Female
-    President》舞蹈版MV。
-  - 7月8日，[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》公佈7月7日一位由Girl's
-    Day獲得，也是他們首次獲一位，以總分8887分的成績擊退勁敵[SISTAR與李承哲](../Page/SISTAR.md "wikilink")。
+  - 6月24日，公開主打歌《Female President》完整版MV。同日於首爾Banyan Tree酒店的戶外游泳池舉行回歸Showcase。6月29日，公開主打歌《Female President》舞蹈版MV。
+  - 7月8日，[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》公佈7月7日一位由Girl's Day獲得，也是他們首次獲一位，以總分8887分的成績擊退勁敵[SISTAR](../Page/SISTAR.md "wikilink")與李承哲。
   - 12月27日，公開第三張迷你專輯《Every Day III – Something》首波概念照，並宣佈在1月3日發行。
-  - 12月30日，公開第三張迷你專輯《Every Day III –
-    Something》主打歌《Something》MV預告，也公開素珍個人概念照。12月31日，公開惠利個人概念照。
+  - 12月30日，公開第三張迷你專輯《Every Day III – Something》主打歌《Something》MV預告，也公開素珍個人概念照。12月31日，公開惠利個人概念照。
 
 ### 2014
 
-  - 1月，Girl's Day發行迷你專輯《Everday III -
-    Something》，主打歌《Something》以性感撩人的舞蹈大受歡迎，吸引一眾男團女團的模仿，更拿下音樂節目6個一位。《Something》在2015[Gaon
-    Chart年榜全國排行](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")：數字\#21，下載\#10，試聽\#9。\[5\]
-  - 2月，財經雜誌[福布斯公佈](../Page/福布斯.md "wikilink")2014年度《[韓國福布斯名人榜](https://zh.wikipedia.org/wiki/韓國福布斯名人榜 "wikilink")》，Girl's
-    Day全國排名第26，女團中排名第4。這是Girl's Day出道4年後首次榮登福布斯名人榜。\[6\]。
-  - 7月，Girl's Day發行迷你專輯《Everday IV - Summer
-    Party》，主打歌《Darling》以可愛風格一改半年前《Something》給人留下性感的印象，在音樂節目拿下3個一位。《Darling》在2015[Gaon
-    Chart年榜全國排行](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")：數字\#25，下載\#28。\[7\]
+  - 1月，Girl's Day發行迷你專輯《Everday III - Something》，主打歌《Something》以性感撩人的舞蹈大受歡迎，吸引一眾男團女團的模仿，更拿下音樂節目6個一位。《Something》在2015[Gaon Chart年榜全國排行](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")：數字\#21，下載\#10，試聽\#9。\[5\]
+  - 2月，財經雜誌[福布斯](../Page/福布斯.md "wikilink")公佈2014年度《[韓國福布斯名人榜](https://zh.wikipedia.org/wiki/韓國福布斯名人榜 "wikilink")》，Girl's Day全國排名第26，女團中排名第4。這是Girl's Day出道4年後首次榮登福布斯名人榜。\[6\]。
+  - 7月，Girl's Day發行迷你專輯《Everday IV - Summer Party》，主打歌《Darling》以可愛風格一改半年前《Something》給人留下性感的印象，在音樂節目拿下3個一位。《Darling》在2015[Gaon Chart年榜全國排行](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")：數字\#25，下載\#28。\[7\]
   - 8月，惠利出演MBC綜藝節目《[真正的男人](../Page/真正的男人.md "wikilink")》女兵特輯，在節目中以可愛的撒嬌風靡全國，人氣激增，接下了許多廣告代言，因此也被稱作「國民撒嬌女」。\[8\]
-  - 8月，珉雅出演SBS綜藝節目《Eco
-    Village－開心的家》，並考取了挖掘機證，成為韓國第一位能操作挖掘機的女偶像，同時也有“最會用錘子的女偶像”稱號。\[9\]
-  - 12月，Girl's
-    Day出席2014《[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")》頒獎典禮，憑藉《Something》奪得《最佳女團舞蹈大獎》，同時也入圍了《最佳女團大獎》。\[10\]
+  - 8月，珉雅出演SBS綜藝節目《Eco Village－開心的家》，並考取了挖掘機證，成為韓國第一位能操作挖掘機的女偶像，同時也有“最會用錘子的女偶像”稱號。\[9\]
+  - 12月，Girl's Day出席2014《[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")》頒獎典禮，憑藉《Something》奪得《最佳女團舞蹈大獎》，同時也入圍了《最佳女團大獎》。\[10\]
 
 ### 2015
 
-  - 1月，Girl's
-    Day出席《[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")》和《[首爾音樂獎](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")》，獲得了本賞以及音源本賞大獎。
+  - 1月，Girl's Day出席《[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")》和《[首爾音樂獎](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")》，獲得了本賞以及音源本賞大獎。
   - 2月，財經雜誌福布斯公佈2015年度《韓國福布斯名人榜》，Girl's Day全國排名第13，女團中排名第3。\[11\]
-  - 3月，珉雅以個人身份正式出道推出單曲《I am a Woman
-    too》，在[MBC音樂節目](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show
-    Champion](../Page/Show_Champion.md "wikilink")》拿下初一位。《I am a Woman
-    too》在2015年[Gaon
-    Chart年榜全國排行](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")：專輯銷售\#91，為女偶像獨唱第3，排在[太妍](../Page/太妍.md "wikilink")、[IU之後](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")。\[12\]
-  - 7月，正規二輯《LOVE》正式發行，主打歌《Ring My Bell》在音樂節目沒有獲得一位。《Ring My
-    Bell》在2015年[Gaon
-    Chart年榜全國排行](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")：數位\#75，下載\#69，試聽\#87，專輯銷售\#64。\[13\]
-  - 7月，Girl's Day確定與所屬經紀公司Dream Tea
-    Entertainment提前延長合約兩年，合約期限至2019年。\[14\]
+  - 3月，珉雅以個人身份正式出道推出單曲《I am a Woman too》，在[MBC音樂節目](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》拿下初一位。《I am a Woman too》在2015年[Gaon Chart年榜全國排行](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")：專輯銷售\#91，為女偶像獨唱第3，排在[太妍](../Page/太妍.md "wikilink")、[IU之後](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")。\[12\]
+  - 7月，正規二輯《LOVE》正式發行，主打歌《Ring My Bell》在音樂節目沒有獲得一位。《Ring My Bell》在2015年[Gaon Chart年榜全國排行](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")：數位\#75，下載\#69，試聽\#87，專輯銷售\#64。\[13\]
+  - 7月，Girl's Day確定與所屬經紀公司Dream Tea Entertainment提前延長合約兩年，合約期限至2019年。\[14\]
   - 9月，Girl's Day正式在日本出道，推出首張日文單曲《Darling》。\[15\]
   - 11月，Girl's Day在臺北舉行粉絲見面會，這是Girl's Day除日本之外的海外首場粉絲見面會。\[16\]
   - 11月，惠利宣佈擔任tvN《[請回答1988](../Page/請回答1988.md "wikilink")》女主角，該劇於11月6日首播。消息公開受到許多觀眾的質疑。但該劇播出後，觀眾對惠利的演技由批評轉向讚揚。該劇也以超高收視打破了一系列記錄：韓國收費台首集最高收視（6.1%），最高平均收視（12.4%），單集最高收視（18.8%），網路單集最高收視（91.8%）。惠利也因該劇人氣再度飆升，接下許多廣告代言，繼[秀智後被封為百億少女](https://zh.wikipedia.org/wiki/裴秀智 "wikilink")。\[17\]\[18\]
 
 ### 2016
 
-  - 2月，財經雜誌福布斯公布2016年度《韓國福布斯名人榜》，惠利以個人身份排名第3，為全韓國所有女藝人榜首。Girl's
-    Day則排名第26，女團排名第3。\[19\]
-  - 2月，Yura搭檔[金玟廷主持Olive](../Page/金玟廷.md "wikilink")
-    TV美食綜藝節目《[滋味行2016](https://zh.wikipedia.org/wiki/滋味行2016 "wikilink")》。\[20\]
+  - 2月，財經雜誌福布斯公布2016年度《韓國福布斯名人榜》，惠利以個人身份排名第3，為全韓國所有女藝人榜首。Girl's Day則排名第26，女團排名第3。\[19\]
+  - 2月，Yura搭檔[金玟廷](../Page/金玟廷.md "wikilink")主持Olive TV美食綜藝節目《[滋味行2016](https://zh.wikipedia.org/wiki/滋味行2016 "wikilink")》。\[20\]
   - 3月，珉雅搭档播音员江昇华主持[KBS教育性節目](https://zh.wikipedia.org/wiki/KBS "wikilink")《你好，我们的语言》。
-  - 4月，惠利搭檔[池晟主演SBS水木劇](../Page/池晟.md "wikilink")《[戲子](https://zh.wikipedia.org/wiki/戲子 "wikilink")》。這是惠利繼《請回答1988》之後第二次擔任電視劇女主角，也是第一次擔任韓國三大電視台電視劇女主角。\[21\]
-  - 4月，素珍搭檔[李天熙等主持tvN綜藝節目](../Page/李天熙.md "wikilink")《Let美home》。
-  - 5月，珉雅搭檔[南宫民主演SBS周末劇](https://zh.wikipedia.org/wiki/南宫民 "wikilink")《[美女孔心](../Page/美女孔心.md "wikilink")》。这是珉雅繼主演電影《HOLLY》之后，首次擔任韓國三大電視台電視劇女主角。\[22\]
-    珉雅並演唱《美女孔心》的OST《My First Kiss》。\[23\]
+  - 4月，惠利搭檔[池晟](../Page/池晟.md "wikilink")主演SBS水木劇《[戲子](https://zh.wikipedia.org/wiki/戲子 "wikilink")》。這是惠利繼《請回答1988》之後第二次擔任電視劇女主角，也是第一次擔任韓國三大電視台電視劇女主角。\[21\]
+  - 4月，素珍搭檔[李天熙](../Page/李天熙.md "wikilink")等主持tvN綜藝節目《Let美home》。
+  - 5月，珉雅搭檔[南宫民主演SBS周末劇](https://zh.wikipedia.org/wiki/南宫民 "wikilink")《[美女孔心](../Page/美女孔心.md "wikilink")》。这是珉雅繼主演電影《HOLLY》之后，首次擔任韓國三大電視台電視劇女主角。\[22\] 珉雅並演唱《美女孔心》的OST《My First Kiss》。\[23\]
   - 7月，Yura以固定成员身份加入tvN綜藝節目《演戏结束之后》。\[24\]
   - 7月，素珍以固定成员身份加入CGV电影频道綜藝節目《我也是电影导演》。\[25\]
   - 9月，惠利辭演《Picnic》，並表示集中精力在Girl's Day回歸新專輯中。\[26\]
   - 10月，根據歌壇相關人士透露，Girl's Day 計畫最早於 11 月回歸歌壇，因此最近正在全力準備新專輯。\[27\]
-  - 11月，根據《OSEN》報導，有相關人士透露，原預計在12月底前回歸的女團Girl's
-    Day，回歸時間將延後至明年初。據悉原因是雖然四位成員都已結束個人工作並投入於新專輯製作之中，但還沒找到滿意的收錄歌曲，將會依據適合的歌曲規劃專輯及之後的回歸行程，也未確定此次新專輯會是正規專輯或是迷你專輯。\[28\]
-  - 12月，多位歌謠界相關人士透露，Girl's
-    Day正在以發行新專輯為目標，進行最後的準備。所屬社DreamT娛樂方面表示為了提高專輯的完整度，Girl's
-    Day成員們盡可能減少綜藝和演技等個人活動，全都致力於新曲的工作。\[29\]
+  - 11月，根據《OSEN》報導，有相關人士透露，原預計在12月底前回歸的女團Girl's Day，回歸時間將延後至明年初。據悉原因是雖然四位成員都已結束個人工作並投入於新專輯製作之中，但還沒找到滿意的收錄歌曲，將會依據適合的歌曲規劃專輯及之後的回歸行程，也未確定此次新專輯會是正規專輯或是迷你專輯。\[28\]
+  - 12月，多位歌謠界相關人士透露，Girl's Day正在以發行新專輯為目標，進行最後的準備。所屬社DreamT娛樂方面表示為了提高專輯的完整度，Girl's Day成員們盡可能減少綜藝和演技等個人活動，全都致力於新曲的工作。\[29\]
 
 ### 2017
 
   - 1月，Girl's Day於24日透露，為了呈現完成度更高的歌曲，她們至今仍在製作新專輯。\[30\]
   - 2月，Girl's Day透露有望於3月末或4月初攜新專輯正式回歸，引發粉絲們的強烈期待。\[31\]
-  - 3月3日，經過數次延後，DreamT娛樂宣佈Girl's
-    Day三月底發佈新迷你專輯，並已經在一月底完成主打歌的錄製，MV將在3月第二周開拍。\[32\]\[33\]
-  - 3月10日，DreamT娛樂表示，Girl's Day將攜迷你新輯於27日回歸。在正式回歸前，Girl's
-    Day將於本月12日至13日拍攝新曲MV，主打曲將是一首舞曲。\[34\]
-  - 3月，因為韓國女總統[朴槿惠的](../Page/朴槿惠.md "wikilink")[彈劾案通過](../Page/朴槿惠弹劾案.md "wikilink")，Girl's
-    Day在四年前（2013年）推出的歌曲《女總統》竄升至音源榜一位，意外反應了社會現象，掀起另類話題。\[35\]
-  - 3月13日，經紀公司透露：「Girl's Day
-    將出演[JTBC綜藝節目](../Page/JTBC.md "wikilink")《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》和《[請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")》。《認識的哥哥》預定於18日進行錄製，並可能在25日播出；《請給一頓飯》則預定於三月中錄製。」\[36\]
-  - 3月17日，DreamT娛樂透過 Girl's Day官方推特公開第五張迷你專輯《Girl's Day EVERYDAY
-    \#5》的回歸行程表。\[37\]
+  - 3月3日，經過數次延後，DreamT娛樂宣佈Girl's Day三月底發佈新迷你專輯，並已經在一月底完成主打歌的錄製，MV將在3月第二周開拍。\[32\]\[33\]
+  - 3月10日，DreamT娛樂表示，Girl's Day將攜迷你新輯於27日回歸。在正式回歸前，Girl's Day將於本月12日至13日拍攝新曲MV，主打曲將是一首舞曲。\[34\]
+  - 3月，因為韓國女總統[朴槿惠](../Page/朴槿惠.md "wikilink")的[彈劾案通過](../Page/朴槿惠弹劾案.md "wikilink")，Girl's Day在四年前（2013年）推出的歌曲《女總統》竄升至音源榜一位，意外反應了社會現象，掀起另類話題。\[35\]
+  - 3月13日，經紀公司透露：「Girl's Day 將出演[JTBC](../Page/JTBC.md "wikilink")綜藝節目《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》和《[請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")》。《認識的哥哥》預定於18日進行錄製，並可能在25日播出；《請給一頓飯》則預定於三月中錄製。」\[36\]
+  - 3月17日，DreamT娛樂透過 Girl's Day官方推特公開第五張迷你專輯《Girl's Day EVERYDAY \#5》的回歸行程表。\[37\]
   - 3月20日，Girl's Day在官方SNS 公開了珉雅與惠利的專輯預告畫報。\[38\]
   - 3月27日，時隔20個月，Girl's Day終於以《I'll Be Yours》迷你專輯回歸。\[39\]
   - 4月4日，《I'll Be Yours》在音樂節目《The Show》取得一位。\[40\]
@@ -163,13 +107,10 @@ Yours》回歸。
 ### 2019
 
   - 1月11日，DreamT娛樂宣佈全員與DreamT娛樂的專屬合約在2月結束後不續約，但不會退出Girl's Day及組合不會解散。
-  - 3月19日，素珍與[Noon
-    Company簽約](https://zh.wikipedia.org/wiki/Noon_Company "wikilink")。
+  - 3月19日，素珍與[Noon Company簽約](https://zh.wikipedia.org/wiki/Noon_Company "wikilink")。
   - 3月20日，Yura與[Awesome娛樂簽約](https://zh.wikipedia.org/wiki/Awesome娛樂 "wikilink")。
-  - 3月29日，珉雅與[Yooborn
-    Company簽約](https://zh.wikipedia.org/wiki/Yooborn_Company "wikilink")。
-  - 4月24日，惠利與[Creative Group
-    ING簽約](https://zh.wikipedia.org/wiki/Creative_Group_ING "wikilink")。
+  - 3月29日，珉雅與[Yooborn Company簽約](https://zh.wikipedia.org/wiki/Yooborn_Company "wikilink")。
+  - 4月24日，惠利與[Creative Group ING簽約](https://zh.wikipedia.org/wiki/Creative_Group_ING "wikilink")。
 
 ## 成員列表
 
@@ -190,10 +131,7 @@ Yours》回歸。
 
 ### 成員變遷表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2010 till:2018 TimeAxis =
-orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2010 till:2018 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -896,7 +834,7 @@ PlotData =
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/搜狐.md" title="wikilink">搜狐視頻</a></p></td>
+<td><p><a href="../Page/搜狐.md" title="wikilink">搜狐</a>視頻</p></td>
 <td><p>《秘密天使》</p></td>
 <td><p>金亞瑩</p></td>
 <td><p>宥彬</p></td>
@@ -1067,13 +1005,13 @@ PlotData =
 <td><p>全集</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><p>《<a href="../Page/絕對達令_(韓國電視劇).md" title="wikilink">絕對達令</a>》</p></td>
+<td><p>2019年</p></td>
+<td><p>SBS</p></td>
+<td><p>《<a href="../Page/絕對達令_(韓國電視劇).md" title="wikilink">絕對達令》 (韓國電視劇)</a></p></td>
 <td><p>方珉雅</p></td>
-<td></td>
+<td><p>嚴多多</p></td>
 <td><p>主角</p></td>
-<td></td>
-<td></td>
+<td><p>全集</p></td>
 </tr>
 </tbody>
 </table>
@@ -1924,24 +1862,17 @@ PlotData =
 
   - （日本）
 
-  - [Girl's
-    Day](http://cafe.daum.net/Girlsday5)在[Daum](https://zh.wikipedia.org/wiki/Daum "wikilink")
-    Cafe的頁面
+  - [Girl's Day](http://cafe.daum.net/Girlsday5)在[Daum](https://zh.wikipedia.org/wiki/Daum "wikilink") Cafe的頁面
 
   -
   -
-[Category:Girl's_Day](https://zh.wikipedia.org/wiki/Category:Girl's_Day "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
+[Category:Girl's_Day](https://zh.wikipedia.org/wiki/Category:Girl's_Day "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
 
 1.
 
-2.  Girl's
-    Day打破7年魔咒　與原東家續約[1](http://www.nownews.com/n/2017/03/31/2464748)
+2.  Girl's Day打破7年魔咒　與原東家續約[1](http://www.nownews.com/n/2017/03/31/2464748)
 
-3.   娛樂圈 {{\!}} 妞新聞 niusnews|newspaper=妞新聞
-    niusnews|accessdate=2016-10-13}}
+3.   娛樂圈 {{\!}} 妞新聞 niusnews|newspaper=妞新聞 niusnews|accessdate=2016-10-13}}
 
 4.
 
@@ -1978,14 +1909,11 @@ PlotData =
 
 22.
 
-23. [出演又出聲！Girl’s
-    Day珉雅親自演繹《美女孔心》OST！](http://www.vlovekpop.com/20160523-ost/)
-    vlovekpop
+23. [出演又出聲！Girl’s Day珉雅親自演繹《美女孔心》OST！](http://www.vlovekpop.com/20160523-ost/) vlovekpop
 
 24.
 
-25. \[<http://seoulsunday.com/news/48767-Girl%26%23039%3Bs+Day+素珍，為拍攝「我也是電影導演」出國>..體驗電影全過程
-    Girl's Day 素珍，為拍攝「我也是電影導演」出國..體驗電影全過程 - SeoulSunday.com\]
+25. \[<http://seoulsunday.com/news/48767-Girl%26%23039%3Bs+Day+素珍，為拍攝「我也是電影導演」出國>..體驗電影全過程 Girl's Day 素珍，為拍攝「我也是電影導演」出國..體驗電影全過程 - SeoulSunday.com\]
 
 26.
 
@@ -2001,9 +1929,7 @@ PlotData =
 
 32.
 
-33. [Girl’s Day 回歸見曙光！主打曲錄製完成
-    計劃3月末回歸](http://www.vlovekpop.com/20170306-gsd/)
-    vlovekpop
+33. [Girl’s Day 回歸見曙光！主打曲錄製完成 計劃3月末回歸](http://www.vlovekpop.com/20170306-gsd/) vlovekpop
 
 34.
 
@@ -2024,5 +1950,4 @@ PlotData =
 42.
 
 43.
-44. [2014 B T R 3월 대공개 : 네이버 블로그](http://btr2014.blog.me/10187456312).
-    Naver Blog
+44. [2014 B T R 3월 대공개 : 네이버 블로그](http://btr2014.blog.me/10187456312). Naver Blog

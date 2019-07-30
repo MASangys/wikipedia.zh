@@ -1,19 +1,16 @@
-《**Dream High
-2**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2012年1月30日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")，2011年大熱作品《-{[Dream
-High](https://zh.wikipedia.org/wiki/Dream_High "wikilink")}-》的第二部。由[姜素拉](../Page/姜素拉.md "wikilink")、[朴敘俊](../Page/朴敘俊.md "wikilink")、[珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（[2AM](../Page/2AM.md "wikilink")）、[JB](../Page/林在範.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[芝妍](../Page/朴芝妍.md "wikilink")（[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")）、[珍榮](../Page/朴珍榮.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）、[Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")、[朴軫永](../Page/朴軫永.md "wikilink")\[1\]、[朴嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")（[After
-School](../Page/After_School.md "wikilink")）\[2\] 主演。\[3\] \[4\]
+《**Dream High 2**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2012年1月30日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")，2011年大熱作品《-{[Dream High](https://zh.wikipedia.org/wiki/Dream_High "wikilink")}-》的第二部。由[姜素拉](../Page/姜素拉.md "wikilink")、[朴敘俊](../Page/朴敘俊.md "wikilink")、[珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（[2AM](../Page/2AM.md "wikilink")）、[JB](../Page/林在範.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[芝妍](../Page/朴芝妍.md "wikilink")（[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")）、[珍榮](../Page/朴珍榮.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）、[Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")、[朴軫永](../Page/朴軫永.md "wikilink")\[1\]、[朴嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")（[After School](../Page/After_School.md "wikilink")）\[2\] 主演。\[3\] \[4\]
 
 ## 演員陣容
 
 ### 主要角色
 
-<table style="width:80%;">
+<table>
 <colgroup>
-<col style="width: 8%" />
-<col style="width: 8%" />
-<col style="width: 48%" />
-<col style="width: 8%" />
-<col style="width: 8%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 60%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -215,26 +212,11 @@ School](../Page/After_School.md "wikilink")）\[2\] 主演。\[3\] \[4\]
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/dreamhigh2)
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/dreamhigh2)
 
-[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink")
-[Category:藝術學校背景作品](https://zh.wikipedia.org/wiki/Category:藝術學校背景作品 "wikilink")
-[Category:歌舞電視劇](https://zh.wikipedia.org/wiki/Category:歌舞電視劇 "wikilink")
-[Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink")
-[Category:韓國偶像劇](https://zh.wikipedia.org/wiki/Category:韓國偶像劇 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
+[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink") [Category:藝術學校背景作品](https://zh.wikipedia.org/wiki/Category:藝術學校背景作品 "wikilink") [Category:歌舞電視劇](https://zh.wikipedia.org/wiki/Category:歌舞電視劇 "wikilink") [Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink") [Category:韓國偶像劇](https://zh.wikipedia.org/wiki/Category:韓國偶像劇 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
 
 1.  [朴振英將出演 -{Dream High 2}-](http://kpopn.com/2011/11/26/93859/)
-2.  [嘉熙《-{Dream
-    High 2}-》確定出演，變身演員會成功嗎？](http://www.yinyuetai.com/fanclub/topic-detail/100990)
-3.  [姜素拉-珍雲-孝琳-芝妍，“Dream
-    High 2”主演確定](http://kpoppark.com/201112/0610275029392.html)
-
-4.  [姜素拉-珍雲-芝妍-孝琳,聯手打造\< -{DREAM HIGH2}-
-    \>](http://www.facebook.com/#!/notes/k-pop-%E6%B5%81%E8%A1%8C%E9%9F%93%E8%AA%9E%E9%9F%B3%E6%A8%82/%E5%A7%9C%E7%B4%A0%E6%8B%89-%E9%8E%AE%E9%9B%B2-%E6%99%BA%E5%A6%8D-%E5%AD%9D%E7%90%B3%E8%81%AF%E6%89%8B%E6%89%93%E9%80%A0-dream-high2-/314859531871657)
+2.  [嘉熙《-{Dream High 2}-》確定出演，變身演員會成功嗎？](http://www.yinyuetai.com/fanclub/topic-detail/100990)
+3.  [姜素拉-珍雲-孝琳-芝妍，“Dream High 2”主演確定](http://kpoppark.com/201112/0610275029392.html)
+4.  [姜素拉-珍雲-芝妍-孝琳,聯手打造\< -{DREAM HIGH2}- \>](http://www.facebook.com/#!/notes/k-pop-%E6%B5%81%E8%A1%8C%E9%9F%93%E8%AA%9E%E9%9F%B3%E6%A8%82/%E5%A7%9C%E7%B4%A0%E6%8B%89-%E9%8E%AE%E9%9B%B2-%E6%99%BA%E5%A6%8D-%E5%AD%9D%E7%90%B3%E8%81%AF%E6%89%8B%E6%89%93%E9%80%A0-dream-high2-/314859531871657)
 5.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 6.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

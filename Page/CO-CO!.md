@@ -1,14 +1,12 @@
 《**CO-CO\!**》是香港出版社[正文社](../Page/正文社.md "wikilink")出版的雙週刊[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，於1997年2月22日創刊。主要連載[日本和](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")[香港漫畫](../Page/香港漫畫.md "wikilink")，亦提供遊戲和玩具的新聞信息。《**CO-CO\!**》更曾創下銷量高達八萬冊之歷史紀錄，至今，雖然面對同業競爭，仍是全港銷量最高及最受歡迎之漫畫雜誌。
 
-1998年推出月刊形式的《別冊Co-Co\!》，同樣連載熱門的日本和香港漫畫。後來在1999年首次推出分刊號，名為《[Super
-Co-Co\!](https://zh.wikipedia.org/wiki/Super_Co-Co! "wikilink")》，雙週連載。因此高峰期每週都可買到《**CO-CO\!**》，吸引大量讀者。
+1998年推出月刊形式的《別冊Co-Co\!》，同樣連載熱門的日本和香港漫畫。後來在1999年首次推出分刊號，名為《[Super Co-Co\!](https://zh.wikipedia.org/wiki/Super_Co-Co! "wikilink")》，雙週連載。因此高峰期每週都可買到《**CO-CO\!**》，吸引大量讀者。
 
 此外，在2004年，《CO-CO\!》成功開招海外市場，授權出版《CO-CO\!》新加坡版，至今亦是全新加坡最受歡迎的漫畫雜誌。
 
 多年來，《CO-CO\!》與其他傳媒及公司合作，舉辦各式各樣的比賽，讓讀者參加，由九七年起的「四驅車」比賽，接著的「搖搖」比賽，「彈珠人」比賽，「數碼暴龍對戰機」比賽，「召喚王遊戲對戰咭」比賽，均在香港掀起一片熱潮。
 
-《Super
-Co-Co\!》其後在2006年改名為《[爆笑Co-Co\!](https://zh.wikipedia.org/wiki/爆笑Co-Co! "wikilink")》，在推出13期後休刊。近年來，Co-Co\!的香港漫畫的漫畫家主力為[姜智傑](https://zh.wikipedia.org/wiki/姜智傑 "wikilink")、[力奇](https://zh.wikipedia.org/wiki/力奇 "wikilink")、[方米高](https://zh.wikipedia.org/wiki/方米高 "wikilink")、[溫世勤](https://zh.wikipedia.org/wiki/溫世勤 "wikilink")、[童亦名數位](https://zh.wikipedia.org/wiki/童亦名 "wikilink")。
+《Super Co-Co\!》其後在2006年改名為《[爆笑Co-Co\!](https://zh.wikipedia.org/wiki/爆笑Co-Co! "wikilink")》，在推出13期後休刊。近年來，Co-Co\!的香港漫畫的漫畫家主力為[姜智傑](https://zh.wikipedia.org/wiki/姜智傑 "wikilink")、[力奇](https://zh.wikipedia.org/wiki/力奇 "wikilink")、[方米高](https://zh.wikipedia.org/wiki/方米高 "wikilink")、[溫世勤](https://zh.wikipedia.org/wiki/溫世勤 "wikilink")、[童亦名數位](https://zh.wikipedia.org/wiki/童亦名 "wikilink")。
 
 「CO-CO\!」名字的意思為**Co**mmunicate（溝通）和**Co**operation（合作），所刊載的毎個故事都提倡努力、友愛、親情，重視與人彼此之間的溝通和合作\[1\]。
 
@@ -54,11 +52,9 @@ Co-Co\!》其後在2006年改名為《[爆笑Co-Co\!](https://zh.wikipedia.org/w
   - [激鬥！數碼暴龍](https://zh.wikipedia.org/wiki/数码宝贝系列 "wikilink")
   - [微星小超人](https://zh.wikipedia.org/wiki/微星小超人 "wikilink")
   - [機動新世紀高達 X](https://zh.wikipedia.org/wiki/機動新世紀高達_X "wikilink")
-  - [機動戰士高達
-    馬沙之反擊](https://zh.wikipedia.org/wiki/機動戰士高達_馬沙之反擊 "wikilink")
+  - [機動戰士高達 馬沙之反擊](https://zh.wikipedia.org/wiki/機動戰士高達_馬沙之反擊 "wikilink")
   - 機動新世紀高達X　外傳
-  - [SD高達 G
-    Generation](https://zh.wikipedia.org/wiki/SD高達_G_Generation "wikilink")
+  - [SD高達 G Generation](https://zh.wikipedia.org/wiki/SD高達_G_Generation "wikilink")
   - [拳皇R2](https://zh.wikipedia.org/wiki/拳皇R2 "wikilink")
   - [餓狼傳說爆笑四格](https://zh.wikipedia.org/wiki/餓狼傳說爆笑四格 "wikilink")
   - [∀高達](https://zh.wikipedia.org/wiki/∀高達 "wikilink")
@@ -75,11 +71,9 @@ Co-Co\!》其後在2006年改名為《[爆笑Co-Co\!](https://zh.wikipedia.org/w
   - [爆笑傻龍](https://zh.wikipedia.org/wiki/爆笑傻龍 "wikilink")
   - [大西遊](https://zh.wikipedia.org/wiki/大西遊 "wikilink")
   - 拳皇R2 番外篇
-  - [格鬥料理傳說](https://zh.wikipedia.org/wiki/格鬥料理傳說 "wikilink") Bistro
-    Recipe
+  - [格鬥料理傳說](https://zh.wikipedia.org/wiki/格鬥料理傳說 "wikilink") Bistro Recipe
   - Metal Fighter [機械奇兵](https://zh.wikipedia.org/wiki/機械奇兵 "wikilink")
-  - [機動戰士高達外傳](https://zh.wikipedia.org/wiki/機動戰士高達外傳 "wikilink")
-    於殖民地墮落處
+  - [機動戰士高達外傳](https://zh.wikipedia.org/wiki/機動戰士高達外傳 "wikilink") 於殖民地墮落處
 
 <!-- end list -->
 
@@ -165,14 +159,12 @@ Co-Co\!》其後在2006年改名為《[爆笑Co-Co\!](https://zh.wikipedia.org/w
 
   - [魔彈戰記龍劍王](https://zh.wikipedia.org/wiki/魔彈戰記龍劍王 "wikilink")
   - [怪傑佐羅力](https://zh.wikipedia.org/wiki/怪傑佐羅力 "wikilink")
-  - [Jump & Shoot
-    爆烈籃球王](https://zh.wikipedia.org/wiki/Jump_&_Shoot_爆烈籃球王 "wikilink")
+  - [Jump & Shoot 爆烈籃球王](https://zh.wikipedia.org/wiki/Jump_&_Shoot_爆烈籃球王 "wikilink")
   - BB戰士三國傳 英雄激突篇
   - [數碼暴龍拯救隊](https://zh.wikipedia.org/wiki/數碼暴龍拯救隊 "wikilink")
   - [機動戰士高達00](https://zh.wikipedia.org/wiki/機動戰士高達00 "wikilink")
   - [森巴Family](https://zh.wikipedia.org/wiki/森巴Family "wikilink")
-  - [King of Warrior
-    EX](https://zh.wikipedia.org/wiki/King_of_Warrior_EX "wikilink")
+  - [King of Warrior EX](https://zh.wikipedia.org/wiki/King_of_Warrior_EX "wikilink")
   - [武者Keroro軍曹](https://zh.wikipedia.org/wiki/武者Keroro軍曹 "wikilink")
 
 <!-- end list -->
@@ -185,8 +177,7 @@ Co-Co\!》其後在2006年改名為《[爆笑Co-Co\!](https://zh.wikipedia.org/w
   - 機動戰士高達00 First Season
   - [捉鬼對戰機](https://zh.wikipedia.org/wiki/捉鬼對戰機 "wikilink")
   - [BB戰士三國傳](../Page/BB戰士三國傳.md "wikilink") 戰神決鬥篇
-  - [Go for
-    Speed](https://zh.wikipedia.org/wiki/Go_for_Speed "wikilink")
+  - [Go for Speed](https://zh.wikipedia.org/wiki/Go_for_Speed "wikilink")
 
 <!-- end list -->
 
@@ -206,8 +197,7 @@ Co-Co\!》其後在2006年改名為《[爆笑Co-Co\!](https://zh.wikipedia.org/w
 
 <!-- end list -->
 
-  - [Angela
-    Panda](https://zh.wikipedia.org/wiki/Angela_Panda "wikilink")
+  - [Angela Panda](https://zh.wikipedia.org/wiki/Angela_Panda "wikilink")
   - [BattleSpirits少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")
   - [Jump\&Shoot](https://zh.wikipedia.org/wiki/Jump&Shoot "wikilink")
 
@@ -239,15 +229,13 @@ Co-Co\!》其後在2006年改名為《[爆笑Co-Co\!](https://zh.wikipedia.org/w
 
 ## 分刊
 
-  - [Super
-    Co-Co\!](https://zh.wikipedia.org/wiki/Super_Co-Co! "wikilink")
+  - [Super Co-Co\!](https://zh.wikipedia.org/wiki/Super_Co-Co! "wikilink")
   - [爆笑Co-Co\!](https://zh.wikipedia.org/wiki/爆笑Co-Co! "wikilink")
   - [別冊Co-Co\!](https://zh.wikipedia.org/wiki/別冊Co-Co! "wikilink")
 
 ## 參考資料
 
-[Category:香港漫畫雜誌](https://zh.wikipedia.org/wiki/Category:香港漫畫雜誌 "wikilink")
-[Category:2019年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2019年停刊的雜誌 "wikilink")
+[Category:香港漫畫雜誌](https://zh.wikipedia.org/wiki/Category:香港漫畫雜誌 "wikilink") [Category:2019年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2019年停刊的雜誌 "wikilink")
 
 1.  [正文社 公司簡介](http://www.rightman.net/aboutus.htm)
 2.

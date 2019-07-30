@@ -1,4 +1,4 @@
-《**假面騎士BLACK**》（原題：）為1987年（昭和62年）10月4日～1988年（昭和63年）10月9日期間，[每日放送製作](../Page/每日放送.md "wikilink")、[TBS電視網每週日上午](https://zh.wikipedia.org/wiki/TBS電視網 "wikilink")10:00～10:30播出的[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，全51集。本作為[假面騎士系列的第八部作品](../Page/假面騎士系列.md "wikilink")，另有系列作品原作者[石之森章太郎執筆的漫畫版](../Page/石之森章太郎.md "wikilink")。
+《**假面騎士BLACK**》（原題：）為1987年（昭和62年）10月4日～1988年（昭和63年）10月9日期間，[每日放送](../Page/每日放送.md "wikilink")製作、[TBS電視網每週日上午](https://zh.wikipedia.org/wiki/TBS電視網 "wikilink")10:00～10:30播出的[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，全51集。本作為[假面騎士系列](../Page/假面騎士系列.md "wikilink")的第八部作品，另有系列作品原作者[石之森章太郎](../Page/石之森章太郎.md "wikilink")執筆的漫畫版。
 
 此外，本劇為假面騎士系列在台灣播放的第一部作品。
 
@@ -6,9 +6,7 @@
 
 ## 故事大綱
 
-青年南光太郎在迎接19歲生日的當天，與同年同月同日生的兄弟秋月信彥一起遭到黑暗結社-{zh-hans:戈爾哥姆;zh-hk:哥魯干;zh-tw:戈爾哥姆;}-（）擄走，南光太郎
-及 秋月信彥
-成為-{zh-hans:戈爾哥姆;zh-hk:哥魯干;zh-tw:戈爾哥姆;}-認定的「下任創世王」候選者，於2人體內殖入了王者之石（），南光太郎被改造成世紀王「黑日」（），秋月信彥被改造成世紀王「影月」（）。
+青年南光太郎在迎接19歲生日的當天，與同年同月同日生的兄弟秋月信彥一起遭到黑暗結社-{zh-hans:戈爾哥姆;zh-hk:哥魯干;zh-tw:戈爾哥姆;}-（）擄走，南光太郎 及 秋月信彥 成為-{zh-hans:戈爾哥姆;zh-hk:哥魯干;zh-tw:戈爾哥姆;}-認定的「下任創世王」候選者，於2人體內殖入了王者之石（），南光太郎被改造成世紀王「黑日」（），秋月信彥被改造成世紀王「影月」（）。
 
 但在希望兩人仍保有人類記憶的信彥父親秋月總一郎教授闖入協助之下，光太郎在腦改造之前，利用了-{zh-hans:戈爾哥姆;zh-hk:哥魯干;zh-tw:戈爾哥姆;}-原本為世紀王準備的機車形態生命體「戰蝗」（）逃亡，但遭到-{zh-hans:戈爾哥姆;zh-hk:哥魯干;zh-tw:戈爾哥姆;}-三神官的追擊。在衝擊中，光太郎的身體開始出現了變化，且從異形的蝗蟲人逐漸變身為黑日。
 
@@ -40,24 +38,19 @@
 
 ### 黑日(Black sun)
 
-由南光太郎變身的假面騎士。原本是即將被改造為黑暗結社「{zh-hans:戈爾哥姆;zh-hk:哥魯干;zh-tw:戈爾哥姆;}」組織下任支配者，創世王候補人選世紀王「黑日」，所幸被清除記憶前得以逃脫，進而成為對抗邪惡的假面騎士BLACK。198.7
-cm／87 kg
+由南光太郎變身的假面騎士。原本是即將被改造為黑暗結社「{zh-hans:戈爾哥姆;zh-hk:哥魯干;zh-tw:戈爾哥姆;}」組織下任支配者，創世王候補人選世紀王「黑日」，所幸被清除記憶前得以逃脫，進而成為對抗邪惡的假面騎士BLACK。198.7 cm／87 kg
 
 光太郎在逃脫前身體被植入帝王石，這讓他得到變身的能力，它亦昰假面騎士BLACK的力量來源，當光太郎失去帝王石，他就會死去。
 
 ### 影月(Shadow moon)
 
-香港譯名為2號世紀王。由於復活的過程中屢遭麻煩，最後只得靠三神官「天」、「海」、「地」之石的力量結合，才順利於第35話誕生。
-從此成為與Black的朋友和宿命之敵。 因體內有帝王石﹙King Stone﹚名為--「月之石」，故成為創世王的繼承者。
-最終回中，由於受到蝗蟲機車的自爆攻擊而重傷，當BLACK趕進戈爾戈姆基地後與之決戰，black劃破了影月的帝王石，最後創世王被刺穿，基地倒塌之際，black來不及救出影月，而深埋於倒塌的基地中。197.4
-cm／90 kg
+香港譯名為2號世紀王。由於復活的過程中屢遭麻煩，最後只得靠三神官「天」、「海」、「地」之石的力量結合，才順利於第35話誕生。 從此成為與Black的朋友和宿命之敵。 因體內有帝王石﹙King Stone﹚名為--「月之石」，故成為創世王的繼承者。 最終回中，由於受到蝗蟲機車的自爆攻擊而重傷，當BLACK趕進戈爾戈姆基地後與之決戰，black劃破了影月的帝王石，最後創世王被刺穿，基地倒塌之際，black來不及救出影月，而深埋於倒塌的基地中。197.4 cm／90 kg
 
 ### 黑暗結社-{zh-hans:戈爾哥姆;zh-hk:哥魯干;zh-tw:戈爾哥姆;}-
 
   - 大神官達菲 (香港配音 : [黃子敬](../Page/黃子敬.md "wikilink"))
   - 大神官巴力 (香港配音 : [陳永信](../Page/陳永信.md "wikilink"))
-  - 大神官米施 (香港配音 :
-    [陶碧儀](https://zh.wikipedia.org/wiki/陶碧儀 "wikilink")-\>[黃小英](../Page/黃小英.md "wikilink"))
+  - 大神官米施 (香港配音 : [陶碧儀](https://zh.wikipedia.org/wiki/陶碧儀 "wikilink")-\>[黃小英](../Page/黃小英.md "wikilink"))
   - 黑松英臣 (香港配音 : [龔祖澤](../Page/龔祖澤.md "wikilink"))
   - 劍聖畢迪亞 (香港配音 : [陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink"))
   - 創世王 (香港譯名 :創世主 香港配音 : [龔祖澤](../Page/龔祖澤.md "wikilink"))
@@ -143,7 +136,7 @@ cm／90 kg
 
 ## 主題歌
 
-以往本系列作品的配樂均由[菊池俊輔擔任](../Page/菊池俊輔.md "wikilink")，但本作則成為系列中首度非菊池擔任的作品，另外片中配樂與主題歌均分別由不同人士作曲。主題歌由[宇崎龍童](../Page/宇崎龍童.md "wikilink")、[阿木燿子夫妻負責](../Page/阿木燿子.md "wikilink")，呈現出與以往特攝英雄劇歌曲不同的風貌。另外，與菊池並稱為兩大特攝配樂名家的[渡邊宙明](https://zh.wikipedia.org/wiki/渡邊宙明 "wikilink")，也因本作關係首度參與假面騎士系列，負責本作中一部份的插曲。
+以往本系列作品的配樂均由[菊池俊輔](../Page/菊池俊輔.md "wikilink")擔任，但本作則成為系列中首度非菊池擔任的作品，另外片中配樂與主題歌均分別由不同人士作曲。主題歌由[宇崎龍童](../Page/宇崎龍童.md "wikilink")、[阿木燿子](../Page/阿木燿子.md "wikilink")夫妻負責，呈現出與以往特攝英雄劇歌曲不同的風貌。另外，與菊池並稱為兩大特攝配樂名家的[渡邊宙明](https://zh.wikipedia.org/wiki/渡邊宙明 "wikilink")，也因本作關係首度參與假面騎士系列，負責本作中一部份的插曲。
 
   - **片頭曲：『』**
       - 作詞：阿木燿子、作曲：宇崎龍童、編曲：川村榮二、演唱：[倉田哲夫](https://zh.wikipedia.org/wiki/倉田哲夫 "wikilink")
@@ -160,20 +153,15 @@ cm／90 kg
 
 ### 台灣
 
-[衛視中文台](../Page/衛視中文台.md "wikilink")1996年12月至1997年12月播出本劇，並與隨後播出的《[假面騎士BLACK
-RX](../Page/假面騎士BLACK_RX.md "wikilink")》合稱《假面超人RX》。
+[衛視中文台](../Page/衛視中文台.md "wikilink")1996年12月至1997年12月播出本劇，並與隨後播出的《[假面騎士BLACK RX](../Page/假面騎士BLACK_RX.md "wikilink")》合稱《假面超人RX》。
 
 ### 香港
 
-在[香港](../Page/香港.md "wikilink")，本劇集在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台播放](../Page/本港台.md "wikilink")。首播日期為1990年7月2日至10月，當時的節目名稱為《-{幪面超人}-1990》，播放時間最初是於逢星期一至五晚上八時，約半小時，及後改為不固定。及後亞視在1991年7月1日至8月1日首播《假面騎士BLACK
-RX》並緊接在1991年8月2日至9月6日重播《假面騎士BLACK》，為首次及唯一一次重播，亞視當時將兩劇合稱《-{幪面超人}-1991》。\[1\]\[2\]
+在[香港](../Page/香港.md "wikilink")，本劇集在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")播放。首播日期為1990年7月2日至10月，當時的節目名稱為《-{幪面超人}-1990》，播放時間最初是於逢星期一至五晚上八時，約半小時，及後改為不固定。及後亞視在1991年7月1日至8月1日首播《假面騎士BLACK RX》並緊接在1991年8月2日至9月6日重播《假面騎士BLACK》，為首次及唯一一次重播，亞視當時將兩劇合稱《-{幪面超人}-1991》。\[1\]\[2\]
 
 ## 故事後續
 
-黑暗結社-{zh-hans:戈爾哥姆;zh-hk:哥魯干;zh-tw:戈爾哥姆;}-被Black打败半年後，光太郎后来被另一邪惡勢力-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-（Crisis
-Empire）抓走，并强迫为他们服务。光太郎拒绝了他们，因此破壞他原來的變身機能，被抛到[太阳裡](../Page/太阳.md "wikilink")。千钧一发之际，帝王石吸收太阳光线的能量，而使光太郎的被破壞的變身機能馬上復原，並成为新一代的假面骑士:
-太阳之子**[假面騎士BLACK
-RX](../Page/假面騎士BLACK_RX.md "wikilink")**。自此光太郎便与-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-战斗，保卫[地球](../Page/地球.md "wikilink")。
+黑暗結社-{zh-hans:戈爾哥姆;zh-hk:哥魯干;zh-tw:戈爾哥姆;}-被Black打败半年後，光太郎后来被另一邪惡勢力-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-（Crisis Empire）抓走，并强迫为他们服务。光太郎拒绝了他们，因此破壞他原來的變身機能，被抛到[太阳](../Page/太阳.md "wikilink")裡。千钧一发之际，帝王石吸收太阳光线的能量，而使光太郎的被破壞的變身機能馬上復原，並成为新一代的假面骑士: 太阳之子**[假面騎士BLACK RX](../Page/假面騎士BLACK_RX.md "wikilink")**。自此光太郎便与-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克萊西斯帝國;}-战斗，保卫[地球](../Page/地球.md "wikilink")。
 
 ## 註解
 
@@ -181,13 +169,7 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")**。自此光太郎便与-{zh-ha
 
 ## 外部連結
 
-[Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink")
-[Category:1987年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1987年日本電視劇集 "wikilink")
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
-[Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
+[Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink") [Category:1987年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1987年日本電視劇集 "wikilink") [Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
 
-1.  <http://www.oldcake.net/viewthread.php?tid=18231&extra=page%3D1>
-    1991年香港亞視出版的Black RX特刊照片集，足以證明亞視當年最初也將Black RX節目名稱譯為《-{幪面超人}-1991》
-2.  <https://www.youtube.com/watch?v=wvprnfWVN9o>
-    1991年香港亞視重播Black片段，證明亞視當年重Black時節目名稱改為《-{幪面超人}-1991》
+1.  <http://www.oldcake.net/viewthread.php?tid=18231&extra=page%3D1> 1991年香港亞視出版的Black RX特刊照片集，足以證明亞視當年最初也將Black RX節目名稱譯為《-{幪面超人}-1991》
+2.  <https://www.youtube.com/watch?v=wvprnfWVN9o> 1991年香港亞視重播Black片段，證明亞視當年重Black時節目名稱改為《-{幪面超人}-1991》
